@@ -1,0 +1,27 @@
+/* 🌙 Mode sombre par défaut */
+body {
+  background: #121212;
+  color: #f0f0f0;
+  transition: background 0.3s, color 0.3s;
+  font-family: Arial, sans-serif;
+}
+
+/* ☀️ Mode clair */
+body.light-mode {
+  background: #ffffff;
+  color: #000000;
+}
+
+/* Style du bouton */
+#theme-toggle {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  padding: 8px 12px;
+  cursor: pointer;
+  border: none;
+  border-radius: 8px;
+  background: #444;
+  color: white;
+  font-size: 14px;
+}
