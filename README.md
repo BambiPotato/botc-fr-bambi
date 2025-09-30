@@ -20,7 +20,7 @@ Un projet initié par **BambiPotato**, pensé pour une communauté inclusive �
 
 ## 🛠️ Outils & ressources
 - 🧩 [Tool officiel de création de scripts](https://script.bloodontheclocktower.com/)  
-- 📖 [Générateur d’informations du Savant](https://botc-savant-generator.vercel.app/)  
+- 📖 [Générateur d’informations du Savant](https://botc-savant-generator.vercel.app/](https://savant.thegrim.gg/)  
 - 🌍 [Wiki original (EN)](https://wiki.bloodontheclocktower.com/Main_Page)  
 
 ---
