@@ -5,3 +5,7 @@ plugins:
 title: "Wiki BotC FR"
 description: "Traductions, conseils et ressources pour Blood on the Clocktower"
 url: "https://bambipotato.github.io/botc-fr-bambi/"
+# Activer CSS et JS personnalisés
+include:
+  - assets/css/style.css
+  - assets/js/theme.js
