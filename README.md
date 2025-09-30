@@ -1,6 +1,4 @@
 ![Bannière BotC FR](images/banner.png)
-<link rel="stylesheet" href="assets/css/style.css">
-
 
 
 <!-- Bouton clair/sombre -->
