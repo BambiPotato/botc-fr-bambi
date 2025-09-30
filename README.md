@@ -1,5 +1,8 @@
 ![Bannière BotC FR](images/banner.png)
 
+<!-- Bouton pour changer le thème -->
+<button id="theme-toggle">🌙 Mode sombre</button>
+
 # 🎲 Wiki francophone de *Blood on the Clocktower* 🕰️
 
 Bienvenue sur le wiki francophone de **Blood on the Clocktower** !  
