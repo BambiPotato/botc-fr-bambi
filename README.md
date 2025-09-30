@@ -1,4 +1,4 @@
-![Bannière BotC FR](images/banner.png)
+![Bannière BotC FR](images/BotCFranceBannière.png)
 
 # BotC FR Wiki 🇫🇷
 
