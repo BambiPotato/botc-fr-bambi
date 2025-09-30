@@ -1,4 +1,7 @@
 ![Bannière BotC FR](images/banner.png)
+<img src="images/banner.png" alt="Bannière BotC FR" class="banner">
+<button id="theme-toggle">☀️ Mode clair</button>
+
 
 
 <!-- Bouton clair/sombre -->
