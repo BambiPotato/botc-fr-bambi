@@ -1,12 +1,13 @@
 ![Bannière BotC FR](images/banner.png)
 
-<!-- Bouton pour changer le thème -->
-<button id="theme-toggle">🌙 Mode sombre</button>
+<!-- Bouton clair/sombre -->
+<button id="theme-toggle">☀️ Mode clair</button>
+
 
 # 🎲 Wiki francophone de *Blood on the Clocktower* 🕰️
 
 Bienvenue sur le wiki francophone de **Blood on the Clocktower** !  
-Ce projet a pour but de proposer des **traductions fidèles**, des **conseils** et des **ressources** pour aider les communautés francophones à jouer dans un cadre **inclusif 🤝 et bienveillant.** 🫶🏻
+Ce projet a pour but de proposer des **traductions fidèles**, des **conseils** et des **ressources** pour aider les communautés francophones à jouer dans un cadre **inclusif 🤝 et bienveillant. ** 🫶🏻
 
 ---
 
