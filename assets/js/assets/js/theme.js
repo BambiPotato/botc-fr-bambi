@@ -1,20 +1,24 @@
-// 🌙 Mode sombre par défaut
-if (localStorage.getItem("theme") === "light") {
-  document.body.classList.add("light-mode");
-  document.getElementById("theme-toggle").textContent = "🌙 Mode sombre";
-} else {
-  document.getElementById("theme-toggle").textContent = "☀️ Mode clair";
-}
+document.addEventListener("DOMContentLoaded", () => {
+  const btn = document.getElementById("theme-toggle");
+  if (!btn) return;
 
-// Bascule au clic
-document.getElementById("theme-toggle").addEventListener("click", () => {
-  document.body.classList.toggle("light-mode");
-
-  if (document.body.classList.contains("light-mode")) {
-    localStorage.setItem("theme", "light");
-    document.getElementById("theme-toggle").textContent = "🌙 Mode sombre";
+  // 🌙 Sombre par défaut
+  if (localStorage.getItem("theme") === "light") {
+    document.body.classList.add("light-mode");
+    btn.textContent = "🌙 Mode sombre";
   } else {
-    localStorage.setItem("theme", "dark");
-    document.getElementById("theme-toggle").textContent = "☀️ Mode clair";
+    btn.textContent = "☀️ Mode clair";
   }
+
+  btn.addEventListener("click", () => {
+    document.body.classList.toggle("light-mode");
+
+    if (document.body.classList.contains("light-mode")) {
+      localStorage.setItem("theme", "light");
+      btn.textContent = "🌙 Mode sombre";
+    } else {
+      localStorage.setItem("theme", "dark");
+      btn.textContent = "☀️ Mode clair";
+    }
+  });
 });
