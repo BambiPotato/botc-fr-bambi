@@ -4,10 +4,6 @@
 
 
 
-<!-- Bouton clair/sombre -->
-<button id="theme-toggle">☀️ Mode clair</button>
-
-
 # 🎲 Wiki francophone de *Blood on the Clocktower* 🕰️
 
 Bienvenue sur le wiki francophone de **Blood on the Clocktower** !  
