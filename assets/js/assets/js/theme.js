@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const btn = document.getElementById("theme-toggle");
   if (!btn) return;
 
-  // 🌙 Sombre par défaut
+  // 🌙 Sombre par défaut. Si l'utilisateur avait choisi "clair", appliquez-le.
   if (localStorage.getItem("theme") === "light") {
     document.body.classList.add("light-mode");
     btn.textContent = "🌙 Mode sombre";
