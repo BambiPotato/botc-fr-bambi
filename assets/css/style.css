@@ -1,32 +1,50 @@
 /* 🌙 Mode sombre par défaut */
 body {
-  background: url("/botc-fr-bambi/images/banner.png") no-repeat center center fixed;
+  background: #121212 url('/botc-fr-bambi/images/banner.png') no-repeat center top fixed;
   background-size: cover;
   color: #f0f0f0;
   transition: background 0.3s, color 0.3s;
   font-family: Arial, sans-serif;
   line-height: 1.6;
+  position: relative;
+  z-index: 0;
+}
+
+/* Ajout du voile sombre par-dessus l’image */
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5); /* 🔹 ajustez l’opacité (0.3 plus clair, 0.7 plus sombre) */
+  z-index: -1;
 }
 
 /* ☀️ Mode clair */
 body.light-mode {
-  background: url("/botc-fr-bambi/images/banner.png") no-repeat center center fixed;
+  background: #ffffff url('/botc-fr-bambi/images/banner.png') no-repeat center top fixed;
   background-size: cover;
   color: #000000;
 }
 
-/* Images : s’adaptent à la largeur, gardent les proportions */
+body.light-mode::before {
+  background: rgba(255, 255, 255, 0.4); /* 🔹 voile clair pour rendre le texte lisible */
+}
+
+/* Images dans les pages */
 img {
   max-width: 100%;
   height: auto;
 }
 
-/* Bannière : occupe la largeur, coupe proprement si trop haute */
+/* Bannière simple si vous la réutilisez ailleurs */
 .banner {
   display: block;
   margin: 0 auto 16px;
   width: 100%;
-  max-height: 320px;       /* ajustez la hauteur si besoin */
+  max-height: 320px;
   object-fit: cover;
   border-radius: 8px;
 }
