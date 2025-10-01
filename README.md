@@ -3,9 +3,9 @@
 
 
 
-# 📚 Wiki Francophone 🇫🇷 de *Blood 🩸on the Clocktower* 🕰️
+# 📚 **Wiki Francophone** 🇫🇷 de *Blood 🩸on the Clocktower* 🕰️
 
-Bienvenue sur le wiki francophone de **Blood on the Clocktower** !  
+Bienvenue sur le **Wiki Francophone** de **Blood on the Clocktower** !  
 Ce projet a pour but de proposer des **traductions fidèles**, des **conseils** et des **ressources** pour aider les communautés francophones à jouer dans un cadre **inclusif 🤝 et bienveillant.** 🫶🏻
 
 ---
