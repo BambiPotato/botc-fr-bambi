@@ -1,4 +1,4 @@
-
+<div class="page-tb" markdown="1">
 
 # 🍺 Trouble Brewing
 
@@ -120,4 +120,4 @@ Recommandé pour les nouveaux joueurs, joueuses et Conteurs.
 ## 📂 Navigation  
 - 🔙 [Retour à la page d’accueil](README.md)  
 
-
+</div>
