@@ -13,7 +13,7 @@ Ce projet a pour but de proposer des **traductions fidèles**, des **conseils** 
 ---
 
 ## 📖Page principale
-Bienvenue sur la plus grande ressource unique sur Internet pour les informations, les conseils, les astuces, les secrets, les règles, les stratégies et les conseils sur Blood 🩸 On The Clocktower !
+Bienvenue sur le wiki francophone de Blood 🩸 on the Clocktower : toutes les règles, astuces et stratégies réunies au même endroit.
 ---
 
 *Rôles par édition*
