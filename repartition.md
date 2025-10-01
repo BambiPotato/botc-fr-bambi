@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="README.md">
+    <img src="images/logo.png" alt="Accueil BotC FR" width="120">
+  </a>
+</p>
+
 # ⚖️ Répartition du Village
 
 Selon le nombre de joueurs et joueuses, la composition des rôles change.
