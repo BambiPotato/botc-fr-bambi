@@ -8,6 +8,8 @@
 </p>
 
 # 📚Wiki Francophone 🇫🇷 de *Blood 🩸 on the Clocktower* 🕰️
+---
+
 
 Bienvenue sur le **Wiki Francophone** de **Blood on the Clocktower** !  
 Ce projet a pour but de proposer des **traductions fidèles**, des **conseils** et des **ressources** pour aider les communautés francophones à jouer dans un cadre **inclusif 🤝 et bienveillant.** 🫶🏻
@@ -18,7 +20,9 @@ Ce projet a pour but de proposer des **traductions fidèles**, des **conseils** 
 Bienvenue sur le wiki francophone de Blood 🩸 on the Clocktower : toutes les règles, astuces et stratégies réunies au même endroit.
 
 ## 📜 Règles du jeu
-- 👉 [Lire les règles complètes](regles.md)
+
+Vous débutez sur *Blood 🩸 on the Clocktower* ?  
+➡️ Consultez la page [**Règles complètes**](regles.md) pour découvrir l’univers, la mise en place et le déroulement du jeu.
 
 ---
 
