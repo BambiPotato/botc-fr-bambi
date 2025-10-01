@@ -2,7 +2,7 @@
 <button id="theme-toggle">☀️ Mode clair</button>
 
 <p align="center">
-  <img src="images/Icon_steward.png" alt="Steward" width="120">
+  <img src="images/logo.png" alt="Logo BotC FR" width="120">
 </p>
 
 # Wiki Francophone 🇫🇷 de *Blood 🩸 on the Clocktower* 🕰️
