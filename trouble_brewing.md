@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="README.md">
+    <img src="images/logo.png" alt="Accueil BotC FR" width="120">
+  </a>
+</p>
+
 <div class="page-tb" markdown="1">
 
 # 🍺 Trouble Brewing
