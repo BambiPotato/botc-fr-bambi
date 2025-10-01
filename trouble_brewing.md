@@ -1,3 +1,4 @@
+<body class="page-trouble-brewing">
 
 # 🍺 Trouble Brewing
 
@@ -119,3 +120,4 @@ Recommandé pour les nouveaux joueurs, joueuses et Conteurs.
 ## 📂 Navigation  
 - 🔙 [Retour à la page d’accueil](README.md)  
 
+</body>
