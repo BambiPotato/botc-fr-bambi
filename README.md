@@ -52,7 +52,9 @@ Rejoignez le Discord de **BambiBluePotato** pour jouer en ligne, partager de bon
 
 
 🌎 Qui sommes-nous ?
+
 Ce projet a été initié par **BambiPotato**, mais il vit grâce à l’implication de nombreuses joueuses et joueurs passionnés.
+
 Notre but est de partager *Blood on the Clocktower* en français et de le rendre accessible à toutes et à tous : que vous soyez débutant·e, joueur·se confirmé·e ou membre d’une nouvelle communauté, vous êtes les bienvenu·e·s.
 
 
