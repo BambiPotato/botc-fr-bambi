@@ -17,7 +17,7 @@
 - « Des taches de sang sur une veste de dîner ? Non, c’est du vin de cuisine. Quelle étourderie. »  
 
 Apparaît dans :  
-- ![Logo Trouble Brewing](../images/Logo_trouble_brewing.png)  
+  ![Logo Trouble Brewing](../images/Logo_trouble_brewing.png)  
 - *Cult of the Clocktower Episode* par Andrew Nathenson  
 
 ---
