@@ -22,8 +22,9 @@ Bienvenue sur le wiki francophone de Blood 🩸 on the Clocktower : toutes les r
 ## 📜 Règles du jeu
 
 Vous débutez sur *Blood 🩸 on the Clocktower* ?  
-➡️ Consultez la page [**Règles complètes**](regles.md) pour découvrir l’univers, la mise en place et le déroulement du jeu.
+- ➡️ Consultez la page [**Règles complètes**](regles.md) pour découvrir l’univers, la mise en place et le déroulement du jeu.
 
+- ⚖️ [Répartition du Village](repartition.md)  
 ---
 
 ## 📖 Glossaire  
