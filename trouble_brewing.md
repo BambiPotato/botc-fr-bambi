@@ -21,7 +21,7 @@ Celles et ceux qui savent lire les signes comprennent qu’il y a… **Trouble B
 ## 🎲 Gameplay  
 
 **Trouble Brewing** contient un peu de tout.  
-- Certains personnages reçoivent passivement des informations.  
+- Certains rôles reçoivent passivement des informations.  
 - D’autres doivent agir pour découvrir qui est qui.  
 - Quelques-uns cherchent simplement à attirer l’attaque du Démon.  
 
