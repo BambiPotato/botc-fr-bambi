@@ -1,7 +1,6 @@
 /* 🌙 Mode sombre par défaut */
 body {
-  background: url("/botc-fr-bambi/images/banner.png") no-repeat center center fixed;
-  background-size: cover;
+  background: #121212;
   color: #f0f0f0;
   transition: background 0.3s, color 0.3s;
   font-family: Arial, sans-serif;
@@ -10,37 +9,33 @@ body {
   z-index: 0;
 }
 
-/* ☀️ Mode clair */
-body.light-mode {
-  background: url("/botc-fr-bambi/images/banner.png") no-repeat center center fixed;
-  background-size: cover;
-  color: #000000;
-}
-
-/* ✅ Overlay pour lisibilité */
+/* Image de fond avec superposition */
 body::before {
   content: "";
   position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: rgba(0, 0, 0, 0.6); /* voile sombre à 60% */
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: url('../images/banner.png') no-repeat center center/cover;
+  opacity: 0.7; /* sombre : assombri pour lire facilement */
   z-index: -1;
 }
 
-/* En mode clair → voile plus léger */
-body.light-mode::before {
-  background: rgba(255, 255, 255, 0.4); /* voile blanc léger à 40% */
+/* ☀️ Mode clair */
+body.light-mode {
+  background: #ffffff;
+  color: #000000;
 }
 
-/* Images : s’adaptent à la largeur, gardent les proportions */
+body.light-mode::before {
+  opacity: 0.4; /* clair : un voile plus léger */
+}
+
+/* Images classiques */
 img {
   max-width: 100%;
   height: auto;
 }
 
-/* Bannière : occupe la largeur, coupe proprement si trop haute */
+/* Bannière */
 .banner {
   display: block;
   margin: 0 auto 16px;
