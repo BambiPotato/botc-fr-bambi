@@ -1,6 +1,7 @@
 /* 🌙 Mode sombre par défaut */
 body {
-  background: #121212;
+  background: url("/botc-fr-bambi/images/banner.png") no-repeat center center fixed;
+  background-size: cover;
   color: #f0f0f0;
   transition: background 0.3s, color 0.3s;
   font-family: Arial, sans-serif;
@@ -9,7 +10,8 @@ body {
 
 /* ☀️ Mode clair */
 body.light-mode {
-  background: #ffffff;
+  background: url("/botc-fr-bambi/images/banner.png") no-repeat center center fixed;
+  background-size: cover;
   color: #000000;
 }
 
@@ -43,4 +45,5 @@ img {
   font-size: 14px;
   z-index: 999;
 }
+
 
