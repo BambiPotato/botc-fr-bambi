@@ -1,7 +1,7 @@
 ![Bannière BotC FR](images/banner.png)
 <button id="theme-toggle">☀️ Mode clair</button>
 
-
+# 🕰️ Blood on the Clocktower - Wiki FR
 
 # 📚 **Wiki Francophone** 🇫🇷 de *Blood 🩸on the Clocktower* 🕰️
 
@@ -26,9 +26,10 @@ L’objectif est de rendre le jeu plus accessible à toutes et tous : débutants
 ---
 
 ## 📖 Navigation
-- 🔹 [Trouble Brewing](#) *(à venir)*  
-- 🔹 [Sects & Violets](#) *(à venir)*  
-- 🔹 [Bad Moon Rising](#) *(à venir)*  
+## 📖 Navigation
+- ![TB](images/Logo_trouble_brewing.png) [Trouble Brewing](#) *(à venir)*  
+- ![SV](images/Logo_sects_and_violets.png) [Sects & Violets](#) *(à venir)*  
+- ![BMR](images/Logo_bad_moon_rising-1.png) [Bad Moon Rising](#) *(à venir)*  
 - 🔹 [Voyageurs](#) *(à venir)*  
 - 🔹 [Légendaires](#) *(à venir)*  
 - 🔹 [Scripts personnalisés](#) *(à venir)*  
