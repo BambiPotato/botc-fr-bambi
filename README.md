@@ -48,8 +48,8 @@ Rejoignez le Discord de **BambiBluePotato** pour jouer en ligne, partager de bon
 
 ---
 ## 🌍 Qui sommes-nous ?
-Projet initié par **BambiPotato**, avec l’aide de joueuses et joueurs passionnés.  
-L’objectif est de rendre le jeu plus accessible à toutes et tous : débutants (es), expérimenté(es), et nouvelles communautés.
+*Projet initié par **BambiPotato**, avec l’aide de joueuses et joueurs passionnés.  
+L’objectif est de rendre le jeu plus accessible à toutes et tous : débutants (es), expérimenté(es), et nouvelles communautés.*
 ---
 
 ✨ Ce projet est collaboratif : n’hésitez pas à proposer vos idées, vos traductions ou vos corrections !
