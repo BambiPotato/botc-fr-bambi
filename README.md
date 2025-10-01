@@ -27,7 +27,7 @@ Bienvenue sur le wiki francophone de Blood 🩸 on the Clocktower : toutes les r
 
 ---
 
-*Rôles par édition*
+- *Rôles par édition*
 
  ![BotC](images/logo.png) [Blood on the Clocktower](blood_on_the_clocktower.md)
 
