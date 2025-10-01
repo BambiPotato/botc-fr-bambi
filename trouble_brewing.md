@@ -1,3 +1,5 @@
+<div class="page-tb">
+
 # 🍺 Trouble Brewing
 
 ![Logo Trouble Brewing](images/Logo_trouble_brewing.png)
@@ -117,3 +119,5 @@ Recommandé pour les nouveaux joueurs, joueuses et Conteurs.
 
 ## 📂 Navigation  
 - 🔙 [Retour à la page d’accueil](README.md)  
+
+</div>
