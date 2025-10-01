@@ -30,7 +30,7 @@
 <details>
   <summary><strong>🔗 Jinx associés (cliquer pour ouvrir/fermer)</strong></summary>
 
-- Si l’Enquêteur apprend que le [Vizir](../other_roles/vizir.md) est en jeu, **le Conteur n’annonce pas son existence** publiquement.  
+- Si l’Enquêteur apprend que le [Vizir](../roles_experimentaux/vizir.md) est en jeu, **le Conteur n’annonce pas son existence** publiquement.
 
 </details>
 
