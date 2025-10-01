@@ -12,18 +12,13 @@ Ce projet a pour but de proposer des **traductions fidèles**, des **conseils** 
 
 ---
 
-## 🌍 Qui sommes-nous ?
-Projet initié par **BambiPotato**, avec l’aide de joueuses et joueurs passionnés.  
-L’objectif est de rendre le jeu plus accessible à toutes et tous : débutants (es), expérimenté(es), et nouvelles communautés.
-
-
----
-
-
 ## 📖Page principale
 Bienvenue sur la plus grande ressource unique sur Internet pour les informations, les conseils, les astuces, les secrets, les règles, les stratégies et les conseils sur Blood 🩸 On The Clocktower !
+---
 
 *Rôles par édition*
+
+ ![Blood on the Clocktower](images/images/logo.png) [Blood on the Clocktower](#)
 
  ![TB](images/Logo_trouble_brewing.png) [Trouble Brewing](#) *(à venir)*  
  ![BMR](images/Logo_bad_moon_rising-1.png) [Bad Moon Rising](#) *(à venir)*  
@@ -50,6 +45,12 @@ Rejoignez le Discord de **BambiBluePotato** pour jouer en ligne, partager de bon
 - 🎮 [Twitch](https://www.twitch.tv/bambibluepotato)  
 - 📸 [Instagram](https://www.instagram.com/bambibluepotato/)  
 - 🌐 [Bluesky](https://bsky.app/profile/bambibluepotato.bsky.social)
+
+---
+## 🌍 Qui sommes-nous ?
+Projet initié par **BambiPotato**, avec l’aide de joueuses et joueurs passionnés.  
+L’objectif est de rendre le jeu plus accessible à toutes et tous : débutants (es), expérimenté(es), et nouvelles communautés.
+---
 
 ✨ Ce projet est collaboratif : n’hésitez pas à proposer vos idées, vos traductions ou vos corrections !
 
