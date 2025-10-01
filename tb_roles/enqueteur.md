@@ -40,7 +40,7 @@
 
 > « Vous commencez en apprenant 2 joueurs et le rôle de [Sbire](../glossaire.md#sbire) de l’un des deux. »  
 
-L’**Enquêteur** apprend qu’un rôle de Sbire particulier est en jeu, mais pas exactement qui le possède.  
+L’**Enquêteur** apprend qu’un rôle de Sbire particulier est en jeu, mais pas exactement de quel joueur il s'agit.  
 
 Lors de la première nuit, l’Enquêteur apprend que l’un de deux joueurs est un Sbire spécifique.  
 Il ne l’apprend qu’une seule fois, puis plus rien.  
@@ -64,10 +64,10 @@ Il ne l’apprend qu’une seule fois, puis plus rien.
 - **Céline** est le [Baron](baron.md), et **Pierre** est le [Maire](maire.md).  
   → L’Enquêteur apprend que soit Céline, soit Pierre est le Baron.  
 
-- **Bambi** est l’[Espion](espion.md), et **Julien** est l’[Empoisonneur](empoisonneur.md).  
+- **Tyld** est l’[Espion](espion.md), et **Julien** est l’[Empoisonneur](empoisonneur.md).  
   → L’Enquêteur apprend que soit Bambi, soit Julien est l’Espion.  
 
-- **Tanina** est le [Reclus](reclus.md), et **Kyllian** est l’[Imp](imp.md).  
+- **Tigeni** est le [Reclus](reclus.md), et **Kyllian** est l’[Imp](imp.md).  
   → L’Enquêteur apprend que soit Tanina, soit Kyllian est l’Empoisonneur.  
   (Le Reclus peut s’enregistrer comme un Sbire – ici comme Empoisonneur.)  
 
