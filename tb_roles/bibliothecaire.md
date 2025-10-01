@@ -1,0 +1,116 @@
+<p align="left">
+  <a href="/botc-fr-bambi/">
+    <img src="../images/logo.png" alt="Accueil BotC FR" width="80">
+  </a>
+</p>
+
+---
+
+# 📚 Bibliothécaire  
+
+![Bibliothécaire](../images/Icon_librarian.png)
+
+---
+
+## ℹ️ Information  
+
+- **Type :** [Villageois](../glossaire.md#villageois)  
+- **Illustrateur :** Aidan Roberts  
+- *« Bien sûr madame, dans des circonstances normales, vous pourriez emprunter le *Codex Malificarium* dans les archives de la bibliothèque. Mais… il semble que vous ne soyez pas membre. »*  
+
+---
+
+## 🎭 Présent dans  
+
+![Trouble Brewing](../images/Logo_trouble_brewing.png)  
+*Cult of the Clocktower* – épisode par Andrew Nathenson  
+
+---
+
+## 📖 Résumé  
+
+> « Vous commencez en apprenant 2 joueurs et le rôle d’[Étranger](../glossaire.md#étranger) de l’un des deux.(Ou qu'il y a zéro étranger en jeu.) »  
+
+Le **Bibliothécaire** apprend qu’un rôle **Étranger** est en jeu, mais pas exactement qui le possède.  
+
+Lors de la première nuit, le Bibliothécaire apprend que l’un de deux joueurs est un Étranger spécifique.  
+Il ne l’apprend qu’une seule fois, puis plus rien.  
+
+⚠️ L’[Ivrogne](ivrogne.md) est un Étranger. Si le Bibliothécaire apprend qu’un des deux joueurs est l’Ivrogne, il n’apprend pas le rôle [Villageois](../glossaire.md#villageois) que l’Ivrogne croit avoir.  
+
+---
+
+## 🎬 Mise en place 
+
+- Pendant la préparation de la première nuit, placez le jeton de rappel **ÉTRANGER** du Bibliothécaire à côté du jeton de rôle d’un Étranger,  
+  et placez placez le jeton de rappel  **FAUX** du Bibliothécaire à côté de n’importe quel autre rôle.  
+
+- Réveillez ensuite le Bibliothécaire et **montrez les deux joueurs marqués ÉTRANGER et FAUX**.  
+- Montrez ensuite le jeton de rôle marqué **ÉTRANGER** au Bibliothécaire.  
+- Rendormez le Bibliothécaire.  
+- Retirez ses jetons mémo quand cela n’est plus utile.  
+
+---
+
+## 🧾 Exemples  
+
+- **Cédric** est le [Saint](saint.md), et **Laura** est le [Baron](baron.md).  
+  → Le Bibliothécaire apprend que soit Cédric, soit Vanessa est le Saint.  
+
+- Il n’y a aucun Étranger dans cette partie.  
+  → Le Bibliothécaire apprend un « 0 ».  
+
+- **Julien** est l’[Ivrogne](ivrogne.md) (il croit être le [Moine](moine.md)) et **Tanina** est le [Croque-Mort](croquemort.md).  
+  → Le Bibliothécaire apprend que soit Julien, soit Tanina est l’Ivrogne.  
+  (Cela arrive car le Bibliothécaire apprend le vrai rôle. Le vrai rôle de Julien est Ivrogne, pas Moine.)  
+
+---
+
+## 💡 Astuces & Conseils  
+
+- Identifiez rapidement lequel des deux joueurs est l’[Étranger](../glossaire.md#étranger).  
+  Même si son pouvoir est parfois un handicap, il est toujours **bon** et donc un vote sûr.  
+  Savoir qu’une personne n’est pas le [Démon](../glossaire.md#démon) est déjà une information précieuse.  
+
+- Si vous recevez un **0**, c’est extrêmement puissant (sauf si vous êtes [Ivrogne](ivrogne.md) ou Empoisonné·e) :  
+  → cela signifie qu’il n’y a **aucun Étranger** en jeu. Donc pas de [Baron](baron.md), et toute personne qui prétend être Étranger bluffe probablement pour le Mal.  
+
+- Partager votre info tôt peut confirmer un joueur du Bien et appuyer d’autres [Villageois](../glossaire.md#villageois) comme l’[Empathique](empathique.md) ou le [Gardien](gardien.md).  
+
+- Garder votre info pour plus tard peut aussi être stratégique : sur la dernière journée, révéler qu’un joueur n’est pas le [Démon](../glossaire.md#démon) réduit le choix de 3 à 2 suspects.  
+
+- Comme vous avez toutes vos infos dès la première nuit, vous pouvez confirmer en nommant une [Vierge](vierge.md).  
+  Ou alors, prétendre être un rôle plus puissant pour détourner le [Démon](../glossaire.md#démon) de cibles clés comme le [Moine](moine.md) ou le [Croque-Mort](croquemort.md).  
+
+- Attention à l’[Ivrogne](ivrogne.md) : si les deux joueurs vus sont en fait Ivrogne, il est crucial de le dire vite, surtout si l’un pense être un rôle à informations.  
+
+- Vous pouvez aussi mentir : déclarer qu’un joueur est l’Ivrogne peut le protéger, car le [Démon](../glossaire.md#démon) attaquera moins facilement quelqu’un perçu comme inutile.  
+
+- Partager vos infos librement donne confiance au joueur concerné, mais pas forcément à vous.  
+  Trouvez un équilibre en échangeant partiellement, par exemple en proposant une **petite liste de rôles possibles**.  
+
+---
+
+## 🎭 Bluff en tant que Bibliothécaire  
+
+- Vous êtes censé avoir reçu vos infos la première nuit.  
+  Vous aurez donc « vu » deux joueurs et un jeton d’[Étranger](../glossaire.md#étranger).  
+
+- Utilisez vos infos pour :  
+  - Faire passer un complice du Mal pour bon (ex. confirmer un [Saint](saint.md) ou un [Reclus](reclus.md)).  
+  - Renforcer la crédibilité d’un joueur du Bien, afin de mieux l’orienter plus tard.  
+  - Nommer deux bons joueurs comme « [Ivrogne](ivrogne.md) », ce qui sème le doute dans leurs infos.  
+  - Nommer un allié maléfique comme potentiel Ivrogne : s’il se contredit, ce n’est pas grave !  
+
+- Vous pouvez révéler très tôt quel Étranger est « en jeu », sans préciser qui.  
+  Cela permet :  
+  - qu’un joueur du Bien confirme vos dires,  
+  - ou qu’un joueur du Mal saute sur l’occasion pour bluffer.  
+
+- Si vous êtes [Espion](espion.md), vos infos peuvent être exactes et renforcer encore votre crédibilité.  
+
+---
+
+## 📂 Navigation  
+- 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
+- 🍺 [Retour à Trouble Brewing](../trouble_brewing.md)  
