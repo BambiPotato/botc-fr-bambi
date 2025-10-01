@@ -2,7 +2,9 @@
 <button id="theme-toggle">☀️ Mode clair</button>
 
 <p align="center">
-  <img src="images/logo.png" alt="Logo BotC FR" width="200">
+  <a href="https://bambipotato.github.io/botc-fr-bambi/">
+    <img src="images/logo.png" alt="Logo BotC FR" width="200">
+  </a>
 </p>
 
 # 📚Wiki Francophone 🇫🇷 de *Blood 🩸 on the Clocktower* 🕰️
