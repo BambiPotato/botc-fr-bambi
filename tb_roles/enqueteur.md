@@ -27,12 +27,14 @@
 
 ---
 
-<details>
-  <summary><strong>🔗 Jinx associés (cliquer pour ouvrir/fermer)</strong></summary>
 
-- Si l’Enquêteur apprend que le [Vizir](../roles_experimentaux/vizir.md) est en jeu, **le Conteur n’annonce pas son existence** publiquement.
-
+  <details>
+  <summary>💠 Related Jinxes</summary>
+  <p>Si l’Enquêteur apprend que le 
+  <a href="/botc-fr-bambi/roles_experimentaux/vizir.html">Vizir</a> 
+  est en jeu, <strong>le Conteur n’annonce pas son existence</strong> publiquement.</p>
 </details>
+
 
 ---
 
