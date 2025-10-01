@@ -309,3 +309,4 @@ Quand un joueur ouvre les yeux la nuit.
 Victoire de son équipe (les vivants et morts de l’équipe gagnante gagnent ensemble).  
 
 
+⬅️ [Retour à l’accueil](README.md)
