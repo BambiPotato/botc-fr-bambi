@@ -61,15 +61,22 @@ img {
   z-index: 999;
 }
 
-/* Couleur spéciale pour Trouble Brewing */
-body.trouble-brewing {
-  color: #e63946; /* rouge */
+/* Rouge pour la page Trouble Brewing */
+.page-tb {
+  /* si vous voulez TOUT le texte rouge, décommentez la ligne suivante : */
+  /* color: #e63946; */
 }
 
-/* Garder les titres encore plus visibles */
-body.trouble-brewing h1,
-body.trouble-brewing h2,
-body.trouble-brewing h3 {
-  color: #ff4d4d; /* rouge plus vif */
+.page-tb h1,
+.page-tb h2,
+.page-tb h3 {
+  color: #e63946; /* titres en rouge */
 }
+
+.page-tb a {
+  color: #ff6b6b; /* liens rouges doux */
+  font-weight: 600;
+}
+.page-tb a:hover { color: #ff4d4d; }
+
 
