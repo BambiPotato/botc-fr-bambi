@@ -61,4 +61,15 @@ img {
   z-index: 999;
 }
 
+/* 🌟 Mise en forme spécifique pour la page Trouble Brewing */
+.page-trouble-brewing {
+  color: #b30000; /* Rouge sombre lisible */
+}
+
+.page-trouble-brewing h1, 
+.page-trouble-brewing h2, 
+.page-trouble-brewing h3 {
+  color: #e60000; /* Titres encore plus rouges */
+}
+
 
