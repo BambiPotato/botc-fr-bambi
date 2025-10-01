@@ -17,6 +17,10 @@ Bienvenue sur le wiki francophone de Blood 🩸 on the Clocktower : toutes les r
 
 ---
 
+## 📖 Glossaire  
+- 📘 [Glossaire des termes](glossaire.md)
+
+---
 
 *Rôles par édition*
 
