@@ -14,7 +14,7 @@ body::before {
   content: "";
   position: fixed;
   top: 0; left: 0; right: 0; bottom: 0;
-  background: url('../images/banner.png') no-repeat center center/cover;
+  background: url("/botc-fr-bambi/images/banner.png") no-repeat center center/cover;
   opacity: 0.6; /* voile sombre pour mode sombre */
   z-index: -1;
 }
@@ -26,6 +26,7 @@ body.light-mode {
 }
 
 body.light-mode::before {
+  background: url("/botc-fr-bambi/images/banner.png") no-repeat center center/cover;
   opacity: 0.3; /* voile plus léger pour mode clair */
 }
 
@@ -59,4 +60,5 @@ img {
   font-size: 14px;
   z-index: 999;
 }
+
 
