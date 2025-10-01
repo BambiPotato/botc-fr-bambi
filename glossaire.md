@@ -1,4 +1,8 @@
-
+<p align="center">
+  <a href="README.md">
+    <img src="images/logo.png" alt="Accueil BotC FR" width="120">
+  </a>
+</p>
 
 
 # 📖 Glossaire *Blood 🩸on the Clocktower 🕰️*
