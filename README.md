@@ -3,6 +3,7 @@
     <img src="images/logo.png" alt="Accueil BotC FR" width="80" style="vertical-align: middle;">
     <span style="font-size:16px; font-weight:bold; margin-left:8px;">Accueil</span>
   </a>
+
   
 ![Bannière BotC FR](images/banner.png)
 <button id="theme-toggle">☀️ Mode clair</button>
