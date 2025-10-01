@@ -26,12 +26,12 @@ Bienvenue sur la plus grande ressource unique sur Internet pour les informations
  ![SV](images/Logo_sects_and_violets.png) [Sects & Violets](#) *(à venir)*  
  ![Voyageurs](images/Generic_traveller.png) [Voyageurs](#) *(à venir)*  
  ![Légendaires](images/Generic_fabled.png) [Légendaires](#) *(à venir)*  
- ![Rôles Expérimentaux](images/Generic_fabled.png) [Rôles Expérimentaux](#) *(à venir)*  
+ ![Rôles Expérimentaux](images/Icon_boffin.png) [Rôles Expérimentaux](#) *(à venir)*  
  
- ![Scripts personnalisés](images/Icon_mezepheles.png) [Scripts personnalisés](#) *(à venir)*  
+---
+ ![Scripts personnalisés](images/Icon_mezepheles.png) [Scripts personnalisés](#) *(à venir)* 
 
 ---
-
 ## 🛠️ Ressources
 - 🧮 [Outil officiel de création de scripts](https://script.bloodontheclocktower.com/)  
 - 🧪 [Générateur d’informations du Savant](https://savant.thegrim.gg/)  
