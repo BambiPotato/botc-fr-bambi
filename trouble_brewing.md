@@ -81,7 +81,7 @@ Recommandé pour les nouveaux joueurs, joueuses et Conteurs.
 ![Majordome](images/Icon_butler.png)  
 [**Majordome**](tb_roles/majordome.md)  
 
-![Ivrogne](images/Icon_drunk.png)  
+![Ivrogne](images/Icon_drunk-1.png)  
 [**Ivrogne**](tb_roles/ivrogne.md)  
 
 ![Reclus](images/Icon_recluse.png)  
