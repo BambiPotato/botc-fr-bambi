@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="README.md">
+    <img src="images/logo.png" alt="Accueil BotC FR" width="120">
+  </a>
+</p>
+
 # 🕰️ Qu’est-ce que *Blood on the Clocktower* ?  
 
 *Blood on the Clocktower* est un jeu de déduction social, dans la lignée des *Loups-Garous 🐺 de Thiercelieux* ou *Mafia*, mais avec des mécaniques modernes et inclusives.  
