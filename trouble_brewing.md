@@ -1,3 +1,10 @@
+---
+layout: default
+class: trouble-brewing
+title: Trouble Brewing
+---
+
+
 # 🍺 Trouble Brewing
 
 ![Logo Trouble Brewing](images/Logo_trouble_brewing.png)
@@ -118,3 +125,8 @@ Recommandé pour les nouveaux joueurs, joueuses et Conteurs.
 ## 📂 Navigation  
 - 🔙 [Retour à la page d’accueil](README.md)  
 
+---
+layout: default
+class: trouble-brewing
+title: Trouble Brewing
+---
