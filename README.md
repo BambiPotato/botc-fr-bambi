@@ -60,6 +60,8 @@ Rejoignez le Discord de **BambiBluePotato** pour jouer en ligne, partager de bon
 
 ---
 
+⬅️ [Retour à l’accueil](README.md)
+
 
 🌎 Qui sommes-nous ?
 
