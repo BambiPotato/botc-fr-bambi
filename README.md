@@ -15,6 +15,9 @@ Ce projet a pour but de proposer des **traductions fidèles**, des **conseils** 
 ## 📖Page principale
 Bienvenue sur le wiki francophone de Blood 🩸 on the Clocktower : toutes les règles, astuces et stratégies réunies au même endroit.
 
+## 📜 Règles du jeu
+👉 [Lire les règles complètes](regles.md)
+
 ---
 
 ## 📖 Glossaire  
