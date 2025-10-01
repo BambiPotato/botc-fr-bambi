@@ -1,3 +1,10 @@
+
+<p align="center">
+  <a href="README.md">
+    <img src="images/logo.png" alt="Accueil BotC FR" width="120">
+  </a>
+</p>
+
 # 📜 Explication des règles  
 
 La feuille de règles décrit toutes les informations essentielles qu’un nouveau joueur doit connaître pour commencer à jouer.  
