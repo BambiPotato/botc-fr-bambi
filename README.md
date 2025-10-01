@@ -1,7 +1,12 @@
 ![Bannière BotC FR](images/banner.png)
 <button id="theme-toggle">☀️ Mode clair</button>
 
-# <img src="images/Icon_steward.png" alt="Steward" width="50" style="vertical-align:middle;"> Wiki Francophone 🇫🇷 de *Blood 🩸 on the Clocktower* 🕰️
+<p align="center">
+  <img src="images/Icon_steward.png" alt="Steward" width="120">
+</p>
+
+# Wiki Francophone 🇫🇷 de *Blood 🩸 on the Clocktower* 🕰️
+
 
 
 Bienvenue sur le **Wiki Francophone** de **Blood on the Clocktower** !  
