@@ -18,7 +18,7 @@ Bienvenue sur la plus grande ressource unique sur Internet pour les informations
 
 *Rôles par édition*
 
- ![Blood on the Clocktower](images/images/logo.png) [Blood on the Clocktower](#)
+ ![BotC](images/logo.png) [Blood on the Clocktower](#)
 
  ![TB](images/Logo_trouble_brewing.png) [Trouble Brewing](#) *(à venir)*  
  ![BMR](images/Logo_bad_moon_rising-1.png) [Bad Moon Rising](#) *(à venir)*  
