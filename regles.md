@@ -11,9 +11,10 @@ Certaines parties vous demanderont de montrer différents **signaux avec les mai
 ## ⏳ Avant que la partie ne commence  
 
 Il y a longtemps, dans la paisible ville de **Ravenswood Bluff**, en pleine tempête, à minuit pile… un cri retentit.  
-En courant vers la place du village, vous découvrez que votre bien-aimé Conteur — moi-même — a été assassiné, empalé sur l’aiguille de l’horloge du clocher, le sang coulant sur les pavés.  
+En courant vers la place du village, vous découvrez que votre bien-aimé Conteur a été assassiné, empalé sur l’aiguille de l’horloge du clocher, le sang coulant sur les pavés.  
 
 Vous comprenez immédiatement qu’il s’agit de l’œuvre d’un **Démon**. Et vous avez raison : un Démon qui tue la nuit et prend forme humaine le jour.  
+Un **Démon** rôde dans le village : il tue la nuit et se cache parmi vous le jour. 
 
 Vous allez recevoir un jeton **rouge** ou **bleu**.  
 - 🔵 **Bleu** = vous êtes Bon.  
@@ -50,7 +51,7 @@ Le Conteur (Storyteller) réveille certains joueurs pour qu’ils utilisent leur
 
 ## ☠️ La mort n’est pas la fin  
 
-À Ravenswood Bluff, **mourir ne vous exclut pas du jeu**.  
+À Ravenswood Bluff, ⚰️ La mort n’est pas la fin !
 
 Même mort :  
 - 💬 vous continuez de parler,  
@@ -64,7 +65,7 @@ Même mort :
 
 ---
 
-## 🍷 Ivresse et Poison  
+## 🍻  Ivresse et Poison  
 
 Le Conteur peut donner de fausses informations !  
 - Si vous êtes **Ivrogne** ou **Empoisonné**, votre capacité ne fonctionne pas.  
@@ -82,7 +83,7 @@ Le Conteur peut donner de fausses informations !
    → Le jeu repose sur la parole et la tromperie.  
 
 2️⃣ **Pas d’espionnage.**  
-   Gardez votre rôle secret et ne regardez pas dans le **Grimoire**.  
+   Gardez votre rôle secret et ne regardez jamais dans le **Grimoire**.  
 
 3️⃣ **Posez vos questions au Conteur.**  
    Le Conteur est neutre et là pour vous aider.  
@@ -96,18 +97,21 @@ Le Conteur peut donner de fausses informations !
 ## ⚖️ Les nominations et exécutions  
 
 - Pour nominer :  
-  👉 « Je nomine Alice. »  
+  👉 dites : *« Je nomine Céline »*.
 
 - Tout le monde vote. Le Conteur dit :  
-  👉 « Votes pour Alice, c’est parti. »  
+  👉 « Les Votes pour Céline, c’est parti. »  
 
 - Le Conteur passe **dans le sens horaire** :  
   - Main levée = vote pour  
   - Main baissée = contre  
 
 - ✅ Une exécution a lieu si le joueur obtient **au moins 50 % des votes des vivants**.  
-- ❌ En cas d’égalité, personne n’est exécuté.  
+- ❌ En cas d’égalité, personne n’est exécuté. 
+- ☠️ Si vous mourez : vous perdez votre capacité, vous ne pouvez plus nominer, et vous n’avez plus qu’**un seul vote** pour toute la partie.  
+
+✨ Voilà, vous connaissez les règles essentielles pour jouer à *Blood on the Clocktower* !  
 
 ---
 
-✨ Voilà, vous connaissez les règles essentielles pour jouer à *Blood on the Clocktower* !  
+⬅️ [Retour à l’accueil](README.md)
