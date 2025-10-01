@@ -1,8 +1,7 @@
----
+
 layout: default
 class: trouble-brewing
 title: Trouble Brewing
----
 
 
 # 🍺 Trouble Brewing
