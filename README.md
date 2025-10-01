@@ -20,7 +20,7 @@ Bienvenue sur le wiki francophone de Blood 🩸 on the Clocktower : toutes les r
 
 *Rôles par édition*
 
- ![BotC](images/logo.png) [Blood on the Clocktower](#)
+ ![BotC](images/logo.png) [Blood on the Clocktower](blood_on_the_clocktower.md)
 
  ![TB](images/Logo_trouble_brewing.png) [Trouble Brewing](#) *(à venir)*  
  ![BMR](images/Logo_bad_moon_rising-1.png) [Bad Moon Rising](#) *(à venir)*  
