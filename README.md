@@ -29,7 +29,7 @@ L’objectif est de rendre le jeu plus accessible à toutes et tous : débutants
  ![BMR](images/Logo_bad_moon_rising-1.png) [Bad Moon Rising](#) *(à venir)*  
  ![SV](images/Logo_sects_and_violets.png) [Sects & Violets](#) *(à venir)*  
  ![Voyageurs](images/Generic_traveller.png) [Voyageurs](#)*(à venir)*  
- ![Légendaires](images/Icon_djinn.png) [Légendaires]*(à venir)*  
+ ![Légendaires](images/Icon_djinn.png) [Légendaires](#)*(à venir)*  
 - 🔹 [Scripts personnalisés](#) *(à venir)*  
 
 ---
