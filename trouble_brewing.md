@@ -6,7 +6,7 @@
 
 ## 📖 Synopsis  
 
-Les nuages s’amoncellent au-dessus de **Ravenswood Bluff**, enveloppant cette ville endormie et ses habitants superstitieux d’une ombre inquiétante.  
+Les nuages ☁️ s’amoncellent au-dessus de **Ravenswood Bluff**, enveloppant cette ville endormie et ses Villageois superstitieux d’une ombre inquiétante.  
 Le linge fraîchement lavé danse de façon étrange entre les chaumières. Des cheminées crachent des volutes de fumée. Des senteurs exotiques s’infiltrent par les fissures des fenêtres, tandis que des chaudrons cachés bouillonnent dans l’ombre.  
 
 Un vent d’automne anormalement chaud s’insinue le long des murs couverts de lierre et murmure à l’oreille des plus téméraires qui osent s’aventurer dans les rues pavées.  
@@ -84,7 +84,7 @@ Recommandé pour les nouveaux joueurs, joueuses et Conteurs.
 ![Ivrogne](images/Icon_drunk-1.png)  
 [**Ivrogne**](tb_roles/ivrogne.md)  
 
-![Reclus](images/Icon_recluse.png)  
+![Reclus](images/Icon_recluse-1.png)  
 [**Reclus**](tb_roles/reclus.md)  
 
 ![Saint](images/Icon_saint.png)  
