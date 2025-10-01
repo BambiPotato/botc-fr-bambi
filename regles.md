@@ -1,9 +1,10 @@
 
-<p align="center">
-  <a href="README.md">
-    <img src="images/logo.png" alt="Accueil BotC FR" width="120">
+<p align="left">
+  <a href="/botc-fr-bambi/">
+    <img src="images/logo.png" alt="Accueil BotC FR" width="100">
   </a>
 </p>
+
 
 # 📜 Explication des règles  
 
