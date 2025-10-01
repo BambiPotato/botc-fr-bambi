@@ -3,15 +3,8 @@
 
 # 📖 Glossaire *Blood 🩸on the Clocktower 🕰️*
 
-Bienvenue dans le Glossaire francophone de Blood on the Clocktower 🕰️.
+Bienvenue dans le Glossaire francophone de Blood on the Clocktower. 
 Vous trouverez ici la traduction fidèle et détaillée des termes du jeu.
-
----
-
-# 📖 Glossaire Blood on the Clocktower
-
-Bienvenue dans le **Glossaire francophone** de *Blood on the Clocktower* 🕰️.  
-Vous trouverez ici la traduction fidèle et détaillée des termes du jeu.  
 
 ---
 
