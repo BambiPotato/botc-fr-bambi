@@ -16,6 +16,7 @@ Ce projet a pour but de proposer des **traductions fidèles**, des **conseils** 
 Bienvenue sur le wiki francophone de Blood 🩸 on the Clocktower : toutes les règles, astuces et stratégies réunies au même endroit.
 ---
 
+
 *Rôles par édition*
 
  ![BotC](images/logo.png) [Blood on the Clocktower](#)
@@ -28,6 +29,7 @@ Bienvenue sur le wiki francophone de Blood 🩸 on the Clocktower : toutes les r
  ![Rôles Expérimentaux](images/Icon_boffin.png) [Rôles Expérimentaux](#) *(à venir)*  
  
 ---
+
  ![Scripts personnalisés](images/Icon_mezepheles.png) [Scripts personnalisés](#) *(à venir)* 
 
 ---
