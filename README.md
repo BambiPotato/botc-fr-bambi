@@ -1,9 +1,8 @@
-<a href="/botc-fr-bambi/">
-  <img src="/botc-fr-bambi/images/acceuil.png" 
-       alt="Accueil BotC FR" 
-       style="width:40px; position:fixed; top:12px; left:12px; z-index:1000;">
-</a>
-
+<p align="center">
+  <a href="README.md">
+    <img src="images/logo.png" alt="Accueil BotC FR" width="120">
+  </a>
+</p>
 
 ![Bannière BotC FR](images/banner.png)
 <button id="theme-toggle">☀️ Mode clair</button>
