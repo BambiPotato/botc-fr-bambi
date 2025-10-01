@@ -1,8 +1,8 @@
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="images/logo.png" alt="Accueil BotC FR" width="80" style="vertical-align: middle;">
-    <span style="font-size:16px; font-weight:bold; margin-left:8px;">Accueil</span>
+    <img src="images/logo.png" alt="Accueil BotC FR" width="100">
   </a>
+</p>
 
   
 ![Bannière BotC FR](images/banner.png)
