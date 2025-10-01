@@ -67,3 +67,6 @@ Notre but est de partager *Blood on the Clocktower* en français et de le rendre
 
 ✨ Ce projet a été initié par **BambiPotato**, mais il vit grâce à l’implication de nombreuses joueuses et joueurs passionnés, n’hésitez pas à proposer vos idées ou vos corrections.
 
+---
+
+⬅️ [Retour à l’accueil](README.md)
