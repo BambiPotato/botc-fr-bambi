@@ -26,7 +26,7 @@ Bienvenue sur la plus grande ressource unique sur Internet pour les informations
  ![SV](images/Logo_sects_and_violets.png) [Sects & Violets](#) *(à venir)*  
  ![Voyageurs](images/Generic_traveller.png) [Voyageurs](#) *(à venir)*  
  ![Légendaires](images/Icon_djinn.png) [Légendaires](#) *(à venir)*  
- ![Scripts personnalisés](images/Icon_mezepheles.png) [LScripts personnalisés](#) *(à venir)*  
+ ![Scripts personnalisés](images/Icon_mezepheles.png) [Scripts personnalisés](#) *(à venir)*  
 
 ---
 
