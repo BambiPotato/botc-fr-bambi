@@ -40,10 +40,10 @@ Tout le monde ferme les yeux.
 Le Conteur (Storyteller) réveille certains joueurs pour qu’ils utilisent leur capacité ou reçoivent des informations.  
 
 💡 Les signaux utilisés par le Conteur :  
-- ✌️ Deux tapes sur l’épaule ou le genou = **Ouvrez les yeux**  
-- ✊ Poing fermé = **Fermez les yeux**  
+- ✌️ Deux tapes sur l’épaule ou le genou = **Ouvrez les 👀 yeux**  
+- ✊ Poing fermé = **Fermez les 😴 yeux**  
 - 👍 = **Oui** / 👎 = **Non**  
-- 🫱 = **Bon** / 🫲 = **Maléfique**  
+- 👍 = **Bon** / 👎 = **Maléfique**  
 - ✋ = **0, 1, 2, 3…** (en levant les doigts)  
 - 👉 Pointez du doigt pour choisir un joueur  
 
