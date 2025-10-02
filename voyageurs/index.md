@@ -7,7 +7,8 @@
 
 # 🚶 Voyageurs  
 
-![Logo Voyageurs](..images/Generic_traveller.png)  
+![Logo Voyageurs](images/Generic_traveller.png)
+
 
 ---
 
