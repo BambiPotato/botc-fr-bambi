@@ -29,10 +29,10 @@
 <details>
 <summary>▶️ Jinx associés (cliquer pour ouvrir)</summary>
 
-- ![Leviathan](../images/Icon_leviathan-1.png) [**Léviathan**](../roles_experimentaux/leviathan.md)  
+- ![Léviathan](../images/Icon_leviathan-1.png) [Léviathan](../roles_experimentaux/leviathan.md)
 *Chaque nuit*, le Léviathan choisit un joueur vivant (différent des nuits précédentes) : un **Gardien** choisi utilise sa capacité mais **ne meurt pas**.  
 
-- ![Riot](../images/Icon_riot.png) [**Émeute**](../roles_experimentaux/riot.md)  
+- ![Riot](../images/Icon_riot.png) [Riot](../roles_experimentaux/riot.md) 
 *Chaque nuit*, l’Émeute choisit un joueur bon vivant (différent des nuits précédentes) : un **Gardien** choisi utilise sa capacité mais **ne meurt pas**.  
 
 </details>
