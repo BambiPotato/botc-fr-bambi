@@ -51,7 +51,7 @@ S’il est attaqué par le Démon, le Conteur peut choisir qu’un autre joueur 
 ---
 
 ## Exemples
-- Le [Lutin](imp.md) attaque le Maire → le Conteur choisit de tuer le [Gardien du corbeau](ravenkeeper.md) à la place.  
+- L' [Imp](imp.md) attaque le Maire → le Conteur choisit de tuer le [Gardien](gardien.md) à la place.  
 - Il reste 3 joueurs en vie. Personne n’est nominé → les Bons gagnent.  
 - Il reste 5 joueurs dont 2 Voyageurs. Les Voyageurs sont exilés. Le vote est à égalité → aucune exécution → les Bons gagnent.  
 
@@ -61,9 +61,9 @@ S’il est attaqué par le Démon, le Conteur peut choisir qu’un autre joueur 
 - Votre pouvoir s’active **au dernier jour** : faites tout pour convaincre le groupe que vous êtes réellement le Maire afin d’éviter toute exécution.  
 - Ne révélez pas trop tôt votre rôle, sinon le Démon cherchera à vous tuer nuit après nuit.  
 - À l’inverse, parfois annoncer votre rôle permet de créer un consensus autour de vous.  
-- Si un joueur improbable (ex : [Majordome](butler.md)) meurt la nuit, cela peut être la preuve que vous avez été attaqué.  
+- Si un joueur improbable (ex : [Majordome](majordome.md)) meurt la nuit, cela peut être la preuve que vous avez été attaqué.  
 - Si le Démon vous attaque et qu’un autre joueur meurt, il saura qui vous êtes. Faites attention aux regards surpris au lever du jour !  
-- Assurez-vous de ne pas être [Ivrogne](drunk.md) ou empoisonné par l’[Empoisonneur](poisoner.md), sinon votre capacité échouera et le Mal gagnera.  
+- Assurez-vous de ne pas être [Ivrogne](ivrogne.md) ou empoisonné par l’[Empoisonneur](empoisonneur.md), sinon votre capacité échouera et le Mal gagnera.  
 - Évitez de garder vivants uniquement un Démon et un Sbire avec vous dans le final à 3 joueurs : vous serez certainement empoisonné.  
 
 ---
@@ -73,8 +73,8 @@ S’il est attaqué par le Démon, le Conteur peut choisir qu’un autre joueur 
 - Sa longévité peut justifier votre survie suspecte face aux morts d’autres joueurs.  
 - Bluff parfait pour un Démon qui veut se protéger.  
 - Dévoilez votre rôle à quelques joueurs en privé pour préparer votre révélation finale.  
-- Le Maire est un excellent rôle de repli si votre bluff principal (par ex. [Voyante](fortune_teller.md)) tombe à l’eau.  
-- Si une mort étrange survient (par ex. [Reclus](recluse.md) ou [Lavandière](washerwoman.md)), vous pouvez l’utiliser comme preuve que vous êtes Maire.  
+- Le Maire est un excellent rôle de repli si votre bluff principal (par ex. [Voyante](voyante.md)) tombe à l’eau.  
+- Si une mort étrange survient (par ex. [Reclus](reclus.md) ou [Lavandière](lavandiere.md)), vous pouvez l’utiliser comme preuve que vous êtes Maire.  
 - Même un joueur bon peut bluffer Maire pour détourner le Démon.  
 
 ---
