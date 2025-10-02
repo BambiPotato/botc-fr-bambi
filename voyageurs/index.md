@@ -33,7 +33,7 @@ Un Voyageur peut rejoindre la partie à tout moment, et la quitter à tout momen
 
 ---
 
-## 🍺 Trouble Brewing  
+## 🔵 Trouble Brewing  
 
 ![Logo Trouble Brewing](../images/Logo_trouble_brewing.png)  
 
@@ -43,23 +43,21 @@ Un Voyageur peut rejoindre la partie à tout moment, et la quitter à tout momen
 
 ## 🟣 Sects & Violets  
 
-![Logo Sects & Violets](../images/Logo_sects_and_violets.png)  
+*(à venir)*  
+
+---
+
+## 🟠 Bad Moon Rising  
+
+
 
 *(à venir)*  
 
 ---
 
-## 🌕 Bad Moon Rising  
+## ⚫️ Expérimentaux  
 
-![Logo Bad Moon Rising](../images/Logo_bad_moon_rising.png)  
 
-*(à venir)*  
-
----
-
-## 🧪 Expérimentaux  
-
-![Logo Expérimentaux](../images/Logo_experimentaux.png)  
 
 *(à venir)*  
 
