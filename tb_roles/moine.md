@@ -45,24 +45,24 @@ Ce joueur est protégé du Démon pour cette nuit-là.
 
 ---
 
-## Fonctionnement
-- Chaque nuit sauf la première, le Moine se réveille et choisit un joueur (pas lui-même).  
-- Le Conteur place le jeton de rappel **Protégé** sur ce joueur.  
-- Si le Démon attaque ce joueur, il ne meurt pas et personne d’autre ne meurt à sa place.  
-- Le lendemain, le Conteur annonce simplement : *« Personne n’est mort cette nuit »* (sans donner la raison).  
-- Retirez le jeton **Protégé** au matin.  
+## Mise en Place
+- Chaque nuit, sauf la première, réveillez le moine. Il désigne n'importe quel joueur sauf lui-même. (Si le moine se désigne lui-même, **Secouez** la tête pour dire non et invitez-le à désigner un autre joueur.) Endormez le moine.Placez le jeton de rappel **Protégé** sur ce joueur.
 
+- Si le Démon attaque le joueur marqué  **Protégé** , celui-ci reste en vie. (Ne le marquez pas avec le jeton de rappel MORT du Démon et n'ajoutez pas de linceul comme vous le feriez normalement.) À l'aube, déclarez que personne n'est mort cette nuit. (Ne précisez pas pourquoi.)
+À l'aube, retirez le jeton de rappel **Protégé** .
+
+- Dans d'autres éditions, les Démons peuvent avoir d'autres capacités que tuer. La protection du Moine prévient également tous les autres effets néfastes de la capacité du Démon, comme l'empoisonnement ou la transformation du joueur protégé en personnage maléfique.
 ---
 
 ## Exemples
-- Le Moine protège la [Voyante](../tb_roles/fortuneteller.md). L’Imp l’attaque. Personne ne meurt.  
-- Le Moine protège le [Maire](../tb_roles/mayor.md). L’Imp attaque le Maire. La capacité du Maire ne s’active pas : il reste en vie et personne ne meurt.  
+- Le Moine protège la [Voyante](tb_roles/voyante.md). L’Imp l’attaque. Personne ne meurt.  
+- Le Moine protège le [Maire](/tb_roles/maire.md). L’Imp attaque le Maire. La capacité du Maire ne s’active pas : il reste en vie et personne ne meurt.  
 - Le Moine protège l’Imp. L’Imp tente de se tuer pour passer son rôle. Rien ne se passe : l’Imp reste en vie.  
 
 ---
 
 ## Conseils & Astuces
-- Protégez les rôles puissants comme la [Voyante](../tb_roles/fortuneteller.md), l’[Empathe](../tb_roles/empath.md) ou la [Vierge](../tb_roles/virgin.md).  
+- Protégez les rôles puissants comme la [Voyante](tb_roles/voyante.md), l’[Empathique](tb_roles/empathique.md) ou la [Vierge](tb_roles/vierge.md).  
 - N’attirez pas trop l’attention : si vous êtes découvert, le Démon vous éliminera rapidement.  
 - Vous pouvez feinter en disant publiquement qui vous « allez protéger », pour pousser le Démon à viser ailleurs.  
 - Si un joueur survit grâce à vous, il est probablement bon (sauf cas particuliers avec l’Imp).  
