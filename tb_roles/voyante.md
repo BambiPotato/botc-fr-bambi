@@ -89,4 +89,8 @@ La **Voyante** détecte si un joueur est le Démon… mais peut confondre un jou
 
 ---
 
-📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) · Villageois
+## 📂 Navigation 
+
+- 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
+- 🍺 [Retour à Trouble Brewing](../trouble_brewing.md)  
+- 📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) · Villageois
