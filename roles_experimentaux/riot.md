@@ -14,8 +14,8 @@
 ---
 
 ## 📂 Navigation
-- 🔙 [Retour à Trouble Brewing](../trouble_brewing.md)
+
 - 🏠 [Retour à l’accueil](../README.md)
-)
+
 
 *(Rôle expérimental — traduction à venir)*  
