@@ -1,14 +1,12 @@
-
 <p align="left">
   <a href="/botc-fr-bambi/">
     <img src="../images/logo.png" alt="Accueil BotC FR" width="80">
   </a>
 </p>
 
-# 🚶 Voyageurs  
+🧳 # Voyageurs
 
-![Voyageurs](images/Generic_traveller.png)
-
+![Voyageurs](../images/Generic_traveller.png)
 
 
 ---
