@@ -37,7 +37,7 @@ Un Voyageur peut rejoindre la partie à tout moment, et la quitter à tout momen
 
 
  ![Flingeur](../images/Icon_gunslinger.png)  [Flingeur](flingeur.md)
-)  
+  
 
 ---
 
