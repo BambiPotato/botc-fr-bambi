@@ -27,15 +27,23 @@
 ## 🔀 Jinx associés  
 
 <details>
-<summary>▶️ Jinx associés (cliquer pour ouvrir)</summary>
-
-- ![Léviathan](../images/Icon_leviathan-1.png) [Léviathan](../roles_experimentaux/leviathan.md)
-*Chaque nuit*, le Léviathan choisit un joueur vivant (différent des nuits précédentes) : un **Gardien** choisi utilise sa capacité mais **ne meurt pas**.  
-
-- ![Riot](../images/Icon_riot.png) [Riot](../roles_experimentaux/riot.md) 
-*Chaque nuit*, l’Émeute choisit un joueur bon vivant (différent des nuits précédentes) : un **Gardien** choisi utilise sa capacité mais **ne meurt pas**.  
-
+  <summary>Jinx associés (cliquer pour ouvrir)</summary>
+  <p>
+    <img src="/botc-fr-bambi/images/Icon_leviathan-1.png" width="20" alt="Léviathan">
+    <a href="/botc-fr-bambi/roles_experimentaux/leviathan.html"><strong>Léviathan</strong></a> :
+    <em>Chaque nuit*</em>, le <strong>Léviathan</strong> choisit un joueur vivant
+    (différent des nuits précédentes) : un <strong>Gardien</strong> choisi utilise sa capacité
+    mais <strong>ne meurt pas</strong>.
+  </p>
+  <p>
+    <img src="/botc-fr-bambi/images/Icon_riot.png" width="20" alt="Riot">
+    <a href="/botc-fr-bambi/roles_experimentaux/riot.html"><strong>Riot</strong></a> :
+    <em>Chaque nuit*</em>, le <strong>Riot</strong> choisit un joueur bon vivant
+    (différent des nuits précédentes) : un <strong>Gardien</strong> choisi utilise sa capacité
+    mais <strong>ne meurt pas</strong>.
+  </p>
 </details>
+
 
 ---
 
