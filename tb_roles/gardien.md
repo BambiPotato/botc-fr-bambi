@@ -18,7 +18,7 @@
 
 ---
 
-## 🎭 Apparition  
+## 🎭 Apparaît dans  
 ![Trouble Brewing](../images/Logo_trouble_brewing.png)  
 **Cult of the Clocktower - Épisode par Andrew Nathenson**
 
