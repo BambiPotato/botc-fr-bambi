@@ -67,10 +67,10 @@ Il ne l’apprend qu’une seule fois, puis plus rien.
   → L’Enquêteur apprend que soit Céline, soit Pierre est le Baron.  
 
 - **Tyld** est l’[Espion](espion.md), et **Julien** est l’[Empoisonneur](empoisonneur.md).  
-  → L’Enquêteur apprend que soit Bambi, soit Julien est l’Espion.  
+  → L’Enquêteur apprend que soit Tyld, soit Julien est l’Espion.  
 
 - **Tigeni** est le [Reclus](reclus.md), et **Kyllian** est l’[Imp](imp.md).  
-  → L’Enquêteur apprend que soit Tanina, soit Kyllian est l’Empoisonneur.  
+  → L’Enquêteur apprend que soit Tigeni, soit Kyllian est l’Empoisonneur.  
   (Le Reclus peut s’enregistrer comme un Sbire – ici comme Empoisonneur.)  
 
 ---
