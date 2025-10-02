@@ -8,8 +8,7 @@
 
 ![Voyageurs](../images/Generic_traveller.png)
 
-
----
+# Voyageurs
 
 ## 📖 Présentation  
 
