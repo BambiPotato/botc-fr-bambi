@@ -29,10 +29,10 @@
 <details>
 <summary>▼ Voir</summary>
 
-- ![Léviathan](../images/Icon_leviathan-1.png) [Léviathan](../roles_experimentaux/leviathan.md)  
+![Léviathan](../images/Icon_leviathan-1.png) [Léviathan](../roles_experimentaux/leviathan.md)
   Si le Léviathan est en jeu, le joueur protégé par le Moine est à l’abri de **toutes les capacités maléfiques**.
 
-- ![Riot](../images/Icon_riot.png) [Riot](../roles_experimentaux/riot.md)  
+- !![Riot](../images/Icon_riot.png) [Riot](../roles_experimentaux/riot.md)
   Si Riot est en jeu, le joueur protégé par le Moine est à l’abri de **toutes les capacités maléfiques**.
 
 </details>
