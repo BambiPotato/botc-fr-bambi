@@ -58,7 +58,7 @@ La Lavandière apprend qu’un certain [Villageois](../glossaire.md#villageois) 
 ## 💡 Astuces & Stratégies  
 
 - La Lavandière est **puissante en discrétion** : elle ne désigne pas les maléfiques, mais peut confirmer l’identité d’un joueur bon.  
-- Si vous êtes [Ivrogne](ivrogne.md) ou [empoisonné·e](empoisonneur.md), vos infos seront souvent manifestement fausses. Comparez-les aux déclarations des joueurs : c’est parfois facile à déceler.  
+- Si vous êtes [Ivrogne](ivrogne.md) ou [empoisonné·e, vos infos seront souvent manifestement fausses. Comparez-les aux déclarations des joueurs : c’est parfois facile à déceler.  
 - Parmi les deux joueurs désignés, l’un **est** bien le rôle vu. Donc vous savez aussi que ce joueur **n’est pas** l’[Ivrogne](ivrogne.md).  
 - Révéler vos infos dès le premier jour peut donner un **très bon départ** à l’équipe du Bien.  
 - À l’inverse, garder l’info secrète jusqu’à la fin peut réduire les suspects à **1 sur 2** au lieu de 1 sur 3.  
@@ -73,7 +73,7 @@ La Lavandière apprend qu’un certain [Villageois](../glossaire.md#villageois) 
 - Vous auriez reçu vos infos **dès la première nuit** : deux joueurs et un jeton [Villageois](../glossaire.md#villageois).  
 - Vous pouvez désigner un joueur malin (par ex. un [Sbire](../glossaire.md#sbire)) et dire qu’il est un [Villageois](../glossaire.md#villageois) vu.  
 - Si un joueur bon affirme être ce rôle, vous pouvez « confirmer » son identité et ainsi le tromper.  
-- Vous pouvez aussi annoncer un rôle inexistant et, si c’est faux, dire que vous êtes [Ivrogne](ivrogne.md) ou [empoisonné·e](empoisonneur.md).  
+- Vous pouvez aussi annoncer un rôle inexistant et, si c’est faux, dire que vous êtes [Ivrogne](ivrogne.md) ou empoisonné·e.  
 - En tant qu’[Espion](espion.md) (ou allié d’un [Espion](espion.md)), vous avez un gros avantage : vous savez quels rôles sont vraiment en jeu.  
 - C’est un bluff risqué, car si le rôle que vous citez n’est pas en jeu, votre couverture tombe vite.  
 
