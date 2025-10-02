@@ -126,13 +126,15 @@ Recommandé pour les nouveaux joueurs, joueuses et Conteurs.
 
 ## 📥 Télécharger & 🖨️ Imprimer
 
+Ces ressources sont pratiques pour imprimer et jouer en personne.
+
 ### 📄 PDF complet
 [📄 Télécharger le PDF de Trouble Brewing](trouble_brewing.pdf)
 
 ### 🖼️ Images pratiques
-![Couverture](images/tb-front.png)  
-![Ordre de Nuit](images/tb-nuit.png)  
-![Liste des rôles](images/tb-roles.png)
+- [![Couverture](images/tb-front.png)](images/tb-front.png)  
+- [![Ordre de Nuit](images/tb-nuit.png)](images/tb-nuit.png)  
+- [![Liste des rôles](images/tb-roles.png)](images/tb-roles.png)
 
 
 ## 📂 Navigation  
