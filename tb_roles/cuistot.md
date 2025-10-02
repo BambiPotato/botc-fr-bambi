@@ -82,4 +82,8 @@ Le **Cuistot** apprend combien de **paires de joueurs maléfiques voisins** exis
 
 ---
 
+## 📂 Navigation 
+
+- 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
+- 🍺 [Retour à Trouble Brewing](../trouble_brewing.md)  
 📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) · Villageois
