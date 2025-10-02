@@ -38,16 +38,20 @@ Vous débutez sur *Blood 🩸 on the Clocktower* ?
 - 📘 [Glossaire des termes](glossaire.md)
 
 ---
-
-- *Rôles par édition*
+## Rôles par édition
 
  ![BotC](images/logo.png) [Blood on the Clocktower](blood_on_the_clocktower.md)
 
  ![TB](images/Logo_trouble_brewing.png) [Trouble Brewing](trouble_brewing.md)   
+ 
  ![BMR](images/Logo_bad_moon_rising-1.png) [Bad Moon Rising](#) *(à venir)*  
+ 
  ![SV](images/Logo_sects_and_violets.png) [Sects & Violets](#) *(à venir)*  
+ 
  ![Voyageurs](images/Generic_traveller.png) [Voyageurs](voyageurs/index.md) 
+ 
  ![Légendaires](images/Generic_fabled.png) [Légendaires](#) *(à venir)*  
+ 
  ![Rôles Expérimentaux](images/Icon_boffin.png) [Rôles Expérimentaux](#) *(à venir)*  
  
 ---
