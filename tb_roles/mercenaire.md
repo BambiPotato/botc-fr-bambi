@@ -89,4 +89,9 @@ Lorsque le Mercenaire déclare vouloir utiliser son pouvoir, accordez au groupe 
 
 ---
 
-**Catégories :** Trouble Brewing — Villageois
+
+## 📂 Navigation 
+
+- 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
+- 🍺 [Retour à Trouble Brewing](../trouble_brewing.md)  
+- 📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) · Villageois
