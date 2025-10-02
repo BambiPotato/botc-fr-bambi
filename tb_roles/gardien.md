@@ -98,4 +98,8 @@ Le Gardien apprend le rôle d’un joueur s’il meurt la nuit.
 
 ---
 
-📂 Catégorie : [Trouble Brewing](../trouble_brewing.md) → Villageois
+## 📂 Navigation 
+
+- 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
+- 🍺 [Retour à Trouble Brewing](../trouble_brewing.md)  
+📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) · Villageois
