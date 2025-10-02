@@ -6,7 +6,7 @@
 
 # Léviathan 
 
-![Léviathan] (../images/Icon_leviathan-1.png)
+![Léviathan] (images/Icon_leviathan-1.png)
 
 *(Rôle expérimental — traduction à venir)*  
 
