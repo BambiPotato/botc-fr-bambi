@@ -84,5 +84,9 @@ La Vierge peut, malgré elle, provoquer l’exécution de son accusateur, ce qui
 
 ---
 
-## 📂 Catégorie  
-**Trouble Brewing – Villageois**
+
+## 📂 Navigation 
+
+- 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
+- 🍺 [Retour à Trouble Brewing](../trouble_brewing.md)  
+- 📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) · Villageois
