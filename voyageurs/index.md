@@ -7,7 +7,7 @@
 
 # 🚶 Voyageurs  
 
-![Logo Voyageurs](images/Generic_traveller.png)
+![Logo Voyageurs](/botc-fr-bambi/images/Generic_traveller.png)
 
 
 ---
