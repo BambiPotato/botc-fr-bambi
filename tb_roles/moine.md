@@ -26,16 +26,30 @@
 ---
 
 ## Jinxes associés  
-<details>
-<summary>Jinx associés (cliquer pour ouvrir)</summary>
 
-- ![Léviathan](../images/Icon_leviathan-1.png) [**Léviathan**](../roles_experimentaux/leviathan.md)  
+<details>
+  <summary>Jinx associés (cliquer pour ouvrir)</summary>
+  <p>
+    <img src="/botc-fr-bambi/images/Icon_leviathan-1.png" width="20"> 
+    <a href="/botc-fr-bambi/roles_experimentaux/leviathan.html"><strong>Léviathan</strong></a> : 
+    <em>Chaque nuit</em>, le Léviathan choisit un joueur vivant (différent des nuits précédentes) : 
+    un <strong>Moine</strong> choisi utilise sa capacité mais <strong>ne meurt pas</strong>.
+  </p>
+  <p>
+    <img src="/botc-fr-bambi/images/Icon_riot.png" width="20"> 
+    <a href="/botc-fr-bambi/roles_experimentaux/riot.html"><strong>Émeute</strong></a> : 
+    <em>Chaque nuit</em>, l’Émeute choisit un joueur bon vivant (différent des nuits précédentes) : 
+    un <strong>Moine</strong> choisi utilise sa capacité mais <strong>ne meurt pas</strong>.
+  </p>
+</details>
+
+
+
+
 Si le Léviathan est en jeu, le joueur protégé par le Moine est à l'abri de toutes les capacités maléfiques.  
 
 - ![Riot](../images/Icon_riot.png) [Riot](../roles_experimentaux/riot.md)  
 Si Riot est en jeu, le joueur protégé par le moine est à l'abri de toutes les capacités maléfiques. 
-
-</details>
 
 
 ---
