@@ -4,7 +4,7 @@
   </a>
 </p>
 
-🧳 # Voyageurs
+
 
 ![Voyageurs](../images/Generic_traveller.png)
 
