@@ -63,7 +63,7 @@ S’il est attaqué par le Démon, le Conteur peut choisir qu’un autre joueur 
 - À l’inverse, parfois annoncer votre rôle permet de créer un consensus autour de vous.  
 - Si un joueur improbable (ex : [Majordome](majordome.md)) meurt la nuit, cela peut être la preuve que vous avez été attaqué.  
 - Si le Démon vous attaque et qu’un autre joueur meurt, il saura qui vous êtes. Faites attention aux regards surpris au lever du jour !  
-- Assurez-vous de ne pas être [Ivrogne](ivrogne.md) ou empoisonné par l’[Empoisonneur](empoisonneur.md), sinon votre capacité échouera et le Mal gagnera.  
+- Assurez-vous de ne pas être l' [Ivrogne](ivrogne.md) ou empoisonné par l’[Empoisonneur](empoisonneur.md), sinon votre capacité échouera et le Mal gagnera.  
 - Évitez de garder vivants uniquement un Démon et un Sbire avec vous dans le final à 3 joueurs : vous serez certainement empoisonné.  
 
 ---
