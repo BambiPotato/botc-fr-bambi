@@ -83,12 +83,14 @@
 - Vous pouvez aussi salir un joueur exécuté en prétendant qu’il était Sbire ou Démon. Risqué (le joueur sait que vous mentez), mais efficace si les autres vous croient.  
 - Si un allié maléfique est exécuté, prétendre qu’il est un Villageois renforce vos deux bluffs.  
 - Une technique courante est de dire qu’un exécuté était **Ivrogne**, pour invalider ses infos et semer le doute.  
-- Vous pouvez rester discret plusieurs jours, puis sortir vos "révélations" au moment clé.  
+- Vous pouvez rester discret plusieurs jours, puis sortir vos "révélations" au moment clé. 
 
+---
+📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) · Villageois
 ---
 
 ## 📂 Navigation 
 
 - 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
 - 🍺 [Retour à Trouble Brewing](../trouble_brewing.md)  
-📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) · Villageois
+
