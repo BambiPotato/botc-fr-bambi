@@ -6,18 +6,18 @@
 
 # Ivrogne
 
-![Ivrogne](../images/Icon_drunk.png)
+![Ivrogne](../images/Icon_drunk-1.png)
 
 **Type :** Étranger  
 **Artiste :** Aidan Roberts  
-
-*"Je ne suis qu’un buveur social, ma chère. Certes, je suis un grand… *hic*… sociabilisateur."*
+ 
+*« Je ne suis qu’un buveur social, ma chère. Certes, je suis un grand… *hic*… sociabilisateur. »*
 
 ---
 
-## 🎭 Apparait dans 
+## Présent dans
 ![TB](../images/Logo_trouble_brewing.png) Trouble Brewing  
-*(Cult of the Clocktower, épisode par Andrew Nathenson)*  
+*(Cult of the Clocktower – épisode par Andrew Nathenson)*  
 
 ---
 
@@ -25,57 +25,53 @@
 
 *Vous ne savez pas que vous êtes l’Ivrogne. Vous pensez être un rôle de Villageois, mais vous ne l’êtes pas.*  
 
-- Le joueur **Ivrogne** croit être un Villageois, mais ne l’est pas réellement.  
-- Le Conteur seul connaît son identité véritable.  
-- L’Ivrogne n’a **aucune capacité réelle** : toutes ses informations sont fausses ou altérées.  
-- Le joueur pense sincèrement incarner un rôle de Villageois.  
+- L’**Ivrogne** croit être un **Villageois** mais ne l’est pas réellement.  
+- Le Conteur seul connaît sa vraie identité.  
+- L’Ivrogne n’a **aucune capacité réelle** : ses « infos » peuvent être fausses/trompeuses.  
+- Le joueur se comporte sincèrement comme le Villageois qu’il pense être.
 
 ---
 
 ## Mise en place
-- Le jeton **Ivrogne** n’est pas placé dans le sac au départ.  
-- À la place, on y met un jeton **Villageois** aléatoire.  
-- Le joueur qui pioche ce jeton est **en réalité l’Ivrogne**, pour toute la partie.  
-- Le Conteur place un rappel **"EST L’IVROGNE"** dans le grimoire.  
-- Pendant la partie, le Conteur agit comme si ce joueur avait vraiment le rôle de Villageois tiré :  
-  - Il se réveille comme ce rôle.  
-  - Il reçoit des infos, mais **fausses** ou trompeuses.  
+- Le jeton **Ivrogne** **n’est pas** mis dans le sac. À la place, on y met un jeton **Villageois**.  
+- Le joueur qui pioche ce jeton est **en réalité l’Ivrogne** pour toute la partie.  
+- Le Conteur place un rappel *EST L’IVROGNE* dans le grimoire.  
+- Pendant la partie, le Conteur agit **comme si** ce joueur était le Villageois tiré (réveils, infos…), mais peut lui donner de **fausses informations**.
 
 ---
 
 ## Exemples
-- L’Ivrogne pense être le **Soldat**. Le Démon l’attaque : l’Ivrogne meurt (il n’avait pas de capacité).  
-- L’Ivrogne pense être l’**Empathe**. La première nuit, il apprend "0" alors qu’il est à côté d’un joueur mauvais. La nuit suivante, il apprend "1".  
-- L’Ivrogne pense être le **Gardien**. Il choisit le Saint et apprend faussement qu’il est l’Empoisonneur.  
-- L’Ivrogne pense être l’**Enquêteur**. Il apprend deux suspects, mais aucun n’est réellement Sbire.  
+- L’Ivrogne pense être le **[Soldat](./soldat.md)**. L’**[Imp](./imp.md)** l’attaque : l’Ivrogne meurt (il n’avait pas la capa du Soldat).  
+- L’Ivrogne pense être l’**[Empathique](./empathique.md)**. Première nuit : il apprend « 0 » alors qu’il est assis à côté d’un joueur maléfique ; la nuit suivante, il apprend « 1 ».  
+- L’Ivrogne pense être le **[Gardien](./gardien.md)**. Tué la nuit, il choisit le **[Saint](./saint.md)** et « apprend » qu’il est l’**[Empoisonneur](./empoisonneur.md)** (info fausse).  
+- Le **[Croque-Mort](./croquemort.md)** voit un personnage exécuté. Cette nuit-là, l’Ivrogne qui se croit **[Enquêteur](./enqueteur.md)** apprend des suspects incohérents.
 
 ---
 
 ## Conseils & Astuces
-- L’Ivrogne ne sait jamais qu’il est Ivrogne. Il se croit toujours un vrai Villageois.  
-- Indices d’ivresse : infos impossibles, pouvoirs qui ne fonctionnent pas, incohérences.  
-- Un nombre anormal d’Étrangers peut révéler la présence d’un Ivrogne (ou d’un Baron).  
-- Distinguer **Ivrogne** et **Empoisonneur** est crucial :  
-  - Ivrogne → une seule personne reçoit de mauvaises infos.  
-  - Empoisonneur → plusieurs personnes reçoivent parfois de mauvaises infos.  
-- Certains personnages confirment indirectement l’existence d’un Ivrogne (Ex : la Vierge ne s’active pas si l’Ivrogne la nomine).  
-- Si vous découvrez que vous êtes probablement Ivrogne, reconsidérez toutes vos infos : ce que vous pensiez vrai est probablement faux.  
+- Vous ne **saurez jamais** que vous êtes l’Ivrogne : fiez-vous aux incohérences (infos impossibles, pouvoir qui « échoue », etc.).  
+- Un nombre d’**Étrangers** anormal peut indiquer un Ivrogne (ou un **[Baron](./baron.md)**).  
+- Distinguer **Ivrogne** vs **[Empoisonneur](./empoisonneur.md)** :  
+  - *Ivrogne* → une seule personne reçoit systématiquement de mauvaises infos.  
+  - *Empoisonneur* → plusieurs joueurs reçoivent parfois de mauvaises infos.  
+- Certains persos révèlent indirectement l’ivresse : la **[Vierge](./vierge.md)** ne s’active pas si l’Ivrogne la nomine (car il n’est pas vraiment Villageois).  
+- Si vous pensez être Ivrogne, **recalibrez** toutes vos déductions (ex. un « 0 » d’Empathique ne blanchit peut-être pas vos voisins).  
+- Rappelez-vous : « informations peu fiables » ≠ toujours fausses ; le Conteur peut parfois dire vrai.
 
 ---
 
 ## Bluff en tant qu’Ivrogne
-- Vous commencez la partie en croyant être un Villageois → bluff crédible par nature.  
-- L’Ivrogne est le seul rôle bon que vous pouvez revendiquer **sans être contredit** par un double.  
-- Bluffez des Villageois à infos incertaines (Empathe, Diseuse, Enquêteur, Bibliothécaire…) puis donnez des infos absurdes.  
-- Exemple : bluffez **Moine** et dites que votre protégé est mort quand même → parfait pour justifier un échec.  
-- Vous pouvez convaincre les autres qu’un **Ivrogne est en jeu** → cela met en doute leurs propres infos et sème le chaos.  
-- Très fort en bluff si coordonné avec un faux Bibliothécaire, Ravenkeeper ou Undertaker qui "confirme" votre ivresse.  
-- Plus tard, révéler "je suis sûrement Ivrogne" peut justifier vos incohérences et piéger de bons joueurs.  
+- Bluff naturel : vous croyez être un **Villageois** → personne ne peut vous « doubler » directement.  
+- Bluffer des rôles à infos (**[Voyante](./voyante.md)**, **[Enquêteur](./enqueteur.md)**, **[Empathique](./empathique.md)**, **[Lavandière](./lavandiere.md)**, **[Bibliothécaire](./bibliothecaire.md)**…) et donner des infos **manifestement fausses** renforce l’illusion.  
+- Bluffer un pouvoir qui peut rater : **[Moine](./moine.md)** (votre protégé « meurt quand même »), **[Soldat](./soldat.md)** (vous « mourez la nuit »), **[Mercenaire](./mercenaire.md)** (tir inefficace), **[Vierge](./vierge.md)** (pas d’exécution).  
+- Faites naître l’hypothèse « il y a un Ivrogne » : cela sème le doute et détourne des vrais méchants.  
+- Coordination : un faux **[Bibliothécaire](./bibliothecaire.md)**, **[Gardien](./gardien.md)** ou **[Croque-Mort](./croquemort.md)** peut « confirmer » votre ivresse.  
+- Plus tard, avouer « je suis sûrement Ivrogne » peut justifier vos incohérences et retourner des votes clés.
 
 ---
 
-## 📂 Navigation 
-
+## 📂 Navigation
 - 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
 - 🍺 [Retour à Trouble Brewing](../trouble_brewing.md)  
 - 📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) · Étranger
+
