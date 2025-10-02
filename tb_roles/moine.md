@@ -36,8 +36,8 @@
     est à l’abri de toutes les capacités maléfiques.
   </p>
   <p>
-    <img src="/botc-fr-bambi/images/Icon_riot.png" width="20" alt="Émeute">
-    <a href="/botc-fr-bambi/roles_experimentaux/riot.html"><strong>Émeute</strong></a> :
+    <img src="/botc-fr-bambi/images/Icon_riot.png" width="20" alt="Riot">
+    <a href="/botc-fr-bambi/roles_experimentaux/riot.html"><strong>Riot</strong></a> :
     Si le <strong>Riot</strong> est en jeu, le joueur protégé par le <strong>Moine</strong>
     est à l’abri de toutes les capacités maléfiques.
   </p>
