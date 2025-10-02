@@ -60,10 +60,10 @@ Vous débutez sur *Blood 🩸 on the Clocktower* ?
 
 ---
 ## 🛠️ Ressources
-- 🧮 [Outil officiel de création de scripts](https://script.bloodontheclocktower.com/)  
+- 🧮 [Outil 🔧 officiel de création de scripts](https://script.bloodontheclocktower.com/)  
 - 🧪 [Générateur d’informations pour le Savant🦽](https://savant.thegrim.gg/)  
 - 📚 [Wiki original en anglais](https://wiki.bloodontheclocktower.com/Main_Page)
-- 🎮 [Pour Jouer en ligne à Blood🩸on the Clocktower🕰️](https://botc.app/)  
+- 🎮 [Pour Jouer en ligne à Blood🩸on the Clocktower 🕰️](https://botc.app/)  
  
 ---
 
