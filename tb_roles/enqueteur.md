@@ -49,7 +49,7 @@ Il ne l’apprend qu’une seule fois, puis plus rien.
 
 ---
 
-## 🎬 Mise en place (How to run)  
+## 🎬 Mise en place 
 
 - Pendant la préparation de la première nuit, placez le jeton mémo **SBIRE** de l’Enquêteur à côté du jeton de rôle d’un [Sbire](../glossaire.md#sbire),  
   et placez le jeton de rappel **FAUX** de l’Enquêteur à côté de n’importe quel autre rôle.  
