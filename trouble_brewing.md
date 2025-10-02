@@ -127,7 +127,7 @@ Recommandé pour les nouveaux joueurs, joueuses et Conteurs.
 ## Ressources  
 
 📄 **Impression PDF**  
-  [Télécharger la fiche PDF de Trouble Brewing](pdf/trouble_brewing.pdf)  
+[Télécharger la fiche complète en PDF](pdf/trouble_brewing.pdf)
 
 🖼️ **Version Images**  
   ![Couverture TB](images/tb-front.png)  
