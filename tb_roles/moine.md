@@ -25,7 +25,7 @@
 
 ---
 
-## Jinx associé  
+## Jinxes associés  
 <details>
 <summary>▼ Voir</summary>
 
@@ -55,14 +55,14 @@ Ce joueur est protégé du Démon pour cette nuit-là.
 ---
 
 ## Exemples
-- Le Moine protège la [Voyante](tb_roles/voyante.md). L’Imp l’attaque. Personne ne meurt.  
-- Le Moine protège le [Maire](/tb_roles/maire.md). L’Imp attaque le Maire. La capacité du Maire ne s’active pas : il reste en vie et personne ne meurt.  
+- Le Moine protège la [Voyante](voyante.md). L’Imp l’attaque. Personne ne meurt.  
+- Le Moine protège le [Maire](maire.md). L’Imp attaque le Maire. La capacité du Maire ne s’active pas : il reste en vie et personne ne meurt.  
 - Le Moine protège l’Imp. L’Imp tente de se tuer pour passer son rôle. Rien ne se passe : l’Imp reste en vie.  
 
 ---
 
 ## Conseils & Astuces
-- Protégez les rôles puissants comme la [Voyante](tb_roles/voyante.md), l’[Empathique](tb_roles/empathique.md) ou la [Vierge](tb_roles/vierge.md).  
+- Protégez les rôles puissants comme la [Voyante](voyante.md), l’[Empathique](empathique.md) ou la [Vierge](vierge.md).  
 - N’attirez pas trop l’attention : si vous êtes découvert, le Démon vous éliminera rapidement.  
 - Vous pouvez feinter en disant publiquement qui vous « allez protéger », pour pousser le Démon à viser ailleurs.  
 - Si un joueur survit grâce à vous, il est probablement bon (sauf cas particuliers avec l’Imp).  
