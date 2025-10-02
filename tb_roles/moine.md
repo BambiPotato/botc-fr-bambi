@@ -28,7 +28,7 @@
 ## Jinxes associés  
 
 <details>
-  <summary>Jinx associés (cliquer pour ouvrir)</summary>
+  <summary>Jinxes associés (cliquer pour ouvrir)</summary>
   <p>
     <img src="/botc-fr-bambi/images/Icon_leviathan-1.png" width="20" alt="Léviathan">
     <a href="/botc-fr-bambi/roles_experimentaux/leviathan.html"><strong>Léviathan</strong></a> :
