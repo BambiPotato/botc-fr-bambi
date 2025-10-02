@@ -19,7 +19,7 @@
 ---
 
 ## Résumé
-**« Chaque jour, après le premier vote comptabilisé, vous pouvez choisir un joueur ayant voté : il meurt. »**
+**« Chaque jour, après le décompte du 1er vote pour l'exécution, vous pouvez choisir un joueur publiquement qui a voté : il meurt. »**
 
 Le Flinger tue des joueurs qui votent.  
 
