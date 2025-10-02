@@ -10,6 +10,8 @@
 
 # Les Voyageurs 🧳
 
+---
+
 ## 📖 Présentation  
 
 Les **Voyageurs** sont des rôles spéciaux pour les joueuses et joueurs qui arrivent en retard ⏰ ou qui devront partir tôt 🚪.  
