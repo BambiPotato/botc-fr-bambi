@@ -48,9 +48,7 @@ Pendant la nuit, si le Démon attaque le Soldat, celui-ci reste en vie. (À l'au
 ---
 
 ## Conseils & Astuces
-- Si vous survivez à une attaque du Démon, la nuit se solde par **aucune mort** :  
-1. le groupe a plus de temps pour exécuter,  
-2. et cela appuie votre rôle.  
+- Si vous survivez à une attaque du Démon, la nuit se solde par **aucune mort** :le groupe a plus de temps pour exécuter et cela appuie votre rôle.  
 - Vous ne saurez jamais avec certitude si vous avez été attaqué. Un [Moine](moine.md) peut avoir protégé quelqu’un, ou le Démon peut avoir ciblé un joueur déjà mort.  
 - Faites semblant d’être une cible intéressante pour le Démon : bluffez en [Voyante](voyante.md), [Croque-Mort](croque-mort.md), [Empathique](empathique.md) ou [Mercenaire](mercenaire.md) pour l’inciter à vous attaquer.  
 - Si vous prouvez être le Soldat, le groupe peut réduire les suspects à la fin de partie (de 3 ou 4 joueurs à seulement 2 ou 3).  
