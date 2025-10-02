@@ -15,7 +15,7 @@
 - **Type** : Villageois  
 - **Artiste** : Aidan Roberts  
 
-*"‘Tis an ill and deathly wind that blows tonight. Come, my brother, take shelter in the abbey while the storm rages. By my word, or by my life, you will be safe."*
+*"Un vent mauvais et mortel souffle ce soir. Viens, mon frère, t'abriter à l'abbaye pendant que la tempête fait rage. Par ma parole, ou par ma vie, tu seras en sécurité."*
 
 ---
 
@@ -30,7 +30,7 @@
 <summary>Jinx associés (cliquer pour ouvrir)</summary>
 
 - ![Léviathan](../images/Icon_leviathan-1.png) [**Léviathan**](../roles_experimentaux/leviathan.md)  
-*Si le Léviathan est en jeu, le joueur protégé par le Moine est à l'abri de toutes les capacités maléfiques.  
+Si le Léviathan est en jeu, le joueur protégé par le Moine est à l'abri de toutes les capacités maléfiques.  
 
 - ![Riot](../images/Icon_riot.png) [Riot](../roles_experimentaux/riot.md)  
 Si Riot est en jeu, le joueur protégé par le moine est à l'abri de toutes les capacités maléfiques. 
