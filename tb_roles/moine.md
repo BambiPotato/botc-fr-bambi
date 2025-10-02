@@ -30,20 +30,18 @@
 <details>
   <summary>Jinx associés (cliquer pour ouvrir)</summary>
   <p>
-    <img src="/botc-fr-bambi/images/Icon_leviathan-1.png" width="20"> 
-    <a href="/botc-fr-bambi/roles_experimentaux/leviathan.html"><strong>Léviathan</strong></a> : 
-    <em>Chaque nuit</em>, le Léviathan choisit un joueur vivant (différent des nuits précédentes) : 
-    un <strong>Moine</strong> choisi utilise sa capacité mais <strong>ne meurt pas</strong>.
+    <img src="/botc-fr-bambi/images/Icon_leviathan-1.png" width="20" alt="Léviathan">
+    <a href="/botc-fr-bambi/roles_experimentaux/leviathan.html"><strong>Léviathan</strong></a> :
+    Si le <strong>Léviathan</strong> est en jeu, le joueur protégé par le <strong>Moine</strong>
+    est à l’abri de toutes les capacités maléfiques.
   </p>
   <p>
-    <img src="/botc-fr-bambi/images/Icon_riot.png" width="20"> 
-    <a href="/botc-fr-bambi/roles_experimentaux/riot.html"><strong>Émeute</strong></a> : 
-    <em>Chaque nuit</em>, l’Émeute choisit un joueur bon vivant (différent des nuits précédentes) : 
-    un <strong>Moine</strong> choisi utilise sa capacité mais <strong>ne meurt pas</strong>.
+    <img src="/botc-fr-bambi/images/Icon_riot.png" width="20" alt="Émeute">
+    <a href="/botc-fr-bambi/roles_experimentaux/riot.html"><strong>Émeute</strong></a> :
+    Si l’<strong>Émeute</strong> est en jeu, le joueur protégé par le <strong>Moine</strong>
+    est à l’abri de toutes les capacités maléfiques.
   </p>
 </details>
-
-
 
 ---
 
