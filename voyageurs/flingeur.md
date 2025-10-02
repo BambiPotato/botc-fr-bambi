@@ -39,7 +39,7 @@ Le Flinger tue des joueurs qui votent.
 
 ## Exemples
 - Le Démon **[Imp](../tb_roles/imp.md)** est nominé. 5 votes sur 10 joueurs en vie : il va mourir. Le Flinger choisit un des votants : ce joueur meurt immédiatement, mais l’Imp reste condamné.  
-- Le **[Voleur](../voyageurs/voleur.md)** est exilé. Plus tard, le **[Serviteur](../tb_roles/butler.md)** est nominé pour exécution, reçoit 1 vote. C’est le premier vote d’exécution du jour. Le Flinger choisit de tuer le votant.  
+- Le **[Voleur](../voyageurs/voleur.md)** est exilé. Plus tard, le **[Sbire](../tb_roles/butler.md)** est nominé pour exécution, reçoit 1 vote. C’est le premier vote d’exécution du jour. Le Flinger choisit de tuer le votant.  
 
 ---
 
