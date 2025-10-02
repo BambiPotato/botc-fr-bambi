@@ -76,6 +76,16 @@ Rejoignez le Discord de **BambiBluePotato** pour jouer en ligne, partager de bon
 
 ---
 
+## 🩸🕰️ Jouer en personne
+
+Vous voulez découvrir *Blood 🩸on the Clocktower🕰️* autour d’une vraie table ?  
+Rejoignez le groupe **Meetup Blood on the Clocktower Paris**, mené par Pierre :  
+
+👉 [Blood on the Clocktower Paris – Meetup](https://www.meetup.com/blood-on-the-clocktower-paris/)  
+
+Organisateur : **Pierre**  
+
+---
 
 🌎 Qui sommes-nous ?
 
