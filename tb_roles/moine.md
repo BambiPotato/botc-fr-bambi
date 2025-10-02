@@ -1,7 +1,3 @@
----
-layout: default
-title: Moine
----
 
 <p align="left">
   <a href="/botc-fr-bambi/">
