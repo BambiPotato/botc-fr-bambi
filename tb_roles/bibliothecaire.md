@@ -111,6 +111,9 @@ Il ne l’apprend qu’une seule fois, puis plus rien.
 
 ---
 
-## 📂 Navigation  
+## 📂 Navigation 
+
 - 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
 - 🍺 [Retour à Trouble Brewing](../trouble_brewing.md)  
+
+📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) · Villageois
