@@ -31,7 +31,7 @@
 
 - Le **Croque-Mort** apprend chaque nuit (sauf la première) quel rôle a été exécuté.  
 - Cela ne s’applique qu’aux morts par **exécution**.  
-  - Les morts dues au [**Flingeur**](../voyageurs/flingeur.md)à l’exil d’un Voyageur, ou à d’autres effets → ne comptent pas.  
+  - Les morts dues au [**Flingeur**](../voyageurs/flingeur.md) à l’exil d’un Voyageur, ou à d’autres effets → ne comptent pas.  
 - Si personne n’a été exécuté, le Croque-Mort ne reçoit rien.  
 - Si l’[Ivrogne](ivrogne.md) est exécuté, le Croque-Mort voit la carte **Ivrogne**, et non celle que l’Ivrogne pensait être.  
 
