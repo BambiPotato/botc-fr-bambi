@@ -35,7 +35,6 @@ Un Voyageur peut rejoindre la partie à tout moment, et la quitter à tout momen
 
 ## 🔵 Trouble Brewing  
 
-![Logo Trouble Brewing](../images/Logo_trouble_brewing.png)  
 
 - ![Flingeur](../images/Icon_gunslinger.png) [**Flingeur**](voyageurs/flingeur.md)  
 
