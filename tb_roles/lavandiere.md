@@ -81,7 +81,9 @@ La Lavandière apprend qu’un certain [Villageois](../glossaire.md#villageois) 
  
 📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) · Villageois
 
-## 📂 Navigation  
 
-- 🔙 [Retour à Trouble Brewing](../trouble_brewing.md)  
-- 🏠 [Retour à l’accueil](../README.md)  
+## 📂 Navigation 
+
+- 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
+- 🍺 [Retour à Trouble Brewing](../trouble_brewing.md)  
+- 📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) · Villageois
