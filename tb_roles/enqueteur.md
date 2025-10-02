@@ -29,7 +29,7 @@
 
 
   <details>
-  <summary>Jinx associé</summary>
+  <summary>Jinx associé(cliquer pour ouvrir)</summary>
   <p>Si l’Enquêteur apprend que le 
   <a href="/botc-fr-bambi/roles_experimentaux/vizir.html">Vizir</a> 
   est en jeu, <strong>le Conteur n’annonce pas son existence</strong> publiquement.</p>
