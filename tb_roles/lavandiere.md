@@ -78,6 +78,8 @@ La Lavandière apprend qu’un certain [Villageois](../glossaire.md#villageois) 
 - C’est un bluff risqué, car si le rôle que vous citez n’est pas en jeu, votre couverture tombe vite.  
 
 ---
+ 
+📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) · Villageois
 
 ## 📂 Navigation  
 
