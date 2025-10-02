@@ -127,12 +127,12 @@ Recommandé pour les nouveaux joueurs, joueuses et Conteurs.
 ## Ressources  
 
 📄 **Impression PDF**  
-- [Télécharger la fiche PDF de Trouble Brewing](pdf/trouble_brewing.pdf)  
+  [Télécharger la fiche PDF de Trouble Brewing](/trouble_brewing.pdf)  
 
 🖼️ **Version Images**  
-- ![Couverture TB](images/tb-front.png)  
-- ![Ordre de Nuit TB](images/tb-nuit.png)  
-- ![Liste des Rôles TB](images/tb-roles.png)  
+  ![Couverture TB](images/tb-front.png)  
+  ![Liste des Rôles TB](images/tb-roles.png)  
+  ![Ordre de Nuit TB](images/tb-nuit.png)  
 
 ## 📂 Navigation  
 - 🔙 [Retour à la page d’accueil](README.md)  
