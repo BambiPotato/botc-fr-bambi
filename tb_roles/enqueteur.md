@@ -40,7 +40,7 @@
 
 ## 📖 Résumé  
 
-> « Vous commencez en apprenant 2 joueurs et le rôle de [Sbire](../glossaire.md#sbire) de l’un des deux. »  
+« Vous commencez en apprenant 2 joueurs et le rôle de [Sbire](../glossaire.md#sbire) de l’un des deux. »  
 
 L’**Enquêteur** apprend qu’un rôle de Sbire particulier est en jeu, mais pas exactement de quel joueur il s'agit.  
 
