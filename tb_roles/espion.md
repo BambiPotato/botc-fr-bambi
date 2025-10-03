@@ -5,22 +5,20 @@
 </p>
 
 # Espion
-![Espion](../images/Icon_spy.png)
+[<img src="../images/Icon_spy.png" alt="Espion" width="400">](espion.md) [Espion](../tb_roles/espion.md)
 
 ## Information
-- **Type :** Sbire  
+- **Type :** [Sbires](../minions.md)   
 - **Artiste :** Marianna Carr  
 - *« Tout maître brasseur digne de ce nom sait qu’aucune concoction ne crée plus vite des problèmes que celle où les espions semblent doubles. »*
 
 ---
 
 ## Apparaît dans 🎭
-![Trouble Brewing](../images/Logo_trouble_brewing.png)  
+[<img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400">](../trouble_brewing.md) [**Trouble Brewing**](../trouble_brewing.md)  
 
+*Cult of the Clocktower* – épisode par Andrew Nathenson  
 
-- *Cult of the Clocktower Episode* — par Andrew Nathenson
-
----
 
 ## Résumé
 *« Chaque nuit, vous voyez le Grimoire. Vous pouvez apparaître comme Bon et comme un Villageois ou un Étranger, même si vous êtes mort. »*
@@ -51,7 +49,7 @@
 
 ---
 
-## Conseils & Astuces (jouer l’Espion)
+## 💡Conseils & Astuces (jouer l’Espion)
 - **Mémorisez bien** le Grimoire : vous savez tout dès le début (rôles en jeu, alignements, statuts).  
 - Notez surtout :  
   - Les rôles non utilisés sont parfaits pour **vos bluffs**.  
