@@ -4,20 +4,20 @@
   </a>
 </p>
 
-# Saint
-![Saint](../images/Icon_saint.png)
+# 🪽Saint
+[<img src="../images/Icon_saint.png" alt="Saint" width="400">](saint.md) [Saint](../tb_roles/saint.md)
 
 ## Information
-- **Type :** Étranger  
+- **Type :** [Étranger](../etrangers.md)  
 - **Artiste :** Aidan Roberts  
 - *« La sagesse engendre la paix. La patience engendre la sagesse. N’ayez pas peur, car viendra le jour où la peur aussi disparaîtra. Prions, et que l’unité de notre vision fasse de nous tous des saints. »*
 
 ---
 
 ## Apparaît dans 🎭
-![Trouble Brewing](../images/Logo_trouble_brewing.png)  
+[<img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400">](../trouble_brewing.md) [**Trouble Brewing**](../trouble_brewing.md)  
 
-- *Cult of the Clocktower Episode* — par Andrew Nathenson
+*Cult of the Clocktower Episode* — par Andrew Nathenson
 
 ---
 
@@ -45,7 +45,7 @@
 
 ---
 
-## Conseils & Astuces (pour le Saint)
+## 💡Conseils & Astuces (pour le Saint)
 - **Ne vous faites pas exécuter.** Vraiment. Prévenez **publiquement** que vous êtes le Saint si vous êtes menacé d’exécution.  
 - **Faites-vous confirmer sans risquer l’exécution :**  
   - Demandez à la **[Voyante](voyante.md)** de vous tester (vous n’êtes pas le Démon).  
