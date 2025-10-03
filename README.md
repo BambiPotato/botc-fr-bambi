@@ -38,7 +38,7 @@ Vous débutez sur *Blood 🩸 on the Clocktower* ?
 
 ---
 
-## 📖 Glossaire  
+## 📘 Glossaire  
 
 - 📘 [Glossaire des termes](glossaire.md)
 
