@@ -6,7 +6,7 @@
 
 # Les Villageois  
 
-![Villageois](./images/townsfolk.png)  
+![Villageois](./images/Generic_townsfolk.png)  
 
 **Alignement :** Bon  
 **But :** Détecter le Démon et l’exécuter.  
