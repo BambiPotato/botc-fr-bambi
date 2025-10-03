@@ -97,7 +97,13 @@ Mais si l’équipe du Bien ne parvient pas à identifier les Sbires et Démons 
 
 ## [<span style="color:red">**Démons**</span>](demons.md)  
 
-*(liste des Démons BMR à ajouter ici)*  
+[<img src="images/Icon_zombuul.png" alt="Zombuul" width="300">](bmr_roles/zombuul.md) [<span style="color:red">**Zombuul**</span>](bmr_roles/zombuul.md)  
+
+[<img src="images/Icon_pukka.png" alt="Pukka" width="300">](bmr_roles/pukka.md) [<span style="color:red">**Pukka**</span>](bmr_roles/pukka.md)  
+
+[<img src="images/Icon_shabaloth.png" alt="Shabaloth" width="300">](bmr_roles/shabaloth.md) [<span style="color:red">**Shabaloth**</span>](bmr_roles/shabaloth.md)  
+
+[<img src="images/Icon_po.png" alt="Po" width="300">](bmr_roles/po.md) [<span style="color:red">**Po**</span>](bmr_roles/po.md)  
 
 ---
 
