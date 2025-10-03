@@ -12,7 +12,7 @@
 - **Illustrateur** : Aidan Roberts  
 - *"Il est temps que quelqu’un prenne les choses en main. Ce quelqu’un… c’est moi."*
 
-**Apparaît dans** :  
+**Apparaît dans** 🎭
 ![Trouble Brewing](../images/Logo_trouble_brewing.png)  
 *Cult of the Clocktower* – épisode par Andrew Nathenson  
 
@@ -61,6 +61,8 @@ Le Flinger tue des joueurs qui votent.
 
 ---
 
-## Catégorie
-Voyageurs
+## 📂 Navigation 
+- 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
+- 🧳 [Retour aux Voyageurs](../voyageurs.md)  
+- 📂 **Catégories :·[Voyageurs](../voyageurs.md) 
 
