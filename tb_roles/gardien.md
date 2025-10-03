@@ -4,14 +4,15 @@
   </a>
 </p>
 
-# 🐦 Gardien (Ravenkeeper)
+# 🐦 Gardien
 
-![Gardien](../images/Icon_ravenkeeper.png)
+[<img src="../images/Icon_ravenkeeper.png" alt="Gardien" width="400">](gardien.md) [Gardien](../tb_roles/gardien.md)
+
 
 ---
 
 ## ℹ️ Informations  
-**Type** : Villageois  
+**Type** : [Villageois](../villageois.md) 
 **Artiste** : Aidan Roberts  
 
 *"Mes oiseaux me vengeront ! Envolez-vous ! Envolez-vous, mes doux et loyaux compagnons ! Vers le manoir et la rivière ! Dans les ruelles et les salons ! Envolez-vous !"*  
