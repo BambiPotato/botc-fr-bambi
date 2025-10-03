@@ -22,8 +22,8 @@ Les Villageois forment la majorité des joueurs.
 ---
 
 ## 📌 Exemples dans *Trouble Brewing*  
-- [Croque-Mort](./trouble_brewing/undertaker.md) : Apprend le rôle des exécutés.  
-- [Empathique](./trouble_brewing/empath.md) : Apprend combien de ses voisins sont maléfiques.  
+- [Voyante](./trouble_brewing/voyante.md) : Détecte le Démon.
+- [Empathique](./trouble_brewing/empathique.md) : Apprend combien de ses voisins sont maléfiques.  
 - [Moine](./trouble_brewing/moine.md) : Protège un joueur des attaques nocturnes.  
 - [Mercenaire](./trouble_brewing/mercenaire.md) : Peut tuer le Démon d’un seul coup (une fois par partie).  
 
