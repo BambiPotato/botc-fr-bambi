@@ -6,9 +6,10 @@
 
 # Empoisonneur  
 
-![Empoisonneur](../images/Icon_poisoner.png)  
+[<img src="../images/Icon_poisoner.png" alt="Empoisonneur" width="400">](empoisonneur.md) [Empoisonneur](../tb_roles/empoisonneur.md)
 
-**Type :** Sbire  
+
+**Type :** [Sbires](../sbires.md)  
 **Artiste :** Aidan Roberts  
 
 *"Ajoutez le composé Alpha au composé Beta... PAS TROP !"*  
@@ -17,7 +18,7 @@
 
 ## Apparait dans 🎭
 ![TB](../images/Logo_trouble_brewing.png) 
-- *(Cult of the Clocktower – épisode par Andrew Nathenson)*  
+*(Cult of the Clocktower* – épisode par Andrew Nathenson 
 
 ---
 
@@ -50,7 +51,7 @@
 
 ---
 
-## Conseils & Astuces  
+## 💡Conseils & Astuces  
 - Les meilleures cibles sont les rôles qui donnent des infos en continu : [Empathique](../tb_roles/empathique.md), [Croque-Mort](../tb_roles/croquemort.md),[Voyante](../tb_roles/voaynte.md)**.  
 - Empoisonner un joueur avec une capacité unique (**[Vierge](../tb_roles/vierge.md) , [Mercenaire](../tb_roles/mercenaire.md) , [Maire](../tb_roles/maire.md)**) peut être dévastateur.  
 - Coordonnez-vous avec votre **Démon** pour ne pas cibler inutilement les mêmes personnes.  
