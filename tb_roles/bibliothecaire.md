@@ -10,7 +10,8 @@
 
 
 
-[<img src="../images/Icon_librarian.png" alt="Bibliothécaire" width="400">](bibliothecaire.md)  
+[<img src="../images/Icon_librarian.png" alt="Bibliothécaire" width="400">](bibliothecaire.md) [**Bibliothécaire**](../tb_roles/bibliothecaire.md)
+
 
 ---
 
