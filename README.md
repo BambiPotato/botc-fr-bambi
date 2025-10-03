@@ -28,6 +28,8 @@ Bienvenue sur le wiki francophone de Blood 🩸 on the Clocktower : toutes les r
 
 ## 📜 Règles du jeu
 
+[<img src="images/logo.png" alt="Blood on the Clocktower" width="300">](blood_on_the_clocktower.md) [**Blood on the Clocktower**](blood_on_the_clocktower.md)  
+
 Vous débutez sur *Blood 🩸 on the Clocktower* ?  
 - 📕 Consultez les [**Règles complètes**](regles.md) pour découvrir l’univers, la mise en place et le déroulement du jeu.
 
