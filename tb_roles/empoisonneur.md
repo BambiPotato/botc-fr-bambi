@@ -42,29 +42,29 @@
 ---
 
 ## Exemples
-- L’Empoisonneur cible le **[Mercenaire](../tb_roles/mercenaire.md)**. Le lendemain, le Mercenaire tente de tuer le **[Lutin (Imp)](../démons/imp.md)**. Rien ne se passe : sa capacité est perdue.  
-- L’**[Empathique](../tb_roles/empathique.md)** empoisonné apprend « 0 » alors qu’il est assis entre deux joueurs maléfiques. La nuit suivante (désormais guéri), il apprend « 2 ».  
-- L’**[Enquêteur](../tb_roles/enqueteur.md)** empoisonné apprend que l’un de deux joueurs est le **[Baron](../sbires/baron.md)**, alors qu’aucun ne l’est.  
-- Le **[Croque-Mort](../tb_roles/croquemort.md)** empoisonné apprend une mauvaise information : l’Imp est mort, mais il croit que c’est la **[Vierge](../tb_roles/vierge.md)**.  
-- L’Empoisonneur cible le **[Maire](../tb_roles/maire.md)** puis devient le **[Lutin (Imp)](../démons/imp.md)**. Comme il n’y a plus d’Empoisonneur en jeu, le Maire n’est plus empoisonné.  
+- L’Empoisonneur cible le [Mercenaire](../tb_roles/mercenaire.md). Le lendemain, le Mercenaire tente de tuer l'[Imp)](../tb_roles/imp.md)**. Rien ne se passe : sa capacité est perdue.  
+- L’[Empathique](../tb_roles/empathique.md) empoisonné apprend un « 0 » alors qu’il est assis entre deux joueurs maléfiques. La nuit suivante (désormais sain), il apprend un « 2 ».  
+- L’[Enquêteur](../tb_roles/enqueteur.md) empoisonné apprend que l’un de deux joueurs est le [Baron](../tb_roles/baron.md), alors qu’aucun ne l’est.  
+- Le [Croque-Mort](../tb_roles/croquemort.md) empoisonné apprend une mauvaise information : l’Imp est mort, mais il croit que c’est la [Vierge](../tb_roles/vierge.md).  
+- L’Empoisonneur cible le [Maire](../tb_roles/maire.md) puis devient l' **[Imp)](../tb_roles/imp.md). Comme il n’y a plus d’Empoisonneur en jeu, le Maire n’est plus empoisonné.  
 
 ---
 
-## Conseils & Astuces (Sbire)
-- Les meilleures cibles sont les rôles qui donnent des infos en continu : **[Empathique](../tb_roles/empathique.md)**, **[Croque-Mort](../tb_roles/croquemort.md)**, **[Diseuse de Bonne Aventure](../tb_roles/diseuse_de_bonne_aventure.md)**.  
-- Empoisonner un joueur avec une capacité unique (**[Vierge](../tb_roles/vierge.md)**, **[Mercenaire](../tb_roles/mercenaire.md)**, **[Maire](../tb_roles/maire.md)**) peut être dévastateur.  
-- Coordonnez-vous avec votre **[Démon](../demons/imp.md)** pour ne pas cibler inutilement les mêmes personnes.  
-- Vous pouvez même **empoisonner votre propre Démon** pour simuler une protection (comme si un **[Moine](../tb_roles/moine.md)** l’avait protégé).  
-- Vous pouvez rendre la **[Femme Écarlate](../sbires/femme_ecarlate.md)** inapte à devenir Démon si l’Imp meurt → ainsi, un autre Sbire peut prendre le relais.  
-- Alterner vos cibles brouille les pistes ; mais cibler toujours la même personne peut la faire passer pour l’**[Ivrogne](../etrangers/ivrogne.md)**.  
+## Conseils & Astuces  
+- Les meilleures cibles sont les rôles qui donnent des infos en continu : [Empathique](../tb_roles/empathique.md), [Croque-Mort](../tb_roles/croquemort.md),[Voyante](../tb_roles/voaynte.md)**.  
+- Empoisonner un joueur avec une capacité unique (**[Vierge](../tb_roles/vierge.md) , [Mercenaire](../tb_roles/mercenaire.md) , [Maire](../tb_roles/maire.md)**) peut être dévastateur.  
+- Coordonnez-vous avec votre **Démon** pour ne pas cibler inutilement les mêmes personnes.  
+- Vous pouvez même **empoisonner votre propre Démon** pour simuler une protection (comme si un [Moine](../tb_roles/moine.md) l’avait protégé).  
+- Vous pouvez rendre la [Femme Écarlate](../tb_roles/femme_ecarlate.md)  inapte à devenir Démon si l’Imp meurt → ainsi, un autre Sbire peut prendre le relais.  
+- Alterner vos cibles brouille les pistes ; mais cibler toujours la même personne peut la faire passer pour l’[Ivrogne](../tb_roles/ivrogne.md).  
 
 ---
 
-## Combattre l’Empoisonneur (Villageois)
+## Combattre l’Empoisonneur 
 - Le premier jour, vos infos sont généralement fiables : l’Empoisonneur ne sait pas encore qui vous êtes.  
 - Méfiez-vous si vos résultats deviennent soudainement incohérents.  
 - L’Empoisonneur adore cibler les leaders de table ou ceux qui prennent beaucoup la parole.  
-- Différencier l’**[Ivrogne](../etrangers/ivrogne.md)** de l’Empoisonneur est crucial : si plusieurs personnes reçoivent de fausses infos, c’est probablement lui.  
+- Différencier l’**[Ivrogne](../tb_roles/ivrogne.md)** de l’Empoisonneur est crucial : si plusieurs personnes reçoivent de fausses infos, c’est probablement lui.  
 - Le **[Bibliothécaire](../tb_roles/bibliothecaire.md)** ou l’**[Enquêteur](../tb_roles/enqueteur.md)** peuvent débusquer l’Empoisonneur dès le départ.  
 
 ---
