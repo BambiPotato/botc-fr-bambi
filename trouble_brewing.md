@@ -35,8 +35,8 @@ Celles et ceux qui savent lire les signes comprennent qu’il y a… **Trouble B
 <span style="color:red">Tant le Bien que le Mal peuvent prendre l’avantage en effectuant des **sacrifices bien calculés**.  
 C’est une chasse au Démon relativement simple, mais les Sbires et le Démon disposent de nombreux moyens pour semer la confusion. Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient savoir s’ils veulent espérer survivre.
 
-👉 Niveau : **Débutant**.</span>   
-<span style="color:red"Recommandé pour les nouveaux joueurs, joueuses et Conteurs.<span style="color:red"  
+👉 Niveau : **Débutant**. 
+Ce module est recommandé pour les nouveaux joueurs, joueuses et Conteurs.
 </div>
 
 ## [<span style="color:blue">**Villageois**</span>](../villageois.md)  
