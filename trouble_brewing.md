@@ -10,6 +10,7 @@
 # 🍺 Trouble Brewing
 
 [<img src="images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="300">](trouble_brewing.md) [**Trouble Brewing**](trouble_brewing.md)  
+[<img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400">](../trouble_brewing.md) [**Trouble Brewing**](../trouble_brewing.md)  
 
 ---
 
