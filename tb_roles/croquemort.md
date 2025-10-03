@@ -6,7 +6,7 @@
 
 # ⚰️ Croque-Mort  
 
-![Croque-Mort](../images/Icon_undertaker.png)
+[<img src="../images/Icon_undertaker.png" alt="Croque-Mort" width="400">](croquemort.md) [**Croque-Mort**](../tb_roles/croquemort.md)
 
 ---
 
@@ -20,8 +20,9 @@
 
 ## 🎭 Apparaît dans  
 
-![Trouble Brewing](../images/Logo_trouble_brewing.png)  
-*Cult of the Clocktower – Andrew Nathenson*  
+[<img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400">](../trouble_brewing.md) [**Trouble Brewing**](../trouble_brewing.md)  
+
+*Cult of the Clocktower* – Andrew Nathenson*  
 
 ---
 
