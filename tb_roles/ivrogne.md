@@ -73,5 +73,5 @@
 ## 📂 Navigation
 - 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
 - 🍺 [Retour à Trouble Brewing](../trouble_brewing.md)  
-- 📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) · Étranger
+- 📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) · [Étrangers](../etrangers.md) 
 
