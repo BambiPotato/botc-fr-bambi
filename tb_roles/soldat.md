@@ -72,4 +72,4 @@ Pendant la nuit, si le Démon attaque le Soldat, celui-ci reste en vie. (À l'au
 
 - 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
 - 🍺 [Retour à Trouble Brewing](../trouble_brewing.md)  
-- 📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) · Villageois
+- 📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) · [Villageois](../villageois.md) 
