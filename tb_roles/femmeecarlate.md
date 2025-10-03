@@ -3,13 +3,13 @@
     <img src="../images/logo.png" alt="Accueil BotC FR" width="80">
   </a>
 </p>
+
 # Femme Écarlate  
 
 ![Femme Écarlate](../images/Icon_scarletwoman.png)  
 
-## Information
-- **Type :** Sbire  
-- **Artiste :** Marianna Carr  
+**Type :** Sbire  
+**Artiste :** Marianna Carr  
 *"Tu m’as révélé les secrets du Conseil de la Flamme Pourpre. Nous avons brûlé ensemble dans le feu, dans le désir et dans la communion bestiale, et je t’ai servi pour toujours. Mais ce soir, mon cher, c’est moi ta maîtresse."*
 
 ---
@@ -31,7 +31,8 @@ La Femme Écarlate devient le Démon si celui-ci meurt alors qu’il reste **au 
 ---
 
 ## Comment jouer
-- Si le Démon meurt alors que 5+ joueurs sont encore vivants, **remplacez** immédiatement le jeton de la Femme Écarlate par un jeton de Démon (dans Trouble Brewing, toujours l’[**Imp**](../tb_roles/imp.md)).  
+Si le Démon meurt alors que 5+ joueurs sont encore vivants :  
+- **Remplacez** immédiatement le jeton de la Femme Écarlate par un jeton de Démon (dans Trouble Brewing, toujours l’[**Imp**](../tb_roles/imp.md)).  
 - Placez le rappel **« Est le Démon »** sur son jeton dans le Grimoire.  
 - La nuit suivante, réveillez la nouvelle Imp et montrez-lui le jeton **« Vous êtes »** puis le jeton **Imp**.  
 - Dans d’autres éditions (où il y a plusieurs Démons), elle prend exactement le type de Démon mort.  
