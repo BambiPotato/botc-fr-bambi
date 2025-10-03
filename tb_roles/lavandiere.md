@@ -8,6 +8,9 @@
 
 ![Lavandière](../images/Icon_washerwoman.png)  
 
+[<img src="../images/Icon_washerwoman.png" alt="Lavandière" width="100">](../tb_roles/lavandiere.md) [**Lavandière**](../tb_roles/lavandiere.md)
+
+
 ---
 
 ## 📖 Informations  
