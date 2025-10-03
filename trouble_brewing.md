@@ -39,7 +39,7 @@ Celles et ceux qui savent lire les signes comprennent qu’il y a… **Trouble B
 <span style="color:red">*Ce module est recommandé pour les nouveaux joueurs, joueuses et Conteurs.* </span> 
 </div>
 
-## [<span style="color:blue">**Villageois**</span>](../villageois.md)  
+## [<span style="color:blue">**Villageois**</span>](villageois.md)  
 
 [<img src="images/Icon_washerwoman.png" alt="Lavandière" width="300">](tb_roles/lavandiere.md) [**Lavandière**](tb_roles/lavandiere.md)  
 
@@ -69,7 +69,7 @@ Celles et ceux qui savent lire les signes comprennent qu’il y a… **Trouble B
 
 ---
 
-## [<span style="color:blue">**Étrangers**</span>](../etrangers.md)  
+## [<span style="color:blue">**Étrangers**</span>](etrangers.md)  
 
 [<img src="images/Icon_butler.png" alt="Majordome" width="300">](tb_roles/majordome.md) [**Majordome**](tb_roles/majordome.md)  
 
@@ -93,7 +93,7 @@ Celles et ceux qui savent lire les signes comprennent qu’il y a… **Trouble B
 
 ---
 
-## [<span style="color:red">**Démons**</span>](../demons.md) 
+## [<span style="color:red">**Démons**</span>](demons.md) 
 
 [<img src="images/Icon_imp.png" alt="Imp" width="300">](tb_roles/imp.md) [**Imp**](tb_roles/imp.md)  
 ---
