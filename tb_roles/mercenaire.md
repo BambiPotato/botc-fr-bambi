@@ -37,13 +37,13 @@
 ## Résumé
 *"Une fois par partie, durant la journée, choisissez publiquement un joueur : si c’est le Démon, il meurt."*
 
-Le Mercenaire peut tuer le Démon en devinant qui il est.
-Le Mercenaire peut choisir d'utiliser sa capacité à tout moment de la journée et doit déclarer à tout le monde quand il l'utilise. 
-S'il choisit le Démon, celui-ci meurt immédiatement. Sinon, rien ne se passe.
-Les joueurs ignorent l'identité du joueur décédé. Après tout, il s'agissait peut-être du Reclus !
-Un Mercenaire qui utilise sa capacité alors qu'il est empoisonné ou ivre ne peut plus l'utiliser.
-Le Mercenaire choisira un joueur vivant. Même s'il choisit un Imp mort, rien ne se passe, car un joueur mort ne peut pas mourir à nouveau.
-Les joueurs peuvent dire ce qu'ils veulent à tout moment, donc un joueur qui prétend être le Mercenaire peut prétendre utiliser la capacité du Mercenaire.
+- Le Mercenaire peut tuer le Démon en devinant qui il est.
+- Le Mercenaire peut choisir d'utiliser sa capacité à tout moment de la journée et doit déclarer à tout le monde quand il l'utilise. 
+- S'il choisit le Démon, celui-ci meurt immédiatement. Sinon, rien ne se passe.
+- Les joueurs ignorent l'identité du joueur décédé. Après tout, il s'agissait peut-être du Reclus !
+- Un Mercenaire qui utilise sa capacité alors qu'il est empoisonné ou ivre ne peut plus l'utiliser.
+- Le Mercenaire choisira un joueur vivant. Même s'il choisit un Imp mort, rien ne se passe, car un joueur mort ne peut pas mourir à nouveau.
+- Les joueurs peuvent dire ce qu'ils veulent à tout moment, donc un joueur qui prétend être le Mercenaire peut prétendre utiliser la capacité du Mercenaire.*
 ---
 
 ## Comment Conter
