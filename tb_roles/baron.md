@@ -3,8 +3,8 @@
     <img src="../images/logo.png" alt="Accueil BotC FR" width="80">
   </a>
 </p>
----
 
+---
 # Baron
 
 # ![Baron](../images/Icon_baron.png) 
