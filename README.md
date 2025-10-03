@@ -54,7 +54,17 @@ Vous débutez sur *Blood 🩸 on the Clocktower* ?
 
  ![BotC](images/logo.png) [Blood on the Clocktower](blood_on_the_clocktower.md)
 
- ![TB](images/Logo_trouble_brewing.png) [Trouble Brewing](trouble_brewing.md)   
+ ![TB](images/Logo_trouble_brewing.png) [Trouble Brewing](trouble_brewing.md)  
+ 
+<p align="center">
+  <a href="/botc-fr-bambi/trouble_brewing/">
+    <img src="/botc-fr-bambi/images/logo_trouble_brewing.png" alt="Trouble Brewing" width="150">
+  </a>
+</p>
+
+<p align="center">
+  🔗 <a href="/botc-fr-bambi/trouble_brewing/">Voir les rôles de Trouble Brewing</a>
+</p>
  
  ![BMR](images/Logo_bad_moon_rising-1.png) [Bad Moon Rising](#) *(à venir)*  
  
