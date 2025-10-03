@@ -4,21 +4,22 @@
   </a>
 </p>
 
-# Femme Écarlate  
+# 💃 Femme Écarlate  
 
-![Femme Écarlate](../images/Icon_scarletwoman.png)  
+[<img src="../images/Icon_scarletwoman.png" alt="Femme Écarlate" width="400">](femme_ecarlate.md) [Femme Écarlate](../tb_roles/femme_ecarlate.md)
+ 
 
-**Type :** Sbire  
+**Type :** [Sbires](../sbires.md)  
 **Artiste :** Marianna Carr  
 *"Tu m’as révélé les secrets du Conseil de la Flamme Pourpre. Nous avons brûlé ensemble dans le feu, dans le désir et dans la communion bestiale, et je t’ai servi pour toujours. Mais ce soir, mon cher, c’est moi ta maîtresse."*
 
 ---
 
 ## Apparaît dans 🎭
-![Trouble Brewing](../images/Logo_trouble_brewing.png) [**Trouble Brewing**](../trouble_brewing.md)  
-*Cult of the Clocktower Episode* — par Andrew Nathenson  
+[<img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400">](../trouble_brewing.md) [**Trouble Brewing**](../trouble_brewing.md)  
 
----
+*Cult of the Clocktower* – épisode par Andrew Nathenson  
+
 
 ## Résumé
 **« S’il y a 5 joueurs ou plus en vie et que le Démon meurt, vous devenez le Démon. (Les Voyageurs ne comptent pas). »**
