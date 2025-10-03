@@ -10,7 +10,7 @@
 
 ---
 
-**Catégorie** :[Villageois](../villageois.md) 
+**Type** :[Villageois](../villageois.md) 
 **Artiste :** Aidan Roberts  
 
 *"Mourir."*
