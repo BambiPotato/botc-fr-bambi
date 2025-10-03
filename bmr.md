@@ -71,7 +71,7 @@ Recommandé pour les joueurs/joueuses **proactifs, attentifs à la coopération 
 Ces ressources sont pratiques pour imprimer et jouer en personne.  
 
 ### 📄 PDF complet  
-[📄 Télécharger le PDF de Bad Moon Rising](bmr-roles.pdf)  
+[📄 Télécharger le PDF de Bad Moon Rising](images/bmr-roles.pdf)  
 
 ### 🖼️ Images pratiques  
 - [![Couverture](images/bmr-front.png)](images/bmr-front.png)  
