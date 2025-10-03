@@ -64,5 +64,5 @@ Le Flinger tue des joueurs qui votent.
 ## 📂 Navigation 
 - 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
 - 🧳 [Retour aux Voyageurs](../voyageurs.md)  
-- 📂 **Catégories** :·[Voyageurs](../voyageurs.md) 
+- 📂 Catégories :[Trouble Brewing](../trouble_brewing.md) ·[Voyageurs](../voyageurs.md) 
 
