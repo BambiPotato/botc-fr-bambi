@@ -73,7 +73,13 @@ Mais si l’équipe du Bien ne parvient pas à identifier les Sbires et Démons 
 
 ## [<span style="color:blue">**Étrangers**</span>](etrangers.md)  
 
-*(liste des Étrangers BMR à ajouter ici)*  
+[<img src="images/Icon_goon.png" alt="Brute" width="300">](bmr_roles/brute.md) [<span style="color:blue">**Brute**</span>](bmr_roles/brute.md)  
+
+[<img src="images/Icon_lunatic.png" alt="Lunatique" width="300">](bmr_roles/lunatique.md) [<span style="color:blue">**Lunatique**</span>](bmr_roles/lunatique.md)  
+
+[<img src="images/Icon_tinker.png" alt="Bricoleur" width="300">](bmr_roles/bricoleur.md) [<span style="color:blue">**Bricoleur**</span>](bmr_roles/bricoleur.md)  
+
+[<img src="images/Icon_moonchild.png" alt="Enfant de la Lune" width="300">](bmr_roles/enfantdelalune.md) [<span style="color:blue">**Enfant de la Lune**</span>](bmr_roles/enfantdelalune.md)  
 
 ---
 
