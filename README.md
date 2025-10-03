@@ -52,6 +52,26 @@ Vous débutez sur *Blood 🩸 on the Clocktower* ?
 ---
 ## 👺Rôles par Édition
 
+[<img src="images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="300">](trouble_brewing.md) [**Trouble Brewing**](trouble_brewing.md)  
+
+[<img src="images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="300">](#) [**Bad Moon Rising**](#) *(à venir)*  
+
+[<img src="images/Logo_sects_and_violets.png" alt="Sects & Violets" width="300">](#) [**Sects & Violets**](#) *(à venir)*  
+
+[<img src="images/Generic_traveller.png" alt="Voyageurs" width="300">](voyageurs/index.md) [**Voyageurs**](voyageurs/index.md)  
+
+[<img src="images/Generic_fabled.png" alt="Légendaires" width="300">](#) [**Légendaires**](#) *(à venir)*  
+
+[<img src="images/Icon_boffin.png" alt="Rôles Expérimentaux" width="300">](#) [**Rôles Expérimentaux**](#) *(à venir)*  
+
+---
+
+[<img src="images/Icon_mezepheles.png" alt="Scripts personnalisés" width="300">](#) [**Scripts personnalisés**](#) *(à venir)*  
+
+
+
+
+
  ![BotC](images/logo.png) [Blood on the Clocktower](blood_on_the_clocktower.md)
 
  [<img src="./images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="300">](./trouble_brewing.md) [Trouble Brewing](trouble_brewing.md) 
