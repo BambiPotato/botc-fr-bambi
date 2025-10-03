@@ -52,17 +52,6 @@ Vous débutez sur *Blood 🩸 on the Clocktower* ?
 ---
 ## Rôles par édition
 
-<p align="center">
-  <a href="/botc-fr-bambi/trouble_brewing/">
-    <img src="./images/logo_trouble_brewing.png" alt="Trouble Brewing" width="150">
-  </a>
-</p>
-
-<p align="center">
-  🔗 <a href="/botc-fr-bambi/trouble_brewing/">Voir les rôles de Trouble Brewing</a>
-</p>
-
-
  ![BotC](images/logo.png) [Blood on the Clocktower](blood_on_the_clocktower.md)
 
  ![TB](images/Logo_trouble_brewing.png) [Trouble Brewing](trouble_brewing.md)   
