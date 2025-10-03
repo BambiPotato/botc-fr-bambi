@@ -6,9 +6,11 @@
 
 # Mercenaire
 
-![Mercenaire](../images/Icon_slayer.png)
+[<img src="../images/Icon_slayer.png" alt="Mercenaire" width="400">](mercenaire.md) [Mercenaire](../tb_roles/mercenaire.md)
 
-**Type :** Villageois  
+---
+
+**Type :[Villageois](../villageois.md) 
 **Artiste :** Aidan Roberts  
 
 *"Mourir."*
@@ -16,9 +18,9 @@
 ---
 
 ## Apparait dans 🎭
-![TB](../images/Logo_trouble_brewing.png) 
+[<img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400">](../trouble_brewing.md) [**Trouble Brewing**](../trouble_brewing.md)
 
-- *(Cult of the Clocktower, épisode par Andrew Nathenson)*  
+- *Cult of the Clocktower* - épisode par Andrew Nathenson  
 
 ---
 
@@ -69,7 +71,7 @@ Lorsque le Mercenaire déclare vouloir utiliser son pouvoir, accordez au groupe 
 
 ---
 
-## Conseils & Astuces
+## 💡Conseils & Astuces
 - Utiliser votre pouvoir **trop tard** est risqué : la plupart des joueurs meurent avant la fin. Tirez avant de mourir inutilement.  
 - Attendre la fin de partie peut cependant augmenter vos chances de viser le bon joueur.  
 - Coordonnez-vous avec les Villageois qui ont des infos :  
