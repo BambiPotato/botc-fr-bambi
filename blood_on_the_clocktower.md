@@ -27,4 +27,5 @@
 
 ---
 🔧 [**Règles complètes du Jeu BotC 🩸**](regles.md)
+
 ⬅️ [Retour à l’accueil](README.md)
