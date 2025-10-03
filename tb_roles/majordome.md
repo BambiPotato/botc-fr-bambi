@@ -22,7 +22,6 @@
 ---
 
 ## Résumé
-**Capacité :**  
 *Chaque nuit, choisissez un joueur (pas vous-même) : demain, vous ne pourrez voter que si ce joueur vote également.*  
 
 Le Majordome ne peut voter que si son **Maître** vote.  
