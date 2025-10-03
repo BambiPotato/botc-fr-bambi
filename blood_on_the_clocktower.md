@@ -26,5 +26,5 @@
 - Des centaines de rôles existent, avec des interactions parfois imprévisibles.  
 
 ---
-
+🔧 [**Règles complètes du Jeu BotC 🩸**](regles.md)
 ⬅️ [Retour à l’accueil](README.md)
