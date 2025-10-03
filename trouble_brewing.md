@@ -11,7 +11,6 @@
 
 [<img src="images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="300">](trouble_brewing.md) [**Trouble Brewing**](trouble_brewing.md)  
 
----
 
 ## 📖 Synopsis  
 
@@ -116,8 +115,7 @@ Ces ressources sont pratiques pour imprimer et jouer en personne.
 
 
 ## 📂 Navigation
-- 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
-- 🍺 [Retour à Trouble Brewing](../trouble_brewing.md)  
-- 🔙 [Retour à la page d’accueil](README.md)  
+
+- 🏠 [Retour à la page d’accueil](README.md)  
 
 
