@@ -6,7 +6,7 @@
 
 # Reclus
 
-[<img src="../images/Icon_recluse.png" alt="Reclus" width="400">](reclus.md) [Reclus](../tb_roles/reclus.md)
+[<img src="../images/Icon_recluse-1.png" alt="Reclus" width="400">](reclus.md) [Reclus](../tb_roles/reclus.md)
 
 **Type :** [Étranger](../etrangers.md)  
 **Artiste :** Aidan Roberts  
