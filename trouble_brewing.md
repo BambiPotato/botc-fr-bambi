@@ -29,14 +29,14 @@ Celles et ceux qui savent lire les signes comprennent qu’il y a… **Trouble B
 
 <span style="color:red">**Trouble Brewing** contient un peu de tout.  
 <span style="color:red">- Certains rôles reçoivent passivement des informations.  
-- D’autres doivent agir pour découvrir qui est qui.  
-- Quelques-uns cherchent simplement à attirer l’attaque du Démon. </span> 
+<span style="color:red">- D’autres doivent agir pour découvrir qui est qui.  
+<span style="color:red">- Quelques-uns cherchent simplement à attirer l’attaque du Démon. </span> 
 
 <span style="color:red">Tant le Bien que le Mal peuvent prendre l’avantage en effectuant des **sacrifices bien calculés**.  
-C’est une chasse au Démon relativement simple, mais les Sbires et le Démon disposent de nombreux moyens pour semer la confusion. Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient savoir s’ils veulent espérer survivre.
+<span style="color:red">C’est une chasse au Démon relativement simple, mais les Sbires et le Démon disposent de nombreux moyens pour semer la confusion. <span style="color:red">Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient savoir s’ils veulent espérer survivre.
 
-👉 Niveau : **Débutant**. 
-Ce module est recommandé pour les nouveaux joueurs, joueuses et Conteurs.
+<span style="color:red">👉 Niveau : **Débutant**. 
+<span style="color:red">*Ce module est recommandé pour les nouveaux joueurs, joueuses et Conteurs.* </span> 
 </div>
 
 ## [<span style="color:blue">**Villageois**</span>](../villageois.md)  
