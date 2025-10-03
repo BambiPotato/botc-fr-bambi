@@ -54,7 +54,7 @@ Vous débutez sur *Blood 🩸 on the Clocktower* ?
 
  ![BotC](images/logo.png) [Blood on the Clocktower](blood_on_the_clocktower.md)
 
- [<img src="./images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="150">](./trouble_brewing.md/)
+ [<img src="./images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="150">](./trouble_brewing.md/) [Trouble Brewing](trouble_brewing.md)  
 
  ![TB](images/Logo_trouble_brewing.png) [Trouble Brewing](trouble_brewing.md)  
   
