@@ -20,7 +20,7 @@
 ---
 
 ## 🎭 Apparaît dans 
-![TB](../images/Logo_trouble_brewing.png) Trouble Brewing  
+![TB](../images/Logo_trouble_brewing.png) 
 *Cult of the Clocktower Episode by Andrew Nathenson*  
 
 ---
