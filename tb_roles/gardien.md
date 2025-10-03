@@ -24,8 +24,6 @@
 
 ---
 
-## 🔀 Jinxes associés  
-
 <details>
   <summary>Jinxes associés (cliquer pour ouvrir)</summary>
   <p>
