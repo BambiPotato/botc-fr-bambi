@@ -46,8 +46,8 @@ Vous débutez sur *Blood 🩸 on the Clocktower* ?
 
 ##  🎭Catégories 
 
-- [**Villageois**](villageois.md)  
-- [**Étrangers**](etrangers.md) 
+-  [<span style="color:blue">**Villageois**</span>](../villageois.md) 
+- [<span style="color:blue">**Étrangers**</span>](../etrangers.md) 
 - [<span style="color:red">**Sbires**</span>](sbires.md) 
 - [<span style="color:red">**Démons**</span>](demons.md) 
 
