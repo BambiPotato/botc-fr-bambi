@@ -4,13 +4,26 @@
   </a>
 </p>
 
-# Imp  
 
-![Imp](../images/Icon_imp.png)  
+# 👹 Imp  
 
-**Type :** Démon  
-**Artiste :** Aidan Roberts  
-*"Nous devons garder l’esprit vif et notre épée plus affûtée encore. Le mal marche parmi nous, et ne reculera devant rien pour nous détruire, simples gens de bien, et mener notre belle ville à la ruine. Ne faites confiance à personne. Mais, si vous devez faire confiance à quelqu’un, faites-moi confiance."*  
+[<img src="../images/Icon_imp.png" alt="Imp" width="400">](imp.md) [Imp](../tb_roles/imp.md)
+
+---
+
+## ℹ️ Information  
+
+- **Type :** [Démon](../demons.md)  
+- **Artiste:** Aidan Roberts  
+- *"Nous devons garder l’esprit vif et notre épée plus affûtée encore. Le mal marche parmi nous, et ne reculera devant rien pour nous détruire, simples gens de bien, et mener notre belle ville à la ruine. Ne faites confiance à personne. Mais, si vous devez faire confiance à quelqu’un, faites-moi confiance."*  
+
+---
+
+## 🎭 Apparaît dans  
+
+[<img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400">](../trouble_brewing.md) [**Trouble Brewing**](../trouble_brewing.md)  
+
+*Cult of the Clocktower* – épisode par Andrew Nathenson  
 
 ---
 
@@ -35,7 +48,7 @@ L’Imp tue un joueur chaque nuit et peut transférer son rôle à un Sbire... m
 
 ---
 
-## 🧩 Exemples  
+## Exemples  
 - La première nuit, l’Imp apprend que ses Sbires sont Céline et Tanina. Il apprend aussi que le [Moine](../trouble_brewing/monk.md), le [Cuisinier](../trouble_brewing/chef.md) et le [Bibliothécaire](../trouble_brewing/librarian.md) ne sont pas en jeu. Il bluffe d’abord comme Cuisinier, puis comme [Maire](../trouble_brewing/mayor.md). Finalement, il est exécuté : le Bien gagne.  
 - Une nuit, l’Imp choisit Nicolas qui meurt. La nuit suivante, il se choisit lui-même et meurt, puis le [Sbire Empoisonneur](../trouble_brewing/poisoner.md) devient le nouvel Imp.  
 
