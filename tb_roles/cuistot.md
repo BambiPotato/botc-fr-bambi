@@ -6,7 +6,8 @@
 
 # 👨‍🍳 Cuistot  
 
-![Cuistot](../images/Icon_chef.png)
+<img src="../images/Icon_chef.png" alt="Cuistot" width="400">](cuistot.md) [**Cuistot**](../tb_roles/cuistot.md)
+
 
 ---
 
@@ -20,7 +21,7 @@
 
 ## 🎭 Apparaît dans  
 
-![Trouble Brewing](../images/Logo_trouble_brewing.png)  
+[<img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400">](../trouble_brewing.md) [**Trouble Brewing**](../trouble_brewing.md)  
 *Cult of the Clocktower – Andrew Nathenson*  
 
 ---
