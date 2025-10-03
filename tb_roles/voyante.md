@@ -6,7 +6,7 @@
 
 # 🔮 Voyante  
 
-[<img src="../images/Icon_fortune_teller.png" alt="Voyante" width="400">](voyante.md) [**Voyante**](../tb_roles/voyante.md)
+[<img src="../images/Icon_fortuneteller.png" alt="Voyante" width="400">](voyante.md) [**Voyante**](../tb_roles/voyante.md)
 
 ---
 
