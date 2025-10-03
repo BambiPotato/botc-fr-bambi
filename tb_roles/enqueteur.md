@@ -10,7 +10,6 @@
 
 [<img src="../images/Icon_investigator.png" alt="Enquêteur" width="400">](enqueteur.md) [**Enquêteur**](../tb_roles/enqueteur.md)
 
-![Enquêteur](../images/Icon_investigator.png)
 
 ---
 
@@ -26,7 +25,6 @@
 
 [<img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400">](../trouble_brewing.md) [**Trouble Brewing**](../trouble_brewing.md)  
 
-![Trouble Brewing](../images/Logo_trouble_brewing.png)  
 *Cult of the Clocktower* – épisode par Andrew Nathenson  
 
 ---
