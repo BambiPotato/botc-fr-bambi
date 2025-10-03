@@ -6,9 +6,9 @@
 
 # Maire
 
-![Maire](../images/Icon_mayor.png)
+[<img src="../images/Icon_mayor.png" alt="Maire" width="400">](maire.md) [Maire](../tb_roles/maire.md)
 
-**Type :** Villageois  
+**Type :** [Villageois](../villageois.md)  
 **Artiste :** Aidan Roberts  
 
 *"Nous devons mettre nos différences de côté et mettre fin à ces massacres insensés. Après tout, nous sommes tous des contribuables. Enfin… la plupart d’entre nous."*
@@ -16,9 +16,9 @@
 ---
 
 ## Apparait dans 🎭
-![TB](../images/Logo_trouble_brewing.png) 
+[<img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400">](../trouble_brewing.md) [**Trouble Brewing**](../trouble_brewing.md)  
 
-- *(Cult of the Clocktower, épisode par Andrew Nathenson)*  
+- *Cult of the Clocktower* -épisode par Andrew Nathenson 
 
 ---
 
