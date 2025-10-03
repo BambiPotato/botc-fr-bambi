@@ -6,9 +6,9 @@
 
 # Reclus
 
-![Reclus](../images/Icon_recluse-1.png)
+[<img src="../images/Icon_recluse.png" alt="Reclus" width="400">](reclus.md) [Reclus](../tb_roles/reclus.md)
 
-**Type :** Étranger  
+**Type :** [Étranger](../etrangers.md)  
 **Artiste :** Aidan Roberts  
 
 *« Retirez vos sales paluches de chez moi, vous m’entendez ? Grr. Y’a de mauvais coins là-bas, vers le sud… Filez donc ! Chez les miens, on n’affronte pas les démons à découvert. Ouste ! »*
@@ -17,8 +17,9 @@
 ---
 
 ## Apparait dans 🎭
-![TB](../images/Logo_trouble_brewing.png) 
-- *(Cult of the Clocktower – épisode par Andrew Nathenson)*  
+[<img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400">](../trouble_brewing.md) [**Trouble Brewing**](../trouble_brewing.md)  
+
+*Cult of the Clocktower* – épisode par Andrew Nathenson 
 
 ---
 
@@ -48,7 +49,7 @@
 
 ---
 
-## Conseils & Astuces
+## 💡Conseils & Astuces
 - Annoncez tôt que vous êtes le Reclus : cela permet aux bons joueurs d’expliquer leurs infos incohérentes (**[Cuitot](./cuistot.md)**, **[Empathique](./empathique.md)**, **[Enquêteur](./enqueteur.md)**, etc.).  
 - À l’inverse, cacher votre identité jusqu’au dernier jour peut vous éviter l’exécution prématurée.  
 - N’oubliez pas : vous êtes **bon** ! Vous êtes donc un moins bon choix d’exécution que n’importe quel joueur réellement mauvais.  
