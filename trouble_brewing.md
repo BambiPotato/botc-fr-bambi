@@ -46,8 +46,7 @@ Recommandé pour les nouveaux joueurs, joueuses et Conteurs.
 
 [<img src="images/Icon_washerwoman.png" alt="Lavandière" width="300">](tb_roles/lavandiere.md) [**Lavandière**](tb_roles/lavandiere.md)  
 
-![Bibliothécaire](images/Icon_librarian.png)  
-[**Bibliothécaire**](tb_roles/bibliothecaire.md)  
+![Bibliothécaire](images/Icon_librarian.png) [**Bibliothécaire**](tb_roles/bibliothecaire.md)  
 
 ![Enquêteur](images/Icon_investigator.png)  
 [**Enquêteur**](tb_roles/enqueteur.md)  
