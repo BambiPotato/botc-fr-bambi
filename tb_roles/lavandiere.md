@@ -19,9 +19,9 @@
 
 ## Apparait dans 🎭 
 
-[<img src="images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400">](trouble_brewing.md) [**Trouble Brewing**](trouble_brewing.md)  
+[<img src="images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="300">](trouble_brewing.md) [**Trouble Brewing**](trouble_brewing.md)  
 
-  ![Logo Trouble Brewing](../images/Logo_trouble_brewing.png)  
+![Logo Trouble Brewing](../images/Logo_trouble_brewing.png)  
 - *Cult of the Clocktower Episode* par Andrew Nathenson  
 
 ---
