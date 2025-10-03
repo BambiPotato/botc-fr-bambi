@@ -4,40 +4,87 @@
   </a>
 </p>
 
+<div class="page-bmr" markdown="1">
 
-<div class="page-tb" markdown="1">
+# 🌙 <span style="color:orange">Bad Moon Rising</span>  
 
-# 🌝 <span style="color:orange">Bad Moon Rising</span>
+[<img src="images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="300">](bmr.md) [**Bad Moon Rising**](bmr.md)  
 
-[<img src="images/images/Logo_bad_moon_rising-1.png" alt="Bad Monn Rising" width="300">](bmr.md) [**Bad Moon Rising**](bmr.md)  
-
+---
 
 ## 📖 Synopsis  
 
-<span style="color:orange">Les nuages ☁️ s’amoncellent au-dessus de **Ravenswood Bluff**, enveloppant cette ville endormie et ses Villageois superstitieux d’une ombre inquiétante.  
-Le linge fraîchement lavé danse de façon étrange entre les chaumières. Des cheminées crachent des volutes de fumée. Des senteurs exotiques s’infiltrent par les fissures des fenêtres, tandis que des chaudrons cachés bouillonnent dans l’ombre.</span>  
+<span style="color:orange">Le soleil est avalé par un horizon déchiqueté, alors qu’un autre jour d’hiver cède la place à la nuit.  
+Des éclats orangés et rouges se fondent en bruns plus profonds, la forêt se transformant en silence, dans l’attente de la neige à venir.</span>  
 
-<span style="color:red">Un vent d’automne anormalement chaud s’insinue le long des murs couverts de lierre et murmure à l’oreille des plus téméraires qui osent s’aventurer dans les rues pavées.  
-Les mères appellent leurs enfants à rentrer, alors que le tonnerre gronde à l’horizon.  
-Mais en tendant l’oreille… des bruits plus étranges encore résonnent depuis la forêt voisine.</span>   
+<span style="color:orange">Des loups affamés hurlent depuis les entrailles d’un ravin rocailleux au-delà des frontières de la ville, envoyant les oiseaux fuir leurs nids.  
+Les voyageurs se hâtent vers l’auberge, cherchant refuge contre le froid mordant.  
+Ils se réchauffent avec du thé brûlant, des airs de musique douce et de la bière épaisse, sans savoir que des yeux étranges et maléfiques les observent depuis les ruines de cette ancienne cité.</span>  
 
-<span style="color:red">Sous l’œil vigilant du monastère qui domine la ville, des silhouettes passent de porte en porte.  
-Celles et ceux qui savent lire les signes comprennent qu’il y a… **Trouble Brewing**.<span style="color:red"> 
+<span style="color:orange">Ce soir, même le bétail sait qu’il y a… **Bad Moon Rising**.</span>  
 
+---
 
 ## 🎲 Gameplay  
 
-<span style="color:red">**Trouble Brewing** contient un peu de tout.  
-<span style="color:red">- Certains rôles reçoivent passivement des informations.  
-<span style="color:red">- D’autres doivent agir pour découvrir qui est qui.  
-<span style="color:red">- Quelques-uns cherchent simplement à attirer l’attaque du Démon. </span> 
+<span style="color:orange">**Bad Moon Rising** est une véritable **fête de la mort**.  
+- Les Démons tuent plusieurs fois par nuit.  
+- Les Sbires ont eux aussi des capacités meurtrières.  
+- Les Villageois peuvent prendre de gros risques pour obtenir des infos fiables… mais risquent de tuer leurs amis par erreur.</span>  
 
-<span style="color:red">Tant le Bien que le Mal peuvent prendre l’avantage en effectuant des **sacrifices bien calculés**.  
-<span style="color:red">C’est une chasse au Démon relativement simple, mais les Sbires et le Démon disposent de nombreux moyens pour semer la confusion. <span style="color:red">Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient savoir s’ils veulent espérer survivre.
+<span style="color:orange">Heureusement, beaucoup d’options permettent de garder des joueurs en vie bien plus longtemps qu’ils ne l’auraient cru possible.  
+Mais si l’équipe du Bien ne parvient pas à identifier les Sbires et Démons précis en jeu, leur défaite est presque certaine.</span>  
 
-<span style="color:orange">👉 Niveau : **Intermédiare**. 
-<span style="color:red">*Ce module est recommandé pour les nouveaux joueurs, joueuses et Conteurs.* </span> 
+👉 <span style="color:orange">**Niveau : Intermédiaire**.  
+Recommandé pour les joueurs/joueuses **proactifs, attentifs à la coopération d’équipe et qui n’ont pas peur de mourir.**</span>  
+
 </div>
+
+---
+
+## [<span style="color:blue">**Villageois**</span>](villageois.md)  
+
+*(liste des Villageois BMR à ajouter ici comme dans TB)*  
+
+---
+
+## [<span style="color:blue">**Étrangers**</span>](etrangers.md)  
+
+*(liste des Étrangers BMR à ajouter ici)*  
+
+---
+
+## [<span style="color:red">**Sbires**</span>](sbires.md)  
+
+*(liste des Sbires BMR à ajouter ici)*  
+
+---
+
+## [<span style="color:red">**Démons**</span>](demons.md)  
+
+*(liste des Démons BMR à ajouter ici)*  
+
+---
+
+## 📥 Télécharger & 🖨️ Imprimer  
+
+Ces ressources sont pratiques pour imprimer et jouer en personne.  
+
+### 📄 PDF complet  
+[📄 Télécharger le PDF de Bad Moon Rising](bmr-roles.pdf)  
+
+### 🖼️ Images pratiques  
+- [![Couverture](images/bmr-front.png)](images/bmr-front.png)  
+- [![Ordre de Nuit](images/bmr-nuit.png)](images/bmr-nuit.png)  
+- [![Liste des rôles](images/bmr-liste.png)](images/bmr-liste.png)  
+
+---
+
+## 📂 Navigation  
+
+- 🔙 [Retour à la page d’accueil](README.md)  
+
+
 
 ## [<span style="color:blue">**Villageois**</span>](../villageois.md)  
 
