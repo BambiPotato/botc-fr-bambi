@@ -89,4 +89,4 @@ Ce joueur est protégé du Démon pour cette nuit-là.
 
 - 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
 - 🍺 [Retour à Trouble Brewing](../trouble_brewing.md)  
-- 📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) · Villageois
+- 📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) · [Villageois](../villageois.md) 
