@@ -45,7 +45,29 @@ Mais si l’équipe du Bien ne parvient pas à identifier les Sbires et Démons 
 
 ## [<span style="color:blue">**Villageois**</span>](villageois.md)  
 
-*(liste des Villageois BMR en cours)*  
+[<img src="images/Icon_grandmother.png" alt="Grand-Mère" width="300">](bmr_roles/grandmere.md) [<span style="color:blue">**Grand-Mère**</span>](bmr_roles/grandmere.md)  
+
+[<img src="images/Icon_sailor.png" alt="Marin" width="300">](bmr_roles/marin.md) [<span style="color:blue">**Marin**</span>](bmr_roles/marin.md)  
+
+[<img src="images/Icon_chambermaid.png" alt="Femme de Chambre" width="300">](bmr_roles/femmedechambre.md) [<span style="color:blue">**Femme de Chambre**</span>](bmr_roles/femmedechambre.md)  
+
+[<img src="images/Icon_exorcist.png" alt="Exorciste" width="300">](bmr_roles/exorciste.md) [<span style="color:blue">**Exorciste**</span>](bmr_roles/exorciste.md)  
+
+[<img src="images/Icon_innkeeper.png" alt="Aubergiste" width="300">](bmr_roles/aubergiste.md) [<span style="color:blue">**Aubergiste**</span>](bmr_roles/aubergiste.md)  
+
+[<img src="images/Icon_gambler.png" alt="Parieur" width="300">](bmr_roles/parieur.md) [<span style="color:blue">**Parieur**</span>](bmr_roles/parieur.md)  
+
+[<img src="images/Icon_gossip.png" alt="Commère" width="300">](bmr_roles/commere.md) [<span style="color:blue">**Commère**</span>](bmr_roles/commere.md)  
+
+[<img src="images/Icon_courtier.png" alt="Courtisan" width="300">](bmr_roles/courtisan.md) [<span style="color:blue">**Courtisan**</span>](bmr_roles/courtisan.md)  
+
+[<img src="images/Icon_professor.png" alt="Professeur" width="300">](bmr_roles/professeur.md) [<span style="color:blue">**Professeur**</span>](bmr_roles/professeur.md)  
+
+[<img src="images/Icon_minstrel.png" alt="Ménestrel" width="300">](bmr_roles/menestrel.md) [<span style="color:blue">**Ménestrel**</span>](bmr_roles/menestrel.md)  
+
+[<img src="images/Icon_tealady.png" alt="Dame de Thé" width="300">](bmr_roles/damedethe.md) [<span style="color:blue">**Dame de Thé**</span>](bmr_roles/damedethe.md)  
+
+[<img src="images/Icon_fool.png" alt="Fou" width="300">](bmr_roles/fou.md) [<span style="color:blue">**Fou**</span>](bmr_roles/fou.md)  
 
 ---
 
