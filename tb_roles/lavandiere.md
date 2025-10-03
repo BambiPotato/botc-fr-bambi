@@ -13,7 +13,7 @@
 
 ## 📖 Informations  
 
-- **Type** : [Villageois](../glossaire.md#villageois)  
+- **Type** : [Villageois](../#villageois.md)  
 - **Artiste** : Aidan Roberts  
 - « Des taches de sang sur une veste de dîner ? Non, c’est du vin de cuisine. Quelle étourderie. »  
 
