@@ -5,9 +5,8 @@
 </p>
 ---
 # Femme Écarlate
-——
 
-# ![Femme Écarlate](../images/Icon_scarlet_woman.png) 
+# ![Femme Écarlate](../images/Icon_scarletwoman.png) 
 
 ## Information
 - **Type :** Sbire  
@@ -16,9 +15,9 @@
 
 ---
 
-## Apparaît dans
-- ![Trouble Brewing](../images/Logo_trouble_brewing.png) [**Trouble Brewing**](../trouble_brewing.md)  
-- *Cult of the Clocktower Episode* — par Andrew Nathenson  
+## Apparaît dans 🎭
+![Trouble Brewing](../images/Logo_trouble_brewing.png) [**Trouble Brewing**](../trouble_brewing.md)  
+*Cult of the Clocktower Episode* — par Andrew Nathenson  
 
 ---
 
