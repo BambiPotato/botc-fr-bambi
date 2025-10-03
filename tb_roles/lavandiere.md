@@ -13,7 +13,7 @@
 
 ## 📖 Informations  
 
-- **Type** : [Villageois](../#botc-fr-bambi/villageois.md)  
+- **Type** : [Villageois](../villageois.md)  
 - **Artiste** : Aidan Roberts  
 - « Des taches de sang sur une veste de dîner ? Non, c’est du vin de cuisine. Quelle étourderie. »  
 
