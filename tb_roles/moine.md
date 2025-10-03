@@ -8,9 +8,6 @@
 # [<img src="../images/Icon_monk.png" alt="Moine" width="400">](moine.md)  
 [Moine](../tb_roles/moine.md)
 
-
----
-
 ## ℹ️ Informations  
 
 - **Type** : [Villageois](../villageois.md)
