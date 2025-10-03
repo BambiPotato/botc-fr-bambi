@@ -3,7 +3,6 @@
     <img src="../images/logo.png" alt="Accueil BotC FR" width="80">
   </a>
 </p>
----
 # Femme Écarlate
 
 # ![Femme Écarlate](../images/Icon_scarletwoman.png) 
