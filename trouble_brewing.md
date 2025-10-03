@@ -42,7 +42,7 @@ Recommandé pour les nouveaux joueurs, joueuses et Conteurs.
 
 ---
 
-## 🏘️ ![Villageois](./images/Generic_townsfolk.png) 
+## Villageois  ![Villageois](./images/Generic_townsfolk.png)  
 
 [<img src="images/Icon_washerwoman.png" alt="Lavandière" width="300">](tb_roles/lavandiere.md) [**Lavandière**](tb_roles/lavandiere.md)  
 
@@ -83,7 +83,7 @@ Recommandé pour les nouveaux joueurs, joueuses et Conteurs.
 
 ---
 
-## 🌙 Étrangers  
+c  
 
 ![Majordome](images/Icon_butler.png)  
 [**Majordome**](tb_roles/majordome.md)  
