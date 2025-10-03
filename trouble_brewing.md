@@ -42,7 +42,7 @@ Recommandé pour les nouveaux joueurs, joueuses et Conteurs.
 
 ---
 
-## Villageois  ![Villageois](./images/Generic_townsfolk.png)  
+## - [**Villageois**](villageois.md)   ![Villageois](./images/Generic_townsfolk.png)  
 
 [<img src="images/Icon_washerwoman.png" alt="Lavandière" width="300">](tb_roles/lavandiere.md) [**Lavandière**](tb_roles/lavandiere.md)  
 
