@@ -45,11 +45,16 @@
 ---
 
 ## Résumé
-Chaque nuit*, choisissez un joueur (pas vous-même) : il est à l'abri du Démon cette nuit. 
+
+- Chaque nuit*, choisissez un joueur (pas vous-même) : il est à l'abri du Démon cette nuit. 
+- Le moine protège les autres joueurs du démon.
+- Chaque nuit, sauf la première, le moine peut choisir de protéger n'importe quel joueur sauf lui-même.
+- Si le Démon attaque un joueur protégé par le Moine, ce joueur ne meurt pas. Le Démon ne peut pas attaquer un autre joueur ; il n'y a tout simplement pas de mort cette nuit.
+- Le moine ne protège pas contre le démon qui nomme et exécute quelqu'un.
 
 ---
 
-## Mise en Place
+## Comment Conter
 - Chaque nuit, sauf la première, réveillez le moine. Il désigne n'importe quel joueur sauf lui-même. (Si le moine se désigne lui-même, **Secouez** la tête pour dire non et invitez-le à désigner un autre joueur.) Endormez le moine.Placez le jeton de rappel **Protégé** sur ce joueur.
 
 - Si le Démon attaque le joueur marqué  **Protégé** , celui-ci reste en vie. (Ne le marquez pas avec le jeton de rappel MORT du Démon et n'ajoutez pas de linceul comme vous le feriez normalement.) À l'aube, déclarez que personne n'est mort cette nuit. (Ne précisez pas pourquoi.)
