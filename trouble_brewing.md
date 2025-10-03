@@ -39,7 +39,7 @@ C’est une chasse au Démon relativement simple, mais les Sbires et le Démon d
 
 👉 Niveau : **Débutant**.  
 Recommandé pour les nouveaux joueurs, joueuses et Conteurs.  
-
+</div>
 ---
 
 ## [**Villageois**](villageois.md)   
@@ -120,4 +120,4 @@ Ces ressources sont pratiques pour imprimer et jouer en personne.
 - 🍺 [Retour à Trouble Brewing](../trouble_brewing.md)  
 - 🔙 [Retour à la page d’accueil](README.md)  
 
-</div>
+
