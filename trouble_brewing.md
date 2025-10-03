@@ -24,7 +24,6 @@ Mais en tendant l’oreille… des bruits plus étranges encore résonnent depui
 Sous l’œil vigilant du monastère qui domine la ville, des silhouettes passent de porte en porte.  
 Celles et ceux qui savent lire les signes comprennent qu’il y a… **Trouble Brewing**.  
 
----
 
 ## 🎲 Gameplay  
 
@@ -39,7 +38,6 @@ C’est une chasse au Démon relativement simple, mais les Sbires et le Démon d
 👉 Niveau : **Débutant**.  
 Recommandé pour les nouveaux joueurs, joueuses et Conteurs.  
 </div>
----
 
 ## [**Villageois**](villageois.md)   
 
