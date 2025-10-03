@@ -51,6 +51,7 @@ Vous débutez sur *Blood 🩸 on the Clocktower* ?
 
 ---
 ## Rôles par édition
+[<img src="./images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="150">](./trouble_brewing/)
 
  ![BotC](images/logo.png) [Blood on the Clocktower](blood_on_the_clocktower.md)
 
