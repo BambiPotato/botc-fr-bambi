@@ -23,9 +23,9 @@ Ils sèment le doute mais restent du côté des bons.
 ---
 
 🔗 Autres catégories :  
-- [Villageois](/botc-fr-bambi/villageois.md)  
-- [Sbires](/botc-fr-bambi/sbires.md)  
-- [Démons](/botc-fr-bambi/demons.md)  
+- [Villageois](villageois.md)  
+- [Sbires](sbires.md)  
+- [Démons](demons.md)  
 
 ## 📂 Navigation 
 - 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
