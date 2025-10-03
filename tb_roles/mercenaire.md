@@ -23,7 +23,9 @@
 ---
 
 ## Jinxes associés (cliquer pour ouvrir)
+
 <details>
+  
   <summary>Jinx associés</summary>
   <p>
     - ![Sangsue](/botc-fr-bambi/images/Icon_lleech.png) [**Sangsue**](/botc-fr-bambi/roles_experimentaux/sangsue.html) :  
