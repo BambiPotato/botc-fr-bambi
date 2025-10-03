@@ -6,9 +6,7 @@
 
 # 🧺 Lavandière  
 
-![Lavandière](../images/Icon_washerwoman.png)  
-
-[<img src="../images/Icon_washerwoman.png" alt="Lavandière" width="300">](../tb_roles/lavandiere.md) [**Lavandière**](../tb_roles/lavandiere.md)
+[<img src="../images/Icon_washerwoman.png" alt="Lavandière" width="400">](../tb_roles/lavandiere.md) [**Lavandière**](../tb_roles/lavandiere.md)
 
 
 ---
