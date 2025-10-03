@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# [<span style="color:red"Sbires</span>]  
+# Sbires 
 
 ![Sbires](./images/Generic_minion.png)  
 
