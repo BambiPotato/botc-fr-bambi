@@ -10,7 +10,7 @@
 [<img src="../images/Icon_baron.png" alt="Baron" width="400">](baron.md) [Baron](../tb_roles/baron.md)
 
 ## Information
-- **Type :** [Sbire](../sbires.md)  
+- **Type :** [<span style="color:red">**Sbires**</span>](../sbires.md)   
 - **Artiste :** Aidan Roberts  
 *"Cette ville est tombée bien bas, pas vrai ? Main-d'œuvre étrangère bon marché… voilà la clé. Fourrez-les dans la mine, je dis. Un peu de travail dur n'a jamais fait de mal à personne, et une claque derrière les oreilles à tout brigand qui prétend le contraire. Tout est une question de profit, pas vrai ?"*
 
@@ -66,7 +66,7 @@ Ces jetons (avec ces remplacements) vont dans le sac pour être tirés par les j
   - Si vous doutez, **exécutez rapidement** les prétendus Étrangers (ça peut être des bluffs).  
   - Si le compte n’est “pas tout à fait juste”, cherchez l’[**Ivrogne**](../tb_roles/ivrogne.md).  
 - Des rôles comme le [**Bibliothécaire**](../tb_roles/bibliothecaire.md), l’[**Enquêteur**](../tb_roles/enqueteur.md), le [**Croque-Mort**](../tb_roles/croquemort.md) ou le [**Gardien**](../tb_roles/gardien.md) aident à **déduire** la présence d’un Baron.  
-- Contrairement à d’autres Sbires, l’effet du Baron est **visible dès le setup**. Il n’est pas toujours nécessaire de l’exécuter si vous avez une meilleure cible (ex. [**Imp**](../tb_roles/imp.md) ou [**Empoisonneur**](../tb_roles/empoisonneur.md)).  
+- Contrairement à d’autres Sbires, l’effet du Baron est **visible dès le setup**. Il n’est pas toujours nécessaire de l’exécuter si vous avez une meilleure cible (ex. [**Imp**](../tb_roles/imp.md) ou [**Empoisonneur**](../tb_roles/empoisonneur.md))[<span style="color:red">Empoisonneur</span>](../tb_roles/empoisonneur.md)  .  
 - Attention : l’[**Imp**](../tb_roles/imp.md) peut **transmettre** sa démonialité au Baron ; l’ignorer trop longtemps peut le transformer en Démon en fin de partie.
 
 ---
