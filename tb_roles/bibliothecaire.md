@@ -8,10 +8,9 @@
 
 # 📚 Bibliothécaire  
 
-[<img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400">](../trouble_brewing.md) [**Trouble Brewing**](../trouble_brewing.md)
 
 
-![Bibliothécaire](../images/Icon_librarian.png)
+[<img src="../images/Icon_librarian.png" alt="Bibliothécaire" width="400">](bibliothecaire.md)  
 
 ---
 
