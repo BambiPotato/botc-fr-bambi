@@ -17,8 +17,9 @@
 ---
 
 ## Apparait dans 🎭
-![TB](../images/Logo_trouble_brewing.png) 
-*(Cult of the Clocktower* – épisode par Andrew Nathenson 
+[<img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400">](../trouble_brewing.md) [**Trouble Brewing**](../trouble_brewing.md)  
+
+*Cult of the Clocktower* – épisode par Andrew Nathenson  
 
 ---
 
