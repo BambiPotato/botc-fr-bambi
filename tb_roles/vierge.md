@@ -5,21 +5,21 @@
 </p>
 
 # Vierge  
-![Virgin](../images/Icon_virgin.png)
+[<img src="../images/Icon_virgin.png" alt="Vierge" width="400">](vierge.md) [Vierge](../tb_roles/vierge.md)
 
 ---
 
 ## ℹ️ Information  
 
-- **Type** : Villageois  
+- **Type** : [Villageois](../villageois.md) 
 - **Artiste** : Aidan Roberts  
 - *"Je suis pure. Que ceux qui sont sans péché se jettent en avant et souffrent à ma place. Ma réputation ne sera pas souillée par vos accusations venimeuses."*
 
 ---
 
 ## 🎭 Apparaît dans  
-![Trouble Brewing](../images/Logo_trouble_brewing.png)  
-**Cult of the Clocktower – Épisode par Andrew Nathenson**
+[<img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400">](../trouble_brewing.md) [**Trouble Brewing**](../trouble_brewing.md)  
+*Cult of the Clocktower* – Épisode par Andrew Nathenson
 
 ---
 
@@ -34,7 +34,7 @@ La Vierge peut, malgré elle, provoquer l’exécution de son accusateur, ce qui
 
 ---
 
-## 🎲 Mise en place 
+## Comment Conter
 
 - Si le premier joueur à nominer la Vierge est un Villageois :  
   → Déclarez immédiatement que ce joueur est exécuté. Placez un Linceuil de mort sur son jeton.  
@@ -47,7 +47,7 @@ La Vierge peut, malgré elle, provoquer l’exécution de son accusateur, ce qui
 
 ---
 
-## 🧩 Exemples  
+##  Exemples  
 
 - La [Lavandière](lavandiere.md) nomine la Vierge → la Lavandière est exécutée immédiatement et la journée prend fin.  
 - L’[Ivrogne](ivrogne.md), qui pense être le [Cuistot](cuistot.md), nomine la Vierge → rien ne se passe, mais la Vierge perd sa capacité.  
