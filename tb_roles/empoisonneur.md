@@ -42,7 +42,7 @@
 ---
 
 ## Exemples
-- L’Empoisonneur cible le [Mercenaire](../tb_roles/mercenaire.md). Le lendemain, le Mercenaire tente de tuer l'[Imp)](../tb_roles/imp.md)**. Rien ne se passe : sa capacité est perdue.  
+- L’Empoisonneur cible le [Mercenaire](../tb_roles/mercenaire.md). Le lendemain, le Mercenaire tente de tuer l'[Imp)](../tb_roles/imp.md). Rien ne se passe : sa capacité est perdue.  
 - L’[Empathique](../tb_roles/empathique.md) empoisonné apprend un « 0 » alors qu’il est assis entre deux joueurs maléfiques. La nuit suivante (désormais sain), il apprend un « 2 ».  
 - L’[Enquêteur](../tb_roles/enqueteur.md) empoisonné apprend que l’un de deux joueurs est le [Baron](../tb_roles/baron.md), alors qu’aucun ne l’est.  
 - Le [Croque-Mort](../tb_roles/croquemort.md) empoisonné apprend une mauvaise information : l’Imp est mort, mais il croit que c’est la [Vierge](../tb_roles/vierge.md).  
