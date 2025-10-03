@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# ![Baron](../images/Icon_baron.png) Baron
+# ![Baron](../images/Icon_baron.png) 
 
 ## Information
 - **Type :** Sbire  
