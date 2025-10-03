@@ -32,7 +32,7 @@ S’il est attaqué par le Démon, le Conteur peut choisir qu’un autre joueur 
 
 ---
 
-## Fonctionnement
+## Comment Conter
 - **Dernier jour :** si exactement 3 joueurs sont vivants et qu’aucune exécution n’a lieu → la partie se termine immédiatement avec une victoire des Bons.  
 - **Cible du Démon :** si le Maire doit mourir la nuit, le Conteur peut choisir que le Maire survive et qu’un autre joueur meure à la place.  
 - Le Conteur annonce seulement « qu’un joueur est mort », jamais la raison.  
