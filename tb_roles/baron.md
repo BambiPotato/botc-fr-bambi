@@ -20,7 +20,7 @@
 [<img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400">](../trouble_brewing.md) [**Trouble Brewing**](../trouble_brewing.md)  
 *Cult of the Clocktower Episode* — par Andrew Nathenson  
 
-## Résumer
+## Résumé
 **« Il y a des Étrangers supplémentaires en jeu. [+2 Étrangers] »**
 
 Le Baron modifie le nombre d’Étrangers présents dans la partie.  
