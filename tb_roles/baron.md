@@ -5,23 +5,22 @@
 </p>
 
 ---
-# Baron
+# 🎩 Baron
 
-# ![Baron](../images/Icon_baron.png) 
+[<img src="../images/Icon_baron.png" alt="Baron" width="400">](baron.md) [Baron](../tb_roles/baron.md)
 
 ## Information
-- **Type :** Sbire  
+- **Type :** [Sbire](../sbires.md)  
 - **Artiste :** Aidan Roberts  
 *"Cette ville est tombée bien bas, pas vrai ? Main-d'œuvre étrangère bon marché… voilà la clé. Fourrez-les dans la mine, je dis. Un peu de travail dur n'a jamais fait de mal à personne, et une claque derrière les oreilles à tout brigand qui prétend le contraire. Tout est une question de profit, pas vrai ?"*
 
 ---
 
 ## Apparaît dans 🎭
-![Trouble Brewing](../images/Logo_trouble_brewing.png) [**Trouble Brewing**](../trouble_brewing.md)  
+[<img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400">](../trouble_brewing.md) [**Trouble Brewing**](../trouble_brewing.md)  
 *Cult of the Clocktower Episode* — par Andrew Nathenson  
 
----
-
+## Résumer
 **« Il y a des Étrangers supplémentaires en jeu. [+2 Étrangers] »**
 
 Le Baron modifie le nombre d’Étrangers présents dans la partie.  
@@ -32,7 +31,7 @@ Le Baron modifie le nombre d’Étrangers présents dans la partie.
 
 ---
 
-## Comment jouer
+## Comment Conter
 Pendant la mise en place :  
 1) Retirez **2 jetons Villageois**.  
 2) Ajoutez **2 jetons Étrangers** à la place.  
@@ -49,7 +48,7 @@ Ces jetons (avec ces remplacements) vont dans le sac pour être tirés par les j
 
 ---
 
-## Conseils & Astuces
+## 💡Conseils & Astuces
 - Votre pouvoir agit **avant même que la partie commence**, ensuite : amusez-vous à **bluffer** et semer la confusion pour aider votre Démon.  
 - Revendiquez être **Étranger** : si le nombre d’Étrangers paraît trop élevé, la ville pensera à un Baron — et vous pourrez passer pour un véritable Étranger.  
 - **Doublez** un personnage déjà revendiqué (ex. [**Voyante**](../tb_roles/voyante.md), [**Croque-Mort**](../tb_roles/croquemort.md), [**Maire**](../tb_roles/maire.md)) afin de **dégrader la confiance** dans ses infos.  
@@ -76,4 +75,4 @@ Ces jetons (avec ces remplacements) vont dans le sac pour être tirés par les j
 ## 📂 Navigation
 - 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
 - 🍺 [Retour à Trouble Brewing](../trouble_brewing.md)  
-- 📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) · [Sbires](../minions.md)  
+- 📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) · [Sbire](../sbires.md)  
