@@ -9,7 +9,7 @@
 
 # 🌝 <span style="color:orange">Bad Moon Rising</span>
 
-[<img src="images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="300">](trouble_brewing.md) [**Trouble Brewing**](trouble_brewing.md)  
+[<img src="images/images/Logo_bad_moon_rising-1.png" alt="Bad Monn Rising" width="300">](bmr.md) [**Bad Moon Rising**](bmr.md)  
 
 
 ## 📖 Synopsis  
