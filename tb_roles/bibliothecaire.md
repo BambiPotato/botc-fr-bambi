@@ -31,9 +31,9 @@
 
 ---
 
-## 📖 Résumé  
+## Résumé  
 
-> « Vous commencez en apprenant 2 joueurs et le rôle d’[Étranger](../glossaire.md#étranger) de l’un des deux.(Ou qu'il y a zéro étranger en jeu.) »  
+« Vous commencez en apprenant 2 joueurs et le rôle d’[Étranger](../glossaire.md#étranger) de l’un des deux.(Ou qu'il y a zéro étranger en jeu.) »  
 
 Le **Bibliothécaire** apprend qu’un rôle **Étranger** est en jeu, mais pas exactement qui le possède.  
 
