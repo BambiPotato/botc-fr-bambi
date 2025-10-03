@@ -8,13 +8,16 @@
 
 # 📚 Bibliothécaire  
 
+[<img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400">](../trouble_brewing.md) [**Trouble Brewing**](../trouble_brewing.md)
+
+
 ![Bibliothécaire](../images/Icon_librarian.png)
 
 ---
 
 ## ℹ️ Information  
 
-- **Type :** [Villageois](../glossaire.md#villageois)  
+- **Type :** [Villageois](../villageois.md)   
 - **Illustrateur :** Aidan Roberts  
 - *« Bien sûr madame, dans des circonstances normales, vous pourriez emprunter le *Codex Malificarium* dans les archives de la bibliothèque. Mais… il semble que vous ne soyez pas membre. »*  
 
