@@ -17,7 +17,7 @@
 
 ## ℹ️ Information  
 
-- **Type :** [Villageois](../villageois.md)  
+- **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)
 - **Illustrateur :** Aidan Roberts  
 - *« Bien sûr madame, dans des circonstances normales, vous pourriez emprunter le *Codex Malificarium* dans les archives de la bibliothèque. Mais… il semble que vous ne soyez pas membre. »*  
 
@@ -77,14 +77,14 @@ Il ne l’apprend qu’une seule fois, puis plus rien.
   Savoir qu’une personne n’est pas le [Démon](../glossaire.md#démon) est déjà une information précieuse.  
 
 - Si vous recevez un **0**, c’est extrêmement puissant (sauf si vous êtes [Ivrogne](ivrogne.md) ou Empoisonné·e) :  
-  → cela signifie qu’il n’y a **aucun Étranger** en jeu. Donc pas de [Baron](baron.md), et toute personne qui prétend être Étranger bluffe probablement pour le Mal.  
+  → cela signifie qu’il n’y a **aucun Étranger** en jeu. Donc pas de  [<span style="color:red">Baron</span>](../tb_roles/baron.md) , et toute personne qui prétend être Étranger bluffe probablement pour le Mal.  
 
 - Partager votre info tôt peut confirmer un joueur du Bien et appuyer d’autres [Villageois](../glossaire.md#villageois) comme l’[Empathique](empathique.md) ou le [Gardien](gardien.md).  
 
 - Garder votre info pour plus tard peut aussi être stratégique : sur la dernière journée, révéler qu’un joueur n’est pas le [Démon](../glossaire.md#démon) réduit le choix de 3 à 2 suspects.  
 
 - Comme vous avez toutes vos infos dès la première nuit, vous pouvez confirmer en nommant une [Vierge](vierge.md).  
-  Ou alors, prétendre être un rôle plus puissant pour détourner le [Démon](../glossaire.md#démon) de cibles clés comme le [Moine](moine.md) ou le [Croque-Mort](croquemort.md).  
+  Ou alors, prétendre être un rôle plus puissant pour détourner le **Démon** [<span style="color:red">**Démons**</span>](../demons.md) de cibles clés comme le [Moine](moine.md) ou le [Croque-Mort](croquemort.md).  
 
 - Attention à l’[Ivrogne](ivrogne.md) : si les deux joueurs vus sont en fait Ivrogne, il est crucial de le dire vite, surtout si l’un pense être un rôle à informations.  
 
@@ -111,7 +111,7 @@ Il ne l’apprend qu’une seule fois, puis plus rien.
   - qu’un joueur du Bien confirme vos dires,  
   - ou qu’un joueur du Mal saute sur l’occasion pour bluffer.  
 
-- Si vous êtes [Espion](espion.md), vos infos peuvent être exactes et renforcer encore votre crédibilité.  
+- Si vous êtes [<span style="color:red">Espion</span>](../tb_roles/espion.md), vos infos peuvent être exactes et renforcer encore votre crédibilité.  
 
 ---
 
@@ -119,4 +119,4 @@ Il ne l’apprend qu’une seule fois, puis plus rien.
 
 - 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
 - 🍺 [Retour à Trouble Brewing](../trouble_brewing.md)  
-- 📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) ·[Villageois](../villageois.md)  
+- 📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) ·[<span style="color:blue">**Villageois**</span>](../villageois.md)
