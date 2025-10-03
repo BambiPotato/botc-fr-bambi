@@ -1,66 +1,98 @@
-# Saint  
-![Saint](/tb_roles/images/Icon_saint.png)
+<p align="left">
+  <a href="/botc-fr-bambi/">
+    <img src="../images/logo.png" alt="Accueil BotC FR" width="80">
+  </a>
+</p>
 
-## Information  
+# Saint
+![Saint](../images/Icon_saint.png)
+
+## Information
 - **Type :** Étranger  
 - **Artiste :** Aidan Roberts  
-- *"La sagesse engendre la paix. La patience engendre la sagesse. N'ayez pas peur, car viendra le jour où la peur aussi disparaîtra. Prions, et que l’unité de notre vision fasse de nous tous des saints."*
+- *« La sagesse engendre la paix. La patience engendre la sagesse. N’ayez pas peur, car viendra le jour où la peur aussi disparaîtra. Prions, et que l’unité de notre vision fasse de nous tous des saints. »*
 
 ---
 
 ## Apparaît dans 🎭
-![Trouble Brewing](/botc-fr-bambi/images/Logo_trouble_brewing.png)  
+![Trouble Brewing](../images/Logo_trouble_brewing.png)  
 
-- *Cult of the Clocktower Episode*  
-par Andrew Nathenson  
-
----
-
-## Résumé  
-** *Si vous mourez par exécution, votre équipe perd.*  
-
-Le **Saint** met immédiatement fin à la partie s’il est exécuté.  
-- Si le Saint meurt par exécution → la partie se termine, le Bien perd et le Mal gagne.  
-- Si le Saint meurt autrement (attaqué par le Démon, par exemple) → la partie continue normalement.  
+- *Cult of the Clocktower Episode* — par Andrew Nathenson
 
 ---
 
-## Comment Conter
-- Si le Saint est exécuté, le Conteur déclare immédiatement : **« Le Mal l’emporte »**.  
-- Dans *Trouble Brewing*, "votre équipe perd" signifie toujours "le Bien perd", car le Saint est toujours un rôle bon.  
-- Dans d’autres éditions, un Saint maléfique pourrait exister, et dans ce cas son exécution ferait gagner le Bien.  
+*« Si vous mourez par exécution, votre équipe perd. »*
+
+- Dans **Trouble Brewing**, le Saint est toujours **Bon** : s’il est **exécuté**, **le Mal gagne** (le Bien perd).  
+- Si le Saint meurt **autrement** que par exécution (attaque du Démon, etc.), **la partie continue**.  
+- Dans d’autres éditions où des changements d’alignement existent, appliquez littéralement « *votre équipe perd* » (si un Saint **maléfique** est exécuté, alors **le Bien gagne**).
 
 ---
 
-## Exemples  
-- Le **Saint** reçoit 4 votes et est exécuté. La partie s’arrête aussitôt : le Mal gagne.  
-- Le **Saint** est tué par le **Démon (Imp)** la nuit : la partie continue normalement.  
-- Le **Saint** est exécuté, mais la capacité du **Bouc Émissaire** s’active et ce dernier meurt à sa place : la partie continue, puisque le Saint n’est pas mort.  
+## Comment Conter 
+- Si le **Saint** meurt **par exécution**, **annoncez immédiatement la fin de la partie** : **le Mal l’emporte** (Dans Trouble Brewing).  
+- Si le Saint **ne meurt pas par exécution**, **la partie continue**.  
+- La formulation « *votre équipe perd* » signifie ici « le Bien perd » car le Saint est toujours Bon dans TB. (Dans d’autres éditions, si le Saint peut devenir maléfique, inversez selon l’alignement réel au moment de l’exécution.)
 
 ---
 
-## Conseils & Astuces  
-- **Ne vous faites pas exécuter.** Vraiment. Si vous mourez par exécution, c’est la défaite de tout le Bien.  
-- Assurez-vous que le groupe croit votre rôle. Annoncez-le haut et fort si besoin.  
-- Pour confirmer votre identité :  
-  - Faites-vous vérifier par un **Empathe**, une **Voyante (Fortune Teller)** ou un **Gardien**.  
-  - Demandez à un **Mercenaire** de tenter de vous tuer : rien ne se passera.  
-- Rester discret peut aussi être une stratégie : si vous mourez de nuit, le Bien n’est pas en danger d’une exécution malheureuse.  
-- Coordonnez-vous avec les autres Étrangers révélés (comme le **Reclus** ou l’**Ivrogne**) pour crédibiliser votre présence en jeu.  
+## Exemples
+- **Exécution directe :** 7 joueurs vivants. Le Saint obtient 4 votes et est « sur le bûcher ». Plus tard, le **Baron** est nommé mais n’obtient que 3 voix. Aucune autre nomination : le Saint est exécuté → **fin de partie, le Mal gagne**.  
+- **Mort de jour, non-exécution :** L’**Imp** est nommé et on vote. Le **Flingeur** abat le Saint pendant la journée ; le Saint **meurt**, **mais la partie continue** (ce n’est pas une exécution).  
+- **Redirection par un Voyageur :** Le Saint est « exécuté », mais l’effet du **Bouc Émissaire** se déclenche : c’est le Bouc Émissaire qui meurt **à la place**. **Le Saint n’est pas mort**, donc **la partie continue**.
+
+> Liens : [Baron](baron.md) · [Imp](imp.md) · [Flingeur](../voyageurs/flingeur.md) · *(Bouc Émissaire à venir)*
 
 ---
 
-## Bluff en tant que Saint  
-- Excellent bluff pour un Sbire ou un Démon : le Bien hésitera souvent à vous exécuter par peur de perdre.  
-- Si vous êtes **Empoisonneur** ou **L'Imp**, le bluff du Saint peut vous protéger plusieurs jours.  
-- Sur le dernier jour, le Bien devra quand même exécuter quelqu’un : vous n’êtes donc pas totalement protégé.  
-- Attention au **Mercenaire** : il peut tester votre rôle sans risque.  
-- Vous pouvez aussi brouiller les pistes en affirmant être le Saint si un autre joueur l’a déjà revendiqué : cela sème le doute et peut retarder l’exécution d’un véritable Démon.  
+## Conseils & Astuces (pour le Saint)
+- **Ne vous faites pas exécuter.** Vraiment. Prévenez **publiquement** que vous êtes le Saint si vous êtes menacé d’exécution.  
+- **Faites-vous confirmer sans risquer l’exécution :**  
+  - Demandez à la **[Voyante](voyante.md)** de vous tester (vous n’êtes pas le Démon).  
+  - Obtenez une lecture claire d’un **[Empathique](empathique.md)** (en coordonnant des morts autour de vous si besoin).  
+  - Si vous mourez **la nuit**, un **[Gardien](gardien.md)** peut révéler votre véritable rôle.  
+  - Un **[Mercenaire](mercenaire.md)** peut tenter son tir sur vous : si **rien ne se passe**, votre claim reste crédible (et vous n’êtes pas exécuté).  
+- **Profil bas efficace :** bluffer un rôle qui attire les attaques nocturnes (**[Moine](moine.md)**, **[Voyante](voyante.md)**, **[Mercenaire](mercenaire.md)**) peut pousser le Démon à **vous tuer la nuit** plutôt que de risquer une exécution accidentelle.  
+- **Comptez les Étrangers :** si les déclarations d’**Étrangers** correspondent à la configuration (ou s’il y a un **[Baron](baron.md)**), votre présence devient plus crédible.  
+- **Dernier jour :** Votre capacité n’empêche pas qu’on vous exécute si on pense que **vous êtes le Démon** — restez pertinent, clair et utile dans vos déductions.
 
 ---
 
-## 📂 Navigation  
+## Combattre un faux « Saint » (pour le Bien)
+- Un « Saint » qui **refuse tout test** et pousse à exécuter partout (sauf lui) est **suspect** (Sbire ou **[Imp](imp.md)**).  
+- Croisez les infos : **[Empathique](empathique.md)**, **[Voyante](voyante.md)**, vérifs indirectes via **[Croque-Mort](croquemort.md)** si la mort n’est pas une exécution, etc.  
+- **[Empoisonneur](empoisonneur.md)** : gardez à l’esprit que des infos « blanchissantes » peuvent être faussées.
+
+---
+
+## Bluff (pour le Mal… et parfois pour le Bien)
+**Pourquoi c’est un bluff maléfique puissant :**  
+- Le risque de **défaite immédiate du Bien** à l’exécution **dissuade** souvent le groupe de vous tuer. Vous gagnez du temps (poison, manipulations, passage d’Imp à **[Femme Écarlate](femmeecarlate.md)**, etc.).
+
+**Techniques :**  
+- **Empoisonneur + faux Saint :** même si on vous suspecte, on hésite à vous exécuter avant la fin — vous avez le temps d’agir.  
+- **Imp prudent :** sous la menace d’exécution, votre volonté d’éviter le bûcher devient « logique » si vous prétendez être le Saint.  
+- **Deux “Saints” déclarés :** on ne peut pas « exécuter les deux pour trancher » avant la fin — exploitez cette impasse.  
+- **Attention au [Mercenaire](mercenaire.md)** : iel peut **tester** un Saint sans conséquence. Ayez un plan B si l’on vous « tue ».  
+- **Récits alternatifs :** face à une **[Voyante](voyante.md)**/ ou un **[Empathique](empathique.md)**, arguez une **fausse piste** / comme le **poison**.  
+- **Bluff défensif (pour un bon rôle d’info)** : se dire Saint peut **dissuader** l’exécution (mais attendez-vous à des tests).
+
+**Risques & parades :**  
+- Si vous êtes **exécuté** et que la partie **ne se termine pas**, votre bluff tombe. Prévoyez un repli :  
+  - **[Reclus](reclus.md)** (« je m’enregistre souvent comme maléfique »),  
+  - ou un **Villageois** puissant (**[Croque-Mort](croquemort.md)**, **[Voyante](voyante.md)**) que vous « protégiez ».
+
+---
+
+## Notes de règles & interactions
+- Seule la **mort par exécution** déclenche la capacité du Saint.  
+- **Exils** (Voyageurs) ≠ exécutions.  
+- Effets de redirection (**Bouc Émissaire**) : si **quelqu’un d’autre** meurt **à la place** du Saint, **la partie continue**.
+
+---
+
+## 📂 Navigation
 - 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
 - 🍺 [Retour à Trouble Brewing](../trouble_brewing.md)  
-- 📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) · Étranger  
+- 📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) · Étranger
 
