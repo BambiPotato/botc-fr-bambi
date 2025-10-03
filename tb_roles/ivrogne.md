@@ -6,7 +6,7 @@
 
 # 🍺 Ivrogne
 
-[<img src="../images/Icon_drunk.png" alt="Ivrogne" width="400">](ivrogne.md) [Ivrogne](../tb_roles/ivrogne.md)
+[<img src="../images/Icon_drunk-1.png" alt="Ivrogne" width="400">](ivrogne.md) [Ivrogne](../tb_roles/ivrogne.md)
 
 **Type :** [Étrangers](../etrangers.md)  
 **Artiste :** Aidan Roberts  
