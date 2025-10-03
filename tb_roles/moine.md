@@ -7,15 +7,11 @@
 
 # ![Moine](../images/Icon_monk.png) 
 
-Chaque nuit*, choisissez un joueur (pas vous-même) : il est à l'abri du Démon cette nuit.
-
----
-
 ---
 
 ## ℹ️ Informations  
 
-- **Type** : Villageois  
+- **Type** : [Villageois](../villageois.md)
 - **Artiste** : Aidan Roberts  
 
 *"Un vent mauvais et mortel souffle ce soir. Viens, mon frère, t'abriter à l'abbaye pendant que la tempête fait rage. Par ma parole, ou par ma vie, tu seras en sécurité."*
