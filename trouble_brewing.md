@@ -81,6 +81,7 @@ Celles et ceux qui savent lire les signes comprennent qu’il y a… **Trouble B
 
 ---
 <div class="page-tb" markdown="1">
+
 ## [<span style="color:red">**Sbires**</span>](sbires.md)  
 
 [<img src="images/Icon_poisoner.png" alt="Empoisonneur" width="300">](tb_roles/empoisonneur.md) [**Empoisonneur**](tb_roles/empoisonneur.md)  
