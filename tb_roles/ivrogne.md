@@ -4,11 +4,11 @@
   </a>
 </p>
 
-# Ivrogne
+# 🍺 Ivrogne
 
-![Ivrogne](../images/Icon_drunk-1.png)
+[<img src="../images/Icon_drunk.png" alt="Ivrogne" width="400">](ivrogne.md) [Ivrogne](../tb_roles/ivrogne.md)
 
-**Type :** Étranger  
+**Type :** [Étrangers](../etrangers.md)  
 **Artiste :** Aidan Roberts  
  
 *« Je ne suis qu’un buveur social, ma chère. Certes, je suis un grand… *hic*… sociabilisateur. »*
@@ -17,7 +17,7 @@
 
 ## Apparait dans 🎭 
 ![TB](../images/Logo_trouble_brewing.png)  
-*(Cult of the Clocktower – épisode par Andrew Nathenson)*  
+*Cult of the Clocktower* – épisode par Andrew Nathenson
 
 ---
 
@@ -48,7 +48,7 @@
 
 ---
 
-## Conseils & Astuces
+## 💡Conseils & Astuces
 - Vous ne **saurez jamais** que vous êtes l’Ivrogne : fiez-vous aux incohérences (infos impossibles, pouvoir qui « échoue », etc.).  
 - Un nombre d’**Étrangers** anormal peut indiquer un Ivrogne (ou un **[Baron](./baron.md)**).  
 - Distinguer **Ivrogne** vs **[Empoisonneur](./empoisonneur.md)** :  
