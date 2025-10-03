@@ -25,12 +25,14 @@
 ## Jinxes associés (cliquer pour ouvrir)
 
 <details>
-  
   <summary>Jinx associés</summary>
-  <p>
-    - ![Sangsue](/botc-fr-bambi/images/Icon_lleech.png) [**Sangsue**](/botc-fr-bambi/roles_experimentaux/sangsue.html) :  
-    Si le Mercenaire tue l’hôte de la Sangsue, l’hôte meurt.
-  </p>
+  <ul>
+    <li>
+      <img src="/botc-fr-bambi/images/Icon_lleech.png" width="20" alt="Sangsue"/> 
+      <a href="/botc-fr-bambi/roles_experimentaux/sangsue.html"><strong>Sangsue</strong></a> :  
+      Si le Mercenaire tue l’hôte de la Sangsue, l’hôte meurt.
+    </li>
+  </ul>
 </details>
 
 
