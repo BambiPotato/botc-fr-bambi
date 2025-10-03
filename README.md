@@ -109,4 +109,4 @@ Notre but est de partager *Blood on the Clocktower* en français et de le rendre
 
 ---
 
-⬅️ [Retour à l’accueil](README.md)
+🏠 [Retour à l’accueil](README.md)
