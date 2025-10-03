@@ -46,80 +46,59 @@ Recommandé pour les nouveaux joueurs, joueuses et Conteurs.
 
 [<img src="images/Icon_washerwoman.png" alt="Lavandière" width="300">](tb_roles/lavandiere.md) [**Lavandière**](tb_roles/lavandiere.md)  
 
-![Bibliothécaire](images/Icon_librarian.png) [**Bibliothécaire**](tb_roles/bibliothecaire.md)  
+[<img src="images/Icon_librarian.png" alt="Bibliothécaire" width="100">](tb_roles/bibliothecaire.md) [**Bibliothécaire**](tb_roles/bibliothecaire.md)  
 
-![Enquêteur](images/Icon_investigator.png)  
-[**Enquêteur**](tb_roles/enqueteur.md)  
+[<img src="images/Icon_investigator.png" alt="Enquêteur" width="100">](tb_roles/enqueteur.md) [**Enquêteur**](tb_roles/enqueteur.md)  
 
-![Cuistot](images/Icon_chef.png)  
-[**Cuistot**](tb_roles/cuistot.md)  
+[<img src="images/Icon_chef.png" alt="Cuistot" width="100">](tb_roles/cuistot.md) [**Cuistot**](tb_roles/cuistot.md)  
 
-![Empathique](images/Icon_empath.png)  
-[**Empathique**](tb_roles/empathique.md)  
+[<img src="images/Icon_empath.png" alt="Empathique" width="100">](tb_roles/empathique.md) [**Empathique**](tb_roles/empathique.md)  
 
-![Voyante](images/Icon_fortuneteller.png)  
-[**Voyante**](tb_roles/voyante.md)  
+[<img src="images/Icon_fortuneteller.png" alt="Voyante" width="100">](tb_roles/voyante.md) [**Voyante**](tb_roles/voyante.md)  
 
-![Croque-Mort](images/Icon_undertaker.png)  
-[**Croque-Mort**](tb_roles/croquemort.md)  
+[<img src="images/Icon_undertaker.png" alt="Croque-Mort" width="100">](tb_roles/croquemort.md) [**Croque-Mort**](tb_roles/croquemort.md)  
 
-![Moine](images/Icon_monk.png)  
-[**Moine**](tb_roles/moine.md)  
+[<img src="images/Icon_monk.png" alt="Moine" width="100">](tb_roles/moine.md) [**Moine**](tb_roles/moine.md)  
 
-![Gardien](images/Icon_ravenkeeper.png)  
-[**Gardien**](tb_roles/gardien.md)  
+[<img src="images/Icon_ravenkeeper.png" alt="Gardien" width="100">](tb_roles/gardien.md) [**Gardien**](tb_roles/gardien.md)  
 
-![Vierge](images/Icon_virgin.png)  
-[**Vierge**](tb_roles/vierge.md)  
+[<img src="images/Icon_virgin.png" alt="Vierge" width="100">](tb_roles/vierge.md) [**Vierge**](tb_roles/vierge.md)  
 
-![Mercenaire](images/Icon_slayer.png)  
-[**Mercenaire**](tb_roles/mercenaire.md)  
+[<img src="images/Icon_slayer.png" alt="Mercenaire" width="100">](tb_roles/mercenaire.md) [**Mercenaire**](tb_roles/mercenaire.md)  
 
-![Soldat](images/Icon_soldier.png)  
-[**Soldat**](tb_roles/soldat.md)  
+[<img src="images/Icon_soldier.png" alt="Soldat" width="100">](tb_roles/soldat.md) [**Soldat**](tb_roles/soldat.md)  
 
-![Maire](images/Icon_mayor.png)  
-[**Maire**](tb_roles/maire.md)  
+[<img src="images/Icon_mayor.png" alt="Maire" width="100">](tb_roles/maire.md) [**Maire**](tb_roles/maire.md)  
 
 ---
 
-c  
+## [**Étrangers**](etrangers.md) 
 
-![Majordome](images/Icon_butler.png)  
-[**Majordome**](tb_roles/majordome.md)  
+[<img src="images/Icon_butler.png" alt="Majordome" width="100">](tb_roles/majordome.md) [**Majordome**](tb_roles/majordome.md)  
 
-![Ivrogne](images/Icon_drunk-1.png)  
-[**Ivrogne**](tb_roles/ivrogne.md)  
+[<img src="images/Icon_drunk-1.png" alt="Ivrogne" width="100">](tb_roles/ivrogne.md) [**Ivrogne**](tb_roles/ivrogne.md)  
 
-![Reclus](images/Icon_recluse-1.png)  
-[**Reclus**](tb_roles/reclus.md)  
+[<img src="images/Icon_recluse-1.png" alt="Reclus" width="100">](tb_roles/reclus.md) [**Reclus**](tb_roles/reclus.md)  
 
-![Saint](images/Icon_saint.png)  
-[**Saint**](tb_roles/saint.md)  
+[<img src="images/Icon_saint.png" alt="Saint" width="100">](tb_roles/saint.md) [**Saint**](tb_roles/saint.md)  
 
 ---
 
-## 😈 Sbires  
+## [**Sbires**](sbires.md)  
 
-![Empoisonneur](images/Icon_poisoner.png)  
-[**Empoisonneur**](tb_roles/empoisonneur.md)  
+[<img src="images/Icon_poisoner.png" alt="Empoisonneur" width="100">](tb_roles/empoisonneur.md) [**Empoisonneur**](tb_roles/empoisonneur.md)  
 
-![Espion](images/Icon_spy.png)  
-[**Espion**](tb_roles/espion.md)  
+[<img src="images/Icon_spy.png" alt="Espion" width="100">](tb_roles/espion.md) [**Espion**](tb_roles/espion.md)  
 
-![Femme Écarlate](images/Icon_scarletwoman.png)  
-[**Femme Écarlate**](tb_roles/femmeecarlate.md)  
+[<img src="images/Icon_scarletwoman.png" alt="Femme Écarlate" width="100">](tb_roles/femmeecarlate.md) [**Femme Écarlate**](tb_roles/femmeecarlate.md)  
 
-![Baron](images/Icon_baron.png)  
-[**Baron**](tb_roles/baron.md)  
+[<img src="images/Icon_baron.png" alt="Baron" width="100">](tb_roles/baron.md) [**Baron**](tb_roles/baron.md)  
 
 ---
 
-## 👹 Démons  
+## [**Démons**](demons.md)  
 
-![Imp](images/Icon_imp.png)  
-[**Imp**](tb_roles/imp.md)  
-
+[<img src="images/Icon_imp.png" alt="Imp" width="100">](tb_roles/imp.md) [**Imp**](tb_roles/imp.md)  
 ---
 
 ## 📥 Télécharger & 🖨️ Imprimer
@@ -135,7 +114,10 @@ Ces ressources sont pratiques pour imprimer et jouer en personne.
 - [![Liste des rôles](images/tb-roles.png)](images/tb-roles.png)
 
 
-## 📂 Navigation  
+
+## 📂 Navigation
+- 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
+- 🍺 [Retour à Trouble Brewing](../trouble_brewing.md)  
 - 🔙 [Retour à la page d’accueil](README.md)  
 
 </div>
