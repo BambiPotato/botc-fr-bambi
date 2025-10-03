@@ -8,7 +8,7 @@
 ---
 
 ## Apparaît dans
-- ![Trouble Brewing](../images/logo_trouble_brewing.png) [**Trouble Brewing**](../trouble_brewing.md)  
+- ![Trouble Brewing](../Logo_trouble_brewing.png) [**Trouble Brewing**](../trouble_brewing.md)  
 - *Cult of the Clocktower Episode* par Andrew Nathenson  
 
 ---
