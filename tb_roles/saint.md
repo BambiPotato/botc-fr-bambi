@@ -1,5 +1,5 @@
 # Saint  
-![Saint](/botc-fr-bambi/images/Icon_saint.png)
+![Saint](/tb_roles/images/Icon_saint.png)
 
 ## Information  
 - **Type :** Étranger  
@@ -9,7 +9,7 @@
 ---
 
 ## Apparaît dans 🎭
-![Trouble Brewing](/botc-fr-bambi/images/tb-front.png)  
+![Trouble Brewing](/botc-fr-bambi/images/Logo_trouble_brewing.png)  
 
 - *Cult of the Clocktower Episode*  
 par Andrew Nathenson  
