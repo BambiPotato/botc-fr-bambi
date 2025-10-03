@@ -5,13 +5,16 @@
   </a>
 </p>
 
-# ![Moine](../images/Icon_monk.png) Moine
+# ![Moine](../images/Icon_monk.png) 
 
-> Chaque nuit*, choisissez un joueur (pas vous-même) : il est à l'abri du Démon cette nuit.
+Chaque nuit*, choisissez un joueur (pas vous-même) : il est à l'abri du Démon cette nuit.
 
 ---
 
-## Informations
+---
+
+## ℹ️ Informations  
+
 - **Type** : Villageois  
 - **Artiste** : Aidan Roberts  
 
