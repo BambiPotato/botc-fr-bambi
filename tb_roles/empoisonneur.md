@@ -72,4 +72,4 @@
 ## 📂 Navigation
 - 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
 - 🍺 [Retour à Trouble Brewing](../trouble_brewing.md)  
-- 📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) ·[Sbires](../minions.md)  
+- 📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) ·[Sbires](../sbires.md)  
