@@ -7,7 +7,7 @@
 # 👨‍🍳 Cuistot  
 
 
-[<img src="../images/Icon_chef.png" alt="Cuistot" width="400">](cuistot.md) 
+[<img src="../images/Icon_chef.png" alt="Cuistot" width="400">](cuistot.md) [Cuistot](../tb_roles/cuistot.md)
 
 ---
 
