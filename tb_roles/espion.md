@@ -8,7 +8,7 @@
 [<img src="../images/Icon_spy.png" alt="Espion" width="400">](espion.md) [Espion](../tb_roles/espion.md)
 
 ## Information
-- **Type :** [Sbires](../minions.md)   
+- **Type :** [Sbire](../sbires.md) 
 - **Artiste :** Marianna Carr  
 - *« Tout maître brasseur digne de ce nom sait qu’aucune concoction ne crée plus vite des problèmes que celle où les espions semblent doubles. »*
 
@@ -84,4 +84,4 @@
 ## 📂 Navigation
 - 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
 - 🍺 [Retour à Trouble Brewing](../trouble_brewing.md)  
-- 📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) · [Sbires](../minions.md)  
+- 📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) · [Sbire](../sbires.md) 
