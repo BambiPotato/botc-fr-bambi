@@ -74,7 +74,7 @@ Il ne l’apprend qu’une seule fois, puis plus rien.
 
 - Identifiez rapidement lequel des deux joueurs est l’[Étranger](../glossaire.md#étranger).  
   Même si son pouvoir est parfois un handicap, il est toujours **bon** et donc un vote sûr.  
-  Savoir qu’une personne n’est pas le [Démon](../glossaire.md#démon) est déjà une information précieuse.  
+  Savoir qu’une personne n’est pas le <span style="color:red">**Démon**</span>  est déjà une information précieuse.  
 
 - Si vous recevez un **0**, c’est extrêmement puissant (sauf si vous êtes [Ivrogne](ivrogne.md) ou Empoisonné·e) :  
   → cela signifie qu’il n’y a **aucun Étranger** en jeu. Donc pas de  [<span style="color:red">Baron</span>](../tb_roles/baron.md) , et toute personne qui prétend être Étranger bluffe probablement pour le Mal.  
@@ -84,11 +84,11 @@ Il ne l’apprend qu’une seule fois, puis plus rien.
 - Garder votre info pour plus tard peut aussi être stratégique : sur la dernière journée, révéler qu’un joueur n’est pas le [Démon](../glossaire.md#démon) réduit le choix de 3 à 2 suspects.  
 
 - Comme vous avez toutes vos infos dès la première nuit, vous pouvez confirmer en nommant une [Vierge](vierge.md).  
-  Ou alors, prétendre être un rôle plus puissant pour détourner le **Démon** [<span style="color:red">**Démons**</span>](../demons.md) de cibles clés comme le [Moine](moine.md) ou le [Croque-Mort](croquemort.md).  
+  Ou alors, prétendre être un rôle plus puissant pour détourner le <span style="color:red">**Démon**</span> de cibles clés comme le [Moine](moine.md) ou le [Croque-Mort](croquemort.md).  
 
 - Attention à l’[Ivrogne](ivrogne.md) : si les deux joueurs vus sont en fait Ivrogne, il est crucial de le dire vite, surtout si l’un pense être un rôle à informations.  
 
-- Vous pouvez aussi mentir : déclarer qu’un joueur est l’Ivrogne peut le protéger, car le [Démon](../glossaire.md#démon) attaquera moins facilement quelqu’un perçu comme inutile.  
+- Vous pouvez aussi mentir : déclarer qu’un joueur est l’Ivrogne peut le protéger, car le  <span style="color:red">**Démon**</span>  attaquera moins facilement quelqu’un perçu comme inutile.  
 
 - Partager vos infos librement donne confiance au joueur concerné, mais pas forcément à vous.  
   Trouvez un équilibre en échangeant partiellement, par exemple en proposant une **petite liste de rôles possibles**.  
