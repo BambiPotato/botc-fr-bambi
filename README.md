@@ -39,10 +39,15 @@ Vous débutez sur *Blood 🩸 on the Clocktower* ?
 ---
 
 ## 📖 Glossaire  
+
 - 📘 [Glossaire des termes](glossaire.md)
 
 ##  🎭Catégories 
 
+- [**Villageois**](villageois.md)  
+- [**Étrangers**](etrangers.md) 
+- [**Sbires**](sbires.md)  
+- [**Démons**](demons.md)  
 
 ---
 ## Rôles par édition
