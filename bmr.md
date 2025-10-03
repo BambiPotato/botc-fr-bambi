@@ -12,7 +12,7 @@
 
 ---
 
-## 📖 Synopsis  
+## <span style="color:orange">📖 Synopsis</span>  
 
 <span style="color:orange">Le soleil est avalé par un horizon déchiqueté, alors qu’un autre jour d’hiver cède la place à la nuit.  
 Des éclats orangés et rouges se fondent en bruns plus profonds, la forêt se transformant en silence, dans l’attente de la neige à venir.</span>  
@@ -25,20 +25,21 @@ Ils se réchauffent avec du thé brûlant, des airs de musique douce et de la bi
 
 ---
 
-## 🎲 <span style="color:orange"Gameplay</span>    
+## <span style="color:orange">🎲 Gameplay</span>  
 
-<span style="color:orange">**Bad Moon Rising** est une véritable **fête de la mort**.</span>    
-<span style="color:orange">- Les Démons tuent plusieurs fois par nuit.</span>    
-<span style="color:orange">- Les Sbires ont eux aussi des capacités meurtrières.</span>    
-<span style="color:orange">- Les Villageois peuvent prendre de gros risques pour obtenir des infos fiables… mais risquent de tuer leurs amis par erreur.</span>  
+<span style="color:orange">**Bad Moon Rising** est une véritable **fête de la mort**.  
+- Les Démons tuent plusieurs fois par nuit.  
+- Les Sbires ont eux aussi des capacités meurtrières.  
+- Les Villageois peuvent prendre de gros risques pour obtenir des infos fiables… mais risquent de tuer leurs amis par erreur.</span>  
 
 <span style="color:orange">Heureusement, beaucoup d’options permettent de garder des joueurs en vie bien plus longtemps qu’ils ne l’auraient cru possible.  
 Mais si l’équipe du Bien ne parvient pas à identifier les Sbires et Démons précis en jeu, leur défaite est presque certaine.</span>  
 
 👉 <span style="color:orange">**Niveau : Intermédiaire**.  
-Recommandé pour les joueurs/joueuses **proactifs, attentifs à la coopération d’équipe et qui n’ont pas peur de mourir.**</span>  
+*Recommandé pour les joueurs/joueuses proactifs, attentifs à la coopération d’équipe et qui n’ont pas peur de mourir.*</span>  
 
 </div>
+
 
 ---
 
