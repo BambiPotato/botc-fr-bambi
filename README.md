@@ -50,7 +50,7 @@ Vous débutez sur *Blood 🩸 on the Clocktower* ?
 - [**Démons**](demons.md)  
 
 ---
-## Rôles par édition
+## 👺Rôles par Édition
 
  ![BotC](images/logo.png) [Blood on the Clocktower](blood_on_the_clocktower.md)
 
