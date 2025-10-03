@@ -1,3 +1,9 @@
+<p align="left">
+  <a href="/botc-fr-bambi/">
+    <img src="../images/logo.png" alt="Accueil BotC FR" width="80">
+  </a>
+</p>
+
 # ![Baron](../images/Icon_baron.png) Baron
 
 ## Information
@@ -7,60 +13,62 @@
 
 ---
 
-## Apparaît dans
-- ![Trouble Brewing](../Logo_trouble_brewing.png) [**Trouble Brewing**](../trouble_brewing.md)  
-- *Cult of the Clocktower Episode* par Andrew Nathenson  
+## Apparaît dans 🎭
+- ![Trouble Brewing](../images/Logo_trouble_brewing.png) [**Trouble Brewing**](../trouble_brewing.md)  
+- *Cult of the Clocktower Episode* — par Andrew Nathenson  
 
 ---
 
-## Résumé
 **« Il y a des Étrangers supplémentaires en jeu. [+2 Étrangers] »**
 
 Le Baron modifie le nombre d’Étrangers présents dans la partie.  
 
-- Ce changement se fait **lors de la mise en place**, et ne disparaît pas si le Baron meurt.  
-- Les modifications apparaissent entre crochets sur les jetons ou fiches de personnages (exemple : `[+2 Étrangers]`).  
-- Les Étrangers ajoutés **remplacent toujours des Villageois**, jamais un autre type de rôle.  
+- Ce changement se fait **lors de la mise en place** et ne disparaît pas si le Baron meurt.  
+- Les modifications de setup apparaissent entre crochets à la fin de la description (ex. `[+2 Étrangers]`).  
+- Les Étrangers ajoutés **remplacent toujours des Villageois**, jamais un autre type.
 
 ---
 
-## Comment Conter
-Lors de la mise en place :  
-- Retirez **2 jetons Villageois**.  
-- Ajoutez **2 jetons Étrangers** à la place.  
-- Si l’**Ivrogne** est ajouté, suivez bien sa règle spéciale de mise en place.  
+## Comment jouer
+Pendant la mise en place :  
+1) Retirez **2 jetons Villageois**.  
+2) Ajoutez **2 jetons Étrangers** à la place.  
+3) Si vous ajoutez l’[**Ivrogne**](../tb_roles/ivrogne.md), suivez sa règle spéciale de setup.  
 
-Les jetons des rôles modifiés vont ensuite dans le sac pour être piochés par les joueurs.  
+Ces jetons (avec ces remplacements) vont dans le sac pour être tirés par les joueurs.
 
 ---
 
 ## Exemples
-- Une partie à **7 joueurs** (5 Villageois, 1 Sbire, 1 Démon). Comme le Sbire est le Baron, le Conteur retire 2 Villageois et ajoute 2 Étrangers (par ex. le **Saint** et le **Majordome**). On a donc : 3 Villageois, 2 Étrangers, 1 Sbire, 1 Démon.  
+- Partie à **7 joueurs** (5 Villageois, 1 Sbire, 1 Démon). Comme le Sbire est le Baron, le Conteur retire 2 Villageois et ajoute, par exemple, un [**Saint**](../tb_roles/saint.md) et un [**Majordome**](../tb_roles/majordome.md). On aura donc 3 Villageois, 2 Étrangers, 1 Sbire, 1 Démon.  
 
-- Une partie à **15 joueurs** (9 Villageois, 2 Étrangers, 3 Sbires, 1 Démon). Comme le Baron est en jeu, le Conteur doit ajouter un **Ivrogne** et un **Reclus**. Il retire par ex. le **Moine** et ajoute le Reclus. L’**Ivrogne** n’est pas ajouté au sac, mais son rappel “Est l’Ivrogne” est placé dans le Grimoire.  
+- Partie à **15 joueurs** (9 Villageois, 2 Étrangers, 3 Sbires, 1 Démon). Le Baron est en jeu : on doit ajouter un [**Ivrogne**](../tb_roles/ivrogne.md) et un [**Reclus**](../tb_roles/reclus.md). Le Conteur retire par exemple le [**Moine**](../tb_roles/moine.md) et ajoute le Reclus. Pour l’Ivrogne, on n’ajoute pas son jeton au sac : on place le rappel “Est l’Ivrogne” dans le Grimoire (un Villageois est secrètement un Étranger).  
 
 ---
 
 ## Conseils & Astuces
-- Votre pouvoir agit **avant même que la partie ne commence** : une fois la mise en place terminée, vous êtes libre de **bluffer, mentir et semer la confusion** pour aider votre Démon.  
-- Revendiquez être un Étranger : cela sème le chaos. Si les joueurs constatent trop d’Étrangers, ils penseront à la présence d’un Baron, et vous pourriez passer pour un véritable Étranger.  
-- Doublez volontairement un personnage important déjà revendiqué (**Voyante**, **Croque-Mort**, **Maire**…) : cela sème le doute sur la véracité de ses infos.  
-- Faire croire qu’un Baron est en jeu alors qu’il n’y en a pas peut être une **arme redoutable** : le village croira qu’il y a un Ivrogne, ce qui rendra leurs infos suspectes.  
-- N’hésitez pas à être un **bouc émissaire** : mourir à la place du Démon, attirer un **Tueur** ou un **Corbeau** est une excellente manière de protéger l’équipe maléfique.  
-- Si vous n’optez pas pour le bluff Étranger, **accusez les vrais Étrangers** d’être maléfiques : le village risque de les exécuter à votre place.  
+- Votre pouvoir agit **avant même que la partie commence**, ensuite : amusez-vous à **bluffer** et semer la confusion pour aider votre Démon.  
+- Revendiquez être **Étranger** : si le nombre d’Étrangers paraît trop élevé, la ville pensera à un Baron — et vous pourrez passer pour un véritable Étranger.  
+- **Doublez** un personnage déjà revendiqué (ex. [**Voyante**](../tb_roles/voyante.md), [**Croque-Mort**](../tb_roles/croquemort.md), [**Maire**](../tb_roles/maire.md)) afin de **dégrader la confiance** dans ses infos.  
+- Faire croire qu’un **Baron** est en jeu alors qu’il n’y en a pas peut forcer la ville à douter de ses infos (on soupçonnera un [**Ivrogne**](../tb_roles/ivrogne.md)).  
+- Acceptez d’être le **bouc émissaire** : mourir à la place du Démon (ou attirer un [**Mercenaire**](../tb_roles/mercenaire.md) / [**Gardien**](../tb_roles/gardien.md)) protège l’équipe maléfique.  
+- Si vous ne bluffez pas Étranger, **chargez** les vrais Étrangers : la ville pourrait les exécuter.  
+- Parfois, faire tuer le Baron tôt par le Démon vous rend “fiable” en mort et vous permet de **désinformer tranquillement** ensuite.
 
 ---
 
 ## Combattre le Baron
-- Si le nombre d’Étrangers n’est pas celui attendu, il y a probablement un Baron.  
-- Faites attention aux revendications d’Étrangers :  
-  - S’il y en a plus que prévu → Baron probable.  
-  - Si le total est étrange → un **Ivrogne** est peut-être en jeu.  
-- Des rôles comme le **Bibliothécaire**, l’**Enquêteur**, le **Croque-Mort** ou le **Corbeau** aident à confirmer la présence d’un Baron.  
-- Contrairement à d’autres Sbires, l’effet du Baron est **immédiatement visible** dès la mise en place. Ce n’est pas toujours nécessaire de l’exécuter, car son pouvoir a déjà agi.  
-- Mais attention : le **Démon peut transmettre sa démonialité** au Baron. Un Baron ignoré peut donc finir en Démon en fin de partie.  
+- Un **compte d’Étrangers inhabituel** → Baron probable.  
+- Options :  
+  - Si vous croyez les revendications d’Étrangers, **gardez-les en vie** (bons quasi confirmés).  
+  - Si vous doutez, **exécutez rapidement** les prétendus Étrangers (ça peut être des bluffs).  
+  - Si le compte n’est “pas tout à fait juste”, cherchez l’[**Ivrogne**](../tb_roles/ivrogne.md).  
+- Des rôles comme le [**Bibliothécaire**](../tb_roles/bibliothecaire.md), l’[**Enquêteur**](../tb_roles/enqueteur.md), le [**Croque-Mort**](../tb_roles/croquemort.md) ou le [**Gardien**](../tb_roles/gardien.md) aident à **déduire** la présence d’un Baron.  
+- Contrairement à d’autres Sbires, l’effet du Baron est **visible dès le setup**. Il n’est pas toujours nécessaire de l’exécuter si vous avez une meilleure cible (ex. [**Imp**](../tb_roles/imp.md) ou [**Empoisonneur**](../tb_roles/empoisonneur.md)).  
+- Attention : l’[**Imp**](../tb_roles/imp.md) peut **transmettre** sa démonialité au Baron ; l’ignorer trop longtemps peut le transformer en Démon en fin de partie.
 
 ---
+
 
 ## 📂 Navigation
 - 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
