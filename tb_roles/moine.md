@@ -45,8 +45,7 @@
 ---
 
 ## Résumé
-Vous commencez chaque nuit* en choisissant un joueur (pas vous-même).  
-Ce joueur est protégé du Démon pour cette nuit-là.  
+Chaque nuit*, choisissez un joueur (pas vous-même) : il est à l'abri du Démon cette nuit. 
 
 ---
 
