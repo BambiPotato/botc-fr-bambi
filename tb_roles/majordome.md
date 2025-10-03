@@ -6,9 +6,10 @@
 
 # Majordome
 
-![Majordome](../images/Icon_butler.png)
+[<img src="../images/Icon_butler.png" alt="Majordome" width="400">](majordome.md) [Majordome](../tb_roles/majordome.md)
 
-**Type :** Étranger  
+
+**Type :** [Étrangers](../etrangers.md)  
 **Artiste :** Aidan Roberts  
 
 *"Oui, monsieur... Non, monsieur... Certainement, monsieur."*
@@ -16,9 +17,9 @@
 ---
 
 ## Apparait dans 🎭 
-![TB](../images/Logo_trouble_brewing.png) 
+[<img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400">](../trouble_brewing.md) [**Trouble Brewing**](../trouble_brewing.md)  
 
-- *(Cult of the Clocktower, épisode par Andrew Nathenson)*  
+*Cult of the Clocktower* - épisode par Andrew Nathenson 
 
 ---
 
@@ -44,13 +45,13 @@ Le Majordome ne peut voter que si son **Maître** vote.
 ---
 
 ## Exemples
-- Le Majordome choisit **Filip** comme Maître. Le lendemain, il ne pourra voter que si Filip vote.  
+- Le Majordome choisit **Corentin** comme Maître. Le lendemain, il ne pourra voter que si Filip vote.  
 - Le Maître baisse la main à la dernière seconde → le Majordome doit aussi baisser la main.  
 - Le Majordome mort peut toujours utiliser son jeton de vote librement.  
 
 ---
 
-## Conseils & Astuces
+## 💡Conseils & Astuces
 - Choisir un bon Maître est crucial : si votre Maître est fiable, votre vote le sera aussi.  
 - Si vous dites à votre Maître que vous l’avez choisi, il tiendra compte de votre voix → cela peut vous donner des infos sur son alignement.  
 - Vous n’êtes **jamais obligé** de voter, même si votre Maître vote.  
