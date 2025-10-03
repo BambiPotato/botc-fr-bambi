@@ -25,4 +25,4 @@ Voici la configuration officielle :
 
 ---
 
-⬅️ [Retour à l’accueil](README.md)
+🏠[Retour à l’accueil](README.md)
