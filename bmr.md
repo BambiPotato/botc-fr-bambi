@@ -85,7 +85,13 @@ Mais si l’équipe du Bien ne parvient pas à identifier les Sbires et Démons 
 
 ## [<span style="color:red">**Sbires**</span>](sbires.md)  
 
-*(liste des Sbires BMR à ajouter ici)*  
+[<img src="images/Icon_godfather.png" alt="Parrain" width="300">](bmr_roles/parrain.md) [<span style="color:red">**Parrain**</span>](bmr_roles/parrain.md)  
+
+[<img src="images/Icon_devilsadvocate.png" alt="Avocat du Diable" width="300">](bmr_roles/avocatdudiable.md) [<span style="color:red">**Avocat du Diable**</span>](bmr_roles/avocatdudiable.md)  
+
+[<img src="images/Icon_assassin.png" alt="Assassin" width="300">](bmr_roles/assassin.md) [<span style="color:red">**Assassin**</span>](bmr_roles/assassin.md)  
+
+[<img src="images/Icon_mastermind.png" alt="Cerveau" width="300">](bmr_roles/cerveau.md) [<span style="color:red">**Cerveau**</span>](bmr_roles/cerveau.md)  
 
 ---
 
