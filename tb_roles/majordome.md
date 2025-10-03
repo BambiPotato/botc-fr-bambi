@@ -15,7 +15,7 @@
 
 ---
 
-## Présent dans
+## Apparait dans 🎭 
 ![TB](../images/Logo_trouble_brewing.png) Trouble Brewing  
 *(Cult of the Clocktower, épisode par Andrew Nathenson)*  
 
