@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Vierge (Virgin)  
+# Vierge  
 ![Virgin](../images/Icon_virgin.png)
 
 ---
@@ -89,4 +89,4 @@ La Vierge peut, malgré elle, provoquer l’exécution de son accusateur, ce qui
 
 - 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
 - 🍺 [Retour à Trouble Brewing](../trouble_brewing.md)  
-- 📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) · Villageois
+- 📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) · [Villageois](../villageois.md) 
