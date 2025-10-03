@@ -3,6 +3,7 @@
     <img src="../images/logo.png" alt="Accueil BotC FR" width="80">
   </a>
 </p>
+# Baron
 
 # ![Baron](../images/Icon_baron.png) 
 
@@ -15,7 +16,7 @@
 
 ## Apparaît dans 🎭
 - ![Trouble Brewing](../images/Logo_trouble_brewing.png) [**Trouble Brewing**](../trouble_brewing.md)  
-- *Cult of the Clocktower Episode* — par Andrew Nathenson  
+  *Cult of the Clocktower Episode* — par Andrew Nathenson  
 
 ---
 
