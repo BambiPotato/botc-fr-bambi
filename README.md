@@ -29,7 +29,7 @@ Bienvenue sur le wiki francophone de Blood 🩸 on the Clocktower : toutes les r
 ## 📜 Règles du jeu
 
 Vous débutez sur *Blood 🩸 on the Clocktower* ?  
-- 📖 Consultez les [**Règles complètes**](regles.md) pour découvrir l’univers, la mise en place et le déroulement du jeu.
+- 📕 Consultez les [**Règles complètes**](regles.md) pour découvrir l’univers, la mise en place et le déroulement du jeu.
 
 
 ## 🔢 Mise en Place
