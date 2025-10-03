@@ -32,7 +32,7 @@ La Femme Écarlate devient le Démon si celui-ci meurt alors qu’il reste **au 
 
 ---
 
-## Comment jouer
+## Comment Conter
 Si le Démon meurt alors que 5+ joueurs sont encore vivants :  
 - **Remplacez** immédiatement le jeton de la Femme Écarlate par un jeton de Démon (dans Trouble Brewing, toujours l’[**Imp**](../tb_roles/imp.md)).  
 - Placez le rappel **« Est le Démon »** sur son jeton dans le Grimoire.  
@@ -48,7 +48,7 @@ Si le Démon meurt alors que 5+ joueurs sont encore vivants :
 
 ---
 
-## Conseils & Astuces
+## 💡Conseils & Astuces
 - La Femme Écarlate est la plus forte lorsqu’elle **coordonne avec son Démon**. Vous pouvez préparer une mise en scène où le Démon meurt « volontairement » pour vous léguer le rôle.  
 - Rester **en vie longtemps** est crucial. Contrairement à l’[**Empoisonneur**](../tb_roles/empoisonneur.md) ou au [**Baron**](../tb_roles/baron.md), votre capacité n’agit que si vous survivez jusqu’à la mort du Démon.  
 - Faites attention au timing : si le Démon est trop suspect et que vous craignez son exécution avant la fin, arrangez-vous pour qu’il meure **tant qu’il reste ≥ 5 joueurs en vie**.  
