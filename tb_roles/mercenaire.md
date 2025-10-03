@@ -22,10 +22,10 @@
 
 ---
 
-## Jinxes associés (cliquer pour ouvrir)
+
 
 <details>
-  <summary>Jinx associés</summary>
+  <summary>Jinx associé(cliquer pour ouvrir</summary>
   <ul>
     <li>
       <img src="/botc-fr-bambi/images/Icon_lleech.png" width="20" alt="Sangsue"/> 
