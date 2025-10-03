@@ -80,7 +80,7 @@ Recommandé pour les nouveaux joueurs, joueuses et Conteurs.
 [<img src="images/Icon_saint.png" alt="Saint" width="300">](tb_roles/saint.md) [**Saint**](tb_roles/saint.md)  
 
 ---
-
+<div class="page-tb" markdown="1">
 ## [**Sbires**](sbires.md)  
 
 [<img src="images/Icon_poisoner.png" alt="Empoisonneur" width="300">](tb_roles/empoisonneur.md) [**Empoisonneur**](tb_roles/empoisonneur.md)  
@@ -97,7 +97,7 @@ Recommandé pour les nouveaux joueurs, joueuses et Conteurs.
 
 [<img src="images/Icon_imp.png" alt="Imp" width="300">](tb_roles/imp.md) [**Imp**](tb_roles/imp.md)  
 ---
-
+</div>
 ## 📥 Télécharger & 🖨️ Imprimer
 
 Ces ressources sont pratiques pour imprimer et jouer en personne.
