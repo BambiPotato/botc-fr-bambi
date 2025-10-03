@@ -7,7 +7,7 @@
 
 <div class="page-tb" markdown="1">
 
-# 🍺 Trouble Brewing
+# 🍺 <span style="color:red">Trouble Brewing</span>
 
 [<img src="images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="300">](trouble_brewing.md) [**Trouble Brewing**](trouble_brewing.md)  
 
@@ -28,18 +28,18 @@ Celles et ceux qui savent lire les signes comprennent qu’il y a… **Trouble B
 ## 🎲 Gameplay  
 
 <span style="color:red">**Trouble Brewing** contient un peu de tout.  
-- Certains rôles reçoivent passivement des informations.  
+<span style="color:red">- Certains rôles reçoivent passivement des informations.  
 - D’autres doivent agir pour découvrir qui est qui.  
-- Quelques-uns cherchent simplement à attirer l’attaque du Démon.  
+- Quelques-uns cherchent simplement à attirer l’attaque du Démon. </span> 
 
-Tant le Bien que le Mal peuvent prendre l’avantage en effectuant des **sacrifices bien calculés**.  
-C’est une chasse au Démon relativement simple, mais les Sbires et le Démon disposent de nombreux moyens pour semer la confusion. Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient savoir s’ils veulent espérer survivre.<span style="color:red">  
+<span style="color:red">Tant le Bien que le Mal peuvent prendre l’avantage en effectuant des **sacrifices bien calculés**.  
+C’est une chasse au Démon relativement simple, mais les Sbires et le Démon disposent de nombreux moyens pour semer la confusion. Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient savoir s’ils veulent espérer survivre.<span style="color:red"
 
-👉 Niveau : **Débutant**.  
-Recommandé pour les nouveaux joueurs, joueuses et Conteurs.  
+👉 <span style="color:red">Niveau : **Débutant**.</span>   
+<span style="color:red"Recommandé pour les nouveaux joueurs, joueuses et Conteurs.<span style="color:red"  
 </div>
 
-## [**Villageois**](villageois.md)   
+## [<span style="color:blue">**Villageois**</span>](../villageois.md)  
 
 [<img src="images/Icon_washerwoman.png" alt="Lavandière" width="300">](tb_roles/lavandiere.md) [**Lavandière**](tb_roles/lavandiere.md)  
 
@@ -69,7 +69,7 @@ Recommandé pour les nouveaux joueurs, joueuses et Conteurs.
 
 ---
 
-## [**Étrangers**](etrangers.md) 
+## [<span style="color:blue">**Étrangers**</span>](../etrangers.md)  
 
 [<img src="images/Icon_butler.png" alt="Majordome" width="300">](tb_roles/majordome.md) [**Majordome**](tb_roles/majordome.md)  
 
@@ -81,7 +81,7 @@ Recommandé pour les nouveaux joueurs, joueuses et Conteurs.
 
 ---
 <div class="page-tb" markdown="1">
-## [**Sbires**](sbires.md)  
+## [<span style="color:red">**Sbires**</span>](../sbires.md)  
 
 [<img src="images/Icon_poisoner.png" alt="Empoisonneur" width="300">](tb_roles/empoisonneur.md) [**Empoisonneur**](tb_roles/empoisonneur.md)  
 
@@ -93,7 +93,7 @@ Recommandé pour les nouveaux joueurs, joueuses et Conteurs.
 
 ---
 
-## [**Démons**](demons.md)  
+## [<span style="color:red">**Démons**</span>](../demons.md) 
 
 [<img src="images/Icon_imp.png" alt="Imp" width="300">](tb_roles/imp.md) [**Imp**](tb_roles/imp.md)  
 ---
