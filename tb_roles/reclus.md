@@ -11,13 +11,14 @@
 **Type :** Étranger  
 **Artiste :** Aidan Roberts  
 
-*"Garn git ya darn grub ya mitts ofma lorn yasee. Grr. Natsy pikkins yonder southwise ye begittin afta ya! Git! Me harvy no so widda licks and demmons no be fightin' hadsup ne'er ma kin. Git, assay!"*  
+*« Retirez vos sales paluches de chez moi, vous m’entendez ? Grr. Y’a de mauvais coins là-bas, vers le sud… Filez donc ! Chez les miens, on n’affronte pas les démons à découvert. Ouste ! »*
+
 
 ---
 
 ## Apparait dans 🎭
 ![TB](../images/Logo_trouble_brewing.png) 
-*(Cult of the Clocktower – épisode par Andrew Nathenson)*  
+- *(Cult of the Clocktower – épisode par Andrew Nathenson)*  
 
 ---
 
