@@ -48,8 +48,8 @@ Vous débutez sur *Blood 🩸 on the Clocktower* ?
 
 - [**Villageois**](villageois.md)  
 - [**Étrangers**](etrangers.md) 
-- [**Sbires**](sbires.md)  
-- [**Démons**](demons.md)  
+- [<span style="color:red">**Sbires**</span>](sbires.md) 
+- [[<span style="color:red">**Démons**</span>](demons.md) 
 
 ---
 ## 👺Rôles par Édition
