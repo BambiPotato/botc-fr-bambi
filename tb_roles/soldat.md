@@ -4,11 +4,11 @@
   </a>
 </p>
 
-# Soldat
+# Soldat 🛡️
 
-![Soldat](../images/Icon_soldier.png)
+[<img src="../images/Icon_soldier.png" alt="Soldat" width="400">](soldat.md) [**Soldat**](../tb_roles/soldat.md)
 
-**Type :** Villageois  
+**Type :** [Villageois](../villageois.md)  
 **Artiste :** Aidan Roberts  
 
 *"Comme David face à Goliath, comme Thésée face au Minotaure, comme Arjuna face à Bhagadatta... Non."*
@@ -16,8 +16,8 @@
 ---
 
 ## 🎭 Apparait dans
-![TB](../images/Logo_trouble_brewing.png) Trouble Brewing  
-*(Cult of the Clocktower, épisode par Andrew Nathenson)*  
+[<img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400">](../trouble_brewing.md) [**Trouble Brewing**](../trouble_brewing.md)  
+*Cult of the Clocktower* - épisode par Andrew Nathenson)*  
 
 ---
 
@@ -47,7 +47,7 @@ Pendant la nuit, si le Démon attaque le Soldat, celui-ci reste en vie. (À l'au
 
 ---
 
-## Conseils & Astuces
+## 💡Conseils & Astuces
 - Si vous survivez à une attaque du Démon, la nuit se solde par **aucune mort** :le groupe a plus de temps pour exécuter et cela appuie votre rôle.  
 - Vous ne saurez jamais avec certitude si vous avez été attaqué. Un [Moine](moine.md) peut avoir protégé quelqu’un, ou le Démon peut avoir ciblé un joueur déjà mort.  
 - Faites semblant d’être une cible intéressante pour le Démon : bluffez en [Voyante](voyante.md), [Croque-Mort](croque-mort.md), [Empathique](empathique.md) ou [Mercenaire](mercenaire.md) pour l’inciter à vous attaquer.  
