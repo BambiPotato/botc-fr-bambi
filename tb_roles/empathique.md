@@ -6,7 +6,8 @@
 
 # 💙 Empathique  
 
-![Empathique](../images/Icon_empath.png)
+[<img src="../images/Icon_empath.png" alt="Empathique" width="400">](empathique.md) [**Empathique**](../tb_roles/empathique.md)
+
 
 ---
 
