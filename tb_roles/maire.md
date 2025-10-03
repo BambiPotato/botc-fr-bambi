@@ -84,4 +84,4 @@ S’il est attaqué par le Démon, le Conteur peut choisir qu’un autre joueur 
 
 - 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
 - 🍺 [Retour à Trouble Brewing](../trouble_brewing.md)  
-- 📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) · Villageois
+- 📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) · [Villageois](../villageois.md) 
