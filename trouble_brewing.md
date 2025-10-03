@@ -44,10 +44,7 @@ Recommandé pour les nouveaux joueurs, joueuses et Conteurs.
 
 ## 🏘️ Villageois  
 
-[<img src="images/Icon_washerwoman.png" alt="Lavandière" width="100">](tb_roles/lavandiere.md) [**Lavandière**](tb_roles/lavandiere.md)  
-
-![Lavandière](images/Icon_washerwoman.png)  
-[**Lavandière**](tb_roles/lavandiere.md)  
+[<img src="images/Icon_washerwoman.png" alt="Lavandière" width="300">](tb_roles/lavandiere.md) [**Lavandière**](tb_roles/lavandiere.md)  
 
 ![Bibliothécaire](images/Icon_librarian.png)  
 [**Bibliothécaire**](tb_roles/bibliothecaire.md)  
