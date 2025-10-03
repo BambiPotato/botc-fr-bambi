@@ -12,7 +12,7 @@
 
 ---
 
-## 📖 <span style="color:orange">Synopsis</span>   
+## 📖 Synopsis  
 
 <span style="color:orange">Le soleil est avalé par un horizon déchiqueté, alors qu’un autre jour d’hiver cède la place à la nuit.  
 Des éclats orangés et rouges se fondent en bruns plus profonds, la forêt se transformant en silence, dans l’attente de la neige à venir.</span>  
