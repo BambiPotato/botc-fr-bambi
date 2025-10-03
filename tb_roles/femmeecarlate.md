@@ -11,6 +11,7 @@
 
 **Type :** [Sbires](../sbires.md)  
 **Artiste :** Marianna Carr  
+
 *"Tu m’as révélé les secrets du Conseil de la Flamme Pourpre. Nous avons brûlé ensemble dans le feu, dans le désir et dans la communion bestiale, et je t’ai servi pour toujours. Mais ce soir, mon cher, c’est moi ta maîtresse."*
 
 ---
