@@ -6,7 +6,7 @@
 
 # 🔮 Voyante  
 
-![Voyante](../images/Icon_fortuneteller.png)
+[<img src="../images/Icon_fortune_teller.png" alt="Voyante" width="400">](voyante.md) [**Voyante**](../tb_roles/voyante.md)
 
 ---
 
@@ -20,7 +20,7 @@
 
 ## 🎭 Apparaît dans  
 
-![Trouble Brewing](../images/Logo_trouble_brewing.png)  
+[<img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400">](../trouble_brewing.md) [**Trouble Brewing**](../trouble_brewing.md) 
 *Cult of the Clocktower – Andrew Nathenson*  
 
 ---
