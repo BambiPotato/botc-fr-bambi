@@ -11,8 +11,8 @@
 **Alignement :** 🔵 Bon  
 **But :** Trouver et exécuter le Démon… malgré leurs handicaps.  
 
-<span style="color:blue">"Les Étrangers compliquent la tâche du Village en faussant les informations ou en imposant des contraintes de jeu.</span>  
-<span style="color:blue">Ils sèment le doute mais restent du côté des bons.</span>  
+Les Étrangers compliquent la tâche du Village en faussant les informations ou en imposant des contraintes de jeu. 
+Ils sèment le doute mais restent du côté des bons. 
 
 ## 📌 Exemples dans *Trouble Brewing*  
 - [Majordome](./trouble_brewing/majordome.md) : Ne peut voter que si son Maître vote.  
