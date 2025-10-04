@@ -51,11 +51,11 @@
 
 ---
 
-## 🧩 Exemples  
+## Exemples  
 
 - Le [Maire](maire.md) est exécuté. La nuit, le Croque-Mort voit le jeton **Maire**.  
 - L’[Ivrogne](ivrogne.md), qui pensait être la [Vierge](vierge.md), est exécuté. Le Croque-Mort voit le jeton **Ivrogne**.  
-- L’[Espion](espion.md) est exécuté, mais il s’enregistre comme [Majordome](majordome.md). Deux Voyageurs sont exilés. Le Croque-Mort voit **Majordome**, car les exils ne comptent pas.  
+- L’[<span style="color:red">Espion</span>](../tb_roles/espion.md)   est exécuté, mais il s’enregistre comme [Majordome](majordome.md). Deux Voyageurs sont exilés. Le Croque-Mort voit **Majordome**, car les voyageurs exiléss ne comptent pas.  
 - Personne n’a été exécuté aujourd’hui → le Croque-Mort ne se réveille pas.  
 
 ---
@@ -63,16 +63,16 @@
 ## 💡 Conseils & Astuces  
 
 - Plus il y a d’exécutions, plus vous avez d’informations. Même si vous ne frappez pas le Démon, vous confirmez ou infirmez des claims.  
-- Les Voyageurs ne sont pas concernés (ils sont exilés, pas exécutés), sauf le [Bouc émissaire](../other_roles/scapegoat.md), qui meurt explicitement par exécution.  
+- Les Voyageurs ne sont pas concernés (ils sont exilés, pas exécutés), sauf le [Bouc émissaire](../voyageurs/scapegoat.md), qui meurt explicitement par exécution.  
 - Confirmer l’identité d’un [Lavandière](lavandiere.md), [Bibliothécaire](bibliothecaire.md) ou [Enquêteur](enqueteur.md) est très utile. Exécuter ces rôles tôt permet de valider aussi les joueurs qu’ils désignent.  
 - Exécuter une [Voyante](voyante.md) ou un [Empathique](empathique.md) peut sembler risqué, mais permet de valider toutes leurs infos passées.  
 - Vous êtes une cible prioritaire pour le Mal. Révélez vos infos au bon moment :  
   - tôt, si vous avez vu un Démon ;  
   - tard, si vous voulez accumuler un maximum de confirmations.  
-- Si un [Imp](imp.md) exécuté est révélé par vous, méfiez-vous : une [Femme Écarlate](femmeecarlate.md) a probablement pris la relève !  
+- Si un [<span style="color:red">Imp</span>](imp.md) exécuté est révélé par vous, méfiez-vous : une [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md) a probablement pris la relève !  
 - Attention :  
   - Le [Reclus](reclus.md) peut apparaître mauvais à tort.  
-  - L’[Espion](espion.md) peut sembler bon.  
+  - L’[<span style="color:red">Espion</span>](espion.md) peut sembler bon.  
   - Ces déformations restent visibles même après leur mort.  
 
 ---
@@ -80,9 +80,9 @@
 ## 🎭 Bluff de Croque-Mort  
 
 - Vous vous réveillez **chaque nuit sauf la première** : préparez un récit crédible avec un rôle exécuté chaque jour.  
-- Confirmer des Villageois bons peut vous rendre crédible (surtout si vous avez accès à un [Espion](espion.md)).  
+- Confirmer des Villageois bons peut vous rendre crédible (surtout si vous avez accès à un [<span style="color:red">Espion</span>](espion.md)).  
 - Vous pouvez aussi salir un joueur exécuté en prétendant qu’il était Sbire ou Démon. Risqué (le joueur sait que vous mentez), mais efficace si les autres vous croient.  
-- Si un allié maléfique est exécuté, prétendre qu’il est un Villageois renforce vos deux bluffs.  
+- Si un allié maléfique est exécuté, prétendre qu’il est un [Villageois](../villageois.md) renforce vos deux bluffs.  
 - Une technique courante est de dire qu’un exécuté était **Ivrogne**, pour invalider ses infos et semer le doute.  
 - Vous pouvez rester discret plusieurs jours, puis sortir vos "révélations" au moment clé. 
 
