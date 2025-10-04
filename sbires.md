@@ -17,7 +17,7 @@ Les Sbires ne peuvent pas gagner sans leur Démon, mais leurs capacités perturb
 - [<span style="color:red">Empoisonneur</span>](./tb_roles/empoisonneur.md) : Falsifie les capacités des autres joueurs.    
 - [<span style="color:red">Espion</span>](./tb_roles/espion.md) : Voit le Grimoire chaque nuit.   
 - [<span style="color:red">Baron</span>](./tb_roles/baron.md) : Ajoute deux Étrangers au jeu.   
-- [<span style="color:red">Femme Écarlate</span>](./tb_roles/femme_ecarlate.md) : Devient Démon si celui-ci meurt avec ≥5 joueurs en vie. 
+- [<span style="color:red">Femme Écarlate</span>](./tb_roles/femmeecarlate.md) : Devient Démon si celui-ci meurt avec ≥5 joueurs en vie. 
 
 ---
 
