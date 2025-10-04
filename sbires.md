@@ -11,13 +11,13 @@
 **Alignement :** 🔴 Maléfique  
 **But :** Aider le Démon à semer le chaos et protéger son identité.  
 
-[<span style="color:red">Les Sbires ne peuvent pas gagner sans leur Démon, mais leurs capacités perturbent et manipulent le Village.</span>]   
+Les Sbires ne peuvent pas gagner sans leur Démon, mais leurs capacités perturbent et manipulent le Village. 
 
 ## 📌 Exemples dans *Trouble Brewing*  
-- [Empoisonneur](./trouble_brewing/empoisonneur.md) : [<span style="color:red">Falsifie les capacités des autres joueurs.</span>]    
-- [Espion](./trouble_brewing/espion.md) : [<span style="color:red">Voit le Grimoire chaque nuit.</span>]    
-- [Baron](./trouble_brewing/baron.md) : [<span style="color:red">Ajoute deux Étrangers au jeu.</span>]    
-- [Femme Écarlate](./trouble_brewing/femme_ecarlate.md) : [<span style="color:red">Devient Démon si celui-ci meurt avec ≥5 joueurs en vie.</span>]    
+- [<span style="color:red">Empoisonneur</span>](./trouble_brewing/empoisonneur.md) : Falsifie les capacités des autres joueurs.    
+- [<span style="color:red">Espion</span>](./trouble_brewing/espion.md) : Voit le Grimoire chaque nuit.   
+- [<span style="color:red">Baron</span>](./trouble_brewing/baron.md) : Ajoute deux Étrangers au jeu.   
+- [<span style="color:red">Femme Écarlate</span>](./trouble_brewing/femme_ecarlate.md) : Devient Démon si celui-ci meurt avec ≥5 joueurs en vie. 
 
 ---
 
