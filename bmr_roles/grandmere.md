@@ -35,6 +35,7 @@
 La Grand-mère sait qui est son petit-enfant, mais s'il est tué par le Démon, la Grand-mère meurt aussi.
 
 * Lors de la première nuit, la Grand-Mère découvre l'identité de son Petit-Enfant : un bon joueur, qu'il soit **Villageois**](villageois.md) ou **Étrangers**](etrangers.md). Le Petit-Enfant n'apprend pas qu'il a une Grand-Mère.
+
 * Si le Démon tue le Petit-Enfant, la Grand-Mère meurt aussi. Si le Petit-Enfant meurt par toute autre cause – par exécution ou par une autre forme de mort nocturne – la Grand-Mère ne meurt pas.
 
 ---
