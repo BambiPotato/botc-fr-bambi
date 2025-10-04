@@ -18,7 +18,7 @@
 ## ℹ️ Information  
 
 - **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)
-- **Illustrateur :** Aidan Roberts  
+- **Artiste :** Aidan Roberts  
 - *« Bien sûr madame, dans des circonstances normales, vous pourriez emprunter le *Codex Malificarium* dans les archives de la bibliothèque. Mais… il semble que vous ne soyez pas membre. »*  
 
 ---
