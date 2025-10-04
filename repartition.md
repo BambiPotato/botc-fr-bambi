@@ -9,7 +9,7 @@
 Selon le nombre de joueurs et joueuses, la composition des rôles change.
 Voici la configuration officielle : 
 
-| Nombre de joueurs et joueuses | [<span style="color:blue">Villageois</span>](villageois.md)  ![Townsfolk](images/Generic_townsfolk.png) | Étrangers ![Outsider](images/Generic_outsider.png) | Sbires ![Minion](images/Generic_minion.png) | Démons ![Demon](images/Generic_demon.png) |
+| Nombre de joueurs et joueuses | [<span style="color:blue">Villageois</span>](villageois.md)  ![Townsfolk](images/Generic_townsfolk.png) | [<span style="color:blue">Étrangers</span>](etrangers.md)  ![Outsider](images/Generic_outsider.png) | Sbires ![Minion](images/Generic_minion.png) | Démons ![Demon](images/Generic_demon.png) |
 | ----------------------------- | ----------------------------------------------------- | -------------------------------------------------- | ------------------------------------------- | ----------------------------------------- |
 | 5                             | 3                                                     | 0                                                  | 1                                           | 1                                         |
 | 6                             | 3                                                     | 1                                                  | 1                                           | 1                                         |
