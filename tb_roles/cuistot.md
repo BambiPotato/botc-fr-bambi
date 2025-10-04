@@ -28,11 +28,11 @@
 
 ## 📖 Résumé  
 
-*"Vous commencez à savoir combien il y a de paires de joueurs maléfiques."*  
+*"Vous commencez à savoir combien il y a de paires de joueurs <span style="color:red">maléfiques</span> style="color:red">."*  
 
-Le **Cuistot** apprend combien de **paires de joueurs maléfiques voisins** existent au total.  
+Le **Cuistot** apprend combien de **paires de joueurs <span style="color:red">maléfiques</span> voisins** existent au total.  
 
-- Lors de la première nuit, le Cuistot est réveillé et apprend **un nombre exact** de paires de voisins maléfiques.  
+- Lors de la première nuit, le Cuistot est réveillé et apprend **un nombre exact** de paires de voisins <span style="color:red">maléfiques</span>.  
 - Une paire = deux joueurs côte à côte.  
   - 2 joueurs = 1 paire.  
   - 3 joueurs voisins = 2 paires.  
@@ -51,10 +51,10 @@ Le **Cuistot** apprend combien de **paires de joueurs maléfiques voisins** exis
 
 ## Exemples  
 
-- Aucun joueur maléfique n’est assis à côté d’un autre. → le Cuistot apprend **0**.  
-- L’[Imp](imp.md) est assis à côté du [Baron](baron.md). Ailleurs, l’[Empoisonneur](empoisonneur.md) est assis à côté de la [Femme Écarlate](femmeecarlate.md). → le Cuistot apprend **2**.  
-- Un Voyageur maléfique est assis entre l’Imp et un Sbire. Deux autres Sbires sont voisins ailleurs. → le Cuistot apprend **3**.  
-- Le [Reclus](reclus.md) est entre l’Imp et l’Empoisonneur. Le Cuistot apprend **1** : ici, le Reclus s’enregistre comme maléfique dans une paire mais pas dans l’autre.  
+- Aucun joueur <span style="color:red">maléfique</span> n’est assis à côté d’un autre. → le Cuistot apprend **0**.  
+- L’[<span style="color:red">Imp</span>](imp.md) est assis à côté du [<span style="color:red">Baron</span>](baron.md). Ailleurs, l’[<span style="color:red">Empoisonneur</span>](empoisonneur.md) est assis à côté de la [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md). → le Cuistot apprend **2**.  
+- Un Voyageur <span style="color:red">maléfique</span> est assis entre l’Imp et un Sbire. Deux autres Sbires sont voisins ailleurs. → le Cuistot apprend **3**.  
+- Le [Reclus](reclus.md) est entre l’[<span style="color:red">Imp</span>](imp.md) et l’[<span style="color:red">Empoisonneur</span>](empoisonneur.md). Le Cuistot apprend **1** : ici, le [Reclus](reclus.md)s’enregistre comme <span style="color:red">maléfique</span> dans une paire mais pas dans l’autre.  
 
 ---
 
@@ -65,7 +65,7 @@ Le **Cuistot** apprend combien de **paires de joueurs maléfiques voisins** exis
 - Votre info est cruciale en **fin de partie** (quand il ne reste que 3 joueurs). N’oubliez pas de rappeler ce que vous savez.  
 - Un "0" signifie qu’aucun maléfique n’est voisin → mais restez attentif·ve aux alliances étranges.  
 - Un "1" ou plus = il y a bien des voisins maléfiques. Repérez qui chuchote souvent avec qui.  
-- Méfiez-vous du [Reclus](reclus.md), qui peut fausser vos infos, et de l’[Espion](espion.md), qui peut se cacher.  
+- Méfiez-vous du [Reclus](reclus.md), qui peut fausser vos infos, et de l’[<span style="color:red">Espion</span>](espion.md), qui peut se cacher.  
 - Dans une petite partie (Teensyville, 5–6 joueurs), de fausses infos du Cuistot peuvent semer la zizanie chez les Sbires et l’Imp.  
 
 ---
@@ -74,7 +74,7 @@ Le **Cuistot** apprend combien de **paires de joueurs maléfiques voisins** exis
 
 - Vous auriez reçu votre info la **première nuit** : un chiffre.  
 - Annoncer **0 ou 1 paire** est crédible.  
-- De grandes affirmations ("3 paires !") sont rarement crues, sauf si des Voyageurs maléfiques sont présents.  
+- De grandes affirmations ("3 paires !") sont rarement crues, sauf si des Voyageurs <span style="color:red">maléfiques</span> sont présents.  
 - Donner une fausse info peut diviser les bons joueurs et semer le chaos.  
 - Donner une vraie info peut vous faire paraître fiable et vous protéger des exécutions.  
 - Le Cuistot est **un rôle facile à bluffer**, idéal pour débutants.  
