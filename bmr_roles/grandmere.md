@@ -22,7 +22,7 @@
 
 ## 🎭 Apparaît dans  
 
-[<img src="../images/Logo_bad_moon_rising.png" alt="Bad Moon Rising" width="400">](../bmr.md) [**Bad Moon Rising**](../bmr.md)  
+[<img src="../images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="400">](../bmr.md) [**Bad Moon Rising**](../bmr.md)  
 
 *Cult of the Clocktower* – épisode par Andrew Nathenson  
 
@@ -50,7 +50,7 @@ La **Grand-Mère** connaît son « petit-enfant », mais si ce dernier est tué 
 
 - **Cédric** est [Professeur](professeur.md). La Grand-Mère apprend qu’il est son petit-enfant. Trois nuits plus tard, Cédric est tué par le <span style="color:red">Démon</span> → la Grand-Mère meurt aussi.  
 
-- **Leelou** est [Parieur](parieur.md). Elle perd son pari et meurt à cause de son pouvoir. La Grand-Mère reste vivante.  
+- **Sacha** est [Parieur](parieur.md). Elle perd son pari et meurt à cause de son pouvoir. La Grand-Mère reste vivante.  
 
 - **Nicolas** est [Bricoleur](bricoleur.md). Il est tué par le Démon, mais la Grand-Mère était rendue ivre par le [Marin](marin.md). → La Grand-Mère survit.  
 
