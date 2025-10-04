@@ -26,7 +26,7 @@ Leur rôle est de collecter des informations, de protéger leurs alliés et de m
 ---
 
 🔗 Autres catégories :  
-- [Étrangers](/botc-fr-bambi/etrangers.md)  
+- [Étrangers](etrangers.md)  
 - [Sbires](/botc-fr-bambi/sbires.md)  
 - [Démons](/botc-fr-bambi/demons.md)  
  
