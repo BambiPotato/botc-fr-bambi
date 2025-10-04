@@ -60,7 +60,7 @@ Vous débutez sur *Blood 🩸 on the Clocktower* ?
 
 [<img src="images/Logo_sects_and_violets.png" alt="Sects & Violets" width="300">](#) [**Sects & Violets**](#) *(à venir)*  
 
-[<img src="images/Generic_traveller.png" alt="Voyageurs" width="300">](voyageurs/index.md) [**Voyageurs**](voyageurs/index.md)  
+[<img src="images/Generic_traveller.png" alt="Voyageurs" width="300">](voyageurs/voyageurs.md) [**Voyageurs**](voyageurs/voyageurs.md)  
 
 [<img src="images/Generic_fabled.png" alt="Légendaires" width="300">](#) [**Légendaires**](#) *(à venir)*  
 
