@@ -30,71 +30,72 @@
 
 ## 📖 Résumé  
 
-« Chaque nuit* (sauf la première), choisissez un joueur et devinez son rôle : Si vous vous trompez, **vous mourez**. »  
+« Chaque nuit* (sauf la première), choisissez un joueur et devinez son rôle.  
+→ Si vous vous trompez, vous mourrez. »  
 
-Le **Parieur** peut confirmer qui est qui… mais paye le prix ultime en cas d’erreur.  
+Le **Parieur** mise sa vie sur sa lecture des autres joueurs.  
+Bonne intuition = survie. Mauvaise intuition = mort.  
+Le joueur peut tenter de deviner qui possède quel rôle… mais il en paie le prix fort en cas d’erreur.
 
-- Chaque nuit sauf la première, choisissez **un joueur**.  
-- Montrez ensuite **le jeton de rôle** auquel vous pensez.  
-- Si votre choix est **correct**, rien ne se passe.  
-- Si votre choix est **faux**, vous **mourez**.  
-- Vous ne saurez jamais directement si vous avez eu raison ou tort.  
+Chaque nuit (sauf la première), le joueur choisit un autre joueur — vivant ou mort, voire lui-même — et tente de deviner son rôle en désignant son icône sur la feuille des rôles.
+Si la réponse est correcte, rien ne se passe. Si elle est incorrecte, le joueur meurt.
+Le conteur ne révèle pas si la supposition était juste ou non.
 
 ---
 
 ## 🎬 Comment Conter  
 
 - Chaque nuit (sauf la première), réveillez le Parieur.  
-- Il désigne un joueur vivant ou mort (il peut même se choisir).  
-- Ensuite, il désigne un jeton de rôle sur la feuille des personnages.  
-- Endormez le Parieur.  
-
-➡️ Si le joueur choisi a **un rôle différent** de celui indiqué, le Parieur **meurt** (posez un jeton **MORT**).  
+- Il pointe un joueur, puis l’icône d’un rôle sur la feuille.  
+- Rendormez-le.  
+- Si le rôle est incorrect → marquez le Parieur avec le jeton **MORT**.  
 
 ---
 
 ## 🧾 Exemples  
 
-- Le Parieur pointe la [Ménestrel](menestrel.md), puis le jeton Ménestrel. → Il a raison. Il survit. (Mais il est tué par le <span style="color:red">Démon</span> cette même nuit.)  
+- Le Parieur choisit le [Ménestrel](menestrel.md) et pointe l’icône du Ménestrel.  
+  → Bonne prédiction, il reste en vie… mais est tué la même nuit par le [Shabaloth](shabaloth.md).  
 
-- L’[Avocat du Diable](avocatdudiable.md) bluffe en [Pacifiste](pacifiste.md). Cette nuit, le Parieur désigne l’Avocat du Diable et le jeton Pacifiste. → Faux. Le Parieur **meurt**.  
+- L’[Avocat du Diable](avocatdudiable.md) bluffe en [Pacifiste](pacifiste.md).  
+  → Le Parieur le choisit et pointe l’icône du Pacifiste.  
+  → Mauvaise prédiction : le Parieur meurt.  
 
 ---
 
 ## 💡 Astuces & Conseils  
 
-- Vous êtes un rôle **à haut risque et haute récompense** : vous obtenez une info fiable, mais mettez votre vie en jeu chaque nuit.  
+- Le Parieur est un rôle à **fort risque mais très fiable** : si vous survivez, c’est que votre intuition était juste.  
 
-- Confirmez en priorité des **joueurs bons** :  
-  → Cela construit de la confiance et crée un cercle solide d’informations.  
-  → Par exemple, confirmer qu’un [Pacifiste](pacifiste.md) est bien en jeu peut être aussi utile que de confirmer une [Femme de Chambre](femmedecha.md).  
+- Un bon usage est de **confirmer les rôles des joueurs bons**.  
+  → Savoir avec certitude qu’un [Pacifiste](pacifiste.md) ou une [Femme de Chambre](femmedecha.md) est bien en jeu peut être décisif.  
 
-- Jouez vos cartes tôt : vous avez peu de chances de survivre jusqu’au bout.  
-  → Maximisez vos choix avant la fin.  
+- Vous ne vivrez peut-être pas jusqu’à la fin → concentrez vos paris sur les rôles **cruciaux** (Exorciste, Courtisan, Dame de Thé).  
 
-- Deviner les **rôles maléfiques** est plus risqué :  
-  → Si vous soupçonnez quelqu’un d’être un <span style="color:red">Sbire</span> ou le <span style="color:red">Démon</span>, il vous faut deviner **exactement** lequel.  
-  → Mieux vaut se concentrer sur confirmer des Villageois ou Étrangers.  
+- Deviner un joueur maléfique est plus risqué : même si vous êtes sûrs qu’il est Sbire ou Démon, il y a plusieurs options possibles. Les chances sont contre vous.  
 
-- Pour éviter de mourir sans raison, vous pouvez vous choisir vous-même :  
-  → Vous savez que vous êtes le Parieur → votre pouvoir ne peut pas vous tuer.  
+- Vous pouvez **mourir volontairement** pour prouver que vous êtes bien le Parieur.  
+  → Si vous avez confirmé plusieurs bons rôles, prédisez votre propre mort en privé, choisissez exprès un mauvais rôle, et mourez.  
+  → Votre mort crédibilise vos infos.  
 
-- Après plusieurs confirmations réussies, vous pouvez **prouver** que vous êtes le Parieur en prédisant votre propre mort :  
-  → Confiez en privé à un joueur de confiance que vous allez deviner faux → puis faites-le.  
+- Si vous n’avez **aucune piste**, choisissez-vous vous-même.  
+  → Comme vous savez que vous êtes Parieur, vous resterez en vie, et si vous mourez c’est que le Mal vous a ciblé.  
 
 ---
 
 ## 🎭 Bluff en tant que Parieur  
 
-- Aidez vos alliés maléfiques : confirmez publiquement que leurs bluffs sont vrais.  
-  → Ex. si le [Po](po.md) prétend être la [Dame de Thé](damedethe.md), affirmez l’avoir « vérifié » la nuit dernière.  
+- Aidez vos alliés en prétendant avoir « confirmé » leur rôle.  
+  → Exemple : « J’ai parié que Nicolas était [Dame de Thé](damedethe.md), et je suis encore vivant. »  
 
-- Vous pouvez semer le doute : affirmez que vous avez deviné un rôle faux et « survécu », laissant entendre que le joueur est <span style="color:red">maléfique</span>.  
+- Vous pouvez renforcer des joueurs bons (et donc vous paraître fiable), mais attention à ne pas trop réduire les suspects du Mal.  
 
-- Si vous mourez la nuit, servez-vous-en comme preuve :  
-  → « J’ai deviné ce joueur → je suis mort → c’était faux. »  
+- Dites que vous êtes mort parce que vous avez mal parié → cela implique que le joueur choisi est <span style="color:red">maléfique</span>.  
+  → Cela fonctionne seulement si le Démon tue effectivement cette nuit-là pour valider le bluff.  
 
-- Après quelques nuits, feignez de « jouer la sécurité » en disant que vous vous devinez vous-même. Cela explique pourquoi vous êtes encore vivant.  
+- Si vous mourez dans la nuit pour une autre raison (ex. par Démon), vous pouvez l’utiliser comme preuve de votre rôle.  
+
+- Beaucoup de vrais Parieurs meurent tôt. Si vous survivez trop longtemps, prétendez que vous pariez sur vous-même depuis plusieurs nuits → explication crédible de votre survie.  
 
 ---
 
@@ -103,3 +104,5 @@ Le **Parieur** peut confirmer qui est qui… mais paye le prix ultime en cas d�
 - 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
 - 🌙 [Retour à Bad Moon Rising](../bmr.md)  
 - 📂 **Catégories :** [Bad Moon Rising](../bmr.md) · [<span style="color:blue">Villageois</span>](../villageois.md)  
+
+
