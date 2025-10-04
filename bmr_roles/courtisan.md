@@ -1,6 +1,6 @@
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="../images/logo.png" alt="Accueil BotC FR" width="150">
+    <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
@@ -70,7 +70,7 @@ Le **Courtisan** choisit un **rôle** (et non un joueur) qui devient ivre pendan
 
 - ⚔️ **<span style="color:red">Démon</span>** : c’est la cible la plus puissante. Si vous réussissez, vous donnez 3 nuits de répit au Bien. Observez le rythme des morts nocturnes pour identifier si vous faites face à un [<span style="color:red">Shabaloth</span>](shabaloth.md), un [<span style="color:red">Po</span>](po.md), un [<span style="color:red">Pukka</span>](pukka.md) ou un [<span style="color:red">Zombuul</span>](zombuul.md).  
 
-- 🩸 [<span style="color:red">Sbires</span>](../sbires.md) :  
+  - [<span style="color:red">Sbires</span>](../sbires.md) :  
   - [<span style="color:red">Assassin</span>](assassin.md) ou [<span style="color:red">Parrain</span>](parrain.md) ivres → plus de morts surprises.  
   - [<span style="color:red">Avocat du Diable</span>](avocatdudiable.md) ivre → ne sauve personne.  
   - [<span style="color:red">Cerveau</span>](cerveau.md) ivre → prive les maléfiques d’une victoire inattendue.  
