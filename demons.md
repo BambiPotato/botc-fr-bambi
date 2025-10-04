@@ -11,11 +11,11 @@
 **Alignement :** 🔴 Maléfique  
 **But :** Faire disparaître assez de joueurs pour que le Village ne puisse plus gagner.  
 
-Le Démon est le chef de l’équipe maléfique.  
+Le [<span style="color:red">Démon</span>] est le chef de l’équipe maléfique.  
 S’il est exécuté, les bons remportent la partie (sauf cas particuliers comme la Femme Écarlate).  
 
 ## 📌 Exemple dans *Trouble Brewing*  
-- [Imp](./trouble_brewing/imp.md) : Tue un joueur chaque nuit et peut transmettre son rôle à un Sbire.  
+- [<span style="color:red">Imp</span>](../tb_roles/imp.md)   : Tue un joueur chaque nuit et peut transmettre son rôle à un Sbire.  
 
 ---
 
