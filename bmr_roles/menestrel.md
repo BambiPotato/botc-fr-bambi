@@ -20,6 +20,8 @@
 > Si tu ne manques pas de me dire que tu m’aimes...  
 > Je dormirai simplement en paix jusqu’à ton retour."*
 
+---
+
 ## 🎭 Apparaît dans  
 
 [<img src="../images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="400">](../bmr.md) [**Bad Moon Rising**](../bmr.md)  
