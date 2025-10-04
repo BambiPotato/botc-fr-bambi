@@ -83,8 +83,6 @@ La Lavandière apprend qu’un certain [Villageois](../glossaire.md#villageois) 
 
 ---
  
-📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) · Villageois
-
 
 ## 📂 Navigation 
 
