@@ -1,112 +1,124 @@
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="../images/logo.png" alt="Accueil BotC FR" width="150">
+    <img src="../images/logo.png" alt="Accueil BotC FR" width="80">
   </a>
 </p>
 
 ---
 
-# 🍸 Courtisan  
+# 🔎 Enquêteur  
 
-[<img src="../images/Icon_courtier.png" alt="Courtisan" width="400">](courtisan.md) [**Courtisan**](../bmr_roles/courtisan.md)
+[<img src="../images/Icon_investigator.png" alt="Enquêteur" width="400">](enqueteur.md) [**Enquêteur**](../tb_roles/enqueteur.md)
+
 
 ---
 
 ## ℹ️ Information  
 
-- **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)  
-- **Artiste :** Aidan Roberts  
-- *« Je crains davantage une armée de cent moutons menée par un lion qu’une armée de cent lions menée par un mouton. »*  
+- **Type :** [Villageois](../villageois.md) 
+- **Illustrateur :** Aidan Roberts  
+- *« Une belle nuit pour une promenade, n’est-ce pas, Monsieur Morozov ? Ou devrais-je dire… **BARON** Morozov ? »*  
 
 ---
 
-## 🎭 Apparaît dans  
+## 🎭 Apparaît dans 
 
-[<img src="../images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="400">](../bmr.md) [**Bad Moon Rising**](../bmr.md)  
+[<img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400">](../trouble_brewing.md) [**Trouble Brewing**](../trouble_brewing.md)  
 
 *Cult of the Clocktower* – épisode par Andrew Nathenson  
 
 ---
 
-## 📖 Résumé  
 
-« Une fois par partie, la nuit, choisissez un rôle : il est ivre pendant **3 nuits et 3 jours**. »  
+  <details>
+  <summary>Jinx associé(cliquer pour ouvrir)</summary>
+  <p>Si l’Enquêteur apprend que le 
+  <a href="/botc-fr-bambi/roles_experimentaux/vizir.html">Vizir</a> 
+  est en jeu, <strong>le Conteur n’annonce pas son existence</strong> publiquement.</p>
+</details>
 
-Le **Courtisan** choisit un **rôle** (et non un joueur) qui devient ivre pendant trois nuits et trois jours, à partir de cette nuit.  
-
-- Le Courtisan ne sait pas si son choix est valide (si ce rôle est en jeu ou non).  
-- Il ne peut utiliser son pouvoir **qu’une seule fois par partie**.  
-- Si le Courtisan est ivre ou empoisonné lorsqu’il utilise son pouvoir → il échoue.  
-- Si le Courtisan rend un personnage ivre, puis devient lui-même ivre/empoisonné → l’effet cesse. Quand il redevient sobre/sain → l’effet reprend.  
-- Le joueur ivre **ne le sait pas**, mais son pouvoir ne fonctionne plus tant que dure l’ivresse.  
 
 ---
 
-## 🎬 Comment Conter  
+## 📖 Résumé  
 
-- Chaque nuit (sauf la première), réveillez le Courtisan.  
-- Il peut passer son tour ou désigner un **rôle** (icône sur la fiche).  
-- Si ce rôle est en jeu → le joueur correspondant devient ivre pendant 3 nuits et 3 jours.  
-- Utilisez les jetons rappels comme **IVRE 1 / IVRE 2 / IVRE 3** pour suivre la durée.  
-- Après ce cycle → retirez les jetons de rappel et marquez le Courtisan comme **sans pouvoir**.  
-- Une fois son pouvoir utilisé → ne le réveillez plus.  
+« Vous commencez en apprenant 2 joueurs et le rôle de [<span style="color:red">Sbire</span>](../glossaire.md#sbire) de l’un des deux. »  
+
+L’**Enquêteur** apprend qu’un rôle de Sbire particulier est en jeu, mais pas exactement de quel joueur il s'agit.  
+
+Lors de la première nuit, l’Enquêteur apprend que l’un de deux joueurs est un Sbire spécifique.  
+Il ne l’apprend qu’une seule fois, puis plus rien.  
+
+---
+
+## 🎬 Mise en place 
+
+- Pendant la préparation de la première nuit, placez le jeton de rappel **<span style="color:red">SBIRE</span>** de l’Enquêteur à côté du jeton de rôle d’un [<span style="color:red">Sbire</span>](../glossaire.md#sbire),  
+  et placez le jeton de rappel **FAUX** de l’Enquêteur à côté de n’importe quel autre rôle.  
+
+- Réveillez ensuite l’Enquêteur et **pointez les deux joueurs marqués SBIRE et FAUX**.  
+- Montrez le jeton de rôle marqué **<span style="color:red">SBIRE</span>** à l’Enquêteur.  
+- Rendormez l’Enquêteur.  
+- Retirez ses jetons mémo quand cela n’est plus utile.  
 
 ---
 
 ## 🧾 Exemples  
 
-- Le Courtisan attend la 5ᵉ nuit et cible le [Shabaloth](shabaloth.md). → Pendant 3 nuits, le Shabaloth se réveille, mais ne tue personne.  
+- **Céline** est le [<span style="color:red">Baron</span>](baron.md), et **Pierre** est le [Maire](maire.md).  
+  → L’Enquêteur apprend que soit Céline, soit Pierre est le Baron.  
 
-- Le Courtisan est ivre et choisit le [Po](po.md). → Rien ne se passe.  
+- **Tyld** est l’[<span style="color:red">Espion</span>](espion.md), et **Julien** est l’[<span style="color:red">Empoisonneur</span>](empoisonneur.md).  
+  → L’Enquêteur apprend que soit Tyld, soit Julien est l’Espion.  
 
-- Le Courtisan cible le [Cerveau](cerveau.md). → Le Démon est exécuté, mais comme le Cerveau est ivre, il n’octroie pas la victoire au Mal. Le Bien gagne.  
+- **Tigeni** est le [Reclus](reclus.md), et **Kyllian** est l’[<span style="color:red">Imp</span>](imp.md).  
+  → L’Enquêteur apprend que soit Tigeni, soit Kyllian est l’[<span style="color:red">Empoisonneur]</span>].  
+  (Le Reclus peut s’enregistrer comme un Sbire – ici comme[<span style="color:red">Empoisonneur]</span>].)  
 
 ---
 
 ## 💡 Astuces & Conseils  
 
-- ⚔️ **<span style="color:red">Démon</span>** : c’est la cible la plus puissante. Si vous réussissez, vous donnez 3 nuits de répit au Bien. Observez le rythme des morts nocturnes pour identifier si vous faites face à un <span style="color:red">[Shabaloth](shabaloth.md)</span>  , <span style="color:red">[Po](po.md)</span>, <span style="color:red">[Pukka](pukka.md)</span> ou <span style="color:red">[Zombuul](zombuul.md)</span>.  
+- Partagez votre information **dès le premier jour**. Même si vous ne savez pas lequel des deux est le vrai Sbire, si vous êtes cru, le Bien pourra exécuter les deux au fil de la partie → garantissant qu’au moins un Sbire est mort.  
 
-- 🩸[<span style="color:red">Sbires</span>](sbires.md) :  
-  - <span style="color:red">[Assassin](assassin.md)</span> ou <span style="color:red">[Parrain](parrain.md)</span> ivres → plus de morts surprises. 
-  - <span style="color:red">[Avocat du Diable](avocatdudiable.md)</span> ivre → ne sauve personne.  
-  - <span style="color:red">[Cerveau](cerveau.md)</span> ivre → prive les Maléfiques d’une victoire inattendue.  
+- Vos infos seules ne suffisent pas forcément, mais combinées à celles d’un [Empathique](empathique.md) ou d’un [Cuistot](cuistot.md), elles deviennent redoutables.  
 
-- 🛡️ **Villageois** : ce n’est pas optimal, mais peut être utile :  
-  - [Bricoleur](bricoleur.md) ivre → ne meurt plus au hasard.  
-  - [Grand-Mère](grandmere.md) ivre → survit si son petit-enfant meurt.  
-  - [Enfant de la Lune](enfantdelalune.md) ivre → ne provoque pas de mort supplémentaire.  
+- Vous pouvez aussi observer silencieusement :  
+  - Si un des deux suspects défend toujours quelqu’un, cette personne est probablement le [Démon](../glossaire.md#démon).  
+  - Si au contraire il cherche sans cesse à faire exécuter un joueur, ce joueur est probablement du Bien.  
 
-- 🎯 **Tester les menteurs** : si un joueur prétend être [Exorciste](exorciste.md), rendez « Exorciste » ivre. Si malgré tout, il continue à bloquer le Démon, c’est un menteur.  
+- Vous pouvez garder vos infos secrètes et les révéler plus tard à des joueurs de confiance : cela peut créer des alliances.  
 
-- ⏳ **Utilisation unique** : choisissez bien le moment.  
-  - Tôt = vous êtes sûrs de l’activer avant de mourir.  
-  - Tard = vous avez plus d’infos pour cibler au mieux.  
+- Si vous apprenez la présence d’une [Femme Écarlate](femmeecarlate.md) ou d’un [Empoisonneur](empoisonneur.md), exécutez-les vite ! Leur pouvoir est dangereux tant qu’ils vivent.  
 
-- ❌ Si vous ne savez pas qui viser → ciblez un rôle dangereux. Même si ce rôle n’est pas en jeu, vous pouvez l’éliminer de vos déductions.  
+- Tous les Sbires sont dangereux : même un [Baron](baron.md) ou un [Espion](espion.md) garde son pouvoir de vote et de nomination.  
+
+- Si vous apprenez qu’un Sbire autre que le Baron est en jeu et qu’il n’y a qu’un seul Sbire dans la partie, vous savez exactement combien d’[Étrangers](../glossaire.md#étranger) il y a. Si plus de joueurs prétendent être Étrangers, l’un ment.  
+
+- ⚠️ Attention au [Reclus](reclus.md) : il peut apparaître comme un Sbire !  
 
 ---
 
-## 🎭 Bluff en tant que Courtisan  
+## 🎭 Bluff en tant qu’Enquêteur  
 
-- ⏱️ Attendez quelques jours avant de dire que vous avez utilisé votre pouvoir. Un vrai Courtisan ne l’active pas dès le départ.  
+- Vous êtes censé avoir eu votre info la première nuit : deux joueurs + un jeton de Sbire.  
 
-- Version simple : « J’ai ciblé le Démon, mais il n’était pas le bon. » → crédible et peu risqué.  
+- Stratégies possibles :  
+  - Pointer deux bons joueurs et affirmer que l’un est un Sbire → le Bien peut se déchirer.  
+  - Si vous êtes [Démon](../glossaire.md#démon), nommer un vrai Sbire peut vous rendre crédible (surtout si l’[Exécuteur](croquemort.md) ou d’autres confirment ensuite).  
+  - Bluffer qu’un [Baron](baron.md) est en jeu peut forcer vos complices à prétendre être des [Étrangers](../glossaire.md#étranger).  
+  - Utiliser vos infos secrètement avec un ou deux joueurs peut semer le doute durablement.  
+  - Bluffer sur un [Empoisonneur](empoisonneur.md) alors qu’il y a une [Femme Écarlate](femmeecarlate.md) peut créer une énorme confusion.  
+  - Si un vrai Enquêteur s’est déjà révélé, le faire passer pour un menteur en prétendant qu’il était l’un de vos « suspects » peut détruire sa crédibilité.  
 
--  Version risquée : affirmez avoir rendu ivre un rôle actif. Par exemple : « J’ai ciblé l’Exorciste, il est ivre, ses infos ne valent rien. » → cela sème le chaos.  
-
-- Si vous êtes le <span style="color:red">[Cerveau](cerveau.md)</span>, prétendez avoir ciblé « le Cerveau ». → le Bien croira qu’il est neutralisé, et sera pris au piège.  
-
-- Si vous êtes le <span style="color:red">[Pukka](pukka.md)</span>, prétendez avoir ciblé le Pukka. Quand les morts continuent malgré tout, tout le monde pensera qu’un autre Démon est en jeu.  
-
-- 🎭 Feignez d’avoir neutralisé un rôle clé (ex. <span style="color:red">[Avocat du Diable](avocatdudiable.md)</span>). Le Bien cessera d’y penser, et vous pourrez surprendre.  
+- Si vous êtes [Espion](espion.md), vous avez des infos exactes qui rendent vos bluffs encore plus solides.  
 
 ---
 
-## 📂 Navigation  
+## 📂 Navigation 
 
 - 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
-- 🌙 [Retour à Bad Moon Rising](../bmr.md)  
-- 📂 **Catégories :** [Bad Moon Rising](../bmr.md) · [<span style="color:blue">Villageois</span>](../villageois.md)  
+- 🍺 [Retour à Trouble Brewing](../trouble_brewing.md)  
+- 📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) ·[Villageois](../villageois.md) 
 
  
