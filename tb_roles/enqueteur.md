@@ -42,7 +42,7 @@
 
 ## 📖 Résumé  
 
-« Vous commencez en apprenant 2 joueurs et le rôle de [Sbire](../glossaire.md#sbire) de l’un des deux. »  
+« Vous commencez en apprenant 2 joueurs et le rôle de [<span style="color:red">Sbire</span>](../glossaire.md#sbire) de l’un des deux. »  
 
 L’**Enquêteur** apprend qu’un rôle de Sbire particulier est en jeu, mais pas exactement de quel joueur il s'agit.  
 
@@ -53,11 +53,11 @@ Il ne l’apprend qu’une seule fois, puis plus rien.
 
 ## 🎬 Mise en place 
 
-- Pendant la préparation de la première nuit, placez le jeton mémo **SBIRE** de l’Enquêteur à côté du jeton de rôle d’un [Sbire](../glossaire.md#sbire),  
+- Pendant la préparation de la première nuit, placez le jeton de rappel **<span style="color:red">SBIRE</span>** de l’Enquêteur à côté du jeton de rôle d’un [<span style="color:red">Sbire</span>](../glossaire.md#sbire),  
   et placez le jeton de rappel **FAUX** de l’Enquêteur à côté de n’importe quel autre rôle.  
 
 - Réveillez ensuite l’Enquêteur et **pointez les deux joueurs marqués SBIRE et FAUX**.  
-- Montrez le jeton de rôle marqué **SBIRE** à l’Enquêteur.  
+- Montrez le jeton de rôle marqué **<span style="color:red">SBIRE</span>** à l’Enquêteur.  
 - Rendormez l’Enquêteur.  
 - Retirez ses jetons mémo quand cela n’est plus utile.  
 
@@ -65,15 +65,15 @@ Il ne l’apprend qu’une seule fois, puis plus rien.
 
 ## 🧾 Exemples  
 
-- **Céline** est le [Baron](baron.md), et **Pierre** est le [Maire](maire.md).  
+- **Céline** est le [<span style="color:red">Baron</span>](baron.md), et **Pierre** est le [Maire](maire.md).  
   → L’Enquêteur apprend que soit Céline, soit Pierre est le Baron.  
 
-- **Tyld** est l’[Espion](espion.md), et **Julien** est l’[Empoisonneur](empoisonneur.md).  
+- **Tyld** est l’[<span style="color:red">Espion</span>n](espion.md), et **Julien** est l’[<span style="color:red">Empoisonneur</span>](empoisonneur.md).  
   → L’Enquêteur apprend que soit Tyld, soit Julien est l’Espion.  
 
 - **Tigeni** est le [Reclus](reclus.md), et **Kyllian** est l’[Imp](imp.md).  
-  → L’Enquêteur apprend que soit Tigeni, soit Kyllian est l’Empoisonneur.  
-  (Le Reclus peut s’enregistrer comme un Sbire – ici comme Empoisonneur.)  
+  → L’Enquêteur apprend que soit Tigeni, soit Kyllian est l’[<span style="color:red">Empoisonneur</span>].  
+  (Le Reclus peut s’enregistrer comme un Sbire – ici comme[<span style="color:red">Empoisonneur</span>].)  
 
 ---
 
