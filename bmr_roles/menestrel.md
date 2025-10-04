@@ -1,26 +1,24 @@
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="../images/logo.png" alt="Accueil BotC FR" width="150">
+    <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
+# 🎶 Ménestrel  
 
-# **Ménestrel**
-
-[<img src="../images/Icon_minstrel.png" alt="Ménestrel" width="400">](grandmere.md) [**Ménestrel**](../bmr_roles/menestrel.md)
-
+[<img src="../images/Icon_minstrel.png" alt="Ménestrel" width="400">](menestrel.md) [**Ménestrel**](menestrel.md)  
 
 ---
 
 ## ℹ️ Information  
 
-- **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)  
-- **Artiste :** John Grist 
+- **Type :** [<span style="color:blue">Villageois</span>](../villageois.md)  
+- **Artiste :** John Grist  
 
 > *"Et j’entendrai, même si tu marches doucement au-dessus de moi...  
 > Et tous mes rêves seront plus doux et plus chauds...  
 > Si tu ne manques pas de me dire que tu m’aimes...  
-> Je dormirai simplement en paix jusqu’à ton retour."*
+> Je dormirai simplement en paix jusqu’à ton retour."*  
 
 ---
 
@@ -34,98 +32,87 @@
 
 ## 📖 Résumé  
 
-> **« Lorsqu’un Sbire meurt par exécution, tous les autres joueurs (sauf les Voyageurs) deviennent ivres jusqu’au crépuscule du lendemain. »**
+**« Lorsqu’un <span style="color:red">Sbire</span> meurt par exécution, tous les autres joueurs (sauf les Voyageurs) deviennent ivres jusqu’au crépuscule du lendemain. »**
 
-Le **Ménestrel** rend tout le monde ivre lorsqu’un **Sbire** meurt **par exécution**.
+Le **Ménestrel** rend tout le monde ivre lorsqu’un <span style="color:red">Sbire</span> meurt **par exécution**.
 
-- Si un Sbire est exécuté **et meurt**, tous les joueurs (sauf le Ménestrel et les Voyageurs) deviennent immédiatement ivres et le restent **toute la nuit suivante et toute la journée suivante**.  
-- Cela inclut les **Villageois**, **Étrangers**, **Sbires**, et même les **Démons**.  
-- Les **Voyageurs** ne sont pas affectés.  
-- Si un Sbire meurt **pendant la nuit**, l’effet **ne se déclenche pas**.
+- Si un <span style="color:red">Sbire</span> est exécuté **et meurt**, tous les joueurs (sauf le Ménestrel et les Voyageurs) deviennent immédiatement **ivres** pour **toute la nuit suivante et la journée suivante**.  
+- Cela inclut les [Villageois](../villageois.md), [Étrangers](../etrangers.md), <span style="color:red">[Sbires](../sbires.md)</span>, et même les <span style="color:red">[Démons](../demons.md)</span>.  
+- Les [Voyageurs](../voyageurs.md) ne sont **pas affectés**.  
+- Si le <span style="color:red">Sbire</span> meurt pendant la nuit, **l’effet ne se déclenche pas**.  
 
-> ⚠️ Si le Ménestrel est ivre ou empoisonné quand un Sbire meurt par exécution, sa capacité **ne se déclenche pas**.
+> ⚠️ Si le Ménestrel est ivre ou empoisonné quand un <span style="color:red">Sbire</span> meurt par exécution, sa capacité **ne se déclenche pas**.  
 
 ---
 
-## **Comment Conter**
+## 🎬 Comment Conter  
 
-Pendant la journée, si un **Sbire meurt par exécution** :
+Pendant la journée, si un <span style="color:red">Sbire</span> meurt par exécution :  
 
 ➡️ Tous les autres joueurs sauf les Voyageurs deviennent **ivres**.  
-Placez le jeton de rappel **(« TOUT LE MONDE EST IVRE »)** au centre du côté gauche du **Grimoire**.
+Placez le jeton de rappel **« TOUT LE MONDE EST IVRE »** au centre du Grimoire.  
 
-Au **crépuscule du lendemain**, tous les joueurs affectés par le Ménestrel redeviennent **sobres** — retirez le jeton de rappel **(« TOUT LE MONDE EST IVRE »)**.
-
----
-
-## **Exemples**
-
-- **Premier jour :** le **Pacifiste** meurt. Rien ne se passe cette nuit, car il n’est pas un Sbire.  
-  **Deuxième jour :** le **Juge** exécute le **Parrain**. Cette nuit-là, tout le monde est ivre, y compris le Démon, donc personne ne meurt.  
-  **Troisième jour :** un Sbire protégé par l’**Avocat du Diable** est exécuté et meurt, car l’Avocat du Diable est ivre. Le Ménestrel rend à nouveau tout le monde ivre.
-
-- L’**Assassin** est exécuté : tout le monde devient ivre.  
-  Le lendemain, le **Parrain** est exécuté : tout le monde redevient ivre.  
-  Le **Démon** ne tue personne ces deux nuits.  
-  Le jour suivant, le **Maître Apprenti maléfique** est exilé : tout le monde redevient sobre, car un exil de **Voyageur** ne déclenche pas la capacité du Ménestrel.
-
-- En journée, l’**Assassin** meurt : tout le monde devient ivre.  
-  Le jour suivant, le **Zombuul** est exécuté et meurt pour la première fois.  
-  Le **Bien** gagne, car le Zombuul est ivre et n’a plus de capacité.
+➡️ Au **crépuscule du lendemain**, tous les joueurs affectés redeviennent **sobres** — retirez le jeton.  
 
 ---
 
-## **Astuces & Stratégie**
+## 🧾 Exemples  
 
-Le **Ménestrel** semble faible au premier abord, mais il fournit en réalité **des informations extrêmement fiables**.
+- **Premier jour :** le [Pacifiste](pacifiste.md) meurt. Rien ne se passe.  
+  **Deuxième jour :** le [Juge](juge../voyageurs.md) exécute le <span style="color:red">[Parrain](parrain.md)</span>. Cette nuit-là, tout le monde est ivre, y compris le <span style="color:red">Démon</span>, donc personne ne meurt.  
+  **Troisième jour :** un <span style="color:red">Sbire</span> protégé par l’<span style="color:red">[Avocat du Diable](avocatdudiable.md)</span> est exécuté et meurt, car l’Avocat du Diable est ivre. Le Ménestrel rend à nouveau tout le monde ivre.  
 
-- Après une exécution, si quelqu’un meurt durant la nuit, vous savez que l’exécuté **n’était pas un Sbire**.  
-- Comme l’exécution d’un Démon met souvent fin à la partie (sauf pour le **Zombuul** ou le **Maître Apprenti**), vous pouvez souvent déduire qu’il s’agissait d’un **joueur du Bien** !
+- L’<span style="color:red">[Assassin](assassin.md)</span> est exécuté : tout le monde devient ivre.  
+  Le lendemain, le <span style="color:red">[Parrain](parrain.md)</span> est exécuté : tout le monde redevient ivre.  
+  Le <span style="color:red">[Démon](../demons.md)</span> ne tue personne ces deux nuits.  
+  Le jour suivant, le [Apprenti](apprenti.../voyageurs.md) est exilé : tout le monde redevient sobre, car un exil de [Voyageur](../voyageurs.md) ne déclenche pas la capacité du Ménestrel.  
 
-### 🎭 Interpréter les nuits sans mort
-
-Si un Sbire est exécuté, votre capacité s’active et **personne ne mourra cette nuit-là**.  
-Mais attention : dans *Bad Moon Rising*, il existe **de nombreuses raisons** à l’absence de mort (Exorciste, Aubergiste, Po, etc.).  
-
-Pour confirmer que votre capacité en est la cause :
-- Observez les résultats inhabituels de rôles à information (Femme de Chambre, Parieur...).  
-- Notez si des protections cessent de fonctionner (Pacifiste, Avocat du Diable).  
-- Vérifiez si des morts aléatoires (comme le **Tinker**) ne se produisent pas.
-
-### ⚔️ Favorisez les exécutions !
-
-Plus il y a d’exécutions, plus vous avez de chances d’éliminer un Sbire.  
-Même si les bons joueurs hésitent à exécuter souvent dans *Bad Moon Rising*, il est crucial d’écarter des Sbires puissants comme l’**Assassin** ou le **Maître Apprenti**.  
-Votre capacité offre en prime **une nuit de répit**.
-
-### 😈 Survivre plus longtemps
-
-Les Démons sous-estiment souvent le Ménestrel.  
-Vous êtes donc **moins prioritaire comme cible**, surtout face à des rôles plus menaçants (Exorciste, Dame de Thé).  
-Profitez-en pour rester en vie jusqu’à ce qu’un Sbire tombe.
-
-Si les forces du Mal comprennent votre importance, gardez votre identité **secrète** : vous pourrez créer un **effet de surprise** lorsque tout le monde deviendra ivre.
+- En journée, l’<span style="color:red">[Assassin](assassin.md)</span> meurt : tout le monde devient ivre.  
+  Le jour suivant, le <span style="color:red">[Zombuul](zombuul.md)</span> est exécuté et meurt pour la première fois.  
+  Le Bien gagne, car le Zombuul est ivre et n’a plus de capacité.  
 
 ---
 
-## **Bluffer le Ménestrel**
+## 💡 Astuces & Stratégie  
 
-Le **Ménestrel** est un **excellent bluff passif**, facile à maintenir.  
-Vous pouvez le jouer en toute discrétion, ou pour masquer un rôle actif.
+Le **Ménestrel** semble faible, mais il fournit en réalité **des informations extrêmement fiables**.  
 
-### 💀 Conseils de bluff :
+- Après une exécution, si quelqu’un meurt durant la nuit, vous savez que l’exécuté **n’était pas un <span style="color:red">Sbire</span>**.  
+- Comme l’exécution d’un <span style="color:red">Démon</span> met souvent fin à la partie (sauf pour un <span style="color:red">[Zombuul](zombuul.md)</span> ou un <span style="color:red">[Apprenti](apprenti.md)</span>), vous pouvez en déduire qu’il s’agissait d’un **joueur du Bien** !  
 
-- Faites en sorte qu’aucune mort ne survienne une nuit (demandez au Démon de ne pas tuer).  
-  Cela simulera la capacité du Ménestrel après la mort d’un Sbire et renforcera les soupçons envers la dernière personne exécutée.  
-  Les rôles à information nocturne seront désorientés.
+### 🎭 Interpréter les nuits sans mort  
 
-- Si un allié du Mal est exécuté, laissez le Démon tuer comme d’habitude.  
-  Les joueurs croiront que l’exécuté était **bon**, ce qui renforce votre bluff.
+Si un <span style="color:red">Sbire</span> est exécuté, votre capacité s’active et **personne ne meurt cette nuit-là**.  
+Mais attention : dans *Bad Moon Rising*, il existe **de nombreuses raisons** à l’absence de mort ([Exorciste](exorciste.md), [Aubergiste](aubergiste.md), <span style="color:red">[Po](po.md)</span>, etc.).  
 
-- Encouragez les exécutions, sauf celles qui visent **vous-même** ou le **Démon**.
+Pour confirmer que votre capacité est en cause :  
+- Observez les résultats inhabituels des rôles à information ([Femme de Chambre](femmedecha.md), [Parieur](parieur.md)...).  
+- Notez si des protections cessent de fonctionner ([Pacifiste](pacifiste.md), <span style="color:red">[Avocat du Diable](avocatdudiable.md)</span>).  
+- Vérifiez si des morts aléatoires (comme le [Bricoleur](bricoleur.md)) ne se produisent pas.  
 
-- Si un vrai Ménestrel est en jeu et que vous êtes le **Démon**, ne tuez pas de temps en temps.  
-  Le vrai Ménestrel pensera qu’un Sbire a été exécuté alors que c’était un Villageois, ce qui sèmera la confusion.
+### ⚔️ Favorisez les exécutions  
+
+Plus il y a d’exécutions, plus vous avez de chances d’éliminer un <span style="color:red">Sbire</span>.  
+Même si les bons joueurs hésitent à exécuter souvent, éliminer un <span style="color:red">[Assassin](assassin.md)</span> ou un [Apprenti](apprenti.md)</span> peut offrir **une nuit de répit**.  
+
+### 😈 Survivre plus longtemps  
+
+Les <span style="color:red">Démons</span> sous-estiment souvent le Ménestrel, le laissant en vie.  
+Profitez-en pour garder votre identité secrète jusqu’à ce qu’un <span style="color:red">Sbire</span> tombe — l’effet sera spectaculaire !  
+
+---
+
+## 🎭 Bluff en tant que Ménestrel  
+
+Le **Ménestrel** est un **excellent bluff passif** : facile à maintenir, crédible et discret.  
+
+### 💀 Conseils de bluff  
+- Faites en sorte qu’aucune mort ne survienne une nuit (demandez au <span style="color:red">Démon</span> de ne pas tuer).  
+  Cela simulera votre capacité après la mort d’un <span style="color:red">Sbire</span> et désorientera les rôles à information.  
+- Si un allié du <span style="color:red">Mal</span> est exécuté, laissez le <span style="color:red">Démon</span> tuer normalement.  
+  Les joueurs croiront que l’exécuté était bon.  
+- Encouragez les exécutions (sauf celles visant le <span style="color:red">Démon</span> ou vous-même).  
+- Si un vrai Ménestrel est en jeu et que vous êtes le <span style="color:red">Démon</span>, sautez quelques attaques nocturnes : cela créera la confusion.  
 
 ---
 
@@ -134,3 +121,4 @@ Vous pouvez le jouer en toute discrétion, ou pour masquer un rôle actif.
 - 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
 - 🌙 [Retour à Bad Moon Rising](../bmr.md)  
 - 📂 **Catégories :** [Bad Moon Rising](../bmr.md) · [<span style="color:blue">Villageois</span>](../villageois.md)
+
