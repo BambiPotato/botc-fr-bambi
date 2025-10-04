@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# <span style="color:blue">Démons</span>   
+# <span style="color:red">Démons</span>   
 
 ![Démons](./images/Generic_demon.png)  
 
