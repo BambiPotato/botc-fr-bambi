@@ -15,7 +15,7 @@
 
 ## ℹ️ Information  
 
-- **Type :** [Villageois](../glossaire.md#villageois)  
+- **Type :** [Villageois](../md#villageois)  
 - **Illustrateur :** Aidan Roberts  
 - *« Une belle nuit pour une promenade, n’est-ce pas, Monsieur Morozov ? Ou devrais-je dire… **BARON** Morozov ? »*  
 
