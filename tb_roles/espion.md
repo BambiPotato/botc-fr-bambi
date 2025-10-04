@@ -25,7 +25,7 @@
 
 - L’Espion est un **Sbire maléfique**, mais il peut **s’enregistrer comme Bon** (Villageois ou Étranger) quand une capacité cherche à détecter son alignement.  
 - Il a accès **chaque nuit au Grimoire**, ce qui lui donne une vision complète : rôles, statuts, marqueurs du Conteur.  
-- Il **ne gagne pas les capacités** des rôles sous lesquels il s’enregistre (par ex. : un Espion qui s’enregistre comme **[Empoisonneur](empoisonneur.md)** ne peut pas empoisonner).  
+- Il **ne gagne pas les capacités** des rôles sous lesquels il s’enregistre (par ex. : un Espion qui s’enregistre comme **[<span style="color:red">Empoisonneur</span>](empoisonneur.md)** ne peut pas empoisonner).  
 - Le Conteur choisit à chaque cas comment l’Espion est perçu par les capacités d’information.
 
 ---
@@ -74,8 +74,8 @@
 
 ## Bluff (pour le Mal)
 - **Excellent bluff** car vous savez exactement quels rôles sont disponibles.  
-- Prétendre être vu comme « bon » par un rôle d’info (ex : **Empathique**) est crédible.  
-- Prétendre être un **Étranger** peut masquer la présence d’un **[Baron](baron.md)**.  
+- Prétendre être vu comme « bon » par un rôle d’info (ex :**[<span style="color:blue">Empathique</span>](empathique.md)**) est crédible.  
+- Prétendre être un **Étranger** peut masquer la présence d’un **[<span style="color:red">Baron</span>](baron.md)**.  
 - Restez cohérent avec vos alliés Sbires/Démon : partagez vos bluffs potentiels en privé… ou subtilement en public.  
 - Le Conteur **confirmera vos bluffs** si vous êtes exécuté et qu’un **[Croque-Mort](croquemort.md)** regarde.  
 
