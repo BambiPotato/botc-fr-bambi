@@ -41,11 +41,11 @@
 ---
 
 ## Exemples
-- Le **[Mercenaire](./mercenaire.md)** utilise sa capacité sur le Reclus. Le Conteur décide qu’il s’enregistre comme **[Imp](./imp.md)** → le Reclus meurt, et le Mercenaire pense avoir trouvé le Démon.  
+- Le **[Mercenaire](./mercenaire.md)** utilise sa capacité sur le Reclus. Le Conteur décide qu’il s’enregistre comme **[<span style="color:red">Imp</span>](imp.md)** → le Reclus meurt, et le Mercenaire pense avoir trouvé le Démon.  
 - L’**[Empathique](./empathique.md)** est voisin du Reclus et du **[Moine](./moine.md)**. Il apprend « 1 » la première nuit, puis « 0 » la suivante.  
-- L’**[Enquêteur](./enqueteur.md)** apprend que le Reclus ou le **[Saint](./saint.md)** est la **[Femme Écarlate](./femme_ecarlate.md)**.  
-- Le Reclus est exécuté. Le **[Croque-Mort](./croquemort.md)** apprend que c’était l’**[Imp](./imp.md)**.  
-- Le Reclus est voisin d’un **[Imp](./imp.md)** et d’un Voyageur maléfique. Pour ne pas trop révéler, le Conteur décide de donner au **[Cuisinier](./cuisinier.md)** une vraie info (« 0 »).  
+- L’**[Enquêteur](./enqueteur.md)** apprend que le Reclus ou le **[Saint](./saint.md)** est la **[<span style="color:red">Femme Écarlate</span>](femmeecarlate.md)**.  
+- Le Reclus est exécuté. Le **[Croque-Mort](./croquemort.md)** apprend que c’était l’**[<span style="color:red">Imp</span>](imp.md)**.  
+- Le Reclus est voisin d’un **[<span style="color:red">Imp</span>](imp.md)**  et d’un Voyageur maléfique. Pour ne pas trop révéler, le Conteur décide de donner au **[Cuisinier](./cuisinier.md)** une vraie info (« 0 »).  
 
 ---
 
