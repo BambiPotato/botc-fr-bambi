@@ -38,7 +38,7 @@ Tant qu’il est **sobre**, il est immortel.
 - Chaque nuit, il choisit un joueur vivant.  
 - Soit le Marin, soit la cible est rendue **Ivre**.  
 - S’il se choisit lui-même → il perd sa capacité « vous ne pouvez pas mourir » jusqu’à redevenir sobre.  
-- S’il est sobre → il ne peut pas mourir, même s’il est exécuté ou attaqué par un Démon.  
+- S’il est sobre → il ne peut pas mourir, même s’il est exécuté ou attaqué par un <span style="color:red">Démon</span>.  
 
 ---
 
@@ -58,11 +58,11 @@ Tant qu’il est **sobre**, il est immortel.
 ## 🧾 Exemples  
 
 - Le Marin choisit l’[Exorciste](exorciste.md).  
-  → Le Conteur décide que l’Exorciste est ivre. Cette nuit-là, le Marin est attaqué par le [Shabaloth](shabaloth.md). Il survit. Le lendemain, le Marin est exécuté mais reste en vie.  
+  → Le Conteur décide que l’Exorciste est ivre. Cette nuit-là, le Marin est attaqué par le [<span style="color:red">Shabaloth</span>](shabaloth.md). Il survit. Le lendemain, le Marin est exécuté mais reste en vie.  
 
 - Le jour, la [Commère](commere.md) fait une déclaration publique qui s’avère vraie. La nuit, sa capacité tue un joueur. Le Marin s’était choisi lui-même, le Conteur décide donc qu’il est ivre. Le Marin meurt.  
 
-- Le Marin choisit le [Cerveau](cerveau.md).  
+- Le Marin choisit le [<span style="color:red">Cerveau</span>](cerveau.md).  
   → Le Conteur décide que le Marin est ivre. Le lendemain, le Marin demande à être exécuté pour prouver son rôle, mais il meurt car il était ivre.  
 
 ---
@@ -75,14 +75,14 @@ Tant qu’il est **sobre**, il est immortel.
 
 - Ciblez des joueurs dont vous soupçonnez le Mal, ou des [Villageois](../villageois.md) dont l’ivresse ne met pas trop en danger l’équipe (par ex. la [Grand-Mère](grandmere.md) ou le [Fou](fou.md)), plutôt que des rôles cruciaux comme l’[Exorciste](exorciste.md).  
 
-- Vous pouvez **prouver** que vous êtes Marin en demandant l’exécution : si vous êtes sobre, vous survivrez. Mais attention : cela peut aussi faire croire que vous êtes protégé par un [Avocat du Diable](avocatdudiable.md).  
+- Vous pouvez **prouver** que vous êtes Marin en demandant l’exécution : si vous êtes sobre, vous survivrez. Mais attention : cela peut aussi faire croire que vous êtes protégé par un [<span style="color:red">Avocat du Diable</span>](avocatdudiable.md).  
 
 - Informez vos cibles qu’elles risquent d’être ivres.  
   → Une [Femme de Chambre](femmedecha.md) ivre aura des infos fausses, un [Aubergiste](aubergiste.md) ivre ne protège pas, etc.  
 
 - Vous pouvez coordonner vos choix avec d’autres bons rôles pour maximiser l’impact :  
   - ivrer un rôle d’info suspect,  
-  - protéger un rôle clé en détournant le Démon,  
+  - protéger un rôle clé en détournant le <span style="color:red">Démon</span>,  
   - ou garder votre immortalité jusqu’aux derniers jours.  
 
 ---
@@ -93,10 +93,10 @@ Tant qu’il est **sobre**, il est immortel.
   → Évitez de chercher à « prouver » votre rôle ainsi.  
 
 - Utilisez l’**ivresse** comme couverture :  
-  - si un allié maléfique (ex. [Femme de Chambre](femmedecha.md)) donne des infos incohérentes → vous pouvez dire que vous l’avez choisi et qu’il était ivre.  
+  - si un allié <span style="color:red">maléfique</span> (ex. [Femme de Chambre](femmedecha.md)) donne des infos incohérentes → vous pouvez dire que vous l’avez choisi et qu’il était ivre.  
   - si un joueur fort révèle son rôle, vous pouvez affirmer que vous l’avez rendu ivre chaque nuit → cela mettra en doute ses infos.  
 
-- Prétendez avoir choisi régulièrement un bon rôle qui échoue : par ex. si un [Courtisan](courtisan.md) ne paralyse pas un Démon → dites que vous l’aviez choisi, donc il était ivre.  
+- Prétendez avoir choisi régulièrement un bon rôle qui échoue : par ex. si un [Courtisan](courtisan.md) ne paralyse pas un <span style="color:red">Démon</span> → dites que vous l’aviez choisi, donc il était ivre.  
 
 ---
 
@@ -105,4 +105,5 @@ Tant qu’il est **sobre**, il est immortel.
 - 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
 - 🌙 [Retour à Bad Moon Rising](../bmr.md)  
 - 📂 **Catégories :** [Bad Moon Rising](../bmr.md) · [<span style="color:blue">Villageois</span>](../villageois.md)  
+
 
