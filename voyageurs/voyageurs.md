@@ -64,4 +64,4 @@ Un Voyageur peut rejoindre la partie à tout moment, et la quitter à tout momen
 ---
 
 ## 📂 Navigation  
-- 🔙 [Retour à la page d’accueil](../README.md)  
+- 🏠 [Retour à la page d’accueil](../README.md)  
