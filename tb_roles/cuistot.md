@@ -28,7 +28,7 @@
 
 ## 📖 Résumé  
 
-*"Vous commencez à savoir combien il y a de paires de joueurs <span style="color:red">maléfiques</span> style="color:red">."*  
+*"Vous commencez à savoir combien il y a de paires de joueurs maléfiques."*  
 
 Le **Cuistot** apprend combien de **paires de joueurs <span style="color:red">maléfiques</span> voisins** existent au total.  
 
