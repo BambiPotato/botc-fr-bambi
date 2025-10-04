@@ -37,11 +37,9 @@
 ---
 
 ## Exemples
-- **Exécution directe :** 7 joueurs vivants. Le Saint obtient 4 votes et est « sur le bûcher ». Plus tard, le **Baron** est nommé mais n’obtient que 3 voix. Aucune autre nomination : le Saint est exécuté → **fin de partie, le Mal gagne**.  
-- **Mort de jour, non-exécution :** L’**Imp** est nommé et on vote. Le **Flingeur** abat le Saint pendant la journée ; le Saint **meurt**, **mais la partie continue** (ce n’est pas une exécution).  
+- **Exécution directe :** 7 joueurs vivants. Le Saint obtient 4 votes et est « sur le bûcher ». Plus tard, le **[<span style="color:red">Baron</span>](baron.md)** est nommé mais n’obtient que 3 voix. Aucune autre nomination : le Saint est exécuté → **fin de partie, le Mal gagne**.  
+- **Mort de jour, non-exécution :** L’**[<span style="color:red">Imp</span>](imp.md)  ** est nommé et on vote. Le **[Flingeur](../voyageurs/flingeur.md) ** abat le Saint pendant la journée ; le Saint **meurt**, **mais la partie continue** (ce n’est pas une exécution).  
 - **Redirection par un Voyageur :** Le Saint est « exécuté », mais l’effet du **Bouc Émissaire** se déclenche : c’est le Bouc Émissaire qui meurt **à la place**. **Le Saint n’est pas mort**, donc **la partie continue**.
-
-> Liens : [Baron](baron.md) · [Imp](imp.md) · [Flingeur](../voyageurs/flingeur.md) · *(Bouc Émissaire à venir)*
 
 ---
 
