@@ -44,23 +44,23 @@ La **Femme Écarlate** devient le <span style="color:red">Démon</span> si celui
 
 Si le <span style="color:red">Démon</span> meurt alors qu’il reste 5+ joueurs vivants :  
 - **Remplacez** immédiatement le jeton de la Femme Écarlate par celui du <span style="color:red">Démon</span> (dans *Trouble Brewing*, toujours l’[<span style="color:red">Imp</span>](imp.md)).  
-- Placez le rappel **« Est le Démon »** sur son jeton dans le Grimoire.  
-- La nuit suivante, réveillez la nouvelle Imp et montrez-lui le jeton **« Vous êtes »** puis le jeton **Imp**.  
+- Placez le jeton de rappel **« Est le Démon »** sur son jeton dans le Grimoire.  
+- La nuit suivante, réveillez le nouveau Imp et montrez-lui le jeton **« Vous êtes »** puis le jeton **Imp**.  
 - Dans d’autres éditions (avec plusieurs Démons), elle prend le type exact du Démon mort.  
 
 ---
 
 ## 🧾 Exemples  
 
-- **7 joueurs vivants** : [<span style="color:red">Imp</span>](imp.md) + Femme Écarlate + 2 Villageois + 3 Voyageurs.  
-  → L’Imp est exécuté → la partie s’arrête (les Voyageurs ne comptent pas).  
+- **Il y a 7 joueurs en vie** : L' [<span style="color:red">Imp</span>](imp.md), la Femme Écarlate, 2 Villageois et 3 Voyageurs.  
+  → L’[<span style="color:red">Imp</span>](imp.md) est exécuté → la partie s’arrête (les Voyageurs ne comptent pas).  
 
-- **5 joueurs vivants** : [<span style="color:red">Imp</span>](imp.md) + Femme Écarlate + [<span style="color:red">Baron</span>](baron.md) + 2 Villageois.  
-  → L’Imp est exécuté → la Femme Écarlate devient l’Imp → la partie continue.  
+- **Il y 5 joueurs vivants** : L'[<span style="color:red">Imp</span>](imp.md), la Femme Écarlate, le [<span style="color:red">Baron</span>](baron.md) et 2 Villageois.  
+  → L’[<span style="color:red">Imp</span>](imp.md) est exécuté → la Femme Écarlate devient l’[<span style="color:red">Imp</span>](imp.md)  → la partie continue.  
 
-- **Voyante** : Brianna (Femme Écarlate) et Alex sont choisis par la [Voyante](voyante.md). Elle obtient un « non ».  
-  Plus tard, l’Imp meurt, Brianna devient Imp.  
-  La Voyante choisit à nouveau Brianna et Alex, et obtient cette fois un « oui ».  
+- Laura est la Femme Écarlate. La [Voyante](voyante.md) choisit Laura et Alexis elle apprend un « non ».  
+  Plus tard, l’[<span style="color:red">Imp</span>](imp.md) meurt, Laura devient l’[<span style="color:red">Imp</span>](imp.md).  
+  La [Voyante](voyante.md) choisit à nouveau Laura et Alexis, et obtient cette fois un « oui ».  
 
 ---
 
@@ -73,7 +73,7 @@ Si le <span style="color:red">Démon</span> meurt alors qu’il reste 5+ joueurs
 
 - Si le Démon risque d’être exécuté trop tôt, assurez-vous qu’il meure **tant qu’il reste ≥ 5 joueurs vivants**.  
 
-- Vous ne vous enregistrez **pas comme Démon** tant que vous êtes Femme Écarlate → profitez-en pour être « confirmé » par des rôles comme la [Voyante](voyante.md) ou le [Tireur d’élite](tueur.md).  
+- Vous ne vous enregistrez **pas comme Démon** tant que vous êtes Femme Écarlate → profitez-en pour être « confirmé » par des rôles comme la [Voyante](voyante.md) ou le [Mercenaire](mercenaire.md).  
 
 - Si le Démon joue bien et reste discret, pas besoin d’activer votre capacité : semez le doute comme un <span style="color:red">Sbire</span> classique.  
 
@@ -86,9 +86,9 @@ Si le <span style="color:red">Démon</span> meurt alors qu’il reste 5+ joueurs
 - Si l’Imp se tue de nuit, la démonialité doit **toujours passer à la Femme Écarlate** avant un autre <span style="color:red">Sbire</span>.  
   → Cela peut révéler où se cache le nouveau <span style="color:red">Démon</span>.  
 
-- Le <span style="color:red">Démon</span> et la Femme Écarlate peuvent **co-bluffer** pour se soutenir (ex. elle se dit [Laveuse](laveuse.md) et « confirme » le Démon).  
+- Le <span style="color:red">Démon</span> et la Femme Écarlate peuvent **co-bluffer** pour se soutenir (ex. elle se dit [Lavandière](lavandiere.md) et « confirme » le Démon).  
 
-- La Femme Écarlate **ne s’enregistre pas comme Démon** → la [Voyante](voyante.md) ou le [Tireur d’élite](tueur.md) ne la détecteront pas.  
+- La Femme Écarlate **ne s’enregistre pas comme Démon** → la [Voyante](voyante.md) ou le [Mercenaire](mercenaire.md) ne la détecteront pas.  
 
 - Si un [Enquêteur](enqueteur.md) ou un [Croque-Mort](croquemort.md) révèle qu’elle est en jeu, gardez-la **vivante** : au dernier jour, la question devient « le Démon est-il devenu la Femme Écarlate ? ».  
 
