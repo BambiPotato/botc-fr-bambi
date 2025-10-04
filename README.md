@@ -56,7 +56,7 @@ Vous débutez sur *Blood 🩸 on the Clocktower* ?
 - [<span style="color:blue">**Étrangers**</span>](etrangers.md) 
 - [<span style="color:red">**Sbires**</span>](sbires.md) 
 - [<span style="color:red">**Démons**</span>](demons.md) 
-- [<span style="color:purple">**Voyageurs</span>**](voyageurs/voyageurs.md)
+- [<span style="color:purple">**Voyageurs**</span>](voyageurs/voyageurs.md)
 
 ---
 ## 👺Rôles par Édition
