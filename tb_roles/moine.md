@@ -63,9 +63,9 @@
 ---
 
 ## Exemples
-- Le Moine protège la [Voyante](voyante.md). L’Imp l’attaque. Personne ne meurt.  
+- Le Moine protège la [Voyante](voyante.md). L’[<span style="color:red">Imp</span>](imp.md)   l’attaque. Personne ne meurt.  
 - Le Moine protège le [Maire](maire.md). L’Imp attaque le Maire. La capacité du Maire ne s’active pas : il reste en vie et personne ne meurt.  
-- Le Moine protège l’Imp. L’Imp tente de se tuer pour passer son rôle. Rien ne se passe : l’Imp reste en vie.  
+- Le Moine protège l’[<span style="color:red">Imp</span>](imp.md). L’[<span style="color:red">Imp</span>](imp.md) tente de se tuer pour passer son rôle. Rien ne se passe : l’Imp reste en vie.  
 
 ---
 
