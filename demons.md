@@ -8,7 +8,7 @@
 
 ![Démons](./images/Generic_demon.png)  
 
-**Alignement :** 🔴 <span style="color:red">Maléfique<span   
+**Alignement :** 🔴 Maléfique  
 **But :** Faire disparaître assez de joueurs pour que le Village ne puisse plus gagner.  
 
 Le Démon est le chef de l’équipe des maléfiques.  
