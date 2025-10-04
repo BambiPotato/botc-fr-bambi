@@ -6,7 +6,7 @@
 
 # 🔫 Flingeur  
 
-[<img src="../images/Icon_gunslinger.png" alt="Flingeur" width="300">](flingeur.md) [**Flingeur**](flingeur.md)  
+[<img src="../images/Icon_gunslinger.png" alt="Flingeur" width="400">](flingeur.md) [**Flingeur**](flingeur.md)  
 
 ---
 
