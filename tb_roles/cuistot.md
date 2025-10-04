@@ -1,6 +1,6 @@
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="../images/logo.png" alt="Accueil BotC FR" width="80">
+    <img src="../images/logo.png" alt="Accueil BotC FR" width="150">
   </a>
 </p>
 
@@ -41,7 +41,7 @@ Le **Cuistot** apprend combien de **paires de joueurs maléfiques voisins** exis
 
 ---
 
-## 🎲 Mise en place & exécution  
+## Comment Conter
 
 - Pendant la **première nuit**, réveillez le Cuistot.  
 - Montrez-lui un nombre de doigts correspondant au **nombre de paires** de voisins maléfiques (0, 1, 2, etc.).  
@@ -49,7 +49,7 @@ Le **Cuistot** apprend combien de **paires de joueurs maléfiques voisins** exis
 
 ---
 
-## 🧩 Exemples  
+## Exemples  
 
 - Aucun joueur maléfique n’est assis à côté d’un autre. → le Cuistot apprend **0**.  
 - L’[Imp](imp.md) est assis à côté du [Baron](baron.md). Ailleurs, l’[Empoisonneur](empoisonneur.md) est assis à côté de la [Femme Écarlate](femmeecarlate.md). → le Cuistot apprend **2**.  
@@ -83,7 +83,6 @@ Le **Cuistot** apprend combien de **paires de joueurs maléfiques voisins** exis
 
 ---
 
-## 📂 Navigation 
 
 ## 📂 Navigation 
 
