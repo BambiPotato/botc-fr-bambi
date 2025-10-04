@@ -6,7 +6,7 @@
 
 
 
-[<img src="images/Generic_traveller.png" alt="Voyageurs" width="300">](voyageurs/voyageurs.md) [**Voyageurs**](voyageurs/voyageurs.md)  
+[<img src="images/Generic_traveller.png" alt="Voyageurs" width="300">](voyageurs/voyageurs.md) [**Voyageurs**](voyageurs.md)  
 
 # Les Voyageurs 🧳
 
