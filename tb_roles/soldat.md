@@ -42,9 +42,9 @@ Pendant la nuit, si le Démon attaque le Soldat, celui-ci reste en vie. (À l'au
 
 ---
 ## Exemples
-- L’[Imp](imp.md) attaque le Soldat → le Soldat survit, personne ne meurt cette nuit-là.  
-- Le [Empoisonneur](poisoner.md) empoisonne le Soldat, puis l’Imp l’attaque → le Soldat meurt, car il n’a plus sa capacité.  
-- L’Imp attaque le Soldat, mais le Soldat est en réalité l’[Ivrogne](ivrogne.md) → il meurt.  
+- L’[<span style="color:red">Imp</span>](imp.md)  attaque le Soldat → le Soldat survit, personne ne meurt cette nuit-là.  
+- L' [<span style="color:red">Empoisonneur</span>](../tb_roles/empoisonneur.md) empoisonne le Soldat, puis l’[<span style="color:red">Imp</span>](imp.md) l’attaque → le Soldat meurt, car il n’a plus sa capacité.  
+- L’[<span style="color:red">Imp</span>](imp.md) attaque le Soldat, mais le Soldat est en réalité l’[Ivrogne](ivrogne.md) → il meurt.  
 
 ---
 
