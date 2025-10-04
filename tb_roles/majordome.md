@@ -45,7 +45,7 @@ Le Majordome ne peut voter que si son **Maître** vote.
 ---
 
 ## Exemples
-- Le Majordome choisit **Corentin** comme Maître. Le lendemain, il ne pourra voter que si Filip vote.  
+- Le Majordome choisit **Corentin** comme Maître. Le lendemain, il ne pourra voter que si *Corentin* vote.  
 - Le Maître baisse la main à la dernière seconde → le Majordome doit aussi baisser la main.  
 - Le Majordome mort peut toujours utiliser son jeton de vote librement.  
 
