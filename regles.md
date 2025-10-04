@@ -122,4 +122,4 @@ Le Conteur peut donner de fausses informations !
 
 ---
 
-⬅️ [Retour à l’accueil](README.md)
+🏠 [Retour à l’accueil](README.md)
