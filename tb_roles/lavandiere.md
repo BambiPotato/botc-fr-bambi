@@ -38,7 +38,7 @@ La Lavandière apprend qu’un certain [Villageois](../glossaire.md#villageois) 
 
 ---
 
-## 🛠️ Mode de fonctionnement (Mise en Place)  
+## Comment Conter 
 
 - Lors de la préparation de la première nuit :  
   - Placez le jeton **VILLAGEOIS** de la Lavandière à côté d’un rôle [Villageois](../glossaire.md#villageois) en jeu.  
