@@ -54,8 +54,8 @@ La Lavandière apprend qu’un certain [Villageois](../glossaire.md#villageois) 
 ## 📂 Exemples  
 
 - **Cédric** est [Cuistot](cuistot.md), et **Céline** est [Gardien](gardien.md) → la Lavandière apprend que l’un des deux est le [Cuistot](cuistot.md).  
-- **Julien** est [Imp](imp.md), et **Vanessa** est [Vierge](vierge.md) → la Lavandière apprend que l’un des deux est la [Vierge](vierge.md).  
-- **Tanina** est [Espion](espion.md), et **Leelou** est [Femme Écarlate](femmeecarlate.md) → la Lavandière apprend que l’un des deux est le [Gardien](gardien.md). (Ici, l’[Espion](espion.md) s’enregistre comme [Villageois](../glossaire.md#villageois).)  
+- **Julien** est [<span style="color:red">Imp</span>](imp.md), et **Vanessa** est [Vierge](vierge.md) → la Lavandière apprend que l’un des deux est la [Vierge](vierge.md).  
+- **Tanina** est [Espion](espion.md), et **Leelou** est [Femme Écarlate](femmeecarlate.md) → la Lavandière apprend que l’un des deux est le [Gardien](gardien.md). (Ici, l’[<span style="color:red">Espion</span>](espion.md) s’enregistre comme [Villageois](../glossaire.md#villageois).)  
 
 ---
 
@@ -68,7 +68,7 @@ La Lavandière apprend qu’un certain [Villageois](../glossaire.md#villageois) 
 - À l’inverse, garder l’info secrète jusqu’à la fin peut réduire les suspects à **1 sur 2** au lieu de 1 sur 3.  
 - Formez une alliance discrète avec le [Villageois](../glossaire.md#villageois) que vous avez identifié. Ensemble, vous pourrez vous défendre si l’un de vous est accusé.  
 - Vous pouvez aussi mentir au groupe sur le rôle exact pour protéger le vrai [Villageois](../glossaire.md#villageois) (ex. cacher une [Voyante](voyante.md) ou un [Empathique](empathique.md)).  
-- Attention à l’[Espion](espion.md) : il peut apparaître comme [Villageois](../glossaire.md#villageois) auprès de vous.  
+- Attention à l’[<span style="color:red">Espion</span>](espion.md) : il peut apparaître comme [Villageois](../glossaire.md#villageois) auprès de vous.  
 
 ---
 
@@ -78,7 +78,7 @@ La Lavandière apprend qu’un certain [Villageois](../glossaire.md#villageois) 
 - Vous pouvez désigner un joueur malin (par ex. un [Sbire](../glossaire.md#sbire)) et dire qu’il est un [Villageois](../glossaire.md#villageois) vu.  
 - Si un joueur bon affirme être ce rôle, vous pouvez « confirmer » son identité et ainsi le tromper.  
 - Vous pouvez aussi annoncer un rôle inexistant et, si c’est faux, dire que vous êtes [Ivrogne](ivrogne.md) ou empoisonné·e.  
-- En tant qu’[Espion](espion.md) (ou allié d’un [Espion](espion.md)), vous avez un gros avantage : vous savez quels rôles sont vraiment en jeu.  
+- En tant qu’[<span style="color:red">Espion</span>](espion.md) (ou allié d’un [[<span style="color:red">Espion</span>](espion.md)), vous avez un gros avantage : vous savez quels rôles sont vraiment en jeu.  
 - C’est un bluff risqué, car si le rôle que vous citez n’est pas en jeu, votre couverture tombe vite.  
 
 ---
