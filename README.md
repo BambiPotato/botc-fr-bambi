@@ -42,6 +42,8 @@ Vous débutez sur *Blood 🩸 on the Clocktower* ?
 
 - 📘 [Glossaire des termes](glossaire.md)
 
+---
+
 ##  🎭Catégories 
 
 <p align="center">
@@ -54,9 +56,11 @@ Vous débutez sur *Blood 🩸 on the Clocktower* ?
 - [<span style="color:blue">**Étrangers**</span>](etrangers.md) 
 - [<span style="color:red">**Sbires**</span>](sbires.md) 
 - [<span style="color:red">**Démons**</span>](demons.md) 
+- [Voyageurs] (voyageurs.md)
 
 ---
 ## 👺Rôles par Édition
+
 <p align="center">
   <a href="https://bambipotato.github.io/botc-fr-bambi/">
     <img src="images/logo.png" alt="Logo BotC FR" width="300">
