@@ -65,9 +65,10 @@ Lorsque le Mercenaire déclare vouloir utiliser son pouvoir, accordez au groupe 
 
 ---
 ## Exemples
-- Le Mercenaire choisit l’[Imp](imp.md). → L’Imp meurt, et l’équipe des Bons gagne immédiatement !  
-- Le Mercenaire choisit le [Reclus](reclus.md). Le Conteur décide qu’il apparaît comme Démon. → Le Reclus meurt, mais la partie continue.  
-- Un Démon bluffe Mercenaire et déclare tirer sur la [Femme Écarlate](femmeecarlate.md). → Rien ne se passe.  
+- Le Mercenaire choisit l’[<span style="color:red">Imp</span>](imp.md)  . → L’[<span style="color:red">Imp</span>](imp.md)   meurt, et l’équipe des Bons gagne immédiatement !  
+- Le Mercenaire choisit le [Reclus](reclus.md). Le Conteur décide qu’il apparaît comme un [<span style="color:red">Imp</span>](imp.md).
+Le Reclus meurt, mais la partie continue.  
+- L'[<span style="color:red">Imp</span>](imp.md) bluffe Mercenaire et déclare tirer sur la [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md). → Rien ne se passe.  
 
 ---
 
