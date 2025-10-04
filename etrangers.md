@@ -16,9 +16,9 @@ Ils sèment le doute mais restent du côté des bons.
 
 ## 📌 Exemples dans *Trouble Brewing*  
 - [Majordome](./tb_roles/majordome.md) : Ne peut voter que si son Maître vote.  
-- [Ivrogne](./trouble_brewing/ivrogne.md) : Croit être un Villageois mais sa capacité ne fonctionne pas.  
-- [Reclus](./trouble_brewing/reclus.md) : Peut apparaître comme un Sbire ou un Démon.  
-- [Saint](./trouble_brewing/saint.md) : Fait perdre le Village s’il est exécuté.  
+- [Ivrogne](./tb_roles/ivrogne.md) : Croit être un Villageois mais sa capacité ne fonctionne pas.  
+- [Reclus](./tb_roles/reclus.md) : Peut apparaître comme un Sbire ou un Démon.  
+- [Saint](./tb_roles/saint.md) : Fait perdre le Village s’il est exécuté.  
 
 ---
 
