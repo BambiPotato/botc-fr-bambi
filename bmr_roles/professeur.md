@@ -51,7 +51,7 @@ Le Professeur peut ressusciter un joueur.
 
 ## 🧾 Exemples  
 
-- Le Professeur choisit un joueur mort prétendant être la [Dame de Thé](damedethe.md). En réalité, c’était le [<span style="color:red">Lunatique</span>](lunatique.md). → Personne n’est ressuscité.  
+- Le Professeur choisit un joueur mort prétendant être la [Dame de Thé](damedethe.md). En réalité, c’était le [Lunatique](lunatique.md). → Personne n’est ressuscité.  
 
 - Le Professeur ressuscite la [Grand-Mère](grandmere.md), qui apprend à nouveau l’identité de son petit-enfant.  
 
@@ -61,7 +61,7 @@ Le Professeur peut ressusciter un joueur.
 
 ## 💡 Astuces & Conseils  
 
-- Utilisez votre pouvoir **tôt** : les joueurs du Mal tenteront sûrement de vous tuer rapidement.  
+- Utilisez votre pouvoir **tôt** : les joueurs <span style="color:red">Maléfiques</span> tenteront sûrement de vous tuer rapidement.  
 - Utilisez-le **tard** : ressusciter un joueur confirmé en fin de partie peut totalement renverser la situation.  
 - Si votre pouvoir échoue, le joueur ciblé était soit [<span style="color:blue">Étranger</span>](../etrangers.md), soit [<span style="color:red">Maléfique</span>](../demons.md).  
 - Ressuscitez de préférence des morts de nuit : il est plus probable qu’ils aient été victimes du [<span style="color:red">Démon</span>](../demons.md).  
