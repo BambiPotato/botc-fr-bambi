@@ -20,12 +20,15 @@
 > Si tu ne manques pas de me dire que tu m’aimes...  
 > Je dormirai simplement en paix jusqu’à ton retour."*
 
-**Apparaît dans :**  
-🩸 *Bad Moon Rising*
+## 🎭 Apparaît dans  
+
+[<img src="../images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="400">](../bmr.md) [**Bad Moon Rising**](../bmr.md)  
+
+*Cult of the Clocktower* – épisode par Andrew Nathenson  
 
 ---
 
-## **Résumé**
+## 📖 Résumé  
 
 > **« Lorsqu’un Sbire meurt par exécution, tous les autres joueurs (sauf les Voyageurs) deviennent ivres jusqu’au crépuscule du lendemain. »**
 
@@ -40,14 +43,14 @@ Le **Ménestrel** rend tout le monde ivre lorsqu’un **Sbire** meurt **par exé
 
 ---
 
-## **Mise en œuvre (Conteur)**
+## **Comment Conter**
 
 Pendant la journée, si un **Sbire meurt par exécution** :
 
 ➡️ Tous les autres joueurs sauf les Voyageurs deviennent **ivres**.  
-Placez le rappel **EVERYONE IS DRUNK** (« TOUT LE MONDE EST IVRE ») au centre du côté gauche du **Grimoire**.
+Placez le jeton de rappel **(« TOUT LE MONDE EST IVRE »)** au centre du côté gauche du **Grimoire**.
 
-Au **crépuscule du lendemain**, tous les joueurs affectés par le Ménestrel redeviennent **sobres** — retirez le rappel **EVERYONE IS DRUNK**.
+Au **crépuscule du lendemain**, tous les joueurs affectés par le Ménestrel redeviennent **sobres** — retirez le jeton de rappel **(« TOUT LE MONDE EST IVRE »)**.
 
 ---
 
