@@ -22,7 +22,7 @@ Les Sbires ne peuvent pas gagner sans leur Démon, mais leurs capacités perturb
 ---
 
 🔗 Autres catégories :  
-- [Villageois](/botc-fr-bambi/villageois.md)  
+- [Villageois](villageois.md)  
 - [Étrangers](/botc-fr-bambi/etrangers.md)  
 - [Démons](/botc-fr-bambi/demons.md)  
 
