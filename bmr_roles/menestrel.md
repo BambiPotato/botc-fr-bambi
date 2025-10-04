@@ -1,3 +1,10 @@
+<p align="left">
+  <a href="/botc-fr-bambi/">
+    <img src="../images/logo.png" alt="Accueil BotC FR" width="150">
+  </a>
+</p>
+
+
 # **Ménestrel**
 ![Icône Ménestrel](Icon_minstrel.png)
 
@@ -6,7 +13,7 @@
 ### **Informations**
 
 **Type :** Villageois  
-**Illustrateur :** John Grist  
+**Artiste :** John Grist  
 
 > *"Et j’entendrai, même si tu marches doucement au-dessus de moi...  
 > Et tous mes rêves seront plus doux et plus chauds...  
