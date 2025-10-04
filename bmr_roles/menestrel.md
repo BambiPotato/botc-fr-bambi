@@ -106,7 +106,7 @@ Si les forces du Mal comprennent votre importance, gardez votre identité **secr
 
 ---
 
-## **Bluffer en Ménestrel**
+## **Bluffer le Ménestrel**
 
 Le **Ménestrel** est un **excellent bluff passif**, facile à maintenir.  
 Vous pouvez le jouer en toute discrétion, ou pour masquer un rôle actif.
@@ -127,6 +127,8 @@ Vous pouvez le jouer en toute discrétion, ou pour masquer un rôle actif.
 
 ---
 
-## **Catégories :**
-- *Bad Moon Rising*  
-- *Villageois*
+## 📂 Navigation  
+
+- 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
+- 🌙 [Retour à Bad Moon Rising](../bmr.md)  
+- 📂 **Catégories :** [Bad Moon Rising](../bmr.md) · [<span style="color:blue">Villageois</span>](../villageois.md)
