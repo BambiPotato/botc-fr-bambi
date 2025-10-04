@@ -38,8 +38,8 @@
 
 ## Exemples
 - **Exécution directe :** 7 joueurs vivants. Le Saint obtient 4 votes et est « sur le bûcher ». Plus tard, le **[<span style="color:red">Baron</span>](baron.md)** est nommé mais n’obtient que 3 voix. Aucune autre nomination : le Saint est exécuté → **fin de partie, le Mal gagne**.  
-- **Mort de jour, non-exécution :** L’**[<span style="color:red">Imp</span>](imp.md)  ** est nommé et on vote. Le **[Flingeur](../voyageurs/flingeur.md) ** abat le Saint pendant la journée ; le Saint **meurt**, **mais la partie continue** (ce n’est pas une exécution).  
-- **Redirection par un Voyageur :** Le Saint est « exécuté », mais l’effet du **Bouc Émissaire** se déclenche : c’est le Bouc Émissaire qui meurt **à la place**. **Le Saint n’est pas mort**, donc **la partie continue**.
+- **Mort de jour, non-exécution :** L’**[<span style="color:red">Imp</span>](imp.md)** est nommé et on vote. Le **[Flingeur](../voyageurs/flingeur.md)** abat le Saint pendant la journée ; le Saint **meurt**, **mais la partie continue** (ce n’est pas une exécution).  
+- **Redirection par un Voyageur :** Le Saint est « exécuté », mais l’effet du **[Bouc Émissaire](../voyageurs/boucemissaire.md)** se déclenche : c’est [Bouc Émissaire](../voyageurs/boucemissaire.md) qui meurt **à la place**. **Le Saint n’est pas mort**, donc **la partie continue**.
 
 ---
 
@@ -51,7 +51,7 @@
   - Si vous mourez **la nuit**, un **[Gardien](gardien.md)** peut révéler votre véritable rôle.  
   - Un **[Mercenaire](mercenaire.md)** peut tenter son tir sur vous : si **rien ne se passe**, votre claim reste crédible (et vous n’êtes pas exécuté).  
 - **Profil bas efficace :** bluffer un rôle qui attire les attaques nocturnes (**[Moine](moine.md)**, **[Voyante](voyante.md)**, **[Mercenaire](mercenaire.md)**) peut pousser le Démon à **vous tuer la nuit** plutôt que de risquer une exécution accidentelle.  
-- **Comptez les Étrangers :** si les déclarations d’**Étrangers** correspondent à la configuration (ou s’il y a un **[Baron](baron.md)**), votre présence devient plus crédible.  
+- **Comptez les Étrangers :** si les déclarations d’**Étrangers** correspondent à la configuration (ou s’il y a un **[<span style="color:red">Baron</span>](baron.md)**), votre présence devient plus crédible.  
 - **Dernier jour :** Votre capacité n’empêche pas qu’on vous exécute si on pense que **vous êtes le Démon** — restez pertinent, clair et utile dans vos déductions.
 
 ---
@@ -59,13 +59,13 @@
 ## Combattre un faux « Saint » (pour le Bien)
 - Un « Saint » qui **refuse tout test** et pousse à exécuter partout (sauf lui) est **suspect** (Sbire ou **[Imp](imp.md)**).  
 - Croisez les infos : **[Empathique](empathique.md)**, **[Voyante](voyante.md)**, vérifs indirectes via **[Croque-Mort](croquemort.md)** si la mort n’est pas une exécution, etc.  
-- **[Empoisonneur](empoisonneur.md)** : gardez à l’esprit que des infos « blanchissantes » peuvent être faussées.
+- **[<span style="color:red">Empoisonneur</span>](empoisonneur.md)** : gardez à l’esprit que des infos « blanchissantes » peuvent être faussées.
 
 ---
 
 ## Bluff (pour le Mal… et parfois pour le Bien)
 **Pourquoi c’est un bluff maléfique puissant :**  
-- Le risque de **défaite immédiate du Bien** à l’exécution **dissuade** souvent le groupe de vous tuer. Vous gagnez du temps (poison, manipulations, passage d’Imp à **[Femme Écarlate](femmeecarlate.md)**, etc.).
+- Le risque de **défaite immédiate du Bien** à l’exécution **dissuade** souvent le groupe de vous tuer. Vous gagnez du temps (poison, manipulations, passage d’[<span style="color:red">Imp</span>](imp.md) à **[<span style="color:red">Femme Écarlate</span>](femmeecarlate.md)**, etc.).
 
 **Techniques :**  
 - **Empoisonneur + faux Saint :** même si on vous suspecte, on hésite à vous exécuter avant la fin — vous avez le temps d’agir.  
@@ -85,7 +85,7 @@
 ## Notes de règles & interactions
 - Seule la **mort par exécution** déclenche la capacité du Saint.  
 - **Exils** (Voyageurs) ≠ exécutions.  
-- Effets de redirection (**Bouc Émissaire**) : si **quelqu’un d’autre** meurt **à la place** du Saint, **la partie continue**.
+- Effets de redirection (**[Bouc Émissaire](../voyageurs/boucemissaire.md)**) : si **quelqu’un d’autre** meurt **à la place** du Saint, **la partie continue**.
 
 ---
 
