@@ -52,7 +52,7 @@ S’il est attaqué par le Démon, le Conteur peut choisir qu’un autre joueur 
 ---
 
 ## Exemples
-- L' [Imp](imp.md) attaque le Maire → le Conteur choisit de tuer le [Gardien](gardien.md) à la place.  
+- L'  [<span style="color:red">Imp</span>](imp.md) attaque le Maire → le Conteur choisit de tuer le [Gardien](gardien.md) à la place.  
 - Il reste 3 joueurs en vie. Personne n’est nominé → les Bons gagnent.  
 - Il reste 5 joueurs dont 2 Voyageurs. Les Voyageurs sont exilés. Le vote est à égalité → aucune exécution → les Bons gagnent.  
 
@@ -64,7 +64,7 @@ S’il est attaqué par le Démon, le Conteur peut choisir qu’un autre joueur 
 - À l’inverse, parfois annoncer votre rôle permet de créer un consensus autour de vous.  
 - Si un joueur improbable (ex : [Majordome](majordome.md)) meurt la nuit, cela peut être la preuve que vous avez été attaqué.  
 - Si le Démon vous attaque et qu’un autre joueur meurt, il saura qui vous êtes. Faites attention aux regards surpris au lever du jour !  
-- Assurez-vous de ne pas être l' [Ivrogne](ivrogne.md) ou empoisonné par l’[Empoisonneur](empoisonneur.md), sinon votre capacité échouera et le Mal gagnera.  
+- Assurez-vous de ne pas être l' [Ivrogne](ivrogne.md) ou empoisonné par l’[<span style="color:red">Empoisonneur</span>](empoisonneur.md)  , sinon votre capacité échouera et le Mal gagnera.  
 - Évitez de garder vivants uniquement un Démon et un Sbire avec vous dans le final à 3 joueurs : vous serez certainement empoisonné.  
 
 ---
