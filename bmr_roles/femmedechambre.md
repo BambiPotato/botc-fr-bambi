@@ -68,7 +68,7 @@ La **Femme de Chambre** permet de savoir qui s’est réveillé la nuit.
   → Seule la Brute se réveille, mais elle est ivre. Elle compte quand même.  
   → Elle apprend « 2 » (car elle est elle-même ivre et l’info est fausse).  
 
-- La première nuit, elle choisit l’[<span style="color:red">Assassin</span>](assassin.md) et l’[Enfant de la Lune](enfantdelalune.md).  
+- La première nuit, elle choisit l’[<span style="color:red">Assassin</span>](assassin.md) et l’[<span style="color:red">Enfant de la Lune</span>](enfantdelalune.md).  
   → Elle apprend « 0 », car aucun ne se réveille encore.  
 
 ---
@@ -107,4 +107,3 @@ La **Femme de Chambre** permet de savoir qui s’est réveillé la nuit.
 - 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
 - 🌙 [Retour à Bad Moon Rising](../bmr.md)  
 - 📂 **Catégories :** [Bad Moon Rising](../bmr.md) · [<span style="color:blue">Villageois</span>](../villageois.md)  
-
