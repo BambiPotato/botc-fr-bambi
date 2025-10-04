@@ -12,6 +12,7 @@
 **But :** Trouver et exécuter le Démon.  
 
 Les Villageois possèdent des capacités puissantes et fiables.
+
 Leur rôle est de collecter des informations, de protéger leurs alliés et de mener le Village à la victoire.
 
 ## 📌 Exemples dans *Trouble Brewing*  
