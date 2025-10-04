@@ -52,7 +52,7 @@ La **Femme de Chambre** permet de savoir qui s’est réveillé la nuit.
   - **2** → les deux se sont réveillés.  
 - Endormez la Femme de Chambre.  
 
-⚠️ Si moins de deux joueurs vivants peuvent être choisis (ex. fin de partie avec [Cerveau](cerveau.md), [Zombuul](zombuul.md), etc.), **ne réveillez pas** la Femme de Chambre.  
+⚠️ Si moins de deux joueurs vivants peuvent être choisis (ex. fin de partie avec [<span style="color:red">Cerveau</span>](cerveau.md), [<span style="color:red">Zombuul</span>](zombuul.md), etc.), **ne réveillez pas** la Femme de Chambre.  
 
 ---
 
@@ -61,14 +61,14 @@ La **Femme de Chambre** permet de savoir qui s’est réveillé la nuit.
 - La Femme de Chambre choisit l’[Exorciste](exorciste.md) et l’[Aubergiste](aubergiste.md).  
   → Elle apprend « 2 ».  
 
-- La nuit suivante, elle choisit le [Shabaloth](shabaloth.md) et le [Fou](fou.md).  
-  → Le Shabaloth ne se réveille que grâce à l’Exorciste, pas cette nuit-là → elle apprend « 0 ».  
+- La nuit suivante, elle choisit le [<span style="color:red">Shabaloth</span>](shabaloth.md) et le [Fou](fou.md).  
+  → Le <span style="color:red">Shabaloth</span> ne se réveille que grâce à l’Exorciste, pas cette nuit-là → elle apprend « 0 ».  
 
 - La deuxième nuit, elle choisit la [Grand-Mère](grandmere.md) et la [Brute](brute.md).  
   → Seule la Brute se réveille, mais elle est ivre. Elle compte quand même.  
   → Elle apprend « 2 » (car elle est elle-même ivre et l’info est fausse).  
 
-- La première nuit, elle choisit l’[Assassin](assassin.md) et l’[Enfant de la Lune](enfantdelalune.md).  
+- La première nuit, elle choisit l’[<span style="color:red">Assassin</span>](assassin.md) et l’[Enfant de la Lune](enfantdelalune.md).  
   → Elle apprend « 0 », car aucun ne se réveille encore.  
 
 ---
@@ -80,7 +80,7 @@ La **Femme de Chambre** permet de savoir qui s’est réveillé la nuit.
   - Un [Courtisan](courtisan.md) dit avoir utilisé sa capacité ? Vérifiez-le la nuit suivante.  
 
 - Vérifiez des joueurs plusieurs nuits de suite.  
-  → Exemple : un [Assassin](assassin.md) bluffant [Aubergiste](aubergiste.md) se réveille une fois, mais plus après.  
+  → Exemple : un [<span style="color:red">Assassin</span>](assassin.md) bluffant [Aubergiste](aubergiste.md) se réveille une fois, mais plus après.  
 
 - Associez vos tests à un joueur qui ne se réveille jamais (ex. [Ménestrel](menestrel.md) ou [Fou](fou.md)).  
   → Si vous testez toujours ce joueur + un autre, vous pouvez isoler les résultats sur une seule personne.  
@@ -107,3 +107,4 @@ La **Femme de Chambre** permet de savoir qui s’est réveillé la nuit.
 - 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
 - 🌙 [Retour à Bad Moon Rising](../bmr.md)  
 - 📂 **Catégories :** [Bad Moon Rising](../bmr.md) · [<span style="color:blue">Villageois</span>](../villageois.md)  
+
