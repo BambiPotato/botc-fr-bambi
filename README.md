@@ -1,6 +1,6 @@
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="images/logo.png" alt="Accueil BotC FR" width="200">
+    <img src="images/logo.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://bambipotato.github.io/botc-fr-bambi/">
-    <img src="images/logo.png" alt="Logo BotC FR" width="200">
+    <img src="images/logo.png" alt="Logo BotC FR" width="300">
   </a>
 </p>
 
@@ -45,6 +45,11 @@ Vous débutez sur *Blood 🩸 on the Clocktower* ?
 - 📘 [Glossaire des termes](glossaire.md)
 
 ##  🎭Catégories 
+<p align="left">
+  <a href="/botc-fr-bambi/">
+    <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
+  </a>
+</p>
 
 - [<span style="color:blue">**Villageois**</span>](villageois.md) 
 - [<span style="color:blue">**Étrangers**</span>](etrangers.md) 
@@ -53,6 +58,12 @@ Vous débutez sur *Blood 🩸 on the Clocktower* ?
 
 ---
 ## 👺Rôles par Édition
+
+<p align="left">
+  <a href="/botc-fr-bambi/">
+    <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
+  </a>
+</p>
 
 [<img src="images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="300">](trouble_brewing.md) [**Trouble Brewing**](trouble_brewing.md) 
 
