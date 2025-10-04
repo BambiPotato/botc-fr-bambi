@@ -11,7 +11,7 @@
 **Alignement :** 🔴 <span style="color:red">Maléfique<span   
 **But :** Faire disparaître assez de joueurs pour que le Village ne puisse plus gagner.  
 
-Le <span style="color:red">Démon<span est le chef de l’équipe <span style="color:red">maléfique<span.  
+Le <span style="color:red">Démon est le chef de l’équipe <span style="color:red">maléfique<span.  
 S’il est exécuté, les bons remportent la partie (sauf cas particuliers comme la <span style="color:red">Femme Écarlate<span.  
 
 ## 📌 Exemple dans *Trouble Brewing*  
