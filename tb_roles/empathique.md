@@ -49,8 +49,8 @@ L’**Empathique** apprend chaque nuit combien de ses voisins encore vivants son
 ## 🧩 Exemples  
 
 - L’Empathique a deux voisins bons : un [Soldat](soldat.md) et un [Moine](moine.md). → il apprend **0**.  
-- Le lendemain, le Soldat est exécuté, puis la nuit suivante le Moine est tué par l’[Imp](imp.md). L’Empathique détecte désormais les voisins du Soldat et du Moine : un [Bibliothécaire](bibliothecaire.md) (bon) et un Voyageur maléfique. → il apprend **1**.  
-- Il ne reste plus que trois joueurs vivants : l’Empathique, l’Imp et le [Baron](baron.md). → l’Empathique apprend **2**, quelle que soit la disposition.  
+- Le lendemain, le Soldat est exécuté, puis la nuit suivante le Moine est tué par l’[ <span style="color:red">Imp</span>](imp.md). L’Empathique détecte désormais les voisins du Soldat et du Moine : un [Bibliothécaire](bibliothecaire.md) (bon) et un Voyageur maléfique. → il apprend **1**.  
+- Il ne reste plus que trois joueurs vivants : l’Empathique, l’Imp et le [<span style="color:red">Baron</span>](baron.md). → l’Empathique apprend **2**, quelle que soit la disposition.  
 
 ---
 
@@ -63,7 +63,7 @@ L’**Empathique** apprend chaque nuit combien de ses voisins encore vivants son
 - Si vos voisins meurent, vous obtenez de **nouvelles infos** sur les suivants. Collaborez avec un·e [Croque-Mort](croquemort.md) pour vérifier qui ils étaient.  
 - Révéler vos infos tôt aide à orienter les exécutions. Attendre peut protéger vos voisins bons ou vous donner plus de contexte.  
 - Mentir sur votre chiffre (par ex. annoncer "0" au lieu de "1") peut convaincre le Mal de vous garder en vie, pensant que vous êtes inutile.  
-- Attention au [Reclus](reclus.md), qui peut s’enregistrer comme maléfique à tort, et à l’[Espion](espion.md), qui peut apparaître comme bon.  
+- Attention au [Reclus](reclus.md), qui peut s’enregistrer comme maléfique à tort, et à l’[<span style="color:red">Espion</span>](espion.md), qui peut apparaître comme bon.  
 
 ---
 
