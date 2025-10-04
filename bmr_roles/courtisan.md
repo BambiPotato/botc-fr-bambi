@@ -67,10 +67,10 @@ Le **Courtisan** choisit un **rôle** (et non un joueur) qui devient ivre pendan
 
 - ⚔️ **<span style="color:red">Démon</span>** : c’est la cible la plus puissante. Si vous réussissez, vous donnez 3 nuits de répit au Bien. Observez le rythme des morts nocturnes pour identifier si vous faites face à un <span style="color:red">[Shabaloth](shabaloth.md)</span>  , <span style="color:red">[Po](po.md)</span>, <span style="color:red">[Pukka](pukka.md)</span> ou <span style="color:red">[Zombuul](zombuul.md)</span>.  
 
-- 🩸 **[<span style="color:red">**Sbires**</span>](sbires.md)** :  
-  - <span style="color:red">[Assassin](assassin.md)</span> ou [Parrain](parrain.md) ivres → plus de morts surprises.  
-  - [Avocat du Diable](avocatdudiable.md) ivre → ne sauve personne.  
-  - [Cerveau](cerveau.md) ivre → prive le Mal d’une victoire inattendue.  
+- 🩸[<span style="color:red">Sbires</span>](sbires.md) :  
+  - <span style="color:red">[Assassin](assassin.md)</span> ou <span style="color:red">[Parrain](parrain.md)</span> ivres → plus de morts surprises. 
+  - <span style="color:red">[Avocat du Diable](avocatdudiable.md)</span> ivre → ne sauve personne.  
+  - <span style="color:red">[Cerveau](cerveau.md)</span> ivre → prive les Maléfiques d’une victoire inattendue.  
 
 - 🛡️ **Villageois** : ce n’est pas optimal, mais peut être utile :  
   - [Bricoleur](bricoleur.md) ivre → ne meurt plus au hasard.  
@@ -95,11 +95,11 @@ Le **Courtisan** choisit un **rôle** (et non un joueur) qui devient ivre pendan
 
 -  Version risquée : affirmez avoir rendu ivre un rôle actif. Par exemple : « J’ai ciblé l’Exorciste, il est ivre, ses infos ne valent rien. » → cela sème le chaos.  
 
-- Si vous êtes le [Cerveau](cerveau.md), prétendez avoir ciblé « le Cerveau ». → le Bien croira qu’il est neutralisé, et sera pris au piège.  
+- Si vous êtes le <span style="color:red">[Cerveau](cerveau.md)</span>, prétendez avoir ciblé « le Cerveau ». → le Bien croira qu’il est neutralisé, et sera pris au piège.  
 
-- Si vous êtes le [Pukka](pukka.md), prétendez avoir ciblé le Pukka. Quand les morts continuent malgré tout, tout le monde pensera qu’un autre Démon est en jeu.  
+- Si vous êtes le <span style="color:red">[Pukka](pukka.md)</span>, prétendez avoir ciblé le Pukka. Quand les morts continuent malgré tout, tout le monde pensera qu’un autre Démon est en jeu.  
 
-- 🎭 Feignez d’avoir neutralisé un rôle clé (ex. [Avocat du Diable](avocatdudiable.md)). Le Bien cessera d’y penser, et vous pourrez surprendre.  
+- 🎭 Feignez d’avoir neutralisé un rôle clé (ex. <span style="color:red">[Avocat du Diable](avocatdudiable.md)</span>). Le Bien cessera d’y penser, et vous pourrez surprendre.  
 
 ---
 
