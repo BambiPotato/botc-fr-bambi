@@ -74,13 +74,13 @@ Trois nuits plus tard, Corentin est tué par le <span style="color:red">Démon</
 
 ## 🎭 Bluff en tant que Grand-Mère  
 
-Le moyen le plus simple de bluffer en tant que grand‑mère est de prétendre l'être et d'affirmer qu'un joueur <span style="color:red">maléfique</span> est votre *petit‑enfant*. Il est toutefois préférable d'éviter cette pratique dès le premier jour, car la plupart des grand‑mères attendent un ou deux jours avant de révéler leurs informations. Attendre permet aussi à votre faux petit‑enfant de se présenter au groupe et de s’y fondre. Vous pouvez aussi simplement prétendre être la grand‑mère et déclarer qu’un joueur <span style="color:red">maléfique</span> est en réalité un rôle particulièrement bon, en espérant qu’il comprenne la ruse et se fasse passer pour ce rôle.
+- Le moyen le plus simple de bluffer en tant que grand‑mère est de prétendre l'être et d'affirmer qu'un joueur <span style="color:red">maléfique</span> est votre *petit‑enfant*. Il est toutefois préférable d'éviter cette pratique dès le premier jour, car la plupart des grand‑mères attendent un ou deux jours avant de révéler leurs informations. Attendre permet aussi à votre faux petit‑enfant de se présenter au groupe et de s’y fondre. Vous pouvez aussi simplement prétendre être la grand‑mère et déclarer qu’un joueur <span style="color:red">maléfique</span> est en réalité un rôle particulièrement bon, en espérant qu’il comprenne la ruse et se fasse passer pour ce rôle.
 
-Convainquez un joueur bon que vous êtes sa grand‑mère. C’est plus facile si ce joueur vous a déjà révélé son rôle, ou l’a fait publiquement. Si vous connaissez son rôle, dites‑le au groupe ; si vous ne le connaissez pas, vous pouvez deviner… ou refuser de répondre.
+- Convainquez un joueur bon que vous êtes sa grand‑mère. C’est plus facile si ce joueur vous a déjà révélé son rôle, ou l’a fait publiquement. Si vous connaissez son rôle, dites‑le au groupe ; si vous ne le connaissez pas, vous pouvez deviner… ou refuser de répondre.
 
-Demandez à vos complices <span style="color:red">maléfiques</span> d’identifier secrètement les bons joueurs et de vous communiquer ces informations. Une fois que vous connaissez l’identité d’un bon joueur à son insu, il est beaucoup plus aisé de le convaincre que vous êtes sa grand‑mère.
+- Demandez à vos complices <span style="color:red">maléfiques</span> d’identifier secrètement les bons joueurs et de vous communiquer ces informations. Une fois que vous connaissez l’identité d’un bon joueur à son insu, il est beaucoup plus aisé de le convaincre que vous êtes sa grand‑mère.
 
-Bluffez en vous faisant passer pour le petit‑enfant ! Vous pouvez prétendre être un rôle bon tout en affirmant être le petit‑enfant. Dites au groupe que la grand‑mère vous a parlé en privé et que vous lui faites entièrement confiance. Avec un peu de chance, un joueur <span style="color:red">maléfique</span> se fera plus tard passer pour la grand‑mère et corroborera votre histoire.
+- Bluffez en vous faisant passer pour le petit‑enfant ! Vous pouvez prétendre être un rôle bon tout en affirmant être le petit‑enfant. Dites au groupe que la grand‑mère vous a parlé en privé et que vous lui faites entièrement confiance. Avec un peu de chance, un joueur <span style="color:red">maléfique</span> se fera plus tard passer pour la grand‑mère et corroborera votre histoire.
 
 ---
 
