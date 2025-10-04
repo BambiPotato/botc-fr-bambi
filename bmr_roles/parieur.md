@@ -33,13 +33,13 @@
 « Chaque nuit* (sauf la première), choisissez un joueur et devinez son rôle.  
 → Si vous vous trompez, vous mourrez. »  
 
-Le **Parieur** mise sa vie sur sa lecture des autres joueurs.  
-Bonne intuition = survie. Mauvaise intuition = mort.  
-Le joueur peut tenter de deviner qui possède quel rôle… mais il en paie le prix fort en cas d’erreur.
+*Le **Parieur** mise sa vie sur sa lecture des autres joueurs.*  
+*Bonne intuition = survie. Mauvaise intuition = mort.* 
+*Le joueur peut tenter de deviner qui possède quel rôle… mais il en paie le prix fort en cas d’erreur.*
 
-Chaque nuit (sauf la première), le joueur choisit un autre joueur — vivant ou mort, voire lui-même — et tente de deviner son rôle en désignant son icône sur la feuille des rôles.
-Si la réponse est correcte, rien ne se passe. Si elle est incorrecte, le joueur meurt.
-Le conteur ne révèle pas si la supposition était juste ou non.
+- Chaque nuit (sauf la première), le joueur choisit un autre joueur — vivant ou mort, voire lui-même — et tente de deviner son rôle en désignant son icône sur la feuille des rôles.
+- Si la réponse est correcte, rien ne se passe. Si elle est incorrecte, le joueur meurt.
+- Le conteur ne révèle pas si la supposition était juste ou non.
 
 ---
 
