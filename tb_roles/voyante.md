@@ -31,7 +31,7 @@
 *"Chaque nuit, choisissez 2 joueurs : vous apprenez si l’un d’eux est le Démon.  
 Un joueur bon apparaît comme un Démon pour vous."*  
 
-La **Voyante** détecte si un joueur est le Démon… mais peut confondre un joueur bon avec un Démon.  
+La **Voyante** détecte si un joueur est le [<span style="color:red">Démon</span>](../demons.md) … mais peut confondre un joueur bon avec un Démon.  
 
 - Chaque nuit, la Voyante choisit **deux joueurs**.  
 - Elle apprend si **au moins l’un d’eux est le Démon**. (Elle ne sait pas lequel.)  
@@ -58,8 +58,8 @@ La **Voyante** détecte si un joueur est le Démon… mais peut confondre un jou
 
 - La Voyante choisit le [Moine](moine.md) et le [Croque-Mort](croquemort.md). → Réponse : **non**.  
 - Elle choisit l’[Imp](imp.md) et l’[Empathique](empathique.md). → Réponse : **oui**.  
-- Elle choisit un [Majordome](majordome.md) vivant et un [Imp](imp.md) mort. → Réponse : **oui**.  
-- Elle choisit elle-même et le [Saint](saint.md). Le Saint est le Leurre. → Réponse : **oui**.  
+- Elle choisit un [Majordome](majordome.md) vivant et un [ <span style="color:red">Imp</span>](imp.md) mort. → Réponse : **oui**.  
+- Elle se choisit elle-même et le [Saint](saint.md). Le Saint est le Leurre. → Réponse : **oui**.  
 
 ---
 
@@ -70,7 +70,7 @@ La **Voyante** détecte si un joueur est le Démon… mais peut confondre un jou
 - Pour réduire les incertitudes : croisez vos infos.  
   - Par ex. si vous obtenez "oui" avec A+B et aussi "oui" avec A+C → alors A est sûrement celui qui déclenche le "oui".  
 - Concentrez-vous tôt sur beaucoup de joueurs pour avoir un large panorama. Réduisez ensuite sur vos principaux suspects.  
-- Gardez en tête que le rôle de Démon peut changer (exécution d’un Démon → [Femme Écarlate](femmeecarlate.md) ou Sbire devient Démon).  
+- Gardez en tête que le rôle de Démon peut changer (exécution d’un Démon → [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md) ou Sbire devient Démon).  
 - Votre **Leurre** est constant → une seule fausse alerte possible, mais elle peut vous induire en erreur toute la partie.  
 - Vous pouvez vous cibler vous-même : comme vous savez que vous n’êtes pas Démon, vous testez directement un joueur. Mais attention : vous pourriez être votre propre Leurre !  
 - Attention au [Reclus](reclus.md), qui peut s’enregistrer comme Démon en plus du Leurre.  
@@ -84,9 +84,9 @@ La **Voyante** détecte si un joueur est le Démon… mais peut confondre un jou
 - Préparez des récits cohérents : si vos "oui/non" changent trop brutalement, on ne vous croira pas.  
 - Accuser un bon joueur gênant de "réagir comme un Démon" peut conduire à son exécution. Plus tard, vous pouvez prétendre que c’était votre Leurre.  
 - Dire qu’un joueur mort est Démon peut semer le doute sur toutes ses infos.  
-- En tant qu’[Imp](imp.md), vous pouvez vous révéler Voyante et mourir volontairement pour renforcer la crédibilité de vos fausses infos.  
-- En tant que [Femme Écarlate](femmeecarlate.md), accuser votre Démon peut vous donner l’air héroïque, surtout si un [Croque-Mort](croquemort.md) confirme.  
-- Avec un [Espion](espion.md), vous pouvez parfaitement cibler et accuser pour brouiller les pistes.  
+- En tant qu’[ <span style="color:red">Imp</span>](imp.md), vous pouvez vous révéler Voyante et mourir volontairement pour renforcer la crédibilité de vos fausses infos.  
+- En tant que [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md), accuser votre Démon peut vous donner l’air héroïque, surtout si un [Croque-Mort](croquemort.md) confirme.  
+- Avec un [<span style="color:red">Espion</span>](espion.md), vous pouvez parfaitement cibler et accuser pour brouiller les pistes.  
 
 ---
 
