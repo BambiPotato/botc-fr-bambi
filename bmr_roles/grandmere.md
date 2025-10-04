@@ -42,10 +42,10 @@ La Grand-mère sait qui est son petit-enfant, mais s'il est tué par le Démon, 
 
 ## Comment Conter  
 
-Lors de la préparation de la première nuit, choisissez un **Petit-Enfant** en marquant tout bon rôle avec le jeton de rappel **PETIT-ENFANT**.
-Pendant la première nuit, réveillez la Grand-mère et montrez-lui le jeton de rôle marqué **PETIT-ENFANT** , puis pointez le joueur Petit-enfant, puis endormez la Grand-mère.
+* Lors de la préparation de la première nuit, choisissez un **Petit-Enfant** en marquant tout bon rôle avec le jeton de rappel **PETIT-ENFANT**.
+* Pendant la première nuit, réveillez la Grand-mère et montrez-lui le jeton de rôle marqué **PETIT-ENFANT** , puis pointez le joueur Petit-enfant, puis endormez la Grand-mère.
 
-Si le Démon tue le Petit-Enfant, la Grand-Mère **meurt** - marquez-les avec le jeton de rappel **MORT**.
+* Si le Démon tue le Petit-Enfant, la Grand-Mère **meurt** - marquez-les avec le jeton de rappel **MORT**.
 
 ---
 
