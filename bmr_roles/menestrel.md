@@ -7,8 +7,8 @@
 
 # **Ménestrel**
 
+[<img src="../images/Icon_minstrel.png" alt="Ménestrel" width="400">](grandmere.md) [**Ménestrel**](../bmr_roles/menestrel.md)
 
-Icon_minstrel.png
 
 ---
 
