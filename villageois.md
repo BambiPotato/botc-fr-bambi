@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# [<span style="color:blue">Villageois</span>  
+#  <span style="color:blue">Villageois</span>  
 
 ![Villageois](./images/Generic_townsfolk.png)  
 
