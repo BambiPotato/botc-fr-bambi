@@ -65,7 +65,7 @@
 - Jouez de manière utile et proactive pour gagner la confiance des bons joueurs.  
 - Gardez ce bluff comme **roue de secours** si votre couverture tombe : révéler être Reclus « pour semer la confusion » peut sauver votre crédibilité.  
 - Vous continuez de vous enregistrer maléfique même après votre mort → prolongez le bluff au-delà de la tombe, en laissant croire qu’il reste des Sbires ou Démons vivants.  
-- Prétendre être un Étranger brouille aussi les pistes sur l’éventuel **[Ivrogne](./ivrogne.md)** ou la présence d’un **[Baron](./baron.md)**.  
+- Prétendre être un Étranger brouille aussi les pistes sur l’éventuel **[Ivrogne](./ivrogne.md)** ou la présence d’un **[<span style="color:red">Baron</span>](baron.md)**.  
 
 ---
 
