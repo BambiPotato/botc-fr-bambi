@@ -6,7 +6,7 @@
 
 
 
-![Voyageurs](../images/Generic_traveller.png)
+[<img src="images/Generic_traveller.png" alt="Voyageurs" width="300">](voyageurs/voyageurs.md) [**Voyageurs**](voyageurs/voyageurs.md)  
 
 # Les Voyageurs 🧳
 
