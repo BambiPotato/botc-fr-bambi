@@ -59,7 +59,7 @@ La Vierge peut, malgré elle, provoquer l’exécution de son accusateur, ce qui
 ## 💡 Conseils & Astuces  
 
 - La Vierge est l’un des rares Villageois qui peut être **confirmée comme bonne de façon absolue**.  
-- Les Villageois ayant déjà utilisé leur pouvoir (comme la [Lavandière](lavandiere.md), l’[Enquêteur](enqueteur.md) ou le [Tueur](tueur.md)) sont d’excellents choix pour la nomination, car leur mort valide leur rôle sans grande perte.  
+- Les Villageois ayant déjà utilisé leur pouvoir (comme la [Lavandière](lavandiere.md), l’[Enquêteur](enqueteur.md) ou le [Mercenaire](mercenaire.md)) sont d’excellents choix pour la nomination, car leur mort valide leur rôle sans grande perte.  
 - Une nomination par un Étranger ne déclenche pas votre capacité. Cela inclut l’[Ivrogne](ivrogne.md).  
 - Vous pouvez **vous auto-nominer** pour prouver que vous êtes la Vierge.  
 - Votre capacité met fin à la journée : vous pouvez donc bloquer une exécution en plus de prouver votre rôle.  
@@ -71,7 +71,7 @@ La Vierge peut, malgré elle, provoquer l’exécution de son accusateur, ce qui
   - Le nominateur est un Étranger.  
   - Vous êtes l’[Ivrogne](ivrogne.md) ou empoisonnée.  
 
-⚠️ Attention à l’[Espion](espion.md) : c’est le seul rôle maléfique pouvant activer votre capacité puisqu’il s’enregistre comme Villageois.  
+⚠️ Attention à l’[<span style="color:red">Espion</span>](espion.md)   : c’est le seul rôle maléfique pouvant activer votre capacité puisqu’il s’enregistre comme Villageois.  
 
 ---
 
