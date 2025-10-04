@@ -68,7 +68,7 @@ Il ne l’apprend qu’une seule fois, puis plus rien.
 - **Céline** est le [<span style="color:red">Baron</span>](baron.md), et **Pierre** est le [Maire](maire.md).  
   → L’Enquêteur apprend que soit Céline, soit Pierre est le Baron.  
 
-- **Tyld** est l’[<span style="color:red">Espion</span>n](espion.md), et **Julien** est l’[<span style="color:red">Empoisonneur</span>](empoisonneur.md).  
+- **Tyld** est l’[<span style="color:red">Espion</span>](espion.md), et **Julien** est l’[<span style="color:red">Empoisonneur</span>](empoisonneur.md).  
   → L’Enquêteur apprend que soit Tyld, soit Julien est l’Espion.  
 
 - **Tigeni** est le [Reclus](reclus.md), et **Kyllian** est l’[Imp](imp.md).  
