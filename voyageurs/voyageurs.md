@@ -4,23 +4,21 @@
   </a>
 </p>
 
+# 🧳 Les Voyageurs  
 
-
-[<img src="images/Generic_traveller.png" alt="Voyageurs" width="300">](voyageurs/voyageurs.md) [**Voyageurs**](voyageurs.md)  
-
-# Les Voyageurs 🧳
+[<img src="../images/Generic_traveller.png" alt="Voyageurs" width="300">](voyageurs.md)  
 
 ---
 
 ## 📖 Présentation  
 
-Les **Voyageurs** sont des rôles spéciaux pour les joueuses et joueurs qui arrivent en retard ⏰ ou qui devront partir tôt. 🚪
-Un Voyageur peut rejoindre la partie à tout moment, et la quitter à tout moment.  
+Les **Voyageurs** sont des rôles spéciaux pour les joueuses et joueurs qui arrivent en retard ⏰ ou qui devront partir tôt 🚪.  
+Un Voyageur peut **rejoindre** la partie à tout moment, et **la quitter** à tout moment.  
 
 - Les Voyageurs ont souvent des capacités extrêmement puissantes ⚡, mais obtiennent peu d’informations.  
 - Ils ont **un maximum de pouvoir**… mais **un minimum de responsabilité**.  
-- Si un Voyageur est **Maléfique 😈**, il apprend qui est le Démon.  
-  (Mais il ne connaît pas les Sbires et ne reçoit pas de bluffs.)  
+- Si un Voyageur est **<span style="color:red">Maléfique 😈</span>**, il apprend qui est le [<span style="color:red">Démon</span>](../demons.md).  
+  (Mais il ne connaît pas les [<span style="color:red">Sbires</span>](../sbires.md) et ne reçoit pas de bluffs.)  
 
 ---
 
@@ -35,9 +33,7 @@ Un Voyageur peut rejoindre la partie à tout moment, et la quitter à tout momen
 
 ## 🔵 Trouble Brewing  
 
-
- ![Flingeur](../images/Icon_gunslinger.png)  [Flingeur](flingeur.md)
-  
+[<img src="../images/Icon_gunslinger.png" alt="Flingeur" width="80">](flingeur.md) [**Flingeur**](flingeur.md)  
 
 ---
 
@@ -49,19 +45,17 @@ Un Voyageur peut rejoindre la partie à tout moment, et la quitter à tout momen
 
 ## 🟠 Bad Moon Rising  
 
-
-
 *(à venir)*  
 
 ---
 
 ## ⚫️ Expérimentaux  
 
-
-
 *(à venir)*  
 
 ---
 
 ## 📂 Navigation  
-- 🏠 [Retour à la page d’accueil](../README.md)  
+
+- 🏠 [Retour à l’accueil](../README.md)  
+- 📁 [Retour au sommaire principal](../blood_on_the_clocktower.md)
