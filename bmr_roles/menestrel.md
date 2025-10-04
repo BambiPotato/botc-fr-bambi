@@ -10,10 +10,10 @@
 
 ---
 
-### **Informations**
+## ℹ️ Information  
 
-**Type :** Villageois  
-**Artiste :** John Grist  
+- **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)  
+- **Artiste :** John Grist 
 
 > *"Et j’entendrai, même si tu marches doucement au-dessus de moi...  
 > Et tous mes rêves seront plus doux et plus chauds...  
