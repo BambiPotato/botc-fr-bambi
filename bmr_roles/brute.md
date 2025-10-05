@@ -4,7 +4,9 @@
   </a>
 </p>
 
-# ../images/moustache.png Brute  
+../images/moustache.png
+
+#  Brute  
 
 [<img src="../images/Icon_goon.png" alt="Brute" width="400">](brute.md) [**Brute**](../bmr_roles/brute.md)
 
