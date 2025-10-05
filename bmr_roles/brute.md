@@ -6,7 +6,7 @@
 
 # Brute  
 
-[<img src="../images/Icon_brute.png" alt="Brute" width="400">](brute.md) [**Brute**](../bmr_roles/brute.md)
+[<img src="../images/Icon_goon.png" alt="Brute" width="400">](brute.md) [**Brute**](../bmr_roles/brute.md)
 
 ---
 
