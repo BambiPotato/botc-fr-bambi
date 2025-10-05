@@ -1,6 +1,6 @@
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="../images/logo.png" alt="Accueil BotC FR" width="150">
+    <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
@@ -99,7 +99,7 @@ La Grand-Mère sait qui est son petit-enfant, mais s'il est tué par le <span st
 
 ## 📂 Navigation  
 
-- 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
+- 🏠 [Retour à l’accueil](../README.md)   
 - 🌙 [Retour à Bad Moon Rising](../bmr.md)  
 - 📂 **Catégories :** [Bad Moon Rising](../bmr.md) · [<span style="color:blue">Villageois</span>](../villageois.md)
 
