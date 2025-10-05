@@ -4,7 +4,6 @@
   </a>
 </p>
 
-../images/moustache.png
 
 #  Brute  
 
