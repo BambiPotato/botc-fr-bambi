@@ -6,7 +6,7 @@
 
 # 🫖 Dame de Thé  
 
-[<img src="../images/Icon_tea_lady.png" alt="Dame de Thé" width="400">](damedethe.md) [**Dame de Thé**](../bmr_roles/damedethe.md)
+[<img src="../images/Icon_tealady.png" alt="Dame de Thé" width="400">](damedethe.md) [**Dame de Thé**](../bmr_roles/damedethe.md)
 
 ---
 
