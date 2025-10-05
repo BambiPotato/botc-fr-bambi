@@ -1,5 +1,5 @@
 # **Pacifiste**
-![Icône Pacifiste](Icon_pacifist.png)
+
 
 ---
 
