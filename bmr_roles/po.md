@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# 💀 Po  
+# 🩸 Po  
 
 [<img src="../images/Icon_po.png" alt="Po" width="300">](./po.md)
 
