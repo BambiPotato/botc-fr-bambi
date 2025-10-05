@@ -21,8 +21,7 @@
 
 ## 🎭 Apparaît dans  
 
-[<img src="../images/logo_bad_moon_rising.png" alt="Bad Moon Rising" width="400">](../bmr.md)  
-[**Bad Moon Rising**](../bmr.md)  
+[<img src="../images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="400">](../bmr.md) [**Bad Moon Rising**](../bmr.md)  
 *Cult of the Clocktower – par Andrew Nathenson*
 
 ---
