@@ -5,7 +5,9 @@
 </p>
 
 
-#  Brute  
+#  Brute  <p align="left">
+  <img src="../images/moustache.png" alt="Brute moustachue" width="300">
+</p>
 
 [<img src="../images/Icon_goon.png" alt="Brute" width="400">](brute.md) [**Brute**](../bmr_roles/brute.md)
 
