@@ -46,11 +46,12 @@ Vous débutez sur *Blood 🩸 on the Clocktower* ?
 
 ##  🎭Catégories 
 
-<p align="center">
+<p align="left">
   <a href="https://bambipotato.github.io/botc-fr-bambi/">
     <img src="images/logo.png" alt="Logo BotC FR" width="300">
   </a>
 </p>
+
 
 - [<span style="color:blue">**Villageois**</span>](villageois.md) 
 - [<span style="color:blue">**Étrangers**</span>](etrangers.md) 
@@ -61,7 +62,7 @@ Vous débutez sur *Blood 🩸 on the Clocktower* ?
 ---
 ## 👺Rôles par Édition
 
-<p align="center">
+<p align="left">
   <a href="https://bambipotato.github.io/botc-fr-bambi/">
     <img src="images/logo.png" alt="Logo BotC FR" width="300">
   </a>
