@@ -33,8 +33,8 @@ Un Voyageur peut **rejoindre** la partie à tout moment, et **la quitter** à to
 
 ## 🔵 Trouble Brewing  
 
-[<img src="../images/Icon_gunslinger.png" alt="Flingeur" width="80">](flingeur.md) [**Flingeur**](flingeur.md)  
-
+[<img src="../images/Icon_gunslinger.png" alt="Flingeur" width="80">](flingeur.md)
+ [**Flingeur**](flingeur.md)  
 ---
 
 ## 🟣 Sects & Violets  
