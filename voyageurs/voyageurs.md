@@ -8,6 +8,14 @@
 
 [<img src="../images/Generic_traveller.png" alt="Voyageurs" width="300">](voyageurs.md)  
 
+<p align="center">
+  <a href="flingeur.md">
+    <img src="../images/Icon_gunslinger.png" alt="Flingeur" width="200">
+  </a><br>
+  <a href="flingeur.md"><b>Flingeur</b></a>
+</p>
+
+
 ---
 
 ## 📖 Présentation  
