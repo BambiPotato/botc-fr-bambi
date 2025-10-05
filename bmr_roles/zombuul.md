@@ -94,7 +94,7 @@ Vous êtes **le mort-vivant parfait** — capable de survivre à une exécution 
   Cela vous offre une **marge d’erreur** pour tromper le Village et détourner les soupçons.  
   Si les joueurs découvrent qu’un Démon mort a continué à tuer, ils seront perdus.  
 
-- Encouragez les exécutions « sûres » (par exemple un [Marin](marin.md) ou les voisins de la [Dame de Thé](damedethe.md)) :  
+- Encouragez les exécutions « sûres » (par exemple un [Marin](marin.md) ou les voisins d'une [Dame de Thé](damedethe.md)) et
   si ces joueurs ne meurent pas, vous pourrez tuer la nuit suivante.  
 
 ### 🕯️ Jouer avec la paranoïa  
