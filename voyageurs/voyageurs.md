@@ -7,7 +7,7 @@
 # 🧳 Les Voyageurs  
  
 
-<p align="center">
+<p align="middle">
   <a href="flingeur.md">
     <img src="../images/Icon_gunslinger.png" alt="Flingeur" width="300">
   </a><br>
