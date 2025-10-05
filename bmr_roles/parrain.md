@@ -52,14 +52,14 @@ Le **Parrain** tire vengeance lorsque les **Étrangers** meurent pendant la jour
 
 ## 🧾 Exemples  
 
-- Le Parrain apprend que l’[Enfant de la Lune](enfantdelalune.md) et le [Bricoleur](bricoleur.md) sont en jeu.  
-  Il bluffe donc en [Lunatique](lunatique.md).  
-  Le troisième jour, le Bricoleur est exécuté et meurt.  
-  Cette nuit-là, le <span style="color:red">[Shabaloth](shabaloth.md)</span> tue la [Dame de Thé](damedethe.md), et le Parrain tue le [Pacifiste](pacifiste.md).
+- Le Parrain apprend que le [Lunatique](lunatique.md) et l'[Enfant de la Lune](enfantdelalune.md) sont en jeu.  
+  Il bluffe alors le rôle du [Bricoleur](bricoleur.md).  
+  Le troisième jour, [Lunatique](lunatique.md) est exécuté et meurt.  
+  Cette nuit-là, le <span style="color:red">Démon</span> tue le [Ménestrel](menestrel.md), et le Parrain tue le [Pacifiste](pacifiste.md).
 
 - Le [Bricoleur](bricoleur.md) est exécuté, mais reste en vie grâce à l’<span style="color:red">[Avocat du Diable](avocatdudiable.md)</span>.  
   Le Parrain **n’agit pas** cette nuit-là.  
-  Le lendemain, le Bricoleur meurt à cause de sa propre capacité :  
+  Le lendemain, le [Bricoleur](bricoleur.md) meurt à cause de sa propre capacité :  
   cette fois, le Parrain choisit de **se tuer lui-même** pour brouiller les pistes.
 
 ---
@@ -73,7 +73,7 @@ Joué avec subtilité, il peut dévaster le camp du Bien tout en semant la confu
 
 - Vous commencez en sachant **quels Étrangers sont en jeu** : servez-vous de cette information.  
   → Si vous savez qu’un [Lunatique](lunatique.md) est présent, il est prudent d’éviter de le révéler.  
-  → Si un [Gamin-Loup](../tb_roles/drunk.md) (ou équivalent) existe, vous pouvez l’utiliser pour justifier des comportements incohérents.
+  → Si un [Ivrogne](../tb_roles/drunk.md) (ou équivalent) existe, vous pouvez l’utiliser pour justifier des comportements incohérents.
 
 - Si le Conteur a **ajouté** un Étranger, prétendez en être un autre pour brouiller les pistes.  
   S’il y en a **un de moins**, accusez un joueur d’être un Sbire déguisé !
@@ -120,7 +120,7 @@ Pour les joueurs bons :
 
 - Si le nombre d’Étrangers est **±1** par rapport à la normale, il y a probablement un **Parrain** en jeu.  
 - Si un Étranger meurt **et qu’il y a deux morts la nuit suivante**, c’est presque certain.  
-- Si le Parrain est présent, cela signifie qu’il n’y a **pas d’[Avocat du Diable](avocatdudiable.md)** ni de [<span style="color:red">Maître du Jeu</span>](maitredujeu.md) dans la partie.  
+- Si le Parrain est présent, cela signifie qu’il n’y a **pas d’[Avocat du Diable](avocatdudiable.md)** ni de [<span style="color:red">Cerveau</span>](cerveau.md) dans la partie.  
   Utilisez cette information pour déduire les autres Sbires possibles.
 
 ---
