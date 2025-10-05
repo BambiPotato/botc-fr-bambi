@@ -6,7 +6,7 @@
 
 # 🗡️ Assassin  
 
-[<img src="../images/icon_assassin.png" alt="Assassin" width="300">](assassin.md)
+[<img src="../images/Icon_assassin.png" alt="Assassin" width="300">](assassin.md)
 
 ---
 
@@ -121,11 +121,8 @@ Cependant :
 
 ---
 
-## 🩸 Catégories  
+## 📂 Navigation  
 
-[Bad Moon Rising](../bmr.md) – [<span style="color:red">Sbire</span>](../sbires.md)
-
----
-
-- 🏠 [Retour à l’accueil](../README.md)
-
+- 🏠 [Retour à l’accueil](../README.md)  
+- 🌙 [Retour à Bad Moon Rising](../bmr.md)  
+- 📂 **Catégories :** [Bad Moon Rising](../bmr.md) · [<span style="color:red">Sbires</span>](../sbires.md)
