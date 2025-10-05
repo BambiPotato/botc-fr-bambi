@@ -75,11 +75,13 @@ Le **Po** est un Démon capable de **retenir son attaque** pour mieux frapper en
 
 ## ⚔️ Combattre le Po 
 
-- Repérez le motif **1 → 0 → 3** morts : c’est typique du Po (le [Shabaloth](./shabaloth.md) tue 2/nuit, jamais 3).  
-- **Exécutez tous les jours** : avec **5 vivants**, ne pas exécuter = risque de **triple kill** décisif.  
-- Coordonnez les protections ([Dame de Thé](./damedethe.md), [Aubergiste](./aubergiste.md), [Fou](fou.md, [Marin](./marin.md), [Brute](brute.md)) et neutralisez le Démon grâce aux capacité d'un **[Courtisan](courtisan.md)** ou d'un **[Exorciste](exorciste)**.  
+- Vérifiez que le Po est en jeu dès que possible. 
+- Déterminez les morts de nuit **de 1 à 0 puis 3** morts de nuit : c’est typique du Po, (le [Shabaloth](./shabaloth.md) tue 2 joueurs par nuit,
+jamais 3).  
+- **Exécutez tous les jours** : avec **5 personnes vivantes**, il ne faut pas exécuter, au risque d'avoir **Trois Morts** décisifs.  
+- Coordonnez les protections ([Dame de Thé](./damedethe.md), [Aubergiste](./aubergiste.md), [Fou](fou.md), [Marin](./marin.md), [Brute](brute.md)) et neutralisez le Démon grâce aux capacité d'un **[Courtisan](courtisan.md)** ou d'un **[Exorciste](exorciste)**.  
 - Méfiez-vous des morts « parasites » de la [Commère](./commere.md) ou du [Parieur](./parieur.md) qui peuvent masquer une **nuit de charge**.  
-
+- Si vous pensez qu'un Po est en jeu et que 4, 5 ou même 6 joueurs sont encore en vie, réfléchissez bien à qui vous exécuterez ce jour-là… ce sera peut-être votre dernier !
 ---
 
 ## 📂 Navigation  
