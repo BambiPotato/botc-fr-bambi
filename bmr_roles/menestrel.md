@@ -118,7 +118,8 @@ Le **Ménestrel** est un **excellent bluff passif** : facile à maintenir, créd
 
 ## 📂 Navigation  
 
-- 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
+
+- 🏠 [Retour à l’accueil](../README.md)   
 - 🌙 [Retour à Bad Moon Rising](../bmr.md)  
 - 📂 **Catégories :** [Bad Moon Rising](../bmr.md) · [<span style="color:blue">Villageois</span>](../villageois.md) · [🧳 Voyageurs](../voyageurs/voyageurs.md)
 
