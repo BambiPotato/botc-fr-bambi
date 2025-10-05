@@ -67,8 +67,8 @@ Vous débutez sur *Blood 🩸 on the Clocktower* ?
     <img src="images/logo.png" alt="Logo BotC FR" width="300">
   </a>
 </p>
----
 
+---
 [<img src="images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="300">](trouble_brewing.md) [**Trouble Brewing**](trouble_brewing.md) 
 
 [<img src="images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="300">](bmr.md) [**Bad Moon Rising**](bmr.md)  
