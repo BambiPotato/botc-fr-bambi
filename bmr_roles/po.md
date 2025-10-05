@@ -51,7 +51,7 @@ Le **Po** est un Démon capable de **retenir son attaque** pour mieux frapper en
 
 - N2 : le Po tue 1 joueur. N3 : il ne tue personne. N4 : il tue **3 joueurs**.  
 - Le Po choisit « personne » en étant ivre. La nuit d’après, empoisonné, il cible 3 joueurs mais **aucun ne meurt**. La nuit suivante, sobre, il tue 1 joueur.  
-- Le Po attaque l’[Enfant de la Lune](./enfantdelalune.md), puis le [Goon](./goon.md), puis la [Grand-Mère](./grandmere.md). Seule l’Enfant de la Lune meurt car le Po devient ivre en ciblant le Goon.  
+- Le Po attaque l’[Enfant de la Lune](./enfantdelalune.md), puis la [Brute](brute.md), puis la [Grand-Mère](grandmere.md). Seule l’[Enfant de la Lune](./enfantdelalune.md) meurt car le Po devient ivre en ciblant la [Brute](brute.md).  
 
 ---
 
@@ -77,7 +77,7 @@ Le **Po** est un Démon capable de **retenir son attaque** pour mieux frapper en
 
 - Repérez le motif **1 → 0 → 3** morts : c’est typique du Po (le [Shabaloth](./shabaloth.md) tue 2/nuit, jamais 3).  
 - **Exécutez tous les jours** : avec **5 vivants**, ne pas exécuter = risque de **triple kill** décisif.  
-- Coordonnez les protections (Dame de Thé, Aubergiste, Fou, Marin, Goon) et neutralisez via **Courtisan**/**Exorciste**.  
+- Coordonnez les protections ([Dame de Thé](./damedethe.md), [Aubergiste](./aubergiste.md), [Fou](fou.md, [Marin](./marin.md), [Brute](brute.md)) et neutralisez le Démon grâce aux capacité d'un **[Courtisan](courtisan.md)** ou d'un **[Exorciste](exorciste)**.  
 - Méfiez-vous des morts « parasites » de la [Commère](./commere.md) ou du [Parieur](./parieur.md) qui peuvent masquer une **nuit de charge**.  
 
 ---
