@@ -118,9 +118,9 @@ Ces ressources sont pratiques pour imprimer et jouer en personne.
 - 🏠 [Retour à la page d’accueil](README.md)  
 
 
-test
+test 
 
-## <span style="color:blue">**Villageois**</span>
+<h2 align="center" style="color: #1E90FF; font-weight: bold;">Villageois</h2>
 
 <div align="center">
 
@@ -202,6 +202,16 @@ test
       </a>
     </td>
   </tr>
+
+  <tr>
+    <td align="center" colspan="6">
+      <a href="./tb_roles/maire.md">
+        <img src="./images/Icon_mayor.png" alt="Maire" width="120"><br>
+        <b>Maire</b>
+      </a>
+    </td>
+  </tr>
 </table>
 
 </div>
+
