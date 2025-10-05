@@ -33,31 +33,9 @@ Un Voyageur peut **rejoindre** la partie à tout moment, et **la quitter** à to
 
 ## 🔵 Trouble Brewing  
 
-[<img src="../images/Icon_gunslinger.png" alt="Flingeur" width="300">](flingeur.md)
- [**Flingeur**](flingeur.md)  
+[<img src="../images/Icon_gunslinger.png" alt="Flingeur" width="300">](flingeur.md) [**Flingeur**](flingeur.md)  
 
- <p align="center">
-  <span style="display:inline-block; text-align:center; margin: 0 10px;">
-    <a href="flingeur.md">
-      <img src="../images/Icon_gunslinger.png" alt="Flingeur" width="150">
-    </a><br>
-    <a href="flingeur.md"><b>Flingeur</b></a>
-  </span>
 
-  <span style="display:inline-block; text-align:center; margin: 0 10px;">
-    <a href="juge.md">
-      <img src="../images/Icon_judge.png" alt="Juge" width="150">
-    </a><br>
-    <a href="juge.md"><b>Juge</b></a>
-  </span>
-
-  <span style="display:inline-block; text-align:center; margin: 0 10px;">
-    <a href="apprenti.md">
-      <img src="../images/Icon_apprentice.png" alt="Apprenti" width="150">
-    </a><br>
-    <a href="apprenti.md"><b>Apprenti</b></a>
-  </span>
-</p>
 
 ---
 
