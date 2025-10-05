@@ -107,7 +107,7 @@ Aucun autre Démon dans *Bad Moon Rising* ne peut désorienter le Bien autant qu
 
 - Ne laissez pas le Village comprendre trop tôt que vous êtes un **empoisonneur**.  
   Une fois identifié, elle pourra recouper les informations et neutraliser votre impact.  
-- Bluffez un autre Démon, comme le [Zombuul](zombuul.md) ou le [Po](po.md).  
+- Bluffez un autre Démon, comme le [<span style="color:red">Zombuul</span>](zombuul.md) ou le [<span style="color:red">Po</span>](po.md).  
   Quelques morts supplémentaires causées par vos alliés peuvent maintenir le doute.  
 
 ---
@@ -124,7 +124,7 @@ Aucun autre Démon dans *Bad Moon Rising* ne peut désorienter le Bien autant qu
 - Les morts de la nuit **étaient empoisonnées la veille**.  
   Reprenez les infos des joueurs morts pour comprendre **quand** elles ont été faussées.  
 - Exemple :  
-  - La [Dame de Thé](damedethe.md) morte n’a pas fonctionné car elle était empoisonnée.  
+  - Une [Dame de Thé](damedethe.md) morte n’a pas fonctionné car elle était empoisonnée.  
   - Un [Parieur](parieur.md) mort a survécu à une mauvaise prédiction, etc.  
 
 ### 🧑‍⚖️ Stratégies pour les Bons  
