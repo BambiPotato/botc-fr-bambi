@@ -188,104 +188,38 @@ Ces ressources sont pratiques pour imprimer et jouer en personne.
 
 
 TEST
+## [<span style="color:blue">**Villageois**</span>](villageois.md)
 
-<h2 align="center">
-  <a href="./villageois.md" style="color:#1E90FF; text-decoration:none; font-weight:bold; font-size:28px;">
-    Villageois
-  </a>
-</h2>
+<p align="center">
+<a href="./tb_roles/lavandiere.md"><img src="./images/Icon_washerwoman.png" alt="Lavandière" width="140"><br><b>Lavandière</b></a>
+&nbsp;&nbsp;&nbsp;
+<a href="./tb_roles/bibliothecaire.md"><img src="./images/Icon_librarian.png" alt="Bibliothécaire" width="140"><br><b>Bibliothécaire</b></a>
+&nbsp;&nbsp;&nbsp;
+<a href="./tb_roles/enqueteur.md"><img src="./images/Icon_investigator.png" alt="Enquêteur" width="140"><br><b>Enquêteur</b></a>
+&nbsp;&nbsp;&nbsp;
+<a href="./tb_roles/cuistot.md"><img src="./images/Icon_chef.png" alt="Cuistot" width="140"><br><b>Cuistot</b></a>
+&nbsp;&nbsp;&nbsp;
+<a href="./tb_roles/empathique.md"><img src="./images/Icon_empath.png" alt="Empathique" width="140"><br><b>Empathique</b></a>
+&nbsp;&nbsp;&nbsp;
+<a href="./tb_roles/voyante.md"><img src="./images/Icon_fortuneteller.png" alt="Voyante" width="140"><br><b>Voyante</b></a>
+</p>
 
-<div align="center">
+<p align="center">
+<a href="./tb_roles/croquemort.md"><img src="./images/Icon_undertaker.png" alt="Croque-Mort" width="140"><br><b>Croque-Mort</b></a>
+&nbsp;&nbsp;&nbsp;
+<a href="./tb_roles/moine.md"><img src="./images/Icon_monk.png" alt="Moine" width="140"><br><b>Moine</b></a>
+&nbsp;&nbsp;&nbsp;
+<a href="./tb_roles/gardien.md"><img src="./images/Icon_ravenkeeper.png" alt="Gardien" width="140"><br><b>Gardien</b></a>
+&nbsp;&nbsp;&nbsp;
+<a href="./tb_roles/vierge.md"><img src="./images/Icon_virgin.png" alt="Vierge" width="140"><br><b>Vierge</b></a>
+&nbsp;&nbsp;&nbsp;
+<a href="./tb_roles/mercenaire.md"><img src="./images/Icon_slayer.png" alt="Mercenaire" width="140"><br><b>Mercenaire</b></a>
+&nbsp;&nbsp;&nbsp;
+<a href="./tb_roles/soldat.md"><img src="./images/Icon_soldier.png" alt="Soldat" width="140"><br><b>Soldat</b></a>
+</p>
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="./tb_roles/lavandiere.md">
-        <img src="./images/Icon_washerwoman.png" alt="Lavandière" width="160"><br>
-        <b>Lavandière</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="./tb_roles/bibliothecaire.md">
-        <img src="./images/Icon_librarian.png" alt="Bibliothécaire" width="160"><br>
-        <b>Bibliothécaire</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="./tb_roles/enqueteur.md">
-        <img src="./images/Icon_investigator.png" alt="Enquêteur" width="160"><br>
-        <b>Enquêteur</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="./tb_roles/cuistot.md">
-        <img src="./images/Icon_chef.png" alt="Cuistot" width="160"><br>
-        <b>Cuistot</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="./tb_roles/empathique.md">
-        <img src="./images/Icon_empath.png" alt="Empathique" width="160"><br>
-        <b>Empathique</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="./tb_roles/voyante.md">
-        <img src="./images/Icon_fortuneteller.png" alt="Voyante" width="160"><br>
-        <b>Voyante</b>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <a href="./tb_roles/croquemort.md">
-        <img src="./images/Icon_undertaker.png" alt="Croque-Mort" width="160"><br>
-        <b>Croque-Mort</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="./tb_roles/moine.md">
-        <img src="./images/Icon_monk.png" alt="Moine" width="160"><br>
-        <b>Moine</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="./tb_roles/gardien.md">
-        <img src="./images/Icon_ravenkeeper.png" alt="Gardien" width="160"><br>
-        <b>Gardien</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="./tb_roles/vierge.md">
-        <img src="./images/Icon_virgin.png" alt="Vierge" width="160"><br>
-        <b>Vierge</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="./tb_roles/mercenaire.md">
-        <img src="./images/Icon_slayer.png" alt="Mercenaire" width="160"><br>
-        <b>Mercenaire</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="./tb_roles/soldat.md">
-        <img src="./images/Icon_soldier.png" alt="Soldat" width="160"><br>
-        <b>Soldat</b>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" colspan="6">
-      <a href="./tb_roles/maire.md">
-        <img src="./images/Icon_mayor.png" alt="Maire" width="160"><br>
-        <b>Maire</b>
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
+<p align="center">
+<a href="./tb_roles/maire.md"><img src="./images/Icon_mayor.png" alt="Maire" width="140"><br><b>Maire</b></a>
+</p>
 
 
