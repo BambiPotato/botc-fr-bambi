@@ -124,92 +124,84 @@ test
 
 <div align="center">
 
-  <div style="display:inline-block; text-align:center; margin:10px;">
-    <a href="./tb_roles/lavandiere.md">
-      <img src="./images/Icon_washerwoman.png" alt="Lavandière" width="120">
-      <div><b>Lavandière</b></div>
-    </a>
-  </div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="./tb_roles/lavandiere.md">
+        <img src="./images/Icon_washerwoman.png" alt="Lavandière" width="120"><br>
+        <b>Lavandière</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./tb_roles/bibliothecaire.md">
+        <img src="./images/Icon_librarian.png" alt="Bibliothécaire" width="120"><br>
+        <b>Bibliothécaire</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./tb_roles/enqueteur.md">
+        <img src="./images/Icon_investigator.png" alt="Enquêteur" width="120"><br>
+        <b>Enquêteur</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./tb_roles/cuistot.md">
+        <img src="./images/Icon_chef.png" alt="Cuistot" width="120"><br>
+        <b>Cuistot</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./tb_roles/empathique.md">
+        <img src="./images/Icon_empath.png" alt="Empathique" width="120"><br>
+        <b>Empathique</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./tb_roles/voyante.md">
+        <img src="./images/Icon_fortuneteller.png" alt="Voyante" width="120"><br>
+        <b>Voyante</b>
+      </a>
+    </td>
+  </tr>
 
-  <div style="display:inline-block; text-align:center; margin:10px;">
-    <a href="./tb_roles/bibliothecaire.md">
-      <img src="./images/Icon_librarian.png" alt="Bibliothécaire" width="120">
-      <div><b>Bibliothécaire</b></div>
-    </a>
-  </div>
-
-  <div style="display:inline-block; text-align:center; margin:10px;">
-    <a href="./tb_roles/enqueteur.md">
-      <img src="./images/Icon_investigator.png" alt="Enquêteur" width="120">
-      <div><b>Enquêteur</b></div>
-    </a>
-  </div>
-
-</div>
-
----
-
-## <span style="color:blue">**Étrangers**</span>
-
-<div align="center">
-
-  <div style="display:inline-block; text-align:center; margin:10px;">
-    <a href="./tb_roles/majordome.md">
-      <img src="./images/Icon_butler.png" alt="Majordome" width="120">
-      <div><b>Majordome</b></div>
-    </a>
-  </div>
-
-  <div style="display:inline-block; text-align:center; margin:10px;">
-    <a href="./tb_roles/ivrogne.md">
-      <img src="./images/Icon_drunk-1.png" alt="Ivrogne" width="120">
-      <div><b>Ivrogne</b></div>
-    </a>
-  </div>
-
-  <div style="display:inline-block; text-align:center; margin:10px;">
-    <a href="./tb_roles/reclus.md">
-      <img src="./images/Icon_recluse-1.png" alt="Reclus" width="120">
-      <div><b>Reclus</b></div>
-    </a>
-  </div>
-
-</div>
-
----
-
-## <span style="color:red">**Sbires**</span>
-
-<div align="center">
-
-  <div style="display:inline-block; text-align:center; margin:10px;">
-    <a href="./tb_roles/empoisonneur.md">
-      <img src="./images/Icon_poisoner.png" alt="Empoisonneur" width="120">
-      <div style="color:red;"><b>Empoisonneur</b></div>
-    </a>
-  </div>
-
-  <div style="display:inline-block; text-align:center; margin:10px;">
-    <a href="./tb_roles/espion.md">
-      <img src="./images/Icon_spy.png" alt="Espion" width="120">
-      <div style="color:red;"><b>Espion</b></div>
-    </a>
-  </div>
-
-</div>
-
----
-
-## <span style="color:red">**Démons**</span>
-
-<div align="center">
-
-  <div style="display:inline-block; text-align:center; margin:10px;">
-    <a href="./tb_roles/imp.md">
-      <img src="./images/Icon_imp.png" alt="Imp" width="120">
-      <div style="color:red;"><b>Imp</b></div>
-    </a>
-  </div>
+  <tr>
+    <td align="center">
+      <a href="./tb_roles/croquemort.md">
+        <img src="./images/Icon_undertaker.png" alt="Croque-Mort" width="120"><br>
+        <b>Croque-Mort</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./tb_roles/moine.md">
+        <img src="./images/Icon_monk.png" alt="Moine" width="120"><br>
+        <b>Moine</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./tb_roles/gardien.md">
+        <img src="./images/Icon_ravenkeeper.png" alt="Gardien" width="120"><br>
+        <b>Gardien</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./tb_roles/vierge.md">
+        <img src="./images/Icon_virgin.png" alt="Vierge" width="120"><br>
+        <b>Vierge</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./tb_roles/mercenaire.md">
+        <img src="./images/Icon_slayer.png" alt="Mercenaire" width="120"><br>
+        <b>Mercenaire</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./tb_roles/soldat.md">
+        <img src="./images/Icon_soldier.png" alt="Soldat" width="120"><br>
+        <b>Soldat</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
-
