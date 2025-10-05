@@ -12,7 +12,7 @@
 
 ## ℹ️ Information  
 
-- **Type :** [<span style="color:purple">Étranger</span>](../etrangers.md)  
+- **Type :** [<span style="color:blue">Étranger</span>](../etrangers.md)  
 - **Artiste :** Aidan Roberts  
 - *« Je suis la nuit… enfin, je crois. »*  
 
