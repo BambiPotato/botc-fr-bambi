@@ -125,6 +125,7 @@ Mais bien joué, il peut aussi **protéger des alliés** et **piéger le Mal**.
 
 ## 📂 Navigation  
 
-- 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
+
+- 🏠 [Retour à l’accueil](../README.md)   
 - 🌙 [Retour à Bad Moon Rising](../bmr.md)  
 - 📂 **Catégories :** [Bad Moon Rising](../bmr.md) · [<span style="color:blue">Villageois</span>](../villageois.md)
