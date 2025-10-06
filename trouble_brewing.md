@@ -16,7 +16,9 @@ title: Trouble Brewing
 
 [<img src="images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="300">](trouble_brewing.md) [**Trouble Brewing**](trouble_brewing.md) 
 
-
+<div style="text-align:center; display:inline-block; margin: 10px;">
+  [<img src="./images/Logo_trouble_brewing.png"alt="Trouble Brewing" width="300">](trouble_brewing.md) [**Trouble Brewing**](trouble_brewing.md) 
+</div>
 
 ## 📖 Synopsis  
 
