@@ -6,7 +6,7 @@
 
 # 📜<span style="color:#b58b52; font-weight:bold; font-size:50px;">**PAGE PRINCIPALE**</span>
 ---
-# 🚪<span style="color:#b58b52; font-weight:bold; font-size:50px;"**Bienvenue sur le wiki francophone de Blood 🩸 on the Clocktower : toutes les règles, astuces et stratégies réunies au même endroit**</span>
+# 🚪<span style="color:#b58b52; font-weight:bold; font-size:50px;">**Bienvenue sur le wiki francophone de Blood 🩸 on the Clocktower : toutes les règles, astuces et stratégies réunies au même endroit**</span>
 
   <p align="left" style="color:#b58b52; font-size:20px; font-style:italic;">
     Traductions - Conseils, Ressources, Astuces, Secrets pour le jeu Blood on the Clocktower.
