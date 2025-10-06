@@ -2,6 +2,19 @@ remote_theme: pages-themes/slate@v0.2.0
 plugins:
   - jekyll-remote-theme
 
-title: "Wiki BotC FR"
-description: "Traductions - Conseils et Ressources pour Blood on the Clocktower"
+title: "Wiki Blood on the Clocktower Francophone"
+description: "Traductions - Conseils et Ressources pour le jeu Blood on the Clocktower"
+url: "https://bambipotato.github.io/botc-fr-bambi/"
 
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  parse_block_html: true
+
+# fichiers supplémentaires à inclure dans la compilation
+include:
+  - assets/css/style.css
+  - assets/js/theme.js
+  - _includes/head-custom.html
+ 
