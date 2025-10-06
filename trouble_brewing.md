@@ -50,7 +50,7 @@ Celles et ceux qui savent lire les signes comprennent qu’il y a… **Trouble B
 ## [<span style="color:blue">**Villageois**</span>](villageois.md)
 
 
-<p align="center">
+<p align="left">
   <a href="tb_roles/lavandiere">
     <img src="images/Icon_washerwoman.png" alt="Lavandière" width="300"><br>
     <b>Lavandière</b>
