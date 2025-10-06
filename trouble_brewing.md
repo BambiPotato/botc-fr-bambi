@@ -51,32 +51,18 @@ Celles et ceux qui savent lire les signes comprennent qu’il y a… **Trouble B
 
 
 
-
-
 ---
 
 ## [<span style="color:blue">**Étrangers**</span>](etrangers.md)  
 
-[<img src="images/Icon_butler.png" alt="Majordome" width="300">](tb_roles/majordome.md) [**Majordome**](tb_roles/majordome.md)  
-
-[<img src="images/Icon_drunk-1.png" alt="Ivrogne" width="300">](tb_roles/ivrogne.md) [**Ivrogne**](tb_roles/ivrogne.md)  
-
-[<img src="images/Icon_recluse-1.png" alt="Reclus" width="300">](tb_roles/reclus.md) [**Reclus**](tb_roles/reclus.md)  
-
-[<img src="images/Icon_saint.png" alt="Saint" width="300">](tb_roles/saint.md) [**Saint**](tb_roles/saint.md)  
+[<img src="images/Icon_butler.png" alt="Majordome" width="300">](tb_roles/majordome.md) [**Majordome**](tb_roles/majordome.md)  [<img src="images/Icon_drunk-1.png" alt="Ivrogne" width="300">](tb_roles/ivrogne.md) [**Ivrogne**](tb_roles/ivrogne.md)  [<img src="images/Icon_recluse-1.png" alt="Reclus" width="300">](tb_roles/reclus.md) [**Reclus**](tb_roles/reclus.md)  [<img src="images/Icon_saint.png" alt="Saint" width="300">](tb_roles/saint.md) [**Saint**](tb_roles/saint.md)  
 
 ---
 <div class="page-tb" markdown="1">
 
 ## [<span style="color:red">**Sbires**</span>](sbires.md)  
 
-[<img src="images/Icon_poisoner.png" alt="Empoisonneur" width="300">](tb_roles/empoisonneur.md) [**Empoisonneur**](tb_roles/empoisonneur.md)  
-
-[<img src="images/Icon_spy.png" alt="Espion" width="300">](tb_roles/espion.md) [**Espion**](tb_roles/espion.md)  
-
-[<img src="images/Icon_scarletwoman.png" alt="Femme Écarlate" width="300">](tb_roles/femmeecarlate.md) [**Femme Écarlate**](tb_roles/femmeecarlate.md)  
-
-[<img src="images/Icon_baron.png" alt="Baron" width="300">](tb_roles/baron.md) [**Baron**](tb_roles/baron.md)  
+[<img src="images/Icon_poisoner.png" alt="Empoisonneur" width="300">](tb_roles/empoisonneur.md) [**Empoisonneur**](tb_roles/empoisonneur.md)  [<img src="images/Icon_spy.png" alt="Espion" width="300">](tb_roles/espion.md) [**Espion**](tb_roles/espion.md)  [<img src="images/Icon_scarletwoman.png" alt="Femme Écarlate" width="300">](tb_roles/femmeecarlate.md) [**Femme Écarlate**](tb_roles/femmeecarlate.md)  [<img src="images/Icon_baron.png" alt="Baron" width="300">](tb_roles/baron.md) [**Baron**](tb_roles/baron.md)  
 
 ---
 
