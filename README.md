@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# <p align="center" style="color:#b58b52; font-weight:bold; font-size:40px;"> 📜PAGE PRINCIPALE</p>
+# <p align="center" style="color:#b58b52;font-size:40px;"> 📜PAGE PRINCIPALE</p>
    
 
 #     🚪<span style="color:#b58b52; font-weight:bold; font-size:40px;">**Bienvenue sur le Wiki Francophone 🇫🇷 de Blood 🩸 on the Clocktower** 🕰️ </span>
