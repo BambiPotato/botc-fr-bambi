@@ -6,10 +6,12 @@
 
 # 📜 <span style="color:#b58b52; font-weight:bold; font-size:40px;">**PAGE PRINCIPALE**</span>
 
----
-# 🚪 <span style="color:#b58b52; font-weight:bold; font-size:40px;">**Bienvenue sur le wiki francophone de Blood 🩸 on the Clocktower 🕰️ : toutes les règles, astuces et stratégies réunies au même endroit**</span>
+# 🚪 <span style="color:#b58b52; font-weight:bold; font-size:40px;">**Bienvenue sur le wiki francophone de Blood 🩸 on the Clocktower** 🕰️ 
+**Toutes les règles, astuces et stratégies réunies au même endroit**</span>
 
-  <p align="left" style="color:#b58b52; font-size:20px; font-style:italic;">
+    <p style="color:#b58b52; font-size:20px; font-style:bold;">
+Ce projet a pour but de proposer des **traductions fidèles**, des **conseils** et des **ressources** pour aider les communautés francophones à jouer dans un cadre **inclusif 🤝 et bienveillant.** 🫶🏻
+</p>
     Traductions - Conseils, Ressources, Astuces, Secrets pour le jeu Blood on the Clocktower.
     
     "Le sang se mêle au clair de lune, et les secrets ne dorment jamais..." 
@@ -24,12 +26,6 @@
   <a href="https://bambipotato.github.io/botc-fr-bambi/">
     <img src="images/logo.png" alt="Logo BotC FR" width="300">
   </a>
-</p>
-
----
-
-<p style="color:#b58b52; font-size:20px; font-style:bold;">
-Ce projet a pour but de proposer des **traductions fidèles**, des **conseils** et des **ressources** pour aider les communautés francophones à jouer dans un cadre **inclusif 🤝 et bienveillant.** 🫶🏻
 </p>
 
 ---
