@@ -4,11 +4,18 @@
   </a>
 </p>
 
-#     <span style="color:#b58b52; font-weight:bold; font-size:40px;">📜**PAGE PRINCIPALE** </span>
-   
+#     <h1 style="text-align:center;">
+  <span style="color:#b58b52; font-weight:bold; font-size:40px;">
+    📜 PAGE PRINCIPALE
+  </span>
+</h1>
 
-#     🚪<span style="color:#b58b52; font-weight:bold; font-size:40px;">**Bienvenue sur le Wiki Francophone 🇫🇷 de Blood 🩸 on the Clocktower**  </span>
- <p class="phrase-ambiance">**Toutes les règles, astuces et stratégies réunies au même endroit**</p>
+# <h1 style="text-align:center;">
+  🚪<span style="color:#b58b52; font-weight:bold; font-size:40px;">
+    Bienvenue sur le Wiki Francophone 🇫🇷 de Blood 🩸 on the Clocktower 🕰️
+  </span>
+</h1>
+
 
    <p class="phrase-ambiance"> Traductions - Conseils, Ressources, Astuces, Secrets pour le jeu Blood on the Clocktower.</p>
     
