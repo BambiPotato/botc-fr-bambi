@@ -10,7 +10,7 @@
   </span>
 </h1>
 
-# <h1 style="text-align:center;">
+ <h1 style="text-align:center;">
   🚪<span style="color:#b58b52; font-weight:bold; font-size:40px;">
     Bienvenue sur le Wiki Francophone 🇫🇷 de Blood 🩸 on the Clocktower 🕰️
   </span>
