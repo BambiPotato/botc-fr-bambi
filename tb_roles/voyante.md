@@ -1,7 +1,3 @@
----
-layout: default
-title: "Voyante"
----
 
 
 <p align="left">
