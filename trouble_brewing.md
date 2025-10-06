@@ -39,7 +39,29 @@ Celles et ceux qui savent lire les signes comprennent qu’il y a… **Trouble B
 <span style="color:red">*Ce module est recommandé pour les nouveaux joueurs, joueuses et Conteurs.* </span> 
 </div>
 ----
-TEST
+test new
+
+## [<span style="color:blue">**Villageois**</span>](villageois.md)
+
+<div class="role-grid">
+
+  <a href="tb_roles/lavandiere.md">
+    <img src="images/Icon_washerwoman.png" alt="Lavandière">
+    <span>Lavandière</span>
+  </a>
+
+  <a href="tb_roles/bibliothecaire.md">
+    <img src="images/Icon_librarian.png" alt="Bibliothécaire">
+    <span>Bibliothécaire</span>
+  </a>
+
+</div>
+
+
+
+
+------
+TEST 1
 ## [<span style="color:blue">**Villageois**</span>](villageois.md)
 
 | [![Lavandière](images/Icon_washerwoman.png)](tb_roles/lavandiere.md) <br> [**Lavandière**](tb_roles/lavandiere.md) | [![Bibliothécaire](images/Icon_librarian.png)](tb_roles/bibliothecaire.md) <br> [**Bibliothécaire**](tb_roles/bibliothecaire.md) | [![Enquêteur](images/Icon_investigator.png)](tb_roles/enqueteur.md) <br> [**Enquêteur**](tb_roles/enqueteur.md) | [![Cuistot](images/Icon_chef.png)](tb_roles/cuistot.md) <br> [**Cuistot**](tb_roles/cuistot.md) | [![Empathique](images/Icon_empath.png)](tb_roles/empathique.md) <br> [**Empathique**](tb_roles/empathique.md) | [![Voyante](images/Icon_fortuneteller.png)](tb_roles/voyante.md) <br> [**Voyante**](tb_roles/voyante.md) |
@@ -49,7 +71,7 @@ TEST
 
 
 
-TEST
+TEST 2
 ---
 <h2 align="center" style="color: #1E90FF; font-weight: bold;">Villageois</h2>
 
