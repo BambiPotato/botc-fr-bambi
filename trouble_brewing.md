@@ -49,13 +49,26 @@ Celles et ceux qui savent lire les signes comprennent qu’il y a… **Trouble B
 
 ## [<span style="color:blue">**Villageois**</span>](villageois.md)
 
-<p align="center">
-  <a href="tb_roles/lavandiere.md">
-    <img src="images/Icon_washerwoman.png" alt="Lavandière" width="300"><br>
+
+
+<div align="center">
+
+  <a href="tb_roles/lavandiere.html">
+    <img src="images/Icon_washerwoman.png" alt="Lavandière" width="250"><br>
     <b>Lavandière</b>
   </a>
-</p>
 
+  <a href="tb_roles/bibliothecaire.html">
+    <img src="images/Icon_librarian.png" alt="Bibliothécaire" width="250"><br>
+    <b>Bibliothécaire</b>
+  </a>
+
+  <a href="tb_roles/enqueteur.html">
+    <img src="images/Icon_investigator.png" alt="Enquêteur" width="250"><br>
+    <b>Enquêteur</b>
+  </a>
+
+</div>
 
 
 
