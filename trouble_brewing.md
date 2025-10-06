@@ -63,60 +63,38 @@ Celles et ceux qui savent lire les signes comprennent qu’il y a… **Trouble B
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_librarian.png" alt="Bibliothécaire" width="300">](tb_roles/bibliothecaire.md)  
   [**Bibliothécaire**](tb_roles/bibliothecaire.md)
-</div>
-
-<div style="text-align:center; display:inline-block; margin: 10px;">
+</div> <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_investigator.png" alt="Enquêteur" width="300">](tb_roles/enqueteur.md)  
   [**Enquêteur**](tb_roles/enqueteur.md)
-</div>
-
-<div style="text-align:center; display:inline-block; margin: 10px;">
+</div> <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_chef.png" alt="Cuistot" width="300">](tb_roles/cuistot.md)  
   [**Cuistot**](tb_roles/cuistot.md)
-</div>
-
-<div style="text-align:center; display:inline-block; margin: 10px;">
+</div> <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_empath.png" alt="Empathique" width="300">](tb_roles/empathique.md)  
   [**Empathique**](tb_roles/empathique.md)
-</div>
-
-<div style="text-align:center; display:inline-block; margin: 10px;">
+</div> <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_fortuneteller.png" alt="Voyante" width="300">](tb_roles/voyante.md)  
   [**Voyante**](tb_roles/voyante.md)
-</div>
-
-<div style="text-align:center; display:inline-block; margin: 10px;">
+</div> <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_undertaker.png" alt="Croque-Mort" width="300">](tb_roles/croquemort.md)  
   [**Croque-Mort**](tb_roles/croquemort.md)
-</div>
-
-<div style="text-align:center; display:inline-block; margin: 10px;">
+</div> <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_monk.png" alt="Moine" width="300">](tb_roles/moine.md)  
   [**Moine**](tb_roles/moine.md)
-</div>
-
-<div style="text-align:center; display:inline-block; margin: 10px;">
+</div> <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_ravenkeeper.png" alt="Gardien" width="300">](tb_roles/gardien.md)  
   [**Gardien**](tb_roles/gardien.md)
-</div>
-
-<div style="text-align:center; display:inline-block; margin: 10px;">
+</div> <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_virgin.png" alt="Vierge" width="300">](tb_roles/vierge.md)  
   [**Vierge**](tb_roles/vierge.md)
-</div>
-
-<div style="text-align:center; display:inline-block; margin: 10px;">
+</div> <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_slayer.png" alt="Mercenaire" width="300">](tb_roles/mercenaire.md)  
   [**Mercenaire**](tb_roles/mercenaire.md)
-</div>
-
-<div style="text-align:center; display:inline-block; margin: 10px;">
+</div> <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_soldier.png" alt="Soldat" width="300">](tb_roles/soldat.md)  
   [**Soldat**](tb_roles/soldat.md)
-</div>
-
-<div style="text-align:center; display:inline-block; margin: 10px;">
-  [<img src="./images/Icon_mayor.png" alt="Maire" width="300">](tb_roles/maire.md)  
+</div> <div style="text-align:center; display:inline-block; margin: 10px;">
+  [<img src="./images/Icon_mayor.png" alt="Maire" width="300">](tb_roles/maire.md) 
   [**Maire**](tb_roles/maire.md)
 </div>
 
