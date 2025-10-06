@@ -43,8 +43,8 @@ Celles et ceux qui savent lire les signes comprennent qu’il y a… **Trouble B
 <span style="color:red">👉 Niveau : **Débutant**. 
 <span style="color:red">*Ce module est recommandé pour les nouveaux joueurs, joueuses et Conteurs.* </span> 
 </div>
-----
 
+----
 
 
 ## [<span style="color:blue">**Villageois**</span>](villageois.md)
