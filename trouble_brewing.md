@@ -118,17 +118,8 @@ Celles et ceux qui savent lire les signes comprennent qu’il y a… **Trouble B
   [**Saint**](tb_roles/saint.md)
 </div>
 
-
----
-<div class="page-tb" markdown="1">
-
-## [<span style="color:red">**Sbires**</span>](sbires.md)  
-
-[<img src="images/Icon_poisoner.png" alt="Empoisonneur" width="300">](tb_roles/empoisonneur.md) [**Empoisonneur**](tb_roles/empoisonneur.md)  [<img src="images/Icon_spy.png" alt="Espion" width="300">](tb_roles/espion.md) [**Espion**](tb_roles/espion.md)  [<img src="images/Icon_scarletwoman.png" alt="Femme Écarlate" width="300">](tb_roles/femmeecarlate.md) [**Femme Écarlate**](tb_roles/femmeecarlate.md)  [<img src="images/Icon_baron.png" alt="Baron" width="300">](tb_roles/baron.md) [**Baron**](tb_roles/baron.md)  
-
 ---
 
-TEST
 ## [<span style="color:red">**Sbires**</span>](sbires.md)
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
