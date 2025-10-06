@@ -3,7 +3,7 @@ plugins:
   - jekyll-remote-theme
 
 title: "Wiki BotC FR"
-description: "Traductions, conseils et ressources pour Blood on the Clocktower"
+description: "Traductions - Conseils et Ressources pour le jeu Blood 🩸on the Clocktower🕰️"
 url: "https://bambipotato.github.io/botc-fr-bambi/"
 
 markdown: kramdown
