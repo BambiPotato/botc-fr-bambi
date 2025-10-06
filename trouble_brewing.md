@@ -128,6 +128,30 @@ Celles et ceux qui savent lire les signes comprennent qu’il y a… **Trouble B
 
 ---
 
+TEST
+## [<span style="color:red">**Sbires**</span>](sbires.md)
+
+<div style="text-align:center; display:inline-block; margin: 10px;">
+  [<img src="./images/Icon_poisoner.png" alt="Empoisonneur" width="300">](tb_roles/empoisonneur.md)  
+  [<span style="color:red">**Empoisonneur**</span>](tb_roles/empoisonneur.md)
+</div> <div style="text-align:center; display:inline-block; margin: 10px;">
+  [<img src="./images/Icon_spy.png" alt="Espion" width="300">](tb_roles/espion.md)  
+  [<span style="color:red">**Espion**</span>](tb_roles/espion.md)
+</div>
+
+<div style="text-align:center; display:inline-block; margin: 10px;">
+  [<img src="./images/Icon_scarletwoman.png" alt="Femme Écarlate" width="300">](tb_roles/femmeecarlate.md)  
+  [<span style="color:red">**Femme Écarlate**</span>](tb_roles/femmeecarlate.md)
+</div>
+
+<div style="text-align:center; display:inline-block; margin: 10px;">
+  [<img src="./images/Icon_baron.png" alt="Baron" width="300">](tb_roles/baron.md)  
+  [<span style="color:red">**Baron**</span>](tb_roles/baron.md)
+</div>
+
+
+---
+
 ## [<span style="color:red">**Démons**</span>](demons.md) 
 
 [<img src="images/Icon_imp.png" alt="Imp" width="300">](tb_roles/imp.md) [**Imp**](tb_roles/imp.md)  
