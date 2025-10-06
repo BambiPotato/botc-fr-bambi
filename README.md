@@ -25,19 +25,19 @@
 
 ---
 
-<p style="color:#b58b52; font-size:18px; font-style:bold;">Bienvenue sur le **Wiki Francophone** de **Blood on the Clocktower** !  
+<p style="color:#b58b52; font-size:20px; font-style:bold;">Bienvenue sur le **Wiki Francophone** de **Blood on the Clocktower** !  
 Ce projet a pour but de proposer des **traductions fidèles**, des **conseils** et des **ressources** pour aider les communautés francophones à jouer dans un cadre **inclusif 🤝 et bienveillant.** 🫶🏻
 </p>
 
 ---
 
-## 📖 Page principale
-Bienvenue sur le wiki francophone de Blood 🩸 on the Clocktower : toutes les règles, astuces et stratégies réunies au même endroit.
+## 📖 <span style="color:#b58b52; font-size:20px; font-style:bold;">Page principale
+Bienvenue sur le wiki francophone de Blood 🩸 on the Clocktower : toutes les règles, astuces et stratégies réunies au même endroit.</span>
 
 ## 📜 Règles du jeu
 
-Vous débutez sur *Blood 🩸 on the Clocktower* ?  
-- 📕 Consultez les [**Règles complètes**](regles.md) pour découvrir l’univers, la mise en place et le déroulement du jeu.
+<p align="left" style="color:#b58b52; font-size:18px; font-style:italic;">Vous débutez sur *Blood 🩸 on the Clocktower* ?  
+- 📕 Consultez les [**Règles complètes**](regles.md) pour découvrir l’univers, la mise en place et le déroulement du jeu.</p>
 
 
 ## 🔢 Mise en Place
