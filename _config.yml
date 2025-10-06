@@ -6,7 +6,13 @@ title: "Wiki BotC FR"
 description: "Traductions, conseils et ressources pour Blood on the Clocktower"
 url: "https://bambipotato.github.io/botc-fr-bambi/"
 
-# pas obligatoire, mais utile si vous avez d'autres fichiers statiques :
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  parse_block_html: true
+
+# fichiers supplémentaires à inclure dans la compilation
 include:
   - assets/css/style.css
   - assets/js/theme.js
