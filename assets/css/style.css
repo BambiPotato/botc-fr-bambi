@@ -140,3 +140,20 @@ body.light-mode .role-grid span {
   color: #000;
 }
 
+/* 🎨 Accents doré-brun (n'impacte pas les couleurs des rôles) */
+.marron {
+  color: #b58b52; /* doré-brun lisible sur fond sombre et clair */
+}
+
+.cuivre {
+  color: #d4a76a; /* cuivré un peu plus clair */
+}
+
+.phrase-ambiance {
+  color: #b58b52;
+  font-size: 18px;
+  font-style: italic;
+  text-align: center;
+  margin: 0.5rem 0;
+}
+
