@@ -47,20 +47,9 @@ Celles et ceux qui savent lire les signes comprennent qu’il y a… **Trouble B
 
 ## [<span style="color:blue">**Villageois**</span>](villageois.md)
 
-<p align="center">
-  <a href="tb_roles/lavandiere.md">
-    <img src="images/Icon_washerwoman.png" alt="Lavandière" width="260">
-  </a><br>
-  <a href="tb_roles/lavandiere.md"><b>Lavandière</b></a>
-</p>
+[<img src="images/Icon_washerwoman.png" alt="Lavandière" width="300">](tb_roles/lavandiere.md) [**Lavandière**](tb_roles/lavandiere.md) [<img src="images/Icon_librarian.png" alt="Bibliothécaire" width="300">](tb_roles/bibliothecaire.md) [**Bibliothécaire**](tb_roles/bibliothecaire.md) [<img src="images/Icon_investigator.png" alt="Enquêteur" width="300">](tb_roles/enqueteur.md) [**Enquêteur**](tb_roles/enqueteur.md) [<img src="images/Icon_chef.png" alt="Cuistot" width="300">](tb_roles/cuistot.md) [**Cuistot**](tb_roles/cuistot.md) [<img src="images/Icon_empath.png" alt="Empathique" width="300">](tb_roles/empathique.md) [**Empathique**](tb_roles/empathique.md) [<img src="images/Icon_fortuneteller.png" alt="Voyante" width="300">](tb_roles/voyante.md) [**Voyante**](tb_roles/voyante.md) [<img src="images/Icon_undertaker.png" alt="Croque-Mort" width="300">](tb_roles/croquemort.md) [**Croque-Mort**](tb_roles/croquemort.md) [<img src="images/Icon_monk.png" alt="Moine" width="300">](tb_roles/moine.md) [**Moine**](tb_roles/moine.md) [<img src="images/Icon_ravenkeeper.png" alt="Gardien" width="300">](tb_roles/gardien.md) [**Gardien**](tb_roles/gardien.md) [<img src="images/Icon_virgin.png" alt="Vierge" width="300">](tb_roles/vierge.md) [**Vierge**](tb_roles/vierge.md) [<img src="images/Icon_slayer.png" alt="Mercenaire" width="300">](tb_roles/mercenaire.md) [**Mercenaire**](tb_roles/mercenaire.md) [<img src="images/Icon_soldier.png" alt="Soldat" width="300">](tb_roles/soldat.md) [**Soldat**](tb_roles/soldat.md) [<img src="images/Icon_mayor.png" alt="Maire" width="300">](tb_roles/maire.md) [**Maire**](tb_roles/maire.md)
 
 
-## [<span style="color:blue">**Villageois**</span>](villageois.md)
-
-| [![Lavandière](images/Icon_washerwoman.png)](tb_roles/lavandiere.md) <br> [**Lavandière**](tb_roles/lavandiere.md) | [![Bibliothécaire](images/Icon_librarian.png)](tb_roles/bibliothecaire.md) <br> [**Bibliothécaire**](tb_roles/bibliothecaire.md) | [![Enquêteur](images/Icon_investigator.png)](tb_roles/enqueteur.md) <br> [**Enquêteur**](tb_roles/enqueteur.md) | [![Cuistot](images/Icon_chef.png)](tb_roles/cuistot.md) <br> [**Cuistot**](tb_roles/cuistot.md) | [![Empathique](images/Icon_empath.png)](tb_roles/empathique.md) <br> [**Empathique**](tb_roles/empathique.md) | [![Voyante](images/Icon_fortuneteller.png)](tb_roles/voyante.md) <br> [**Voyante**](tb_roles/voyante.md) |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| [![Croque-Mort](images/Icon_undertaker.png)](tb_roles/croquemort.md) <br> [**Croque-Mort**](tb_roles/croquemort.md) | [![Moine](images/Icon_monk.png)](tb_roles/moine.md) <br> [**Moine**](tb_roles/moine.md) | [![Gardien](images/Icon_ravenkeeper.png)](tb_roles/gardien.md) <br> [**Gardien**](tb_roles/gardien.md) | [![Vierge](images/Icon_virgin.png)](tb_roles/vierge.md) <br> [**Vierge**](tb_roles/vierge.md) | [![Mercenaire](images/Icon_slayer.png)](tb_roles/mercenaire.md) <br> [**Mercenaire**](tb_roles/mercenaire.md) | [![Soldat](images/Icon_soldier.png)](tb_roles/soldat.md) <br> [**Soldat**](tb_roles/soldat.md) |
-| [![Maire](images/Icon_mayor.png)](tb_roles/maire.md) <br> [**Maire**](tb_roles/maire.md) |  |  |  |  |  |
 
 
 
