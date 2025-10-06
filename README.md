@@ -6,10 +6,10 @@
 
 # 📜 <span style="color:#b58b52; font-weight:bold; font-size:40px;">**PAGE PRINCIPALE**</span>
 
-# 🚪 <span style="color:#b58b52; font-weight:bold; font-size:30px;">**Bienvenue sur le wiki francophone de Blood 🩸 on the Clocktower** 🕰️ 
+# 🚪 <span style="color:#b58b52; font-weight:bold; font-size:30px;">**Bienvenue sur le Wiki Francophone 🇫🇷 de Blood 🩸 on the Clocktower** 🕰️ 
 **Toutes les règles, astuces et stratégies réunies au même endroit**</span>
 
-    <Traductions - Conseils, Ressources, Astuces, Secrets pour le jeu Blood on the Clocktower.>
+ <span style="color:#b58b52;>Traductions - Conseils, Ressources, Astuces, Secrets pour le jeu Blood on the Clocktower.</span>
     
 Ce projet a pour but de proposer des **traductions fidèles**, des **conseils** et des **ressources** pour aider les communautés francophones à jouer dans un cadre **inclusif 🤝 et bienveillant.** 🫶🏻
 </p>
