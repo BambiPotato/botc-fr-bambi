@@ -38,9 +38,6 @@
 
 </div>
 
-
-
-
 ![Bannière BotC FR](images/banner.png)
 <button id="theme-toggle">☀️ Mode clair</button>
 
@@ -54,7 +51,7 @@
 
 ##  <span style="color:#b58b52; font-weight:bold; font-size:20px;">📜Règles du jeu</span>
 
-- 📜 <span style="color:#b58b52; font-weight:bold; font-size:20px;"> "[** Découvrez le Jeu **](blood_on_the_clocktower.md)</span>
+- 📜 <span style="color:#b58b52; font-weight:bold; font-size:20px;"> "[**Découvrez le Jeu Blood on the Clocktower**](blood_on_the_clocktower.md)</span>
 
 <span style="color:#b58b52; font-weight:italic; font-size:20px;">Vous débutez sur *Blood 🩸 on the Clocktower* ?</span>
 - 📕 <span style="color:#b58b52; font-weight:italic; font-size:20px;">Consultez les [**Règles complètes**](regles.md) pour découvrir l’univers, la mise en place et le déroulement du jeu.</span>
