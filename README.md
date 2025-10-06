@@ -4,9 +4,9 @@
   </a>
 </p>
 
-# 📚Wiki Francophone 🇫🇷 de *Blood 🩸 on the Clocktower* 🕰️
+# 📚**Wiki Francophone du jeu *Blood🩸on the Clocktower** 🕰️
 
-<span style="color:gold">Traductions - Conseils et Ressources pour le jeu Blood on the Clocktower</span>
+<span style="color:gold">Traductions - Conseils et Ressources pour le jeu Blood on the Clocktower.</span>
 
   
 ![Bannière BotC FR](images/banner.png)
