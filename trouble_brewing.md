@@ -45,7 +45,6 @@ Celles et ceux qui savent lire les signes comprennent qu’il y a… **Trouble B
 </div>
 ----
 
-TEST 1
 ## [<span style="color:blue">**Villageois**</span>](villageois.md)
 
 | [![Lavandière](images/Icon_washerwoman.png)](tb_roles/lavandiere.md) <br> [**Lavandière**](tb_roles/lavandiere.md) | [![Bibliothécaire](images/Icon_librarian.png)](tb_roles/bibliothecaire.md) <br> [**Bibliothécaire**](tb_roles/bibliothecaire.md) | [![Enquêteur](images/Icon_investigator.png)](tb_roles/enqueteur.md) <br> [**Enquêteur**](tb_roles/enqueteur.md) | [![Cuistot](images/Icon_chef.png)](tb_roles/cuistot.md) <br> [**Cuistot**](tb_roles/cuistot.md) | [![Empathique](images/Icon_empath.png)](tb_roles/empathique.md) <br> [**Empathique**](tb_roles/empathique.md) | [![Voyante](images/Icon_fortuneteller.png)](tb_roles/voyante.md) <br> [**Voyante**](tb_roles/voyante.md) |
