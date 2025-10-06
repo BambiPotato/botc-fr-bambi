@@ -5,7 +5,7 @@
 </p>
 
 # 📚<span style="color:gold">**Wiki Francophone🇫🇷 du jeu Blood🩸on the Clocktower**</span> 🕰️
-<span style="color:gold">Traductions - Conseils et Ressources pour le jeu Blood on the Clocktower.</span>  [/images/Icon_fortuneteller.png]
+<span style="color:gold">Traductions - Conseils et Ressources pour le jeu Blood on the Clocktower.</span> [[Bannière BotC FR](../images/Icon_fortuneteller.png)
 ![Bannière BotC FR](images/banner.png)
 <button id="theme-toggle">☀️ Mode clair</button>
 
