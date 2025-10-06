@@ -15,7 +15,7 @@
 </p>
     
 <p class="phrase-ambiance">    
-    "Le sang se mêle au clair de lune, et les secrets ne dorment jamais..." 
+      "Le sang se mêle au clair de lune, et les secrets ne dorment jamais..." 
 </p>
 
 
