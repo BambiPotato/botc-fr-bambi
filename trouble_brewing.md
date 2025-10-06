@@ -51,19 +51,6 @@ Celles et ceux qui savent lire les signes comprennent qu’il y a… **Trouble B
 
 
 
-<div align="center">
-
-  <a href="tb_roles/lavandiere.html">
-    <img src="images/Icon_washerwoman.png" alt="Lavandière" width="300"><br> <div align="center">
-  <a href="tb_roles/bibliothecaire.html">
-    <img src="images/Icon_librarian.png" alt="Bibliothécaire" width="300"><br>
-    <b>Bibliothécaire</b>
-  </a>
-</div>
-    <b>Lavandière</b>
-  </a>
-
-</div>
 
 
 
