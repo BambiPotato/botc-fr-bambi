@@ -54,9 +54,10 @@
 
 ##  <span style="color:#b58b52; font-weight:bold; font-size:20px;">📜Règles du jeu</span>
 
+- 📜 <span style="color:#b58b52; font-weight:bold; font-size:20px;"> "[** Découvrez le Jeu **](blood_on_the_clocktower.md)</span>
+
 <span style="color:#b58b52; font-weight:italic; font-size:20px;">Vous débutez sur *Blood 🩸 on the Clocktower* ?</span>
 - 📕 <span style="color:#b58b52; font-weight:italic; font-size:20px;">Consultez les [**Règles complètes**](regles.md) pour découvrir l’univers, la mise en place et le déroulement du jeu.</span>
-
 
 ## <span style="color:#b58b52; font-weight:bold; font-size:20px;">🔢 Mise en Place</span>
 
@@ -66,19 +67,12 @@
 
 ## <span style="color:#b58b52; font-weight:bold; font-size:20px;">📘 Glossaire</span>  
 
-- 📘 [Glossaire des termes](glossaire.md)
+- 📘 <span style="color:#b58b52; font-weight:bold; font-size:20px;">[Glossaire des termes](glossaire.md)</span>  
 
 ---
 
 ##  <span style="color:#b58b52; font-weight:bold; font-size:20px;">🎭Catégories</span>  
 
-<p align="left">
-  <a href="https://bambipotato.github.io/botc-fr-bambi/">
-    <img src="images/logo.png" alt="Logo BotC FR" width="300">
-  </a>
-</p>
-
----
 - [<span style="color:blue">**Villageois**</span>](villageois.md) 
 - [<span style="color:blue">**Étrangers**</span>](etrangers.md) 
 - [<span style="color:red">**Sbires**</span>](sbires.md) 
@@ -86,15 +80,8 @@
 - [<span style="color:purple">**Voyageurs**</span>](voyageurs/voyageurs.md)
 
 ---
-## 👺Rôles par Édition
+## <span style="color:#b58b52; font-weight:bold; font-size:20px;">👺Rôles par Édition</span> 
 
-<p align="left">
-  <a href="https://bambipotato.github.io/botc-fr-bambi/">
-    <img src="images/logo.png" alt="Logo BotC FR" width="300">
-  </a>
-</p>
-
----
 [<img src="images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="300">](trouble_brewing.md) [**TROUBLE BREWING**](trouble_brewing.md) 
 
 [<img src="images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="300">](bmr.md) [**Bad Moon Rising**](bmr.md)  
@@ -113,7 +100,7 @@
 
 
 ---
-## 🛠️ Ressources
+##  <span style="color:#b58b52; font-weight:bold; font-size:20px;">🛠️Ressources</span> 
 - 🧮 [Outil 🔧 officiel de création de scripts](https://script.bloodontheclocktower.com/)  
 - 🧪 [Générateur d’informations pour le Savant🦽](https://savant.thegrim.gg/)  
 - 📚 [Wiki Officel en anglais](https://wiki.bloodontheclocktower.com/Main_Page)
@@ -121,8 +108,8 @@
  
 ---
 
-## 🔗 Réseaux Sociaux  
-Rejoignez le Discord de **BambiBluePotato** pour jouer en ligne, partager de bons moments et participer à nos parties streamées.  
+## <span style="color:#b58b52; font-weight:bold; font-size:20px;">🔗 Réseaux Sociaux</span>   
+<span style="color:#b58b52; font-weight:bold; font-size:20px;">Rejoignez le Discord de **BambiBluePotato** pour jouer en ligne, partager de bons moments et participer à nos parties streamées.</span>   
 - 💬 [Discord](https://discord.gg/tGDVmZfZpE)  
 - 🎥 [YouTube](https://www.youtube.com/@Bambipotato)  
 - 🎮 [Twitch](https://www.twitch.tv/bambibluepotato)  
@@ -131,22 +118,21 @@ Rejoignez le Discord de **BambiBluePotato** pour jouer en ligne, partager de bon
 
 ---
 
-## 🩸🕰️ Jouer en personne
+## <span style="color:#b58b52; font-weight:bold; font-size:20px;">🩸🕰️ Jouer en personne</span>
 
-Vous voulez découvrir *Blood 🩸on the Clocktower🕰️* autour d’une vraie table ?  
-Rejoignez le groupe **Meetup Blood on the Clocktower Paris**, mené par Pierre :  
+<span style="color:#b58b52; font-weight:bold; font-size:20px;">Vous voulez découvrir *Blood 🩸on the Clocktower🕰️* autour d’une vraie table ?</span>  
+<span style="color:#b58b52; font-weight:bold; font-size:20px;">Rejoignez le groupe **Meetup Blood on the Clocktower Paris**, mené par Pierre : </span>   
 
 👉 [Blood on the Clocktower Paris – Meetup](https://www.meetup.com/blood-on-the-clocktower-paris/)  
 
-Organisateur : **Pierre**  
+<span style="color:#b58b52; font-weight:bold; font-size:20px;"> : **Pierre**</span>   
 
 ---
 
-🌎 Qui sommes-nous ?
+<span style="color:#b58b52; font-weight:bold; font-size:20px;">Qui sommes-nous ?</span> 
+<span style="color:#b58b52; font-weight:bold; font-size:20px;">Notre but est de partager *Blood on the Clocktower* en français et de le rendre accessible à toutes et à tous : que vous soyez débutant·e, joueur·se confirmé·e ou membre d’une nouvelle communauté, vous êtes les bienvenu·e·s.</span> 
 
-Notre but est de partager *Blood on the Clocktower* en français et de le rendre accessible à toutes et à tous : que vous soyez débutant·e, joueur·se confirmé·e ou membre d’une nouvelle communauté, vous êtes les bienvenu·e·s.
-
-✨ Ce projet a été initié par **BambiPotato**, mais il vit grâce à l’implication de nombreuses joueuses et joueurs passionnés, n’hésitez pas à proposer vos idées ou vos corrections.
+✨ <span style="color:#b58b52; font-weight:bold; font-size:20px;">Ce projet vit grâce à l’implication de nombreuses joueuses et joueurs passionnés, n’hésitez pas à proposer vos idées ou vos corrections.</span> 
 
 ---
 
