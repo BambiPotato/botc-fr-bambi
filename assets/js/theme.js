@@ -21,5 +21,15 @@ document.addEventListener("DOMContentLoaded", () => {
       localStorage.setItem("theme", "dark");
       btn.textContent = "☀️ Mode clair";
     }
+  });// 🔁 Redirection automatique des liens .md vers la version sans .md
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll("a[href$='.md']").forEach(link => {
+    // Récupère le lien complet
+    const originalHref = link.getAttribute("href");
+    // Enlève l'extension .md
+    const newHref = originalHref.replace(/\.md$/, '');
+    link.setAttribute("href", newHref);
   });
+});
+
 });
