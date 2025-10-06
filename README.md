@@ -148,6 +148,42 @@
   </p>
 
 </div>
+----
+<div style="text-align:left; margin:40px auto; padding:25px; width:85%; background:rgba(181,139,82,0.15); border:1px solid rgba(212,167,106,0.4); border-radius:15px; box-shadow:0 0 10px rgba(212,167,106,0.3); line-height:1.8;">
+
+  <h2 style="color:#d4a76a; font-size:34px; font-weight:bold; text-shadow:1px 1px 4px #000;">
+    🩸🕰️ Jouer en personne
+  </h2>
+
+  <p style="font-size:20px; color:#e0c99d;">
+    Vous voulez découvrir <em>Blood 🩸on the Clocktower🕰️</em> autour d’une vraie table ?<br>
+    Rejoignez le groupe <span style="font-weight:bold; color:#d4a76a;">Meetup Blood on the Clocktower Paris</span>,
+    mené par <span style="font-weight:bold; color:#d4a76a;">Pierre</span> 💫
+  </p>
+
+  <p style="margin-top:10px; font-size:20px;">
+    👉 <a href="https://www.meetup.com/blood-on-the-clocktower-paris/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">
+      Blood on the Clocktower Paris – Meetup
+    </a>
+  </p>
+
+  <hr style="width:50%; margin:30px 0; border:1px solid #b58b52; opacity:0.6;">
+
+  <h3 style="color:#b58b52; font-size:28px; font-weight:bold;">Qui sommes-nous ?</h3>
+
+  <p style="font-size:20px; color:#e0c99d;">
+    Notre but est de partager <span style="color:#d4a76a; font-weight:bold;">Blood on the Clocktower</span> en français
+    et de le rendre accessible à toutes et à tous :<br>
+    que vous soyez <em>débutant·e</em>, <em>joueur·se confirmé·e</em> ou membre d’une nouvelle communauté,
+    <span style="color:#d4a76a; font-weight:bold;">vous êtes les bienvenu·e·s</span>.
+  </p>
+
+  <p style="font-size:19px; color:#e0c99d; margin-top:20px;">
+    ✨ Ce projet vit grâce à l’implication de nombreuses joueuses et joueurs passionnés.<br>
+    N’hésitez pas à proposer vos <span style="color:#d4a76a; font-weight:bold;">idées</span> ou vos <span style="color:#d4a76a; font-weight:bold;">corrections</span>.
+  </p>
+
+</div>
 
 
 
