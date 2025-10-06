@@ -18,3 +18,7 @@ include:
   - assets/js/theme.js
   - _includes/head-custom.html
  
+# Autoriser les sous-dossiers à être traités comme des pages
+collections:
+  tb_roles:
+    output: true
