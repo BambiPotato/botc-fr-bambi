@@ -56,94 +56,68 @@ Celles et ceux qui savent lire les signes comprennent qu’il y a… **Trouble B
 
 ------
 <div style="text-align:center; display:inline-block; margin: 10px;">
-  <a href="tb_roles/lavandiere.md">
-    <img src="images/Icon_washerwoman.png" alt="Lavandière" width="300">
-  </a><br>
-  <a href="tb_roles/lavandiere.md"><b>Lavandière</b></a>
+  [<img src="./images/Icon_washerwoman.png" alt="Lavandière" width="300">](tb_roles/lavandiere.md)  
+  [**Lavandière**](tb_roles/lavandiere.md)
 </div>
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
-  <a href="tb_roles/bibliothecaire.md">
-    <img src="images/Icon_librarian.png" alt="Bibliothécaire" width="300">
-  </a><br>
-  <a href="tb_roles/bibliothecaire.md"><b>Bibliothécaire</b></a>
+  [<img src="./images/Icon_librarian.png" alt="Bibliothécaire" width="300">](tb_roles/bibliothecaire.md)  
+  [**Bibliothécaire**](tb_roles/bibliothecaire.md)
 </div>
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
-  <a href="tb_roles/enqueteur.md">
-    <img src="images/Icon_investigator.png" alt="Enquêteur" width="300">
-  </a><br>
-  <a href="tb_roles/enqueteur.md"><b>Enquêteur</b></a>
+  [<img src="./images/Icon_investigator.png" alt="Enquêteur" width="300">](tb_roles/enqueteur.md)  
+  [**Enquêteur**](tb_roles/enqueteur.md)
 </div>
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
-  <a href="tb_roles/cuistot.md">
-    <img src="images/Icon_chef.png" alt="Cuistot" width="300">
-  </a><br>
-  <a href="tb_roles/cuistot.md"><b>Cuistot</b></a>
+  [<img src="./images/Icon_chef.png" alt="Cuistot" width="300">](tb_roles/cuistot.md)  
+  [**Cuistot**](tb_roles/cuistot.md)
 </div>
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
-  <a href="tb_roles/empathique.md">
-    <img src="images/Icon_empath.png" alt="Empathique" width="300">
-  </a><br>
-  <a href="tb_roles/empathique.md"><b>Empathique</b></a>
+  [<img src="./images/Icon_empath.png" alt="Empathique" width="300">](tb_roles/empathique.md)  
+  [**Empathique**](tb_roles/empathique.md)
 </div>
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
-  <a href="tb_roles/voyante.md">
-    <img src="images/Icon_fortuneteller.png" alt="Voyante" width="300">
-  </a><br>
-  <a href="tb_roles/voyante.md"><b>Voyante</b></a>
+  [<img src="./images/Icon_fortuneteller.png" alt="Voyante" width="300">](tb_roles/voyante.md)  
+  [**Voyante**](tb_roles/voyante.md)
 </div>
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
-  <a href="tb_roles/croquemort.md">
-    <img src="images/Icon_undertaker.png" alt="Croque-Mort" width="300">
-  </a><br>
-  <a href="tb_roles/croquemort.md"><b>Croque-Mort</b></a>
+  [<img src="./images/Icon_undertaker.png" alt="Croque-Mort" width="300">](tb_roles/croquemort.md)  
+  [**Croque-Mort**](tb_roles/croquemort.md)
 </div>
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
-  <a href="tb_roles/moine.md">
-    <img src="images/Icon_monk.png" alt="Moine" width="300">
-  </a><br>
-  <a href="tb_roles/moine.md"><b>Moine</b></a>
+  [<img src="./images/Icon_monk.png" alt="Moine" width="300">](tb_roles/moine.md)  
+  [**Moine**](tb_roles/moine.md)
 </div>
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
-  <a href="tb_roles/gardien.md">
-    <img src="images/Icon_ravenkeeper.png" alt="Gardien" width="300">
-  </a><br>
-  <a href="tb_roles/gardien.md"><b>Gardien</b></a>
+  [<img src="./images/Icon_ravenkeeper.png" alt="Gardien" width="300">](tb_roles/gardien.md)  
+  [**Gardien**](tb_roles/gardien.md)
 </div>
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
-  <a href="tb_roles/vierge.md">
-    <img src="images/Icon_virgin.png" alt="Vierge" width="300">
-  </a><br>
-  <a href="tb_roles/vierge.md"><b>Vierge</b></a>
+  [<img src="./images/Icon_virgin.png" alt="Vierge" width="300">](tb_roles/vierge.md)  
+  [**Vierge**](tb_roles/vierge.md)
 </div>
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
-  <a href="tb_roles/mercenaire.md">
-    <img src="images/Icon_slayer.png" alt="Mercenaire" width="300">
-  </a><br>
-  <a href="tb_roles/mercenaire.md"><b>Mercenaire</b></a>
+  [<img src="./images/Icon_slayer.png" alt="Mercenaire" width="300">](tb_roles/mercenaire.md)  
+  [**Mercenaire**](tb_roles/mercenaire.md)
 </div>
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
-  <a href="tb_roles/soldat.md">
-    <img src="images/Icon_soldier.png" alt="Soldat" width="300">
-  </a><br>
-  <a href="tb_roles/soldat.md"><b>Soldat</b></a>
+  [<img src="./images/Icon_soldier.png" alt="Soldat" width="300">](tb_roles/soldat.md)  
+  [**Soldat**](tb_roles/soldat.md)
 </div>
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
-  <a href="tb_roles/maire.md">
-    <img src="images/Icon_mayor.png" alt="Maire" width="300">
-  </a><br>
-  <a href="tb_roles/maire.md"><b>Maire</b></a>
+  [<img src="./images/Icon_mayor.png" alt="Maire" width="300">](tb_roles/maire.md)  
+  [**Maire**](tb_roles/maire.md)
 </div>
 
 
