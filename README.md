@@ -4,6 +4,7 @@
   </a>
 </p>
 
+# 📚Wiki Francophone 🇫🇷 de *Blood 🩸 on the Clocktower* 🕰️
   
 ![Bannière BotC FR](images/banner.png)
 <button id="theme-toggle">☀️ Mode clair</button>
@@ -14,9 +15,7 @@
   </a>
 </p>
 
-# 📚Wiki Francophone 🇫🇷 de *Blood 🩸 on the Clocktower* 🕰️
 ---
-
 
 Bienvenue sur le **Wiki Francophone** de **Blood on the Clocktower** !  
 Ce projet a pour but de proposer des **traductions fidèles**, des **conseils** et des **ressources** pour aider les communautés francophones à jouer dans un cadre **inclusif 🤝 et bienveillant.** 🫶🏻
