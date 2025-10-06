@@ -56,10 +56,6 @@ Celles et ceux qui savent lire les signes comprennent qu’il y a… **Trouble B
 
 
 
-| [![Lavandière](images/Icon_washerwoman.png)](tb_roles/lavandiere.md) <br> [**Lavandière**](tb_roles/lavandiere.md) | [![Bibliothécaire](images/Icon_librarian.png)](tb_roles/bibliothecaire.md) <br> [**Bibliothécaire**](tb_roles/bibliothecaire.md) | [![Enquêteur](images/Icon_investigator.png)](tb_roles/enqueteur.md) <br> [**Enquêteur**](tb_roles/enqueteur.md) | [![Cuistot](images/Icon_chef.png)](tb_roles/cuistot.md) <br> [**Cuistot**](tb_roles/cuistot.md) | [![Empathique](images/Icon_empath.png)](tb_roles/empathique.md) <br> [**Empathique**](tb_roles/empathique.md) | [![Voyante](images/Icon_fortuneteller.png)](tb_roles/voyante.md) <br> [**Voyante**](tb_roles/voyante.md) |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| [![Croque-Mort](images/Icon_undertaker.png)](tb_roles/croquemort.md) <br> [**Croque-Mort**](tb_roles/croquemort.md) | [![Moine](images/Icon_monk.png)](tb_roles/moine.md) <br> [**Moine**](tb_roles/moine.md) | [![Gardien](images/Icon_ravenkeeper.png)](tb_roles/gardien.md) <br> [**Gardien**](tb_roles/gardien.md) | [![Vierge](images/Icon_virgin.png)](tb_roles/vierge.md) <br> [**Vierge**](tb_roles/vierge.md) | [![Mercenaire](images/Icon_slayer.png)](tb_roles/mercenaire.md) <br> [**Mercenaire**](tb_roles/mercenaire.md) | [![Soldat](images/Icon_soldier.png)](tb_roles/soldat.md) <br> [**Soldat**](tb_roles/soldat.md) |
-| [![Maire](images/Icon_mayor.png)](tb_roles/maire.md) <br> [**Maire**](tb_roles/maire.md) |  |  |  |  |  |
 
 
 ---
