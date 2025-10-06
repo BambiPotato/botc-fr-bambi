@@ -24,14 +24,8 @@
 
 </div>
 
-    
-Ce projet a pour but de proposer des **traductions fidèles**, des **conseils** et des **ressources** pour aider les communautés francophones à jouer dans un cadre **inclusif 🤝 et bienveillant.** 🫶🏻
 
-    
 
-  
-     <span style="color:#b58b52; "*Le sang se mêle au clair de lune, et les secrets ne dorment jamais..*." </span>
-</p>
 
 
 
