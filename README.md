@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# 📚<span style="color:#b58b52; font-weight:bold; font-size:30px;">**Wiki Francophone🇫🇷 du jeu Blood🩸on the Clocktower**</span>
+# 📚<span style="color:#b58b52; font-weight:bold; font-size:45px;">**Wiki Francophone🇫🇷 du jeu Blood🩸on the Clocktower**</span>
 
   <p align="left" style="color:#b58b52; font-size:18px; font-style:italic;">
     Traductions - Conseils et Ressources pour le jeu Blood on the Clocktower.
@@ -25,8 +25,9 @@
 
 ---
 
-Bienvenue sur le **Wiki Francophone** de **Blood on the Clocktower** !  
+ <p align="left" style="color:#b58b52; font-size:18px; font-style:bold;">Bienvenue sur le **Wiki Francophone** de **Blood on the Clocktower** !  
 Ce projet a pour but de proposer des **traductions fidèles**, des **conseils** et des **ressources** pour aider les communautés francophones à jouer dans un cadre **inclusif 🤝 et bienveillant.** 🫶🏻
+</p>
 
 ---
 
