@@ -5,18 +5,25 @@
 </p>
 
 #    
-  <span style="color:#b58b52; font-weight:bold; font-size:40px;">
+ <!-- 🏠 PAGE D’ACCUEIL - WIKI BOTC FR -->
+
+<div style="text-align:center; margin-top:40px;">
+
+  <h1 style="color:#b58b52; font-size:46px; font-weight:bold; text-shadow:2px 2px 6px #000;">
     📜 PAGE PRINCIPALE
-  </span>
-</h1>
+  </h1>
 
- <h1 style="text-align:center;">
-  🚪<span style="color:#b58b52; font-weight:bold; font-size:40px;">
-    Bienvenue sur le Wiki Francophone 🇫🇷 de Blood 🩸 on the Clocktower 🕰️
-  </span>
+  <h2 style="color:#b58b52; font-size:36px; font-weight:bold; text-shadow:2px 2px 6px #000; margin-top:20px;">
+    🚪 Bienvenue sur le Wiki Francophone 🇫🇷 de <br>
+    <span style="color:#d4a76a;">Blood 🩸 on the Clocktower 🕰️</span>
+  </h2>
 
+  <p style="font-size:20px; color:#e0c99d; font-style:italic; margin-top:15px;">
+    « Explorez les rôles, les stratégies et les secrets de chaque édition. »
+  </p>
 
-   <p class="phrase-ambiance"> Traductions - Conseils, Ressources, Astuces, Secrets pour le jeu Blood on the Clocktower.</p>
+</div>
+
     
 <p class="phrase-ambiance">Ce projet a pour but de proposer des **traductions fidèles**, des **conseils** et des **ressources** pour aider les communautés francophones à jouer dans un cadre **inclusif 🤝 et bienveillant.** 🫶🏻
 </p>
