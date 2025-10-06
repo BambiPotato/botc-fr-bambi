@@ -32,7 +32,7 @@
 
 ---
 
-## 📜 Règles du jeu
+##  <span style="color:#b58b52; font-weight:bold; font-size:20px;">📜Règles du jeu</span>
 
 <p align="left" style="color:#b58b52; font-size:18px; font-style:italic;">Vous débutez sur *Blood 🩸 on the Clocktower* ?  
 - 📕 Consultez les [**Règles complètes**](regles.md) pour découvrir l’univers, la mise en place et le déroulement du jeu.</p>
