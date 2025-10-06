@@ -8,7 +8,8 @@
 
   <p align="left" style="color:#b58b52; font-size:18px; font-style:italic;">
     Traductions - Conseils et Ressources pour le jeu Blood on the Clocktower.
-   > "Le sang se mêle au clair de lune, et les secrets ne dorment jamais..." 
+    
+    "Le sang se mêle au clair de lune, et les secrets ne dorment jamais..." 
 </p>
 
 
