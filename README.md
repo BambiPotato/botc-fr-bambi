@@ -121,6 +121,7 @@
 <span style="color:#b58b52; font-weight:bold; font-size:20px;">Rejoignez le groupe **Meetup Blood on the Clocktower Paris**, mené par **Pierre** </span>   
 👉 [Blood on the Clocktower Paris – Meetup](https://www.meetup.com/blood-on-the-clocktower-paris/)  
 
+
 ---
 
 <span style="color:#b58b52; font-weight:bold; font-size:20px;">Qui sommes-nous ?</span> 
