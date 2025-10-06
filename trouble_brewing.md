@@ -89,11 +89,11 @@ Celles et ceux qui savent lire les signes comprennent qu’il y a… **Trouble B
   [<img src="./images/Icon_soldier.png" alt="Soldat" width="300">](tb_roles/soldat.md)  
   [**Soldat**](tb_roles/soldat.md)
 </div> 
+
 <div style="text-align:center; display:inline-block; margin: 10px;">
-  [<img src="./images/Icon_mayor.png" alt="Maire" width="300">](tb_roles/maire.md) 
+  [<img src="./images/Icon_mayor.png" alt="Maire" width="300">](tb_roles/maire.md)  
   [**Maire**](tb_roles/maire.md)
 </div>
-
 
 
 ------
