@@ -50,9 +50,9 @@ Celles et ceux qui savent lire les signes comprennent qu’il y a… **Trouble B
 ## [<span style="color:blue">**Villageois**</span>](villageois.md)
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
-  [<img src="./images/Icon_washerwoman.png" alt="Lavandière" width="300">](tb_roles/lavandiere.md)  
-  [**Lavandière**](tb_roles/lavandiere.md)
+  [<img src="./images/Icon_washerwoman.png" alt="Lavandière" width="300">](tb_roles/lavandiere.md)[**Lavandière**](tb_roles/lavandiere.md)
 </div>
+
 
 
 
