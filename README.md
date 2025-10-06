@@ -25,6 +25,18 @@
 </div>
 
 
+<div style="text-align:center; margin-top:25px;">
+
+  <p style="font-size:22px; color:#e0c99d; font-style:italic; line-height:1.8;">
+    Ce projet a pour but de proposer des
+    <span style="font-weight:bold; color:#d4a76a;">traductions fidèles</span>,
+    des <span style="font-weight:bold; color:#d4a76a;">conseils</span> et des
+    <span style="font-weight:bold; color:#d4a76a;">ressources</span>
+    pour aider les communautés francophones à jouer dans un cadre
+    <span style="font-weight:bold; color:#d4a76a;">inclusif 🤝 et bienveillant 🫶🏻</span>.
+  </p>
+
+</div>
 
 
 
@@ -52,13 +64,13 @@
 
 ---
 
-## 📘 Glossaire  
+## <span style="color:#b58b52; font-weight:bold; font-size:20px;">📘 Glossaire</span>  
 
 - 📘 [Glossaire des termes](glossaire.md)
 
 ---
 
-##  🎭Catégories 
+##  <span style="color:#b58b52; font-weight:bold; font-size:20px;">🎭Catégories</span>  
 
 <p align="left">
   <a href="https://bambipotato.github.io/botc-fr-bambi/">
