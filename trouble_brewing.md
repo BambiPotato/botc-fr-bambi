@@ -139,6 +139,14 @@ Celles et ceux qui savent lire les signes comprennent qu’il y a… **Trouble B
   [<img src="./images/Icon_baron.png" alt="Baron" width="300">](tb_roles/baron.md)  
   [<span style="color:red">**Baron**</span>](tb_roles/baron.md)
 </div>
+---
+TEST DEMON
+## [<span style="color:red">**Démons**</span>](demons.md)
+
+<div style="text-align:center; display:inline-block; margin: 10px;">
+  [<img src="./images/Icon_imp.png" alt="Imp" width="300">](tb_roles/imp.md)  
+  [<span style="color:red">**Imp**</span>](tb_roles/imp.md)
+</div>
 
 
 ---
