@@ -4,12 +4,11 @@
   </a>
 </p>
 
-# 📚<span style="color:#b58b52; font-weight:bold; font-size:30px;">
-  **Wiki Francophone🇫🇷 du jeu Blood🩸on the Clocktower**</span>
+# 📚<span style="color:#b58b52; font-weight:bold; font-size:30px;">**Wiki Francophone🇫🇷 du jeu Blood🩸on the Clocktower**</span>
 
   <p align="left" style="color:#b58b52; font-size:18px; font-style:italic;">
-  "Le sang se mêle au clair de lune, et les secrets ne dorment jamais..." 
     Traductions - Conseils et Ressources pour le jeu Blood on the Clocktower.
+   > "Le sang se mêle au clair de lune, et les secrets ne dorment jamais..." 
 </p>
 
 
