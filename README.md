@@ -42,13 +42,13 @@
 
 ##  <span style="color:#b58b52; font-weight:bold; font-size:20px;">📜Règles du jeu</span>
 
-<p align="left" style="color:#b58b52; font-size:18px; font-style:italic;">Vous débutez sur *Blood 🩸 on the Clocktower* ?  
-- 📕 Consultez les [**Règles complètes**](regles.md) pour découvrir l’univers, la mise en place et le déroulement du jeu.</p>
+<span style="color:#b58b52; font-weight:italic; font-size:20px;">Vous débutez sur *Blood 🩸 on the Clocktower* ?</span>
+- 📕 <span style="color:#b58b52; font-weight:italic; font-size:20px;">Consultez les [**Règles complètes**](regles.md) pour découvrir l’univers, la mise en place et le déroulement du jeu.</span>
 
 
-## 🔢 Mise en Place
+## <span style="color:#b58b52; font-weight:bold; font-size:20px;">🔢 Mise en Place</span>
 
-- ⚖️ [**Répartition du Village**](repartition.md)  
+- ⚖️<span style="color:#b58b52; font-weight:bold; font-size:20px;"> [**Répartition du Village**](repartition.md) </span>  
 
 ---
 
