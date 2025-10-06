@@ -79,4 +79,64 @@ img {
 }
 .page-tb a:hover { color: #ff4d4d; }
 
+/* 🎭 Mise en page des rôles (icônes + noms) */
+.role-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 24px;
+  margin: 30px 0;
+}
+
+.role-grid a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-decoration: none;
+  color: inherit;
+  width: 140px; /* largeur fixe pour un alignement parfait */
+  transition: transform 0.2s ease, filter 0.2s ease;
+}
+
+.role-grid a:hover {
+  transform: scale(1.07);
+  filter: brightness(1.2);
+}
+
+.role-grid img {
+  width: 120px; /* taille des icônes */
+  height: auto;
+  border-radius: 10px;
+  border: 2px solid transparent;
+  transition: border-color 0.2s ease;
+}
+
+/* 🩵 Villageois */
+.role-grid a.villageois:hover img {
+  border-color: #007bff;
+}
+
+/* 🟣 Étrangers */
+.role-grid a.etranger:hover img {
+  border-color: #a259ff;
+}
+
+/* 🔴 Sbires et Démons */
+.role-grid a.sbire:hover img,
+.role-grid a.demon:hover img {
+  border-color: #ff3b3b;
+}
+
+.role-grid span {
+  margin-top: 8px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.05rem;
+  color: #f0f0f0;
+}
+
+/* Adaptation au mode clair */
+body.light-mode .role-grid span {
+  color: #000;
+}
 
