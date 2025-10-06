@@ -106,7 +106,7 @@
 ---
 
 ## <span style="color:#b58b52; font-weight:bold; font-size:20px;">🔗 Réseaux Sociaux</span>   
-<span style="color:#b58b52; font-weight:bold; font-size:20px;">Rejoignez le Discord de **BambiBluePotato** pour jouer en ligne, partager de bons moments et participer à nos parties streamées.</span>   
+<span style="color:#b58b52; font-weight:bold; font-size:20px;">Rejoignez Discord pour jouer en ligne, partager de bons moments et participer à nos parties streamées.</span>   
 - 💬 [Discord](https://discord.gg/tGDVmZfZpE)  
 - 🎥 [YouTube](https://www.youtube.com/@Bambipotato)  
 - 🎮 [Twitch](https://www.twitch.tv/bambibluepotato)  
@@ -118,11 +118,8 @@
 ## <span style="color:#b58b52; font-weight:bold; font-size:20px;">🩸🕰️ Jouer en personne</span>
 
 <span style="color:#b58b52; font-weight:bold; font-size:20px;">Vous voulez découvrir *Blood 🩸on the Clocktower🕰️* autour d’une vraie table ?</span>  
-<span style="color:#b58b52; font-weight:bold; font-size:20px;">Rejoignez le groupe **Meetup Blood on the Clocktower Paris**, mené par Pierre : </span>   
-
+<span style="color:#b58b52; font-weight:bold; font-size:20px;">Rejoignez le groupe **Meetup Blood on the Clocktower Paris**, mené par **Pierre** </span>   
 👉 [Blood on the Clocktower Paris – Meetup](https://www.meetup.com/blood-on-the-clocktower-paris/)  
-
-<span style="color:#b58b52; font-weight:bold; font-size:20px;"> : **Pierre**</span>   
 
 ---
 
