@@ -5,7 +5,7 @@
 </p>
 
 
-# 🕰️ Qu’est-ce que *Blood on the Clocktower* ?  
+# 🕰️ Qu’est-ce que *Blood on the Clocktower* ?
 
 *Blood on the Clocktower* est un jeu de déduction social, dans la lignée des *Loups-Garous 🐺 de Thiercelieux* ou *Mafia*, mais avec des mécaniques modernes et inclusives.  
 
