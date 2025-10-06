@@ -100,14 +100,6 @@ Celles et ceux qui savent lire les signes comprennent qu’il y a… **Trouble B
 
 ## [<span style="color:blue">**Étrangers**</span>](etrangers.md)  
 
-[<img src="images/Icon_butler.png" alt="Majordome" width="300">](tb_roles/majordome.md) [**Majordome**](tb_roles/majordome.md)  [<img src="images/Icon_drunk-1.png" alt="Ivrogne" width="300">](tb_roles/ivrogne.md) [**Ivrogne**](tb_roles/ivrogne.md)  [<img src="images/Icon_recluse-1.png" alt="Reclus" width="300">](tb_roles/reclus.md) [**Reclus**](tb_roles/reclus.md)  [<img src="images/Icon_saint.png" alt="Saint" width="300">](tb_roles/saint.md) [**Saint**](tb_roles/saint.md)  
-
-
------
-test
-## [<span style="color:blue">**Étrangers**</span>](etrangers.md)
-
-## [<span style="color:blue">**Étrangers**</span>](etrangers.md)
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_butler.png" alt="Majordome" width="300">](tb_roles/majordome.md)  
@@ -117,7 +109,9 @@ test
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_drunk-1.png" alt="Ivrogne" width="300">](tb_roles/ivrogne.md)  
   [**Ivrogne**](tb_roles/ivrogne.md)
-</div> <div style="text-align:center; display:inline-block; margin: 10px;">
+</div> 
+
+<div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_recluse-1.png" alt="Reclus" width="300">](tb_roles/reclus.md)  
   [**Reclus**](tb_roles/reclus.md)
 </div>
