@@ -11,20 +11,23 @@
 [<img src="images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="300">](bmr.md) [**Bad Moon Rising**](bmr.md)  
 
 <!-- 🌙 BAD MOON RISING -->
+<div style="display:flex; align-items:center; margin-bottom:10px;">
+  <!-- Logo aligné à gauche -->
+  <div style="flex:0 0 auto; margin-right:20px;">
+    [<img src="./images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="320" style="border-radius:8px;">](bmr.md)
+  </div>
 
-<h1 style="color:#ffa64d; font-weight:bold; font-size:40px;">🌙 Bad Moon Rising</h1>
-
-<div style="text-align:center; margin-bottom:10px;">
-  <a href="./bmr.md">
-    <img src="./images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="320" style="border-radius:8px;">
-  </a><br>
-  <a href="./bmr.md" style="color:#ffa64d; font-weight:bold; font-size:22px; text-decoration:none;">Bad Moon Rising</a>
+  <!-- Nom centré en dessous -->
+  <div style="text-align:center; flex:1;">
+    [**<span style="color:#ffa64d; font-size:28px;">Bad Moon Rising</span>**](bmr.md)
+  </div>
 </div>
 
 <!-- ✨ Citation -->
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:0;">
   « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
 </p>
+
 
 <hr>
 
