@@ -28,7 +28,6 @@
   « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
 </p>
 
-
 <hr>
 
 <h2 style="color:#ffa64d; font-weight:bold; font-size:28px;">📖 Synopsis</h2>
