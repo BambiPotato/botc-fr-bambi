@@ -196,7 +196,12 @@ Ces ressources sont pratiques pour <strong>imprimer</strong> et <strong>jouer en
 
 <hr>
 
+
 <h2 style="color:#b58b52; font-weight:bold; font-size:24px;">📂 Navigation</h2>
+
+<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  <li>🏠 <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
+</ul>
 
 
 - 🏠 [Retour à la page d’accueil](README.md)  
