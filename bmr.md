@@ -14,12 +14,16 @@
 <div style="display:flex; align-items:center; margin-bottom:10px;">
   <!-- Logo aligné à gauche -->
   <div style="flex:0 0 auto; margin-right:20px;">
-    [<img src="./images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="320" style="border-radius:8px;">](bmr.md)
+    <a href="./bmr.html">
+      <img src="./images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="320" style="border-radius:8px;">
+    </a>
   </div>
 
   <!-- Nom centré en dessous -->
   <div style="text-align:center; flex:1;">
-    [**<span style="color:#ffa64d; font-size:28px;">Bad Moon Rising</span>**](bmr.md)
+    <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; font-size:28px; text-decoration:none;">
+      Bad Moon Rising
+    </a>
   </div>
 </div>
 
@@ -28,7 +32,6 @@
   « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
 </p>
 
-<hr>
 
 <h2 style="color:#ffa64d; font-weight:bold; font-size:28px;">📖 Synopsis</h2>
 
