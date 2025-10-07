@@ -31,4 +31,7 @@ Leur rôle est de collecter des informations, de protéger leurs alliés et de m
 - [<span style="color:red">Démons</span>](demons.md)  
  
 ## 📂 Navigation 
-- 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
+<p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-top:10px;">
+🏠 <a href="./" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a>
+</p>
+
