@@ -174,9 +174,6 @@ Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient
   [<span style="color:red">**Imp**</span>](tb_roles/imp.md)
 </div>
 
-
-----
-
 <hr>
 
 <h2 style="color:#b58b52; font-weight:bold; font-size:28px;">📥 Télécharger & 🖨️ Imprimer</h2>
