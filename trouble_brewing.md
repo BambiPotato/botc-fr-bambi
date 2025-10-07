@@ -10,7 +10,7 @@ title: Trouble Brewing
 </p>
 
 
-<div class="page-tb" markdown="1">
+
 
 <!-- 🍺 Titre doré -->
 <h1 style="color:#b58b52; font-weight:bold; font-size:42px; margin-bottom:20px;">🍺 Trouble Brewing</h1>
@@ -60,7 +60,7 @@ Celles et ceux qui savent lire les signes comprennent qu’il y a…
 
 <p style="text-align:left; color:#e0c99d; font-size:18px; line-height:1.7;">
 Tant le Bien que le Mal peuvent prendre l’avantage en effectuant des <strong>sacrifices bien calculés</strong>.  
-<span style="color:red;">C’est une chasse au Démon relativement simple, mais les Sbires et le Démon disposent de nombreux moyens pour semer la confusion.</span>  
+C’est une chasse au Démon relativement simple, mais les Sbires et le Démon disposent de nombreux moyens pour semer la confusion.</span>  
 Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient savoir s’ils veulent espérer survivre.
 </p>
 
