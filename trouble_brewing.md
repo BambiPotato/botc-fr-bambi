@@ -196,4 +196,33 @@ Ces ressources sont pratiques pour imprimer et jouer en personne.
 
 
 
+----
+
+<hr>
+
+<h2 style="color:#b58b52; font-weight:bold; font-size:28px;">📥 Télécharger & 🖨️ Imprimer</h2>
+
+<p style="text-align:left; color:#e0c99d; font-size:18px; line-height:1.7;">
+Ces ressources sont pratiques pour <strong>imprimer</strong> et <strong>jouer en personne</strong>.
+</p>
+
+<h3 style="color:#b58b52; font-weight:bold; font-size:22px;">📄 PDF complet</h3>
+<p style="text-align:left; font-size:18px;">
+👉 <a href="./trouble_brewing.pdf" style="color:#d4a76a; font-weight:bold; text-decoration:none;">📄 Télécharger le PDF de Trouble Brewing</a>
+</p>
+
+<h3 style="color:#b58b52; font-weight:bold; font-size:22px;">🖼️ Images pratiques</h3>
+<div style="text-align:left;">
+  <a href="./images/tb-front.png"><img src="./images/tb-front.png" alt="Couverture" width="250" style="margin:8px; border-radius:8px;"></a>
+  <a href="./images/tb-nuit.png"><img src="./images/tb-nuit.png" alt="Ordre de Nuit" width="250" style="margin:8px; border-radius:8px;"></a>
+  <a href="./images/tb-roles.png"><img src="./images/tb-roles.png" alt="Liste des rôles" width="250" style="margin:8px; border-radius:8px;"></a>
+</div>
+
+<hr>
+
+<h2 style="color:#b58b52; font-weight:bold; font-size:24px;">📂 Navigation</h2>
+
+<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  <li>🏠 <a href="./README.md" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
+</ul>
 
