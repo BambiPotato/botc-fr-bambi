@@ -156,4 +156,4 @@ Si vous êtes <strong>ivre</strong> (ex. <em>Ivrogne</em>) ou <strong>empoisonn�
 </p>
 
 
-🏠 [Retour à l’accueil](README.md)
+🏠 [Retour à la page d’accueil](README.md)
