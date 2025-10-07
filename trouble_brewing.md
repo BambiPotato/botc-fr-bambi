@@ -45,22 +45,22 @@ Celles et ceux qui savent lire les signes comprennent qu’il y a…
 </p>
 
 ---
-
 <!-- 🎲 Gameplay -->
 <h2 style="color:#b58b52; font-weight:bold; font-size:28px;">🎲 Gameplay</h2>
 
 <p style="text-align:left; color:#e0c99d; font-size:18px; line-height:1.7;">
-<strong>Trouble Brewing</strong> contient un peu de tout :  
-<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<strong>Trouble Brewing</strong> contient un peu de tout :
+</p>
+
+<ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Certains rôles reçoivent passivement des informations.</li>
   <li>D’autres doivent agir pour découvrir qui est qui.</li>
   <li>Quelques-uns cherchent simplement à attirer l’attaque du Démon.</li>
 </ul>
-</p>
 
 <p style="text-align:left; color:#e0c99d; font-size:18px; line-height:1.7;">
-Tant le Bien que le Mal peuvent prendre l’avantage en effectuant des <strong>sacrifices bien calculés</strong>.  
-C’est une chasse au Démon relativement simple, mais les Sbires et le Démon disposent de nombreux moyens pour semer la confusion.</span>  
+Tant le Bien que le Mal peuvent prendre l’avantage en effectuant des <strong>sacrifices bien calculés</strong>.<br>
+<span style="color:red;">C’est une chasse au Démon relativement simple, mais les Sbires et le Démon disposent de nombreux moyens pour semer la confusion.</span><br>
 Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient savoir s’ils veulent espérer survivre.
 </p>
 
@@ -68,6 +68,7 @@ Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient
 👉 Niveau : <strong>Débutant</strong><br>
 <em>*Ce module est recommandé pour les nouveaux joueurs, joueuses et Conteurs.*</em>
 </p>
+
 
 ----
 
