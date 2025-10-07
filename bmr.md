@@ -10,7 +10,6 @@
 
 [<img src="images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="300">](bmr.md) [**Bad Moon Rising**](bmr.md)  
 
----
 <!-- 🌙 BAD MOON RISING -->
 
 <h1 style="color:#ffa64d; font-weight:bold; font-size:40px;">🌙 Bad Moon Rising</h1>
