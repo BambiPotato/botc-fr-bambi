@@ -125,4 +125,92 @@ Ces ressources sont pratiques pour imprimer et jouer en personne.
 
 - 🏠 [Retour à la page d’accueil](README.md)  
 
+<!-- 🌙 BAD MOON RISING -->
+
+<h1 style="color:#ffa64d; font-weight:bold; font-size:40px;">🌙 Bad Moon Rising</h1>
+
+<div style="text-align:center; margin-bottom:10px;">
+  <a href="./bmr.md">
+    <img src="./images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="320" style="border-radius:8px;">
+  </a><br>
+  <a href="./bmr.md" style="color:#ffa64d; font-weight:bold; font-size:22px; text-decoration:none;">Bad Moon Rising</a>
+</div>
+
+<!-- ✨ Citation -->
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+  « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
+</p>
+
+<hr>
+
+<h2 style="color:#ffa64d; font-weight:bold; font-size:28px;">📖 Synopsis</h2>
+
+<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+Le soleil est avalé par un horizon déchiqueté, alors qu’un autre jour d’hiver cède la place à la nuit.<br>
+Des éclats orangés et rouges se fondent en bruns plus profonds, la forêt se transformant en silence, dans l’attente de la neige à venir.
+</p>
+
+<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+Des loups affamés hurlent depuis les entrailles d’un ravin rocailleux au-delà des frontières de la ville, envoyant les oiseaux fuir leurs nids.<br>
+Les voyageurs se hâtent vers l’auberge, cherchant refuge contre le froid mordant.<br>
+Ils se réchauffent avec du thé brûlant, des airs de musique douce et de la bière épaisse, sans savoir que des yeux étranges et maléfiques les observent depuis les ruines de cette ancienne cité.
+</p>
+
+<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+Ce soir, même le bétail sait qu’il y a… <strong><span style="color:#ffa64d;">Bad Moon Rising</span></strong>.
+</p>
+
+<hr>
+
+<h2 style="color:#ffa64d; font-weight:bold; font-size:28px;">🎲 Gameplay</h2>
+
+<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<strong>Bad Moon Rising</strong> est une véritable <strong>fête de la mort</strong>.
+</p>
+
+<ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>Les Démons tuent plusieurs fois par nuit.</li>
+  <li>Les Sbires ont eux aussi des capacités meurtrières.</li>
+  <li>Les Villageois peuvent prendre de gros risques pour obtenir des infos fiables… mais risquent de tuer leurs amis par erreur.</li>
+</ul>
+
+<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+Heureusement, beaucoup d’options permettent de garder des joueurs en vie bien plus longtemps qu’ils ne l’auraient cru possible.<br>
+Mais si l’équipe du Bien ne parvient pas à identifier les Sbires et Démons précis en jeu, leur défaite est presque certaine.
+</p>
+
+<p style="color:#ffa64d; font-size:19px; font-weight:bold;">
+👉 Niveau : <strong>Intermédiaire</strong><br>
+<em>*Recommandé pour les joueurs/joueuses proactifs, attentifs à la coopération d’équipe et qui n’ont pas peur de mourir.*</em>
+</p>
+
+<hr>
+
+<!-- 📥 Télécharger & 🖨️ Imprimer -->
+<h2 style="color:#ffa64d; font-weight:bold; font-size:28px;">📥 Télécharger & 🖨️ Imprimer</h2>
+
+<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+Ces ressources sont pratiques pour <strong>imprimer</strong> et <strong>jouer en personne</strong>.
+</p>
+
+<h3 style="color:#ffa64d; font-weight:bold; font-size:22px;">📄 PDF complet</h3>
+<p style="font-size:18px;">
+👉 <a href="./images/bmr-roles.pdf" style="color:#d4a76a; font-weight:bold; text-decoration:none;">📄 Télécharger le PDF de Bad Moon Rising</a>
+</p>
+
+<h3 style="color:#ffa64d; font-weight:bold; font-size:22px;">🖼️ Images pratiques</h3>
+<div style="text-align:left;">
+  <a href="./images/bmr-front.png"><img src="./images/bmr-front.png" alt="Couverture" width="250" style="margin:8px; border-radius:8px;"></a>
+  <a href="./images/bmr-nuit.png"><img src="./images/bmr-nuit.png" alt="Ordre de Nuit" width="250" style="margin:8px; border-radius:8px;"></a>
+  <a href="./images/bmr-liste.png"><img src="./images/bmr-liste.png" alt="Liste des rôles" width="250" style="margin:8px; border-radius:8px;"></a>
+</div>
+
+<hr>
+
+<!-- 📂 Navigation -->
+<h2 style="color:#ffa64d; font-weight:bold; font-size:24px;">📂 Navigation</h2>
+
+<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  <li>🏠 <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
+</ul>
 
