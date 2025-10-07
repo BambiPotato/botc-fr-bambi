@@ -149,8 +149,6 @@ Si vous êtes <strong>ivre</strong> (ex. <em>Ivrogne</em>) ou <strong>empoisonn�
 
 <hr>
 
-<hr>
-
 <p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-top:10px;">
 🏠 <a href="./" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a>
 </p>
