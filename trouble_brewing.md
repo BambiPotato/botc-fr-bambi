@@ -12,37 +12,62 @@ title: Trouble Brewing
 
 <div class="page-tb" markdown="1">
 
-# 🍺 <span style="color:red">Trouble Brewing</span>
+<!-- 🍺 Titre doré -->
+<h1 style="color:#b58b52; font-weight:bold; font-size:42px; margin-bottom:20px;">🍺 Trouble Brewing</h1>
 
-[<img src="images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="300">](trouble_brewing.md) [**Trouble Brewing**](trouble_brewing.md) 
-
-
-## 📖 Synopsis  
-
-Les nuages ☁️ s’amoncellent au-dessus de **Ravenswood Bluff**, enveloppant cette ville endormie et ses Villageois superstitieux d’une ombre inquiétante.  
-Le linge fraîchement lavé danse de façon étrange entre les chaumières. Des cheminées crachent des volutes de fumée. Des senteurs exotiques s’infiltrent par les fissures des fenêtres, tandis que des chaudrons cachés bouillonnent dans l’ombre.
-
-Un vent d’automne anormalement chaud s’insinue le long des murs couverts de lierre et murmure à l’oreille des plus téméraires qui osent s’aventurer dans les rues pavées.  
-Les mères appellent leurs enfants à rentrer, alors que le tonnerre gronde à l’horizon.  
-Mais en tendant l’oreille… des bruits plus étranges encore résonnent depuis la forêt voisine.</span>   
-
-Sous l’œil vigilant du monastère qui domine la ville, des silhouettes passent de porte en porte.  
-Celles et ceux qui savent lire les signes comprennent qu’il y a… **Trouble Brewing**.
-
-
-## 🎲 Gameplay  
-
-**Trouble Brewing** contient un peu de tout.  
-- Certains rôles reçoivent passivement des informations.  
-- D’autres doivent agir pour découvrir qui est qui.  
-- Quelques-uns cherchent simplement à attirer l’attaque du Démon. </span> 
-
-Tant le Bien que le Mal peuvent prendre l’avantage en effectuant des **sacrifices bien calculés**.  
-<span style="color:red">C’est une chasse au Démon relativement simple, mais les Sbires et le Démon disposent de nombreux moyens pour semer la confusion. <span style="color:red">Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient savoir s’ils veulent espérer survivre.
-
-👉 Niveau : **Débutant**. 
-*Ce module est recommandé pour les nouveaux joueurs, joueuses et Conteurs.* 
+<!-- 🧭 Logo centré avec nom cliquable (même format que les rôles) -->
+<div style="text-align:center; display:inline-block; margin: 10px;">
+  [<img src="./images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400">](trouble_brewing.md)  
+  [**Trouble Brewing**](trouble_brewing.md)
 </div>
+
+---
+
+<!-- 📖 Synopsis -->
+<h2 style="color:#b58b52; font-weight:bold; font-size:28px;">📖 Synopsis</h2>
+
+<p style="text-align:left; color:#e0c99d; font-size:18px; line-height:1.7;">
+Les nuages ☁️ s’amoncellent au-dessus de <strong>Ravenswood Bluff</strong>, enveloppant cette ville endormie et ses Villageois superstitieux d’une ombre inquiétante.  
+Le linge fraîchement lavé danse de façon étrange entre les chaumières. Des cheminées crachent des volutes de fumée.  
+Des senteurs exotiques s’infiltrent par les fissures des fenêtres, tandis que des chaudrons cachés bouillonnent dans l’ombre.
+</p>
+
+<p style="text-align:left; color:#e0c99d; font-size:18px; line-height:1.7;">
+Un vent d’automne anormalement chaud s’insinue le long des murs couverts de lierre et murmure à l’oreille des plus téméraires.  
+Les mères appellent leurs enfants à rentrer, alors que le tonnerre gronde à l’horizon.  
+Mais en tendant l’oreille… des bruits plus étranges encore résonnent depuis la forêt voisine.
+</p>
+
+<p style="text-align:left; color:#e0c99d; font-size:18px; line-height:1.7;">
+Sous l’œil vigilant du monastère qui domine la ville, des silhouettes passent de porte en porte.  
+Celles et ceux qui savent lire les signes comprennent qu’il y a…  
+<span style="color:#d4a76a; font-weight:bold;">Trouble Brewing</span>.
+</p>
+
+---
+
+<!-- 🎲 Gameplay -->
+<h2 style="color:#b58b52; font-weight:bold; font-size:28px;">🎲 Gameplay</h2>
+
+<p style="text-align:left; color:#e0c99d; font-size:18px; line-height:1.7;">
+<strong>Trouble Brewing</strong> contient un peu de tout :  
+<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  <li>Certains rôles reçoivent passivement des informations.</li>
+  <li>D’autres doivent agir pour découvrir qui est qui.</li>
+  <li>Quelques-uns cherchent simplement à attirer l’attaque du Démon.</li>
+</ul>
+</p>
+
+<p style="text-align:left; color:#e0c99d; font-size:18px; line-height:1.7;">
+Tant le Bien que le Mal peuvent prendre l’avantage en effectuant des <strong>sacrifices bien calculés</strong>.  
+<span style="color:red;">C’est une chasse au Démon relativement simple, mais les Sbires et le Démon disposent de nombreux moyens pour semer la confusion.</span>  
+Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient savoir s’ils veulent espérer survivre.
+</p>
+
+<p style="text-align:left; color:#d4a76a; font-size:19px; font-weight:bold;">
+👉 Niveau : <strong>Débutant</strong><br>
+<em>*Ce module est recommandé pour les nouveaux joueurs, joueuses et Conteurs.*</em>
+</p>
 
 ----
 
