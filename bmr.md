@@ -71,8 +71,6 @@ Mais si l’équipe du Bien ne parvient pas à identifier les Sbires et Démons 
 
 <hr>
 
----
-
 ## [<span style="color:blue">**Villageois**</span>](villageois.md)  
 
 [<img src="images/Icon_grandmother.png" alt="Grand-Mère" width="300">](bmr_roles/grandmere.md) [<span style="color:blue">**Grand-Mère**</span>](bmr_roles/grandmere.md)  
