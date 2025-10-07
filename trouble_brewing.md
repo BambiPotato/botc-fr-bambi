@@ -174,27 +174,6 @@ Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient
   [<span style="color:red">**Imp**</span>](tb_roles/imp.md)
 </div>
 
----
-
-## 📥 Télécharger & 🖨️ Imprimer
-
-Ces ressources sont pratiques pour imprimer et jouer en personne.
-
-### 📄 PDF complet
-[📄 Télécharger le PDF de Trouble Brewing](trouble_brewing.pdf)
-
-### 🖼️ Images pratiques
-- [![Couverture](images/tb-front.png)](images/tb-front.png)  
-- [![Ordre de Nuit](images/tb-nuit.png)](images/tb-nuit.png)  
-- [![Liste des rôles](images/tb-roles.png)](images/tb-roles.png)
-
-
-
-## 📂 Navigation
-
-- 🏠 [Retour à la page d’accueil](README.md)  
-
-
 
 ----
 
@@ -222,7 +201,5 @@ Ces ressources sont pratiques pour <strong>imprimer</strong> et <strong>jouer en
 
 <h2 style="color:#b58b52; font-weight:bold; font-size:24px;">📂 Navigation</h2>
 
-<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="./README.md" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
-</ul>
 
+- 🏠 [Retour à la page d’accueil](README.md)  
