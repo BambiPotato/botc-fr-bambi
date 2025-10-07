@@ -155,5 +155,3 @@ Si vous êtes <strong>ivre</strong> (ex. <em>Ivrogne</em>) ou <strong>empoisonn�
 🏠 <a href="./" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a>
 </p>
 
-
-🏠 [Retour à la page d’accueil](README.md)
