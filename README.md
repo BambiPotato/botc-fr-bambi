@@ -54,6 +54,8 @@
 
 ##  <span style="color:#b58b52; font-weight:bold; font-size:20px;">📜Règles du jeu</span>
 
+- 🏗️ <span style="color:#b58b52; font-weight:bold; font-size:20px;">[**Installation**](installation.md)</span>
+
 - 📜 <span style="color:#b58b52; font-weight:bold; font-size:20px;">[**Découvrez le Jeu Blood on the Clocktower**](blood_on_the_clocktower.md)</span>
 
 <span style="color:#b58b52; font-weight:italic; font-size:20px;">Vous débutez sur *Blood 🩸 on the Clocktower* ?</span>
