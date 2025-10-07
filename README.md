@@ -94,6 +94,43 @@
 
 [<img src="images/Icon_mezepheles.png" alt="Scripts personnalisés" width="300">](#) [**Scripts personnalisés**](#) *(à venir)*  
 
+---
+<div style="text-align:left; margin:40px 0; line-height:1.8;">
+
+  <h2 style="color:#b58b52; font-weight:bold; font-size:26px; margin-bottom:10px;">
+    🛠️ Ressources
+  </h2>
+
+  <ul style="list-style:none; padding-left:0; font-size:19px; color:#e0c99d;">
+    <li>🧮 <a href="https://script.bloodontheclocktower.com/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Outil 🔧 officiel de création de scripts</a></li>
+    <li>🧪 <a href="https://savant.thegrim.gg/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Générateur d’informations pour le Savant 🦽</a></li>
+    <li>📚 <a href="https://wiki.bloodontheclocktower.com/Main_Page" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Wiki officiel (en anglais)</a></li>
+    <li>🎮 <a href="https://botc.app/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Pour jouer en ligne à Blood 🩸 on the Clocktower 🕰️</a></li>
+  </ul>
+
+  <hr style="width:40%; border:1px solid #b58b52; opacity:0.6; margin:25px 0;">
+
+  <h2 style="color:#b58b52; font-weight:bold; font-size:26px; margin-bottom:10px;">
+    🔗 Réseaux Sociaux
+  </h2>
+
+  <p style="color:#e0c99d; font-size:19px; margin-bottom:15px;">
+    Rejoignez notre <span style="color:#d4a76a; font-weight:bold;">Discord</span> pour jouer en ligne, partager de bons moments et participer à nos parties streamées :
+  </p>
+
+  <ul style="list-style:none; padding-left:0; font-size:19px; color:#e0c99d;">
+    <li>💬 <a href="https://discord.gg/tGDVmZfZpE" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Discord</a></li>
+    <li>🎥 <a href="https://www.youtube.com/@Bambipotato" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">YouTube</a></li>
+    <li>🎮 <a href="https://www.twitch.tv/bambibluepotato" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Twitch</a></li>
+    <li>📸 <a href="https://www.instagram.com/bambibluepotato/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Instagram</a></li>
+    <li>🌐 <a href="https://bsky.app/profile/bambibluepotato.bsky.social" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Bluesky</a></li>
+  </ul>
+
+</div>
+
+
+
+
 
 ---
 ##  <span style="color:#b58b52; font-weight:bold; font-size:20px;">🛠️Ressources</span> 
