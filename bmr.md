@@ -18,16 +18,7 @@ title: BMR
 ##
 
 <!-- 🌙 BAD MOON RISING -->
-<div style="text-align:left; margin-bottom:20px;">
-  <a href="./bmr.html">
-    <img src="./images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="320" style="border-radius:8px; display:block; margin-bottom:8px;">
-  </a>
-  <div style="text-align:center;">
-    <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; font-size:28px; text-decoration:none;">
-      Bad Moon Rising
-    </a>
-  </div>
-</div>
+
 
 <!-- ✨ Citation -->
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:0;">
