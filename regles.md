@@ -149,8 +149,11 @@ Si vous êtes <strong>ivre</strong> (ex. <em>Ivrogne</em>) ou <strong>empoisonn�
 
 <hr>
 
+<hr>
+
 <p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-top:10px;">
-🧭 <a href="README.md"><strong>Retour à la page d’accueil</strong></a>
+🏠 <a href="./README.md" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a>
 </p>
+
 
 🏠 [Retour à l’accueil](README.md)
