@@ -203,5 +203,3 @@ Ces ressources sont pratiques pour <strong>imprimer</strong> et <strong>jouer en
   <li>🏠 <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
 </ul>
 
-
-- 🏠 [Retour à la page d’accueil](README.md)  
