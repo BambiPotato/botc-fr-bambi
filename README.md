@@ -128,27 +128,6 @@
 
 </div>
 
-
-
-
-
----
-##  <span style="color:#b58b52; font-weight:bold; font-size:20px;">🛠️Ressources</span> 
-- 🧮 [Outil 🔧 officiel de création de scripts](https://script.bloodontheclocktower.com/)  
-- 🧪 [Générateur d’informations pour le Savant🦽](https://savant.thegrim.gg/)  
-- 📚 [Wiki Officel en anglais](https://wiki.bloodontheclocktower.com/Main_Page)
-- 🎮 [Pour Jouer en ligne à Blood🩸on the Clocktower 🕰️](https://botc.app/)  
- 
----
-
-## <span style="color:#b58b52; font-weight:bold; font-size:20px;">🔗 Réseaux Sociaux</span>   
-<span style="color:#b58b52; font-weight:bold; font-size:20px;">Rejoignez Discord pour jouer en ligne, partager de bons moments et participer à nos parties streamées.</span>   
-- 💬 [Discord](https://discord.gg/tGDVmZfZpE)  
-- 🎥 [YouTube](https://www.youtube.com/@Bambipotato)  
-- 🎮 [Twitch](https://www.twitch.tv/bambibluepotato)  
-- 📸 [Instagram](https://www.instagram.com/bambibluepotato/)  
-- 🌐 [Bluesky](https://bsky.app/profile/bambibluepotato.bsky.social)
-
 ---
 <div style="text-align:left; margin-top:40px; line-height:1.8;">
 
