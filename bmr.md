@@ -1,6 +1,7 @@
+---
 layout: default
 title: BMR
-
+---
 
 <p align="left">
   <a href="/botc-fr-bambi/">
