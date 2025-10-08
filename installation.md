@@ -14,16 +14,16 @@ Cette page explique comment **préparer une partie de Blood on the Clocktower** 
 ---
 
 ## <span style="color:#b58b52; font-weight:bold;">📋 Sommaire</span>  
-1. Rassembler les joueurs  
-2. Préparer le Grimoire  
-3. Choisir une édition  
-4. Installer la place du village  
-5. Lire les règles aux nouveaux joueurs  
-6. Choisir secrètement les rôles  
-7. Ajouter ou retirer des rôles  
-8. Ajouter les jetons de rappel au Grimoire  
-9. Distribuer les rôles  
-10. Placer les jetons de rôle dans le Grimoire  
+1.  **<span style="color:#b58b52;">Rassembler les joueurs</span>**
+2.  **<span style="color:#b58b52;">Préparer le Grimoire</span>** 
+3.  **<span style="color:#b58b52;">Choisir une édition</span>**  
+4.  **<span style="color:#b58b52;">Installer la place du village</span>**
+5.  **<span style="color:#b58b52;">Lire les règles aux nouveaux joueurs</span>**
+6.  **<span style="color:#b58b52;">Choisir secrètement les rôles</span>****  
+7.  **<span style="color:#b58b52;">Ajouter ou retirer des rôles</span>****  
+8.  **<span style="color:#b58b52;">Ajouter les jetons de rappel au Grimoire</span>****  
+9.  **<span style="color:#b58b52;">Distribuer les rôles</span>****  
+10. **<span style="color:#b58b52;">Placer les jetons de rôle dans le Grimoire</span>****  
 
 ---
 
