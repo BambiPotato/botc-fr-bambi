@@ -62,6 +62,8 @@
 
 - 📋 <span style="color:#b58b52; font-weight:bold; font-size:20px;"> [**Capacités**](capacite.md)</span>  
 
+- 🌀 <span style="color:#b58b52; font-weight:bold; font-size:20px;"> [**États**](etats.md)</span>  
+
 ---
 ## <span style="color:#b58b52; font-weight:bold; font-size:20px;">📘 Glossaire</span>  
 
