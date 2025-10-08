@@ -33,10 +33,8 @@ Les rôles qui agissent « à l'aube » agissent après presque tous les autres.
 ---
 
 ## 🅱️ B
-**Bon**  
-Alignement des <a href="./villageois.md" style="color:blue; font-weight:bold; text-decoration:none;">Villageois</a> et des <a href="./etrangers.md" style="color:blue; font-weight:bold; text-decoration:none;">Étrangers</a>.  
-**Bien** 
-L'alignement est bon. Les <a href="./villageois.md" style="color:blue; font-weight:bold; text-decoration:none;">Villageois</a> et les <a href="./etrangers.md" style="color:blue; font-weight:bold; text-decoration:none;">Étrangers</a> (rôles bleus) commencent bons. 
+**Bon/Bien**
+Alignement des <a href="./villageois.md" style="color:blue; font-weight:bold; text-decoration:none;">Villageois</a> et des <a href="./etrangers.md" style="color:blue; font-weight:bold; text-decoration:none;">Étrangers</a>.L'alignement est bon. Les <a href="./villageois.md" style="color:blue; font-weight:bold; text-decoration:none;">Villageois</a> et les <a href="./etrangers.md" style="color:blue; font-weight:bold; text-decoration:none;">Étrangers</a> (rôles bleus) commencent bons. 
 Le Bien l'emporte si le Démon meurt.
 
 **Boîte du Grimoire**  
