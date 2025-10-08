@@ -41,7 +41,7 @@ L’<strong>Outil de Script</strong> vous permet de donner vie à ces idées.
 Par exemple, imaginez une partie avec la Pit-Hag <a href="./sv_roles/pithag.html" style="color:#d67bff; text-decoration:none;">Croque-Mort</a>,  
 le <a href="./tb_roles/saint.html" style="color:#d4a76a; text-decoration:none;">Saint</a>,  
 l’<span style="color:red; font-weight:bold;">Evil Twin</span> et l’<a href="./bmr_roles/aubergiste.html" style="color:#d4a76a; text-decoration:none;">Aubergiste</a>.  
-Ou encore, un scénario où le <a href="./sv_roles/espion.html" style="color:#d4a76a; text-decoration:none;">Spy</a> croise le <a href="./sv_roles/maladroit.html" style="color:#d4a76a; text-decoration:none;">Maladroit</a> !
+Ou encore, un scénario où l' <a href="./tb_roles/espion.html" style="color:#d4a76a; text-decoration:none;">Espion</a> croise le <a href="./sv_roles/maladroit.html" style="color:#d4a76a; text-decoration:none;">Maladroit</a> !
 </p>
 
 ---
@@ -78,14 +78,14 @@ Commencez petit : choisissez quelques rôles centraux, puis ajoutez-en au fur et
 
 ---
 
-## <span id="ajouter-voyageurs-fables" style="color:#b58b52; font-weight:bold;">4️⃣ Ajouter les Voyageurs et Fables</span>
+## <span id="ajouter-voyageurs-légendaires" style="color:#b58b52; font-weight:bold;">4️⃣ Ajouter les Voyageurs et Légandaires</span>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 L’ajout de <a href="./voyageurs/voyageurs.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Voyageurs</a> à vos scripts personnalisés est simple :  
 certains se marieront bien avec vos choix de rôles, d’autres moins.  
 Vous pouvez en choisir jusqu’à cinq avant la partie, ou décider à la volée.  
 
-Les personnages <a href="./fabled.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Fabled</a> sont là pour vous aider à équilibrer ou enrichir vos scénarios.  
+Les personnages <a href="./fabled.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Légendaires</a> sont là pour vous aider à équilibrer ou enrichir vos scénarios.  
 Ils permettent par exemple de :
 </p>
 
