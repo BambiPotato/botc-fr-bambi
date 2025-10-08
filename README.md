@@ -68,7 +68,7 @@
 
 - 🔧 <span style="color:#b58b52; font-weight:bold; font-size:20px;">Créez des scripts uniques [**Outil de Script**](outildescript.md)</span>
 
-<hr style="width:40%; border:1px solid #b58b52; opacity:0.6; margin:25px 0;">
+---
   
 ## <span style="color:#b58b52; font-weight:bold; font-size:20px;">📘 Glossaire</span>  
 
