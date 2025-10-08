@@ -84,7 +84,7 @@
 - [<span style="color:red">**Sbires**</span>](sbires.md) 
 - [<span style="color:red">**Démons**</span>](demons.md) 
 - [<span style="color:purple">**Voyageurs**</span>](voyageurs/voyageurs.md)
-- [<span style="color:#b58b52;>**Légendaires**</span>](#) *(à venir)* 
+- [<span style="color:gold">**Légendaires**</span>](#) *(à venir)* 
 
 ---
 ## <span style="color:#b58b52; font-weight:bold; font-size:20px;">👺Rôles par Édition</span> 
