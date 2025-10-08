@@ -207,7 +207,7 @@ Jetons Vie : Ces jetons sont placés sur la place Vilage, correspondant aux plac
 Petits jetons utilisés par le Conteur pour se souvenir des effets en cours.  
 
 **Jeton de rôle**  
-Le grand jeton rond que chaque joueur(ses) reçoit au début de la partie selon leur catégorie et qui indique son rôles, exemple un rôle <a href="./villageois.md" style="color:blue; font-weight:bold; text-decoration:none;">Voyante</a>,>, . Les joueurs(ses) ne peuvent pas regarder les jetons de rôles des autres. 
+Le grand jeton rond que chaque joueur(ses) reçoit au début de la partie selon leur catégorie et qui indique son rôles, exemple un rôle <a href="./villageois.md" style="color:blue; font-weight:bold; text-decoration:none;">Voyante</a>, . Les joueurs(ses) ne peuvent pas regarder les jetons de rôles des autres. 
 
 **Jeton de rappel**
 Ces petits jetons aident le conteur à se souvenir de toutes sortes de choses. Les jetons de rappel sont spécifiques à un rôle.
