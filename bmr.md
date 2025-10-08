@@ -17,11 +17,15 @@ title: BMR
 
 ##
 
-<!-- 🌙 BAD MOON RISING -->
+<div style="text-align:center; margin-bottom:15px;">
+  <a href="./bmr.md" style="text-decoration:none;">
+    <img src="./images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="320" style="border-radius:8px;">
+    <br>
+    <span style="color:#ffa64d; font-weight:bold; font-size:24px;">Bad Moon Rising</span>
+  </a>
+</div>
 
-
-<!-- ✨ Citation -->
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:0;">
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
 </p>
 
