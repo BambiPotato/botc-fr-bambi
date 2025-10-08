@@ -512,7 +512,7 @@ Statut actuel d’un joueur : ivre/sobre, empoisonné/sain, vivant/mort, fou/sai
 <a href="./etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Étrangers</a> : rôles bons avec un handicap/effet perturbant pour le village.
 
 **Exécution**  
-Vote collectif pour éliminer un joueur. Exécuté si ≥ 50 % des vivants votent pour et plus que tout autre candidat.
+Décision collective de tuer un(e) joueur(se) autre qu'un Voyageur pendant la journée. Il y a un maximum d'une exécution par jour, mais aucune n'est autorisée. Un joueur désigné est exécuté s'il a obtenu au moins la moitié des votes des joueurs en vie et plus de votes que tout autre joueur(se) désigné.
 
 **Exil**  
 Élimination d’un <a href="./voyageurs/voyageurs.html" style="color:purple; font-weight:bold; text-decoration:none;">Voyageur</a>. Décision indépendante des capacités. Il peut y en avoir plusieurs par jour. Ce n’est pas une exécution. ➡️ Voir « Vote » et « Exécution ».
@@ -632,7 +632,7 @@ Joueur éliminé. Perd sa capacité, ne peut plus nominer, mais conserve **un de
 Proposition d’un joueur à l’exécution pendant la journée.
 
 **Nomination**  
-Acte de déclarer une exécution potentielle. Les joueurs en vie peuvent proposer une nomination (1/jour) et être nominés (1/jour). Le Conteur mène le vote.
+Acte de déclarer une exécution potentielle. Les joueurs en vie peuvent proposer une nomination par jour et être nominés une fois par jour. Le Conteur mène le vote.
 
 **Nuit**  
 Phase où les joueurs ferment les yeux et où certains rôles agissent.
@@ -689,7 +689,7 @@ Petits jetons d’aide pour suivre les effets en cours.
 **Rôle / Jeton de rôle**  
 Grand jeton rond indiquant le rôle reçu. Les jetons des autres restent secrets.
 
-**Ressuscité**  
+**Ressuscité/ Régurgité / Réincarné / Ressuscité**  
 Un joueur mort revient à la vie. Il récupère sa capacité (même « une fois par partie » si applicable). Si cette capacité ne fonctionne que la première nuit, elle fonctionne **cette** nuit.
 
 ---
@@ -755,13 +755,6 @@ Les deux joueurs vivants les plus proches, en ignorant les morts entre les deux.
 
 **Victoire**  
 L’équipe gagne ensemble, vivants ou morts. Le Bien gagne si le Démon meurt. Le Mal gagne lorsqu’il ne reste que deux joueurs en vie (Voyageurs non comptés).
-
----
-
-<h2 id="w">🅦 W</h2>
-
-**Wake / Réveiller**  
-Action d’ouvrir les yeux la nuit (individuellement) ou tout le monde à l’aube.
 
 ---
 
