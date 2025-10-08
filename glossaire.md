@@ -4,306 +4,247 @@
   </a>
 </p>
 
+# 📖 <span style="color:#b58b52; font-weight:bold; font-size:36px;">Glossaire Blood on the Clocktower</span>
 
-# 📖 Glossaire *Blood 🩸on the Clocktower 🕰️*
-
-Bienvenue dans le Glossaire francophone de Blood on the Clocktower. 
-Vous trouverez ici la traduction fidèle et détaillée des termes du jeu.
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+  « Chaque mot a son importance... surtout quand il peut te sauver la vie. »
+</p>
 
 ---
 
-## 📑 Sommaire alphabétique
-[🔼 Haut](#📖-glossaire-blood-on-the-clocktower)  
+## 📑 <span style="color:#b58b52;">Sommaire alphabétique</span>
+
 **Aller à :**  
-[A](#🅰️-a) | [B](#🅱️-b) | [C](#🅲-c) | [D](#🅳-d) | [E](#🅴-e) | [F](#🅵-f) | [G](#🅶-g) | [H](#🅷-h) | [I](#🅸-i) | [L](#🅻-l) | [M](#🅼-m) | [N](#🅽-n) | [O](#🅾-o) | [P](#🅿-p) | [R](#🅡-r) | [S](#🅢-s) | [T](#🅣-t) | [V](#🅥-v) | [W](#🅦-w)  
+[A](#🅰️-a) | [B](#🅱️-b) | [C](#🅲-c) | [D](#🅳-d) | [E](#🅴-e) | [F](#🅵-f) | [G](#🅶-g) | [H](#🅷-h) | [I](#🅸-i) | [L](#🅻-l) | [M](#🅼-m) | [N](#🅽-n) | [O](#🅾️-o) | [P](#🅿-p) | [R](#🅡-r) | [S](#🅢-s) | [T](#🅣-t) | [V](#🅥-v) | [W](#🅦-w)
 
 ---
 
 ## 🅰️ A
-**Ability (Capacité)**  
-Pouvoir ou malus d’un rôle, inscrit sur son jeton, sa fiche et l’almanach. Devient inactif si le joueur est mort, ivre ou empoisonné.  
+**Alignement**  
+Définit si un joueur est du **Bien** ou du **Mal**.  
+Ne change pas automatiquement quand le rôle change.  
 
-**About to die (Sur le point d’être exécuté)**  
-Joueur qui a assez de votes pour être exécuté et plus que tout autre joueur.  
-
-**Alignment (Alignement)**  
-Équipe d’un joueur (bon ou maléfique). L’alignement ne change pas quand le rôle change, et inversement.  
-
-**Alive (Vivant)**  
-Joueur qui n’est pas mort. Peut voter librement, nominer et utiliser son pouvoir. Le jeu continue tant qu’il reste 3 joueurs vivants.  
-
-**Alive neighbours (Voisins vivants)**  
-Les deux joueurs assis directement à gauche et à droite d’un joueur, en ignorant les morts.  
-
-**Ally (Allié)**  
-Joueur du même alignement.  
+**Aube**  
+Fin de la nuit, avant le lever du jour.  
 
 ---
 
 ## 🅱️ B
-**Blood on the Clocktower (Le jeu)**  
-Le jeu lui-même, souvent abrégé en *BotC*.  
+**Bon**  
+Alignement des <a href="./villageois.md" style="color:blue; font-weight:bold; text-decoration:none;">Villageois</a> et des <a href="./etrangers.md" style="color:blue; font-weight:bold; text-decoration:none;">Étrangers</a>.  
+
+**Boîte du Grimoire**  
+Support du Conteur où sont disposés tous les jetons et rappels.  
 
 ---
 
 ## 🅲 C
-**Character (Rôle)**  
-Identité jouée par un joueur (Villageois, Étranger, Sbire, Démon, etc.).  
+**Capacité**  
+Pouvoir d’un rôle, actif tant que le joueur est vivant, sobre et sain.  
 
-**Character sheet (Feuille de rôles)**  
-Liste des rôles et capacités d’une édition.  
+**Cercle du village**  
+Disposition des joueurs, en cercle ou en carré.  
 
-**Character token (Jeton de rôle)**  
-Grand jeton rond que chaque joueur reçoit au début. Les jetons des autres restent secrets.  
+**Choisir**  
+Quand une capacité indique “choisir”, c’est le joueur qui décide.  
+Sinon, le choix revient au <a href="./conteur.md" style="color:#d4a76a; text-decoration:none;">Conteur</a>.  
 
-**Choose (Choisir)**  
-Lorsqu’un rôle dit « choisissez », c’est le joueur qui décide. Sinon, c’est le Conteur.  
+**Conteur/Conteuse**  
+Maître du jeu. Il gère la partie, donne les informations et garde le secret.  
 
-**Clocktower**  
-Nom du jeu, « la tour de l’horloge ».  
+**Crépuscule**  
+Début de la nuit, moment où les joueurs ferment les yeux.  
 
 ---
 
 ## 🅳 D
-**Dawn (Aube)**  
-Fin de la nuit, juste avant le jour.  
+**Démon**  
+Rôle central du Mal.  
+Un <span style="color:red; font-weight:bold;">Démon</span> tue la nuit et fait perdre les bons s’il survit.  
 
-**Day (Jour)**  
-Phase où les joueurs parlent et votent pour une exécution.  
+**Déclaration**  
+Annonce publique d’une action ou d’une information.  
 
-**Dead (Mort)**  
-Joueur qui a perdu son pouvoir, ne peut plus nominer et n’a plus qu’un seul vote.  
+**Drunk / Ivre**  
+Joueur qui pense avoir une capacité mais ne l’a pas vraiment.  
+Reçoit des informations fausses.  
 
-**Declare (Déclarer)**  
-Annoncer publiquement une information ou action.  
-
-**Demon (Démon)**  
-Rôle maléfique central. S’il meurt, les bons gagnent. Tue généralement la nuit.  
-
-**Demon info (Infos Démon)**  
-Les infos données au Démon la première nuit (ses Sbires + 3 bons rôles non utilisés).  
-
-**Drunk (Ivre)**  
-Croit avoir un pouvoir, mais ne l’a pas. Reçoit de fausses infos.  
-
-**Dusk (Crépuscule)**  
-Début de la nuit, quand les joueurs ferment les yeux.  
+**Durée d’une partie**  
+Se termine quand il reste seulement **2 vivants** (victoire du Mal)  
+ou si le **Démon** est mort (victoire du Bien).  
 
 ---
 
 ## 🅴 E
-**Each night (Chaque nuit)**  
-Indique qu’un pouvoir s’active toutes les nuits.  
+**Édition**  
+Groupe de rôles et de thème.  
+Exemples :
+- 🍺 [Trouble Brewing](./trouble_brewing.md)  
+- 🌙 [Bad Moon Rising](./bmr.md)  
+- 💐 [Sects & Violets](./sv.md)
 
-**Each night* (Chaque nuit\*)**  
-Toutes les nuits sauf la première.  
+**Empoisonné**  
+Subit les mêmes effets qu’un joueur ivre, mais à cause d’un <span style="color:red; font-weight:bold;">Sbire</span>.  
 
-**Edition (Édition)**  
-Un set de rôles et de thèmes (ex. Trouble Brewing).  
+**Étranger**  
+<a href="./etrangers.md" style="color:blue; font-weight:bold; text-decoration:none;">Rôle du Bien</a> ayant un handicap ou un effet perturbant pour le village.  
 
-**Evil (Maléfique)**  
-Alignement des Sbires et Démons. Gagnent quand il ne reste que 2 vivants.  
+**Exécution**  
+Vote collectif pour éliminer un joueur.  
+Le joueur exécuté meurt, sauf effet spécial.  
 
-**Execution (Exécution)**  
-Vote collectif pour éliminer un joueur (hors Voyageurs). Nécessite ≥ 50 % des votes des vivants.  
-
-**Exile (Exil)**  
-Élimination d’un Voyageur. Possible plusieurs fois par jour. Les capacités ne l’influencent pas.  
+**Exil**  
+Élimination (Exil) d’un <a href="./voyageurs/voyageurs.md" style="color:purple; font-weight:bold; text-decoration:none;">Voyageur</a>.  
 
 ---
 
 ## 🅵 F
-**Fabled (Légendaires)**  
-Rôles spéciaux choisis par le Conteur pour équilibrer la partie.  
 
-**False info (Fausse info)**  
-Info donnée par l’empoisonnement ou l’ivresse.  
+**Fausse information**  
+Information donnée par erreur ou trompeuse (ivresse, poison, ou effet de rôle).  
 
-**First night (Première nuit)**  
-Phase initiale où certains rôles agissent.  
+
+**Folie**  
+État où un joueur doit agir comme si une condition était vraie (ex. “être fou d’être un Étranger”). 
 
 ---
 
 ## 🅶 G
-**Good (Bon)**  
-Alignement des Villageois et Étrangers.  
-
 **Grimoire**  
-Boîte contenant tous les éléments du jeu, gérée par le Conteur.  
+Boîte du Conteur contenant tous les éléments de jeu (jetons, rappels, voiles).  
 
 ---
 
 ## 🅷 H
-**Healthy (Sain)**  
-Pas empoisonné.  
+**Hors jeu**  
+Rôle qui n’est pas utilisé dans cette partie.  
+
+**Humain**  
+Joueur non-Conteur, qu’il soit vivant ou mort.  
 
 ---
 
 ## 🅸 I
-**Info (Information)**  
-Tout savoir donné par un rôle ou le Conteur.  
+**Ivre/Ivresse**  
+Joueur/Joeuse qui pense avoir une capacité mais ne l’a pas vraiment.  
+Reçoit des informations fausses.  
 
-**Info token (Jeton d’information)**  
-Petits jetons rectangulaires montrés par le Conteur.  
-
-**In play (En jeu)**  
-Un rôle actuellement dans la partie.  
+**Information**  
+Tout élément communiqué par le Conteur ou par un pouvoir de rôle.  
 
 ---
 
 ## 🅻 L
-**Leaf (Feuille)**  
-Symbole sur les jetons de rôle aidant le Conteur pour la mise en place nocturne.  
+**Légendaire**  
+<a href="./legendaires.md" style="color:#b58b52; font-weight:bold; text-decoration:none;">Rôle doré</a> utilisé pour ajuster ou enrichir la partie.  
 
-**Life token (Jeton de vie)**  
-Marqueur indiquant si un joueur est vivant ou mort.  
+**Linceul**  
+Jeton placé sur un mort dans le Grimoire.  
 
-**Lose (Perdre)**  
-Quand son équipe échoue.  
+**Lunatique**  
+Joueur croyant être un Démon, alors qu’il ne l’est pas.  
 
 ---
 
 ## 🅼 M
-**Mad (Fou)**  
-Un joueur doit jouer comme si quelque chose était vrai.  
+**Maléfique**  
+Alignement des <a href="./sbires.md" style="color:red; font-weight:bold; text-decoration:none;">Sbires</a> et des <a href="./demons.md" style="color:red; font-weight:bold; text-decoration:none;">Démons</a>.  
 
-**Might (Peut-être)**  
-Signifie que le Conteur décide si l’effet s’applique.  
-
-**Minion (Sbire)**  
-Rôles maléfiques qui aident le Démon.  
-
-**Minion info (Infos Sbires)**  
-Ce qu’apprennent les Sbires la première nuit (qui sont les autres Sbires + le Démon).  
-
+**Mort**  
+Joueur éliminé. Il perd sa capacité, ne peut plus nominer, mais garde un **dernier vote**.  
+ 
 ---
 
 ## 🅽 N
-**Neighbors (Voisins)**  
-Les deux joueurs adjacents, vivants ou morts.  
+**Nominé / Nomination**  
+Proposition d’un joueur à l’exécution pendant la journée.  
 
-**Night (Nuit)**  
-Phase où les joueurs ferment les yeux et les rôles agissent.  
-
-**Night sheet (Feuille de nuit)**  
-Feuille du Conteur listant l’ordre d’action nocturne.  
-
-**Nomination**  
-Action de proposer un joueur à l’exécution.  
-
-**Not in play (Hors jeu)**  
-Rôle qui n’est pas présent dans cette partie.  
+**Nuit**  
+Phase où les joueurs ferment les yeux et certains pouvoirs s’activent.  
 
 ---
 
 ## 🅾 O
-**Once per game (Une fois par partie)**  
-Pouvoir utilisable une seule fois.  
+**Ordre de nuit**  
+Ordre dans lequel les rôles agissent, selon la feuille de nuit.  
 
-**Outsider (Étranger)**  
-Rôles bons aux capacités handicapantes.  
+**Outil de script**  
+Permet de créer ses propres listes de rôles :  
+<a href="./outildescript.md" style="color:#d4a76a; font-weight:bold; text-decoration:none;">voir la page dédiée</a>.  
 
 ---
 
 ## 🅿 P
-**Player (Joueur)**  
-Toute personne jouant un rôle (hors Conteur).  
+**Place du village**  
+Plateau central où sont disposés les jetons de vie et de vote.  
 
-**Poisoned (Empoisonné)**  
-Comme l’ivresse, mais causé par un Sbire.  
+**Poisonné**  
+Voir *Empoisonné*.  
 
-**Private (Privé)**  
-Échange entre deux personnes uniquement.  
-
-**Public (Public)**  
-Visible et entendu par la majorité.  
+**Pouvoir**  
+Autre mot pour *Capacité*.  
 
 ---
 
 ## 🅡 R
-**Register (S’enregistrer comme)**  
-Compter comme un autre rôle ou alignement sans l’être vraiment.  
+**Rappel (jeton de)**  
+Petits jetons utilisés par le Conteur pour se souvenir des effets en cours.  
 
-**Reminder token (Jeton rappel)**  
-Petit jeton d’aide pour le Conteur.  
-
-**Resurrected (Ressuscité)**  
-Un mort redevient vivant et retrouve son pouvoir.  
-
-**Rules sheet (Feuille de règles)**  
-Feuille lue en début de partie pour expliquer les bases.  
+**Rôle**  
+Identité jouée par un joueur :  
+<a href="./villageois.md" style="color:blue; font-weight:bold; text-decoration:none;">Villageois</a>,  
+<a href="./etrangers.md" style="color:blue; font-weight:bold; text-decoration:none;">Étranger</a>,  
+<a href="./sbires.md" style="color:red; font-weight:bold; text-decoration:none;">Sbire</a>,  
+<a href="./demons.md" style="color:red; font-weight:bold; text-decoration:none;">Démon</a>,  
+<a href="./voyageurs/voyageurs.md" style="color:purple; font-weight:bold; text-decoration:none;">Voyageur</a>  
+ou <a href="./legendaires.md" style="color:#b58b52; font-weight:bold; text-decoration:none;">Légendaire</a>.  
 
 ---
 
 ## 🅢 S
+**Sobre**  
+Non ivre.  
+
 **Script**  
-Liste de rôles créée via le Script Tool.  
+Liste personnalisée de rôles utilisée pour une partie.  
 
-**Setup sheet (Feuille de mise en place)**  
-Instructions pour le Conteur avant la partie.  
+**Sbire**  
+<a href="./sbires.md" style="color:red; font-weight:bold; text-decoration:none;">Rôle du Mal</a> qui aide le Démon.  
 
-**Shroud (Linceul)**  
-Jeton signalant un mort dans le Grimoire.  
-
-**Sober (Sobre)**  
-Pas ivre.  
-
-**Start knowing (Commence en sachant)**  
-Pouvoir qui donne des infos dès la première nuit.  
-
-**State (État)**  
-Statut d’un joueur (sobre/ivre, vivant/mort, etc.).  
-
-**Storyteller (Conteur)**  
-Personne qui arbitre la partie.  
+**Secret**  
+Information gardée cachée des autres joueurs.  
 
 ---
 
 ## 🅣 T
-**Team (Équipe)**  
-Tous les joueurs partageant le même alignement.  
+**Tour de l’horloge**  
+Nom symbolique du jeu : *Blood on the Clocktower*.  
 
-**Think (Croire être)**  
-Croire jouer un rôle qui n’est pas le sien (ex. Marionnette).  
+**Travail d’équipe**  
+Les joueurs d’un même alignement gagnent ou perdent ensemble.  
 
-**Tomorrow (Demain)**  
-Le prochain cycle jour+nuit.  
-
-**Townsfolk (Villageois)**  
-Rôles bons qui aident activement.  
-
-**Town Square (Place du village)**  
-Plateau central contenant les jetons de vie et de vote.  
-
-**Traveller (Voyageur)**  
-Rôle spécial pour arrivants/départs.  
-
-**Traveller sheet (Feuille des Voyageurs)**  
-Liste des Voyageurs et leur effet.  
-
-**True info (Vraie info)**  
-Info correcte.  
-
-**Type (Type)**  
-Catégorie de rôle (Villageois, Étranger, Sbire, Démon, Voyageur, Légendaire).  
+**Trouble Brewing**  
+<a href="./trouble_brewing.md" style="color:#b58b52; text-decoration:none;">Première édition</a> idéale pour débuter.  
 
 ---
 
 ## 🅥 V
-**Vote (Vote)**  
-Lever la main lors d’une exécution.  
+**Villageois**  
+<a href="./villageois.md" style="color:blue; font-weight:bold; text-decoration:none;">Rôle du Bien</a> ayant un pouvoir utile au groupe.  
 
-**Vote token (Jeton de vote)**  
-Jeton blanc qu’un mort utilise pour voter une dernière fois.  
+**Voyageur**  
+<a href="./voyageurs/voyageurs.md" style="color:purple; font-weight:bold; text-decoration:none;">Rôle spécial</a> ajouté à la partie selon le besoin.  
+
+**Vote**  
+Action de lever la main pour exécuter un joueur.
+
+**Victoire**  
+L’équipe gagne ensemble, vivants ou morts.  
 
 ---
 
-## 🅦 W
-**Wake (Réveiller)**  
-Quand un joueur ouvre les yeux la nuit.  
+<h2 style="color:#ffa64d; font-weight:bold; font-size:24px;">📂 Navigation</h2>
 
-**Win (Gagner)**  
-Victoire de son équipe (les vivants et morts de l’équipe gagnante gagnent ensemble).  
-
-
-⬅️ [Retour à l’accueil](README.md)
+<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  <li>🏠 <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
+</ul>
