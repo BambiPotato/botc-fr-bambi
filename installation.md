@@ -19,11 +19,11 @@ Cette page explique comment **préparer une partie de Blood on the Clocktower** 
 3.  **<span style="color:#b58b52;">Choisir une édition</span>**  
 4.  **<span style="color:#b58b52;">Installer la place du village</span>**
 5.  **<span style="color:#b58b52;">Lire les règles aux nouveaux joueurs</span>**
-6.  **<span style="color:#b58b52;">Choisir secrètement les rôles</span>****  
-7.  **<span style="color:#b58b52;">Ajouter ou retirer des rôles</span>****  
-8.  **<span style="color:#b58b52;">Ajouter les jetons de rappel au Grimoire</span>****  
+6.  **<span style="color:#b58b52;">Choisir secrètement les rôles</span>**  
+7.  **<span style="color:#b58b52;">Ajouter ou retirer des rôles</span>**  
+8.  **<span style="color:#b58b52;">Ajouter les jetons de rappel au Grimoire</span>**  
 9.  **<span style="color:#b58b52;">Distribuer les rôles</span>****  
-10. **<span style="color:#b58b52;">Placer les jetons de rôle dans le Grimoire</span>****  
+10. **<span style="color:#b58b52;">Placer les jetons de rôle dans le Grimoire</span>**  
 
 ---
 
