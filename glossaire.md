@@ -34,6 +34,7 @@ Les rôles qui agissent « à l'aube » agissent après presque tous les autres.
 
 ## 🅱️ B
 **Bon/Bien**
+
 L'alignement est bon. Les <a href="./villageois.md" style="color:blue; font-weight:bold; text-decoration:none;">Villageois</a> et les <a href="./etrangers.md" style="color:blue; font-weight:bold; text-decoration:none;">Étrangers</a>.(rôles bleus) commencent bons. 
 Le Bien l'emporte si le Démon meurt.
 
@@ -41,6 +42,7 @@ Le Bien l'emporte si le Démon meurt.
 Support du Conteur où sont disposés tous les jetons et rappels.  
 
 **Bon Rôles** 
+
 Les <a href="./villageois.md" style="color:blue; font-weight:bold; text-decoration:none;">Villageois</a> et les <a href="./etrangers.md" style="color:blue; font-weight:bold; text-decoration:none;">Étrangers</a>.
 
 
