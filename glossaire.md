@@ -177,10 +177,7 @@ Permet de créer ses propres listes de rôles :
 ## 🅿 P
 **Place du village**  
 Plateau central où sont disposés les jetons de vie et de vote.  
-
-**Poisonné**  
-Voir *Empoisonné*.  
-
+ 
 **Pouvoir**  
 Autre mot pour *Capacité*.  
 
@@ -190,14 +187,14 @@ Autre mot pour *Capacité*.
 **Rappel (jeton de)**  
 Petits jetons utilisés par le Conteur pour se souvenir des effets en cours.  
 
-**Rôle**  
-Identité jouée par un joueur :  
+**Rôle/Jeton de rôle**  
+Le grand jeton rond que chaque joueur/joueuse reçoit au début de la partie selon leur catégorie et qui indique son rôles. Les joueurs ne peuvent pas regarder les jetons de rôles des autres. 
 <a href="./villageois.md" style="color:blue; font-weight:bold; text-decoration:none;">Villageois</a>,  
 <a href="./etrangers.md" style="color:blue; font-weight:bold; text-decoration:none;">Étranger</a>,  
 <a href="./sbires.md" style="color:red; font-weight:bold; text-decoration:none;">Sbire</a>,  
 <a href="./demons.md" style="color:red; font-weight:bold; text-decoration:none;">Démon</a>,  
 <a href="./voyageurs/voyageurs.md" style="color:purple; font-weight:bold; text-decoration:none;">Voyageur</a>  
-ou <a href="./legendaires.md" style="color:#b58b52; font-weight:bold; text-decoration:none;">Légendaire</a>.  
+ 
 
 ---
 
