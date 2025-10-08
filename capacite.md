@@ -5,7 +5,7 @@
   </a>
 </p>
 
-# 🧩 <span style="color:#b58b52; font-weight:bold; font-size:36px;">Capacités</span>  
+# 📋 <span style="color:#b58b52; font-weight:bold; font-size:36px;">Capacités</span>  
 
 <span style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Chaque rôle de *Blood on the Clocktower* possède une **capacité unique**, décrite sur son jeton, sa fiche et dans son almanach.  
