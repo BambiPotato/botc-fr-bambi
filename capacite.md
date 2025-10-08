@@ -62,7 +62,7 @@ Un joueur ivre ou empoisonné est traité comme **mort**, sans capacité active.
 
 Exemples :  
 - Si l’[**Aubergiste**](./bmr_roles/aubergiste.md) protège la [**Femme de Chambre**](./bmr_roles/femmedechambre.md) mais devient ivre, la protection cesse.  
-- Si Julien empoisonne Amy, et qu’Évin empoisonne ensuite Julien, alors Amy **n’est plus empoisonnée**.
+- Si Julien empoisonne Clara, et qu’Alexandre empoisonne ensuite Julien, alors Clara **n’est plus empoisonnée**.
 </span>  
 
 ---
