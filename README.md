@@ -66,7 +66,7 @@
 
 - 🐥 <span style="color:#b58b52; font-weight:bold; font-size:20px;">[**Teensyville**](teensyville.md)</span> 
 
-- 🔧 <span style="color:#b58b52; font-weight:bold; font-size:20px;">Libérez votre créativité : créez des scripts uniques !”[**Outil de Script**](outildescript.md)</span>
+- 🔧 <span style="color:#b58b52; font-weight:bold; font-size:20px;">Créez des scripts uniques [**Outil de Script**](outildescript.md)</span>
 
 
 
