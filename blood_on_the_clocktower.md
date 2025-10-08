@@ -23,8 +23,8 @@ mais avec des mécaniques modernes, inclusives et pleines de rebondissements.
 <ul style="color:#e0c99d; font-size:18px; line-height:1.8;">
   <li><strong>Villageois</strong> 🧑‍🌾 : rôles bénéfiques disposant de pouvoirs spéciaux pour démasquer les <span style="color:red; font-weight:bold;">Maléfiques 😈</span>.</li>
   <li><strong>Étrangers</strong> 🌙 : rôles du Bien avec un handicap ou une faiblesse qui complique la tâche du Village.</li>
-  <li><strong><span style="color:red; font-weight:bold;">Sbires (Minions)</span></strong> 💀 : serviteurs du Démon, chargés de semer la confusion et de soutenir le Mal.</li>
-  <li><strong><span style="color:red; font-weight:bold;">Démons (Demons)</span></strong> 🔥 : les grands adversaires à éliminer pour que le Bien triomphe.</li>
+  <li><strong><span style="color:red; font-weight:bold;">Sbires</span></strong> 💀 : serviteurs du Démon, chargés de semer la confusion et de soutenir le Mal.</li>
+  <li><strong><span style="color:red; font-weight:bold;">Démons</span></strong> 🔥 : les grands adversaires à éliminer pour que le Bien triomphe.</li>
 </ul>
 
 ---
