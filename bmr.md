@@ -15,7 +15,6 @@ title: BMR
 
 [<img src="images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="300">](bmr.md) [**Bad Moon Rising**](bmr.md)  
 
-##
 
 <div style="text-align:center; margin-bottom:15px;">
   <a href="./bmr.md" style="text-decoration:none;">
