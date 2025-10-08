@@ -1,10 +1,17 @@
+
+
 <p align="left">
   <a href="/botc-fr-bambi/">
     <img src="images/logo.png" alt="Accueil BotC FR" width="200">
   </a>
 </p>
 
-# 🧩 <span style="color:#b58b52; font-weight:bold; font-size:36px;">Teensyville</span>
+# 🐥 <span style="color:#b58b52; font-weight:bold; font-size:36px;">Teensyville</span>
+
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+  « Moins de joueurs, mais tout autant de chaos.  
+  À Teensyville, les secrets murmurent plus fort que les cris. »
+</p>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.8;">
 Bienvenue à <strong>Teensyville</strong> — un petit village situé à quelques jours de marche de <strong>Ravenswood Bluff</strong>.  
@@ -75,7 +82,7 @@ C’est une excellente façon de découvrir des synergies inédites et d’affin
 ## <span id="creation" style="color:#b58b52; font-weight:bold;">4️⃣ Créer vos propres scripts</span>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Vous pouvez concevoir vos propres scripts <strong>Teensyville</strong> à l’aide de l’outil officiel :  
+Vous pouvez concevoir vos propres scripts <strong>Teensyville</strong> à l’aide de l’outil officiel :
 </p>
 
 <p style="color:#e0c99d; font-size:18px;">
@@ -111,4 +118,3 @@ garantissant une expérience fluide et équilibrée pour vos parties.
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li>🏠 <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
 </ul>
-
