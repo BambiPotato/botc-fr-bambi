@@ -40,6 +40,10 @@ Le Bien l'emporte si le Démon meurt.
 **Boîte du Grimoire**  
 Support du Conteur où sont disposés tous les jetons et rappels.  
 
+**Bon Rôles** 
+Les <a href="./villageois.md" style="color:blue; font-weight:bold; text-decoration:none;">Villageois</a> et les <a href="./etrangers.md" style="color:blue; font-weight:bold; text-decoration:none;">Étrangers</a>.
+
+
 ---
 
 ## 🅲 C
