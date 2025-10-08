@@ -26,10 +26,10 @@ mais avec des mécaniques modernes, inclusives et pleines de rebondissements.
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.8;">
   <li>
-    <strong><a href="./villageois.html" style="color:#77b5ff; font-weight:bold; text-decoration:none;">Villageois</a></strong> 🧑‍🌾 : rôles bénéfiques disposant de pouvoirs spéciaux pour démasquer les <span style="color:red; font-weight:bold;">Maléfiques 😈</span>.
+    <strong><a href="./villageois.html" style="color:blue; font-weight:bold; text-decoration:none;">Villageois</a></strong> 🧑‍🌾 : rôles bénéfiques disposant de pouvoirs spéciaux pour démasquer les <span style="color:red; font-weight:bold;">Maléfiques 😈</span>.
   </li>
   <li>
-    <strong><a href="./etrangers.html" style="color:#77b5ff; font-weight:bold; text-decoration:none;">Étrangers</a></strong> 🌙 : rôles du Bien avec un handicap ou une faiblesse qui complique la tâche du Village.
+    <strong><a href="./etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Étrangers</a></strong> 🌙 : rôles du Bien avec un handicap ou une faiblesse qui complique la tâche du Village.
   </li>
   <li>
     <strong><a href="./sbires.html" style="color:red; font-weight:bold; text-decoration:none;">Sbires</a></strong> 💀 : serviteurs du Démon, chargés de semer la confusion et de soutenir le Mal.
