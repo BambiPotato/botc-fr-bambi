@@ -52,7 +52,7 @@
     📜 Informations sur le Jeu
   </h1>
 
-- 📘 <span style="color:#b58b52; font-weight:bold; font-size:20px;">[Glossaire des termes](glossaire.md)</span>  
+- 📘 <span style="color:#b58b52; font-weight:bold; font-size:20px;">[Glossaire des termes🇫🇷](glossaire.md)</span>  
 
 
 
