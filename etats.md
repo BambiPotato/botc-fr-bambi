@@ -151,7 +151,7 @@ S’il le respecte, il peut recevoir un <strong>bonus</strong>.
 Exemples :
 - Le [**Mutant**](./sv_roles/mutant.md) doit être fou d’être un Étranger :  
   s’il en parle, il risque l’exécution.  
-- Le [**Céréno...vus**](./sv_roles/cerenovus.md) choisit un joueur et lui ordonne d’être fou d’un rôle précis,  
+- Le [**Cerenovus**](./sv_roles/cerenovus.md) choisit un joueur et lui ordonne d’être fou d’un rôle précis,  
   sinon il pourrait être exécuté.  
 
 👉 Les joueurs ne sont jamais obligés d’être fous,  
