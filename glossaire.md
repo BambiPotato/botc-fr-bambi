@@ -88,11 +88,7 @@ Le joueur qui possède le rôle du Démon. Dans une partie avec plusieurs Démon
 
 **Demain**  
 La phase de jour et la phase de nuit suivant la phase de nuit actuelle.
-
-**Drunk / Ivre**  
-Joueur qui pense avoir une capacité mais ne l’a pas vraiment.  
-Reçoit des informations fausses.  
-
+  
 **Durée d’une partie**  
 Se termine quand il reste seulement **2 vivants** (victoire du Mal)  
 ou si le **Démon** est mort (victoire du Bien).  
