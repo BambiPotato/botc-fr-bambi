@@ -133,7 +133,7 @@ Ce script est pensé pour 8 joueurs, mélangeant chaos, humour et bluff.
 </p>
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🧑‍🌾 Villageois : <a href="./tb_roles/cuistot.html" style="color:#d4a76a; text-decoration:none;">Cuistot</a>, <a href="./tb_roles/empathique.html" </span>>Empathique</a>, <a href="./bmr_roles/aubergiste.html" style="color:#d4a76a; text-decoration:none;">Aubergiste</a></li>
+  <li>🧑‍🌾 Villageois : <a href="./tb_roles/cuistot.html" style="color:#d4a76a; text-decoration:none;">Cuistot</a>, <a href="./tb_roles/empathique.html" </span>>Empathique</a>, <a href="./bmr_roles/aubergiste.html" style="color:blue; text-decoration:none;">Aubergiste</a></li>
   <li>👤 Étrangers : <a href="./tb_roles/ivrogne.html" style="color:#d4a76a; text-decoration:none;">Ivrogne</a>, <a href="./sv_roles/maladroit.html" style="color:#d4a76a; text-decoration:none;">Maladroit</a></li>
   <li>😈 Sbires : <a href="./tb_roles/espion.html" style="color:red; font-weight:bold; text-decoration:none;">Espion</a>, <a href="./sv_roles/pit_hag.html" style="color:red; font-weight:bold; text-decoration:none;">Pit-Hag</a></li>
   <li>🔥 Démon : <a href="./tb_roles/imp.html" style="color:red; font-weight:bold; text-decoration:none;">Imp</a></li>
