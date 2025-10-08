@@ -69,7 +69,7 @@ Exemples :
 🧭 Lorsqu’un joueur change de rôle ou d’alignement, le Conteur le lui apprend secrètement,  
 au moment indiqué sur la feuille de nuit ou dans l’almanach.  
 
-Ce changement n’est **pas affecté** par l’ivresse, le poison, ou des effets comme ceux du [**Vortox**](./sv_roles/vortox.md) :  
+Ce changement n’est **pas affecté** par l’ivresse, le poison, ou des effets comme ceux du <span style="color:red;">[**Vortox**](./sv_roles/vortox.md)</span> :  
 chaque joueur doit toujours connaître son propre rôle et son alignement.
 
 ⚠️ Exceptions :  
