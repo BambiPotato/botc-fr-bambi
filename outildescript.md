@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# 🧠 <span style="color:#b58b52; font-weight:bold; font-size:36px;">Outil de Script</span>
+# 🔧 <span style="color:#b58b52; font-weight:bold; font-size:36px;">Outil de Script</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Chaque Conteur est aussi un créateur.  
