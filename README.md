@@ -54,6 +54,8 @@
 
 - 📘 <span style="color:#b58b52; font-weight:bold; font-size:20px;">[Glossaire des termes🇫🇷](glossaire.md)</span>  
 
+- 📘 <span style="color:#b58b52; font-weight:bold; font-size:20px;">[Glossaire des termes originaux ➡️🇫🇷](glossaireengfr.md)
+
 
 ---
 <!-- 📖 Livre des Règles-->
