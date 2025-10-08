@@ -58,7 +58,7 @@ Disposition des joueurs, en cercle ou en carré.
 Chaque phase nocturne.
 
 **Chaque nuit***  
-Abréviation sur feuilles/jetons : « chaque phase de nuit sauf la première ».
+Abréviation sur feuilles/jetons de rôles : « chaque phase de nuit sauf la première ».
 
 **Choisir**  
 Quand une capacité indique « choisir », c’est le joueur qui décide. Sinon, le choix revient au <a href="./conteur.html" style="color:#d4a76a; text-decoration:none;">Conteur</a>.
