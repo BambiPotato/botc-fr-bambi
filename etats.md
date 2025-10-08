@@ -64,7 +64,7 @@ Changer de camp ne modifie pas le rôle, et changer de rôle ne change pas d’a
 
 Exemples :  
 - Si la [**Brute**](./bmr_roles/brute.md) devient maléfique, elle reste la Brute.  
-- Si la [**Fleuriste**](./sv_roles/fleuriste.md) devient la [**Sorcière**](./sv_roles/sorciere.md) grâce à la [**Pit-Hag**](./sv_roles/pit-hag.md), la [**Sorcière**](./sv_roles/sorciere.md)  reste bonne.
+- Si la [**Fleuriste**](./sv_roles/fleuriste.md) devient la [**Sorcière**](./sv_roles/sorciere.md) grâce à la <span style="color:red;">[**Pit-Hag**](./sv_roles/pit-hag.md)</span> , la [**Sorcière**](./sv_roles/sorciere.md)  reste bonne.
 
 🧭 Lorsqu’un joueur change de rôle ou d’alignement, le Conteur le lui apprend secrètement,  
 au moment indiqué sur la feuille de nuit ou dans l’almanach.  
