@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# 🧠 <span style="color:#b58b52; font-weight:bold; font-size:36px;">Outil de Script</span>
+# 🔧 <span style="color:#b58b52; font-weight:bold; font-size:36px;">Outil de Script</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Chaque Conteur est aussi un créateur.  
@@ -45,7 +45,7 @@ le <a href="./sv_roles/jumeau_malefique.html" style="color:red; font-weight:bold
 et l’<a href="./bmr_roles/aubergiste.html" style="color:#d4a76a; text-decoration:none;">Aubergiste</a>.  
 
 Ou encore, un scénario où l’<a href="./tb_roles/espion.html" style="color:red; font-weight:bold; text-decoration:none;">Espion</a>  
-croise le <a href="./sv_roles/maladroit.html" style="color:#d4a76a; text-decoration:none;">Maladroit</a> !
+croise le <a href="./sv_roles/maladroit.html" style="color:blue; font-weight:bold; text-decoration:none;">Maladroit</a> !
 </p>
 
 ---
@@ -85,7 +85,7 @@ Commencez petit : choisissez quelques rôles centraux, puis étoffez au fil du t
 ## <span id="ajouter-voyageurs-legendaire" style="color:#b58b52; font-weight:bold;">4️⃣ Ajouter les Voyageurs & Légendaires</span>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-L’ajout de <a href="./voyageurs/voyageurs.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Voyageurs</a>  
+L’ajout de <a href="./voyageurs/voyageurs.html"style="color:purple; font-weight:bold; text-decoration:none;">Voyageurs</a>  
 dans vos scripts personnalisés est simple.  
 Certains s’intègrent parfaitement à vos choix de rôles, d’autres un peu moins.  
 Choisissez-en jusqu’à cinq avant la partie, ou ajoutez-en en cours de route.  
@@ -97,7 +97,7 @@ Ils permettent par exemple de :
 </p>
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>Modifier le nombre d’<a href="./etrangers.html" style="color:#d4a76a; text-decoration:none;">Étrangers</a> en jeu.</li>
+  <li>Modifier le nombre d’<a href="./etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Étrangers</a> en jeu.</li>
   <li>Introduire de la désinformation au bon moment.</li>
   <li>Résoudre des conflits entre capacités de rôles.</li>
 </ul>
@@ -113,7 +113,7 @@ Créer un script est un art : il faut parfois plusieurs essais avant de trouver 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Lorsque vous créez vos propres scripts, vous rencontrerez forcément des cas étranges :  
 un <span style="color:red; font-weight:bold;">Saint maléfique</span>,  
-deux <strong>Philosophes</strong> voulant copier le même rôle,  
+deux <strong><span style="color:blue; font-weight:bold; text-decoration:none;"Philosophes</span></strong> voulant copier le même rôle,  
 ou des interactions improbables entre éditions.  
 Avec plus de deux cents rôles disponibles, c’est inévitable !
 </p>
@@ -133,7 +133,7 @@ Ce script est pensé pour 8 joueurs, mélangeant chaos, humour et bluff.
 </p>
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🧑‍🌾 Villageois : <a href="./tb_roles/cuistot.html" style="color:#d4a76a; text-decoration:none;">Cuistot</a>, <a href="./tb_roles/empathique.html" style="color:#d4a76a; text-decoration:none;">Empathique</a>, <a href="./bmr_roles/aubergiste.html" style="color:#d4a76a; text-decoration:none;">Aubergiste</a></li>
+  <li>🧑‍🌾 Villageois : <a href="./tb_roles/cuistot.html" style="color:#d4a76a; text-decoration:none;">Cuistot</a>, <a href="./tb_roles/empathique.html" </span>>Empathique</a>, <a href="./bmr_roles/aubergiste.html" style="color:#d4a76a; text-decoration:none;">Aubergiste</a></li>
   <li>👤 Étrangers : <a href="./tb_roles/ivrogne.html" style="color:#d4a76a; text-decoration:none;">Ivrogne</a>, <a href="./sv_roles/maladroit.html" style="color:#d4a76a; text-decoration:none;">Maladroit</a></li>
   <li>😈 Sbires : <a href="./tb_roles/espion.html" style="color:red; font-weight:bold; text-decoration:none;">Espion</a>, <a href="./sv_roles/pit_hag.html" style="color:red; font-weight:bold; text-decoration:none;">Pit-Hag</a></li>
   <li>🔥 Démon : <a href="./tb_roles/imp.html" style="color:red; font-weight:bold; text-decoration:none;">Imp</a></li>
