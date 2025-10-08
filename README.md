@@ -47,6 +47,16 @@
 </p>
 
 ---
+<!-- 📖 Informations sur le Jeu-->
+<h1 style="color:#b58b52; font-size:46px; font-weight:bold; text-shadow:2px 2px 6px #000;">
+    📜 Informations sur le Jeu
+  </h1>
+
+- 📘 <span style="color:#b58b52; font-weight:bold; font-size:20px;">[Glossaire des termes](glossaire.md)</span>  
+
+
+
+---
 <!-- 📖 Livre des Règles-->
 <h1 style="color:#b58b52; font-size:46px; font-weight:bold; text-shadow:2px 2px 6px #000;">
     📜 Livre des Règles
@@ -67,12 +77,6 @@
 - 🐥 <span style="color:#b58b52; font-weight:bold; font-size:20px;">[**Teensyville**](teensyville.md)</span> 
 
 - 🔧 <span style="color:#b58b52; font-weight:bold; font-size:20px;">Créez des scripts uniques [**Outil de Script**](outildescript.md)</span>
-
----
-  
-## <span style="color:#b58b52; font-weight:bold; font-size:20px;">📘 Glossaire</span>  
-
-- 📘 <span style="color:#b58b52; font-weight:bold; font-size:20px;">[Glossaire des termes](glossaire.md)</span>  
 
 ---
 
