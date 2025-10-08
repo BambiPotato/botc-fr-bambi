@@ -37,7 +37,8 @@ Les rôles qui agissent « à l'aube » agissent après presque tous les autres.
 Alignement des <a href="./villageois.md" style="color:blue; font-weight:bold; text-decoration:none;">Villageois</a> et des <a href="./etrangers.md" style="color:blue; font-weight:bold; text-decoration:none;">Étrangers</a>.  
 
 **Bien** 
-L'alignement est bon. Les Villageaois et les Étrangers (rôles bleus) commencent bons. Le Bien l'emporte si le Démon meurt.
+L'alignement est bon. Les <a href="./villageois.md" style="color:blue; font-weight:bold; text-decoration:none;">Villageois</a> et les <a href="./etrangers.md" style="color:blue; font-weight:bold; text-decoration:none;">Étrangers</a> (rôles bleus) commencent bons. 
+Le Bien l'emporte si le Démon meurt.
 
 **Boîte du Grimoire**  
 Support du Conteur où sont disposés tous les jetons et rappels.  
