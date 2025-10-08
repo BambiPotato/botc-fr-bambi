@@ -25,7 +25,7 @@ C’est la meilleure façon de renouveler vos parties de <em>Blood on the Clockt
   <li><a href="#pourquoi-creer-un-script" style="color:#d4a76a; font-weight:bold; text-decoration:none;">1️⃣ Pourquoi créer un script ?</a></li>
   <li><a href="#utiliser-loutil-officiel" style="color:#d4a76a; font-weight:bold; text-decoration:none;">2️⃣ Utiliser l’outil officiel</a></li>
   <li><a href="#ameliorer-vos-creations" style="color:#d4a76a; font-weight:bold; text-decoration:none;">3️⃣ Améliorer vos créations</a></li>
-  <li><a href="#ajouter-voyageurs-fables" style="color:#d4a76a; font-weight:bold; text-decoration:none;">4️⃣ Ajouter les Voyageurs et Fables</a></li>
+  <li><a href="#ajouter-voyageurs-fables" style="color:#d4a76a; font-weight:bold; text-decoration:none;">4️⃣ Ajouter les Voyageurs et Légendaires</a></li>
   <li><a href="#gerer-les-situations-inhabituelles" style="color:#d4a76a; font-weight:bold; text-decoration:none;">5️⃣ Gérer les situations inhabituelles</a></li>
 </ul>
 
@@ -38,7 +38,7 @@ Vous avez des rôles favoris que vous voulez inclure dans presque toutes vos par
 Ou des combinaisons en tête qui pourraient créer des interactions originales et stratégiques ?  
 
 L’<strong>Outil de Script</strong> vous permet de donner vie à ces idées.  
-Par exemple, imaginez une partie avec la Pit-Hag <a href="./sv_roles/pithag.html" style="color:#d67bff; text-decoration:none;">Croque-Mort</a>,  
+Par exemple, imaginez une partie avec >la Pit-Hag</a>href="./sv_roles/pithag.html" style="color:#d67bff; text-decoration:none;">Croque-Mort</a>,  
 le <a href="./tb_roles/saint.html" style="color:#d4a76a; text-decoration:none;">Saint</a>,  
 l’<span style="color:red; font-weight:bold;">Evil Twin</span> et l’<a href="./bmr_roles/aubergiste.html" style="color:#d4a76a; text-decoration:none;">Aubergiste</a>.  
 Ou encore, un scénario où l' <a href="./tb_roles/espion.html" style="color:#d4a76a; text-decoration:none;">Espion</a> croise le <a href="./sv_roles/maladroit.html" style="color:#d4a76a; text-decoration:none;">Maladroit</a> !
