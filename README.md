@@ -55,7 +55,6 @@
 - 📘 <span style="color:#b58b52; font-weight:bold; font-size:20px;">[Glossaire des termes🇫🇷](glossaire.md)</span>  
 
 
-
 ---
 <!-- 📖 Livre des Règles-->
 <h1 style="color:#b58b52; font-size:46px; font-weight:bold; text-shadow:2px 2px 6px #000;">
