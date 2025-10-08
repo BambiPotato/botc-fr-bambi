@@ -10,6 +10,10 @@
   « Quand le clocher sonne, chacun cache un secret... et tout le monde ment un peu. »
 </p>
 
+<p style="text-align:center; color:#e0c99d; font-size:17px; margin-top:-5px;">
+  <em>Un jeu de mensonges, de déductions et de trahisons sous le regard du clocher...</em>
+</p>
+
 <p style="color:#e0c99d; font-size:18px; line-height:1.8;">
 <em>Blood on the Clocktower</em> est un <strong>jeu de déduction sociale</strong>, dans la lignée des 
 <em>Loups-Garous 🐺 de Thiercelieux</em> ou de <em>Mafia</em>,  
@@ -21,10 +25,18 @@ mais avec des mécaniques modernes, inclusives et pleines de rebondissements.
 ## ⚔️ <span style="color:#b58b52; font-weight:bold;">Les rôles dans le jeu</span>
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.8;">
-  <li><strong>Villageois</strong> 🧑‍🌾 : rôles bénéfiques disposant de pouvoirs spéciaux pour démasquer les <span style="color:red; font-weight:bold;">Maléfiques 😈</span>.</li>
-  <li><strong>Étrangers</strong> 🌙 : rôles du Bien avec un handicap ou une faiblesse qui complique la tâche du Village.</li>
-  <li><strong><span style="color:red; font-weight:bold;">Sbires</span></strong> 💀 : serviteurs du Démon, chargés de semer la confusion et de soutenir le Mal.</li>
-  <li><strong><span style="color:red; font-weight:bold;">Démons</span></strong> 🔥 : les grands adversaires à éliminer pour que le Bien triomphe.</li>
+  <li>
+    <strong><a href="./villageois.html" style="color:#77b5ff; font-weight:bold; text-decoration:none;">Villageois</a></strong> 🧑‍🌾 : rôles bénéfiques disposant de pouvoirs spéciaux pour démasquer les <span style="color:red; font-weight:bold;">Maléfiques 😈</span>.
+  </li>
+  <li>
+    <strong><a href="./etrangers.html" style="color:#77b5ff; font-weight:bold; text-decoration:none;">Étrangers</a></strong> 🌙 : rôles du Bien avec un handicap ou une faiblesse qui complique la tâche du Village.
+  </li>
+  <li>
+    <strong><a href="./sbires.html" style="color:red; font-weight:bold; text-decoration:none;">Sbires</a></strong> 💀 : serviteurs du Démon, chargés de semer la confusion et de soutenir le Mal.
+  </li>
+  <li>
+    <strong><a href="./demons.html" style="color:red; font-weight:bold; text-decoration:none;">Démons</a></strong> 🔥 : les grands adversaires à éliminer pour que le Bien triomphe.
+  </li>
 </ul>
 
 ---
@@ -33,7 +45,7 @@ mais avec des mécaniques modernes, inclusives et pleines de rebondissements.
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.8;">
   <li>☠️ Les <strong>morts continuent de jouer</strong> : ils gardent une voix pour influencer le vote final.</li>
-  <li>📜 Les <strong><a href="./conteur.md" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Conteurs</a></strong> guident la partie, adaptent les événements et équilibrent le jeu.</li>
+  <li>📜 Les <strong><a href="./conteur.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Conteurs</a></strong> guident la partie, adaptent les événements et équilibrent le jeu.</li>
   <li>🧩 Les <strong>scripts</strong> changent à chaque partie :
     <ul>
       <li>🍺 <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
@@ -47,7 +59,7 @@ mais avec des mécaniques modernes, inclusives et pleines de rebondissements.
 ---
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.8;">
-📘 Découvrez les <a href="./regles.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Règles complètes du jeu Blood on the Clocktower 🩸</a>
+📘 Découvrez les <a href="./regles.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Règles complètes du jeu <em>Blood on the Clocktower</em> 🩸</a>
 </p>
 
 ---
@@ -57,4 +69,5 @@ mais avec des mécaniques modernes, inclusives et pleines de rebondissements.
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li>🏠 <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
 </ul>
+
 
