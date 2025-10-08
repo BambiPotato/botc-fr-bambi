@@ -60,11 +60,14 @@
 
 - ⚖️ <span style="color:#b58b52; font-weight:bold; font-size:20px;">[**Répartition du Village**](repartition.md) </span>  
 
-- 📋 <span style="color:#b58b52; font-weight:bold; font-size:20px;">[**Capacités**](capacite.md)</span>  
+- 📋 <span style="color:#b58b52; font-weight:bold; font-size:20px;">[**Capacités**](capacite.md)</span> 
 
 - 🌀 <span style="color:#b58b52; font-weight:bold; font-size:20px;">[**États**](etats.md)</span> 
 
 - 🐥 <span style="color:#b58b52; font-weight:bold; font-size:20px;">[**Teensyville**](teensyville.md)</span> 
+
+- 🔧 <span style="color:#b58b52; font-weight:bold; font-size:20px;">Libérez votre créativité : créez des scripts uniques !”[**Outil de Script**](outildescript.md)</span>
+
 
 
 ---
