@@ -1,22 +1,126 @@
-Outil de script
-Script Tool
-Once you are familiar with the characters from the three editions in the core set, you may want to create your own unique character lists. These are called scripts.
+<p align="left">
+  <a href="/botc-fr-bambi/">
+    <img src="images/logo.png" alt="Accueil BotC FR" width="200">
+  </a>
+</p>
 
-Do you have favorite characters that you like to put in nearly every game? Have you thought of character combinations that would make for interesting and challenging situations?
+# 🧠 <span style="color:#b58b52; font-weight:bold; font-size:36px;">Outil de Script</span>
 
-Do you want to make a game with a Pit-Hag, a Saint, an Evil Twin, and an Innkeeper? Maybe you want to combine the Klutz and the Spy? If you have internet access, you can do so!
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+  « Chaque Conteur est aussi un créateur.  
+  Composez votre propre histoire... un rôle à la fois. »
+</p>
 
-At https://script.bloodontheclocktower.com, you can create a script from any combination of characters you own. This tool will also generate a night sheet for a game with your custom character list, making it easy to run.
+<p style="color:#e0c99d; font-size:18px; line-height:1.8;">
+Une fois que vous maîtrisez les rôles des trois éditions principales,  
+vous pouvez créer vos propres listes de rôles uniques : les <strong>Scripts personnalisés</strong>.  
+C’est la meilleure façon de renouveler vos parties de <em>Blood on the Clocktower</em> !
+</p>
 
-Comparing scripts is a fun and challenging way to improve your designs. It is often a good idea to start with just a few core characters that you want to include, and build from there. Online at bloodontheclocktower.com, or on your local Facebook or Meetup group, there should be a community active in comparing their creations. You are welcome to join.
+---
 
-Adding Travellers to a custom game is easy. Just do so normally. Some Travellers may not be appropriate to mix with the characters in play, some will be. You can decide on five Travellers that merge well with your script before the game begins, or make a decision in the moment.
+## 📋 <span style="color:#b58b52; font-weight:bold;">Sommaire</span>
 
-Some Fabled characters are designed to help you create unique and interesting games. Creating your own script is an art, and it may take a few tries to find something you are happy with. Luckily, you already have some Fabled characters to help you make your game run smoothly. Maybe you have an overabundance of evil in the game? Or only a dozen characters?
+<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  <li><a href="#pourquoi-creer-un-script" style="color:#d4a76a; font-weight:bold; text-decoration:none;">1️⃣ Pourquoi créer un script ?</a></li>
+  <li><a href="#utiliser-loutil-officiel" style="color:#d4a76a; font-weight:bold; text-decoration:none;">2️⃣ Utiliser l’outil officiel</a></li>
+  <li><a href="#ameliorer-vos-creations" style="color:#d4a76a; font-weight:bold; text-decoration:none;">3️⃣ Améliorer vos créations</a></li>
+  <li><a href="#ajouter-voyageurs-fables" style="color:#d4a76a; font-weight:bold; text-decoration:none;">4️⃣ Ajouter les Voyageurs et Fables</a></li>
+  <li><a href="#gerer-les-situations-inhabituelles" style="color:#d4a76a; font-weight:bold; text-decoration:none;">5️⃣ Gérer les situations inhabituelles</a></li>
+</ul>
 
-Fabled characters can also ensure your game has an unknown number of Outsiders (which allows players to safely bluff as them), or add extra misinformation when needed, or resolve situations where character abilities clash.
+---
 
-See the Travellers & Fabled for more information on using Fabled characters to make your game more balanced and fun for all players.
+## <span id="pourquoi-creer-un-script" style="color:#b58b52; font-weight:bold;">1️⃣ Pourquoi créer un script ?</span>
 
-Handling strange character interactions is more art than science. When you create your own scripts, you’ll end up with some odd situations indeed. Maybe you’ll have an evil Saint? Or end up with two Philosophers wanting to turn into the same character at the same time? With over two hundred characters in the works, some weird situations will arise. While the Clocktower rules are written with this in mind, you might be uncertain sometimes about how two characters combine. Use your best guess. As the Storyteller, your decision is final—but make sure you tell the players that you’re making a ruling. It might not be the best call, but at least it will be a clear one.
+<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+Vous avez des rôles favoris que vous voulez inclure dans presque toutes vos parties ?  
+Ou des combinaisons en tête qui pourraient créer des interactions originales et stratégiques ?  
 
+L’<strong>Outil de Script</strong> vous permet de donner vie à ces idées.  
+Par exemple, imaginez une partie avec le <a href="./bmr_roles/sorciere.html" style="color:#d67bff; text-decoration:none;">Fossoyeur</a>,  
+le <a href="./tb_roles/saint.html" style="color:#d4a76a; text-decoration:none;">Saint</a>,  
+l’<span style="color:red; font-weight:bold;">Evil Twin</span> et l’<a href="./bmr_roles/aubergiste.html" style="color:#d4a76a; text-decoration:none;">Aubergiste</a>.  
+Ou encore, un scénario où le <a href="./sv_roles/espion.html" style="color:#d4a76a; text-decoration:none;">Spy</a> croise le <a href="./sv_roles/maladroit.html" style="color:#d4a76a; text-decoration:none;">Klutz</a> !
+</p>
+
+---
+
+## <span id="utiliser-loutil-officiel" style="color:#b58b52; font-weight:bold;">2️⃣ Utiliser l’outil officiel</span>
+
+<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+L’outil officiel permet de créer un script à partir de n’importe quelle combinaison de rôles.  
+Il génère automatiquement la <strong>feuille de nuit</strong> correspondante, ce qui facilite la tâche du Conteur.  
+</p>
+
+<p style="color:#e0c99d; font-size:18px;">
+🔧 <a href="https://script.bloodontheclocktower.com" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Accéder à l’Outil Officiel de Création de Scripts</a>
+</p>
+
+---
+
+## <span id="ameliorer-vos-creations" style="color:#b58b52; font-weight:bold;">3️⃣ Améliorer vos créations</span>
+
+<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+Comparer vos scripts avec ceux d’autres Conteurs est un excellent moyen d’apprendre et de progresser.  
+Commencez petit : choisissez quelques rôles centraux, puis ajoutez-en au fur et à mesure.  
+</p>
+
+<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+💬 Rejoignez les communautés en ligne :
+</p>
+
+<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  <li><a href="https://bloodontheclocktower.com" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Site officiel Blood on the Clocktower</a></li>
+  <li><a href="https://www.meetup.com/blood-on-the-clocktower-paris/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Meetup Blood on the Clocktower Paris</a></li>
+  <li><a href="https://discord.gg/tGDVmZfZpE" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Serveur Discord francophone</a></li>
+</ul>
+
+---
+
+## <span id="ajouter-voyageurs-fables" style="color:#b58b52; font-weight:bold;">4️⃣ Ajouter les Voyageurs et Fables</span>
+
+<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+L’ajout de <a href="./voyageurs/voyageurs.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Voyageurs</a> à vos scripts personnalisés est simple :  
+certains se marieront bien avec vos choix de rôles, d’autres moins.  
+Vous pouvez en choisir jusqu’à cinq avant la partie, ou décider à la volée.  
+
+Les personnages <a href="./fabled.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Fabled</a> sont là pour vous aider à équilibrer ou enrichir vos scénarios.  
+Ils permettent par exemple de :
+</p>
+
+<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  <li>Modifier le nombre d’<a href="./etrangers.html" style="color:#d4a76a; text-decoration:none;">Étrangers</a> en jeu.</li>
+  <li>Introduire de fausses informations pour semer le doute.</li>
+  <li>Résoudre les conflits entre capacités.</li>
+</ul>
+
+<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+Créer un script est un art : il faut parfois plusieurs essais avant d’obtenir un résultat vraiment satisfaisant.
+</p>
+
+---
+
+## <span id="gerer-les-situations-inhabituelles" style="color:#b58b52; font-weight:bold;">5️⃣ Gérer les situations inhabituelles</span>
+
+<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+Lorsque vous créez vos propres scripts, vous rencontrerez forcément des situations étranges ou inédites :  
+un <span style="color:red; font-weight:bold;">Saint maléfique</span>, deux <strong>Philosophes</strong> voulant copier le même rôle,  
+ou des interactions improbables entre éditions.  
+
+Avec plus de 200 rôles existants, c’est inévitable !  
+</p>
+
+<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+📜 <strong>Conseil :</strong> Le Conteur doit toujours trancher, clairement et avec cohérence.  
+Expliquez vos décisions, même si elles ne sont pas parfaites.  
+Ce qui compte, c’est la clarté et la continuité du jeu.  
+</p>
+
+---
+
+<h2 style="color:#ffa64d; font-weight:bold; font-size:24px;">📂 Navigation</h2>
+
+<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  <li>🏠 <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
+</ul>
