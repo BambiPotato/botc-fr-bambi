@@ -60,8 +60,9 @@
 
 - ⚖️<span style="color:#b58b52; font-weight:bold; font-size:20px;"> [**Répartition du Village**](repartition.md) </span>  
 
----
+- <span style="color:#b58b52; font-weight:bold; font-size:20px;">[**Capacités**](capacite.md)</span>  
 
+---
 ## <span style="color:#b58b52; font-weight:bold; font-size:20px;">📘 Glossaire</span>  
 
 - 📘 <span style="color:#b58b52; font-weight:bold; font-size:20px;">[Glossaire des termes](glossaire.md)</span>  
