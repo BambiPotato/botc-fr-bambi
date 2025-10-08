@@ -38,7 +38,7 @@ Vous avez des rôles favoris que vous voulez inclure dans presque toutes vos par
 Ou des combinaisons en tête qui pourraient créer des interactions originales et stratégiques ?  
 
 L’<strong>Outil de Script</strong> vous permet de donner vie à ces idées.  
-Par exemple, imaginez une partie avec le <a href="./bmr_roles/sorciere.html" style="color:#d67bff; text-decoration:none;">Fossoyeur</a>,  
+Par exemple, imaginez une partie avec la Pit-Hag <a href="./bmr_roles/pithag.html" style="color:#d67bff; text-decoration:none;">Croque-Mort</a>,  
 le <a href="./tb_roles/saint.html" style="color:#d4a76a; text-decoration:none;">Saint</a>,  
 l’<span style="color:red; font-weight:bold;">Evil Twin</span> et l’<a href="./bmr_roles/aubergiste.html" style="color:#d4a76a; text-decoration:none;">Aubergiste</a>.  
 Ou encore, un scénario où le <a href="./sv_roles/espion.html" style="color:#d4a76a; text-decoration:none;">Spy</a> croise le <a href="./sv_roles/maladroit.html" style="color:#d4a76a; text-decoration:none;">Klutz</a> !
