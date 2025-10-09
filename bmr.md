@@ -12,15 +12,6 @@ title: BMR
 <div class="page-bmr" markdown="1">
 
 
-<div style="text-align:center; margin-bottom:15px;">
-  <a href="./bmr.html" style="text-decoration:none;">
-    <img src="./images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="320" style="border-radius:8px;">
-    <br>
-    <span style="color:#ffa64d; font-weight:bold; font-size:24px;">Bad Moon Rising</span>
-  </a>
-</div>
-
-
 <!-- 🌕 Logo centré cliquable -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./bmr.html" style="text-decoration:none;">
