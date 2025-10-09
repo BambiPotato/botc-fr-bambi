@@ -632,8 +632,6 @@ Que vos parties soient pleines de mystères, de rires et de clochers résonnants
 
 ---
 
----
-
 <a id="1-faire-fonctionner-les-choses-en-douceur"></a>
 ## 1. Faire fonctionner les choses en douceur
 
