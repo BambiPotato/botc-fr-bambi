@@ -175,11 +175,6 @@ Ces ressources sont pratiques pour <strong>imprimer</strong> et <strong>jouer en
 </ul>
 -----
 TEST
-----
-
----
-layout: default
-title: BMR
 ---
 
 <p align="left">
