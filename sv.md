@@ -147,10 +147,10 @@ C’est aussi la première apparition de la <strong>Folie</strong>, qui peut com
   [<img src="./images/Icon_cerenovus.png" alt="Cerenovus" width="300">](sv_roles/cerenovus.md)  
   [<span style="color:red;">**Cerenovus**</span>](sv_roles/cerenovus.md)
 </div> <div style="text-align:center; display:inline-block; margin: 10px;">
-  [<img src="./images/Icon_pit-hag.png" alt="Pit-Hag" width="300">](sv_roles/pit-hag.md)  
+  [<img src="./images/Icon_pithag.png" alt="Pit-Hag" width="300">](sv_roles/pit-hag.md)  
   [<span style="color:red;">**Pit-Hag**</span>](sv_roles/pit-hag.md)
 </div> <div style="text-align:center; display:inline-block; margin: 10px;">
-  [<img src="./images/Icon_evil_twin.png" alt="Jumeau Maléfique" width="300">](sv_roles/jumeau_maléfique.md)  
+  [<img src="./images/Icon_eviltwin.png" alt="Jumeau Maléfique" width="300">](sv_roles/jumeau_maléfique.md)  
   [<span style="color:red;">**Jumeau Maléfique**</span>](sv_roles/jumeau_maléfique.md)
 </div>
 
@@ -165,7 +165,7 @@ C’est aussi la première apparition de la <strong>Folie</strong>, qui peut com
   [<img src="./images/Icon_vigormortis.png" alt="Vigormortis" width="300">](sv_roles/vigormortis.md)  
   [<span style="color:red;">**Vigormortis**</span>](sv_roles/vigormortis.md)
 </div> <div style="text-align:center; display:inline-block; margin: 10px;">
-  [<img src="./images/Icon_no_dashii.png" alt="No Dashii" width="300">](sv_roles/no_dashii.md)  
+  [<img src="./images/Icon_nodashii.png" alt="No Dashii" width="300">](sv_roles/no_dashii.md)  
   [<span style="color:red;">**No Dashii**</span>](sv_roles/no_dashii.md)
 </div> <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_vortox.png" alt="Vortox" width="300">](sv_roles/vortox.md)  
