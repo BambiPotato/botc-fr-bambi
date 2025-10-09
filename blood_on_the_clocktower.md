@@ -294,4 +294,3 @@ Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient
   <li>🏠 <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
 </ul>
 
-
