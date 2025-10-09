@@ -204,8 +204,6 @@ Ces ressources sont pratiques pour <strong>imprimer</strong> et <strong>jouer en
 </ul>
 ####
 TEST
-layout: default
-title: Trouble Brewing
 ---
 
 <p align="left">
