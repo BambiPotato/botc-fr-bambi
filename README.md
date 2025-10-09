@@ -98,7 +98,7 @@
 
 [<img src="images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="300">](bmr.md) [**Bad Moon Rising**](bmr.md)  
 
-[<img src="images/Logo_sects_and_violets.png" alt="Sects & Violets" width="300">](#) [**Sects & Violets**](sv.md) 
+[<img src="images/Logo_sects_and_violets.png" alt="Sects & Violets" width="300">](sv.md) [**Sects & Violets**](sv.md) 
 
 [<img src="images/Generic_traveller.png" alt="Voyageurs" width="300">](voyageurs/voyageurs.md) [**Voyageurs**](voyageurs/voyageurs.md)  
 
