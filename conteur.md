@@ -106,7 +106,7 @@ Vous n'avez pas besoin d’occuper la scène, votre rôle est de guider, pas de 
 
 Vous ferez forcément des erreurs, comme tous les <span style="color:#d4a76a;">Conteurs</span>.  
 Peut-être avez-vous laissé le <a href="./tb_roles/soldat.html" style="color:blue;">Soldat</a> mourir par erreur ?  
-Ou oublié que le <a href="./tb_roles/maire.html" style="color:blue;">Maire</a> était en réalité un <a href="./tb_roles/ivre.html" style="color:blue;">Ivre</a> ?  
+Ou oublié que le <a href="./tb_roles/maire.html" style="color:blue;">Maire</a> était en réalité un <a href="./tb_roles/ivrogne.html" style="color:blue;">Ivrogne</a> ?  
 Ce n’est pas grave. Continuez simplement la partie.
 
 Si votre erreur a avantagé l’équipe gagnante, **présentez tes excuses à l’autre équipe**.  
@@ -156,7 +156,7 @@ Avant la première nuit, rappellez aux joueurs et aux joueuses **de ne pas rév�
 Cela mettrait une pression injuste sur le <span style="color:red;">Démon</span>, qui n’a pas encore reçu ses trois bluffs.  
 Même si le jeu dit “vous pouvez dire ce que vous voulez à tout moment”, il est parfois nécessaire d' **interdire cette discussion initiale**.
 
-Si ce problème revient souvent, introduisez un <a href="./legendaires.html" style="color:#b58b52;">Légendairestyle="color:#b58b52;"> comme le style="color:#b58b52;">Bibliothécaire de l’Enferstyle</a>, qui interdit ces échanges prématurés.
+Si ce problème revient souvent, introduisez un <a href="./legendaires.html" style="color:#b58b52;">Légendaires</a> comme le le style="color:#b58b52;">Bibliothécaire de l’Enfer</a>, qui interdit ces échanges prématurés.
 
 ---
 
