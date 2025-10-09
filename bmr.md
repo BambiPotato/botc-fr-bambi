@@ -20,13 +20,35 @@ title: BMR
   </a>
 </div>
 
+
+<!-- 🌕 Logo centré cliquable -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="./bmr.html" style="text-decoration:none;">
+    <img src="./images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="400" style="border-radius:12px;">
+    <br>
+    <span style="color:#ffa64d; font-weight:bold; font-size:26px;">Bad Moon Rising</span>
+  </a>
+</div>
+
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
 </p>
 
+---
 
+## 📑 <span style="color:#ffa64d;">Sommaire</span>
 
-<h2 style="color:#ffa64d; font-weight:bold; font-size:28px;">📖 Synopsis</h2>
+1. [📖 Synopsis](#-synopsis)  
+2. [🎲 Gameplay](#-gameplay)  
+3. [Villageois](#villageois)  
+4. [Étrangers](#étrangers)  
+5. [Sbires](#sbires)  
+6. [Démons](#démons)  
+7. [📥 Télécharger & Imprimer](#-télécharger--imprimer)  
+
+---
+
+## 📖 Synopsis
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Le soleil est avalé par un horizon déchiqueté, alors qu’un autre jour d’hiver cède la place à la nuit.<br>
@@ -43,9 +65,9 @@ Ils se réchauffent avec du thé brûlant, des airs de musique douce et de la bi
 Ce soir, même le bétail sait qu’il y a… <strong><span style="color:#ffa64d;">Bad Moon Rising</span></strong>.
 </p>
 
-<hr>
+---
 
-<h2 style="color:#ffa64d; font-weight:bold; font-size:28px;">🎲 Gameplay</h2>
+## 🎲 Gameplay
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 <strong>Bad Moon Rising</strong> est une véritable <strong>fête de la mort</strong>.
@@ -64,7 +86,7 @@ Mais si l’équipe du Bien ne parvient pas à identifier les Sbires et Démons 
 
 <p style="color:#ffa64d; font-size:19px; font-weight:bold;">
 👉 Niveau : <strong>Intermédiaire</strong><br>
-<em>*Recommandé pour les joueurs/joueuses proactifs, attentifs à la coopération d’équipe et qui n’ont pas peur de mourir.*</em>
+<em>*Recommandé pour les joueurs et joueuses proactif·ves, attentif·ves à la coopération d’équipe et qui n’ont pas peur de mourir.*</em>
 </p>
 
 <hr>
@@ -152,147 +174,6 @@ Ces ressources sont pratiques pour <strong>imprimer</strong> et <strong>jouer en
 </div>
 
 <hr>
-
-<!-- 📂 Navigation -->
-<h2 style="color:#ffa64d; font-weight:bold; font-size:24px;">📂 Navigation</h2>
-
-<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
-</ul>
------
-TEST
-
-
----
-layout: default
-title: Bad Moon Rising
----
-
-<p align="left">
-  <a href="/botc-fr-bambi/">
-    <img src="images/logo.png" alt="Accueil BotC FR" width="200">
-  </a>
-</p>
-
-<!-- 🌕 Logo centré cliquable -->
-<div style="text-align:center; margin: 20px 0;">
-  <a href="./bmr.html" style="text-decoration:none;">
-    <img src="./images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="400" style="border-radius:12px;">
-    <br>
-    <span style="color:#ffa64d; font-weight:bold; font-size:26px;">Bad Moon Rising</span>
-  </a>
-</div>
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
-</p>
-
----
-
-## 📑 <span style="color:#ffa64d;">Sommaire</span>
-
-1. [📖 Synopsis](#-synopsis)  
-2. [🎲 Gameplay](#-gameplay)  
-3. [Villageois](#villageois)  
-4. [Étrangers](#étrangers)  
-5. [Sbires](#sbires)  
-6. [Démons](#démons)  
-7. [📥 Télécharger & Imprimer](#-télécharger--imprimer)  
-
----
-
-## 📖 Synopsis
-
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Le soleil est avalé par un horizon déchiqueté, alors qu’un autre jour d’hiver cède la place à la nuit.<br>
-Des éclats orangés et rouges se fondent en bruns plus profonds, la forêt se transformant en silence, dans l’attente de la neige à venir.
-</p>
-
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Des loups affamés hurlent depuis les entrailles d’un ravin rocailleux au-delà des frontières de la ville, envoyant les oiseaux fuir leurs nids.<br>
-Les voyageurs se hâtent vers l’auberge, cherchant refuge contre le froid mordant.<br>
-Ils se réchauffent avec du thé brûlant, des airs de musique douce et de la bière épaisse, sans savoir que des yeux étranges et maléfiques les observent depuis les ruines de cette ancienne cité.
-</p>
-
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Ce soir, même le bétail sait qu’il y a… <strong><span style="color:#ffa64d;">Bad Moon Rising</span></strong>.
-</p>
-
----
-
-## 🎲 Gameplay
-
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-<strong>Bad Moon Rising</strong> est une véritable <strong>fête de la mort</strong>.
-</p>
-
-<ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Les Démons tuent plusieurs fois par nuit.</li>
-  <li>Les Sbires ont eux aussi des capacités meurtrières.</li>
-  <li>Les Villageois peuvent prendre de gros risques pour obtenir des infos fiables… mais risquent de tuer leurs amis par erreur.</li>
-</ul>
-
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Heureusement, beaucoup d’options permettent de garder des joueurs en vie bien plus longtemps qu’ils ne l’auraient cru possible.<br>
-Mais si l’équipe du Bien ne parvient pas à identifier les Sbires et Démons précis en jeu, leur défaite est presque certaine.
-</p>
-
-<p style="color:#ffa64d; font-size:19px; font-weight:bold;">
-👉 Niveau : <strong>Intermédiaire</strong><br>
-<em>*Recommandé pour les joueurs et joueuses proactif·ves, attentif·ves à la coopération d’équipe et qui n’ont pas peur de mourir.*</em>
-</p>
-
----
-
-## [<span style="color:blue;">Villageois</span>](villageois.md)
-
-<div style="text-align:center;">
-  <a href="./bmr_roles/grandmere.md"><img src="./images/Icon_grandmother.png" width="280"></a>
-  <a href="./bmr_roles/marin.md"><img src="./images/Icon_sailor.png" width="280"></a>
-  <a href="./bmr_roles/femmedechambre.md"><img src="./images/Icon_chambermaid.png" width="280"></a>
-  <a href="./bmr_roles/exorciste.md"><img src="./images/Icon_exorcist.png" width="280"></a>
-  <a href="./bmr_roles/aubergiste.md"><img src="./images/Icon_innkeeper.png" width="280"></a>
-  <a href="./bmr_roles/parieur.md"><img src="./images/Icon_gambler.png" width="280"></a>
-  <a href="./bmr_roles/commere.md"><img src="./images/Icon_gossip.png" width="280"></a>
-  <a href="./bmr_roles/courtisan.md"><img src="./images/Icon_courtier.png" width="280"></a>
-  <a href="./bmr_roles/professeur.md"><img src="./images/Icon_professor.png" width="280"></a>
-  <a href="./bmr_roles/menestrel.md"><img src="./images/Icon_minstrel.png" width="280"></a>
-  <a href="./bmr_roles/damedethe.md"><img src="./images/Icon_tealady.png" width="280"></a>
-  <a href="./bmr_roles/fou.md"><img src="./images/Icon_fool.png" width="280"></a>
-</div>
-
----
-
-## [<span style="color:blue;">Étrangers</span>](etrangers.md)
-
-<div style="text-align:center;">
-  <a href="./bmr_roles/brute.md"><img src="./images/Icon_goon.png" width="280"></a>
-  <a href="./bmr_roles/lunatique.md"><img src="./images/Icon_lunatic.png" width="280"></a>
-  <a href="./bmr_roles/bricoleur.md"><img src="./images/Icon_tinker.png" width="280"></a>
-  <a href="./bmr_roles/enfantdelalune.md"><img src="./images/Icon_moonchild.png" width="280"></a>
-</div>
-
----
-
-## [<span style="color:red;">Sbires</span>](sbires.md)
-
-<div style="text-align:center;">
-  <a href="./bmr_roles/parrain.md"><img src="./images/Icon_godfather.png" width="280"></a>
-  <a href="./bmr_roles/avocatdudiable.md"><img src="./images/Icon_devilsadvocate.png" width="280"></a>
-  <a href="./bmr_roles/assassin.md"><img src="./images/Icon_assassin.png" width="280"></a>
-  <a href="./bmr_roles/cerveau.md"><img src="./images/Icon_mastermind.png" width="280"></a>
-</div>
-
----
-
-## [<span style="color:red;">Démons</span>](demons.md)
-
-<div style="text-align:center;">
-  <a href="./bmr_roles/zombuul.md"><img src="./images/Icon_zombuul.png" width="280"></a>
-  <a href="./bmr_roles/pukka.md"><img src="./images/Icon_pukka.png" width="280"></a>
-  <a href="./bmr_roles/shabaloth.md"><img src="./images/Icon_shabaloth.png" width="280"></a>
-  <a href="./bmr_roles/po.md"><img src="./images/Icon_po.png" width="280"></a>
-</div>
 
 ---
 
