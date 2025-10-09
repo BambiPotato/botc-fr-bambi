@@ -5,6 +5,79 @@
   </a>
 </p>
 
+
+
+####TEST###
+
+###
+<p align="left">
+  <a href="/botc-fr-bambi/">
+    <img src="images/logo.png" alt="Accueil BotC FR" width="200">
+  </a>
+</p>
+
+# 🧙‍♂️ <span style="color:#d4a76a; font-weight:bold; font-size:36px;">Le Rôle du Conteur</span>
+
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+  « Celle ou celui qui tisse les fils du destin, et veille à ce que chaque partie reste magique. »
+</p>
+
+---
+
+## 📑 <span style="color:#b58b52;">Sommaire</span>
+
+1. [Faire fonctionner les choses en douceur](#1-faire-fonctionner-les-choses-en-douceur)  
+2. [Rendre le jeu amusant](#2-rendre-le-jeu-amusant)  
+3. [Le Script](#3-le-script)  
+4. [Faire grandir votre communauté Clocktower](#4-faire-grandir-votre-communauté-clocktower)  
+5. [Navigation](#📂-navigation)
+
+---
+
+<a id="1-faire-fonctionner-les-choses-en-douceur"></a>
+
+## 1. Faire fonctionner les choses en douceur
+
+---
+
+<a id="2-rendre-le-jeu-amusant"></a>
+
+## 2. Rendre le jeu amusant
+
+
+---
+
+<a id="3-le-script"></a>
+
+## 3. Le Script
+---
+
+<a id="4-faire-grandir-votre-communauté-clocktower"></a>
+
+## 4. Faire grandir votre communauté *Clocktower*
+
+
+---
+
+## 🕊️ Fin de nos conseils 🫶🏻
+
+
+---
+
+<a id="📂-navigation"></a>
+
+<h2 style="color:#ffa64d; font-weight:bold; font-size:24px;">📂 Navigation</h2>
+
+<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  <li>🔝 <a href="#top" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Revenir en haut de la page</a></li>
+  <li>🏠 <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
+  <li>📘 <a href="./glossaire.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Glossaire des termes</a></li>
+</ul>
+
+
+
+---
+
 # 🧙‍♂️ <span style="color:#d4a76a; font-weight:bold; font-size:36px;">Le Rôle du Conteur</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
@@ -636,5 +709,4 @@ Que vos parties soient pleines de mystères, de rires et de clochers résonnants
   <li>🏠 <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
   <li>📘 <a href="./glossaire.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Glossaire des termes</a></li>
 </ul>
-
 
