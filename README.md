@@ -54,10 +54,9 @@
 
 - 📘 <span style="color:#b58b52; font-weight:bold; font-size:20px;">[Glossaire des termes 🇫🇷](glossaire.md)</span>  
 
-- 📘 <span style="color:#b58b52; font-weight:bold; font-size:20px;">[Glossary termes en anglais ](glossaireengfr.md)</span>  
+- 📘 <span style="color:#b58b52; font-weight:bold; font-size:20px;">[Glossary termes en anglais](glossaireengfr.md)</span>  
 
-- 📘 <span style="color:#b58b52; font-weight:bold; font-size:20px;">(conteur.md)</span>  
-
+- 📘 <span style="color:#b58b52; font-weight:bold; font-size:20px;">[Conseils aux Conteurs(ses)](conteur.md)</span>  
 
 ---
 <!-- 📖 Livre des Règles-->
