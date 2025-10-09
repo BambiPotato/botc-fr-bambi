@@ -144,28 +144,6 @@ Mais si l’équipe du Bien ne parvient pas à identifier les Sbires et Démons 
 
 [<img src="images/Icon_po.png" alt="Po" width="300">](bmr_roles/po.md) [<span style="color:red">**Po**</span>](bmr_roles/po.md)  
 
-
-<!-- 📥 Télécharger & 🖨️ Imprimer -->
-<h2 style="color:#ffa64d; font-weight:bold; font-size:28px;">📥 Télécharger & 🖨️ Imprimer</h2>
-
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Ces ressources sont pratiques pour <strong>imprimer</strong> et <strong>jouer en personne</strong>.
-</p>
-
-<h3 style="color:#ffa64d; font-weight:bold; font-size:22px;">📄 PDF complet</h3>
-<p style="font-size:18px;">
-👉 <a href="./images/bmr-roles.pdf" style="color:#d4a76a; font-weight:bold; text-decoration:none;">📄 Télécharger le PDF de Bad Moon Rising</a>
-</p>
-
-<h3 style="color:#ffa64d; font-weight:bold; font-size:22px;">🖼️ Images pratiques</h3>
-<div style="text-align:left;">
-  <a href="./images/bmr-front.png"><img src="./images/bmr-front.png" alt="Couverture" width="250" style="margin:8px; border-radius:8px;"></a>
-  <a href="./images/bmr-nuit.png"><img src="./images/bmr-nuit.png" alt="Ordre de Nuit" width="250" style="margin:8px; border-radius:8px;"></a>
-  <a href="./images/bmr-liste.png"><img src="./images/bmr-liste.png" alt="Liste des rôles" width="250" style="margin:8px; border-radius:8px;"></a>
-</div>
-
-<hr>
-
 ---
 
 ## 📥 Télécharger & Imprimer
