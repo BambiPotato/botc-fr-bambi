@@ -624,13 +624,11 @@ Votre rôle de Conteur·euse n’est pas seulement de faire tourner la partie,
 mais aussi d’être le cœur qui la fait battre.
 
 ---
-
-## 🕊️ Fin de nos conseils 🫶🏻
-
 🎯 Vous venez de parcourir les **conseils essentiels pour les Conteur·euse·s**.  
 Que vos parties soient pleines de mystères, de rires et de clochers résonnants.
 
----
+## 🕊️ Fin de nos conseils 🫶🏻
+
 
 <a id="1-faire-fonctionner-les-choses-en-douceur"></a>
 ## 1. Faire fonctionner les choses en douceur
@@ -639,7 +637,6 @@ Que vos parties soient pleines de mystères, de rires et de clochers résonnants
 
 <a id="2-rendre-le-jeu-amusant"></a>
 ## 2. Rendre le jeu amusant
-
 
 ---
 
@@ -656,16 +653,6 @@ Que vos parties soient pleines de mystères, de rires et de clochers résonnants
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li>🔝 <a href="#top" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Revenir en haut de la page</a></li>
-  <li>🏠 <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
-  <li>📘 <a href="./glossaire.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Glossaire des termes</a></li>
-</ul>
-
-
-
-
-<h2 style="color:#ffa64d; font-weight:bold; font-size:24px;">📂 Navigation</h2>
-
-<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li>🏠 <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
   <li>📘 <a href="./glossaire.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Glossaire des termes</a></li>
 </ul>
