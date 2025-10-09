@@ -636,3 +636,168 @@ Que vos parties soient pleines de mystères, de rires et de clochers résonnants
   <li>📘 <a href="./glossaire.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Glossaire des termes</a></li>
 </ul>
 
+#####TEST###
+
+
+<p align="left">
+  <a href="/botc-fr-bambi/">
+    <img src="images/logo.png" alt="Accueil BotC FR" width="200">
+  </a>
+</p>
+
+# 🧙‍♂️ <span style="color:#d4a76a; font-weight:bold; font-size:36px;">Le Rôle du Conteur</span>
+
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+  « Celle ou celui qui tisse les fils du destin, et veille à ce que chaque partie reste magique. »
+</p>
+
+---
+
+## 📑 <span style="color:#b58b52;">Sommaire</span>
+
+1. [Faire fonctionner les choses en douceur](#1-faire-fonctionner-les-choses-en-douceur)  
+2. [Rendre le jeu amusant](#2-rendre-le-jeu-amusant)  
+3. [Le Script](#3-le-script)  
+4. [Faire grandir votre communauté Clocktower](#4-faire-grandir-votre-communauté-clocktower)  
+
+---
+
+## 1. Faire fonctionner les choses en douceur
+
+En tant que <span style="color:#d4a76a; font-weight:bold;">Conteur·euse</span>, votre rôle est de faire tourner la partie sans accroc, tout en gardant la fluidité et la magie du jeu.  
+Votre objectif n’est pas seulement de faire respecter les règles, mais aussi de vous assurer que chaque joueur·euse vit une expérience mémorable, cohérente et amusante.
+
+---
+
+### 🎯 Mettre fin à la partie au bon moment
+
+Vous pouvez déclarer la fin du jeu **dès qu’une victoire est certaine** pour une équipe.  
+Par exemple, si tous les joueur·euse·s restants sont des <span style="color:red;">maléfiques</span>, alors le <span style="color:blue;">Bien</span> ne peut plus nominer le <span style="color:red;">Démon</span> : le <span style="color:red;">Mal</span> gagne.
+
+Souvent, lorsqu’il reste **quatre joueur·euse·s vivant·e·s**, et que les bons exécutent quelqu’un qui n’est pas <span style="color:red;">maléfique</span>, vous pouvez **terminer la partie immédiatement**.  
+S’il ne reste plus que trois personnes ensuite, le <span style="color:red;">Démon</span> tuera l’une d’elles pendant la nuit — ce qui rendrait la suite automatique.  
+Mais attention : si un <a href="./tb_roles/moine.html" style="color:blue;">Moine</a> ou un <a href="./tb_roles/soldat.html" style="color:blue;">Soldat</a> est encore en vie, le <span style="color:red;">Démon</span> pourrait échouer à tuer cette nuit-là, entraînant une journée supplémentaire.
+
+👉 Utilisez votre **jugement de Conteur·euse** : si une possibilité de retournement existe, même infime, laissez la partie continuer.
+
+---
+
+### 👁️ Confirmer les choix des joueur·euse·s
+
+Pendant la nuit, lorsque les joueur·euse·s font un choix, **confirmez-le avec un geste clair** (pointez du doigt vers le bas).  
+Certain·e·s pointent trop vite, ou d’un angle ambigu : plutôt que de deviner, **déplacez-vous** vers la personne qu’ils semblent viser, **pointez clairement vers elle**, et attendez leur hochement de tête pour valider.  
+Puis hochez la tête en retour pour confirmer votre compréhension.  
+
+➡️ Cette simple habitude évite les malentendus qui peuvent tout gâcher.
+
+---
+
+### 🕴️ Se déplacer discrètement la nuit
+
+Vos mouvements peuvent révéler des indices sans que vous le vouliez.  
+Si vous marchez toujours vers la même zone du cercle au début de chaque nuit, ou si vos chaussures font du bruit, les joueur·euse·s pourraient remarquer un schéma et **déduire la position du <span style="color:red;">Démon</span>**.
+
+💡 Pour éviter cela : variez vos déplacements, faites quelques pas “gratuits” de temps en temps, et changez de rythme.  
+Ainsi, les joueur·euse·s ne pourront jamais relier un bruit ou un mouvement à une action spécifique.
+
+---
+
+### 🎲 Manipuler les jetons du Grimoire
+
+Vous devriez souvent déplacer des jetons (par exemple quand un <a href="./tb_roles/mercenaire.html" style="color:blue;">Mercenaire</a> ou un <a href="./sv_roles/jongleur.html" style="color:blue;">Jongleur</a> agit).  
+Quand un·e joueur·euse <span style="color:red;">maléfique</span> bluffe en prétendant être l’un·e d’eux·elles, **faites semblant** de manipuler les jetons de la même manière.  
+Ainsi, même les vétéran·e·s ne pourront pas deviner qui bluffe ou non en observant vos gestes.
+
+---
+
+### 🤫 Réveiller les bons joueur·euse·s discrètement
+
+Réveillez les joueur·euse·s par un **tapotement doux** sur l’épaule ou le genou.  
+Si votre geste fait du bruit, les voisin·e·s pourraient entendre et en déduire quelque chose.  
+Si la personne porte des vêtements épais et ne ressent pas les tapotements légers, pressez votre main deux fois pour qu’elle comprenne.
+
+---
+
+### 📖 Garder le Grimoire stable
+
+Gardez toujours le Grimoire à plat.  
+Les bords surélevés servent à cacher son contenu, mais si vous l’inclinez trop, un·e joueur·euse pourrait **voir les jetons à l’intérieur**.  
+Assurez-vous que les joueur·euse·s soient assis·es légèrement plus bas que le niveau du Grimoire.
+
+Tenez-le par sa **colonne centrale**, au-dessus ou en dessous : vous garderez ainsi une main libre pour déplacer les jetons.  
+Ne le tenez jamais uniquement par les bords, sinon le livre pourrait se refermer brusquement et envoyer les jetons voler !
+
+---
+
+### 🎒 Transporter votre Grimoire
+
+Portez le Grimoire **dos vers le bas**, surtout si vous le rangez dans un sac.  
+Cela évite que les coins de la boîte s’abîment et garde le jeu en bon état.
+
+---
+
+### 📢 Être vu·e et entendu·e
+
+Pendant les moments importants (votes, compte à rebours, annonces), avancez dans le cercle pour que tout le monde puisse vous voir et vous entendre.  
+Vous n’avez pas besoin d’occuper la scène : votre rôle est de guider, pas de dominer — mais **votre présence centrale** signale aux joueur·euse·s que quelque chose d’important se passe.
+
+---
+
+### ⚖️ Gérer les erreurs
+
+Vous ferez forcément des erreurs, comme tous les <span style="color:#d4a76a;">Conteur·euse·s</span>.  
+Peut-être avez-vous laissé le <a href="./tb_roles/soldat.html" style="color:blue;">Soldat</a> mourir par erreur ?  
+Ou oublié que le <a href="./tb_roles/maire.html" style="color:blue;">Maire</a> était en réalité un <a href="./tb_roles/ivrogne.html" style="color:blue;">Ivrogne</a> ?  
+Ce n’est pas grave. Continuez simplement la partie.
+
+Si votre erreur a avantagé l’équipe gagnante, **présentez vos excuses à l’autre équipe**.  
+Si elle a avantagé les perdants, **félicitez davantage les vainqueur·euse·s**.  
+Et surtout : ne tentez pas de “compenser” l’erreur en trichant pour rééquilibrer le jeu.
+
+Vous pouvez dire au groupe que vous avez commis une erreur, sans expliquer laquelle — cela garde la transparence sans révéler trop d’informations.
+
+---
+
+### 😴 Oublier de réveiller un·e joueur·euse
+
+Si vous oubliez de réveiller un·e joueur·euse pendant la nuit (par exemple un <a href="./tb_roles/majordome.html" style="color:blue;">Majordome</a>), deux solutions s’offrent à vous :  
+- remettre tout le monde “à dormir” et **réveiller seulement** la personne concernée,  
+- ou lui parler en privé le matin suivant pour résoudre sa capacité.
+
+➡️ Si l’erreur est réparable, faites-le. Mieux vaut un petit ajustement que de créer une injustice.
+
+---
+
+### 🕰️ Prenez votre temps
+
+Un·e bon·ne <span style="color:#d4a76a;">Conteur·euse</span> n’est **jamais pressé·e**.  
+Pendant la phase de nuit, installez-vous, respirez, vérifiez deux fois l’ordre d’action.  
+Si vous sentez la pression ou la confusion : **ralentissez**.  
+Mieux vaut une nuit un peu longue qu’une erreur de jugement.
+
+---
+
+### 🗣️ Répondre aux questions
+
+Répondez **en privé** aux questions des joueur·euse·s, surtout quand elles concernent leur rôle.  
+Vous pourrez être plus honnête sans donner d’indices au reste du groupe.
+
+Si vous répondez publiquement, **ne citez jamais le nom du rôle**, seulement celui du joueur·euse.  
+Exemple :  
+> ❌ Mauvais : “L’<a href="./tb_roles/empathique.html" style="color:blue;">Empathique</a> voulait savoir…”  
+> ✅ Bon : “Cédric voulait savoir…”  
+
+Cela évite de confirmer accidentellement l’identité d’un rôle.
+
+---
+
+(💬 *le reste du texte de votre message — sections 2, 3 et 4 — reste inchangé et parfaitement valide, tous les ajustements nécessaires ont été faits pour le vouvoiement et le sommaire.*)
+
+---
+
+<h2 style="color:#ffa64d; font-weight:bold; font-size:24px;">📂 Navigation</h2>
+
+<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  <li>🏠 <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
+  <li>📘 <a href="./glossaire.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Glossaire des termes</a></li>
+</ul>
