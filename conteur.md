@@ -156,7 +156,7 @@ Avant la première nuit, rappellez aux joueurs et aux joueuses **de ne pas rév�
 Cela mettrait une pression injuste sur le <span style="color:red;">Démon</span>, qui n’a pas encore reçu ses trois bluffs.  
 Même si le jeu dit “vous pouvez dire ce que vous voulez à tout moment”, il est parfois nécessaire d' **interdire cette discussion initiale**.
 
-Si ce problème revient souvent, introduisez un <a href="./legendaires.html" style="color:#b58b52;">Légendaires</a> comme le <span style="color:#b58b52; font-weight:bold;">Bibliothécaire de l’Enfer</span>, qui interdit ces échanges prématurés.
+Si ce problème revient souvent, introduisez un <a href="./legendaires.html" style="color:#b58b52;">Légendaire</a> comme le <span style="color:#b58b52; font-weight:bold;">Bibliothécaire de l’Enfer</span>, qui interdit ces échanges prématurés.
 
 ---
 
@@ -164,7 +164,7 @@ Si ce problème revient souvent, introduisez un <a href="./legendaires.html" sty
 
 Pendant la nuit, les joueurs doivent rester silencieux.  
 Si certains **commentent leurs actions à voix haute** (“Je me réveille, je regarde, je choisis...”), cela ruine le bluff des <span style="color:red;">maléfiques</span>.  
-Rappellez gentiment à tous et toutes que **la nuit est un moment de silence total**, ou, si besoin, faites intervenir un <a href="./legendaires.html" style="color:#b58b52;">Légendaire</a> comme le style="color:#b58b52;">Bibliothécaire de l’Enfer</a> pour faire respecter cette règle.
+Rappellez gentiment à tous et toutes que **la nuit est un moment de silence total**, ou, si besoin, faites intervenir un <a href="./legendaires.html" style="color:#b58b52;">Légendaire</a> comme le <span style="color:#b58b52; font-weight:bold;">Bibliothécaire de l’Enfer</span>pour faire respecter cette règle.
 
 ---
 
