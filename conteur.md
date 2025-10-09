@@ -632,24 +632,12 @@ Que vos parties soient pleines de mystères, de rires et de clochers résonnants
 
 <a id="1-faire-fonctionner-les-choses-en-douceur"></a>
 ## 1. Faire fonctionner les choses en douceur
-
----
-
 <a id="2-rendre-le-jeu-amusant"></a>
 ## 2. Rendre le jeu amusant
-
----
-
 <a id="3-le-script"></a>
-
 ## 3. Le Script
----
-
 <a id="4-faire-grandir-votre-communauté-clocktower"></a>
 ## 4. Faire grandir votre communauté *Clocktower*
-<a id="📂-navigation"></a>
-
-<h2 style="color:#ffa64d; font-weight:bold; font-size:24px;">📂 Navigation</h2>
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li>🔝 <a href="#top" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Revenir en haut de la page</a></li>
