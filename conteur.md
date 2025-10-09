@@ -143,7 +143,7 @@ Vous pourrez être plus honnête sans donner d’indices au reste du groupe.
 
 Si vous répondez publiquement, **ne citez jamais le nom du rôle**, seulement celui du joueur.  
 Exemple :  
-> ❌ Mauvais : “Le <a href="./tb_roles/medium.html" style="color:blue;">Empathe</a> voulait savoir…”  
+> ❌ Mauvais : “L' <a href="./tb_roles/medium.html" style="color:blue;">Empathique</a> voulait savoir…”  
 > ✅ Bon : “Cédric voulait savoir…”  
 
 Cela évite de confirmer accidentellement l’identité d’un rôle.
