@@ -384,7 +384,7 @@ Mais si une idée sort de l’ordinaire et fait rire tout le monde : encouragez-
 Réveiller ensemble le <span style="color:red;">Démon</span> et les <span style="color:red;">Sbires</span> au début peut être une belle expérience.  
 Leur permettre un contact visuel crée une **connivence diabolique**.  
 
-Attention toutefois : certains rôles (comme le <a href="./sv_roles/lunatique.html" style="color:red;">Lunatique</a> ou le <a href="./exp_roles/magicien.html" style="color:red;">Magicien</a>) exigent qu’ils soient réveillés séparément.  
+Attention toutefois : certains rôles (comme le <a href="./bmr_roles/lunatique.html" style="color:blue;">Lunatique</a> ou le <a href="./exp_roles/magicien.html" style="color:blue;">Magicien</a>) exigent qu’ils soient réveillés séparément.  
 Adapte-toi selon le script utilisé.
 
 ---
