@@ -402,4 +402,95 @@ Soyez le fil invisible qui relie les émotions, les doutes et les éclats de rir
 
 ---
 
+## 3. Le Script
+
+Créer votre propre **script** est l’un des grands plaisirs du rôle de <span style="color:#d4a76a;">Conteur·euse</span>.  
+Une fois que vous maîtrisez les rôles des trois éditions principales —  
+<a href="./trouble_brewing.html" style="color:#b58b52;">Trouble Brewing</a>,  
+<a href="./bmr.html" style="color:#ffa64d;">Bad Moon Rising</a> et  
+<a href="./sv.html" style="color:#d67bff;">Sects & Violets</a> —  
+vous pouvez imaginer vos propres combinaisons et aventures.
+
+---
+
+### 🧩 Composer votre script
+
+Avez-vous des rôles favoris que vous aimez placer dans presque chaque partie ?  
+Ou des associations d’effets qui pourraient créer des situations amusantes ou redoutables ?  
+
+Par exemple, un script réunissant un <a href="./sv_roles/pit-hag.html" style="color:red;">Pit-Hag</a>, un <a href="./tb_roles/saint.html" style="color:blue;">Saint</a>, un <a href="./sv_roles/jumeau_maléfique.html" style="color:red;">Jumeau Maléfique</a> et un <a href="./bmr_roles/aubergiste.html" style="color:blue;">Aubergiste</a> ?  
+Ou encore une combinaison du <a href="./bmr_roles/maladroit.html" style="color:blue;">Maladroit</a> et de l’<a href="./tb_roles/espion.html" style="color:red;">Espion</a> ?  
+Si vous avez une connexion internet, vous pouvez créer cela très simplement.
+
+Rendez-vous sur [**script.bloodontheclocktower.com**](https://script.bloodontheclocktower.com)  
+et sélectionnez les rôles que vous souhaitez inclure.  
+L’outil générera automatiquement une **feuille de nuit personnalisée**, prête à l’emploi pour votre partie.
+
+---
+
+### 🧠 Comparer et améliorer vos créations
+
+Comparer des scripts entre <span style="color:#d4a76a;">Conteur·euse·s</span> est une excellente façon d’apprendre et de progresser.  
+Commencez par un petit ensemble de rôles cohérents, puis élargissez au fur et à mesure.  
+
+💬 De nombreuses communautés (sur le site officiel, Facebook ou Discord) échangent leurs scripts et leurs idées.  
+N’hésitez pas à y participer — l’échange d’expériences est une source d’inspiration précieuse.
+
+---
+
+### 🧳 Intégrer les Voyageur·euse·s
+
+Ajouter des <a href="./voyageurs/voyageurs.html" style="color:purple;">Voyageur·euse·s</a> à une partie personnalisée est simple.  
+Certain·e·s s’adapteront parfaitement à votre script, d’autres un peu moins.  
+Vous pouvez en préparer une sélection avant la partie, ou décider spontanément selon l’ambiance.
+
+Les Voyageur·euse·s apportent souvent une touche inattendue et créent des rebondissements réjouissants.
+
+---
+
+### 💫 Utiliser les Légendaires pour équilibrer le jeu
+
+Certain·e·s <a href="./legendaires.html" style="color:#b58b52;">Légendaires</a> sont conçus spécialement pour **aider à créer des parties uniques et harmonieuses**.  
+Ils permettent d’ajuster le nombre d’<a href="./etrangers.html" style="color:blue;">Étrangers</a>, d’ajouter de la désinformation quand nécessaire, ou encore de résoudre les conflits entre pouvoirs.
+
+Créer votre propre édition est un art : cela demande du temps, des essais et de l’intuition.  
+Heureusement, les Légendaires sont là pour vous épauler dans cette tâche.
+
+---
+
+### 🌀 Gérer les interactions complexes
+
+Quand vous mélangez des dizaines de rôles, des situations étranges surviendront :  
+un <span style="color:red;">Saint</span> maléfique, deux <a href="./sv_roles/philosophe.html" style="color:blue;">Philosophes</a> voulant devenir le même rôle, ou des effets contradictoires.
+
+🎯 Dans ces cas-là :  
+- utilisez **votre meilleur jugement**,  
+- prenez une décision claire,  
+- et **expliquez aux joueur·euse·s** que vous rendez un arbitrage.  
+
+Votre décision n’est peut-être pas parfaite, mais elle doit être **cohérente et transparente**.
+
+---
+
+### 🏘️ Découvrir *Teensyville*
+
+Non loin de Ravenswood Bluff se trouve **Teensyville**, un mode de jeu pensé pour les petits groupes (5 à 6 joueur·euse·s).  
+L’outil de script permet aussi de créer des parties spéciales pour ce format.  
+Comme il y a moins de rôles, les participant·e·s peuvent plus facilement anticiper et bâtir leurs stratégies.  
+
+🎲 Teensyville est idéal pour les soirées rapides ou pour initier de nouveaux joueur·euse·s à l’univers de *Blood on the Clocktower*.
+
+---
+
+### 💡 Conseils finaux
+
+Créer un bon script, c’est équilibrer le **plaisir**, la **tension** et la **cohérence**.  
+Évitez de surcharger en pouvoirs puissants ou en rôles perturbateurs.  
+Chaque partie doit rester lisible pour que la déduction et le bluff brillent à parts égales.
+
+👉 Testez, ajustez, observez.  
+Et surtout : amusez-vous à voir comment vos créations prennent vie entre les mains de vos joueur·euse·s !
+
+
+---
 
