@@ -494,3 +494,145 @@ Et surtout : amusez-vous à voir comment vos créations prennent vie entre les m
 
 ---
 
+## 4. Faire grandir votre communauté *Clocktower*
+
+Plus il y a de monde autour de votre tour de l’horloge, plus la partie sera vivante, variée et mémorable.  
+En tant que <span style="color:#d4a76a;">Conteur·euse</span>, vous êtes souvent le·la moteur·rice de cette dynamique :  
+celle ou celui qui donne envie de revenir jouer, de rire, et d’inviter des ami·e·s à découvrir le jeu.
+
+---
+
+### 🤝 Créer et entretenir un groupe
+
+Une communauté de *Blood on the Clocktower* se construit avec le temps et la régularité.  
+Plus vos rencontres sont fréquentes et conviviales, plus les joueur·euse·s s’impliquent.
+
+💬 Pour trouver de nouveaux·elles participant·e·s :  
+- rejoignez ou créez un groupe local sur **Facebook** ou **Discord**,  
+- cherchez des joueur·euse·s via **Meetup** ou dans des **cafés ludiques**,  
+- ou organisez simplement des soirées chez vous, autour d’un bon repas.
+
+Chaque nouvelle personne qui découvre *Clocktower* peut devenir un·e futur·e passionné·e — ou même un·e futur·e Conteur·euse.
+
+---
+
+### 🧭 Encourager les joueur·euse·s à conter
+
+Une fois que vous maîtrisez les bases, laissez d’autres joueur·euse·s essayer le rôle de <span style="color:#d4a76a;">Conteur·euse</span>.  
+Ils·elles apprendront à gérer les règles, à équilibrer les parties et à comprendre les mécaniques plus finement.
+
+Proposez-leur de conter à vos côtés sur une partie, puis laissez-les diriger la suivante pendant que vous les accompagnez.  
+C’est une excellente manière de **renforcer la cohésion** du groupe et de **diversifier les styles de jeu**.
+
+---
+
+### 🌱 Être un·e meneur·euse bienveillant·e
+
+En tant que Conteur·euse, vous incarnez souvent une figure d’organisation.  
+Les joueur·euse·s se tournent vers vous pour connaître les horaires, les lieux, ou simplement pour s’intégrer.  
+
+Restez **accueillant·e et à l’écoute** :  
+- adaptez les parties au rythme et au niveau du groupe,  
+- veillez à ce que chacun·e ait sa place,  
+- valorisez les nouvelles personnes sans négliger les vétéran·e·s.
+
+Une communauté durable repose avant tout sur **le respect et la bonne humeur**.
+
+---
+
+### 💬 Aider les nouvelles personnes à débuter
+
+Les premières parties peuvent être déroutantes.  
+Entre les rôles, les bluffs et les discussions, les débutant·e·s peuvent vite se sentir dépassé·e·s.  
+
+💡 Donnez-leur des repères simples :  
+- expliquez les règles essentielles calmement,  
+- laissez-les poser leurs questions,  
+- et rappelez qu’il est **normal de se tromper**.
+
+Encouragez aussi les joueur·euse·s expérimenté·e·s à accompagner les nouveaux·elles sans les noyer sous les conseils.  
+Un excès d’informations ou de stratégies tue souvent la spontanéité.
+
+---
+
+### 🧠 Transmettre les bases sans surcharger
+
+Les règles de base suffisent pour jouer une première partie.  
+Les notions plus complexes — ivresse, folie, interactions rares — peuvent venir ensuite.  
+
+Rappelez aux vétéran·e·s que les nouveaux·elles ont besoin de **plaisir et de clarté**, pas de perfection.  
+Leur curiosité viendra naturellement au fil des parties.
+
+---
+
+### 🕊️ Aider les joueur·euse·s en difficulté
+
+Certain·e·s peuvent paraître perdu·e·s ou hésitant·e·s.  
+N’attendez pas qu’ils·elles le disent : allez vers eux·elles discrètement, proposez un échange privé, et guidez-les.  
+
+Mais évitez de donner **une seule stratégie à suivre** — cela risquerait de les enfermer dans une manière de jouer.  
+Proposez plutôt plusieurs options, et laissez-les décider.  
+
+Le but est qu’ils·elles se sentent libres, utiles, et fier·e·s de leurs choix.
+
+---
+
+### 💜 Dédramatiser la mort et les erreurs
+
+Souvent, les nouveaux·elles joueur·euse·s craignent de “mal jouer” ou d’être éliminé·e·s trop tôt.  
+Expliquez que *mourir n’est pas perdre* : les mort·e·s continuent de participer et gardent une voix pour influencer la fin du jeu.
+
+Rassurez-les : chaque erreur est une expérience, chaque déduction manquée une opportunité d’apprendre.  
+L’important, c’est de **participer à l’histoire**, pas de tout deviner du premier coup.
+
+---
+
+### 🧳 Faire entrer les Voyageur·euse·s
+
+Les <a href="./voyageurs/voyageurs.html" style="color:purple;">Voyageur·euse·s</a> sont parfait·e·s pour accueillir du monde en cours de partie.  
+Certain·e·s spectateur·rice·s hésitent à rejoindre une partie déjà commencée : rassurez-les !  
+Les Voyageur·euse·s sont conçus pour cela.  
+
+Leur arrivée apporte souvent **de l’équilibre et du renouveau**.  
+Certain·e·s rôles Voyageurs sont puissants, d’autres perturbateurs — tous apportent une énergie fraîche.
+
+---
+
+### 🌟 Utiliser les Légendaires
+
+Les <a href="./legendaires.html" style="color:#b58b52;">Légendaires</a> permettent d’adapter vos parties à différents profils.  
+Besoin d’aider une personne timide ?  
+L’<strong>ange</strong> l’aidera à jouer sans peur.  
+Besoin de calme ?  
+Le <strong>bouddhiste</strong> peut encourager le silence et la concentration.  
+
+Connaître vos Légendaires rend vos parties plus inclusives et équilibrées, tout en valorisant chaque personnalité.
+
+---
+
+### 🎉 Cultiver la convivialité
+
+Une communauté *Clocktower* forte, c’est avant tout un **groupe de personnes qui ont envie de se retrouver**.  
+Riez ensemble.  
+Célébrez les coups de génie et les ratés spectaculaires.  
+Créez des traditions, des rituels, des souvenirs.
+
+Votre rôle de Conteur·euse n’est pas seulement de faire tourner la partie,  
+mais aussi d’être le cœur qui la fait battre.
+
+---
+
+## 🕊️ Fin de nos conseils 🫶🏻
+
+🎯 Vous venez de parcourir les **conseils essentiels pour les Conteur·euse·s**.  
+Que vos parties soient pleines de mystères, de rires et de clochers résonnants.
+
+---
+
+<h2 style="color:#ffa64d; font-weight:bold; font-size:24px;">📂 Navigation</h2>
+
+<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  <li>🏠 <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
+  <li>📘 <a href="./glossaire.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Glossaire des termes</a></li>
+</ul>
+
