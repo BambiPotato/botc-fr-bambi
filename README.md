@@ -56,7 +56,9 @@
 
 - 📘 <span style="color:#b58b52; font-weight:bold; font-size:20px;">[**Glossary termes en anglais**](glossaireengfr.md)</span>  
 
-- 📘 <span style="color:#b58b52; font-weight:bold; font-size:20px;">[**Conseils essentiels pour les Conteurs**](conteur.md)</span>  
+- 📘 <span style="color:#b58b52; font-weight:bold; font-size:20px;">[**Conseils essentiels pour les Conteurs**](conteur.md)</span> 
+
+- 📘 <span style="color:#b58b52; font-weight:bold; font-size:20px;">[**Conseils essentiels pour les Joueurs**](strategie.md)</span> 
 
 ---
 <!-- 📖 Livre des Règles-->
