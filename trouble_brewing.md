@@ -26,7 +26,6 @@ title: Trouble Brewing
 5. [Sbires](#5-sbires)  
 6. [Démons](#6-démons)  
 7. [Téléchargements et Ressources](#7-téléchargements-et-ressources)  
-8. [Navigation](#8-navigation)
 
 ---
 
