@@ -17,7 +17,6 @@
 </div>
 
 
-[<img src="../images/Icon_baron.png" alt="Baron" width="400">](baron.md) [Baron](../tb_roles/baron.md)
 
 ## Information
 - **Type :** [<span style="color:red">**Sbires**</span>](../sbires.md)   
@@ -30,7 +29,7 @@
 ## 🎭 Apparaît dans  
 
 <div style="text-align:center; margin: 20px 0;">
-  <a href="../sv.html" style="text-decoration:none;">
+  <a href="../tb.html" style="text-decoration:none;">
     <img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400" style="border-radius:12px;">
     <br>
     <span style="color:#b58b52; font-weight:bold; font-size:22px;">Trouble Brewing</span>
