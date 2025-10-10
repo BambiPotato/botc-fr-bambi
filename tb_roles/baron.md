@@ -7,14 +7,37 @@
 ---
 # 🎩 Baron
 
+<!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="./baron.html" style="text-decoration:none;">
+    <img src="../images/Icon_baron.png" alt="Baron" width="350" style="border-radius:8px;">
+    <br>
+    <span style="color:red; font-weight:bold; font-size:22px;">Baron</span>
+  </a>
+</div>
+
+
 [<img src="../images/Icon_baron.png" alt="Baron" width="400">](baron.md) [Baron](../tb_roles/baron.md)
 
 ## Information
 - **Type :** [<span style="color:red">**Sbires**</span>](../sbires.md)   
 - **Artiste :** Aidan Roberts  
-*"Cette ville est tombée bien bas, pas vrai ? Main-d'œuvre étrangère bon marché… voilà la clé. Fourrez-les dans la mine, je dis. Un peu de travail dur n'a jamais fait de mal à personne, et une claque derrière les oreilles à tout brigand qui prétend le contraire. Tout est une question de profit, pas vrai ?"*
+> *"Cette ville est tombée bien bas, pas vrai ? Main-d'œuvre étrangère bon marché… voilà la clé. Fourrez-les dans la mine, je dis. Un peu de travail dur n'a jamais fait de mal à personne, et une claque derrière les oreilles à tout brigand qui prétend le contraire. Tout est une question de profit, pas vrai ?"*
 
 ---
+
+
+## 🎭 Apparaît dans  
+
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../sv.html" style="text-decoration:none;">
+    <img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400" style="border-radius:12px;">
+    <br>
+    <span style="color:#d67bff; font-weight:bold; font-size:22px;">Troubel Brewing</span>
+  </a>
+</div>
+
+> *Cult of the Clocktower* – épisode par Andrew Nathenson  
 
 ## Apparaît dans 🎭
 [<img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400">](../trouble_brewing.md) [**Trouble Brewing**](../trouble_brewing.md)  
