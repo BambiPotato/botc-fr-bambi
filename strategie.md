@@ -153,7 +153,7 @@ Comment parler, qui croire, quand voter ? Voici l’essentiel.
 **Contournez votre handicap**
 - Transformez la contrainte en **avantage**.
   - Ex. <a href="./tb_roles/saint.html" style="color:blue; font-weight:bold;">Saint</a> : prouvez-vous et **évitez l’exécution**.
-  - Ex. <a href="./bmr_roles/maladroit.html" style="color:blue; font-weight:bold;">Maladroit</a> : identifiez un bon pour **ne pas** le condamner par erreur.
+  - Ex. <a href="./sv_roles/maladroit.html" style="color:blue; font-weight:bold;">Maladroit</a> : identifiez un bon pour **ne pas** le condamner par erreur.
 
 **Infos plus floues, mais utiles**
 - Observez **qui insiste** pour vous exécuter (suspicion).  
@@ -225,10 +225,10 @@ Vous avez pioché un <span style="color:red">jeton rouge 🔴</span>. Respirez. 
 
 ---
 
-## 2.1) Mwehe, je suis un·e Sbire ! {#21-sbire}
+## 2.1) Mwehe, je suis un·e Sbire !
 
 **Ne votez pas contre votre Démon**  
-- Sauf plan **béton** (<a href="./bmr_roles/femmeecarlate.html" style="color:red; font-weight:bold;">Femme Écarlate</a>, etc.).
+- Sauf plan **béton** (<a href="./tb_roles/femmeecarlate.html" style="color:red; font-weight:bold;">Femme Écarlate</a>, etc.).
 
 **Protégez le Démon**
 - Même au **sacrifice** de votre vie si nécessaire.
