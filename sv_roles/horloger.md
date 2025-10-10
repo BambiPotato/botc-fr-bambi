@@ -33,7 +33,8 @@ title: Horloger
 
 - **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)  
 - **Artiste :** Aidan Roberts  
-- *« Ne me dérange pas. Le tic doit continuer, car le cercle est un symbole de vie et renferme toutes choses — toutes les réponses — dans sa divine machinerie. Je dois travailler. »*  
+*« Ne me dérange pas. Le tic doit continuer, car le cercle est un symbole de vie et renferme toutes choses 
+toutes les réponses — dans sa divine machinerie. Je dois travailler. »*  
 
 ---
 
