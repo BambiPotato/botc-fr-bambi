@@ -10,11 +10,6 @@ title: Horloger
   </a>
 </p>
 
-<!-- 🌸 Image du rôle -->
-<div style="text-align:center; margin: 20px 0;">
-  <img src="../images/Icon_clockmaker.png" alt="Horloger" width="300">
-</div>
-
 <!-- 🧭 Informations -->
 <p style="text-align:center; font-size:18px;">
   <strong style="color:blue;">Villageois</strong> – <em>Sects & Violets</em>
@@ -99,14 +94,15 @@ Les joueurs <span style="color:red">maléfiques</span> ont tendance à survivre 
 
 - Observez qui reste en vie et collabore encore : ils pourraient bien être du côté du mal.
 La plupart des [<span style="color:red">Sbires</span>](../sbires.md) dans [**Sects &Violets**](../sv.md)  ont des pouvoirs visibles ou perceptibles, donc il devient évident lorsqu’ils meurent.
-➡️ Par exemple, si soudainement personne ne meurt à cause de la [<span style="color:red">Sorcière</span>](sorciere.md), que plus personne ne devient fou à cause du [<span style="color:red">Cerenovus</span>](cerenovus.md), ou qu’il n’y a plus de transformations par la [<span style="color:red">Pit-Hag</span>](pithag.md), c’est sans doute qu’un [<span style="color:red">Sbire</span>](../sbires.md) a été exécuté.
+
+- ➡️ Par exemple, si soudainement personne ne meurt à cause de la [<span style="color:red">Sorcière</span>](sorciere.md), que plus personne ne devient fou à cause du [<span style="color:red">Cerenovus</span>](cerenovus.md), ou qu’il n’y a plus de transformations par la [<span style="color:red">Pit-Hag</span>](pithag.md), c’est sans doute qu’un [<span style="color:red">Sbire</span>](../sbires.md) a été exécuté.
 Trouver lequel vous ramènera directement au <span style="color:red">Démon</span> !
 *[<span style="color:red">Le Jumeau maléfique</span>](jumeaumalefique.md) est une exception, car vous savez généralement dès le début qu’il est en jeu.*
 ---
 
 ## 🎭 Bluff en tant qu'Horloger  
 
-**Lorsque vous bluffez en tant qu'Horloger, il y a quelques points à garder à l'esprit :**
+* Lorsque vous bluffez en tant qu'Horloger, il y a quelques points à garder à l'esprit :
 
 - La façon la plus simple et la plus courante de bluffer en tant qu'Horloger est de donner de fausses informations au groupe dès le premier jour. Sachant à combien de pas le <span style="color:red">Démon</span> et le [<span style="color:red">Sbire</span>](../sbires.md) se trouvent l'un de l'autre, ces informations erronées peuvent mener la bonne équipe sur une mauvaise pente pendant plusieurs jours. N'oubliez pas qu'un « 1 » signifie que le <span style="color:red">Démon</span> et [<span style="color:red">Sbire</span>](../sbires.md) sont assis l'un à côté de l'autre.
 
@@ -120,12 +116,15 @@ De plus, dans les parties avec plusieurs [<span style="color:red">Sbires</span>]
 *Réfléchissez bien au nombre que vous choisissez.*
 
 - Puisque la bonne équipe peut souvent se faire une bonne idée de l'identité des [<span style="color:red">Sbires</span>](../sbires.md) grâce à la disparition de leurs capacités évidentes, tuer un [<span style="color:red">Sbire</span>](../sbires.md) manifestement agissant la nuit peut compliquer les choses. 
+
 ➡️ Par exemple, la bonne équipe se rendra souvent compte qu'elle a exécuté une [<span style="color:red">Pit-Hag</span>](pithag.md) *(puisque plus aucun joueur ne change de rôle la nuit)*, et vous devrez prouver ou réfuter vos informations sur l'Horloger, en tuant le joueur qui serait le <span style="color:red">Démon</span>. 
 - Cependant, si vous avez tué la [<span style="color:red">Pit-Hag</span>](pithag.md) la nuit, alors les bons joueurs sont susceptibles de croire que le joueur exécuté pendant la journée était en fait la [<span style="color:red">Pit-Hag</span>](pithag.md).
+
 - Cela peut aider ou entraver votre cause, en fonction de ce que croient les bons joueurs, en particulier s'ils croient à un [<span style="color:red">Vortox</span>](vortox.md) en jeu ou pas.
+
+
 ---
 
-### 🔗 Navigation
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li>🏠 <a href="../index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
   <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
