@@ -28,9 +28,9 @@ title: Conseils & Stratégies
 
 ---
 
-## 1) Dieu merci,mon rôle est <span style="color:blue" >bleu</span> !je suis du côté des bons ! Et maintenant ? 
+## 1) Dieu merci,mon rôle est <span style="color:blue">bleu</span> !je suis du côté des bons ! Et maintenant ? 
 
-Vous avez pioché un <span style="color:blue" >**jeton bleu**</span>🔵. Super. Et maintenant ?  
+Vous avez pioché un **<span style="color:blue" >jeton bleu</span>** 🔵. Super. Et maintenant ?  
 Comment parler, qui croire, quand voter ? Voici l’essentiel.
 
 ### Déterminez votre « mission »
