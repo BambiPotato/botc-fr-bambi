@@ -54,9 +54,9 @@ Une femme aux yeux luminescents et à la barbe éparse sifflait vers le ciel. Pu
 > « Chaque nuit, choisissez un joueur (sauf vous-même ni les voyageurs) :  
 > vous apprenez **1 rôle bon et 1 rôle maléfique**, dont **1 est correct**. »
 
-Le·la Rêveur·se apprend les rôles des joueurs, mais ne peut être certain·e de la véracité totale de ces informations.
+Le Rêveur apprend les rôles des joueurs, mais ne peut être certain·e de la véracité totale de ces informations.
 
-Chaque nuit, le·la Rêveur·se choisit un joueur et apprend **deux rôles** :  
+Chaque nuit, le Rêveur choisit un joueur et apprend **deux rôles** :  
 - l’un est le vrai rôle du joueur,  
 - l’autre est faux.  
 
@@ -64,39 +64,39 @@ Le rôle faux dépend du type de rôle du joueur choisi :
 - Si le joueur est un [<span style="color:blue;">Villageois</span>](../villageois.md) ou un [<span style="color:blue;">Étranger</span>](../etrangers.md), le faux rôle est un [<span style="color:red;">Sbire</span>](../sbires.md) ou un [<span style="color:red;">Démon</span>](../demons.md).  
 - Si le joueur est un [<span style="color:red;">Sbire</span>](../sbires.md) ou un [<span style="color:red;">Démon</span>](../demons.md), le faux rôle est un [<span style="color:blue;">Villageois</span>](../villageois.md) ou un [<span style="color:blue;">Étranger</span>](../etrangers.md).  
 
-Le·la Rêveur·se ne peut **pas se choisir lui·elle-même**, ni choisir un·e [<span style="color:purple;">Voyageur·se</span>](../voyageurs/voyageurs.md).
+Le Rêveur ne peut **pas se choisir lui-même**, ni choisir un [<span style="color:purple;">Voyageur</span>](../voyageurs/voyageurs.md).
 
 ---
 
 ## 🎬 Comment Conter  
 
-- Chaque nuit, réveillez le·la Rêveur·se.  
-- Iel désigne un joueur.  
+- Chaque nuit, réveillez le Rêveur· 
+- Le Rêveur désigne un joueur.  
 - Si ce joueur est un [<span style="color:blue;">Villageois</span>] ou un [<span style="color:blue;">Étranger</span>], montrez-lui ce jeton et celui d’un [<span style="color:red;">Sbire</span>] ou [<span style="color:red;">Démon</span>].  
 - Si le joueur est un [<span style="color:red;">Sbire</span>] ou [<span style="color:red;">Démon</span>], montrez-lui ce jeton et celui d’un [<span style="color:blue;">Villageois</span>] ou [<span style="color:blue;">Étranger</span>].  
 - Puis rendormez le·la Rêveur·se.  
 
 💡 Pour aider ou tromper subtilement :  
-Si le·la Rêveur·se choisit un joueur maléfique, vous pouvez lui montrer le rôle bon que ce joueur prétend incarner, ou un rôle secret (comme le [Charmeur de serpent](charmeurdeserpent.md), le [Sage](sage.md), le [Mutant](mutant.md) ou le [Maladroit](maladroit.md)).
+Si le Rêveur choisit un joueur maléfique, vous pouvez lui montrer le rôle bon que ce joueur prétend incarner, ou un rôle secret (comme le [Charmeur de serpent](charmeurdeserpent.md), le [Sage](sage.md), le [Mutant](mutant.md) ou le [Maladroit](maladroit.md)).
 
 ---
 
 ## 🧾 Exemples  
 
-- Le·la [Rêveur·se](reveur.md) choisit un joueur qui est le [Mutant](mutant.md).  
-  Iel apprend que ce joueur est soit le [Mutant](mutant.md), soit le [<span style="color:red;">Cerenovus</span>](cerenovus.md).  
+- Le [Rêveur·se](reveur.md) choisit un joueur qui est le [Mutant](mutant.md).  
+  Le Rêveur apprend que ce joueur est soit le [Mutant](mutant.md), soit le [<span style="color:red;">Cerenovus</span>](cerenovus.md).  
 
-- Le·la [Rêveur·se](reveur.md) choisit un joueur qui était le [Philosophe](philosophe.md) mais a obtenu la capacité de la [Fleuriste](fleuriste.md) plus tôt dans la nuit.  
-  Iel apprend que ce joueur est soit le [Philosophe](philosophe.md), soit le [<span style="color:red;">Vigormortis</span>](vigormortis.md).  
+- Le [Rêveur·se](reveur.md) choisit un joueur qui était le [Philosophe](philosophe.md) mais a obtenu la capacité de la [Fleuriste](fleuriste.md) plus tôt dans la nuit.  
+  Le Rêveur apprend que ce joueur est soit le [Philosophe](philosophe.md), soit le [<span style="color:red;">Vigormortis</span>](vigormortis.md).  
 
 - Le [<span style="color:red;">Jumeau Maléfique</span>](jumeaumalefique.md) et l’[Artiste](artiste.md) prétendent tous deux être l’Artiste.  
-  Cette nuit-là, le·la [Rêveur·se](reveur.md) choisit le [<span style="color:red;">Jumeau Maléfique</span>](jumeaumalefique.md).  
-  Si le Conteur souhaite aider le Bien, il peut montrer le [<span style="color:red;">Jumeau Maléfique</span>](jumeaumalefique.md) et la [Dulcinée](dulcinee.md).  
-  Mais s’il souhaite aider le Mal, il montre le [<span style="color:red;">Jumeau Maléfique</span>](jumeaumalefique.md) et l’[Artiste](artiste.md).  
+  Cette nuit-là, le [Rêveur](reveur.md) choisit le [<span style="color:red;">Jumeau Maléfique</span>](jumeaumalefique.md).  
+  Si le Conteur souhaite aider l'équipe du Bien, il peut montrer le [<span style="color:red;">Jumeau Maléfique</span>](jumeaumalefique.md) et la [Dulcinée](dulcinee.md).  
+  Mais s’il souhaite aider les Maléfiques, le Conteur montre le [<span style="color:red;">Jumeau Maléfique</span>](jumeaumalefique.md) et l’[Artiste](artiste.md).  
 
-- Le·la [Rêveur·se](reveur.md) choisit un joueur qui est le [<span style="color:red;">Vortox</span>](vortox.md).  
+- Le [Rêveur](reveur.md) choisit un joueur qui est le [<span style="color:red;">Vortox</span>](vortox.md).  
   Les informations doivent être fausses, car le Vortox est en jeu.  
-  Le·la [Rêveur·se](reveur.md) apprend donc que ce joueur est soit l’[Oracle](oracle.md), soit le [<span style="color:red;">No Dashii</span>](nodashii.md).  
+  Le [Rêveur](reveur.md) apprend donc que ce joueur est soit l’[Oracle](oracle.md), soit le [<span style="color:red;">No Dashii</span>](nodashii.md).  
 
 ---
 
