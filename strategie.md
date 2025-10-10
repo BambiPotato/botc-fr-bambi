@@ -19,7 +19,7 @@ title: Conseils & Stratégies
 
 ## 📑 <span style="color:#b58b52;">Sommaire</span>
 
-1. [Dieu merci, je suis dans l'équipe des Bons ! Et maintenant ?](#1-bien)  
+1. [Dieu merci, Je suis du côté des bons ! Et maintenant ?](#1-bien)  
    1.1 [Douces cerises, je suis un·e Villageois·e !](#11-villageois)  
    1.2 [Bon sang, je suis un·e Étranger·ère !](#12-etranger)  
 2. [Hot Diggity, je suis Maléfique ! Et maintenant ?](#2-mal)  
@@ -28,7 +28,7 @@ title: Conseils & Stratégies
 
 ---
 
-## 1) Dieu merci, je suis du Bien ! Et maintenant ? {#1-bien}
+## 1) Dieu merci, je suis du côté des bons ! Et maintenant ? {#1-bien}
 
 Vous avez pioché un **jeton bleu**. Super. Et maintenant ?  
 Comment parler, qui croire, quand voter ? Voici l’essentiel.
