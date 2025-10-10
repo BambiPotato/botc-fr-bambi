@@ -28,7 +28,7 @@ title: Conseils & Stratégies
 
 ---
 
-## 1) Dieu merci, je suis du côté des bons ! Et maintenant ? {#1-bien}
+## 1) Dieu merci, je suis du côté des bons ! Et maintenant ? 
 
 Vous avez pioché un **jeton bleu**. Super. Et maintenant ?  
 Comment parler, qui croire, quand voter ? Voici l’essentiel.
@@ -148,7 +148,7 @@ Comment parler, qui croire, quand voter ? Voici l’essentiel.
 
 ---
 
-## 1.2) Bon sang, je suis un·e Étranger·ère ! {#12-etranger}
+## 1.2) Bon sang, je suis un·e Étranger·ère ! 
 
 **Contournez votre handicap**
 - Transformez la contrainte en **avantage**.
@@ -172,9 +172,9 @@ Comment parler, qui croire, quand voter ? Voici l’essentiel.
 
 ---
 
-## 2) Hot Diggity, je suis du Mal ! Et maintenant ? {#2-mal}
+## 2) Hot Diggity, je suis style="color:red; font-weight:bold;">Maléfique</a> ! Et maintenant ? 
 
-Vous avez pioché un **jeton rouge**. Respirez. Le Mal gagne par **coordination**, **mensonge**, et **pression**.
+Vous avez pioché un  style="color:red; font-weight:bold;"jeton rouge. Respirez. Le Mal gagne par **coordination**, **mensonge**, et **pression**.
 
 ### Connaissez votre « job »
 - Ex. <a href="./tb_roles/empoisonneur.html" style="color:red; font-weight:bold;">Empoisonneur</a> : **saboter** les grands informateurs.  
