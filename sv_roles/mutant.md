@@ -89,7 +89,7 @@ Le Conteur peut alors :
   → Le Conteur **l’exécute immédiatement**. Aucune nomination n’aura lieu ce jour-là.  
 
 - 🤫 Une [<span style="color:red;">Sorcière</span>](sorciere.md) murmure au Conteur :  
-  > “Maxime m’a dit qu’il était le Maladroit.”  
+  > “Maxime m’a dit qu’il était le [Maladroit](maladroit.md).”  
   → Le Conteur décide que cela revient à révéler être un Étranger et **exécute le Mutant**.  
 
 - 😶 Le Mutant reste silencieux lorsqu’on lui demande son rôle.  
@@ -97,7 +97,7 @@ Le Conteur peut alors :
   → **exécution immédiate**.  
 
 - 😉 Le Mutant dit :  
-  > “Je suis l’Oracle, mais je ne suis *certainement pas* le Mutant.” (clin d’œil)  
+  > “Je suis l’[Oracle](oracle.md), mais je ne suis *certainement pas* le Mutant.” (clin d’œil)  
   → Le Conteur peut juger ce comportement “fou” et **le tuer sur-le-champ**.  
 
 ---
