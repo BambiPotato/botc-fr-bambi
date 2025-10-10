@@ -129,7 +129,7 @@ Le Conteur peut alors :
 - Se “sacrifier” en se révélant Mutant peut :  
   ✅ Confirmer que vous êtes bon,  
   ❌ Mais **retirer un tour d’exécution** au village.  
-  ❌ Et bloquer des capacités diurnes ([Artiste](artiste/md), [Savant](savant.md), [Jongleur](jongleur.md)...  
+  ❌ Et bloquer des capacités diurnes ([Artiste](artiste/md), [Savant](savant.md), [Jongleur](jongleur.md) )...  
 
 - De plus, le Conteur **peut choisir de ne pas vous exécuter**,  
   vous laissant ainsi en vie… et suspect·e !  
@@ -161,8 +161,8 @@ Le Conteur peut alors :
   vous faisant gagner du temps.  
 
 - Utilisez le Mutant pour **brouiller le compte des Étrangers** :  
-  > “La [Dulcinée](dulcinee.md) Chéri ment, c’est moi le vrai Étranger !”  
-  Cela sèmera la confusion, surtout s’il y a un [<span style="color:red">Fang Gu</span>](fanggu.md)en jeu.  
+  > “La [Dulcinée](dulcinee.md) ment, c’est moi le vrai Étranger !”  
+  Cela sèmera la confusion, surtout s’il y a un [<span style="color:red">Fang Gu</span>](fanggu.md) en jeu.  
 
 - Encouragez les autres à **se battre à votre place** :  
   plus le débat tourne autour de votre existence,  
