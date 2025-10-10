@@ -172,9 +172,9 @@ Comment parler, qui croire, quand voter ? Voici l’essentiel.
 
 ---
 
-## 2) Hot Diggity, je suis style="color:red; font-weight:bold;">Maléfique</a> ! Et maintenant ? 
+## 2) Hot Diggity, je suis <span style="color:red">Maléfique</span> ! Et maintenant ? 
 
-Vous avez pioché un  style="color:red; font-weight:bold;"jeton rouge. Respirez. Le Mal gagne par **coordination**, **mensonge**, et **pression**.
+Vous avez pioché un <span style="color:red">jeton rouge 🔴</span>. Respirez. Les Maléfiques gagnent par **coordination**, **mensonge**, et **pression**.
 
 ### Connaissez votre « job »
 - Ex. <a href="./tb_roles/empoisonneur.html" style="color:red; font-weight:bold;">Empoisonneur</a> : **saboter** les grands informateurs.  
@@ -237,17 +237,17 @@ Vous avez pioché un  style="color:red; font-weight:bold;"jeton rouge. Respirez.
 - Désignez (ou couvrez) **stratégiquement** pour semer le chaos.
 
 **Restez en vie**
-- Le Mal est **minoritaire** : chaque mort rouge coûte cher.
+- Les Maléfiques sont **minoritaires** : chaque mort rouge coûte cher.
 
 **Mort utile**
 - Mourir **proprement** peut donner un capital de **confiance** posthume.
 
 ---
 
-## 2.2) Oh là là, je suis le Démon ! {#22-demon}
+## 2.2) Oh là là, je suis le Démon ! 
 
 **Restez en vie**
-- Sans vous, plus de Mal (sauf plan de secours : <a href="./bmr_roles/avocatdudiable.html" style="color:red; font-weight:bold;">Avocat du Diable</a> / <a href="./tb_roles/femmeecarlate.html" style="color:red; font-weight:bold;">Femme Écarlate</a>…).
+- Sans vous, plus de Maléfique (sauf plan de secours : <a href="./bmr_roles/avocatdudiable.html" style="color:red; font-weight:bold;">Avocat du Diable</a> / <a href="./tb_roles/femmeecarlate.html" style="color:red; font-weight:bold;">Femme Écarlate</a>…).
 
 **Utilisez votre équipe**
 - Couvrez vos traces, **gagnez** des appuis côté Bien, choisissez **qui** faire tomber **et quand**.
@@ -257,27 +257,11 @@ Vous avez pioché un  style="color:red; font-weight:bold;"jeton rouge. Respirez.
 
 ---
 
-<h2 style="color:#ffa64d; font-weight:bold; font-size:24px; margin-top:32px;">📂 Navigation</h2>
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
+ 
   <li>📘 <a href="./glossaire.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Glossaire</a></li>
   <li>🧙 <a href="./conteur.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Conseils aux Conteurs</a></li>
-</ul>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li>🍺 <a href="./trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
   <li>🌛 <a href="./bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
   <li>💐 <a href="./sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
