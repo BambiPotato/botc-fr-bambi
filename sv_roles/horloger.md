@@ -49,9 +49,9 @@ title: Horloger
 
 « Vous commencez à savoir combien de pas séparent le <span style="color:red">Démon</span>  de son [<span style="color:red">Sbire</span>](../sbires.md)  le plus proche. »  
 
-L’Horloger apprend la distance qui sépare le <span style="color:red">Démon</span> de son Sbire le plus proche.
-Il reçoit cette information uniquement la première nuit.
-La distance correspond au nombre de joueurs assis entre eux, en partant du joueur situé à côté du Démon jusqu’à atteindre le Sbire le plus proche, dans le sens horaire ou antihoraire (le plus court chemin est retenu).
+- L’Horloger apprend la distance qui sépare le <span style="color:red">Démon</span> de son[<span style="color:red">Sbire</span>](../sbires.md) le plus proche.
+- Il reçoit cette information uniquement la première nuit.
+- La distance correspond au nombre de joueurs assis entre eux, en partant du joueur situé à côté du <span style="color:red">Démon</span> jusqu’à atteindre le [<span style="color:red">Sbire</span>](../sbires.md) le plus proche, dans le sens horaire ou antihoraire (le plus court chemin est retenu).
 ---
 
 ## 🎬 Comment Conter  
