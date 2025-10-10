@@ -28,9 +28,9 @@ title: Conseils & Stratégies
 
 ---
 
-## 1) Dieu merci, je suis du côté des bons ! Et maintenant ? 
+## 1) Dieu merci,mon rôle est <span style="color:blue" >bleu</span> !je suis du côté des bons ! Et maintenant ? 
 
-Vous avez pioché un **jeton bleu**. Super. Et maintenant ?  
+Vous avez pioché un <span style="color:blue" >**jeton 🔵bleu**</span>. Super. Et maintenant ?  
 Comment parler, qui croire, quand voter ? Voici l’essentiel.
 
 ### Déterminez votre « mission »
@@ -119,7 +119,7 @@ Comment parler, qui croire, quand voter ? Voici l’essentiel.
 
 ---
 
-## 1.1) Douces cerises, je suis un·e Villageois·e ! 
+## 1.1) Douces cerises, je suis un·e <span style="color:blue" >Villageois·e</span> ! 
 
 **Partagez vos infos**
 - En public ou en privé (avec personnes de confiance), mais **partagez**.
@@ -148,7 +148,7 @@ Comment parler, qui croire, quand voter ? Voici l’essentiel.
 
 ---
 
-## 1.2) Bon sang, je suis un·e Étranger·ère ! 
+## 1.2) Bon sang, je suis un·e <span style="color:blue" >Étranger·ère</span> ! 
 
 **Contournez votre handicap**
 - Transformez la contrainte en **avantage**.
@@ -159,7 +159,7 @@ Comment parler, qui croire, quand voter ? Voici l’essentiel.
 - Observez **qui insiste** pour vous exécuter (suspicion).  
 - <a href="./tb_roles/majordome.html" style="color:blue; font-weight:bold;">Majordome</a> : surveillez le **vote** de votre « maître ».
 
-**Comptez les Outsiders**
+**Comptez les Étrangers**
 - Comparez déclarations vs nombre attendu.  
   - Trop : des **mensonges** (ou <a href="./tb_roles/baron.html" style="color:red; font-weight:bold;">Baron</a>).  
   - Pas assez : **réduction** en jeu (<a href="./bmr_roles/parrain.html" style="color:red; font-weight:bold;">Parrain</a>) ou <a href="./tb_roles/ivrogne.html" style="color:blue; font-weight:bold;">Ivrogne</a> non vu.
@@ -225,7 +225,7 @@ Vous avez pioché un <span style="color:red">jeton rouge 🔴</span>. Respirez. 
 
 ---
 
-## 2.1) Mwehe, je suis un·e Sbire !
+## 2.1) Mwehe, je suis un·e  <span style="color:red">Sbire</span> !
 
 **Ne votez pas contre votre Démon**  
 - Sauf plan **béton** (<a href="./tb_roles/femmeecarlate.html" style="color:red; font-weight:bold;">Femme Écarlate</a>, etc.).
@@ -244,7 +244,7 @@ Vous avez pioché un <span style="color:red">jeton rouge 🔴</span>. Respirez. 
 
 ---
 
-## 2.2) Oh là là, je suis le Démon ! 
+## 2.2) Oh là là, je suis le <span style="color:red">Démon</span> ! 
 
 **Restez en vie**
 - Sans vous, plus de Maléfique (sauf plan de secours : <a href="./bmr_roles/avocatdudiable.html" style="color:red; font-weight:bold;">Avocat du Diable</a> / <a href="./tb_roles/femmeecarlate.html" style="color:red; font-weight:bold;">Femme Écarlate</a>…).
