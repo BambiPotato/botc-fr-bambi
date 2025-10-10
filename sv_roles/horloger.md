@@ -125,3 +125,108 @@ De plus, dans les parties avec plusieurs [<span style="color:red">Sbires</span>]
   <li>🏠 <a href="../index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
   <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
 </ul>
+
+
+---
+TEST
+--
+
+---
+layout: default
+title: Horloger
+---
+
+<!-- 🔷 Logo en haut à gauche -->
+<p align="left">
+  <a href="/botc-fr-bambi/">
+    <img src="../images/logo.png" alt="Accueil BotC FR" width="200">
+  </a>
+</p>
+
+---
+
+## 🕰️ Horloger
+
+<!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="./horloger.html" style="text-decoration:none;">
+    <img src="../images/Icon_clockmaker.png" alt="Horloger" width="350" style="border-radius:8px;">
+    <br>
+    <span style="color:blue; font-weight:bold; font-size:22px;">Horloger</span>
+  </a>
+</div>
+
+---
+
+## ℹ️ Informations  
+
+- **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)  
+- **Artiste :** Aidan Roberts  
+> *« Ne me dérangez pas. Le tic doit continuer, car le cercle est un symbole de vie et renferme toutes choses — toutes les réponses — dans sa divine machinerie. Je dois travailler. »*  
+
+---
+
+## 🎭 Apparaît dans  
+
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../sv.html" style="text-decoration:none;">
+    <img src="../images/Logo_sects_and_violets.png" alt="Sects & Violets" width="400" style="border-radius:12px;">
+    <br>
+    <span style="color:#d67bff; font-weight:bold; font-size:22px;">Sects & Violets</span>
+  </a>
+</div>
+
+> *Cult of the Clocktower* – épisode par Andrew Nathenson  
+
+---
+
+## 📖 Résumé  
+
+> « Vous commencez en sachant combien de pas séparent le <span style="color:red;">Démon</span> de son [<span style="color:red;">Sbire</span>](../sbires.md) le plus proche. »
+
+- L’Horloger apprend la distance entre le <span style="color:red;">Démon</span> et le [<span style="color:red;">Sbire</span>](../sbires.md) le plus proche.  
+- Cette information est donnée uniquement la première nuit.  
+- La distance correspond au nombre de joueurs assis entre eux, en partant du <span style="color:red;">Démon</span> jusqu’à atteindre le [<span style="color:red;">Sbire</span>](../sbires.md) le plus proche, dans le sens horaire **ou** antihoraire (le plus court chemin est retenu).
+
+---
+
+## 🎬 Comment Conter  
+
+- Lors de la **première nuit**, réveillez l’Horloger.  
+- Montrez-lui un nombre avec vos doigts ✌️ (1, 2, etc.) correspondant à la distance entre le <span style="color:red;">Démon</span> et le [<span style="color:red;">Sbire</span>](../sbires.md) le plus proche.  
+- Puis rendormez l’Horloger.
+
+---
+
+## 🧾 Exemples  
+
+- Le [<span style="color:red;">Fang Gu</span>](fanggu.md) est assis à côté de la [<span style="color:red;">Pit-Hag</span>](pithag.md) → l’Horloger apprend un **« 1 »**.  
+- Si le [<span style="color:red;">No Dashii</span>](nodashii.md) est entouré du [Rêveur](reveur.md), du [Charmeur de Serpent](charmeurdeserpent.md) et du [<span style="color:red;">Jumeau Maléfique</span>](jumeaumalefique.md), l’Horloger apprend un **« 3 »**.  
+- Si un <span style="color:purple;">Voyageur</span> maléfique est entre deux rôles, il **ne compte pas** comme [<span style="color:red;">Sbire</span>](../sbires.md).
+
+---
+
+## 💡 Astuces & Conseils  
+
+- Attendez avant de révéler votre information : observez le comportement des autres joueurs.  
+- Votre info devient précieuse dès que vous identifiez un [<span style="color:red;">Sbire</span>](../sbires.md).  
+- Coopérez avec des rôles comme la [Couturière](couturiere.md) ou l’[Oracle](oracle.md) pour confirmer vos soupçons.  
+- Un petit nombre (1–2) → le <span style="color:red;">Démon</span> et ses [<span style="color:red;">Sbires</span>](../sbires.md) sont proches.  
+- Un grand nombre (4–5) → ils sont plus éloignés.  
+- Observez qui parle souvent ensemble : c’est souvent révélateur.  
+
+---
+
+## 🎭 Bluff en tant qu’Horloger  
+
+- Donnez de **fausses distances** pour brouiller les pistes.  
+- Révélez votre identité plus tard pour survivre plus longtemps.  
+- De faux chiffres crédibles (comme 2 ou 3) fonctionnent mieux qu’un nombre extrême.  
+- Si un [<span style="color:red;">Sbire</span>](../sbires.md) meurt, votre bluff peut renforcer la confusion chez les bons joueurs.
+
+
+<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  <li>🏠 <a href="../index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
+</ul>
+
