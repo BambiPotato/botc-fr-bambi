@@ -177,7 +177,6 @@ mais détecte **leurs effets** lorsque des capacités échouent.
 
 ---
 
-## 🔗 Navigation  
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li>🏠 <a href="../index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
