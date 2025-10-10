@@ -28,7 +28,7 @@ title: Conseils & Stratégies
 
 ---
 
-## 1) Dieu merci,mon rôle est <span style="color:blue">bleu</span> !je suis du côté des bons ! Et maintenant ? 
+## 1) Dieu merci, mon rôle est <span style="color:blue">bleu</span> !je suis du côté des bons ! Et maintenant ? 
 
 Vous avez pioché un **<span style="color:blue">jeton bleu</span>** 🔵! Super. Et maintenant ?  
 Comment parler, qui croire, quand voter ? Voici l’essentiel.
@@ -119,7 +119,7 @@ Comment parler, qui croire, quand voter ? Voici l’essentiel.
 
 ---
 
-## 1.1) Douces cerises, je suis un·e <span style="color:blue" >Villageois·e</span> ! 
+## 1.1) Douces cerises, je suis un·e <span style="color:blue">Villageois·e</span> ! 
 
 **Partagez vos infos**
 - En public ou en privé (avec personnes de confiance), mais **partagez**.
