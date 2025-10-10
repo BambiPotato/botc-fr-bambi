@@ -10,41 +10,51 @@ title: Horloger
   </a>
 </p>
 
-
 ---
 
 ## 🕰️ Horloger
 
-
-[<img src="../images/Icon_clockmaker.png" alt="Horloger" width="400">](horloger.md) [**Horloger**](../sv_roles/holorger.md)
+<!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="./horloger.html" style="text-decoration:none;">
+    <img src="../images/Icon_clockmaker.png" alt="Horloger" width="350" style="border-radius:8px;">
+    <br>
+    <span style="color:blue; font-weight:bold; font-size:22px;">Horloger</span>
+  </a>
+</div>
 
 ---
 
-## ℹ️ Information  
+## ℹ️ Informations  
 
 - **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)  
 - **Artiste :** Aidan Roberts  
-*« Ne me dérange pas. Le tic doit continuer, car le cercle est un symbole de vie et renferme toutes choses 
-toutes les réponses — dans sa divine machinerie. Je dois travailler. »*  
+> *« Ne me dérangez pas. Le tic doit continuer, car le cercle est un symbole de vie et renferme toutes choses — toutes les réponses — dans sa divine machinerie. Je dois travailler. »*  
 
 ---
 
 ## 🎭 Apparaît dans  
 
-[<img src="../images/Logo_sects_and_violets.png" alt="Sects and Violets" width="400">](../sv.md) [**Sects &Violets**](../sv.md)  
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../sv.html" style="text-decoration:none;">
+    <img src="../images/Logo_sects_and_violets.png" alt="Sects & Violets" width="400" style="border-radius:12px;">
+    <br>
+    <span style="color:#d67bff; font-weight:bold; font-size:22px;">Sects & Violets</span>
+  </a>
+</div>
 
-*Cult of the Clocktower* – épisode par Andrew Nathenson  
+> *Cult of the Clocktower* – épisode par Andrew Nathenson  
 
 ---
 
 ## 📖 Résumé  
 
-« Vous commencez à savoir combien de pas séparent le <span style="color:red">Démon</span>  de son [<span style="color:red">Sbire</span>](../sbires.md)  le plus proche. »  
+> « Vous commencez en sachant combien de pas séparent le <span style="color:red;">Démon</span> de son [<span style="color:red;">Sbire</span>](../sbires.md) le plus proche. »
 
-- L’Horloger apprend la distance qui sépare le <span style="color:red">Démon</span> de son[<span style="color:red">Sbire</span>](../sbires.md) le plus proche.
-- Il reçoit cette information uniquement la première nuit.
-- La distance correspond au nombre de joueurs assis entre eux, en partant du joueur situé à côté du <span style="color:red">Démon</span> jusqu’à atteindre le [<span style="color:red">Sbire</span>](../sbires.md) le plus proche, dans le sens horaire ou antihoraire (le plus court chemin est retenu).
----
+- L’Horloger apprend la distance entre le <span style="color:red;">Démon</span> et le [<span style="color:red;">Sbire</span>](../sbires.md) le plus proche.  
+- Cette information est donnée uniquement la première nuit.  
+- La distance correspond au nombre de joueurs assis entre eux, en partant du <span style="color:red;">Démon</span> jusqu’à atteindre le [<span style="color:red;">Sbire</span>](../sbires.md) le plus proche, dans le sens horaire **ou** antihoraire (le plus court chemin est retenu).
+
 
 ## 🎬 Comment Conter  
 
@@ -131,62 +141,6 @@ De plus, dans les parties avec plusieurs [<span style="color:red">Sbires</span>]
 TEST
 --
 
----
-layout: default
-title: Horloger
----
-
-<!-- 🔷 Logo en haut à gauche -->
-<p align="left">
-  <a href="/botc-fr-bambi/">
-    <img src="../images/logo.png" alt="Accueil BotC FR" width="200">
-  </a>
-</p>
-
----
-
-## 🕰️ Horloger
-
-<!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
-<div style="text-align:center; margin: 20px 0;">
-  <a href="./horloger.html" style="text-decoration:none;">
-    <img src="../images/Icon_clockmaker.png" alt="Horloger" width="350" style="border-radius:8px;">
-    <br>
-    <span style="color:blue; font-weight:bold; font-size:22px;">Horloger</span>
-  </a>
-</div>
-
----
-
-## ℹ️ Informations  
-
-- **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)  
-- **Artiste :** Aidan Roberts  
-> *« Ne me dérangez pas. Le tic doit continuer, car le cercle est un symbole de vie et renferme toutes choses — toutes les réponses — dans sa divine machinerie. Je dois travailler. »*  
-
----
-
-## 🎭 Apparaît dans  
-
-<div style="text-align:center; margin: 20px 0;">
-  <a href="../sv.html" style="text-decoration:none;">
-    <img src="../images/Logo_sects_and_violets.png" alt="Sects & Violets" width="400" style="border-radius:12px;">
-    <br>
-    <span style="color:#d67bff; font-weight:bold; font-size:22px;">Sects & Violets</span>
-  </a>
-</div>
-
-> *Cult of the Clocktower* – épisode par Andrew Nathenson  
-
----
-
-## 📖 Résumé  
-
-> « Vous commencez en sachant combien de pas séparent le <span style="color:red;">Démon</span> de son [<span style="color:red;">Sbire</span>](../sbires.md) le plus proche. »
-
-- L’Horloger apprend la distance entre le <span style="color:red;">Démon</span> et le [<span style="color:red;">Sbire</span>](../sbires.md) le plus proche.  
-- Cette information est donnée uniquement la première nuit.  
-- La distance correspond au nombre de joueurs assis entre eux, en partant du <span style="color:red;">Démon</span> jusqu’à atteindre le [<span style="color:red;">Sbire</span>](../sbires.md) le plus proche, dans le sens horaire **ou** antihoraire (le plus court chemin est retenu).
 
 ---
 
