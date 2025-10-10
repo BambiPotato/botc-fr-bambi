@@ -43,6 +43,7 @@ title: Horloger
   </a>
 </div>
 
+
 > *Cult of the Clocktower* – épisode par Andrew Nathenson  
 
 ---
@@ -51,7 +52,7 @@ title: Horloger
 
 > « Vous commencez en sachant combien de pas séparent le <span style="color:red;">Démon</span> de son [<span style="color:red;">Sbire</span>](../sbires.md) le plus proche. »
 
-> « L'horloger commence à savoir combien de pas séparent le <span style="color:red;">Démon</span> de son [<span style="color:red;">Sbire</span>](../sbires.md) le plus proche. »  
+- « L'horloger commence à savoir combien de pas séparent le <span style="color:red;">Démon</span> de son [<span style="color:red;">Sbire</span>](../sbires.md) le plus proche. »  
 
 - L’Horloger apprend la distance qui sépare le <span style="color:red;">Démon</span> de son [<span style="color:red;">Sbire</span>](../sbires.md) le plus proche.  
 - Il reçoit cette information uniquement la première nuit.  
