@@ -10,10 +10,6 @@ title: Horloger
   </a>
 </p>
 
-<!-- 🧭 Informations -->
-<p style="text-align:center; font-size:18px;">
-  <strong style="color:blue;">Villageois</strong> – <em>Sects & Violets</em>
-</p>
 
 ---
 
