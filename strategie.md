@@ -119,7 +119,7 @@ Comment parler, qui croire, quand voter ? Voici l’essentiel.
 
 ---
 
-## 1.1) Douces cerises, je suis un·e Villageois·e ! {#11-villageois}
+## 1.1) Douces cerises, je suis un·e Villageois·e ! 
 
 **Partagez vos infos**
 - En public ou en privé (avec personnes de confiance), mais **partagez**.
