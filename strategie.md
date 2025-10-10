@@ -262,7 +262,7 @@ Vous avez pioché un **jeton rouge**. Respirez. Le Mal gagne par **coordination*
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li>🏠 <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
   <li>📘 <a href="./glossaire.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Glossaire</a></li>
-  <li>🧙 <a href="./conteur.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Conseils aux Conteur·euse·s</a></li>
+  <li>🧙 <a href="./conteur.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Conseils aux Conteurs</a></li>
 </ul>
 
 
