@@ -51,8 +51,8 @@ Dieu est révélé ! Oui ! »*
 ## 📖 Résumé  
 
 > « Une fois par partie, pendant la journée, posez en privé au Conteur une question à laquelle il répondra par oui ou non ». 
-> « Vous pouvez demander au Conteur, en privé,  
-> **une question fermée (oui / non)**. »
+
+> « **La question doit être fermée (oui / non)**. »
 
 L’Artiste peut poser **une question unique**, sur **n’importe quel sujet** lié à la partie.  
 Le Conteur doit répondre honnêtement par **« oui »**, **« non »**, ou **« je ne sais pas »**.  
