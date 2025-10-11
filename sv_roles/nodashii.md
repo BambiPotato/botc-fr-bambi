@@ -58,7 +58,7 @@ title: No Dashii
 Le **No Dashii** empoisonne en permanence ses deux **voisins les plus proches Villageois**, dans le sens horaire et antihoraire - l’un à sa gauche et l’autre à sa droite.  
 Les **Étrangers, Sbires et Voyageurs sont ignorés** : on saute par-dessus jusqu’au prochain **Villageois**.  
 Si le No Dashii **meurt** ou **perd sa capacité**, ces voisins redeviennent **sains**.  
-Si le **porteur du rôle** change (Barbier, Pit-Hag…), les joueurs **empoisonnés peuvent changer immédiatement** selon les nouveaux voisins Villageois.
+Si le **porteur du rôle** change (<span style="color:blue;">Barbier</span>](barbier.md), [<span style="color:red;">Pit-Hag</span>](pithag.md)…), les joueurs **empoisonnés peuvent changer immédiatement** selon les nouveaux voisins Villageois.
 
 ---
 
@@ -83,12 +83,12 @@ Si le **porteur du rôle** change (Barbier, Pit-Hag…), les joueurs **empoisonn
 - Au début de la partie, le [<span style="color:red;">No Dashii</span>](nodashii.md) est assis entre un [<span style="color:blue;">**Crieur**</span>](crieur.md) ([<span style="color:bleu;">**Villageois**</span>](../villageois.html) )
   et un  [<span style="color:blue;">**Charmeur de serpent**</span>](charmeurdeserpent.md) ([<span style="color:bleu;">**Villageois**</span>](../villageois.html) ) : **ces 2 rôles-là sont empoisonnés**.  
   En sens antihoraire : la [<span style="color:red;">**Sorcière**</span>](sorciere.md) un <span style="color:red;">Sbire</span>, le [<span style="color:blue;">**Mutant**</span>](mutant.md) un <span style="color:blue;">Étranger</span>,
-  la  [<span style="color:blue;">**Couturière**</span>](couturiere.md) un [<span style="color:blue;">Villageois</span>.  
+  la  [<span style="color:blue;">**Couturière**</span>](couturiere.md) un ( [<span style="color:bleu;">**Villageois**</span>](../villageois.html) )  
 - Plus tard, avec la capacité du [<span style="color:blue;">**Barbier**</span>](barbier.md) le No Dashii échange avec la [<span style="color:red;">**Sorcière**</span>](sorciere.md) un <span style="color:red;">Sbire</span>.
   Les **nouveaux voisins Villageois** du nouveau No Dashii deviennent **empoisonnés** ; les anciens redeviennent **sains**.  
-- En sens horaire depuis le No Dashii : le [<span style="color:blue;">**Philosophe**</span>](philosophe.md) un <span style="color:blue;">Villageois</span>, le [<span style="color:blue;">**Mathématicien**</span>](Mathématicien.md) <span style="color:blue;">Villageois</span>, 
-  le [<span style="color:blue;">**Sage**</span>](sage.md) [<span style="color:blue;">Villageois</span>).  
-  En sens antihoraire : la [<span style="color:red;">**Sorcière**</span>](sorciere.md) <span style="color:red;">Sbire</span>,le  [<span style="color:blue;">**Mutant**</span>](mutant.md) un <span style="color:blue;">Étranger</span>, la [<span style="color:blue;">**Couturière**</span>](couturiere.md) un [<span style="color:blue;">Villageois</span>.   
+- En sens horaire depuis le No Dashii : le [<span style="color:blue;">**Philosophe**</span>](philosophe.md) un ( [<span style="color:bleu;">**Villageois**</span>](../villageois.html) ), le [<span style="color:blue;">**Mathématicien**</span>](Mathématicien.md) un ( [<span style="color:bleu;">**Villageois**</span>](../villageois.html) )  , 
+  le [<span style="color:blue;">**Sage**</span>](sage.md) un ( [<span style="color:bleu;">**Villageois**</span>](../villageois.html) ).  
+  En sens antihoraire : la [<span style="color:red;">**Sorcière**</span>](sorciere.md) <span style="color:red;">Sbire</span>,le  [<span style="color:blue;">**Mutant**</span>](mutant.md) un <span style="color:blue;">Étranger</span>, la [<span style="color:blue;">**Couturière**</span>](couturiere.md) un ( [<span style="color:bleu;">**Villageois**</span>](../villageois.html) ).   
   ⇒ Les Villageois empoisonnés sont le [<span style="color:blue;">**Philosophe**</span>](philosophe.md) et la [<span style="color:blue;">**Couturière**</span>](couturiere.md).
 
 ---
