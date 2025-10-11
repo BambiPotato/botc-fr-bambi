@@ -170,12 +170,10 @@ mais sa nomination comptera quand même.
 
 ---
 
-## 🔗 Navigation  
-
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
   <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
-  <li>🩸 <a href="../tb.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌕 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
+  <li>🍺 <a href="../tb.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li>🌛 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
   <li>😈 <a href="../sbires.md" style="color:red; font-weight:bold; text-decoration:none;">Catégorie : Sbires</a></li>
 </ul>
