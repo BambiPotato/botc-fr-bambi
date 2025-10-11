@@ -129,7 +129,7 @@ Le Conteur peut alors :
 - Se “sacrifier” en se révélant Mutant peut :  
   ✅ Confirmer que vous êtes bon,  
   ❌ Mais **retirer un tour d’exécution** au village.  
-  ❌ Et bloquer des capacités diurnes ([Artiste](artiste/md), [Savant](savant.md), [Jongleur](jongleur.md) )...  
+  ❌ Et bloquer des capacités diurnes ([Artiste](artiste.md), [Savant](savant.md), [Jongleur](jongleur.md) )...  
 
 - De plus, le Conteur **peut choisir de ne pas vous exécuter**,  
   vous laissant ainsi en vie… et suspect·e !  
