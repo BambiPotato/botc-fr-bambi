@@ -145,7 +145,7 @@ L'Équipe des **gentils** ne savent pas quel jumeau est bon et quel jumeau est m
 
 ### 👍🏻 Rôles utiles contre le Jumeau Maléfique  
 
-- [<span style="color:blue;">Crieur Public</span>](crieur.md) – détecte si un Jumeau a fait une nomination.  
+- [<span style="color:blue;">Crieur</span>](crieur.md) – détecte si un Jumeau a fait une nomination.  
 - [<span style="color:blue;">Jongleur</span>](jongleur.md) – peut deviner qui est le Jumeau Maléfique.  
 - [<span style="color:blue;">Couturière</span>](couturiere.md) – compare les alignements.  
 - [<span style="color:blue;">Horloger</span>](horloger.md) – peut aider à identifier le Démon et donc le Jumeau.  
