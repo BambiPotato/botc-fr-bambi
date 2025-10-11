@@ -58,7 +58,7 @@ title: No Dashii
 Le **No Dashii** empoisonne en permanence ses deux **voisins les plus proches Villageois**, dans le sens horaire et antihoraire - l’un à sa gauche et l’autre à sa droite.  
 Les **Étrangers, Sbires et Voyageurs sont ignorés** : on saute par-dessus jusqu’au prochain **Villageois**.  
 Si le No Dashii **meurt** ou **perd sa capacité**, ces voisins redeviennent **sains**.  
-Si le **porteur du rôle** change (<span style="color:blue;">Barbier</span>](barbier.md), [<span style="color:red;">Pit-Hag</span>](pithag.md)…), les joueurs **empoisonnés peuvent changer immédiatement** selon les nouveaux voisins Villageois.
+Si le **porteur du rôle** change ([<span style="color:blue;">Barbier</span>](barbier.md), [<span style="color:red;">Pit-Hag</span>](pithag.md)…), les joueurs **empoisonnés peuvent changer immédiatement** selon les nouveaux voisins Villageois.
 
 ---
 
