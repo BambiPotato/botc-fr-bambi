@@ -167,8 +167,8 @@ mais sa nomination comptera quand même.
 
 - **Analysez les morts.**  
   Si des joueurs puissants meurent en nommant, elle a ciblé des rôles utiles : c’est une information précieuse.  
----
 
+---
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
