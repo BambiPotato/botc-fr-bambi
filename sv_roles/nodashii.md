@@ -80,8 +80,8 @@ Si le **porteur du rôle** change (Barbier, Pit-Hag…), les joueurs **empoisonn
 
 ## 🧾 Exemples
 
-- Au début de la partie, le [<span style="color:red;">No Dashii</span>](nodashii.md) est assis entre un [<span style="color:blue;">**Crieur**</span>](crieur.md) [<span style="color:bleu;">**Villageois**</span>](../villageois.html) 
-  et un  [<span style="color:blue;">**Charmeur de serpent**</span>](charmeurdeserpent.md) [<span style="color:bleu;">**Villageois**</span>](../villageois.html)  : **ces 2 rôles-là sont empoisonnés**.  
+- Au début de la partie, le [<span style="color:red;">No Dashii</span>](nodashii.md) est assis entre un [<span style="color:blue;">**Crieur**</span>](crieur.md) ([<span style="color:bleu;">**Villageois**</span>](../villageois.html) )
+  et un  [<span style="color:blue;">**Charmeur de serpent**</span>](charmeurdeserpent.md) ([<span style="color:bleu;">**Villageois**</span>](../villageois.html) ) : **ces 2 rôles-là sont empoisonnés**.  
   En sens antihoraire : la [<span style="color:red;">**Sorcière**</span>](sorciere.md) un <span style="color:red;">Sbire</span>, le [<span style="color:blue;">**Mutant**</span>](mutant.md) un <span style="color:blue;">Étranger</span>,
   la  [<span style="color:blue;">**Couturière**</span>](couturiere.md) un [<span style="color:blue;">Villageois</span>.  
 - Plus tard, avec la capacité du [<span style="color:blue;">**Barbier**</span>](barbier.md) le No Dashii échange avec la [<span style="color:red;">**Sorcière**</span>](sorciere.md) un <span style="color:red;">Sbire</span>.
