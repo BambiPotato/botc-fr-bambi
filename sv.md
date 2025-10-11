@@ -169,7 +169,7 @@ C’est aussi la première apparition de la <strong>Folie</strong>, qui peut com
 </div>
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_eviltwin.png" alt="Jumeau Maléfique" width="300">](sv_roles/jumeaumalefique.md)  
-  [<span style="color:red;">**Jumeau Maléfique**</span>](sv_roles/jumeaumaléfique.md)
+  [<span style="color:red;">**Jumeau Maléfique**</span>](sv_roles/jumeaumalefique.md)
 </div>
 
 ---
