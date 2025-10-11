@@ -1,6 +1,12 @@
+---
+layout: default
+title: Jumeau Maléfique
+---
+
+<!-- 🔴 Logo en haut à gauche -->
 <p align="left">
-  <a href="../index.md">
-    <img src="../images/logo.png" alt="Accueil Blood on the Clocktower FR" width="200">
+  <a href="/botc-fr-bambi/">
+    <img src="../images/logo.png" alt="Accueil BotC FR" width="200">
   </a>
 </p>
 
@@ -8,17 +14,20 @@
 
 ## 👯 Jumeau Maléfique
 
+<!-- 🩸 Image centrée cliquable avec nom -->
 <div style="text-align:center; margin: 20px 0;">
-  <img src="../images/Icon_eviltwin.png" alt="Jumeau Maléfique" width="300" style="border-radius:8px;">
-  <br>
-  <span style="color:red; font-weight:bold; font-size:22px;">Jumeau Maléfique</span>
+  <a href="./jumeau_malefique.html" style="text-decoration:none;">
+    <img src="../images/Icon_eviltwin.png" alt="Jumeau Maléfique" width="350" style="border-radius:8px;">
+    <br>
+    <span style="color:red; font-weight:bold; font-size:22px;">Jumeau Maléfique</span>
+  </a>
 </div>
 
 ---
 
 ## ℹ️ Information  
 
-- **Type :** <span style="color:red;">Sbire</span>  
+- **Type :** [<span style="color:red;">**Sbire**</span>](../sbires.md)  
 - **Artiste :** Aidan Roberts  
 > *« Je ne suis pas Sara ! Je suis Clara ! C’est **elle** Sara ! C’est **elle** la mauvaise ! Pas moi ! »*
 
@@ -27,7 +36,7 @@
 ## 🎭 Apparaît dans  
 
 <div style="text-align:center; margin: 20px 0;">
-  <a href="../sv.md" style="text-decoration:none;">
+  <a href="../sv.html" style="text-decoration:none;">
     <img src="../images/Logo_sects_and_violets.png" alt="Logo Sects & Violets" width="400" style="border-radius:12px;">
     <br>
     <span style="color:#d67bff; font-weight:bold; font-size:22px;">Sects & Violets</span>
@@ -42,15 +51,15 @@
 
 > « Vous et un joueur du camp opposé vous connaissez.  
 > Si le joueur bon est exécuté, le Mal gagne.  
-> Le Bien ne peut pas gagner si vous êtes tous deux vivants. »
+> Le Bien ne peut pas gagner si vous êtes tous deux en vie. »
 
-Le **Jumeau Maléfique** est un sbire qui crée un lien miroir avec un joueur bon, appelé le **Jumeau Bon**.  
+Le **Jumeau Maléfique** est un sbire qui crée un lien miroir avec un joueur bon appelé le **Jumeau Bon**.  
 Chacun connaît le rôle de l’autre mais pas son alignement.  
-Toute la tension du jeu repose sur la confusion : qui est le bon, qui est le mauvais ?
+Toute la tension du jeu repose sur la confusion : lequel des deux dit la vérité ?
 
 - Si le **Jumeau Bon** est exécuté → 💀 le Mal gagne immédiatement.  
 - Si le **Jumeau Maléfique** est exécuté → la partie continue.  
-- Tant que les deux sont vivants → le Bien ne peut pas remporter la victoire, même si le Démon meurt.  
+- Tant que les deux sont vivants → le Bien ne peut pas gagner, même si le Démon meurt.  
 
 ---
 
@@ -81,14 +90,14 @@ Toute la tension du jeu repose sur la confusion : qui est le bon, qui est le mau
 - Les deux Jumeaux prétendent être l’[Horloger](./horloger.md).  
   Le Jumeau Maléfique est exécuté : la partie continue.  
 
-- Le [Faiseur de Fosse](./faiseur_de_fosse.md) transforme le [Savant](./savant.md), qui est le Jumeau Bon, en [Mutant](./mutant.md).  
-  Les deux prétendent être le Mutant. Le Conteur exécute le Jumeau Bon : le Mal gagne.  
+- Le [Faiseur de Fosse](./faiseur_de_fosse.md) transforme le [Savant](./savant.md) (le Jumeau Bon) en [Mutant](./mutant.md).  
+  Les deux prétendent être le Mutant. Le Conteur exécute le Jumeau Bon : **le Mal gagne.**  
 
 - Les deux Jumeaux se disent [Artistes](./artiste.md).  
-  Le village tue le Démon. La nuit suivante, il n’y a pas de morts : le Jumeau Maléfique vit encore.  
+  Le village exécute le Démon, mais la nuit suivante il n’y a pas de morts : le Jumeau Maléfique vit encore.  
 
-- Le Faiseur de Fosse transforme un joueur bon en Jumeau Maléfique, mais celui-ci reste bon.  
-  Le village l’exécute : le Mal gagne.  
+- Le Faiseur de Fosse transforme un joueur bon en Jumeau Maléfique, mais il reste bon.  
+  Le village l’exécute : **le Mal gagne.**
 
 ---
 
@@ -97,10 +106,10 @@ Toute la tension du jeu repose sur la confusion : qui est le bon, qui est le mau
 ### 🔴 Pour le Jumeau Maléfique  
 
 - **Retournez la situation.**  
-  Dites que c’est l’autre qui est le Jumeau Maléfique et répétez-le sans relâche.  
+  Dites que l’autre est le Jumeau Maléfique et répétez-le sans relâche.  
 
 - **Imitez son rôle.**  
-  Vous connaissez le rôle du Jumeau Bon ; bluffez le même pour maintenir le doute.  
+  Vous connaissez le rôle du Jumeau Bon, bluffez le même pour maintenir le doute.  
 
 - **Jouez la peur et la passion.**  
   Le Jumeau Bon se bat pour ne pas être exécuté ; imitez-le pour paraître sincère.  
@@ -111,45 +120,46 @@ Toute la tension du jeu repose sur la confusion : qui est le bon, qui est le mau
 
 - **Travaillez avec les autres Sbires.**  
   Le [Cerenovus](./cerenovus.md) peut rendre le Jumeau Bon fou,  
-  et la [Sorcière](./sorciere.md) peut le maudire pour l’exécuter plus facilement.  
+  et la [Sorcière](./sorciere.md) peut le maudire pour le condamner.  
 
 - **Le Démon peut cesser de tuer.**  
-  Si les morts s’arrêtent, les bons croiront que le Démon est mort alors qu’il ne l’est pas.  
+  Si les morts s’arrêtent, les bons croiront que le Démon est mort,  
+  ce qui renforce votre bluff.
 
 ---
 
 ### 🔵 Pour le camp du Bien  
 
 - **Ne vous précipitez pas.**  
-  Attendez d’avoir plusieurs jours d’informations avant d’exécuter l’un des deux Jumeaux.  
+  Attendez plusieurs jours d’informations avant d’exécuter l’un des deux Jumeaux.  
 
 - **Comparez les récits.**  
   Le vrai Jumeau Bon sera cohérent, tandis que le Maléfique improvisera.  
 
 - **Observez les comportements.**  
-  Le Jumeau Maléfique parle souvent trop, répète ses arguments ou essaie de semer la panique.  
+  Le Jumeau Maléfique parle souvent trop ou répète ses arguments.  
 
 ---
 
 ### 🧩 Rôles utiles contre le Jumeau Maléfique  
 
-- [<span style="color:blue;">Crieur Public</span>](./crieur_public.md) – détecte si le Jumeau a fait une nomination.  
+- [<span style="color:blue;">Crieur Public</span>](./crieur_public.md) – détecte si un Jumeau a fait une nomination.  
 - [<span style="color:blue;">Jongleur</span>](./jongleur.md) – peut deviner qui est le Jumeau Maléfique.  
-- [<span style="color:blue;">Couturière</span>](./couturiere.md) – compare les alignements pour démasquer le menteur.  
-- [<span style="color:blue;">Horloger</span>](./horloger.md) – peut situer le Démon et remonter jusqu’au Jumeau.  
+- [<span style="color:blue;">Couturière</span>](./couturiere.md) – compare les alignements.  
+- [<span style="color:blue;">Horloger</span>](./horloger.md) – peut aider à identifier le Démon et donc le Jumeau.  
 
 ---
 
 ## 🎭 Bluff et Variantes  
 
 - **Niez tout.**  
-  Prétendez qu’il n’y a pas de Jumeau en jeu et accusez votre double de mentir.  
+  Prétendez qu’il n’y a pas de Jumeau et accusez votre double de mentir.  
 
 - **Double bluff.**  
-  Jouez le rôle du “Jumeau Bon” terrifié et sincère pour tromper le village.  
+  Jouez le rôle du “Jumeau Bon” sincère pour tromper le village.  
 
 - **Fausse paire maléfique.**  
-  Deux sbires peuvent se désigner mutuellement comme Jumeaux pour semer le chaos.  
+  Deux sbires peuvent se désigner mutuellement comme Jumeaux pour semer la confusion.  
 
 ---
 
@@ -161,15 +171,14 @@ Toute la tension du jeu repose sur la confusion : qui est le bon, qui est le mau
 - Si **les morts cessent soudainement**, le Démon a probablement été tué,  
   mais la partie continue : le Jumeau Maléfique est toujours vivant.  
 
-- Le camp du Bien doit exécuter **le Démon ET le Jumeau Maléfique** pour remporter la partie.  
+- Pour gagner, le Bien doit exécuter **le Démon ET le Jumeau Maléfique**.  
 
 ---
 
-## 🔗 Navigation  
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="../index.md" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌸 <a href="../sv.md" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
-  <li>🩸 <a href="../tb.md" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌕 <a href="../bmr.md" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
+  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
+  <li>🩸 <a href="../tb.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li> 🌛 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
 </ul>
