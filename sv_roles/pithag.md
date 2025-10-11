@@ -16,7 +16,7 @@ title: Pit-Hag
 
 <!-- 🩸 Image centrée cliquable -->
 <div style="text-align:center; margin: 20px 0;">
-  <a href="./pit_hag.html" style="text-decoration:none;">
+  <a href="./pithag.html" style="text-decoration:none;">
     <img src="../images/Icon_pithag.png" alt="Pit-Hag" width="350" style="border-radius:8px;">
     <br>
     <span style="color:red; font-weight:bold; font-size:22px;">Pit-Hag</span>
