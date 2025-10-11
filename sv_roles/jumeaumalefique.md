@@ -16,7 +16,7 @@ title: Jumeau Maléfique
 
 <!-- 🩸 Image centrée cliquable avec nom -->
 <div style="text-align:center; margin: 20px 0;">
-  <a href="./jumeau_malefique.html" style="text-decoration:none;">
+  <a href="./jumeaumalefique.html" style="text-decoration:none;">
     <img src="../images/Icon_eviltwin.png" alt="Jumeau Maléfique" width="350" style="border-radius:8px;">
     <br>
     <span style="color:red; font-weight:bold; font-size:22px;">Jumeau Maléfique</span>
