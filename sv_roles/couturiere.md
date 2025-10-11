@@ -159,4 +159,3 @@ Elle peut désigner **des joueurs vivants, morts ou même des Voyageurs**.
   <li>🌛 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
   <li>🧑‍🌾 <a href="../villageois.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
 </ul>
-
