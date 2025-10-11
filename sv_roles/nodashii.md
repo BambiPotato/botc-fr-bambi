@@ -105,8 +105,8 @@ Si le **porteur du rôle** change ([<span style="color:blue;">Barbier</span>](ba
 ## 🛡️ Contrer le No Dashii
 
 - Le poison du No Dashii **ignore** les **Sbires, Étrangers et Voyageurs** : il **n’a pas besoin d’être assis juste à côté** de vous pour vous empoisonner.  
-- Surveillez les **changements de rôles** avec un [<span style="color:blue;">**Barbier**</span>](barbier.md) , ou une [<span style="color:red;">**Pit-Hag**</span>](pithag.md)) : les **voisins Villageois empoisonnés** peuvent **changer en cours de partie**.  
-- Beaucoup d’infos **bancales** mais pas **toutes** ? Probablement un **No Dashii** (plutôt qu’un [<span style="color:red;">**Vortox**</span>](vortox.md)) qui fausse **tout**).  
+- Surveillez les **changements de rôles** avec un ( [<span style="color:blue;">**Barbier**</span>](barbier.md) , ou une [<span style="color:red;">**Pit-Hag**</span>](pithag.md)) : les **voisins Villageois empoisonnés** peuvent **changer en cours de partie**.  
+- Beaucoup d’infos **bancales** mais pas **toutes** ? Probablement un **No Dashii** plutôt qu’un [<span style="color:red;">**Vortox**</span>](vortox.md) qui fausse **tout**.  
 - **Examinez vos voisins** si vous êtes Villageois et que vos infos semblent corrompues : le démon est **proche**.
 
 ---
