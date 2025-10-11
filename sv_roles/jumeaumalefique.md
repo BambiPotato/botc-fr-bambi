@@ -150,8 +150,8 @@ Certains Villageois peuvent vous aider :
  Mais ce n’est pas du tout le cas lorsqu’on prétend être le Bon Jumeau.
  Puisque la partie se termine, et que le Mal gagne si le Bon Jumeau est exécuté, 
  celui-ci sera presque toujours très expressif et insistant pour ne pas l’être, quelles que soient les circonstances.
- Sa situation ressemble beaucoup à celle du  [<span style="color:blue;">Saint</span>](/tb_roles/saint.md)  dans Trouble Brewing.
- Ainsi, un Jumeau Maléfique trop tranquille face à l’exécution sera probablement exécuté, car un véritable Bon Jumeau aurait protesté bien plus fort.
+ Sa situation ressemble beaucoup à celle du [<span style="color:blue;">Saint</span>](../tb_roles/saint.md) dans Trouble Brewing.
+ Ainsi, un Jumeau Maléfique trop tranquille face à l’exécution sera probablement exécuté, car un véritable Jumeau Bon aurait protesté bien plus fort.
 
 ---
 
