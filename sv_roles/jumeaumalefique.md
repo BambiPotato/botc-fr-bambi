@@ -3,6 +3,145 @@ layout: default
 title: Jumeau Maléfique
 ---
 
+
+<!-- 🔴 Logo haut de page -->
+<p align="left">
+  <a href="../index.md">
+    <img src="../images/logo.png" alt="Accueil BotC FR" width="200">
+  </a>
+</p>
+
+---
+
+## 😈 Jumeau Maléfique
+
+<div style="text-align:center; margin: 20px 0;">
+  <img src="../images/Icon_eviltwin.png" alt="Jumeau Maléfique" width="300" style="border-radius:8px;">
+  <br>
+  <span style="color:red; font-weight:bold; font-size:22px;">Jumeau Maléfique</span>
+</div>
+
+---
+
+## ℹ️ Information  
+
+- **Type :** <span style="color:red;">Sbire</span>  
+- **Artiste :** Aidan Roberts  
+> *« Je ne suis pas Sara ! Je suis Clara ! C’est **elle** Sara ! C’est **elle** la mauvaise ! Pas moi ! »*
+
+---
+
+## 🎭 Apparaît dans  
+
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../sv.md" style="text-decoration:none;">
+    <img src="../images/Logo_sects_and_violets.png" alt="Sects & Violets" width="400" style="border-radius:12px;">
+    <br>
+    <span style="color:#d67bff; font-weight:bold; font-size:22px;">Sects & Violets</span>
+  </a>
+</div>
+
+> *Cult of the Clocktower – épisode par Andrew Nathenson*
+
+---
+
+## 📖 Résumé  
+
+> « Vous et un joueur du camp opposé vous connaissez.  
+> Si le joueur bon est exécuté, le Mal gagne.  
+> Le Bien ne peut pas gagner si vous êtes tous deux en vie. »
+
+Le **Jumeau Maléfique** crée un lien entre lui et un joueur bon appelé le **Jumeau Bon**.  
+Les deux savent qui est l’autre, mais pas leurs alignements.  
+Tant que les deux sont vivants, le camp du Bien **ne peut pas gagner**.  
+Si le **Jumeau Bon** est exécuté, le Mal l’emporte immédiatement.
+
+---
+
+## 🎬 Comment Conter  
+
+- Avant la première nuit, choisissez un joueur bon et marquez-le avec un jeton **Jumeau**.  
+- Réveillez les deux Jumeaux :  
+  - Ils se reconnaissent.  
+  - Montrez au Jumeau Bon le jeton *Jumeau Maléfique*.  
+  - Montrez au Jumeau Maléfique le jeton du rôle du Jumeau Bon.  
+- Si le Jumeau Bon est exécuté → 💀 le Mal gagne.  
+- Si le Jumeau Maléfique est exécuté → la partie continue.  
+- Tant qu’ils sont tous deux vivants, le Bien ne peut pas remporter la victoire.  
+
+> 💡 Si un [Faiseur de Fosse](./faiseur_de_fosse.md) crée un nouveau Jumeau Maléfique,  
+> choisissez un joueur mort ou le Démon comme second Jumeau pour éviter un blocage de partie.
+
+---
+
+## 🧾 Exemples  
+
+- Les deux Jumeaux prétendent être l’[Horloger](./horloger.md).  
+  Le Jumeau Maléfique est exécuté : la partie continue.  
+
+- Le [Faiseur de Fosse](./faiseur_de_fosse.md) transforme le [Savant](./savant.md) (Jumeau Bon) en [Mutant](./mutant.md).  
+  Les deux se disent Mutants. Le Conteur exécute le Jumeau Bon : le Mal gagne.  
+
+- Les deux Jumeaux se disent [Artistes](./artiste.md).  
+  Le village tue le Démon. La nuit suivante, il n’y a pas de morts : le Jumeau Maléfique vit encore.  
+
+- Le Faiseur de Fosse transforme un joueur bon en Jumeau Maléfique, mais il reste bon.  
+  Le village l’exécute par erreur : le Mal gagne.
+
+---
+
+## 💡 Astuces & Stratégies  
+
+### 🔴 Pour le Jumeau Maléfique  
+
+- **Retournez l’accusation.**  
+  Dites que l’autre est le Jumeau Maléfique. Répétez-le avec confiance.  
+
+- **Imitez son rôle.**  
+  Vous connaissez le rôle du Jumeau Bon, bluffez le même.  
+  Cela entretient le doute et divise le village.  
+
+- **Montrez de l’émotion.**  
+  Le vrai Jumeau Bon se bat pour vivre — imitez ce comportement.  
+
+- **Exploitez la peur.**  
+  “Si vous me tuez et que je suis le bon, vous faites gagner le Mal !”  
+  Cette phrase bloque souvent les votes.  
+
+- **Travaillez avec vos alliés.**  
+  Le [Cerenovus](./cerenovus.md) peut rendre le Jumeau Bon fou.  
+  La [Sorcière](./sorciere.md) peut le maudire.  
+
+- **Le Démon peut cesser de tuer.**  
+  Les bons croiront que le Démon est mort, mais la partie continue grâce à vous.
+
+---
+
+### 🔵 Pour le camp du Bien  
+
+- **Ne vous précipitez pas.**  
+  Attendez plusieurs jours d’informations avant de trancher.  
+
+- **Comparez les infos.**  
+  Le vrai Jumeau Bon sera plus cohérent dans ses récits.  
+
+- **Observez le comportement.**  
+  Le Jumeau Maléfique parle souvent trop ou répète ses phrases.  
+
+---
+
+### 🧩 Rôles utiles contre le Jumeau Maléfique  
+
+- [<span style="color:blue;">Crieur Public</span>](./crieur_public.md) : voit si un Jumeau a fait une nomination.  
+- [<span style="color:blue;">Jongleur</span>](./jongleur.md) : peut deviner qui est le Jumeau Maléfique.  
+- [<span style="color:blue;">Couturière</span>](./couturiere.md) : vérifie si deux joueurs partagent le même alignement.  
+- [<span style="color:blue;">Horloger</span>](./horloger.md) : aide à localiser le Démon, donc à
+
+
+
+
+
+
 <!-- 🔴 Logo en haut à gauche -->
 <p align="left">
   <a href="/botc-fr-bambi/">
