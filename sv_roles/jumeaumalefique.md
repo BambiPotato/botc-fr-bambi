@@ -49,13 +49,14 @@ title: Jumeau Maléfique
 
 ## 📖 Résumé  
 
-> « Vous et un joueur du camp opposé vous connaissez.  
-> Si le joueur bon est exécuté, le Mal gagne.  
+> « Vous et un joueur d’alignement opposé vous connaissez.  
+> Si le joueur bon est exécuté, les Maléfiques gagnent.  
 > Le Bien ne peut pas gagner si vous êtes tous deux en vie. »
 
 Le **Jumeau Maléfique** est un sbire qui crée un lien miroir avec un joueur bon appelé le **Jumeau Bon**.  
-Chacun connaît le rôle de l’autre mais pas son alignement.  
+Chacun connaît le rôle de l’autre.  
 Toute la tension du jeu repose sur la confusion : lequel des deux dit la vérité ?
+L'Équipe des **gentils** ne savent pas quel jumeau est bon et quel jumeau est maléfique.
 
 - Si le **Jumeau Bon** est exécuté → 💀 le Mal gagne immédiatement.  
 - Si le **Jumeau Maléfique** est exécuté → la partie continue.  
@@ -66,44 +67,45 @@ Toute la tension du jeu repose sur la confusion : lequel des deux dit la vérit�
 ## 🎬 Comment Conter  
 
 1. **Avant la première nuit :**  
-   - Choisissez un joueur bon et placez sur sa fiche le jeton *Jumeau*.  
+   - Choisissez un joueur bon et placez sur sa fiche le jeton de rappel *Jumeau*.  
 
 2. **Première nuit :**  
    - Réveillez les deux Jumeaux.  
    - Laissez-les se reconnaître.  
-   - Montrez au Jumeau Bon le jeton *Jumeau Maléfique*.  
-   - Montrez au Jumeau Maléfique le rôle du Jumeau Bon.  
+   - Montrez au Jumeau Bon le jeton de rappel *Jumeau Maléfique*.  
+   - Montrez au Jumeau Maléfique le jeton du rôle du Jumeau Bon.  
 
 3. **Pendant la partie :**  
-   - Si le Jumeau Bon est exécuté → le Mal gagne.  
+   - Si le Jumeau Bon est exécuté → les Maléfiques gagnent.  
    - Si le Jumeau Maléfique est exécuté → la partie continue.  
-   - Tant que les deux sont en vie, le Bien ne peut pas gagner.  
+   - Tant que les deux sont en vie, le camp du Bien ne peut pas gagner.  
 
-> 💡 Si un [Faiseur de Fosse](./faiseur_de_fosse.md) crée un nouveau Jumeau Maléfique,  
-> choisissez un joueur mort ou le Démon comme second jumeau pour ne pas bloquer la partie.  
+> 💡 Si lors de la dernière nuit, une [<span style="color:red;">Pit-Hag</span>](pithag.md) crée un nouveau Jumeau Maléfique,  
+> choisissez un joueur mort ou le Démon comme second jumeau pour ne pas bloquer la partie, 
+> afin que la bonne équipe puisse toujours gagner.
 > Évitez de choisir un Voyageur comme Jumeau.
 
 ---
 
 ## 🧾 Exemples  
 
-- Les deux Jumeaux prétendent être l’[Horloger](./horloger.md).  
+- Les deux Jumeaux prétendent être l’[Horloger](horloger.md).  
   Le Jumeau Maléfique est exécuté : la partie continue.  
 
-- Le [Faiseur de Fosse](./faiseur_de_fosse.md) transforme le [Savant](./savant.md) (le Jumeau Bon) en [Mutant](./mutant.md).  
-  Les deux prétendent être le Mutant. Le Conteur exécute le Jumeau Bon : **le Mal gagne.**  
+- La [<span style="color:red;">Pit-Hag</span>](pithag.md) transforme le [Savant](./savant.md) (le Jumeau Bon) en [Mutant](./mutant.md).  
+  Les deux prétendent être le Mutant. Le Conteur exécute le Jumeau Bon : **les Maléfiques gagnent.**  
 
 - Les deux Jumeaux se disent [Artistes](./artiste.md).  
   Le village exécute le Démon, mais la nuit suivante il n’y a pas de morts : le Jumeau Maléfique vit encore.  
 
-- Le Faiseur de Fosse transforme un joueur bon en Jumeau Maléfique, mais il reste bon.  
+- La [<span style="color:red;">Pit-Hag</span>](pithag.md) transforme un joueur bon en Jumeau Maléfique, mais il reste bon.  
   Le village l’exécute : **le Mal gagne.**
 
 ---
 
 ## 💡 Astuces & Stratégies  
 
-### 🔴 Pour le Jumeau Maléfique  
+### 🔴 👯 Pour le Jumeau Maléfique  
 
 - **Retournez la situation.**  
   Dites que l’autre est le Jumeau Maléfique et répétez-le sans relâche.  
@@ -115,12 +117,12 @@ Toute la tension du jeu repose sur la confusion : lequel des deux dit la vérit�
   Le Jumeau Bon se bat pour ne pas être exécuté ; imitez-le pour paraître sincère.  
 
 - **Manipulez le risque.**  
-  “Si vous me tuez et que je suis le bon, vous faites gagner le Mal !”  
+  “Si vous me tuez et que je suis le bon, vous faites gagner les Maléfiques !”  
   Cette phrase bloque souvent les votes.  
 
 - **Travaillez avec les autres Sbires.**  
-  Le [Cerenovus](./cerenovus.md) peut rendre le Jumeau Bon fou,  
-  et la [Sorcière](./sorciere.md) peut le maudire pour le condamner.  
+  Le [<span style="color:red;">Cerenovus</span>](cerenovus.md) peut rendre le Jumeau Bon fou d'être un autre rôle,  
+  et la [<span style="color:red;">Sorcière</span>](./sorciere.md) peut le maudire pour le condamner lors d'une nomination.  
 
 - **Le Démon peut cesser de tuer.**  
   Si les morts s’arrêtent, les bons croiront que le Démon est mort,  
@@ -141,12 +143,12 @@ Toute la tension du jeu repose sur la confusion : lequel des deux dit la vérit�
 
 ---
 
-### 🧩 Rôles utiles contre le Jumeau Maléfique  
+### 👍🏻 Rôles utiles contre le Jumeau Maléfique  
 
-- [<span style="color:blue;">Crieur Public</span>](./crieur_public.md) – détecte si un Jumeau a fait une nomination.  
-- [<span style="color:blue;">Jongleur</span>](./jongleur.md) – peut deviner qui est le Jumeau Maléfique.  
-- [<span style="color:blue;">Couturière</span>](./couturiere.md) – compare les alignements.  
-- [<span style="color:blue;">Horloger</span>](./horloger.md) – peut aider à identifier le Démon et donc le Jumeau.  
+- [<span style="color:blue;">Crieur Public</span>](crieur.md) – détecte si un Jumeau a fait une nomination.  
+- [<span style="color:blue;">Jongleur</span>](jongleur.md) – peut deviner qui est le Jumeau Maléfique.  
+- [<span style="color:blue;">Couturière</span>](couturiere.md) – compare les alignements.  
+- [<span style="color:blue;">Horloger</span>](horloger.md) – peut aider à identifier le Démon et donc le Jumeau.  
 
 ---
 
