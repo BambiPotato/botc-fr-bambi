@@ -15,6 +15,7 @@
   </a>
 </div>
 ---
+
 **Type :** [Étranger](../etrangers.md)  
 **Artiste :** Aidan Roberts  
 
