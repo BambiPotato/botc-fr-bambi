@@ -16,8 +16,6 @@
 </div>
 
 
-[<img src="../images/Icon_mayor.png" alt="Maire" width="400">](maire.md) [Maire](../tb_roles/maire.md)
-
 **Type :** [Villageois](../villageois.md)  
 **Artiste :** Aidan Roberts  
 
