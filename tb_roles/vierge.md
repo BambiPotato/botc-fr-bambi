@@ -5,7 +5,15 @@
 </p>
 
 # Vierge  
-[<img src="../images/Icon_virgin.png" alt="Vierge" width="400">](vierge.md) [Vierge](../tb_roles/vierge.md)
+
+<!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="./vierge.html" style="text-decoration:none;">
+    <img src="../images/Icon_virgin.png" alt="Vierge" width="350" style="border-radius:8px;">
+    <br>
+    <span style="color:blue; font-weight:bold; font-size:22px;">Vierge</span>
+  </a>
+</div>
 
 ---
 
@@ -16,12 +24,27 @@
 - *"Je suis pure. Que ceux qui sont sans péché se jettent en avant et souffrent à ma place. Ma réputation ne sera pas souillée par vos accusations venimeuses."*
 
 ---
-
 ## 🎭 Apparaît dans  
-[<img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400">](../trouble_brewing.md) [**Trouble Brewing**](../trouble_brewing.md)  
 
-*Cult of the Clocktower* – Épisode par Andrew Nathenson
+# 🍺 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
 
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+  « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
+</p>
+
+
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../trouble_brewing.html" style="text-decoration:none;">
+    <img src="../images/Logo_trouble_brewing.png" alt= "Trouble Brewing" width="400" style="border-radius:12px;">
+    <br>
+    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Trouble Brewing</span>
+  </a>
+</div>
+
+
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+"Cult of the Clocktower – épisode par Andrew Nathenson"
+</p>
 ---
 
 ## 📖 Résumé  
@@ -85,9 +108,10 @@ La Vierge peut, malgré elle, provoquer l’exécution de son accusateur, ce qui
 
 ---
 
-
-## 📂 Navigation 
-
-- 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
-- 🍺 [Retour à Trouble Brewing](../trouble_brewing.md)  
-- 📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) · [Villageois](../villageois.md) 
+<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li>🌛 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
+  <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
+  <li>🧑‍🌾 <a href="../villageois.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
+</ul>
