@@ -13,9 +13,4 @@
 
 ---
 
-## 📂 Navigation
-
-- 🏠 [Retour à l’accueil](../README.md)
-
-
-*(Rôle expérimental — traduction à venir)*  
+<li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
