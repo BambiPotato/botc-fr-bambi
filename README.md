@@ -110,12 +110,11 @@
   </a>
 
   <!-- 🎠 The Carousel Expérimental -->
-  <a href= ./experimentaux.html style="text-decoration:none;">
+  <a href="./experimentaux.html" style="text-decoration:none;">
     <img src="./images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px; opacity:0.7;">
     <br>
     <span style="color:#b58b52; font-weight:bold; font-size:20px;">🎠 The Carousel Expérimental</span>
   </a>
-  <br>
   
 
   <!-- 🚶 Voyageurs -->
