@@ -18,7 +18,7 @@ title: EXPERIMENTAL
     <span style="color:#b58b52; font-weight:bold; font-size:20px;">🎠 The Carousel "Expérimental"</span>
   </a>
   <br>
-  <em style="color:#b58b52;">(à venir)</em>
+  <em style="color:#b58b52;"> </em>
 
   
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
