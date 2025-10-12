@@ -18,12 +18,12 @@ title: EXPERIMENTAUX
   <a href="./experimentaux.html" style="text-decoration:none;">
     <img src="./images/carousel.png" alt="Trouble Brewing" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:22px;">🎠 The Carousel "Expérimental"</span>
+    <span style="color:#b58b52; font-weight:bold; font-size:22px;">🎠 The Carousel Expérimental</span>
   </a>
 </div>
 
 
-# 🎠 <span style="color:#b58b52; font-weight:bold; font-size:42px;">The Carousel "Expérimental"</span>
+# 🎠 <span style="color:#b58b52; font-weight:bold; font-size:42px;">The Carousel Expérimental</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « 🎠 **Les rôles expérimentaux du *Carousel*** ouvrent la porte à de nouvelles mécaniques audacieuses et inédites.
