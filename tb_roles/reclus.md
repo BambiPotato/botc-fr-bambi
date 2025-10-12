@@ -6,7 +6,14 @@
 
 # Reclus
 
-[<img src="../images/Icon_recluse-1.png" alt="Reclus" width="400">](reclus.md) [Reclus](../tb_roles/reclus.md)
+<!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="./reclus.html" style="text-decoration:none;">
+    <img src="../images/Icon_recluse-1.png" alt="Reclus" width="350" style="border-radius:8px;">
+    <br>
+    <span style="color:blue; font-weight:bold; font-size:22px;">Reclus</span>
+  </a>
+</div>
 
 **Type :** [Étranger](../etrangers.md)  
 **Artiste :** Aidan Roberts  
@@ -15,13 +22,28 @@
 
 
 ---
+## 🎭 Apparaît dans  
 
-## Apparait dans 🎭
-[<img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400">](../trouble_brewing.md) [**Trouble Brewing**](../trouble_brewing.md)  
+# 🍺 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
 
-*Cult of the Clocktower* – épisode par Andrew Nathenson 
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+  « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
+</p>
 
 ---
+
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../trouble_brewing.html" style="text-decoration:none;">
+    <img src="../images/Logo_trouble_brewing.png" alt= "Trouble Brewing" width="400" style="border-radius:12px;">
+    <br>
+    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Trouble Brewing</span>
+  </a>
+</div>
+
+
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+"Cult of the Clocktower – épisode par Andrew Nathenson"
+</p> 
 
 ## Résumé
 **Capacité :**  
@@ -68,8 +90,11 @@
 - Prétendre être un Étranger brouille aussi les pistes sur l’éventuel **[Ivrogne](./ivrogne.md)** ou la présence d’un **[<span style="color:red">Baron</span>](baron.md)**.  
 
 ---
+<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li>🌛 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
+  <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
+  <li>💈 <a href="../etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Étrangers</a></li>
+</ul>
 
-## 📂 Navigation
-- 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
-- 🍺 [Retour à Trouble Brewing](../trouble_brewing.md)  
-- 📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) · [Étrangers](../etrangers.md) 
