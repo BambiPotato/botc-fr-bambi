@@ -49,11 +49,12 @@
 "Cult of the Clocktower – épisode par Andrew Nathenson"
 </p>
 
----
+## Jinxes associés
+
 <details>
-  <summary>Jinx associé (cliquer pour ouvrir)</summary>
+  <summary style="color:#b58b52; font-weight:bold;">Jinx associé (cliquer pour ouvrir)</summary>
   <p>Si l’Enquêteur apprend que le  
-  <a href="../roles_experimentaux/vizir.md">Vizir</a>  
+  <a href="../roles_experimentaux/vizir.html" style="color:#b58b52; font-weight:bold;">Vizir</a>  
   est en jeu, <strong>le Conteur n’annonce pas son existence</strong> publiquement.</p>
 </details>
 
