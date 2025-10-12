@@ -6,7 +6,15 @@
 
 # ⚰️ Croque-Mort  
 
-[<img src="../images/Icon_undertaker.png" alt="Croque-Mort" width="400">](croquemort.md) [**Croque-Mort**](../tb_roles/croquemort.md)
+<!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="./croquemort.html" style="text-decoration:none;">
+    <img src="../images/Icon_undertaker.png" alt="Croque-Mort" width="350" style="border-radius:8px;">
+    <br>
+    <span style="color:red; font-weight:bold; font-size:22px;">Croque-Mort</span>
+  </a>
+</div>
+
 
 ---
 
@@ -15,14 +23,24 @@
 **Type :** Villageois  
 **Artiste :** Aidan Roberts  
 *"Hmmm… voyons voir ? La botte gauche est usée jusqu’au talon, avec des éclats de silex sous la semelle. C’est l’équipement d’un militaire."*  
-
----
-
 ## 🎭 Apparaît dans  
 
-[<img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400">](../trouble_brewing.md) [**Trouble Brewing**](../trouble_brewing.md)  
+# 🍺 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
 
-*Cult of the Clocktower* – Andrew Nathenson*  
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+  « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
+</p>
+
+
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../trouble_brewing.html" style="text-decoration:none;">
+    <img src="../images/Logo_trouble_brewing.png" alt= "Trouble Brewing" width="400" style="border-radius:12px;">
+    <br>
+    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Trouble Brewing</span>
+  </a>
+</div>
+    
+>  *Cult of the Clocktower* – épisode par Andrew Nathenson  
 
 ---
 
