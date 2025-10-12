@@ -8,7 +8,15 @@
 
 # 💃 Femme Écarlate  
 
-[<img src="../images/Icon_scarletwoman.png" alt="Femme Écarlate" width="400">](femmeecarlate.md) [**Femme Écarlate**](../tb_roles/femmeecarlate.md)
+<!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="./femmeecarlate.html" style="text-decoration:none;">
+    <img src="../images/Icon_scarletwoman.png" alt="Femme Écarlate" width="350" style="border-radius:8px;">
+    <br>
+    <span style="color:red; font-weight:bold; font-size:22px;">Femme Écarlate</span>
+  </a>
+</div>
+
 
 ---
 
@@ -18,15 +26,28 @@
 - **Artiste :** Marianna Carr  
 - *« Tu m’as révélé les secrets du Conseil de la Flamme Pourpre. Nous avons brûlé ensemble dans le feu, dans le désir et dans la communion bestiale, et je t’ai servi pour toujours. Mais ce soir, mon cher, c’est moi ta maîtresse. »*  
 
----
 
 ## 🎭 Apparaît dans  
 
-[<img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400">](../trouble_brewing.md) [**Trouble Brewing**](../trouble_brewing.md)  
+# 🍺 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
 
-*Cult of the Clocktower* – épisode par Andrew Nathenson  
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+  « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
+</p>
 
----
+
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../trouble_brewing.html" style="text-decoration:none;">
+    <img src="../images/Logo_trouble_brewing.png" alt= "Trouble Brewing" width="400" style="border-radius:12px;">
+    <br>
+    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Trouble Brewing</span>
+  </a>
+</div>
+
+
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+"Cult of the Clocktower – épisode par Andrew Nathenson"
+</p>
 
 ## 📖 Résumé  
 
@@ -94,12 +115,11 @@ Si le <span style="color:red">Démon</span> meurt alors qu’il reste 5+ joueurs
 
 - Contrairement à d’autres <span style="color:red">Sbires</span>, elle peut vouloir tuer son propre <span style="color:red">Démon</span> pour le remplacer.  
   → Surveillez les changements d’attitude dès qu’il ne reste plus que 5 joueurs.  
-
----
-
-## 📂 Navigation  
-
-- 🏠 [Retour à l’accueil](../README.md)  
-- 🍺 [Retour à Trouble Brewing](../trouble_brewing.md)  
-- 📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) · [<span style="color:red">Sbires</span>](../sbires.md)
+<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li>🌛 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
+  <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
+  <li>😈 <a href="../sbires.html" style="color:red; font-weight:bold; text-decoration:none;">Catégorie : Sbires</a></li>
+</ul>
 
