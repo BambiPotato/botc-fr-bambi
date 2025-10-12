@@ -43,10 +43,8 @@
     <span style="color:#b58b52; font-weight:bold; font-size:22px;">Trouble Brewing</span>
   </a>
 </div>
-
-
-
-    *Cult of the Clocktower* – épisode par Andrew Nathenson  
+    
+>  *Cult of the Clocktower* – épisode par Andrew Nathenson  
 
 
 ## Résumé
