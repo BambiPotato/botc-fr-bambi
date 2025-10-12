@@ -13,7 +13,7 @@ title: EXPERIMENTAUX
 
 
   
- <!-- 🎠 Rôles Expérimentaux -->
+ <!-- 🎠 The Carousel Expérimental -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./experimentaux.html" style="text-decoration:none;">
     <img src="./images/carousel.png" alt="Trouble Brewing" width="400" style="border-radius:12px;">
@@ -31,7 +31,7 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
 </p>
 
 ## 1. Synopsis
-## <span style="color:#b58b52; font-weight:bold; font-size:22px;">**Expérimentaux**</span>
+## <span style="color:#b58b52; font-weight:bold; font-size:22px;">**The Carousel Expérimental**</span>
 - Les rôles expérimentaux sont des rôles qui **n’ont pas encore de script officiel attitré**.
 - Ils pourraient, à l’avenir, être intégrés dans des extensions officielles de *Blood on the Clocktower*.
 - En attendant, vous êtes encouragés à **les tester et les expérimenter** dans vos propres scripts personnalisés.
@@ -55,7 +55,7 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
 9. [Téléchargements et Ressources](#7-téléchargements-et-ressources)  
 
 
-## [<span style="color:blue;">**Villageois**</span>](villageois.md)
+## 3.[<span style="color:blue;">**Villageois**</span>](villageois.md)
   
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li>🏠 <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
