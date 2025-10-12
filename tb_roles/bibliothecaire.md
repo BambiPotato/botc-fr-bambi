@@ -14,7 +14,7 @@
   <a href="./bibliothecaire.html" style="text-decoration:none;">
     <img src="../images/Icon_librarian.png" alt="Bibliothécaire" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:red; font-weight:bold; font-size:22px;">Bibliothecaire</span>
+    <span style="color:blue; font-weight:bold; font-size:22px;">Bibliothecaire</span>
   </a>
 </div>
 
