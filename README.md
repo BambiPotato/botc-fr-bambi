@@ -84,17 +84,6 @@
 
 ---
 
-##  <span style="color:#b58b52; font-weight:bold; font-size:20px;">🎭Catégories</span>  
-
-- [<span style="color:blue">**Villageois**</span>](villageois.md) 
-- [<span style="color:blue">**Étrangers**</span>](etrangers.md) 
-- [<span style="color:red">**Sbires**</span>](sbires.md) 
-- [<span style="color:red">**Démons**</span>](demons.md) 
-- [<span style="color:purple">**Voyageurs**</span>](voyageurs/voyageurs.md)
-- [<span style="color:gold">**Légendaires**</span>](#) *(à venir)* 
-
----
-
 ## <span style="color:#b58b52; font-weight:bold; font-size:22px;">👺 Rôles par Édition</span>
 
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:40px; margin-top:30px;">
@@ -146,6 +135,18 @@
   <em style="color:#b58b52;">(à venir)</em>
 
 </div>
+
+---
+
+##  <span style="color:#b58b52; font-weight:bold; font-size:20px;">🎭Catégories</span>  
+
+- [<span style="color:blue">**Villageois**</span>](villageois.md) 
+- [<span style="color:blue">**Étrangers**</span>](etrangers.md) 
+- [<span style="color:red">**Sbires**</span>](sbires.md) 
+- [<span style="color:red">**Démons**</span>](demons.md) 
+- [<span style="color:purple">**Voyageurs**</span>](voyageurs/voyageurs.md)
+- [<span style="color:#b58b52">**Légendaires**</span>](#) *(à venir)* 
+
 
 ---
 
