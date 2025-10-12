@@ -94,24 +94,6 @@
 - [<span style="color:gold">**Légendaires**</span>](#) *(à venir)* 
 
 ---
-## <span style="color:#b58b52; font-weight:bold; font-size:20px;">👺Rôles par Édition</span> 
-
-[<img src="images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="300">](trouble_brewing.md) [**Trouble Brewing**](trouble_brewing.md) 
-
-[<img src="images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="300">](bmr.md) [**Bad Moon Rising**](bmr.md)  
-
-[<img src="images/Logo_sects_and_violets.png" alt="Sects & Violets" width="300">](sv.md) [**Sects & Violets**](sv.md) 
-
-[<img src="images/Generic_traveller.png" alt="Voyageurs" width="300">](voyageurs/voyageurs.md) [**Voyageurs**](voyageurs/voyageurs.md)  
-
-[<img src="images/Generic_fabled.png" alt="Légendaires" width="300">](#) [**Légendaires**](#) *(à venir)*  
-
-[<img src="images/Icon_boffin.png" alt="Rôles Expérimentaux" width="300">](#) [**Rôles Expérimentaux**](#) *(à venir)*  
-
----
-
-[<img src="images/Icon_mezepheles.png" alt="Scripts personnalisés" width="300">](#) [**Scripts personnalisés**](#) *(à venir)*  
----
 
 
 ## <span style="color:#b58b52; font-weight:bold; font-size:22px;">👺 Rôles par Édition</span>
