@@ -111,7 +111,7 @@
 
   <!-- 🧪 Rôles Expérimentaux -->
   <a href="#" style="text-decoration:none;">
-    <img src="./images/Icon_boffin.png" alt="Rôles Expérimentaux" width="260" style="border-radius:12px; opacity:0.7;">
+    <img src="./images/carousel.png" alt="Rôles Expérimentaux" width="260" style="border-radius:12px; opacity:0.7;">
     <br>
     <span style="color:#b58b52; font-weight:bold; font-size:20px;">🧪 Rôles Expérimentaux</span>
   </a>
