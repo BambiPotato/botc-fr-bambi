@@ -23,7 +23,6 @@
 
 *"Un vent mauvais et mortel souffle ce soir. Viens, mon frère, t'abriter à l'abbaye pendant que la tempête fait rage. Par ma parole, ou par ma vie, tu seras en sécurité."*
 
----
 ## 🎭 Apparaît dans  
 
 # 🍺 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
@@ -44,10 +43,10 @@
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
 "Cult of the Clocktower – épisode par Andrew Nathenson"
 </p>
----
+
 
 ## Jinxes associés  
-
+---
 <details>
   <summary>Jinxes associés (cliquer pour ouvrir)</summary>
   <p>
