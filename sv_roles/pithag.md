@@ -12,7 +12,7 @@ title: Pit-Hag
 
 ---
 
-## 🔮 Pit-Hag  
+## 🥘 Pit-Hag  
 
 <!-- 🩸 Image centrée cliquable -->
 <div style="text-align:center; margin: 20px 0;">
