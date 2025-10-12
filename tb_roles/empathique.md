@@ -20,7 +20,7 @@
 
 ## ℹ️ Informations  
 
-**Type :** Villageois  
+**Type :** [<span style="color:blue;">**Villageois**</span>](../villageois.md)  
 **Artiste :** Aidan Roberts  
 *"Ma peau picote. Quelque chose cloche ici. Je le sens."*
 
@@ -97,11 +97,11 @@ L’**Empathique** apprend chaque nuit combien de ses voisins encore vivants son
 - Si vos voisins meurent, vous pouvez adapter vos chiffres pour accuser d’autres joueurs.  
 - L’Empathique étant très puissant, sa survie en fin de partie peut sembler suspecte. Prétendre être l’[Ivrogne](ivrogne.md) ou être empoisonné est un bon prétexte.  
 
----
-
-## 📂 Navigation 
-
-- 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
-- 🍺 [Retour à Trouble Brewing](../trouble_brewing.md)  
-- 📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) · [Villageois](../villageois.md) 
+<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li>🌛 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
+  <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
+  <li>🧑‍🌾 <a href="../villageois.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
+</ul>
 
