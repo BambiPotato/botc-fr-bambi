@@ -43,9 +43,11 @@
     <span style="color:#b58b52; font-weight:bold; font-size:22px;">Trouble Brewing</span>
   </a>
 </div>
-    
->  *Cult of the Clocktower* – épisode par Andrew Nathenson  
 
+
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+"Cult of the Clocktower – épisode par Andrew Nathenson"
+</p>
 
 ## Résumé
 **« Il y a des Étrangers supplémentaires en jeu. [+2 Étrangers] »**
