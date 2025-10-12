@@ -14,7 +14,7 @@
     <span style="color:blue; font-weight:bold; font-size:22px;">Reclus</span>
   </a>
 </div>
----
+
 
 **Type :** [Étranger](../etrangers.md)  
 **Artiste :** Aidan Roberts  
