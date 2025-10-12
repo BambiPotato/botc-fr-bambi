@@ -46,7 +46,6 @@
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
 "Cult of the Clocktower – épisode par Andrew Nathenson"
 </p>
----
 
 ## 📖 Résumé  
 
