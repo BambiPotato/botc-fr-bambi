@@ -98,13 +98,15 @@ Ces jetons (avec ces remplacements) vont dans le sac pour être tirés par les j
   - Si vous doutez, **exécutez rapidement** les prétendus Étrangers (ça peut être des bluffs).  
   - Si le compte n’est “pas tout à fait juste”, cherchez l’[**Ivrogne**](../tb_roles/ivrogne.md).  
 - Des rôles comme le [**Bibliothécaire**](../tb_roles/bibliothecaire.md), l’[**Enquêteur**](../tb_roles/enqueteur.md), le [**Croque-Mort**](../tb_roles/croquemort.md) ou le [**Gardien**](../tb_roles/gardien.md) aident à **déduire** la présence d’un Baron.  
-- Contrairement à d’autres Sbires, l’effet du Baron est **visible dès le setup**. Il n’est pas toujours nécessaire de l’exécuter si vous avez une meilleure cible (ex. [<span style="color:red">Imp</span>](../tb_roles/imp.md)   ou [<span style="color:red">Empoisonneur</span>](../tb_roles/empoisonneur.md)  .  
+- Contrairement à d’autres Sbires, l’effet du Baron est **visible dès le setup**. Il n’est pas toujours nécessaire de l’exécuter si vous avez une meilleure cible, exemple. [<span style="color:red">Imp</span>](../tb_roles/imp.md)   ou [<span style="color:red">Empoisonneur</span>](../tb_roles/empoisonneur.md)  .  
 - Attention : l’[<span style="color:red">**Imp**</span>](../tb_roles/imp.md)   peut **transmettre** sa démonialité au Baron ; l’ignorer trop longtemps peut le transformer en Démon en fin de partie.
 
 ---
+<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
+  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li>🌛 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
+  <li>😈 <a href="../sbires.html" style="color:red; font-weight:bold; text-decoration:none;">Catégorie : Sbires</a></li>
+</ul>
 
-
-## 📂 Navigation
-- 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
-- 🍺 [Retour à Trouble Brewing](../trouble_brewing.md)  
-- 📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) · [<span style="color:red">**Sbires**</span>](../sbires.md)  
