@@ -50,12 +50,13 @@
 </p>
 
 ---
-<details>
-  <summary style="color:#b58b52; font-weight:bold;">🔮 Jinx associé (cliquer pour ouvrir)</summary>
-  <p>Si l’Enquêteur apprend que le  
-  <a href="../roles_experimentaux/vizir.html" style="color:#b58b52; font-weight:bold;">Vizir</a>  
-  est en jeu, <strong>le Conteur n’annonce pas son existence</strong> publiquement.</p>
-</details>
+<blockquote style="background:#2e2e2e; border-left:4px solid #b58b52; padding:10px; border-radius:8px;">
+  🔮 **Jinx associé :**
+  <br>Si l’Enquêteur apprend que le
+  <a href="../roles_experimentaux/vizir.html" style="color:#b58b52; font-weight:bold;">Vizir</a>
+  est en jeu, <strong>le Conteur n’annonce pas son existence</strong> publiquement.
+</blockquote>
+
 
 ---
 
