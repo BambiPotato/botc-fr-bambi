@@ -109,14 +109,14 @@
     <span style="color:#b58b52; font-weight:bold; font-size:20px;">🌸 Sects & Violets</span>
   </a>
 
-  <!-- 🧪 Rôles Expérimentaux -->
+  <!-- 🎠 The Carousel "Expérimental" -->
   <a href="#" style="text-decoration:none;">
     <img src="./images/carousel.png" alt="Rôles Expérimentaux" width="260" style="border-radius:12px; opacity:0.7;">
     <br>
     <span style="color:#b58b52; font-weight:bold; font-size:20px;">🎠 The Carousel "Expérimental"</span>
   </a>
   <br>
-  <em style="color:#b58b52;">(à venir)</em>
+  <em style="color:#b58b52;">(à venir)</em>  
 
   <!-- 🚶 Voyageurs -->
   <a href="./voyageurs/voyageurs.html" style="text-decoration:none;">
