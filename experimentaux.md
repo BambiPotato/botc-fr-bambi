@@ -53,7 +53,7 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
 7. [Téléchargements et Ressources](#7-téléchargements-et-ressources)  
 
 
-##
+## [<span style="color:blue;">**Villageois**</span>](villageois.md)
   
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li>🏠 <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
