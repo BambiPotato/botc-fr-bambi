@@ -116,7 +116,7 @@
     <span style="color:#b58b52; font-weight:bold; font-size:20px;">🎠 The Carousel "Expérimental"</span>
   </a>
   <br>
-  <em style="color:#b58b52;">(à venir)</em>  
+  
 
   <!-- 🚶 Voyageurs -->
   <a href="./voyageurs/voyageurs.html" style="text-decoration:none;">
