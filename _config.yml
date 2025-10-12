@@ -14,14 +14,16 @@ kramdown:
   input: GFM
   hard_wrap: false
   parse_block_html: true
+  parse_span_html: true   # ← 🪄 Ajoute cette ligne
 
 # fichiers supplémentaires à inclure dans la compilation
 include:
   - assets/css/style.css
   - assets/js/theme.js
   - _includes/head-custom.html
- 
+
 # Autoriser les sous-dossiers à être traités comme des pages
 collections:
   tb_roles:
     output: true
+
