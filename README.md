@@ -95,7 +95,76 @@
 
 ---
 
+## <span style="color:#b58b52; font-weight:bold; font-size:22px;">👺 Rôles par Édition</span>
 
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:40px; margin-top:30px;">
+
+  <!-- 🍺 Trouble Brewing -->
+  <a href="./trouble_brewing.html" style="text-decoration:none;">
+    <img src="./images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="260" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.3);">
+    <br>
+    <span style="color:#b58b52; font-weight:bold; font-size:20px;">🍺 Trouble Brewing</span>
+  </a>
+
+  <!-- 🌛 Bad Moon Rising -->
+  <a href="./bmr.html" style="text-decoration:none;">
+    <img src="./images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="260" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.3);">
+    <br>
+    <span style="color:#b58b52; font-weight:bold; font-size:20px;">🌛 Bad Moon Rising</span>
+  </a>
+
+  <!-- 🌸 Sects & Violets -->
+  <a href="./sv.html" style="text-decoration:none;">
+    <img src="./images/Logo_sects_and_violets.png" alt="Sects & Violets" width="260" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.3);">
+    <br>
+    <span style="color:#b58b52; font-weight:bold; font-size:20px;">🌸 Sects & Violets</span>
+  </a>
+
+  <!-- 🚶 Voyageurs -->
+  <a href="./voyageurs/voyageurs.html" style="text-decoration:none;">
+    <img src="./images/Generic_traveller.png" alt="Voyageurs" width="260" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.3);">
+    <br>
+    <span style="color:#b58b52; font-weight:bold; font-size:20px;">🚶 Voyageurs</span>
+  </a>
+
+  <!-- 🏰 Légendaires -->
+  <a href="#" style="text-decoration:none;">
+    <img src="./images/Generic_fabled.png" alt="Légendaires" width="260" style="border-radius:12px; opacity:0.7;">
+    <br>
+    <span style="color:#b58b52; font-weight:bold; font-size:20px;">🏰 Légendaires</span>
+  </a>
+  <br>
+  <em style="color:#b58b52;">(à venir)</em>
+
+  <!-- 🧪 Rôles Expérimentaux -->
+  <a href="#" style="text-decoration:none;">
+    <img src="./images/Icon_boffin.png" alt="Rôles Expérimentaux" width="260" style="border-radius:12px; opacity:0.7;">
+    <br>
+    <span style="color:#b58b52; font-weight:bold; font-size:20px;">🧪 Rôles Expérimentaux</span>
+  </a>
+  <br>
+  <em style="color:#b58b52;">(à venir)</em>
+
+</div>
+
+---
+
+## <span style="color:#b58b52; font-weight:bold; font-size:22px;">🪄 Scripts Personnalisés</span>
+
+<div align="center" style="margin-top:20px;">
+
+  <a href="#" style="text-decoration:none;">
+    <img src="./images/Icon_mezepheles.png" alt="Scripts personnalisés" width="260" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.3); opacity:0.9;">
+    <br>
+    <span style="color:#b58b52; font-weight:bold; font-size:20px;">📜 Scripts personnalisés</span>
+  </a>
+  <br>
+  <em style="color:#b58b52;">(à venir)</em>
+
+</div>
+
+
+---
 ## <span style="color:#b58b52; font-weight:bold; font-size:22px;">👺 Rôles par Édition</span>
 
 <div align="center" style="margin-top:20px;">
