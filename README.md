@@ -112,10 +112,6 @@
 
 [<img src="images/Icon_mezepheles.png" alt="Scripts personnalisés" width="300">](#) [**Scripts personnalisés**](#) *(à venir)*  
 
----
-layout: default
-title: Accueil BotC FR
----
 
 <!-- 🏰 Logo principal -->
 <p align="center">
