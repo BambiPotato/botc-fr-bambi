@@ -11,7 +11,7 @@
   <a href="./croquemort.html" style="text-decoration:none;">
     <img src="../images/Icon_undertaker.png" alt="Croque-Mort" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:red; font-weight:bold; font-size:22px;">Croque-Mort</span>
+    <span style="color:blue; font-weight:bold; font-size:22px;">Croque-Mort</span>
   </a>
 </div>
 
