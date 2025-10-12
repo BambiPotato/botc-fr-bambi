@@ -12,7 +12,14 @@ title: "Lavandière"
 
 # 🧺 Lavandière  
 
-[<img src="../images/Icon_washerwoman.png" alt="Lavandière" width="400">](../tb_roles/lavandiere.md) [**Lavandière**](../tb_roles/lavandiere.md)
+<!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="./lavandiere.html" style="text-decoration:none;">
+    <img src="../imagesIcon_washerwoman.png" alt="Lavandière*" width="350" style="border-radius:8px;">
+    <br>
+    <span style="color:blue; font-weight:bold; font-size:22px;">Lavandière</span>
+  </a>
+</div>
 
 
 ---
@@ -23,12 +30,26 @@ title: "Lavandière"
 - **Artiste** : Aidan Roberts  
 - « Des taches de sang sur une veste de dîner ? Non, c’est du vin de cuisine. Quelle étourderie. »  
 
-## Apparait dans 🎭 
+## 🎭 Apparaît dans  
+
+# 🍺 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
+
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+  « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
+</p>
+
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../trouble_brewing.html" style="text-decoration:none;">
+    <img src="../images/Logo_trouble_brewing.png" alt= "Trouble Brewing" width="400" style="border-radius:12px;">
+    <br>
+    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Trouble Brewing</span>
+  </a>
+</div>
 
 
-[<img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400">](../trouble_brewing.md) [**Trouble Brewing**](../trouble_brewing.md)
-
-- *Cult of the Clocktower Episode* par Andrew Nathenson  
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+"Cult of the Clocktower – épisode par Andrew Nathenson"
+</p>
 
 ---
 
@@ -87,11 +108,10 @@ La Lavandière apprend qu’un certain [Villageois](../glossaire.md#villageois) 
 - En tant qu’[<span style="color:red">Espion</span>](espion.md) (ou allié d’un [<span style="color:red">Espion</span>](espion.md)), vous avez un gros avantage : vous savez quels rôles sont vraiment en jeu.  
 - C’est un bluff risqué, car si le rôle que vous citez n’est pas en jeu, votre couverture tombe vite.  
 
----
- 
-
-## 📂 Navigation 
-
-- 🏠 [Retour à l’accueil](/botc-fr-bambi/)  
-- 🍺 [Retour à Trouble Brewing](../trouble_brewing.md)  
-- 📂 **Catégories :** [Trouble Brewing](../trouble_brewing.md) ·[Villageois](../villageois.md) 
+<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li>🌛 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
+  <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
+  <li>🧑‍🌾 <a href="../villageois.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
+</ul>
