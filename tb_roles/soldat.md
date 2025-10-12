@@ -15,8 +15,7 @@
   </a>
 </div>
 
-
-##
+#
 **Type :** [Villageois](../villageois.md)  
 **Artiste :** Aidan Roberts  
 
