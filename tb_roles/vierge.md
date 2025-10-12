@@ -45,7 +45,6 @@
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
 "Cult of the Clocktower – épisode par Andrew Nathenson"
 </p>
----
 
 ## 📖 Résumé  
 *"La première fois que vous êtes nominé, si le joueur qui vous nomme est un Villageois, il est immédiatement exécuté."*
