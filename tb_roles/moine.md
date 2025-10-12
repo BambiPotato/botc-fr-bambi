@@ -44,10 +44,8 @@
 "Cult of the Clocktower – épisode par Andrew Nathenson"
 </p>
 
-
-## Jinxes associés  
 ---
-<details>
+## Jinxes associés  
   <summary>Jinxes associés (cliquer pour ouvrir)</summary>
   <p>
     <img src="/botc-fr-bambi/images/Icon_leviathan-1.png" width="20" alt="Léviathan">
@@ -55,13 +53,14 @@
     Si le <strong>Léviathan</strong> est en jeu, le joueur protégé par le <strong>Moine</strong>
     est à l’abri de toutes les capacités maléfiques.
   </p>
+  
   <p>
     <img src="/botc-fr-bambi/images/Icon_riot.png" width="20" alt="Riot">
     <a href="/botc-fr-bambi/roles_experimentaux/riot.html"><strong>Riot</strong></a> :
     Si le <strong>Riot</strong> est en jeu, le joueur protégé par le <strong>Moine</strong>
     est à l’abri de toutes les capacités maléfiques.
   </p>
-</details>
+
 
 ---
 
