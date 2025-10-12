@@ -30,13 +30,15 @@ title: EXPERIMENTAUX
 Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent les limites de *Blood on the Clocktower* et invitent à explorer des expériences de jeu aussi surprenantes que captivantes.»
 </p>
 
-
+## 1. Synopsis
 ## <span style="color:#b58b52; font-weight:bold; font-size:22px;">**Expérimentaux**</span>
 - Les rôles expérimentaux sont des rôles qui **n’ont pas encore de script officiel attitré**.
 - Ils pourraient, à l’avenir, être intégrés dans des extensions officielles de *Blood on the Clocktower*.
 - En attendant, vous êtes encouragés à **les tester et les expérimenter** dans vos propres scripts personnalisés.
 
-👉 <span style="color:#b58b52; font-weight:bold; font-size:22px;">Recommandé aux joueuses, joueurs et Conteurs ayant déjà une bonne expérience de *Blood on the Clocktower*.</span>
+## 2. Gameplay
+👉 <span style="color:#b58b52; font-weight:bold; font-size:22px;"> **Niveau : Expérimenté** </span>
+🎠 <span style="color:#b58b52; font-weight:bold; font-size:22px;">**Les rôles expérimentaux du *Carousel*** sont recommandés aux joueuses, joueurs et Conteurs ayant déjà une bonne expérience du jeu *Blood on the Clocktower*.</span>
 
 ---
 
