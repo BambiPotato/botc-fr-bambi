@@ -43,7 +43,7 @@
   </a>
 </div>
     
->  <span style="color:#b58b52; *Cult of the Clocktower – épisode par Andrew Nathenson*</span> 
+  <span style="color:#b58b52; *Cult of the Clocktower – épisode par Andrew Nathenson*</span> 
 ---
 
 ## 📖 Résumé  
