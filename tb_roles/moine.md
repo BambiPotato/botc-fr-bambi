@@ -15,8 +15,7 @@
     <span style="color:blue; font-weight:bold; font-size:22px;">Moine</span>
   </a>
 </div>
- ---
- 
+ 
 ## ℹ️ Informations  
 
 - **Type** : [Villageois](../villageois.md)
