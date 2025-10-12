@@ -12,10 +12,11 @@ title: "Lavandière"
 
 # 🧺 Lavandière  
 
+
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./lavandiere.html" style="text-decoration:none;">
-    <img src="../imagesIcon_washerwoman.png" alt="Lavandière*" width="350" style="border-radius:8px;">
+    <img src="../images/Icon_washerwoman.png" alt="Lavandière*" width="350" style="border-radius:8px;">
     <br>
     <span style="color:blue; font-weight:bold; font-size:22px;">Lavandière</span>
   </a>
