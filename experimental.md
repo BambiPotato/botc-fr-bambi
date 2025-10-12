@@ -11,7 +11,14 @@ title: EXPERIMENTAL
 
 <div class="page-experimental" markdown="1">
 
-
+ <!-- 🧪 Rôles Expérimentaux -->
+  <a href="#" style="text-decoration:none;">
+    <img src="./images/carousel.png" alt="Rôles Expérimentaux" width="260" style="border-radius:12px; opacity:0.7;">
+    <br>
+    <span style="color:#b58b52; font-weight:bold; font-size:20px;">🎠 The Carousel "Expérimental"</span>
+  </a>
+  <br>
+  <em style="color:#b58b52;">(à venir)</em>
 
   
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
