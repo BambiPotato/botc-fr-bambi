@@ -49,8 +49,10 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
 3. [Villageois](#3-villageois)  
 4. [Étrangers](#4-étrangers)  
 5. [Sbires](#5-sbires)  
-6. [Démons](#6-démons)  
-7. [Téléchargements et Ressources](#7-téléchargements-et-ressources)  
+6. [Démons](#6-démons) 
+7. [Légendaires](#7-legendaires)
+8. [Voyageurs](#8-voyageurs)
+9. [Téléchargements et Ressources](#7-téléchargements-et-ressources)  
 
 
 ## [<span style="color:blue;">**Villageois**</span>](villageois.md)
