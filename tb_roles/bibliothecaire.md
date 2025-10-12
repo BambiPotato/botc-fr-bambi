@@ -9,8 +9,15 @@
 # 📚 Bibliothécaire  
 
 
+<!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="./bibliothecaire.html" style="text-decoration:none;">
+    <img src="../images/Icon_librarian.png" alt="Bibliothécaire" width="350" style="border-radius:8px;">
+    <br>
+    <span style="color:red; font-weight:bold; font-size:22px;">Bibliothecaire</span>
+  </a>
+</div>
 
-[<img src="../images/Icon_librarian.png" alt="Bibliothécaire" width="400">](bibliothecaire.md) [**Bibliothécaire**](../tb_roles/bibliothecaire.md)
 
 
 ---
@@ -21,13 +28,26 @@
 - **Artiste :** Aidan Roberts  
 - *« Bien sûr madame, dans des circonstances normales, vous pourriez emprunter le *Codex Malificarium* dans les archives de la bibliothèque. Mais… il semble que vous ne soyez pas membre. »*  
 
----
 
-## 🎭 Apparaît dans 
+## 🎭 Apparaît dans  
 
-[<img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400">](../trouble_brewing.md) [**Trouble Brewing**](../trouble_brewing.md)
+# 🍺 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
 
-*Cult of the Clocktower* – épisode par Andrew Nathenson  
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+  « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
+</p>
+
+
+
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../trouble_brewing.html" style="text-decoration:none;">
+    <img src="../images/Logo_trouble_brewing.png" alt= "Trouble Brewing" width="400" style="border-radius:12px;">
+    <br>
+    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Trouble Brewing</span>
+  </a>
+</div>
+    
+>  *Cult of the Clocktower* – épisode par Andrew Nathenson  
 
 ---
 
