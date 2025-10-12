@@ -30,6 +30,26 @@ document.addEventListener("DOMContentLoaded", function () {
     const newHref = originalHref.replace(/\.md$/, '');
     link.setAttribute("href", newHref);
   });
+
+// --- JINX PLIABLE ---
+// Crée un effet repliable (comme <details>/<summary>) compatible avec le thème Slate
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll(".jinx-toggle").forEach(function (block) {
+    const summary = block.querySelector(".jinx-summary");
+    const content = block.querySelector(".jinx-content");
+
+    if (!summary || !content) return;
+
+    // Ajoute un curseur et un petit effet visuel
+    summary.style.cursor = "pointer";
+    summary.addEventListener("click", function () {
+      const isHidden = content.style.display === "none";
+      content.style.display = isHidden ? "block" : "none";
+      summary.querySelector(".arrow").textContent = isHidden ? "🔽" : "▶️";
+    });
+
+    // État initial : contenu masqué
+    content.style.display = "none";
+  });
 });
 
-});
