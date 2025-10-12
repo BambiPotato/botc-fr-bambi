@@ -49,6 +49,7 @@
 "Cult of the Clocktower – épisode par Andrew Nathenson"
 </p>
 
+---
 <details>
   <summary>Jinx associé (cliquer pour ouvrir)</summary>
   <p>Si l’Enquêteur apprend que le  
