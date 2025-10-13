@@ -1,3 +1,10 @@
+---
+layout: default
+title: Enquêteur
+---
+
+
+
 <p align="left">
   <a href="/botc-fr-bambi/">
     <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
