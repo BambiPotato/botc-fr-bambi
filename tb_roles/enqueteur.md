@@ -57,7 +57,6 @@ title: Enquêteur
 </p>
 
 
-##Jinxe Associé
 
 <div class="jinx-toggle" style="margin:10px 0; padding:10px; border:1px solid #aaa; border-radius:8px; background:#f7f7f7;">
   <div class="jinx-summary" style="font-weight:bold; color:#b58b52; cursor:pointer;">
