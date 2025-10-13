@@ -1,3 +1,10 @@
+---
+layout: default
+title: Empoisonneur   
+---
+
+
+
 <p align="left">
   <a href="/botc-fr-bambi/">
     <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
@@ -6,7 +13,7 @@
 
 ---
 
-# ☠️ Empoisonneur  
+# 💉 Empoisonneur  
 
  <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
