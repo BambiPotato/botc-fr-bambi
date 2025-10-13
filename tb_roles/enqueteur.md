@@ -62,6 +62,18 @@ L’**Enquêteur** apprend qu’un rôle de Sbire particulier est en jeu, mais p
 Lors de la première nuit, il apprend que l’un de deux joueurs est un **Sbire spécifique**.  
 Il ne reçoit cette information qu’une seule fois, au début de la partie.  
 
+<details style="background:#222; border:1px solid #555; border-radius:8px; padding:10px; margin:15px 0;">
+  <summary style="cursor:pointer; font-weight:bold; color:#d4a76a;">🧩 Jinx associé (cliquer pour ouvrir)</summary>
+  <p style="margin-top:10px;">
+    Si l’Enquêteur apprend que le 
+    <a href="../roles_experimentaux/vizir.html" style="color:#d67bff;">Vizir</a> 
+    est en jeu, <strong>le Conteur n’annonce pas son existence</strong> publiquement.
+  </p>
+</details>
+
+
+
+
 
 <blockquote style="background:#2e2e2e; border-left:4px solid #b58b52; padding:10px; border-radius:8px;">
    **Jinx associé :**
