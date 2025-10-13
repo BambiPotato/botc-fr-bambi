@@ -58,30 +58,20 @@ title: Enquêteur
 
 
 
-<div class="jinx-toggle" style="margin:10px 0; padding:10px; border:1px solid #aaa; border-radius:8px; background:#f7f7f7;">
-  <div class="jinx-summary" style="font-weight:bold; color:#b58b52; cursor:pointer;">
-    <span class="arrow">▶️</span> Jinx associé (cliquer pour ouvrir)
-  </div>
-
-  <div class="jinx-content" style="margin-top:8px;">
-    <p>
-      Si l’Enquêteur apprend que le
-      <a href="{{ '/roles_experimentaux/vizir.html' | relative_url }}" style="color:red; font-weight:bold;">Vizir</a>
-      est en jeu, <strong>le Conteur n’annonce pas son existence</strong> publiquement.
-    </p>
-  </div>
-</div>
-
-
 ## 📖 Résumé  
 
-« Vous commencez en apprenant 2 joueurs et le rôle de [<span style="color:red">Sbire</span>](../sbires.md) de l’un des deux. »  
-
+« Vous commencez en apprenant 2 joueurs et le rôle de [<span style="color:red">Sbire</span>](../sbires.md) de l’un des deux.»  
 L’**Enquêteur** apprend qu’un rôle de Sbire particulier est en jeu, mais pas lequel des deux joueurs le possède.  
-
 Lors de la première nuit, il apprend que l’un de deux joueurs est un **Sbire spécifique**.  
 Il ne reçoit cette information qu’une seule fois, au début de la partie.  
+---
 
+<blockquote style="background:#2e2e2e; border-left:4px solid #b58b52; padding:10px; border-radius:8px;">
+   **Jinx associé :**
+  <br>Si l’Enquêteur apprend que le
+  <a href="../roles_experimentaux/vizir.html" style="color:#red; font-weight:bold;">Vizir</a>
+  est en jeu, <strong>le Conteur n’annonce pas son existence</strong> publiquement.
+</blockquote>
 ---
 
 ## 🎬 Mise en place  
