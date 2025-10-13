@@ -72,7 +72,7 @@ Il ne reçoit cette information qu’une seule fois, au début de la partie.
   <a href="../roles_experimentaux/vizir.html" style="color:#red; font-weight:bold;">Vizir</a>
   est en jeu, <strong>le Conteur n’annonce pas son existence</strong> publiquement.
 </blockquote>
----
+
 
 ## 🎬 Mise en place  
 
