@@ -56,15 +56,12 @@ title: Enquêteur
 "Cult of the Clocktower – épisode par Andrew Nathenson"
 </p>
 
-
-
-## 📖 Résumé  
-
-« Vous commencez en apprenant 2 joueurs et le rôle de [<span style="color:red">Sbire</span>](../sbires.md) de l’un des deux.»  
+## 📖 Résumé
+« Vous commencez en apprenant 2 joueurs et le rôle de [<span style="color:red">Sbire</span>](../sbires.md) de l’un des deux.» 
 L’**Enquêteur** apprend qu’un rôle de Sbire particulier est en jeu, mais pas lequel des deux joueurs le possède.  
 Lors de la première nuit, il apprend que l’un de deux joueurs est un **Sbire spécifique**.  
 Il ne reçoit cette information qu’une seule fois, au début de la partie.  
----
+
 
 <blockquote style="background:#2e2e2e; border-left:4px solid #b58b52; padding:10px; border-radius:8px;">
    **Jinx associé :**
