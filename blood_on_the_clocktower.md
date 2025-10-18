@@ -11,8 +11,7 @@
 </p>
 
 <p style="text-align:center; color:#e0c99d; font-size:17px; margin-top:-5px;">
-  <em>Blood on the Clocktower
-Le plus grand jeu de bluff au monde. Un jeu de mensonges,mêlant déduction, bluff et narration, où les joueurs et joueuses incarnent des rôles secrets dans un village hanté par un Démon.
+  <em>Blood 🩸on the Clocktower, le plus grand jeu de bluff au monde. Un jeu de mensonges,mêlant déduction, bluff et narration, où les joueurs et joueuses incarnent des rôles secrets dans un village hanté par un Démon.
 </em>
 </p>
 
