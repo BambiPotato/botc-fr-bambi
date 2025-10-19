@@ -15,7 +15,7 @@ title: Po
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./po.html" style="text-decoration:none;">
-    <img src="../images/Icon_devilsadvocate.png" alt="Po" width="350" style="border-radius:8px;">
+    <img src="../images/Icon_po.png" alt="Po" width="350" style="border-radius:8px;">
     <br>
     <span style="color:red; font-weight:bold; font-size:22px;">Po</span>
   </a>
