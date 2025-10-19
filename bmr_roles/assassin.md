@@ -23,8 +23,6 @@ title: ASSASSIN
 </div>
 
 
-[<img src="../images/Icon_assassin.png" alt="Assassin" width="300">](assassin.md)
-
 ---
 
 ## ℹ️ Informations  
@@ -35,11 +33,6 @@ title: ASSASSIN
 > *« … »*
 
 ---
-
-## 🎭 Apparaît dans  
-
-[<img src="../images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="400">](../bmr.md) [**Bad Moon Rising**](../bmr.md)  
-*Cult of the Clocktower – par Andrew Nathenson*
 
 
 ## 🎭 Apparaît dans  
