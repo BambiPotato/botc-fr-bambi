@@ -55,6 +55,10 @@
 </div>
 
 
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+"Cult of the Clocktower – épisode par Andrew Nathenson"
+</p>
+
 ## 🧠 Résumé  
 
 > **« Une fois par partie, la nuit*, choisissez un joueur : il meurt, même s’il ne devrait pas. »**
