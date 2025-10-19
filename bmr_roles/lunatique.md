@@ -1,32 +1,66 @@
+---
+layout: default
+title: Lunatique
+---
+
+
 <p align="left">
-  <a href="/botc-fr-bambi/">
+  <a href="../README.md">
     <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
-# 🌝🌚 **Lunatique**
+#  🌚🌝 <span style="color:blue">Lunatique</span>  
 
-[<img src="../images/Icon_lunatic.png" alt="Lunatique" width="400">](lunatique.md) [**Lunatique**](../bmr_roles/lunatique.md)  
+<!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="./lunatique.html" style="text-decoration:none;">
+    <img src="../images/Icon_lunatic.png" alt="Lunatique" width="350" style="border-radius:8px;">
+    <br>
+    <span style="color:blue; font-weight:bold; font-size:22px;">Lunatique</span>
+  </a>
+</div>
+
 
 ---
 
-## ℹ️ Information  
+## ℹ️ Informations  
 
-- **Type :** [<span style="color:blue">Étranger</span>](../etrangers.md)  
-- **Artiste :** Aidan Roberts  
-- *« Je suis la nuit… enfin, je crois. »*  
+- **Type :** [<span style="color:blue">Étranger</span>](../etrangers.md)    
+- **Artiste :** Aidan Roberts 
+> *« Je suis la nuit… enfin, je crois. »*
 
 ---
+
 
 ## 🎭 Apparaît dans  
 
-[<img src="../images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="400">](../bmr.md) [**Bad Moon Rising**](../bmr.md)  
+# 🌝 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
 
-*Cult of the Clocktower – épisode par Andrew Nathenson*  
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+  « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
+</p>
 
 ---
 
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../bmr.html" style="text-decoration:none;">
+    <img src="../images/Logo_bad_moon_rising-1.png" alt= "Bad Moon Rising" width="400" style="border-radius:12px;">
+    <br>
+    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Bad Moon Rising</span>
+  </a>
+</div>
+
+
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+"Cult of the Clocktower – épisode par Andrew Nathenson"
+</p>
+
+
+
 ## 📖 Résumé  
+
+
 
 > **« Vous pensez être le Démon, mais vous ne l’êtes pas. Le Démon sait qui vous êtes et qui vous choisissez la nuit. »**
 
@@ -125,8 +159,10 @@ Quand vous êtes sûr(e), annoncez publiquement votre rôle :
 
 ---
 
-## 📂 Navigation  
-
-- 🏠 [Retour à l’accueil](../README.md)   
-- 🌙 [Retour à Bad Moon Rising](../bmr.md)  
-- 📂 **Catégories :** [Bad Moon Rising](../bmr.md) · [Étranger</span>](../etrangers.md)
+<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li>🌛 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
+  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
+  <li>💈 <a href="../etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Étrangers</a></li>
+</ul>
