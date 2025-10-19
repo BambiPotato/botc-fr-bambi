@@ -1,32 +1,62 @@
+---
+layout: default
+title: Femme de chambre
+---
+
+
 <p align="left">
-  <a href="/botc-fr-bambi/">
+  <a href="../README.md">
     <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
+#  🧹 <span style="color:blue">Femme de chambre</span>  
+
+<!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="./femmedechambre.html" style="text-decoration:none;">
+    <img src="../images/Icon_chambermaid.png" alt="Femme de chambre" width="350" style="border-radius:8px;">
+    <br>
+    <span style="color:blue; font-weight:bold; font-size:22px;">Femme de chambre</span>
+  </a>
+</div>
+
+
 ---
 
-# 🧹 Femme de Chambre  
-
-[<img src="../images/Icon_chambermaid.png" alt="Femme de Chambre" width="400">](femmedecha.md) [**Femme de Chambre**](../bmr_roles/femmedecha.md)
-
----
-
-## ℹ️ Information  
+## ℹ️ Informations  
 
 - **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)  
-- **Artiste :** Aidan Roberts  
-- *« J’ai rien vu de suspect, M’dame. Pardonnez-moi, mais si j’avais vu quelque chose, c’était certainement pas le maître de maison en train de se faufiler dans le labo du professeur vers onze heures pour mélanger des potions, comme vous l’aviez dit, Miss. »*  
+- **Artiste :** Aidan Roberts 
+> *« J’ai rien vu de suspect, M’dame. Pardonnez-moi, mais si j’avais vu quelque chose, c’était certainement pas le maître de maison en train de se faufiler dans le labo du professeur vers onze heures pour mélanger des potions, comme vous l’aviez dit, Miss.  »*
 
 ---
+
 
 ## 🎭 Apparaît dans  
 
-[<img src="../images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="400">](../bmr.md) [**Bad Moon Rising**](../bmr.md)  
+# 🌝 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
 
-*Cult of the Clocktower* – épisode par Andrew Nathenson  
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+  « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
+</p>
 
 ---
+
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../bmr.html" style="text-decoration:none;">
+    <img src="../images/Logo_bad_moon_rising-1.png" alt= "Bad Moon Rising" width="400" style="border-radius:12px;">
+    <br>
+    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Bad Moon Rising</span>
+  </a>
+</div>
+
+
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+"Cult of the Clocktower – épisode par Andrew Nathenson"
+</p>
+
+
 
 ## 📖 Résumé  
 
