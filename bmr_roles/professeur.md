@@ -1,38 +1,67 @@
+---
+layout: default
+title: Professeur
+---
+
+
 <p align="left">
-  <a href="/botc-fr-bambi/">
+  <a href="../README.md">
     <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
+#   <span style="color:blue">Professeur</span>  
+
+<!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="./professeur.html" style="text-decoration:none;">
+    <img src="../images/Icon_professor.png" alt="Professeur" width="350" style="border-radius:8px;">
+    <br>
+    <span style="color:blue; font-weight:bold; font-size:22px;">Professeur</span>
+  </a>
+</div>
+
+
 ---
 
-# 👨‍🏫 Professeur  
-
-[<img src="../images/Icon_professor.png" alt="Professeur" width="400">](professeur.md) [**Professeur**](../bmr_roles/professeur.md)
-
----
-
-## ℹ️ Information  
+## ℹ️ Informations  
 
 - **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)  
-- **Artiste :** Aidan Roberts  
-- *« Le processus est simple. Connectez le confabulateur hydraulique à l’amplificateur de matrice chi modifié, ajoutez 20 cc de pseudodorafine, gardez ses niveaux Z au-dessus de 20 %, et votre mari ira bien. Maintenant, tout ce dont nous avons besoin, c’est d’un éclair. »*  
+- **Artiste :** Aidan Roberts 
+> *« Le processus est simple. Connectez le confabulateur hydraulique à l’amplificateur de matrice chi modifié, ajoutez 20 cc de pseudodorafine, gardez ses niveaux Z au-dessus de 20 %, et votre mari ira bien. Maintenant, tout ce dont nous avons besoin, c’est d’un éclair. »*
 
 ---
+
 
 ## 🎭 Apparaît dans  
 
-[<img src="../images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="400">](../bmr.md) [**Bad Moon Rising**](../bmr.md)  
+# 🌝 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
 
-*Cult of the Clocktower* – épisode par Andrew Nathenson  
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+  « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
+</p>
+
+---
+
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../bmr.html" style="text-decoration:none;">
+    <img src="../images/Logo_bad_moon_rising-1.png" alt= "Bad Moon Rising" width="400" style="border-radius:12px;">
+    <br>
+    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Bad Moon Rising</span>
+  </a>
+</div>
+
+
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+"Cult of the Clocktower – épisode par Andrew Nathenson"
+</p>
 
 ---
 
 ## 📖 Résumé  
 
-« Une fois par partie, pendant la nuit, choisissez un joueur mort : si c’est un Villageois, il revient à la vie. »  
-
-Le Professeur peut ressusciter un joueur.  
+> **Une fois par partie, pendant la nuit, choisissez un joueur mort : si c’est un Villageois, il revient à la vie.** 
+> **Le Professeur peut ressusciter un joueur.**  
 
 * Une fois par partie, il choisit un joueur mort. Si ce joueur est un [<span style="color:blue">Villageois</span>](../villageois.md), il est ressuscité.  
 * Si le joueur est un [<span style="color:blue">Étranger</span>](../etrangers.md), un [<span style="color:red">Sbire</span>](../sbires.md) ou un [<span style="color:red">Démon</span>](../demons.md), rien ne se passe.  
@@ -79,8 +108,10 @@ Le Professeur peut ressusciter un joueur.
 
 ---
 
-## 📂 Navigation  
-
-- 🏠 [Retour à l’accueil](../README.md)   
-- 🌙 [Retour à Bad Moon Rising](../bmr.md)  
-- 📂 **Catégories :** [Bad Moon Rising](../bmr.md) · [<span style="color:blue">Villageois</span>](../villageois.md)  
+ <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li>🌛 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
+  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
+  <li>🧑‍🌾 <a href="../villageois.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
+</ul> 
