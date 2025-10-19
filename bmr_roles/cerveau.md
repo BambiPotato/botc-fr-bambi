@@ -10,7 +10,7 @@ title: Cerveau
   </a>
 </p>
 
-# 🧠 Cerveau
+# 🧠 <span style="color:red">Cerveau</span>
 
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
