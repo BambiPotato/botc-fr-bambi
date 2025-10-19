@@ -10,7 +10,7 @@ title: Shabaloth
   </a>
 </p>
 
-# 🩸 <span style="color:red">Shabaloth</span>  
+#  <span style="color:red">Shabaloth</span>  
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
