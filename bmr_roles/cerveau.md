@@ -1,34 +1,68 @@
+---
+layout: default
+title: Cerveau
+---
+
+
 <p align="left">
-  <a href="/botc-fr-bambi/">
+  <a href="../README.md">
     <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
-# 🧠 **Cerveau**
+# 🧠 Cerveau
 
-[<img src="../images/Icon_mastermind.png" alt="Cerveau" width="400">](cerveau.md)
+
+<!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="./cerveau.html" style="text-decoration:none;">
+    <img src="../images/Icon_mastermind.png" alt="Cerveau" width="350" style="border-radius:8px;">
+    <br>
+    <span style="color:red; font-weight:bold; font-size:22px;">Cerveau</span>
+  </a>
+</div>
+
 
 ---
 
-## ℹ️ Information  
+## ℹ️ Informations  
 
 - **Type :** [<span style="color:red">Sbire</span>](../sbires.md)  
 - **Artiste :** Aidan Roberts  
-- *« Les tentacules de ce monstre sont cloués aux portes de l’église.  
+
+> *« Les tentacules de ce monstre sont cloués aux portes de l’église.  
 Les mères et les enfants dansent dans la rue. Excellent.  
-Tout se déroule exactement comme je l’avais prévu. »*
+Tout se déroule exactement comme je l’avais prévu.»*
 
 ---
+
 
 ## 🎭 Apparaît dans  
 
-[<img src="../images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="400">](../bmr.md)  
-[**Bad Moon Rising**](../bmr.md)  
-*Cult of the Clocktower* – épisode par Andrew Nathenson  
+# 🌝 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
+
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+  « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
+</p>
 
 ---
 
-## 📖 Résumé  
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../bmr.html" style="text-decoration:none;">
+    <img src="../images/Logo_bad_moon_rising-1.png" alt= "Bad Moon Rising" width="400" style="border-radius:12px;">
+    <br>
+    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Bad Moon Rising</span>
+  </a>
+</div>
+
+
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+"Cult of the Clocktower – épisode par Andrew Nathenson"
+</p>
+
+
+
+## 📖 Résumé
 
 > **« Si le Démon meurt par exécution (mettant fin à la partie), jouez un jour de plus.  
 > Si un joueur est ensuite exécuté, son équipe perd. »**
