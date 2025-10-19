@@ -1,31 +1,61 @@
+---
+layout: default
+title: Fou
+---
+
+
 <p align="left">
-  <a href="/botc-fr-bambi/">
-    <img src="../images/logo.png" alt="[Retour à l’accueil](../README.md)" width="300">
+  <a href="../README.md">
+    <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
-# 🤡 Fou  
+#   <span style="color:blue">Fou</span>  
 
-[<img src="../images/Icon_fool.png" alt="Fou" width="400">](fou.md) [**Fou**](../bmr_roles/fou.md)
+<!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="./fou.html" style="text-decoration:none;">
+    <img src="../images/Icon_fool.png" alt="Fou" width="350" style="border-radius:8px;">
+    <br>
+    <span style="color:blue; font-weight:bold; font-size:22px;">Fou</span>
+  </a>
+</div>
+
 
 ---
 
 ## ℹ️ Informations  
 
-- **Type :** [<span style="color:blue">Villageois</span>](../villageois.md)  
+- **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)  
 - **Artiste :** Anica Kelsen  
-
-> *« …et le roi s’exclama : “Quoi ?! Je n’ai jamais possédé de pantalon en caoutchouc, encore moins un canon à crème anglaise !” Ho-ho ! Quelle journée joyeuse ! »*
+> *«…et le roi s’exclama : “Quoi ?! Je n’ai jamais possédé de pantalon en caoutchouc, encore moins un canon à crème anglaise !” Ho-ho ! Quelle journée joyeuse ! »*
 
 ---
+
 
 ## 🎭 Apparaît dans  
 
-[<img src="../images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="400">](../bmr.md) [**Bad Moon Rising**](../bmr.md)  
+# 🌝 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
 
-*Cult of the Clocktower* – épisode par Andrew Nathenson  
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+  « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
+</p>
 
 ---
+
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../bmr.html" style="text-decoration:none;">
+    <img src="../images/Logo_bad_moon_rising-1.png" alt= "Bad Moon Rising" width="400" style="border-radius:12px;">
+    <br>
+    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Bad Moon Rising</span>
+  </a>
+</div>
+
+
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+"Cult of the Clocktower – épisode par Andrew Nathenson"
+</p>
+
 
 ## 📖 Résumé  
 
