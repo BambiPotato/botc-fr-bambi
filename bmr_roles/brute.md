@@ -1,30 +1,61 @@
+---
+layout: default
+title: Brute
+---
+
+
 <p align="left">
-  <a href="/botc-fr-bambi/">
+  <a href="../README.md">
     <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
+#   <span style="color:blue">Brute </span>  
 
-#  Brute  
+<!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="./brute.html" style="text-decoration:none;">
+    <img src="../images/Icon_goon.png" alt="brute" width="350" style="border-radius:8px;">
+    <br>
+    <span style="color:blue; font-weight:bold; font-size:22px;">Brute</span>
+  </a>
+</div>
 
-[<img src="../images/Icon_goon.png" alt="Brute" width="400">](brute.md) [**Brute**](../bmr_roles/brute.md)
 
 ---
 
 ## ℹ️ Informations  
 
-- **Type :** [<span style="color:blue">Étranger</span>](../etrangers.md)  
+- **Type :** [<span style="color:blue">Étranger</span>](../etrangers.md)    
 - **Artiste :** Caitlin Murphy  
-
 > *« Oui patron. Je lui ai bien expliqué les choses à ce type. Il ne veut surtout pas que je réexplique. Non patron, pas besoin de docteur – c’est qu’un coup de couteau. Ça ira mieux demain matin. »*
 
 ---
 
+
 ## 🎭 Apparaît dans  
 
-[<img src="../images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="400">](../bmr.md) [**Bad Moon Rising**](../bmr.md)  
+# 🌝 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
 
-*Cult of the Clocktower* – épisode par Andrew Nathenson  
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+  « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
+</p>
+
+---
+
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../bmr.html" style="text-decoration:none;">
+    <img src="../images/Logo_bad_moon_rising-1.png" alt= "Bad Moon Rising" width="400" style="border-radius:12px;">
+    <br>
+    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Bad Moon Rising</span>
+  </a>
+</div>
+
+
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+"Cult of the Clocktower – épisode par Andrew Nathenson"
+</p>
+
 
 ---
 
@@ -115,7 +146,11 @@ Rester discret peut être judicieux : observez, bluffez et découvrez comment vo
 
 ---
 
-## 📂 Navigation  
-- 🏠 [Retour à l’accueil](../README.md)   
-- 🌙 [Retour à Bad Moon Rising](../bmr.md)  
-- 📂 **Catégories :** [Bad Moon Rising](../bmr.md) · [<span style="color:blue">Étranger</span>](../etrangers.md)
+ <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li>🌛 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
+  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
+  <li>💈 <a href="../etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Étrangers</a></li>
+</ul>
+
