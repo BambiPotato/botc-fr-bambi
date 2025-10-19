@@ -1,32 +1,62 @@
+---
+layout: default
+title: Commère
+---
+
+
 <p align="left">
-  <a href="/botc-fr-bambi/">
-    <img src="../images/logo.png" alt="Accueil BotC FR" width="150">
+  <a href="../README.md">
+    <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
   </a>
+</p>
+
+#   <span style="color:blue">Commère</span>  
+
+<!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="./commere.html" style="text-decoration:none;">
+    <img src="../images/Icon_gossip.png" alt="Commère" width="350" style="border-radius:8px;">
+    <br>
+    <span style="color:blue; font-weight:bold; font-size:22px;">Commère</span>
+  </a>
+</div>
+
+
+---
+
+## ℹ️ Informations  
+
+- **Type :**[<span style="color:blue">**Villageois**</span>](../villageois.md)  
+- **Artiste :**Aidan Roberts   
+
+> *« Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah. »*
+
+---
+
+
+
+## 🎭 Apparaît dans  
+
+# 🌝 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
+
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+  « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
 </p>
 
 ---
 
-# 🗣️ Commère  
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../bmr.html" style="text-decoration:none;">
+    <img src="../images/Logo_bad_moon_rising-1.png" alt= "Bad Moon Rising" width="400" style="border-radius:12px;">
+    <br>
+    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Bad Moon Rising</span>
+  </a>
+</div>
 
-[<img src="../images/Icon_gossip.png" alt="Commère" width="400">](commere.md) [**Commère**](../bmr_roles/commere.md)
 
----
-
-## ℹ️ Information  
-
-- **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)  
-- **Artiste :** Aidan Roberts  
-- *« Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah. »*  
-
----
-
-## 🎭 Apparaît dans  
-
-[<img src="../images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="400">](../bmr.md) [**Bad Moon Rising**](../bmr.md)  
-
-*Cult of the Clocktower* – épisode par Andrew Nathenson  
-
----
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+"Cult of the Clocktower – épisode par Andrew Nathenson"
+</p>
 
 ## 📖 Résumé  
 
