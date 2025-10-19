@@ -1,33 +1,66 @@
+---
+layout: default
+title: Shabaloth
+---
+
+
 <p align="left">
   <a href="../README.md">
     <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
-# 🫦 Shabaloth  
+# 🩸 <span style="color:red">Shabaloth</span>  
 
-[<img src="../images/Icon_shabaloth.png" alt="Shabaloth" width="300">](./shabaloth.md)
+<!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="./shabaloth.html" style="text-decoration:none;">
+    <img src="../images/Icon_shabaloth.png" alt="Shabaloth" width="350" style="border-radius:8px;">
+    <br>
+    <span style="color:red; font-weight:bold; font-size:22px;">Shabaloth</span>
+  </a>
+</div>
+
 
 ---
 
 ## ℹ️ Informations  
 
-- **Type :** [<span style="color:red">Démon</span>](../demons.md)  
-- **Illustratrice :** Anica Kelsen  
+- **Type :**[<span style="color:red">Démon</span>](../demons.md)  
+- **Artiste :** Anica Kelsen   
 
 > *« Blarg f'taag nm mataan ! No sho gumtha m’sik na yuuu. Fluuuuuuuuurg h-sikkkh. »*
 
 ---
 
+
 ## 🎭 Apparaît dans  
 
-[<img src="../images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="400">](../bmr.md)  
-[**Bad Moon Rising**](../bmr.md)  
-*Cult of the Clocktower* – épisode par Andrew Nathenson  
+# 🌝 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
+
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+  « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
+</p>
 
 ---
 
-## Résumé  
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../bmr.html" style="text-decoration:none;">
+    <img src="../images/Logo_bad_moon_rising-1.png" alt= "Bad Moon Rising" width="400" style="border-radius:12px;">
+    <br>
+    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Bad Moon Rising</span>
+  </a>
+</div>
+
+
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+"Cult of the Clocktower – épisode par Andrew Nathenson"
+</p>
+
+
+
+## 📖 Résumé  
+ 
 
 > **« Chaque nuit*, choisissez 2 joueurs : ils meurent. Un joueur mort que vous avez choisi la nuit dernière peut être régurgité. »**
 
