@@ -1,37 +1,66 @@
+---
+layout: default
+title: Parieur
+---
+
+
 <p align="left">
-  <a href="/botc-fr-bambi/">
-    <img src="../images/logo.png" alt="Accueil BotC FR" width="150">
+  <a href="../README.md">
+    <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
   </a>
+</p>
+
+# 🎲  <span style="color:blue">Parieur</span>  
+
+<!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="./parieur.html" style="text-decoration:none;">
+    <img src="../images/Icon_gambler.png" alt="Parieur" width="350" style="border-radius:8px;">
+    <br>
+    <span style="color:blue; font-weight:bold; font-size:22px;">Parieur</span>
+  </a>
+</div>
+
+
+---
+
+## ℹ️ Informations  
+
+- **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)  
+- **Artiste :** Aidan Roberts 
+> *« Pile, je gagne. Face, tu perds. »*
+
+---
+
+
+## 🎭 Apparaît dans  
+
+# 🌝 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
+
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+  « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
 </p>
 
 ---
 
-# 🎲 Parieur  
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../bmr.html" style="text-decoration:none;">
+    <img src="../images/Logo_bad_moon_rising-1.png" alt= "Bad Moon Rising" width="400" style="border-radius:12px;">
+    <br>
+    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Bad Moon Rising</span>
+  </a>
+</div>
 
-[<img src="../images/Icon_gambler.png" alt="Parieur" width="400">](parieur.md) [**Parieur**](../bmr_roles/parieur.md)
 
----
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+"Cult of the Clocktower – épisode par Andrew Nathenson"
+</p>
 
-## ℹ️ Information  
-
-- **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)  
-- **Artiste :** Aidan Roberts  
-- *« Pile, je gagne. Face, tu perds. »*  
-
----
-
-## 🎭 Apparaît dans  
-
-[<img src="../images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="400">](../bmr.md) [**Bad Moon Rising**](../bmr.md)  
-
-*Cult of the Clocktower* – épisode par Andrew Nathenson  
-
----
 
 ## 📖 Résumé  
 
-« Chaque nuit* (sauf la première), choisissez un joueur et devinez son rôle.  
-→ Si vous vous trompez, vous mourrez. »  
+> « Chaque nuit* (sauf la première), choisissez un joueur et devinez son rôle.  
+> → Si vous vous trompez, vous mourrez. »  
 
 Le **Parieur** mise sa vie sur sa lecture des autres joueurs.  
 Bonne intuition = survie. Mauvaise intuition = mort.  
@@ -98,12 +127,12 @@ Le joueur peut tenter de deviner qui possède quel rôle… mais il en paie le p
 - Beaucoup de vrais Parieurs meurent tôt. Si vous survivez trop longtemps, prétendez que vous pariez sur vous-même depuis plusieurs nuits → explication crédible de votre survie.  
 
 ---
-
-## 📂 Navigation  
-
-- 🏠 [Retour à l’accueil](../README.md)  
-- 🌙 [Retour à Bad Moon Rising](../bmr.md)  
-- 📂 **Catégories :** [Bad Moon Rising](../bmr.md) · [<span style="color:blue">Villageois</span>](../villageois.md)
-
+<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li>🌛 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
+  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
+  <li>🧑‍🌾 <a href="../villageois.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
+</ul>
 
 
