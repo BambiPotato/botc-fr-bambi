@@ -11,7 +11,7 @@ title: Pukka
   </a>
 </p>
 
-# 🩸 <span style="color:red">Pukka</span>  
+# 🐍 <span style="color:red">Pukka</span>  
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
