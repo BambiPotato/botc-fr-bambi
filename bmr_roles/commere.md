@@ -27,7 +27,7 @@ title: Commère
 ## ℹ️ Informations  
 
 - **Type :**[<span style="color:blue">**Villageois**</span>](../villageois.md)  
-- **Artiste :Aidan Roberts   
+- **Artiste :** Aidan Roberts   
 
 > *« Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah. »*
 
