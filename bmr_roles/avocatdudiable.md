@@ -10,7 +10,7 @@ title: AVOCAT DU DIABLE
   </a>
 </p>
 
-# ⚖️ Avocat du Diable  
+# ⚖️ <span style="color:red">Avocat du Diable</span>  
 
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
