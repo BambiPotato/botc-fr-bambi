@@ -17,7 +17,7 @@ title: Aubergiste
   <a href="./aubergiste.html" style="text-decoration:none;">
     <img src="../images/Icon_innkeeper.png" alt="Po" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:red; font-weight:bold; font-size:22px;">Aubergiste</span>
+    <span style="color:blue; font-weight:bold; font-size:22px;">Aubergiste</span>
   </a>
 </div>
 
