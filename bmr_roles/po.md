@@ -116,8 +116,7 @@ jamais 3).
 - Méfiez-vous des morts « parasites » de la [Commère](./commere.md) ou du [Parieur](./parieur.md) qui peuvent masquer une **nuit de charge**.  
 - Si vous pensez qu'un Po est en jeu et que 4, 5 ou même 6 joueurs sont encore en vie, réfléchissez bien à qui vous exécuterez ce jour-là… ce sera peut-être votre dernier !
 ---
-
- <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
   <li>🌛 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
   <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
