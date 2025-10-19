@@ -3,7 +3,6 @@ layout: default
 title: Brute
 ---
 
-
 <p align="left">
   <a href="../README.md">
     <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
