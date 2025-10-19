@@ -28,7 +28,7 @@ title: ASSASSIN
 ## ℹ️ Informations  
 
 - **Type :** [<span style="color:red">Sbire</span>](../sbires.md)  
-- **Illustrateur :** Aidan Roberts  
+- **Artiste :** Aidan Roberts  
 
 > *« … »*
 
