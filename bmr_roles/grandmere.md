@@ -1,8 +1,7 @@
 ---
 layout: default
-title:Grand-Mère
+title: Grand-Mère
 ---
-
 
 <p align="left">
   <a href="../README.md">
