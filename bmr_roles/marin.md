@@ -1,36 +1,67 @@
+---
+layout: default
+title: Marin
+---
+
+
 <p align="left">
-  <a href="/botc-fr-bambi/">
+  <a href="../README.md">
     <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
+#  ⚓️ <span style="color:blue">Marin </span>  
+
+<!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="./marin.html" style="text-decoration:none;">
+    <img src="../images/Icon_sailor.png" alt="Marin" width="350" style="border-radius:8px;">
+    <br>
+    <span style="color:blue; font-weight:bold; font-size:22px;">Marin</span>
+  </a>
+</div>
+
+
 ---
 
-# ⚓ Marin  
-
-[<img src="../images/Icon_sailor.png" alt="Marin" width="400">](marin.md) [**Marin**](../bmr_roles/marin.md)
-
----
-
-## ℹ️ Information  
+## ℹ️ Informations  
 
 - **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)  
-- **Artiste :** Aidan Roberts  
-- *« Je boirai n’importe qui sous la table ! Toi ! Le moulin à paroles ! Tu crois pouvoir tenir ? Non ? Et toi, Mamie ? T’as déjà goûté au vieux Rhum Extra Épicé de McKilly ? Garanti de te faire pousser des poils sur le torse ! Allez, monte à bord, aye ! »*  
+- **Artiste :** Aidan Roberts 
+> *« Je boirai n’importe qui sous la table ! Toi ! Le moulin à paroles ! Tu crois pouvoir tenir ? Non ? Et toi, Mamie ? T’as déjà goûté au vieux Rhum Extra Épicé de McKilly ? Garanti de te faire pousser des poils sur le torse ! Allez, monte à bord, aye ! »*
 
 ---
+
 
 ## 🎭 Apparaît dans  
 
-[<img src="../images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="400">](../bmr.md) [**Bad Moon Rising**](../bmr.md)  
+# 🌝 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
 
-*Cult of the Clocktower* – épisode par Andrew Nathenson  
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+  « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
+</p>
 
 ---
 
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../bmr.html" style="text-decoration:none;">
+    <img src="../images/Logo_bad_moon_rising-1.png" alt= "Bad Moon Rising" width="400" style="border-radius:12px;">
+    <br>
+    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Bad Moon Rising</span>
+  </a>
+</div>
+
+
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+"Cult of the Clocktower – épisode par Andrew Nathenson"
+</p>
+
+
+
 ## 📖 Résumé  
 
-« Chaque nuit, choisissez un joueur vivant : soit vous, soit lui, êtes **Ivre** jusqu’au crépuscule. Vous ne pouvez pas mourir. »  
+
+> « Chaque nuit, choisissez un joueur vivant : soit vous, soit lui, êtes **Ivre** jusqu’au crépuscule. Vous ne pouvez pas mourir. »  
 
 Le **Marin** rend ivre un joueur chaque nuit, parfois lui-même.  
 Tant qu’il est **sobre**, il est immortel.  
