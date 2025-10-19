@@ -1,19 +1,34 @@
+---
+layout: default
+title: Pukka
+---
+
+
+
 <p align="left">
   <a href="../README.md">
     <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
-# ⚕️ Pukka  
+# 🩸 <span style="color:red">Pukka</span>  
 
-[<img src="../images/Icon_pukka.png" alt="Pukka" width="400">](./pukka.md)
+<!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="./pukka.html" style="text-decoration:none;">
+    <img src="../images/Icon_pukka.png" alt="Pukka" width="350" style="border-radius:8px;">
+    <br>
+    <span style="color:red; font-weight:bold; font-size:22px;">Pukka</span>
+  </a>
+</div>
+
 
 ---
 
 ## ℹ️ Informations  
 
-- **Type :** [<span style="color:red">Démon</span>](../demons.md)  
-- **Artiste :** Aidan Roberts  
+- **Type :**[<span style="color:red">Démon</span>](../demons.md)  
+- **Artiste :** Aidan Roberts   
 
 > *« Vous avez été si aimables de m’accueillir dans votre charmante demeure.  
 Je suis navré de vous avoir accidentellement égratigné. Ce n’est rien, vraiment.  
@@ -21,15 +36,34 @@ Mais prenez donc ce cure-dent doré, modeste gage de mes regrets. »*
 
 ---
 
+
 ## 🎭 Apparaît dans  
 
-[<img src="../images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="400">](../bmr.md) [**Bad Moon Rising**](../bmr.md)  
+# 🌝 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
 
-*Cult of the Clocktower* – épisode par Andrew Nathenson  
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+  « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
+</p>
 
 ---
 
-## 🧠 Résumé  
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../bmr.html" style="text-decoration:none;">
+    <img src="../images/Logo_bad_moon_rising-1.png" alt= "Bad Moon Rising" width="400" style="border-radius:12px;">
+    <br>
+    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Bad Moon Rising</span>
+  </a>
+</div>
+
+
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+"Cult of the Clocktower – épisode par Andrew Nathenson"
+</p>
+
+
+
+## 📖 Résumé  
+
 
 > **« Chaque nuit, choisissez un joueur : il est empoisonné. Le joueur précédemment empoisonné meurt puis redevient sain. »**
 
