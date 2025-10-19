@@ -1,31 +1,65 @@
+---
+layout: default
+title: AVOCAT DU DIABLE
+---
+
+
 <p align="left">
-  <a href="/botc-fr-bambi/">
+  <a href="../README.md">
     <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
-# ⚖️ **Avocat du Diable**
+# ⚖️ Avocat du Diable  
 
-[<img src="../images/Icon_devilsadvocate.png" alt="Avocat du Diable" width="400">](avocatdudiable.md) [**Avocat du Diable**](../bmr_roles/avocatdudiable.md)
+
+<!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="./avocatdudiable.html" style="text-decoration:none;">
+    <img src="../images/Icon_devilsadvocate.png" alt="Avocat du Diable" width="350" style="border-radius:8px;">
+    <br>
+    <span style="color:red; font-weight:bold; font-size:22px;">Avocat du Diable</span>
+  </a>
+</div>
+
 
 ---
 
-## ℹ️ Information  
+## ℹ️ Informations  
 
 - **Type :** [<span style="color:red">Sbire</span>](../sbires.md)  
 - **Artiste :** Aidan Roberts  
-- *« Mon client, si l’objection est rejetée, plaide non coupable au motif que l’accusation n’a pas respecté l’article 27.B — mauvaise conjugaison d’un verbe.  
+
+> *« Mon client, si l’objection est rejetée, plaide non coupable au motif que l’accusation n’a pas respecté l’article 27.B — mauvaise conjugaison d’un verbe.  
 Le fait que neuf jurés soient morts cette nuit n’est que circonstanciel, et selon Wills contre Thule, justifie l’acquittement. »*
 
 ---
 
+
 ## 🎭 Apparaît dans  
 
-[<img src="../images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="400">](../bmr.md) [**Bad Moon Rising**](../bmr.md)  
+# 🌝 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
 
-*Cult of the Clocktower* – épisode par Andrew Nathenson  
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+  « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
+</p>
 
 ---
+
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../bmr.html" style="text-decoration:none;">
+    <img src="../images/Logo_bad_moon_rising-1.png" alt= "Bad Moon Rising" width="400" style="border-radius:12px;">
+    <br>
+    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Bad Moon Rising</span>
+  </a>
+</div>
+
+
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+"Cult of the Clocktower – épisode par Andrew Nathenson"
+</p>
+
+
 
 ## 📖 Résumé  
 
