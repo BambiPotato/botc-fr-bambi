@@ -15,7 +15,7 @@ title: Dame de Thé
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./damedethe.html" style="text-decoration:none;">
-    <img src="../images/Icon_devilsadvocate.png" alt="Dame de Thé" width="350" style="border-radius:8px;">
+    <img src="../images/Icon_tealady.png" alt="Dame de Thé" width="350" style="border-radius:8px;">
     <br>
     <span style="color:blue; font-weight:bold; font-size:22px;">Dame de Thé</span>
   </a>
