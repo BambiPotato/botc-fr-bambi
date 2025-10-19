@@ -10,7 +10,7 @@ title: Parrain
   </a>
 </p>
 
-# Parrain
+# <span style="color:red">Parrain</span>
 
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
