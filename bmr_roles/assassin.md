@@ -10,7 +10,7 @@ title: ASSASSIN
   </a>
 </p>
 
-# 🗡️ Assassin  
+# 🗡️ <span style="color:red">Assassin</span>  
 
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
