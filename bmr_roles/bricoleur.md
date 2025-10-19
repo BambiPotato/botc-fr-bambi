@@ -1,32 +1,65 @@
+---
+layout: default
+title: Bricoleur
+---
+
+
 <p align="left">
-  <a href="/botc-fr-bambi/">
+  <a href="../README.md">
     <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
-# 🔧 **Bricoleur**
+#   🔧 <span style="color:blue">Bricoleur</span>  
 
-[<img src="../images/Icon_tinker.png" alt="Bricoleur" width="400">](bricoleur.md) [**Bricoleur**](../bmr_roles/bricoleur.md)
+<!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="./bricoleur.html" style="text-decoration:none;">
+    <img src="../images/Icon_tinker.png" alt="Bricoleur" width="350" style="border-radius:8px;">
+    <br>
+    <span style="color:blue; font-weight:bold; font-size:22px;">Bricoleur</span>
+  </a>
+</div>
+
 
 ---
 
-## ℹ️ Information  
+## ℹ️ Informations  
 
-- **Type :** [<span style="color:blue">Étranger</span>](../etrangers.md)  
-- **Artiste :** Aidan Roberts  
-- *« Je crois voir le problème… heureusement, j’ai une idée ! Cette catapulte tirera deux fois plus loin avec un petit ajustement… »*  
+- **Type :** [<span style="color:blue">Étranger</span>](../etrangers.md)    
+- **Artiste :** Aidan Roberts 
+> *« Je crois voir le problème… heureusement, j’ai une idée ! Cette catapulte tirera deux fois plus loin avec un petit ajustement… »*
 
 ---
+
 
 ## 🎭 Apparaît dans  
 
-[<img src="../images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="400">](../bmr.md) [**Bad Moon Rising**](../bmr.md)  
+# 🌝 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
 
-*Cult of the Clocktower* – épisode par Andrew Nathenson  
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+  « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
+</p>
 
 ---
 
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../bmr.html" style="text-decoration:none;">
+    <img src="../images/Logo_bad_moon_rising-1.png" alt= "Bad Moon Rising" width="400" style="border-radius:12px;">
+    <br>
+    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Bad Moon Rising</span>
+  </a>
+</div>
+
+
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+"Cult of the Clocktower – épisode par Andrew Nathenson"
+</p>
+
+
+
 ## 📖 Résumé  
+
 
 > **« Vous pouvez mourir à tout moment. »**
 
@@ -104,8 +137,10 @@ Mais cette fragilité peut devenir un **atout d’information** si vous savez en
 
 ---
 
-## 📂 Navigation  
-
-- 🏠 [Retour à l’accueil](../README.md)  
-- 🌙 [Retour à Bad Moon Rising](../bmr.md)  
-- 📂 **Catégories :** [Bad Moon Rising](../bmr.md) · [<span style="color:blue">Étranger</span>](../etrangers.md)
+<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li>🌛 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
+  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
+  <li>💈 <a href="../etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Étrangers</a></li>
+</ul>
