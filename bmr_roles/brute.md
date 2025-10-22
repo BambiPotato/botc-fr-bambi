@@ -10,6 +10,7 @@ title: Brute
 </p>
 
 
+
 #   <span style="color:blue">Brute </span>  
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
