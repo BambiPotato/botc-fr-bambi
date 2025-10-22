@@ -23,7 +23,6 @@ title: Baron
 </div>
 
 
-
 ## Information
 - **Type :** [<span style="color:red">**Sbires**</span>](../sbires.md)   
 - **Artiste :** Aidan Roberts  
