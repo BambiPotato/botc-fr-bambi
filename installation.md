@@ -10,156 +10,153 @@ title: Installation
   </a>
 </p>
 
-# 🏗️ <span style="color:#b58b52; font-weight:bold; font-size:36px;">Installation & Mise en place</span>  
+<!-- 🏗️ Installation et mise en place -->
+
+<h1 style="color:#b58b52; font-weight:bold; font-size:36px;">🏗️ Installation et mise en place</h1>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.8;">
-Cette page explique comment <strong>préparer une partie de Blood on the Clocktower</strong> étape par étape,  
-en suivant les indications de la feuille <em>Setup</em> du jeu.
+Cette page explique comment <strong>préparer une partie de Blood on the Clocktower</strong> étape par étape, 
+en suivant la feuille <em>Setup</em> du jeu. Elle s’adresse aux <strong>conteurs et conteuses</strong> comme aux <strong>joueurs et joueuses</strong>.
 </p>
 
----
+<hr>
 
-## 📋 <span style="color:#b58b52; font-weight:bold;">Sommaire</span>
-
+<h2 style="color:#b58b52; font-weight:bold;">📋 Sommaire</h2>
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li><a href="#1-rassembler-les-joueurs" style="color:#d4a76a; font-weight:bold; text-decoration:none;">1️⃣ Rassembler les joueurs</a></li>
-  <li><a href="#2-preparer-le-grimoire" style="color:#d4a76a; font-weight:bold; text-decoration:none;">2️⃣ Préparer le Grimoire</a></li>
-  <li><a href="#3-choisir-une-edition" style="color:#d4a76a; font-weight:bold; text-decoration:none;">3️⃣ Choisir une édition</a></li>
-  <li><a href="#4-installer-la-place-du-village" style="color:#d4a76a; font-weight:bold; text-decoration:none;">4️⃣ Installer la place du village</a></li>
-  <li><a href="#5-lire-les-regles" style="color:#d4a76a; font-weight:bold; text-decoration:none;">5️⃣ Lire les règles aux nouveaux joueurs</a></li>
-  <li><a href="#6-choisir-les-roles" style="color:#d4a76a; font-weight:bold; text-decoration:none;">6️⃣ Choisir secrètement les rôles</a></li>
-  <li><a href="#7-ajouter-ou-retirer-des-roles" style="color:#d4a76a; font-weight:bold; text-decoration:none;">7️⃣ Ajouter ou retirer des rôles</a></li>
-  <li><a href="#8-ajouter-les-jetons" style="color:#d4a76a; font-weight:bold; text-decoration:none;">8️⃣ Ajouter les jetons de rappel</a></li>
-  <li><a href="#9-distribuer-les-roles" style="color:#d4a76a; font-weight:bold; text-decoration:none;">9️⃣ Distribuer les rôles</a></li>
-  <li><a href="#10-placer-dans-le-grimoire" style="color:#d4a76a; font-weight:bold; text-decoration:none;">🔟 Placer les jetons dans le Grimoire</a></li>
+  <li><a href="#rassembler" style="color:#d4a76a; font-weight:bold; text-decoration:none;">1 Rassembler les joueurs et joueuses</a></li>
+  <li><a href="#grimoire" style="color:#d4a76a; font-weight:bold; text-decoration:none;">2 Préparer le Grimoire</a></li>
+  <li><a href="#edition" style="color:#d4a76a; font-weight:bold; text-decoration:none;">3 Choisir une édition</a></li>
+  <li><a href="#place" style="color:#d4a76a; font-weight:bold; text-decoration:none;">4 Installer la place du village</a></li>
+  <li><a href="#regles" style="color:#d4a76a; font-weight:bold; text-decoration:none;">5 Lire les règles aux nouvelles personnes</a></li>
+  <li><a href="#roles" style="color:#d4a76a; font-weight:bold; text-decoration:none;">6 Choisir secrètement les rôles</a></li>
+  <li><a href="#ajustements" style="color:#d4a76a; font-weight:bold; text-decoration:none;">7 Ajouter ou retirer des rôles</a></li>
+  <li><a href="#rappels" style="color:#d4a76a; font-weight:bold; text-decoration:none;">8 Ajouter les jetons de rappel</a></li>
+  <li><a href="#distribution" style="color:#d4a76a; font-weight:bold; text-decoration:none;">9 Distribuer les rôles</a></li>
+  <li><a href="#placer" style="color:#d4a76a; font-weight:bold; text-decoration:none;">10 Placer les jetons dans le Grimoire</a></li>
 </ul>
 
----
+<hr>
 
-## <span id="1-rassembler-les-joueurs" style="color:#b58b52; font-weight:bold;">1️⃣ Rassembler les joueurs</span>  
-
+<h2 id="rassembler" style="color:#b58b52; font-weight:bold;">1 Rassembler les joueurs et joueuses</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Disposez <strong>une chaise par joueur</strong>, en cercle ou en carré, de manière à ce que l’ordre soit clair (horaire ou antihoraire).  
-Laissez un <strong>espace vide pour le Conteur</strong>, qui doit pouvoir entrer et sortir facilement.  
-Le centre du cercle doit rester dégagé : pas d’obstacle ni de table.
+Disposez <strong>une chaise par personne</strong> en cercle ou en carré, avec un sens clair (horaire ou antihoraire). 
+Prévoyez un <strong>espace de passage pour le conteur ou la conteuse</strong> afin d’entrer et sortir sans gêner. 
+Laissez le centre dégagé pour la circulation et les votes.
 </p>
 
----
+<hr>
 
-## <span id="2-preparer-le-grimoire" style="color:#b58b52; font-weight:bold;">2️⃣ Préparer le Grimoire</span>  
-
+<h2 id="grimoire" style="color:#b58b52; font-weight:bold;">2 Préparer le Grimoire</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Fixez les <strong>deux pinces métalliques</strong> sur les coins supérieurs et inférieurs de la boîte de jeu pour former un <em>livre rigide</em>.  
-Montez le <strong>support du Grimoire</strong> et placez-le à un endroit où les joueurs ne peuvent pas voir son contenu.  
-Rangez-y tous les <strong>jetons d’information, de nuit et de voile</strong>, idéalement en bas à gauche du côté droit.
+Fixez les <strong>deux pinces</strong> sur les coins opposés de la boîte pour former un <em>livre rigide</em>. 
+Installez le <strong>support de Grimoire</strong> à un endroit où son contenu est invisible pour les joueurs et joueuses. 
+Rangez à portée de main les <strong>jetons d’information</strong>, de <strong>nuit</strong> et de <strong>voile</strong>, idéalement en bas à gauche de la page droite.
 </p>
 
----
+<hr>
 
-## <span id="3-choisir-une-edition" style="color:#b58b52; font-weight:bold;">3️⃣ Choisir une édition</span>  
-
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Le coffret contient trois éditions :
-</p>
-
+<h2 id="edition" style="color:#b58b52; font-weight:bold;">3 Choisir une édition</h2>
+<p style="color:#e0c99d; font-size:18px; line-height:1.7;">Le coffret contient trois éditions :</p>
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🍺 <a href="./trouble_brewing.html" style="color:#b58b52; text-decoration:none; font-weight:bold;">Trouble Brewing</a></li>
-  <li>🌙 <a href="./bmr.html" style="color:#ffa64d; text-decoration:none; font-weight:bold;">Bad Moon Rising</a></li>
-  <li>💐 <a href="./sv.html" style="color:#d67bff; text-decoration:none; font-weight:bold;">Sects & Violets</a></li>
+  <li>🍺 <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li>🌙 <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
+  <li>💐 <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
+</ul>
+<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+Placez la boîte de l’édition choisie dans le coin inférieur gauche du Grimoire et ajoutez la <strong>feuille de nuit</strong> correspondante sur la page de droite.
+</p>
+<ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:24px;">
+  <li><strong>Trouble Brewing</strong> : minimum 5 joueurs ou joueuses</li>
+  <li><strong>Bad Moon Rising</strong> et <strong>Sects & Violets</strong> : minimum 7 joueurs ou joueuses</li>
+</ul>
+<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+Pour débuter, privilégiez <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a>.
+</p>
+
+<hr>
+
+<h2 id="place" style="color:#b58b52; font-weight:bold;">4 Installer la place du village</h2>
+<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+Placez le plateau <strong>Town Square</strong> au centre.
+</p>
+<ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:24px;">
+  <li>Ajoutez un <strong>jeton de vie</strong> à la position de chaque siège.</li>
+  <li>Placez une <strong>pile de jetons de vote</strong> au centre.</li>
+  <li>Glissez la <strong>feuille des Voyageurs</strong> à moitié sous le plateau pour qu’elle reste visible.</li>
 </ul>
 
+<hr>
+
+<h2 id="regles" style="color:#b58b52; font-weight:bold;">5 Lire les règles aux nouvelles personnes</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Ajoutez la boîte de l’édition choisie dans le coin inférieur gauche du Grimoire.  
-Ajoutez la <strong>feuille de nuit</strong> correspondante sur le côté droit.  
-
-➡️ <strong>Trouble Brewing</strong> : minimum <strong>5 joueurs</strong>  
-➡️ <strong>Bad Moon Rising</strong> & <strong>Sects & Violets</strong> : minimum <strong>7 joueurs</strong>  
-
-Pour débuter, commencez avec <a href="./trouble_brewing.html" style="color:#b58b52; text-decoration:none; font-weight:bold;">Trouble Brewing</a>.
+La page des <a href="./regles.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">règles</a> contient l’essentiel pour commencer. 
+Lisez-la à voix haute ou laissez les joueurs et joueuses la parcourir en silence.
+</p>
+<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+Astuce pour conteur et conteuse : <strong>montrez les signaux de main</strong> pendant l’explication. 
+Une copie des règles figure aussi au dos de la feuille des Voyageurs, pratique quand vous terminez la mise en place.
 </p>
 
----
+<hr>
 
-## <span id="4-installer-la-place-du-village" style="color:#b58b52; font-weight:bold;">4️⃣ Installer la place du village</span>  
-
+<h2 id="roles" style="color:#b58b52; font-weight:bold;">6 Choisir secrètement les rôles</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Placez le plateau <strong>Town Square</strong> au centre.  
-- Mettez un <strong>jeton de vie</strong> par joueur à la position de leur siège.  
-- Placez une <strong>pile de jetons de vote</strong> au centre.  
-- Glissez la <strong>feuille des Voyageurs</strong> à moitié sous le plateau, visible.
+À partir de l’édition choisie, sélectionnez le bon nombre de <a href="./villageois.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Villageois</a>, 
+d’<a href="./etrangers.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Étrangers</a>, 
+de <a href="./sbires.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sbires</a> et de <a href="./demons.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Démons</a> 
+en suivant la feuille de setup. Faites tout cela <strong>en secret</strong>.
 </p>
-
----
-
-## <span id="5-lire-les-regles" style="color:#b58b52; font-weight:bold;">5️⃣ Lire les règles aux nouveaux joueurs</span>  
-
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-La feuille de <a href="./regles.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">règles</a> explique tout ce qu’un joueur débutant doit savoir.  
-Lisez-la à voix haute ou laissez les joueurs la parcourir.  
-💡 Montrez les <strong>signaux de main</strong> pendant votre explication — c’est plus visuel !  
-
-Il existe une <strong>copie</strong> des règles au dos de la feuille des Voyageurs, pratique pour qu’un joueur expérimenté la lise pendant que vous préparez la partie.
-</p>
-
----
-
-## <span id="6-choisir-les-roles" style="color:#b58b52; font-weight:bold;">6️⃣ Choisir secrètement les rôles</span>  
-
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Prenez les <a href="./villageois.html" style="color:#d4a76a; text-decoration:none; font-weight:bold;">Villageois</a> de l’édition choisie et sélectionnez-en le bon nombre selon la feuille de setup.  
-Faites de même pour les <a href="./etrangers.html" style="color:#d4a76a; text-decoration:none; font-weight:bold;">Étrangers</a>,  
-les <a href="./sbires.html" style="color:#d4a76a; text-decoration:none; font-weight:bold;">Sbires</a> et les <a href="./demons.html" style="color:#d4a76a; text-decoration:none; font-weight:bold;">Démons</a>.  
-Faites tout cela <strong>en secret</strong> — les joueurs ne doivent rien voir.
-</p>
-
-<blockquote style="color:#e0c99d; font-size:18px; line-height:1.7;">
-🔹 Si vous avez plus de 15 joueurs, les surplus deviennent des <a href="./voyageurs/voyageurs.html" style="color:#d4a76a; text-decoration:none; font-weight:bold;">Voyageurs</a>.  
-🔹 Pour une première partie, ne jouez pas avec les Voyageurs ni les Fables.
+<blockquote style="color:#e0c99d; font-size:18px; line-height:1.7; border-left:3px solid #b58b52; padding-left:12px;">
+Si vous avez plus de 15 personnes, les surplus deviennent des <a href="./voyageurs/voyageurs.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Voyageurs</a>.  
+Pour une première partie, évitez Voyageurs et Fables.
 </blockquote>
 
----
+<hr>
 
-## <span id="7-ajouter-ou-retirer-des-roles" style="color:#b58b52; font-weight:bold;">7️⃣ Ajouter ou retirer des rôles</span>  
-
+<h2 id="ajustements" style="color:#b58b52; font-weight:bold;">7 Ajouter ou retirer des rôles</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Certains jetons portent une <strong>fleur orange 🌼</strong> :  
-ils modifient la composition du jeu (par exemple le <a href="./tb_roles/baron.html" style="color:#d4a76a; text-decoration:none; font-weight:bold;">Baron [+2 Étrangers]</a>).  
-Appliquez ces changements immédiatement.  
-Le nombre total de jetons doit toujours correspondre au nombre de joueurs.
+Certains jetons portent une <strong>fleur orange</strong> : ils modifient la composition du jeu 
+(par exemple le <a href="./tb_roles/baron.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Baron [+2 Étrangers]</a>). 
+Appliquez ces changements immédiatement. Le total de jetons doit toujours correspondre au nombre de joueurs et joueuses.
 </p>
 
----
+<hr>
 
-## <span id="8-ajouter-les-jetons" style="color:#b58b52; font-weight:bold;">8️⃣ Ajouter les jetons de rappel</span>  
-
+<h2 id="rappels" style="color:#b58b52; font-weight:bold;">8 Ajouter les jetons de rappel</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Les jetons avec <strong>feuilles vertes 🌿</strong> indiquent combien de jetons de rappel doivent être ajoutés au Grimoire.  
-Exemple :  
-- L’<a href="./tb_roles/enqueteur.html" style="color:#d4a76a; text-decoration:none; font-weight:bold;">Enquêteur</a> 🕵️‍♂️ → ajoute 2 jetons “loupe”.
+Les jetons marqués de <strong>feuilles vertes</strong> indiquent combien de rappels placer dans le Grimoire. 
+Exemple : l’<a href="./tb_roles/enqueteur.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Enquêteur</a> nécessite deux rappels de « suspects ».
 </p>
 
----
+<hr>
 
-## <span id="9-distribuer-les-roles" style="color:#b58b52; font-weight:bold;">9️⃣ Distribuer les rôles</span>  
-
+<h2 id="distribution" style="color:#b58b52; font-weight:bold;">9 Distribuer les rôles</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Mélangez les jetons de rôle et placez-les dans le <strong>sac</strong>.  
-Chaque joueur tire un jeton <strong>en secret</strong>, sans le montrer à personne.
+Mélangez les jetons de rôle et placez-les dans le <strong>sac</strong>. 
+Chaque joueur ou joueuse tire un jeton <strong>en secret</strong> sans le montrer.
 </p>
 
----
+<hr>
 
-## <span id="10-placer-dans-le-grimoire" style="color:#b58b52; font-weight:bold;">🔟 Placer les jetons dans le Grimoire</span>  
-
+<h2 id="placer" style="color:#b58b52; font-weight:bold;">10 Placer les jetons dans le Grimoire</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Récupérez les jetons des joueurs et disposez-les dans le Grimoire <strong>selon l’ordre des sièges</strong>.  
-Assurez-vous que <strong>l’ordre horaire correspond</strong> à la disposition réelle.
+Récupérez les jetons et disposez-les dans le Grimoire <strong>selon l’ordre des sièges</strong>. 
+Vérifiez que l’ordre horaire affiché correspond à la disposition réelle du cercle.
 </p>
 
----
+<hr>
 
 <h2 style="color:#ffa64d; font-weight:bold; font-size:24px;">📂 Navigation</h2>
-
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
+  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li>🍺 <a href="./trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li>🌙 <a href="./bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
+  <li>💐 <a href="./sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
+  <li>🧭 <a href="./regles.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Règles du jeu</a></li>
+  <li>🧑‍🌾 <a href="./villageois.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Villageois</a></li>
+  <li>🌀 <a href="./etrangers.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Étrangers</a></li>
+  <li>😈 <a href="./sbires.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sbires</a></li>
+  <li>👹 <a href="./demons.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Démons</a></li>
+  <li>🧳 <a href="./voyageurs/voyageurs.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Voyageurs</a></li>
 </ul>
+
