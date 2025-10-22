@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: TeensyVille
+---
 
 <p align="left">
   <a href="/botc-fr-bambi/">
@@ -9,13 +12,13 @@
 # 🐥 <span style="color:#b58b52; font-weight:bold; font-size:36px;">Teensyville</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Moins de joueurs, mais tout autant de chaos.  
+  « Un petit Village à 5 ou 6 personnes mais tout autant de chaos.  
   À Teensyville, les secrets murmurent plus fort que les cris. »
 </p>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.8;">
 Bienvenue à <strong>Teensyville</strong> — un petit village situé à quelques jours de marche de <strong>Ravenswood Bluff</strong>.  
-C’est l’endroit idéal pour jouer à <em>Blood on the Clocktower</em> avec un petit groupe de <strong>5 ou 6 joueurs</strong>.  
+C’est l’endroit idéal pour jouer à <em>Blood on the Clocktower</em> avec un petit groupe de <strong>5 ou 6 joueurs ou joueuses</strong>.  
 Grâce à Teensyville, vous pouvez créer une infinité de variations du jeu classique !
 </p>
 
