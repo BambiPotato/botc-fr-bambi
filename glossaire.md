@@ -23,7 +23,7 @@
 <h2 id="a">🅰️ A</h2>
 
 **Alignement**  
-L’équipe dans laquelle évolue un joueur. L’alignement est soit bon, soit maléfique. Si un joueur change d’alignement, son rôle reste le même. Si un joueur change de rôle, son alignement reste le même. Les joueurs connaissent leur propre alignement.
+L’équipe dans laquelle évolue un joueur ou une joueuse. L’alignement est soit bon, soit maléfique. Si un joueur change d’alignement, son rôle reste le même. Si un joueur change de rôle, son alignement reste le même. Les joueurs connaissent leur propre alignement.
 
 **Allié**  
 Un joueur du même alignement.
@@ -39,7 +39,7 @@ Fin de la nuit, avant le lever du jour. Les rôles qui agissent « à l’aube �
 L’alignement bon. Les <a href="./villageois.html" style="color:blue; font-weight:bold; text-decoration:none;">Villageois</a> et les <a href="./etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Étrangers</a> (rôles bleus) commencent bons. Le Bien l’emporte si le Démon meurt.
 
 **Boîte du Grimoire**  
-Support du Conteur où sont disposés tous les jetons et rappels.
+Support des Conteuses et Conteurs où sont disposés tous les jetons et rappels.
 
 **Rôles du Bien**  
 Les <a href="./villageois.html" style="color:blue; font-weight:bold; text-decoration:none;">Villageois</a> et les <a href="./etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Étrangers</a>.
@@ -52,7 +52,7 @@ Les <a href="./villageois.html" style="color:blue; font-weight:bold; text-decora
 Pouvoir spécial (ou malus) d’un rôle, indiqué sur son jeton, sa feuille de rôles et son almanach. Le texte définitif de la capacité figure dans la section « Comment conter » de l’almanach. Les rôles n’ont aucune capacité lorsqu’ils sont morts, ivres ou empoisonnés.
 
 **Cercle du village**  
-Disposition des joueurs, en cercle ou en carré.
+Disposition des joueurs et des joueuses en cercle ou en carré.
 
 **Chaque nuit**  
 Chaque phase nocturne.
@@ -61,7 +61,7 @@ Chaque phase nocturne.
 Abréviation sur feuilles/jetons de rôles : « chaque phase de nuit sauf la première ».
 
 **Choisir**  
-Quand une capacité indique « choisir », c’est le joueur qui décide. Sinon, le choix revient au <a href="./conteur.html" style="color:#d4a76a; text-decoration:none;">Conteur</a>.
+Quand une capacité indique « choisir », c’est le joueur ou la joueuse qui décide. Sinon, le choix revient au <a href="./conteur.html" style="color:#d4a76a; text-decoration:none;">Conteur</a>.
 
 **Clocktower** 
 Blood🩸 on Clocktower, le plus grand jeu de bluff au monde !
@@ -105,13 +105,15 @@ Un ensemble de rôles + feuille de rôles + almanach (ex. : 🍺 <a href="./trou
 Subit les mêmes effets qu’un joueur ivre, mais à cause d’un <span style="color:red; font-weight:bold;">Sbire</span>.
 
 **En vie**  
-Un joueur qui n’est pas mort. Il conserve sa capacité, peut nominer et voter autant de fois qu’il le souhaite. La partie continue tant qu’il reste au moins trois joueurs en vie.
+Représente toutes les personnes qui ne sont pas mortes. 
+Les joueurs et les joueuses conservent leur capacité, peuvent nominer et voter autant de fois qu’ils ou elles le souhaitent. 
+La partie continue tant qu’il reste au moins trois personnes en vie.
 
 **En jeu**  
 Un rôle présent dans la partie (vivant ou mort).
 
 **Équipe**  
-Tous les joueurs partageant un alignement. « Votre équipe » = vous + les joueurs du même alignement.
+Tous les joueurs et toutes les joueuses partageant un alignement. « Votre équipe » = vous + les joueurs du même alignement.
 
 **État**  
 Statut actuel d’un joueur : ivre/sobre, empoisonné/sain, vivant/mort, fou/sain d’esprit.
@@ -120,10 +122,10 @@ Statut actuel d’un joueur : ivre/sobre, empoisonné/sain, vivant/mort, fou/sai
 <a href="./etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Étrangers</a> : rôles bons avec un handicap/effet perturbant pour le village.
 
 **Exécution**  
-Décision collective de tuer un(e) joueur(se) autre qu'un Voyageur pendant la journée. Il y a un maximum d'une exécution par jour, mais aucune n'est autorisée. Un joueur désigné est exécuté s'il a obtenu au moins la moitié des votes des joueurs en vie et plus de votes que tout autre joueur(se) désigné.
+Décision collective de tuer une joueuse autre qu'un Voyageur pendant la journée. Il y a un maximum d'une exécution par jour, mais aucune n'est autorisée. Un joueur désigné est exécuté s'il a obtenu au moins la moitié des votes des joueurs ou des joueuses en vie et plus de votes que tout autre personne désignée.
 
 **Exil**  
-Élimination d’un <a href="./voyageurs/voyageurs.html" style="color:purple; font-weight:bold; text-decoration:none;">Voyageur</a>. Décision indépendante des capacités. Il peut y en avoir plusieurs par jour. Ce n’est pas une exécution. ➡️ Voir « Vote » et « Exécution ».
+Élimination d’un <a href="./voyageurs/voyageurs.html" style="color:purple; font-weight:bold; text-decoration:none;">Voyageur et Voaygeuse</a>. Décision indépendante des capacités. Il peut y en avoir plusieurs par jour. Ce n’est pas une exécution. ➡️ Voir « Vote » et « Exécution ».
 
 ---
 
