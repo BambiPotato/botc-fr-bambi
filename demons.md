@@ -43,7 +43,7 @@ sauf cas particuliers comme celui de la <a href="./tb_roles/femmeecarlate.html" 
 
 <h2 style="color:#b58b52; font-weight:bold;">💡 Conseils pour conteur et conteuse</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Lorsqu’un ou une Démon·e agit, veillez à :
+Lorsqu’un Démon agit, veillez à :
 </p>
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:24px;">
   <li>préserver le suspense en gérant le rythme des nuits ;</li>
