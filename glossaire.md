@@ -1,3 +1,8 @@
+---
+layout: default
+title: Glossaire
+---
+
 
 <p align="left">
   <a href="/botc-fr-bambi/">
