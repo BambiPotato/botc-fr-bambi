@@ -129,7 +129,7 @@ Objectif&nbsp;: créer une partie dynamique avec forts retournements et informat
     <li>Informations fortes mais discutables via des rôles commes <a href="./sv_roles/savant.html" style="color:blue; font-weight:bold; text-decoration:none;">Savant</a> et <a href="./sv_roles/fleuriste.html" style="color:blue; font-weight:bold; text-decoration:none;">Fleuriste.</a></li> 
     <li>Désinformation active via un <a href="./sv_roles/vortox.html" style="color:red; font-weight:bold; text-decoration:none;">Vortox</a></li> et <a href="./sv_roles/cerenovus.html" style="color:red; font-weight:bold; text-decoration:none;">Cerenovus</a></li> 
     <li>Chaos contrôlé et surprises via la <a href="./sv_roles/pithag.html" style="color:red; font-weight:bold; text-decoration:none;">Pit-Hag</a></li> 
-    <li>Fin de partie tendue grâce au vote unique des morts et aux doutes persistants.</a></li> 
+    <li>Une Fin de partie tendue grâce au vote unique des morts et aux doutes persistants.</a></li> 
     
 </div>
 
