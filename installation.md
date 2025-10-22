@@ -108,7 +108,7 @@ en suivant la feuille de setup. Faites tout cela <strong>en secret</strong>.
 </p>
 <blockquote style="color:#e0c99d; font-size:18px; line-height:1.7; border-left:3px solid #b58b52; padding-left:12px;">
 Si vous avez plus de 15 personnes, les surplus deviennent des <a href="./voyageurs/voyageurs.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Voyageurs</a>.  
-Pour une première partie, évitez Voyageurs et Fables.
+Pour une première partie, évitez Voyageurs et Légendaires.
 </blockquote>
 
 <hr>
