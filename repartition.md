@@ -6,12 +6,12 @@
 
 
 
-# ⚖️ Répartition du Village</span>
+# ⚖️ Répartition du Village
 
-<span style="color:#b58b52; Selon le nombre de joueurs et joueuses, la composition des rôles change.
-Voici la configuration officielle : </span>]
+Selon le nombre de joueurs et joueuses, la composition des rôles change.
+Voici la configuration officielle : 
 
-| <span style="color:b58b52>Nombre de joueurs et joueuses</span>
+| Nombre de joueurs et joueuses
  | [<span style="color:blue">Villageois</span>](villageois.md)  ![Townsfolk](images/Generic_townsfolk.png) | [<span style="color:blue">Étrangers</span>](etrangers.md)  ![Outsider](images/Generic_outsider.png) |[<span style="color:red">Sbires</span>](sbires.md)  ![Minion](images/Generic_minion.png) | [<span style="color:red">Démons</span>](demons.md) ![Demon](images/Generic_demon.png) |
 | ----------------------------- | ----------------------------------------------------- | -------------------------------------------------- | ------------------------------------------- | ----------------------------------------- |
 | 5                             | 3                                                     | 0                                                  | 1                                           | 1                                         |
