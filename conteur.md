@@ -7,626 +7,421 @@
 
 
 
-# 🧙‍♂️ <span style="color:#d4a76a; font-weight:bold; font-size:36px;">Le Rôle du Conteur</span>
+<!-- ========================= -->
+<!-- Rôle du Conteur et de la Conteuse -->
+<!-- ========================= -->
+
+<h1 style="font-size:36px; font-weight:bold;">
+  🧙‍♂️ <span style="color:#d4a76a;">Rôle du Conteur et de la Conteuse</span>
+</h1>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Celle ou celui qui tisse les fils du destin, et veille à ce que chaque partie reste magique. »
 </p>
 
----
-
-## 📑 <span style="color:#b58b52;">Sommaire</span>
-
-1. [Faire fonctionner les choses en douceur](#1-faire-fonctionner-les-choses-en-douceur)  
-2. [Rendre le jeu amusant](#2-rendre-le-jeu-amusant)  
-3. [Le Script](#3-le-script)  
-4. [Faire grandir votre communauté Clocktower](#4-faire-grandir-votre-communauté-clocktower)  
-
-## 1. Faire fonctionner les choses en douceur
-
-En tant que <span style="color:#d4a76a; font-weight:bold;">Conteur·euse</span>, votre rôle est de faire tourner la partie sans accroc, tout en gardant la fluidité et la magie du jeu.  
-Votre objectif n’est pas seulement de faire respecter les règles, mais aussi de vous assurer que chaque joueur·euse vit une expérience mémorable, cohérente et amusante.
-
----
-
-### 🎯 Mettre fin à la partie au bon moment
-
-Vous pouvez déclarer la fin du jeu **dès qu’une victoire est certaine** pour une équipe.  
-Par exemple, si tous les joueur·euse·s restants sont des <span style="color:red;">maléfiques</span>, alors le <span style="color:blue;">Bien</span> ne peut plus nominer le <span style="color:red;">Démon</span> : le <span style="color:red;">Mal</span> gagne.
-
-Souvent, lorsqu’il reste **quatre joueur·euse·s vivant·e·s**, et que les bons exécutent quelqu’un qui n’est pas <span style="color:red;">maléfique</span>, vous pouvez **terminer la partie immédiatement**.  
-S’il ne reste plus que trois personnes ensuite, le <span style="color:red;">Démon</span> tuera l’une d’elles pendant la nuit — ce qui rendrait la suite automatique.  
-Mais attention : si un <a href="./tb_roles/moine.html" style="color:blue;">Moine</a> ou un <a href="./tb_roles/soldat.html" style="color:blue;">Soldat</a> est encore en vie, le <span style="color:red;">Démon</span> pourrait échouer à tuer cette nuit-là, entraînant une journée supplémentaire.
-
-👉 Utilisez votre **jugement de Conteur·euse** : si une possibilité de retournement existe, même infime, laissez la partie continuer.
-
----
-
-### 👁️ Confirmer les choix des joueur·euse·s
-
-Pendant la nuit, lorsque les joueur·euse·s font un choix, **confirmez-le avec un geste clair** (pointez du doigt vers le bas).  
-Certain·e·s pointent trop vite, ou d’un angle ambigu : plutôt que de deviner, **déplacez-vous** vers la personne qu’ils semblent viser, **pointez clairement vers elle**, et attendez leur hochement de tête pour valider.  
-Puis hochez la tête en retour pour confirmer votre compréhension.  
-
-➡️ Cette simple habitude évite les malentendus qui peuvent tout gâcher.
-
----
-
-### 🕴️ Se déplacer discrètement la nuit
-
-Vos mouvements peuvent révéler des indices sans que vous le vouliez.  
-Si vous marchez toujours vers la même zone du cercle au début de chaque nuit, ou si vos chaussures font du bruit, les joueur·euse·s pourraient remarquer un schéma et **déduire la position du <span style="color:red;">Démon</span>**.
-
-💡 Pour éviter cela : variez vos déplacements, faites quelques pas “gratuits” de temps en temps, et changez de rythme.  
-Ainsi, les joueur·euse·s ne pourront jamais relier un bruit ou un mouvement à une action spécifique.
-
----
-
-### 🎲 Manipuler les jetons du Grimoire
-
-Vous devriez souvent déplacer des jetons (par exemple quand un <a href="./tb_roles/mercenaire.html" style="color:blue;">Mercenaire</a> ou un <a href="./sv_roles/jongleur.html" style="color:blue;">Jongleur</a> agit).  
-Quand un·e joueur·euse <span style="color:red;">maléfique</span> bluffe en prétendant être l’un·e d’eux·elles, **faites semblant** de manipuler les jetons de la même manière.  
-Ainsi, même les vétéran·e·s ne pourront pas deviner qui bluffe ou non en observant vos gestes.
-
----
-
-### 🤫 Réveiller les bons joueur·euse·s discrètement
-
-Réveillez les joueur·euse·s par un **tapotement doux** sur l’épaule ou le genou.  
-Si votre geste fait du bruit, les voisin·e·s pourraient entendre et en déduire quelque chose.  
-Si la personne porte des vêtements épais et ne ressent pas les tapotements légers, pressez votre main deux fois pour qu’elle comprenne.
-
----
-
-### 📖 Garder le Grimoire stable
-
-Gardez toujours le Grimoire à plat.  
-Les bords surélevés servent à cacher son contenu, mais si vous l’inclinez trop, un·e joueur·euse pourrait **voir les jetons à l’intérieur**.  
-Assurez-vous que les joueur·euse·s soient assis·es légèrement plus bas que le niveau du Grimoire.
-
-Tenez-le par sa **colonne centrale**, au-dessus ou en dessous : vous garderez ainsi une main libre pour déplacer les jetons.  
-Ne le tenez jamais uniquement par les bords, sinon le livre pourrait se refermer brusquement et envoyer les jetons voler !
-
----
-
-### 🎒 Transporter votre Grimoire
-
-Portez le Grimoire **dos vers le bas**, surtout si vous le rangez dans un sac.  
-Cela évite que les coins de la boîte s’abîment et garde le jeu en bon état.
-
----
-
-### 📢 Être vu·e et entendu·e
-
-Pendant les moments importants (votes, compte à rebours, annonces), avancez dans le cercle pour que tout le monde puisse vous voir et vous entendre.  
-Vous n’avez pas besoin d’occuper la scène : votre rôle est de guider, pas de dominer — mais **votre présence centrale** signale aux joueur·euse·s que quelque chose d’important se passe.
-
----
-
-### ⚖️ Gérer les erreurs
-
-Vous ferez forcément des erreurs, comme tous les <span style="color:#d4a76a;">Conteur·euse·s</span>.  
-Peut-être avez-vous laissé le <a href="./tb_roles/soldat.html" style="color:blue;">Soldat</a> mourir par erreur ?  
-Ou oublié que le <a href="./tb_roles/maire.html" style="color:blue;">Maire</a> était en réalité un <a href="./tb_roles/ivrogne.html" style="color:blue;">Ivrogne</a> ?  
-Ce n’est pas grave. Continuez simplement la partie.
-
-Si votre erreur a avantagé l’équipe gagnante, **présentez vos excuses à l’autre équipe**.  
-Si elle a avantagé les perdants, **félicitez davantage les vainqueur·euse·s**.  
-Et surtout : ne tentez pas de “compenser” l’erreur en trichant pour rééquilibrer le jeu.
-
-Vous pouvez dire au groupe que vous avez commis une erreur, sans expliquer laquelle — cela garde la transparence sans révéler trop d’informations.
-
----
-
-### 😴 Oublier de réveiller un·e joueur·euse
-
-Si vous oubliez de réveiller un·e joueur·euse pendant la nuit (par exemple un <a href="./tb_roles/majordome.html" style="color:blue;">Majordome</a>), deux solutions s’offrent à vous :  
-- remettre tout le monde “à dormir” et **réveiller seulement** la personne concernée,  
-- ou lui parler en privé le matin suivant pour résoudre sa capacité.
-
-➡️ Si l’erreur est réparable, faites-le. Mieux vaut un petit ajustement que de créer une injustice.
-
----
-
-### 🕰️ Prenez votre temps
-
-Un·e bon·ne <span style="color:#d4a76a;">Conteur·euse</span> n’est **jamais pressé·e**.  
-Pendant la phase de nuit, installez-vous, respirez, vérifiez deux fois l’ordre d’action.  
-Si vous sentez la pression ou la confusion : **ralentissez**.  
-Mieux vaut une nuit un peu longue qu’une erreur de jugement.
-
----
-
-### 🗣️ Répondre aux questions
-
-Répondez **en privé** aux questions des joueur·euse·s, surtout quand elles concernent leur rôle.  
-Vous pourrez être plus honnête sans donner d’indices au reste du groupe.
-
-Si vous répondez publiquement, **ne citez jamais le nom du rôle**, seulement celui du joueur·euse.  
-Exemple :  
-> ❌ Mauvais : “L’<a href="./tb_roles/empathique.html" style="color:blue;">Empathique</a> voulait savoir…”  
-> ✅ Bon : “Cédric voulait savoir…”  
-
-Cela évite de confirmer accidentellement l’identité d’un rôle.
-
----
-
-### 🤐 Empêcher les discussions prématurées
-
-Avant la première nuit, rappellez aux joueurs et aux joueuses **de ne pas révéler leur rôle**.  
-Cela mettrait une pression injuste sur le <span style="color:red;">Démon</span>, qui n’a pas encore reçu ses trois bluffs.  
-Même si le jeu dit “vous pouvez dire ce que vous voulez à tout moment”, il est parfois nécessaire d' **interdire cette discussion initiale**.
-
-Si ce problème revient souvent, introduisez un <a href="./legendaires.html" style="color:#b58b52;">Légendaire</a> comme le <span style="color:#b58b52; font-weight:bold;">Bibliothécaire de l’Enfer</span>, qui interdit ces échanges prématurés.
-
----
-
-### 🌙 Silence pendant la nuit
-
-Pendant la nuit, les joueurs doivent rester silencieux.  
-Si certains **commentent leurs actions à voix haute** (“Je me réveille, je regarde, je choisis...”), cela ruine le bluff des <span style="color:red;">maléfiques</span>.  
-Rappellez gentiment à tous et toutes que **la nuit est un moment de silence total**, ou, si besoin, faites intervenir un <a href="./legendaires.html" style="color:#b58b52;">Légendaire</a> comme le <span style="color:#b58b52; font-weight:bold;">Bibliothécaire de l’Enfer</span>pour faire respecter cette règle.
-
----
-
-### 🪑 Garder tout le monde dans le cercle
-
-Les joueurs(ses) doivent rester autour du cercle pendant la partie.  
-Cela facilite les nominations et favorise les échanges entre anciens et nouveaux.  
-Évitez que les vétérans s’isolent ou que les nouveaux se retrouvent seuls : votre rôle est de **maintenir la cohésion**.
-
----
-
-### 📘 Relire les rôles en jeu
-
-Pendant la journée, profitez des moments calmes pour relire les jetons de rôles en jeu.  
-Cela vous aidera à mieux comprendre les interactions entre eux, surtout quand vous découvrez une nouvelle édition.  
-Chaque rôle est une pièce du puzzle : plus vous les maîtrisez, plus tes parties seront fluides.
-
----
-
-## 2. Rendre le jeu amusant
-
-Votre rôle de <span style="color:#d4a76a;">Conteur</span> ne s’arrête pas à faire fonctionner le jeu :  
-Vous êtes aussi le ou la **metteur en scène** de l’ambiance, celui ou celle qui donne du rythme et de la vie à chaque partie.  
-C’est vous qui insufflez humour, tension, et émotions dans le village.
-
----
-
-### ⚔️ Rendre les exécutions mémorables
-
-Juste avant qu’un joueur(se) soit exécuté(e), vous pouvez lui demander :  
-> 🩸 « Comment veux-tu mourir ? »
-
-Ce simple geste transforme un moment mécanique en une scène vivante.  
-Certains voudront une mort héroïque, d’autres comique ou poétique.  
-Par exemple :
-
-> 👤 Vanessa : « Je veux être poussée du haut du clocher en riant ! »  
-> 👤 Cédric : « Je trébuche sur mon propre mensonge ! »
-
-Vous pouvez ensuite **narrer brièvement la scène** :  
-> « Le village se réunit au pied du clocher… un rire résonne dans la nuit… puis un cri, et le silence retombe. »
-
-💡 Gardez toujours un ton **léger et humoristique**.  
-Évitez les descriptions morbides, sexuelles ou trop personnelles : vous voulez des rires, pas des malaises.
-
----
-
-### 🎙️ Raconter l’histoire
-
-Libre à vous de narrer plus ou moins selon votre style.  
-Une simple phrase d’intro comme  
-> *« La brume descend sur Ravenswood Bluff, et le clocher sonne minuit… »*  
-peut suffire à plonger tout le monde dans l’ambiance.
-
-Vous pouvez aussi **improviser** lors des morts nocturnes ou des annonces publiques.  
-Mais si vous préfèrez rester sobre, c’est tout aussi bien : le jeu fonctionne même avec un Conteur silencieux.  
-L’important, c’est de garder le rythme et de laisser les joueurs vivre l’histoire.
-
----
-
-### 🚫 Ne jamais briser les règles
-
-Aussi tentant que cela puisse être, **ne change jamais les règles**.  
-Ne décidez pas qu’un joueur meurt “pour le fun” ou que le <span style="color:red;">Démon</span> soit absent “pour pimenter la partie”.  
-Les <span style="color:blue;">Bons</span> comptent sur les informations logiques pour raisonner.  
-S’ils découvrent que leurs déductions reposaient sur des données fausses ou arbitraires, le plaisir s’effondre.  
-
-🧩 Si vous voulez expérimenter, faites-le via les bons outils :  
-il existe **plus de 200 rôles** officiels et fan-made qui vous permettent toutes les folies, mais de manière équilibrée.
-
----
-
-### 🧠 Laisser les joueurs et les joueuses décider
-
-Même quand les choix semblent absurdes, **ne les influencez pas**.  
-Un <a href="./tb_roles/voyante.html" style="color:blue;">Voyante</a> peut choisir les mêmes personnes chaque nuit.  
-Un <a href="./tb_roles/moine.html" style="color:blue;">Moine</a> peut protéger un mort.  
-Un <span style="color:red;">Démon</span> peut attaquer un <a href="./tb_roles/gardien.html" style="color:blue;">Gardien</a> révélé.
-
-Vous ne savez jamais leurs véritables intentions — peut-être testent-ils une hypothèse ou bluffent-ils volontairement.  
-Ne les orientez pas vers ce que *vous* vous pensez être “optimal”.  
-Leur stratégie leur appartient, et c’est ce qui rend le jeu passionnant.
-
----
-
-### 🚨 Gérer les comportements négatifs
-
-Il arrivera qu’un joueur parle sèchement, hausse le ton ou se montre dominateur.  
-Dans ce cas, **interviens avec calme** :  
-prenez la personne à part et expliquez-lui que son comportement rend peut-être d’autres mal à l’aise.  
-Soulignez que vous critiquez le **comportement**, pas la **personne**.
-
-La plupart des joueurs(ses) corrigeront naturellement leur attitude une fois conscients du problème.
-
----
-
-### ⛔ Les comportements inacceptables
-
-Certaines attitudes ne doivent **jamais** être tolérées :  
-- insultes, moqueries, agressions verbales  
-- menaces, chantage émotionnel ou ton humiliant  
-- simulation d’offense pour manipuler la partie  
-
-🎯 Votre objectif : maintenir une ambiance **sûre, respectueuse et amusante**.  
-Si un joueur ou une joueuse abuse de la confiance du groupe ou crée un climat toxique, il vaut mieux **l’écarter temporairement** de tes futures parties.
-
----
-
-### ⚖️ Juger ce qui est acceptable
-
-Chaque groupe a ses limites.  
-Un ton taquin ou quelques jurons peuvent passer dans un cercle d’habitués,  
-mais si une personne se sent blessée, mal à l’aise ou exclue, **le jeu a échoué dans son but premier** : rassembler.
-
-Les thèmes tabous (mort, religion, sexualité, occultisme…) peuvent déranger certaines personnes.  
-À vous d’ajuster le ton et le choix des rôles en fonction du public.  
-
-Vous pouvez créer des **scripts personnalisés** excluant certains rôles sensibles :  
-voir la section [📜 Le Script](#3-le-script).
-
----
-
-### 🫶 Aider les joueurs et joueuses timides
-
-Les plus discrets adorent souvent *Blood 🩸 on the Clocktower*, mais peuvent avoir du mal à prendre la parole.  
-Si vous voyez qu’un joueur ou qu'une joueuse reste silencieux(se), offrez-lui **un moment pour s’exprimer** :
-
-> « Vanessa, tu veux partager ton avis avant qu’on vote ? »
-
-Ne le forcez jamais — propose simplement.  
-Cela leur donnera confiance au fil des parties.
-
-💬 Petit à petit, tu verras ces joueurs devenir des piliers du groupe.
-
----
-
-### 💬 Gérer les bavards
-
-Les bavards font partie du charme de Clocktower.  
-Mais si un joueur ou une joueuse parle trop, **ne le faites pas taire seul(e)** : faites taire tout le groupe.  
-Ainsi, il ne se sentira pas visé ou puni injustement.  
-
-Rappellez-vous : Clocktower est un jeu de conversation —  
-le silence n’a de sens que s’il sert à donner la parole à quelqu’un d’autre.
-
----
-
-### 🔥 Prolonger le plaisir jusqu’au bout
-
-Une bonne partie de Clocktower se joue souvent jusqu’au **dernier jour**.  
-C’est là que la tension est à son comble : trois survivants, un seul vote décisif.  
-Essayez d’amener vos joueurs(ses) jusque-là. — c’est le moment où les cris, les doutes et les applaudissements explosent !
-
----
-
-### 💪 Soutenir l’équipe la plus faible
-
-Vous ne pouvez pas tricher, mais vous pouvez **équilibrer subtilement** la partie.  
-Exemples :
-
-- Si les <span style="color:red;">Maléfiques</span> écrasent les <span style="color:blue;">Bons</span> :  
-  donne parfois de **vraies infos** à un <a href="./tb_roles/ivrogne.html" style="color:blue;">Ivrogne</a> ou fais qu’un <a href="./tb_roles/espion.html" style="color:red;">Espion</a> exécuté soit reconnu comme tel.
-
-- Si les <span style="color:blue;">Bons</span> dominent :  
-  brouillez les pistes avec de **fausses infos** données à une <a href="./tb_roles/voyante.html" style="color:blue;">Voyante</a> ou un <a href="./sv_roles/savant.html" style="color:blue;">Savant</a>.
-
-Votre objectif : créer une **tension dramatique**, pas un résultat prévisible.
-
----
-
-### 🎭 Aider les bluffeurs
-
-Quand les <span style="color:red;">Sbires</span> ou le <span style="color:red;">Démon</span> bluffent, **faites tout votre possible pour rendre leur mensonge crédible**.  
-Par exemple :
-
-- Si le <span style="color:red;">Démon</span> prétend être un <a href="./tb_roles/mercenaire.html" style="color:blue;">Mercenaire</a>, mime que vous vérifiez une cible.  
-- Si un <a href="./tb_roles/espion.html" style="color:red;">Espion</a> se fait passer pour une <a href="./tb_roles/voyante.html" style="color:blue;">Voyante</a>, et qu’un <a href="./tb_roles/gardien.html" style="color:blue;">Gardien</a> le choisit, faites comme si vous confirmiez son résultat.
-
-Les <span style="color:red;">Maléfiques</span> comptent sur vous pour donner vie à leur bluff.  
-Aidez-les à mentir avec style !
-
----
-
-### 🎇 Célébrer la victoire
-
-Quand la partie se termine, **annoncez la victoire avec panache** !  
-Pas un simple “le Mal gagne”. Non.  
-Faites une pause dramatique, attirez les regards, puis proclamez :
-
-> 🩸 “Le clocher résonne une dernière fois… et le Mal triomphe !”
-
-Encouragez les félicitations, les rires, les câlins et les high-fives.  
-Après tout, c’est **leur moment**.
-
----
-
-### 🌈 Encourager la créativité
-
-Clocktower est un jeu où **tout est possible** :  
-mensonges, ruses, théâtre, stratégie… ou pure improvisation.  
-
-Laissez les joueurs et les joueuses inventer :  
-- des signaux secrets,  
-- des mensonges audacieux,  
-- des alliances étranges…  
-
-Tant que le ton reste **respectueux et amusant**, **dites oui** à la créativité.
-
-⚠️ Refusez seulement les comportements nuisibles :  
-chantage, paris réels, pressions sociales hors jeu, etc.  
-Mais si une idée sort de l’ordinaire et fait rire tout le monde : encouragez-la !
-
----
-
-### 😈 Réunir les Maléfiques
-
-Réveiller ensemble le <span style="color:red;">Démon</span> et les <span style="color:red;">Sbires</span> au début peut être une belle expérience.  
-Leur permettre un contact visuel crée une **connivence diabolique**.  
-
-Attention toutefois : certains rôles (comme le <a href="./bmr_roles/lunatique.html" style="color:blue;">Lunatique</a> ou le <a href="./exp_roles/magicien.html" style="color:blue;">Magicien</a>) exigent qu’ils soient réveillés séparément.  
-Adapte-toi selon le script utilisé.
-
----
-
-### 💭 Le Conteur, équilibriste et narrateur
-
-Vous êtes là pour **amuser, surprendre et équilibrer**.  
-Mais souviens-toi :  
-> “Juste parce que vous *pouvez* faire quelque chose ne veut pas dire que vous *devez* le faire.”
-
-Chaque décision doit servir **le plaisir collectif** avant tout.  
-Vous pouvez semer la confusion, oui — mais jamais la frustration.  
-Soyez le fil invisible qui relie les émotions, les doutes et les éclats de rire.
-
-
----
-
-## 3. Le Script
-
-Créer votre propre **script** est l’un des grands plaisirs du rôle de <span style="color:#d4a76a;">Conteur·euse</span>.  
-Une fois que vous maîtrisez les rôles des trois éditions principales —  
-<a href="./trouble_brewing.html" style="color:#b58b52;">Trouble Brewing</a>,  
-<a href="./bmr.html" style="color:#ffa64d;">Bad Moon Rising</a> et  
-<a href="./sv.html" style="color:#d67bff;">Sects & Violets</a> —  
-vous pouvez imaginer vos propres combinaisons et aventures.
-
----
-
-### 🧩 Composer votre script
-
-Avez-vous des rôles favoris que vous aimez placer dans presque chaque partie ?  
-Ou des associations d’effets qui pourraient créer des situations amusantes ou redoutables ?  
-
-Par exemple, un script réunissant un <a href="./sv_roles/pit-hag.html" style="color:red;">Pit-Hag</a>, un <a href="./tb_roles/saint.html" style="color:blue;">Saint</a>, un <a href="./sv_roles/jumeau_maléfique.html" style="color:red;">Jumeau Maléfique</a> et un <a href="./bmr_roles/aubergiste.html" style="color:blue;">Aubergiste</a> ?  
-Ou encore une combinaison du <a href="./bmr_roles/maladroit.html" style="color:blue;">Maladroit</a> et de l’<a href="./tb_roles/espion.html" style="color:red;">Espion</a> ?  
-Si vous avez une connexion internet, vous pouvez créer cela très simplement.
-
-Rendez-vous sur [**script.bloodontheclocktower.com**](https://script.bloodontheclocktower.com)  
-et sélectionnez les rôles que vous souhaitez inclure.  
-L’outil générera automatiquement une **feuille de nuit personnalisée**, prête à l’emploi pour votre partie.
-
----
-
-### 🧠 Comparer et améliorer vos créations
-
-Comparer des scripts entre <span style="color:#d4a76a;">Conteur·euse·s</span> est une excellente façon d’apprendre et de progresser.  
-Commencez par un petit ensemble de rôles cohérents, puis élargissez au fur et à mesure.  
-
-💬 De nombreuses communautés (sur le site officiel, Facebook ou Discord) échangent leurs scripts et leurs idées.  
-N’hésitez pas à y participer — l’échange d’expériences est une source d’inspiration précieuse.
-
----
-
-### 🧳 Intégrer les Voyageur·euse·s
-
-Ajouter des <a href="./voyageurs/voyageurs.html" style="color:purple;">Voyageur·euse·s</a> à une partie personnalisée est simple.  
-Certain·e·s s’adapteront parfaitement à votre script, d’autres un peu moins.  
-Vous pouvez en préparer une sélection avant la partie, ou décider spontanément selon l’ambiance.
-
-Les Voyageur·euse·s apportent souvent une touche inattendue et créent des rebondissements réjouissants.
-
----
-
-### 💫 Utiliser les Légendaires pour équilibrer le jeu
-
-Certain·e·s <a href="./legendaires.html" style="color:#b58b52;">Légendaires</a> sont conçus spécialement pour **aider à créer des parties uniques et harmonieuses**.  
-Ils permettent d’ajuster le nombre d’<a href="./etrangers.html" style="color:blue;">Étrangers</a>, d’ajouter de la désinformation quand nécessaire, ou encore de résoudre les conflits entre pouvoirs.
-
-Créer votre propre édition est un art : cela demande du temps, des essais et de l’intuition.  
-Heureusement, les Légendaires sont là pour vous épauler dans cette tâche.
-
----
-
-### 🌀 Gérer les interactions complexes
-
-Quand vous mélangez des dizaines de rôles, des situations étranges surviendront :  
-un <span style="color:red;">Saint</span> maléfique, deux <a href="./sv_roles/philosophe.html" style="color:blue;">Philosophes</a> voulant devenir le même rôle, ou des effets contradictoires.
-
-🎯 Dans ces cas-là :  
-- utilisez **votre meilleur jugement**,  
-- prenez une décision claire,  
-- et **expliquez aux joueur·euse·s** que vous rendez un arbitrage.  
-
-Votre décision n’est peut-être pas parfaite, mais elle doit être **cohérente et transparente**.
-
----
-
-### 🏘️ Découvrir *Teensyville*
-
-Non loin de Ravenswood Bluff se trouve **Teensyville**, un mode de jeu pensé pour les petits groupes (5 à 6 joueur·euse·s).  
-L’outil de script permet aussi de créer des parties spéciales pour ce format.  
-Comme il y a moins de rôles, les participant·e·s peuvent plus facilement anticiper et bâtir leurs stratégies.  
-
-🎲 Teensyville est idéal pour les soirées rapides ou pour initier de nouveaux joueur·euse·s à l’univers de *Blood on the Clocktower*.
-
----
-
-### 💡 Conseils finaux
-
-Créer un bon script, c’est équilibrer le **plaisir**, la **tension** et la **cohérence**.  
-Évitez de surcharger en pouvoirs puissants ou en rôles perturbateurs.  
-Chaque partie doit rester lisible pour que la déduction et le bluff brillent à parts égales.
-
-👉 Testez, ajustez, observez.  
-Et surtout : amusez-vous à voir comment vos créations prennent vie entre les mains de vos joueur·euse·s !
-
-
----
-
-## 4. Faire grandir votre communauté *Clocktower*
-
-Plus il y a de monde autour de votre tour de l’horloge, plus la partie sera vivante, variée et mémorable.  
-En tant que <span style="color:#d4a76a;">Conteur·euse</span>, vous êtes souvent le·la moteur·rice de cette dynamique :  
-celle ou celui qui donne envie de revenir jouer, de rire, et d’inviter des ami·e·s à découvrir le jeu.
-
----
-
-### 🤝 Créer et entretenir un groupe
-
-Une communauté de *Blood on the Clocktower* se construit avec le temps et la régularité.  
-Plus vos rencontres sont fréquentes et conviviales, plus les joueur·euse·s s’impliquent.
-
-💬 Pour trouver de nouveaux·elles participant·e·s :  
-- rejoignez ou créez un groupe local sur **Facebook** ou **Discord**,  
-- cherchez des joueur·euse·s via **Meetup** ou dans des **cafés ludiques**,  
-- ou organisez simplement des soirées chez vous, autour d’un bon repas.
-
-Chaque nouvelle personne qui découvre *Clocktower* peut devenir un·e futur·e passionné·e — ou même un·e futur·e Conteur·euse.
-
----
-
-### 🧭 Encourager les joueur·euse·s à conter
-
-Une fois que vous maîtrisez les bases, laissez d’autres joueur·euse·s essayer le rôle de <span style="color:#d4a76a;">Conteur·euse</span>.  
-Ils·elles apprendront à gérer les règles, à équilibrer les parties et à comprendre les mécaniques plus finement.
-
-Proposez-leur de conter à vos côtés sur une partie, puis laissez-les diriger la suivante pendant que vous les accompagnez.  
-C’est une excellente manière de **renforcer la cohésion** du groupe et de **diversifier les styles de jeu**.
-
----
-
-### 🌱 Être un·e meneur·euse bienveillant·e
-
-En tant que Conteur·euse, vous incarnez souvent une figure d’organisation.  
-Les joueur·euse·s se tournent vers vous pour connaître les horaires, les lieux, ou simplement pour s’intégrer.  
-
-Restez **accueillant·e et à l’écoute** :  
-- adaptez les parties au rythme et au niveau du groupe,  
-- veillez à ce que chacun·e ait sa place,  
-- valorisez les nouvelles personnes sans négliger les vétéran·e·s.
-
-Une communauté durable repose avant tout sur **le respect et la bonne humeur**.
-
----
-
-### 💬 Aider les nouvelles personnes à débuter
-
-Les premières parties peuvent être déroutantes.  
-Entre les rôles, les bluffs et les discussions, les débutant·e·s peuvent vite se sentir dépassé·e·s.  
-
-💡 Donnez-leur des repères simples :  
-- expliquez les règles essentielles calmement,  
-- laissez-les poser leurs questions,  
-- et rappelez qu’il est **normal de se tromper**.
-
-Encouragez aussi les joueur·euse·s expérimenté·e·s à accompagner les nouveaux·elles sans les noyer sous les conseils.  
-Un excès d’informations ou de stratégies tue souvent la spontanéité.
-
----
-
-### 🧠 Transmettre les bases sans surcharger
-
-Les règles de base suffisent pour jouer une première partie.  
-Les notions plus complexes — ivresse, folie, interactions rares — peuvent venir ensuite.  
-
-Rappelez aux vétéran·e·s que les nouveaux·elles ont besoin de **plaisir et de clarté**, pas de perfection.  
-Leur curiosité viendra naturellement au fil des parties.
-
----
-
-### 🕊️ Aider les joueur·euse·s en difficulté
-
-Certain·e·s peuvent paraître perdu·e·s ou hésitant·e·s.  
-N’attendez pas qu’ils·elles le disent : allez vers eux·elles discrètement, proposez un échange privé, et guidez-les.  
-
-Mais évitez de donner **une seule stratégie à suivre** — cela risquerait de les enfermer dans une manière de jouer.  
-Proposez plutôt plusieurs options, et laissez-les décider.  
-
-Le but est qu’ils·elles se sentent libres, utiles, et fier·e·s de leurs choix.
-
----
-
-### 💜 Dédramatiser la mort et les erreurs
-
-Souvent, les nouveaux·elles joueur·euse·s craignent de “mal jouer” ou d’être éliminé·e·s trop tôt.  
-Expliquez que *mourir n’est pas perdre* : les mort·e·s continuent de participer et gardent une voix pour influencer la fin du jeu.
-
-Rassurez-les : chaque erreur est une expérience, chaque déduction manquée une opportunité d’apprendre.  
-L’important, c’est de **participer à l’histoire**, pas de tout deviner du premier coup.
-
----
-
-### 🧳 Faire entrer les Voyageur·euse·s
-
-Les <a href="./voyageurs/voyageurs.html" style="color:purple;">Voyageur·euse·s</a> sont parfait·e·s pour accueillir du monde en cours de partie.  
-Certain·e·s spectateur·rice·s hésitent à rejoindre une partie déjà commencée : rassurez-les !  
-Les Voyageur·euse·s sont conçus pour cela.  
-
-Leur arrivée apporte souvent **de l’équilibre et du renouveau**.  
-Certain·e·s rôles Voyageurs sont puissants, d’autres perturbateurs — tous apportent une énergie fraîche.
-
----
-
-### 🌟 Utiliser les Légendaires
-
-Les <a href="./legendaires.html" style="color:#b58b52;">Légendaires</a> permettent d’adapter vos parties à différents profils.  
-Besoin d’aider une personne timide ?  
-L’<strong>ange</strong> l’aidera à jouer sans peur.  
-Besoin de calme ?  
-Le <strong>bouddhiste</strong> peut encourager le silence et la concentration.  
-
-Connaître vos Légendaires rend vos parties plus inclusives et équilibrées, tout en valorisant chaque personnalité.
-
----
-
-### 🎉 Cultiver la convivialité
-
-Une communauté *Clocktower* forte, c’est avant tout un **groupe de personnes qui ont envie de se retrouver**.  
-Riez ensemble.  
-Célébrez les coups de génie et les ratés spectaculaires.  
-Créez des traditions, des rituels, des souvenirs.
-
-Votre rôle de Conteur·euse n’est pas seulement de faire tourner la partie,  
-mais aussi d’être le cœur qui la fait battre.
-
----
-🎯 Vous venez de parcourir les **conseils essentiels pour les Conteur·euse·s**.  
-Que vos parties soient pleines de mystères, de rires et de clochers résonnants.
-
-## 🕊️ Fin de nos conseils 🫶🏻
-
+<hr>
+
+<!-- Sommaire -->
+<h2 id="sommaire" style="color:#b58b52;">📑 Sommaire</h2>
+<ol>
+  <li><a href="#section-1">Faire fonctionner les choses en douceur</a></li>
+  <li><a href="#section-2">Rendre le jeu amusant</a></li>
+  <li><a href="#section-3">Le Script</a></li>
+  <li><a href="#section-4">Faire grandir votre communauté Clocktower</a></li>
+</ol>
+
+<!-- ========================= -->
+<!-- 1. Fluide et sans accroc -->
+<!-- ========================= -->
+<h2 id="section-1">1. Faire fonctionner les choses en douceur</h2>
+
+<p>
+  En tant que <span style="color:#d4a76a; font-weight:bold;">Conteur ou Conteuse</span>, votre rôle est de faire tourner la partie sans accroc, tout en gardant la fluidité et la magie du jeu.
+  Votre objectif n’est pas seulement de faire respecter les règles, mais aussi de vous assurer que chaque joueur et chaque joueuse vit une expérience mémorable, cohérente et amusante.
+</p>
+
+<h3>🎯 Mettre fin à la partie au bon moment</h3>
+<p>
+  Vous pouvez déclarer la fin du jeu <strong>dès qu’une victoire est certaine</strong> pour une équipe.
+  Par exemple, si toutes les personnes restantes sont <span style="color:red;">maléfiques</span>, alors le <span style="color:blue;">Bien</span> ne peut plus nominer le <span style="color:red;">Démon</span> : le <span style="color:red;">Mal</span> gagne.
+</p>
+<p>
+  Souvent, lorsqu’il reste <strong>quatre personnes en vie</strong>, et que les bons exécutent quelqu’un qui n’est pas <span style="color:red;">maléfique</span>, vous pouvez <strong>terminer la partie immédiatement</strong>.
+  S’il ne reste plus que trois personnes ensuite, le <span style="color:red;">Démon</span> tuera l’une d’elles pendant la nuit — ce qui rendrait la suite automatique.
+  <br>Mais attention : si un <a href="./tb_roles/moine.html" style="color:blue;">Moine</a> ou un <a href="./tb_roles/soldat.html" style="color:blue;">Soldat</a> est encore en vie, le <span style="color:red;">Démon</span> pourrait échouer à tuer cette nuit-là, entraînant une journée supplémentaire.
+</p>
+<p>
+  👉 Utilisez votre <strong>jugement de Conteur ou Conteuse</strong> : si une possibilité de retournement existe, même infime, laissez la partie continuer.
+</p>
+
+<h3>👁️ Confirmer les choix des joueurs et des joueuses</h3>
+<p>
+  Pendant la nuit, lorsque quelqu’un fait un choix, <strong>confirmez-le avec un geste clair</strong> (pointez du doigt vers la cible).
+  Si le geste est ambigu, <strong>déplacez-vous</strong> vers la personne visée, <strong>pointez clairement</strong>, puis attendez un hochement de tête pour valider.
+  Hochez la tête en retour pour confirmer votre compréhension.
+  <br>➡️ Cette simple habitude évite les malentendus qui peuvent tout gâcher.
+</p>
+
+<h3>🕴️ Se déplacer discrètement la nuit</h3>
+<p>
+  Vos mouvements peuvent révéler des indices sans que vous le vouliez.
+  Variez vos déplacements, faites parfois des pas “gratuits”, changez de rythme. 
+  Ainsi, les joueurs et les joueuses ne pourront pas relier un bruit ou un mouvement à une action précise, ni <strong>déduire la position du <span style="color:red;">Démon</span></strong>.
+</p>
+
+<h3>🎲 Manipuler les jetons du Grimoire</h3>
+<p>
+  Vous devriez souvent déplacer des jetons (par exemple quand un 
+  <a href="./tb_roles/mercenaire.html" style="color:blue;">Mercenaire</a> ou un 
+  <a href="./sv_roles/jongleur.html" style="color:blue;">Jongleur</a> agit).
+  Quand une personne <span style="color:red;">maléfique</span> bluffe en prétendant être l’un ou l’une d’entre eux, 
+  <strong>faites semblant</strong> de manipuler les mêmes jetons. Ainsi, même les personnes expertes ne pourront pas déceler un bluff à vos gestes.
+</p>
+
+<h3>🤫 Réveiller discrètement</h3>
+<p>
+  Réveillez par un <strong>tapotement doux</strong> sur l’épaule ou le genou. Si les vêtements sont épais, pressez doucement la main deux fois.
+  Évitez tout bruit qui trahirait l’action auprès des voisins et voisines.
+</p>
+
+<h3>📖 Garder le Grimoire stable</h3>
+<p>
+  Gardez toujours le Grimoire à plat et tenez-le par la <strong>colonne centrale</strong>. 
+  Évitez de l’incliner : quelqu’un pourrait <strong>voir les jetons</strong>.
+  Ne le tenez pas par les bords, au risque qu’il se referme et fasse tomber le matériel.
+</p>
+
+<h3>🎒 Transporter le Grimoire</h3>
+<p>
+  Portez-le <strong>dos vers le bas</strong> (surtout dans un sac) pour éviter d’abîmer la boîte.
+</p>
+
+<h3>📢 Être vu et entendu</h3>
+<p>
+  Lors des annonces, votes et comptes à rebours, placez-vous de manière à être vu et entendu de toutes et tous. 
+  Votre présence guide le rythme, sans dominer la scène.
+</p>
+
+<h3>⚖️ Gérer les erreurs</h3>
+<p>
+  Les erreurs arrivent. Si elles favorisent l’équipe gagnante, <strong>présentez vos excuses</strong> à l’autre équipe. 
+  Si elles ont pénalisé les vainqueurs, <strong>félicitez-les d’autant plus</strong>. 
+  Ne compensez jamais en trichant. 
+  Vous pouvez signaler qu’une erreur a eu lieu sans en dévoiler la nature.
+</p>
+
+<h3>😴 Oublier de réveiller quelqu’un</h3>
+<p>
+  Deux options :
+</p>
+<ul>
+  <li>Replongez tout le monde “dans le sommeil” et réveillez uniquement la personne concernée,</li>
+  <li>ou expliquez-lui la résolution au matin.</li>
+</ul>
+<p>Si l’erreur est réparable, faites-le : mieux vaut un petit ajustement qu’une injustice.</p>
+
+<h3>🕰️ Prenez votre temps</h3>
+<p>
+  Un bon Conteur ou une bonne Conteuse n’est <strong>jamais pressé</strong>. 
+  Pendant la nuit, respirez, vérifiez l’ordre d’action, et ralentissez si nécessaire.
+</p>
+
+<h3>🗣️ Répondre aux questions</h3>
+<p>
+  Favorisez les réponses <strong>en privé</strong> pour éviter de donner des indices. 
+  En public, <strong>ne citez pas le rôle</strong>, mais la personne. 
+  <br>Exemples :
+</p>
+<blockquote>
+  ❌ « L’Empathique voulait savoir… »<br>
+  ✅ « Cédric voulait savoir… »
+</blockquote>
+
+<h3>🤐 Empêcher les discussions prématurées</h3>
+<p>
+  Avant la première nuit, rappelez de <strong>ne pas révéler son rôle</strong> : le <span style="color:red;">Démon</span> n’a pas encore ses bluffs.
+  Si besoin, utilisez un <a href="./legendaires.html" style="color:#b58b52;">Légendaire</a> (ex. <strong>Bibliothécaire de l’Enfer</strong>) pour l’interdire en jeu.
+</p>
+
+<h3>🌙 Silence pendant la nuit</h3>
+<p>
+  La nuit doit rester silencieuse. Si quelqu’un commente ses actions à voix haute, 
+  cela ruine les bluffs des <span style="color:red;">maléfiques</span>. 
+  Rappelez la règle avec bienveillance ou utilisez un Légendaire si nécessaire.
+</p>
+
+<h3>🪑 Rester dans le cercle</h3>
+<p>
+  Demandez à toutes et tous de rester autour du cercle pour faciliter nominations et échanges, 
+  et éviter les clans entre vétérans et nouvelles personnes.
+</p>
+
+<h3>📘 Relire les rôles en jeu</h3>
+<p>
+  Profitez des temps calmes pour relire les jetons présents : 
+  mieux comprendre les interactions rend la partie plus fluide.
+</p>
+
+<!-- ========================= -->
+<!-- 2. Rendre le jeu amusant -->
+<!-- ========================= -->
+<h2 id="section-2">2. Rendre le jeu amusant</h2>
+
+<p>
+  Votre rôle ne s’arrête pas à faire fonctionner le jeu : vous êtes aussi la ou le <strong>metteur en scène</strong>. 
+  À vous le rythme, l’ambiance et les émotions.
+</p>
+
+<h3>⚔️ Rendre les exécutions mémorables</h3>
+<p>
+  Juste avant une exécution, demandez : <em>« Comment veux-tu mourir ? »</em> 
+  Puis narrez brièvement la scène avec un ton léger (évitez le morbide).
+</p>
+
+<h3>🎙️ Raconter l’histoire</h3>
+<p>
+  Une phrase d’ambiance suffit, mais vous pouvez improviser davantage si vous aimez. 
+  L’important est de garder le rythme.
+</p>
+
+<h3>🚫 Ne jamais briser les règles</h3>
+<p>
+  N’inventez pas des morts “pour le fun” ni un démon “absent”. 
+  Les <span style="color:blue;">Bons</span> s’appuient sur une logique. 
+  Pour varier, utilisez les nombreux rôles officiels et communautaires, pas l’arbitraire.
+</p>
+
+<h3>🧠 Laisser décider les joueurs et les joueuses</h3>
+<p>
+  Même si leurs choix paraissent absurdes, <strong>n’orientez pas</strong>. 
+  Leur stratégie leur appartient et fait la richesse du jeu.
+</p>
+
+<h3>🚨 Gérer les comportements négatifs</h3>
+<p>
+  Si quelqu’un parle sèchement ou domine trop, prenez-la ou prenez-le à part, 
+  expliquez calmement que le comportement peut gêner. 
+  On critique l’attitude, pas la personne.
+</p>
+
+<h3>⛔ Les comportements inacceptables</h3>
+<ul>
+  <li>Insultes, moqueries, agressions verbales</li>
+  <li>Menaces, chantage émotionnel, humiliation</li>
+  <li>Manipulation toxique</li>
+</ul>
+<p>
+  Visez une ambiance <strong>sûre, respectueuse et amusante</strong>. 
+  Écartez si nécessaire une personne qui nuit au groupe.
+</p>
+
+<h3>⚖️ Juger ce qui est acceptable</h3>
+<p>
+  Chaque groupe a ses limites. Si quelqu’un se sent blessé, le jeu a manqué sa mission. 
+  Adaptez le ton et les rôles au public, éventuellement via des scripts personnalisés.
+</p>
+
+<h3>🫶 Aider les personnes timides</h3>
+<p>
+  Offrez-leur un moment de parole : <em>« Tu veux donner ton avis avant qu’on vote ? »</em> 
+  Ne forcez jamais. La confiance viendra.
+</p>
+
+<h3>💬 Gérer les bavards</h3>
+<p>
+  Ne faites pas taire une seule personne : faites taire le groupe un instant, puis redonnez la parole équitablement.
+</p>
+
+<h3>🔥 Prolonger le plaisir jusqu’au bout</h3>
+<p>
+  Essayez d’amener la partie jusqu’au <strong>dernier jour</strong> (trois survivants, un vote décisif) : tension et souvenirs garantis.
+</p>
+
+<h3>💪 Soutenir l’équipe la plus faible (sans tricher)</h3>
+<p>
+  Vous pouvez équilibrer subtilement :
+</p>
+<ul>
+  <li>Si le <span style="color:red;">Mal</span> écrase : glissez parfois une vraie info à un <a href="./tb_roles/ivrogne.html" style="color:blue;">Ivrogne</a>, 
+      ou rendez visible qu’un <a href="./tb_roles/espion.html" style="color:red;">Espion</a> exécuté était bien ce rôle.</li>
+  <li>Si le <span style="color:blue;">Bien</span> domine : brouillez un peu (fausses pistes pour une 
+      <a href="./tb_roles/voyante.html" style="color:blue;">Voyante</a> ou un 
+      <a href="./sv_roles/savant.html" style="color:blue;">Savant</a>).</li>
+</ul>
+
+<h3>🎭 Aider les bluffeurs et bluffeuses</h3>
+<p>
+  Quand les <span style="color:red;">Sbires</span> ou le <span style="color:red;">Démon</span> bluffent, 
+  <strong>renforcez</strong> leur mise en scène (gestes au Grimoire, validations discrètes cohérentes).
+</p>
+
+<h3>🎇 Célébrer la victoire</h3>
+<p>
+  Annoncez avec panache : <em>« Le clocher résonne une dernière fois… et le Mal triomphe ! »</em>
+  Laissez place aux rires et félicitations.
+</p>
+
+<h3>🌈 Encourager la créativité</h3>
+<p>
+  Idées, signaux, alliances improbables… dites oui tant que c’est respectueux. 
+  Refusez seulement ce qui nuit aux personnes ou au plaisir de jeu.
+</p>
+
+<h3>😈 Réunir les Maléfiques</h3>
+<p>
+  Réveiller ensemble le <span style="color:red;">Démon</span> et les <span style="color:red;">Sbires</span> crée une connivence utile. 
+  Attention toutefois aux scripts exigeant l’inverse (ex. 
+  <a href="./bmr_roles/lunatique.html" style="color:blue;">Lunatique</a>).
+</p>
+
+<h3>💭 Le Conteur ou la Conteuse, équilibriste et narrateur ou narratrice</h3>
+<p>
+  Vous êtes là pour <strong>amuser, surprendre, équilibrer</strong>.
+  Chaque décision doit servir le <strong>plaisir collectif</strong>.
+</p>
+
+<!-- ========================= -->
+<!-- 3. Le Script -->
+<!-- ========================= -->
+<h2 id="section-3">3. Le Script</h2>
+
+<p>
+  Créer votre propre <strong>script</strong> est un grand plaisir du rôle de Conteur ou Conteuse.
+  Une fois à l’aise avec
+  <a href="./trouble_brewing.html" style="color:#b58b52;">Trouble Brewing</a>, 
+  <a href="./bmr.html" style="color:#ffa64d;">Bad Moon Rising</a> et 
+  <a href="./sv.html" style="color:#d67bff;">Sects & Violets</a>, 
+  imaginez vos propres combinaisons.
+</p>
+
+<h3>🧩 Composer votre script</h3>
+<p>
+  Choisissez des rôles qui se complètent bien (par exemple un 
+  <a href="./sv_roles/pit-hag.html" style="color:red;">Pit-Hag</a>, un 
+  <a href="./tb_roles/saint.html" style="color:blue;">Saint</a>, un 
+  <a href="./sv_roles/jumeau_maléfique.html" style="color:red;">Jumeau Maléfique</a>, un 
+  <a href="./bmr_roles/aubergiste.html" style="color:blue;">Aubergiste</a>…), 
+  puis utilisez 
+  <a href="https://script.bloodontheclocktower.com">script.bloodontheclocktower.com</a> 
+  pour générer la feuille de nuit personnalisée.
+</p>
+
+<h3>🧠 Comparer et améliorer</h3>
+<p>
+  Échangez avec d’autres Conteurs et Conteuses (site officiel, Discord, Facebook), 
+  commencez petit et élargissez progressivement.
+</p>
+
+<h3>🧳 Intégrer les Voyageurs et Voyageuses</h3>
+<p>
+  Les <a href="./voyageurs/voyageurs.html" style="color:purple;">Voyageurs et Voyageuses</a> enrichissent les parties personnalisées. 
+  Préparez une sélection adaptée à l’ambiance.
+</p>
+
+<h3>💫 Utiliser les Légendaires pour équilibrer</h3>
+<p>
+  Les <a href="./legendaires.html" style="color:#b58b52;">Légendaires</a> aident à ajuster la difficulté (nombre d’Étrangers, désinformation, etc.).
+</p>
+
+<h3>🌀 Gérer les interactions complexes</h3>
+<p>
+  En cas de conflit de règles : décidez clairement et expliquez que c’est un arbitrage. 
+  Cherchez la cohérence et la transparence.
+</p>
+
+<h3>🏘️ Découvrir Teensyville</h3>
+<p>
+  Format 5–6 personnes, idéal pour les soirées rapides et l’initiation. 
+  Le script builder le gère très bien.
+</p>
+
+<h3>💡 Conseils finaux</h3>
+<p>
+  Équilibrez <strong>plaisir</strong>, <strong>tension</strong> et <strong>lisibilité</strong>. 
+  Testez, ajustez, observez… et amusez-vous !
+</p>
+
+<!-- ========================= -->
+<!-- 4. La Communauté -->
+<!-- ========================= -->
+<h2 id="section-4">4. Faire grandir votre communauté Clocktower</h2>
+
+<p>
+  Plus il y a de monde autour de la tour, plus les parties sont vivantes. 
+  En tant que Conteur ou Conteuse, vous êtes souvent le moteur de cette dynamique.
+</p>
+
+<h3>🤝 Créer et entretenir un groupe</h3>
+<p>
+  Organisez des rencontres régulières et conviviales (Discord, Facebook, cafés ludiques, chez vous). 
+  Chaque nouvelle personne peut devenir passionnée… ou future Conteuse/Conteur.
+</p>
+
+<h3>🧭 Encourager à conter</h3>
+<p>
+  Proposez à d’autres d’essayer le rôle à vos côtés, puis en autonomie. 
+  Vous renforcez la cohésion et diversifiez les styles.
+</p>
+
+<h3>🌱 Être un meneur bienveillant</h3>
+<p>
+  Restez accueillant et à l’écoute. 
+  Adaptez les parties au rythme du groupe, 
+  veillez à ce que chacun et chacune ait sa place.
+</p>
+
+<h3>💬 Aider les nouvelles personnes</h3>
+<p>
+  Expliquez l’essentiel, répondez aux questions, 
+  rappelez qu’il est normal de se tromper. 
+  Évitez de submerger de conseils.
+</p>
+
+<h3>🧠 Transmettre sans surcharger</h3>
+<p>
+  Les bases suffisent pour commencer. 
+  Les notions avancées viendront avec l’expérience. 
+  Privilégiez la clarté et le plaisir.
+</p>
+
+<h3>🕊️ Aider en cas de difficulté</h3>
+<p>
+  Si quelqu’un semble perdu, proposez un bref échange privé et plusieurs options possibles. 
+  Laissez la personne décider.
+</p>
+
+<h3>💜 Dédramatiser la mort et les erreurs</h3>
+<p>
+  Mourir n’est pas perdre : les morts participent encore. 
+  Chaque erreur est une étape d’apprentissage.
+</p>
+
+<h3>🧳 Faire entrer des Voyageurs et Voyageuses</h3>
+<p>
+  Parfait pour accueillir du monde en cours de partie : 
+  leur arrivée apporte équilibre et renouveau.
+</p>
+
+<h3>🌟 Utiliser les Légendaires</h3>
+<p>
+  Adaptez vos parties aux profils (besoin de calme, de confiance, etc.). 
+  Connaître vos Légendaires rend les parties plus inclusives.
+</p>
+
+<h3>🎉 Cultiver la convivialité</h3>
+<p>
+  Riez ensemble, célébrez les idées brillantes et les ratés spectaculaires. 
+  Créez des traditions et des souvenirs.
+</p>
+
+<hr>
+
+<p>
+  🎯 Vous venez de parcourir les <strong>conseils essentiels pour les Conteurs et Conteuses</strong>. 
+  Que vos parties soient pleines de mystères, de rires et de clochers résonnants.
+</p>
+
+<h2>🕊️ Fin de nos conseils 🫶🏻</h2>
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li>🔝 <a href="#top" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Revenir en haut de la page</a></li>
