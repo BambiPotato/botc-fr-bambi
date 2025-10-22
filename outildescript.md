@@ -120,17 +120,17 @@ Objectif&nbsp;: créer une partie dynamique avec forts retournements et informat
       <a href="./sv_roles/fleuriste.html" style="color:blue; font-weight:bold; text-decoration:none;">Fleuriste</a></li>
     <li>Étrangers et étrangères&nbsp;: <a href="./sv_roles/maladroit.html" style="color:blue; font-weight:bold; text-decoration:none;">Maladroit</a>, 
       <a href="./tb_roles/ivrogne.html" style="color:blue; font-weight:bold; text-decoration:none;">Ivrogne</a></li>
-    <li>Sbires&nbsp;: <a href="./sv_roles/pit-hag.html" style="color:red; font-weight:bold; text-decoration:none;">Pit-Hag</a>, 
+    <li>Sbires&nbsp;: <a href="./sv_roles/pithag.html" style="color:red; font-weight:bold; text-decoration:none;">Pit-Hag</a>, 
       <a href="./sv_roles/cerenovus.html" style="color:red; font-weight:bold; text-decoration:none;">Cerenovus</a></li>
     <li>Démon&nbsp;: <a href="./sv_roles/vortox.html" style="color:red; font-weight:bold; text-decoration:none;">Vortox</a></li>
   </ul>
   <p style="color:#e0c99d; font-size:18px; line-height:1.7;"><strong>Intentions</strong></p>
   <ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:24px;">
     <li>Informations fortes mais discutables via des rôles commes <a href="./sv_roles/savant.html" style="color:blue; font-weight:bold; text-decoration:none;">Savant</a> et <a href="./sv_roles/fleuriste.html" style="color:blue; font-weight:bold; text-decoration:none;">Fleuriste.</a></li>
-    <li>Désinformation active via un <a href="./sv_roles/vortox.html" style="color:red; font-weight:bold; text-decoration:none;">Vortox</a></li> et <a href="./sv_roles/cerenovus.html" style="color:red; font-weight:bold; text-decoration:none;">Cerenovus.</a></li>
-    <li>Chaos contrôlé et surprises via la <a href="./sv_roles/pit-hag.html" style="color:red; font-weight:bold; text-decoration:none;">Pit-Hag</a>
+    <li>Désinformation active via un <a href="./sv_roles/vortox.html" style="color:red; font-weight:bold; text-decoration:none;">Vortox</a></li> et <a href="./sv_roles/cerenovus.html" style="color:red; font-weight:bold; text-decoration:none;">Cerenovus</a></li>
+    <li>Chaos contrôlé et surprises via la <a href="./sv_roles/pithag.html" style="color:red; font-weight:bold; text-decoration:none;">Pit-Hag</a>
     <li>Fin de partie tendue grâce au vote unique des morts et aux doutes persistants.</li>
-  </ul>
+  
 </div>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
