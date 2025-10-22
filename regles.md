@@ -16,7 +16,7 @@ title: Explication des règles
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 La feuille de règles présente l’essentiel pour commencer à jouer.  
-Lis ce texte à voix haute au groupe, ou laisse-le à disposition pour celles et ceux qui préfèrent le parcourir en privé.
+Lisez ce texte à voix haute au groupe, ou laissez-le à disposition pour celles et ceux qui préfèrent le parcourir en privé.
 </p>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
@@ -104,7 +104,7 @@ Tout le monde ferme les yeux. Le Conteur réveille certaines personnes pour qu�
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Le Conteur peut donner de <strong>fausses informations</strong>.  
-Si vous êtes <strong>ivre</strong> (par exemple Ivrogne) ou <strong>empoisonné</strong>, votre capacité ne fonctionne pas — mais le Conteur fait comme si elle fonctionnait.
+Si vous êtes <strong>ivre</strong> (par exemple Ivrogne) ou <strong>empoisonné</strong>, votre capacité ne fonctionne pas mais le Conteur ou la Conteuse fait comme si elle fonctionnait.
 </p>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-bottom:6px;"><strong>👉 Exemple :</strong></p>
@@ -137,7 +137,7 @@ Voici l’essentiel à retenir. Quatre règles simples pour des parties claires 
     La personne qui conte est <strong>neutre</strong> et là pour vous aider. Signalez votre question et discutez-en en privé pour ne rien révéler aux autres.
   </li>
   <li>
-    <strong>Jouez avec respect.</strong><br>
+    <strong>Jouez avec Respect et Bienveillance.</strong><br>
     Le jeu parle de tromperie, pas d’irrespect. <strong>Tuez avec élégance, et mourez avec dignité</strong>.
   </li>
 </ol>
