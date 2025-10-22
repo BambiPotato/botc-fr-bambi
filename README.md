@@ -86,6 +86,126 @@
 
 ## <span style="color:#b58b52; font-weight:bold; font-size:22px;">👺 Rôles par Édition</span>
 
+<!-- ====== GRID D'ACCUEIL (cartes cliquables, 3 par ligne) ====== -->
+<style>
+  /* Conteneur global */
+  .home-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(220px, 1fr));
+    gap: 28px;
+    justify-items: center;
+    align-items: start;
+    margin: 26px auto 10px auto;
+    max-width: 1100px;
+  }
+  /* Responsive : 2 colonnes puis 1 colonne */
+  @media (max-width: 980px) {
+    .home-grid { grid-template-columns: repeat(2, minmax(220px, 1fr)); }
+  }
+  @media (max-width: 640px) {
+    .home-grid { grid-template-columns: 1fr; }
+  }
+
+  /* Carte cliquable */
+  .home-card {
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 14px;
+    overflow: hidden;
+    border: 1px solid rgba(181,139,82,0.28);            /* doré discret */
+    background: rgba(255,255,255,0.02);                 /* voile léger sur fond sombre */
+    box-shadow: 0 6px 18px rgba(0,0,0,0.28);
+    transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease, background .18s ease;
+    width: 100%;
+    max-width: 290px;
+    text-align: center;
+  }
+  .home-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 24px rgba(0,0,0,0.38);
+    border-color: rgba(212,167,106,0.55);
+    background: rgba(255,255,255,0.04);
+  }
+
+  /* Image */
+  .home-card img {
+    display: block;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 4 / 3;            /* ratio stable */
+    object-fit: contain;            /* garde les logos nets */
+    background: rgba(0,0,0,0.25);   /* petit fond pour contraste */
+  }
+
+  /* Titre sous l'image */
+  .home-card .home-title {
+    display: block;
+    padding: 10px 10px 12px 10px;
+    color: #b58b52;                 /* doré doux */
+    font-weight: 700;
+    font-size: 20px;
+    text-decoration: none;
+    letter-spacing: .2px;
+  }
+
+  /* Badge "à venir" (style discret) */
+  .badge-pending {
+    display: inline-block;
+    margin: 2px 0 10px 0;
+    padding: 2px 8px;
+    font-size: 12px;
+    color: #d4a76a;
+    border: 1px solid rgba(212,167,106,0.45);
+    border-radius: 999px;
+    opacity: .85;
+  }
+</style>
+
+<div class="home-grid">
+
+  <!-- 🍺 Trouble Brewing -->
+  <a class="home-card" href="./trouble_brewing.html">
+    <img src="./images/Logo_trouble_brewing.png" alt="Trouble Brewing">
+    <span class="home-title">🍺 Trouble Brewing</span>
+  </a>
+
+  <!-- 🌛 Bad Moon Rising -->
+  <a class="home-card" href="./bmr.html">
+    <img src="./images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising">
+    <span class="home-title">🌛 Bad Moon Rising</span>
+  </a>
+
+  <!-- 🌸 Sects & Violets -->
+  <a class="home-card" href="./sv.html">
+    <img src="./images/Logo_sects_and_violets.png" alt="Sects &amp; Violets">
+    <span class="home-title">🌸 Sects &amp; Violets</span>
+  </a>
+
+  <!-- 🚶 Voyageurs et Voyageuses -->
+  <a class="home-card" href="./voyageurs/voyageurs.html">
+    <img src="./images/Generic_traveller.png" alt="Voyageurs et Voyageuses">
+    <span class="home-title">🚶 Voyageurs et Voyageuses</span>
+  </a>
+
+  <!-- 🏰 Légendaires (à venir) -->
+  <a class="home-card" href="#" onclick="return false;">
+    <img src="./images/Generic_fabled.png" alt="Légendaires" style="opacity:.55; filter: grayscale(20%);">
+    <span class="home-title">🏰 Légendaires</span>
+    <span class="badge-pending">à venir</span>
+  </a>
+
+  <!-- 🎠 The Carousel Expérimental -->
+  <a class="home-card" href="./experimentaux.html">
+    <img src="./images/carousel.png" alt="The Carousel Expérimental" style="opacity:.9;">
+    <span class="home-title">🎠 The Carousel Expérimental</span>
+  </a>
+
+</div>
+<!-- ====== /GRID D'ACCUEIL ====== -->
+
+
+---
+
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:40px; margin-top:30px;">
 
   <!-- 🍺 Trouble Brewing -->
