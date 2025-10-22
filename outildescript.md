@@ -45,9 +45,9 @@ L’<strong>outil de script</strong> donne vie à ces idées.
 </p>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Par exemple, imaginez une partie avec la 
-<a href="./sv_roles/pit-hag.html" style="color:red; font-weight:bold; text-decoration:none;">Pit-Hag</a>, 
+<a href="./sv_roles/pithag.html" style="color:red; font-weight:bold; text-decoration:none;">Pit-Hag</a>, 
 le <a href="./tb_roles/saint.html" style="color:blue; font-weight:bold; text-decoration:none;">Saint</a>, 
-le <a href="./sv_roles/jumeau_malefique.html" style="color:red; font-weight:bold; text-decoration:none;">Jumeau maléfique</a> 
+le <a href="./sv_roles/jumeaumalefique.html" style="color:red; font-weight:bold; text-decoration:none;">Jumeau maléfique</a> 
 et l’<a href="./bmr_roles/aubergiste.html" style="color:blue; font-weight:bold; text-decoration:none;">Aubergiste</a>. 
 Ou un scénario où l’<a href="./tb_roles/espion.html" style="color:red; font-weight:bold; text-decoration:none;">Espion</a> 
 croise le <a href="./sv_roles/maladroit.html" style="color:blue; font-weight:bold; text-decoration:none;">Maladroit</a>.
@@ -115,22 +115,50 @@ Objectif&nbsp;: créer une partie dynamique avec forts retournements et informat
 <div style="border:1px solid #b58b52; border-radius:10px; padding:12px; margin:10px 0;">
   <p style="color:#e0c99d; font-size:18px; line-height:1.7;"><strong>Coquille de base</strong></p>
   <ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:24px;">
-    <li>Villageois et villageoises&nbsp;: <a href="./tb_roles/croquemort.html" style="color:blue; font-weight:bold; text-decoration:none;">Croque-Mort</a>, 
+    <li>
+      Villageois et villageoises&nbsp;: 
+      <a href="./tb_roles/croquemort.html" style="color:blue; font-weight:bold; text-decoration:none;">Croque-Mort</a>, 
       <a href="./sv_roles/savant.html" style="color:blue; font-weight:bold; text-decoration:none;">Savant</a>, 
-      <a href="./sv_roles/fleuriste.html" style="color:blue; font-weight:bold; text-decoration:none;">Fleuriste</a></li>
-    <li>Étrangers et étrangères&nbsp;: <a href="./sv_roles/maladroit.html" style="color:blue; font-weight:bold; text-decoration:none;">Maladroit</a>, 
-      <a href="./tb_roles/ivrogne.html" style="color:blue; font-weight:bold; text-decoration:none;">Ivrogne</a></li>
-    <li>Sbires&nbsp;: <a href="./sv_roles/pithag.html" style="color:red; font-weight:bold; text-decoration:none;">Pit-Hag</a>, 
-      <a href="./sv_roles/cerenovus.html" style="color:red; font-weight:bold; text-decoration:none;">Cerenovus</a></li>
-    <li>Démon&nbsp;: <a href="./sv_roles/vortox.html" style="color:red; font-weight:bold; text-decoration:none;">Vortox</a></li>
+      <a href="./sv_roles/fleuriste.html" style="color:blue; font-weight:bold; text-decoration:none;">Fleuriste</a>
+    </li>
+    <li>
+      Étrangers et étrangères&nbsp;: 
+      <a href="./sv_roles/maladroit.html" style="color:blue; font-weight:bold; text-decoration:none;">Maladroit</a>, 
+      <a href="./tb_roles/ivrogne.html" style="color:blue; font-weight:bold; text-decoration:none;">Ivrogne</a>
+    </li>
+    <li>
+      Sbires&nbsp;: 
+      <a href="./sv_roles/pithag.html" style="color:red; font-weight:bold; text-decoration:none;">Pit-Hag</a>, 
+      <a href="./sv_roles/cerenovus.html" style="color:red; font-weight:bold; text-decoration:none;">Cerenovus</a>
+    </li>
+    <li>
+      Démon&nbsp;: 
+      <a href="./sv_roles/vortox.html" style="color:red; font-weight:bold; text-decoration:none;">Vortox</a>
+    </li>
   </ul>
+
   <p style="color:#e0c99d; font-size:18px; line-height:1.7;"><strong>Intentions</strong></p>
   <ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:24px;">
-    <li>Informations fortes mais discutables via des rôles commes <a href="./sv_roles/savant.html" style="color:blue; font-weight:bold; text-decoration:none;">Savant</a> et <a href="./sv_roles/fleuriste.html" style="color:blue; font-weight:bold; text-decoration:none;">Fleuriste.</a></li> 
-    <li>Désinformation active via un <a href="./sv_roles/vortox.html" style="color:red; font-weight:bold; text-decoration:none;">Vortox</a></li> et <a href="./sv_roles/cerenovus.html" style="color:red; font-weight:bold; text-decoration:none;">Cerenovus</a></li> 
-    <li>Chaos contrôlé et surprises via la <a href="./sv_roles/pithag.html" style="color:red; font-weight:bold; text-decoration:none;">Pit-Hag</a></li> 
-    <li>Une Fin de partie tendue grâce au vote unique des morts et aux doutes persistants.</a></li> 
-    
+    <li>
+      Informations fortes mais discutables via des rôles comme le 
+      <a href="./sv_roles/savant.html" style="color:blue; font-weight:bold; text-decoration:none;">Savant</a> 
+      et la 
+      <a href="./sv_roles/fleuriste.html" style="color:blue; font-weight:bold; text-decoration:none;">Fleuriste</a>.
+    </li>
+    <li>
+      Désinformation active via un 
+      <a href="./sv_roles/vortox.html" style="color:red; font-weight:bold; text-decoration:none;">Vortox</a> 
+      et un 
+      <a href="./sv_roles/cerenovus.html" style="color:red; font-weight:bold; text-decoration:none;">Cerenovus</a>.
+    </li>
+    <li>
+      Chaos contrôlé et surprises via la 
+      <a href="./sv_roles/pithag.html" style="color:red; font-weight:bold; text-decoration:none;">Pit-Hag</a>.
+    </li>
+    <li>
+      Une fin de partie tendue grâce au vote unique des morts et aux doutes persistants.
+    </li>
+  </ul>
 </div>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
@@ -145,7 +173,7 @@ Mieux vaut une nuit un peu plus longue et propre qu’une action ambiguë.
   <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
   <li>🍺 <a href="./trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
   <li>🌙 <a href="./bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>💐 <a href="./sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
+  <li>💐 <a href="./sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a></li>
   <li>🧭 <a href="./regles.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Règles du jeu</a></li>
   <li>🧑‍🌾 <a href="./villageois.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Villageois</a></li>
   <li>🌀 <a href="./etrangers.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Étrangers</a></li>
