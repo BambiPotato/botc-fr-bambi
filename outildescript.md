@@ -117,7 +117,7 @@ Objectif&nbsp;: créer une partie dynamique avec forts retournements et informat
   <ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:24px;">
     <li>Villageois et villageoises&nbsp;: <a href="./tb_roles/croquemort.html" style="color:blue; font-weight:bold; text-decoration:none;">Croque-Mort</a>, 
       <a href="./sv_roles/savant.html" style="color:blue; font-weight:bold; text-decoration:none;">Savant</a>, 
-      <a href="./sv_roles/fille_des_fleurs.html" style="color:blue; font-weight:bold; text-decoration:none;">Fille des Fleurs</a></li>
+      <a href="./sv_roles/fleuriste.html" style="color:blue; font-weight:bold; text-decoration:none;">Fleuriste</a></li>
     <li>Étrangers et étrangères&nbsp;: <a href="./sv_roles/maladroit.html" style="color:blue; font-weight:bold; text-decoration:none;">Maladroit</a>, 
       <a href="./tb_roles/ivrogne.html" style="color:blue; font-weight:bold; text-decoration:none;">Ivrogne</a></li>
     <li>Sbires&nbsp;: <a href="./sv_roles/pit-hag.html" style="color:red; font-weight:bold; text-decoration:none;">Pit-Hag</a>, 
@@ -127,7 +127,7 @@ Objectif&nbsp;: créer une partie dynamique avec forts retournements et informat
   <p style="color:#e0c99d; font-size:18px; line-height:1.7;"><strong>Intentions</strong></p>
   <ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:24px;">
     <li>Informations fortes mais discutables via Savant et Fille des Fleurs.</li>
-    <li>Désinformation active via Vortox et Cerenovus.</li>
+    <li>Désinformation active via Vortox  <a href="./sv_roles/vortox.html" style="color:red; font-weight:bold; text-decoration:none;">Vortox</a></li> et Cerenovus.</li>
     <li>Chaos contrôlé et surprises via Pit-Hag.</li>
     <li>Fin de partie tendue grâce au vote unique des morts et aux doutes persistants.</li>
   </ul>
