@@ -3,12 +3,12 @@ layout: default
 title: ASSASSIN
 ---
 
-
 <p align="left">
-  <a href="../README.md">
+  <a href="/botc-fr-bambi/">
     <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
+
 
 # 🗡️ <span style="color:red">Assassin</span>  
 
