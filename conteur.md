@@ -1,3 +1,9 @@
+---
+layout: default
+title: Conseils pour les Conteuses et les Conteurs
+---
+
+
 
 <p align="left">
   <a href="/botc-fr-bambi/">
