@@ -10,19 +10,18 @@ title: Explication des règles
 </p>
 
 
-
 <!-- 📜 Explication des règles -->
 
 <h1 style="color:#b58b52; font-weight:bold; font-size:40px;">📜 Explication des règles</h1>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-La feuille de règles décrit toutes les informations essentielles qu’un nouveau joueur doit connaître pour commencer à jouer.<br>
-Il suffit de lire à voix haute ce texte au groupe, ou de le laisser à disposition pour celles et ceux qui préfèrent le parcourir en privé.
+La feuille de règles présente l’essentiel pour commencer à jouer.  
+Lis ce texte à voix haute au groupe, ou laisse-le à disposition pour celles et ceux qui préfèrent le parcourir en privé.
 </p>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Certaines parties vous demanderont de montrer différents <strong>signaux avec les mains</strong>.<br>
-👉 Il est conseillé de les <strong>démontrer en même temps</strong> que vous les expliquez, car beaucoup de joueurs retiennent mieux en visualisant.
+Certaines parties utilisent des <strong>signaux avec les mains</strong>.  
+👉 Montrez-les <strong>en même temps</strong> que vous les expliquez : beaucoup de joueurs et de joueuses retiennent mieux en visualisant.
 </p>
 
 <hr>
@@ -30,12 +29,12 @@ Certaines parties vous demanderont de montrer différents <strong>signaux avec l
 <h2 style="color:#b58b52; font-weight:bold; font-size:28px;">⏳ Avant que la partie ne commence</h2>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Il y a longtemps, dans la paisible ville de <strong>Ravenswood Bluff</strong>, en pleine tempête, à minuit pile… un cri retentit.<br>
-En courant vers la place du village, vous découvrez que votre bien-aimé Conteur a été assassiné, empalé sur l’aiguille de l’horloge du clocher, le sang coulant sur les pavés.
+Il y a longtemps, dans la paisible **Village** de <strong>Ravenswood Bluff</strong>, en pleine tempête, à minuit pile… un cri retentit.  
+Sur la place du village, vous découvrez que votre Conteur bien-aimé a été assassiné, empalé sur l’aiguille de l’horloge. Le sang coule sur les pavés.
 </p>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Vous comprenez immédiatement qu’il s’agit de l’œuvre d’un <strong><span style="color:red;">Démon</span></strong> qui tue la nuit et prend forme humaine le jour.
+Vous comprenez aussitôt qu’il s’agit de l’œuvre d’un <strong><span style="color:red;">Démon</span></strong> qui tue la nuit et prend forme humaine le jour.
 </p>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
@@ -47,10 +46,10 @@ Vous allez recevoir un jeton <strong style="color:blue;">bleu</strong> ou <stron
   <li>🔴 <strong>Rouge</strong> = vous êtes <strong><span style="color:red;">Maléfique</span></strong>.</li>
 </ul>
 
-<p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-bottom:6px;"><strong>🎯 Objectifs du jeu :</strong></p>
+<p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-bottom:6px;"><strong>🎯 Objectifs :</strong></p>
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Si vous êtes <strong>Bon</strong> : trouvez et exécutez le <strong><span style="color:red;">Démon</span></strong> → le Bien l’emporte.</li>
-  <li>Si vous êtes <strong><span style="color:red;">Maléfique</span></strong> : détruisez la ville. S’il ne reste que <strong>2 joueurs vivants</strong>, le Mal l’emporte.</li>
+  <li>Si vous êtes <strong>Bon</strong> : trouvez et exécutez le <strong><span style="color:red;">Démon</span></strong> → le Bien gagne.</li>
+  <li>Si vous êtes <strong><span style="color:red;">Maléfique</span></strong> : détruisez la ville. S’il ne reste que <strong>2 joueurs vivants</strong>, le Mal gagne.</li>
 </ul>
 
 <hr>
@@ -59,23 +58,23 @@ Vous allez recevoir un jeton <strong style="color:blue;">bleu</strong> ou <stron
 
 <h3 style="color:#b58b52; font-weight:bold; font-size:22px; margin-bottom:8px;">☀️ Jour</h3>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Vous discutez, enquêtez et accusez. La plupart des joueurs du Bien partagent leurs informations pour démasquer le <strong><span style="color:red;">Démon</span></strong>.<br>
-Mais attention : certains mentent… et si vous êtes <strong><span style="color:red;">Maléfique</span></strong>, vous devrez mentir !
+Discutez, enquêtez, accusez. La plupart des joueurs et des joueuses du Bien partagent leurs informations pour démasquer le <strong><span style="color:red;">Démon</span></strong>.  
+Attention : certaines personnes mentent… et si vous êtes <strong><span style="color:red;">Maléfique</span></strong>, vous devrez mentir.
 </p>
 
 <h3 style="color:#b58b52; font-weight:bold; font-size:22px; margin-bottom:8px;">🌙 Nuit</h3>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Tout le monde ferme les yeux. Le Conteur (Storyteller) réveille certains joueurs pour qu’ils utilisent leur capacité ou reçoivent des informations.
+Tout le monde ferme les yeux. Le Conteur réveille certaines personnes pour qu’elles utilisent leur capacité ou reçoivent des informations.
 </p>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-bottom:6px;"><strong>💡 Signaux utilisés par le Conteur :</strong></p>
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>✌️ Deux tapes sur l’épaule / le genou = <strong>Ouvrez les yeux</strong></li>
+  <li>✌️ Deux tapotements sur l’épaule ou le genou = <strong>Ouvrez les yeux</strong></li>
   <li>✊ Poing fermé = <strong>Fermez les yeux</strong></li>
-  <li>👍 / 👎 = <strong>Oui</strong> / <strong>Non</strong></li>
-  <li>👍 / 👎 = <strong>Bon</strong> / <strong><span style="color:red;">Maléfique</span></strong></li>
+  <li>👍 ou 👎 = <strong>Oui</strong> / <strong>Non</strong></li>
+  <li>👍 ou 👎 = <strong>Bon</strong> / <strong><span style="color:red;">Maléfique</span></strong></li>
   <li>✋ Doigts levés = <strong>0, 1, 2, 3…</strong></li>
-  <li>👉 Doigt pointé = <strong>Choisir un joueur</strong></li>
+  <li>👉 Doigt pointé = <strong>Choisir une personne</strong></li>
 </ul>
 
 <hr>
@@ -83,12 +82,12 @@ Tout le monde ferme les yeux. Le Conteur (Storyteller) réveille certains joueur
 <h2 style="color:#b58b52; font-weight:bold; font-size:28px;">☠️ La mort n’est pas la fin</h2>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-À Ravenswood Bluff, <strong>la mort n’est pas la fin</strong> !
+À Ravenswood Bluff, <strong>la mort n’est pas la fin</strong>.
 </p>
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>💬 Vous continuez de parler.</li>
-  <li>😴 Vous fermez toujours les yeux la nuit.</li>
+  <li>💬 Vous continuez de parler et d’influencer le village.</li>
+  <li>😴 Vous continuez à fermer les yeux la nuit.</li>
   <li>🏆 Vous gagnez ou perdez avec votre équipe.</li>
 </ul>
 
@@ -101,54 +100,68 @@ Tout le monde ferme les yeux. Le Conteur (Storyteller) réveille certains joueur
 
 <hr>
 
-<h2 style="color:#b58b52; font-weight:bold; font-size:28px;">🍻 Ivresse &amp; Poison</h2>
+<h2 style="color:#b58b52; font-weight:bold; font-size:28px;">🍻 Ivresse et poison</h2>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Le Conteur peut donner de <strong>fausses informations</strong> !<br>
-Si vous êtes <strong>ivre</strong> (ex. <em>Ivrogne</em>) ou <strong>empoisonné</strong>, votre capacité ne fonctionne pas — mais le Conteur fait comme si elle fonctionnait.
+Le Conteur peut donner de <strong>fausses informations</strong>.  
+Si vous êtes <strong>ivre</strong> (par exemple Ivrogne) ou <strong>empoisonné</strong>, votre capacité ne fonctionne pas — mais le Conteur fait comme si elle fonctionnait.
 </p>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-bottom:6px;"><strong>👉 Exemple :</strong></p>
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>L’<strong>Ivrogne</strong> croit être un Villageois, mais son rôle est inactif.</li>
-  <li>Un joueur <strong>empoisonné</strong> agit normalement, mais ses résultats sont <strong>faux</strong>.</li>
+  <li>L’<strong>Ivrogne</strong> pense être un Villageois, mais son rôle est inactif.</li>
+  <li>Une personne <strong>empoisonnée</strong> agit normalement, mais ses résultats sont <strong>faux</strong>.</li>
 </ul>
 
 <hr>
 
 <h2 style="color:#b58b52; font-weight:bold; font-size:28px;">🔑 Les 4 règles essentielles</h2>
 
+<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+Voici l’essentiel à retenir. Quatre règles simples pour des parties claires et amusantes :
+</p>
+
 <ol style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li><strong>Vous pouvez dire absolument tout ce que vous voulez, quand vous voulez.</strong><br>
-  → Le jeu repose sur la parole et la tromperie.</li>
-  <li><strong>Pas d’espionnage.</strong><br>
-  Gardez votre rôle secret et ne regardez jamais dans le <em>Grimoire</em>.</li>
-  <li><strong>Posez vos questions au Conteur.</strong><br>
-  Le Conteur est neutre et là pour vous aider.</li>
-  <li><strong>Jouez avec respect.</strong><br>
-  ⚔️ Tuez avec élégance, ☠️ mourez avec dignité.</li>
+  <li>
+    <strong>Vous pouvez dire ce que vous voulez, quand vous voulez.</strong><br>
+    C’est un jeu de parole. À vous de choisir entre discussion publique et apartés privés.
+  </li>
+  <li>
+    <strong>Pas d’espionnage.</strong><br>
+    Gardez votre jeton secret et ne regardez jamais le <em>Grimoire</em> (il contient tous les rôles).  
+    Voir quelque chose que vous ne devriez pas <strong>gâche le plaisir</strong>.
+  </li>
+  <li>
+    <strong>Posez vos questions au Conteur ou à la Conteuse.</strong><br>
+    En cas de doute sur votre rôle, un rôle que vous bluffez, un événement nocturne, ou pour un conseil stratégique… <strong>demandez</strong>.  
+    La personne qui conte est <strong>neutre</strong> et là pour vous aider. Signalez votre question et discutez-en en privé pour ne rien révéler aux autres.
+  </li>
+  <li>
+    <strong>Jouez avec respect.</strong><br>
+    Le jeu parle de tromperie, pas d’irrespect. <strong>Tuez avec élégance, et mourez avec dignité</strong>.
+  </li>
 </ol>
 
 <hr>
 
-<h2 style="color:#b58b52; font-weight:bold; font-size:28px;">⚖️ Nominations &amp; exécutions</h2>
+<h2 style="color:#b58b52; font-weight:bold; font-size:28px;">⚖️ Nominations et exécutions</h2>
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Pour nominer : dites <em>« Je nomine Céline »</em>.</li>
-  <li>Tout le monde vote. Le Conteur annonce : <em>« Les votes pour Céline, c’est parti. »</em></li>
+  <li>Pour nominer : dites clairement <em>« Je nomine … »</em>.</li>
+  <li>Tout le monde vote. Le Conteur annonce : <em>« Les votes pour …, c’est parti. »</em></li>
   <li>Le Conteur passe <strong>dans le sens horaire</strong> :
     <ul style="margin-top:6px;">
       <li>Main levée = vote <strong>pour</strong></li>
       <li>Main baissée = vote <strong>contre</strong></li>
     </ul>
   </li>
-  <li>✅ Une exécution a lieu si le joueur obtient <strong>au moins 50&nbsp;% des votes des vivants</strong>.</li>
+  <li>✅ Une exécution a lieu si la cible obtient <strong>au moins 50 % des votes des vivants</strong>.</li>
   <li>❌ En cas d’égalité, <strong>personne n’est exécuté</strong>.</li>
-  <li>☠️ Si vous mourez : vous perdez votre capacité, vous ne pouvez plus nominer, et vous n’avez plus qu’<strong>un seul vote</strong> pour toute la partie.</li>
+  <li>☠️ Si vous mourez : vous perdez votre capacité, vous ne pouvez plus nominer, et il vous reste <strong>un seul vote</strong> pour toute la partie.</li>
 </ul>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-✨ Voilà, vous connaissez les règles essentielles pour jouer à <em>Blood on the Clocktower</em> !
+✨ Vous connaissez maintenant l’essentiel pour jouer à <em>Blood on the Clocktower</em>. Bonne partie !
 </p>
 
 <hr>
