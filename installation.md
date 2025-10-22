@@ -1,3 +1,8 @@
+---
+layout: default
+title: Installation
+---
+
 
 <p align="left">
   <a href="/botc-fr-bambi/">
