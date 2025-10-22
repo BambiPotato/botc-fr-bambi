@@ -32,7 +32,7 @@
     des <span style="font-weight:bold; color:#d4a76a;">conseils</span> et des
     <span style="font-weight:bold; color:#d4a76a;">ressources</span>
     pour aider les communautés francophones à jouer dans un cadre
-    <span style="font-weight:bold; color:#d4a76a;">inclusif 🤝 et bienveillant 🫶🏻</span>.
+    <span style="font-weight:bold; color:#d4a76a;">inclusif 🤝 et bienveillant. 🫶🏻</span>
   </p>
 
 </div>
