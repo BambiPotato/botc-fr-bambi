@@ -26,7 +26,7 @@ title: Conseils & Stratégies
     <li><a href="#section11">Douces cerises, je suis Villageois !</a></li>
     <li><a href="#section12">Bon sang, je suis Étranger !</a></li>
   </ul>
-  <li><a href="#section2">Hot Diggity, je suis maléfique ! Et maintenant ?</a></li>
+  <li><a href="#section2">Hot Diggity, je suis Maléfique ! Et maintenant ?</a></li>
   <ul>
     <li><a href="#section21">Mwehe, je suis Sbire !</a></li>
     <li><a href="#section22">Oh là là, je suis Démon !</a></li>
