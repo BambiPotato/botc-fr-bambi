@@ -56,9 +56,9 @@
 
 - 📘 <span style="color:#b58b52; font-weight:bold; font-size:20px;">[**Glossary termes en anglais**](glossaireengfr.md)</span>  
 
-- 📘 <span style="color:#b58b52; font-weight:bold; font-size:20px;">[**Conseils pour les Conteurs**](conteur.md)</span> 
+- 📘 <span style="color:#b58b52; font-weight:bold; font-size:20px;">[**Conseils pour les Conteurs et les Conteuses**](conteur.md)</span> 
 
-- 📘 <span style="color:#b58b52; font-weight:bold; font-size:20px;">[**Conseils & Stratégies pour les joueurs**](strategie.md)</span> 
+- 📘 <span style="color:#b58b52; font-weight:bold; font-size:20px;">[**Conseils & Stratégies pour les joueurs et les joueuses**](strategie.md)</span> 
 
 ---
 <!-- 📖 Livre des Règles-->
@@ -121,7 +121,7 @@
   <a href="./voyageurs/voyageurs.html" style="text-decoration:none;">
     <img src="./images/Generic_traveller.png" alt="Voyageurs" width="260" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.3);">
     <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:20px;">🚶 Voyageurs</span>
+    <span style="color:#b58b52; font-weight:bold; font-size:20px;">🚶 Voyageurs et Voyageuses</span>
   </a>
 
   <!-- 🏰 Légendaires -->
