@@ -1,3 +1,7 @@
+---
+layout: default
+title: Explication des règles
+---
 
 <p align="left">
   <a href="/botc-fr-bambi/">
