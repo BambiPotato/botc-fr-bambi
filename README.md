@@ -13,7 +13,7 @@
   </h1>
 
   <h2 style="color:#b58b52; font-size:36px; font-weight:bold; text-shadow:2px 2px 6px #000; margin-top:20px;">
-    🚪 Bienvenue sur le Wiki Francophone 🇫🇷 🌍 *(non officiel)*  de <br>
+    🚪 Bienvenue sur le Wiki Francophone 🇫🇷 🌍 * "non officiel"*  de <br>
     <span style="color:#d4a76a;">Blood 🩸 on the Clocktower 🕰️</span>
   </h2>
 
