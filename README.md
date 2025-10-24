@@ -41,12 +41,6 @@
 ![Bannière BotC FR](images/banner.png)
 <button id="theme-toggle">☀️ Mode clair</button>
 
-<p align="center">
-  <a href="https://bambipotato.github.io/botc-fr-bambi/">
-    <img src="images/logogold.png" alt="Logo BotC FR" width="300">
-  </a>
-</p>
-
 ---
 <!-- ====== INFORMATIONS SUR LE JEU ====== -->
 <style>
