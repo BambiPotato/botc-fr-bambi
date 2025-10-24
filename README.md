@@ -562,7 +562,7 @@
     N’hésitez pas à proposer vos <span style="color:#d4a76a; font-weight:bold;">idées</span> ou vos <span style="color:#d4a76a; font-weight:bold;">corrections</span> pour continuer à l’enrichir.
   </p>
 
-  <p style="font-size:20px; color:#d4a76a; margin-top:25px; font-weight:bold; text-align:center;">
+  <p style="font-size:20px; color:#d4a76a; margin-top:25px; font-weight:bold; text-align:left;">
     💖 Merci à toutes et à tous.<br>
     <span style="font-size:22px;">Bambi Blue Potato 🥔</span>
   </p>
@@ -572,6 +572,6 @@
 
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="images/logogold.png" alt="Accueil BotC FR" width="200">
+    <img src="images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
