@@ -127,22 +127,21 @@
 <!-- ====== /INFORMATIONS SUR LE JEU ====== -->
 
 ---
-<!-- ====== 📜 LIVRE DES RÈGLES ====== -->
+<!-- ====== 📜 LIVRE DES RÈGLES (une seule section, grille responsive) ====== -->
 <style>
   .rules-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-    gap: 26px;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 22px;
     justify-items: center;
     margin: 16px auto 32px auto;
-    max-width: 950px;
+    max-width: 1100px;
   }
 
   .rule-card {
     display: inline-block;
     text-decoration: none;
     border-radius: 14px;
-    overflow: hidden;
     border: 1px solid rgba(181,139,82,0.25);
     background: rgba(255,255,255,0.02);
     box-shadow: 0 6px 18px rgba(0,0,0,0.28);
@@ -150,7 +149,7 @@
     width: 100%;
     max-width: 320px;
     text-align: center;
-    padding: 22px 12px;
+    padding: 18px 12px;
   }
 
   .rule-card:hover {
@@ -167,25 +166,22 @@
     font-size: 19px;
     text-decoration: none;
     letter-spacing: .2px;
-    line-height: 1.4;
+    line-height: 1.35;
   }
 
   .rule-sub {
+    display: block;
     color: #d4a76a;
     font-style: italic;
-    font-size: 16px;
-    line-height: 1.5;
+    font-size: 15px;
+    line-height: 1.45;
+    margin-top: 4px;
   }
 </style>
 
-<h1 style="color:#b58b52; font-size:46px; font-weight:bold; text-shadow:2px 2px 6px #000; margin-bottom:10px;">
+<h1 style="color:#b58b52; font-size:46px; font-weight:bold; text-shadow:2px 2px 6px #000; margin-bottom:14px;">
   📜 Livre des Règles
 </h1>
-
-<!-- 🧩 Section : Règles Essentielles -->
-<h3 style="color:#b58b52; font-weight:700; font-size:22px; margin:22px 0 8px;">
-  📘 Règles Essentielles
-</h3>
 
 <div class="rules-grid">
   <a class="rule-card" href="./installation.html">
@@ -194,25 +190,18 @@
 
   <a class="rule-card" href="./blood_on_the_clocktower.html">
     <span class="rule-title">📜 Découvrir le Jeu</span>
-    <div class="rule-sub">Vous débutez sur Blood 🩸 on the Clocktower&nbsp;?</div>
+    <span class="rule-sub">Vous débutez sur Blood on the Clocktower&nbsp;?</span>
   </a>
 
   <a class="rule-card" href="./regles.html">
     <span class="rule-title">📘 Explications des Règles</span>
-    <div class="rule-sub">Univers, mise en place et déroulement du jeu</div>
+    <span class="rule-sub">Univers, mise en place, déroulement</span>
   </a>
 
   <a class="rule-card" href="./repartition.html">
     <span class="rule-title">⚖️ Répartition du Village</span>
   </a>
-</div>
 
-<!-- 🧭 Section : Annexes & Outils -->
-<h3 style="color:#b58b52; font-weight:700; font-size:22px; margin:26px 0 8px;">
-  🧰 Annexes & Outils
-</h3>
-
-<div class="rules-grid">
   <a class="rule-card" href="./capacite.html">
     <span class="rule-title">📋 Capacités</span>
   </a>
@@ -227,7 +216,7 @@
 
   <a class="rule-card" href="./outildescript.html">
     <span class="rule-title">🔧 Outil de Script</span>
-    <div class="rule-sub">Créez des scripts uniques</div>
+    <span class="rule-sub">Créez des scripts uniques</span>
   </a>
 </div>
 <!-- ====== /📜 LIVRE DES RÈGLES ====== -->
@@ -435,7 +424,7 @@
   }
 </style>
 
-<h2 style="color:#b58b52; font-weight:bold; font-size:20px; margin-top:18px;">🎭 Catégories</h2>
+<h2 style="color:#b58b52; font-weight:bold; font-size:20px; margin-top:18px;">🎭 Rôles par Catégories</h2>
 
 <!-- Ligne 1 : Villageois & Étrangers -->
 <p class="row-label">Rôles du Bien</p>
