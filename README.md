@@ -181,8 +181,8 @@
     <span class="home-title">🌸 Sects &amp; Violets</span>
   </a>
 
-  <!-- 🚶 Voyageurs et Voyageuses -->
-  <a class="home-card" href="./voyageurs/voyageurs.html">
+  <!-- 🚶 Voyageurs et Voyageuses (à venir)-->
+  <a class="home-card" href="#" onclick="return false;">
     <img src="./images/Generic_traveller.png" alt="Voyageurs et Voyageuses">
     <span class="home-title">🚶 Voyageurs et Voyageuses</span>
   </a>
@@ -194,7 +194,7 @@
     <span class="badge-pending">à venir</span>
   </a>
 
-  <!-- 🎠 The Carousel Expérimental -->
+  <!-- 🎠 The Carousel Expérimental (En cour)--->
   <a class="home-card" href="./experimentaux.html">
     <img src="./images/carousel.png" alt="The Carousel Expérimental" style="opacity:.9;">
     <span class="home-title">🎠 The Carousel Expérimental</span>
@@ -212,7 +212,7 @@
 - [<span style="color:blue">**Étrangers**</span>](etrangers.md) 
 - [<span style="color:red">**Sbires**</span>](sbires.md) 
 - [<span style="color:red">**Démons**</span>](demons.md) 
-- [<span style="color:purple">**Voyageurs**</span>](voyageurs/voyageurs.md)
+- [<span style="color:purple">**Voyageurs**</span>]((#) ) * (à venir)*
 - [<span style="color:#b58b52">**Légendaires**</span>](#) *(à venir)* 
 
 
