@@ -126,109 +126,86 @@
 </div>
 <!-- ====== /INFORMATIONS SUR LE JEU ====== -->
 
----
-<!-- 📖 Livre des Règles -->
+<!-- 📖 Livre des Règles (version table, sans <div>) -->
 <h1 style="color:#b58b52; font-size:46px; font-weight:bold; text-shadow:2px 2px 6px #000; margin-bottom:14px;">
   📜 Livre des Règles
 </h1>
 
 <style>
-  /* Grille responsive */
-  .rules-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-    gap: 16px 18px; /* row-gap / column-gap */
-    margin: 10px 0 2px 0;
+  .rules-table { width:100%; border-collapse:separate; border-spacing:16px 14px; }
+  .rules-cell {
+    border:1px solid rgba(181,139,82,0.25);
+    border-radius:14px;
+    background:rgba(255,255,255,0.02);
+    box-shadow:0 6px 18px rgba(0,0,0,0.28);
+    padding:18px 12px;
+    text-align:center;
+    vertical-align:middle;
+    height:110px; /* hauteur uniforme */
   }
-  /* Carte lien */
-  .rule-card {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;  /* ✅ texte centré verticalement */
-    align-items: center;
-    text-decoration: none;
-    border-radius: 14px;
-    border: 1px solid rgba(181,139,82,0.25);
-    background: rgba(255,255,255,0.02);
-    box-shadow: 0 6px 18px rgba(0,0,0,0.28);
-    transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease, background .18s ease;
-    width: 100%;
-    text-align: center;
-    padding: 18px 12px;
-    min-height: 110px;        /* ✅ hauteur uniforme pour éviter tout collage */
-  }
-  .rule-card:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 10px 22px rgba(0,0,0,0.35);
-    border-color: rgba(212,167,106,0.55);
-    background: rgba(255,255,255,0.04);
-  }
-  .rule-title {
-    color:#d4a76a;
-    font-weight:bold;
-    font-size:20px;
-    line-height:1.25;
-    margin: 0;
-  }
-  .rule-sub {
-    color:#c9b08a;
-    font-size:14px;
-    opacity:.9;
-    margin-top:6px;
+  .rules-link { text-decoration:none; display:block; }
+  .rules-title { color:#d4a76a; font-weight:bold; font-size:20px; line-height:1.25; margin:0; }
+  .rules-sub   { color:#c9b08a; font-size:14px; opacity:.9; margin-top:6px; }
+  @media (max-width: 720px) {
+    .rules-table, .rules-table tbody, .rules-table tr, .rules-table td { display:block; width:100%; }
+    .rules-cell { margin-bottom:12px; height:auto; }
   }
 </style>
 
-<div class="rules-grid">
-
-  <!-- Découvrir le jeu -->
-  <a class="rule-card" href="./blood_on_the_clocktower.html">
-    <div class="rule-title">Découvrir le jeu</div>
-    <div class="rule-sub">Premiers pas, esprit du jeu</div>
-  </a>
-
-  <!-- Explications des règles -->
-  <a class="rule-card" href="./regles.html">
-    <div class="rule-title">Explications des règles</div>
-    <div class="rule-sub">Univers, signaux, déroulé</div>
-  </a>
-
-  <!-- Répartition du village -->
-  <a class="rule-card" href="./repartition.html">
-    <div class="rule-title">Répartition du village</div>
-    <div class="rule-sub">Tailles de groupes et rôles</div>
-  </a>
-
-  <!-- Installation -->
-  <a class="rule-card" href="./installation.html">
-    <div class="rule-title">Installation</div>
-    <div class="rule-sub">Mise en place étape par étape</div>
-  </a>
-
-  <!-- Capacités -->
-  <a class="rule-card" href="./capacite.html">
-    <div class="rule-title">Capacités</div>
-    <div class="rule-sub">Quand et comment elles s’appliquent</div>
-  </a>
-
-  <!-- États -->
-  <a class="rule-card" href="./etats.html">
-    <div class="rule-title">États</div>
-    <div class="rule-sub">Ivre, empoisonné, envoûté…</div>
-  </a>
-
-  <!-- Teensyville -->
-  <a class="rule-card" href="./teensyville.html">
-    <div class="rule-title">Teensyville</div>
-    <div class="rule-sub">Format 5–6 joueurs et joueuses</div>
-  </a>
-
-  <!-- Outil de Script -->
-  <a class="rule-card" href="./outildescript.html">
-    <div class="rule-title">Outil de Script</div>
-    <div class="rule-sub">Créez vos listes personnalisées</div>
-  </a>
-
-</div>
+<table class="rules-table">
+  <tr>
+    <td class="rules-cell">
+      <a class="rules-link" href="./blood_on_the_clocktower.html">
+        <div class="rules-title">Découvrir le jeu</div>
+        <div class="rules-sub">Premiers pas, esprit du jeu</div>
+      </a>
+    </td>
+    <td class="rules-cell">
+      <a class="rules-link" href="./regles.html">
+        <div class="rules-title">Explications des règles</div>
+        <div class="rules-sub">Univers, signaux, déroulé</div>
+      </a>
+    </td>
+    <td class="rules-cell">
+      <a class="rules-link" href="./repartition.html">
+        <div class="rules-title">Répartition du village</div>
+        <div class="rules-sub">Tailles de groupes et rôles</div>
+      </a>
+    </td>
+    <td class="rules-cell">
+      <a class="rules-link" href="./installation.html">
+        <div class="rules-title">Installation</div>
+        <div class="rules-sub">Mise en place étape par étape</div>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td class="rules-cell">
+      <a class="rules-link" href="./capacite.html">
+        <div class="rules-title">Capacités</div>
+        <div class="rules-sub">Quand et comment elles s’appliquent</div>
+      </a>
+    </td>
+    <td class="rules-cell">
+      <a class="rules-link" href="./etats.html">
+        <div class="rules-title">États</div>
+        <div class="rules-sub">Ivre, empoisonné, envoûté…</div>
+      </a>
+    </td>
+    <td class="rules-cell">
+      <a class="rules-link" href="./teensyville.html">
+        <div class="rules-title">Teensyville</div>
+        <div class="rules-sub">Format 5–6 joueurs et joueuses</div>
+      </a>
+    </td>
+    <td class="rules-cell">
+      <a class="rules-link" href="./outildescript.html">
+        <div class="rules-title">Outil de Script</div>
+        <div class="rules-sub">Créez vos listes personnalisées</div>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## <span style="color:#b58b52; font-weight:bold; font-size:22px;">👺 Rôles par Édition</span>
 
