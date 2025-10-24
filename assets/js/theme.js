@@ -1,97 +1,81 @@
-// =====================================================
-// assets/js/theme.js
-// - Bouton clair/sombre (via body.light-mode)
-// - Liens .md -> .html (anti-404)
-// - "Jinx pliable" (fallback si <details>/<summary> s'affichent mal)
-// =====================================================
-
+// ===========================
+// Theme + Helpers (Slate safe)
+// ===========================
 document.addEventListener("DOMContentLoaded", () => {
-
-  // ------------------------------
-  // 1) Thème clair / sombre
-  // ------------------------------
+  // --- Thème clair/sombre ---
   const btn = document.getElementById("theme-toggle");
 
-  function setButtonLabel(isLight) {
-    if (!btn) return;
-    btn.textContent = isLight ? "🌙 Mode sombre" : "☀️ Mode clair";
-  }
-
-  function applyLight() {
+  // Applique l'état mémorisé (par défaut: sombre)
+  if (localStorage.getItem("theme") === "light") {
     document.body.classList.add("light-mode");
-    try { localStorage.setItem("theme", "light"); } catch(e){}
-    setButtonLabel(true);
+    if (btn) btn.textContent = "🌙 Mode sombre";
+  } else {
+    if (btn) btn.textContent = "☀️ Mode clair";
   }
 
-  function applyDark() {
-    document.body.classList.remove("light-mode");
-    try { localStorage.setItem("theme", "dark"); } catch(e){}
-    setButtonLabel(false);
-  }
-
-  // État mémorisé (par défaut : sombre)
-  let stored = null;
-  try { stored = localStorage.getItem("theme"); } catch(e){ stored = null; }
-  if (stored === "light") applyLight(); else applyDark();
-
-  // Toggle au clic (ne bloque rien si le bouton n’existe pas)
+  // Toggle au clic (ne bloque pas le reste si le bouton n'existe pas)
   if (btn) {
     btn.addEventListener("click", () => {
+      document.body.classList.toggle("light-mode");
       const isLight = document.body.classList.contains("light-mode");
-      if (isLight) applyDark(); else applyLight();
+      localStorage.setItem("theme", isLight ? "light" : "dark");
+      btn.textContent = isLight ? "🌙 Mode sombre" : "☀️ Mode clair";
     });
   }
 
-  // ------------------------------
-  // 2) Liens .md -> .html (anti-404)
-  // ------------------------------
+  // --- Redirection automatique des liens .md -> .html ---
+  // (évite les 404 sur GitHub Pages / Jekyll)
   document.querySelectorAll("a[href$='.md']").forEach(link => {
     const originalHref = link.getAttribute("href") || "";
-    if (/^https?:\/\//i.test(originalHref)) return; // on ne touche pas aux URLs externes
-    link.setAttribute("href", originalHref.replace(/\.md$/i, ".html"));
+    // Si le lien est absolu (http...) on ne touche pas
+    if (/^https?:\/\//i.test(originalHref)) return;
+    // Remplace .md par .html
+    const newHref = originalHref.replace(/\.md$/i, ".html");
+    link.setAttribute("href", newHref);
   });
 
-  // ------------------------------
-  // 3) JINX pliable (fallback)
-  // ------------------------------
-  // HTML attendu :
+  // --- JINX pliable (remplace <details>/<summary> si ton thème les rend en texte brut) ---
+  // Structure attendue dans le HTML :
   // <div class="jinx-toggle">
-  //   <div class="jinx-summary">Jinx associé (cliquer pour ouvrir)</div>
-  //   <div class="jinx-content">… contenu …</div>
+  //   <div class="jinx-summary"><span class="arrow">▶️</span> Jinx associé (cliquer pour ouvrir)</div>
+  //   <div class="jinx-content"> ... contenu ... </div>
   // </div>
   document.querySelectorAll(".jinx-toggle").forEach(block => {
     const summary = block.querySelector(".jinx-summary");
     const content = block.querySelector(".jinx-content");
     if (!summary || !content) return;
 
-    // État initial : masqué
+    // Etat initial : contenu masqué
     content.style.display = "none";
-
     summary.style.cursor = "pointer";
-    summary.setAttribute("role", "button");
-    summary.setAttribute("tabindex", "0");
-    summary.setAttribute("aria-expanded", "false");
 
+    // Ajoute l'icône si absente
     let arrow = summary.querySelector(".arrow");
     if (!arrow) {
       arrow = document.createElement("span");
       arrow.className = "arrow";
       arrow.textContent = "▶️";
-      arrow.style.marginRight = "6px";
       summary.prepend(arrow);
+      summary.insertAdjacentText("beforeend", " "); // petit espace
     }
 
-    function toggle() {
+    summary.addEventListener("click", () => {
       const hidden = content.style.display === "none";
       content.style.display = hidden ? "block" : "none";
       arrow.textContent = hidden ? "🔽" : "▶️";
-      summary.setAttribute("aria-expanded", hidden ? "true" : "false");
-    }
-
-    summary.addEventListener("click", toggle);
-    summary.addEventListener("keydown", (e) => {
-      if (e.key === "Enter" || e.key === " ") { e.preventDefault(); toggle(); }
     });
   });
 
+  // --- Sécurité de secours : forcer l’affichage du bouton et son clic ---
+  const themeButton = document.getElementById("theme-toggle");
+  if (themeButton) {
+    themeButton.addEventListener("click", () => {
+      document.body.classList.toggle("light-mode");
+      const isLight = document.body.classList.contains("light-mode");
+      localStorage.setItem("theme", isLight ? "light" : "dark");
+      themeButton.textContent = isLight ? "🌙 Mode sombre" : "☀️ Mode clair";
+    });
+  } else {
+    console.warn("⚠️ Bouton #theme-toggle introuvable sur cette page.");
+  }
 });
