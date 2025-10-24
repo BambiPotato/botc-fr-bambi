@@ -334,130 +334,64 @@
 <!-- ====== /GRID D'ACCUEIL ====== -->
 
 ---
-<!-- ====== CATEGORIES (cartes cliquables, 2 par ligne) ====== -->
-<style>
-  .cat-grid {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(220px, 1fr));
-    gap: 24px;
-    justify-items: center;
-    align-items: start;
-    margin: 26px auto 8px auto;
-    max-width: 820px;
-  }
-  @media (max-width: 700px) {
-    .cat-grid { grid-template-columns: 1fr; }
-  }
+<!-- 🎭 Catégories -->
+<h2 style="color:#b58b52; font-weight:bold; font-size:22px; text-align:center;">🎭 Catégories</h2>
 
-  .cat-card {
-    display: inline-block;
-    text-decoration: none;
-    border-radius: 14px;
-    overflow: hidden;
-    border: 1px solid rgba(181,139,82,0.28);
-    background: rgba(255,255,255,0.02);
-    box-shadow: 0 6px 18px rgba(0,0,0,0.28);
-    transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease, background .18s ease;
-    width: 100%;
-    max-width: 360px;
-    text-align: center;
-  }
-  .cat-card:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 10px 24px rgba(0,0,0,0.38);
-    border-color: rgba(212,167,106,0.55);
-    background: rgba(255,255,255,0.04);
-  }
+<table style="width:100%; border-collapse:separate; border-spacing:16px; margin:0 auto; max-width:960px;">
+  <tr>
+    <!-- Villageois -->
+    <td style="width:50%; text-align:center; padding:12px; background:rgba(255,255,255,0.02); border:1px solid #b58b52; border-radius:12px;">
+      <a href="./villageois.html" style="text-decoration:none; display:inline-block;">
+        <img src="./images/Generic_townsfolk.png" alt="Villageois" width="240" style="border-radius:12px;">
+        <div style="margin-top:8px; color:blue; font-weight:bold; font-size:20px;">Villageois</div>
+      </a>
+    </td>
 
-  .cat-card img {
-    display: block;
-    width: 100%;
-    height: auto;
-    aspect-ratio: 4 / 3;
-    object-fit: contain;
-    background: rgba(0,0,0,0.25);
-  }
+    <!-- Étrangers -->
+    <td style="width:50%; text-align:center; padding:12px; background:rgba(255,255,255,0.02); border:1px solid #b58b52; border-radius:12px;">
+      <a href="./etrangers.html" style="text-decoration:none; display:inline-block;">
+        <img src="./images/Generic_outsider.png" alt="Étrangers" width="240" style="border-radius:12px;">
+        <div style="margin-top:8px; color:blue; font-weight:bold; font-size:20px;">Étrangers</div>
+      </a>
+    </td>
+  </tr>
 
-  .cat-title {
-    display: block;
-    padding: 10px 10px 12px 10px;
-    font-weight: 800;
-    font-size: 20px;
-    letter-spacing: .2px;
-    text-decoration: none;
-  }
-  .cat-title.blue { color: #6fb7ff; }     /* Villageois / Étrangers */
-  .cat-title.red  { color: #ff6b6b; }     /* Sbires / Démons */
-  .cat-title.purp { color: #b58bff; }     /* Voyageurs */
-  .cat-title.gold { color: #b58b52; }     /* Légendaires */
+  <tr>
+    <!-- Sbires -->
+    <td style="text-align:center; padding:12px; background:rgba(255,255,255,0.02); border:1px solid #b58b52; border-radius:12px;">
+      <a href="./sbires.html" style="text-decoration:none; display:inline-block;">
+        <img src="./images/Generic_minion.png" alt="Sbires" width="240" style="border-radius:12px;">
+        <div style="margin-top:8px; color:red; font-weight:bold; font-size:20px;">Sbires</div>
+      </a>
+    </td>
 
-  .badge-pending {
-    display: inline-block;
-    margin: 2px 0 12px 0;
-    padding: 2px 8px;
-    font-size: 12px;
-    color: #d4a76a;
-    border: 1px solid rgba(212,167,106,0.45);
-    border-radius: 999px;
-    opacity: .85;
-  }
+    <!-- Démons -->
+    <td style="text-align:center; padding:12px; background:rgba(255,255,255,0.02); border:1px solid #b58b52; border-radius:12px;">
+      <a href="./demons.html" style="text-decoration:none; display:inline-block;">
+        <img src="./images/Generic_demon.png" alt="Démons" width="240" style="border-radius:12px;">
+        <div style="margin-top:8px; color:red; font-weight:bold; font-size:20px;">Démons</div>
+      </a>
+    </td>
+  </tr>
 
-  /* Petits intertitres de rangée */
-  .row-label {
-    margin: 18px auto -4px auto;
-    max-width: 820px;
-    color: #b58b52;
-    font-weight: 700;
-    font-size: 16px;
-    opacity: .9;
-  }
-</style>
+  <tr>
+    <!-- Voyageurs -->
+    <td style="text-align:center; padding:12px; background:rgba(255,255,255,0.02); border:1px solid #b58b52; border-radius:12px;">
+      <a href="./voyageurs/voyageurs.html" style="text-decoration:none; display:inline-block;">
+        <img src="./images/Generic_traveller.png" alt="Voyageurs" width="240" style="border-radius:12px;">
+        <div style="margin-top:8px; color:purple; font-weight:bold; font-size:20px;">Voyageurs</div>
+      </a>
+    </td>
 
-<h2 style="color:#b58b52; font-weight:bold; font-size:20px; margin-top:18px;">🎭 Rôles par Catégories</h2>
-
-<!-- Ligne 1 : Villageois & Étrangers -->
-<p class="row-label">Rôles du Bien</p>
-<div class="cat-grid" role="list">
-  <a class="cat-card" role="listitem" href="./villageois.html" aria-label="Villageois">
-    <img src="./images/Generic_townsfolk.png" alt="Villageois">
-    <span class="cat-title blue">🔵 Villageois</span>
-  </a>
-
-  <a class="cat-card" role="listitem" href="./etrangers.html" aria-label="Étrangers">
-    <img src="./images/Generic_outsider.png" alt="Étrangers">
-    <span class="cat-title blue">🔵 Étrangers</span>
-  </a>
-</div>
-
-<!-- Ligne 2 : Sbires & Démons -->
-<p class="row-label">Rôles du Mal</p>
-<div class="cat-grid" role="list">
-  <a class="cat-card" role="listitem" href="./sbires.html" aria-label="Sbires">
-    <img src="./images/Generic_minion.png" alt="Sbires">
-    <span class="cat-title red">🔴 Sbires</span>
-  </a>
-
-  <a class="cat-card" role="listitem" href="./demons.html" aria-label="Démons">
-    <img src="./images/Generic_demon.png" alt="Démons">
-    <span class="cat-title red">🔴 Démons</span>
-  </a>
-</div>
-
-<!-- Ligne 3 : Voyageurs & Légendaires -->
-<p class="row-label">Voyageurs & Légendaires</p>
-<div class="cat-grid" role="list">
-  <a class="cat-card" role="listitem" href="./voyageurs/voyageurs.html" aria-label="Voyageurs et Voyageuses">
-    <img src="./images/Generic_traveller.png" alt="Voyageurs et Voyageuses">
-    <span class="cat-title purp">🟣 Voyageurs et Voyageuses</span>
-  </a>
-
-  <a class="cat-card" role="listitem" href="#" onclick="return false;" aria-label="Légendaires">
-    <img src="./images/Generic_fabled.png" alt="Légendaires" style="opacity:.55; filter: grayscale(20%);">
-    <span class="cat-title gold">🏰 Légendaires</span>
-    <span class="badge-pending">à venir</span>
-  </a>
-</div>
-<!-- ====== /CATEGORIES ====== -->
+    <!-- Légendaires -->
+    <td style="text-align:center; padding:12px; background:rgba(255,255,255,0.02); border:1px solid #b58b52; border-radius:12px;">
+      <a href="./legendaires.html" style="text-decoration:none; display:inline-block;">
+        <img src="./images/Generic_fabled.png" alt="Légendaires" width="240" style="border-radius:12px;">
+        <div style="margin-top:8px; color:#b58b52; font-weight:bold; font-size:20px;">Légendaires</div>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ---
