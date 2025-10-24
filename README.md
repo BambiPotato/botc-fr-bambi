@@ -231,7 +231,7 @@
   </a>
 </div>
 <!-- ====== /📜 LIVRE DES RÈGLES ====== -->
----
+
 
 ## <span style="color:#b58b52; font-weight:bold; font-size:22px;">👺 Rôles par Édition</span>
 
