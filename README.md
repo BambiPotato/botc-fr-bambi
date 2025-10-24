@@ -528,16 +528,23 @@
   </p>
 
   <p style="font-size:20px; color:#e0c99d;">
-    Si vous souhaitez jouer en personne, vous pouvez rejoindre le groupe  
-    <span style="font-weight:bold; color:#d4a76a;">Meetup Blood on the Clocktower Paris</span>,
-    animé par <span style="font-weight:bold; color:#d4a76a;">Pierre</span> 💫 :
+    Si vous souhaitez jouer en personne, dans un <span style="color:#d4a76a; font-weight:bold;">cadre bienveillant</span>,  
+    plusieurs groupes francophones organisent régulièrement des parties :
   </p>
 
-  <p style="margin-top:10px; font-size:20px;">
-    👉 <a href="https://www.meetup.com/blood-on-the-clocktower-paris/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-      Blood on the Clocktower Paris – Meetup
-    </a>
-  </p>
+  <ul style="color:#e0c99d; font-size:20px; line-height:1.7; margin-left:30px;">
+    <li>🗼 <strong>Paris</strong> — parties menées par <span style="color:#d4a76a; font-weight:bold;">Pierre</span> 💫  
+      → <a href="https://www.meetup.com/blood-on-the-clocktower-paris/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">
+        Blood on the Clocktower Paris – Meetup
+      </a>
+    </li>
+
+    <li>⚓ <strong>Nantes</strong> — parties menées par <span style="color:#d4a76a; font-weight:bold;">Bibel</span> 🎭  
+      → <a href="https://www.meetup.com/blood-on-the-clocktower-nantes/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">
+        Blood on the Clocktower Nantes – Meetup
+      </a>
+    </li>
+  </ul>
 
   <hr style="width:50%; margin:30px 0; border:1px solid #b58b52; opacity:0.6;">
 
@@ -545,8 +552,8 @@
 
   <p style="font-size:20px; color:#e0c99d;">
     Ce wiki a pour objectif de partager <span style="color:#d4a76a; font-weight:bold;">Blood on the Clocktower</span> en français  
-    et de le rendre accessible à toutes et à tous, que vous soyez joueur ou joueuse débutant·e ou confirmé·e,  
-    conteur ou conteuse expérimenté·e, ou simplement curieux et curieuse de découvrir cet univers.
+    et de le rendre accessible à toutes et à tous, que vous soyez joueur ou joueuse débutant, confirmé, conteur ou conteuse expérimenté,  
+    ou simplement curieux ou curieuse de découvrir cet univers.
   </p>
 
   <p style="font-size:19px; color:#e0c99d; margin-top:20px;">
