@@ -6,27 +6,6 @@
 
 
 <button id="theme-toggle">☀️ Mode clair</button>
-<script>
-(function () {
-  const btn = document.getElementById("theme-toggle");
-  if (!btn) return;
-
-  // Applique l'état mémorisé au chargement
-  const apply = () => {
-    const isLight = localStorage.getItem("theme") === "light";
-    document.body.classList.toggle("light-mode", isLight);
-    btn.textContent = isLight ? "🌙 Mode sombre" : "☀️ Mode clair";
-  };
-  apply();
-
-  // Toggle au clic + mémorisation
-  btn.addEventListener("click", () => {
-    const isLight = document.body.classList.toggle("light-mode");
-    localStorage.setItem("theme", isLight ? "light" : "dark");
-    btn.textContent = isLight ? "🌙 Mode sombre" : "☀️ Mode clair";
-  });
-})();
-</script>
 
    
  <!-- 🏠 PAGE D’ACCUEIL - WIKI BOTC FR -->
