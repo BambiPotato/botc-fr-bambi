@@ -175,7 +175,7 @@ Si vous êtes un rôle qui aime être ciblé la nuit, bluffez un rôle à risque
 
 <hr>
 
-<h2 id="section12">1.2) Bon sang, je suis Étranger !</h2>
+<h2 id="section12">1.2) Bon sang, je suis <span style="color:blue;">Étranger</span> !</h2>
 
 <p>
 Transformez votre handicap en avantage.  
