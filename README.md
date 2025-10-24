@@ -47,6 +47,7 @@
 </p>
 
 ---
+
 <!-- ====== INFORMATIONS SUR LE JEU ====== -->
 <style>
   .info-grid {
@@ -70,6 +71,7 @@
     width: 100%;
     max-width: 320px;
     text-align: center;
+    padding: 24px 10px;
   }
 
   .home-card:hover {
@@ -79,23 +81,14 @@
     background: rgba(255,255,255,0.04);
   }
 
-  .home-card img {
-    display: block;
-    width: 100%;
-    height: auto;
-    aspect-ratio: 4 / 3;
-    object-fit: contain;
-    background: rgba(0,0,0,0.25);
-  }
-
   .home-title {
     display: block;
-    padding: 10px 10px 14px 10px;
     color: #b58b52;
     font-weight: 700;
-    font-size: 18px;
+    font-size: 19px;
     text-decoration: none;
     letter-spacing: .2px;
+    line-height: 1.4;
   }
 </style>
 
@@ -107,25 +100,21 @@
 
   <!-- 📘 Glossaire FR -->
   <a class="home-card" href="./glossaire.html" aria-label="Glossaire des termes Français">
-    <img src="./images/Icon_book_fr.png" alt="Glossaire des termes Français">
     <span class="home-title">📘 Glossaire des termes 🇫🇷</span>
   </a>
 
   <!-- 📘 Glossaire EN -->
   <a class="home-card" href="./glossaireengfr.html" aria-label="Glossaire des termes anglais">
-    <img src="./images/Icon_book_en.png" alt="Glossary English terms">
     <span class="home-title">📘 Glossary des termes en anglais</span>
   </a>
 
-  <!-- 📘 Conseils Conteurs et Conteuses -->
+  <!-- 📘 Conseils Conteurs -->
   <a class="home-card" href="./conteur.html" aria-label="Conseils pour les Conteurs et Conteuses">
-    <img src="./images/Icon_storyteller.png" alt="Conseils pour les Conteurs et Conteuses">
     <span class="home-title">📘 Conseils pour les Conteurs et Conteuses</span>
   </a>
 
-  <!-- 📘 Conseils Joueurs et Joueuses -->
+  <!-- 📘 Conseils Joueurs -->
   <a class="home-card" href="./strategie.html" aria-label="Conseils et Stratégies pour les joueurs et joueuses">
-    <img src="./images/Icon_player_tips.png" alt="Conseils et stratégies">
     <span class="home-title">📘 Conseils & Stratégies pour les joueurs et joueuses</span>
   </a>
 
