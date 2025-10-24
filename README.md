@@ -335,7 +335,7 @@
 
 ---
 <!-- 🎭 Catégories -->
-<h2 style="color:#b58b52; font-weight:bold; font-size:22px; text-align:center;">🎭 Catégories</h2>
+<h2 style="color:#b58b52; font-weight:bold; font-size:22px; text-align:left;">🎭 Catégories</h2>
 
 <table style="width:100%; border-collapse:separate; border-spacing:16px; margin:0 auto; max-width:960px;">
   <tr>
