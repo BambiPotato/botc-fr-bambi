@@ -383,7 +383,7 @@
 </div>
 
 <!-- Ligne 3 : Voyageurs & Légendaires -->
-<p class="row-label">Modules spéciaux</p>
+<p class="row-label">Voyageurs & Légendaires</p>
 <div class="cat-grid" role="list">
   <a class="cat-card" role="listitem" href="./voyageurs/voyageurs.html" aria-label="Voyageurs et Voyageuses">
     <img src="./images/Generic_traveller.png" alt="Voyageurs et Voyageuses">
