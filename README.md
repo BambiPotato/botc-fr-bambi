@@ -185,6 +185,7 @@
   <a class="home-card" href="#" onclick="return false;">
     <img src="./images/Generic_traveller.png" alt="Voyageurs et Voyageuses">
     <span class="home-title">🚶 Voyageurs et Voyageuses</span>
+    <span class="badge-pending">à venir</span>
   </a>
 
   <!-- 🏰 Légendaires (à venir) -->
@@ -194,10 +195,11 @@
     <span class="badge-pending">à venir</span>
   </a>
 
-  <!-- 🎠 The Carousel Expérimental (En cour)--->
+  <!-- 🎠 The Carousel Expérimental (à venir)--->
   <a class="home-card" href="./experimentaux.html">
     <img src="./images/carousel.png" alt="The Carousel Expérimental" style="opacity:.9;">
     <span class="home-title">🎠 The Carousel Expérimental</span>
+    <span class="badge-pending">à venir</span>
   </a>
 
 </div>
