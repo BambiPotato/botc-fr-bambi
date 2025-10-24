@@ -1,60 +1,62 @@
 // ===========================
-// Thème clair / sombre + Helpers + Jinx
+// Thème clair/sombre + anti-404 + Jinx pliable
 // ===========================
 document.addEventListener("DOMContentLoaded", () => {
 
   // --- 🎨 Thème clair / sombre ---
   const btn = document.getElementById("theme-toggle");
 
-  // Applique l'état mémorisé (sombre par défaut)
-  const isLight = localStorage.getItem("theme") === "light";
-  if (isLight) document.body.classList.add("light-mode");
-  if (btn) btn.textContent = isLight ? "🌙 Mode sombre" : "☀️ Mode clair";
+  // Appliquer le thème mémorisé (sombre par défaut)
+  const applyTheme = () => {
+    const isLight = localStorage.getItem("theme") === "light";
+    document.body.classList.toggle("light-mode", isLight);
+    if (btn) {
+      btn.textContent = isLight ? "🌙 Mode sombre" : "☀️ Mode clair";
+    }
+  };
+  applyTheme();
 
-  // Toggle au clic
+  // Quand on clique sur le bouton
   if (btn) {
     btn.addEventListener("click", () => {
-      document.body.classList.toggle("light-mode");
-      const lightNow = document.body.classList.contains("light-mode");
-      localStorage.setItem("theme", lightNow ? "light" : "dark");
-      btn.textContent = lightNow ? "🌙 Mode sombre" : "☀️ Mode clair";
+      const isLight = document.body.classList.toggle("light-mode");
+      localStorage.setItem("theme", isLight ? "light" : "dark");
+      btn.textContent = isLight ? "🌙 Mode sombre" : "☀️ Mode clair";
     });
   }
 
-  // --- 🔁 Correction automatique des liens .md -> .html ---
+  // --- 🔁 Redirection automatique des liens .md → .html ---
   document.querySelectorAll("a[href$='.md']").forEach(link => {
     const originalHref = link.getAttribute("href") || "";
-    if (/^https?:\/\//i.test(originalHref)) return; // ignore les liens externes
+    // Ignorer les liens externes
+    if (/^https?:\/\//i.test(originalHref)) return;
+    // Convertir .md → .html
     const newHref = originalHref.replace(/\.md$/i, ".html");
     link.setAttribute("href", newHref);
   });
 
-  // --- 📂 JINX pliable (compat thème Slate) ---
+  // --- 📂 Jinx pliable (pour remplacer <details>/<summary>) ---
   document.querySelectorAll(".jinx-toggle").forEach(block => {
     const summary = block.querySelector(".jinx-summary");
     const content = block.querySelector(".jinx-content");
     if (!summary || !content) return;
 
-    // État initial
     content.style.display = "none";
     summary.style.cursor = "pointer";
 
-    // Flèche si absente
+    // Ajoute la flèche si elle n’existe pas déjà
     let arrow = summary.querySelector(".arrow");
     if (!arrow) {
       arrow = document.createElement("span");
       arrow.className = "arrow";
-      arrow.textContent = "▶️";
+      arrow.textContent = "▶️ ";
       summary.prepend(arrow);
-      summary.insertAdjacentText("beforeend", " ");
     }
 
-    // Toggle
     summary.addEventListener("click", () => {
       const hidden = content.style.display === "none";
       content.style.display = hidden ? "block" : "none";
-      arrow.textContent = hidden ? "🔽" : "▶️";
+      arrow.textContent = hidden ? "🔽 " : "▶️ ";
     });
   });
-
 });
