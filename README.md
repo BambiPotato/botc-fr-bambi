@@ -171,7 +171,7 @@
     <td class="rules-cell">
       <a class="rules-link" href="./repartition.html">
         <div class="rules-title">Répartition du village</div>
-        <div class="rules-sub">Tailles de groupes et rôles</div>
+        <div class="rules-sub">Configuration officielle</div>
       </a>
     </td>
     <td class="rules-cell">
