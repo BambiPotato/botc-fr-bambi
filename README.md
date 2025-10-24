@@ -47,18 +47,90 @@
 </p>
 
 ---
-<!-- 📖 Informations sur le Jeu-->
-<h1 style="color:#b58b52; font-size:46px; font-weight:bold; text-shadow:2px 2px 6px #000;">
-    📜 Informations sur le Jeu
-  </h1>
+<!-- ====== INFORMATIONS SUR LE JEU ====== -->
+<style>
+  .info-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 26px;
+    justify-items: center;
+    margin: 26px auto 12px auto;
+    max-width: 950px;
+  }
 
-- 📘 <span style="color:#b58b52; font-weight:bold; font-size:20px;">[**Glossaire des termes 🇫🇷**](glossaire.md)</span>  
+  .home-card {
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 14px;
+    overflow: hidden;
+    border: 1px solid rgba(181,139,82,0.28);
+    background: rgba(255,255,255,0.02);
+    box-shadow: 0 6px 18px rgba(0,0,0,0.28);
+    transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease, background .18s ease;
+    width: 100%;
+    max-width: 320px;
+    text-align: center;
+  }
 
-- 📘 <span style="color:#b58b52; font-weight:bold; font-size:20px;">[**Glossary termes en anglais**](glossaireengfr.md)</span>  
+  .home-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 24px rgba(0,0,0,0.38);
+    border-color: rgba(212,167,106,0.55);
+    background: rgba(255,255,255,0.04);
+  }
 
-- 📘 <span style="color:#b58b52; font-weight:bold; font-size:20px;">[**Conseils pour les Conteurs et les Conteuses**](conteur.md)</span> 
+  .home-card img {
+    display: block;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 4 / 3;
+    object-fit: contain;
+    background: rgba(0,0,0,0.25);
+  }
 
-- 📘 <span style="color:#b58b52; font-weight:bold; font-size:20px;">[**Conseils & Stratégies pour les joueurs et les joueuses**](strategie.md)</span> 
+  .home-title {
+    display: block;
+    padding: 10px 10px 14px 10px;
+    color: #b58b52;
+    font-weight: 700;
+    font-size: 18px;
+    text-decoration: none;
+    letter-spacing: .2px;
+  }
+</style>
+
+<h1 style="color:#b58b52; font-size:46px; font-weight:bold; text-shadow:2px 2px 6px #000; margin-bottom:10px;">
+  📜 Informations sur le Jeu
+</h1>
+
+<div class="info-grid">
+
+  <!-- 📘 Glossaire FR -->
+  <a class="home-card" href="./glossaire.html" aria-label="Glossaire des termes Français">
+    <img src="./images/Icon_book_fr.png" alt="Glossaire des termes Français">
+    <span class="home-title">📘 Glossaire des termes 🇫🇷</span>
+  </a>
+
+  <!-- 📘 Glossaire EN -->
+  <a class="home-card" href="./glossaireengfr.html" aria-label="Glossaire des termes anglais">
+    <img src="./images/Icon_book_en.png" alt="Glossary English terms">
+    <span class="home-title">📘 Glossary des termes en anglais</span>
+  </a>
+
+  <!-- 📘 Conseils Conteurs et Conteuses -->
+  <a class="home-card" href="./conteur.html" aria-label="Conseils pour les Conteurs et Conteuses">
+    <img src="./images/Icon_storyteller.png" alt="Conseils pour les Conteurs et Conteuses">
+    <span class="home-title">📘 Conseils pour les Conteurs et Conteuses</span>
+  </a>
+
+  <!-- 📘 Conseils Joueurs et Joueuses -->
+  <a class="home-card" href="./strategie.html" aria-label="Conseils et Stratégies pour les joueurs et joueuses">
+    <img src="./images/Icon_player_tips.png" alt="Conseils et stratégies">
+    <span class="home-title">📘 Conseils & Stratégies pour les joueurs et joueuses</span>
+  </a>
+
+</div>
+<!-- ====== /INFORMATIONS SUR LE JEU ====== -->
 
 ---
 <!-- 📖 Livre des Règles-->
