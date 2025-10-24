@@ -40,7 +40,7 @@
 
 <!-- Bannière contrôlée -->
 <img src="images/banner.png" alt="Bannière BotC FR"
-     style="display:block; margin:18px auto 20px auto; max-width:100%; max-height:260px; width:auto; height:auto; object-fit:cover; border-radius:8px;" />
+     style="display:block; margin:18px auto 20px auto; max-width:100%; max-height:200px; width:auto; height:auto; object-fit:cover; border-radius:8px;" />
 
 <button id="theme-toggle">☀️ Mode clair</button>
 
