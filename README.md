@@ -4,6 +4,7 @@
   </a>
 </p>
 
+<button id="theme-toggle">☀️ Mode clair</button>
    
  <!-- 🏠 PAGE D’ACCUEIL - WIKI BOTC FR -->
 
@@ -42,7 +43,6 @@
 <img src="images/banner.png" alt="Bannière BotC FR"
      style="display:block; margin:18px auto 20px auto; max-width:100%; max-height:180px; width:auto; height:auto; object-fit:cover; border-radius:8px;" />
 
-<button id="theme-toggle">☀️ Mode clair</button>
 
 <hr style="margin:16px auto; max-width:980px; border:1px solid rgba(181,139,82,.25);">
 <!-- ====== INFORMATIONS SUR LE JEU ====== -->
