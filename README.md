@@ -127,14 +127,14 @@
 <!-- ====== /INFORMATIONS SUR LE JEU ====== -->
 
 ---
-<!-- ====== LIVRE DES RÈGLES ====== -->
+<!-- ====== 📜 LIVRE DES RÈGLES ====== -->
 <style>
   .rules-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
     gap: 26px;
     justify-items: center;
-    margin: 26px auto 12px auto;
+    margin: 16px auto 32px auto;
     max-width: 950px;
   }
 
@@ -143,7 +143,7 @@
     text-decoration: none;
     border-radius: 14px;
     overflow: hidden;
-    border: 1px solid rgba(181,139,82,0.28);
+    border: 1px solid rgba(181,139,82,0.25);
     background: rgba(255,255,255,0.02);
     box-shadow: 0 6px 18px rgba(0,0,0,0.28);
     transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease, background .18s ease;
@@ -182,53 +182,55 @@
   📜 Livre des Règles
 </h1>
 
-<div class="rules-grid">
+<!-- 🧩 Section : Règles Essentielles -->
+<h3 style="color:#b58b52; font-weight:700; font-size:22px; margin:22px 0 8px;">
+  📘 Règles Essentielles
+</h3>
 
-  <!-- 🏗️ Installation -->
+<div class="rules-grid">
   <a class="rule-card" href="./installation.html">
     <span class="rule-title">🏗️ Installation</span>
   </a>
 
-  <!-- 📜 Découvrir le Jeu -->
   <a class="rule-card" href="./blood_on_the_clocktower.html">
     <span class="rule-title">📜 Découvrir le Jeu</span>
-    <div class="rule-sub">Vous débutez sur Blood 🩸 on the Clocktower ?</div>
+    <div class="rule-sub">Vous débutez sur Blood 🩸 on the Clocktower&nbsp;?</div>
   </a>
 
-  <!-- 📘 Explications des Règles -->
   <a class="rule-card" href="./regles.html">
     <span class="rule-title">📘 Explications des Règles</span>
     <div class="rule-sub">Univers, mise en place et déroulement du jeu</div>
   </a>
 
-  <!-- ⚖️ Répartition du Village -->
   <a class="rule-card" href="./repartition.html">
     <span class="rule-title">⚖️ Répartition du Village</span>
   </a>
+</div>
 
-  <!-- 📋 Capacités -->
+<!-- 🧭 Section : Annexes & Outils -->
+<h3 style="color:#b58b52; font-weight:700; font-size:22px; margin:26px 0 8px;">
+  🧰 Annexes & Outils
+</h3>
+
+<div class="rules-grid">
   <a class="rule-card" href="./capacite.html">
     <span class="rule-title">📋 Capacités</span>
   </a>
 
-  <!-- 🌀 États -->
   <a class="rule-card" href="./etats.html">
     <span class="rule-title">🌀 États</span>
   </a>
 
-  <!-- 🐥 Teensyville -->
   <a class="rule-card" href="./teensyville.html">
     <span class="rule-title">🐥 Teensyville</span>
   </a>
 
-  <!-- 🔧 Outil de Script -->
   <a class="rule-card" href="./outildescript.html">
     <span class="rule-title">🔧 Outil de Script</span>
     <div class="rule-sub">Créez des scripts uniques</div>
   </a>
-
 </div>
-<!-- ====== /LIVRE DES RÈGLES ====== -->
+<!-- ====== /📜 LIVRE DES RÈGLES ====== -->
 ---
 
 ## <span style="color:#b58b52; font-weight:bold; font-size:22px;">👺 Rôles par Édition</span>
