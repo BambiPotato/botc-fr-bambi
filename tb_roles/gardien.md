@@ -51,28 +51,7 @@ title: Gardien
 "Cult of the Clocktower – épisode par Andrew Nathenson"
 </p>
 
----
 
-
-  Jinxes associés 
-  <p>
-    <img src="/botc-fr-bambi/images/Icon_leviathan-1.png" width="20" alt="Léviathan">
-    <a href="/botc-fr-bambi/roles_experimentaux/leviathan.html"><strong>Léviathan</strong></a> :
-    <em>Chaque nuit*</em>, le <strong>Léviathan</strong> choisit un joueur vivant
-    (différent des nuits précédentes) : un <strong>Gardien</strong> choisi utilise sa capacité
-    mais <strong>ne meurt pas</strong>.
-  </p>
-  <p>
-    <img src="/botc-fr-bambi/images/Icon_riot.png" width="20" alt="Riot">
-    <a href="/botc-fr-bambi/roles_experimentaux/riot.html"><strong>Riot</strong></a> :
-    <em>Chaque nuit*</em>, le <strong>Riot</strong> choisit un joueur bon vivant
-    (différent des nuits précédentes) : un <strong>Gardien</strong> choisi utilise sa capacité
-    mais <strong>ne meurt pas</strong>.
-  </p>
-
-
-
----
 
 ## 📖 Résumé  
 *"Si vous mourez la nuit, vous êtes réveillé·e pour choisir un joueur : vous apprenez son rôle."*  
