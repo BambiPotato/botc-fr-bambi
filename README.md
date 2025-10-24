@@ -209,6 +209,9 @@
   </tr>
 </table>
 
+
+---
+
 ## <span style="color:#b58b52; font-weight:bold; font-size:22px;">👺 Rôles par Édition</span>
 
 <!-- ====== GRID D'ACCUEIL (cartes cliquables, 3 par ligne) ====== -->
@@ -329,7 +332,6 @@
 
 </div>
 <!-- ====== /GRID D'ACCUEIL ====== -->
-
 
 ---
 <!-- ====== CATEGORIES (cartes cliquables, 2 par ligne) ====== -->
