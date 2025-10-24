@@ -510,16 +510,27 @@
 </div>
 
 ---
-<div style="text-align:left; margin-top:40px; line-height:1.8;">
+<div style="text-align:left; margin-top:40px; line-height:1.8; border:1px solid rgba(212,167,106,0.3); border-radius:10px; padding:25px; box-shadow:0 0 12px rgba(0,0,0,0.4); background-color:rgba(255,255,255,0.02);">
 
   <h2 style="color:#d4a76a; font-size:34px; font-weight:bold; text-shadow:1px 1px 4px #000;">
-    🩸🕰️ Jouer en personne&nbsp;?
+    🩸🕰️ Jouer en personne ou en ligne&nbsp;?
   </h2>
 
   <p style="font-size:20px; color:#e0c99d;">
-    Vous souhaitez découvrir <em>Blood 🩸 on the Clocktower 🕰️</em> autour d’une vraie table&nbsp;?<br>
-    Rejoignez le groupe <span style="font-weight:bold; color:#d4a76a;">Meetup Blood on the Clocktower Paris</span>,
-    animé par <span style="font-weight:bold; color:#d4a76a;">Pierre</span> 💫
+    Que vous découvriez <em>Blood 🩸 on the Clocktower 🕰️</em> autour d’une table ou à distance,  
+    ce wiki est là pour vous aider à créer des parties passionnantes, accessibles et équilibrées.
+  </p>
+
+  <p style="font-size:20px; color:#e0c99d;">
+    Chaque communauté, qu’elle soit locale ou en ligne, est encouragée à jouer dans un 
+    <span style="color:#d4a76a; font-weight:bold;">cadre bienveillant, respectueux et sain 🕊️</span>,  
+    où l’amusement, la confiance et l’inclusivité passent toujours avant la compétition.
+  </p>
+
+  <p style="font-size:20px; color:#e0c99d;">
+    Si vous souhaitez jouer en personne, vous pouvez rejoindre le groupe  
+    <span style="font-weight:bold; color:#d4a76a;">Meetup Blood on the Clocktower Paris</span>,
+    animé par <span style="font-weight:bold; color:#d4a76a;">Pierre</span> 💫 :
   </p>
 
   <p style="margin-top:10px; font-size:20px;">
@@ -530,23 +541,22 @@
 
   <hr style="width:50%; margin:30px 0; border:1px solid #b58b52; opacity:0.6;">
 
-  <h3 style="color:#b58b52; font-size:28px; font-weight:bold;">Qui sommes-nous&nbsp;?</h3>
+  <h3 style="color:#b58b52; font-size:28px; font-weight:bold;">À propos de ce projet</h3>
 
   <p style="font-size:20px; color:#e0c99d;">
-    Notre objectif est de partager <span style="color:#d4a76a; font-weight:bold;">Blood on the Clocktower</span> en français
-    et de le rendre accessible à toutes et à tous&nbsp;:<br>
-    que vous soyez débutant ou débutante, joueur ou joueuse confirmé, ou membre d’une nouvelle communauté,
-    <span style="color:#d4a76a; font-weight:bold;">vous êtes les bienvenus</span>.
+    Ce wiki a pour objectif de partager <span style="color:#d4a76a; font-weight:bold;">Blood on the Clocktower</span> en français  
+    et de le rendre accessible à toutes et à tous, que vous soyez joueur ou joueuse débutant·e ou confirmé·e,  
+    conteur ou conteuse expérimenté·e, ou simplement curieux et curieuse de découvrir cet univers.
   </p>
 
   <p style="font-size:19px; color:#e0c99d; margin-top:20px;">
-    ✨ Ce projet vit grâce à l’implication de nombreuses joueuses et de nombreux joueurs passionnés.<br>
-    N’hésitez pas à proposer vos <span style="color:#d4a76a; font-weight:bold;">idées</span> ou vos <span style="color:#d4a76a; font-weight:bold;">corrections</span>.
+    ✨ Ce projet vit grâce à la passion et à la collaboration de nombreuses joueuses et de nombreux joueurs.  
+    N’hésitez pas à proposer vos <span style="color:#d4a76a; font-weight:bold;">idées</span> ou vos <span style="color:#d4a76a; font-weight:bold;">corrections</span> pour continuer à l’enrichir.
   </p>
 
   <p style="font-size:20px; color:#d4a76a; margin-top:25px; font-weight:bold; text-align:center;">
     💖 Merci à toutes et à tous.<br>
-    <span style="font-size:22px;">— Bambi Blue Potato 🥔</span>
+    <span style="font-size:22px;">Bambi Blue Potato 🥔</span>
   </p>
 
 </div>
