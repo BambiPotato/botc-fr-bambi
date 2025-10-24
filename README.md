@@ -385,15 +385,14 @@
 
     <!-- Légendaires -->
     <td style="text-align:center; padding:12px; background:rgba(255,255,255,0.02); border:1px solid #b58b52; border-radius:12px;">
-      <a href="./legendaires.html" style="text-decoration:none; display:inline-block;">
-        <img src="./images/Generic_fabled.png" alt="Légendaires" width="240" style="border-radius:12px;">
+      <a href="#" style="text-decoration:none; display:inline-block; opacity:0.8;">
+        <img src="./images/Generic_fabled.png" alt="Légendaires" width="240" style="border-radius:12px; opacity:0.7;">
         <div style="margin-top:8px; color:#b58b52; font-weight:bold; font-size:20px;">Légendaires</div>
+        <em style="display:block; color:#b58b52; font-size:14px;">(à venir)</em>
       </a>
     </td>
   </tr>
 </table>
-
-
 ---
 
 <!-- ====== SCRIPTS PERSONNALISÉS ====== -->
