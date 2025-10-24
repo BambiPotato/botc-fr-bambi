@@ -126,6 +126,8 @@
 </div>
 <!-- ====== /INFORMATIONS SUR LE JEU ====== -->
 
+---
+
 <!-- 📖 Livre des Règles (version table, sans <div>) -->
 <h1 style="color:#b58b52; font-size:46px; font-weight:bold; text-shadow:2px 2px 6px #000; margin-bottom:14px;">
   📜 Livre des Règles
@@ -598,7 +600,7 @@
   <p style="font-size:20px; color:#e0c99d;">
     Notre but est de partager <span style="color:#d4a76a; font-weight:bold;">Blood on the Clocktower</span> en français
     et de le rendre accessible à toutes et à tous :<br>
-    que vous soyez <em>débutant·ou débutante</em>, <em>joueur·ou joueuse confirmé·e</em> ou membre d’une nouvelle communauté,
+    que vous soyez <em>débutant ou débutante</em>, <em>joueur ou joueuse confirmés</em> ou membre d’une nouvelle communauté,
     <span style="color:#d4a76a; font-weight:bold;">vous êtes les bienvenu·e·s</span>.
   </p>
 
