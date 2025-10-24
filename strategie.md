@@ -26,10 +26,10 @@ title: Conseils & Stratégies
     <li><a href="#section11">Douces cerises, je suis Villageoise !</a></li>
     <li><a href="#section12">Bon sang, je suis Étranger !</a></li>
   </ul>
-  <li><a href="#section2">Hot Diggity, je suis Maléfique ! Et maintenant ?</a></li>
+  <li><a href="#section2">Oh c'est chaud, je suis Maléfique ! Et maintenant ?</a></li>
   <ul>
-    <li><a href="#section21">Mwehe, je suis Sbire !</a></li>
-    <li><a href="#section22">Oh là là, je suis Démon !</a></li>
+    <li><a href="#section21">Oh génial, je suis Sbire !</a></li>
+    <li><a href="#section22">Oh lala, je suis Démon !</a></li>
   </ul>
 </ol>
 
@@ -200,7 +200,7 @@ En fin de partie, si vous êtes toujours vivant, révélez votre statut : cela r
 
 <hr>
 
-<h2 id="section2">2) Hot Diggity, je suis <span style="color:red;">Maléfique</span> ! Et maintenant ?</h2>
+<h2 id="section2">2) Oh c'est chaud, je suis <span style="color:red;">Maléfique</span> ! Et maintenant ?</h2>
 
 <p>
 Vous avez tiré un <strong><span style="color:red;">jeton rouge</span></strong> 🔴.  
@@ -245,7 +245,7 @@ Soutenez publiquement une théorie ou une accusation : elle servira plus tard.
 
 <hr>
 
-<h2 id="section21">2.1) Mwehe, je suis <span style="color:red;">Sbire</span> !</h2>
+<h2 id="section21">2.1) oh génial, je suis <span style="color:red;">Sbire</span> !</h2>
 
 <ul>
   <li>Ne votez pas contre votre <span style="color:red;">Démon</span>, sauf plan précis.</li>
@@ -257,7 +257,7 @@ Soutenez publiquement une théorie ou une accusation : elle servira plus tard.
 
 <hr>
 
-<h2 id="section22">2.2) Oh là là, je suis le <span style="color:red;">Démon</span> !</h2>
+<h2 id="section22">2.2) Oh lala, je suis le <span style="color:red;">Démon</span> !</h2>
 
 <p>
 Restez en vie. Sans vous, le Mal perd toute chance (sauf cas spéciaux : 
