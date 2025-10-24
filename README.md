@@ -207,15 +207,130 @@
 
 
 ---
+<!-- ====== CATEGORIES (cartes cliquables, 2 par ligne) ====== -->
+<style>
+  .cat-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(220px, 1fr));
+    gap: 24px;
+    justify-items: center;
+    align-items: start;
+    margin: 26px auto 8px auto;
+    max-width: 820px;
+  }
+  @media (max-width: 700px) {
+    .cat-grid { grid-template-columns: 1fr; }
+  }
 
-##  <span style="color:#b58b52; font-weight:bold; font-size:20px;">🎭Catégories</span>  
+  .cat-card {
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 14px;
+    overflow: hidden;
+    border: 1px solid rgba(181,139,82,0.28);
+    background: rgba(255,255,255,0.02);
+    box-shadow: 0 6px 18px rgba(0,0,0,0.28);
+    transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease, background .18s ease;
+    width: 100%;
+    max-width: 360px;
+    text-align: center;
+  }
+  .cat-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 24px rgba(0,0,0,0.38);
+    border-color: rgba(212,167,106,0.55);
+    background: rgba(255,255,255,0.04);
+  }
 
-- [<span style="color:blue">**Villageois**</span>](villageois.md) 
-- [<span style="color:blue">**Étrangers**</span>](etrangers.md) 
-- [<span style="color:red">**Sbires**</span>](sbires.md) 
-- [<span style="color:red">**Démons**</span>](demons.md) 
-- [<span style="color:purple">**Voyageurs**</span>]((#) ) * (à venir)*
-- [<span style="color:#b58b52">**Légendaires**</span>](#) *(à venir)* 
+  .cat-card img {
+    display: block;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 4 / 3;
+    object-fit: contain;
+    background: rgba(0,0,0,0.25);
+  }
+
+  .cat-title {
+    display: block;
+    padding: 10px 10px 12px 10px;
+    font-weight: 800;
+    font-size: 20px;
+    letter-spacing: .2px;
+    text-decoration: none;
+  }
+  .cat-title.blue { color: #6fb7ff; }     /* Villageois / Étrangers */
+  .cat-title.red  { color: #ff6b6b; }     /* Sbires / Démons */
+  .cat-title.purp { color: #b58bff; }     /* Voyageurs */
+  .cat-title.gold { color: #b58b52; }     /* Légendaires */
+
+  .badge-pending {
+    display: inline-block;
+    margin: 2px 0 12px 0;
+    padding: 2px 8px;
+    font-size: 12px;
+    color: #d4a76a;
+    border: 1px solid rgba(212,167,106,0.45);
+    border-radius: 999px;
+    opacity: .85;
+  }
+
+  /* Petits intertitres de rangée */
+  .row-label {
+    margin: 18px auto -4px auto;
+    max-width: 820px;
+    color: #b58b52;
+    font-weight: 700;
+    font-size: 16px;
+    opacity: .9;
+  }
+</style>
+
+<h2 style="color:#b58b52; font-weight:bold; font-size:20px; margin-top:18px;">🎭 Catégories</h2>
+
+<!-- Ligne 1 : Villageois & Étrangers -->
+<p class="row-label">Rôles du Bien</p>
+<div class="cat-grid" role="list">
+  <a class="cat-card" role="listitem" href="./villageois.html" aria-label="Villageois">
+    <img src="./images/Generic_townsfolk.png" alt="Villageois">
+    <span class="cat-title blue">🔵 Villageois</span>
+  </a>
+
+  <a class="cat-card" role="listitem" href="./etrangers.html" aria-label="Étrangers">
+    <img src="./images/Generic_outsider.png" alt="Étrangers">
+    <span class="cat-title blue">🔵 Étrangers</span>
+  </a>
+</div>
+
+<!-- Ligne 2 : Sbires & Démons -->
+<p class="row-label">Rôles du Mal</p>
+<div class="cat-grid" role="list">
+  <a class="cat-card" role="listitem" href="./sbires.html" aria-label="Sbires">
+    <img src="./images/Generic_minion.png" alt="Sbires">
+    <span class="cat-title red">🔴 Sbires</span>
+  </a>
+
+  <a class="cat-card" role="listitem" href="./demons.html" aria-label="Démons">
+    <img src="./images/Generic_demon.png" alt="Démons">
+    <span class="cat-title red">🔴 Démons</span>
+  </a>
+</div>
+
+<!-- Ligne 3 : Voyageurs & Légendaires -->
+<p class="row-label">Modules spéciaux</p>
+<div class="cat-grid" role="list">
+  <a class="cat-card" role="listitem" href="./voyageurs/voyageurs.html" aria-label="Voyageurs et Voyageuses">
+    <img src="./images/Generic_traveller.png" alt="Voyageurs et Voyageuses">
+    <span class="cat-title purp">🟣 Voyageurs et Voyageuses</span>
+  </a>
+
+  <a class="cat-card" role="listitem" href="#" onclick="return false;" aria-label="Légendaires">
+    <img src="./images/Generic_fabled.png" alt="Légendaires" style="opacity:.55; filter: grayscale(20%);">
+    <span class="cat-title gold">🏰 Légendaires</span>
+    <span class="badge-pending">à venir</span>
+  </a>
+</div>
+<!-- ====== /CATEGORIES ====== -->
 
 
 ---
@@ -258,7 +373,7 @@
   </h2>
 
   <p style="color:#e0c99d; font-size:19px; margin-bottom:15px;">
-    Rejoignez notre <span style="color:#d4a76a; font-weight:bold;">Discord</span> pour jouer en ligne, partager de bons moments et participer à nos parties streamées :
+    Rejoignez notre petite communaité sur <span style="color:#d4a76a; font-weight:bold;">Discord</span> pour jouer en ligne, partager de bons moments et participer à nos parties streamées :
   </p>
 
   <ul style="list-style:none; padding-left:0; font-size:19px; color:#e0c99d;">
