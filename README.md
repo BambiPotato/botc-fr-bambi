@@ -127,27 +127,108 @@
 <!-- ====== /INFORMATIONS SUR LE JEU ====== -->
 
 ---
-<!-- 📖 Livre des Règles-->
-<h1 style="color:#b58b52; font-size:46px; font-weight:bold; text-shadow:2px 2px 6px #000;">
-    📜 Livre des Règles
-  </h1>
+<!-- ====== LIVRE DES RÈGLES ====== -->
+<style>
+  .rules-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 26px;
+    justify-items: center;
+    margin: 26px auto 12px auto;
+    max-width: 950px;
+  }
 
-- 🏗️ <span style="color:#b58b52; font-weight:bold; font-size:20px;">[**Installation**](installation.md)</span>
+  .rule-card {
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 14px;
+    overflow: hidden;
+    border: 1px solid rgba(181,139,82,0.28);
+    background: rgba(255,255,255,0.02);
+    box-shadow: 0 6px 18px rgba(0,0,0,0.28);
+    transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease, background .18s ease;
+    width: 100%;
+    max-width: 320px;
+    text-align: center;
+    padding: 22px 12px;
+  }
 
-- 📜 <span style="color:#b58b52; font-weight:bold; font-size:20px;">*Vous débutez sur Blood 🩸 on the Clocktower ?* [**Venez Découvrir le Jeu Blood on the Clocktower**](blood_on_the_clocktower.md)</span>
+  .rule-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 24px rgba(0,0,0,0.38);
+    border-color: rgba(212,167,106,0.55);
+    background: rgba(255,255,255,0.04);
+  }
 
-- 📜 <span style="color:#b58b52; font-weight:italic; font-size:20px;">Consultez les [**Explications des Règles**](regles.md) pour découvrir l’univers, la mise en place et le déroulement du jeu.</span>
+  .rule-title {
+    display: block;
+    color: #b58b52;
+    font-weight: 700;
+    font-size: 19px;
+    text-decoration: none;
+    letter-spacing: .2px;
+    line-height: 1.4;
+  }
 
-- ⚖️ <span style="color:#b58b52; font-weight:bold; font-size:20px;">[**Répartition du Village**](repartition.md) </span>  
+  .rule-sub {
+    color: #d4a76a;
+    font-style: italic;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+</style>
 
-- 📋 <span style="color:#b58b52; font-weight:bold; font-size:20px;">[**Capacités**](capacite.md)</span> 
+<h1 style="color:#b58b52; font-size:46px; font-weight:bold; text-shadow:2px 2px 6px #000; margin-bottom:10px;">
+  📜 Livre des Règles
+</h1>
 
-- 🌀 <span style="color:#b58b52; font-weight:bold; font-size:20px;">[**États**](etats.md)</span> 
+<div class="rules-grid">
 
-- 🐥 <span style="color:#b58b52; font-weight:bold; font-size:20px;">[**Teensyville**](teensyville.md)</span> 
+  <!-- 🏗️ Installation -->
+  <a class="rule-card" href="./installation.html">
+    <span class="rule-title">🏗️ Installation</span>
+  </a>
 
-- 🔧 <span style="color:#b58b52; font-weight:bold; font-size:20px;">Créez des scripts uniques [**Outil de Script**](outildescript.md)</span>
+  <!-- 📜 Découvrir le Jeu -->
+  <a class="rule-card" href="./blood_on_the_clocktower.html">
+    <span class="rule-title">📜 Découvrir le Jeu</span>
+    <div class="rule-sub">Vous débutez sur Blood 🩸 on the Clocktower ?</div>
+  </a>
 
+  <!-- 📘 Explications des Règles -->
+  <a class="rule-card" href="./regles.html">
+    <span class="rule-title">📘 Explications des Règles</span>
+    <div class="rule-sub">Univers, mise en place et déroulement du jeu</div>
+  </a>
+
+  <!-- ⚖️ Répartition du Village -->
+  <a class="rule-card" href="./repartition.html">
+    <span class="rule-title">⚖️ Répartition du Village</span>
+  </a>
+
+  <!-- 📋 Capacités -->
+  <a class="rule-card" href="./capacite.html">
+    <span class="rule-title">📋 Capacités</span>
+  </a>
+
+  <!-- 🌀 États -->
+  <a class="rule-card" href="./etats.html">
+    <span class="rule-title">🌀 États</span>
+  </a>
+
+  <!-- 🐥 Teensyville -->
+  <a class="rule-card" href="./teensyville.html">
+    <span class="rule-title">🐥 Teensyville</span>
+  </a>
+
+  <!-- 🔧 Outil de Script -->
+  <a class="rule-card" href="./outildescript.html">
+    <span class="rule-title">🔧 Outil de Script</span>
+    <div class="rule-sub">Créez des scripts uniques</div>
+  </a>
+
+</div>
+<!-- ====== /LIVRE DES RÈGLES ====== -->
 ---
 
 ## <span style="color:#b58b52; font-weight:bold; font-size:22px;">👺 Rôles par Édition</span>
