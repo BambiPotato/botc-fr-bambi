@@ -29,7 +29,7 @@ Certaines parties utilisent des <strong>signaux avec les mains</strong>.
 <h2 style="color:#b58b52; font-weight:bold; font-size:28px;">⏳ Avant que la partie ne commence</h2>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Il y a longtemps, dans la paisible **Village** de <strong>Ravenswood Bluff</strong>, en pleine tempête, à minuit pile… un cri retentit.  
+Il y a longtemps, dans le paisible **Village** de <strong>Ravenswood Bluff</strong>, en pleine tempête, à minuit pile… un cri retentit.  
 Sur la place du village, vous découvrez que votre Conteur bien-aimé a été assassiné, empalé sur l’aiguille de l’horloge. Le sang coule sur les pavés.
 </p>
 
@@ -49,7 +49,7 @@ Vous allez recevoir un jeton <strong style="color:blue;">bleu</strong> ou <stron
 <p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-bottom:6px;"><strong>🎯 Objectifs :</strong></p>
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Si vous êtes <strong>Bon</strong> : trouvez et exécutez le <strong><span style="color:red;">Démon</span></strong> → le Bien gagne.</li>
-  <li>Si vous êtes <strong><span style="color:red;">Maléfique</span></strong> : détruisez la ville. S’il ne reste que <strong>2 joueurs vivants</strong>, le Mal gagne.</li>
+  <li>Si vous êtes <strong><span style="color:red;">Maléfique</span></strong> : détruisez le village. S’il ne reste que <strong>2 joueurs vivants</strong>, le Mal gagne.</li>
 </ul>
 
 <hr>
