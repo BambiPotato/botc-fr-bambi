@@ -496,7 +496,7 @@
   </h2>
 
   <p style="color:#e0c99d; font-size:19px; margin-bottom:15px;">
-    Rejoignez notre petite communaité sur <span style="color:#d4a76a; font-weight:bold;">Discord</span> pour jouer en ligne, partager de bons moments et participer à nos parties streamées :
+    Rejoignez notre petite communauté sur <span style="color:#d4a76a; font-weight:bold;">Discord</span> pour jouer en ligne, partager de bons moments et participer à nos parties streamées :
   </p>
 
   <ul style="list-style:none; padding-left:0; font-size:19px; color:#e0c99d;">
