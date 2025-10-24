@@ -43,7 +43,7 @@
 
 <p align="center">
   <a href="https://bambipotato.github.io/botc-fr-bambi/">
-    <img src="images/logo.png" alt="Logo BotC FR" width="300">
+    <img src="images/logogold.png" alt="Logo BotC FR" width="300">
   </a>
 </p>
 
