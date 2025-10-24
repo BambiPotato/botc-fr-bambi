@@ -7,7 +7,7 @@ title: Conseils pour les Conteuses et les Conteurs
 
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="images/logo.png" alt="Accueil BotC FR" width="200">
+    <img src="images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
