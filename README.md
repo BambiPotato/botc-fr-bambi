@@ -47,7 +47,6 @@
 </p>
 
 ---
-
 <!-- ====== INFORMATIONS SUR LE JEU ====== -->
 <style>
   .info-grid {
@@ -56,7 +55,7 @@
     gap: 26px;
     justify-items: center;
     margin: 26px auto 12px auto;
-    max-width: 950px;
+    max-width: 700px;
   }
 
   .home-card {
@@ -96,6 +95,7 @@
   📜 Informations sur le Jeu
 </h1>
 
+<!-- 🔹 LIGNE 1 : Glossaires -->
 <div class="info-grid">
 
   <!-- 📘 Glossaire FR -->
@@ -107,6 +107,11 @@
   <a class="home-card" href="./glossaireengfr.html" aria-label="Glossaire des termes anglais">
     <span class="home-title">📘 Glossary des termes en anglais</span>
   </a>
+
+</div>
+
+<!-- 🔹 LIGNE 2 : Conseils -->
+<div class="info-grid" style="margin-top:10px;">
 
   <!-- 📘 Conseils Conteurs -->
   <a class="home-card" href="./conteur.html" aria-label="Conseils pour les Conteurs et Conteuses">
