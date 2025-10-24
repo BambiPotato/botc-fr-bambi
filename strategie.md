@@ -21,9 +21,9 @@ title: Conseils & Stratégies
 
 <h2 style="color:#b58b52;">📑 Sommaire</h2>
 <ol>
-  <li><a href="#section1">Dieu merci, je suis du côté des bons ! Et maintenant ?</a></li>
+  <li><a href="#section1">Merci, je suis du côté des bons ! Et maintenant ?</a></li>
   <ul>
-    <li><a href="#section11">Douces cerises, je suis Villageois !</a></li>
+    <li><a href="#section11">Douces cerises, je suis Villageoise !</a></li>
     <li><a href="#section12">Bon sang, je suis Étranger !</a></li>
   </ul>
   <li><a href="#section2">Hot Diggity, je suis Maléfique ! Et maintenant ?</a></li>
@@ -35,7 +35,7 @@ title: Conseils & Stratégies
 
 <hr>
 
-<h2 id="section1">1) Dieu merci, mon rôle est <span style="color:blue;">bleu</span> ! Je suis du côté du Bien !</h2>
+<h2 id="section1">1) Merci, mon rôle est <span style="color:blue;">bleu</span> ! Je suis du côté du Bien !</h2>
 
 <p>
 Vous avez tiré un <strong><span style="color:blue;">jeton bleu</span></strong> 🔵. Félicitations !  
@@ -156,7 +156,7 @@ Mais n’oubliez pas : la victoire est presque toujours collective.
 
 <hr>
 
-<h2 id="section11">1.1) Douces cerises, je suis Villageois !</h2>
+<h2 id="section11">1.1) Douces cerises, je suis <strong><span style="color:blue;">Villageoise</span> !</h2>
 
 <p>
 Partagez vos informations, même partielles.  
@@ -200,7 +200,7 @@ En fin de partie, si vous êtes toujours vivant, révélez votre statut : cela r
 
 <hr>
 
-<h2 id="section2">2) Hot Diggity, je suis <span style="color:red;">maléfique</span> ! Et maintenant ?</h2>
+<h2 id="section2">2) Hot Diggity, je suis <span style="color:red;">Maléfique</span> ! Et maintenant ?</h2>
 
 <p>
 Vous avez tiré un <strong><span style="color:red;">jeton rouge</span></strong> 🔴.  
@@ -245,7 +245,7 @@ Soutenez publiquement une théorie ou une accusation : elle servira plus tard.
 
 <hr>
 
-<h2 id="section21">2.1) Mwehe, je suis Sbire !</h2>
+<h2 id="section21">2.1) Mwehe, je suis <span style="color:red;">Sbire</span> !</h2>
 
 <ul>
   <li>Ne votez pas contre votre <span style="color:red;">Démon</span>, sauf plan précis.</li>
@@ -257,7 +257,7 @@ Soutenez publiquement une théorie ou une accusation : elle servira plus tard.
 
 <hr>
 
-<h2 id="section22">2.2) Oh là là, je suis le Démon !</h2>
+<h2 id="section22">2.2) Oh là là, je suis le <span style="color:red;">Démon</span> !</h2>
 
 <p>
 Restez en vie. Sans vous, le Mal perd toute chance (sauf cas spéciaux : 
