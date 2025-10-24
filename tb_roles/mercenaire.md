@@ -46,9 +46,7 @@
 </p> 
 
 ---
-
-<details>
-  <summary>Jinx associé(cliquer pour ouvrir)</summary>
+Jinx associé
   <ul>
     <li>
       <img src="/botc-fr-bambi/images/Icon_lleech.png" width="20" alt="Sangsue"/> 
@@ -56,7 +54,6 @@
       Si le Mercenaire tue l’hôte de la Sangsue, l’hôte meurt.
     </li>
   </ul>
-</details>
 
 
 ## Résumé
