@@ -608,7 +608,7 @@
 
   <p style="font-size:19px; color:#e0c99d; margin-top:20px;">
     ✨ Ce projet vit grâce à l’implication de nombreuses joueuses et joueurs passionnés.<br>
-    N’hésitez pas à proposer vos <span style="color:#d4a76a; font-weight:bold;">idées</span> ou vos <span style="color:#d4a76a; font-weight:bold;">corrections</span>.
+    N’hésitez pas à proposer vos <span style="color:#d4a76a; font-weight:bold;">idées</span> ou vos <span style="color:#d4a76a; font-weight:bold;">corrections. - Merci à tous et toutes. Bambi 🥔</span>.
   </p>
 
 </div>
