@@ -13,7 +13,7 @@
   </h1>
 
   <h2 style="color:#b58b52; font-size:36px; font-weight:bold; text-shadow:2px 2px 6px #000; margin-top:20px;">
-    🚪 Bienvenue sur le Wiki Francophone 🇫🇷 de <br>
+    🚪 Bienvenue sur le Wiki Francophone 🇫🇷 🌍 *(non officiel)*  de <br>
     <span style="color:#d4a76a;">Blood 🩸 on the Clocktower 🕰️</span>
   </h2>
 
@@ -335,19 +335,82 @@
 
 ---
 
-## <span style="color:#b58b52; font-weight:bold; font-size:22px;">🪄 Scripts Personnalisés</span>
+<!-- ====== SCRIPTS PERSONNALISÉS ====== -->
+<style>
+  .scripts-grid {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin: 26px auto 12px auto;
+    max-width: 900px;
+  }
 
-<div align="center" style="margin-top:20px;">
+  .home-card {
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 14px;
+    overflow: hidden;
+    border: 1px solid rgba(181,139,82,0.28);
+    background: rgba(255,255,255,0.02);
+    box-shadow: 0 6px 18px rgba(0,0,0,0.28);
+    transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease, background .18s ease;
+    width: 100%;
+    max-width: 290px;
+    text-align: center;
+  }
 
-  <a href="#" style="text-decoration:none;">
-    <img src="./images/Icon_mezepheles.png" alt="Scripts personnalisés" width="260" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.3); opacity:0.9;">
-    <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:20px;">📜 Scripts personnalisés</span>
+  .home-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 24px rgba(0,0,0,0.38);
+    border-color: rgba(212,167,106,0.55);
+    background: rgba(255,255,255,0.04);
+  }
+
+  .home-card img {
+    display: block;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 4 / 3;
+    object-fit: contain;
+    background: rgba(0,0,0,0.25);
+  }
+
+  .home-card .home-title {
+    display: block;
+    padding: 10px 10px 12px 10px;
+    color: #b58b52;
+    font-weight: 700;
+    font-size: 20px;
+    text-decoration: none;
+    letter-spacing: .2px;
+  }
+
+  .badge-pending {
+    display: inline-block;
+    margin: 4px 0 12px 0;
+    padding: 2px 8px;
+    font-size: 12px;
+    color: #d4a76a;
+    border: 1px solid rgba(212,167,106,0.45);
+    border-radius: 999px;
+    opacity: .85;
+  }
+</style>
+
+<h2 style="color:#b58b52; font-weight:bold; font-size:22px;">🪄 Scripts personnalisés</h2>
+
+<div class="scripts-grid">
+
+  <!-- 📜 Scripts personnalisés -->
+  <a class="home-card" href="#" onclick="return false;" aria-label="Scripts personnalisés">
+    <img src="./images/Icon_mezepheles.png" alt="Scripts personnalisés" style="opacity:.9;">
+    <span class="home-title">📜 Scripts personnalisés</span>
+    <span class="badge-pending">à venir</span>
   </a>
-  <br>
-  <em style="color:#b58b52;">(à venir)</em>
 
 </div>
+<!-- ====== /SCRIPTS PERSONNALISÉS ====== -->
 
 
 ---
@@ -412,7 +475,7 @@
   <p style="font-size:20px; color:#e0c99d;">
     Notre but est de partager <span style="color:#d4a76a; font-weight:bold;">Blood on the Clocktower</span> en français
     et de le rendre accessible à toutes et à tous :<br>
-    que vous soyez <em>débutant·e</em>, <em>joueur·se confirmé·e</em> ou membre d’une nouvelle communauté,
+    que vous soyez <em>débutant·ou débutante</em>, <em>joueur·ou joueuse confirmé·e</em> ou membre d’une nouvelle communauté,
     <span style="color:#d4a76a; font-weight:bold;">vous êtes les bienvenu·e·s</span>.
   </p>
 
