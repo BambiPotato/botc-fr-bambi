@@ -477,7 +477,7 @@
 <div style="text-align:left; margin:40px 0; line-height:1.8;">
 
   <h2 style="color:#b58b52; font-weight:bold; font-size:26px; margin-bottom:10px;">
-    🛠️ Ressources
+    🛠️ Ressources en ligne
   </h2>
 
   <ul style="list-style:none; padding-left:0; font-size:19px; color:#e0c99d;">
