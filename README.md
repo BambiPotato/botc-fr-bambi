@@ -566,7 +566,7 @@
   </p>
 
   <p style="font-size:19px; color:#e0c99d; margin-top:25px;">
-    Pour toute autre question ou suggestion, vous pouvez contacter  
+    Pour toute autre question ou suggestion, vous pouvez me contacter  
     <a href="mailto:bambibluepotato@gmail.com" style="color:#ffb84d; font-weight:bold; text-decoration:none;">
       Bambi Blue Potato ✉️
     </a>
