@@ -102,9 +102,9 @@ Le Conteur doit donc privilégier les **actions les plus récentes** pour juger 
 ---
 
 🧩 **Pour aller plus loin :**
-- [Pixie](./tb_roles/pixie.md)
+- [Pixie](#) *à venie*
 - [Cerenovus](./sv_roles/cerenovus.md)
-- [Lavandière (Washerwoman)](./tb_roles/washerwoman.md)
+- [Lavandière](./trouble_brewing/lavandiere.md)
 - [Savant (Savant)](./sv_roles/savant.md)
-- [Déviant (Deviant)](./tb_roles/deviant.md)
-- [Folie (Madness) — Wiki officiel](https://wiki.bloodontheclocktower.com/Madness)
+- [Déviant](#) *à venir*
+- [Pixie — Wiki officiel](https://wiki.bloodontheclocktower.com/Pixie)
