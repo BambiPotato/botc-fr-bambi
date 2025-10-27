@@ -18,7 +18,7 @@ title: Comment Conter la Pixie
 
 ### ✨ La Folie expliquée par Steven
 
-À l’occasion de la sortie du rôle **[Pixie](#) (à venir)**, Steven a publié un message détaillant le fonctionnement de la **folie (madness)**.  
+À l’occasion de la sortie du rôle de la **[Pixie](#) (à venir)**, Steven a publié un message détaillant le fonctionnement de la **folie (madness)**.  
 Certain·es Conteurs et Conteuses officielles de TPI — ainsi que Steven Med— avons estimé qu’il serait utile de partager cette explication pour aider les nouveaux Conteurs et joueuses à mieux comprendre cette mécanique essentielle de *Blood on the Clocktower*.
 
 ---
@@ -28,7 +28,7 @@ Certain·es Conteurs et Conteuses officielles de TPI — ainsi que Steven Med—
 On a posé à Steven une question sur le **moment** où s’applique la folie et sur la **folie “forcée”**, en lien avec le **Pixie**.  
 Comme ce rôle venait d’être publié, il a voulu rendre sa réponse publique afin que tout le monde puisse en bénéficier.
 
-La folie peut être un concept complexe — particulièrement pour le **Pixie** — car un joueur peut **“être fou maintenant”** sans **“avoir été fou pendant toute la partie”**, ou inversement.
+La folie peut être un concept complexe — particulièrement pour la **Pixie** — car un joueur peut **“être fou maintenant”** sans **“avoir été fou pendant toute la partie”**, ou inversement.
 
 ---
 
@@ -38,16 +38,16 @@ La folie peut être un concept complexe — particulièrement pour le **Pixie** 
 - Il gagne ensuite la capacité du rôle qu’il *faisait semblant d’être*, **immédiatement après la mort** de ce rôle.
 
 Prenons un exemple :  
-Le Conteur montre au **Pixie** que le rôle imité est **[Lavandière] roles/washerwoman.md)** 🩵.
+Le Conteur montre à la  **Pixie** que le rôle imité est **[Lavandière](./trouble_brewing/lavandiere.md)**.
 
-> Si le Conteur estime que le joueur **Pixie** a sincèrement tenté de convaincre les autres qu’il était la Lavandière, il peut lui donner cette capacité.  
-> Le Conteur est donc **le seul juge** pour déterminer si le joueur “était fou”.
+> Si le Conteur estime que le joueur ou la joueuse qui est **Pixie** a sincèrement tenté de convaincre les autres qu’il ou qu'elle était la Lavandière, il peut lui donner cette capacité.  
+> Le Conteur, est donc **le seul juge** pour déterminer si le joueur “était fou”.
 
 ---
 
 ## 🧩 Exemples de jugements possibles
 
-- Si le **Pixie** prétend être la **[Lavandière](./trouble_brewing/washerwoman.md)**, puis reste silencieux deux jours → il a probablement été “fou”, et obtient la capacité.  
+- Si le **Pixie** prétend être la **[Lavandière](./trouble_brewing/lavandiere.md)**, puis reste silencieux deux jours → il a probablement été “fou”, et obtient la capacité.  
 - S’il prétend ensuite être le **[Savant](./sv_roles/savant.md)** 🩵, mais que tout le monde le croit encore **Lavandière** → il garde la capacité.  
 - Si tout le monde croit qu’il est **Savant** → il **ne** l’obtient **pas**.  
 - S’il justifie son comportement en invoquant un **[Cerenovus](./sv_roles/cerenovus.md)** ❤️, le Conteur peut juger qu’il est redevenu “fou”.  
@@ -108,3 +108,12 @@ Le Conteur doit donc privilégier les **actions les plus récentes** pour juger 
 - [Savant (Savant)](./sv_roles/savant.md)
 - [Déviant](#) *à venir*
 - [Pixie — Wiki officiel](https://wiki.bloodontheclocktower.com/Pixie)
+
+  <li>🧙 <a href="./conteur.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Conseils aux Conteurs</a></li>
+  <li>🍺 <a href="./trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li>🌛 <a href="./bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
+  <li>💐 <a href="./sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
+
+  <li>🏠 <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
+</ul>
+
