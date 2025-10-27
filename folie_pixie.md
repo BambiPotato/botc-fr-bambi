@@ -3,10 +3,14 @@ layout: default
 title: Comment Conter la Pixie
 ---
 
-
+<p align="left">
+  <a href="/botc-fr-bambi/">
+    <img src="images/logogold.png" alt="Accueil BotC FR" width="300">
+  </a>
+</p>
 
 # 🧙‍♀️ Comment conter la Folie (“Madness”)
-## Exemple : [Pixie](./tb_roles/pixie.md) et autres rôles fous
+## Exemple : [Pixie](#) (à venir)
 
 ![Pixie](./images/Icon_pixie.png)
 
@@ -15,7 +19,7 @@ title: Comment Conter la Pixie
 ### ✨ La Folie expliquée par Steven
 
 À l’occasion de la sortie du rôle **[Pixie](./tb_roles/pixie.md)**, Steven a publié un message détaillant le fonctionnement de la **folie (madness)**.  
-Certain·es Conteurs et Conteuses officielles — ainsi que moi-même — avons estimé qu’il serait utile de partager cette explication pour aider les nouveaux Conteurs et joueuses à mieux comprendre cette mécanique essentielle de *Blood on the Clocktower*.
+Certain·es Conteurs et Conteuses officielles de TPI — ainsi que Steven Med— avons estimé qu’il serait utile de partager cette explication pour aider les nouveaux Conteurs et joueuses à mieux comprendre cette mécanique essentielle de *Blood on the Clocktower*.
 
 ---
 
@@ -99,7 +103,7 @@ Le Conteur doit donc privilégier les **actions les plus récentes** pour juger 
 
 🧩 **Pour aller plus loin :**
 - [Pixie (Fée)](./tb_roles/pixie.md)
-- [Cerenovus](./tb_roles/cerenovus.md)
+- [Cerenovus](./s&v_roles/cerenovus.md)
 - [Lavandière (Washerwoman)](./tb_roles/washerwoman.md)
 - [Savant (Savant)](./tb_roles/savant.md)
 - [Déviant (Deviant)](./tb_roles/deviant.md)
