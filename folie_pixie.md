@@ -18,7 +18,7 @@ title: Comment Conter la Pixie
 
 ### ✨ La Folie expliquée par Steven
 
-À l’occasion de la sortie du rôle **[Pixie](./tb_roles/pixie.md)**, Steven a publié un message détaillant le fonctionnement de la **folie (madness)**.  
+À l’occasion de la sortie du rôle **[Pixie](#) (àvenir)**, Steven a publié un message détaillant le fonctionnement de la **folie (madness)**.  
 Certain·es Conteurs et Conteuses officielles de TPI — ainsi que Steven Med— avons estimé qu’il serait utile de partager cette explication pour aider les nouveaux Conteurs et joueuses à mieux comprendre cette mécanique essentielle de *Blood on the Clocktower*.
 
 ---
@@ -38,7 +38,7 @@ La folie peut être un concept complexe — particulièrement pour le **Pixie** 
 - Il gagne ensuite la capacité du rôle qu’il *faisait semblant d’être*, **immédiatement après la mort** de ce rôle.
 
 Prenons un exemple :  
-Le Conteur montre au **Pixie** que le rôle imité est **[Lavandière](./tb_roles/washerwoman.md)** 🩵.
+Le Conteur montre au **Pixie** que le rôle imité est **[Lavandière] roles/washerwoman.md)** 🩵.
 
 > Si le Conteur estime que le joueur **Pixie** a sincèrement tenté de convaincre les autres qu’il était la Lavandière, il peut lui donner cette capacité.  
 > Le Conteur est donc **le seul juge** pour déterminer si le joueur “était fou”.
