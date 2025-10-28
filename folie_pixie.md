@@ -15,7 +15,7 @@ title: Comment Conter la Pixie
 </h1>
 
 <h2 style="color:#c9b08a; font-weight:bold; font-size:24px; margin-top:-6px;">
-  Exemple&nbsp;: <span>Pixie</span> <em style="font-weight:normal; opacity:.85;">(à venir)</em>
+  Exemple&nbsp;: <span style="color:blue;">Pixie</span>
 </h2>
 
 <!-- Visuel Pixie + nom cliquable centré -->
@@ -25,6 +25,17 @@ title: Comment Conter la Pixie
     Pixie
   </a>
   <div style="color:#b58b52; font-size:14px; opacity:.9;">(rôle expérimental – page à venir)</div>
+</div>
+
+<!-- ===== Description du rôle ===== -->
+<div style="border:1px solid rgba(212,167,106,0.3); border-radius:8px; padding:18px; background-color:rgba(255,255,255,0.03); margin-bottom:25px;">
+  <h3 style="color:#b58b52; font-size:24px; font-weight:bold; margin-top:0;">💠 Rôle&nbsp;: <span style="color:blue;">Pixie</span> — Villageoise (Townsfolk)</h3>
+  <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+    <strong>Alignement&nbsp;:</strong> Gentille / du Bien 🩵<br>
+    <strong>Capacité&nbsp;:</strong> Vous commencez la partie en apprenant un rôle de villageois ou de villageoise présent dans la partie.<br>
+    Si vous êtes folle ou fou d’être ce rôle, vous gagnez sa capacité quand le joueur ou la joueuse qui possède réellement ce rôle meurt.<br><br>
+    <em style="color:#b58b52;">«&nbsp;La Pixie prétend être le même rôle que quelqu’un d’autre.&nbsp;»</em>
+  </p>
 </div>
 
 <hr style="border:1px solid rgba(212,167,106,.35); margin:18px 0;">
