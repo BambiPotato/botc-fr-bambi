@@ -5,8 +5,6 @@
 </p>
 
 
-<button id="theme-toggle">☀️ Mode clair</button>
-
    
  <!-- 🏠 PAGE D’ACCUEIL - WIKI BOTC FR -->
 
