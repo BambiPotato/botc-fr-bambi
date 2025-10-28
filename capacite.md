@@ -10,7 +10,7 @@
 <span style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Chaque rôle de *Blood on the Clocktower* possède une **capacité unique**, décrite sur son jeton, sa fiche et dans son almanach.  
 Le jeton et la fiche de rôle fournissent une version simplifiée, mais en cas de conflit ou d’interaction complexe, il faut se référer au texte de l’almanach.
-</span>  
+
 
 ---
 
@@ -22,7 +22,6 @@ Lorsqu’une capacité est utilisée, **elle s’applique immédiatement**.
 Exemples :  
 - Si le [<span style="color:red;">**Démon**</span>](./demons.md) attaque la [**Voyante**](./tb_roles/voyante.md), celle-ci meurt aussitôt et **ne se réveillera pas** pour utiliser sa capacité plus tard.  
 - Si le [**Moine**](./tb_roles/moine.md) protège l’[**Empathique**](./tb_roles/empathique.md), et que le Démon attaque l’Empathique juste après, **celle-ci survit**.
-</span>  
 
 ---
 
@@ -36,7 +35,7 @@ Les secrets doivent le rester.
 - Si le [**Mercenaire**](./tb_roles/mercenaire.md) utilise sa capacité sans effet, **personne ne sait** qu’il est le Mercenaire.  
 - Si le [**Moine**](./tb_roles/moine.md) protège la [**Lavandière**](./tb_roles/lavandiere.md), cette dernière **ne le découvre pas**.  
 - À la fin de la nuit, **les joueurs ne savent pas** quelle capacité a tué qui — uniquement **qui est mort**.
-</span>  
+
 
 ---
 
@@ -49,7 +48,6 @@ Leurs effets persistants cessent également.
 Exemple :  
 - Si un [<span style="color:red;">**Empoisonneur**</span>](./tb_roles/empoisonneur.md) empoisonne le [**Mercenaire**](./tb_roles/mercenaire.md) pendant la nuit, mais meurt ensuite, le Mercenaire **n’est plus empoisonné**.  
 Même si la capacité dit *« jusqu’au crépuscule »*, elle s’arrête à la mort de son détenteur.
-</span>  
 
 ---
 
@@ -63,7 +61,6 @@ Un joueur ivre ou empoisonné est traité comme **mort**, sans capacité active.
 Exemples :  
 - Si l’[**Aubergiste**](./bmr_roles/aubergiste.md) protège la [**Femme de Chambre**](./bmr_roles/femmedechambre.md) mais devient ivre, la protection cesse.  
 - Si Julien empoisonne Clara, et qu’Alexandre empoisonne ensuite Julien, alors Clara **n’est plus empoisonnée**.
-</span>  
 
 ---
 
@@ -77,7 +74,6 @@ Exemple :
 Le [**Gardien**](./tb_roles/gardien.md) meurt la nuit et utilise sa capacité :  
 > *« Si vous mourez la nuit, vous vous réveillez pour choisir un joueur et apprendre son rôle. »*  
 Même mort, sa capacité se déclenche au moment de son décès.
-</span>  
 
 ---
 
@@ -87,7 +83,7 @@ Même mort, sa capacité se déclenche au moment de son décès.
 Si une capacité ne mentionne pas *« choisissez »*, c’est le **Conteur** qui décide.  
 - *« Un joueur est empoisonné chaque nuit »* → le Conteur choisit.  
 - *« Chaque nuit, choisissez un joueur : il est empoisonné »* → le joueur choisit lui-même.
-</span>  
+ 
 
 ---
 
@@ -97,7 +93,7 @@ Si une capacité ne mentionne pas *« choisissez »*, c’est le **Conteur** qui
 Si un joueur tente d’utiliser sa capacité de manière illégale, **corrigez-le discrètement** :  
 - Le [**Moine**](./tb_roles/moine.md) ne peut pas se choisir lui-même → secouez la tête et invitez-le à choisir quelqu’un d’autre.  
 - La [**Femme de Chambre**](./bmr_roles/femmedechambre.md) ne peut choisir que des vivants → même geste, puis nouveau choix.
-</span>  
+
 
 ---
 
@@ -113,7 +109,7 @@ Si elle s’active uniquement la première nuit, elle s’applique **cette nuit-
 
 ⚠️ Si un joueur devient [<span style="color:red;">**Sbire**</span>](./sbires.md) ou [<span style="color:red;">**Démon**</span>](./demons.md),  
 il **ne découvre pas** qui sont les autres joueurs maléfiques — cette information n’est donnée qu’au début de la partie.
-</span>  
+
 
 ---
 
@@ -122,7 +118,7 @@ il **ne découvre pas** qui sont les autres joueurs maléfiques — cette inform
 <span style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Si une capacité contient du texte entre crochets `[comme ceci]`, cette partie **n’a aucun effet** lorsqu’un joueur devient ce rôle en cours de partie.  
 Les crochets indiquent des **règles de mise en place** du jeu, qui ne changent pas en cours de partie.
-</span>  
+
 
 ---
 
@@ -137,8 +133,8 @@ Exemple :
 Le [<span style="color:red;">**Démon**</span>](./demons.md) tue le [**Savant**](./sv_roles/savant.md), mais le Conteur oublie de le réveiller.  
 Ensuite, la [**Dulcinée**](./sv_roles/dulcinee.md) (Sweetheart) agit.  
 Le Conteur se souvient qu’elle est morte plus tôt, et rend immédiatement un joueur ivre.  
-Puis il revient au [**Savant**](./sv_roles/savant.md) pour résoudre sa capacité.
-</span>  
+Puis il revient au [**Sage**](./sv_roles/sage.md) pour résoudre sa capacité.
+
 
 ---
 
