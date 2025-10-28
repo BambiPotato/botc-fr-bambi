@@ -97,7 +97,7 @@ Le joueur qui possède le rôle de Démon. S’il y a plusieurs Démons en jeu, 
 La phase de jour et la phase de nuit suivant la phase de nuit actuelle.
 
 **Durée d’une partie**  
-Se termine quand il reste **seulement 2 vivants** (victoire du Mal) ou si le **Démon** est mort (victoire du Bien).
+Se termine quand il reste seulement 2 vivants dont le Démon (victoire du Mal) ou si le Démon est mort (victoire du Bien)
 
 ---
 
@@ -128,6 +128,9 @@ Statut actuel d’un joueur : ivre/sobre, empoisonné/sain, vivant/mort, fou/sai
 
 **Exécution**  
 Décision collective de tuer une joueuse autre qu'un Voyageur pendant la journée. Il y a un maximum d'une exécution par jour, mais aucune n'est autorisée. Un joueur désigné est exécuté s'il a obtenu au moins la moitié des votes des joueurs ou des joueuses en vie et plus de votes que tout autre personne désignée.
+
+**Exécutable**
+Joueur ou joueuse ayant assez de votes pour être exécuté et plus que tout autre joueur ou joueuse aujourd’hui.
 
 **Exil**  
 Élimination d’un <a href="./voyageurs/voyageurs.html" style="color:purple; font-weight:bold; text-decoration:none;">Voyageur et Voaygeuse</a>. Décision indépendante des capacités. Il peut y en avoir plusieurs par jour. Ce n’est pas une exécution. ➡️ Voir « Vote » et « Exécution ».
@@ -244,13 +247,13 @@ Joueur éliminé. Perd sa capacité, ne peut plus nominer, mais conserve **un de
 <h2 id="n">🅽 N</h2>
 
 **Nominé**  
-Proposition d’un joueur à l’exécution pendant la journée.
+Désigne un joueur ou une joueuse qui est proposé pour une nomination.
 
 **Nomination**  
-Acte de déclarer une exécution potentielle. Les joueurs en vie peuvent proposer une nomination par jour et être nominés une fois par jour. Le Conteur mène le vote.
+L'acte de déclarer un vote collectif pour l'exécution d'un joueur ou d'une joueuse. Les joueurs et joueuses en vie peuvent proposer une nomination par jour et être nominés une fois par jour. Le Conteur mène le vote.
 
 **Nuit**  
-Phase où les joueurs ferment les yeux et où certains rôles agissent.
+Phase de jeu où les joueurs et joueuses ferment les yeux et où certains rôles se réveillent pour agir ou recevoir des informations. Le jeu commence par la phase nocturne. Chaque jour est suivi d'une nuit. Chaque nuit est suivie d'un jour.
 
 ---
 
@@ -304,7 +307,7 @@ Petits jetons d’aide pour suivre les effets en cours.
 **Rôle / Jeton de rôle**  
 Grand jeton rond indiquant le rôle reçu. Les jetons des autres restent secrets.
 
-**Ressuscité/ Régurgité / Réincarné / Ressuscité**  
+**Ressuscité/ Régurgité / Réincarné**  
 Un joueur mort revient à la vie. Il récupère sa capacité (même « une fois par partie » si applicable). Si cette capacité ne fonctionne que la première nuit, elle fonctionne **cette** nuit.
 
 ---
@@ -321,10 +324,7 @@ Liste personnalisée de rôles utilisée pour une partie (créée via l’outil 
 <a href="./sbires.html" style="color:red; font-weight:bold; text-decoration:none;">Rôle du Mal</a> qui aide le Démon. Généralement 1 à 3 par partie.
 
 **Secret**  
-Information cachée des autres joueurs.
-
-**Sur le point de mourir**  
-Joueur ayant assez de votes pour être exécuté et plus que tout autre joueur aujourd’hui.
+Information cachée des autres joueurs et joueuses.
 
 ---
 
@@ -360,7 +360,7 @@ Capacité utilisable une seule fois. Si elle est tentée ivre/empoisonné, elle 
 <a href="./voyageurs/voyageurs.html" style="color:purple; font-weight:bold; text-decoration:none;">Rôle spécial</a> pouvant rejoindre/quitter en cours de partie.
 
 **Vote**  
-Lever la main 🙋‍♀️ lors du décompte pour une exécution. Les vivants peuvent voter autant de fois qu’ils veulent. Les morts ne disposent que d’**un** vote pour le reste de la partie. Le Conteur compte dans le sens horaire, en terminant par le joueur désigné. (L’**exil** d’un Voyageur n’est pas un vote d’exécution.)
+Lever la main 🙋‍♀️ lors du décompte pour une exécution. Les vivants peuvent voter autant de fois qu’ils veulent. Les morts ne disposent que d’**un** "unique" vote de mort pour le reste de la partie. Le Conteur compte dans le sens horaire, en terminant par le joueur ou la joueuse désigné. (L’**exil** d’un Voyageur n’est pas un vote d’exécution.)
 
 **Voisins**  
 Les deux joueurs adjacents (dans chaque sens), vivants ou morts.
