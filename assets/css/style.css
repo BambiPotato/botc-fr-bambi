@@ -1,7 +1,12 @@
+/* ============================
+   STYLE GLOBAL — BOTC-FR-BAMBI
+   version douce et unifiée
+   ============================ */
+
 /* 🌙 Mode sombre par défaut */
 body {
-  background: #121212;
-  color: #f0f0f0;
+  background: #181818; /* fond plus doux */
+  color: #e6e6e6;      /* texte moins blanc */
   transition: background 0.3s, color 0.3s;
   font-family: Arial, sans-serif;
   line-height: 1.6;
@@ -9,34 +14,35 @@ body {
   z-index: 0;
 }
 
-/* Image de fond avec superposition */
+/* 🌄 Image de fond (bannière) */
 body::before {
   content: "";
   position: fixed;
   top: 0; left: 0; right: 0; bottom: 0;
   background: url("/botc-fr-bambi/images/banner.png") no-repeat center center/cover;
-  opacity: 0.6; /* voile sombre pour mode sombre */
+  opacity: 0.12; /* voile doux — lisible */
   z-index: -1;
 }
 
 /* ☀️ Mode clair */
 body.light-mode {
   background: #ffffff;
-  color: #000000;
+  color: #111111;
 }
 
 body.light-mode::before {
   background: url("/botc-fr-bambi/images/banner.png") no-repeat center center/cover;
-  opacity: 0.3; /* voile plus léger pour mode clair */
+  opacity: 0.10;
 }
 
-/* Images classiques */
+/* 🖼️ Images */
 img {
   max-width: 100%;
   height: auto;
+  border-radius: 8px;
 }
 
-/* Bannière */
+/* 🧿 Bannière principale */
 .banner {
   display: block;
   margin: 0 auto 16px;
@@ -46,7 +52,7 @@ img {
   border-radius: 8px;
 }
 
-/* Bouton thème */
+/* 🌗 Bouton de thème */
 #theme-toggle {
   position: fixed;
   top: 12px;
@@ -61,25 +67,49 @@ img {
   z-index: 999;
 }
 
-/* Rouge pour la page Trouble Brewing */
-.page-tb {
-  /* si vous voulez TOUT le texte rouge, décommentez la ligne suivante : */
-  /* color: #e63946; */
+/* ============================
+   🎨 Palette adoucie
+   ============================ */
+:root {
+  --blue-soft: #4ea3ff;  /* Villageois & Étrangers */
+  --red-soft:  #d45b5b;  /* Sbires & Démons */
+  --text-soft: #e6e6e6;  /* Blanc doux */
 }
 
-.page-tb h1,
-.page-tb h2,
-.page-tb h3 {
-  color: #e63946; /* titres en rouge */
+/* 🩵 Villageois (au survol des cartes) */
+.role-grid a.villageois:hover img {
+  border-color: var(--blue-soft);
 }
 
-.page-tb a {
-  color: #ff6b6b; /* liens rouges doux */
-  font-weight: 600;
+/* 🔴 Sbires & Démons */
+.role-grid a.sbire:hover img,
+.role-grid a.demon:hover img {
+  border-color: var(--red-soft);
 }
-.page-tb a:hover { color: #ff4d4d; }
 
-/* 🎭 Mise en page des rôles (icônes + noms) */
+/* 🟣 Étrangers */
+.role-grid a.etranger:hover img {
+  border-color: var(--blue-soft);
+}
+
+/* 🟡 Légendaires */
+.role-grid a.fabled:hover img {
+  border-color: #d4a76a;
+}
+
+/* 🟣 Voyageurs */
+.role-grid a.voyageur:hover img {
+  border-color: #9b59b6;
+}
+
+/* 🟢 Loric (futur) */
+.role-grid a.loric:hover img {
+  border-color: #4caf50;
+}
+
+/* ============================
+   🎭 Grille des rôles
+   ============================ */
 .role-grid {
   display: flex;
   flex-wrap: wrap;
@@ -94,7 +124,7 @@ img {
   align-items: center;
   text-decoration: none;
   color: inherit;
-  width: 140px; /* largeur fixe pour un alignement parfait */
+  width: 140px;
   transition: transform 0.2s ease, filter 0.2s ease;
 }
 
@@ -104,27 +134,11 @@ img {
 }
 
 .role-grid img {
-  width: 120px; /* taille des icônes */
+  width: 120px;
   height: auto;
   border-radius: 10px;
   border: 2px solid transparent;
   transition: border-color 0.2s ease;
-}
-
-/* 🩵 Villageois */
-.role-grid a.villageois:hover img {
-  border-color: #007bff;
-}
-
-/* 🟣 Étrangers */
-.role-grid a.etranger:hover img {
-  border-color: #a259ff;
-}
-
-/* 🔴 Sbires et Démons */
-.role-grid a.sbire:hover img,
-.role-grid a.demon:hover img {
-  border-color: #ff3b3b;
 }
 
 .role-grid span {
@@ -132,28 +146,74 @@ img {
   text-align: center;
   font-weight: bold;
   font-size: 1.05rem;
-  color: #f0f0f0;
+  color: var(--text-soft);
 }
 
-/* Adaptation au mode clair */
-body.light-mode .role-grid span {
-  color: #000;
+/* ============================
+   📘 Modules (TB / BMR / SV)
+   ============================ */
+[style*="color:#b58b52" i] { color: #b58b52 !important; } /* 🍺 Trouble Brewing */
+[style*="color:#ffa64d" i] { color: #ffa64d !important; } /* 🌛 Bad Moon Rising */
+[style*="color:#d67bff" i] { color: #d67bff !important; } /* 🌸 Sects & Violets */
+
+/* ============================
+   ✨ Adoucissement global
+   ============================ */
+
+/* BLEU doux (pour <span style="color:blue">) */
+a[style*="color:blue" i],
+span[style*="color:blue" i],
+strong[style*="color:blue" i],
+em[style*="color:blue" i],
+[style*="color:#00f" i],
+[style*="color:#0000ff" i] {
+  color: var(--blue-soft) !important;
 }
 
-/* 🎨 Accents doré-brun (n'impacte pas les couleurs des rôles) */
-.marron {
-  color: #b58b52; /* doré-brun lisible sur fond sombre et clair */
+/* ROUGE doux */
+a[style*="color:red" i],
+span[style*="color:red" i],
+strong[style*="color:red" i],
+em[style*="color:red" i],
+[style*="color:#f00" i],
+[style*="color:#ff0000" i] {
+  color: var(--red-soft) !important;
 }
 
-.cuivre {
-  color: #d4a76a; /* cuivré un peu plus clair */
+/* Blanc pur → blanc doux */
+[style*="color:white" i],
+[style*="color:#fff" i],
+[style*="color:#ffffff" i] {
+  color: var(--text-soft) !important;
 }
 
-.phrase-ambiance {
-  color: #b58b52;
-  font-size: 18px;
-  font-style: italic;
-  text-align: center;
-  margin: 0.5rem 0;
+/* ============================
+   🪶 Divers et lisibilité
+   ============================ */
+h1, h2, h3 {
+  color: var(--text-soft);
+  text-shadow: 2px 2px 6px rgba(0,0,0,.25);
 }
 
+a {
+  color: #d4a76a;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #e2c080;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+/* Liens de bas de page */
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+ul li {
+  margin: 6px 0;
+}
