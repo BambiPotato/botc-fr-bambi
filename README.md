@@ -4,6 +4,32 @@
   </a>
 </p>
 
+<!-- PATCH LISIBILITÉ + COULEURS DOUCES (bannière conservée) -->
+<style>
+  body::before {
+    opacity: 0.25 !important;
+  }
+  body { color: #f4f2ec !important; }
+  h1, h2, h3 { color: #c9a55d !important; text-shadow: 1px 1px 4px rgba(0,0,0,0.3) !important; }
+  a { color: #d8b978 !important; }
+  a:hover { color: #f0d99d !important; }
+  [style*="color:red"]  { color: #e27575 !important; }
+  [style*="color:blue"] { color: #64a8ff !important; }
+  .home-card, .rules-cell {
+    background: rgba(255,255,255,0.03) !important;
+    border: 1px solid rgba(198,162,93,0.25) !important;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.22) !important;
+  }
+  .home-card:hover, .rules-cell:hover {
+    background: rgba(255,255,255,0.05) !important;
+    border-color: rgba(198,162,93,0.45) !important;
+    box-shadow: 0 8px 18px rgba(0,0,0,0.3) !important;
+  }
+  table td {
+    background: rgba(255,255,255,0.03) !important;
+    border-color: rgba(198,162,93,0.25) !important;
+  }
+</style>
    
  <!-- 🏠 PAGE D’ACCUEIL - WIKI BOTC FR -->
 
