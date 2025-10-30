@@ -4,44 +4,46 @@
   </a>
 </p>
 
-<!-- PATCH LISIBILITÉ + BANNIÈRE ÉCLAIRCIE (version adoucie) -->
+<!-- PATCH LISIBILITÉ + BANNIÈRE ÉCLAIRCIE (version plus sombre et équilibrée) -->
 <style>
-  /* 1) BANNIÈRE : même image, mais voile clair un peu plus subtil */
+  /* 1) BANNIÈRE : voile plus discret, ambiance dorée douce */
   body::before {
-    background: linear-gradient(rgba(255,255,255,0.15), rgba(255,255,255,0.15)),
+    background: linear-gradient(rgba(0,0,0,0.25), rgba(0,0,0,0.25)),
                 url("/botc-fr-bambi/images/banner.png") no-repeat center / cover !important;
     opacity: 1 !important;
   }
 
-  /* 2) Texte équilibré */
-  body { color: #f5f3eb !important; }
+  /* 2) Couleur générale du texte */
+  body { color: #f2ede3 !important; }
 
-  /* 3) Titres : doré lisible, pas flashy */
+  /* 3) Titres : doré profond, bien lisible sur fond sombre */
   h1, h2, h3 {
-    color: #d1aa5e !important;
-    text-shadow: 1px 1px 4px rgba(0,0,0,0.25) !important;
+    color: #c9a758 !important;
+    text-shadow: 1px 1px 5px rgba(0,0,0,0.4) !important;
   }
 
-  /* 4) Liens : doré plus doux */
-  a { color: #d8bb75 !important; }
-  a:hover { color: #f2d68f !important; }
+  /* 4) Liens : doré doux */
+  a { color: #d2b56e !important; }
+  a:hover { color: #f0d88f !important; }
 
-  /* 5) Couleurs inline équilibrées */
-  [style*="color:red"]  { color: #d86d6d !important; }
-  [style*="color:blue"] { color: #6ea9ff !important; }
+  /* 5) Couleurs de rôles (adoucies mais visibles) */
+  [style*="color:red"]  { color: #c85c5c !important; }   /* rouge doux */
+  [style*="color:blue"] { color: #5e9eff !important; }   /* bleu lisible */
 
-  /* 6) Cartes et blocs : fond et bordures plus subtiles */
+  /* 6) Cartes et blocs */
   .home-card, .rules-cell {
-    background: rgba(255,255,255,0.05) !important;
+    background: rgba(255,255,255,0.04) !important;
     border: 1px solid rgba(198,162,93,0.22) !important;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.22) !important;
+    box-shadow: 0 3px 9px rgba(0,0,0,0.28) !important;
   }
   .home-card:hover, .rules-cell:hover {
-    background: rgba(255,255,255,0.08) !important;
+    background: rgba(255,255,255,0.07) !important;
     border-color: rgba(198,162,93,0.4) !important;
-    box-shadow: 0 8px 18px rgba(0,0,0,0.3) !important;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.35) !important;
   }
 </style>
+
+
  <!-- 🏠 PAGE D’ACCUEIL - WIKI BOTC FR -->
 
 <div style="text-align:center; margin-top:40px;">
