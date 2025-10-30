@@ -25,7 +25,7 @@ title: Lavandière
 <h3>📖 Informations</h3>
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li><strong>Type</strong> : <a href="../villageois.md" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a></li>
+  <li><strong>Type</strong> : <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a></li>
   <li><strong>Artiste</strong> : Aidan Roberts</li>
   <li>« Des taches de sang sur une veste de dîner ? Non, c’est du vin de cuisine. Quelle étourderie. »</li>
 </ul>
@@ -57,13 +57,13 @@ title: Lavandière
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
   « Vous commencez en apprenant deux joueurs et le rôle de 
-  <a href="../villageois.md" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>
+  <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>
   de l’un des deux. »
 </p>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
   La <span style="color:#6fa8ff; font-weight:bold;">Lavandière</span> apprend qu’un certain rôle 
-  <a href="../villageois.md" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>
+  <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>
   est en jeu, mais <strong>pas qui le joue</strong>.
 </p>
 
@@ -75,13 +75,13 @@ title: Lavandière
 
 <hr>
 
-<h3>🧭 Comment conter</h3>
+<h3>📖 Comment conter</h3>
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li><strong>Préparation (première nuit)</strong> :
     <ul style="margin-top:6px;">
       <li>Placez le jeton <strong>VILLAGEOIS</strong> de la Lavandière à côté d’un rôle 
-        <a href="../villageois.md" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a> en jeu.
+        <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a> en jeu.
       </li>
       <li>Placez le jeton <strong>ERRONÉ</strong> de la Lavandière à côté d’un autre rôle quelconque.</li>
     </ul>
@@ -90,7 +90,7 @@ title: Lavandière
     <ul style="margin-top:6px;">
       <li>Réveillez la Lavandière.</li>
       <li>Montrez-lui les deux joueurs marqués et révélez le jeton du rôle 
-        <a href="../villageois.md" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>.
+        <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>.
       </li>
       <li>Renvoyez-la dormir.</li>
     </ul>
@@ -100,7 +100,7 @@ title: Lavandière
 
 <hr>
 
-<h3>📂 Exemples</h3>
+<h3>📖 Exemples</h3>
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li><strong>Cédric</strong> est 
@@ -128,7 +128,7 @@ title: Lavandière
     <span style="opacity:.9;">(Ici, l’</span>
     <a href="./espion.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Espion</a>
     <span style="opacity:.9;"> s’enregistre comme </span>
-    <a href="../villageois.md" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>
+    <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>
     <span style="opacity:.9;">.)</span>
   </li>
 </ul>
@@ -148,11 +148,11 @@ title: Lavandière
   <li>Révéler vos infos dès le premier jour peut donner un <strong>très bon départ</strong> à l’équipe du Bien.</li>
   <li>Garder l’info secrète jusqu’à la fin peut réduire les suspects à <strong>1 sur 2</strong> au lieu de 1 sur 3.</li>
   <li>Formez une alliance discrète avec le 
-    <a href="../villageois.md" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>
+    <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>
     que vous avez identifié. Ensemble, vous pourrez vous défendre si l’un de vous est accusé.
   </li>
   <li>Vous pouvez aussi mentir au groupe sur le rôle exact pour protéger le vrai 
-    <a href="../villageois.md" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>
+    <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>
     (ex. cacher une 
     <a href="./voyante.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Voyante</a>
     ou un 
@@ -161,7 +161,7 @@ title: Lavandière
   <li>Attention à l’
     <a href="./espion.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Espion</a> :
     il peut apparaître comme 
-    <a href="../villageois.md" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>
+    <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>
     auprès de vous.
   </li>
 </ul>
@@ -172,12 +172,12 @@ title: Lavandière
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li>Vos infos arrivent <strong>dès la première nuit</strong> : deux joueurs et un jeton 
-    <a href="../villageois.md" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>.
+    <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>.
   </li>
   <li>Désignez un joueur malin (par exemple un 
     <a href="../glossaire.html#sbire" style="color:#c45959; font-weight:bold; text-decoration:none;">Sbire</a>)
     et dites qu’il est un 
-    <a href="../villageois.md" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a> vu.
+    <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a> vu.
   </li>
   <li>Si un joueur bon affirme être ce rôle, vous pouvez « confirmer » son identité et ainsi le tromper.</li>
   <li>Vous pouvez annoncer un rôle inexistant et, si c’est faux, dire que vous êtes 
@@ -200,5 +200,5 @@ title: Lavandière
   <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
   <li>🌛 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
   <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a></li>
-  <li>🧑‍🌾 <a href="../villageois.md" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
+  <li>🧑‍🌾 <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
 </ul>
