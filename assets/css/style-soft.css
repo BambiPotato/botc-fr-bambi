@@ -1,3 +1,5 @@
+/* DEBUG: retirer après test */
+html { outline: 3px solid magenta !important; }
 /* ============================
    Palette adoucie + lisibilité
    (SANS casser tes classes)
