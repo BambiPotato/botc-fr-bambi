@@ -4,51 +4,6 @@
   </a>
 </p>
 
-<!-- SOFT THEME PATCH (local à cette page, sûr & réversible) -->
-<style>
-  /* 1) Bannière plus douce pour que le texte ressorte mieux */
-  body::before {
-    opacity: 0.22 !important; /* au lieu de ~0.6 */
-  }
-
-  /* 2) Titres et liens dorés un peu plus “mat” */
-  h1, h2 {
-    color: #c8a35d !important;            /* doré mat */
-    text-shadow: none !important;         /* moins de halo lumineux */
-  }
-  a { color: #d4a76a !important; }
-  a:hover { color: #e6c889 !important; }
-
-  /* 3) Cartes & blocs (home-card, rules-cell) plus doux */
-  .home-card, .rules-cell {
-    background: rgba(255,255,255,0.03) !important;
-    border: 1px solid rgba(181,139,82,0.22) !important;
-    box-shadow: 0 4px 14px rgba(0,0,0,0.22) !important;
-  }
-  .home-card:hover, .rules-cell:hover {
-    background: rgba(255,255,255,0.05) !important;
-    border-color: rgba(212,167,106,0.45) !important;
-    box-shadow: 0 8px 20px rgba(0,0,0,0.30) !important;
-  }
-  .home-title { color: #c8a35d !important; }
-
-  /* 4) Couleurs d’alignements adoucies mais cohérentes TPI */
-  /* Bleu = Villageois + Étrangers */
-  .role-grid a.villageois:hover img,
-  .role-grid a.etranger:hover img { border-color: #5aa7ff !important; }
-
-  /* Rouge = Sbires + Démons (rouge un peu moins agressif) */
-  .role-grid a.sbire:hover img,
-  .role-grid a.demon:hover img { border-color: #e06a6a !important; }
-
-  /* Voyageurs (violet), Légendaires (doré) — inchangés */
-  .role-grid a.voyageur:hover img { border-color: #9b59b6 !important; }
-  .role-grid a.fabled:hover img   { border-color: #d4a76a !important; }
-
-  /* 5) “Rattrapage” doux des couleurs inline existantes */
-  span[style*="color:red"]  { color: #e06a6a !important; }
-  span[style*="color:blue"] { color: #5aa7ff !important; }
-</style>
    
  <!-- 🏠 PAGE D’ACCUEIL - WIKI BOTC FR -->
 
