@@ -31,7 +31,7 @@ title: Lavandière
 
 ## 📖 Informations  
 
-- **Type** : [<span style="color:blue">Villageois</span> style="color:blue"](../villageois.md)  
+- **Type** : [<span style="color:blue">Villageois</span>](../villageois.md)  
 - **Artiste** : Aidan Roberts  
 - « Des taches de sang sur une veste de dîner ? Non, c’est du vin de cuisine. Quelle étourderie. »  
 
