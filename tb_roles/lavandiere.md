@@ -87,7 +87,7 @@ La Lavandière apprend qu’un certain [<span style="color:blue">Villageois</spa
 
 - **Cédric** est [<span style="color:blue">Cuistot</span>](cuistot.md), et **Céline** est [<span style="color:blue">Gardien</span>](gardien.md) → la Lavandière apprend que l’un des deux est le [<span style="color:blue">Cuistot</span>](cuistot.md).  
 - **Julien** est [<span style="color:red">Imp</span>](imp.md), et **Vanessa** est [<span style="color:blue">Vierge</span>](vierge.md) → la Lavandière apprend que l’un des deux est la [<span style="color:blue">Vierge</span>](vierge.md).  
-- **Tanina** est [Espion](espion.md), et **Leelou** est [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md) → la Lavandière apprend que l’un des deux est le [<span style="color:blue"Gardien</span>](gardien.md). (Ici, l’[<span style="color:red">Espion</span>](espion.md) s’enregistre comme [<span style="color:blue">Villageois</span>](../glossaire.md#villageois).)  
+- **Tanina** est [<span style="color:red">Espion</span>](espion.md), et **Leelou** est [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md) → la Lavandière apprend que l’un des deux est le [<span style="color:blue">Gardien</span>](gardien.md). (Ici, l’[<span style="color:red">Espion</span>](espion.md) s’enregistre comme [<span style="color:blue">Villageois</span>](../glossaire.md#villageois).)  
 
 ---
 
