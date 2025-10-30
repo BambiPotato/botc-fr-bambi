@@ -95,7 +95,7 @@ La Lavandière apprend qu’un certain [<span style="color:blue">Villageois</spa
 
 - La Lavandière est **puissante en discrétion** : elle ne désigne pas les maléfiques, mais peut confirmer l’identité d’un joueur bon.  
 - Si vous êtes [<span style="color:blue">Ivrogne</span>](ivrogne.md) ou [empoisonné·e, vos infos seront souvent manifestement fausses. Comparez-les aux déclarations des joueurs : c’est parfois facile à déceler.  
-- Parmi les deux joueurs désignés, l’un **est** bien le rôle vu. Donc vous savez aussi que ce joueur **n’est pas** l’[<<span style="color:blue">Ivrogne</span>](ivrogne.md).  
+- Parmi les deux joueurs désignés, l’un **est** bien le rôle vu. Donc vous savez aussi que ce joueur **n’est pas** l’[<span style="color:blue">Ivrogne</span>](ivrogne.md).  
 - Révéler vos infos dès le premier jour peut donner un **très bon départ** à l’équipe du Bien.  
 - À l’inverse, garder l’info secrète jusqu’à la fin peut réduire les suspects à **1 sur 2** au lieu de 1 sur 3.  
 - Formez une alliance discrète avec le [<span style="color:blue">Villageois</span>](../glossaire.md#villageois) que vous avez identifié. Ensemble, vous pourrez vous défendre si l’un de vous est accusé.  
