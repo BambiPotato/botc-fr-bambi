@@ -1,5 +1,5 @@
 // ===========================
-// Thème clair/sombre + anti-404 + Jinx pliable (version sûre)
+// BOTC Theme + Helpers (safe)
 // ===========================
 (function () {
   // Empêche une double exécution si le script est injecté deux fois
@@ -7,14 +7,15 @@
   window.__BOTC_THEME_INIT__ = true;
 
   document.addEventListener("DOMContentLoaded", function () {
-    // ---------- 1) Bouton de thème : créer s'il n'existe pas ----------
+
+    // ---------- 1) Bouton Thème (créé si absent) ----------
     var btn = document.getElementById("theme-toggle");
     if (!btn) {
       btn = document.createElement("button");
       btn.id = "theme-toggle";
       btn.type = "button";
-      btn.textContent = "☀️ Mode clair"; // sera ajusté juste après
-      // Style léger au cas où le CSS global ne le définit pas
+      btn.textContent = "☀️ Mode clair"; // ajusté après applyTheme()
+      // Style minimal au cas où le CSS global ne le définit pas
       btn.style.position = "fixed";
       btn.style.top = "12px";
       btn.style.right = "12px";
@@ -44,19 +45,19 @@
       btn.textContent = nowLight ? "🌙 Mode sombre" : "☀️ Mode clair";
     });
 
-    // ---------- 3) Liens .md -> .html (évite les 404 sur GH Pages) ----------
+    // ---------- 3) Liens .md -> .html (évite 404 GH Pages) ----------
     Array.prototype.forEach.call(document.querySelectorAll("a[href$='.md']"), function (link) {
       var href = link.getAttribute("href") || "";
-      // ne pas toucher aux liens absolus
+      // Ne pas toucher aux liens absolus
       if (/^https?:\/\//i.test(href)) return;
       link.setAttribute("href", href.replace(/\.md$/i, ".html"));
     });
 
-    // ---------- 4) JINX pliable ----------
-    // Structure HTML attendue :
+    // ---------- 4) Blocs JINX repliables ----------
+    // Structure attendue :
     // <div class="jinx-toggle">
-    //   <div class="jinx-summary">Jinx associé (cliquer pour ouvrir)</div>
-    //   <div class="jinx-content"> ... contenu ... </div>
+    //   <div class="jinx-summary">Titre (cliquer)</div>
+    //   <div class="jinx-content">Contenu…</div>
     // </div>
     Array.prototype.forEach.call(document.querySelectorAll(".jinx-toggle"), function (block) {
       var summary = block.querySelector(".jinx-summary");
@@ -82,5 +83,46 @@
         arrow.textContent = hidden ? "🔽 " : "▶️ ";
       });
     });
+
+    // ---------- 5) PATCH : Attributs "style”color:blue”" cassés + adoucissement ----------
+    // Certaines pages contiennent des attributs avec guillemets courbes (ex: style”color:blue”)
+    // On les détecte, on applique la couleur voulue, puis on retire cet attribut cassé.
+    (function fixBrokenStyleAttributes() {
+      var all = document.querySelectorAll("*");
+      for (var i = 0; i < all.length; i++) {
+        var el = all[i];
+        if (!el.getAttributeNames) continue;
+        var names = el.getAttributeNames();
+
+        for (var j = 0; j < names.length; j++) {
+          var name = names[j];
+          // Ne pas toucher au vrai "style"
+          if (name === "style") continue;
+
+          // Si un attribut ressemble à "style" (avec guillemets typographiques, variantes, etc.)
+          if (/style/i.test(name)) {
+            var val = el.getAttribute(name) || "";
+
+            // Tente d'extraire une couleur simple "color: xxx"
+            var m = val.match(/color\s*:\s*([#a-z0-9]+)/i);
+            if (m) {
+              var raw = (m[1] || "").toLowerCase();
+              var resolved = raw;
+
+              // Harmonisation vers des teintes SOFT cohérentes avec style-soft.css
+              if (raw === "blue") resolved = "#4ea3ff";        // BLEU doux (villageois, étrangers)
+              else if (raw === "red") resolved = "#d45b5b";    // ROUGE doux (sbires, démons)
+              else if (raw === "#fff" || raw === "#ffffff" || raw === "white") resolved = "#e6e6e6"; // blanc doux
+
+              el.style.color = resolved;
+            }
+
+            // Nettoie l’attribut cassé
+            el.removeAttribute(name);
+          }
+        }
+      }
+    })();
+
   });
 })();
