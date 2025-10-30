@@ -1,5 +1,5 @@
 /* =========================================================
-   style.css — version propre et cohérente (modules respectés)
+   style.css — version finale stable et lisible (v21)
    ========================================================= */
 
 /* 🌙 Mode sombre par défaut */
@@ -209,3 +209,18 @@ em[style*="color:red" i],
 [style*="color:#9b59b6" i] { color: #9b59b6 !important; } /* Voyageurs */
 [style*="color:#d4a76a" i] { color: #d4a76a !important; } /* Légendaires */
 [style*="color:#4caf50" i] { color: #4caf50 !important; } /* Loric */
+
+/* =========================================================
+   🩶 PATCH FOND LISIBLE — corrige le voile sombre des pages internes
+   ========================================================= */
+body {
+  background: #181818 !important;  /* même ton que la page d'accueil */
+}
+
+body::before {
+  opacity: 0.08 !important;        /* voile clair lisible */
+}
+
+main, .page-content, .wrapper {
+  background: transparent !important;  /* supprime les surcouches noires de Jekyll */
+}
