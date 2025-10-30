@@ -3,117 +3,202 @@ layout: default
 title: Lavandière
 ---
 
-
 <p align="left">
   <a href="/botc-fr-bambi/">
     <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
-
-## 🧺  Lavandière
-
+<h2 style="margin-top:8px;">🧺 <span style="color:#6fa8ff; font-weight:bold;">Lavandière</span></h2>
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
-<div style="text-align:center; margin: 20px 0;">
+<div style="text-align:center; margin:20px 0;">
   <a href="./lavandiere.html" style="text-decoration:none;">
-    <img src="../images/Icon_washerwoman.png" alt="Lavandière*" width="350" style="border-radius:8px;">
+    <img src="../images/Icon_washerwoman.png" alt="Lavandière" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:blue; font-weight:bold; font-size:22px;">Lavandière<span style="color:blue"
+    <span style="color:#6fa8ff; font-weight:bold; font-size:22px;">Lavandière</span>
   </a>
 </div>
 
+<hr>
 
----
+<h3>📖 Informations</h3>
 
-## 📖 Informations  
+<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  <li><strong>Type</strong> : <a href="../villageois.md" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a></li>
+  <li><strong>Artiste</strong> : Aidan Roberts</li>
+  <li>« Des taches de sang sur une veste de dîner ? Non, c’est du vin de cuisine. Quelle étourderie. »</li>
+</ul>
 
-- **Type** : [<span style="color:blue">Villageois</span>](../villageois.md)  
-- **Artiste** : Aidan Roberts  
-- « Des taches de sang sur une veste de dîner ? Non, c’est du vin de cuisine. Quelle étourderie. »  
+<hr>
 
-## 🎭 Apparaît dans  
+<h3>🎭 Apparaît dans</h3>
 
-# 🍺 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+<h2 style="color:#b58b52; font-weight:bold; font-size:42px; margin-bottom:6px;">🍺 Trouble Brewing</h2>
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-6px;">
   « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
 </p>
 
-<div style="text-align:center; margin: 20px 0;">
+<div style="text-align:center; margin:18px 0 8px;">
   <a href="../trouble_brewing.html" style="text-decoration:none;">
-    <img src="../images/Logo_trouble_brewing.png" alt= "Trouble Brewing" width="400" style="border-radius:12px;">
+    <img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400" style="border-radius:12px;">
     <br>
     <span style="color:#b58b52; font-weight:bold; font-size:22px;">Trouble Brewing</span>
   </a>
 </div>
 
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-"Cult of the Clocktower – épisode par Andrew Nathenson"
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin:4px 0 0;">
+  « Cult of the Clocktower – épisode par Andrew Nathenson »
 </p>
 
----
+<hr>
 
-## 📝 Résumé  
+<h3>📝 Résumé</h3>
 
-« Vous commencez en apprenant 2 joueurs et le rôle de [<span style="color:blue">Villageois</span>](../glossaire.md#villageois) de l’un des deux. »  
+<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  « Vous commencez en apprenant deux joueurs et le rôle de 
+  <a href="../villageois.md" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>
+  de l’un des deux. »
+</p>
 
-La Lavandière apprend qu’un certain [<span style="color:blue">Villageois</span>](../glossaire.md#villageois) est en jeu, mais **pas qui le joue**.  
+<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  La <span style="color:#6fa8ff; font-weight:bold;">Lavandière</span> apprend qu’un certain rôle 
+  <a href="../villageois.md" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>
+  est en jeu, mais <strong>pas qui le joue</strong>.
+</p>
 
-- Pendant la première nuit, la Lavandière est réveillée.  
-- On lui montre deux joueurs et elle apprend le rôle de l’un d’eux.  
-- Cela n’arrive **qu’une seule fois** et elle n’aura plus d’informations ensuite.  
+<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  <li>Pendant la première nuit, la Lavandière est réveillée.</li>
+  <li>On lui montre deux joueurs et elle apprend le rôle de l’un d’eux.</li>
+  <li>Cela arrive <strong>une seule fois</strong> et elle n’aura plus d’informations ensuite.</li>
+</ul>
 
----
+<hr>
 
-## Comment Conter 
+<h3>🧭 Comment conter</h3>
 
-- Lors de la préparation de la première nuit :  
-  - Placez le jeton **VILLAGEOIS** de la Lavandière à côté d’un rôle [<span style="color:blue">Villageois</span>](../villageois.md#villageois) en jeu.  
-  - Placez le jeton **ERRONÉ** de la Lavandière à côté de n’importe quel autre rôle.  
-- Durant la première nuit :  
-  - Réveillez la Lavandière.  
-  - Montrez-lui les deux joueurs marqués et révélez le jeton du rôle [<span style="color:blue">Villageois</span>](../glossaire.md#villageois).  
-  - Renvoyez-la dormir.  
-- Retirez ses jetons de rappel dès que possible pour éviter la confusion.  
+<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  <li><strong>Préparation (première nuit)</strong> :
+    <ul style="margin-top:6px;">
+      <li>Placez le jeton <strong>VILLAGEOIS</strong> de la Lavandière à côté d’un rôle 
+        <a href="../villageois.md" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a> en jeu.
+      </li>
+      <li>Placez le jeton <strong>ERRONÉ</strong> de la Lavandière à côté d’un autre rôle quelconque.</li>
+    </ul>
+  </li>
+  <li><strong>Première nuit</strong> :
+    <ul style="margin-top:6px;">
+      <li>Réveillez la Lavandière.</li>
+      <li>Montrez-lui les deux joueurs marqués et révélez le jeton du rôle 
+        <a href="../villageois.md" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>.
+      </li>
+      <li>Renvoyez-la dormir.</li>
+    </ul>
+  </li>
+  <li>Retirez ses jetons de rappel dès que possible pour éviter la confusion.</li>
+</ul>
 
----
+<hr>
 
-## 📂 Exemples  
+<h3>📂 Exemples</h3>
 
-- **Cédric** est [<span style="color:blue">Cuistot</span>](cuistot.md), et **Céline** est [<span style="color:blue">Gardien</span>](gardien.md) → la Lavandière apprend que l’un des deux est le [<span style="color:blue">Cuistot</span>](cuistot.md).  
-- **Julien** est [<span style="color:red">Imp</span>](imp.md), et **Vanessa** est [<span style="color:blue">Vierge</span>](vierge.md) → la Lavandière apprend que l’un des deux est la [<span style="color:blue">Vierge</span>](vierge.md).  
-- **Tanina** est [<span style="color:red">Espion</span>](espion.md), et **Leelou** est [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md) → la Lavandière apprend que l’un des deux est le [<span style="color:blue">Gardien</span>](gardien.md). (Ici, l’[<span style="color:red">Espion</span>](espion.md) s’enregistre comme [<span style="color:blue">Villageois</span>](../glossaire.md#villageois).)  
+<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  <li><strong>Cédric</strong> est 
+    <a href="./cuistot.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Cuistot</a>,
+    et <strong>Céline</strong> est 
+    <a href="./gardien.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Gardien</a>
+    → la Lavandière apprend que l’un des deux est le 
+    <a href="./cuistot.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Cuistot</a>.
+  </li>
 
----
+  <li><strong>Julien</strong> est 
+    <a href="./imp.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Imp</a>,
+    et <strong>Vanessa</strong> est 
+    <a href="./vierge.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Vierge</a>
+    → la Lavandière apprend que l’un des deux est la 
+    <a href="./vierge.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Vierge</a>.
+  </li>
 
-## 💡 Astuces & Stratégies  
+  <li><strong>Tanina</strong> est 
+    <a href="./espion.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Espion</a>,
+    et <strong>Leelou</strong> est 
+    <a href="./femmeecarlate.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Femme Écarlate</a>
+    → la Lavandière apprend que l’un des deux est le 
+    <a href="./gardien.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Gardien</a>.
+    <span style="opacity:.9;">(Ici, l’</span>
+    <a href="./espion.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Espion</a>
+    <span style="opacity:.9;"> s’enregistre comme </span>
+    <a href="../villageois.md" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>
+    <span style="opacity:.9;">.)</span>
+  </li>
+</ul>
 
-- La Lavandière est **puissante en discrétion** : elle ne désigne pas les maléfiques, mais peut confirmer l’identité d’un joueur bon.  
-- Si vous êtes [<span style="color:blue">Ivrogne</span>](ivrogne.md) ou [empoisonné·e, vos infos seront souvent manifestement fausses. Comparez-les aux déclarations des joueurs : c’est parfois facile à déceler.  
-- Parmi les deux joueurs désignés, l’un **est** bien le rôle vu. Donc vous savez aussi que ce joueur **n’est pas** l’[<span style="color:blue">Ivrogne</span>](ivrogne.md).  
-- Révéler vos infos dès le premier jour peut donner un **très bon départ** à l’équipe du Bien.  
-- À l’inverse, garder l’info secrète jusqu’à la fin peut réduire les suspects à **1 sur 2** au lieu de 1 sur 3.  
-- Formez une alliance discrète avec le [<span style="color:blue">Villageois</span>](../glossaire.md#villageois) que vous avez identifié. Ensemble, vous pourrez vous défendre si l’un de vous est accusé.  
-- Vous pouvez aussi mentir au groupe sur le rôle exact pour protéger le vrai [Villageois</span>](../glossaire.md#villageois) (ex. cacher une [<span style="color:blue">Voyante](voyante.md) ou un [<span style="color:blue">Empathique</span>](empathique.md)).  
-- Attention à l’[<span style="color:red">Espion</span>](espion.md) : il peut apparaître comme [<span style="color:blue">Villageois</span>](../glossaire.md#villageois) auprès de vous.  
+<hr>
 
----
+<h3>💡 Astuces & Stratégies</h3>
 
-## 🎭 Bluff en tant que Lavandière  
+<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  <li>La Lavandière est <strong>puissante en discrétion</strong> : elle ne désigne pas les maléfiques, mais peut confirmer l’identité d’un joueur bon.</li>
+  <li>Si vous êtes 
+    <a href="./ivrogne.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Ivrogne</a>
+    ou empoisonné ou empoisonnée, vos infos seront souvent fausses. Comparez-les aux déclarations des joueurs et des joueuses.</li>
+  <li>Parmi les deux joueurs désignés, l’un <strong>est</strong> bien le rôle vu. Donc vous savez aussi que ce joueur <strong>n’est pas</strong> l’
+    <a href="./ivrogne.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Ivrogne</a>.
+  </li>
+  <li>Révéler vos infos dès le premier jour peut donner un <strong>très bon départ</strong> à l’équipe du Bien.</li>
+  <li>Garder l’info secrète jusqu’à la fin peut réduire les suspects à <strong>1 sur 2</strong> au lieu de 1 sur 3.</li>
+  <li>Formez une alliance discrète avec le 
+    <a href="../villageois.md" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>
+    que vous avez identifié. Ensemble, vous pourrez vous défendre si l’un de vous est accusé.
+  </li>
+  <li>Vous pouvez aussi mentir au groupe sur le rôle exact pour protéger le vrai 
+    <a href="../villageois.md" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>
+    (ex. cacher une 
+    <a href="./voyante.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Voyante</a>
+    ou un 
+    <a href="./empathique.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Empathique</a>).
+  </li>
+  <li>Attention à l’
+    <a href="./espion.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Espion</a> :
+    il peut apparaître comme 
+    <a href="../villageois.md" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>
+    auprès de vous.
+  </li>
+</ul>
 
-- Vous auriez reçu vos infos **dès la première nuit** : deux joueurs et un jeton [<span style="color:blue">Villageois</span>](../glossaire.md#villageois).  
-- Vous pouvez désigner un joueur malin (par ex. un [<span style="color:red">Sbire</span>](../glossaire.md#sbire)) et dire qu’il est un [<span style="color:blue">Villageois</span>](../glossaire.md#villageois) vu.  
-- Si un joueur bon affirme être ce rôle, vous pouvez « confirmer » son identité et ainsi le tromper.  
-- Vous pouvez aussi annoncer un rôle inexistant et, si c’est faux, dire que vous êtes [<span style="color:blue">Ivrogne</span>](ivrogne.md) ou empoisonné·e.  
-- En tant qu’[<span style="color:red">Espion</span>](espion.md) (ou allié d’un [<span style="color:red">Espion</span>](espion.md)), vous avez un gros avantage : vous savez quels rôles sont vraiment en jeu.  
-- C’est un bluff risqué, car si le rôle que vous citez n’est pas en jeu, votre couverture tombe vite.  
+<hr>
 
+<h3>🎭 Bluff en tant que Lavandière</h3>
+
+<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  <li>Vos infos arrivent <strong>dès la première nuit</strong> : deux joueurs et un jeton 
+    <a href="../villageois.md" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>.
+  </li>
+  <li>Désignez un joueur malin (par exemple un 
+    <a href="../glossaire.html#sbire" style="color:#c45959; font-weight:bold; text-decoration:none;">Sbire</a>)
+    et dites qu’il est un 
+    <a href="../villageois.md" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a> vu.
+  </li>
+  <li>Si un joueur bon affirme être ce rôle, vous pouvez « confirmer » son identité et ainsi le tromper.</li>
+  <li>Vous pouvez annoncer un rôle inexistant et, si c’est faux, dire que vous êtes 
+    <a href="./ivrogne.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Ivrogne</a>
+    ou empoisonné ou empoisonnée.
+  </li>
+  <li>En tant qu’
+    <a href="./espion.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Espion</a>
+    (ou allié d’un 
+    <a href="./espion.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Espion</a>), vous savez quels rôles sont vraiment en jeu.
+  </li>
+  <li>Bluff risqué : si le rôle que vous citez n’est pas en jeu, votre couverture tombe vite.</li>
+</ul>
+
+<hr>
+
+<h3 style="color:#ffa64d; font-weight:bold; font-size:24px;">📂 Navigation</h3>
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
   <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
   <li>🌛 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
-  <li>🧑‍🌾 <a href="../villageois.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
+  <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a></li>
+  <li>🧑‍🌾 <a href="../villageois.md" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
 </ul>
