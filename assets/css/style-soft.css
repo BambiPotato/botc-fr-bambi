@@ -106,3 +106,39 @@ h1, h2, h3, h4{
 .role-grid span{
   color: var(--text-soft) !important;
 }
+/* === PATCH global lisibilité — unifie toutes les pages === */
+
+/* BLEU DOUX pour tous les rôles de type Villageois & Étrangers */
+a[style*="color:blue" i],
+span[style*="color:blue" i],
+strong[style*="color:blue" i],
+em[style*="color:blue" i],
+[style*="color:#00f" i],
+[style*="color:#0000ff" i] {
+  color: #4ea3ff !important;
+}
+
+/* ROUGE ADOUCI pour Sbires et Démons */
+a[style*="color:red" i],
+span[style*="color:red" i],
+strong[style*="color:red" i],
+em[style*="color:red" i],
+[style*="color:#f00" i],
+[style*="color:#ff0000" i] {
+  color: #d45b5b !important;
+}
+
+/* BLANC légèrement adouci (pour textes trop vifs) */
+[style*="color:white" i],
+[style*="color:#fff" i],
+[style*="color:#ffffff" i] {
+  color: #e6e6e6 !important;
+}
+
+/* On garde les couleurs “officielles” que tu avais définies */
+[style*="color:#b58b52" i] { color: #b58b52 !important; } /* Trouble Brewing */
+[style*="color:#ffa64d" i] { color: #ffa64d !important; } /* Bad Moon Rising */
+[style*="color:#d67bff" i] { color: #d67bff !important; } /* Sects & Violets */
+[style*="color:#9b59b6" i] { color: #9b59b6 !important; } /* Voyageurs */
+[style*="color:#d4a76a" i] { color: #d4a76a !important; } /* Légendaires */
+[style*="color:#4caf50" i] { color: #4caf50 !important; } /* Loric */
