@@ -81,7 +81,7 @@ Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient
 
 <p style="text-align:left; color:#d4a76a; font-size:19px; font-weight:bold;">
 👉 Niveau : <strong>Débutant</strong><br>
-<em>**Ce module est recommandé pour les nouveaux joueurs, joueuses et Conteurs.**</em>
+<em>**Ce module est recommandé pour les débutants et les débutantes, Conteuses et Conteurs qui content pour la première fois.**</em>
 </p>
 
 ---
