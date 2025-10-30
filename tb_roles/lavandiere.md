@@ -70,7 +70,7 @@ La Lavandière apprend qu’un certain [<span style="color:blue">Villageois</spa
 ## Comment Conter 
 
 - Lors de la préparation de la première nuit :  
-  - Placez le jeton **VILLAGEOIS** de la Lavandière à côté d’un rôle [<span style="color:blue">Villageois</span>](../glossaire.md#villageois) en jeu.  
+  - Placez le jeton **VILLAGEOIS** de la Lavandière à côté d’un rôle [<span style="color:blue">Villageois</span>](../villageois.md#villageois) en jeu.  
   - Placez le jeton **ERRONÉ** de la Lavandière à côté de n’importe quel autre rôle.  
 - Durant la première nuit :  
   - Réveillez la Lavandière.  
