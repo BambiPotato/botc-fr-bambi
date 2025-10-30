@@ -1,22 +1,22 @@
 /* ============================
-   Thème adouci et lisible
+   SOFT THEME – lisibilité + couleurs adoucies
+   S’applique même si tes pages ont des style="color:..."
    ============================ */
 
-/* Variables de couleurs */
+/* Palette */
 :root {
-  --bg-dark: #1a1a1a;
-  --text-dark: #f0f0f0;
+  --bg-dark: #181818;
+  --text-dark: #eaeaea;
   --bg-light: #ffffff;
   --text-light: #101010;
 
   --gold: #c8a35d;
   --gold-light: #e2c080;
 
-  --blue-good: #6fa8ff;       /* BLEU doux */
-  --red-evil: #c45959;        /* ROUGE adouci */
-  --purple-trav: #9b59b6;     /* VIOLET voyageurs */
-  --gold-fabled: #d4a76a;     /* DORÉ légendaires */
-  --green-loric: #4caf50;     /* VERT Loric (à venir) */
+  --blue-good: #4ea3ff;   /* Gentils (Villageois & Étrangers), BLEU adouci */
+  --red-evil:  #d45b5b;   /* Maléfiques (Sbires & Démons), ROUGE adouci */
+  --violet-trav: #9b59b6; /* Voyageurs */
+  --gold-fabled: #d4a76a; /* Légendaires */
 
   --card-bg: rgba(255,255,255,0.02);
   --card-bg-hover: rgba(255,255,255,0.04);
@@ -29,71 +29,74 @@
   --link-hover: #e2c080;
 }
 
-/* ============================
-   Base du site
-   ============================ */
+/* Base sombre adoucie */
 body {
   background: var(--bg-dark);
   color: var(--text-dark);
   transition: background .25s, color .25s;
-  font-family: Arial, sans-serif;
-  line-height: 1.6;
-  position: relative;
-  z-index: 0;
+  line-height: 1.65;
 }
 
-/* Image de fond bannière */
+/* Bannière de fond – voile plus léger (améliore la lisibilité) */
 body::before {
   content: "";
-  position: fixed;
-  inset: 0;
+  position: fixed; inset: 0;
   background: url("/botc-fr-bambi/images/banner.png") no-repeat center / cover;
-  opacity: 0.25; /* voile légèrement adouci */
+  opacity: 0.12; /* plus léger qu’avant */
   z-index: -1;
 }
 
-/* Mode clair si activé plus tard */
-body.light-mode {
-  background: var(--bg-light);
-  color: var(--text-light);
-}
-body.light-mode::before {
-  opacity: 0.10;
-}
+/* Liens généraux */
+a { color: var(--link); }
+a:hover { color: var(--link-hover); }
 
-/* Images classiques */
-img { max-width: 100%; height: auto; }
+/* Titres (léger relief) */
+h1, h2 { text-shadow: 2px 2px 6px rgba(0,0,0,.25); }
 
-/* Bouton thème */
-#theme-toggle {
-  position: fixed;
-  top: 12px; right: 12px;
-  padding: 8px 12px;
-  cursor: pointer;
-  border: none;
-  border-radius: 8px;
-  background: #444;
-  color: #fff;
-  font-size: 14px;
-  z-index: 999;
+/* -------------------------------------------------
+   OVERRIDE des couleurs "inline" pour les rendre douces
+   (fonctionne même si tu as <span style="color:blue"> etc.)
+   ------------------------------------------------- */
+
+/* Tous les bleu “inline” → bleu doux */
+[style*="color:blue"],
+[style*="color:#00f"],
+[style*="color:#0000ff"],
+[style*="color: rgb(0, 0, 255)"] {
+  color: var(--blue-good) !important;
 }
 
-/* ============================
-   Cartes de la page d'accueil
-   ============================ */
+/* Tous les rouge “inline” → rouge doux */
+[style*="color:red"],
+[style*="color:#f00"],
+[style*="color:#ff0000"],
+[style*="color: rgb(255, 0, 0)"] {
+  color: var(--red-evil) !important;
+}
+
+/* Doré (légendaires) – on garde ta teinte */
+[style*="color:#b58b52"],
+[style*="color:#d4a76a"] {
+  color: var(--gold) !important;
+}
+
+/* Violet voyageurs (si présent) */
+[style*="color:purple"] {
+  color: var(--violet-trav) !important;
+}
+
+/* -------------------------------------------------
+   Cartes accueil (si présentes)
+   ------------------------------------------------- */
 .home-card {
-  display: inline-block;
-  text-decoration: none;
-  border-radius: 14px;
-  overflow: hidden;
+  display: inline-block; text-decoration: none;
+  border-radius: 14px; overflow: hidden;
   border: 1px solid var(--card-border);
   background: var(--card-bg);
   box-shadow: var(--shadow);
   transition: transform .18s ease, box-shadow .18s ease,
               border-color .18s ease, background .18s ease;
-  width: 100%;
-  max-width: 290px;
-  text-align: center;
+  width: 100%; max-width: 290px; text-align: center;
 }
 .home-card:hover {
   transform: translateY(-4px);
@@ -107,35 +110,22 @@ img { max-width: 100%; height: auto; }
   background: rgba(0,0,0,0.25);
 }
 .home-card .home-title {
-  display: block;
-  padding: 10px 10px 12px;
-  color: var(--gold);
-  font-weight: 700;
-  font-size: 20px;
-  text-decoration: none;
-  letter-spacing: .2px;
+  display: block; padding: 10px 10px 12px;
+  color: var(--gold); font-weight: 700; font-size: 20px; text-decoration: none; letter-spacing: .2px;
 }
 .badge-pending {
-  display: inline-block;
-  margin: 4px 0 12px 0;
-  padding: 2px 8px;
-  font-size: 12px;
-  color: var(--gold-light);
-  border: 1px solid var(--card-border-hover);
-  border-radius: 999px;
-  opacity: .9;
+  display: inline-block; margin: 4px 0 12px 0; padding: 2px 8px; font-size: 12px;
+  color: var(--gold-light); border: 1px solid var(--card-border-hover); border-radius: 999px; opacity: .9;
 }
 
-/* ============================
-   Tableaux & grilles d'infos
-   ============================ */
+/* -------------------------------------------------
+   Grilles infos / règles (si présentes)
+   ------------------------------------------------- */
 .info-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 26px;
-  justify-items: center;
-  margin: 26px auto 12px;
-  max-width: 700px;
+  gap: 26px; justify-items: center;
+  margin: 26px auto 12px; max-width: 700px;
 }
 .rules-table { width:100%; border-collapse:separate; border-spacing:16px 14px; }
 .rules-cell {
@@ -144,9 +134,7 @@ img { max-width: 100%; height: auto; }
   background: var(--card-bg);
   box-shadow: var(--shadow);
   padding:18px 12px;
-  text-align:center;
-  vertical-align:middle;
-  height:110px;
+  text-align:center; vertical-align:middle; height:110px;
 }
 .rules-link { text-decoration:none; display:block; }
 .rules-title { color: var(--gold-light); font-weight:700; font-size:20px; line-height:1.25; margin:0; }
@@ -156,120 +144,7 @@ img { max-width: 100%; height: auto; }
   .rules-cell { margin-bottom:12px; height:auto; }
 }
 
-/* ============================
-   Grille des rôles
-   ============================ */
-.role-grid {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 24px;
-  margin: 30px 0;
-}
-.role-grid a {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-decoration: none;
-  color: inherit;
-  width: 140px;
-  transition: transform .2s ease, filter .2s ease;
-}
-.role-grid a:hover { transform: scale(1.06); filter: brightness(1.12); }
-.role-grid img {
-  width: 120px;
-  height: auto;
-  border-radius: 10px;
-  border: 2px solid transparent;
-  transition: border-color .2s ease;
-}
-.role-grid span {
-  margin-top: 8px;
-  text-align: center;
-  font-weight: bold;
-  font-size: 1.05rem;
-  color: var(--text-dark);
-}
-body.light-mode .role-grid span { color: var(--text-light); }
-
-/* Couleurs par catégories */
-.role-grid a.villageois:hover img,
-.role-grid a.etranger:hover img {
-  border-color: var(--blue-good);
-}
-.role-grid a.sbire:hover img,
-.role-grid a.demon:hover img {
-  border-color: var(--red-evil);
-}
-.role-grid a.voyageur:hover img {
-  border-color: var(--purple-trav);
-}
-.role-grid a.fabled:hover img {
-  border-color: var(--gold-fabled);
-}
-.role-grid a.loric:hover img {
-  border-color: var(--green-loric);
-}
-
-/* ============================
-   Accents & Liens
-   ============================ */
-.marron { color: #b58b52; }
-.cuivre { color: var(--gold-light); }
-.phrase-ambiance {
-  color: var(--gold);
-  font-size: 18px;
-  font-style: italic;
-  text-align: center;
-  margin: .5rem 0;
-}
-
-/* Liens globaux */
-a { color: var(--link); text-decoration:none; }
-a:hover { color: var(--link-hover); }
-
-/* Titres dorés */
-h1, h2 {
-  text-shadow: 0 0 0 transparent, 2px 2px 6px rgba(0,0,0,.25);
-}
-
-/* ============================
-   Harmonisation des couleurs inline
-   (corrige tout sans toucher aux fichiers)
-   ============================ */
-
-/* BLEU doux (Villageois & Étrangers) */
-a[style*="color:blue"],
-span[style*="color:blue"],
-strong[style*="color:blue"],
-em[style*="color:blue"] {
-  color: #6fa8ff !important;
-}
-
-/* ROUGE adouci (Sbires & Démons) */
-a[style*="color:red"],
-span[style*="color:red"],
-strong[style*="color:red"],
-em[style*="color:red"] {
-  color: #c45959 !important;
-}
-
-/* VIOLET (Voyageurs) */
-a[style*="color:purple"],
-span[style*="color:purple"],
-strong[style*="color:purple"],
-em[style*="color:purple"] {
-  color: #9b59b6 !important;
-}
-
-/* DORÉ (Légendaires & accents) */
-a[style*="color:#b58b52"],
-span[style*="color:#b58b52"],
-strong[style*="color:#b58b52"],
-em[style*="color:#b58b52"],
-a[style*="color:#d4a76a"],
-span[style*="color:#d4a76a"],
-strong[style*="color:#d4a76a"],
-em[style*="color:#d4a76a"] {
-  color: #c8a35d !important;
-}
+/* -------------------------------------------------
+   Grille des rôles (si utilisée)
+   ------------------------------------------------- */
+.role-grid span { color: var(--text-dark); }
