@@ -10,7 +10,47 @@ title: Lavandière
   </a>
 </p>
 
+<!-- Styles locaux : ne colorent PAS tous les liens en or -->
+<style>
+  :root{
+    --gold:#c7a864;
+    --gold-hover:#e1c278;
+    --blue-good:#6fa8ff;   /* BLEU doux - Villageois & Étrangers */
+    --red-evil:#c45959;    /* ROUGE doux - Sbires & Démons */
+    --text-main:#d8d6ce;
+    --text-sub:#bdb7a9;
+    --card-bg:rgba(255,255,255,0.03);
+    --card-bd:rgba(199,168,100,0.30);
+  }
+  h1,h2,h3{color:var(--gold);text-shadow:2px 2px 6px rgba(0,0,0,.25);}
+  p,li{color:var(--text-main);line-height:1.65;}
+  /* NE PAS teinter tous les liens : on laisse la couleur héritée
+     et on utilise des classes pour les rôles */
+  a{text-decoration:none}
+  a:hover{text-decoration:underline}
 
+  /* Couleurs de rôles (applique aux <span> OU aux <a> quand tu leur donnes la classe) */
+  .role-good, a.role-good{color:var(--blue-good)!important;font-weight:700;}
+  .role-evil, a.role-evil{color:var(--red-evil)!important;font-weight:700;}
+
+  .soft-card{
+    border:1px solid var(--card-bd);
+    background:var(--card-bg);
+    border-radius:12px;
+    padding:14px 16px;margin:12px 0;
+    box-shadow:0 0 12px rgba(0,0,0,.3);
+  }
+  .center{ text-align:center; }
+  .note{ color:var(--text-sub); font-size:0.95rem; }
+  img.token{
+    display:block;margin:10px auto;max-width:220px;height:auto;
+    background:rgba(0,0,0,.15);border-radius:8px;box-shadow:0 0 10px rgba(0,0,0,.3);
+  }
+  .role-title{
+    display:block;text-align:center;margin-top:8px;
+    font-weight:800;font-size:22px;color:var(--blue-good);
+  }
+</style>
 
 
 
