@@ -54,7 +54,7 @@ title: Lavandière
 
 
 
-# 🧺 <span style="color:blue">Lavandière</span>  
+# 🧺 <span style="color:blue">Lavandière</span>
 
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
