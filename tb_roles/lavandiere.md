@@ -11,60 +11,79 @@ title: Lavandière
 </p>
 
 
-<!-- TEST COULEURS DOUCES — LAVANDIÈRE SEULEMENT -->
+<!-- TEST FINAL COULEURS LISIBLES — LAVANDIÈRE -->
 <style>
-/* Palette douce, non flashy (n'affecte QUE cette page) */
 :root {
-  --soft-gold: #caa866;     /* titres / accents dorés */
-  --soft-gold-2: #e0c083;   /* hover doré */
-  --good-blue:  #78afff;    /* Villageois & Étrangers (bleu lisible) */
-  --evil-red:   #d86969;    /* Sbires & Démons (rouge adouci) */
-  --text-main:  #e9e9e9;    /* texte principal */
-  --text-sub:   #cfc7b2;    /* texte secondaire */
+  --gold: #c7a864;             /* Doré des titres et accents */
+  --gold-hover: #e1c278;
+  --blue-good: #6fa8ff;        /* Bleu doux pour les bons rôles */
+  --red-evil: #c45959;         /* Rouge profond pour maléfiques */
+  --text-main: #d8d6ce;        /* Gris clair lisible */
+  --text-sub: #bdb7a9;
+  --bg-overlay: rgba(255,255,255,0.03);
 }
 
-/* Titre de page + sous-titres : doré doux */
+/* Titres dorés */
 h1, h2, h3 {
-  color: var(--soft-gold) !important;
-  text-shadow: 0 0 0 transparent, 2px 2px 6px rgba(0,0,0,.25);
+  color: var(--gold) !important;
+  text-shadow: 2px 2px 6px rgba(0,0,0,0.25);
 }
 
-/* Texte principal + paragraphes */
-p, li { color: var(--text-main); }
-
-/* Liens : doré doux, sans agressivité */
-a { color: var(--soft-gold); text-decoration: none; }
-a:hover { color: var(--soft-gold-2); text-decoration: underline; }
-
-/* Pastilles de rôle : bleu pour “bons”, rouge pour “maléfiques” */
-.role-good   { color: var(--good-blue); font-weight: 700; }
-.role-evil   { color: var(--evil-red);  font-weight: 700; }
-
-/* Petites étiquettes discrètes */
-.badge {
-  display: inline-block;
-  padding: 2px 8px;
-  font-size: 12px;
-  border: 1px solid rgba(202,168,102,0.5);
-  border-radius: 999px;
-  color: var(--soft-gold);
-  margin-left: 6px;
-  vertical-align: middle;
-  opacity: .9;
+/* Texte principal */
+p, li {
+  color: var(--text-main);
+  line-height: 1.6;
 }
 
-/* Encadré info doux (si tu veux entourer un résumé) */
+/* Liens dorés */
+a {
+  color: var(--gold);
+  text-decoration: none;
+}
+a:hover {
+  color: var(--gold-hover);
+  text-decoration: underline;
+}
+
+/* Couleurs de rôles */
+.role-good, .villageois, .etranger {
+  color: var(--blue-good) !important;
+  font-weight: 700;
+}
+.role-evil, .sbire, .demon {
+  color: var(--red-evil) !important;
+  font-weight: 700;
+}
+
+/* Encadrés doux */
 .soft-card {
-  border: 1px solid rgba(202,168,102,0.28);
-  background: rgba(255,255,255,0.02);
-  box-shadow: 0 6px 18px rgba(0,0,0,0.28);
+  border: 1px solid rgba(199,168,100,0.3);
+  background: var(--bg-overlay);
+  box-shadow: 0 0 12px rgba(0,0,0,0.3);
   border-radius: 12px;
   padding: 14px 16px;
   margin: 12px 0;
 }
 
-/* Images : garder net mais sans flash */
-img { background: rgba(0,0,0,0.18); border-radius: 8px; }
+/* Petits badges */
+.badge {
+  display: inline-block;
+  padding: 2px 8px;
+  font-size: 12px;
+  border: 1px solid rgba(199,168,100,0.5);
+  border-radius: 999px;
+  color: var(--gold);
+  margin-left: 6px;
+  vertical-align: middle;
+  opacity: .9;
+}
+
+/* Images */
+img {
+  background: rgba(0,0,0,0.15);
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
 </style>
 
 
