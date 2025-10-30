@@ -1,73 +1,108 @@
 /* ============================
-   Correctifs lisibilité + remap couleurs
-   (agit même sur les inline style="color:...")
+   SOFT LAYER — v17 (sitewide)
    ============================ */
 
-/* Fond un peu moins sombre + texte moins blanc */
-body {
-  background: #181818 !important;
-  color: #e8e8e8 !important;
+/* ✅ Petit marqueur pour vérifier que ce fichier est bien chargé */
+html::after{
+  content:"SOFT v17";
+  position:fixed; bottom:6px; right:8px;
+  font: 10px/1 Arial, sans-serif;
+  color:#8a8a8a; opacity:.65; pointer-events:none;
+  z-index:99999;
 }
 
-/* Bannière plus discrète (garde ton image) */
-body::before {
-  content: "";
-  position: fixed;
-  inset: 0;
-  background: url("/botc-fr-bambi/images/banner.png") no-repeat center / cover;
-  opacity: 0.12;      /* léger voile, lisible sans éblouir */
-  z-index: -1;
+/* ---------- Palette adoucie ---------- */
+:root{
+  --bg-dark: #181818;         /* fond un poil plus doux que #121212 */
+  --text-soft: #e6e6e6;       /* texte moins blanc éblouissant */
+  --blue-soft: #4ea3ff;       /* BLEU doux (villageois + étrangers) */
+  --red-soft:  #d45b5b;       /* ROUGE doux (sbires + démons) */
 }
 
-/* Titres légèrement adoucis */
-h1, h2, h3 {
-  color: #f0f0f0 !important;
-  text-shadow: 0 0 0 transparent, 2px 2px 6px rgba(0,0,0,.25);
+/* Fond & texte par défaut */
+body{
+  background: var(--bg-dark) !important;
+  color: var(--text-soft) !important;
 }
 
-/* Liens par défaut (doré doux) */
-a { color: #d4a76a; }
-a:hover { color: #e2c080; }
-
-/* =========================================
-   REMAP GLOBAL DES COULEURS “INLINE”
-   (prend le dessus sur style="color:...") 
-   ========================================= */
-
-/* BLEU (Villageois, Étrangers) */
-a[style*="color:blue"], span[style*="color:blue"] { color: #4ea3ff !important; }
-a[style*="color:#0000ff"], span[style*="color:#0000ff"] { color: #4ea3ff !important; }
-
-/* ROUGE adouci (Sbires, Démons) */
-a[style*="color:red"], span[style*="color:red"] { color: #d45b5b !important; }
-a[style*="color:#ff0000"], span[style*="color:#ff0000"] { color: #d45b5b !important; }
-
-/* VIOLET Voyageurs */
-a[style*="color:purple"], span[style*="color:purple"] { color: #9b59b6 !important; }
-
-/* DORÉ Légendaires */
-a[style*="color:#b58b52"], span[style*="color:#b58b52"] { color: #b58b52 !important; }
-a[style*="color:#d4a76a"], span[style*="color:#d4a76a"] { color: #d4a76a !important; }
-
-/* VERT (Loric – futur) */
-a[style*="color:green"], span[style*="color:green"] { color: #4caf50 !important; }
-
-/* =========================================
-   COULEURS DES 3 ÉDITIONS (si texte inline)
-   ========================================= */
-span[style*="Trouble Brewing"], a[href*="trouble_brewing"] span { color: #b58b52 !important; }
-span[style*="Bad Moon Rising"], a[href*="bmr"] span { color: #ffa64d !important; }
-span[style*="Sects"], a[href*="sv"] span { color: #d67bff !important; }
-
-/* =========================================
-   TONS BLANCS UN PEU MOINS DURS PARTOUT
-   ========================================= */
-p, li, td, th { color: #e6e6e6 !important; }
-
-/* Si un bloc force du blanc pur */
-[class*="home-title"], .rules-title, .rules-sub {
-  color: inherit; /* Laisse la palette ci-dessus faire le job */
+/* Bannière de fond — voile plus léger (garde ton image) */
+body::before{
+  opacity: .14 !important; /* tu peux ajuster entre .10 et .18 */
 }
 
-/* Images inchangées */
-img { max-width: 100%; height: auto; }
+/* ---------- Forcer l’adoucissement des couleurs inline ---------- */
+/* Beaucoup de pages utilisent <span style="color:blue"> etc.
+   On les écrase gentiment sans toucher aux modules TB/BMR/SV. */
+
+a[style*="color:blue" i],
+span[style*="color:blue" i],
+strong[style*="color:blue" i],
+em[style*="color:blue" i]{
+  color: var(--blue-soft) !important;
+}
+
+a[style*="color:red" i],
+span[style*="color:red" i],
+strong[style*="color:red" i],
+em[style*="color:red" i]{
+  color: var(--red-soft) !important;
+}
+
+/* Le “blanc pur” inline devient un blanc doux */
+[style*="color:white" i],
+[style*="color:#fff" i],
+[style*="color:#ffffff" i]{
+  color: var(--text-soft) !important;
+}
+
+/* ---------- NE PAS TOUCHER aux couleurs des 3 modules ---------- */
+/* TB doré #b58b52, BMR orange #ffa64d, SV violet #d67bff */
+a[style*="color:#b58b52" i],
+span[style*="color:#b58b52" i],
+a[style*="color:#ffa64d" i],
+span[style*="color:#ffa64d" i],
+a[style*="color:#d67bff" i],
+span[style*="color:#d67bff" i]{
+  /* rien : on respecte ces couleurs spéciales */
+}
+
+/* ---------- Lisibilité globale ---------- */
+/* Liens par défaut un peu moins flashy si non stylés inline */
+a{
+  color: #d4a76a;
+}
+a:hover{
+  color: #e2c080;
+}
+
+/* Titres moins “blanc pur” si non stylés inline */
+h1, h2, h3, h4{
+  color: var(--text-soft);
+  text-shadow: 0 0 0 transparent, 2px 2px 6px rgba(0,0,0,.22);
+}
+
+/* Tables du “Livre des règles” (si présentes) */
+.rules-cell{
+  border:1px solid rgba(181,139,82,0.28) !important;
+  background: rgba(255,255,255,0.02) !important;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.28) !important;
+}
+.rules-title{ color:#e2c080 !important; }
+.rules-sub{ color:#ccb892 !important; }
+
+/* Cartes d’accueil (si présentes) */
+.home-card{
+  border:1px solid rgba(181,139,82,0.28) !important;
+  background: rgba(255,255,255,0.02) !important;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.28) !important;
+}
+.home-card:hover{
+  border-color: rgba(212,167,106,0.55) !important;
+  background: rgba(255,255,255,0.04) !important;
+}
+
+/* Grille de rôles : on laisse tes couleurs de bordures au survol,
+   mais on adoucit la couleur du texte */
+.role-grid span{
+  color: var(--text-soft) !important;
+}
