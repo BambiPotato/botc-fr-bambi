@@ -1,150 +1,73 @@
 /* ============================
-   SOFT THEME – lisibilité + couleurs adoucies
-   S’applique même si tes pages ont des style="color:..."
+   Correctifs lisibilité + remap couleurs
+   (agit même sur les inline style="color:...")
    ============================ */
 
-/* Palette */
-:root {
-  --bg-dark: #181818;
-  --text-dark: #eaeaea;
-  --bg-light: #ffffff;
-  --text-light: #101010;
-
-  --gold: #c8a35d;
-  --gold-light: #e2c080;
-
-  --blue-good: #4ea3ff;   /* Gentils (Villageois & Étrangers), BLEU adouci */
-  --red-evil:  #d45b5b;   /* Maléfiques (Sbires & Démons), ROUGE adouci */
-  --violet-trav: #9b59b6; /* Voyageurs */
-  --gold-fabled: #d4a76a; /* Légendaires */
-
-  --card-bg: rgba(255,255,255,0.02);
-  --card-bg-hover: rgba(255,255,255,0.04);
-  --card-border: rgba(181,139,82,0.28);
-  --card-border-hover: rgba(212,167,106,0.55);
-  --shadow: 0 6px 18px rgba(0,0,0,0.28);
-  --shadow-hover: 0 10px 24px rgba(0,0,0,0.38);
-
-  --link: #d4a76a;
-  --link-hover: #e2c080;
-}
-
-/* Base sombre adoucie */
+/* Fond un peu moins sombre + texte moins blanc */
 body {
-  background: var(--bg-dark);
-  color: var(--text-dark);
-  transition: background .25s, color .25s;
-  line-height: 1.65;
+  background: #181818 !important;
+  color: #e8e8e8 !important;
 }
 
-/* Bannière de fond – voile plus léger (améliore la lisibilité) */
+/* Bannière plus discrète (garde ton image) */
 body::before {
   content: "";
-  position: fixed; inset: 0;
+  position: fixed;
+  inset: 0;
   background: url("/botc-fr-bambi/images/banner.png") no-repeat center / cover;
-  opacity: 0.12; /* plus léger qu’avant */
+  opacity: 0.12;      /* léger voile, lisible sans éblouir */
   z-index: -1;
 }
 
-/* Liens généraux */
-a { color: var(--link); }
-a:hover { color: var(--link-hover); }
-
-/* Titres (léger relief) */
-h1, h2 { text-shadow: 2px 2px 6px rgba(0,0,0,.25); }
-
-/* -------------------------------------------------
-   OVERRIDE des couleurs "inline" pour les rendre douces
-   (fonctionne même si tu as <span style="color:blue"> etc.)
-   ------------------------------------------------- */
-
-/* Tous les bleu “inline” → bleu doux */
-[style*="color:blue"],
-[style*="color:#00f"],
-[style*="color:#0000ff"],
-[style*="color: rgb(0, 0, 255)"] {
-  color: var(--blue-good) !important;
+/* Titres légèrement adoucis */
+h1, h2, h3 {
+  color: #f0f0f0 !important;
+  text-shadow: 0 0 0 transparent, 2px 2px 6px rgba(0,0,0,.25);
 }
 
-/* Tous les rouge “inline” → rouge doux */
-[style*="color:red"],
-[style*="color:#f00"],
-[style*="color:#ff0000"],
-[style*="color: rgb(255, 0, 0)"] {
-  color: var(--red-evil) !important;
+/* Liens par défaut (doré doux) */
+a { color: #d4a76a; }
+a:hover { color: #e2c080; }
+
+/* =========================================
+   REMAP GLOBAL DES COULEURS “INLINE”
+   (prend le dessus sur style="color:...") 
+   ========================================= */
+
+/* BLEU (Villageois, Étrangers) */
+a[style*="color:blue"], span[style*="color:blue"] { color: #4ea3ff !important; }
+a[style*="color:#0000ff"], span[style*="color:#0000ff"] { color: #4ea3ff !important; }
+
+/* ROUGE adouci (Sbires, Démons) */
+a[style*="color:red"], span[style*="color:red"] { color: #d45b5b !important; }
+a[style*="color:#ff0000"], span[style*="color:#ff0000"] { color: #d45b5b !important; }
+
+/* VIOLET Voyageurs */
+a[style*="color:purple"], span[style*="color:purple"] { color: #9b59b6 !important; }
+
+/* DORÉ Légendaires */
+a[style*="color:#b58b52"], span[style*="color:#b58b52"] { color: #b58b52 !important; }
+a[style*="color:#d4a76a"], span[style*="color:#d4a76a"] { color: #d4a76a !important; }
+
+/* VERT (Loric – futur) */
+a[style*="color:green"], span[style*="color:green"] { color: #4caf50 !important; }
+
+/* =========================================
+   COULEURS DES 3 ÉDITIONS (si texte inline)
+   ========================================= */
+span[style*="Trouble Brewing"], a[href*="trouble_brewing"] span { color: #b58b52 !important; }
+span[style*="Bad Moon Rising"], a[href*="bmr"] span { color: #ffa64d !important; }
+span[style*="Sects"], a[href*="sv"] span { color: #d67bff !important; }
+
+/* =========================================
+   TONS BLANCS UN PEU MOINS DURS PARTOUT
+   ========================================= */
+p, li, td, th { color: #e6e6e6 !important; }
+
+/* Si un bloc force du blanc pur */
+[class*="home-title"], .rules-title, .rules-sub {
+  color: inherit; /* Laisse la palette ci-dessus faire le job */
 }
 
-/* Doré (légendaires) – on garde ta teinte */
-[style*="color:#b58b52"],
-[style*="color:#d4a76a"] {
-  color: var(--gold) !important;
-}
-
-/* Violet voyageurs (si présent) */
-[style*="color:purple"] {
-  color: var(--violet-trav) !important;
-}
-
-/* -------------------------------------------------
-   Cartes accueil (si présentes)
-   ------------------------------------------------- */
-.home-card {
-  display: inline-block; text-decoration: none;
-  border-radius: 14px; overflow: hidden;
-  border: 1px solid var(--card-border);
-  background: var(--card-bg);
-  box-shadow: var(--shadow);
-  transition: transform .18s ease, box-shadow .18s ease,
-              border-color .18s ease, background .18s ease;
-  width: 100%; max-width: 290px; text-align: center;
-}
-.home-card:hover {
-  transform: translateY(-4px);
-  box-shadow: var(--shadow-hover);
-  border-color: var(--card-border-hover);
-  background: var(--card-bg-hover);
-}
-.home-card img {
-  display: block; width: 100%; height: auto;
-  aspect-ratio: 4 / 3; object-fit: contain;
-  background: rgba(0,0,0,0.25);
-}
-.home-card .home-title {
-  display: block; padding: 10px 10px 12px;
-  color: var(--gold); font-weight: 700; font-size: 20px; text-decoration: none; letter-spacing: .2px;
-}
-.badge-pending {
-  display: inline-block; margin: 4px 0 12px 0; padding: 2px 8px; font-size: 12px;
-  color: var(--gold-light); border: 1px solid var(--card-border-hover); border-radius: 999px; opacity: .9;
-}
-
-/* -------------------------------------------------
-   Grilles infos / règles (si présentes)
-   ------------------------------------------------- */
-.info-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 26px; justify-items: center;
-  margin: 26px auto 12px; max-width: 700px;
-}
-.rules-table { width:100%; border-collapse:separate; border-spacing:16px 14px; }
-.rules-cell {
-  border:1px solid var(--card-border);
-  border-radius:14px;
-  background: var(--card-bg);
-  box-shadow: var(--shadow);
-  padding:18px 12px;
-  text-align:center; vertical-align:middle; height:110px;
-}
-.rules-link { text-decoration:none; display:block; }
-.rules-title { color: var(--gold-light); font-weight:700; font-size:20px; line-height:1.25; margin:0; }
-.rules-sub   { color:#c9b08a; font-size:14px; opacity:.92; margin-top:6px; }
-@media (max-width: 720px) {
-  .rules-table, .rules-table tbody, .rules-table tr, .rules-table td { display:block; width:100%; }
-  .rules-cell { margin-bottom:12px; height:auto; }
-}
-
-/* -------------------------------------------------
-   Grille des rôles (si utilisée)
-   ------------------------------------------------- */
-.role-grid span { color: var(--text-dark); }
+/* Images inchangées */
+img { max-width: 100%; height: auto; }
