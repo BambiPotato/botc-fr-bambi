@@ -4,6 +4,36 @@
   </a>
 </p>
 
+<!-- ===== TEST OVERRIDE (à retirer après validation) ===== -->
+<style>
+  /* Déclare/override des variables plus douces */
+  :root{
+    --bg-dark:#1a1a1a; --text-dark:#f0f0f0;
+    --red-evil:#d45b5b; --blue-good:#4ea3ff;
+  }
+  /* Adoucit immédiatement la bannière en arrière-plan */
+  body::before{
+    opacity:0.15 !important; /* ↓↓↓ si vous voyez encore trop la bannière */
+  }
+  /* Adoucit tous les rouges agressifs restants */
+  a[style*="color:red"], span[style*="color:red"], .rouge,
+  .home-card .home-title[style*="red"],
+  .role-grid a.sbire:hover img, .role-grid a.demon:hover img {
+    color:var(--red-evil) !important;
+    border-color:var(--red-evil) !important;
+  }
+  /* Force un doré plus mat pour les titres dorés */
+  .home-title, .marron { color:#c8a35d !important; }
+
+  /* Badge visible pour confirmer que ce STYLE est bien chargé */
+  #soft-style-badge{
+    position:fixed; right:10px; bottom:10px; z-index:99999;
+    background:#d4a76a; color:#000; font:12px/1.4 system-ui,Arial,sans-serif;
+    padding:6px 8px; border-radius:6px; box-shadow:0 2px 8px rgba(0,0,0,.35);
+  }
+</style>
+<div id="soft-style-badge">Style README (inline) chargé ✅</div>
+<!-- ===== /TEST OVERRIDE ===== -->
 
    
  <!-- 🏠 PAGE D’ACCUEIL - WIKI BOTC FR -->
