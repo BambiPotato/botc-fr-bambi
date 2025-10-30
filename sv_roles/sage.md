@@ -82,7 +82,7 @@ Une exécution ou un effet d’un autre rôle ne compte pas.
 - Le Démon tue le Sage la deuxième nuit.  
   Le Conteur montre **deux joueur·euses**, dont **l’un·e est réellement le Démon**.  
 
-- Dernière nuit : le Sage est tué, mais il est **ivre** à cause du [Chéri](cheri.md).  
+- Dernière nuit : le Sage est tué, mais il est **ivre** à cause de la [Dulcinée](dulcinee.md).  
   Le Conteur lui montre alors **une mauvaise combinaison** (un mort et un vivant).  
 
 - La [<span style="color:red">Pit-Hag</span>](pithag.md) crée un nouveau <span style="color:red">Démon</span>,  
