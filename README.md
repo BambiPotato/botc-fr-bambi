@@ -4,45 +4,44 @@
   </a>
 </p>
 
-<!-- PATCH LISIBILITÉ + BANNIÈRE ÉCLAIRCIE (version légèrement assombrie) -->
+<!-- PATCH LISIBILITÉ + BANNIÈRE ÉCLAIRCIE (version adoucie) -->
 <style>
-  /* 1) BANNIÈRE : même image, voile clair un peu réduit */
+  /* 1) BANNIÈRE : même image, mais voile clair un peu plus subtil */
   body::before {
     background: linear-gradient(rgba(255,255,255,0.15), rgba(255,255,255,0.15)),
                 url("/botc-fr-bambi/images/banner.png") no-repeat center / cover !important;
     opacity: 1 !important;
   }
 
-  /* 2) Texte : couleur douce et contrastée */
-  body { color: #f4f2ec !important; }
+  /* 2) Texte équilibré */
+  body { color: #f5f3eb !important; }
 
-  /* 3) Titres dorés lisibles */
+  /* 3) Titres : doré lisible, pas flashy */
   h1, h2, h3 {
-    color: #d2b36a !important;
-    text-shadow: 1px 1px 4px rgba(0,0,0,0.35) !important;
+    color: #d1aa5e !important;
+    text-shadow: 1px 1px 4px rgba(0,0,0,0.25) !important;
   }
 
-  /* 4) Liens */
-  a { color: #dbbf78 !important; }
-  a:hover { color: #f1dca4 !important; }
+  /* 4) Liens : doré plus doux */
+  a { color: #d8bb75 !important; }
+  a:hover { color: #f2d68f !important; }
 
-  /* 5) Couleurs inline adoucies */
-  [style*="color:red"]  { color: #e07a7a !important; }
-  [style*="color:blue"] { color: #6caefc !important; }
+  /* 5) Couleurs inline équilibrées */
+  [style*="color:red"]  { color: #d86d6d !important; }
+  [style*="color:blue"] { color: #6ea9ff !important; }
 
-  /* 6) Cartes / blocs */
+  /* 6) Cartes et blocs : fond et bordures plus subtiles */
   .home-card, .rules-cell {
     background: rgba(255,255,255,0.05) !important;
-    border: 1px solid rgba(198,162,93,0.25) !important;
+    border: 1px solid rgba(198,162,93,0.22) !important;
     box-shadow: 0 4px 10px rgba(0,0,0,0.22) !important;
   }
   .home-card:hover, .rules-cell:hover {
     background: rgba(255,255,255,0.08) !important;
-    border-color: rgba(198,162,93,0.45) !important;
+    border-color: rgba(198,162,93,0.4) !important;
     box-shadow: 0 8px 18px rgba(0,0,0,0.3) !important;
   }
 </style>
-   
  <!-- 🏠 PAGE D’ACCUEIL - WIKI BOTC FR -->
 
 <div style="text-align:center; margin-top:40px;">
