@@ -4,40 +4,40 @@
   </a>
 </p>
 
-<!-- PATCH LISIBILITÉ + BANNIÈRE ÉCLAIRCIE -->
+<!-- PATCH LISIBILITÉ + BANNIÈRE ÉCLAIRCIE (version légèrement assombrie) -->
 <style>
-  /* 1) BANNIÈRE : même image, mais éclaircie au lieu d’assombrie */
+  /* 1) BANNIÈRE : même image, voile clair un peu réduit */
   body::before {
-    background: linear-gradient(rgba(255,255,255,0.25), rgba(255,255,255,0.25)),
+    background: linear-gradient(rgba(255,255,255,0.15), rgba(255,255,255,0.15)),
                 url("/botc-fr-bambi/images/banner.png") no-repeat center / cover !important;
-    opacity: 1 !important; /* on garde toute sa luminosité */
+    opacity: 1 !important;
   }
 
-  /* 2) Texte plus contrasté (plus sombre sur fond éclairci) */
-  body { color: #f7f5ef !important; }
+  /* 2) Texte : couleur douce et contrastée */
+  body { color: #f4f2ec !important; }
 
-  /* 3) Titres : doré plus chaud et lisible */
+  /* 3) Titres dorés lisibles */
   h1, h2, h3 {
-    color: #d4b066 !important;
-    text-shadow: 1px 1px 4px rgba(0,0,0,0.25) !important;
+    color: #d2b36a !important;
+    text-shadow: 1px 1px 4px rgba(0,0,0,0.35) !important;
   }
 
-  /* 4) Liens : doré clair */
-  a { color: #e0c47a !important; }
-  a:hover { color: #f5dca2 !important; }
+  /* 4) Liens */
+  a { color: #dbbf78 !important; }
+  a:hover { color: #f1dca4 !important; }
 
   /* 5) Couleurs inline adoucies */
-  [style*="color:red"]  { color: #e27b7b !important; }
-  [style*="color:blue"] { color: #79b8ff !important; }
+  [style*="color:red"]  { color: #e07a7a !important; }
+  [style*="color:blue"] { color: #6caefc !important; }
 
-  /* 6) Cartes et blocs */
+  /* 6) Cartes / blocs */
   .home-card, .rules-cell {
-    background: rgba(255,255,255,0.06) !important;
+    background: rgba(255,255,255,0.05) !important;
     border: 1px solid rgba(198,162,93,0.25) !important;
     box-shadow: 0 4px 10px rgba(0,0,0,0.22) !important;
   }
   .home-card:hover, .rules-cell:hover {
-    background: rgba(255,255,255,0.1) !important;
+    background: rgba(255,255,255,0.08) !important;
     border-color: rgba(198,162,93,0.45) !important;
     box-shadow: 0 8px 18px rgba(0,0,0,0.3) !important;
   }
