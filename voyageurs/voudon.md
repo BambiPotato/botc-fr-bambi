@@ -17,7 +17,7 @@ title: Voudon
 ---
 
 ## ℹ️ Informations  
-- **Type :** [Voyageur](../voyageurs.md)  
+- **Type :** <span style="color:#9b59b6; font-weight:bold;">Voyageur</span>  
 - **Artiste :** Aidan Roberts  
 - *« Bien venu. Asseyez-vous. Respirez profondément. Entrez dans le royaume des morts. Voyez avec leurs yeux. Parlez avec leur voix. Une seule langue n’est jamais suffisante. »*
 
