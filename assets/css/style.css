@@ -1,210 +1,52 @@
 /* =========================================================
-   style.css — Version stable et lisible (corrigée)
+   🧩 Liens / Titres / Tables — version bleue par défaut
    ========================================================= */
 
-/* 🌙 Mode sombre par défaut */
-body {
-  background: #181818; /* légèrement plus clair */
-  color: #e6e6e6;
-  font-family: Arial, sans-serif;
-  line-height: 1.6;
-  margin: 0;
-  position: relative;
-  z-index: 0;
-  transition: background 0.3s, color 0.3s;
+/* 🔹 Liens neutres = BLEU doux par défaut */
+a {
+  color: #4ea3ff; /* bleu doux lisible sur fond sombre */
+  text-decoration: underline;
+  transition: color 0.2s ease;
 }
 
-/* === Bannière de fond visible et douce === */
-body::before {
-  content: "";
-  position: fixed;
-  top: 0; left: 0; right: 0; bottom: 0;
-  background: url("/botc-fr-bambi/images/banner.png") no-repeat center center/cover;
-  opacity: 0.14; /* léger voile, lisible */
-  z-index: -1;
+/* 🔹 Survol = bleu clair (lisible et élégant) */
+a:hover {
+  color: #7dc3ff;
 }
 
-/* ☀️ Mode clair (si activé plus tard) */
-body.light-mode {
-  background: #ffffff;
-  color: #101010;
-}
-body.light-mode::before {
-  background: url("/botc-fr-bambi/images/banner.png") no-repeat center center/cover;
-  opacity: 0.08;
-}
-
-/* ======== Logo ======== */
-img[alt="Accueil BotC FR"] {
-  display: inline !important;
-  float: left !important;
-  margin: 0 !important;
-}
-p[align="left"]::after {
-  content: "";
-  display: block;
-  clear: both;
-}
-
-/* ======== Bouton de thème (facultatif) ======== */
-#theme-toggle {
-  position: fixed;
-  top: 12px;
-  right: 12px;
-  padding: 8px 12px;
-  border: none;
-  border-radius: 8px;
-  background: #444;
-  color: #fff;
-  font-size: 14px;
-  cursor: pointer;
-  z-index: 999;
-}
-
-/* ======== Palette officielle ======== */
-:root {
-  --gold-tb: #b58b52;
-  --orange-bmr: #ffa64d;
-  --violet-sv: #d67bff;
-  --blue-good: #4ea3ff;
-  --red-evil: #d45b5b;
-  --text-soft: #e6e6e6;
-}
-
-/* =========================================================
-   🎨 MODULES
-   ========================================================= */
-
-/* Trouble Brewing */
-.page-tb h1, .page-tb h2, .page-tb h3 { color: var(--gold-tb); }
-.page-tb a { color: var(--gold-tb); font-weight: 600; }
-.page-tb a:hover { color: #dcb26b; }
-
-/* Bad Moon Rising */
-.page-bmr h1, .page-bmr h2, .page-bmr h3 { color: var(--orange-bmr); }
-.page-bmr a { color: var(--orange-bmr); font-weight: 600; }
-.page-bmr a:hover { color: #ffc580; }
-
-/* Sects & Violets */
-.page-sv h1, .page-sv h2, .page-sv h3 { color: var(--violet-sv); }
-.page-sv a { color: var(--violet-sv); font-weight: 600; }
-.page-sv a:hover { color: #e1b0ff; }
-
-/* =========================================================
-   🎭 Rôles — Grille
-   ========================================================= */
-
-.role-grid {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 24px;
-  margin: 30px 0;
-}
-
-.role-grid a {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+/* 🔸 Liens explicitement dorés (navigation, footer, etc.) */
+a[style*="color:#d4a76a" i],
+a[style*="color:#e0c99d" i] {
+  color: #d4a76a !important;
   text-decoration: none;
-  color: inherit;
-  width: 140px;
-  transition: transform 0.2s ease, filter 0.2s ease;
+}
+a[style*="color:#d4a76a" i]:hover,
+a[style*="color:#e0c99d" i]:hover {
+  color: #e2c080 !important;
 }
 
-.role-grid a:hover {
-  transform: scale(1.06);
-  filter: brightness(1.08);
-}
-
-.role-grid img {
-  width: 120px;
-  height: auto;
-  border-radius: 10px;
-  border: 2px solid transparent;
-  transition: border-color 0.2s ease;
-}
-
-.role-grid span {
-  margin-top: 8px;
-  text-align: center;
-  font-weight: bold;
-  font-size: 1.05rem;
-  color: var(--text-soft);
-}
-
-/* Bordures par type */
-.role-grid a.villageois:hover img,
-.role-grid a.etranger:hover img { border-color: var(--blue-good); }
-.role-grid a.sbire:hover img,
-.role-grid a.demon:hover img { border-color: var(--red-evil); }
-.role-grid a.voyageur:hover img { border-color: #9b59b6; }
-.role-grid a.fabled:hover img { border-color: var(--gold-tb); }
-.role-grid a.loric:hover img { border-color: #4caf50; }
-
-/* =========================================================
-   🧭 COULEURS INLINE (pour toutes les pages)
-   ========================================================= */
-
-/* BLEU — Villageois & Étrangers */
-a[style*="color:blue" i],
-span[style*="color:blue" i],
-strong[style*="color:blue" i],
-em[style*="color:blue" i],
-[style*="color:#00f" i],
-[style*="color:#0000ff" i] {
-  color: var(--blue-good) !important;
-}
-
-/* ROUGE — Sbires & Démons */
-a[style*="color:red" i],
-span[style*="color:red" i],
-strong[style*="color:red" i],
-em[style*="color:red" i],
-[style*="color:#f00" i],
-[style*="color:#ff0000" i] {
-  color: var(--red-evil) !important;
-}
-
-/* BLANC — légèrement adouci */
-[style*="color:white" i],
-[style*="color:#fff" i],
-[style*="color:#ffffff" i] {
-  color: var(--text-soft) !important;
-}
-
-/* NE PAS TOUCHER : couleurs officielles */
-[style*="color:#b58b52" i] { color: var(--gold-tb) !important; }
-[style*="color:#ffa64d" i] { color: var(--orange-bmr) !important; }
-[style*="color:#d67bff" i] { color: var(--violet-sv) !important; }
-[style*="color:#9b59b6" i] { color: #9b59b6 !important; } /* Voyageurs */
-[style*="color:#d4a76a" i] { color: #d4a76a !important; } /* Légendaires */
-[style*="color:#4caf50" i] { color: #4caf50 !important; } /* Loric */
-
-/* =========================================================
-   🧩 Liens / Titres / Tables
-   ========================================================= */
-a { color: #d4a76a; }
-a:hover { color: #e2c080; }
-
+/* 🔹 Titres = blanc doux avec ombre légère */
 h1, h2, h3, h4 {
   color: var(--text-soft);
   text-shadow: 0 0 0 transparent, 2px 2px 6px rgba(0,0,0,.22);
 }
 
-/* Tables */
+/* 🔸 Tables (doré doux, cohérent avec ton esthétique) */
 .rules-cell {
   border: 1px solid rgba(181,139,82,0.28);
   background: rgba(255,255,255,0.02);
   border-radius: 10px;
   box-shadow: 0 6px 18px rgba(0,0,0,0.28);
 }
-.rules-title { color: #e2c080; font-weight: bold; }
-.rules-sub { color: #ccb892; }
+.rules-title {
+  color: #e2c080;
+  font-weight: bold;
+}
+.rules-sub {
+  color: #ccb892;
+}
 
-/* =========================================================
-   🏠 Cartes d’accueil
-   ========================================================= */
+/* 🔸 Cartes d’accueil (inchangé, harmonisé) */
 .home-card {
   border: 1px solid rgba(181,139,82,0.28);
   background: rgba(255,255,255,0.02);
@@ -218,9 +60,7 @@ h1, h2, h3, h4 {
   background: rgba(255,255,255,0.04);
 }
 
-/* =========================================================
-   📱 Responsive
-   ========================================================= */
+/* 🔸 Responsive (mobile) */
 @media (max-width: 900px) {
   .role-grid a { width: 40%; }
 }
