@@ -11,7 +11,7 @@ title: Bouc Émissaire
 
 <!-- 🐐 Bouc Émissaire -->
 
-<h1 style="color:#b58b52; font-weight:bold; font-size:36px;">🐐 Bouc Émissaire (Scapegoat)</h1>
+<h1 style="color:#b58b52; font-weight:bold; font-size:36px;">🐐 Bouc Émissaire</h1>
 
 <p align="center">
   <img src="/images/Icon_scapegoat.png" alt="Bouc Émissaire" width="200" style="border-radius:12px; margin-top:10px;">
