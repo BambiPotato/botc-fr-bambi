@@ -1,170 +1,158 @@
 /* =========================================================
-   style.css — version lisible & stable (v23)
+   style.css — reset propre et lisible (v25)
    ========================================================= */
 
-/* 🌙 Fond sombre adouci par défaut */
-body{
-  background:#181818;
-  color:#e6e6e6;
-  transition:background .3s, color .3s;
-  font-family:Arial, sans-serif;
-  line-height:1.6;
-  position:relative;
-  z-index:0;
+/* ---------- Base lisible ---------- */
+:root{
+  --bg-dark: #181818;
+  --text-soft: #e6e6e6;
+  --text-strong: #f2f2f2;
+
+  --blue-soft: #4ea3ff;   /* Villageois + Étrangers */
+  --red-soft:  #d45b5b;   /* Sbires + Démons */
+
+  --gold:   #b58b52;      /* TB titres */
+  --orange: #ffa64d;      /* BMR titres */
+  --violet: #d67bff;      /* SV titres */
+
+  --trav:   #9b59b6;      /* Voyageurs */
+  --fabled: #d4a76a;      /* Légendaires */
+  --loric:  #4caf50;      /* Loric */
+
+  --card-bg: rgba(255,255,255,0.03);
+  --card-bg-hover: rgba(255,255,255,0.05);
+  --card-bd: rgba(181,139,82,0.22);
+  --card-bd-hover: rgba(212,167,106,0.44);
+  --shadow: 0 6px 18px rgba(0,0,0,0.22);
 }
 
-/* Image de fond (voile léger pour la lecture) */
+html, body{
+  background: var(--bg-dark);
+  color: var(--text-soft);
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  transition: background .3s, color .3s;
+}
+
+/* ---------- Image de fond (très légère) ---------- */
 body::before{
   content:"";
-  position:fixed;
-  inset:0;
-  background:url("/botc-fr-bambi/images/banner.png") no-repeat center/cover;
-  opacity:.10;
-  z-index:-1;
+  position: fixed;
+  inset: 0;
+  background: url("/botc-fr-bambi/images/banner.png") no-repeat center/cover;
+  opacity: .08 !important;              /* léger, n’écrase pas le texte */
+  z-index: -1;
 }
 
-/* ☀️ Mode clair (si tu réactives le bouton) */
-body.light-mode{ background:#ffffff; color:#101010; }
-body.light-mode::before{ opacity:.08; }
+/* ---------- Mode clair (si jamais réactivé) ---------- */
+body.light-mode{
+  background:#ffffff;
+  color:#101010;
+}
+body.light-mode::before{ opacity:.05 !important; }
 
-/* Images */
-img{ max-width:100%; height:auto; }
-
-/* ---------- Logo à GAUCHE (conservé) ---------- */
+/* ---------- Logo à gauche (restauré) ---------- */
 img[alt="Accueil BotC FR"]{
-  display:inline !important;
   float:left !important;
+  display:inline !important;
   margin:0 !important;
 }
 p[align="left"]::after{ content:""; display:block; clear:both; }
 
-/* Bouton thème (si présent) */
-#theme-toggle{
-  position:fixed; top:12px; right:12px;
-  padding:8px 12px; border:none; border-radius:8px;
-  background:#444; color:#fff; font-size:14px; cursor:pointer; z-index:999;
-}
+/* ---------- Liens par défaut (doré doux) ---------- */
+a{ color:#d4a76a; text-decoration:none; }
+a:hover{ color:#e2c080; }
+
+/* ---------- Titres globaux ---------- */
+h1,h2,h3,h4{ color:var(--text-strong); text-shadow:2px 2px 6px rgba(0,0,0,.25); }
 
 /* =========================================================
-   🎨 Couleurs officielles des modules — TITRES SEULEMENT
-   (on NE colore pas tous les liens pour éviter l’orange partout)
+   Couleurs des ÉDITIONS — uniquement pour les TITRES
    ========================================================= */
-.page-tb   h1,.page-tb   h2,.page-tb   h3{ color:#b58b52 !important; } /* TB doré */
-.page-bmr  h1,.page-bmr  h2,.page-bmr  h3{ color:#ffa64d !important; } /* BMR orange */
-.page-sv   h1,.page-sv   h2,.page-sv   h3{ color:#d67bff !important; } /* SV violet */
+.page-tb  h1, .page-tb  h2, .page-tb  h3{ color: var(--gold)   !important; }  /* Trouble Brewing */
+.page-bmr h1, .page-bmr h2, .page-bmr h3{ color: var(--orange) !important; }  /* Bad Moon Rising */
+.page-sv  h1, .page-sv  h2, .page-sv  h3{ color: var(--violet) !important; }  /* Sects & Violets */
+
+/* On ne colore PAS les liens de ces pages en or/orange/violet automatiquement. */
 
 /* =========================================================
-   🧱 Fonds des blocs — pas de voile noir interne
-   ========================================================= */
-main, .page-content, .wrapper, .post, .post-content, .markdown-body,
-section, article{
-  background:transparent !important;
-  box-shadow:none !important;
-}
-
-/* Cartes / tableaux plus doux */
-.home-card, .rules-cell{
-  border:1px solid rgba(181,139,82,0.22);
-  background:rgba(255,255,255,0.03);
-  box-shadow:0 6px 18px rgba(0,0,0,0.22);
-}
-.home-card:hover{
-  border-color:rgba(212,167,106,0.44);
-  background:rgba(255,255,255,0.05);
-}
-.rules-title{ color:#e2c080; font-weight:700; }
-.rules-sub{ color:#ccb892; opacity:.95; }
-
-/* =========================================================
-   🎭 Grilles de rôles (icônes)
+   Grilles de rôles (icônes)
    ========================================================= */
 .role-grid{
   display:flex; flex-wrap:wrap; justify-content:center; gap:24px; margin:30px 0;
 }
 .role-grid a{
   display:flex; flex-direction:column; align-items:center;
-  text-decoration:none; color:inherit; width:140px;
-  transition:transform .2s ease, filter .2s ease;
+  width:140px; color:inherit; text-decoration:none;
+  transition: transform .2s ease, filter .2s ease;
 }
 .role-grid a:hover{ transform:scale(1.07); filter:brightness(1.12); }
 .role-grid img{
-  width:120px; height:auto; border-radius:10px;
-  border:2px solid transparent; transition:border-color .2s ease;
+  width:120px; height:auto; border-radius:10px; border:2px solid transparent; transition:border-color .2s ease;
 }
 .role-grid span{
-  margin-top:8px; text-align:center; font-weight:bold; font-size:1.05rem; color:#e6e6e6;
+  margin-top:8px; text-align:center; font-weight:bold; font-size:1.05rem; color:var(--text-soft);
 }
-body.light-mode .role-grid span{ color:#101010; }
-
-/* Survol des icônes par catégorie */
+/* Survols par type */
 .role-grid a.villageois:hover img,
-.role-grid a.etranger:hover img{ border-color:#4ea3ff; } /* BLEU doux */
+.role-grid a.etranger:hover img{ border-color: var(--blue-soft); }
 .role-grid a.sbire:hover img,
-.role-grid a.demon:hover img{ border-color:#d45b5b; }   /* ROUGE doux */
-.role-grid a.voyageur:hover img{ border-color:#9b59b6; } /* Voyageurs */
-.role-grid a.legendary:hover img{ border-color:#d4a76a; }/* Légendaires */
-.role-grid a.loric:hover img{ border-color:#4caf50; }    /* Loric */
+.role-grid a.demon:hover img{ border-color: var(--red-soft); }
+.role-grid a.voyageur:hover img{ border-color: var(--trav); }
+.role-grid a.legendary:hover img{ border-color: var(--fabled); }
+.role-grid a.loric:hover img{ border-color: var(--loric); }
 
 /* =========================================================
-   💡 Forçage BLEU/ROUGE pour les rôles cités dans le texte
-   (même sur les pages BMR/TB/SV)
+   Suppression du voile sombre dans les blocs internes
    ========================================================= */
-
-/* BLEU doux pour tout “color:blue” inline */
-a[style*="color:blue" i],
-span[style*="color:blue" i],
-strong[style*="color:blue" i],
-em[style*="color:blue" i],
-[style*="color:#00f" i],
-[style*="color:#0000ff" i]{
-  color:#4ea3ff !important;
+main, .page-content, .wrapper, section, article, .post, .post-content{
+  background: transparent !important;
+  box-shadow: none !important;
 }
 
-/* ROUGE doux pour tout “color:red” inline */
-a[style*="color:red" i],
-span[style*="color:red" i],
-strong[style*="color:red" i],
-em[style*="color:red" i],
-[style*="color:#f00" i],
-[style*="color:#ff0000" i]{
-  color:#d45b5b !important;
+/* Cartes / cellules stylées mais légères */
+.home-card, .rules-cell{
+  border:1px solid var(--card-bd);
+  background: var(--card-bg);
+  box-shadow: var(--shadow);
+}
+.home-card:hover{
+  border-color: var(--card-bd-hover);
+  background: var(--card-bg-hover);
 }
 
-/* BLANC adouci pour blancs purs inline */
-[style*="color:white" i],
-[style*="color:#fff" i],
-[style*="color:#ffffff" i]{
-  color:#e6e6e6 !important;
+/* =========================================================
+   Forçage des couleurs inline (pour corriger le doré partout)
+   ========================================================= */
+/* BLEU doux — Villageois & Étrangers (respecte toutes variantes) */
+a[style*="color:blue" i], span[style*="color:blue" i],
+strong[style*="color:blue" i], em[style*="color:blue" i],
+[style*="color:#00f" i], [style*="color:#0000ff" i]{
+  color: var(--blue-soft) !important;
 }
 
-/* Respect strict des couleurs “officielles” (si explicitement utilisées) */
-[style*="color:#b58b52" i]{ color:#b58b52 !important; } /* TB doré */
-[style*="color:#ffa64d" i]{ color:#ffa64d !important; } /* BMR orange */
-[style*="color:#d67bff" i]{ color:#d67bff !important; } /* SV violet */
+/* ROUGE doux — Sbires & Démons */
+a[style*="color:red" i], span[style*="color:red" i],
+strong[style*="color:red" i], em[style*="color:red" i],
+[style*="color:#f00" i], [style*="color:#ff0000" i]{
+  color: var(--red-soft) !important;
+}
+
+/* Blanc agressif → blanc doux */
+[style*="color:white" i], [style*="color:#fff" i], [style*="color:#ffffff" i]{
+  color: var(--text-soft) !important;
+}
+
+/* Conserver les couleurs “officielles” quand elles sont explicites */
+[style*="color:#b58b52" i]{ color:#b58b52 !important; } /* TB */
+[style*="color:#ffa64d" i]{ color:#ffa64d !important; } /* BMR */
+[style*="color:#d67bff" i]{ color:#d67bff !important; } /* SV */
 [style*="color:#9b59b6" i]{ color:#9b59b6 !important; } /* Voyageurs */
 [style*="color:#d4a76a" i]{ color:#d4a76a !important; } /* Légendaires */
 [style*="color:#4caf50" i]{ color:#4caf50 !important; } /* Loric */
 
-/* Catégories “Villageois / Étrangers” → toujours BLEU, même sur BMR */
-a[href$="villageois.html"],
-a[href$="/villageois.html"],
-a[href*="/villageois.html"]{ color:#4ea3ff !important; }
-
-a[href$="etrangers.html"],
-a[href$="/etrangers.html"],
-a[href*="/etrangers.html"]{ color:#4ea3ff !important; }
-
-/* Si un lien contient un <span style="color:blue">…</span>,
-   on garde le bleu même si le lien lui-même a une autre couleur */
-a span[style*="color:blue" i]{ color:#4ea3ff !important; }
-
-/* =========================================================
-   ✅ Finitions lisibilité
-   ========================================================= */
-h1,h2,h3,h4{
-  text-shadow:0 0 0 transparent, 2px 2px 6px rgba(0,0,0,.22);
+/* Les liens vers les pages catégories Villageois/Étrangers restent BLEUS */
+a[href*="villageois.html"], a[href*="villageois.md"],
+a[href*="etrangers.html"],  a[href*="etrangers.md"]{
+  color: var(--blue-soft) !important;
 }
-
-/* Liens par défaut (hors styles inline) */
-a{ color:#d4a76a; }
-a:hover{ color:#e2c080; }
