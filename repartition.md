@@ -9,15 +9,14 @@ title: Répartition
   </a>
 </p>
 
-
-
 # ⚖️ Répartition du Village
 
-Selon le nombre de joueurs et joueuses, la composition des rôles change.
-Voici la configuration officielle : 
+Selon le nombre de joueurs et joueuses, la composition des rôles change.  
+Voici la configuration officielle :
 
- | Nombre de joueurs et joueuses | 
- | [<span style="color:blue">Villageois</span>](villageois.md)  ![Townsfolk](images/Generic_townsfolk.png) | [<span style="color:blue">Étrangers</span>](etrangers.md)  ![Outsider](images/Generic_outsider.png) |[<span style="color:red">Sbires</span>](sbires.md)  ![Minion](images/Generic_minion.png) | [<span style="color:red">Démons</span>](demons.md) ![Demon](images/Generic_demon.png) |
+<div style="border: 2px solid #b58b52; border-radius: 10px; padding: 12px; background-color: rgba(255, 255, 255, 0.02);">
+
+| Nombre de joueurs et joueuses | [<span style="color:#4ea3ff;">Villageois</span>](villageois.md) ![Townsfolk](images/Generic_townsfolk.png) | [<span style="color:#4ea3ff;">Étrangers</span>](etrangers.md) ![Outsider](images/Generic_outsider.png) | [<span style="color:#d45b5b;">Sbires</span>](sbires.md) ![Minion](images/Generic_minion.png) | [<span style="color:#d45b5b;">Démons</span>](demons.md) ![Demon](images/Generic_demon.png) |
 | ----------------------------- | ----------------------------------------------------- | -------------------------------------------------- | ------------------------------------------- | ----------------------------------------- |
 | 5                             | 3                                                     | 0                                                  | 1                                           | 1                                         |
 | 6                             | 3                                                     | 1                                                  | 1                                           | 1                                         |
@@ -31,9 +30,10 @@ Voici la configuration officielle :
 | 14                            | 9                                                     | 1                                                  | 3                                           | 1                                         |
 | 15                            | 9                                                     | 2                                                  | 3                                           | 1                                         |
 
+</div>
+
 ---
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-top:10px;">
 🏠 <a href="./" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a>
 </p>
-
