@@ -5,7 +5,7 @@ title: Les États
 
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="images/logogold.png" alt="Accueil BotC FR" width="300">
+    <img src="/images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
@@ -46,7 +46,7 @@ Même un joueur déjà mort peut être exécuté à nouveau — pour être bien 
 Mais chaque journée ne permet qu’une seule exécution, qu’elle tue ou non.  
 
 Un joueur mort ne peut plus mourir à nouveau.  
-S’il est attaqué par le <span style="color:red;">Démon</span>, il ne meurt pas une seconde fois,  
+S’il est attaqué par le <span style="color:#d45b5b;">Démon</span>, il ne meurt pas une seconde fois,  
 et le groupe n’apprend rien de particulier.
 </p>
 
@@ -58,8 +58,8 @@ et le groupe n’apprend rien de particulier.
 Chaque joueur ou joueuse est soit du <strong>Bien</strong>, soit du <strong>Mal</strong>.  
 Les rôles ont eux aussi un alignement initial, mais celui-ci peut changer.  
 
-- Parfois, un <span style="color:blue;">Villageois</span> devient maléfique.  
-- Parfois, un <span style="color:red;">Démon</span> devient bon.  
+- Parfois, un <span style="color:#4ea3ff;">Villageois</span> devient maléfique.  
+- Parfois, un <span style="color:#d45b5b;">Démon</span> devient bon.  
 
 🌀 Si une personne bonne possède un rôle maléfique (ou inversement),  
 tournez son jeton de rôle à l’envers pour vous en souvenir.  
@@ -138,7 +138,7 @@ le Conteur peut lui donner une information qui renforce ce mensonge pour le camp
 ## 🤪 <span id="folie" style="color:#4ea3ff; font-weight:bold;">Folie</span>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Introduite dans <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a>,  
+Introduite dans <a href="./sects_and_violets.md" style="color:#67bfff; font-weight:bold; text-decoration:none;">Sects & Violets</a>,  
 la <strong>Folie</strong> est un état rare qui concerne quelques rôles seulement.  
 
 Elle ne se voit pas dans le Grimoire — elle se perçoit par ce que les joueurs et joueuses disent et font.  
@@ -157,27 +157,10 @@ Exemples :
   s’il en parle, il risque l’exécution.  
 - Le <a href="./sv_roles/cerenovus.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a> choisit un joueur ou une joueuse et lui ordonne d’être fou ou folle d’un rôle précis,  
   sinon il ou elle pourrait être exécuté.
-
-👉 Personne n’est obligé d’être fou ou folle,  
-mais refuser implique d’assumer la conséquence.  
-Dire ouvertement *« Je suis fou »* ou *« Je suis folle »* peut justifier une punition.
-
-Une fois qu’on ne l’est plus, on peut en parler librement.  
-Par exemple, un Mutant mort ou une personne visée par le Cerenovus plusieurs nuits auparavant  
-peut dire la vérité sans risque.  
-
-🎭 C’est au Conteur ou à la Conteuse de juger si l’attitude correspond vraiment à la folie.  
-Ce qui compte, c’est l’intention : essaie-t-on sincèrement de convaincre ?  
-
-👉 Les personnes expérimentées doivent faire un effort crédible ;  
-les débutantes peuvent être traitées avec indulgence.  
-Le but est de **rendre le mensonge amusant et créatif**,  
-pas de piéger les nouveaux et nouvelles.
 </p>
 
 ---
 
-
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
+  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
 </ul>
