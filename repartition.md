@@ -14,6 +14,7 @@ title: Répartition
 Selon le nombre de joueurs et joueuses, la composition des rôles change.
 Voici la configuration officielle :
 
+
 <style>
 /* Styles localisés au tableau de répartition uniquement */
 .repartition-table {
