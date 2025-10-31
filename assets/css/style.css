@@ -1,158 +1,229 @@
 /* =========================================================
-   style.css — reset propre et lisible (v25)
+   style.css — Version stable et lisible (corrigée)
    ========================================================= */
 
-/* ---------- Base lisible ---------- */
-:root{
-  --bg-dark: #181818;
-  --text-soft: #e6e6e6;
-  --text-strong: #f2f2f2;
-
-  --blue-soft: #4ea3ff;   /* Villageois + Étrangers */
-  --red-soft:  #d45b5b;   /* Sbires + Démons */
-
-  --gold:   #b58b52;      /* TB titres */
-  --orange: #ffa64d;      /* BMR titres */
-  --violet: #d67bff;      /* SV titres */
-
-  --trav:   #9b59b6;      /* Voyageurs */
-  --fabled: #d4a76a;      /* Légendaires */
-  --loric:  #4caf50;      /* Loric */
-
-  --card-bg: rgba(255,255,255,0.03);
-  --card-bg-hover: rgba(255,255,255,0.05);
-  --card-bd: rgba(181,139,82,0.22);
-  --card-bd-hover: rgba(212,167,106,0.44);
-  --shadow: 0 6px 18px rgba(0,0,0,0.22);
-}
-
-html, body{
-  background: var(--bg-dark);
-  color: var(--text-soft);
+/* 🌙 Mode sombre par défaut */
+body {
+  background: #181818; /* légèrement plus clair */
+  color: #e6e6e6;
   font-family: Arial, sans-serif;
   line-height: 1.6;
-  transition: background .3s, color .3s;
+  margin: 0;
+  position: relative;
+  z-index: 0;
+  transition: background 0.3s, color 0.3s;
 }
 
-/* ---------- Image de fond (très légère) ---------- */
-body::before{
-  content:"";
+/* === Bannière de fond visible et douce === */
+body::before {
+  content: "";
   position: fixed;
-  inset: 0;
-  background: url("/botc-fr-bambi/images/banner.png") no-repeat center/cover;
-  opacity: .08 !important;              /* léger, n’écrase pas le texte */
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: url("/botc-fr-bambi/images/banner.png") no-repeat center center/cover;
+  opacity: 0.14; /* léger voile, lisible */
   z-index: -1;
 }
 
-/* ---------- Mode clair (si jamais réactivé) ---------- */
-body.light-mode{
-  background:#ffffff;
-  color:#101010;
+/* ☀️ Mode clair (si activé plus tard) */
+body.light-mode {
+  background: #ffffff;
+  color: #101010;
 }
-body.light-mode::before{ opacity:.05 !important; }
-
-/* ---------- Logo à gauche (restauré) ---------- */
-img[alt="Accueil BotC FR"]{
-  float:left !important;
-  display:inline !important;
-  margin:0 !important;
+body.light-mode::before {
+  background: url("/botc-fr-bambi/images/banner.png") no-repeat center center/cover;
+  opacity: 0.08;
 }
-p[align="left"]::after{ content:""; display:block; clear:both; }
 
-/* ---------- Liens par défaut (doré doux) ---------- */
-a{ color:#d4a76a; text-decoration:none; }
-a:hover{ color:#e2c080; }
+/* ======== Logo ======== */
+img[alt="Accueil BotC FR"] {
+  display: inline !important;
+  float: left !important;
+  margin: 0 !important;
+}
+p[align="left"]::after {
+  content: "";
+  display: block;
+  clear: both;
+}
 
-/* ---------- Titres globaux ---------- */
-h1,h2,h3,h4{ color:var(--text-strong); text-shadow:2px 2px 6px rgba(0,0,0,.25); }
+/* ======== Bouton de thème (facultatif) ======== */
+#theme-toggle {
+  position: fixed;
+  top: 12px;
+  right: 12px;
+  padding: 8px 12px;
+  border: none;
+  border-radius: 8px;
+  background: #444;
+  color: #fff;
+  font-size: 14px;
+  cursor: pointer;
+  z-index: 999;
+}
+
+/* ======== Palette officielle ======== */
+:root {
+  --gold-tb: #b58b52;
+  --orange-bmr: #ffa64d;
+  --violet-sv: #d67bff;
+  --blue-good: #4ea3ff;
+  --red-evil: #d45b5b;
+  --text-soft: #e6e6e6;
+}
 
 /* =========================================================
-   Couleurs des ÉDITIONS — uniquement pour les TITRES
+   🎨 MODULES
    ========================================================= */
-.page-tb  h1, .page-tb  h2, .page-tb  h3{ color: var(--gold)   !important; }  /* Trouble Brewing */
-.page-bmr h1, .page-bmr h2, .page-bmr h3{ color: var(--orange) !important; }  /* Bad Moon Rising */
-.page-sv  h1, .page-sv  h2, .page-sv  h3{ color: var(--violet) !important; }  /* Sects & Violets */
 
-/* On ne colore PAS les liens de ces pages en or/orange/violet automatiquement. */
+/* Trouble Brewing */
+.page-tb h1, .page-tb h2, .page-tb h3 { color: var(--gold-tb); }
+.page-tb a { color: var(--gold-tb); font-weight: 600; }
+.page-tb a:hover { color: #dcb26b; }
+
+/* Bad Moon Rising */
+.page-bmr h1, .page-bmr h2, .page-bmr h3 { color: var(--orange-bmr); }
+.page-bmr a { color: var(--orange-bmr); font-weight: 600; }
+.page-bmr a:hover { color: #ffc580; }
+
+/* Sects & Violets */
+.page-sv h1, .page-sv h2, .page-sv h3 { color: var(--violet-sv); }
+.page-sv a { color: var(--violet-sv); font-weight: 600; }
+.page-sv a:hover { color: #e1b0ff; }
 
 /* =========================================================
-   Grilles de rôles (icônes)
+   🎭 Rôles — Grille
    ========================================================= */
-.role-grid{
-  display:flex; flex-wrap:wrap; justify-content:center; gap:24px; margin:30px 0;
+
+.role-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 24px;
+  margin: 30px 0;
 }
-.role-grid a{
-  display:flex; flex-direction:column; align-items:center;
-  width:140px; color:inherit; text-decoration:none;
-  transition: transform .2s ease, filter .2s ease;
+
+.role-grid a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-decoration: none;
+  color: inherit;
+  width: 140px;
+  transition: transform 0.2s ease, filter 0.2s ease;
 }
-.role-grid a:hover{ transform:scale(1.07); filter:brightness(1.12); }
-.role-grid img{
-  width:120px; height:auto; border-radius:10px; border:2px solid transparent; transition:border-color .2s ease;
+
+.role-grid a:hover {
+  transform: scale(1.06);
+  filter: brightness(1.08);
 }
-.role-grid span{
-  margin-top:8px; text-align:center; font-weight:bold; font-size:1.05rem; color:var(--text-soft);
+
+.role-grid img {
+  width: 120px;
+  height: auto;
+  border-radius: 10px;
+  border: 2px solid transparent;
+  transition: border-color 0.2s ease;
 }
-/* Survols par type */
+
+.role-grid span {
+  margin-top: 8px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.05rem;
+  color: var(--text-soft);
+}
+
+/* Bordures par type */
 .role-grid a.villageois:hover img,
-.role-grid a.etranger:hover img{ border-color: var(--blue-soft); }
+.role-grid a.etranger:hover img { border-color: var(--blue-good); }
 .role-grid a.sbire:hover img,
-.role-grid a.demon:hover img{ border-color: var(--red-soft); }
-.role-grid a.voyageur:hover img{ border-color: var(--trav); }
-.role-grid a.legendary:hover img{ border-color: var(--fabled); }
-.role-grid a.loric:hover img{ border-color: var(--loric); }
+.role-grid a.demon:hover img { border-color: var(--red-evil); }
+.role-grid a.voyageur:hover img { border-color: #9b59b6; }
+.role-grid a.fabled:hover img { border-color: var(--gold-tb); }
+.role-grid a.loric:hover img { border-color: #4caf50; }
 
 /* =========================================================
-   Suppression du voile sombre dans les blocs internes
+   🧭 COULEURS INLINE (pour toutes les pages)
    ========================================================= */
-main, .page-content, .wrapper, section, article, .post, .post-content{
-  background: transparent !important;
-  box-shadow: none !important;
+
+/* BLEU — Villageois & Étrangers */
+a[style*="color:blue" i],
+span[style*="color:blue" i],
+strong[style*="color:blue" i],
+em[style*="color:blue" i],
+[style*="color:#00f" i],
+[style*="color:#0000ff" i] {
+  color: var(--blue-good) !important;
 }
 
-/* Cartes / cellules stylées mais légères */
-.home-card, .rules-cell{
-  border:1px solid var(--card-bd);
-  background: var(--card-bg);
-  box-shadow: var(--shadow);
-}
-.home-card:hover{
-  border-color: var(--card-bd-hover);
-  background: var(--card-bg-hover);
-}
-
-/* =========================================================
-   Forçage des couleurs inline (pour corriger le doré partout)
-   ========================================================= */
-/* BLEU doux — Villageois & Étrangers (respecte toutes variantes) */
-a[style*="color:blue" i], span[style*="color:blue" i],
-strong[style*="color:blue" i], em[style*="color:blue" i],
-[style*="color:#00f" i], [style*="color:#0000ff" i]{
-  color: var(--blue-soft) !important;
+/* ROUGE — Sbires & Démons */
+a[style*="color:red" i],
+span[style*="color:red" i],
+strong[style*="color:red" i],
+em[style*="color:red" i],
+[style*="color:#f00" i],
+[style*="color:#ff0000" i] {
+  color: var(--red-evil) !important;
 }
 
-/* ROUGE doux — Sbires & Démons */
-a[style*="color:red" i], span[style*="color:red" i],
-strong[style*="color:red" i], em[style*="color:red" i],
-[style*="color:#f00" i], [style*="color:#ff0000" i]{
-  color: var(--red-soft) !important;
-}
-
-/* Blanc agressif → blanc doux */
-[style*="color:white" i], [style*="color:#fff" i], [style*="color:#ffffff" i]{
+/* BLANC — légèrement adouci */
+[style*="color:white" i],
+[style*="color:#fff" i],
+[style*="color:#ffffff" i] {
   color: var(--text-soft) !important;
 }
 
-/* Conserver les couleurs “officielles” quand elles sont explicites */
-[style*="color:#b58b52" i]{ color:#b58b52 !important; } /* TB */
-[style*="color:#ffa64d" i]{ color:#ffa64d !important; } /* BMR */
-[style*="color:#d67bff" i]{ color:#d67bff !important; } /* SV */
-[style*="color:#9b59b6" i]{ color:#9b59b6 !important; } /* Voyageurs */
-[style*="color:#d4a76a" i]{ color:#d4a76a !important; } /* Légendaires */
-[style*="color:#4caf50" i]{ color:#4caf50 !important; } /* Loric */
+/* NE PAS TOUCHER : couleurs officielles */
+[style*="color:#b58b52" i] { color: var(--gold-tb) !important; }
+[style*="color:#ffa64d" i] { color: var(--orange-bmr) !important; }
+[style*="color:#d67bff" i] { color: var(--violet-sv) !important; }
+[style*="color:#9b59b6" i] { color: #9b59b6 !important; } /* Voyageurs */
+[style*="color:#d4a76a" i] { color: #d4a76a !important; } /* Légendaires */
+[style*="color:#4caf50" i] { color: #4caf50 !important; } /* Loric */
 
-/* Les liens vers les pages catégories Villageois/Étrangers restent BLEUS */
-a[href*="villageois.html"], a[href*="villageois.md"],
-a[href*="etrangers.html"],  a[href*="etrangers.md"]{
-  color: var(--blue-soft) !important;
+/* =========================================================
+   🧩 Liens / Titres / Tables
+   ========================================================= */
+a { color: #d4a76a; }
+a:hover { color: #e2c080; }
+
+h1, h2, h3, h4 {
+  color: var(--text-soft);
+  text-shadow: 0 0 0 transparent, 2px 2px 6px rgba(0,0,0,.22);
+}
+
+/* Tables */
+.rules-cell {
+  border: 1px solid rgba(181,139,82,0.28);
+  background: rgba(255,255,255,0.02);
+  border-radius: 10px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.28);
+}
+.rules-title { color: #e2c080; font-weight: bold; }
+.rules-sub { color: #ccb892; }
+
+/* =========================================================
+   🏠 Cartes d’accueil
+   ========================================================= */
+.home-card {
+  border: 1px solid rgba(181,139,82,0.28);
+  background: rgba(255,255,255,0.02);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.28);
+  border-radius: 12px;
+  text-align: center;
+  transition: 0.2s ease;
+}
+.home-card:hover {
+  border-color: rgba(212,167,106,0.55);
+  background: rgba(255,255,255,0.04);
+}
+
+/* =========================================================
+   📱 Responsive
+   ========================================================= */
+@media (max-width: 900px) {
+  .role-grid a { width: 40%; }
+}
+@media (max-width: 520px) {
+  .role-grid a { width: 100%; }
 }
