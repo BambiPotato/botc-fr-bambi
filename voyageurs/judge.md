@@ -17,7 +17,7 @@ title: Juge
 ---
 
 ## ℹ️ Informations  
-- **Type :** [Voyageur](../voyageurs.md)  
+- **Type :** <span style="color:#9b59b6; font-weight:bold;">Voyageur</span>   
 - **Artiste :** John Grist  
 - *« Je déclare l’accusé coupable des crimes de meurtre, fraude, incendie volontaire, vol, usurpation d’identité d’un officier de loi, exercice illégal de la médecine, diffamation, régicide… et dépôt d’ordures. »*
 
