@@ -60,7 +60,7 @@ L’**Évêque** retire le droit de nomination à tous les joueurs : **seul le C
 ## 🧾 Exemples  
 
 - L’**Évêque** est bon.  
-  → Le Conteur nomine le [Po](../bmr_roles/po.md), un [Sbire](../bmr_roles/minion.md), et deux [Villageois](../bmr_roles/chambermaid.md) et [Fou](../bmr_roles/fool.md).  
+  → Le Conteur nomine le [Po](../bmr_roles/po.md), un [Sbire](../bmr_roles/minion.md), et deux [Villageois](../bmr_roles/chambermaid.md)/.  
 
 - L’**Évêque** est maléfique.  
   → Le Conteur n’a nommé personne.  
