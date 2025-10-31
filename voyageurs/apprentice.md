@@ -17,7 +17,7 @@ title: Apprenti
 ---
 
 ## ℹ️ Informations  
-- **Type :** [Voyageur](../voyageurs.md)  
+- **Type :** <span style="color:#9b59b6; font-weight:bold;">Voyageur</span>  
 - **Artiste :** Aidan Roberts  
 - *« Des années que je voyage pour étudier l’Art. Quel art ? Celui des gens simples. Rien d’inquiétant. Pas encore. »*
 
