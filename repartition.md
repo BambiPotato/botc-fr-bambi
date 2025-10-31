@@ -14,21 +14,44 @@ title: Répartition
 Selon le nombre de joueurs et joueuses, la composition des rôles change.  
 Voici la configuration officielle :
 
-<div style="border: 2px solid #b58b52; border-radius: 10px; padding: 12px; background-color: rgba(255, 255, 255, 0.02);">
+<div style="border: 2px solid #b58b52; border-radius: 10px; padding: 16px; background-color: rgba(255, 255, 255, 0.02);">
 
-| Nombre de joueurs et joueuses | [<span style="color:#4ea3ff;">Villageois</span>](villageois.md) ![Townsfolk](images/Generic_townsfolk.png) | [<span style="color:#4ea3ff;">Étrangers</span>](etrangers.md) ![Outsider](images/Generic_outsider.png) | [<span style="color:#d45b5b;">Sbires</span>](sbires.md) ![Minion](images/Generic_minion.png) | [<span style="color:#d45b5b;">Démons</span>](demons.md) ![Demon](images/Generic_demon.png) |
-| ----------------------------- | ----------------------------------------------------- | -------------------------------------------------- | ------------------------------------------- | ----------------------------------------- |
-| 5                             | 3                                                     | 0                                                  | 1                                           | 1                                         |
-| 6                             | 3                                                     | 1                                                  | 1                                           | 1                                         |
-| 7                             | 5                                                     | 0                                                  | 1                                           | 1                                         |
-| 8                             | 5                                                     | 1                                                  | 1                                           | 1                                         |
-| 9                             | 5                                                     | 2                                                  | 1                                           | 1                                         |
-| 10                            | 7                                                     | 0                                                  | 2                                           | 1                                         |
-| 11                            | 7                                                     | 1                                                  | 2                                           | 1                                         |
-| 12                            | 7                                                     | 2                                                  | 2                                           | 1                                         |
-| 13                            | 9                                                     | 0                                                  | 3                                           | 1                                         |
-| 14                            | 9                                                     | 1                                                  | 3                                           | 1                                         |
-| 15                            | 9                                                     | 2                                                  | 3                                           | 1                                         |
+<table style="width:100%; border-collapse: collapse; text-align:center; color:#e0c99d; font-size:18px;">
+  <thead>
+    <tr style="border-bottom: 2px solid #b58b52;">
+      <th style="padding:8px; border-right:1px solid #b58b52;">Nombre de joueurs et joueuses</th>
+      <th style="padding:8px; border-right:1px solid #b58b52;">
+        <a href="villageois.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a><br>
+        <img src="images/Generic_townsfolk.png" alt="Villageois" width="30">
+      </th>
+      <th style="padding:8px; border-right:1px solid #b58b52;">
+        <a href="etrangers.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a><br>
+        <img src="images/Generic_outsider.png" alt="Étrangers" width="30">
+      </th>
+      <th style="padding:8px; border-right:1px solid #b58b52;">
+        <a href="sbires.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a><br>
+        <img src="images/Generic_minion.png" alt="Sbires" width="30">
+      </th>
+      <th style="padding:8px;">
+        <a href="demons.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démons</a><br>
+        <img src="images/Generic_demon.png" alt="Démons" width="30">
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td style="border-top:1px solid #b58b52;">5</td><td>3</td><td>0</td><td>1</td><td>1</td></tr>
+    <tr><td style="border-top:1px solid #b58b52;">6</td><td>3</td><td>1</td><td>1</td><td>1</td></tr>
+    <tr><td style="border-top:1px solid #b58b52;">7</td><td>5</td><td>0</td><td>1</td><td>1</td></tr>
+    <tr><td style="border-top:1px solid #b58b52;">8</td><td>5</td><td>1</td><td>1</td><td>1</td></tr>
+    <tr><td style="border-top:1px solid #b58b52;">9</td><td>5</td><td>2</td><td>1</td><td>1</td></tr>
+    <tr><td style="border-top:1px solid #b58b52;">10</td><td>7</td><td>0</td><td>2</td><td>1</td></tr>
+    <tr><td style="border-top:1px solid #b58b52;">11</td><td>7</td><td>1</td><td>2</td><td>1</td></tr>
+    <tr><td style="border-top:1px solid #b58b52;">12</td><td>7</td><td>2</td><td>2</td><td>1</td></tr>
+    <tr><td style="border-top:1px solid #b58b52;">13</td><td>9</td><td>0</td><td>3</td><td>1</td></tr>
+    <tr><td style="border-top:1px solid #b58b52;">14</td><td>9</td><td>1</td><td>3</td><td>1</td></tr>
+    <tr><td style="border-top:1px solid #b58b52;">15</td><td>9</td><td>2</td><td>3</td><td>1</td></tr>
+  </tbody>
+</table>
 
 </div>
 
