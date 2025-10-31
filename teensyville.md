@@ -27,11 +27,11 @@ Grâce à Teensyville, vous pouvez créer une infinité de variations du jeu cla
 ## 📋 <span style="color:#b58b52; font-weight:bold;">Sommaire</span>
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li><a href="#principe" style="color:#d4a76a; font-weight:bold; text-decoration:none;">1️⃣ Principe</a></li>
-  <li><a href="#composition" style="color:#d4a76a; font-weight:bold; text-decoration:none;">2️⃣ Composition d’un script Teensyville</a></li>
-  <li><a href="#avantages" style="color:#d4a76a; font-weight:bold; text-decoration:none;">3️⃣ Avantages du format</a></li>
-  <li><a href="#creation" style="color:#d4a76a; font-weight:bold; text-decoration:none;">4️⃣ Créer vos propres scripts</a></li>
-  <li><a href="#scripts-prets" style="color:#d4a76a; font-weight:bold; text-decoration:none;">5️⃣ Scripts prêts à jouer</a></li>
+  <li><a href="#principe" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">1️⃣ Principe</a></li>
+  <li><a href="#composition" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">2️⃣ Composition d’un script Teensyville</a></li>
+  <li><a href="#avantages" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">3️⃣ Avantages du format</a></li>
+  <li><a href="#creation" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">4️⃣ Créer vos propres scripts</a></li>
+  <li><a href="#scripts-prets" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">5️⃣ Scripts prêts à jouer</a></li>
 </ul>
 
 ---
@@ -53,10 +53,10 @@ Chaque script <strong>Teensyville</strong> contient :
 </p>
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>6 <a href="./villageois.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Villageois</a></li>
-  <li>2 <a href="./etrangers.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Étrangers</a></li>
-  <li>2 <a href="./sbires.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sbires</a></li>
-  <li>2 <a href="./demons.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Démons</a></li>
+  <li>6 <a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a></li>
+  <li>2 <a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a></li>
+  <li>2 <a href="./sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a></li>
+  <li>2 <a href="./demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démons</a></li>
 </ul>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
@@ -89,7 +89,7 @@ Vous pouvez concevoir vos propres scripts <strong>Teensyville</strong> à l’ai
 </p>
 
 <p style="color:#e0c99d; font-size:18px;">
-🔧 <a href="https://script.bloodontheclocktower.com" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Outil officiel de création de scripts</a>
+🔧 <a href="https://script.bloodontheclocktower.com" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Outil officiel de création de scripts</a>
 </p>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
@@ -106,7 +106,7 @@ Si vous préférez commencer avec des scripts déjà prêts, vous pouvez téléc
 </p>
 
 <p style="color:#e0c99d; font-size:18px;">
-📄 <a href="https://bloodontheclocktower.com/teensyville" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Télécharger les scripts Teensyville</a>
+📄 <a href="https://bloodontheclocktower.com/teensyville" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Télécharger les scripts Teensyville</a>
 </p>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
@@ -120,4 +120,12 @@ garantissant une expérience fluide et équilibrée pour vos parties.
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li>🏠 <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
+  <li>🍺 <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li>🌙 <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
+  <li>💐 <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
+  <li>🧑‍🌾 <a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a></li>
+  <li>🌀 <a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a></li>
+  <li>😈 <a href="./sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a></li>
+  <li>👹 <a href="./demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démons</a></li>
+  <li>🧳 <a href="./voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a></li>
 </ul>
