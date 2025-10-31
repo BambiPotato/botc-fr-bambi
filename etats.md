@@ -66,7 +66,7 @@ Rôle et alignement sont <strong>indépendants</strong> : changer de camp ne cha
 
 **Exemples :**
 - Si la <a href="./bmr_roles/brute.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Brute</a> devient maléfique, elle reste la Brute.  
-- Si la <a href="./sv_roles/fleuriste.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a> devient la <a href="./sv_roles/sorciere.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> grâce à la <a href="./sv_roles/pit-hag.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a>, la Sorcière reste bonne.
+- Si la <a href="./sv_roles/fleuriste.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a> devient la <a href="./sv_roles/sorciere.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> grâce à la <a href="./sv_roles/pithag.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a>, la Sorcière reste bonne.
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 🧭 Quand quelqu’un change de rôle ou d’alignement, le Conteur ou la Conteuse le lui apprend secrètement, au moment indiqué (feuille de nuit, almanach).  
@@ -115,7 +115,7 @@ Le Conteur/La Conteuse doit toujours expliquer **vraiment** les règles, même a
 Enfin, l’état affecte la **personne**, pas le rôle : changer de rôle ne retire pas l’ivresse/le poison.
 
 🎭 Astuce : soutenez les bluffs des <span style="color:#d45b5b;">Sbires</span>.  
-Si un <a href="./tb_roles/gardien.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a> ivre protège un bluff, donnez une info qui renforce le mensonge (pour le Mal).
+Si un <a href="./tb_roles/gardien.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a> ivre protège un bluff, donnez une info qui renforce le mensonge (pour les Maléfiques).
 
 ---
 
