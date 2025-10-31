@@ -25,7 +25,7 @@ title: Juge
 
 ## 🎭 Apparaît dans  
 
-[<img src="/images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="400">](../bmr.md)  
+[<img src="/images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="200">](../bmr.md)  
 # 🌙 <span style="color:#ffa64d; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
 
 *Cult of the Clocktower – épisode par Andrew Nathenson*
