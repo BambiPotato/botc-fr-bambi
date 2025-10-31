@@ -11,7 +11,7 @@ title: Répartition
 
 # ⚖️ Répartition du Village
 
-Selon le nombre de joueurs et joueuses, la composition des rôles change.  
+Selon le nombre de joueurs et joueuses, la composition des catégories change.  
 Voici la configuration officielle :
 
 <style>
@@ -19,24 +19,24 @@ Voici la configuration officielle :
   width: 100%;
   border-collapse: collapse;
   margin-top: 20px;
-  background: #f2eee9; /* blanc ivoire doux */
-  color: #e0c99d; /* texte doré clair */
+  color: #f5f5f5; /* texte clair neutre */
   font-size: 18px;
   text-align: center;
-  border: 2px solid #c9a86a;
+  background: transparent; /* pas de fond coloré */
+}
+
+.repartition-table th, .repartition-table td {
+  border: 1px solid #a88b5f; /* doré doux pour les bordures */
+  padding: 8px;
 }
 
 .repartition-table th {
-  background: #d4a76a;
-  color: #fff;
-  padding: 10px;
-  border: 2px solid #c9a86a;
   font-weight: bold;
+  font-size: 19px;
 }
 
-.repartition-table td {
-  padding: 8px;
-  border: 1px solid #c9a86a;
+.repartition-table img {
+  vertical-align: middle;
 }
 
 .repartition-table a {
@@ -50,17 +50,10 @@ Voici la configuration officielle :
   <thead>
     <tr>
       <th>Nombre de joueurs et joueuses</th>
-      <th><a href="villageois.html"><span style="color:#4ea3ff;">Villageois</span></a></th>
-      <th><a href="etrangers.html"><span style="color:#4ea3ff;">Étrangers</span></a></th>
-      <th><a href="sbires.html"><span style="color:#d45b5b;">Sbires</span></a></th>
-      <th><a href="demons.html"><span style="color:#d45b5b;">Démons</span></a></th>
-    </tr>
-    <tr>
-      <th></th>
-      <th><img src="images/Generic_townsfolk.png" alt="Villageois" width="28"></th>
-      <th><img src="images/Generic_outsider.png" alt="Étrangers" width="28"></th>
-      <th><img src="images/Generic_minion.png" alt="Sbires" width="28"></th>
-      <th><img src="images/Generic_demon.png" alt="Démons" width="28"></th>
+      <th><a href="villageois.html"><span style="color:#4ea3ff;">Villageois</span></a> <img src="images/Generic_townsfolk.png" alt="Villageois" width="24"></th>
+      <th><a href="etrangers.html"><span style="color:#4ea3ff;">Étrangers</span></a> <img src="images/Generic_outsider.png" alt="Étrangers" width="24"></th>
+      <th><a href="sbires.html"><span style="color:#d45b5b;">Sbires</span></a> <img src="images/Generic_minion.png" alt="Sbires" width="24"></th>
+      <th><a href="demons.html"><span style="color:#d45b5b;">Démons</span></a> <img src="images/Generic_demon.png" alt="Démons" width="24"></th>
     </tr>
   </thead>
   <tbody>
@@ -80,6 +73,6 @@ Voici la configuration officielle :
 
 ---
 
-<p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-top:10px;">
-🏠 <a href="./index.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a>
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-top:10px;">
+🏠 <a href="./index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a>
 </p>
