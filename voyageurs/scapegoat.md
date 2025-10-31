@@ -82,7 +82,7 @@ Si le Bouc Émissaire est <span style="color:#d45b5b;">maléfique</span>, sa mor
   <li>Si votre capacité se déclenche et que vous mourez à la place d’un autre, parlez-lui : vous savez tous deux que vous êtes bons.</li>
   <li>Votez souvent. Si un <span style="color:#d45b5b;">Sbire</span> ou un <span style="color:#d45b5b;">Démon</span> est exécuté, tant mieux ; sinon, vous pouvez mourir à la place d’un allié, ce qui vous rend utile.</li>
   <li>Après votre mort, défendez publiquement la personne que vous avez sauvée : votre sacrifice prouve son alignement.</li>
-  <li>Méfiez-vous du <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Spy</a> ! Si vous mourez à sa place, au moins vous savez qu’il n’était pas le Démon.</li>
+  <li>Méfiez-vous de l' <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espion</a> ! Si vous mourez à sa place, au moins vous savez qu’il n’était pas le Démon.</li>
   <li>Si vous êtes rusé, bluffez auprès d’un joueur douteux pour provoquer son exécution et tester sa loyauté…</li>
 </ul>
 
