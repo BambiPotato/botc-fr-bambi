@@ -11,7 +11,7 @@
   <a href="flingeur.md">
     <img src="../images/Icon_gunslinger.png" alt="Flingeur" width="300">
   </a><br>
-  <a href="flingeur.md"><b>Flingeur</b></a>
+  <a href="gunslinger.md"><b>Gunslinger</b></a>
 </p>
 
 
