@@ -14,7 +14,7 @@ title: Scapegoat
 <h1 style="color:#b58b52; font-weight:bold; font-size:36px;">🐐 Bouc Émissaire (Scapegoat)</h1>
 
 <p align="center">
-  <img src="../images/voyageurs/scapegoat.png" alt="Scapegoat" width="200" style="border-radius:12px; margin-top:10px;">
+  <img src="../images/Icon_scapegoat.png" alt="Scapegoat" width="200" style="border-radius:12px; margin-top:10px;">
 </p>
 
 ---
