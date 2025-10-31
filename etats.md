@@ -74,7 +74,7 @@ Rôle et alignement sont <strong>indépendants</strong> : changer de camp ne cha
 
 **Exemples :**
 - Si la <a href="./bmr_roles/brute.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Brute</a> devient maléfique, elle reste la Brute.  
-- Si la <a href="./sv_roles/fleuriste.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a> devient la <a href="./sv_roles/sorciere.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> à cause de la <a href="./sv_roles/pit-hag.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a>, la Sorcière reste bonne.
+- Si la <a href="./sv_roles/fleuriste.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a> devient la <a href="./sv_roles/sorciere.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> à cause de la <a href="./sv_roles/pithag.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a>, la Sorcière reste bonne.
 
 ---
 
