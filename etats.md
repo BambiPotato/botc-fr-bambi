@@ -65,8 +65,8 @@ Rôle et alignement sont <strong>indépendants</strong> : changer de camp ne cha
 </p>
 
 **Exemples :**
-- Si la <a href="./bmr_roles/brute.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Brute</a> devient maléfique, elle reste la Brute.  
-- Si la <a href="./sv_roles/fleuriste.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a> devient la <a href="./sv_roles/sorciere.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> grâce à la <a href="./sv_roles/pithag.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a>, la Sorcière reste bonne.
+- Si la <a href="/bmr_roles/brute.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Brute</a> devient maléfique, elle reste la Brute.  
+- Si la <a href="/sv_roles/fleuriste.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a> devient la <a href="/sv_roles/sorciere.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> grâce à la <a href="/sv_roles/pithag.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a>, la Sorcière reste bonne.
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 🧭 Quand quelqu’un change de rôle ou d’alignement, le Conteur ou la Conteuse le lui apprend secrètement, au moment indiqué (feuille de nuit, almanach).  
@@ -126,9 +126,9 @@ Introduite dans <a href="./sv.html" style="color:#d67bff; font-weight:bold; text
 La <strong>Folie</strong> est un état rare, visible par le comportement (paroles/actes), pas dans le Grimoire.
 </p>
 
-Quand on est <em>fou ou folle de quelque chose</em>, on essaie de convaincre le groupe que cette chose est vraie.  
+Quand on est <em>fou  de quelque chose</em>, on essaie de convaincre le groupe que cette chose est vraie.  
 Certains rôles demandent :
-- d’être fou/folle d’un point précis (et d’en parler),  
+- d’être fou d’un point précis (et d’en parler),  
 - ou de ne pas l’être.  
 
 Si on ne respecte pas, il peut y avoir <strong>punition</strong>. Sinon, un <strong>bonus</strong>.
@@ -137,8 +137,8 @@ Si on ne respecte pas, il peut y avoir <strong>punition</strong>. Sinon, un <str
 - Le <a href="./sv_roles/mutant.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mutant</a> doit être fou/folle d’être un Étranger : s’il/elle en parle, il/elle risque l’exécution.  
 - Le <a href="./sv_roles/cerenovus.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a> ordonne d’être fou/folle d’un rôle précis, sinon exécution possible.
 
-👉 Personne n’est obligé d’être fou/folle, mais il faut assumer la conséquence.  
-Dire « Je suis fou/folle » peut justifier une punition.
+👉 Personne n’est obligé d’être fou, mais il faut assumer la conséquence.  
+Dire « Je suis fou » peut justifier une punition.
 
 Une fois l’état terminé, on peut en parler librement (ex. Mutant mort, cible ancienne du Cerenovus).
 
