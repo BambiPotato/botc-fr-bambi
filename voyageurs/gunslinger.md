@@ -11,7 +11,7 @@ title: Gunslinger
 
 <!--  Gunslinger -->
 
-<h1 style="color:#9b59b6; font-weight:bold; font-size:36px;">🔫 Gunslinger</h1>
+<h1 style="color:#9b59b6; font-weight:bold; font-size:36px;"> Gunslinger</h1>
 
 <p align="center">
   <img src="../images/Icon_gunslinger.png" alt="Gunslinger" width="400" style="border-radius:12px; margin-top:10px;">
@@ -80,7 +80,7 @@ Après le premier vote d’exécution de la journée, quand le décompte est ann
   → Le Gunslinger choisit l’une des personnes ayant voté : elle meurt, mais l’Imp reste en attente d’exécution.</li>
 
   <li>Le <a href="../tb_roles/voleur.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voleur</a> est exilé.  
-  Plus tard, le <a href="../tb_roles/majordome.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Majordome</a> (sbire) est nommé et reçoit 1 vote.  
+  Plus tard, le <a href="../tb_roles/majordome.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Majordome</a>  est nommé et reçoit 1 vote.  
   C’est le premier vote du jour : le Gunslinger tue la personne qui a voté.</li>
 </ul>
 
@@ -103,7 +103,7 @@ Après le premier vote d’exécution de la journée, quand le décompte est ann
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li>Tirez souvent… mais choisissez vos cibles intelligemment.</li>
   <li>Évitez de tuer votre <span style="color:#d45b5b;">Démon</span> (sauf combo utile avec la <a href="../tb_roles/femmeecarlate.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme Écarlate</a>).</li>
-  <li>Éliminez un <a href="../tb_roles/voyante.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyant</a> ou un <a href="../tb_roles/soldat.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a> crédible.</li>
+  <li>Éliminez une <a href="../tb_roles/voyante.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> ou un <a href="../tb_roles/soldat.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a> crédible.</li>
   <li>Intimidez : la menace de « tirer » influence les votes.</li>
   <li>À 3 vivants restants, tuez une personne non-Démon et laissez le chaos finir le travail.</li>
 </ul>
