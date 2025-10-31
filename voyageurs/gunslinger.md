@@ -9,7 +9,7 @@ title: Gunslinger
   </a>
 </p>
 
-<!-- 🔫 Gunslinger -->
+<!--  Gunslinger -->
 
 <h1 style="color:#9b59b6; font-weight:bold; font-size:36px;">🔫 Gunslinger</h1>
 
