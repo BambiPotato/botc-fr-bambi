@@ -9,7 +9,7 @@
 
 <p align="middle">
   <a href="flingeur.md">
-    <img src="../images/Icon_gunslinger.png" alt="Flingeur" width="300">
+    <img src="../images/Icon_gunslinger.png" alt="Gunslinger" width="300">
   </a><br>
   <a href="gunslinger.md"><b>Gunslinger</b></a>
 </p>
