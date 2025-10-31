@@ -17,7 +17,7 @@ title: Matrone
 ---
 
 ## ℹ️ Informations  
-- **Type :** [Voyageur](../voyageurs.md)  
+- **Type :** <span style="color:#9b59b6; font-weight:bold;">Voyageur</span>  
 - **Artiste :** Aidan Roberts  
 - *« Mademoiselle Featherbottom, silence. Maître Rutherford, une tasse de thé se tient avec quatre doigts, s’il vous plaît. Je sais que vous êtes père de neuf enfants, mais l’âge, ou son absence, n’excuse jamais un manque de manières. »*
 
