@@ -14,7 +14,7 @@ title: Gunslinger
 <h1 style="color:#b58b52; font-weight:bold; font-size:36px;">🔫 Gunslinger</h1>
 
 <p align="center">
-  <img src="/images/Icon_gunslinger.png" alt="Gunslinger" width="200" style="border-radius:12px; margin-top:10px;">
+  <img src="/images/Icon_gunslinger.png" alt="Gunslinger" width="400" style="border-radius:12px; margin-top:10px;">
 </p>
 
 ---
