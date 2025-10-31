@@ -17,7 +17,7 @@ title: Bishop
 ---
 
 ## ℹ️ Informations  
-- **Type :** [Voyageur](../voyageurs.md)  
+- **Type :** <span style="color:#9b59b6; font-weight:bold;">Voyageur</span>  
 - **Artiste :** John Grist  
 - *« In nomine Patris, et Filii, et Spiritus Sancti… Nos mos Dei. Deus vult de nobis. »*
 
