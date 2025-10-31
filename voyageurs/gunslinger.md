@@ -1,10 +1,15 @@
+---
+layout: default
+title: Gunslinger
+---
+
 <p align="left">
   <a href="/botc-fr-bambi/">
     <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
-# 🔫 Flingeur  
+# 🔫 Gunslinger
 
 [<img src="../images/Icon_gunslinger.png" alt="Flingeur" width="400">](flingeur.md) [**Flingeur**](flingeur.md)  
 
