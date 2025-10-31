@@ -3,7 +3,6 @@ layout: default
 title: Installation
 ---
 
-
 <p align="left">
   <a href="/botc-fr-bambi/">
     <img src="images/logogold.png" alt="Accueil BotC FR" width="300">
@@ -15,7 +14,7 @@ title: Installation
 <h1 style="color:#b58b52; font-weight:bold; font-size:36px;">🏗️ Installation et mise en place</h1>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.8;">
-Cette page explique comment <strong>préparer une partie de Blood on the Clocktower</strong> étape par étape, 
+Cette page explique comment <strong>préparer une partie de Blood on the Clocktower</strong> étape par étape,
 en suivant la feuille <em>Setup</em> du jeu. Elle s’adresse aux <strong>conteurs et conteuses</strong> comme aux <strong>joueurs et joueuses</strong>.
 </p>
 
@@ -39,8 +38,8 @@ en suivant la feuille <em>Setup</em> du jeu. Elle s’adresse aux <strong>conteu
 
 <h2 id="rassembler" style="color:#b58b52; font-weight:bold;">1 Rassembler les joueurs et joueuses</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Disposez <strong>une chaise par personne</strong> en cercle ou en carré, avec un sens clair (horaire ou antihoraire). 
-Prévoyez un <strong>espace de passage pour le conteur ou la conteuse</strong> afin d’entrer et sortir sans gêner. 
+Disposez <strong>une chaise par personne</strong> en cercle ou en carré, avec un sens clair (horaire ou antihoraire).
+Prévoyez un <strong>espace de passage pour le conteur ou la conteuse</strong> afin d’entrer et sortir sans gêner.
 Laissez le centre dégagé pour la circulation et les votes.
 </p>
 
@@ -48,8 +47,8 @@ Laissez le centre dégagé pour la circulation et les votes.
 
 <h2 id="grimoire" style="color:#b58b52; font-weight:bold;">2 Préparer le Grimoire</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Fixez les <strong>deux pinces</strong> sur les coins opposés de la boîte pour former un <em>livre rigide</em>. 
-Installez le <strong>support de Grimoire</strong> à un endroit où son contenu est invisible pour les joueurs et joueuses. 
+Fixez les <strong>deux pinces</strong> sur les coins opposés de la boîte pour former un <em>livre rigide</em>.
+Installez le <strong>support de Grimoire</strong> à un endroit où son contenu est invisible pour les joueurs et joueuses.
 Rangez à portée de main les <strong>jetons d’information</strong>, de <strong>nuit</strong> et de <strong>voile</strong>, idéalement en bas à gauche de la page droite.
 </p>
 
@@ -89,11 +88,11 @@ Placez le plateau <strong>Town Square</strong> au centre.
 
 <h2 id="regles" style="color:#b58b52; font-weight:bold;">5 Lire les règles aux nouvelles personnes</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-La page des <a href="./regles.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">règles</a> contient l’essentiel pour commencer. 
+La page des <a href="./regles.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">règles</a> contient l’essentiel pour commencer.
 Lisez-la à voix haute ou laissez les joueurs et joueuses la parcourir en silence.
 </p>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Astuce pour conteur et conteuse : <strong>montrez les signaux de main</strong> pendant l’explication. 
+Astuce pour conteur et conteuse : <strong>montrez les signaux de main</strong> pendant l’explication.
 Une copie des règles figure aussi au dos de la feuille des Voyageurs, pratique quand vous terminez la mise en place.
 </p>
 
@@ -101,13 +100,16 @@ Une copie des règles figure aussi au dos de la feuille des Voyageurs, pratique 
 
 <h2 id="roles" style="color:#b58b52; font-weight:bold;">6 Choisir secrètement les rôles</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-À partir de l’édition choisie, sélectionnez le bon nombre de <a href="./villageois.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Villageois</a>, 
-d’<a href="./etrangers.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Étrangers</a>, 
-de <a href="./sbires.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sbires</a> et de <a href="./demons.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Démons</a> 
+À partir de l’édition choisie, sélectionnez le bon nombre de
+<a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>,
+d’<a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>,
+de <a href="./sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>
+et de <a href="./demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démons</a>
 en suivant la feuille de setup. Faites tout cela <strong>en secret</strong>.
 </p>
 <blockquote style="color:#e0c99d; font-size:18px; line-height:1.7; border-left:3px solid #b58b52; padding-left:12px;">
-Si vous avez plus de 15 personnes, les surplus deviennent des <a href="./voyageurs/voyageurs.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Voyageurs</a>.  
+Si vous avez plus de 15 personnes, les surplus deviennent des
+<a href="./voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a>.<br>
 Pour une première partie, évitez Voyageurs et Légendaires.
 </blockquote>
 
@@ -115,8 +117,8 @@ Pour une première partie, évitez Voyageurs et Légendaires.
 
 <h2 id="ajustements" style="color:#b58b52; font-weight:bold;">7 Ajouter ou retirer des rôles</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Certains jetons portent une <strong>fleur orange</strong> : ils modifient la composition du jeu 
-(par exemple le <a href="./tb_roles/baron.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Baron [+2 Étrangers]</a>). 
+Certains jetons portent une <strong>fleur orange</strong> : ils modifient la composition du jeu
+(par exemple le <a href="./tb_roles/baron.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Baron [+2 Étrangers]</a>).
 Appliquez ces changements immédiatement. Le total de jetons doit toujours correspondre au nombre de joueurs et joueuses.
 </p>
 
@@ -124,7 +126,7 @@ Appliquez ces changements immédiatement. Le total de jetons doit toujours corre
 
 <h2 id="rappels" style="color:#b58b52; font-weight:bold;">8 Ajouter les jetons de rappel</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Les jetons marqués de <strong>feuilles vertes</strong> indiquent combien de rappels placer dans le Grimoire. 
+Les jetons marqués de <strong>feuilles vertes</strong> indiquent combien de rappels placer dans le Grimoire.
 Exemple : l’<a href="./tb_roles/enqueteur.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Enquêteur</a> nécessite deux rappels de « suspects ».
 </p>
 
@@ -132,7 +134,7 @@ Exemple : l’<a href="./tb_roles/enqueteur.html" style="color:#d4a76a; font-wei
 
 <h2 id="distribution" style="color:#b58b52; font-weight:bold;">9 Distribuer les rôles</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Mélangez les jetons de rôle et placez-les dans le <strong>sac</strong>. 
+Mélangez les jetons de rôle et placez-les dans le <strong>sac</strong>.
 Chaque joueur ou joueuse tire un jeton <strong>en secret</strong> sans le montrer.
 </p>
 
@@ -140,7 +142,7 @@ Chaque joueur ou joueuse tire un jeton <strong>en secret</strong> sans le montre
 
 <h2 id="placer" style="color:#b58b52; font-weight:bold;">10 Placer les jetons dans le Grimoire</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Récupérez les jetons et disposez-les dans le Grimoire <strong>selon l’ordre des sièges</strong>. 
+Récupérez les jetons et disposez-les dans le Grimoire <strong>selon l’ordre des sièges</strong>.
 Vérifiez que l’ordre horaire affiché correspond à la disposition réelle du cercle.
 </p>
 
@@ -149,14 +151,13 @@ Vérifiez que l’ordre horaire affiché correspond à la disposition réelle du
 <h2 style="color:#ffa64d; font-weight:bold; font-size:24px;">📂 Navigation</h2>
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🍺 <a href="./trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌙 <a href="./bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>💐 <a href="./sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
+  <li>🍺 <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li>🌙 <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
+  <li>💐 <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
   <li>🧭 <a href="./regles.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Règles du jeu</a></li>
-  <li>🧑‍🌾 <a href="./villageois.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Villageois</a></li>
-  <li>🌀 <a href="./etrangers.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Étrangers</a></li>
-  <li>😈 <a href="./sbires.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sbires</a></li>
-  <li>👹 <a href="./demons.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Démons</a></li>
-  <li>🧳 <a href="./voyageurs/voyageurs.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Voyageurs</a></li>
+  <li>🧑‍🌾 <a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a></li>
+  <li>🌀 <a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a></li>
+  <li>😈 <a href="./sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a></li>
+  <li>👹 <a href="./demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démons</a></li>
+  <li>🧳 <a href="./voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a></li>
 </ul>
-
