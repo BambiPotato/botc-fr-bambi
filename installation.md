@@ -22,16 +22,16 @@ en suivant la feuille <em>Setup</em> du jeu. Elle s’adresse aux <strong>conteu
 
 <h2 style="color:#b58b52; font-weight:bold;">📋 Sommaire</h2>
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li><a href="#rassembler" style="color:#d4a76a; font-weight:bold; text-decoration:none;">1 Rassembler les joueurs et joueuses</a></li>
-  <li><a href="#grimoire" style="color:#d4a76a; font-weight:bold; text-decoration:none;">2 Préparer le Grimoire</a></li>
-  <li><a href="#edition" style="color:#d4a76a; font-weight:bold; text-decoration:none;">3 Choisir une édition</a></li>
-  <li><a href="#place" style="color:#d4a76a; font-weight:bold; text-decoration:none;">4 Installer la place du village</a></li>
-  <li><a href="#regles" style="color:#d4a76a; font-weight:bold; text-decoration:none;">5 Lire les règles aux nouvelles personnes</a></li>
-  <li><a href="#roles" style="color:#d4a76a; font-weight:bold; text-decoration:none;">6 Choisir secrètement les rôles</a></li>
-  <li><a href="#ajustements" style="color:#d4a76a; font-weight:bold; text-decoration:none;">7 Ajouter ou retirer des rôles</a></li>
-  <li><a href="#rappels" style="color:#d4a76a; font-weight:bold; text-decoration:none;">8 Ajouter les jetons de rappel</a></li>
-  <li><a href="#distribution" style="color:#d4a76a; font-weight:bold; text-decoration:none;">9 Distribuer les rôles</a></li>
-  <li><a href="#placer" style="color:#d4a76a; font-weight:bold; text-decoration:none;">10 Placer les jetons dans le Grimoire</a></li>
+  <li><a href="#rassembler" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">1 Rassembler les joueurs et joueuses</a></li>
+  <li><a href="#grimoire" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">2 Préparer le Grimoire</a></li>
+  <li><a href="#edition" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">3 Choisir une édition</a></li>
+  <li><a href="#place" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">4 Installer la place du village</a></li>
+  <li><a href="#regles" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">5 Lire les règles aux nouvelles personnes</a></li>
+  <li><a href="#roles" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">6 Choisir secrètement les rôles</a></li>
+  <li><a href="#ajustements" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">7 Ajouter ou retirer des rôles</a></li>
+  <li><a href="#rappels" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">8 Ajouter les jetons de rappel</a></li>
+  <li><a href="#distribution" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">9 Distribuer les rôles</a></li>
+  <li><a href="#placer" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">10 Placer les jetons dans le Grimoire</a></li>
 </ul>
 
 <hr>
@@ -88,7 +88,7 @@ Placez le plateau <strong>Town Square</strong> au centre.
 
 <h2 id="regles" style="color:#b58b52; font-weight:bold;">5 Lire les règles aux nouvelles personnes</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-La page des <a href="./regles.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">règles</a> contient l’essentiel pour commencer.
+La page des <a href="./regles.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">règles</a> contient l’essentiel pour commencer.
 Lisez-la à voix haute ou laissez les joueurs et joueuses la parcourir en silence.
 </p>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
@@ -127,7 +127,7 @@ Appliquez ces changements immédiatement. Le total de jetons doit toujours corre
 <h2 id="rappels" style="color:#b58b52; font-weight:bold;">8 Ajouter les jetons de rappel</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Les jetons marqués de <strong>feuilles vertes</strong> indiquent combien de rappels placer dans le Grimoire.
-Exemple : l’<a href="./tb_roles/enqueteur.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Enquêteur</a> nécessite deux rappels de « suspects ».
+Exemple : l’<a href="./tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Enquêteur</a> nécessite deux rappels de « suspects ».
 </p>
 
 <hr>
@@ -150,11 +150,11 @@ Vérifiez que l’ordre horaire affiché correspond à la disposition réelle du
 
 <h2 style="color:#ffa64d; font-weight:bold; font-size:24px;">📂 Navigation</h2>
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li>🏠 <a href="/botc-fr-bambi/" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
   <li>🍺 <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
   <li>🌙 <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
   <li>💐 <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
-  <li>🧭 <a href="./regles.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Règles du jeu</a></li>
+  <li>🧭 <a href="./regles.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Règles du jeu</a></li>
   <li>🧑‍🌾 <a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a></li>
   <li>🌀 <a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a></li>
   <li>😈 <a href="./sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a></li>
