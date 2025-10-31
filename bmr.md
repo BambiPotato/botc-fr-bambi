@@ -11,7 +11,6 @@ title: BMR
 
 <div class="page-bmr" markdown="1">
 
-
 <!-- 🌕 Logo centré cliquable -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./bmr.html" style="text-decoration:none;">
@@ -31,10 +30,10 @@ title: BMR
 
 1. [📖 Synopsis](#-synopsis)  
 2. [🎲 Gameplay](#-gameplay)  
-3. [Villageois](#villageois)  
-4. [Étrangers](#étrangers)  
-5. [Sbires](#sbires)  
-6. [Démons](#démons)  
+3. [<span style="color:blue;">Villageois</span>](#villageois)  
+4. [<span style="color:blue;">Étrangers</span>](#étrangers)  
+5. [<span style="color:red;">Sbires</span>](#sbires)  
+6. [<span style="color:red;">Démons</span>](#démons)  
 7. [📥 Télécharger & Imprimer](#-télécharger--imprimer)  
 
 ---
@@ -71,149 +70,149 @@ Ce soir, même le bétail sait qu’il y a… <strong><span style="color:#ffa64d
 </ul>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Heureusement, beaucoup d’options permettent de garder des joueurs en vie bien plus longtemps qu’ils ne l’auraient cru possible.<br>
-Mais si l’équipe du Bien ne parvient pas à identifier les Sbires et Démons précis en jeu, leur défaite est presque certaine.
+Heureusement, beaucoup d’options permettent de garder des joueurs et des joueuses en vie bien plus longtemps qu’ils ne l’auraient cru possible.<br>
+Mais si l’équipe du Bien ne parvient pas à identifier les Sbires et les Démons précis en jeu, sa défaite est presque certaine.
 </p>
 
 <p style="color:#ffa64d; font-size:19px; font-weight:bold;">
 👉 Niveau : <strong>Intermédiaire</strong><br>
-<em>*Recommandé pour les joueurs et joueuses proactif·ves, attentif·ves à la coopération d’équipe et qui n’ont pas peur de mourir.*</em>
+<em>*Recommandé pour les joueurs et les joueuses proactifs, attentifs à la coopération d’équipe et qui n’ont pas peur de mourir.*</em>
 </p>
 
 <hr>
 
-## [<span style="color:blue;">**Villageois**</span>](villageois.md)
+## <span id="villageois" style="color:blue;">**Villageois**</span>
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_grandmother.png" alt="Grand-Mère" width="300">](bmr_roles/grandmere.md)  
-  [**Grand-Mère**](bmr_roles/grandmere.md)
+  [<span style="color:blue; font-weight:bold;">Grand-Mère</span>](bmr_roles/grandmere.md)
 </div>
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_sailor.png" alt="Marin" width="300">](bmr_roles/marin.md)  
-  [**Marin**](bmr_roles/marin.md)
+  [<span style="color:blue; font-weight:bold;">Marin</span>](bmr_roles/marin.md)
 </div>
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_chambermaid.png" alt="Femme de Chambre" width="300">](bmr_roles/femmedechambre.md)  
-  [**Femme de Chambre**](bmr_roles/femmedechambre.md)
+  [<span style="color:blue; font-weight:bold;">Femme de Chambre</span>](bmr_roles/femmedechambre.md)
 </div>
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_exorcist.png" alt="Exorciste" width="300">](bmr_roles/exorciste.md)  
-  [**Exorciste**](bmr_roles/exorciste.md)
+  [<span style="color:blue; font-weight:bold;">Exorciste</span>](bmr_roles/exorciste.md)
 </div>
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_innkeeper.png" alt="Aubergiste" width="300">](bmr_roles/aubergiste.md)  
-  [**Aubergiste**](bmr_roles/aubergiste.md)
+  [<span style="color:blue; font-weight:bold;">Aubergiste</span>](bmr_roles/aubergiste.md)
 </div>
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_gambler.png" alt="Parieur" width="300">](bmr_roles/parieur.md)  
-  [**Parieur**](bmr_roles/parieur.md)
+  [<span style="color:blue; font-weight:bold;">Parieur</span>](bmr_roles/parieur.md)
 </div>
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_gossip.png" alt="Commère" width="300">](bmr_roles/commere.md)  
-  [**Commère**](bmr_roles/commere.md)
+  [<span style="color:blue; font-weight:bold;">Commère</span>](bmr_roles/commere.md)
 </div>
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_courtier.png" alt="Courtisan" width="300">](bmr_roles/courtisan.md)  
-  [**Courtisan**](bmr_roles/courtisan.md)
+  [<span style="color:blue; font-weight:bold;">Courtisan</span>](bmr_roles/courtisan.md)
 </div>
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_professor.png" alt="Professeur" width="300">](bmr_roles/professeur.md)  
-  [**Professeur**](bmr_roles/professeur.md)
+  [<span style="color:blue; font-weight:bold;">Professeur</span>](bmr_roles/professeur.md)
 </div>
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_minstrel.png" alt="Ménestrel" width="300">](bmr_roles/menestrel.md)  
-  [**Ménestrel**](bmr_roles/menestrel.md)
+  [<span style="color:blue; font-weight:bold;">Ménestrel</span>](bmr_roles/menestrel.md)
 </div>
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_tealady.png" alt="Dame de Thé" width="300">](bmr_roles/damedethe.md)  
-  [**Dame de Thé**](bmr_roles/damedethe.md)
+  [<span style="color:blue; font-weight:bold;">Dame de Thé</span>](bmr_roles/damedethe.md)
 </div>
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_fool.png" alt="Fou" width="300">](bmr_roles/fou.md)  
-  [**Fou**](bmr_roles/fou.md)
+  [<span style="color:blue; font-weight:bold;">Fou</span>](bmr_roles/fou.md)
 </div>
 
 ---
 
-## [<span style="color:blue;">**Étrangers**</span>](etrangers.md)
+## <span id="étrangers" style="color:blue;">**Étrangers**</span>
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_goon.png" alt="Brute" width="300">](bmr_roles/brute.md)  
-  [**Brute**](bmr_roles/brute.md)
+  [<span style="color:blue; font-weight:bold;">Brute</span>](bmr_roles/brute.md)
 </div>
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_lunatic.png" alt="Lunatique" width="300">](bmr_roles/lunatique.md)  
-  [**Lunatique**](bmr_roles/lunatique.md)
+  [<span style="color:blue; font-weight:bold;">Lunatique</span>](bmr_roles/lunatique.md)
 </div>
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_tinker.png" alt="Bricoleur" width="300">](bmr_roles/bricoleur.md)  
-  [**Bricoleur**](bmr_roles/bricoleur.md)
+  [<span style="color:blue; font-weight:bold;">Bricoleur</span>](bmr_roles/bricoleur.md)
 </div>
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_moonchild.png" alt="Enfant de la Lune" width="300">](bmr_roles/enfantdelalune.md)  
-  [**Enfant de la Lune**](bmr_roles/enfantdelalune.md)
+  [<span style="color:blue; font-weight:bold;">Enfant de la Lune</span>](bmr_roles/enfantdelalune.md)
 </div>
 
 ---
 
-## [<span style="color:red;">**Sbires**</span>](sbires.md)
+## <span id="sbires" style="color:red;">**Sbires**</span>
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_godfather.png" alt="Parrain" width="300">](bmr_roles/parrain.md)  
-  [<span style="color:red;">**Parrain**</span>](bmr_roles/parrain.md)
+  [<span style="color:red; font-weight:bold;">Parrain</span>](bmr_roles/parrain.md)
 </div>
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_devilsadvocate.png" alt="Avocat du Diable" width="300">](bmr_roles/avocatdudiable.md)  
-  [<span style="color:red;">**Avocat du Diable**</span>](bmr_roles/avocatdudiable.md)
+  [<span style="color:red; font-weight:bold;">Avocat du Diable</span>](bmr_roles/avocatdudiable.md)
 </div>
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_assassin.png" alt="Assassin" width="300">](bmr_roles/assassin.md)  
-  [<span style="color:red;">**Assassin**</span>](bmr_roles/assassin.md)
+  [<span style="color:red; font-weight:bold;">Assassin</span>](bmr_roles/assassin.md)
 </div>
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_mastermind.png" alt="Cerveau" width="300">](bmr_roles/cerveau.md)  
-  [<span style="color:red;">**Cerveau**</span>](bmr_roles/cerveau.md)
+  [<span style="color:red; font-weight:bold;">Cerveau</span>](bmr_roles/cerveau.md)
 </div>
 
 ---
 
-## [<span style="color:red;">**Démons**</span>](demons.md)
+## <span id="démons" style="color:red;">**Démons**</span>
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_zombuul.png" alt="Zombuul" width="300">](bmr_roles/zombuul.md)  
-  [<span style="color:red;">**Zombuul**</span>](bmr_roles/zombuul.md)
+  [<span style="color:red; font-weight:bold;">Zombuul</span>](bmr_roles/zombuul.md)
 </div>
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_pukka.png" alt="Pukka" width="300">](bmr_roles/pukka.md)  
-  [<span style="color:red;">**Pukka**</span>](bmr_roles/pukka.md)
+  [<span style="color:red; font-weight:bold;">Pukka</span>](bmr_roles/pukka.md)
 </div>
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_shabaloth.png" alt="Shabaloth" width="300">](bmr_roles/shabaloth.md)  
-  [<span style="color:red;">**Shabaloth**</span>](bmr_roles/shabaloth.md)
+  [<span style="color:red; font-weight:bold;">Shabaloth</span>](bmr_roles/shabaloth.md)
 </div>
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_po.png" alt="Po" width="300">](bmr_roles/po.md)  
-  [<span style="color:red;">**Po**</span>](bmr_roles/po.md)
+  [<span style="color:red; font-weight:bold;">Po</span>](bmr_roles/po.md)
 </div>
 
 ---
@@ -237,8 +236,11 @@ Ces ressources sont pratiques pour <strong>imprimer</strong> et <strong>jouer en
 </div>
 
 ---
+
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li>🏠 <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
-  <li>🍺 <a href="./trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>💐 <a href="./sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
+  <li>🍺 <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li>💐 <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
 </ul>
+
+</div>
