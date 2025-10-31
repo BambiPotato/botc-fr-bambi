@@ -34,7 +34,9 @@ Au fait… à quoi sert cette corde ? »
 
 ## 🎭 Apparaît dans  
 
+[<img src="/images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="200">](../trouble_brewing.md)  
 # 🍺 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
+
 
 ---
 
