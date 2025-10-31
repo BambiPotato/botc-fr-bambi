@@ -21,7 +21,7 @@ title: Gunslinger
 
 ## 🧭 Informations
 
-| Type | Édition | Illustrateur |
+| Type | Édition | Artiste |
 |:-----|:---------|:---------|
 | <span style="color:#9b59b6; font-weight:bold;">Voyageur</span> | <a href="../trouble_brewing.md" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a> | Aidan Roberts |
 
