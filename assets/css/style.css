@@ -243,3 +243,55 @@ h1, h2, h3, h4 {
    ========================================================= */
 @media (max-width: 900px) { .role-grid a { width: 40%; } }
 @media (max-width: 520px) { .role-grid a { width: 100%; } }
+
+/* =========================================================
+   PATCH ESPACEMENTS — SÛR & RÉVERSIBLE
+   ========================================================= */
+html, body {
+  overflow-x: hidden;
+}
+.page, .page-content, main, .wrapper, .content, #main {
+  padding-left: clamp(12px, 3vw, 24px);
+  padding-right: clamp(12px, 3vw, 24px);
+  box-sizing: border-box;
+}
+article, .post, .markdown-body, .page-content > div[markdown], .page-content > div[markdown="1"] {
+  max-width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 0.85em;
+  margin-bottom: 0.45em;
+}
+p, blockquote, pre, table, figure {
+  margin-top: 0.6em;
+  margin-bottom: 0.9em;
+}
+ul, ol {
+  padding-left: 1.25em;
+  margin-top: 0.4em;
+  margin-bottom: 0.8em;
+}
+img, video, canvas, svg {
+  max-width: 100%;
+  height: auto;
+}
+.home-card, .rules-cell, .card, .panel {
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
+@media (max-width: 720px) {
+  .page, .page-content, main, .wrapper, .content, #main {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  article, .post, .markdown-body {
+    max-width: 100%;
+  }
+}
+p[align="left"]::after {
+  content: "";
+  display: block;
+  clear: both;
+}
