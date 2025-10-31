@@ -106,10 +106,8 @@ Si le Bouc Émissaire est <span style="color:#d45b5b;">maléfique</span>, sa mor
 
 ---
 
-## 🗂️ Navigation
-
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
   <li>🍺 <a href="../trouble_brewing.md" style="color:#b58b52; font-weight:bold; text-decoration:none;">Retour à Trouble Brewing</a></li>
-  <li>🧳 <a href="./voyageurs.md" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Tous les Voyageurs</a></li>
-  <li>🏠 <a href="../index.md" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li>🧳 <a href="../voyageurs/voyageurs.md" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour à la liste des Voyageurs</a></li>
 </ul>
