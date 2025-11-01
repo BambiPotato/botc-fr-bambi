@@ -18,7 +18,7 @@ title: Lorics
   </a>
 </div>
 
-# 🌀 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Lorics</span>
+# 🌿 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Lorics</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Des règles qui bousculent le village et réécrivent la partie. »
