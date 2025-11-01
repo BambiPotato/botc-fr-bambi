@@ -19,7 +19,7 @@ Ils peuvent altérer la parole, les tours de jeu, la connaissance des rôles ou 
 
 | Icône | Nom du Loric | Description rapide |
 |:--:|:--|:--|
-| ![Big Wig](/images/Icon_bigwig.png) | [**Big Wig**](./lorics/bigwig.md) | Le « grand ponte » du village. Chaque joueur ou joueuse nommé·e choisit une personne pour parler à sa place — si elle n’est pas convaincante, elle risque sa vie. ⚖️ |
+| ![Big Wig](/images/Icon_big_wig.png) | [**Big Wig**](./lorics/bigwig.md) | Le « grand ponte » du village. Chaque joueur ou joueuse nommé·e choisit une personne pour parler à sa place — si elle n’est pas convaincante, elle risque sa vie. ⚖️ |
 | ![Tor](/images/Icon_tor.png) | [**Tor**](./lorics/tor.md) | Les joueurs et joueuses ne connaissent ni leur rôle ni leur alignement jusqu’à leur mort. Le chaos total règne dans le village. ⚡ |
 
 🔗 [Voir la liste complète des Lorics](./lorics.md)
