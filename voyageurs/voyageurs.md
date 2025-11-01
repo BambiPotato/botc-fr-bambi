@@ -13,15 +13,6 @@ title: Voyageurs
 # 🧳 Les Voyageurs  
  
 
-<p align="middle">
-  <a href="flingeur.md">
-    <img src="../images/Icon_gunslinger.png" alt="Gunslinger" width="300">
-  </a><br>
-  <a href="gunslinger.md"><b>Gunslinger</b></a>
-</p>
-
-
----
 
 ## 📖 Présentation  
 
@@ -35,7 +26,7 @@ Un Voyageur peut **rejoindre** la partie à tout moment, et **la quitter** à to
 
 ---
 
-## 📂 Contenu  
+ 
 
 1. [Trouble Brewing](#-trouble-brewing)  
 2. [Sects & Violets](#-sects--violets)  
