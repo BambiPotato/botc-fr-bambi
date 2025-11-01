@@ -14,7 +14,7 @@ title: Collecteur d’os
 <h1 style="color:#9b59b6; font-weight:bold; font-size:36px;">Collecteur d’os</h1>
 
 <p align="center">
-  <img src="../images/Icon_bone_collector.png" alt="Collecteur d’os" width="400" style="border-radius:12px; margin-top:10px;">
+  <img src="../images/Icon_bonecollector.png" alt="Collecteur d’os" width="400" style="border-radius:12px; margin-top:10px;">
 </p>
 
 ---
@@ -65,7 +65,7 @@ Le <strong>Collecteur d’os</strong> rend temporairement leur capacité aux jou
 
 ---
 
-## ⚙️ Fonctionnement (Conteur·euse)
+## 📖 Comment Conter
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Chaque nuit (sauf la première), réveillez le Collecteur d’os. Il/elle refuse (secoue la tête) ou pointe un joueur/une joueuse <strong>mort(e)</strong>. Rendormez-le/la.
