@@ -12,7 +12,7 @@ title: Lorics
 <!-- 🌿 Logo centré cliquable -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./loric.md" style="text-decoration:none;">
-    <img src="./images/Icon_loric.png" alt="Lorics" width="220" style="border-radius:12px;">
+    <img src="./images/Icon_loric.png" alt="Lorics" width="300" style="border-radius:12px;">
     <br>
     <span style="color:#b58b52; font-weight:bold; font-size:22px;">Lorics</span>
   </a>
