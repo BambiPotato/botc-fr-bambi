@@ -75,7 +75,7 @@ Après le premier vote d’exécution de la journée, quand le décompte est ann
 ## 💡 Exemples
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li>L’<span style="color:#d45b5b;">Imp</span> ( <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">fiche</a> ) est nommé.  
+  <li>L’<a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Imp</a> est nommé.  
   → Cinq personnes sur dix votent pour l’exécuter.  
   → Le Gunslinger choisit l’une des personnes ayant voté : elle meurt, mais l’Imp reste en attente d’exécution.</li>
 
