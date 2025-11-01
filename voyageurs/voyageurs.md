@@ -32,14 +32,16 @@ Un Voyageur peut **rejoindre** la partie à tout moment, et **la quitter** à to
 
 ## 🍺 Trouble Brewing
 
-<!-- Logo du module centré -->
+<!-- Logo du module centré + cliquable vers la racine -->
 <div style="text-align:center; margin: 12px 0 18px;">
-  <img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="200">
+  <a href="/trouble_brewing" style="text-decoration:none;">
+    <img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="200">
+  </a>
 </div>
 
 <!-- Carte Gunslinger centrée (image cliquable + titre centré) -->
 <div style="text-align:center; display:inline-block; margin: 10px 0;">
-  <a href="gunslinger.md" style="text-decoration:none;">
+  <a href="./gunslinger.md" style="text-decoration:none;">
     <img src="../images/Icon_gunslinger.png" alt="Gunslinger" width="300"><br>
     <span style="font-weight:bold;">Gunslinger</span>
   </a>
@@ -49,9 +51,11 @@ Un Voyageur peut **rejoindre** la partie à tout moment, et **la quitter** à to
 
 ## 🌸 Sects & Violets
 
-<!-- Logo du module centré -->
+<!-- Logo du module centré + cliquable vers la racine -->
 <div style="text-align:center; margin: 12px 0 18px;">
-  <img src="../images/Logo_sects_and_violets.png" alt="Sects & Violets" width="200">
+  <a href="/sv.md" style="text-decoration:none;">
+    <img src="../images/Logo_sects_and_violets.png" alt="Sects & Violets" width="200">
+  </a>
 </div>
 
 *(à venir)*  
@@ -60,20 +64,24 @@ Un Voyageur peut **rejoindre** la partie à tout moment, et **la quitter** à to
 
 ## 🌛 Bad Moon Rising
 
-<!-- Logo du module centré -->
+<!-- Logo du module centré + cliquable vers la racine -->
 <div style="text-align:center; margin: 12px 0 18px;">
-  <img src="../images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="200">
+  <a href="/bmr.md" style="text-decoration:none;">
+    <img src="../images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="200">
+  </a>
 </div>
 
 *(à venir)*  
 
 ---
 
-##  🎠 Expérimentaux
+## 🎠 Expérimentaux
 
-<!-- Logo / image pour la section Expérimentaux centré -->
+<!-- Logo / image pour la section Expérimentaux centré + cliquable vers la racine -->
 <div style="text-align:center; margin: 12px 0 18px;">
-  <img src="../images/carousel.png" alt="Expérimentaux" width="200">
+  <a href="/experimentaux.md" style="text-decoration:none;">
+    <img src="../images/carousel.png" alt="Expérimentaux" width="200">
+  </a>
 </div>
 
 *(à venir)*  
