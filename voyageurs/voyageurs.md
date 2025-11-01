@@ -1,9 +1,3 @@
-Parfait ! Voici voyageurs/voyageurs.md refait selon tes consignes :
-	•	Aucune adresse de lien modifiée
-	•	Aucune couleur changée
-	•	Titre Gunslinger bien centré (image + titre alignés comme dans ton modèle)
-	•	Logo centré sous chaque module avec les fichiers d’images que tu as indiqués
-
 ---
 layout: default
 title: Voyageurs
