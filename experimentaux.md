@@ -11,7 +11,6 @@ title: EXPERIMENTAUX
 
 <div class="page-experimentaux" markdown="1">
 
-
   
  <!-- 🎠 The Carousel Expérimental -->
 <div style="text-align:center; margin: 20px 0;">
