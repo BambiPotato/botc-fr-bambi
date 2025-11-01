@@ -9,7 +9,7 @@ title: Lorics
   </a>
 </p>
 
-<!-- 🌀 Logo centré cliquable -->
+<!-- 🌿 Logo centré cliquable -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./loric.md" style="text-decoration:none;">
     <img src="./images/Icon_loric.png" alt="Lorics" width="220" style="border-radius:12px;">
