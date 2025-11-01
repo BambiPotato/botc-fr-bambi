@@ -34,7 +34,7 @@ Un Voyageur peut **rejoindre** la partie à tout moment, et **la quitter** à to
 
 <!-- Logo du module centré -->
 <div style="text-align:center; margin: 12px 0 18px;">
-  <img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400">
+  <img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="200">
 </div>
 
 <!-- Carte Gunslinger centrée (image cliquable + titre centré) -->
@@ -51,7 +51,7 @@ Un Voyageur peut **rejoindre** la partie à tout moment, et **la quitter** à to
 
 <!-- Logo du module centré -->
 <div style="text-align:center; margin: 12px 0 18px;">
-  <img src="../images/Logo_sects_and_violets.png" alt="Sects & Violets" width="400">
+  <img src="../images/Logo_sects_and_violets.png" alt="Sects & Violets" width="200">
 </div>
 
 *(à venir)*  
@@ -62,7 +62,7 @@ Un Voyageur peut **rejoindre** la partie à tout moment, et **la quitter** à to
 
 <!-- Logo du module centré -->
 <div style="text-align:center; margin: 12px 0 18px;">
-  <img src="../images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="400">
+  <img src="../images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="200">
 </div>
 
 *(à venir)*  
@@ -73,7 +73,7 @@ Un Voyageur peut **rejoindre** la partie à tout moment, et **la quitter** à to
 
 <!-- Logo / image pour la section Expérimentaux centré -->
 <div style="text-align:center; margin: 12px 0 18px;">
-  <img src="../images/carousel.png" alt="Expérimentaux" width="400">
+  <img src="../images/carousel.png" alt="Expérimentaux" width="200">
 </div>
 
 *(à venir)*  
@@ -82,5 +82,3 @@ Un Voyageur peut **rejoindre** la partie à tout moment, et **la quitter** à to
 
 - 🏠 [Retour à l’accueil](../README.md)  
 - 📁 [Retour au sommaire principal](../blood_on_the_clocktower.md)
-
-Tu peux coller tel quel. Si tu veux que le logo de chaque module soit cliquable vers leur page respective, dis-moi simplement quelle URL tu souhaites pour chacun et je te fais la variante (en gardant bien sûr toutes les couleurs et liens existants inchangés).
