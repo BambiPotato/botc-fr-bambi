@@ -32,14 +32,10 @@ Un Voyageur peut **rejoindre** la partie à tout moment, et **la quitter** à to
 
 ## 🍺 Trouble Brewing
 
-<!-- Logo du module centré + cliquable -->
-<div style="text-align:center; margin: 12px 0 18px;">
-  <a href="/botc-fr-bambi/trouble_brewing.html" style="text-decoration:none;">
-    <img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="200">
-  </a>
-</div>
+<a href="/botc-fr-bambi/trouble_brewing.html" style="text-decoration:none;">
+  <img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="200" style="display:block; margin:10px 0;">
+</a>
 
-<!-- Carte Gunslinger centrée (image cliquable + titre centré) -->
 <div style="text-align:center; display:inline-block; margin: 10px 0;">
   <a href="./gunslinger.html" style="text-decoration:none;">
     <img src="../images/Icon_gunslinger.png" alt="Gunslinger" width="300"><br>
@@ -51,12 +47,9 @@ Un Voyageur peut **rejoindre** la partie à tout moment, et **la quitter** à to
 
 ## 🌸 Sects & Violets
 
-<!-- Logo du module centré + cliquable -->
-<div style="text-align:center; margin: 12px 0 18px;">
-  <a href="/botc-fr-bambi/sv.html" style="text-decoration:none;">
-    <img src="../images/Logo_sects_and_violets.png" alt="Sects & Violets" width="200">
-  </a>
-</div>
+<a href="/botc-fr-bambi/sv.html" style="text-decoration:none;">
+  <img src="../images/Logo_sects_and_violets.png" alt="Sects & Violets" width="200" style="display:block; margin:10px 0;">
+</a>
 
 *(à venir)*  
 
@@ -64,12 +57,9 @@ Un Voyageur peut **rejoindre** la partie à tout moment, et **la quitter** à to
 
 ## 🌛 Bad Moon Rising
 
-<!-- Logo du module centré + cliquable -->
-<div style="text-align:center; margin: 12px 0 18px;">
-  <a href="/botc-fr-bambi/bmr.html" style="text-decoration:none;">
-    <img src="../images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="200">
-  </a>
-</div>
+<a href="/botc-fr-bambi/bmr.html" style="text-decoration:none;">
+  <img src="../images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="200" style="display:block; margin:10px 0;">
+</a>
 
 *(à venir)*  
 
@@ -77,16 +67,15 @@ Un Voyageur peut **rejoindre** la partie à tout moment, et **la quitter** à to
 
 ## 🎠 Expérimentaux
 
-<!-- Logo / image pour la section Expérimentaux centré + cliquable -->
-<div style="text-align:center; margin: 12px 0 18px;">
-  <a href="/botc-fr-bambi/experimentaux.html" style="text-decoration:none;">
-    <img src="../images/carousel.png" alt="Expérimentaux" width="200">
-  </a>
-</div>
+<a href="/botc-fr-bambi/experimentaux.html" style="text-decoration:none;">
+  <img src="../images/carousel.png" alt="Expérimentaux" width="200" style="display:block; margin:10px 0;">
+</a>
 
 *(à venir)*  
 
 ---
 
-- 🏠 [Retour à l’accueil](../README.md)  
-- 📁 [Retour au sommaire principal](../blood_on_the_clocktower.md)
+<p style="text-align:left; font-size:18px; margin-top:20px;">
+🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+🧳 <a href="./voyageurs.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a>
+</p>
