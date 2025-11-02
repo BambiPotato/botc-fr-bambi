@@ -12,7 +12,7 @@ title: Cacklejack
 <!-- 🤖 Cacklejack -->
 
 <div style="text-align:center; margin: 20px 0;">
-  <img src="/images/Icon_cacklejack.png" alt="Cacklejack" width="360" style="border-radius:12px; margin-top:10px;">
+  <img src="/botc-fr-bambi/images/Icon_cacklejack.png" alt="Cacklejack" width="360" style="border-radius:12px; margin-top:10px;">
   <br>
   <span style="color:#9b59b6; font-weight:bold; font-size:28px;">Cacklejack</span>
 </div>
@@ -34,7 +34,7 @@ title: Cacklejack
 
 <p style="text-align:center; margin: 12px 0 6px;">
   <a href="/botc-fr-bambi/experimentaux.html" style="text-decoration:none;">
-    <img src="/images/carousel.png" alt="Rôles expérimentaux" width="220" style="border-radius:8px;">
+    <img src="/botc-fr-bambi/images/carousel.png" alt="Rôles expérimentaux" width="220" style="border-radius:8px;">
   </a>
 </p>
 
@@ -55,7 +55,7 @@ Chaque jour, il choisit un joueur immunisé. Cette nuit-là, le <strong>Conteur<
 
 ---
 
-## ⚙️ Fonctionnement (Conteur)
+## ⚙️ Comment Conter
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Chaque jour, le Cacklejack choisit un joueur. Marquez-le avec le rappel <strong>« PAS MOI »</strong>.</li>
