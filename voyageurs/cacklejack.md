@@ -17,6 +17,8 @@ title: Cacklejack
   <span style="color:#9b59b6; font-weight:bold; font-size:28px;">Cacklejack</span>
 </div>
 
+---
+
 ## 🧭 Informations
 - **Type :** <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>  
 - **Catégorie :** <a href="/botc-fr-bambi/experimentaux.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Rôles expérimentaux</a>  
@@ -27,6 +29,7 @@ title: Cacklejack
 </p>
 
 ---
+
 ## 🎭 Apparaît dans
 
 <p style="text-align:center; margin: 12px 0 6px;">
