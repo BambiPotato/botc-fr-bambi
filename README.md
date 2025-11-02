@@ -378,7 +378,7 @@
 
 <!-- ====== /GRID D'ACCUEIL ====== -->
 
-
+## 
 <!-- 🎭 Catégories -->
 <h2 style="color:#b58b52; font-weight:bold; font-size:22px; text-align:left;">🎭 Catégories</h2>
 
