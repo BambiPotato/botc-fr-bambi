@@ -5,111 +5,132 @@ title: Voudon
 
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="/images/logogold.png" alt="Accueil BotC FR" width="300">
+    <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
-# 🕯️ Voudon  
+<!-- 💀 Voudon -->
 
-[<img src="/images/Icon_voudon.png" alt="Voudon" width="400">](voudon.md)  
-[**Voudon**](voudon.md)
-
----
-
-## ℹ️ Informations  
-- **Type :** <span style="color:#9b59b6; font-weight:bold;">Voyageur</span>  
-- **Artiste :** Aidan Roberts  
-- *« Bien venu. Asseyez-vous. Respirez profondément. Entrez dans le royaume des morts. Voyez avec leurs yeux. Parlez avec leur voix. Une seule langue n’est jamais suffisante. »*
+<div style="text-align:center; margin: 20px 0;">
+  <img src="../images/Icon_voudon.png" alt="Voudon" width="360" style="border-radius:12px; margin-top:10px;">
+  <br>
+  <span style="color:#9b59b6; font-weight:bold; font-size:28px;">Voudon</span>
+</div>
 
 ---
 
-## 🎭 Apparaît dans  
+## 🧭 Informations
 
-[<img src="/images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="200">](../bmr.md)  
-# 🌙 <span style="color:#ffa64d; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
+- **Type :** <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>  
+- **Édition :** <a href="../bmr.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Bad Moon Rising</a>  
+- **Artiste :** <span style="color:#f5f5f5;">Aidan Roberts</span>
 
-*Cult of the Clocktower – épisode par Andrew Nathenson*
-
----
-
-## 📖 Résumé  
-
-**« Seuls vous et les morts pouvez voter. Les morts n’ont pas besoin de jeton de vote. La majorité de 50 % n’est plus requise. »**
-
-Le **Voudon** remet le **pouvoir de vote aux morts**, privant les vivants de toute influence.
-
-- Seuls **le Voudon et les morts** peuvent voter.  
-- Les morts peuvent voter **autant de fois qu’ils le souhaitent**, **sans utiliser leur jeton**.  
-- Les vivants **ne peuvent pas lever la main** pendant les votes.  
-- Le joueur ayant obtenu **le plus de votes** est exécuté — **même avec un seul vote**, si aucun autre n’en a plus.  
-- Le Voudon **ne change pas** qui peut nominer : seuls les vivants peuvent le faire.  
-- Les votes pour **l’exil** (concernant les Voyageurs) restent ouverts à tous, morts ou vivants.  
-- Si le Voudon est exilé, les règles de vote **redeviennent normales** immédiatement.  
+<p style="color:#f5f5f5; font-style:italic; font-size:17px; text-align:center;">
+« Bien venu. Asseyez-vous. Respirez profondément. Entrez dans le royaume des morts. Voyez avec leurs yeux. Parlez avec leur voix. Une seule langue n’est jamais suffisante. »
+</p>
 
 ---
 
-## 🎬 Mise en place & fonctionnement  
+## 🎭 Apparaît dans
 
-- Pendant les votes d’exécution, **seuls le Voudon et les morts lèvent la main**.  
-- Les morts votent même **sans jeton**, et ne le perdent jamais.  
-- Le joueur avec **le plus de votes** devient la cible de l’exécution jusqu’à ce qu’un autre dépasse ce score.  
-- Si le Voudon est exilé, le pouvoir de vote **revient instantanément** aux joueurs vivants.  
+<p style="text-align:center; margin: 12px 0 6px;">
+  <a href="../bmr.html" style="text-decoration:none;">
+    <img src="../images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="220" style="border-radius:8px;">
+  </a>
+</p>
 
----
-
-## 🧾 Exemples  
-
-- Il y a 12 joueurs vivants et 3 morts. Un **Aubergiste** nomine le **Lunatique**.  
-  → Parmi les quatre joueurs pouvant voter, trois votent. Aucun autre vote ne dépasse ce score : le **Lunatique meurt**.  
-- Au premier jour, **seul le Voudon** peut voter… mais il ne le fait pas.  
-  → Les joueurs votent pour l’exiler : 5 pour, 7 contre. Le Voudon **reste en jeu**.  
-- Deux morts votent pour exécuter le **Cerveau**.  
-  → Puis le Voudon, le **Fou** mort et le **Zombuul** apparemment mort votent pour le **Commerçant**.  
-  → Le **Commerçant** est exécuté.
+<p style="text-align:center;">
+  🌙 <a href="../bmr.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none; font-size:22px;">Bad Moon Rising</a>
+</p>
 
 ---
 
-## 💡 Conseils & Astuces (si vous êtes du <span style="color:#4ea3ff;">camp du Bien</span>)  
+## 📖 Résumé
 
-- Au **début de la partie**, vous êtes **très puissant** : le premier jour, **vous décidez seul** qui meurt.  
-  Utilisez cette opportunité pour **éliminer un joueur maléfique** si vous en soupçonnez un.  
-- Plus vous tuez de **maléfiques**, plus les morts maléfiques auront le droit de voter ensuite — un **effet pervers** !  
-  → Si vous pensez que les morts deviennent majoritairement maléfiques, **demandez votre exil**.  
-- À l’inverse, tuer quelques bons joueurs peut aussi **redonner du poids** au camp du Bien dans les votes ultérieurs.  
-  Mais assurez-vous que l’équipe du Bien **vous soutienne**, sinon elle vous exilera.  
-- À la fin de la partie, les **morts détiennent tout le pouvoir** :  
-  → Les vivants nominent, mais les morts décident du sort de la partie.  
-  → Parlez-leur, gagnez leur confiance et encouragez-les à voter de manière cohérente.  
-  → Des morts actifs font des bons choix, des morts passifs favorisent souvent le Mal.
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+« Seuls vous et les morts pouvez voter. Les morts n’ont pas besoin de jeton de vote. La majorité de 50&nbsp;% n’est plus requise. »
+</p>
 
----
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+Le <strong>Voudon</strong> rend le pouvoir aux morts, privant les vivants de toute influence.
+</p>
 
-## 💀 Conseils & Astuces (si vous êtes <span style="color:#d45b5b;">maléfique</span>)  
-
-- Au début, vous pouvez **choisir librement qui meurt**, car **vous êtes seul à voter**.  
-  → Utilisez ce pouvoir pour **tuer un joueur du Bien dangereux**.  
-- Profitez des **deux premiers jours** : vous avez encore une grande influence avant que trop de morts ne votent.  
-- Si les morts deviennent majoritairement bons, **faites-vous exiler** :  
-  → Les vivants reprendront le vote… donc **les maléfiques vivants** domineront de nouveau.  
-- Tuer quelques **alliés maléfiques** tôt peut être stratégique :  
-  → Les morts maléfiques continueront à voter, formant un **bloc de votes** difficile à contrer.  
-- Restez proche des morts : discutez avec eux, **dirigez leurs votes** subtilement.  
-  → Les vivants vous ignoreront souvent, mais les morts détiennent la vraie puissance.  
-  → Si vous devenez **le lien entre les morts**, ils suivront vos indications.  
-- Si vous jouez bien, même la mort devient un **outil de domination** pour votre camp.
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+  <li>Seuls le Voudon et les morts peuvent voter.</li>
+  <li>Les morts votent autant qu’ils le veulent, sans utiliser leur jeton.</li>
+  <li>Les vivants ne peuvent pas lever la main pour voter.</li>
+  <li>Le joueur ayant le plus de votes est exécuté, même avec un seul vote.</li>
+  <li>Les vivants peuvent toujours nominer.</li>
+  <li>Les votes pour exil restent ouverts à tous.</li>
+  <li>Si le Voudon est exilé, les règles de vote redeviennent normales.</li>
+</ul>
 
 ---
 
-## 📚 Rappels utiles  
+## 🎬 Mise en place & fonctionnement
 
-- Le Voudon peut être **exilé** comme tout Voyageur.  
-- Il **ne compte pas** pour la condition « il ne reste que 2 joueurs en vie ».  
-- Son effet reste actif **jusqu’à son exil ou sa mort**.
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+  <li>Pendant les votes d’exécution, seuls le Voudon et les morts lèvent la main.</li>
+  <li>Les morts votent librement, sans dépenser de jeton.</li>
+  <li>La personne ayant le plus de votes est exécutée jusqu’à ce qu’un autre dépasse ce score.</li>
+  <li>Si le Voudon est exilé, les vivants récupèrent immédiatement leur droit de vote.</li>
+</ul>
 
 ---
 
-<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌙 <a href="../bmr.md" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a></li>
-  <li>🧳 <a href="../voyageurs/voyageurs.md" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour à la liste des Voyageurs</a></li>
+## 🧾 Exemples
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+  <li>Il y a 12 vivants et 3 morts. Un <a href="../bmr_roles/aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a> nomine le <a href="../bmr_roles/lunatique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lunatique</a>.  
+  → Trois morts votent, aucun autre vote ne les dépasse&nbsp;: le Lunatique est exécuté.</li>
+
+  <li>Au premier jour, seul le Voudon peut voter… mais il s’abstient.  
+  → Les vivants votent pour l’exiler&nbsp;: 5 pour, 7 contre. Il reste en jeu.</li>
+
+  <li>Deux morts votent pour exécuter le <a href="../bmr_roles/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerveau</a>.  
+  → Puis le Voudon, le <a href="../bmr_roles/fou.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fou</a> mort et le <a href="../bmr_roles/zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> votent pour le <a href="../bmr_roles/commercant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Commerçant</a>.  
+  → Le Commerçant est exécuté.</li>
+</ul>
+
+---
+
+## 💡 Conseils et astuces (camp du <span style="color:#4ea3ff;">Bien</span>)
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+  <li>Au premier jour, vous décidez seul qui meurt&nbsp;: utilisez ce pouvoir pour viser un suspect.</li>
+  <li>Si beaucoup de morts deviennent maléfiques, demandez votre exil pour restaurer un vote plus sain.</li>
+  <li>Inversement, tuer quelques bons joueurs peut redonner du poids au Bien — avec prudence.</li>
+  <li>À la fin, les morts décident du sort du village&nbsp;: parlez-leur et coordonnez-les.</li>
+  <li>Des morts actifs aident le Bien&nbsp;; des morts silencieux favorisent le Mal.</li>
+</ul>
+
+---
+
+## 🔥 Conseils et astuces (camp du <span style="color:#d45b5b;">Mal</span>)
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+  <li>Au début, vous choisissez seul qui meurt&nbsp;: éliminez un rôle du Bien clé.</li>
+  <li>Profitez des deux premiers jours pour agir avant que les morts ne deviennent nombreux.</li>
+  <li>Si les morts sont bons, faites-vous exiler pour redonner le pouvoir aux vivants maléfiques.</li>
+  <li>Tuer quelques alliés maléfiques tôt crée un bloc de votes maléfique solide parmi les morts.</li>
+  <li>Restez en lien avec les morts et influencez leurs votes discrètement.</li>
+  <li>Joué habilement, votre pouvoir fait des morts vos meilleurs complices.</li>
+</ul>
+
+---
+
+## 📚 Rappels utiles
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+  <li>Le Voudon peut être exilé comme tout Voyageur.</li>
+  <li>Il ne compte pas pour la condition « il ne reste que 2 joueurs en vie ».</li>
+  <li>Son effet dure jusqu’à sa mort ou son exil.</li>
+</ul>
+
+---
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li>🌙 <a href="../bmr.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a></li>
+  <li>🧳 <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
 </ul>
