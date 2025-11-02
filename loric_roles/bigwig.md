@@ -58,7 +58,7 @@ title: Big Wig
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong>Cédric</strong> prétend être le <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a> et est nommé. Il choisit <strong>Leelou</strong> pour parler. Leelou défend son innocence et propose d’exécuter <strong>Nicolas</strong> à la place. Leelou survit.<br><br>
-<strong>Vanessa</strong> est <a href="../expeirmentaux_roles/ermite.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ermite</a> mais ne l’a pas dit. Nommée, elle choisit <strong>Céline</strong> comme défense. Céline affirme que Vanessa est probablement une <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> et la persuade d’être dangereuse. Céline meurt à cause du pouvoir du Big Wig.
+<strong>Vanessa</strong> est <a href="../roles_experimentaux/ermite.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ermite</a> mais ne l’a pas dit. Nommée, elle choisit <strong>Céline</strong> comme défense. Céline affirme que Vanessa est probablement une <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> et la persuade d’être dangereuse. Céline meurt à cause du pouvoir du Big Wig.
 </p>
 
 ---
