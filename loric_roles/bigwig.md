@@ -77,9 +77,9 @@ Le silence prend fin au moment du vote.
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong>Cédric</strong> prétend être le <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a> et est nommé.  
-Il choisit <strong>Leelou</strong> pour parler.  
-Leelou défend son innocence et propose d’exécuter <strong>Nicolas</strong> à la place. Leelou survit.<br><br>
-<strong>Vanessa</strong> est <a href="../roles_experimentaux/ermite.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ermite</a> mais ne l’a pas dit.  
+Il choisit <strong>Alexandre</strong> pour parler.  
+Alexandre défend son innocence et propose d’exécuter <strong>Nicolas</strong> à la place. Alexandre survit.<br><br>
+<strong>Vanessa</strong> est l' <a href="../roles_experimentaux/ermite.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ermite</a> mais ne l’a pas dit.  
 Nommée, elle choisit <strong>Céline</strong> pour parler. Céline déclare que Vanessa est probablement une <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> et qu’il n’est pas grave qu’elle meure.  
 Céline meurt à cause du pouvoir du Big Wig.
 </p>
