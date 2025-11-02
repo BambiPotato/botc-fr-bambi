@@ -89,7 +89,7 @@ Si cet <em>amigo</em> est nominé, le Gnome peut choisir de tuer le nominant imm
   Le Conteur annonce qu’ils partagent le même alignement.  
   Le <a href="../experimentaux_roles/boffin.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boffin</a> nomine Louis : le Gnome le tue.  
     
-  Le lendemain, le <a href="../experimentaux_roles/zealot.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Zélote</a> nomine Louis : le Gnome le tue aussi.  
+ - Le lendemain, le <a href="../experimentaux_roles/zealot.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Zélote</a> nomine Louis : le Gnome le tue aussi.  
   Le jour suivant, l’<a href="../experimentaux_roles/idiot_du_village.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Idiot du Village</a> nomine Louis : le Gnome ne fait rien.</li>
 </ul>
 
