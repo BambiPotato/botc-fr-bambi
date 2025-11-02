@@ -30,8 +30,7 @@ title: Lorics
 
 1. [Présentation](#1-présentation)  
 2. [Lorics](#2-lorics)  
-3. [Navigation](#3-navigation)  
-
+ 
 ---
 
 ## 1. Présentation
@@ -64,9 +63,8 @@ Là où les <em>Fabled</em> corrigent les problèmes, <strong>les Lorics</strong
 
 ---
 
-## 3. Navigation
 
-<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<ul style="color:#e0c99d; font-size:13px; line-height:1.7;">
   <li>🏠 <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
   <li>🧳 <a href="./voyageurs.md" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Voyageurs</a></li>
   <li>🧪 <a href="./roles_experimentaux.md" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Rôles expérimentaux</a></li>
