@@ -27,14 +27,24 @@ title: Big Wig
 
 ---
 
+## 🧾 <span style="color:#7fd1ae;">Informations</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li><strong>Type :</strong> Loric</li>
+  <li><strong>Artiste :</strong> <em>Chloe McDougall</em></li>
+  <li><strong>Révélé :</strong> 25 octobre 2025</li>
+</ul>
+
+---
+
 ## 📖 <span style="color:#7fd1ae;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>Chaque personne nommée choisit un joueur ou une joueuse : jusqu’au vote, seul ce joueur peut parler, et il est <em>Fou</em> que la personne nommée soit gentille&nbsp;; sinon, il pourrait mourir.</strong>
+<strong>Chaque personne nommée choisit un joueur : jusqu’au vote, seul ce joueur peut parler, et il est <em>Fou</em> que la personne nommée soit gentille ; sinon, il pourrait mourir.</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Big Wig</strong> donne à chaque personne nommée un véritable <em>avocat de la défense</em>.
+Le <strong>Big Wig</strong> donne aux personnes nommées un véritable <em>avocat de la défense</em>.
 </p>
 
 ---
@@ -43,12 +53,11 @@ Le <strong>Big Wig</strong> donne à chaque personne nommée un véritable <em>a
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Quand une personne est nommée, elle choisit un joueur (vivant ou mort) pour parler en son nom.</li>
-  <li>Pendant cette période, seuls le défenseur et le conteur peuvent parler. Même la personne nommée doit rester silencieuse.</li>
-  <li>Si nécessaire, le conteur peut s’aider du <a href="../tb_roles/bibliothecaire_enfer.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Bibliothécaire de l’Enfer</a> pour faire respecter le silence.</li>
-  <li>Si le défenseur est <strong>Fou que la personne nommée soit maléfique</strong>, ou pas assez <strong>Fou qu’elle soit gentille</strong>, il peut mourir.</li>
+  <li>Pendant cette période, seul le défenseur choisi peut parler ; même la personne nommée doit rester silencieuse.</li>
+  <li>Si le défenseur est Fou que la personne nommée soit maléfique, ou pas assez Fou qu’elle soit gentille, il peut mourir.</li>
   <li>Être Fou que « la personne nommée ne devrait pas être exécutée » peut suffire à éviter la mort.</li>
-  <li>Le conteur indique clairement quand la période de silence commence et se termine (au moment du vote).</li>
-  <li>Le défenseur conserve son droit de vote et peut voter pour ou contre la personne nommée.</li>
+  <li>Le conteur annonce clairement le début et la fin de la période de silence (elle se termine au moment du vote).</li>
+  <li>Le défenseur garde son droit de vote.</li>
 </ul>
 
 ---
@@ -56,9 +65,10 @@ Le <strong>Big Wig</strong> donne à chaque personne nommée un véritable <em>a
 ## 🎭 <span style="color:#7fd1ae;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Chaque fois qu’une personne est nommée, demandez-lui de choisir un joueur. Déclarez que seul ce joueur est autorisé à parler jusqu’au vote.  
-Pendant ce temps, si ce joueur n’est pas Fou que la personne nommée soit gentille, il peut être exécuté par votre décision.  
-La période de silence s’achève dès que le vote commence.
+À chaque nomination, demandez à la personne nommée de choisir son défenseur.  
+Déclarez que seul ce joueur peut parler jusqu’au vote.  
+S’il ne défend pas la personne nommée comme si elle était gentille, vous pouvez le faire mourir.  
+Le silence prend fin au moment du vote.
 </p>
 
 ---
@@ -66,11 +76,11 @@ La période de silence s’achève dès que le vote commence.
 ## 🧩 <span style="color:#7fd1ae;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>Cédric</strong> prétend être le <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a> et est nommé. Il choisit <strong>Leelou</strong> pour parler.  
-Leelou fait une défense convaincante en affirmant que Cédric est bien le Marin, et propose d’exécuter <strong>Nicolas</strong> à la place.  
-Leelou survit.<br><br>
+<strong>Cédric</strong> prétend être le <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a> et est nommé.  
+Il choisit <strong>Leelou</strong> pour parler.  
+Leelou défend son innocence et propose d’exécuter <strong>Nicolas</strong> à la place. Leelou survit.<br><br>
 <strong>Vanessa</strong> est <a href="../roles_experimentaux/ermite.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ermite</a> mais ne l’a pas dit.  
-Nommée, elle choisit <strong>Céline</strong> pour la défendre. Céline déclare que Vanessa est probablement une <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> et qu’il n’est pas grave qu’elle meure.  
+Nommée, elle choisit <strong>Céline</strong> pour parler. Céline déclare que Vanessa est probablement une <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> et qu’il n’est pas grave qu’elle meure.  
 Céline meurt à cause du pouvoir du Big Wig.
 </p>
 
