@@ -250,130 +250,67 @@
 
 ## <span style="color:#b58b52; font-weight:bold; font-size:22px;">👺 Rôles par Édition</span>
 
-<style>
-  /* Lignes contrôlées : 3 puis 2 puis 2 */
-  .home-grid-3, .home-grid-2 {
-    display: grid;
-    gap: 28px;
-    justify-items: center;
-    align-items: start;
-    margin: 26px auto 10px auto;
-  }
-  .home-grid-3 { grid-template-columns: repeat(3, minmax(220px, 1fr)); max-width: 1100px; }
-  .home-grid-2 { grid-template-columns: repeat(2, minmax(220px, 1fr)); max-width: 740px; }
+<!-- Ligne 1 : TB / BMR / SV -->
+<table style="width:100%; text-align:center; border-collapse:separate; border-spacing:18px 10px;">
+  <tr>
+    <td>
+      <a href="./trouble_brewing.html">
+        <img src="./images/Logo_trouble_brewing.png" alt="Trouble Brewing" style="display:block; margin:0 auto; height:180px; width:auto; background:rgba(0,0,0,0.25); padding:6px; border-radius:10px;">
+      </a>
+      <a href="./trouble_brewing.html" style="display:inline-block; margin-top:8px; color:#b58b52; font-weight:700; font-size:20px; text-decoration:none;">🍺 Trouble Brewing</a>
+    </td>
+    <td>
+      <a href="./bmr.html">
+        <img src="./images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" style="display:block; margin:0 auto; height:180px; width:auto; background:rgba(0,0,0,0.25); padding:6px; border-radius:10px;">
+      </a>
+      <a href="./bmr.html" style="display:inline-block; margin-top:8px; color:#b58b52; font-weight:700; font-size:20px; text-decoration:none;">🌛 Bad Moon Rising</a>
+    </td>
+    <td>
+      <a href="./sv.html">
+        <img src="./images/Logo_sects_and_violets.png" alt="Sects &amp; Violets" style="display:block; margin:0 auto; height:180px; width:auto; background:rgba(0,0,0,0.25); padding:6px; border-radius:10px;">
+      </a>
+      <a href="./sv.html" style="display:inline-block; margin-top:8px; color:#b58b52; font-weight:700; font-size:20px; text-decoration:none;">🌸 Sects &amp; Violets</a>
+    </td>
+  </tr>
+</table>
 
-  /* Responsive */
-  @media (max-width: 980px) {
-    .home-grid-3 { grid-template-columns: repeat(2, minmax(220px, 1fr)); max-width: 740px; }
-  }
-  @media (max-width: 640px) {
-    .home-grid-3, .home-grid-2 { grid-template-columns: 1fr; max-width: 420px; }
-  }
+<!-- Ligne 2 : Voyageurs / Expérimental -->
+<table style="width:100%; text-align:center; border-collapse:separate; border-spacing:18px 10px;">
+  <tr>
+    <td>
+      <a href="./voyageurs/voyageurs.html">
+        <img src="./images/Generic_traveller.png" alt="Voyageurs" style="display:block; margin:0 auto; height:180px; width:auto; background:rgba(0,0,0,0.25); padding:6px; border-radius:10px;">
+      </a>
+      <a href="./voyageurs/voyageurs.html" style="display:inline-block; margin-top:8px; color:#b58b52; font-weight:700; font-size:20px; text-decoration:none;">🚶 Voyageurs</a>
+    </td>
+    <td>
+      <a href="./roles_experimentaux.html">
+        <img src="./images/carousel.png" alt="The Carousel Expérimental" style="display:block; margin:0 auto; height:180px; width:auto; background:rgba(0,0,0,0.25); padding:6px; border-radius:10px;">
+      </a>
+      <a href="./roles_experimentaux.html" style="display:inline-block; margin-top:8px; color:#b58b52; font-weight:700; font-size:20px; text-decoration:none;">🎠 The Carousel Expérimental</a>
+      <div style="margin:6px 0 0 0; font-size:12px; color:#d4a76a; display:inline-block; padding:2px 8px; border:1px solid rgba(212,167,106,0.45); border-radius:999px; opacity:.85;">à venir</div>
+    </td>
+  </tr>
+</table>
 
-  /* Carte (plus aucun <div> à l’intérieur des <a>) */
-  .home-card {
-    display: inline-block;
-    width: 100%;
-    max-width: 320px;
-    text-align: center;
-    border-radius: 14px;
-    overflow: hidden;
-    border: 1px solid rgba(181,139,82,0.28);
-    background: rgba(255,255,255,0.02);
-    box-shadow: 0 6px 18px rgba(0,0,0,0.28);
-    transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease, background .18s ease;
-  }
-  .home-card:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 10px 24px rgba(0,0,0,0.38);
-    border-color: rgba(212,167,106,0.55);
-    background: rgba(255,255,255,0.04);
-  }
-
-  /* Image : taille perçue uniforme (même hauteur partout) */
-  .home-card img {
-    display: block;
-    height: 180px;           /* <<< uniformisation visuelle */
-    width: auto;
-    margin: 8px auto 0 auto; /* centrage */
-    object-fit: contain;     /* pas de déformation */
-    background: rgba(0,0,0,0.25);
-    padding: 8px;
-  }
-
-  /* Titre sous l'image */
-  .home-title {
-    display: inline-block;
-    padding: 10px 10px 12px 10px;
-    color: #b58b52;
-    font-weight: 700;
-    font-size: 20px;
-    text-decoration: none;
-    letter-spacing: .2px;
-    min-height: 54px;        /* stabilité sur 1–2 lignes */
-  }
-
-  .badge-pending {
-    display: inline-block;
-    margin: 2px 0 12px 0;
-    padding: 2px 8px;
-    font-size: 12px;
-    color: #d4a76a;
-    border: 1px solid rgba(212,167,106,0.45);
-    border-radius: 999px;
-    opacity: .85;
-  }
-</style>
-
-<!-- 1) Ligne 1 : TB / BMR / SV -->
-<div class="home-grid-3">
-
-  <div class="home-card">
-    <a href="./trouble_brewing.html"><img src="./images/Logo_trouble_brewing.png" alt="Trouble Brewing"></a>
-    <a class="home-title" href="./trouble_brewing.html">🍺 Trouble Brewing</a>
-  </div>
-
-  <div class="home-card">
-    <a href="./bmr.html"><img src="./images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising"></a>
-    <a class="home-title" href="./bmr.html">🌛 Bad Moon Rising</a>
-  </div>
-
-  <div class="home-card">
-    <a href="./sv.html"><img src="./images/Logo_sects_and_violets.png" alt="Sects &amp; Violets"></a>
-    <a class="home-title" href="./sv.html">🌸 Sects &amp; Violets</a>
-  </div>
-
-</div>
-
-<!-- 2) Ligne 2 : Voyageurs / Expérimental -->
-<div class="home-grid-2">
-
-  <div class="home-card">
-    <a href="./voyageurs/voyageurs.html"><img src="./images/Generic_traveller.png" alt="Voyageurs"></a>
-    <a class="home-title" href="./voyageurs/voyageurs.html">🚶 Voyageurs</a>
-  </div>
-
-  <div class="home-card">
-    <a href="./roles_experimentaux.html"><img src="./images/carousel.png" alt="The Carousel Expérimental"></a>
-    <a class="home-title" href="./roles_experimentaux.html">🎠 The Carousel Expérimental</a>
-    <span class="badge-pending">à venir</span>
-  </div>
-
-</div>
-
-<!-- 3) Ligne 3 : Légendaires / Lorics -->
-<div class="home-grid-2">
-
-  <div class="home-card">
-    <a href="#" onclick="return false;"><img src="./images/Generic_fabled.png" alt="Légendaires" style="opacity:.55; filter: grayscale(20%);"></a>
-    <a class="home-title" href="#" onclick="return false;">🏰 Légendaires</a>
-    <span class="badge-pending">à venir</span>
-  </div>
-
-  <div class="home-card">
-    <a href="./loric.html"><img src="./images/Icon_loric.png" alt="Lorics"></a>
-    <a class="home-title" href="./loric.html">🌿 Lorics</a>
-  </div>
+<!-- Ligne 3 : Légendaires / Lorics -->
+<table style="width:100%; text-align:center; border-collapse:separate; border-spacing:18px 10px;">
+  <tr>
+    <td>
+      <span>
+        <img src="./images/Generic_fabled.png" alt="Légendaires" style="display:block; margin:0 auto; height:180px; width:auto; background:rgba(0,0,0,0.25); padding:6px; border-radius:10px; opacity:.55; filter:grayscale(20%);">
+      </span>
+      <span style="display:inline-block; margin-top:8px; color:#b58b52; font-weight:700; font-size:20px;">🏰 Légendaires</span>
+      <div style="margin:6px 0 0 0; font-size:12px; color:#d4a76a; display:inline-block; padding:2px 8px; border:1px solid rgba(212,167,106,0.45); border-radius:999px; opacity:.85;">à venir</div>
+    </td>
+    <td>
+      <a href="./loric.html">
+        <img src="./images/Icon_loric.png" alt="Lorics" style="display:block; margin:0 auto; height:180px; width:auto; background:rgba(0,0,0,0.25); padding:6px; border-radius:10px;">
+      </a>
+      <a href="./loric.html" style="display:inline-block; margin-top:8px; color:#b58b52; font-weight:700; font-size:20px; text-decoration:none;">🌿 Lorics</a>
+    </td>
+  </tr>
+</table>
 
 
 <!-- ====== /GRID D'ACCUEIL ====== -->
