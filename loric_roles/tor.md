@@ -1,0 +1,90 @@
+---
+layout: default
+title: Tor 
+---
+
+<p align="left">
+  <a href="/botc-fr-bambi/">
+    <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
+  </a>
+</p>
+
+<!-- Tor -->
+
+<div style="text-align:center; margin: 20px 0;">
+  <a href="./tor.html" style="text-decoration:none;">
+    <img src="../images/Icon_tor.png" alt="Tor" width="260" style="border-radius:12px;">
+    <br>
+    <span style="color:#7fd1ae; font-weight:bold; font-size:22px;">Tor</span>
+  </a>
+</div>
+
+# ⚡️ <span style="color:#7fd1ae; font-weight:bold; font-size:42px;">Tor</span>
+
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+  « Avec le tonnerre pour voix et l’éclair pour lame, je suis le gardien éternel. Quiconque ose franchir la porte interdite sera frappé. Mon but : purger le scarabée des entrailles de la terre, l’enfermer dans un filet d’étoiles, là où le ciel touche la pierre. »
+</p>
+
+---
+
+## 🧾 <span style="color:#7fd1ae;">Informations</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li><strong>Type :</strong> Loric</li>
+  <li><strong>Artiste :</strong> <em>Chloe McDougall</em></li>
+  <li><strong>Révélé :</strong> 25 octobre 2025</li>
+</ul>
+
+---
+
+## 📖 <span style="color:#7fd1ae;">Résumé</span>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<strong>Les joueurs ne connaissent pas leur rôle ni leur alignement. Ils les apprennent lorsqu’ils meurent.</strong>
+</p>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+Tor supprime toute connaissance de « qui est qui » pendant la partie.
+</p>
+
+---
+
+## ⚖️ <span style="color:#7fd1ae;">Détails</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>Les joueurs ne savent pas quel rôle ils incarnent.</li>
+  <li>Lors de la mise en place, le conteur tire les jetons et les place directement dans le Grimoire ; les joueurs ne piochent pas eux-mêmes.</li>
+  <li>Les capacités de rôle fonctionnent normalement. Les joueurs sont réveillés pour agir si besoin.</li>
+  <li>Quand un joueur meurt, il apprend son rôle et son alignement. Cette information est toujours correcte, même s’il était saoul ou empoisonné.</li>
+  <li>Le <span style="color:#d45b5b;">Démon</span> et les <span style="color:#d45b5b;">Sbires</span> ne se connaissent pas.</li>
+</ul>
+
+---
+
+## 🎭 <span style="color:#7fd1ae;">Comment Conter</span>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+Pendant la préparation, ne fais pas circuler le sac. Tire les rôles toi-même et place-les dans le Grimoire.  
+Si un joueur meurt de jour, annonce-lui en privé son rôle et son alignement.  
+S’il meurt de nuit, réveille-le et montre-lui successivement le jeton « VOUS ÊTES », son jeton de rôle, le jeton « VOUS ÊTES », puis un pouce levé (Bien) ou baissé (Maléfique).
+</p>
+
+---
+
+## 🧩 <span style="color:#7fd1ae;">Exemples</span>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+Julian, Cédric, Evin, Lachlan, Sarah, Marianna et Amy ne connaissent pas leurs rôles.  
+Evin est réveillé chaque nuit et voit un pouce levé sans savoir pourquoi.  
+Sarah et Amy sont réveillées chaque nuit pour choisir un joueur, sans savoir pourquoi.  
+Sarah est exécutée : elle apprend qu’elle est la <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> du Bien.  
+Lachlan, croyant être le <a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a>, le dit publiquement et choisit Amy : Amy meurt.  
+Evin était le Général, Lachlan le Mercenaire, et Amy l’<a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Imp</a>.
+</p>
+
+---
+
+<p style="text-align:left; font-size:18px; margin-top:20px;">
+🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+🟢 <a href="../loric_roles.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Retour aux rôles Loric</a>
+</p>
