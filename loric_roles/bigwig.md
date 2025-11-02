@@ -87,6 +87,6 @@ Céline meurt à cause du pouvoir du Big Wig.
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-🟢 <a href="../loric_roles.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Retour aux rôles Loric</a>
+  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+  🌿 <a href="../loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Retour aux rôles Loric</a>
 </p>
