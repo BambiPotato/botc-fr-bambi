@@ -12,7 +12,7 @@ title: Harlot
 <!-- 💋 Harlot -->
 
 <div style="text-align:center; margin: 20px 0;">
-  <img src="/images/Icon_harlot.png" alt="Harlot" width="360" style="border-radius:12px; margin-top:10px;">
+  <img src="../images/Icon_harlot.png" alt="Harlot" width="360" style="border-radius:12px; margin-top:10px;">
   <br>
   <span style="color:#9b59b6; font-weight:bold; font-size:28px;">Harlot</span>
 </div>
@@ -34,7 +34,7 @@ title: Harlot
 
 <p style="text-align:center; margin: 12px 0 6px;">
   <a href="/botc-fr-bambi/sv.html" style="text-decoration:none;">
-    <img src="/images/Logo_sects_and_violets.png" alt="Sects & Violets" width="220" style="border-radius:8px;">
+    <img src="../images/Logo_sects_and_violets.png" alt="Sects & Violets" width="220" style="border-radius:8px;">
   </a>
 </p>
 
@@ -59,7 +59,7 @@ Le Harlot ne découvre jamais l’alignement, uniquement le <em>rôle</em>.
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Chaque nuit, réveillez la Harlot : elle pointe une personne vivante. Rendormez la Harlot.</li>
-  <li>Réveillez la personne choisie, montrez le rappel « CETTE PERSONNE T’A CHOISI(E) », puis le jeton voyageur **Harlot**. Elle répond par oui/non.</li>
+  <li>Réveillez la personne choisie, montrez le rappel « CETTE PERSONNE T’A CHOISI(E) », puis le jeton voyageur <strong>Harlot</strong>. Elle répond par oui/non.</li>
   <li>Si elle dit <strong>non</strong> : rien ne se passe.</li>
   <li>Si elle dit <strong>oui</strong> : réveillez la Harlot et montrez le <strong>jeton de rôle</strong> de la personne. Vous pouvez décider que <strong>les deux meurent cette nuit</strong> (marquez-les morts).</li>
   <li>Décidez les morts éventuelles selon l’intérêt et l’équilibre de la partie ; éviter de terminer la partie en tuant un Démon qui se serait révélé.</li>
@@ -78,7 +78,7 @@ Le Harlot ne découvre jamais l’alignement, uniquement le <em>rôle</em>.
 
 ## 💡 Conseils & astuces (si vous êtes <span style="color:#4ea3ff;">Bon</span>)
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7%;">
   <li>En début de partie, essayez d’apprendre <strong>le plus de rôles possible</strong> en peu de nuits : même si vous mourez, votre information reste précieuse.</li>
   <li>Plus la partie avance, plus vous devez être <strong>prudent</strong> : une mort de trop peut tout faire basculer.</li>
   <li>L’information vaut souvent plus que la survie. Expliquez-le au groupe pour obtenir des volontaires.</li>
@@ -93,7 +93,7 @@ Le Harlot ne découvre jamais l’alignement, uniquement le <em>rôle</em>.
 
 ## 😈 Conseils & astuces (si vous êtes <span style="color:#d45b5b;">Maléfique</span>)
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7%;">
   <li>En début de partie, ciblez le <strong>Démon</strong> pour lui signaler subtilement que vous êtes de son côté (sans chuchoter). Le Conteur n’achève pas la partie en tuant le Démon via votre capacité.</li>
   <li>En fin de partie, cherchez à <strong>provoquer une mort nocturne</strong> pour influencer le dernier jour.</li>
   <li>Marteler que « l’information prime sur la mort » peut vous garder en vie tout en orientant les votes.</li>
@@ -104,7 +104,7 @@ Le Harlot ne découvre jamais l’alignement, uniquement le <em>rôle</em>.
 
 ---
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7%;">
   <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
   <li>🌸 <a href="/botc-fr-bambi/sv.html" style="color:#67bfff; font-weight:bold; text-decoration:none;">Retour à Sects & Violets</a></li>
   <li>🧳 <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
