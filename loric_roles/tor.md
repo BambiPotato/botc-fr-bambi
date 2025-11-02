@@ -74,12 +74,12 @@ S’il meurt de nuit, réveille-le et montre-lui successivement le jeton « VOUS
 ## 🧩 <span style="color:#7fd1ae;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Julian, Cédric, Evin, Lachlan, Sarah, Marianna et Amy ne connaissent pas leurs rôles.  
-Evin est réveillé chaque nuit et voit un pouce levé sans savoir pourquoi.  
-Sarah et Amy sont réveillées chaque nuit pour choisir un joueur, sans savoir pourquoi.  
-Sarah est exécutée : elle apprend qu’elle est la <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> du Bien.  
-Lachlan, croyant être le <a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a>, le dit publiquement et choisit Amy : Amy meurt.  
-Evin était le Général, Lachlan le Mercenaire, et Amy l’<a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Imp</a>.
+Julien, Cédric, Kyllian, Laura, Sarah, Marie et Amélie ne connaissent pas leurs rôles.  
+Marie est réveillé chaque nuit et voit un pouce levé sans savoir pourquoi.  
+Sarah et Marie sont réveillées chaque nuit pour choisir un joueur, sans savoir pourquoi.  
+Sarah est exécutée : elle apprend qu’elle est le <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> du Bien.  
+Laura, croyant être le <a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a>, le dit publiquement et choisit Amélie : Amélie meurt.  
+Marie était le Général, Laura le Mercenaire, et Amélie l’<a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Imp</a>.
 </p>
 
 ---
