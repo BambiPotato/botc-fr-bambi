@@ -14,7 +14,7 @@ title: Déviant
 <div style="text-align:center; margin: 20px 0;">
   <img src="../images/Icon_deviant.png" alt="Déviant" width="360" style="border-radius:12px; margin-top:10px;">
   <br>
-  <span style="color:#9b59b6; font-weight:bold; font-size:28px;">Déviant (Deviant)</span>
+  <span style="color:#9b59b6; font-weight:bold; font-size:28px;">Déviant</span>
 </div>
 
 ---
