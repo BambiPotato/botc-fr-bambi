@@ -247,6 +247,12 @@
 
 
 ---
+
+## <span style="color:#b58b52; font-weight:bold; font-size:22px;">👺 Rôles par Édition</span>
+
+  <!-- CONTENEUR (avec fallback inline pour forcer la grille) -->
+<div class="home-grid" style="display:grid; grid-template-columns: repeat(3, minmax(220px, 1fr)); gap:28px; justify-items:center; align-items:start;">
+
   <!-- 🍺 Trouble Brewing -->
   <a class="home-card" href="./trouble_brewing.html">
     <img src="./images/Logo_trouble_brewing.png" alt="Trouble Brewing">
@@ -278,7 +284,7 @@
     <span class="badge-pending">à venir</span>
   </a>
 
-  <!-- (Espace invisible pour forcer le saut de ligne et garder 2/2 ensuite) -->
+  <!-- PLACEHOLDER INVISIBLE pour forcer le retour à la ligne (2e ligne = 2 cartes) -->
   <span class="home-card" aria-hidden="true" style="visibility:hidden;"></span>
 
   <!-- 🏰 Légendaires (à venir) -->
@@ -294,6 +300,7 @@
     <span class="home-title">🌿 Lorics</span>
   </a>
 
+</div>
 
 <!-- ====== /GRID D'ACCUEIL ====== -->
 
