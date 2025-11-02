@@ -12,7 +12,7 @@ title: Gangster
 <!-- 🧢 Gangster -->
 
 <div style="text-align:center; margin: 20px 0;">
-  <img src="/images/Icon_gangster.png" alt="Gangster" width="360" style="border-radius:12px; margin-top:10px;">
+  <img src="../images/Icon_gangster.png" alt="Gangster" width="360" style="border-radius:12px; margin-top:10px;">
   <br>
   <span style="color:#9b59b6; font-weight:bold; font-size:28px;">Gangster</span>
 </div>
@@ -36,7 +36,7 @@ D’ailleurs, tes boutons de manchette sont plutôt jolis aussi… »
 
 <p style="text-align:center; margin: 12px 0 6px;">
   <a href="/botc-fr-bambi/experimentaux.html" style="text-decoration:none;">
-    <img src="/images/carousel.png" alt="Rôles expérimentaux" width="220" style="border-radius:8px;">
+    <img src="../images/carousel.png" alt="Rôles expérimentaux" width="220" style="border-radius:8px;">
   </a>
 </p>
 
