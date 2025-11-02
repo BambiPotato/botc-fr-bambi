@@ -49,7 +49,7 @@ Un Voyageur peut **rejoindre** la partie à tout moment, et **la quitter** à to
 
   <a href="./scapegoat.html" style="text-decoration:none;">
     <img src="../images/Icon_scapegoat.png" alt="Scapegoat" width="300"><br>
-    <span style="font-weight:bold; color:#9b59b6;">Scapegoat</span>
+    <span style="font-weight:bold; color:#9b59b6;">Bouc Émissaire</span>
   </a>
 
   <a href="./gunslinger.html" style="text-decoration:none;">
@@ -59,17 +59,17 @@ Un Voyageur peut **rejoindre** la partie à tout moment, et **la quitter** à to
 
   <a href="./beggar.html" style="text-decoration:none;">
     <img src="../images/Icon_beggar.png" alt="Beggar" width="300"><br>
-    <span style="font-weight:bold; color:#9b59b6;">Beggar</span>
+    <span style="font-weight:bold; color:#9b59b6;">Mendiant</span>
   </a>
 
   <a href="./bureaucrat.html" style="text-decoration:none;">
     <img src="../images/Icon_bureaucrat.png" alt="Bureaucrat" width="300"><br>
-    <span style="font-weight:bold; color:#9b59b6;">Bureaucrat</span>
+    <span style="font-weight:bold; color:#9b59b6;">Bureaucrate</span>
   </a>
 
   <a href="./thief.html" style="text-decoration:none;">
     <img src="../images/Icon_thief.png" alt="Thief" width="300"><br>
-    <span style="font-weight:bold; color:#9b59b6;">Thief</span>
+    <span style="font-weight:bold; color:#9b59b6;">Voleur</span>
   </a>
 
 </div>
@@ -86,12 +86,12 @@ Un Voyageur peut **rejoindre** la partie à tout moment, et **la quitter** à to
 
   <a href="./butcher.html" style="text-decoration:none;">
     <img src="../images/Icon_butcher.png" alt="Butcher" width="300"><br>
-    <span style="font-weight:bold; color:#9b59b6;">Butcher</span>
+    <span style="font-weight:bold; color:#9b59b6;">Boucher</span>
   </a>
 
   <a href="./bonecollector.html" style="text-decoration:none;">
     <img src="../images/Icon_bonecollector.png" alt="Bone Collector" width="300"><br>
-    <span style="font-weight:bold; color:#9b59b6;">Bone Collector</span>
+    <span style="font-weight:bold; color:#9b59b6;">Collecteur d’os</span>
   </a>
 
   <a href="./harlot.html" style="text-decoration:none;">
@@ -106,7 +106,7 @@ Un Voyageur peut **rejoindre** la partie à tout moment, et **la quitter** à to
 
   <a href="./deviant.html" style="text-decoration:none;">
     <img src="../images/Icon_deviant.png" alt="Deviant" width="300"><br>
-    <span style="font-weight:bold; color:#9b59b6;">Deviant</span>
+    <span style="font-weight:bold; color:#9b59b6;">Déviant</span>
   </a>
 
 </div>
@@ -123,12 +123,12 @@ Un Voyageur peut **rejoindre** la partie à tout moment, et **la quitter** à to
 
   <a href="./apprentice.html" style="text-decoration:none;">
     <img src="../images/Icon_apprentice.png" alt="Apprentice" width="300"><br>
-    <span style="font-weight:bold; color:#9b59b6;">Apprentice</span>
+    <span style="font-weight:bold; color:#9b59b6;">Apprenti</span>
   </a>
 
   <a href="./matron.html" style="text-decoration:none;">
     <img src="../images/Icon_matron.png" alt="Matron" width="300"><br>
-    <span style="font-weight:bold; color:#9b59b6;">Matron</span>
+    <span style="font-weight:bold; color:#9b59b6;">Matrone</span>
   </a>
 
   <a href="./voudon.html" style="text-decoration:none;">
@@ -138,12 +138,12 @@ Un Voyageur peut **rejoindre** la partie à tout moment, et **la quitter** à to
 
   <a href="./judge.html" style="text-decoration:none;">
     <img src="../images/Icon_judge.png" alt="Judge" width="300"><br>
-    <span style="font-weight:bold; color:#9b59b6;">Judge</span>
+    <span style="font-weight:bold; color:#9b59b6;">Juge</span>
   </a>
 
   <a href="./bishop.html" style="text-decoration:none;">
     <img src="../images/Icon_bishop.png" alt="Bishop" width="300"><br>
-    <span style="font-weight:bold; color:#9b59b6;">Bishop</span>
+    <span style="font-weight:bold; color:#9b59b6;">Évêque</span>
   </a>
 
 </div>
