@@ -12,11 +12,10 @@ title: Cacklejack
 <!-- 🤖 Cacklejack -->
 
 <div style="text-align:center; margin: 20px 0;">
-  <img src="/botc-fr-bambi/images/Icon_cacklejack.png" alt="Cacklejack" width="360" style="border-radius:12px; margin-top:10px;">
+  <img src="../images/Icon_cacklejack.png" alt="Cacklejack" width="360" style="border-radius:12px; margin-top:10px;">
   <br>
   <span style="color:#9b59b6; font-weight:bold; font-size:28px;">Cacklejack</span>
 </div>
-
 ---
 
 ## 🧭 Informations
@@ -29,12 +28,11 @@ title: Cacklejack
 </p>
 
 ---
-
 ## 🎭 Apparaît dans
 
 <p style="text-align:center; margin: 12px 0 6px;">
   <a href="/botc-fr-bambi/experimentaux.html" style="text-decoration:none;">
-    <img src="/botc-fr-bambi/images/carousel.png" alt="Rôles expérimentaux" width="220" style="border-radius:8px;">
+    <img src="../images/carousel.png" alt="Rôles expérimentaux" width="220" style="border-radius:8px;">
   </a>
 </p>
 
