@@ -16,7 +16,6 @@ title: Cacklejack
   <br>
   <span style="color:#9b59b6; font-weight:bold; font-size:28px;">Cacklejack</span>
 </div>
----
 
 ## 🧭 Informations
 - **Type :** <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>  
