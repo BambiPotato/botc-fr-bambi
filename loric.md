@@ -52,11 +52,7 @@ Là où les <em>Fabled</em> corrigent les problèmes, <strong>les Lorics</strong
     <br>
     <span style="color:#7fd1ae; font-weight:bold; font-size:18px;">Big Wig</span>
   </a>
-  <div style="color:#e0c99d; font-size:14px; margin-top:6px; max-width:280px;">
-    La personne nommée choisit quelqu’un pour parler à sa place jusqu’au vote.  
-    Si la défense n’est pas à la hauteur, le défenseur risque sa vie.
-  </div>
-</div>
+
 
 <div style="text-align:center; display:inline-block; margin: 14px;">
   <a href="./loric_roles/tor.md" style="text-decoration:none;">
@@ -64,11 +60,6 @@ Là où les <em>Fabled</em> corrigent les problèmes, <strong>les Lorics</strong
     <br>
     <span style="color:#7fd1ae; font-weight:bold; font-size:18px;">Tor</span>
   </a>
-  <div style="color:#e0c99d; font-size:14px; margin-top:6px; max-width:280px;">
-    Personne ne connaît son rôle ni son alignement.  
-    On les apprend uniquement à sa mort.  
-    Le chaos méthodique du Grimoire s’abat sur le village.
-  </div>
 </div>
 
 ---
