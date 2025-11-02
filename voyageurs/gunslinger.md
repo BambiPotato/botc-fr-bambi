@@ -9,19 +9,19 @@ title: Gunslinger
   </a>
 </p>
 
-<!--  Gunslinger -->
+<!-- Gunslinger -->
 
-<h1 style="color:#9b59b6; font-weight:bold; font-size:36px;">Gunslinger</h1>
-
-<p align="center">
+<div style="text-align:center; margin: 20px 0;">
   <img src="../images/Icon_gunslinger.png" alt="Gunslinger" width="400" style="border-radius:12px; margin-top:10px;">
-</p>
+  <br>
+  <span style="color:#9b59b6; font-weight:bold; font-size:36px;">Gunslinger</span>
+</div>
 
 ---
 
 ## 🧭 Informations
 
-- **Type :** <span style="color:#9b59b6; font-weight:bold;">Voyageur</span>  
+- **Type :** <a href="../voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>  
 - **Édition :** <a href="/botc-fr-bambi/trouble_brewing.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Trouble Brewing</a>  
 - **Artiste :** <span style="color:#f5f5f5;">Aidan Roberts</span>
 
@@ -112,5 +112,5 @@ Après le premier vote d’exécution de la journée, quand le décompte est ann
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🧳 <a href="./voyageurs.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
+  <li>🧳 <a href="../voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
 </ul>
