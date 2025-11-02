@@ -250,8 +250,6 @@
 
 ## <span style="color:#b58b52; font-weight:bold; font-size:22px;">👺 Rôles par Édition</span>
 
-## <span style="color:#b58b52; font-weight:bold; font-size:22px;">👺 Rôles par Édition</span>
-
 <style>
   /* Grilles séparées pour contrôler précisément le # de colonnes par ligne */
   .home-grid-3 {
