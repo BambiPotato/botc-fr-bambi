@@ -80,12 +80,12 @@ Si le Voleur meurt, cet effet cesse immédiatement.
 ## 💡 Exemples
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li>Le Voleur choisit Marianne.  
+  <li>Le Voleur choisit Noémie.  
   → Le lendemain, au premier vote, le Conteur compte « 1... 2... 3... 2... 3... 4... 5 ».  
-  → La personne nommée finit avec cinq votes, car celui de Marianne comptait négativement.</li>
+  → La personne nommée finit avec cinq votes, car celui de Noémie comptait négativement.</li>
 
-  <li>Le Voleur choisit Abdallah.  
-  → Abdallah vote pour exécuter un joueur, mais le total passe de 6 à 4 au lieu de 7.  
+  <li>Le Voleur choisit Médhi.  
+  → Médhi vote pour exécuter un joueur, mais le total passe de 6 à 4 au lieu de 7.  
   → Plus tard, il vote pour un exil : cette fois, son vote compte normalement.</li>
 </ul>
 
@@ -94,12 +94,12 @@ Si le Voleur meurt, cet effet cesse immédiatement.
 ## 🧿 Conseils et astuces (camp du <span style="color:#4ea3ff;">Bien</span>)
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li>Servez-vous de votre pouvoir pour affaiblir les votes des joueurs que vous pensez <span style="color:#d45b5b;">Maléfiques</span>.</li>
+  <li>Servez-vous de votre pouvoir pour affaiblir les votes des joueurs ou des joueuses que vous pensez <span style="color:#d45b5b;">Maléfiques</span>.</li>
   <li>Choisissez discrètement une personne suspecte sans lui dire : elle croira aider sa cause, alors qu’elle la dessert !</li>
   <li>Ou bien, sélectionnez un joueur de confiance et prévenez-le : il pourra ainsi voter pour faire échouer un mauvais lynchage.</li>
   <li>Changez régulièrement votre cible pour semer le doute et empêcher les <span style="color:#d45b5b;">Sbires</span> d’utiliser votre pouvoir contre le Bien.</li>
   <li>Observez les réactions : un joueur satisfait après un vote négatif trahit souvent une nature maléfique.</li>
-  <li>Vous pouvez aussi cibler des joueurs morts : leur unique vote peut devenir une arme redoutable le dernier jour.</li>
+  <li>Vous pouvez aussi cibler des joueurs ou des joueuses morts : leur unique vote peut devenir une arme redoutable le dernier jour.</li>
   <li>Si un <a href="./bureaucrat.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Bureaucrate</a> est en jeu, coordonnez-vous : choisir la même cible donne un vote **–3** !  
   Une combinaison destructrice contre les forces du Mal.</li>
 </ul>
