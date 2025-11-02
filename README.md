@@ -251,25 +251,16 @@
 ## <span style="color:#b58b52; font-weight:bold; font-size:22px;">👺 Rôles par Édition</span>
 
 <style>
-  /* Grilles séparées pour contrôler précisément le # de colonnes par ligne */
-  .home-grid-3 {
+  /* Lignes contrôlées : 3 puis 2 puis 2 */
+  .home-grid-3, .home-grid-2 {
     display: grid;
-    grid-template-columns: repeat(3, minmax(220px, 1fr));
     gap: 28px;
     justify-items: center;
     align-items: start;
     margin: 26px auto 10px auto;
-    max-width: 1100px;
   }
-  .home-grid-2 {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(220px, 1fr));
-    gap: 28px;
-    justify-items: center;
-    align-items: start;
-    margin: 12px auto 10px auto;
-    max-width: 740px; /* plus étroit pour 2 cartes */
-  }
+  .home-grid-3 { grid-template-columns: repeat(3, minmax(220px, 1fr)); max-width: 1100px; }
+  .home-grid-2 { grid-template-columns: repeat(2, minmax(220px, 1fr)); max-width: 740px; }
 
   /* Responsive */
   @media (max-width: 980px) {
@@ -279,19 +270,18 @@
     .home-grid-3, .home-grid-2 { grid-template-columns: 1fr; max-width: 420px; }
   }
 
-  /* Carte cliquable */
+  /* Carte (plus aucun <div> à l’intérieur des <a>) */
   .home-card {
     display: inline-block;
-    text-decoration: none;
+    width: 100%;
+    max-width: 320px;
+    text-align: center;
     border-radius: 14px;
     overflow: hidden;
     border: 1px solid rgba(181,139,82,0.28);
     background: rgba(255,255,255,0.02);
     box-shadow: 0 6px 18px rgba(0,0,0,0.28);
     transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease, background .18s ease;
-    width: 100%;
-    max-width: 320px;
-    text-align: center;
   }
   .home-card:hover {
     transform: translateY(-4px);
@@ -300,32 +290,27 @@
     background: rgba(255,255,255,0.04);
   }
 
-  /* Zone image : hauteur fixe pour uniformiser l’apparence */
-  .home-card .img-wrap {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 180px;                 /* <<< uniformisation visuelle */
+  /* Image : taille perçue uniforme (même hauteur partout) */
+  .home-card img {
+    display: block;
+    height: 180px;           /* <<< uniformisation visuelle */
+    width: auto;
+    margin: 8px auto 0 auto; /* centrage */
+    object-fit: contain;     /* pas de déformation */
     background: rgba(0,0,0,0.25);
     padding: 8px;
-  }
-  .home-card .img-wrap img {
-    max-height: 100%;
-    max-width: 100%;
-    object-fit: contain;
-    display: block;
   }
 
   /* Titre sous l'image */
   .home-title {
-    display: block;
+    display: inline-block;
     padding: 10px 10px 12px 10px;
     color: #b58b52;
     font-weight: 700;
     font-size: 20px;
     text-decoration: none;
     letter-spacing: .2px;
-    min-height: 54px; /* hauteur mini régulière pour les titres sur 1-2 lignes */
+    min-height: 54px;        /* stabilité sur 1–2 lignes */
   }
 
   .badge-pending {
@@ -340,72 +325,57 @@
   }
 </style>
 
-<!-- 1) Ligne 1 : 3 colonnes fixes (TB / BMR / SV) -->
+<!-- 1) Ligne 1 : TB / BMR / SV -->
 <div class="home-grid-3">
 
-  <a class="home-card" href="./trouble_brewing.html">
-    <div class="img-wrap">
-      <img src="./images/Logo_trouble_brewing.png" alt="Trouble Brewing">
-    </div>
-    <span class="home-title">🍺 Trouble Brewing</span>
-  </a>
+  <div class="home-card">
+    <a href="./trouble_brewing.html"><img src="./images/Logo_trouble_brewing.png" alt="Trouble Brewing"></a>
+    <a class="home-title" href="./trouble_brewing.html">🍺 Trouble Brewing</a>
+  </div>
 
-  <a class="home-card" href="./bmr.html">
-    <div class="img-wrap">
-      <img src="./images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising">
-    </div>
-    <span class="home-title">🌛 Bad Moon Rising</span>
-  </a>
+  <div class="home-card">
+    <a href="./bmr.html"><img src="./images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising"></a>
+    <a class="home-title" href="./bmr.html">🌛 Bad Moon Rising</a>
+  </div>
 
-  <a class="home-card" href="./sv.html">
-    <div class="img-wrap">
-      <img src="./images/Logo_sects_and_violets.png" alt="Sects &amp; Violets">
-    </div>
-    <span class="home-title">🌸 Sects &amp; Violets</span>
-  </a>
+  <div class="home-card">
+    <a href="./sv.html"><img src="./images/Logo_sects_and_violets.png" alt="Sects &amp; Violets"></a>
+    <a class="home-title" href="./sv.html">🌸 Sects &amp; Violets</a>
+  </div>
 
 </div>
 
-<!-- 2) Ligne 2 : 2 colonnes fixes (Voyageurs / Carousel) -->
+<!-- 2) Ligne 2 : Voyageurs / Expérimental -->
 <div class="home-grid-2">
 
-  <a class="home-card" href="./voyageurs/voyageurs.html">
-    <div class="img-wrap">
-      <img src="./images/Generic_traveller.png" alt="Voyageurs">
-    </div>
-    <span class="home-title">🚶 Voyageurs</span>
-  </a>
+  <div class="home-card">
+    <a href="./voyageurs/voyageurs.html"><img src="./images/Generic_traveller.png" alt="Voyageurs"></a>
+    <a class="home-title" href="./voyageurs/voyageurs.html">🚶 Voyageurs</a>
+  </div>
 
-  <a class="home-card" href="./roles_experimentaux.html">
-    <div class="img-wrap">
-      <img src="./images/carousel.png" alt="The Carousel Expérimental">
-    </div>
-    <span class="home-title">🎠 The Carousel Expérimental</span>
+  <div class="home-card">
+    <a href="./roles_experimentaux.html"><img src="./images/carousel.png" alt="The Carousel Expérimental"></a>
+    <a class="home-title" href="./roles_experimentaux.html">🎠 The Carousel Expérimental</a>
     <span class="badge-pending">à venir</span>
-  </a>
+  </div>
 
 </div>
 
-<!-- 3) Ligne 3 : 2 colonnes fixes (Légendaires / Lorics) -->
+<!-- 3) Ligne 3 : Légendaires / Lorics -->
 <div class="home-grid-2">
 
-  <a class="home-card" href="#" onclick="return false;">
-    <div class="img-wrap">
-      <img src="./images/Generic_fabled.png" alt="Légendaires" style="opacity:.55; filter: grayscale(20%);">
-    </div>
-    <span class="home-title">🏰 Légendaires</span>
+  <div class="home-card">
+    <a href="#" onclick="return false;"><img src="./images/Generic_fabled.png" alt="Légendaires" style="opacity:.55; filter: grayscale(20%);"></a>
+    <a class="home-title" href="#" onclick="return false;">🏰 Légendaires</a>
     <span class="badge-pending">à venir</span>
-  </a>
+  </div>
 
-  <!-- Lien Lorics : tu as dit que la page s'appelle loric.md -> loric.html -->
-  <a class="home-card" href="./loric.html">
-    <div class="img-wrap">
-      <img src="./images/Icon_loric.png" alt="Lorics">
-    </div>
-    <span class="home-title">🌿 Lorics</span>
-  </a>
+  <div class="home-card">
+    <a href="./loric.html"><img src="./images/Icon_loric.png" alt="Lorics"></a>
+    <a class="home-title" href="./loric.html">🌿 Lorics</a>
+  </div>
 
-</div>
+
 <!-- ====== /GRID D'ACCUEIL ====== -->
 
 
