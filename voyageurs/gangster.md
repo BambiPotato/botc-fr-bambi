@@ -95,7 +95,7 @@ Le <strong>Conteur</strong> doit entendre et confirmer l’accord avant qu’un 
   <li>Discutez avec eux : tentez d’obtenir leur accord pour agir, même si cela vise un allié supposé.</li>
   <li>Tuer chaque jour double les chances d’éliminer le <span style="color:#d45b5b;">Démon</span> — c’est statistiquement rentable.</li>
   <li>Privilégiez les cibles maléfiques ou les rôles peu utiles au Bien.  
-  Épargnez les personnages puissants comme le <a href="../tb_roles/maire.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a>, le <a href="../tb_roles/sage.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a> ou le <a href="../bmr_roles/roi.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a>.</li>
+  Épargnez les personnages puissants comme le <a href="../tb_roles/maire.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a>, le <a href="../sv_roles/sage.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a> ou le <a href="../experimentaux_roles/roi.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a>.</li>
   <li>Si vous pensez qu’un <span style="color:#d45b5b;">Sbire</span> ou le <span style="color:#d45b5b;">Démon</span> est proche, éliminez les joueurs entre vous pour vous rapprocher d’eux.</li>
   <li>Avant le dernier jour, demandez à être exilé pour montrer votre bonne foi.  
   Un Gangster bon exilé prouve son alignement et renforce la confiance du groupe.</li>
@@ -112,7 +112,7 @@ Le <strong>Conteur</strong> doit entendre et confirmer l’accord avant qu’un 
   Simulez des hésitations pour paraître crédible.</li>
   <li>Chaque mort d’un joueur bon renforce votre équipe. Peu importe le rôle, tant que ce n’est pas le <span style="color:#d45b5b;">Démon</span>.</li>
   <li>Parlez d’abord à vos voisins maléfiques avant d’approcher les bons — cela vous aidera à coordonner vos actions et à trouver de bonnes justifications.</li>
-  <li>Ne tuez pas de personnages comme le <a href="../tb_roles/saint.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a> ou le <a href="../bmr_roles/jumeau_malveillant.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumeau Malveillant</a> : leur exécution est plus utile au Mal que leur mort par votre capacité.</li>
+  <li>Ne tuez pas de personnages comme le <a href="../tb_roles/saint.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a> ou le <a href="../sv_roles/jumeaumalefique.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumeau Maléfique</a> : leur exécution est plus utile au Mal que leur mort par votre capacité.</li>
   <li>Si un voisin bon est sur le point d’être exécuté, laissez-le en vie : un meurtre par le Gangster ne met pas fin à la journée.</li>
   <li>Essayez de garder une distance entre vous et le <span style="color:#d45b5b;">Démon</span> : s’il devient votre voisin, refuser de le tuer paraîtra suspect.</li>
 </ul>
