@@ -252,7 +252,6 @@
 
 <!-- ====== GRID D'ACCUEIL (cartes cliquables, 3 par ligne) ====== -->
 <style>
-  /* Conteneur global */
   .home-grid {
     display: grid;
     grid-template-columns: repeat(3, minmax(220px, 1fr));
@@ -262,7 +261,6 @@
     margin: 26px auto 10px auto;
     max-width: 1100px;
   }
-  /* Responsive : 2 colonnes puis 1 colonne */
   @media (max-width: 980px) {
     .home-grid { grid-template-columns: repeat(2, minmax(220px, 1fr)); }
   }
@@ -270,14 +268,13 @@
     .home-grid { grid-template-columns: 1fr; }
   }
 
-  /* Carte cliquable */
   .home-card {
     display: inline-block;
     text-decoration: none;
     border-radius: 14px;
     overflow: hidden;
-    border: 1px solid rgba(181,139,82,0.28);            /* doré discret */
-    background: rgba(255,255,255,0.02);                 /* voile léger sur fond sombre */
+    border: 1px solid rgba(181,139,82,0.28);
+    background: rgba(255,255,255,0.02);
     box-shadow: 0 6px 18px rgba(0,0,0,0.28);
     transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease, background .18s ease;
     width: 100%;
@@ -291,28 +288,25 @@
     background: rgba(255,255,255,0.04);
   }
 
-  /* Image */
   .home-card img {
     display: block;
     width: 100%;
     height: auto;
-    aspect-ratio: 4 / 3;            /* ratio stable */
-    object-fit: contain;            /* garde les logos nets */
-    background: rgba(0,0,0,0.25);   /* petit fond pour contraste */
+    aspect-ratio: 4 / 3;
+    object-fit: contain;
+    background: rgba(0,0,0,0.25);
   }
 
-  /* Titre sous l'image */
   .home-card .home-title {
     display: block;
     padding: 10px 10px 12px 10px;
-    color: #b58b52;                 /* doré doux */
+    color: #b58b52;
     font-weight: 700;
     font-size: 20px;
     text-decoration: none;
     letter-spacing: .2px;
   }
 
-  /* Badge "à venir" (style discret) */
   .badge-pending {
     display: inline-block;
     margin: 2px 0 10px 0;
@@ -345,11 +339,10 @@
     <span class="home-title">🌸 Sects &amp; Violets</span>
   </a>
 
-  <!-- 🚶 Voyageurs et Voyageuses (à venir)-->
-  <a class="home-card" href="#" onclick="return false;">
-    <img src="./images/Generic_traveller.png" alt="Voyageurs et Voyageuses">
-    <span class="home-title">🚶 Voyageurs et Voyageuses</span>
-    <span class="badge-pending">à venir</span>
+  <!-- 🚶 Voyageurs -->
+  <a class="home-card" href="./voyageurs/voyageurs.html">
+    <img src="./images/Generic_traveller.png" alt="Voyageurs">
+    <span class="home-title">🚶 Voyageurs</span>
   </a>
 
   <!-- 🏰 Légendaires (à venir) -->
@@ -359,17 +352,24 @@
     <span class="badge-pending">à venir</span>
   </a>
 
-  <!-- 🎠 The Carousel Expérimental (à venir)--->
-  <a class="home-card" href="./experimentaux.html">
+  <!-- 🌿 Lorics -->
+  <a class="home-card" href="./loric_roles.html">
+    <img src="./images/Icon_loric.png" alt="Lorics">
+    <span class="home-title">🌿 Lorics</span>
+  </a>
+
+  <!-- 🎠 The Carousel Expérimental (à venir) -->
+  <a class="home-card" href="./roles_experimentaux.html">
     <img src="./images/carousel.png" alt="The Carousel Expérimental" style="opacity:.9;">
     <span class="home-title">🎠 The Carousel Expérimental</span>
     <span class="badge-pending">à venir</span>
   </a>
 
 </div>
+
 <!-- ====== /GRID D'ACCUEIL ====== -->
 
----
+
 <!-- 🎭 Catégories -->
 <h2 style="color:#b58b52; font-weight:bold; font-size:22px; text-align:left;">🎭 Catégories</h2>
 
