@@ -59,7 +59,7 @@ Le Harlot ne découvre jamais l’alignement, uniquement le <em>rôle</em>.
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Chaque nuit, réveillez la Harlot : elle pointe une personne vivante. Rendormez la Harlot.</li>
-  <li>Réveillez la personne choisie, montrez le rappel « CETTE PERSONNE T’A CHOISI(E) », puis le jeton voyageur <strong>Harlot</strong>. Elle répond par oui/non.</li>
+  <li>Réveillez la personne choisie, montrez le jeton rappel « CETTE PERSONNE T’A CHOISI(E) », puis le jeton voyageur <strong>Harlot</strong>. Elle répond par oui/non.</li>
   <li>Si elle dit <strong>non</strong> : rien ne se passe.</li>
   <li>Si elle dit <strong>oui</strong> : réveillez la Harlot et montrez le <strong>jeton de rôle</strong> de la personne. Vous pouvez décider que <strong>les deux meurent cette nuit</strong> (marquez-les morts).</li>
   <li>Décidez les morts éventuelles selon l’intérêt et l’équilibre de la partie ; éviter de terminer la partie en tuant un Démon qui se serait révélé.</li>
