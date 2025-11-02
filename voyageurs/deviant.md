@@ -83,7 +83,7 @@ C’est au <strong>Conteur</strong> de juger si le Déviant a été amusant ou n
   <li>Le Déviant n’est pas un rôle sérieux ; son but est de semer la bonne humeur et de garder la table vivante.</li>
   <li>Si vous trouvez difficile d’être drôle sur commande, parlez au Conteur pour définir d’autres critères : encourager, aider ou mettre les autres à l’aise peuvent remplacer l’humour pur.</li>
   <li>Ne vous mettez pas trop de pression : tout le monde rate parfois une blague !</li>
-  <li>Et si vous cherchez l’inspiration : Steve Wright et Larry Miller sont de bonnes références.</li>
+  <li>Et si vous cherchez l’inspiration : Baptiste Lecaplain et Florence Foresti sont de bonnes références.</li>
 </ul>
 
 ---
@@ -95,7 +95,7 @@ C’est au <strong>Conteur</strong> de juger si le Déviant a été amusant ou n
   <li>Faites croire que vous jouez de bonne foi ; détendre l’atmosphère détourne souvent les soupçons.</li>
   <li>Si vous ne pouvez pas être drôle, soyez au moins charmant ou positif : cela peut suffire à convaincre le Conteur de vous épargner.</li>
   <li>Le Déviant maléfique peut semer la confusion tout en amusant la galerie ; usez de légèreté pour manipuler subtilement.</li>
-  <li>Et pour trouver votre ton : Billy Connolly ou Rowan Atkinson sont des maîtres de l’équilibre entre rire et malice.</li>
+  <li>Et pour trouver votre ton : Les Inconnus ou Gad Elmaleh sont des maîtres de l’équilibre entre rire et malice.</li>
 </ul>
 
 ---
