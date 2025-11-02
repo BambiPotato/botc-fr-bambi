@@ -247,75 +247,57 @@
 
 
 ---
+  <!-- 🍺 Trouble Brewing -->
+  <a class="home-card" href="./trouble_brewing.html">
+    <img src="./images/Logo_trouble_brewing.png" alt="Trouble Brewing">
+    <span class="home-title">🍺 Trouble Brewing</span>
+  </a>
 
-## <span style="color:#b58b52; font-weight:bold; font-size:22px;">👺 Rôles par Édition</span>
+  <!-- 🌛 Bad Moon Rising -->
+  <a class="home-card" href="./bmr.html">
+    <img src="./images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising">
+    <span class="home-title">🌛 Bad Moon Rising</span>
+  </a>
 
-<!-- Ligne 1 : TB / BMR / SV -->
-<table style="width:100%; text-align:center; border-collapse:separate; border-spacing:18px 10px;">
-  <tr>
-    <td>
-      <a href="./trouble_brewing.html">
-        <img src="./images/Logo_trouble_brewing.png" alt="Trouble Brewing" style="display:block; margin:0 auto; height:180px; width:auto; background:rgba(0,0,0,0.25); padding:6px; border-radius:10px;">
-      </a>
-      <a href="./trouble_brewing.html" style="display:inline-block; margin-top:8px; color:#b58b52; font-weight:700; font-size:20px; text-decoration:none;">🍺 Trouble Brewing</a>
-    </td>
-    <td>
-      <a href="./bmr.html">
-        <img src="./images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" style="display:block; margin:0 auto; height:180px; width:auto; background:rgba(0,0,0,0.25); padding:6px; border-radius:10px;">
-      </a>
-      <a href="./bmr.html" style="display:inline-block; margin-top:8px; color:#b58b52; font-weight:700; font-size:20px; text-decoration:none;">🌛 Bad Moon Rising</a>
-    </td>
-    <td>
-      <a href="./sv.html">
-        <img src="./images/Logo_sects_and_violets.png" alt="Sects &amp; Violets" style="display:block; margin:0 auto; height:180px; width:auto; background:rgba(0,0,0,0.25); padding:6px; border-radius:10px;">
-      </a>
-      <a href="./sv.html" style="display:inline-block; margin-top:8px; color:#b58b52; font-weight:700; font-size:20px; text-decoration:none;">🌸 Sects &amp; Violets</a>
-    </td>
-  </tr>
-</table>
+  <!-- 🌸 Sects & Violets -->
+  <a class="home-card" href="./sv.html">
+    <img src="./images/Logo_sects_and_violets.png" alt="Sects &amp; Violets">
+    <span class="home-title">🌸 Sects &amp; Violets</span>
+  </a>
 
-<!-- Ligne 2 : Voyageurs / Expérimental -->
-<table style="width:100%; text-align:center; border-collapse:separate; border-spacing:18px 10px;">
-  <tr>
-    <td>
-      <a href="./voyageurs/voyageurs.html">
-        <img src="./images/Generic_traveller.png" alt="Voyageurs" style="display:block; margin:0 auto; height:180px; width:auto; background:rgba(0,0,0,0.25); padding:6px; border-radius:10px;">
-      </a>
-      <a href="./voyageurs/voyageurs.html" style="display:inline-block; margin-top:8px; color:#b58b52; font-weight:700; font-size:20px; text-decoration:none;">🚶 Voyageurs</a>
-    </td>
-    <td>
-      <a href="./roles_experimentaux.html">
-        <img src="./images/carousel.png" alt="The Carousel Expérimental" style="display:block; margin:0 auto; height:180px; width:auto; background:rgba(0,0,0,0.25); padding:6px; border-radius:10px;">
-      </a>
-      <a href="./roles_experimentaux.html" style="display:inline-block; margin-top:8px; color:#b58b52; font-weight:700; font-size:20px; text-decoration:none;">🎠 The Carousel Expérimental</a>
-      <div style="margin:6px 0 0 0; font-size:12px; color:#d4a76a; display:inline-block; padding:2px 8px; border:1px solid rgba(212,167,106,0.45); border-radius:999px; opacity:.85;">à venir</div>
-    </td>
-  </tr>
-</table>
+  <!-- 🚶 Voyageurs -->
+  <a class="home-card" href="./voyageurs/voyageurs.html">
+    <img src="./images/Generic_traveller.png" alt="Voyageurs">
+    <span class="home-title">🚶 Voyageurs</span>
+  </a>
 
-<!-- Ligne 3 : Légendaires / Lorics -->
-<table style="width:100%; text-align:center; border-collapse:separate; border-spacing:18px 10px;">
-  <tr>
-    <td>
-      <span>
-        <img src="./images/Generic_fabled.png" alt="Légendaires" style="display:block; margin:0 auto; height:180px; width:auto; background:rgba(0,0,0,0.25); padding:6px; border-radius:10px; opacity:.55; filter:grayscale(20%);">
-      </span>
-      <span style="display:inline-block; margin-top:8px; color:#b58b52; font-weight:700; font-size:20px;">🏰 Légendaires</span>
-      <div style="margin:6px 0 0 0; font-size:12px; color:#d4a76a; display:inline-block; padding:2px 8px; border:1px solid rgba(212,167,106,0.45); border-radius:999px; opacity:.85;">à venir</div>
-    </td>
-    <td>
-      <a href="./loric.html">
-        <img src="./images/Icon_loric.png" alt="Lorics" style="display:block; margin:0 auto; height:180px; width:auto; background:rgba(0,0,0,0.25); padding:6px; border-radius:10px;">
-      </a>
-      <a href="./loric.html" style="display:inline-block; margin-top:8px; color:#b58b52; font-weight:700; font-size:20px; text-decoration:none;">🌿 Lorics</a>
-    </td>
-  </tr>
-</table>
+  <!-- 🎠 The Carousel Expérimental -->
+  <a class="home-card" href="./roles_experimentaux.html">
+    <img src="./images/carousel.png" alt="The Carousel Expérimental">
+    <span class="home-title">🎠 The Carousel Expérimental</span>
+    <span class="badge-pending">à venir</span>
+  </a>
+
+  <!-- (Espace invisible pour forcer le saut de ligne et garder 2/2 ensuite) -->
+  <span class="home-card" aria-hidden="true" style="visibility:hidden;"></span>
+
+  <!-- 🏰 Légendaires (à venir) -->
+  <a class="home-card" href="#" onclick="return false;">
+    <img src="./images/Generic_fabled.png" alt="Légendaires" style="opacity:.55; filter: grayscale(20%);">
+    <span class="home-title">🏰 Légendaires</span>
+    <span class="badge-pending">à venir</span>
+  </a>
+
+  <!-- 🌿 Lorics (lien corrigé + taille visuelle harmonisée) -->
+  <a class="home-card" href="./loric.html">
+    <img src="./images/Icon_loric.png" alt="Lorics" style="height:180px; width:auto; display:block; margin:0 auto; object-fit:contain;">
+    <span class="home-title">🌿 Lorics</span>
+  </a>
 
 
 <!-- ====== /GRID D'ACCUEIL ====== -->
 
-## 
+---
 <!-- 🎭 Catégories -->
 <h2 style="color:#b58b52; font-weight:bold; font-size:22px; text-align:left;">🎭 Catégories</h2>
 
