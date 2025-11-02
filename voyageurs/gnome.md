@@ -78,19 +78,20 @@ Si cet <em>amigo</em> est nominé, le Gnome peut choisir de tuer le nominant imm
 ## 🧾 Exemples
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
-  <li>Le Gnome commence la partie en même temps que les autres et est bon.  
-  Marie est l’<a href="../experimentaux_roles/alsaahir.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alsaahir</a>.  
-  Le Conteur annonce que le Gnome partage son alignement.  
-  Le troisième jour, l’<a href="../experimentaux_roles/ingenieur.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ingénieur</a> nomine Marie.  
+  <li>Le Gnome commence la partie en même temps que les autres et est bon.
+  Marie est l’<a href="../experimentaux_roles/alsaahir.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alsaahir</a>.
+  Le Conteur annonce que le Gnome partage son alignement.
+  Le troisième jour, l’<a href="../experimentaux_roles/ingenieur.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ingénieur</a> nomine Marie.
   Le Gnome ne réagit pas : le vote a lieu normalement.</li>
 
-  <li>Le Gnome entre en jeu au deuxième jour et il est maléfique.  
-  Louis est le Démon.  
-  Le Conteur annonce qu’ils partagent le même alignement.  
-  Le <a href="../experimentaux_roles/boffin.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boffin</a> nomine Louis : le Gnome le tue.  
-    
- - Le lendemain, le <a href="../experimentaux_roles/zealot.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Zélote</a> nomine Louis : le Gnome le tue aussi.  
-  Le jour suivant, l’<a href="../experimentaux_roles/idiot_du_village.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Idiot du Village</a> nomine Louis : le Gnome ne fait rien.</li>
+  <li>Le Gnome entre en jeu au deuxième jour et il est maléfique.
+  Louis est le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.
+  Le Conteur annonce qu’ils partagent le même alignement.
+  Le <a href="../experimentaux_roles/boffin.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boffin</a> nomine Louis : le Gnome le tue.</li>
+
+  <li>Le lendemain, le <a href="../experimentaux_roles/zealot.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Zélote</a> nomine Louis : le Gnome le tue aussi.</li>
+
+  <li>Le jour suivant, l’<a href="../experimentaux_roles/idiot_du_village.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Idiot du Village</a> nomine Louis : le Gnome ne fait rien.</li>
 </ul>
 
 ---
