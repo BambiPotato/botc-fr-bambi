@@ -12,7 +12,7 @@ title: Gnome
 <!-- 🧙🏽 Gnome -->
 
 <div style="text-align:center; margin: 20px 0;">
-  <img src="/images/Icon_gnome.png" alt="Gnome" width="360" style="border-radius:12px; margin-top:10px;">
+  <img src="../images/Icon_gnome.png" alt="Gnome" width="360" style="border-radius:12px; margin-top:10px;">
   <br>
   <span style="color:#9b59b6; font-weight:bold; font-size:28px;">Gnome</span>
 </div>
@@ -37,7 +37,7 @@ Ha-urrumph-o. »
 
 <p style="text-align:center; margin: 12px 0 6px;">
   <a href="/botc-fr-bambi/experimentaux.html" style="text-decoration:none;">
-    <img src="/images/carousel.png" alt="Rôles expérimentaux" width="220" style="border-radius:8px;">
+    <img src="../images/carousel.png" alt="Rôles expérimentaux" width="220" style="border-radius:8px;">
   </a>
 </p>
 
@@ -62,7 +62,7 @@ Si cet <em>amigo</em> est nominé, le Gnome peut choisir de tuer le nominant imm
 
 ## ⚙️ Comment Conter
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7%;">
   <li>Lorsque le Gnome entre en jeu, choisissez un joueur du même alignement et marquez-le avec le jeton de rappel <strong>AMIGO</strong>.</li>
   <li>Annoncez publiquement que ce joueur partage l’alignement du Gnome.</li>
   <li>Si cet <em>amigo</em> est nominé, avant que le vote ne commence, le Gnome peut déclarer vouloir utiliser sa capacité.</li>
@@ -79,7 +79,7 @@ Si cet <em>amigo</em> est nominé, le Gnome peut choisir de tuer le nominant imm
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Le Gnome commence la partie en même temps que les autres et est bon.  
- Marie est l’<a href="../experimentaux_roles/alsaahir.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alsaahir</a>.  
+  Marie est l’<a href="../experimentaux_roles/alsaahir.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alsaahir</a>.  
   Le Conteur annonce que le Gnome partage son alignement.  
   Le troisième jour, l’<a href="../experimentaux_roles/ingenieur.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ingénieur</a> nomine Marie.  
   Le Gnome ne réagit pas : le vote a lieu normalement.</li>
