@@ -23,10 +23,19 @@ Un Voyageur peut **rejoindre** la partie à tout moment, et **la quitter** à to
 
 ---
 
-1. [Trouble Brewing](#-trouble-brewing)  
-2. [Sects & Violets](#-sects--violets)  
-3. [Bad Moon Rising](#-bad-moon-rising)  
-4. [Expérimentaux](#-expérimentaux)  
+## 🗂️ Sommaire  
+
+1. 🍺 [**Trouble Brewing**](#-trouble-brewing)  
+   <span style="color:#d4a76a;">Les premiers Voyageurs, puissants et classiques.</span>  
+
+2. 🌸 [**Sects & Violets**](#-sects--violets)  
+   <span style="color:#67bfff;">Des rôles étranges, vivants et imprévisibles.</span>  
+
+3. 🌛 [**Bad Moon Rising**](#-bad-moon-rising)  
+   <span style="color:#ffa64d;">Des Voyageurs audacieux, dangereux et spectaculaires.</span>  
+
+4. 🎠 [**Expérimentaux**](#-expérimentaux)  
+   <span style="color:#e0c99d;">Des créations originales, en phase de test.</span>  
 
 ---
 
@@ -36,42 +45,32 @@ Un Voyageur peut **rejoindre** la partie à tout moment, et **la quitter** à to
   <img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="200" style="display:block; margin:10px 0;">
 </a>
 
-<div style="text-align:center;">
+<div style="text-align:center; display:flex; flex-wrap:wrap; gap:20px; justify-content:center; margin:15px 0;">
 
-  <div style="display:inline-block; margin: 10px;">
-    <a href="./scapegoat.html" style="text-decoration:none;">
-      <img src="../images/Icon_scapegoat.png" alt="Scapegoat" width="300"><br>
-      <span style="font-weight:bold;">Scapegoat</span>
-    </a>
-  </div>
+  <a href="./scapegoat.html" style="text-decoration:none;">
+    <img src="../images/Icon_scapegoat.png" alt="Scapegoat" width="300"><br>
+    <span style="font-weight:bold; color:#9b59b6;">Scapegoat</span>
+  </a>
 
-  <div style="display:inline-block; margin: 10px;">
-    <a href="./gunslinger.html" style="text-decoration:none;">
-      <img src="../images/Icon_gunslinger.png" alt="Gunslinger" width="300"><br>
-      <span style="font-weight:bold;">Gunslinger</span>
-    </a>
-  </div>
+  <a href="./gunslinger.html" style="text-decoration:none;">
+    <img src="../images/Icon_gunslinger.png" alt="Gunslinger" width="300"><br>
+    <span style="font-weight:bold; color:#9b59b6;">Gunslinger</span>
+  </a>
 
-  <div style="display:inline-block; margin: 10px;">
-    <a href="./beggar.html" style="text-decoration:none;">
-      <img src="../images/Icon_beggar.png" alt="Beggar" width="300"><br>
-      <span style="font-weight:bold;">Beggar</span>
-    </a>
-  </div>
+  <a href="./beggar.html" style="text-decoration:none;">
+    <img src="../images/Icon_beggar.png" alt="Beggar" width="300"><br>
+    <span style="font-weight:bold; color:#9b59b6;">Beggar</span>
+  </a>
 
-  <div style="display:inline-block; margin: 10px;">
-    <a href="./bureaucrat.html" style="text-decoration:none;">
-      <img src="../images/Icon_bureaucrat.png" alt="Bureaucrat" width="300"><br>
-      <span style="font-weight:bold;">Bureaucrat</span>
-    </a>
-  </div>
+  <a href="./bureaucrat.html" style="text-decoration:none;">
+    <img src="../images/Icon_bureaucrat.png" alt="Bureaucrat" width="300"><br>
+    <span style="font-weight:bold; color:#9b59b6;">Bureaucrat</span>
+  </a>
 
-  <div style="display:inline-block; margin: 10px;">
-    <a href="./thief.html" style="text-decoration:none;">
-      <img src="../images/Icon_thief.png" alt="Thief" width="300"><br>
-      <span style="font-weight:bold;">Thief</span>
-    </a>
-  </div>
+  <a href="./thief.html" style="text-decoration:none;">
+    <img src="../images/Icon_thief.png" alt="Thief" width="300"><br>
+    <span style="font-weight:bold; color:#9b59b6;">Thief</span>
+  </a>
 
 </div>
 
@@ -83,42 +82,32 @@ Un Voyageur peut **rejoindre** la partie à tout moment, et **la quitter** à to
   <img src="../images/Logo_sects_and_violets.png" alt="Sects & Violets" width="200" style="display:block; margin:10px 0;">
 </a>
 
-<div style="text-align:center;">
+<div style="text-align:center; display:flex; flex-wrap:wrap; gap:20px; justify-content:center; margin:15px 0;">
 
-  <div style="display:inline-block; margin: 10px;">
-    <a href="./butcher.html" style="text-decoration:none;">
-      <img src="../images/Icon_butcher.png" alt="Butcher" width="300"><br>
-      <span style="font-weight:bold;">Butcher</span>
-    </a>
-  </div>
+  <a href="./butcher.html" style="text-decoration:none;">
+    <img src="../images/Icon_butcher.png" alt="Butcher" width="300"><br>
+    <span style="font-weight:bold; color:#9b59b6;">Butcher</span>
+  </a>
 
-  <div style="display:inline-block; margin: 10px;">
-    <a href="./bonecollector.html" style="text-decoration:none;">
-      <img src="../images/Icon_bonecollector.png" alt="Bone Collector" width="300"><br>
-      <span style="font-weight:bold;">Bone Collector</span>
-    </a>
-  </div>
+  <a href="./bonecollector.html" style="text-decoration:none;">
+    <img src="../images/Icon_bonecollector.png" alt="Bone Collector" width="300"><br>
+    <span style="font-weight:bold; color:#9b59b6;">Bone Collector</span>
+  </a>
 
-  <div style="display:inline-block; margin: 10px;">
-    <a href="./harlot.html" style="text-decoration:none;">
-      <img src="../images/Icon_harlot.png" alt="Harlot" width="300"><br>
-      <span style="font-weight:bold;">Harlot</span>
-    </a>
-  </div>
+  <a href="./harlot.html" style="text-decoration:none;">
+    <img src="../images/Icon_harlot.png" alt="Harlot" width="300"><br>
+    <span style="font-weight:bold; color:#9b59b6;">Harlot</span>
+  </a>
 
-  <div style="display:inline-block; margin: 10px;">
-    <a href="./barista.html" style="text-decoration:none;">
-      <img src="../images/Icon_barista.png" alt="Barista" width="300"><br>
-      <span style="font-weight:bold;">Barista</span>
-    </a>
-  </div>
+  <a href="./barista.html" style="text-decoration:none;">
+    <img src="../images/Icon_barista.png" alt="Barista" width="300"><br>
+    <span style="font-weight:bold; color:#9b59b6;">Barista</span>
+  </a>
 
-  <div style="display:inline-block; margin: 10px;">
-    <a href="./deviant.html" style="text-decoration:none;">
-      <img src="../images/Icon_deviant.png" alt="Deviant" width="300"><br>
-      <span style="font-weight:bold;">Deviant</span>
-    </a>
-  </div>
+  <a href="./deviant.html" style="text-decoration:none;">
+    <img src="../images/Icon_deviant.png" alt="Deviant" width="300"><br>
+    <span style="font-weight:bold; color:#9b59b6;">Deviant</span>
+  </a>
 
 </div>
 
@@ -130,42 +119,32 @@ Un Voyageur peut **rejoindre** la partie à tout moment, et **la quitter** à to
   <img src="../images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="200" style="display:block; margin:10px 0;">
 </a>
 
-<div style="text-align:center;">
+<div style="text-align:center; display:flex; flex-wrap:wrap; gap:20px; justify-content:center; margin:15px 0;">
 
-  <div style="display:inline-block; margin: 10px;">
-    <a href="./apprentice.html" style="text-decoration:none;">
-      <img src="../images/Icon_apprentice.png" alt="Apprentice" width="300"><br>
-      <span style="font-weight:bold;">Apprentice</span>
-    </a>
-  </div>
+  <a href="./apprentice.html" style="text-decoration:none;">
+    <img src="../images/Icon_apprentice.png" alt="Apprentice" width="300"><br>
+    <span style="font-weight:bold; color:#9b59b6;">Apprentice</span>
+  </a>
 
-  <div style="display:inline-block; margin: 10px;">
-    <a href="./matron.html" style="text-decoration:none;">
-      <img src="../images/Icon_matron.png" alt="Matron" width="300"><br>
-      <span style="font-weight:bold;">Matron</span>
-    </a>
-  </div>
+  <a href="./matron.html" style="text-decoration:none;">
+    <img src="../images/Icon_matron.png" alt="Matron" width="300"><br>
+    <span style="font-weight:bold; color:#9b59b6;">Matron</span>
+  </a>
 
-  <div style="display:inline-block; margin: 10px;">
-    <a href="./voudon.html" style="text-decoration:none;">
-      <img src="../images/Icon_voudon.png" alt="Voudon" width="300"><br>
-      <span style="font-weight:bold;">Voudon</span>
-    </a>
-  </div>
+  <a href="./voudon.html" style="text-decoration:none;">
+    <img src="../images/Icon_voudon.png" alt="Voudon" width="300"><br>
+    <span style="font-weight:bold; color:#9b59b6;">Voudon</span>
+  </a>
 
-  <div style="display:inline-block; margin: 10px;">
-    <a href="./judge.html" style="text-decoration:none;">
-      <img src="../images/Icon_judge.png" alt="Judge" width="300"><br>
-      <span style="font-weight:bold;">Judge</span>
-    </a>
-  </div>
+  <a href="./judge.html" style="text-decoration:none;">
+    <img src="../images/Icon_judge.png" alt="Judge" width="300"><br>
+    <span style="font-weight:bold; color:#9b59b6;">Judge</span>
+  </a>
 
-  <div style="display:inline-block; margin: 10px;">
-    <a href="./bishop.html" style="text-decoration:none;">
-      <img src="../images/Icon_bishop.png" alt="Bishop" width="300"><br>
-      <span style="font-weight:bold;">Bishop</span>
-    </a>
-  </div>
+  <a href="./bishop.html" style="text-decoration:none;">
+    <img src="../images/Icon_bishop.png" alt="Bishop" width="300"><br>
+    <span style="font-weight:bold; color:#9b59b6;">Bishop</span>
+  </a>
 
 </div>
 
@@ -177,28 +156,22 @@ Un Voyageur peut **rejoindre** la partie à tout moment, et **la quitter** à to
   <img src="../images/carousel.png" alt="Expérimentaux" width="200" style="display:block; margin:10px 0;">
 </a>
 
-<div style="text-align:center;">
+<div style="text-align:center; display:flex; flex-wrap:wrap; gap:20px; justify-content:center; margin:15px 0;">
 
-  <div style="display:inline-block; margin: 10px;">
-    <a href="./cacklejack.html" style="text-decoration:none;">
-      <img src="../images/Icon_cacklejack.png" alt="Cacklejack" width="300"><br>
-      <span style="font-weight:bold;">Cacklejack</span>
-    </a>
-  </div>
+  <a href="./cacklejack.html" style="text-decoration:none;">
+    <img src="../images/Icon_cacklejack.png" alt="Cacklejack" width="300"><br>
+    <span style="font-weight:bold; color:#9b59b6;">Cacklejack</span>
+  </a>
 
-  <div style="display:inline-block; margin: 10px;">
-    <a href="./gangster.html" style="text-decoration:none;">
-      <img src="../images/Icon_gangster.png" alt="Gangster" width="300"><br>
-      <span style="font-weight:bold;">Gangster</span>
-    </a>
-  </div>
+  <a href="./gangster.html" style="text-decoration:none;">
+    <img src="../images/Icon_gangster.png" alt="Gangster" width="300"><br>
+    <span style="font-weight:bold; color:#9b59b6;">Gangster</span>
+  </a>
 
-  <div style="display:inline-block; margin: 10px;">
-    <a href="./gnome.html" style="text-decoration:none;">
-      <img src="../images/Icon_gnome.png" alt="Gnome" width="300"><br>
-      <span style="font-weight:bold;">Gnome</span>
-    </a>
-  </div>
+  <a href="./gnome.html" style="text-decoration:none;">
+    <img src="../images/Icon_gnome.png" alt="Gnome" width="300"><br>
+    <span style="font-weight:bold; color:#9b59b6;">Gnome</span>
+  </a>
 
 </div>
 
