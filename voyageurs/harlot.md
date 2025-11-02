@@ -69,7 +69,7 @@ Le Harlot ne découvre jamais l’alignement, uniquement le <em>rôle</em>.
 
 ## 🧾 Exemples
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
   <li>La Harlot bon choisit le <a href="../sv_roles/philosophe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Philosophe</a>, qui accepte. La nuit suivante, il choisit le <a href="../sv_roles/nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a>, qui refuse. La nuit d’après, il choisit le <a href="../sv_roles/mutant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mutant</a>, qui accepte : la conteuse décide que le Harlot et le Mutant meurent cette nuit.</li>
   <li>La Harlot maléfique choisit le <a href="../sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a>, qui révèle. Le lendemain, le Harlot prétend publiquement qu’il s’agissait de la <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a>.</li>
 </ul>
