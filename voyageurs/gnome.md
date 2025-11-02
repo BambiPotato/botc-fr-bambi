@@ -62,7 +62,7 @@ Si cet <em>amigo</em> est nominé, le Gnome peut choisir de tuer le nominant imm
 
 ## ⚙️ Comment Conter
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7%;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
   <li>Lorsque le Gnome entre en jeu, choisissez un joueur du même alignement et marquez-le avec le jeton de rappel <strong>AMIGO</strong>.</li>
   <li>Annoncez publiquement que ce joueur partage l’alignement du Gnome.</li>
   <li>Si cet <em>amigo</em> est nominé, avant que le vote ne commence, le Gnome peut déclarer vouloir utiliser sa capacité.</li>
