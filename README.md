@@ -250,7 +250,6 @@
 
 ## <span style="color:#b58b52; font-weight:bold; font-size:22px;">👺 Rôles par Édition</span>
 
-<!-- ====== GRID D'ACCUEIL (cartes cliquables, 3 par ligne) ====== -->
 <style>
   .home-grid {
     display: grid;
@@ -261,12 +260,8 @@
     margin: 26px auto 10px auto;
     max-width: 1100px;
   }
-  @media (max-width: 980px) {
-    .home-grid { grid-template-columns: repeat(2, minmax(220px, 1fr)); }
-  }
-  @media (max-width: 640px) {
-    .home-grid { grid-template-columns: 1fr; }
-  }
+  @media (max-width: 980px) { .home-grid { grid-template-columns: repeat(2, minmax(220px, 1fr)); } }
+  @media (max-width: 640px) { .home-grid { grid-template-columns: 1fr; } }
 
   .home-card {
     display: inline-block;
@@ -288,16 +283,16 @@
     background: rgba(255,255,255,0.04);
   }
 
+  /* Zone image/titre de taille cohérente sur toutes les cartes */
   .home-card img {
     display: block;
     width: 100%;
     height: auto;
-    aspect-ratio: 4 / 3;
+    aspect-ratio: 4 / 3;         /* même fenêtre visuelle pour tous */
     object-fit: contain;
     background: rgba(0,0,0,0.25);
   }
-
-  .home-card .home-title {
+  .home-title {
     display: block;
     padding: 10px 10px 12px 10px;
     color: #b58b52;
@@ -305,6 +300,14 @@
     font-size: 20px;
     text-decoration: none;
     letter-spacing: .2px;
+    min-height: 54px;            /* hauteur mini pour uniformiser la ligne de titre */
+  }
+  .home-desc {
+    color: #e0c99d;
+    font-size: 14px;
+    margin: 6px auto 10px auto;
+    max-width: 280px;
+    min-height: 0;               /* pas de desc sur ces cartes, mais prêt si besoin */
   }
 
   .badge-pending {
@@ -321,52 +324,48 @@
 
 <div class="home-grid">
 
-  <!-- 🍺 Trouble Brewing -->
+  <!-- 🔹 1ère ligne : TB / BMR / SV (inchangé) -->
   <a class="home-card" href="./trouble_brewing.html">
     <img src="./images/Logo_trouble_brewing.png" alt="Trouble Brewing">
     <span class="home-title">🍺 Trouble Brewing</span>
   </a>
 
-  <!-- 🌛 Bad Moon Rising -->
   <a class="home-card" href="./bmr.html">
     <img src="./images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising">
     <span class="home-title">🌛 Bad Moon Rising</span>
   </a>
 
-  <!-- 🌸 Sects & Violets -->
   <a class="home-card" href="./sv.html">
     <img src="./images/Logo_sects_and_violets.png" alt="Sects &amp; Violets">
     <span class="home-title">🌸 Sects &amp; Violets</span>
   </a>
 
-  <!-- 🚶 Voyageurs -->
+  <!-- 🔹 2ème ligne : Voyageurs / Carousel -->
   <a class="home-card" href="./voyageurs/voyageurs.html">
     <img src="./images/Generic_traveller.png" alt="Voyageurs">
     <span class="home-title">🚶 Voyageurs</span>
   </a>
 
-  <!-- 🏰 Légendaires (à venir) -->
+  <a class="home-card" href="./roles_experimentaux.html">
+    <img src="./images/carousel.png" alt="The Carousel Expérimental">
+    <span class="home-title">🎠 The Carousel Expérimental</span>
+    <span class="badge-pending">à venir</span>
+  </a>
+
+  <!-- 🔹 3ème ligne : Légendaires / Lorics -->
   <a class="home-card" href="#" onclick="return false;">
     <img src="./images/Generic_fabled.png" alt="Légendaires" style="opacity:.55; filter: grayscale(20%);">
     <span class="home-title">🏰 Légendaires</span>
     <span class="badge-pending">à venir</span>
   </a>
 
-  <!-- 🌿 Lorics -->
-  <a class="home-card" href="./loric_roles.html">
+  <!-- Lorics : lien corrigé pour éviter le 404 -->
+  <a class="home-card" href="/botc-fr-bambi/loric_roles.html">
     <img src="./images/Icon_loric.png" alt="Lorics">
     <span class="home-title">🌿 Lorics</span>
   </a>
 
-  <!-- 🎠 The Carousel Expérimental (à venir) -->
-  <a class="home-card" href="./roles_experimentaux.html">
-    <img src="./images/carousel.png" alt="The Carousel Expérimental" style="opacity:.9;">
-    <span class="home-title">🎠 The Carousel Expérimental</span>
-    <span class="badge-pending">à venir</span>
-  </a>
-
 </div>
-
 <!-- ====== /GRID D'ACCUEIL ====== -->
 
 
