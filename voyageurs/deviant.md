@@ -55,7 +55,7 @@ C’est au <strong>Conteur</strong> de juger si le Déviant a été amusant ou n
 
 ---
 
-## ⚙️ Fonctionnement (Conteur)
+## ⚙️ Comment Conter
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
   <li>Si le Déviant devait être exilé, le Conteur peut déclarer qu’il reste en vie.</li>
