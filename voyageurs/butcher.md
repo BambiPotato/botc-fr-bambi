@@ -5,111 +5,128 @@ title: Boucher
 
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="/images/logogold.png" alt="Accueil BotC FR" width="300">
+    <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
-# 🔪 Boucher  
+<!-- 🔪 Boucher -->
 
-[<img src="/images/Icon_butcher.png" alt="Boucher" width="400">](butcher.md)  
-[**Boucher**](butcher.md)
-
----
-
-## ℹ️ Informations  
-- **Type :** <span style="color:#9b59b6; font-weight:bold;">Voyageur</span>  
-- **Artiste :** Aidan Roberts  
-- *« On dirait du poulet. Encore, s’il vous plaît. »*
+<div style="text-align:center; margin: 20px 0;">
+  <img src="../images/Icon_butcher.png" alt="Boucher" width="360" style="border-radius:12px; margin-top:10px;">
+  <br>
+  <span style="color:#9b59b6; font-weight:bold; font-size:28px;">Boucher</span>
+</div>
 
 ---
 
-## 🎭 Apparaît dans  
+## 🧭 Informations
+- **Type :** <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>  
+- **Édition :** <a href="../sects_and_violets.html" style="color:#67bfff; font-weight:bold; text-decoration:none;">Sects & Violets</a>  
+- **Artiste :** <span style="color:#f5f5f5;">Aidan Roberts</span>
 
-[<img src="/images/Logo_sects_and_violets.png" alt="Sects & Violets" width="200">](../sects_and_violets.md)  
-# 🌸 <span style="color:#67bfff; font-weight:bold; font-size:42px;">Sects & Violets</span>
-
-*Cult of the Clocktower – épisode par Andrew Nathenson*
+<p style="color:#f5f5f5; font-style:italic; font-size:17px; text-align:center;">
+« On dirait du poulet. Encore, s’il vous plaît. »
+</p>
 
 ---
 
-## 📖 Résumé  
+## 🎭 Apparaît dans
+
+<p style="text-align:center; margin: 12px 0 6px;">
+  <a href="../sects_and_violets.html" style="text-decoration:none;">
+    <img src="../images/Logo_sects_and_violets.png" alt="Sects & Violets" width="220" style="border-radius:8px;">
+  </a>
+</p>
+
+<p style="text-align:center;">
+  🌸 <a href="../sects_and_violets.html" style="color:#67bfff; font-weight:bold; text-decoration:none; font-size:22px;">Sects & Violets</a>
+</p>
+
+---
+
+## 📖 Résumé
 
 **« Chaque jour, après la 1re exécution, vous pouvez faire une nouvelle nomination. »**
 
-Le **Boucher** permet une **deuxième exécution par jour**.
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+Le <strong>Boucher</strong> permet une seconde exécution par jour.
+</p>
 
-- Après la **première exécution**, le Boucher peut **nominer à nouveau**.  
-- Il peut nominer **un joueur déjà nommé** ou **un autre joueur**, même s’il a déjà fait une nomination aujourd’hui.  
-- Si **aucune exécution** n’a lieu, il **ne peut pas** utiliser sa capacité.  
-- Cette nomination suit les **règles normales** : il faut au moins **la moitié des votes des joueurs vivants**.  
-- Le Boucher **ne peut pas provoquer de troisième exécution** dans la même journée.  
-
----
-
-## 🎬 Mise en place & fonctionnement  
-
-- Chaque jour, **juste après une exécution**, le Conteur rappelle au Boucher qu’il peut nominer.  
-- Si le Boucher nomine, le vote se déroule normalement.  
-- Si cette exécution réussit, la journée prend fin (aucune autre exécution possible).  
-- Les **exils** ne sont pas des exécutions et **ne déclenchent pas** sa capacité.  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+  <li>Après la première exécution du jour, il peut nominer à nouveau.</li>
+  <li>Il peut choisir n’importe quel joueur, même déjà nommé.</li>
+  <li>Si aucune exécution n’a eu lieu, il ne peut pas agir.</li>
+  <li>Il ne peut pas déclencher de troisième exécution le même jour.</li>
+</ul>
 
 ---
 
-## 🧾 Exemples  
+## 🎬 Mise en place & fonctionnement
 
-- La [<span style="color:#d45b5b;">Sorcière</span>](../sv_roles/sorciere.md) est exécutée et meurt.  
-  → Le **Boucher** nomine ensuite le [<span style="color:#4ea3ff;">Savant</span>](../sv_roles/savant.md), qui obtient assez de votes et meurt aussi.  
-
-- Le [<span style="color:#4ea3ff;">Collecteur d’Os</span>](../sv_roles/collecteursos.md) est exilé, puis la [<span style="color:#4ea3ff;">Courtisane</span>](../sv_roles/courtisane.md) est exilée.  
-  → Aucune exécution n’a eu lieu : le **Boucher** ne peut pas agir.  
-
-- Le **Boucher** nomine le [<span style="color:#4ea3ff;">Crieur</span>](../sv_roles/crieur.md), sans succès.  
-  Plus tard, le [<span style="color:#4ea3ff;">Mathématicien</span>](../sv_roles/mathematicien.md) reçoit plus de votes et meurt.  
-  → Le Boucher peut alors **nominer de nouveau le Crieur Public**, et cette fois, il est exécuté.  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+  <li>Après une exécution, le Conteur rappelle au Boucher qu’il peut nominer.</li>
+  <li>Si le Boucher nomine, un nouveau vote se tient normalement.</li>
+  <li>Si cette exécution réussit, la journée se termine.</li>
+  <li>Les exils ne déclenchent pas la capacité du Boucher.</li>
+</ul>
 
 ---
 
-## 💡 Conseils & Astuces (si vous êtes du <span style="color:#4ea3ff;">camp du Bien</span>)  
+## 🧾 Exemples
 
-- Tirez profit de votre capacité pour **doubler les chances de tuer le Démon**.  
-  Deux exécutions par jour sont un énorme avantage pour le Bien.  
-- **Choisissez vos cibles prudemment** : une nomination inutile gaspille votre pouvoir.  
-- Si le groupe doute de vous, proposez de **nominer selon leur choix** pour rester en jeu.  
-- Observez **qui vote pour qui** :  
-  - Beaucoup de votes = cible probablement bonne (les Sbires votent rarement contre le Démon).  
-  - Peu de votes = cible potentiellement maléfique.  
-- Attention à ne pas trop accélérer le rythme si un [<span style="color:#d45b5b;">Jumeau Maléfique</span>](../sv_roles/jumeaumalefique.md) est en jeu : la partie peut s’achever trop vite.  
-- Si la [<span style="color:#d45b5b;">Sorcière</span>](../sv_roles/sorciere.md) vous maudit, cela vous protège souvent :  
-  le Mal évite rarement de frapper un de ses alliés, ce qui **confirme votre innocence**.  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+  <li>La <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> est exécutée et meurt.  
+  → Le <strong>Boucher</strong> nomine ensuite le <a href="../sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a>, qui obtient assez de votes et meurt aussi.</li>
 
----
+  <li>Le <a href="../sv_roles/collecteursos.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Collecteur d’Os</a> est exilé, puis la <a href="../sv_roles/courtisane.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisane</a> est exilée.  
+  → Aucune exécution n’a eu lieu : le Boucher ne peut pas agir.</li>
 
-## 💀 Conseils & Astuces (si vous êtes du <span style="color:#d45b5b;">camp du Mal</span>)  
-
-- **Faites exécuter le plus de bons joueurs possible.**  
-  Deux exécutions par jour + un meurtre du Démon la nuit = le Bien s’effondre vite.  
-- Ne nominez **jamais le Démon**, même par erreur : une exécution ratée peut ruiner la partie.  
-- Pour paraître bon, **nominez un joueur très apprécié** : cela crédibilise votre rôle.  
-- **Coopérez** avec vos alliés maléfiques :  
-  le [<span style="color:#d45b5b;">Jumeau Maléfique</span>](../sv_roles/jumeaumalefique.md), la [<span style="color:#d45b5b;">Sorcière</span>](../sv_roles/sorciere.md) ou le [<span style="color:#d45b5b;">Cerenovus</span>](../sv_roles/cerenovus.md) peuvent vous aider à réduire rapidement les effectifs du Bien.  
-- Si le [<span style="color:#d45b5b;">Fang Gu</span>](../sv_roles/fanggu.md) ou un [<span style="color:#4ea3ff;">Charmeur de Serpents</span>](../sv_roles/charmeurdeserpent.md) est en jeu,  
-  soyez prudent : un changement de Démon peut vous faire nominer la mauvaise cible.  
+  <li>Le Boucher nomine le <a href="../sv_roles/crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur</a>, sans succès.  
+  Plus tard, le <a href="../sv_roles/mathematicien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mathématicien</a> reçoit plus de votes et meurt.  
+  → Le Boucher peut alors nominer de nouveau le Crieur, qui est exécuté.</li>
+</ul>
 
 ---
 
-## 📚 Rappels utiles  
+## 💡 Conseils & Astuces (camp du <span style="color:#4ea3ff;">Bien</span>)
 
-- Le Boucher peut **nominer une seconde fois** seulement après **une exécution réussie**.  
-- Il ne peut **jamais provoquer de troisième exécution**.  
-- Les **exils** ne déclenchent pas sa capacité.  
-- Le Boucher peut être **exilé** comme tout Voyageur.  
-- Il **ne compte pas** parmi les joueurs vivants pour les conditions de victoire.  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+  <li>Deux exécutions par jour peuvent offrir une victoire rapide au Bien — mais exige une coordination parfaite.</li>
+  <li>Ne gaspillez pas votre nomination : choisissez un moment et une cible pertinents.</li>
+  <li>Proposez de suivre la volonté du groupe pour gagner leur confiance.</li>
+  <li>Analysez les votes pour détecter le <span style="color:#d45b5b;">Mal</span>.</li>
+  <li>Attention au <a href="../sv_roles/jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumeau Maléfique</a>&nbsp;: deux exécutions peuvent écourter dangereusement la partie.</li>
+  <li>Si la <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> vous maudit, cela peut renforcer votre crédibilité auprès du Bien.</li>
+</ul>
 
 ---
 
+## 🔥 Conseils & Astuces pour les <span style="color:#d45b5b;">Maléfiques</span>)
 
-<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌸  <a href="../sects_and_violets.md" style="color:#67bfff; font-weight:bold; text-decoration:none;">Retour à Sects & Violets</a></li>
-  <li>🧳 <a href="../voyageurs/voyageurs.md" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour à la liste des Voyageurs</a></li>
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+  <li>Favorisez l’élimination rapide des bons joueurs.</li>
+  <li>Ne nominez jamais votre <a href="../sv_roles/fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.</li>
+  <li>Pour paraître bon, nominez une cible populaire et légitime.</li>
+  <li>Coordonnez-vous avec la <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a>, le <a href="../sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a> ou le <a href="../sv_roles/jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumeau Maléfique</a> pour affaiblir le Bien.</li>
+  <li>Si un <a href="../sv_roles/charmeurdeserpent.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Charmeur de Serpents</a> ou un <a href="../sv_roles/fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a> est en jeu, soyez prudent : le Démon peut changer.</li>
+</ul>
+
+---
+
+## 📚 Rappels utiles
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+  <li>Le Boucher ne peut agir qu’après une exécution réussie.</li>
+  <li>Il ne peut jamais déclencher une troisième exécution.</li>
+  <li>Les exils ne comptent pas comme des exécutions.</li>
+  <li>Il peut être exilé comme tout Voyageur.</li>
+  <li>Il ne compte pas dans le calcul de fin de partie.</li>
+</ul>
+
+---
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li>🌸 <a href="../sects_and_violets.html" style="color:#67bfff; font-weight:bold; text-decoration:none;">Retour à Sects & Violets</a></li>
+  <li>🧳 <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
 </ul>
