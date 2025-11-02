@@ -5,116 +5,123 @@ title: Bishop
 
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="/images/logogold.png" alt="Accueil BotC FR" width="300">
+    <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
-# ⛪ Évêque  
+<!-- ⛪ Évêque -->
 
-[<img src="/images/Icon_bishop.png" alt="Évêque" width="400">](bishop.md)  
-[**Évêque**](bishop.md)
-
----
-
-## ℹ️ Informations  
-- **Type :** <span style="color:#9b59b6; font-weight:bold;">Voyageur</span>  
-- **Artiste :** John Grist  
-- *« In nomine Patris, et Filii, et Spiritus Sancti… Nos mos Dei. Deus vult de nobis. »*
+<div style="text-align:center; margin: 20px 0;">
+  <img src="../images/Icon_bishop.png" alt="Évêque" width="360" style="border-radius:12px; margin-top:10px;">
+  <br>
+  <span style="color:#9b59b6; font-weight:bold; font-size:28px;">Évêque</span>
+</div>
 
 ---
 
-## 🎭 Apparaît dans  
+## 🧭 Informations
+- **Type :** <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>  
+- **Édition :** <a href="../bmr.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Bad Moon Rising</a>  
+- **Artiste :** <span style="color:#f5f5f5;">John Grist</span>
 
-[<img src="/images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="200">](../bmr.md)  
-# 🌙 <span style="color:#ffa64d; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
-
-*Cult of the Clocktower – épisode par Andrew Nathenson*
+<p style="color:#f5f5f5; font-style:italic; font-size:17px; text-align:center;">
+« In nomine Patris, et Filii, et Spiritus Sancti… »
+</p>
 
 ---
 
-## 📖 Résumé  
+## 🎭 Apparaît dans
+
+<p style="text-align:center; margin: 12px 0 6px;">
+  <a href="../bmr.html" style="text-decoration:none;">
+    <img src="../images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="220" style="border-radius:8px;">
+  </a>
+</p>
+
+<p style="text-align:center;">
+  🌙 <a href="../bmr.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none; font-size:22px;">Bad Moon Rising</a>
+</p>
+
+---
+
+## 📖 Résumé
 
 **« Seul le Conteur peut nominer. Chaque jour, au moins un joueur du camp opposé à celui de l’Évêque doit être nommé. »**
 
-L’**Évêque** retire le droit de nomination à tous les joueurs : **seul le Conteur** peut désormais nominer.
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+L’<strong>Évêque</strong> retire le droit de nomination à tout le monde&nbsp;: <strong>seul le Conteur</strong> nomine, et il doit <strong>inclure au moins un joueur d’alignement opposé</strong> chaque jour.
+</p>
 
-- Le Conteur fait **toutes les nominations** pendant la journée.  
-- Il peut nominer **autant de joueurs qu’il le souhaite**, mais **doit inclure au moins un joueur d’alignement opposé** à celui de l’Évêque chaque jour.  
-- Le processus de **vote reste inchangé** : tout le monde peut voter normalement.  
-- Le **Conteur ne peut pas terminer la phase de nominations** sans avoir nommé un joueur opposé.  
-- Si l’Évêque est exilé, **les joueurs reprennent le droit de nominer** normalement.  
-
----
-
-## 🎬 Mise en place & fonctionnement  
-
-- Chaque aube, marquez l’Évêque bon avec **NOMINER MALÉFIQUE**, ou l’Évêque maléfique avec **NOMINER BON**.  
-- Pendant la journée, **les joueurs ne peuvent plus nominer**.  
-  → Seul le Conteur le fait, à la place du groupe.  
-- Le Conteur doit nominer **au moins un joueur du camp opposé** chaque jour.  
-- Il choisit librement combien de joueurs nominer (généralement entre 3 et 5).  
-- Si l’Évêque est exilé, les **règles reviennent à la normale**.  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+  <li>Le Conteur peut nominer autant de personnes qu’il souhaite.</li>
+  <li>Le vote reste inchangé&nbsp;: tous les joueurs peuvent voter.</li>
+  <li>La phase des nominations ne peut pas se terminer sans qu’au moins un opposant ait été nommé.</li>
+  <li>Si l’Évêque est exilé, les règles de nomination redeviennent normales.</li>
+</ul>
 
 ---
 
-## 🧾 Exemples  
+## 🎬 Mise en place & fonctionnement
 
-- L’**Évêque** est bon.  
-  → Le Conteur nomine le [Po](../bmr_roles/po.md), un [Sbire](../bmr_roles/minion.md), et deux [Villageois](../bmr_roles/chambermaid.md).  
-
-- L’**Évêque** est maléfique.  
-  → Le Conteur n’a nommé personne.  
-  → Il doit nominer au moins un bon joueur : il choisit le [Ménestrel](../bmr_roles/minstrel.md).  
-  → Le lendemain, il nomine quatre bons joueurs et le [Démon](../bmr_roles/po.md).  
-  → L’Évêque est exilé ce jour-là, et les joueurs peuvent de nouveau nominer librement.
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+  <li>Au lever du jour, notez la contrainte&nbsp;: <em>nominer un opposant</em> (bon si l’Évêque est maléfique, maléfique s’il est bon).</li>
+  <li>Pendant la journée, seuls les choix du Conteur deviennent des nominations.</li>
+  <li>Il choisit librement le nombre de nominations (souvent 3 à 5).</li>
+  <li>Exil de l’Évêque&nbsp;=&nbsp;retour aux nominations classiques.</li>
+</ul>
 
 ---
 
-## 💡 Conseils & Astuces (si vous êtes du <span style="color:#4ea3ff;">camp du Bien</span>)  
+## 🧾 Exemples
 
-- Observez attentivement **qui le Conteur nomine chaque jour**.  
-  Il doit nominer **au moins un rôle maléfique** quotidiennement.  
-  → Comparez les jours pour repérer les suspects récurrents.  
-  Exemple : si le Conteur nomine deux jours de suite le [Bricoleur](../bmr_roles/tinker.md), il y a de fortes chances qu’il soit maléfique.  
-- Restez en vie : vous êtes une **source d’informations précieuse**.  
-  Mais les autres joueurs peuvent penser que vous **bloquez le jeu**.  
-  → Gagnez leur confiance en partageant vos déductions.  
-- Le dernier jour, le Conteur nomine forcément le Démon.  
-  Si seules deux ou trois nominations sont faites, **le champ des suspects est réduit**, un atout majeur pour le Bien.  
-- Votre influence **grandit à mesure que la partie avance** :  
-  moins il reste de joueurs, plus chaque nomination devient cruciale.  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+  <li>L’<strong>Évêque bon</strong>.  
+  → Le Conteur nomine le <a href="../bmr_roles/po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a>, l’<a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> et deux <a href="../bmr_roles/chambermaid.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois (Femme de chambre)</a>.</li>
+
+  <li>L’<strong>Évêque maléfique</strong>.  
+  → Le Conteur n’a encore nommé personne. Il doit nominer au moins un bon&nbsp;: il choisit le <a href="../bmr_roles/minstrel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ménestrel</a>.  
+  → Le lendemain, il nomine quatre bons et le <a href="../bmr_roles/po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon (Po)</a>.  
+  → L’Évêque est exilé ce jour-là, les joueurs reprennent la main.</li>
+</ul>
 
 ---
 
-## 💀 Conseils & Astuces (si vous êtes <span style="color:#d45b5b;">maléfique</span>)  
+## 💡 Conseils & Astuces (camp du <span style="color:#4ea3ff;">Bien</span>)
 
-- Faites tout pour **paraître bon** : si le groupe pense que vous êtes du Mal, il vous exilera vite.  
-  → Vous devez survivre plusieurs jours pour être efficace.  
-- Tant que vous vivez, les **maléfiques sont rarement nominés**.  
-  Le Conteur peut occasionnellement en nominer un pour sauver les apparences.  
-- **Votez souvent** : cela renforce votre image de joueur du Bien.  
-  → Vous pouvez dire : « Je vote, car le Conteur a dû nominer un maléfique. »  
-- Si une journée se termine avec **seulement des bons joueurs nommés**,  
-  le lendemain, détournez les soupçons vers eux :  
-  → « L’un d’entre eux est forcément du Mal ! »  
-  Même si c’est faux, vous **détournez l’attention** du véritable Démon.  
-- Si vous sentez que l’exil approche, **proposez-le vous-même** :  
-  cela donne une image de transparence et vous protège souvent temporairement.  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+  <li>Analysez la <strong>liste quotidienne des nommés</strong>&nbsp;: il doit y avoir au moins un maléfique.</li>
+  <li>Comparez les jours pour trouver les suspects récurrents.</li>
+  <li>En fin de partie, moins de nominations ciblent mieux le Démon.</li>
+  <li>Partagez vos déductions pour éviter l’exil prématuré.</li>
+</ul>
 
 ---
 
-## 📚 Rappels utiles  
+## 💀 Conseils & Astuces (camp du <span style="color:#d45b5b;">Mal</span>)
 
-- Le Conteur doit **nominer au moins un joueur du camp opposé** à celui de l’Évêque chaque jour.  
-- L’Évêque peut être **exilé** comme tout Voyageur.  
-- Il **ne compte pas** dans le nombre de joueurs vivants pour les conditions de victoire.  
-- Si l’Évêque est exilé, **les joueurs récupèrent le droit de nominer**.  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+  <li>Soignez votre image pour éviter l’exil.</li>
+  <li>Profitez du rythme imposé&nbsp;: les maléfiques seront moins souvent nommés.</li>
+  <li>Votez souvent pour paraître fiable&nbsp;: « le Conteur devait nominer un maléfique ». </li>
+  <li>Si un jour ne comporte que des bons, exploitez-le pour semer le doute ensuite.</li>
+  <li>Proposer votre propre exil peut parfois vous sauver temporairement.</li>
+</ul>
 
 ---
 
+## 📚 Rappels utiles
 
-<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌙 <a href="../bmr.md" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a></li>
-  <li>🧳 <a href="../voyageurs/voyageurs.md" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour à la liste des Voyageurs</a></li>
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+  <li>Le Conteur doit nominer un opposant chaque jour.</li>
+  <li>L’Évêque peut être exilé comme tout Voyageur.</li>
+  <li>Il ne compte pas dans le nombre de joueurs vivants pour la condition de fin.</li>
+  <li>Exil&nbsp;=&nbsp;retour aux nominations normales.</li>
+</ul>
+
+---
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li>🌙 <a href="../bmr.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a></li>
+  <li>🧳 <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
 </ul>
