@@ -1,0 +1,96 @@
+---
+layout: default
+title: Fibbin
+---
+
+<p align="left">
+  <a href="/botc-fr-bambi/">
+    <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
+  </a>
+</p>
+
+<!-- 🤥 Fibbin -->
+
+<div style="text-align:center; margin: 20px 0;">
+  <img src="../images/Icon_fibbin.png" alt="Fibbin" width="360" style="border-radius:12px; margin-top:10px;">
+  <br>
+  <span style="color:#d4a76a; font-weight:bold; font-size:28px;">Fibbin</span>
+</div>
+
+---
+
+## 🧭 Informations
+- **Type :** <a href="../legendaire.md" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Légendaire</a>  
+- **Artiste :** Aidan Roberts  
+
+<p style="color:#f5f5f5; font-style:italic; font-size:17px; text-align:center; line-height:1.8;">
+« Hihihi.  
+Hi. Hi. Hi. »
+</p>
+
+---
+
+## 📖 Résumé
+
+**« Une fois par partie, un joueur bon peut recevoir une information incorrecte. »**
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.8;">
+Ajoutez le <strong>Fibbin</strong> si votre script contient trop d’informations fiables, ou aucune possibilité d’informations fausses.  
+Même une légère chance qu’un joueur bon reçoive une mauvaise information peut considérablement aider les <span style="color:#d45b5b;">maléfiques</span> à bluffer.  
+Le <strong>Fibbin</strong> n’annule pas une capacité comme le feraient l’ivresse ou l’empoisonnement — il ne peut qu’altérer une information donnée par le Conteur, que ce soit un signe ou une parole.
+</p>
+
+---
+
+## ⚙️ Comment Conter
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.8; margin-left:24px;">
+  <li>Au début de la partie, annoncez que le <strong>Fibbin</strong> est en jeu et ajoutez son jeton au grimoire.</li>
+  <li>Une fois par partie, lorsqu’un joueur bon obtient une information issue d’une capacité, vous pouvez lui donner une mauvaise information.</li>
+  <li>Après cela, placez le rappel <strong>PAS DE POUVOIR</strong> près du jeton du Fibbin pour indiquer que sa capacité est utilisée.</li>
+  <li>Si la partie se termine sans que le <strong>Fibbin</strong> ait donné de fausse information, ce n’est pas un problème.</li>
+  <li>Certains rôles reçoivent naturellement de fausses informations : le <strong>Fibbin</strong> peut exceptionnellement les rendre exactes à la place.</li>
+</ul>
+
+---
+
+## 🧾 Exemples
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.8; margin-left:24px;">
+  <li>La première nuit, tous les joueurs reçoivent les bonnes informations.  
+  La deuxième nuit, l’<a href="../tb_roles/empath.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a> apprend qu’un de ses deux voisins est maléfique,  
+  alors qu’en réalité, ils sont tous deux bons.  
+  Pour le reste de la partie, les joueurs bons reçoivent des informations correctes.</li>
+
+  <li>La <a href="../tb_roles/virgin.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Vierge</a> est nominée par un <span style="color:#4ea3ff;">Villageois</span> : ce dernier est exécuté immédiatement,  
+  car le <strong>Fibbin</strong> ne peut pas faire échouer une capacité.  
+  Plus tard, le <a href="../tb_roles/monk.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> protège un joueur — encore une fois, sa capacité ne peut pas échouer à cause du Fibbin.  
+  Enfin, le <a href="../tb_roles/ravenkeeper.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien du Corbeau</a> meurt pendant la nuit et reçoit une mauvaise information,  
+  car les capacités qui transmettent des informations peuvent être affectées par le <strong>Fibbin</strong>.</li>
+</ul>
+
+---
+
+## 💬 Explication
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.8;">
+Le <strong>Fibbin</strong> est utile dans les scripts où il n’existe aucun moyen pour les informations d’être fausses :  
+aucun rôle ne provoque d’ivresse, d’empoisonnement ou d’erreur de communication.  
+
+Même une petite possibilité qu’un joueur bon reçoive une mauvaise information rend le jeu plus incertain  
+et donne de la marge de manœuvre aux <span style="color:#d45b5b;">maléfiques</span> pour bluffer.  
+
+Le <strong>Fibbin</strong> ne fait pas échouer une capacité, il ne fait qu’altérer le résultat communiqué par le Conteur.  
+Ainsi, il peut influencer les rôles comme l’<a href="../tb_roles/investigator.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Investigateur</a>,  
+l’<a href="../tb_roles/librarian.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bibliothécaire</a>,  
+ou le <a href="../tb_roles/chef.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef</a>.  
+
+Si la partie se termine avant que le <strong>Fibbin</strong> n’ait induit quelqu’un en erreur, c’est tout à fait acceptable.
+</p>
+
+---
+
+<p style="text-align:left; font-size:18px; margin-top:20px;">
+🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+🌟 <a href="../legendaire.md" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour aux Légendaires</a>
+</p>
