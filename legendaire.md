@@ -33,16 +33,16 @@ Par exemple :
 
 ## 📚 Sommaire  
 
-1. [Toute Partie](#-any-game)  
-2. [Parties Personnalisées](#-custom-games)  
-3. [Expérimentaux](#-expérimental)  
+1. [Toute Partie](#-toute-partie)  
+2. [Parties Personnalisées](#-parties-personnalisees)  
+3. [Expérimentaux](#-experimentaux)  
 
 ---
 
 ## 🎲 Toute Partie  
 
-<a href="#-any-game" style="text-decoration:none;">
-  <" alt="Toute Partie" width="200" style="display:block; margin:10px 0;">
+<a href="#-toute-partie" style="text-decoration:none;">
+  <img src="./images/Icon_doomsayer.png" alt="Toute Partie" width="200" style="display:block; margin:10px 0;">
 </a>
 
 <div style="text-align:center; margin-top:15px;">
@@ -70,7 +70,7 @@ Par exemple :
   <div style="display:inline-block; margin:10px;">
     <a href="./legendaire_roles/hellslibrarian.md" style="text-decoration:none;">
       <img src="./images/Icon_hellslibrarian.png" alt="Hell's Librarian" width="260"><br>
-      <span style="color:#d45b5b; font-weight:bold;">Bibliothécaire des Enfers</span>
+      <span style="color:#d45b5b; font-weight:bold;">Bibliothécaire de l’Enfer</span>
     </a>
   </div>
 
@@ -100,7 +100,7 @@ Par exemple :
 
 ## ⚜️ Parties Personnalisées  
 
-<a href="#-custom-games" style="text-decoration:none;">
+<a href="#-parties-personnalisees" style="text-decoration:none;">
   <img src="./images/Icon_duchess.png" alt="Parties Personnalisées" width="200" style="display:block; margin:10px 0;">
 </a>
 
@@ -108,7 +108,7 @@ Par exemple :
   <div style="display:inline-block; margin:10px;">
     <a href="./legendaire_roles/fibbin.md" style="text-decoration:none;">
       <img src="./images/Icon_fibbin.png" alt="Fibbin" width="260"><br>
-      <span style="color:#d4a76a; font-weight:bold;">Menteur</span>
+      <span style="color:#d4a76a; font-weight:bold;">Fibbin</span>
     </a>
   </div>
 
@@ -145,8 +145,8 @@ Par exemple :
 
 ## 🧪 Expérimentaux  
 
-<a href="#-expérimental" style="text-decoration:none;">
-  <img src="./images/Icon_deusexfiasco.png" alt="Expérimental" width="200" style="display:block; margin:10px 0;">
+<a href="#-experimentaux" style="text-decoration:none;">
+  <img src="./images/Icon_deusexfiasco.png" alt="Expérimentaux" width="200" style="display:block; margin:10px 0;">
 </a>
 
 <div style="text-align:center; margin-top:15px;">
