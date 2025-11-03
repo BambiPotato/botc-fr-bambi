@@ -42,7 +42,7 @@ Par exemple :
 ## 🎲 Toute Partie  
 
 <a href="#-any-game" style="text-decoration:none;">
-  <img src="./images/Icon_doomsayer.png" alt="Toute Partie" width="200" style="display:block; margin:10px 0;">
+  <" alt="Toute Partie" width="200" style="display:block; margin:10px 0;">
 </a>
 
 <div style="text-align:center; margin-top:15px;">
