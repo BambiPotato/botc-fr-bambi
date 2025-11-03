@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Légendaires
+title: Légendaire
 ---
 
 <p align="left">
@@ -40,10 +40,6 @@ Par exemple :
 ---
 
 ## 🎲 Toute Partie  
-
-<a href="#-toute-partie" style="text-decoration:none;">
-  <img src="./images/Icon_doomsayer.png" alt="Toute Partie" width="200" style="display:block; margin:10px 0;">
-</a>
 
 <div style="text-align:center; margin-top:15px;">
   <div style="display:inline-block; margin:10px;">
@@ -100,10 +96,6 @@ Par exemple :
 
 ## ⚜️ Parties Personnalisées  
 
-<a href="#-parties-personnalisees" style="text-decoration:none;">
-  <img src="./images/Icon_duchess.png" alt="Parties Personnalisées" width="200" style="display:block; margin:10px 0;">
-</a>
-
 <div style="text-align:center; margin-top:15px;">
   <div style="display:inline-block; margin:10px;">
     <a href="./legendaire_roles/fibbin.md" style="text-decoration:none;">
@@ -144,10 +136,6 @@ Par exemple :
 ---
 
 ## 🧪 Expérimentaux  
-
-<a href="#-experimentaux" style="text-decoration:none;">
-  <img src="./images/Icon_deusexfiasco.png" alt="Expérimentaux" width="200" style="display:block; margin:10px 0;">
-</a>
 
 <div style="text-align:center; margin-top:15px;">
   <div style="display:inline-block; margin:10px;">
