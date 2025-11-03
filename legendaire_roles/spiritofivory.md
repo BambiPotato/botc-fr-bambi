@@ -80,7 +80,7 @@ Si deux ou plusieurs joueurs et joueuses basculent du côté du mal, l’équipe
 L’<strong>Esprit d’Ivoire</strong> empêche cette situation en limitant le nombre total de personnages <span style="color:#d45b5b;">maléfiques</span> à un seul de plus que la normale.  
 Si un deuxième joueur devait devenir <span style="color:#d45b5b;">maléfique</span>, il reste tout simplement <span style="color:#4ea3ff;">bon</span>.  
 
-Le nombre normal de personnages <span style="color:#d45b5b;">maléfiques</span> est indiqué sur la fiche <em>Voyageur</em> ainsi que sur la fiche de mise en place.
+Le nombre normal de rôle <span style="color:#d45b5b;">maléfiques</span> est indiqué sur la fiche des <em>Voyageurs</em> ainsi que sur la fiche de mise en place.
 </p>
 
 ---
