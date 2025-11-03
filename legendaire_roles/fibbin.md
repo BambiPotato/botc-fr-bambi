@@ -58,14 +58,14 @@ Le <strong>Fibbin</strong> n’annule pas une capacité comme le feraient l’iv
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8; margin-left:24px;">
   <li>La première nuit, tous les joueurs reçoivent les bonnes informations.  
-  La deuxième nuit, l’<a href="../tb_roles/empath.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a> apprend qu’un de ses deux voisins est maléfique,  
+  La deuxième nuit, l’<a href="../tb_roles/empathique.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a> apprend qu’un de ses deux voisins est maléfique,  
   alors qu’en réalité, ils sont tous deux bons.  
   Pour le reste de la partie, les joueurs bons reçoivent des informations correctes.</li>
 
   <li>La <a href="../tb_roles/virgin.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Vierge</a> est nominée par un <span style="color:#4ea3ff;">Villageois</span> : ce dernier est exécuté immédiatement,  
   car le <strong>Fibbin</strong> ne peut pas faire échouer une capacité.  
-  Plus tard, le <a href="../tb_roles/monk.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> protège un joueur — encore une fois, sa capacité ne peut pas échouer à cause du Fibbin.  
-  Enfin, le <a href="../tb_roles/ravenkeeper.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien du Corbeau</a> meurt pendant la nuit et reçoit une mauvaise information,  
+  Plus tard, le <a href="../tb_roles/moine.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> protège un joueur — encore une fois, sa capacité ne peut pas échouer à cause du Fibbin.  
+  Enfin, le <a href="../tb_roles/gardien.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a> meurt pendant la nuit et reçoit une mauvaise information,  
   car les capacités qui transmettent des informations peuvent être affectées par le <strong>Fibbin</strong>.</li>
 </ul>
 
@@ -81,9 +81,9 @@ Même une petite possibilité qu’un joueur bon reçoive une mauvaise informati
 et donne de la marge de manœuvre aux <span style="color:#d45b5b;">maléfiques</span> pour bluffer.  
 
 Le <strong>Fibbin</strong> ne fait pas échouer une capacité, il ne fait qu’altérer le résultat communiqué par le Conteur.  
-Ainsi, il peut influencer les rôles comme l’<a href="../tb_roles/investigator.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Investigateur</a>,  
-l’<a href="../tb_roles/librarian.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bibliothécaire</a>,  
-ou le <a href="../tb_roles/chef.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef</a>.  
+Ainsi, il peut influencer les rôles comme l’<a href="../tb_roles/enqueteur.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Enquêteur</a>,  
+l’<a href="../legendaire_roles/hellslibrarian.md" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bibliothécaire de L'Enfer</a>,  
+ou le <a href="../tb_roles/cuistot.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuistot</a>.  
 
 Si la partie se termine avant que le <strong>Fibbin</strong> n’ait induit quelqu’un en erreur, c’est tout à fait acceptable.
 </p>
