@@ -62,7 +62,7 @@ La personne principalement responsable de la mort d’un joueur protégé subit 
   <li>L’Ange protège Sandrine. Le <a href="../demons.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> l’attaque et la tue.  
       En punition, le Démon ne peut pas attaquer la nuit suivante.</li>
 
-  <li>Ben est le <a href="../demons.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> et il est protégé par l’Angel.  
+  <li>Bruno est le <a href="../demons.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> et il est protégé par l’Angel.  
       Les joueurs attendent le <strong>dernier jour</strong> pour l’exécuter, sans pénalité.</li>
 </ul>
 
