@@ -13,7 +13,7 @@ title: Légendaire
 
 ## 📖 Présentation  
 
-Les **Légendaires** (ou *Fabled*) sont des rôles réservés aux **Conteurs et conteuses** 🎭.  
+Les **Légendaires** (*Fabled*) sont des rôles réservés aux **Conteurs et conteuses** 🎭.  
 Ils modifient légèrement les conditions de jeu et sont souvent inclus **au début d’une partie**.  
 
 Leur objectif est d’**adapter la partie** aux besoins du groupe, ou de **corriger une contrainte réelle**.  
@@ -50,7 +50,7 @@ Par exemple :
   </div>
 
   <div style="display:inline-block; margin:10px;">
-    <a href="./legendaire_roles/angel.md" style="text-decoration:none;">
+    <a href="./legendaire_roles/ange.md" style="text-decoration:none;">
       <img src="./images/Icon_angel.png" alt="Angel" width="260"><br>
       <span style="color:#4ea3ff; font-weight:bold;">Ange</span>
     </a>
