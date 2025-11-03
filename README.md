@@ -250,8 +250,73 @@
 
 ## <span style="color:#b58b52; font-weight:bold; font-size:22px;">👺 Rôles par Édition</span>
 
-  <!-- CONTENEUR (avec fallback inline pour forcer la grille) -->
-<div class="home-grid" style="display:grid; grid-template-columns: repeat(3, minmax(220px, 1fr)); gap:28px; justify-items:center; align-items:start;">
+<style>
+  /* --- Grille responsive et cartes --- */
+  .home-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 20px;
+    align-items: start;
+    justify-items: center;
+    width: 100%;
+    max-width: 1200px;           /* évite de s’étirer trop en desktop */
+    margin: 12px 0 0 0;
+    box-sizing: border-box;
+  }
+  @media (min-width: 480px){
+    .home-grid { grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); }
+  }
+  @media (min-width: 768px){
+    .home-grid { gap: 24px; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); }
+  }
+
+  .home-card {
+    display: block;
+    width: 100%;
+    max-width: 360px;
+    border-radius: 16px;
+    padding: 14px 12px;
+    text-align: center;
+    text-decoration: none;
+    background: rgba(255,255,255,0.04);
+    box-shadow: 0 2px 10px rgba(0,0,0,0.18);
+    transition: transform .12s ease, box-shadow .12s ease, background .12s ease;
+    position: relative;
+    box-sizing: border-box;
+  }
+  .home-card:hover { transform: translateY(-2px); box-shadow: 0 6px 18px rgba(0,0,0,0.24); }
+
+  .home-card img {
+    display: block;
+    width: 100%;
+    height: auto;                /* pas de rognage */
+    max-height: 180px;           /* garde une carte compacte */
+    object-fit: contain;         /* images de tailles variées */
+    margin: 6px auto 10px auto;
+  }
+
+  .home-title {
+    display:block;
+    font-weight: 700;
+    font-size: 15.5px;
+    color: #f5f5f5;
+    line-height: 1.35;
+  }
+
+  .badge-pending {
+    display:inline-block;
+    margin-top: 8px;
+    padding: 3px 8px;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: .2px;
+    border-radius: 999px;
+    background: rgba(213,165,106,0.15);
+    color: #d4a76a;              /* doré discret */
+  }
+</style>
+
+<div class="home-grid">
 
   <!-- 🍺 Trouble Brewing -->
   <a class="home-card" href="./trouble_brewing.html">
@@ -284,24 +349,20 @@
     <span class="badge-pending">à venir</span>
   </a>
 
-  <!-- PLACEHOLDER INVISIBLE pour forcer le retour à la ligne (2e ligne = 2 cartes) -->
-  <span class="home-card" aria-hidden="true" style="visibility:hidden;"></span>
-
-  <!-- 🏰 Légendaires (à venir) -->
+  <!-- 🏰 Légendaires (désactivé pour l’instant) -->
   <a class="home-card" href="#" onclick="return false;">
-    <img src="./images/Generic_fabled.png" alt="Légendaires" style="opacity:.55; filter: grayscale(20%);">
+    <img src="./images/Generic_fabled.png" alt="Légendaires" style="opacity:.55; filter:grayscale(20%);">
     <span class="home-title">🏰 Légendaires</span>
     <span class="badge-pending">à venir</span>
   </a>
 
-  <!-- 🌿 Lorics (lien corrigé + taille visuelle harmonisée) -->
+  <!-- 🌿 Lorics -->
   <a class="home-card" href="./loric.html">
-    <img src="./images/Icon_loric.png" alt="Lorics" style="height:180px; width:auto; display:block; margin:0 auto; object-fit:contain;">
+    <img src="./images/Icon_loric.png" alt="Lorics">
     <span class="home-title">🌿 Lorics</span>
   </a>
 
 </div>
-
 <!-- ====== /GRID D'ACCUEIL ====== -->
 
 ---
