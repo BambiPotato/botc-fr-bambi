@@ -59,10 +59,10 @@ Dès qu’il ne reste plus que <strong>3 joueurs vivants</strong>, cette capacit
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8; margin-left:24px;">
   <li>Le <a href="../tb_roles/moine.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> utilise la capacité du Doomsayer :  
-    la <a href="../tb_roles/blanchisseuse.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Blanchisseuse</a> meurt.  
+    la <a href="../tb_roles/lavandiere.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> meurt.  
     Plus tard dans la journée, l’<a href="../tb_roles/empoisonneur.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> l’utilise à son tour : le <a href="../tb_roles/baron.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> meurt.</li>
 
-  <li>Un <a href="../tb_roles/voleur.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Voleur</a> maléfique utilise la capacité :  
+  <li>Un <a href="../voyageurs/voleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voleur</a> maléfique utilise la capacité :  
     la <a href="../tb_roles/femmeecarlate.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme Écarlate</a> meurt.  
     Plus tard, l’<a href="../tb_roles/espion.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espion</a> utilise la capacité :  
     le <a href="../voyageurs/gunslinger.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gunslinger</a> bon meurt.  
@@ -74,10 +74,10 @@ Dès qu’il ne reste plus que <strong>3 joueurs vivants</strong>, cette capacit
 ## 💬 Explication
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.8;">
-Le <strong>Doomsayer</strong> permet aux joueurs de sacrifier un allié de leur propre camp afin d’obtenir des informations ou d’accélérer la partie.  
-Seuls les <strong>joueurs vivants</strong> peuvent utiliser ce pouvoir, et <strong>une seule fois</strong> chacun.  
+Le <strong>Doomsayer</strong> permet aux joueurs et aux joueuses de sacrifier un allié de leur propre camp afin d’obtenir des informations ou d’accélérer la partie.  
+Seuls les <strong>joueurs et joueuses vivants</strong> peuvent utiliser ce pouvoir, et <strong>une seule fois</strong> chacun.  
 
-Si un joueur déclare : « J’utilise la capacité du Doomsayer », le Conteur choisit qui meurt — mais <strong>toujours</strong> quelqu’un du même alignement :  
+Si un joueur ou une joueuse déclare : « J’utilise la capacité du Doomsayer », le Conteur choisit qui meurt — mais <strong>toujours</strong> quelqu’un du même alignement :  
 un <span style="color:#4ea3ff; font-weight:bold;">Bon</span> tue un <span style="color:#4ea3ff; font-weight:bold;">Bon</span>, un <span style="color:#d45b5b; font-weight:bold;">Maléfique</span> tue un <span style="color:#d45b5b; font-weight:bold;">Maléfique</span>.  
 
 Il peut arriver (rarement) que faire mourir la personne qui a activé la capacité soit la décision la plus équilibrée :  
