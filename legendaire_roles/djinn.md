@@ -30,6 +30,9 @@ title: Djinn
 أسئلتك هي جبل نار في يوم صافٍ.
 </p>
 
+
+ <em>Nous ne sommes pas ici. Tu n’es pas réel. Tout est illusion. Tes questions sont une montagne de feu par un jour clair.</em>
+</p>
 ---
 
 ## 📖 Résumé
