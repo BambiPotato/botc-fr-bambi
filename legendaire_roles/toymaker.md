@@ -79,7 +79,7 @@ où la distribution comprend 6 <span style="color:#4ea3ff;">Villageois</span>, 2
 
 Avec ce rôle en jeu :
 <ul style="margin-left:24px;">
-  <li>Le <span style="color:#d45b5b;">Démon</span> apprend trois rôles qui ne sont pas <strong>(bluffs)</strong> du script dès la première nuit ;</li>
+  <li>Le <span style="color:#d45b5b;">Démon</span> apprend trois rôles qui ne sont pas en jeu <strong>(bluffs)</strong> du script dès la première nuit ;</li>
   <li>Les <span style="color:#d45b5b;">Sbires</span> et le <span style="color:#d45b5b;">Démon</span> se reconnaissent mutuellement ;</li>
   <li>Le <span style="color:#d45b5b;">Démon</span> doit volontairement s’abstenir d’attaquer une fois par partie.</li>
 </ul>
