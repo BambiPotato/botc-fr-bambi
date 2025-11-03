@@ -81,8 +81,8 @@ Chaque jour, il choisit un joueur immunisé. Cette nuit-là, le <strong>Conteur<
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Discutez avec tout le monde pour savoir qui aimerait garder sa capacité et qui préférerait changer.</li>
-  <li>Évitez de choisir des rôles risqués comme le <a href="../experimentaux_roles/ermite.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a> ou le <a href="../sv_roles/barbier.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Barbier</a> : espérez que le Conteur transforme ces joueurs en personnages utiles.</li>
-  <li>Choisissez publiquement ou secrètement selon la stratégie : annoncer votre choix inspire confiance, mais avertit le Mal ; garder le silence protège vos alliés, mais vous rend moins crédible.</li>
+  <li>Évitez de choisir des rôles risqués comme l' <a href="../experimentaux_roles/hermit.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ermite</a> ou le <a href="../sv_roles/barbier.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Barbier</a> : espérez que le Conteur transforme ces joueurs en rôles utiles.</li>
+  <li>Choisissez publiquement ou secrètement selon la stratégie : annoncer votre choix inspire confiance, mais avertit les Maléfiques ; garder le silence protège vos alliés, mais vous rend moins crédible.</li>
   <li>Analysez qui semble vouloir être choisi ou non : un refus peut révéler un rôle dangereux, ou un bluff bien caché.</li>
   <li>Chaque matin, demandez qui a changé de rôle ; si personne ne le dit, peut-être que le Conteur a choisi un joueur maléfique ou un changement indétectable.</li>
   <li>Observez la logique du Conteur : s’il accorde de puissants rôles bons, c’est peut-être un signe que l’équipe du Bien est en difficulté.</li>
@@ -96,8 +96,8 @@ Chaque jour, il choisit un joueur immunisé. Cette nuit-là, le <strong>Conteur<
   <li>Si un joueur maléfique change de rôle, encouragez-le à mentir et à se dire devenu un Villageois. Cela sème la confusion et empêche les bons de trouver la vérité.</li>
   <li>Si un rôle visiblement maléfique apparaît, restez discret : laissez vos alliés couvrir en prétendant qu’il existait déjà.</li>
   <li>Quand un bon joueur change, rendez-le suspect : « Je doute que le Conteur ferait ça ! »</li>
-  <li>Les premiers jours, choisissez publiquement des joueurs de confiance pour gagner la sympathie du groupe. Ensuite, ciblez discrètement des rôles utiles au Mal comme le <a href="../sv_roles/mutant.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mutant</a> ou le <a href="../experimentaux_roles/politicien.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Politicien</a>.</li>
-  <li>Demandez subtilement aux joueurs leurs rôles « pour savoir qui choisir »… puis transmettez ces infos au <span style="color:#d45b5b; font-weight:bold;">Démon</span>.</li>
+  <li>Les premiers jours, choisissez publiquement des joueurs de confiance pour gagner la sympathie du groupe. Ensuite, ciblez discrètement des rôles utiles aux Maléfiques comme le <a href="../sv_roles/mutant.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mutant</a> ou le <a href="../experimentaux_roles/politicien.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Politicien</a>.</li>
+  <li>Demandez subtilement aux joueurs et aux joueuses leurs rôles « pour savoir qui choisir »… puis transmettez ces infos au <span style="color:#d45b5b; font-weight:bold;">Démon</span>.</li>
   <li>Faites confiance au Conteur : ses changements aléatoires profiteront souvent à votre camp.</li>
 </ul>
 
