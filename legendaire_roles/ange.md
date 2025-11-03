@@ -12,7 +12,7 @@ title: Ange
 <!-- 👼 Ange -->
 
 <div style="text-align:center; margin: 20px 0;">
-  <img src="../images/Icon_angel.png" alt="Angel" width="360" style="border-radius:12px; margin-top:10px;">
+  <img src="../images/Icon_angel.png" alt="Ange" width="360" style="border-radius:12px; margin-top:10px;">
   <br>
   <span style="color:#d4a76a; font-weight:bold; font-size:28px;">Ange</span>
 </div>
@@ -35,8 +35,8 @@ car je les frapperai de la fureur et de la justice de mille tempêtes. »
 **« Quelque chose de fâcheux peut arriver à la personne la plus responsable de la mort d’un nouveau joueur. »**
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.8;">
-L’<strong>Ange</strong> aide les nouveaux joueurs à profiter pleinement du jeu lorsqu’ils rejoignent un groupe de vétérans.  
-Tout le monde sait qui est protégé par l’Angel, mais ni son rôle ni son alignement ne sont connus.  
+L’<strong>Ange</strong> aide les nouveaux joueurs et joueuses à profiter pleinement du jeu lorsqu’ils rejoignent un groupe de vétérans.  
+Tout le monde sait qui est protégé par l’Ange, mais ni son rôle ni son alignement ne sont connus.  
 La personne principalement responsable de la mort d’un joueur protégé subit une pénalité décidée par le Conteur.
 </p>
 
@@ -49,8 +49,8 @@ La personne principalement responsable de la mort d’un joueur protégé subit 
   <li>Ajoutez le jeton Ange et ses rappels au grimoire. Marquez chaque protégé avec un rappel <strong>PROTÉGÉ</strong>.</li>
   <li>Si un protégé meurt, appliquez une <strong>conséquence</strong> à la personne la plus responsable de cette mort.  
       Vous pouvez poser un rappel <strong>QUELQUE CHOSE DE MAL</strong> sur son jeton pour vous souvenir qu’elle est, par exemple, empoisonnée, privée de vote ou sans capacité pour un jour.</li>
-  <li>Retirez l’Angel quand vous le jugez utile et annoncez-le. Il est recommandé de le retirer <strong>le dernier jour</strong> pour libérer les exécutions.</li>
-  <li>L’Angel ne protège une personne que si elle le souhaite. Demandez son accord avant le début du jeu.</li>
+  <li>Retirez l’Ange quand vous le jugez utile et annoncez-le. Il est recommandé de le retirer <strong>le dernier jour</strong> pour libérer les exécutions.</li>
+  <li>L’Ange ne protège une personne que si elle le souhaite. Demandez son accord avant le début du jeu.</li>
   <li>Privilégiez une pénalité <strong>légère</strong> : mort immédiate, perte de capacité pour la journée, ou impossibilité de voter aujourd’hui.</li>
 </ul>
 
@@ -59,10 +59,10 @@ La personne principalement responsable de la mort d’un joueur protégé subit 
 ## 🧾 Exemples
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8; margin-left:24px;">
-  <li>L’Ange protège Sandrine. Le <a href="../demons.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> l’attaque et la tue.  
+  <li>L’Ange protège Sarah. Le <a href="../demons.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> l’attaque et la tue.  
       En punition, le Démon ne peut pas attaquer la nuit suivante.</li>
 
-  <li>Bruno est le <a href="../demons.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> et il est protégé par l’Angel.  
+  <li>Ben est le <a href="../demons.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> et il est protégé par l’Ange.  
       Les joueurs attendent le <strong>dernier jour</strong> pour l’exécuter, sans pénalité.</li>
 </ul>
 
@@ -72,7 +72,7 @@ La personne principalement responsable de la mort d’un joueur protégé subit 
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.8;">
 Être le seul nouveau joueur dans un groupe de vétérans peut être intimidant.  
-L’<strong>Ange</strong> encourage les autres à garder les nouveaux joueurs en vie aussi longtemps que possible, afin qu’ils puissent participer pleinement et s’amuser davantage.  
+L’<strong>Ange</strong> encourage les autres à garder les nouveaux joueurs et joueuses en vie aussi longtemps que possible, afin qu’ils puissent participer pleinement et s’amuser davantage.  
 
 Tout le monde sait qui est protégé, mais ni le rôle ni l’alignement ne sont révélés.  
 La personne la plus responsable de la mort d’un protégé subit une conséquence.  
