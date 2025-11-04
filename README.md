@@ -272,7 +272,7 @@
     text-decoration:none;
     display:inline-block;
     width:100%;
-    color:#d4a76a; /* texte doré élégant */
+    color:#e0b97a; /* doré clair, plus lisible */
   }
 
   /* Image uniforme partout */
@@ -303,7 +303,7 @@
     line-height:1.3;
     min-height:48px;
     padding:10px 6px 0 6px;
-    color:#d4a76a; /* doré doux */
+    color:#e0b97a; /* doré clair */
   }
 
   .rg-badge{
@@ -315,7 +315,7 @@
     letter-spacing:.2px;
     border-radius:999px;
     background:rgba(213,165,106,0.15);
-    color:#d4a76a;
+    color:#e0b97a;
   }
 
   /* ===== Responsive : 1 carte par ligne en mobile ===== */
