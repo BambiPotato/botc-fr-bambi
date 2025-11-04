@@ -14,11 +14,11 @@ title: Loric
   <a href="./loric.html" style="text-decoration:none;">
     <img src="./images/Icon_loric.png" alt="Lorics" width="300" style="border-radius:12px;">
     <br>
-    <span style="color:#4caf50; font-weight:bold; font-size:22px;">Lorics</span>
+    <span style="color:#4caf50; font-weight:bold; font-size:22px;">Loric</span>
   </a>
 </div>
 
-# 🌿 <span style="color:#4caf50; font-weight:bold; font-size:42px;">Lori</span>
+# 🌿 <span style="color:#4caf50; font-weight:bold; font-size:42px;">Loric</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Des règles qui bousculent le village et réécrivent la partie. »
