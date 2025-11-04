@@ -73,5 +73,5 @@ Là où les <em>Fabled</em> corrigent les problèmes, <strong>les Lorics</strong
 ---
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7; text-align:left; margin-top:10px;">
   <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌿 <a href="./loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Lorics</a></li>
+  <li>🌿 <a href="./loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Loric</a></li>
 </ul>
