@@ -257,7 +257,7 @@
     max-width:1200px;
     margin:12px 0 0 0;
     border-collapse:separate;
-    border-spacing:16px;         /* l’espacement entre cartes */
+    border-spacing:16px;
   }
   table.roles-grid td{
     width:33.333%;
@@ -272,14 +272,15 @@
     text-decoration:none;
     display:inline-block;
     width:100%;
-    color:#f5f5f5;
+    color:#d4a76a; /* texte doré élégant */
   }
+
   /* Image uniforme partout */
   .rg-media{
     display:inline-block;
     width:100%;
     max-width:360px;
-    height:160px;                /* hauteur fixe => cartes alignées */
+    height:160px;
     background:rgba(0,0,0,0.18);
     border-radius:12px;
     overflow:hidden;
@@ -290,19 +291,21 @@
     max-height:100%;
     width:auto;
     height:100%;
-    object-fit:contain;          /* jamais rogné */
+    object-fit:contain;
     margin:0 auto;
   }
+
   /* Titre uniforme (réserve la même hauteur) */
   .rg-title{
     display:block;
     font-weight:700;
     font-size:16px;
     line-height:1.3;
-    min-height:48px;             /* aligne les cartes sur 2 lignes max */
+    min-height:48px;
     padding:10px 6px 0 6px;
-    color:#f5f5f5;
+    color:#d4a76a; /* doré doux */
   }
+
   .rg-badge{
     display:inline-block;
     margin:8px 0 4px 0;
@@ -407,7 +410,7 @@
       </a>
     </td>
 
-    <!-- Placeholders vides pour compléter la 3e ligne (alignement parfait desktop) -->
+    <!-- Placeholders vides pour compléter la 3e ligne -->
     <td aria-hidden="true"></td>
     <td aria-hidden="true"></td>
   </tr>
