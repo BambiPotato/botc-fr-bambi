@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lorics
+title: Loric
 ---
 
 <p align="left">
@@ -14,11 +14,11 @@ title: Lorics
   <a href="./loric.html" style="text-decoration:none;">
     <img src="./images/Icon_loric.png" alt="Lorics" width="300" style="border-radius:12px;">
     <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Lorics</span>
+    <span style="color:#4caf50; font-weight:bold; font-size:22px;">Lorics</span>
   </a>
 </div>
 
-# 🌿 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Lorics</span>
+# 🌿 <span style="color:#4caf50; font-weight:bold; font-size:42px;">Lori</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Des règles qui bousculent le village et réécrivent la partie. »
@@ -29,7 +29,7 @@ title: Lorics
 ## 📑 <span style="color:#b58b52;">Sommaire</span>
 
 1. [Présentation](#1-présentation)  
-2. [Lorics](#2-lorics)  
+2. [Loric](#2-lorics)  
 
 ---
 
@@ -43,7 +43,7 @@ Là où les <em>Fabled</em> corrigent les problèmes, <strong>les Lorics</strong
 
 ---
 
-## 2. Lorics
+## 2. Loric
 
 <!-- Cartes en ligne (puis wrap auto si on en ajoute d'autres) -->
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin: 8px 0 6px 0;">
