@@ -81,3 +81,4 @@ Il est aussi un excellent moyen pour un ou une conteuse d’encourager la partic
 🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
 🌟 <a href="../legendaire.md" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour aux Légendaires</a>
 </p>
+
