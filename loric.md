@@ -56,7 +56,7 @@ Là où les <em>Fabled</em> corrigent les problèmes, <strong>les Lorics</strong
 
   <!-- Big Wig -->
   <a href="./loric_roles/bigwig.html" style="text-decoration:none; display:inline-block; width:280px; text-align:center;">
-    <img src="./images/Icon_bigwig.png" alt="Big Wig" style="display:block; margin:0 auto; width:280px; height:auto; border-radius:12px;">
+    <img src="./images/Icon_big_wig.png" alt="Big Wig" style="display:block; margin:0 auto; width:280px; height:auto; border-radius:12px;">
     <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Big Wig</span>
   </a>
 
