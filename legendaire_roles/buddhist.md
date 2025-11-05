@@ -9,18 +9,20 @@ title: Bouddhiste
   </a>
 </p>
 
-<!-- 🪷  Bouddhiste -->
+<!-- 🪷 Bouddhiste -->
 
 <div style="text-align:center; margin: 20px 0;">
-  <img src="../images/Icon_buddhist.png" alt="Bouddhiste" width="360" style="border-radius:12px; margin-top:10px;">
-  <br>
-  <span style="color:#d4a76a; font-weight:bold; font-size:28px;">Bouddhiste</span>
+  <a href="./bouddhiste.md" style="text-decoration:none;">
+    <img src="../images/Icon_buddhist.png" alt="Bouddhiste" width="360" style="border-radius:12px; margin-top:10px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:28px;">Bouddhiste</span>
+  </a>
 </div>
 
 ---
 
 ## 🧭 Informations
-- **Type :** <a href="../legendaire.md" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Légendaire</a>  
+- **Type :** <a href="../legendaire.md" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Légendaire</a>  
 - **Artiste :** Marianna Carr  
 
 <p style="color:#f5f5f5; font-style:italic; font-size:17px; text-align:center; line-height:1.8;">
@@ -45,13 +47,13 @@ Ce n’est pas une punition : c’est un moyen de laisser la place aux nouveaux 
 ## ⚙️ Comment Conter
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8; margin-left:24px;">
-  <li>Au début de la partie, déclarez que le Bouddhiste est en jeu et ajoutez son jeton au grimoire.</li>
+  <li>Au début de la partie, déclarez que le <strong>Bouddhiste</strong> est en jeu et ajoutez son jeton au grimoire.</li>
   <li>Annoncez publiquement quels joueurs sont affectés par le Bouddhiste, avec leur consentement.</li>
   <li>Ces joueurs ne peuvent pas parler pendant les deux premières minutes de chaque journée.  
   Ils ne peuvent pas chuchoter ni se parler entre eux. Ils doivent simplement écouter.</li>
   <li>Retirez le Bouddhiste à tout moment en le déclarant.</li>
   <li>Si aucun minuteur n’est disponible, estimez les deux minutes au mieux et indiquez quand elles sont écoulées.</li>
-  <li>Comme pour l’<a href="./ange.md" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Ange</a> et le <a href="./revolutionary.md" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Révolutionnaire</a>, demandez toujours l’accord d’un joueur avant de l’affecter.  
+  <li>Comme pour l’<a href="./ange.md" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Ange</a> et le <a href="./revolutionary.md" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Révolutionnaire</a>, demandez toujours l’accord d’un joueur avant de l’affecter.  
   Par exemple : « Souhaites-tu que je te fasse Bouddhiste pour cette partie ? Tu maîtrises bien le jeu, et cela laissera les nouveaux découvrir par eux-mêmes. »</li>
 </ul>
 
@@ -60,11 +62,11 @@ Ce n’est pas une punition : c’est un moyen de laisser la place aux nouveaux 
 ## 🧾 Exemples
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8; margin-left:24px;">
-  <li>Lachlan et Lewis sont des vétérans dans une partie composée surtout de nouveaux joueurs.  
-  Pour encourager les nouveaux à parler, le Conteur met le Bouddhiste en jeu : Lachlan et Lewis doivent garder le silence pendant les deux premières minutes de chaque journée, puis ils peuvent s’exprimer librement.</li>
+  <li>Nicolas et Céline sont des vétérans dans une partie composée surtout de nouveaux joueurs.  
+  Pour encourager les nouveaux à parler, le Conteur met le <strong>Bouddhiste</strong> en jeu : Nicolas et Céline doivent garder le silence pendant les deux premières minutes de chaque journée, puis ils peuvent s’exprimer librement.</li>
 
-  <li>Évin est affecté par le Bouddhiste. C’est un <a href="../sv_roles/sbire.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>.  
-  Il reste silencieux les deux premières minutes, écoute les échanges, puis s’en sert pour bluffer plus efficacement plus tard.</li>
+  <li>Leelou est affectée par le Bouddhiste. C’est une <a href="../sv_roles/sbire.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>.  
+  Elle reste silencieuse les deux premières minutes, écoute les échanges, puis s’en sert pour bluffer plus efficacement plus tard.</li>
 </ul>
 
 ---
@@ -88,5 +90,5 @@ C’est une aide précieuse pour que tout le monde s’amuse.
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
 🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-🌟 <a href="../legendaire.md" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour aux Légendaires</a>
+🌟 <a href="../legendaire.md" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour aux Légendaires</a>
 </p>
