@@ -9,126 +9,125 @@ title: Deus ex Fiasco
   </a>
 </p>
 
-<img src="../images/Icon_deusexfiasco.png" alt="Deus ex Fiasco" width="160" style="display:block; margin:auto;">
+<!-- Titre cliquable (doré) -->
+<h1 style="margin: 14px 0;">
+  <a href="./deusexfiasco.md" style="text-decoration:none; color:#e0b97a; font-weight:800;">
+    🏰 Deus ex Fiasco
+  </a>
+</h1>
 
-<div style="text-align:center; margin-top:8px;">
-  <a href="./deusexfiasco.md" style="color:#d4a76a; font-weight:bold; font-size:28px; text-decoration:none;">
-    Deus ex Fiasco
+<!-- Image centrée cliquable + nom centré en dessous (doré) -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="./deusexfiasco.md" style="text-decoration:none;">
+    <img src="../images/Icon_deusexfiasco.png" alt="Deus ex Fiasco" width="360" style="border-radius:12px; margin-top:6px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:22px;">Deus ex Fiasco</span>
   </a>
 </div>
 
-<div style="line-height:1.8; font-size:17px; text-align:justify; margin-top:10px;">
+---
 
-**Type :** <a href="../legendaire.md" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Légendaire</a>  
-**Artiste :** Chlo MacDougal  
-**Révélé le :** 19 juin 2025  
+## 🧭 Informations
+- **Type :** <a href="../legendaire.md" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Légendaire</a>  
+- **Artiste :** Chlo MacDougal  
+- **Révélé le :** 19 juin 2025  
 
-> _« Ce n’est pas un bug, c’est une fonctionnalité.  
-Ce n’est pas une erreur, c’est un ajustement.  
-Ce n’est pas cassé, c’est original. »_
+<p style="color:#f5f5f5; font-style:italic; font-size:17px; text-align:center; line-height:1.8; margin-top:10px;">
+« Ce n’est pas un bug, c’est une fonctionnalité.<br>
+Ce n’est pas une erreur, c’est un ajustement.<br>
+Ce n’est pas cassé, c’est original. »
+</p>
 
 ---
 
-### 🧩 Résumé
-> **« Au moins une fois par partie, le ou la conteuse fera une erreur, la corrigera et l’admettra publiquement. »**
+## 📖 Résumé
 
-Ajoutez **le Deus ex Fiasco** à votre partie pour neutraliser les erreurs et renforcer votre confiance lors d’un script difficile.
+**« Au moins une fois par partie, le ou la conteuse fera une erreur, la corrigera et l’admettra publiquement. »**
 
-Le Deus ex Fiasco **doit être annoncé dès le début de la partie**. Il ne peut **jamais être ajouté en cours de jeu**.  
-S’il était ajouté après une erreur, cela prouverait à tout le monde que cette erreur était réelle, annulant tout son intérêt.
+<p style="color:#f5f5f5; font-size:18px; line-height:1.8;">
+Ajoutez le <strong>Deus ex Fiasco</strong> pour neutraliser les erreurs et gagner en assurance quand vous contez un script difficile.  
+Il <strong>doit être annoncé au début</strong> de la partie ; il ne peut <strong>jamais</strong> être ajouté en cours de jeu.
+</p>
 
-Le ou la conteuse **doit faire une erreur** — qu’elle soit accidentelle ou volontaire. Les joueurs et joueuses ne sauront pas laquelle.  
-Si une erreur accidentelle se produit, aucune autre erreur n’est nécessaire.  
-Mais si la partie approche de sa fin et qu’aucune erreur accidentelle n’a eu lieu, le ou la conteuse **doit provoquer une erreur volontaire** avant la fin du jeu.
-
-Toutes les erreurs, volontaires ou non, **doivent être corrigées**.  
-Le ou la conteuse peut avoir à enfreindre certaines règles pour corriger l’erreur.  
-Une fois l’erreur corrigée, il faut **annoncer au groupe qu’une erreur a été faite et corrigée**.  
-La nature exacte de l’erreur n’est pas révélée, mais elle peut être expliquée en privé à la personne concernée.
-
-Les joueurs et joueuses peuvent bluffer en prétendant qu’une erreur a été faite, ou qu’une erreur a été corrigée, même si ce n’est pas vrai.  
-Le ou la conteuse peut, si nécessaire, faire **plusieurs erreurs**, accidentelles ou volontaires.
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.8; margin-left:24px;">
+  <li>Le ou la conteuse <strong>doit</strong> faire une erreur — accidentelle ou volontaire. Les joueurs et joueuses ne savent pas laquelle.</li>
+  <li>Si aucune erreur accidentelle n’a eu lieu et que la fin approche, une <strong>erreur volontaire</strong> doit être provoquée.</li>
+  <li>Toute erreur <strong>doit être corrigée</strong>. On peut plier les règles pour réparer, puis annoncer publiquement qu’une erreur a été faite et corrigée (sans en révéler la nature).</li>
+  <li>Les joueurs et joueuses peuvent bluffer à propos d’une « erreur » supposée.</li>
+</ul>
 
 ---
 
-### 🎬 Comment le faire jouer
+## ⚙️ Comment Conter
 
-Au **début de la partie**, annoncez que le Deus ex Fiasco est en jeu.  
-Ignorez les soupirs et rires des joueurs et joueuses.
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.8; margin-left:24px;">
+  <li><strong>Au début</strong> de la partie, déclarez que le <strong>Deus ex Fiasco</strong> est en jeu.</li>
+  <li>Si vous <strong>faites une erreur</strong>, corrigez-la au mieux (en adaptant les règles si nécessaire), puis annoncez publiquement l’erreur corrigée. Ajoutez le rappel <strong>WHOOPSIE</strong> au grimoire.</li>
+  <li>Vous pouvez aussi <strong>délibérément</strong> enfreindre une règle, la corriger, puis l’annoncer. Ajoutez <strong>WHOOPSIE</strong>.</li>
+</ul>
 
-À tout moment :
-- Si vous **faites une erreur**, corrigez-la du mieux possible, même si cela demande de plier les règles.  
-  Ensuite, annoncez que vous avez fait une erreur. Ajoutez le rappel **WHOOPSIE** dans le grimoire.
-- Vous pouvez aussi **délibérément briser une règle**, puis la corriger, et annoncer que vous avez fait une erreur.  
-  Ajoutez également le rappel **WHOOPSIE**.
-
-> 💡 Les Légendaires ne sont pas conçus pour ajouter du chaos, mais pour **aider les conteurs et conteuses** à créer des parties fluides, équilibrées et inclusives.
-
----
-
-### 📘 Exemples
-
-- **Exemple 1 :**  
-  Pendant le premier jour, Cédric dit au conteur qu’il a tiré le jeton de l’<a href="../tb_roles/ivrogne.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>.  
-  Le conteur regarde le grimoire et confirme que c’est bien le cas.  
-  Il décide alors de remplacer secrètement le jeton de l’Ivrogne par celui du <a href="../tb_roles/maire.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a> et rend le <a href="../tb_roles/gardien.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a> ivre à la place.  
-  Plus tard, il annonce publiquement qu’une erreur a été faite et corrigée.
-
-- **Exemple 2 :**  
-  L’<a href="../tb_roles/empathe.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a> est assis entre le <a href="../tb_roles/moine.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> et le <a href="../tb_roles/reclus.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a> empoisonné.  
-  Le conteur oublie que le Reclus est empoisonné et annonce « 1 ».  
-  Plus tard, il corrige et réveille l’Empathe pour lui dire « 0 ».  
-  Le lendemain, il lui explique en privé que le premier chiffre était une erreur, puis annonce au groupe qu’une erreur a été corrigée.
-
-- **Exemple 3 :**  
-  L’<a href="../tb_roles/imp.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Imp</a> a été exécuté.  
-  Le conteur réveille le <a href="../tb_roles/croquemort.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-Mort</a> sobre et lui montre le jeton du <a href="../tb_roles/reclus.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a> au lieu de l’Imp.  
-  Dans la nuit suivante, il le réveille à nouveau et lui montre cette fois le bon jeton.  
-  Le matin, le conteur annonce qu’une erreur a été corrigée.
-
-- **Exemple 4 :**  
-  Le <a href="../roles_experimentaux/yaggababble.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Yaggababble</a> est exécuté et meurt.  
-  Le conteur déclare à tort que la partie est terminée et que le Bien a gagné, alors que la <a href="../tb_roles/femmeecarlate.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme Écarlate</a> est encore en vie.  
-  Il annonce alors qu’une erreur a été faite et que la partie continue.
-
-- **Exemple 5 :**  
-  Ben, le <a href="../bmr_roles/shabaloth.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a>, tue Amy et Doug.  
-  Le matin, le conteur déclare par erreur que Ben et Louis sont morts.  
-  Puis il dit :  
-  _« Oups, j’ai tourné le grimoire du mauvais côté ! Ben et Louis sont encore en vie, Amy et Doug sont morts cette nuit. Désolé, ma faute ! »_
-
-- **Exemple 6 :**  
-  Le conteur oublie de réveiller l’<a href="../tb_roles/empoisonneur.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>.  
-  Il en discute en privé avec lui et décide que dorénavant, il pourra choisir autant de joueurs et joueuses qu’il le souhaite, et le conteur déterminera lesquels seront réellement empoisonnés.
-
-- **Exemple 7 :**  
-  La <a href="../bmr_roles/femmedechambre.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de chambre</a> choisit un joueur mort, ce qui est interdit.  
-  Le conteur décide de ne pas la corriger immédiatement et lui donne une fausse information.  
-  Le lendemain, il lui explique qu’une erreur a été faite et lui demande de choisir deux joueurs ou joueuses vivant·e·s.  
-  Il lui donne alors la bonne information.
+<p style="color:#f5f5f5; font-size:16.5px; line-height:1.8; margin-left:24px;">
+💡 Les <strong>Légendaires</strong> servent à aider les conteurs et conteuses à faire des parties fluides et inclusives, pas à ajouter du chaos.
+</p>
 
 ---
 
-### 💬 Explications
+## 🧾 Exemples
 
-Le **Deus ex Fiasco** est un outil pour les conteurs et conteuses qui veulent se lancer dans un script un peu complexe.  
-Il donne de la confiance et rend les erreurs moins stressantes.  
-En déclarant dès le début que ce Légendaire est actif, les joueurs et joueuses savent qu’une ou plusieurs erreurs auront lieu — mais **sans savoir si elles seront réelles ou délibérées**.
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.8; margin-left:24px;">
 
-Lorsqu’une erreur se produit :
-- Corrigez-la du mieux possible.  
-- Annoncez publiquement qu’elle a été faite et corrigée.  
-- Ne révélez pas les détails exacts pour préserver le mystère et l’équilibre de la partie.
+  <li>Pendant le premier jour, Cédric affirme avoir tiré l’<a href="../tb_roles/ivrogne.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>.  
+  Le ou la conteuse vérifie dans le grimoire : c’est vrai. Il/elle remplace secrètement l’Ivrogne par le <a href="../tb_roles/maire.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a> et rend le <a href="../tb_roles/gardien.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien du Corbeau</a> ivre à la place.  
+  Plus tard, l’erreur corrigée est annoncée publiquement.</li>
 
-Si vous **n’avez pas ajouté le Deus ex Fiasco au début** de la partie, **n’essayez pas de l’ajouter plus tard** : cela indiquerait clairement que vous avez commis une erreur réelle.  
-Dans ce cas, gérez simplement la situation comme toute autre erreur : faites au mieux pour préserver l’équilibre et le plaisir de jeu.
+  <li>L’<a href="../tb_roles/empathique.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a> est assis entre le <a href="../tb_roles/moine.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> et le <a href="../tb_roles/reclus.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a> empoisonné.  
+  Oubliant l’empoisonnement, le ou la conteuse donne « 1 ». Dans la nuit, il/elle réveille l’Empathique et corrige en « 0 ».  
+  Le lendemain, explication en privé, puis annonce publique qu’une erreur a été corrigée.</li>
+
+  <li>L’<a href="../tb_roles/imp.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Imp</a> est exécuté.  
+  Le ou la conteuse réveille le <a href="../tb_roles/croque_mort.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-Mort</a> sobre et montre à tort le jeton du <a href="../tb_roles/reclus.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a>.  
+  Plus tard, il/elle le réveille à nouveau et montre le bon jeton de l’Imp, puis annonce qu’une erreur nocturne a été corrigée.</li>
+
+  <li>Le <a href="../roles_experimentaux/demons/yaggababble.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Yaggablabla</a> est exécuté et meurt.  
+  Le ou la conteuse déclare (par erreur) la victoire du Bien, alors que la <a href="../tb_roles/dame_ecarlate.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Dame Écarlate</a> est encore en vie.  
+  Il/elle annonce qu’une erreur a été faite et que la partie continue.</li>
+
+  <li>Ben est <a href="../bmr_roles/shabaloth.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a>.  
+  Il tue Amy et Doug. Le matin, le ou la conteuse annonce par erreur que Ben et Louis sont morts, puis corrige :  
+  « Oups ! Mauvais sens du grimoire. Ben et Louis sont <em>vivants</em>. Amy et Doug sont morts cette nuit. »</li>
+
+  <li>Le ou la conteuse a oublié de réveiller l’<a href="../tb_roles/empoisonneur.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>.  
+  Discussion en privé : à partir de maintenant, l’Empoisonneur peut proposer plusieurs cibles chaque nuit et le ou la conteuse décidera qui est réellement empoisonné·e.</li>
+
+  <li>La <a href="../bmr_roles/femme_de_chambre.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de chambre</a> choisit un joueur mort (interdit).  
+  Le ou la conteuse ne corrige pas sur le moment et donne une fausse info.  
+  Le lendemain, explication : on reconnaît l’erreur, on demande immédiatement deux cibles vivantes et on donne l’information correcte.</li>
+
+</ul>
 
 ---
 
-</div>
+## 💬 Explication
 
+<p style="color:#f5f5f5; font-size:18px; line-height:1.8;">
+Si vous souhaitez conter un script au-dessus de votre zone de confort (premier <em>Trouble Brewing</em>, gros script personnalisé, etc.), le <strong>Deus ex Fiasco</strong> vous apporte de la sérénité.  
+Comme il est annoncé dès le départ, tout le monde sait qu’<strong>au moins une erreur</strong> surviendra — sans savoir si elle est volontaire ou non.
+</p>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.8; margin-left:24px;">
+  <li>Quand une erreur arrive, <strong>corrigez-la</strong> au mieux.</li>
+  <li>Annoncez publiquement qu’<strong>une erreur a été faite et corrigée</strong>.</li>
+  <li>Ne révélez pas les détails si cela risque de spoiler ou de déséquilibrer la partie.</li>
+</ul>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.8;">
+Si vous <strong>n’avez pas</strong> mis le Deus ex Fiasco au début et que vous faites une erreur en cours de jeu, <strong>ne l’ajoutez pas</strong> après coup.  
+Gérez l’incident normalement, pour préserver l’équilibre et le plaisir de jeu.
+</p>
+
+---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
 🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-🌟 <a href="../legendaire.md" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour aux Légendaires</a>
+🌟 <a href="../legendaire.md" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour aux Légendaires</a>
 </p>
