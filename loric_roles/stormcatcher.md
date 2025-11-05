@@ -53,7 +53,7 @@ Utilisez l’<strong>Attrape-tempête</strong> pour centrer la partie autour d�
 ## ⚖️ <span style="color:#7fd1ae;">Détails</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Le ou la conteuse déclare quel <span style="color:#4ea3ff; font-weight:bold;">rôle bon</span> est « favorisé » par l’Attrape-tempête.</li>
+  <li>Le conteur ou la conteuse déclare quel <span style="color:#4ea3ff; font-weight:bold;">rôle bon</span> est « favorisé » par l’Attrape-tempête.</li>
   <li>Si ce rôle est <strong>en jeu</strong>, la personne qui l’a ne peut <strong>mourir que par exécution</strong>. Marquez-la d’un rappel <strong>EN SÛRETÉ</strong>.</li>
   <li>Si ce rôle n’est <strong>pas en jeu</strong>, les <span style="color:#d45b5b; font-weight:bold;">maléfiques</span> l’apprennent : c’est un <em>bluff gratuit</em> crédible.</li>
   <li>La protection ne s’applique qu’aux <strong>morts non exécutoires</strong> (attaques, capacités nocturnes, etc.). Une exécution tue normalement.</li>
