@@ -30,7 +30,7 @@ title: Bootlegger
 ## 🧾 <span style="color:#7fd1ae;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li><strong>Type :</strong> Loric</li>
+  <li><strong>Type :</strong> <a href="../loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Loric</a></li>
   <li><strong>Artiste :</strong> <em>Chloe McDougall</em></li>
   <li><strong>Révélé :</strong> 28 avril 2023</li>
 </ul>
@@ -45,7 +45,7 @@ title: Bootlegger
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Ajoutez le <strong>Bootlegger</strong> pour inclure des rôles ou des règles <em>homebrew</em> (créations de joueuses et joueurs) dans la partie.  
-Il autorise les conteuses et conteurs à utiliser des rôles non officiels, ou à appliquer des règles personnalisées.  
+Il autorise les conteuses et conteurs à utiliser des rôles non officiels ou des règles personnalisées.  
 Tant qu’un ou plusieurs rôles <em>homebrew</em> figurent sur le script, le <strong>Bootlegger</strong> reste en jeu.  
 Il ne peut être retiré qu’en passant à un script ne contenant aucun rôle ni règle personnalisée.
 </p>
