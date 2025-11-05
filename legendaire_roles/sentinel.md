@@ -12,15 +12,17 @@ title: Sentinelle
 <!-- 🛡️ Sentinelle -->
 
 <div style="text-align:center; margin: 20px 0;">
-  <img src="../images/Icon_sentinel.png" alt="Sentinelle" width="360" style="border-radius:12px; margin-top:10px;">
-  <br>
-  <span style="color:#d4a76a; font-weight:bold; font-size:28px;">Sentinelle</span>
+  <a href="./sentinel.md" style="text-decoration:none;">
+    <img src="../images/Icon_sentinel.png" alt="Sentinelle" width="360" style="border-radius:12px; margin-top:10px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:28px;">Sentinelle</span>
+  </a>
 </div>
 
 ---
 
 ## 🧭 Informations
-- **Type :** <a href="../legendaire.md" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Légendaire</a>  
+- **Type :** <a href="../legendaire.md" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Légendaire</a>  
 - **Artiste :** Caitlin Murphy  
 
 <p style="color:#f5f5f5; font-style:italic; font-size:17px; text-align:center; line-height:1.8;">
@@ -97,5 +99,5 @@ Ce petit flou suffit à raviver la paranoïa et à offrir de nouvelles stratégi
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
 🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-🌟 <a href="../legendaire.md" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour aux Légendaires</a>
+🌟 <a href="../legendaire.md" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour aux Légendaires</a>
 </p>
