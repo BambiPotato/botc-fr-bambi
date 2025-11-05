@@ -19,7 +19,7 @@ title: Tor
   </a>
 </div>
 
-# ⚡️ <span style="color:#7fd1ae; font-weight:bold; font-size:42px;">Tor</span>
+# ⚡️ <span style="color:#7fd1ae; font-weight:bold; font-size:18px;">Tor</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Avec le tonnerre pour voix et l’éclair pour lame, je suis le gardien éternel. Quiconque ose franchir la porte interdite sera frappé. Mon but : purger le scarabée des entrailles de la terre, l’enfermer dans un filet d’étoiles, là où le ciel touche la pierre. »
