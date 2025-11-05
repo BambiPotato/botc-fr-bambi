@@ -11,9 +11,13 @@ title: Deus ex Fiasco
 
 <img src="../images/Icon_deusexfiasco.png" alt="Deus ex Fiasco" width="160" style="display:block; margin:auto;">
 
-# 🏰 **Deus ex Fiasco**
+<div style="text-align:center; margin-top:8px;">
+  <a href="./deusexfiasco.md" style="color:#d4a76a; font-weight:bold; font-size:28px; text-decoration:none;">
+    Deus ex Fiasco
+  </a>
+</div>
 
-<div style="line-height:1.8; font-size:17px; text-align:justify;">
+<div style="line-height:1.8; font-size:17px; text-align:justify; margin-top:10px;">
 
 **Type :** <a href="../legendaire.md" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Légendaire</a>  
 **Artiste :** Chlo MacDougal  
@@ -67,7 +71,7 @@ Ignorez les soupirs et rires des joueurs et joueuses.
 - **Exemple 1 :**  
   Pendant le premier jour, Cédric dit au conteur qu’il a tiré le jeton de l’<a href="../tb_roles/ivrogne.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>.  
   Le conteur regarde le grimoire et confirme que c’est bien le cas.  
-  Il décide alors de remplacer secrètement le jeton de l’Ivrogne par celui du <a href="../tb_roles/maire.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a> et rend le <a href="../bmr_roles/croquemitaine.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Croque-Mitaine</a> ivre à la place.  
+  Il décide alors de remplacer secrètement le jeton de l’Ivrogne par celui du <a href="../tb_roles/maire.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a> et rend le <a href="../tb_roles/gardien.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a> ivre à la place.  
   Plus tard, il annonce publiquement qu’une erreur a été faite et corrigée.
 
 - **Exemple 2 :**  
@@ -84,7 +88,7 @@ Ignorez les soupirs et rires des joueurs et joueuses.
 
 - **Exemple 4 :**  
   Le <a href="../roles_experimentaux/yaggababble.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Yaggababble</a> est exécuté et meurt.  
-  Le conteur déclare à tort que la partie est terminée et que le Bien a gagné, alors que la <a href="../bmr_roles/dameecarlate.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Dame Écarlate</a> est encore en vie.  
+  Le conteur déclare à tort que la partie est terminée et que le Bien a gagné, alors que la <a href="../tb_roles/femmeecarlate.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme Écarlate</a> est encore en vie.  
   Il annonce alors qu’une erreur a été faite et que la partie continue.
 
 - **Exemple 5 :**  
@@ -95,12 +99,12 @@ Ignorez les soupirs et rires des joueurs et joueuses.
 
 - **Exemple 6 :**  
   Le conteur oublie de réveiller l’<a href="../tb_roles/empoisonneur.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>.  
-  Il en discute en privé avec lui et décide que dorénavant, il pourra choisir autant de joueurs qu’il le souhaite, et le conteur déterminera lesquels seront réellement empoisonnés.
+  Il en discute en privé avec lui et décide que dorénavant, il pourra choisir autant de joueurs et joueuses qu’il le souhaite, et le conteur déterminera lesquels seront réellement empoisonnés.
 
 - **Exemple 7 :**  
   La <a href="../bmr_roles/femmedechambre.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de chambre</a> choisit un joueur mort, ce qui est interdit.  
   Le conteur décide de ne pas la corriger immédiatement et lui donne une fausse information.  
-  Le lendemain, il lui explique qu’une erreur a été faite et lui demande de choisir deux joueurs vivants.  
+  Le lendemain, il lui explique qu’une erreur a été faite et lui demande de choisir deux joueurs ou joueuses vivant·e·s.  
   Il lui donne alors la bonne information.
 
 ---
@@ -123,7 +127,6 @@ Dans ce cas, gérez simplement la situation comme toute autre erreur : faites au
 
 </div>
 
----
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
 🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
