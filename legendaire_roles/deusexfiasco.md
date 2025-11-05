@@ -42,7 +42,7 @@ Ce n’est pas cassé, c’est original. »
 
 ## 📖 Résumé
 
-**« Au moins une fois par partie, le ou la conteuse fera une erreur, la corrigera et l’admettra publiquement. »**
+**« Au moins une fois par partie, la conteuse fera une erreur, la corrigera et l’admettra publiquement. »**
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.8;">
 Ajoutez le <strong>Deus ex Fiasco</strong> pour neutraliser les erreurs et gagner en assurance quand vous contez un script difficile.  
@@ -77,30 +77,30 @@ Il <strong>doit être annoncé au début</strong> de la partie ; il ne peut <str
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8; margin-left:24px;">
 
   <li>Pendant le premier jour, Cédric affirme avoir tiré l’<a href="../tb_roles/ivrogne.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>.  
-  Le ou la conteuse vérifie dans le grimoire : c’est vrai. Il/elle remplace secrètement l’Ivrogne par le <a href="../tb_roles/maire.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a> et rend le <a href="../tb_roles/gardien.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien du Corbeau</a> ivre à la place.  
+  La conteuse vérifie dans le grimoire : c’est vrai. Il ou elle remplace secrètement l’Ivrogne par le <a href="../tb_roles/maire.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a> et rend le <a href="../tb_roles/gardien.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a> ivre à la place.  
   Plus tard, l’erreur corrigée est annoncée publiquement.</li>
 
   <li>L’<a href="../tb_roles/empathique.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a> est assis entre le <a href="../tb_roles/moine.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> et le <a href="../tb_roles/reclus.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a> empoisonné.  
-  Oubliant l’empoisonnement, le ou la conteuse donne « 1 ». Dans la nuit, il/elle réveille l’Empathique et corrige en « 0 ».  
+  Oubliant l’empoisonnement, le ou la conteuse donne « 1 ». Dans la nuit, il ou elle réveille l’Empathique et corrige en « 0 ».  
   Le lendemain, explication en privé, puis annonce publique qu’une erreur a été corrigée.</li>
 
   <li>L’<a href="../tb_roles/imp.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Imp</a> est exécuté.  
-  Le ou la conteuse réveille le <a href="../tb_roles/croque_mort.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-Mort</a> sobre et montre à tort le jeton du <a href="../tb_roles/reclus.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a>.  
-  Plus tard, il/elle le réveille à nouveau et montre le bon jeton de l’Imp, puis annonce qu’une erreur nocturne a été corrigée.</li>
+  La conteuse réveille le <a href="../tb_roles/croque_mort.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-Mort</a> sobre et montre à tort le jeton du <a href="../tb_roles/reclus.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a>.  
+  Plus tard, il ou elle le réveille à nouveau et montre le bon jeton de l’Imp, puis annonce qu’une erreur nocturne a été corrigée.</li>
 
   <li>Le <a href="../roles_experimentaux/demons/yaggababble.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Yaggablabla</a> est exécuté et meurt.  
-  Le ou la conteuse déclare (par erreur) la victoire du Bien, alors que la <a href="../tb_roles/dame_ecarlate.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Dame Écarlate</a> est encore en vie.  
-  Il/elle annonce qu’une erreur a été faite et que la partie continue.</li>
+  La conteuse déclare (par erreur) la victoire du Bien, alors que la <a href="../tb_roles/dame_ecarlate.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Dame Écarlate</a> est encore en vie.  
+  Elle annonce qu’une erreur a été faite et que la partie continue.</li>
 
-  <li>Ben est <a href="../bmr_roles/shabaloth.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a>.  
-  Il tue Amy et Doug. Le matin, le ou la conteuse annonce par erreur que Ben et Louis sont morts, puis corrige :  
-  « Oups ! Mauvais sens du grimoire. Ben et Louis sont <em>vivants</em>. Amy et Doug sont morts cette nuit. »</li>
+  <li>Nicolas est <a href="../bmr_roles/shabaloth.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a>.  
+  Il tue Céline et Leelou. Le matin, le ou la conteuse annonce par erreur que Nicolas et Tanina sont morts, puis corrige :  
+  « Oups ! Mauvais sens du grimoire. Nicolas et Tanina sont <em>vivants</em>. Céline et Leelou sont morts cette nuit. »</li>
 
-  <li>Le ou la conteuse a oublié de réveiller l’<a href="../tb_roles/empoisonneur.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>.  
-  Discussion en privé : à partir de maintenant, l’Empoisonneur peut proposer plusieurs cibles chaque nuit et le ou la conteuse décidera qui est réellement empoisonné·e.</li>
+  <li>La conteuse a oublié de réveiller l’<a href="../tb_roles/empoisonneur.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>.  
+  Discussion en privé : à partir de maintenant, l’Empoisonneur peut proposer plusieurs cibles chaque nuit et le ou la conteuse décidera qui est réellement empoisonné.</li>
 
   <li>La <a href="../bmr_roles/femme_de_chambre.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de chambre</a> choisit un joueur mort (interdit).  
-  Le ou la conteuse ne corrige pas sur le moment et donne une fausse info.  
+  La conteuse ne corrige pas sur le moment et donne une fausse info.  
   Le lendemain, explication : on reconnaît l’erreur, on demande immédiatement deux cibles vivantes et on donne l’information correcte.</li>
 
 </ul>
