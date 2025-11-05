@@ -10,17 +10,16 @@ title: Fabricant de Jouets
 </p>
 
 <!-- 🧸 Fabricant de Jouets -->
-
 <div style="text-align:center; margin: 20px 0;">
   <img src="../images/Icon_toymaker.png" alt="Fabricant de Jouets" width="360" style="border-radius:12px; margin-top:10px;">
   <br>
-  <span style="color:#4ea3ff; font-weight:bold; font-size:28px;">Fabricant de Jouets</span>
+  <span style="color:#e0b97a; font-weight:bold; font-size:28px;">Fabricant de Jouets</span>
 </div>
 
 ---
 
 ## 🧭 Informations
-- **Type :** <a href="../legendaire.md" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Légendaire</a>  
+- **Type :** <a href="../legendaire.md" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Légendaire</a>  
 - **Artiste :** Aidan Roberts  
 
 <p style="color:#f5f5f5; font-style:italic; font-size:17px; text-align:center; line-height:1.8;">
@@ -33,12 +32,12 @@ Amusement garanti pour tous les âges ! »
 
 ## 📖 Résumé
 
-**« Le <span style="color:#d45b5b;">Démon</span> peut choisir de ne pas attaquer, et doit le faire au moins une fois par partie.  
+> **« Le <span style="color:#d45b5b;">Démon</span> peut choisir de ne pas attaquer, et doit le faire au moins une fois par partie.  
 Les joueurs maléfiques reçoivent les informations normales de départ. »**
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.8;">
-Le <strong>Fabricant de Jouets</strong> est un légendaire qui rend les petites parties plus longues.  
-Il oblige le <span style="color:#d45b5b;">Démon</span> à s’abstenir d’attaquer une nuit au moins, tout en offrant aux <span style="color:#d45b5b;">Sbires</span> et au <span style="color:#d45b5b;">Démon</span> les informations de départ classiques.  
+Le <strong>Fabricant de Jouets</strong> est un <a href="../legendaire.md" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Légendaire</a> qui rallonge légèrement les petites parties.  
+Il oblige le <span style="color:#d45b5b;">Démon</span> à s’abstenir d’attaquer une nuit au moins, tout en offrant aux <span style="color:#d45b5b;">Sbires</span> et au <span style="color:#d45b5b;">Démon</span> les informations de départ habituelles.  
 Ce rôle est surtout utile pour les scripts de type <strong>Teensyville</strong> (5 ou 6 joueurs).
 </p>
 
@@ -75,7 +74,7 @@ Ce rôle est surtout utile pour les scripts de type <strong>Teensyville</strong>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.8;">
 Le <strong>Fabricant de Jouets</strong> est conçu pour les scripts de type <strong>Teensyville</strong>,  
-où la distribution comprend 6 <span style="color:#4ea3ff;">Villageois</span>, 2 <span style="color:#4ea3ff;">Étrangers</span>, 2 <span style="color:#d45b5b;">Sbires</span> et 2 <span style="color:#d45b5b;">Démons</span>.  
+où la répartition comprend 6 <span style="color:#4ea3ff;">Villageois</span>, 2 <span style="color:#4ea3ff;">Étrangers</span>, 2 <span style="color:#d45b5b;">Sbires</span> et 2 <span style="color:#d45b5b;">Démons</span>.  
 
 Avec ce rôle en jeu :
 <ul style="margin-left:24px;">
@@ -87,7 +86,7 @@ Avec ce rôle en jeu :
 Si cette abstention n’a pas encore eu lieu et que son attaque mettrait fin à la partie,  
 le <span style="color:#d45b5b;">Démon</span> est automatiquement empêché d’agir cette nuit-là.  
 
-Le <strong>Fabricant de Jouets</strong> peut aussi être utilisé dans <a href="../tb.md" style="color:#d4a76a; text-decoration:none;">Trouble Brewing</a> avec cinq ou six joueurs,  
+Le <strong>Fabricant de Jouets</strong> peut aussi être utilisé dans <a href="../tb.md" style="color:#e0b97a; text-decoration:none;">Trouble Brewing</a> avec cinq ou six joueurs,  
 mais il n’est pas indispensable.
 </p>
 
@@ -95,5 +94,5 @@ mais il n’est pas indispensable.
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
 🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-🌟 <a href="../legendaire.md" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour aux Légendaires</a>
+🌟 <a href="../legendaire.md" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour aux Légendaires</a>
 </p>
