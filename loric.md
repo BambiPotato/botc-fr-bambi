@@ -29,7 +29,7 @@ title: Loric
 ## 📑 <span style="color:#b58b52;">Sommaire</span>
 
 1. [Présentation](#1-présentation)  
-2. [Loric](#2-lorics)  
+2. [Loric](#2-loric)  
 
 ---
 
@@ -50,31 +50,31 @@ Là où les <em>Fabled</em> corrigent les problèmes, <strong>les Lorics</strong
 
   <!-- Bootlegger -->
   <a href="./loric_roles/bootlegger.html" style="text-decoration:none; display:inline-block; width:280px; text-align:center;">
-    <img src="./images/Icon bootlegger.png" alt="Bootlegger" style="display:block; margin:0 auto; width:280px; height:auto; border-radius:12px;">
+    <img src="./images/Icon_bootlegger.png" alt="Bootlegger" style="display:block; margin:0 auto; width:280px; height:auto; border-radius:12px;">
     <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Bootlegger</span>
   </a>
 
   <!-- Big Wig -->
   <a href="./loric_roles/bigwig.html" style="text-decoration:none; display:inline-block; width:280px; text-align:center;">
-    <img src="./images/Icon big wig.png" alt="Big Wig" style="display:block; margin:0 auto; width:280px; height:auto; border-radius:12px;">
+    <img src="./images/Icon_bigwig.png" alt="Big Wig" style="display:block; margin:0 auto; width:280px; height:auto; border-radius:12px;">
     <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Big Wig</span>
   </a>
 
   <!-- Gardener -->
   <a href="./loric_roles/gardener.html" style="text-decoration:none; display:inline-block; width:280px; text-align:center;">
-    <img src="./images/Icon gardener.png" alt="Gardener" style="display:block; margin:0 auto; width:280px; height:auto; border-radius:12px;">
-    <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Jardinier</span>
+    <img src="./images/Icon_gardener.png" alt="Gardener" style="display:block; margin:0 auto; width:280px; height:auto; border-radius:12px;">
+    <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Gardener</span>
   </a>
 
   <!-- Storm Catcher -->
   <a href="./loric_roles/stormcatcher.html" style="text-decoration:none; display:inline-block; width:280px; text-align:center;">
-    <img src="./images/Icon stormcatcher.png" alt="Storm Catcher" style="display:block; margin:0 auto; width:280px; height:auto; border-radius:12px;">
-    <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Attrape-tempête</span>
+    <img src="./images/Icon_stormcatcher.png" alt="Storm Catcher" style="display:block; margin:0 auto; width:280px; height:auto; border-radius:12px;">
+    <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Storm Catcher</span>
   </a>
 
   <!-- Tor -->
   <a href="./loric_roles/tor.html" style="text-decoration:none; display:inline-block; width:280px; text-align:center;">
-    <img src="./images/Icon tor.png" alt="Tor" style="display:block; margin:0 auto; width:280px; height:auto; border-radius:12px;">
+    <img src="./images/Icon_tor.png" alt="Tor" style="display:block; margin:0 auto; width:280px; height:auto; border-radius:12px;">
     <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Tor</span>
   </a>
 
