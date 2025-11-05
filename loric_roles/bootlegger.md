@@ -1,0 +1,95 @@
+---
+layout: default
+title: Bootlegger
+---
+
+<p align="left">
+  <a href="/botc-fr-bambi/">
+    <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
+  </a>
+</p>
+
+<!-- Bootlegger -->
+
+<div style="text-align:center; margin: 20px 0;">
+  <a href="./bootlegger.html" style="text-decoration:none;">
+    <img src="../images/Icon_bootlegger.png" alt="Bootlegger" width="260" style="border-radius:12px;">
+    <br>
+    <span style="color:#7fd1ae; font-weight:bold; font-size:22px;">Bootlegger</span>
+  </a>
+</div>
+
+# 🍺 <span style="color:#7fd1ae; font-weight:bold; font-size:18px;">Bootlegger</span>
+
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+  « J’ai rapporté la dernière cuvée de la maison, un petit brassin que j’appelle “Brume de Barrow”. Tu veux goûter ? »
+</p>
+
+---
+
+## 🧾 <span style="color:#7fd1ae;">Informations</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li><strong>Type :</strong> Loric</li>
+  <li><strong>Artiste :</strong> <em>Chloe McDougall</em></li>
+  <li><strong>Révélé :</strong> 28 avril 2023</li>
+</ul>
+
+---
+
+## 📖 <span style="color:#7fd1ae;">Résumé</span>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<strong>« Ce script contient des rôles ou des règles créés par la communauté. »</strong>
+</p>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+Ajoutez le <strong>Bootlegger</strong> pour inclure des rôles ou des règles <em>homebrew</em> (créations de joueuses et joueurs) dans la partie.  
+Il autorise les conteuses et conteurs à utiliser des rôles non officiels, ou à appliquer des règles personnalisées.  
+Tant qu’un ou plusieurs rôles <em>homebrew</em> figurent sur le script, le <strong>Bootlegger</strong> reste en jeu.  
+Il ne peut être retiré qu’en passant à un script ne contenant aucun rôle ni règle personnalisée.
+</p>
+
+---
+
+## ⚖️ <span style="color:#7fd1ae;">Détails</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>Le <strong>Bootlegger</strong> doit être annoncé au début de la partie s’il y a des rôles ou règles <em>homebrew</em>.</li>
+  <li>Le Conteur présente à tous les joueurs la liste de ces rôles et/ou règles avant le début du jeu.</li>
+  <li>Il est possible d’utiliser plusieurs créations à la fois, tant qu’elles sont expliquées avant le lancement de la partie.</li>
+  <li>Le <strong>Bootlegger</strong> est conçu pour les scripts expérimentaux et les adaptations dans l’application officielle.</li>
+  <li>Ce rôle rend hommage à la légendaire “Homebrewy McHomebrewface”, son ancêtre écarté lors d’un vote serré de la communauté.</li>
+</ul>
+
+---
+
+## 🎭 <span style="color:#7fd1ae;">Comment Conter</span>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+Au début de la partie, si votre script comporte des rôles ou règles <em>homebrew</em>, déclarez que le <strong>Bootlegger</strong> est en jeu.  
+Présentez brièvement les créations utilisées et précisez comment elles modifient les règles officielles.  
+Si plusieurs créations sont présentes, expliquez chacune d’elles avant de commencer la première nuit.  
+Le <strong>Bootlegger</strong> reste actif jusqu’à la fin de la partie.
+</p>
+
+---
+
+## 🧩 <span style="color:#7fd1ae;">Exemples</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+  <li>Le script inclut le rôle <em>Paysan</em>, un personnage <em>homebrew</em> créé par la communauté.  
+  Le Conteur déclare que le <strong>Bootlegger</strong> est en jeu, puis explique comment fonctionne le Paysan avant de commencer la partie.</li>
+
+  <li>Le Conteur décide d’appliquer une règle maison : « Les joueurs morts peuvent discuter librement le jour. »  
+  Il annonce le <strong>Bootlegger</strong>, présente la règle à tous les joueurs et précise qu’elle restera active toute la partie.</li>
+
+</ul>
+
+---
+
+<p style="text-align:left; font-size:18px; margin-top:20px;">
+  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+  🌿 <a href="../loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Retour aux rôles Loric</a>
+</p>
