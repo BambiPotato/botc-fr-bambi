@@ -12,9 +12,11 @@ title: Esprit d’Ivoire
 <!-- 🐘 Esprit d’Ivoire -->
 
 <div style="text-align:center; margin: 20px 0;">
-  <img src="../images/Icon_spiritofivory.png" alt="Esprit d’Ivoire" width="360" style="border-radius:12px; margin-top:10px;">
-  <br>
-  <span style="color:#e0b97a; font-weight:bold; font-size:28px;">Esprit d’Ivoire</span>
+  <a href="./espritdivoire.md" style="text-decoration:none;">
+    <img src="../images/Icon_spiritofivory.png" alt="Esprit d’Ivoire" width="360" style="border-radius:12px; margin-top:10px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:28px;">Esprit d’Ivoire</span>
+  </a>
 </div>
 
 ---
@@ -73,7 +75,7 @@ L’<strong>Esprit d’Ivoire</strong> empêche ces excès et garantit une parti
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.8;">
 Avec l’<strong>Esprit d’Ivoire</strong> en jeu, **seule une** personne de plus que la normale peut être <span style="color:#d45b5b;">maléfique</span> à tout moment.  
-Si une autre personne devrait le devenir, elle **reste** <span style="color:#4ea3ff;">bonne</span>.  
+Si une autre personne devait le devenir, elle **reste** <span style="color:#4ea3ff;">bonne</span>.  
 Le <em>nombre normal</em> de <span style="color:#d45b5b;">maléfiques</span> est indiqué sur la fiche Voyageur et sur la fiche de mise en place.
 </p>
 
