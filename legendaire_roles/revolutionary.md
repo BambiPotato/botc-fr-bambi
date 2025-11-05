@@ -12,15 +12,17 @@ title: Révolutionnaire
 <!-- ✊ Révolutionnaire -->
 
 <div style="text-align:center; margin: 20px 0;">
-  <img src="../images/Icon_revolutionary.png" alt="Révolutionnaire" width="360" style="border-radius:12px; margin-top:10px;">
-  <br>
-  <span style="color:#d4a76a; font-weight:bold; font-size:28px;">Révolutionnaire</span>
+  <a href="./revolutionary.md" style="text-decoration:none;">
+    <img src="../images/Icon_revolutionary.png" alt="Révolutionnaire" width="360" style="border-radius:12px; margin-top:10px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:28px;">Révolutionnaire</span>
+  </a>
 </div>
 
 ---
 
 ## 🧭 Informations
-- **Type :** <a href="../legendaire.md" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Légendaire</a>  
+- **Type :** <a href="../legendaire.md" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Légendaire</a>  
 - **Artiste :** Aidan Roberts  
 
 <p style="color:#f5f5f5; font-style:italic; font-size:17px; text-align:center; line-height:1.8;">
@@ -62,7 +64,7 @@ Une fois par partie, le Conteur peut faire en sorte que l’un d’eux soit per�
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8; margin-left:24px;">
   <li>Mathew est malentendant. Il forme une équipe avec Davo grâce au Révolutionnaire.  
-  Mathew tire le jeton de l’<a href="../bmr_roles/empoisonneur.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>, et Davo reçoit celui du <a href="../tb_roles/demon.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.  
+  Mathew tire le jeton de l’<a href="../bmr_roles/empoisonneur.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>, et Davo reçoit celui de l’<a href="../tb_roles/imp.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Imp</a>.  
   Ils peuvent échanger discrètement en langue des signes pour planifier leurs actions.</li>
 
   <li>Hannah, 12 ans, souhaite jouer mais ne comprend pas encore toutes les subtilités des rôles.  
@@ -89,5 +91,5 @@ Ce mécanisme permet à chacun de s’impliquer tout en gardant la fluidité et 
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
 🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-🌟 <a href="../legendaire.md" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour aux Légendaires</a>
+🌟 <a href="../legendaire.md" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour aux Légendaires</a>
 </p>
