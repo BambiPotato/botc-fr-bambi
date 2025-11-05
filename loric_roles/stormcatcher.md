@@ -104,7 +104,7 @@ les <span style="color:#d45b5b; font-weight:bold;">maléfiques</span> savent qui
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Nommer un rôle avec l’Attrape-tempête <strong>n’oblige pas</strong> à le mettre en jeu.  
 S’il n’est pas présent, vous offrez simplement un <em>bluff sûr</em> à l’équipe maléfique.  
-Utilisez-le pour rendre un rôle « spécial » : si votre partie repose sur des interactions avec, par exemple, le <a href="../tb_roles/tueur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Tueur</a>,  
+Utilisez-le pour rendre un rôle « spécial » : si votre partie repose sur des interactions avec, par exemple, le <a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a>,  
 c’est frustrant de le perdre dès le jour 2 sur un coup de chance du Démon. Cette faveur garantit qu’il atteindra le débat final… à moins d’être exécuté.
 </p>
 
