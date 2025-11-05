@@ -11,9 +11,11 @@ title: Fabricant de Jouets
 
 <!-- 🧸 Fabricant de Jouets -->
 <div style="text-align:center; margin: 20px 0;">
-  <img src="../images/Icon_toymaker.png" alt="Fabricant de Jouets" width="360" style="border-radius:12px; margin-top:10px;">
-  <br>
-  <span style="color:#e0b97a; font-weight:bold; font-size:28px;">Fabricant de Jouets</span>
+  <a href="./fabricantdejouets.md" style="text-decoration:none;">
+    <img src="../images/Icon_toymaker.png" alt="Fabricant de Jouets" width="360" style="border-radius:12px; margin-top:10px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:28px;">Fabricant de Jouets</span>
+  </a>
 </div>
 
 ---
