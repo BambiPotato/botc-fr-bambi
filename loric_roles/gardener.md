@@ -86,10 +86,10 @@ Le <strong>Gardener</strong> ne modifie rien durant la partie, il agit uniquemen
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
   <li>Le <a href="../roles_experimentaux/vizir.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a> est présent dans le script, mais <strong>Ida</strong> n’aime pas jouer un rôle maléfique révélé.  
-  Le Conteur place le <strong>Gardener</strong> en jeu et attribue directement à Ida le rôle d’<a href="../tb_roles/empoisonneur.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> à la place.</li>
+  Le Conteur place le <strong>Gardener</strong> en jeu et attribue directement à Ida le rôle d’<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> à la place.</li>
 
   <li><strong>Robin</strong> a joué du côté maléfique plusieurs fois de suite aujourd’hui.  
-  Le Conteur place le <strong>Gardener</strong> en jeu et lui attribue cette fois le rôle du <a href="../tb_roles/cuistot.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuistot</a>.</li>
+  Le Conteur place le <strong>Gardener</strong> en jeu et lui attribue cette fois le rôle du <a href="../tb_roles/cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuistot</a>.</li>
 
 </ul>
 
