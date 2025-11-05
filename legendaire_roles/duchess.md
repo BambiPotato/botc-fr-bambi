@@ -10,17 +10,18 @@ title: Duchesse
 </p>
 
 <!-- 👑 Duchesse -->
-
 <div style="text-align:center; margin: 20px 0;">
-  <img src="../images/Icon_duchess.png" alt="Duchesse" width="360" style="border-radius:12px; margin-top:10px;">
-  <br>
-  <span style="color:#d4a76a; font-weight:bold; font-size:28px;">Duchesse</span>
+  <a href="./duchesse.md" style="text-decoration:none;">
+    <img src="../images/Icon_duchess.png" alt="Duchesse" width="360" style="border-radius:12px; margin-top:10px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:28px;">Duchesse</span>
+  </a>
 </div>
 
 ---
 
 ## 🧭 Informations
-- **Type :** <a href="../legendaire.md" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Légendaire</a>  
+- **Type :** <a href="../legendaire.md" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Légendaire</a>  
 - **Artiste :** Caitlin Murphy  
 
 <p style="color:#f5f5f5; font-style:italic; font-size:17px; text-align:center; line-height:1.8;">
@@ -98,5 +99,5 @@ elle ajoute simplement une couche d’incertitude à la partie.
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
 🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-🌟 <a href="../legendaire.md" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour aux Légendaires</a>
+🌟 <a href="../legendaire.md" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour aux Légendaires</a>
 </p>
