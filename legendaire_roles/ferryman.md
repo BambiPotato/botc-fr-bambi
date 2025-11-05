@@ -9,9 +9,14 @@ title: Le Passeur
   </a>
 </p>
 
-<img src="../images/Icon_ferryman.png" alt="Le Passeur" width="160" style="display:block; margin:auto;">
-
-# 🏰 <span style="color:#e0b97a;">Le Passeur</span>
+<!-- 🏰 Le Passeur -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="./passeur.md" style="text-decoration:none;">
+    <img src="../images/Icon_ferryman.png" alt="Le Passeur" width="160" style="display:block; margin:auto;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:28px;">Le Passeur</span>
+  </a>
+</div>
 
 <div style="line-height:1.8; font-size:17px; text-align:justify;">
 
@@ -71,8 +76,6 @@ Il **évite la frustration** des joueurs et joueuses morts trop tôt et permet u
 Ce Légendaire ne déséquilibre pas la partie — il la **fluidifie** en redonnant de la tension dramatique sans pénaliser les choix passés.  
 Il est aussi un excellent moyen pour un ou une conteuse d’encourager la participation jusqu’au bout.
 
----
-
 </div>
 
 ---
@@ -81,4 +84,3 @@ Il est aussi un excellent moyen pour un ou une conteuse d’encourager la partic
 🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
 🌟 <a href="../legendaire.md" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour aux Légendaires</a>
 </p>
-
