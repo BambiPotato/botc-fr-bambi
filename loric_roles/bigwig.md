@@ -27,10 +27,11 @@ title: Big Wig
 
 ---
 
+
 ## 🧾 <span style="color:#7fd1ae;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li><strong>Type :</strong> Loric</li>
+  <li><strong>Type :</strong> <a href="../loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Loric</a></li>
   <li><strong>Artiste :</strong> <em>Chloe McDougall</em></li>
   <li><strong>Révélé :</strong> 25 octobre 2025</li>
 </ul>
