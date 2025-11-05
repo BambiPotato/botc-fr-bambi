@@ -63,13 +63,13 @@ Là où les <em>Fabled</em> corrigent les problèmes, <strong>les Lorics</strong
   <!-- Gardener -->
   <a href="./loric_roles/gardener.html" style="text-decoration:none; display:inline-block; width:280px; text-align:center;">
     <img src="./images/Icon_gardener.png" alt="Gardener" style="display:block; margin:0 auto; width:280px; height:auto; border-radius:12px;">
-    <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Gardener</span>
+    <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Jardinier</span>
   </a>
 
   <!-- Storm Catcher -->
   <a href="./loric_roles/stormcatcher.html" style="text-decoration:none; display:inline-block; width:280px; text-align:center;">
     <img src="./images/Icon_stormcatcher.png" alt="Storm Catcher" style="display:block; margin:0 auto; width:280px; height:auto; border-radius:12px;">
-    <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Storm Catcher</span>
+    <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Attrape-tempête</span>
   </a>
 
   <!-- Tor -->
