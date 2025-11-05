@@ -10,17 +10,18 @@ title: Doomsayer
 </p>
 
 <!-- ☠️ Doomsayer -->
-
 <div style="text-align:center; margin: 20px 0;">
-  <img src="../images/Icon_doomsayer.png" alt="Doomsayer" width="360" style="border-radius:12px; margin-top:10px;">
-  <br>
-  <span style="color:#d4a76a; font-weight:bold; font-size:28px;">Doomsayer</span>
+  <a href="./doomsayer.md" style="text-decoration:none;">
+    <img src="../images/Icon_doomsayer.png" alt="Doomsayer" width="360" style="border-radius:12px; margin-top:10px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:28px;">Doomsayer</span>
+  </a>
 </div>
 
 ---
 
 ## 🧭 Informations
-- **Type :** <a href="../legendaire.md" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Légendaire</a>  
+- **Type :** <a href="../legendaire.md" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Légendaire</a>  
 - **Artiste :** Aidan Roberts  
 
 <p style="color:#f5f5f5; font-style:italic; font-size:17px; text-align:center; line-height:1.8;">
@@ -46,8 +47,8 @@ Dès qu’il ne reste plus que <strong>3 joueurs vivants</strong>, cette capacit
 ## ⚙️ Comment Conter
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8; margin-left:24px;">
-  <li>Annoncez à tout moment que le Doomsayer est en jeu et placez son jeton dans le grimoire.</li>
-  <li>Pendant la journée, tant qu’il reste <strong>au moins 4 joueurs vivants</strong>, un joueur peut déclarer vouloir utiliser la capacité du Doomsayer.</li>
+  <li>Annoncez à tout moment que le <strong>Doomsayer</strong> est en jeu et placez son jeton dans le grimoire.</li>
+  <li>Pendant la journée, tant qu’il reste <strong>au moins 4 joueurs vivants</strong>, un joueur peut déclarer vouloir utiliser la capacité du <strong>Doomsayer</strong>.</li>
   <li>Choisissez alors un <strong>joueur vivant du même alignement</strong> que celui qui a activé la capacité. Ce joueur meurt immédiatement.</li>
   <li>Le Conteur décide qui meurt, mais doit respecter l’alignement : un <span style="color:#4ea3ff; font-weight:bold;">Bon</span> tue un <span style="color:#4ea3ff; font-weight:bold;">Bon</span>, un <span style="color:#d45b5b; font-weight:bold;">Maléfique</span> tue un <span style="color:#d45b5b; font-weight:bold;">Maléfique</span>.</li>
   <li>Évitez de tuer le <a href="../demons.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> de cette façon, sauf si la partie peut continuer (p. ex. si une <a href="../tb_roles/femmeecarlate.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme Écarlate</a> est en jeu).</li>
@@ -58,7 +59,7 @@ Dès qu’il ne reste plus que <strong>3 joueurs vivants</strong>, cette capacit
 ## 🧾 Exemples
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8; margin-left:24px;">
-  <li>Le <a href="../tb_roles/moine.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> utilise la capacité du Doomsayer :  
+  <li>Le <a href="../tb_roles/moine.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> utilise la capacité du <strong>Doomsayer</strong> :  
     la <a href="../tb_roles/lavandiere.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> meurt.  
     Plus tard dans la journée, l’<a href="../tb_roles/empoisonneur.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> l’utilise à son tour : le <a href="../tb_roles/baron.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> meurt.</li>
 
@@ -90,5 +91,5 @@ Dès qu’il ne reste plus que <strong>3 joueurs vivants</strong>, la capacité 
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
 🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-🌟 <a href="../legendaire.md" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour aux Légendaires</a>
+🌟 <a href="../legendaire.md" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour aux Légendaires</a>
 </p>
