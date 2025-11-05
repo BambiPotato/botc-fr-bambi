@@ -9,21 +9,28 @@ title: Deus ex Fiasco
   </a>
 </p>
 
-<!-- Titre cliquable (doré) -->
-<h1 style="margin: 14px 0;">
-  <a href="./deusexfiasco.md" style="text-decoration:none; color:#e0b97a; font-weight:800;">
-    🏰 Deus ex Fiasco
-  </a>
-</h1>
+<!-- 🏰 Deus ex Fiasco -->
 
-<!-- Image centrée cliquable + nom centré en dessous (doré) -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./deusexfiasco.md" style="text-decoration:none;">
-    <img src="../images/Icon_deusexfiasco.png" alt="Deus ex Fiasco" width="360" style="border-radius:12px; margin-top:6px;">
+    <img src="../images/Icon_deusexfiasco.png" alt="Deus ex Fiasco" width="360" style="border-radius:12px; margin-top:10px;">
     <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:22px;">Deus ex Fiasco</span>
+    <span style="color:#e0b97a; font-weight:bold; font-size:28px;">Deus ex Fiasco</span>
   </a>
 </div>
+
+---
+
+## 🧭 Informations
+- **Type :** <a href="../legendaire.md" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Légendaire</a>  
+- **Artiste :** Chlo MacDougal  
+- **Révélé le :** 19 juin 2025  
+
+<p style="color:#f5f5f5; font-style:italic; font-size:17px; text-align:center; line-height:1.8; margin-top:10px;">
+« Ce n’est pas un bug, c’est une fonctionnalité.<br>
+Ce n’est pas une erreur, c’est un ajustement.<br>
+Ce n’est pas cassé, c’est original. »
+</p>
 
 ---
 
