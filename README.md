@@ -387,16 +387,15 @@
       </a>
     </td>
 
-    <!-- 🏰 Légendaires (désactivé)  -->
-    <td>
-      <a href="#" onclick="return false;">
-        <span class="rg-media">
-          <img src="./images/Generic_fabled.png" alt="Légendaires" style="opacity:.65; filter:grayscale(15%);">
-        </span>
-        <span class="rg-title">🏰 Légendaires</span>
-        <span class="rg-badge">à venir</span>
-      </a>
-    </td>
+   <!-- 🏰 Légendaires -->
+<td>
+  <a href="./legendaire.html">
+    <span class="rg-media">
+      <img src="./images/Generic_fabled.png" alt="Légendaires" style="opacity:.65; filter:grayscale(15%);">
+    </span>
+    <span class="rg-title">🏰 Légendaires</span>
+  </a>
+</td>
   </tr>
 
   <tr>
