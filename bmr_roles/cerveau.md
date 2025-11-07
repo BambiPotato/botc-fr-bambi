@@ -11,7 +11,7 @@ title: Cerveau
 </p>
 
 
-# 🧠 <span style="color:red">Cerveau</span>
+# 🧠 <span style="color:red">Conspirateur</span>
 
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
@@ -19,7 +19,7 @@ title: Cerveau
   <a href="./cerveau.html" style="text-decoration:none;">
     <img src="../images/Icon_mastermind.png" alt="Cerveau" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:red; font-weight:bold; font-size:22px;">Cerveau</span>
+    <span style="color:red; font-weight:bold; font-size:22px;">Conspirateur</span>
   </a>
 </div>
 
@@ -68,7 +68,7 @@ Tout se déroule exactement comme je l’avais prévu.»*
 > **« Si le Démon meurt par exécution (mettant fin à la partie), jouez un jour de plus.  
 > Si un joueur est ensuite exécuté, son équipe perd. »**
 
-Le **Cerveau** est un **Sbire** machiavélique capable de donner **une dernière chance aux Maléfiques**.  
+Le **Conspirateur** est un **Sbire** machiavélique capable de donner **une dernière chance aux Maléfiques**.  
 Même après la mort du Démon, il peut faire **basculer la victoire**.
 
 - Si le Démon est **exécuté et meurt**, la partie **ne se termine pas immédiatement**.  
@@ -101,7 +101,7 @@ Même après la mort du Démon, il peut faire **basculer la victoire**.
   Comme un joueur maléfique a été exécuté, **le Bien gagne**.  
 
 - Le [<span style="color:red">Zombuul</span>](../bmr_roles/zombuul.md) est exécuté, mais sa mort ne met pas fin à la partie (il était encore “vivant”).  
-  Lorsqu’il est exécuté une seconde fois et meurt pour de bon, la capacité du **Cerveau** s’active : la partie continue un jour de plus.  
+  Lorsqu’il est exécuté une seconde fois et meurt pour de bon, la capacité du **Conspirateur** s’active : la partie continue un jour de plus.  
 
 - Il ne reste que **trois joueurs vivants**.  
   Le Démon meurt par exécution.  
@@ -111,7 +111,7 @@ Même après la mort du Démon, il peut faire **basculer la victoire**.
 
 ## 💡 Astuces & Stratégies  
 
-Le **Cerveau** est un stratège implacable.  
+Le **Conspirateur** est un stratège implacable.  
 Il attend le moment parfait pour **transformer la victoire du Bien en défaite**.  
 
 ### 🧠 Jouer sur la durée  
@@ -151,7 +151,7 @@ Il attend le moment parfait pour **transformer la victoire du Bien en défaite**
 
 ---
 
-## ⚔️Pour contrer le Cerveau  
+## ⚔️Pour contrer le Conspirateur  
 
 Pour le camp du Bien :  
 
@@ -165,7 +165,7 @@ Pour le camp du Bien :
   Ce simple choix peut sauver la partie.  
 
 - Et surtout : **tuez les Sbires dès que possible.**  
-  Plus le Cerveau vit longtemps, plus le Mal a de chances de triompher.  
+  Plus le Conspirateur vit longtemps, plus le Mal a de chances de triompher.  
 
 ---
 
