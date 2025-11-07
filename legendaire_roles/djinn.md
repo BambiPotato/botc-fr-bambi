@@ -52,7 +52,7 @@ Le <strong><span style="color:#d4a76a;">Djinn</span></strong> résout les <em>ji
 
 ### 🧩 Sommaire
 - <a href="#villageois" style="text-decoration:none;">👨‍🌾 Villageois</a>
-- <a href="#etrangers" style="text-decoration:none;">🌿 Étrangers</a>
+- <a href="#etrangers" style="text-decoration:none;">🍺 Étrangers</a>
 - <a href="#sbires" style="text-decoration:none;">😈 Sbires</a>
 - <a href="#demons" style="text-decoration:none;">👹 Démons</a>
 
