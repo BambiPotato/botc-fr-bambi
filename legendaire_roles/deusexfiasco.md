@@ -92,7 +92,7 @@ Il <strong>doit être annoncé au début</strong> de la partie ; il ne peut <str
   <li>Le Conteur a oublié de réveiller l’<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>.  
   Discussion en privé : à partir de maintenant, l’Empoisonneur peut proposer plusieurs cibles chaque nuit et le Conteur décidera qui est réellement empoisonné.</li>
 
-  <li>La <a href="../bmr_roles/femme_de_chambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de chambre</a> choisit un joueur mort (interdit).  
+  <li>La <a href="../bmr_roles/femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de chambre</a> choisit un joueur mort (interdit).  
   Le Conteur ne corrige pas sur le moment et donne une fausse info.  
   Le lendemain, explication : on reconnaît l’erreur, on demande immédiatement deux cibles vivantes et on donne l’information correcte.</li>
 
