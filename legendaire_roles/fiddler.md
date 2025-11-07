@@ -88,7 +88,7 @@ La partie s’achève immédiatement et l’équipe du gagnant remporte la parti
 Aucune capacité ne peut influencer cette résolution :  
 le <a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a> ne peut pas tuer,  
 l’<a href="../sv_roles/artiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Artiste</a> ne peut pas poser de question,  
-et le <a href="../voyageurs/voleur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Voleur</a> n’a aucun effet.  
+et le <a href="..voyageurs/voyageurs/voleur.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voleur</a> n’a aucun effet.  
 
 Même les morts votent librement.  
 En cas d’égalité, le camp <span style="color:#d45b5b;">maléfique</span> l’emporte.
