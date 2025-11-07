@@ -86,7 +86,7 @@ Ensuite, tout le groupe vote pour désigner le vainqueur du duel.
 La partie s’achève immédiatement et l’équipe du gagnant remporte la partie.  
 
 Aucune capacité ne peut influencer cette résolution :  
-le <a href="../voyageurs/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a> ne peut pas tuer,  
+le <a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a> ne peut pas tuer,  
 l’<a href="../sv_roles/artiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Artiste</a> ne peut pas poser de question,  
 et le <a href="../voyageurs/voleur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Voleur</a> n’a aucun effet.  
 
