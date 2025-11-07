@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Légendaire
+permalink: /legendaire/
 ---
 
 <p align="left">
@@ -13,13 +14,13 @@ title: Légendaire
 
 ## 📖 Présentation  
 
-Les **Légendaires** (*Fabled*) sont des rôles réservés aux **Conteurs et conteuses** 🎭.  
+Les **Légendaires** (*Fabled*) sont des rôles réservés aux **conteurs et conteuses** 🎭.  
 Ils modifient légèrement les conditions de jeu et sont souvent inclus **au début d’une partie**.  
 
 Leur objectif est d’**adapter la partie** aux besoins du groupe, ou de **corriger une contrainte réelle**.  
 Ces rôles permettent à la partie de rester fluide, inclusive et équilibrée.  
 
-Découvrez ici les **rôles légendaires**, ces figures mythiques qui accompagnent les Conteurs pour préserver l’équilibre, l’équité et la magie de chaque partie.
+Découvrez ici les **rôles légendaires**, ces figures mythiques qui accompagnent les conteurs pour préserver l’équilibre, l’équité et la magie de chaque partie.  
 
 Par exemple :  
 - Si un joueur ou une joueuse a une difficulté de compréhension, un Légendaire peut l’aider à participer.  
