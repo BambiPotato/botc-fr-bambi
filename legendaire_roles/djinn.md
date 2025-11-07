@@ -58,7 +58,7 @@ Le <strong>Djinn</strong> résout les <em>jinxes</em> en créant une règle uniq
 
 ---
 
-## 💬 Présentation fidèle
+## Les Djinns
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.8;">
 Lors de la création d’une liste de rôles avec l’outil <em>Script Tool</em>, certaines combinaisons sont signalées comme inhabituelles.  
