@@ -6,7 +6,7 @@ title: Femme de chambre
 
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
+    <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
@@ -83,7 +83,7 @@ La **Femme de Chambre** permet de savoir qui s’est réveillé la nuit.
   - **2** → les deux se sont réveillés.  
 - Endormez la Femme de Chambre.  
 
-⚠️ Si moins de deux joueurs vivants peuvent être choisis (ex. fin de partie avec [<span style="color:red">Cerveau</span>](cerveau.md), [<span style="color:red">Zombuul</span>](zombuul.md), etc.), **ne réveillez pas** la Femme de Chambre.  
+⚠️ Si moins de deux joueurs vivants peuvent être choisis (ex. fin de partie avec [<span style="color:red">Conspirateur</span>](cerveau.md), [<span style="color:red">Zombuul</span>](zombuul.md), etc.), **ne réveillez pas** la Femme de Chambre.  
 
 ---
 
