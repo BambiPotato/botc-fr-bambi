@@ -376,9 +376,9 @@
       </a>
     </td>
 
-    <!-- 🎠 The Carousel Expérimental -->
+    <!-- 🎠 The Carousel Expérimental (désactivé) -->
     <td>
-      <a href="./roles_experimentaux.html">
+       <a href="#" onclick="return false;">
         <span class="rg-media">
           <img src="./images/carousel.png" alt="The Carousel Expérimental">
         </span>
@@ -387,7 +387,7 @@
       </a>
     </td>
 
-    <!-- 🏰 Légendaires (désactivé) -->
+    <!-- 🏰 Légendaires (désactivé)  -->
     <td>
       <a href="#" onclick="return false;">
         <span class="rg-media">
