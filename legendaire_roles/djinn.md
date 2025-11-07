@@ -28,15 +28,12 @@ title: Djinn
 انت لست حقيقي.<br>
 كل شيء هو وهم.<br>
 أسئلتك هي جبل نار في يوم صافٍ.
+<p style="color:#f5f5f5; font-style:italic; font-size:17px; line-height:1.8; text-align:left;">
+Nous ne sommes pas ici.<br>
+Tu n’es pas réel.<br>
+Tout est illusion.<br>
+Tes questions sont une montagne de feu par un jour clair.
 </p>
-
-
- <em>Nous ne sommes pas ici. 
- Tu n’es pas réel. 
- Tout est illusion. 
- Tes questions sont une montagne de feu par un jour clair.</em>
-</p>
-
 
 ## 📖 Résumé
 
