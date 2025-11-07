@@ -471,7 +471,6 @@
       <a href="./legendaire.html" style="text-decoration:none; display:inline-block; opacity:0.8;">
         <img src="./images/Generic_fabled.png" alt="Légendaires" width="240" style="border-radius:12px; opacity:0.7;">
         <div style="margin-top:8px; color:#b58b52; font-weight:bold; font-size:20px;">Légendaires</div>
-        <em style="display:block; color:#b58b52; font-size:14px;">Légendaires</em>
       </a>
     </td>
   </tr>
