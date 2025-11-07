@@ -94,7 +94,7 @@ Tant qu’il est **sobre**, il est immortel.
 
 - Le jour, la [Commère](commere.md) fait une déclaration publique qui s’avère vraie. La nuit, sa capacité tue un joueur. Le Marin s’était choisi lui-même, le Conteur décide donc qu’il est ivre. Le Marin meurt.  
 
-- Le Marin choisit le [<span style="color:red">Cerveau</span>](cerveau.md).  
+- Le Marin choisit le [<span style="color:red">Conspirateur</span>](cerveau.md).  
   → Le Conteur décide que le Marin est ivre. Le lendemain, le Marin demande à être exécuté pour prouver son rôle, mais il meurt car il était ivre.  
 
 ---
@@ -110,7 +110,7 @@ Tant qu’il est **sobre**, il est immortel.
 - Vous pouvez **prouver** que vous êtes Marin en demandant l’exécution : si vous êtes sobre, vous survivrez. Mais attention : cela peut aussi faire croire que vous êtes protégé par un [<span style="color:red">Avocat du Diable</span>](avocatdudiable.md).  
 
 - Informez vos cibles qu’elles risquent d’être ivres.  
-  → Une [Femme de Chambre](femmedecha.md) ivre aura des infos fausses, un [Aubergiste](aubergiste.md) ivre ne protège pas, etc.  
+  → Une [Femme de Chambre](femmedechambre.md) ivre aura des infos fausses, un [Aubergiste](aubergiste.md) ivre ne protège pas, etc.  
 
 - Vous pouvez coordonner vos choix avec d’autres bons rôles pour maximiser l’impact :  
   - ivrer un rôle d’info suspect,  
@@ -125,7 +125,7 @@ Tant qu’il est **sobre**, il est immortel.
   → Évitez de chercher à « prouver » votre rôle ainsi.  
 
 - Utilisez l’**ivresse** comme couverture :  
-  - si un allié <span style="color:red">maléfique</span> (ex. [Femme de Chambre](femmedecha.md)) donne des infos incohérentes → vous pouvez dire que vous l’avez choisi et qu’il était ivre.  
+  - si un allié <span style="color:red">maléfique</span> (ex. [Femme de Chambre](femmedechambre.md)) donne des infos incohérentes → vous pouvez dire que vous l’avez choisi et qu’il était ivre.  
   - si un joueur fort révèle son rôle, vous pouvez affirmer que vous l’avez rendu ivre chaque nuit → cela mettra en doute ses infos.  
 
 - Prétendez avoir choisi régulièrement un bon rôle qui échoue : par ex. si un [Courtisan](courtisan.md) ne paralyse pas un <span style="color:red">Démon</span> → dites que vous l’aviez choisi, donc il était ivre.  
