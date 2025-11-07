@@ -54,7 +54,7 @@ La menace d’une punition mystérieuse suffit souvent à rétablir le calme san
   <li>Marquez le jeton du joueur concerné avec un rappel pour vous souvenir de l’effet :  
   il peut être <em>empoisonné</em>, <em>fou</em>, <em>incapable de voter</em> ou <em>sans capacité</em> pour la journée.</li>
   <li>Retirez la <strong><span style="color:#d4a76a;">Bibliothécaire de l’Enfer</span></strong> quand vous le souhaitez et annoncez-le au groupe.</li>
-  <li>Comme pour l’<a href="./angel.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Ange</a>, privilégiez toujours des sanctions <strong>légères</strong> : mort symbolique, perte de capacité ou impossibilité de voter pour la journée.</li>
+  <li>Comme pour l’<a href="./ange.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Ange</a>, privilégiez toujours des sanctions <strong>légères</strong> : mort symbolique, perte de capacité ou impossibilité de voter pour la journée.</li>
 </ul>
 
 ---
@@ -78,7 +78,7 @@ Elle peut être activée lors d’un moment clé : explication de règle, vote d
 Elle favorise le calme et la concentration du groupe.  
 
 Il est toujours préférable de <strong>prévenir avant d’appliquer une sanction</strong>.  
-Comme pour l’<a href="./angel.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Ange</a>, la simple menace d’une punition suffit souvent à rétablir l’ordre sans réellement punir.  
+Comme pour l’<a href="./ange.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Ange</a>, la simple menace d’une punition suffit souvent à rétablir l’ordre sans réellement punir.  
 Le but n’est pas de sanctionner, mais de <strong>faire tourner la partie en douceur</strong>.  
 
 Les conséquences possibles sont laissées au choix du Conteur, mais il est recommandé de rester modéré :  
