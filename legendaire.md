@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Légendaire
-permalink: /legendaire/
 ---
 
 <p align="left">
