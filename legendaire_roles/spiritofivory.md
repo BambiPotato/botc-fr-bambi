@@ -59,7 +59,7 @@ Si une seconde personne <em>deviendrait</em> maléfique, elle **reste** dans le 
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8; margin-left:24px;">
   <li>Le <a href="../sv_roles/fanggu.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Fang Gu</a> attaque un <span style="color:#4ea3ff; font-weight:bold;">Étranger</span> et crée un <span style="color:#d45b5b;">maléfique</span> supplémentaire.  
-  L’<a href="../bmr_roles/avocatdudiable.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Avocate du Diable</a> choisit ensuite le <a href="../bmr_roles/goon.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Goon</a> pendant la nuit : normalement, le <a href="../bmr_roles/goon.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Goon</a> deviendrait <span style="color:#d45b5b;">maléfique</span>, mais comme il y a déjà <strong>un</strong> maléfique supplémentaire, le <a href="../bmr_roles/goon.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Goon</a> **reste bon**.</li>
+  L’<a href="../bmr_roles/avocatdudiable.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Avocate du Diable</a> choisit ensuite la <a href="../bmr_roles/goon.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Brute</a> pendant la nuit : normalement, la <a href="../bmr_roles/brute.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Brute</a> deviendrait <span style="color:#d45b5b;">maléfique</span>, mais comme il y a déjà <strong>un</strong> maléfique supplémentaire, la <a href="../bmr_roles/brute.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Brute</a> **garde son alignement bon**.</li>
 </ul>
 
 ---
