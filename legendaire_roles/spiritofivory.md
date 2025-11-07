@@ -39,7 +39,7 @@ L’être humain écoute, ou cesse d’être. »
 <p style="color:#f5f5f5; font-size:18px; line-height:1.8;">
 Ajoutez l’<strong><span style="color:#d4a76a;">Esprit d’Ivoire</span></strong> pour garder un nombre de <span style="color:#d45b5b;">maléfiques</span> juste et équilibré.  
 Avec l’<strong><span style="color:#d4a76a;">Esprit d’Ivoire</span></strong> en jeu, **au maximum une** personne de plus que la normale peut être <span style="color:#d45b5b;">maléfique</span>.  
-Si une seconde personne <em>deviendrait</em> maléfique, elle **garde son alignement du Bien**.
+Si une seconde personne <em>deviendrait</em> maléfique, elle **garde son alignement et reste dans le camp du Bien**.
 </p>
 
 ---
