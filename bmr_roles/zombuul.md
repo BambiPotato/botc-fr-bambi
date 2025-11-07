@@ -6,7 +6,7 @@ title: Zombuul
 
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
+    <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
@@ -102,7 +102,7 @@ Le **Zombuul** est un Démon terrifiant qui peut **se faire passer pour un mort*
   Cette nuit, le Zombuul tue le [Bricoleur](bricoleur.md).  
   Le lendemain, il ne se réveille pas, car un joueur est mort pendant la journée.  
 
-- Le Zombuul est tué par un [Assassin](assassin.md) : il meurt réellement, car son effet de résurrection a déjà eu lieu.  
+- Le Zombuul est tué par un [<span style="color:#d45b5b;">Assassin</span>](assassin.md) : il meurt réellement, car son effet de résurrection a déjà eu lieu.  
 
 ---
 
@@ -118,8 +118,8 @@ Vous êtes **le mort-vivant parfait** — capable de survivre à une exécution 
   Si vous êtes exécuté, faites croire que la partie se poursuit à cause d’un autre effet.  
   Les joueurs vous croiront mort, et vous pourrez continuer à agir dans l’ombre.  
 
-- Vous pouvez **vous coordonner avec un [Parrain](parrain.md)** pour qu’il vous « tue » au moment opportun, renforçant l’illusion.  
-  Cela donne l’impression qu’un autre Démon (comme le [Shabaloth](shabaloth.md) ou le [Po](po.md)) est en jeu.  
+- Vous pouvez **vous coordonner avec un [<span style="color:#d45b5b;">Parrain</span>](parrain.md)** pour qu’il vous « tue » au moment opportun, renforçant l’illusion.  
+  Cela donne l’impression qu’un autre Démon (comme le [<span style="color:#d45b5b;">Shabaloth</span>](shabaloth.md) ou le [<span style="color:#d45b5b;">Po</span>](po.md)) est en jeu.  
 
 ### ⚰️ Survivre longtemps  
 
