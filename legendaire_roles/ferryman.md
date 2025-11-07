@@ -11,76 +11,86 @@ title: Le Passeur
 
 <!-- 🏰 Le Passeur -->
 <div style="text-align:center; margin: 20px 0;">
-  <a href="./passeur.md" style="text-decoration:none;">
+  <a href="./passeur.html" style="text-decoration:none;">
     <img src="../images/Icon_ferryman.png" alt="Le Passeur" width="160" style="display:block; margin:auto;">
     <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:28px;">Le Passeur</span>
+    <span style="color:#d4a76a; font-weight:bold; font-size:28px;">Le Passeur</span>
   </a>
 </div>
 
-<div style="line-height:1.8; font-size:17px; text-align:justify;">
+---
 
-**Type :** <span style="color:#e0b97a;">Légendaire</span>  
-**Artiste :** Chloé McDougall  
-**Révélé le :** 27 juillet 2023  
+## 🧭 Informations
+- **Type :** <a href="../legendaire.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Légendaire</a>  
+- **Artiste :** Chloé McDougall  
+- **Révélé le :** 27 juillet 2023  
 
-> _« Quand les rêves des justes viennent, ils ont le poids de la vérité. »_
+<p style="color:#f5f5f5; font-style:italic; font-size:17px; text-align:center; line-height:1.8;">
+« Quand les rêves des justes viennent, ils ont le poids de la vérité. »
+</p>
 
 ---
 
-### 🧩 Résumé  
-> **« Le dernier jour, tous les joueurs et joueuses morts récupèrent leur jeton de vote. »**
+## 📖 Résumé
 
-Ajoutez **le Passeur** pour offrir une **fin de partie dynamique et inclusive**, même si certains joueurs et joueuses ont déjà utilisé leur vote.
+**« Le dernier jour, tous les joueurs et joueuses morts récupèrent leur jeton de vote. »**
 
-Si vous animez une partie avec des débutants ou des joueuses et joueurs peu expérimentés, qui ont dépensé leur vote trop tôt (ou ont oublié qu’ils étaient morts), le Passeur permet de **réimpliquer tout le monde** lors du dernier vote décisif.
+<p style="color:#f5f5f5; font-size:18px; line-height:1.8;">
+Ajoutez <strong><span style="color:#d4a76a;">le Passeur</span></strong> pour offrir une fin de partie plus dynamique et inclusive, même si certains joueurs ou joueuses ont déjà dépensé leur vote.  
+Ce rôle permet de <strong>réimpliquer tout le monde</strong> lors du dernier jour, surtout dans les parties d’initiation ou lorsque plusieurs personnes ont voté trop tôt.
+</p>
 
-- Tous les joueurs et joueuses morts **récupèrent leur jeton de vote** le dernier jour, quel que soit leur camp ou le moment où ils ont voté.  
-- Si un joueur mort possède encore son jeton, il **n’en reçoit pas un deuxième**.  
-- Le « dernier jour » est celui où le ou la conteuse estime que la partie touche à sa fin — c’est-à-dire le jour où, si le Démon n’est pas exécuté, le Mal l’emportera.  
-  En général, cela correspond au moment où il ne reste que **trois joueurs vivants**.  
-- Les jetons utilisés le dernier jour **ne sont pas restitués ensuite**.
-
----
-
-### 🎬 Mise en jeu
-
-Pendant la partie, lorsque vous sentez qu’il serait bon de le faire, **annoncez que le Passeur entre en jeu** et ajoutez son jeton dans le grimoire.
-
-Au **début du dernier jour**, demandez aux joueurs et joueuses de **rendre un jeton de vote** à chaque personne morte qui n’en a plus dans la place du village.
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.8; margin-left:24px;">
+  <li>Tous les joueurs et joueuses morts <strong>récupèrent leur jeton de vote</strong> le dernier jour, quel que soit leur camp ou le moment où ils ont voté.</li>
+  <li>Si un joueur mort possède encore son jeton, il <strong>n’en reçoit pas un deuxième</strong>.</li>
+  <li>Le « dernier jour » est celui où le ou la Conteur·se estime que la partie touche à sa fin — c’est-à-dire le jour où, si le <span style="color:#d45b5b;">Démon</span> n’est pas exécuté, le Mal l’emportera.  
+  En général, cela correspond au moment où il ne reste que <strong>trois joueurs vivants</strong>.</li>
+  <li>Les jetons utilisés le dernier jour <strong>ne sont pas restitués</strong> ensuite.</li>
+</ul>
 
 ---
 
-### 📘 Exemples
+## ⚙️ Mise en jeu
 
-- **Exemple 1 :**  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.8; margin-left:24px;">
+  <li>Pendant la partie, lorsque vous sentez que c’est approprié, <strong>annoncez que le Passeur entre en jeu</strong> et ajoutez son jeton dans le grimoire.</li>
+  <li>Au <strong>début du dernier jour</strong>, demandez aux joueurs et joueuses de <strong>rendre un jeton de vote</strong> à chaque personne morte qui n’en a plus dans la place du village.</li>
+</ul>
+
+---
+
+## 🧾 Exemples
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.8; margin-left:24px;">
+  <li><strong>Exemple 1 :</strong>  
   La plupart du groupe est novice.  
   Deux joueurs, Céline et Nicolas, ont oublié qu’ils étaient morts et ont voté par erreur.  
-  Le ou la conteuse ajoute le **Passeur** en jeu.  
-  Plus tard, lorsqu’il ne reste que trois vivants, il déclare qu’il s’agit du dernier jour : Céline et Nicolas récupèrent leurs jetons de vote.
+  Le Conteur ajoute <strong><span style="color:#d4a76a;">le Passeur</span></strong> en jeu.  
+  Plus tard, lorsqu’il ne reste que trois vivants, il déclare qu’il s’agit du dernier jour : Céline et Nicolas récupèrent leurs jetons de vote.</li>
 
-- **Exemple 2 :**  
+  <li><strong>Exemple 2 :</strong>  
   C’est le début du dernier jour.  
   Dix-sept joueurs sont morts et trois encore vivants.  
   Dix morts ont déjà utilisé leur vote.  
-  Pour rendre ce final plus **fun et engageant**, le ou la conteuse ajoute le Passeur.  
-  Ces dix morts retrouvent leur jeton et participent à un ultime débat animé, offrant une fin mémorable à la partie.
+  Pour rendre ce final plus <strong>fun et engageant</strong>, le Conteur ajoute <strong><span style="color:#d4a76a;">le Passeur</span></strong>.  
+  Ces dix morts retrouvent leur jeton et participent à un ultime débat animé, offrant une fin mémorable à la partie.</li>
+</ul>
 
 ---
 
-### 💬 Explications
+## 💬 Explication
 
-Le **Passeur** est idéal pour les parties conviviales ou d’initiation.  
-Il **évite la frustration** des joueurs et joueuses morts trop tôt et permet un **climax collectif** où tout le monde a de nouveau voix au chapitre.
+<p style="color:#f5f5f5; font-size:18px; line-height:1.8;">
+Le <strong><span style="color:#d4a76a;">Passeur</span></strong> est idéal pour les parties conviviales ou d’initiation.  
+Il <strong>évite la frustration</strong> des joueurs et joueuses morts trop tôt et crée un <strong>climax collectif</strong> où tout le monde retrouve une voix au moment décisif.  
 
-Ce Légendaire ne déséquilibre pas la partie — il la **fluidifie** en redonnant de la tension dramatique sans pénaliser les choix passés.  
-Il est aussi un excellent moyen pour un ou une conteuse d’encourager la participation jusqu’au bout.
-
-</div>
+Ce Légendaire ne déséquilibre pas la partie — il la <strong>fluidifie</strong> en rétablissant la tension dramatique sans effacer les choix précédents.  
+C’est aussi un excellent moyen pour le ou la Conteur·se d’encourager la participation jusqu’au bout.
+</p>
 
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-🌟 <a href="../legendaire.md" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour aux Légendaires</a>
+🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+🌟 <a href="../legendaire.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour aux Légendaires</a>
 </p>
