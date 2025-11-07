@@ -34,17 +34,17 @@ title: Légendaire
 
 <div style="text-align:center; display:inline-block; margin:10px;">
   [<img src="./images/Icon_angel.png" alt="Ange" width="260">](./legendaire_roles/ange.html)  
-  [<span style="color:#4ea3ff; font-weight:bold;">Ange</span>](./legendaire_roles/ange.html)
+  [<span style="color:#d4a76a; font-weight:bold;">Ange</span>](./legendaire_roles/ange.html)
 </div>
 
 <div style="text-align:center; display:inline-block; margin:10px;">
   [<img src="./images/Icon_buddhist.png" alt="Bouddhiste" width="260">](./legendaire_roles/buddhist.html)  
-  [<span style="color:#4ea3ff; font-weight:bold;">Bouddhiste</span>](./legendaire_roles/buddhist.html)
+  [<span style="color:#d4a76a; font-weight:bold;">Bouddhiste</span>](./legendaire_roles/buddhist.html)
 </div>
 
 <div style="text-align:center; display:inline-block; margin:10px;">
   [<img src="./images/Icon_hellslibrarian.png" alt="Bibliothécaire de l’Enfer" width="260">](./legendaire_roles/hellslibrarian.html)  
-  [<span style="color:#d45b5b; font-weight:bold;">Bibliothécaire de l’Enfer</span>](./legendaire_roles/hellslibrarian.html)
+  [<span style="color:#d4a76a; font-weight:bold;">Bibliothécaire de l’Enfer</span>](./legendaire_roles/hellslibrarian.html)
 </div>
 
 <div style="text-align:center; display:inline-block; margin:10px;">
@@ -54,12 +54,12 @@ title: Légendaire
 
 <div style="text-align:center; display:inline-block; margin:10px;">
   [<img src="./images/Icon_fiddler.png" alt="Violoniste" width="260">](./legendaire_roles/fiddler.html)  
-  [<span style="color:#4ea3ff; font-weight:bold;">Violoniste</span>](./legendaire_roles/fiddler.html)
+  [<span style="color:#d4a76a; font-weight:bold;">Violoniste</span>](./legendaire_roles/fiddler.html)
 </div>
 
 <div style="text-align:center; display:inline-block; margin:10px;">
   [<img src="./images/Icon_toymaker.png" alt="Fabricant de Jouets" width="260">](./legendaire_roles/toymaker.html)  
-  [<span style="color:#4ea3ff; font-weight:bold;">Fabricant de Jouets</span>](./legendaire_roles/toymaker.html)
+  [<span style="color:#d4a76a; font-weight:bold;">Fabricant de Jouets</span>](./legendaire_roles/toymaker.html)
 </div>
 
 ---
@@ -73,12 +73,12 @@ title: Légendaire
 
 <div style="text-align:center; display:inline-block; margin:10px;">
   [<img src="./images/Icon_duchess.png" alt="Duchesse" width="260">](./legendaire_roles/duchess.html)  
-  [<span style="color:#4ea3ff; font-weight:bold;">Duchesse</span>](./legendaire_roles/duchess.html)
+  [<span style="color:#d4a76a; font-weight:bold;">Duchesse</span>](./legendaire_roles/duchess.html)
 </div>
 
 <div style="text-align:center; display:inline-block; margin:10px;">
   [<img src="./images/Icon_sentinel.png" alt="Sentinelle" width="260">](./legendaire_roles/sentinel.html)  
-  [<span style="color:#d45b5b; font-weight:bold;">Sentinelle</span>](./legendaire_roles/sentinel.html)
+  [<span style="color:#d4a76a; font-weight:bold;">Sentinelle</span>](./legendaire_roles/sentinel.html)
 </div>
 
 <div style="text-align:center; display:inline-block; margin:10px;">
@@ -88,7 +88,7 @@ title: Légendaire
 
 <div style="text-align:center; display:inline-block; margin:10px;">
   [<img src="./images/Icon_djinn.png" alt="Djinn" width="260">](./legendaire_roles/djinn.html)  
-  [<span style="color:#d45b5b; font-weight:bold;">Djinn</span>](./legendaire_roles/djinn.html)
+  [<span style="color:#d4a76a; font-weight:bold;">Djinn</span>](./legendaire_roles/djinn.html)
 </div>
 
 ---
@@ -102,7 +102,7 @@ title: Légendaire
 
 <div style="text-align:center; display:inline-block; margin:10px;">
   [<img src="./images/Icon_ferryman.png" alt="Passeur" width="260">](./legendaire_roles/ferryman.html)  
-  [<span style="color:#4ea3ff; font-weight:bold;">Passeur</span>](./legendaire_roles/ferryman.html)
+  [<span style="color:#d4a76a; font-weight:bold;">Passeur</span>](./legendaire_roles/ferryman.html)
 </div>
 
 ---
