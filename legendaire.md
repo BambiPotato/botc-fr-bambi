@@ -11,9 +11,23 @@ title: Légendaire
 
 # 🌟 <span style="color:#d4a76a; font-weight:bold; font-size:42px;">Les Légendaires</span>
 
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  Rôles spéciaux pour Conteurs et Conteuses — ils ajustent la partie pour l’équilibre, l’inclusivité et le fun.
-</p>
+## 📖 Présentation
+
+Les **Légendaires** (*Fabled*) sont des rôles réservés aux **conteurs et conteuses** 🎭.  
+Ils modifient légèrement les conditions de jeu et sont souvent inclus **au début d’une partie**.
+
+Leur objectif est d’**adapter la partie** aux besoins du groupe, ou de **corriger une contrainte réelle**.  
+Ces rôles permettent à la partie de rester fluide, inclusive et équilibrée.
+
+Découvrez ici les **rôles légendaires**, ces figures mythiques qui accompagnent les conteurs pour préserver l’équilibre, l’équité et la magie de chaque partie.
+
+Par exemple :  
+- Si un joueur ou une joueuse a une difficulté de compréhension, un Légendaire peut l’aider à participer.  
+- Si une personne nouvelle craint de mourir tôt, un Légendaire peut la protéger.  
+- Si trop de participants veulent jouer en même temps, un Légendaire peut accélérer le jeu.  
+- Si quelqu’un de timide a du mal à se faire entendre, un Légendaire peut lui donner plus d’impact.  
+- Si la partie doit s’arrêter plus tôt que prévu, un Légendaire peut désigner un vainqueur.  
+- Si vous créez votre propre script personnalisé, un Légendaire peut enrichir l’expérience.
 
 ---
 
