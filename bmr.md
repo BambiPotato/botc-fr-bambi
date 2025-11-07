@@ -188,7 +188,7 @@ Mais si l’équipe du Bien ne parvient pas à identifier les Sbires et les Dém
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_mastermind.png" alt="Cerveau" width="300">](bmr_roles/cerveau.md)  
-  [<span style="color:red; font-weight:bold;">Cerveau</span>](bmr_roles/cerveau.md)
+  [<span style="color:red; font-weight:bold;">Conspirateur</span>](bmr_roles/cerveau.md)
 </div>
 
 ---
