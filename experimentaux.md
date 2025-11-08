@@ -50,8 +50,9 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
 5. [Sbires](#5-sbires)  
 6. [Démons](#6-démons) 
 7. [Légendaires](#7-legendaires)
-8. [Voyageurs](#8-voyageurs)
-9. [Téléchargements et Ressources](#7-téléchargements-et-ressources)  
+8. [Lorics](#7-lorics) 
+9. [Voyageurs](#8-voyageurs)
+
 
 
 ## 3.[<span style="color:blue;">**Villageois**</span>](villageois.md)
