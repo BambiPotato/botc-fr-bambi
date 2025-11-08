@@ -213,7 +213,6 @@ Ces ressources sont pratiques pour <strong>imprimer</strong> et <strong>jouer en
 
 ---
 
-## 📂 Navigation
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li>🏠 <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
