@@ -30,10 +30,10 @@ title: BMR
 
 1. [📖 Synopsis](#-synopsis)  
 2. [🎲 Gameplay](#-gameplay)  
-3. [<span style="color:blue;">Villageois</span>](#villageois)  
-4. [<span style="color:blue;">Étrangers</span>](#étrangers)  
-5. [<span style="color:red;">Sbires</span>](#sbires)  
-6. [<span style="color:red;">Démons</span>](#démons)  
+3. [Villageois](#villageois)  
+4. [Étrangers](#étrangers)  
+5. [Sbires](#sbires)  
+6. [Démons](#démons)  
 7. [📥 Télécharger & Imprimer](#-télécharger--imprimer)  
 
 ---
