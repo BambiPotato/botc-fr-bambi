@@ -68,12 +68,12 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
 
   <a href="roles_experimentaux/acrobat.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_acrobat.png" alt="Acrobat" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Acrobat</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Acrobate</span>
   </a>
 
   <a href="roles_experimentaux/alchemist.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_alchemist.png" alt="Alchemist" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Alchemist</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Alchimiste</span>
   </a>
 
   <a href="roles_experimentaux/alsaahir.md" style="text-decoration:none; width:280px; text-align:center;">
@@ -83,7 +83,7 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
 
   <a href="roles_experimentaux/amnesiac.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_amnesiac.png" alt="Amnesiac" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Amnesiac</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Amnésique</span>
   </a>
 
   <a href="roles_experimentaux/atheist.md" style="text-decoration:none; width:280px; text-align:center;">
@@ -93,7 +93,7 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
 
   <a href="roles_experimentaux/balloonist.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_balloonist.png" alt="Balloonist" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Balloonist</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Aéronaute</span>
   </a>
 
   <a href="roles_experimentaux/banshee.md" style="text-decoration:none; width:280px; text-align:center;">
@@ -103,62 +103,62 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
 
   <a href="roles_experimentaux/bounty_hunter.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_bountyhunter.png" alt="Bounty Hunter" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Bounty Hunter</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Chasseur de primes</span>
   </a>
 
   <a href="roles_experimentaux/cannibal.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_cannibal.png" alt="Cannibal" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Cannibal</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Cannibale</span>
   </a>
 
   <a href="roles_experimentaux/choirboy.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_choirboy.png" alt="Choirboy" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Choirboy</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Enfant de Choeur</span>
   </a>
 
-  <a href="roles_experimentaux/cult_leader.md" style="text-decoration:none; width:280px; text-align:center;">
+  <a href="roles_experimentaux/cultleader.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_cultleader.png" alt="Cult Leader" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Cult Leader</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Chef de Secte</span>
   </a>
 
   <a href="roles_experimentaux/engineer.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_engineer.png" alt="Engineer" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Engineer</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Ingénieur</span>
   </a>
 
   <a href="roles_experimentaux/farmer.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_farmer.png" alt="Farmer" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Farmer</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Fermier</span>
   </a>
 
   <a href="roles_experimentaux/fisherman.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_fisherman.png" alt="Fisherman" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Fisherman</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Pêcheur</span>
   </a>
 
   <a href="roles_experimentaux/general.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_general.png" alt="General" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">General</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Général</span>
   </a>
 
   <a href="roles_experimentaux/high_priestess.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_highpriestess.png" alt="High Priestess" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">High Priestess</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Grande Prêtresse</span>
   </a>
 
   <a href="roles_experimentaux/huntsman.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_huntsman.png" alt="Huntsman" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Huntsman</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Chasseur</span>
   </a>
 
   <a href="roles_experimentaux/king.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_king.png" alt="King" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">King</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Roi</span>
   </a>
 
   <a href="roles_experimentaux/knight.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_knight.png" alt="Knight" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Knight</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Chevalier</span>
   </a>
 
   <a href="roles_experimentaux/lycanthrope.md" style="text-decoration:none; width:280px; text-align:center;">
@@ -168,12 +168,12 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
 
   <a href="roles_experimentaux/magician.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_magician.png" alt="Magician" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Magician</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Magicien</span>
   </a>
 
   <a href="roles_experimentaux/nightwatchman.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_nightwatchman.png" alt="Nightwatchman" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Nightwatchman</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Veilleur de nuit</span>
   </a>
 
   <a href="roles_experimentaux/noble.md" style="text-decoration:none; width:280px; text-align:center;">
@@ -188,17 +188,17 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
 
   <a href="roles_experimentaux/poppy_grower.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_poppygrower.png" alt="Poppy Grower" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Poppy Grower</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Cultivateur de pavot</span>
   </a>
 
   <a href="roles_experimentaux/preacher.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_preacher.png" alt="Preacher" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Preacher</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Prédicateur</span>
   </a>
 
   <a href="roles_experimentaux/princess.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_princess.png" alt="Princess" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Princess</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Princesse</span>
   </a>
 
   <a href="roles_experimentaux/shugenja.md" style="text-decoration:none; width:280px; text-align:center;">
@@ -208,12 +208,12 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
 
   <a href="roles_experimentaux/steward.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_steward.png" alt="Steward" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Steward</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Intendant</span>
   </a>
 
   <a href="roles_experimentaux/village_idiot.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_villageidiot.png" alt="Village Idiot" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Village Idiot</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Idiot du Village</span>
   </a>
 
 </div>
@@ -227,7 +227,7 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
 
   <a href="roles_experimentaux/damsel.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_damsel.png" alt="Damsel" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Damsel</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Demoiselle</span>
   </a>
 
   <a href="roles_experimentaux/golem.md" style="text-decoration:none; width:280px; text-align:center;">
@@ -237,17 +237,17 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
 
   <a href="roles_experimentaux/hatter.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_hatter.png" alt="Hatter" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Hatter</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Chapelier</span>
   </a>
 
   <a href="roles_experimentaux/heretic.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_heretic.png" alt="Heretic" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Heretic</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Hérétique</span>
   </a>
 
   <a href="roles_experimentaux/hermit.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_hermit.png" alt="Hermit" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Hermit</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Ermite</span>
   </a>
 
   <a href="roles_experimentaux/ogre.md" style="text-decoration:none; width:280px; text-align:center;">
@@ -255,29 +255,29 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
     <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Ogre</span>
   </a>
 
-  <a href="roles_experimentaux/plague_doctor.md" style="text-decoration:none; width:280px; text-align:center;">
+  <a href="roles_experimentaux/plaguedoctor.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_plaguedoctor.png" alt="Plague Doctor" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Plague Doctor</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Docteur de la peste</span>
   </a>
 
   <a href="roles_experimentaux/politician.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_politician.png" alt="Politician" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Politician</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Politicien</span>
   </a>
 
   <a href="roles_experimentaux/puzzlemaster.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_puzzlemaster.png" alt="Puzzlemaster" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Puzzlemaster</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Maître des Puzzles</span>
   </a>
 
   <a href="roles_experimentaux/snitch.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_snitch.png" alt="Snitch" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Snitch</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Balance</span>
   </a>
 
   <a href="roles_experimentaux/zealot.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_zealot.png" alt="Zealot" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Zealot</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Zélote</span>
   </a>
 
 </div>
@@ -311,12 +311,12 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
 
   <a href="roles_experimentaux/harpy.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_harpy.png" alt="Harpy" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Harpy</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Harpie</span>
   </a>
 
   <a href="roles_experimentaux/marionette.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_marionette.png" alt="Marionette" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Marionette</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Marionnette</span>
   </a>
 
   <a href="roles_experimentaux/mezepheles.md" style="text-decoration:none; width:280px; text-align:center;">
@@ -326,27 +326,27 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
 
   <a href="roles_experimentaux/organ_grinder.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_organgrinder.png" alt="Organ Grinder" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Organ Grinder</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Orgue de Barbarie</span>
   </a>
 
   <a href="roles_experimentaux/psychopath.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_psychopath.png" alt="Psychopath" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Psychopath</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Psychopathe</span>
   </a>
 
   <a href="roles_experimentaux/summoner.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_summoner.png" alt="Summoner" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Summoner</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Incocateue</span>
   </a>
 
   <a href="roles_experimentaux/vizier.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_vizier.png" alt="Vizier" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Vizier</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Vizir</span>
   </a>
 
   <a href="roles_experimentaux/widow.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_widow.png" alt="Widow" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Widow</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Veuve</span>
   </a>
 
   <a href="roles_experimentaux/wizard.md" style="text-decoration:none; width:280px; text-align:center;">
@@ -356,7 +356,7 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
 
   <a href="roles_experimentaux/wraith.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_wraith.png" alt="Wraith" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Wraith</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Spectre</span>
   </a>
 
   <a href="roles_experimentaux/xaan.md" style="text-decoration:none; width:280px; text-align:center;">
@@ -390,22 +390,22 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
 
   <a href="roles_experimentaux/leviathan.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_leviathan.png" alt="Leviathan" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Leviathan</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Léviathan</span>
   </a>
 
-  <a href="roles_experimentaux/lil_monsta.md" style="text-decoration:none; width:280px; text-align:center;">
+  <a href="roles_experimentaux/lilmonsta.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_lilmonsta.png" alt="Lil' Monsta" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Lil' Monsta</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">P'tit Monstre</span>
   </a>
 
   <a href="roles_experimentaux/lleech.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_lleech.png" alt="Lleech" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Lleech</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Sangsue</span>
   </a>
 
   <a href="roles_experimentaux/lord_of_typhon.md" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_lordoftyphon.png" alt="Lord of Typhon" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Lord of Typhon</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Seigneur de Typhon</span>
   </a>
 
   <a href="roles_experimentaux/ojo.md" style="text-decoration:none; width:280px; text-align:center;">
@@ -463,7 +463,7 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
 
   <a href="loric_roles/gardener.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_gardener.png" alt="Gardener" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4caf50; font-weight:bold; font-size:18px; margin-top:6px;">Gardener</span>
+    <span style="display:block; color:#4caf50; font-weight:bold; font-size:18px; margin-top:6px;">Jardinier</span>
   </a>
 
   <a href="loric_roles/stormcatcher.html" style="text-decoration:none; width:280px; text-align:center;">
