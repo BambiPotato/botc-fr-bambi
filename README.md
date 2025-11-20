@@ -403,7 +403,7 @@
     <td>
       <a href="./loric.html">
         <span class="rg-media">
-          <img src="./images/Icon_loric.png" alt="Lorics">
+          <img src="./images/Generic_loric.png" alt="Lorics">
         </span>
         <span class="rg-title">🌿 Lorics</span>
       </a>
