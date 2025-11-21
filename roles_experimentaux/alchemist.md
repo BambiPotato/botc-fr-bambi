@@ -58,7 +58,7 @@ title: Alchimiste
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 L’<strong>Alchimiste</strong> possède la capacité d’un <span style="color:#d45b5b; font-weight:bold;">Sbire</span>, tout en restant un <span style="color:#4ea3ff; font-weight:bold;">Villageois</span> qui joue pour le Bien.
 </p>
-
+---
 
 ## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
 
@@ -125,7 +125,7 @@ Les jinxes suivants concernent l’<strong>Alchimiste</strong> et modifient sa c
   </li>
 
 </ul>
-
+---
 ## ⚙️ <span style="color:#4ea3ff;">Détails</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
