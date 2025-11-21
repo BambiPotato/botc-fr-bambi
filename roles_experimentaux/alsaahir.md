@@ -19,7 +19,16 @@ title: Alsaahir
   </a>
 </div>
 
-# 🧞 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Alsaahir</span>
+<!-- APPARAÎT DANS -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../experimentaux.html" style="text-decoration:none;">
+    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
+  </a>
+</div>
+
+# 🧿 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Alsaahir</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Je suis ici grâce à toi, et tu es ici grâce à moi. »
@@ -30,10 +39,11 @@ title: Alsaahir
 ## 🧾 <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li><strong>Type :</strong> <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a></li>
+  <li><strong>Type :</strong> 
+    <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
+  </li>
   <li><strong>Artiste :</strong> <em>Chloe McDougall</em></li>
   <li><strong>Révélé :</strong> 27 juin 2024</li>
-  <li><strong>Apparaît dans :</strong> <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">🎠 The Carousel Expérimental</a></li>
 </ul>
 
 ---
@@ -41,12 +51,11 @@ title: Alsaahir
 ## 📖 <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>« Chaque jour, si vous devinez publiquement quels joueurs sont des Sbires et quels joueurs sont des Démons, le Bien gagne. »</strong>
+<strong>« Chaque jour, si vous annoncez publiquement quels joueurs sont les Sbires et quels joueurs sont les Démons, le Bien gagne. »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-L’<strong>Alsaahir</strong> tente de deviner toute l’équipe maléfique d’un seul coup.  
-S’il ou elle se trompe, la partie continue. S’il ou elle a raison, les joueurs et joueuses du Bien gagnent immédiatement.
+L’<strong>Alsaahir</strong> doit deviner toute l’équipe maléfique pour offrir la victoire au village.
 </p>
 
 ---
@@ -54,16 +63,16 @@ S’il ou elle se trompe, la partie continue. S’il ou elle a raison, les joueu
 ## ⚙️ <span style="color:#4ea3ff;">Détails</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>La capacité de l’Alsaahir doit être utilisée <strong>publiquement</strong>, pendant le <strong>jour</strong>.</li>
-  <li>L’Alsaahir n’est pas obligé de deviner chaque jour.</li>
-  <li>D’autres joueurs et joueuses peuvent prétendre être l’Alsaahir et faire des annonces. La conteuse ou le conteur fait alors comme si cette personne était réellement l’Alsaahir, comme pour le Jongleur ou la Commère.</li>
-  <li>Pour que le Bien gagne, l’Alsaahir doit désigner le ou les Démon(s) comme Démons et le ou les Sbires comme Sbires.</li>
-  <li>L’Alsaahir doit deviner toutes les personnes maléfiques de type Démon ou Sbire, mais n’a pas besoin de nommer leurs rôles exacts.</li>
-  <li>Si plusieurs Démons sont en jeu, tous les Démons, même morts, doivent être devinés comme Démons.</li>
-  <li>Si un personnage compte comme Sbire et Démon à la fois (comme Légion), l’Alsaahir doit le désigner comme Démon.</li>
-  <li>Une fois qu’une annonce est faite ce jour-là, l’Alsaahir ne peut pas changer d’avis et refaire une autre annonce.</li>
-  <li>L’Alsaahir doit deviner les Sbires et les Démons, même s’ils sont actuellement bons. Il n’a pas besoin de deviner quels Voyageurs sont maléfiques.</li>
-  <li>Si l’équipe maléfique a changé au cours de la partie, l’Alsaahir doit deviner l’<strong>équipe maléfique actuelle</strong>, pas celle du début de partie.</li>
+  <li>Les annonces de l’Alsaahir doivent être <strong>publiques</strong> et faites <strong>en journée</strong>.</li>
+  <li>L’Alsaahir n’est pas obligé d’utiliser sa capacité chaque jour.</li>
+  <li>Les autres joueurs et joueuses peuvent bluffer et prétendre être l’Alsaahir en faisant aussi des annonces. La conteuse fait alors « comme si » cette personne était l’Alsaahir, un peu comme avec le Jongleur ou le Commerage.</li>
+  <li>Si l’Alsaahir devine correctement quel joueur est le Démon et quels joueurs sont les Sbires, la partie se termine immédiatement : le Bien gagne.</li>
+  <li>L’Alsaahir doit deviner <strong>tous</strong> les Démons et <strong>tous</strong> les Sbires, mais n’a pas besoin de nommer leurs rôles précis.</li>
+  <li>Si plusieurs Démons sont en jeu, l’Alsaahir doit tous les identifier, y compris les Démons morts.</li>
+  <li>Si un joueur est à la fois Sbire et Démon (comme la Légion), l’Alsaahir doit le désigner comme Démon.</li>
+  <li>Une fois qu’une annonce est faite, l’Alsaahir ne peut pas changer d’avis et refaire une autre annonce le même jour.</li>
+  <li>L’Alsaahir doit deviner les Sbires et les Démons, qu’ils soient bons ou maléfiques, mais n’a pas besoin de deviner quels Voyageurs sont maléfiques.</li>
+  <li>Si la composition de l’équipe maléfique change en cours de partie, l’Alsaahir doit deviner l’équipe maléfique <strong>actuelle</strong>, pas celle du début de la partie.</li>
 </ul>
 
 ---
@@ -71,15 +80,28 @@ S’il ou elle se trompe, la partie continue. S’il ou elle a raison, les joueu
 ## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Chaque jour, au plus une fois, si l’Alsaahir annonce qu’il souhaite utiliser sa capacité, demandez-lui publiquement :
-« Qui est le Démon ? Qui sont les Sbires ? »  
-S’il se trompe, rien ne se passe et la partie continue.  
-S’il a raison, annoncez immédiatement que le Bien gagne.
+Chaque jour, une fois au maximum, si l’Alsaahir déclare vouloir utiliser sa capacité, demandez-lui de désigner quel joueur est le Démon et quels joueurs sont des Sbires.  
+Si sa proposition est incorrecte, rien ne se passe et la partie continue.  
+Si elle est correcte, annoncez que le Bien remporte immédiatement la partie.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Règle optionnelle : comme pour le Jongleur et la Commère, vous pouvez limiter à <strong>trois</strong> par jour le nombre de joueurs qui font une annonce d’Alsaahir, si trop de bluffs ralentissent la partie et la rendent moins amusante.
+Règle optionnelle : comme pour le Jongleur et le Commerage, la conteuse peut limiter à trois le nombre de joueurs et joueuses par jour qui font une annonce d’Alsaahir. Cette option est utile si trop de bluffs d’Alsaahir ralentissent la partie.
 </p>
+
+---
+
+## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+  <li>
+    🧞 <strong>Vizir</strong> — 
+    <a href="../roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a> :  
+    La conteuse n’annonce pas que le Vizir est en jeu.
+  </li>
+
+</ul>
 
 ---
 
@@ -87,92 +109,119 @@ Règle optionnelle : comme pour le Jongleur et la Commère, vous pouvez limiter 
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
-L’<strong>Alsaahir</strong> devine quatre joueurs bons comme membres de l’équipe maléfique.  
-Il se trompe. Rien ne se passe, la partie continue.
+<strong>Exemple 1</strong>  
+L’Alsaahir désigne quatre joueurs et joueuses bons comme étant l’équipe maléfique.  
+Rien ne se passe, la partie continue.
 
 <br><br>
 
-L’<strong>Alsaahir</strong> déclare que <strong>David</strong> est le Démon, et que <strong>Bruno</strong> et <strong>Sarah</strong> sont des Sbires.  
-En réalité, David est bien le Démon, et Bruno et Sarah sont bien des Sbires.  
+<strong>Exemple 2</strong>  
+L’Alsaahir annonce que Cédric est le Démon, et que Nicolas et Vanessa sont des Sbires.  
+Cédric est bien le Démon, et Nicolas et Vanessa sont bien des Sbires.  
 Le Bien gagne immédiatement.
 
 <br><br>
 
-L’<strong>Alsaahir ivre</strong> devine que David est le Démon, et que Bruno et Sarah sont des Sbires.  
-Il a raison, mais comme il est ivre, rien ne se passe et la partie continue.  
-Le lendemain, l’<strong>Alsaahir redevenu sobre</strong> devine que Bruno est le Démon et que David et Sarah sont des Sbires.  
-Cette fois, il se trompe. Rien ne se passe et la partie continue.
+<strong>Exemple 3</strong>  
+L’Alsaahir ivre annonce que Cédric est le Démon, et que Nicolas et Vanessa sont des Sbires.  
+Cédric est réellement le Démon, Nicolas et Vanessa sont réellement des Sbires, mais comme l’Alsaahir est ivre, rien ne se passe et la partie continue.  
+
+Le lendemain, redevenu sobre, l’Alsaahir annonce que Nicolas est le Démon, et que Cédric et Vanessa sont des Sbires.  
+Rien ne se passe et la partie continue.
 </p>
 
 ---
 
-## 💡 <span style="color:#4ea3ff;">Conseils et astuces (pour l’Alsaahir)</span>
+## 🎯 <span style="color:#4ea3ff;">Conseils et astuces</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
-Faites une annonce <strong>tous les jours</strong> si possible.  
-Chaque tentative réduit les possibilités sur qui peut être Démon ou Sbire.
+<strong>Faire une annonce chaque jour</strong>  
+Essayez de faire une annonce tous les jours. Chaque tentative affine vos soupçons et réduit les possibilités pour l’équipe maléfique.
 
 <br><br>
 
-Attendez quelques jours avant votre première vraie annonce, pour cacher votre identité.  
-L’équipe maléfique voudra vous intoxiquer ou vous tuer si elle sait qui vous êtes. Plus vous restez discret, plus vous avez de chances de rester sobre et en vie.
+<strong>Attendre quelques jours avant la première annonce</strong>  
+Vous pouvez attendre plusieurs jours avant votre première annonce, pour cacher votre identité.  
+Si l’équipe maléfique comprend qui vous êtes, elle aura envie de vous empoisonner ou de vous tuer. Rester discret permet de vivre plus longtemps et de rester sobre.
 
 <br><br>
 
-Utilisez vos annonces pour <strong>éliminer des groupes suspects</strong>.  
-Par exemple, si une bibliothécaire affirme avoir confirmé un Saint, vous pouvez les désigner tous les deux comme Sbire et Démon pour tester cette hypothèse. Si rien ne se passe, cela renforce l’idée qu’ils sont bons.
+<strong>Utiliser les annonces pour écarter des groupes de joueurs</strong>  
+Servez-vous de vos annonces pour tester des duos ou des groupes inquiétants.  
+Par exemple, si un Bibliothécaire affirme confirmer un Saint, vous pouvez les désigner comme Sbire et Démon afin de prouver qu’ils ne sont pas l’équipe maléfique.
 
 <br><br>
 
-Si un Alsaahir est présent sur le script, demandez à d’autres joueurs et joueuses de <strong>bluffer</strong> ce rôle et de faire des annonces.  
-Comme pour le Jongleur et la Commère, plusieurs annonces d’Alsaahir rendent plus difficile l’identification du vrai Alsaahir par l’équipe maléfique.  
-Mais attention : trop de bluffs peuvent aussi brouiller les pistes pour l’équipe du Bien.
+<strong>Bluffer pour protéger le véritable Alsaahir</strong>  
+Si l’Alsaahir est présent sur le script, des joueurs et joueuses bons peuvent bluffer en tant qu’Alsaahir et faire des annonces, pour brouiller les pistes.  
+Comme pour le Jongleur et le Commerage, si plusieurs personnes prétendent être l’Alsaahir, l’équipe maléfique a plus de mal à trouver le vrai.  
+Mais attention : si trop de joueurs bluffent Alsaahir, le village risque de perdre de précieuses informations.
 
 <br><br>
 
-Si vous mourrez de nuit, repensez aux annonces que vous avez faites juste avant votre mort.  
-Vous avez peut-être visé trop juste et inquiété l’équipe maléfique.
+<strong>Surveiller les conséquences de vos annonces</strong>  
+Si vous mourez la nuit, réfléchissez aux annonces que vous venez de faire.  
+Vous avez peut-être inquiété l’équipe maléfique en vous rapprochant trop de la vérité.
 
 <br><br>
 
-Encouragez les personnages bons qui obtiennent de l’info à parler ouvertement.  
-Ils deviennent alors de bonnes cibles pour les Démons ou Sbires, ce qui peut vous laisser plus en sécurité pour continuer à utiliser votre capacité.
+<strong>Encourager les autres à parler</strong>  
+Invitez les autres personnages bons à révéler leurs informations, pour qu’ils deviennent des cibles à votre place.  
+Votre pouvoir devient plus fort au fil de la partie : plus vous survivez longtemps, plus vos annonces ont de valeur.
 
 <br><br>
 
-Observez attentivement les annonces des autres joueurs qui prétendent être Alsaahir.  
-Même s’ils bluffent, ils se basent souvent sur des informations ou des ressentis qui peuvent être utiles à votre propre jugement.
+<strong>Observer les annonces d’Alsaahir des autres</strong>  
+Quand d’autres joueurs prétendent être l’Alsaahir et font des annonces, écoutez-les attentivement.  
+Leurs informations ou leur intuition peuvent vous aider à affiner vos propres soupçons.
 
 <br><br>
 
-Appuyez-vous sur les personnages qui détectent le Mal (Enquêteur, Empathe, tireur de cartes, Chasseur de primes, etc.) pour affiner votre annonce.  
-Vous n’êtes pas obligé de tout faire seul : l’Alsaahir brille quand il coordonne les informations du village.
+<strong>Se servir des détecteurs du Mal</strong>  
+Cherchez les personnages qui détectent les joueurs maléfiques (comme les investigateurs, empathes, voyantes, chasseurs de primes, etc.).  
+Leurs informations peuvent grandement augmenter vos chances de deviner correctement.
 
 <br><br>
 
-Choisissez une personne dont vous êtes <strong>pratiquement certain</strong> qu’elle est maléfique, et construisez plusieurs combinaisons possibles à partir de cette base.  
-Vos annonces successives peuvent alors tester différentes équipes autour de ce pivot.
+<strong>Tester différentes combinaisons autour d’un suspect principal</strong>  
+Choisissez un joueur dont vous êtes presque certain qu’il est maléfique, puis faites des annonces qui testent différentes combinaisons autour de lui.
 
 <br><br>
 
-N’oubliez pas les joueurs et joueuses <strong>morts</strong> dans vos annonces.  
-Si vous pensez qu’un Démon s’est auto-tué ou qu’un Démon a sauté sur un Étranger, vous devrez peut-être désigner à la fois un Démon vivant et un Démon mort, plus les Sbires morts ou vivants.
+<strong>Ne pas oublier les morts</strong>  
+Pensez à inclure des joueurs morts dans vos annonces.  
+Si vous soupçonnez par exemple que l’Imp s’est tué pour passer à un autre joueur, ou qu’un Fang Gu a sauté sur un Étranger, il faudra désigner à la fois le Démon mort et le Démon vivant comme Démons, ainsi que tous les Sbires (morts ou vivants) comme Sbires.
 
 <br><br>
 
-Si vous pensez avoir été empoisonné, refaites la même annonce le lendemain.  
-Si cette fois-ci la partie se termine, vous saurez que vos soupçons d’empoisonnement étaient justifiés.
+<strong>Si vous pensez être empoisonné</strong>  
+Si vous soupçonnez un empoisonnement, refaites la même annonce le jour suivant, une fois redevenu sobre ou en bonne santé.
 
 <br><br>
 
-Cherchez d’abord à <strong>identifier l’équipe maléfique au complet</strong>.  
-Une fois que vous avez une bonne idée du groupe, variez simplement la répartition entre Sbires et Démons dans vos annonces, sans changer les joueurs ou joueuses ciblés.
+<strong>Trouver d’abord l’équipe maléfique</strong>  
+Cherchez d’abord à identifier qui pourrait être globalement dans l’équipe maléfique.  
+Une fois ce noyau supposé établi, faites différentes combinaisons Démon / Sbires avec les mêmes joueurs pour gagner grâce à votre capacité, ou pour éviter d’exécuter par erreur un Sbire « utile » pour le village.
 
 <br><br>
 
-Gardez toujours en tête la répartition habituelle des rôles selon le nombre de participants.  
-Par exemple, si vous jouez souvent à 12 mais que cette partie se fait à 13, n’oubliez pas qu’un Sbire supplémentaire peut exister.
+<strong>Tenir compte de la taille de la partie</strong>  
+Pensez à la répartition habituelle des personnages selon le nombre de joueurs et joueuses.  
+Si vous jouez parfois à 12, mais que cette partie est à 13 ou plus, n’oubliez pas qu’il peut y avoir un ou une Sbire supplémentaire à deviner.
+
+<br><br>
+
+<strong>Se méfier des compositions spéciales</strong>  
+Certains Démon(s) modifient la structure de l’équipe maléfique : P’tit Monstre, Légion, Riot, etc.  
+Ces personnages peuvent impliquer un nombre inhabituel de Sbires ou de Démons à deviner.
+
+<br><br>
+
+<strong>Se méfier des changements de Démon en cours de partie</strong>  
+L’Imp, le Fang Gu ou la Femme Écarlate peuvent transférer le rôle de Démon à un autre joueur.  
+Vos annonces devront alors évoluer en fonction des nouveaux éléments.
+
 </p>
 
 ---
@@ -181,50 +230,41 @@ Par exemple, si vous jouez souvent à 12 mais que cette partie se fait à 13, n�
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
-Il est <strong>très facile</strong> de bluffer l’Alsaahir, surtout au début de la partie.  
-Les joueurs et joueuses du Bien le font souvent eux aussi, parfois pour protéger le véritable Alsaahir.
+Il est assez facile de bluffer Alsaahir en début de partie, car beaucoup de joueurs et joueuses bons le font aussi.  
+Même si un véritable Alsaahir est en jeu, vous pouvez bluffer ce rôle tant que vous avez un autre bluff de secours pour plus tard.
 
 <br><br>
 
-Même s’il y a un vrai Alsaahir en jeu, vous pouvez bluffer ce rôle, tant que vous avez un <strong>second bluff</strong> crédible pour la fin de partie.
+Réfléchissez aux annonces que vous faites au fil des jours.  
+Si vous éliminez trop de combinaisons possibles d’équipe maléfique, vous risquez de vous retrouver en contradiction le dernier jour, surtout si vous êtes le Démon encore vivant.
 
 <br><br>
 
-Soyez prudent avec vos annonces.  
-Réfléchissez à ce que vous avez deviné les jours précédents et à ce que vous comptez annoncer ensuite.  
-Si vous excluez trop de combinaisons possibles, vous risquez d’aboutir à une contradiction le dernier jour. C’est encore plus grave si vous êtes le Démon et que vous survivez jusqu’à la fin.
+Demandez conseil à d’autres joueurs et joueuses sur qui désigner.  
+Demander l’avis des bons vous rend crédible, demander celui des maléfiques peut les faire paraître bons.
 
 <br><br>
 
-Demandez l’avis des autres sur qui désigner.  
-Poser la question à des joueurs que l’on pense bons vous aide à paraître fiable.  
-Demander l’avis de joueurs que l’on soupçonne d’être maléfiques peut aussi les mettre dans une position délicate si leur conseil se révèle mauvais.
+Évitez de désigner des personnages que tout le monde croit bons.  
+Si le village vous voit accuser sans succès quelqu’un de très fiable, il risque de penser que vous êtes maléfique, ce qui renforcera la confiance envers cette personne.
 
 <br><br>
 
-Évitez de viser des joueurs que tout le monde considère comme bons.  
-Si vous les désignez comme membres de l’équipe maléfique sans que rien ne se passe, vous risquez d’apparaître vous-même comme maléfique, ce qui renforce leur crédibilité.
+Cherchez à gagner la confiance des personnages bons qui détectent les capacités maléfiques.  
+Servez-vous de leur information pour justifier vos annonces.  
+Mais attention : cela peut se retourner contre vous s’ils finissent par vous détecter.
 
 <br><br>
 
-Profitez des personnages qui détectent le Mal et essayez de gagner leur confiance.  
-Vous pourrez alors prétendre utiliser leurs informations pour vos annonces.  
-Mais attention : si ces personnages vous détectent comme maléfique, cela peut se retourner contre vous.
-
-<br><br>
-
-Mettez-en plein la vue.  
-Faites du bruit, dramatisez vos annonces, attirez l’attention sur vous.  
-Plus les joueurs et joueuses se concentrent sur vous et vos annonces, plus ils auront tendance à vous croire Alsaahir… même si vous ne l’êtes pas.
+Attirez l’attention sur vos annonces.  
+Plus le village se concentre sur vos déclarations, plus il est probable que l’on vous prenne pour le véritable Alsaahir.  
+Mettez un peu de mise en scène dans vos annonces : c’est un excellent moyen de détourner l’attention du véritable Alsaahir.
 </p>
 
 ---
 
-<p style="text-align:left; font-size:18px; margin-top:16px;">
-  🧩 Catégorie : <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
-</p>
-
-<p style="text-align:left; font-size:18px; margin-top:10px;">
+<p style="text-align:left; font-size:18px; margin-top:20px;">
   🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a><br>
+  🔵 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a>
 </p>
