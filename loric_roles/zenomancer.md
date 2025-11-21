@@ -73,7 +73,7 @@ Le <strong>Zénomancien</strong> attribue des mini-quêtes personnelles que les 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 À tout moment, indiquez à un joueur ou une joueuse qu’il ou elle reçoit un objectif.  
 Vous pouvez l’informer en privé ou le réveiller la nuit et lui montrer un message écrit.  
-Placez le rappel <strong>GOAL</strong> du Zénomancien sur son jeton.
+Placez le jeton de rappel <strong>GOAL (Objectif)</strong> du Zénomancien sur son jeton.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
