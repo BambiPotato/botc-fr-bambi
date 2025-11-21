@@ -3,7 +3,6 @@ layout: default
 title: Zénomancien 
 ---
 
-
 <p align="left">
   <a href="/botc-fr-bambi/">
     <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
@@ -20,7 +19,7 @@ title: Zénomancien
   </a>
 </div>
 
-# 🌿 <span style="color:#7fd1ae; font-weight:bold; font-size:18px;">Zénomancien </span>
+# 🌿 <span style="color:#7fd1ae; font-weight:bold; font-size:18px;">Zénomancien</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « L’univers est un verbe, pas un nom, disent-ils. Et ce sont des tortues, des tortues jusqu’en bas.  
@@ -46,7 +45,7 @@ title: Zénomancien
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Zenomancer</strong> donne des quêtes personnelles que les joueurs et joueuses doivent accomplir pour recevoir une information fiable.
+Le <strong>Zénomancien</strong> donne des quêtes personnelles que les joueurs et joueuses doivent accomplir pour recevoir une information fiable.
 </p>
 
 ---
@@ -74,7 +73,7 @@ Le <strong>Zenomancer</strong> donne des quêtes personnelles que les joueurs et
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 À tout moment, indiquez à un joueur ou une joueuse qu’il ou elle reçoit un objectif.  
 Vous pouvez l’informer en privé ou le réveiller la nuit et lui montrer un message écrit.  
-Placez le rappel <strong>GOAL</strong> du Zenomancer sur son jeton.
+Placez le rappel <strong>GOAL</strong> du Zénomancien sur son jeton.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -87,16 +86,16 @@ Vous pouvez ajouter « <em>…sans dire ton objectif à qui que ce soit</em> » 
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
-<strong>Alexandre</strong> est la <a href="../sv_roles/pithag.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pithag</a>.  
+<strong>Alexandre</strong> est la <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pithag</a>.  
 Il reçoit l’objectif : « créer un Étranger maléfique ».  
-Il transforme la <a href="../sv_roles/sorciere.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sorcière</a> en <a href="../sv_roles/dulcinee.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a>.  
-Il apprend alors que <strong>Louis</strong> est le <a href="../sv_roles/sage.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a> ivre.
+Il transforme la <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> en <a href="../sv_roles/dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a>.  
+Il apprend alors que <strong>Louis</strong> est le <a href="../sv_roles/sage.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a> ivre.
 
 <br><br>
 
-<strong>Erwan</strong> reçoit l’objectif : « convaincre Sarah qu’elle est la Marionnette ».  
+<strong>Emilien</strong> reçoit l’objectif : « convaincre Sarah qu’elle est la Marionnette ».  
 La conteuse juge que Sarah doute suffisamment d’elle-même.  
-Erwan apprend donc qu’<strong>aucune</strong> <a href="../roles_experimentaux/marionnette.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> n’est en jeu.
+Emilien apprend donc qu’<strong>aucune</strong> <a href="../roles_experimentaux/marionnette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> n’est en jeu.
 
 De son côté, <strong>Benjamin</strong> doit « nominer et exécuter une Sbire ».  
 L’objectif échoue et Benjamin n’obtient aucune information.
@@ -106,7 +105,7 @@ L’objectif échoue et Benjamin n’obtient aucune information.
 <strong>Julien</strong> reçoit l’objectif : « voler tous les coussins du canapé sans les toucher ».  
 <strong>Amélie</strong> reçoit exactement la même mission.  
 Elle convainc <strong>Marie</strong> de retenir Julien en conversation pendant que <strong>Médhi</strong> récupère les coussins pour elle.  
-Amélie apprend alors que le Démon est un <a href="../sv_roles/fanggu.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a>.
+Amélie apprend alors que le Démon est un <a href="../sv_roles/fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a>.
 </p>
 
 ---
