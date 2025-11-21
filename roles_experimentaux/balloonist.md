@@ -115,13 +115,13 @@ Mettez à jour le rappel <strong>KNOW</strong> avant la nuit suivante.
 ## 🧩 <span style="color:#4ea3ff;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>Abdallah</strong> est le 
+<strong>Amir</strong> est le 
 <a href="../roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a>,  
 <strong>Louis</strong> est la 
 <a href="../roles_experimentaux/high_priestess.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Grande Prêtresse</a>  
 et <strong>Sarah</strong> est la 
 <a href="../roles_experimentaux/politician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Politicienne</a>.  
-La première nuit, l’Aéronaute apprend <strong>Abdallah</strong>.  
+La première nuit, l’Aéronaute apprend <strong>Amir</strong>.  
 La deuxième nuit, il apprend <strong>Louis</strong>.  
 La troisième nuit, il apprend <strong>Sarah</strong>.
 </p>
@@ -131,7 +131,7 @@ La troisième nuit, il apprend <strong>Sarah</strong>.
 <a href="../roles_experimentaux/nightwatchman.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Veilleur de Nuit</a>,  
 <strong>Alexandre</strong> est le 
 <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a>  
-et <strong>Lachlan</strong> est le 
+et <strong>Laurent</strong> est le 
 <a href="../roles_experimentaux/puzzlemaster.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maître des Puzzles</a>.  
 La première nuit, l’Aéronaute apprend <strong>Julien</strong>.  
 La deuxième nuit, l’
