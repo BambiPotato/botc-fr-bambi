@@ -476,6 +476,11 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
     <span style="display:block; color:#4caf50; font-weight:bold; font-size:18px; margin-top:6px;">Tor</span>
   </a>
 
+ <a href="loric_roles/zenomancer.html" style="text-decoration:none; width:280px; text-align:center;">
+    <img src="./images/Icon_zenomancer.png" alt="Zenomancer" style="width:280px; border-radius:12px;">
+    <span style="display:block; color:#4caf50; font-weight:bold; font-size:18px; margin-top:6px;">Zénomancien</span>
+  </a>
+
 </div>
 
 <hr style="border-color:rgba(224,185,122,0.2); margin:14px 0 10px;">
