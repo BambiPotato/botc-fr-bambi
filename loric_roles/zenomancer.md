@@ -45,7 +45,7 @@ title: Zénomancien
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Zénomancien</strong> donne des quêtes personnelles que les joueurs et joueuses doivent accomplir pour recevoir une information fiable.
+Le <strong>Zénomancien</strong> attribue des mini-quêtes personnelles que les joueurs et joueuses doivent accomplir pour recevoir une information vraie.
 </p>
 
 ---
@@ -53,11 +53,11 @@ Le <strong>Zénomancien</strong> donne des quêtes personnelles que les joueurs 
 ## ⚙️ <span style="color:#7fd1ae;">Détails</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Un ou plusieurs joueurs peuvent recevoir des objectifs privés à tout moment de la partie.</li>
-  <li>Ces objectifs peuvent être donnés au début du jeu ou plus tard, selon la décision de la conteuse.</li>
+  <li>Un ou plusieurs joueurs peuvent recevoir des objectifs de la part du Conteur.</li>
+  <li>Ces objectifs sont donnés en privé et peuvent être donnés au début de la partie ou plus tard, selon la décision du Conteur.</li>
   <li>Chaque objectif peut être totalement différent d’un joueur à l’autre.</li>
-  <li>Un objectif peut concerner le jeu ou être entièrement extérieur au jeu.</li>
-  <li>La conteuse décide seule si un objectif est accompli.</li>
+  <li>Un objectif peut être n’importe quoi : lié au jeu ou complètement extérieur au jeu.</li>
+  <li>Le Conteur décide seul si un objectif est accompli.</li>
   <li>Lorsqu’un objectif est validé, le joueur apprend une information vraie sur la partie.</li>
   <li>Cette information n’est jamais affectée par l’ivresse ou l’empoisonnement.</li>
   <li>Les objectifs peuvent ne jamais être accomplis ou se contredire entre eux.</li>
