@@ -19,6 +19,15 @@ title: Alchimiste
   </a>
 </div>
 
+<!-- APPARAÎT DANS -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../experimentaux.html" style="text-decoration:none;">
+    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
+  </a>
+</div>
+
 # ⚗️ <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Alchimiste</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
@@ -33,9 +42,6 @@ title: Alchimiste
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong> 
     <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
-  </li>
-  <li><strong>Apparaît dans :</strong> 
-    <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">🎠 The Carousel Expérimental</a>
   </li>
   <li><strong>Artiste :</strong> <em>Marianna Carr</em></li>
   <li><strong>Révélé :</strong> 7 octobre 2021</li>
@@ -64,7 +70,7 @@ L’<strong>Alchimiste</strong> possède la capacité d’un <span style="color:
   <li>Il s’enregistre comme bon et comme Alchimiste, pas comme Sbire.</li>
   <li>Contrairement aux Sbires, l’Alchimiste ne se réveille pas pour apprendre qui sont les autres Sbires ni qui est le Démon.</li>
   <li>Si la capacité de Sbire de l’Alchimiste ajoute ou retire des rôles pendant la mise en place, cela s’applique tout de même lors de la mise en place.</li>
-  <li>Si la capacité de Sbire implique de faire un choix (comme l’Empoisonneur ou le Vizir), la conteuse peut demander à l’Alchimiste de choisir différemment. Il doit alors faire un autre choix.</li>
+  <li>Si la capacité de Sbire implique de faire un choix, comme l’<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> ou le <a href="../roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a>, la conteuse peut demander à l’Alchimiste de choisir différemment. Il doit alors faire un autre choix.</li>
 </ul>
 
 ---
@@ -106,12 +112,12 @@ Les jinxes suivants concernent l’<strong>Alchimiste</strong> et modifient sa c
 
   <li>
     <img src="../images/Icon_marionette.png" alt="Marionnette" width="26" style="vertical-align:middle; border-radius:6px; margin-right:6px;">
-    <a href="../roles_experimentaux/marionette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> :  
+    <a href="../roles_experimentaux/marionnette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> :  
     Un Alchimiste-Marionnette n’a pas la capacité de la Marionnette et une Marionnette est en jeu.
   </li>
 
   <li>
-    <img src="../images/Icon_mastermind.png" alt="Conspirateur" width="26" style="vertical-align:middle; border-radius:6px; margin-right:6px;">
+    <img src="../images/Icon_mastermind.png" alt="Mastermind" width="26" style="vertical-align:middle; border-radius:6px; margin-right:6px;">
     <a href="../bmr_roles/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mastermind</a> :  
     Un Alchimiste-Mastermind n’a pas la capacité de Mastermind et aucun Mastermind n’est en jeu.
   </li>
@@ -173,7 +179,7 @@ La nuit suivante, elle empoisonne l’<a href="../roles_experimentaux/alsaahir.h
 La troisième nuit, elle tente d’empoisonner le <a href="../roles_experimentaux/lord_of_typhon.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Seigneur de Typhon</a>,  
 mais la conteuse lui demande de choisir différemment.  
 Mélanie choisit alors le <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> à la place.  
-Le Seigneur de Typhon n’est pas empoisonné.
+Le <a href="../roles_experimentaux/lord_of_typhon.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Seigneur de Typhon</a> n’est pas empoisonné.
 </p>
 
 ---
@@ -182,4 +188,4 @@ Le Seigneur de Typhon n’est pas empoisonné.
   🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
   🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a><br>
   👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a>
-</p> 
+</p>
