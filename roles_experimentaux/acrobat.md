@@ -86,7 +86,7 @@ Si le joueur choisi est ou devient ivre ou empoisonné durant la nuit, l’Acrob
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
-<strong>Le Marin</strong> choisit l’<a href="../roles_experimentaux/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>.  
+<strong>Le Marin</strong> choisit l’<a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>.  
 La conteuse rend le Marin ivre.  
 L’Acrobate choisit le Marin et meurt car celui-ci est ivre.
 
