@@ -67,7 +67,7 @@ La seule façon pour le village de gagner est d’exécuter la conteuse.
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
     🧞 <a href="../roles_experimentaux/riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> :  
-    Pendant un riot, si la conteuse est nominée, les joueurs votent.  
+    Pendant une partie avec le Riot, si la conteuse est nominée, les joueurs votent.  
     Si elle est sur le point d’être exécutée, la partie se termine immédiatement.  
     Sinon, une nouvelle nomination a lieu.
   </li>
