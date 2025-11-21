@@ -111,13 +111,13 @@ Mettez à jour le rappel <strong>KNOW</strong> avant la nuit suivante.
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
-<strong>Abdallah</strong> est le 
+<strong>Amir</strong> est le 
 <a href="../roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a>,  
 <strong>Louis</strong> est la 
 <a href="../roles_experimentaux/high_priestess.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Grande Prêtresse</a>,  
 et <strong>Sarah</strong> est la 
 <a href="../roles_experimentaux/politician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Politicienne</a>.<br>
-La première nuit, l’Aéronaute apprend <strong>Abdallah</strong>.  
+La première nuit, l’Aéronaute apprend <strong>Amir</strong>.  
 La deuxième nuit, il apprend <strong>Louis</strong>.  
 La troisième nuit, il apprend <strong>Sarah</strong>.
 </p>
@@ -131,8 +131,8 @@ La troisième nuit, il apprend <strong>Sarah</strong>.
 et <strong>Léo</strong> est le 
 <a href="../roles_experimentaux/puzzlemaster.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maître des Puzzles</a>.<br>
 La première nuit, l’Aéronaute apprend <strong>Julien</strong>.  
-La deuxième nuit, la 
-<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneuse</a> choisit l’Aéronaute.  
+La deuxième nuit, l’
+<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> choisit l’Aéronaute.  
 Comme il est empoisonné, la conteuse choisit de lui montrer un autre <span style="color:#4ea3ff; font-weight:bold;">Villageois</span> et l’Aéronaute apprend <strong>Alexandre</strong>.  
 La troisième nuit, redevenu sobre et en bonne santé, l’Aéronaute apprend <strong>Léo</strong>, qui est d’un type différent d’Alexandre.
 </p>
@@ -217,10 +217,12 @@ La troisième nuit, redevenu sobre et en bonne santé, l’Aéronaute apprend <s
 
   <li>Repérez les personnages qui produisent des informations accusatrices.  
       Par exemple, si l’
-      <a href="../tb_roles/investigateur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Investigateur</a>  
+      <a href="../tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Enquêteur</a>  
       voit le 
-      <a href="../bmr_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> 
-      comme candidate Empoisonneur, vous pouvez prétendre avoir appris le Moine puis l’Investigateur sur deux nuits consécutives,  
+      <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> 
+      comme candidate 
+      <a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>, 
+      vous pouvez prétendre avoir appris le Moine puis l’Enquêteur sur deux nuits consécutives,  
       renforçant l’idée que le Moine est en réalité un <span style="color:#d45b5b; font-weight:bold;">Sbire</span>.</li>
 
   <li>Ne révélez votre prétendu rôle qu’à quelques joueurs bons.  
