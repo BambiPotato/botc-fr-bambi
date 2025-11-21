@@ -28,7 +28,7 @@ title: Banshee
   </a>
 </div>
 
-# 👻 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Banshee</span>
+#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Banshee</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Gorm do shúile, dearg do ghruaig, ní bheidh sé i bhfad, is a mbeidh tú san uaigh. »
@@ -76,7 +76,7 @@ La <strong>Banshee</strong> devient plus puissante une fois morte, en pouvant no
     🧞
     <img src="../images/Icon_riot.png" alt="Riot" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> :  
-    Chaque nuit*, Riot choisit un joueur bon vivant, différent de la nuit précédente.  
+    Chaque nuit*, le Riot choisit un joueur bon vivant, différent de la nuit précédente.  
     Si ce joueur est la Banshee, elle meurt et gagne sa capacité.
   </li>
 
@@ -115,7 +115,7 @@ Si la Banshee est tuée par le <span style="color:#d45b5b; font-weight:bold;">D�
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Placez le rappel <strong>HAS ABILITY</strong> à côté de la Banshee.</li>
+  <li>Placez le rappel <strong>A SA CAPACITÉ</strong> à côté de la Banshee.</li>
   <li>Annoncer à haute voix quelque chose comme : « La Banshee s’est réveillée. »</li>
   <li>Rappelez à la Banshee qu’elle peut nominer deux fois par jour.  
       Il est de sa responsabilité de se souvenir si elle a déjà utilisé une ou deux nominations.</li>
@@ -173,7 +173,7 @@ La Banshee ne gagne pas ses pouvoirs supplémentaires, et rien n’est annoncé 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
   <li>Essayez de mourir tuée par le <span style="color:#d45b5b; font-weight:bold;">Démon</span>, par n’importe quel moyen qui vous convient.  
-      C’est la condition pour que votre puissance se révèle vraiment.</li>
+      C’est la condition pour que votre pouvoir se révèle vraiment.</li>
 
   <li>Vous pouvez révéler que vous êtes la Banshee tant que vous êtes en vie, surtout si vous avez des informations ou une position sociale forte.  
       L’équipe maléfique devra choisir entre vous tuer (et vous confirmer) ou vous laisser vivante jusqu’aux derniers jours, en réduisant les options de Démon.</li>
