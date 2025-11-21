@@ -52,7 +52,7 @@ title: Athée
 ## 📖 <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>« La conteuse peut enfreindre les règles du jeu, et si elle est exécutée, le Bien gagne, même si vous êtes mort. [Aucun personnage maléfique] »</strong>
+<strong>« La conteuse peut enfreindre les règles du jeu, et si elle est exécutée, le Bien gagne, même si vous êtes mort. [Aucun rôle maléfique] »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -117,6 +117,9 @@ Vous pouvez utiliser les rappels des rôles maléfiques (comme l’
 L’Athée est un rôle exigeant, conseillé aux conteuses et conteurs expérimentés :  
 vous devez bien connaître les règles, mais aussi garder un sens du fun et de l’équité.  
 Votre but est de créer une partie amusante où le village doute de tout, y compris de l’existence de l’Athée.
+L'expérience de jeu doit être divertissante pour tous les joueurs ; n'enfreignez donc les règles que pour diffuser de fausses informations (à votre guise) ou simuler les actions de rôles maléfiques qui pourraient être présents, mais qui ne le sont pas. 
+Évitez de créer des règles arbitraires ou de modifier les conditions de victoire. 
+Pour que le jeu reste agréable, les joueurs et les joueuses doivent savoir comment gagner si un athée est présent.
 </p>
 
 ---
@@ -126,18 +129,18 @@ Votre but est de créer une partie amusante où le village doute de tout, y comp
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
 Lors d’une partie, l’
-<a href="../tb_roles/investigateur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Investigateur</a>  
+<a href="../tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Enquêteur</a>  
 apprend que soit la 
-<a href="../bmr_roles/grand_mere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Grand-mère</a>,  
+<a href="../bmr_roles/grandmere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Grand-mère</a>,  
 soit la 
-<a href="../tb_roles/couturiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Couturière</a>  
+<a href="../sv_roles/couturiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Couturière</a>  
 est le <a href="../roles_experimentaux/boomdandy.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boomdandy</a>.  
 
 La <a href="../sv_roles/dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a>  
 nomine et meurt aussitôt, comme si une <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> l’avait maudite,  
 alors qu’aucune Sorcière n’est réellement en jeu.  
 
-Le <a href="../tb_roles/slayer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeur</a> utilise sa capacité sur la 
+Le <a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a> utilise sa capacité sur la 
 <a href="../bmr_roles/commere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Commère</a>, qui meurt sur-le-champ.
 </p>
 
@@ -166,7 +169,7 @@ Le Bien gagne, car ils découvrent qu’il s’agissait d’une partie avec l’
   <li>S’il y a des rôles qui peuvent vous rendre ivre (comme l’
     <a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>),  
     essayez de déterminer si vous êtes réellement l’Athée ou un Ivrogne qui croit l’être.  
-    Si vous êtes l’Ivrogne, alors il y a bel et bien des personnages maléfiques,  
+    Si vous êtes l’Ivrogne, alors il y a bel et bien des rôels maléfiques,  
     et exécuter la conteuse ferait gagner le Mal.
   </li>
   <li>N’ayez pas peur de mourir : beaucoup de groupes voudront vous exécuter pour vérifier si vous êtes vraiment bon.  
@@ -175,9 +178,9 @@ Le Bien gagne, car ils découvrent qu’il s’agissait d’une partie avec l’
       laissez le village exécuter ces personnes.  
       Une fois ces pistes épuisées, il sera plus facile de convaincre que le véritable « ennemi » est la conteuse.</li>
   <li>Si, au contraire, les informations semblent contradictoires (par exemple, une personne apprend qu’une 
-    <a href="../roles_experimentaux/jumaux_malveillants.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumelle Malveillante</a> 
+    <a href="../roles_experimentaux/jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumeau Maléfique</a> 
     est en jeu et une autre apprend qu’une 
-    <a href="../tb_roles/femme_ecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme Écarlate</a> 
+    <a href="../tb_roles/femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme Écarlate</a> 
     est présente dans une partie avec un seul Sbire),  
     mettez en avant ces incohérences pour montrer que la conteuse brise les règles.
   </li>
@@ -194,21 +197,21 @@ Le Bien gagne, car ils découvrent qu’il s’agissait d’une partie avec l’
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Si vous êtes un <span style="color:#d45b5b; font-weight:bold;">Sbire</span>, vous pouvez sans crainte bluffer Athée :  
-      s’il y avait réellement un Athée, il n’y aurait aucun personnage maléfique, donc votre simple existence prouve que l’Athée n’est pas en jeu.</li>
+      s’il y avait réellement un Athée, il n’y aurait aucun rôle maléfique, donc votre simple existence prouve que l’Athée n’est pas en jeu.</li>
   <li>Si vous êtes un <span style="color:#d45b5b; font-weight:bold;">Démon</span>, vous pouvez aussi bluffer Athée même si la conteuse ne vous l’a pas proposé comme bluff.  
       Là encore, votre alignement maléfique suffit à prouver qu’il n’y a pas d’Athée.</li>
   <li>Attendez-vous à être exécuté à un moment ou un autre.  
       Un joueur qui prétend être Athée survit rarement jusqu’au dernier jour,  
       ce bluff convient donc bien à des rôles dont la capacité est déjà utilisée, comme le 
-      <a href="../roles_experimentaux/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a>  
+      <a href="../tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a>  
       ou le <a href="../roles_experimentaux/mezepheles.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mezepheles</a>.
   </li>
   <li>Une stratégie consiste à convaincre le village que vous êtes vraiment l’Athée.  
       Les Athées sont souvent très sûrs d’eux, bruyants et insistants sur ce qu’il faut faire pour gagner.  
       Utilisez aussi les informations des rôles bons pour semer la confusion, par exemple en jouant sur ce que disent un 
-      <a href="../tb_roles/empathe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a> 
+      <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a> 
       ou une 
-      <a href="../tb_roles/devin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Devin</a>.
+      <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>.
   </li>
   <li>Une autre stratégie est de marteler que les informations ne tiennent pas debout :  
       trop de joueurs semblent suspects, ou des capacités incompatibles semblent coexister.  
