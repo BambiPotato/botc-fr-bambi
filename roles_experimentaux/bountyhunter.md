@@ -104,16 +104,16 @@ Chaque fois que ce joueur meurt, il apprend un autre joueur maléfique la nuit s
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Lors de la mise en place, choisissez un <span style="color:#4ea3ff; font-weight:bold;">Villageois</span> et retournez son jeton face cachée pour indiquer qu’il est maléfique.  
-Marquez ensuite un joueur maléfique avec le rappel <strong>KNOW</strong>.
+Marquez ensuite un joueur maléfique avec le jeton de rappel <strong>SAIT</strong>.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-La première nuit, réveillez le Chasseur de Primes et pointez le joueur marqué <strong>KNOW</strong>.  
+La première nuit, réveillez le Chasseur de Primes et pointez le joueur marqué <strong>SAIT</strong>.  
 Rendormez ensuite le Chasseur de Primes.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Chaque fois que le joueur marqué <strong>KNOW</strong> meurt, marquez un nouveau joueur maléfique avec <strong>KNOW</strong>.  
+Chaque fois que le joueur marqué <strong>SAIT</strong> meurt, marquez un nouveau joueur maléfique avec le jeton de rappel<strong>SAIT</strong>.  
 Cette nuit-là, réveillez le Chasseur de Primes, montrez-lui ce nouveau joueur, puis rendormez-le.
 </p>
 
@@ -123,35 +123,35 @@ Cette nuit-là, réveillez le Chasseur de Primes, montrez-lui ce nouveau joueur,
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
-<strong>Alex</strong> est le Chasseur de Primes, <strong>Ben</strong> est l’
+<strong>Alex</strong> est le Chasseur de Primes, <strong>Benoit</strong> est l’
 <a href="../roles_experimentaux/harpy.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Harpie</a>,  
-et <strong>Abdallah</strong> est la 
-<a href="../bmr_roles/dame_de_the.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dame de thé</a>.<br>
-Lors de la mise en place, la conteuse décide qu’Abdallah sera une Dame de thé maléfique.  
-La première nuit, Alex apprend que <strong>Ben</strong> est maléfique.  
-Au jour 3, Ben est exécuté.  
-Cette nuit-là, Alex apprend qu’<strong>Abdallah</strong> est maléfique.
+et <strong>Sébastien</strong> est la 
+<a href="../bmr_roles/damedethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dame de thé</a>.<br>
+Lors de la mise en place, la conteuse décide que Sébastien sera une Dame de thé maléfique.  
+La première nuit, Alex apprend que <strong>Benoit</strong> est maléfique.  
+Au jour 3, Benoit est exécuté.  
+Cette nuit-là, Alex apprend que <strong>Sébastien</strong> est maléfique.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
-La première nuit, le Chasseur de Primes apprend <strong>Julien</strong>, qui est un 
-<a href="../roles_experimentaux/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> maléfique.  
+La première nuit, le Chasseur de Primes apprend <strong>Julien</strong>, qui est le
+<a href="../tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> maléfique.  
 Quand Julien meurt, l’
 <a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> cible le Chasseur de Primes.  
-Cette nuit-là, le Chasseur de Primes apprend <strong>Évin</strong>, qui est en fait un 
+Cette nuit-là, le Chasseur de Primes apprend <strong>Emilien</strong>, qui est en fait le 
 <a href="../roles_experimentaux/magician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Magicien</a> bon.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
-<strong>Lachlan</strong> est l’
+<strong>Lilian</strong> est l’
 <a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> qui croit être le Chasseur de Primes.  
 Aucun Villageois maléfique n’a été ajouté à la mise en place, car le Chasseur de Primes n’est pas réellement en jeu.  
-La première nuit, Lachlan apprend <strong>Marianna</strong>, qui est une 
-<a href="../tb_roles/empathe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a> bonne.  
-Quand Marianna meurt, Lachlan apprend <strong>Doug</strong>, qui est la 
-<a href="../sv_roles/fille_aux_fleurs.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fille aux fleurs</a> bonne.
+La première nuit, Lilian apprend <strong>Marie</strong>, qui est l'
+<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a> bonne.  
+Quand Marie meurt, Lilian apprend <strong>Davis</strong>, qui est la 
+<a href="../sv_roles/fleuriste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a> bonne.
 </p>
 
 ---
@@ -191,7 +191,7 @@ Quand Marianna meurt, Lachlan apprend <strong>Doug</strong>, qui est la
 
   <li>Surveillez bien quels rôles maléfiques sont sur le script.  
       Vous ne voulez pas mener tout le village à exécuter un 
-      <a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Gobelin</a> 
+      <a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Goblin</a> 
       ou un 
       <a href="../roles_experimentaux/boomdandy.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boomdandy</a> 
       et offrir la victoire au Mal par erreur.</li>
