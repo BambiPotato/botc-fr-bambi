@@ -101,7 +101,7 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
     <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Banshee</span>
   </a>
 
-  <a href="roles_experimentaux/bounty_hunter.html" style="text-decoration:none; width:280px; text-align:center;">
+  <a href="roles_experimentaux/bountyhunter.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_bountyhunter.png" alt="Chasseur de primes" style="width:280px; border-radius:12px;">
     <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Chasseur de primes</span>
   </a>
