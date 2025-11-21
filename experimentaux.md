@@ -14,54 +14,54 @@ title: EXPERIMENTAUX
   <a href="./experimentaux.html" style="text-decoration:none;">
     <img src="./images/carousel.png" alt="The Carousel Expérimental" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:22px;">🎠 The Carousel Expérimental</span>
+    <span style="color:#d4a76a; font-weight:bold; font-size:22px;">🎠 The Carousel Expérimental</span>
   </a>
 </div>
 
 <!-- Titre principal -->
-<h1 style="color:#e0b97a; font-weight:800; font-size:42px; text-align:left; margin:10px 0 4px;">
+<h1 style="color:#d4a76a; font-weight:800; font-size:42px; text-align:left; margin:10px 0 4px;">
   🎠 The Carousel Expérimental
 </h1>
 
 <!-- INTRO -->
-<p style="text-align:left; color:#e0c99d; font-style:italic; font-size:18px; margin-top:6px; line-height:1.7;">
+<p style="text-align:left; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:6px; line-height:1.7;">
   « 🎠 <strong>Les rôles expérimentaux du <em>Carousel</em></strong> ouvrent la porte à de nouvelles mécaniques audacieuses et inédites.
 Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent les limites de <em>Blood on the Clocktower</em> et invitent à explorer des expériences de jeu aussi surprenantes que captivantes. »
 </p>
 
 <!-- 1. SYNOPSIS -->
-<h2 id="1-synopsis" style="color:#e0b97a; font-weight:800; font-size:22px; text-align:left; margin-top:18px;">1. Synopsis</h2>
-<h3 style="color:#e0b97a; font-weight:800; font-size:20px; text-align:left; margin:6px 0 10px;">The Carousel Expérimental</h3>
-<ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:22px;">
+<h2 id="1-synopsis" style="color:#f5f5f5; font-weight:800; font-size:22px; text-align:left; margin-top:18px;">1. Synopsis</h2>
+<h3 style="color:#f5f5f5; font-weight:800; font-size:20px; text-align:left; margin:6px 0 10px;">The Carousel Expérimental</h3>
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:22px;">
   <li>Les rôles expérimentaux sont des rôles qui <strong>n’ont pas encore de script officiel attitré</strong>.</li>
   <li>Ils pourraient, à l’avenir, être intégrés dans des extensions officielles de <em>Blood on the Clocktower</em>.</li>
   <li>En attendant, vous êtes encouragés à <strong>les tester et les expérimenter</strong> dans vos propres scripts personnalisés.</li>
 </ul>
 
 <!-- 2. GAMEPLAY -->
-<h2 id="2-gameplay" style="color:#e0b97a; font-weight:800; font-size:22px; text-align:left; margin-top:18px;">2. Gameplay</h2>
+<h2 id="2-gameplay" style="color:#f5f5f5; font-weight:800; font-size:22px; text-align:left; margin-top:18px;">2. Gameplay</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  👉 <span style="color:#e0b97a; font-weight:bold;">Niveau : Expérimenté</span><br>
+  👉 <span style="color:#f5f5f5; font-weight:bold;">Niveau : Expérimenté</span><br>
   🎠 Les rôles expérimentaux du <em>Carousel</em> sont recommandés aux joueuses, joueurs et Conteurs ayant déjà une bonne expérience du jeu <em>Blood on the Clocktower</em>.
 </p>
 
 <!-- SOMMAIRE NUMÉROTÉ -->
-<h2 style="color:#e0b97a; font-weight:800; font-size:22px; text-align:left; margin-top:18px;">📑 Sommaire</h2>
-<ol style="color:#e0c99d; font-size:18px; line-height:1.7; padding-left:20px; margin-top:6px;">
-  <li><a href="#1-synopsis" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Synopsis</a></li>
-  <li><a href="#2-gameplay" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gameplay</a></li>
-  <li><a href="#3-villageois" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a></li>
-  <li><a href="#4-etrangers" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a></li>
-  <li><a href="#5-sbires" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sbires</a></li>
-  <li><a href="#6-demons" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Démons</a></li>
-  <li><a href="#7-legendaires" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Légendaires</a></li>
-  <li><a href="#8-lorics" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lorics</a></li>
-  <li><a href="#9-voyageurs" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyageurs</a></li>
+<h2 style="color:#f5f5f5; font-weight:800; font-size:22px; text-align:left; margin-top:18px;">📑 Sommaire</h2>
+<ol style="color:#f5f5f5; font-size:18px; line-height:1.7; padding-left:20px; margin-top:6px;">
+  <li><a href="#1-synopsis" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Synopsis</a></li>
+  <li><a href="#2-gameplay" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Gameplay</a></li>
+  <li><a href="#3-villageois" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Villageois</a></li>
+  <li><a href="#4-etrangers" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Étrangers</a></li>
+  <li><a href="#5-sbires" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Sbires</a></li>
+  <li><a href="#6-demons" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Démons</a></li>
+  <li><a href="#7-legendaires" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Légendaires</a></li>
+  <li><a href="#8-lorics" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Lorics</a></li>
+  <li><a href="#9-voyageurs" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Voyageurs</a></li>
 </ol>
 
 <hr style="border-color:rgba(224,185,122,0.3); margin:14px 0 10px;">
 
-<!-- 3. VILLAGEOIS -->
+<!--  VILLAGEOIS -->
 <h2 id="3-villageois" style="color:#4ea3ff; font-weight:800; font-size:22px; text-align:left;">3. Villageois</h2>
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
@@ -220,7 +220,7 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
 
 <hr style="border-color:rgba(224,185,122,0.2); margin:14px 0 10px;">
 
-<!-- 4. ÉTRANGERS -->
+<!--  ÉTRANGERS -->
 <h2 id="4-etrangers" style="color:#4ea3ff; font-weight:800; font-size:22px; text-align:left;">4. Étrangers</h2>
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
@@ -284,7 +284,7 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
 
 <hr style="border-color:rgba(224,185,122,0.2); margin:14px 0 10px;">
 
-<!-- 5. SBIRES -->
+<!--  SBIRES -->
 <h2 id="5-sbires" style="color:#d45b5b; font-weight:800; font-size:22px; text-align:left;">5. Sbires</h2>
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
@@ -368,7 +368,7 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
 
 <hr style="border-color:rgba(224,185,122,0.2); margin:14px 0 10px;">
 
-<!-- 6. DÉMONS -->
+<!-- DÉMONS -->
 <h2 id="6-demons" style="color:#d45b5b; font-weight:800; font-size:22px; text-align:left;">6. Démons</h2>
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
@@ -427,7 +427,7 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
 
 <hr style="border-color:rgba(224,185,122,0.2); margin:14px 0 10px;">
 
-<!-- 7. LÉGENDAIRES -->
+<!--  LÉGENDAIRES -->
 <h2 id="7-legendaires" style="color:#e0b97a; font-weight:800; font-size:22px; text-align:left;">7. Légendaires</h2>
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
@@ -446,7 +446,7 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
 
 <hr style="border-color:rgba(224,185,122,0.2); margin:14px 0 10px;">
 
-<!-- 8. LORICS -->
+<!-- LORICS -->
 <h2 id="8-lorics" style="color:#4caf50; font-weight:800; font-size:22px; text-align:left;">8. Lorics</h2>
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
@@ -510,9 +510,9 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
 <hr style="border-color:rgba(224,185,122,0.3); margin:16px 0 12px;">
 
 <!-- Liens bas de page -->
-<ul style="color:#e0c99d; font-size:18px; line-height:1.7; text-align:left; margin-top:6px;">
-  <li>🏠 <a href="./index.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
-  <li>🍺 <a href="./trouble_brewing.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌛 <a href="./bmr.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>💐 <a href="./sv.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a></li>
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; text-align:left; margin-top:6px;">
+  <li>🏠 <a href="./index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
+  <li>🍺 <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li>🌛 <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
+  <li>💐 <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a></li>
 </ul>
