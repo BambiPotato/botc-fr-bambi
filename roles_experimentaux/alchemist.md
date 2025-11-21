@@ -90,7 +90,7 @@ si c’est de jour, dites-le simplement ; si c’est de nuit, secouez la tête, 
 
 ---
 
-## 🔗 <span style="color:#4ea3ff;">Jinxes liés</span>
+## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Les jinxes suivants concernent l’<strong>Alchimiste</strong> et modifient sa capacité lorsqu’il interagit avec certains Sbires.
