@@ -87,7 +87,7 @@ L’<strong>Alsaahir</strong> doit deviner toute l’équipe maléfique en une s
 ## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>🧞 <a href="../roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a> : la conteuse n’annonce pas que le Vizir est en jeu.</li>
+  <li>🧞 <a href="../roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a> : La conteuse n’annonce pas que le Vizir est en jeu.</li>
 </ul>
 
 ---
@@ -148,7 +148,7 @@ Rien ne se passe non plus et la partie continue.
   <li>S’il y a un Alsaahir sur le script, les joueurs bons peuvent bluffer Alsaahir et faire des annonces pour vous protéger. Comme pour le 
     <a href="../sv_roles/jongleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Jongleur</a> 
     et la 
-    <a href="../sv_roles/commere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Commère</a>, 
+    <a href="../bmr_roles/commere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Commère</a>, 
     si plusieurs joueurs annoncent publiquement être l’Alsaahir, l’équipe maléfique aura plus de mal à identifier le vrai. Mais attention à ne pas noyer des informations utiles sous trop d’annonces.
   </li>
   <li>Si vous mourrez la nuit, regardez bien les annonces que vous avez faites juste avant. Vous avez peut-être fait peur à l’équipe maléfique en vous approchant trop de la vérité.</li>
