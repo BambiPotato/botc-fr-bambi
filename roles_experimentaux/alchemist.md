@@ -59,42 +59,6 @@ title: Alchimiste
 L’<strong>Alchimiste</strong> possède la capacité d’un <span style="color:#d45b5b; font-weight:bold;">Sbire</span>, tout en restant un <span style="color:#4ea3ff; font-weight:bold;">Villageois</span> qui joue pour le Bien.
 </p>
 
----
-
-## ⚙️ <span style="color:#4ea3ff;">Détails</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>La capacité de l’Alchimiste est généralement celle d’un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> qui n’est pas en jeu, mais elle peut aussi copier un Sbire en jeu.</li>
-  <li>L’Alchimiste apprend de quel Sbire il a la capacité lors de la première nuit.</li>
-  <li>Il reste un <span style="color:#4ea3ff; font-weight:bold;">Villageois</span> bon : il gagne avec le Bien et perd avec le Mal.</li>
-  <li>Il s’enregistre comme bon et comme Alchimiste, pas comme Sbire.</li>
-  <li>Contrairement aux Sbires, l’Alchimiste ne se réveille pas pour apprendre qui sont les autres Sbires ni qui est le Démon.</li>
-  <li>Si la capacité de Sbire de l’Alchimiste ajoute ou retire des rôles pendant la mise en place, cela s’applique tout de même lors de la mise en place.</li>
-  <li>Si la capacité de Sbire implique de faire un choix, comme l’<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> ou le <a href="../roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a>, la conteuse peut demander à l’Alchimiste de choisir différemment. Il doit alors faire un autre choix.</li>
-</ul>
-
----
-
-## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Lors de la première nuit, réveillez l’Alchimiste.  
-Montrez-lui d’abord le jeton <strong>YOU ARE</strong>, puis le jeton du <span style="color:#d45b5b; font-weight:bold;">Sbire</span> dont il aura la capacité.  
-Rendormez ensuite l’Alchimiste.
-</p>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Si l’Alchimiste a la capacité d’un Sbire qui n’est pas en jeu, marquez l’Alchimiste avec le rappel <strong>EST L’ALCHIMISTE</strong>, puis échangez le jeton de l’Alchimiste avec celui de ce Sbire et retournez-le.  
-Cela montre qu’il a cette capacité de Sbire tout en restant bon.
-</p>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-L’Alchimiste se réveille aux mêmes moments qu’un Sbire avec cette capacité et agit comme lui.  
-Si l’Alchimiste fait un choix avec sa capacité, vous pouvez lui demander de choisir autrement :  
-si c’est de jour, dites-le simplement ; si c’est de nuit, secouez la tête, montrez le texte de l’Alchimiste sur la fiche de rôle, et attendez qu’il fasse un nouveau choix.
-</p>
-
----
 
 ## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
 
@@ -162,7 +126,41 @@ Les jinxes suivants concernent l’<strong>Alchimiste</strong> et modifient sa c
 
 </ul>
 
+## ⚙️ <span style="color:#4ea3ff;">Détails</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>La capacité de l’Alchimiste est généralement celle d’un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> qui n’est pas en jeu, mais elle peut aussi copier un Sbire en jeu.</li>
+  <li>L’Alchimiste apprend de quel Sbire il a la capacité lors de la première nuit.</li>
+  <li>Il reste un <span style="color:#4ea3ff; font-weight:bold;">Villageois</span> bon : il gagne avec le Bien et perd avec le Mal.</li>
+  <li>Il s’enregistre comme bon et comme Alchimiste, pas comme Sbire.</li>
+  <li>Contrairement aux Sbires, l’Alchimiste ne se réveille pas pour apprendre qui sont les autres Sbires ni qui est le Démon.</li>
+  <li>Si la capacité de Sbire de l’Alchimiste ajoute ou retire des rôles pendant la mise en place, cela s’applique tout de même lors de la mise en place.</li>
+  <li>Si la capacité de Sbire implique de faire un choix, comme l’<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> ou le <a href="../roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a>, la conteuse peut demander à l’Alchimiste de choisir différemment. Il doit alors faire un autre choix.</li>
+</ul>
+
 ---
+
+## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+Lors de la première nuit, réveillez l’Alchimiste.  
+Montrez-lui d’abord le jeton <strong>YOU ARE</strong>, puis le jeton du <span style="color:#d45b5b; font-weight:bold;">Sbire</span> dont il aura la capacité.  
+Rendormez ensuite l’Alchimiste.
+</p>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+Si l’Alchimiste a la capacité d’un Sbire qui n’est pas en jeu, marquez l’Alchimiste avec le rappel <strong>EST L’ALCHIMISTE</strong>, puis échangez le jeton de l’Alchimiste avec celui de ce Sbire et retournez-le.  
+Cela montre qu’il a cette capacité de Sbire tout en restant bon.
+</p>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+L’Alchimiste se réveille aux mêmes moments qu’un Sbire avec cette capacité et agit comme lui.  
+Si l’Alchimiste fait un choix avec sa capacité, vous pouvez lui demander de choisir autrement :  
+si c’est de jour, dites-le simplement ; si c’est de nuit, secouez la tête, montrez le texte de l’Alchimiste sur la fiche de rôle, et attendez qu’il fasse un nouveau choix.
+</p>
+
+---
+
 
 ## 🧩 <span style="color:#4ea3ff;">Exemples</span>
 
