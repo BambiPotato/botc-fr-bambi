@@ -40,7 +40,9 @@ title: Acrobate
 ## 🧾 <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li><strong>Type :</strong> <span style="color:#4ea3ff; font-weight:bold;">Villageois</span></li>
+<li><strong>Type :</strong> 
+    <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
+  </li>
   <li><strong>Artiste :</strong> <em>Chloe McDougall</em></li>
   <li><strong>Révélé :</strong> 24 mai 2020</li>
 </ul>
