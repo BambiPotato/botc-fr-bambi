@@ -60,6 +60,15 @@ L’<strong>Alsaahir</strong> doit deviner toute l’équipe maléfique en une s
 
 ---
 
+
+## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>🧞 <a href="../roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a> : La conteuse n’annonce pas que le Vizir est en jeu.</li>
+</ul>
+
+---
+
 ## ⚙️ <span style="color:#4ea3ff;">Détails</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
@@ -80,14 +89,6 @@ L’<strong>Alsaahir</strong> doit deviner toute l’équipe maléfique en une s
   <li>Une fois une annonce faite, l’Alsaahir ne peut pas changer d’avis plus tard dans la journée pour faire une nouvelle annonce.</li>
   <li>L’Alsaahir doit deviner les Sbires et les Démons, même s’ils sont bons, mais n’a pas besoin de deviner quels Voyageurs sont maléfiques.</li>
   <li>Si l’équipe maléfique a changé au cours de la partie, l’Alsaahir doit deviner l’équipe maléfique <strong>actuelle</strong>, pas l’équipe de départ.</li>
-</ul>
-
----
-
-## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>🧞 <a href="../roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a> : La conteuse n’annonce pas que le Vizir est en jeu.</li>
 </ul>
 
 ---
