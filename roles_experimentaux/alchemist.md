@@ -54,6 +54,43 @@ L’<strong>Alchimiste</strong> est un Villageois qui possède la capacité d’
 </p>
 
 ---
+<!-- JINXES -->
+<h2 style="color:#4ea3ff; font-weight:bold; font-size:22px;">🧞 Jinxes associés</h2>
+
+<div style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px;">
+
+  <p><img src="../images/Icon_boffin.png" width="40"> <strong>Boffin :</strong>  
+  L’Alchimiste-Boffin n’apprend pas la capacité du Démon.</p>
+
+  <p><img src="../images/Icon_marionette.png" width="40"> <strong>Marionnette :</strong>  
+  L’Alchimiste-Marionnette n’a pas la capacité de Marionnette et une Marionnette est en jeu.</p>
+
+  <p><img src="../images/Icon_mastermind.png" width="40"> <strong>Mastermind :</strong>  
+  L’Alchimiste-Mastermind n’a pas la capacité de Mastermind et aucun Mastermind n’est en jeu.</p>
+
+  <p><img src="../images/Icon_organgrinder.png" width="40"> <strong>Orgue de Barbarie :</strong>  
+  Si l’Alchimiste a cette capacité, un Orgue de Barbarie est en jeu.  
+  Si les deux sont sobres, ils deviennent tous deux ivres.</p>
+
+  <p><img src="../images/Icon_spy.png" width="40"> <strong>Espion :</strong>  
+  Un Alchimiste-Espion n’a pas la capacité d’Espion et un véritable Espion est en jeu.  
+  Après chaque exécution, l’Alchimiste-Espion vivant peut deviner publiquement qui est l’Espion.</p>
+
+  <p><img src="../images/Icon_summoner.png" width="40"> <strong>Invocateur :</strong>  
+  L’Alchimiste-Invocateur ne reçoit pas de bluffs.  
+  Il choisit le Démon mais pas quel joueur.  
+  S’il meurt avant que ce choix ait lieu, le mal gagne.</p>
+
+  <p><img src="../images/Icon_widow.png" width="40"> <strong>Veuve :</strong>  
+  Un Alchimiste-Veuve n’a pas la capacité de Veuve et une Veuve est en jeu.  
+  Après une exécution, il peut deviner publiquement la Veuve.</p>
+
+  <p><img src="../images/Icon_wraith.png" width="40"> <strong>Spectre :</strong>  
+  Un Alchimiste-Spectre n’a pas la capacité de Spectre et un Spectre est en jeu.  
+  S’il devine correctement, le Démon doit choisir le Spectre cette nuit.</p>
+</div>
+
+<hr>
 
 ## ⚙️ <span style="color:#4ea3ff;">Détails</span>
 
@@ -104,7 +141,7 @@ Lors de la mise en place, il y a donc deux Étrangers supplémentaires en jeu, c
 <br><br>
 
 <strong>Élise</strong> est l’Alchimiste et reçoit une capacité d’Empoisonneur.  
-La première nuit, elle empoisonne le <a href="../roles_experimentaux/wizard.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mage</a>.  
+La première nuit, elle empoisonne le <a href="../roles_experimentaux/wizard.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Wizard</a>.  
 La nuit suivante, elle empoisonne l’<a href="../roles_experimentaux/alsaahir.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Alsaahir</a>.
 
 <br><br>
