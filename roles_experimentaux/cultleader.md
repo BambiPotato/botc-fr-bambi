@@ -199,7 +199,7 @@ il ne devient pas maléfique à cause de ses voisins.
       peut démolir les plans du Bien et offrir une victoire facile au Mal.</li>
 
   <li>Vous pouvez ignorer votre condition de victoire et jouer comme un  
-      <a href="../tb_roles/empathe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a> de fortune :  
+      <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a> de fortune :  
       gardez une trace des nuits où vous étiez maléfique ou bon,  
       surtout lorsque vos voisins meurent.  
       Vous obtiendrez ainsi un tableau global des rôles probablement bons ou maléfiques autour de vous.</li>
@@ -210,7 +210,7 @@ il ne devient pas maléfique à cause de ses voisins.
       si vous êtes maléfique ce jour-là.</li>
 
   <li>En fin de partie, si le village hésite sur l’identité du <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
-      vous pouvez proposer votre culte comme « plan B ».  
+      vous pouvez proposer votre secte comme « plan B ».  
       Si les chances de trouver le Démon sont pires que 50/50,  
       une tentative de culte peut offrir de meilleures probabilités de victoire au Bien…  
       même si vous êtes maléfique.</li>
