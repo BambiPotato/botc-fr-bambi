@@ -28,7 +28,7 @@ title: Ingénieur
   </a>
 </div>
 
-# 🛠️ <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Ingénieur</span>
+# ⚙️ <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Ingénieur</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Si ça plie, parfait. Si ça casse… c’est que ça devait être réparé. »
