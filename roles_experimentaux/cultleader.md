@@ -56,7 +56,7 @@ title: Chef de Secte
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Le <strong>Chef de Secte</strong> change d’alignement au fil des nuits, en fonction de ses voisins vivants.  
-Son équipe gagne si tous les joueurs bons acceptent de rejoindre son culte lors d’un vote public.
+Son équipe gagne si tous les joueurs bons acceptent de rejoindre sa secte lors d’un vote public.
 </p>
 
 ---
@@ -89,13 +89,13 @@ Son équipe gagne si tous les joueurs bons acceptent de rejoindre son culte lors
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>À la fin de chaque nuit, le Chef de Secte prend l’alignement d’un de ses voisins vivants.</li>
-  <li>Une fois par jour, le Chef de Secte peut déclarer publiquement qu’il veut former un culte.  
-      Si tous les joueurs bons votent pour rejoindre le culte, la partie se termine immédiatement  
+  <li>Une fois par jour, le Chef de Secte peut déclarer publiquement qu’il veut former une secte.  
+      Si tous les joueurs bons votent pour rejoindre la secte, la partie se termine immédiatement  
       et l’équipe du Chef de Secte gagne.</li>
   <li>Le Chef de Secte peut tenter de former une secte à n’importe quel moment de la journée.</li>
-  <li>Voter pour rejoindre un culte ne nécessite pas de jeton de vote.</li>
+  <li>Voter pour rejoindre une secte ne nécessite pas de jeton de vote.</li>
   <li>Les joueurs peuvent dire ce qu’ils veulent à tout moment :  
-      un joueur qui bluffe <strong>Chef de Secte</strong> peut aussi déclarer former un culte, même si rien ne se passe vraiment.</li>
+      un joueur qui bluffe <strong>Chef de Secte</strong> peut aussi déclarer former une secte, même si rien ne se passe vraiment.</li>
 </ul>
 
 ---
@@ -117,7 +117,7 @@ Si son alignement ne change pas, ne le réveillez pas.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Dans la journée, si le Chef de Secte déclare qu’il veut utiliser sa capacité de culte,  
+Dans la journée, si le Chef de Secte déclare qu’il veut utiliser sa capacité de secte,  
 entrez dans le cercle comme pour un Exil et organisez un vote :  
 si tous les joueurs bons lèvent la main, annoncez immédiatement quelle équipe a gagné.  
 Sinon, rien ne se passe.
@@ -134,7 +134,7 @@ Ses voisins vivants sont le
 <a href="../sv_roles/crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur</a> bon  
 et le 
 <a href="../roles_experimentaux/gobelin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Goblin</a> maléfique.  
-Julien demande à former un culte, et tous les joueurs bons votent pour rejoindre le culte.  
+Julien demande à former une secte, et tous les joueurs bons votent pour rejoindre la secte.  
 La partie se termine et le Bien gagne avec le Chef de Secte.
 </p>
 
@@ -142,8 +142,8 @@ La partie se termine et le Bien gagne avec le Chef de Secte.
 
 Le Chef de Secte <strong>Claire</strong> est voisine du 
 <a href="../sv_roles/no_dashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a>.  
-Jour 2, Claire tente de former un culte.  
-Tous les joueurs votent pour rejoindre le culte, mais aucun culte n’est formé,  
+Jour 2, Claire tente de former une secte.  
+Tous les joueurs votent pour rejoindre la secte, mais aucune secte n’est formée,  
 car Claire est empoisonnée par le No Dashii.
 </p>
 
@@ -169,7 +169,7 @@ il ne devient pas maléfique à cause de ses voisins.
 
   <li>Révélez-vous tôt comme Chef de Secte : en début de partie, vos chances d’être bon sont élevées.  
       Même si vous pouvez être maléfique dès la première nuit, c’est peu probable,  
-      mais le village sera souvent prudent avant de viser une victoire de culte dès le jour 1.</li>
+      mais le village sera souvent prudent avant de viser une victoire de secte dès le jour 1.</li>
 
   <li>Vous pouvez aussi attendre la fin de partie pour vous révéler.  
       Vous aurez plus d’informations à partager, mais les joueurs auront davantage tendance à se méfier :  
@@ -177,7 +177,7 @@ il ne devient pas maléfique à cause de ses voisins.
 
   <li>Se révéler Chef de Secte alors que vous êtes maléfique (sans l’annoncer)  
       peut être une bonne stratégie : l’équipe maléfique aura intérêt à soutenir vos exécutions  
-      et vos tentatives de culte.</li>
+      et vos tentatives de secte.</li>
 
   <li>Demandez à des rôles de détection de vérifier vos voisins.  
       Par exemple, la 
@@ -192,7 +192,7 @@ il ne devient pas maléfique à cause de ses voisins.
       ou le 
       <a href="../roles_experimentaux/noble.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Noble</a>.  
       Plus vous êtes placé entre des rôles confirmés bons, plus le village aura envie  
-      de vous croire bon pour tenter une victoire de culte.</li>
+      de vous croire bon pour tenter une victoire de secte.</li>
 
   <li>Ne reconnaissez pas être maléfique tant que vous avez une chance de redevenir bon.  
       Si c’est le dernier jour, en revanche, révéler que vous étiez maléfique  
@@ -204,7 +204,7 @@ il ne devient pas maléfique à cause de ses voisins.
       surtout lorsque vos voisins meurent.  
       Vous obtiendrez ainsi un tableau global des rôles probablement bons ou maléfiques autour de vous.</li>
 
-  <li>Utilisez souvent votre capacité de culte, ne serait-ce que pour observer les votes.  
+  <li>Utilisez souvent votre capacité de secte, ne serait-ce que pour observer les votes.  
       Les joueurs maléfiques savent si vous êtes voisin d’un maléfique  
       et sont souvent plus enclins à lever la main, puisque cela ne peut pas faire gagner le Bien  
       si vous êtes maléfique ce jour-là.</li>
@@ -212,7 +212,7 @@ il ne devient pas maléfique à cause de ses voisins.
   <li>En fin de partie, si le village hésite sur l’identité du <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
       vous pouvez proposer votre secte comme « plan B ».  
       Si les chances de trouver le Démon sont pires que 50/50,  
-      une tentative de culte peut offrir de meilleures probabilités de victoire au Bien…  
+      une tentative de secte peut offrir de meilleures probabilités de victoire au Bien…  
       même si vous êtes maléfique.</li>
 
   <li>Souvenez-vous qu’au dernier jour, s’il reste 3 joueurs et que vous êtes l’un d’eux,  
@@ -224,7 +224,7 @@ il ne devient pas maléfique à cause de ses voisins.
   <li>Le nombre de joueurs est important : avec 9, 12 ou 15 joueurs,  
       le ratio de joueurs bons est élevé.  
       Vos chances d’être bon sont meilleures, mais vous avez aussi plus de gens à convaincre  
-      de lever la main pour votre culte.</li>
+      de lever la main pour votre secte.</li>
 
 </ul>
 
@@ -236,7 +236,7 @@ il ne devient pas maléfique à cause de ses voisins.
 
   <li>En bluffant Chef de Secte, vous voulez attirer beaucoup d’attention…  
       mais jamais obtenir une vraie unanimité.  
-      Si tout le monde rejoint votre culte et que rien ne se passe, le bluff explose.  
+      Si tout le monde rejoint votre secte et que rien ne se passe, le bluff explose.  
       Arrangez-vous toujours pour qu’au moins une personne garde la main baissée,  
       idéalement un allié maléfique qui aura l’air très prudent et très bon.</li>
 
@@ -255,7 +255,7 @@ il ne devient pas maléfique à cause de ses voisins.
       Mais surveillez l’humeur du village : à un moment, ils peuvent décider  
       de vous exécuter « au cas où » vous bluffiez.</li>
 
-  <li>En bluffant Chef de Secte, essayez d’initier un vote de culte presque chaque jour,  
+  <li>En bluffant Chef de Secte, essayez d’initier un vote de secte presque chaque jour,  
       surtout si vos alliés maléfiques votent avec vous.  
       Un grand nombre de mains levées peut entraîner des joueurs bons par effet de foule,  
       tout en créant énormément de bruit qui détourne la discussion du Démon réel.</li>
