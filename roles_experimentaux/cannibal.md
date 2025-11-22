@@ -65,14 +65,13 @@ Mais si la « victime » était maléfique, le Cannibale est empoisonné et ne p
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
-<li>
+  <li>
     🧞 
     <img src="../images/Icon_poppygrower.png" alt="Cultivateur de pavot" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cultivateur de pavot</a> :  
     Si le Cannibale mange le Cultivateur de pavot puis meurt ou perd cette capacité,  
     le <span style="color:#d45b5b; font-weight:bold;">Démon</span> et les <span style="color:#d45b5b; font-weight:bold;">Sbires</span> apprennent qui ils sont mutuellement cette nuit-là.
   </li>
-
 
   <li>
     🧞 
@@ -86,14 +85,14 @@ Mais si la « victime » était maléfique, le Cannibale est empoisonné et ne p
     <img src="../images/Icon_juggler.png" alt="Jongleur" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../sv_roles/jongleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Jongleur</a> :  
     Si le Jongleur jongle dès le premier jour et meurt exécuté,  
-    cette nuit-là, le Cannibale vivant apprend combien de jonglage le Jongleur avait correctement devinés.
+    cette nuit-là, le Cannibale vivant apprend combien de jonglages le Jongleur avait correctement devinés.
   </li>
 
   <li>
     🧞 
     <img src="../images/Icon_princess.png" alt="Princesse" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/princess.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Princesse</a> :  
-   Si le Cannibale a nommé, exécuté et tué la Princesse aujourd’hui, 
+    Si le Cannibale a nommé, exécuté et tué la Princesse aujourd’hui, 
     le <span style="color:#d45b5b; font-weight:bold;">Démon</span> ne tue personne cette nuit.
   </li>
 
@@ -126,7 +125,7 @@ Mais si la « victime » était maléfique, le Cannibale est empoisonné et ne p
       ou une capacité qui implique de fonctionner après la mort, comme celles du 
       <a href="../tb_roles/gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a>  
       ou de la 
-      <a href="../bmr_roles/sweetheart.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sweetheart</a>,  
+      <a href="../sv_roles/dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a>,  
       il garde cette capacité après sa propre mort,  
       mais perd définitivement sa capacité de Cannibale.
   </li>
@@ -152,7 +151,9 @@ mais les informations ou effets que vous lui donnez peuvent être totalement fau
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Faites attention aux bluffs des joueurs maléfiques.  
-Si une <span style="color:#d45b5b; font-weight:bold;">Veuve</span> bluffe 
+Si une 
+<a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a> 
+bluffe 
 <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>  
 et qu’elle est exécutée, il sera souvent plus amusant de faire croire au Cannibale  
 qu’il a gagné une capacité de Voyante, même si en réalité il est empoisonné.
@@ -178,7 +179,7 @@ a été exécutée aujourd’hui.
 Elle bluffait comme 
 <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>.  
 Le Cannibale est empoisonné : la conteuse le réveille,  
-lui demande de choisir deux joueurs, puis lui dit « non » même s’il vient de cibler le Démon,  
+lui demande de choisir deux joueurs, puis lui dit « non » même s’il vient de cibler le <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
 car en réalité il n’a ni la capacité de la Voyante ni celle de la Veuve.
 </p>
 
