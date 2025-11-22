@@ -73,19 +73,18 @@ Mais si la « victime » était maléfique, le Cannibale est empoisonné et ne p
     le <span style="color:#d45b5b; font-weight:bold;">Démon</span> et les <span style="color:#d45b5b; font-weight:bold;">Sbires</span> apprennent qui ils sont mutuellement cette nuit-là.
   </li>
 
-  <li>
-    🧞 
-    <img src="../images/Icon_butler.png" alt="Majordome" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../tb_roles/majordome.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Majordome</a> :  
-    Si le Cannibale gagne la capacité du Majordome, il l’apprend.
-  </li>
-
+  
   <li>
     🧞 
     <img src="../images/Icon_juggler.png" alt="Jongleur" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../sv_roles/jongleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Jongleur</a> :  
     Si le Jongleur jongle dès le premier jour et meurt exécuté,  
     cette nuit-là, le Cannibale vivant apprend combien de jonglages le Jongleur avait correctement devinés.
+  </li>
+  🧞 
+    <img src="../images/Icon_butler.png" alt="Majordome" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../tb_roles/majordome.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Majordome</a> :  
+    Si le Cannibale gagne la capacité du Majordome, il l’apprend.
   </li>
 
   <li>
