@@ -101,13 +101,13 @@ Lors de la mise en place, vous pouvez ajouter un <span style="color:#4ea3ff; fon
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Pour la première nuit, marquez un joueur avec le rappel <strong>KNOW</strong>.  
+Pour la première nuit, marquez un joueur avec le jeton de rappel <strong>SAIT (KNOW)</strong>.  
 Pour chaque nuit suivante, marquez un joueur qui a un <strong>type de rôle différent</strong> de celui du joueur précédemment marqué, toujours avec le rappel <strong>KNOW</strong>.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Chaque nuit, réveillez l’Aéronaute, pointez le joueur marqué <strong>KNOW</strong>, puis rendormez l’Aéronaute.  
-Mettez à jour le rappel <strong>KNOW</strong> avant la nuit suivante.
+Chaque nuit, réveillez l’Aéronaute, pointez le joueur marqué <strong>SAIT (KNOW)</strong>, puis rendormez l’Aéronaute.  
+Mettez à jour le jeton de rappel <strong>SAIT (KNOW)</strong> avant la nuit suivante.
 </p>
 
 ---
