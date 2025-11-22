@@ -80,7 +80,7 @@ quels <span style="color:#d45b5b; font-weight:bold;">Sbires</span> sont en jeu <
     <a href="../roles_experimentaux/summoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocateur</a> :  
     Si l’
     <a href="../roles_experimentaux/summoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocateur</a> vivant est retiré de la partie,  
-    la conteuse gagne la capacité de l’Invocateur (et peut donc influencer les Démons en jeu).
+    la conteuse gagne la capacité de l’Invocateur.
   </li>
 
 </ul>
