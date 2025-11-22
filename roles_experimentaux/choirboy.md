@@ -275,7 +275,7 @@ est le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.
       comme l’
       <a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> 
       ou le 
-      <a href="../roles_experimentaux/lycanthrope.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Lycanthrope</a>,  
+      <a href="../roles_experimentaux/lycanthrope.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lycanthrope</a>,  
       et que le Roi (vrai ou faux) meurt la nuit, vous pouvez toujours prétendre  
       que vous n’avez rien appris : cela suggère que le Roi est mort par une autre source  
       que le Démon. Attention toutefois si un effet supplémentaire devrait se produire  
