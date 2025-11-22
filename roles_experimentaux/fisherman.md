@@ -119,7 +119,7 @@ qui diffuse involontairement de fausses informations au village.
 Le Pêcheur apprend&nbsp;:  
 « Gardez en vie les joueurs qui prétendent être des Étrangers. »  
 Ces joueurs sont en réalité le 
-<a href="../sv_roles/gaffeur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gaffeur</a> (Klutz)  
+<a href="../sv_roles/maladroit.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maladroit</a> 
 et le 
 <a href="../roles_experimentaux/fearmonger.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fearmonger</a>.  
 La conteuse pense qu’en les gardant en vie, le Bien aura plus de chances de finir par exécuter le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.
