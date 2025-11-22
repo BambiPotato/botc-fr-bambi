@@ -95,7 +95,7 @@ si celui-ci tue le Roi pendant la nuit.
   </li>
 
   <li>
-    <a href="../bmr_roles/pit_hag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a> :  
+    <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a> :  
     Si un Enfant de chœur est créé en cours de partie, les conditions indiquées entre crochets  
     sur sa fiche ([+ le Roi]) sont ignorées : on ne rajoute pas un Roi à ce moment-là.
   </li>
@@ -114,7 +114,7 @@ si celui-ci tue le Roi pendant la nuit.
   </li>
 
   <li>
-    <a href="../sv_roles/pukka.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pukka</a> :  
+    <a href="../bmr_roles/pukka.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pukka</a> :  
     Si un Pukka choisit le 
     <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> 
     une nuit N puis l’Enfant de chœur à la nuit N+1,  
@@ -173,7 +173,7 @@ Ensuite, mettez les jetons dans le sac comme d’habitude.
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Chaque nuit (sauf la première), si le <span style="color:#d45b5b; font-weight:bold;">Démon</span> tue le Roi,  
-rendez le Démon au sommeil, puis réveillez l’Enfant de chœur.  
+endormez le Démon, puis réveillez l’Enfant de chœur.  
 Pointez le joueur qui est le Démon, puis rendormez l’Enfant de chœur.
 </p>
 
@@ -185,7 +185,7 @@ Pointez le joueur qui est le Démon, puis rendormez l’Enfant de chœur.
 L’
 <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Imp</a> 
 attaque l’
-<a href="../tb_roles/empathe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>.  
+<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a>.  
 L’Empathe meurt.  
 La nuit suivante, l’Imp attaque le 
 <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a>,  
@@ -219,7 +219,7 @@ est le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.
   <li>Si vous mourez, vous pouvez choisir de ne pas révéler votre rôle publiquement.  
       La simple menace d’un Enfant de chœur vivant peut suffire à effrayer le Démon.  
       Si des rôles comme le 
-      <a href="../tb_roles/fossoyeur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a> 
+      <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-Mort</a> 
       ou le 
       <a href="../sv_roles/reveur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Rêveur</a> 
       apprennent qui vous êtes, discutez avec eux et coordonnez un mensonge crédible sur votre rôle.</li>
@@ -268,21 +268,20 @@ est le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.
       Votre bluff risque de s’effondrer quand ce joueur sera exécuté  
       et que la partie ne se terminera pas…  
       sauf s’il y a des rôles comme la 
-      <a href="../tb_roles/femme_ecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme Écarlate</a> 
+      <a href="../tb_roles/femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme Écarlate</a> 
       en jeu, qui permettent au Mal de survivre à l’exécution du Démon.</li>
 
   <li>S’il existe d’autres morts nocturnes que celle du Démon,  
       comme l’
       <a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> 
       ou le 
-      <a href="../bmr_roles/lycanthrope.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Lycanthrope</a>,  
+      <a href="../roles_experimentaux/lycanthrope.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Lycanthrope</a>,  
       et que le Roi (vrai ou faux) meurt la nuit, vous pouvez toujours prétendre  
       que vous n’avez rien appris : cela suggère que le Roi est mort par une autre source  
       que le Démon. Attention toutefois si un effet supplémentaire devrait se produire  
       (comme une mort d’Assassin manquante).</li>
 
-  <li>Si vous doublez réellement avec un vrai Enfant de chœur,  
-      soyez prudent.  
+  <li>Attention si vous vous retrouvez en binôme avec un Enfant de Choeur.
       Si le Démon tue le 
       <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> 
       alors que le vrai Enfant de chœur est encore en vie,  
