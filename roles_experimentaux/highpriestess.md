@@ -28,7 +28,7 @@ title: Grande Prêtresse
   </a>
 </div>
 
-# 🔮 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Grande Prêtresse</span>
+#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Grande Prêtresse</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Il existe une vie derrière la personnalité, qui porte les personnalités comme des masques.  
@@ -52,7 +52,7 @@ title: Grande Prêtresse
 ## 📖 <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Chaque nuit, vous apprenez quel joueur la conteuse ou le conteur pense que vous devriez le plus aller voir. »</strong>
+  <strong>« Chaque nuit, vous apprenez avec quel joueur le Conteur pense que vous devriez le plus parler.  »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -138,7 +138,7 @@ Son histoire contredit plusieurs bons rôles, et la conteuse espère que la Gran
   <li>Vous pouvez aussi <strong>observer d’abord</strong> la personne montrée :  
       avec qui discute-t-elle ? Qui semble-t-elle cibler ou croire ?  
       Une joueuse qui se rue sur deux personnes précises pourrait être une 
-      <a href="../tb_roles/blanchisseuse.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Blanchisseuse</a>  
+      <a href="../tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>  
       ou une 
       <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>.  
       Quelqu’un de complètement perdu jusqu’à une courte discussion secrète pourrait être un <span style="color:#d45b5b; font-weight:bold;">Sbire</span>  
