@@ -141,7 +141,7 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
     <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Général</span>
   </a>
 
-  <a href="roles_experimentaux/high_priestess.html" style="text-decoration:none; width:280px; text-align:center;">
+  <a href="roles_experimentaux/highpriestess.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_highpriestess.png" alt="Grande prêtresse" style="width:280px; border-radius:12px;">
     <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Grande prêtresse</span>
   </a>
