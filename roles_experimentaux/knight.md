@@ -104,7 +104,7 @@ Le Chevalier connaît des joueurs qui ne sont pas le Démon.
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong>Louis</strong> est le 
-<a href="../tb_roles/croquemorts.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-morts</a>,  
+<a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-mort</a>,  
 <strong>David</strong> est l’
 <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Imp</a>  
 et <strong>Benjamin</strong> est la 
@@ -117,7 +117,7 @@ Le Chevalier apprend <strong>Louis</strong> et <strong>Benjamin</strong>.
 <a href="../sv_roles/vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a>  
 et <strong>Abdel</strong> est l’
 <a href="../roles_experimentaux/alchimiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a>.  
-Le Chevalier apprend <strong>Marianne</strong> et <strong>Abdallah</strong>.  
+Le Chevalier apprend <strong>Marianne</strong> et <strong>Abdel</strong>.  
 Le Chevalier doit apprendre Marianne et Abdel parce que, à cause de la capacité du Vortox,  
 son information doit être fausse et inclure le Démon.
 </p>
