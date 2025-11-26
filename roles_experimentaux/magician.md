@@ -72,8 +72,8 @@ et les <span style="color:#d45b5b; font-weight:bold;">Sbires</span> le prennent 
     🧞 
     <img src="../images/Icon_legion.png" alt="Légion" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> :  
-    Le Magicien se réveille avec la Légion et peut s’enregistrer comme maléfique.  
-    La Légion sait qu’un Magicien est en jeu, mais ne sait pas quel joueur il est.
+    Le Magicien se réveille avec les Légions et peut s’enregistrer comme maléfique.  
+    Les Légions savent qu’un Magicien est en jeu, mais ne savent pas quel joueur il s'agit.
   </li>
 
   <li>
@@ -109,7 +109,7 @@ et les <span style="color:#d45b5b; font-weight:bold;">Sbires</span> le prennent 
   <li>
     🧞 
     <img src="../images/Icon_widow.png" alt="Veuve noire" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve noire</a> :  
+    <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a> :  
     Quand la Veuve noire voit le Grimoire, les jetons de rôle du <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
     et du Magicien sont retirés du Grimoire.
   </li>
@@ -117,8 +117,8 @@ et les <span style="color:#d45b5b; font-weight:bold;">Sbires</span> le prennent 
   <li>
     🧞 
     <img src="../images/Icon_wraith.png" alt="Wraith" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/wraith.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Wraith</a> :  
-    Après chaque exécution, le Magicien vivant peut désigner publiquement un joueur vivant comme étant le Wraith.  
+    <a href="../roles_experimentaux/wraith.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Spectre</a> :  
+    Après chaque exécution, le Magicien vivant peut désigner publiquement un joueur vivant comme étant le Spectre.  
     En cas de bonne réponse, le <span style="color:#d45b5b; font-weight:bold;">Démon</span> doit choisir le Wraith cette nuit-là.
   </li>
 
@@ -158,21 +158,21 @@ Au lieu d’indiquer clairement au camp du Mal qui est qui, le Magicien brouille
 ## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-La première nuit, gérez les informations du camp du Mal en tenant compte du Magicien.
+La première nuit, gérez les informations pour les Maléfiques en tenant compte du Magicien.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
   <li>Réveillez les <span style="color:#d45b5b; font-weight:bold;">Sbires</span>.  
-      Montrez-leur le jeton d’info <em>THIS IS THE DEMON</em>, puis pointez successivement le vrai 
+      Montrez-leur le jeton d’info <em>C'EST LE DÉMON</em>, puis pointez successivement le vrai 
       <span style="color:#d45b5b; font-weight:bold;">Démon</span> et le Magicien.  
       Rendormez les Sbires.</li>
 
   <li>Réveillez ensuite le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.  
-      Montrez le jeton d’info <em>THESE ARE YOUR MINIONS</em>, puis pointez tous les <span style="color:#d45b5b; font-weight:bold;">Sbires</span>  
+      Montrez le jeton d’info <em>CE SONT TES SBIRES </em>, puis pointez tous les <span style="color:#d45b5b; font-weight:bold;">Sbires</span>  
       ainsi que le Magicien.</li>
 
-  <li>Puis montrez au Démon le jeton d’info <em>THESE CHARACTERS ARE NOT IN PLAY</em>  
+  <li>Puis montrez au Démon le jeton d’info <em>CES RÔLES NE SONT PAS EN JEU </em>  
       et trois jetons de rôles qui ne sont pas en jeu, comme d’habitude.  
       Rendormez le Démon.</li>
 
@@ -204,7 +204,7 @@ et Magicien sont ses « Sbires ».
   <li>Adoptez un comportement franchement louche.  
       Faites de mauvais choix de nominations, votez de façon incohérente,  
       accusez des joueurs et joueuses fiables et défendez des suspects.  
-      Le camp du Mal pense que vous êtes peut-être l’un des leurs :  
+      Les Maléfiques pensent que vous êtes peut-être l’un des leurs :  
       plus vous avez l’air maléfique, plus ils auront tendance à croire que vous êtes vraiment le <span style="color:#d45b5b; font-weight:bold;">Démon</span> ou un <span style="color:#d45b5b; font-weight:bold;">Sbire</span>.</li>
 
   <li>Les joueurs maléfiques qui croient que vous êtes maléfique auront tendance à vous garder en vie.  
@@ -213,17 +213,17 @@ et Magicien sont ses « Sbires ».
       vous repérerez ainsi des Sbires potentiels.</li>
 
   <li>Choisissez un autre rôle pour vos annonces publiques, ou restez discret.  
-      Tant que le camp du Mal n’a pas percé votre secret, le Magicien reste efficace.  
+      Tant que les Maléfiques n’ont pas percé votre secret, le Magicien reste efficace.  
       Dès que le <span style="color:#d45b5b; font-weight:bold;">Démon</span> et ses <span style="color:#d45b5b; font-weight:bold;">Sbires</span> savent qui vous êtes,  
       ils peuvent enfin se coordonner correctement.</li>
 
   <li>Si vous trouvez un rôle quasiment confirmé bon, comme la 
       <a href="../tb_roles/vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Vierge</a>  
       ou le 
-      <a href="../tb_roles/tireur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Tireur d’élite</a> (Slayer),  
+      <a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a>,  
       ou l’unique Étranger d’une partie avec un seul Étranger,  
       vous pouvez lui révéler en privé que vous êtes le Magicien.  
-      Avoir au moins une personne du Bien qui veut absolument vous garder en vie  
+      Avoir au moins une personne du Camp du Bien qui veut absolument vous garder en vie  
       est précieux.</li>
 
   <li>Votre priorité est de rester en vie le plus longtemps possible.  
@@ -231,7 +231,7 @@ et Magicien sont ses « Sbires ».
       puisqu’il pense que vous êtes un <span style="color:#d45b5b; font-weight:bold;">Sbire</span>.  
       C’est donc surtout au village de décider de vous exécuter ou non.</li>
 
-  <li>Quand vous sentez que le camp du Mal a compris que vous êtes le Magicien,  
+  <li>Quand vous sentez que les Maléfiques ont compris que vous êtes le Magicien,  
       vous n’avez plus grand-chose à perdre à vous dévoiler publiquement.  
       Comme pour le 
       <a href="../bmr_roles/lunatique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lunatique</a>,  
