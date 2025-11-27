@@ -292,7 +292,7 @@ Tant que Cédric est empoisonné, Leelou se réveille de nouveau pour utiliser s
       <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a>.  
       Pointez un joueur précis et dites :  
       « Ils étaient tranquilles tant que j’étais en vie… maintenant regardez le chaos ! »  
-      Si cela fonctionne, le Village sera soulagée par votre sacrifice  
+      Si cela fonctionne, le Village sera soulagé par votre sacrifice  
       et furieuse contre votre bouc émissaire.</li>
 
 </ul>
