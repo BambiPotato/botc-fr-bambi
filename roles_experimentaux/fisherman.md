@@ -82,11 +82,12 @@ adapté à la situation de la partie, qui devrait — si tout se passe bien — 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Une fois par partie, le Pêcheur vous indiquera qu’il souhaite utiliser sa capacité, habituellement pendant la journée.  
 Amenez-le à l’écart (ou faites-le savoir clairement) et donnez-lui un <strong>conseil unique</strong> pour l’aider à gagner la partie.  
-Ensuite, placez le rappel <strong>NO ABILITY</strong> sur son jeton : il ne peut plus utiliser sa capacité.
+Ensuite, placez le rappel <strong>PAS DE CAPACITÉ</strong> à côté de son jeton de rôle : il ne peut plus utiliser sa capacité.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Idéalement, ce conseil doit porter sur ce que le Pêcheur et le village doivent <strong>faire</strong>, plutôt que sur ce qui <strong>est</strong>.  
+Il est préférable de donner au Pêcheur un conseil sur ce qu’il doit faire, 
+plutôt que de lui transmettre une simple information sur ce qui <strong>est</strong>. Cela rend le rôle du Pêcheur plus amusant et plus unique.  
 Par exemple&nbsp;:  
 <br>
 – « Vous devriez exécuter ce joueur. »<br>
