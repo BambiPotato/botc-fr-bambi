@@ -92,9 +92,9 @@ Cédric est le <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-La <a href="../roles_experimentaux/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a> transforme la <a href="../roles_experimentaux/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cultivatrice de pavot</a> en Intendant.  
+La <a href="../roles_experimentaux/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a> transforme la <a href="../roles_experimentaux/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cultivateur de pavot</a> en Intendant.  
 Cette nuit-là, l’Intendant apprend que <strong>Médhi</strong> est bon.  
-Abdallah est l’<a href="../roles_experimentaux/spy.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espion</a>, et s’enregistre comme bon.
+Médhi est l’<a href="../roles_experimentaux/spy.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espion</a>, et s’enregistre comme bon.
 </p>
 
 ---
