@@ -51,12 +51,12 @@ title: Amnésique
 ## 📖 <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>« Vous ne connaissez pas votre capacité. Chaque jour, vous devinez en privé ce qu’elle est : vous apprenez à quel point votre supposition est correcte. »</strong>
+<strong>« Vous ne savez pas quelle est votre capacité. Chaque jour, devinez en privé de quoi il s'agit : vous apprenez à quel point vous êtes précis. »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 L’<strong>Amnésique</strong> ne sait pas comment fonctionne sa capacité.  
-Chaque jour, il essaie de la deviner, et la conteuse lui indique à quel point il est proche de la vérité.
+Chaque jour, l'Amnésique essaie de deviner sa capacité, et la conteuse lui indique à quel point il est proche de la vérité.
 </p>
 
 ---
@@ -122,7 +122,7 @@ Au fil de la partie, il comprend que ce nombre correspond au total de ses voisin
   <li>Si votre capacité vous permet de choisir des joueurs la nuit, variez vos cibles pour obtenir des informations plus utiles et comparer les résultats.</li>
   <li>Pensez aux différents « crochets » mécaniques du jeu auxquels votre capacité peut être liée :
     <ul style="margin-left:20px; margin-top:6px;">
-      <li><strong>Les personnages :</strong> types de rôles (Villageois, Étrangers, Sbires, Démons), position sur la fiche de script, lettres du nom du rôle…</li>
+      <li><strong>Les rôles :</strong> types de rôles (Villageois, Étrangers, Sbires, Démons), position sur la fiche de script, lettres du nom du rôle…</li>
       <li><strong>Les pouvoirs :</strong> qui est rendu ivre, qui reçoit des informations, qui change de rôle ou d’alignement, qui survit ou meurt.</li>
       <li><strong>La disposition physique :</strong> vos voisins, les joueurs en face de vous, qui a voté, qui a nommé.</li>
       <li><strong>Le comportement social :</strong> qui semble mentir, qui semble dire vrai, qui mène la discussion, qui est souvent dans le bon camp.</li>
