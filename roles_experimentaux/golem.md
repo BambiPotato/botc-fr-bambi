@@ -89,7 +89,7 @@ Le <strong>Golem</strong> tue le joueur qu’il nomme… tant que ce n’est pas
 Si le Golem nomme un joueur ou une joueuse qui n’est pas le <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
 cette personne meurt immédiatement.  
 Annoncez sa mort, puis procédez au vote comme pour une nomination normale.  
-Marquez le Golem avec le rappel <strong>NE PEUT PLUS NOMMER (MAY NOT NOMINATE)</strong>.
+Marquez le Golem avec le rappel <strong>NE PEUT PLUS NOMMER</strong>.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -115,7 +115,8 @@ qui bluffent Golem : rappelez-leur qu’un Golem ne peut nommer qu’une seule f
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Le Golem nomme le 
 <a href="../roles_experimentaux/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cultivateur de pavot</a>.  
-Le Cultivateur de pavot meurt immédiatement.  
+Le 
+<a href="../roles_experimentaux/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cultivateur de pavot</a> de pavot meurt immédiatement.  
 Le Golem ne pourra plus jamais nommer pendant le reste de la partie.
 </p>
 
