@@ -119,7 +119,7 @@ et les <span style="color:#d45b5b; font-weight:bold;">Sbires</span> le prennent 
     <img src="../images/Icon_wraith.png" alt="Wraith" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/wraith.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Spectre</a> :  
     Après chaque exécution, le Magicien vivant peut désigner publiquement un joueur vivant comme étant le Spectre.  
-    En cas de bonne réponse, le <span style="color:#d45b5b; font-weight:bold;">Démon</span> doit choisir le Wraith cette nuit-là.
+    En cas de bonne réponse, le <span style="color:#d45b5b; font-weight:bold;">Démon</span> doit choisir le Spectre cette nuit-là.
   </li>
 
 </ul>
