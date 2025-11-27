@@ -51,7 +51,7 @@ title: Noble
 ## 📖 <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Vous commencez en sachant que 3 joueurs, dont 1 et 1 seul est maléfique. »</strong>
+  <strong>« Vous commencez en connaissant 3 joueurs, dont 1 et seulement 1 est maléfique. »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
