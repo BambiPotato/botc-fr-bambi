@@ -171,7 +171,7 @@ si c’est de jour, dites-le simplement ; si c’est de nuit, secouez la tête, 
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
-<strong>Cédric</strong> est l’Alchimiste et a la capacité du <a href="../roles_experimentaux/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a>.  
+<strong>Cédric</strong> est l’Alchimiste et a la capacité du <a href="../tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a>.  
 Il y a donc deux <span style="color:#4ea3ff; font-weight:bold;">Étrangers</span> supplémentaires en jeu.
 
 <br><br>
