@@ -155,12 +155,12 @@ Rien ne se passe non plus et la partie continue.
   <li>Si vous mourrez la nuit, regardez bien les annonces que vous avez faites juste avant. Vous avez peut-être fait peur à l’équipe maléfique en vous approchant trop de la vérité.</li>
   <li>Encouragez les personnages bons à révéler leurs informations pour qu’ils deviennent des cibles potentielles à votre place. L’Alsaahir devient de plus en plus puissant au fur et à mesure que la partie avance, il est donc précieux de rester en vie le plus longtemps possible.</li>
   <li>Observez les annonces faites par les autres joueurs qui prétendent être Alsaahir. Certains joueurs bons peuvent avoir des informations ou des lectures sociales qui rendent leurs annonces pertinentes.</li>
-  <li>Cherchez les personnages qui détectent les joueurs maléfiques, comme l’
-    <a href="../tb_roles/investigateur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Investigateur</a>, 
+  <li>Cherchez les rôles qui détectent les joueurs maléfiques, comme l’
+    <a href="../tb_roles/enquêteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Enquêteur</a>, 
     l’
-    <a href="../tb_roles/empathe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>, 
+    <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a>, 
     la 
-    <a href="../tb_roles/devin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Devin</a> 
+    <a href="../tb_roles/Voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> 
     ou le 
     <a href="../roles_experimentaux/bounty_hunter.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chasseur de primes</a>, 
     et utilisez leurs informations pour affiner vos annonces.
@@ -183,12 +183,12 @@ Rien ne se passe non plus et la partie continue.
     <a href="../roles_experimentaux/riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> 
     peuvent modifier la composition de l’équipe maléfique et le nombre de Démons ou de Sbires à deviner.
   </li>
-  <li>Attention aux personnages qui peuvent changer qui est le Démon en cours de partie, comme l’
+  <li>Attention aux rôles qui peuvent changer qui est le Démon en cours de partie, comme l’
     <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Imp</a>, 
     le 
     <a href="../sv_roles/fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a> 
     ou la 
-    <a href="../tb_roles/femme_ecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme Écarlate</a>. 
+    <a href="../tb_roles/femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme Écarlate</a>. 
     Vous devrez peut-être adapter vos annonces quand de nouvelles informations arrivent.
   </li>
 </ul>
