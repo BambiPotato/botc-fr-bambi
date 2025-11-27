@@ -28,7 +28,7 @@ title: Princesse
   </a>
 </div>
 
-# 👑 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Princesse</span>
+# 👸🏻 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Princesse</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Nos mots sont des chiens tenus par des fils de soie, mes seigneurs. Que la bonté les guide, ou bien leurs laisses se rompront, et notre cour se déchirera. »
@@ -57,7 +57,7 @@ title: Princesse
     <img src="../images/Icon_alhadikhia.png" alt="Al-Hadikhia" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/alhadikhia.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Al-Hadikhia</a> :  
     Si la Princesse a nommé et fait exécuter un joueur lors de son premier jour,  
-    personne ne meurt à cause d’Al-Hadikhia cette nuit-là.
+    personne ne meurt à cause de l’Al-Hadikhia cette nuit-là.
   </li>
 
   <li>
