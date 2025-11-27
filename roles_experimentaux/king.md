@@ -31,9 +31,9 @@ title: Roi
 # 👑 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Roi</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « ↑Entre les luttes mortelles et inconnues→<br>
-  Et la nuit morbide, douce↓ de mystères et de peines<br>
-  ←Reposent les joies libres d’un destin aux mille couleurs<br>
+  « Entre les luttes mortelles et inconnues<br>
+  Et la nuit morbide, douce de mystères et de peines<br>
+  Reposent les joies libres d’un destin aux mille couleurs<br>
   Dont le jardin fleurit de chaque visage révélé. »
 </p>
 
