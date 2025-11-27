@@ -66,7 +66,7 @@ Le <strong>Lycanthrope</strong> rôde la nuit, tuant les innocents, tandis que l
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
   <li>Le Lycanthrope doit choisir un joueur vivant à chaque nuit où sa capacité agit.  
-      Si le Lycanthrope choisit un joueur déjà mort, le ou la conteuse secoue la tête pour indiquer « non »  
+      Si le Lycanthrope choisit un joueur déjà mort, le conteur ou la conteuse secoue la tête pour indiquer « non »  
       et lui demande de choisir un autre joueur vivant.</li>
 
   <li>Si le joueur choisi est bon, ce joueur meurt et le <span style="color:#d45b5b; font-weight:bold;">Démon</span> ne peut tuer personne cette nuit-là.</li>
@@ -102,7 +102,7 @@ Il ou elle pointe n’importe quel joueur. Endormez ensuite le Lycanthrope.
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
-  <li>Si le joueur choisi est bon <em>et</em n’est pas celui marqué FAUX PAW, ce joueur meurt :  
+  <li>Si le joueur choisi est bon <em>et</em> n’est pas celui marqué FAUX PAW, ce joueur meurt :  
       marquez-le avec le jeton de rappel du Lycanthrope indiquant qu’il est mort cette nuit.  
       Plus tard dans la nuit, réveillez le <span style="color:#d45b5b; font-weight:bold;">Démon</span> comme d’habitude,  
       mais il ne peut tuer personne cette nuit.</li>
@@ -160,7 +160,7 @@ et le Lycanthrope meurt.
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
-  <li>Essayez d’identifier des joueurs et joueuses bons dont la mort ne serait pas une catastrophe  
+  <li>Essayez d’identifier des joueurs bons dont la mort ne serait pas une catastrophe  
       pour l’équipe du Bien. En les tuant et en confirmant qu’ils étaient bons,  
       vous pouvez commencer à construire un cercle de confiance autour de vous.</li>
 
@@ -223,7 +223,7 @@ et le Lycanthrope meurt.
       c’est un signal clair.  
       Si vous ne voulez pas que le Démon sache qui vous êtes,  
       ne restez pas silencieux : choisissez un autre rôle à bluffer  
-      pendant que les autres révèlent leurs personnages.</li>
+      pendant que les autres révèlent leurs rôles.</li>
 
   <li>Si vous vous déclarez publiquement Lycanthrope,  
       les joueuses et joueurs vont naturellement vous proposer des cibles pour la nuit.  
