@@ -28,7 +28,7 @@ title: Ermite
   </a>
 </div>
 
-#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Ermite</span>
+# 🗿 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Ermite</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Dans les lieux perdus et oubliés de la terre, la lumière de l’âme continue d’appeler. »
