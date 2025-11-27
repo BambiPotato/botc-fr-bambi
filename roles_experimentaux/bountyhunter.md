@@ -113,7 +113,7 @@ Rendormez ensuite le Chasseur de Primes.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Chaque fois que le joueur marqué <strong>SAIT</strong> meurt, marquez un nouveau joueur maléfique avec le jeton de rappel<strong>SAIT</strong>.  
+Chaque fois que le joueur marqué par le jeton de rappel <strong>SAIT</strong> meurt, marquez un nouveau joueur maléfique avec le jeton de rappel <strong>SAIT</strong>.  
 Cette nuit-là, réveillez le Chasseur de Primes, montrez-lui ce nouveau joueur, puis rendormez-le.
 </p>
 
@@ -159,7 +159,7 @@ Quand Marie meurt, Lilian apprend <strong>Davis</strong>, qui est la
 ## 💡 <span style="color:#4ea3ff;">Astuces et Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Vous commencez la partie avec une information extrêmement puissante : vous savez qu’un joueur est maléfique dès le jour 1.  
+  <li>Vous commencez la partie avec une information extrêmement puissante : vous savez qu’un joueur est maléfique dès le premier jour.  
       C’est plus direct que les infos de l’
       <a href="../tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Enquêteur</a>.  
       Vous pouvez révéler votre rôle immédiatement pour tenter de faire exécuter votre cible au plus vite… mais cela fera aussi de vous une cible prioritaire pour le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.</li>
