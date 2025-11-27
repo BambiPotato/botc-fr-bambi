@@ -52,11 +52,11 @@ title: Grande Prêtresse
 ## 📖 <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Chaque nuit, vous apprenez avec quel joueur le Conteur pense que vous devriez le plus parler.  »</strong>
+  <strong>« Chaque nuit, vous apprenez avec quel joueur le Conteur pense que vous devriez le plus parler. »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-La <strong>Grande Prêtresse</strong> agit à l’instinct… ou plutôt à l’intuition de la conteuse ou du conteur.  
+La <strong>Grande Prêtresse</strong> agit à l’instinct… ou plutôt à l’intuition du Conteur ou de la conteuse.  
 On lui indique, nuit après nuit, avec qui discuter en priorité pour aider l’équipe du Bien.
 </p>
 
@@ -65,13 +65,13 @@ On lui indique, nuit après nuit, avec qui discuter en priorité pour aider l’
 ## ⚙️ <span style="color:#4ea3ff;">Détails</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Chaque nuit, la Grande Prêtresse voit <strong>un joueur</strong>, choisi par la conteuse ou le conteur comme étant la personne la plus pertinente à rencontrer le lendemain.</li>
-  <li>Le même joueur peut être montré plusieurs nuits d’affilée, ou un joueur différent chaque nuit.</li>
-  <li>Le joueur montré peut être <strong>vivant ou mort</strong>.</li>
-  <li>Le joueur montré peut être <strong>bon ou maléfique</strong> (Villageois, Étranger, Sbire ou Démon).</li>
+  <li>Chaque nuit, la Grande Prêtresse voit <strong>un joueur ou une joueuse</strong>, choisi·e par le Conteur ou la conteuse comme étant la personne la plus pertinente à qui parler le lendemain.</li>
+  <li>Le même joueur ou la même joueuse peut être montré·e plusieurs nuits d’affilée, ou une personne différente chaque nuit.</li>
+  <li>La personne montrée peut être <strong>vivante ou morte</strong>.</li>
+  <li>La personne montrée peut être <strong>bonne ou maléfique</strong> (Villageois, Étranger, <span style="color:#d45b5b; font-weight:bold;">Sbire</span> ou <span style="color:#d45b5b; font-weight:bold;">Démon</span>).</li>
   <li>Il n’existe <strong>aucune règle officielle</strong> pour déterminer qui montrer à la Grande Prêtresse :  
       c’est un choix de jugement, de lecture de table, de rythme et de dramaturgie.</li>
-  <li>Le joueur montré peut être :
+  <li>La personne montrée peut être :
     <ul style="margin-top:4px; margin-left:20px;">
       <li>un rôle à information qui n’a pas encore tout révélé ;</li>
       <li>un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> ou un <span style="color:#d45b5b; font-weight:bold;">Démon</span> au bluff bancal ;</li>
@@ -89,7 +89,7 @@ On lui indique, nuit après nuit, avec qui discuter en priorité pour aider l’
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Chaque nuit, réveillez la Grande Prêtresse.  
-Pointez un joueur – celui ou celle avec qui, selon vous, une discussion aura le plus d’impact sur la partie.  
+Pointez un joueur ou une joueuse – celui ou celle avec qui, selon vous, une discussion aura le plus d’impact sur la partie.  
 Puis rendormez la Grande Prêtresse.
 </p>
 
@@ -109,7 +109,7 @@ Cédric est le
 et possède une information de départ importante.  
 La nuit suivante, la Grande Prêtresse voit <strong>Vanessa</strong>, qui est le 
 <a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Goblin</a>.  
-La conteuse espère que la conversation avec Vanessa permettra de démasquer ce bluff maléfique rapidement.  
+Le Conteur ou la conteuse espère que la conversation avec Vanessa permettra de démasquer ce bluff maléfique rapidement.  
 La troisième nuit, la Grande Prêtresse voit <strong>Leelou</strong>, une 
 <a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>  
 dont les « informations » nuisent beaucoup au Bien.
@@ -122,7 +122,7 @@ Sarah est le
 et le village envisage sérieusement de l’exécuter.  
 La dernière nuit, la Grande Prêtresse voit <strong>Nicolas</strong>, qui est l’
 <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Imp</a>.  
-Son histoire contredit plusieurs bons rôles, et la conteuse espère que la Grande Prêtresse saura percer sa défense.
+Son histoire contredit plusieurs bons rôles, et le Conteur ou la conteuse espère que la Grande Prêtresse saura percer sa défense.
 </p>
 
 ---
@@ -131,8 +131,8 @@ Son histoire contredit plusieurs bons rôles, et la conteuse espère que la Gran
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
-  <li>Allez parler au joueur montré <strong>dès que possible chaque jour</strong>.  
-      Si la conteuse ou le conteur vous l’indique, c’est qu’il y a probablement quelque chose à y gagner :  
+  <li>Allez parler au joueur ou à la joueuse montré·e <strong>dès que possible chaque jour</strong>.  
+      Si le Conteur ou la conteuse vous l’indique, c’est qu’il y a probablement quelque chose à y gagner :  
       une info cachée, un doute à lever, ou un mensonge à débusquer.</li>
 
   <li>Vous pouvez aussi <strong>observer d’abord</strong> la personne montrée :  
@@ -149,8 +149,8 @@ Son histoire contredit plusieurs bons rôles, et la conteuse espère que la Gran
       Certaines joueuses ou certains joueurs auront des théories très pertinentes sur <em>pourquoi</em> ils ont été pointés,  
       en fonction de leur propre rôle et de ce qu’ils peuvent apporter au Bien.</li>
 
-  <li>À l’inverse, vous pouvez <strong>ne pas révéler</strong votre rôle à la personne montrée.  
-      Peut-être que la conteuse ou le conteur souhaite que vous écoutiez, testiez ou perturbiez cette personne,  
+  <li>À l’inverse, vous pouvez <strong>ne pas révéler</strong> votre rôle à la personne montrée.  
+      Peut-être que le Conteur ou la conteuse souhaite que vous écoutiez, testiez ou perturbiez cette personne,  
       sans pour autant lui donner la certitude qu’il y a une Grande Prêtresse en jeu.</li>
 
   <li>En début de partie, la personne que vous voyez est souvent soit :
@@ -169,7 +169,7 @@ Son histoire contredit plusieurs bons rôles, et la conteuse espère que la Gran
     </ul>
   </li>
 
-  <li>En fin de partie, il est fréquent que vous soyez dirigé vers :
+  <li>En fin de partie, il est fréquent que vous soyez dirigé·e vers :
     <ul style="margin-top:4px; margin-left:20px;">
       <li>des bons rôles « sur la bonne piste », pour que vous renforciez leur discours ;</li>
       <li>ou carrément vers le <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
@@ -178,16 +178,16 @@ Son histoire contredit plusieurs bons rôles, et la conteuse espère que la Gran
   </li>
 
   <li>Demandez-vous toujours <strong>dans quel contexte</strong> on vous donne cette info.  
-      Si le Bien semble mener, la conteuse ou le conteur cherchera souvent à consolider cette avance.  
+      Si le Bien semble mener, le Conteur ou la conteuse cherchera souvent à consolider cette avance.  
       Si le Mal domine, on vous montrera peut-être des voix discordantes pour vous pousser  
       à remettre en question vos certitudes.</li>
 
-  <li>Si vous voyez le <strong>même joueur plusieurs nuits d’affilée</strong>,  
-      c’est probablement que ce que la conteuse ou le conteur voulait que vous obteniez de cette discussion  
+  <li>Si vous voyez le <strong>même joueur ou la même joueuse plusieurs nuits d’affilée</strong>,  
+      c’est probablement que ce que le Conteur ou la conteuse voulait que vous obteniez de cette discussion  
       n’est pas encore arrivé. Recommencez avec un esprit ouvert.</li>
 
   <li>Même si vous ne comprenez jamais totalement <em>pourquoi</em> on vous a envoyé vers telle personne,  
-      le simple fait de parler aux joueurs jugés importants par la conteuse ou le conteur  
+      le simple fait de parler aux joueurs jugés importants par le Conteur ou la conteuse  
       est déjà extrêmement précieux pour le Bien.</li>
 
 </ul>
@@ -212,12 +212,12 @@ Son histoire contredit plusieurs bons rôles, et la conteuse espère que la Gran
       partager les bluffs et coordonner vos plans, sans éveiller de soupçons.</li>
 
   <li>Votre première nuit est la plus délicate à inventer :  
-      c’est l’instant où la conteuse ou le conteur a le moins d’influence de la partie pour guider son choix.  
+      c’est l’instant où le Conteur ou la conteuse a le moins d’emprise sur la partie pour guider son choix.  
       Donnez donc une raison solide et cohérente pour le tout premier joueur que vous prétendez avoir vu.</li>
 
   <li>Gardez toujours un <strong>plan de secours</strong> au cas où vous devriez vous retourner  
       contre un joueur que vous affirmez avoir vu.  
-      Par exemple : « Je pense que j’ai été montrée à toi pour te tester, pas pour te faire confiance. »</li>
+      Par exemple : « Je pense que j’ai été envoyée vers toi pour te tester, pas pour te faire confiance. »</li>
 
   <li>Un excellent bluff de Grande Prêtresse consiste à beaucoup écouter.  
       Laissez les autres vous proposer des raisons pour lesquelles vous auriez pu les voir,  
@@ -235,7 +235,7 @@ Son histoire contredit plusieurs bons rôles, et la conteuse espère que la Gran
 
   <li>C’est un excellent bluff de début de partie, que vous pouvez ensuite « abandonner »  
       pour revendiquer un autre rôle.  
-      Vous pourrez toujours prétendre avoir voulu rester discret ou discrète  
+      Vous pourrez toujours prétendre avoir voulu rester discrète ou discret  
       pour ne pas vous faire cibler par le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.</li>
 
   <li>Revendiquer avoir vu un joueur que le groupe considère déjà comme très suspect,  
