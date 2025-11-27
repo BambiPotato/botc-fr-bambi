@@ -36,7 +36,7 @@ title: Intendant
 
 ---
 
-## 🧾 Informations
+## 🧾 <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
@@ -48,7 +48,7 @@ title: Intendant
 
 ---
 
-## 📖 Résumé
+## 📖 <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Vous commencez en apprenant un joueur bon. »</strong>
@@ -61,7 +61,7 @@ Il apprend cette information lors de la toute première nuit, ou lors de sa prem
 
 ---
 
-## ⚙️ Détails
+## ⚙️ <span style="color:#4ea3ff;">Détails</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -75,7 +75,7 @@ Il apprend cette information lors de la toute première nuit, ou lors de sa prem
 
 ---
 
-## 🎭 Comment Conter
+## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Avant la première nuit, placez un jeton de rappel <strong>CONNAÎT</strong> à côté du jeton de n’importe quel rôle bon.  
@@ -84,7 +84,7 @@ Lors de la première nuit, réveillez l’Intendant, pointez le joueur marqué <
 
 ---
 
-## 🧩 Exemples
+## 🧩  <span style="color:#4ea3ff;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 L’Intendant apprend que <strong>Cédric</strong> est bon.  
@@ -99,7 +99,7 @@ Médhi est l’<a href="../tb_roles/espion.html" style="color:#d45b5b; font-weig
 
 ---
 
-## 💡Astuces et Conseils
+## 💡<span style="color:#4ea3ff;">Astuces et Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -125,7 +125,7 @@ Médhi est l’<a href="../tb_roles/espion.html" style="color:#d45b5b; font-weig
 
 ---
 
-## 🎭 Bluffer en tant qu’Intendant
+## 🎭 span style="color:#4ea3ff;">Bluffer en tant qu’Intendant</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
