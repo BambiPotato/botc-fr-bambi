@@ -125,16 +125,13 @@ car le Veilleur de Nuit n’a pas de capacité.
 Ben est Veilleur de Nuit et un 
 <a href="../sv_roles/vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a> est en jeu.  
 Ben choisit Sarah.  
-Sarah apprend que Lewis est le Veilleur de Nuit :  
+Sarah apprend que Louis est le Veilleur de Nuit :  
 l’information est fausse à cause du Vortox.
 </p>
 
 ---
 
 ## 💡 <span style="color:#4ea3ff;">Astuces et Conseils</span>
-
-*(Identique à la version que tu as validée)*  
-*(Réécrite entièrement sans écriture inclusive non souhaitée)*
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
