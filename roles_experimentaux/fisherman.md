@@ -56,8 +56,8 @@ title: Pêcheur
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Pêcheur</strong> ne découvre pas un fait précis, mais reçoit un <strong>conseil</strong> unique de la conteuse,  
-adapté à la situation de la partie, qui devrait — si tout se passe bien — aider le Bien à l’emporter.
+Le <strong>Pêcheur</strong> sait quelque chose que personne d'autre ne peut savoir : 
+ce qu'il faut faire.
 </p>
 
 ---
