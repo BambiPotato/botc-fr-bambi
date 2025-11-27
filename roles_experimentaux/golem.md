@@ -124,7 +124,7 @@ Le Golem ne pourra plus jamais nommer pendant le reste de la partie.
 Le Golem nomme le 
 <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a>.  
 Le 
-<a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a>s’enregistre comme le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.  
+<a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a> s’enregistre comme le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.  
 Il ne se passe rien : le Reclus ne meurt pas,  
 et la conteuse ou le conteur commence à compter les votes pour une éventuelle exécution du Reclus.  
 Le Golem ne peut plus nommer pour le reste de la partie.
