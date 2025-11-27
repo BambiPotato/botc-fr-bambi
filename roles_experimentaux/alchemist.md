@@ -76,19 +76,19 @@ Les jinxes suivants concernent l’<strong>Alchimiste</strong> et modifient sa c
     Si l’Alchimiste a la capacité du Boffin, il n’apprend pas quelle capacité a le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.
   </li>
 
-  <li>
+  <li> 🧞
     <img src="../images/Icon_marionette.png" alt="Marionnette" width="26" style="vertical-align:middle; border-radius:6px; margin-right:6px;">
     <a href="../roles_experimentaux/marionnette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> :  
     Un Alchimiste-Marionnette n’a pas la capacité de la Marionnette et une Marionnette est en jeu.
   </li>
 
-  <li>
+  <li> 🧞
     <img src="../images/Icon_mastermind.png" alt="Mastermind" width="26" style="vertical-align:middle; border-radius:6px; margin-right:6px;">
-    <a href="../bmr_roles/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mastermind</a> :  
-    Un Alchimiste-Mastermind n’a pas la capacité de Mastermind et aucun Mastermind n’est en jeu.
+    <a href="../bmr_roles/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a> :  
+    Un Alchimiste-Conspirateur n’a pas la capacité du Conspirateur et aucun Conspirateur n’est en jeu.
   </li>
 
-  <li>
+  <li> 🧞
     <img src="../images/Icon_organgrinder.png" alt="Orgue de Barbarie" width="26" style="vertical-align:middle; border-radius:6px; margin-right:6px;">
     <a href="../roles_experimentaux/organgrinder.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Orgue de Barbarie</a> :  
     Si l’Alchimiste a la capacité de l’Orgue de Barbarie, l’Orgue de Barbarie est en jeu.  
