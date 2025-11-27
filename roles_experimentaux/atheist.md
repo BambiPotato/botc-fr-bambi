@@ -67,7 +67,7 @@ La seule façon pour le village de gagner est d’exécuter la conteuse.
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
     🧞 <a href="../roles_experimentaux/riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> :  
-    Pendant une partie avec le Riot, si la conteuse est nominée, les joueurs votent.  
+    Riot, si la conteuse est nominée, les joueurs votent.  
     Si elle est sur le point d’être exécutée, la partie se termine immédiatement.  
     Sinon, une nouvelle nomination a lieu.
   </li>
@@ -100,16 +100,16 @@ La seule façon pour le village de gagner est d’exécuter la conteuse.
 ## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Lors de la mise en place, avant de donner le sac aux joueurs, retirez tous les jetons de personnages maléfiques.  
+Lors de la mise en place, avant de donner le sac aux joueurs, retirez tous les jetons de rôles maléfiques.  
 Remplacez-les par des jetons de <span style="color:#4ea3ff; font-weight:bold;">Villageois</span> ou d’<span style="color:#4ea3ff; font-weight:bold;">Étrangers</span> pour atteindre la bonne répartition selon le nombre de joueurs.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Ensuite, brisez les règles du jeu comme vous le souhaitez, afin de simuler une partie normale avec des personnages maléfiques imaginaires.  
+Ensuite, brisez les règles du jeu comme vous le souhaitez, afin de simuler une partie normale avec des rôles maléfiques imaginaires.  
 Vous pouvez utiliser les rappels des rôles maléfiques (comme l’
 <a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>, la 
-<a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a>, la 
-<a href="../tb_roles/femme_ecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme Écarlate</a> ou le 
+<a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionn</a>, la 
+<a href="../tb_roles/femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme Écarlate</a> ou le 
 <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Imp</a>) pour vous aider à suivre ce que vous simulez.
 </p>
 
