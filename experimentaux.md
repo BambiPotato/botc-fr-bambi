@@ -211,7 +211,7 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
     <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Intendant</span>
   </a>
 
-  <a href="roles_experimentaux/village_idiot.html" style="text-decoration:none; width:280px; text-align:center;">
+  <a href="roles_experimentaux/villageidiot.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_villageidiot.png" alt="Idiot du village" style="width:280px; border-radius:12px;">
     <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Idiot du village</span>
   </a>
@@ -324,7 +324,7 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
     <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Mezepheles</span>
   </a>
 
-  <a href="roles_experimentaux/organ_grinder.html" style="text-decoration:none; width:280px; text-align:center;">
+  <a href="roles_experimentaux/organgrinder.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_organgrinder.png" alt="Orgue de Barbarie" style="width:280px; border-radius:12px;">
     <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Orgue de Barbarie</span>
   </a>
@@ -373,7 +373,7 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
 
-  <a href="roles_experimentaux/al_hadikhia.html" style="text-decoration:none; width:280px; text-align:center;">
+  <a href="roles_experimentaux/alhadikhia.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_alhadikhia.png" alt="Al-Hadikhia" style="width:280px; border-radius:12px;">
     <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Al-Hadikhia</span>
   </a>
@@ -403,7 +403,7 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
     <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Sangsue</span>
   </a>
 
-  <a href="roles_experimentaux/lord_of_typhon.html" style="text-decoration:none; width:280px; text-align:center;">
+  <a href="roles_experimentaux/lordoftyphon.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_lordoftyphon.png" alt="Seigneur de Typhon" style="width:280px; border-radius:12px;">
     <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Seigneur de Typhon</span>
   </a>
