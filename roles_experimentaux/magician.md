@@ -101,7 +101,7 @@ et les <span style="color:#d45b5b; font-weight:bold;">Sbires</span> le prennent 
   <li>
     🧞 
     <img src="../images/Icon_vizier.png" alt="Vizir" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_legendaires/vizier.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Vizir</a> :  
+    <a href="..//roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a> :  
     Si le Vizir est en jeu, le Magicien n’a pas de capacité,  
     mais il est immunisé contre la capacité du Vizir.
   </li>
