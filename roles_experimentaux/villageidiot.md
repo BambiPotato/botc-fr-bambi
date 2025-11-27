@@ -67,7 +67,7 @@ Les <strong>Idiots du Village</strong> forment un groupe qui apprend l’alignem
 
   <li>
     <img src="../images/Icon_boffin.png" alt="Boffin" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/boffin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Boffin</a> :  
+    <a href="../roles_experimentaux/boffin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boffin</a> :  
     S’il reste un jeton disponible, le Boffin peut donner au <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
     la capacité d’<strong>Idiot du Village</strong>.
   </li>
