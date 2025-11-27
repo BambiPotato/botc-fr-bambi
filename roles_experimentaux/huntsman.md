@@ -230,7 +230,7 @@ Rien ne se passe : le Chasseur perd sa capacité et ne se réveille plus la nuit
 
   <li>Le Chasseur est aussi un excellent bluff de secours :  
       si votre premier bluff (par exemple 
-      <a href="../tb_roles/lavageuse.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Blanchisseuse</a> ou 
+      <a href="../tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> ou 
       <a href="../tb_roles/vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Vierge</a>)  
       commence à s’effondrer, vous pouvez « révéler » que vous étiez en réalité le Chasseur  
       et que vous cachiez votre véritable rôle.</li>
