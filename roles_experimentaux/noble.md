@@ -218,7 +218,7 @@ et Julien est le
       ce qui reste très difficile à démentir.  
       Même si certains effets (comme un 
       <a href="../roles_experimentaux/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cultivateur de pavot</a>  
-      ou une 
+      ou un
       <a href="../roles_experimentaux/magician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Magicien</a>)  
       brouillent votre vision de qui est Sbire ou Démon,  
       vous avez de grandes chances de désigner au moins un rôle maléfique par hasard.  
