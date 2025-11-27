@@ -46,23 +46,23 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
 </p>
 
 <!-- SOMMAIRE NUMÉROTÉ -->
-<h2 style="color:#f5f5f5; font-weight:800; font-size:22px; text-align:left; margin-top:18px;">📑 Sommaire</h2>
-<ol style="color:#f5f5f5; font-size:18px; line-height:1.7; padding-left:20px; margin-top:6px;">
-  <li><a href="#1-synopsis" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Synopsis</a></li>
-  <li><a href="#2-gameplay" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Gameplay</a></li>
-  <li><a href="#3-villageois" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Villageois</a></li>
-  <li><a href="#4-etrangers" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Étrangers</a></li>
-  <li><a href="#5-sbires" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Sbires</a></li>
-  <li><a href="#6-demons" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Démons</a></li>
-  <li><a href="#7-legendaires" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Légendaires</a></li>
-  <li><a href="#8-lorics" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Lorics</a></li>
-  <li><a href="#9-voyageurs" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Voyageurs</a></li>
+<h2 style="color:#4ea3ff; font-weight:800; font-size:22px; text-align:left; margin-top:18px;">📑 Sommaire</h2>
+<ol style="color:#4ea3ff; font-size:18px; line-height:1.7; padding-left:20px; margin-top:6px;">
+  <li><a href="#1-synopsis" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Synopsis</a></li>
+  <li><a href="#2-gameplay" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gameplay</a></li>
+  <li><a href="#3-villageois" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a></li>
+  <li><a href="#4-etrangers" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a></li>
+  <li><a href="#5-sbires" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sbires</a></li>
+  <li><a href="#6-demons" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Démons</a></li>
+  <li><a href="#7-legendaires" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Légendaires</a></li>
+  <li><a href="#8-lorics" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lorics</a></li>
+  <li><a href="#9-voyageurs" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyageurs</a></li>
 </ol>
 
 <hr style="border-color:rgba(224,185,122,0.3); margin:14px 0 10px;">
 
 <!--  VILLAGEOIS -->
-<h2 id="3-villageois" style="color:#4ea3ff; font-weight:800; font-size:22px; text-align:left;">3. Villageois</h2>
+<h2 id="3-villageois" style="color:#4ea3ff; font-weight:800; font-size:22px; text-align:left;"> Villageois</h2>
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
 
@@ -221,7 +221,7 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
 <hr style="border-color:rgba(224,185,122,0.2); margin:14px 0 10px;">
 
 <!--  ÉTRANGERS -->
-<h2 id="4-etrangers" style="color:#4ea3ff; font-weight:800; font-size:22px; text-align:left;">4. Étrangers</h2>
+<h2 id="4-etrangers" style="color:#4ea3ff; font-weight:800; font-size:22px; text-align:left;">Étrangers</h2>
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
 
@@ -285,7 +285,7 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
 <hr style="border-color:rgba(224,185,122,0.2); margin:14px 0 10px;">
 
 <!--  SBIRES -->
-<h2 id="5-sbires" style="color:#d45b5b; font-weight:800; font-size:22px; text-align:left;">5. Sbires</h2>
+<h2 id="5-sbires" style="color:#d45b5b; font-weight:800; font-size:22px; text-align:left;">Sbires</h2>
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
 
@@ -369,7 +369,7 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
 <hr style="border-color:rgba(224,185,122,0.2); margin:14px 0 10px;">
 
 <!-- DÉMONS -->
-<h2 id="6-demons" style="color:#d45b5b; font-weight:800; font-size:22px; text-align:left;">6. Démons</h2>
+<h2 id="6-demons" style="color:#d45b5b; font-weight:800; font-size:22px; text-align:left;">Démons</h2>
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
 
@@ -428,7 +428,7 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
 <hr style="border-color:rgba(224,185,122,0.2); margin:14px 0 10px;">
 
 <!--  LÉGENDAIRES -->
-<h2 id="7-legendaires" style="color:#e0b97a; font-weight:800; font-size:22px; text-align:left;">7. Légendaires</h2>
+<h2 id="7-legendaires" style="color:#e0b97a; font-weight:800; font-size:22px; text-align:left;">Légendaires</h2>
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
 
@@ -447,7 +447,7 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
 <hr style="border-color:rgba(224,185,122,0.2); margin:14px 0 10px;">
 
 <!-- LORICS -->
-<h2 id="8-lorics" style="color:#4caf50; font-weight:800; font-size:22px; text-align:left;">8. Lorics</h2>
+<h2 id="8-lorics" style="color:#4caf50; font-weight:800; font-size:22px; text-align:left;">Lorics</h2>
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
 
@@ -486,7 +486,7 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
 <hr style="border-color:rgba(224,185,122,0.2); margin:14px 0 10px;">
 
 <!-- 9. VOYAGEURS -->
-<h2 id="9-voyageurs" style="color:#9b59b6; font-weight:800; font-size:22px; text-align:left;">9. Voyageurs</h2>
+<h2 id="9-voyageurs" style="color:#9b59b6; font-weight:800; font-size:22px; text-align:left;">Voyageurs</h2>
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
 
