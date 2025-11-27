@@ -52,7 +52,7 @@ title: Grande Prêtresse
 ## 📖 <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Chaque nuit, vous apprenez avec quel joueur le Conteur pense que vous devriez le plus parler. »</strong>
+  <strong>« Chaque nuit, vous apprenez à quel joueur le Conteur pense que vous devriez parler le plus »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
