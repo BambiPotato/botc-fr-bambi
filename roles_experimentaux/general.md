@@ -51,8 +51,7 @@ title: Général
 ## 📖 <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>«  <li>Chaque nuit, vous apprenez quelle équipe est en train de gagner selon la Conteuse  :  
-      <strong>le Bien</strong>, <strong>le Mal</strong>, ou <strong>aucune des deux</strong>.</li> »</strong>
+  <strong>« Chaque nuit, vous apprenez quelle équipe est en train de gagner selon la conteuse : le Bien, le Mal, ou aucune des deux. »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -74,7 +73,7 @@ mais il sait, nuit après nuit, quelle équipe la conteuse juge en train de mene
 
   <li>Ce jugement tient compte de nombreux facteurs :  
       nombre de joueurs bons et maléfiques encore en vie, qualité des informations du Bien,  
-      efficacité des bluffs maléfiques, cibles probables d’exécution, expérience du Démon, etc.</li>
+      efficacité des bluffs maléfiques, cibles probables d’exécution, expérience du <span style="color:#d45b5b; font-weight:bold;">Démon</span>, etc.</li>
 
   <li>La décision de la conteuse est prise au moment où le Général se réveille.  
       Tout ce qui s’est passé plus tôt dans la nuit (meurtres, empoisonnements, capacités résolues)  
@@ -109,7 +108,7 @@ Ensuite, réveillez le Général et :
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Rendormez ensuite le Général.  
 Ne donnez jamais d’explications supplémentaires : l’intérêt de ce rôle  
-vient justement de l’interprétation et des déductions du joueur.
+vient justement de l’interprétation et des déductions du joueur ou de la joueuse.
 </p>
 
 ---
@@ -129,14 +128,15 @@ La conteuse considère que le Mal a encore l’avantage et montre un <strong>pou
 
 L’équipe du Bien dispose de nombreuses informations,  
 et pense à juste titre que ses fausses pistes sont bien des mensonges.  
-Le seul Sbire est mort.  
+Le seul <span style="color:#d45b5b; font-weight:bold;">Sbire</span> est mort.  
 La conteuse estime que le Bien mène la partie et montre un <strong>pouce levé</strong>.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
-Le <a href="../bmr_roles/po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a> est joué par une personne très expérimentée  
-et coordonne remarquablement bien avec les Sbires.  
+Le 
+<a href="../bmr_roles/po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a> est joué par une personne très expérimentée  
+et coordonne remarquablement bien avec les <span style="color:#d45b5b; font-weight:bold;">Sbires</span>.  
 Le 
 <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> protège avec succès le 
 <a href="../sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a> chaque nuit,  
@@ -153,12 +153,12 @@ Tout peut encore basculer : la conteuse montre un <strong>pouce sur le côté</s
 
   <li>Gardez à l’esprit que votre information dépend de l’<strong>opinion</strong> de la conteuse.  
       Elle ne se base pas uniquement sur les mécaniques, mais aussi sur la dynamique de la table,  
-      les joueuses et joueurs expérimentés, les bluffs habituels, etc.</li>
+      les joueurs et joueuses expérimentés, les bluffs habituels, etc.</li>
 
   <li>Reliez toujours le signal reçu (Bien / Mal / neutre)  
       aux événements de la journée précédente :  
-      une exécution, un outing important ou un gros retournement de situation  
-      a souvent un impact direct sur la tendance que vous percevez.</li>
+      une exécution, une révélation publique importante ou un gros retournement de situation  
+      ont souvent un impact direct sur la tendance que vous percevez.</li>
 
   <li>Notez l’évolution de vos informations d’une nuit à l’autre.  
       Sur plusieurs jours, vous obtenez une sorte de « courbe » de la partie :  
@@ -166,7 +166,7 @@ Tout peut encore basculer : la conteuse montre un <strong>pouce sur le côté</s
       Cette vue d’ensemble est très précieuse sur les derniers jours.</li>
 
   <li>Prêtez attention au consensus du village :  
-      si la table veut exécuter des joueuses et joueurs réellement maléfiques  
+      si la table veut exécuter des joueurs ou joueuses réellement maléfiques  
       et que la conteuse vous indique que le Bien gagne,  
       cela renforce la confiance dans ces lectures.  
       À l’inverse, si le village veut exécuter des personnes probablement bonnes  
@@ -174,9 +174,9 @@ Tout peut encore basculer : la conteuse montre un <strong>pouce sur le côté</s
 
   <li>Si votre information passe brutalement de « le Bien gagne » à « le Mal gagne »  
       (ou l’inverse) en une seule nuit, c’est un indice très fort  
-      qu’un événement majeur s’est produit (exécution clé, action de  
+      qu’un événement majeur s’est produit (exécution clé, action d’une  
       <a href="../tb_roles/bibliothecaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bibliothécaire</a>,  
-      d’
+      d’un ou d’une 
       <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a>, etc.).</li>
 
   <li>Si, nuit après nuit, le Bien semble gagner, annoncez-le au groupe.  
@@ -190,7 +190,7 @@ Tout peut encore basculer : la conteuse montre un <strong>pouce sur le côté</s
       <a href="../tb_roles/bibliothecaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bibliothécaire</a> très écoutée,  
       questionner une 
       <a href="../tb_roles/vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Vierge</a> réputée sûre,  
-      ou reconsidérer les infos d’un 
+      ou reconsidérer les infos d’un ou d’une 
       <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a>.</li>
 
   <li>Acceptez que votre rôle soit parfois frustrant :  
@@ -215,8 +215,8 @@ Tout peut encore basculer : la conteuse montre un <strong>pouce sur le côté</s
       Le village pensera qu’il était maléfique, alors qu’il était en réalité du Bon côté.</li>
 
   <li>Si vous savez que le Bien reçoit beaucoup de bonnes informations  
-      (par exemple via un 
-      <a href="../sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a> protégé par un 
+      (par exemple via un ou une 
+      <a href="../sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a> protégé·e par un 
       <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a>),  
       affirmez que le Mal est en train de gagner.  
       Vous semez ainsi le doute sur les rôles les plus utiles.</li>
@@ -225,13 +225,13 @@ Tout peut encore basculer : la conteuse montre un <strong>pouce sur le côté</s
       que le Bien gagne, alors que le Mal domine réellement.  
       Le village gardera le cap sur de mauvaises lectures  
       et risquera d’exécuter la mauvaise personne lors du dernier jour  
-      — par exemple un prétendu 
-      <a href="../tb_roles/fossoyeur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a>  
-      ou une fausse 
-      <a href="../sv_roles/maladroit.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maladroit·e</a> (Klutz).</li>
+      — par exemple un ou une 
+      <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-Mort</a>  
+      ou un ou une 
+      <a href="../sv_roles/maladroit.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maladroit</a>.</li>
 
   <li>Pour un bluff plus « crédible » mais moins destructeur,  
-      faites varier vos annonces entre « Bien », « neutre » et « Mal »  
+      faites varier vos annonces entre « Bien », « neutre » et « Maléfique »  
       de manière cohérente avec les grands événements :  
       tentative d’exécution d’un 
       <a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Goblin</a>,  
@@ -240,14 +240,14 @@ Tout peut encore basculer : la conteuse montre un <strong>pouce sur le côté</s
       activation d’une 
       <a href="../tb_roles/vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Vierge</a>, etc.</li>
 
-  <li>Quand un événement majeur survient (exécution d’un Démon présumé,  
-      outing d’un 
+  <li>Quand un événement majeur survient (exécution d’un <span style="color:#d45b5b; font-weight:bold;">Démon</span> présumé,  
+      révélation publique d’un 
       <a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Goblin</a>,  
-      ou mort étrange suivie d’un claim de 
+      ou mort étrange suivie d’une déclaration d'un 
       <a href="../sv_roles/maladroit.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maladroit</a>),  
       profitez-en pour annoncer un changement brutal de tendance.  
       Cela donnera l’illusion que vos informations collent parfaitement  
-      à la narration du village.</li>
+      à la narration que le village est en train de construire.</li>
 
 </ul>
 
