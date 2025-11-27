@@ -55,7 +55,7 @@ title: Prédicateur
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Prédicateur</strong> retire leur pouvoir aux <span style="color:#d45b5b; font-weight:bold;">Sbires</span> qu’il touche… tant qu’il reste vivant, sobre et en bonne santé.
+Le <strong>Prédicateur</strong> supprime les capacités des <span style="color:#d45b5b; font-weight:bold;">Sbires</span>.
 </p>
 
 ---
