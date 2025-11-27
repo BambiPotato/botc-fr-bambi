@@ -55,7 +55,7 @@ title: Princesse
   <li>
     🧞 
     <img src="../images/Icon_alhadikhia.png" alt="Al-Hadikhia" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../bmr_roles/alhadikhia.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Al-Hadikhia</a> :  
+    <a href="../roles_experimentaux/alhadikhia.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Al-Hadikhia</a> :  
     Si la Princesse a nommé et fait exécuter un joueur lors de son premier jour,  
     personne ne meurt à cause d’Al-Hadikhia cette nuit-là.
   </li>
@@ -63,7 +63,7 @@ title: Princesse
   <li>
     🧞 
     <img src="../images/Icon_cannibal.png" alt="Cannibale" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../bmr_roles/cannibal.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cannibale</a> :  
+    <a href="../roles_experimentaux/cannibal.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cannibale</a> :  
     Si le Cannibale a nommé, fait exécuter et tué la Princesse aujourd’hui,  
     le <span style="color:#d45b5b; font-weight:bold;">Démon</span> ne tue personne cette nuit.
   </li>
