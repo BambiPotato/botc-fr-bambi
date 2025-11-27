@@ -166,11 +166,14 @@ et de la
 <a href="../sv_roles/dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a>.  
 Persuadé d’être l’
 <a href="../bmr_roles/exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a>,  
-il choisit un joueur chaque nuit, mais son information est arbitraire car il est ivre.  
-Lilian finit par dire en public qu’il pense être Mutant&nbsp;: la conteuse décide alors de l’exécuter à cause de cette capacité.  
-À sa mort, sa capacité de 
-<a href="../sv_roles/dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a>
-rend ivre l’
+il choisit un joueur chaque nuit. 
+Lilian finit par dire en public qu’il pense être l'
+<a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>,  
+&nbsp;: la conteuse décide alors de l’exécuter à cause de la capacité du
+<a href="../sv_roles/mutant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mutant</a>.
+À sa mort, en raison de la capacité de la
+<a href="../sv_roles/dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a>,
+il rend ivre l’
 <a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a>.
 </p>
 
