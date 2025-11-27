@@ -36,7 +36,7 @@ title: Shugenja
 
 ---
 
-## <span style="color:#4ea3ff;">Informations</span>
+##🧾 <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
@@ -48,7 +48,7 @@ title: Shugenja
 
 ---
 
-## <span style="color:#4ea3ff;">Résumé</span>
+## 📖 <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Vous commencez en apprenant si votre voisin maléfique le plus proche est dans le sens horaire ou antihoraire.  
@@ -62,7 +62,7 @@ et à se méfier de ceux de l’autre côté.
 
 ---
 
-## <span style="color:#4ea3ff;">Détails</span>
+## ⚙️ <span style="color:#4ea3ff;">Détails</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -94,7 +94,7 @@ et à se méfier de ceux de l’autre côté.
 
 ---
 
-## <span style="color:#4ea3ff;">Comment Conter</span>
+## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Lors de la première nuit, réveillez le Shugenja.
@@ -119,7 +119,7 @@ Puis rendormez le Shugenja.
 
 ---
 
-## <span style="color:#4ea3ff;">Exemples</span>
+## 🧩 <span style="color:#4ea3ff;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
@@ -147,7 +147,7 @@ que le joueur maléfique le plus proche est dans le sens horaire.
 
 ---
 
-## <span style="color:#4ea3ff;">Astuces et Conseils</span>
+## 💡<span style="color:#4ea3ff;">Astuces et Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -242,7 +242,7 @@ que le joueur maléfique le plus proche est dans le sens horaire.
 
 ---
 
-## <span style="color:#4ea3ff;">Bluffer en tant que Shugenja</span>
+## 🎭 <span style="color:#4ea3ff;">Bluffer en tant que Shugenja</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
