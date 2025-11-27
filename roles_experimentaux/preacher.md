@@ -51,7 +51,7 @@ title: Prédicateur
 ## 📖 <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Chaque nuit, vous choisissez un joueur : si c’est un Sbire, il l’apprend. Tous les Sbires ainsi choisis n’ont plus de capacité. »</strong>
+  <strong>« Chaque nuit, vous choisissez un joueur : un Sbire, s'il est choisi, l’apprend. Tous les Sbires choisis n’ont plus de capacité. »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -68,15 +68,16 @@ Le <strong>Prédicateur</strong> retire leur pouvoir aux <span style="color:#d45
     🧞 
     <img src="../images/Icon_legion.png" alt="Legion" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Legion</a> :  
-    Si le Prédicateur choisit Legion, <span style="color:#d45b5b; font-weight:bold;">Legion</span> garde sa capacité,  
-    mais le Prédicateur peut apprendre que ce groupe est bien Legion.
+    Si le Prédicateur choisit une Légion, le joueur 
+    <span style="color:#d45b5b; font-weight:bold;">Légion</span> garde sa capacité,  
+    mais le Prédicateur peut apprendre que c’est une Légion.
   </li>
 
   <li>
     🧞 
-    <img src="../images/Icon_summoner.png" alt="Summoner" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/summoner.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Summoner</a> :  
-    Si le Summoner vivant n’a plus de capacité, le Conteur ou la conteuse utilise la capacité du Summoner à sa place.
+    <img src="../images/Icon_summoner.png" alt="Invocateur" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/summoner.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Invocateur</a> :  
+    Si l’Invocateur vivant n’a plus de capacité, le Conteur possède la capacité de l’Invocateur à sa place.
   </li>
 
   <li>
@@ -101,7 +102,7 @@ Le <strong>Prédicateur</strong> retire leur pouvoir aux <span style="color:#d45
 
   <li>Si la personne choisie n’est pas un Sbire, rien ne se passe.</li>
 
-  <li>Le Prédicateur peut choisir des joueurs et joueuses morts.</li>
+  <li>Le Prédicateur peut choisir des joueurs et des joueuses morts.</li>
 
   <li>Si le Prédicateur est ivre ou empoisonné au moment où il choisit,  
       la cible n’est pas affectée par sa capacité cette nuit-là.</li>
@@ -141,26 +142,26 @@ Il ou elle pointe un joueur. Endormez ensuite le Prédicateur.
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
-Le Prédicateur, <strong>Cédric</strong>, pointe 
-<a href="../roles_experimentaux/engineer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Nicolas, l’Ingénieur</a>.  
+Le Prédicateur, <strong>Cédric</strong>, pointe Nicolas,  
+<a href="../roles_experimentaux/engineer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">l’Ingénieur</a>.  
 Nicolas n’est pas un Sbire : rien ne se passe.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
-Le Prédicateur pointe 
-<a href="../sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vanessa, la Cerenovus</a>.  
+Le Prédicateur pointe Vanessa,  
+<a href="../sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">la Cerenovus</a>.  
 Vanessa se réveille, apprend qu’elle a été prêchée par le Prédicateur  
-et n’est plus réveillée pour utiliser sa capacité pendant que le Prédicateur fonctionne.
+et n’est plus réveillée pour utiliser sa capacité tant que le Prédicateur fonctionne.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
-<strong>Cédric</strong> est Prédicateur. Il pointe 
-<a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Leelou, la Pit-Hag</a>.  
+<strong>Cédric</strong> est Prédicateur. Il pointe Leelou, la  
+<a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a>.  
 Leelou se réveille pour apprendre qu’elle a été prêchée et perd sa capacité.  
-La nuit suivante, le 
-<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Poisonneur</a>  
+La nuit suivante, l’  
+<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>  
 choisit Cédric.  
 Tant que Cédric est empoisonné, Leelou se réveille de nouveau pour utiliser sa capacité.
 </p>
@@ -171,26 +172,27 @@ Tant que Cédric est empoisonné, Leelou se réveille de nouveau pour utiliser s
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
-  <li>La capacité du Prédicateur coupe net les pouvoirs des <span style="color:#d45b5b; font-weight:bold;">Sbires</span>.  
-      Ils et elles le savent, mais les récupèreront dès que vous mourrez.  
+  <li>La capacité du Prédicateur coupe net les pouvoirs des  
+      <span style="color:#d45b5b; font-weight:bold;">Sbires</span>.  
+      Ils et elles le savent, mais les récupèrent dès que vous mourrez.  
       Comme vous ne savez pas toujours si vous avez touché un Sbire,  
       observez attentivement vos cibles le lendemain :  
-      si leur comportement change brusquement, qu’elles deviennent très actives  
+      si leur comportement change brusquement, qu’ils ou elles deviennent très actifs  
       sur les exécutions, vous avez peut-être trouvé un Sbire désespéré.</li>
 
   <li>Faites attention à la façon dont vous révélez votre rôle.  
       Vous êtes une véritable épine dans le pied de l’équipe maléfique :  
-      vous pouvez désamorcer un 
+      vous pouvez désamorcer un  
       <a href="../roles_experimentaux/boomdandy.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boomdandy</a>  
-      ou contrecarrer un 
+      ou contrecarrer un  
       <a href="../roles_experimentaux/mezepheles.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mezepheles</a>.  
       Rien que la menace de retirer la capacité d’un Sbire peut faire exploser  
       les plans les plus élaborés du Mal, et faire de vous une cible prioritaire.</li>
 
   <li>N’hésitez pas à bluffer un rôle de Villageois plus discret,  
-      ou un Étranger comme le 
+      ou un Étranger comme le  
       <a href="../tb_roles/majordome.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Majordome</a>  
-      ou le 
+      ou le  
       <a href="../bmr_roles/barbier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Barbier</a>,  
       pour détourner l’attention de vous.</li>
 
@@ -201,17 +203,18 @@ Tant que Cédric est empoisonné, Leelou se réveille de nouveau pour utiliser s
 
   <li>Au premier jour, écoutez bien qui fait des annonces publiques.  
       Les Sbires ne reçoivent pas de bluffs garantis et arrivent souvent en dernier  
-      dans les déclarations. Ceux qui se retrouvent dans des doubles-claims tardifs  
+      dans les déclarations.  
+      Ceux qui se retrouvent dans des doubles claims tardifs  
       sont d’excellentes cibles pour votre capacité.</li>
 
   <li>Si vous hésitez entre deux Sbires possibles, visez celui ou celle  
       qui cause le plus de dégâts sur la durée.  
-      Neutraliser un 
+      Neutraliser un  
       <a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>  
       après son unique meurtre ne change plus grand-chose,  
-      mais priver une 
+      mais priver une  
       <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a>  
-      de sa capacité ou une Pit-Hag de ses transformations  
+      de son poison ou une Pit-Hag de ses transformations  
       est un énorme coup de pouce pour le Bien.</li>
 
   <li>Une fois mort, si vous pensez avoir désactivé un ou plusieurs Sbires,  
@@ -220,11 +223,11 @@ Tant que Cédric est empoisonné, Leelou se réveille de nouveau pour utiliser s
 
   <li>Le Prédicateur peut aussi cibler des morts.  
       Cela ne servira pas souvent, mais cela fait de vous un contre très surprenant  
-      pour un 
+      pour un  
       <a href="../sv_roles/vigormortis.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vigormortis</a>  
       ou un  
-      <a href="../roles_experimentaux/bonecollector.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Collecteur d’Os</a>  
-      maléfique, qui continueraient à agir depuis la tombe.</li>
+      <a href="../voyageurs/collecteurdos.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Collecteur d’os</a>  
+      qui continuent à agir depuis la tombe.</li>
 
 </ul>
 
@@ -241,7 +244,7 @@ Tant que Cédric est empoisonné, Leelou se réveille de nouveau pour utiliser s
 
   <li>Pour crédibiliser votre bluff, coordonnez-vous avec l’équipe maléfique  
       afin de faire disparaître temporairement la capacité d’un Sbire visible,  
-      comme la 
+      comme la  
       <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a>  
       ou la Cerenovus.  
       Si, pendant quelques nuits, il n’y a plus de morts de Sorcière  
@@ -255,7 +258,7 @@ Tant que Cédric est empoisonné, Leelou se réveille de nouveau pour utiliser s
       pour qu’il paraisse moins dangereux et survive plus longtemps.</li>
 
   <li>Si le comportement d’un joueur change brutalement d’un jour à l’autre,  
-      vous pouvez prétendre que c’est parce que vous l’avez choisi hier soir.  
+      vous pouvez prétendre que c’est parce que vous l’avez choisi la nuit précédente.  
       Cela sous-entend qu’il vient d’apprendre qu’il n’a plus de capacité.</li>
 
   <li>Vous pouvez aussi utiliser votre faux pouvoir pour construire de la confiance :  
@@ -263,8 +266,7 @@ Tant que Cédric est empoisonné, Leelou se réveille de nouveau pour utiliser s
       que vous l’avez choisi la nuit dernière.  
       Expliquez que comme il ne semble pas avoir changé de comportement,  
       vous le trouvez plus crédible, car il n’est probablement pas Sbire.  
-      C’est un peu l’équivalent d’un bluff de Majordome :  
-      votre simple « choix » peut suffire à inspirer de la confiance.</li>
+      Rien que ce « choix » peut suffire à inspirer de la confiance.</li>
 
   <li>Si votre bluff initial s’effondre, vous pouvez révéler  
       que vous étiez le Prédicateur depuis le début.  
@@ -272,23 +274,25 @@ Tant que Cédric est empoisonné, Leelou se réveille de nouveau pour utiliser s
       il est crédible que vous ayez menti pour ne pas mourir trop tôt  
       et empêcher les Sbires de retrouver leurs capacités.</li>
 
-  <li>Vous pouvez mourir la nuit de manière volontaire  
-      (par exemple en tant qu’Imp en faisant un star-pass)  
+  <li>Vous pouvez aussi mourir la nuit de manière volontaire,  
+      par exemple en tant qu’  
+      <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Imp</a>  
+      en transmettant le rôle,  
       puis vous révéler comme Prédicateur pour accuser quelques bons joueurs d’être Sbires.  
       Un Prédicateur mort la nuit a souvent plus de poids qu’un Prédicateur exécuté.</li>
 
   <li>Une fois mort, vous pouvez vraiment « vendre » l’idée  
       que vous étiez le véritable Prédicateur si un Sbire complice  
       commence à utiliser sa capacité de façon très voyante :  
-      un meurtre de 
+      un meurtre d’  
       <a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>,  
-      une protection de 
+      une protection de  
       <a href="../bmr_roles/avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">l’Avocat du Diable</a>,  
-      ou le retour d’une 
+      ou le retour d’une  
       <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a>.  
       Pointez un joueur précis et dites :  
       « Ils étaient tranquilles tant que j’étais en vie… maintenant regardez le chaos ! »  
-      Si cela fonctionne, la ville sera soulagée par votre sacrifice  
+      Si cela fonctionne, le Village sera soulagée par votre sacrifice  
       et furieuse contre votre bouc émissaire.</li>
 
 </ul>
