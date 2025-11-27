@@ -149,8 +149,8 @@ Nicolas n’est pas un Sbire : rien ne se passe.
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
-Le Prédicateur pointe Vanessa,  
-<a href="../sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">la Cerenovus</a>.  
+Le Prédicateur pointe Vanessa, la 
+<a href="../sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a>.  
 Vanessa se réveille, apprend qu’elle a été prêchée par le Prédicateur  
 et n’est plus réveillée pour utiliser sa capacité tant que le Prédicateur fonctionne.
 </p>
@@ -193,7 +193,7 @@ Tant que Cédric est empoisonné, Leelou se réveille de nouveau pour utiliser s
       ou un Étranger comme le  
       <a href="../tb_roles/majordome.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Majordome</a>  
       ou le  
-      <a href="../bmr_roles/barbier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Barbier</a>,  
+      <a href="../sv_roles/barbier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Barbier</a>,  
       pour détourner l’attention de vous.</li>
 
   <li>Un joueur ou une joueuse très suspecte, qui reste à l’écart,  
@@ -226,7 +226,7 @@ Tant que Cédric est empoisonné, Leelou se réveille de nouveau pour utiliser s
       pour un  
       <a href="../sv_roles/vigormortis.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vigormortis</a>  
       ou un  
-      <a href="../voyageurs/collecteurdos.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Collecteur d’os</a>  
+      <a href="../voyageurs/bonecollector.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Collecteur d’os</a>  
       qui continuent à agir depuis la tombe.</li>
 
 </ul>
@@ -286,8 +286,8 @@ Tant que Cédric est empoisonné, Leelou se réveille de nouveau pour utiliser s
       commence à utiliser sa capacité de façon très voyante :  
       un meurtre d’  
       <a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>,  
-      une protection de  
-      <a href="../bmr_roles/avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">l’Avocat du Diable</a>,  
+      une protection de l'
+      <a href="../bmr_roles/avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a>,  
       ou le retour d’une  
       <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a>.  
       Pointez un joueur précis et dites :  
