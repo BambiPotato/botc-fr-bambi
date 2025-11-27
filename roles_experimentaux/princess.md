@@ -63,7 +63,7 @@ title: Princesse
   <li>
     🧞 
     <img src="../images/Icon_cannibal.png" alt="Cannibale" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../bmr_roles/cannibale.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cannibale</a> :  
+    <a href="../bmr_roles/cannibal.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cannibale</a> :  
     Si le Cannibale a nommé, fait exécuter et tué la Princesse aujourd’hui,  
     le <span style="color:#d45b5b; font-weight:bold;">Démon</span> ne tue personne cette nuit.
   </li>
@@ -190,9 +190,9 @@ choisit la Princesse, qui ne meurt pas.
       comme si vous n’étiez pas la Princesse.  
       Vous pouvez prétendre que cette exécution fera un bon repas  
       pour un 
-      <a href="../bmr_roles/cannibale.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cannibale</a>,  
+      <a href="../bmr_roles/cannibal.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cannibale</a>,  
       ou qu’elle permettra de confirmer un rôle via un 
-      <a href="../tb_roles/croquemorts.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-morts</a>.</li>
+      <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-mort</a>.</li>
 
   <li>Vous pouvez aussi choisir de ne pas utiliser votre capacité.  
       Restez discrète, observez, et voyez si quelqu’un d’autre  
@@ -201,7 +201,7 @@ choisit la Princesse, qui ne meurt pas.
   <li>Peut-on déclencher votre capacité sans tuer réellement quelqu’un ?  
       Cherchez les raisons pour lesquelles une personne pourrait survivre  
       à une exécution, comme une 
-      <a href="../sv_roles/tealady.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dame au Thé</a>  
+      <a href="../bmr_roles/damedethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dame de Thé</a>  
       ou un 
       <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a>.</li>
 
