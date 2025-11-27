@@ -143,7 +143,7 @@ Ne faites pas les étapes habituelles d’<strong>infos Sbires</strong> et d’<
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Si le Cultivateur de pavot meurt, marquez son jeton avec le rappel <strong>LE MAL SE RÉVEILLE</strong>.  
+Si le Cultivateur de pavot meurt, marquez son jeton avec le rappel <strong>LES MALÉFIQUES SE RÉVEILLENT</strong>.  
 Cette nuit-là :
 </p>
 
