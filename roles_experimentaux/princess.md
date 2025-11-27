@@ -154,7 +154,7 @@ choisit la
 <a href="../roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a>,  
 qui ne meurt pas.  
 Le 
-<a href="../tb_roles/crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur</a>  
+<a href="../sv_roles/crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur</a>  
 apprend qu’un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> a nommé aujourd’hui,  
 ce qui est une fausse information à cause du Vortox.
 </p>
@@ -190,7 +190,7 @@ choisit la Princesse, qui ne meurt pas.
       comme si vous n’étiez pas la Princesse.  
       Vous pouvez prétendre que cette exécution fera un bon repas  
       pour un 
-      <a href="../bmr_roles/cannibal.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cannibale</a>,  
+      <a href="../roles_experimentaux/cannibal.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cannibale</a>,  
       ou qu’elle permettra de confirmer un rôle via un 
       <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-mort</a>.</li>
 
