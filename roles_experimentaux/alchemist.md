@@ -70,7 +70,7 @@ Les jinxes suivants concernent l’<strong>Alchimiste</strong> et modifient sa c
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
-  <li>
+  <li> 🧞
     <img src="../images/Icon_boffin.png" alt="Boffin" width="26" style="vertical-align:middle; border-radius:6px; margin-right:6px;">
     <a href="../roles_experimentaux/boffin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boffin</a> :  
     Si l’Alchimiste a la capacité du Boffin, il n’apprend pas quelle capacité a le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.
@@ -95,7 +95,7 @@ Les jinxes suivants concernent l’<strong>Alchimiste</strong> et modifient sa c
     S’ils sont sobres tous les deux, ils sont tous deux ivres.
   </li>
 
-  <li>
+  <li> 🧞
     <img src="../images/Icon_spy.png" alt="Espion" width="26" style="vertical-align:middle; border-radius:6px; margin-right:6px;">
     <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espion</a> :  
     Un Alchimiste-Espion n’a pas la capacité de l’Espion et un Espion est en jeu.  
@@ -103,14 +103,14 @@ Les jinxes suivants concernent l’<strong>Alchimiste</strong> et modifient sa c
     Si c’est correct, le <span style="color:#d45b5b; font-weight:bold;">Démon</span> doit choisir l’Espion cette nuit.
   </li>
 
-  <li>
+  <li> 🧞
     <img src="../images/Icon_summoner.png" alt="Invocateur" width="26" style="vertical-align:middle; border-radius:6px; margin-right:6px;">
     <a href="../roles_experimentaux/summoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocateur</a> :  
     L’Alchimiste-Invocateur ne reçoit pas de bluffs et choisit le type de <span style="color:#d45b5b; font-weight:bold;">Démon</span>, mais pas le joueur.  
     S’il meurt avant que le Démon ne soit créé, les <span style="color:#d45b5b; font-weight:bold;">Maléfiques</span> gagnent. <span style="opacity:.8;">[Pas de Démon]</span>
   </li>
 
-  <li>
+  <li> 🧞
     <img src="../images/Icon_widow.png" alt="Veuve" width="26" style="vertical-align:middle; border-radius:6px; margin-right:6px;">
     <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a> :  
     Un Alchimiste-Veuve n’a pas la capacité de la Veuve et une Veuve est en jeu.  
@@ -118,7 +118,7 @@ Les jinxes suivants concernent l’<strong>Alchimiste</strong> et modifient sa c
     Si c’est correct, le Démon doit choisir la Veuve cette nuit.
   </li>
 
-  <li>
+  <li> 🧞
     <img src="../images/Icon_wraith.png" alt="Spectre" width="26" style="vertical-align:middle; border-radius:6px; margin-right:6px;">
     <a href="../roles_experimentaux/wraith.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Spectre</a> :  
     Un Alchimiste-Spectre n’a pas la capacité de Spectre et un Spectre est en jeu.  
