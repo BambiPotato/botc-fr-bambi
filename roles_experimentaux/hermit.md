@@ -169,7 +169,7 @@ Persuadé d’être l’
 il choisit un joueur chaque nuit. 
 Lilian finit par dire en public qu’il pense être l'
 <a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>,  
-&nbsp;: la conteuse décide alors de l’exécuter à cause de la capacité du
+la conteuse décide alors de l’exécuter à cause de la capacité du
 <a href="../sv_roles/mutant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mutant</a>.
 À sa mort, en raison de la capacité de la
 <a href="../sv_roles/dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a>,
