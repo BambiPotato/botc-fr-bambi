@@ -19,18 +19,18 @@ title: EXPERIMENTAUX
 </div>
 
 <!-- Titre principal -->
-<h1 style="color:#d4a76a; font-weight:800; font-size:42px; text-align:left; margin:10px 0 4px;">
+<h1 style="color:#d4a76a; font-weight:800; font-size:20px; text-align:left; margin:10px 0 4px;">
   🎠 The Carousel Expérimental
 </h1>
 
 <!-- INTRO -->
-<p style="text-align:left; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:6px; line-height:1.7;">
+<p style="text-align:left; color:#f5f5f5; font-style:italic; font-size:16px; margin-top:6px; line-height:1.7;">
   « 🎠 <strong>Les rôles expérimentaux du <em>Carousel</em></strong> ouvrent la porte à de nouvelles mécaniques audacieuses et inédites.
 Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent les limites de <em>Blood on the Clocktower</em> et invitent à explorer des expériences de jeu aussi surprenantes que captivantes. »
 </p>
 
 <!-- 1. SYNOPSIS -->
-<h2 id="1-synopsis" style="color:#f5f5f5; font-weight:800; font-size:22px; text-align:left; margin-top:18px;">1. Synopsis</h2>
+<h2 id="1-synopsis" style="color:#d4a76a; font-weight:800; font-size:16px; text-align:left; margin-top:18px;">1. Synopsis</h2>
 <h3 style="color:#f5f5f5; font-weight:800; font-size:20px; text-align:left; margin:6px 0 10px;">The Carousel Expérimental</h3>
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:22px;">
   <li>Les rôles expérimentaux sont des rôles qui <strong>n’ont pas encore de script officiel attitré</strong>.</li>
@@ -39,15 +39,15 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
 </ul>
 
 <!-- 2. GAMEPLAY -->
-<h2 id="2-gameplay" style="color:#f5f5f5; font-weight:800; font-size:22px; text-align:left; margin-top:18px;">2. Gameplay</h2>
+<h2 id="2-gameplay" style="color:#d4a76a; font-weight:800; font-size:16px; text-align:left; margin-top:18px;">2. Gameplay</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
   👉 <span style="color:#f5f5f5; font-weight:bold;">Niveau : Expérimenté</span><br>
   🎠 Les rôles expérimentaux du <em>Carousel</em> sont recommandés aux joueuses, joueurs et Conteurs ayant déjà une bonne expérience du jeu <em>Blood on the Clocktower</em>.
 </p>
 
 <!-- SOMMAIRE NUMÉROTÉ -->
-<h2 style="color:#4ea3ff; font-weight:800; font-size:22px; text-align:left; margin-top:18px;">📑 Sommaire</h2>
-<ol style="color:#4ea3ff; font-size:18px; line-height:1.7; padding-left:20px; margin-top:6px;">
+<h2 style="color:#f5f5f5; font-weight:800; font-size:16px; text-align:left; margin-top:18px;">📑 Sommaire</h2>
+<ol style="color:#f5f5f5; font-size:18px; line-height:1.7; padding-left:16px; margin-top:6px;">
   <li><a href="#1-synopsis" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Synopsis</a></li>
   <li><a href="#2-gameplay" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gameplay</a></li>
   <li><a href="#3-villageois" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a></li>
