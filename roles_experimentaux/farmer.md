@@ -28,7 +28,7 @@ title: Fermier
   </a>
 </div>
 
-# 🌾 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Fermier</span>
+# 🧑‍🌾 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Fermier</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Même les puissants ont besoin de quelqu’un pour remplir leurs assiettes. Sans nous, la ville meurt de faim. »
@@ -76,7 +76,7 @@ Le <strong>Fermier</strong> se multiplie : chaque fois qu’un Fermier meurt la 
     🧞 
     <img src="../images/Icon_riot.png" alt="Riot" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> :  
-    Chaque nuit*, Riot choisit un joueur bon vivant différent des nuits précédentes.  
+    Chaque nuit*, le Riot choisit un joueur bon vivant différent des nuits précédentes.  
     Si ce joueur est un <strong>Fermier</strong>, il utilise sa capacité mais ne meurt pas.
   </li>
 
@@ -106,7 +106,7 @@ Le <strong>Fermier</strong> se multiplie : chaque fois qu’un Fermier meurt la 
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Si un <strong>Fermier</strong> meurt cette nuit, au moment approprié de la nuit, choisissez un joueur bon vivant.  
-Réveillez ce joueur, montrez-lui le jeton d’information <strong>YOU ARE</strong>,  
+Réveillez ce joueur, montrez-lui le jeton d’information <strong>VOUS ÊTES</strong>,  
 puis le jeton de rôle <strong>Fermier</strong>, puis rendormez-le.  
 Remplacez son ancien jeton de rôle dans le grimoire par celui de Fermier.
 </p>
@@ -230,13 +230,13 @@ Il n’y a plus d’Enfant de chœur ni d’Hérétique en jeu, mais trois Fermi
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
-  <li><strong>Cannibale / Faussaire / Pixie</strong> :  
+  <li><strong>Cannibale / Philosophe / Pixie</strong> :  
       Si un joueur qui a gagné la capacité de Fermier (par exemple le 
       <a href="../roles_experimentaux/cannibal.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cannibale</a>,  
       le 
-      <a href="../roles_experimentaux/faussaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Faussaire</a>  
+      <a href="../sv_roles/philosophe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Philosophe</a>  
       ou la 
-      <a href="../sv_roles/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a>)  
+      <a href="../roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a>)  
       meurt dans la nuit, il transforme un joueur bon vivant en Fermier,  
       quel que soit son véritable rôle.</li>
 
@@ -244,7 +244,7 @@ Il n’y a plus d’Enfant de chœur ni d’Hérétique en jeu, mais trois Fermi
       Si la 
       <a href="../bmr_roles/femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de chambre</a>  
       choisit un joueur qui commence la nuit avec un autre rôle (qui ne se réveille pas ou se réveille plus tard)  
-      et qu’il devient Fermier en cours de nuit (et se réveille pour l’apprendre),  
+      et qu’il devient Fermier pendant la nuit (et se réveille pour l’apprendre),  
       ce réveil ne compte pas pour sa propre capacité.  
       Il se réveille pour être informé du changement de rôle, pas pour utiliser une capacité.  
       En revanche, s’il s’est déjà réveillé plus tôt dans la nuit pour sa capacité initiale,  
@@ -265,13 +265,13 @@ Il n’y a plus d’Enfant de chœur ni d’Hérétique en jeu, mais trois Fermi
       En revanche, une Commère peut tuer un Fermier, ce qui déclenchera bien la capacité du Fermier.  
       La Commère qui a tué ce Fermier peut même devenir Fermier elle-même.</li>
 
-  <li><strong>Mamie</strong> :  
+  <li><strong>Grand-Mère</strong> :  
       Si la 
-      <a href="../roles_experimentaux/mamie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mamie</a>  
+      <a href="../bmr_roles/grandmere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Grand-Mère</a>  
       est la descendante et qu’elle devrait mourir tandis qu’elle devient Fermier,  
       c’est au choix de la conteuse :  
-      soit la Mamie devient Fermier et ne meurt pas (sa capacité de Mamie n’étant plus en jeu),  
-      soit elle meurt de sa capacité de Mamie et ne devient pas Fermier.  
+      soit la Grand-Mère devient Fermier et ne meurt pas (sa capacité de Grand-Mère n’étant plus en jeu),  
+      soit elle meurt de sa capacité de Grand-Mère et ne devient pas Fermier.  
       Le plus simple est souvent d’éviter de la transformer en Fermier.</li>
 
   <li><strong>Lycanthrope</strong> :  
@@ -284,8 +284,8 @@ Il n’y a plus d’Enfant de chœur ni d’Hérétique en jeu, mais trois Fermi
   <li><strong>Mathématicien</strong> :  
       Le 
       <a href="../sv_roles/mathematicien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mathématicien</a>  
-      n’ajoute pas +1 au résultat simplement parce qu’un joueur perd sa capacité pour devenir Fermier.  
-      Aux yeux du Mathématicien, ce joueur est désormais Fermier et sa capacité fonctionne correctement.</li>
+      ne déclenche pas de +1 pour une capacité qui n’aurait pas fonctionné simplement parce qu’un joueur perd sa capacité en devenant Fermier.
+      Pour le Mathématicien, ce joueur est désormais un Fermier dont la capacité fonctionne normalement..</li>
 
   <li><strong>Maire</strong> :  
       Le 
