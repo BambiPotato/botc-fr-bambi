@@ -28,7 +28,7 @@ title: Pixie
   </a>
 </div>
 
-# 🧚 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Pixie</span>
+# 🧸 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Pixie</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Tourne, tourne dans le jardin.  
@@ -58,8 +58,8 @@ title: Pixie
 ## 📖 <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Vous commencez en apprenant un rôle de villageois en jeu.  
-Si vous êtes fou d’être ce rôle, vous gagnez sa capacité quand le joueur qui a vraiment ce rôle meurt. »</strong>
+  <strong>« Vous commencez en apprenant un rôle de Villageois en jeu.  
+  Si vous êtes fou d’être ce rôle, vous gagnez sa capacité quand le joueur qui a vraiment ce rôle meurt. »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -75,22 +75,22 @@ La <strong>Pixie</strong> prétend être le même rôle qu’un autre joueur ou 
   <li>La première nuit, la Pixie apprend un rôle de 
       <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> en jeu.  
       C’est la conteuse qui choisit quel rôle de Villageois montrer.  
-      La Pixie ne sait pas quel joueur ou quelle joueuse a ce rôle.</li>
+      La Pixie ne sait pas quel joueur a ce rôle.</li>
 
-  <li>Si la Pixie prétend vraiment être ce Villageois, elle gagne la capacité de ce Villageois quand celui-ci meurt.  
-      Elle peut avoir parlé fort d’être ce rôle pendant une journée,  
-      avoir prétendu être ce rôle tous les jours de la partie,  
-      ou encore avoir accusé le vrai Villageois de mentir.  
-      La conteuse décide si la Pixie a été suffisamment convaincante  
-      pour être considérée comme « folle » de ce rôle.</li>
+  <li>Si la Pixie se comporte réellement comme ce Villageois,  
+      elle gagne sa capacité lorsque ce Villageois meurt.  
+      La Pixie peut revendiquer ce rôle avec insistance  
+      ou contredire ouvertement le vrai Villageois.  
+      La conteuse choisit alors si cette imitation est assez convaincante  
+      pour la considérer « folle » de ce rôle.</li>
 
-  <li>Quand le ou la Villageoise meurt, la Pixie ne l’apprend pas directement  
-      et on ne lui dit pas qu’elle a gagné une nouvelle capacité.  
-      Elle peut s’en rendre compte si elle se réveille la nuit et commence à obtenir des informations  
+  <li>Lorsque le Villageois concerné meurt, la Pixie ne l’apprend pas immédiatement.  
+      On ne lui annonce pas non plus qu’elle a gagné une nouvelle capacité.  
+      Elle peut s’en rendre compte uniquement si elle se réveille durant la nuit pour agir  
       ou si on lui demande soudain de choisir des joueurs.</li>
 
-  <li>Si le ou la Villageoise que la Pixie a vu change de rôle puis meurt,  
-      la Pixie gagne la capacité du rôle de Villageois qu’elle a vu au départ,  
+  <li>Si le Villageois que la Pixie a vu change de rôle puis meurt,  
+      la Pixie gagne la capacité du rôle de Villageois montré au départ,  
       et non celle de son nouveau rôle.</li>
 
 </ul>
@@ -101,15 +101,15 @@ La <strong>Pixie</strong> prétend être le même rôle qu’un autre joueur ou 
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Pendant la première nuit, choisissez un rôle de Villageois en jeu  
-et placez le jeton de rappel <strong>FOU</strong> de la Pixie sur ce jeton de rôle.
+et placez le jeton de rappel <strong>FOU</strong> de la Pixie sur ce jeton de rôle.  
 Réveillez ensuite la Pixie, montrez-lui le jeton de rôle de Villageois,  
 puis rendormez-la.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Si le Villageois marqué <strong>FOU (Mad)</strong> meurt et que vous jugez que le joueur ou la joueuse Pixie  
-a été suffisamment « FOU » d'être ce rôle, remplacez le jeton de rappel <strong>FOU</strong>  
-par le rappel <strong>A la capacité (Has Abitlity)</strong>.  
+a été suffisamment « fou » d’être ce rôle, remplacez le jeton de rappel <strong>FOU</strong>  
+par le rappel <strong>A LA CAPACITÉ (HAS ABILITY)</strong>.  
 La Pixie a maintenant la capacité de ce Villageois et se réveillera la nuit  
 au même moment que ce rôle normalement.
 </p>
@@ -165,19 +165,19 @@ car la conteuse juge qu’elle n’a pas suffisamment prétendu être ce rôle.
       Faites tout pour le faire exécuter.  
       Une fois cela fait, vous gagnerez sa capacité – cela en vaut largement la peine.</li>
 
-  <li>Commencez à revendiquer ce rôle doublon dès la première minute du premier jour  
+  <li>Commencez à revendiquer ce rôle en doublon dès la première minute du premier jour  
       et continuez chaque jour.  
       Cela convaincra le groupe que vous êtes vraiment ce rôle  
-      et montrera au ou à la conteuse que vous êtes bien « folle ».</li>
+      et montrera à la conteuse ou au conteur que vous êtes bien « folle ».</li>
 
   <li>Vous pouvez aussi ne rien dire pendant quelques jours.  
       Ne parlez pas du tout de ce rôle au début.  
       Puis, le jour où vous pensez pouvoir faire exécuter ce joueur ou cette joueuse,  
       devenez soudain très insistante en vous déclarant comme ce rôle.  
-      Si le ou la conteuse estime que votre « folie » a conduit à cette exécution,  
+      Si la conteuse ou le conteur estime que votre « folie » a conduit à cette exécution,  
       il est très probable que vous gagniez la capacité de Pixie.</li>
 
-  <li>Une fois que vous avez gagné la capacité de votre rôle doublon,  
+  <li>Une fois que vous avez gagné la capacité de votre rôle,  
       vous pouvez révéler publiquement que vous êtes la Pixie.  
       Vous avez désormais cette nouvelle capacité pour le reste de la partie,  
       profitez-en et expliquez au Villageois (et au groupe)  
@@ -185,20 +185,20 @@ car la conteuse juge qu’elle n’a pas suffisamment prétendu être ce rôle.
       Une petite excuse pour ce pauvre rôle sacrifié ne fera pas de mal.</li>
 
   <li>Si vous admettez que vous êtes la Pixie avant d’avoir gagné la capacité,  
-      cela comptera comme le fait de ne pas être « folle » de votre rôle doublon  
+      cela comptera comme le fait de briser votre folie  
       et vous ne gagnerez presque sûrement pas sa capacité.  
       Mieux vaut garder ce secret.</li>
 
   <li>Si vous pouvez discuter en privé avec le vrai Villageois et lui dire que vous êtes sa Pixie,  
       il ou elle acceptera peut-être de se faire exécuter.  
-      Attention cependant : si le ou la conteuse vous entend prétendre être la Pixie,  
-      vous cessez d’être « folle » et vous ne gagnerez pas la capacité.  
+      Attention cependant : si la conteuse vous entend prétendre être la Pixie,  
+      vous cessez votre « folie » et vous ne gagnerez pas la capacité.  
       De même, si ce joueur ou cette joueuse est maléfique  
-      et rapporte vos propos au conteur ou à la conteuse,  
+      et rapporte vos propos à la conteuse,  
       vous perdrez aussi ce bénéfice.</li>
 
   <li>Soyez active ou actif dans votre folie.  
-      Le conteur ou la conteuse veut voir que vous faites un effort sincère  
+      La conteuse veut voir que vous faites un effort sincère  
       pour convaincre le groupe que vous êtes un rôle que vous n’avez pas.</li>
 
   <li>Adaptez votre stratégie de Pixie au rôle que vous voyez la première nuit.  
@@ -227,7 +227,7 @@ car la conteuse juge qu’elle n’a pas suffisamment prétendu être ce rôle.
       ont peut-être déjà utilisé leur capacité.  
       En les faisant exécuter (si vous avez bien joué votre folie),  
       non seulement vous confirmerez leur rôle,  
-      mais vous obtiendrez un <em>deuxième</em> usage de cette capacité,  
+      mais vous obtiendrerez un <em>deuxième</em> usage de cette capacité,  
       avec de nouvelles informations.</li>
 
   <li>Vous pouvez tester un joueur ou une joueuse qui prétend être Pixie.  
@@ -251,7 +251,7 @@ car la conteuse juge qu’elle n’a pas suffisamment prétendu être ce rôle.
 
   <li>Rien ne vous empêche de dire très tôt que vous êtes Pixie,  
       et donc de renoncer volontairement à gagner une capacité.  
-      Vous commencez la partie en sachant qu’un certain Villageois est en jeu.  
+      Vous commencez la partie en sachant qu’un rôle de Villageois est en jeu.  
       C’est déjà une information utile.  
       La partager peut aider à confirmer qu’un rôle bon existe réellement.</li>
 
@@ -265,10 +265,10 @@ car la conteuse juge qu’elle n’a pas suffisamment prétendu être ce rôle.
 
   <li>Vous êtes un Sbire qui s’est coincé dans une double revendication ?  
       Vous bluffiez 
-      <a href="../sv_roles/damedethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dame de Thé</a>,  
+      <a href="../bmr_roles/damedethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dame de Thé</a>,  
       mais votre voisin ou voisine censé être protégé vient de mourir  
       et l’autre Dame de Thé est soutenue par une très énervée  
-      <a href="../tb_roles/grandmere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Grand-Mère</a> ?  
+      <a href="../bmr_roles/grandmere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Grand-Mère</a> ?  
       Pas de panique. Glissez-vous discrètement auprès de cette personne et chuchotez :  
       « En fait, je suis ta Pixie. »  
       Les Villageois sont souvent ravis d’apprendre qu’une Pixie les double,  
@@ -314,10 +314,10 @@ car la conteuse juge qu’elle n’a pas suffisamment prétendu être ce rôle.
       Assurez-vous de bien connaître ce rôle pour répondre aux questions  
       sur vos « nouvelles informations ».  
       Pensez aussi à la chronologie :  
-      si vous prétendez être une Pixie de 
+      si vous prétendez être la Pixie d'une
       <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>  
       et que la vraie Voyante est morte depuis deux nuits,  
-      vous devriez avoir deux nuits d’infos à raconter.</li>
+      vous devriez avoir deux nuits d’infos.</li>
 
   <li>Si l’un des trois bluffs donnés au Démon est Pixie,  
       cela ouvre beaucoup de possibilités :  
@@ -328,11 +328,10 @@ car la conteuse juge qu’elle n’a pas suffisamment prétendu être ce rôle.
 
   <li>Si Pixie est réellement en jeu, il est peu probable  
       qu’elle se révèle tôt dans la partie.  
-      Si vous identifiez la vraie Pixie  
-      et empêchez à la fois elle et son rôle doublé de mourir,  
-      vous pourrez peut-être revendiquer à la fin  
-      que <em>vous</em> étiez la Pixie,  
-      tandis que la vraie Pixie sera coincée par sa propre folie et son silence.</li>
+      Si vous parvenez à l'identifier et à éviter sa mort, 
+      ainsi que celle de son double, vous pourriez prétendre être la Pixie, 
+      tandis que la véritable Pxie se sentira obligée de garder le silence pour préserver sa folie. 
+      Lorsqu'elle révélera enfin sa véritable identité, elle aura fort à faire pour vous détrôner.</li>
 
 </ul>
 
