@@ -55,7 +55,7 @@ title: Noble
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Noble</strong> apprend que l’un des trois joueurs qu’il voit est maléfique.
+Le <strong>Noble</strong> apprend que l’un des trois joueurs est maléfique.
 </p>
 
 ---
