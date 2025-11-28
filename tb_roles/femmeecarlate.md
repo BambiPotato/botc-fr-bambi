@@ -12,7 +12,7 @@ title: Femme Écarlate
 
 ---
 
-# 💃 Femme Écarlate  
+# 💃 <span style="color:red">Femme Écarlate</span>  
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -26,7 +26,7 @@ title: Femme Écarlate
 
 ---
 
-## ℹ️ Information  
+## 🧾 Information  
 
 - **Type :** [<span style="color:red">**Sbire**</span>](../sbires.md)  
 - **Artiste :** Marianna Carr  
@@ -55,7 +55,7 @@ title: Femme Écarlate
 "Cult of the Clocktower – épisode par Andrew Nathenson"
 </p>
 
-## 📖 Résumé  
+## 📖 <span style="color:red">Résumé</span>    
 
 **« S’il y a 5 joueurs ou plus en vie et que le <span style="color:red">Démon</span> meurt, vous devenez le <span style="color:red">Démon</span>. (Les Voyageurs ne comptent pas.) »**
 
@@ -67,17 +67,18 @@ La **Femme Écarlate** devient le <span style="color:red">Démon</span> si celui
 
 ---
 
-## 🎬 Comment Conter  
+## 🎭 <span style="color:red">Comment Conter</span>   
 
-Si le <span style="color:red">Démon</span> meurt alors qu’il reste 5+ joueurs vivants :  
-- **Remplacez** immédiatement le jeton de la Femme Écarlate par celui du <span style="color:red">Démon</span> (dans *Trouble Brewing*, toujours l’[<span style="color:red">Imp</span>](imp.md)).  
+Si le <span style="color:red">Démon</span> meurt alors qu’il reste plus de 5 joueurs en vie :  
+- **Remplacez** immédiatement le jeton de la Femme Écarlate par celui du <span style="color:red">Démon</span>.
+- Dans *Trouble Brewing*, le Démon est toujours l’[<span style="color:red">Imp</span>](imp.md)).  
 - Placez le jeton de rappel **« Est le Démon »** sur son jeton dans le Grimoire.  
 - La nuit suivante, réveillez le nouveau Imp et montrez-lui le jeton **« Vous êtes »** puis le jeton **Imp**.  
 - Dans d’autres éditions (avec plusieurs Démons), elle prend le type exact du Démon mort.  
 
 ---
 
-## 🧾 Exemples  
+## 🧾 <span style="color:red">Exemples</span>     
 
 - **Il y a 7 joueurs en vie** : L' [<span style="color:red">Imp</span>](imp.md), la Femme Écarlate, 2 Villageois et 3 Voyageurs.  
   → L’[<span style="color:red">Imp</span>](imp.md) est exécuté → la partie s’arrête (les Voyageurs ne comptent pas).  
@@ -91,7 +92,7 @@ Si le <span style="color:red">Démon</span> meurt alors qu’il reste 5+ joueurs
 
 ---
 
-## 💡 Astuces & Conseils  
+## 💡 <span style="color:red">Astuces & Conseils</span>   
 
 - La Femme Écarlate est la plus forte lorsqu’elle **coordonne avec son <span style="color:red">Démon</span>**.  
   → Vous pouvez organiser une mort « volontaire » du Démon pour reprendre le flambeau.  
@@ -106,7 +107,7 @@ Si le <span style="color:red">Démon</span> meurt alors qu’il reste 5+ joueurs
 
 ---
 
-## ⚔️ Combattre la Femme Écarlate  
+## ⚔️ <span style="color:red">Combattre la Femme Écarlate</span>   
 
 - Si vous êtes sûrs d’avoir tué l’[<span style="color:red">Imp</span>](imp.md) mais que la partie continue → **suspicion immédiate** : une Femme Écarlate est probablement en jeu.  
 
@@ -120,12 +121,11 @@ Si le <span style="color:red">Démon</span> meurt alors qu’il reste 5+ joueurs
 - Si un [Enquêteur](enqueteur.md) ou un [Croque-Mort](croquemort.md) révèle qu’elle est en jeu, gardez-la **vivante** : au dernier jour, la question devient « le Démon est-il devenu la Femme Écarlate ? ».  
 
 - Contrairement à d’autres <span style="color:red">Sbires</span>, elle peut vouloir tuer son propre <span style="color:red">Démon</span> pour le remplacer.  
-  → Surveillez les changements d’attitude dès qu’il ne reste plus que 5 joueurs.  
+   - Surveillez les changements d’attitude dès qu’il ne reste plus que 5 joueurs.  
+  
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌛 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
-  <li>😈 <a href="../sbires.html" style="color:red; font-weight:bold; text-decoration:none;">Catégorie : Sbires</a></li>
+  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li>🍺 <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li>😈 <a href="../sbires.html" style="color:red; font-weight:bold; text-decoration:none;">Retour aux Sbires</a></li>
 </ul>
 
