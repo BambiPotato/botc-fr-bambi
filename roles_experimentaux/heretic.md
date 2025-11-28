@@ -158,7 +158,7 @@ Sa capacité ne sert qu’au moment où la partie se termine.
   <li>Si, sans tenir compte de l’Hérétique, la partie devrait se terminer  
       par une victoire de l’équipe du Mal (par exemple, deux joueurs en vie dont un Démon,  
       exécution ratée du dernier jour, effet d’un 
-      <a href="../bmr_roles/mastermind.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mastermind</a>, etc.),  
+      <a href="../bmr_roles/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a>, etc.),  
       annoncez que c’est l’équipe du Bien qui gagne.</li>
 
   <li>Si, sans tenir compte de l’Hérétique, la partie devrait se terminer  
