@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Loric
+title: Lorics
 ---
 
 <p align="left">
@@ -18,7 +18,7 @@ title: Loric
   </a>
 </div>
 
-# 🌿 <span style="color:#4caf50; font-weight:bold; font-size:42px;">Loric</span>
+# 🌿 <span style="color:#4caf50; font-weight:bold; font-size:42px;">Lorics</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Des règles qui bousculent le village et réécrivent la partie. »
@@ -28,34 +28,40 @@ title: Loric
 
 ## 📑 <span style="color:#4caf50;">Sommaire</span>
 
-. [Présentation](#-présentation)  
-. [Comment Conter](#-conter)  
-. [Lorics](#-lorics)  
+  [Présentation](#-présentation)  
+  [Comment Conter](#-conter)  
+  [Lorics](#-lorics)  
 
 ---
 
 ##  <span style="color:#4caf50;">Présentation</span>
 
 <p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
-Les <strong>Lorics</strong> sont des rôles conçus pour les Conteurs.  
-Ils s'apparentent davantage à des règles spéciales qu'à des rôles à part entière. 
-Ils sont immortels et modifient le déroulement même du jeu. 
-Alors que les <em>Légendaire</em> existent surtout pour résoudre des problèmes, 
-<strong>les Lorics</strong> en introduisent de nouveaux pour renouveler l'intérêt et l'intensité de la partie.
+  Les <strong>Lorics</strong> sont des rôles conçus pour les Conteurs.  
+  Ils s'apparentent davantage à des règles spéciales qu'à des rôles à part entière. 
+  Ils sont immortels et modifient le déroulement même du jeu. 
+  Alors que les <em>Légendaires</em> existent surtout pour résoudre des problèmes, 
+  <strong>les Lorics</strong> en introduisent de nouveaux pour renouveler l'intérêt et l'intensité de la partie.
 </p>
 
 ##  <span style="color:#4caf50;">Comment Conter</span>
 <p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
-Les Lorics sont parfaits lorsqu’un groupe connaît très bien un script et souhaite une variante, un rebondissement ou une saveur différente.  
-Pour les intégrer, il suffit d’en choisir un ou plusieurs, d’annoncer au groupe lesquels sont en jeu, puis de placer le jeton du Loric correspondant sur la partie gauche du grimoire, comme rappel.  
-Tous les Lorics doivent être ajoutés au début de la partie, et vous pouvez en utiliser plusieurs, à votre propre risque.
+  Utilisez les Loris quand vous le souhaitez.
+  Si vous avez joué un script particulier de nombreuses fois, 
+  ou si vous voulez simplement changer de rythme, ajouter un Loric donne au jeu une sensation de nouveauté et de différence.
+  Pour inclure un <strong>Loric</strong> dans votre partie, choisissez-en simplement un, 
+  dites au groupe quel Loric est en jeu, et placez le jeton du Loric au centre du côté gauche du <strong>Grimoire</strong> pour rappeler son rôle.
+  Tous les Lorics doivent être ajoutés au début de la partie.
+  En ajouter plusieurs se fait à vos risques et périls.
 </p>
 
 <p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
-Les Lorics ne peuvent pas mourir et ne perdent jamais leur capacité.  
-Ils ne sont affectés par aucun effet du jeu, y compris la mort, l’ivresse ou l’empoisonnement.  
-Comme les Voyageurs et les Légendaires, ils ne comptent jamais dans la condition de victoire « deux joueurs restants en vie » de l'équipe du mal.
+  <strong>Les Lorics ne peuvent ni mourir ni perdre leurs pouvoirs.</strong>   
+  Vous êtes Conteur, pas un joueur ; vos Lorics sont donc immunisés contre tous les effets du jeu, y compris la mort, l’ivresse et l’empoisonnement.
 </p>
+
+<p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
+<strong>Comme les Voyageurs et les Légendaires, ils ne comptent jamais dans la condition de victoire « deux joueurs restants en vie » de l'équipe du mal.</strong>
 
 ---
 
