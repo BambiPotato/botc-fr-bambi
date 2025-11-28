@@ -18,7 +18,7 @@ title: Lorics
   </a>
 </div>
 
-# 🌿 <span style="color:#7fd1ae; font-weight:bold; font-size:42px;">Lorics</span>
+# 🌿 <span style="color:#7fd1ae; font-weight:bold; font-size:18px;">Lorics</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Des règles qui bousculent le village et réécrivent la partie. »
@@ -36,7 +36,7 @@ title: Lorics
 
 ---
 
-## <span id="presentation" style="color:#7fd1ae;">Présentation</span>
+## ℹ️ <span id="presentation" style="color:#7fd1ae;">Présentation</span>
 
 <p style="text-align:left; color:#e0c99d; font-size:18px; line-height:1.7;">
   Les <strong>Lorics</strong> sont des rôles conçus pour les conteurs et conteuses.  
@@ -52,7 +52,7 @@ title: Lorics
 
 ---
 
-## <span id="comment-conter" style="color:#7fd1ae;">Comment Conter</span>
+## 🎭 <span id="comment-conter" style="color:#7fd1ae;">Comment Conter</span>
 
 <p style="text-align:left; color:#e0c99d; font-size:18px; line-height:1.7;">
   Utilisez les Lorics quand vous le souhaitez.  
@@ -88,7 +88,7 @@ title: Lorics
 
 ---
 
-## <span id="lorics" style="color:#7fd1ae;">Lorics</span>
+## 🌿 <span id="lorics" style="color:#7fd1ae;">Lorics</span>
 
 <!-- Cartes : une seule ligne avec scroll horizontal si besoin -->
 <div style="margin: 8px 0 6px 0; text-align:center; white-space:nowrap; overflow-x:auto; padding-bottom:8px;">
