@@ -131,10 +131,10 @@ Décidez ce qui sert le mieux l’équilibre, le fun et la dramaturgie de la par
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Si une capacité (comme celle de la 
-<a href="../roles_experimentaux/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a>)  
+<a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a>)  
 crée une Balance en cours de partie,  
-répétez ce processus à ce moment-là : tous les Sbires encore en vie apprennent  
-<strong>3 nouveaux rôles non en jeu</strong>.
+répétez ce processus à ce moment-là : tous les Sbires apprennent  
+<strong>3 nouveaux rôles qui ne sont pas en jeu</strong>.
 </p>
 
 ---
@@ -146,7 +146,7 @@ La première nuit, le <span style="color:#d45b5b; font-weight:bold;">Démon</spa
 <span style="color:#d45b5b; font-weight:bold;">Sbires</span> apprennent tous que la 
 <a href="../sv_roles/sage.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a>,  
 l’
-<a href="../bmr_roles/innkeeper.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a>  
+<a href="../bmr_roles/aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a>  
 et le 
 <a href="../roles_experimentaux/golem.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Golem</a>  
 ne sont pas en jeu.
