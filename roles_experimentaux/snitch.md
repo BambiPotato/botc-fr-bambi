@@ -70,8 +70,8 @@ La <strong>Balance</strong> donne accidentellement encore plus d’options de bl
     🧞
     <img src="../images/Icon_marionette.png" alt="Marionnette" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/marionette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> :  
-    La Marionnette n’apprend pas 3 rôles non en jeu.  
-    À la place, le <span style="color:#d45b5b; font-weight:bold;">Démon</span> apprend 3 rôles supplémentaires non en jeu.
+    La Marionnette n’apprend pas 3 rôles qui ne sont pas en jeu.  
+    Le <span style="color:#d45b5b; font-weight:bold;">Démon</span> apprend 3 rôles en plus à la place.
   </li>
 
 </ul>
