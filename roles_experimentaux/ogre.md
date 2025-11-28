@@ -31,7 +31,7 @@ title: Ogre
 # 🪓 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Ogre</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « <em>Gronde</em>... <em>grand sourire</em>... »
+  « <em>Grognement</em>... <em>sourire</em>...<em>grognement</em> »
 </p>
 
 ---
