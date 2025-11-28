@@ -65,23 +65,20 @@ Le <strong>Zélote</strong> doit constamment lever la main : tant qu’il y a as
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
-  <li>
-    🧞
-    <img src="/images/Icon_cannibal.png" alt="Cannibale" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+  <li>🧞
+    <img src="/images/Icon_cannibal.png" alt="Cannibale" width="24" style="vertical-align:middle; margin-right:4px;">
     <a href="../roles_experimentaux/cannibal.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cannibale</a> :  
     Si le Cannibale gagne la capacité de Zélote, il l’apprend.
   </li>
 
-  <li>
-    🧞
-    <img src="/images/Icon_legion.png" alt="Legion" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+  <li>🧞
+    <img src="/images/Icon_legion.png" alt="Legion" width="24" style="vertical-align:middle; margin-right:4px;">
     <a href="../roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Legion</a> :  
     Le Zélote peut s’enregistrer comme maléfique pour Legion.
   </li>
 
-  <li>
-    🧞
-    <img src="/images/Icon_vizier.png" alt="Vizir" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+  <li>🧞
+    <img src="/images/Icon_vizier.png" alt="Vizir" width="24" style="vertical-align:middle; margin-right:4px;">
     <a href="../roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a> :  
     Le Zélote peut s’enregistrer comme maléfique pour le Vizir.
   </li>
