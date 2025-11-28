@@ -11,7 +11,7 @@ title: Baron
 </p>
 
 ---
-# 🎩 <span style="color:red">Baron</span>]
+# 🎩 <span style="color:red">Baron</span>
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
