@@ -90,50 +90,52 @@ title: Lorics
 
 ## 🌿 <span id="lorics" style="color:#7fd1ae;">Lorics</span>
 
-<!-- Cartes : une seule ligne avec scroll horizontal si besoin -->
-<div style="margin: 8px 0 6px 0; text-align:center; white-space:nowrap; overflow-x:auto; padding-bottom:8px;">
+<!-- Cartes : UNE SEULE LIGNE, scroll horizontal si besoin -->
+<div style="margin: 8px 0 6px 0; overflow-x:auto; padding-bottom:8px;">
+  <div style="display:flex; flex-wrap:nowrap; justify-content:flex-start; align-items:flex-start; gap:16px;">
 
-  <!-- Bootlegger -->
-  <a href="./loric_roles/bootlegger.html" style="text-decoration:none; display:inline-block; width:280px; margin:0 8px; text-align:center; white-space:normal;">
-    <img src="./images/Icon_bootlegger.png" alt="Bootlegger" style="display:block; margin:0 auto; width:280px; height:auto; border-radius:12px;">
-    <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Bootlegger</span>
-  </a>
+    <!-- Bootlegger -->
+    <a href="./loric_roles/bootlegger.html" style="text-decoration:none; flex:0 0 auto; width:240px; text-align:center;">
+      <img src="./images/Icon_bootlegger.png" alt="Bootlegger" style="display:block; margin:0 auto; width:240px; height:auto; border-radius:12px;">
+      <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Bootlegger</span>
+    </a>
 
-  <!-- Big Wig -->
-  <a href="./loric_roles/bigwig.html" style="text-decoration:none; display:inline-block; width:280px; margin:0 8px; text-align:center; white-space:normal;">
-    <img src="./images/Icon_big_wig.png" alt="Big Wig" style="display:block; margin:0 auto; width:280px; height:auto; border-radius:12px;">
-    <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Big Wig</span>
-  </a>
+    <!-- Big Wig -->
+    <a href="./loric_roles/bigwig.html" style="text-decoration:none; flex:0 0 auto; width:240px; text-align:center;">
+      <img src="./images/Icon_big_wig.png" alt="Big Wig" style="display:block; margin:0 auto; width:240px; height:auto; border-radius:12px;">
+      <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Big Wig</span>
+    </a>
 
-  <!-- Gardener -->
-  <a href="./loric_roles/gardener.html" style="text-decoration:none; display:inline-block; width:280px; margin:0 8px; text-align:center; white-space:normal;">
-    <img src="./images/Icon_gardener.png" alt="Gardener" style="display:block; margin:0 auto; width:280px; height:auto; border-radius:12px;">
-    <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Jardinier</span>
-  </a>
+    <!-- Gardener -->
+    <a href="./loric_roles/gardener.html" style="text-decoration:none; flex:0 0 auto; width:240px; text-align:center;">
+      <img src="./images/Icon_gardener.png" alt="Gardener" style="display:block; margin:0 auto; width:240px; height:auto; border-radius:12px;">
+      <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Jardinier</span>
+    </a>
 
-  <!-- Storm Catcher -->
-  <a href="./loric_roles/stormcatcher.html" style="text-decoration:none; display:inline-block; width:280px; margin:0 8px; text-align:center; white-space:normal;">
-    <img src="./images/Icon_stormcatcher.png" alt="Storm Catcher" style="display:block; margin:0 auto; width:280px; height:auto; border-radius:12px;">
-    <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Attrape-tempête</span>
-  </a>
+    <!-- Storm Catcher -->
+    <a href="./loric_roles/stormcatcher.html" style="text-decoration:none; flex:0 0 auto; width:240px; text-align:center;">
+      <img src="./images/Icon_stormcatcher.png" alt="Storm Catcher" style="display:block; margin:0 auto; width:240px; height:auto; border-radius:12px;">
+      <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Attrape-tempête</span>
+    </a>
 
-  <!-- Tor -->
-  <a href="./loric_roles/tor.html" style="text-decoration:none; display:inline-block; width:280px; margin:0 8px; text-align:center; white-space:normal;">
-    <img src="./images/Icon_tor.png" alt="Tor" style="display:block; margin:0 auto; width:280px; height:auto; border-radius:12px;">
-    <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Tor</span>
-  </a>
+    <!-- Tor -->
+    <a href="./loric_roles/tor.html" style="text-decoration:none; flex:0 0 auto; width:240px; text-align:center;">
+      <img src="./images/Icon_tor.png" alt="Tor" style="display:block; margin:0 auto; width:240px; height:auto; border-radius:12px;">
+      <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Tor</span>
+    </a>
 
-  <!-- Zenomancer  -->
-  <a href="./loric_roles/zenomancer.html" style="text-decoration:none; display:inline-block; width:280px; margin:0 8px; text-align:center; white-space:normal;">
-    <img src="./images/Icon_zenomancer.png" alt="Zenomancer" style="display:block; margin:0 auto; width:280px; height:auto; border-radius:12px;">
-    <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Zénomancien</span>
-  </a>
+    <!-- Zenomancer  -->
+    <a href="./loric_roles/zenomancer.html" style="text-decoration:none; flex:0 0 auto; width:240px; text-align:center;">
+      <img src="./images/Icon_zenomancer.png" alt="Zenomancer" style="display:block; margin:0 auto; width:240px; height:auto; border-radius:12px;">
+      <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Zénomancien</span>
+    </a>
 
+  </div>
 </div>
 
 ---
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7; text-align:left; margin-top:10px;">
   <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌿 <a href="./loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Loric</a></li>
+  <li>🌿 <a href="./loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Lorics</a></li>
 </ul>
