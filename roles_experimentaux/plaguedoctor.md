@@ -5,7 +5,7 @@ title: Docteur de peste
 
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="/images/logogold.png" alt="Accueil BotC FR" width="300">
+    <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
@@ -13,7 +13,7 @@ title: Docteur de peste
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="./plaguedoctor.html" style="text-decoration:none;">
-    <img src="/images/Icon_plaguedoctor.png" alt="Docteur de peste" width="260" style="border-radius:12px;">
+    <img src="../images/Icon_plaguedoctor.png" alt="Docteur de peste" width="260" style="border-radius:12px;">
     <br>
     <span style="color:#4ea3ff; font-weight:bold; font-size:22px;">Docteur de peste</span>
   </a>
@@ -22,7 +22,7 @@ title: Docteur de peste
 <!-- APPARAÎT DANS -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="../experimentaux.html" style="text-decoration:none;">
-    <img src="/images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
+    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
     <br>
     <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
   </a>
@@ -51,7 +51,7 @@ title: Docteur de peste
 ## 📖 <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Quand vous mourrez, la conteuse gagne la capacité d’un Sbire. »</strong>
+  <strong>« Quand vous mourrez, la conteuse ou le conteur gagne la capacité d’un Sbire. »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -66,70 +66,70 @@ Le <strong>Docteur de peste</strong> ajoute une capacité de <span style="color:
 
   <li>
     🧞
-    <img src="/images/Icon_baron.png" alt="Baron" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <img src="../images/Icon_baron.png" alt="Baron" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> :  
-    Si la conteuse gagne la capacité du Baron, jusqu’à deux joueurs deviennent des
+    Si la conteuse ou le conteur gagne la capacité du Baron, jusqu’à deux joueurs deviennent des
     <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>.
   </li>
 
   <li>
     🧞
-    <img src="/images/Icon_boomdandy.png" alt="Boomdandy" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <img src="../images/Icon_boomdandy.png" alt="Boomdandy" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/boomdandy.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boomdandy</a> :  
-    Si la conteuse gagne la capacité du Boomdandy, un joueur devient
+    Si la conteuse ou le conteur gagne la capacité du Boomdandy, un joueur devient
     <a href="../roles_experimentaux/boomdandy.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boomdandy</a>.
   </li>
 
   <li>
     🧞
-    <img src="/images/Icon_eviltwin.png" alt="Jumeau Maléfique" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <img src="../images/Icon_eviltwin.png" alt="Jumeau Maléfique" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../sv_roles/jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumeau Maléfique</a> :  
-    Si la conteuse gagne la capacité du Jumeau Maléfique, un joueur devient
+    Si la conteuse ou le conteur gagne la capacité du Jumeau Maléfique, un joueur devient
     <a href="../sv_roles/jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumeau Maléfique</a>.
   </li>
 
   <li>
     🧞
-    <img src="/images/Icon_fearmonger.png" alt="Fearmonger" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <img src="../images/Icon_fearmonger.png" alt="Fearmonger" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/fearmonger.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fearmonger</a> :  
-    Si la conteuse gagne la capacité du Fearmonger, un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> gagne cette capacité et l’apprend.
+    Si la conteuse ou le conteur gagne la capacité du Fearmonger, un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> gagne cette capacité et l’apprend.
   </li>
 
   <li>
     🧞
-    <img src="/images/Icon_goblin.png" alt="Goblin" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <img src="../images/Icon_goblin.png" alt="Goblin" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Goblin</a> :  
-    Si la conteuse gagne la capacité du Goblin, un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> gagne cette capacité et l’apprend.
+    Si la conteuse ou le conteur gagne la capacité du Goblin, un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> gagne cette capacité et l’apprend.
   </li>
 
   <li>
     🧞
-    <img src="/images/Icon_marionette.png" alt="Marionnette" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <img src="../images/Icon_marionette.png" alt="Marionnette" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/marionette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> :  
-    Si la conteuse gagne la capacité de la Marionnette, l’un des voisins bons du
+    Si la conteuse ou le conteur gagne la capacité de la Marionnette, l’un des voisins bons du
     <span style="color:#d45b5b; font-weight:bold;">Démon</span> devient
     <a href="../roles_experimentaux/marionette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a>.
   </li>
 
   <li>
     🧞
-    <img src="/images/Icon_scarletwoman.png" alt="Femme Écarlate" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <img src="../images/Icon_scarletwoman.png" alt="Femme Écarlate" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../tb_roles/femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme Écarlate</a> :  
-    Si la conteuse gagne la capacité de la Femme Écarlate, un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> gagne cette capacité et l’apprend.
+    Si la conteuse ou le conteur gagne la capacité de la Femme Écarlate, un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> gagne cette capacité et l’apprend.
   </li>
 
   <li>
     🧞
-    <img src="/images/Icon_spy.png" alt="Espion" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <img src="../images/Icon_spy.png" alt="Espion" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espion</a> :  
-    Si la conteuse gagne la capacité de l’Espion, un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> gagne cette capacité et l’apprend.
+    Si la conteuse ou le conteur gagne la capacité de l’Espion, un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> gagne cette capacité et l’apprend.
   </li>
 
   <li>
     🧞
-    <img src="/images/Icon_wraith.png" alt="Wraith" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/wraith.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Spectre</a> :  
-    Si la conteuse gagne la capacité du Spectre, un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> gagne cette capacité et l’apprend.
+    <img src="../images/Icon_wraith.png" alt="Wraith" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/wraith.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Wraith</a> :  
+    Si la conteuse ou le conteur gagne la capacité du Wraith, un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> gagne cette capacité et l’apprend.
   </li>
 
 </ul>
@@ -140,19 +140,19 @@ Le <strong>Docteur de peste</strong> ajoute une capacité de <span style="color:
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
-  <li>Quand le Docteur de peste meurt, la conteuse gagne la capacité d’un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> de son choix présent sur le script.</li>
+  <li>Quand le Docteur de peste meurt, la conteuse ou le conteur gagne la capacité d’un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> de son choix présent sur le script.</li>
 
   <li>Cette capacité reste en jeu pour le reste de la partie.</li>
 
-  <li>La conteuse ne devient pas un joueur : elle ne devient pas maléfique, ne peut pas être ciblée par des capacités, et ne peut ni voter ni nommer.</li>
+  <li>La conteuse ou le conteur ne devient pas un joueur : il ou elle ne devient pas maléfique, ne peut pas être ciblé par des capacités, ne peut ni voter ni nommer.</li>
 
-  <li>Si le Docteur de peste est ivre ou empoisonné au moment de sa mort, aucune capacité de <span style="color:#d45b5b; font-weight:bold;">Sbire</span> n’est gagnée, même si le Docteur de peste redevenait sobre ou sain plus tard.</li>
+  <li>Si le Docteur de peste est ivre ou empoisonné au moment de sa mort, aucune capacité de <span style="color:#d45b5b; font-weight:bold;">Sbire</span> n’est gagnée, même s’il redevenait sobre ou sain plus tard.</li>
 
   <li>Si la capacité gagnée est visible (comme celle d’un 
       <a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Goblin</a>  
       ou d’un 
       <a href="../roles_experimentaux/fearmonger.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fearmonger</a>),  
-      il est possible que le village puisse deviner quel <span style="color:#d45b5b; font-weight:bold;">Sbire</span> a été choisi.</li>
+      il est possible que le Village puisse deviner quel <span style="color:#d45b5b; font-weight:bold;">Sbire</span> a été choisi.</li>
 
 </ul>
 
@@ -197,7 +197,7 @@ Le Docteur de peste est exécuté et la conteuse gagne la capacité du
 Cette nuit-là, la 
 <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a>  
 transforme la 
-<a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a>  
+<a href="../bmr_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a>  
 en Cerenovus.  
 Il y a maintenant deux capacités de Cerenovus en jeu : celle de la conteuse et celle de la nouvelle Cerenovus.
 </p>
@@ -224,7 +224,7 @@ car elle l’a gagnée au moment de la mort du Docteur de peste et n’est pas a
       comme le 
       <a href="../sv_roles/sage.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a>  
       ou la 
-      <a href="../roles_experimentaux/banshee.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Banshee</a>,  
+      <a href="../roles_experimentaux/banshee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Banshee</a>,  
       ou un rôle qui aurait déjà tout appris, comme un éventuel 
       <a href="../roles_experimentaux/knight.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chevalier</a>.  
       Si le Démon pense que vous n’êtes pas prioritaire, il vous laissera en vie.</li>
