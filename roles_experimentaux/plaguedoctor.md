@@ -128,8 +128,8 @@ Le <strong>Docteur de peste</strong> ajoute une capacité de <span style="color:
   <li>
     🧞
     <img src="/images/Icon_wraith.png" alt="Wraith" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/wraith.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Wraith</a> :  
-    Si la conteuse gagne la capacité du Wraith, un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> gagne cette capacité et l’apprend.
+    <a href="../roles_experimentaux/wraith.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Spectre</a> :  
+    Si la conteuse gagne la capacité du Spectre, un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> gagne cette capacité et l’apprend.
   </li>
 
 </ul>
