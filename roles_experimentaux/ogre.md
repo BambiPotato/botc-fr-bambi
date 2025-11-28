@@ -81,7 +81,7 @@ L’<strong>Ogre</strong> est le meilleur ami de quelqu'un.
 
   <li>
     🧞
-    <img src="../images/Icon_recluse.png" alt="Reclus" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <img src="../images/Icon_recluse-1.png" alt="Reclus" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a> :  
     Si le Reclus est enregistré comme maléfique auprès de l’Ogre,  
     l’Ogre apprend qu’il est maléfique.
