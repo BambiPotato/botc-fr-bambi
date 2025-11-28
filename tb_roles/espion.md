@@ -10,7 +10,7 @@ title: Espion
   </a>
 </p>
 
-# Espion
+# <span style="color:red">Espion</span>
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -22,7 +22,7 @@ title: Espion
 </div>
 
 
-## Information
+## 🧾 Information
 - **Type :** [Sbire](../sbires.md) 
 - **Artiste :** Marianna Carr  
 - *« Tout maître brasseur digne de ce nom sait qu’aucune concoction ne crée plus vite des problèmes que celle où les espions semblent doubles. »*
@@ -52,17 +52,18 @@ title: Espion
 </p>
 
 
-## Résumé
+## <span style="color:red">Résumé</span>
 *« Chaque nuit, vous voyez le Grimoire. Vous pouvez apparaître comme Bon et comme un Villageois ou un Étranger, même si vous êtes mort. »*
 
-- L’Espion est un **Sbire maléfique**, mais il peut **s’enregistrer comme Bon** (Villageois ou Étranger) quand une capacité cherche à détecter son alignement.  
-- Il a accès **chaque nuit au Grimoire**, ce qui lui donne une vision complète : rôles, statuts, marqueurs du Conteur.  
-- Il **ne gagne pas les capacités** des rôles sous lesquels il s’enregistre (par ex. : un Espion qui s’enregistre comme **[<span style="color:red">Empoisonneur</span>](empoisonneur.md)** ne peut pas empoisonner).  
+- L’Espion est un **Sbire maléfique**, mais il peut **s’enregistrer comme Bon** comme un Villageois ou un Étranger quand une capacité cherche à détecter son alignement.  
+- Il a accès **chaque nuit au Grimoire**, ce qui lui donne une vision complète de la partie : rôles, statuts, marqueurs du Conteur.  
+- Il **ne gagne pas les capacités** des rôles sous lesquels il s’enregistre par exemple : 
+  un Espion qui s’enregistre comme **[<span style="color:red">Empoisonneur</span>](empoisonneur.md)** ne peut pas empoisonner).  
 - Le Conteur choisit à chaque cas comment l’Espion est perçu par les capacités d’information.
 
 ---
 
-## Comment Conter
+## 🎭 <span style="color:red">Comment Conter</span>
 - Chaque nuit, **réveillez l’Espion** et montrez-lui le **Grimoire complet** aussi longtemps qu’il le souhaite.  
 - Quand une capacité détecte ou affecte un joueur « Bon » / Villageois / Étranger, **choisissez comment l’Espion s’enregistre** :  
   - Montrez un jeton « Bon » si besoin.  
@@ -71,7 +72,7 @@ title: Espion
 
 ---
 
-## Exemples
+## 🧩 <span style="color:red">Exemples</span>
 - La **[Lavandière](../tb_roles/lavandiere.md)** apprend que **Claire** ou **Nicolas** est **[Gardien](../tb_roles/gardien.md)**. En réalité, Claire est **[Moine](../tb_roles/moine.md)**, Douglas est **Espion**, enregistré comme Gardien du corbeau.  
 - L’Espion est voisin de l' **[Imp](im^.md)** et de l’**[Empathique](../tb_roles/empathique.md)**.  
   - Le **[Cuistot](../tb_roles/cuistot.md)** apprend un « 1 » car l’Espion est enregistré comme Maléfique.  
@@ -81,7 +82,7 @@ title: Espion
 
 ---
 
-## 💡Conseils & Astuces (jouer l’Espion)
+## 💡<span style="color:red">Conseils & Astuces</span> 
 - **Mémorisez bien** le Grimoire : vous savez tout dès le début (rôles en jeu, alignements, statuts).  
 - Notez surtout :  
   - Les rôles non utilisés sont parfaits pour **vos bluffs**.  
@@ -95,26 +96,25 @@ title: Espion
 
 ---
 
-## Combattre l’Espion (conseils pour le Bien)
+## ⚔️ <span style="color:red">Combattre l’Espion</span>  
 - Si le Mal **tue vite les bons rôles clés**, c’est peut-être grâce à l’Espion.  
 - **Supposez que le Mal sait tout** et coordonnez vos infos au lieu de garder des secrets.  
 - Attention aux joueurs trop à l’aise pour bluffer des rôles d’information comme **Lavendière** ou **Gardien**.  
 - Les lectures incohérentes d’un **Empathique** ou d'un **Cuistot** peuvent signaler la présence d’un Espion.  
-- Les **Voyageurs** (et rôles comme **Croque-Mort**) peuvent aussi dévoiler qu’un joueur est Espion — mais méfiez-vous, car le Conteur peut volontairement semer la confusion.
+- Les **Voyageurs** et des rôles comme le **Croque-Mort** peuvent aussi dévoiler qu’un joueur est Espion mais méfiez-vous, car le Conteur peut         volontairement semer la confusion.
 
 ---
 
-## Bluff (pour le Mal)
-- **Excellent bluff** car vous savez exactement quels rôles sont disponibles.  
+## 😈 <span style="color:red">Stratégie pour l'Espion</span>   
+- Vous pouvez avoir un **Excellent bluff** car vous savez exactement quels rôles sont disponibles.  
 - Prétendre être vu comme « bon » par un rôle d’info (ex :**[<span style="color:blue">Empathique</span>](empathique.md)**) est crédible.  
 - Prétendre être un **Étranger** peut masquer la présence d’un **[<span style="color:red">Baron</span>](baron.md)**.  
-- Restez cohérent avec vos alliés Sbires/Démon : partagez vos bluffs potentiels en privé… ou subtilement en public.  
-- Le Conteur **confirmera vos bluffs** si vous êtes exécuté et qu’un **[Croque-Mort](croquemort.md)** regarde.  
+- Restez cohérent avec vos alliés Sbires et Démon : partagez vos bluffs potentiels en privé… ou subtilement en public.  
+- Le Conteur **confirmera vos bluffs** si vous êtes exécuté et qu’un **[Croque-Mort](croquemort.md)** reçoit le rôle que vous bluffiez.  
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌛 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
-  <li>😈 <a href="../sbires.html" style="color:red; font-weight:bold; text-decoration:none;">Catégorie : Sbires</a></li>
+  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li>🍺 <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li>😈 <a href="../sbires.html" style="color:red; font-weight:bold; text-decoration:none;">Retour aux Sbires</a></li>
 </ul>
+
