@@ -5,7 +5,7 @@ title: Maître des Puzzles
 
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="/images/logogold.png" alt="Accueil BotC FR" width="300">
+    <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
@@ -13,7 +13,7 @@ title: Maître des Puzzles
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="./puzzlemaster.html" style="text-decoration:none;">
-    <img src="/images/Icon_puzzlemaster.png" alt="Maître des Puzzles" width="260" style="border-radius:12px;">
+    <img src="../images/Icon_puzzlemaster.png" alt="Maître des Puzzles" width="260" style="border-radius:12px;">
     <br>
     <span style="color:#4ea3ff; font-weight:bold; font-size:22px;">Maître des Puzzles</span>
   </a>
@@ -22,7 +22,7 @@ title: Maître des Puzzles
 <!-- APPARAÎT DANS -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="../experimentaux.html" style="text-decoration:none;">
-    <img src="/images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
+    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
     <br>
     <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
   </a>
@@ -122,7 +122,7 @@ Il choisit alors un joueur (en public ou en privé) comme étant celui qui est i
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Dans tous les cas, ne révélez jamais si la devinette était correcte.  
-Marquez le Maître des Puzzles avec un rappel <strong>DEVinette UTILISÉE</strong> pour ne pas oublier qu’il a consommé sa capacité.
+Marquez le Maître des Puzzles avec un rappel <strong>DEVINETTE UTILISÉE</strong> pour ne pas oublier qu’il a consommé sa capacité.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
