@@ -5,7 +5,7 @@ title: Zélote
 
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="/images/logogold.png" alt="Accueil BotC FR" width="300">
+    <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
@@ -13,7 +13,7 @@ title: Zélote
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="./zealot.html" style="text-decoration:none;">
-    <img src="/images/Icon_zealot.png" alt="Zélote" width="260" style="border-radius:12px;">
+    <img src="../images/Icon_zealot.png" alt="Zélote" width="260" style="border-radius:12px;">
     <br>
     <span style="color:#4ea3ff; font-weight:bold; font-size:22px;">Zélote</span>
   </a>
@@ -22,7 +22,7 @@ title: Zélote
 <!-- APPARAÎT DANS -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="../experimentaux.html" style="text-decoration:none;">
-    <img src="/images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
+    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
     <br>
     <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
   </a>
@@ -65,20 +65,23 @@ Le <strong>Zélote</strong> doit constamment lever la main : tant qu’il y a as
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
-  <li>🧞
-    <img src="/images/Icon_cannibal.png" alt="Cannibale" width="24" style="vertical-align:middle; margin-right:4px;">
+  <li>
+    🧞
+    <img src="../images/Icon_cannibal.png" alt="Cannibale" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/cannibal.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cannibale</a> :  
     Si le Cannibale gagne la capacité de Zélote, il l’apprend.
   </li>
 
-  <li>🧞
-    <img src="/images/Icon_legion.png" alt="Legion" width="24" style="vertical-align:middle; margin-right:4px;">
-    <a href="../roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Legion</a> :  
-    Le Zélote peut s’enregistrer comme maléfique pour Legion.
+  <li>
+    🧞
+    <img src="../images/Icon_legion.png" alt="Légion" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> :  
+    Le Zélote peut s’enregistrer comme maléfique pour la Légion.
   </li>
 
-  <li>🧞
-    <img src="/images/Icon_vizier.png" alt="Vizir" width="24" style="vertical-align:middle; margin-right:4px;">
+  <li>
+    🧞
+    <img src="../images/Icon_vizier.png" alt="Vizir" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a> :  
     Le Zélote peut s’enregistrer comme maléfique pour le Vizir.
   </li>
