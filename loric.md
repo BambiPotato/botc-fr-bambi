@@ -29,9 +29,9 @@ title: Lorics
 ## 📑 <span style="color:#7fd1ae;">Sommaire</span>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <a href="#presentation" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">- Présentation</a><br>
-  <a href="#comment-conter" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">- Comment Conter</a><br>
-  <a href="#lorics" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">- Lorics</a>
+  <a href="#presentation" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">ℹ️ Présentation</a><br>
+  <a href="#comment-conter" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">🎭 Comment Conter</a><br>
+  <a href="#lorics" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">🌿 Lorics</a>
 </p>
 
 ---
@@ -90,47 +90,46 @@ title: Lorics
 
 ## 🌿 <span id="lorics" style="color:#7fd1ae;">Lorics</span>
 
-<!-- Cartes : une seule ligne horizontale -->
-<table style="margin: 8px auto 6px auto; border-collapse:separate; border-spacing:12px; text-align:center;">
-  <tr>
-    <td>
-      <a href="./loric_roles/bootlegger.html" style="text-decoration:none; display:inline-block; width:240px;">
-        <img src="./images/Icon_bootlegger.png" alt="Bootlegger" style="display:block; margin:0 auto; width:240px; height:auto; border-radius:12px;">
-        <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Bootlegger</span>
-      </a>
-    </td>
-    <td>
-      <a href="./loric_roles/bigwig.html" style="text-decoration:none; display:inline-block; width:240px;">
-        <img src="./images/Icon_big_wig.png" alt="Big Wig" style="display:block; margin:0 auto; width:240px; height:auto; border-radius:12px;">
-        <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Big Wig</span>
-      </a>
-    </td>
-    <td>
-      <a href="./loric_roles/gardener.html" style="text-decoration:none; display:inline-block; width:240px;">
-        <img src="./images/Icon_gardener.png" alt="Gardener" style="display:block; margin:0 auto; width:240px; height:auto; border-radius:12px;">
-        <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Jardinier</span>
-      </a>
-    </td>
-    <td>
-      <a href="./loric_roles/stormcatcher.html" style="text-decoration:none; display:inline-block; width:240px;">
-        <img src="./images/Icon_stormcatcher.png" alt="Storm Catcher" style="display:block; margin:0 auto; width:240px; height:auto; border-radius:12px;">
-        <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Attrape-tempête</span>
-      </a>
-    </td>
-    <td>
-      <a href="./loric_roles/tor.html" style="text-decoration:none; display:inline-block; width:240px;">
-        <img src="./images/Icon_tor.png" alt="Tor" style="display:block; margin:0 auto; width:240px; height:auto; border-radius:12px;">
-        <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Tor</span>
-      </a>
-    </td>
-    <td>
-      <a href="./loric_roles/zenomancer.html" style="text-decoration:none; display:inline-block; width:240px;">
-        <img src="./images/Icon_zenomancer.png" alt="Zenomancer" style="display:block; margin:0 auto; width:240px; height:auto; border-radius:12px;">
-        <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Zénomancien</span>
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- Cartes : grille responsive, plusieurs cartes par ligne -->
+<div style="margin: 8px 0 6px 0; display:flex; flex-wrap:wrap; justify-content:center; gap:16px;">
+
+  <!-- Bootlegger -->
+  <a href="./loric_roles/bootlegger.html" style="text-decoration:none; flex:0 1 200px; text-align:center;">
+    <img src="./images/Icon_bootlegger.png" alt="Bootlegger" style="display:block; margin:0 auto; width:200px; height:auto; border-radius:12px;">
+    <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Bootlegger</span>
+  </a>
+
+  <!-- Big Wig -->
+  <a href="./loric_roles/bigwig.html" style="text-decoration:none; flex:0 1 200px; text-align:center;">
+    <img src="./images/Icon_big_wig.png" alt="Big Wig" style="display:block; margin:0 auto; width:200px; height:auto; border-radius:12px;">
+    <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Big Wig</span>
+  </a>
+
+  <!-- Gardener -->
+  <a href="./loric_roles/gardener.html" style="text-decoration:none; flex:0 1 200px; text-align:center;">
+    <img src="./images/Icon_gardener.png" alt="Gardener" style="display:block; margin:0 auto; width:200px; height:auto; border-radius:12px;">
+    <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Jardinier</span>
+  </a>
+
+  <!-- Storm Catcher -->
+  <a href="./loric_roles/stormcatcher.html" style="text-decoration:none; flex:0 1 200px; text-align:center;">
+    <img src="./images/Icon_stormcatcher.png" alt="Storm Catcher" style="display:block; margin:0 auto; width:200px; height:auto; border-radius:12px;">
+    <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Attrape-tempête</span>
+  </a>
+
+  <!-- Tor -->
+  <a href="./loric_roles/tor.html" style="text-decoration:none; flex:0 1 200px; text-align:center;">
+    <img src="./images/Icon_tor.png" alt="Tor" style="display:block; margin:0 auto; width:200px; height:auto; border-radius:12px;">
+    <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Tor</span>
+  </a>
+
+  <!-- Zenomancer  -->
+  <a href="./loric_roles/zenomancer.html" style="text-decoration:none; flex:0 1 200px; text-align:center;">
+    <img src="./images/Icon_zenomancer.png" alt="Zenomancer" style="display:block; margin:0 auto; width:200px; height:auto; border-radius:12px;">
+    <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Zénomancien</span>
+  </a>
+
+</div>
 
 ---
 
