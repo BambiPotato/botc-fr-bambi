@@ -1,154 +1,382 @@
-__NOTOC__
-<div class="row">
+---
+layout: default
+title: Politicien
+---
 
-	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+<p align="left">
+  <a href="/botc-fr-bambi/">
+    <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
+  </a>
+</p>
 
-		<div id='character-details'>
+<!-- Politicien -->
 
-			[[File:icon_politician.png|250px]]
-			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
-
-			<table style="width: 90%; margin: 0 auto;">
-				<tr>
-					<td>Type</td>
-					<td>[[Character Types#Outsider|Outsider]]</td>
-				</tr>
-				<tr>
-					<td>Artist</td>
-					<td>Chloe McDougall</td>			
-				</tr>
-				<tr>
-					<td>Revealed</td>
-					<td>04/07/2020</td>			
-				</tr>
-			</table>
-
-			<p class='flavour'>"I'm glad you asked that question. Truly, I am. But I think the REAL question here is..."</p>
-
-		</div>
-
-		<div id='jinxes'>
-
-			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
-				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
-			</span>
-			<table style="width: 90%; margin: 0 auto;">
-{{Jinx|Boffin|boffin|Evil|The Demon cannot have the Politician ability.}}
-{{Jinx|Legion|legion|Evil|The Politician might register as evil to Legion.}}
-{{Jinx|Pit-Hag|pithag|Evil|If the Pit-Hag turns an evil player into the Politician, they can't turn good due to their own ability.}}
-{{Jinx|Vizier|vizier|Evil|The Politician might register as evil to the Vizier.}}
-			</table>
-
-		</div>
-
+<div style="text-align:center; margin: 20px 0;">
+  <a href="./politician.html" style="text-decoration:none;">
+    <img src="../images/Icon_politician.png" alt="Politicien" width="260" style="border-radius:12px;">
+    <br>
+    <span style="color:#4ea3ff; font-weight:bold; font-size:22px;">Politicien</span>
+  </a>
 </div>
 
-<div class="small-12 large-9 large-pull-3 columns">
-
-	<div class="row">
-
-		<div class="small-12 large-6 columns">
-== Summary ==
-"If you were the player most responsible for your team losing, you change alignment & win, even if dead."
-
-The Politician changes teams if they are losing.
-* When the game ends, if the Politician was responsible for good losing, then the Politician turns evil and wins too.
-* The player needs to be very influential when determining who wins. Simply spreading false information or voting for good players is usually not enough – they need to be the player that was more responsible for the good team losing than any other good player, and preferably more responsible than any one evil player too. The Storyteller is the judge of whether the Politician’s actions qualify.
-* The Politician may still win with the good team, as normal.
-* A drunk or poisoned Politician can not change teams.
-		</div>
-
-		<div class="small-12 large-6 columns" style="padding-right: 0;">
-
-== How to Run ==
-When the game ends, if good lost and you feel that this was significantly due to the words and actions of the Politician player, declare that the Politician turns evil and wins too.
-
-In the rare instance that the Politician is evil, and plays a big part in losing the game for evil, declare that the Politician turns good and wins with the good team.
-		</div>
-
-	</div>
-
-	<div class='row'>
-
-		<div class="small-12 large-12 columns" style="padding-right: 0;">
-
-== Examples ==
-
-			<div class='example'>
-				The Politician has been trying to execute the Demon all game, without success. With just three players alive, the Politician convinces the group to not execute, since someone is claiming to be the {{Good|Mayor}}. There is no execution, and evil wins because a Minion was bluffing as the {{Good|Mayor}}. The Politician wins too.
-			</div>
-
-			<div class='example'>
-				On the final day, the Politician votes for the {{Good|Empath}}, and tells the group that the {{Good|Empath}} is evil. The {{Good|Saint}} is executed instead. The Storyteller judges that the good team lost due to their own actions as a group, not just the bad advice of the Politician. Good loses, and the Politician loses.
-			</div>
-
-			<div class='example'>
-				The Politician, believing that evil is winning, bluffs as the {{Good|Atheist}}. The Storyteller is executed. Evil wins, and the Politician wins too.
-			</div>
-
-		</div>
-
-	</div>
-
-	<div class='row'>
-
-		<div class="small-12 large-12 columns" style="padding-right: 0;">
-
-== Tips & Tricks ==
-
-* Come out with a bluff on day 1, and then stick with it. Don’t deviate from your claim, don’t change up your story, remain a consistent, static source of false information, and an unfailing obstacle to the good team’s ability to piece together the truth. Claim to be an {{Good|Artist}} who learned that {{Evil|Legion}} is in play, and force the good team to take that into account.
-
-* Bluff as extreme and ridiculous as you can! The more outlandish your bluff, the more chance that you will be the player most responsible for the loss, should the good team believe it! Pretend to be the {{Good|Atheist}}! Pretend a {{Good|Saint}} is your {{Evil|Evil Twin}}! Claim that you were Snakecharmed, then turned into the {{Good|Klutz}}! Dominate the game with your crazy schemes and spread as much misinformation as possible. If the good team believes you, you can lock in a win for the evil team. Even if they don’t, the havoc you have bring may be enough to lose the game for the good team anyway.
-
-* Bluff quietly and well. Do everything you can to make sure no one suspects you are the Politician, then feed in a crucial piece of misinformation at the last possible second. Come out with a piece of false {{Good|Seamstress}} information on the final day that frames a good player as evil, and clinch the win.
-
-* Make up some false information, and go hard after a specific player. Pretend to be an {{Good|Investigator}}, a {{Good|Fortune Teller}}, a {{Good|Bounty Hunter}}, and set up another player as evil. If they’re good, this can be the deciding factor that clinches a win for the evil team. If you accidentally get the Demon killed, well, you win anyway.
-
-* Pay attention to character win or lose conditions. Then try and trigger them. If you can engineer the execution of a {{Evil|Goblin}}, or a good Twin, or a second good player in a {{Evil|Leviathan}} game, your victory is all but assured. 
-
-* Make sure the Storyteller sees your efforts. Being a minor contributor to the good team’s downfall isn’t going to cut it. Make sure the Storyteller is aware that you are the player most responsible for your team losing.
-
-* Don’t rock the boat on the Outsider count. If there should only be one Outsider in play, and someone else is claiming to be the {{Good|Recluse}}, don’t challenge them. Remain hidden, and leave the good team in the dark – that single piece of misinformation about the Outsider count could be enough to win the day.
-
-* If good seems like they are on track to win, come out. Remember, you can win with the good team too. The information you can provide – which evil players are going along with your evil schemes, who has reacted to you double-claiming their characters, that you are an Outsider - could be the piece needed to win the game.
-
-* Try and catch characters who detect alignment (but not character) in your schemes. Convince a {{Good|Seamstress}} to check you against a confirmed good player, or a {{Good|Moonchild}} to choose you after they die. Remember, you register as good – having you confirmed in their eyes can lead a lot of credence to your devious claims.
-
-* Have characters with powerful, single-use abilities expend them on you. Convince a {{Good|Slayer}} to shoot you, nominate a {{Good|Virgin}}, or convince a {{Good|Professor}} to try and resurrect you. Make them use up their powerful abilities on a Politician, and undermine their efforts to gather information and make progress.
-
-* Tie the vote on the final day. Even if you are dead. This is MEAN, but it works! If the good team doesn't execute on the final day, and then the Demon kills that night, evil will win. To win as the Politician using this method, you will need to be the player that cast the crucial vote - if the good team accidentally tied the vote, you will lose too. Your ability says "If you were the player MOST responsible..."
-
-* Don't nominate at all on the final day if you think the other alive players are all evil. This will prevent the Demon from being nominated at all. 
-
-* If a Politician is on the script and you are not the Politician, be very careful who you trust. The Politician may be in play, throwing all manner of spanners in the works, yet registering as a good player. Just because someone appears good to a character like the {{Good|Seamstress}}, {{Good|Empath}} or {{Good|Noble}}, doesn't mean that you can trust them. Even if you are certain that nobody is drunk or poisoned.   
-		</div>
-
-	</div>
-
-	<div class='row'>
-
-		<div class="small-12 large-12 columns" style="padding-right: 0;">
-== Bluffing as the Politician ==
-
-When bluffing as the Politician, there are a few things you should keep in mind:
-
-* It can be a lot of fun to tease the player group, by hinting that you are the Politician without outright coming out as the Politician. By being so over-the-top, you might make other players second guess themselves. Plus, it’s just awesome being outrageous. Then maybe hint that you're the {{Evil|Goblin}} if it's on the script and make them triple doubt themselves. 
-
-* If you’re on the chopping block as an evil player, claim that you’re the Politician as a way to explain away your shady or evil actions. Promise to be good if they keep you alive. And then continue to hold this threat over their heads if they don't. However, using the Politician as a back up bluff can still backfire as people might want to execute you to reduce your voting and nominating ability. 
-
-* If you think good is winning, claim that you’re the Politician just to throw a massive spanner into the works. Suddenly there’s a potentially extra evil vote in play, which the group has to take into account and it puts a lot more pressure on controlling the vote. 
-
-* Tell a few people discreetly that you’re the Politician, so that your shady and evil actions seem much more plausible later on. Afterwards, shamelessly nominate the {{Good|Saint}} and try to get them executed, or try to get the wrong twin from the {{Evil|Evil Twin}} pair executed. 
-
-* Tell one or two players that you’re secretly a Politician, and suggest that they can make it worth your while not to undermine the good team. Use the threat of you possibly turning evil as a way to get the good team to do your own dirty work. Nothing more fun than a cat’s paw. Direct which players the {{Good|Lycanthrope}} chooses at night, get the good team to rat out the {{Good|Poppy Grower}}.
-
-* Bluff as the Politician when there is already a Politician claim! This creates a lot of chaos and noise as players don’t know which player to believe. Best of all, you can lean into this nonsense by upping the stakes and gunning for the most evil action.
-
-		</div>
-
-	</div>
-
+<!-- APPARAÎT DANS -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../experimentaux.html" style="text-decoration:none;">
+    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
+  </a>
 </div>
 
-[[Category:Experimental Characters]]
-[[Category:Outsiders]]
+# 🇫🇷 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Politicien</span>
+
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+  « Je suis ravi que vous posiez cette question, vraiment.  
+  Mais la vraie question, ici, n’est-elle pas plutôt… autre chose ? »
+</p>
+
+---
+
+## 🧾 <span style="color:#4ea3ff;">Informations</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a>
+  </li>
+  <li><strong>Artiste :</strong> <em>Chloe McDougall</em></li>
+  <li><strong>Révélé :</strong> 4 juillet 2020</li>
+</ul>
+
+---
+
+## 📖 <span style="color:#4ea3ff;">Résumé</span>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+  <strong>
+    « Si vous êtes le joueur principalement responsable de la défaite de votre équipe,  
+    vous changez d’alignement et vous gagnez, même si vous êtes mort. »
+  </strong>
+</p>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+Le politicien change d'équipe s'il est en train de perdre.
+Le Politicien est un opportuniste absolu : si son équipe perd par sa faute,  
+il retourne sa veste au dernier moment et remporte la partie avec le camp adverse.
+</p>
+
+---
+
+## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+  <li>
+    🧞
+    <img src="../images/Icon_boffin.png" alt="Boffin" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/boffin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boffin</a> :  
+    Le <span style="color:#d45b5b; font-weight:bold;">Démon</span> ne peut pas recevoir la capacité du Politicien grâce au Boffin.
+  </li>
+
+  <li>
+    🧞
+    <img src="../images/Icon_legion.png" alt="Légion" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> :  
+    Le Politicien peut être enregistré comme maléfique auprès de la Légion.
+  </li>
+
+  <li>
+    🧞
+    <img src="../images/Icon_pithag.png" alt="Pit-Hag" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a> :  
+    Si la Pit-Hag transforme un joueur maléfique en Politicien,  
+    ce Politicien ne peut pas redevenir bon grâce à sa propre capacité.
+  </li>
+
+  <li>
+    🧞
+    <img src="../images/Icon_vizier.png" alt="Vizir" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a> :  
+    Le Politicien peut être enregistré comme maléfique auprès du Vizir.
+  </li>
+
+</ul>
+
+---
+
+## ⚙️ <span style="color:#4ea3ff;">Détails</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+  <li>À la fin de la partie, si l’équipe du Bien perd et que le Politicien  
+      est jugé par le conteur comme la personne principalement responsable de cette défaite,  
+      il change d’alignement et gagne avec les Maléfiques.</li>
+
+  <li>Dans de rares cas, si le Politicien est maléfique et joue un rôle majeur  
+      dans la défaite des Maléfiques, il change d'alignement et gagne avec le Bien.</li>
+
+  <li>« Principalement responsable » signifie que le Politicien a eu une influence décisive :  
+      discours, mensonges, pressions de vote, orientation des exécutions…  
+      plus que n’importe quel autre joueur ou joueuse de son équipe.</li>
+
+  <li>Le Politicien peut tout à fait gagner « normalement » avec le Bien,  
+      si le Bien remporte la partie sans que sa capacité ne s’applique.</li>
+
+  <li>Si le Politicien est ivre ou empoisonné lorsque la partie se termine,  
+      il ne change pas d’alignement et ne bénéficie pas de sa capacité.</li>
+
+</ul>
+
+---
+
+## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+À la fin de la partie, avant d’annoncer officiellement qui a gagné,  
+évaluez l’impact réel du Politicien sur le résultat :
+qui a poussé aux mauvaises exécutions, qui a imposé de fausses informations,  
+et qui a été au centre des décisions fatales pour son équipe.
+</p>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+Si le Bien perd et que, selon vous, le Politicien a été la cause principale de cette défaite,  
+annoncez que le Politicien change d’alignement et gagne avec le Mal.  
+De même, dans le cas rarissime où le Mal perd à cause du Politicien maléfique,  
+faites-le basculer du côté du Bien au moment de déclarer les vainqueurs.
+</p>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+Ne cherchez pas à appliquer cette capacité de façon mathématique :  
+c’est un rôle très « narratif », qui récompense les gros choix audacieux,  
+les bluffs extrêmes et les erreurs monumentales pleinement assumées.
+</p>
+
+---
+
+## 🧩 <span style="color:#4ea3ff;">Exemples</span>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+Le Politicien essaie depuis le début de la partie d’exécuter le <span style="color:#d45b5b; font-weight:bold;">Démon</span>, sans succès.  
+Il reste 3 joueurs en vie, et une personne prétend être le 
+<a href="../tb_roles/maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a>.  
+Le Politicien convainc le groupe de ne pas exécuter le Démon.  
+Il n'y a pas d'éxécution et et le Mal gagne car un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> bluffait,
+<a href="../tb_roles/maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a>.
+Le conteur juge que le Politicien est la principale responsable de cette défaite : le Politicien gagne avec les Maléfiques.
+</p>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+Au dernier jour, le Politicien accuse l’
+<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a>  
+et affirme qu’il est maléfique.  
+Finalement, le village exécute le 
+<a href="../tb_roles/saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a> à la place.  
+Le conteur estime que la défaite vient des décisions du groupe dans son ensemble,  
+et non des seules manipulations du Politicien. Le Bien perd, et le Politicien perd aussi.</p>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+Pensant que le Mal est en train de gagner, le Politicien bluffe 
+<a href="../roles_experimentaux/atheist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Athée</a>.  
+La conteuse est exécutée.  
+Le Mal gagne, et le Politicien gagne également,  
+puisqu’il a directement provoqué cette condition de victoire.</p>
+
+---
+
+## 💡 <span style="color:#4ea3ff;">Astuces et Conseils</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+  <li>
+    Lancez un bluff dès le premier jour et tenez-vous-y fermement.  
+    Restez une source constante de mauvaises informations et un obstacle à la réflexion du Bien.  
+    Par exemple, prétendez être l’
+    <a href="../sv_roles/artiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Artiste</a>  
+    qui aurait appris que la 
+    <a href="../roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> est en jeu,  
+    et obligez tout le monde à intégrer cette hypothèse.
+  </li>
+
+  <li>
+    N’hésitez pas à bluffer de façon spectaculaire.  
+    Plus votre histoire est extrême, plus il sera facile de dire ensuite  
+    que vous êtes la personne « principalement responsable » de la défaite.  
+    Prétendez être 
+    <a href="../roles_experimentaux/atheist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Athée</a>,  
+    affirmer qu’un 
+    <a href="../tb_roles/saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a> est votre 
+    <a href="../sv_roles/jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumeau Maléfique</a>,  
+    ou racontez avoir été 
+    <a href="../sv_roles/charmeurdeserpent.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Charmeur de Serpent</a>  
+    puis transformé en 
+    <a href="../sv_roles/maladroit.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maladroit</a>.  
+    Plus vous semez le chaos, plus vous avez de chances de retourner votre veste à la fin.
+  </li>
+
+  <li>
+    Vous pouvez aussi bluffer de manière discrète mais précise :  
+    restez crédible toute la partie, puis, au dernier moment,  
+    introduisez une fausse information décisive.  
+    Par exemple, prétendez être la 
+    <a href="../sv_roles/couturiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Couturière</a>  
+    et annoncez le dernier jour un lien erroné entre un bon et un mauvais joueur.
+  </li>
+
+  <li>
+    Inventez de fausses infos et ciblez un joueur bien précis.  
+    Bluffez 
+    <a href="../tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Enquêteur</a>,  
+    <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>  
+    ou 
+    <a href="../roles_experimentaux/bountyhunter.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chasseur de Primes</a>,  
+    et désignez quelqu’un comme maléfique.  
+    Si cette personne est en réalité bonne, cela peut suffire à offrir la victoire au Mal.  
+    Et si vous faites exécuter le <span style="color:#d45b5b; font-weight:bold;">Démon</span> par accident… vous gagnez quand même avec la bonne équipe.
+  </li>
+
+  <li>
+    Observez les rôles avec des conditions de victoire ou de défaite spécifiques,  
+    comme le 
+    <a href="../tb_roles/maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a>,  
+    le 
+    <a href="../sv_roles/maladroit.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maladroit</a>,  
+    le 
+    <a href="../tb_roles/saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a>,  
+    le <a href="../bmr_roles/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a>  
+    ou le 
+    <a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Goblin</a>.  
+    Si vous arrivez à provoquer l’exécution d’un Goblin, d’un bon Jumeau,  
+    ou d’un deuxième bon joueur dans une partie avec un
+    <a href="../roles_experimentaux/leviathan.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Léviathan</a>,  
+    votre victoire est presque assurée.
+  </li>
+
+  <li>
+    Assurez-vous que la conteuse ou le conteur voit bien ce que vous faites.  
+    Un Politicien discret qui se contente de voter de travers ne sera pas forcément récompensé.  
+    Soyez visible, assumé, et montrez que vous orientez réellement la partie.
+  </li>
+
+  <li>
+    Ne touchez pas trop au décompte des Étrangers.  
+    Si une seule place d’Étranger est prévue et que quelqu’un revendique 
+    <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a>,  
+    ne cherchez pas à le contredire.  
+    Laissez le Bien dans le flou : cela peut suffire à faire dérailler leurs hypothèses.
+  </li>
+
+  <li>
+    Si le Bien semble en bonne voie pour gagner, rien ne vous empêche  
+    de finalement jouer pour la victoire du Bien.  
+    Révélez que vous êtes un Étranger et partagez tout ce que vous avez vu :  
+    qui a soutenu vos idées absurdes, qui a suivi vos votes,  
+    quelles doubles revendications vous avez créées…  
+    Vos infos peuvent sauver la partie.
+  </li>
+
+  <li>
+    Essayez d’attirer les rôles qui détectent l’alignement, comme la 
+    <a href="../sv_roles/couturiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Couturière</a>,  
+    l’
+    <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a>  
+    ou le 
+    <a href="../roles_experimentaux/noble.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Noble</a>.  
+    Être confirmé comme « bon » tout en sabotant la partie est exactement ce que vous voulez.
+  </li>
+
+  <li>
+    Forcez des capacités puissantes à s’épuiser sur vous :  
+    faites tirer un 
+    <a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a> sur vous,  
+    nommez une 
+    <a href="../tb_roles/vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Vierge</a>,  
+    ou poussez un 
+    <a href="../bmr_roles/professeur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Professeur</a>  
+    à tenter de vous ressusciter.  
+    Plus ces pouvoirs sont gaspillés sur vous, moins le Bien progresse.
+  </li>
+
+  <li>
+    Au dernier jour, même mort, vous pouvez essayer d’<strong>égaliser</strong> le vote.  
+    Si aucune exécution n’a lieu, puis que le <span style="color:#d45b5b; font-weight:bold;">Démon</span> tue la nuit,  
+    le Mal gagne.  
+    Pour que votre capacité se déclenche, il faut que ce soit clairement votre vote  
+    qui ait provoqué cette égalité décisive.
+  </li>
+
+  <li>
+    Si vous pensez que les derniers joueurs encore en vie sont tous maléfiques,  
+    vous pouvez choisir de ne nommer personne le dernier jour.  
+    Sans nomination, le Démon ne peut pas être exécuté et la partie se termine en faveur du Mal…  
+    ce qui peut bien sûr profiter à un Politicien.
+  </li>
+
+  <li>
+    Si le Politicien est présent sur le script et que vous n’êtes pas ce rôle,  
+    méfiez-vous particulièrement des joueurs confirmés « bons » par les rôles d’alignement.  
+    Un Politicien reste enregistré comme bon, même lorsqu’il sabote activement la partie.
+  </li>
+
+</ul>
+
+---
+
+## 🎭 <span style="color:#4ea3ff;">Bluffer en tant que Politicien</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+  <li>
+    Vous pouvez vous amuser à laisser entendre que vous êtes le Politicien  
+    sans jamais le dire clairement.  
+    Ce petit jeu de « je suis peut-être dangereux » peut suffire  
+    à faire douter tout le monde de vos intentions.
+  </li>
+
+  <li>
+    Si vous êtes sur le billot en tant que personnage maléfique,  
+    revendiquer le rôle de Politicien peut justifier vos actions douteuses :  
+    promettez de « jouer pour le Bien » si on vous laisse en vie,  
+    en laissant planer la menace de retourner votre veste en cas de défaite.
+  </li>
+
+  <li>
+    Si le Bien semble gagner, annoncer soudainement que vous êtes le Politicien  
+    complique énormément la gestion des votes :  
+    il existe désormais une possible voix « bonus » maléfique  
+    qui doit être prise en compte dans tous les calculs.
+  </li>
+
+  <li>
+    Confiez en privé à quelques joueurs ou joueuses que vous êtes Politicien.  
+    Plus tard, vous pourrez expliquer vos actions douteuses en disant  
+    que vous « jouiez déjà pour préparer un retournement de situation ».  
+    Par exemple, nommez le 
+    <a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Goblin</a>  
+    ou essayez de faire exécuter le mauvais jumeau d’une paire d’
+    <a href="../sv_roles/jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumeau Maléfique</a>.
+  </li>
+
+  <li>
+    Vous pouvez même monnayer votre « menace » :  
+    dites à deux joueurs que vous êtes secretement Politicien  
+    et laissez entendre que vous pourriez saboter le Bien  
+    si l’on ne suit pas vos plans.  
+    Rien de tel qu’un chantage élégant pour orienter les votes.
+  </li>
+
+  <li>
+    Enfin, n’oubliez pas que revendiquer Politicien alors qu’un autre joueur  
+    a déjà fait ce claim crée un énorme brouhaha :  
+    qui dit vrai, qui ment, qui sabote ?  
+    Ce bruit peut suffire à faire dérailler la stratégie du Bien.
+  </li>
+
+</ul>
+
+---
+
+<p style="text-align:left; font-size:18px; margin-top:20px;">
+  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+  💈 <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Étrangers</a><br>
+  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+</p>
