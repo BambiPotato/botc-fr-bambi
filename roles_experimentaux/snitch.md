@@ -28,7 +28,7 @@ title: Balance
   </a>
 </div>
 
-# 💈 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Balance</span>
+# 🤐 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Balance</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « C’était John. »
