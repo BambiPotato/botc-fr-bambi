@@ -36,7 +36,7 @@ title: Lorics
 
 ##  <span style="color:#4caf50;">Présentation</span>
 
-<p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
+<p style="text-align:left; color:#d4a76a; font-size:18px; line-height:1.7;">
   Les <strong>Lorics</strong> sont des rôles conçus pour les Conteurs.  
   Ils s'apparentent davantage à des règles spéciales qu'à des rôles à part entière. 
   Ils sont immortels et modifient le déroulement même du jeu. 
@@ -45,7 +45,7 @@ title: Lorics
 </p>
 
 ##  <span style="color:#4caf50;">Comment Conter</span>
-<p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
+<p style="text-align:left; color:#d4a76a; font-size:18px; line-height:1.7;">
   Utilisez les Loris quand vous le souhaitez.
   Si vous avez joué un script particulier de nombreuses fois, 
   ou si vous voulez simplement changer de rythme, ajouter un Loric donne au jeu une sensation de nouveauté et de différence.
@@ -55,12 +55,12 @@ title: Lorics
   En ajouter plusieurs se fait à vos risques et périls.
 </p>
 
-<p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
+<p style="text-align:left; color:#d4a76a; font-size:18px; line-height:1.7;">
   <strong>Les Lorics ne peuvent ni mourir ni perdre leurs pouvoirs.</strong>   
   Vous êtes Conteur, pas un joueur ; vos Lorics sont donc immunisés contre tous les effets du jeu, y compris la mort, l’ivresse et l’empoisonnement.
 </p>
 
-<p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
+<p style="text-align:left; color:#d4a76a; font-size:18px; line-height:1.7;">
 <strong>Comme les Voyageurs et les Légendaires, ils ne comptent jamais dans la condition de victoire « deux joueurs restants en vie » de l'équipe du mal.</strong>
 
 ---
