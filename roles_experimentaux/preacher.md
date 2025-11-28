@@ -76,7 +76,7 @@ Le <strong>Prédicateur</strong> supprime les capacités des <span style="color:
   <li>
     🧞 
     <img src="../images/Icon_summoner.png" alt="Invocateur" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/summoner.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Invocateur</a> :  
+    <a href="../roles_experimentaux/summoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocateur</a> :  
     Si l’Invocateur vivant n’a plus de capacité, le Conteur possède la capacité de l’Invocateur à sa place.
   </li>
 
