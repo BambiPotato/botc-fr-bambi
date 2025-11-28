@@ -29,29 +29,29 @@ title: Loric
 ## 📑 <span style="color:#4caf50;">Sommaire</span>
 
 . [Présentation](#-présentation)  
-. [Comment Conter](#-comment conter) 
+. [Comment Conter](#-conter)  
 . [Lorics](#-lorics)  
 
 ---
 
 ##  <span style="color:#4caf50;">Présentation</span>
 
-<p style="text-align:left; color:#e0c99d; font-size:18px; line-height:1.7;">
+<p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
 Les <strong>Lorics</strong> sont des rôles conçus pour les Conteurs.  
 Ils s'apparentent davantage à des règles spéciales qu'à des rôles à part entière. 
 Ils sont immortels et modifient le déroulement même du jeu. 
-Alors que les <em>Légendaire</em> existent surtout pour résoudre des problèmes, <strong>les Lorics</strong> 
-en introduisent de nouveaux pour renouveler l'intérêt et l'intensité de la partie.
+Alors que les <em>Légendaire</em> existent surtout pour résoudre des problèmes, 
+<strong>les Lorics</strong> en introduisent de nouveaux pour renouveler l'intérêt et l'intensité de la partie.
 </p>
 
 ##  <span style="color:#4caf50;">Comment Conter</span>
-<p style="text-align:left; color:#e0c99d; font-size:18px; line-height:1.7;">
+<p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
 Les Lorics sont parfaits lorsqu’un groupe connaît très bien un script et souhaite une variante, un rebondissement ou une saveur différente.  
 Pour les intégrer, il suffit d’en choisir un ou plusieurs, d’annoncer au groupe lesquels sont en jeu, puis de placer le jeton du Loric correspondant sur la partie gauche du grimoire, comme rappel.  
 Tous les Lorics doivent être ajoutés au début de la partie, et vous pouvez en utiliser plusieurs, à votre propre risque.
 </p>
 
-<p style="text-align:left; color:#e0c99d; font-size:18px; line-height:1.7;">
+<p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
 Les Lorics ne peuvent pas mourir et ne perdent jamais leur capacité.  
 Ils ne sont affectés par aucun effet du jeu, y compris la mort, l’ivresse ou l’empoisonnement.  
 Comme les Voyageurs et les Légendaires, ils ne comptent jamais dans la condition de victoire « deux joueurs restants en vie » de l'équipe du mal.
