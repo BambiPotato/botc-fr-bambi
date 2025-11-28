@@ -39,7 +39,7 @@ title: Trouble Brewing
 
 ---
 
-## 1. Synopsis
+## 1. <span style="color:#b58b52;">Synopsis</span>
 
 <p style="text-align:left; color:#e0c99d; font-size:18px; line-height:1.7;">
 Les nuages ☁️ s’amoncellent au-dessus de <strong>Ravenswood Bluff</strong>, enveloppant cette ville endormie et ses Villageois superstitieux d’une ombre inquiétante.  
@@ -61,7 +61,7 @@ Celles et ceux qui savent lire les signes comprennent qu’il y a…
 
 ---
 
-## 2. Gameplay
+## 2. <span style="color:#b58b52;">Gameplay</span>
 
 <p style="text-align:left; color:#e0c99d; font-size:18px; line-height:1.7;">
 <strong>Trouble Brewing</strong> contient un peu de tout :
@@ -75,13 +75,13 @@ Celles et ceux qui savent lire les signes comprennent qu’il y a…
 
 <p style="text-align:left; color:#e0c99d; font-size:18px; line-height:1.7;">
 Tant le Bien que le Mal peuvent prendre l’avantage en effectuant des <strong>sacrifices bien calculés</strong>.<br>
-<span style="color:red;">C’est une chasse au Démon relativement simple, mais les Sbires et le Démon disposent de nombreux moyens pour semer la confusion.</span><br>
+C’est une chasse au Démon relativement simple, mais les Sbires et le Démon disposent de nombreux moyens pour semer la confusion.
 Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient savoir s’ils veulent espérer survivre.
 </p>
 
-<p style="text-align:left; color:#d4a76a; font-size:19px; font-weight:bold;">
-👉 Niveau : <strong>Débutant</strong><br>
-<em>**Ce module est recommandé pour les débutants et les débutantes, Conteuses et Conteurs qui content pour la première fois.**</em>
+<p style="text-align:left; color:#d4a76a; font-size:18px; font-weight:bold;">
+🐥 Niveau : <strong>Débutant</strong><br>
+<em>**Trouble Brewing est recommandé pour les joueurs et jouses débutants, Conteuses et Conteurs qui content pour la première fois.**</em>
 </p>
 
 ---
@@ -229,7 +229,7 @@ Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient
 ---
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
-  <li>🌛 <a href="./bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>💐 <a href="./sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
+  <li>🏠 <a href="./index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
+  <li>🌛 <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
+  <li>💐 <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
 </ul>
