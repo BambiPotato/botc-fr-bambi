@@ -26,7 +26,7 @@ title: Femme Écarlate
 
 ---
 
-## ℹ️ Information  
+## ℹ️ <span style="color:red">Informations</span>    
 
 - **Type :** [<span style="color:red">**Sbire**</span>](../sbires.md)  
 - **Artiste :** Marianna Carr  
@@ -55,6 +55,8 @@ title: Femme Écarlate
 "Cult of the Clocktower – épisode par Andrew Nathenson"
 </p>
 
+---
+
 ## 📖 <span style="color:red">Résumé</span>    
 
 **« S’il y a 5 joueurs ou plus en vie et que le <span style="color:red">Démon</span> meurt, vous devenez le <span style="color:red">Démon</span>. (Les Voyageurs ne comptent pas.) »**
@@ -64,6 +66,7 @@ La **Femme Écarlate** devient le <span style="color:red">Démon</span> si celui
 - Les Voyageurs ne comptent pas dans ce calcul.  
 - Si le <span style="color:red">Démon</span> meurt alors qu’il reste moins de 5 joueurs, la partie se termine et le Bien l’emporte.  
 - Si la Femme Écarlate prend la place du <span style="color:red">Démon</span>, elle **devient ce Démon** (par ex. l’[<span style="color:red">Imp</span>](imp.md)) en tous points : elle attaque, elle s’enregistre comme Démon et si elle meurt, la partie s’arrête.  
+
 
 ---
 
