@@ -110,7 +110,7 @@ title: Blood on the Clocktower
 <h2>🎭 <span style="color:#b58b52;">Ce qui rend <em>Blood 🩸on the Clocktower</em> unique</span></h2>
 
 <ul style="color:#e0c99d; font-size:19px; line-height:1.9;">
-  <li>☠️ Les <strong>morts continuent de jouer</strong> : ils conservent une voix de vote.</li>
+  <li>☠️ Les <strong>morts continuent de jouer</strong> : ils conservent un vote de mort.</li>
 
   <li>📜 Les <strong><a href="./conteur.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Conteurs</a></strong> guident la partie et équilibrent le jeu.</li>
 
