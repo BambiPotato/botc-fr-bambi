@@ -106,7 +106,7 @@ title: Croque-Mort
 
 ---
 
-## 😈 <span style="color:blue;">Bluffer le Croque-Mort</span>   
+## 😈 <span style="color:blue;">Bluffer Croque-Mort</span>   
 
 - Vous vous réveillez **chaque nuit sauf la première** : préparez un récit crédible avec un rôle exécuté chaque jour.  
 - Confirmer des Villageois bons peut vous rendre crédible surtout si vous avez accès au Grimoire grâce à un [<span style="color:red">Espion</span>](espion.md)).  
