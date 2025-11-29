@@ -10,7 +10,7 @@ title: Voyante
   </a>
 </p>
 
-# 🔮 Voyante 
+# 🔮 <span style="color:blue">Voyante</span>  
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -23,7 +23,8 @@ title: Voyante
 
 ---
 
-## ℹ️ Informations  
+## ℹ️ <span style="color:blue">Informations</span>  
+  
 
 **Type :** Villageois  
 **Artiste :** John Grist  
@@ -54,7 +55,7 @@ title: Voyante
 
 ---
 
-## 📖 Résumé  
+## 📖 <span style="color:blue">Résumé</span>  
 
 *"Chaque nuit, choisissez 2 joueurs : vous apprenez si l’un d’eux est le Démon.  
 Un joueur bon apparaît comme un Démon pour vous."*  
