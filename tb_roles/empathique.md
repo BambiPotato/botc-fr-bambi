@@ -10,7 +10,7 @@ title: Empathique
   </a>
 </p>
 
-# 💙 <span style="color:blue;">Empathique</span>]  
+# 💙 <span style="color:blue;">Empathique</span> 
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -96,10 +96,10 @@ L’**Empathique** apprend chaque nuit combien de ses voisins encore vivants son
 
 ## 😈 <span style="color:blue;">Bluffer Empathique</span>   
 
-- Vous recevez vos infos **chaque nuit**, dès la première.  
-- Dire **0** → vos voisins bons vous font confiance, vous protégeant et protégeant vos alliés du Mal.  
+- Vous recevez vos infos **chaque nuit**, dès la première nuit.  
+- Dire **0** → vos voisins bons vous font confiance, vous protégeant et protégeant vos alliés Maléfiques.  
 - Dire **1** → vous semez la discorde entre vos deux voisins.  
-- Dire **2** → bluff risqué, car vos voisins sauront que vous mentez, mais si cru, cela discrédite deux bons joueurs.  
+- Dire **2** → bluff risqué, car vos voisins sauront que vous mentez, mais si certains ont un doute, cela discrédite deux bons joueurs.  
 - Si vos voisins meurent, vous pouvez adapter vos chiffres pour accuser d’autres joueurs.  
 - L’Empathique étant très puissant, sa survie en fin de partie peut sembler suspecte. Prétendre être l’[Ivrogne](ivrogne.md) ou être empoisonné est un bon prétexte.  
 
