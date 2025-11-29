@@ -17,7 +17,7 @@
 </div>
 
  
-## 🧾 <span style="color:blue">Informations</span>  
+## ℹ️ <span style="color:blue">Informations</span>  
 
 - **Type** : [Villageois](../villageois.md)
 - **Artiste** : Aidan Roberts  
@@ -60,6 +60,7 @@
 ---
 
 ## 🎭 <span style="color:blue">Comment Conter</span>
+
 - Chaque nuit, sauf la première, réveillez le moine. Il désigne n'importe quel joueur sauf lui-même. (Si le moine se désigne lui-même, **Secouez** la tête pour dire non et invitez-le à désigner un autre joueur.) Endormez le moine.Placez le jeton de rappel **Protégé** sur ce joueur.
 
 - Si le Démon attaque le joueur marqué  **Protégé** , celui-ci reste en vie. (Ne le marquez pas avec le jeton de rappel MORT du Démon et n'ajoutez pas de linceul comme vous le feriez normalement.) À l'aube, déclarez que personne n'est mort cette nuit. (Ne précisez pas pourquoi.)
