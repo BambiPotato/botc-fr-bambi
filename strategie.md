@@ -35,7 +35,7 @@ title: Conseils & Stratégies
 
 <hr>
 
-<h2 id="section1">1) Merci, mon rôle est <span style="color:blue;">bleu</span> ! Je suis du côté du Bien !</h2>
+<h2 id="section1">Merci, mon rôle est <span style="color:blue;">bleu</span> ! Je suis du côté du Bien !</h2>
 
 <p>
 Vous avez tiré un <strong><span style="color:blue;">jeton bleu</span></strong> 🔵. Félicitations !  
