@@ -39,7 +39,7 @@ title: Conseils pour les Conteuses et les Conteurs
 <!-- ========================= -->
 <!-- 1. Fluide et sans accroc -->
 <!-- ========================= -->
-<h2 id="section-1">1. Faire fonctionner les choses en douceur</h2>
+<h2 id="section-1"><span style="color:#d4a76a;">1. Faire fonctionner les choses en douceur</span></h2>
 
 <p>
   En tant que <span style="color:#d4a76a; font-weight:bold;">Conteur ou Conteuse</span>, votre rôle est de faire tourner la partie sans accroc, tout en gardant la fluidité et la magie du jeu.
