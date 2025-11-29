@@ -6,11 +6,11 @@ title: Croque-Mort
 
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
+    <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
-# ⚰️ Croque-Mort  
+# ⚰️ <span style="color:blue;">Croque-Mort</span>  
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -24,7 +24,7 @@ title: Croque-Mort
 
 ---
 
-## ℹ️ Informations  
+## 🧾 <span style="color:blue;">Informations</span>  
 
 **Type :** [<span style="color:blue;">**Villageois**</span>](../villageois.md)  
 **Artiste :** Aidan Roberts  
@@ -55,7 +55,7 @@ title: Croque-Mort
 
 ---
 
-## 📖 Résumé  
+## 📖 <span style="color:blue;">Résumé</span>    
 
 *"Chaque nuit*, vous apprenez quel rôle est mort par **exécution** aujourd’hui."*  
 
@@ -67,7 +67,7 @@ title: Croque-Mort
 
 ---
 
-## 🎲 Mise en place & exécution  
+## 🎭 span style="color:blue;">Comment Conter</span> 
 
 - Quand un joueur est exécuté, placez le jeton de rappel **MORT AUJOURD’HUI** sur son rôle.  
 - La nuit :  
@@ -80,7 +80,7 @@ title: Croque-Mort
 
 ---
 
-## Exemples  
+## 🧩 <span style="color:blue;">Exemples</span>   
 
 - Le [Maire](maire.md) est exécuté. La nuit, le Croque-Mort voit le jeton **Maire**.  
 - L’[Ivrogne](ivrogne.md), qui pensait être la [Vierge](vierge.md), est exécuté. Le Croque-Mort voit le jeton **Ivrogne**.  
@@ -89,7 +89,7 @@ title: Croque-Mort
 
 ---
 
-## 💡 Conseils & Astuces  
+## 💡 <span style="color:blue;">Conseils & Astuces</span>  
 
 - Plus il y a d’exécutions, plus vous avez d’informations. Même si vous ne frappez pas le Démon, vous confirmez ou infirmez des claims.  
 - Les Voyageurs ne sont pas concernés (ils sont exilés, pas exécutés), sauf le [Bouc émissaire](../voyageurs/scapegoat.md), qui meurt explicitement par exécution.  
@@ -106,11 +106,12 @@ title: Croque-Mort
 
 ---
 
-## 🎭 Bluff de Croque-Mort  
+## 😈 <span style="color:blue;">Bluffer le rôle de Croque-Mort</span>   
 
 - Vous vous réveillez **chaque nuit sauf la première** : préparez un récit crédible avec un rôle exécuté chaque jour.  
-- Confirmer des Villageois bons peut vous rendre crédible (surtout si vous avez accès à un [<span style="color:red">Espion</span>](espion.md)).  
-- Vous pouvez aussi salir un joueur exécuté en prétendant qu’il était Sbire ou Démon. Risqué (le joueur sait que vous mentez), mais efficace si les autres vous croient.  
+- Confirmer des Villageois bons peut vous rendre crédible surtout si vous avez accès au Grimoire grâce à un [<span style="color:red">Espion</span>](espion.md)).  
+- Vous pouvez aussi rendre maléfique un joueur exécuté en prétendant qu’il était Sbire ou Démon. 
+C'est risqué car le joueur sait que vous mentez, mais efficace si les autres vous croient.  
 - Si un allié maléfique est exécuté, prétendre qu’il est un [Villageois](../villageois.md) renforce vos deux bluffs.  
 - Une technique courante est de dire qu’un exécuté était **Ivrogne**, pour invalider ses infos et semer le doute.  
 - Vous pouvez rester discret plusieurs jours, puis sortir vos "révélations" au moment clé. 
