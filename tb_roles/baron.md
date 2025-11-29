@@ -65,29 +65,6 @@ Le Baron modifie le nombre d’Étrangers présents dans la partie.
   Exemple : `[+2 Étrangers]`.  
 - Les Étrangers ajoutés **remplacent toujours des Villageois**, jamais un autre type.
 
----
-
-## 🧞 <span style="color:#d4a76a;">Jinxes liés</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-
-  <li>
-    🧞
-    <img src="../images/Icon_plaguedoctor.png" alt="Docteur de la peste" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/plaguedoctor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Docteur de la peste</a> :  
-    Si la conteuse ou le conteur gagne la capacité du Baron, jusqu’à deux joueurs deviennent des
-    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>.
-  </li>
-
-<li>
-  🧞
-    <img src="../images/Icon_heretic.png" alt="Hérétique" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/herectic.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Hérétique</a> :  
-    Un seul rôle jinxé avec l’Hérétique peut être en jeu.
-  </li>
-
-</ul>
 
 ---
 
@@ -135,6 +112,29 @@ Ces jetons (avec ces remplacements) vont dans le sac pour être tirés par les j
 - Contrairement à d’autres Sbires, l’effet du Baron est **visible dès la mise en place**. Il n’est pas toujours nécessaire de l’exécuter si vous avez une meilleure cible, exemple. [<span style="color:red">Imp</span>](../tb_roles/imp.md)  ou [<span style="color:red">Empoisonneur</span>](../tb_roles/empoisonneur.md)  .  
 - Attention : l’[<span style="color:red">**Imp**</span>](../tb_roles/imp.md) peut **transmettre** sa démonialité au Baron ; l’ignorer trop longtemps peut le transformer en Démon en fin de partie.
 
+---
+
+## 🧞 <span style="color:#d4a76a;">Jinxes liés</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+
+  <li>
+    🧞
+    <img src="../images/Icon_plaguedoctor.png" alt="Docteur de la peste" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/plaguedoctor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Docteur de la peste</a> :  
+    Si la conteuse ou le conteur gagne la capacité du Baron, jusqu’à deux joueurs deviennent des
+    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>.
+  </li>
+
+<li>
+  🧞
+    <img src="../images/Icon_heretic.png" alt="Hérétique" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/herectic.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Hérétique</a> :  
+    Un seul rôle jinxé avec l’Hérétique peut être en jeu.
+  </li>
+
+</ul>
 ---
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
