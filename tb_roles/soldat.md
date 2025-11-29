@@ -100,6 +100,26 @@ Pendant la nuit, si le Démon attaque le Soldat, celui-ci reste en vie. (À l'au
 
 ---
 
+## 🧞 <span style="color:#d4a76a">Jinxes liés</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+  <li>
+    🧞
+    <img src="../images/Icon_leviathan.png" alt="Leviathan" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/leviathan.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Léviathan</a> :  
+    Si le Léviathan nomme et exécute le Soldat, le bien triomphe.
+  </li>  
+  <li>
+    🧞
+    <img src="../images/Icon_riot.png" alt="Riot" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> :  
+    Si le Riot nomme et exécute le Soldat, le bien triomphe.
+  </li>  
+  </ul>
+
+---
+
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
   <li>🍺 <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
