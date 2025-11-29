@@ -1,10 +1,10 @@
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
+    <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
-# 🍺 Ivrogne
+# 🍺 <span style="color:blue">Ivrogne</span>
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -17,8 +17,8 @@
 
 ---
 
-**Type :** [Étrangers](../etrangers.md)  
-**Artiste :** Aidan Roberts  
+- **Type :** [Étrangers](../etrangers.md)  
+- **Artiste :** Aidan Roberts  
  
 *« Je ne suis qu’un buveur social, ma chère. Certes, je suis un grand… *hic*… sociabilisateur. »*
 
@@ -95,10 +95,8 @@
 - Plus tard, avouer « je suis sûrement Ivrogne » peut justifier vos incohérences et retourner des votes clés.
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌛 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
+  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li>🍺 <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
   <li>💈 <a href="../etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Étrangers</a></li>
 </ul>
 
