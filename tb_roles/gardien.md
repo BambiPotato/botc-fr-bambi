@@ -103,6 +103,8 @@ Le Gardien apprend le rôle d’un joueur s’il meurt la nuit.
 - Gardien est un excellent bluff si vous voulez rester vivant longtemps (le Démon évite de tuer ce rôle).  
 - Vous pouvez aussi vous en servir pour justifier pourquoi vous avez survécu tard dans la partie. 
 
+---
+
 ## 🧞 <span style="color:#d4a76a">Jinxes liés</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
