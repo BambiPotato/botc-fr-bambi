@@ -124,6 +124,8 @@ L’**Imp** tue un joueur chaque nuit et peut transférer son rôle à un <span 
 
 - Les rôles comme le [Saint](saint.md), le [Reclus](reclus.md) ou le [Majordome](majordome.md) peuvent être utiles pour absorber les attaques nocturnes.  
 
+---
+
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
   <li>🍺 <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
