@@ -25,13 +25,14 @@ title: Sects & Violets
 ---
 
 ## 📑 Sommaire
-- [📖 Synopsis](#-synopsis)
-- [🎲 Gameplay](#-gameplay)
-- [Villageois](#villageois)
-- [Étrangers](#étrangers)
-- [Sbires](#sbires)
-- [Démons](#démons)
-- [📥 Télécharger & Imprimer](#-télécharger--imprimer)
+
+1. [📖 Synopsis](#-synopsis)
+2. [🎲 Gameplay](#-gameplay)
+3. [Villageois](#villageois)
+4. [Étrangers](#étrangers)
+5. [Sbires](#sbires)
+6. [Démons](#démons)
+7. [📥 Télécharger & Imprimer](#-télécharger--imprimer)
 
 ---
 
@@ -68,9 +69,9 @@ Même les <span style="color:red;">Maléfiques</span> peuvent perdre le fil de q
 C’est aussi la première apparition de la <strong>Folie</strong>, qui peut complètement bouleverser la partie.
 </p>
 
-<p style="color:#d67bff; font-size:19px; font-weight:bold;">
+<p style="color:#e0c99d; font-size:19px; font-weight:bold;">
 👉 Niveau : <strong>Intermédiaire à Avancé</strong><br>
-<em>*Recommandé pour les joueurs et joueuses aimant le chaos, les retournements inattendus et les défis logiques audacieux.*</em>
+<em>*Recommandé pour les joueurs et joueuses aimant le chaos, la folie;  les retournements inattendus et les défis logiques audacieux.*</em>
 </p>
 
 ---
@@ -215,8 +216,8 @@ Ces ressources sont pratiques pour <strong>imprimer</strong> et <strong>jouer en
 
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
-  <li>🍺 <a href="./trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌛 <a href="./bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
+  <li>🏠 <a href="./index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
+  <li>🍺 <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li>🌛 <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
 </ul>
 
