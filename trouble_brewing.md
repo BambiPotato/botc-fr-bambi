@@ -94,10 +94,9 @@ Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient
 
 ---
 
-## <span id="villageois" style="color:#b58b52;">Villageois</span>
 
-<p style="text-align:left; color:#e0c99d; font-size:18px;">
-  <a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voir la catégorie Villageois</a>
+<p style="text-align:left; color:#e0c99d; font-size:20px;">
+  <a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
 </p>
 
 <!-- GRID VILLAGEOIS -->
@@ -185,10 +184,9 @@ Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient
 
 ---
 
-## <span id="etrangers" style="color:#b58b52;">Étrangers</span>
 
-<p style="text-align:left; color:#e0c99d; font-size:18px;">
-  <a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voir la catégorie Étrangers</a>
+<p style="text-align:left; color:#e0c99d; font-size:20px;">
+  <a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>
 </p>
 
 <!-- GRID ÉTRANGERS -->
@@ -222,10 +220,9 @@ Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient
 
 ---
 
-## <span id="sbires" style="color:#b58b52;">Sbires</span>
 
 <p style="text-align:left; color:#e0c99d; font-size:18px;">
-  <a href="./sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Voir la catégorie Sbires</a>
+  <a href="./sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>
 </p>
 
 <!-- GRID SBIRES -->
@@ -259,10 +256,8 @@ Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient
 
 ---
 
-## <span id="demons" style="color:#b58b52;">Démons</span>
-
 <p style="text-align:left; color:#e0c99d; font-size:18px;">
-  <a href="./demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Voir la catégorie Démons</a>
+  <a href="./demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démons</a>
 </p>
 
 <!-- GRID DÉMONS -->
