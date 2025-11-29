@@ -28,7 +28,7 @@ title: Conseils pour les Conteuses et les Conteurs
 <hr>
 
 <!-- Sommaire -->
-<h2 id="sommaire" style="color:#b58b52;">📑 Sommaire</h2>
+<h2 id="sommaire" style="color:#e0c99d;">📑 Sommaire</h2>
 <ol>
   <li><a href="#section-1">Faire fonctionner les choses en douceur</a></li>
   <li><a href="#section-2">Rendre le jeu amusant</a></li>
@@ -39,14 +39,17 @@ title: Conseils pour les Conteuses et les Conteurs
 <!-- ========================= -->
 <!-- 1. Fluide et sans accroc -->
 <!-- ========================= -->
-<h2 id="section-1"><span style="color:#d4a76a;">1. Faire fonctionner les choses en douceur</span></h2>
+
+---
+
+<h2 id="section-1"><span style="color:#e0c99d;">1. Faire fonctionner les choses en douceur</span></h2>
 
 <p>
   En tant que <span style="color:#d4a76a; font-weight:bold;">Conteur ou Conteuse</span>, votre rôle est de faire tourner la partie sans accroc, tout en gardant la fluidité et la magie du jeu.
   Votre objectif n’est pas seulement de faire respecter les règles, mais aussi de vous assurer que chaque joueur et chaque joueuse vit une expérience mémorable, cohérente et amusante.
 </p>
 
-<h3>🎯 Mettre fin à la partie au bon moment</h3>
+<h3>🎯 <span style="color:#e0c99d;">Mettre fin à la partie au bon moment</span></h3>
 <p>
   Vous pouvez déclarer la fin du jeu <strong>dès qu’une victoire est certaine</strong> pour une équipe.
   Par exemple, si toutes les personnes restantes sont <span style="color:red;">maléfiques</span>, alors le <span style="color:blue;">Bien</span> ne peut plus nominer le <span style="color:red;">Démon</span> : le <span style="color:red;">Mal</span> gagne.
@@ -60,7 +63,7 @@ title: Conseils pour les Conteuses et les Conteurs
   👉 Utilisez votre <strong>jugement de Conteur ou Conteuse</strong> : si une possibilité de retournement existe, même infime, laissez la partie continuer.
 </p>
 
-<h3>👁️ Confirmer les choix des joueurs et des joueuses</h3>
+<h3>👁️ <span style="color:#e0c99d;">Confirmer les choix des joueurs et des joueuses</span></h3>
 <p>
   Pendant la nuit, lorsque quelqu’un fait un choix, <strong>confirmez-le avec un geste clair</strong> (pointez du doigt vers la cible).
   Si le geste est ambigu, <strong>déplacez-vous</strong> vers la personne visée, <strong>pointez clairement</strong>, puis attendez un hochement de tête pour valider.
@@ -75,7 +78,7 @@ title: Conseils pour les Conteuses et les Conteurs
   Ainsi, les joueurs et les joueuses ne pourront pas relier un bruit ou un mouvement à une action précise, ni <strong>déduire la position du <span style="color:red;">Démon</span></strong>.
 </p>
 
-<h3>🎲 Manipuler les jetons du Grimoire</h3>
+<h3>🎲 <span style="color:#e0c99d;">Manipuler les jetons du Grimoire</span></h3>
 <p>
   Vous devriez souvent déplacer des jetons (par exemple quand un 
   <a href="./tb_roles/mercenaire.html" style="color:blue;">Mercenaire</a> ou un 
@@ -84,31 +87,31 @@ title: Conseils pour les Conteuses et les Conteurs
   <strong>faites semblant</strong> de manipuler les mêmes jetons. Ainsi, même les personnes expertes ne pourront pas déceler un bluff à vos gestes.
 </p>
 
-<h3>🤫 Réveiller discrètement</h3>
+<h3>🤫 <span style="color:#e0c99d;">Réveiller discrètement</span></h3>
 <p>
   Réveillez par un <strong>tapotement doux</strong> sur l’épaule ou le genou. Si les vêtements sont épais, pressez doucement la main deux fois.
   Évitez tout bruit qui trahirait l’action auprès des voisins et voisines.
 </p>
 
-<h3>📖 Garder le Grimoire stable</h3>
+<h3>📖 <span style="color:#e0c99d;">Garder le Grimoire stable</span></h3>
 <p>
   Gardez toujours le Grimoire à plat et tenez-le par la <strong>colonne centrale</strong>. 
   Évitez de l’incliner : quelqu’un pourrait <strong>voir les jetons</strong>.
   Ne le tenez pas par les bords, au risque qu’il se referme et fasse tomber le matériel.
 </p>
 
-<h3>🎒 Transporter le Grimoire</h3>
+<h3>🎒 <span style="color:#e0c99d;">Transporter le Grimoire</span></h3>
 <p>
   Portez-le <strong>dos vers le bas</strong> (surtout dans un sac) pour éviter d’abîmer la boîte.
 </p>
 
-<h3>📢 Être vu et entendu</h3>
+<h3>📢 <span style="color:#e0c99d;">Être vu et entendu</span></h3>
 <p>
   Lors des annonces, votes et comptes à rebours, placez-vous de manière à être vu et entendu de toutes et tous. 
   Votre présence guide le rythme, sans dominer la scène.
 </p>
 
-<h3>⚖️ Gérer les erreurs</h3>
+<h3>⚖️ <span style="color:#e0c99d;">Gérer les erreurs</span></h3>
 <p>
   Les erreurs arrivent. Si elles favorisent l’équipe gagnante, <strong>présentez vos excuses</strong> à l’autre équipe. 
   Si elles ont pénalisé les vainqueurs, <strong>félicitez-les d’autant plus</strong>. 
@@ -116,7 +119,7 @@ title: Conseils pour les Conteuses et les Conteurs
   Vous pouvez signaler qu’une erreur a eu lieu sans en dévoiler la nature.
 </p>
 
-<h3>😴 Oublier de réveiller quelqu’un</h3>
+<h3>😴 <span style="color:#e0c99d;">Oublier de réveiller quelqu’un</span></h3>
 <p>
   Deux options :
 </p>
@@ -126,13 +129,13 @@ title: Conseils pour les Conteuses et les Conteurs
 </ul>
 <p>Si l’erreur est réparable, faites-le : mieux vaut un petit ajustement qu’une injustice.</p>
 
-<h3>🕰️ Prenez votre temps</h3>
+<h3>🕰️ <span style="color:#e0c99d;">Prenez votre temps</span></h3>
 <p>
   Un bon Conteur ou une bonne Conteuse n’est <strong>jamais pressé</strong>. 
   Pendant la nuit, respirez, vérifiez l’ordre d’action, et ralentissez si nécessaire.
 </p>
 
-<h3>🗣️ Répondre aux questions</h3>
+<h3>🗣️ <span style="color:#e0c99d;">Répondre aux questions</span></h3>
 <p>
   Favorisez les réponses <strong>en privé</strong> pour éviter de donner des indices. 
   En public, <strong>ne citez pas le rôle</strong>, mais la personne. 
@@ -143,26 +146,27 @@ title: Conseils pour les Conteuses et les Conteurs
   ✅ « Cédric voulait savoir… »
 </blockquote>
 
-<h3>🤐 Empêcher les discussions prématurées</h3>
+<h3>🤐 <span style="color:#e0c99d;">Empêcher les discussions prématurées</span></h3>
 <p>
   Avant la première nuit, rappelez de <strong>ne pas révéler son rôle</strong> : le <span style="color:red;">Démon</span> n’a pas encore ses bluffs.
   Si besoin, utilisez un <a href="./legendaires.html" style="color:#b58b52;">Légendaire</a> (ex. <strong>Bibliothécaire de l’Enfer</strong>) pour l’interdire en jeu.
 </p>
 
-<h3>🌙 Silence pendant la nuit</h3>
+<h3>🌙 <span style="color:#e0c99d;">Silence pendant la nuit</span></h3>
 <p>
   La nuit doit rester silencieuse. Si quelqu’un commente ses actions à voix haute, 
   cela ruine les bluffs des <span style="color:red;">maléfiques</span>. 
   Rappelez la règle avec bienveillance ou utilisez un Légendaire si nécessaire.
+  Cependant, les joueurs et les joueuses peuvent tout à fait chanter et détendre l'atmosphère.
 </p>
 
-<h3>🪑 Rester dans le cercle</h3>
+<h3>🪑 <span style="color:#e0c99d;">Rester dans le cercle</span></h3>
 <p>
   Demandez à toutes et tous de rester autour du cercle pour faciliter nominations et échanges, 
   et éviter les clans entre vétérans et nouvelles personnes.
 </p>
 
-<h3>📘 Relire les rôles en jeu</h3>
+<h3>📘 <span style="color:#e0c99d;">Relire les rôles en jeu</span></h3>
 <p>
   Profitez des temps calmes pour relire les jetons présents : 
   mieux comprendre les interactions rend la partie plus fluide.
@@ -174,7 +178,7 @@ title: Conseils pour les Conteuses et les Conteurs
 <!-- ========================= -->
 <!-- 2. Rendre le jeu amusant -->
 <!-- ========================= -->
-<h2 id="section-2">2. Rendre le jeu amusant</h2>
+<h2 id="section-2"><span style="color:#e0c99d;">2. Rendre le jeu amusant</span></h2>
 
 <p>
   Votre rôle ne s’arrête pas à faire fonctionner le jeu : vous êtes aussi la ou le <strong>metteur en scène</strong>. 
