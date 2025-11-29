@@ -124,13 +124,13 @@ le Conteur choisit si le Reclus est enregistré comme ce Sbire ou Démon.
   <li>
     🧞
     <img src="../images/Icon_ogre.png" alt="Ogre" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/ogre.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Ogre</a> :  
+    <a href="../roles_experimentaux/ogre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ogre</a> :  
     Si le Reclus s’enregistre comme maléfique pour l’Ogre, l’Ogre apprend qu’il est maléfique.
   </li>  
   <li>
     🧞
     <img src="../images/Icon_sage.png" alt="Sage" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../sv_roles/sage.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sage</a> :  
+    <a href="../sv_roles/sage.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a> :  
     Le Reclus peut s’enregistrer comme le Démon pour le Sage.
   </li>  
   </ul>
