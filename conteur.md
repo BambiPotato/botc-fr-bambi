@@ -448,6 +448,6 @@ title: Conseils pour les Conteuses et les Conteurs
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li>🔝 <a href="#top" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Revenir en haut de la page</a></li>
-  <li>🏠 <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
-  <li>📘 <a href="./glossaire.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Glossaire des termes</a></li>
+  <li>🏠 <a href="./index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
+  <li>📘 <a href="./glossaire.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Glossaire des termes</a></li>
 </ul>
