@@ -110,7 +110,63 @@ title: Espion
 - Prétendre être vu comme « bon » par un rôle d’info (ex :**[<span style="color:blue">Empathique</span>](empathique.md)**) est crédible.  
 - Prétendre être un **Étranger** peut masquer la présence d’un **[<span style="color:red">Baron</span>](baron.md)**.  
 - Restez cohérent avec vos alliés Sbires et Démon : partagez vos bluffs potentiels en privé… ou subtilement en public.  
-- Le Conteur **confirmera vos bluffs** si vous êtes exécuté et qu’un **[Croque-Mort](croquemort.md)** reçoit le rôle que vous bluffiez.  
+- Le Conteur **confirmera vos bluffs** si vous êtes exécuté et qu’un **[Croque-Mort](croquemort.md)** reçoit le rôle que vous bluffiez. 
+
+---
+
+## 🧞 <span style="color:#d4a76a">Jinxes liés</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+  <li>
+    🧞
+    <img src="../images/Icon_alchemist.png" alt="Alchimiste" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> :  
+    Un Alchimiste-Espion n’a pas la capacité d’Espion et un Espion est en jeu.
+    Après chaque exécution, un Alchimiste-Espion vivant peut deviner publiquement qu’un joueur vivant est l’Espion.
+    Si c'est correct, le Démon doit choisir l’Espion cette nuit.
+  </li>  
+  <li>
+    🧞
+    <img src="../images/Icon_damsel.png" alt="Demoiselle" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/damsel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Demoiselle</a> :  
+    Si l’Espion est (ou a été) en jeu, la Demoiselle est empoisonnée.
+  </li>  
+  <li>
+    🧞
+    <img src="../images/heretic.png" alt="Hérétique" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/heretic.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Hérétique</a> :  
+    Un seul rôle jinxé peut être en jeu.
+  </li>  
+  <li>
+    🧞
+    <img src="../images/Icon_magician.png" alt="Magicien" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/magician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Magicien</a> :  
+    Quand l’Espion voit le Grimoire, les jetons de rôle du Démon et du Magicien sont retirés.
+  </li>  
+  <li>
+    🧞
+    <img src="../images/Icon_ogre.png" alt="Ogre" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/ogre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ogre</a> :  
+    L’Espion s’enregistre comme maléfique pour l’Ogre.
+  </li>  
+  <li>
+    🧞
+    <img src="../images/Icon_plaguedoctor.png" alt="Docteur de la peste" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/plaguedoctor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Docteur de la peste</a> :  
+    Si le Conteur devait gagner la capacité de l’Espion, un Sbire la gagne et l’apprend.
+  </li>  
+  <li>
+    🧞
+    <img src="../images/Icon_poppygrower.png" alt="Cultivateur de pavot" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/poppygrower.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cultivateur de pavot</a> :  
+    Si le Cultivateur de pavot a sa capacité, l’Espion ne voit pas le Grimoire.
+  </li>  
+  
+  </ul>
+
+
+---
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
