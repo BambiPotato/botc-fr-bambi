@@ -121,7 +121,7 @@ Mentez si nécessaire pour détourner les soupçons ou éviter son exécution.
 Les morts votent encore une fois. Coordonnez ces votes : ils peuvent renverser la fin de partie.
 </p>
 
-<h3 style="color:#e0c99d;">⚖️ Exécution et crédibilité</h3>
+<h3 style="color:#e0c99d;"> ⚖️ Exécution et crédibilité</h3>
 <p>
 Évitez d’être exécuté, sauf si cela permet d’éclairer le village.  
 Une mort "innocente" peut valider vos informations.
@@ -163,7 +163,7 @@ Mais n’oubliez pas : la victoire est presque toujours collective.
 
 <hr>
 
-<h2 id="section11">1.1) Douces cerises, je suis <strong><span style="color:blue;">Villageoise</span> !</h2>
+<h2 id="section11">Douces cerises, je suis <strong><span style="color:blue;">Villageoise</span> !</h2>
 
 <p>
 Partagez vos informations, même partielles.  
@@ -182,7 +182,7 @@ Si vous êtes un rôle qui aime être ciblé la nuit, bluffez un rôle à risque
 
 <hr>
 
-<h2 id="section12">1.2) Bon sang, je suis <span style="color:blue;">Étranger</span> !</h2>
+<h2 id="section12">Bon sang, je suis <span style="color:blue;">Étranger</span> !</h2>
 
 <p>
 Transformez votre handicap en avantage.  
@@ -207,7 +207,7 @@ En fin de partie, si vous êtes toujours vivant, révélez votre statut : cela r
 
 <hr>
 
-<h2 id="section2">2) Oh c'est chaud, je suis <span style="color:red;">Maléfique</span> ! Et maintenant ?</h2>
+<h2 id="section2">Oh c'est chaud, je suis <span style="color:red;">Maléfique</span> ! Et maintenant ?</h2>
 
 <p>
 Vous avez tiré un <strong><span style="color:red;">jeton rouge</span></strong> 🔴.  
@@ -252,7 +252,7 @@ Soutenez publiquement une théorie ou une accusation : elle servira plus tard.
 
 <hr>
 
-<h2 id="section21"><span style="color:#e0c99d;">Oh génial, je suis Sbire !</span></h2>
+<h2 id="section21"><span style="color:#e0c99d;">Oh génial, je suis <span style="color:red;">Sbire</span> !</span></h2>
 
 <ul>
   <li>Ne votez pas contre votre <span style="color:red;">Démon</span>, sauf plan précis.</li>
@@ -264,7 +264,7 @@ Soutenez publiquement une théorie ou une accusation : elle servira plus tard.
 
 <hr>
 
-<h2 id="section22"><span style="color:#e0c99d;">Oh lala, je suis le Démon !</span> </h2>
+<h2 id="section22"><span style="color:#e0c99d;">Oh lala, je suis le <span style="color:red;">Démon</span> !</span> </h2>
 
 <p>
 Restez en vie. Sans vous, le Mal perd toute chance, sauf cas spéciaux : 
