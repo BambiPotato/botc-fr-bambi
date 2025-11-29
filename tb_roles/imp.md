@@ -20,7 +20,7 @@
 
 ---
 
-## ℹ️ <span style="color:red">Information</span>  
+## ℹ️ <span style="color:red">Informations</span>  
 
 - **Type :** [<span style="color:red">**Démon**</span>](../demons.md)  
 - **Artiste :** Aidan Roberts  
