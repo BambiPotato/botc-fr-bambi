@@ -142,5 +142,5 @@ title: Blood on the Clocktower
 <hr class="section">
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="./index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
+  <li>🏠 <a href="./index.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
 </ul>
