@@ -125,8 +125,9 @@ Si le <span style="color:red">Démon</span> meurt alors qu’il reste plus de 5 
    - Surveillez les changements d’attitude dès qu’il ne reste plus que 5 joueurs.  
 
    ---
+   
 
-   ## 🧞 <span style="color:#d4a76a;">Jinxes liés</span>
+## 🧞 <span style="color:#d4a76a;">Jinxes liés</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -163,6 +164,7 @@ Si le <span style="color:red">Démon</span> meurt alors qu’il reste plus de 5 
 
 
 ---
+
   
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
