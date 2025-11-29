@@ -6,7 +6,7 @@ title: Femme Écarlate
 
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
+    <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
@@ -78,7 +78,7 @@ Si le <span style="color:red">Démon</span> meurt alors qu’il reste plus de 5 
 
 ---
 
-## 🧾 <span style="color:red">Exemples</span>     
+## 🧩 <span style="color:red">Exemples</span>     
 
 - **Il y a 7 joueurs en vie** : L' [<span style="color:red">Imp</span>](imp.md), la Femme Écarlate, 2 Villageois et 3 Voyageurs.  
   → L’[<span style="color:red">Imp</span>](imp.md) est exécuté → la partie s’arrête (les Voyageurs ne comptent pas).  
