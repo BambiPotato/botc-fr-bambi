@@ -245,7 +245,7 @@ Soutenez publiquement une théorie ou une accusation : elle servira plus tard.
 
 <hr>
 
-<h2 id="section21">Oh génial, je suis <span style="color:red;">Sbire</span> !</h2>
+<h2 id="section21"><span style="color:#e0c99d;">Oh génial, je suis</span> <span style="color:red;">Sbire</span> !</h2>
 
 <ul>
   <li>Ne votez pas contre votre <span style="color:red;">Démon</span>, sauf plan précis.</li>
@@ -257,10 +257,10 @@ Soutenez publiquement une théorie ou une accusation : elle servira plus tard.
 
 <hr>
 
-<h2 id="section22"><span style="color:#e0c99d;">Oh lala</span>, je suis le <span style="color:red;">Démon</span> !</h2>
+<h2 id="section22"><span style="color:#e0c99d;">Oh lala, je suis le</span> <span style="color:red;">Démon</span> !</h2>
 
 <p>
-Restez en vie. Sans vous, le Mal perd toute chance (sauf cas spéciaux : 
+Restez en vie. Sans vous, le Mal perd toute chance, sauf cas spéciaux : 
 <a href="./bmr_roles/avocatdudiable.html" style="color:red;">Avocat du Diable</a> ou 
 <a href="./tb_roles/femmeecarlate.html" style="color:red;">Femme Écarlate</a>).
 </p>
@@ -291,5 +291,5 @@ Planifiez, mentez, adaptez. Et surtout : amusez-vous à être le Mal.
  
   <li>📘 <a href="./glossaire.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Glossaire</a></li>
   <li>🧙 <a href="./conteur.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Conseils aux Conteurs</a></li>
-  <li>🏠 <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
+  <li>🏠 <a href="./index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
 </ul>
