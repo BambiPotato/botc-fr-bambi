@@ -63,12 +63,18 @@ Lors de la première nuit, il apprend que l’un de deux joueurs est un **Sbire 
 Il ne reçoit cette information qu’une seule fois, au début de la partie.  
 
 
-<blockquote style="background:#2e2e2e; border-left:4px solid #b58b52; padding:10px; border-radius:8px;">
-   **Jinx associé :**
-  <br>Si l’Enquêteur apprend que le
-  <a href="../roles_experimentaux/vizir.html" style="color:#red; font-weight:bold;">Vizir</a>
-  est en jeu, <strong>le Conteur n’annonce pas son existence</strong> publiquement.
-</blockquote>
+## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+  <li>
+    🧞
+    <img src="../images/Icon_vizier.png" alt="Boffin" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a> :  
+    Si l’Enquêteur apprend que le <span style="color:#d45b5b; font-weight:bold;">Vizir</span> <strong>le Conteur n’annonce pas son existence</strong>    publiquement. 
+  </li>  
+  
+  </ul>
 
 
 ## 🎭 <span style="color:blue">Comment Conter</span>  
