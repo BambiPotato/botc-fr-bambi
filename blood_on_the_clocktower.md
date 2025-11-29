@@ -135,7 +135,7 @@ title: Blood on the Clocktower
 <p style="color:#e0c99d; font-size:19px; line-height:1.8; text-align:center;">
   📘 Découvrez les  
   <a href="./regles.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">
-    Règles complètes du jeu <em>Blood on the Clocktower</em> 🩸
+    Règles complètes du jeu <em>Blood 🩸on the Clocktower</em> 
   </a>
 </p>
 
