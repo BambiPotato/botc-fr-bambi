@@ -23,7 +23,7 @@ title: Cuistot
 
 ---
 
-## 🧾 <span style="color:blue">Informations</span>   
+## ℹ️ <span style="color:blue">Informations</span>   
 
 **Type :** [<span style="color:blue">Villageois</span>](../villageois.md)   
 **Artiste :** Aidan Roberts  
