@@ -22,7 +22,8 @@ title: Espion
 </div>
 
 
-## ℹ️ Information
+## ℹ️ <span style="color:red">Informations</span>
+
 - **Type :** [Sbire](../sbires.md) 
 - **Artiste :** Marianna Carr  
 - *« Tout maître brasseur digne de ce nom sait qu’aucune concoction ne crée plus vite des problèmes que celle où les espions semblent doubles. »*
@@ -51,8 +52,9 @@ title: Espion
 "Cult of the Clocktower – épisode par Andrew Nathenson"
 </p>
 
+---
 
-## <span style="color:red">Résumé</span>
+## 📖 <span style="color:red">Résumé</span>
 *« Chaque nuit, vous voyez le Grimoire. Vous pouvez apparaître comme Bon et comme un Villageois ou un Étranger, même si vous êtes mort. »*
 
 - L’Espion est un **Sbire maléfique**, mais il peut **s’enregistrer comme Bon** comme un Villageois ou un Étranger quand une capacité cherche à détecter son alignement.  
@@ -64,6 +66,7 @@ title: Espion
 ---
 
 ## 🎭 <span style="color:red">Comment Conter</span>
+
 - Chaque nuit, **réveillez l’Espion** et montrez-lui le **Grimoire complet** aussi longtemps qu’il le souhaite.  
 - Quand une capacité détecte ou affecte un joueur « Bon » / Villageois / Étranger, **choisissez comment l’Espion s’enregistre** :  
   - Montrez un jeton « Bon » si besoin.  
@@ -73,6 +76,7 @@ title: Espion
 ---
 
 ## 🧩 <span style="color:red">Exemples</span>
+
 - La **[Lavandière](../tb_roles/lavandiere.md)** apprend que **Claire** ou **Nicolas** est **[Gardien](../tb_roles/gardien.md)**. En réalité, Claire est **[Moine](../tb_roles/moine.md)**, Douglas est **Espion**, enregistré comme Gardien du corbeau.  
 - L’Espion est voisin de l' **[Imp](im^.md)** et de l’**[Empathique](../tb_roles/empathique.md)**.  
   - Le **[Cuistot](../tb_roles/cuistot.md)** apprend un « 1 » car l’Espion est enregistré comme Maléfique.  
@@ -83,6 +87,7 @@ title: Espion
 ---
 
 ## 💡<span style="color:red">Conseils & Astuces</span> 
+
 - **Mémorisez bien** le Grimoire : vous savez tout dès le début (rôles en jeu, alignements, statuts).  
 - Notez surtout :  
   - Les rôles non utilisés sont parfaits pour **vos bluffs**.  
@@ -96,7 +101,8 @@ title: Espion
 
 ---
 
-## ⚔️ <span style="color:red">Combattre l’Espion</span>  
+## ⚔️ <span style="color:red">Combattre l’Espion</span> 
+
 - Si le Mal **tue vite les bons rôles clés**, c’est peut-être grâce à l’Espion.  
 - **Supposez que le Mal sait tout** et coordonnez vos infos au lieu de garder des secrets.  
 - Attention aux joueurs trop à l’aise pour bluffer des rôles d’information comme **Lavendière** ou **Gardien**.  
