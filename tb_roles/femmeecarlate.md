@@ -67,6 +67,41 @@ La **Femme Écarlate** devient le <span style="color:red">Démon</span> si celui
 
 ---
 
+## 🧞 <span style="color:#d4a76a;">Jinxes liés</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+  <li>
+    🧞
+    <img src="../images/Icon_alhadikhia.png" alt="Al Hadikhia" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/alhadikhia.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Al Hadikhia</a> :  
+    S'il y avait deux Démons, dont l'un était la Femme Écarlate, la Femme Écarlate redeviendrait la Femme Écarlate.
+  </li>
+
+ 🧞
+<li>
+    <img src="../images/Icon_fanggu.png" alt="Fang Gu" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../sv_roles/fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a> :  
+    S'il y avait deux Démons, dont l'un était la Femme Écarlate, la Femme Écarlate resterait la Femme Écarlate.
+  </li>
+
+   🧞
+<li>
+    <img src="../images/Icon_lilmonsta.png" alt="P'tit Monstre" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/lilmonsta.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">P'tit Monstre</a> :  
+    Si le P'tit Montre meurt alors qu'il reste 5 joueurs ou plus, la Femme Écarlate garde le P'tit Monstre jusqu'à la fin de la partie.
+  </li>
+
+   🧞
+<li>
+    <img src="../images/Icon_plaguedoctor.png" alt="Docteur de la peste" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/plaguedoctor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Docteur de la peste</a> :  
+    Si le Conteur ou la Conteur acquiert la capacité de la Femme Écarlate, un Sbire l'acquiert et l'apprend.
+</ul>
+
+
+---
+
 ## 🎭 <span style="color:red">Comment Conter</span>   
 
 Si le <span style="color:red">Démon</span> meurt alors qu’il reste plus de 5 joueurs en vie :  
