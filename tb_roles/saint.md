@@ -75,9 +75,9 @@ Le Saint met fin à la partie s'il est exécuté.
 - Ensuite, le **[<span style="color:red">Baron</span>](baron.md)** est nommé mais n’obtient que 3 voix. 
   Aucune autre nomination n'est faite aujourd'hui. : le Saint est exécuté → **fin de partie, le Mal triomphe**. 
   
-- L’**[<span style="color:red">Imp</span>](imp.md)** est nommé et les joueurs votent. Le **[<span style="color:purple">Flingeur</span>](../voyageurs/gunslinger.md)** tue le Saint pendant la journée ; le Saint **meurt**, **mais la partie continue** (ce n’est pas une exécution).
+- L’**[<span style="color:red">Imp</span>](imp.md)** est nommé et les joueurs votent. Le **[<span style="color:purple">Gunslinger</span>](../voyageurs/gunslinger.md)** tue le Saint pendant la journée ; le Saint **meurt**, **mais la partie continue** (ce n’est pas une exécution).
 
-- **Le Saint** est « exécuté », mais l’effet du **[<span style="color:purple">Bouc Émissaire</span>](../voyageurs/scapegoat.md.md)** se déclenche : c’est le [Bouc Émissaire](../voyageurs/boucemissaire.md) qui meurt **à la place**. **Le Saint n’est pas mort**, donc **la partie continue**.
+- **Le Saint** est « exécuté », mais l’effet du **[<span style="color:purple">Bouc Émissaire</span>](../voyageurs/scapegoat.md)** se déclenche : c’est le [Bouc Émissaire](../voyageurs/boucemissaire.md) qui meurt **à la place**. **Le Saint n’est pas mort**, donc **la partie continue**.
 
 ---
 
@@ -117,9 +117,10 @@ Le Saint met fin à la partie s'il est exécuté.
 ---
 
 ## 📝 <span style="color:blue">Notes & interactions</span> 
+
 - Seule la **mort par exécution** déclenche la capacité du Saint.  
 - **L'Exil** n'est pas une exécution !
-- Les effets de redirection avec le (**[<span style="color:violet">Bouc Émissaire</span>](../voyageurs/scapegoat.md)**) : si **quelqu’un d’autre** meurt **à la place** du Saint, **la partie continue**.
+- Les effets de redirection avec le (**[<span style="color:purple">Bouc Émissaire</span>](../voyageurs/scapegoat.md)**) : si **quelqu’un d’autre** meurt **à la place** du Saint, **la partie continue**.
 
 ---
 
