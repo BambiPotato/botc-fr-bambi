@@ -71,6 +71,7 @@ Le Baron modifie le nombre d’Étrangers présents dans la partie.
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
+
   <li>
     🧞
     <img src="../images/Icon_baron.png" alt="Baron" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
