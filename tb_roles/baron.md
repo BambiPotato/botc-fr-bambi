@@ -86,7 +86,10 @@ Le Baron modifie le nombre d’Étrangers présents dans la partie.
   </li>
 
 </ul>
+
 ---
+
+
 ## 🎭 <span style="color:red">Comment Conter</span>
 Pendant la mise en place :  
 1) Retirez **2 jetons Villageois**.  
