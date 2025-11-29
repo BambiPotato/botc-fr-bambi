@@ -102,7 +102,7 @@ Le Majordome ne peut voter que si son **Maître** vote.
   <li>
     🧞
     <img src="../images/Icon_cannibal.png" alt="Cannibale" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/cannibal.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cannibale/a> :  
+    <a href="../roles_experimentaux/cannibal.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cannibale</a> :  
     Si le Cannibale gagne la capacité du Majordome, le Cannibale l’apprend.
   </li>
   <li>
