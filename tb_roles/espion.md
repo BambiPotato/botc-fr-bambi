@@ -134,7 +134,7 @@ title: Espion
   </li>  
   <li>
     🧞
-    <img src="../images/heretic.png" alt="Hérétique" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <img src="../images/Icon_heretic.png" alt="Hérétique" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/heretic.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Hérétique</a> :  
     Un seul rôle jinxé peut être en jeu.
   </li>  
