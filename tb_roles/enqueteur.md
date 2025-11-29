@@ -63,7 +63,7 @@ Lors de la première nuit, il apprend que l’un de deux joueurs est un **Sbire 
 Il ne reçoit cette information qu’une seule fois, au début de la partie.  
 
 
-## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
+## 🧞 <span style="color:#d4a76a;">Jinxes liés</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
