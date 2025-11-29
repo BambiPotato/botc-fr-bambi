@@ -123,6 +123,7 @@ Si le <span style="color:red">Démon</span> meurt alors qu’il reste plus de 5 
 
 - Contrairement à d’autres <span style="color:red">Sbires</span>, elle peut vouloir tuer son propre <span style="color:red">Démon</span> pour le remplacer.  
    - Surveillez les changements d’attitude dès qu’il ne reste plus que 5 joueurs.  
+   
 
    ---
    
@@ -163,9 +164,8 @@ Si le <span style="color:red">Démon</span> meurt alors qu’il reste plus de 5 
 </ul>
 
 
----
+--- 
 
-  
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
   <li>🍺 <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
