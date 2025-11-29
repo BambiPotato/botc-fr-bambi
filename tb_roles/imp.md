@@ -1,12 +1,12 @@
   <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
+    <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
 ---
 
-# 👹 Imp  
+# 👹 <span style="color:red">Imp</span>  
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -20,7 +20,7 @@
 
 ---
 
-## ℹ️ Information  
+## 🧾 <span style="color:red">Information</span>  
 
 - **Type :** [<span style="color:red">**Démon**</span>](../demons.md)  
 - **Artiste :** Aidan Roberts  
@@ -43,7 +43,7 @@
 </div>
 
 
-## 📖 Résumé  
+## 📖 <span style="color:red">Résumé</span>  
 
 **Chaque nuit (sauf la première), choisissez un joueur : il meurt.  
 Si vous vous tuez de cette façon, un <span style="color:red">Sbire</span> vivant devient le nouvel Imp.**  
@@ -57,7 +57,7 @@ L’**Imp** tue un joueur chaque nuit et peut transférer son rôle à un <span 
 
 ---
 
-## 🎬 Comment Conter  
+## 🎭 <span style="color:red">Comment Conter</span>  
 
 - Chaque nuit (sauf la première), réveillez l’Imp. Il pointe un joueur.  
   → Ce joueur meurt (posez un linceul et le jeton **MORT** correspondant).  
@@ -68,7 +68,7 @@ L’**Imp** tue un joueur chaque nuit et peut transférer son rôle à un <span 
 
 ---
 
-## 🧾 Exemples  
+## 🧩 <span style="color:red">Exemples</span>  
 
 - La première nuit, l’Imp apprend que ses <span style="color:red">Sbires</span> sont Céline et Tanina.  
   Il apprend aussi que les rôles :  [Moine](moine.md), [Cuistot](cuistot.md)et [Bibliothécaire](bibliothecaire.md) ne sont pas en jeu.  
@@ -80,7 +80,7 @@ L’**Imp** tue un joueur chaque nuit et peut transférer son rôle à un <span 
 
 ---
 
-## 💡 Astuces & Conseils  
+## 💡 <span style="color:red">Astuces & Conseils</span>   
 
 - Votre **survie est primordiale** : évitez à tout prix l’exécution.  
   Même avec 3 <span style="color:red">Sbires</span>, ne comptez pas trop sur une [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md).  
@@ -90,7 +90,7 @@ L’**Imp** tue un joueur chaque nuit et peut transférer son rôle à un <span 
 
 - Tuez vos <span style="color:red">Sbires</span> si nécessaire : leur sacrifice peut vous sauver.  
 
-- Au début, le Conteur vous donne **3 bluffs sûrs** (rôles non en jeu).  
+- Au début, le Conteur vous donne **3 bluffs sûrs** (3 rôles qui ne sont pas en jeu).  
   → Choisissez un bluff adapté à votre style :  
   - passif : [Soldat](soldat.md), [Reclus](reclus.md)  
   - risqué : [Voyante](voyante.md), [Mercenaire](mercenaire.md)  
@@ -107,7 +107,7 @@ L’**Imp** tue un joueur chaque nuit et peut transférer son rôle à un <span 
 
 ---
 
-## ⚔️ Combattre l’Imp  
+## ⚔️ <span style="color:red">Combattre l’Imp</span>  
 
 - Exécuter le <span style="color:red">Démon</span> = victoire du Bien.  
   Toujours prioriser un suspect Démon plutôt qu’un <span style="color:red">Sbire</span>.  
@@ -120,15 +120,13 @@ L’**Imp** tue un joueur chaque nuit et peut transférer son rôle à un <span 
 - Si l’Imp **meurt de nuit**, il s’est probablement suicidé pour passer son rôle à un <span style="color:red">Sbire</span>.  
   → Analysez son comportement antérieur : cela révèle souvent ses complices.  
 
-- Attention à la [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md) : tant qu’il reste moins de 5 joueurs vivants, exécuter l’Imp ne garantit pas la fin du jeu.  
+- Attention à la [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md) : tant qu’il reste moins de 5 joueurs vivants, exécuter l’Imp ne garantit pas la fin de la partie.  
 
 - Les rôles comme le [Saint](saint.md), le [Reclus](reclus.md) ou le [Majordome](majordome.md) peuvent être utiles pour absorber les attaques nocturnes.  
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌛 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
+  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li>🍺 <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
   <li>👹 <a href="../demons.html" style="color:red; font-weight:bold; text-decoration:none;">Catégorie : Démons</a></li>
 </ul>
 
