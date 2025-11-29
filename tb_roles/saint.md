@@ -96,7 +96,7 @@ Le Saint met fin à la partie s'il est exécuté.
 
 ---
 
-## 😈 <span style="color:blue">Bluffer Sain</span>  
+## 😈 <span style="color:blue">Bluffer Saint</span>  
 
 **Pourquoi c’est un bluff maléfique puissant :**  
 - Le risque de **défaite immédiate du Bien** à l’exécution **dissuade** souvent le Village de vous tuer. Vous gagnez du temps (poison, manipulations, passage d’[<span style="color:red">Imp</span>](imp.md) à **[<span style="color:red">Femme Écarlate</span>](femmeecarlate.md)**, etc.).
