@@ -72,7 +72,7 @@ La **Voyante** détecte si un joueur est le [<span style="color:red">Démon</spa
 ## 🎭 <span style="color:blue">Comment Conter</span>
 
 Lors de la préparation de la première nuit :	
-- Placez le jeton de rappel **"Leurre"** de la Voyante à côté du jeton de rôle d’un Villageois ou d’un Étranger.
+Placez le jeton de rappel **"Leurre"** de la Voyante à côté du jeton de rôle d’un Villageois ou d’un Étranger.
 	•	Chaque nuit :
 	•	Réveillez la Voyante.
 	•	Elle choisit deux joueurs (vivants, morts ou elle-même).
@@ -83,9 +83,6 @@ alors hochez la tête pour indiquer oui.
 	•	Sinon, secouez la tête pour indiquer non.
 	•	Rendormez la Voyante.
 
-⸻
-
-Si tu veux, je peux aussi faire la version “résumé court” pour la section Tips & Tricks de ton wiki !
 
 👉 *Lors des parties à 5 ou 6 joueurs **TeensyVille**, il est parfois conseillé de faire de la Voyante son propre Leurre
 car cela lui permet d'obtenir davantage d'informations.*  
