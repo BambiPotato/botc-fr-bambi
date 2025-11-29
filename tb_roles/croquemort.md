@@ -109,7 +109,7 @@ title: Croque-Mort
 ## 😈 <span style="color:blue;">Bluffer Croque-Mort</span>   
 
 - Vous vous réveillez **chaque nuit sauf la première** : préparez un récit crédible avec un rôle exécuté chaque jour.  
-- Confirmer des Villageois bons peut vous rendre crédible surtout si vous avez accès au Grimoire grâce à un [<span style="color:red">Espion</span>](espion.md)).  
+- Confirmer des Villageois bons peut vous rendre crédible surtout si vous avez accès au Grimoire grâce à un [<span style="color:red">Espion</span>](espion.md).  
 - Vous pouvez aussi rendre maléfique un joueur exécuté en prétendant qu’il était Sbire ou Démon. 
 C'est risqué car le joueur sait que vous mentez, mais efficace si les autres vous croient.  
 - Si un allié maléfique est exécuté, prétendre qu’il est un [Villageois](../villageois.md) renforce vos deux bluffs.  
