@@ -17,7 +17,7 @@
 
 ---
 
-## ℹ️ <span style="color:blue">Information</span>
+## ℹ️ <span style="color:blue">Informations</span>
 
 - **Type :** [Étrangers](../etrangers.md)  
 - **Artiste :** Aidan Roberts  
