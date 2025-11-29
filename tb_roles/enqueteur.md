@@ -7,7 +7,7 @@ title: Enquêteur
 
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
+    <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
@@ -26,7 +26,7 @@ title: Enquêteur
 
 
 
-## ℹ️ Information  
+## 🧾 <span style="color:blue">Information</span>  
 
 - **Type :** [<span style="color:blue">Villageois</span>](../villageois.md)  
 - **Illustrateur :** Aidan Roberts  
@@ -56,7 +56,7 @@ title: Enquêteur
 "Cult of the Clocktower – épisode par Andrew Nathenson"
 </p>
 
-## 📖 Résumé
+## 📖 <span style="color:blue">Résumé</span>
 « Vous commencez en apprenant 2 joueurs et le rôle de [<span style="color:red">Sbire</span>](../sbires.md) de l’un des deux.» 
 L’**Enquêteur** apprend qu’un rôle de Sbire particulier est en jeu, mais pas lequel des deux joueurs le possède.  
 Lors de la première nuit, il apprend que l’un de deux joueurs est un **Sbire spécifique**.  
@@ -71,7 +71,7 @@ Il ne reçoit cette information qu’une seule fois, au début de la partie.
 </blockquote>
 
 
-## 🎬 Mise en place  
+## 🎭 <span style="color:blue">Comment Conter</span>  
 
 - Pendant la préparation de la première nuit :  
   - Placez le jeton de rappel **<span style="color:red">SBIRE</span>** de l’Enquêteur à côté du jeton d’un [<span style="color:red">Sbire</span>](../sbires.md).  
@@ -83,7 +83,7 @@ Il ne reçoit cette information qu’une seule fois, au début de la partie.
 
 ---
 
-## 🧾 Exemples  
+## 🧩 <span style="color:blue">Exemples</span>  
 
 - **Céline** est [<span style="color:red">Baron</span>](baron.md), et **Pierre** est [Maire](maire.md).  
   → L’Enquêteur apprend que soit Céline, soit Pierre est le Baron.  
@@ -97,7 +97,7 @@ Il ne reçoit cette information qu’une seule fois, au début de la partie.
 
 ---
 
-## 💡 Astuces & Conseils  
+## 💡 <span style="color:blue">Astuces & Conseils</span>    
 
 - Partagez votre information **dès le premier jour**. Même sans certitude, exécuter les deux suspects au fil du jeu garantit qu’au moins un [<span style="color:red">Sbire</span>](../sbires.md) meurt.  
 
@@ -119,7 +119,7 @@ Il ne reçoit cette information qu’une seule fois, au début de la partie.
 
 ---
 
-## 🎭 Bluff en tant qu’Enquêteur  
+## 🎭 <span style="color:blue">Bluffer Enquêteur</span>  
 
 - Vous êtes censé avoir eu votre info la première nuit : deux joueurs + un rôle de Sbire.  
 
@@ -132,11 +132,10 @@ Il ne reçoit cette information qu’une seule fois, au début de la partie.
   - Si vous êtes [<span style="color:red">Espion</span>](espion.md), vos infos exactes rendent votre bluff imparable.  
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#d58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>🌸 <a href="../sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
-  <li>🧑‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
+  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li>🍺 <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li>🧑‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a></li>
 </ul>
+—
 
 
