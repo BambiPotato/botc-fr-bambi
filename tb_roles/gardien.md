@@ -63,6 +63,7 @@ Le Gardien apprend le rôle d’un joueur s’il meurt la nuit.
 
 ---
 
+
 ## 🎭 <span style="color:blue">Comment Conter</span> 
 - Si le Gardien meurt cette nuit, réveillez-le.  
 - Il désigne un joueur. Montrez-lui le jeton de rôle de ce joueur.  
@@ -100,7 +101,29 @@ Le Gardien apprend le rôle d’un joueur s’il meurt la nuit.
   - Ou confirmer un vrai Villageois pour gagner sa confiance.  
 - Si vous n’êtes pas sûr, dites que le joueur choisi était [Ivrogne](ivrogne.md) : ça sème le doute.  
 - Gardien est un excellent bluff si vous voulez rester vivant longtemps (le Démon évite de tuer ce rôle).  
-- Vous pouvez aussi vous en servir pour justifier pourquoi vous avez survécu tard dans la partie.  
+- Vous pouvez aussi vous en servir pour justifier pourquoi vous avez survécu tard dans la partie. 
+
+## 🧞 <span style="color:#d4a76a">Jinxes liés</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+  <li>
+    🧞
+    <img src="../images/Icon_leviathan.png" alt="Lévathan" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/leviathan.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Léviathan</a> :  
+    Chaque nuit*, le Léviathan choisit un joueur vivant (différent des nuits précédentes) : un Gardien choisi utilise sa capacité mais ne meurt pas.
+  </li>  
+  
+   <li>
+    🧞
+    <img src="../images/Icon_riot.png" alt="Boffin" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> :  
+    Chaque nuit*, le Riot choisit un joueur bon vivant (différent des nuits précédentes) : un Gardien choisi utilise sa capacité mais ne meurt pas.
+  </li>
+  
+  </ul>
+
+  ---
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
