@@ -17,7 +17,7 @@
 
 ---
 
-## 🧾 <span style="color:blue">Informations</span>  
+## ℹ️ <span style="color:blue">Informations</span>  
 
 - **Type :** [Étrangers](../etrangers.md)  
 - **Artiste :** Aidan Roberts  
@@ -62,6 +62,7 @@ Le Majordome ne peut voter que si son **Maître** vote.
 ---
 
 ## 🎭 <span style="color:blue">Comment Conter</span>
+
 - Chaque nuit, réveillez le Majordome → il choisit un joueur. Placez le jeton **MAÎTRE** à côté de ce joueur.  
 - Lors des nominations, le Majordome ne peut voter que si son Maître vote (ou a déjà été compté).  
 - Si le Majordome vote illégalement, comptez quand même son vote pour éviter de révéler son identité.  
@@ -69,6 +70,7 @@ Le Majordome ne peut voter que si son **Maître** vote.
 ---
 
 ## 🧩 <span style="color:blue">Exemples</span>
+
 - Le Majordome choisit **Corentin** comme Maître. Le lendemain, il ne pourra voter que si *Corentin* vote.  
 - Le Maître baisse la main à la dernière seconde → le Majordome doit aussi baisser la main.  
 - Le Majordome mort peut toujours utiliser son jeton de vote librement.  
@@ -76,6 +78,7 @@ Le Majordome ne peut voter que si son **Maître** vote.
 ---
 
 ## 💡<span style="color:blue">Conseils & Astuces</span>
+
 - Choisir un bon Maître est crucial : si votre Maître est fiable, votre vote le sera aussi.  
 - Si vous dites à votre Maître que vous l’avez choisi, il tiendra compte de votre voix → cela peut vous donner des infos sur son alignement.  
 - Vous n’êtes **jamais obligé** de voter, même si votre Maître vote.  
@@ -86,6 +89,7 @@ Le Majordome ne peut voter que si son **Maître** vote.
 ---
 
 ## 😈 <span style="color:blue">Bluffer Majordome</span>
+
 - Vous vous réveilleriez **chaque nuit, y compris la première**, pour choisir un joueur.  
 - Le Majordome est rarement soupçonné → bluff parfait aussi bien pour les Bons que pour les Méchants.  
 - Vous pouvez changer de Maître chaque jour ou rester fidèle pour bâtir une relation de confiance.  
