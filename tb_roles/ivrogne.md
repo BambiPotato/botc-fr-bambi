@@ -16,6 +16,7 @@
 </div>
 
 ---
+## 🧾 Information
 
 - **Type :** [Étrangers](../etrangers.md)  
 - **Artiste :** Aidan Roberts  
@@ -47,7 +48,7 @@
 
 ---
 
-## Résumé
+## 📖 <span style="color:blue">Résumé</span>
 
 *Vous ne savez pas que vous êtes l’Ivrogne. Vous pensez être un rôle de Villageois, mais vous ne l’êtes pas.*  
 
@@ -58,7 +59,7 @@
 
 ---
 
-## Mise en place
+## 🎭 <span style="color:blue">Comment Conter</span>
 - Le jeton **Ivrogne** **n’est pas** mis dans le sac. À la place, on y met un jeton **Villageois**.  
 - Le joueur qui pioche ce jeton est **en réalité l’Ivrogne** pour toute la partie.  
 - Le Conteur place un rappel *EST L’IVROGNE* dans le grimoire.  
@@ -66,7 +67,7 @@
 
 ---
 
-## Exemples
+## 🧩 <span style="color:blue">Exemples</span>
 - L’Ivrogne pense être le **[Soldat](./soldat.md)**. L’**[<span style="color:red">Imp</span>](imp.md)** l’attaque : l’Ivrogne meurt (il n’avait pas la capa du Soldat).  
 - L’Ivrogne pense être l’**[Empathique](./empathique.md)**. Première nuit : il apprend « 0 » alors qu’il est assis à côté d’un joueur maléfique ; la nuit suivante, il apprend « 1 ».  
 - L’Ivrogne pense être le **[Gardien](./gardien.md)**. Tué la nuit, il choisit le **[Saint](./saint.md)** et « apprend » qu’il est l’**[<span style="color:red">Empoisonneur</span>](empoisonneur.md)** (info fausse).  
@@ -74,7 +75,7 @@
 
 ---
 
-## 💡Conseils & Astuces
+## 💡 <span style="color:blue">Conseils & Astuces</span>
 - Vous ne **saurez jamais** que vous êtes l’Ivrogne : fiez-vous aux incohérences (infos impossibles, pouvoir qui « échoue », etc.).  
 - Un nombre d’**Étrangers** anormal peut indiquer un Ivrogne (ou un **[<span style="color:red">Baron</span>](baron.md)**).  
 - Distinguer **Ivrogne** vs **[<span style="color:red">Empoisonneur</span>](empoisonneur.md)** :  
@@ -86,7 +87,7 @@
 
 ---
 
-## Bluff en tant qu’Ivrogne
+## 😈 <span style="color:blue">Bluffer Ivrogne</span>
 - Bluff naturel : vous croyez être un **Villageois** → personne ne peut vous « doubler » directement.  
 - Bluffer des rôles à infos (**[Voyante](./voyante.md)**, **[Enquêteur](./enqueteur.md)**, **[Empathique](./empathique.md)**, **[Lavandière](./lavandiere.md)**, **[Bibliothécaire](./bibliothecaire.md)**…) et donner des infos **manifestement fausses** renforce l’illusion.  
 - Bluffer un pouvoir qui peut rater : **[Moine](./moine.md)** (votre protégé « meurt quand même »), **[Soldat](./soldat.md)** (vous « mourez la nuit »), **[Mercenaire](./mercenaire.md)** (tir inefficace), **[Vierge](./vierge.md)** (pas d’exécution).  
