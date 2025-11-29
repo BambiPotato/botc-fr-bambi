@@ -317,7 +317,7 @@ title: Conseils pour les Conteuses et les Conteurs
 <h3>🧩 Composer votre script</h3>
 <p>
   Choisissez des rôles qui se complètent bien (par exemple un 
-  <a href="./sv_roles/pit-hag.html" style="color:red;">Pit-Hag</a>, un 
+  <a href="./sv_roles/pithag.html" style="color:red;">Pit-Hag</a>, un 
   <a href="./tb_roles/saint.html" style="color:blue;">Saint</a>, un 
   <a href="./sv_roles/jumeau_maléfique.html" style="color:red;">Jumeau Maléfique</a>, un 
   <a href="./bmr_roles/aubergiste.html" style="color:blue;">Aubergiste</a>…), 
@@ -340,7 +340,7 @@ title: Conseils pour les Conteuses et les Conteurs
 
 <h3>💫 Utiliser les Légendaires pour équilibrer</h3>
 <p>
-  Les <a href="./legendaires.html" style="color:#b58b52;">Légendaires</a> aident à ajuster la difficulté (nombre d’Étrangers, désinformation, etc.).
+  Les <a href="./legendaire.html" style="color:#b58b52;">Légendaires</a> aident à ajuster la difficulté (nombre d’Étrangers, désinformation, etc.).
 </p>
 
 <h3>🌀 Gérer les interactions complexes</h3>
