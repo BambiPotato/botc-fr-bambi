@@ -71,8 +71,8 @@ La **Femme Écarlate** devient le <span style="color:red">Démon</span> si celui
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
+   🧞
   <li>
-    🧞
     <img src="../images/Icon_alhadikhia.png" alt="Al Hadikhia" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/alhadikhia.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Al Hadikhia</a> :  
     S'il y avait deux Démons, dont l'un était la Femme Écarlate, la Femme Écarlate redeviendrait la Femme Écarlate.
