@@ -146,21 +146,21 @@ title: Conseils pour les Conteuses et les Conteurs
   <br>Exemples :
 </p>
 <blockquote>
-  ❌ « L’Empathique voulait savoir… »<br>
+  ❌ « <a href="./tb_roles/empathique.html" style="color:blue; text-decoration:none;">L’Empathique</a> voulait savoir… »<br>
   ✅ « Cédric voulait savoir… »
 </blockquote>
 
 <h3>🤐 Empêcher les discussions prématurées</h3>
 <p>
   Avant la première nuit, rappelez de <strong>ne pas révéler son rôle</strong> : le <span style="color:red;">Démon</span> n’a pas encore ses bluffs.
-  Si besoin, utilisez un <a href="./legendaires.html" style="color:#b58b52;">Légendaire</a> (ex. <strong>Bibliothécaire de l’Enfer</strong>) pour l’interdire en jeu.
+  Si besoin, utilisez un <span style="color:#b58b52;">Légendaire</span> (ex. <a href="./legendaire_roles/hellslibrarian.md" style="color:#b58b52; text-decoration:none;"><strong>Bibliothécaire de l’Enfer</strong></a>) pour l’interdire en jeu.
 </p>
 
 <h3>🌙 Silence pendant la nuit</h3>
 <p>
   La nuit doit rester silencieuse. Si quelqu’un commente ses actions à voix haute, 
   cela ruine les bluffs des <span style="color:red;">maléfiques</span>. 
-  Rappelez la règle avec bienveillance ou utilisez un Légendaire si nécessaire.
+  Rappelez la règle avec bienveillance ou utilisez un <a href="./legendaires.html" style="color:#b58b52;">Légendaire</a> si nécessaire.
   Cependant, les joueurs et les joueuses peuvent tout à fait chanter et détendre l'atmosphère.
 </p>
 
@@ -317,7 +317,7 @@ title: Conseils pour les Conteuses et les Conteurs
 <h3>🧩 Composer votre script</h3>
 <p>
   Choisissez des rôles qui se complètent bien (par exemple un 
-  <a href="./sv_roles/pithag.html" style="color:red;">Pit-Hag</a>, un 
+  <a href="./sv_roles/pit-hag.html" style="color:red;">Pit-Hag</a>, un 
   <a href="./tb_roles/saint.html" style="color:blue;">Saint</a>, un 
   <a href="./sv_roles/jumeau_maléfique.html" style="color:red;">Jumeau Maléfique</a>, un 
   <a href="./bmr_roles/aubergiste.html" style="color:blue;">Aubergiste</a>…), 
@@ -340,7 +340,7 @@ title: Conseils pour les Conteuses et les Conteurs
 
 <h3>💫 Utiliser les Légendaires pour équilibrer</h3>
 <p>
-  Les <a href="./legendaire.html" style="color:#b58b52;">Légendaires</a> aident à ajuster la difficulté (nombre d’Étrangers, désinformation, etc.).
+  Les <a href="./legendaires.html" style="color:#b58b52;">Légendaires</a> aident à ajuster la difficulté (nombre d’Étrangers, désinformation, etc.).
 </p>
 
 <h3>🌀 Gérer les interactions complexes</h3>
@@ -428,7 +428,7 @@ title: Conseils pour les Conteuses et les Conteurs
 <h3>🌟 Utiliser les Légendaires</h3>
 <p>
   Adaptez vos parties aux profils (besoin de calme, de confiance, etc.). 
-  Connaître vos Légendaires rend les parties plus inclusives.
+  Connaître vos <a href="./legendaires.html" style="color:#b58b52;">Légendaires</a> rend les parties plus inclusives.
 </p>
 
 <h3>🎉 Cultiver la convivialité</h3>
