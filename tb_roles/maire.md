@@ -61,8 +61,8 @@ S’il est attaqué par le Démon, le Conteur peut choisir qu’un autre joueur 
 - **Dernier jour :** si exactement 3 joueurs sont vivants et qu’aucune exécution n’a lieu → la partie se termine immédiatement avec une victoire des Bons.  
 - **Cible du Démon :** si le Maire doit mourir la nuit, le Conteur peut choisir que le Maire survive et qu’un autre joueur meure à la place.  
 - Le Conteur annonce seulement « qu’un joueur est mort », jamais la raison.  
-- Les [<span style="color:#9b59b6>Voyageurs</span>](../voyageurs/index.md) comptent comme des joueurs pour la condition du Maire → ils doivent donc être exilés au préalable.  
-- Les [<span style="color:#d4a76a>Légendaires</span>](../fabled/index.md) ne comptent pas : le Conteur n’est pas un joueur.  
+- Les [<span style="color:violet">Voyageurs</span>](../voyageurs/index.md) comptent comme des joueurs pour la condition du Maire → ils doivent donc être exilés au préalable.  
+- Les [<span style="color:#gold">Légendaires</span>](../fabled/index.md) ne comptent pas : le Conteur n’est pas un joueur.  
 - Si le Démon attaque le Maire et que le Conteur choisit un joueur déjà mort, un [Soldat](soldat.md) ou un joueur protégé par le [Moine](moine.md), ce joueur ne meurt pas non plus.  
 - Pendant la nuit, si le Maire est la cible du Démon :  
   - soit il meurt,  
