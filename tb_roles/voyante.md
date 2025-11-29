@@ -1,3 +1,7 @@
+---
+layout: default
+title: Voyante
+---
 
 
 <p align="left">
@@ -47,6 +51,7 @@
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
 "Cult of the Clocktower – épisode par Andrew Nathenson"
 </p>
+
 ---
 
 ## 📖 Résumé  
@@ -60,24 +65,34 @@ La **Voyante** détecte si un joueur est le [<span style="color:red">Démon</spa
 - Elle apprend si **au moins l’un d’eux est le Démon**. (Elle ne sait pas lequel.)  
 - Si aucun n’est le Démon → elle apprend "non".  
 - Un joueur bon est désigné par le Conteur comme le **Leurre** (*Red Herring*). Ce joueur apparaît toujours comme Démon pour la Voyante.  
-- Le Leurre est le même pendant toute la partie et peut être n’importe quel Villageois (même la Voyante).  
+- Le Leurre est le même pendant toute la partie et peut être n’importe quel Villageois ou Étranger (même la Voyante).  
 
 ---
 
-## 🎲 Mise en place & exécution  
+## 🎭 <span style="color:blue">Comment Conter</span>
 
-- La première nuit, placez le jeton **Leurre** de la Voyante à côté du pion d’un Villageois.  
-- Chaque nuit :  
-  - Réveillez la Voyante.  
-  - Elle désigne deux joueurs (vivants, morts ou elle-même).  
-  - Si au moins un est Démon ou Leurre → hochez la tête (oui). Sinon → secouez la tête (non).  
-  - Endormez la Voyante.  
+Lors de la préparation de la première nuit :	
+- Placez le jeton de rappel **"Leurre"** de la Voyante à côté du jeton de rôle d’un Villageois ou d’un Étranger.
+	•	Chaque nuit :
+	•	Réveillez la Voyante.
+	•	Elle choisit deux joueurs (vivants, morts ou elle-même).
+	•	Si au moins l’un des deux est :
+• le Démon, ou
+• le Leurre,
+alors hochez la tête pour indiquer oui.
+	•	Sinon, secouez la tête pour indiquer non.
+	•	Rendormez la Voyante.
 
-👉 En petites parties, il est parfois conseillé de faire de la Voyante son propre Leurre.  
+⸻
+
+Si tu veux, je peux aussi faire la version “résumé court” pour la section Tips & Tricks de ton wiki !
+
+👉 *Lors des parties à 5 ou 6 joueurs **TeensyVille**, il est parfois conseillé de faire de la Voyante son propre Leurre
+car cela lui permet d'obtenir davantage d'informations.*  
 
 ---
 
-## 🧩 Exemples  
+## 🧩 <span style="color:blue">Exemples</span>   
 
 - La Voyante choisit le [Moine](moine.md) et le [Croque-Mort](croquemort.md). → Réponse : **non**.  
 - Elle choisit l’[Imp](imp.md) et l’[Empathique](empathique.md). → Réponse : **oui**.  
@@ -86,7 +101,7 @@ La **Voyante** détecte si un joueur est le [<span style="color:red">Démon</spa
 
 ---
 
-## 💡 Conseils & Astuces  
+## 💡 <span style="color:blue">Conseils & Astuces</span>    
 
 - Un **"non"** est souvent plus utile qu’un "oui" : cela élimine deux suspects possibles.  
 - Vous ne détectez que les **Démons**. Un "non" ne signifie pas que le joueur est bon : il peut être un Sbire.  
@@ -100,7 +115,7 @@ La **Voyante** détecte si un joueur est le [<span style="color:red">Démon</spa
 
 ---
 
-## 🎭 Bluff de la Voyante  
+## 😈 <span style="color:blue">Bluffer Voyante</span>  
 
 - Vous vous réveillez **chaque nuit** et devez donc avoir un historique crédible d’actions et de résultats.  
 - Vous pouvez blanchir vos alliés maléfiques ("ces deux joueurs ne sont pas le Démon") ou accuser de bons joueurs.  
@@ -109,13 +124,12 @@ La **Voyante** détecte si un joueur est le [<span style="color:red">Démon</spa
 - Dire qu’un joueur mort est Démon peut semer le doute sur toutes ses infos.  
 - En tant qu’[ <span style="color:red">Imp</span>](imp.md), vous pouvez vous révéler Voyante et mourir volontairement pour renforcer la crédibilité de vos fausses infos.  
 - En tant que [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md), accuser votre Démon peut vous donner l’air héroïque, surtout si un [Croque-Mort](croquemort.md) confirme.  
-- Avec un [<span style="color:red">Espion</span>](espion.md), vous pouvez parfaitement cibler et accuser pour brouiller les pistes.  
+- Avec un [<span style="color:red">Espion</span>](espion.md), vous pouvez parfaitement cibler et accuser pour brouiller les pistes. 
+
+---
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#d58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>🌸 <a href="../sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
-  <li>🧑‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
+  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li>🍺 <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li>🧑‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a></li>
 </ul>
-
