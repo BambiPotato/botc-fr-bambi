@@ -22,7 +22,7 @@ title: Lavandière
 
 <hr>
 
-<h3>🧾 Informations</h3>
+<h3>style="color:#6fa8ff; font-weight:bold;">🧾 Informations</h3>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li><strong>Type</strong> : <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a></li>
@@ -34,7 +34,7 @@ title: Lavandière
 
 <h3>🎭 Apparaît dans</h3>
 
-<h2 style="color:#f5f5f5; font-weight:bold; font-size:42px; margin-bottom:6px;">🍺 Trouble Brewing</h2>
+<h2 style="color:#b58b52; font-weight:bold; font-size:42px; margin-bottom:6px;">🍺 Trouble Brewing</h2>
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-6px;">
   « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
 </p>
@@ -53,7 +53,7 @@ title: Lavandière
 
 <hr>
 
-<h3>📖 Résumé</h3>
+<h3 style="color:#6fa8ff; font-weight:bold;">📖 Résumé</h3>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   « Vous commencez en apprenant deux joueurs et le rôle de 
@@ -75,7 +75,7 @@ title: Lavandière
 
 <hr>
 
-<h3>📖 Comment conter</h3>
+<h3>🎭 Comment conter</h3>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li><strong>Préparation (première nuit)</strong> :
@@ -100,7 +100,7 @@ title: Lavandière
 
 <hr>
 
-<h3>📖 Exemples</h3>
+<h3>🧩 Exemples</h3>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li><strong>Cédric</strong> est 
@@ -168,7 +168,7 @@ title: Lavandière
 
 <hr>
 
-<h3>🎭 Bluffer Lavandière</h3>
+<h3>😈 Bluffer Lavandière</h3>
 
 <ul style="color:#f5f5f5 font-size:18px; line-height:1.7;">
   <li>Vos infos arrivent <strong>dès la première nuit</strong> : deux joueurs et un jeton 
@@ -199,4 +199,3 @@ title: Lavandière
   <li>🍺 <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
   <li>🧑‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a></li>
 </ul>
-—
