@@ -123,7 +123,7 @@ Il ne l’apprend qu’une seule fois, puis plus rien.
 
 ---
 
-## 🎭 <span style="color:blue">Bluff en tant que Bibliothécaire</span>   
+## 🎭 <span style="color:blue">Bluffer Bibliothécaire</span>   
 
 - Vous êtes censé avoir reçu vos infos la première nuit.  
   Vous aurez donc « vu » deux joueurs et un jeton d’[Étranger](../glossaire.md#étranger).  
