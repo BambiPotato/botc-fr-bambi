@@ -6,11 +6,11 @@ title: Empathique
 
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
+    <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
-# 💙 Empathique  
+# 💙 <span style="color:blue;">Empathique</span>]  
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -24,7 +24,7 @@ title: Empathique
 
 ---
 
-## ℹ️ Informations  
+## 🧾 <span style="color:blue;">Informations</span>  
 
 **Type :** [<span style="color:blue;">**Villageois**</span>](../villageois.md)  
 **Artiste :** Aidan Roberts  
@@ -53,7 +53,7 @@ title: Empathique
 "Cult of the Clocktower – épisode par Andrew Nathenson"
 </p>
 
-## 📖 Résumé  
+## 📖 <span style="color:blue;">Résumé</span>  
 
 *"Chaque nuit, vous apprenez combien de vos deux voisins vivants sont maléfiques."*  
 
@@ -65,7 +65,7 @@ L’**Empathique** apprend chaque nuit combien de ses voisins encore vivants son
 
 ---
 
-## 🎲 Mise en place 
+## 🎭 <span style="color:blue;">Comment Conter</span>   
 
 - Chaque nuit, réveillez l’Empathique.  
 - Montrez-lui un nombre de doigts (0, 1 ou 2) correspondant au **nombre de voisins maléfiques vivants**.  
@@ -73,7 +73,7 @@ L’**Empathique** apprend chaque nuit combien de ses voisins encore vivants son
 
 ---
 
-## 🧩 Exemples  
+## 🧩 <span style="color:blue;">Exemples</span>   
 
 - L’Empathique a deux voisins bons : un [Soldat](soldat.md) et un [Moine](moine.md). → il apprend **0**.  
 - Le lendemain, le Soldat est exécuté, puis la nuit suivante le Moine est tué par l’[ <span style="color:red">Imp</span>](imp.md). L’Empathique détecte désormais les voisins du Soldat et du Moine : un [Bibliothécaire](bibliothecaire.md) (bon) et un Voyageur maléfique. → il apprend **1**.  
@@ -81,7 +81,7 @@ L’**Empathique** apprend chaque nuit combien de ses voisins encore vivants son
 
 ---
 
-## 💡 Conseils & Astuces  
+## 💡 <span style="color:blue;">Conseils & Astuces</span>   
 
 - Vous recevez l’info **après la mort de la nuit** → vos résultats reflètent l’état **à l’aube**.  
 - **0** → vous êtes probablement entouré de joueurs bons : collaborez avec eux.  
@@ -94,7 +94,7 @@ L’**Empathique** apprend chaque nuit combien de ses voisins encore vivants son
 
 ---
 
-## 🎭 Bluff de l’Empathique  
+## 😈 <span style="color:blue;">Bluffer Empathique</span>   
 
 - Vous recevez vos infos **chaque nuit**, dès la première.  
 - Dire **0** → vos voisins bons vous font confiance, vous protégeant et protégeant vos alliés du Mal.  
@@ -104,10 +104,8 @@ L’**Empathique** apprend chaque nuit combien de ses voisins encore vivants son
 - L’Empathique étant très puissant, sa survie en fin de partie peut sembler suspecte. Prétendre être l’[Ivrogne](ivrogne.md) ou être empoisonné est un bon prétexte.  
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#d58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>🌸 <a href="../sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
-  <li>🧑‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
+  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li>🍺 <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li>🧑‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a></li>
 </ul>
 
