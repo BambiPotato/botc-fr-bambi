@@ -19,6 +19,14 @@ title: Blood on the Clocktower
 <p style="text-align:center; color:#e0c99d; font-size:17px; margin-top:-5px;">
   <em>Blood 🩸 on the Clocktower, le plus grand jeu de bluff au monde.
 Un jeu de mensonges, de déduction et de narration, où les joueurs et joueuses incarnent des rôles secrets dans un village hanté par un Démon.
+    Blood on the Clocktower est un jeu de déduction sociale créé par Steven Medway et publié en 2022 par The Pandemonium Institute, d’abord via Kickstarter. Il existe en version jeu de société, sur application mobile et au sein de communautés Discord. Le jeu est également très présent sur Twitch, avec plusieurs chaînes dédiées, dont une chaîne officielle de The Pandemonium Institute.
+
+Le jeu oppose les maléfiques (les démons et leurs sbires) et les bons (les Villageois et les Étrangers), le tout dirigé par un Conteur neutre. Chaque joueur reçoit un rôle secret doté d’une capacité unique. La partie alterne jours et nuits :
+– le jour, on discute et on peut exécuter un joueur ;
+– la nuit, les démons choisissent une victime.
+
+Les bons gagnent s’ils exécutent le démon, tandis que les maléfiques gagnent s’ils parviennent à le garder en vie jusqu’à ce qu’il ne reste plus que deux joueurs.
+
 </em>
 </p>
 
@@ -72,9 +80,8 @@ mais avec des mécaniques modernes, inclusives et pleines de rebondissements.
 
 ---
 
-<h2 style="color:#ffa64d; font-weight:bold; font-size:24px;">📂 Navigation</h2>
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
+  <li>🏠 <a href="./index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
 </ul>
 
