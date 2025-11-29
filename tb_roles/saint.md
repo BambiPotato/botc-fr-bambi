@@ -116,10 +116,10 @@ Le Saint met fin à la partie s'il est exécuté.
 
 ---
 
-## 📝 <span style="color:blue">Notes de règles & interactions</span> 
+## 📝 <span style="color:blue">Notes & interactions</span> 
 - Seule la **mort par exécution** déclenche la capacité du Saint.  
-- ** L'Exil** n'est pas une exécution !
-- Effets de redirection (**[<span style="color:purlple">Bouc Émissaire</span>](../voyageurs/scapegoat.md)**) : si **quelqu’un d’autre** meurt **à la place** du Saint, **la partie continue**.
+- **L'Exil** n'est pas une exécution !
+- Les effets de redirection avec le (**[<span style="color:violet">Bouc Émissaire</span>](../voyageurs/scapegoat.md)**) : si **quelqu’un d’autre** meurt **à la place** du Saint, **la partie continue**.
 
 ---
 
