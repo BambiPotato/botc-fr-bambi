@@ -13,7 +13,7 @@ title: Enquêteur
 
 ---
 
-# 🔎 Enquêteur  
+# 🔎 <span style="color:blue">Enquêteur</span>    
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
