@@ -110,17 +110,17 @@ Le Gardien apprend le rôle d’un joueur s’il meurt la nuit.
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
-  <li>
+   <li>
     🧞
     <img src="../images/Icon_leviathan.png" alt="Lévathan" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-     <a href="../roles_experimentaux/leviathan.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Léviathan</a> :  
+    <a href="../roles_experimentaux/leviathan.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Léviathan</a> :  
     Chaque nuit*, le Léviathan choisit un joueur vivant (différent des nuits précédentes) : 
     un Gardien choisi utilise sa capacité mais ne meurt pas.
     </li>  
-   <li>
+    <li>
     🧞
     <img src="../images/Icon_riot.png" alt="Boffin" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-     <a href="../roles_experimentaux/riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> :  
+    <a href="../roles_experimentaux/riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> :  
     Chaque nuit*, le Riot choisit un joueur bon vivant (différent des nuits précédentes) : 
     un Gardien choisi utilise sa capacité mais ne meurt pas.
    </li>  
