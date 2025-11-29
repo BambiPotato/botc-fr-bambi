@@ -95,6 +95,29 @@
 - Coordination : un faux **[Bibliothécaire](./bibliothecaire.md)**, **[Gardien](./gardien.md)** ou **[Croque-Mort](./croquemort.md)** peut « confirmer » votre ivresse.  
 - Plus tard, avouer « je suis sûrement Ivrogne » peut justifier vos incohérences et retourner des votes clés.
 
+---
+
+
+## 🧞 <span style="color:#d4a76a">Jinxes liés</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+  <li>
+    🧞
+    <img src="../images/Icon_boffin.png" alt="Boffin" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/boffin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boffin</a> :  
+    Le <span style="color:#d45b5b; font-weight:bold;">Démon</span> ne peut pas recevoir la capacité de l'Ivrogne grâce au Boffin.
+  </li>  
+  <li>
+    🧞
+   <img src="../images/Icon_mathematician.png" alt="Mathématicien" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../sv_roles/mathematician.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mathématicien</a> :  
+    Le Mathématicien peut apprendre si la capacité de l’Ivrogne a produit une fausse information ou n’a pas fonctionné correctement.
+  </li>    
+  </ul>
+  
+---
+
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
   <li>🍺 <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
