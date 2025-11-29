@@ -15,6 +15,9 @@
   </a>
 </div>
 
+---
+
+## ℹ️ <span style="color:blue">Informations</span>
 
 - **Type :** [Villageois](../villageois.md)  
 - **Artiste :** Aidan Roberts  
@@ -58,6 +61,7 @@ S’il est attaqué par le Démon, le Conteur peut choisir qu’un autre joueur 
 ---
 
 ## 🎭 <span style="color:blue">Comment Conter</span>
+
 - **Dernier jour :** si exactement 3 joueurs sont vivants et qu’aucune exécution n’a lieu → la partie se termine immédiatement avec une victoire des Bons.  
 - **Cible du Démon :** si le Maire doit mourir la nuit, le Conteur peut choisir que le Maire survive et qu’un autre joueur meure à la place.  
 - Le Conteur annonce seulement « qu’un joueur est mort », jamais la raison.  
@@ -73,6 +77,7 @@ S’il est attaqué par le Démon, le Conteur peut choisir qu’un autre joueur 
 ---
 
 ## 🧩 <span style="color:blue">Exemples</span>
+
 - L'  [<span style="color:red">Imp</span>](imp.md) attaque le Maire → le Conteur choisit de tuer le [Gardien](gardien.md) à la place.  
 - Il reste trois joueurs en vie. Aucune nomination n'a lieu, il n'y a pas d'exécution aujourd'hui. Victoire pour le bien.  
 - Il reste cinq joueurs en vie, dont deux Voyageurs. Ces deux Voyageurs sont exilés, et le vote est à égalité entre les joueurs restants. 
@@ -81,6 +86,7 @@ S’il est attaqué par le Démon, le Conteur peut choisir qu’un autre joueur 
 ---
 
 ## 💡<span style="color:blue">Conseils & Astuces</span>
+
 - Votre pouvoir s’active **au dernier jour** : faites tout pour convaincre le Village que vous êtes réellement le Maire afin d’éviter toute exécution.  
 - Ne révélez pas trop tôt votre rôle, sinon le Démon cherchera à vous tuer nuit après nuit.  
 - À l’inverse, parfois annoncer votre rôle permet de créer un consensus autour de vous.  
@@ -93,6 +99,7 @@ S’il est attaqué par le Démon, le Conteur peut choisir qu’un autre joueur 
 ---
 
 ## 😈 <span style="color:blue">Bluffer Maire</span>
+
 - Le Maire **ne se réveille jamais la nuit** → facile à **Bulffer**.  
 - Sa longévité peut justifier votre survie suspecte face aux morts d’autres joueurs.  
 - Bluff parfait pour un Démon qui veut se protéger.  
