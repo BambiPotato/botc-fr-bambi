@@ -26,7 +26,7 @@ title: Femme Écarlate
 
 ---
 
-## 🧾 Information  
+## ℹ️ Information  
 
 - **Type :** [<span style="color:red">**Sbire**</span>](../sbires.md)  
 - **Artiste :** Marianna Carr  
