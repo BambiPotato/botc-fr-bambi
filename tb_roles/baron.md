@@ -23,7 +23,7 @@ title: Baron
 </div>
 
 
-## 🧾 Information
+## 🧾 <span style="color:red">Information</span>
 - **Type :** [<span style="color:red">**Sbires**</span>](../sbires.md)   
 - **Artiste :** Aidan Roberts  
 > *"Cette ville est tombée bien bas, pas vrai ? Main-d'œuvre étrangère bon marché… voilà la clé. Fourrez-les dans la mine, je dis. Un peu de travail dur n'a jamais fait de mal à personne, et une claque derrière les oreilles à tout brigand qui prétend le contraire. Tout est une question de profit, pas vrai ?"*
@@ -54,7 +54,7 @@ title: Baron
 "Cult of the Clocktower – épisode par Andrew Nathenson"
 </p>
 
-## 📖 Résumé
+## 📖 <span style="color:red">Résumé</span>
 **« Il y a des Étrangers supplémentaires en jeu. [+2 Étrangers] »**
 
 Le Baron modifie le nombre d’Étrangers présents dans la partie.  
@@ -67,7 +67,7 @@ Le Baron modifie le nombre d’Étrangers présents dans la partie.
 
 ---
 
-## 🎭 Comment Conter
+## 🎭 <span style="color:red">Comment Conter</span>
 Pendant la mise en place :  
 1) Retirez **2 jetons Villageois**.  
 2) Ajoutez **2 jetons Étrangers** à la place.  
@@ -77,7 +77,7 @@ Ces jetons (avec ces remplacements) vont dans le sac pour être tirés par les j
 
 ---
 
-## 🧩 Exemples
+## 🧩 <span style="color:red">Exemples</span>
 - Une partie avec **7 joueurs** la composition de base est :**(5 Villageois, 1 Sbire, 1 Démon)**. 
 - Le conteur décide de mettre Baron en jeu, le Conteur retire 2 Villageois et ajoute, par exemple, un [**Saint**](../tb_roles/saint.md) et un [**Majordome**](../tb_roles/majordome.md). 
 - La compisation finale aura donc 3 Villageois, 2 Étrangers, 1 Sbire, 1 Démon.  
@@ -86,7 +86,7 @@ Ces jetons (avec ces remplacements) vont dans le sac pour être tirés par les j
 
 ---
 
-## 💡Conseils & Astuces
+## 💡 <span style="color:red">Conseils & Astuces</span>
 - Votre pouvoir agit **avant même que la partie commence**, ensuite : amusez-vous à **bluffer** et semer la confusion pour aider votre Démon.  
 - Revendiquez être **Étranger** : si le nombre d’Étrangers paraît trop élevé, la ville pensera à un Baron et vous pourrez passer pour un véritable Étranger.  
 - **Doublez** un personnage déjà revendiqué (ex. [**Voyante**](../tb_roles/voyante.md), [**Croque-Mort**](../tb_roles/croquemort.md), [**Maire**](../tb_roles/maire.md)) afin de **dégrader la confiance** dans ses infos.  
@@ -97,7 +97,7 @@ Ces jetons (avec ces remplacements) vont dans le sac pour être tirés par les j
 
 ---
 
-## ⚔️ Combattre le Baron
+## ⚔️ <span style="color:red">Combattre le Baron</span>
 - Un **compte d’Étrangers inhabituel**, sii le nombre d'Étrangers diffère de celui attendu par défaut par exemple :
   vous en avez trois au lieu d'un seul, il s'agit probablement d'un Baron. 
 - Dans ce cas, plusieurs options s'offrent à vous : 
