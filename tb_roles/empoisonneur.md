@@ -7,13 +7,13 @@ title: Empoisonneur
 
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
+    <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
 ---
 
-# 💉 Empoisonneur  
+# 💉 <span style="color:red">Empoisonneur</span>    
 
  <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -26,7 +26,8 @@ title: Empoisonneur
 
 ---
 
-## ℹ️ Information  
+ 
+## 🧾 <span style="color:red">Information</span>   
 
 - **Type :** [<span style="color:red">**Sbire**</span>](../sbires.md)  
 - **Artiste :** Aidan Roberts  
@@ -54,7 +55,7 @@ title: Empoisonneur
 "Cult of the Clocktower – épisode par Andrew Nathenson"
 </p> 
 
-## 📖 Résumé  
+## 📖 <span style="color:red">Résumé</span>     
 
 « Chaque nuit, choisissez un joueur : il est **empoisonné** cette nuit et le jour suivant. »  
 
@@ -65,9 +66,9 @@ L’**Empoisonneur** perturbe secrètement les capacités des autres rôles.
 
 ---
 
-## Comment Conter  
+## 🎭 <span style="color:red">Comment Conter</span>    
 
-- Chaque nuit, réveillez l’Empoisonneur → il désigne un joueur.  
+- Chaque nuit, réveillez l’Empoisonneur, il désigne un joueur.  
 - Placez le jeton **EMPOISONNÉ** à côté du jeton du joueur ciblé.  
 - Le joueur agit normalement, mais n’a en réalité **aucun effet**.  
 - Si sa capacité donne de l’information, le Conteur peut donner de **fausses infos**.  
@@ -75,7 +76,7 @@ L’**Empoisonneur** perturbe secrètement les capacités des autres rôles.
 
 ---
 
-## 🧾 Exemples  
+## 🧩  <span style="color:red">Exemples</span>    
 
 - L’Empoisonneur cible le [Mercenaire](mercenaire.md). Le lendemain, le Mercenaire tente de tuer l’[<span style="color:red">Imp</span>](imp.md). Rien ne se passe : sa capacité est perdue.  
 - L’[Empathique](empathique.md) empoisonné apprend un « 0 » alors qu’il est assis entre deux joueurs <span style="color:red">maléfiques</span>. La nuit suivante, il apprend un « 2 ».  
@@ -85,7 +86,7 @@ L’**Empoisonneur** perturbe secrètement les capacités des autres rôles.
 
 ---
 
-## 💡 Astuces & Conseils  
+## 💡 <span style="color:red">Astuces & Conseils</span>    
 
 - Les meilleures cibles sont les rôles donnant des infos en continu : [Empathique](empathique.md), [Croque-Mort](croquemort.md), [Voyante](voyante.md).  
 - Empoisonner un joueur à capacité unique ([Vierge](vierge.md), [Mercenaire](mercenaire.md), [Maire](maire.md)) peut être **dévastateur**.  
@@ -96,19 +97,18 @@ L’**Empoisonneur** perturbe secrètement les capacités des autres rôles.
 
 ---
 
-## ⚔️ Combattre l’Empoisonneur  
+## ⚔️ <span style="color:red">Combattre l’Empoisonneur</span>  
 
 - Le premier jour, vos informations sont souvent fiables : l’Empoisonneur ne sait pas encore qui vous êtes.  
-- Méfiez-vous si vos résultats deviennent soudainement incohérents.  
+- Méfiez-vous si vos informations deviennent soudainement incohérentes.  
 - L’Empoisonneur adore cibler les leaders de table ou ceux qui parlent beaucoup.  
 - Distinguer l’[Ivrogne](ivrogne.md) de l’Empoisonneur est crucial : si plusieurs joueurs reçoivent de fausses infos, c’est probablement lui.  
 - Le [Bibliothécaire](bibliothecaire.md) ou l’[Enquêteur](enqueteur.md) peuvent le débusquer tôt.  
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌛 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
-  <li>😈 <a href="../sbires.html" style="color:red; font-weight:bold; text-decoration:none;">Catégorie : Sbires</a></li>
+  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li>🍺 <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li>😈 <a href="../sbires.html" style="color:red; font-weight:bold; text-decoration:none;">Retour aux Sbires</a></li>
 </ul>
+
 
