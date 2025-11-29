@@ -74,16 +74,16 @@ Le Baron modifie le nombre d’Étrangers présents dans la partie.
 
   <li>
     🧞
-    <img src="../images/Icon_baron.png" alt="Baron" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> :  
+    <img src="../images/Icon_plaguedoctor.png" alt="Docteur de la peste" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/plaguedoctor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Docteur de la peste</a> :  
     Si la conteuse ou le conteur gagne la capacité du Baron, jusqu’à deux joueurs deviennent des
     <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>.
   </li>
 
 <li>
   🧞
-    <img src="../images/Icon_baron.png" alt="Baron" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> :  
+    <img src="../images/Icon_heretic.png" alt="Hérétique" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/herectic.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Hérétique</a> :  
     Un seul rôle jinxé avec l’Hérétique peut être en jeu.
   </li>
 
