@@ -25,7 +25,7 @@ title: Cuistot
 
 ## 🧾 <span style="color:blue">Informations</span>   
 
-**Type :** Villageois  
+**Type :** [<span style="color:blue">Villageois</span>](../villageois.md)   
 **Artiste :** Aidan Roberts  
 *"Les réservations de ce soir semblent étranges. Jamais Madame Mayweather n’avait fréquenté ce vaurien de Hudson Lane. Et pourtant, ce soir, ils ont une table pour deux. Étrange."*
 
