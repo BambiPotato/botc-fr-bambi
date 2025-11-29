@@ -78,7 +78,7 @@ La **Femme Écarlate** devient le <span style="color:red">Démon</span> si celui
     S'il y avait deux Démons, dont l'un était la Femme Écarlate, la Femme Écarlate redeviendrait la Femme Écarlate.
   </li>
 
- 🧞
+  🧞
 <li>
     <img src="../images/Icon_fanggu.png" alt="Fang Gu" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../sv_roles/fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a> :  
