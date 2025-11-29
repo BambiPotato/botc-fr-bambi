@@ -107,7 +107,7 @@ title: Blood on the Clocktower
 <!-- CE QUI REND BOTC UNIQUE -->
 <!-- ======================= -->
 
-<h2>🎭 <span style="color:#b58b52;">Ce qui rend <em>BotC</em> unique</span></h2>
+<h2>🎭 <span style="color:#b58b52;">Ce qui rend <em>Blood 🩸on the Clocktower</em> unique</span></h2>
 
 <ul style="color:#e0c99d; font-size:19px; line-height:1.9;">
   <li>☠️ Les <strong>morts continuent de jouer</strong> : ils conservent une voix de vote.</li>
