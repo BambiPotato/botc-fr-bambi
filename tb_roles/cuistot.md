@@ -5,11 +5,11 @@ title: Cuistot
 
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
+    <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
-# 👨‍🍳 Cuistot  
+# 👨‍🍳 <span style="color:blue">Cuistot</span>  
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -23,7 +23,7 @@ title: Cuistot
 
 ---
 
-## ℹ️ Informations  
+## 🧾 <span style="color:blue">Informations</span>   
 
 **Type :** Villageois  
 **Artiste :** Aidan Roberts  
@@ -55,7 +55,7 @@ title: Cuistot
 
 ---
 
-## 📖 Résumé  
+## 📖 <span style="color:blue">Résumé</span>  
 
 *"Vous commencez à savoir combien il y a de paires de joueurs maléfiques."*  
 
@@ -70,7 +70,7 @@ Le **Cuistot** apprend combien de **paires de joueurs <span style="color:red">ma
 
 ---
 
-## Comment Conter
+## 🎭 <span style="color:blue">Comment Conter</span>  
 
 - Pendant la **première nuit**, réveillez le Cuistot.  
 - Montrez-lui un nombre de doigts correspondant au **nombre de paires** de voisins maléfiques (0, 1, 2, etc.).  
@@ -78,7 +78,7 @@ Le **Cuistot** apprend combien de **paires de joueurs <span style="color:red">ma
 
 ---
 
-## Exemples  
+## 🧩 <span style="color:blue">Exemples</span>    
 
 - Aucun joueur <span style="color:red">maléfique</span> n’est assis à côté d’un autre. → le Cuistot apprend **0**.  
 - L’[<span style="color:red">Imp</span>](imp.md) est assis à côté du [<span style="color:red">Baron</span>](baron.md). Ailleurs, l’[<span style="color:red">Empoisonneur</span>](empoisonneur.md) est assis à côté de la [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md). → le Cuistot apprend **2**.  
@@ -87,19 +87,19 @@ Le **Cuistot** apprend combien de **paires de joueurs <span style="color:red">ma
 
 ---
 
-## 💡 Conseils & Astuces  
+## 💡 <span style="color:blue">Conseils & Astuces</span>   
 
-- Votre information n’est pas très forte au début, mais combinée avec celle d’un·e [Empathique](empathique.md), d’une [Voyante](voyante.md) ou d’un·e [Enquêteur](enqueteur.md), elle devient très puissante.  
-- Si un·e [Croque-Mort](croquemort.md) confirme qu’un joueur exécuté était maléfique, vous avez des indices sur ses voisins.  
+- Votre information n’est pas très forte au début, mais combinée avec celle d’un [Empathique](empathique.md), d’une [Voyante](voyante.md) ou d’un [Enquêteur](enqueteur.md), elle devient très puissante.  
+- Si un [Croque-Mort](croquemort.md) confirme qu’un joueur exécuté était maléfique, vous avez des indices sur ses voisins.  
 - Votre info est cruciale en **fin de partie** (quand il ne reste que 3 joueurs). N’oubliez pas de rappeler ce que vous savez.  
-- Un "0" signifie qu’aucun maléfique n’est voisin → mais restez attentif·ve aux alliances étranges.  
+- Un "0" signifie qu’aucun maléfique n’est voisin → mais restez attentif aux alliances étranges.  
 - Un "1" ou plus = il y a bien des voisins maléfiques. Repérez qui chuchote souvent avec qui.  
 - Méfiez-vous du [Reclus](reclus.md), qui peut fausser vos infos, et de l’[<span style="color:red">Espion</span>](espion.md), qui peut se cacher.  
 - Dans une petite partie (Teensyville, 5–6 joueurs), de fausses infos du Cuistot peuvent semer la zizanie chez les Sbires et l’Imp.  
 
 ---
 
-## 🎭 Bluff du Cuistot  
+## 😈 <span style="color:blue">Bluffer Cuistot</span>   
 
 - Vous auriez reçu votre info la **première nuit** : un chiffre.  
 - Annoncer **0 ou 1 paire** est crédible.  
@@ -108,14 +108,12 @@ Le **Cuistot** apprend combien de **paires de joueurs <span style="color:red">ma
 - Donner une vraie info peut vous faire paraître fiable et vous protéger des exécutions.  
 - Le Cuistot est **un rôle facile à bluffer**, idéal pour débutants.  
 
-⚠️ Attention au [Reclus](reclus.md) : il peut vous piéger et condamner un allié si vous n’êtes pas prudent.  
+⚠️ **Attention** au [Reclus](reclus.md) : il peut vous piéger et condamner un allié si vous n’êtes pas prudent.  
 
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#d58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>🌸 <a href="../sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
-  <li>🧑‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
+  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li>🍺 <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li>🧑‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a></li>
 </ul>
 
