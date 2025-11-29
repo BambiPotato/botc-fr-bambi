@@ -81,6 +81,7 @@ Le Baron modifie le nombre d’Étrangers présents dans la partie.
   </li>
 
 <li>
+  🧞
     <img src="../images/Icon_baron.png" alt="Baron" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> :  
     Un seul rôle jinxé avec l’Hérétique peut être en jeu.
