@@ -22,7 +22,7 @@ title: Lavandière
 
 <hr>
 
-<h3 style="color:#6fa8ff; font-weight:bold;">🧾 Informations</h3>
+<h3 style="color:#6fa8ff; font-weight:bold;">ℹ️ Informations</h3>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li><strong>Type</strong> : <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a></li>
