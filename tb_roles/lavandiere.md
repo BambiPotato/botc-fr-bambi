@@ -22,9 +22,9 @@ title: Lavandière
 
 <hr>
 
-<h3>📖 Informations</h3>
+<h3>🧾 <span style="color:#4ea3ff;Informations</span></h3>
 
-<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li><strong>Type</strong> : <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a></li>
   <li><strong>Artiste</strong> : Aidan Roberts</li>
   <li>« Des taches de sang sur une veste de dîner ? Non, c’est du vin de cuisine. Quelle étourderie. »</li>
@@ -34,7 +34,7 @@ title: Lavandière
 
 <h3>🎭 Apparaît dans</h3>
 
-<h2 style="color:#b58b52; font-weight:bold; font-size:42px; margin-bottom:6px;">🍺 Trouble Brewing</h2>
+<h2 style="color:#f5f5f5; font-weight:bold; font-size:42px; margin-bottom:6px;">🍺 Trouble Brewing</h2>
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-6px;">
   « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
 </p>
@@ -53,21 +53,21 @@ title: Lavandière
 
 <hr>
 
-<h3>📝 Résumé</h3>
+<h3>📖 Résumé</h3>
 
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   « Vous commencez en apprenant deux joueurs et le rôle de 
   <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>
   de l’un des deux. »
 </p>
 
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   La <span style="color:#6fa8ff; font-weight:bold;">Lavandière</span> apprend qu’un certain rôle 
   <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>
   est en jeu, mais <strong>pas qui le joue</strong>.
 </p>
 
-<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Pendant la première nuit, la Lavandière est réveillée.</li>
   <li>On lui montre deux joueurs et elle apprend le rôle de l’un d’eux.</li>
   <li>Cela arrive <strong>une seule fois</strong> et elle n’aura plus d’informations ensuite.</li>
@@ -77,7 +77,7 @@ title: Lavandière
 
 <h3>📖 Comment conter</h3>
 
-<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li><strong>Préparation (première nuit)</strong> :
     <ul style="margin-top:6px;">
       <li>Placez le jeton <strong>VILLAGEOIS</strong> de la Lavandière à côté d’un rôle 
@@ -92,7 +92,7 @@ title: Lavandière
       <li>Montrez-lui les deux joueurs marqués et révélez le jeton du rôle 
         <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>.
       </li>
-      <li>Renvoyez-la dormir.</li>
+      <li>Rendormez la lavandière.</li>
     </ul>
   </li>
   <li>Retirez ses jetons de rappel dès que possible pour éviter la confusion.</li>
@@ -102,7 +102,7 @@ title: Lavandière
 
 <h3>📖 Exemples</h3>
 
-<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li><strong>Cédric</strong> est 
     <a href="./cuistot.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Cuistot</a>,
     et <strong>Céline</strong> est 
@@ -119,9 +119,9 @@ title: Lavandière
     <a href="./vierge.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Vierge</a>.
   </li>
 
-  <li><strong>Tanina</strong> est 
+  <li><strong>Tania</strong> est 
     <a href="./espion.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Espion</a>,
-    et <strong>Leelou</strong> est 
+    et <strong>Leila</strong> est 
     <a href="./femmeecarlate.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Femme Écarlate</a>
     → la Lavandière apprend que l’un des deux est le 
     <a href="./gardien.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Gardien</a>.
@@ -137,7 +137,7 @@ title: Lavandière
 
 <h3>💡 Astuces & Stratégies</h3>
 
-<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>La Lavandière est <strong>puissante en discrétion</strong> : elle ne désigne pas les maléfiques, mais peut confirmer l’identité d’un joueur bon.</li>
   <li>Si vous êtes 
     <a href="./ivrogne.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Ivrogne</a>
@@ -168,13 +168,13 @@ title: Lavandière
 
 <hr>
 
-<h3>🎭 Bluff en tant que Lavandière</h3>
+<h3>🎭 Bluffer Lavandière</h3>
 
-<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<ul style="color:#f5f5f5 font-size:18px; line-height:1.7;">
   <li>Vos infos arrivent <strong>dès la première nuit</strong> : deux joueurs et un jeton 
     <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>.
   </li>
-  <li>Désignez un joueur malin (par exemple un 
+  <li>Désignez un joueur maléfique (par exemple un 
     <a href="../glossaire.html#sbire" style="color:#c45959; font-weight:bold; text-decoration:none;">Sbire</a>)
     et dites qu’il est un 
     <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a> vu.
@@ -195,9 +195,8 @@ title: Lavandière
 <hr>
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#d58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>🌸 <a href="../sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
-  <li>🧑‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
+  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li>🍺 <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li>🧑‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a></li>
 </ul>
+—
