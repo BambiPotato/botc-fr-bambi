@@ -12,7 +12,7 @@ title: Bibliothécaire
 
 ---
 
-# 📚 Bibliothécaire  
+# 📚 <span style="color:blue">Bibliothécaire</span>  
 
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
@@ -28,7 +28,7 @@ title: Bibliothécaire
 
 ---
 
-## ℹ️ Information  
+## 🧾 <span style="color:blue">Information</span>    
 
 - **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)
 - **Artiste :** Aidan Roberts  
@@ -59,9 +59,9 @@ title: Bibliothécaire
 
 ---
 
-## Résumé  
+## 📖 <span style="color:blue">Résumé</span>  
 
-« Vous commencez en apprenant 2 joueurs et le rôle d’[Étranger](../glossaire.md#étranger) de l’un des deux.(Ou qu'il y a zéro étranger en jeu.) »  
+« Vous commencez en apprenant 2 joueurs et le rôle d’**Étranger** de l’un des deux.(Ou qu'il y a zéro étranger en jeu.) »  
 
 Le **Bibliothécaire** apprend qu’un rôle **Étranger** est en jeu, mais pas exactement qui le possède.  
 
@@ -72,7 +72,7 @@ Il ne l’apprend qu’une seule fois, puis plus rien.
 
 ---
 
-## 🎬 Mise en place 
+## 🎭 <span style="color:blue">Comment Conter</span>  
 
 - Pendant la préparation de la première nuit, placez le jeton de rappel **ÉTRANGER** du Bibliothécaire à côté du jeton de rôle d’un Étranger,  
   et placez placez le jeton de rappel  **FAUX** du Bibliothécaire à côté de n’importe quel autre rôle.  
@@ -84,7 +84,7 @@ Il ne l’apprend qu’une seule fois, puis plus rien.
 
 ---
 
-## 🧾 Exemples  
+## 🧩 <span style="color:blue">Exemples</span>   
 
 - **Cédric** est le [Saint](saint.md), et **Laura** est le [Baron](baron.md).  
   → Le Bibliothécaire apprend que soit Cédric, soit Vanessa est le Saint.  
@@ -98,7 +98,7 @@ Il ne l’apprend qu’une seule fois, puis plus rien.
 
 ---
 
-## 💡 Astuces & Conseils  
+## 💡 <span style="color:blue">Astuces & Conseils</span>    
 
 - Identifiez rapidement lequel des deux joueurs est l’[Étranger](../glossaire.md#étranger).  
   Même si son pouvoir est parfois un handicap, il est toujours **bon** et donc un vote sûr.  
@@ -123,7 +123,7 @@ Il ne l’apprend qu’une seule fois, puis plus rien.
 
 ---
 
-## 🎭 Bluff en tant que Bibliothécaire  
+## 🎭 <span style="color:blue">Bluff en tant que Bibliothécaire</span>   
 
 - Vous êtes censé avoir reçu vos infos la première nuit.  
   Vous aurez donc « vu » deux joueurs et un jeton d’[Étranger](../glossaire.md#étranger).  
