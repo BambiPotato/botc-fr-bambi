@@ -92,7 +92,7 @@ title: Croque-Mort
 ## 💡 <span style="color:blue;">Conseils & Astuces</span>  
 
 - Plus il y a d’exécutions, plus vous avez d’informations. Même si vous ne frappez pas le Démon, vous confirmez ou infirmez des claims.  
-- Les Voyageurs ne sont pas concernés (ils sont exilés, pas exécutés), sauf le [Bouc émissaire](../voyageurs/scapegoat.md), qui meurt explicitement par exécution.  
+- Les Voyageurs ne sont pas concernés (ils sont exilés, pas exécutés), sauf le [<span style="color:#9b59b6">Bouc émissaire</span>](../voyageurs/scapegoat.md), qui meurt explicitement par exécution.  
 - Confirmer l’identité d’un [Lavandière](lavandiere.md), [Bibliothécaire](bibliothecaire.md) ou [Enquêteur](enqueteur.md) est très utile. Exécuter ces rôles tôt permet de valider aussi les joueurs qu’ils désignent.  
 - Exécuter une [Voyante](voyante.md) ou un [Empathique](empathique.md) peut sembler risqué, mais permet de valider toutes leurs infos passées.  
 - Vous êtes une cible prioritaire pour le Mal. Révélez vos infos au bon moment :  
