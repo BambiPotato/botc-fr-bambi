@@ -359,9 +359,7 @@ title: Conseils pour les Conteuses et les Conteurs
 <!-- 4. La Communauté -->
 <!-- ========================= -->
 
---
-
-<h2 id="section-4">4. Faire grandir votre communauté Clocktower</h2>
+<h2 id="section-4">4. Faire grandir votre communauté Blood on the Clocktower</h2>
 
 <p>
   Plus il y a de monde autour de la tour, plus les parties sont vivantes. 
