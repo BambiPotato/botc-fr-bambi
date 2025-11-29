@@ -125,10 +125,12 @@ Il ne reçoit cette information qu’une seule fois, au début de la partie.
   - Inversement, feindre avoir vu un [<span style="color:red">Empoisonneur</span>](empoisonneur.md) peut brouiller les pistes si une [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md) agit.  
   - Si un vrai Enquêteur s’est révélé, le désigner comme l’un de vos « suspects » peut ruiner sa crédibilité.  
   - Si vous êtes [<span style="color:red">Espion</span>](espion.md), vos infos exactes rendent votre bluff imparable.  
+  
 
   ---
+  
 
-  ## 🧞 <span style="color:#d4a76a;">Jinxes liés</span>
+## 🧞 <span style="color:#d4a76a;">Jinxes liés</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
