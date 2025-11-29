@@ -1,10 +1,10 @@
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
+    <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
-# Reclus
+# 🕯️<span style="color:blue">Reclus</span>
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -16,14 +16,19 @@
 </div>
 
 
-#
-**Type :** [Étranger](../etrangers.md)  
-**Artiste :** Aidan Roberts  
 
-*« Retirez vos sales paluches de chez moi, vous m’entendez ? Grr. Y’a de mauvais coins là-bas, vers le sud… Filez donc ! Chez les miens, on n’affronte pas les démons à découvert. Ouste ! »*
+## 🧾 <span style="color:blue">Informations</span>
+
+- **Type :** [Étranger](../etrangers.md)  
+- **Artiste :** Aidan Roberts  
+
+*« Retirez vos sales paluches de chez moi, vous m’entendez ? 
+Grr. Y’a de mauvais coins là-bas, vers le sud… 
+Filez donc ! Chez les miens, on n’affronte pas les démons à découvert. Ouste ! »*
 
 
 ---
+
 ## 🎭 Apparaît dans  
 
 # 🍺 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
@@ -47,24 +52,36 @@
 "Cult of the Clocktower – épisode par Andrew Nathenson"
 </p> 
 
-## Résumé
-**Capacité :**  
-*Vous pouvez être enregistré comme maléfique et comme un Sbire ou un Démon, même si vous êtes mort.*  
+---
 
-- Le **Reclus** est **bon**, mais peut **s’enregistrer comme maléfique**.  
-- Le Conteur choisit à chaque détection si le Reclus est vu comme **bon** ou **maléfique**.  
-- Il peut apparaître comme **Villageois**, **Sbire**, ou **Démon**, et ce de façon incohérente au cours d’une même partie.  
-- Le Reclus **n’a pas** les pouvoirs des rôles qu’il imite (ex. : s’il « apparaît » Empoisonneur, il ne peut pas réellement empoisonner).  
+## 📖 <span style="color:blue">Résumé</span>
+
+« **Vous pouvez être enregistré comme maléfique et comme un Sbire ou un Démon, même si vous êtes mort.** » 
+
+Le Reclus peut sembler être un rôle maléfique, mais il est en réalité bon.
+
+- Lorsque l'alignement du Reclus est détecté, le Conteur choisit si le Reclus est considéré comme bon ou maléfique.
+- Lorsque le Reclus est ciblé par une capacité qui affecte des Sbires ou des Démons spécifiques, 
+le Conteur choisit si le Reclus est enregistré comme ce Sbire ou Démon.
+- Le Reclus peut apparaître comme bon ou maléfique, ou encore comme un Étranger, un Sbire ou un Démon, à différents moments de la même nuit. 
+- Le Conteur choisit ce qui lui semble le plus intéressant.
+- Un Reclus enregistré comme un Sbire ou un Démon particulier ne possède pas les capacités de ce rôle. 
+- Par exemple, un Reclus enregistré comme Empoisonneur ne se réveille pas la nuit et ne peut donc pas empoisonner un joueur.
 
 ---
 
-## Mise en place / Comment gérer
-- À chaque fois que le Reclus est ciblé par une capacité qui détecte ou affecte les joueurs maléfiques, le Conteur décide comment il doit s’enregistrer (bon/mauvais, Sbire/Démon).  
-- Cela peut être signalé via : montrer un jeton de rôle, hochements de tête, signaux de doigts, etc.  
+## 🎭 <span style="color:blue">Comment Conter</span>
+
+- Chaque fois que le Reclus est ciblé par une capacité qui détecte ou affecte les rôles maléfiques, 
+  choisissez le rôle et l'alignement que le Reclus enregistre comme étant le sien. 
+  - (Faites ce qui convient : montrer un jeton de rôle maléfique, hocher la tête, 
+   faire des signes avec les doigts ou autoriser l'action d'une capacité qui n'affecte normalement que les joueurs maléfiques, 
+   les Sbires ou les Démons.)
 
 ---
 
-## Exemples
+## 🧩 <span style="color:blue">Exemples</span>
+
 - Le **[Mercenaire](./mercenaire.md)** utilise sa capacité sur le Reclus. Le Conteur décide qu’il s’enregistre comme **[<span style="color:red">Imp</span>](imp.md)** → le Reclus meurt, et le Mercenaire pense avoir trouvé le Démon.  
 - L’**[Empathique](./empathique.md)** est voisin du Reclus et du **[Moine](./moine.md)**. Il apprend « 1 » la première nuit, puis « 0 » la suivante.  
 - L’**[Enquêteur](./enqueteur.md)** apprend que le Reclus ou le **[Saint](./saint.md)** est la **[<span style="color:red">Femme Écarlate</span>](femmeecarlate.md)**.  
@@ -73,30 +90,56 @@
 
 ---
 
-## 💡Conseils & Astuces
-- Annoncez tôt que vous êtes le Reclus : cela permet aux bons joueurs d’expliquer leurs infos incohérentes (**[Cuitot](./cuistot.md)**, **[Empathique](./empathique.md)**, **[Enquêteur](./enqueteur.md)**, etc.).  
+## 💡 <span style="color:blue">Conseils & Astuces</span>
+
+- Annoncez tôt que vous êtes le Reclus : cela permet aux bons joueurs d’expliquer leurs infos incohérentes (**[Cuitot](./cuistot.md)**,
+**[Empathique](./empathique.md)**, **[Enquêteur](./enqueteur.md)**, etc.).  
 - À l’inverse, cacher votre identité jusqu’au dernier jour peut vous éviter l’exécution prématurée.  
-- N’oubliez pas : vous êtes **bon** ! Vous êtes donc un moins bon choix d’exécution que n’importe quel joueur réellement mauvais.  
+- N’oubliez pas : vous êtes **bon** ! Vous êtes donc un moins bon choix d’exécution que n’importe quel joueur réellement maléfique.  
 - Vous serez souvent perçu comme **maléfique**. Un **[Mercenaire](./mercenaire.md)** risque de vous tuer par erreur, et le **[Croque-Mort](./croquemort.md)** verra souvent un rôle de Sbire/Démon.  
 - Parfois, s’enregistrer comme maléfique aide : un Empathique qui voit « 1 » grâce à vous peut ainsi identifier son autre voisin comme bon.  
 - Si le groupe est trop suspicieux, acceptez l’exécution avant le dernier jour pour prouver que vous n’étiez pas le Démon.  
 
 ---
 
-## Bluff en tant que Reclus
-- Vous ne vous réveillez **jamais** la nuit et n’avez pas d’actions diurnes.  
-- Prétexter : « Je ne suis pas mauvais, je **m’enregistre juste comme ça** » est un **bluff parfait** pour expliquer pourquoi vous sortez comme maléfique dans les infos.  
+## 😈 <span style="color:blue">Bluffer Reclus</span>
+
+- Lorsque vous bluffez en vous faisant passer pour le Reclus, voici quelques points à garder à l'esprit :
+- Vous ne vous réveilleriez jamais, n'apprendriez rien, et n'agiriez jamais durant la journée.
+- Prétexter : « Je ne suis pas maléfique, je **m’enregistre juste comme ça** » est un **bluff parfait** cela peut expliquer,
+  pourquoi vous apparaissez maléfique dans les infos d'une [Voyante](./voyante.md), d'un [Empathique](./empathe.md) ou d'un 
+  [Enquêteur](./empathique.md).
 - Jouez de manière utile et proactive pour gagner la confiance des bons joueurs.  
 - Gardez ce bluff comme **roue de secours** si votre couverture tombe : révéler être Reclus « pour semer la confusion » peut sauver votre crédibilité.  
-- Vous continuez de vous enregistrer maléfique même après votre mort → prolongez le bluff au-delà de la tombe, en laissant croire qu’il reste des Sbires ou Démons vivants.  
-- Prétendre être un Étranger brouille aussi les pistes sur l’éventuel **[Ivrogne](./ivrogne.md)** ou la présence d’un **[<span style="color:red">Baron</span>](baron.md)**.  
+- Vous continuez de vous enregistrer maléfique même après votre mort → prolongez le bluff au-delà de la tombe, 
+  en laissant croire qu’il reste des Sbires ou Démons vivants.  
+- Se prétendre Étranger brouille aussi les pistes sur l’éventuel **[Ivrogne](./ivrogne.md)** ou la présence d’un **[<span style="color:red">Baron</span>](baron.md)**.  
 
 ---
+
+## 🧞 <span style="color:#d4a76a">Jinxes liés</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+  <li>
+    🧞
+    <img src="../images/Icon_ogre.png" alt="Ogre" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/ogre.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Ogre</a> :  
+    Si le Reclus s’enregistre comme maléfique pour l’Ogre, l’Ogre apprend qu’il est maléfique.
+  </li>  
+  <li>
+    🧞
+    <img src="../images/Icon_sage.png" alt="Sage" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../sv_roles/sage.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sage</a> :  
+    Le Reclus peut s’enregistrer comme le Démon pour le Sage.
+  </li>  
+  </ul>
+  
+---
+
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌛 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
+  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li>🍺 <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
   <li>💈 <a href="../etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Étrangers</a></li>
 </ul>
 
