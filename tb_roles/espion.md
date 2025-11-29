@@ -22,7 +22,7 @@ title: Espion
 </div>
 
 
-## 🧾 Information
+## ℹ️ Information
 - **Type :** [Sbire](../sbires.md) 
 - **Artiste :** Marianna Carr  
 - *« Tout maître brasseur digne de ce nom sait qu’aucune concoction ne crée plus vite des problèmes que celle où les espions semblent doubles. »*
