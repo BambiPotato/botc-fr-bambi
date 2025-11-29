@@ -168,6 +168,9 @@ title: Conseils pour les Conteuses et les Conteurs
   mieux comprendre les interactions rend la partie plus fluide.
 </p>
 
+
+---
+
 <!-- ========================= -->
 <!-- 2. Rendre le jeu amusant -->
 <!-- ========================= -->
@@ -289,6 +292,9 @@ title: Conseils pour les Conteuses et les Conteurs
 <!-- ========================= -->
 <!-- 3. Le Script -->
 <!-- ========================= -->
+
+---
+
 <h2 id="section-3">3. Le Script</h2>
 
 <p>
@@ -347,9 +353,14 @@ title: Conseils pour les Conteuses et les Conteurs
   Testez, ajustez, observez… et amusez-vous !
 </p>
 
+---
+
 <!-- ========================= -->
 <!-- 4. La Communauté -->
 <!-- ========================= -->
+
+--
+
 <h2 id="section-4">4. Faire grandir votre communauté Clocktower</h2>
 
 <p>
