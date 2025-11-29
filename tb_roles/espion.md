@@ -161,8 +161,7 @@ title: Espion
     <img src="../images/Icon_poppygrower.png" alt="Cultivateur de pavot" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/poppygrower.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cultivateur de pavot</a> :  
     Si le Cultivateur de pavot a sa capacité, l’Espion ne voit pas le Grimoire.
-  </li>  
-  
+  </li>    
   </ul>
 
 
