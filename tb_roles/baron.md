@@ -67,6 +67,26 @@ Le Baron modifie le nombre d’Étrangers présents dans la partie.
 
 ---
 
+## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+  <li>
+    🧞
+    <img src="../images/Icon_baron.png" alt="Baron" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> :  
+    Si la conteuse ou le conteur gagne la capacité du Baron, jusqu’à deux joueurs deviennent des
+    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>.
+  </li>
+
+<li>
+    <img src="../images/Icon_baron.png" alt="Baron" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> :  
+    Un seul rôle jinxé avec l’Hérétique peut être en jeu.
+  </li>
+
+</ul>
+---
 ## 🎭 <span style="color:red">Comment Conter</span>
 Pendant la mise en place :  
 1) Retirez **2 jetons Villageois**.  
