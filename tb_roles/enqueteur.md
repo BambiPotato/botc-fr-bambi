@@ -125,7 +125,7 @@ Il ne reçoit cette information qu’une seule fois, au début de la partie.
 
 ---
 
-## 🎭 <span style="color:blue">Bluffer Enquêteur</span>  
+## 😈 <span style="color:blue">Bluffer Enquêteur</span>  
 
 - Vous êtes censé avoir eu votre info la première nuit : deux joueurs + un rôle de Sbire.  
 
