@@ -22,7 +22,7 @@ title: Lavandière
 
 <hr>
 
-<h3>style="color:#6fa8ff; font-weight:bold;">🧾 Informations</h3>
+<h3 style="color:#6fa8ff; font-weight:bold;">🧾 Informations</h3>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li><strong>Type</strong> : <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a></li>
@@ -75,7 +75,7 @@ title: Lavandière
 
 <hr>
 
-<h3>🎭 Comment conter</h3>
+<h3 style="color:#6fa8ff; font-weight:bold;">🎭 Comment conter</h3>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li><strong>Préparation (première nuit)</strong> :
@@ -100,7 +100,7 @@ title: Lavandière
 
 <hr>
 
-<h3>🧩 Exemples</h3>
+<h3 style="color:#6fa8ff; font-weight:bold;">🧩 Exemples</h3>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li><strong>Cédric</strong> est 
@@ -135,7 +135,7 @@ title: Lavandière
 
 <hr>
 
-<h3>💡 Astuces & Stratégies</h3>
+<h3 style="color:#6fa8ff; font-weight:bold;">💡 Astuces & Stratégies</h3>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>La Lavandière est <strong>puissante en discrétion</strong> : elle ne désigne pas les maléfiques, mais peut confirmer l’identité d’un joueur bon.</li>
@@ -168,7 +168,7 @@ title: Lavandière
 
 <hr>
 
-<h3>😈 Bluffer Lavandière</h3>
+<h3 style="color:#6fa8ff; font-weight:bold;">😈 Bluffer Lavandière</h3>
 
 <ul style="color:#f5f5f5 font-size:18px; line-height:1.7;">
   <li>Vos infos arrivent <strong>dès la première nuit</strong> : deux joueurs et un jeton 
