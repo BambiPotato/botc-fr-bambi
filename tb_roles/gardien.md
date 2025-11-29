@@ -24,6 +24,7 @@ title: Gardien
 ---
 
 ## ℹ️ <span style="color:blue">Informations</span>  
+
 - **Type :** [<span style="color:blue">Villageois</span>](../villageois.md)  
 - **Artiste** : Aidan Roberts  
 
@@ -51,7 +52,7 @@ title: Gardien
 "Cult of the Clocktower – épisode par Andrew Nathenson"
 </p>
 
-
+---
 
 ## 📖 <span style="color:blue">Résumé</span>  
 *"Si vous mourez la nuit, vous êtes réveillé·e pour choisir un joueur : vous apprenez son rôle."*  
