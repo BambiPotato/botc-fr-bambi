@@ -23,7 +23,7 @@ title: Baron
 </div>
 
 
-## 🧾 <span style="color:red">Information</span>
+## ℹ️ <span style="color:red">Information</span>
 - **Type :** [<span style="color:red">**Sbires**</span>](../sbires.md)   
 - **Artiste :** Aidan Roberts  
 > *"Cette ville est tombée bien bas, pas vrai ? Main-d'œuvre étrangère bon marché… voilà la clé. Fourrez-les dans la mine, je dis. Un peu de travail dur n'a jamais fait de mal à personne, et une claque derrière les oreilles à tout brigand qui prétend le contraire. Tout est une question de profit, pas vrai ?"*
