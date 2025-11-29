@@ -67,7 +67,7 @@ title: Croque-Mort
 
 ---
 
-## 🎭 span style="color:blue;">Comment Conter</span> 
+## 🎭 <span style="color:blue;">Comment Conter</span> 
 
 - Quand un joueur est exécuté, placez le jeton de rappel **MORT AUJOURD’HUI** sur son rôle.  
 - La nuit :  
