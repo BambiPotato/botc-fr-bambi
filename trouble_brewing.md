@@ -28,14 +28,14 @@ title: Trouble Brewing
 
 ## 📑 <span style="color:#b58b52;">Sommaire</span>
 
-<p style="text-align:left; color:#e0c99d; font-size:18px; line-height:1.7;">
-  <a href="#synopsis" style="color:#b58b52; font-weight:bold; text-decoration:none;">Synopsis</a><br>
-  <a href="#gameplay" style="color:#b58b52; font-weight:bold; text-decoration:none;">Gameplay</a><br>
-  <a href="#villageois" style="color:#b58b52; font-weight:bold; text-decoration:none;">Villageois</a><br>
-  <a href="#etrangers" style="color:#b58b52; font-weight:bold; text-decoration:none;">Étrangers</a><br>
-  <a href="#sbires" style="color:#b58b52; font-weight:bold; text-decoration:none;">Sbires</a><br>
-  <a href="#demons" style="color:#b58b52; font-weight:bold; text-decoration:none;">Démons</a><br>
-  <a href="#telechargements" style="color:#b58b52; font-weight:bold; text-decoration:none;">Téléchargements et Ressources</a>
+<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  <a href="#synopsis" style="color:#b58b52; font-weight:bold; text-decoration:none;">1. Synopsis</a><br>
+  <a href="#gameplay" style="color:#b58b52; font-weight:bold; text-decoration:none;">2. Gameplay</a><br>
+  <a href="#villageois" style="color:#b58b52; font-weight:bold; text-decoration:none;">3. Villageois</a><br>
+  <a href="#etrangers" style="color:#b58b52; font-weight:bold; text-decoration:none;">4. Étrangers</a><br>
+  <a href="#sbires" style="color:#b58b52; font-weight:bold; text-decoration:none;">5. Sbires</a><br>
+  <a href="#demons" style="color:#b58b52; font-weight:bold; text-decoration:none;">6. Démons</a><br>
+  <a href="#ressources" style="color:#b58b52; font-weight:bold; text-decoration:none;">7. Téléchargements et ressources</a>
 </p>
 
 ---
@@ -82,78 +82,101 @@ Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient
 
 <p style="text-align:left; color:#d4a76a; font-size:18px; font-weight:bold;">
 🐥 Niveau : <strong>Débutant</strong><br>
-<em>Trouble Brewing est recommandé pour les joueurs et joueuses débutants, Conteuses et Conteurs qui content pour la première fois.</em>
+<em>**Trouble Brewing est recommandé pour les joueurs et jouses débutants, Conteuses et Conteurs qui content pour la première fois.**</em>
 </p>
 
 ---
 
 ## <span id="villageois" style="color:#4ea3ff;">Villageois</span>
 
-<!-- Villageois : ligne horizontale scrollable -->
-<div style="margin: 8px 0 6px 0; display:flex; flex-wrap:nowrap; gap:12px; overflow-x:auto; padding-bottom:8px;">
+<!-- LIGNE 1 : 6 Villageois -->
+<div style="margin: 8px 0 6px 0; text-align:center; white-space:nowrap; overflow-x:auto; padding-bottom:8px;">
 
-  <a href="./tb_roles/lavandiere.html" style="text-decoration:none; flex:0 0 auto; width:240px; text-align:center;">
-    <img src="./images/Icon_washerwoman.png" alt="Lavandière" style="display:block; margin:0 auto; width:240px; height:auto; border-radius:12px;">
+  <!-- Lavandière -->
+  <a href="./tb_roles/lavandiere.html" style="text-decoration:none; display:inline-block; width:220px; margin:0 6px; text-align:center; white-space:normal;">
+    <img src="./images/Icon_washerwoman.png" alt="Lavandière" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
     <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Lavandière</span>
   </a>
 
-  <a href="./tb_roles/bibliothecaire.html" style="text-decoration:none; flex:0 0 auto; width:240px; text-align:center;">
-    <img src="./images/Icon_librarian.png" alt="Bibliothécaire" style="display:block; margin:0 auto; width:240px; height:auto; border-radius:12px;">
+  <!-- Bibliothécaire -->
+  <a href="./tb_roles/bibliothecaire.html" style="text-decoration:none; display:inline-block; width:220px; margin:0 6px; text-align:center; white-space:normal;">
+    <img src="./images/Icon_librarian.png" alt="Bibliothécaire" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
     <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Bibliothécaire</span>
   </a>
 
-  <a href="./tb_roles/enqueteur.html" style="text-decoration:none; flex:0 0 auto; width:240px; text-align:center;">
-    <img src="./images/Icon_investigator.png" alt="Enquêteur" style="display:block; margin:0 auto; width:240px; height:auto; border-radius:12px;">
+  <!-- Enquêteur -->
+  <a href="./tb_roles/enqueteur.html" style="text-decoration:none; display:inline-block; width:220px; margin:0 6px; text-align:center; white-space:normal;">
+    <img src="./images/Icon_investigator.png" alt="Enquêteur" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
     <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Enquêteur</span>
   </a>
 
-  <a href="./tb_roles/cuistot.html" style="text-decoration:none; flex:0 0 auto; width:240px; text-align:center;">
-    <img src="./images/Icon_chef.png" alt="Cuistot" style="display:block; margin:0 auto; width:240px; height:auto; border-radius:12px;">
+  <!-- Cuistot -->
+  <a href="./tb_roles/cuistot.html" style="text-decoration:none; display:inline-block; width:220px; margin:0 6px; text-align:center; white-space:normal;">
+    <img src="./images/Icon_chef.png" alt="Cuistot" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
     <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Cuistot</span>
   </a>
 
-  <a href="./tb_roles/empathique.html" style="text-decoration:none; flex:0 0 auto; width:240px; text-align:center;">
-    <img src="./images/Icon_empath.png" alt="Empathique" style="display:block; margin:0 auto; width:240px; height:auto; border-radius:12px;">
+  <!-- Empathique -->
+  <a href="./tb_roles/empathique.html" style="text-decoration:none; display:inline-block; width:220px; margin:0 6px; text-align:center; white-space:normal;">
+    <img src="./images/Icon_empath.png" alt="Empathique" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
     <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Empathique</span>
   </a>
 
-  <a href="./tb_roles/voyante.html" style="text-decoration:none; flex:0 0 auto; width:240px; text-align:center;">
-    <img src="./images/Icon_fortuneteller.png" alt="Voyante" style="display:block; margin:0 auto; width:240px; height:auto; border-radius:12px;">
+  <!-- Voyante -->
+  <a href="./tb_roles/voyante.html" style="text-decoration:none; display:inline-block; width:220px; margin:0 6px; text-align:center; white-space:normal;">
+    <img src="./images/Icon_fortuneteller.png" alt="Voyante" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
     <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Voyante</span>
   </a>
 
-  <a href="./tb_roles/croquemort.html" style="text-decoration:none; flex:0 0 auto; width:240px; text-align:center;">
-    <img src="./images/Icon_undertaker.png" alt="Croque-Mort" style="display:block; margin:0 auto; width:240px; height:auto; border-radius:12px;">
+</div>
+
+<!-- LIGNE 2 : 6 Villageois -->
+<div style="margin: 8px 0 6px 0; text-align:center; white-space:nowrap; overflow-x:auto; padding-bottom:8px;">
+
+  <!-- Croque-Mort -->
+  <a href="./tb_roles/croquemort.html" style="text-decoration:none; display:inline-block; width:220px; margin:0 6px; text-align:center; white-space:normal;">
+    <img src="./images/Icon_undertaker.png" alt="Croque-Mort" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
     <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Croque-Mort</span>
   </a>
 
-  <a href="./tb_roles/moine.html" style="text-decoration:none; flex:0 0 auto; width:240px; text-align:center;">
-    <img src="./images/Icon_monk.png" alt="Moine" style="display:block; margin:0 auto; width:240px; height:auto; border-radius:12px;">
+  <!-- Moine -->
+  <a href="./tb_roles/moine.html" style="text-decoration:none; display:inline-block; width:220px; margin:0 6px; text-align:center; white-space:normal;">
+    <img src="./images/Icon_monk.png" alt="Moine" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
     <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Moine</span>
   </a>
 
-  <a href="./tb_roles/gardien.html" style="text-decoration:none; flex:0 0 auto; width:240px; text-align:center;">
-    <img src="./images/Icon_ravenkeeper.png" alt="Gardien" style="display:block; margin:0 auto; width:240px; height:auto; border-radius:12px;">
+  <!-- Gardien -->
+  <a href="./tb_roles/gardien.html" style="text-decoration:none; display:inline-block; width:220px; margin:0 6px; text-align:center; white-space:normal;">
+    <img src="./images/Icon_ravenkeeper.png" alt="Gardien" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
     <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Gardien</span>
   </a>
 
-  <a href="./tb_roles/vierge.html" style="text-decoration:none; flex:0 0 auto; width:240px; text-align:center;">
-    <img src="./images/Icon_virgin.png" alt="Vierge" style="display:block; margin:0 auto; width:240px; height:auto; border-radius:12px;">
+  <!-- Vierge -->
+  <a href="./tb_roles/vierge.html" style="text-decoration:none; display:inline-block; width:220px; margin:0 6px; text-align:center; white-space:normal;">
+    <img src="./images/Icon_virgin.png" alt="Vierge" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
     <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Vierge</span>
   </a>
 
-  <a href="./tb_roles/mercenaire.html" style="text-decoration:none; flex:0 0 auto; width:240px; text-align:center;">
-    <img src="./images/Icon_slayer.png" alt="Mercenaire" style="display:block; margin:0 auto; width:240px; height:auto; border-radius:12px;">
+  <!-- Mercenaire -->
+  <a href="./tb_roles/mercenaire.html" style="text-decoration:none; display:inline-block; width:220px; margin:0 6px; text-align:center; white-space:normal;">
+    <img src="./images/Icon_slayer.png" alt="Mercenaire" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
     <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Mercenaire</span>
   </a>
 
-  <a href="./tb_roles/soldat.html" style="text-decoration:none; flex:0 0 auto; width:240px; text-align:center;">
-    <img src="./images/Icon_soldier.png" alt="Soldat" style="display:block; margin:0 auto; width:240px; height:auto; border-radius:12px;">
+  <!-- Soldat -->
+  <a href="./tb_roles/soldat.html" style="text-decoration:none; display:inline-block; width:220px; margin:0 6px; text-align:center; white-space:normal;">
+    <img src="./images/Icon_soldier.png" alt="Soldat" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
     <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Soldat</span>
   </a>
 
-  <a href="./tb_roles/maire.html" style="text-decoration:none; flex:0 0 auto; width:240px; text-align:center;">
-    <img src="./images/Icon_mayor.png" alt="Maire" style="display:block; margin:0 auto; width:240px; height:auto; border-radius:12px;">
+</div>
+
+<!-- LIGNE 3 : Maire seul -->
+<div style="margin: 8px 0 6px 0; text-align:center;">
+
+  <!-- Maire -->
+  <a href="./tb_roles/maire.html" style="text-decoration:none; display:inline-block; width:220px; margin:0 6px; text-align:center;">
+    <img src="./images/Icon_mayor.png" alt="Maire" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
     <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Maire</span>
   </a>
 
@@ -163,25 +186,25 @@ Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient
 
 ## <span id="etrangers" style="color:#4ea3ff;">Étrangers</span>
 
-<div style="margin: 8px 0 6px 0; display:flex; flex-wrap:nowrap; gap:12px; overflow-x:auto; padding-bottom:8px;">
+<div style="text-align:center;">
 
-  <a href="./tb_roles/majordome.html" style="text-decoration:none; flex:0 0 auto; width:240px; text-align:center;">
-    <img src="./images/Icon_butler.png" alt="Majordome" style="display:block; margin:0 auto; width:240px; height:auto; border-radius:12px;">
+  <a href="./tb_roles/majordome.html" style="text-decoration:none; display:inline-block; width:220px; margin:8px; text-align:center;">
+    <img src="./images/Icon_butler.png" alt="Majordome" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
     <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Majordome</span>
   </a>
 
-  <a href="./tb_roles/ivrogne.html" style="text-decoration:none; flex:0 0 auto; width:240px; text-align:center;">
-    <img src="./images/Icon_drunk-1.png" alt="Ivrogne" style="display:block; margin:0 auto; width:240px; height:auto; border-radius:12px;">
+  <a href="./tb_roles/ivrogne.html" style="text-decoration:none; display:inline-block; width:220px; margin:8px; text-align:center;">
+    <img src="./images/Icon_drunk-1.png" alt="Ivrogne" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
     <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Ivrogne</span>
   </a>
 
-  <a href="./tb_roles/reclus.html" style="text-decoration:none; flex:0 0 auto; width:240px; text-align:center;">
-    <img src="./images/Icon_recluse-1.png" alt="Reclus" style="display:block; margin:0 auto; width:240px; height:auto; border-radius:12px;">
+  <a href="./tb_roles/reclus.html" style="text-decoration:none; display:inline-block; width:220px; margin:8px; text-align:center;">
+    <img src="./images/Icon_recluse-1.png" alt="Reclus" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
     <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Reclus</span>
   </a>
 
-  <a href="./tb_roles/saint.html" style="text-decoration:none; flex:0 0 auto; width:240px; text-align:center;">
-    <img src="./images/Icon_saint.png" alt="Saint" style="display:block; margin:0 auto; width:240px; height:auto; border-radius:12px;">
+  <a href="./tb_roles/saint.html" style="text-decoration:none; display:inline-block; width:220px; margin:8px; text-align:center;">
+    <img src="./images/Icon_saint.png" alt="Saint" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
     <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Saint</span>
   </a>
 
@@ -191,25 +214,25 @@ Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient
 
 ## <span id="sbires" style="color:#d45b5b;">Sbires</span>
 
-<div style="margin: 8px 0 6px 0; display:flex; flex-wrap:nowrap; gap:12px; overflow-x:auto; padding-bottom:8px;">
+<div style="text-align:center;">
 
-  <a href="./tb_roles/empoisonneur.html" style="text-decoration:none; flex:0 0 auto; width:240px; text-align:center;">
-    <img src="./images/Icon_poisoner.png" alt="Empoisonneur" style="display:block; margin:0 auto; width:240px; height:auto; border-radius:12px;">
+  <a href="./tb_roles/empoisonneur.html" style="text-decoration:none; display:inline-block; width:220px; margin:8px; text-align:center;">
+    <img src="./images/Icon_poisoner.png" alt="Empoisonneur" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
     <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Empoisonneur</span>
   </a>
 
-  <a href="./tb_roles/espion.html" style="text-decoration:none; flex:0 0 auto; width:240px; text-align:center;">
-    <img src="./images/Icon_spy.png" alt="Espion" style="display:block; margin:0 auto; width:240px; height:auto; border-radius:12px;">
+  <a href="./tb_roles/espion.html" style="text-decoration:none; display:inline-block; width:220px; margin:8px; text-align:center;">
+    <img src="./images/Icon_spy.png" alt="Espion" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
     <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Espion</span>
   </a>
 
-  <a href="./tb_roles/femmeecarlate.html" style="text-decoration:none; flex:0 0 auto; width:240px; text-align:center;">
-    <img src="./images/Icon_scarletwoman.png" alt="Femme Écarlate" style="display:block; margin:0 auto; width:240px; height:auto; border-radius:12px;">
+  <a href="./tb_roles/femmeecarlate.html" style="text-decoration:none; display:inline-block; width:220px; margin:8px; text-align:center;">
+    <img src="./images/Icon_scarletwoman.png" alt="Femme Écarlate" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
     <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Femme Écarlate</span>
   </a>
 
-  <a href="./tb_roles/baron.html" style="text-decoration:none; flex:0 0 auto; width:240px; text-align:center;">
-    <img src="./images/Icon_baron.png" alt="Baron" style="display:block; margin:0 auto; width:240px; height:auto; border-radius:12px;">
+  <a href="./tb_roles/baron.html" style="text-decoration:none; display:inline-block; width:220px; margin:8px; text-align:center;">
+    <img src="./images/Icon_baron.png" alt="Baron" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
     <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Baron</span>
   </a>
 
@@ -219,10 +242,10 @@ Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient
 
 ## <span id="demons" style="color:#d45b5b;">Démons</span>
 
-<div style="margin: 8px 0 6px 0; display:flex; flex-wrap:nowrap; gap:12px; overflow-x:auto; padding-bottom:8px;">
+<div style="text-align:center;">
 
-  <a href="./tb_roles/imp.html" style="text-decoration:none; flex:0 0 auto; width:240px; text-align:center;">
-    <img src="./images/Icon_imp.png" alt="Imp" style="display:block; margin:0 auto; width:240px; height:auto; border-radius:12px;">
+  <a href="./tb_roles/imp.html" style="text-decoration:none; display:inline-block; width:220px; margin:8px; text-align:center;">
+    <img src="./images/Icon_imp.png" alt="Imp" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
     <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Imp</span>
   </a>
 
@@ -230,24 +253,18 @@ Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient
 
 ---
 
-## <span id="telechargements" style="color:#b58b52;">Téléchargements et Ressources</span>
+## <span id="ressources" style="color:#b58b52;">Télécharger & ressources</span>
 
 <h3 style="color:#b58b52; font-weight:bold; font-size:22px;">📄 PDF complet</h3>
-<p style="text-align:left; font-size:18px; color:#e0c99d;">
+<p style="text-align:left; font-size:18px;">
 👉 <a href="./trouble_brewing.pdf" style="color:#d4a76a; font-weight:bold; text-decoration:none;">📄 Télécharger le PDF de Trouble Brewing</a>
 </p>
 
 <h3 style="color:#b58b52; font-weight:bold; font-size:22px;">🖼️ Images pratiques</h3>
 <div style="text-align:left;">
-  <a href="./images/tb-front.png">
-    <img src="./images/tb-front.png" alt="Couverture" width="250" style="margin:8px; border-radius:8px;">
-  </a>
-  <a href="./images/tb-nuit.png">
-    <img src="./images/tb-nuit.png" alt="Ordre de Nuit" width="250" style="margin:8px; border-radius:8px;">
-  </a>
-  <a href="./images/tb-roles.png">
-    <img src="./images/tb-roles.png" alt="Liste des rôles" width="250" style="margin:8px; border-radius:8px;">
-  </a>
+  <a href="./images/tb-front.png"><img src="./images/tb-front.png" alt="Couverture" width="250" style="margin:8px; border-radius:8px;"></a>
+  <a href="./images/tb-nuit.png"><img src="./images/tb-nuit.png" alt="Ordre de Nuit" width="250" style="margin:8px; border-radius:8px;"></a>
+  <a href="./images/tb-roles.png"><img src="./images/tb-roles.png" alt="Liste des rôles" width="250" style="margin:8px; border-radius:8px;"></a>
 </div>
 
 ---
