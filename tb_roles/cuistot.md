@@ -110,6 +110,7 @@ Le **Cuistot** apprend combien de **paires de joueurs <span style="color:red">ma
 
 ⚠️ **Attention** au [Reclus](reclus.md) : il peut vous piéger et condamner un allié si vous n’êtes pas prudent.  
 
+---
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
