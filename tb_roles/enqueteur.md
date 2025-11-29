@@ -26,7 +26,7 @@ title: Enquêteur
 
 
 
-## 🧾 <span style="color:blue">Information</span>  
+## ℹ️ <span style="color:blue">Information</span>  
 
 - **Type :** [<span style="color:blue">Villageois</span>](../villageois.md)  
 - **Illustrateur :** Aidan Roberts  
@@ -139,8 +139,7 @@ Il ne reçoit cette information qu’une seule fois, au début de la partie.
     <img src="../images/Icon_vizier.png" alt="Boffin" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a> :  
     Si l’Enquêteur apprend que le <span style="color:#d45b5b; font-weight:bold;">Vizir</span> est en jeu <strong>le Conteur n’annonce pas son existence</strong> publiquement. 
-  </li>  
-  
+  </li>   
   </ul>
 
 ---
