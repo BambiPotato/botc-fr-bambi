@@ -101,6 +101,32 @@ S’il est attaqué par le Démon, le Conteur peut choisir qu’un autre joueur 
 - Si une mort étrange survient par exemple : [Reclus](reclus.md) ou [Lavandière](lavandiere.md)), vous pouvez l’utiliser comme preuve que vous êtes Maire.  
 - Même un joueur bon peut bluffer Maire pour détourner le Démon.  
 
+---
+
+## 🧞 <span style="color:#d4a76a">Jinxes liés</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+  <li>
+    🧞
+    <img src="../images/Icon_leviathan.png" alt="Léviathan" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/leviathan.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Léviathan</a> :  
+    Si le <span style="color:#d45b5b; font-weight:bold;">Léviathan</span> et le Maire sont vivants au 5éme jour et qu’aucune exécution n’a lieu, 
+    l’équipe des bons gagne.
+  </li>
+    <li>
+    🧞
+    <img src="../images/Icon_riot.png" alt="Riot" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> :  
+    Le Maire peut choisir d’arrêter le Riot.
+    S’il le fait alors qu’il ne reste qu’un seul Riot en vie, l’équipe des bons gagne.
+    Sinon, l’équipe des maléfique gagne.
+  </li>
+  </ul>
+
+  
+---
+
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
   <li>🍺 <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
