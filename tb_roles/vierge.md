@@ -17,7 +17,7 @@
 
 ---
 
-## ℹ️ Information  
+## ℹ️ <span style="color:blue">Informations</span>   
 
 - **Type** : [Villageois](../villageois.md) 
 - **Artiste** : Aidan Roberts  
