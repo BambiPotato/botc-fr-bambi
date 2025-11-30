@@ -162,7 +162,7 @@ Objectif&nbsp;: créer une partie dynamique avec forts retournements et informat
 </div>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Astuce pour conteur et conteuse&nbsp;: annoncez clairement les transformations et maintenez un rythme lisible. 
+Astuce pour les Conteurs et Conteuses&nbsp;: annoncez clairement les transformations et maintenez un rythme lisible. 
 Mieux vaut une nuit un peu plus longue et propre qu’une action ambiguë.
 </p>
 
