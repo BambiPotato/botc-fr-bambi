@@ -126,7 +126,7 @@ Ces rôles sont justement faits pour que la personne ne sache pas qui elle est v
 
 <hr class="section">
 
-## 🍷☠️ <span id="ivresse-et-poison">Ivresse et poison</span>
+## 🍺 ☠️ <span id="ivresse-et-poison">Ivresse et poison</span>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 À tout moment, un joueur est soit <strong>sobre</strong>, soit <strong>ivre</strong>, et soit <strong>sain</strong>, soit <strong>empoisonné</strong>.  
@@ -158,7 +158,7 @@ Un <a href="./demons.html" style="color:#d45b5b; text-decoration:none;">Démon</
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Parfois, le Conteur peut donner des indices très subtils pour laisser deviner une ivresse ou un poison.  
 Par exemple, il peut montrer à un <a href="./tb_roles/croquemort.html" style="color:#4ea3ff; text-decoration:none;">Croque-Mort</a> que 
-<a href="./tb_roles/maire.html" style="color:#4ea3ff; text-decoration:none;">Maire</a>le a été exécuté alors que personne ne revendique ce rôle.  
+<a href="./tb_roles/maire.html" style="color:#4ea3ff; text-decoration:none;">Maire</a> le a été exécuté alors que personne ne revendique ce rôle.  
 Ce genre de situation doit rester rare.
 </p>
 
