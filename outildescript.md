@@ -37,7 +37,7 @@ C’est la meilleure façon de renouveler vos parties de <em>Blood on the Clockt
 
 <hr>
 
-<h2 id="pourquoi" style="color:#b58b52; font-weight:bold;">1 Pourquoi créer un script&nbsp;?</h2>
+<h2 id="pourquoi" style="color:#b58b52; font-weight:bold;">.Pourquoi créer un script&nbsp;?</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Vous avez des rôles favoris que vous voulez inclure souvent&nbsp;? 
 Vous imaginez des combinaisons qui créent des interactions originales et stratégiques&nbsp;? 
@@ -55,7 +55,7 @@ croise le <a href="./sv_roles/maladroit.html" style="color:blue; font-weight:bol
 
 <hr>
 
-<h2 id="outil-officiel" style="color:#b58b52; font-weight:bold;">2 Utiliser l’outil officiel</h2>
+<h2 id="outil-officiel" style="color:#b58b52; font-weight:bold;">. Utiliser l’outil officiel</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 L’outil officiel permet de créer un script à partir de n’importe quelle combinaison de rôles. 
 Il génère automatiquement la <strong>feuille de nuit</strong> correspondante, ce qui facilite la tâche du conteur ou de la conteuse.
@@ -66,7 +66,7 @@ Il génère automatiquement la <strong>feuille de nuit</strong> correspondante, 
 
 <hr>
 
-<h2 id="ameliorer" style="color:#b58b52; font-weight:bold;">3 Améliorer vos créations</h2>
+<h2 id="ameliorer" style="color:#b58b52; font-weight:bold;">. Améliorer vos créations</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Comparer vos scripts avec ceux d’autres conteurs et conteuses est un excellent moyen de progresser. 
 Commencez petit avec quelques rôles centraux, puis étoffez au fil des parties. 
@@ -83,7 +83,7 @@ Recueillez les retours des joueurs et joueuses après chaque partie pour ajuster
 
 <hr>
 
-<h2 id="voyageurs-legendaire" style="color:#b58b52; font-weight:bold;">4 Ajouter les Voyageurs et les Légendaires</h2>
+<h2 id="voyageurs-legendaire" style="color:#b58b52; font-weight:bold;">. Ajouter les Voyageurs et les Légendaires</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Intégrer des <a href="./voyageurs/voyageurs.html" style="color:purple; font-weight:bold; text-decoration:none;">Voyageurs</a> à un script personnalisé est simple. 
 Ils et elles peuvent rejoindre une partie en cours et apporter des rebonds intéressants. 
@@ -93,7 +93,7 @@ aident à ajuster l’équilibre et à résoudre des cas particuliers.
 
 <hr>
 
-<h2 id="situations" style="color:#b58b52; font-weight:bold;">5 Gérer les situations inhabituelles</h2>
+<h2 id="situations" style="color:#b58b52; font-weight:bold;">. Gérer les situations inhabituelles</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 En mélangeant beaucoup de rôles, des cas rares se présentent&nbsp;: 
 alignements inversés, pouvoirs qui se chevauchent, transformations en chaîne. 
