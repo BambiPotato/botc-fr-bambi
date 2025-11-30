@@ -168,16 +168,10 @@ Mieux vaut une nuit un peu plus longue et propre qu’une action ambiguë.
 
 <hr>
 
-<h2 style="color:#ffa64d; font-weight:bold; font-size:24px;">📂 Navigation</h2>
+
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🍺 <a href="./trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌙 <a href="./bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>💐 <a href="./sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a></li>
-  <li>🧭 <a href="./regles.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Règles du jeu</a></li>
-  <li>🧑‍🌾 <a href="./villageois.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Villageois</a></li>
-  <li>🌀 <a href="./etrangers.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Étrangers</a></li>
-  <li>😈 <a href="./sbires.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sbires</a></li>
-  <li>👹 <a href="./demons.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Démons</a></li>
-  <li>🧳 <a href="./voyageurs/voyageurs.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Voyageurs</a></li>
+  <li>🍺 <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li>🌙 <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
+  <li>💐 <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a></li>
 </ul>
