@@ -131,7 +131,7 @@ La priorité revient toujours au **texte du rôle**.
 
 Exemple :  
 Le [<span style="color:red;">**Démon**</span>](./demons.md) tue le [**Sage**](./sv_roles/sage.md), mais le Conteur oublie de le réveiller.  
-Ensuite, la [**Dulcinée**](./sv_roles/dulcinee.md) (Sweetheart) agit.  
+Ensuite, la [**Dulcinée**](./sv_roles/dulcinee.md) agit.  
 Le Conteur se souvient qu’elle est morte plus tôt, et rend immédiatement un joueur ivre.  
 Puis il revient au [**Sage**](./sv_roles/sage.md) pour résoudre sa capacité.
 
