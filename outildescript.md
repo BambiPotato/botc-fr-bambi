@@ -37,7 +37,7 @@ C’est la meilleure façon de renouveler vos parties de <em>Blood on the Clockt
 
 <hr>
 
-<h2 id="pourquoi" style="color:#b58b52; font-weight:bold;">.Pourquoi créer un script&nbsp;?</h2>
+<h2 id="pourquoi" style="color:#b58b52; font-weight:bold;">. Pourquoi créer un script&nbsp;?</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Vous avez des rôles favoris que vous voulez inclure souvent&nbsp;? 
 Vous imaginez des combinaisons qui créent des interactions originales et stratégiques&nbsp;? 
@@ -61,7 +61,7 @@ L’outil officiel permet de créer un script à partir de n’importe quelle co
 Il génère automatiquement la <strong>feuille de nuit</strong> correspondante, ce qui facilite la tâche du conteur ou de la conteuse.
 </p>
 <p style="color:#e0c99d; font-size:18px;">
-🔧 <a href="https://script.bloodontheclocktower.com" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Accéder à l’outil officiel de création de scripts</a>
+🔧 <a href="https://script.bloodontheclocktower.com" style="color:#d4a76a; font-weight:bold; text-decoration:none;">. Accéder à l’outil officiel de création de scripts</a>
 </p>
 
 <hr>
