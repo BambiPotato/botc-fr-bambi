@@ -94,8 +94,8 @@ L’<strong>Orgue de Barbarie</strong> rend les votes secrets et empêche le Bie
 
   <p>
     <img src="../images/Icon_alchemist.png" alt="Alchimiste" width="32" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/alchemist.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Alchimiste</a> :  
-    Si l’<a href="../roles_experimentaux/alchemist.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Alchimiste</a> possède la capacité de l’<strong>Orgue de Barbarie</strong>,  
+    <a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> :  
+    Si l’<a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> possède la capacité de l’<strong>Orgue de Barbarie</strong>,  
     l’<strong>Orgue de Barbarie</strong> est en jeu.  
     Si les deux sont sobres, les deux sont ivres.
   </p>
