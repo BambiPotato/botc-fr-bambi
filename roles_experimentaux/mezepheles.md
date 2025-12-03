@@ -58,7 +58,7 @@ title: Mezepheles
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Le <strong>Mezepheles</strong> propose aux joueurs et joueuses du Bien une tentation :  
-rester dans la lumière… ou basculer volontairement du côté Maléfique.
+rester dans la lumière… ou basculer volontairement du côté maléfique.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
@@ -84,7 +84,7 @@ rester dans la lumière… ou basculer volontairement du côté Maléfique.
       la nuit où un joueur devrait devenir maléfique,  
       ce joueur reste bon,  
       et le <strong>Mezepheles</strong> a tout de même « utilisé sa capacité » :  
-      il ne pourra plus rendre un joueur Maléfique.</li>
+      il ne pourra plus rendre un joueur maléfique ensuite.</li>
 
 </ul>
 
@@ -93,8 +93,8 @@ rester dans la lumière… ou basculer volontairement du côté Maléfique.
 ## 🎭 <span style="color:#d45b5b;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Pour préparer la partie, écrivez un seul mot sur une feuille de papier, 
-un téléphone ou un autre appareil. 
+Pour préparer le jeu, écrivez un seul mot sur une feuille de papier,  
+un téléphone ou un autre appareil.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
@@ -144,7 +144,7 @@ un téléphone ou un autre appareil.
   <li>Si, au moment où un joueur devrait devenir maléfique,  
       le <strong>Mezepheles</strong> est ivre ou empoisonné (par exemple à cause d’un  
       <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a>  
-      ou d’un <a href="../bmr_roles/courtisan.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisan</a>) :
+      ou d’un <a href="../bmr_roles/courtier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisan</a>) :
       <ul style="margin-left:20px;">
         <li>le joueur reste bon ;</li>
         <li>mais vous considérez que le <strong>Mezepheles</strong> a tout de même utilisé sa capacité  
@@ -159,16 +159,16 @@ un téléphone ou un autre appareil.
 ## 🧩 <span style="color:#d45b5b;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Mezepheles</strong> dit au 
-<a href="../bmr_roles/barbier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Barbier</a> 
+Le <strong>Mezepheles</strong> dit au  
+<a href="../sv_roles/barbier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Barbier</a>  
 que le mot secret est « Farfadet ».  
-Le <a href="../bmr_roles/barbier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Barbier</a> déclare en public :  
+Le <a href="../sv_roles/barbier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Barbier</a> déclare en public :  
 « Ça me rappelle le conte où la fille du meunier doit deviner le nom de Farfadet. »  
-Le <a href="../bmr_roles/barbier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Barbier</a> devient maléfique cette nuit-là.
+Le <a href="../sv_roles/barbier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Barbier</a> devient maléfique cette nuit-là.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Mezepheles</strong> révèle le mot secret au 
+Le <strong>Mezepheles</strong> révèle le mot secret au  
 <a href="../tb_roles/maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a>.  
 Le <a href="../tb_roles/maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a>, décidé à rester du côté du Bien,  
 annonce au groupe qui est le <strong>Mezepheles</strong>  
@@ -176,15 +176,15 @@ sans jamais prononcer le mot.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Mezepheles</strong> dit en privé au 
-<a href="../bmr_roles/noble.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Noble</a> 
+Le <strong>Mezepheles</strong> dit en privé au  
+<a href="../roles_experimentaux/noble.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Noble</a>  
 que le mot secret est « Constantinople ».  
-Le <a href="../bmr_roles/noble.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Noble</a> va voir les Conteurs et conteuses en aparté  
+Le <a href="../roles_experimentaux/noble.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Noble</a> va voir les Conteurs et conteuses en aparté  
 et prononce clairement « Constantinople ».  
-Cette nuit-là, le 
-<a href="../bmr_roles/courtisan.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisan</a>  
+Cette nuit-là, le  
+<a href="../bmr_roles/courtier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisan</a>  
 rend le <strong>Mezepheles</strong> ivre.  
-Le <a href="../bmr_roles/noble.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Noble</a> reste bon,  
+Le <a href="../roles_experimentaux/noble.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Noble</a> reste bon,  
 et le <strong>Mezepheles</strong> a perdu sa capacité pour rien.
 </p>
 
@@ -209,31 +209,33 @@ et le <strong>Mezepheles</strong> a perdu sa capacité pour rien.
       soit aller le prononcer en aparté aux Conteurs et conteuses.</li>
 
   <li>Ciblez des rôles qui ont une <strong>bonne raison</strong> de changer de camp.  
-      Une <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> 
-      ou un <a href="../tb_roles/corbeaumalin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corbeau Malin</a> 
-      qui n’ont pas encore d’info solide,  
-      ou des Étrangers comme le 
-      <a href="../bmr_roles/sweetheart.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sweetheart</a> 
-      ou le <a href="../bmr_roles/klutz.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Klutz</a>,  
-      peuvent craindre de nuire au Bien et être tentés par le Mal.  
-      En privé, proposez-leur le marché :  
-      « Tu dis ce mot, tu rejoins notre équipe. »</li>
+      Par exemple :
+      <ul style="margin-left:20px;">
+        <li>une <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>  
+            ou un <a href="../tb_roles/gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a>  
+            qui n’ont pas encore d’information solide ;</li>
+        <li>des Étrangers comme la  
+            <a href="../sv_roles/dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a>  
+            ou la <a href="../sv_roles/maladroit.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maladroit</a>,  
+            qui craignent de nuire au Bien.</li>
+      </ul>
+      Ces personnages peuvent envisager de rejoindre le camp maléfique  
+      si vous leur faites une offre convaincante.</li>
 
   <li>Évitez les joueurs qui ne voudront <strong>jamais</strong> être maléfiques :  
-      ceux qui détestent bluffer ou qui jouent toujours « ultra loyaux ».  
+      ceux qui détestent bluffer ou qui jouent toujours très loyaux au Bien.  
       Leur révéler que vous êtes le <strong>Mezepheles</strong>  
-      ne fera que vous exposer et ne vous apportera rien.</li>
+      ne fera que vous exposer pour rien.</li>
 
   <li>Évitez aussi les personnages bons qui :
       <ul style="margin-left:20px;">
-        <li>reçoivent de très bonnes informations ;</li>
+        <li>reçoivent de très bonnes informations (par exemple un  
+            <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a>  
+            aux résultats cohérents) ;</li>
         <li>ou n’ont pas encore utilisé une capacité très puissante  
-            (par exemple une 
-            <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> 
-            qui touche juste,  
-            un <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> 
+            (par exemple un <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a>  
             qui a déjà protégé quelqu’un,  
-            ou un <a href="../tb_roles/tueur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Tueur</a> 
+            ou un <a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a>  
             qui n’a pas encore tiré).</li>
       </ul>
       Ces personnages se sentent utiles au Bien  
@@ -247,8 +249,7 @@ et le <strong>Mezepheles</strong> a perdu sa capacité pour rien.
 
   <li>Vous pouvez aussi essayer de piéger les gens en public :  
       répétez souvent le mot secret dans la conversation,  
-      en accusant par exemple un joueur d’avoir dit ce mot avant,  
-      ou en racontant une anecdote autour de ce mot.  
+      en racontant une anecdote ou en posant une question étrange autour de ce mot.  
       Quelqu’un pourrait le répéter machinalement.  
       Mais :
       <ul style="margin-left:20px;">
@@ -261,7 +262,7 @@ et le <strong>Mezepheles</strong> a perdu sa capacité pour rien.
 
   <li>Faites attention à votre propre exécution.  
       Un joueur qui a prononcé le mot ne devient maléfique que <strong>la nuit</strong>.  
-      Si vous êtes exécuté ce même jour,  
+      Si vous êtes exécuté le même jour,  
       vous n’aurez plus de capacité la nuit  
       et cette personne restera bonne.  
       Le lendemain, elle pourra vous dénoncer comme <strong>Mezepheles</strong>,  
@@ -273,8 +274,8 @@ et le <strong>Mezepheles</strong> a perdu sa capacité pour rien.
       ou d’un <a href="../bmr_roles/avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a>),  
       vous pouvez révéler publiquement que vous êtes le <strong>Mezepheles</strong> :  
       organisez des « entretiens » avec les joueurs bons  
-      qui souhaitent peut-être devenir maléfiques,  
-      faites-les languir, et semez la méfiance.  
+      qui souhaiteraient peut-être devenir maléfiques,  
+      faites-les patienter, et semez la méfiance.  
       Tant que personne ne bascule,  
       tous les suspects potentiels seront moins crédibles.</li>
 
@@ -302,7 +303,7 @@ et le <strong>Mezepheles</strong> a perdu sa capacité pour rien.
       S’il prétend ensuite être devenu maléfique  
       et réclame les noms des autres joueurs du Mal,  
       vous savez qu’il ment :  
-      donnez-lui de fausses infos  
+      donnez-lui de fausses informations  
       pour qu’il accuse la mauvaise personne.</li>
 
   <li>Avant d’utiliser réellement votre capacité,  
@@ -314,7 +315,7 @@ et le <strong>Mezepheles</strong> a perdu sa capacité pour rien.
 
 ---
 
-## ⚔️ <span style="color:#d45b5b;">Combattre Mezepheles</span>
+## ⚔️ <span style="color:#d45b5b;">Combattre le Mezepheles</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -337,14 +338,14 @@ et le <strong>Mezepheles</strong> a perdu sa capacité pour rien.
       Plus le groupe en sait,  
       moins les joueurs bons auront envie de basculer.</li>
 
-  <li>Le <strong>Mezepheles</strong> peut aussi être piégé :  
+  <li>Vous pouvez aussi piéger le <strong>Mezepheles</strong> :  
       si vous avez reçu le mot secret,  
       dites-lui plus tard que vous l’avez prononcé aux Conteurs et conteuses…  
       sans l’avoir fait.  
       Le lendemain, prétendez être devenu maléfique  
       et demandez-lui qui sont les autres joueurs du Mal.  
       S’il vous les révèle,  
-      vous avez gratuitement toute la structure de l’équipe maléfique.</li>
+      vous obtenez gratuitement la liste complète de l’équipe maléfique.</li>
 
   <li>Repérez les joueurs qui emploient des mots très étranges ou répétés  
       dans les conversations publiques,  
@@ -360,7 +361,7 @@ et le <strong>Mezepheles</strong> a perdu sa capacité pour rien.
 
   <li>Si vous pouvez rendre des joueurs maléfiques ivres ou empoisonnés  
       (avec un <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a>,  
-      un <a href="../bmr_roles/courtisan.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisan</a>,  
+      un <a href="../bmr_roles/courtier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisan</a>,  
       un <a href="../roles_experimentaux/preacher.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Prédicateur</a>  
       ou un <a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a>),  
       restez discret sur votre identité.  
@@ -404,7 +405,7 @@ et le <strong>Mezepheles</strong> a perdu sa capacité pour rien.
       « Si on ne peut pas les battre… rejoignons-les. »  
       Dans certaines parties très sociales,  
       ce genre de volte-face assumée  
-      peut générer une fin de partie mémorable.</li>
+      peut créer une fin de partie mémorable.</li>
 
   <li>Si un <strong>Mezepheles</strong> vous propose de devenir maléfique  
       mais que vous hésitez,  
