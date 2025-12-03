@@ -46,17 +46,17 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
 </p>
 
 <!-- SOMMAIRE NUMÉROTÉ -->
-<h2 style="color:#f5f5f5; font-weight:800; font-size:16px; text-align:left; margin-top:18px;">📑 Sommaire</h2>
+<h2 style="color:#d4a76a; font-weight:800; font-size:18px; text-align:left; margin-top:18px;">📑 Sommaire</h2>
 <ol style="color:#f5f5f5; font-size:18px; line-height:1.7; padding-left:14px; margin-top:6px;">
-  <li><a href="#1-synopsis" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Synopsis</a></li>
-  <li><a href="#2-gameplay" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gameplay</a></li>
-  <li><a href="#3-villageois" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a></li>
-  <li><a href="#4-etrangers" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a></li>
-  <li><a href="#5-sbires" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sbires</a></li>
-  <li><a href="#6-demons" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Démons</a></li>
-  <li><a href="#7-legendaires" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Légendaires</a></li>
-  <li><a href="#8-lorics" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lorics</a></li>
-  <li><a href="#9-voyageurs" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyageurs</a></li>
+  <li><a href="#1-synopsis" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Synopsis</a></li>
+  <li><a href="#2-gameplay" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Gameplay</a></li>
+  <li><a href="#3-villageois" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Villageois</a></li>
+  <li><a href="#4-etrangers" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Étrangers</a></li>
+  <li><a href="#5-sbires" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Sbires</a></li>
+  <li><a href="#6-demons" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Démons</a></li>
+  <li><a href="#7-legendaires" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Légendaires</a></li>
+  <li><a href="#8-lorics" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Lorics</a></li>
+  <li><a href="#9-voyageurs" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Voyageurs</a></li>
 </ol>
 
 <hr style="border-color:rgba(224,185,122,0.3); margin:14px 0 10px;">
