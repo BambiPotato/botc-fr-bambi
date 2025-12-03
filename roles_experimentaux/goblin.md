@@ -28,7 +28,7 @@ title: Goblin
   </a>
 </div>
 
-# 🧨 <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Goblin</span>
+# 👹 <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Goblin</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Tu n’as vraiment, vraiment pas envie d’insulter les gobelins.  
