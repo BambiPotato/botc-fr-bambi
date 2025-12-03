@@ -90,25 +90,25 @@ L’<strong>Orgue de Barbarie</strong> rend les votes secrets et empêche le Bie
 
 ## 🧞 <span style="color:#d45b5b;">Jinxes liés</span>
 
-<div style="margin-left:40px; color:#f5f5f5; font-size:18px; line-height:1.7;">
+<ul style="margin-left:40px; color:#f5f5f5; font-size:18px; line-height:1.7;">
 
-  <p>
-    <img src="../images/Icon_alchemist.png" alt="Alchimiste" width="32" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+  <li>
+    <img src="../images/Icon_alchemist.png" alt="Alchimiste" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> :  
     Si l’<a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> possède la capacité de l’<strong>Orgue de Barbarie</strong>,  
     l’<strong>Orgue de Barbarie</strong> est en jeu.  
     Si les deux sont sobres, les deux sont ivres.
-  </p>
+  </li>
 
-  <p>
-    <img src="../images/Icon_butler.png" alt="Majordome" width="32" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+  <li>
+    <img src="../images/Icon_butler.png" alt="Majordome" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../tb_roles/majordome.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Majordome</a> :  
     Si l’<strong>Orgue de Barbarie</strong> impose les votes yeux fermés,  
     le <a href="../tb_roles/majordome.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Majordome</a> peut lever la main pour voter,  
     mais son vote n’est compté que si son maître vote aussi.
-  </p>
+  </li>
 
-</div>
+</ul>
 
 ---
 
@@ -178,7 +178,7 @@ et vous appliquez les règles de vote secret lorsqu’il est sobre.
 
 ## 🧩 <span style="color:#d45b5b;">Exemples</span>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7%;">
 Il y a 8 joueurs vivants.  
 Le <a href="../roles_experimentaux/noble.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Noble</a> est nommé.  
 Tous les joueurs ferment les yeux pour voter,  
