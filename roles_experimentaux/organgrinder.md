@@ -188,7 +188,7 @@ yeux fermés, il obtient 7 votes.
 Puis la <a href="../roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a> est nommée  
 et reçoit 4 votes.  
 Après la fermeture des nominations, les Conteurs et conteuses annoncent  
-que Doug (l’<a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Imp</a>) est exécuté et meurt,  
+que Damien (l’<a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Imp</a>) est exécuté et meurt,  
 et que l’équipe du Bien gagne la partie.
 </p>
 
