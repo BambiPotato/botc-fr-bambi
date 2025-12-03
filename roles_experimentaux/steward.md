@@ -61,7 +61,7 @@ Il apprend cette information lors de la toute première nuit, ou lors de sa prem
 
 ---
 
-## ⚙️ <span style="color:#4ea3ff;">Détails</span>
+## ℹ️ <span style="color:#4ea3ff;">Détails</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -125,7 +125,7 @@ Médhi est l’<a href="../tb_roles/espion.html" style="color:#d45b5b; font-weig
 
 ---
 
-## 🎭 span style="color:#4ea3ff;">Bluffer en tant qu’Intendant</span>
+## 😈 span style="color:#4ea3ff;">Bluffer Intendant</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
