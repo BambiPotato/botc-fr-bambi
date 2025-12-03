@@ -306,7 +306,7 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
 
   <a href="roles_experimentaux/goblin.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_goblin.png" alt="Gobelin" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Gobelin</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Goblin</span>
   </a>
 
   <a href="roles_experimentaux/harpy.html" style="text-decoration:none; width:280px; text-align:center;">
