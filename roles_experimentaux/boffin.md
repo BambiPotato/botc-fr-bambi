@@ -90,7 +90,7 @@ title: Boffin
   </li>
 
   <li>
-    <img src="../images/Icon_drunk.png" alt="Ivrogne" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <img src="../images/Icon_drunk-1.png" alt="Ivrogne" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> :  
     Le <span style="color:#d45b5b; font-weight:bold;">Démon</span> ne peut pas avoir la capacité de l’<a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>.
   </li>
