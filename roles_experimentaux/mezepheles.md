@@ -93,7 +93,7 @@ rester dans la lumière… ou basculer volontairement du côté Maléfique.
 ## 🎭 <span style="color:#d45b5b;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Pour préparer le jeu, écrivez un seul mot sur une feuille de papier, 
+Pour préparer la partie, écrivez un seul mot sur une feuille de papier, 
 un téléphone ou un autre appareil. 
 </p>
 
