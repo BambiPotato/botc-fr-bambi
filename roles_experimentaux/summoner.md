@@ -28,7 +28,7 @@ title: Invocateur
   </a>
 </div>
 
-# 🔴 <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Invocateur</span>
+# ⭕️ <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Invocateur</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Gloire aux gardiens du Nord ; par mon intellect, tu es tranché.  
@@ -161,10 +161,10 @@ L’<strong>Invocateur</strong> crée un <span style="color:#d45b5b; font-weight
 
   <li>
     <img src="../images/Icon_poppygrower.png" alt="Poppy Grower" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../bmr_roles/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Poppy Grower</a> :  
-    Si le ou la <a href="../bmr_roles/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Poppy Grower</a> est vivant ou vivante  
+    <a href="../bmr_roles/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cultivateur de Pavot</a> :  
+    Si le <a href="../bmr_roles/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cultivateur de Pavot</a> est vivant 
     lors de la 3ᵉ nuit, l’<strong>Invocateur</strong> choisit quel <span style="color:#d45b5b; font-weight:bold;">Démon</span> est créé,  
-    mais pas quel joueur le devient.
+    mais pas quel joueur.
   </li>
 
   <li>
@@ -185,7 +185,7 @@ L’<strong>Invocateur</strong> crée un <span style="color:#d45b5b; font-weight
     <img src="../images/Icon_zombuul.png" alt="Zombuul" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../bmr_roles/zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> :  
     Si l’<strong>Invocateur</strong> invoque un joueur mort en <a href="../bmr_roles/zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a>,  
-    ce <a href="../bmr_roles/zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> a déjà « mouru une fois ».
+    ce <a href="../bmr_roles/zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> a déjà « mort une fois ».
   </li>
 
 </ul>
