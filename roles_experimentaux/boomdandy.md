@@ -137,7 +137,7 @@ Si le <strong>Boomdandy</strong> est exécuté, annoncez qu’il a explosé.
   <li>Pendant le compte à rebours, tous les joueurs (vivants et morts) doivent pointer vers la personne qu’ils veulent voir mourir.  
       Ils peuvent changer de cible tant que le compte n’est pas terminé.</li>
 
-  <li>À « 1 », dites « Freeze ! » et demandez à tout le monde de rester immobile pendant que vous comptez les doigts pointés vers chaque joueur.</li>
+  <li>À « 1 », dites « Ne bouge plus ! Stop !» et demandez à tout le monde de rester immobile pendant que vous comptez les doigts pointés vers chaque joueur.</li>
 
   <li>Le joueur vers qui pointent le plus de doigts meurt.  
       S’il y a égalité, personne ne meurt et la journée se termine immédiatement.</li>
