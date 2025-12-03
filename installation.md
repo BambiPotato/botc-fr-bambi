@@ -22,21 +22,21 @@ en suivant la feuille <em>Setup</em> du jeu. Elle s’adresse aux <strong>conteu
 
 <h2 style="color:#b58b52; font-weight:bold;">📋 Sommaire</h2>
 <ul style="color:#d9d9d9; font-size:18px; line-height:1.7;">
-  <li><a href="#rassembler"   style="color:#d9d9d9; font-weight:bold; text-decoration:none;">1 Rassembler les joueurs et joueuses</a></li>
-  <li><a href="#grimoire"     style="color:#d9d9d9; font-weight:bold; text-decoration:none;">2 Préparer le Grimoire</a></li>
-  <li><a href="#edition"      style="color:#d9d9d9; font-weight:bold; text-decoration:none;">3 Choisir une édition</a></li>
-  <li><a href="#place"        style="color:#d9d9d9; font-weight:bold; text-decoration:none;">4 Installer la place du village</a></li>
-  <li><a href="#regles"       style="color:#d9d9d9; font-weight:bold; text-decoration:none;">5 Lire les règles aux nouvelles personnes</a></li>
-  <li><a href="#roles"        style="color:#d9d9d9; font-weight:bold; text-decoration:none;">6 Choisir secrètement les rôles</a></li>
-  <li><a href="#ajustements"  style="color:#d9d9d9; font-weight:bold; text-decoration:none;">7 Ajouter ou retirer des rôles</a></li>
-  <li><a href="#rappels"      style="color:#d9d9d9; font-weight:bold; text-decoration:none;">8 Ajouter les jetons de rappel</a></li>
-  <li><a href="#distribution" style="color:#d9d9d9; font-weight:bold; text-decoration:none;">9 Distribuer les rôles</a></li>
-  <li><a href="#placer"       style="color:#d9d9d9; font-weight:bold; text-decoration:none;">10 Placer les jetons dans le Grimoire</a></li>
+  <li><a href="#rassembler"   style="color:#d9d9d9; font-weight:bold; text-decoration:none;">1. Rassembler les joueurs et joueuses</a></li>
+  <li><a href="#grimoire"     style="color:#d9d9d9; font-weight:bold; text-decoration:none;">2. Préparer le Grimoire</a></li>
+  <li><a href="#edition"      style="color:#d9d9d9; font-weight:bold; text-decoration:none;">3. Choisir une édition</a></li>
+  <li><a href="#place"        style="color:#d9d9d9; font-weight:bold; text-decoration:none;">4. Installer la place du village</a></li>
+  <li><a href="#regles"       style="color:#d9d9d9; font-weight:bold; text-decoration:none;">5. Lire les règles aux nouvelles personnes</a></li>
+  <li><a href="#roles"        style="color:#d9d9d9; font-weight:bold; text-decoration:none;">6. Choisir secrètement les rôles</a></li>
+  <li><a href="#ajustements"  style="color:#d9d9d9; font-weight:bold; text-decoration:none;">7. Ajouter ou retirer des rôles</a></li>
+  <li><a href="#rappels"      style="color:#d9d9d9; font-weight:bold; text-decoration:none;">8. Ajouter les jetons de rappel</a></li>
+  <li><a href="#distribution" style="color:#d9d9d9; font-weight:bold; text-decoration:none;">9. Distribuer les rôles</a></li>
+  <li><a href="#placer"       style="color:#d9d9d9; font-weight:bold; text-decoration:none;">10. Placer les jetons dans le Grimoire</a></li>
 </ul>
 
 <hr>
 
-<h2 id="rassembler" style="color:#d9d9d9; font-weight:bold;">1 Rassembler les joueurs et joueuses</h2>
+<h2 id="rassembler" style="color:#d9d9d9; font-weight:bold;">Rassembler les joueurs et joueuses</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Disposez <strong>une chaise par personne</strong> en cercle ou en carré, avec un sens clair (horaire ou antihoraire).
 Prévoyez un <strong>espace de passage pour le conteur ou la conteuse</strong> afin d’entrer et sortir sans gêner.
@@ -45,7 +45,7 @@ Laissez le centre dégagé pour la circulation et les votes.
 
 <hr>
 
-<h2 id="grimoire" style="color:#d9d9d9; font-weight:bold;">2 Préparer le Grimoire</h2>
+<h2 id="grimoire" style="color:#d9d9d9; font-weight:bold;">Préparer le Grimoire</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Fixez les <strong>deux pinces</strong> sur les coins opposés de la boîte pour former un <em>livre rigide</em>.
 Installez le <strong>support de Grimoire</strong> à un endroit où son contenu est invisible pour les joueurs et joueuses.
@@ -54,7 +54,7 @@ Rangez à portée de main les <strong>jetons d’information</strong>, de <stron
 
 <hr>
 
-<h2 id="edition" style="color:#d9d9d9; font-weight:bold;">3 Choisir une édition</h2>
+<h2 id="edition" style="color:#d9d9d9; font-weight:bold;">Choisir une édition</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">Le coffret contient trois éditions :</p>
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li>🍺 <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
@@ -74,7 +74,7 @@ Pour débuter, privilégiez <a href="./trouble_brewing.html" style="color:#b58b5
 
 <hr>
 
-<h2 id="place" style="color:#d9d9d9; font-weight:bold;">4 Installer la place du village</h2>
+<h2 id="place" style="color:#d9d9d9; font-weight:bold;">Installer la place du village</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Placez le plateau <strong>Town Square</strong> au centre.
 </p>
@@ -86,7 +86,7 @@ Placez le plateau <strong>Town Square</strong> au centre.
 
 <hr>
 
-<h2 id="regles" style="color:#d9d9d9; font-weight:bold;">5 Lire les règles aux nouvelles personnes</h2>
+<h2 id="regles" style="color:#d9d9d9; font-weight:bold;">Lire les règles aux nouvelles personnes</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 La page des <a href="./regles.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">règles</a> contient l’essentiel pour commencer.
 Lisez-la à voix haute ou laissez les joueurs et joueuses la parcourir en silence.
@@ -98,7 +98,7 @@ Une copie des règles figure aussi au dos de la feuille des Voyageurs, pratique 
 
 <hr>
 
-<h2 id="roles" style="color:#d9d9d9; font-weight:bold;">6 Choisir secrètement les rôles</h2>
+<h2 id="roles" style="color:#d9d9d9; font-weight:bold;">Choisir secrètement les rôles</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 À partir de l’édition choisie, sélectionnez le bon nombre de
 <a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>,
@@ -115,7 +115,7 @@ Pour une première partie, évitez Voyageurs et Légendaires.
 
 <hr>
 
-<h2 id="ajustements" style="color:#d9d9d9; font-weight:bold;">7 Ajouter ou retirer des rôles</h2>
+<h2 id="ajustements" style="color:#d9d9d9; font-weight:bold;">Ajouter ou retirer des rôles</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Certains jetons portent une <strong>fleur orange</strong> : ils modifient la composition du jeu
 (par exemple le <a href="./tb_roles/baron.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Baron [+2 Étrangers]</a>).
@@ -124,7 +124,7 @@ Appliquez ces changements immédiatement. Le total de jetons doit toujours corre
 
 <hr>
 
-<h2 id="rappels" style="color:#d9d9d9; font-weight:bold;">8 Ajouter les jetons de rappel</h2>
+<h2 id="rappels" style="color:#d9d9d9; font-weight:bold;">Ajouter les jetons de rappel</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Les jetons marqués de <strong>feuilles vertes</strong> indiquent combien de rappels placer dans le Grimoire.
 Exemple : l’<a href="./tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Enquêteur</a> nécessite deux rappels de « suspects ».
@@ -132,7 +132,7 @@ Exemple : l’<a href="./tb_roles/enqueteur.html" style="color:#4ea3ff; font-wei
 
 <hr>
 
-<h2 id="distribution" style="color:#d9d9d9; font-weight:bold;">9 Distribuer les rôles</h2>
+<h2 id="distribution" style="color:#d9d9d9; font-weight:bold;">Distribuer les rôles</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Mélangez les jetons de rôle et placez-les dans le <strong>sac</strong>.
 Chaque joueur ou joueuse tire un jeton <strong>en secret</strong> sans le montrer.
@@ -140,7 +140,7 @@ Chaque joueur ou joueuse tire un jeton <strong>en secret</strong> sans le montre
 
 <hr>
 
-<h2 id="placer" style="color:#d9d9d9; font-weight:bold;">10 Placer les jetons dans le Grimoire</h2>
+<h2 id="placer" style="color:#d9d9d9; font-weight:bold;">Placer les jetons dans le Grimoire</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Récupérez les jetons et disposez-les dans le Grimoire <strong>selon l’ordre des sièges</strong>.
 Vérifiez que l’ordre horaire affiché correspond à la disposition réelle du cercle.
