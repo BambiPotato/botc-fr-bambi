@@ -234,7 +234,7 @@ et le <strong>Psychopathe</strong> joue « ciseaux » : cette fois, le <strong>P
       Des rôles qui apprennent des informations sur les Sbires,  
       comme le <a href="../roles_experimentaux/noble.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Noble</a>,  
       l’<a href="../sv_roles/horloger.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Horloger</a>  
-      ou le <a href="../roles_experimentaux/balloonist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aéronnaute</a>,  
+      ou le <a href="../roles_experimentaux/balloonist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aéronaute</a>,  
       en deviennent encore plus puissants.</li>
 
   <li>N’hésitez pas à vous tuer si nécessaire.  
