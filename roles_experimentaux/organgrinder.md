@@ -178,7 +178,7 @@ et vous appliquez les règles de vote secret lorsqu’il est sobre.
 
 ## 🧩 <span style="color:#d45b5b;">Exemples</span>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7%;">
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Il y a 8 joueurs vivants.  
 Le <a href="../roles_experimentaux/noble.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Noble</a> est nommé.  
 Tous les joueurs ferment les yeux pour voter,  
