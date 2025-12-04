@@ -194,7 +194,7 @@ Son histoire contredit plusieurs bons rôles, et le Conteur ou la conteuse espè
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer en tant que Grande Prêtresse</span>
+## 🎭 <span style="color:#4ea3ff;">Bluffer Grande Prêtresse</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
