@@ -299,7 +299,7 @@ est le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer en tant qu’Enfant de chœur</span>
+## 🎭 <span style="color:#4ea3ff;">Bluffer Enfant de chœur</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
