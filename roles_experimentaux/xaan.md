@@ -62,8 +62,7 @@ Le <strong>Xaan</strong> empoisonne tous les <strong>Villageois</strong> pendant
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
-  <li>Le <strong>Xaan</strong> empoisonne tous les personnages <strong>Villageois</strong> pendant une nuit,  
-      puis pendant la journée qui suit.</li>
+  <li>Le <strong>Xaan</strong> empoisonne tous les <strong>Villageois</strong> pendant une nuit.</li>
 
   <li>La nuit où cela se produit est la nuit <strong>X</strong>,  
       où <strong>X est égal au nombre d’<a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a> en jeu</strong> au début de la partie.  
@@ -73,7 +72,7 @@ Le <strong>Xaan</strong> empoisonne tous les <strong>Villageois</strong> pendant
       cela peut être le nombre « normal » d’Étrangers,  
       ou un nombre différent.  
       Ce réglage <strong>remplace</strong> les effets des personnages  
-      qui ajoutent ou retirent des Étrangers, comme le Baron.</li>
+      qui ajoutent ou retirent des Étrangers, comme le <a href="../tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a>.</li>
 
   <li>Si le nombre d’Étrangers <strong>change en cours de partie</strong>,  
       la nuit X reste celle correspondant au nombre d’Étrangers  
@@ -143,18 +142,20 @@ des <strong>Villageois</strong>.
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Il y a 3 Étrangers en jeu, à cause du <strong>Xaan</strong>.  
-À la nuit 3, l’Exorciste choisit le Démon mais il ne se passe rien,  
-l’Acrobate choisit l’Ivrogne mais il ne se passe rien,  
-et la Couturière reçoit une information erronée.</p>
+À la nuit 3, l’<a href="../bmr_roles/exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a> choisit le <span style="color:#d45b5b; font-weight:bold;">Démon</span> mais il ne se passe rien,  
+l’<a href="../roles_experimentaux/acrobate.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Acrobate</a> choisit l’<a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> mais il ne se passe rien,  
+et la <a href="../sv_roles/couturiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Couturière</a> reçoit une information erronée.
+</p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Il y a 1 Étranger en jeu. C’est une partie à 11 joueurs.  
 Lors de la première nuit, le <strong>Xaan</strong> empoisonne les 7 Villageois.  
-Lors de la seconde nuit, la Faiseuse de Chapeaux est créée par une autre capacité,  
+Lors de la seconde nuit, la <a href="../roles_experimentaux/hatter.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chapelier</a> est créée par une autre capacité,  
 ce qui porte le nombre d’Étrangers à 2.  
 Même s’il y a maintenant 2 Étrangers en jeu,  
 tous les joueurs sont sobres cette nuit-là :  
-la nuit X reste la nuit 1, déterminée au départ.</p>
+la nuit X reste la nuit 1, déterminée au départ.
+</p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Il n’y a <strong>aucun Étranger</strong> en jeu.  
@@ -162,7 +163,8 @@ Le <strong>Xaan</strong> n’empoisonne jamais personne.
 Le Xaan bluffe en prétendant être un fanatique religieux  
 qui ferait empoisonner tous les Villageois à la nuit 1 ;  
 l’équipe du Bien croit qu’il y a eu une nuit X,  
-alors qu’en réalité aucun Villageois n’a été empoisonné.</p>
+alors qu’en réalité aucun Villageois n’a été empoisonné.
+</p>
 
 ---
 
@@ -191,10 +193,10 @@ alors qu’en réalité aucun Villageois n’a été empoisonné.</p>
   <li>S’il y a un <strong>Xaan</strong> en jeu,  
       travaillez à décrédibiliser certains Étrangers.  
       Si trois bons joueurs prétendent être Étrangers,  
-      prétendez être un Investigateur qui a vu  
-      l’un d’eux comme un Empoisonneur,  
-      ou un Idiot du Village qui aurait appris  
-      que l’un ou deux de ces Étrangers sont maléfiques.  
+      prétendez être un <a href="../tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Investigateur</a>  
+      qui a vu l’un d’eux comme un <a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>,  
+      ou un <a href="../roles_experimentaux/villageidiot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Idiot du Village</a>  
+      qui aurait appris que l’un ou deux de ces Étrangers sont maléfiques.  
       Plus les Étrangers semblent suspects,  
       plus il sera difficile pour le village  
       de voir qu’un <strong>Xaan</strong> est réellement en jeu.</li>
@@ -227,7 +229,9 @@ alors qu’en réalité aucun Villageois n’a été empoisonné.</p>
   <li>En tant que joueur maléfique,  
       bluffez des rôles qui reçoivent beaucoup d’informations,  
       surtout celles qui sont d’habitude difficiles à imiter :  
-      rêveur, cannibale, lavandière…  
+      <a href="../sv_roles/reveur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Rêveur</a>,  
+      <a href="../roles_experimentaux/cannibale.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cannibale</a>,  
+      <a href="../tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>…  
       Recevoir une information empoisonnée  
       semble beaucoup plus crédible dans un script avec le <strong>Xaan</strong>.</li>
 
@@ -262,7 +266,8 @@ alors qu’en réalité aucun Villageois n’a été empoisonné.</p>
 
   <li>Dites la vérité sur vos informations  
       pour voir comment elles se comparent aux autres.  
-      Si, en tant que Détecteur, vous avez obtenu un « oui »,  
+      Si, en tant que <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>,  
+      vous avez obtenu un « oui »,  
       mais que d’autres rôles prétendent que leurs capacités  
       n’ont pas fonctionné correctement la même nuit,  
       prenez votre « oui » avec beaucoup de recul.</li>
@@ -271,17 +276,20 @@ alors qu’en réalité aucun Villageois n’a été empoisonné.</p>
       vous pouvez aussi déformer vos informations  
       pour embrouiller l’équipe du Mal  
       sur le véritable moment où la nuit X se produit.  
-      Par exemple, si vous êtes Bibliothécaire  
-      et que vous confirmez réellement un Docteur de Peste,  
+      Par exemple, si vous êtes  
+      <a href="../tb_roles/bibliothécaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bibliothécaire</a>  
+      et que vous confirmez réellement un  
+      <a href="../roles_experimentaux/plaguedoctor.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Docteur de Peste</a>,  
       vous pouvez déclarer publiquement  
-      avoir vu une Brute  entre deux autres joueurs  
+      avoir vu une <a href="../bmr_roles/brute.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Brute</a> entre deux autres joueurs  
       pour perturber le comptage d’Étrangers.</li>
 
   <li>Une fois que vous pensez avoir identifié X,  
       mettez de côté <strong>toute l’information</strong>  
       provenant de cette nuit-là et du jour suivant.  
       Par exemple, s’il y a 3 Étrangers  
-      et que l’Empathique vous donne un nouveau chiffre  
+      et que l’<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a>  
+      vous donne un nouveau chiffre  
       à la nuit 3, considérez qu’il est probablement empoisonné.</li>
 
   <li>Quand un joueur démontre que sa capacité est  
@@ -299,10 +307,11 @@ alors qu’en réalité aucun Villageois n’a été empoisonné.</p>
 
   <li>Si vous avez reçu de l’information à la première nuit,  
       attendez un ou deux jours avant de juger sa fiabilité.  
-      En tant que Bibliothécaire,  
-      si vous apprenez qu’un de deux joueurs est le Goon,  
+      En tant que <a href="../tb_roles/bibliothécaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bibliothécaire</a>,  
+      si vous apprenez qu’un de deux joueurs est le  
+      <a href="../bmr_roles/brute.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Goon</a>,  
       il est possible que le Conteur vous ait montré un joueur maléfique  
-      lors d’une nuit X et qu’il n’y ait pas de Goon du tout en jeu.</li>
+      lors d’une nuit X et qu’il n’y ait pas de <a href="../bmr_roles/goon.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Brute</a> du tout en jeu.</li>
 
 </ul>
 
