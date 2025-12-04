@@ -376,14 +376,13 @@
       </a>
     </td>
 
-    <!-- 🎠 The Carousel Expérimental (désactivé) -->
+    <!-- 🎠 The Carousel Expérimental -->
     <td>
-       <a href="#" onclick="return false;">
+       <a href="./experimentaux.md>
         <span class="rg-media">
           <img src="./images/carousel.png" alt="The Carousel Expérimental">
         </span>
         <span class="rg-title">🎠 The Carousel Expérimental</span>
-        <span class="rg-badge">à venir</span>
       </a>
     </td>
 
