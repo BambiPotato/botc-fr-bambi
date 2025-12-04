@@ -212,7 +212,7 @@ Comme Vanessa n’était pas la bonne cible d’ivresse, cette information est f
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer en tant que Maître des Puzzles</span>
+## 🎭 <span style="color:#4ea3ff;">Bluffer Maître des Puzzles</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
