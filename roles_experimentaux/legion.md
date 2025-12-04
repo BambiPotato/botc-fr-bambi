@@ -330,7 +330,7 @@ Le Mal gagne.
       un véritable <strong>effort collectif</strong>,  
       notamment ceux qui changent profondément la manière de jouer :  
       <a href="../experimentaux_roles/atheist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Athée</a>,  
-      <a href="../bmr_roles/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cultivateur de Pavots</a>,  
+      <a href="../bmr_roles/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cultivateur de Pavot</a>,  
       ou un Démon comme  
       <a href="../sv_roles/vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a>.  
       Dès qu’un membre de la <strong>Légion</strong> lance ce type de bluff,  
