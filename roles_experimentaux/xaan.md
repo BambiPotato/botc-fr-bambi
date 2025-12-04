@@ -309,7 +309,7 @@ alors qu’en réalité aucun Villageois n’a été empoisonné.
       attendez un ou deux jours avant de juger sa fiabilité.  
       En tant que <a href="../tb_roles/bibliothécaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bibliothécaire</a>,  
       si vous apprenez qu’un de deux joueurs est le  
-      <a href="../bmr_roles/brute.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Goon</a>,  
+      <a href="../bmr_roles/brute.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Brute</a>,  
       il est possible que le Conteur vous ait montré un joueur maléfique  
       lors d’une nuit X et qu’il n’y ait pas de <a href="../bmr_roles/goon.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Brute</a> du tout en jeu.</li>
 
