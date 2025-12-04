@@ -115,12 +115,12 @@ title: Légion
   </li>
 
   <li>
-    <img src="../images/Icon_hatter.png" alt="Faiseuse de Chapeaux" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/hatter.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Chapelier</a> :  
+    <img src="../images/Icon_hatter.png" alt="Chapelier" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/hatter.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chapelier</a> :  
     Si une <strong>Légion</strong> est créée,  
     tous les joueurs maléfiques deviennent membres de la <strong>Légion</strong>.  
     Si une <strong>Légion</strong> est en jeu,  
-    la <strong>Faiseuse de Chapeaux</strong> n’a pas de capacité.
+    la <strong>Chapelier</strong> n’a pas de capacité.
   </li>
 
   <li>
