@@ -217,7 +217,7 @@ choisit la Princesse, qui ne meurt pas.
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer en tant que Princesse</span>
+## 🎭 <span style="color:#4ea3ff;">Bluffer Princesse</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
