@@ -218,7 +218,7 @@ devient l’<a href="../roles_experimentaux/organgrinder.html" style="color:#d45
 que <strong>Amalia</strong> devient la  
 <a href="../roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a> maléfique,  
 et que <strong>Lilian</strong> devient le  
-<a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Gobelin</a> maléfique.
+<a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Goblin</a> maléfique.
 </p>
 
 ---
