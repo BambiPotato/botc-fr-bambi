@@ -31,8 +31,8 @@ title: Wizard
 # 🪄 <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Wizard</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Every man and every woman is a star.  
-  Love is the law, love under will. »
+  « Tout homme et toute femme est une étoile.  
+  L’amour est la loi, l’amour sous la volonté. »
 </p>
 
 ---
@@ -52,7 +52,7 @@ title: Wizard
 ## 📖 <span style="color:#d45b5b;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Une fois par partie, choisissez de formuler un vœu.  
+  <strong>« Une fois par partie, vous pouvez choisir de faire un vœu.  
   S’il est exaucé, il peut avoir un prix  
   et laisser un indice sur sa nature. »</strong>
 </p>
@@ -64,7 +64,8 @@ Le <strong>Wizard</strong> fait un vœu.
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
   <li>Une fois par partie, le <strong>Wizard</strong> peut choisir de faire un <strong>vœu</strong>.  
-      Ce vœu est limité uniquement par son imagination : il peut concerner les rôles, les règles, les informations, la victoire, etc.</li>
+      Ce vœu n’est limité que par son imagination :  
+      il peut concerner les rôles, les règles, les informations, la victoire, etc.</li>
 
   <li>Le <strong>Wizard</strong> peut :
     <ul style="margin-left:20px;">
@@ -102,6 +103,8 @@ Le <strong>Wizard</strong> fait un vœu.
       ou simplement annuler le vœu.</li>
 
 </ul>
+
+<!-- (le reste de la fiche – Comment Conter, Exemples, Astuces, Combattre – peut rester identique) -->
 
 ---
 
