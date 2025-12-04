@@ -193,7 +193,7 @@ Le Bien gagne, car ils découvrent qu’il s’agissait d’une partie avec l’
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer en tant qu’Athée</span>
+## 🎭 <span style="color:#4ea3ff;">Bluffer l'Athée</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Si vous êtes un <span style="color:#d45b5b; font-weight:bold;">Sbire</span>, vous pouvez sans crainte bluffer Athée :  
