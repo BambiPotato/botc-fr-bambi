@@ -148,8 +148,8 @@ Le <strong>Vizir</strong> peut exécuter des joueurs sans le consentement du vil
 
   <li>
     <img src="../images/Icon_politician.png" alt="Politicien" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/politician.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Politicien</a> :  
-    Le <a href="../roles_experimentaux/politician.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Politicien</a>  
+    <a href="../roles_experimentaux/politician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Politicien</a> :  
+    Le <a href="../roles_experimentaux/politician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Politicien</a>  
     peut apparaître comme maléfique aux yeux du <strong>Vizir</strong>.
   </li>
 
@@ -162,8 +162,8 @@ Le <strong>Vizir</strong> peut exécuter des joueurs sans le consentement du vil
 
   <li>
     <img src="../images/Icon_zealot.png" alt="Zélote" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/zealot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zélote</a> :  
-    Le <a href="../roles_experimentaux/zealot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zélote</a>  
+    <a href="../roles_experimentaux/zealot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Zélote</a> :  
+    Le <a href="../roles_experimentaux/zealot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Zélote</a>  
     peut apparaître comme maléfique aux yeux du <strong>Vizir</strong>.
   </li>
 
