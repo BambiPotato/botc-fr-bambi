@@ -253,7 +253,7 @@ et l’<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:b
       un <a href="../sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a>,  
       une <a href="../bmr_roles/femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de Chambre</a>,  
       un <a href="../roles_experimentaux/fisherman.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pêcheur</a>,  
-      ou un <a href="../roles_experimentaux/balloonist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aéronautet</a>  
+      ou un <a href="../roles_experimentaux/balloonist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aéronaute</a>  
       peuvent ruiner la partie des Maléfiques s’ils sont sobres.  
       Les empoisonner garantit un flux d’informations pourries  
       pour toute la partie.
