@@ -228,7 +228,7 @@ trois nouveaux rôles non en jeu à bluffer.
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer en tant que Balance</span>
+## 🎭 <span style="color:#4ea3ff;">Bluffer Balance</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
