@@ -260,7 +260,7 @@ et que <strong>Lilian</strong> devient le
             ou un <a href="../bmr_roles/boomdandy.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boomdandy</a> ;</li>
         <li>une <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a>  
             adore avoir une  
-            <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve (Widow)</a>  
+            <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a>  
             pour lui souffler les meilleures cibles.</li>
       </ul>
       Construisez le meilleur « combo » possible.</li>
