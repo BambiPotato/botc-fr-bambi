@@ -259,7 +259,7 @@ car la conteuse juge qu’elle n’a pas suffisamment prétendu être ce rôle.
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer en tant que Pixie</span>
+## 🎭 <span style="color:#4ea3ff;">Bluffer Pixie</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
