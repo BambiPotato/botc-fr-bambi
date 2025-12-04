@@ -195,7 +195,7 @@ Rien ne se passe non plus et la partie continue.
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer en tant qu’Alsaahir</span>
+## 🎭 <span style="color:#4ea3ff;">Bluffer Alsaahir</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Il est facile de bluffer l’Alsaahir en début de partie, surtout quand des joueurs bons le font aussi. Même si un vrai Alsaahir est en jeu, vous pouvez bluffer ce rôle tant que vous avez un bluff de secours pour la suite.</li>
