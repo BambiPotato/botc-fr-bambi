@@ -377,14 +377,14 @@
     </td>
 
     <!-- 🎠 The Carousel Expérimental -->
-    <td>
-       <a href="./experimentaux.html>
-        <span class="rg-media">
-          <img src="./images/carousel.png" alt="The Carousel Expérimental">
-        </span>
-        <span class="rg-title">🎠 The Carousel Expérimental</span>
-      </a>
-    </td>
+<td>
+  <a href="./experimentaux.html">
+    <span class="rg-media">
+      <img src="./images/carousel.png" alt="The Carousel Expérimental">
+    </span>
+    <span class="rg-title">🎠 The Carousel Expérimentaux</span>
+  </a>
+</td>
 
    <!-- 🏰 Légendaires -->
 <td>
