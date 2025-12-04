@@ -184,7 +184,7 @@ La seule façon pour les joueurs de mourir, c’est l’<strong>exécution</stro
   </li>
 
   <li>
-    <img src="../images/Icon_ravenkeeper.png" alt="Ravenkeeper" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <img src="../images/Icon_ravenkeeper.png" alt="Gardien" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../tb_roles/gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a> :  
     Chaque nuit*, le <strong>Léviathan</strong> choisit un joueur vivant  
     (différent des nuits précédentes) :  
@@ -269,26 +269,17 @@ Le rythme de la partie change complètement.
 ## 🧩 <span style="color:#d45b5b;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Premier jour : le  
-<a href="../tb_roles/monk.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a>  
-nomme la  
-<a href="../tb_roles/virgin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Vierge</a>  
-et est exécuté.  
-Deuxième jour : la  
-<a href="../bmr_roles/courtier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisane</a>  
+Premier jour : le <a href="../tb_roles/monk.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a>  
+nomme la <a href="../tb_roles/virgin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Vierge</a> et est exécuté.  
+Deuxième jour : la <a href="../bmr_roles/courtisan.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisane</a>  
 est exécutée.  
 Deux joueurs bons ont été exécutés : le Mal gagne.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Deuxième jour : la  
-<a href="../tb_roles/femmecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme Écarlate</a>  
-est exécutée.  
-Troisième jour :  
-l’<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>  
-est exécuté.  
-Cinquième jour : le  
-<a href="../tb_roles/soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a>  
+Deuxième jour : la <a href="../tb_roles/femmecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme Écarlate</a> est exécutée.  
+Troisième jour : l’<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> est exécuté.  
+Cinquième jour : le <a href="../tb_roles/soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a>  
 est exécuté.  
 Un seul joueur bon a été exécuté,  
 mais c’est le cinquième jour : le Léviathan est toujours vivant,  
@@ -306,16 +297,16 @@ le Mal gagne quand même.
       l’exécution est la seule arme réelle du village.  
       Amenez-le à viser des rôles puissants  
       comme le  
-      <a href="../tb_roles/devin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Devin</a>  
+      <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>  
       ou la  
-      <a href="../bmr_roles/flowergirl.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a>,  
+      <a href="../sv_roles/fleuriste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a>,  
       ou encore des rôles à capacité unique  
       comme le  
-      <a href="../tb_roles/tueur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Tueur</a>,  
+      <a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a>,  
       la  
-      <a href="../bmr_roles/chambermaid.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de Chambre</a>,  
+      <a href="../bmr_roles/femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de Chambre</a>,  
       le <a href="../bmr_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a>  
-      ou l’<a href="../bmr_roles/artist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Artiste</a>.</li>
+      ou l’<a href="../bmr_roles/artiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Artiste</a>.</li>
 
   <li><strong>Observez quels types de rôles</strong>  
       le groupe se sent « en sécurité » d’exécuter.  
