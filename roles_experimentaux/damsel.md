@@ -309,7 +309,7 @@ la partie continue comme si de rien n’était.
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer en tant que Demoiselle</span>
+## 🎭 <span style="color:#4ea3ff;">Bluffer Demoiselle</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
