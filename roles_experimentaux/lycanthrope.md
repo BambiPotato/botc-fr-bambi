@@ -235,7 +235,7 @@ et le Lycanthrope meurt.
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer en tant que Lycanthrope</span>
+## 🎭 <span style="color:#4ea3ff;">Bluffer Lycanthrope</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
