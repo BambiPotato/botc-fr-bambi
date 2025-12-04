@@ -199,7 +199,7 @@ Quand Marie meurt, Lilian apprend <strong>Davis</strong>, qui est la
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer en tant que Chasseur de Primes</span>
+## 🎭 <span style="color:#4ea3ff;">Bluffer Chasseur de Primes</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Bluffer Chasseur de Primes est un jeu de longue haleine.  
