@@ -229,7 +229,7 @@ car un véritable Mutant ne se réveille pas la nuit.
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer en tant que Cannibale</span>
+## 🎭 <span style="color:#4ea3ff;">Bluffer Cannibale</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
