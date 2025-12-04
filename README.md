@@ -378,7 +378,7 @@
 
     <!-- 🎠 The Carousel Expérimental -->
     <td>
-       <a href="./experimentaux.md>
+       <a href="./experimentaux.html>
         <span class="rg-media">
           <img src="./images/carousel.png" alt="The Carousel Expérimental">
         </span>
