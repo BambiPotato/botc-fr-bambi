@@ -255,7 +255,7 @@ car elle l’a gagnée au moment de la mort du Docteur de peste et n’est pas a
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer en tant que Docteur de peste</span>
+## 🎭 <span style="color:#4ea3ff;">Bluffer Docteur de peste</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
