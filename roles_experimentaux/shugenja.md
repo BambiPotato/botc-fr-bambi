@@ -242,7 +242,7 @@ que le joueur maléfique le plus proche est dans le sens horaire.
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer en tant que Shugenja</span>
+## 🎭 <span style="color:#4ea3ff;">Bluffer Shugenja</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
