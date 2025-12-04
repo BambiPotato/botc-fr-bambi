@@ -200,7 +200,7 @@ La Banshee ne gagne pas ses pouvoirs supplémentaires, et rien n’est annoncé 
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer en tant que Banshee</span>
+## 🎭 <span style="color:#4ea3ff;">Bluffer Banshee</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
