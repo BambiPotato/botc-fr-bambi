@@ -134,7 +134,7 @@ Au fil de la partie, il comprend que ce nombre correspond au total de ses voisin
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer en tant qu’Amnésique</span>
+## 🎭 <span style="color:#4ea3ff;">Bluffer Amnésique</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Vous n’avez pas besoin de décider immédiatement de la « fausse capacité » que vous prétendez avoir. Vous pouvez la construire petit à petit en cours de partie.</li>
