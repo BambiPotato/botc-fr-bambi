@@ -195,7 +195,7 @@ Il n’y a plus d’
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer en tant que Fermier</span>
+## 🎭 <span style="color:#4ea3ff;">Bluffer Fermier</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
