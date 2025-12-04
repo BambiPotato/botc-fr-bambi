@@ -390,13 +390,13 @@ le Mal gagne quand même.
       Exécuter à répétition en espérant  
       toucher le Mal est très risqué.</li>
 
-  <li><strong>Attendez le 3<sup>e</sup> ou 4<sup>e</sup> jour</strong>  
+  <li><strong>Attendez le 3<sup>ème</sup> ou 4<sup>ème</sup> jour</strong>  
       avant de lancer la première exécution.  
       Utilisez les premiers jours  
       pour accumuler un maximum d’informations  
       et affiner vos pistes.</li>
 
-  <li><strong>Gardez la deuxième exécution pour le 5<sup>e</sup> jour.</strong>  
+  <li><strong>Gardez la deuxième exécution pour le 5<sup>ème</sup> jour.</strong>  
       Cela garantit que vous ne perdrez pas  
       en exécutant deux joueurs bons :  
       la partie se termine de toute façon à la fin du jour 5.  
