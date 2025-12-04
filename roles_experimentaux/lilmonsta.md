@@ -79,8 +79,8 @@ ou à n’importe quel autre joueur.
     <ul style="margin-left:20px;">
       <li>un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> ;</li>
       <li>un <a href="../tb_roles.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> ;</li>
-      <li>un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a> ;</li>
-      <li>ou même un Voyageur.</li>
+      <li>un <a href="../etrangers.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Étranger</a> ;</li>
+      <li>ou même un <a href="../voyageurs.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyageur</a>.</li>
     </ul>
   </li>
 
@@ -190,7 +190,7 @@ que les Sbires se passent chaque nuit.
           retirez le jeton <strong>P’tit Monstre</strong>  
           et ajoutez à la place un jeton de <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> ;</li>
       <li>la première nuit, sautez les étapes  
-          <strong>MINION INFO</strong> et <strong>DEMON INFO</strong> habituelles.</li>
+          <strong>INFO SBIRES</strong> et <strong>INFO DÉMON</strong> habituelles.</li>
     </ul>
   </li>
 
@@ -285,7 +285,7 @@ que l’Empoisonneur garde le P’tit Monstre.
   <li>Le Démon change de « corps » chaque nuit.  
       Vous pouvez déplacer le P’tit Monstre  
       pour perturber les informations  
-      de la <a href="../sv_roles/flowergirl.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a>  
+      de la <a href="../sv_roles/fleuriste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a>  
       ou de la <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> :  
       si le Démon semble être une personne différente  
       à chaque nuit, le village aura du mal à suivre.</li>
