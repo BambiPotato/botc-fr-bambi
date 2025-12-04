@@ -113,7 +113,7 @@ Le <strong>Spectre</strong> voit et partage ce qui se passe la nuit.
 
   <li>
     <img src="../images/Icon_plaguedoctor.png" alt="Docteur de Peste" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/plaguedoctor.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Docteur de Peste</a> :  
+    <a href="../roles_experimentaux/plaguedoctor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Docteur de Peste</a> :  
     Si le Conteur devait gagner la capacité du <strong>Spectre</strong>,  
     un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> gagne cette capacité à la place  
     et l’apprend.
@@ -357,11 +357,11 @@ de rester accessible sans perdre son intérêt.
       <li>La nuit, après avoir réveillé un joueur,  
           le Conteur envoie un message texte au <strong>Spectre</strong>  
           pour lui décrire ce que ce joueur a fait  
-          (par exemple : « Evin a pointé Ben »,  
+          (par exemple : « Emélien a pointé Benoit »,  
           « Karen a appris un 1 », etc.).</li>
       <li>Pour un joueur très expérimenté,  
           ces messages peuvent être raccourcis  
-          (par exemple « Karen 1 »)  
+          (par exemple « Karine 1 »)  
           afin de rendre la nuit plus fluide  
           et d’éviter que les autres ne devinent  
           trop facilement la présence de ces adaptations.</li>
@@ -374,7 +374,7 @@ de rester accessible sans perdre son intérêt.
     </ul>
   </li>
 
-  <li><strong>Si un joueur malvoyant est dans l’équipe du Mal  
+  <li><strong>Si un joueur malvoyant est dans l’équipe Maléfique  
       avec un Spectre en jeu :</strong>
     <ul style="margin-left:20px;">
       <li>Le <strong>Spectre</strong> peut utiliser  
@@ -392,9 +392,9 @@ de rester accessible sans perdre son intérêt.
       <li>Quand une personne différente commence à écrire  
           à un joueur malvoyant,  
           il est important de le préciser clairement.  
-          Par exemple : le Conteur donne son téléphone à la Brute,  
-          qui envoie « Salut, c’est Sam.  
-          As-tu vu si Josh s’est réveillé la nuit dernière ? » ;  
+          Par exemple : le Conteur donne son téléphone à l'empoisonneur,  
+          qui envoie « Salut, c’est Sophie.  
+          As-tu vu si Joseph s’est réveillé la nuit dernière ? » ;  
           quand le Conteur reprend le téléphone,  
           il peut écrire : « C’est de nouveau le Conteur. »  
           avant de continuer la phase de nuit.</li>
