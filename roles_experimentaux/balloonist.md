@@ -235,7 +235,7 @@ La troisième nuit, redevenu sobre et en bonne santé, l’Aéronaute apprend <s
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer en tant qu’Aéronaute</span>
+## 🎭 <span style="color:#4ea3ff;">Bluffer l’Aéronaute</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
