@@ -321,7 +321,7 @@ puisqu’il a directement provoqué cette condition de victoire.</p>
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer en tant que Politicien</span>
+## 🎭 <span style="color:#4ea3ff;">Bluffer Politicien</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
