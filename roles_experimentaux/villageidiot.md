@@ -213,7 +213,7 @@ Sarah prétend avoir choisi Céline et avoir appris qu’elle est maléfique.
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer en tant qu’Idiot du Village</span>
+## 🎭 <span style="color:#4ea3ff;">Bluffer Idiot du Village</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
