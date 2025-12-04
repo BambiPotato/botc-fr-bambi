@@ -270,7 +270,7 @@ il ne devient pas maléfique à cause de ses voisins.
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer en tant que Chef de Secte</span>
+## 🎭 <span style="color:#4ea3ff;">Bluffer Chef de Secte</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
