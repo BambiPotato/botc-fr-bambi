@@ -289,7 +289,7 @@ Le Mal gagne.
 
 ---
 
-## 💡 <span style="color:#d45b5b;">Astuces & Conseils (jouer Légion)</span>
+## 💡 <span style="color:#d45b5b;">Astuces & Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
