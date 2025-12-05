@@ -92,12 +92,6 @@ Mais si l’équipe du Bien ne parvient pas à identifier les Sbires et les Dém
 
 ---
 
-<!-- VILLAGEOIS -->
-
-<p style="text-align:left; color:#e0c99d; font-size:20px;">
-  <a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
-</p>
-
 
 <!-- GRID VILLAGEOIS -->
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin:8px 0 6px 0;">
