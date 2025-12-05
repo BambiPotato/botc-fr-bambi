@@ -25,7 +25,7 @@ title: Marin
 
 ---
 
-## ℹ️ Informations  
+## ℹ️ <span style="color:blue">Informations</span>  
 
 - **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)  
 - **Artiste :** Aidan Roberts 
@@ -59,7 +59,7 @@ title: Marin
 
 
 
-## 📖 Résumé  
+## 📖 <span style="color:blue">Résumé</span>    
 
 
 > « Chaque nuit, choisissez un joueur vivant : soit vous, soit lui, êtes **Ivre** jusqu’au crépuscule. Vous ne pouvez pas mourir. »  
@@ -74,7 +74,7 @@ Tant qu’il est **sobre**, il est immortel.
 
 ---
 
-## 🎬 Comment Conter  
+## 🎭 <span style="color:blue">Comment Conter</span>   
 
 - Chaque nuit, réveillez le Marin.  
 - Il pointe un joueur vivant. Endormez-le.  
@@ -87,7 +87,7 @@ Tant qu’il est **sobre**, il est immortel.
 
 ---
 
-## 🧾 Exemples  
+## 🧩 <span style="color:blue">Exemples</span>  
 
 - Le Marin choisit l’[Exorciste](exorciste.md).  
   → Le Conteur décide que l’Exorciste est ivre. Cette nuit-là, le Marin est attaqué par le [<span style="color:red">Shabaloth</span>](shabaloth.md). Il survit. Le lendemain, le Marin est exécuté mais reste en vie.  
@@ -99,7 +99,7 @@ Tant qu’il est **sobre**, il est immortel.
 
 ---
 
-## 💡 Astuces & Conseils  
+## 💡 <span style="color:blue">Astuces & Conseils</span>   
 
 - Si vous choisissez un [Villageois](../villageois.md), vous êtes probablement sobre.  
 - Si vous choisissez un [Étranger](../etrangers.md), un [<span style="color:red">Sbire</span>](../sbires.md) ou un [<span style="color:red">Démon</span>](../demons.md), vous êtes probablement ivre.  
@@ -119,7 +119,7 @@ Tant qu’il est **sobre**, il est immortel.
 
 ---
 
-## 🎭 Bluff en tant que Marin  
+## 🎭 <span style="color:blue">Bluffer Marin</span>  
 
 - ⚠️ Contrairement à un vrai Marin, vous mourrez probablement si vous êtes exécuté.  
   → Évitez de chercher à « prouver » votre rôle ainsi.  
@@ -132,12 +132,12 @@ Tant qu’il est **sobre**, il est immortel.
 
 ---
 
-<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌛 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
-  <li>🧑‍🌾 <a href="../villageois.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
-</ul>
+
+<p style="text-align:left; font-size:18px; margin-top:20px;">
+  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
+  🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+</p>
+
 
 
