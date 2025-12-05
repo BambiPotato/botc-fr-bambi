@@ -184,12 +184,11 @@ title: Blood on the Clocktower
 <!-- EDITIONS ET CONTENUS -->
 <!-- ======================= -->
 
-<h2 style="font-size:26px;">
-  📜 <span style="color:#b58b52;">Éditions, rôles spéciaux et contenus</span>
-</h2>
+<h2 style="font-size:26px;">📜 Éditions, rôles spéciaux et contenus</h2>
 
 <ul style="color:#f5f5f5; font-size:19px; line-height:1.9;">
 
+  <!-- ÉDITIONS PRINCIPALES -->
   <li>
     <strong>Éditions principales</strong> :
     <br>
@@ -200,33 +199,42 @@ title: Blood on the Clocktower
     🌛 <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a> – très dynamique et mortel.
   </li>
 
-  <li style="margin-top:8px;">
-   <strong>Rôles expérimentaux</strong> :
-   🎠 <a href="./experimentaux.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">The Carousel Expérimental</a><strong> - rôles expérimentaux.
-    Des centaines de rôles en phase de test, regroupés dans cette extension.  
-    
+  <br>
+
+  <!-- CAROUSEL EXPÉRIMENTAL -->
+  <li>
+    <strong>Rôles expérimentaux – The Carousel</strong> :
+    <br>
+    🎠 <a href="./experimentaux.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">The Carousel Expérimental</a> – des centaines de rôles en phase de test.
   </li>
 
-  <li style="margin-top:8px;">
-    <strong>Voyageurs</strong> 
-    🧳 <a href="./voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a> -
-    Rôles très puissants pour les joueurs qui arrivent en cours de partie ou partent plus tôt.  
-    Ils peuvent rejoindre ou quitter la partie à tout moment.  
+  <br>
+
+  <!-- VOYAGEURS -->
+  <li>
+    <strong>Voyageurs</strong> :
+    <br>
+    🧳 <a href="./voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a> – rôles très puissants pour ceux qui rejoignent ou quittent la partie en cours.
   </li>
 
-  <li style="margin-top:8px;">
-    <strong>Légendaires</strong>
-    🏰 <a href="./legendaire.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Légendaires</a> -
-    Rôles spéciaux pour le conteur, utilisés pour régler des situations particulières ou changer le ton d’une partie.  
-    
+  <br>
+
+  <!-- LÉGENDAIRES -->
+  <li>
+    <strong>Légendaires</strong> :
+    <br>
+    🏰 <a href="./legendaire.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Légendaires</a> – outils narratifs pour le conteur, utilisés dans des situations particulières.
   </li>
 
-  <li style="margin-top:8px;">
-    <strong>Lorics</strong>   
-   🌿 <a href="./loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Lorics</a>.
-    Règles spéciales pour le conteur qui modifient la structure de la partie.  
-    Les Lorics sont là pour créer de nouveaux enjeux et surprendre le village.  
+  <br>
+
+  <!-- LORICS -->
+  <li>
+    <strong>Lorics</strong> :
+    <br>
+    🌿 <a href="./loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Lorics</a> – règles spéciales pour le conteur qui modifient la structure de la partie.
   </li>
+
 </ul>
 
 <hr class="section">
