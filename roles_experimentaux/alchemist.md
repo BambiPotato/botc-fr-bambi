@@ -73,7 +73,7 @@ Les jinxes suivants concernent l’<strong>Alchimiste</strong> et modifient sa c
   <li> 🧞
     <img src="../images/Icon_boffin.png" alt="Boffin" width="26" style="vertical-align:middle; border-radius:6px; margin-right:6px;">
     <a href="../roles_experimentaux/boffin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boffin</a> :  
-    Si l’Alchimiste a la capacité du Boffin, il n’apprend pas quelle capacité a le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.
+    Si l’Alchimiste a la capacité du Boffin, il n’apprend pas quelle capacité a le <span style="color:#d45b5b; font-weight:bold;">Démon</span>. 
   </li>
 
   <li> 🧞
