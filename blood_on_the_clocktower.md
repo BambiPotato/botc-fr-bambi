@@ -184,7 +184,9 @@ title: Blood on the Clocktower
 <!-- EDITIONS ET CONTENUS -->
 <!-- ======================= -->
 
-<h2 style="font-size:26px;">📜 Éditions, rôles spéciaux et contenus</h2>
+<h2 style="font-size:26px;">
+  📜 <span style="color:#b58b52;">Éditions, rôles spéciaux et contenus</span>
+</h2>
 
 <ul style="color:#f5f5f5; font-size:19px; line-height:1.9;">
 
