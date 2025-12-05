@@ -66,7 +66,7 @@ Le **Fou** échappe à la mort… **une seule fois**.
 
 - La première fois que le Fou devrait mourir (quelle qu’en soit la cause), il **reste en vie**.  
 - Il **n’apprend pas** que sa capacité s’est déclenchée.  
-- Si un autre rôle l’empêche de mourir par exemple avec la protection d'une [Dame de Thé](damedethe.md), ou d'un [Aubergiste](aubergiste.md)), la capacité du Fou **ne se déclenche pas**.  
+- Si un autre rôle l’empêche de mourir par exemple avec la protection d'une [Dame de Thé](damedethe.md), ou d'un [Aubergiste](aubergiste.md), la capacité du Fou **ne se déclenche pas**.  
 
 ---
 
