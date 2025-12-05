@@ -19,19 +19,32 @@ title: Grand-Mère
   </a>
 </div>
 
-<!-- APPARAÎT DANS -->
+
+
+## 🎭 Apparaît dans  
+
+# 🌝 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
+
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+  « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
+</p>
+
+---
+
 <div style="text-align:center; margin: 20px 0;">
   <a href="../bmr.html" style="text-decoration:none;">
-    <img src="../images/LLogo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="260" style="border-radius:12px;">
+    <img src="../images/Logo_bad_moon_rising-1.png" alt= "Bad Moon Rising" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🌝 Apparaît dans : Bad Moon Rising</span>
+    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Bad Moon Rising</span>
   </a>
-  <p style="color:#f5f5f5; font-style:italic; font-size:16px; margin-top:10px;">
-    « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
-    <br>
-    <span style="font-size:14px;">“Cult of the Clocktower – épisode par Andrew Nathenson”</span>
-  </p>
 </div>
+
+
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+"Cult of the Clocktower – épisode par Andrew Nathenson"
+</p>
+
+
 
 # 👵 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Grand-Mère</span>
 
