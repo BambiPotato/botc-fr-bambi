@@ -58,56 +58,31 @@ title: Blood on the Clocktower
 
     <em>Blood 🩸 on the Clocktower</em> est un <strong>jeu de déduction sociale</strong>, de bluff et de narration,  
     dans la lignée des <em>Loups-Garous 🐺 de Thiercelieux</em> ou de <em>Mafia</em>,  
-    mais en beaucoup plus structuré, plus cinématographique et plus indulgent envers les joueurs et joueuses éliminés.
+    mais en plus structuré, plus cinématographique et beaucoup plus indulgent avec les joueurs et joueuses éliminés.
 
     <br><br>
 
-    Le jeu est créé par le designer australien <strong>Steven Medway</strong>.  
-    À l’origine, <em>Blood on the Clocktower</em> est un <strong>jeu maison</strong>, animé dans des groupes de rôlistes et des joueurs et joueuses de jeux de société à Sydney.  
-    Au fil des années, Steven teste et affine les règles en convention et en soirées jeux, jusqu’à ce que le jeu acquière la réputation de  
-    <strong>“version premium” des jeux de déduction sociale</strong>.
-
-    <br><br>
-
-    En <strong>2019</strong>, une grande campagne <strong>Kickstarter</strong> est lancée pour financer une édition de luxe, avec :
-    <br>• un <strong>Grimoire</strong> rigide pour le Conteur ;  
-    <br>• des <strong>jetons illustrés</strong> pour chaque rôle ;  
-    <br>• trois scripts principaux :
+    Le jeu est créé par le designer australien <strong>Steven Medway</strong>, d’abord comme un <strong>jeu maison</strong> testé à Sydney dans des groupes de rôlistes et de joueuses/joueurs de jeux de société.  
+    Après des années d’itérations, une campagne <strong>Kickstarter</strong> en <strong>2019</strong> permet de financer une édition de luxe avec un Grimoire rigide, des jetons illustrés et trois scripts principaux :
     <br>&nbsp;&nbsp;&nbsp;🍺 <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a>  
     &nbsp;&nbsp;&nbsp;💐 <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a>  
     &nbsp;&nbsp;&nbsp;🌛 <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a>
 
     <br><br>
 
-    La campagne est un succès majeur et permet de produire un <strong>coffret très complet</strong>, pensé pour :
-    <br>• les associations ludiques ;  
-    <br>• les conventions ;  
-    <br>• les tables régulières en club ou entre amis.  
+    Le jeu est édité par le studio australien <strong>The Pandemonium Institute</strong>, qui accompagne la publication, les réimpressions et les modules additionnels  
+    (rôles expérimentaux du <em>The Carousel</em>, <a href="./legendaire.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Légendaires</a>,  
+    <a href="./loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Lorics</a>, etc.).
 
-    Les livraisons s’étalent sur plusieurs années, pendant lesquelles une vaste <strong>communauté internationale</strong> se structure :
-    <br>• serveurs Discord ;  
-    <br>• streams sur Twitch &amp; YouTube ;  
-    <br>• communautés locales dans de nombreux pays ;  
-    <br>• création de scripts personnalisés par les fans.
-
-    <br><br>
-
-    Le jeu est officiellement publié en tant que <strong>jeu de société</strong> dans les années qui suivent la campagne,  
-    et continue d’évoluer avec :
-    <br>• de nouveaux <strong>rôles expérimentaux</strong> (le module <em>The Carousel</em>) ;  
-    <br>• des <strong>scripts communautaires</strong> ;  
-    <br>• des aides narratifs pour les Conteurs et Conteuses comme les <a href="./legendaire.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Légendaires</a> et les  
-      <a href="./loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Lorics</a>.
   </p>
 </div>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.8; text-align:justify;">
   Aujourd’hui, <em>Blood 🩸 on the Clocktower</em> existe :
-  <br>• en <strong>version physique</strong> (coffret de base et modules) ;  
-  <br>• via une <strong>application</strong> pour jouer en ligne ;  
-  <br>• sur de nombreux <strong>serveurs Discord</strong>, dont des communautés francophones ;  
-  <br>• en <strong>streams</strong> sur Twitch et YouTube, avec des mini-séries et même une chaîne officielle de  
-    <strong>The Pandemonium Institute</strong>.
+  <br>• en <strong>version physique</strong> (coffret de base et extensions) ;  
+  <br>• via une <strong>application</strong> pour jouer et conter en ligne ;  
+  <br>• sur de nombreux <strong>serveurs Discord</strong> ;  
+  <br>• en <strong>streams</strong> sur Twitch et YouTube, avec notamment la chaîne officielle de <strong>The Pandemonium Institute</strong>.
 </p>
 
 <hr class="section">
@@ -133,27 +108,27 @@ title: Blood on the Clocktower
 
     <br><br>
 
-    Chaque joueur et joueuse reçoit un <strong>rôle secret</strong> avec une capacité unique.  
+    Chaque joueur et chaque joueuse reçoit un <strong>rôle secret</strong> avec une capacité unique.  
     La partie alterne des phases de <strong>Jour</strong> et de <strong>Nuit</strong> :
 
     <br><br>
 
     • <strong>Le Jour</strong>  
-    Discussions, théories, accusations, plaidoyers… puis éventuellement un vote pour <strong>exécuter</strong> un suspect.  
-    Les morts peuvent encore parler, et conservent généralement <strong>un dernier vote</strong>.
+    Discussions, théories, accusations et votes pour éventuellement <strong>exécuter</strong> un suspect.  
+    Les morts peuvent toujours parler et conservent généralement <strong>un dernier vote</strong>.
 
     <br><br>
 
     • <strong>La Nuit</strong>  
     Le village “s’endort”.  
     Le <span style="color:#d45b5b; font-weight:bold;">Démon</span> se réveille pour choisir une victime,  
-    et les rôles qui agissent la nuit (information, protection, chaos…) utilisent leurs pouvoirs selon l’ordre de nuit officiel.
+    et les rôles qui agissent la nuit utilisent leurs pouvoirs selon l’ordre de nuit officiel.
 
     <br><br>
 
     <strong>Conditions de victoire :</strong><br>
     • Le <span style="color:#4ea3ff; font-weight:bold;">Bien</span> gagne en exécutant le Démon.  
-    • Le <span style="color:#d45b5b; font-weight:bold;">Mal</span> gagne lorsqu’il ne reste plus que <strong>deux joueurs en vie</strong> (le Démon et sa future proie).
+    • Le <span style="color:#d45b5b; font-weight:bold;">Mal</span> gagne lorsqu’il ne reste plus que <strong>deux joueurs en vie</strong>.
 
   </p>
 </div>
@@ -175,7 +150,7 @@ title: Blood on the Clocktower
 
   <li>
     <strong><a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a></strong> 🌙  
-    Rôles du Bien, mais avec un <strong>handicap</strong> ou une particularité qui complique la tâche du village.
+    Rôles du Bien avec un <strong>handicap</strong> ou une particularité qui complique la tâche du village.
   </li>
 
   <li>
@@ -199,7 +174,7 @@ title: Blood on the Clocktower
 
 <ul style="color:#e0c99d; font-size:19px; line-height:1.9;">
 
-  <li>☠️ Les <strong>morts continuent de jouer</strong> : ils peuvent toujours parler, et disposent encore d’un vote de mort.</li>
+  <li>☠️ Les <strong>morts continuent de jouer</strong> : ils peuvent toujours parler et disposent encore d’un vote de mort.</li>
 
   <li>📜 La présence d’un  
     <a href="./conteur.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Conteur</a>  
@@ -216,7 +191,7 @@ title: Blood on the Clocktower
 
   <li>🔮 Des <strong>centaines de rôles</strong> officiels ou expérimentaux, permettant des scripts personnalisés et des univers très variés.</li>
 
-  <li>🌍 Une <strong>communauté mondiale</strong> très active, qui propose des scripts fan-made, des événements, des tournois et des campagnes narratives.</li>
+  <li>🌍 Une <strong>communauté mondiale</strong> très active : scripts fan-made, événements, tournois et campagnes narratives.</li>
 </ul>
 
 <hr class="section">
@@ -231,28 +206,15 @@ title: Blood on the Clocktower
   <p style="color:#e0c99d; font-size:18px; line-height:1.8; text-align:justify;">
 
     <strong>Steven Medway</strong> est le créateur et auteur principal de <em>Blood on the Clocktower</em>.  
-    Avant la publication du jeu, il anime des parties dans différents cercles de joueurs à Sydney et dans les conventions australiennes.
+    Il commence par animer le jeu dans des cercles de joueurs à Sydney, en ajustant les règles pour rendre la déduction sociale :
+    <br>• plus <strong>juste</strong> (moins de morts frustrantes) ;  
+    <br>• plus <strong>narrative</strong> (un univers fort, un Conteur actif) ;  
+    <br>• plus <strong>participative</strong> (tout le monde joue jusqu’à la fin, même mort).
 
     <br><br>
 
-    Son travail se concentre sur plusieurs objectifs :
-    <br>• rendre la <strong>déduction sociale plus juste</strong> (moins de morts frustrantes, plus de contrôle narratif) ;  
-    <br>• créer une expérience où <strong>tout le monde joue jusqu’à la fin</strong>, même après la mort ;  
-    <br>• donner une place majeure à la <strong>narration</strong>, au décor et au rôle du Conteur.
-
-    <br><br>
-
-    Parmi les innovations clés de Steven Medway :
-    <br>• les joueurs et joueuses morts continuent à parler et disposent encore d’un vote ;  
-    <br>• le rôle central du <a href="./conteur.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Conteur</a>, qui adapte les informations, module la difficulté et gère les cas limites ;  
-    <br>• des rôles aux effets très variés, permettant des scripts aux ambiances radicalement différentes.
-
-    <br><br>
-
-    Steven Medway reste aujourd’hui encore impliqué dans :
-    <br>• le développement de nouveaux contenus ;  
-    <br>• la supervision de l’univers et de “l’esprit” du jeu ;  
-    <br>• la collaboration avec les communautés locales et les créateurs et créatrices de scripts.
+    Il reste aujourd’hui impliqué dans le développement de nouveaux contenus et dans la supervision de “l’esprit” du jeu,  
+    tout en laissant une large place aux scripts et créations de la communauté.
   </p>
 </div>
 
@@ -267,29 +229,17 @@ title: Blood on the Clocktower
 <div class="sub-box">
   <p style="color:#e0c99d; font-size:18px; line-height:1.8; text-align:justify;">
 
-    <strong>The Pandemonium Institute</strong> est le studio qui édite et développe le jeu <em>Blood on the Clocktower</em>.  
-    Basé en Australie, il est créé autour du projet pour faire passer le jeu du stade de “jeu maison” à une <strong>édition professionnelle de luxe</strong>.
+    <strong>The Pandemonium Institute</strong> est le studio australien qui édite et développe <em>Blood on the Clocktower</em>.  
+    Il coordonne :
+    <br>• la <strong>production physique</strong> (coffrets, Grimoires, jetons, modules) ;  
+    <br>• l’<strong>identité visuelle</strong> du jeu ;  
+    <br>• la <strong>logistique</strong> et la boutique ;  
+    <br>• la <strong>relation avec la communauté</strong> : conventions, FAQ de règles, événements et mise en avant de créateurs et créatrices de contenu.
 
     <br><br>
 
-    Le studio coordonne :
-    <br>• la <strong>production physique</strong> : coffrets, Grimoires, jetons, modules ;  
-    <br>• l’<strong>identité visuelle</strong> : illustrations, iconographie des rôles, logos ;  
-    <br>• la <strong>logistique</strong> : expéditions Grimoires, boutique en ligne, réimpressions ;  
-    <br>• la <strong>relation avec la communauté</strong> : conventions, événements, support, FAQ de règles.
-
-    <br><br>
-
-    The Pandemonium Institute anime aussi une grande partie de l’écosystème autour du jeu :
-    <br>• publication de <strong>guides officiels</strong> pour Conteurs (Storyteller Guide, FAQ, jinxes, rôles expérimentaux…) ;  
-    <br>• présence sur les <strong>conventions ludiques internationales</strong> ;  
-    <br>• mise en avant de <strong>communautés locales</strong> et de <strong>créateurs et créatrices de contenu</strong> (streams, podcasts, scripts).
-
-    <br><br>
-
-    L’esprit du studio reste très ouvert aux créations de fans :  
-    scripts maison, modules personnalisés, adaptations en ligne, campagnes narratives…  
-    <em>Blood on the Clocktower</em> est pensé comme un terrain de jeu vivant, qui continue de s’enrichir grâce à sa communauté.
+    Le studio encourage activement les <strong>scripts maison</strong>, variantes et adaptations en ligne,  
+    faisant de <em>Blood on the Clocktower</em> un jeu vivant qui continue d’évoluer avec sa communauté.
   </p>
 </div>
 
@@ -304,18 +254,18 @@ title: Blood on the Clocktower
 <ul style="color:#e0c99d; font-size:19px; line-height:1.9;">
   <li>
     🎙️ Une place centrale donnée à la <strong>narration</strong> et à l’ambiance  
-    (le village de Ravenswood Bluff, les modules thématiques, les scripts personnalisés…).
+    (Ravenswood Bluff, scripts thématiques, rôles forts en caractère).
   </li>
 
   <li>
     🕯️ Un  <a href="./conteur.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Conteur</a>  
-    qui ajuste, équilibre et raconte la partie, afin que chacun et chacune vive une histoire mémorable.
+    qui ajuste, équilibre et raconte la partie pour que chacune et chacun vive une histoire mémorable.
   </li>
 
   <li>
     ♻️ Une philosophie qui favorise :
-    <br>• la <strong>participation continue</strong> (Vous jouez jusqu’à la fin, même mort) ;  
-    <br>• la <strong>créativité</strong> (scripts personnalisés, variantes, rôles expérimentaux) ;  
+    <br>• la <strong>participation continue</strong> (vous jouez jusqu’à la fin, même mort) ;  
+    <br>• la <strong>créativité</strong> (scripts personnalisés, rôles expérimentaux, campagnes) ;  
     <br>• la <strong>communauté</strong> (tables physiques, serveurs Discord, événements en ligne).
   </li>
 </ul>
