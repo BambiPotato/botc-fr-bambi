@@ -25,7 +25,7 @@ title: Femme de chambre
 
 ---
 
-## ℹ️ Informations  
+## ℹ️ <span style="color:blue">Informations</span>   
 
 - **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)  
 - **Artiste :** Aidan Roberts 
@@ -59,7 +59,7 @@ title: Femme de chambre
 
 
 
-## 📖 Résumé  
+## 📖 <span style="color:blue">Résumé</span>   
 
 « Chaque nuit, choisissez **2 joueurs vivants** (pas vous-même) : vous apprenez combien se sont réveillés cette nuit grâce à leur capacité. »  
 
@@ -73,7 +73,7 @@ La **Femme de Chambre** permet de savoir qui s’est réveillé la nuit.
 
 ---
 
-## 🎬 Comment Conter  
+## 🧩 <span style="color:blue">Comment Conter</span>  
 
 - Chaque nuit, réveillez la Femme de Chambre.  
 - Elle choisit deux joueurs vivants.  
@@ -87,7 +87,7 @@ La **Femme de Chambre** permet de savoir qui s’est réveillé la nuit.
 
 ---
 
-## 🧾 Exemples  
+## 🧩 <span style="color:blue">Exemples</span>  
 
 - La Femme de Chambre choisit l’[Exorciste](exorciste.md) et l’[Aubergiste](aubergiste.md).  
   → Elle apprend « 2 ».  
@@ -104,7 +104,7 @@ La **Femme de Chambre** permet de savoir qui s’est réveillé la nuit.
 
 ---
 
-## 💡 Astuces & Conseils  
+## 💡 <span style="color:blue">Astuces & Conseils</span>  
 
 - Vous ne détectez pas directement les <span style="color:red">maléfiques</span>, mais vous détectez **les menteurs**.  
   - Un joueur qui dit être [Parieur](parieur.md) mais qui ne se réveille pas → il ment.  
@@ -122,7 +122,7 @@ La **Femme de Chambre** permet de savoir qui s’est réveillé la nuit.
 
 ---
 
-## 🎭 Bluff en tant que Femme de Chambre  
+## 🎭 <span style="color:blue">Bluffer Femme de Chambre</span>  
 
 - Si vous savez qui est qui, vous pouvez **donner des infos exactes** → vous et eux paraissez crédibles.  
 - Si vous ne savez pas, vous pouvez mentir : ex. dire « 1 » est le plus sûr (ça passe presque toujours).  
@@ -133,10 +133,8 @@ La **Femme de Chambre** permet de savoir qui s’est réveillé la nuit.
 
 ---
 
-<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌛 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
-  <li>🧑‍🌾 <a href="../villageois.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
-</ul>
+<p style="text-align:left; font-size:18px; margin-top:20px;">
+  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
+  🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+</p>
