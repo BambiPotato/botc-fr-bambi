@@ -51,25 +51,28 @@ title: Riot
 ## 📖 <span style="color:#d45b5b;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Le 3ᵉ jour, les Sbires deviennent Riot  
+  <strong>« Le 3ème jour, les
+  <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>
+  deviennent <a href="./riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a>,  
   et les personnes nominées meurent,  
   mais doivent immédiatement nommer un joueur vivant.  
   Cela doit arriver. »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>Riot</strong> déclenche une émeute incontrôlable où chaque nomination  
-provoque une mort en chaîne… jusqu’à ce que tous les Riot soient éliminés  
-ou qu’il ne reste plus que deux joueurs vivants.
+ Le <a href="./riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> déclenche une émeute incontrôlable où chaque nomination  
+ provoque une mort en chaîne… jusqu’à ce que tous les <strong>Riot</strong> soient éliminés  
+ ou qu’il ne reste plus que deux joueurs vivants.
+ Le <a href="./riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a>  tue tout le monde dans la panique
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
-  <li>Au <strong>3ᵉ jour</strong>, chaque joueur qui est <strong>nommé</strong>  
+  <li>Au <strong>3ème jour</strong>, chaque joueur qui est <strong>nommé</strong>  
       meurt immédiatement. Même mort, il doit tout de suite  
       <strong>nommer un joueur vivant</strong>.</li>
 
-  <li>Le joueur ainsi exécuté doit nommer à nouveau <strong>sans délai</strong>.  
+  <li>Le joueur mort doit nommer à nouveau <strong>sans délai</strong>.  
       Le Conteur compte à haute voix « 3… 2… 1… »  
       pour lui laisser le temps de le faire.  
       S’il ne nomme personne, le Conteur nomme à sa place.</li>
@@ -78,12 +81,12 @@ ou qu’il ne reste plus que deux joueurs vivants.
       Si le dernier Riot meurt et qu’il ne reste plus que <strong>2 joueurs vivants</strong>,  
       il n’y a plus de nomination : le Bien gagne immédiatement.</li>
 
-  <li>Si personne ne nomine au 3ᵉ jour,  
+  <li>Si personne ne nomine au <strong>3ème jour</strong>,  
       le Conteur effectue la <strong>première nomination</strong>.</li>
 
   <li>Les <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>  
-      peuvent se transformer en <strong>Riot</strong>  
-      au début de la phase de nominations du 3ᵉ jour.</li>
+      peuvent se transformer en <a href="./riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a>  
+      au début de la phase de nominations du <strong>3ème jour</strong>.</li>
 
 </ul>
 
@@ -96,7 +99,7 @@ ou qu’il ne reste plus que deux joueurs vivants.
   <li>
     <img src="../images/Icon_atheist.png" alt="Athée" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../experimentaux_roles/atheist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Athée</a> :  
-    Pendant une émeute, si le <strong>Conteur</strong> est nommé,  
+    Si, le Riot est en jeu et si le <strong>Conteur</strong> est nommé,  
     les joueurs votent.  
     S’il est « sur le point de mourir »,  
     la partie se termine.  
@@ -106,7 +109,7 @@ ou qu’il ne reste plus que deux joueurs vivants.
   <li>
     <img src="../images/Icon_banshee.png" alt="Banshee" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/banshee.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Banshee</a> :  
-    Chaque nuit*, <strong>Riot</strong> choisit un joueur bon vivant  
+    Chaque nuit*, le <a href="./riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> choisit un joueur bon vivant  
     (différent des nuits précédentes) :  
     une <strong>Banshee</strong> choisie meurt  
     et gagne sa capacité.
@@ -115,15 +118,15 @@ ou qu’il ne reste plus que deux joueurs vivants.
   <li>
     <img src="../images/Icon_exorcist.png" alt="Exorciste" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../tb_roles/exorcist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a> :  
-    Si <strong>Riot</strong> nomine et fait exécuter  
-    le joueur choisi par l’Exorciste,  
+    Si le <a href="./riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> nomine et fait exécuter  
+    le joueur choisi par l’<strong>Exorciste</strong>,  
     le Bien gagne.
   </li>
 
   <li>
     <img src="../images/Icon_farmer.png" alt="Fermier" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../experimentaux_roles/farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermier</a> :  
-    Chaque nuit*, <strong>Riot</strong> choisit un joueur bon vivant  
+    Chaque nuit*, le <a href="./riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> choisit un joueur bon vivant  
     (différent des nuits précédentes) :  
     un <strong>Fermier</strong> choisi utilise sa capacité  
     mais ne meurt pas.
@@ -131,15 +134,15 @@ ou qu’il ne reste plus que deux joueurs vivants.
 
   <li>
     <img src="../images/Icon_grandmother.png" alt="Grand-Mère" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../tb_roles/grandmere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Grand-Mère</a> :  
-    Si <strong>Riot</strong> est en jeu et que le <strong>Petit-enfant</strong>  
+    <a href="../bmr_roles/grandmere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Grand-Mère</a> :  
+    Si le <a href="./riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> est en jeu et que le <strong>Petit-enfant</strong>  
     meurt par exécution, le Mal gagne.
   </li>
 
   <li>
     <img src="../images/Icon_innkeeper.png" alt="Aubergiste" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../bmr_roles/innkeeper.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a> :  
-    Si <strong>Riot</strong> nomine et fait exécuter  
+    Si le <a href="./riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> nomine et fait exécuter  
     un joueur protégé par l’<strong>Aubergiste</strong>,  
     le Bien gagne.
   </li>
@@ -147,7 +150,7 @@ ou qu’il ne reste plus que deux joueurs vivants.
   <li>
     <img src="../images/Icon_king.png" alt="Roi" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../sv_roles/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> :  
-    Si <strong>Riot</strong> est en jeu et qu’au moins  
+    Si le <a href="./riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> est en jeu et qu’au moins  
     un joueur est mort,  
     le <strong>Roi</strong> apprend chaque nuit  
     un rôle vivant.
@@ -155,7 +158,7 @@ ou qu’il ne reste plus que deux joueurs vivants.
 
   <li>
     <img src="../images/Icon_mayor.png" alt="Maire" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../tb_roles/mayor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a> :  
+    <a href="../tb_roles/maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a> :  
     Le <strong>Maire</strong> peut choisir  
     de mettre fin à l’émeute.  
     S’il le fait alors qu’il n’y a plus  
@@ -167,7 +170,7 @@ ou qu’il ne reste plus que deux joueurs vivants.
   <li>
     <img src="../images/Icon_monk.png" alt="Moine" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../tb_roles/monk.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> :  
-    Si <strong>Riot</strong> nomine et fait exécuter  
+    Si le <a href="./riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> nomine et fait exécuter  
     un joueur protégé par le <strong>Moine</strong>,  
     le Bien gagne.
   </li>
@@ -175,7 +178,7 @@ ou qu’il ne reste plus que deux joueurs vivants.
   <li>
     <img src="../images/Icon_ravenkeeper.png" alt="Croque-Mort" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../tb_roles/ravenkeeper.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-Mort</a> :  
-    Chaque nuit*, <strong>Riot</strong> choisit  
+    Chaque nuit*, le <a href="./riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> choisit  
     un joueur bon vivant (différent des nuits précédentes) :  
     un <strong>Croque-Mort</strong> choisi utilise sa capacité  
     mais ne meurt pas.
@@ -184,7 +187,7 @@ ou qu’il ne reste plus que deux joueurs vivants.
   <li>
     <img src="../images/Icon_sage.png" alt="Sage" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../sv_roles/sage.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a> :  
-    Chaque nuit*, <strong>Riot</strong> choisit  
+    Chaque nuit*, le <a href="./riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> choisit  
     un joueur bon vivant (différent des nuits précédentes) :  
     un <strong>Sage</strong> choisi utilise sa capacité  
     mais ne meurt pas.
@@ -192,8 +195,8 @@ ou qu’il ne reste plus que deux joueurs vivants.
 
   <li>
     <img src="../images/Icon_soldier.png" alt="Soldat" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../tb_roles/soldier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a> :  
-    Si <strong>Riot</strong> nomine et fait exécuter  
+    <a href="../tb_roles/soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a> :  
+    Si le <a href="./riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> nomine et fait exécuter  
     le <strong>Soldat</strong>,  
     le Bien gagne.
   </li>
@@ -205,9 +208,9 @@ ou qu’il ne reste plus que deux joueurs vivants.
 ## 🎭 <span style="color:#d45b5b;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>Riot</strong> se joue presque comme un Démon « normal »  
+Le <a href="./riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> se joue presque comme un Démon « normal »  
 pendant deux jours,  
-puis tout bascule au 3ᵉ jour quand l’émeute éclate  
+puis tout bascule au <strong>3ème jour</strong> quand l’émeute éclate  
 et que les nominations déclenchent une cascade de morts.
 </p>
 
@@ -215,27 +218,27 @@ et que les nominations déclenchent une cascade de morts.
 
   <li><strong>Suivi des jours :</strong>
     <ul style="margin-left:20px;">
-      <li>au 1ᵉʳ jour, ajoutez le rappel <strong>JOUR 1</strong> au grimoire ;</li>
-      <li>au 2ᵉ jour, ajoutez le rappel <strong>JOUR 2</strong> ;</li>
-      <li>au 3ᵉ jour, ajoutez le rappel <strong>JOUR 3</strong> :  
+      <li>au <strong>1er jour</strong>, ajoutez le rappel <strong>JOUR 1</strong> au grimoire ;</li>
+      <li>au <strong>2ème jour</strong>, ajoutez le rappel <strong>JOUR 2</strong> ;</li>
+      <li>au <strong>3ème jour</strong>, ajoutez le rappel <strong>JOUR 3</strong> :  
           c’est le jour de l’émeute.</li>
     </ul>
   </li>
 
   <li><strong>Transformation des Sbires :</strong>
     <ul style="margin-left:20px;">
-      <li>pendant la <strong>3ᵉ nuit</strong>,  
+      <li>Durant la <strong>3ème nuit</strong>,  
           réveillez chaque <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> ;</li>
       <li>montrez-lui le jeton <strong>« Tu es »</strong>,  
           puis le jeton <strong>Riot</strong> ;</li>
       <li>rendormez-le ;</li>
-      <li>soit immédiatement, soit au début du 3ᵉ jour,  
+      <li>soit immédiatement, soit au début du <strong>3ème jour</strong>,  
           remplacez tous les jetons de Sbire  
           par des jetons <strong>Riot</strong> dans le grimoire.</li>
     </ul>
   </li>
 
-  <li><strong>Le 3ᵉ jour : fonctionnement de l’émeute</strong>
+  <li><strong>Le 3ème jour : fonctionnement de l’émeute</strong>
     <ul style="margin-left:20px;">
       <li>durant cette journée,  
           <strong>chaque fois qu’un joueur est nommé</strong>,  
@@ -255,7 +258,7 @@ et que les nominations déclenchent une cascade de morts.
   <li><strong>Fin de partie :</strong>
     <ul style="margin-left:20px;">
       <li>continuez ce cycle de nominations en chaîne  
-          jusqu’à ce que <strong>tous les Riot soient morts</strong>  
+          jusqu’à ce que <strong>tous les Riot</strong> soient morts  
           ou qu’il ne reste plus que <strong>2 joueurs vivants</strong> ;</li>
       <li>annoncez alors quelle équipe a gagné  
           (le Bien gagne si tous les Riot sont morts).</li>
@@ -265,7 +268,7 @@ et que les nominations déclenchent une cascade de morts.
   <li><strong>Si personne ne nomine :</strong>
     <ul style="margin-left:20px;">
       <li>si les joueurs n’effectuent <strong>aucune nomination</strong>  
-          au 3ᵉ jour,  
+          au <strong>3ème jour</strong>,  
           ou si un joueur nommé laisse passer son tour,  
           le Conteur doit nominer quelqu’un à la place,  
           ce qui relance la chaîne.</li>
@@ -282,8 +285,8 @@ et que les nominations déclenchent une cascade de morts.
 Alex nomine Louis.  
 Louis meurt et nomine Benoît.  
 Benoît meurt et nomine Marion.  
-Marion meurt et nomine Lachlan.  
-Lachlan meurt.  
+Marion meurt et nomine Médhi.  
+Médhi meurt.  
 Tous les joueurs <strong>Riot</strong> sont morts :  
 le Bien gagne.
 </p>
