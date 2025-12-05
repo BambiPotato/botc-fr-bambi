@@ -76,7 +76,7 @@ La **Commère** sème des rumeurs : si elles sont vraies, elles coûtent la vie 
 
 - Chaque jour, si la Commère fait une **déclaration claire et vérifiable**, notez-le.  
 - Chaque nuit (sauf la première), si la déclaration était **vraie**, le Conteur choisit un joueur et le tue.  
-- Si possible, choisissez un joueur dont la mort sera visible et utile et et non un rôle protégé par un pouvoir comme le [Fou](fou.md) ou la [Dame de Thé](damedethe.md)).  
+- Si possible, choisissez un joueur dont la mort sera visible et utile et et non un rôle protégé par un pouvoir comme le [Fou](fou.md) ou la [Dame de Thé](damedethe.md).  
 - La Commère acquiert des connaissances lorsque ses commérages entraînent une mort. C'est plus avantageux pour l'équipe du Bien et plus amusant pour tous.
 ---
 
