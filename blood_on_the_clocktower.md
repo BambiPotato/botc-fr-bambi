@@ -49,26 +49,50 @@ title: Blood on the Clocktower
 
 <div class="intro-box">
   <p style="color:#e0c99d; font-size:18px; line-height:1.8; text-align:justify;">
-    <em>Blood 🩸 on the Clocktower</em>, le plus grand jeu de bluff au monde.
-    Un jeu de mensonges, de déduction et de narration, où les joueurs et joueuses incarnent des rôles secrets dans un village hanté par un Démon.
+
+    <em>Blood 🩸 on the Clocktower</em> est un jeu de déduction sociale, de bluff et de narration, reconnu aujourd’hui comme l’un des jeux de rôles cachés les plus aboutis au monde.  
+    Son créateur, <strong>Steven Medway</strong>, a commencé à l’imaginer en <strong>2008</strong> en Australie, avec pour objectif de proposer une expérience plus immersive, plus équilibrée et surtout plus amusante que les jeux de bluff traditionnels.
 
     <br><br>
-    Blood on the Clocktower est un jeu de déduction sociale créé par Steven Medway et publié en 2022 par The Pandemonium Institute, d’abord via Kickstarter. 
-    Il existe en version jeu de société, sur application mobile et au sein de communautés Discord. 
-    Le jeu est également très présent sur Twitch, avec plusieurs chaînes dédiées, dont une chaîne officielle de The Pandemonium Institute.
+
+    Après plus de dix ans de développement, le jeu est finalement publié en <strong>2022</strong> grâce à un Kickstarter retentissant, porté par le studio australien  
+    <strong>The Pandemonium Institute</strong>, fondé par Steven Medway, Evin O’Brien, et l’équipe qui l’accompagne depuis les premières démonstrations publiques.
 
     <br><br>
-    Le jeu oppose les maléfiques (les démons et leurs sbires) et les bons (les Villageois et les Étrangers), le tout dirigé par un Conteur neutre. 
-    Chaque joueur reçoit un rôle secret doté d’une capacité unique. La partie alterne jours et nuits :
-    <br>– le jour : discussions, accusations et exécution d’un joueur ;
-    <br>– la nuit : le Démon choisit une victime.
+
+    <strong>The Pandemonium Institute</strong> s’est imposé comme un acteur majeur du jeu de société moderne, notamment grâce à :
+    <br>• une communauté internationale très active ;  
+    <br>• des événements en convention partout dans le monde ;  
+    <br>• une présence forte sur Twitch et YouTube, avec une <strong>chaîne officielle</strong> diffusant des parties complètes ;  
+    <br>• une politique ouverte encourageant les créations de fans, homebrews et scripts personnalisés.
 
     <br><br>
-    Le Bien gagne en exécutant le Démon.  
-    Le Mal gagne s’il survit jusqu’à ce qu’il ne reste que deux joueurs.
+
+    <strong>Blood on the Clocktower</strong> existe aujourd’hui sous plusieurs formes :
+    <br>• le jeu de société physique ;  
+    <br>• une application mobile permettant de conter et de jouer ;  
+    <br>• de nombreuses communautés Discord, dont celle francophone ;  
+    <br>• des parties en live sur Twitch réunissant des joueuses et joueurs du monde entier.
+
+    <br><br>
+
+    Le jeu oppose les forces du <span style="color:#d45b5b; font-weight:bold;">Mal</span> (le Démon et ses Sbires) à celles du <span style="color:#4ea3ff; font-weight:bold;">Bien</span> (les Villageois et les Étrangers), sous l’arbitrage d’un ou d’une <strong>Conteur·euse</strong> neutre.  
+    Chaque joueur reçoit un rôle secret doté d’un pouvoir unique. La partie alterne :
+    <br>– <strong>le Jour</strong> : discussions, accusations, votes et exécution éventuelle ;  
+    <br>– <strong>la Nuit</strong> : le Démon choisit une victime et les rôles nocturnes agissent.
+
+    <br><br>
+
+    <strong>Condition de victoire :</strong><br>
+    • Le Bien gagne en exécutant le Démon.<br>
+    • Le Mal gagne s’il survit jusqu’à ce qu’il ne reste <strong>que deux joueurs en vie</strong>.
+
+    <br><br>
+
+    Grâce à ses mécaniques élégantes, son équilibre remarquable et la richesse de ses rôles,  
+    <em>Blood on the Clocktower</em> est considéré comme l’un des jeux de bluff les plus innovants et les plus appréciés de sa génération.
   </p>
 </div>
-
 <p style="color:#e0c99d; font-size:18px; line-height:1.8; text-align:justify;">
   <em>Blood 🩸on the Clocktower</em> est un <strong>jeu de déduction sociale</strong>, dans la lignée des 
   <em>Loups-Garous 🐺 de Thiercelieux</em> ou de <em>Mafia</em>,  
