@@ -78,9 +78,9 @@ ou à n’importe quel autre joueur.
   <li>Le joueur qui « est le Démon » peut être :
     <ul style="margin-left:20px;">
       <li>un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> ;</li>
-      <li>un <a href="../tb_roles.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> ;</li>
+      <li>un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> ;</li>
       <li>un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a> ;</li>
-      <li>ou même un <a href="../voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>.</li>
+      <li>ou même un <a href=".../voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>.</li>
     </ul>
   </li>
 
