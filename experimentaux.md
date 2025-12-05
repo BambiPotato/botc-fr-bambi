@@ -146,7 +146,7 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
     <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Grande prêtresse</span>
   </a>
 
-  <a href="roles_experimentaux/huntsman.html" style="text-decoration:none; width:280px; text-align:center%;">
+   <a href="roles_experimentaux/huntsman.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_huntsman.png" alt="Chasseur" style="width:280px; border-radius:12px;">
     <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Chasseur</span>
   </a>
@@ -383,7 +383,7 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
     <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Kazali</span>
   </a>
 
-  <a href="roles_experimentaux/legion.html" style="text-decoration:none; width:280px; text-align:center%;">
+  <a href="roles_experimentaux/legion.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_legion.png" alt="Légion" style="width:280px; border-radius:12px;">
     <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Légion</span>
   </a>
