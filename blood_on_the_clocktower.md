@@ -63,7 +63,7 @@ title: Blood on the Clocktower
     <br><br>
 
     Le jeu est créé par le designer australien <strong>Steven Medway</strong>.  
-    À l’origine, <em>Blood on the Clocktower</em> est un <strong>jeu maison</strong>, animé dans des groupes de rôlistes et de joueuses/joueurs de jeux de société à Sydney.  
+    À l’origine, <em>Blood on the Clocktower</em> est un <strong>jeu maison</strong>, animé dans des groupes de rôlistes et des joueurs et joueuses de jeux de société à Sydney.  
     Au fil des années, Steven teste et affine les règles en convention et en soirées jeux, jusqu’à ce que le jeu acquière la réputation de  
     <strong>“version premium” des jeux de déduction sociale</strong>.
 
@@ -96,8 +96,7 @@ title: Blood on the Clocktower
     et continue d’évoluer avec :
     <br>• de nouveaux <strong>rôles expérimentaux</strong> (le module <em>The Carousel</em>) ;  
     <br>• des <strong>scripts communautaires</strong> ;  
-    <br>• des modules additionnels comme les <a href="./voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a>,  
-      les <a href="./legendaire.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Légendaires</a> et les  
+    <br>• des aides narratifs pour les Conteurs et Conteuses comme les <a href="./legendaire.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Légendaires</a> et les  
       <a href="./loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Lorics</a>.
   </p>
 </div>
