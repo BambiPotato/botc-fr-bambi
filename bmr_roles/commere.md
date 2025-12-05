@@ -6,7 +6,7 @@ title: Commère
 
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
+    <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
@@ -25,7 +25,7 @@ title: Commère
 
 ---
 
-## ℹ️ Informations  
+## ℹ️ <span style="color:blue">Informations</span>  
 
 - **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)  
 - **Artiste :** Aidan Roberts   
@@ -58,7 +58,7 @@ title: Commère
 "Cult of the Clocktower – épisode par Andrew Nathenson"
 </p>
 
-## 📖 Résumé  
+## 📖 <span style="color:blue">Résumé</span>   
 
 « Chaque jour, vous pouvez faire une déclaration publique. Cette nuit, si c'était vrai, un joueur meurt. »  
 
@@ -68,19 +68,19 @@ La **Commère** sème des rumeurs : si elles sont vraies, elles coûtent la vie 
 - Si cette déclaration est **vraie**, le Conteur tue un joueur pendant la nuit.  
 - Si elle est **fausse**, aucun joueur ne meurt à cause de la Commère.  
 - Le Conteur et les autres joueurs doivent entendre et comprendre clairement la déclaration pour qu’elle soit valide.  
-- Si elle était ivre ou empoisonnée quand elle a parlé, mais qu’elle est sobre quand le pouvoir se résout → son pouvoir fonctionne quand même.  
+- Si elle était ivre ou empoisonnée quand elle a parlé, mais qu’elle est sobre quand son pouvoir son pouvoir se déclenche cette nuit-là, le Conteur tue quand même un joueur.  
 
 ---
 
-## 🎬 Comment Conter  
+## 🎭 <span style="color:blue">Comment Conter</span>    
 
 - Chaque jour, si la Commère fait une **déclaration claire et vérifiable**, notez-le.  
 - Chaque nuit (sauf la première), si la déclaration était **vraie**, le Conteur choisit un joueur et le tue.  
-- Si possible, choisissez un joueur dont la mort sera visible et utile (évitez de tuer un protégé comme le [Fou](fou.md) ou la [Dame de Thé](damedethe.md)).  
-
+- Si possible, choisissez un joueur dont la mort sera visible et utile et et non un rôle protégé par un pouvoir comme le [Fou](fou.md) ou la [Dame de Thé](damedethe.md)).  
+- La Commère acquiert des connaissances lorsque ses commérages entraînent une mort. C'est plus avantageux pour l'équipe du Bien et plus amusant pour tous.
 ---
 
-## 🧾 Exemples  
+## 🧩 <span style="color:blue">Exemples</span>   
 
 - La Commère dit : *« Le <span style="color:red">Démon</span> porte un chapeau. »* → Le <span style="color:red">Démon</span> n’en porte pas → personne ne meurt à cause d’elle cette nuit-là.  
 
@@ -90,7 +90,7 @@ La **Commère** sème des rumeurs : si elles sont vraies, elles coûtent la vie 
 
 ---
 
-## 💡 Astuces & Conseils  
+## 💡 <span style="color:blue">Astuces & Conseils</span>   
 
 - **Utilisez votre capacité chaque jour !** Même si elle peut causer une mort involontaire, elle apporte énormément d’informations.  
 
@@ -106,7 +106,7 @@ La **Commère** sème des rumeurs : si elles sont vraies, elles coûtent la vie 
 - En fin de partie, soyez prudent : un mort supplémentaire peut offrir la victoire au [<span style="color:red">Mal</span>](../demons.md).  
 
 - Exemples de déclarations possibles :  
-  - « Le <span style="color:red">Démon</span> est un [Zombuul](zombuul.md). »  
+  - « Le <span style="color:red">Démon</span> est un [<span style="color:red">Zombuul</span>](zombuul.md). »  
   - « Nicolas est <span style="color:red">maléfique</span>. »  
   - « Deux joueurs <span style="color:red">maléfiques</span> sont voisins. »  
   - « L’[<span style="color:red">Assassin</span>](../bmr_roles/assassin.md) a utilisé son pouvoir. »  
@@ -115,7 +115,7 @@ La **Commère** sème des rumeurs : si elles sont vraies, elles coûtent la vie 
 
 ---
 
-## 🎭 Bluff en tant que Commère  
+## 🎭 <span style="color:blue">Bluffer Commère</span>  
 
 - **Version prudente :** faites des déclarations peu risquées, qui paraissent crédibles mais n’apportent rien. Vous paraissez bon, mais vos infos sont négligeables.  
 
@@ -125,14 +125,12 @@ La **Commère** sème des rumeurs : si elles sont vraies, elles coûtent la vie 
 
 - Si vous voulez être exécuté comme [<span style="color:red">Sbire</span>](../sbires.md) → donnez une déclaration vraie, provoquez une mort, et faites porter la faute sur vous.  
 
-- Coordonnez vos déclarations avec les morts causées par vos alliés [<span style="color:red">maléfiques</span>](../sbires.md) ([<span style="color:red">Assassin</span>](../bmr_roles/assassin.md), [<span style="color:red">Parrain</span>](../bmr_roles/parrain.md), etc.) pour brouiller les pistes.  
+- Coordonnez vos déclarations avec les morts causées par vos alliés [<span style="color:red">maléfiques</span>](../sbires.md) avec l'aide d'un [<span style="color:red">Assassin</span>](../bmr_roles/assassin.md), ou d'un [<span style="color:red">Parrain</span>](../bmr_roles/parrain.md), pour brouiller les pistes.  
 
 ---
 
-<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌛 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
-  <li>🧑‍🌾 <a href="../villageois.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
-</ul>
+<p style="text-align:left; font-size:18px; margin-top:20px;">
+  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
+  🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+</p>
