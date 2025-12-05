@@ -202,21 +202,21 @@ title: Blood on the Clocktower
 
   <li style="margin-top:8px;">
    <strong>Rôles expérimentaux</strong> :
-   🎠 <a href="./experimentaux.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">The Carousel Expérimental</a>.<strong> - rôles expérimentaux.
+   🎠 <a href="./experimentaux.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">The Carousel Expérimental</a><strong> - rôles expérimentaux.
     Des centaines de rôles en phase de test, regroupés dans cette extension.  
     
   </li>
 
   <li style="margin-top:8px;">
     <strong>Voyageurs</strong> 
-    🧳 <a href="./voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a>.
+    🧳 <a href="./voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a> -
     Rôles très puissants pour les joueurs qui arrivent en cours de partie ou partent plus tôt.  
     Ils peuvent rejoindre ou quitter la partie à tout moment.  
   </li>
 
   <li style="margin-top:8px;">
     <strong>Légendaires</strong>
-    🏰 <a href="./legendaire.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Légendaires</a>.
+    🏰 <a href="./legendaire.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Légendaires</a> -
     Rôles spéciaux pour le conteur, utilisés pour régler des situations particulières ou changer le ton d’une partie.  
     
   </li>
