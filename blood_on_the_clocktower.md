@@ -193,9 +193,11 @@ title: Blood on the Clocktower
   <li>
     <strong>Éditions principales</strong> :
     <br>
-    - 🍺 <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a> – idéale pour découvrir le jeu.  
-    - 💐 <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a> – rôles étranges, effet “casse-tête”.  
-    - 🌛 <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a> – très dynamique et mortel.
+    🍺 <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a> – idéale pour découvrir le jeu.
+    <br>
+    💐 <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a> – rôles étranges, effet “casse-tête”.
+    <br>
+    🌛 <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a> – très dynamique et mortel.
   </li>
 
   <li style="margin-top:8px;">
