@@ -45,8 +45,8 @@ title: Blood on the Clocktower
 <div class="intro-box">
   <p style="color:#e0c99d; font-size:18px; line-height:1.7; text-align:justify;">
 
-    <em>Blood on the Clocktower</em> est un jeu de déduction sociale dans la lignée de  
-    <strong>Loups-Garous de Thiercelieux</strong> et <strong>Mafia</strong>,  
+    <em>Blood on the Clocktower</em> est un jeu de déduction sociale dans la lignée du jeu des 
+    <strong>Loups-Garous de Thiercelieux</strong> et de <strong>Mafia</strong>,  
     mais plus moderne, narratif et stratégique.
 
     <br><br>
