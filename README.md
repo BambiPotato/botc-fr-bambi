@@ -573,11 +573,11 @@
   <hr style="width:40%; border:1px solid #b58b52; opacity:0.6; margin:25px 0;">
 
   <h2 style="color:#b58b52; font-weight:bold; font-size:26px; margin-bottom:10px;">
-    🔗 Réseaux Sociaux
+    🌍 Réseaux Sociaux
   </h2>
 
   <p style="color:#e0c99d; font-size:19px; margin-bottom:15px;">
-    Rejoignez notre petite communauté sur <span style="color:#d4a76a; font-weight:bold;">Discord</span> pour jouer en ligne, partager de bons moments et participer à nos parties streamées :
+    Rejoignez notre petite communauté sur <span style="color:#d4a76a; font-weight:bold;">Discord</span> pour jouer en ligne et participer à nos parties streamées :
   </p>
 
   <ul style="list-style:none; padding-left:0; font-size:19px; color:#e0c99d;">
@@ -614,15 +614,15 @@
   </p>
 
   <ul style="color:#e0c99d; font-size:20px; line-height:1.7; margin-left:30px;">
-    <li>🗼 <strong>Paris</strong> — parties menées par <span style="color:#d4a76a; font-weight:bold;">Pierre</span> 💫  
+    <li>🗼 <strong>Paris</strong> parties menées par <span style="color:#d4a76a; font-weight:bold;">Pierre</span> 💫  
       → <a href="https://www.meetup.com/blood-on-the-clocktower-paris/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-        Blood on the Clocktower Paris – Meetup
+        Blood on the Clocktower Paris Meetup
       </a>
     </li>
 
-    <li>⚓ <strong>Nantes</strong> — parties menées par <span style="color:#d4a76a; font-weight:bold;">Bibel</span> 🎭  
+    <li>⚓ <strong>Nantes</strong> parties menées par <span style="color:#d4a76a; font-weight:bold;">Bibel</span> 🎭  
       → <a href="https://www.meetup.com/blood-on-the-clocktower-nantes/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-        Blood on the Clocktower Nantes – Meetup
+        Blood on the Clocktower Nantes Meetup
       </a>
     </li>
   </ul>
