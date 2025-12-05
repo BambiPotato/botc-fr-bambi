@@ -6,7 +6,7 @@ title: Aubergiste
 
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
+    <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
@@ -25,7 +25,7 @@ title: Aubergiste
 
 ---
 
-## ℹ️ Informations  
+## ℹ️ <span style="color:blue">Informations</span>  
 
 - **Type :**[<span style="color:blue">**Villageois**</span>](../villageois.md)  
 - **Artiste :** John Grist 
@@ -60,7 +60,7 @@ title: Aubergiste
 
 
 
-## 📖 Résumé  
+## 📖 <span style="color:blue">Résumé</span>    
 
 
 « Chaque nuit*, choisissez **2 joueurs** : ils ne peuvent pas mourir cette nuit mais l'un d'eux est ivre jusqu'au crépuscule. »  
@@ -74,7 +74,7 @@ L’**Aubergiste** protège ses clients des morts nocturnes, mais enivre l’un 
 
 ---
 
-## 🎬 Comment Conter  
+## 🎭 <span style="color:blue">Comment Conter</span>   
 
 - Chaque nuit (sauf la première), réveillez l’Aubergiste.  
 - Il choisit deux joueurs.  
@@ -87,7 +87,7 @@ L’**Aubergiste** protège ses clients des morts nocturnes, mais enivre l’un 
 
 ---
 
-## 🧾 Exemples  
+## 🧩 <span style="color:blue">Exemples</span>   
 
 - L’Aubergiste protège le [Fou](fou.md) et la [Femme de Chambre](femmedecha.md).  
   → Le Conteur choisit d’enivrer le Fou. Le lendemain, quand le Fou est exécuté, il meurt au lieu de survivre.  
@@ -100,7 +100,7 @@ L’**Aubergiste** protège ses clients des morts nocturnes, mais enivre l’un 
 
 ---
 
-## 💡 Astuces & Conseils  
+## 💡 <span style="color:blue">Astuces & Conseils</span>    
 
 - Votre pouvoir est **très puissant** : bien utilisé, vous pouvez bloquer les meurtres nocturnes et rallonger la partie.  
 
@@ -117,7 +117,7 @@ L’**Aubergiste** protège ses clients des morts nocturnes, mais enivre l’un 
 
 ---
 
-## 🎭 Bluff en tant qu’Aubergiste  
+## 🎭 <span style="color:blue">Bluffer Aubergiste</span>  
 
 - Si vous êtes un [<span style="color:red">Démon</span>](../demons.md), **ne tuez pas** les joueurs que vous prétendez protéger, sinon vos mensonges seront évidents.  
 
@@ -133,10 +133,8 @@ L’**Aubergiste** protège ses clients des morts nocturnes, mais enivre l’un 
 
 ---
 
-<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌛 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
-  <li>🧑‍🌾 <a href="../villageois.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
-</ul>
+<p style="text-align:left; font-size:18px; margin-top:20px;">
+  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
+  🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+</p>
