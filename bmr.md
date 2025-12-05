@@ -92,16 +92,11 @@ Mais si l’équipe du Bien ne parvient pas à identifier les Sbires et les Dém
 
 ---
 
-
-<!-- GRID VILLAGEOIS -->
-<div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin:8px 0 6px 0;">
-
- <!-- VILLAGEOIS -->
+<!-- VILLAGEOIS -->
 
 <p style="text-align:left; color:#e0c99d; font-size:20px;">
-  <a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
+  <a id="villageois" href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
 </p>
-
 
 <!-- GRID VILLAGEOIS (13 rôles) -->
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin:8px 0 6px 0;">
@@ -186,15 +181,13 @@ Mais si l’équipe du Bien ne parvient pas à identifier les Sbires et les Dém
 
 </div>
 
-
 ---
 
 <!-- ÉTRANGERS -->
 
 <p style="text-align:left; color:#e0c99d; font-size:20px;">
-  <a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>
+  <a id="etrangers" href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>
 </p>
-
 
 <!-- GRID ÉTRANGERS -->
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin:8px 0 6px 0;">
@@ -230,9 +223,8 @@ Mais si l’équipe du Bien ne parvient pas à identifier les Sbires et les Dém
 <!-- SBIRES -->
 
 <p style="text-align:left; color:#e0c99d; font-size:20px;">
-  <a href="./sbires.html" style="color:red; font-weight:bold; text-decoration:none;">Sbires</a>
+  <a id="sbires" href="./sbires.html" style="color:red; font-weight:bold; text-decoration:none;">Sbires</a>
 </p>
-
 
 <!-- GRID SBIRES -->
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin:8px 0 6px 0;">
@@ -268,9 +260,8 @@ Mais si l’équipe du Bien ne parvient pas à identifier les Sbires et les Dém
 <!-- DÉMONS -->
 
 <p style="text-align:left; color:#e0c99d; font-size:20px;">
-  <a href="./demons.html" style="color:red; font-weight:bold; text-decoration:none;">Démons</a>
+  <a id="demons" href="./demons.html" style="color:red; font-weight:bold; text-decoration:none;">Démons</a>
 </p>
-
 
 <!-- GRID DÉMONS -->
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin:8px 0 6px 0;">
