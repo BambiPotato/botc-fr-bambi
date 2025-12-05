@@ -5,7 +5,7 @@ title: Brute
 
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
+    <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
@@ -25,7 +25,7 @@ title: Brute
 
 ---
 
-## ℹ️ Informations  
+## ℹ️ <span style="color:blue">Informations</span>    
 
 - **Type :** [<span style="color:blue">Étranger</span>](../etrangers.md)    
 - **Artiste :** Caitlin Murphy  
@@ -60,7 +60,7 @@ title: Brute
 
 ---
 
-## 📖 Résumé  
+## 📖 <span style="color:blue">Résumé</span>  
 
 **« Chaque nuit, le premier joueur qui vous choisit avec sa capacité est ivre jusqu'au crépuscule. Vous devenez son alignement. »**
 
@@ -75,7 +75,7 @@ La **Brute** est immunisée contre les capacités nocturnes des autres joueurs�
 
 ---
 
-## 🎬 Comment Conter  
+## 🎭 <span style="color:blue">Comment Conter</span>   
 
 - La nuit, si un joueur choisit la Brute et qu’aucun jeton de rappel **IVRE (Brute)** n’est encore placé,  
   marquez ce joueur avec le jeton **IVRE (Brute)**.  
@@ -90,7 +90,7 @@ La **Brute** est immunisée contre les capacités nocturnes des autres joueurs�
 
 ---
 
-## 🧾 Exemples  
+## 🧩 <span style="color:blue">Exemples</span>  
 
 - Le [Courtisan](courtisan.md) choisit la Brute : la Brute devient **bonne**, et le Courtisan devient **ivre**.  
 - Le [<span style="color:red">Shabaloth</span>](shabaloth.md) attaque la Brute, puis la [Commère](commere.md).  
@@ -103,12 +103,12 @@ La **Brute** est immunisée contre les capacités nocturnes des autres joueurs�
 
 ---
 
-## 💡 Astuces & Stratégie  
+## 💡 <span style="color:blue">Astuces & Stratégie</span>  
 
 La **Brute** est un rôle imprévisible : vous ne saurez peut-être jamais de quel côté vous jouez avant la fin !  
 Rester discret peut être judicieux : observez, bluffez et découvrez comment votre alignement évolue.  
 
-### 😇 Si vous êtes du Bien  
+### 😇 <span style="color:blue">Si vous êtes d'alignement bon</span> 
 
 - Vous êtes très difficile à tuer la nuit : la plupart des capacités échouent avant de vous atteindre.  
   Même un [<span style="color:red">Pukka</span>](pukka.md) devient ivre avant de pouvoir vous empoisonner.  
@@ -118,7 +118,7 @@ Rester discret peut être judicieux : observez, bluffez et découvrez comment vo
 - En fin de partie, votre alignement actuel déterminera probablement votre victoire ou défaite.  
   Si vous êtes bon, aidez l’équipe : annoncez quand votre alignement a changé — cela peut correspondre à des échecs d’actions nocturnes, et donc révéler des rôles maléfiques !  
 
-### 😈 Si vous êtes maléfique  
+### 😈 <span style="color:red">Si vous êtes maléfique</span>   
 
 - Semez le chaos ! Vous pouvez feindre d’être bon, inventer un rôle, ou manipuler les votes.  
 - Identifier les autres membres du Mal peut vous aider à coordonner la fin de partie.  
@@ -126,18 +126,18 @@ Rester discret peut être judicieux : observez, bluffez et découvrez comment vo
 
 ---
 
-## 🎭 Bluff : se faire passer pour la Brute  
+## 🎭 Bluffer : se faire passer pour la Brute  
 
-### Pour un joueur Bon  
+### Pour un joueur <span style="color:blue">Bon</span>   
 
-- Bluff difficile mais crédible.  
+- C'est un bluff difficile mais crédible.  
   Attendez quelques jours avant de vous révéler : une Brute qui parle trop tôt est souvent exécutée.  
   Observez d’abord, puis adaptez votre histoire selon les morts nocturnes et les rôles révélés.  
 - Pour un bluff convaincant, indiquez précisément **quand** vous pensez être devenu bon ou mauvais.  
   Les nuits où vous prétendez être devenu mauvais doivent correspondre à **des nuits sans morts**, car les capacités des [<span style="color:red">Démons</span>](../demons.md) auraient échoué.  
 - Vous pouvez aussi inciter d’autres joueurs à vous cibler pour "redevenir bon" — ou prétendre qu’ils l’ont fait.  
 
-### Pour un joueur maléfique  
+### Pour un joueur <span style="color:red">maléfique</span>   
 
 - Déclarez-vous **Brute maléfique** dès le début.  
   Le Village hésitera à vous exécuter, espérant que vous redeviendrez bon.  
@@ -146,11 +146,9 @@ Rester discret peut être judicieux : observez, bluffez et découvrez comment vo
   Profitez de cette ambiguïté.  
 
 ---
-<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌛 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
-  <li>💈 <a href="../etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Étrangers</a></li>
-</ul>
 
+<p style="text-align:left; font-size:18px; margin-top:20px;">
+  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+  💈 <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Étrangers</a><br>
+  🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+</p>
