@@ -108,7 +108,7 @@ title: Riot
 
   <li>
     <img src="../images/Icon_banshee.png" alt="Banshee" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/banshee.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Banshee</a> :  
+    <a href="../roles_experimentaux/banshee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Banshee</a> :  
     Chaque nuit*, le <a href="./riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> choisit un joueur bon vivant  
     (différent des nuits précédentes) :  
     une <strong>Banshee</strong> choisie meurt  
@@ -117,7 +117,7 @@ title: Riot
 
   <li>
     <img src="../images/Icon_exorcist.png" alt="Exorciste" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../tb_roles/exorcist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a> :  
+    <a href="../bmr_roles/exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a> :  
     Si le <a href="./riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> nomine et fait exécuter  
     le joueur choisi par l’<strong>Exorciste</strong>,  
     le Bien gagne.
@@ -141,7 +141,7 @@ title: Riot
 
   <li>
     <img src="../images/Icon_innkeeper.png" alt="Aubergiste" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../bmr_roles/innkeeper.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a> :  
+    <a href="../bmr_roles/aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a> :  
     Si le <a href="./riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> nomine et fait exécuter  
     un joueur protégé par l’<strong>Aubergiste</strong>,  
     le Bien gagne.
@@ -169,7 +169,7 @@ title: Riot
 
   <li>
     <img src="../images/Icon_monk.png" alt="Moine" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../tb_roles/monk.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> :  
+    <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> :  
     Si le <a href="./riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> nomine et fait exécuter  
     un joueur protégé par le <strong>Moine</strong>,  
     le Bien gagne.
@@ -177,7 +177,7 @@ title: Riot
 
   <li>
     <img src="../images/Icon_ravenkeeper.png" alt="Croque-Mort" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../tb_roles/ravenkeeper.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-Mort</a> :  
+    <a href="../tb_roles/gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a> :  
     Chaque nuit*, le <a href="./riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> choisit  
     un joueur bon vivant (différent des nuits précédentes) :  
     un <strong>Croque-Mort</strong> choisi utilise sa capacité  
