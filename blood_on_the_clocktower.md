@@ -201,29 +201,31 @@ title: Blood on the Clocktower
   </li>
 
   <li style="margin-top:8px;">
-    <strong>Rôles expérimentaux – The Carousel</strong> 🎠  
+   <strong>Rôles expérimentaux</strong> :
+   🎠 <a href="./experimentaux.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">The Carousel Expérimental</a>.<strong> - rôles expérimentaux.
     Des centaines de rôles en phase de test, regroupés dans cette extension.  
-    <a href="./experimentaux.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">The Carousel Expérimental</a>.
+    
   </li>
 
   <li style="margin-top:8px;">
-    <strong>Voyageurs</strong> 🧳  
+    <strong>Voyageurs</strong> 
+    🧳 <a href="./voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a>.
     Rôles très puissants pour les joueurs qui arrivent en cours de partie ou partent plus tôt.  
     Ils peuvent rejoindre ou quitter la partie à tout moment.  
-    👉 Voir la page <a href="./voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a>.
   </li>
 
   <li style="margin-top:8px;">
-    <strong>Légendaires</strong> 🏰  
+    <strong>Légendaires</strong>
+    🏰 <a href="./legendaire.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Légendaires</a>.
     Rôles spéciaux pour le conteur, utilisés pour régler des situations particulières ou changer le ton d’une partie.  
-    👉 Voir la page <a href="./legendaire.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Légendaires</a>.
+    
   </li>
 
   <li style="margin-top:8px;">
-    <strong>Lorics</strong> 🌿  
+    <strong>Lorics</strong>   
+   🌿 <a href="./loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Lorics</a>.
     Règles spéciales pour le conteur qui modifient la structure de la partie.  
     Les Lorics sont là pour créer de nouveaux enjeux et surprendre le village.  
-    👉 Voir la page <a href="./loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Lorics</a>.
   </li>
 </ul>
 
