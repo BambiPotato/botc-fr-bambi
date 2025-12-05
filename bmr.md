@@ -102,6 +102,16 @@ Mais si l’équipe du Bien ne parvient pas à identifier les Sbires et les Dém
 <!-- GRID VILLAGEOIS -->
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin:8px 0 6px 0;">
 
+ <!-- VILLAGEOIS -->
+
+<p style="text-align:left; color:#e0c99d; font-size:20px;">
+  <a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
+</p>
+
+
+<!-- GRID VILLAGEOIS (13 rôles) -->
+<div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin:8px 0 6px 0;">
+
   <!-- Grand-Mère -->
   <a href="./bmr_roles/grandmere.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
     <img src="./images/Icon_grandmother.png" alt="Grand-Mère" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
@@ -168,6 +178,12 @@ Mais si l’équipe du Bien ne parvient pas à identifier les Sbires et les Dém
     <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Dame de Thé</span>
   </a>
 
+  <!-- Pacifiste -->
+  <a href="./bmr_roles/pacifiste.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
+    <img src="./images/Icon_pacifist.png" alt="Pacifiste" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
+    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Pacifiste</span>
+  </a>
+
   <!-- Fou -->
   <a href="./bmr_roles/fou.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
     <img src="./images/Icon_fool.png" alt="Fou" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
@@ -175,6 +191,7 @@ Mais si l’équipe du Bien ne parvient pas à identifier les Sbires et les Dém
   </a>
 
 </div>
+
 
 ---
 
