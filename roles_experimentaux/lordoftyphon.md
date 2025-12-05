@@ -137,7 +137,7 @@ et combien de Sbires tournent autour du Démon.
       <li>retirez tous les jetons de <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>  
           du sac ;</li>
       <li>remplacez-les par des jetons de  
-          <a href="../tb_roles.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>  
+          <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>  
           ou d’<a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a> ;</li>
       <li>choisissez <strong>en secret</strong>  
           quels joueurs seront maléfiques  
