@@ -9,7 +9,7 @@ title: Seigneur de Typhon
   </a>
 </p>
 
-<!-- Seigneur de Typhon (Lord of Typhon) -->
+<!-- Seigneur de Typhon /Lord of Typhon -->
 
 <div style="text-align:center; margin: 20px 0%;">
   <a href="./lordoftyphon.html" style="text-decoration:none;">
