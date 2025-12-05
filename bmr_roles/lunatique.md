@@ -124,7 +124,7 @@ Le **Lunatique** est un Étranger fascinant : il croit semer la terreur, alors q
 
 ---
 
-### 😇 Quand vous découvrez que vous êtes bon  
+### 😇 <span style="color:blue">Quand vous découvrez que vous êtes bon</span>   
 
 Une fois que vous réalisez votre nature, **changez immédiatement de camp** : vous jouez désormais pour le Bien !  
 Ne le révélez pas trop tôt : laissez le <span style="color:red">Démon</span> croire que vous êtes toujours sous son influence.  
