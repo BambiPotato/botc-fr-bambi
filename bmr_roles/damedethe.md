@@ -98,8 +98,8 @@ La **Dame de Thé** protège ses voisins de la mort… **tant qu’ils sont tous
   Le [<span style="color:red">Démon</span>](../demons.md) attaque le [Courtisan](courtisan.md), mais celui-ci **reste en vie**.  
   Plus tard, la [Brute](brute.md) devient [<span style="color:red">maléfique</span>](../sbires.md) : le Démon attaque à nouveau le Courtisan — cette fois, **il meurt**.  
 
-- Les voisins vivants de la Dame de Thé sont la [<span style="color:#9b59b6">Matrone</span>](matron.md) et le [<span style="color:#9b59b6">Juge</span>](../voyageurs/judge.md), tous deux bons.  
-  La  [<span style="color:#9b59b6">Matrone</span>](matron.md) est exilée mais **reste en vie**.  
+- Les voisins vivants de la Dame de Thé sont la [<span style="color:#9b59b6">Matrone</span>](matrone.md) et le [<span style="color:#9b59b6">Juge</span>](../voyageurs/judge.md), tous deux bons.  
+  La  [<span style="color:#9b59b6">Matrone</span>](matrone.md) est exilée mais **reste en vie**.  
 
 ---
 
