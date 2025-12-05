@@ -22,7 +22,7 @@ title: Grand-Mère
 <!-- APPARAÎT DANS -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="../bmr.html" style="text-decoration:none;">
-    <img src="../images/Logo_badmoonrising.png" alt="Bad Moon Rising" width="260" style="border-radius:12px;">
+    <img src="../images/LLogo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="260" style="border-radius:12px;">
     <br>
     <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🌝 Apparaît dans : Bad Moon Rising</span>
   </a>
