@@ -10,170 +10,181 @@ title: Blood on the Clocktower
 </p>
 
 <style>
-  h1, h2 {
-    color:#e0c99d !important;
-    text-align:center;
-  }
+  h1, h2 { color:#e0c99d !important; text-align:center; }
   hr.section {
     border:0;
     border-top:1px solid #4a3e2a;
     margin:35px 0;
   }
-  .intro-box {
+  .intro-box, .sub-box {
     background:rgba(50, 42, 30, 0.35);
-    padding:25px 30px;
-    border-left:4px solid #4a3e2a;
+    padding:22px 26px;
     border-radius:6px;
-    margin:25px 0;
-  }
-  .sub-box {
-    background:rgba(20, 18, 14, 0.4);
-    padding:18px 22px;
-    border-radius:6px;
-    margin:16px 0;
+    margin:22px 0;
   }
 </style>
 
 <h1 style="font-size:42px; font-weight:bold; margin-bottom:10px;">
-  🕰️ Blood on the Clocktower
+  🕰️ <span style="color:#b58b52;">Blood on the Clocktower</span>
 </h1>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:20px; margin-top:-15px;">
-  « Quand le clocher sonne, chacun cache un secret. »
+  « Quand le clocher sonne, chacun cache un secret… »
 </p>
 
 <hr class="section">
 
-<!-- INTRO -->
+<!-- ======================= -->
+<!-- INTRODUCTION -->
+<!-- ======================= -->
+
 <div class="intro-box">
   <p style="color:#e0c99d; font-size:18px; line-height:1.8; text-align:justify;">
 
-    <em>Blood on the Clocktower</em> est un jeu de déduction sociale proche des  
-    <strong>Loups-Garous de Thiercelieux</strong> et du jeu <strong>Mafia</strong>,  
-    mais avec des mécaniques modernes, plus fluides et plus justes.
-    Les joueurs conservent un rôle actif même après leur mort, et l’expérience est guidée par un Conteur.
+    <strong>Blood on the Clocktower</strong> est un <strong>jeu de déduction sociale</strong> proche des  
+    <em>Loups-Garous de Thiercelieux</em> et de <em>Mafia</em>, mais plus narratif, plus stratégique  
+    et surtout pensé pour que chacun continue à jouer jusqu'à la fin.
 
     <br><br>
 
-    Le jeu est créé par l’australien <strong>Steven Medway</strong>, qui cherchait à améliorer les jeux de bluff classiques :
-    plus immersifs, plus équilibrés, moins frustrants.  
-    Il est ensuite développé et édité par <strong>The Pandemonium Institute</strong>, un studio basé en Australie.
+    Le jeu est créé en Australie par <strong>Steven Medway</strong>, qui l’a développé pendant plus de dix ans  
+    dans des groupes de rôlistes et en conventions, avant son immense succès sur <strong>Kickstarter (2019)</strong>.  
+    Il est édité par le studio australien <strong>The Pandemonium Institute</strong>.
 
     <br><br>
 
-    En 2019, une campagne Kickstarter finance l’édition complète avec ses trois scripts principaux :
-    <br>• 🍺 <a href="./trouble_brewing.html" style="color:#b58b52; text-decoration:none;">Trouble Brewing</a>  
-    • 💐 <a href="./sv.html" style="color:#d67bff; text-decoration:none;">Sects &amp; Violets</a>  
-    • 🌛 <a href="./bmr.html" style="color:#ffa64d; text-decoration:none;">Bad Moon Rising</a>
-
-    <br><br>
-
-    Depuis, le jeu existe :
-    <br>• en version physique,  
-    • via une application,  
-    • dans de nombreuses communautés Discord,  
-    • en streaming sur Twitch et YouTube.
-
-    <br><br>
-
-    Blood on the Clocktower évolue également avec :
-    <br>• des rôles expérimentaux (<em>The Carousel</em>),  
-    • des scripts créés par la communauté,  
-    • des outils narratifs pour les Conteurs comme les  
-      <a href="./legendaire.html" style="color:#e0c99d; text-decoration:none; font-weight:bold;">Légendaires</a>  
-      et les  
-      <a href="./loric.html" style="color:#7fd1ae; text-decoration:none; font-weight:bold;">Lorics</a>.
+    Aujourd’hui, Blood on the Clocktower existe :
+    <br>• en <strong>version physique</strong> ;  
+    <br>• via une <strong>application</strong> ;  
+    <br>• dans de nombreuses <strong>communautés Discord</strong> ;  
+    <br>• en <strong>streams</strong> réguliers sur Twitch et YouTube.
   </p>
 </div>
 
 <hr class="section">
 
-<!-- COMMENT JOUER -->
-<h2>⚔️ Comment se déroule une partie ?</h2>
+<!-- ======================= -->
+<!-- COMMENT SE JOUE BOTC -->
+<!-- ======================= -->
+
+<h2>⚔️ <span style="color:#e0c99d;">Comment se joue Blood on the Clocktower ?</span></h2>
 
 <div class="sub-box">
   <p style="color:#e0c99d; font-size:18px; line-height:1.8; text-align:justify;">
 
-    Le jeu se passe dans le village de <strong>Ravenswood Bluff</strong>.  
-    Chaque joueur reçoit un rôle secret appartenant au :
+    Une partie se déroule dans le village de <strong>Ravenswood Bluff</strong> et oppose deux équipes :
 
     <br><br>
 
-    • <span style="color:#4ea3ff; font-weight:bold;">Bien</span>  
-      (<a href="./villageois.html" style="color:#4ea3ff; text-decoration:none;">Villageois</a>,  
-       <a href="./etrangers.html" style="color:#4ea3ff; text-decoration:none;">Étrangers</a>)  
-    <br>
-    • <span style="color:#d45b5b; font-weight:bold;">Mal</span>  
-      (<a href="./sbires.html" style="color:#d45b5b; text-decoration:none;">Sbires</a>,  
-       <a href="./demons.html" style="color:#d45b5b; text-decoration:none;">Démons</a>)  
-    <br>
-    • un <a href="./conteur.html" style="color:#e0c99d; text-decoration:none; font-weight:bold;">Conteur</a> neutre, chargé de gérer la partie.
+    <strong style="color:#4ea3ff;">Le Bien</strong>  
+    — composé des <a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>  
+    et des <a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>.  
+    Leur objectif est de <strong>démasquer puis exécuter le Démon</strong>.
 
     <br><br>
 
-    <strong>Phase de Jour</strong>  
-    Les joueurs débattent, partagent leurs théories, accusent et votent.  
-    Un joueur peut être exécuté.  
-    Les morts conservent la parole et un dernier vote.
+    <strong style="color:red;">Le Mal</strong>  
+    — composé des <a href="./sbires.html" style="color:red; font-weight:bold; text-decoration:none;">Sbires</a>  
+    et du <a href="./demons.html" style="color:red; font-weight:bold; text-decoration:none;">Démon</a>.  
+    Leur but est d'<strong>éliminer suffisamment de joueurs</strong> pour que,  
+    à la fin de la partie, il ne reste <strong>que deux joueurs vivants, dont le Démon</strong>.
 
     <br><br>
 
-    <strong>Phase de Nuit</strong>  
-    Le village “s’endort”.  
-    Le Démon choisit une victime et les rôles nocturnes agissent dans un ordre précis.
+    Le jeu alterne deux phases :
 
     <br><br>
 
-    <strong>Victoire :</strong><br>
-    • Le Bien gagne en exécutant le Démon.  
-    • Le Mal gagne lorsqu’il ne reste plus que deux joueurs vivants.
+    <strong>• Phase de Jour</strong>  
+    Discussions, théories et vote pour exécuter un joueur.  
+    Même morts, les joueurs conservent la parole et un dernier vote.
+
+    <br><br>
+
+    <strong>• Phase de Nuit</strong>  
+    Le Conteur anime les actions nocturnes :  
+    pouvoirs d'information, protection, chaos… et le Démon choisit une victime.
+
   </p>
 </div>
 
 <hr class="section">
 
-<!-- ROLES -->
-<h2>🧩 Les catégories de rôles</h2>
+<!-- ======================= -->
+<!-- FAMILLES DE RÔLES -->
+<!-- ======================= -->
+
+<h2>🧩 <span style="color:#e0c99d;">Les grandes familles de rôles</span></h2>
 
 <ul style="color:#e0c99d; font-size:19px; line-height:1.9;">
-  <li><a href="./villageois.html" style="color:#4ea3ff; text-decoration:none; font-weight:bold;">Villageois</a> – rôles du Bien possédant information ou protection.</li>
-  <li><a href="./etrangers.html" style="color:#4ea3ff; text-decoration:none; font-weight:bold;">Étrangers</a> – rôles du Bien avec une contrainte qui complique la partie.</li>
-  <li><a href="./sbires.html" style="color:#d45b5b; text-decoration:none; font-weight:bold;">Sbires</a> – alliés du Démon, perturbateurs et manipulateurs.</li>
-  <li><a href="./demons.html" style="color:#d45b5b; text-decoration:none; font-weight:bold;">Démons</a> – antagonistes principaux à éliminer pour gagner.</li>
+  <li>
+    <strong><a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a></strong>  
+    — rôles du Bien apportant information, protection ou contrôle.
+  </li>
+
+  <li>
+    <strong><a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a></strong>  
+    — rôles du Bien avec une faiblesse ou un effet imprévisible.
+  </li>
+
+  <li>
+    <strong><a href="./sbires.html" style="color:red; font-weight:bold; text-decoration:none;">Sbires</a></strong>  
+    — soutiennent le Démon et sèment la confusion.
+  </li>
+
+  <li>
+    <strong><a href="./demons.html" style="color:red; font-weight:bold; text-decoration:none;">Démon</a></strong>  
+    — ennemi du Village à éliminer pour que le Bien gagne.
+  </li>
+
+  <li>
+    <strong><a href="./voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a></strong>  
+    — rôles spéciaux pouvant rejoindre ou quitter la partie à tout moment.
+  </li>
+
+  <li>
+    <strong><a href="./legendaire.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Légendaires</a></strong>  
+    — outils narratifs utilisés par le Conteur.
+  </li>
+
+  <li>
+    <strong><a href="./loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Lorics</a></strong>  
+    — rôles spéciaux pour les Conteurs influençant la structure ou l’atmosphère d’une partie.
+  </li>
 </ul>
 
 <hr class="section">
 
-<!-- UNIQUE -->
-<h2>🎭 Ce qui rend Blood on the Clocktower unique</h2>
+<!-- ======================= -->
+<!-- CE QUI REND BOTC UNIQUE -->
+<!-- ======================= -->
+
+<h2>🎭 <span style="color:#e0c99d;">Pourquoi ce jeu est unique</span></h2>
 
 <ul style="color:#e0c99d; font-size:19px; line-height:1.9;">
-  <li>Les morts continuent de jouer et peuvent encore voter.</li>
-  <li>Un rôle essentiel : le <a href="./conteur.html" style="color:#e0c99d; text-decoration:none; font-weight:bold;">Conteur</a>, garant de l’équilibre et de la narration.</li>
-  <li>Trois éditions principales aux ambiances distinctes :
-    <ul>
-      <li>🍺 <a href="./trouble_brewing.html" style="color:#b58b52; text-decoration:none;">Trouble Brewing</a></li>
-      <li>💐 <a href="./sv.html" style="color:#d67bff; text-decoration:none;">Sects &amp; Violets</a></li>
-      <li>🌛 <a href="./bmr.html" style="color:#ffa64d; text-decoration:none;">Bad Moon Rising</a></li>
+
+  <li>☠️ Les morts continuent de jouer : ils gardent la parole et un vote de mort.</li>
+
+  <li>📜 La présence d’un <a href="./conteur.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Conteur</a>  
+  qui gère l’ambiance, le narratif, l'équilibre et tous les rôles.</li>
+
+  <li>🧩 Des scripts très différents selon l’édition :
+    <ul style="margin-top:5px;">
+      <li>🍺 <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+      <li>💐 <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a></li>
+      <li>🌛 <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
     </ul>
   </li>
-  <li>Des outils narratifs pour Conteurs :
-    <a href="./legendaire.html" style="color:#e0c99d; text-decoration:none; font-weight:bold;">Légendaires</a>  
-    et  
-    <a href="./loric.html" style="color:#7fd1ae; text-decoration:none; font-weight:bold;">Lorics</a>.
-  </li>
-  <li>Les <span style="color:#9b59b6; font-weight:bold;">Voyageurs</span> – rôles spéciaux pouvant rejoindre ou quitter une partie en cours.</li>
-  <li>Une communauté mondiale très active, créant scripts, évènements et variantes.</li>
+
+  <li>🌍 Une communauté mondiale active : scripts, événements, campagnes narratives.</li>
 </ul>
 
 <hr class="section">
 
-<p style="text-align:center; color:#e0c99d; font-size:19px;">
-  📘 Lire les <a href="./regles.html" style="color:#e0c99d; text-decoration:none; font-weight:bold;">règles complètes du jeu</a>
+<p style="color:#e0c99d; font-size:19px; text-align:center;">
+  📘 Lire les <a href="./regles.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">règles complètes</a>
 </p>
 
-<hr class="section">
-
 <ul style="color:#e0c99d; font-size:18px;">
-  <li>🏠 <a href="./index.html" style="color:#e0c99d; text-decoration:none; font-weight:bold;">Retour à l’accueil</a></li>
+  <li>🏠 <a href="./index.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
 </ul>
