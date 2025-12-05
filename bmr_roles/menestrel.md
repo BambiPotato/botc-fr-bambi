@@ -63,11 +63,11 @@ title: Menestrel
 
 ## 📖 <span style="color:blue">Résumé</span>  
 
-**« Lorsqu’un [<span style="color:red">Sbire</span>](../sbires.md) meurt par exécution, tous les autres joueurs (sauf les [Voyageurs](../voyageurs/voyageurs.md)) deviennent ivres jusqu’au crépuscule du lendemain. »**
+**« Lorsqu’un [<span style="color:red">Sbire</span>](../sbires.md) meurt par exécution, tous les autres joueurs (sauf les [<span style="color:#9b59b6">Voyageurs</span>](../voyageurs/voyageurs.md)) deviennent ivres jusqu’au crépuscule du lendemain. »**
 
 Le **Ménestrel** rend tout le monde ivre lorsqu’un [<span style="color:red">Sbire</span>](../sbires.md) meurt **par exécution**.
 
-- Si un [<span style="color:red">Sbire</span>](../sbires.md) est exécuté **et meurt**, tous les joueurs (sauf le Ménestrel et les [Voyageurs](../voyageurs/voyageurs.md)) deviennent immédiatement **ivres** pour **toute la nuit suivante et la journée suivante**.  
+- Si un [<span style="color:red">Sbire</span>](../sbires.md) est exécuté **et meurt**, tous les joueurs - sauf ( le Ménestrel et les [<span style="color:#9b59b6">Voyageurs</span>](../voyageurs/voyageurs.md) ) deviennent immédiatement **ivres** pour **toute la nuit suivante et la journée suivante**.  
 - Cela inclut les [Villageois](../villageois.md), [Étrangers](../etrangers.md), [<span style="color:red">Sbires</span>](../sbires.md), et même les [<span style="color:red">Démons</span>](../demons.md).  
 - Les [<span style="color:#9b59b6">Voyageurs</span>](../voyageurs/voyageurs.md) ne sont **pas affectés**.  
 - Si le [<span style="color:red">Sbire</span>](../sbires.md) meurt pendant la nuit, **l’effet ne se déclenche pas**.  
