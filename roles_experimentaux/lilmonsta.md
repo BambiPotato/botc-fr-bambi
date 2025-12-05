@@ -79,8 +79,8 @@ ou à n’importe quel autre joueur.
     <ul style="margin-left:20px;">
       <li>un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> ;</li>
       <li>un <a href="../tb_roles.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> ;</li>
-      <li>un <a href="../etrangers.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Étranger</a> ;</li>
-      <li>ou même un <a href="../voyageurs.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyageur</a>.</li>
+      <li>un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a> ;</li>
+      <li>ou même un <a href="../voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>.</li>
     </ul>
   </li>
 
@@ -130,7 +130,7 @@ ou à n’importe quel autre joueur.
 
   <li>
     <img src="../images/Icon_marionette.png" alt="Marionnette" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/marionette.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marionnette</a> :  
+    <a href="../roles_experimentaux/marionette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> :  
     S’il doit y avoir une <strong>Marionnette</strong> en jeu,  
     elle entre en jeu après le Démon  
     et doit commencer comme son voisin direct.
@@ -164,7 +164,7 @@ ou à n’importe quel autre joueur.
 
   <li>
     <img src="../images/Icon_vizier.png" alt="Vizir" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/vizier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Vizir</a> :  
+    <a href="../roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a> :  
     Si le <strong>Vizir</strong> garde le P’tit Monstre,  
     il meurt lorsqu’il est exécuté.
   </li>
