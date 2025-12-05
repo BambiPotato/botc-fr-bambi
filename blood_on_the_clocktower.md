@@ -196,7 +196,7 @@ title: Blood on the Clocktower
     <br>
     💐 <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a> – rôles étranges, effet “casse-tête”.
     <br>
-    🌛 <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a> – très dynamique et mortel.
+    🌛 <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a> – dynamique lente mais mortel.
   </li>
 
   <br>
