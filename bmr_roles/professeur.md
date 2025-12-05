@@ -5,7 +5,7 @@ title: Professeur
 
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
+    <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
@@ -26,7 +26,7 @@ title: Professeur
 
 ---
 
-## ℹ️ Informations  
+## ℹ️  <span style="color:blue">Informations</span>  
 
 - **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)  
 - **Artiste :** Aidan Roberts 
@@ -60,7 +60,7 @@ title: Professeur
 
 ---
 
-## 📖 Résumé  
+## 📖 <span style="color:blue">Résumé</span>    
 
 > **Une fois par partie, pendant la nuit, choisissez un joueur mort : si c’est un Villageois, il revient à la vie.** 
 > **Le Professeur peut ressusciter un joueur.**  
@@ -71,7 +71,7 @@ title: Professeur
 
 ---
 
-## 🎬 Mise en place  
+## 🎭 <span style="color:blue">Comment Conter</span>  
 
 - Chaque nuit (sauf la première), réveillez le Professeur.  
 - Il peut secouer la tête (ne rien faire) ou choisir un joueur mort.  
@@ -80,7 +80,7 @@ title: Professeur
 
 ---
 
-## 🧾 Exemples  
+## 🧩 <span style="color:blue">Exemples</span>   
 
 - Le Professeur choisit un joueur mort prétendant être la [Dame de Thé](damedethe.md). En réalité, c’était le [Lunatique](lunatique.md). → Personne n’est ressuscité.  
 
@@ -90,7 +90,7 @@ title: Professeur
 
 ---
 
-## 💡 Astuces & Conseils  
+## 💡 <span style="color:blue">Astuces & Conseils</span>  
 
 - Utilisez votre pouvoir **tôt** : les joueurs <span style="color:red">Maléfiques</span> tenteront sûrement de vous tuer rapidement.  
 - Utilisez-le **tard** : ressusciter un joueur confirmé en fin de partie peut totalement renverser la situation.  
@@ -101,7 +101,7 @@ title: Professeur
 
 ---
 
-## 🎭 Bluff en tant que Professeur  
+## 🎭 <span style="color:blue">Bluffer Professeur</span>  
 
 - Préparez une explication si votre capacité « échoue ».  
 - Prétendez avoir essayé de ressusciter un joueur suspect : si ça ne marche pas, cela vous rend crédible.  
