@@ -6,7 +6,7 @@ title: Lunatique
 
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
+    <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
@@ -25,7 +25,7 @@ title: Lunatique
 
 ---
 
-## ℹ️ Informations  
+## ℹ️ <span style="color:blue">Informations</span>  
 
 - **Type :** [<span style="color:blue">Étranger</span>](../etrangers.md)    
 - **Artiste :** Aidan Roberts 
@@ -59,7 +59,7 @@ title: Lunatique
 
 
 
-## 📖 Résumé  
+## 📖 <span style="color:blue">Résumé</span>  
 
 
 
@@ -67,28 +67,26 @@ title: Lunatique
 
 Le **Lunatique** pense être le **<span style="color:red">Démon</span>**, mais ne l’est pas.  
 
-Tout comme le [Ivre](../glossaire.md#ivre), le Lunatique ignore son véritable rôle et son véritable alignement.  
-Chaque nuit, il se réveille et agit comme s’il était le Démon en jeu (par exemple un [<span style="color:red">Shabaloth</span>](shabaloth.md), un [<span style="color:red">Po</span>](po.md), etc.), mais **ses choix n’ont aucun effet**.  
-Le **vrai <span style="color:red">Démon</span>** sait qui est le Lunatique et voit les joueurs qu’il choisit chaque nuit.
-
+Tout comme l' [Ivrogne](../ivrogne.md), le Lunatique ignore sa véritable nature et son alignement véritable.   
+Chaque nuit, il se réveille et agit comme s’il était le Démon en jeu, par exemple un [<span style="color:red">Shabaloth</span>](shabaloth.md), un [<span style="color:red">Po</span>](po.md), mais **ses choix n’ont aucun effet**.  
+Le **vrai <span style="color:red">Démon</span>** sait qui est le Lunatique et quels joueurs le Lunatique choisit d'attaquer chaque nuit.
 Le Lunatique apprend également des informations erronées lors de la première nuit : il pense connaître ses [<span style="color:red">Sbires</span>](../sbires.md) et reçoit trois bluffs de rôles bons, comme un Démon normal.
 
 ---
 
-## 🎬 Comment Conter  
+## 🎭 <span style="color:blue">Comment Conter</span>  
 
 **Mise en place :**  
 - Placez les jetons du **<span style="color:red">Démon</span>** et du **Lunatique** dans le sac avant la distribution.  
-- Après attribution, intervertissez leurs positions dans le **Grimoire**.  
-  → Le Lunatique croit être le Démon, le Démon sait qu’il est le vrai Démon.  
+- Une fois tous les jetons récupérés, échangez leurs positions dans le Grimoire.
 
 **Première nuit :**  
 1. Réveillez le Lunatique, montrez-lui le jeton « **Voici vos Sbires** » et pointez un nombre de joueurs correspondant au nombre de Sbires en jeu (peu importe qui).  
 2. Montrez-lui **trois jetons de rôles bons** comme bluffs (même s’ils sont réellement en jeu).  
 3. Endormez-le.  
 4. Réveillez ensuite le vrai <span style="color:red">Démon</span> et montrez-lui :  
-   - le jeton « **Vous êtes** » + son rôle de Démon réel,  
-   - puis le jeton « **Ce joueur est** » + le rôle du Lunatique, en le pointant.  
+   - le jeton « **Vous êtes** » puis son jeton Démon. ( Cela lui indique qu'il est le véritable Démon. )  
+   - puis le jeton « **Ce joueur est** » puis le jeton Lunatique, et désignez le joueur Lunatique. 
 
 **Chaque nuit suivante :**  
 1. Avant de réveiller le Démon, réveillez le Lunatique.  
@@ -98,7 +96,7 @@ Le Lunatique apprend également des informations erronées lors de la première 
 
 ---
 
-## 🧾 Exemples  
+## 🧩 <span style="color:blue">Exemples</span>  
 
 - Le Lunatique, croyant être un [<span style="color:red">Shabaloth</span>](shabaloth.md), choisit deux joueurs chaque nuit — mais personne ne meurt.  
 - Le Lunatique, persuadé d’être un [<span style="color:red">Zombuul</span>](zombuul.md), ne se réveille presque jamais, tandis que le vrai Zombuul imite ses choix pour entretenir l’illusion.  
@@ -106,7 +104,7 @@ Le Lunatique apprend également des informations erronées lors de la première 
 
 ---
 
-## 💡 Astuces & Stratégies  
+## 💡 <span style="color:blue">Astuces & Stratégies</span>  
 
 Le **Lunatique** est un Étranger fascinant : il croit semer la terreur, alors qu’il joue pour le **Bien** sans le savoir.
 
@@ -139,16 +137,16 @@ Quand vous êtes sûr(e), annoncez publiquement votre rôle :
 
 ---
 
-## 🎭 Bluff en tant que Lunatique  
+## 😈 <span style="color:blue">Bluffer Lunatique</span>   
 
-### 💀 Pour un joueur bon :  
+### 😇 Pour un joueur <span style="color:blue">bon</span>  :  
 - Bluffez un rôle maléfique (comme un <span style="color:red">Démon</span>) pendant un moment, puis « réalisez » que vous êtes le Lunatique.  
   Ce retournement est très crédible et souvent efficace.  
 
 - Simulez un moment d’épiphanie sincère : « Oh ! Je crois que je ne suis pas le Démon après tout ! »  
   Les joueurs bons croient plus facilement aux émotions qu’aux explications logiques.  
 
-### 😈 Pour un joueur maléfique :  
+### 😈 Pour un joueur <span style="color:red">maléfique</span> :  
 - Ce bluff est excellent pour un <span style="color:red">Sbire</span> : prétendez avoir cru être le Démon avant de découvrir la vérité.  
   Cela crée de la confusion et attire la sympathie du Bien.  
 
@@ -159,11 +157,8 @@ Quand vous êtes sûr(e), annoncez publiquement votre rôle :
   Cela le fera douter, et il pourra lui-même finir par se révéler publiquement comme « Lunatique repenti » — au bénéfice du Mal.  
 
 ---
-
-<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌛 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
-  <li>💈 <a href="../etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Étrangers</a></li>
-</ul>
+<p style="text-align:left; font-size:18px; margin-top:20px;">
+  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+  💈 <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Étrangers</a><br>
+  🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+</p>
