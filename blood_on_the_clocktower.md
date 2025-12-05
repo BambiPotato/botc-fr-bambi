@@ -40,7 +40,7 @@ title: Blood on the Clocktower
 <!-- ======================= -->
 
 <h1 style="font-size:40px; font-weight:bold; margin-bottom:10px;">
-  🕰️ Qu’est-ce que <em>Blood on the Clocktower</em> ?
+  🕰️ <span style="color:#b58b52;">Qu’est-ce que <em>Blood on the Clocktower</em> ?</span>
 </h1>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:20px; margin-top:-15px;">
@@ -90,7 +90,9 @@ title: Blood on the Clocktower
 <!-- FONCTIONNEMENT DU JEU -->
 <!-- ======================= -->
 
-<h2 style="font-size:26px;">⚔️ Comment se joue <em>Blood on the Clocktower</em> ?</h2>
+<h2 style="font-size:26px;">
+  ⚔️ <span style="color:#b58b52;">Comment se joue <em>Blood on the Clocktower</em> ?</span>
+</h2>
 
 <div class="sub-box">
   <p style="color:#f5f5f5; font-size:18px; line-height:1.8; text-align:justify;">
@@ -133,7 +135,7 @@ title: Blood on the Clocktower
 
     <strong>Une Phase de Nuit 🌚</strong>  
     Le village “dort”, les yeux se ferment.  
-     Le Démon choisit une victime et certains rôles agissent selon l’ordre de nuit officiel (information, protection, chaos…).
+    Le Démon choisit une victime et certains rôles agissent selon l’ordre de nuit officiel (information, protection, chaos…).
 
     <br><br>
 
@@ -150,7 +152,9 @@ title: Blood on the Clocktower
 <!-- LES GRANDES FAMILLES -->
 <!-- ======================= -->
 
-<h2 style="font-size:26px;">🧩 Les grandes familles de rôles</h2>
+<h2 style="font-size:26px;">
+  🧑‍🧑‍🧒‍🧒 <span style="color:#b58b52;">Les grandes familles de rôles</span>
+</h2>
 
 <ul style="color:#f5f5f5; font-size:19px; line-height:1.9;">
   <li>
@@ -180,16 +184,18 @@ title: Blood on the Clocktower
 <!-- EDITIONS ET CONTENUS -->
 <!-- ======================= -->
 
-<h2 style="font-size:26px;">📜 Éditions, rôles spéciaux et contenus</h2>
+<h2 style="font-size:26px;">
+  📜 <span style="color:#b58b52;">Éditions, rôles spéciaux et contenus</span>
+</h2>
 
 <ul style="color:#f5f5f5; font-size:19px; line-height:1.9;">
 
   <li>
     <strong>Éditions principales</strong> :
     <br>
-    🍺 <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a> – idéale pour découvrir le jeu.  
-    💐 <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a> – rôles étranges, effet “casse-tête”.  
-    🌛 <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a> – très dynamique et mortel.
+    - 🍺 <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a> – idéale pour découvrir le jeu.  
+    - 💐 <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a> – rôles étranges, effet “casse-tête”.  
+    - 🌛 <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a> – très dynamique et mortel.
   </li>
 
   <li style="margin-top:8px;">
@@ -225,7 +231,9 @@ title: Blood on the Clocktower
 <!-- CRÉATEUR & STUDIO -->
 <!-- ======================= -->
 
-<h2 style="font-size:26px;">👤 Le créateur et le studio</h2>
+<h2 style="font-size:26px;">
+  👤 <span style="color:#b58b52;">Le créateur et le studio</span>
+</h2>
 
 <div class="sub-box">
   <p style="color:#f5f5f5; font-size:18px; line-height:1.8; text-align:justify;">
@@ -246,7 +254,9 @@ title: Blood on the Clocktower
 <!-- ESPRIT DU JEU -->
 <!-- ======================= -->
 
-<h2 style="font-size:26px;">🧩 Esprit et philosophie du jeu</h2>
+<h2 style="font-size:26px;">
+  💭 <span style="color:#b58b52;">Esprit et philosophie du jeu</span>
+</h2>
 
 <ul style="color:#f5f5f5; font-size:19px; line-height:1.9;">
   <li>
