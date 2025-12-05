@@ -90,7 +90,7 @@ Placez le jeton de rappel **« TOUT LE MONDE EST IVRE »** au centre du Grimoire
 ## 🧩 <span style="color:blue">Exemples</span>  
 
 - **Premier jour :** le [Pacifiste](pacifiste.md) meurt. Rien ne se passe.  
-  **Deuxième jour :** le [<span style="color:#9b59b6">Juge/span>](../voyageurs/judge.md) fait exécuter le [<span style="color:red">Parrain</span>](parrain.md). Cette nuit-là, tout le monde est ivre, y compris le [<span style="color:red">Démon</span>](../demons.md), donc personne ne meurt.  
+  **Deuxième jour :** le [<span style="color:#9b59b6">Juge</span>](../voyageurs/judge.md) fait exécuter le [<span style="color:red">Parrain</span>](parrain.md). Cette nuit-là, tout le monde est ivre, y compris le [<span style="color:red">Démon</span>](../demons.md), donc personne ne meurt.  
   **Troisième jour :** un [<span style="color:red">Sbire</span>](../sbires.md) protégé par l’[<span style="color:red">Avocat du Diable</span>](avocatdudiable.md) est exécuté et meurt, car l’Avocat du Diable est ivre. Le Ménestrel rend à nouveau tout le monde ivre.  
 
 - L’[<span style="color:red">Assassin</span>](assassin.md) est exécuté : tout le monde devient ivre.  
