@@ -6,7 +6,7 @@ title: Fou
 
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
+    <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
@@ -25,7 +25,7 @@ title: Fou
 
 ---
 
-## ℹ️ Informations  
+## ℹ️ <span style="color:blue">Informations</span>   
 
 - **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)  
 - **Artiste :** Anica Kelsen  
@@ -58,7 +58,7 @@ title: Fou
 </p>
 
 
-## 📖 Résumé  
+## 📖 <span style="color:blue">Résumé</span>   
 
 **« La première fois que vous mourrez, vous ne mourrez pas. »**
 
@@ -66,58 +66,59 @@ Le **Fou** échappe à la mort… **une seule fois**.
 
 - La première fois que le Fou devrait mourir (quelle qu’en soit la cause), il **reste en vie**.  
 - Il **n’apprend pas** que sa capacité s’est déclenchée.  
-- Si un autre rôle l’empêche de mourir (ex. [Dame de Thé](damedethe.md), [Aubergiste](aubergiste.md)), la capacité du Fou **ne se déclenche pas**.  
+- Si un autre rôle l’empêche de mourir par exemple avec la protection d'une [Dame de Thé](damedethe.md), ou d'un [Aubergiste](aubergiste.md)), la capacité du Fou **ne se déclenche pas**.  
 
 ---
 
-## 🎬 Comment Conter  
+## 🎭 <span style="color:blue">Comment Conter</span>   
 
 - Si le Fou **devrait mourir**, il **reste en vie** (sauf s’il est ivre ou empoisonné).  
 - S’il est **exécuté**, annoncez qu’il a été exécuté **mais reste en vie** — sans en expliquer la raison.  
-- Placez ensuite le jeton de rappel **« AUCUNE CAPACITÉ »** : son pouvoir est perdu pour le reste de la partie.  
+- Placez ensuite le jeton de rappel **« AUCUNE CAPACITÉ »** : son pouvoir est utilié pour le reste de la partie.  
 
 ---
 
-## 🧾 Exemples  
+## 🧩  <span style="color:blue">Exemples</span>  
 
 - Le premier jour, le Fou est exécuté mais **survit**.  
   Le quatrième jour, il est exécuté à nouveau : cette fois, il **meurt**.  
 
 - Le [<span style="color:red">Démon</span>](../demons.md) attaque le Fou : il **survit**. Personne ne meurt cette nuit-là.  
-  Le lendemain, le [Juge](../voyageurs/juge.md) fait exécuter le Fou, qui **meurt**.  
+  Le lendemain, le [<span style="color:#9b59b6">Juge</span>](../voyageurs/judge.md) fait exécuter le Fou, qui **meurt**.  
 
-- Le [<span style="color:red">Démon</span>](../demons.md) attaque le Fou, protégé par la [Dame de Thé](damedethe.md) : il survit et **garde sa capacité**.  
-  Plus tard, après la mort de la Dame de Thé, le [<span style="color:red">Démon</span>](../demons.md) l’attaque à nouveau : le Fou est protégé par l’[Aubergiste](aubergiste.md).  
-  Enfin, lorsque l’Aubergiste meurt, le [<span style="color:red">Démon</span>](../demons.md) attaque une troisième fois :  
+- Le [<span style="color:#red">Démon</span>](../demons.md) attaque le Fou, protégé par la [Dame de Thé](damedethe.md) : il survit et **garde sa capacité**.  
+  Plus tard, après la mort de la [Dame de Thé](damedethe.md), le [<span style="color:red">Démon</span>](../demons.md) l’attaque à nouveau : 
+  le Fou est protégé par l’[Aubergiste](aubergiste.md).  
+  Enfin, lorsque l’[Aubergiste](aubergiste.md) meurt, le [<span style="color:red">Démon</span>](../demons.md) attaque une troisième fois :  
   le Fou survit **grâce à sa propre capacité**, mais la perd ensuite.  
 
 ---
 
-## 💡 Astuces & Stratégie  
+## 💡 <span style="color:blue">Astuces & Stratégie</span>   
 
 Le **Fou** est un rôle de survie : il peut **respirer une fois de plus** dans un monde sanglant.  
-Mais bien joué, il peut aussi **protéger des alliés** et **piéger le Mal**.  
+Mais bien joué, il peut aussi **protéger des alliés** et **piéger les Maléfiques**.  
 
-### 🤡 Jouer avec audace  
+### 🤡 <span style="color:blue">Jouer avec audace</span>  
 
 - Votre capacité vous protège **une seule fois**.  
-  Utilisez-la pour **bluffer** : prétendez être un [Exorciste](exorciste.md) ou un [Courtisan](courtisan.md) afin d’attirer le tir du [<span style="color:red">Démon</span>](../demons.md).  
+  Utilisez-la pour **bluffer** : prétendez être un [Exorciste](exorciste.md) ou un [Courtisan](courtisan.md) afin d’attirer du [<span style="color:red">Démon</span>](../demons.md).  
 - Contre des Démons comme le [<span style="color:red">Po</span>](po.md) ou le [<span style="color:red">Shabaloth</span>](shabaloth.md), c’est une excellente tactique :  
   s’ils vous visent, vous survivez… et un autre joueur bon aussi !  
 
-### ⚖️ L’exécution comme preuve  
+### ⚖️ <span style="color:blue">L’exécution comme preuve</span>    
 
-- Si la ville doute de vous, proposez une **exécution volontaire** :  
+- Si le Village doute de vous, proposez une **exécution volontaire** :  
   vous ne mourrez pas, ce qui prouve (en apparence) votre rôle.  
 - Attention toutefois : cette preuve **n’est pas absolue** — un [<span style="color:red">Avocat du Diable</span>](avocatdudiable.md) pourrait produire le même effet.  
 - Perdre votre capacité ainsi vous rend vulnérable la nuit suivante : pesez le risque.  
 
-### 🔍 Observer les morts  
+### 🔍 <span style="color:blue">Observer les morts</span>   
 
-- Si le rythme des morts change (ex. une mort de moins dans la nuit), il est possible que votre capacité se soit déclenchée.  
+- Si le rythme des morts change par exemple une mort de moins dans la nuit, il est possible que votre capacité se soit déclenchée.  
 - Vous pouvez alors déduire que le [<span style="color:red">Démon</span>](../demons.md) vous a visé.  
 
-### 🛡️ Protéger et détourner  
+### 🛡️ <span style="color:blue">Protéger et détourner</span>  
 
 - Vous pouvez **bluffer** pour protéger un autre joueur.  
   Par exemple, si le [Pacifiste](pacifiste.md) veut se cacher, prétendez être lui.  
@@ -128,9 +129,7 @@ Mais bien joué, il peut aussi **protéger des alliés** et **piéger le Mal**.
 
 ---
 
-## 🎭 Bluff en tant que Fou  
-
-### 💡 Conseils de bluff  
+## 😈 <span style="color:blue">Bluffer Fou</span>   
 
 - **Pour les bons joueurs :**  
   Le Fou est un **excellent bluff défensif**.  
@@ -153,11 +152,8 @@ Mais bien joué, il peut aussi **protéger des alliés** et **piéger le Mal**.
   sa mort révélerait le mensonge, ruinant le bluff collectif.  
 
 ---
-
-<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌛 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
-  <li>🧑‍🌾 <a href="../villageois.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
-</ul>
+<p style="text-align:left; font-size:18px; margin-top:20px;">
+  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
+  🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+</p>
