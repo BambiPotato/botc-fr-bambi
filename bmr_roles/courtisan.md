@@ -25,7 +25,7 @@ title: Courtisan
 
 ---
 
-## ℹ️ Informations  
+## ℹ️ <span style="color:blue">Informations</span>  
 
 - **Type :**[<span style="color:blue">**Villageois**</span>](../villageois.md)  
 - **Artiste :** Aidan Roberts 
@@ -58,24 +58,24 @@ title: Courtisan
 </p>
 
 
-## 📖 Résumé  
+## 📖 <span style="color:blue">Résumé</span>     
 
 « Une fois par partie, la nuit, choisissez un rôle : il est ivre pendant **3 nuits et 3 jours**. »  
 
 Le **Courtisan** choisit un **rôle** (et non un joueur) qui devient ivre pendant trois nuits et trois jours, à partir de cette nuit.  
 
-- Le Courtisan ne sait pas si son choix est valide (si ce rôle est en jeu ou non).  
+- Le Courtisan ne sait pas si son choix est valide ni si ce rôle est en jeu ou non.  
 - Il ne peut utiliser son pouvoir **qu’une seule fois par partie**.  
 - Si le Courtisan est ivre ou empoisonné lorsqu’il utilise son pouvoir → il échoue.  
-- Si le Courtisan rend un personnage ivre, puis devient lui-même ivre/empoisonné → l’effet cesse. Quand il redevient sobre/sain → l’effet reprend.  
+- Si le Courtisan rend un rôle ivre, puis devient lui-même ivre/empoisonné → l’effet cesse. Quand il redevient sobre/sain → l’effet reprend.  
 - Le joueur ivre **ne le sait pas**, mais son pouvoir ne fonctionne plus tant que dure l’ivresse.  
 
 ---
 
-## 🎬 Comment Conter  
+## 🎭 <span style="color:blue">Comment Conter</span>    
 
 - Chaque nuit (sauf la première), réveillez le Courtisan.  
-- Il peut passer son tour ou désigner un **rôle** (icône sur la fiche).  
+- Il peut passer son tour ou désigner un **rôle** (pictogramme sur la fiche).  
 - Si ce rôle est en jeu → le joueur correspondant devient ivre pendant 3 nuits et 3 jours.  
 - Utilisez les jetons rappels **IVRE 1 / IVRE 2 / IVRE 3** pour suivre la durée.  
 - Après ce cycle → retirez les jetons de rappel et marquez le Courtisan comme **sans pouvoir**.  
@@ -83,9 +83,9 @@ Le **Courtisan** choisit un **rôle** (et non un joueur) qui devient ivre pendan
 
 ---
 
-## 🧾 Exemples  
+## 🧩 <span style="color:blue">Exemples</span>    
 
-- Le Courtisan attend la 5ᵉ nuit et cible le [<span style="color:red">Shabaloth</span>](shabaloth.md).  
+- Le Courtisan attend la 5ème nuit et cible le [<span style="color:red">Shabaloth</span>](shabaloth.md).  
   → Pendant 3 nuits, le Shabaloth se réveille, mais ne tue personne.  
 
 - Le Courtisan est ivre et choisit le [<span style="color:red">Po</span>](po.md).  
@@ -96,14 +96,14 @@ Le **Courtisan** choisit un **rôle** (et non un joueur) qui devient ivre pendan
 
 ---
 
-## 💡 Astuces & Conseils  
+## 💡 <span style="color:blue">Astuces & Conseils</span>  
 
-- ⚔️ **<span style="color:red">Démon</span>** : c’est la cible la plus puissante. Si vous réussissez, vous donnez 3 nuits de répit au Bien. Observez le rythme des morts nocturnes pour identifier si vous faites face à un [<span style="color:red">Shabaloth</span>](shabaloth.md), un [<span style="color:red">Po</span>](po.md), un [<span style="color:red">Pukka</span>](pukka.md) ou un [<span style="color:red">Zombuul</span>](zombuul.md).  
+- ⚔️ **<span style="color:red">Démon</span>** : c’est la cible la plus puissante. Si vous réussissez, vous donnez 3 nuits de répit au Bien. Observez le rythme des morts nocturnes pour identifier si vous faites face à un [<span style="color:red">Shabaloth</span>](shabaloth.md), à un [<span style="color:red">Po</span>](po.md), à un [<span style="color:red">Pukka</span>](pukka.md) ou un [<span style="color:red">Zombuul</span>](zombuul.md).  
 
   - [<span style="color:red">Sbires</span>](../sbires.md) :  
-  - [<span style="color:red">Assassin</span>](assassin.md) ou [<span style="color:red">Parrain</span>](parrain.md) ivres → plus de morts surprises.  
-  - [<span style="color:red">Avocat du Diable</span>](avocatdudiable.md) ivre → ne sauve personne.  
-  - [<span style="color:red">Cerveau</span>](cerveau.md) ivre → prive les maléfiques d’une victoire inattendue.  
+  - [<span style="color:red">Assassin</span>](assassin.md) ou [<span style="color:red">Parrain</span>](parrain.md) s'ils sont ivres par votre pouvoir → pas de morts inattendues  
+  - [<span style="color:red">Avocat du Diable</span>](avocatdudiable.md) ivre  → ne sauve personne de l'exécution.  
+  - [<span style="color:red">Conspirateur</span>](cerveau.md) ivre → prive les maléfiques d’une victoire inattendue.  
 
 - 🛡️ **Villageois** : ce n’est pas optimal, mais parfois utile :  
   - [Bricoleur](bricoleur.md) ivre → ne meurt plus au hasard.  
@@ -120,7 +120,7 @@ Le **Courtisan** choisit un **rôle** (et non un joueur) qui devient ivre pendan
 
 ---
 
-## 🎭 Bluff en tant que Courtisan  
+## 🎭 <span style="color:blue">Bluffer Courtisan</span>  
 
 - ⏱️ Attendez quelques jours avant de dire que vous avez utilisé votre pouvoir. Un vrai Courtisan ne l’active pas dès le départ.  
 
@@ -129,20 +129,19 @@ Le **Courtisan** choisit un **rôle** (et non un joueur) qui devient ivre pendan
 - Version risquée : affirmez avoir rendu ivre un rôle actif.  
   → Exemple : « J’ai ciblé l’Exorciste, il est ivre, ses infos ne valent rien. » → cela sème le chaos.  
 
-- Si vous êtes le [<span style="color:red">Cerveau</span>](cerveau.md), prétendez avoir ciblé “le Cerveau” : le Bien croira qu’il est neutralisé, et sera pris au piège.  
+- Si vous êtes le [<span style="color:red">Conspirateur</span>](cerveau.md), prétendez avoir ciblé le “[<span style="color:red">Conspirateur</span>](cerveau.md)” : le Bien croira qu’il est neutralisé, et sera pris au piège.  
 
 - Si vous êtes le [<span style="color:red">Pukka</span>](pukka.md), prétendez avoir ciblé le Pukka. Quand les morts continuent malgré tout, tout le monde pensera qu’un autre <span style="color:red">Démon</span> est en jeu.  
 
-- 🎭 Feignez d’avoir neutralisé un rôle clé (ex. [<span style="color:red">Avocat du Diable</span>](avocatdudiable.md)). Le Bien cessera d’y penser, et vous pourrez surprendre.  
+- 🎭 Feignez d’avoir neutralisé un rôle clé par exemple l' [<span style="color:red">Avocat du Diable</span>](avocatdudiable.md). 
+- Le Camp du Bien cessera d’y penser, et vous pourrez surprendre.  
 
 ---
 
-<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌛 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
-  <li>🧑‍🌾 <a href="../villageois.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
-</ul>
+<p style="text-align:left; font-size:18px; margin-top:20px;">
+  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
+  🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+</p>
 
  
