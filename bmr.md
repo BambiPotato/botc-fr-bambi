@@ -98,7 +98,6 @@ Mais si l’équipe du Bien ne parvient pas à identifier les Sbires et les Dém
   <a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
 </p>
 
-## <span id="villageois" style="color:#ffa64d;">Villageois</span>
 
 <!-- GRID VILLAGEOIS -->
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin:8px 0 6px 0;">
@@ -185,7 +184,6 @@ Mais si l’équipe du Bien ne parvient pas à identifier les Sbires et les Dém
   <a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>
 </p>
 
-## <span id="etrangers" style="color:#ffa64d;">Étrangers</span>
 
 <!-- GRID ÉTRANGERS -->
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin:8px 0 6px 0;">
@@ -220,11 +218,10 @@ Mais si l’équipe du Bien ne parvient pas à identifier les Sbires et les Dém
 
 <!-- SBIRES -->
 
-<p style="text-align:left; color:#e0c99d; font-size:18px;">
+<p style="text-align:left; color:#e0c99d; font-size:20px;">
   <a href="./sbires.html" style="color:red; font-weight:bold; text-decoration:none;">Sbires</a>
 </p>
 
-## <span id="sbires" style="color:#ffa64d;">Sbires</span>
 
 <!-- GRID SBIRES -->
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin:8px 0 6px 0;">
@@ -259,11 +256,10 @@ Mais si l’équipe du Bien ne parvient pas à identifier les Sbires et les Dém
 
 <!-- DÉMONS -->
 
-<p style="text-align:left; color:#e0c99d; font-size:18px;">
+<p style="text-align:left; color:#e0c99d; font-size:20px;">
   <a href="./demons.html" style="color:red; font-weight:bold; text-decoration:none;">Démons</a>
 </p>
 
-## <span id="demons" style="color:#ffa64d;">Démons</span>
 
 <!-- GRID DÉMONS -->
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin:8px 0 6px 0;">
