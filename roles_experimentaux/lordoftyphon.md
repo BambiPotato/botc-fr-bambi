@@ -110,7 +110,7 @@ il peut potentiellement remonter jusqu’à toute l’équipe du Mal.
 
   <li>
     <img src="../images/Icon_summoner.png" alt="Invocateur" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/summoner.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Invocateur</a> :  
+    <a href="../roles_experimentaux/summoner.html" style="color:##d45b5b; font-weight:bold; text-decoration:none;">Invocateur</a> :  
     Si un <strong>Seigneur de Typhon</strong> est invoqué,  
     il doit être assis à côté d’un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>  
     et son autre voisin devient un <strong>Sbire maléfique</strong>.
