@@ -26,7 +26,7 @@ title: Parieur
 
 ---
 
-## ℹ️ Informations  
+## ℹ️ <span style="color:blue">Informations</span>  
 
 - **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)  
 - **Artiste :** Aidan Roberts 
@@ -59,7 +59,7 @@ title: Parieur
 </p>
 
 
-## 📖 Résumé  
+## 📖 <span style="color:blue">Résumé</span>    
 
 > « Chaque nuit* (sauf la première), choisissez un joueur et devinez son rôle.  
 > → Si vous vous trompez, vous mourrez. »  
@@ -74,7 +74,7 @@ Le joueur peut tenter de deviner qui possède quel rôle… mais il en paie le p
 
 ---
 
-## 🎬 Comment Conter  
+## 🎭 <span style="color:blue">Comment Conter</span>   
 
 - Chaque nuit (sauf la première), réveillez le Parieur.  
 - Il pointe un joueur, puis l’icône d’un rôle sur la feuille.  
@@ -83,7 +83,7 @@ Le joueur peut tenter de deviner qui possède quel rôle… mais il en paie le p
 
 ---
 
-## 🧾 Exemples  
+## 🧩 <span style="color:blue">Exemples</span>   
 
 - Le Parieur choisit le [Ménestrel](menestrel.md) et pointe l’icône du Ménestrel.  
   → Bonne prédiction, il reste en vie… mais est tué la même nuit par le [<span style="color:red">Shabaloth</span>](shabaloth.md).  
@@ -94,7 +94,7 @@ Le joueur peut tenter de deviner qui possède quel rôle… mais il en paie le p
 
 ---
 
-## 💡 Astuces & Conseils  
+## 💡 <span style="color:blue">Astuces & Conseils</span>    
 
 - Le Parieur est un rôle à **fort risque mais très fiable** : si vous survivez, c’est que votre intuition était juste.  
 
@@ -114,7 +114,7 @@ Le joueur peut tenter de deviner qui possède quel rôle… mais il en paie le p
 
 ---
 
-## 🎭 Bluff en tant que Parieur  
+## 🎭 <span style="color:blue">Bluffer Parieur</span>  
 
 - Aidez vos alliés [<span style="color:red">maléfiques</span>](../sbires.md) en prétendant avoir « confirmé » leur rôle.  
   → Exemple : « J’ai parié que Nicolas était [Dame de Thé](damedethe.md), et je suis encore vivant. »  
@@ -129,12 +129,9 @@ Le joueur peut tenter de deviner qui possède quel rôle… mais il en paie le p
 - Beaucoup de vrais Parieurs meurent tôt. Si vous survivez trop longtemps, prétendez que vous pariez sur vous-même depuis plusieurs nuits → explication crédible de votre survie.  
 
 ---
-<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌛 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
-  <li>🧑‍🌾 <a href="../villageois.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
-</ul>
-
+<p style="text-align:left; font-size:18px; margin-top:20px;">
+  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
+  🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+</p>
 
