@@ -126,9 +126,9 @@ Rester discret peut être judicieux : observez, bluffez et découvrez comment vo
 
 ---
 
-## 🎭 Bluffer : se faire passer pour la Brute  
+## 🎭 <span style="color:blue">Bluffer Brute</span>   
 
-### Pour un joueur <span style="color:blue">Bon</span>   
+### Si vous êtes bons <span style="color:blue">Bon</span>   
 
 - C'est un bluff difficile mais crédible.  
   Attendez quelques jours avant de vous révéler : une Brute qui parle trop tôt est souvent exécutée.  
@@ -137,7 +137,7 @@ Rester discret peut être judicieux : observez, bluffez et découvrez comment vo
   Les nuits où vous prétendez être devenu mauvais doivent correspondre à **des nuits sans morts**, car les capacités des [<span style="color:red">Démons</span>](../demons.md) auraient échoué.  
 - Vous pouvez aussi inciter d’autres joueurs à vous cibler pour "redevenir bon" — ou prétendre qu’ils l’ont fait.  
 
-### Pour un joueur <span style="color:red">maléfique</span>   
+### Si vous êtes <span style="color:red">Maléfique</span>   
 
 - Déclarez-vous **Brute maléfique** dès le début.  
   Le Village hésitera à vous exécuter, espérant que vous redeviendrez bon.  
