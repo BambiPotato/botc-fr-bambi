@@ -22,7 +22,7 @@ title: Bootlegger
 # 🍺 <span style="color:#7fd1ae; font-weight:bold; font-size:18px;">Bootlegger</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « J’ai rapporté la dernière cuvée de la maison, un petit brassin que j’appelle “Brume de Barrow”. Tu veux goûter ? »
+  « J’ai rapporté la dernière cuvée de la maison, une petite bière que j’appelle “Brume de Barrow”. Tu veux goûter ? »
 </p>
 
 ---
@@ -40,13 +40,13 @@ title: Bootlegger
 ## 📖 <span style="color:#7fd1ae;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>« Ce script contient des rôles ou des règles créés par la communauté. »</strong>
+<strong>« Ce script contient des rôles ou des règles "maison".»</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Ajoutez le <strong>Bootlegger</strong> pour inclure des rôles ou des règles <em>homebrew</em> (créations de joueuses et joueurs) dans la partie.  
+Ajoutez le <strong>Bootlegger</strong> pour inclure des rôles ou des règles <em>Maison</em>.  
 Il autorise les conteuses et conteurs à utiliser des rôles non officiels ou des règles personnalisées.  
-Tant qu’un ou plusieurs rôles <em>homebrew</em> figurent sur le script, le <strong>Bootlegger</strong> reste en jeu.  
+Tant qu’un ou plusieurs rôles <em>Maison</em> figurent sur le script, le <strong>Bootlegger</strong> reste en jeu.  
 Il ne peut être retiré qu’en passant à un script ne contenant aucun rôle ni règle personnalisée.
 </p>
 
@@ -55,8 +55,8 @@ Il ne peut être retiré qu’en passant à un script ne contenant aucun rôle n
 ## ⚖️ <span style="color:#7fd1ae;">Détails</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Le <strong>Bootlegger</strong> doit être annoncé au début de la partie s’il y a des rôles ou règles <em>homebrew</em>.</li>
-  <li>Le Conteur présente à tous les joueurs la liste de ces rôles et/ou règles avant le début du jeu.</li>
+  <li>Le <strong>Bootlegger</strong> doit être annoncé au début de la partie s’il y a des rôles ou règles <em>maison</em>.</li>
+  <li>Le Conteur présente à tous les joueurs la liste de ces rôles ou les règles avant le début de la partie.</li>
   <li>Il est possible d’utiliser plusieurs créations à la fois, tant qu’elles sont expliquées avant le lancement de la partie.</li>
   <li>Le <strong>Bootlegger</strong> est conçu pour les scripts expérimentaux et les adaptations dans l’application officielle.</li>
   <li>Ce rôle rend hommage à la légendaire “Homebrewy McHomebrewface”, son ancêtre écarté lors d’un vote serré de la communauté.</li>
@@ -67,7 +67,7 @@ Il ne peut être retiré qu’en passant à un script ne contenant aucun rôle n
 ## 🎭 <span style="color:#7fd1ae;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Au début de la partie, si votre script comporte des rôles ou règles <em>homebrew</em>, déclarez que le <strong>Bootlegger</strong> est en jeu.  
+Au début de la partie, si votre script comporte des rôles ou règles <em>homebrew/maison</em>, déclarez que le <strong>Bootlegger</strong> est en jeu.  
 Présentez brièvement les créations utilisées et précisez comment elles modifient les règles officielles.  
 Si plusieurs créations sont présentes, expliquez chacune d’elles avant de commencer la première nuit.  
 Le <strong>Bootlegger</strong> reste actif jusqu’à la fin de la partie.
