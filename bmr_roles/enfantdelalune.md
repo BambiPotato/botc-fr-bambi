@@ -6,12 +6,12 @@ title: Enfant de la lune
 
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
+    <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
 
-#   <span style="color:blue">Enfant de la lune</span>  
+# 🌝 <span style="color:blue">Enfant de la lune</span>  
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -25,7 +25,7 @@ title: Enfant de la lune
 
 ---
 
-## ℹ️ Informations  
+## ℹ️ <span style="color:blue">Informations</span>  
 
 - **Type :** [<span style="color:blue">Étranger</span>](../etrangers.md)    
 - **Artiste :** Aidan Roberts 
@@ -59,24 +59,30 @@ title: Enfant de la lune
 
 
 
-## 📖 Résumé  
+## 📖 <span style="color:blue">Résumé</span>  
 
-> **« Lorsque vous apprenez que vous êtes mort, choisissez publiquement un joueur encore en vie. Cette nuit, si ce joueur était bon, il meurt. »**
+> **« Lorsque vous apprenez que vous êtes mort, choisissez publiquement un joueur vivant. Cette nuit, si ce joueur était bon, il meurt. »**
 
-L’**Enfant de la Lune** maudit un joueur à sa mort — et si ce joueur est bon, il meurt à son tour.
+L’**Enfant de la Lune** maudit un joueur à sa mort le tuant également.
 
 - Lorsque vous **apprenez que vous êtes mort**, vous devez **immédiatement choisir un joueur vivant**.  
 - Si le joueur choisi est **bon**, il **meurt cette nuit-là**.  
 - Si le joueur est **maléfique**, il **ne se passe rien**.  
-- Vous devez choisir **publiquement**, en une minute environ, après l’annonce de votre mort (que ce soit de nuit ou par exécution).  
-- Si vous refusez de choisir volontairement, c’est considéré comme **une tricherie**.  
+- L'Enfant de la Lune doit choisir **publiquement**, en une minute environ, après l’annonce de sa mort (que ce soit de nuit ou par exécution). 
+- L'Enfant de la Lune peut prendre son temps et demander conseil au groupe avant de prendre cette décision.
+- Si L'Enfant de la Lune refuse de choisir volontairement, c’est considéré comme **une tricherie**. 
+- Si l'Enfant de la Lune est sobre et sain la nuit, mais était ivre ou empoisonné lorsqu'il a choisi un joueur aujourd'hui, ce joueur meurt. 
+- Si l'Enfant de la Lune est ivre ou empoisonné la nuit, mais était sobre et sain lorsqu'il a choisi un joueur aujourd'hui, ce joueur ne meurt pas.
+- L'Enfant de la Lune tue la [Brute](brute.md) si celle-ci était d'aligment bon au moment où l'Enfant de la Lune l'a choisi, indépendamment de son alignement nocturne.
 
-💡 Si vous étiez ivre ou empoisonné **au moment de choisir**, la capacité peut échouer.  
-Si vous êtes ivre **la nuit suivante**, mais étiez sobre lors du choix, la capacité **fonctionne**.  
+
+> 💡 *Astuce Conteur*
+> * Si l'Enfant de la Lune ne comprend pas qu'il doit choisir un joueur à sa mort, rappelez-le-lui discrètement. 
+> * Les nouveaux joueurs peuvent ne pas comprendre le fonctionnement de leur rôle.  
 
 ---
 
-## 🎬 Comment Conter  
+## 🎭 <span style="color:blue">Comment Conter</span>   
 
 - Dès que vous annoncez que **l’Enfant de la Lune est mort**, laissez-le choisir un joueur vivant publiquement.  
 - Si le joueur choisi est **bon**, placez un jeton **MORT (Enfant de la Lune)** sur son rôle.  
@@ -86,7 +92,7 @@ Si vous êtes ivre **la nuit suivante**, mais étiez sobre lors du choix, la cap
 
 ---
 
-## 🧾 Exemples  
+## 🧩 <span style="color:blue">Exemples</span>     
 
 - Le <span style="color:red">[Pukka](pukka.md)</span> tue l’Enfant de la Lune.  
   Le lendemain matin, l’Enfant de la Lune choisit l’[Exorciste](exorciste.md).  
@@ -96,12 +102,13 @@ Si vous êtes ivre **la nuit suivante**, mais étiez sobre lors du choix, la cap
   L’Enfant de la Lune est exécuté, mais **reste en vie** grâce à lui : il **ne choisit personne**.  
 
 - Le <span style="color:red">[Shabaloth](shabaloth.md)</span> dévore l’Enfant de la Lune, qui choisit l’<span style="color:red">[Assassin](assassin.md)</span>.  
-  L’Assassin survit, et le Shabaloth **recrachant** sa victime, l’Enfant de la Lune revient à la vie.  
-  Quelques nuits plus tard, le Shabaloth le mange de nouveau : cette fois, il choisit le [Ragoteur](ragoteur.md), qui **meurt**.
+  L’<span style="color:red">[Assassin](assassin.md)</span> survit, et le <span style="color:red">[Shabaloth](shabaloth.md)</span> **régurgite** sa victime, 
+  l’Enfant de la Lune revient à la  vie.  
+  Quelques nuits plus tard, le <span style="color:red">[Shabaloth](shabaloth.md)</span> le mange de nouveau : cette fois, il choisit la [Commère](commere.md), qui **meurt**.
 
 ---
 
-## 💡 Astuces & Stratégies  
+## 💡 <span style="color:blue">Astuces & Stratégies</span>    
 
 L’Enfant de la Lune est un **Étranger dangereux** : en mourant, il peut provoquer **une mort supplémentaire** — mais uniquement parmi les joueurs bons.  
 Votre rôle demande donc réflexion, timing et un brin de tragédie.
@@ -138,18 +145,18 @@ Votre rôle demande donc réflexion, timing et un brin de tragédie.
 
 - Le [<span style="color:red">Parrain</span>](parrain.md) tue pendant la même nuit où votre malédiction agit.  
   Cela peut créer **deux morts simultanées** — ou tromper le groupe sur qui a tué qui.  
-  Si le Parrain tue un Sbire pour semer la confusion, il pourra faire croire que **votre capacité s’est déclenchée**.
+  Si le [<span style="color:red">Parrain</span>](parrain.md) tue un Sbire pour semer la confusion, il pourra faire croire que **votre capacité s’est déclenchée**.
 
 ---
 
-## 🎭 Bluff en tant qu’Enfant de la Lune  
+## 🎭  <span style="color:blue">Bluffer Enfant de la Lune</span>  
 
-### 😇 Pour un joueur bon  
+### 😇 Si, vous êtes <span style="color:blue">Bon</span>   
 
 - Prétendre être l’Enfant de la Lune peut **dissuader la ville de vous exécuter**, de peur de mourir à leur tour.  
 - Vous pouvez aussi annoncer **publiquement** qui vous choisiriez si vous mouriez — cela met la pression sur les joueurs.  
 
-### 😈 Pour un joueur maléfique  
+### 😈 Si, vous êtes <span style="color:red">Maléfique</span>  
 
 - Excellent bluff : vous pouvez **feindre de choisir** quelqu’un à votre mort.  
   Le Démon ou un Sbire pourra **tuer ce joueur** la nuit suivante pour renforcer votre crédibilité.  
@@ -160,10 +167,8 @@ Les bons joueurs perdront un temps précieux à analyser une fausse piste.
 
 ---
 
-<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌛 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
-  <li>💈 <a href="../etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Étrangers</a></li>
-</ul>
+<p style="text-align:left; font-size:18px; margin-top:20px;">
+  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+  💈 <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Étrangers</a><br>
+  🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+</p>
