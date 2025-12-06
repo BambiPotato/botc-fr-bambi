@@ -128,7 +128,7 @@ Rester discret peut être judicieux : observez, bluffez et découvrez comment vo
 
 ## 🎭 <span style="color:blue">Bluffer Brute</span>   
 
-### Si vous êtes bons <span style="color:blue">Bon</span>   
+### Si vous êtes <span style="color:blue">Bon</span>   
 
 - C'est un bluff difficile mais crédible.  
   Attendez quelques jours avant de vous révéler : une Brute qui parle trop tôt est souvent exécutée.  
