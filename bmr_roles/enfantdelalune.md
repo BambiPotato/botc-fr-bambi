@@ -94,17 +94,17 @@ L’**Enfant de la Lune** maudit un joueur à sa mort le tuant également.
 
 ## 🧩 <span style="color:blue">Exemples</span>     
 
-- Le <span style="color:red">[Pukka](pukka.md)</span> tue l’Enfant de la Lune.  
+- Le <span style="color:#d45b5b">[<span style="color:red">Pukka</span>](pukka.md)</span> tue l’Enfant de la Lune.  
   Le lendemain matin, l’Enfant de la Lune choisit l’[Exorciste](exorciste.md).  
   Cette nuit-là, **l’Exorciste meurt**.  
 
 - Le [Pacifiste](pacifiste.md) est en jeu.  
   L’Enfant de la Lune est exécuté, mais **reste en vie** grâce à lui : il **ne choisit personne**.  
 
-- Le <span style="color:red">[Shabaloth](shabaloth.md)</span> dévore l’Enfant de la Lune, qui choisit l’<span style="color:red">[Assassin](assassin.md)</span>.  
-  L’<span style="color:red">[Assassin](assassin.md)</span> survit, et le <span style="color:red">[Shabaloth](shabaloth.md)</span> **régurgite** sa victime, 
+- Le <span style="color:#d45b5b">[Shabaloth](shabaloth.md)</span> dévore l’Enfant de la Lune, qui choisit l’<span style="color:red">[Assassin](assassin.md)</span>.  
+  L’<span style="color:#d45b5b">[Assassin](assassin.md)</span> survit, et le <span style="color:#d45b5b">[Shabaloth](shabaloth.md)</span> **régurgite** sa victime, 
   l’Enfant de la Lune revient à la  vie.  
-  Quelques nuits plus tard, le <span style="color:red">[Shabaloth](shabaloth.md)</span> le mange de nouveau : cette fois, il choisit la [Commère](commere.md), qui **meurt**.
+  Quelques nuits plus tard, le <span style="color:#d45b5b">[Shabaloth](shabaloth.md)</span> le mange de nouveau : cette fois, il choisit la [Commère](commere.md), qui **meurt**.
 
 ---
 
@@ -143,9 +143,9 @@ Votre rôle demande donc réflexion, timing et un brin de tragédie.
 
 ### 😈 Si le <span style="color:red">Parrain</span> est en jeu  
 
-- Le [<span style="color:red">Parrain</span>](parrain.md) tue pendant la même nuit où votre malédiction agit.  
+- Le [<span style="color:#d45b5b">Parrain</span>](parrain.md) tue pendant la même nuit où votre malédiction agit.  
   Cela peut créer **deux morts simultanées** — ou tromper le groupe sur qui a tué qui.  
-  Si le [<span style="color:red">Parrain</span>](parrain.md) tue un Sbire pour semer la confusion, il pourra faire croire que **votre capacité s’est déclenchée**.
+  Si le [<span style="color:#d45b5b">Parrain</span>](parrain.md) tue un Sbire pour semer la confusion, il pourra faire croire que **votre capacité s’est déclenchée**.
 
 ---
 
@@ -156,7 +156,7 @@ Votre rôle demande donc réflexion, timing et un brin de tragédie.
 - Prétendre être l’Enfant de la Lune peut **dissuader la ville de vous exécuter**, de peur de mourir à leur tour.  
 - Vous pouvez aussi annoncer **publiquement** qui vous choisiriez si vous mouriez — cela met la pression sur les joueurs.  
 
-### 😈 Si, vous êtes <span style="color:red">Maléfique</span>  
+### 😈 Si, vous êtes <span style="color:#d45b5b">Maléfique</span>  
 
 - Excellent bluff : vous pouvez **feindre de choisir** quelqu’un à votre mort.  
   Le Démon ou un Sbire pourra **tuer ce joueur** la nuit suivante pour renforcer votre crédibilité.  
