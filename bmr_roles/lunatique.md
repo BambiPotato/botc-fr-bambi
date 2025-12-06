@@ -139,14 +139,14 @@ Quand vous êtes sûr(e), annoncez publiquement votre rôle :
 
 ## 😈 <span style="color:blue">Bluffer Lunatique</span>   
 
-### 😇 Pour un joueur <span style="color:blue">bon</span>  :  
+### 😇 Si, vous êtes <span style="color:blue">Bon</span>  :  
 - Bluffez un rôle maléfique (comme un <span style="color:red">Démon</span>) pendant un moment, puis « réalisez » que vous êtes le Lunatique.  
   Ce retournement est très crédible et souvent efficace.  
 
 - Simulez un moment d’épiphanie sincère : « Oh ! Je crois que je ne suis pas le Démon après tout ! »  
   Les joueurs bons croient plus facilement aux émotions qu’aux explications logiques.  
 
-### 😈 Pour un joueur <span style="color:red">maléfique</span> :  
+### 😈 Si, vous êtes <span style="color:red">Maléfique</span> :  
 - Ce bluff est excellent pour un <span style="color:red">Sbire</span> : prétendez avoir cru être le Démon avant de découvrir la vérité.  
   Cela crée de la confusion et attire la sympathie du Bien.  
 
