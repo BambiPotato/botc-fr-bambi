@@ -155,6 +155,7 @@ Cependant :
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
   🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  😈 <a href="../sbires.html" style="color:red; font-weight:bold; text-decoration:none;"> Retour aux Sbires</a></li>
+  😈 <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Retour aux Sbires</a><br>
   🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
 </p>
+
