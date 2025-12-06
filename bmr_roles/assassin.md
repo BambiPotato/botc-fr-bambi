@@ -5,7 +5,7 @@ title: ASSASSIN
 
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="../images/logo.png" alt="Accueil BotC FR" width="300">
+    <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
@@ -25,7 +25,7 @@ title: ASSASSIN
 
 ---
 
-## ℹ️ Informations  
+## ℹ️ <span style="color:red">Informations</span>  
 
 - **Type :** [<span style="color:red">Sbire</span>](../sbires.md)  
 - **Artiste :** Aidan Roberts  
@@ -58,50 +58,51 @@ title: ASSASSIN
 "Cult of the Clocktower – épisode par Andrew Nathenson"
 </p>
 
-## 🧠 Résumé  
+## 📖 <span style="color:red">Résumé</span>  
 
 > **« Une fois par partie, la nuit*, choisissez un joueur : il meurt, même s’il ne devrait pas. »**
 
-L’**Assassin** tue là où même le **[<span style="color:red">Démon</span>](../demons.md)** ne peut pas frapper.  
-Une seule fois par partie, il peut **tuer un joueur de son choix**, quelle que soit la protection dont il bénéficie (capacités, effets, immunités...).
-
-Cependant, sa capacité peut être neutralisée s’il est **ivre** ou **empoisonné**.  
-S’il cible la [Bute](brute.md), celui-ci **meurt** et devient **maléfique**.
+- Une fois par partie, la nuit, l'Assassin peut tuer un joueur. 
+- Ce joueur meurt, même s'il est protégé de quelque manière que ce soit, par exemple par une capacité.
+- L’**Assassin** tue là où même le **[<span style="color:red">Démon</span>](../demons.md)** ne peut pas frapper.  
+- Cependant, sa capacité peut être neutralisée s’il est **ivre** ou **empoisonné**.  
+- Si l'Assassin cible la [Bute](brute.md), elle **meurt** et devient **maléfique**.
 
 ---
 
-## ⚙️ Comment gérer en tant que Conteur  
+## 🎭 <span style="color:red">Comment Conter</span>  
 
-- **Chaque nuit (sauf la première)**, réveillez l’Assassin.  
-  - Il peut soit **secouer la tête** (ne pas agir), soit **désigner un joueur**.  
+- **Chaque nuit, sauf la première**, réveillez l’Assassin.  
+  - Il peut soit **secouer la tête** (pour dire non), soit **désigner un joueur**.  
   - Endormez-le ensuite.  
 
 - Si l’Assassin a choisi une cible :  
   - Ce joueur **meurt immédiatement** — marquez-le avec le jeton **MORT**.  
   - **Aucune protection** ne peut empêcher cette mort (sauf ivresse ou empoisonnement de l’Assassin).  
-  - L’Assassin **perd sa capacité** : placez le jeton **AUCUNE CAPACITÉ** sur lui et retirez son jeton nocturne.  
+  - L’Assassin **perd sa capacité** : placez le jeton **AUCUNE CAPACITÉ** sur lui et 
+    retirez son jeton Nuit de la feuille de nuit. ( L'Assassin ne se réveillera plus. )
 
 ---
 
-## 💀 Exemples  
-
-- Pendant trois nuits, l’Assassin choisit de ne rien faire.  
+## 🧩 <span style="color:red">Exemples</span>  
+  
+- Pendant les trois premières nuits,  l'Assassin se réveille, mais choisit de ne pas agir.  
   La quatrième nuit, il tue le [Fou](fou.md) : le **[Fou](fou.md)** meurt **malgré sa capacité**.  
 
 - La [Dame de Thé](damedethe.md) protège ses deux voisins, tous deux bons.  
   L’[<span style="color:red">Assassin</span>](assassin.md) choisit l’un d’eux : il **meurt malgré la protection**.  
 
 - Le [Ménestrel](menestrel.md) est en jeu.  
-  Le [<span style="color:red">Cerveau</span>](cerveau.md) meurt exécuté.  
+  Le [<span style="color:red">Conspirateur</span>](cerveau.md) meurt exécuté.  
   Cette nuit-là, l’Assassin tente de tuer l’[Enfant de la Lune](enfantdelalune.md),  
-  mais comme il est **ivre à cause du [Ménestrel](menestrel.md)**, sa cible **ne meurt pas**.  
+  mais comme il est **ivre à cause de la capacité du [Ménestrel](menestrel.md)**, sa cible **ne meurt pas**.  
 
--  L’[<span style="color:red">Assassin</span>](assassin.md), ivre à cause du [Courtisan](courtisan.md), choisit la [Brute](brute.md) , 
+-  L’[<span style="color:red">Assassin</span>](assassin.md) est ivre à cause du [Courtisan](courtisan.md), il choisit de tuer la [Brute](brute.md) , 
   La [Brute](brute.md) **ne meurt pas**, mais devient **maléfique**.  
 
 ---
 
-## 💡 Astuces et Stratégies  
+## 💡 <span style="color:red">Astuces et Stratégies</span>  
 
 ### 💀 Une seule balle, un seul tir  
 
@@ -137,7 +138,7 @@ Rien n’arrête votre lame.
 
 ---
 
-## ⚔️ Combattre l’Assassin  
+## ⚔️ span style="color:red">Combattre l’Assassin</span>  
 
 > **Mauvaise nouvelle : vous ne pouvez pas empêcher son attaque.**  
 
@@ -151,10 +152,9 @@ Cependant :
   un **[<span style="color:red">Parrain</span>](parrain.md)** ou un **[<span style="color:red">Cerveau</span>](cerveau.md)** pourraient être encore en jeu.
 
 ---
-<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌛 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
-  <li>😈 <a href="../sbires.html" style="color:red; font-weight:bold; text-decoration:none;">Catégorie : Sbires</a></li>
-</ul>
+
+<p style="text-align:left; font-size:18px; margin-top:20px;">
+  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+  😈 <a href="../sbires.html" style="color:red; font-weight:bold; text-decoration:none;"> Retour aux Sbires</a></li>
+  🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+</p>
