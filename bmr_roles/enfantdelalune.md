@@ -94,17 +94,17 @@ L’**Enfant de la Lune** maudit un joueur à sa mort le tuant également.
 
 ## 🧩 <span style="color:blue">Exemples</span>     
 
-- Le <span style="color:#d45b5b">[<span style="color:red">Pukka</span>](pukka.md)</span> tue l’Enfant de la Lune.  
+- Le <a href="pukka.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pukka</a> tue l’Enfant de la Lune.  
   Le lendemain matin, l’Enfant de la Lune choisit l’[Exorciste](exorciste.md).  
   Cette nuit-là, **l’Exorciste meurt**.  
 
 - Le [Pacifiste](pacifiste.md) est en jeu.  
   L’Enfant de la Lune est exécuté, mais **reste en vie** grâce à lui : il **ne choisit personne**.  
 
-- Le <span style="color:#d45b5b">[Shabaloth](shabaloth.md)</span> dévore l’Enfant de la Lune, qui choisit l’<span style="color:red">[Assassin](assassin.md)</span>.  
-  L’<span style="color:#d45b5b">[Assassin](assassin.md)</span> survit, et le <span style="color:#d45b5b">[Shabaloth](shabaloth.md)</span> **régurgite** sa victime, 
+- Le <a href="shabaloth.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a> dévore l’Enfant de la Lune, qui choisit l’<a href="assassin.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>.  
+  L’<a href="assassin.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> survit, et le <a href="shabaloth.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a> **régurgite** sa victime, 
   l’Enfant de la Lune revient à la  vie.  
-  Quelques nuits plus tard, le <span style="color:#d45b5b">[Shabaloth](shabaloth.md)</span> le mange de nouveau : cette fois, il choisit la [Commère](commere.md), qui **meurt**.
+  Quelques nuits plus tard, le <a href="shabaloth.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a> le mange de nouveau : cette fois, il choisit la [Commère](commere.md), qui **meurt**.
 
 ---
 
@@ -141,11 +141,11 @@ Votre rôle demande donc réflexion, timing et un brin de tragédie.
 
 ---
 
-### 😈 Si le <span style="color:red">Parrain</span> est en jeu  
+### 😈 Si le <a href="parrain.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parrain</a> est en jeu  
 
-- Le [<span style="color:#d45b5b">Parrain</span>](parrain.md) tue pendant la même nuit où votre malédiction agit.  
+- Le <a href="parrain.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parrain</a> tue pendant la même nuit où votre malédiction agit.  
   Cela peut créer **deux morts simultanées** — ou tromper le groupe sur qui a tué qui.  
-  Si le [<span style="color:#d45b5b">Parrain</span>](parrain.md) tue un Sbire pour semer la confusion, il pourra faire croire que **votre capacité s’est déclenchée**.
+  Si le <a href="parrain.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parrain</a> tue un Sbire pour semer la confusion, il pourra faire croire que **votre capacité s’est déclenchée**.
 
 ---
 
@@ -171,4 +171,5 @@ Les bons joueurs perdront un temps précieux à analyser une fausse piste.
   🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
   💈 <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Étrangers</a><br>
   🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+</p><a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
 </p>
