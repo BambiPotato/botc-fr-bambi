@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cerveau
+title: Conspirateur
 ---
 
 
@@ -26,7 +26,7 @@ title: Cerveau
 
 ---
 
-## ℹ️ Informations  
+## ℹ️ <span style="color:red">Informations</span>  
 
 - **Type :** [<span style="color:red">Sbire</span>](../sbires.md)  
 - **Artiste :** Aidan Roberts  
@@ -63,7 +63,7 @@ Tout se déroule exactement comme je l’avais prévu.»*
 
 
 
-## 📖 Résumé
+## 📖 <span style="color:red">Résumé</span>
 
 > **« Si le Démon meurt par exécution (mettant fin à la partie), jouez un jour de plus.  
 > Si un joueur est ensuite exécuté, son équipe perd. »**
@@ -80,7 +80,7 @@ Même après la mort du Démon, il peut faire **basculer la victoire**.
 
 ---
 
-## 🎬 Comment Conter  
+## 🎭 <span style="color:red">Comment Conter</span>  
 
 - Si le Démon est **exécuté et meurt**, ne terminez **pas la partie**.  
   *(Ajoutez un linceul comme d'habitude. Ne dites pas que le Démon est mort.)*
@@ -91,7 +91,7 @@ Même après la mort du Démon, il peut faire **basculer la victoire**.
 
 ---
 
-## 🧾 Exemples  
+## 🧩 <span style="color:red">Exemples</span>  
 
 - Le [<span style="color:red">Shabaloth</span>](../bmr_roles/shabaloth.md) est exécuté et meurt.  
   Le lendemain, le [Professeur](../bmr_roles/professeur.md) est exécuté : **Les Maléfiques gagnent**.  
@@ -109,7 +109,7 @@ Même après la mort du Démon, il peut faire **basculer la victoire**.
 
 ---
 
-## 💡 Astuces & Stratégies  
+## 💡 <span style="color:red">Astuces & Stratégies</span>  
 
 Le **Conspirateur** est un stratège implacable.  
 Il attend le moment parfait pour **transformer la victoire du Bien en défaite**.  
@@ -151,9 +151,7 @@ Il attend le moment parfait pour **transformer la victoire du Bien en défaite**
 
 ---
 
-## ⚔️Pour contrer le Conspirateur  
-
-Pour le camp du Bien :  
+## ⚔️<span style="color:red">Combattre le Conspirateur</span> 
 
 - Observez le comportement des morts et des protections.  
   Si aucune trace visible d’un [<span style="color:red">Parrain</span>](../bmr_roles/parrain.md), d’un [<span style="color:red">Assassin</span>](../bmr_roles/assassin.md) ou d’un [<span style="color:red">Avocat du Diable</span>](../bmr_roles/avocatdudiable.md) n’est détectée, **soupçonnez un Cerveau**.  
@@ -169,10 +167,8 @@ Pour le camp du Bien :
 
 ---
 
-<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌛 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
-  <li>😈 <a href="../sbires.html" style="color:red; font-weight:bold; text-decoration:none;">Catégorie : Sbires</a></li>
-</ul>
+<p style="text-align:left; font-size:18px; margin-top:20px;">
+  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+  😈 <a href="../sbires.html" style="color:red; font-weight:bold; text-decoration:none;"> Retour aux Sbires</a></li>
+  🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+</p>
