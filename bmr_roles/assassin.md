@@ -138,7 +138,7 @@ Rien n’arrête votre lame.
 
 ---
 
-## ⚔️ span style="color:red">Combattre l’Assassin</span>  
+## ⚔️ <span style="color:red">Combattre l’Assassin</span>  
 
 > **Mauvaise nouvelle : vous ne pouvez pas empêcher son attaque.**  
 
