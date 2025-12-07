@@ -9,6 +9,22 @@ title: Trouble Brewing
   </a>
 </p>
 
+<!-- CSS responsive pour la colonne de rôles -->
+<style>
+  @media (max-width: 900px) {
+    .tb-sidebar {
+      position: static !important;
+      float: none !important;
+      width: 100% !important;
+      max-height: none !important;
+      border-left: none !important;
+      border-top: 1px solid #b58b52;
+      margin: 16px 0 !important;
+      background: rgba(0,0,0,0.4);
+    }
+  }
+</style>
+
 <!-- 🍺 Logo centré cliquable -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./trouble_brewing.html" style="text-decoration:none;">
@@ -24,21 +40,20 @@ title: Trouble Brewing
   « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
 </p>
 
-<!-- PANNEAU LATÉRAL FIXE : liste des rôles à droite -->
-<div style="
-  position:fixed;
-  top:180px;
-  right:20px;
+<!-- COLONNE LATÉRALE : liste des rôles à droite (non fixe sur desktop, responsive sur mobile) -->
+<div class="tb-sidebar" style="
+  float:right;
   width:230px;
   max-height:70vh;
   overflow:auto;
   border-left:1px solid #b58b52;
   padding-left:12px;
   padding-right:4px;
-  background:rgba(0,0,0,0.4);
+  margin-left:24px;
+  margin-top:8px;
+  background:rgba(0,0,0,0.25);
   font-size:15px;
   line-height:1.6;
-  z-index:100;
 ">
   <p style="font-weight:bold; color:#b58b52; margin-top:4px; margin-bottom:8px;">
     Rôles Trouble Brewing
