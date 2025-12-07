@@ -132,7 +132,11 @@ L’**Aubergiste** protège ses clients des morts nocturnes, mais enivre l’un 
   → Cela justifie votre survie et renforce votre crédibilité.  
 
 ---
-## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
+<h2 style="color:#4ea3ff; font-size:22px; margin-top:30px;">
+  🧞 Jinxes liés
+</h2>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
   <li>
     🧞
@@ -141,8 +145,8 @@ L’**Aubergiste** protège ses clients des morts nocturnes, mais enivre l’un 
     <a href="../roles_experimentaux/leviathan.html"
        style="color:#d45b5b; font-weight:bold; text-decoration:none;">Léviathan</a> :
     Si le <span style="color:#d45b5b; font-weight:bold;">Léviathan</span> 
-    nomme puis exécute un joueur protégé par 
-    l’<a href="../bmr_roles/aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a>,  
+    nomme puis fait exécuter un joueur protégé par 
+    l’<a href="./aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a>,  
     le Bien gagne.
   </li>
 
@@ -152,13 +156,13 @@ L’**Aubergiste** protège ses clients des morts nocturnes, mais enivre l’un 
          style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/riot.html"
        style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> :
-    Si le <span style="color:#d45b5b; font-weight:bold;">Riot</span> 
-    nomme puis exécute un joueur protégé par 
-    l’<a href="../bmr_roles/aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a>,  
+    Si <span style="color:#d45b5b; font-weight:bold;">Riot</span> 
+    nomme puis fait exécuter un joueur protégé par 
+    l’<a href="./aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a>,  
     le Bien gagne.
   </li>
-  
-</ul> 
+
+</ul>
 
 ---
 
