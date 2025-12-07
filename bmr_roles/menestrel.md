@@ -145,6 +145,26 @@ Le **Ménestrel** est un **excellent bluff passif** : facile à maintenir, créd
 - Si un vrai Ménestrel est en jeu et que vous êtes le [<span style="color:red">Démon</span>](../demons.md), sautez quelques attaques nocturnes : cela créera la confusion.  
 
 ---
+<h2 style="color:#4ea3ff; font-size:22px; margin-top:30px;">
+  🧞 Jinxes liés
+</h2>
+
+  <!-- LÉGION -->
+  <li>
+    🧞
+    <img src="../images/Icon_legion.png" alt="Légion" width="24"
+         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/legion.html"
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> :
+    Si une <span style="color:#d45b5b; font-weight:bold;">Légion</span> 
+    est morte par exécution aujourd’hui,  
+    elle conserve sa capacité, mais le <a href="../bmr_roles/menestrel.html"
+    style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ménestrel</a>  
+    peut apprendre qu’elle est la Légion.
+  </li>
+
+</ul>
+---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
   🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
