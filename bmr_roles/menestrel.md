@@ -149,7 +149,9 @@ Le **Ménestrel** est un **excellent bluff passif** : facile à maintenir, créd
   🧞 Jinxes liés
 </h2>
 
-  <!-- LÉGION -->
+ <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+     <!-- Légion -->
   <li>
     🧞
     <img src="../images/Icon_legion.png" alt="Légion" width="24"
@@ -164,6 +166,8 @@ Le **Ménestrel** est un **excellent bluff passif** : facile à maintenir, créd
   </li>
 
 </ul>
+
+
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
