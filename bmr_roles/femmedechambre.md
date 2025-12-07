@@ -132,6 +132,16 @@ La **Femme de Chambre** permet de savoir qui s’est réveillé la nuit.
 - Même en tant que bon joueur, bluffer ce rôle peut mettre la pression sur les autres et forcer les <span style="color:red">Sbires</span> à changer leurs mensonges.  
 
 ---
+  <li>
+    🧞
+    <img src="../images/Icon_mathematician.png" alt="Mathématicien" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../sv_roles/mathematicien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mathématicien</a> :  
+    la 
+    <a href="../bmr_roles/femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de Chambre</a> 
+    peut détecter si le Mathématicien se réveille cette nuit.
+  </li>
+
+---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
   🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
