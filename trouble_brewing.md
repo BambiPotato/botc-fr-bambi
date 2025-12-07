@@ -46,7 +46,7 @@ title: Trouble Brewing
 </p>
 
 <!-- COLONNE DROITE : liste des rôles cliquables -->
-<div style="float:right; width:230px; border-left:1px solid #b58b52; padding-left:12px; margin-left:24px; margin-top:8px; font-size:16px; line-height:1.7;">
+<div style="float:right; width:230px; border-left:1px solid #b58b52; padding-left:12px; margin-left:24px; margin-top:0; font-size:16px; line-height:1.7;">
 
   <p style="font-weight:bold; color:#b58b52; margin-top:0; margin-bottom:8px;">
     Rôles Trouble Brewing
@@ -80,18 +80,18 @@ title: Trouble Brewing
   </ul>
 
   <!-- Sbires -->
-  <p style="font-weight:bold; color:red; margin-bottom:4px;">Sbires</p>
+  <p style="font-weight:bold; color:#d45b5b; margin-bottom:4px;">Sbires</p>
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:12px;">
-    <li><a href="./tb_roles/empoisonneur.html" style="color:red; text-decoration:none;">Empoisonneur</a></li>
-    <li><a href="./tb_roles/espion.html" style="color:red; text-decoration:none;">Espion</a></li>
-    <li><a href="./tb_roles/femmeecarlate.html" style="color:red; text-decoration:none;">Femme Écarlate</a></li>
-    <li><a href="./tb_roles/baron.html" style="color:red; text-decoration:none;">Baron</a></li>
+    <li><a href="./tb_roles/empoisonneur.html" style="color:#d45b5b; text-decoration:none;">Empoisonneur</a></li>
+    <li><a href="./tb_roles/espion.html" style="color:#d45b5b; text-decoration:none;">Espion</a></li>
+    <li><a href="./tb_roles/femmeecarlate.html" style="color:#d45b5b; text-decoration:none;">Femme Écarlate</a></li>
+    <li><a href="./tb_roles/baron.html" style="color:#d45b5b; text-decoration:none;">Baron</a></li>
   </ul>
 
-  <!-- Démons -->
-  <p style="font-weight:bold; color:red; margin-bottom:4px;">Démons</p>
+  <!-- Démon -->
+  <p style="font-weight:bold; color:#d45b5b; margin-bottom:4px;">Démon</p>
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:0;">
-    <li><a href="./tb_roles/imp.html" style="color:red; text-decoration:none;">Imp</a></li>
+    <li><a href="./tb_roles/imp.html" style="color:#d45b5b; text-decoration:none;">Imp</a></li>
   </ul>
 
 </div>
