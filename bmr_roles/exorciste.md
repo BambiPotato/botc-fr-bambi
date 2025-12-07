@@ -140,6 +140,48 @@ L’**Exorciste** empêche le [<span style="color:red">Démon</span>](../demons.
   → ex. [<span style="color:red">Assassin</span>](../bmr_roles/assassin.md), [<span style="color:red">Avocat du Diable</span>](../bmr_roles/avocatdudiable.md), [Commère](../bmr_roles/commere.md)…  
 
 ---
+## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  
+  <li>
+    🧞
+    <img src="../images/Icon_leviathan.png" alt="Léviathan" width="24" 
+         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/leviathan.html" 
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Léviathan</a> :
+    Si le <span style="color:#d45b5b; font-weight:bold;">Léviathan</span> 
+    nomme puis exécute le joueur choisi par 
+    l’<a href="../bmr_roles/exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a>,  
+    le Bien gagne.
+  </li>
+
+  <li>
+    🧞
+    <img src="../images/Icon_riot.png" alt="Riot" width="24" 
+         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/riot.html" 
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> :
+    Si le <span style="color:#d45b5b; font-weight:bold;">Riot</span> 
+    nomme puis exécute le joueur choisi par  
+    l’<a href="../bmr_roles/exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a>,  
+    le Bien gagne.
+  </li>
+
+  <li>
+    🧞
+    <img src="../images/Icon_yaggababble.png" alt="Yaggababble" width="24" 
+         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/yaggababble.html" 
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Yaggababble</a> :
+    Si l’<a href="../bmr_roles/exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a> 
+    choisit le <span style="color:#d45b5b; font-weight:bold;">Yaggababble</span>,  
+   le Yaggababble ne tue personne cette nuit.
+  </li>
+  
+</ul> 
+
+---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
   🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
