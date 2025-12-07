@@ -138,6 +138,38 @@ Le **Courtisan** choisit un **rôle** (et non un joueur) qui devient ivre pendan
 
 ---
 
+<h2 style="color:#4ea3ff; font-size:22px; margin-top:30px;">
+  🧞 Jinxes liés
+</h2>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+  <!-- SUMMONER -->
+  <li>
+    🧞
+    <img src="../images/Icon_summoner.png" alt="Invocateur" width="24"
+         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/summoner.html"
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocateur</a> :
+    Si l’<span style="color:#d45b5b; font-weight:bold;">Invocateur</span> vivant 
+    n’a plus de capacité, le Conteur obtient alors la capacité de l’Invocateur.
+  </li>
+
+  <!-- VIZIER -->
+  <li>
+    🧞
+    <img src="../images/Icon_vizier.png" alt="Vizir" width="24"
+         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/vizier.html"
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a> :
+    Si le <span style="color:#d45b5b; font-weight:bold;">Vizir</span> perd sa capacité,  
+    il l’apprend immédiatement et **ne peut plus mourir de jour**.
+  </li>
+
+</ul>
+
+---
+
 <p style="text-align:left; font-size:18px; margin-top:20px;">
   🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
   👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
