@@ -132,6 +132,10 @@ La **Femme de Chambre** permet de savoir qui s’est réveillé la nuit.
 - Même en tant que bon joueur, bluffer ce rôle peut mettre la pression sur les autres et forcer les <span style="color:red">Sbires</span> à changer leurs mensonges.  
 
 ---
+
+## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
     🧞
     <img src="../images/Icon_mathematician.png" alt="Mathématicien" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
