@@ -45,6 +45,57 @@ title: Trouble Brewing
   <a href="#telechargements" style="color:#b58b52; font-weight:bold; text-decoration:none;">Téléchargements & Ressources</a>
 </p>
 
+<!-- COLONNE DROITE : liste des rôles cliquables -->
+<div style="float:right; width:230px; border-left:1px solid #b58b52; padding-left:12px; margin-left:24px; margin-top:8px; font-size:16px; line-height:1.7;">
+
+  <p style="font-weight:bold; color:#b58b52; margin-top:0; margin-bottom:8px;">
+    Rôles Trouble Brewing
+  </p>
+
+  <!-- Villageois -->
+  <p style="font-weight:bold; color:#4ea3ff; margin-bottom:4px;">Villageois</p>
+  <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:12px;">
+    <li><a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; text-decoration:none;">Lavandière</a></li>
+    <li><a href="./tb_roles/bibliothecaire.html" style="color:#4ea3ff; text-decoration:none;">Bibliothécaire</a></li>
+    <li><a href="./tb_roles/enqueteur.html" style="color:#4ea3ff; text-decoration:none;">Enquêteur</a></li>
+    <li><a href="./tb_roles/cuistot.html" style="color:#4ea3ff; text-decoration:none;">Cuistot</a></li>
+    <li><a href="./tb_roles/empathique.html" style="color:#4ea3ff; text-decoration:none;">Empathique</a></li>
+    <li><a href="./tb_roles/voyante.html" style="color:#4ea3ff; text-decoration:none;">Voyante</a></li>
+    <li><a href="./tb_roles/croquemort.html" style="color:#4ea3ff; text-decoration:none;">Croque-Mort</a></li>
+    <li><a href="./tb_roles/moine.html" style="color:#4ea3ff; text-decoration:none;">Moine</a></li>
+    <li><a href="./tb_roles/gardien.html" style="color:#4ea3ff; text-decoration:none;">Gardien</a></li>
+    <li><a href="./tb_roles/vierge.html" style="color:#4ea3ff; text-decoration:none;">Vierge</a></li>
+    <li><a href="./tb_roles/mercenaire.html" style="color:#4ea3ff; text-decoration:none;">Mercenaire</a></li>
+    <li><a href="./tb_roles/soldat.html" style="color:#4ea3ff; text-decoration:none;">Soldat</a></li>
+    <li><a href="./tb_roles/maire.html" style="color:#4ea3ff; text-decoration:none;">Maire</a></li>
+  </ul>
+
+  <!-- Étrangers -->
+  <p style="font-weight:bold; color:#4ea3ff; margin-bottom:4px;">Étrangers</p>
+  <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:12px;">
+    <li><a href="./tb_roles/majordome.html" style="color:#4ea3ff; text-decoration:none;">Majordome</a></li>
+    <li><a href="./tb_roles/ivrogne.html" style="color:#4ea3ff; text-decoration:none;">Ivrogne</a></li>
+    <li><a href="./tb_roles/reclus.html" style="color:#4ea3ff; text-decoration:none;">Reclus</a></li>
+    <li><a href="./tb_roles/saint.html" style="color:#4ea3ff; text-decoration:none;">Saint</a></li>
+  </ul>
+
+  <!-- Sbires -->
+  <p style="font-weight:bold; color:red; margin-bottom:4px;">Sbires</p>
+  <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:12px;">
+    <li><a href="./tb_roles/empoisonneur.html" style="color:red; text-decoration:none;">Empoisonneur</a></li>
+    <li><a href="./tb_roles/espion.html" style="color:red; text-decoration:none;">Espion</a></li>
+    <li><a href="./tb_roles/femmeecarlate.html" style="color:red; text-decoration:none;">Femme Écarlate</a></li>
+    <li><a href="./tb_roles/baron.html" style="color:red; text-decoration:none;">Baron</a></li>
+  </ul>
+
+  <!-- Démons -->
+  <p style="font-weight:bold; color:red; margin-bottom:4px;">Démons</p>
+  <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:0;">
+    <li><a href="./tb_roles/imp.html" style="color:red; text-decoration:none;">Imp</a></li>
+  </ul>
+
+</div>
+
 ---
 
 ## <span id="synopsis" style="color:#b58b52;">Synopsis</span>
@@ -96,7 +147,7 @@ Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient
 
 
 <p style="text-align:left; color:#e0c99d; font-size:20px;">
-  <a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
+  <a id="villageois" href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
 </p>
 
 <!-- GRID VILLAGEOIS -->
@@ -186,7 +237,7 @@ Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient
 
 
 <p style="text-align:left; color:#e0c99d; font-size:20px;">
-  <a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>
+  <a id="etrangers" href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>
 </p>
 
 <!-- GRID ÉTRANGERS -->
@@ -222,7 +273,7 @@ Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient
 
 
 <p style="text-align:left; color:#e0c99d; font-size:18px;">
-  <a href="./sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>
+  <a id="sbires" href="./sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>
 </p>
 
 <!-- GRID SBIRES -->
@@ -257,7 +308,7 @@ Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient
 ---
 
 <p style="text-align:left; color:#e0c99d; font-size:18px;">
-  <a href="./demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démons</a>
+  <a id="demons" href="./demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démons</a>
 </p>
 
 <!-- GRID DÉMONS -->
