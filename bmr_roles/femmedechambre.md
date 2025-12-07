@@ -140,7 +140,7 @@ La **Femme de Chambre** permet de savoir qui s’est réveillé la nuit.
     🧞
     <img src="../images/Icon_mathematician.png" alt="Mathématicien" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../sv_roles/mathematicien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mathématicien</a> :  
-    la 
+    La
     <a href="../bmr_roles/femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de Chambre</a> 
     peut détecter si le Mathématicien se réveille cette nuit.
   </li>
