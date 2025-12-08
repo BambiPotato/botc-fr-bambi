@@ -614,14 +614,12 @@
   </p>
 
   <ul style="color:#e0c99d; font-size:20px; line-height:1.7; margin-left:30px;">
-    <li> <strong>Paris</strong> parties menées par <span style="color:#d4a76a; font-weight:bold;">Pierre</span>  
-      → <a href="https://www.meetup.com/blood-on-the-clocktower-paris/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">
+    <li>  → <a href="https://www.meetup.com/blood-on-the-clocktower-paris/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">
         Blood on the Clocktower Paris Meetup
       </a>
     </li>
 
-    <li> <strong>Nantes</strong> parties menées par <span style="color:#d4a76a; font-weight:bold;">Bibel</span>   
-      → <a href="https://www.meetup.com/blood-on-the-clocktower-nantes/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">
+    <li>  → <a href="https://www.meetup.com/blood-on-the-clocktower-nantes/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">
         Blood on the Clocktower Nantes Meetup
       </a>
     </li>
