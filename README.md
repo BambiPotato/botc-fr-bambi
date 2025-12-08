@@ -539,7 +539,7 @@
   }
 </style>
 
-<h2 style="color:#b58b52; font-weight:bold; font-size:22px;">🪄 Scripts personnalisés</h2>
+<h2 style="color:#b58b52; font-weight:bold; font-size:22px;">Scripts personnalisés</h2>
 
 <div class="scripts-grid">
 
