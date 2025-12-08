@@ -26,21 +26,18 @@
   a { color: #d2b56e !important; }
   a:hover { color: #f0d88f !important; }
 
-  /* 5) Couleurs de rôles (adoucies mais visibles) */
-  [style*="color:red"]  { color: #c85c5c !important; }   /* rouge doux */
-  [style*="color:blue"] { color: #5e9eff !important; }   /* bleu lisible */
+/* 6) Cartes et blocs – un peu plus opaques pour la lisibilité */
+.home-card, .rules-cell {
+  background: rgba(0,0,0,0.45) !important;  /* voile sombre léger mais net */
+  border: 1px solid rgba(198,162,93,0.40) !important;
+  box-shadow: 0 3px 12px rgba(0,0,0,0.45) !important;
+}
 
-  /* 6) Cartes et blocs */
-  .home-card, .rules-cell {
-    background: rgba(255,255,255,0.04) !important;
-    border: 1px solid rgba(198,162,93,0.22) !important;
-    box-shadow: 0 3px 9px rgba(0,0,0,0.28) !important;
-  }
-  .home-card:hover, .rules-cell:hover {
-    background: rgba(255,255,255,0.07) !important;
-    border-color: rgba(198,162,93,0.4) !important;
-    box-shadow: 0 8px 16px rgba(0,0,0,0.35) !important;
-  }
+.home-card:hover, .rules-cell:hover {
+  background: rgba(0,0,0,0.60) !important;  /* un peu plus marqué au survol */
+  border-color: rgba(198,162,93,0.65) !important;
+  box-shadow: 0 8px 18px rgba(0,0,0,0.60) !important;
+}
 </style>
 
 
@@ -174,7 +171,7 @@
   .rules-cell {
     border:1px solid rgba(181,139,82,0.25);
     border-radius:14px;
-    background:rgba(255,255,255,0.02);
+    background:rgba(0,0,0,0.45);
     box-shadow:0 6px 18px rgba(0,0,0,0.28);
     padding:18px 12px;
     text-align:center;
@@ -253,20 +250,22 @@
 <style>
   /* === Grille table 3x3, responsive, sans <div> visibles === */
   table.roles-grid{
-    width:100%;
-    max-width:1200px;
-    margin:12px 0 0 0;
-    border-collapse:separate;
-    border-spacing:16px;
-  }
-  table.roles-grid td{
-    width:33.333%;
-    background:rgba(255,255,255,0.04);
-    border:1px solid rgba(181,139,82,0.22);
-    border-radius:16px;
-    text-align:center;
-    padding:12px;
-    vertical-align:top;
+  width:100%;
+  max-width:1200px;
+  margin:12px 0 0 0;
+  border-collapse:separate;
+  border-spacing:16px;
+}
+table.roles-grid td{
+  width:33.333%;
+  background:rgba(0,0,0,0.45);          /* fond plus opaque */
+  border:1px solid rgba(181,139,82,0.40);
+  border-radius:16px;
+  text-align:center;
+  padding:12px;
+  vertical-align:top;
+}
+}
   }
   table.roles-grid a{
     text-decoration:none;
@@ -422,7 +421,7 @@
 <table style="width:100%; border-collapse:separate; border-spacing:16px; margin:0 auto; max-width:960px;">
   <tr>
     <!-- Villageois -->
-    <td style="width:50%; text-align:center; padding:12px; background:rgba(255,255,255,0.02); border:1px solid #b58b52; border-radius:12px;">
+    <td style="width:50%; text-align:center; padding:12px; background:rgba(0,0,0,0.45); border:1px solid #b58b52; border-radius:12px;">
       <a href="./villageois.html" style="text-decoration:none; display:inline-block;">
         <img src="./images/Generic_townsfolk.png" alt="Villageois" width="240" style="border-radius:12px;">
         <div style="margin-top:8px; color:blue; font-weight:bold; font-size:20px;">Villageois</div>
@@ -430,7 +429,7 @@
     </td>
 
     <!-- Étrangers -->
-    <td style="width:50%; text-align:center; padding:12px; background:rgba(255,255,255,0.02); border:1px solid #b58b52; border-radius:12px;">
+    <td style="width:50%; text-align:center; padding:12px; background:rgba(0,0,0,0.45); border:1px solid #b58b52; border-radius:12px;">
       <a href="./etrangers.html" style="text-decoration:none; display:inline-block;">
         <img src="./images/Generic_outsider.png" alt="Étrangers" width="240" style="border-radius:12px;">
         <div style="margin-top:8px; color:blue; font-weight:bold; font-size:20px;">Étrangers</div>
@@ -440,7 +439,7 @@
 
   <tr>
     <!-- Sbires -->
-    <td style="text-align:center; padding:12px; background:rgba(255,255,255,0.02); border:1px solid #b58b52; border-radius:12px;">
+   <td style="width:50%; text-align:center; padding:12px; background:rgba(0,0,0,0.45); border:1px solid #b58b52; border-radius:12px;">
       <a href="./sbires.html" style="text-decoration:none; display:inline-block;">
         <img src="./images/Generic_minion.png" alt="Sbires" width="240" style="border-radius:12px;">
         <div style="margin-top:8px; color:red; font-weight:bold; font-size:20px;">Sbires</div>
@@ -448,7 +447,7 @@
     </td>
 
     <!-- Démons -->
-    <td style="text-align:center; padding:12px; background:rgba(255,255,255,0.02); border:1px solid #b58b52; border-radius:12px;">
+    <td style="width:50%; text-align:center; padding:12px; background:rgba(0,0,0,0.45); border:1px solid #b58b52; border-radius:12px;">
       <a href="./demons.html" style="text-decoration:none; display:inline-block;">
         <img src="./images/Generic_demon.png" alt="Démons" width="240" style="border-radius:12px;">
         <div style="margin-top:8px; color:red; font-weight:bold; font-size:20px;">Démons</div>
@@ -458,7 +457,7 @@
 
   <tr>
     <!-- Voyageurs -->
-    <td style="text-align:center; padding:12px; background:rgba(255,255,255,0.02); border:1px solid #b58b52; border-radius:12px;">
+    <td style="width:50%; text-align:center; padding:12px; background:rgba(0,0,0,0.45); border:1px solid #b58b52; border-radius:12px;">
       <a href="./voyageurs/voyageurs.html" style="text-decoration:none; display:inline-block;">
         <img src="./images/Generic_traveller.png" alt="Voyageurs" width="240" style="border-radius:12px;">
         <div style="margin-top:8px; color:purple; font-weight:bold; font-size:20px;">Voyageurs</div>
@@ -466,7 +465,7 @@
     </td>
 
     <!-- Légendaires -->
-    <td style="text-align:center; padding:12px; background:rgba(255,255,255,0.02); border:1px solid #b58b52; border-radius:12px;">
+    <td style="width:50%; text-align:center; padding:12px; background:rgba(0,0,0,0.45); border:1px solid #b58b52; border-radius:12px;">
       <a href="./legendaire.html" style="text-decoration:none; display:inline-block; opacity:0.8;">
         <img src="./images/Generic_fabled.png" alt="Légendaires" width="240" style="border-radius:12px; opacity:0.7;">
         <div style="margin-top:8px; color:#b58b52; font-weight:bold; font-size:20px;">Légendaires</div>
@@ -493,7 +492,7 @@
     border-radius: 14px;
     overflow: hidden;
     border: 1px solid rgba(181,139,82,0.28);
-    background: rgba(255,255,255,0.02);
+   background: rgba(0,0,0,0.45); /* voile plus opaque */
     box-shadow: 0 6px 18px rgba(0,0,0,0.28);
     transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease, background .18s ease;
     width: 100%;
@@ -591,7 +590,7 @@
 </div>
 
 ---
-<div style="text-align:left; margin-top:40px; line-height:1.8; border:1px solid rgba(212,167,106,0.3); border-radius:10px; padding:25px; box-shadow:0 0 12px rgba(0,0,0,0.4); background-color:rgba(255,255,255,0.02);">
+<div style="text-align:left; margin-top:40px; line-height:1.8; border:1px solid rgba(212,167,106,0.3); border-radius:10px; padding:25px; box-shadow:0 0 12px rgba(0,0,0,0.4); background-color:rgba(0,0,0,0.45);">
 
   <h2 style="color:#d4a76a; font-size:34px; font-weight:bold; text-shadow:1px 1px 4px #000;">
      Jouer en personne ou en ligne&nbsp;?
