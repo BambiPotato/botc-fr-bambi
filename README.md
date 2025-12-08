@@ -44,17 +44,17 @@
 </style>
 
 
- <!-- 🏠 PAGE D’ACCUEIL - WIKI BOTC FR -->
+ <!--  PAGE D’ACCUEIL - WIKI BOTC FR -->
 
 <div style="text-align:center; margin-top:40px;">
 
   <h1 style="color:#b58b52; font-size:46px; font-weight:bold; text-shadow:2px 2px 6px #000;">
-    📜 PAGE PRINCIPALE
+     PAGE PRINCIPALE
   </h1>
 
   <h2 style="color:#b58b52; font-size:36px; font-weight:bold; text-shadow:2px 2px 6px #000; margin-top:20px;">
-    🚪 Bienvenue sur le Wiki Francophone 🇫🇷 🌍 "non officiel"  de <br>
-    <span style="color:#d4a76a;">Blood 🩸 on the Clocktower 🕰️</span>
+     Bienvenue sur le Wiki Francophone 🇫🇷 "non officiel"  de <br>
+    <span style="color:#d4a76a;">Blood on the Clocktower </span>
   </h2>
 
   <p style="font-size:20px; color:#e0c99d; font-style:italic; margin-top:15px;">
@@ -72,7 +72,7 @@
     des <span style="font-weight:bold; color:#d4a76a;">conseils</span> et des
     <span style="font-weight:bold; color:#d4a76a;">ressources</span>
     pour aider les communautés francophones à jouer dans un cadre
-    <span style="font-weight:bold; color:#d4a76a;">inclusif 🤝 et bienveillant. 🫶🏻</span>
+    <span style="font-weight:bold; color:#d4a76a;">inclusif et bienveillant.</span>
   </p>
 
 </div>
@@ -128,20 +128,20 @@
 </style>
 
 <h1 style="color:#b58b52; font-size:46px; font-weight:bold; text-shadow:2px 2px 6px #000; margin-bottom:10px;">
-  📜 Informations sur le Jeu
+  Informations sur le Jeu
 </h1>
 
 <!-- 🔹 LIGNE 1 : Glossaires -->
 <div class="info-grid">
 
-  <!-- 📘 Glossaire FR -->
+  <!--  Glossaire FR -->
   <a class="home-card" href="./glossaire.html" aria-label="Glossaire des termes Français">
-    <span class="home-title">📘 Glossaire des termes 🇫🇷</span>
+    <span class="home-title">Glossaire des termes 🇫🇷</span>
   </a>
 
-  <!-- 📘 Glossaire EN -->
+  <!--  Glossaire EN -->
   <a class="home-card" href="./glossaireengfr.html" aria-label="Glossaire des termes anglais">
-    <span class="home-title">📘 Glossary des termes en anglais</span>
+    <span class="home-title">Glossary des termes en anglais</span>
   </a>
 
 </div>
@@ -149,14 +149,14 @@
 <!-- 🔹 LIGNE 2 : Conseils -->
 <div class="info-grid" style="margin-top:10px;">
 
-  <!-- 📘 Conseils Conteurs -->
+  <!-- Conseils Conteurs -->
   <a class="home-card" href="./conteur.html" aria-label="Conseils pour les Conteurs et Conteuses">
-    <span class="home-title">📘 Conseils pour les Conteurs et Conteuses</span>
+    <span class="home-title">Conseils pour les Conteurs et Conteuses</span>
   </a>
 
-  <!-- 📘 Conseils Joueurs -->
+  <!-- Conseils Joueurs -->
   <a class="home-card" href="./strategie.html" aria-label="Conseils et Stratégies pour les joueurs et joueuses">
-    <span class="home-title">📘 Conseils & Stratégies pour les joueurs et joueuses</span>
+    <span class="home-title">Conseils & Stratégies pour les joueurs et joueuses</span>
   </a>
 
 </div>
@@ -166,7 +166,7 @@
 
 <!-- 📖 Livre des Règles (version table, sans <div>) -->
 <h1 style="color:#b58b52; font-size:46px; font-weight:bold; text-shadow:2px 2px 6px #000; margin-bottom:14px;">
-  📜 Livre des Règles
+  Livre des Règles
 </h1>
 
 <style>
@@ -248,7 +248,7 @@
 
 ---
 
-## <span style="color:#b58b52; font-weight:bold; font-size:22px;">👺 Rôles par Édition</span>
+## <span style="color:#b58b52; font-weight:bold; font-size:22px;">Rôles par Édition</span>
 
 <style>
   /* === Grille table 3x3, responsive, sans <div> visibles === */
@@ -340,7 +340,7 @@
         <span class="rg-media">
           <img src="./images/Logo_trouble_brewing.png" alt="Trouble Brewing">
         </span>
-        <span class="rg-title">🍺 Trouble Brewing</span>
+        <span class="rg-title">Trouble Brewing</span>
       </a>
     </td>
 
@@ -350,7 +350,7 @@
         <span class="rg-media">
           <img src="./images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising">
         </span>
-        <span class="rg-title">🌛 Bad Moon Rising</span>
+        <span class="rg-title">Bad Moon Rising</span>
       </a>
     </td>
 
@@ -360,7 +360,7 @@
         <span class="rg-media">
           <img src="./images/Logo_sects_and_violets.png" alt="Sects &amp; Violets">
         </span>
-        <span class="rg-title">🌸 Sects &amp; Violets</span>
+        <span class="rg-title">Sects &amp; Violets</span>
       </a>
     </td>
   </tr>
@@ -372,7 +372,7 @@
         <span class="rg-media">
           <img src="./images/Generic_traveller.png" alt="Voyageurs">
         </span>
-        <span class="rg-title">🚶 Voyageurs</span>
+        <span class="rg-title">Voyageurs</span>
       </a>
     </td>
 
@@ -382,7 +382,7 @@
     <span class="rg-media">
       <img src="./images/carousel.png" alt="The Carousel Expérimental">
     </span>
-    <span class="rg-title">🎠 The Carousel Expérimentaux</span>
+    <span class="rg-title">The Carousel Expérimentaux</span>
   </a>
 </td>
 
@@ -392,7 +392,7 @@
     <span class="rg-media">
       <img src="./images/Generic_fabled.png" alt="Légendaires" style="opacity:.65; filter:grayscale(15%);">
     </span>
-    <span class="rg-title">🏰 Légendaires</span>
+    <span class="rg-title">Légendaires</span>
   </a>
 </td>
   </tr>
@@ -404,7 +404,7 @@
         <span class="rg-media">
           <img src="./images/Generic_loric.png" alt="Lorics">
         </span>
-        <span class="rg-title">🌿 Lorics</span>
+        <span class="rg-title">Lorics</span>
       </a>
     </td>
 
@@ -416,7 +416,7 @@
 <!-- ====== /GRID D'ACCUEIL ====== -->
 
 ---
-<!-- 🎭 Catégories -->
+<!-- Catégories -->
 <h2 style="color:#b58b52; font-weight:bold; font-size:22px; text-align:left;">🎭 Catégories</h2>
 
 <table style="width:100%; border-collapse:separate; border-spacing:16px; margin:0 auto; max-width:960px;">
@@ -543,10 +543,10 @@
 
 <div class="scripts-grid">
 
-  <!-- 📜 Scripts personnalisés -->
+  <!-- Scripts personnalisés -->
   <a class="home-card" href="#" onclick="return false;" aria-label="Scripts personnalisés">
     <img src="./images/Icon_mezepheles.png" alt="Scripts personnalisés" style="opacity:.9;">
-    <span class="home-title">📜 Scripts personnalisés</span>
+    <span class="home-title">Scripts personnalisés</span>
     <span class="badge-pending">à venir</span>
   </a>
 
@@ -562,18 +562,18 @@
   </h2>
 
   <ul style="list-style:none; padding-left:0; font-size:19px; color:#e0c99d;">
-    <li>🎮 <a href="https://botc.app/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Pour jouer en ligne à Blood 🩸 on the Clocktower 🕰️</a></li>
-    <li>📜 <a href="https://wiki.bloodontheclocktower.com/Main_Page" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Wiki officiel BotC🩸TPI</a></li>
-         <li>📚 <a href="https://www.botcscripts.com" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">BotC Scripts</a></li>
-    <li>🧮 <a href="https://script.bloodontheclocktower.com/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Outil 🔧 officiel de création de scripts</a></li>
-    <li>🧪 <a href="https://savant.thegrim.gg/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Générateur d’informations pour le Savant 🦽</a></li>
+    <li> <a href="https://botc.app/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Pour jouer en ligne à Blood 🩸 on the Clocktower </a></li>
+    <li> <a href="https://wiki.bloodontheclocktower.com/Main_Page" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Wiki officiel BotCTPI</a></li>
+         <li> <a href="https://www.botcscripts.com" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">BotC Scripts</a></li>
+    <li> <a href="https://script.bloodontheclocktower.com/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Outil 🔧 officiel de création de scripts</a></li>
+    <li> <a href="https://savant.thegrim.gg/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Générateur d’informations pour le Savant </a></li>
   
   </ul>
 
   <hr style="width:40%; border:1px solid #b58b52; opacity:0.6; margin:25px 0;">
 
   <h2 style="color:#b58b52; font-weight:bold; font-size:26px; margin-bottom:10px;">
-    🌍 Réseaux Sociaux
+     Réseaux Sociaux
   </h2>
 
   <p style="color:#e0c99d; font-size:19px; margin-bottom:15px;">
@@ -581,11 +581,11 @@
   </p>
 
   <ul style="list-style:none; padding-left:0; font-size:19px; color:#e0c99d;">
-    <li>💬 <a href="https://discord.gg/tGDVmZfZpE" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Discord</a></li>
-    <li>🎥 <a href="https://www.youtube.com/@Bambipotato" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">YouTube</a></li>
-    <li>🎮 <a href="https://www.twitch.tv/bambibluepotato" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Twitch</a></li>
-    <li>📸 <a href="https://www.instagram.com/bambibluepotato/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Instagram</a></li>
-    <li>🌐 <a href="https://bsky.app/profile/bambibluepotato.bsky.social" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Bluesky</a></li>
+    <li> <a href="https://discord.gg/tGDVmZfZpE" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Discord</a></li>
+    <li> <a href="https://www.youtube.com/@Bambipotato" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">YouTube</a></li>
+    <li> <a href="https://www.twitch.tv/bambibluepotato" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Twitch</a></li>
+    <li> <a href="https://www.instagram.com/bambibluepotato/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Instagram</a></li>
+    <li> <a href="https://bsky.app/profile/bambibluepotato.bsky.social" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Bluesky</a></li>
   </ul>
 
 </div>
@@ -594,11 +594,11 @@
 <div style="text-align:left; margin-top:40px; line-height:1.8; border:1px solid rgba(212,167,106,0.3); border-radius:10px; padding:25px; box-shadow:0 0 12px rgba(0,0,0,0.4); background-color:rgba(255,255,255,0.02);">
 
   <h2 style="color:#d4a76a; font-size:34px; font-weight:bold; text-shadow:1px 1px 4px #000;">
-    🩸🕰️ Jouer en personne ou en ligne&nbsp;?
+     Jouer en personne ou en ligne&nbsp;?
   </h2>
 
   <p style="font-size:20px; color:#e0c99d;">
-    Que vous découvriez <em>Blood 🩸 on the Clocktower 🕰️</em> autour d’une table ou à distance,  
+    Que vous découvriez <em>Blood on the Clocktower </em> autour d’une table ou à distance,  
     ce wiki est là pour vous aider à créer des parties passionnantes, accessibles et équilibrées.
   </p>
 
@@ -614,13 +614,13 @@
   </p>
 
   <ul style="color:#e0c99d; font-size:20px; line-height:1.7; margin-left:30px;">
-    <li>🗼 <strong>Paris</strong> parties menées par <span style="color:#d4a76a; font-weight:bold;">Pierre</span> 💫  
+    <li> <strong>Paris</strong> parties menées par <span style="color:#d4a76a; font-weight:bold;">Pierre</span>  
       → <a href="https://www.meetup.com/blood-on-the-clocktower-paris/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">
         Blood on the Clocktower Paris Meetup
       </a>
     </li>
 
-    <li>⚓ <strong>Nantes</strong> parties menées par <span style="color:#d4a76a; font-weight:bold;">Bibel</span> 🎭  
+    <li>⚓ <strong>Nantes</strong> parties menées par <span style="color:#d4a76a; font-weight:bold;">Bibel</span>   
       → <a href="https://www.meetup.com/blood-on-the-clocktower-nantes/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">
         Blood on the Clocktower Nantes Meetup
       </a>
@@ -638,12 +638,12 @@
   </p>
 
   <p style="font-size:19px; color:#e0c99d; margin-top:20px;">
-    ✨ Ce projet vit grâce à la passion et à la collaboration de nombreuses joueuses et de nombreux joueurs.  
+     Ce projet vit grâce à la passion et à la collaboration de nombreuses joueuses et de nombreux joueurs.  
     N’hésitez pas à proposer vos <span style="color:#d4a76a; font-weight:bold;">idées</span> ou vos <span style="color:#d4a76a; font-weight:bold;">corrections</span> pour continuer à l’enrichir.
   </p>
 
   <p style="font-size:20px; color:#d4a76a; margin-top:25px; font-weight:bold; text-align:left;">
-    💖 Merci à toutes et à tous.
+     Merci à toutes et à tous.
   </p>
 
   <p style="font-size:19px; color:#e0c99d; margin-top:25px;">
