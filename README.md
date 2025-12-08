@@ -43,7 +43,7 @@
 
  <!--  PAGE D’ACCUEIL - WIKI BOTC FR -->
 
-<div style="text-align:center; margin-top:40px;">
+<div style="text-align:center; margin:40px auto 0 auto; max-width:980px; padding:25px 20px; border:1px solid rgba(212,167,106,0.3); border-radius:10px; box-shadow:0 0 12px rgba(0,0,0,0.4); background-color:rgba(0,0,0,0.45);">
 
   <h1 style="color:#b58b52; font-size:46px; font-weight:bold; text-shadow:2px 2px 6px #000;">
      PAGE PRINCIPALE
@@ -61,7 +61,7 @@
 </div>
 
 
-<div style="text-align:center; margin-top:25px;">
+<div style="text-align:center; margin:25px auto 0 auto; max-width:980px; padding:20px; border:1px solid rgba(212,167,106,0.3); border-radius:10px; box-shadow:0 0 12px rgba(0,0,0,0.4); background-color:rgba(0,0,0,0.45);">
 
   <p style="font-size:22px; color:#e0c99d; font-style:italic; line-height:1.8;">
     Ce projet a pour but de proposer des
@@ -552,24 +552,55 @@ table.roles-grid td{
 </div>
 <!-- ====== /SCRIPTS PERSONNALISÉS ====== -->
 
-
 ---
-<div style="text-align:left; margin:40px 0; line-height:1.8;">
 
-  <h2 style="color:#b58b52; font-weight:bold; font-size:26px; margin-bottom:10px;">
+<div style="
+  max-width:980px;
+  margin:40px auto;
+  padding:25px 20px;
+  border:1px solid rgba(212,167,106,0.3);
+  border-radius:10px;
+  background-color:rgba(0,0,0,0.45);
+  box-shadow:0 0 12px rgba(0,0,0,0.4);
+">
+
+  <h2 style="
+    color:#b58b52;
+    font-weight:bold;
+    font-size:26px;
+    margin-bottom:10px;
+  ">
      Ressources en ligne
   </h2>
 
-  <ul style="list-style:none; padding-left:0; font-size:19px; color:#e0c99d;">
-    <li> → <a href="https://botc.app/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Pour jouer en ligne à Blood on the Clocktower </a></li>
+  <ul style="
+    list-style:none;
+    padding-left:0;
+    font-size:19px;
+    color:#e0c99d;
+  ">
+    <li> → <a href="https://botc.app/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Pour jouer en ligne à Blood on the Clocktower</a></li>
     <li> → <a href="https://wiki.bloodontheclocktower.com/Main_Page" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Wiki officiel BotCTPI</a></li>
-         <li> → <a href="https://www.botcscripts.com" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">BotC Scripts</a></li>
+    <li> → <a href="https://www.botcscripts.com" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">BotC Scripts</a></li>
     <li> → <a href="https://script.bloodontheclocktower.com/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Outil officiel de création de scripts</a></li>
-    <li> → <a href="https://savant.thegrim.gg/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Générateur d’informations pour le Savant </a></li>
-  
+    <li> → <a href="https://savant.thegrim.gg/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Générateur d’informations pour le Savant</a></li>
   </ul>
 
+</div>
+  
+---
+
   <hr style="width:40%; border:1px solid #b58b52; opacity:0.6; margin:25px 0;">
+
+ <div style="
+  max-width:980px;
+  margin:40px auto;
+  padding:25px 20px;
+  border:1px solid rgba(212,167,106,0.3);
+  border-radius:10px;
+  background-color:rgba(0,0,0,0.45);
+  box-shadow:0 0 12px rgba(0,0,0,0.4);
+">
 
   <h2 style="color:#b58b52; font-weight:bold; font-size:26px; margin-bottom:10px;">
      Réseaux Sociaux
@@ -588,8 +619,8 @@ table.roles-grid td{
   </ul>
 
 </div>
-
 ---
+
 <div style="text-align:left; margin-top:40px; line-height:1.8; border:1px solid rgba(212,167,106,0.3); border-radius:10px; padding:25px; box-shadow:0 0 12px rgba(0,0,0,0.4); background-color:rgba(0,0,0,0.45);">
 
   <h2 style="color:#d4a76a; font-size:34px; font-weight:bold; text-shadow:1px 1px 4px #000;">
