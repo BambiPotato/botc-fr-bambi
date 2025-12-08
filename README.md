@@ -131,7 +131,7 @@
   Informations sur le Jeu
 </h1>
 
-<!-- 🔹 LIGNE 1 : Glossaires -->
+<!--  LIGNE 1 : Glossaires -->
 <div class="info-grid">
 
   <!--  Glossaire FR -->
@@ -146,7 +146,7 @@
 
 </div>
 
-<!-- 🔹 LIGNE 2 : Conseils -->
+<!--  LIGNE 2 : Conseils -->
 <div class="info-grid" style="margin-top:10px;">
 
   <!-- Conseils Conteurs -->
@@ -164,7 +164,7 @@
 
 ---
 
-<!-- 📖 Livre des Règles (version table, sans <div>) -->
+<!--  Livre des Règles (version table, sans <div>) -->
 <h1 style="color:#b58b52; font-size:46px; font-weight:bold; text-shadow:2px 2px 6px #000; margin-bottom:14px;">
   Livre des Règles
 </h1>
@@ -558,14 +558,14 @@
 <div style="text-align:left; margin:40px 0; line-height:1.8;">
 
   <h2 style="color:#b58b52; font-weight:bold; font-size:26px; margin-bottom:10px;">
-    🛠️ Ressources en ligne
+     Ressources en ligne
   </h2>
 
   <ul style="list-style:none; padding-left:0; font-size:19px; color:#e0c99d;">
-    <li> <a href="https://botc.app/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Pour jouer en ligne à Blood 🩸 on the Clocktower </a></li>
+    <li> <a href="https://botc.app/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Pour jouer en ligne à Blood on the Clocktower </a></li>
     <li> <a href="https://wiki.bloodontheclocktower.com/Main_Page" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Wiki officiel BotCTPI</a></li>
          <li> <a href="https://www.botcscripts.com" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">BotC Scripts</a></li>
-    <li> <a href="https://script.bloodontheclocktower.com/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Outil 🔧 officiel de création de scripts</a></li>
+    <li> <a href="https://script.bloodontheclocktower.com/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Outil officiel de création de scripts</a></li>
     <li> <a href="https://savant.thegrim.gg/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Générateur d’informations pour le Savant </a></li>
   
   </ul>
@@ -604,7 +604,7 @@
 
   <p style="font-size:20px; color:#e0c99d;">
     Chaque communauté, qu’elle soit locale ou en ligne, est encouragée à jouer dans un 
-    <span style="color:#d4a76a; font-weight:bold;">cadre bienveillant, respectueux et sain 🕊️</span>,  
+    <span style="color:#d4a76a; font-weight:bold;">cadre bienveillant, respectueux et sain</span>,  
     où l’amusement, la confiance et l’inclusivité passent toujours avant la compétition.
   </p>
 
@@ -620,7 +620,7 @@
       </a>
     </li>
 
-    <li>⚓ <strong>Nantes</strong> parties menées par <span style="color:#d4a76a; font-weight:bold;">Bibel</span>   
+    <li> <strong>Nantes</strong> parties menées par <span style="color:#d4a76a; font-weight:bold;">Bibel</span>   
       → <a href="https://www.meetup.com/blood-on-the-clocktower-nantes/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">
         Blood on the Clocktower Nantes Meetup
       </a>
