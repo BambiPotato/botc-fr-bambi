@@ -334,7 +334,7 @@
 
 <table class="roles-grid" role="presentation" aria-label="Rôles par Édition">
   <tr>
-    <!-- 🍺 Trouble Brewing -->
+    <!--  Trouble Brewing -->
     <td>
       <a href="./trouble_brewing.html">
         <span class="rg-media">
@@ -344,7 +344,7 @@
       </a>
     </td>
 
-    <!-- 🌛 Bad Moon Rising -->
+    <!--  Bad Moon Rising -->
     <td>
       <a href="./bmr.html">
         <span class="rg-media">
@@ -354,7 +354,7 @@
       </a>
     </td>
 
-    <!-- 🌸 Sects & Violets -->
+    <!--  Sects & Violets -->
     <td>
       <a href="./sv.html">
         <span class="rg-media">
@@ -366,7 +366,7 @@
   </tr>
 
   <tr>
-    <!-- 🚶 Voyageurs -->
+    <!--  Voyageurs -->
     <td>
       <a href="./voyageurs/voyageurs.html">
         <span class="rg-media">
@@ -376,7 +376,7 @@
       </a>
     </td>
 
-    <!-- 🎠 The Carousel Expérimental -->
+    <!--  The Carousel Expérimental -->
 <td>
   <a href="./experimentaux.html">
     <span class="rg-media">
@@ -386,7 +386,7 @@
   </a>
 </td>
 
-   <!-- 🏰 Légendaires -->
+   <!--  Légendaires -->
 <td>
   <a href="./legendaire.html">
     <span class="rg-media">
@@ -398,7 +398,7 @@
   </tr>
 
   <tr>
-    <!-- 🌿 Lorics -->
+    <!--  Lorics -->
     <td>
       <a href="./loric.html">
         <span class="rg-media">
@@ -417,7 +417,7 @@
 
 ---
 <!-- Catégories -->
-<h2 style="color:#b58b52; font-weight:bold; font-size:22px; text-align:left;">🎭 Catégories</h2>
+<h2 style="color:#b58b52; font-weight:bold; font-size:22px; text-align:left;">Catégories</h2>
 
 <table style="width:100%; border-collapse:separate; border-spacing:16px; margin:0 auto; max-width:960px;">
   <tr>
