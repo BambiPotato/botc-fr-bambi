@@ -45,11 +45,11 @@
 
 <div style="text-align:center; margin:40px auto 0 auto; max-width:980px; padding:25px 20px; border:1px solid rgba(212,167,106,0.3); border-radius:10px; box-shadow:0 0 12px rgba(0,0,0,0.4); background-color:rgba(0,0,0,0.45);">
 
-  <h1 style="color:#b58b52; font-size:46px; font-weight:bold; text-shadow:2px 2px 6px #000;">
+  <h1 style="color:#b58b52; font-size:28px; font-weight:bold; text-shadow:2px 2px 6px #000;">
      PAGE PRINCIPALE
   </h1>
 
-  <h2 style="color:#b58b52; font-size:36px; font-weight:bold; text-shadow:2px 2px 6px #000; margin-top:20px;">
+  <h2 style="color:#b58b52; font-size:26px; font-weight:bold; text-shadow:2px 2px 6px #000; margin-top:20px;">
      Bienvenue sur le Wiki Francophone 🇫🇷 "non officiel"  de <br>
     <span style="color:#d4a76a;">Blood on the Clocktower </span>
   </h2>
@@ -63,7 +63,7 @@
 
 <div style="text-align:center; margin:25px auto 0 auto; max-width:980px; padding:20px; border:1px solid rgba(212,167,106,0.3); border-radius:10px; box-shadow:0 0 12px rgba(0,0,0,0.4); background-color:rgba(0,0,0,0.45);">
 
-  <p style="font-size:22px; color:#e0c99d; font-style:italic; line-height:1.8;">
+  <p style="font-size:20px; color:#e0c99d; font-style:italic; line-height:1.8;">
     Ce projet a pour but de proposer des
     <span style="font-weight:bold; color:#d4a76a;">traductions fidèles</span>,
     des <span style="font-weight:bold; color:#d4a76a;">conseils</span> et des
@@ -82,14 +82,14 @@
 <hr style="margin:16px auto; max-width:980px; border:1px solid rgba(181,139,82,.25);">
 <!-- ====== INFORMATIONS SUR LE JEU ====== -->
 <style>
-  .info-grid {
+.info-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
     gap: 26px;
-    justify-items: center;
+    justify-items: start; /* aligné à gauche */
     margin: 26px auto 12px auto;
     max-width: 700px;
-  }
+}
 
   .home-card {
     display: inline-block;
@@ -418,6 +418,8 @@ table.roles-grid td{
 <!-- Catégories -->
 <h2 style="color:#b58b52; font-weight:bold; font-size:22px; text-align:left;">Catégories</h2>
 
+<div style="max-width:980px; margin:0 auto; text-align:left;">
+
 <table style="width:100%; border-collapse:separate; border-spacing:16px; margin:0 auto; max-width:960px;">
   <tr>
     <!-- Villageois -->
@@ -439,10 +441,10 @@ table.roles-grid td{
 
   <tr>
     <!-- Sbires -->
-   <td style="width:50%; text-align:center; padding:12px; background:rgba(0,0,0,0.45); border:1px solid #b58b52; border-radius:12px;">
+    <td style="width:50%; text-align:center; padding:12px; background:rgba(0,0,0,0.45); border:1px solid #b58b52; border-radius:12px;">
       <a href="./sbires.html" style="text-decoration:none; display:inline-block;">
         <img src="./images/Generic_minion.png" alt="Sbires" width="240" style="border-radius:12px;">
-        <div style="margin-top:8px; color:d45b5b; font-weight:bold; font-size:20px;">Sbires</div>
+        <div style="margin-top:8px; color:#d45b5b; font-weight:bold; font-size:20px;">Sbires</div>
       </a>
     </td>
 
@@ -450,7 +452,7 @@ table.roles-grid td{
     <td style="width:50%; text-align:center; padding:12px; background:rgba(0,0,0,0.45); border:1px solid #b58b52; border-radius:12px;">
       <a href="./demons.html" style="text-decoration:none; display:inline-block;">
         <img src="./images/Generic_demon.png" alt="Démons" width="240" style="border-radius:12px;">
-        <div style="margin-top:8px; color:d45b5b; font-weight:bold; font-size:20px;">Démons</div>
+        <div style="margin-top:8px; color:#d45b5b; font-weight:bold; font-size:20px;">Démons</div>
       </a>
     </td>
   </tr>
@@ -473,13 +475,16 @@ table.roles-grid td{
     </td>
   </tr>
 </table>
+
+</div>
+
 ---
 
 <!-- ====== SCRIPTS PERSONNALISÉS ====== -->
 <style>
   .scripts-grid {
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     flex-wrap: wrap;
     gap: 30px;
     margin: 26px auto 12px auto;
@@ -558,6 +563,7 @@ table.roles-grid td{
   max-width:980px;
   margin:40px auto;
   padding:25px 20px;
+  text-align:left;
   border:1px solid rgba(212,167,106,0.3);
   border-radius:10px;
   background-color:rgba(0,0,0,0.45);
@@ -590,10 +596,11 @@ table.roles-grid td{
   
 ---
 
- <div style="
+<div style="
   max-width:980px;
   margin:40px auto;
   padding:25px 20px;
+  text-align:left;
   border:1px solid rgba(212,167,106,0.3);
   border-radius:10px;
   background-color:rgba(0,0,0,0.45);
