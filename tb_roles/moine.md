@@ -5,7 +5,7 @@
   </a>
 </p>
 
-## ✝️ <span style="color:blue">Moine</span>  
+##  <span style="color:blue">Moine</span>  
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -17,16 +17,16 @@
 </div>
 
  
-## ℹ️ <span style="color:blue">Informations</span>  
+##  <span style="color:blue">Informations</span>  
 
 - **Type** : [Villageois](../villageois.md)
 - **Artiste** : Aidan Roberts  
 
 *"Un vent mauvais et mortel souffle ce soir. Viens, mon frère, t'abriter à l'abbaye pendant que la tempête fait rage. Par ma parole, ou par ma vie, tu seras en sécurité."*
 
-## 🎭 Apparaît dans  
+##  Apparaît dans  
 
-# 🍺 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
+#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
@@ -48,7 +48,7 @@
 ---
 
 
-## 📖 <span style="color:blue">Résumé</span>
+##  <span style="color:blue">Résumé</span>
 
 - Chaque nuit*, choisissez un joueur (pas vous-même) : il est à l'abri du Démon cette nuit. 
 - Le moine protège les autres joueurs du démon.
@@ -59,7 +59,7 @@
 
 ---
 
-## 🎭 <span style="color:blue">Comment Conter</span>
+##  <span style="color:blue">Comment Conter</span>
 
 - Chaque nuit, sauf la première, réveillez le moine. Il désigne n'importe quel joueur sauf lui-même. (Si le moine se désigne lui-même, **Secouez** la tête pour dire non et invitez-le à désigner un autre joueur.) Endormez le moine.Placez le jeton de rappel **Protégé** sur ce joueur.
 
@@ -70,7 +70,7 @@
 
 ---
 
-## 🧩 <span style="color:blue">Exemples</span>
+##  <span style="color:blue">Exemples</span>
 
 - Le Moine protège la [Voyante](voyante.md), l’[<span style="color:red">Imp</span>](imp.md) l’attaque. Personne ne meurt.  
 - Le Moine protège le [Maire](maire.md), l’Imp attaque le Maire. La capacité du Maire ne s’active pas : il reste en vie et personne ne meurt.  
@@ -78,7 +78,7 @@
 
 ---
 
-## 💡 <span style="color:blue">Conseils & Astuces</span>
+##  <span style="color:blue">Conseils & Astuces</span>
 
 - Protégez les rôles puissants comme la [Voyante](voyante.md), l’[Empathique](empathique.md) ou la [Vierge](vierge.md).  
 - N’attirez pas trop l’attention : si vous êtes découvert, le Démon vous éliminera rapidement.  
@@ -88,7 +88,7 @@
 
 ---
 
-## 😈 <span style="color:blue">Bluffer Moine</span>
+##  <span style="color:blue">Bluffer Moine</span>
 
 - Le Conteur vous aurait réveillé **chaque nuit sauf la première**.  
 - Soyez cohérent dans vos choix : si un joueur que vous dites avoir protégé meurt, préparez une excuse (*« j’étais ivre », « j’ai été empoisonné »…*).  
@@ -118,7 +118,7 @@
 ---
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🧑‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li> <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a></li>
 </ul>
