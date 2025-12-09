@@ -15,7 +15,7 @@ title: Docteur de la peste
   <a href="./plaguedoctor.html" style="text-decoration:none;">
     <img src="../images/Icon_plaguedoctor.png" alt="Docteur de peste" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#4ea3ff; font-weight:bold; font-size:22px;">Docteur de peste</span>
+    <span style="color:#4ea3ff; font-weight:bold; font-size:22px;">Docteur de la peste</span>
   </a>
 </div>
 
@@ -28,7 +28,7 @@ title: Docteur de la peste
   </a>
 </div>
 
-# <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Docteur de peste</span>
+# <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Docteur de la peste</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Bouge pas, s’il te plaît… Il faut du temps pour guérir. Myrrhe, myrrhe… »
@@ -55,7 +55,7 @@ title: Docteur de la peste
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Docteur de peste</strong> ajoute une capacité de <span style="color:#d45b5b; font-weight:bold;">Sbire</span> en jeu.
+Le <strong>Docteur de la peste</strong> ajoute une capacité de <span style="color:#d45b5b; font-weight:bold;">Sbire</span> en jeu.
 </p>
 
 ---
@@ -140,7 +140,7 @@ Le <strong>Docteur de peste</strong> ajoute une capacité de <span style="color:
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
-  <li>Quand le Docteur de peste meurt, la conteuse ou le conteur gagne la capacité d’un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> de son choix présent sur le script.</li>
+  <li>Quand le Docteur de la peste meurt, la conteuse ou le conteur gagne la capacité d’un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> de son choix présent sur le script.</li>
 
   <li>Cette capacité reste en jeu pour le reste de la partie.</li>
 
@@ -161,7 +161,7 @@ Le <strong>Docteur de peste</strong> ajoute une capacité de <span style="color:
 ##  <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Quand le Docteur de peste meurt (de jour ou de nuit), choisissez une capacité de <span style="color:#d45b5b; font-weight:bold;">Sbire</span> présente sur le script que vous allez désormais utiliser.
+Quand le Docteur de la peste meurt (de jour ou de nuit), choisissez une capacité de <span style="color:#d45b5b; font-weight:bold;">Sbire</span> présente sur le script que vous allez désormais utiliser.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -192,7 +192,7 @@ et empoisonne un joueur chaque nuit jusqu’à la fin de la partie.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le Docteur de peste est exécuté et la conteuse gagne la capacité du 
+Le Docteur de la peste est exécuté et la conteuse gagne la capacité du 
 <a href="../sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a>.  
 Cette nuit-là, la 
 <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a>  
@@ -203,9 +203,9 @@ Il y a maintenant deux capacités de Cerenovus en jeu : celle de la conteuse et 
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le Docteur de peste est mort depuis deux jours et la conteuse utilise la capacité d’
+Le Docteur de la peste est mort depuis deux jours et la conteuse utilise la capacité d’
 <a href="../roles_experimentaux/organgrinder.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Organ Grinder</a>.  
-Le Docteur de peste devient ivre à cause du 
+Le Docteur de la peste devient ivre à cause du 
 <a href="../bmr_roles/menestrel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ménestrel</a>.  
 La conteuse garde tout de même la capacité d’Organ Grinder,  
 car elle l’a gagnée au moment de la mort du Docteur de peste et n’est pas affectée par son ivresse actuelle.
@@ -229,7 +229,7 @@ car elle l’a gagnée au moment de la mort du Docteur de peste et n’est pas a
       <a href="../roles_experimentaux/knight.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chevalier</a>.  
       Si le Démon pense que vous n’êtes pas prioritaire, il vous laissera en vie.</li>
 
-  <li>Si vous savez que vous allez être exécuté, révélez ouvertement que vous êtes le Docteur de peste.  
+  <li>Si vous savez que vous allez être exécuté, révélez ouvertement que vous êtes le Docteur la de peste.  
       Le <span style="color:#d45b5b; font-weight:bold;">Démon</span> devra alors choisir entre vous éliminer la nuit  
       ou viser un rôle d’information puissant, comme le 
       <a href="../sv_roles/mathematicien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mathématicien</a>  
@@ -259,7 +259,7 @@ car elle l’a gagnée au moment de la mort du Docteur de peste et n’est pas a
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
-  <li>Un véritable Docteur de peste ne souhaite presque jamais mourir :  
+  <li>Un véritable Docteur de la peste ne souhaite presque jamais mourir :  
       sa mort renforce directement l’équipe maléfique.  
       Utilisez cet argument pour refuser l’exécution et défendre votre survie aussi longtemps que possible.</li>
 
