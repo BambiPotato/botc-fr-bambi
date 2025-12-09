@@ -9,9 +9,9 @@ title: Installation
   </a>
 </p>
 
-<!-- 🏗️ Installation et mise en place -->
+<!--  Installation et mise en place -->
 
-<h1 style="color:#b58b52; font-weight:bold; font-size:36px;">🏗️ Installation et mise en place</h1>
+<h1 style="color:#b58b52; font-weight:bold; font-size:36px;"> Installation et mise en place</h1>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.8;">
 Cette page explique comment <strong>préparer une partie de Blood on the Clocktower</strong> étape par étape,
@@ -20,7 +20,7 @@ en suivant la feuille <em>Setup</em> du jeu. Elle s’adresse aux <strong>conteu
 
 <hr>
 
-<h2 style="color:#b58b52; font-weight:bold;">📋 Sommaire</h2>
+<h2 style="color:#b58b52; font-weight:bold;"> Sommaire</h2>
 <ul style="color:#d9d9d9; font-size:18px; line-height:1.7;">
   <li><a href="#rassembler"   style="color:#d9d9d9; font-weight:bold; text-decoration:none;">1. Rassembler les joueurs et joueuses</a></li>
   <li><a href="#grimoire"     style="color:#d9d9d9; font-weight:bold; text-decoration:none;">2. Préparer le Grimoire</a></li>
@@ -57,9 +57,9 @@ Rangez à portée de main les <strong>jetons d’information</strong>, de <stron
 <h2 id="edition" style="color:#d9d9d9; font-weight:bold;">Choisir une édition</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">Le coffret contient trois éditions :</p>
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🍺 <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌙 <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>💐 <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
+  <li> <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li> <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
+  <li> <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
 </ul>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Placez la boîte de l’édition choisie dans le coin inférieur gauche du Grimoire et ajoutez la <strong>feuille de nuit</strong> correspondante sur la page de droite.
@@ -149,14 +149,14 @@ Vérifiez que l’ordre horaire affiché correspond à la disposition réelle du
 <hr>
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🍺 <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌙 <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>💐 <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
-  <li>🧭 <a href="./regles.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Règles du jeu</a></li>
-  <li>🧑‍🌾 <a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a></li>
-  <li>🌀 <a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a></li>
-  <li>😈 <a href="./sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a></li>
-  <li>👹 <a href="./demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démons</a></li>
-  <li>🧳 <a href="./voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li> <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
+  <li> <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
+  <li> <a href="./regles.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Règles du jeu</a></li>
+  <li> <a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a></li>
+  <li> <a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a></li>
+  <li> <a href="./sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a></li>
+  <li> <a href="./demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démons</a></li>
+  <li> <a href="./voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a></li>
 </ul>
