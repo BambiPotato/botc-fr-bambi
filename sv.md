@@ -9,7 +9,7 @@ title: Sects & Violets
   </a>
 </p>
 
-<!-- 🌸 Logo centré cliquable -->
+<!--  Logo centré cliquable -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./sv.html" style="text-decoration:none;">
     <img src="./images/Logo_sects_and_violets.png" alt="Sects & Violets" width="400" style="border-radius:12px;">
@@ -24,19 +24,19 @@ title: Sects & Violets
 
 ---
 
-## 📑 Sommaire
+##  Sommaire
 
-1. [📖 Synopsis](#-synopsis)
-2. [🎲 Gameplay](#-gameplay)
+1. [ Synopsis](#-synopsis)
+2. [ Gameplay](#-gameplay)
 3. [Villageois](#villageois)
 4. [Étrangers](#étrangers)
 5. [Sbires](#sbires)
 6. [Démons](#démons)
-7. [📥 Télécharger & Imprimer](#-télécharger--imprimer)
+7. [ Télécharger & Imprimer](#-télécharger--imprimer)
 
 ---
 
-## 📖 Synopsis
+##  Synopsis
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Le printemps vibrant laisse place à un été doux et accueillant.  
@@ -55,7 +55,7 @@ Le moment est venu pour... <span style="color:#d67bff; font-weight:bold;">Sects 
 
 ---
 
-## 🎲 Gameplay
+##  Gameplay
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 <strong>Sects & Violets</strong> est l’édition la plus folle et imprévisible des trois.  
@@ -70,7 +70,7 @@ C’est aussi la première apparition de la <strong>Folie</strong>, qui peut com
 </p>
 
 <p style="color:#e0c99d; font-size:19px; font-weight:bold;">
-👉 Niveau : <strong>Intermédiaire à Avancé</strong><br>
+ Niveau : <strong>Intermédiaire à Avancé</strong><br>
 <em>*Recommandé pour les joueurs et joueuses aimant le chaos, la folie;  les retournements inattendus et les défis logiques audacieux.*</em>
 </p>
 
@@ -196,14 +196,14 @@ C’est aussi la première apparition de la <strong>Folie</strong>, qui peut com
 
 ---
 
-## 📥 Télécharger & 🖨️ Imprimer
+##  Télécharger &  Imprimer
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Ces ressources sont pratiques pour <strong>imprimer</strong> et <strong>jouer en personne</strong>.
 </p>
 
 <p style="text-align:left; font-size:18px;">
-👉 <a href="./images/sv-roles.pdf" style="color:#d4a76a; font-weight:bold; text-decoration:none;">📄 Télécharger le PDF de Sects & Violets</a>
+ <a href="./images/sv-roles.pdf" style="color:#d4a76a; font-weight:bold; text-decoration:none;"> Télécharger le PDF de Sects & Violets</a>
 </p>
 
 <div style="text-align:left;">
@@ -216,8 +216,8 @@ Ces ressources sont pratiques pour <strong>imprimer</strong> et <strong>jouer en
 
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="./index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
-  <li>🍺 <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌛 <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
+  <li> <a href="./index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
+  <li> <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li> <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
 </ul>
 
