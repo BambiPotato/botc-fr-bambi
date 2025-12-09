@@ -446,14 +446,14 @@ table.roles-grid td{
 
 <!-- ====== SCRIPTS PERSONNALISÉS ====== -->
 <style>
-  .scripts-grid {
+.scripts-grid {
     display: flex;
     justify-content: flex-start;
     flex-wrap: wrap;
     gap: 30px;
-    margin: 26px auto 12px auto;
-    max-width: 900px;
-  }
+    margin: 26px 0 12px 0; /* plus de centrage automatique */
+    width: 100%; /* prend toute la largeur comme les autres blocs */
+}
 
   .home-card {
     display: inline-block;
