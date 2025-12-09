@@ -119,6 +119,5 @@ Le <strong>Conteur</strong> choisit chaque nuit le joueur affecté et l’effet 
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
   <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li> <a href="/botc-fr-bambi/sv.html" style="color:#67bfff; font-weight:bold; text-decoration:none;">Retour à Sects & Violets</a></li>
   <li> <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
 </ul>
