@@ -9,7 +9,7 @@ title: Trouble Brewing
   </a>
 </p>
 
-<!-- 🍺 Logo centré cliquable -->
+<!--  Logo centré cliquable -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./trouble_brewing.html" style="text-decoration:none;">
     <img src="./images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400" style="border-radius:12px;">
@@ -76,7 +76,7 @@ title: Trouble Brewing
   </ul>
 </div>
 
-# 🍺 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
+#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
@@ -84,7 +84,7 @@ title: Trouble Brewing
 
 ---
 
-## 📑 <span style="color:#b58b52;">Sommaire</span>
+##  <span style="color:#b58b52;">Sommaire</span>
 
 <p style="text-align:left; color:#b58b52; font-size:18px; line-height:1.8;">
   <span style="font-weight:bold;">1.</span>
@@ -108,7 +108,7 @@ title: Trouble Brewing
 ## <span id="synopsis" style="color:#b58b52;">Synopsis</span>
 
 <p style="text-align:left; color:#e0c99d; font-size:18px; line-height:1.7;">
-Les nuages ☁️ s’amoncellent au-dessus de <strong>Ravenswood Bluff</strong>, enveloppant cette ville endormie et ses Villageois superstitieux d’une ombre inquiétante.  
+Les nuages s’amoncellent au-dessus de <strong>Ravenswood Bluff</strong>, enveloppant cette ville endormie et ses Villageois superstitieux d’une ombre inquiétante.  
 Le linge fraîchement lavé danse de façon étrange entre les chaumières. Des cheminées crachent des volutes de fumée.  
 Des senteurs exotiques s’infiltrent par les fissures des fenêtres, tandis que des chaudrons cachés bouillonnent dans l’ombre.
 </p>
@@ -330,12 +330,12 @@ Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient
 
 ## <span id="telechargements" style="color:#b58b52;">Téléchargements & Ressources</span>
 
-<h3 style="color:#b58b52; font-weight:bold; font-size:22px;">📄 PDF complet</h3>
+<h3 style="color:#b58b52; font-weight:bold; font-size:22px;"> PDF complet</h3>
 <p style="text-align:left; font-size:18px;">
-  👉 <a href="./trouble_brewing.pdf" style="color:#d4a76a; font-weight:bold; text-decoration:none;">📄 Télécharger le PDF de Trouble Brewing</a>
+   <a href="./trouble_brewing.pdf" style="color:#d4a76a; font-weight:bold; text-decoration:none;"> Télécharger le PDF de Trouble Brewing</a>
 </p>
 
-<h3 style="color:#b58b52; font-weight:bold; font-size:22px;">🖼️ Images pratiques</h3>
+<h3 style="color:#b58b52; font-weight:bold; font-size:22px;"> Images pratiques</h3>
 <div style="text-align:left;">
   <a href="./images/tb-front.png">
     <img src="./images/tb-front.png" alt="Couverture" width="250" style="margin:8px; border-radius:8px;">
@@ -351,7 +351,7 @@ Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient
 ---
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="./index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
-  <li>🌛 <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>💐 <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a></li>
+  <li> <a href="./index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
+  <li> <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
+  <li> <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a></li>
 </ul>
