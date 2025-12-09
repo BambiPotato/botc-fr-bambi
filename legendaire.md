@@ -11,9 +11,9 @@ title: Légendaire
 
 #  <span style="color:#d4a76a; font-weight:bold; font-size:42px;">Les Légendaires</span>
 
-## Présentation
+## <span style="color:#d4a76a;"Présentation</span>
 
-Les **Légendaires** (*Fabled*) sont des rôles réservés aux **conteurs et conteuses**.  
+Les **Légendaires** « Fabled »sont des rôles réservés aux **conteurs et conteuses**.  
 Ils modifient légèrement les conditions de jeu et sont souvent inclus **au début d’une partie**.
 
 Leur objectif est d’**adapter la partie** aux besoins du groupe, ou de **corriger une contrainte réelle**.  
@@ -33,13 +33,17 @@ Par exemple :
 
 ##  <span style="color:#d4a76a;">Sommaire</span>
 
-1. [Toute Partie](#-toute-partie)  
-2. [Parties Personnalisées](#-parties-personnalisees)  
-3. [Expérimentaux](#-experimentaux)
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:5px;">
+1. <a href="#-toute-partie" style="color:#f5f5f5; text-decoration:none;">Toute Partie</a><br>
+2. <a href="#-parties-personnalisees" style="color:#f5f5f5; text-decoration:none;">Parties Personnalisées</a><br>
+3. <a href="#-experimentaux" style="color:#f5f5f5; text-decoration:none;">Expérimentaux</a>
+</p>
 
 ---
 
-##  Toute Partie
+---
+
+## ## <span style="color:#d4a76a;">Toute Partie</span>
 
 <div style="text-align:center; display:inline-block; margin:10px;">
   [<img src="./images/Icon_doomsayer.png" alt="Doomsayer" width="260">](./legendaire_roles/doomsayer.html)  
@@ -78,7 +82,7 @@ Par exemple :
 
 ---
 
-##  Parties Personnalisées
+##  ## <span style="color:#d4a76a;">Parties Personnalisées</span>
 
 <div style="text-align:center; display:inline-block; margin:10px;">
   [<img src="./images/Icon_fibbin.png" alt="Fibbin" width="260">](./legendaire_roles/fibbin.html)  
@@ -107,7 +111,7 @@ Par exemple :
 
 ---
 
-##  Expérimentaux
+##  ## <span style="color:#d4a76a;">Expérimentaux</span>
 
 <div style="text-align:center; display:inline-block; margin:10px;">
   [<img src="./images/Icon_deusexfiasco.png" alt="Deus ex Fiasco" width="260">](./legendaire_roles/deusexfiasco.html)  
@@ -122,10 +126,12 @@ Par exemple :
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none; display:block;">
+  <a href="/botc-fr-bambi/" 
+     style="color:#f5f5f5; font-weight:bold; text-decoration:none; display:block;">
     Retour à l’accueil
   </a>
-  <a href="/legendaire.html" style="color:#d4a76a; font-weight:bold; text-decoration:none; display:block;">
+  <a href="/legendaire.html" 
+     style="color:#d4a76a; font-weight:bold; text-decoration:none; display:block;">
     Légendaires
   </a>
 </p>
