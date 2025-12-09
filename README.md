@@ -542,21 +542,96 @@ table.roles-grid td{
      Ressources en ligne
   </h2>
 
+  <!-- Petite icône Blood on the Clocktower -->
+  <img src="./images/logomini.png"
+       alt="Blood on the Clocktower"
+       style="width:65px; height:auto; margin-bottom:15px; opacity:0.95; display:block;">
+
   <ul style="
     list-style:none;
     padding-left:0;
     font-size:20px;
     color:#e0c99d;
   ">
-    <li>  <a href="https://botc.app/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Pour jouer en ligne à Blood on the Clocktower</a></li>
-    <li>  <a href="https://wiki.bloodontheclocktower.com/Main_Page" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Wiki officiel BotC TPI</a></li>
-    <li>  <a href="https://www.botcscripts.com" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">BotC Scripts</a></li>
-    <li>  <a href="https://script.bloodontheclocktower.com/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Outil officiel de création de scripts</a></li>
-    <li>  <a href="https://savant.thegrim.gg/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Générateur d’informations pour le Savant</a></li>
+
+    <!-- LIENS EN PREMIER -->
+    <li>
+      <a href="https://bloodontheclocktower.com/" target="_blank"
+         style="color:#ffb84d; font-weight:bold; text-decoration:none;">
+         Blood on the Clocktower Site officiel
+      </a>
+    </li>
+
+    <li>
+      <a href="https://discord.gg/eD4zvq6RvB" target="_blank"
+         style="color:#ffb84d; font-weight:bold; text-decoration:none;">
+         Discord Blood on the Clocktower Unofficial
+      </a>
+    </li>
+
+    <!-- LIENS DÉJÀ EXISTANTS -->
+    <li>
+      <a href="https://botc.app/" target="_blank"
+         style="color:#ffb84d; font-weight:bold; text-decoration:none;">
+         Pour jouer en ligne à Blood on the Clocktower
+      </a>
+    </li>
+
+    <li>
+      <a href="https://wiki.bloodontheclocktower.com/Main_Page" target="_blank"
+         style="color:#ffb84d; font-weight:bold; text-decoration:none;">
+         Wiki officiel The Pandemonium Institute
+      </a>
+    </li>
+
+    <li>
+      <a href="https://www.botcscripts.com" target="_blank"
+         style="color:#ffb84d; font-weight:bold; text-decoration:none;">
+         BotC Librairie Scripts
+      </a>
+    </li>
+
+    <li>
+      <a href="https://script.bloodontheclocktower.com/" target="_blank"
+         style="color:#ffb84d; font-weight:bold; text-decoration:none;">
+         Outil officiel de création de scripts
+      </a>
+    </li>
+
+    <li>
+      <a href="https://savant.thegrim.gg/" target="_blank"
+         style="color:#ffb84d; font-weight:bold; text-decoration:none;">
+         Générateur d’informations pour le Savant
+      </a>
+    </li>
+
+    <!-- YOUTUBE  -->
+    <li>
+      <a href="https://www.youtube.com/@BloodontheClocktower" target="_blank"
+         style="color:#ffb84d; font-weight:bold; text-decoration:none;">
+         YouTube Blood on the Clocktower (officiel)
+      </a>
+    </li>
+    
+    <!-- TWITCH OFFICIEL -->
+    <li>
+      <a href="https://www.twitch.tv/thepandemoniuminstitute" target="_blank"
+         style="color:#ffb84d; font-weight:bold; text-decoration:none;">
+        Twitch The Pandemonium Institute
+      </a>
+    </li>
+    
+    <!-- INSTAGRAM  -->
+    <li>
+      <a href="https://www.instagram.com/stories/bloodontheclocktower/" target="_blank"
+         style="color:#ffb84d; font-weight:bold; text-decoration:none;">
+         Instagram Blood on the Clocktower (officiel)
+      </a>
+    </li>
+
   </ul>
 
 </div>
-  
 ---
 
 <div style="
