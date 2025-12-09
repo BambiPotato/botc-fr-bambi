@@ -623,7 +623,7 @@ table.roles-grid td{
     <li>
       <a href="https://botc.app/" target="_blank"
          style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-         Pour jouer en ligne 
+         Application - Pour jouer en ligne 
       </a>
     </li>
 
@@ -637,7 +637,7 @@ table.roles-grid td{
     <li>
       <a href="https://www.botcscripts.com" target="_blank"
          style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-         Librairie de scripts 
+         Scripts BotC - Librairie de scripts 
       </a>
     </li>
 
@@ -667,7 +667,7 @@ table.roles-grid td{
     <li>
       <a href="https://www.twitch.tv/thepandemoniuminstitute" target="_blank"
          style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-         Twitch – The Pandemonium Institute
+        Twitch – The Pandemonium Institute
       </a>
     </li>
 
@@ -676,6 +676,22 @@ table.roles-grid td{
       <a href="https://www.instagram.com/stories/bloodontheclocktower/" target="_blank"
          style="color:#ffb84d; font-weight:bold; text-decoration:none;">
          Instagram – Blood on the Clocktower
+      </a>
+    </li>
+
+    <!-- PATREON -->
+    <li>
+      <a href="https://www.patreon.com/c/botconline/posts" target="_blank"
+         style="color:#ffb84d; font-weight:bold; text-decoration:none;">
+         Patreon – Soutenir Blood on the Clocktower
+      </a>
+    </li>
+
+    <!-- CONTACT OFFICIEL -->
+    <li>
+      <a href="mailto:butler@bloodontheclocktower.com"
+         style="color:#ffb84d; font-weight:bold; text-decoration:none;">
+         Contact : butler@bloodontheclocktower.com
       </a>
     </li>
 
@@ -790,10 +806,10 @@ table.roles-grid td{
     line-height:1.6;
   ">
     Pour toute question, suggestion ou amélioration du wiki,<br>
-    vous pouvez me contacter à :  
+    vous pouvez me contacter :  
     <a href="mailto:bambibluepotato@gmail.com"
        style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-       bambibluepotato@gmail.com
+       BambiBluePotato
     </a>
   </p>
 
