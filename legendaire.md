@@ -11,7 +11,7 @@ title: Légendaire
 
 #  <span style="color:#d4a76a; font-weight:bold; font-size:42px;">Les Légendaires</span>
 
-## <span style="color:#d4a76a;"Présentation</span>
+##  <span style="color:#d4a76a;">Présentation</span>
 
 Les **Légendaires** « Fabled »sont des rôles réservés aux **conteurs et conteuses**.  
 Ils modifient légèrement les conditions de jeu et sont souvent inclus **au début d’une partie**.
@@ -43,7 +43,7 @@ Par exemple :
 
 ---
 
-## ## <span style="color:#d4a76a;">Toute Partie</span>
+##  <span style="color:#d4a76a;">Toute Partie</span>
 
 <div style="text-align:center; display:inline-block; margin:10px;">
   [<img src="./images/Icon_doomsayer.png" alt="Doomsayer" width="260">](./legendaire_roles/doomsayer.html)  
@@ -82,7 +82,7 @@ Par exemple :
 
 ---
 
-##  ## <span style="color:#d4a76a;">Parties Personnalisées</span>
+##   <span style="color:#d4a76a;">Parties Personnalisées</span>
 
 <div style="text-align:center; display:inline-block; margin:10px;">
   [<img src="./images/Icon_fibbin.png" alt="Fibbin" width="260">](./legendaire_roles/fibbin.html)  
@@ -111,7 +111,7 @@ Par exemple :
 
 ---
 
-##  ## <span style="color:#d4a76a;">Expérimentaux</span>
+##  <span style="color:#d4a76a;">Expérimentaux</span>
 
 <div style="text-align:center; display:inline-block; margin:10px;">
   [<img src="./images/Icon_deusexfiasco.png" alt="Deus ex Fiasco" width="260">](./legendaire_roles/deusexfiasco.html)  
@@ -125,14 +125,18 @@ Par exemple :
 
 ---
 
-<p style="text-align:left; font-size:18px; margin-top:20px;">
-  <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">
-    Retour à l’accueil
-  </a>
-</p>
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; list-style:none; padding-left:0; margin-top:20px;">
+  <li>
+    <a href="/botc-fr-bambi/" 
+       style="color:#f5f5f5; font-weight:bold; text-decoration:none;">
+      Retour à l’accueil
+    </a>
+  </li>
 
-<p style="text-align:left; font-size:18px; margin-top:2px;">
-  <a href="/legendaire.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">
-    Légendaires
-  </a>
-</p>
+  <li>
+    <a href="/legendaire.html" 
+       style="color:#d4a76a; font-weight:bold; text-decoration:none;">
+      Légendaires
+    </a>
+  </li>
+</ul>
