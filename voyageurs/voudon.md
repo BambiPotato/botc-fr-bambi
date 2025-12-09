@@ -9,7 +9,7 @@ title: Voudon
   </a>
 </p>
 
-<!-- 💀 Voudon -->
+<!--  Voudon -->
 
 <div style="text-align:center; margin: 20px 0;">
   <img src="../images/Icon_voudon.png" alt="Voudon" width="360" style="border-radius:12px; margin-top:10px;">
@@ -19,7 +19,7 @@ title: Voudon
 
 ---
 
-## 🧭 Informations
+##  Informations
 
 - **Type :** <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>  
 - **Édition :** <a href="../bmr.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Bad Moon Rising</a>  
@@ -31,7 +31,7 @@ title: Voudon
 
 ---
 
-## 🎭 Apparaît dans
+##  Apparaît dans
 
 <p style="text-align:center; margin: 12px 0 6px;">
   <a href="../bmr.html" style="text-decoration:none;">
@@ -40,12 +40,12 @@ title: Voudon
 </p>
 
 <p style="text-align:center;">
-  🌙 <a href="../bmr.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none; font-size:22px;">Bad Moon Rising</a>
+   <a href="../bmr.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none; font-size:22px;">Bad Moon Rising</a>
 </p>
 
 ---
 
-## 📖 Résumé
+##  Résumé
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 « Seuls vous et les morts pouvez voter. Les morts n’ont pas besoin de jeton de vote. La majorité de 50&nbsp;% n’est plus requise. »
@@ -67,7 +67,7 @@ Le <strong>Voudon</strong> rend le pouvoir aux morts, privant les vivants de tou
 
 ---
 
-## 🎬 Mise en place & fonctionnement
+## Comment Conter
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Pendant les votes d’exécution, seuls le Voudon et les morts lèvent la main.</li>
@@ -78,7 +78,7 @@ Le <strong>Voudon</strong> rend le pouvoir aux morts, privant les vivants de tou
 
 ---
 
-## 🧾 Exemples
+##  Exemples
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Il y a 12 vivants et 3 morts. Un <a href="../bmr_roles/aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a> nomine le <a href="../bmr_roles/lunatique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lunatique</a>.  
@@ -94,7 +94,7 @@ Le <strong>Voudon</strong> rend le pouvoir aux morts, privant les vivants de tou
 
 ---
 
-## 💡 Conseils et astuces (camp du <span style="color:#4ea3ff;">Bien</span>)
+##  Conseils et Astuces pour les <span style="color:#4ea3ff;">Bons</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Au premier jour, vous décidez seul qui meurt&nbsp;: utilisez ce pouvoir pour viser un suspect.</li>
@@ -106,7 +106,7 @@ Le <strong>Voudon</strong> rend le pouvoir aux morts, privant les vivants de tou
 
 ---
 
-## 🔥 Conseils et astuces (camp du <span style="color:#d45b5b;">Mal</span>)
+## Conseils et Astuces pour les <span style="color:#d45b5b;">Maléfiques</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Au début, vous choisissez seul qui meurt&nbsp;: éliminez un rôle du Bien clé.</li>
@@ -119,7 +119,7 @@ Le <strong>Voudon</strong> rend le pouvoir aux morts, privant les vivants de tou
 
 ---
 
-## 📚 Rappels utiles
+##  Rappels utiles
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Le Voudon peut être exilé comme tout Voyageur.</li>
@@ -130,7 +130,6 @@ Le <strong>Voudon</strong> rend le pouvoir aux morts, privant les vivants de tou
 ---
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌙 <a href="../bmr.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a></li>
-  <li>🧳 <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
 </ul>
