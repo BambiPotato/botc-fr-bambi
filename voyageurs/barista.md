@@ -79,7 +79,7 @@ Le <strong>Conteur</strong> choisit chaque nuit le joueur affecté et l’effet 
 
 ---
 
-## Conseils & astuces pour les  <span style="color:#4ea3ff;">Bons</span>)
+## Conseils & astuces pour les  <span style="color:#4ea3ff;">Bons</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
   <li>Votre capacité agit de manière passive : le Conteur décide à qui elle profite. Écoutez les autres et déduisez qui a été affecté.</li>
@@ -92,7 +92,7 @@ Le <strong>Conteur</strong> choisit chaque nuit le joueur affecté et l’effet 
 
 ---
 
-##  Conseils & astuces pour les  <span style="color:#d45b5b;">Maléfiques</span>)
+##  Conseils & astuces pour les  <span style="color:#d45b5b;">Maléfiques</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
   <li>Votre pouvoir est passif : profitez-en pour observer calmement la confusion qu’il crée.</li>
