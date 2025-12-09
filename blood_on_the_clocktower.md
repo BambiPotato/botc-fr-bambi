@@ -159,17 +159,17 @@ title: Blood on the Clocktower
 <ul style="color:#f5f5f5; font-size:19px; line-height:1.9;">
   <li>
     <strong><a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a></strong> 
-    Rôles du Bien qui enquêtent, protègent ou donnent des informations au village.
+    Rôles puissants qui protègent ou donnent des informations au Village.
   </li>
 
   <li>
     <strong><a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a></strong>  
-    Rôles du Bien avec une contrainte ou une règle spéciale qui complique la tâche du Village. 
+    Des rôles avec un malus ou une particularité qui complique la tâche du Village.
   </li>
 
   <li>
     <strong><a href="./sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a></strong> 
-    Rôles maléfiques qui protègent le Démon, brouillent les pistes et sabotent les plans du village.
+    Les Serviteurs du Démon, ils brouillent les pistes et sabotent les plans du Village.
   </li>
 
   <li>
