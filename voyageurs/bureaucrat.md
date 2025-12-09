@@ -9,7 +9,7 @@ title: Bureaucrate
   </a>
 </p>
 
-<!-- 🗃️ Bureaucrate -->
+<!--  Bureaucrate -->
 
 <div style="text-align:center; margin: 20px 0;">
   <img src="../images/Icon_bureaucrat.png" alt="Bureaucrate" width="360" style="border-radius:12px; margin-top:10px;">
@@ -19,7 +19,7 @@ title: Bureaucrate
 
 ---
 
-## 🧭 Informations
+## Informations
 
 - **Type :** <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>  
 - **Édition :** <a href="../trouble_brewing.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Trouble Brewing</a>  
@@ -33,7 +33,7 @@ Nous n’avons pas eu d’erreur de paperasse depuis des lustres… enfin, depui
 
 ---
 
-## 🎭 Apparaît dans
+## Apparaît dans
 
 <p style="text-align:center; margin: 12px 0 6px;">
   <a href="../trouble_brewing.html" style="text-decoration:none;">
@@ -42,12 +42,12 @@ Nous n’avons pas eu d’erreur de paperasse depuis des lustres… enfin, depui
 </p>
 
 <p style="text-align:center;">
-  🍺 <a href="../trouble_brewing.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none; font-size:22px;">Trouble Brewing</a>
+   <a href="../trouble_brewing.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none; font-size:22px;">Trouble Brewing</a>
 </p>
 
 ---
 
-## 📖 Résumé
+## Résumé
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 « Chaque nuit, choisissez une personne (autre que vous) : son vote comptera pour trois le lendemain. »
@@ -66,7 +66,7 @@ Chaque fois que cette personne vote pendant la journée, son vote compte pour tr
 
 ---
 
-## ⚙️ Fonctionnement
+## Comment Conter
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Chaque nuit, le Bureaucrate se réveille et choisit une personne (autre que lui-même).  
@@ -77,7 +77,7 @@ Si le Bureaucrate meurt, l’effet cesse immédiatement.
 
 ---
 
-## 💡 Exemples
+## Exemples
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Le Bureaucrate choisit Élodie.  
@@ -93,7 +93,7 @@ Si le Bureaucrate meurt, l’effet cesse immédiatement.
 
 ---
 
-## 🧿 Conseils et astuces (camp du <span style="color:#4ea3ff;">Bien</span>)
+##  Conseils et astuces pour les  <span style="color:#4ea3ff;">Bons</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Favorisez les personnes encore en vie : les morts utilisent rarement leurs votes avant la fin de partie.</li>
@@ -109,7 +109,7 @@ Si le Bureaucrate meurt, l’effet cesse immédiatement.
 
 ---
 
-## 🔥 Conseils et astuces (camp du <span style="color:#d45b5b;">Mal</span>)
+##  Conseils et astuces pour les <span style="color:#d45b5b;">Maléfiques</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Ne choisissez pas toujours vos alliés maléfiques : cela paraîtrait suspect.  
@@ -124,7 +124,7 @@ Si le Bureaucrate meurt, l’effet cesse immédiatement.
 ---
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à Trouble Brewing</a></li>
-  <li>🧳 <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="../trouble_brewing.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à Trouble Brewing</a></li>
+  <li> <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
 </ul>
