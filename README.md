@@ -83,103 +83,43 @@
 <hr style="margin:16px auto; max-width:980px; border:1px solid rgba(181,139,82,.25);">
 
 <!-- ====== INFORMATIONS SUR LE JEU ====== -->
-<style>
-  .home-card {
-    display: inline-block;
-    text-decoration: none;
-    border-radius: 14px;
-    overflow: hidden;
-    border: 1px solid rgba(181,139,82,0.28);
-    background: rgba(255,255,255,0.02);
-    box-shadow: 0 6px 18px rgba(0,0,0,0.28);
-    transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease, background .18s ease;
-    width: 100%;
-    max-width: 320px;
-    text-align: center;
-    padding: 24px 10px;
-  }
-
-  .home-card:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 10px 24px rgba(0,0,0,0.38);
-    border-color: rgba(212,167,106,0.55);
-    background: rgba(255,255,255,0.04);
-  }
-
-  .home-title {
-    display: block;
-    color: #b58b52;
-    font-weight: 700;
-    font-size: 19px;
-    text-decoration: none;
-    letter-spacing: .2px;
-    line-height: 1.4;
-  }
-
-  .info-table {
-  width:100%;
-  border-collapse:separate;
-  border-spacing:16px 14px;
-  /* pas de margin auto, pas de max-width : comme .rules-table */
-}
-  }
-
-  .info-cell {
-    vertical-align:middle;
-    text-align:center;
-  }
-
-  @media (max-width: 720px) {
-    .info-table,
-    .info-table tbody,
-    .info-table tr,
-    .info-table td {
-      display:block;
-      width:100%;
-    }
-    .info-cell {
-      margin-bottom:12px;
-    }
-  }
-</style>
 
 <h1 style="color:#b58b52; font-size:20px; font-weight:bold; text-shadow:2px 2px 6px #000; margin-bottom:10px;">
   Informations sur le Jeu
 </h1>
 
-<table class="info-table">
+<table class="rules-table">
   <tr>
-    <td class="info-cell">
-      <!--  Glossaire FR -->
-      <a class="home-card" href="./glossaire.html" aria-label="Glossaire des termes Français">
-        <span class="home-title">Glossaire des termes 🇫🇷</span>
+    <td class="rules-cell">
+      <a class="rules-link" href="./glossaire.html" aria-label="Glossaire des termes Français">
+        <div class="rules-title">Glossaire des termes 🇫🇷</div>
+        <div class="rules-sub">Liste des termes en français</div>
       </a>
     </td>
 
-    <td class="info-cell">
-      <!--  Glossaire EN -->
-      <a class="home-card" href="./glossaireengfr.html" aria-label="Glossaire des termes anglais">
-        <span class="home-title">Glossary des termes en anglais</span>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td class="info-cell">
-      <!-- Conseils Conteurs -->
-      <a class="home-card" href="./conteur.html" aria-label="Conseils pour les Conteurs et Conteuses">
-        <span class="home-title">Conseils pour les Conteurs et Conteuses</span>
+    <td class="rules-cell">
+      <a class="rules-link" href="./glossaireengfr.html" aria-label="Glossaire des termes anglais">
+        <div class="rules-title">Glossary des termes en anglais</div>
+        <div class="rules-sub">Termes anglais & équivalents FR</div>
       </a>
     </td>
 
-    <td class="info-cell">
-      <!-- Conseils Joueurs -->
-      <a class="home-card" href="./strategie.html" aria-label="Conseils et Stratégies pour les joueurs et joueuses">
-        <span class="home-title">Conseils & Stratégies pour les joueurs et joueuses</span>
+    <td class="rules-cell">
+      <a class="rules-link" href="./conteur.html" aria-label="Conseils pour les Conteurs et Conteuses">
+        <div class="rules-title">Conseils pour les Conteurs et Conteuses</div>
+        <div class="rules-sub">Astuces, bonnes pratiques</div>
+      </a>
+    </td>
+
+    <td class="rules-cell">
+      <a class="rules-link" href="./strategie.html" aria-label="Conseils et Stratégies pour les joueurs et joueuses">
+        <div class="rules-title">Conseils & Stratégies pour les joueurs et joueuses</div>
+        <div class="rules-sub">Pistes de réflexion en partie</div>
       </a>
     </td>
   </tr>
 </table>
+
 <!-- ====== /INFORMATIONS SUR LE JEU ====== -->
 
 
