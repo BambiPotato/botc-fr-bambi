@@ -19,7 +19,7 @@ title: Gunslinger
 
 ---
 
-## 🧭 Informations
+##  Informations
 
 - **Type :** <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>  
 - **Édition :** <a href="/botc-fr-bambi/trouble_brewing.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Trouble Brewing</a>  
@@ -31,7 +31,7 @@ title: Gunslinger
 
 ---
 
-## 🎭 Apparaît dans
+##  Apparaît dans
 
 <p style="text-align:center; margin: 12px 0 6px;">
   <a href="/botc-fr-bambi/trouble_brewing.html" style="text-decoration:none;">
@@ -40,12 +40,12 @@ title: Gunslinger
 </p>
 
 <p style="text-align:center;">
-  🍺 <a href="/botc-fr-bambi/trouble_brewing.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none; font-size:22px;">Trouble Brewing</a>
+   <a href="/botc-fr-bambi/trouble_brewing.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none; font-size:22px;">Trouble Brewing</a>
 </p>
 
 ---
 
-## 📖 Résumé
+##  Résumé
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 « Chaque jour, après le premier vote d’exécution, vous pouvez choisir publiquement un joueur ou une joueuse ayant voté : cette personne meurt. »
@@ -64,7 +64,7 @@ Le <strong>Gunslinger</strong> tue une personne ayant voté pendant le premier v
 
 ---
 
-## ⚙️ Fonctionnement
+## Comment Conter
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Après le premier vote d’exécution de la journée, quand le décompte est annoncé, le Gunslinger peut déclarer qu’il utilise sa capacité et désigner une des personnes ayant voté. Cette personne <strong>meurt immédiatement</strong>. Le conteur ou la conteuse peut demander aux votants et votantes de relever la main pour clarifier si besoin.
@@ -72,7 +72,7 @@ Après le premier vote d’exécution de la journée, quand le décompte est ann
 
 ---
 
-## 💡 Exemples
+##  Exemples
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>L’<a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Imp</a> est nommé.  
@@ -86,7 +86,7 @@ Après le premier vote d’exécution de la journée, quand le décompte est ann
 
 ---
 
-## 🧿 Conseils et astuces (camp des <span style="color:#4ea3ff;">Bons</span>)
+##  Conseils et astuces pour les <span style="color:#4ea3ff;">Bons</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Les morts par votre capacité <strong>ne sont pas des exécutions</strong> : la journée continue et le <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-Mort</a> ne voit rien.</li>
@@ -98,7 +98,7 @@ Après le premier vote d’exécution de la journée, quand le décompte est ann
 
 ---
 
-## 🔥 Conseils et astuces (si vous êtes <span style="color:#d45b5b;">Maléfique</span>)
+##  Conseils et astuces pour les <span style="color:#d45b5b;">Maléfiques</span>)
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Tirez souvent… mais choisissez vos cibles intelligemment.</li>
@@ -111,6 +111,6 @@ Après le premier vote d’exécution de la journée, quand le décompte est ann
 ---
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🧳 <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
 </ul>
