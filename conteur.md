@@ -67,7 +67,7 @@ title: Conseils pour les Conteuses et les Conteurs
   Utilisez votre <strong>jugement de Conteur ou Conteuse</strong> : si une possibilité de retournement existe, même infime, laissez la partie continuer.
 </p>
 
-<h3>👁️ Confirmer les choix des joueurs et des joueuses</h3>
+<h3>Confirmer les choix des joueurs et des joueuses</h3>
 <p>
   Pendant la nuit, lorsque quelqu’un fait un choix, <strong>confirmez-le avec un geste clair</strong> (pointez du doigt vers la cible).
   Si le geste est ambigu, <strong>déplacez-vous</strong> vers la personne visée, <strong>pointez clairement</strong>, puis attendez un hochement de tête pour valider.
