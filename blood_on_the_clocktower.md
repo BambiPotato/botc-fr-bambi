@@ -97,29 +97,30 @@ title: Blood on the Clocktower
 <div class="sub-box">
   <p style="color:#f5f5f5; font-size:18px; line-height:1.8; text-align:justify;">
 
-    Chaque partie se déroule dans le village de <strong>Ravenswood Bluff</strong>.  
-    Les joueurs sont répartis en deux équipes :
+Chaque partie se déroule dans le village de <strong>Ravenswood Bluff</strong>.  
+Les joueurs sont répartis en deux équipes :
 
-    <br><br>
+<br><br>
 
-   <strong style="color:#80aee0;">Bons</strong>
-    Ils enquêtent pour sauver le village en traquant le Démon et en le faisant exécuter :
-    <br>
-     <a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>  : rôles de proctection, informations qui aident à la résolution de la parties.
-    <a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>  : rôles avec un malus ou une particularité qui complique la partie des Villageois.
+<strong style="color:#80aee0;">Bons</strong><br>
+Ils enquêtent pour sauver le village en traquant le Démon et en le faisant exécuter.
+<br>
+<a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> : rôles de protection et d’informations qui aident à la résolution de la partie.<br>
+<a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a> : rôles avec un malus ou une particularité qui complique la partie des Villageois.
 
-    <br><br>
+<br><br>
 
-    <strong>style="color:#d45b5b;">Maléfiques</strong>  
-    Ils cherchent à tromper le village et à survivre jusqu’à la fin :
-    <br>
-    <a href="./sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>  : rôles qui empoisonnent et manipulent les informations pour servir la victoire du Démon.. 
-    <a href="./demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>  : Tant que le Démon est en vie à la fin de la partie avec seulement un autre joueur, le Mal triomphe.
-    <br><br>
+<strong style="color:#d45b5b;">Maléfiques</strong><br>
+Ils cherchent à tromper le village et à survivre jusqu’à la fin.
+<br>
+<a href="./sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> : rôles qui empoisonnent et manipulent les informations pour servir la victoire du Démon.<br>
+<a href="./demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> : le Démon tue la nuit ; ses pouvoirs varient selon les éditions. Tant que le Démon est en vie à la fin de la partie avec seulement un autre joueur, le Mal triomphe.
 
-    Un <a href="./conteur.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">conteur</a> prépare la partie, applique les règles, tisse les liens entre les événements et donne au tout une véritable ambiance d’histoire racontée autour d’un feu de camp.
+<br><br>
 
-    <br><br>
+Un <a href="./conteur.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">conteur</a> prépare la partie, applique les règles, tisse les liens entre les événements et donne au tout une véritable ambiance d’histoire racontée.
+
+<br><br>
 
     Le jeu alterne deux grandes phases :
 
@@ -148,6 +149,8 @@ title: Blood on the Clocktower
 <hr class="section">
 
 <!-- ======================= -->
+<!-- ÉDITIONS & RÔLES -->
+<!-- ======================= -->
 
 <h2 style="font-size:26px;">
    <span style="color:#b58b52;">Éditions, rôles spéciaux et contenus</span>
@@ -161,14 +164,13 @@ title: Blood on the Clocktower
     <br>
      <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a> – idéale pour découvrir le jeu.
     <br>
-     <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a> – rôles étranges, effet “casse-tête”.
+     <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a> – rôles plus complexes, informations déroutantes, ambiance “casse-tête”.
     <br>
-     <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a> – dynamique lente mais mortel.
+     <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a> – parfois lent sans morts, mais extrêmement mortel quand le Démon frappe.
   </li>
 
   <br>
 
-  <!-- CAROUSEL EXPÉRIMENTAL -->
   <li>
     <strong>Rôles expérimentaux – The Carousel</strong> :
     <br>
@@ -177,7 +179,6 @@ title: Blood on the Clocktower
 
   <br>
 
-  <!-- VOYAGEURS -->
   <li>
     <strong>Voyageurs</strong> :
     <br>
@@ -186,7 +187,6 @@ title: Blood on the Clocktower
 
   <br>
 
-  <!-- LÉGENDAIRES -->
   <li>
     <strong>Légendaires</strong> :
     <br>
@@ -195,7 +195,6 @@ title: Blood on the Clocktower
 
   <br>
 
-  <!-- LORICS -->
   <li>
     <strong>Lorics</strong> :
     <br>
@@ -222,8 +221,9 @@ title: Blood on the Clocktower
 
     <br><br>
 
-    <strong>The Pandemonium Institute</strong> est le studio qui édite et développe le jeu.  
-    Basé en Australie, il s’occupe de la production des coffrets, de l’identité visuelle, des règles officielles et de l’animation de la communauté mondiale (événements, FAQ, rôles expérimentaux, contenus vidéo…).
+    <strong>The Pandemonium Institute</strong> est le studio qui édite et développe 
+    le jeu. Basé en Australie, il s’occupe de la production des coffrets, de l’identité visuelle, 
+    des règles officielles et de l’animation de la communauté mondiale.
   </p>
 </div>
 
