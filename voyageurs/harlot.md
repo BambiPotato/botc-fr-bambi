@@ -21,7 +21,7 @@ title: Harlot
 
 ## Informations
 - **Type :** <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>  
-- **Édition :** <a href="/botc-fr-bambi/sv.html" style="color:#67bfff; font-weight:bold; text-decoration:none;">Sects & Violets</a>  
+- **Édition :** <a href="/botc-fr-bambi/sv.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Sects & Violets</a>  
 - **Artiste :** Caitlin Murphy
 
 <p style="color:#f5f5f5; font-style:italic; font-size:17px; text-align:center;">
@@ -39,7 +39,7 @@ title: Harlot
 </p>
 
 <p style="text-align:center;">
-   <a href="/botc-fr-bambi/sv.html" style="color:#67bfff; font-weight:bold; text-decoration:none; font-size:22px;">Sects & Violets</a>
+   <a href="/botc-fr-bambi/sv.html" style="color:#9b59b6; font-weight:bold; text-decoration:none; font-size:22px;">Sects & Violets</a>
 </p>
 
 ---
@@ -76,7 +76,7 @@ Le Harlot ne découvre jamais l’alignement, uniquement le <em>rôle</em>.
 
 ---
 
-## Conseils & astuces pour les <span style="color:#4ea3ff;">Bons</span>)
+## Conseils & astuces pour les <span style="color:#4ea3ff;">Bons</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
   <li>En début de partie, essayez d’apprendre <strong>le plus de rôles possible</strong> en peu de nuits : même si vous mourez, votre information reste précieuse.</li>
@@ -91,7 +91,7 @@ Le Harlot ne découvre jamais l’alignement, uniquement le <em>rôle</em>.
 
 ---
 
-## Conseils & astuces pour les <span style="color:#d45b5b;">Maléfiques</span>)
+## Conseils & astuces pour les <span style="color:#d45b5b;">Maléfiques</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
   <li>En début de partie, ciblez le <strong>Démon</strong> pour lui signaler subtilement que vous êtes de son côté (sans chuchoter). Le Conteur n’achève pas la partie en tuant le Démon via votre capacité.</li>
