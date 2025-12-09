@@ -118,7 +118,7 @@ Si vous préférez commencer avec des scripts déjà prêts, vous pouvez téléc
 </p>
 
 <p style="color:#e0c99d; font-size:18px;">
-📄 <a href="https://bloodontheclocktower.com/teensyville" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Télécharger les scripts Teensyville</a>
+ <a href="https://bloodontheclocktower.com/teensyville" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Télécharger les scripts Teensyville</a>
 </p>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
