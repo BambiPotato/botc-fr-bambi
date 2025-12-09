@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Docteur de peste
+title: Docteur de la peste
 ---
 
 <p align="left">
@@ -28,7 +28,7 @@ title: Docteur de peste
   </a>
 </div>
 
-# 🩺 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Docteur de peste</span>
+# <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Docteur de peste</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Bouge pas, s’il te plaît… Il faut du temps pour guérir. Myrrhe, myrrhe… »
@@ -36,7 +36,7 @@ title: Docteur de peste
 
 ---
 
-## ℹ️ <span style="color:#4ea3ff;">Informations</span>
+##  <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
@@ -48,7 +48,7 @@ title: Docteur de peste
 
 ---
 
-## 📖 <span style="color:#4ea3ff;">Résumé</span>
+##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Quand vous mourrez, la conteuse ou le conteur gagne la capacité d’un Sbire. »</strong>
@@ -136,7 +136,7 @@ Le <strong>Docteur de peste</strong> ajoute une capacité de <span style="color:
 
 ---
 
-## ⚙️ <span style="color:#4ea3ff;">Détails</span>
+##  <span style="color:#4ea3ff;">Détails</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -158,7 +158,7 @@ Le <strong>Docteur de peste</strong> ajoute une capacité de <span style="color:
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
+##  <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Quand le Docteur de peste meurt (de jour ou de nuit), choisissez une capacité de <span style="color:#d45b5b; font-weight:bold;">Sbire</span> présente sur le script que vous allez désormais utiliser.
@@ -182,7 +182,7 @@ Traitez cette capacité exactement comme si un vrai <span style="color:#d45b5b; 
 
 ---
 
-## 🧩 <span style="color:#4ea3ff;">Exemples</span>
+##  <span style="color:#4ea3ff;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Le Docteur de peste meurt.  
@@ -255,7 +255,7 @@ car elle l’a gagnée au moment de la mort du Docteur de peste et n’est pas a
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer Docteur de peste</span>
+##  <span style="color:#4ea3ff;">Bluffer Docteur de la peste</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -287,7 +287,7 @@ car elle l’a gagnée au moment de la mort du Docteur de peste et n’est pas a
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  💈 <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Étrangers</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Étrangers</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
