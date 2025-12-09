@@ -9,11 +9,11 @@ title: Légendaire
   </a>
 </p>
 
-# 🌟 <span style="color:#d4a76a; font-weight:bold; font-size:42px;">Les Légendaires</span>
+#  <span style="color:#d4a76a; font-weight:bold; font-size:42px;">Les Légendaires</span>
 
-## 📖 Présentation
+## Présentation
 
-Les **Légendaires** (*Fabled*) sont des rôles réservés aux **conteurs et conteuses** 🎭.  
+Les **Légendaires** (*Fabled*) sont des rôles réservés aux **conteurs et conteuses**.  
 Ils modifient légèrement les conditions de jeu et sont souvent inclus **au début d’une partie**.
 
 Leur objectif est d’**adapter la partie** aux besoins du groupe, ou de **corriger une contrainte réelle**.  
@@ -31,7 +31,7 @@ Par exemple :
 
 ---
 
-## 📚 <span style="color:#d4a76a;">Sommaire</span>
+##  <span style="color:#d4a76a;">Sommaire</span>
 
 1. [Toute Partie](#-toute-partie)  
 2. [Parties Personnalisées](#-parties-personnalisees)  
@@ -39,7 +39,7 @@ Par exemple :
 
 ---
 
-## 🎲 Toute Partie
+##  Toute Partie
 
 <div style="text-align:center; display:inline-block; margin:10px;">
   [<img src="./images/Icon_doomsayer.png" alt="Doomsayer" width="260">](./legendaire_roles/doomsayer.html)  
@@ -78,7 +78,7 @@ Par exemple :
 
 ---
 
-## ⚜️ Parties Personnalisées
+##  Parties Personnalisées
 
 <div style="text-align:center; display:inline-block; margin:10px;">
   [<img src="./images/Icon_fibbin.png" alt="Fibbin" width="260">](./legendaire_roles/fibbin.html)  
@@ -107,7 +107,7 @@ Par exemple :
 
 ---
 
-## 🧪 Expérimentaux
+##  Expérimentaux
 
 <div style="text-align:center; display:inline-block; margin:10px;">
   [<img src="./images/Icon_deusexfiasco.png" alt="Deus ex Fiasco" width="260">](./legendaire_roles/deusexfiasco.html)  
@@ -122,5 +122,5 @@ Par exemple :
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a>
+ <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a>
 </p>
