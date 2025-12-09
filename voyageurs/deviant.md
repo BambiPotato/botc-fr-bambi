@@ -21,7 +21,7 @@ title: Déviant
 
 ##  Informations
 - **Type :** <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>  
-- **Édition :** <a href="/botc-fr-bambi/sv.html" style="color:#67bfff; font-weight:bold; text-decoration:none;">Sects & Violets</a>  
+- **Édition :** <a href="/botc-fr-bambi/sv.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Sects & Violets</a>  
 - **Artiste :** John Grist
 
 <p style="color:#f5f5f5; font-style:italic; font-size:17px; text-align:center;">
@@ -39,7 +39,7 @@ title: Déviant
 </p>
 
 <p style="text-align:center;">
-   <a href="/botc-fr-bambi/sv.html" style="color:#67bfff; font-weight:bold; text-decoration:none; font-size:22px;">Sects & Violets</a>
+   <a href="/botc-fr-bambi/sv.html" style="color:#9b59b6; font-weight:bold; text-decoration:none; font-size:22px;">Sects & Violets</a>
 </p>
 
 ---
@@ -75,7 +75,7 @@ C’est au <strong>Conteur</strong> de juger si le Déviant a été amusant ou n
 
 ---
 
-##  Conseils & astuces pour les <span style="color:#4ea3ff;">Bons</span>
+##  Conseils & Astuces pour les <span style="color:#4ea3ff;">Bons</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
   <li>Si vous cherchez ici comment être drôle, vous partez mal… mais essayez au moins d’obtenir un sourire !</li>
@@ -88,7 +88,7 @@ C’est au <strong>Conteur</strong> de juger si le Déviant a été amusant ou n
 
 ---
 
-## Conseils & astuces pour les <span style="color:#d45b5b;">Maléfiques</span>
+## Conseils & Astuces pour les <span style="color:#d45b5b;">Maléfiques</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
   <li>Votre objectif reste le même : faire rire pour survivre ! L’humour est votre arme contre l’exil.</li>
