@@ -12,7 +12,7 @@ title: Femme Écarlate
 
 ---
 
-# 💃 <span style="color:red">Femme Écarlate</span>  
+#  <span style="color:red">Femme Écarlate</span>  
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -26,16 +26,16 @@ title: Femme Écarlate
 
 ---
 
-## ℹ️ <span style="color:red">Informations</span>    
+##  <span style="color:red">Informations</span>    
 
 - **Type :** [<span style="color:red">**Sbire**</span>](../sbires.md)  
 - **Artiste :** Marianna Carr  
 - *« Tu m’as révélé les secrets du Conseil de la Flamme Pourpre. Nous avons brûlé ensemble dans le feu, dans le désir et dans la communion bestiale, et je t’ai servi pour toujours. Mais ce soir, mon cher, c’est moi ta maîtresse. »*  
 
 
-## 🎭 Apparaît dans  
+##  Apparaît dans  
 
-# 🍺 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
+#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
@@ -57,7 +57,7 @@ title: Femme Écarlate
 
 ---
 
-## 📖 <span style="color:red">Résumé</span>    
+##  <span style="color:red">Résumé</span>    
 
 **« S’il y a 5 joueurs ou plus en vie et que le <span style="color:red">Démon</span> meurt, vous devenez le <span style="color:red">Démon</span>. (Les Voyageurs ne comptent pas.) »**
 
@@ -71,7 +71,7 @@ La **Femme Écarlate** devient le <span style="color:red">Démon</span> si celui
 ---
 
 
-## 🎭 <span style="color:red">Comment Conter</span>   
+##  <span style="color:red">Comment Conter</span>   
 
 Si le <span style="color:red">Démon</span> meurt alors qu’il reste plus de 5 joueurs en vie :  
 - **Remplacez** immédiatement le jeton de la Femme Écarlate par celui du <span style="color:red">Démon</span>.
@@ -82,7 +82,7 @@ Si le <span style="color:red">Démon</span> meurt alors qu’il reste plus de 5 
 
 ---
 
-## 🧩 <span style="color:red">Exemples</span>     
+##  <span style="color:red">Exemples</span>     
 
 - **Il y a 7 joueurs en vie** : L' [<span style="color:red">Imp</span>](imp.md), la Femme Écarlate, 2 Villageois et 3 Voyageurs.  
   → L’[<span style="color:red">Imp</span>](imp.md) est exécuté → la partie s’arrête (les Voyageurs ne comptent pas).  
@@ -96,7 +96,7 @@ Si le <span style="color:red">Démon</span> meurt alors qu’il reste plus de 5 
 
 ---
 
-## 💡 <span style="color:red">Astuces & Conseils</span>   
+##  <span style="color:red">Astuces & Conseils</span>   
 
 - La Femme Écarlate est la plus forte lorsqu’elle **coordonne avec son <span style="color:red">Démon</span>**.  
   → Vous pouvez organiser une mort « volontaire » du Démon pour reprendre le flambeau.  
@@ -111,7 +111,7 @@ Si le <span style="color:red">Démon</span> meurt alors qu’il reste plus de 5 
 
 ---
 
-## ⚔️ <span style="color:red">Combattre la Femme Écarlate</span>   
+##  <span style="color:red">Combattre la Femme Écarlate</span>   
 
 - Si vous êtes sûrs d’avoir tué l’[<span style="color:red">Imp</span>](imp.md) mais que la partie continue → **suspicion immédiate** : une Femme Écarlate est probablement en jeu.  
 
@@ -169,8 +169,8 @@ Si le <span style="color:red">Démon</span> meurt alors qu’il reste plus de 5 
 --- 
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>😈 <a href="../sbires.html" style="color:red; font-weight:bold; text-decoration:none;">Retour aux Sbires</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li> <a href="../sbires.html" style="color:red; font-weight:bold; text-decoration:none;">Retour aux Sbires</a></li>
 </ul>
 
