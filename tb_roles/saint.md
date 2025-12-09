@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# 🪽<span style="color:blue">Saint</span>
+# <span style="color:blue">Saint</span>
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -17,7 +17,7 @@
 
 
 
-## ℹ️ <span style="color:blue">Informations</span>
+##  <span style="color:blue">Informations</span>
 
 - **Type :** [Étranger](../etrangers.md)  
 - **Artiste :** Aidan Roberts  
@@ -25,9 +25,9 @@
 
 ---
 
-## 🎭 Apparaît dans  
+##  Apparaît dans  
 
-# 🍺 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
+#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
@@ -47,7 +47,7 @@
 </p> 
 
 ---
-## 📖 <span style="color:blue">Résumé</span>
+##  <span style="color:blue">Résumé</span>
 
 **« Si vous mourez par exécution, votre équipe perd. »**
 Le Saint met fin à la partie s'il est exécuté.
@@ -59,7 +59,7 @@ Le Saint met fin à la partie s'il est exécuté.
 
 ---
 
-## 🎭 <span style="color:blue">Comment Conter</span> 
+##  <span style="color:blue">Comment Conter</span> 
 
 - Si le **Saint** meurt **par exécution**, **annoncez immédiatement la fin de la partie** : **le Mal l’emporte**.  
 - Si le Saint **ne meurt pas par exécution**, **la partie continue**.  
@@ -69,7 +69,7 @@ Le Saint met fin à la partie s'il est exécuté.
 
 ---
 
-## 🧩 <span style="color:blue">Exemples</span> 
+##  <span style="color:blue">Exemples</span> 
 
 - Il reste sept joueurs en vie et les nominations sont en cours. Le Saint obtient 4 votes et est « sur le bûcher ( il est sur le point de mourir par exécution).
 - Ensuite, le **[<span style="color:red">Baron</span>](baron.md)** est nommé mais n’obtient que 3 voix. 
@@ -81,7 +81,7 @@ Le Saint met fin à la partie s'il est exécuté.
 
 ---
 
-## 💡 <span style="color:blue">Conseils & Astuces</span>  
+##  <span style="color:blue">Conseils & Astuces</span>  
 
 - **Ne vous faites pas exécuter.** Vraiment. Prévenez **publiquement** que vous êtes le Saint si vous êtes menacé d’exécution.  
 - **Faites-vous confirmer sans risquer l’exécution :**  
@@ -96,7 +96,7 @@ Le Saint met fin à la partie s'il est exécuté.
 
 ---
 
-## 😈 <span style="color:blue">Bluffer Saint</span>  
+##  <span style="color:blue">Bluffer Saint</span>  
 
 **Pourquoi c’est un bluff maléfique puissant :**  
 - Le risque de **défaite immédiate du Bien** à l’exécution **dissuade** souvent le Village de vous tuer. Vous gagnez du temps (poison, manipulations, passage d’[<span style="color:red">Imp</span>](imp.md) à **[<span style="color:red">Femme Écarlate</span>](femmeecarlate.md)**, etc.).
@@ -116,7 +116,7 @@ Le Saint met fin à la partie s'il est exécuté.
 
 ---
 
-## 📝 <span style="color:blue">Notes & interactions</span> 
+##  <span style="color:blue">Notes & interactions</span> 
 
 - Seule la **mort par exécution** déclenche la capacité du Saint.  
 - **L'Exil** n'est pas une exécution !
@@ -125,9 +125,9 @@ Le Saint met fin à la partie s'il est exécuté.
 ---
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>💈 <a href="../etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Étrangers</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li> <a href="../etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Étrangers</a></li>
 </ul>
 
 
