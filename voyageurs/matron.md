@@ -22,7 +22,7 @@ title: Matrone
 ##  Informations
 
 - **Type :** <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>  
-- **Édition :** <a href="../bmr.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Bad Moon Rising</a>  
+- **Édition :** <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a>  
 - **Artiste :** <span style="color:#f5f5f5;">Aidan Roberts</span>
 
 <p style="color:#f5f5f5; font-style:italic; font-size:17px; text-align:center;">
@@ -40,7 +40,7 @@ title: Matrone
 </p>
 
 <p style="text-align:center;">
-   <a href="../bmr.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none; font-size:22px;">Bad Moon Rising</a>
+   <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none; font-size:22px;">Bad Moon Rising</a>
 </p>
 
 ---
