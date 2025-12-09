@@ -92,7 +92,7 @@
   <tr>
     <td class="rules-cell">
       <a class="rules-link" href="./glossaire.html" aria-label="Glossaire des termes Français">
-        <div class="rules-title">Glossaire des termes 🇫🇷</div>
+        <div class="rules-title">Glossaire des termes </div>
         <div class="rules-sub">Liste des termes en français</div>
       </a>
     </td>
@@ -100,7 +100,7 @@
     <td class="rules-cell">
       <a class="rules-link" href="./glossaireengfr.html" aria-label="Glossaire des termes anglais">
         <div class="rules-title">Glossary des termes en anglais</div>
-        <div class="rules-sub">Termes anglais & équivalents FR</div>
+        <div class="rules-sub">Termes anglais & équivalents</div>
       </a>
     </td>
 
@@ -382,9 +382,9 @@ table.roles-grid td{
 <!-- Catégories -->
 <h2 style="color:#b58b52; font-weight:bold; font-size:20px; text-align:left;">Catégories</h2>
 
-<div style="max-width:980px; margin:0 auto; text-align:left;">
+<div style="width:100%; text-align:left;">
 
-<table style="width:100%; border-collapse:separate; border-spacing:16px; margin:0 auto; max-width:960px;">
+<table style="width:100%; border-collapse:separate; border-spacing:16px;">
   <tr>
     <!-- Villageois -->
     <td style="width:50%; text-align:center; padding:12px; background:rgba(0,0,0,0.45); border:1px solid #b58b52; border-radius:12px;">
