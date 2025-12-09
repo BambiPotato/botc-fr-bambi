@@ -340,24 +340,24 @@ table.roles-grid td{
     </td>
 
     <!--  The Carousel Expérimental -->
-<td>
-  <a href="./experimentaux.html">
-    <span class="rg-media">
-      <img src="./images/carousel.png" alt="The Carousel Expérimental">
-    </span>
-    <span class="rg-title">The Carousel Expérimentaux</span>
-  </a>
-</td>
+    <td>
+      <a href="./experimentaux.html">
+        <span class="rg-media">
+          <img src="./images/carousel.png" alt="The Carousel Expérimental">
+        </span>
+        <span class="rg-title">The Carousel Expérimentaux</span>
+      </a>
+    </td>
 
-   <!--  Légendaires -->
-<td>
-  <a href="./legendaire.html">
-    <span class="rg-media">
-      <img src="./images/Generic_fabled.png" alt="Légendaires" style="opacity:.65; filter:grayscale(15%);">
-    </span>
-    <span class="rg-title">Légendaires</span>
-  </a>
-</td>
+    <!--  Légendaires -->
+    <td>
+      <a href="./legendaire.html">
+        <span class="rg-media">
+          <img src="./images/Generic_fabled.png" alt="Légendaires" style="opacity:.65; filter:grayscale(15%);">
+        </span>
+        <span class="rg-title">Légendaires</span>
+      </a>
+    </td>
   </tr>
 
   <tr>
@@ -371,8 +371,53 @@ table.roles-grid td{
       </a>
     </td>
 
-    <!-- Placeholders vides pour compléter la 3e ligne -->
-    <td aria-hidden="true"></td>
+    <!--  Garden of Sin -->
+    <td>
+      <a href="./gardenofsin.html">
+        <span class="rg-media">
+          <img src="./images/logo_garden_of_sin.png" alt="Garden of Sin">
+        </span>
+        <span class="rg-title">Garden of Sin</span>
+        <span class="rg-badge">Prochainement</span>
+      </a>
+    </td>
+
+    <!--  The Tomb -->
+    <td>
+      <a href="./thetomb.html">
+        <span class="rg-media">
+          <img src="./images/logo_the_tomb.png" alt="The Tomb">
+        </span>
+        <span class="rg-title">The Tomb</span>
+        <span class="rg-badge">Prochainement</span>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <!-- Midnight in the House of the Damned -->
+    <td>
+      <a href="./mind.html">
+        <span class="rg-media">
+          <img src="./images/logo_midnight_in_the_house_of_the_damned.png" alt="Midnight in the House of the Damned">
+        </span>
+        <span class="rg-title">Midnight in the House of the Damned</span>
+        <span class="rg-badge">Prochainement</span>
+      </a>
+    </td>
+
+    <!-- The Greatest Show on Earth -->
+    <td>
+      <a href="./gshow.html">
+        <span class="rg-media">
+          <img src="./images/logo_the_greatest_show_on_earth.png" alt="The Greatest Show on Earth">
+        </span>
+        <span class="rg-title">The Greatest Show on Earth</span>
+        <span class="rg-badge">Prochainement</span>
+      </a>
+    </td>
+
+    <!-- Placeholder vide pour compléter la ligne -->
     <td aria-hidden="true"></td>
   </tr>
 </table>
