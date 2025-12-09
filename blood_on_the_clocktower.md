@@ -102,20 +102,19 @@ title: Blood on the Clocktower
 
     <br><br>
 
-    <strong>Les bons</strong>  
+   <strong style="color:#80aee0;">Bons</strong>
     Ils enquêtent pour sauver le village en traquant le Démon et en le faisant exécuter :
     <br>
-    – les <a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>  : Rôles avec des pouvoirs utiles au Village pour démasquer les Maléfiques ! ;  
-    – les <a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>  : Rôles avec un malus ou une particularité qui complique la partie des Villageois.
+     <a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>  : rôles de proctection, informations qui aident à la résolution de la parties.
+    <a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>  : rôles avec un malus ou une particularité qui complique la partie des Villageois.
 
     <br><br>
 
-    <strong>Les maléfiques</strong>  
+    <strong>style="color:#d45b5b;">Maléfiques</strong>  
     Ils cherchent à tromper le village et à survivre jusqu’à la fin :
     <br>
-    – les <a href="./sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>  : serviteurs du Démon qui sèment la confusion ;  
-    – les <a href="./demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démons</a>  : la menace principale que le village doit exécuter.
-
+    <a href="./sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>  : rôles qui empoisonnent et manipulent les informations pour servir la victoire du Démon.. 
+    <a href="./demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>  : Tant que le Démon est en vie à la fin de la partie avec seulement un autre joueur, le Mal triomphe.
     <br><br>
 
     Un <a href="./conteur.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">conteur</a> prépare la partie, applique les règles, tisse les liens entre les événements et donne au tout une véritable ambiance d’histoire racontée autour d’un feu de camp.
@@ -148,40 +147,6 @@ title: Blood on the Clocktower
 
 <hr class="section">
 
-<!-- ======================= -->
-<!-- LES GRANDES FAMILLES -->
-<!-- ======================= -->
-
-<h2 style="font-size:26px;">
-   <span style="color:#b58b52;">Les grandes familles de rôles</span>
-</h2>
-
-<ul style="color:#f5f5f5; font-size:19px; line-height:1.9;">
-  <li>
-    <strong><a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a></strong> 
-    Rôles puissants qui protègent ou donnent des informations au Village.
-  </li>
-
-  <li>
-    <strong><a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a></strong>  
-    Des rôles avec un malus ou une particularité qui complique la tâche du Village.
-  </li>
-
-  <li>
-    <strong><a href="./sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a></strong> 
-    Les Serviteurs du Démon, ils brouillent les pistes et sabotent les plans du Village.
-  </li>
-
-  <li>
-    <strong><a href="./demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a></strong> 
-    Rôle principal de l’équipe maléfique. Tant que le Démon est en vie à la fin de la partie avec seulement un autre joueur, le Mal triomphe.
-  </li>
-</ul>
-
-<hr class="section">
-
-<!-- ======================= -->
-<!-- EDITIONS ET CONTENUS -->
 <!-- ======================= -->
 
 <h2 style="font-size:26px;">
