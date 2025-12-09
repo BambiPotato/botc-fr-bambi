@@ -131,7 +131,7 @@ Par exemple :
   </a>
 </p>
 
-<p style="text-align:left; font-size:18px; margin-top:4px;">
+<p style="text-align:left; font-size:18px; margin-top:2px;">
   <a href="/legendaire.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">
     Légendaires
   </a>
