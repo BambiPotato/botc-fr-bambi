@@ -122,6 +122,10 @@ Par exemple :
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
- <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a>
- <a href="/legendaire.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Légendaires</a>
+  <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none; display:block;">
+    Retour à l’accueil
+  </a>
+  <a href="/legendaire.html" style="color:#d4a76a; font-weight:bold; text-decoration:none; display:block;">
+    Légendaires
+  </a>
 </p>
