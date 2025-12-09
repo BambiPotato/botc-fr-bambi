@@ -21,10 +21,10 @@ title: Les États
   }
 </style>
 
-# 🌀 Les États
+#  Les États
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Dans <strong>Blood 🩸on the Clocktower</strong>, les joueurs et les joueuses peuvent être beaucoup de choses : ce rôle-ci ou celui-là, ivres ou sobres, vivants ou morts, sains ou empoisonnés.  
+Dans <strong>Blood on the Clocktower</strong>, les joueurs et les joueuses peuvent être beaucoup de choses : ce rôle-ci ou celui-là, ivres ou sobres, vivants ou morts, sains ou empoisonnés.  
 Ces éléments sont appelés des <strong>états</strong>. Ce sont des caractéristiques permanentes et indépendantes d'un joueur. 
 Par exemple, si vous êtes ivre et que vous changez de rôle, vous restez ivre.  
 Si vous êtes empoisonné, vous pouvez aussi être ivre en même temps.
@@ -32,7 +32,7 @@ Si vous êtes empoisonné, vous pouvez aussi être ivre en même temps.
 
 <hr class="section">
 
-## 📜 Sommaire
+## Sommaire
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li><a href="#vie-et-mort" style="color:#e0c99d; text-decoration:none;">1️⃣ Vie et mort</a></li>
@@ -43,7 +43,7 @@ Si vous êtes empoisonné, vous pouvez aussi être ivre en même temps.
 
 <hr class="section">
 
-## ⚰️ <span id="vie-et-mort">Vie et mort</span>
+##  <span id="vie-et-mort">Vie et mort</span>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 À tout moment, une joueuse est soit <strong>vivante</strong>, soit <strong>morte</strong>.  
@@ -69,7 +69,7 @@ Si une joueuse déjà morte est attaquée par le <a href="./demons.html" style="
 
 <hr class="section">
 
-## ⚖️ <span id="alignement-et-role">Alignement et rôle</span>
+## <span id="alignement-et-role">Alignement et rôle</span>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 À tout moment, chaque joueur est soit du <strong>Bien</strong>, soit du <strong>Mal</strong>.  
@@ -126,7 +126,7 @@ Ces rôles sont justement faits pour que la personne ne sache pas qui elle est v
 
 <hr class="section">
 
-## 🍺 ☠️ <span id="ivresse-et-poison">Ivresse et poison</span>
+##  <span id="ivresse-et-poison">Ivresse et poison</span>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 À tout moment, un joueur est soit <strong>sobre</strong>, soit <strong>ivre</strong>, et soit <strong>sain</strong>, soit <strong>empoisonné</strong>.  
@@ -260,7 +260,7 @@ En règle générale, l’ivresse et le poison doivent nuire au mieux à la pers
 
 <hr class="section">
 
-## 🤪 <span id="folie">Folie</span>
+## <span id="folie">Folie</span>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 La <strong>Folie</strong> apparaît dans l’édition <a href="./sv.html" style="color:#d67bff; text-decoration:none;">Sects & Violets</a>.  
@@ -344,5 +344,5 @@ Le jeu devient alors plus théâtral, plus chaotique et souvent plus drôle.
 <hr class="section">
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
+  <li> <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
 </ul>
