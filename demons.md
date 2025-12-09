@@ -11,7 +11,7 @@ title: Démons
 
 <!--  Page : Démons -->
 
-<h1 style="color:red; font-weight:bold; font-size:36px;">👹 Démons</h1>
+<h1 style="color:red; font-weight:bold; font-size:36px;"> Démons</h1>
 
 <p align="center">
   <img src="./images/Generic_demon.png" alt="Démon" style="max-width:200px; border-radius:10px; margin-top:10px;">
@@ -53,7 +53,7 @@ Lorsqu’un Démon agit, veillez à :
 
 <hr>
 
-<h2 style="color:#b58b52; font-weight:bold;">📂 Navigation</h2>
+<h2 style="color:#b58b52; font-weight:bold;"> Navigation</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
  Autres catégories :
 </p>
