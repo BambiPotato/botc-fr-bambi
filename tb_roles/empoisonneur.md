@@ -13,7 +13,7 @@ title: Empoisonneur
 
 ---
 
-# 💉 <span style="color:red">Empoisonneur</span>    
+#  <span style="color:red">Empoisonneur</span>    
 
  <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -27,16 +27,16 @@ title: Empoisonneur
 ---
 
  
-## ℹ️ <span style="color:red">Informations</span>   
+##  <span style="color:red">Informations</span>   
 
 - **Type :** [<span style="color:red">**Sbire**</span>](../sbires.md)  
 - **Artiste :** Aidan Roberts  
 - *« Ajoutez le composé Alpha au composé Beta... PAS TROP ! »*  
 
 
-## 🎭 Apparaît dans  
+##  Apparaît dans  
 
-# 🍺 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
+#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
@@ -55,7 +55,7 @@ title: Empoisonneur
 "Cult of the Clocktower – épisode par Andrew Nathenson"
 </p> 
 
-## 📖 <span style="color:red">Résumé</span>     
+##  <span style="color:red">Résumé</span>     
 
 « Chaque nuit, choisissez un joueur : il est **empoisonné** cette nuit et le jour suivant. »  
 
@@ -66,7 +66,7 @@ L’**Empoisonneur** perturbe secrètement les capacités des autres rôles.
 
 ---
 
-## 🎭 <span style="color:red">Comment Conter</span>    
+##  <span style="color:red">Comment Conter</span>    
 
 - Chaque nuit, réveillez l’Empoisonneur, il désigne un joueur.  
 - Placez le jeton **EMPOISONNÉ** à côté du jeton du joueur ciblé.  
@@ -76,7 +76,7 @@ L’**Empoisonneur** perturbe secrètement les capacités des autres rôles.
 
 ---
 
-## 🧩  <span style="color:red">Exemples</span>    
+##   <span style="color:red">Exemples</span>    
 
 - L’Empoisonneur cible le [Mercenaire](mercenaire.md). Le lendemain, le Mercenaire tente de tuer l’[<span style="color:red">Imp</span>](imp.md). Rien ne se passe : sa capacité est perdue.  
 - L’[Empathique](empathique.md) empoisonné apprend un « 0 » alors qu’il est assis entre deux joueurs <span style="color:red">maléfiques</span>. La nuit suivante, il apprend un « 2 ».  
@@ -86,7 +86,7 @@ L’**Empoisonneur** perturbe secrètement les capacités des autres rôles.
 
 ---
 
-## 💡 <span style="color:red">Astuces & Conseils</span>    
+##  <span style="color:red">Astuces & Conseils</span>    
 
 - Les meilleures cibles sont les rôles donnant des infos en continu : [Empathique](empathique.md), [Croque-Mort](croquemort.md), [Voyante](voyante.md).  
 - Empoisonner un joueur à capacité unique ([Vierge](vierge.md), [Mercenaire](mercenaire.md), [Maire](maire.md)) peut être **dévastateur**.  
@@ -97,7 +97,7 @@ L’**Empoisonneur** perturbe secrètement les capacités des autres rôles.
 
 ---
 
-## ⚔️ <span style="color:red">Combattre l’Empoisonneur</span>  
+##  <span style="color:red">Combattre l’Empoisonneur</span>  
 
 - Le premier jour, vos informations sont souvent fiables : l’Empoisonneur ne sait pas encore qui vous êtes.  
 - Méfiez-vous si vos informations deviennent soudainement incohérentes.  
@@ -106,9 +106,9 @@ L’**Empoisonneur** perturbe secrètement les capacités des autres rôles.
 - Le [Bibliothécaire](bibliothecaire.md) ou l’[Enquêteur](enqueteur.md) peuvent le débusquer tôt.  
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>😈 <a href="../sbires.html" style="color:red; font-weight:bold; text-decoration:none;">Retour aux Sbires</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li> <a href="../sbires.html" style="color:red; font-weight:bold; text-decoration:none;">Retour aux Sbires</a></li>
 </ul>
 
 
