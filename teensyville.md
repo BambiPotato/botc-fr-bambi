@@ -36,7 +36,7 @@ Grâce à Teensyville, vous pouvez créer une infinité de variations du jeu cla
 
 <hr class="section">
 
-## 📋 <span style="font-weight:bold;">Sommaire</span>
+##  <span style="font-weight:bold;">Sommaire</span>
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li><a href="#principe" style="color:#e0c99d; font-weight:bold; text-decoration:none;">1️⃣ Principe</a></li>
@@ -72,7 +72,7 @@ Chaque script <strong>Teensyville</strong> contient :
 </ul>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-👉 Cette configuration garantit un équilibre pour des groupes de 5 à 6 personnes,  
+ Cette configuration garantit un équilibre pour des groupes de 5 à 6 personnes,  
 et permet d’utiliser des rôles issus de n’importe quelle édition :  
 <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a>,  
 <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a>  
@@ -84,9 +84,9 @@ ou <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:n
 ## <span id="avantages" style="font-weight:bold;">3️⃣ Avantages du format</span>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-🎲 <strong>Pour les nouveaux joueurs</strong> → Moins de rôles à apprendre, donc une prise en main plus simple.  
+ <strong>Pour les nouveaux joueurs</strong> → Moins de rôles à apprendre, donc une prise en main plus simple.  
 <br>
-🧠 <strong>Pour les vétérans</strong> → Plus de liberté stratégique, car tous les rôles des éditions peuvent être combinés.  
+ <strong>Pour les vétérans</strong> → Plus de liberté stratégique, car tous les rôles des éditions peuvent être combinés.  
 
 Les parties de <strong>Teensyville</strong> sont rapides, dynamiques et riches en interactions.  
 C’est une excellente façon de découvrir des synergies inédites et d’affiner vos talents de Conteur !
@@ -129,8 +129,8 @@ garantissant une expérience fluide et équilibrée pour vos parties.
 <hr class="section">
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
-  <li>🍺 <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌙 <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>💐 <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
+  <li> <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
+  <li> <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li> <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
+  <li> <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
 </ul>
