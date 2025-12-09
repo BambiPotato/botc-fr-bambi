@@ -26,7 +26,7 @@ title: Shabaloth
 
 <!-- INFORMATIONS -->
 
-<h2>ℹ️ <span style="color:#d45b5b;">Informations</span></h2>
+<h2> <span style="color:#d45b5b;">Informations</span></h2>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; list-style-type:disc;">
   <li>
@@ -44,10 +44,10 @@ title: Shabaloth
 
 <!-- APPARAÎT DANS -->
 
-<h2>🎭 <span style="color:#d45b5b;">Apparaît dans</span></h2>
+<h2> <span style="color:#d45b5b;">Apparaît dans</span></h2>
 
 <h1 style="text-align:center; margin-bottom:0;">
-  🌝 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
+   <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
 </h1>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
@@ -72,7 +72,7 @@ title: Shabaloth
 
 <!-- RÉSUMÉ -->
 
-<h2>📖 <span style="color:#d45b5b;">Résumé</span></h2>
+<h2> <span style="color:#d45b5b;">Résumé</span></h2>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0 40px;">
   <strong>« Chaque nuit*, choisissez 2 joueurs : ils meurent. Un joueur mort que vous avez choisi la nuit dernière peut être régurgité. »</strong>
@@ -94,7 +94,7 @@ title: Shabaloth
 
 <!-- COMMENT CONTER -->
 
-<h2>🎭 <span style="color:#d45b5b;">Comment Conter</span></h2>
+<h2> <span style="color:#d45b5b;">Comment Conter</span></h2>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; list-style-type:disc;">
   <li>Chaque nuit, sauf la première, réveillez le Shabaloth.  
@@ -110,7 +110,7 @@ title: Shabaloth
 </ul>
 
 <p style="color:#f5f5f5; font-size:16px; line-height:1.7; margin:10px 40px; border-left:3px solid #d45b5b; padding-left:10px;">
-  💡 <em>Astuce pour Conteurs et Conteuses :</em><br>
+   <em>Astuce pour Conteurs et Conteuses :</em><br>
   Un joueur régurgité récupère <strong>toute sa capacité</strong>,  
   même s’il s’agissait d’une capacité « une fois par partie » ou « première nuit uniquement ».  
   Le Shabaloth ne peut pas se régurgiter lui-même.  
@@ -121,7 +121,7 @@ title: Shabaloth
 
 <!-- EXEMPLES -->
 
-<h2>🧩 <span style="color:#d45b5b;">Exemples</span></h2>
+<h2> <span style="color:#d45b5b;">Exemples</span></h2>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; list-style-type:disc;">
   <li>
@@ -163,9 +163,9 @@ title: Shabaloth
 
 <!-- ASTUCES & STRATÉGIE -->
 
-<h2>💡 <span style="color:#d45b5b;">Astuces &amp; Stratégie</span></h2>
+<h2> <span style="color:#d45b5b;">Astuces &amp; Stratégie</span></h2>
 
-<h3 style="color:#d45b5b; font-size:20px; margin-left:40px;">⚔️ Le Démon brutal</h3>
+<h3 style="color:#d45b5b; font-size:20px; margin-left:40px;"> Le Démon brutal</h3>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0 40px;">
   Le <strong>Shabaloth</strong> est l’un des Démons les plus <strong>destructeurs et rapides</strong> de
@@ -175,7 +175,7 @@ title: Shabaloth
   Frappez sans relâche : le temps joue pour vous.
 </p>
 
-<h3 style="color:#d45b5b; font-size:20px; margin-left:40px;">🎭 La stratégie subtile</h3>
+<h3 style="color:#d45b5b; font-size:20px; margin-left:40px;"> La stratégie subtile</h3>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0 40px;">
   Bien que vous soyez une monstruosité affamée, un peu de finesse peut être très utile :
@@ -195,7 +195,7 @@ title: Shabaloth
   </li>
 </ul>
 
-<h3 style="color:#d45b5b; font-size:20px; margin-left:40px;">🩸 Régurgiter à bon escient</h3>
+<h3 style="color:#d45b5b; font-size:20px; margin-left:40px;"> Régurgiter à bon escient</h3>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; list-style-type:disc;">
   <li>Régurgiter un joueur
@@ -205,7 +205,7 @@ title: Shabaloth
   <li><strong>Conseil :</strong> si la Conteuse régurgite un Sbire, jouez la surprise et agissez comme un rôle bon pour renforcer la confusion.</li>
 </ul>
 
-<h3 style="color:#d45b5b; font-size:20px; margin-left:40px;">🤝 Coopération avec vos Sbires</h3>
+<h3 style="color:#d45b5b; font-size:20px; margin-left:40px;"> Coopération avec vos Sbires</h3>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; list-style-type:disc;">
   <li>Le <a href="../bmr_roles/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a>
@@ -221,9 +221,9 @@ title: Shabaloth
 
 <!-- COMBATTRE LE SHABALOTH -->
 
-<h2>⚔️ <span style="color:#d45b5b;">Combattre le Shabaloth</span></h2>
+<h2> <span style="color:#d45b5b;">Combattre le Shabaloth</span></h2>
 
-<h3 style="color:#d45b5b; font-size:20px; margin-left:40px;">🕵️‍♂️ Identifier sa présence</h3>
+<h3 style="color:#d45b5b; font-size:20px; margin-left:40px;"> Identifier sa présence</h3>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; list-style-type:disc;">
   <li>Le Shabaloth est généralement un Démon assez facile à repérer : il tue souvent <strong>deux fois par nuit</strong>.</li>
@@ -237,7 +237,7 @@ title: Shabaloth
   </li>
 </ul>
 
-<h3 style="color:#d45b5b; font-size:20px; margin-left:40px;">🛡️ Les bons contrepoids</h3>
+<h3 style="color:#d45b5b; font-size:20px; margin-left:40px;"> Les bons contrepoids</h3>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; list-style-type:disc;">
   <li>Le <a href="../bmr_roles/courtisan.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisan</a> :
@@ -248,7 +248,7 @@ title: Shabaloth
       pour identifier quand et sur qui il agit.</li>
 </ul>
 
-<h3 style="color:#d45b5b; font-size:20px; margin-left:40px;">📏 Gestion de la fin de partie</h3>
+<h3 style="color:#d45b5b; font-size:20px; margin-left:40px;"> Gestion de la fin de partie</h3>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0 40px;">
   Dans
@@ -279,7 +279,7 @@ title: Shabaloth
 <!-- FOOTER LIENS -->
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👹 <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Retour aux Démons</a><br>
-  🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Retour aux Démons</a><br>
+   <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
 </p>
