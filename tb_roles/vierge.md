@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# 💍 <span style="color:blue">Vierge</span>  
+#  <span style="color:blue">Vierge</span>  
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -17,16 +17,16 @@
 
 ---
 
-## ℹ️ <span style="color:blue">Informations</span>   
+## <span style="color:blue">Informations</span>   
 
 - **Type** : [Villageois](../villageois.md) 
 - **Artiste** : Aidan Roberts  
 - *"Je suis pure. Que ceux qui sont sans péché se jettent en avant et souffrent à ma place. Ma réputation ne sera pas souillée par vos accusations venimeuses."*
 
 ---
-## 🎭 Apparaît dans  
+##  Apparaît dans  
 
-# 🍺 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
+#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
@@ -46,7 +46,7 @@
 "Cult of the Clocktower – épisode par Andrew Nathenson"
 </p>
 
-## 📖 <span style="color:blue">Résumé</span>    
+##  <span style="color:blue">Résumé</span>    
 
 **"La première fois que vous êtes nominé, si le joueur qui vous nomme est un Villageois, il est immédiatement exécuté."**
 
@@ -58,7 +58,7 @@ La Vierge peut, malgré elle, provoquer l’exécution de son accusateur, ce qui
 
 ---
 
-## 🎭 <span style="color:blue">Comment Conter</span>  
+## � <span style="color:blue">Comment Conter</span>  
 
 - Si le premier joueur à nominer la Vierge est un Villageois :  
   → Déclarez immédiatement que ce joueur est exécuté. Placez un Linceuil de mort sur son jeton.  
@@ -71,7 +71,7 @@ La Vierge peut, malgré elle, provoquer l’exécution de son accusateur, ce qui
 
 ---
 
-##  🧩 <span style="color:blue">Exemples</span>  
+##   <span style="color:blue">Exemples</span>  
 
 - La [Lavandière](lavandiere.md) nomine la Vierge → la Lavandière est exécutée immédiatement et la journée prend fin.  
 - L’[Ivrogne](ivrogne.md), qui pense être le [Cuistot](cuistot.md), nomine la Vierge → rien ne se passe, mais la Vierge perd sa capacité.  
@@ -79,7 +79,7 @@ La Vierge peut, malgré elle, provoquer l’exécution de son accusateur, ce qui
 
 ---
 
-## 💡 <span style="color:blue">Conseils & Astuces</span>    
+##  <span style="color:blue">Conseils & Astuces</span>    
 
 - La Vierge est l’un des rares Villageois qui peut être **confirmée comme bonne de façon absolue**.  
 - Les Villageois ayant déjà utilisé leur pouvoir (comme la [Lavandière](lavandiere.md), l’[Enquêteur](enqueteur.md) ou le [Mercenaire](mercenaire.md)) sont d’excellents choix pour la nomination, car leur mort valide leur rôle sans grande perte.  
@@ -98,7 +98,7 @@ La Vierge peut, malgré elle, provoquer l’exécution de son accusateur, ce qui
 
 ---
 
-## 😈 <span style="color:blue">Bluffer Vierge</span>    
+##  <span style="color:blue">Bluffer Vierge</span>    
 
 - Vous **ne vous réveillez jamais la nuit**.  
 - Si vous êtes nominée et que rien ne se passe, cela jette le doute : l’un de vous deux est peut-être Ivrogne.  
@@ -109,7 +109,7 @@ La Vierge peut, malgré elle, provoquer l’exécution de son accusateur, ce qui
 ---
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🧑‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li> <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a></li>
 </ul>
