@@ -10,9 +10,9 @@ title: Explication des règles
 </p>
 
 
-<!-- 📜 Explication des règles -->
+<!-- Explication des règles -->
 
-<h1 style="color:#b58b52; font-weight:bold; font-size:40px;">📜 Explication des règles</h1>
+<h1 style="color:#b58b52; font-weight:bold; font-size:40px;">Explication des règles</h1>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 La feuille de règles présente l’essentiel pour commencer à jouer.  
@@ -21,12 +21,12 @@ Lisez ce texte à voix haute au groupe, ou laissez-le à disposition pour celles
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Certaines parties utilisent des <strong>signaux avec les mains</strong>.  
-👉 Montrez-les <strong>en même temps</strong> que vous les expliquez : beaucoup de joueurs et de joueuses retiennent mieux en visualisant.
+ Montrez-les <strong>en même temps</strong> que vous les expliquez : beaucoup de joueurs et de joueuses retiennent mieux en visualisant.
 </p>
 
 <hr>
 
-<h2 style="color:#b58b52; font-weight:bold; font-size:28px;">⏳ Avant que la partie ne commence</h2>
+<h2 style="color:#b58b52; font-weight:bold; font-size:28px;"> Avant que la partie ne commence</h2>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Il y a longtemps, dans le paisible **Village** de <strong>Ravenswood Bluff</strong>, en pleine tempête, à minuit pile… un cri retentit.  
@@ -67,7 +67,7 @@ Attention : certaines personnes mentent… et si vous êtes <strong><span style=
 Tout le monde ferme les yeux. Le Conteur réveille certaines personnes pour qu’elles utilisent leur capacité ou reçoivent des informations.
 </p>
 
-<p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-bottom:6px;"><strong>💡 Signaux utilisés par le Conteur :</strong></p>
+<p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-bottom:6px;"><strong>Signaux utilisés par le Conteur :</strong></p>
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>✌️ Deux tapotements sur l’épaule ou le genou = <strong>Ouvrez les yeux</strong></li>
   <li>✊ Poing fermé = <strong>Fermez les yeux</strong></li>
@@ -79,19 +79,19 @@ Tout le monde ferme les yeux. Le Conteur réveille certaines personnes pour qu�
 
 <hr>
 
-<h2 style="color:#b58b52; font-weight:bold; font-size:28px;">☠️ La mort n’est pas la fin</h2>
+<h2 style="color:#b58b52; font-weight:bold; font-size:28px;"> La mort n’est pas la fin</h2>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 À Ravenswood Bluff, <strong>la mort n’est pas la fin</strong>.
 </p>
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>💬 Vous continuez de parler et d’influencer le village.</li>
-  <li>😴 Vous continuez à fermer les yeux la nuit.</li>
-  <li>🏆 Vous gagnez ou perdez avec votre équipe.</li>
+  <li> Vous continuez de parler et d’influencer le village.</li>
+  <li> Vous continuez à fermer les yeux la nuit.</li>
+  <li> Vous gagnez ou perdez avec votre équipe.</li>
 </ul>
 
-<p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-bottom:6px;"><strong>⚠️ Mais :</strong></p>
+<p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-bottom:6px;"><strong>Mais :</strong></p>
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Vous perdez votre capacité.</li>
   <li>Vous ne pouvez plus nominer.</li>
@@ -100,14 +100,14 @@ Tout le monde ferme les yeux. Le Conteur réveille certaines personnes pour qu�
 
 <hr>
 
-<h2 style="color:#b58b52; font-weight:bold; font-size:28px;">🍻 Ivresse et poison</h2>
+<h2 style="color:#b58b52; font-weight:bold; font-size:28px;"> Ivresse et poison</h2>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Le Conteur peut donner de <strong>fausses informations</strong>.  
 Si vous êtes <strong>ivre</strong> (par exemple Ivrogne) ou <strong>empoisonné</strong>, votre capacité ne fonctionne pas mais le Conteur ou la Conteuse fait comme si elle fonctionnait.
 </p>
 
-<p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-bottom:6px;"><strong>👉 Exemple :</strong></p>
+<p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-bottom:6px;"><strong> Exemple :</strong></p>
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>L’<strong>Ivrogne</strong> pense être un Villageois, mais son rôle est inactif.</li>
   <li>Une personne <strong>empoisonnée</strong> agit normalement, mais ses résultats sont <strong>faux</strong>.</li>
@@ -115,7 +115,7 @@ Si vous êtes <strong>ivre</strong> (par exemple Ivrogne) ou <strong>empoisonné
 
 <hr>
 
-<h2 style="color:#b58b52; font-weight:bold; font-size:28px;">🔑 Les 4 règles essentielles</h2>
+<h2 style="color:#b58b52; font-weight:bold; font-size:28px;"> Les 4 règles essentielles</h2>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Voici l’essentiel à retenir. Quatre règles simples pour des parties claires et amusantes :
@@ -155,18 +155,18 @@ Voici l’essentiel à retenir. Quatre règles simples pour des parties claires 
       <li>Main baissée = vote <strong>contre</strong></li>
     </ul>
   </li>
-  <li>✅ Une exécution a lieu si la cible obtient <strong>au moins 50 % des votes des vivants</strong>.</li>
-  <li>❌ En cas d’égalité, <strong>personne n’est exécuté</strong>.</li>
-  <li>☠️ Si vous mourez : vous perdez votre capacité, vous ne pouvez plus nominer, et il vous reste <strong>un seul vote</strong> pour toute la partie.</li>
+  <li>Une exécution a lieu si la cible obtient <strong>au moins 50 % des votes des vivants</strong>.</li>
+  <li> En cas d’égalité, <strong>personne n’est exécuté</strong>.</li>
+  <li> Si vous mourez : vous perdez votre capacité, vous ne pouvez plus nominer, et il vous reste <strong>un seul vote</strong> pour toute la partie.</li>
 </ul>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-✨ Vous connaissez maintenant l’essentiel pour jouer à <em>Blood on the Clocktower</em>. Bonne partie !
+Vous connaissez maintenant l’essentiel pour jouer à <em>Blood on the Clocktower</em>. Bonne partie !
 </p>
 
 <hr>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-top:10px;">
-🏠 <a href="./" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a>
+ <a href="./" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a>
 </p>
 
