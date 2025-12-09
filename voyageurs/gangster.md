@@ -9,7 +9,7 @@ title: Gangster
   </a>
 </p>
 
-<!-- 🧢 Gangster -->
+<!--  Gangster -->
 
 <div style="text-align:center; margin: 20px 0;">
   <img src="../images/Icon_gangster.png" alt="Gangster" width="360" style="border-radius:12px; margin-top:10px;">
@@ -19,7 +19,7 @@ title: Gangster
 
 ---
 
-## 🧭 Informations
+##  Informations
 - **Type :** <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>  
 - **Catégorie :** <a href="/botc-fr-bambi/experimentaux.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Rôles expérimentaux</a>  
 - **Artiste :** Anica Kelsen  
@@ -32,7 +32,7 @@ D’ailleurs, tes boutons de manchette sont plutôt jolis aussi… »
 
 ---
 
-## 🎭 Apparaît dans
+##  Apparaît dans
 
 <p style="text-align:center; margin: 12px 0 6px;">
   <a href="/botc-fr-bambi/experimentaux.html" style="text-decoration:none;">
@@ -41,12 +41,12 @@ D’ailleurs, tes boutons de manchette sont plutôt jolis aussi… »
 </p>
 
 <p style="text-align:center;">
-  🧪 <a href="/botc-fr-bambi/experimentaux.html" style="color:#d4a76a; font-weight:bold; text-decoration:none; font-size:22px;">Rôles expérimentaux</a>
+   <a href="/botc-fr-bambi/experimentaux.html" style="color:#d4a76a; font-weight:bold; text-decoration:none; font-size:22px;">Rôles expérimentaux</a>
 </p>
 
 ---
 
-## 📖 Résumé
+##  Résumé
 
 **« Une fois par jour, vous pouvez tuer un voisin vivant, si votre autre voisin vivant est d’accord. »**
 
@@ -59,7 +59,7 @@ Le <strong>Conteur</strong> doit entendre et confirmer l’accord avant qu’un 
 
 ---
 
-## ⚙️ Comment Conter
+## Comment Conter
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Une fois par jour, le Gangster peut déclarer vouloir utiliser sa capacité.</li>
   <li>Demandez alors si l’un de ses voisins vivants accepte.</li>
@@ -71,7 +71,7 @@ Le <strong>Conteur</strong> doit entendre et confirmer l’accord avant qu’un 
 
 ---
 
-## 🧾 Exemples
+##  Exemples
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Le Gangster a pour voisins le <a href="../tb_roles/saint.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a> et le <a href="../tb_roles/baron.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a>.  
@@ -88,7 +88,7 @@ Le <strong>Conteur</strong> doit entendre et confirmer l’accord avant qu’un 
 
 ---
 
-## 💡 Conseils & astuces (si vous êtes <span style="color:#4ea3ff;">Bon</span>)
+## Conseils & astuces pour les  <span style="color:#4ea3ff;">Bons</span>)
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Apprenez à connaître vos voisins vivants : ils savent que vous êtes le Gangster, alors vous devriez aussi savoir qui ils sont.</li>
@@ -104,7 +104,7 @@ Le <strong>Conteur</strong> doit entendre et confirmer l’accord avant qu’un 
 
 ---
 
-## 😈 Conseils & astuces (si vous êtes <span style="color:#d45b5b;">Maléfique</span>)
+## Conseils & astuces pour les <span style="color:#d45b5b;">Maléfiques</span>)
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Si vos deux voisins sont bons, montez-les l’un contre l’autre. Faites douter chacun de l’autre jusqu’à provoquer un meurtre.</li>
@@ -119,7 +119,7 @@ Le <strong>Conteur</strong> doit entendre et confirmer l’accord avant qu’un 
 
 ---
 
-## 📚 Rappels utiles
+##  Rappels utiles
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Le Gangster ne peut utiliser sa capacité qu’une fois par jour.</li>
@@ -133,6 +133,5 @@ Le <strong>Conteur</strong> doit entendre et confirmer l’accord avant qu’un 
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🧪 <a href="/botc-fr-bambi/experimentaux.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour aux Rôles expérimentaux</a></li>
-  <li>🧳 <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
+  <li> <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
 </ul>
