@@ -644,14 +644,14 @@ table.roles-grid td{
     <li>
       <a href="https://script.bloodontheclocktower.com/" target="_blank"
          style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-         Outil officiel de création de scripts
+         Créer - Outil officiel de création de scripts
       </a>
     </li>
 
     <li>
       <a href="https://savant.thegrim.gg/" target="_blank"
          style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-         Générateur d’informations pour le Savant
+         Savant - Générateur d’informations pour le Savant
       </a>
     </li>
 
@@ -785,7 +785,7 @@ table.roles-grid td{
   <!-- Petit icône communauté -->
   <img src="./images/bambibluepotato.png"
        alt="Communauté Bambi Blue Potato Clocktower"
-       style="width:60px; height:auto; margin-bottom:15px; opacity:0.9; display:block;">
+       style="width:65px; height:auto; margin-bottom:15px; opacity:0.9; display:block;">
 
   <p style="color:#e0c99d; font-size:19px; margin-bottom:15px;">
     Rejoignez notre petite communauté sur <span style="color:#d4a76a; font-weight:bold;">Discord</span> pour jouer en ligne et participer à nos parties streamées :
