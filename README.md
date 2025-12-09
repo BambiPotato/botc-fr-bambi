@@ -79,17 +79,15 @@
      style="display:block; margin:18px auto 20px auto; max-width:100%; max-height:180px; width:auto; height:auto; object-fit:cover; border-radius:8px;" />
 
 ---
-
 <hr style="margin:16px auto; max-width:980px; border:1px solid rgba(181,139,82,.25);">
-
 <!-- ====== INFORMATIONS SUR LE JEU ====== -->
 <style>
   .info-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
     gap: 26px;
-    justify-items: start; /* cartes alignées à gauche dans la grille */
-    margin: 26px 0 12px 0; /* plus de centrage automatique */
+    justify-items: start;        /* les cartes s’alignent vers la gauche dans la grille */
+    margin: 26px 0 12px 0;       /* plus de centrage automatique */
   }
 
   .home-card {
@@ -125,45 +123,40 @@
   }
 </style>
 
-<div style="max-width:980px; margin:0 auto; text-align:left;">
+<h1 style="color:#b58b52; font-size:20px; font-weight:bold; text-shadow:2px 2px 6px #000; margin-bottom:10px;">
+  Informations sur le Jeu
+</h1>
 
-  <h1 style="color:#b58b52; font-size:20px; font-weight:bold; text-shadow:2px 2px 6px #000; margin-bottom:10px;">
-    Informations sur le Jeu
-  </h1>
+<!--  LIGNE 1 : Glossaires -->
+<div class="info-grid">
 
-  <!--  LIGNE 1 : Glossaires -->
-  <div class="info-grid">
+  <!--  Glossaire FR -->
+  <a class="home-card" href="./glossaire.html" aria-label="Glossaire des termes Français">
+    <span class="home-title">Glossaire des termes 🇫🇷</span>
+  </a>
 
-    <!--  Glossaire FR -->
-    <a class="home-card" href="./glossaire.html" aria-label="Glossaire des termes Français">
-      <span class="home-title">Glossaire des termes 🇫🇷</span>
-    </a>
+  <!--  Glossaire EN -->
+  <a class="home-card" href="./glossaireengfr.html" aria-label="Glossaire des termes anglais">
+    <span class="home-title">Glossary des termes en anglais</span>
+  </a>
 
-    <!--  Glossaire EN -->
-    <a class="home-card" href="./glossaireengfr.html" aria-label="Glossaire des termes anglais">
-      <span class="home-title">Glossary des termes en anglais</span>
-    </a>
+</div>
 
-  </div>
+<!--  LIGNE 2 : Conseils -->
+<div class="info-grid" style="margin-top:10px;">
 
-  <!--  LIGNE 2 : Conseils -->
-  <div class="info-grid" style="margin-top:10px;">
+  <!-- Conseils Conteurs -->
+  <a class="home-card" href="./conteur.html" aria-label="Conseils pour les Conteurs et Conteuses">
+    <span class="home-title">Conseils pour les Conteurs et Conteuses</span>
+  </a>
 
-    <!-- Conseils Conteurs -->
-    <a class="home-card" href="./conteur.html" aria-label="Conseils pour les Conteurs et Conteuses">
-      <span class="home-title">Conseils pour les Conteurs et Conteuses</span>
-    </a>
-
-    <!-- Conseils Joueurs -->
-    <a class="home-card" href="./strategie.html" aria-label="Conseils et Stratégies pour les joueurs et joueuses">
-      <span class="home-title">Conseils & Stratégies pour les joueurs et joueuses</span>
-    </a>
-
-  </div>
+  <!-- Conseils Joueurs -->
+  <a class="home-card" href="./strategie.html" aria-label="Conseils et Stratégies pour les joueurs et joueuses">
+    <span class="home-title">Conseils & Stratégies pour les joueurs et joueuses</span>
+  </a>
 
 </div>
 <!-- ====== /INFORMATIONS SUR LE JEU ====== -->
-
 ---
 
 <!--  Livre des Règles (version table, sans <div>) -->
