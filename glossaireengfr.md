@@ -311,8 +311,8 @@ Quand un joueur ouvre les yeux la nuit.
 **Win (Gagner)**  
 Victoire de son équipe (les vivants et morts de l’équipe gagnante gagnent ensemble).  
 
-<h2 style="color:#ffa64d; font-weight:bold; font-size:24px;">📂 Navigation</h2>
+---
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li> <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
+  <li> <a href="./index.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
 </ul>
