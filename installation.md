@@ -149,14 +149,6 @@ Vérifiez que l’ordre horaire affiché correspond à la disposition réelle du
 <hr>
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li> <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li> <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li> <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li> <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
-  <li> <a href="./regles.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Règles du jeu</a></li>
-  <li> <a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a></li>
-  <li> <a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a></li>
-  <li> <a href="./sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a></li>
-  <li> <a href="./demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démons</a></li>
-  <li> <a href="./voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="./regles.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Règles du jeu</a></li>
 </ul>
