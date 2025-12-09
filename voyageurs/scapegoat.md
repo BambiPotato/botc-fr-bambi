@@ -22,7 +22,7 @@ title: Bouc Émissaire
 ##  Informations
 
 - **Type :** <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>  
-- **Édition :** <a href="../trouble_brewing.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Trouble Brewing</a>  
+- **Édition :** <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a>  
 - **Artiste :** <span style="color:#f5f5f5;">Aidan Roberts</span>
 
 <p style="color:#f5f5f5; font-style:italic; font-size:17px; text-align:center;">
@@ -41,7 +41,7 @@ Je suis sûr que tout ira à merveille. Au fait… à quoi sert cette corde ? »
 </p>
 
 <p style="text-align:center;">
-   <a href="../trouble_brewing.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none; font-size:22px;">Trouble Brewing</a>
+   <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none; font-size:22px;">Trouble Brewing</a>
 </p>
 
 ---
