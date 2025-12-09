@@ -46,7 +46,7 @@ Vous allez recevoir un jeton <strong style="color:blue;">bleu</strong> ou <stron
   <li>🔴 <strong>Rouge</strong> = vous êtes <strong><span style="color:red;">Maléfique</span></strong>.</li>
 </ul>
 
-<p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-bottom:6px;"><strong>🎯 Objectifs :</strong></p>
+<p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-bottom:6px;"><strong> Objectifs :</strong></p>
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Si vous êtes <strong>Bon</strong> : trouvez et exécutez le <strong><span style="color:red;">Démon</span></strong> → le Bien gagne.</li>
   <li>Si vous êtes <strong><span style="color:red;">Maléfique</span></strong> : détruisez le village. S’il ne reste que <strong>2 joueurs vivants</strong>, le Mal gagne.</li>
@@ -54,15 +54,15 @@ Vous allez recevoir un jeton <strong style="color:blue;">bleu</strong> ou <stron
 
 <hr>
 
-<h2 style="color:#b58b52; font-weight:bold; font-size:28px;">☀️ Le jour &nbsp;et&nbsp; 🌙 la nuit</h2>
+<h2 style="color:#b58b52; font-weight:bold; font-size:28px;">🌞 Le jour &nbsp;et&nbsp; 🌗 la nuit</h2>
 
-<h3 style="color:#b58b52; font-weight:bold; font-size:22px; margin-bottom:8px;">☀️ Jour</h3>
+<h3 style="color:#b58b52; font-weight:bold; font-size:22px; margin-bottom:8px;"> Jour</h3>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Discutez, enquêtez, accusez. La plupart des joueurs et des joueuses du Bien partagent leurs informations pour démasquer le <strong><span style="color:red;">Démon</span></strong>.  
 Attention : certaines personnes mentent… et si vous êtes <strong><span style="color:red;">Maléfique</span></strong>, vous devrez mentir.
 </p>
 
-<h3 style="color:#b58b52; font-weight:bold; font-size:22px; margin-bottom:8px;">🌙 Nuit</h3>
+<h3 style="color:#b58b52; font-weight:bold; font-size:22px; margin-bottom:8px;"> Nuit</h3>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Tout le monde ferme les yeux. Le Conteur réveille certaines personnes pour qu’elles utilisent leur capacité ou reçoivent des informations.
 </p>
@@ -144,7 +144,7 @@ Voici l’essentiel à retenir. Quatre règles simples pour des parties claires 
 
 <hr>
 
-<h2 style="color:#b58b52; font-weight:bold; font-size:28px;">⚖️ Nominations et exécutions</h2>
+<h2 style="color:#b58b52; font-weight:bold; font-size:28px;"> Nominations et exécutions</h2>
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Pour nominer : dites clairement <em>« Je nomine … »</em>.</li>
