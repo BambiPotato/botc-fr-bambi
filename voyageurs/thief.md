@@ -9,7 +9,7 @@ title: Voleur
   </a>
 </p>
 
-<!-- 🫣 Voleur -->
+<!--  Voleur -->
 
 <div style="text-align:center; margin: 20px 0;">
   <img src="../images/Icon_thief.png" alt="Voleur" width="360" style="border-radius:12px; margin-top:10px;">
@@ -19,7 +19,7 @@ title: Voleur
 
 ---
 
-## 🧭 Informations
+##  Informations
 
 - **Type :** <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>  
 - **Édition :** <a href="../trouble_brewing.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Trouble Brewing</a>  
@@ -33,7 +33,7 @@ Et puis, c’était trop lourd à porter de toute façon… »
 
 ---
 
-## 🎭 Apparaît dans
+##  Apparaît dans
 
 <p style="text-align:center; margin: 12px 0 6px;">
   <a href="../trouble_brewing.html" style="text-decoration:none;">
@@ -42,12 +42,12 @@ Et puis, c’était trop lourd à porter de toute façon… »
 </p>
 
 <p style="text-align:center;">
-  🍺 <a href="../trouble_brewing.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none; font-size:22px;">Trouble Brewing</a>
+   <a href="../trouble_brewing.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none; font-size:22px;">Trouble Brewing</a>
 </p>
 
 ---
 
-## 📖 Résumé
+##  Résumé
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 « Chaque nuit, choisissez un joueur ou une joueuse (autre que vous) : son vote comptera négativement le lendemain. »
@@ -66,7 +66,7 @@ Chaque fois que la personne choisie vote pendant la journée, son vote retire un
 
 ---
 
-## ⚙️ Fonctionnement
+## Comment Conter
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Chaque nuit, le Voleur se réveille et désigne un joueur ou une joueuse (autre que lui-même).  
@@ -77,7 +77,7 @@ Si le Voleur meurt, cet effet cesse immédiatement.
 
 ---
 
-## 💡 Exemples
+##  Exemples
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Le Voleur choisit Noémie.  
@@ -91,7 +91,7 @@ Si le Voleur meurt, cet effet cesse immédiatement.
 
 ---
 
-## 🧿 Conseils et astuces (camp du <span style="color:#4ea3ff;">Bien</span>)
+##  Conseils et Astuces pour les <span style="color:#4ea3ff;">Bons</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Servez-vous de votre pouvoir pour affaiblir les votes des joueurs ou des joueuses que vous pensez <span style="color:#d45b5b;">Maléfiques</span>.</li>
@@ -106,7 +106,7 @@ Si le Voleur meurt, cet effet cesse immédiatement.
 
 ---
 
-## 🔥 Conseils et astuces (si vous êtes <span style="color:#d45b5b;">Maléfique</span>)
+##  Conseils et Astuces pour les <span style="color:#d45b5b;">Maléfiques</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Visez des joueurs du camp du Bien qui commencent à comprendre la partie, sans leur dire qu’ils votent négativement.</li>
@@ -120,7 +120,6 @@ Si le Voleur meurt, cet effet cesse immédiatement.
 ---
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Retour à Trouble Brewing</a></li>
-  <li>🧳 <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
 </ul>
