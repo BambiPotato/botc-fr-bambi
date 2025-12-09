@@ -162,7 +162,7 @@
 ---
 
 <!--  Livre des Règles (version table, sans <div>) -->
-<h1 style="color:#b58b52; font-size:46px; font-weight:bold; text-shadow:2px 2px 6px #000; margin-bottom:14px;">
+<h1 style="color:#b58b52; font-size:26px; font-weight:bold; text-shadow:2px 2px 6px #000; margin-bottom:14px;">
   Livre des Règles
 </h1>
 
@@ -245,7 +245,7 @@
 
 ---
 
-## <span style="color:#b58b52; font-weight:bold; font-size:22px;">Rôles par Édition</span>
+## <span style="color:#b58b52; font-weight:bold; font-size:20px;">Rôles par Édition</span>
 
 <style>
   /* === Grille table 3x3, responsive, sans <div> visibles === */
@@ -416,7 +416,7 @@ table.roles-grid td{
 
 ---
 <!-- Catégories -->
-<h2 style="color:#b58b52; font-weight:bold; font-size:22px; text-align:left;">Catégories</h2>
+<h2 style="color:#b58b52; font-weight:bold; font-size:20px; text-align:left;">Catégories</h2>
 
 <div style="max-width:980px; margin:0 auto; text-align:left;">
 
@@ -543,7 +543,7 @@ table.roles-grid td{
   }
 </style>
 
-<h2 style="color:#b58b52; font-weight:bold; font-size:22px;">Scripts personnalisés</h2>
+<h2 style="color:#b58b52; font-weight:bold; font-size:20px;">Scripts personnalisés</h2>
 
 <div class="scripts-grid">
 
@@ -582,7 +582,7 @@ table.roles-grid td{
   <ul style="
     list-style:none;
     padding-left:0;
-    font-size:19px;
+    font-size:20px;
     color:#e0c99d;
   ">
     <li> → <a href="https://botc.app/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Pour jouer en ligne à Blood on the Clocktower</a></li>
@@ -629,7 +629,7 @@ table.roles-grid td{
 
 <div style="text-align:left; margin-top:40px; line-height:1.8; border:1px solid rgba(212,167,106,0.3); border-radius:10px; padding:25px; box-shadow:0 0 12px rgba(0,0,0,0.4); background-color:rgba(0,0,0,0.45);">
 
-  <h2 style="color:#d4a76a; font-size:34px; font-weight:bold; text-shadow:1px 1px 4px #000;">
+  <h2 style="color:#d4a76a; font-size:28px; font-weight:bold; text-shadow:1px 1px 4px #000;">
      Jouer en personne ou en ligne&nbsp;?
   </h2>
 
@@ -671,7 +671,7 @@ table.roles-grid td{
     ou simplement curieux ou curieuse de découvrir cet univers.
   </p>
 
-  <p style="font-size:19px; color:#e0c99d; margin-top:20px;">
+  <p style="font-size:20px; color:#e0c99d; margin-top:20px;">
      Ce projet vit grâce à la passion et à la collaboration de nombreuses joueuses et de nombreux joueurs.  
     N’hésitez pas à proposer vos <span style="color:#d4a76a; font-weight:bold;">idées</span> ou vos <span style="color:#d4a76a; font-weight:bold;">corrections</span> pour continuer à l’enrichir.
   </p>
