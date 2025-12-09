@@ -117,11 +117,11 @@
   }
 
   .info-table {
-    width:100%;
-    border-collapse:separate;
-    border-spacing:16px 14px;
-    margin:0 auto;
-    max-width:980px;
+  width:100%;
+  border-collapse:separate;
+  border-spacing:16px 14px;
+  /* pas de margin auto, pas de max-width : comme .rules-table */
+}
   }
 
   .info-cell {
