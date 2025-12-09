@@ -95,7 +95,7 @@ Le <strong>Collecteur d’os</strong> rend temporairement leur pouvoir aux joueu
 
 ---
 
-## Conseils & astuces pour les <span style="color:#d45b5b;">Maléfique</span>
+## Conseils & astuces pour les <span style="color:#d45b5b;">Maléfiques</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Rendez un pouvoir à un <span style="color:#d45b5b;">Sbire</span> au moment opportun pour renforcer votre équipe.</li>
