@@ -424,7 +424,7 @@ table.roles-grid td{
     <td style="width:50%; text-align:center; padding:12px; background:rgba(0,0,0,0.45); border:1px solid #b58b52; border-radius:12px;">
       <a href="./villageois.html" style="text-decoration:none; display:inline-block;">
         <img src="./images/Generic_townsfolk.png" alt="Villageois" width="240" style="border-radius:12px;">
-        <div style="margin-top:8px; color:blue; font-weight:bold; font-size:20px;">Villageois</div>
+        <div style="margin-top:8px; color:#4ea3ff; font-weight:bold; font-size:20px;">Villageois</div>
       </a>
     </td>
 
@@ -432,7 +432,7 @@ table.roles-grid td{
     <td style="width:50%; text-align:center; padding:12px; background:rgba(0,0,0,0.45); border:1px solid #b58b52; border-radius:12px;">
       <a href="./etrangers.html" style="text-decoration:none; display:inline-block;">
         <img src="./images/Generic_outsider.png" alt="Étrangers" width="240" style="border-radius:12px;">
-        <div style="margin-top:8px; color:blue; font-weight:bold; font-size:20px;">Étrangers</div>
+        <div style="margin-top:8px; color:#4ea3ff; font-weight:bold; font-size:20px;">Étrangers</div>
       </a>
     </td>
   </tr>
@@ -442,7 +442,7 @@ table.roles-grid td{
    <td style="width:50%; text-align:center; padding:12px; background:rgba(0,0,0,0.45); border:1px solid #b58b52; border-radius:12px;">
       <a href="./sbires.html" style="text-decoration:none; display:inline-block;">
         <img src="./images/Generic_minion.png" alt="Sbires" width="240" style="border-radius:12px;">
-        <div style="margin-top:8px; color:red; font-weight:bold; font-size:20px;">Sbires</div>
+        <div style="margin-top:8px; color:d45b5b; font-weight:bold; font-size:20px;">Sbires</div>
       </a>
     </td>
 
@@ -450,7 +450,7 @@ table.roles-grid td{
     <td style="width:50%; text-align:center; padding:12px; background:rgba(0,0,0,0.45); border:1px solid #b58b52; border-radius:12px;">
       <a href="./demons.html" style="text-decoration:none; display:inline-block;">
         <img src="./images/Generic_demon.png" alt="Démons" width="240" style="border-radius:12px;">
-        <div style="margin-top:8px; color:red; font-weight:bold; font-size:20px;">Démons</div>
+        <div style="margin-top:8px; color:d45b5b; font-weight:bold; font-size:20px;">Démons</div>
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@ table.roles-grid td{
     <td style="width:50%; text-align:center; padding:12px; background:rgba(0,0,0,0.45); border:1px solid #b58b52; border-radius:12px;">
       <a href="./voyageurs/voyageurs.html" style="text-decoration:none; display:inline-block;">
         <img src="./images/Generic_traveller.png" alt="Voyageurs" width="240" style="border-radius:12px;">
-        <div style="margin-top:8px; color:purple; font-weight:bold; font-size:20px;">Voyageurs</div>
+        <div style="margin-top:8px; color:#9b59b6; font-weight:bold; font-size:20px;">Voyageurs</div>
       </a>
     </td>
 
@@ -468,7 +468,7 @@ table.roles-grid td{
     <td style="width:50%; text-align:center; padding:12px; background:rgba(0,0,0,0.45); border:1px solid #b58b52; border-radius:12px;">
       <a href="./legendaire.html" style="text-decoration:none; display:inline-block; opacity:0.8;">
         <img src="./images/Generic_fabled.png" alt="Légendaires" width="240" style="border-radius:12px; opacity:0.7;">
-        <div style="margin-top:8px; color:#b58b52; font-weight:bold; font-size:20px;">Légendaires</div>
+        <div style="margin-top:8px; color:d4a76a; font-weight:bold; font-size:20px;">Légendaires</div>
       </a>
     </td>
   </tr>
@@ -590,8 +590,6 @@ table.roles-grid td{
   
 ---
 
-  <hr style="width:40%; border:1px solid #b58b52; opacity:0.6; margin:25px 0;">
-
  <div style="
   max-width:980px;
   margin:40px auto;
@@ -619,6 +617,7 @@ table.roles-grid td{
   </ul>
 
 </div>
+
 ---
 
 <div style="text-align:left; margin-top:40px; line-height:1.8; border:1px solid rgba(212,167,106,0.3); border-radius:10px; padding:25px; box-shadow:0 0 12px rgba(0,0,0,0.4); background-color:rgba(0,0,0,0.45);">
