@@ -9,7 +9,7 @@ title: Lavandière
   </a>
 </p>
 
-<h2 style="margin-top:8px;">🧺 <span style="color:#6fa8ff; font-weight:bold;">Lavandière</span></h2>
+<h2 style="margin-top:8px;"> <span style="color:#6fa8ff; font-weight:bold;">Lavandière</span></h2>
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin:20px 0;">
@@ -22,7 +22,7 @@ title: Lavandière
 
 <hr>
 
-<h3 style="color:#6fa8ff; font-weight:bold;">ℹ️ Informations</h3>
+<h3 style="color:#6fa8ff; font-weight:bold;"> Informations</h3>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li><strong>Type</strong> : <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a></li>
@@ -32,9 +32,9 @@ title: Lavandière
 
 <hr>
 
-<h3>🎭 Apparaît dans</h3>
+<h3> Apparaît dans</h3>
 
-<h2 style="color:#b58b52; font-weight:bold; font-size:42px; margin-bottom:6px;">🍺 Trouble Brewing</h2>
+<h2 style="color:#b58b52; font-weight:bold; font-size:42px; margin-bottom:6px;">Trouble Brewing</h2>
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-6px;">
   « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
 </p>
@@ -100,7 +100,7 @@ title: Lavandière
 
 <hr>
 
-<h3 style="color:#6fa8ff; font-weight:bold;">🧩 Exemples</h3>
+<h3 style="color:#6fa8ff; font-weight:bold;"> Exemples</h3>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li><strong>Cédric</strong> est 
@@ -135,7 +135,7 @@ title: Lavandière
 
 <hr>
 
-<h3 style="color:#6fa8ff; font-weight:bold;">💡 Astuces & Stratégies</h3>
+<h3 style="color:#6fa8ff; font-weight:bold;"> Astuces & Stratégies</h3>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>La Lavandière est <strong>puissante en discrétion</strong> : elle ne désigne pas les maléfiques, mais peut confirmer l’identité d’un joueur bon.</li>
@@ -168,7 +168,7 @@ title: Lavandière
 
 <hr>
 
-<h3 style="color:#6fa8ff; font-weight:bold;">😈 Bluffer Lavandière</h3>
+<h3 style="color:#6fa8ff; font-weight:bold;"> Bluffer Lavandière</h3>
 
 <ul style="color:#f5f5f5 font-size:18px; line-height:1.7;">
   <li>Vos infos arrivent <strong>dès la première nuit</strong> : deux joueurs et un jeton 
@@ -195,7 +195,7 @@ title: Lavandière
 <hr>
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🧑‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li> <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a></li>
 </ul>
