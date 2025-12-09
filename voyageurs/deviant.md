@@ -9,7 +9,7 @@ title: Déviant
   </a>
 </p>
 
-<!-- 🤡 Déviant -->
+<!--  Déviant -->
 
 <div style="text-align:center; margin: 20px 0;">
   <img src="../images/Icon_deviant.png" alt="Déviant" width="360" style="border-radius:12px; margin-top:10px;">
@@ -19,7 +19,7 @@ title: Déviant
 
 ---
 
-## 🧭 Informations
+##  Informations
 - **Type :** <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>  
 - **Édition :** <a href="/botc-fr-bambi/sv.html" style="color:#67bfff; font-weight:bold; text-decoration:none;">Sects & Violets</a>  
 - **Artiste :** John Grist
@@ -30,7 +30,7 @@ title: Déviant
 
 ---
 
-## 🎭 Apparaît dans
+##  Apparaît dans
 
 <p style="text-align:center; margin: 12px 0 6px;">
   <a href="/botc-fr-bambi/sv.html" style="text-decoration:none;">
@@ -39,12 +39,12 @@ title: Déviant
 </p>
 
 <p style="text-align:center;">
-  🌸 <a href="/botc-fr-bambi/sv.html" style="color:#67bfff; font-weight:bold; text-decoration:none; font-size:22px;">Sects & Violets</a>
+   <a href="/botc-fr-bambi/sv.html" style="color:#67bfff; font-weight:bold; text-decoration:none; font-size:22px;">Sects & Violets</a>
 </p>
 
 ---
 
-## 📖 Résumé
+##  Résumé
 
 **« Si vous avez été drôle aujourd’hui, vous ne pouvez pas mourir par exil. »**
 
@@ -55,7 +55,7 @@ C’est au <strong>Conteur</strong> de juger si le Déviant a été amusant ou n
 
 ---
 
-## ⚙️ Comment Conter
+##  Comment Conter
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
   <li>Si le Déviant devait être exilé, le Conteur peut déclarer qu’il reste en vie.</li>
@@ -66,7 +66,7 @@ C’est au <strong>Conteur</strong> de juger si le Déviant a été amusant ou n
 
 ---
 
-## 🧾 Exemples
+##  Exemples
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
   <li>Le Déviant maléfique lance quelques plaisanteries, fait rire le groupe, et bien qu’il y ait assez de votes pour l’exiler, le Conteur décide qu’il survit.</li>
@@ -75,7 +75,7 @@ C’est au <strong>Conteur</strong> de juger si le Déviant a été amusant ou n
 
 ---
 
-## 💡 Conseils & astuces (si vous êtes <span style="color:#4ea3ff;">Bon</span>)
+##  Conseils & astuces pour les <span style="color:#4ea3ff;">Bons</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
   <li>Si vous cherchez ici comment être drôle, vous partez mal… mais essayez au moins d’obtenir un sourire !</li>
@@ -88,7 +88,7 @@ C’est au <strong>Conteur</strong> de juger si le Déviant a été amusant ou n
 
 ---
 
-## 😈 Conseils & astuces (si vous êtes <span style="color:#d45b5b;">Maléfique</span>)
+## Conseils & astuces pour les <span style="color:#d45b5b;">Maléfiques</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
   <li>Votre objectif reste le même : faire rire pour survivre ! L’humour est votre arme contre l’exil.</li>
@@ -100,7 +100,7 @@ C’est au <strong>Conteur</strong> de juger si le Déviant a été amusant ou n
 
 ---
 
-## 📚 Rappels utiles
+## Rappels utiles
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
   <li>Le Déviant peut être exilé comme tout Voyageur, sauf s’il a été jugé drôle aujourd’hui.</li>
@@ -111,7 +111,6 @@ C’est au <strong>Conteur</strong> de juger si le Déviant a été amusant ou n
 ---
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌸 <a href="/botc-fr-bambi/sv.html" style="color:#67bfff; font-weight:bold; text-decoration:none;">Retour à Sects & Violets</a></li>
-  <li>🧳 <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
 </ul>
