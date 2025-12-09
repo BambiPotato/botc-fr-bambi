@@ -105,8 +105,8 @@ title: Blood on the Clocktower
     <strong>Les bons</strong>  
     Ils enquêtent pour sauver le village en traquant le Démon et en le faisant exécuter :
     <br>
-    – les <a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>  : rôles du Bien avec des pouvoirs utiles ;  
-    – les <a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>  : rôles du Bien avec un handicap ou une particularité qui complique la partie.
+    – les <a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>  : Rôles avec des pouvoirs utiles au Village pour démasquer les Maléfiques ! ;  
+    – les <a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>  : Rôles avec un malus ou une particularité qui complique la partie des Villageois.
 
     <br><br>
 
