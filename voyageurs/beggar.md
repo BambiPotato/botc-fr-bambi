@@ -9,7 +9,7 @@ title: Mendiant
   </a>
 </p>
 
-<!-- 🪙 Mendiant -->
+<!-- Mendiant -->
 
 <div style="text-align:center; margin: 20px 0;">
   <img src="../images/Icon_beggar.png" alt="Mendiant" width="360" style="border-radius:12px; margin-top:10px;">
@@ -19,7 +19,7 @@ title: Mendiant
 
 ---
 
-## 🧭 Informations
+##  Informations
 
 - **Type :** <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>  
 - **Édition :** <a href="../trouble_brewing.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Trouble Brewing</a>  
@@ -32,7 +32,7 @@ Que Dieu vous bénisse ! Vous êtes bien bons ! Ce soir, je mangerai du festin, 
 
 ---
 
-## 🎭 Apparaît dans
+## Apparaît dans
 
 <p style="text-align:center; margin: 12px 0 6px;">
   <a href="../trouble_brewing.html" style="text-decoration:none;">
@@ -41,12 +41,12 @@ Que Dieu vous bénisse ! Vous êtes bien bons ! Ce soir, je mangerai du festin, 
 </p>
 
 <p style="text-align:center;">
-  🍺 <a href="../trouble_brewing.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none; font-size:22px;">Trouble Brewing</a>
+  <a href="../trouble_brewing.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none; font-size:22px;">Trouble Brewing</a>
 </p>
 
 ---
 
-## 📖 Résumé
+##  Résumé
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 « Vous devez utiliser un jeton de vote pour voter. Si une personne morte vous donne le sien, vous apprenez son alignement.  
@@ -71,7 +71,7 @@ Lorsqu’il en reçoit un, il apprend si cette personne est du <span style="colo
 
 ---
 
-## ⚙️ Fonctionnement
+## Fonctionnement
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Le Mendiant ne peut voter que s’il possède un jeton de vote.  
@@ -82,7 +82,7 @@ Le Conteur transfère alors le jeton et informe secrètement le Mendiant de l’
 
 ---
 
-## 💡 Exemples
+##  Exemples
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Le Mendiant ne peut pas voter.  
@@ -97,7 +97,7 @@ Le Conteur transfère alors le jeton et informe secrètement le Mendiant de l’
 
 ---
 
-## 🧿 Conseils et astuces (camp du <span style="color:#4ea3ff;">Bien</span>)
+## Conseils et astuces pour kes <span style="color:#4ea3ff;">Bons</span>)
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Essayez d’apprendre l’alignement d’une ou deux personnes, mais ne soyez pas trop gourmand.  
@@ -111,7 +111,7 @@ Le Conteur transfère alors le jeton et informe secrètement le Mendiant de l’
 
 ---
 
-## 🔥 Conseils et astuces (camp du <span style="color:#d45b5b;">Mal</span>)
+##  Conseils et astuces pour les <span style="color:#d45b5b;">Maléfiques</span>)
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Collectez un maximum de jetons : moins le Bien a de votes, mieux c’est.</li>
@@ -126,7 +126,7 @@ Le Conteur transfère alors le jeton et informe secrètement le Mendiant de l’
 ---
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à Trouble Brewing</a></li>
-  <li>🧳 <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
+  <li><a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="../trouble_brewing.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à Trouble Brewing</a></li>
+  <li> <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
 </ul>
