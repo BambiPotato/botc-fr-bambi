@@ -72,9 +72,9 @@ Son alignement n’est pas révélé à sa mort.
 ## Comment Conter
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Si une personne du même alignement que le Bouc Émissaire allait être exécutée, vous pouvez choisir que le Bouc Émissaire meure à la place.  
+Si une personne du même alignement que le Bouc Émissaire allait être exécutée, vous pouvez choisir que le Bouc Émissaire meure à sa place.  
 Idéalement avant le dernier jour, sinon il sera probablement exilé.  
-Si le Bouc Émissaire est <span style="color:#d45b5b;">maléfique</span>, sa mort peut sauver l’équipe du Mal : utilisez-la sans hésiter.
+Si le Bouc Émissaire est <span style="color:#d45b5b;">maléfique</span>, sa mort peut sauver un Maléfique : utilisez-la sans hésiter.
 </p>
 
 ---
@@ -101,7 +101,7 @@ Les <strong>Conteurs et conteuses</strong> déclenchent souvent votre capacité 
 
 <br><br>
 
-<strong>Si votre mort remplace celle de l’exécuté(e)</strong>, c’est une excellente nouvelle.  
+<strong>Si votre mort remplace celle de l’exécuté</strong>, c’est une excellente nouvelle.  
 Parlez immédiatement en privé avec la personne que vous venez de sauver :  
 vous savez qu’elle est bonne, elle sait que vous êtes bon.  
 Collaborez, partagez vos infos, votez ensemble.  
@@ -114,12 +114,13 @@ Si vous exécutez un rôle maléfique, parfait !
 Le 
 <a href="../demons.html" style="color:red; font-weight:bold; text-decoration:none;">Démon</a> bluffe souvent un rôle informationnel fort que l’équipe bonne hésite à exécuter.  
 Tenter une exécution sur une rôle comme la 
-<a href="../tb_roles/fvoyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> peut parfois étrangement aider l’équipe bonne – ou révéler un mensonge.
+<a href="../tb_roles/fvoyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> peut parfois étrangement aider l’équipe bonne ou révéler un mensonge.
+</p>
 
-<br><br>
-
-<strong>Si vous mourez à la place d’un(e) bon(ne), utilisez cette info publiquement.</strong>  
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<strong>Si vous mourez à la place d’un joueur bon, utilisez cette info publiquement.</strong>  
 Vous disposez de deux faits extrêmement puissants :
+</p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>La majorité des <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a> sont bons. Les chances que vous soyez bon sont donc élevées… ce qui implique que la personne sauvée est probablement bonne aussi.</li>
@@ -132,10 +133,11 @@ Vous disposez de deux faits extrêmement puissants :
   <a href="../tb_roles/fvoyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> est en jeu, leurs informations peuvent rendre improbable que vous soyez tous deux maléfiques.</li>
 </ul>
 
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <br>
 
 <strong>Méfiez-vous de l’</strong><a href="../tb_roles/espion.html" style="color:red; font-weight:bold; text-decoration:none;">Espion</a> !  
-S’il obtient les votes, c’est vous – pauvre Bouc Émissaire innocent – que l’on exécutera.  
+S’il obtient les votes, c’est vous le pauvre Bouc Émissaire innocent que l’on exécutera.  
 Au moins, vous saurez qu’il n’était pas le 
 <a href="../demons.html" style="color:red; font-weight:bold; text-decoration:none;">Démon</a>.
 
@@ -154,7 +156,6 @@ Même s’il est bon, ce n’est pas important pour vous.
 Un groupe persuadé qu’un autre Voyageur est mauvais aura tendance à vous croire bon, et donc à vous garder en vie assez longtemps pour que votre capacité s’active.  
 Et qui sait… peut-être que ce Voyageur était vraiment maléfique !
 </p>
-
 
 ---
 
@@ -209,7 +210,7 @@ S’ils pensent que vous étiez mauvais, ils peuvent se tromper et viser encore 
 <strong>Faites tout pour convaincre le groupe que la personne sauvée est bonne.</strong>  
 Ils savent que vous avez le même alignement.  
 Utilisez cela pour brouiller les pistes, surtout si d’autres Voyageurs sont en jeu.  
-Soyez vigilant(e) :  
+Soyez vigilant :  
 si l’<a href="../tb_roles/imp.html" style="color:red; font-weight:bold; text-decoration:none;">Imp</a>  
 vient d’être exécuté mais sauvé par votre capacité, et que l’  
 <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a>  
