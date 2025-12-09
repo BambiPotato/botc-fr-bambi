@@ -124,7 +124,7 @@
   }
 </style>
 
-<h1 style="color:#b58b52; font-size:46px; font-weight:bold; text-shadow:2px 2px 6px #000; margin-bottom:10px;">
+<h1 style="color:#b58b52; font-size:20px; font-weight:bold; text-shadow:2px 2px 6px #000; margin-bottom:10px;">
   Informations sur le Jeu
 </h1>
 
@@ -162,7 +162,7 @@
 ---
 
 <!--  Livre des Règles (version table, sans <div>) -->
-<h1 style="color:#b58b52; font-size:26px; font-weight:bold; text-shadow:2px 2px 6px #000; margin-bottom:14px;">
+<h1 style="color:#b58b52; font-size:20px; font-weight:bold; text-shadow:2px 2px 6px #000; margin-bottom:14px;">
   Livre des Règles
 </h1>
 
