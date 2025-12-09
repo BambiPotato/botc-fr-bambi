@@ -9,7 +9,7 @@ title: Gnome
   </a>
 </p>
 
-<!-- 🧙🏽 Gnome -->
+<!--  Gnome -->
 
 <div style="text-align:center; margin: 20px 0;">
   <img src="../images/Icon_gnome.png" alt="Gnome" width="360" style="border-radius:12px; margin-top:10px;">
@@ -19,7 +19,7 @@ title: Gnome
 
 ---
 
-## 🧭 Informations
+##  Informations
 - **Type :** <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>  
 - **Catégorie :** <a href="/botc-fr-bambi/experimentaux.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Rôles expérimentaux</a>  
 - **Artiste :** Chloe McDougall  
@@ -33,7 +33,7 @@ Ha-urrumph-o. »
 
 ---
 
-## 🎭 Apparaît dans
+##  Apparaît dans
 
 <p style="text-align:center; margin: 12px 0 6px;">
   <a href="/botc-fr-bambi/experimentaux.html" style="text-decoration:none;">
@@ -42,12 +42,12 @@ Ha-urrumph-o. »
 </p>
 
 <p style="text-align:center;">
-  🧪 <a href="/botc-fr-bambi/experimentaux.html" style="color:#d4a76a; font-weight:bold; text-decoration:none; font-size:22px;">Rôles expérimentaux</a>
+   <a href="/botc-fr-bambi/experimentaux.html" style="color:#d4a76a; font-weight:bold; text-decoration:none; font-size:22px;">Rôles expérimentaux</a>
 </p>
 
 ---
 
-## 📖 Résumé
+##  Résumé
 
 **« Tous les joueurs commencent par connaître un joueur de votre alignement.  
 Vous pouvez choisir de tuer toute personne qui le nomine. »**
@@ -60,7 +60,7 @@ Si cet <em>amigo</em> est nominé, le Gnome peut choisir de tuer le nominant imm
 
 ---
 
-## ⚙️ Comment Conter
+## Comment Conter
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
   <li>Lorsque le Gnome entre en jeu, choisissez un joueur du même alignement et marquez-le avec le jeton de rappel <strong>AMIGO</strong>.</li>
@@ -75,7 +75,7 @@ Si cet <em>amigo</em> est nominé, le Gnome peut choisir de tuer le nominant imm
 
 ---
 
-## 🧾 Exemples
+## Exemples
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
   <li>Le Gnome commence la partie en même temps que les autres et est bon.
@@ -96,7 +96,7 @@ Si cet <em>amigo</em> est nominé, le Gnome peut choisir de tuer le nominant imm
 
 ---
 
-## 💡 Conseils & astuces (si vous êtes <span style="color:#4ea3ff;">Bon</span>)
+## Conseils & astuces pour les <span style="color:#4ea3ff;">Bons</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Encouragez les autres à nominer votre <em>amigo</em> : plus de nominations signifient plus d’occasions de punir les mauvais joueurs.</li>
@@ -108,7 +108,7 @@ Si cet <em>amigo</em> est nominé, le Gnome peut choisir de tuer le nominant imm
 
 ---
 
-## 😈 Conseils & astuces (si vous êtes <span style="color:#d45b5b;">Maléfique</span>)
+## Conseils & astuces pour les <span style="color:#d45b5b;">Maléfiques</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Si votre <em>amigo</em> est le <span style="color:#d45b5b;">Démon</span>, poussez autant de joueurs que possible à le nominer.</li>
@@ -122,7 +122,7 @@ Si cet <em>amigo</em> est nominé, le Gnome peut choisir de tuer le nominant imm
 
 ---
 
-## 📚 Rappels utiles
+## Rappels utiles
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Le Conteur annonce publiquement qui est l’<em>amigo</em> du Gnome.</li>
@@ -136,7 +136,6 @@ Si cet <em>amigo</em> est nominé, le Gnome peut choisir de tuer le nominant imm
 ---
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🧪 <a href="/botc-fr-bambi/experimentaux.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour aux Rôles expérimentaux</a></li>
-  <li>🧳 <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
 </ul>
