@@ -9,7 +9,7 @@ title: Barista
   </a>
 </p>
 
-<!-- ☕ Barista -->
+<!--  Barista -->
 
 <div style="text-align:center; margin: 20px 0;">
   <img src="../images/Icon_barista.png" alt="Barista" width="360" style="border-radius:12px; margin-top:10px;">
@@ -19,7 +19,7 @@ title: Barista
 
 ---
 
-## 🧭 Informations
+## Informations
 - **Type :** <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>  
 - **Édition :** <a href="/botc-fr-bambi/sv.html" style="color:#67bfff; font-weight:bold; text-decoration:none;">Sects & Violets</a>  
 - **Artiste :** Aidan Roberts
@@ -30,7 +30,7 @@ title: Barista
 
 ---
 
-## 🎭 Apparaît dans
+## Apparaît dans
 
 <p style="text-align:center; margin: 12px 0 6px;">
   <a href="/botc-fr-bambi/sv.html" style="text-decoration:none;">
@@ -39,12 +39,12 @@ title: Barista
 </p>
 
 <p style="text-align:center;">
-  🌸 <a href="/botc-fr-bambi/sv.html" style="color:#67bfff; font-weight:bold; text-decoration:none; font-size:22px;">Sects & Violets</a>
+   <a href="/botc-fr-bambi/sv.html" style="color:#67bfff; font-weight:bold; text-decoration:none; font-size:22px;">Sects & Violets</a>
 </p>
 
 ---
 
-## 📖 Résumé
+##  Résumé
 
 **« Chaque nuit, jusqu’au crépuscule : 1) un joueur devient sobre, sain et reçoit des informations véridiques, ou 2) sa capacité agit deux fois. Le joueur apprend lequel des deux effets s’applique. »**
 
@@ -55,7 +55,7 @@ Le <strong>Conteur</strong> choisit chaque nuit le joueur affecté et l’effet 
 
 ---
 
-## ⚙️ Comment Conter
+## Comment Conter
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
   <li>Chaque nuit, retirez les rappels précédents du Barista.</li>
@@ -69,7 +69,7 @@ Le <strong>Conteur</strong> choisit chaque nuit le joueur affecté et l’effet 
 
 ---
 
-## 🧾 Exemples
+## Exemples
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
   <li>Le Barista rend le <a href="../sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a> sobre et sain.</li>
@@ -79,7 +79,7 @@ Le <strong>Conteur</strong> choisit chaque nuit le joueur affecté et l’effet 
 
 ---
 
-## 💡 Conseils & astuces (si vous êtes <span style="color:#4ea3ff;">Bon</span>)
+## Conseils & astuces pour les  <span style="color:#4ea3ff;">Bons</span>)
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
   <li>Votre capacité agit de manière passive : le Conteur décide à qui elle profite. Écoutez les autres et déduisez qui a été affecté.</li>
@@ -92,7 +92,7 @@ Le <strong>Conteur</strong> choisit chaque nuit le joueur affecté et l’effet 
 
 ---
 
-## 😈 Conseils & astuces (si vous êtes <span style="color:#d45b5b;">Maléfique</span>)
+##  Conseils & astuces pour les  <span style="color:#d45b5b;">Maléfiques</span>)
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
   <li>Votre pouvoir est passif : profitez-en pour observer calmement la confusion qu’il crée.</li>
@@ -107,18 +107,18 @@ Le <strong>Conteur</strong> choisit chaque nuit le joueur affecté et l’effet 
 
 ---
 
-## 📚 Rappels utiles
+##  Rappels utiles
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
   <li>Le Barista peut être exilé comme tout Voyageur.</li>
-  <li>Il ne compte pas dans les conditions de victoire.</li>
+  <li>Le Barista ne compte pas dans les conditions de victoire.</li>
   <li>Les rappels <strong>SOBRE ET SAIN</strong> et <strong>AGIT DEUX FOIS</strong> expirent au crépuscule suivant.</li>
 </ul>
 
 ---
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌸 <a href="/botc-fr-bambi/sv.html" style="color:#67bfff; font-weight:bold; text-decoration:none;">Retour à Sects & Violets</a></li>
-  <li>🧳 <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="/botc-fr-bambi/sv.html" style="color:#67bfff; font-weight:bold; text-decoration:none;">Retour à Sects & Violets</a></li>
+  <li> <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
 </ul>
