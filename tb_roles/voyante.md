@@ -10,7 +10,7 @@ title: Voyante
   </a>
 </p>
 
-# 🔮 <span style="color:blue">Voyante</span>  
+#  <span style="color:blue">Voyante</span>  
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -23,7 +23,7 @@ title: Voyante
 
 ---
 
-## ℹ️ <span style="color:blue">Informations</span>  
+##  <span style="color:blue">Informations</span>  
   
 
 **Type :** Villageois  
@@ -32,9 +32,9 @@ title: Voyante
 
 ---
 
-## 🎭 Apparaît dans  
+##  Apparaît dans  
 
-# 🍺 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
+#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
@@ -55,7 +55,7 @@ title: Voyante
 
 ---
 
-## 📖 <span style="color:blue">Résumé</span>  
+##  <span style="color:blue">Résumé</span>  
 
 *"Chaque nuit, choisissez 2 joueurs : vous apprenez si l’un d’eux est le Démon.  
 Un joueur bon apparaît comme un Démon pour vous."*  
@@ -70,7 +70,7 @@ La **Voyante** détecte si un joueur est le [<span style="color:red">Démon</spa
 
 ---
 
-## 🎭 <span style="color:blue">Comment Conter</span>
+##  <span style="color:blue">Comment Conter</span>
 
 Lors de la préparation de la première nuit :	
 Placez le jeton de rappel **"Leurre"** de la Voyante à côté du jeton de rôle d’un Villageois ou d’un Étranger.
@@ -85,12 +85,12 @@ alors hochez la tête pour indiquer oui.
 	•	Rendormez la Voyante.
 
 
-👉 *Lors des parties à 5 ou 6 joueurs **TeensyVille**, il est parfois conseillé de faire de la Voyante son propre Leurre
+ *Lors des parties à 5 ou 6 joueurs **TeensyVille**, il est parfois conseillé de faire de la Voyante son propre Leurre
 car cela lui permet d'obtenir davantage d'informations.*  
 
 ---
 
-## 🧩 <span style="color:blue">Exemples</span>   
+##  <span style="color:blue">Exemples</span>   
 
 - La Voyante choisit le [Moine](moine.md) et le [Croque-Mort](croquemort.md). → Réponse : **non**.  
 - Elle choisit l’[Imp](imp.md) et l’[Empathique](empathique.md). → Réponse : **oui**.  
@@ -99,7 +99,7 @@ car cela lui permet d'obtenir davantage d'informations.*
 
 ---
 
-## 💡 <span style="color:blue">Conseils & Astuces</span>    
+##  <span style="color:blue">Conseils & Astuces</span>    
 
 - Un **"non"** est souvent plus utile qu’un "oui" : cela élimine deux suspects possibles.  
 - Vous ne détectez que les **Démons**. Un "non" ne signifie pas que le joueur est bon : il peut être un Sbire.  
@@ -113,7 +113,7 @@ car cela lui permet d'obtenir davantage d'informations.*
 
 ---
 
-## 😈 <span style="color:blue">Bluffer Voyante</span>  
+##  <span style="color:blue">Bluffer Voyante</span>  
 
 - Vous vous réveillez **chaque nuit** et devez donc avoir un historique crédible d’actions et de résultats.  
 - Vous pouvez blanchir vos alliés maléfiques ("ces deux joueurs ne sont pas le Démon") ou accuser de bons joueurs.  
@@ -127,7 +127,7 @@ car cela lui permet d'obtenir davantage d'informations.*
 ---
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🧑‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li> <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a></li>
 </ul>
