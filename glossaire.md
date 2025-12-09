@@ -10,7 +10,7 @@ title: Glossaire
   </a>
 </p>
 
-# 📖 <span style="color:#b58b52; font-weight:bold; font-size:36px;">Glossaire Blood on the Clocktower</span>
+#  <span style="color:#b58b52; font-weight:bold; font-size:36px;">Glossaire Blood on the Clocktower</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Chaque mot a son importance... surtout quand il peut te sauver la vie. »
@@ -18,7 +18,7 @@ title: Glossaire
 
 ---
 
-## 📑 <span style="color:#b58b52;">Sommaire alphabétique</span>
+##  <span style="color:#b58b52;">Sommaire alphabétique</span>
 
 **Aller à :**  
 [ A ](#a) | [ B ](#b) | [ C ](#c) | [ D ](#d) | [ E ](#e) | [ F ](#f) | [ G ](#g) | [ H ](#h) | [ I ](#i) | [ J ](#j) | [ L ](#l) | [ M ](#m) | [ N ](#n) | [ O ](#o) | [ P ](#p) | [ R ](#r) | [ S ](#s) | [ T ](#t) | [ U ](#u) | [ V ](#v) | [ W ](#w)
@@ -69,7 +69,7 @@ Abréviation sur feuilles/jetons de rôles : « chaque phase de nuit sauf la pre
 Quand une capacité indique « choisir », c’est le joueur ou la joueuse qui décide. Sinon, le choix revient au <a href="./conteur.html" style="color:#d4a76a; text-decoration:none;">Conteur</a>.
 
 **Clocktower** 
-Blood🩸 on Clocktower, le plus grand jeu de bluff au monde !
+Blood on Clocktower, le plus grand jeu de bluff au monde !
 
 **Conteur/Conteuse**  
 Maître du jeu. Il/elle gère la partie, suit les règles et prend la décision finale lorsqu’une situation nécessite un jugement.
@@ -104,7 +104,7 @@ Se termine quand il reste seulement 2 vivants dont le Démon (victoire du Mal) o
 <h2 id="e">🅴 E</h2>
 
 **Édition**  
-Un ensemble de rôles + feuille de rôles + almanach (ex. : 🍺 <a href="./trouble_brewing.html" style="color:#b58b52; text-decoration:none;">Trouble Brewing</a>, 🌙 <a href="./bmr.html" style="color:#ffa64d; text-decoration:none;">Bad Moon Rising</a>, 💐 <a href="./sv.html" style="color:#d67bff; text-decoration:none;">Sects & Violets</a>). Chaque édition a un thème/ton/stratégie propres.
+Un ensemble de rôles + feuille de rôles + almanach (ex. :  <a href="./trouble_brewing.html" style="color:#b58b52; text-decoration:none;">Trouble Brewing</a>,  <a href="./bmr.html" style="color:#ffa64d; text-decoration:none;">Bad Moon Rising</a>,  <a href="./sv.html" style="color:#d67bff; text-decoration:none;">Sects & Violets</a>). Chaque édition a un thème/ton/stratégie propres.
 
 **Empoisonné**  
 Subit les mêmes effets qu’un joueur ivre, mais à cause d’un <span style="color:red; font-weight:bold;">Sbire</span>.
@@ -147,10 +147,10 @@ Information erronée (ivresse, poison, effets). Le Conteur peut donner de fausse
 
 **Feuille**  
 Petits symboles verts/orange sur des jetons de rôle pour aider le Conteur.  
-— Feuilles vertes 🍃 (haut) : nombre de jetons de rappel à ajouter.  
+— Feuilles vertes  (haut) : nombre de jetons de rappel à ajouter.  
 — Feuille verte (gauche) : a besoin d’un jeton « Première nuit ».  
 — Feuille verte (droite) : a besoin d’un jeton « Chaque nuit sauf la première ».  
-— Fleur orange 🌼 : la configuration de ce rôle modifie la mise en place.
+— Fleur orange  : la configuration de ce rôle modifie la mise en place.
 
 **Feuille de règles**  
 Feuille lue au début de la partie pour expliquer les bases aux nouveaux. Peut aussi être lue en privé.
@@ -360,7 +360,7 @@ Capacité utilisable une seule fois. Si elle est tentée ivre/empoisonné, elle 
 <a href="./voyageurs/voyageurs.html" style="color:purple; font-weight:bold; text-decoration:none;">Rôle spécial</a> pouvant rejoindre/quitter en cours de partie.
 
 **Vote**  
-Lever la main 🙋‍♀️ lors du décompte pour une exécution. Les vivants peuvent voter autant de fois qu’ils veulent. Les morts ne disposent que d’**un** "unique" vote de mort pour le reste de la partie. Le Conteur compte dans le sens horaire, en terminant par le joueur ou la joueuse désigné. (L’**exil** d’un Voyageur n’est pas un vote d’exécution.)
+Lever la main lors du décompte pour une exécution. Les vivants peuvent voter autant de fois qu’ils veulent. Les morts ne disposent que d’**un** "unique" vote de mort pour le reste de la partie. Le Conteur compte dans le sens horaire, en terminant par le joueur ou la joueuse désigné. (L’**exil** d’un Voyageur n’est pas un vote d’exécution.)
 
 **Voisins**  
 Les deux joueurs adjacents (dans chaque sens), vivants ou morts.
@@ -375,6 +375,6 @@ L’équipe gagne ensemble, vivants ou morts. Le Bien gagne si le Démon meurt. 
 
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="./index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
+  <li> <a href="./index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
 </ul>
 
