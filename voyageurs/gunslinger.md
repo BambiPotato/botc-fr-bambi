@@ -98,7 +98,7 @@ Après le premier vote d’exécution de la journée, quand le décompte est ann
 
 ---
 
-##  Conseils et astuces pour les <span style="color:#d45b5b;">Maléfiques</span>)
+##  Conseils et astuces pour les <span style="color:#d45b5b;">Maléfiques</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Tirez souvent… mais choisissez vos cibles intelligemment.</li>
