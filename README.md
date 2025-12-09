@@ -553,7 +553,7 @@ table.roles-grid td{
     font-size:20px;
     color:#e0c99d;
   ">
-
+    
     <!-- LIENS EN PREMIER -->
     <li>
       <a href="https://bloodontheclocktower.com/" target="_blank"
@@ -669,6 +669,74 @@ table.roles-grid td{
 </div>
 ---
 
+<div style="
+  width:100%;
+  margin:40px 0;
+  padding:25px 20px;
+  text-align:left;
+  border:1px solid rgba(212,167,106,0.3);
+  border-radius:10px;
+  background-color:rgba(0,0,0,0.45);
+  box-shadow:0 0 12px rgba(0,0,0,0.4);
+">
+
+  <h2 style="color:#b58b52; font-weight:bold; font-size:26px; margin-bottom:10px;">
+     Open Sesame Games
+  </h2>
+
+  <!-- Petite icône Open Sesame Games -->
+  <img src="./images/opensesamegames.jpg"
+       alt="Open Sesame Games"
+       style="width:65px; height:auto; margin-bottom:15px; opacity:0.95; display:block;">
+
+  <p style="color:#e0c99d; font-size:19px; margin-bottom:15px;">
+     <span style="color:#d4a76a; font-weight:bold;">Blood on the Clocktower en français</span> est édité par Open Sesame Games.
+  </p>
+
+  <ul style="list-style:none; padding-left:0; font-size:19px; color:#e0c99d;">
+
+    <li>
+      <a href="https://open-sesame.games" target="_blank"
+         style="color:#ffb84d; font-weight:bold; text-decoration:none;">
+         Site officiel Open Sesame Games
+      </a>
+    </li>
+
+    <li>
+      <a href="https://discord.gg/7jM7F9bZGf" target="_blank"
+         style="color:#ffb84d; font-weight:bold; text-decoration:none;">
+         Discord Open Sesame Games
+      </a>
+    </li>
+
+    <li>
+      <a href="https://www.youtube.com/@opensesamegames1793" target="_blank"
+         style="color:#ffb84d; font-weight:bold; text-decoration:none;">
+         YouTube Open Sesame Games
+      </a>
+    </li>
+
+    <li>
+      <a href="https://www.instagram.com/opensesamegames/" target="_blank"
+         style="color:#ffb84d; font-weight:bold; text-decoration:none;">
+         Instagram Open Sesame Games
+      </a>
+    </li>
+
+    <li>
+      <a href="mailto:contact@open-sesame.games"
+         style="color:#ffb84d; font-weight:bold; text-decoration:none;">
+         Contact : contact@open-sesame.games
+      </a>
+    </li>
+
+  </ul>
+
+</div>
+
+
+---
+
 <div style="text-align:left; margin-top:40px; line-height:1.8; border:1px solid rgba(212,167,106,0.3); border-radius:10px; padding:25px; box-shadow:0 0 12px rgba(0,0,0,0.4); background-color:rgba(0,0,0,0.45);">
 
   <h2 style="color:#d4a76a; font-size:24px; font-weight:bold; text-shadow:1px 1px 4px #000;">
@@ -723,7 +791,7 @@ table.roles-grid td{
   </p>
 
   <p style="font-size:19px; color:#e0c99d; margin-top:25px;">
-    Pour toute autre question ou suggestion, vous pouvez me contacter : 
+    Pour toute autre question ou suggestion contact 
     <a href="mailto:bambibluepotato@gmail.com" style="color:#ffb84d; font-weight:bold; text-decoration:none;">
       Bambi Blue Potato 
     </a>
