@@ -9,7 +9,7 @@ title: Répartition
   </a>
 </p>
 
-# ⚖️ Répartition du Village
+#  Répartition du Village
 
 Selon le nombre de joueurs et joueuses, la composition des catégories change.  
 Voici la configuration officielle :
@@ -90,5 +90,5 @@ Voici la configuration officielle :
 ---
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-top:10px;">
-🏠 <a href="./index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a>
+ <a href="./index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a>
 </p>
