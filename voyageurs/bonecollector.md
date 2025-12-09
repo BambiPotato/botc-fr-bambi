@@ -21,7 +21,7 @@ title: Collecteur d’os
 
 ##  Informations
 - **Type :** <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>  
-- **Édition :** <a href="../sects_and_violets.html" style="color:#67bfff; font-weight:bold; text-decoration:none;">Sects & Violets</a>  
+- **Édition :** <a href="../sects_and_violets.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Sects & Violets</a>  
 - **Nom anglais :** <span style="color:#f5f5f5;">Bone Collector</span>  
 - **Artiste :** <span style="color:#f5f5f5;">Aidan Roberts</span>
 
@@ -40,7 +40,7 @@ title: Collecteur d’os
 </p>
 
 <p style="text-align:center;">
-   <a href="../sects_and_violets.html" style="color:#67bfff; font-weight:bold; text-decoration:none; font-size:22px;">Sects & Violets</a>
+   <a href="../sects_and_violets.html" style="color:#9b59b6; font-weight:bold; text-decoration:none; font-size:22px;">Sects & Violets</a>
 </p>
 
 ---
@@ -84,7 +84,7 @@ Le <strong>Collecteur d’os</strong> rend temporairement leur pouvoir aux joueu
 
 ---
 
-## Conseils & astuces pour les <span style="color:#4ea3ff;">Bons</span>
+## Conseils & Astuces pour les <span style="color:#4ea3ff;">Bons</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Parlez aux morts pour identifier les pouvoirs les plus utiles à réactiver : <a href="../sv_roles/horloger.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Horloger</a>, <a href="../sv_roles/rêveur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Rêveur</a>, <a href="../sv_roles/jongleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Jongleur</a>...</li>
@@ -95,7 +95,7 @@ Le <strong>Collecteur d’os</strong> rend temporairement leur pouvoir aux joueu
 
 ---
 
-## Conseils & astuces pour les <span style="color:#d45b5b;">Maléfiques</span>
+## Conseils & Astuces pour les <span style="color:#d45b5b;">Maléfiques</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Rendez un pouvoir à un <span style="color:#d45b5b;">Sbire</span> au moment opportun pour renforcer votre équipe.</li>
