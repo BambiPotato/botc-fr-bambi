@@ -90,7 +90,7 @@ Chaque jour, il choisit un joueur immunisé. Cette nuit-là, le <strong>Conteur<
 
 ---
 
-## Conseils & astuces pour les <span style="color:#d45b5b;">Maléfique</span>
+## Conseils & astuces pour les <span style="color:#d45b5b;">Maléfiques</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Si un joueur maléfique change de rôle, encouragez-le à mentir et à se dire devenu un Villageois. Cela sème la confusion et empêche les bons de trouver la vérité.</li>
@@ -117,6 +117,5 @@ Chaque jour, il choisit un joueur immunisé. Cette nuit-là, le <strong>Conteur<
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li> <a href="/botc-fr-bambi/experimentaux.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour aux Rôles expérimentaux</a></li>
   <li> <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
 </ul>
