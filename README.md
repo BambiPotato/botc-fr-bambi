@@ -584,7 +584,7 @@ table.roles-grid td{
     font-size:26px;
     margin-bottom:10px;
   ">
-     Blood on the Clocktower – Ressources officielles
+     Ressources en ligne pour Blood on the Clocktower
   </h2>
 
   <!-- Petite icône Blood on the Clocktower -->
@@ -659,7 +659,7 @@ table.roles-grid td{
     <li>
       <a href="https://www.youtube.com/@BloodontheClocktower" target="_blank"
          style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-         YouTube – Blood on the Clocktower (officiel)
+         YouTube – Blood on the Clocktower 
       </a>
     </li>
 
