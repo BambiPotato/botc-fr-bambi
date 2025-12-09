@@ -9,37 +9,37 @@ title: Voyageurs
   </a>
 </p>
 
-# 🧳 <span style="color:#9b59b6; font-weight:bold;">Les Voyageurs</span>
+# <span style="color:#9b59b6; font-weight:bold;">Les Voyageurs</span>
 
-## 📖 Présentation  
+##  Présentation  
 
-Les **Voyageurs** sont des rôles spéciaux pour les joueuses et joueurs qui arrivent en retard ⏰ ou qui devront partir tôt 🚪.  
+Les **Voyageurs** sont des rôles spéciaux pour les joueuses et joueurs qui arrivent en retard ou qui devront partir tôt.  
 Un Voyageur peut **rejoindre** la partie à tout moment, et **la quitter** à tout moment.  
 
-- Les Voyageurs ont souvent des capacités extrêmement puissantes ⚡, mais obtiennent peu d’informations.  
+- Les Voyageurs ont souvent des capacités extrêmement puissantes , mais obtiennent peu d’informations.  
 - Ils ont **un maximum de pouvoir**… mais **un minimum de responsabilité**.  
-- Si un Voyageur est **<span style="color:red;">Maléfique 😈</span>**, il apprend qui est le [<span style="color:red;">Démon</span>](../demons.md).  
+- Si un Voyageur est **<span style="color:red;">Maléfique </span>**, il apprend qui est le [<span style="color:red;">Démon</span>](../demons.md).  
   (Mais il ne connaît pas les [<span style="color:red;">Sbires</span>](../sbires.md) et ne reçoit pas de bluffs.)  
 
 ---
 
-## 🗂️ Sommaire  
+## Sommaire  
 
-<span style="color:#b58b52;">1. 🍺 <a href="#-trouble-brewing" style="color:#b58b52; text-decoration:none; font-weight:bold;">Trouble Brewing</a></span><br>
+<span style="color:#b58b52;">1.  <a href="#-trouble-brewing" style="color:#b58b52; text-decoration:none; font-weight:bold;">Trouble Brewing</a></span><br>
 <span style="color:#f5f5f5;">Les premiers Voyageurs, puissants et classiques.</span><br><br>
 
-<span style="color:#d67bff;">2. 🌸 <a href="#-sects--violets" style="color:#d67bff; text-decoration:none; font-weight:bold;">Sects & Violets</a></span><br>
+<span style="color:#d67bff;">2.  <a href="#-sects--violets" style="color:#d67bff; text-decoration:none; font-weight:bold;">Sects & Violets</a></span><br>
 <span style="color:#f5f5f5;">Des rôles étranges, vivants et imprévisibles.</span><br><br>
 
-<span style="color:#ffa64d;">3. 🌛 <a href="#-bad-moon-rising" style="color:#ffa64d; text-decoration:none; font-weight:bold;">Bad Moon Rising</a></span><br>
+<span style="color:#ffa64d;">3.  <a href="#-bad-moon-rising" style="color:#ffa64d; text-decoration:none; font-weight:bold;">Bad Moon Rising</a></span><br>
 <span style="color:#f5f5f5;">Des Voyageurs audacieux, dangereux et spectaculaires.</span><br><br>
 
-<span style="color:#e0c99d;">4. 🎠 <a href="#-expérimentaux" style="color:#e0c99d; text-decoration:none; font-weight:bold;">Expérimentaux</a></span><br>
+<span style="color:#e0c99d;">4.  <a href="#-expérimentaux" style="color:#e0c99d; text-decoration:none; font-weight:bold;">Expérimentaux</a></span><br>
 <span style="color:#f5f5f5;">Des créations originales, en phase de test.</span>
 
 ---
 
-## 🍺 <span style="color:#b58b52;">Trouble Brewing</span> 
+##  <span style="color:#b58b52;">Trouble Brewing</span> 
 
 <a href="/botc-fr-bambi/trouble_brewing.html" style="text-decoration:none;">
   <img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="200" style="display:block; margin:10px 0;">
@@ -76,7 +76,7 @@ Un Voyageur peut **rejoindre** la partie à tout moment, et **la quitter** à to
 
 ---
 
-## 🌸  <span style="color:#d67bff;">Sects & Violets</span>
+##  <span style="color:#d67bff;">Sects & Violets</span>
 
 <a href="/botc-fr-bambi/sv.html" style="text-decoration:none;">
   <img src="../images/Logo_sects_and_violets.png" alt="Sects & Violets" width="200" style="display:block; margin:10px 0;">
@@ -113,7 +113,7 @@ Un Voyageur peut **rejoindre** la partie à tout moment, et **la quitter** à to
 
 ---
 
-## 🌛 <span style="color:#ffa64d;">Bad Moon Rising</span>  
+##  <span style="color:#ffa64d;">Bad Moon Rising</span>  
 
 <a href="/botc-fr-bambi/bmr.html" style="text-decoration:none;">
   <img src="../images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="200" style="display:block; margin:10px 0;">
@@ -150,7 +150,7 @@ Un Voyageur peut **rejoindre** la partie à tout moment, et **la quitter** à to
 
 ---
 
-## 🎠 <span style="color:#e0c99d;">Expérimentaux</span>
+##  <span style="color:#e0c99d;">Expérimentaux</span>
 
 <a href="/botc-fr-bambi/experimentaux.html" style="text-decoration:none;">
   <img src="../images/carousel.png" alt="Expérimentaux" width="200" style="display:block; margin:10px 0;">
@@ -178,6 +178,6 @@ Un Voyageur peut **rejoindre** la partie à tout moment, et **la quitter** à to
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-🧳 <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a>
+ <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+ <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a>
 </p>
