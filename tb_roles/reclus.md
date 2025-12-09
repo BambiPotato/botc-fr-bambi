@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# 🕯️<span style="color:blue">Reclus</span>
+# <span style="color:blue">Reclus</span>
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -17,7 +17,7 @@
 
 
 
-## ℹ️ <span style="color:blue">Informations</span>
+##  <span style="color:blue">Informations</span>
 
 - **Type :** [Étranger](../etrangers.md)  
 - **Artiste :** Aidan Roberts  
@@ -29,9 +29,9 @@ Filez donc ! Chez les miens, on n’affronte pas les démons à découvert. Oust
 
 ---
 
-## 🎭 Apparaît dans  
+##  Apparaît dans  
 
-# 🍺 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
+#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
@@ -54,7 +54,7 @@ Filez donc ! Chez les miens, on n’affronte pas les démons à découvert. Oust
 
 ---
 
-## 📖 <span style="color:blue">Résumé</span>
+##  <span style="color:blue">Résumé</span>
 
 « **Vous pouvez être enregistré comme maléfique et comme un Sbire ou un Démon, même si vous êtes mort.** » 
 
@@ -70,7 +70,7 @@ le Conteur choisit si le Reclus est enregistré comme ce Sbire ou Démon.
 
 ---
 
-## 🎭 <span style="color:blue">Comment Conter</span>
+##  <span style="color:blue">Comment Conter</span>
 
 - Chaque fois que le Reclus est ciblé par une capacité qui détecte ou affecte les rôles maléfiques, 
   choisissez le rôle et l'alignement que le Reclus enregistre comme étant le sien. 
@@ -80,7 +80,7 @@ le Conteur choisit si le Reclus est enregistré comme ce Sbire ou Démon.
 
 ---
 
-## 🧩 <span style="color:blue">Exemples</span>
+##  <span style="color:blue">Exemples</span>
 
 - Le **[Mercenaire](./mercenaire.md)** utilise sa capacité sur le Reclus. Le Conteur décide qu’il s’enregistre comme **[<span style="color:red">Imp</span>](imp.md)** → le Reclus meurt, et le Mercenaire pense avoir trouvé le Démon.  
 - L’**[Empathique](./empathique.md)** est voisin du Reclus et du **[Moine](./moine.md)**. Il apprend « 1 » la première nuit, puis « 0 » la suivante.  
@@ -90,7 +90,7 @@ le Conteur choisit si le Reclus est enregistré comme ce Sbire ou Démon.
 
 ---
 
-## 💡 <span style="color:blue">Conseils & Astuces</span>
+##  <span style="color:blue">Conseils & Astuces</span>
 
 - Annoncez tôt que vous êtes le Reclus : cela permet aux bons joueurs d’expliquer leurs infos incohérentes (**[Cuitot](./cuistot.md)**,
 **[Empathique](./empathique.md)**, **[Enquêteur](./enqueteur.md)**, etc.).  
@@ -102,7 +102,7 @@ le Conteur choisit si le Reclus est enregistré comme ce Sbire ou Démon.
 
 ---
 
-## 😈 <span style="color:blue">Bluffer Reclus</span>
+##  <span style="color:blue">Bluffer Reclus</span>
 
 - Lorsque vous bluffez en vous faisant passer pour le Reclus, voici quelques points à garder à l'esprit :
 - Vous ne vous réveilleriez jamais, n'apprendriez rien, et n'agiriez jamais durant la journée.
@@ -138,8 +138,8 @@ le Conteur choisit si le Reclus est enregistré comme ce Sbire ou Démon.
 ---
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>💈 <a href="../etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Étrangers</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li> <a href="../etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Étrangers</a></li>
 </ul>
 
