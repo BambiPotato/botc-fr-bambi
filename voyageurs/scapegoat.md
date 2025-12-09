@@ -9,7 +9,7 @@ title: Bouc Émissaire
   </a>
 </p>
 
-<!-- 🐐 Bouc Émissaire -->
+<!--  Bouc Émissaire -->
 
 <div style="text-align:center; margin: 20px 0;">
   <img src="../images/Icon_scapegoat.png" alt="Bouc Émissaire" width="360" style="border-radius:12px; margin-top:10px;">
@@ -19,7 +19,7 @@ title: Bouc Émissaire
 
 ---
 
-## 🧭 Informations
+##  Informations
 
 - **Type :** <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>  
 - **Édition :** <a href="../trouble_brewing.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Trouble Brewing</a>  
@@ -32,7 +32,7 @@ Je suis sûr que tout ira à merveille. Au fait… à quoi sert cette corde ? »
 
 ---
 
-## 🎭 Apparaît dans
+##  Apparaît dans
 
 <p style="text-align:center; margin: 12px 0 6px;">
   <a href="../trouble_brewing.html" style="text-decoration:none;">
@@ -41,12 +41,12 @@ Je suis sûr que tout ira à merveille. Au fait… à quoi sert cette corde ? »
 </p>
 
 <p style="text-align:center;">
-  🍺 <a href="../trouble_brewing.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none; font-size:22px;">Trouble Brewing</a>
+   <a href="../trouble_brewing.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none; font-size:22px;">Trouble Brewing</a>
 </p>
 
 ---
 
-## 🧩 Résumé
+##  Résumé
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 « Si une personne de votre alignement est exécutée, vous pourriez être exécuté(e) à sa place. »
@@ -69,7 +69,7 @@ Son alignement n’est pas révélé à sa mort.
 
 ---
 
-## ⚙️ Comment Conter
+## Comment Conter
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Si une personne du même alignement que le Bouc Émissaire allait être exécutée, vous pouvez choisir que le Bouc Émissaire meure à la place.  
@@ -79,7 +79,7 @@ Si le Bouc Émissaire est <span style="color:#d45b5b;">maléfique</span>, sa mor
 
 ---
 
-## 💡 Exemples
+## Exemples
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>La <a href="../tb_roles/fortune-teller.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> va être exécutée ; le Conteur choisit d’exécuter le <span style="color:#4ea3ff;">Bouc Émissaire bon</span> à la place. La Voyante vit, le Bouc Émissaire meurt.</li>
@@ -90,7 +90,6 @@ Si le Bouc Émissaire est <span style="color:#d45b5b;">maléfique</span>, sa mor
 ---
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à Trouble Brewing</a></li>
-  <li>🧳 <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
 </ul>
