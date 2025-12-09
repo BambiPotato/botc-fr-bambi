@@ -9,7 +9,7 @@ title: Bishop
   </a>
 </p>
 
-<!-- ⛪ Évêque -->
+<!--  Évêque -->
 
 <div style="text-align:center; margin: 20px 0;">
   <img src="../images/Icon_bishop.png" alt="Évêque" width="360" style="border-radius:12px; margin-top:10px;">
@@ -19,7 +19,7 @@ title: Bishop
 
 ---
 
-## 🧭 Informations
+##  Informations
 - **Type :** <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>  
 - **Édition :** <a href="../bmr.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Bad Moon Rising</a>  
 - **Artiste :** <span style="color:#f5f5f5;">John Grist</span>
@@ -30,7 +30,7 @@ title: Bishop
 
 ---
 
-## 🎭 Apparaît dans
+##  Apparaît dans
 
 <p style="text-align:center; margin: 12px 0 6px;">
   <a href="../bmr.html" style="text-decoration:none;">
@@ -39,12 +39,12 @@ title: Bishop
 </p>
 
 <p style="text-align:center;">
-  🌙 <a href="../bmr.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none; font-size:22px;">Bad Moon Rising</a>
+   <a href="../bmr.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none; font-size:22px;">Bad Moon Rising</a>
 </p>
 
 ---
 
-## 📖 Résumé
+##  Résumé
 
 **« Seul le Conteur peut nominer. Chaque jour, au moins un joueur du camp opposé à celui de l’Évêque doit être nommé. »**
 
@@ -61,7 +61,7 @@ L’<strong>Évêque</strong> retire le droit de nomination à tout le monde&nbs
 
 ---
 
-## 🎬 Mise en place & fonctionnement
+## Comment Conter
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Au lever du jour, notez la contrainte&nbsp;: <em>nominer un opposant</em> (bon si l’Évêque est maléfique, maléfique s’il est bon).</li>
@@ -72,7 +72,7 @@ L’<strong>Évêque</strong> retire le droit de nomination à tout le monde&nbs
 
 ---
 
-## 🧾 Exemples
+## Exemples
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>L’<strong>Évêque bon</strong>.  
@@ -86,7 +86,7 @@ L’<strong>Évêque</strong> retire le droit de nomination à tout le monde&nbs
 
 ---
 
-## 💡 Conseils & Astuces (camp du <span style="color:#4ea3ff;">Bien</span>)
+## Conseils & Astuces pour kes <span style="color:#4ea3ff;">Bons</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Analysez la <strong>liste quotidienne des nommés</strong>&nbsp;: il doit y avoir au moins un maléfique.</li>
@@ -97,7 +97,7 @@ L’<strong>Évêque</strong> retire le droit de nomination à tout le monde&nbs
 
 ---
 
-## 💀 Conseils & Astuces (camp du <span style="color:#d45b5b;">Mal</span>)
+##  Conseils & Astuces pour les <span style="color:#d45b5b;">Maléfiques</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Soignez votre image pour éviter l’exil.</li>
@@ -109,7 +109,7 @@ L’<strong>Évêque</strong> retire le droit de nomination à tout le monde&nbs
 
 ---
 
-## 📚 Rappels utiles
+##  Rappels utiles
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Le Conteur doit nominer un opposant chaque jour.</li>
@@ -121,7 +121,7 @@ L’<strong>Évêque</strong> retire le droit de nomination à tout le monde&nbs
 ---
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌙 <a href="../bmr.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a></li>
-  <li>🧳 <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="../bmr.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a></li>
+  <li> <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
 </ul>
