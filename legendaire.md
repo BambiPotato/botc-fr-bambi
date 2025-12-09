@@ -134,7 +134,7 @@ Par exemple :
   <li>
     <a href="/legendaire.html" 
        style="color:#d4a76a; font-weight:bold; text-decoration:none;">
-      Légendaires
+      Retour aux Légendaires
     </a>
   </li>
 </ul>
