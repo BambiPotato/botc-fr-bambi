@@ -12,7 +12,7 @@ title: Bibliothécaire
 
 ---
 
-# 📚 <span style="color:blue">Bibliothécaire</span>  
+#  <span style="color:blue">Bibliothécaire</span>  
 
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
@@ -28,15 +28,15 @@ title: Bibliothécaire
 
 ---
 
-## ℹ️ <span style="color:blue">Information</span>    
+##  <span style="color:blue">Information</span>    
 
 - **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)
 - **Artiste :** Aidan Roberts  
 - *« Bien sûr madame, dans des circonstances normales, vous pourriez emprunter le *Codex Malificarium* dans les archives de la bibliothèque. Mais… il semble que vous ne soyez pas membre. »*  
 
-## 🎭 Apparaît dans  
+##  Apparaît dans  
 
-# 🍺 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
+#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
@@ -59,7 +59,7 @@ title: Bibliothécaire
 
 ---
 
-## 📖 <span style="color:blue">Résumé</span>  
+##  <span style="color:blue">Résumé</span>  
 
 « Vous commencez en apprenant 2 joueurs et le rôle d’**Étranger** de l’un des deux.(Ou qu'il y a zéro étranger en jeu.) »  
 
@@ -72,7 +72,7 @@ Il ne l’apprend qu’une seule fois, puis plus rien.
 
 ---
 
-## 🎭 <span style="color:blue">Comment Conter</span>  
+##  <span style="color:blue">Comment Conter</span>  
 
 - Pendant la préparation de la première nuit, placez le jeton de rappel **ÉTRANGER** du Bibliothécaire à côté du jeton de rôle d’un Étranger,  
   et placez placez le jeton de rappel  **FAUX** du Bibliothécaire à côté de n’importe quel autre rôle.  
@@ -84,7 +84,7 @@ Il ne l’apprend qu’une seule fois, puis plus rien.
 
 ---
 
-## 🧩 <span style="color:blue">Exemples</span>   
+##  <span style="color:blue">Exemples</span>   
 
 - **Cédric** est le [Saint](saint.md), et **Laura** est le [Baron](baron.md).  
   → Le Bibliothécaire apprend que soit Cédric, soit Vanessa est le Saint.  
@@ -98,7 +98,7 @@ Il ne l’apprend qu’une seule fois, puis plus rien.
 
 ---
 
-## 💡 <span style="color:blue">Astuces & Conseils</span>    
+##  <span style="color:blue">Astuces & Conseils</span>    
 
 - Identifiez rapidement lequel des deux joueurs est l’[Étranger](../glossaire.md#étranger).  
   Même si son pouvoir est parfois un handicap, il est toujours **bon** et donc un vote sûr.  
@@ -123,7 +123,7 @@ Il ne l’apprend qu’une seule fois, puis plus rien.
 
 ---
 
-## 🎭 <span style="color:blue">Bluffer Bibliothécaire</span>   
+##  <span style="color:blue">Bluffer Bibliothécaire</span>   
 
 - Vous êtes censé avoir reçu vos infos la première nuit.  
   Vous aurez donc « vu » deux joueurs et un jeton d’[Étranger](../glossaire.md#étranger).  
@@ -144,7 +144,7 @@ Il ne l’apprend qu’une seule fois, puis plus rien.
 ---
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🧑‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li> <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a></li>
 </ul>
