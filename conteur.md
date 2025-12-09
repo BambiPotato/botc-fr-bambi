@@ -322,7 +322,7 @@ title: Conseils pour les Conteuses et les Conteurs
   <a href="./sv_roles/jumeaumaléfique.html" style="color:red;">Jumeau Maléfique</a>, un 
   <a href="./bmr_roles/aubergiste.html" style="color:blue;">Aubergiste</a>…), 
   puis utilisez 
-  <a href="https://script.bloodontheclocktower.com">🔧 l'Outil de Script</a> 
+  <a href="https://script.bloodontheclocktower.com">l'Outil de Script</a> 
   pour générer la liste des rôles personnalisée et l'ordre de nuit.
 </p>
 
