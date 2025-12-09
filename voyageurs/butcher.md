@@ -21,7 +21,7 @@ title: Boucher
 
 ## Informations
 - **Type :** <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>  
-- **Édition :** <a href="../sects_and_violets.html" style="color:#67bfff; font-weight:bold; text-decoration:none;">Sects & Violets</a>  
+- **Édition :** <a href="../sects_and_violets.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Sects & Violets</a>  
 - **Artiste :** <span style="color:#f5f5f5;">Aidan Roberts</span>
 
 <p style="color:#f5f5f5; font-style:italic; font-size:17px; text-align:center;">
@@ -39,14 +39,14 @@ title: Boucher
 </p>
 
 <p style="text-align:center;">
-   <a href="../sects_and_violets.html" style="color:#67bfff; font-weight:bold; text-decoration:none; font-size:22px;">Sects & Violets</a>
+   <a href="../sects_and_violets.html" style="color:#9b59b6; font-weight:bold; text-decoration:none; font-size:22px;">Sects & Violets</a>
 </p>
 
 ---
 
 ##  Résumé
 
-**« Chaque jour, après la 1re exécution, vous pouvez faire une nouvelle nomination. »**
+**« Chaque jour, après la première exécution, vous pouvez faire une nouvelle nomination. »**
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Le <strong>Boucher</strong> permet une seconde exécution par jour.
