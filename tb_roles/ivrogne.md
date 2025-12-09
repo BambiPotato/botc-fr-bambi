@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# 🍺 <span style="color:blue">Ivrogne</span>
+#  <span style="color:blue">Ivrogne</span>
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -17,7 +17,7 @@
 
 ---
 
-## ℹ️ <span style="color:blue">Informations</span>
+##  <span style="color:blue">Informations</span>
 
 - **Type :** [Étrangers](../etrangers.md)  
 - **Artiste :** Aidan Roberts  
@@ -25,9 +25,9 @@
 *« Je ne suis qu’un buveur social, ma chère. Certes, je suis un grand… *hic*… sociabilisateur. »*
 
 
-## 🎭 Apparaît dans  
+##  Apparaît dans  
 
-# 🍺 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
+#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
@@ -60,7 +60,7 @@
 
 ---
 
-## 🎭 <span style="color:blue">Comment Conter</span>
+##  <span style="color:blue">Comment Conter</span>
 
 - Le jeton **Ivrogne** **n’est pas** mis dans le sac. À la place, on y met un jeton **Villageois**.  
 - Le joueur qui pioche ce jeton est **en réalité l’Ivrogne** pour toute la partie.  
@@ -69,7 +69,7 @@
 
 ---
 
-## 🧩 <span style="color:blue">Exemples</span>
+##  <span style="color:blue">Exemples</span>
 
 - L’Ivrogne pense être le **[Soldat](./soldat.md)**. L’**[<span style="color:red">Imp</span>](imp.md)** l’attaque : l’Ivrogne meurt (il n’avait pas la capa du Soldat).  
 - L’Ivrogne pense être l’**[Empathique](./empathique.md)**. Première nuit : il apprend « 0 » alors qu’il est assis à côté d’un joueur maléfique ; la nuit suivante, il apprend « 1 ».  
@@ -78,7 +78,7 @@
 
 ---
 
-## 💡 <span style="color:blue">Conseils & Astuces</span>
+##  <span style="color:blue">Conseils & Astuces</span>
 
 - Vous ne **saurez jamais** que vous êtes l’Ivrogne : fiez-vous aux incohérences (infos impossibles, pouvoir qui « échoue », etc.).  
 - Un nombre d’**Étrangers** anormal peut indiquer un Ivrogne (ou un **[<span style="color:red">Baron</span>](baron.md)**).  
@@ -91,7 +91,7 @@
 
 ---
 
-## 😈 <span style="color:blue">Bluffer Ivrogne</span>
+##  <span style="color:blue">Bluffer Ivrogne</span>
 
 - Bluff naturel : vous croyez être un **Villageois** → personne ne peut vous « doubler » directement.  
 - Bluffer des rôles à infos (**[Voyante](./voyante.md)**, **[Enquêteur](./enqueteur.md)**, **[Empathique](./empathique.md)**, **[Lavandière](./lavandiere.md)**, **[Bibliothécaire](./bibliothecaire.md)**…) et donner des infos **manifestement fausses** renforce l’illusion.  
@@ -124,9 +124,9 @@
 ---
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>💈 <a href="../etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Étrangers</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li> <a href="../etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Étrangers</a></li>
 </ul>
 
 
