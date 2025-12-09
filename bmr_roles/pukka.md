@@ -11,7 +11,7 @@ title: Pukka
 
 <!-- TITRE -->
 
-<h1>🐍 <span style="color:#d45b5b;">Pukka</span></h1>
+<h1> <span style="color:#d45b5b;">Pukka</span></h1>
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -26,7 +26,7 @@ title: Pukka
 
 <!-- INFORMATIONS -->
 
-<h2>ℹ️ <span style="color:#d45b5b;">Informations</span></h2>
+<h2> <span style="color:#d45b5b;">Informations</span></h2>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; list-style-type:disc;">
   <li><strong>Type :</strong>
@@ -45,10 +45,10 @@ title: Pukka
 
 <!-- APPARAIT DANS -->
 
-<h2>🎭 <span style="color:#d45b5b;">Apparaît dans</span></h2>
+<h2> <span style="color:#d45b5b;">Apparaît dans</span></h2>
 
 <h1 style="text-align:center; margin-bottom:0;">
-  🌝 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
+   <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
 </h1>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
@@ -73,7 +73,7 @@ title: Pukka
 
 <!-- RÉSUMÉ -->
 
-<h2>📖 <span style="color:#d45b5b;">Résumé</span></h2>
+<h2> <span style="color:#d45b5b;">Résumé</span></h2>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0 40px;">
   <strong>« Chaque nuit, choisissez un joueur : il est empoisonné. Le joueur précédemment empoisonné meurt puis redevient sain. »</strong>
@@ -98,7 +98,7 @@ title: Pukka
 
 <!-- COMMENT CONTER -->
 
-<h2>🎭 <span style="color:#d45b5b;">Comment Conter</span></h2>
+<h2> <span style="color:#d45b5b;">Comment Conter</span></h2>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; list-style-type:disc;">
   <li>Chaque nuit, réveillez le Pukka.  
@@ -110,7 +110,7 @@ title: Pukka
 </ul>
 
 <p style="color:#f5f5f5; font-size:16px; line-height:1.7; margin:10px 40px; border-left:3px solid #d45b5b; padding-left:10px;">
-  💡 <em>Astuce pour les Conteurs et Conteuses :</em><br>
+   <em>Astuce pour les Conteurs et Conteuses :</em><br>
   Les joueurs tués par le Pukka restent empoisonnés au moment de leur mort.  
   Si vous utilisez des rôles d’autres éditions, il peut être nécessaire de conserver l’indication « EMPOISONNÉ » près de « MORT »  
   jusqu’à la résolution de leur capacité de mort.  
@@ -123,7 +123,7 @@ title: Pukka
 
 <!-- EXEMPLES -->
 
-<h2>🧩 <span style="color:#d45b5b;">Exemples</span></h2>
+<h2> <span style="color:#d45b5b;">Exemples</span></h2>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; list-style-type:disc;">
   <li>
@@ -176,9 +176,9 @@ title: Pukka
 
 <!-- ASTUCES & STRATÉGIE -->
 
-<h2>💡 <span style="color:#d45b5b;">Astuces &amp; Stratégie</span></h2>
+<h2> <span style="color:#d45b5b;">Astuces &amp; Stratégie</span></h2>
 
-<h3 style="color:#d45b5b; font-size:20px; margin-left:40px;">🧪 Le poison du chaos</h3>
+<h3 style="color:#d45b5b; font-size:20px; margin-left:40px;"> Le poison du chaos</h3>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0 40px;">
   Le perfide <strong>Pukka</strong> est l’un des Démons les plus dangereux de <em>Bad Moon Rising</em> en raison de sa brutalité et de sa cruauté.
@@ -197,7 +197,7 @@ title: Pukka
   <li>Le camp du Bien espère toujours qu’il n’est pas en jeu, de peur de devoir passer toute la partie à douter de chaque information normalement fiable.</li>
 </ul>
 
-<h3 style="color:#d45b5b; font-size:20px; margin-left:40px;">⚗️ Choisissez vos cibles avec discernement</h3>
+<h3 style="color:#d45b5b; font-size:20px; margin-left:40px;"> Choisissez vos cibles avec discernement</h3>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; list-style-type:disc;">
   <li>Empoisonnez en priorité les rôles qui collectent ou vérifient des informations :
@@ -210,7 +210,7 @@ title: Pukka
       puisqu’ils protègent désormais à tort.</li>
 </ul>
 
-<h3 style="color:#d45b5b; font-size:20px; margin-left:40px;">⏳ Rythmez vos morts</h3>
+<h3 style="color:#d45b5b; font-size:20px; margin-left:40px;"> Rythmez vos morts</h3>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; list-style-type:disc;">
   <li>Si le Village exécute votre victime empoisonnée, il n’y aura <strong>aucune mort la nuit suivante</strong>.  
@@ -223,7 +223,7 @@ title: Pukka
       leur mort ultérieure sèmera une grande confusion.</li>
 </ul>
 
-<h3 style="color:#d45b5b; font-size:20px; margin-left:40px;">🤝 Coopérez avec vos Sbires</h3>
+<h3 style="color:#d45b5b; font-size:20px; margin-left:40px;"> Coopérez avec vos Sbires</h3>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; list-style-type:disc;">
   <li>Le <a href="../bmr_roles/parrain.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parrain</a>
@@ -234,7 +234,7 @@ title: Pukka
       offre un plan de secours si vous êtes exécuté.</li>
 </ul>
 
-<h3 style="color:#d45b5b; font-size:20px; margin-left:40px;">🕵️‍♀️ Restez discret</h3>
+<h3 style="color:#d45b5b; font-size:20px; margin-left:40px;"> Restez discret</h3>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; list-style-type:disc;">
   <li>Ne laissez pas le Village comprendre trop tôt que vous êtes un Démon empoisonneur.  
@@ -249,9 +249,9 @@ title: Pukka
 
 <!-- COMBATTRE LE PUKKA -->
 
-<h2>⚔️ <span style="color:#d45b5b;">Combattre le Pukka</span></h2>
+<h2> <span style="color:#d45b5b;">Combattre le Pukka</span></h2>
 
-<h3 style="color:#d45b5b; font-size:20px; margin-left:40px;">🔍 Première étape : identifier sa présence</h3>
+<h3 style="color:#d45b5b; font-size:20px; margin-left:40px;"> Première étape : identifier sa présence</h3>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; list-style-type:disc;">
   <li>Cherchez des morts suspectes, par exemple :
@@ -264,7 +264,7 @@ title: Pukka
   <li>Si un schéma cohérent apparaît entre ces signaux, il y a de fortes chances qu’un Pukka soit en jeu.</li>
 </ul>
 
-<h3 style="color:#d45b5b; font-size:20px; margin-left:40px;">🧮 Remontez la chaîne d’informations</h3>
+<h3 style="color:#d45b5b; font-size:20px; margin-left:40px;"> Remontez la chaîne d’informations</h3>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; list-style-type:disc;">
   <li>Chaque mort nocturne correspond à un joueur :
@@ -284,7 +284,7 @@ title: Pukka
   <li>Cela demande de se souvenir de ce qui s’est passé deux nuits plus tôt, mais les informations obtenues peuvent être décisives.</li>
 </ul>
 
-<h3 style="color:#d45b5b; font-size:20px; margin-left:40px;">🧑‍⚖️ Stratégies pour le camp du Bien</h3>
+<h3 style="color:#d45b5b; font-size:20px; margin-left:40px;"> Stratégies pour le camp du Bien</h3>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; list-style-type:disc;">
   <li><strong>Révélez vos rôles assez tôt</strong> : le Pukka tue avec décalage, donc l’information publique aide le groupe à recouper les indices.</li>
@@ -299,7 +299,7 @@ title: Pukka
 <!-- LIENS DE PIED DE PAGE -->
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👹 <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Retour aux Démons</a><br>
-  🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Retour aux Démons</a><br>
+   <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
 </p>
