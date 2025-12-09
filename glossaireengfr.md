@@ -11,14 +11,14 @@ title: Glossaire Anglais vers le Français
 </p>
 
 
-# 📖 Glossaire *Blood 🩸on the Clocktower*
+#  Glossaire **Blood on the Clocktower**
 
 Bienvenue dans le Glossaire avec les termes originaux en Anglais ➡️ Français de Blood on the Clocktower. 
 Vous trouverez ici la traduction fidèle et détaillée des termes du jeu.
 
 ---
 
-## 📑 Sommaire alphabétique
+##  Sommaire alphabétique
 [🔼 Haut](#📖-glossaire-blood-on-the-clocktower)  
 **Aller à :**  
 [A](#🅰️-a) | [B](#🅱️-b) | [C](#🅲-c) | [D](#🅳-d) | [E](#🅴-e) | [F](#🅵-f) | [G](#🅶-g) | [H](#🅷-h) | [I](#🅸-i) | [L](#🅻-l) | [M](#🅼-m) | [N](#🅽-n) | [O](#🅾-o) | [P](#🅿-p) | [R](#🅡-r) | [S](#🅢-s) | [T](#🅣-t) | [V](#🅥-v) | [W](#🅦-w)  
@@ -314,5 +314,5 @@ Victoire de son équipe (les vivants et morts de l’équipe gagnante gagnent en
 <h2 style="color:#ffa64d; font-weight:bold; font-size:24px;">📂 Navigation</h2>
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
+  <li> <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
 </ul>
