@@ -9,7 +9,7 @@ title: Matrone
   </a>
 </p>
 
-<!-- 👩‍🏫 Matrone -->
+<!--  Matrone -->
 
 <div style="text-align:center; margin: 20px 0;">
   <img src="../images/Icon_matron.png" alt="Matrone" width="360" style="border-radius:12px; margin-top:10px;">
@@ -19,7 +19,7 @@ title: Matrone
 
 ---
 
-## 🧭 Informations
+##  Informations
 
 - **Type :** <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>  
 - **Édition :** <a href="../bmr.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Bad Moon Rising</a>  
@@ -31,7 +31,7 @@ title: Matrone
 
 ---
 
-## 🎭 Apparaît dans
+##  Apparaît dans
 
 <p style="text-align:center; margin: 12px 0 6px;">
   <a href="../bmr.html" style="text-decoration:none;">
@@ -40,12 +40,12 @@ title: Matrone
 </p>
 
 <p style="text-align:center;">
-  🌙 <a href="../bmr.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none; font-size:22px;">Bad Moon Rising</a>
+   <a href="../bmr.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none; font-size:22px;">Bad Moon Rising</a>
 </p>
 
 ---
 
-## 📖 Résumé
+##  Résumé
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 « Chaque jour, vous pouvez choisir jusqu’à trois paires de personnes pour échanger leurs places. Les discussions privées sont interdites, sauf entre voisines et voisins de siège. »
@@ -65,7 +65,7 @@ La <strong>Matrone</strong> décide qui s’assoit où et limite les chuchotemen
 
 ---
 
-## 🎬 Mise en place & fonctionnement
+## Comment Conter
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Chaque jour, la Matrone désigne deux personnes qui <strong>échangent leurs sièges</strong>.</li>
@@ -76,7 +76,7 @@ La <strong>Matrone</strong> décide qui s’assoit où et limite les chuchotemen
 
 ---
 
-## 🧾 Exemples
+##  Exemples
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>La Matrone <span style="color:#d45b5b;">maléfique</span> se place à côté de la <a href="../bmr_roles/dame_de_the.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dame de Thé</a>. Elles peuvent chuchoter ensemble et la capacité de la Dame de Thé ne protège plus correctement.</li>
@@ -85,7 +85,7 @@ La <strong>Matrone</strong> décide qui s’assoit où et limite les chuchotemen
 
 ---
 
-## 💡 Conseils et astuces (camp du <span style="color:#4ea3ff;">Bien</span>)
+##  Conseils et astuces pour les <span style="color:#4ea3ff;">Bons</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Si deux personnes chuchotent souvent, <strong>séparez-les</strong>.</li>
@@ -96,7 +96,7 @@ La <strong>Matrone</strong> décide qui s’assoit où et limite les chuchotemen
 
 ---
 
-## 🔥 Conseils et astuces (camp du <span style="color:#d45b5b;">Mal</span>)
+## Conseils et astuces pour les <span style="color:#d45b5b;">Maléfiques</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Regroupez <strong>alliés maléfiques</strong> pour faciliter la coordination.</li>
@@ -109,6 +109,5 @@ La <strong>Matrone</strong> décide qui s’assoit où et limite les chuchotemen
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌙 <a href="../bmr.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a></li>
   <li>🧳 <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
 </ul>
