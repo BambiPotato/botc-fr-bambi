@@ -9,7 +9,7 @@ title: Juge
   </a>
 </p>
 
-<!-- 🧑🏻‍⚖️ Juge -->
+<!--  Juge -->
 
 <div style="text-align:center; margin: 20px 0;">
   <img src="../images/Icon_judge.png" alt="Juge" width="360" style="border-radius:12px; margin-top:10px;">
@@ -19,7 +19,7 @@ title: Juge
 
 ---
 
-## 🧭 Informations
+##  Informations
 
 - **Type :** <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>  
 - **Édition :** <a href="../bmr.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Bad Moon Rising</a>  
@@ -31,7 +31,7 @@ title: Juge
 
 ---
 
-## 🎭 Apparaît dans
+##  Apparaît dans
 
 <p style="text-align:center; margin: 12px 0 6px;">
   <a href="../bmr.html" style="text-decoration:none;">
@@ -40,12 +40,12 @@ title: Juge
 </p>
 
 <p style="text-align:center;">
-  🌙 <a href="../bmr.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none; font-size:22px;">Bad Moon Rising</a>
+   <a href="../bmr.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none; font-size:22px;">Bad Moon Rising</a>
 </p>
 
 ---
 
-## 📖 Résumé
+##  Résumé
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 « Une fois par partie, si un autre joueur a fait une nomination, vous pouvez forcer l’exécution en cours à réussir ou à échouer. »
@@ -64,7 +64,7 @@ Le <strong>Juge</strong> peut décider si une exécution aboutit ou non, quelle 
 
 ---
 
-## 🎬 Mise en place & fonctionnement
+## Comment Conter
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>À tout moment pendant une nomination, le Juge peut déclarer :</li>
@@ -78,7 +78,7 @@ Le <strong>Juge</strong> peut décider si une exécution aboutit ou non, quelle 
 
 ---
 
-## 🧾 Exemples
+## Exemples
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Le <a href="../bmr_roles/mercenaire.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mercenaire</a> allait être exécuté, mais le <a href="../bmr_roles/po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a> est nommé à son tour.  
@@ -95,7 +95,7 @@ Le <strong>Juge</strong> peut décider si une exécution aboutit ou non, quelle 
 
 ---
 
-## 💡 Conseils et astuces (camp du <span style="color:#4ea3ff;">Bien</span>)
+##  Conseils et astuces pour les <span style="color:#4ea3ff;">Bons</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Gardez votre pouvoir pour un moment décisif.</li>
@@ -109,7 +109,7 @@ Le <strong>Juge</strong> peut décider si une exécution aboutit ou non, quelle 
 
 ---
 
-## 🔥 Conseils et astuces (camp du <span style="color:#d45b5b;">Mal</span>)
+## Conseils et astuces pour les <span style="color:#d45b5b;">Maléfiques</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Utilisez votre capacité tôt pour influencer la dynamique du vote.</li>
@@ -122,7 +122,7 @@ Le <strong>Juge</strong> peut décider si une exécution aboutit ou non, quelle 
 
 ---
 
-## 📚 Rappels utiles
+## Rappels utiles
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Le Juge peut être exilé comme tout Voyageur.</li>
@@ -134,7 +134,6 @@ Le <strong>Juge</strong> peut décider si une exécution aboutit ou non, quelle 
 ---
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌙 <a href="../bmr.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a></li>
-  <li>🧳 <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
 </ul>
