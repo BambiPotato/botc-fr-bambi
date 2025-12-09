@@ -20,12 +20,12 @@ title: EXPERIMENTAUX
 
 <!-- Titre principal -->
 <h1 style="color:#d4a76a; font-weight:800; font-size:20px; text-align:left; margin:10px 0 4px;">
-  🎠 The Carousel Expérimental
+   The Carousel Expérimental
 </h1>
 
 <!-- INTRO -->
 <p style="text-align:left; color:#f5f5f5; font-style:italic; font-size:16px; margin-top:6px; line-height:1.7;">
-  « 🎠 <strong>Les rôles expérimentaux du <em>Carousel</em></strong> ouvrent la porte à de nouvelles mécaniques audacieuses et inédites.
+  «  <strong>Les rôles expérimentaux du <em>Carousel</em></strong> ouvrent la porte à de nouvelles mécaniques audacieuses et inédites.
 Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent les limites de <em>Blood on the Clocktower</em> et invitent à explorer des expériences de jeu aussi surprenantes que captivantes. »
 </p>
 
@@ -41,12 +41,12 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
 <!-- 2. GAMEPLAY -->
 <h2 id="2-gameplay" style="color:#d4a76a; font-weight:800; font-size:16px; text-align:left; margin-top:18px;">2. Gameplay</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  👉 <span style="color:#f5f5f5; font-weight:bold;">Niveau : Expérimenté</span><br>
-  🎠 Les rôles expérimentaux du <em>Carousel</em> sont recommandés aux joueuses, joueurs et Conteurs ayant déjà une bonne expérience du jeu <em>Blood on the Clocktower</em>.
+   <span style="color:#f5f5f5; font-weight:bold;">Niveau : Expérimenté</span><br>
+   Les rôles expérimentaux du <em>Carousel</em> sont recommandés aux joueuses, joueurs et Conteurs ayant déjà une bonne expérience du jeu <em>Blood on the Clocktower</em>.
 </p>
 
 <!-- SOMMAIRE NUMÉROTÉ -->
-<h2 style="color:#d4a76a; font-weight:800; font-size:18px; text-align:left; margin-top:18px;">📑 Sommaire</h2>
+<h2 style="color:#d4a76a; font-weight:800; font-size:18px; text-align:left; margin-top:18px;"> Sommaire</h2>
 <ol style="color:#f5f5f5; font-size:18px; line-height:1.7; padding-left:14px; margin-top:6px;">
   <li><a href="#1-synopsis" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Synopsis</a></li>
   <li><a href="#2-gameplay" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Gameplay</a></li>
@@ -511,8 +511,8 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
 
 <!-- Liens bas de page -->
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; text-align:left; margin-top:6px;">
-  <li>🏠 <a href="./index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
-  <li>🍺 <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌛 <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>💐 <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a></li>
+  <li> <a href="./index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
+  <li> <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li> <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
+  <li> <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a></li>
 </ul>
