@@ -97,7 +97,7 @@ Le Conteur transfère alors le jeton et informe secrètement le Mendiant de l’
 
 ---
 
-## Conseils et astuces pour kes <span style="color:#4ea3ff;">Bons</span>)
+## Conseils et astuces pour kes <span style="color:#4ea3ff;">Bons</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Essayez d’apprendre l’alignement d’une ou deux personnes, mais ne soyez pas trop gourmand.  
@@ -111,7 +111,7 @@ Le Conteur transfère alors le jeton et informe secrètement le Mendiant de l’
 
 ---
 
-##  Conseils et astuces pour les <span style="color:#d45b5b;">Maléfiques</span>)
+##  Conseils et astuces pour les <span style="color:#d45b5b;">Maléfiques</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Collectez un maximum de jetons : moins le Bien a de votes, mieux c’est.</li>
