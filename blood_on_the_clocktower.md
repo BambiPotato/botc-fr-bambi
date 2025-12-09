@@ -40,7 +40,7 @@ title: Blood on the Clocktower
 <!-- ======================= -->
 
 <h1 style="font-size:40px; font-weight:bold; margin-bottom:10px;">
-  🕰️ <span style="color:#b58b52;">Qu’est-ce que <em>Blood on the Clocktower</em> ?</span>
+   <span style="color:#b58b52;">Qu’est-ce que <em>Blood on the Clocktower</em> ?</span>
 </h1>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:20px; margin-top:-15px;">
@@ -56,7 +56,7 @@ title: Blood on the Clocktower
 <div class="intro-box">
   <p style="color:#f5f5f5; font-size:18px; line-height:1.8; text-align:justify;">
 
-    <em>Blood 🩸 on the Clocktower</em> est un <strong>jeu de déduction sociale</strong>, dans la lignée des 
+    <em>Blood  on the Clocktower</em> est un <strong>jeu de déduction sociale</strong>, dans la lignée des 
     <em>Loups-Garous de Thiercelieux</em> ou de <em>Mafia</em>, mais avec des mécaniques modernes, plus équilibrées et beaucoup plus narratives.
 
     <br><br>
@@ -70,9 +70,9 @@ title: Blood on the Clocktower
     <strong>The Pandemonium Institute</strong>.  
     Le coffret comprend notamment trois scripts principaux :
     <br>
-    🍺 <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a>  
-    💐 <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a>  
-    🌛 <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a>
+     <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a>  
+     <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a>  
+     <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a>
 
     <br><br>
 
@@ -91,7 +91,7 @@ title: Blood on the Clocktower
 <!-- ======================= -->
 
 <h2 style="font-size:26px;">
-  ⚔️ <span style="color:#b58b52;">Comment se joue <em>Blood on the Clocktower</em> ?</span>
+   <span style="color:#b58b52;">Comment se joue <em>Blood on the Clocktower</em> ?</span>
 </h2>
 
 <div class="sub-box">
@@ -105,16 +105,16 @@ title: Blood on the Clocktower
     <strong>Les bons</strong>  
     Ils enquêtent pour sauver le village en traquant le Démon et en le faisant exécuter :
     <br>
-    – les <a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> 🧑‍🌾 : rôles du Bien avec des pouvoirs utiles ;  
-    – les <a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a> 🌙 : rôles du Bien avec un handicap ou une particularité qui complique la partie.
+    – les <a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>  : rôles du Bien avec des pouvoirs utiles ;  
+    – les <a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>  : rôles du Bien avec un handicap ou une particularité qui complique la partie.
 
     <br><br>
 
     <strong>Les maléfiques</strong>  
     Ils cherchent à tromper le village et à survivre jusqu’à la fin :
     <br>
-    – les <a href="./sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> 💀 : serviteurs du Démon qui sèment la confusion ;  
-    – les <a href="./demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démons</a> 🔥 : la menace principale que le village doit exécuter.
+    – les <a href="./sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>  : serviteurs du Démon qui sèment la confusion ;  
+    – les <a href="./demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démons</a>  : la menace principale que le village doit exécuter.
 
     <br><br>
 
@@ -126,7 +126,7 @@ title: Blood on the Clocktower
 
     <br><br>
 
-    <strong>Une Phase de Jour 🌞</strong>  
+    <strong>Une Phase de Jour 🌞 </strong>  
     Tout le monde parle, partage ses soupçons, accuse, se défend…  
     Le groupe peut ensuite voter pour exécuter un joueur.  
     Même les morts continuent à parler et disposent d’un dernier vote.
@@ -153,27 +153,27 @@ title: Blood on the Clocktower
 <!-- ======================= -->
 
 <h2 style="font-size:26px;">
-  🧑‍🧑‍🧒‍🧒 <span style="color:#b58b52;">Les grandes familles de rôles</span>
+   <span style="color:#b58b52;">Les grandes familles de rôles</span>
 </h2>
 
 <ul style="color:#f5f5f5; font-size:19px; line-height:1.9;">
   <li>
-    <strong><a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a></strong> 🔮
+    <strong><a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a></strong> 
     Rôles du Bien qui enquêtent, protègent ou donnent des informations au village.
   </li>
 
   <li>
-    <strong><a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a></strong> 🪽  
+    <strong><a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a></strong>  
     Rôles du Bien avec une contrainte ou une règle spéciale qui complique la tâche du Village. 
   </li>
 
   <li>
-    <strong><a href="./sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a></strong> 😈  
+    <strong><a href="./sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a></strong> 
     Rôles maléfiques qui protègent le Démon, brouillent les pistes et sabotent les plans du village.
   </li>
 
   <li>
-    <strong><a href="./demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a></strong> 👹  
+    <strong><a href="./demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a></strong> 
     Rôle principal de l’équipe maléfique. Tant que le Démon est en vie à la fin de la partie avec seulement un autre joueur, le Mal triomphe.
   </li>
 </ul>
@@ -185,7 +185,7 @@ title: Blood on the Clocktower
 <!-- ======================= -->
 
 <h2 style="font-size:26px;">
-  📜 <span style="color:#b58b52;">Éditions, rôles spéciaux et contenus</span>
+   <span style="color:#b58b52;">Éditions, rôles spéciaux et contenus</span>
 </h2>
 
 <ul style="color:#f5f5f5; font-size:19px; line-height:1.9;">
@@ -194,11 +194,11 @@ title: Blood on the Clocktower
   <li>
     <strong>Éditions principales</strong> :
     <br>
-    🍺 <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a> – idéale pour découvrir le jeu.
+     <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a> – idéale pour découvrir le jeu.
     <br>
-    💐 <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a> – rôles étranges, effet “casse-tête”.
+     <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a> – rôles étranges, effet “casse-tête”.
     <br>
-    🌛 <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a> – dynamique lente mais mortel.
+     <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a> – dynamique lente mais mortel.
   </li>
 
   <br>
@@ -207,7 +207,7 @@ title: Blood on the Clocktower
   <li>
     <strong>Rôles expérimentaux – The Carousel</strong> :
     <br>
-    🎠 <a href="./experimentaux.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">The Carousel Expérimental</a> – des centaines de rôles en phase de test.
+     <a href="./experimentaux.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">The Carousel Expérimental</a> – des centaines de rôles en phase de test.
   </li>
 
   <br>
@@ -216,7 +216,7 @@ title: Blood on the Clocktower
   <li>
     <strong>Voyageurs</strong> :
     <br>
-    🧳 <a href="./voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a> – rôles très puissants pour ceux qui rejoignent ou quittent la partie en cours.
+     <a href="./voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a> – rôles très puissants pour ceux qui rejoignent ou quittent la partie en cours.
   </li>
 
   <br>
@@ -225,7 +225,7 @@ title: Blood on the Clocktower
   <li>
     <strong>Légendaires</strong> :
     <br>
-    🏰 <a href="./legendaire.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Légendaires</a> – outils narratifs pour le conteur, utilisés dans des situations particulières.
+     <a href="./legendaire.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Légendaires</a> – outils narratifs pour le conteur, utilisés dans des situations particulières.
   </li>
 
   <br>
@@ -234,7 +234,7 @@ title: Blood on the Clocktower
   <li>
     <strong>Lorics</strong> :
     <br>
-    🌿 <a href="./loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Lorics</a> – règles spéciales pour le conteur qui modifient la structure de la partie.
+     <a href="./loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Lorics</a> – règles spéciales pour le conteur qui modifient la structure de la partie.
   </li>
 
 </ul>
@@ -246,7 +246,7 @@ title: Blood on the Clocktower
 <!-- ======================= -->
 
 <h2 style="font-size:26px;">
-  👤 <span style="color:#b58b52;">Le créateur et le studio</span>
+   <span style="color:#b58b52;">Le créateur et le studio</span>
 </h2>
 
 <div class="sub-box">
@@ -269,7 +269,7 @@ title: Blood on the Clocktower
 <!-- ======================= -->
 
 <h2 style="font-size:26px;">
-  💭 <span style="color:#b58b52;">Esprit et philosophie du jeu</span>
+   <span style="color:#b58b52;">Esprit et philosophie du jeu</span>
 </h2>
 
 <ul style="color:#f5f5f5; font-size:19px; line-height:1.9;">
@@ -293,14 +293,14 @@ title: Blood on the Clocktower
 <!-- ======================= -->
 
 <p style="color:#e0c99d; font-size:19px; line-height:1.8; text-align:center;">
-  📘 Pour aller plus loin, découvrez les  
+   Pour aller plus loin, découvrez les  
   <a href="./regles.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">
-    règles complètes de <em>Blood 🩸 on the Clocktower</em>
+    règles complètes de <em>Blood  on the Clocktower</em>
   </a>.
 </p>
 
 <hr class="section">
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="./index.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
+  <li> <a href="./index.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
 </ul>
