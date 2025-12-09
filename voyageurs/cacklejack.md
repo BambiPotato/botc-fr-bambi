@@ -9,7 +9,7 @@ title: Cacklejack
   </a>
 </p>
 
-<!-- 🤖 Cacklejack -->
+<!--  Cacklejack -->
 
 <div style="text-align:center; margin: 20px 0;">
   <img src="../images/Icon_cacklejack.png" alt="Cacklejack" width="360" style="border-radius:12px; margin-top:10px;">
@@ -19,7 +19,7 @@ title: Cacklejack
 
 ---
 
-## 🧭 Informations
+## Informations
 - **Type :** <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>  
 - **Catégorie :** <a href="/botc-fr-bambi/experimentaux.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Rôles expérimentaux</a>  
 - **Artiste :** inconnu  
@@ -30,7 +30,7 @@ title: Cacklejack
 
 ---
 
-## 🎭 Apparaît dans
+##  Apparaît dans
 
 <p style="text-align:center; margin: 12px 0 6px;">
   <a href="/botc-fr-bambi/experimentaux.html" style="text-decoration:none;">
@@ -39,12 +39,12 @@ title: Cacklejack
 </p>
 
 <p style="text-align:center;">
-  🧪 <a href="/botc-fr-bambi/experimentaux.html" style="color:#d4a76a; font-weight:bold; text-decoration:none; font-size:22px;">Rôles expérimentaux</a>
+   <a href="/botc-fr-bambi/experimentaux.html" style="color:#d4a76a; font-weight:bold; text-decoration:none; font-size:22px;">Rôles expérimentaux</a>
 </p>
 
 ---
 
-## 📖 Résumé
+## Résumé
 
 **« Chaque jour, choisissez un joueur : un autre joueur change de rôle cette nuit. »**
 
@@ -55,7 +55,7 @@ Chaque jour, il choisit un joueur immunisé. Cette nuit-là, le <strong>Conteur<
 
 ---
 
-## ⚙️ Comment Conter
+## Comment Conter
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Chaque jour, le Cacklejack choisit un joueur. Marquez-le avec le rappel <strong>« PAS MOI »</strong>.</li>
@@ -67,7 +67,7 @@ Chaque jour, il choisit un joueur immunisé. Cette nuit-là, le <strong>Conteur<
 
 ---
 
-## 🧾 Exemples
+## Exemples
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>En journée, le Cacklejack choisit Pierre. Cette nuit-là, Cloé change d' <a href="../experimentaux_roles/acrobate.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Acrobate</a> en <a href="../sv_roles/horloger.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Horloger</a> et apprend un « 2 ».</li>
@@ -77,7 +77,7 @@ Chaque jour, il choisit un joueur immunisé. Cette nuit-là, le <strong>Conteur<
 
 ---
 
-## 💡 Conseils & astuces (si vous êtes <span style="color:#4ea3ff;">Bon</span>)
+## Conseils & astuces pour les  <span style="color:#4ea3ff;">Bons</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Discutez avec tout le monde pour savoir qui aimerait garder sa capacité et qui préférerait changer.</li>
@@ -90,7 +90,7 @@ Chaque jour, il choisit un joueur immunisé. Cette nuit-là, le <strong>Conteur<
 
 ---
 
-## 😈 Conseils & astuces (si vous êtes <span style="color:#d45b5b;">Maléfique</span>)
+## Conseils & astuces pour les <span style="color:#d45b5b;">Maléfique</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Si un joueur maléfique change de rôle, encouragez-le à mentir et à se dire devenu un Villageois. Cela sème la confusion et empêche les bons de trouver la vérité.</li>
@@ -103,7 +103,7 @@ Chaque jour, il choisit un joueur immunisé. Cette nuit-là, le <strong>Conteur<
 
 ---
 
-## 📚 Rappels utiles
+## Rappels utiles
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Le Cacklejack choisit chaque jour un joueur immunisé au changement.</li>
@@ -116,7 +116,7 @@ Chaque jour, il choisit un joueur immunisé. Cette nuit-là, le <strong>Conteur<
 ---
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🧪 <a href="/botc-fr-bambi/experimentaux.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour aux Rôles expérimentaux</a></li>
-  <li>🧳 <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="/botc-fr-bambi/experimentaux.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour aux Rôles expérimentaux</a></li>
+  <li> <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
 </ul>
