@@ -11,7 +11,7 @@ title: Baron
 </p>
 
 ---
-# 🎩 <span style="color:red">Baron</span> 
+#  <span style="color:red">Baron</span> 
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -23,7 +23,7 @@ title: Baron
 </div>
 
 
-## ℹ️ <span style="color:red">Informations</span>
+##  <span style="color:red">Informations</span>
 
 - **Type :** [<span style="color:red">**Sbires**</span>](../sbires.md)   
 - **Artiste :** Aidan Roberts  
@@ -32,9 +32,9 @@ title: Baron
 ---
 
 
-## 🎭 Apparaît dans  
+##  Apparaît dans  
 
-# 🍺 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
+#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
@@ -55,7 +55,7 @@ title: Baron
 "Cult of the Clocktower – épisode par Andrew Nathenson"
 </p>
 
-## 📖 <span style="color:red">Résumé</span>
+##  <span style="color:red">Résumé</span>
 
 **« Il y a des Étrangers supplémentaires en jeu. [+2 Étrangers] »**
 
@@ -71,7 +71,7 @@ Le Baron modifie le nombre d’Étrangers présents dans la partie.
 ---
 
 
-## 🎭 <span style="color:red">Comment Conter</span>
+##  <span style="color:red">Comment Conter</span>
 
 Pendant la mise en place :  
 1) Retirez **2 jetons Villageois**.  
@@ -82,7 +82,7 @@ Ces jetons (avec ces remplacements) vont dans le sac pour être tirés par les j
 
 ---
 
-## 🧩 <span style="color:red">Exemples</span>
+##  <span style="color:red">Exemples</span>
 - Une partie avec **7 joueurs** la composition de base est :**(5 Villageois, 1 Sbire, 1 Démon)**. 
 - Le conteur décide de mettre Baron en jeu, le Conteur retire 2 Villageois et ajoute, par exemple, un [**Saint**](../tb_roles/saint.md) et un [**Majordome**](../tb_roles/majordome.md). 
 - La compisation finale aura donc 3 Villageois, 2 Étrangers, 1 Sbire, 1 Démon.  
@@ -91,7 +91,7 @@ Ces jetons (avec ces remplacements) vont dans le sac pour être tirés par les j
 
 ---
 
-## 💡 <span style="color:red">Conseils & Astuces</span>
+##  <span style="color:red">Conseils & Astuces</span>
 
 - Votre pouvoir agit **avant même que la partie commence**, ensuite : amusez-vous à **bluffer** et semer la confusion pour aider votre Démon.  
 - Revendiquez être **Étranger** : si le nombre d’Étrangers paraît trop élevé, la ville pensera à un Baron et vous pourrez passer pour un véritable Étranger.  
@@ -103,7 +103,7 @@ Ces jetons (avec ces remplacements) vont dans le sac pour être tirés par les j
 
 ---
 
-## ⚔️ <span style="color:red">Combattre le Baron</span>
+##  <span style="color:red">Combattre le Baron</span>
 
 - Un **compte d’Étrangers inhabituel**, sii le nombre d'Étrangers diffère de celui attendu par défaut par exemple :
   vous en avez trois au lieu d'un seul, il s'agit probablement d'un Baron. 
@@ -144,8 +144,8 @@ Ces jetons (avec ces remplacements) vont dans le sac pour être tirés par les j
 
 ---
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>😈 <a href="../sbires.html" style="color:red; font-weight:bold; text-decoration:none;">Retour aux Sbires</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li> <a href="../sbires.html" style="color:red; font-weight:bold; text-decoration:none;">Retour aux Sbires</a></li>
 </ul>
 
