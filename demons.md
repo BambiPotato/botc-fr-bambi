@@ -9,7 +9,7 @@ title: Démons
   </a>
 </p>
 
-<!-- 👹 Page : Démons -->
+<!--  Page : Démons -->
 
 <h1 style="color:red; font-weight:bold; font-size:36px;">👹 Démons</h1>
 
@@ -55,7 +55,7 @@ Lorsqu’un Démon agit, veillez à :
 
 <h2 style="color:#b58b52; font-weight:bold;">📂 Navigation</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-🔗 Autres catégories :
+ Autres catégories :
 </p>
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:24px;">
   <li><a href="./villageois.html" style="color:blue; font-weight:bold; text-decoration:none;">Villageois et Villageoises</a></li>
@@ -64,5 +64,5 @@ Lorsqu’un Démon agit, veillez à :
 </ul>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-top:10px;">
-🏠 <a href="./" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a>
+ <a href="./" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a>
 </p>
