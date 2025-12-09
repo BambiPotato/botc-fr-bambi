@@ -9,7 +9,7 @@ title: Harlot
   </a>
 </p>
 
-<!-- 💋 Harlot -->
+<!--  Harlot -->
 
 <div style="text-align:center; margin: 20px 0;">
   <img src="../images/Icon_harlot.png" alt="Harlot" width="360" style="border-radius:12px; margin-top:10px;">
@@ -19,7 +19,7 @@ title: Harlot
 
 ---
 
-## 🧭 Informations
+## Informations
 - **Type :** <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>  
 - **Édition :** <a href="/botc-fr-bambi/sv.html" style="color:#67bfff; font-weight:bold; text-decoration:none;">Sects & Violets</a>  
 - **Artiste :** Caitlin Murphy
@@ -30,7 +30,7 @@ title: Harlot
 
 ---
 
-## 🎭 Apparaît dans
+##  Apparaît dans
 
 <p style="text-align:center; margin: 12px 0 6px;">
   <a href="/botc-fr-bambi/sv.html" style="text-decoration:none;">
@@ -39,12 +39,12 @@ title: Harlot
 </p>
 
 <p style="text-align:center;">
-  🌸 <a href="/botc-fr-bambi/sv.html" style="color:#67bfff; font-weight:bold; text-decoration:none; font-size:22px;">Sects & Violets</a>
+   <a href="/botc-fr-bambi/sv.html" style="color:#67bfff; font-weight:bold; text-decoration:none; font-size:22px;">Sects & Violets</a>
 </p>
 
 ---
 
-## 📖 Résumé
+##  Résumé
 
 **« Chaque nuit, choisissez une personne vivante : si elle accepte, vous apprenez son rôle, mais vous pourriez mourir tous les deux. »**
 
@@ -55,7 +55,7 @@ Le Harlot ne découvre jamais l’alignement, uniquement le <em>rôle</em>.
 
 ---
 
-## ⚙️ Comment Conter
+##  Comment Conter
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Chaque nuit, réveillez la Harlot : elle pointe une personne vivante. Rendormez la Harlot.</li>
@@ -67,7 +67,7 @@ Le Harlot ne découvre jamais l’alignement, uniquement le <em>rôle</em>.
 
 ---
 
-## 🧾 Exemples
+##  Exemples
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
   <li>La Harlot bon choisit le <a href="../sv_roles/philosophe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Philosophe</a>, qui accepte. La nuit suivante, il choisit le <a href="../sv_roles/nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a>, qui refuse. La nuit d’après, il choisit le <a href="../sv_roles/mutant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mutant</a>, qui accepte : la conteuse décide que le Harlot et le Mutant meurent cette nuit.</li>
@@ -76,7 +76,7 @@ Le Harlot ne découvre jamais l’alignement, uniquement le <em>rôle</em>.
 
 ---
 
-## 💡 Conseils & astuces (si vous êtes <span style="color:#4ea3ff;">Bon</span>)
+## Conseils & astuces pour les <span style="color:#4ea3ff;">Bons</span>)
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
   <li>En début de partie, essayez d’apprendre <strong>le plus de rôles possible</strong> en peu de nuits : même si vous mourez, votre information reste précieuse.</li>
@@ -91,7 +91,7 @@ Le Harlot ne découvre jamais l’alignement, uniquement le <em>rôle</em>.
 
 ---
 
-## 😈 Conseils & astuces (si vous êtes <span style="color:#d45b5b;">Maléfique</span>)
+## Conseils & astuces pour les <span style="color:#d45b5b;">Maléfiques</span>)
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
   <li>En début de partie, ciblez le <strong>Démon</strong> pour lui signaler subtilement que vous êtes de son côté (sans chuchoter). Le Conteur n’achève pas la partie en tuant le Démon via votre capacité.</li>
@@ -105,7 +105,6 @@ Le Harlot ne découvre jamais l’alignement, uniquement le <em>rôle</em>.
 ---
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌸 <a href="/botc-fr-bambi/sv.html" style="color:#67bfff; font-weight:bold; text-decoration:none;">Retour à Sects & Violets</a></li>
-  <li>🧳 <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
 </ul>
