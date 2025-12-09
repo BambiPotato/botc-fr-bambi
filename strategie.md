@@ -17,7 +17,7 @@ title: Conseils & Stratégies
 </style>
 
 <h1 style="font-size:36px; font-weight:bold;">
-🎯 <span style="color:#e0c99d;">Conseils & Stratégies pour les joueurs et les joueuses</span>
+ <span style="color:#e0c99d;">Conseils & Stratégies pour les joueurs et les joueuses</span>
 </h1>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
@@ -26,7 +26,7 @@ title: Conseils & Stratégies
 
 <hr>
 
-<h2 style="color:#e0c99d;">📑 Sommaire</h2>
+<h2 style="color:#e0c99d;"> Sommaire</h2>
 <ol style="color:#e0c99d;">
   <li><a href="#section1" style="color:#e0c99d;">Merci, je suis du côté des bons ! Et maintenant ?</a></li>
   <ul>
@@ -49,7 +49,7 @@ Vous avez tiré un <strong><span style="color:blue;">jeton bleu</span></strong> 
 Mais... et maintenant ? Que faire, quand parler, qui croire ? Voici l’essentiel.
 </p>
 
-<h3 style="color:#e0c99d;"> 🎯 Définissez votre mission</h3>
+<h3 style="color:#e0c99d;">  Définissez votre mission</h3>
 <p>
 L’objectif global du <strong>Bien</strong> est simple : <strong>trouver et exécuter le <span style="color:red;">Démon</span></strong>.  
 Mais votre mission personnelle dépend de votre rôle :
@@ -60,38 +60,38 @@ Mais votre mission personnelle dépend de votre rôle :
   <li><a href="./tb_roles/soldat.html" style="color:blue;">Soldat</a> : attirez l’attaque du Démon pour sauver vos alliés.</li>
 </ul>
 
-<h3 style="color:#e0c99d;"> 💬 Impliquez-vous</h3>
+<h3 style="color:#e0c99d;">  Impliquez-vous</h3>
 <p>
 Parlez souvent, posez des questions, partagez vos hypothèses.  
 Écoutez aussi : vous pouvez être ivre ou empoisonné, restez donc ouvert à la remise en question.
 </p>
 
-<h3 style="color:#e0c99d;"> 🧩 Soyez utile au groupe</h3>
+<h3 style="color:#e0c99d;">  Soyez utile au groupe</h3>
 <p>
 Aidez, votez, coordonnez-vous.  
 On accorde plus de confiance aux personnes actives et bienveillantes qu’à celles qui restent passives.
 </p>
 
-<h3 style="color:#e0c99d;"> 🗣️ Votre voix est votre arme</h3>
+<h3 style="color:#e0c99d;">  Votre voix est votre arme</h3>
 <p>
 Rencontrez plusieurs personnes, croisez les informations.  
 Si vous êtes nominé, défendez-vous avec logique et calme.  
 Si vous suspectez quelqu’un, expliquez pourquoi.
 </p>
 
-<h3 style="color:#e0c99d;"> 🤝 Faites des alliances limitées</h3>
+<h3 style="color:#e0c99d;"> Faites des alliances limitées</h3>
 <p>
 Faites confiance à une ou deux personnes au début.  
 Partagez vos infos avec prudence. Si le groupe commence à accuser votre allié, réévaluez vite la situation.
 </p>
 
-<h3 style="color:#e0c99d;"> 🤫 Parlez en privé</h3>
+<h3 style="color:#e0c99d;"> Parlez en privé</h3>
 <p>
 Échangez discrètement, chuchotez, choisissez bien vos confidentes et confidents.  
 Mais avant la fin, révélez la vérité au groupe pour aider à la résolution.
 </p>
 
-<h3 style="color:#e0c99d;"> 🔍 Prouvez votre identité</h3>
+<h3 style="color:#e0c99d;"> Prouvez votre identité</h3>
 <p>
 Vos informations peuvent être confirmées par d’autres rôles :
 <a href="./tb_roles/cuistot.html" style="color:blue;">Cuistot</a>, 
@@ -100,7 +100,7 @@ Vos informations peuvent être confirmées par d’autres rôles :
 <a href="./tb_roles/enqueteur.html" style="color:blue;">Enquêteur</a>…
 </p>
 
-<h3 style="color:#e0c99d;">🧘 Soyez proactif</h3>
+<h3 style="color:#e0c99d;"> Soyez proactif</h3>
 <p>
 Demandez des actions sur vous :
 </p>
@@ -110,52 +110,52 @@ Demandez des actions sur vous :
   <li>Choix d’une <a href="./tb_roles/voyante.html" style="color:blue;">Voyante</a></li>
 </ul>
 
-<h3 style="color:#e0c99d;"> 🛡️ Protégez les alliés sûrs</h3>
+<h3 style="color:#e0c99d;">  Protégez les alliés sûrs</h3>
 <p>
 Si vous êtes certain qu’une personne est du Bien, défendez-la.  
 Mentez si nécessaire pour détourner les soupçons ou éviter son exécution.
 </p>
 
-<h3 style="color:#e0c99d;"> 💀 Engagez les morts</h3>
+<h3 style="color:#e0c99d;">  Engagez les morts</h3>
 <p>
 Les morts votent encore une fois. Coordonnez ces votes : ils peuvent renverser la fin de partie.
 </p>
 
-<h3 style="color:#e0c99d;"> ⚖️ Exécution et crédibilité</h3>
+<h3 style="color:#e0c99d;">  Exécution et crédibilité</h3>
 <p>
 Évitez d’être exécuté, sauf si cela permet d’éclairer le village.  
 Une mort "innocente" peut valider vos informations.
 </p>
 
-<h3 style="color:#e0c99d;"> 🌙 Mourir la nuit n’est pas un échec</h3>
+<h3 style="color:#e0c99d;">  Mourir la nuit n’est pas un échec</h3>
 <p>
 Si vous mourrez la nuit, cela vous rend crédible : vos infos gagnent en valeur.
 </p>
 
-<h3 style="color:#e0c99d;"> 🗳️ Votre vote de mort</h3>
+<h3 style="color:#e0c99d;">  Votre vote de mort</h3>
 <p>
 Conservez-le pour un moment crucial, souvent le dernier jour.
 </p>
 
-<h3 style="color:#e0c99d;"> 🎯 Identifier le Démon… ou non</h3>
+<h3 style="color:#e0c99d;">  Identifier le Démon… ou non</h3>
 <p>
 Chercher le Démon est bien, mais confirmer qui ne l’est pas l’est tout autant.  
 Protégez les joueurs sûrs.
 </p>
 
-<h3 style="color:#e0c99d;"> 🧩 Logique simple et double</h3>
+<h3 style="color:#e0c99d;">  Logique simple et double</h3>
 <p>
 Utilisez des hypothèses et éliminez celles qui mènent à des incohérences.  
 Comparez plusieurs pistes, même contradictoires : vous obtiendrez toujours de nouvelles informations.
 </p>
 
-<h3 style="color:#e0c99d;"> 🍺 Ivre ou empoisonné ?</h3>
+<h3 style="color:#e0c99d;">  Ivre ou empoisonné ?</h3>
 <p>
 Ne partez pas du principe que vous l’êtes : cela complique inutilement.  
 Attendez des preuves avant de le supposer.
 </p>
 
-<h3 style="color:#e0c99d;"> 💡 Intuition et esprit d’équipe</h3>
+<h3 style="color:#e0c99d;">  Intuition et esprit d’équipe</h3>
 <p>
 Votre instinct a sa place dans Clocktower.  
 Mais n’oubliez pas : la victoire est presque toujours collective.
@@ -214,37 +214,37 @@ Vous avez tiré un <strong><span style="color:red;">jeton rouge</span></strong> 
 Respirez. Les maléfiques gagnent par coordination, mensonge et influence.
 </p>
 
-<h3 style="color:#e0c99d;"> 🎭 Connaissez votre rôle</h3>
+<h3 style="color:#e0c99d;">  Connaissez votre rôle</h3>
 <ul>
   <li><a href="./tb_roles/empoisonneur.html" style="color:red;">Empoisonneur</a> : sabotez les grands informateurs.</li>
   <li><a href="./tb_roles/femmeecarlate.html" style="color:red;">Femme Écarlate</a> : inspirez confiance, prête à prendre la relève.</li>
 </ul>
 
-<h3 style="color:#e0c99d;"> 🧠 Comprenez avant d’agir</h3>
+<h3 style="color:#e0c99d;">  Comprenez avant d’agir</h3>
 <p>
 Demandez au Conteur ou à la Conteuse en cas de doute.  
 Mieux vaut comprendre que de se trahir.
 </p>
 
-<h3 style="color:#e0c99d;"> 😈 Bluffez sans relâche</h3>
+<h3 style="color:#e0c99d;">  Bluffez sans relâche</h3>
 <p>
 Préparez un mensonge solide dès le départ.  
 Mélangez vérités partielles et inventions crédibles.
 </p>
 
-<h3 style="color:#e0c99d;"> 🧩 Désarmez le Bien</h3>
+<h3 style="color:#e0c99d;">  Désarmez le Bien</h3>
 <p>
 Créez des contradictions, semez le doute, accusez d’ivresse ou d’empoisonnement.  
 Double-revendiquez des rôles, manipulez les comptes des Étrangers.
 </p>
 
-<h3 style="color:#e0c99d;"> 🎯 Jouez collectif</h3>
+<h3 style="color:#e0c99d;">  Jouez collectif</h3>
 <p>
 Coordonnez vos cibles, partagez les infos cruciales, soutenez les bluffs de vos alliés.  
 Un bluff bien orchestré entre Sbires et Démon peut renverser toute la partie.
 </p>
 
-<h3 style="color:#e0c99d;"> 🤝 Gagnez des alliés chez le Bien</h3>
+<h3 style="color:#e0c99d;">  Gagnez des alliés chez le Bien</h3>
 <p>
 Gagnez la confiance d’une personne-clé.  
 Soutenez publiquement une théorie ou une accusation : elle servira plus tard.
@@ -296,7 +296,7 @@ Planifiez, mentez, adaptez. Et surtout : amusez-vous à être le Mal.
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
  
-  <li>📘 <a href="./glossaire.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Glossaire</a></li>
-  <li>🧙 <a href="./conteur.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Conseils aux Conteurs</a></li>
-  <li>🏠 <a href="./index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
+  <li> <a href="./glossaire.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Glossaire</a></li>
+  <li> <a href="./conteur.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Conseils aux Conteurs</a></li>
+  <li> <a href="./index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
 </ul>
