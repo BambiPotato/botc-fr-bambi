@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# 🏹 <span style="color:blue">Mercenaire</span>
+#  <span style="color:blue">Mercenaire</span>
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -16,7 +16,7 @@
 </div>
 
 ---
-## ℹ️ <span style="color:blue">Informations</span>
+##  <span style="color:blue">Informations</span>
 
 - **Type** :[Villageois](../villageois.md) 
 - **Artiste :** Aidan Roberts  
@@ -25,9 +25,9 @@
 
 ---
 
-## 🎭 Apparaît dans  
+##  Apparaît dans  
 
-# 🍺 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
+#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
@@ -49,7 +49,7 @@
 ---
 
 
-## 📖 <span style="color:blue">Résumé</span>
+##  <span style="color:blue">Résumé</span>
 
 *"Une fois par partie, durant la journée, choisissez publiquement un joueur : si c’est le Démon, il meurt."*
 
@@ -63,7 +63,7 @@
 
 ---
 
-## 🎭 <span style="color:blue">Comment Conter</span>
+##  <span style="color:blue">Comment Conter</span>
 
 - Durant la journée, le Mercenaire peut déclarer qu'il souhaite utiliser sa capacité publiquement. Dans ce cas, il désigne un joueur. 
 - Si le joueur choisi est un Démon vivant, déclarez sa mort : placez un linceul sur son jeton de rôle dans le Grimoire. 
@@ -78,7 +78,7 @@
 
 ---
 
-## 🧩 <span style="color:blue">Exemples</span>
+##  <span style="color:blue">Exemples</span>
 
 - Le Mercenaire choisit l’[<span style="color:red">Imp</span>](imp.md),  l’[<span style="color:red">Imp</span>](imp.md), le Démon meurt, 
   et l’équipe des Bons gagne immédiatement !  
@@ -88,7 +88,7 @@
 
 ---
 
-## 💡<span style="color:blue">Conseils & Astuces</span>
+## <span style="color:blue">Conseils & Astuces</span>
 
 - Utiliser votre pouvoir **trop tard** est risqué : la plupart des joueurs et joueuses meurent avant la fin. Tirez avant de mourir inutilement.  
 - Attendre la fin de la partie peut cependant augmenter vos chances de viser le <span style="color:red">Démon</span>.  
@@ -102,7 +102,7 @@
 
 ---
 
-## 😈 <span style="color:blue">Bluffer Mercenaire</span>
+##  <span style="color:blue">Bluffer Mercenaire</span>
 
 - Le Mercenaire **ne se réveille jamais la nuit**, alors ne prétendez pas avoir d’informations nocturnes.  
 - C'est un bluff facile : déclarez “j’utilise ma capacité” et laissez le Conteur gérer le narratif.  
@@ -130,7 +130,7 @@
 ---
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🧑‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li> <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a></li>
 </ul>
