@@ -22,7 +22,7 @@ title: Espion
 </div>
 
 
-## ℹ️ <span style="color:red">Informations</span>
+##  <span style="color:red">Informations</span>
 
 - **Type :** [Sbire](../sbires.md) 
 - **Artiste :** Marianna Carr  
@@ -30,9 +30,9 @@ title: Espion
 
 ---
 
-## 🎭 Apparaît dans  
+##  Apparaît dans  
 
-# 🍺 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
+#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
@@ -54,7 +54,7 @@ title: Espion
 
 ---
 
-## 📖 <span style="color:red">Résumé</span>
+##  <span style="color:red">Résumé</span>
 *« Chaque nuit, vous voyez le Grimoire. Vous pouvez apparaître comme Bon et comme un Villageois ou un Étranger, même si vous êtes mort. »*
 
 - L’Espion est un **Sbire maléfique**, mais il peut **s’enregistrer comme Bon** comme un Villageois ou un Étranger quand une capacité cherche à détecter son alignement.  
@@ -65,7 +65,7 @@ title: Espion
 
 ---
 
-## 🎭 <span style="color:red">Comment Conter</span>
+##  <span style="color:red">Comment Conter</span>
 
 - Chaque nuit, **réveillez l’Espion** et montrez-lui le **Grimoire complet** aussi longtemps qu’il le souhaite.  
 - Quand une capacité détecte ou affecte un joueur « Bon » / Villageois / Étranger, **choisissez comment l’Espion s’enregistre** :  
@@ -75,7 +75,7 @@ title: Espion
 
 ---
 
-## 🧩 <span style="color:red">Exemples</span>
+##  <span style="color:red">Exemples</span>
 
 - La **[Lavandière](../tb_roles/lavandiere.md)** apprend que **Claire** ou **Nicolas** est **[Gardien](../tb_roles/gardien.md)**. En réalité, Claire est **[Moine](../tb_roles/moine.md)**, Douglas est **Espion**, enregistré comme Gardien du corbeau.  
 - L’Espion est voisin de l' **[Imp](im^.md)** et de l’**[Empathique](../tb_roles/empathique.md)**.  
@@ -86,7 +86,7 @@ title: Espion
 
 ---
 
-## 💡<span style="color:red">Conseils & Astuces</span> 
+## <span style="color:red">Conseils & Astuces</span> 
 
 - **Mémorisez bien** le Grimoire : vous savez tout dès le début (rôles en jeu, alignements, statuts).  
 - Notez surtout :  
@@ -101,7 +101,7 @@ title: Espion
 
 ---
 
-## ⚔️ <span style="color:red">Combattre l’Espion</span> 
+##  <span style="color:red">Combattre l’Espion</span> 
 
 - Si le Mal **tue vite les bons rôles clés**, c’est peut-être grâce à l’Espion.  
 - **Supposez que le Mal sait tout** et coordonnez vos infos au lieu de garder des secrets.  
@@ -111,7 +111,7 @@ title: Espion
 
 ---
 
-## 😈 <span style="color:red">Stratégie pour l'Espion</span>   
+##  <span style="color:red">Stratégie pour l'Espion</span>   
 - Vous pouvez avoir un **Excellent bluff** car vous savez exactement quels rôles sont disponibles.  
 - Prétendre être vu comme « bon » par un rôle d’info (ex :**[<span style="color:blue">Empathique</span>](empathique.md)**) est crédible.  
 - Prétendre être un **Étranger** peut masquer la présence d’un **[<span style="color:red">Baron</span>](baron.md)**.  
@@ -174,8 +174,8 @@ title: Espion
 ---
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>😈 <a href="../sbires.html" style="color:red; font-weight:bold; text-decoration:none;">Retour aux Sbires</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li> <a href="../sbires.html" style="color:red; font-weight:bold; text-decoration:none;">Retour aux Sbires</a></li>
 </ul>
 
