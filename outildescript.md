@@ -9,7 +9,7 @@ title: Outil de Script
   </a>
 </p>
 
-<!-- 🔧 Outil de Script -->
+<!--  Outil de Script -->
 
 <h1 style="color:#b58b52; font-weight:bold; font-size:36px;">🔧 Outil de Script</h1>
 
@@ -25,14 +25,14 @@ C’est la meilleure façon de renouveler vos parties de <em>Blood on the Clockt
 
 <hr>
 
-<h2 style="color:#b58b52; font-weight:bold;">📋 Sommaire</h2>
+<h2 style="color:#b58b52; font-weight:bold;"> Sommaire</h2>
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li><a href="#pourquoi" style="color:#d4a76a; font-weight:bold; text-decoration:none;">1 Pourquoi créer un script&nbsp;?</a></li>
   <li><a href="#outil-officiel" style="color:#d4a76a; font-weight:bold; text-decoration:none;">2 Utiliser l’outil officiel</a></li>
   <li><a href="#ameliorer" style="color:#d4a76a; font-weight:bold; text-decoration:none;">3 Améliorer vos créations</a></li>
   <li><a href="#voyageurs-legendaire" style="color:#d4a76a; font-weight:bold; text-decoration:none;">4 Ajouter les Voyageurs et les Légendaires</a></li>
   <li><a href="#situations" style="color:#d4a76a; font-weight:bold; text-decoration:none;">5 Gérer les situations inhabituelles</a></li>
-  <li><a href="#exemple" style="color:#d4a76a; font-weight:bold; text-decoration:none;">💡 Exemple de script personnalisé</a></li>
+  <li><a href="#exemple" style="color:#d4a76a; font-weight:bold; text-decoration:none;"> Exemple de script personnalisé</a></li>
 </ul>
 
 <hr>
@@ -170,8 +170,8 @@ Mieux vaut une nuit un peu plus longue et propre qu’une action ambiguë.
 
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🍺 <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌙 <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>💐 <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li> <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
+  <li> <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a></li>
 </ul>
