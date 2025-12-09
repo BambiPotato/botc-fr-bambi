@@ -10,7 +10,7 @@ title: Croque-Mort
   </a>
 </p>
 
-# ⚰️ <span style="color:blue;">Croque-Mort</span>  
+#  <span style="color:blue;">Croque-Mort</span>  
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -24,15 +24,15 @@ title: Croque-Mort
 
 ---
 
-## ℹ️ <span style="color:blue;">Informations</span>  
+##  <span style="color:blue;">Informations</span>  
 
 **Type :** [<span style="color:blue;">**Villageois**</span>](../villageois.md)  
 **Artiste :** Aidan Roberts  
 *"Hmmm… voyons voir ? La botte gauche est usée jusqu’au talon, avec des éclats de silex sous la semelle. C’est l’équipement d’un militaire."*  
 
-## 🎭 Apparaît dans  
+##  Apparaît dans  
 
-# 🍺 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
+#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
@@ -55,7 +55,7 @@ title: Croque-Mort
 
 ---
 
-## 📖 <span style="color:blue;">Résumé</span>    
+##  <span style="color:blue;">Résumé</span>    
 
 *"Chaque nuit*, vous apprenez quel rôle est mort par **exécution** aujourd’hui."*  
 
@@ -67,7 +67,7 @@ title: Croque-Mort
 
 ---
 
-## 🎭 <span style="color:blue;">Comment Conter</span> 
+##  <span style="color:blue;">Comment Conter</span> 
 
 - Quand un joueur est exécuté, placez le jeton de rappel **MORT AUJOURD’HUI** sur son rôle.  
 - La nuit :  
@@ -76,11 +76,11 @@ title: Croque-Mort
   - Endormez le Croque-Mort.  
   - Retirez ensuite le jeton de rappel.  
 
-👉 Dans *Trouble Brewing*, une seule exécution par jour est possible. Dans d’autres éditions, il peut y en avoir plusieurs (le Conteur choisit alors quel rôle montrer).  
+ Dans *Trouble Brewing*, une seule exécution par jour est possible. Dans d’autres éditions, il peut y en avoir plusieurs (le Conteur choisit alors quel rôle montrer).  
 
 ---
 
-## 🧩 <span style="color:blue;">Exemples</span>   
+##  <span style="color:blue;">Exemples</span>   
 
 - Le [Maire](maire.md) est exécuté. La nuit, le Croque-Mort voit le jeton **Maire**.  
 - L’[Ivrogne](ivrogne.md), qui pensait être la [Vierge](vierge.md), est exécuté. Le Croque-Mort voit le jeton **Ivrogne**.  
@@ -89,7 +89,7 @@ title: Croque-Mort
 
 ---
 
-## 💡 <span style="color:blue;">Conseils & Astuces</span>  
+##  <span style="color:blue;">Conseils & Astuces</span>  
 
 - Plus il y a d’exécutions, plus vous avez d’informations. Même si vous ne frappez pas le Démon, vous confirmez ou infirmez des claims.  
 - Les Voyageurs ne sont pas concernés (ils sont exilés, pas exécutés), sauf le [<span style="color:#9b59b6">Bouc émissaire</span>](../voyageurs/scapegoat.md), qui meurt explicitement par exécution.  
@@ -106,7 +106,7 @@ title: Croque-Mort
 
 ---
 
-## 😈 <span style="color:blue;">Bluffer Croque-Mort</span>   
+##  <span style="color:blue;">Bluffer Croque-Mort</span>   
 
 - Vous vous réveillez **chaque nuit sauf la première** : préparez un récit crédible avec un rôle exécuté chaque jour.  
 - Confirmer des Villageois bons peut vous rendre crédible surtout si vous avez accès au Grimoire grâce à un [<span style="color:red">Espion</span>](espion.md).  
@@ -118,9 +118,9 @@ C'est risqué car le joueur sait que vous mentez, mais efficace si les autres vo
 
 ---
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🧑‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li> <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a></li>
 </ul>
 
 
