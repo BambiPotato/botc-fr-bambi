@@ -41,8 +41,6 @@ Par exemple :
 
 ---
 
----
-
 ##  <span style="color:#d4a76a;">Toute Partie</span>
 
 <div style="text-align:center; display:inline-block; margin:10px;">
