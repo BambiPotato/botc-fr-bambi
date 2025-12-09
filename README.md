@@ -83,13 +83,19 @@
 
 <hr style="margin:16px auto; max-width:980px; border:1px solid rgba(181,139,82,.25);">
 
+<!-- ====== INFORMATIONS SUR LE JEU ====== -->
 <style>
   .info-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-    gap: 26px;
-    justify-items: start;        /* les cartes s’alignent vers la gauche dans la grille */
-    margin: 26px 0 12px 0;       /* plus de centrage automatique */
+    grid-template-columns: repeat(2, minmax(260px, 1fr)); /* 2 colonnes fixes, comme Livre des règles */
+    gap: 18px 26px; /* un peu d’espace vertical, mais pas un canyon */
+    margin: 26px 0 12px 0;
+  }
+
+  @media (max-width: 640px) {
+    .info-grid {
+      grid-template-columns: 1fr; /* sur mobile, 1 carte par ligne */
+    }
   }
 
   .home-card {
@@ -129,9 +135,7 @@
   Informations sur le Jeu
 </h1>
 
-<!--  LIGNE 1 : Glossaires -->
 <div class="info-grid">
-
   <!--  Glossaire FR -->
   <a class="home-card" href="./glossaire.html" aria-label="Glossaire des termes Français">
     <span class="home-title">Glossaire des termes 🇫🇷</span>
@@ -142,11 +146,6 @@
     <span class="home-title">Glossary des termes en anglais</span>
   </a>
 
-</div>
-
-<!--  LIGNE 2 : Conseils -->
-<div class="info-grid" style="margin-top:10px;">
-
   <!-- Conseils Conteurs -->
   <a class="home-card" href="./conteur.html" aria-label="Conseils pour les Conteurs et Conteuses">
     <span class="home-title">Conseils pour les Conteurs et Conteuses</span>
@@ -156,9 +155,10 @@
   <a class="home-card" href="./strategie.html" aria-label="Conseils et Stratégies pour les joueurs et joueuses">
     <span class="home-title">Conseils & Stratégies pour les joueurs et joueuses</span>
   </a>
-
 </div>
 <!-- ====== /INFORMATIONS SUR LE JEU ====== -->
+
+
 ---
 
 <!--  Livre des Règles (version table, sans <div>) -->
