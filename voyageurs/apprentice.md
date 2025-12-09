@@ -9,7 +9,7 @@ title: Apprenti
   </a>
 </p>
 
-<!-- 🧪 Apprenti -->
+<!--  Apprenti -->
 
 <div style="text-align:center; margin: 20px 0;">
   <img src="../images/Icon_apprentice.png" alt="Apprenti" width="360" style="border-radius:12px; margin-top:10px;">
@@ -19,7 +19,7 @@ title: Apprenti
 
 ---
 
-## 🧭 Informations
+##  Informations
 
 - **Type :** <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>  
 - **Édition :** <a href="../bmr.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Bad Moon Rising</a>  
@@ -31,7 +31,7 @@ title: Apprenti
 
 ---
 
-## 🎭 Apparaît dans
+##  Apparaît dans
 
 <p style="text-align:center; margin: 12px 0 6px;">
   <a href="../bmr.html" style="text-decoration:none;">
@@ -40,12 +40,12 @@ title: Apprenti
 </p>
 
 <p style="text-align:center;">
-  🌙 <a href="../bmr.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none; font-size:22px;">Bad Moon Rising</a>
+  <a href="../bmr.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none; font-size:22px;">Bad Moon Rising</a>
 </p>
 
 ---
 
-## 📖 Résumé
+##  Résumé
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 « Lors de votre première nuit, vous gagnez une capacité de <span style="color:#4ea3ff; font-weight:bold;">Villageois</span> si vous êtes bon, ou une capacité de <span style="color:#d45b5b; font-weight:bold;">Sbire</span> si vous êtes maléfique. »
@@ -66,7 +66,7 @@ L’<strong>Apprenti</strong> gagne une seule capacité selon son alignement et 
 
 ---
 
-## 🎬 Mise en place & fonctionnement
+## Comment Conter
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>La première nuit où l’Apprenti est en jeu : réveillez-le, montrez « VOUS ÊTES », puis un jeton <span style="color:#4ea3ff;">Villageois</span> (s’il est bon) ou <span style="color:#d45b5b;">Sbire</span> (s’il est maléfique).</li>
@@ -76,7 +76,7 @@ L’<strong>Apprenti</strong> gagne une seule capacité selon son alignement et 
 
 ---
 
-## 🧾 Exemples
+## Exemples
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Apprenti maléfique : gagne la capacité de l’<a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>. Cette nuit-là, il tue une cible clé.</li>
@@ -85,7 +85,7 @@ L’<strong>Apprenti</strong> gagne une seule capacité selon son alignement et 
 
 ---
 
-## 🧿 Conseils et astuces (camp du <span style="color:#4ea3ff;">Bien</span>)
+##  Conseils et astuces pours kes  <span style="color:#4ea3ff;">Bons</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Adaptez-vous totalement à la capacité reçue : <a href="../bmr_roles/parieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Parieur</a>, <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a>, etc.</li>
@@ -96,7 +96,7 @@ L’<strong>Apprenti</strong> gagne une seule capacité selon son alignement et 
 
 ---
 
-## 🔥 Conseils et astuces (camp du <span style="color:#d45b5b;">Mal</span>)
+## Conseils et astuces pour les <span style="color:#d45b5b;">Maléfiques</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Votre plan dépend de la capacité gagnée : <a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>, <a href="../bmr_roles/courtisan.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisan</a> (en bluff), <a href="../bmr_roles/exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a> (en bluff), etc.</li>
@@ -107,7 +107,7 @@ L’<strong>Apprenti</strong> gagne une seule capacité selon son alignement et 
 
 ---
 
-## 📚 Rappels utiles
+## Rappels utiles
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>L’Apprenti peut être exilé comme tout Voyageur.</li>
@@ -118,7 +118,7 @@ L’<strong>Apprenti</strong> gagne une seule capacité selon son alignement et 
 ---
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌙 <a href="../bmr.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a></li>
-  <li>🧳 <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
+  <li><a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="../bmr.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a></li>
+  <li> <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
 </ul>
