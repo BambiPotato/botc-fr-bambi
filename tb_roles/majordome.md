@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# 🛎️  <span style="color:blue">Majordome</span>  
+#   <span style="color:blue">Majordome</span>  
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -17,7 +17,7 @@
 
 ---
 
-## ℹ️ <span style="color:blue">Informations</span>  
+##  <span style="color:blue">Informations</span>  
 
 - **Type :** [Étrangers](../etrangers.md)  
 - **Artiste :** Aidan Roberts  
@@ -26,9 +26,9 @@
 
 ---
 
-## 🎭 Apparaît dans  
+##  Apparaît dans  
 
-# 🍺 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
+#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
@@ -47,7 +47,7 @@
 "Cult of the Clocktower – épisode par Andrew Nathenson"
 </p> 
 
-## 📖 <span style="color:blue">Résumé</span>
+##  <span style="color:blue">Résumé</span>
 *Chaque nuit, choisissez un joueur (pas vous-même) : demain, vous ne pourrez voter que si ce joueur vote également.*  
 
 Le Majordome ne peut voter que si son **Maître** vote.  
@@ -61,7 +61,7 @@ Le Majordome ne peut voter que si son **Maître** vote.
 
 ---
 
-## 🎭 <span style="color:blue">Comment Conter</span>
+##  <span style="color:blue">Comment Conter</span>
 
 - Chaque nuit, réveillez le Majordome → il choisit un joueur. Placez le jeton **MAÎTRE** à côté de ce joueur.  
 - Lors des nominations, le Majordome ne peut voter que si son Maître vote (ou a déjà été compté).  
@@ -69,7 +69,7 @@ Le Majordome ne peut voter que si son **Maître** vote.
 
 ---
 
-## 🧩 <span style="color:blue">Exemples</span>
+##  <span style="color:blue">Exemples</span>
 
 - Le Majordome choisit **Corentin** comme Maître. Le lendemain, il ne pourra voter que si *Corentin* vote.  
 - Le Maître baisse la main à la dernière seconde → le Majordome doit aussi baisser la main.  
@@ -77,7 +77,7 @@ Le Majordome ne peut voter que si son **Maître** vote.
 
 ---
 
-## 💡<span style="color:blue">Conseils & Astuces</span>
+## <span style="color:blue">Conseils & Astuces</span>
 
 - Choisir un bon Maître est crucial : si votre Maître est fiable, votre vote le sera aussi.  
 - Si vous dites à votre Maître que vous l’avez choisi, il tiendra compte de votre voix → cela peut vous donner des infos sur son alignement.  
@@ -88,7 +88,7 @@ Le Majordome ne peut voter que si son **Maître** vote.
 
 ---
 
-## 😈 <span style="color:blue">Bluffer Majordome</span>
+##  <span style="color:blue">Bluffer Majordome</span>
 
 - Vous vous réveilleriez **chaque nuit, y compris la première**, pour choisir un joueur.  
 - Le Majordome est rarement soupçonné → bluff parfait aussi bien pour les Bons que pour les Méchants.  
@@ -121,8 +121,8 @@ Le Majordome ne peut voter que si son **Maître** vote.
 ---
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>💈 <a href="../etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Étrangers</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li> <a href="../etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Étrangers</a></li>
 </ul>
 
