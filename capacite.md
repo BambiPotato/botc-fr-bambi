@@ -5,7 +5,7 @@
   </a>
 </p>
 
-# 📋 <span style="color:#b58b52; font-weight:bold; font-size:36px;">Capacités</span>  
+#  <span style="color:#b58b52; font-weight:bold; font-size:36px;">Capacités</span>  
 
 <span style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Chaque rôle de *Blood on the Clocktower* possède une **capacité unique**, décrite sur son jeton, sa fiche et dans son almanach.  
@@ -14,7 +14,7 @@ Le jeton et la fiche de rôle fournissent une version simplifiée, mais en cas d
 
 ---
 
-## ⚙️ <span style="color:#b58b52;">Fonctionnement général</span>  
+##  <span style="color:#b58b52;">Fonctionnement général</span>  
 
 <span style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Lorsqu’une capacité est utilisée, **elle s’applique immédiatement**.  
@@ -25,7 +25,7 @@ Exemples :
 
 ---
 
-## 🕵️ <span style="color:#b58b52;">Ce que les joueurs apprennent (ou pas)</span>  
+##  <span style="color:#b58b52;">Ce que les joueurs apprennent (ou pas)</span>  
 
 <span style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Chaque joueur ne connaît que **les informations prévues par sa propre capacité**.  
@@ -39,10 +39,10 @@ Les secrets doivent le rester.
 
 ---
 
-## ☠️ <span style="color:#b58b52;">Perte de capacité</span>  
+##  <span style="color:#b58b52;">Perte de capacité</span>  
 
 <span style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Les capacités sont perdues immédiatement si un joueur **meurt**, **devient ivre** 🍺 ou **empoisonné** ☠️.  
+Les capacités sont perdues immédiatement si un joueur **meurt**, **devient ivre**  ou **empoisonné**.  
 Leurs effets persistants cessent également.  
 
 Exemple :  
@@ -51,7 +51,7 @@ Même si la capacité dit *« jusqu’au crépuscule »*, elle s’arrête à la
 
 ---
 
-## 🍷 <span style="color:#b58b52;">Ivresse & Poison</span>  
+##  <span style="color:#b58b52;">Ivresse & Poison</span>  
 
 <span style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Lorsqu’un joueur devient ivre ou empoisonné, on peut **retirer** ses jetons de rappel, ou simplement les **retourner** pour indiquer que sa capacité ne fonctionne plus.  
@@ -64,7 +64,7 @@ Exemples :
 
 ---
 
-## 👻 <span style="color:#b58b52;">Capacités après la mort</span>  
+##  <span style="color:#b58b52;">Capacités après la mort</span>  
 
 <span style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Certains rôles conservent tout ou partie de leur capacité **après leur mort**.  
@@ -77,7 +77,7 @@ Même mort, sa capacité se déclenche au moment de son décès.
 
 ---
 
-## 🕰️ <span style="color:#b58b52;">Choix et décisions</span>  
+##  <span style="color:#b58b52;">Choix et décisions</span>  
 
 <span style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Si une capacité ne mentionne pas *« choisissez »*, c’est le **Conteur** qui décide.  
@@ -87,7 +87,7 @@ Si une capacité ne mentionne pas *« choisissez »*, c’est le **Conteur** qui
 
 ---
 
-## 🙅‍♂️ <span style="color:#b58b52;">Erreurs des joueurs</span>  
+##  <span style="color:#b58b52;">Erreurs des joueurs</span>  
 
 <span style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Si un joueur tente d’utiliser sa capacité de manière illégale, **corrigez-le discrètement** :  
@@ -97,7 +97,7 @@ Si un joueur tente d’utiliser sa capacité de manière illégale, **corrigez-l
 
 ---
 
-## 🔄 <span style="color:#b58b52;">Changement de rôle</span>  
+## <span style="color:#b58b52;">Changement de rôle</span>  
 
 <span style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Lorsqu’un joueur devient un **nouveau rôle**, il gagne immédiatement la nouvelle capacité et perd l’ancienne, ainsi que ses effets.  
@@ -113,7 +113,7 @@ il **ne découvre pas** qui sont les autres joueurs maléfiques — cette inform
 
 ---
 
-## 🧩 <span style="color:#b58b52;">Texte entre crochets [ ]</span>  
+##  <span style="color:#b58b52;">Texte entre crochets [ ]</span>  
 
 <span style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Si une capacité contient du texte entre crochets `[comme ceci]`, cette partie **n’a aucun effet** lorsqu’un joueur devient ce rôle en cours de partie.  
@@ -122,7 +122,7 @@ Les crochets indiquent des **règles de mise en place** du jeu, qui ne changent 
 
 ---
 
-## 🕓 <span style="color:#b58b52;">Moment d’activation</span>  
+##  <span style="color:#b58b52;">Moment d’activation</span>  
 
 <span style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Certaines capacités s’activent à un moment différent de celui indiqué sur la **feuille de nuit**.  
@@ -140,5 +140,5 @@ Puis il revient au [**Sage**](./sv_roles/sage.md) pour résoudre sa capacité.
 
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
+  <li> <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
 </ul>
