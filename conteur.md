@@ -189,7 +189,7 @@ title: Conseils pour les Conteuses et les Conteurs
   À vous le rythme, l’ambiance et les émotions.
 </p>
 
-<h3>⚔️ Rendre les exécutions mémorables</h3>
+<h3> Rendre les exécutions mémorables</h3>
 <p>
   Juste avant une exécution, demandez : <em>« Comment veux-tu mourir ? »</em> 
   Puis narrez brièvement la scène avec un ton léger (évitez le morbide).
