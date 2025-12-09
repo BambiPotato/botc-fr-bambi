@@ -785,7 +785,7 @@ table.roles-grid td{
   <!-- Petit icône communauté -->
   <img src="./images/bambibluepotato.png"
        alt="Communauté Bambi Blue Potato Clocktower"
-       style="width:75px; height:auto; margin-bottom:15px; opacity:0.9; display:block;">
+       style="width:100px; height:auto; margin-bottom:15px; opacity:0.9; display:block;">
 
   <p style="color:#e0c99d; font-size:19px; margin-bottom:15px;">
     Rejoignez notre petite communauté sur <span style="color:#d4a76a; font-weight:bold;">Discord</span> pour jouer en ligne et participer à nos parties streamées :
