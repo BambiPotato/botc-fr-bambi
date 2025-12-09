@@ -9,7 +9,7 @@ title: Boucher
   </a>
 </p>
 
-<!-- 🔪 Boucher -->
+<!-- Boucher -->
 
 <div style="text-align:center; margin: 20px 0;">
   <img src="../images/Icon_butcher.png" alt="Boucher" width="360" style="border-radius:12px; margin-top:10px;">
@@ -19,7 +19,7 @@ title: Boucher
 
 ---
 
-## 🧭 Informations
+## Informations
 - **Type :** <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>  
 - **Édition :** <a href="../sects_and_violets.html" style="color:#67bfff; font-weight:bold; text-decoration:none;">Sects & Violets</a>  
 - **Artiste :** <span style="color:#f5f5f5;">Aidan Roberts</span>
@@ -30,7 +30,7 @@ title: Boucher
 
 ---
 
-## 🎭 Apparaît dans
+## Apparaît dans
 
 <p style="text-align:center; margin: 12px 0 6px;">
   <a href="../sects_and_violets.html" style="text-decoration:none;">
@@ -39,12 +39,12 @@ title: Boucher
 </p>
 
 <p style="text-align:center;">
-  🌸 <a href="../sects_and_violets.html" style="color:#67bfff; font-weight:bold; text-decoration:none; font-size:22px;">Sects & Violets</a>
+   <a href="../sects_and_violets.html" style="color:#67bfff; font-weight:bold; text-decoration:none; font-size:22px;">Sects & Violets</a>
 </p>
 
 ---
 
-## 📖 Résumé
+##  Résumé
 
 **« Chaque jour, après la 1re exécution, vous pouvez faire une nouvelle nomination. »**
 
@@ -61,7 +61,7 @@ Le <strong>Boucher</strong> permet une seconde exécution par jour.
 
 ---
 
-## 🎬 Mise en place & fonctionnement
+## Comment Conter
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Après une exécution, le Conteur rappelle au Boucher qu’il peut nominer.</li>
@@ -72,7 +72,7 @@ Le <strong>Boucher</strong> permet une seconde exécution par jour.
 
 ---
 
-## 🧾 Exemples
+## Exemples
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>La <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> est exécutée et meurt.  
@@ -88,7 +88,7 @@ Le <strong>Boucher</strong> permet une seconde exécution par jour.
 
 ---
 
-## 💡 Conseils & Astuces (camp du <span style="color:#4ea3ff;">Bien</span>)
+## Conseils & Astuces pour les  <span style="color:#4ea3ff;">Bons</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Deux exécutions par jour peuvent offrir une victoire rapide au Bien — mais exige une coordination parfaite.</li>
@@ -101,7 +101,7 @@ Le <strong>Boucher</strong> permet une seconde exécution par jour.
 
 ---
 
-## 🔥 Conseils & Astuces pour les <span style="color:#d45b5b;">Maléfiques</span>)
+##  Conseils & Astuces pour les <span style="color:#d45b5b;">Maléfiques</span>)
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Favorisez l’élimination rapide des bons joueurs.</li>
@@ -113,7 +113,7 @@ Le <strong>Boucher</strong> permet une seconde exécution par jour.
 
 ---
 
-## 📚 Rappels utiles
+## Rappels utiles
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Le Boucher ne peut agir qu’après une exécution réussie.</li>
@@ -126,7 +126,7 @@ Le <strong>Boucher</strong> permet une seconde exécution par jour.
 ---
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌸 <a href="../sects_and_violets.html" style="color:#67bfff; font-weight:bold; text-decoration:none;">Retour à Sects & Violets</a></li>
-  <li>🧳 <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="../sects_and_violets.html" style="color:#67bfff; font-weight:bold; text-decoration:none;">Retour à Sects & Violets</a></li>
+  <li> <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
 </ul>
