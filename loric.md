@@ -9,7 +9,7 @@ title: Lorics
   </a>
 </p>
 
-<!-- 🌿 Logo centré cliquable -->
+<!--  Logo centré cliquable -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./loric.html" style="text-decoration:none;">
     <img src="./images/Generic_loric.png" alt="Lorics" width="300" style="border-radius:12px;">
@@ -18,7 +18,7 @@ title: Lorics
   </a>
 </div>
 
-# 🌿 <span style="color:#7fd1ae; font-weight:bold; font-size:18px;">Lorics</span>
+#  <span style="color:#7fd1ae; font-weight:bold; font-size:18px;">Lorics</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Des règles qui bousculent le village et réécrivent la partie. »
@@ -26,17 +26,17 @@ title: Lorics
 
 ---
 
-## 📑 <span style="color:#7fd1ae;">Sommaire</span>
+##  <span style="color:#7fd1ae;">Sommaire</span>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <a href="#presentation" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">ℹ️ Présentation</a><br>
-  <a href="#comment-conter" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">🎭 Comment Conter</a><br>
-  <a href="#lorics" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">🌿 Lorics</a>
+  <a href="#presentation" style="color:#7fd1ae; font-weight:bold; text-decoration:none;"> Présentation</a><br>
+  <a href="#comment-conter" style="color:#7fd1ae; font-weight:bold; text-decoration:none;"> Comment Conter</a><br>
+  <a href="#lorics" style="color:#7fd1ae; font-weight:bold; text-decoration:none;"> Lorics</a>
 </p>
 
 ---
 
-## ℹ️ <span id="presentation" style="color:#7fd1ae;">Présentation</span>
+##  <span id="presentation" style="color:#7fd1ae;">Présentation</span>
 
 <p style="text-align:left; color:#e0c99d; font-size:18px; line-height:1.7;">
   Les <strong>Lorics</strong> sont des rôles conçus pour les conteurs et conteuses.  
@@ -52,7 +52,7 @@ title: Lorics
 
 ---
 
-## 🎭 <span id="comment-conter" style="color:#7fd1ae;">Comment Conter</span>
+##  <span id="comment-conter" style="color:#7fd1ae;">Comment Conter</span>
 
 <p style="text-align:left; color:#e0c99d; font-size:18px; line-height:1.7;">
   Utilisez les Lorics quand vous le souhaitez.  
@@ -88,7 +88,7 @@ title: Lorics
 
 ---
 
-## 🌿 <span id="lorics" style="color:#7fd1ae;">Lorics</span>
+##  <span id="lorics" style="color:#7fd1ae;">Lorics</span>
 
 <!-- Cartes : grille responsive, plusieurs cartes par ligne -->
 <div style="margin: 8px 0 6px 0; display:flex; flex-wrap:wrap; justify-content:center; gap:16px;">
@@ -134,6 +134,6 @@ title: Lorics
 ---
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7; text-align:left; margin-top:10px;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌿 <a href="./loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Loric</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="./loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Loric</a></li>
 </ul>
