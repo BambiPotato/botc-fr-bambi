@@ -548,11 +548,11 @@ table.roles-grid td{
     font-size:20px;
     color:#e0c99d;
   ">
-    <li> → <a href="https://botc.app/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Pour jouer en ligne à Blood on the Clocktower</a></li>
-    <li> → <a href="https://wiki.bloodontheclocktower.com/Main_Page" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Wiki officiel BotC TPI</a></li>
-    <li> → <a href="https://www.botcscripts.com" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">BotC Scripts</a></li>
-    <li> → <a href="https://script.bloodontheclocktower.com/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Outil officiel de création de scripts</a></li>
-    <li> → <a href="https://savant.thegrim.gg/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Générateur d’informations pour le Savant</a></li>
+    <li>  <a href="https://botc.app/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Pour jouer en ligne à Blood on the Clocktower</a></li>
+    <li>  <a href="https://wiki.bloodontheclocktower.com/Main_Page" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Wiki officiel BotC TPI</a></li>
+    <li>  <a href="https://www.botcscripts.com" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">BotC Scripts</a></li>
+    <li>  <a href="https://script.bloodontheclocktower.com/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Outil officiel de création de scripts</a></li>
+    <li>  <a href="https://savant.thegrim.gg/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Générateur d’informations pour le Savant</a></li>
   </ul>
 
 </div>
@@ -574,6 +574,11 @@ table.roles-grid td{
      Réseaux Sociaux
   </h2>
 
+  <!-- Petit icône communauté -->
+  <img src="./images/bambibluepotato.png"
+       alt="Communauté Bambi Blue Potato Clocktower"
+       style="width:60px; height:auto; margin-bottom:15px; opacity:0.9; display:block;">
+
   <p style="color:#e0c99d; font-size:19px; margin-bottom:15px;">
     Rejoignez notre petite communauté sur <span style="color:#d4a76a; font-weight:bold;">Discord</span> pour jouer en ligne et participer à nos parties streamées :
   </p>
@@ -591,7 +596,7 @@ table.roles-grid td{
 
 <div style="text-align:left; margin-top:40px; line-height:1.8; border:1px solid rgba(212,167,106,0.3); border-radius:10px; padding:25px; box-shadow:0 0 12px rgba(0,0,0,0.4); background-color:rgba(0,0,0,0.45);">
 
-  <h2 style="color:#d4a76a; font-size:28px; font-weight:bold; text-shadow:1px 1px 4px #000;">
+  <h2 style="color:#d4a76a; font-size:24px; font-weight:bold; text-shadow:1px 1px 4px #000;">
      Jouer en personne ou en ligne&nbsp;?
   </h2>
 
@@ -612,12 +617,12 @@ table.roles-grid td{
   </p>
 
   <ul style="color:#e0c99d; font-size:20px; line-height:1.7; margin-left:30px;">
-    <li>  → <a href="https://www.meetup.com/blood-on-the-clocktower-paris/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">
+    <li>   <a href="https://www.meetup.com/blood-on-the-clocktower-paris/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">
         Blood on the Clocktower Paris Meetup
       </a>
     </li>
 
-    <li>  → <a href="https://www.meetup.com/blood-on-the-clocktower-nantes/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">
+    <li>   <a href="https://www.meetup.com/blood-on-the-clocktower-nantes/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">
         Blood on the Clocktower Nantes Meetup
       </a>
     </li>
@@ -625,7 +630,7 @@ table.roles-grid td{
 
   <hr style="width:50%; margin:30px 0; border:1px solid #b58b52; opacity:0.6;">
 
-  <h3 style="color:#b58b52; font-size:28px; font-weight:bold;">À propos de ce projet</h3>
+  <h3 style="color:#b58b52; font-size:24px; font-weight:bold;">À propos de ce projet</h3>
 
   <p style="font-size:20px; color:#e0c99d;">
     Ce wiki a pour objectif de partager <span style="color:#d4a76a; font-weight:bold;">Blood on the Clocktower</span> en français  
@@ -643,9 +648,9 @@ table.roles-grid td{
   </p>
 
   <p style="font-size:19px; color:#e0c99d; margin-top:25px;">
-    Pour toute autre question ou suggestion, vous pouvez me contacter  
+    Pour toute autre question ou suggestion, vous pouvez me contacter : 
     <a href="mailto:bambibluepotato@gmail.com" style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-      Bambi Blue Potato ✉️
+      Bambi Blue Potato 
     </a>
   </p>
 
