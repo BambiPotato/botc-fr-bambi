@@ -14,7 +14,7 @@
 
 Les Sbires ne peuvent pas gagner sans leur Démon, mais leurs capacités perturbent et manipulent le Village. 
 
-## 📌 Exemples dans *Trouble Brewing*  
+##  Exemples dans *Trouble Brewing*  
 - [<span style="color:red">Empoisonneur</span>](./tb_roles/empoisonneur.md) : **Falsifie** les **capacités** des autres joueurs et joueuses.    
 - [<span style="color:red">Espion</span>](./tb_roles/espion.md) : Voit 👀 le **Grimoire** chaque nuit.   
 - [<span style="color:red">Baron</span>](./tb_roles/baron.md) : Ajoute **deux** Étrangers au jeu.   
@@ -22,13 +22,13 @@ Les Sbires ne peuvent pas gagner sans leur Démon, mais leurs capacités perturb
 
 ---
 
-🔗 Autres catégories :  
+## Autres catégories :  
 - [Villageois](villageois.md)  
 - [Étrangers](etrangers.md)  
 - [<span style="color:red">Démons</span>](demons.md)  
 
-## 📂 Navigation 
+
 <p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-top:10px;">
-🏠 <a href="./" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a>
+ <a href="./" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a>
 </p>
  
