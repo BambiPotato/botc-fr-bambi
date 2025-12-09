@@ -214,7 +214,7 @@ si l’<a href="../tb_roles/imp.html" style="color:red; font-weight:bold; text-d
 vient d’être exécuté mais sauvé par votre capacité, et que l’  
 <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a>  
 connaît l’alignement de ses voisins… vous devrez discréditer soit l’Empathique, soit l’autre voisin vivant.  
-Sinon, c’en est fini pour l’équipe du Mal.
+Sinon, c’en est fini pour l’équipe Maléfique.
 </p>
 
 ---
