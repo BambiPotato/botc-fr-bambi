@@ -9,7 +9,7 @@ title: Collecteur d’os
   </a>
 </p>
 
-<!-- 🦴 Collecteur d’os -->
+<!--  Collecteur d’os -->
 
 <div style="text-align:center; margin: 20px 0;">
   <img src="../images/Icon_bonecollector.png" alt="Collecteur d’os" width="360" style="border-radius:12px; margin-top:10px;">
@@ -19,7 +19,7 @@ title: Collecteur d’os
 
 ---
 
-## 🧭 Informations
+##  Informations
 - **Type :** <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>  
 - **Édition :** <a href="../sects_and_violets.html" style="color:#67bfff; font-weight:bold; text-decoration:none;">Sects & Violets</a>  
 - **Nom anglais :** <span style="color:#f5f5f5;">Bone Collector</span>  
@@ -31,7 +31,7 @@ title: Collecteur d’os
 
 ---
 
-## 🎭 Apparaît dans
+## Apparaît dans
 
 <p style="text-align:center; margin: 12px 0 6px;">
   <a href="../sects_and_violets.html" style="text-decoration:none;">
@@ -40,12 +40,12 @@ title: Collecteur d’os
 </p>
 
 <p style="text-align:center;">
-  🌸 <a href="../sects_and_violets.html" style="color:#67bfff; font-weight:bold; text-decoration:none; font-size:22px;">Sects & Violets</a>
+   <a href="../sects_and_violets.html" style="color:#67bfff; font-weight:bold; text-decoration:none; font-size:22px;">Sects & Violets</a>
 </p>
 
 ---
 
-## 📖 Résumé
+## Résumé
 
 **« Une fois par partie, de nuit, choisissez une personne morte : elle récupère sa capacité jusqu’au crépuscule. »**
 
@@ -62,7 +62,7 @@ Le <strong>Collecteur d’os</strong> rend temporairement leur pouvoir aux joueu
 
 ---
 
-## 🎬 Comment Conter
+##  Comment Conter
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Chaque nuit (sauf la première), réveillez le Collecteur d’os : il désigne une personne morte ou refuse.</li>
@@ -73,7 +73,7 @@ Le <strong>Collecteur d’os</strong> rend temporairement leur pouvoir aux joueu
 
 ---
 
-## 🧾 Exemples
+##  Exemples
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Le Collecteur d’os rend sa capacité à la <a href="../sv_roles/fillefleurs.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fille des Fleurs</a> : elle apprend si le <a href="../sv_roles/fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> a voté aujourd’hui.</li>
@@ -84,7 +84,7 @@ Le <strong>Collecteur d’os</strong> rend temporairement leur pouvoir aux joueu
 
 ---
 
-## 💡 Conseils & astuces (si vous êtes <span style="color:#4ea3ff;">Bon</span>)
+## Conseils & astuces pour les <span style="color:#4ea3ff;">Bons</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Parlez aux morts pour identifier les pouvoirs les plus utiles à réactiver : <a href="../sv_roles/horloger.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Horloger</a>, <a href="../sv_roles/rêveur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Rêveur</a>, <a href="../sv_roles/jongleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Jongleur</a>...</li>
@@ -95,7 +95,7 @@ Le <strong>Collecteur d’os</strong> rend temporairement leur pouvoir aux joueu
 
 ---
 
-## 💀 Conseils & astuces (si vous êtes <span style="color:#d45b5b;">Maléfique</span>)
+## Conseils & astuces pour les <span style="color:#d45b5b;">Maléfique</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Rendez un pouvoir à un <span style="color:#d45b5b;">Sbire</span> au moment opportun pour renforcer votre équipe.</li>
@@ -105,18 +105,18 @@ Le <strong>Collecteur d’os</strong> rend temporairement leur pouvoir aux joueu
 
 ---
 
-## 📚 Rappels utiles
+## Rappels utiles
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Le Collecteur d’os peut être exilé comme tout Voyageur.</li>
-  <li>Il ne compte pas pour les conditions de victoire.</li>
+  <li>Le Collecteur dos ne compte pas pour les conditions de victoire.</li>
   <li>Le joueur ressuscité partiellement reste mort et ne peut pas être ciblé par d’autres effets.</li>
 </ul>
 
 ---
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌸 <a href="../sects_and_violets.html" style="color:#67bfff; font-weight:bold; text-decoration:none;">Retour à Sects & Violets</a></li>
-  <li>🧳 <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
+  <li><a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="../sects_and_violets.html" style="color:#67bfff; font-weight:bold; text-decoration:none;">Retour à Sects & Violets</a></li>
+  <li> <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
 </ul>
