@@ -539,13 +539,18 @@ table.roles-grid td{
     font-size:26px;
     margin-bottom:10px;
   ">
-     Ressources en ligne
+     Blood on the Clocktower – Ressources officielles
   </h2>
 
   <!-- Petite icône Blood on the Clocktower -->
   <img src="./images/logomini.png"
        alt="Blood on the Clocktower"
-       style="width:65px; height:auto; margin-bottom:15px; opacity:0.95; display:block;">
+       style="width:65px; height:auto; margin-bottom:12px; opacity:0.95; display:block;">
+
+  <p style="color:#e0c99d; font-size:19px; margin-bottom:18px;">
+     Le jeu <span style="color:#d4a76a; font-weight:bold;">Blood on the Clocktower</span>
+     a été créé par <span style="color:#d4a76a; font-weight:bold;">The Pandemonium Institute</span>.
+  </p>
 
   <ul style="
     list-style:none;
@@ -558,14 +563,14 @@ table.roles-grid td{
     <li>
       <a href="https://bloodontheclocktower.com/" target="_blank"
          style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-         Blood on the Clocktower Site officiel
+         Blood on the Clocktower – Site officiel
       </a>
     </li>
 
     <li>
       <a href="https://discord.gg/eD4zvq6RvB" target="_blank"
          style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-         Discord Blood on the Clocktower Unofficial
+         Discord – Blood on the Clocktower Unofficial
       </a>
     </li>
 
@@ -573,21 +578,21 @@ table.roles-grid td{
     <li>
       <a href="https://botc.app/" target="_blank"
          style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-         Pour jouer en ligne à Blood on the Clocktower
+         Pour jouer en ligne 
       </a>
     </li>
 
     <li>
       <a href="https://wiki.bloodontheclocktower.com/Main_Page" target="_blank"
          style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-         Wiki officiel The Pandemonium Institute
+         Wiki officiel – The Pandemonium Institute
       </a>
     </li>
 
     <li>
       <a href="https://www.botcscripts.com" target="_blank"
          style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-         BotC Librairie Scripts
+         Librairie de scripts 
       </a>
     </li>
 
@@ -605,65 +610,30 @@ table.roles-grid td{
       </a>
     </li>
 
-    <!-- YOUTUBE  -->
+    <!-- YOUTUBE -->
     <li>
       <a href="https://www.youtube.com/@BloodontheClocktower" target="_blank"
          style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-         YouTube Blood on the Clocktower (officiel)
+         YouTube – Blood on the Clocktower (officiel)
       </a>
     </li>
-    
+
     <!-- TWITCH OFFICIEL -->
     <li>
       <a href="https://www.twitch.tv/thepandemoniuminstitute" target="_blank"
          style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-        Twitch The Pandemonium Institute
+         Twitch – The Pandemonium Institute
       </a>
     </li>
-    
-    <!-- INSTAGRAM  -->
+
+    <!-- INSTAGRAM -->
     <li>
       <a href="https://www.instagram.com/stories/bloodontheclocktower/" target="_blank"
          style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-         Instagram Blood on the Clocktower (officiel)
+         Instagram – Blood on the Clocktower
       </a>
     </li>
 
-  </ul>
-
-</div>
----
-
-<div style="
-  width:100%;
-  margin:40px 0;
-  padding:25px 20px;
-  text-align:left;
-  border:1px solid rgba(212,167,106,0.3);
-  border-radius:10px;
-  background-color:rgba(0,0,0,0.45);
-  box-shadow:0 0 12px rgba(0,0,0,0.4);
-">
-
-  <h2 style="color:#b58b52; font-weight:bold; font-size:26px; margin-bottom:10px;">
-     Réseaux Sociaux
-  </h2>
-
-  <!-- Petit icône communauté -->
-  <img src="./images/bambibluepotato.png"
-       alt="Communauté Bambi Blue Potato Clocktower"
-       style="width:60px; height:auto; margin-bottom:15px; opacity:0.9; display:block;">
-
-  <p style="color:#e0c99d; font-size:19px; margin-bottom:15px;">
-    Rejoignez notre petite communauté sur <span style="color:#d4a76a; font-weight:bold;">Discord</span> pour jouer en ligne et participer à nos parties streamées :
-  </p>
-
-  <ul style="list-style:none; padding-left:0; font-size:19px; color:#e0c99d;">
-    <li> <a href="https://discord.gg/tGDVmZfZpE" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Discord</a></li>
-    <li> <a href="https://www.youtube.com/@Bambipotato" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">YouTube</a></li>
-    <li> <a href="https://www.twitch.tv/bambibluepotato" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Twitch</a></li>
-    <li> <a href="https://www.instagram.com/bambibluepotato/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Instagram</a></li>
-    <li> <a href="https://bsky.app/profile/bambibluepotato.bsky.social" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Bluesky</a></li>
   </ul>
 
 </div>
@@ -734,6 +704,55 @@ table.roles-grid td{
 
 </div>
 
+---
+
+<div style="
+  width:100%;
+  margin:40px 0;
+  padding:25px 20px;
+  text-align:left;
+  border:1px solid rgba(212,167,106,0.3);
+  border-radius:10px;
+  background-color:rgba(0,0,0,0.45);
+  box-shadow:0 0 12px rgba(0,0,0,0.4);
+">
+
+  <h2 style="color:#b58b52; font-weight:bold; font-size:26px; margin-bottom:10px;">
+    Wiki non officiel en français 
+  </h2>
+
+  <!-- Petit icône communauté -->
+  <img src="./images/bambibluepotato.png"
+       alt="Communauté Bambi Blue Potato Clocktower"
+       style="width:60px; height:auto; margin-bottom:15px; opacity:0.9; display:block;">
+
+  <p style="color:#e0c99d; font-size:19px; margin-bottom:15px;">
+    Rejoignez notre petite communauté sur <span style="color:#d4a76a; font-weight:bold;">Discord</span> pour jouer en ligne et participer à nos parties streamées :
+  </p>
+
+  <ul style="list-style:none; padding-left:0; font-size:19px; color:#e0c99d;">
+    <li> <a href="https://discord.gg/tGDVmZfZpE" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Discord</a></li>
+    <li> <a href="https://www.youtube.com/@Bambipotato" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">YouTube</a></li>
+    <li> <a href="https://www.twitch.tv/bambibluepotato" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Twitch</a></li>
+    <li> <a href="https://www.instagram.com/bambibluepotato/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Instagram</a></li>
+  </ul>
+
+  <!-- Ligne de contact -->
+  <p style="
+    margin-top:20px;
+    font-size:18px;
+    color:#e0c99d;
+    line-height:1.6;
+  ">
+    Pour toute question, suggestion ou amélioration du wiki,<br>
+    vous pouvez me contacter à :  
+    <a href="mailto:bambibluepotato@gmail.com"
+       style="color:#ffb84d; font-weight:bold; text-decoration:none;">
+       bambibluepotato@gmail.com
+    </a>
+  </p>
+
+</div>
 
 ---
 
@@ -781,21 +800,10 @@ table.roles-grid td{
     ou simplement curieux ou curieuse de découvrir cet univers.
   </p>
 
-  <p style="font-size:20px; color:#e0c99d; margin-top:20px;">
-     Ce projet vit grâce à la passion et à la collaboration de nombreuses joueuses et de nombreux joueurs.  
-    N’hésitez pas à proposer vos <span style="color:#d4a76a; font-weight:bold;">idées</span> ou vos <span style="color:#d4a76a; font-weight:bold;">corrections</span> pour continuer à l’enrichir.
-  </p>
-
   <p style="font-size:20px; color:#d4a76a; margin-top:25px; font-weight:bold; text-align:left;">
      Merci à toutes et à tous.
   </p>
 
-  <p style="font-size:19px; color:#e0c99d; margin-top:25px;">
-    Pour toute autre question ou suggestion contact 
-    <a href="mailto:bambibluepotato@gmail.com" style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-      Bambi Blue Potato 
-    </a>
-  </p>
 
 </div>
 
