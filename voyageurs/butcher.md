@@ -101,7 +101,7 @@ Le <strong>Boucher</strong> permet une seconde exécution par jour.
 
 ---
 
-##  Conseils & Astuces pour les <span style="color:#d45b5b;">Maléfiques</span>)
+##  Conseils & Astuces pour les <span style="color:#d45b5b;">Maléfiques</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Favorisez l’élimination rapide des bons joueurs.</li>
