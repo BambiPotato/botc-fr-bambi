@@ -522,10 +522,9 @@ table.roles-grid td{
 <!-- ====== /SCRIPTS PERSONNALISÉS ====== -->
 
 ---
-
 <div style="
-  max-width:980px;
-  margin:40px auto;
+  width:100%;
+  margin:40px 0;
   padding:25px 20px;
   text-align:left;
   border:1px solid rgba(212,167,106,0.3);
@@ -550,7 +549,7 @@ table.roles-grid td{
     color:#e0c99d;
   ">
     <li> → <a href="https://botc.app/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Pour jouer en ligne à Blood on the Clocktower</a></li>
-    <li> → <a href="https://wiki.bloodontheclocktower.com/Main_Page" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Wiki officiel BotCTPI</a></li>
+    <li> → <a href="https://wiki.bloodontheclocktower.com/Main_Page" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Wiki officiel BotC TPI</a></li>
     <li> → <a href="https://www.botcscripts.com" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">BotC Scripts</a></li>
     <li> → <a href="https://script.bloodontheclocktower.com/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Outil officiel de création de scripts</a></li>
     <li> → <a href="https://savant.thegrim.gg/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Générateur d’informations pour le Savant</a></li>
