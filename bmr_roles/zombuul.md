@@ -12,7 +12,7 @@ title: Zombuul
 
 
 
-# 🧟 <span style="color:red">Zombuul</span>  
+#  <span style="color:red">Zombuul</span>  
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -26,7 +26,7 @@ title: Zombuul
 
 ---
 
-## ℹ️ <span style="color:#d45b5b;">Informations</span>  
+##  <span style="color:#d45b5b;">Informations</span>  
 
 - **Type :**[<span style="color:red">Démon</span>](../demons.md)  
 - **Artiste :** Aidan Roberts    
@@ -38,9 +38,9 @@ title: Zombuul
 ---
 
 
-## 🎭 Apparaît dans  
+##  Apparaît dans  
 
-# 🌝 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
+#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
@@ -62,7 +62,7 @@ title: Zombuul
 </p>
 
 
-## 📖 <span style="color:#d45b5b;">Résumé</span>     
+##  <span style="color:#d45b5b;">Résumé</span>     
 
 > **« Chaque nuit*, si personne n’est mort aujourd’hui, choisissez un joueur : il meurt.  
 > La première fois que vous mourez, vous restez en vie mais êtes considéré comme mort. »**
@@ -76,7 +76,7 @@ Le **Zombuul** est un Démon terrifiant qui peut **se faire passer pour un mort*
 
 ---
 
-## 🎭 <span style="color:#d45b5b;">Comment Conter</span>   
+##  <span style="color:#d45b5b;">Comment Conter</span>   
 
 1. **Quand le Zombuul meurt pour la première fois :**  
    - Déclarez-le **mort** publiquement, retournez son jeton de vie, mais **ne placez pas de linceul**.  
@@ -92,7 +92,7 @@ Le **Zombuul** est un Démon terrifiant qui peut **se faire passer pour un mort*
 
 ---
 
-## 🧩 <span style="color:#d45b5b;">Exemples</span>  
+##  <span style="color:#d45b5b;">Exemples</span>  
 
 - Le Zombuul est exécuté et semble mort. Il ne tue pas cette nuit-là.  
   Quelques jours plus tard, seuls deux joueurs paraissent vivants.  
@@ -106,13 +106,13 @@ Le **Zombuul** est un Démon terrifiant qui peut **se faire passer pour un mort*
 
 ---
 
-## 💡 <span style="color:#d45b5b;">Astuces & Stratégie</span> 
+##  <span style="color:#d45b5b;">Astuces & Stratégie</span> 
 
 Le **Zombuul** est un Démon redoutable de *Bad Moon Rising* : discret, trompeur et incroyablement résistant.  
 
 Vous êtes **le mort-vivant parfait** — capable de survivre à une exécution et de semer la confusion parmi les vivants.
 
-### 🧟‍♀️ Feindre la mort  
+###  Feindre la mort  
 
 - L’une de vos meilleures armes est de **mourir volontairement** au bon moment.  
   Si vous êtes exécuté, faites croire que la partie se poursuit à cause d’un autre effet.  
@@ -121,7 +121,7 @@ Vous êtes **le mort-vivant parfait** — capable de survivre à une exécution 
 - Vous pouvez **vous coordonner avec un [<span style="color:#d45b5b;">Parrain</span>](parrain.md)** pour qu’il vous « tue » au moment opportun, renforçant l’illusion.  
   Cela donne l’impression qu’un autre Démon (comme le [<span style="color:#d45b5b;">Shabaloth</span>](shabaloth.md) ou le [<span style="color:#d45b5b;">Po</span>](po.md)) est en jeu.  
 
-### ⚰️ Survivre longtemps  
+###  Survivre longtemps  
 
 - Vous pouvez être **exécuté deux fois avant de mourir réellement**.  
   Cela vous offre une **marge d’erreur** pour tromper le Village et détourner les soupçons.  
@@ -130,7 +130,7 @@ Vous êtes **le mort-vivant parfait** — capable de survivre à une exécution 
 - Encouragez les exécutions « sûres » (par exemple un [Marin](marin.md) ou les voisins d'une [Dame de Thé](damedethe.md)) et
   si ces joueurs ne meurent pas, vous pourrez tuer la nuit suivante.  
 
-### 🕯️ Jouer avec la paranoïa  
+###  Jouer avec la paranoïa  
 
 - Si la ville hésite à exécuter, feignez d’être du camp du Bien pour **les pousser à agir**.  
   Votre pouvoir ne s’active que si **personne ne meurt le jour**.  
@@ -141,7 +141,7 @@ Vous êtes **le mort-vivant parfait** — capable de survivre à une exécution 
 
 ---
 
-## ⚔️ <span style="color:#d45b5b;">Combattre le Zombuul</span>  
+##  <span style="color:#d45b5b;">Combattre le Zombuul</span>  
 
 - Soyez attentif au moment et à la raison des décès. Si des morts surviennent la nuit, 
   mais pas après la mort d'un joueur par exécution, 
@@ -156,8 +156,8 @@ Vous êtes **le mort-vivant parfait** — capable de survivre à une exécution 
 
 ---
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👹 <a href="../demons.html" style="color:red; font-weight:bold; text-decoration:none;">Retour aux Démons</a><br>
-  🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../demons.html" style="color:red; font-weight:bold; text-decoration:none;">Retour aux Démons</a><br>
+   <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
 </p>
  
