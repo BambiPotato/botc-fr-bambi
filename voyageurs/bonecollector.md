@@ -117,6 +117,5 @@ Le <strong>Collecteur d’os</strong> rend temporairement leur pouvoir aux joueu
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li><a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li> <a href="../sects_and_violets.html" style="color:#67bfff; font-weight:bold; text-decoration:none;">Retour à Sects & Violets</a></li>
   <li> <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
 </ul>
