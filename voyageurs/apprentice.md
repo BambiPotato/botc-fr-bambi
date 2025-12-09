@@ -119,6 +119,5 @@ L’<strong>Apprenti</strong> gagne une seule capacité selon son alignement et 
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li><a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li> <a href="../bmr.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a></li>
   <li> <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
 </ul>
