@@ -26,7 +26,7 @@ title: Pacifiste
 
 ---
 
-## ℹ️ <span style="color:blue">Informations</span>   
+##  <span style="color:blue">Informations</span>   
 
 - **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)  
 - **Artiste :** Aidan Roberts 
@@ -35,9 +35,9 @@ title: Pacifiste
 ---
 
 
-## 🎭 Apparaît dans  
+##  Apparaît dans  
 
-# 🌝 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
+#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
@@ -60,7 +60,7 @@ title: Pacifiste
 
 ---
 
-## 📖 <span style="color:blue">Résumé</span>  
+##  <span style="color:blue">Résumé</span>  
 
 > **« Les bons joueurs exécutés pourraient ne pas mourir. »**
 
@@ -72,18 +72,18 @@ Le **Pacifiste** peut empêcher la mort de joueurs bons lors de leur exécution.
 
 ---
 
-## 🎭 <span style="color:blue">Comment Conter</span>  
+##  <span style="color:blue">Comment Conter</span>  
 
 - Si un **joueur bon** est exécuté, déclarez simplement qu’il **meurt** ou qu’il **reste en vie** ( sans préciser pourquoi ).  
 - Commencez ensuite la **phase de nuit** normalement.  
 - L’effet peut être activé **une ou plusieurs fois** selon le rythme de la partie.  
 
-> 💡 Utiliser la capacité Pacifiste une fois par partie est généralement suffisant. 
+>  Utiliser la capacité Pacifiste une fois par partie est généralement suffisant. 
 > Vous pouvez l'utiliser plus souvent si vous le jugez approprié. Exceptionnellement, pour rendre le Pacifiste suspect, vous pouvez ne jamais l'utiliser.  
 
 ---
 
-## 🧩 <span style="color:blue">Exemples</span>  
+##  <span style="color:blue">Exemples</span>  
 
 - L’[Aubergiste](aubergiste.md) est exécuté, mais **reste en vie** grâce au Pacifiste.  
 - Le Pacifiste est en jeu. Après sept jours et cinq exécutions de joueurs bons, **aucune survie** n’a eu lieu : la capacité n’a jamais été activée.  
@@ -94,24 +94,24 @@ Le **Pacifiste** peut empêcher la mort de joueurs bons lors de leur exécution.
 
 ---
 
-## 💡 <span style="color:blue">Astuces & Stratégie</span>   
+##  <span style="color:blue">Astuces & Stratégie</span>   
 
 Le **Pacifiste** agit dans l’ombre.  
 Sa capacité dépend du **jugement du Conteur**, donc sa **discrétion** et sa **survie** sont primordiales.  
 
-### 🤫 <span style="color:blue">Jouer discrètement</span>     
+###  <span style="color:blue">Jouer discrètement</span>     
 
 - Ne vous **révélez pas tôt** : vous seriez immédiatement une cible pour le [<span style="color:red">Démon</span>](../demons.md).  
 - Bluffez en prétendant être un rôle peu menaçant, comme le [Fou](fou.md) ou le [Bricoleur](bricoleur.md).  
 - Vous pouvez révéler votre rôle à un joueur de confiance pour valider votre crédibilité si votre capacité se déclenche plus tard.  
 - Plus la partie avance, plus votre capacité devient **puissante et stratégique**.  
 
-### ⏳ <span style="color:blue">Quand se révéler ?</span>    
+###  <span style="color:blue">Quand se révéler ?</span>    
 
 - Attendez un **sauvetage visible** : si un joueur survit à une exécution, c’est votre moment pour parler.  
 - Si vous vous révélez avant, vous risquez de semer la confusion avec d’autres rôles protecteurs (comme le [Marin](marin.md), le [Fou](fou.md) ou la [Dame de Thé](damedethe.md)).  
 
-### 🤔 <span style="color:blue">Attention aux confusions</span>  
+###  <span style="color:blue">Attention aux confusions</span>  
 
 - Il existe de nombreuses raisons pour lesquelles on peut survivre, alors ne présumez pas immédiatement que c'est vous. 
 - Tirer des conclusions hâtives et révéler sa véritable identité alors qu'en réalité… 
@@ -128,7 +128,7 @@ Soyez prudent si vous soupçonnez sa présence et, de manière générale, évit
 
 ---
 
-## 😈 <span style="color:blue">Bluffer Pacifiste</span>    
+##  <span style="color:blue">Bluffer Pacifiste</span>    
 
 Le **Pacifiste** est un bluff **parfait pour les sbires**, car son effet est rare, flou et difficile à vérifier.  
 
@@ -141,7 +141,7 @@ Le **Pacifiste** est un bluff **parfait pour les sbires**, car son effet est rar
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
-  🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
+   <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
 </p>
