@@ -26,7 +26,7 @@ title: Professeur
 
 ---
 
-## ℹ️  <span style="color:blue">Informations</span>  
+##  <span style="color:blue">Informations</span>  
 
 - **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)  
 - **Artiste :** Aidan Roberts 
@@ -35,9 +35,9 @@ title: Professeur
 ---
 
 
-## 🎭 Apparaît dans  
+## Apparaît dans  
 
-# 🌝 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
+#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
@@ -60,7 +60,7 @@ title: Professeur
 
 ---
 
-## 📖 <span style="color:blue">Résumé</span>    
+##  <span style="color:blue">Résumé</span>    
 
 > **Une fois par partie, pendant la nuit, choisissez un joueur mort : si c’est un Villageois, il revient à la vie.** 
 > **Le Professeur peut ressusciter un joueur.**  
@@ -71,7 +71,7 @@ title: Professeur
 
 ---
 
-## 🎭 <span style="color:blue">Comment Conter</span>  
+##  <span style="color:blue">Comment Conter</span>  
 
 - Chaque nuit (sauf la première), réveillez le Professeur.  
 - Il peut secouer la tête (ne rien faire) ou choisir un joueur mort.  
@@ -80,7 +80,7 @@ title: Professeur
 
 ---
 
-## 🧩 <span style="color:blue">Exemples</span>   
+##  <span style="color:blue">Exemples</span>   
 
 - Le Professeur choisit un joueur mort prétendant être la [Dame de Thé](damedethe.md). En réalité, c’était le [Lunatique](lunatique.md). → Personne n’est ressuscité.  
 
@@ -90,7 +90,7 @@ title: Professeur
 
 ---
 
-## 💡 <span style="color:blue">Astuces & Conseils</span>  
+##  <span style="color:blue">Astuces & Conseils</span>  
 
 - Utilisez votre pouvoir **tôt** : les joueurs <span style="color:red">Maléfiques</span> tenteront sûrement de vous tuer rapidement.  
 - Utilisez-le **tard** : ressusciter un joueur confirmé en fin de partie peut totalement renverser la situation.  
@@ -101,7 +101,7 @@ title: Professeur
 
 ---
 
-## 🎭 <span style="color:blue">Bluffer Professeur</span>  
+##  <span style="color:blue">Bluffer Professeur</span>  
 
 - Préparez une explication si votre capacité « échoue ».  
 - Prétendez avoir essayé de ressusciter un joueur suspect : si ça ne marche pas, cela vous rend crédible.  
@@ -111,7 +111,7 @@ title: Professeur
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
-  🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
+   <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
 </p> 
