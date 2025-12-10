@@ -11,7 +11,7 @@ title: Enfant de la lune
 </p>
 
 
-# 🌝 <span style="color:blue">Enfant de la lune</span>  
+#  <span style="color:blue">Enfant de la lune</span>  
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -25,7 +25,7 @@ title: Enfant de la lune
 
 ---
 
-## ℹ️ <span style="color:blue">Informations</span>  
+##  <span style="color:blue">Informations</span>  
 
 - **Type :** [<span style="color:blue">Étranger</span>](../etrangers.md)    
 - **Artiste :** Aidan Roberts 
@@ -34,9 +34,9 @@ title: Enfant de la lune
 ---
 
 
-## 🎭 Apparaît dans  
+##  Apparaît dans  
 
-# 🌝 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
+#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
@@ -59,7 +59,7 @@ title: Enfant de la lune
 
 
 
-## 📖 <span style="color:blue">Résumé</span>  
+##  <span style="color:blue">Résumé</span>  
 
 > **« Lorsque vous apprenez que vous êtes mort, choisissez publiquement un joueur vivant. Cette nuit, si ce joueur était bon, il meurt. »**
 
@@ -76,13 +76,13 @@ L’**Enfant de la Lune** maudit un joueur à sa mort le tuant également.
 - L'Enfant de la Lune tue la [Brute](brute.md) si celle-ci était d'aligment bon au moment où l'Enfant de la Lune l'a choisi, indépendamment de son alignement nocturne.
 
 
-> 💡 *Astuce Conteur*
+>  *Astuce Conteur*
 > * Si l'Enfant de la Lune ne comprend pas qu'il doit choisir un joueur à sa mort, rappelez-le-lui discrètement. 
 > * Les nouveaux joueurs peuvent ne pas comprendre le fonctionnement de leur rôle.  
 
 ---
 
-## 🎭 <span style="color:blue">Comment Conter</span>   
+##  <span style="color:blue">Comment Conter</span>   
 
 - Dès que vous annoncez que **l’Enfant de la Lune est mort**, laissez-le choisir un joueur vivant publiquement.  
 - Si le joueur choisi est **bon**, placez un jeton **MORT (Enfant de la Lune)** sur son rôle.  
@@ -92,7 +92,7 @@ L’**Enfant de la Lune** maudit un joueur à sa mort le tuant également.
 
 ---
 
-## 🧩 <span style="color:blue">Exemples</span>     
+##  <span style="color:blue">Exemples</span>     
 
 - Le <a href="pukka.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pukka</a> tue l’Enfant de la Lune.  
   Le lendemain matin, l’Enfant de la Lune choisit l’[Exorciste](exorciste.md).  
@@ -108,23 +108,23 @@ L’**Enfant de la Lune** maudit un joueur à sa mort le tuant également.
 
 ---
 
-## 💡 <span style="color:blue">Astuces & Stratégies</span>    
+##  <span style="color:blue">Astuces & Stratégies</span>    
 
 L’Enfant de la Lune est un **Étranger dangereux** : en mourant, il peut provoquer **une mort supplémentaire** — mais uniquement parmi les joueurs bons.  
 Votre rôle demande donc réflexion, timing et un brin de tragédie.
 
-### 🌘 Choisir sagement votre cible  
+###  Choisir sagement votre cible  
 
 - Si vous choisissez un **joueur bon**, il mourra cette nuit : c’est souvent une **confirmation d’alignement** pour le groupe.  
   → Les joueurs sauront que cette personne était bonne et que votre capacité s’est bien déclenchée.  
 
 - Si vous choisissez un **joueur maléfique**, il ne mourra pas : vous obtenez donc une **piste d’accusation solide**.  
 
-💬 Avant votre mort, essayez de convenir avec le groupe **de qui vous choisirez** — cela peut transformer votre mort en source d’informations précieuses.
+ Avant votre mort, essayez de convenir avec le groupe **de qui vous choisirez** — cela peut transformer votre mort en source d’informations précieuses.
 
 ---
 
-### ☠️ Mourir au bon moment  
+###  Mourir au bon moment  
 
 - Mourir **trop tôt** peut être un gaspillage : vous priverez le Bien d’un joueur actif sans certitude.  
 - Mais mourir **volontairement** peut être utile si vous êtes soupçonné.  
@@ -133,7 +133,7 @@ Votre rôle demande donc réflexion, timing et un brin de tragédie.
 
 ---
 
-### 🧠 Anticiper les protections  
+###  Anticiper les protections  
 
 - Les joueurs **impossibles à tuer** (comme le [Marin](marin.md) ou le [Fou](fou.md)) survivront à votre malédiction.  
 - De même, les protections de la [Dame de Thé](damedethe.md) ou de l’[Aubergiste](aubergiste.md) peuvent **empêcher la mort**.  
@@ -141,7 +141,7 @@ Votre rôle demande donc réflexion, timing et un brin de tragédie.
 
 ---
 
-### 😈 Si le <a href="parrain.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parrain</a> est en jeu  
+###  Si le <a href="parrain.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parrain</a> est en jeu  
 
 - Le <a href="parrain.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parrain</a> tue pendant la même nuit où votre malédiction agit.  
   Cela peut créer **deux morts simultanées** — ou tromper le groupe sur qui a tué qui.  
@@ -149,26 +149,26 @@ Votre rôle demande donc réflexion, timing et un brin de tragédie.
 
 ---
 
-## 🎭  <span style="color:blue">Bluffer Enfant de la Lune</span>  
+##   <span style="color:blue">Bluffer Enfant de la Lune</span>  
 
-### 😇 Si, vous êtes <span style="color:blue">Bon</span>   
+###  Si, vous êtes <span style="color:blue">Bon</span>   
 
 - Prétendre être l’Enfant de la Lune peut **dissuader la ville de vous exécuter**, de peur de mourir à leur tour.  
 - Vous pouvez aussi annoncer **publiquement** qui vous choisiriez si vous mouriez — cela met la pression sur les joueurs.  
 
-### 😈 Si, vous êtes <span style="color:#d45b5b">Maléfique</span>  
+###  Si, vous êtes <span style="color:#d45b5b">Maléfique</span>  
 
 - Excellent bluff : vous pouvez **feindre de choisir** quelqu’un à votre mort.  
   Le Démon ou un Sbire pourra **tuer ce joueur** la nuit suivante pour renforcer votre crédibilité.  
 - À l’inverse, vous pouvez choisir un **vrai joueur du Bien** et le laisser en vie, pour semer la confusion et le faire passer pour maléfique.  
 
-💀 Variante efficace : prétendre être un Enfant de la Lune exécuté tard dans la partie, et simuler une malédiction sur un joueur-clef.  
+ Variante efficace : prétendre être un Enfant de la Lune exécuté tard dans la partie, et simuler une malédiction sur un joueur-clef.  
 Les bons joueurs perdront un temps précieux à analyser une fausse piste.
 
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  💈 <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Étrangers</a><br>
-  🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Étrangers</a><br>
+   <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
 </p>
