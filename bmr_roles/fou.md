@@ -13,7 +13,7 @@ title: Fou
 
 #   <span style="color:blue">Fou</span>  
 
-<!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
+<!--  Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./fou.html" style="text-decoration:none;">
     <img src="../images/Icon_fool.png" alt="Fou" width="350" style="border-radius:8px;">
@@ -25,7 +25,7 @@ title: Fou
 
 ---
 
-## ℹ️ <span style="color:blue">Informations</span>   
+##  <span style="color:blue">Informations</span>   
 
 - **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)  
 - **Artiste :** Anica Kelsen  
@@ -34,9 +34,9 @@ title: Fou
 ---
 
 
-## 🎭 Apparaît dans  
+##  Apparaît dans  
 
-# 🌝 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
+#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
@@ -58,7 +58,7 @@ title: Fou
 </p>
 
 
-## 📖 <span style="color:blue">Résumé</span>   
+##  <span style="color:blue">Résumé</span>   
 
 **« La première fois que vous mourrez, vous ne mourrez pas. »**
 
@@ -70,7 +70,7 @@ Le **Fou** échappe à la mort… **une seule fois**.
 
 ---
 
-## 🎭 <span style="color:blue">Comment Conter</span>   
+##  <span style="color:blue">Comment Conter</span>   
 
 - Si le Fou **devrait mourir**, il **reste en vie** (sauf s’il est ivre ou empoisonné).  
 - S’il est **exécuté**, annoncez qu’il a été exécuté **mais reste en vie** — sans en expliquer la raison.  
@@ -78,7 +78,7 @@ Le **Fou** échappe à la mort… **une seule fois**.
 
 ---
 
-## 🧩  <span style="color:blue">Exemples</span>  
+##   <span style="color:blue">Exemples</span>  
 
 - Le premier jour, le Fou est exécuté mais **survit**.  
   Le quatrième jour, il est exécuté à nouveau : cette fois, il **meurt**.  
@@ -94,31 +94,31 @@ Le **Fou** échappe à la mort… **une seule fois**.
 
 ---
 
-## 💡 <span style="color:blue">Astuces & Stratégie</span>   
+##  <span style="color:blue">Astuces & Stratégie</span>   
 
 Le **Fou** est un rôle de survie : il peut **respirer une fois de plus** dans un monde sanglant.  
 Mais bien joué, il peut aussi **protéger des alliés** et **piéger les Maléfiques**.  
 
-### 🤡 <span style="color:blue">Jouer avec audace</span>  
+###  <span style="color:blue">Jouer avec audace</span>  
 
 - Votre capacité vous protège **une seule fois**.  
   Utilisez-la pour **bluffer** : prétendez être un [Exorciste](exorciste.md) ou un [Courtisan](courtisan.md) afin d’attirer du [<span style="color:red">Démon</span>](../demons.md).  
 - Contre des Démons comme le [<span style="color:red">Po</span>](po.md) ou le [<span style="color:red">Shabaloth</span>](shabaloth.md), c’est une excellente tactique :  
   s’ils vous visent, vous survivez… et un autre joueur bon aussi !  
 
-### ⚖️ <span style="color:blue">L’exécution comme preuve</span>    
+###  <span style="color:blue">L’exécution comme preuve</span>    
 
 - Si le Village doute de vous, proposez une **exécution volontaire** :  
   vous ne mourrez pas, ce qui prouve (en apparence) votre rôle.  
 - Attention toutefois : cette preuve **n’est pas absolue** — un [<span style="color:red">Avocat du Diable</span>](avocatdudiable.md) pourrait produire le même effet.  
 - Perdre votre capacité ainsi vous rend vulnérable la nuit suivante : pesez le risque.  
 
-### 🔍 <span style="color:blue">Observer les morts</span>   
+###  <span style="color:blue">Observer les morts</span>   
 
 - Si le rythme des morts change par exemple une mort de moins dans la nuit, il est possible que votre capacité se soit déclenchée.  
 - Vous pouvez alors déduire que le [<span style="color:red">Démon</span>](../demons.md) vous a visé.  
 
-### 🛡️ <span style="color:blue">Protéger et détourner</span>  
+###  <span style="color:blue">Protéger et détourner</span>  
 
 - Vous pouvez **bluffer** pour protéger un autre joueur.  
   Par exemple, si le [Pacifiste](pacifiste.md) veut se cacher, prétendez être lui.  
@@ -129,7 +129,7 @@ Mais bien joué, il peut aussi **protéger des alliés** et **piéger les Maléf
 
 ---
 
-## 😈 <span style="color:blue">Bluffer Fou</span>   
+##  <span style="color:blue">Bluffer Fou</span>   
 
 - **Pour les bons joueurs :**  
   Le Fou est un **excellent bluff défensif**.  
@@ -153,7 +153,7 @@ Mais bien joué, il peut aussi **protéger des alliés** et **piéger les Maléf
 
 ---
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
-  🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
+   <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
 </p>
