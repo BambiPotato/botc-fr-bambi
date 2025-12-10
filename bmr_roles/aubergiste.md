@@ -11,7 +11,7 @@ title: Aubergiste
 </p>
 
 
-# 🏨 <span style="color:blue">Aubergiste</span>  
+#  <span style="color:blue">Aubergiste</span>  
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -25,7 +25,7 @@ title: Aubergiste
 
 ---
 
-## ℹ️ <span style="color:blue">Informations</span>  
+##  <span style="color:blue">Informations</span>  
 
 - **Type :**[<span style="color:blue">**Villageois**</span>](../villageois.md)  
 - **Artiste :** John Grist 
@@ -35,9 +35,9 @@ title: Aubergiste
 ---
 
 
-## 🎭 Apparaît dans  
+##  Apparaît dans  
 
-# 🌝 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
+#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
@@ -60,7 +60,7 @@ title: Aubergiste
 
 
 
-## 📖 <span style="color:blue">Résumé</span>    
+##  <span style="color:blue">Résumé</span>    
 
 
 « Chaque nuit*, choisissez **2 joueurs** : ils ne peuvent pas mourir cette nuit mais l'un d'eux est ivre jusqu'au crépuscule. »  
@@ -74,7 +74,7 @@ L’**Aubergiste** protège ses clients des morts nocturnes, mais enivre l’un 
 
 ---
 
-## 🎭 <span style="color:blue">Comment Conter</span>   
+##  <span style="color:blue">Comment Conter</span>   
 
 - Chaque nuit (sauf la première), réveillez l’Aubergiste.  
 - Il choisit deux joueurs.  
@@ -82,12 +82,12 @@ L’**Aubergiste** protège ses clients des morts nocturnes, mais enivre l’un 
 - Choisissez l’un des deux pour être ivre → placez un jeton **IVRE**.  
 - Les joueurs **protégés** ne peuvent pas mourir cette nuit.  
 
-➡️ Au lever du jour, retirez les jetons **PROTÉGÉ**.  
-➡️ Au crépuscule suivant, retirez le jeton **IVRE**.  
+- Au lever du jour, retirez les jetons **PROTÉGÉ**.  
+- Au crépuscule suivant, retirez le jeton **IVRE**.  
 
 ---
 
-## 🧩 <span style="color:blue">Exemples</span>   
+##  <span style="color:blue">Exemples</span>   
 
 - L’Aubergiste protège le [Fou](fou.md) et la [Femme de Chambre](femmedecha.md).  
   → Le Conteur choisit d’enivrer le Fou. Le lendemain, quand le Fou est exécuté, il meurt au lieu de survivre.  
@@ -100,7 +100,7 @@ L’**Aubergiste** protège ses clients des morts nocturnes, mais enivre l’un 
 
 ---
 
-## 💡 <span style="color:blue">Astuces & Conseils</span>    
+##  <span style="color:blue">Astuces & Conseils</span>    
 
 - Votre pouvoir est **très puissant** : bien utilisé, vous pouvez bloquer les meurtres nocturnes et rallonger la partie.  
 
@@ -117,7 +117,7 @@ L’**Aubergiste** protège ses clients des morts nocturnes, mais enivre l’un 
 
 ---
 
-## 🎭 <span style="color:blue">Bluffer Aubergiste</span>  
+##  <span style="color:blue">Bluffer Aubergiste</span>  
 
 - Si vous êtes un [<span style="color:red">Démon</span>](../demons.md), **ne tuez pas** les joueurs que vous prétendez protéger, sinon vos mensonges seront évidents.  
 
@@ -167,7 +167,7 @@ L’**Aubergiste** protège ses clients des morts nocturnes, mais enivre l’un 
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
-  🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
+   <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
 </p>
