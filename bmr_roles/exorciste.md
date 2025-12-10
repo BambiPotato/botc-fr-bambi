@@ -25,7 +25,7 @@ title: Exorciste
 
 ---
 
-## ℹ️ <span style="color:blue">Informations</span>  
+##  <span style="color:blue">Informations</span>  
 
 - **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)  
 - **Artiste :** Aidan Roberts 
@@ -34,9 +34,9 @@ title: Exorciste
 ---
 
 
-## 🎭 Apparaît dans  
+##  Apparaît dans  
 
-# 🌝 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
+#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
@@ -74,7 +74,7 @@ L’**Exorciste** empêche le [<span style="color:red">Démon</span>](../demons.
 
 ---
 
-## 🎭 <span style="color:blue">Comment Conter</span>    
+##  <span style="color:blue">Comment Conter</span>    
 
 - Chaque nuit (sauf la première), réveillez l’Exorciste.  
 - Il désigne un joueur → placez le jeton **CHOISI** sur ce rôle, puis rendormez l’Exorciste.  
@@ -88,7 +88,7 @@ L’**Exorciste** empêche le [<span style="color:red">Démon</span>](../demons.
 
 ---
 
-## 🧩 <span style="color:blue">Exemples</span>      
+##  <span style="color:blue">Exemples</span>      
 
 - L’Exorciste choisit le [<span style="color:red">Shabaloth</span>](../bmr_roles/shabaloth.md).  
   → Cette nuit-là, personne ne meurt.  
@@ -101,7 +101,7 @@ L’**Exorciste** empêche le [<span style="color:red">Démon</span>](../demons.
 
 ---
 
-## 💡 <span style="color:blue">Astuces & Conseils</span>   
+##  <span style="color:blue">Astuces & Conseils</span>   
 
 - Si vous choisissez un joueur et qu’il n’y a **aucune mort** cette nuit-là, vous avez peut-être trouvé le [<span style="color:red">Démon</span>](../demons.md) !  
   - Vous pouvez révéler publiquement votre identité.  
@@ -128,7 +128,7 @@ L’**Exorciste** empêche le [<span style="color:red">Démon</span>](../demons.
 
 ---
 
-## 🎭 <span style="color:blue">Bluffer Exorciste</span>  
+##  <span style="color:blue">Bluffer Exorciste</span>  
 
 - Ne révélez pas votre rôle trop tôt : un vrai Exorciste **reste discret**.  
 - Utilisez ce bluff pour parler en privé avec les [<span style="color:red">Sbires</span>](../sbires.md) ou le [<span style="color:red">Démon</span>](../demons.md).  
@@ -184,7 +184,7 @@ L’**Exorciste** empêche le [<span style="color:red">Démon</span>](../demons.
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
-  🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
+   <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
 </p>
