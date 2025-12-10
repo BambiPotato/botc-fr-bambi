@@ -25,7 +25,7 @@ title: Commère
 
 ---
 
-## ℹ️ <span style="color:blue">Informations</span>  
+##  <span style="color:blue">Informations</span>  
 
 - **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)  
 - **Artiste :** Aidan Roberts   
@@ -35,9 +35,9 @@ title: Commère
 ---
 
 
-## 🎭 Apparaît dans  
+##  Apparaît dans  
 
-# 🌝 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
+#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
@@ -58,7 +58,7 @@ title: Commère
 "Cult of the Clocktower – épisode par Andrew Nathenson"
 </p>
 
-## 📖 <span style="color:blue">Résumé</span>   
+##  <span style="color:blue">Résumé</span>   
 
 « Chaque jour, vous pouvez faire une déclaration publique. Cette nuit, si c'était vrai, un joueur meurt. »  
 
@@ -72,15 +72,16 @@ La **Commère** sème des rumeurs : si elles sont vraies, elles coûtent la vie 
 
 ---
 
-## 🎭 <span style="color:blue">Comment Conter</span>    
+##  <span style="color:blue">Comment Conter</span>    
 
 - Chaque jour, si la Commère fait une **déclaration claire et vérifiable**, notez-le.  
 - Chaque nuit (sauf la première), si la déclaration était **vraie**, le Conteur choisit un joueur et le tue.  
 - Si possible, choisissez un joueur dont la mort sera visible et utile et et non un rôle protégé par un pouvoir comme le [Fou](fou.md) ou la [Dame de Thé](damedethe.md).  
 - La Commère acquiert des connaissances lorsque ses commérages entraînent une mort. C'est plus avantageux pour l'équipe du Bien et plus amusant pour tous.
+
 ---
 
-## 🧩 <span style="color:blue">Exemples</span>   
+##  <span style="color:blue">Exemples</span>   
 
 - La Commère dit : *« Le <span style="color:red">Démon</span> porte un chapeau. »* → Le <span style="color:red">Démon</span> n’en porte pas → personne ne meurt à cause d’elle cette nuit-là.  
 
@@ -90,7 +91,7 @@ La **Commère** sème des rumeurs : si elles sont vraies, elles coûtent la vie 
 
 ---
 
-## 💡 <span style="color:blue">Astuces & Conseils</span>   
+##  <span style="color:blue">Astuces & Conseils</span>   
 
 - **Utilisez votre capacité chaque jour !** Même si elle peut causer une mort involontaire, elle apporte énormément d’informations.  
 
@@ -115,7 +116,7 @@ La **Commère** sème des rumeurs : si elles sont vraies, elles coûtent la vie 
 
 ---
 
-## 🎭 <span style="color:blue">Bluffer Commère</span>  
+##  <span style="color:blue">Bluffer Commère</span>  
 
 - **Version prudente :** faites des déclarations peu risquées, qui paraissent crédibles mais n’apportent rien. Vous paraissez bon, mais vos infos sont négligeables.  
 
@@ -130,7 +131,7 @@ La **Commère** sème des rumeurs : si elles sont vraies, elles coûtent la vie 
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
-  🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
+   <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
 </p>
