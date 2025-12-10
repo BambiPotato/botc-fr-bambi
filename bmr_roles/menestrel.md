@@ -25,7 +25,7 @@ title: Menestrel
 
 ---
 
-## ℹ️ <span style="color:blue">Informations</span>   
+##  <span style="color:blue">Informations</span>   
 
 - **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)  
 - **Artiste :** John Grist  
@@ -37,9 +37,9 @@ title: Menestrel
 ---
 
 
-## 🎭 Apparaît dans  
+##  Apparaît dans  
 
-# 🌝 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
+#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
@@ -61,7 +61,7 @@ title: Menestrel
 </p>
 
 
-## 📖 <span style="color:blue">Résumé</span>  
+##  <span style="color:blue">Résumé</span>  
 
 **« Lorsqu’un [<span style="color:red">Sbire</span>](../sbires.md) meurt par exécution, tous les autres joueurs (sauf les [<span style="color:#9b59b6">Voyageurs</span>](../voyageurs/voyageurs.md)) deviennent ivres jusqu’au crépuscule du lendemain. »**
 
@@ -76,18 +76,18 @@ Le **Ménestrel** rend tout le monde ivre lorsqu’un [<span style="color:red">S
 
 ---
 
-## 🎭 <span style="color:blue">Comment Conter</span>  
+##  <span style="color:blue">Comment Conter</span>  
 
 Pendant la journée, si un [<span style="color:red">Sbire</span>](../sbires.md) meurt par exécution :  
 
-➡️ Tous les autres joueurs sauf les [<span style="color:#9b59b6">Voyageurs</span>](../voyageurs/voyageurs.md) deviennent **ivres**.  
+ Tous les autres joueurs sauf les [<span style="color:#9b59b6">Voyageurs</span>](../voyageurs/voyageurs.md) deviennent **ivres**.  
 Placez le jeton de rappel **« TOUT LE MONDE EST IVRE »** au centre du Grimoire.  
 
-➡️ Au **crépuscule du lendemain**, tous les joueurs affectés redeviennent **sobres** — retirez le jeton.  
+ Au **crépuscule du lendemain**, tous les joueurs affectés redeviennent **sobres** — retirez le jeton.  
 
 ---
 
-## 🧩 <span style="color:blue">Exemples</span>  
+##  <span style="color:blue">Exemples</span>  
 
 - **Premier jour :** le [Pacifiste](pacifiste.md) meurt. Rien ne se passe.  
   **Deuxième jour :** le [<span style="color:#9b59b6">Juge</span>](../voyageurs/judge.md) fait exécuter le [<span style="color:red">Parrain</span>](parrain.md). Cette nuit-là, tout le monde est ivre, y compris le [<span style="color:red">Démon</span>](../demons.md), donc personne ne meurt.  
@@ -104,14 +104,14 @@ Placez le jeton de rappel **« TOUT LE MONDE EST IVRE »** au centre du Grimoire
 
 ---
 
-## 💡 <span style="color:blue">Astuces & Stratégie</span>  
+##  <span style="color:blue">Astuces & Stratégie</span>  
 
 Le **Ménestrel** semble faible, mais il fournit en réalité **des informations extrêmement fiables**.  
 
 - Après une exécution, si quelqu’un meurt durant la nuit, vous savez que l’exécuté **n’était pas un [<span style="color:red">Sbire</span>](../sbires.md)**.  
 - Comme l’exécution d’un [<span style="color:red">Démon</span>](../demons.md) met souvent fin à la partie (sauf cas particuliers comme un [<span style="color:red">Zombuul</span>](zombuul.md) ou un [<span style="color:red">Conspirateur</span>](cerveau.md) en jeu), vous pouvez en déduire qu’il s’agissait d’un **joueur du Bien** !  
 
-### 🎭 <span style="color:blue">Interpréter les nuits sans mort</span>    
+###  <span style="color:blue">Interpréter les nuits sans mort</span>    
 
 Si un [<span style="color:red">Sbire</span>](../sbires.md) est exécuté, votre capacité s’active et **personne ne meurt cette nuit-là**.  
 Mais attention : dans *Bad Moon Rising*, il existe **de nombreuses raisons** à l’absence de mort ([Exorciste](exorciste.md), [Aubergiste](aubergiste.md), [<span style="color:red">Po</span>](po.md), etc.).  
@@ -121,19 +121,19 @@ Pour confirmer que votre capacité est en cause :
 - Notez si des protections cessent de fonctionner ([Pacifiste](pacifiste.md), [<span style="color:red">Avocat du Diable</span>](avocatdudiable.md)).  
 - Vérifiez si des morts aléatoires (comme le [Bricoleur](bricoleur.md)) ne se produisent pas.  
 
-### 🪦  <span style="color:blue">Favorisez les exécutions</span>    
+###   <span style="color:blue">Favorisez les exécutions</span>    
 
 Plus il y a d’exécutions, plus vous avez de chances d’éliminer un [<span style="color:red">Sbire</span>](../sbires.md).  
 Même si les bons joueurs hésitent à exécuter souvent, éliminer un [<span style="color:red">Assassin</span>](assassin.md) peut offrir **une nuit de répit**.  
 
-### 😌 <span style="color:blue">Survivre plus longtemps</span>      
+###  <span style="color:blue">Survivre plus longtemps</span>      
 
 Les [<span style="color:red">Démons</span>](../demons.md) sous-estiment souvent le Ménestrel, le laissant en vie.  
 Profitez-en pour garder votre identité secrète jusqu’à ce qu’un [<span style="color:red">Sbire</span>](../sbires.md) tombe — l’effet sera spectaculaire !  
 
 ---
 
-## 😈 <span style="color:blue">Bluffer Ménestrel</span>  
+##  <span style="color:blue">Bluffer Ménestrel</span>  
 
 Le **Ménestrel** est un **excellent bluff passif** : facile à maintenir, crédible et discret.  
 
@@ -170,9 +170,9 @@ Le **Ménestrel** est un **excellent bluff passif** : facile à maintenir, créd
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
-  🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
+   <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
 </p>
 
 
