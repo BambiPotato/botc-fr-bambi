@@ -11,7 +11,7 @@ title: Femme de chambre
 </p>
 
 
-#  🧹 <span style="color:blue">Femme de chambre</span>  
+#   <span style="color:blue">Femme de chambre</span>  
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -25,7 +25,7 @@ title: Femme de chambre
 
 ---
 
-## ℹ️ <span style="color:blue">Informations</span>   
+##  <span style="color:blue">Informations</span>   
 
 - **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)  
 - **Artiste :** Aidan Roberts 
@@ -34,9 +34,9 @@ title: Femme de chambre
 ---
 
 
-## 🎭 Apparaît dans  
+##  Apparaît dans  
 
-# 🌝 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
+#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
@@ -59,7 +59,7 @@ title: Femme de chambre
 
 
 
-## 📖 <span style="color:blue">Résumé</span>   
+##  <span style="color:blue">Résumé</span>   
 
 « Chaque nuit, choisissez **2 joueurs vivants** (pas vous-même) : vous apprenez combien se sont réveillés cette nuit grâce à leur capacité. »  
 
@@ -73,7 +73,7 @@ La **Femme de Chambre** permet de savoir qui s’est réveillé la nuit.
 
 ---
 
-## 🧩 <span style="color:blue">Comment Conter</span>  
+##  <span style="color:blue">Comment Conter</span>  
 
 - Chaque nuit, réveillez la Femme de Chambre.  
 - Elle choisit deux joueurs vivants.  
@@ -87,7 +87,7 @@ La **Femme de Chambre** permet de savoir qui s’est réveillé la nuit.
 
 ---
 
-## 🧩 <span style="color:blue">Exemples</span>  
+##  <span style="color:blue">Exemples</span>  
 
 - La Femme de Chambre choisit l’[Exorciste](exorciste.md) et l’[Aubergiste](aubergiste.md).  
   → Elle apprend « 2 ».  
@@ -104,7 +104,7 @@ La **Femme de Chambre** permet de savoir qui s’est réveillé la nuit.
 
 ---
 
-## 💡 <span style="color:blue">Astuces & Conseils</span>  
+##  <span style="color:blue">Astuces & Conseils</span>  
 
 - Vous ne détectez pas directement les <span style="color:red">maléfiques</span>, mais vous détectez **les menteurs**.  
   - Un joueur qui dit être [Parieur](parieur.md) mais qui ne se réveille pas → il ment.  
@@ -122,7 +122,7 @@ La **Femme de Chambre** permet de savoir qui s’est réveillé la nuit.
 
 ---
 
-## 🎭 <span style="color:blue">Bluffer Femme de Chambre</span>  
+##  <span style="color:blue">Bluffer Femme de Chambre</span>  
 
 - Si vous savez qui est qui, vous pouvez **donner des infos exactes** → vous et eux paraissez crédibles.  
 - Si vous ne savez pas, vous pouvez mentir : ex. dire « 1 » est le plus sûr (ça passe presque toujours).  
@@ -150,7 +150,7 @@ La **Femme de Chambre** permet de savoir qui s’est réveillé la nuit.
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
-  🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
+   <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
 </p>
