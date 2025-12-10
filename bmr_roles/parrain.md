@@ -22,7 +22,7 @@ title: Parrain
 
 ---
 
-## ℹ️ <span style="color:#d45b5b;">Informations</span>  
+##  <span style="color:#d45b5b;">Informations</span>  
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
@@ -38,9 +38,9 @@ title: Parrain
 
 ---
 
-## 🎭 Apparaît dans  
+##  Apparaît dans  
 
-# 🌝 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
+#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
@@ -62,7 +62,7 @@ title: Parrain
 
 ---
 
-## 📖 <span style="color:#d45b5b;">Résumé</span>  
+##  <span style="color:#d45b5b;">Résumé</span>  
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0 40px;">
   <strong>« Vous commencez en sachant quels
@@ -94,7 +94,7 @@ title: Parrain
 
 ---
 
-## ℹ️ <span style="color:#d45b5b;">Comment Conter</span>  
+##  <span style="color:#d45b5b;">Comment Conter</span>  
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Lors de la <strong>mise en place</strong>, avant de distribuer les jetons,  
@@ -110,7 +110,7 @@ title: Parrain
 
 ---
 
-## 🧩 <span style="color:#d45b5b;">Exemples</span>   
+##  <span style="color:#d45b5b;">Exemples</span>   
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
@@ -139,7 +139,7 @@ title: Parrain
 
 ---
 
-## 💡 <span style="color:#d45b5b;">Astuces &amp; Stratégies</span>  
+##  <span style="color:#d45b5b;">Astuces &amp; Stratégies</span>  
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0 40px;">
   Le <strong>Parrain</strong> combine deux forces redoutables&nbsp;:  
@@ -147,7 +147,7 @@ title: Parrain
   Joué avec subtilité, il peut dévaster le camp du Bien tout en semant le doute sur son existence.
 </p>
 
-### 🩸 <span style="color:#d45b5b;">Exploiter les Étrangers</span>  
+###  <span style="color:#d45b5b;">Exploiter les Étrangers</span>  
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Vous commencez en sachant exactement quels
@@ -159,7 +159,7 @@ title: Parrain
       accusez un joueur d’être un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> déguisé.</li>
 </ul>
 
-### ⚰️ <span style="color:#d45b5b;">Provoquer des exécutions utiles</span>  
+###  <span style="color:#d45b5b;">Provoquer des exécutions utiles</span>  
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Faites en sorte que les
@@ -174,7 +174,7 @@ title: Parrain
       vous pouvez éliminer jusqu’à trois joueurs en une seule nuit.</li>
 </ul>
 
-### 😈 <span style="color:#d45b5b;">Manipuler le nombre d’Étrangers</span>  
+###  <span style="color:#d45b5b;">Manipuler le nombre d’Étrangers</span>  
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Si le groupe découvre qu’il y a trop ou pas assez d’Étrangers,  
@@ -183,7 +183,7 @@ title: Parrain
       votre existence passera plus facilement inaperçue.</li>
 </ul>
 
-### 🎯 <span style="color:#d45b5b;">Choisir la bonne cible</span>  
+###  <span style="color:#d45b5b;">Choisir la bonne cible</span>  
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Coordonnez-vous avec votre <span style="color:#d45b5b; font-weight:bold;">Démon</span> pour viser des joueurs différents,  
@@ -194,7 +194,7 @@ title: Parrain
 
 ---
 
-## ⚔️ <span style="color:#d45b5b;">Combattre le Parrain</span> 
+##  <span style="color:#d45b5b;">Combattre le Parrain</span> 
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0 40px;">
   Pour les joueurs et joueuses <span style="color:#4ea3ff; font-weight:bold;">Bons</span>&nbsp;:
@@ -213,7 +213,7 @@ title: Parrain
 
 ---
 
-## 🎭 <span style="color:#d45b5b;">Bluffer : se faire passer pour le Parrain</span>   
+##  <span style="color:#d45b5b;">Bluffer : se faire passer pour le Parrain</span>   
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>En bluffant <strong>Parrain</strong>, vous pouvez faire peur aux Étrangers  
@@ -228,7 +228,7 @@ title: Parrain
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  😈 <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Retour aux Sbires</a><br>
-  🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Retour aux Sbires</a><br>
+   <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
 </p>
