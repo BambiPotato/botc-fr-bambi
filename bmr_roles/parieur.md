@@ -12,7 +12,7 @@ title: Parieur
 
 
 
-# 🎲  <span style="color:blue">Parieur</span>  
+#   <span style="color:blue">Parieur</span>  
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -26,7 +26,7 @@ title: Parieur
 
 ---
 
-## ℹ️ <span style="color:blue">Informations</span>  
+##  <span style="color:blue">Informations</span>  
 
 - **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)  
 - **Artiste :** Aidan Roberts 
@@ -35,9 +35,9 @@ title: Parieur
 ---
 
 
-## 🎭 Apparaît dans  
+##  Apparaît dans  
 
-# 🌝 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
+#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
@@ -59,7 +59,7 @@ title: Parieur
 </p>
 
 
-## 📖 <span style="color:blue">Résumé</span>    
+##  <span style="color:blue">Résumé</span>    
 
 > « Chaque nuit* (sauf la première), choisissez un joueur et devinez son rôle.  
 > → Si vous vous trompez, vous mourrez. »  
@@ -74,7 +74,7 @@ Le joueur peut tenter de deviner qui possède quel rôle… mais il en paie le p
 
 ---
 
-## 🎭 <span style="color:blue">Comment Conter</span>   
+##  <span style="color:blue">Comment Conter</span>   
 
 - Chaque nuit (sauf la première), réveillez le Parieur.  
 - Il pointe un joueur, puis l’icône d’un rôle sur la feuille.  
@@ -83,7 +83,7 @@ Le joueur peut tenter de deviner qui possède quel rôle… mais il en paie le p
 
 ---
 
-## 🧩 <span style="color:blue">Exemples</span>   
+##  <span style="color:blue">Exemples</span>   
 
 - Le Parieur choisit le [Ménestrel](menestrel.md) et pointe l’icône du Ménestrel.  
   → Bonne prédiction, il reste en vie… mais est tué la même nuit par le [<span style="color:red">Shabaloth</span>](shabaloth.md).  
@@ -94,7 +94,7 @@ Le joueur peut tenter de deviner qui possède quel rôle… mais il en paie le p
 
 ---
 
-## 💡 <span style="color:blue">Astuces & Conseils</span>    
+##  <span style="color:blue">Astuces & Conseils</span>    
 
 - Le Parieur est un rôle à **fort risque mais très fiable** : si vous survivez, c’est que votre intuition était juste.  
 
@@ -114,7 +114,7 @@ Le joueur peut tenter de deviner qui possède quel rôle… mais il en paie le p
 
 ---
 
-## 🎭 <span style="color:blue">Bluffer Parieur</span>  
+##  <span style="color:blue">Bluffer Parieur</span>  
 
 - Aidez vos alliés [<span style="color:red">maléfiques</span>](../sbires.md) en prétendant avoir « confirmé » leur rôle.  
   → Exemple : « J’ai parié que Nicolas était [Dame de Thé](damedethe.md), et je suis encore vivant. »  
@@ -130,8 +130,8 @@ Le joueur peut tenter de deviner qui possède quel rôle… mais il en paie le p
 
 ---
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
-  🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
+   <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
 </p>
 
