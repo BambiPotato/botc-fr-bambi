@@ -11,13 +11,13 @@ title: Outil de Script
 
 <!--  Outil de Script -->
 
-<h1 style="color:#d4a76a; font-weight:bold; font-size:36px;"> Outil de Script</h1>
+<h1 style="color:#b58b52; font-weight:bold; font-size:36px;"> Outil de Script</h1>
 
-<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   Chaque conteur et chaque conteuse est aussi un ou une créatrice. Composez votre propre histoire, un rôle à la fois.
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.8;">
+<p style="color:#e0c99d; font-size:18px; line-height:1.8;">
 Une fois que vous maîtrisez les rôles des trois éditions principales, 
 vous pouvez créer vos propres listes de rôles uniques&nbsp;: les <strong>scripts personnalisés</strong>. 
 C’est la meilleure façon de renouveler vos parties de <em>Blood on the Clocktower</em>.
@@ -85,8 +85,10 @@ Recueillez les retours des joueurs et joueuses après chaque partie pour ajuster
 <h2 id="voyageurs-legendaire" style="color:#d4a76a; font-weight:bold;">. Ajouter les Voyageurs et les Légendaires</h2>
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Intégrer des <a href="./voyageurs/voyageurs.html" style="color:purple; font-weight:bold; text-decoration:none;">Voyageurs</a> à un script personnalisé est simple. 
-Les <a href="./voyageurs/voyageurs.html" style="color:purple; font-weight:bold; text-decoration:none;">Voyageurs</a> peuvent rejoindre une partie en cours et apporter des rebonds intéressants. 
-De même, les <a href="./legendaires.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Légendaires</a> 
+Les 
+<a href="./voyageurs/voyageurs.html" style="color:purple; font-weight:bold; text-decoration:none;">Voyageurs</a> peuvent rejoindre une partie en cours et apporter des rebonds intéressants. 
+De même, les 
+<a href="./legendaires.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Légendaires</a> 
 aident à ajuster l’équilibre et à résoudre des cas particuliers.
 </p>
 
