@@ -9,7 +9,7 @@ title: AVOCAT DU DIABLE
   </a>
 </p>
 
-# ⚖️ <span style="color:#d45b5b;">Avocat du Diable</span>  
+#  <span style="color:#d45b5b;">Avocat du Diable</span>  
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -22,7 +22,7 @@ title: AVOCAT DU DIABLE
 
 ---
 
-## ℹ️ <span style="color:#d45b5b;">Informations</span>    
+##  <span style="color:#d45b5b;">Informations</span>    
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
@@ -38,9 +38,9 @@ title: AVOCAT DU DIABLE
 
 ---
 
-## 🎭 Apparaît dans  
+##  Apparaît dans  
 
-# 🌝 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
+#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
@@ -62,7 +62,7 @@ title: AVOCAT DU DIABLE
 
 ---
 
-## 📖 <span style="color:#d45b5b;">Résumé</span>  
+##  <span style="color:#d45b5b;">Résumé</span>  
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0 40px;">
   <strong>« Chaque nuit, choisissez un joueur vivant (différent de la nuit précédente)&nbsp;:  
@@ -84,7 +84,7 @@ title: AVOCAT DU DIABLE
 
 ---
 
-## 🎭 <span style="color:#d45b5b;">Comment Conter</span>    
+##  <span style="color:#d45b5b;">Comment Conter</span>    
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Chaque nuit, réveillez l’<strong>Avocat du Diable</strong>. Il désigne un joueur vivant.</li>
@@ -98,7 +98,7 @@ title: AVOCAT DU DIABLE
 
 ---
 
-## 🧩 <span style="color:#d45b5b;">Exemples</span>  
+##  <span style="color:#d45b5b;">Exemples</span>  
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>L’<strong>Avocat du Diable</strong> se protège lui-même.  
@@ -126,7 +126,7 @@ title: AVOCAT DU DIABLE
 
 ---
 
-## 💡 <span style="color:#d45b5b;">Astuces &amp; Stratégies</span>   
+##  <span style="color:#d45b5b;">Astuces &amp; Stratégies</span>   
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0 40px;">
   L’<strong>Avocat du Diable</strong> est un maître de la manipulation judiciaire&nbsp;:
@@ -134,7 +134,7 @@ title: AVOCAT DU DIABLE
   Joué avec précision, il peut rendre toute exécution suspecte.
 </p>
 
-### ⚖️ <span style="color:#d45b5b;">Protéger avec discernement</span>  
+###  <span style="color:#d45b5b;">Protéger avec discernement</span>  
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Votre priorité est de <strong>protéger votre Démon</strong>.  
@@ -152,7 +152,7 @@ title: AVOCAT DU DIABLE
 
 ---
 
-### 🧠 <span style="color:#d45b5b;">Détourner les soupçons</span>  
+###  <span style="color:#d45b5b;">Détourner les soupçons</span>  
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Protéger un joueur bon peut parfois être une excellente stratégie.  
@@ -169,7 +169,7 @@ title: AVOCAT DU DIABLE
 
 ---
 
-### 🩸 <span style="color:#d45b5b;">Maximiser votre impact</span>  
+###  <span style="color:#d45b5b;">Maximiser votre impact</span>  
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>En fin de partie, assurez-vous d’être prêt à <strong>protéger le Démon</strong> le dernier jour.  
@@ -188,7 +188,7 @@ title: AVOCAT DU DIABLE
 
 ---
 
-## ⚔️ <span style="color:#d45b5b;">Combattre l’Avocat du Diable</span>  
+##  <span style="color:#d45b5b;">Combattre l’Avocat du Diable</span>  
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0 40px;">
   Pour le camp du <span style="color:#4ea3ff; font-weight:bold;">Bien</span>&nbsp;:
@@ -215,7 +215,7 @@ title: AVOCAT DU DIABLE
 
 ---
 
-## 🎭 <span style="color:#d45b5b;">Bluffer : se faire passer pour l’Avocat du Diable</span>  
+##  <span style="color:#d45b5b;">Bluffer : se faire passer pour l’Avocat du Diable</span>  
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0 40px;">
   Pour les <span style="color:#d45b5b; font-weight:bold;">Maléfiques</span>&nbsp;:
@@ -239,7 +239,7 @@ title: AVOCAT DU DIABLE
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  😈 <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Retour aux Sbires</a><br>
-  🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+ <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+ <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Retour aux Sbires</a><br>
+ <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
 </p>
