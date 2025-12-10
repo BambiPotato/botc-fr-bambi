@@ -11,7 +11,7 @@ title: Dame de Thé
 </p>
 
  
-#  🫖  <span style="color:blue">Dame de Thé</span>  
+#    <span style="color:blue">Dame de Thé</span>  
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -25,7 +25,7 @@ title: Dame de Thé
 
 ---
 
-## ℹ️  <span style="color:blue">Informations</span>    
+##   <span style="color:blue">Informations</span>    
 
 - **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)  
 - **Artiste :** Aidan Roberts 
@@ -37,9 +37,9 @@ title: Dame de Thé
 ---
 
 
-## 🎭 Apparaît dans  
+##  Apparaît dans  
 
-# 🌝 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
+#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
@@ -61,7 +61,7 @@ title: Dame de Thé
 </p>
 
 
-## 📖 <span style="color:blue">Résumé</span>  
+##  <span style="color:blue">Résumé</span>  
 
 **« Si vos deux voisins vivants sont bons, ils ne peuvent pas mourir. »**
 
@@ -79,18 +79,18 @@ La **Dame de Thé** protège ses voisins de la mort… **tant qu’ils sont tous
 
 ---
 
-## 🎭 <span style="color:blue">Comment Conter</span>
+##  <span style="color:blue">Comment Conter</span>
 
 - Si **les deux voisins vivants** de la Dame de Thé sont **bons**, placez les jetons de rappel **NE PEUT PAS MOURIR** à côté de leurs rôles.  
 - Si l’un d’eux devient [<span style="color:red">maléfique</span>](../sbires.md), retirez ces jetons.  
 - Mettez à jour ces rappels **immédiatement** si l’alignement ou la vie d’un joueur change.  
 
-➡️ Si un joueur marqué **NE PEUT PAS MOURIR** devait mourir, il **reste en vie**.  
-➡️ S’il est exécuté, annoncez qu’il est exécuté **mais qu’il reste en vie** (sans dire pourquoi).  
+ - Si un joueur marqué **NE PEUT PAS MOURIR** devait mourir, il **reste en vie**.  
+ - S’il est exécuté, annoncez qu’il est exécuté **mais qu’il reste en vie** (sans dire pourquoi).  
 
 ---
 
-## 🧩 <span style="color:blue">Exemples</span>  
+##  <span style="color:blue">Exemples</span>  
 
 - La Dame de Thé commence la partie entre le [<span style="color:red">Conspirateur</span>](cerveau.md) et la [Brute](brute.md) d'alignement bon.  
   Le le [<span style="color:red">Conspirateur</span>](cerveau.md) est exécuté et meurt.  
@@ -103,12 +103,12 @@ La **Dame de Thé** protège ses voisins de la mort… **tant qu’ils sont tous
 
 ---
 
-## 💡 <span style="color:blue">Astuces & Stratégie</span>   
+##  <span style="color:blue">Astuces & Stratégie</span>   
 
 La **Dame de Thé** est une **protectrice puissante**, mais **vulnérable** elle-même.  
 Savoir **quand se révéler** est crucial pour orienter la partie.  
 
-### 🫖 <span style="color:blue">Se révéler tôt ou tard ?</span>   
+###  <span style="color:blue">Se révéler tôt ou tard ?</span>   
 
 - **Se révéler tôt :**  
   vous pouvez tester vos voisins par exécution pour confirmer deux bons joueurs.  
@@ -122,7 +122,7 @@ Il n’y a **pas de stratégie parfaite** — adaptez-vous à la table et aux mo
 
 ---
 
-### ⚖️ <span style="color:blue">Tester vos voisins</span>   
+###  <span style="color:blue">Tester vos voisins</span>   
 
 Exécutez vos voisins :  
 S’ils sont tous deux bons, **ils ne mourront pas**.  
@@ -134,7 +134,7 @@ C’est le moyen le plus rapide de prouver votre capacité.
 
 ---
 
-### 😶 <span style="color:blue">Jouer en secret</span>   
+###  <span style="color:blue">Jouer en secret</span>   
 
 Vous pouvez choisir de **ne rien révéler** et d’observer.  
 Cela vous garde en sécurité et peut pousser le [<span style="color:red">Démon</span>](../demons.md) à **gaspiller ses attaques**.  
@@ -147,7 +147,7 @@ qui pourrait “mourir” sans se rendre compte qu’il n’aurait pas dû pouvo
 
 ---
 
-### 🤝 <span style="color:blue">Coopérer avec vos voisins</span>     
+###  <span style="color:blue">Coopérer avec vos voisins</span>     
 
 Bâtissez une **relation de confiance**.  
 S’ils prouvent être tous deux bons, votre capacité les protège à coup sûr.  
@@ -155,7 +155,7 @@ Dans les petites parties, cela peut être crucial pour **renforcer l’équipe d
 
 ---
 
-### 💀 <span style="color:blue">En fin de partie</span>   
+###  <span style="color:blue">En fin de partie</span>   
 
 Chaque fois qu’un voisin meurt, votre capacité s’étend au **prochain joueur vivant**.  
 Ainsi, vos nouveaux voisins peuvent être bons… ou pas !  
@@ -163,7 +163,7 @@ Mais plus la partie avance, plus il est probable que **l’un d’eux soit malé
 
 ---
 
-## 🎭 <span style="color:blue">Bluffer Dame de Thé</span>    
+##  <span style="color:blue">Bluffer Dame de Thé</span>    
 
 Le **bluff de la Dame de Thé** est **crédible** et **facile à maintenir** : il donne une excuse pour des exécutions “sans morts”.  
 
@@ -184,8 +184,8 @@ Le **bluff de la Dame de Thé** est **crédible** et **facile à maintenir** : i
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
-  🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
+   <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
 </p>
 
