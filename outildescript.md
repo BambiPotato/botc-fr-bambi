@@ -11,7 +11,7 @@ title: Outil de Script
 
 <!--  Outil de Script -->
 
-<h1 style="color:#d4a76a; font-weight:bold; font-size:36px;">Outil de Script</h1>
+<h1 style="color:#d4a76a; font-weight:bold; font-size:36px;"> Outil de Script</h1>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   Chaque conteur et chaque conteuse est aussi un ou une créatrice. Composez votre propre histoire, un rôle à la fois.
@@ -27,11 +27,11 @@ C’est la meilleure façon de renouveler vos parties de <em>Blood on the Clockt
 
 <h2 style="color:#d4a76a; font-weight:bold;"> Sommaire</h2>
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li><a href="#pourquoi" style="color:#d4a76a; font-weight:bold; text-decoration:none;"> Pourquoi créer un script&nbsp;?</a></li>
-  <li><a href="#outil-officiel" style="color:#d4a76a; font-weight:bold; text-decoration:none;"> Utiliser l’outil officiel</a></li>
-  <li><a href="#ameliorer" style="color:#d4a76a; font-weight:bold; text-decoration:none;"> Améliorer vos créations</a></li>
-  <li><a href="#voyageurs-legendaire" style="color:#d4a76a; font-weight:bold; text-decoration:none;"> Ajouter les Voyageurs et les Légendaires</a></li>
-  <li><a href="#situations" style="color:#d4a76a; font-weight:bold; text-decoration:none;"> Gérer les situations inhabituelles</a></li>
+  <li><a href="#pourquoi" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Pourquoi créer un script&nbsp;?</a></li>
+  <li><a href="#outil-officiel" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Utiliser l’outil officiel</a></li>
+  <li><a href="#ameliorer" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Améliorer vos créations</a></li>
+  <li><a href="#voyageurs-legendaire" style="color:#d4a76a; font-weight:bold; text-decoration:none;">4 Ajouter les Voyageurs et les Légendaires</a></li>
+  <li><a href="#situations" style="color:#d4a76a; font-weight:bold; text-decoration:none;">5 Gérer les situations inhabituelles</a></li>
   <li><a href="#exemple" style="color:#d4a76a; font-weight:bold; text-decoration:none;"> Exemple de script personnalisé</a></li>
 </ul>
 
@@ -73,20 +73,19 @@ Commencez petit avec quelques rôles centraux, puis étoffez au fil des parties.
 Recueillez les retours des joueurs et joueuses après chaque partie pour ajuster l’équilibre.
 </p>
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-💬 Ressources utiles&nbsp;:
+ Ressources utiles&nbsp;:
 </p>
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li><a href="https://bloodontheclocktower.com" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Site officiel Blood on the Clocktower</a></li>
   <li><a href="https://script.bloodontheclocktower.com" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Communauté de création de scripts</a></li>
-  <li><a href="https://discord.gg/tGDVmZfZpE" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Serveur Discord francophone</a></li>
 </ul>
 
 <hr>
 
 <h2 id="voyageurs-legendaire" style="color:#d4a76a; font-weight:bold;">. Ajouter les Voyageurs et les Légendaires</h2>
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Intégrer des <a href="./voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a> à un script personnalisé est simple. 
-Ils et elles peuvent rejoindre une partie en cours et apporter des rebonds intéressants. 
+Intégrer des <a href="./voyageurs/voyageurs.html" style="color:purple; font-weight:bold; text-decoration:none;">Voyageurs</a> à un script personnalisé est simple. 
+Les <a href="./voyageurs/voyageurs.html" style="color:purple; font-weight:bold; text-decoration:none;">Voyageurs</a> peuvent rejoindre une partie en cours et apporter des rebonds intéressants. 
 De même, les <a href="./legendaires.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Légendaires</a> 
 aident à ajuster l’équilibre et à résoudre des cas particuliers.
 </p>
@@ -107,7 +106,7 @@ Dans ces moments, utilisez votre <strong>meilleur jugement</strong>&nbsp;:
 
 <hr>
 
-<h2 id="exemple" style="color:#d4a76a; font-weight:bold;"> Exemple de script personnalisé</h2>
+<h2 id="exemple" style="color:#d4a76a; font-weight:bold;">💡 Exemple de script personnalisé</h2>
 <p style="color:#f5f5f5; font-size:18px; line-height:1.8;">
 Objectif&nbsp;: créer une partie dynamique avec forts retournements et informations discutables.
 </p>
