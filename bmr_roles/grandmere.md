@@ -21,9 +21,9 @@ title: Grand-Mère
 
 
 
-## 🎭 Apparaît dans  
+##  Apparaît dans  
 
-# 🌝 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
+#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
@@ -46,11 +46,11 @@ title: Grand-Mère
 
 
 
-# 👵 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Grand-Mère</span>
+#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Grand-Mère</span>
 
 ---
 
-## ℹ️ <span style="color:#4ea3ff;">Informations</span>
+##  <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
@@ -66,7 +66,7 @@ title: Grand-Mère
 
 ---
 
-## 📖 <span style="color:#4ea3ff;">Résumé</span>
+##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Vous commencez à connaître un bon joueur et son rôle.  
@@ -98,7 +98,7 @@ la Grand-Mère meurt aussi.
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
+##  <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 La <strong>Grand-Mère</strong> fournit une information de départ très fiable,  
@@ -141,7 +141,7 @@ mais crée aussi une potentielle double mort si le <span style="color:#d45b5b; f
 
 ---
 
-## 🧩 <span style="color:#4ea3ff;">Exemples</span>
+##  <span style="color:#4ea3ff;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Au cours de la première nuit, la <strong>Grand-Mère</strong> se réveille  
@@ -169,7 +169,7 @@ donc elle reste en vie.
 
 ---
 
-## 💡 <span style="color:#4ea3ff;">Astuces &amp; Conseils</span>
+##  <span style="color:#4ea3ff;">Astuces &amp; Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -206,7 +206,7 @@ donc elle reste en vie.
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer Grand-Mère</span>
+##  <span style="color:#4ea3ff;">Bluffer Grand-Mère</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -278,8 +278,8 @@ donc elle reste en vie.
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
-  🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+  <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+  <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
+  <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
 </p>
 
