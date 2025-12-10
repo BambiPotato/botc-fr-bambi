@@ -56,7 +56,7 @@ En général :
 </ul>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-⚔️ <strong>L’exécution</strong> est différente de la mort.  
+ <strong>L’exécution</strong> est différente de la mort.  
 Parfois, une joueuse peut être exécutée mais rester en vie.  
 Une joueuse peut être exécutée plusieurs fois au cours de la partie. Même une joueuse déjà morte peut être exécutée à nouveau, pour confirmer un soupçon.  
 Quelle que soit la cible, vivante ou morte, cela compte comme l’unique exécution autorisée pendant la journée.
