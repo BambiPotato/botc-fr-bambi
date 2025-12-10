@@ -9,7 +9,7 @@ title: Conspirateur
   </a>
 </p>
 
-# 🧠 <span style="color:#d45b5b;">Conspirateur</span>
+#  <span style="color:#d45b5b;">Conspirateur</span>
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -22,7 +22,7 @@ title: Conspirateur
 
 ---
 
-## ℹ️ <span style="color:#d45b5b;">Informations</span>  
+##  <span style="color:#d45b5b;">Informations</span>  
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
@@ -39,9 +39,9 @@ title: Conspirateur
 
 ---
 
-## 🎭 Apparaît dans  
+##  Apparaît dans  
 
-# 🌝 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
+#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
@@ -63,7 +63,7 @@ title: Conspirateur
 
 ---
 
-## 📖 <span style="color:#d45b5b;">Résumé</span>
+##  <span style="color:#d45b5b;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0 40px;">
   <strong>« Si le Démon meurt par exécution (mettant fin à la partie), jouez un jour de plus.  
@@ -92,7 +92,7 @@ title: Conspirateur
 
 ---
 
-## 🎭 <span style="color:#d45b5b;">Comment Conter</span>  
+##  <span style="color:#d45b5b;">Comment Conter</span>  
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Si le <span style="color:#d45b5b; font-weight:bold;">Démon</span> est exécuté et meurt, ne terminez pas la partie.  
@@ -108,7 +108,7 @@ title: Conspirateur
 
 ---
 
-## 🧩 <span style="color:#d45b5b;">Exemples</span>  
+##  <span style="color:#d45b5b;">Exemples</span>  
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Le <a href="../bmr_roles/shabaloth.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a> est exécuté et meurt.  
@@ -135,14 +135,14 @@ title: Conspirateur
 
 ---
 
-## 💡 <span style="color:#d45b5b;">Astuces &amp; Stratégies</span>  
+##  <span style="color:#d45b5b;">Astuces &amp; Stratégies</span>  
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0 40px;">
   Le <strong>Conspirateur</strong> est un stratège implacable.  
   Il attend le moment parfait pour transformer la victoire du Bien en défaite.
 </p>
 
-### 🧠 <span style="color:#d45b5b;">Jouer sur la durée</span>  
+###  <span style="color:#d45b5b;">Jouer sur la durée</span>  
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Restez en vie à tout prix.</strong>  
@@ -159,7 +159,7 @@ title: Conspirateur
 
 ---
 
-### 🎭 <span style="color:#d45b5b;">Manipuler la fin de partie</span>  
+###  <span style="color:#d45b5b;">Manipuler la fin de partie</span>  
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Encouragez la culture de l’exécution :  
@@ -181,7 +181,7 @@ title: Conspirateur
 
 ---
 
-### ⚔️ <span style="color:#d45b5b;">Ruse et désinformation</span>  
+###  <span style="color:#d45b5b;">Ruse et désinformation</span>  
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Faites croire à la présence d’un autre Sbire :
@@ -204,7 +204,7 @@ title: Conspirateur
 
 ---
 
-## ⚔️ <span style="color:#d45b5b;">Combattre le Conspirateur</span> 
+##  <span style="color:#d45b5b;">Combattre le Conspirateur</span> 
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Observez le comportement des morts et des protections.  
@@ -227,7 +227,7 @@ title: Conspirateur
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  😈 <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Retour aux Sbires</a><br>
-  🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Retour aux Sbires</a><br>
+   <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
 </p>
