@@ -11,7 +11,7 @@ title: Courtisan
 </p>
 
 
-#  🍸 <span style="color:blue">Courtisan</span>  
+#   <span style="color:blue">Courtisan</span>  
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -25,7 +25,7 @@ title: Courtisan
 
 ---
 
-## ℹ️ <span style="color:blue">Informations</span>  
+##  <span style="color:blue">Informations</span>  
 
 - **Type :**[<span style="color:blue">**Villageois**</span>](../villageois.md)  
 - **Artiste :** Aidan Roberts 
@@ -34,9 +34,9 @@ title: Courtisan
 ---
 
 
-## 🎭 Apparaît dans  
+##  Apparaît dans  
 
-# 🌝 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
+#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
@@ -72,7 +72,7 @@ Le **Courtisan** choisit un **rôle** (et non un joueur) qui devient ivre pendan
 
 ---
 
-## 🎭 <span style="color:blue">Comment Conter</span>    
+##  <span style="color:blue">Comment Conter</span>    
 
 - Chaque nuit (sauf la première), réveillez le Courtisan.  
 - Il peut passer son tour ou désigner un **rôle** (pictogramme sur la fiche).  
@@ -83,7 +83,7 @@ Le **Courtisan** choisit un **rôle** (et non un joueur) qui devient ivre pendan
 
 ---
 
-## 🧩 <span style="color:blue">Exemples</span>    
+##  <span style="color:blue">Exemples</span>    
 
 - Le Courtisan attend la 5ème nuit et cible le [<span style="color:red">Shabaloth</span>](shabaloth.md).  
   → Pendant 3 nuits, le Shabaloth se réveille, mais ne tue personne.  
@@ -96,23 +96,23 @@ Le **Courtisan** choisit un **rôle** (et non un joueur) qui devient ivre pendan
 
 ---
 
-## 💡 <span style="color:blue">Astuces & Conseils</span>  
+##  <span style="color:blue">Astuces & Conseils</span>  
 
-- ⚔️ **<span style="color:red">Démon</span>** : c’est la cible la plus puissante. Si vous réussissez, vous donnez 3 nuits de répit au Bien. Observez le rythme des morts nocturnes pour identifier si vous faites face à un [<span style="color:red">Shabaloth</span>](shabaloth.md), à un [<span style="color:red">Po</span>](po.md), à un [<span style="color:red">Pukka</span>](pukka.md) ou un [<span style="color:red">Zombuul</span>](zombuul.md).  
+-  **<span style="color:red">Démon</span>** : c’est la cible la plus puissante. Si vous réussissez, vous donnez 3 nuits de répit au Bien. Observez le rythme des morts nocturnes pour identifier si vous faites face à un [<span style="color:red">Shabaloth</span>](shabaloth.md), à un [<span style="color:red">Po</span>](po.md), à un [<span style="color:red">Pukka</span>](pukka.md) ou un [<span style="color:red">Zombuul</span>](zombuul.md).  
 
   - [<span style="color:red">Sbires</span>](../sbires.md) :  
   - [<span style="color:red">Assassin</span>](assassin.md) ou [<span style="color:red">Parrain</span>](parrain.md) s'ils sont ivres par votre pouvoir → pas de morts inattendues  
   - [<span style="color:red">Avocat du Diable</span>](avocatdudiable.md) ivre  → ne sauve personne de l'exécution.  
   - [<span style="color:red">Conspirateur</span>](cerveau.md) ivre → prive les maléfiques d’une victoire inattendue.  
 
-- 🛡️ **Villageois** : ce n’est pas optimal, mais parfois utile :  
+-  **Villageois** : ce n’est pas optimal, mais parfois utile :  
   - [Bricoleur](bricoleur.md) ivre → ne meurt plus au hasard.  
   - [Grand-Mère](grandmere.md) ivre → survit si son petit-enfant meurt.  
   - [Enfant de la Lune](enfantdelalune.md) ivre → ne provoque pas de mort supplémentaire.  
 
-- 🎯 **Tester les menteurs** : si un joueur prétend être [Exorciste](exorciste.md), rendez « Exorciste » ivre. Si malgré tout il continue à bloquer le <span style="color:red">Démon</span>, c’est un menteur.  
+-  **Tester les menteurs** : si un joueur prétend être [Exorciste](exorciste.md), rendez « Exorciste » ivre. Si malgré tout il continue à bloquer le <span style="color:red">Démon</span>, c’est un menteur.  
 
-- ⏳ **Utilisation unique** : choisissez bien le moment.  
+-  **Utilisation unique** : choisissez bien le moment.  
   - Tôt = vous êtes sûrs de l’activer avant de mourir.  
   - Tard = vous avez plus d’infos pour cibler au mieux.  
 
@@ -120,9 +120,9 @@ Le **Courtisan** choisit un **rôle** (et non un joueur) qui devient ivre pendan
 
 ---
 
-## 🎭 <span style="color:blue">Bluffer Courtisan</span>  
+##  <span style="color:blue">Bluffer Courtisan</span>  
 
-- ⏱️ Attendez quelques jours avant de dire que vous avez utilisé votre pouvoir. Un vrai Courtisan ne l’active pas dès le départ.  
+-  Attendez quelques jours avant de dire que vous avez utilisé votre pouvoir. Un vrai Courtisan ne l’active pas dès le départ.  
 
 - Version simple : « J’ai ciblé le <span style="color:red">Démon</span>, mais il n’était pas le bon. » → crédible et peu risqué.  
 
@@ -133,7 +133,7 @@ Le **Courtisan** choisit un **rôle** (et non un joueur) qui devient ivre pendan
 
 - Si vous êtes le [<span style="color:red">Pukka</span>](pukka.md), prétendez avoir ciblé le Pukka. Quand les morts continuent malgré tout, tout le monde pensera qu’un autre <span style="color:red">Démon</span> est en jeu.  
 
-- 🎭 Feignez d’avoir neutralisé un rôle clé par exemple l' [<span style="color:red">Avocat du Diable</span>](avocatdudiable.md). 
+- Feignez d’avoir neutralisé un rôle clé par exemple l' [<span style="color:red">Avocat du Diable</span>](avocatdudiable.md). 
 - Le Camp du Bien cessera d’y penser, et vous pourrez surprendre.  
 
 ---
@@ -171,9 +171,9 @@ Le **Courtisan** choisit un **rôle** (et non un joueur) qui devient ivre pendan
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
-  🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+  <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+  <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
+  <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
 </p>
 
  
