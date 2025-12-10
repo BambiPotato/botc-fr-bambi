@@ -10,7 +10,7 @@ title: ASSASSIN
 </p>
 
 
-# 🗡️ <span style="color:red">Assassin</span>  
+#  <span style="color:red">Assassin</span>  
 
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
@@ -25,7 +25,7 @@ title: ASSASSIN
 
 ---
 
-## ℹ️ <span style="color:red">Informations</span>  
+##  <span style="color:red">Informations</span>  
 
 - **Type :** [<span style="color:red">Sbire</span>](../sbires.md)  
 - **Artiste :** Aidan Roberts  
@@ -35,9 +35,9 @@ title: ASSASSIN
 ---
 
 
-## 🎭 Apparaît dans  
+##  Apparaît dans  
 
-# 🌝 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
+#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
@@ -58,7 +58,7 @@ title: ASSASSIN
 "Cult of the Clocktower – épisode par Andrew Nathenson"
 </p>
 
-## 📖 <span style="color:red">Résumé</span>  
+##  <span style="color:red">Résumé</span>  
 
 > **« Une fois par partie, la nuit*, choisissez un joueur : il meurt, même s’il ne devrait pas. »**
 
@@ -70,7 +70,7 @@ title: ASSASSIN
 
 ---
 
-## 🎭 <span style="color:red">Comment Conter</span>  
+##  <span style="color:red">Comment Conter</span>  
 
 - **Chaque nuit, sauf la première**, réveillez l’Assassin.  
   - Il peut soit **secouer la tête** (pour dire non), soit **désigner un joueur**.  
@@ -84,7 +84,7 @@ title: ASSASSIN
 
 ---
 
-## 🧩 <span style="color:red">Exemples</span>  
+##  <span style="color:red">Exemples</span>  
   
 - Pendant les trois premières nuits,  l'Assassin se réveille, mais choisit de ne pas agir.  
   La quatrième nuit, il tue le [Fou](fou.md) : le **[Fou](fou.md)** meurt **malgré sa capacité**.  
@@ -102,14 +102,14 @@ title: ASSASSIN
 
 ---
 
-## 💡 <span style="color:red">Astuces et Stratégies</span>  
+##  <span style="color:red">Astuces et Stratégies</span>  
 
-### 💀 Une seule balle, un seul tir  
+###  Une seule balle, un seul tir  
 
 L’[<span style="color:red">Assassin</span>](assassin.md) dispose **d’un pouvoir unique**, capable d’abattre **quiconque**, même les personnages normalement protégés.  
 Choisissez votre moment avec soin — **une utilisation bien placée peut renverser la partie**.
 
-### 🎯 Visez les cibles inaccessibles  
+###  Visez les cibles inaccessibles  
 
 - Éliminez ceux que votre **[<span style="color:red">Démon</span>](../demons.md)** ne peut pas atteindre :  
   - L’[Exorciste](exorciste.md) qui empêche votre démon d'agir.  
@@ -118,7 +118,7 @@ Choisissez votre moment avec soin — **une utilisation bien placée peut renver
 
 Rien n’arrête votre lame.  
 
-### 🔪 Semer la confusion  
+###  Semer la confusion  
 
 - Utilisez votre attaque pour **brouiller les pistes** :  
   - Tuez pendant une nuit où le Démon ne devrait pas pouvoir tuer,  
@@ -128,7 +128,7 @@ Rien n’arrête votre lame.
 - Coordonnez-vous avec votre Démon : évitez de viser la même cible,  
   afin de **maximiser le nombre de morts** et **plonger le village dans la panique**.
 
-### 🩸 Manipuler les apparences  
+###  Manipuler les apparences  
 
 - Vous pouvez **tuer un autre Sbire** (voire vous-même !) pour **faire croire** que vous étiez bon.  
   Un joueur mort la nuit est souvent perçu comme **innocent**.  
@@ -138,7 +138,7 @@ Rien n’arrête votre lame.
 
 ---
 
-## ⚔️ <span style="color:red">Combattre l’Assassin</span>  
+##  <span style="color:red">Combattre l’Assassin</span>  
 
 > **Mauvaise nouvelle : vous ne pouvez pas empêcher son attaque.**  
 
@@ -154,8 +154,8 @@ Cependant :
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  😈 <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Retour aux Sbires</a><br>
-  🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Retour aux Sbires</a><br>
+   <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
 </p>
 
