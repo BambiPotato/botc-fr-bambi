@@ -11,7 +11,7 @@ title: Lunatique
 </p>
 
 
-#  🌚🌝 <span style="color:blue">Lunatique</span>  
+#   <span style="color:blue">Lunatique</span>  
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -25,7 +25,7 @@ title: Lunatique
 
 ---
 
-## ℹ️ <span style="color:blue">Informations</span>  
+##  <span style="color:blue">Informations</span>  
 
 - **Type :** [<span style="color:blue">Étranger</span>](../etrangers.md)    
 - **Artiste :** Aidan Roberts 
@@ -34,9 +34,9 @@ title: Lunatique
 ---
 
 
-## 🎭 Apparaît dans  
+##  Apparaît dans  
 
-# 🌝 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
+#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
@@ -59,7 +59,7 @@ title: Lunatique
 
 
 
-## 📖 <span style="color:blue">Résumé</span>  
+##  <span style="color:blue">Résumé</span>  
 
 
 
@@ -74,7 +74,7 @@ Le Lunatique apprend également des informations erronées lors de la première 
 
 ---
 
-## 🎭 <span style="color:blue">Comment Conter</span>  
+##  <span style="color:blue">Comment Conter</span>  
 
 **Mise en place :**  
 - Placez les jetons du **<span style="color:red">Démon</span>** et du **Lunatique** dans le sac avant la distribution.  
@@ -96,7 +96,7 @@ Le Lunatique apprend également des informations erronées lors de la première 
 
 ---
 
-## 🧩 <span style="color:blue">Exemples</span>  
+## <span style="color:blue">Exemples</span>  
 
 - Le Lunatique, croyant être un [<span style="color:red">Shabaloth</span>](shabaloth.md), choisit deux joueurs chaque nuit — mais personne ne meurt.  
 - Le Lunatique, persuadé d’être un [<span style="color:red">Zombuul</span>](zombuul.md), ne se réveille presque jamais, tandis que le vrai Zombuul imite ses choix pour entretenir l’illusion.  
@@ -104,11 +104,11 @@ Le Lunatique apprend également des informations erronées lors de la première 
 
 ---
 
-## 💡 <span style="color:blue">Astuces & Stratégies</span>  
+##  <span style="color:blue">Astuces & Stratégies</span>  
 
 Le **Lunatique** est un Étranger fascinant : il croit semer la terreur, alors qu’il joue pour le **Bien** sans le savoir.
 
-### 🧩 Découvrir la vérité  
+###  Découvrir la vérité  
 
 - Si vos attaques semblent échouer, posez-vous des questions.  
   → Vous choisissez des joueurs, mais d’autres meurent ? Vous tuez deux personnes une nuit, puis aucune la suivante ? Peut-être n’êtes-vous pas vraiment le Démon.  
@@ -124,7 +124,7 @@ Le **Lunatique** est un Étranger fascinant : il croit semer la terreur, alors q
 
 ---
 
-### 😇 <span style="color:blue">Quand vous découvrez que vous êtes bon</span>   
+###  <span style="color:blue">Quand vous découvrez que vous êtes bon</span>   
 
 Une fois que vous réalisez votre nature, **changez immédiatement de camp** : vous jouez désormais pour le Bien !  
 Ne le révélez pas trop tôt : laissez le <span style="color:red">Démon</span> croire que vous êtes toujours sous son influence.  
@@ -137,16 +137,16 @@ Quand vous êtes sûr(e), annoncez publiquement votre rôle :
 
 ---
 
-## 😈 <span style="color:blue">Bluffer Lunatique</span>   
+##  <span style="color:blue">Bluffer Lunatique</span>   
 
-### 😇 Si, vous êtes <span style="color:blue">Bon</span>  :  
+###  Si, vous êtes <span style="color:blue">Bon</span>  :  
 - Bluffez un rôle maléfique (comme un <span style="color:red">Démon</span>) pendant un moment, puis « réalisez » que vous êtes le Lunatique.  
   Ce retournement est très crédible et souvent efficace.  
 
 - Simulez un moment d’épiphanie sincère : « Oh ! Je crois que je ne suis pas le Démon après tout ! »  
   Les joueurs bons croient plus facilement aux émotions qu’aux explications logiques.  
 
-### 😈 Si, vous êtes <span style="color:red">Maléfique</span> :  
+###  Si, vous êtes <span style="color:red">Maléfique</span> :  
 - Ce bluff est excellent pour un <span style="color:red">Sbire</span> : prétendez avoir cru être le Démon avant de découvrir la vérité.  
   Cela crée de la confusion et attire la sympathie du Bien.  
 
@@ -158,7 +158,7 @@ Quand vous êtes sûr(e), annoncez publiquement votre rôle :
 
 ---
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  💈 <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Étrangers</a><br>
-  🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Étrangers</a><br>
+   <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
 </p>
