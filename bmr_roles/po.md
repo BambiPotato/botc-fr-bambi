@@ -9,7 +9,7 @@ title: Po
   </a>
 </p>
 
-<h1>🩸 <span style="color:#d45b5b;">Po</span></h1>
+<h1> <span style="color:#d45b5b;">Po</span></h1>
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -22,7 +22,7 @@ title: Po
 
 <hr>
 
-<h2>ℹ️ <span style="color:#d45b5b;">Informations</span></h2>
+<h2> <span style="color:#d45b5b;">Informations</span></h2>
 
 <ul>
   <li><strong>Type :</strong> <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a></li>
@@ -35,9 +35,9 @@ title: Po
 
 <hr>
 
-<h2>🎭 <span style="color:#d45b5b;">Apparaît dans</span></h2>
+<h2> <span style="color:#d45b5b;">Apparaît dans</span></h2>
 
-<h1>🌝 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span></h1>
+<h1> <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span></h1>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
@@ -59,7 +59,7 @@ title: Po
 
 <hr>
 
-<h2>📖 <span style="color:#d45b5b;">Résumé</span></h2>
+<h2> <span style="color:#d45b5b;">Résumé</span></h2>
 
 <p>
   <strong>« Chaque nuit*, vous pouvez choisir un joueur : il meurt.<br>
@@ -99,7 +99,7 @@ title: Po
 
 <hr>
 
-<h2>🎭 <span style="color:#d45b5b;">Comment Conter</span></h2>
+<h2> <span style="color:#d45b5b;">Comment Conter</span></h2>
 
 <ul>
   <li>Chaque nuit, sauf la première, réveillez le Po.
@@ -121,7 +121,7 @@ title: Po
 
 <hr>
 
-<h2>🧩 <span style="color:#d45b5b;">Exemples</span></h2>
+<h2> <span style="color:#d45b5b;">Exemples</span></h2>
 
 <ul>
   <li>
@@ -151,7 +151,7 @@ title: Po
 
 <hr>
 
-<h2>💡 <span style="color:#d45b5b;">Astuces &amp; Stratégie</span></h2>
+<h2> <span style="color:#d45b5b;">Astuces &amp; Stratégie</span></h2>
 
 <p>
   Le Po est le Démon le plus meurtrier de 
@@ -257,7 +257,7 @@ Tout repose sur le timing : si vous n’avez pas chargé lors d’une nuit où v
 
 <hr>
 
-<h2>⚔️ <span style="color:#d45b5b;">Combattre le Po</span></h2>
+<h2> <span style="color:#d45b5b;">Combattre le Po</span></h2>
 
 <h3><span style="color:#d45b5b;">1. Identifiez le plus vite possible qu’un Po est en jeu</span></h3>
 
@@ -319,7 +319,7 @@ Tout repose sur le timing : si vous n’avez pas chargé lors d’une nuit où v
 <hr>
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👹 <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Retour aux Démons</a><br>
-  🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Retour aux Démons</a><br>
+   <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
 </p>
