@@ -12,7 +12,7 @@ title: Bricoleur
 
 
 
-#   🔧 <span style="color:blue">Bricoleur</span>  
+#    <span style="color:blue">Bricoleur</span>  
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -26,7 +26,7 @@ title: Bricoleur
 
 ---
 
-## ℹ️ <span style="color:blue">Informations</span>   
+##  <span style="color:blue">Informations</span>   
 
 - **Type :** [<span style="color:blue">Étranger</span>](../etrangers.md)    
 - **Artiste :** Aidan Roberts 
@@ -35,9 +35,9 @@ title: Bricoleur
 ---
 
 
-## 🎭 Apparaît dans  
+##  Apparaît dans  
 
-# 🌝 <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
+#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
@@ -60,7 +60,7 @@ title: Bricoleur
 
 
 
-## 📖 <span style="color:blue">Résumé</span>   
+##  <span style="color:blue">Résumé</span>   
 
 
 > **« Vous pouvez mourir à tout moment. »**
@@ -73,14 +73,14 @@ Le **Bricoleur** peut mourir à tout moment, sans raison apparente.
 
 ---
 
-## 🎭 <span style="color:blue">Comment Conter</span>   
+##  <span style="color:blue">Comment Conter</span>   
 
 - **À tout moment**, vous pouvez choisir de faire mourir le Bricoleur. 
   - Si cela se produit le jour, annoncez immédiatement sa mort. 
   - Si cela se produit la nuit, marquez le Bricoleur avec le jeton de rappel **« MORT »**
   et attendez l'aube (lever du jour) pour annoncer les joueurs morts pendant la nuit. ( Ne précisez pas comment. )
 
-💡 *Astuce Conteur :* 
+ *Astuce Conteur :* 
 > * Vous pouvez choisir de ne jamais tuer le Bricoleur. Cela le rend très suspect.
 > * Nous vous recommandons de ne jamais tuer le Bricoleur lorsque cela mettrait fin à la partie. 
 > * La victoire ou la défaite des joueurs doit dépendre de leurs propres efforts, et non de la décision du Conteur.
@@ -88,7 +88,7 @@ Le **Bricoleur** peut mourir à tout moment, sans raison apparente.
 
 ---
 
-## 🧩 <span style="color:blue">Exemples</span>    
+##  <span style="color:blue">Exemples</span>    
 
 - Le **Bricoleur** meurt pendant la nuit, alors que le <span style="color:red">Démon</span> a attaqué un autre joueur.  
 - La [Dame de Thé](damedethe.md) protège le Bricoleur et un autre joueur bon : le Bricoleur **ne peut pas mourir** de sa capacité.  
@@ -97,12 +97,12 @@ Le **Bricoleur** peut mourir à tout moment, sans raison apparente.
 
 ---
 
-## 💡 <span style="color:blue">Astuces & Stratégies</span>  
+##  <span style="color:blue">Astuces & Stratégies</span>  
 
 Le **Bricoleur** vit avec une épée de Damoclès au-dessus de la tête : le Conteur peut le faire mourir **à tout instant**.  
 Mais cette fragilité peut devenir un **atout d’information** si vous savez en tirer parti.  
 
-### ⚙️ Comprendre votre mort  
+###  Comprendre votre mort  
 
 - Si vous mourez **sans raison claire**, votre mort peut aider le camp du Bien à déduire :
   - qu’un <span style="color:red">Démon</span> a été **bloqué** par un [Exorciste](exorciste.md) ou un [Aubergiste](aubergiste.md),  
@@ -111,12 +111,12 @@ Mais cette fragilité peut devenir un **atout d’information** si vous savez en
 - Si vous mourez **en plein jour**, c’est souvent une bonne nouvelle : tout le monde sait que vous étiez bon !  
   Aucune autre mort spontanée ne peut arriver pendant le jour en dehors d’une exécution.  
 
-### 💬 Après votre mort  
+###  Après votre mort  
 
 - Révélez que vous étiez le **Bricoleur** : cela confirmera votre alignement bon et apportera de la clarté.  
 - Votre mort peut **imiter d’autres effets** (comme ceux du [Ménestrel](menestrel.md) ou du [Parieur](parieur.md)), donc profitez-en pour **aider à l’analyse collective**.
 
-### 🙌 Rester en vie longtemps  
+###  Rester en vie longtemps  
 
 - Si vous survivez longtemps, certains croiront que vous mentez.  
   → Justifiez cela par le fait que le Conteur « vous garde en vie exprès pour troubler les joueurs » — c’est crédible et souvent vrai.  
@@ -124,9 +124,9 @@ Mais cette fragilité peut devenir un **atout d’information** si vous savez en
 
 ---
 
-## 🎭 <span style="color:blue">Bluffer Bricoleur</span>  
+##  <span style="color:blue">Bluffer Bricoleur</span>  
 
-### 😇 Si, vous êtes <span style="color:blue">Bon</span>   
+###  Si, vous êtes <span style="color:blue">Bon</span>   
 
 - Le bluff est simple : **vous mourez facilement**, alors annoncez-le tardivement ou après votre mort.  
 - Si vous survivez trop longtemps, prétendez que le Conteur « veut vous faire passer pour un menteur ».  
@@ -142,7 +142,7 @@ Mais cette fragilité peut devenir un **atout d’information** si vous savez en
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  💈 <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Étrangers</a><br>
-  🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Étrangers</a><br>
+   <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
 </p>
