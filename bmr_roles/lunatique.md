@@ -158,7 +158,7 @@ Quand vous êtes sûr(e), annoncez publiquement votre rôle :
 
 ---
 
-<h2 style="color:#4ea3ff; font-size:22px; margin-top:30px;">
+<h2 style="color:#e0c99d; font-size:22px; margin-top:30px;">
   🧞 Jinx lié
 </h2>
 
@@ -170,10 +170,10 @@ Quand vous êtes sûr(e), annoncez publiquement votre rôle :
     <img src="../images/Icon_mathematician.png" alt="Mathématicien" width="24"
          style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../bmr_roles/mathematician.html"
-       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mathématicien</a> :
+       style="color:#80aee0; font-weight:bold; text-decoration:none;">Mathématicien</a> :
     Le <span style="color:#4ea3ff; font-weight:bold;">Mathématicien</span> peut apprendre
-    si le <span style="color:red; font-weight:bold;">Lunatique</span> attaque une personne
-    différente de celle visée par le vrai <span style="color:red; font-weight:bold;">Démon</span>.
+    si le <span style="color:#80aee0 font-weight:bold;">Lunatique</span> attaque une personne
+    différente de celle visée par le vrai <span style="color:#d45b5b font-weight:bold;">Démon</span>.
   </li>
 
 </ul>
