@@ -147,6 +147,40 @@ Rester discret peut être judicieux : observez, bluffez et découvrez comment vo
 
 ---
 
+  <h2 style="color:#4ea3ff; font-size:22px; margin-top:30px;">
+  🧞 Jinxes liés
+</h2>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+  <!-- BOFFIN -->
+  <li>
+    🧞
+    <img src="../images/Icon_boffin.png" alt="Boffin" width="24"
+         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/boffin.html"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Boffin</a> :
+    Si le <span style="color:red; font-weight:bold;">Démon</span> possède la capacité de la
+    <span style="color:#4ea3ff; font-weight:bold;">Brute</span>, il ne peut pas devenir bon
+    grâce à cette capacité.
+  </li>
+
+  <!-- PIT-HAG -->
+  <li>
+    🧞
+    <img src="../images/Icon_pithag.png" alt="Pit-Hag" width="24"
+         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../sv_roles/pithag.html"
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a> :
+    Si la <span style="color:#d45b5b; font-weight:bold;">Pit-Hag</span> transforme un joueur
+    maléfique en <span style="color:#4ea3ff; font-weight:bold;">Brute</span>, ce joueur ne
+    peut pas devenir bon à cause de sa propre capacité.
+  </li>
+
+</ul>
+
+---
+
 <p style="text-align:left; font-size:18px; margin-top:20px;">
    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Étrangers</a><br>
