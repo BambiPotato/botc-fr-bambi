@@ -157,6 +157,29 @@ Quand vous êtes sûr(e), annoncez publiquement votre rôle :
   Cela le fera douter, et il pourra lui-même finir par se révéler publiquement comme « Lunatique repenti » — au bénéfice du Mal.  
 
 ---
+
+<h2 style="color:#4ea3ff; font-size:22px; margin-top:30px;">
+  🧞 Jinx lié
+</h2>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+  <!-- MATHEMATICIEN -->
+  <li>
+    🧞
+    <img src="../images/Icon_mathematician.png" alt="Mathématicien" width="24"
+         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../bmr_roles/mathematician.html"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mathématicien</a> :
+    Le <span style="color:#4ea3ff; font-weight:bold;">Mathématicien</span> peut apprendre
+    si le <span style="color:red; font-weight:bold;">Lunatique</span> attaque une personne
+    différente de celle visée par le vrai <span style="color:red; font-weight:bold;">Démon</span>.
+  </li>
+
+</ul>
+
+---
+
 <p style="text-align:left; font-size:18px; margin-top:20px;">
    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Étrangers</a><br>
