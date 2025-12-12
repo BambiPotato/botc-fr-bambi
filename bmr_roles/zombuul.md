@@ -155,6 +155,28 @@ Vous êtes **le mort-vivant parfait** — capable de survivre à une exécution 
 - Ne perdez pas vos votes sur de faux suspects parmi les vivants.  
 
 ---
+<h2 style="color:#d45b5b; font-size:22px; margin-top:30px;">
+  🧞 Jinx lié
+</h2>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+  <!-- SUMMONER -->
+  <li>
+    🧞
+    <img src="../images/Icon_summoner.png" alt="Invocateur" width="24"
+         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/summoner.html"
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocateur</a> :
+    Si l’<span style="color:#d45b5b; font-weight:bold;">Invocateur</span> invoque
+    un joueur mort en tant que <span style="color:#d45b5b; font-weight:bold;">Zombuul</span>,
+    ce Zombuul est considéré comme <strong>déjà “mort une fois”</strong>.
+  </li>
+
+</ul>
+
+---
+
 <p style="text-align:left; font-size:18px; margin-top:20px;">
    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
    <a href="../demons.html" style="color:red; font-weight:bold; text-decoration:none;">Retour aux Démons</a><br>
