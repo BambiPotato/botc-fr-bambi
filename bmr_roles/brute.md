@@ -147,7 +147,7 @@ Rester discret peut être judicieux : observez, bluffez et découvrez comment vo
 
 ---
 
-  <h2 style="color:#4ea3ff; font-size:22px; margin-top:30px;">
+  <h2 style="color:#e0c99d; font-size:22px; margin-top:30px;">
   🧞 Jinxes liés
 </h2>
 
