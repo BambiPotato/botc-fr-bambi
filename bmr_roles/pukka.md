@@ -296,6 +296,29 @@ title: Pukka
 
 <hr>
 
+---
+<h2 style="color:#d45b5b; font-size:22px; margin-top:30px;">
+  🧞 Jinxes liés
+</h2>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+  <!-- SUMMONER -->
+  <li>
+    🧞
+    <img src="../images/Icon_summoner.png" alt="Invocateur" width="24"
+         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/summoner.html"
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocateur</a> :
+    L’<span style="color:#d45b5b; font-weight:bold;">Invocateur</span> peut invoquer
+    un <span style="color:#d45b5b; font-weight:bold;">Pukka</span> dès la
+    <strong>2<sup>e</sup> nuit</strong> au lieu de la 3<sup>e</sup>.
+  </li>
+
+</ul>
+---
+
+
 <!-- LIENS DE PIED DE PAGE -->
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
