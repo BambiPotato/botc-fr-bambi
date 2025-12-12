@@ -225,6 +225,67 @@ title: Conspirateur
 </ul>
 
 ---
+<h2 style="color:#d45b5b; font-size:22px; margin-top:30px;">
+  🧞 Jinxes liés
+</h2>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+
+  <!-- AL-HADIKHIA -->
+  <li>
+    🧞
+    <img src="../images/Icon_alhadikhia.png" alt="Al-Hadikhia" width="24"
+         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/alhadikhia.html"
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Al-Hadikhia</a> :
+    Si l'<span style="color:#d45b5b; font-weight:bold;">Al-Hadikhia</span> meurt par exécution
+    alors que le <span style="color:#d45b5b; font-weight:bold;">Conspirateur</span> est vivant,
+    Al-Hadikhia choisit 3 joueurs bons cette nuit :
+    si les 3 choisissent de vivre, le Mal gagne ; sinon, le Bien gagne.
+  </li>
+
+
+  <!-- ALCHIMISTE -->
+  <li>
+    🧞
+    <img src="../images/Icon_alchemist.png" alt="Alchimiste" width="24"
+         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/alchemist.html"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> :
+    Un <span style="color:#4ea3ff; font-weight:bold;">Alchimiste–Conspirateur</span>
+    n’a **pas** la capacité du Conspirateur et le Conspirateur n'est **pas en jeu**.
+  </li>
+
+
+  <!-- LEECH -->
+  <li>
+    🧞
+    <img src="../images/Icon_lleech.png" alt="Lleech" width="24"
+         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/lleech.html"
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Lleech</a> :
+    Si le <span style="color:#d45b5b; font-weight:bold;">Conspirateur</span> est vivant
+    et que l’hôte de la <span style="color:#d45b5b; font-weight:bold;">Sangsue</span>
+    meurt par exécution, la Sangsue survit mais **perd sa capacité**.
+  </li>
+
+
+  <!-- VIGORMORTIS -->
+  <li>
+    🧞
+    <img src="../images/Icon_vigormortis.png" alt="Vigormortis" width="24"
+         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../sv_roles/vigormortis.html"
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vigormortis</a> :
+    Un <span style="color:#d45b5b; font-weight:bold;">Conspirateur</span> qui possède
+    encore sa capacité la **conserve** même si le
+    <span style="color:#d45b5b; font-weight:bold;">Vigormortis</span> meurt.
+  </li>
+
+</ul>
+
+---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
