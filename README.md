@@ -188,7 +188,7 @@
     <td class="rules-cell">
       <a class="rules-link" href="./etats.html">
         <div class="rules-title">États</div>
-        <div class="rules-sub">Ivre, empoisonné, envoûté…</div>
+        <div class="rules-sub">Ivresse, empoisonnement…</div>
       </a>
     </td>
     <td class="rules-cell">
@@ -200,7 +200,7 @@
     <td class="rules-cell">
       <a class="rules-link" href="./outildescript.html">
         <div class="rules-title">Outil de Script</div>
-        <div class="rules-sub">Créez vos listes personnalisées</div>
+        <div class="rules-sub">Créez vos scripts personnalisés</div>
       </a>
     </td>
   </tr>
