@@ -231,7 +231,6 @@ title: Conspirateur
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
-
   <!-- AL-HADIKHIA -->
   <li>
     🧞
@@ -245,7 +244,6 @@ title: Conspirateur
     si les 3 choisissent de vivre, le Mal gagne ; sinon, le Bien gagne.
   </li>
 
-
   <!-- ALCHIMISTE -->
   <li>
     🧞
@@ -254,9 +252,9 @@ title: Conspirateur
     <a href="../roles_experimentaux/alchemist.html"
        style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> :
     Un <span style="color:#4ea3ff; font-weight:bold;">Alchimiste–Conspirateur</span>
-    n’a **pas** la capacité du Conspirateur et le Conspirateur n'est **pas en jeu**.
+    n’a <strong>pas</strong> la capacité du Conspirateur et le Conspirateur n'est
+    <strong>pas en jeu</strong>.
   </li>
-
 
   <!-- LEECH -->
   <li>
@@ -267,9 +265,8 @@ title: Conspirateur
        style="color:#d45b5b; font-weight:bold; text-decoration:none;">Lleech</a> :
     Si le <span style="color:#d45b5b; font-weight:bold;">Conspirateur</span> est vivant
     et que l’hôte de la <span style="color:#d45b5b; font-weight:bold;">Sangsue</span>
-    meurt par exécution, la Sangsue survit mais **perd sa capacité**.
+    meurt par exécution, la Sangsue survit mais <strong>perd sa capacité</strong>.
   </li>
-
 
   <!-- VIGORMORTIS -->
   <li>
@@ -279,7 +276,7 @@ title: Conspirateur
     <a href="../sv_roles/vigormortis.html"
        style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vigormortis</a> :
     Un <span style="color:#d45b5b; font-weight:bold;">Conspirateur</span> qui possède
-    encore sa capacité la **conserve** même si le
+    encore sa capacité la <strong>conserve</strong> même si le
     <span style="color:#d45b5b; font-weight:bold;">Vigormortis</span> meurt.
   </li>
 
