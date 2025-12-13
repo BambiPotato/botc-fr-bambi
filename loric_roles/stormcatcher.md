@@ -19,7 +19,7 @@ title: Attrape-tempête
   </a>
 </div>
 
-# ⛈️ <span style="color:#7fd1ae; font-weight:bold; font-size:18px;">Attrape-tempête</span>
+#  <span style="color:#7fd1ae; font-weight:bold; font-size:18px;">Attrape-tempête</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « À l'aube, la longue ombre du temple s'étend jusqu'à la fontaine. Au crépuscule, l'obélisque masque les lueurs rouges, rafraîchissant l'eau chaude sous l'arche.  
@@ -28,7 +28,7 @@ title: Attrape-tempête
 
 ---
 
-## 🧾 <span style="color:#7fd1ae;">Informations</span>
+##  <span style="color:#7fd1ae;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong> <a href="../loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Loric</a></li>
@@ -38,7 +38,7 @@ title: Attrape-tempête
 
 ---
 
-## 📖 <span style="color:#7fd1ae;">Résumé</span>
+##  <span style="color:#7fd1ae;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong>« Nommez un rôle bon. S’il est en jeu, la personne qui l’a ne peut mourir que par exécution, et les joueurs maléfiques apprennent qui c’est. »</strong>
@@ -47,10 +47,6 @@ title: Attrape-tempête
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Utilisez l’<strong>Attrape-tempête</strong> pour centrer la partie autour d’un <span style="color:#4ea3ff; font-weight:bold;">rôle bon</span> précis : discussions focalisées et souvent une survie jusqu’au dernier jour… tant que le village le souhaite.
 </p>
-
----
-
-## ⚖️ <span style="color:#7fd1ae;">Détails</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Le conteur ou la conteuse déclare quel <span style="color:#4ea3ff; font-weight:bold;">rôle bon</span> est « favorisé » par l’Attrape-tempête.</li>
@@ -61,7 +57,7 @@ Utilisez l’<strong>Attrape-tempête</strong> pour centrer la partie autour d�
 
 ---
 
-## 🎭 <span style="color:#7fd1ae;">Comment Conter</span>
+##  <span style="color:#7fd1ae;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Au début de la partie, annoncez que l’<strong>Attrape-tempête</strong> est en jeu, ajoutez son jeton au grimoire, puis déclarez le <span style="color:#4ea3ff; font-weight:bold;">rôle bon</span> favorisé.
@@ -77,7 +73,7 @@ Au début de la partie, annoncez que l’<strong>Attrape-tempête</strong> est e
 
 ---
 
-## 🧩 <span style="color:#7fd1ae;">Exemples</span>
+##  <span style="color:#7fd1ae;">Exemples</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -93,7 +89,7 @@ Au début de la partie, annoncez que l’<strong>Attrape-tempête</strong> est e
 
 ---
 
-## 💬 <span style="color:#7fd1ae;">Explication</span>
+##  <span style="color:#7fd1ae;">Explication</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 L’<strong>Attrape-tempête</strong> brille avec les scripts personnalisés : il permet de bâtir une partie « centrée » sur un rôle sans que ce rôle soit trivial à méta-lire.  
@@ -109,12 +105,12 @@ c’est frustrant de le perdre dès le jour 2 sur un coup de chance du Démon. C
 </p>
 
 <p style="color:#f5f5f5; font-size:16.5px; line-height:1.7;">
-🔎 Remarque : l’Attrape-tempête ne s’applique qu’aux <strong>rôles bons</strong>.
+ Remarque : l’Attrape-tempête ne s’applique qu’aux <strong>rôles bons</strong>.
 </p>
 
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  🌿 <a href="../loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Retour aux rôles Loric</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Retour aux rôles Loric</a>
 </p>
