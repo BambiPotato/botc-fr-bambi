@@ -51,7 +51,7 @@ mais aujourd’hui mes coquelicots fleurissent. »*
 
 > « Chaque nuit*, vous apprenez si un [<span style="color:red;">Démon</span>](../demons.md) a voté aujourd’hui. »
 
-La Fleuriste sait si un [<span style="color:red;">Démon</span>](../demons.md) sait si le Démon a voté ou non.  
+La Fleuriste sait si un [<span style="color:red;">Démon</span>](../demons.md) a voté ou non.  
 
 - Le vote du Démon compte **même si la personne n’a pas été exécutée**. 
 - La Fleuriste ne détecte pas si le Démon a levé la main pour d'autres raisons, 
@@ -120,7 +120,7 @@ La Fleuriste sait si un [<span style="color:red;">Démon</span>](../demons.md) s
   Si vous obtenez **“oui”**, le Démon est dans le premier groupe.  
   Si vous obtenez **“non”**, il est dans le second.  
 
-  ⚠️ Attention :  Contrôler les votes de cette manière facilite la localisation du démon, 
+  - ⚠️ Attention :  Contrôler les votes de cette manière facilite la localisation du démon, 
   MAIS sachez que vous risquez d'être pris pour cible et éliminé bien plus rapidement que si vous restiez silencieux et observiez les votes naturellement.
   Attendez-vous à devenir une cible du [<span style="color:red;">Démon</span>](../demons.md) ou d’un [<span style="color:red;">Sbire</span>](../sbires.md).  
 
@@ -137,7 +137,7 @@ La Fleuriste sait si un [<span style="color:red;">Démon</span>](../demons.md) s
 
 ---
 
-## 🎭  <span style="color:#4ea3ff;">Bluffer Fleuriste</span>  
+##  <span style="color:#4ea3ff;">Bluffer Fleuriste</span>  
 
 - Le Fleuriste réduit petit à petit la liste des suspects.  
   Si vous bluffez ce rôle, veillez à **ne pas accuser vos alliés maléfiques**.  
