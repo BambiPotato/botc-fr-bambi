@@ -19,7 +19,7 @@ title: Bootlegger
   </a>
 </div>
 
-# 🍺 <span style="color:#7fd1ae; font-weight:bold; font-size:18px;">Bootlegger</span>
+#  <span style="color:#7fd1ae; font-weight:bold; font-size:18px;">Bootlegger</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « J’ai rapporté la dernière cuvée de la maison, une petite bière que j’appelle “Brume de Barrow”. Tu veux goûter ? »
@@ -27,7 +27,7 @@ title: Bootlegger
 
 ---
 
-## 🧾 <span style="color:#7fd1ae;">Informations</span>
+##  <span style="color:#7fd1ae;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong> <a href="../loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Loric</a></li>
@@ -37,7 +37,7 @@ title: Bootlegger
 
 ---
 
-## 📖 <span style="color:#7fd1ae;">Résumé</span>
+##  <span style="color:#7fd1ae;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong>« Ce script contient des rôles ou des règles "maison".»</strong>
@@ -50,9 +50,6 @@ Tant qu’un ou plusieurs rôles <em>Maison</em> figurent sur le script, le <str
 Il ne peut être retiré qu’en passant à un script ne contenant aucun rôle ni règle personnalisée.
 </p>
 
----
-
-## ⚖️ <span style="color:#7fd1ae;">Détails</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Le <strong>Bootlegger</strong> doit être annoncé au début de la partie s’il y a des rôles ou règles <em>maison</em>.</li>
@@ -64,7 +61,7 @@ Il ne peut être retiré qu’en passant à un script ne contenant aucun rôle n
 
 ---
 
-## 🎭 <span style="color:#7fd1ae;">Comment Conter</span>
+##  <span style="color:#7fd1ae;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Au début de la partie, si votre script comporte des rôles ou règles <em>homebrew/maison</em>, déclarez que le <strong>Bootlegger</strong> est en jeu.  
@@ -75,7 +72,7 @@ Le <strong>Bootlegger</strong> reste actif jusqu’à la fin de la partie.
 
 ---
 
-## 🧩 <span style="color:#7fd1ae;">Exemples</span>
+##  <span style="color:#7fd1ae;">Exemples</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -90,6 +87,6 @@ Le <strong>Bootlegger</strong> reste actif jusqu’à la fin de la partie.
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  🌿 <a href="../loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Retour aux rôles Loric</a>
+  <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+  <a href="../loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Retour aux rôles Loric</a>
 </p>
