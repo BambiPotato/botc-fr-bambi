@@ -48,9 +48,6 @@ title: Zénomancien
 Le <strong>Zénomancien</strong> attribue des mini-quêtes personnelles que les joueurs et joueuses doivent accomplir pour recevoir une information vraie.
 </p>
 
----
-
-## ⚙️ <span style="color:#7fd1ae;">Détails</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Un ou plusieurs joueurs peuvent recevoir des objectifs de la part du Conteur.</li>
@@ -68,7 +65,7 @@ Le <strong>Zénomancien</strong> attribue des mini-quêtes personnelles que les 
 
 ---
 
-## 🎭 <span style="color:#7fd1ae;">Comment Conter</span>
+##  <span style="color:#7fd1ae;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 À tout moment, indiquez à un joueur ou une joueuse qu’il ou elle reçoit un objectif.  
@@ -82,7 +79,7 @@ Vous pouvez ajouter « <em>…sans dire ton objectif à qui que ce soit</em> » 
 
 ---
 
-## 🧩 <span style="color:#7fd1ae;">Exemples</span>
+##  <span style="color:#7fd1ae;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
@@ -111,6 +108,6 @@ Amélie apprend alors que le Démon est un <a href="../sv_roles/fanggu.html" sty
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  🌿 <a href="../loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Retour aux rôles Loric</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Retour aux rôles Loric</a>
 </p>
