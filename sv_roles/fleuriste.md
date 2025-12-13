@@ -12,7 +12,7 @@ title: Fleuriste
 
 ---
 
-## 🌸 Fleuriste
+##  <span style="color:#4ea3ff;">Fleuriste</span>
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="./fleuriste.html" style="text-decoration:none;">
@@ -24,7 +24,7 @@ title: Fleuriste
 
 ---
 
-## ℹ️ Information  
+## <span style="color:#4ea3ff;">Information</span>  
 
 - **Type :** [<span style="color:blue;">**Villageois**</span>](../villageois.md)  
 - **Artiste :** Aidan Roberts  
@@ -33,7 +33,7 @@ mais aujourd’hui mes coquelicots fleurissent. »*
 
 ---
 
-## 🎭 Apparaît dans  
+##  Apparaît dans  
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../sv.html" style="text-decoration:none;">
@@ -47,55 +47,59 @@ mais aujourd’hui mes coquelicots fleurissent. »*
 
 ---
 
-## 📖 Résumé  
+## <span style="color:#4ea3ff;">Résumé</span>  
 
 > « Chaque nuit*, vous apprenez si un [<span style="color:red;">Démon</span>](../demons.md) a voté aujourd’hui. »
 
-Le·la Fleuriste sait si un [<span style="color:red;">Démon</span>](../demons.md) a participé au vote.  
+La Fleuriste sait si un [<span style="color:red;">Démon</span>](../demons.md) sait si le Démon a voté ou non.  
 
-- Le vote du Démon compte **même si la personne n’a pas été exécutée**.  
-- Le pouvoir ne se déclenche **que pour les votes d’exécution** (pas pour les exils de Voyageurs ou les votes “pour le fun”).  
+- Le vote du Démon compte **même si la personne n’a pas été exécutée**. 
+- La Fleuriste ne détecte pas si le Démon a levé la main pour d'autres raisons, 
+  par exemple lorsque les joueurs « votent » pour le menu du dîner, ou lorsqu'ils lèvent la main pour exiler un Voyageur.
 - Si le Démon change de joueur après avoir voté mais avant le réveil du Fleuriste, celui-ci détecte **le Démon original**.  
-- Si plusieurs Démons existent (même morts), un seul vote suffit pour que le Fleuriste reçoive **“oui”**.  
+- S'il y a deux démons (ou plus !), même des démons morts, la Fleuriste détecte si l'un d'eux a voté. 
+- Si un seul démon a voté, la Fleuriste obtient un **« oui »**.
 
 ---
 
-## 🎬 Comment Conter  
+## <span style="color:#4ea3ff;">Comment Conter</span>   
 
-- À chaque aube, placez sur le Fleuriste un rappel **DÉMON N’A PAS VOTÉ**,  
-  et retirez le rappel **DÉMON A VOTÉ** s’il existe.  
+- À chaque aube, placez sur la Fleuriste un jeton de rappel le **DÉMON N’A PAS VOTÉ**,  
+  et retirez le jeton de rappel le **DÉMON A VOTÉ** s’il existe.  
 
 - Pendant la journée, si le [<span style="color:red;">Démon</span>](../demons.md) vote pour une exécution,  
   remplacez le rappel **DÉMON N’A PAS VOTÉ** par **DÉMON A VOTÉ**.  
 
-- Chaque nuit (sauf la première), réveillez le Fleuriste :  
+- Chaque nuit (sauf la première), réveillez la Fleuriste :  
   - Si le rappel indique “DÉMON N’A PAS VOTÉ” → secouez la tête (non).  
   - Si le rappel indique “DÉMON A VOTÉ” → hochez la tête (oui).  
   - Puis rendormez le Fleuriste.  
 
-> 💤 Si vous avez oublié si le Démon a voté, réveillez-le et montrez-lui le jeton *“As-tu voté aujourd’hui ?”*.  
-Il doit répondre honnêtement.
+> *Astuces & Conseils pour les Conteurs et les Conteueses
+>  Si vous avez oublié si le Démon a voté ou non, réveillez-le la nuit 
+>  et demandez-lui en lui montrant le jeton d'information « Avez-vous voté aujourd'hui ? ».
+>  Il devra répondre honnêtement, puis se rendormir.
 
 ---
 
-## 🧾 Exemples  
+## <span style="color:#4ea3ff;">Exemples</span>  
 
-- Une seule nomination a eu lieu. Beaucoup ont voté, la personne a été exécutée,  
-  mais le Démon **n’a pas voté** → le Fleuriste apprend **“non”**.  
+- Une seule nomination a eu lieu aujourd'hui. Beaucoup ont voté, une joueuse a été exécutée,  
+  mais le Démon **n’a pas voté** → Cette nuit-là, la Fleuriste apprend que le Démon n'a pas voté.  
 
-- Trois nominations ont eu lieu.  
-  Le Démon a voté lors de la deuxième.  
-  Personne n’a été exécuté → le Fleuriste apprend **“oui”**.  
+- Il y a eu trois nominations aujourd'hui. 
+  Le Démon a voté lors de la deuxième nomination. 
+  Personne n'a été exécuté. 
+  Cette nuit-là, la Fleuriste apprend que le Démon a voté.
 
-- Aucune nomination n’a eu lieu aujourd’hui, mais un Voyageur a été exilé,  
-  et tout le monde a levé la main pour l’approuver.  
-  → le Fleuriste apprend **“non”** (les exils n’affectent jamais les capacités).  
-
+- Il n'y a pas eu de nominations aujourd'hui. 
+  Un Voyageur a été exilé, et tous les joueurs ont levé la main pour l'exiler. 
+  Cette nuit-là, la Fleuriste apprend que le Démon n'a pas voté. (Les exilés ne sont jamais affectés par les capacités.)
 ---
 
-## 💡 Astuces & Conseils  
+## <span style="color:#4ea3ff;">Astuces & Conseils</span>  
 
-- Soyez attentif·ve !  
+- Soyez attentif !  
   Notez **qui vote** et **qui ne vote pas** chaque jour.  
   Les joueurs maléfiques mentiront souvent sur leurs votes,  
   donc ne comptez pas sur leurs dires : **observez par vous-même**.  
@@ -114,15 +118,16 @@ Il doit répondre honnêtement.
   Si vous obtenez **“oui”**, le Démon est dans le premier groupe.  
   Si vous obtenez **“non”**, il est dans le second.  
 
-  ⚠️ Attention : cette méthode attire la colère du Mal.  
+  ⚠️ Attention :  Contrôler les votes de cette manière facilite la localisation du démon, 
+  MAIS sachez que vous risquez d'être pris pour cible et éliminé bien plus rapidement que si vous restiez silencieux et observiez les votes naturellement.
   Attendez-vous à devenir une cible du [<span style="color:red;">Démon</span>](../demons.md) ou d’un [<span style="color:red;">Sbire</span>](../sbires.md).  
 
 - Formez une **alliance défensive** :  
   un rôle comme le [Sage](sage.md) peut attirer le Démon à votre place pendant que vous continuez à collecter vos infos.  
 
-- Le Fleuriste fonctionne très bien avec le [Crieur](crieur.md) :  
+- La Fleuriste fonctionne très bien avec le [Crieur](crieur.md) :  
   pendant que vous surveillez les votes, lui surveille les **nominations**.  
-  Ensemble, vous pouvez isoler rapidement le Démon.  
+  Ensemble, vous pouvez détecter rapidement le Démon.  
 
 - Dans certains cas rares, vous pouvez détecter un [<span style="color:red;">Vortox</span>](vortox.md) :  
   si **tous les joueurs votent**, mais que vous apprenez “non”,  
@@ -130,7 +135,7 @@ Il doit répondre honnêtement.
 
 ---
 
-## 🎭 Bluff en tant que Fleuriste  
+## 🎭  <span style="color:#4ea3ff;">Bluffer Fleuriste</span>  
 
 - Le Fleuriste réduit petit à petit la liste des suspects.  
   Si vous bluffez ce rôle, veillez à **ne pas accuser vos alliés maléfiques**.  
@@ -141,7 +146,7 @@ Il doit répondre honnêtement.
   changez d’histoire — paraître incohérent rendra vos cibles plus crédibles.  
 
 - Vous pouvez influencer les votes pour fabriquer des informations utiles.  
-  Mais attention : un vrai Fleuriste qui agirait ainsi serait tué rapidement.  
+  Mais attention : une vraie Fleuriste qui agirait ainsi serait tué rapidement.  
   Si on ne vous tue pas, les joueurs risquent de se demander pourquoi…  
 
 - En tant que [<span style="color:red;">Sbire</span>](../sbires.md), demandez au [<span style="color:red;">Démon</span>](../demons.md) de **vous tuer**.  
@@ -151,22 +156,20 @@ Il doit répondre honnêtement.
   les vrais Fleuristes font souvent cela, ce qui rend le bluff crédible.  
   Vous pouvez aussi d’abord prétendre être un rôle discret comme le [Sage](sage.md) ou la [Dulcinée](dulcinee.md).  
 
-- Le Fleuriste est aussi un excellent **bluff de secours** :  
-  si un autre mensonge échoue, vous pouvez dire que vous bluffiez pour “tromper le Démon”  
-  et que vous êtes en réalité le Fleuriste.  
+- La Fleuriste est aussi un excellent **bluff de secours** :  
+  si un autre bluff échoue, vous pouvez dire que vous bluffiez pour “tromper le Démon”  
+  et que vous êtes en réalité la Fleuriste.  
 
 - Jouer la confusion marche très bien :  
-  dites que vous avez mal noté les votes ou que vous n’êtes pas sûr·e du résultat.  
+  dites que vous avez mal noté les votes ou que vous n’êtes pas sûr du résultat.  
   Même les vrais Fleuristes se trompent parfois, donc ce comportement semble naturel.  
 
 - Enfin, si un [<span style="color:red;">Vortox</span>](vortox.md) est en jeu, donnez des infos **fausses mais cohérentes** :  
-  cela aidera le Bien à en déduire qu’un Vortox est présent, et à retourner la situation.
+  cela aidera le Bien à en déduire qu’un [<span style="color:red;">Vortox</span>](vortox.md) est présent, et à retourner la situation.
 
 ---
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌸 <a href="../sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>🧑‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="../sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
+  <li> <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
 </ul>
