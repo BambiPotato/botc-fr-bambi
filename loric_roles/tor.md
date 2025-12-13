@@ -19,7 +19,7 @@ title: Tor
   </a>
 </div>
 
-# ⚡️ <span style="color:#7fd1ae; font-weight:bold; font-size:18px;">Tor</span>
+#  <span style="color:#7fd1ae; font-weight:bold; font-size:18px;">Tor</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Avec le tonnerre pour voix et l’éclair pour lame, je suis le gardien éternel. Quiconque ose franchir la porte interdite sera frappé. Mon but : purger le scarabée des entrailles de la terre, l’enfermer dans un filet d’étoiles, là où le ciel touche la pierre. »
@@ -27,7 +27,7 @@ title: Tor
 
 ---
 
-## 🧾 <span style="color:#7fd1ae;">Informations</span>
+##  <span style="color:#7fd1ae;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong> <a href="../loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Loric</a></li>
@@ -37,7 +37,7 @@ title: Tor
 
 ---
 
-## 📖 <span style="color:#7fd1ae;">Résumé</span>
+##  <span style="color:#7fd1ae;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong>Les joueurs ne connaissent pas leur rôle ni leur alignement. Ils les apprennent lorsqu’ils meurent.</strong>
@@ -47,9 +47,6 @@ title: Tor
 Tor supprime toute connaissance de « qui est qui » pendant la partie.
 </p>
 
----
-
-## ⚖️ <span style="color:#7fd1ae;">Détails</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Les joueurs ne savent pas quel rôle ils incarnent.</li>
@@ -61,7 +58,7 @@ Tor supprime toute connaissance de « qui est qui » pendant la partie.
 
 ---
 
-## 🎭 <span style="color:#7fd1ae;">Comment Conter</span>
+##  <span style="color:#7fd1ae;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Pendant la préparation, ne fais pas circuler le sac. Tire les rôles toi-même et place-les dans le Grimoire.  
@@ -71,7 +68,7 @@ S’il meurt de nuit, réveille-le et montre-lui successivement le jeton « VOUS
 
 ---
 
-## 🧩 <span style="color:#7fd1ae;">Exemples</span>
+##  <span style="color:#7fd1ae;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Julien, Cédric, Kyllian, Laura, Sarah, Marie et Amélie ne connaissent pas leurs rôles.  
@@ -84,6 +81,6 @@ Marie était le Général, Laura le Mercenaire, et Amélie l’<a href="../tb_ro
 
 ---
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  🌿 <a href="../loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Retour aux rôles Loric</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Retour aux rôles Loric</a>
 </p>
