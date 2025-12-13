@@ -12,7 +12,7 @@ title: Mathématicien
 
 ---
 
-## 🧮 Mathématicien
+## <span style="color:#4ea3ff;">Mathématicien</span>
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="./mathematicien.html" style="text-decoration:none;">
@@ -24,7 +24,7 @@ title: Mathématicien
 
 ---
 
-## ℹ️ Information  
+## <span style="color:#4ea3ff;">Information</span>  
 
 - **Type :** [<span style="color:blue;">**Villageois**</span>](../villageois.md)  
 - **Artiste :** John Grist  
@@ -48,7 +48,7 @@ Ergo, vous êtes ivre. »*
 
 ---
 
-## 📖 Résumé  
+## <span style="color:#4ea3ff;">Résumé</span>  
 
 > « Chaque nuit, vous apprenez combien de capacités de joueurs ont **fonctionné anormalement** (depuis l’aube)  
 > à cause de la capacité d’un autre rôle. »
@@ -58,7 +58,7 @@ Le Mathématicien sait **combien de choses ont “mal tourné”** depuis le lev
 Chaque fois qu’une capacité **ne fonctionne pas comme prévu** à cause d’un autre rôle,  
 le Mathématicien en est informé.  
 
-💡 Cela inclut :
+Cela inclut :
 - lorsqu’une information fausse est donnée à la place d’une vraie,  
 - lorsqu’une capacité échoue à cause d’un autre effet (empoisonnement, ivresse, malédiction, etc.).  
 
@@ -69,40 +69,41 @@ mais détecte **leurs effets** lorsque des capacités échouent.
 > Exemple :  
 > - Le [Reclus](reclus.md) apparaissant comme maléfique pour le [Cuistot](../tb_roles/cuistot.md) serait détecté.  
 > - Un [Soldat](../tb_roles/soldat.md) empoisonné mourant d’une attaque du [<span style="color:red;">Démon</span>](../demons.md) aussi.  
-> - Mais un [Empathique](../tb_roles/empathique.md) empoisonné recevant une info correcte **ne serait pas** détecté.
+> - En revanche, l'[Empathique](../tb_roles/empathique.md) empoisonné obtenant de véritables informations  **ne serait pas** détecté.
 
 ---
 
-## 🎬 Comment Conter  
+## <span style="color:#4ea3ff;">Comment Conter</span>    
 
 - À chaque fois qu’une capacité agit **de manière anormale** à cause d’un autre rôle,  
-  placez un jeton **ABNORMAL** sur le joueur concerné.  
+  placez un jeton **ANORMAL** sur le joueur concerné.  
 - La nuit, réveillez le Mathématicien.  
   Montrez-lui un nombre avec vos doigts (0, 1, 2, etc.) correspondant au nombre de joueurs marqués.  
-- Puis, retirez tous les marqueurs **ABNORMAL**.
+- Puis, retirez tous les marqueurs **ANORMAL**.
 
 ---
 
-## 🧾 Exemples  
+## <span style="color:#4ea3ff;">Exemples</span>    
 
-- L’[Oracle](oracle.md) empoisonné apprend que deux morts sont maléfiques,  
-  alors qu’en réalité trois le sont.  
+- L’[Oracle](oracle.md) empoisonné apprend que deux joueurs morts sont maléfiques, 
+  alors que trois joueurs morts le sont réellement. 
   Le Mathématicien apprend **« 1 »** cette nuit-là.  
 
 - Le [Charmeur de Serpent](charmeurdeserpent.md) empoisonné choisit un Villageois et rien ne se passe.  
-  Le [Parieur](parieur.md) ivre obtient des infos correctes.  
-  Le [Savant](savant.md) apprend deux vérités exactes.  
-  → Le Mathématicien apprend **« 1 »**, car une seule capacité a dévié de son fonctionnement normal.  
+  Le [Jongleur](jongleur.md) Ivrgone obtient des infos correctes.  
+  Le [Savant](savant.md) apprend deux informations exactes.  
+  → Le Mathématicien apprend **« 1 »**, car une seule capacité a fonctionné anormalement, 
+  celle du [Savant](savant.md) qui aurait dû apprendre une information vraie et une information fausse.  
 
 - Un [<span style="color:red;">Vortox</span>](vortox.md) est en jeu.  
   Cinq bons joueurs reçoivent de fausses informations,  
   et la [<span style="color:red;">Sorcière</span>](sorciere.md) ivre ne tue pas quand sa cible nomine.  
-  → Même si six capacités ont dysfonctionné,  
-  le Mathématicien apprend **« 4 »** à cause du pouvoir du [<span style="color:red;">Vortox</span>](vortox.md).
+  → Bien que six capacités aient fonctionné anormalement,
+  le Mathématicien apprend un **« 4 »** à cause du pouvoir du [<span style="color:red;">Vortox</span>](vortox.md).
 
 ---
 
-## 💡 Astuces & Conseils  
+## <span style="color:#4ea3ff;">Astuces & Conseils</span>      
 
 - Votre information devient puissante si vous savez **qui a agi et comment**.  
   Discutez avec les autres joueurs : découvrir **qui a reçu de mauvaises infos**  
@@ -127,7 +128,7 @@ mais détecte **leurs effets** lorsque des capacités échouent.
 - Un résultat de **« 0 »** est une excellente nouvelle :  
   cela signifie que tout fonctionne normalement et que personne n’est affecté.  
 
-- Un **« 1 »** indique qu’une seule capacité a été perturbée —  
+- Un **« 1 »** indique qu’une seule capacité a fonctionné anormalement,   
   si vous découvrez laquelle, tout le reste peut être considéré fiable.  
 
 - Un résultat de **« 2 »** ou plus suggère que la situation dégénère :  
@@ -140,13 +141,16 @@ mais détecte **leurs effets** lorsque des capacités échouent.
 
 ---
 
-## 🎭 Bluff en tant que Mathématicien  
+## <span style="color:#4ea3ff;">Bluffer Mathématicien</span>]
 
-- Restez **sobre** (dans vos chiffres 😄) :  
-  dire « 4 », « 3 » ou même « 2 » semble souvent suspect.  
-  La plupart des vrais Mathématiciens obtiennent **0 ou 1** chaque nuit.  
+Lorsque vous bluffez en vous faisant passer pour le Mathématicien, il y a quelques points à garder à l'esprit :
 
-- Pour la **première nuit**, donnez plutôt un **« 0 »** —  
+- Donnez des chiffres modestes. 
+  Annoncer un « 4 », un « 3 » ou même un « 2 » peut paraître suspect. 
+  La plupart du temps, les vrais mathématiciens (ceux qui ont un diplôme !) obtiennent un « 0 » ou un « 1 » chaque nuit.
+
+
+- Pour la **première nuit**, donnez plutôt un **« 0 »**   
   peu de rôles agissent à ce moment-là.  
   Un **« 1 »** est parfois crédible aussi.  
 
@@ -173,12 +177,71 @@ mais détecte **leurs effets** lorsque des capacités échouent.
 
 - Si vous êtes un [<span style="color:red;">Sbire</span>](../sbires.md) voulant être exécuté tard dans la partie,  
   prétendre un chiffre **illogique** (comme « 0 » alors que tout va mal)  
-  peut vous faire exécuter à la place du Démon.  
+  peut vous faire exécuter à la place du Démon. 
+
+  ---
+
+  <h2 style="color:#4ea3ff; font-size:22px; margin-top:30px;">
+  🧞 Jinxes liés
+</h2>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+  <!-- FEMME DE CHAMBRE -->
+  <li>
+    🧞
+    <img src="../images/Icon_chambermaid.png" alt="Femme de Chambre" width="24"
+         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../bmr_roles/femmedechambre.html"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de Chambre</a> :
+    La <span style="color:#4ea3ff; font-weight:bold;">Femme de Chambre</span> peut détecter
+    si le <span style="color:#4ea3ff; font-weight:bold;">Mathématicien</span> se réveillera
+    cette nuit.
+  </li>
+
+  <!-- IVROGNE -->
+  <li>
+    🧞
+    <img src="../images/Icon_drunk.png" alt="Ivrogne" width="24"
+         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../tb_roles/ivrogne.html"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> :
+    Le <span style="color:#4ea3ff; font-weight:bold;">Mathématicien</span> peut apprendre
+    si la capacité de l’<span style="color:#4ea3ff; font-weight:bold;">Ivrogne</span>
+    a donné une fausse information ou n’a pas fonctionné correctement.
+  </li>
+
+  <!-- LUNATIQUE -->
+  <li>
+    🧞
+    <img src="../images/Icon_lunatic.png" alt="Lunatique" width="24"
+         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../bmr_roles/lunatique.html"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lunatique</a> :
+    Le <span style="color:#4ea3ff; font-weight:bold;">Mathématicien</span> peut apprendre
+    si le <span style="color:#4ea3ff; font-weight:bold;">Lunatique</span> attaque
+    un joueur différent de celui visé par le vrai
+    <span style="color:#d45b5b; font-weight:bold;">Démon</span>.
+  </li>
+
+  <!-- MARIONNETTE -->
+  <li>
+    🧞
+    <img src="../images/Icon_marionette.png" alt="Marionnette" width="24"
+         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/marionette.html"
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> :
+    Le <span style="color:#4ea3ff; font-weight:bold;">Mathématicien</span> peut apprendre
+    si la capacité de la <span style="color:#d45b5b; font-weight:bold;">Marionnette</span>
+    a donné une fausse information ou n’a pas fonctionné correctement.
+  </li>
+
+</ul>
+
+---
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌸 <a href="../sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>🧑‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="../sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
+  <li> <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
 </ul>
