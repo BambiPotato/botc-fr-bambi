@@ -117,7 +117,7 @@ Lors de la première nuit, l’[Horloger](horloger.md) apprend un **« 1 »**.
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer Horloger  
+##  <span style="color:#4ea3ff;">Bluffer Horloger  
 
 - La façon la plus simple et la plus courante de bluffer en tant qu'Horloger est de donner de fausses informations au groupe dès le premier jour.  
   Sachant à combien de pas le <span style="color:red;">Démon</span> et le [<span style="color:red;">Sbire</span>](../sbires.md) se trouvent l'un de l'autre, ces informations erronées peuvent mener la bonne équipe sur une mauvaise pente pendant plusieurs jours.  
