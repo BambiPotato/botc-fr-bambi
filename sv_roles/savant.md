@@ -67,8 +67,7 @@ Le Savant reçoit des informations folles et extraordinaires, différentes chaqu
 - Le Savant peut choisir de ne pas aller voir le Conteur s’il le souhaite.
 - Un Savant ivre ou empoisonné peut recevoir deux informations vraies ou deux informations fausses.
 
-⸻
-
+---
 
 ## <span style="color:#4ea3ff;">Comment Conter</span>   
 
@@ -89,19 +88,19 @@ Le Savant reçoit des informations folles et extraordinaires, différentes chaqu
 ## <span style="color:#4ea3ff;">Exemples</span>   
 
 - « Tous les joueurs portant des lunettes sont bons »  
-  et  
+  ou  
   « Un joueur assis sur le canapé noir est un [<span style="color:red;">Sbire</span>](../sbires.md) ».  
 
 - « Un [Charmeur de Serpent](charmeurdeserpent.md) est en jeu »  
-  et  
+  ou 
   « Tout le monde a reçu une information exacte cette nuit. »  
 
 - « Le [<span style="color:red;">Démon</span>](../demons.md) est une femme »  
-  et  
+  ou
   « Corentin est maléfique. »  
 
 - « Pierre et Céline ont le même alignement »  
-  et  
+ ou 
   « Il y a un seul Étranger en jeu. »
 
 ---
@@ -113,7 +112,7 @@ Le Savant reçoit des informations folles et extraordinaires, différentes chaqu
   Même un “meilleur choix” imparfait peut orienter le village dans la bonne direction.  
 
 - Si l’une des deux affirmations est prouvée vraie,  
-  l’autre devient forcément fausse — et inversement.  
+  l’autre devient forcément fausse et inversement.  
   C’est ainsi que vous transformez deux phrases floues en **faits concrets**.  
 
 - Vous pouvez **provoquer** des tests pour vérifier vos infos.  
@@ -174,7 +173,7 @@ Le Savant reçoit des informations folles et extraordinaires, différentes chaqu
   (sans obtenir de réponse précise) pour rendre votre bluff plus crédible.  
 
 - Évitez les phrases trop **spécifiques** :  
-  > “Nicolas est le Crieur.”  
+  > “Nicolas est le [Crieur](crieur.md).”  
   Si c’est faux, votre autre info devient automatiquement vraie…  
   et pourrait trahir un allié.  
 
