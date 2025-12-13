@@ -28,23 +28,23 @@ title: Lorics
 
 ##  <span style="color:#7fd1ae;">Sommaire</span>
 
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <a href="#presentation" style="color:#7fd1ae; font-weight:bold; text-decoration:none;"> Présentation</a><br>
-  <a href="#comment-conter" style="color:#7fd1ae; font-weight:bold; text-decoration:none;"> Comment Conter</a><br>
-  <a href="#lorics" style="color:#7fd1ae; font-weight:bold; text-decoration:none;"> Lorics</a>
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+  <a href="#presentation" style="color:#f5f5f5; font-weight:bold; text-decoration:none;"> Présentation</a><br>
+  <a href="#comment-conter" style="color:#f5f5f5; font-weight:bold; text-decoration:none;"> Comment Conter</a><br>
+  <a href="#lorics" style="color:#f5f5f5; font-weight:bold; text-decoration:none;"> Lorics</a>
 </p>
 
 ---
 
 ##  <span id="presentation" style="color:#7fd1ae;">Présentation</span>
 
-<p style="text-align:left; color:#e0c99d; font-size:18px; line-height:1.7;">
+<p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
   Les <strong>Lorics</strong> sont des rôles conçus pour les conteurs et conteuses.  
   Ils ressemblent davantage à des <strong>règles spéciales</strong> qu’à des rôles classiques :  
   ils sont immortels, ne participent pas comme des joueurs et modifient le déroulement même du jeu.
 </p>
 
-<p style="text-align:left; color:#e0c99d; font-size:18px; line-height:1.7;">
+<p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
   Alors que les <em>Légendaires</em> servent surtout à <strong>résoudre des situations problématiques</strong>,  
   les <strong>Lorics</strong> sont là pour <strong>créer de nouveaux enjeux</strong>, surprendre le village  
   et renouveler l’intérêt comme l’intensité de la partie.
@@ -54,33 +54,33 @@ title: Lorics
 
 ##  <span id="comment-conter" style="color:#7fd1ae;">Comment Conter</span>
 
-<p style="text-align:left; color:#e0c99d; font-size:18px; line-height:1.7;">
+<p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
   Utilisez les Lorics quand vous le souhaitez.  
   Si vous avez joué un script particulier de nombreuses fois  
   ou si vous voulez simplement changer de rythme,  
   ajouter un <strong>Loric</strong> donne au jeu une sensation de nouveauté et de différence.
 </p>
 
-<p style="text-align:left; color:#e0c99d; font-size:18px; line-height:1.7;">
+<p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
   Pour inclure un <strong>Loric</strong> dans votre partie, choisissez-en un,  
   annoncez au groupe quel Loric est en jeu,  
   puis placez son jeton au centre du côté gauche du <strong>Grimoire</strong>  
   afin de vous rappeler de son effet pendant toute la partie.
 </p>
 
-<p style="text-align:left; color:#e0c99d; font-size:18px; line-height:1.7;">
+<p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
   Tous les Lorics doivent être ajoutés <strong>au début</strong> de la partie.  
   En ajouter plusieurs est possible, mais se fait à vos risques et périls :  
   plus il y en a, plus la partie peut devenir chaotique à gérer.
 </p>
 
-<p style="text-align:left; color:#e0c99d; font-size:18px; line-height:1.7;">
+<p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>Les Lorics ne peuvent ni mourir ni perdre leurs pouvoirs.</strong>  
   Vous êtes conteur ou conteuse, pas joueur ou joueuse :  
   vos Lorics sont donc immunisés contre tous les effets du jeu, y compris la mort, l’ivresse et l’empoisonnement.
 </p>
 
-<p style="text-align:left; color:#e0c99d; font-size:18px; line-height:1.7;">
+<p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
   Comme les <strong>Voyageurs</strong> et les <strong>Légendaires</strong>,  
   ils ne comptent jamais dans la condition de victoire  
   « il ne reste que deux joueurs en vie » de l’équipe maléfique.
@@ -135,5 +135,5 @@ title: Lorics
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7; text-align:left; margin-top:10px;">
   <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li> <a href="./loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Loric</a></li>
+  <li> <a href="./loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Lorics</a></li>
 </ul>
