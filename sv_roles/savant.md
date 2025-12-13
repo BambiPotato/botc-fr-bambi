@@ -12,7 +12,7 @@ title: Savant
 
 ---
 
-## 🦽 Savant
+## <span style="color:#4ea3ff;">Savant</span>
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="./savant.html" style="text-decoration:none;">
@@ -24,7 +24,7 @@ title: Savant
 
 ---
 
-## ℹ️ Information  
+## <span style="color:#4ea3ff;">Information</span>  
 
 - **Type :** [<span style="color:blue;">**Villageois**</span>](../villageois.md)  
 - **Artiste :** Aidan Roberts  
@@ -37,7 +37,7 @@ Soixante-douze allumettes sur le sol… »*
 
 ---
 
-## 🎭 Apparaît dans  
+## Apparaît dans  
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../sv.html" style="text-decoration:none;">
@@ -51,35 +51,42 @@ Soixante-douze allumettes sur le sol… »*
 
 ---
 
-## 📖 Résumé  
+## <span style="color:#4ea3ff;">Résumé</span>  
 
 > « Chaque jour, vous pouvez rendre visite au Conteur pour apprendre **2 informations en privé** :  
 > l’une est vraie et l’autre est fausse. »
 
-Le Savant reçoit **chaque jour** deux faits mystérieux — l’un véridique, l’autre mensonger — choisis par le Conteur.  
-Ces informations sont **toujours secrètes** et **uniques à chaque partie**.  
+Le Savant reçoit des informations folles et extraordinaires, différentes chaque jour et à chaque partie, mais exactement la moitié d’entre elles est totalement fausse.
 
-- Le Savant choisit **s’il veut consulter** le Conteur ce jour-là.  
-- Un Savant ivre ou empoisonné peut recevoir **deux vérités** ou **deux mensonges**.  
-- Ce n’est **pas une discussion publique** : les autres joueurs ne peuvent pas écouter.  
+- Chaque jour, le Conteur choisit deux informations à transmettre au Savant… alors faites preuve de créativité !
+- L’une doit être vraie et l’autre fausse, et le Savant ne sait pas laquelle est laquelle.
 
----
+- C’est au Savant de venir parler au Conteur, et non l’inverse. 
+- Cette discussion n’est pas publique, et le groupe ne peut pas l’entendre : elle est privée.
 
-## 🎬 Comment Conter  
+- Le Savant peut choisir de ne pas aller voir le Conteur s’il le souhaite.
+- Un Savant ivre ou empoisonné peut recevoir deux informations vraies ou deux informations fausses.
 
-- Une fois par jour, si le Savant demande une entrevue,  
-  éloignez-vous du cercle pour parler discrètement.  
-- Chuchotez **deux informations** :  
-  - l’une doit être **vraie**,  
-  - l’autre **fausse**.  
-- Si vous manquez d’idées, inspirez-vous d’autres rôles Villageois pour formuler des infos cohérentes mais non décisives.  
+⸻
 
-> 🧩 L’information doit être utile mais jamais déterminante  
+
+## <span style="color:#4ea3ff;">Comment Conter</span>   
+
+- Une fois par jour, si le Savant vous demande un entretien privé, éloignez-vous du cercle afin de ne pas être entendu. 
+- Murmurez-lui deux informations : 
+ - l’une vraie 
+ - l’autre fausse
+- Si vous ne trouvez pas immédiatement deux informations, prenez votre temps ou demandez-lui de revenir dans quelques minutes.
+
+
+> *Astuces & Conseils pour les Conteurs et Conteuses
+> L’information doit être utile mais jamais déterminante  
 > (ne dites pas directement qui est le [<span style="color:red;">Démon</span>](../demons.md) !)
+> Si vous manquez d’idées, inspirez-vous d’autres rôles Villageois pour formuler des infos cohérentes mais non décisives.
 
 ---
 
-## 🧾 Exemples  
+## <span style="color:#4ea3ff;">Exemples</span>   
 
 - « Tous les joueurs portant des lunettes sont bons »  
   et  
@@ -99,7 +106,7 @@ Ces informations sont **toujours secrètes** et **uniques à chaque partie**.
 
 ---
 
-## 💡 Astuces & Conseils  
+## <span style="color:#4ea3ff;">Astuces & Conseils</span>   
 
 - Chaque jour, vous recevez une **vérité** et un **mensonge**.  
   Souvent, vous devrez simplement **parier sur la bonne moitié**.  
@@ -152,7 +159,7 @@ Ces informations sont **toujours secrètes** et **uniques à chaque partie**.
 
 ---
 
-## 🎭 Bluff en tant que Savant  
+## <span style="color:#4ea3ff;">Bluffer Savant</span>   
 
 - Gardez vos affirmations **simples** :  
   > “J’ai un voisin maléfique” ou “Un [Horloger](horloger.md) est en jeu.”  
@@ -191,9 +198,7 @@ Ces informations sont **toujours secrètes** et **uniques à chaque partie**.
 ---
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌸 <a href="../sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>🧑‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="../sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
+  <li> <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
 </ul>
