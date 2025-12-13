@@ -109,7 +109,7 @@ Lors de la première nuit, l’[Horloger](horloger.md) apprend un **« 1 »**.
   Les joueurs <span style="color:red;">maléfiques</span> ont tendance à survivre plus longtemps et à se soutenir entre eux — ce qui les rend plus visibles.  
 
 - Observez qui reste en vie et collabore encore : ils pourraient bien être du côté du mal.  
-  La plupart des [<span style="color:red;">Sbires</span>](../sbires.md) dans [**Sects & Violets**](../sv.md) ont des pouvoirs visibles ou perceptibles, donc il devient évident lorsqu’ils meurent.  
+  La plupart des [<span style="color:red;">Sbires</span>](../sbires.md) dans [<span style="color:#d67bff;">**Sects & Violets**</span>](../sv.md) ont des pouvoirs visibles ou perceptibles, donc il devient évident lorsqu’ils meurent.  
 
 - ➡️ Par exemple, si soudainement personne ne meurt à cause de la [<span style="color:red;">Sorcière</span>](sorciere.md), que plus personne ne devient fou à cause du [<span style="color:red;">Cerenovus</span>](cerenovus.md), ou qu’il n’y a plus de transformations par la [<span style="color:red;">Pit-Hag</span>](pithag.md), c’est sans doute qu’un [<span style="color:red;">Sbire</span>](../sbires.md) a été exécuté.  
   Trouver lequel vous ramènera directement au <span style="color:red;">Démon</span> !  
