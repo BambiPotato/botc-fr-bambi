@@ -74,7 +74,7 @@ Le silence prend fin au moment du vote.
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong>Cédric</strong> prétend être le <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a> et est nommé.  
-Il choisit <strong>Alexandre</strong> pour parler en son nom..  
+Il choisit <strong>Alexandre</strong> pour parler en son nom.  
 Alexandre défend son innocence et propose d’exécuter <strong>Nicolas</strong> à la place. Alexandre survit.<br><br>
 <strong>Vanessa</strong> est l' <a href="../roles_experimentaux/ermite.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ermite</a> 
 mais ne l’a pas dit.  
