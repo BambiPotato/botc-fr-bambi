@@ -12,7 +12,7 @@ title: Philosophe
 
 ---
 
-## 🧐 Philosophe
+## <span style="color:#4ea3ff;">Philosophe</span>
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="./philosophe.html" style="text-decoration:none;">
@@ -24,7 +24,7 @@ title: Philosophe
 
 ---
 
-## ℹ️ Information  
+## <span style="color:#4ea3ff;">Information</span>  
 
 - **Type :** [<span style="color:blue;">**Villageois**</span>](../villageois.md)  
 - **Artiste :** Aidan Roberts  
@@ -32,7 +32,7 @@ title: Philosophe
 
 ---
 
-## 🎭 Apparaît dans  
+##  Apparaît dans  
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../sv.html" style="text-decoration:none;">
@@ -46,26 +46,33 @@ title: Philosophe
 
 ---
 
-## 📖 Résumé  
+## <span style="color:#4ea3ff;">Résumé</span>  
 
 > « Une fois par partie, pendant la nuit, choisissez un rôle bon : 
 > vous gagnez **sa capacité**.  
 > Si ce rôle est déjà en jeu, il devient **ivre.** »
+  
+Le Philosophe n’a aucune capacité tant qu’il n’a pas décidé quel rôle il souhaite imiter.
 
-Le Philosophe n’a **aucune capacité** tant qu’il n’a pas choisi quel rôle imiter.  
-Une fois dans la partie, il peut **gagner la capacité** d’un [Villageois](../villageois.md) ou d’un [Étranger](../etrangers.md), sans devenir ce rôle pour autant.  
+- Il peut le faire une fois par partie. Lorsqu’il le fait, il gagne la capacité de ce rôle, sans devenir ce rôle.
+- Il peut choisir d’attendre avant de faire son choix.
+- Si le Philosophe choisit un rôle qui est déjà en jeu, 
+  le joueur qui possède ce rôle devient ivre. 
+- Si le Philosophe meurt, devient ivre ou empoisonné, le joueur qu’il rend ivre redevient sobre.
 
-- Si le rôle choisi **est déjà en jeu**, son détenteur devient **ivre**.  
-- Si le Philosophe **meurt** ou devient **ivre/empoisonné**,  
-  le joueur ivre **redevient sobre**.  
-- Si le rôle choisi **entre en jeu plus tard**, il devient alors ivre.  
-- Si le Philosophe choisit un rôle de nuit, il agit quand ce rôle agirait normalement.  
-- Si le Philosophe regagne sa capacité (par ex. via le Barista ou le Bone Collector),  
-  il peut **rechoisir** une capacité, identique ou différente.
+- Si le Philosophe choisit un rôle qui n’était pas en jeu au moment de son choix mais qui l’est désormais, ce rôle est ivre.
+
+- Si le Philosophe gagne une capacité qui fonctionne de nuit, il se réveille au moment où ce rôle se réveillerait. 
+- Si cette capacité ne fonctionne que lors de la première nuit, il l’utilise cette nuit-là.
+
+- Si le Philosophe récupère sa capacité grâce au Collecteur d’Os, ou utilise sa capacité deux fois grâce au Barista, 
+il peut choisir une nouvelle capacité ou la même capacité que précédemment.
+
+- Si la capacité choisie par le Philosophe fonctionne même lorsqu’on est mort, comme celle du Maladroit, elle fonctionne également si le Philosophe est mort.
 
 ---
 
-## 🎬 Comment Conter  
+## <span style="color:#4ea3ff;">Comment Conter</span>  
 
 - Chaque nuit, réveillez le Philosophe.  
   Il peut :
@@ -81,25 +88,26 @@ Une fois dans la partie, il peut **gagner la capacité** d’un [Villageois](../
 
 ---
 
-## 🧾 Exemples  
+## <span style="color:#4ea3ff;">Exemples</span>  
 
-- **Première nuit :**  
-  Le Philosophe choisit de copier le [Rêveur](reveur.md).  
-  Il agit désormais comme lui, chaque nuit.  
 
-- **Troisième nuit :**  
-  Il choisit l’[Horloger](horloger.md).  
-  Cette nuit-là, il apprend la distance entre le Démon et le Sbire le plus proche.  
+- Lors de la première nuit, le Philosophe choisit de gagner la capacité du rôle du [Rêveur](reveur.md). 
+  - À partir de ce moment-là, il possède la capacité du [Rêveur](reveur.md) et agit lorsque le [Rêveur](reveur.md) agirait normalement.
 
-- **Exemple avec ivresse :**  
-  Un [Artiste](artiste.md) est en jeu.  
-  Le Philosophe décide de copier son pouvoir.  
-  L’Artiste original devient **ivre**.  
-  Plus tard, le Philosophe meurt → l’Artiste redevient sobre.  
+- Lors de la troisième nuit, le Philosophe choisit de gagner la capacité du rôle de l’[Horloger](horloger.md). 
+ - Cette nuit-là, il apprend la distance entre le Démon et son Sbire le plus proche.
+
+- Un [Artiste](artiste.md) est en jeu. Le Philosophe choisit de gagner la capacité du rôle de l’[Artiste](artiste.md). 
+ - L’[Artiste](artiste.md) original devient ivre. 
+ - Plus tard, le Philosophe meurt, et l’[Artiste](artiste.md) original redevient sobre. 
+ - L’[Artiste](artiste.md) original redeviendrait également sobre si le Philosophe devenait ivre.
+
+
+
 
 ---
 
-## 💡 Astuces & Conseils  
+## <span style="color:#4ea3ff;">Astuces & Conseils</span>  
 
 - Le Philosophe est l’un des rôles les plus **polyvalents** :  
   il peut devenir n’importe quel bon personnage du script.  
@@ -108,7 +116,7 @@ Une fois dans la partie, il peut **gagner la capacité** d’un [Villageois](../
 ### Quelques choix stratégiques :
 - **[Horloger](horloger.md)** : utile pour confirmer ou contredire une information initiale, même en milieu de partie.  
 - **[Rêveur](reveur.md)** : parfait pour dévoiler les rôles cachés, surtout face à un [<span style="color:red;">Vortox</span>](vortox.md).  
-- **[Charmeur de Serpent](charmeurdeserpent.md)** : détecte le Démon, et vous pouvez même… le devenir. 😈  
+- **[Charmeur de Serpent](charmeurdeserpent.md)** : détecte le Démon, et vous pouvez même… le devenir.
 - **[Mathématicien](mathematicien.md)** : permet de vérifier quelles informations sont fiables.  
 - **[Fleuriste](fleuriste.md)** : redouté des Démons ; savoir quand il a voté est un atout puissant.  
 - **[Crieur](crieur.md)** : idéal contre les [<span style="color:red;">Sbires</span>](../sbires.md) comme la [<span style="color:red;">Sorcière</span>](sorciere.md).  
@@ -119,49 +127,68 @@ Une fois dans la partie, il peut **gagner la capacité** d’un [Villageois](../
 - **[Jongleur](jongleur.md)** : pratique pour tester les déclarations en milieu de partie.  
 - **[Sage](sage.md)** : une proie tentante pour le Démon — et une belle opportunité de piéger celui-ci.  
 
-### Autres options :
+
 - **[Barbier](barbier.md)** ou **[Maladroit](maladroit.md)** : peu puissants, mais peuvent générer des ivresses utiles ou des tests de confiance.  
 - Copier un **Étranger** permet parfois d’annuler son impact négatif, ou de forcer un [<span style="color:red;">Démon</span>](../demons.md) à cibler un mauvais moment.  
-
----
-
-## 🧠 Conseils de jeu  
 
 - Utilisez votre pouvoir **tôt**, pour influencer la partie avant d’être tué.  
 - Ou attendez quelques nuits pour choisir **le rôle le plus stratégique** selon la situation.  
 - Renseignez-vous avant d’agir : copier un rôle déjà en jeu rend ce joueur **ivre**, ce qui peut nuire à l’équipe.  
 - Vous pouvez aussi **doubler un rôle** pour sécuriser une information cruciale (par ex. deux Oracles, deux Crieurs…).  
 - Si un joueur devient ivre à cause de vous, ses infos devraient diverger : si ce n’est pas le cas, il est peut-être maléfique.  
-- Ou… ignorez tout ça et transformez-vous juste en votre rôle préféré. 🍻  
+- Ou… ignorez tout ça et transformez-vous juste en votre rôle préféré.  
 
 ---
 
-## 🎭 Bluff en tant que Philosophe  
+## <span style="color:#4ea3ff;">Bluffer Philosophe</span>    
 
-- 🎯 **Pour neutraliser un joueur gênant :**  
+-  **Pour neutraliser un joueur gênant :**  
   prétendez avoir choisi *son* rôle.  
   → Son info devient “ivre”, donc suspecte.  
   > Exemple : « J’ai choisi le rôle du Savant cette nuit, donc son info est fausse. »  
 
-- 🌀 Si votre bluff initial échoue, le Philosophe est une excellente **porte de sortie**.  
+-  Si votre bluff initial échoue, le Philosophe est une excellente **porte de sortie**.  
   Vous pouvez justifier toute duplication de rôle :  
   > “Ah, c’est normal qu’on soit deux Savants, je suis le Philosophe.”  
 
-- 😈 Choisissez un rôle **perturbateur** à imiter (Savant, Couturière, Horloger…)  
+-  Choisissez un rôle **perturbateur** à imiter ([Savant](savant.md), [Couturière](couturiere.md), [Horloger](horloger.md)…)  
   pour semer la confusion dans les infos de la bonne équipe.  
 
-- 💬 Demandez publiquement quel rôle vous devriez devenir :  
+-  Demandez publiquement quel rôle vous devriez devenir :  
   cela vous fera passer pour un joueur sincère et coopératif.  
 
-- 🔮 Si un autre maléfique bluffe un rôle difficile,  
+-  Si un autre maléfique bluffe un rôle difficile,  
   prétendez être le Philosophe ayant copié ce rôle :  
   > “Leur info est fausse parce qu’ils sont ivres à cause de moi.”  
   Cela crédibilise votre allié tout en vous protégeant.  
 
+  ---
+
+  <h2 style="color:#4ea3ff; font-size:22px; margin-top:30px;">
+  🧞 Jinxes lié
+</h2>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+  <!-- BOUNTY HUNTER -->
+  <li>
+    🧞
+    <img src="../images/Icon_bountyhunter.png" alt="Chasseur de Primes" width="24"
+         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/bountyhunter.html"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chasseur de Prime</a> :
+    Si le <span style="color:#4ea3ff; font-weight:bold;">Philosophe</span> gagne la capacité
+    du <span style="color:#4ea3ff; font-weight:bold;">Chasseur de Prime</span>,
+    un <strong>Villageois</strong> peut devenir maléfique.
+  </li>
+
+</ul>
+
+---
+
+
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌸 <a href="../sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>🧑‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="../sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
+  <li> <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
 </ul>
