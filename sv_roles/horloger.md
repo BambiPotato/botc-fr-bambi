@@ -12,7 +12,7 @@ title: Horloger
 
 ---
 
-## 🕰️ Horloger
+##  <span style="color:#4ea3ff;">Horloger</span>
 
 <!-- 🧩 Image centrée cliquable avec nom centré -->
 <div style="text-align:center; margin: 20px 0;">
@@ -25,7 +25,7 @@ title: Horloger
 
 ---
 
-## ℹ️ Information  
+##  <span style="color:#4ea3ff;">Information</span>  
 
 - **Type :** [<span style="color:blue;">**Villageois**</span>](../villageois.md)  
 - **Artiste :** Aidan Roberts  
@@ -33,7 +33,7 @@ title: Horloger
 
 ---
 
-## 🎭 Apparaît dans  
+## Apparaît dans  
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../sv.html" style="text-decoration:none;">
@@ -50,40 +50,43 @@ title: Horloger
 
 ---
 
-## 📖 Résumé  
+##  <span style="color:#4ea3ff;">Résumé</span>  
 
 > « Vous commencez en sachant combien de pas séparent le <span style="color:red;">Démon</span> de son [<span style="color:red;">Sbire</span>](../sbires.md) le plus proche. »
 
-- « L'horloger commence à savoir combien de pas séparent le <span style="color:red;">Démon</span> de son [<span style="color:red;">Sbire</span>](../sbires.md) le plus proche. »  
+« L'Horloger détermine la distance entre le <span style="color:red;">Démon</span> et son [<span style="color:red;">Sbire</span>](../sbires.md) le plus proche. »   
 
-- L’Horloger apprend la distance qui sépare le <span style="color:red;">Démon</span> de son [<span style="color:red;">Sbire</span>](../sbires.md) le plus proche.  
-- Il reçoit cette information uniquement la première nuit.  
+- L'horloger ne l'apprend que la première nuit. 
 - La distance correspond au nombre de joueurs assis entre eux, en partant du joueur situé à côté du <span style="color:red;">Démon</span> jusqu’à atteindre le [<span style="color:red;">Sbire</span>](../sbires.md) le plus proche, dans le sens horaire ou antihoraire (le plus court chemin est retenu).  
 
 ---
 
-## 🎬 Comment Conter  
+##   <span style="color:#4ea3ff;">Comment Conter</span>  
+  
 
 - Lors de la première nuit, réveillez l’Horloger.  
-- Montrez-lui un nombre avec vos doigts ✌🏻 (1, 2, etc.) correspondant à la distance entre le <span style="color:red;">Démon</span> et le [<span style="color:red;">Sbire</span>](../sbires.md) le plus proche, en commençant par le joueur voisin du <span style="color:red;">Démon</span> le plus proche de ce Sbire.  
+- Montrez-lui un nombre avec vos doigts ✌🏻 (1, 2, etc.) correspondant à la distance entre le <span style="color:red;">Démon</span> et le [<span style="color:red;">Sbire</span>](../sbires.md) le plus proche, en commençant par le joueur voisin du <span style="color:red;">Démon</span> le plus proche de ce Sbire. 
 - Puis rendormez l’Horloger.  
 
 ---
 
-## 🧾 Exemples  
+##  <span style="color:#4ea3ff;">Exemples</span>   
 
-- Le [<span style="color:red;">Fang Gu</span>](fanggu.md) est assis à côté de la [<span style="color:red;">Pit-Hag</span>](pithag.md). Lors de la première nuit, l’[Horloger](horloger.md) apprend un **« 1 »**.  
-- Dans le sens des aiguilles d'une montre ⌚️ à partir du [<span style="color:red;">No Dashii</span>](nodashii.md) sont assis le [Rêveur](reveur.md), le [Charmeur de serpent](charmeurdeserpent.md) et le [<span style="color:red;">Jumeau maléfique</span>](jumeaumalefique.md).  
+- Le [<span style="color:red;">Fang Gu</span>](fanggu.md) est assis à côté de la [<span style="color:red;">Pit-Hag</span>](pithag.md). 
+Lors de la première nuit, l’[Horloger](horloger.md) apprend un **« 1 »**. 
+
+- Dans le sens des aiguilles d'une montre à partir du [<span style="color:red;">No Dashii</span>](nodashii.md) sont assis le [Rêveur](reveur.md), le [Charmeur de serpent](charmeurdeserpent.md) et le [<span style="color:red;">Jumeau maléfique</span>](jumeaumalefique.md).  
 - Dans le sens antihoraire *(sens inverse des aiguilles d'une montre)* sont assis le [Mutant](mutant.md), la [Dulcinée](dulcinee.md), le [Philosophe](philosophe.md), le [Sage](sage.md), puis la [<span style="color:red;">Sorcière</span>](sorciere.md).  
   La [<span style="color:red;">Sorcière</span>](sorciere.md) est à 5 pas du <span style="color:red;">Démon</span>, et le [<span style="color:red;">Jumeau maléfique</span>](jumeaumalefique.md) à 3.  
   L’[Horloger](horloger.md) apprend donc un **« 3 »** lors de la première nuit.  
+  
 - Le [<span style="color:red;">Fang Gu</span>](fanggu.md) est voisin de deux Voyageurs, l’un bon, l’autre [<span style="color:red;">maléfique</span>].  
   À côté de l’un d’eux se trouve un [<span style="color:red;">Cerenovus</span>](cerenovus.md).  
   Lors de la première nuit, l’Horloger apprend un **« 2 »**, car les <span style="color:purple;">Voyageurs maléfiques</span> ne comptent pas comme des [<span style="color:red;">Sbires</span>](../sbires.md).  
 
 ---
 
-## 💡 Astuces & Conseils  
+## <span style="color:#4ea3ff;">Astuces & Conseils</span>  
 
 - Vous n’avez pas besoin de révéler votre information immédiatement.  
   Attendez quelques jours pour observer les autres joueurs : vous pourriez découvrir des comportements suspects pendant que l’équipe <span style="color:red;">maléfique</span> pense que la pression est retombée.  
@@ -114,7 +117,7 @@ title: Horloger
 
 ---
 
-## 🎭 Bluff en tant qu’Horloger  
+## 🎭 <span style="color:#4ea3ff;">Bluffer Horloger  
 
 - La façon la plus simple et la plus courante de bluffer en tant qu'Horloger est de donner de fausses informations au groupe dès le premier jour.  
   Sachant à combien de pas le <span style="color:red;">Démon</span> et le [<span style="color:red;">Sbire</span>](../sbires.md) se trouvent l'un de l'autre, ces informations erronées peuvent mener la bonne équipe sur une mauvaise pente pendant plusieurs jours.  
@@ -133,10 +136,29 @@ title: Horloger
 
 --- 
 
+<h2 style="color:#4ea3ff; font-size:22px; margin-top:30px;">
+  🧞 Jinxes liés
+</h2>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+  <!-- SUMMONER -->
+  <li>
+    🧞
+    <img src="../images/Icon_summoner.png" alt="Invocateur" width="24"
+         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/summoner.html"
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocateur</a> :
+    L’<span style="color:#d45b5b; font-weight:bold;">Invocateur</span> est considéré comme le
+    <span style="color:#d45b5b; font-weight:bold;">Démon</span> pour l’horloger.
+  </li>
+
+</ul>
+
+---
+
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌸 <a href="../sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>🧑‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="../sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
+  <li> <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
 </ul>
