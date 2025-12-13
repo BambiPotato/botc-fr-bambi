@@ -12,7 +12,7 @@ title: Crieur
 
 ---
 
-## 🔔 Crieur
+##  <span style="color:#4ea3ff;">Crieur</span>
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="./crieur.html" style="text-decoration:none;">
@@ -24,7 +24,7 @@ title: Crieur
 
 ---
 
-## ℹ️ Information  
+## <span style="color:#4ea3ff;">Information  
 
 - **Type :** [<span style="color:blue;">**Villageois**</span>](../villageois.md)  
 - **Artiste :** Aidan Roberts  
@@ -33,7 +33,7 @@ Un savant génial dévoile tout ! Le village est en danger ! Ôyez, ôyez ! »*
 
 ---
 
-## 🎭 Apparaît dans  
+##  Apparaît dans  
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../sv.html" style="text-decoration:none;">
@@ -47,19 +47,19 @@ Un savant génial dévoile tout ! Le village est en danger ! Ôyez, ôyez ! »*
 
 ---
 
-## 📖 Résumé  
+## <span style="color:#4ea3ff;">Résumé  
 
 > « Chaque nuit*, vous apprenez si un [<span style="color:red;">Sbire</span>](../sbires.md) a nommé aujourd’hui. »
 
-Le Crieur sait si un [<span style="color:red;">Sbire</span>](../sbires.md) a effectué une **nomination**.  
+Le Crieur sait quand un [<span style="color:red;">Sbire</span>](../sbires.md) a fait une **nomination**.  
 
-Chaque nuit, le Crieur apprend **“oui”** ou **“non”** :  
+Chaque nuit, le Crieur apprend un **“oui”** ou **“non”** :  
 - Il ne sait **pas combien** de Sbires ont nommé,  
-- ni **lesquels** ont fait une nomination — seulement si **au moins un** l’a fait.  
+- ni **lesquels** ont fait une nomination seulement si **au moins un Sbire** a fait une nomination.  
 
 ---
 
-## 🎬 Comment Conter  
+## <span style="color:#4ea3ff;">Comment Conter</span>  
 
 - À chaque aube, placez à côté du rôle du Crieur un jeton **SBIRE N’A PAS NOMMÉ** et retirez **SBIRE A NOMMÉ** s’il existe.  
 - Pendant la journée, si un [<span style="color:red;">Sbire</span>](../sbires.md) fait une nomination,  
@@ -70,12 +70,15 @@ Chaque nuit, le Crieur apprend **“oui”** ou **“non”** :
   - Puis rendormez le Crieur.  
 - Retirez ensuite tous les jetons de rappel “SBIRE A NOMMÉ”.  
 
-> 💤 Si vous avez un doute, réveillez chaque [<span style="color:red;">Sbire</span>](../sbires.md) la nuit et montrez-lui le jeton *“As-tu nommé aujourd’hui ?”*.  
-Ils doivent répondre honnêtement avant de se rendormir.
+> *Astuces & Conseils pour les Conteurs et Conteuses
+> Si vous vous oubliez si un [<span style="color:red;">Sbire</span>](../sbires.md) a fait une nomination,
+ réveillez chaque [<span style="color:red;">Sbire</span>](../sbires.md) la nuit et montrez-lui le jeton :
+> *“As-tu nommé aujourd’hui ?”*.  
+> Ils doivent répondre honnêtement puis se rendormir.
 
 ---
 
-## 🧾 Exemples  
+## <span style="color:#4ea3ff;">Exemples</span>  
 
 - Quatre joueurs ont nommé aujourd’hui.  
   Deux d’entre eux sont des [<span style="color:red;">Sbires</span>](../sbires.md).  
@@ -83,11 +86,11 @@ Ils doivent répondre honnêtement avant de se rendormir.
   → Cette nuit-là, le Crieur apprend **“oui”**.  
 
 - Un [<span style="color:red;">Sbire</span>](../sbires.md) a demandé l’exil d’un Voyageur, et celui-ci a été exilé.  
-  → Le Crieur apprend **“non”**, car les exils ne sont **jamais** affectés par les capacités.
+  → Le Crieur apprend **“non”**, car les exils ne sont **jamais** affectés par les capacités des rôles.
 
 ---
 
-## 💡 Astuces & Conseils  
+## <span style="color:#4ea3ff;">Astuces & Conseils</span>  
 
 - **Soyez attentif** à qui nomine chaque jour !  
   Votre pouvoir n’a de valeur que si vous suivez les nominations en direct.  
@@ -120,12 +123,12 @@ Ils doivent répondre honnêtement avant de se rendormir.
 
 ---
 
-## 🎭 Bluff en tant que Crieur  
+## <span style="color:#4ea3ff;">Bluffer Crieur</span>  
 
 - Utilisez votre prétendu pouvoir pour **diriger les nominations** :  
   les bons joueurs voudront prouver qu’ils ne sont pas [<span style="color:red;">Sbires</span>](../sbires.md)  
   et suivront volontiers vos suggestions.  
-  Cela peut être mortel si une [<span style="color:red;">Sorcière</span>](sorciere.md) est en jeu 😈.  
+  Cela peut être mortel si une [<span style="color:red;">Sorcière</span>](sorciere.md) est en jeu.  
 
 - Donnez des **infos inversées** :  
   dites “non” quand un [<span style="color:red;">Sbire</span>](../sbires.md) a nommé,  
@@ -146,16 +149,14 @@ Ils doivent répondre honnêtement avant de se rendormir.
 
 - Quand tous les [<span style="color:red;">Sbires</span>](../sbires.md) sont morts,  
   évitez d’en inventer d’autres.  
-  Dans *Sects & Violets*, leurs actions sont souvent visibles (transformations, meurtres, folies).  
+  Dans *[<span style="color:#d67bff;">Sects & Violets</span>](../sv.md)*, leurs actions sont souvent visibles (transformations, meurtres, folies).  
   Si tout est calme, persister à dire qu’il reste un <span style="color:red;">Sbire</span> éveillera les soupçons contre vous.
 
 ---
 
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌸 <a href="../sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>🧑‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="../sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
+  <li> <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
 </ul>
