@@ -202,7 +202,7 @@ Lorsque vous bluffez en vous faisant passer pour le Mathématicien, il y a quelq
   <!-- IVROGNE -->
   <li>
     🧞
-    <img src="../images/Icon_drunk.png" alt="Ivrogne" width="24"
+    <img src="../images/Icon_drunk-1.png" alt="Ivrogne" width="24"
          style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../tb_roles/ivrogne.html"
        style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> :
