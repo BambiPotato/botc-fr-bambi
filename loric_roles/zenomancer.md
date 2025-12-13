@@ -19,7 +19,7 @@ title: Zénomancien
   </a>
 </div>
 
-# 🌿 <span style="color:#7fd1ae; font-weight:bold; font-size:18px;">Zénomancien</span>
+#  <span style="color:#7fd1ae; font-weight:bold; font-size:18px;">Zénomancien</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « L’univers est un verbe, pas un nom, disent-ils. Et ce sont des tortues, des tortues jusqu’en bas.  
@@ -28,7 +28,7 @@ title: Zénomancien
 
 ---
 
-## 🧾 <span style="color:#7fd1ae;">Informations</span>
+##  <span style="color:#7fd1ae;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong> <a href="../loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Loric</a></li>
@@ -38,7 +38,7 @@ title: Zénomancien
 
 ---
 
-## 📖 <span style="color:#7fd1ae;">Résumé</span>
+##  <span style="color:#7fd1ae;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong>« Un ou plusieurs joueurs reçoivent chacun un objectif. Lorsqu’il est accompli, ce joueur apprend une information vraie. »</strong>
