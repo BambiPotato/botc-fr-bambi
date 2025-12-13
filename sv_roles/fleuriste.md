@@ -95,6 +95,8 @@ La Fleuriste sait si un [<span style="color:red;">Démon</span>](../demons.md) s
 - Il n'y a pas eu de nominations aujourd'hui. 
   Un Voyageur a été exilé, et tous les joueurs ont levé la main pour l'exiler. 
   Cette nuit-là, la Fleuriste apprend que le Démon n'a pas voté. (Les exilés ne sont jamais affectés par les capacités.)
+
+  
 ---
 
 ## <span style="color:#4ea3ff;">Astuces & Conseils</span>  
@@ -131,7 +133,7 @@ La Fleuriste sait si un [<span style="color:red;">Démon</span>](../demons.md) s
 
 - Dans certains cas rares, vous pouvez détecter un [<span style="color:red;">Vortox</span>](vortox.md) :  
   si **tous les joueurs votent**, mais que vous apprenez “non”,  
-  c’est probablement parce que vos infos sont **fausses** — un Vortox est alors probablement en jeu.
+  c’est probablement parce que vos infos sont **fausses**, un [<span style="color:red;">Vortox</span>](vortox.md) est alors probablement en jeu.
 
 ---
 
@@ -143,7 +145,7 @@ La Fleuriste sait si un [<span style="color:red;">Démon</span>](../demons.md) s
 
 - Si vous accusez un joueur maléfique, jouez **de manière suspecte** pour le blanchir indirectement :  
   souriez en mentant, accusez des joueurs de confiance,  
-  changez d’histoire — paraître incohérent rendra vos cibles plus crédibles.  
+  changez d’histoire paraître incohérent rendra vos cibles plus crédibles.  
 
 - Vous pouvez influencer les votes pour fabriquer des informations utiles.  
   Mais attention : une vraie Fleuriste qui agirait ainsi serait tué rapidement.  
@@ -168,6 +170,7 @@ La Fleuriste sait si un [<span style="color:red;">Démon</span>](../demons.md) s
   cela aidera le Bien à en déduire qu’un [<span style="color:red;">Vortox</span>](vortox.md) est présent, et à retourner la situation.
 
 ---
+
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li> <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
   <li> <a href="../sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
