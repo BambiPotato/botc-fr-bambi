@@ -12,7 +12,7 @@ title: Charmeur de Serpent
 
 ---
 
-## 🐍 Charmeur de Serpent
+##  <span style="color:#4ea3ff;">Charmeur de Serpent</span>
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="./charmeurdeserpent.html" style="text-decoration:none;">
@@ -24,7 +24,7 @@ title: Charmeur de Serpent
 
 ---
 
-## ℹ️ Information  
+##  <span style="color:#4ea3ff;">Information</span>  
 
 - **Type :** [<span style="color:blue;">**Villageois**</span>](../villageois.md)  
 - **Artiste :** Aidan Roberts  
@@ -47,24 +47,25 @@ On dit que la cupidité pend plus d’hommes qu’une corde. Mais pas moi, Effen
 
 ---
 
-## 📖 Résumé  
+## <span style="color:#4ea3ff;">Résumé</span>  
 
 > « Chaque nuit, choisissez un joueur vivant :  
 > si c'est un [<span style="color:red;">Démon</span>](../demons.md), vous échangez vos rôles et vos alignements avec lui, et il est **empoisonné**. »
 
 Le Charmeur de Serpent découvre nuit après nuit des joueurs qui ne sont pas le [<span style="color:red;">Démon</span>](../demons.md)...  
-Mais s’il devient trop audacieux ou trop curieux, il **devient lui-même le Démon**.
+Mais s’il devient trop avide ou trop audacieux, il **devient lui-même le Démon**.
 
 Chaque nuit, il choisit un joueur :
 - Si ce joueur **n’est pas** le [<span style="color:red;">Démon</span>](../demons.md), rien ne se passe.  
 - Si c’est le [<span style="color:red;">Démon</span>](../demons.md), le Charmeur de Serpent **devient ce Démon** et passe du côté du Mal,  
   tandis que le Démon original devient **bon** et **empoisonné pour le reste de la partie**.  
 
-💡 Si le [Philosophe](philosophe.md) a la capacité du Charmeur de Serpent et devient le Démon, alors le Démon devient un [Philosophe](philosophe.md) empoisonné.
+- Si le [Philosophe](philosophe.md) a la capacité du Charmeur de Serpent et devient le Démon, alors le Démon devient un [Philosophe](philosophe.md) empoisonné.
+
 
 ---
 
-## 🎬 Comment Conter  
+## <span style="color:#4ea3ff;">Comment Conter</span>  
 
 - Chaque nuit, réveillez le Charmeur de Serpent.  
 - Il désigne un joueur vivant.  
@@ -74,11 +75,12 @@ Chaque nuit, il choisit un joueur :
   - L’ancien Démon devient **bon** et **empoisonné**.  
   - Le Charmeur devient **maléfique** et **le nouveau Démon**.  
 
-> 🌀 En cas rare où le Charmeur est déjà maléfique ou le Démon bon, inversez simplement les alignements selon la situation.
+> Astuces et Conseils pour les Conteurs et Conteuses
+> Dans l'étrange situation où le Charmeur de serpent serait maléfique, ou le démon bon, inversez leurs alignements selon le cas.
 
 ---
 
-## 🧾 Exemples  
+##  <span style="color:#4ea3ff;">Exemples</span>    
 
 - Le Charmeur choisit un joueur qui est la [<span style="color:red;">Pit-Hag</span>](pithag.md) → rien ne se passe.  
 - La nuit suivante, il se choisit lui-même → rien ne se passe.  
@@ -93,7 +95,7 @@ Chaque nuit, il choisit un joueur :
 
 ---
 
-## 💡 Astuces & Conseils  
+## <span style="color:#4ea3ff;">Astuces & Conseils</span>  
 
 - Le Charmeur de Serpent vit dans un équilibre fragile :  
   à tout moment, il peut basculer du Bien vers le Mal.  
@@ -133,7 +135,7 @@ Chaque nuit, il choisit un joueur :
 
 ---
 
-## 🎭 Bluff en tant que Charmeur de Serpent  
+## <span style="color:#4ea3ff;">Bluffer Charmeur de Serpent</span>  
 
 - Attendez **quelques jours** avant d’annoncer votre rôle.  
   Restez discret·e, ou prétendez être un autre [<span style="color:blue;">Villageois</span>](../villageois.md) crédible.  
@@ -158,9 +160,7 @@ Chaque nuit, il choisit un joueur :
 
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌸 <a href="../sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌛 <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>🧑‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="../sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
+  <li> <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
 </ul>
