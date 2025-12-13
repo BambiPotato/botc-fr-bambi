@@ -48,10 +48,6 @@ title: Gros Bonnet
 Le <strong>Gros Bonnet</strong> donne aux personnes nommées un véritable <em>avocat de la défense</em>.
 </p>
 
----
-
-##  <span style="color:#7fd1ae;">Détails</span>
-
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Quand une personne est nommée, elle choisit un joueur (vivant ou mort) pour parler en son nom.</li>
   <li>Pendant cette période, seul le défenseur choisi peut parler ; même la personne nommée doit rester silencieuse.</li>
