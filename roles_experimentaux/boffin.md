@@ -28,7 +28,7 @@ title: Boffin
   </a>
 </div>
 
-# 🔬 <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Boffin</span>
+#  <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Boffin</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Hydrogène stellaire vaste et inerte ; carbone, oxygène, néon en vapeurs ruinées.  
@@ -39,19 +39,28 @@ title: Boffin
 
 ---
 
-## ℹ️ <span style="color:#d45b5b;">Informations</span>
+##  <span style="color:#d45b5b;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
     <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Boffin"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+    Boffin
+  </a>
+</li>
   <li><strong>Artiste :</strong> Lachlan Bastiaen</li>
   <li><strong>Révélé :</strong> 26 septembre 2024</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#d45b5b;">Résumé</span>
+##  <span style="color:#d45b5b;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Le Démon (même ivre ou empoisonné) possède la capacité d’un rôle bon qui n'est pas en jeu. Vous connaissez tous les deux laquelle. »</strong>
@@ -129,7 +138,7 @@ title: Boffin
 
 ---
 
-## 🎭 <span style="color:#d45b5b;">Comment Conter</span>
+##  <span style="color:#d45b5b;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Pendant la mise en place, avant de mettre les jetons de rôle dans le sac, appliquez toutes les modifications indiquées entre parenthèses sur les deux capacités du <span style="color:#d45b5b; font-weight:bold;">Démon</span> et du rôle bon choisi.  
@@ -159,7 +168,7 @@ Ensuite, placez le jeton de ce rôle bon à côté du jeton du <span style="colo
 
 ---
 
-## 🧩 <span style="color:#d45b5b;">Exemples</span>
+##  <span style="color:#d45b5b;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 L’<a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Imp</a> possède la capacité de la <a href="../tb_roles/vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Vierge</a>.  
@@ -180,7 +189,7 @@ Le <a href="../roles_experimentaux/kazali.html" style="color:#d45b5b; font-weigh
 
 ---
 
-## 💡 <span style="color:#d45b5b;">Astuces & Conseils</span>
+##  <span style="color:#d45b5b;">Astuces & Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -227,7 +236,7 @@ Le <a href="../roles_experimentaux/kazali.html" style="color:#d45b5b; font-weigh
 
 ---
 
-## ⚔️ <span style="color:#d45b5b;">Combattre le Boffin</span>
+##  <span style="color:#d45b5b;">Combattre le Boffin</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -259,7 +268,7 @@ Le <a href="../roles_experimentaux/kazali.html" style="color:#d45b5b; font-weigh
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  😈 <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Retour aux Sbires</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Sbires</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
