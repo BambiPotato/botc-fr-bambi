@@ -28,7 +28,7 @@ title: Enfant de chœur
   </a>
 </div>
 
-# 🎶 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Enfant de chœur</span>
+#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Enfant de chœur</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Je l’ai vu, je te dis. J’étais dans les bancs, à ranger les recueils de cantiques,  
@@ -39,19 +39,27 @@ title: Enfant de chœur
 
 ---
 
-## ℹ️ <span style="color:#4ea3ff;">Informations</span>
+##  <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong> 
     <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
   </li>
+    <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Choirboy"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Choirboy
+  </a>
   <li><strong>Artiste :</strong> <em>John Grist</em></li>
   <li><strong>Révélé :</strong> 29 avril 2021</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#4ea3ff;">Résumé</span>
+##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Si le <span style="color:#d45b5b; font-weight:bold;">Démon</span> tue le 
@@ -65,6 +73,50 @@ si celui-ci tue le
 <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> 
 pendant la nuit.
 </p>
+
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+  <li>Le 
+      <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> 
+      peut être en jeu sans qu’il y ait d’Enfant de chœur.</li>
+
+  <li>Lors de la mise en place, avant de mettre les jetons de rôle dans le sac,  
+      si l’Enfant de chœur est en jeu et que le 
+      <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> 
+      ne l’est pas,  
+      retirez un jeton de 
+      <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> 
+      et ajoutez le jeton du 
+      <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a>.
+  </li>
+
+  <li>Si un 
+      <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> 
+      est déjà en jeu, l’Enfant de chœur n’en ajoute pas un deuxième.</li>
+
+  <li>Si le <span style="color:#d45b5b; font-weight:bold;">Démon</span> tue le 
+      <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> 
+      avec sa capacité nocturne,  
+      l’Enfant de chœur apprend quel joueur est le Démon (mais pas son rôle précis).</li>
+
+  <li>Si le <span style="color:#d45b5b; font-weight:bold;">Démon</span> nomme et fait exécuter le 
+      <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> 
+      le jour, cela ne déclenche pas la capacité de l’Enfant de chœur.</li>
+
+  <li>Si un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> tue le 
+      <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a>, 
+      par exemple un 
+      <a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>,  
+      la capacité de l’Enfant de chœur ne se déclenche pas.</li>
+
+  <li>Si le <span style="color:#d45b5b; font-weight:bold;">Démon</span> attaque le 
+      <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> 
+      sans le tuer (par exemple à cause du 
+      <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a>),  
+      l’Enfant de chœur n’apprend rien.</li>
+
+</ul>
 
 ---
 
@@ -148,54 +200,7 @@ pendant la nuit.
 
 ---
 
-## ⚙️ <span style="color:#4ea3ff;">Détails</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Le 
-      <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> 
-      peut être en jeu sans qu’il y ait d’Enfant de chœur.</li>
-
-  <li>Lors de la mise en place, avant de mettre les jetons de rôle dans le sac,  
-      si l’Enfant de chœur est en jeu et que le 
-      <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> 
-      ne l’est pas,  
-      retirez un jeton de 
-      <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> 
-      et ajoutez le jeton du 
-      <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a>.
-  </li>
-
-  <li>Si un 
-      <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> 
-      est déjà en jeu, l’Enfant de chœur n’en ajoute pas un deuxième.</li>
-
-  <li>Si le <span style="color:#d45b5b; font-weight:bold;">Démon</span> tue le 
-      <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> 
-      avec sa capacité nocturne,  
-      l’Enfant de chœur apprend quel joueur est le Démon (mais pas son rôle précis).</li>
-
-  <li>Si le <span style="color:#d45b5b; font-weight:bold;">Démon</span> nomme et fait exécuter le 
-      <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> 
-      le jour, cela ne déclenche pas la capacité de l’Enfant de chœur.</li>
-
-  <li>Si un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> tue le 
-      <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a>, 
-      par exemple un 
-      <a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>,  
-      la capacité de l’Enfant de chœur ne se déclenche pas.</li>
-
-  <li>Si le <span style="color:#d45b5b; font-weight:bold;">Démon</span> attaque le 
-      <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> 
-      sans le tuer (par exemple à cause du 
-      <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a>),  
-      l’Enfant de chœur n’apprend rien.</li>
-
-</ul>
-
----
-
-## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
+##  <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Pendant la mise en place, avant de préparer le sac,  
@@ -217,7 +222,7 @@ Pointez le joueur qui est le Démon, puis rendormez l’Enfant de chœur.
 
 ---
 
-## 🧩 <span style="color:#4ea3ff;">Exemples</span>
+##  <span style="color:#4ea3ff;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 L’
@@ -255,7 +260,7 @@ est le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.
 
 ---
 
-## 💡 <span style="color:#4ea3ff;">Astuces et Conseils</span>
+##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -299,7 +304,7 @@ est le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer Enfant de chœur</span>
+##  <span style="color:#4ea3ff;">Bluffer Enfant de chœur</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -360,7 +365,7 @@ est le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
