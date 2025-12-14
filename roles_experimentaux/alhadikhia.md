@@ -28,7 +28,7 @@ title: Al-Hadikhia
   </a>
 </div>
 
-# 👹 <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Al-Hadikhia</span>
+#  <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Al-Hadikhia</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Alsukut min dhahab. »
@@ -36,19 +36,28 @@ title: Al-Hadikhia
 
 ---
 
-## ℹ️ <span style="color:#d45b5b;">Informations</span>
+##  <span style="color:#d45b5b;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
     <span style="color:#d45b5b; font-weight:bold;">Démon</span>
   </li>
+ <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Al-Hadikhia"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+   Al-Hadikhia
+  </a>
+</li>
   <li><strong>Artiste :</strong> Marianna Carr</li>
   <li><strong>Révélé :</strong> 12 août 2021</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#d45b5b;">Résumé</span>
+##  <span style="color:#d45b5b;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Chaque nuit*, vous pouvez choisir 3 joueurs  
@@ -138,7 +147,7 @@ L’<strong>Al-Hadikhia</strong> place trois joueurs dans un dilemme mortel&nbsp
 
 ---
 
-## 🎭 <span style="color:#d45b5b;">Comment Conter</span>
+##  <span style="color:#d45b5b;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 L’<strong>Al-Hadikhia</strong> crée un moment de tension unique :  
@@ -213,7 +222,7 @@ le silence, l’ordre des choix et la révélation des résultats.
 
 ---
 
-## 🧩 <span style="color:#d45b5b;">Exemples</span>
+##  <span style="color:#d45b5b;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 L’<strong>Al-Hadikhia</strong> choisit <strong>Cédric</strong>, <strong>Mehdi</strong> et <strong>Sarah</strong>.  
@@ -232,7 +241,7 @@ les trois meurent à cause de l’<strong>Al-Hadikhia</strong>.
 
 ---
 
-## 💡 <span style="color:#d45b5b;">Astuces & Conseils</span>
+##  <span style="color:#d45b5b;">Astuces & Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -326,7 +335,7 @@ les trois meurent à cause de l’<strong>Al-Hadikhia</strong>.
 
 ---
 
-## ⚔️ <span style="color:#d45b5b;">Combattre l’Al-Hadikhia</span>
+##  <span style="color:#d45b5b;">Combattre l’Al-Hadikhia</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -383,7 +392,7 @@ les trois meurent à cause de l’<strong>Al-Hadikhia</strong>.
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👹 <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Retour aux Démons</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie :  Démons</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
