@@ -28,41 +28,41 @@ title: Bad Moon Rising
 
 ---
 
-## 📑 <span style="color:#ffa64d;">Sommaire</span>
+##  <span style="color:#ffa64d;">Sommaire</span>
 
 <p style="text-align:left; color:#ffa64d; font-size:18px; line-height:1.8;">
   <span style="font-weight:bold;">1.</span>
-  <a href="#synopsis" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Synopsis</a><br>
+  <a href="#synopsis" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Synopsis</a><br>
   <span style="font-weight:bold;">2.</span>
-  <a href="#gameplay" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Gameplay</a><br>
+  <a href="#gameplay" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Gameplay</a><br>
   <span style="font-weight:bold;">3.</span>
-  <a href="#villageois" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Villageois</a><br>
+  <a href="#villageois" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Villageois</a><br>
   <span style="font-weight:bold;">4.</span>
-  <a href="#etrangers" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Étrangers</a><br>
+  <a href="#etrangers" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Étrangers</a><br>
   <span style="font-weight:bold;">5.</span>
-  <a href="#sbires" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Sbires</a><br>
+  <a href="#sbires" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Sbires</a><br>
   <span style="font-weight:bold;">6.</span>
-  <a href="#demons" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Démons</a><br>
+  <a href="#demons" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Démons</a><br>
   <span style="font-weight:bold;">7.</span>
-  <a href="#telechargements" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Télécharger &amp; Imprimer</a>
+  <a href="#telechargements" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Télécharger &amp; Imprimer</a>
 </p>
 
 ---
 
 ## <span id="synopsis" style="color:#ffa64d;">Synopsis</span>
 
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Le soleil est avalé par un horizon déchiqueté, alors qu’un autre jour d’hiver cède la place à la nuit.<br>
 Des éclats orangés et rouges se fondent en bruns plus profonds, la forêt se transformant en silence, dans l’attente de la neige à venir.
 </p>
 
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Des loups affamés hurlent depuis les entrailles d’un ravin rocailleux au-delà des frontières de la ville, envoyant les oiseaux fuir leurs nids.<br>
 Les voyageurs se hâtent vers l’auberge, cherchant refuge contre le froid mordant.<br>
 Ils se réchauffent avec du thé brûlant, des airs de musique douce et de la bière épaisse, sans savoir que des yeux étranges et maléfiques les observent depuis les ruines de cette ancienne cité.
 </p>
 
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Ce soir, même le bétail sait qu’il y a… <strong><span style="color:#ffa64d;">Bad Moon Rising</span></strong>.
 </p>
 
@@ -74,19 +74,19 @@ Ce soir, même le bétail sait qu’il y a… <strong><span style="color:#ffa64d
 <strong>Bad Moon Rising</strong> est une véritable <strong>fête de la mort</strong>.
 </p>
 
-<ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:40px;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Les Démons tuent plusieurs fois par nuit.</li>
   <li>Les Sbires ont eux aussi des capacités meurtrières.</li>
   <li>Les Villageois peuvent prendre de gros risques pour obtenir des infos fiables… mais risquent de tuer leurs amis par erreur.</li>
 </ul>
 
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Heureusement, beaucoup d’options permettent de garder des joueurs et des joueuses en vie bien plus longtemps qu’ils ne l’auraient cru possible.<br>
 Mais si l’équipe du Bien ne parvient pas à identifier les Sbires et les Démons précis en jeu, sa défaite est presque certaine.
 </p>
 
 <p style="color:#ffa64d; font-size:19px; font-weight:bold;">
-👉 Niveau : <strong>Intermédiaire</strong><br>
+Niveau : <strong>Intermédiaire</strong><br>
 <em>*Recommandé pour les joueurs et les joueuses proactifs, attentifs à la coopération d’équipe et qui n’ont pas peur de mourir.*</em>
 </p>
 
@@ -294,18 +294,18 @@ Mais si l’équipe du Bien ne parvient pas à identifier les Sbires et les Dém
 
 ---
 
-## <span id="telechargements" style="color:#ffa64d;">📥 Télécharger &amp; Imprimer</span>
+## <span id="telechargements" style="color:#ffa64d;">  Télécharger &amp; Imprimer</span>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Ces ressources sont pratiques pour <strong>imprimer</strong> et <strong>jouer en personne</strong>.
 </p>
 
-<h3 style="color:#ffa64d; font-weight:bold; font-size:22px;">📄 PDF complet</h3>
+<h3 style="color:#ffa64d; font-weight:bold; font-size:22px;"> </h3>
 <p style="font-size:18px;">
-  👉 <a href="./images/bmr-roles.pdf" style="color:#d4a76a; font-weight:bold; text-decoration:none;">📄 Télécharger le PDF de Bad Moon Rising</a>
+  👉 <a href="./images/bmr-roles.pdf" style="color:#d4a76a; font-weight:bold; text-decoration:none;"> Télécharger le PDF de Bad Moon Rising</a>
 </p>
 
-<h3 style="color:#ffa64d; font-weight:bold; font-size:22px;">🖼️ Images pratiques</h3>
+<h3 style="color:#ffa64d; font-weight:bold; font-size:22px;"> </h3>
 <div style="text-align:left;">
   <a href="./images/bmr-front.png">
     <img src="./images/bmr-front.png" alt="Couverture" width="250" style="margin:8px; border-radius:8px;">
