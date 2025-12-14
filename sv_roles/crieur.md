@@ -72,6 +72,7 @@ Chaque nuit, le Crieur apprend un **“oui”** ou **“non”** :
 
 > **Astuces & Conseils pour les Conteurs et Conteuses**
 
+
 > Si vous vous oubliez si un [<span style="color:red;">Sbire</span>](../sbires.md) a fait une nomination,
  réveillez chaque [<span style="color:red;">Sbire</span>](../sbires.md) la nuit et montrez-lui le jeton :
  
