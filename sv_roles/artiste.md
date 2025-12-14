@@ -73,8 +73,10 @@ Dieu est révélé ! Oui ! »*
   l’Artiste a utilisé son pouvoir.  
 
 > Astuces pour les Conteurs et Conteuses :
+
 > À l'instar du Savant, les joueurs maléfiques se faisant passer pour l'Artiste peuvent vous demander une conversation privée et 
   faire semblant de vous poser une question. 
+  
 > Pour les aider à bluffer, vous pouvez feindre de répondre en hochant ou en secouant la tête.
 
 
@@ -123,7 +125,7 @@ et l’[<span style="color:#4ea3ff;">Oracle</span>](fleuriste.md) fournissent de
 - Par exemple, demandez si le Démon est assis dans un groupe précis : qu’il s’agisse d’un « oui » ou d’un « non », 
   vous aurez déjà réduit la zone où se trouve — ou ne se trouve pas — le Démon.
 - D’autres questions peuvent consister à demander s’il existe une concentration de joueurs maléfiques à un endroit donné, 
-  ou à interroger le Conteur au sujet de rôles comme le [<span style="color:#d45b5b;">Jumeau Maléfique</span>](jumeaumalefique)].
+  ou à interroger le Conteur au sujet de rôles comme le [<span style="color:#d45b5b;">Jumeau Maléfique</span>](jumeaumalefique).
 
 - Si vous n’avez pas beaucoup de pistes issues des mécaniques de jeu, 
   vous pouvez également poser des questions basées sur des éléments extérieurs au jeu tout en divisant le village en groupes. 
