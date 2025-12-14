@@ -28,7 +28,7 @@ title: Sangsue
   </a>
 </div>
 
-# 👹 <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Sangsue</span>
+#  <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Sangsue</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Miam, miam, miam, miam, miam, miam, miam, miam, cer-  
@@ -37,19 +37,28 @@ title: Sangsue
 
 ---
 
-## ℹ️ <span style="color:#d45b5b;">Informations</span>
+##  <span style="color:#d45b5b;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
     <a href="/demon.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Lleech"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Lleech
+  </a>
+</li>
   <li><strong>Artiste :</strong> John Grist</li>
   <li><strong>Révélé :</strong> 17 juin 2021</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#d45b5b;">Résumé</span>
+##  <span style="color:#d45b5b;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Chaque nuit*, choisissez un joueur : il meurt.  
@@ -120,7 +129,7 @@ tant que cet hôte survit, elle ne peut pas mourir.
 
 ---
 
-## 🎭 <span style="color:#d45b5b;">Comment Conter</span>
+##  <span style="color:#d45b5b;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 La <strong>Sangsue</strong> crée un lien fort entre un joueur empoisonné  
@@ -193,7 +202,7 @@ et de gérer son empoisonnement de façon crédible pour la table.
 
 ---
 
-## 🧩 <span style="color:#d45b5b;">Exemples</span>
+##  <span style="color:#d45b5b;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 La <strong>Sangsue</strong> empoisonne la  
@@ -219,7 +228,7 @@ le <strong>Bien gagne</strong>.
 
 ---
 
-## 💡 <span style="color:#d45b5b;">Astuces & Conseils</span>
+##  <span style="color:#d45b5b;">Astuces & Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -296,7 +305,7 @@ le <strong>Bien gagne</strong>.
 
 ---
 
-## ⚔️ <span style="color:#d45b5b;">Combattre la Sangsue</span>
+##  <span style="color:#d45b5b;">Combattre la Sangsue</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -376,7 +385,7 @@ le <strong>Bien gagne</strong>.
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👹 <a href="/demon.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Retour aux Démons</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="/demon.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Démons</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
