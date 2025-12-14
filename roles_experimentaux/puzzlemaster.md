@@ -68,7 +68,7 @@ title: Maître des Puzzles
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Maître des Puzzles</strong> tente d’identifier quel joueur est ivre pour remonter jusqu’au <span style="color:#d45b5b; font-weight:bold;">Démon</span>.
+Le <strong>Maître des Puzzles</strong> tente de déterminer qui est ivre.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
