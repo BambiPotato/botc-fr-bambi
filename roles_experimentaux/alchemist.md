@@ -28,7 +28,7 @@ title: Alchimiste
   </a>
 </div>
 
-# ⚗️ <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Alchimiste</span>
+#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Alchimiste</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Visite l’intérieur de la Terre. Par rectification tu trouveras la pierre cachée.  
@@ -37,19 +37,28 @@ title: Alchimiste
 
 ---
 
-## ℹ️ <span style="color:#4ea3ff;">Informations</span>
+##  <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong> 
     <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Alchemist"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Alchemist
+  </a>
+</li>
   <li><strong>Artiste :</strong> <em>Marianna Carr</em></li>
   <li><strong>Révélé :</strong> 7 octobre 2021</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#4ea3ff;">Résumé</span>
+##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong>« Vous avez une capacité de Sbire. Quand vous l’utilisez, la conteuse peut vous demander de choisir différemment. »</strong>
@@ -59,6 +68,15 @@ title: Alchimiste
 L’<strong>Alchimiste</strong> possède la capacité d’un <span style="color:#d45b5b; font-weight:bold;">Sbire</span>, tout en restant un <span style="color:#4ea3ff; font-weight:bold;">Villageois</span> qui joue pour le Bien.
 </p>
 
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>La capacité de l’Alchimiste est généralement celle d’un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> qui n’est pas en jeu, mais elle peut aussi copier un Sbire en jeu.</li>
+  <li>L’Alchimiste apprend de quel Sbire il a la capacité lors de la première nuit.</li>
+  <li>Il reste un <span style="color:#4ea3ff; font-weight:bold;">Villageois</span> bon : il gagne avec le Bien et perd avec le Mal.</li>
+  <li>Il s’enregistre comme bon et comme Alchimiste, pas comme Sbire.</li>
+  <li>Contrairement aux Sbires, l’Alchimiste ne se réveille pas pour apprendre qui sont les autres Sbires ni qui est le Démon.</li>
+  <li>Si la capacité de Sbire de l’Alchimiste ajoute ou retire des rôles pendant la mise en place, cela s’applique tout de même lors de la mise en place.</li>
+  <li>Si la capacité de Sbire implique de faire un choix, comme l’<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> ou le <a href="../roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a>, la conteuse peut demander à l’Alchimiste de choisir différemment. Il doit alors faire un autre choix.</li>
+</ul>
 
 ---
 
@@ -130,22 +148,7 @@ Les jinxes suivants concernent l’<strong>Alchimiste</strong> et modifient sa c
 
 ---
 
-
-## ⚙️ <span style="color:#4ea3ff;">Détails</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>La capacité de l’Alchimiste est généralement celle d’un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> qui n’est pas en jeu, mais elle peut aussi copier un Sbire en jeu.</li>
-  <li>L’Alchimiste apprend de quel Sbire il a la capacité lors de la première nuit.</li>
-  <li>Il reste un <span style="color:#4ea3ff; font-weight:bold;">Villageois</span> bon : il gagne avec le Bien et perd avec le Mal.</li>
-  <li>Il s’enregistre comme bon et comme Alchimiste, pas comme Sbire.</li>
-  <li>Contrairement aux Sbires, l’Alchimiste ne se réveille pas pour apprendre qui sont les autres Sbires ni qui est le Démon.</li>
-  <li>Si la capacité de Sbire de l’Alchimiste ajoute ou retire des rôles pendant la mise en place, cela s’applique tout de même lors de la mise en place.</li>
-  <li>Si la capacité de Sbire implique de faire un choix, comme l’<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> ou le <a href="../roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a>, la conteuse peut demander à l’Alchimiste de choisir différemment. Il doit alors faire un autre choix.</li>
-</ul>
-
----
-
-## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
+##  <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Lors de la première nuit, réveillez l’Alchimiste.  
@@ -167,7 +170,7 @@ si c’est de jour, dites-le simplement ; si c’est de nuit, secouez la tête, 
 ---
 
 
-## 🧩 <span style="color:#4ea3ff;">Exemples</span>
+##  <span style="color:#4ea3ff;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
@@ -188,7 +191,7 @@ Le <a href="../roles_experimentaux/lord_of_typhon.html" style="color:#d45b5b; fo
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a><br>
-  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a><br>
+   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a>
 </p>
