@@ -28,7 +28,7 @@ title: Maître des Puzzles
   </a>
 </div>
 
-# 🧩 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Maître des Puzzles</span>
+#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Maître des Puzzles</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Quand on commence à penser qu’une chose n’est « que » une autre chose,  
@@ -38,19 +38,28 @@ title: Maître des Puzzles
 
 ---
 
-## ℹ️ <span style="color:#4ea3ff;">Informations</span>
+##  <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
     <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Puzzlemaster"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Puzzlemaster
+  </a>
+</li>
   <li><strong>Artiste :</strong> <em>Caitlin Murphy</em></li>
   <li><strong>Révélé :</strong> 23 septembre 2021</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#4ea3ff;">Résumé</span>
+##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« 1 joueur est ivre, même si vous êtes mort.  
@@ -61,10 +70,6 @@ title: Maître des Puzzles
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Le <strong>Maître des Puzzles</strong> tente d’identifier quel joueur est ivre pour remonter jusqu’au <span style="color:#d45b5b; font-weight:bold;">Démon</span>.
 </p>
-
----
-
-## ⚙️ <span style="color:#4ea3ff;">Détails</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -133,7 +138,7 @@ En règle générale, choisir un bon rôle à information comme cible d’ivress
 
 ---
 
-## 🧩 <span style="color:#4ea3ff;">Exemples</span>
+##  <span style="color:#4ea3ff;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Alex est le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.  
@@ -156,7 +161,7 @@ Comme Vanessa n’était pas la bonne cible d’ivresse, cette information est f
 
 ---
 
-## 💡 <span style="color:#4ea3ff;">Astuces et Conseils</span>
+##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -212,7 +217,7 @@ Comme Vanessa n’était pas la bonne cible d’ivresse, cette information est f
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer Maître des Puzzles</span>
+##  <span style="color:#4ea3ff;">Bluffer Maître des Puzzles</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -269,7 +274,7 @@ Comme Vanessa n’était pas la bonne cible d’ivresse, cette information est f
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  💈 <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Étrangers</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Étrangers</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
