@@ -28,7 +28,7 @@ title: Pixie
   </a>
 </div>
 
-# 🧸 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Pixie</span>
+#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Pixie</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Tourne, tourne dans le jardin.  
@@ -43,19 +43,28 @@ title: Pixie
 
 ---
 
-## ℹ️ <span style="color:#4ea3ff;">Informations</span>
+##  <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
     <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Pixie"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+  Pixie
+  </a>
+</li>
   <li><strong>Artiste :</strong> <em>John Grist</em></li>
   <li><strong>Révélé :</strong> 21 janvier 2021</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#4ea3ff;">Résumé</span>
+##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Vous commencez en apprenant un rôle de Villageois en jeu.  
@@ -66,9 +75,6 @@ title: Pixie
 La <strong>Pixie</strong> prétend être le même rôle qu’un autre joueur ou une autre joueuse.
 </p>
 
----
-
-## ⚙️ <span style="color:#4ea3ff;">Détails</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -97,7 +103,7 @@ La <strong>Pixie</strong> prétend être le même rôle qu’un autre joueur ou 
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
+##  <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Pendant la première nuit, choisissez un rôle de Villageois en jeu  
@@ -116,7 +122,7 @@ au même moment que ce rôle normalement.
 
 ---
 
-## 🧩 <span style="color:#4ea3ff;">Exemples</span>
+##  <span style="color:#4ea3ff;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
@@ -154,7 +160,7 @@ car la conteuse juge qu’elle n’a pas suffisamment prétendu être ce rôle.
 
 ---
 
-## 💡 <span style="color:#4ea3ff;">Astuces et Conseils</span>
+##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -259,7 +265,7 @@ car la conteuse juge qu’elle n’a pas suffisamment prétendu être ce rôle.
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer Pixie</span>
+##  <span style="color:#4ea3ff;">Bluffer Pixie</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -338,7 +344,7 @@ car la conteuse juge qu’elle n’a pas suffisamment prétendu être ce rôle.
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
