@@ -28,7 +28,7 @@ title: Riot
   </a>
 </div>
 
-# 👹 <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Riot</span>
+#  <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Riot</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Larga vida a la revolución ! ¡Mi revolución ! »
@@ -36,19 +36,28 @@ title: Riot
 
 ---
 
-## ℹ️ <span style="color:#d45b5b;">Informations</span>
+##  <span style="color:#d45b5b;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
     <a href="/demon.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Riot"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+  Riot
+  </a>
+</li>
   <li><strong>Artiste :</strong> John Grist</li>
   <li><strong>Révélé :</strong> 4 novembre 2021</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#d45b5b;">Résumé</span>
+##  <span style="color:#d45b5b;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Le 3ème jour, les
@@ -56,7 +65,7 @@ title: Riot
   deviennent <a href="./riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a>,  
   et les personnes nominées meurent,  
   mais doivent immédiatement nommer un joueur vivant.  
-  Cela doit arriver. »</strong>
+  Cela doit se produire. »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -205,7 +214,7 @@ title: Riot
 
 ---
 
-## 🎭 <span style="color:#d45b5b;">Comment Conter</span>
+##  <span style="color:#d45b5b;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Le <a href="./riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> se joue presque comme un Démon « normal »  
@@ -279,7 +288,7 @@ et que les nominations déclenchent une cascade de morts.
 
 ---
 
-## 🧩 <span style="color:#d45b5b;">Exemples</span>
+##  <span style="color:#d45b5b;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Alex nomine Louis.  
@@ -294,7 +303,7 @@ le Bien gagne.
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👹 <a href="/demon.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Retour aux Démons</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="/demon.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Démons</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
