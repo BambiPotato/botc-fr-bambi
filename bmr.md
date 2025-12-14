@@ -20,7 +20,7 @@ title: Bad Moon Rising
   </a>
 </div>
 
-# 🌛 <span style="color:#ffa64d; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
+#   <span style="color:#ffa64d; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
@@ -302,7 +302,7 @@ Ces ressources sont pratiques pour <strong>imprimer</strong> et <strong>jouer en
 
 <h3 style="color:#ffa64d; font-weight:bold; font-size:22px;"> </h3>
 <p style="font-size:18px;">
-  👉 <a href="./images/bmr-roles.pdf" style="color:#d4a76a; font-weight:bold; text-decoration:none;"> Télécharger le PDF de Bad Moon Rising</a>
+  ➡️  <a href="./images/bmr-roles.pdf" style="color:#d4a76a; font-weight:bold; text-decoration:none;"> Télécharger le PDF de Bad Moon Rising</a>
 </p>
 
 <h3 style="color:#ffa64d; font-weight:bold; font-size:22px;"> </h3>
@@ -321,9 +321,9 @@ Ces ressources sont pratiques pour <strong>imprimer</strong> et <strong>jouer en
 ---
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="./index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
-  <li>🍺 <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>💐 <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a></li>
+  <li>  <a href="./index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
+  <li>  <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li>  <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a></li>
 </ul>
 
 </div>
