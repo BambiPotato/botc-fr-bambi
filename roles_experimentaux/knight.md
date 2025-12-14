@@ -28,7 +28,7 @@ title: Chevalier
   </a>
 </div>
 
-# ⚔️ <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Chevalier</span>
+#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Chevalier</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Quand un homme ment, il assassine une part du monde. »
@@ -36,20 +36,29 @@ title: Chevalier
 
 ---
 
-## ℹ️ <span style="color:#4ea3ff;">Informations</span>
+##  <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
     <strong>Type :</strong>
     <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Knight"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+   Knight
+  </a>
+</li>
   <li><strong>Artiste :</strong> <em>Chloe McDougall</em></li>
   <li><strong>Révélé :</strong> 18 mai 2023</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#4ea3ff;">Résumé</span>
+##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Vous commencez en sachant que 2 joueurs ne sont pas le Démon. »</strong>
@@ -61,9 +70,6 @@ Le <strong>Chevalier</strong> connaît dès la première nuit deux joueurs qui n
 Ensuite, il n’obtient plus aucune information supplémentaire.
 </p>
 
----
-
-## ⚙️ <span style="color:#4ea3ff;">Détails</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Le Chevalier connaît des joueurs qui ne sont pas le Démon.
@@ -85,7 +91,7 @@ Le Chevalier connaît des joueurs qui ne sont pas le Démon.
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
+##  <span style="color:#4ea3ff;">Comment Conter</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -100,7 +106,7 @@ Le Chevalier connaît des joueurs qui ne sont pas le Démon.
 
 ---
 
-## 🧩 <span style="color:#4ea3ff;">Exemples</span>
+## <span style="color:#4ea3ff;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong>Louis</strong> est le 
@@ -124,7 +130,7 @@ son information doit être fausse et inclure le Démon.
 
 ---
 
-## 🔍 <span style="color:#4ea3ff;">Interaction à connaître</span>
+##  <span style="color:#4ea3ff;">Interaction à connaître</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Dans une partie où le 
@@ -139,7 +145,7 @@ dans ce cas, la conteuse ou le conteur peut lui montrer deux joueurs qui ne sont
 
 ---
 
-## 💡 <span style="color:#4ea3ff;">Astuces et Conseils</span>
+##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -204,7 +210,7 @@ dans ce cas, la conteuse ou le conteur peut lui montrer deux joueurs qui ne sont
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer Chevalier</span>
+##  <span style="color:#4ea3ff;">Bluffer Chevalier</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -262,7 +268,7 @@ dans ce cas, la conteuse ou le conteur peut lui montrer deux joueurs qui ne sont
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
