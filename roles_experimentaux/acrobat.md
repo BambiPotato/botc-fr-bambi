@@ -37,7 +37,7 @@ title: Acrobate
 
 ---
 
-## ℹ️ <span style="color:#4ea3ff;">Informations</span>
+## <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 <li><strong>Type :</strong> 
@@ -49,7 +49,7 @@ title: Acrobate
 
 ---
 
-## 📖 <span style="color:#4ea3ff;">Résumé</span>
+##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong>« Chaque nuit*, choisissez un joueur : s’il est ou devient ivre ou empoisonné cette nuit, vous mourez. »</strong>
@@ -59,9 +59,6 @@ title: Acrobate
 L’<strong>Acrobate</strong> risque sa vie pour identifier les joueurs ivres ou empoisonnés.
 </p>
 
----
-
-## ⚙️ <span style="color:#4ea3ff;">Détails</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Chaque nuit sauf la première, l’Acrobate choisit un joueur, vivant ou mort, y compris lui-même.</li>
@@ -74,7 +71,7 @@ L’<strong>Acrobate</strong> risque sa vie pour identifier les joueurs ivres ou
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
+##  <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Chaque nuit sauf la première, réveillez l’Acrobate.  
@@ -84,7 +81,7 @@ Si le joueur choisi est ou devient ivre ou empoisonné durant la nuit, l’Acrob
 
 ---
 
-## 🧩 <span style="color:#4ea3ff;">Exemples</span>
+##  <span style="color:#4ea3ff;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
@@ -107,7 +104,7 @@ L’Acrobate meurt, car le Prédicateur n’est plus en bonne santé.
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a><br>
-  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a><br>
+   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a>
 </p>
