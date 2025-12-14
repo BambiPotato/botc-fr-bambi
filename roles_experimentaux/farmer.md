@@ -124,7 +124,7 @@ Un <a href="./farmer.html" style="color:#4ea3ff; font-weight:bold; text-decorati
 
 ---
 
-## 🧩 <span style="color:#4ea3ff;">Exemples</span>
+##  <span style="color:#4ea3ff;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong>Cédric</strong> est le <a href="./farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermier</a>.  
@@ -150,7 +150,7 @@ Il n’y a plus d’
 
 ---
 
-## 💡 <span style="color:#4ea3ff;">Astuces et Conseils</span>
+##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -234,7 +234,7 @@ Il n’y a plus d’
 
 ---
 
-## 🔍 <span style="color:#4ea3ff;">Interactions à connaître</span>
+##  <span style="color:#4ea3ff;">Interactions à connaître</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
