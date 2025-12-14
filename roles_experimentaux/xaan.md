@@ -28,7 +28,7 @@ title: Xaan
   </a>
 </div>
 
-# ♾️ <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Xaan</span>
+#  <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Xaan</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Tous tombent. Un par un.  
@@ -37,19 +37,28 @@ title: Xaan
 
 ---
 
-## ℹ️ <span style="color:#d45b5b;">Informations</span>
+##  <span style="color:#d45b5b;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
     <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Xaan"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+    Xaan
+  </a>
+</li>
   <li><strong>Artiste :</strong> Steven Medway</li>
   <li><strong>Révélé :</strong> 6 décembre 2024</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#d45b5b;">Résumé</span>
+##  <span style="color:#d45b5b;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« La nuit X, tous les Villageois sont empoisonnés jusqu’au crépuscule.  
@@ -84,7 +93,7 @@ Le <strong>Xaan</strong> empoisonne tous les <strong>Villageois</strong> pendant
 
 ---
 
-## 🎭 <span style="color:#d45b5b;">Comment Conter</span>
+##  <span style="color:#d45b5b;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Le <strong>Xaan</strong> se prépare dès la mise en place,  
@@ -138,7 +147,7 @@ des <strong>Villageois</strong>.
 
 ---
 
-## 🧩 <span style="color:#d45b5b;">Exemples</span>
+##  <span style="color:#d45b5b;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Il y a 3 Étrangers en jeu, à cause du <strong>Xaan</strong>.  
@@ -168,7 +177,7 @@ alors qu’en réalité aucun Villageois n’a été empoisonné.
 
 ---
 
-## 💡 <span style="color:#d45b5b;">Astuces & Conseils</span>
+##  <span style="color:#d45b5b;">Astuces & Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -246,7 +255,7 @@ alors qu’en réalité aucun Villageois n’a été empoisonné.
 
 ---
 
-## ⚔️ <span style="color:#d45b5b;">Combattre le Xaan</span>
+##  <span style="color:#d45b5b;">Combattre le Xaan</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -318,7 +327,7 @@ alors qu’en réalité aucun Villageois n’a été empoisonné.
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  😈 <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Retour aux Sbires</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Sbires</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
