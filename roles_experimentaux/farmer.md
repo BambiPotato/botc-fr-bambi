@@ -28,7 +28,7 @@ title: Fermier
   </a>
 </div>
 
-# 🧑‍🌾 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Fermier</span>
+#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Fermier</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Même les puissants ont besoin de quelqu’un pour remplir leurs assiettes. Sans nous, la ville meurt de faim. »
@@ -36,19 +36,28 @@ title: Fermier
 
 ---
 
-## ℹ️ <span style="color:#4ea3ff;">Informations</span>
+##  <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong> 
     <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Farmer"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Farmer
+  </a>
+</li>
   <li><strong>Artiste :</strong> <em>Anica Kelsen</em></li>
   <li><strong>Révélé :</strong> 20 mai 2021</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#4ea3ff;">Résumé</span>
+##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Quand vous mourrez la nuit, un bon joueur vivant devient un fermier. »</strong>
@@ -57,6 +66,21 @@ title: Fermier
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Le <strong><a href="./farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermier</a></strong> se multiplie : chaque fois qu’un <a href="./farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermier</a> meurt la nuit, un autre joueur bon vivant devient à son tour <a href="./farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermier</a>.
 </p>
+
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>Quand un <strong><a href="./farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermier</a></strong> meurt <strong>dans la nuit</strong>, un autre joueur bon vivant devient <a href="./farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermier</a>.</li>
+  <li>Seuls les joueurs <span style="color:#4ea3ff; font-weight:bold;">bons</span> peuvent devenir <a href="./farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermiers</a> de cette façon.</li>
+  <li>Si ce nouveau <a href="./farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermier</a> meurt lui aussi dans la nuit, un autre joueur bon vivant devient encore <a href="./farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermier</a>, et ainsi de suite.</li>
+  <li>Les <a href="./farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermiers</a> qui meurent <strong>le jour</strong> (par exécution, exil, etc.) ne créent pas de nouveau <a href="./farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermier</a>.</li>
+  <li>Les <a href="./farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermiers</a> qui sont devenus maléfiques (par exemple à cause du 
+      <a href="../roles_experimentaux/mezepheles.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mezepheles</a>)  
+      peuvent toujours déclencher la création d’un nouveau <a href="./farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermier</a> en mourant la nuit.  
+      En revanche, les <span style="color:#4ea3ff; font-weight:bold;">Villageois</span> ou <span style="color:#4ea3ff; font-weight:bold;">Étrangers</span> devenus maléfiques ne peuvent pas devenir <a href="./farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermiers</a>.</li>
+  <li>Les <a href="./farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermiers</a> ne se connaissent pas entre eux, mais chaque joueur qui devient <a href="./farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermier</a> apprend qu’il est maintenant <a href="./farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermier</a>.</li>
+  <li>Lorsqu’un joueur devient <a href="./farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermier</a>, il perd immédiatement son ancien rôle et sa capacité.  
+      Tous les effets continus de son ancienne capacité cessent aussitôt.</li>
+</ul>
 
 ---
 
@@ -84,25 +108,7 @@ Le <strong><a href="./farmer.html" style="color:#4ea3ff; font-weight:bold; text-
 
 ---
 
-## ⚙️ <span style="color:#4ea3ff;">Détails</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Quand un <strong><a href="./farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermier</a></strong> meurt <strong>dans la nuit</strong>, un autre joueur bon vivant devient <a href="./farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermier</a>.</li>
-  <li>Seuls les joueurs <span style="color:#4ea3ff; font-weight:bold;">bons</span> peuvent devenir <a href="./farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermiers</a> de cette façon.</li>
-  <li>Si ce nouveau <a href="./farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermier</a> meurt lui aussi dans la nuit, un autre joueur bon vivant devient encore <a href="./farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermier</a>, et ainsi de suite.</li>
-  <li>Les <a href="./farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermiers</a> qui meurent <strong>le jour</strong> (par exécution, exil, etc.) ne créent pas de nouveau <a href="./farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermier</a>.</li>
-  <li>Les <a href="./farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermiers</a> qui sont devenus maléfiques (par exemple à cause du 
-      <a href="../roles_experimentaux/mezepheles.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mezepheles</a>)  
-      peuvent toujours déclencher la création d’un nouveau <a href="./farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermier</a> en mourant la nuit.  
-      En revanche, les <span style="color:#4ea3ff; font-weight:bold;">Villageois</span> ou <span style="color:#4ea3ff; font-weight:bold;">Étrangers</span> devenus maléfiques ne peuvent pas devenir <a href="./farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermiers</a>.</li>
-  <li>Les <a href="./farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermiers</a> ne se connaissent pas entre eux, mais chaque joueur qui devient <a href="./farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermier</a> apprend qu’il est maintenant <a href="./farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermier</a>.</li>
-  <li>Lorsqu’un joueur devient <a href="./farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermier</a>, il perd immédiatement son ancien rôle et sa capacité.  
-      Tous les effets continus de son ancienne capacité cessent aussitôt.</li>
-</ul>
-
----
-
-## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
+##  <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Si un <strong><a href="./farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermier</a></strong> meurt cette nuit, au moment approprié de la nuit, choisissez un joueur bon vivant.  
@@ -195,7 +201,7 @@ Il n’y a plus d’
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer Fermier</span>
+##  <span style="color:#4ea3ff;">Bluffer Fermier</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -343,7 +349,7 @@ Il n’y a plus d’
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
