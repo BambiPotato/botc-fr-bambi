@@ -28,7 +28,7 @@ title: Spectre
   </a>
 </div>
 
-# 👻 <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Spectre</span>
+#  <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Spectre</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri,  
@@ -37,19 +37,28 @@ title: Spectre
 
 ---
 
-## ℹ️ <span style="color:#d45b5b;">Informations</span>
+##  <span style="color:#d45b5b;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
     <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Wraith"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+  Wraith
+  </a>
+</li>
   <li><strong>Artiste :</strong> Lachlan Bastiaen</li>
   <li><strong>Révélé :</strong> 3 juillet 2025</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#d45b5b;">Résumé</span>
+##  <span style="color:#d45b5b;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Vous pouvez choisir d’ouvrir les yeux la nuit.  
@@ -57,7 +66,7 @@ title: Spectre
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Spectre</strong> sait ce qui se passe la nuit et partage ces informations avec l’équipe du Mal.
+Le <strong>Spectre</strong> sait et partage ce qui se passe la nuit.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
@@ -123,7 +132,7 @@ Le <strong>Spectre</strong> sait ce qui se passe la nuit et partage ces informat
 
 ---
 
-## 🎭 <span style="color:#d45b5b;">Comment Conter</span>
+##  <span style="color:#d45b5b;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Conter le <strong>Spectre</strong> demande surtout de la rigueur :  
@@ -187,7 +196,7 @@ et gérer proprement son statut (ivresse, perte de capacité, mort, etc.).
 
 ---
 
-## 🧩 <span style="color:#d45b5b;">Exemples</span>
+##  <span style="color:#d45b5b;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Lors de la première nuit, le <strong>Spectre</strong> entrouvre légèrement les yeux  
@@ -205,7 +214,7 @@ qu’il pense être la
 
 ---
 
-## 💡 <span style="color:#d45b5b;">Astuces & Conseils</span>
+##  <span style="color:#d45b5b;">Astuces & Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -299,7 +308,7 @@ qu’il pense être la
 
 ---
 
-## ⚔️ <span style="color:#d45b5b;">Combattre le Spectre</span>
+##  <span style="color:#d45b5b;">Combattre le Spectre</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -420,7 +429,7 @@ Voici quelques adaptations possibles.
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  😈 <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Retour aux Sbires</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Retour aux Sbires</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
