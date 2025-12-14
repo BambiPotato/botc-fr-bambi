@@ -36,32 +36,37 @@ title: Intendant
 
 ---
 
-## ℹ️ <span style="color:#4ea3ff;">Informations</span>
+##  <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
     <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Steward"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Steward
+  </a>
+</li>
   <li><strong>Artiste :</strong> <em>Chloe McDougall</em></li>
   <li><strong>Révélé :</strong> 18 mai 2023</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#4ea3ff;">Résumé</span>
+##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Vous commencez en apprenant un joueur bon. »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-L’<strong>Intendant</strong> connaît un joueur bon, mais pas son rôle.  
+L’<strong>Intendant</strong> connaît un joueur bon.  
 Il apprend cette information lors de la toute première nuit, ou lors de sa première nuit s’il apparaît en cours de partie.
 </p>
-
----
-
-## ⚙️ <span style="color:#4ea3ff;">Détails</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -75,7 +80,7 @@ Il apprend cette information lors de la toute première nuit, ou lors de sa prem
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
+##  <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Avant la première nuit, placez un jeton de rappel <strong>CONNAÎT</strong> à côté du jeton de n’importe quel rôle bon.  
@@ -84,7 +89,7 @@ Lors de la première nuit, réveillez l’Intendant, pointez le joueur marqué <
 
 ---
 
-## 🧩  <span style="color:#4ea3ff;">Exemples</span>
+##   <span style="color:#4ea3ff;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 L’Intendant apprend que <strong>Cédric</strong> est bon.  
@@ -99,7 +104,7 @@ Médhi est l’<a href="../tb_roles/espion.html" style="color:#d45b5b; font-weig
 
 ---
 
-## 💡<span style="color:#4ea3ff;">Astuces et Conseils</span>
+## <span style="color:#4ea3ff;">Astuces et Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -125,7 +130,7 @@ Médhi est l’<a href="../tb_roles/espion.html" style="color:#d45b5b; font-weig
 
 ---
 
-## 😈 span style="color:#4ea3ff;">Bluffer Intendant</span>
+##  span style="color:#4ea3ff;">Bluffer Intendant</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -148,7 +153,7 @@ Médhi est l’<a href="../tb_roles/espion.html" style="color:#d45b5b; font-weig
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
