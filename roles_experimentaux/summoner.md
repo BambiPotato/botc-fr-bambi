@@ -28,7 +28,7 @@ title: Invocateur
   </a>
 </div>
 
-# ⭕️ <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Invocateur</span>
+# <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Invocateur</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Gloire aux gardiens du Nord ; par mon intellect, tu es tranché.  
@@ -39,19 +39,28 @@ title: Invocateur
 
 ---
 
-## ℹ️ <span style="color:#d45b5b;">Informations</span>
+##  <span style="color:#d45b5b;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
     <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Summoner"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+    Summoner
+  </a>
+</li>
   <li><strong>Artiste :</strong> Lachlan Bastiaen</li>
   <li><strong>Révélé :</strong> 21 mars 2024</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#d45b5b;">Résumé</span>
+##  <span style="color:#d45b5b;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Vous recevez 3 bluffs. La 3ème nuit, choisissez un joueur :  
@@ -192,7 +201,7 @@ L’<strong>Invocateur</strong> crée un <span style="color:#d45b5b; font-weight
 
 ---
 
-## 🎭 <span style="color:#d45b5b;">Comment Conter</span>
+##  <span style="color:#d45b5b;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Vous gérez une partie sans <span style="color:#d45b5b; font-weight:bold;">Démon</span> au départ, puis l’arrivée brutale d’un nouveau <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
@@ -264,7 +273,7 @@ Vous gérez une partie sans <span style="color:#d45b5b; font-weight:bold;">Démo
 
 ---
 
-## 🧩 <span style="color:#d45b5b;">Exemples</span>
+##  <span style="color:#d45b5b;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 La 3ᵉ nuit, l’<strong>Invocateur</strong> choisit le joueur
@@ -290,7 +299,7 @@ et qu’il s’agit du <strong>jour 3 sur 5</strong>.
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  😈 <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Retour aux Sbires</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Sbires</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
