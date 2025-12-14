@@ -45,14 +45,16 @@ title: Enfant de chœur
   <li><strong>Type :</strong> 
     <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
   </li>
-    <li>
-  <strong>Nom original :</strong>
-  <a href="https://wiki.bloodontheclocktower.com/Choirboy"
-     target="_blank"
-     rel="noopener noreferrer"
-     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
-    Choirboy
-  </a>
+
+  <li><strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Choirboy"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+      Choirboy
+    </a>
+  </li>
+
   <li><strong>Artiste :</strong> <em>John Grist</em></li>
   <li><strong>Révélé :</strong> 29 avril 2021</li>
 </ul>
