@@ -28,7 +28,7 @@ title: Chef de Secte
   </a>
 </div>
 
-# ⨹ <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Chef de Secte</span>
+#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Chef de Secte</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Se croyant sages, ils devinrent fous. »
@@ -36,19 +36,28 @@ title: Chef de Secte
 
 ---
 
-## ℹ️ <span style="color:#4ea3ff;">Informations</span>
+##  <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong> 
     <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Cult_Leader"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Cult Leader
+  </a>
+</li>
   <li><strong>Artiste :</strong> <em>Anica Kelsen</em></li>
   <li><strong>Révélé :</strong> 4 juillet 2020</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#4ea3ff;">Résumé</span>
+##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Chaque nuit, vous prenez l’alignement d’un voisin vivant. Si tous les joueurs bons choisissent de rejoindre votre secte, votre équipe gagne. »</strong>
@@ -58,6 +67,33 @@ title: Chef de Secte
 Le <a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a> change d’alignement au fil des nuits, en fonction de ses voisins vivants.  
 Son équipe gagne si tous les joueurs bons acceptent de rejoindre sa secte lors d’un vote public.
 </p>
+
+
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>À la fin de chaque nuit, le 
+      <a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a> 
+      prend l’alignement d’un de ses voisins vivants.</li>
+
+  <li>Une fois par jour, le 
+      <a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a> 
+      peut déclarer publiquement qu’il veut former une secte.  
+      Si tous les joueurs bons votent pour rejoindre la secte, la partie se termine immédiatement  
+      et l’équipe du 
+      <a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a> gagne.</li>
+
+  <li>Le 
+      <a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a> 
+      peut tenter de former une secte à n’importe quel moment de la journée.</li>
+
+  <li>Voter pour rejoindre une secte ne nécessite pas de jeton de vote.</li>
+
+  <li>Les joueurs peuvent dire ce qu’ils veulent à tout moment :  
+      un joueur qui bluffe 
+      <a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a> 
+      peut aussi déclarer former une secte, même si rien ne se passe vraiment.</li>
+</ul>
+
 
 ---
 
@@ -88,35 +124,8 @@ Son équipe gagne si tous les joueurs bons acceptent de rejoindre sa secte lors 
 
 ---
 
-## ⚙️ <span style="color:#4ea3ff;">Détails</span>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>À la fin de chaque nuit, le 
-      <a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a> 
-      prend l’alignement d’un de ses voisins vivants.</li>
-
-  <li>Une fois par jour, le 
-      <a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a> 
-      peut déclarer publiquement qu’il veut former une secte.  
-      Si tous les joueurs bons votent pour rejoindre la secte, la partie se termine immédiatement  
-      et l’équipe du 
-      <a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a> gagne.</li>
-
-  <li>Le 
-      <a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a> 
-      peut tenter de former une secte à n’importe quel moment de la journée.</li>
-
-  <li>Voter pour rejoindre une secte ne nécessite pas de jeton de vote.</li>
-
-  <li>Les joueurs peuvent dire ce qu’ils veulent à tout moment :  
-      un joueur qui bluffe 
-      <a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a> 
-      peut aussi déclarer former une secte, même si rien ne se passe vraiment.</li>
-</ul>
-
----
-
-## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
+##  <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Chaque nuit, regardez les voisins vivants du 
@@ -146,7 +155,7 @@ Sinon, rien ne se passe.
 
 ---
 
-## 🧩 <span style="color:#4ea3ff;">Exemples</span>
+##  <span style="color:#4ea3ff;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
@@ -198,7 +207,7 @@ il ne devient pas maléfique à cause de ses voisins.
 
 ---
 
-## 💡 <span style="color:#4ea3ff;">Astuces et Conseils</span>
+##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -270,7 +279,7 @@ il ne devient pas maléfique à cause de ses voisins.
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer Chef de Secte</span>
+##  <span style="color:#4ea3ff;">Bluffer Chef de Secte</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -345,7 +354,7 @@ il ne devient pas maléfique à cause de ses voisins.
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
