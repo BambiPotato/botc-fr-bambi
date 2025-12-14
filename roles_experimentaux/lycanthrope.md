@@ -28,7 +28,7 @@ title: Lycanthrope
   </a>
 </div>
 
-# 🐺 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Lycanthrope</span>
+#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Lycanthrope</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Sous le mince vernis de civilisation se cache une folie hurlante. »
@@ -36,19 +36,28 @@ title: Lycanthrope
 
 ---
 
-## ℹ️ <span style="color:#4ea3ff;">Informations</span>
+##  <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
     <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Lycanthrope"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Lycanthrope
+  </a>
+</li>
   <li><strong>Artiste :</strong> <em>John Grist</em></li>
   <li><strong>Révélé :</strong> 7 janvier 2021</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#4ea3ff;">Résumé</span>
+##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Chaque nuit*, vous choisissez un joueur vivant. S’il est bon, il meurt et le Démon ne tue pas cette nuit. Un joueur bon apparaît comme maléfique. »</strong>
@@ -58,10 +67,6 @@ title: Lycanthrope
 Le <strong>Lycanthrope</strong> rôde la nuit, tuant les innocents, tandis que le 
 <span style="color:#d45b5b; font-weight:bold;">Démon</span> se terre à l’abri.
 </p>
-
----
-
-## ⚙️ <span style="color:#4ea3ff;">Détails</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -116,7 +121,7 @@ Il ou elle pointe n’importe quel joueur. Endormez ensuite le Lycanthrope.
 
 ---
 
-## 🧩 <span style="color:#4ea3ff;">Exemples</span>
+##  <span style="color:#4ea3ff;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
@@ -156,7 +161,7 @@ et le Lycanthrope meurt.
 
 ---
 
-## 💡 <span style="color:#4ea3ff;">Astuces et Conseils</span>
+##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -235,7 +240,7 @@ et le Lycanthrope meurt.
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer Lycanthrope</span>
+##  <span style="color:#4ea3ff;">Bluffer Lycanthrope</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -290,7 +295,7 @@ et le Lycanthrope meurt.
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
