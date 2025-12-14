@@ -28,7 +28,7 @@ title: Cannibale
   </a>
 </div>
 
-# 🍖 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Cannibale</span>
+#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Cannibale</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Je n’aime pas les clowns. Ils ont un goût bizarre. »
@@ -36,19 +36,28 @@ title: Cannibale
 
 ---
 
-## ℹ️ <span style="color:#4ea3ff;">Informations</span>
+## <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong> 
     <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Cannibal"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Cannibal
+  </a>
+</li>
   <li><strong>Artiste :</strong> <em>John Grist</em></li>
   <li><strong>Révélé :</strong> 4 juillet 2020</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#4ea3ff;">Résumé</span>
+##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Vous avez la capacité du dernier joueur mort par exécution. S’il est maléfique, vous êtes empoisonné jusqu’à ce qu’un joueur bon meure par exécution. »</strong>
@@ -58,6 +67,30 @@ title: Cannibale
 Le <strong>Cannibale</strong> dévore les joueurs exécutés et gagne leur capacité.  
 Mais si la « victime » était maléfique, le Cannibale est empoisonné et ne peut plus faire confiance à ce qu’il reçoit.
 </p>
+
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>Quand un joueur bon meurt par exécution, le Cannibale gagne la capacité de ce joueur.</li>
+  <li>Quand un joueur maléfique meurt par exécution, le Cannibale croit gagner une capacité,  
+      mais il est en fait <strong>empoisonné</strong> : la conteuse peut lui donner de fausses informations ou des réveils factices.</li>
+  <li>À chaque nouvelle exécution qui fait réellement mourir un joueur vivant, le Cannibale perd la capacité précédente  
+      et la remplace par la capacité du nouveau « repas ».</li>
+  <li>Exécuter un joueur déjà mort ne donne aucune capacité au Cannibale.</li>
+  <li>Exécuter un joueur vivant qui ne meurt finalement pas (par exemple à cause d’une protection)  
+      ne donne aucune capacité au Cannibale.</li>
+  <li>Le Cannibale n’est jamais informé explicitement de la capacité qu’il a gagnée.  
+      Il doit la deviner à partir de ce qui se passe en jeu.</li>
+  <li>Si le Cannibale gagne une capacité qui fonctionne « même mort », comme celle du 
+      <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a>,  
+      ou une capacité qui implique de fonctionner après la mort, comme celles du 
+      <a href="../tb_roles/gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a>  
+      ou de la 
+      <a href="../sv_roles/dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a>,  
+      il garde cette capacité après sa propre mort,  
+      mais perd définitivement sa capacité de Cannibale.
+  </li>
+</ul>
+
 
 ---
 
@@ -107,33 +140,7 @@ Mais si la « victime » était maléfique, le Cannibale est empoisonné et ne p
 
 ---
 
-## ⚙️ <span style="color:#4ea3ff;">Détails</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Quand un joueur bon meurt par exécution, le Cannibale gagne la capacité de ce joueur.</li>
-  <li>Quand un joueur maléfique meurt par exécution, le Cannibale croit gagner une capacité,  
-      mais il est en fait <strong>empoisonné</strong> : la conteuse peut lui donner de fausses informations ou des réveils factices.</li>
-  <li>À chaque nouvelle exécution qui fait réellement mourir un joueur vivant, le Cannibale perd la capacité précédente  
-      et la remplace par la capacité du nouveau « repas ».</li>
-  <li>Exécuter un joueur déjà mort ne donne aucune capacité au Cannibale.</li>
-  <li>Exécuter un joueur vivant qui ne meurt finalement pas (par exemple à cause d’une protection)  
-      ne donne aucune capacité au Cannibale.</li>
-  <li>Le Cannibale n’est jamais informé explicitement de la capacité qu’il a gagnée.  
-      Il doit la deviner à partir de ce qui se passe en jeu.</li>
-  <li>Si le Cannibale gagne une capacité qui fonctionne « même mort », comme celle du 
-      <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a>,  
-      ou une capacité qui implique de fonctionner après la mort, comme celles du 
-      <a href="../tb_roles/gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a>  
-      ou de la 
-      <a href="../sv_roles/dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a>,  
-      il garde cette capacité après sa propre mort,  
-      mais perd définitivement sa capacité de Cannibale.
-  </li>
-</ul>
-
----
-
-## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
+##  <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Si un joueur bon meurt par exécution, marquez ce rôle avec le jeton de rappel <strong>REPAS (LUNCH)</strong> et retirez le jeton de rappel <strong>EMPOISONNÉ (POISONED)</strong> du Cannibale si nécessaire.  
@@ -161,7 +168,7 @@ qu’il a gagné une capacité de Voyante, même si en réalité il est empoison
 
 ---
 
-## 🧩 <span style="color:#4ea3ff;">Exemples</span>
+##  <span style="color:#4ea3ff;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
@@ -194,7 +201,7 @@ car un véritable Mutant ne se réveille pas la nuit.
 
 ---
 
-## 💡 <span style="color:#4ea3ff;">Astuces et Conseils</span>
+##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -229,7 +236,7 @@ car un véritable Mutant ne se réveille pas la nuit.
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer Cannibale</span>
+##  <span style="color:#4ea3ff;">Bluffer Cannibale</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -260,7 +267,7 @@ car un véritable Mutant ne se réveille pas la nuit.
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
