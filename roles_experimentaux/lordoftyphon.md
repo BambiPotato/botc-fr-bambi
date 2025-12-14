@@ -28,7 +28,7 @@ title: Seigneur de Typhon
   </a>
 </div>
 
-# 👹 <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Seigneur de Typhon</span>
+#  <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Seigneur de Typhon</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Dans les recoins oubliés et obscurs du cosmos,  
@@ -40,19 +40,28 @@ title: Seigneur de Typhon
 
 ---
 
-## ℹ️ <span style="color:#d45b5b;">Informations</span>
+##  <span style="color:#d45b5b;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
     <a href="/demon.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Lord_of_Typhon"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+    The Lord of Typhon
+  </a>
+</li>
   <li><strong>Artiste :</strong> Chloe McDougall</li>
   <li><strong>Révélé :</strong> 29 août 2024</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#d45b5b;">Résumé</span>
+##  <span style="color:#d45b5b;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Chaque nuit*, choisissez un joueur : il meurt.  
@@ -120,7 +129,7 @@ il peut potentiellement remonter jusqu’à toute l’équipe du Mal.
 
 ---
 
-## 🎭 <span style="color:#d45b5b;">Comment Conter</span>
+##  <span style="color:#d45b5b;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Le <strong>Seigneur de Typhon</strong> demande surtout  
@@ -202,7 +211,7 @@ et combien de Sbires tournent autour du Démon.
 
 ---
 
-## 🧩 <span style="color:#d45b5b;">Exemples</span>
+##  <span style="color:#d45b5b;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Il y a deux <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> :  
@@ -244,7 +253,7 @@ durant la première nuit.
 
 ---
 
-## 💡 <span style="color:#d45b5b;">Astuces & Conseils</span>
+##  <span style="color:#d45b5b;">Astuces & Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -335,7 +344,7 @@ durant la première nuit.
 
 ---
 
-## ⚔️ <span style="color:#d45b5b;">Combattre le Seigneur de Typhon</span>
+##  <span style="color:#d45b5b;">Combattre le Seigneur de Typhon</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -385,7 +394,7 @@ durant la première nuit.
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👹 <a href="/demon.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Retour aux Démons</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="/demon.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Démons</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
