@@ -28,7 +28,7 @@ title: Cultivateur de pavot
   </a>
 </div>
 
-# 🌺 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Cultivateur de pavot</span>
+#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Cultivateur de pavot</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Dans les bosquets cachés au cœur de la forêt, fleurit le pavot noir. 
@@ -38,19 +38,28 @@ title: Cultivateur de pavot
 
 ---
 
-## ℹ️ <span style="color:#4ea3ff;">Informations</span>
+##  <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong> 
     <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
   </li>
   <li><strong>Artiste :</strong> <em>Z. Benetatos</em></li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Poppy_Grower"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Poppy Grower
+  </a>
+</li>
   <li><strong>Révélé :</strong> 18 mars 2021</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#4ea3ff;">Résumé</span>
+##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Les Sbires et les Démons ne se connaissent pas. Si vous mourez, ils apprennent qui ils sont cette nuit-là. »</strong>
@@ -61,6 +70,32 @@ Le <strong>Cultivateur de pavot</strong> empêche les joueurs maléfiques d’ap
 Tant qu’il vit et que sa capacité fonctionne, les <span style="color:#d45b5b; font-weight:bold;">Sbires</span> et les 
 <span style="color:#d45b5b; font-weight:bold;">Démons</span> sont dans le brouillard.
 </p>
+
+
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+  <li>Les <span style="color:#d45b5b; font-weight:bold;">Sbires</span> et les 
+      <span style="color:#d45b5b; font-weight:bold;">Démons</span> ne se reconnaissent pas tant que le Cultivateur de pavot a sa capacité.</li>
+
+  <li>Le <span style="color:#d45b5b; font-weight:bold;">Démon</span> apprend tout de même trois rôles de 
+      <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> 
+      ou d’<a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a> qui ne sont pas en jeu,  
+      et qui sont des bluffs sûrs.</li>
+
+  <li>Si le Cultivateur de pavot meurt, le <span style="color:#d45b5b; font-weight:bold;">Démon</span> et les 
+      <span style="color:#d45b5b; font-weight:bold;">Sbires</span> apprennent qui ils sont cette nuit-là,  
+      comme lors d’une première nuit normale.</li>
+
+  <li>Si le Cultivateur de pavot est saoul ou empoisonné, les joueurs maléfiques ne se reconnaissent pas pour autant.  
+      S’il meurt alors qu’il est saoul ou empoisonné, les <span style="color:#d45b5b; font-weight:bold;">Sbires</span> et le 
+      <span style="color:#d45b5b; font-weight:bold;">Démon</span> ne se réveillent pas pour apprendre qui est qui,  
+      car le Cultivateur de pavot n’a pas de capacité cette nuit-là.</li>
+
+  <li>Un Voyageur maléfique qui arrive en cours de partie apprend tout de même  
+      quel joueur est le <span style="color:#d45b5b; font-weight:bold;">Démon</span> au moment où il entre en jeu.</li>
+
+</ul>
 
 ---
 
@@ -102,37 +137,10 @@ Tant qu’il vit et que sa capacité fonctionne, les <span style="color:#d45b5b;
 
 </ul>
 
----
-
-## ⚙️ <span style="color:#4ea3ff;">Détails</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Les <span style="color:#d45b5b; font-weight:bold;">Sbires</span> et les 
-      <span style="color:#d45b5b; font-weight:bold;">Démons</span> ne se reconnaissent pas tant que le Cultivateur de pavot a sa capacité.</li>
-
-  <li>Le <span style="color:#d45b5b; font-weight:bold;">Démon</span> apprend tout de même trois rôles de 
-      <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> 
-      ou d’<a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a> qui ne sont pas en jeu,  
-      et qui sont des bluffs sûrs.</li>
-
-  <li>Si le Cultivateur de pavot meurt, le <span style="color:#d45b5b; font-weight:bold;">Démon</span> et les 
-      <span style="color:#d45b5b; font-weight:bold;">Sbires</span> apprennent qui ils sont cette nuit-là,  
-      comme lors d’une première nuit normale.</li>
-
-  <li>Si le Cultivateur de pavot est saoul ou empoisonné, les joueurs maléfiques ne se reconnaissent pas pour autant.  
-      S’il meurt alors qu’il est saoul ou empoisonné, les <span style="color:#d45b5b; font-weight:bold;">Sbires</span> et le 
-      <span style="color:#d45b5b; font-weight:bold;">Démon</span> ne se réveillent pas pour apprendre qui est qui,  
-      car le Cultivateur de pavot n’a pas de capacité cette nuit-là.</li>
-
-  <li>Un Voyageur maléfique qui arrive en cours de partie apprend tout de même  
-      quel joueur est le <span style="color:#d45b5b; font-weight:bold;">Démon</span> au moment où il entre en jeu.</li>
-
-</ul>
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
+##  <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Lors de la première nuit, réveillez le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.  
@@ -160,7 +168,7 @@ Cette nuit-là :
 
 ---
 
-## 🧩 <span style="color:#4ea3ff;">Exemples</span>
+##  <span style="color:#4ea3ff;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
@@ -195,7 +203,7 @@ car le Cultivateur de pavot n’a jamais eu de capacité réelle.
 
 ---
 
-## 💡 <span style="color:#4ea3ff;">Astuces et Conseils</span>
+##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -266,7 +274,7 @@ car le Cultivateur de pavot n’a jamais eu de capacité réelle.
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer Cultivateur de Pavot</span>
+##  <span style="color:#4ea3ff;">Bluffer Cultivateur de Pavot</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -319,7 +327,7 @@ car le Cultivateur de pavot n’a jamais eu de capacité réelle.
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
