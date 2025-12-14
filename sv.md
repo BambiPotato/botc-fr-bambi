@@ -18,27 +18,27 @@ title: Sects & Violets
   </a>
 </div>
 
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+<p style="text-align:center; color:#d67bff; font-style:italic; font-size:18px; margin-top:-10px;">
   « Quand la beauté fleurit, la folie n’est jamais loin… »
 </p>
 
 ---
 
-##  <span style="color:#e0c99d;">Sommaire</span>
+##  <span style="color:#d67bff; ">Sommaire</span>
 
-<ol style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li><a href="#-synopsis" style="color:#e0c99d; text-decoration:none;">Synopsis</a></li>
-  <li><a href="#-gameplay" style="color:#e0c99d; text-decoration:none;">Gameplay</a></li>
-  <li><a href="#villageois" style="color:#e0c99d; text-decoration:none;">Villageois</a></li>
-  <li><a href="#étrangers" style="color:#e0c99d; text-decoration:none;">Étrangers</a></li>
-  <li><a href="#sbires" style="color:#e0c99d; text-decoration:none;">Sbires</a></li>
-  <li><a href="#démons" style="color:#e0c99d; text-decoration:none;">Démons</a></li>
-  <li><a href="#-télécharger--imprimer" style="color:#e0c99d; text-decoration:none;">Télécharger &amp; Imprimer</a></li>
+<ol style="color:#d67bff; ; font-size:18px; line-height:1.7;">
+  <li><a href="#-synopsis" style="color:#f5f5f5;; text-decoration:none;">Synopsis</a></li>
+  <li><a href="#-gameplay" style="color:#f5f5f5;; text-decoration:none;">Gameplay</a></li>
+  <li><a href="#villageois" style="color:#f5f5f5; text-decoration:none;">Villageois</a></li>
+  <li><a href="#étrangers" style="color:#f5f5f5; text-decoration:none;">Étrangers</a></li>
+  <li><a href="#sbires" style="color:#f5f5f5; text-decoration:none;">Sbires</a></li>
+  <li><a href="#démons" style="color:#f5f5f5; text-decoration:none;">Démons</a></li>
+  <li><a href="#-télécharger--imprimer" style="color:#f5f5f5; text-decoration:none;">Télécharger &amp; Imprimer</a></li>
 </ol>
 
 ---
 
-##  <span style="color:#e0c99d;">Synopsis</span>
+##  <span style="color:#d67bff;">Synopsis</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Le printemps vibrant laisse place à un été doux et accueillant.  
@@ -57,7 +57,7 @@ Le moment est venu pour... <span style="color:#d67bff; font-weight:bold;">Sects 
 
 ---
 
-##  <span style="color:#e0c99d;">Gameplay</span>
+##  <span style="color:#d67bff;">Gameplay</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <span style="color:#d67bff; font-weight:bold;">Sects & Violets</span> est l’édition la plus folle et imprévisible des trois.  
@@ -71,7 +71,7 @@ Même les <span style="color:#d45b5b;;">Maléfiques</span> peuvent perdre le fil
 C’est aussi la première apparition de la <strong>Folie</strong>, qui peut complètement bouleverser la partie.
 </p>
 
-<p style="color:##f5f5f5; font-size:19px; font-weight:bold;">
+<p style="color:#d67bff; font-size:19px; font-weight:bold;">
  Niveau : <strong>Intermédiaire à Avancé</strong><br>
 <em>*Recommandé pour les joueurs et joueuses aimant le chaos, la folie;  les retournements inattendus et les défis logiques audacieux.*</em>
 </p>
@@ -198,14 +198,14 @@ C’est aussi la première apparition de la <strong>Folie</strong>, qui peut com
 
 ---
 
-##  <span style="color:#e0c99d;">Télécharger &  Imprimer</span>
+##  <span style="color:#d67bff;">Télécharger &  Imprimer</span>
 
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<p style="color:#d67bff; font-size:18px; line-height:1.7;">
 Ces ressources sont pratiques pour <strong>imprimer</strong> et <strong>jouer en personne</strong>.
 </p>
 
 <p style="text-align:left; font-size:18px;">
- <a href="./images/sv-roles.pdf" style="color:#d4a76a; font-weight:bold; text-decoration:none;"> Télécharger le PDF de Sects & Violets</a>
+ <a href="./images/sv-roles.pdf" style="color:#d67bff; font-weight:bold; text-decoration:none;"> Télécharger le PDF de Sects & Violets</a>
 </p>
 
 <div style="text-align:left;">
