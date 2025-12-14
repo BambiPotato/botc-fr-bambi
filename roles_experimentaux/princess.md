@@ -58,29 +58,28 @@ title: Princesse
 ---
 
 
-## 📖 <span style="color:#4ea3ff;">Résumé</span>
+##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Lors de votre premier jour, si vous avez nommé et fait exécuter un joueur, le Démon ne tue personne cette nuit. »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-La <strong>Princesse</strong> décide quel joueur ou quelle joueuse tombe sous le couperet en premier.
+La <strong>Princesse</strong> décide quel joueur meurt en premier..
 </p>
 
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
   <li>Pour que la capacité de la Princesse fonctionne, le joueur ou la joueuse  
-      que la Princesse a nommé·e (la personne qu’elle désigne à la voix)  
-      doit être celle ou celui qui est exécuté ce jour-là.  
+      que la Princesse a nommé doit être celle ou celui qui est exécuté ce jour-là.  
       Les exécutions issues de nominations faites par d’autres ne comptent pas.</li>
 
-  <li>Le joueur ou la joueuse exécuté·e n’a pas besoin de mourir réellement  
+  <li>Le joueur exécuté n’a pas besoin de mourir réellement  
       pour que la capacité de la Princesse s’applique  
       (par exemple si une capacité empêche cette mort).</li>
 
-  <li>Les bannissements (Exiles) ne comptent pas pour la capacité de la Princesse.</li>
+  <li>Les exilés ne sont pas pris en compte pour la capacité Princesse.</li>
 
   <li>Si la Princesse est ivre pendant la journée mais sobre la nuit suivante,  
       elle empêche le <span style="color:#d45b5b; font-weight:bold;">Démon</span> de tuer cette nuit-là.  
