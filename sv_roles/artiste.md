@@ -72,7 +72,7 @@ Dieu est révélé ! Oui ! »*
 - Ensuite, marquez le rôle avec le jeton de rappel **AUCUNE CAPACITÉ** :  
   l’Artiste a utilisé son pouvoir.  
 
-> Astuces pour les Conteurs et Conteuses :
+> **Astuces pour les Conteurs et Conteuses :**
 
 > À l'instar du Savant, les joueurs maléfiques se faisant passer pour l'Artiste peuvent vous demander une conversation privée et 
   faire semblant de vous poser une question. 
