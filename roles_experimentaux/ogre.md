@@ -28,7 +28,7 @@ title: Ogre
   </a>
 </div>
 
-# 🪓 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Ogre</span>
+#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Ogre</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « <em>Grognement</em>... <em>sourire</em>...<em>grognement</em> »
@@ -36,19 +36,28 @@ title: Ogre
 
 ---
 
-## ℹ️ <span style="color:#4ea3ff;">Informations</span>
+##  <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
     <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Ogre"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+  Ogre
+  </a>
+</li>
   <li><strong>Artiste :</strong> <em>Chloe McDougall</em></li>
   <li><strong>Révélé :</strong> 24 mai 2024</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#4ea3ff;">Résumé</span>
+##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Lors de votre première nuit, choisissez un joueur (pas vous-même)&nbsp;: vous devenez son alignement (vous ne savez pas lequel), même si vous êtes ivre ou empoisonné. »</strong>
@@ -57,6 +66,26 @@ title: Ogre
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 L’<strong>Ogre</strong> est le meilleur ami de quelqu'un.
 </p>
+
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+  <li>Le joueur choisi par l’Ogre ne change jamais, même si l’Ogre est ivre ou empoisonné au moment de son choix.</li>
+
+  <li>L’Ogre adopte immédiatement le même alignement que ce joueur dès la première nuit,  
+      même s’il est ivre ou empoisonné.</li>
+
+  <li>L’alignement de l’Ogre n’est pas révélé au début de la partie.</li>
+
+  <li>Si l’Ogre change d’alignement par un autre effet (par exemple à cause d’un 
+      <a href="../roles_experimentaux/mezepheles.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mezepheles</a>),  
+      il apprend normalement ce nouvel alignement.</li>
+
+  <li>Si un Ogre est créé en cours de partie, il choisit un joueur cette nuit-là  
+      et adopte immédiatement l’alignement de ce joueur.</li>
+
+</ul>
+
 
 ---
 
@@ -96,31 +125,10 @@ L’<strong>Ogre</strong> est le meilleur ami de quelqu'un.
 
 </ul>
 
----
-
-## ⚙️ <span style="color:#4ea3ff;">Détails</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Le joueur choisi par l’Ogre ne change jamais, même si l’Ogre est ivre ou empoisonné au moment de son choix.</li>
-
-  <li>L’Ogre adopte immédiatement le même alignement que ce joueur dès la première nuit,  
-      même s’il est ivre ou empoisonné.</li>
-
-  <li>L’alignement de l’Ogre n’est pas révélé au début de la partie.</li>
-
-  <li>Si l’Ogre change d’alignement par un autre effet (par exemple à cause d’un 
-      <a href="../roles_experimentaux/mezepheles.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mezepheles</a>),  
-      il apprend normalement ce nouvel alignement.</li>
-
-  <li>Si un Ogre est créé en cours de partie, il choisit un joueur cette nuit-là  
-      et adopte immédiatement l’alignement de ce joueur.</li>
-
-</ul>
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
+##  <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Durant la première nuit, réveillez l’Ogre.  
@@ -146,7 +154,7 @@ afin d’éviter d’avoir trop de joueurs maléfiques.
 
 ---
 
-## 🧩 <span style="color:#4ea3ff;">Exemples</span>
+##  <span style="color:#4ea3ff;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 La première nuit, l’Ogre choisit l’
@@ -237,7 +245,7 @@ L’Ogre reste pourtant bon&nbsp;: son alignement ne change pas automatiquement 
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer Ogre</span>
+##  <span style="color:#4ea3ff;">Bluffer Ogre</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -321,7 +329,7 @@ L’Ogre reste pourtant bon&nbsp;: son alignement ne change pas automatiquement 
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  💈 <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Étrangers</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie: Étrangers</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
