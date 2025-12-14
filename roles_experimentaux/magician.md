@@ -28,7 +28,7 @@ title: Magicien
   </a>
 </div>
 
-# 🎩 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Magicien</span>
+#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Magicien</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « 1... 2... Abra... 3... 4... Cadabra... *pouf !*  
@@ -38,19 +38,28 @@ title: Magicien
 
 ---
 
-## ℹ️ <span style="color:#4ea3ff;">Informations</span>
+##  <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong> 
     <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Magician"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+  Magician
+  </a>
+</li>
   <li><strong>Artiste :</strong> <em>John Grist</em></li>
   <li><strong>Révélé :</strong> 3 juin 2021</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#4ea3ff;">Résumé</span>
+##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Le Démon pense que vous êtes un Sbire. Les Sbires pensent que vous êtes le Démon. »</strong>
@@ -61,6 +70,33 @@ Le <strong>Magicien</strong> embrouille les joueurs maléfiques sur qui est rée
 Le <span style="color:#d45b5b; font-weight:bold;">Démon</span> le prend pour un <span style="color:#d45b5b; font-weight:bold;">Sbire</span>,  
 et les <span style="color:#d45b5b; font-weight:bold;">Sbires</span> le prennent pour le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.
 </p>
+
+
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+Au lieu d’indiquer clairement au camp du Mal qui est qui, le Magicien brouille les pistes :
+</p>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+  <li>La première nuit, au lieu d’apprendre quel joueur est le <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
+      les <span style="color:#d45b5b; font-weight:bold;">Sbires</span> apprennent que deux joueurs sont le Démon :  
+      le vrai Démon et le Magicien.</li>
+
+  <li>La première nuit, le <span style="color:#d45b5b; font-weight:bold;">Démon</span> apprend que le Magicien est l’un de ses Sbires.</li>
+
+  <li>Le Magicien ne se réveille jamais pour apprendre quoi que ce soit : sa capacité agit en coulisses.</li>
+
+  <li>La conteuse peut montrer le Magicien et les joueurs maléfiques dans l’ordre de son choix,  
+      de sorte que le camp du Mal ne sache pas qui est le Magicien et qui est réellement le Démon.</li>
+
+  <li>Si le 
+      <a href="../roles_experimentaux/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cultivateur de pavot</a>  
+      meurt et que le <span style="color:#d45b5b; font-weight:bold;">Démon</span> et les <span style="color:#d45b5b; font-weight:bold;">Sbires</span>  
+      apprennent qui ils sont en cours de partie, la capacité du Magicien s’applique à cette nuit-là,  
+      comme si c’était la première nuit.</li>
+
+</ul>
 
 ---
 
@@ -124,38 +160,10 @@ et les <span style="color:#d45b5b; font-weight:bold;">Sbires</span> le prennent 
 
 </ul>
 
----
-
-## ⚙️ <span style="color:#4ea3ff;">Détails</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Au lieu d’indiquer clairement au camp du Mal qui est qui, le Magicien brouille les pistes :
-</p>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>La première nuit, au lieu d’apprendre quel joueur est le <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
-      les <span style="color:#d45b5b; font-weight:bold;">Sbires</span> apprennent que deux joueurs sont le Démon :  
-      le vrai Démon et le Magicien.</li>
-
-  <li>La première nuit, le <span style="color:#d45b5b; font-weight:bold;">Démon</span> apprend que le Magicien est l’un de ses Sbires.</li>
-
-  <li>Le Magicien ne se réveille jamais pour apprendre quoi que ce soit : sa capacité agit en coulisses.</li>
-
-  <li>La conteuse peut montrer le Magicien et les joueurs maléfiques dans l’ordre de son choix,  
-      de sorte que le camp du Mal ne sache pas qui est le Magicien et qui est réellement le Démon.</li>
-
-  <li>Si le 
-      <a href="../roles_experimentaux/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cultivateur de pavot</a>  
-      meurt et que le <span style="color:#d45b5b; font-weight:bold;">Démon</span> et les <span style="color:#d45b5b; font-weight:bold;">Sbires</span>  
-      apprennent qui ils sont en cours de partie, la capacité du Magicien s’applique à cette nuit-là,  
-      comme si c’était la première nuit.</li>
-
-</ul>
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
+##  <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 La première nuit, gérez les informations pour les Maléfiques en tenant compte du Magicien.
@@ -182,7 +190,7 @@ La première nuit, gérez les informations pour les Maléfiques en tenant compte
 
 ---
 
-## 🧩 <span style="color:#4ea3ff;">Exemples</span>
+##  <span style="color:#4ea3ff;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Les Sbires se réveillent et apprennent que soit la joueuse 
@@ -197,7 +205,7 @@ et Magicien sont ses « Sbires ».
 
 ---
 
-## 💡 <span style="color:#4ea3ff;">Astuces et Conseils</span>
+##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -258,7 +266,7 @@ et Magicien sont ses « Sbires ».
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer Magicien</span>
+##  <span style="color:#4ea3ff;">Bluffer Magicien</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -297,7 +305,7 @@ et Magicien sont ses « Sbires ».
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
