@@ -28,7 +28,7 @@ title: Orgue de Barbarie
   </a>
 </div>
 
-# 🐒 <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Orgue de Barbarie</span>
+#  <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Orgue de Barbarie</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « La manivelle tourne encore et encore.  
@@ -37,19 +37,28 @@ title: Orgue de Barbarie
 
 ---
 
-## ℹ️ <span style="color:#d45b5b;">Informations</span>
+##  <span style="color:#d45b5b;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
     <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Organ_Grinder"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+    Organ Grinder
+  </a>
+</li>
   <li><strong>Artiste :</strong> Chloe McDougall</li>
   <li><strong>Révélé :</strong> 23 mars 2023</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#d45b5b;">Résumé</span>
+##  <span style="color:#d45b5b;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Tous les joueurs gardent les yeux fermés pendant les votes  
@@ -112,7 +121,7 @@ L’<strong>Orgue de Barbarie</strong> rend les votes secrets et empêche le Bie
 
 ---
 
-## 🎭 <span style="color:#d45b5b;">Comment Conter</span>
+##  <span style="color:#d45b5b;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Vous gérez l’état d’ivresse de l’<strong>Orgue de Barbarie</strong>  
@@ -176,7 +185,7 @@ et vous appliquez les règles de vote secret lorsqu’il est sobre.
 
 ---
 
-## 🧩 <span style="color:#d45b5b;">Exemples</span>
+##  <span style="color:#d45b5b;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Il y a 8 joueurs vivants.  
@@ -194,7 +203,7 @@ et que l’équipe du Bien gagne la partie.
 
 ---
 
-## 💡 <span style="color:#d45b5b;">Astuces & Conseils</span>
+##  <span style="color:#d45b5b;">Astuces & Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -262,7 +271,7 @@ et que l’équipe du Bien gagne la partie.
 
 ---
 
-## ⚔️ <span style="color:#d45b5b;">Combattre l’Orgue de Barbarie</span>
+##  <span style="color:#d45b5b;">Combattre l’Orgue de Barbarie</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -308,7 +317,7 @@ et que l’équipe du Bien gagne la partie.
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  😈 <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Retour aux Sbires</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Sbires</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
