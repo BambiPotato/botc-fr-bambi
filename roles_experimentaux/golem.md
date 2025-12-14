@@ -28,7 +28,7 @@ title: Golem
   </a>
 </div>
 
-# 🗿 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Golem</span>
+#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Golem</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Golem aider ? Golem frapper ! Golem aider. »
@@ -36,19 +36,28 @@ title: Golem
 
 ---
 
-## ℹ️ <span style="color:#4ea3ff;">Informations</span>
+##  <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
     <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Golem"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+   Golem
+  </a>
+</li>
   <li><strong>Artiste :</strong> <em>Anica Kelsen</em></li>
   <li><strong>Révélé :</strong> 26 août 2021</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#4ea3ff;">Résumé</span>
+##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Vous ne pouvez nommer qu’une seule fois par partie. Quand vous le faites, si le nommé n’est pas le <span style="color:#d45b5b; font-weight:bold;">Démon</span>, il meurt. »</strong>
@@ -58,9 +67,6 @@ title: Golem
 Le <strong>Golem</strong> tue le joueur qu’il nomme… tant que ce n’est pas le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.
 </p>
 
----
-
-## ⚙️ <span style="color:#4ea3ff;">Détails</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -83,7 +89,7 @@ Le <strong>Golem</strong> tue le joueur qu’il nomme… tant que ce n’est pas
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
+##  <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Si le Golem nomme un joueur ou une joueuse qui n’est pas le <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
@@ -110,7 +116,7 @@ qui bluffent Golem : rappelez-leur qu’un Golem ne peut nommer qu’une seule f
 
 ---
 
-## 🧩 <span style="color:#4ea3ff;">Exemples</span>
+##  <span style="color:#4ea3ff;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Le Golem nomme le 
@@ -132,7 +138,7 @@ Le Golem ne peut plus nommer pour le reste de la partie.
 
 ---
 
-## 💡 <span style="color:#4ea3ff;">Astuces et Conseils</span>
+##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -191,7 +197,7 @@ Le Golem ne peut plus nommer pour le reste de la partie.
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer Golem</span>
+##  <span style="color:#4ea3ff;">Bluffer Golem</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -240,7 +246,7 @@ Le Golem ne peut plus nommer pour le reste de la partie.
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  💈 <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Étrangers</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Étrangers</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
