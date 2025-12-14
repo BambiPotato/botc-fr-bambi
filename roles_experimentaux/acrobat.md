@@ -43,6 +43,15 @@ title: Acrobate
 <li><strong>Type :</strong> 
     <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Acrobat"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Acrobat
+  </a>
+</li>
   <li><strong>Artiste :</strong> <em>Chloe McDougall</em></li>
   <li><strong>Révélé :</strong> 24 mai 2020</li>
 </ul>
