@@ -113,13 +113,13 @@ Le linge fraîchement lavé danse de façon étrange entre les chaumières. Des 
 Des senteurs exotiques s’infiltrent par les fissures des fenêtres, tandis que des chaudrons cachés bouillonnent dans l’ombre.
 </p>
 
-<p style="text-align:left; color:##f5f5f5; font-size:18px; line-height:1.7;">
+<p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
 Un vent d’automne anormalement chaud s’insinue le long des murs couverts de lierre et murmure à l’oreille des plus téméraires.  
 Les mères appellent leurs enfants à rentrer, alors que le tonnerre gronde à l’horizon.  
 Mais en tendant l’oreille… des bruits plus étranges encore résonnent depuis la forêt voisine.
 </p>
 
-<p style="text-align:left; color:#e0c99d; font-size:18px; line-height:1.7;">
+<p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
 Sous l’œil vigilant du monastère qui domine la ville, des silhouettes passent de porte en porte.  
 Celles et ceux qui savent lire les signes comprennent qu’il y a…  
 <span style="color:#d4a76a; font-weight:bold;">Trouble Brewing</span>.
@@ -127,10 +127,11 @@ Celles et ceux qui savent lire les signes comprennent qu’il y a…
 
 ---
 
-## <span id="gameplay" style="color:#b58b52;">Gameplay</span>
+##  <span style="color:#b58b52;">Gameplay</span>
 
 <p style="text-align:left; color:#e0c99d; font-size:18px; line-height:1.7;">
-<strong>Trouble Brewing</strong> <span style="color:#f5f5f5contient un peu de tout :</span>
+<strong>Trouble Brewing</strong> 
+<span style="color:#f5f5f5; contient un peu de tout :</span>
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
