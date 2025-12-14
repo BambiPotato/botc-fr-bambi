@@ -51,8 +51,9 @@ Je vous préviens, ce tour sera peut-être mon dernier. Oh là là… »*
 
 ##  <span style="color:#4ea3ff;">Résumé</span>  
 
-« Le premier jour, devinez publiquement jusqu’à cinq combinaisons joueur/rôle.» 
-« La nuit suivante, vous apprenez combien d’entre elles sont correctes.»  
+> « Le premier jour, devinez publiquement jusqu’à cinq combinaisons joueur/rôle.» 
+
+> « La nuit suivante, vous apprenez combien d’entre elles sont correctes.»  
 
 Le Jongleur doit convaincre les autres de **révéler leurs rôles** afin de pouvoir **deviner**  
 le plus justement possible.  
@@ -76,7 +77,8 @@ s’il n’est pas mort avant !
 - Cette nuit-là, réveillez le Jongleur et montrez-lui avec vos doigts le **nombre de bonnes réponses**.  
 - Puis, retirez les jetons de rappel **CORRECT** et son jeton de nuit.
 
-> *Astuces & Conseils pour les Conterus et Conteuses
+> **Astuces & Conseils pour les Conteurs et Conteuses**
+
 > Si un joueur maléfique bluffe ce rôle, vous pouvez feindre de déplacer des jetons  
 > pour renforcer l’illusion.
 
