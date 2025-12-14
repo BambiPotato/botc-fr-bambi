@@ -28,7 +28,7 @@ title: Zélote
   </a>
 </div>
 
-# 🗳️ <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Zélote</span>
+#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Zélote</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « J’aime parler avec toi. Ton esprit me plaît. Il ressemble au mien,  
@@ -37,19 +37,28 @@ title: Zélote
 
 ---
 
-## ℹ️ <span style="color:#4ea3ff;">Informations</span>
+##  <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
     <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Zealot"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Zealot
+  </a>
+</li>
   <li><strong>Artiste :</strong> <em>John Grist</em></li>
   <li><strong>Révélé :</strong> 26 juillet 2024</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#4ea3ff;">Résumé</span>
+##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« S’il y a 5 joueurs ou plus en vie, vous devez voter pour chaque nomination. »</strong>
@@ -58,6 +67,28 @@ title: Zélote
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Le <strong>Zélote</strong> doit constamment lever la main : tant qu’il y a assez de monde en vie, il vote sur absolument toutes les nominations.
 </p>
+
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+  <li>Si <strong>5 joueurs ou plus</strong> sont en vie, le Zélote doit voter pour <strong>toutes</strong> les nominations.</li>
+
+  <li>Si seulement <strong>4 joueurs ou moins</strong> sont en vie, le Zélote peut choisir de voter ou non, comme n’importe qui.</li>
+
+  <li>Les <strong>Voyageurs</strong> comptent comme des joueurs en vie pour cette capacité.</li>
+
+  <li>Une fois mort, le Zélote peut utiliser son jeton de vote fantôme comme tout autre joueur mort.  
+      Sa capacité n’oblige plus à voter : elle ne s’applique qu’aux joueurs vivants.</li>
+
+  <li>Le Zélote n’a pas besoin de voter lors des <strong>exils</strong> (votes pour ou contre les Voyageurs).</li>
+
+  <li>Le Zélote doit voter même s’il pense être <strong>ivre ou empoisonné</strong> : sa contrainte de vote reste valable.</li>
+
+  <li>Ce n’est <strong>pas</strong> à la conteuse ou au conteur de surveiller le Zélote :  
+      c’est au Zélote de respecter sa propre capacité.  
+      Ne pas voter volontairement alors qu’on le devrait est considéré comme de la triche.</li>
+
+</ul>
 
 ---
 
@@ -90,32 +121,7 @@ Le <strong>Zélote</strong> doit constamment lever la main : tant qu’il y a as
 
 ---
 
-## ⚙️ <span style="color:#4ea3ff;">Détails</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Si <strong>5 joueurs ou plus</strong> sont en vie, le Zélote doit voter pour <strong>toutes</strong> les nominations.</li>
-
-  <li>Si seulement <strong>4 joueurs ou moins</strong> sont en vie, le Zélote peut choisir de voter ou non, comme n’importe qui.</li>
-
-  <li>Les <strong>Voyageurs</strong> comptent comme des joueurs en vie pour cette capacité.</li>
-
-  <li>Une fois mort, le Zélote peut utiliser son jeton de vote fantôme comme tout autre joueur mort.  
-      Sa capacité n’oblige plus à voter : elle ne s’applique qu’aux joueurs vivants.</li>
-
-  <li>Le Zélote n’a pas besoin de voter lors des <strong>exils</strong> (votes pour ou contre les Voyageurs).</li>
-
-  <li>Le Zélote doit voter même s’il pense être <strong>ivre ou empoisonné</strong> : sa contrainte de vote reste valable.</li>
-
-  <li>Ce n’est <strong>pas</strong> à la conteuse ou au conteur de surveiller le Zélote :  
-      c’est au Zélote de respecter sa propre capacité.  
-      Ne pas voter volontairement alors qu’on le devrait est considéré comme de la triche.</li>
-
-</ul>
-
----
-
-## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
+##  <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 À chaque nomination, regardez simplement combien de joueurs sont encore en vie.  
@@ -131,7 +137,7 @@ Laissez la partie continuer et discutez-en calmement après la journée ou la pa
 
 ---
 
-## 🧩 <span style="color:#4ea3ff;">Exemples</span>
+##  <span style="color:#4ea3ff;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Il reste 7 joueurs en vie.  
@@ -161,7 +167,7 @@ pour voter contre le
 
 ---
 
-## 💡 <span style="color:#4ea3ff;">Astuces et Conseils</span>
+##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -211,7 +217,7 @@ pour voter contre le
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer Zélote</span>
+##  <span style="color:#4ea3ff;">Bluffer Zélote</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -237,7 +243,7 @@ pour voter contre le
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  💈 <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Étrangers</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Étrangers</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
