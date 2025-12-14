@@ -51,14 +51,12 @@ Ce casse-tête infernal se dévoile peu à peu… »*
 
 ## <span style="color:#4ea3ff;">Résumé</span>  
 
-> « **Si le Démon vous tue, vous apprenez qu’il s’agit de l’un des deux joueurs**. »
+> « **Si le Démon vous tue, vous apprenez de qui il s’agit entre deux joueurs.** »
 
-Le Sage ne sait **rien de son vivant**,  
-mais apprend une information cruciale **au moment de sa mort** :  
-qui l’a tué.
+Le sage ne sait rien de son vivant, mais apprend l'information la plus importante de toutes au moment de sa mort : qui l'a tué.
 
-⚠️ Le Sage **n’obtient cette info que si le Démon le tue directement.**  
-Une exécution ou un effet d’un autre rôle ne compte pas.
+- Le Sage n'obtient cette information que lorsqu'il est tué par un démon. L'exécution ne compte pas.
+
 
 ---
 
@@ -66,14 +64,12 @@ Une exécution ou un effet d’un autre rôle ne compte pas.
 
 - Si le Sage est tué par le Démon :  
   - Réveillez-le.  
-  - Pointez **deux joueur·euses**, dont **l’un ou l'une est le Démon**.  
+  - Pointez **deux joueurs**, dont **l’un est le Démon**.  
   - Puis rendormez le Sage.  
 
-- Si le Sage meurt tôt dans la partie, montrez-lui deux joueurs **vivants**,  
-  pour garder un minimum de suspense et de chances pour le Mal.  
-
-- Si le Sage meurt lors de la dernière nuit,  
-  vous pouvez montrer **un vivant et un mort**.  
+> Astuces & Conseils pour les Conteurs et Conteuses
+> Si le Sage meurt rapidement, il est conseillé de lui montrer deux joueurs vivants, ce qui laisse à l'équipe des méchants une mince chance de gagner. 
+> Si le Sage meurt lors de la dernière nuit, vous pouvez lui montrer un joueur vivant et un joueur mort.
 
 ---
 
