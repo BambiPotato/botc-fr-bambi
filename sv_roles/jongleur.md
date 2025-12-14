@@ -50,8 +50,8 @@ Je vous préviens, ce tour sera peut-être mon dernier. Oh là là… »*
 
 ##  <span style="color:#4ea3ff;">Résumé</span>  
 
-> « Le premier jour, devinez publiquement jusqu’à cinq combinaisons joueur.euse/rôle.»
-> « La nuit suivante, vous apprenez **combien** d’entre elles sont correctes. »
+- « Le premier jour, devinez publiquement jusqu’à cinq combinaisons joueur/rôle.» 
+- « La nuit suivante, vous apprenez combien d’entre elles sont correctes.»  
 
 Le Jongleur doit convaincre les autres de **révéler leurs rôles** afin de pouvoir **deviner**  
 le plus justement possible.  
@@ -61,7 +61,7 @@ s’il n’est pas mort avant !
 - Il peut annoncer de **0 à 5 combinaisons (suppositions)**.  
 - Ses annonces doivent être **publiques**.  
 - Il peut citer le ou la **même joueur.euse plusieurs fois** ou **des rôles différents**.  
-- Si le Jongleur est ivre/empoisonné au moment des de ses suppositions  
+- Si le Jongleur est ivre ou empoisonné au moment des de ses suppositions  
   mais sobre au moment de la révélation, son info sera correcte.
 
 ---
@@ -138,7 +138,7 @@ s’il n’est pas mort avant !
 
 ## <span style="color:#4ea3ff;">Bluffer Jongleur</span>  
 
-- Le Jongleur agit **publiquement** — bluffez en conséquence !  
+- Le Jongleur agit **publiquement**  bluffez en conséquence !  
   Parlez fort, animez le débat et poussez les autres à révéler leurs rôles.  
 
 - Soutenez votre crédibilité en confirmant les bons joueurs :  
