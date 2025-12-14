@@ -28,7 +28,7 @@ title: Politicien
   </a>
 </div>
 
-# 🇫🇷 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Politicien</span>
+#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Politicien</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Je suis ravi que vous posiez cette question, vraiment.  
@@ -37,20 +37,29 @@ title: Politicien
 
 ---
 
-## ℹ️ <span style="color:#4ea3ff;">Informations</span>
+##  <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
     <strong>Type :</strong>
     <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Politician"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Politician
+  </a>
+</li>
   <li><strong>Artiste :</strong> <em>Chloe McDougall</em></li>
   <li><strong>Révélé :</strong> 4 juillet 2020</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#4ea3ff;">Résumé</span>
+##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>
@@ -64,6 +73,28 @@ Le politicien change d'équipe s'il est en train de perdre.
 Le Politicien est un opportuniste absolu : si son équipe perd par sa faute,  
 il retourne sa veste au dernier moment et remporte la partie avec le camp adverse.
 </p>
+
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+  <li>À la fin de la partie, si l’équipe du Bien perd et que le Politicien  
+      est jugé par le conteur comme la personne principalement responsable de cette défaite,  
+      il change d’alignement et gagne avec les Maléfiques.</li>
+
+  <li>Dans de rares cas, si le Politicien est maléfique et joue un rôle majeur  
+      dans la défaite des Maléfiques, il change d'alignement et gagne avec le Bien.</li>
+
+  <li>« Principalement responsable » signifie que le Politicien a eu une influence décisive :  
+      discours, mensonges, pressions de vote, orientation des exécutions…  
+      plus que n’importe quel autre joueur ou joueuse de son équipe.</li>
+
+  <li>Le Politicien peut tout à fait gagner « normalement » avec le Bien,  
+      si le Bien remporte la partie sans que sa capacité ne s’applique.</li>
+
+  <li>Si le Politicien est ivre ou empoisonné lorsque la partie se termine,  
+      il ne change pas d’alignement et ne bénéficie pas de sa capacité.</li>
+
+</ul>
 
 ---
 
@@ -104,32 +135,7 @@ il retourne sa veste au dernier moment et remporte la partie avec le camp advers
 
 ---
 
-## ⚙️ <span style="color:#4ea3ff;">Détails</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>À la fin de la partie, si l’équipe du Bien perd et que le Politicien  
-      est jugé par le conteur comme la personne principalement responsable de cette défaite,  
-      il change d’alignement et gagne avec les Maléfiques.</li>
-
-  <li>Dans de rares cas, si le Politicien est maléfique et joue un rôle majeur  
-      dans la défaite des Maléfiques, il change d'alignement et gagne avec le Bien.</li>
-
-  <li>« Principalement responsable » signifie que le Politicien a eu une influence décisive :  
-      discours, mensonges, pressions de vote, orientation des exécutions…  
-      plus que n’importe quel autre joueur ou joueuse de son équipe.</li>
-
-  <li>Le Politicien peut tout à fait gagner « normalement » avec le Bien,  
-      si le Bien remporte la partie sans que sa capacité ne s’applique.</li>
-
-  <li>Si le Politicien est ivre ou empoisonné lorsque la partie se termine,  
-      il ne change pas d’alignement et ne bénéficie pas de sa capacité.</li>
-
-</ul>
-
----
-
-## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
+##  <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 À la fin de la partie, avant d’annoncer officiellement qui a gagné,  
@@ -153,7 +159,7 @@ les bluffs extrêmes et les erreurs monumentales pleinement assumées.
 
 ---
 
-## 🧩 <span style="color:#4ea3ff;">Exemples</span>
+##  <span style="color:#4ea3ff;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Le Politicien essaie depuis le début de la partie d’exécuter le <span style="color:#d45b5b; font-weight:bold;">Démon</span>, sans succès.  
@@ -183,7 +189,7 @@ puisqu’il a directement provoqué cette condition de victoire.</p>
 
 ---
 
-## 💡 <span style="color:#4ea3ff;">Astuces et Conseils</span>
+##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -321,7 +327,7 @@ puisqu’il a directement provoqué cette condition de victoire.</p>
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer Politicien</span>
+##  <span style="color:#4ea3ff;">Bluffer Politicien</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -376,7 +382,7 @@ puisqu’il a directement provoqué cette condition de victoire.</p>
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  💈 <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Étrangers</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Étrangers</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
