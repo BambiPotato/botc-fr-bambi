@@ -68,7 +68,7 @@ Le sage ne sait rien de son vivant, mais apprend l'information la plus important
   - Puis rendormez le Sage.  
 
 -  *Astuces & Conseils pour les Conteurs et Conteuses*
-   - *Si le Sage meurt rapidement, il est conseillé de lui montrer deux joueurs vivants, ce qui laisse à l'équipe des maléfiques une mince chance de gagner.* 
+   - *Si le Sage meurt rapidement, il est conseillé de lui montrer deux joueurs vivants, ce qui laisse à l'équipe des maléfiques une petite chance de gagner.* 
    - *Si le Sage meurt lors de la dernière nuit, vous pouvez lui montrer un joueur vivant et un joueur mort.*
 
 ---
