@@ -74,9 +74,12 @@ Le Rêveur ne peut **pas se choisir lui-même**, ni choisir un [<span style="col
 - Si le joueur est un <span style="color:red;">Sbire</span> ou <span style="color:red;">Démon</span>, montrez-lui ce jeton et celui d’un <span style="color:blue;">Villageois</span> ou <span style="color:blue;">Étranger</span>.  
 - Puis rendormez le Rêveur.  
 
-> Astuce et Conseil 💡 pour les Conteurs et Conteueses
+> **Astuce et Conseil 💡 pour les Conteurs et Conteuses**
+
 > Pour aider ou tromper subtilement :  
-> Si le Rêveur choisit un joueur maléfique, vous pouvez lui montrer le rôle bon que ce joueur prétend incarner, ou un rôle secret (comme le [Charmeur de serpent](charmeurdeserpent.md), le [Sage](sage.md), le [Mutant](mutant.md) ou le [Maladroit](maladroit.md)).
+
+> Si le Rêveur choisit un joueur maléfique, vous pouvez lui montrer le rôle bon que ce joueur prétend incarner, 
+> ou un rôle secret (comme le [Charmeur de serpent](charmeurdeserpent.md), le [Sage](sage.md), le [Mutant](mutant.md) ou le [Maladroit](maladroit.md)).
 
 ---
 
@@ -140,11 +143,11 @@ Le Rêveur ne peut **pas se choisir lui-même**, ni choisir un [<span style="col
  - Si vous dites avoir appris que votre Sbire est soit le [Crieur](crieur.md) soit le [<span style="color:red;">Fang Gu</span>](fanggu.md), cela semble crédible.
 
 - Encouragez les joueurs à révéler leur rôle, puis hochez la tête d’un air sûr :  
-  *« C’est bien ce que je pensais. »*  
-  Cela donne l’impression que vous êtes vraiment le Rêveur.  
+  - *« C’est bien ce que je pensais. »*  
+  - Cela donne l’impression que vous êtes vraiment le Rêveur.  
 
 - Dites que vous avez choisi des joueurs déjà connus pour “confirmer” leurs rôles :  
-  *« Le Crieur est soit Crieur, soit [<span style="color:red;">Vigormortis</span>](vigormortis.md). »*  
+  - *« Le Crieur est soit Crieur, soit [<span style="color:red;">Vigormortis</span>](vigormortis.md). »*  
   — cela renforce la confiance envers vous.  
 
 - Pour rendre un joueur bon suspect, prétendez avoir appris qu’il est un rôle secret ou discret :  
@@ -153,14 +156,15 @@ Le Rêveur ne peut **pas se choisir lui-même**, ni choisir un [<span style="col
 - Si vous mentionnez un [<span style="color:red;">Sbire</span>](../sbires.md), assurez-vous qu’il est effectivement en jeu !  
   Par exemple, si une [<span style="color:red;">Sorcière</span>](sorciere.md) a déjà tué quelqu’un, ne dites pas qu’un joueur est peut-être le [<span style="color:red;">Cerenovus</span>](cerenovus.md).  
 
-- En parlant des bons joueurs, donnez-leur plutôt un rôle de [<span style="color:red;">Démon</span>] que de [<span style="color:red;">Sbire</span>] — cela suscite plus de méfiance.  
-- En parlant des mauvais joueurs, donnez-leur plutôt un rôle de [<span style="color:red;">Sbire</span>] — cela attire moins les exécutions.  
+- En parlant des bons joueurs, donnez-leur plutôt un rôle de [<span style="color:red;">Démon</span>] que de [<span style="color:red;">Sbire</span>] 
+  cela suscite plus de méfiance.  
+- En parlant des joueurs amléfiques, donnez-leur plutôt un rôle de [<span style="color:red;">Sbire</span>], cela attire moins les exécutions.  
 
-- Attendez quelques jours avant de révéler que vous êtes le·la Rêveur·se.  
-  Cela vous laisse le temps d’établir votre histoire.  
+- Attendez quelques jours avant de révéler que vous êtes le Rêveur.  
+  - Cela vous laisse le temps d’établir votre histoire.  
 
 - Et surtout : **ne dites jamais** qu’un joueur est possiblement le [<span style="color:red;">Vortox</span>](vortox.md) !  
-  Si un [<span style="color:red;">Vortox</span>](vortox.md) est en jeu, vous ne pouvez pas avoir reçu cette information — cela vous trahirait immédiatement.  
+  - Si un [<span style="color:red;">Vortox</span>](vortox.md) est en jeu, vous ne pouvez pas avoir reçu cette information — cela vous trahirait immédiatement.  
 
 ---
 
