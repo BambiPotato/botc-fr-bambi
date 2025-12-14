@@ -28,7 +28,7 @@ title: Hérétique
   </a>
 </div>
 
-# ✝️ <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Hérétique</span>
+#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Hérétique</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Quand la grêle a brisé le toit et éclaté les vitraux de la cathédrale,  
@@ -38,19 +38,28 @@ title: Hérétique
 
 ---
 
-## ℹ️ <span style="color:#4ea3ff;">Informations</span>
+##  <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
     <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Heretic"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Heretic
+  </a>
+</li>
   <li><strong>Artiste :</strong> <em>John Grist</em></li>
   <li><strong>Révélé :</strong> 1er avril 2021</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#4ea3ff;">Résumé</span>
+##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Quiconque devrait gagner perd, et quiconque devrait perdre gagne, même si vous êtes mort. »</strong>
@@ -59,6 +68,37 @@ title: Hérétique
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 L’<strong>Hérétique</strong> transforme une victoire en défaite, et une défaite en victoire
 </p>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+  <li>Si la partie se termine par une victoire de l’équipe du Bien,  
+      alors tous les joueurs et joueuses du Bien perdent,  
+      et tous les joueurs et joueuses du Mal gagnent.</li>
+
+  <li>Si la partie se termine par une victoire de l’équipe du Mal,  
+      alors tous les joueurs et joueuses du Mal perdent,  
+      et tous les joueurs et joueuses du Bien gagnent.</li>
+
+  <li>La capacité de l’Hérétique s’applique à <strong>toutes</strong> les conditions de fin de partie :  
+      exécution du <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
+      règle des deux joueurs restants, fin déclenchée par un rôle spécial  
+      (comme le 
+      <a href="../tb_roles/maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a>,  
+      la 
+      <a href="../sv_roles/maladroit.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maladroit</a>,  
+      le 
+      <a href="../tb_roles/saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a>, etc.).</li>
+
+  <li>La capacité de l’Hérétique fonctionne même si l’Hérétique est mort.  
+      En revanche, si l’Hérétique est ivre ou empoisonné au moment où la partie se termine,  
+      sa capacité ne s’applique pas.</li>
+
+  <li>L’Hérétique est un rôle d’<strong>Étranger</strong> :  
+      il ou elle est dans l’équipe du Bien, mais rend la victoire du Bien  
+      beaucoup plus délicate à atteindre.</li>
+
+</ul>
+
 
 ---
 
@@ -112,41 +152,7 @@ L’<strong>Hérétique</strong> transforme une victoire en défaite, et une dé
 
 ---
 
-## ⚙️ <span style="color:#4ea3ff;">Détails</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Si la partie se termine par une victoire de l’équipe du Bien,  
-      alors tous les joueurs et joueuses du Bien perdent,  
-      et tous les joueurs et joueuses du Mal gagnent.</li>
-
-  <li>Si la partie se termine par une victoire de l’équipe du Mal,  
-      alors tous les joueurs et joueuses du Mal perdent,  
-      et tous les joueurs et joueuses du Bien gagnent.</li>
-
-  <li>La capacité de l’Hérétique s’applique à <strong>toutes</strong> les conditions de fin de partie :  
-      exécution du <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
-      règle des deux joueurs restants, fin déclenchée par un rôle spécial  
-      (comme le 
-      <a href="../tb_roles/maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a>,  
-      la 
-      <a href="../sv_roles/maladroit.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maladroit</a>,  
-      le 
-      <a href="../tb_roles/saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a>, etc.).</li>
-
-  <li>La capacité de l’Hérétique fonctionne même si l’Hérétique est mort.  
-      En revanche, si l’Hérétique est ivre ou empoisonné au moment où la partie se termine,  
-      sa capacité ne s’applique pas.</li>
-
-  <li>L’Hérétique est un rôle d’<strong>Étranger</strong> :  
-      il ou elle est dans l’équipe du Bien, mais rend la victoire du Bien  
-      beaucoup plus délicate à atteindre.</li>
-
-</ul>
-
----
-
-## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
+##  <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Vous n’avez pas besoin de réveiller l’Hérétique la nuit ni de lui donner d’information.  
@@ -183,7 +189,7 @@ Sa capacité ne sert qu’au moment où la partie se termine.
 
 ---
 
-## 🧩 <span style="color:#4ea3ff;">Exemples</span>
+##  <span style="color:#4ea3ff;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Au premier jour, l’Hérétique revendique publiquement être l’Hérétique.  
@@ -224,7 +230,7 @@ c’est le Mal qui gagne.</p>
 
 ---
 
-## 💡 <span style="color:#4ea3ff;">Astuces et Conseils</span>
+##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -327,7 +333,7 @@ c’est le Mal qui gagne.</p>
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer Hérétique</span>
+##  <span style="color:#4ea3ff;">Bluffer Hérétique</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -380,7 +386,7 @@ c’est le Mal qui gagne.</p>
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  💈 <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Étrangers</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Étrangers</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
