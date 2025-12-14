@@ -28,7 +28,7 @@ title: Harpie
   </a>
 </div>
 
-# 🪶 <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Harpie</span>
+#  <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Harpie</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Jamais je n’avais vu jour aussi radieux…  
@@ -37,19 +37,28 @@ title: Harpie
 
 ---
 
-## ℹ️ <span style="color:#d45b5b;">Informations</span>
+##  <span style="color:#d45b5b;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
     <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Harpy"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+    Harpy
+  </a>
+</li>
   <li><strong>Artiste :</strong> Chloe McDougall</li>
   <li><strong>Révélé :</strong> 20 juillet 2023</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#d45b5b;">Résumé</span>
+##  <span style="color:#d45b5b;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Chaque nuit, choisissez 2 joueurs : demain, le 1er est fou que le 2e est maléfique,  
@@ -87,7 +96,7 @@ La <strong>Harpie</strong> sème la discorde et la méfiance entre les joueurs e
 
 ---
 
-## 🎭 <span style="color:#d45b5b;">Comment Conter</span>
+##  <span style="color:#d45b5b;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Vous gérez la folie imposée par la <strong>Harpie</strong> et choisissez éventuellement  
@@ -122,7 +131,7 @@ d’exécuter sa menace en tuant un ou deux joueurs.
 
 ---
 
-## 🧩 <span style="color:#d45b5b;">Exemples</span>
+##  <span style="color:#d45b5b;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 La <strong>Harpie</strong> choisit le  
@@ -158,7 +167,7 @@ et donc « forcément maléfique » par implication.</p>
 
 ---
 
-## 💡 <span style="color:#d45b5b;">Astuces & Conseils</span>
+##  <span style="color:#d45b5b;">Astuces & Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -258,7 +267,7 @@ et donc « forcément maléfique » par implication.</p>
 
 ---
 
-## ⚔️ <span style="color:#d45b5b;">Combattre la Harpie</span>
+##  <span style="color:#d45b5b;">Combattre la Harpie</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -339,7 +348,7 @@ et donc « forcément maléfique » par implication.</p>
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  😈 <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Retour aux Sbires</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Sbires</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
