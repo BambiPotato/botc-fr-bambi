@@ -28,7 +28,7 @@ title: Légion
   </a>
 </div>
 
-# 👹 <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Légion</span>
+#  <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Légion</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Nous sommes le vent glacé d’un jour d’hiver.  
@@ -40,19 +40,28 @@ title: Légion
 
 ---
 
-## ℹ️ <span style="color:#d45b5b;">Informations</span>
+##  <span style="color:#d45b5b;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
     <a href="/demon.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Legion"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+    Legion
+  </a>
+</li>
   <li><strong>Artiste :</strong> Steven Medway</li>
   <li><strong>Révélé :</strong> 4 février 2021</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#d45b5b;">Résumé</span>
+##  <span style="color:#d45b5b;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Chaque nuit*, un joueur peut mourir.  
@@ -175,7 +184,7 @@ title: Légion
 
 ---
 
-## 🎭 <span style="color:#d45b5b;">Comment Conter</span>
+##  <span style="color:#d45b5b;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Avec la <strong>Légion</strong>, vous ne gérez pas un seul Démon,  
@@ -257,7 +266,7 @@ qui est vraiment bon… et combien sont membres de la <strong>Légion</strong> ?
 
 ---
 
-## 🧩 <span style="color:#d45b5b;">Exemples</span>
+##  <span style="color:#d45b5b;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Les seuls joueurs bons sont la  
@@ -289,7 +298,7 @@ Le Mal gagne.
 
 ---
 
-## 💡 <span style="color:#d45b5b;">Astuces & Conseils</span>
+##  <span style="color:#d45b5b;">Astuces & Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -388,7 +397,7 @@ Le Mal gagne.
 
 ---
 
-## ⚔️ <span style="color:#d45b5b;">Combattre la Légion</span>
+##  <span style="color:#d45b5b;">Combattre la Légion</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -477,7 +486,7 @@ Le Mal gagne.
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👹 <a href="/demon.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Retour aux Démons</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="/demon.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Démons</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
