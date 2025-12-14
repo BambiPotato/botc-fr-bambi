@@ -28,7 +28,7 @@ title: Chasseur de Primes
   </a>
 </div>
 
-# 🎯 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Chasseur de Primes</span>
+#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Chasseur de Primes</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Seul, j’arpente ces rues saturées par la puanteur de la corruption.  
@@ -39,19 +39,28 @@ title: Chasseur de Primes
 
 ---
 
-## ℹ️ <span style="color:#4ea3ff;">Informations</span>
+##  <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong> 
     <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Bounty_Hunter"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Bounty Hunter
+  </a>
+</li>
   <li><strong>Artiste :</strong> <em>Marianna Carr</em></li>
   <li><strong>Révélé :</strong> 4 juillet 2020</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#4ea3ff;">Résumé</span>
+##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Vous commencez en connaissant 1 joueur maléfique. 
@@ -63,6 +72,16 @@ Le <strong>Chasseur de Primes</strong> traque les <span style="color:#d45b5b; fo
 Il commence la partie en sachant qu’un joueur est maléfique.  
 Chaque fois que ce joueur meurt, il apprend un autre joueur maléfique la nuit suivante.
 </p>
+
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>Le Chasseur de Primes commence en sachant qu’un joueur est maléfique. Il ne connaît que le joueur, pas son rôle.</li>
+  <li>Quand le joueur connu meurt, le Chasseur de Primes apprend un <strong>autre</strong> joueur maléfique la nuit suivante.</li>
+  <li>Le Chasseur de Primes ne peut pas apprendre deux fois le même joueur maléfique.</li>
+  <li>Si le Chasseur de Primes est ivre ou empoisonné au moment où il devrait apprendre un nouveau joueur, la conteuse peut lui montrer un joueur bon. Quand ce joueur récemment montré meurt, le Chasseur de Primes apprend un nouveau joueur cette nuit-là.</li>
+  <li>Si le Chasseur de Primes est présent lors de la mise en place, un <span style="color:#4ea3ff; font-weight:bold;">Villageois</span> devient maléfique. Le Chasseur de Primes peut apprendre ce Villageois maléfique.</li>
+</ul>
+
 
 ---
 
@@ -88,19 +107,7 @@ Chaque fois que ce joueur meurt, il apprend un autre joueur maléfique la nuit s
 
 ---
 
-## ⚙️ <span style="color:#4ea3ff;">Détails</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Le Chasseur de Primes commence en sachant qu’un joueur est maléfique. Il ne connaît que le joueur, pas son rôle.</li>
-  <li>Quand le joueur connu meurt, le Chasseur de Primes apprend un <strong>autre</strong> joueur maléfique la nuit suivante.</li>
-  <li>Le Chasseur de Primes ne peut pas apprendre deux fois le même joueur maléfique.</li>
-  <li>Si le Chasseur de Primes est ivre ou empoisonné au moment où il devrait apprendre un nouveau joueur, la conteuse peut lui montrer un joueur bon. Quand ce joueur récemment montré meurt, le Chasseur de Primes apprend un nouveau joueur cette nuit-là.</li>
-  <li>Si le Chasseur de Primes est présent lors de la mise en place, un <span style="color:#4ea3ff; font-weight:bold;">Villageois</span> devient maléfique. Le Chasseur de Primes peut apprendre ce Villageois maléfique.</li>
-</ul>
-
----
-
-## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
+##  <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Lors de la mise en place, choisissez un <span style="color:#4ea3ff; font-weight:bold;">Villageois</span> et retournez son jeton face cachée pour indiquer qu’il est maléfique.  
@@ -119,7 +126,7 @@ Cette nuit-là, réveillez le Chasseur de Primes, montrez-lui ce nouveau joueur,
 
 ---
 
-## 🧩 <span style="color:#4ea3ff;">Exemples</span>
+##  <span style="color:#4ea3ff;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
@@ -156,7 +163,7 @@ Quand Marie meurt, Lilian apprend <strong>Davis</strong>, qui est la
 
 ---
 
-## 💡 <span style="color:#4ea3ff;">Astuces et Conseils</span>
+##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Vous commencez la partie avec une information extrêmement puissante : vous savez qu’un joueur est maléfique dès le premier jour.  
@@ -199,7 +206,7 @@ Quand Marie meurt, Lilian apprend <strong>Davis</strong>, qui est la
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer Chasseur de Primes</span>
+##  <span style="color:#4ea3ff;">Bluffer Chasseur de Primes</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Bluffer Chasseur de Primes est un jeu de longue haleine.  
@@ -231,7 +238,7 @@ Quand Marie meurt, Lilian apprend <strong>Davis</strong>, qui est la
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
