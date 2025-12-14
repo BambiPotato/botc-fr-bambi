@@ -28,7 +28,7 @@ title: Roi
   </a>
 </div>
 
-# 👑 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Roi</span>
+#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Roi</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Entre les luttes mortelles et inconnues<br>
@@ -39,19 +39,28 @@ title: Roi
 
 ---
 
-## ℹ️ <span style="color:#4ea3ff;">Informations</span>
+##  <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong> 
     <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/King"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+   King
+  </a>
+</li>
   <li><strong>Artiste :</strong> <em>John Grist</em></li>
   <li><strong>Révélé :</strong> 29 avril 2021</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#4ea3ff;">Résumé</span>
+##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Chaque nuit,si le nombre de morts est égal ou supérieur à celui des vivants, vous apprenez 1 rôle vivant. Le Démon sait que vous êtes le Roi. »</strong>
@@ -61,6 +70,26 @@ title: Roi
 Le <strong>Roi</strong> apprend quels rôles sont encore présents parmi les joueurs et joueuses vivants.  
 Mais le <span style="color:#d45b5b; font-weight:bold;">Démon</span> connaît dès le départ son identité, ce qui rend cette couronne aussi dangereuse que précieuse.
 </p>
+
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>Le Roi ne commence pas la partie avec une information.  
+      Son pouvoir s’active seulement une fois que le nombre de joueurs morts est supérieur ou égal au nombre de joueurs vivants.</li>
+
+  <li>Au tout premier nuit, le <span style="color:#d45b5b; font-weight:bold;">Démon</span> apprend qui est le Roi.  
+      Si un Roi est créé en cours de partie (par un autre rôle), le Démon l’apprend cette nuit-là.</li>
+
+  <li>Une fois la condition remplie (morts ≥ vivants), le Roi apprend chaque nuit un rôle encore en vie.  
+      Il peut s’agir d’un rôle bon ou maléfique.</li>
+
+  <li>Le Roi peut apprendre plusieurs fois le même rôle vivant si la conteuse l’estime pertinent.</li>
+
+  <li>Il est possible qu’aucun 
+      <a href="../roles_experimentaux/choirboy.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Enfant de chœur</a> 
+      ne soit en jeu.  
+      Mais si un Enfant de chœur est en vie et que le Démon tue le Roi,  
+      l’Enfant de chœur apprend quel joueur est le Démon.</li>
+</ul>
 
 ---
 
@@ -86,32 +115,10 @@ Mais le <span style="color:#d45b5b; font-weight:bold;">Démon</span> connaît d�
 
 </ul>
 
----
-
-## ⚙️ <span style="color:#4ea3ff;">Détails</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Le Roi ne commence pas la partie avec une information.  
-      Son pouvoir s’active seulement une fois que le nombre de joueurs morts est supérieur ou égal au nombre de joueurs vivants.</li>
-
-  <li>Au tout premier nuit, le <span style="color:#d45b5b; font-weight:bold;">Démon</span> apprend qui est le Roi.  
-      Si un Roi est créé en cours de partie (par un autre rôle), le Démon l’apprend cette nuit-là.</li>
-
-  <li>Une fois la condition remplie (morts ≥ vivants), le Roi apprend chaque nuit un rôle encore en vie.  
-      Il peut s’agir d’un rôle bon ou maléfique.</li>
-
-  <li>Le Roi peut apprendre plusieurs fois le même rôle vivant si la conteuse l’estime pertinent.</li>
-
-  <li>Il est possible qu’aucun 
-      <a href="../roles_experimentaux/choirboy.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Enfant de chœur</a> 
-      ne soit en jeu.  
-      Mais si un Enfant de chœur est en vie et que le Démon tue le Roi,  
-      l’Enfant de chœur apprend quel joueur est le Démon.</li>
-</ul>
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
+##  <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Lors de la première nuit, réveillez le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.  
@@ -141,7 +148,7 @@ c’est tout à fait acceptable… et souvent mémorable.
 
 ---
 
-## 🧩 <span style="color:#4ea3ff;">Exemples</span>
+##  <span style="color:#4ea3ff;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong>Anne</strong> est le Roi.  
@@ -169,7 +176,7 @@ il aurait appris quel joueur est le <span style="color:#d45b5b; font-weight:bold
 
 ---
 
-## 💡 <span style="color:#4ea3ff;">Astuces et Conseils</span>
+##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -207,7 +214,7 @@ il aurait appris quel joueur est le <span style="color:#d45b5b; font-weight:bold
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer Roi</span>
+##  <span style="color:#4ea3ff;">Bluffer Roi</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -244,7 +251,7 @@ il aurait appris quel joueur est le <span style="color:#d45b5b; font-weight:bold
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
