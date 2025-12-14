@@ -40,7 +40,7 @@ title: Sects & Violets
 
 ##  <span style="color:#e0c99d;">Synopsis</span>
 
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Le printemps vibrant laisse place à un été doux et accueillant.  
 Des fleurs de toutes sortes s’épanouissent à perte de vue, soigneusement entretenues dans les jardins publics et les jardinières suspendues le long de la promenade.  
 Les oiseaux chantent, les artistes peignent, et les philosophes méditent sur les grands mystères de la vie dans une taverne animée, tandis qu’un cirque dresse son chapiteau coloré à la lisière de la ville.
@@ -60,7 +60,7 @@ Le moment est venu pour... <span style="color:#d67bff; font-weight:bold;">Sects 
 ##  <span style="color:#e0c99d;">Gameplay</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>Sects & Violets</strong> est l’édition la plus folle et imprévisible des trois.  
+<span style="color:#d67bff; font-weight:bold;">Sects & Violets</span> est l’édition la plus folle et imprévisible des trois.  
 Les <span style="color:blue;">Villageois</span> reçoivent chaque nuit des informations puissantes, mais l’équipe du <span style="color:#d45b5b;;">Mal</span> dispose d’outils terriblement variés pour semer la confusion.
 </p>
 
@@ -198,7 +198,7 @@ C’est aussi la première apparition de la <strong>Folie</strong>, qui peut com
 
 ---
 
-##  Télécharger &  Imprimer
+##  <span style="color:#e0c99d;">Télécharger &  Imprimer</span>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Ces ressources sont pratiques pour <strong>imprimer</strong> et <strong>jouer en personne</strong>.
