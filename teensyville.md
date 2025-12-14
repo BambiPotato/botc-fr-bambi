@@ -28,8 +28,9 @@ title: TeensyVille
   À Teensyville, les secrets murmurent plus fort que les cris. »
 </p>
 
-<p style="color:#e0c99d; font-size:18px; line-height:1.8;">
-Bienvenue à <strong>Teensyville</strong> — un petit village situé à quelques jours de marche de <strong>Ravenswood Bluff</strong>.  
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+Bienvenue à <strong>Teensyville</strong> 
+un petit village situé à quelques jours de marche de <strong>Ravenswood Bluff</strong>.  
 C’est l’endroit idéal pour jouer à <em>Blood on the Clocktower</em> avec un petit groupe de <strong>5 ou 6 joueurs ou joueuses</strong>.  
 Grâce à Teensyville, vous pouvez créer une infinité de variations du jeu classique !
 </p>
@@ -39,18 +40,18 @@ Grâce à Teensyville, vous pouvez créer une infinité de variations du jeu cla
 ##  <span style="font-weight:bold;">Sommaire</span>
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li><a href="#principe" style="color:#e0c99d; font-weight:bold; text-decoration:none;">1️⃣ Principe</a></li>
-  <li><a href="#composition" style="color:#e0c99d; font-weight:bold; text-decoration:none;">2️⃣ Composition d’un script Teensyville</a></li>
-  <li><a href="#avantages" style="color:#e0c99d; font-weight:bold; text-decoration:none;">3️⃣ Avantages du format</a></li>
-  <li><a href="#creation" style="color:#e0c99d; font-weight:bold; text-decoration:none;">4️⃣ Créer vos propres scripts</a></li>
-  <li><a href="#scripts-prets" style="color:#e0c99d; font-weight:bold; text-decoration:none;">5️⃣ Scripts prêts à jouer</a></li>
+  <li><a href="#principe" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">1️⃣ Principe</a></li>
+  <li><a href="#composition" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">2️⃣ Composition d’un script Teensyville</a></li>
+  <li><a href="#avantages" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">3️⃣ Avantages du format</a></li>
+  <li><a href="#creation" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">4️⃣ Créer vos propres scripts</a></li>
+  <li><a href="#scripts-prets" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">5️⃣ Scripts prêts à jouer</a></li>
 </ul>
 
 <hr class="section">
 
 ## <span id="principe" style="font-weight:bold;">Principe</span>
 
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Les parties de <strong>Teensyville</strong> permettent de jouer à <strong>Blood on the Clocktower</strong> à effectif réduit,  
 tout en gardant le même esprit stratégique et social du jeu original.  
 Chaque script <em>Teensyville</em> propose une sélection de rôles adaptée aux petits groupes.  
@@ -60,7 +61,7 @@ Chaque script <em>Teensyville</em> propose une sélection de rôles adaptée aux
 
 ## <span id="composition" style="font-weight:bold;">Composition d’un script Teensyville</span>
 
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Chaque script <strong>Teensyville</strong> contient :
 </p>
 
@@ -83,7 +84,7 @@ ou <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:n
 
 ## <span id="avantages" style="font-weight:bold;">Avantages du format</span>
 
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
  <strong>Pour les nouveaux joueurs</strong> → Moins de rôles à apprendre, donc une prise en main plus simple.  
 <br>
  <strong>Pour les vétérans</strong> → Plus de liberté stratégique, car tous les rôles des éditions peuvent être combinés.  
@@ -96,7 +97,7 @@ C’est une excellente façon de découvrir des synergies inédites et d’affin
 
 ## <span id="creation" style="font-weight:bold;">Créer vos propres scripts</span>
 
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Vous pouvez concevoir vos propres scripts <strong>Teensyville</strong> à l’aide de l’outil officiel :
 </p>
 
@@ -104,7 +105,7 @@ Vous pouvez concevoir vos propres scripts <strong>Teensyville</strong> à l’ai
  <a href="https://script.bloodontheclocktower.com" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Outil officiel de création de scripts</a>
 </p>
 
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Laissez libre cours à votre imagination et découvrez quelles combinaisons de rôles fonctionnent bien ensemble.  
 C’est une étape idéale pour faire progresser vos compétences de Conteur et varier vos soirées !
 </p>
@@ -113,7 +114,7 @@ C’est une étape idéale pour faire progresser vos compétences de Conteur et 
 
 ## <span id="scripts-prets" style="font-weight:bold;">Scripts prêts à jouer</span>
 
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Si vous préférez commencer avec des scripts déjà prêts, vous pouvez télécharger des scripts <strong>Teensyville officiels</strong> ici :
 </p>
 
@@ -121,7 +122,7 @@ Si vous préférez commencer avec des scripts déjà prêts, vous pouvez téléc
  <a href="https://bloodontheclocktower.com/teensyville" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Télécharger les scripts Teensyville</a>
 </p>
 
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Chaque fichier contient une <strong>feuille de nuit</strong> spécifique au script choisi,  
 garantissant une expérience fluide et équilibrée pour vos parties.
 </p>
