@@ -67,7 +67,7 @@ Le sage ne sait rien de son vivant, mais apprend l'information la plus important
   - Pointez **deux joueurs**, dont **l’un est le Démon**.  
   - Puis rendormez le Sage.  
 
--  *Astuces & Conseils pour les Conteurs et Conteuses*
+-  **Astuces & Conseils pour les Conteurs et Conteuses**
    - *Si le Sage meurt rapidement, il est conseillé de lui montrer deux joueurs vivants, ce qui laisse à l'équipe des maléfiques une petite chance de gagner.* 
    - *Si le Sage meurt lors de la dernière nuit, vous pouvez lui montrer un joueur vivant et un joueur mort.*
 
@@ -83,7 +83,7 @@ Le sage ne sait rien de son vivant, mais apprend l'information la plus important
 
 - La [<span style="color:red">Pit-Hag</span>](pithag.md) crée un nouveau <span style="color:red">Démon</span>,  
   ce qui cause des morts “arbitraires”.  
-  Le Sage meurt, mais **pas à cause du Démon** — il **n’apprend donc rien**.  
+  Le Sage meurt, mais **pas à cause du Démon**, il **n’apprend donc rien**.  
 
 ---
 
