@@ -33,7 +33,7 @@ On dit que la cupidité pend plus d’hommes qu’une corde. Mais pas moi, Effen
 
 ---
 
-## 🎭 Apparaît dans  
+##  Apparaît dans  
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../sv.html" style="text-decoration:none;">
@@ -75,7 +75,8 @@ Chaque nuit, il choisit un joueur :
   - L’ancien Démon devient **bon** et **empoisonné**.  
   - Le Charmeur devient **maléfique** et **le nouveau Démon**.  
 
-> Astuces et Conseils pour les Conteurs et Conteuses
+> **Astuces et Conseils pour les Conteurs et Conteuses**
+
 > Dans l'étrange situation où le Charmeur de serpent serait maléfique, ou le démon bon, inversez leurs alignements selon le cas.
 
 ---
