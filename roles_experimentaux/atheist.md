@@ -28,7 +28,7 @@ title: Athée
   </a>
 </div>
 
-# 🌍 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Athée</span>
+#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Athée</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Mettons de côté les conjectures inutiles et la paranoïa ridicule. Il y a une explication rationnelle à tout.  
@@ -37,19 +37,28 @@ title: Athée
 
 ---
 
-## ℹ️ <span style="color:#4ea3ff;">Informations</span>
+##  <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong> 
     <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Atheist"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Atheist
+  </a>
+</li>
   <li><strong>Artiste :</strong> <em>Marianna Carr</em></li>
   <li><strong>Révélé :</strong> 4 décembre 2021</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#4ea3ff;">Résumé</span>
+##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong>« La conteuse peut enfreindre les règles du jeu, et si elle est exécutée, le Bien gagne, même si vous êtes mort. [Aucun rôle maléfique] »</strong>
@@ -60,22 +69,6 @@ L’<strong>Athée</strong> sait que tout le monde est bon et qu’il n’existe
 La seule façon pour le village de gagner est d’exécuter la conteuse.
 </p>
 
----
-
-## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>
-    🧞 <a href="../roles_experimentaux/riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> :  
-    Riot, si la conteuse est nominée, les joueurs votent.  
-    Si elle est sur le point d’être exécutée, la partie se termine immédiatement.  
-    Sinon, une nouvelle nomination a lieu.
-  </li>
-</ul>
-
----
-
-## ⚙️ <span style="color:#4ea3ff;">Détails</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Avec l’Athée en jeu, il n’y a <strong>aucun joueur maléfique</strong> : aucun <span style="color:#d45b5b; font-weight:bold;">Sbire</span> et aucun <span style="color:#d45b5b; font-weight:bold;">Démon</span>.</li>
@@ -95,9 +88,24 @@ La seule façon pour le village de gagner est d’exécuter la conteuse.
   </li>
 </ul>
 
+
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
+## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    🧞 <a href="../roles_experimentaux/riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> :  
+    Riot, si la conteuse est nominée, les joueurs votent.  
+    Si elle est sur le point d’être exécutée, la partie se termine immédiatement.  
+    Sinon, une nouvelle nomination a lieu.
+  </li>
+</ul>
+
+---
+
+
+##  <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Lors de la mise en place, avant de donner le sac aux joueurs, retirez tous les jetons de rôles maléfiques.  
@@ -124,7 +132,7 @@ Pour que le jeu reste agréable, les joueurs et les joueuses doivent savoir comm
 
 ---
 
-## 🧩 <span style="color:#4ea3ff;">Exemples</span>
+##  <span style="color:#4ea3ff;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
@@ -154,7 +162,7 @@ Le Bien gagne, car ils découvrent qu’il s’agissait d’une partie avec l’
 
 ---
 
-## 💡 <span style="color:#4ea3ff;">Astuces et Conseils</span>
+##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Si vous êtes l’Athée, vous savez qui est le Démon : personne.  
@@ -193,7 +201,7 @@ Le Bien gagne, car ils découvrent qu’il s’agissait d’une partie avec l’
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer l'Athée</span>
+##  <span style="color:#4ea3ff;">Bluffer l'Athée</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Si vous êtes un <span style="color:#d45b5b; font-weight:bold;">Sbire</span>, vous pouvez sans crainte bluffer Athée :  
@@ -224,7 +232,7 @@ Le Bien gagne, car ils découvrent qu’il s’agissait d’une partie avec l’
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
