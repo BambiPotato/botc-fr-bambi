@@ -48,7 +48,7 @@ title: Sangsue
   <a href="https://wiki.bloodontheclocktower.com/Lleech"
      target="_blank"
      rel="noopener noreferrer"
-     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+     style="color:#d45b5b; font-weight:bold; text-decoration:none;">
     Lleech
   </a>
 </li>
