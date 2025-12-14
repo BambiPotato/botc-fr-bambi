@@ -28,7 +28,7 @@ title: Chasseur
   </a>
 </div>
 
-# 🏹 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Chasseur</span>
+#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Chasseur</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Ma cabane est chaude et solide. Ma hache près de la porte, mes bottes qui sèchent au feu,  
@@ -39,19 +39,28 @@ title: Chasseur
 
 ---
 
-## ℹ️ <span style="color:#4ea3ff;">Informations</span>
+##  <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong> 
     <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Huntsman"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Huntsman
+  </a>
+</li>
   <li><strong>Artiste :</strong> <em>John Grist</em></li>
   <li><strong>Révélé :</strong> 15 juillet 2021</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#4ea3ff;">Résumé</span>
+##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Une fois par partie, la nuit, choisissez un joueur vivant : 
@@ -64,25 +73,6 @@ Le <strong>Chasseur</strong> tente de sauver la
 avant que les <span style="color:#d45b5b; font-weight:bold;">Sbires</span> ne la démasquent.  
 S’il la trouve à temps, elle se transforme en un ou une <span style="color:#4ea3ff; font-weight:bold;">Villageoise</span> dont le rôle n’était pas dans la partie.
 </p>
-
----
-
-## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>
-    🧞 
-    <img src="../images/Icon_marionette.png" alt="Marionnette" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/marionnette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> :  
-    Si la Marionnette pense être le Chasseur, une 
-    <a href="../roles_experimentaux/damsel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Demoiselle</a>  
-    a été ajoutée lors de la mise en place.
-  </li>
-</ul>
-
----
-
-## ⚙️ <span style="color:#4ea3ff;">Détails</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>La <a href="../roles_experimentaux/damsel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Demoiselle</a> peut être en jeu sans le Chasseur.</li>
@@ -104,7 +94,23 @@ S’il la trouve à temps, elle se transforme en un ou une <span style="color:#4
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
+## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    🧞 
+    <img src="../images/Icon_marionette.png" alt="Marionnette" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/marionnette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> :  
+    Si la Marionnette pense être le Chasseur, une 
+    <a href="../roles_experimentaux/damsel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Demoiselle</a>  
+    a été ajoutée lors de la mise en place.
+  </li>
+</ul>
+
+---
+
+
+##  <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Pendant la mise en place, avant de mettre les jetons de rôle dans le sac,  
@@ -138,7 +144,7 @@ Si le joueur pointé est la Demoiselle :
 
 ---
 
-## 🧩 <span style="color:#4ea3ff;">Exemples</span>
+##  <span style="color:#4ea3ff;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
@@ -160,7 +166,7 @@ Rien ne se passe : le Chasseur perd sa capacité et ne se réveille plus la nuit
 
 ---
 
-## 💡 <span style="color:#4ea3ff;">Astuces et Conseils</span>
+##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -214,7 +220,7 @@ Rien ne se passe : le Chasseur perd sa capacité et ne se réveille plus la nuit
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer Chasseur</span>
+##  <span style="color:#4ea3ff;">Bluffer Chasseur</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -252,7 +258,7 @@ Rien ne se passe : le Chasseur perd sa capacité et ne se réveille plus la nuit
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
