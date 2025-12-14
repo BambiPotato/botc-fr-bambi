@@ -36,19 +36,28 @@ title: Banshee
 
 ---
 
-## ℹ️ <span style="color:#4ea3ff;">Informations</span>
+##  <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong> 
     <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Banshee"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Banshee
+  </a>
+</li>
   <li><strong>Artiste :</strong> <em>Chloe McDougall</em></li>
   <li><strong>Révélé :</strong> 25 avril 2024</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#4ea3ff;">Résumé</span>
+##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong>« Si le Démon vous tue, tous les joueurs apprennent cela. À partir de ce moment, vous pouvez nominer deux fois par jour et voter deux fois par nomination. »</strong>
@@ -57,6 +66,20 @@ title: Banshee
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 La <strong>Banshee</strong> devient plus puissante une fois morte, en pouvant nominer et voter deux fois plus que les autres.
 </p>
+
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>Quand elle est vivante, la Banshee nomine et vote normalement, comme n’importe quel autre joueur vivant.</li>
+  <li>Si la Banshee meurt tuée par le <span style="color:#d45b5b; font-weight:bold;">Démon</span>, tous les joueurs apprennent que la Banshee est morte.</li>
+  <li>À partir de ce moment, même morte, la Banshee peut nominer deux fois par jour, alors qu’un joueur mort ne peut normalement plus nominer.</li>
+  <li>En tant que morte, la Banshee peut voter à toutes les nominations qu’elle souhaite, sans avoir besoin d’un jeton de vote.  
+      Elle peut voter deux fois pour la même nomination.</li>
+  <li>La Banshee ne gagne ces pouvoirs que si elle a été tuée par le Démon.  
+      Si elle meurt par exécution ou à cause d’un rôle non démoniaque, sa capacité ne se déclenche pas.</li>
+  <li>Pour voter deux fois, la joueuse ou le joueur Banshee lève les deux mains lorsque les votes sont comptés.  
+      Si la personne ne peut pas le faire physiquement, la conteuse ou le conteur peut compter son vote normal comme valant deux.</li>
+  <li>Si tous les joueurs bons sont morts, la partie continue. Le Bien peut encore gagner grâce aux nominations de la Banshee.</li>
+</ul>
 
 ---
 
@@ -91,24 +114,8 @@ La <strong>Banshee</strong> devient plus puissante une fois morte, en pouvant no
 
 ---
 
-## ⚙️ <span style="color:#4ea3ff;">Détails</span>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Quand elle est vivante, la Banshee nomine et vote normalement, comme n’importe quel autre joueur vivant.</li>
-  <li>Si la Banshee meurt tuée par le <span style="color:#d45b5b; font-weight:bold;">Démon</span>, tous les joueurs apprennent que la Banshee est morte.</li>
-  <li>À partir de ce moment, même morte, la Banshee peut nominer deux fois par jour, alors qu’un joueur mort ne peut normalement plus nominer.</li>
-  <li>En tant que morte, la Banshee peut voter à toutes les nominations qu’elle souhaite, sans avoir besoin d’un jeton de vote.  
-      Elle peut voter deux fois pour la même nomination.</li>
-  <li>La Banshee ne gagne ces pouvoirs que si elle a été tuée par le Démon.  
-      Si elle meurt par exécution ou à cause d’un rôle non démoniaque, sa capacité ne se déclenche pas.</li>
-  <li>Pour voter deux fois, la joueuse ou le joueur Banshee lève les deux mains lorsque les votes sont comptés.  
-      Si la personne ne peut pas le faire physiquement, la conteuse ou le conteur peut compter son vote normal comme valant deux.</li>
-  <li>Si tous les joueurs bons sont morts, la partie continue. Le Bien peut encore gagner grâce aux nominations de la Banshee.</li>
-</ul>
-
----
-
-## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
+##  <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Si la Banshee est tuée par le <span style="color:#d45b5b; font-weight:bold;">Démon</span> alors qu’elle a sa capacité active :
@@ -133,7 +140,7 @@ Si la Banshee est tuée par le Démon alors qu’elle n’a pas sa capacité (pa
 
 ---
 
-## 🧩 <span style="color:#4ea3ff;">Exemples</span>
+##  <span style="color:#4ea3ff;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
@@ -168,7 +175,7 @@ La Banshee ne gagne pas ses pouvoirs supplémentaires, et rien n’est annoncé 
 
 ---
 
-## 💡 <span style="color:#4ea3ff;">Astuces et Conseils</span>
+##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -200,7 +207,7 @@ La Banshee ne gagne pas ses pouvoirs supplémentaires, et rien n’est annoncé 
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer Banshee</span>
+##  <span style="color:#4ea3ff;">Bluffer Banshee</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -224,7 +231,7 @@ La Banshee ne gagne pas ses pouvoirs supplémentaires, et rien n’est annoncé 
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
