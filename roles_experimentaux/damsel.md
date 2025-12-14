@@ -36,19 +36,28 @@ title: Demoiselle
 
 ---
 
-## ℹ️ <span style="color:#4ea3ff;">Informations</span>
+##  <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
     <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Damsel"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Damsel
+  </a>
+</li>
   <li><strong>Artiste :</strong> <em>John Grist</em></li>
   <li><strong>Révélé :</strong> 15 juillet 2021</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#4ea3ff;">Résumé</span>
+##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Tous les <span style="color:#d45b5b; font-weight:bold;">Sbires</span> savent qu’une Demoiselle est en jeu.  
@@ -58,42 +67,6 @@ title: Demoiselle
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 La <strong>Demoiselle</strong> doit à tout prix éviter d’être identifiée par les <span style="color:#d45b5b; font-weight:bold;">Sbires</span>.
 </p>
-
----
-
-## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>
-    🧞
-    <img src="../images/Icon_pithag.png" alt="Pit-Hag" width="24"
-         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a> :  
-    Si la Pit-Hag crée une Demoiselle, la conteuse choisit quel joueur devient la Demoiselle.
-  </li>
-
-  <li>
-    🧞
-    <img src="../images/Icon_spy.png" alt="Espion" width="24"
-         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espion</a> :  
-    Si l’Espion est (ou a été) en jeu, la Demoiselle est empoisonnée.
-  </li>
-
-  <li>
-    🧞
-    <img src="../images/Icon_widow.png" alt="Veuve" width="24"
-         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a> :  
-    Si la Veuve est (ou a été) en jeu, la Demoiselle est empoisonnée.
-  </li>
-
-</ul>
-
----
-
-## ⚙️ <span style="color:#4ea3ff;">Détails</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -133,9 +106,42 @@ La <strong>Demoiselle</strong> doit à tout prix éviter d’être identifiée p
 
 </ul>
 
+
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
+## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+  <li>
+    🧞
+    <img src="../images/Icon_pithag.png" alt="Pit-Hag" width="24"
+         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a> :  
+    Si la Pit-Hag crée une Demoiselle, la conteuse choisit quel joueur devient la Demoiselle.
+  </li>
+
+  <li>
+    🧞
+    <img src="../images/Icon_spy.png" alt="Espion" width="24"
+         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espion</a> :  
+    Si l’Espion est (ou a été) en jeu, la Demoiselle est empoisonnée.
+  </li>
+
+  <li>
+    🧞
+    <img src="../images/Icon_widow.png" alt="Veuve" width="24"
+         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a> :  
+    Si la Veuve est (ou a été) en jeu, la Demoiselle est empoisonnée.
+  </li>
+
+</ul>
+
+---
+
+##  <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Lors de la première nuit, réveillez chaque <span style="color:#d45b5b; font-weight:bold;">Sbire</span> individuellement.  
@@ -166,7 +172,7 @@ Elle n’est plus la Demoiselle à partir de cet instant.
 
 ---
 
-## 🧩 <span style="color:#4ea3ff;">Exemples</span>
+##  <span style="color:#4ea3ff;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
@@ -195,7 +201,7 @@ la partie continue comme si de rien n’était.
 
 ---
 
-## 💡 <span style="color:#4ea3ff;">Astuces et Conseils</span>
+##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -309,7 +315,7 @@ la partie continue comme si de rien n’était.
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer Demoiselle</span>
+##  <span style="color:#4ea3ff;">Bluffer Demoiselle</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -400,7 +406,7 @@ la partie continue comme si de rien n’était.
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a><br>
-  💈 <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Étrangers</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a><br>
+   <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Étrangers</a>
 </p>
