@@ -28,7 +28,7 @@ title: Goblin
   </a>
 </div>
 
-# 👹 <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Goblin</span>
+#  <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Goblin</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Tu n’as vraiment, vraiment pas envie d’insulter les gobelins.  
@@ -37,19 +37,28 @@ title: Goblin
 
 ---
 
-## ℹ️ <span style="color:#d45b5b;">Informations</span>
+##  <span style="color:#d45b5b;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
     <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Goblin"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+    Goblin
+  </a>
+</li>
   <li><strong>Artiste :</strong> Anica Kelsen</li>
   <li><strong>Révélé :</strong> 7 avril 2021</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#d45b5b;">Résumé</span>
+##  <span style="color:#d45b5b;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Si vous déclarez publiquement être le Goblin lorsque vous êtes nommé,  
@@ -109,7 +118,7 @@ Le <strong>Goblin</strong> se venge si le village l’exécute en toute connaiss
 
 ---
 
-## 🎭 <span style="color:#d45b5b;">Comment Conter</span>
+##  <span style="color:#d45b5b;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Le <strong>Goblin</strong> ne fait qu’une seule chose : transformer une exécution « consentie » en victoire du Mal.
@@ -142,7 +151,7 @@ Le <strong>Goblin</strong> ne fait qu’une seule chose : transformer une exécu
 
 ---
 
-## 🧩 <span style="color:#d45b5b;">Exemples</span>
+##  <span style="color:#d45b5b;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Abdallah est le <strong>Goblin</strong>. Alex nomme Abdel,  
@@ -165,7 +174,7 @@ Sa capacité ne s’applique pas : la partie continue.</p>
 
 ---
 
-## 💡 <span style="color:#d45b5b;">Astuces & Conseils</span>
+##  <span style="color:#d45b5b;">Astuces & Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -253,7 +262,7 @@ Sa capacité ne s’applique pas : la partie continue.</p>
 
 ---
 
-## ⚔️ <span style="color:#d45b5b;">Combattre le Goblin</span>
+##  <span style="color:#d45b5b;">Combattre le Goblin</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -358,7 +367,7 @@ Sa capacité ne s’applique pas : la partie continue.</p>
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  😈 <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Retour aux Sbires</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Sbires</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
