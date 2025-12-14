@@ -28,7 +28,7 @@ title: Pêcheur
   </a>
 </div>
 
-# 🎣 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Pêcheur</span>
+#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Pêcheur</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « C’était mon endroit préféré sur la rivière… Voyez comme la lumière dessine un arc-en-ciel du monastère jusqu’au marché.  
@@ -37,19 +37,28 @@ title: Pêcheur
 
 ---
 
-## ℹ️ <span style="color:#4ea3ff;">Informations</span>
+##  <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
     <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Fisherman"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Fisherman
+  </a>
+</li>
   <li><strong>Artiste :</strong> <em>Anica Kelsen</em></li>
   <li><strong>Révélé :</strong> 7 avril 2020</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#4ea3ff;">Résumé</span>
+##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Une fois par partie, pendant la journée, rendez visite au conteur pour obtenir un conseil pour aider votre équipe à gagner. »</strong>
@@ -60,9 +69,6 @@ Le <strong>Pêcheur</strong> sait quelque chose que personne d'autre ne peut sav
 ce qu'il faut faire.
 </p>
 
----
-
-## ⚙️ <span style="color:#4ea3ff;">Détails</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Le Pêcheur choisit lui-même <strong>quand</strong> utiliser sa capacité. Cela ne peut arriver qu’<strong>une seule fois par partie</strong>.</li>
@@ -77,7 +83,7 @@ ce qu'il faut faire.
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
+##  <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Une fois par partie, le Pêcheur vous indiquera qu’il souhaite utiliser sa capacité, habituellement pendant la journée.  
@@ -106,7 +112,7 @@ tout en restant cohérent avec la situation et le ton de la partie.
 
 ---
 
-## 🧩 <span style="color:#4ea3ff;">Exemples</span>
+##  <span style="color:#4ea3ff;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Le Pêcheur rend visite à la conteuse et reçoit le conseil&nbsp;:  
@@ -135,7 +141,7 @@ La conteuse lui donne donc volontairement un mauvais conseil.
 
 ---
 
-## 💡 <span style="color:#4ea3ff;">Astuces et Conseils</span>
+##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -207,7 +213,7 @@ La conteuse lui donne donc volontairement un mauvais conseil.
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer Pêcheur</span>
+##  <span style="color:#4ea3ff;">Bluffer Pêcheur</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -268,7 +274,7 @@ La conteuse lui donne donc volontairement un mauvais conseil.
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
