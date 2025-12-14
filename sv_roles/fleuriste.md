@@ -75,9 +75,13 @@ La Fleuriste sait si un [<span style="color:red;">Démon</span>](../demons.md) a
   - Si le rappel indique “DÉMON A VOTÉ” → hochez la tête (oui).  
   - Puis rendormez le Fleuriste.  
 
-> *Astuces & Conseils pour les Conteurs et les Conteueses
->  Si vous avez oublié si le Démon a voté ou non, réveillez-le la nuit 
->  et demandez-lui en lui montrant le jeton d'information « Avez-vous voté aujourd'hui ? ».
+> **Astuces & Conseils pour les Conteurs et les Conteueses**
+
+>  Si vous avez oublié si le Démon a voté ou non, réveillez-le la nuit,
+
+>  et demandez-lui en lui montrant le jeton d'information :
+>  « *Avez-vous voté aujourd'hui ?* ».
+
 >  Il devra répondre honnêtement, puis se rendormir.
 
 ---
