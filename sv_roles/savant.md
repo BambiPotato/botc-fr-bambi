@@ -6,7 +6,7 @@ title: Savant
 <!-- 🔷 Logo en haut à gauche -->
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="../images/logogold.png" alt="Accueil BotC FR" width="200">
+    <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
@@ -78,10 +78,14 @@ Le Savant reçoit des informations folles et extraordinaires, différentes chaqu
 - Si vous ne trouvez pas immédiatement deux informations, prenez votre temps ou demandez-lui de revenir dans quelques minutes.
 
 
-> *Astuces & Conseils pour les Conteurs et Conteuses
-> L’information doit être utile mais jamais déterminante  
-> (ne dites pas directement qui est le [<span style="color:red;">Démon</span>](../demons.md) !)
+> **Astuces & Conseils pour les Conteurs et Conteuses**
+
+> L’information doit être utile mais jamais déterminante, par exemple :
+
+> ne dites pas directement qui est le [<span style="color:red;">Démon</span>](../demons.md) !
+
 > Si vous manquez d’idées, inspirez-vous d’autres rôles Villageois pour formuler des infos cohérentes mais non décisives.
+
 
 ---
 
