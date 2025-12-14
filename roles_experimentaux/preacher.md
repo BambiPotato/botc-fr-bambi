@@ -28,7 +28,7 @@ title: Prédicateur
   </a>
 </div>
 
-# ✝️ <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Prédicateur</span>
+#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Prédicateur</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Il vaut mieux être riche et en bonne santé que pauvre et malade. »
@@ -36,19 +36,28 @@ title: Prédicateur
 
 ---
 
-## ℹ️ <span style="color:#4ea3ff;">Informations</span>
+##  <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong> 
     <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Preacher"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Preacher
+  </a>
+</li>
   <li><strong>Artiste :</strong> <em>John Grist</em></li>
   <li><strong>Révélé :</strong> 4 juillet 2020</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#4ea3ff;">Résumé</span>
+##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Chaque nuit, vous choisissez un joueur : un Sbire, s'il est choisi, l’apprend. Tous les Sbires choisis n’ont plus de capacité. »</strong>
@@ -58,7 +67,29 @@ title: Prédicateur
 Le <strong>Prédicateur</strong> supprime les capacités des <span style="color:#d45b5b; font-weight:bold;">Sbires</span>.
 </p>
 
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+  <li>Chaque nuit, le Prédicateur choisit un joueur ou une joueuse.  
+      Si cette personne est un <span style="color:#d45b5b; font-weight:bold;">Sbire</span>,  
+      elle se réveille pour apprendre qu’elle a été prêchée et perd sa capacité  
+      tant que le Prédicateur est vivant, sobre et en bonne santé.</li>
+
+  <li>Si la personne choisie n’est pas un Sbire, rien ne se passe.</li>
+
+  <li>Le Prédicateur peut choisir des joueurs et des joueuses morts.</li>
+
+  <li>Si le Prédicateur est ivre ou empoisonné au moment où il choisit,  
+      la cible n’est pas affectée par sa capacité cette nuit-là.</li>
+
+  <li>Si le Prédicateur devient ivre ou empoisonné plus tard,  
+      les Sbires déjà « prêchés » retrouvent leur capacité  
+      jusqu’à ce que le Prédicateur redevienne sobre et en bonne santé.</li>
+
+</ul>
+
 ---
+
 
 ## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
 
@@ -91,31 +122,7 @@ Le <strong>Prédicateur</strong> supprime les capacités des <span style="color:
 
 ---
 
-## ⚙️ <span style="color:#4ea3ff;">Détails</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Chaque nuit, le Prédicateur choisit un joueur ou une joueuse.  
-      Si cette personne est un <span style="color:#d45b5b; font-weight:bold;">Sbire</span>,  
-      elle se réveille pour apprendre qu’elle a été prêchée et perd sa capacité  
-      tant que le Prédicateur est vivant, sobre et en bonne santé.</li>
-
-  <li>Si la personne choisie n’est pas un Sbire, rien ne se passe.</li>
-
-  <li>Le Prédicateur peut choisir des joueurs et des joueuses morts.</li>
-
-  <li>Si le Prédicateur est ivre ou empoisonné au moment où il choisit,  
-      la cible n’est pas affectée par sa capacité cette nuit-là.</li>
-
-  <li>Si le Prédicateur devient ivre ou empoisonné plus tard,  
-      les Sbires déjà « prêchés » retrouvent leur capacité  
-      jusqu’à ce que le Prédicateur redevienne sobre et en bonne santé.</li>
-
-</ul>
-
----
-
-## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
+##  <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Chaque nuit, réveillez le Prédicateur.  
@@ -138,7 +145,7 @@ Il ou elle pointe un joueur. Endormez ensuite le Prédicateur.
 
 ---
 
-## 🧩 <span style="color:#4ea3ff;">Exemples</span>
+##  <span style="color:#4ea3ff;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
@@ -168,7 +175,7 @@ Tant que Cédric est empoisonné, Leelou se réveille de nouveau pour utiliser s
 
 ---
 
-## 💡 <span style="color:#4ea3ff;">Astuces et Conseils</span>
+##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -233,7 +240,7 @@ Tant que Cédric est empoisonné, Leelou se réveille de nouveau pour utiliser s
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer Prédicateur</span>
+##  <span style="color:#4ea3ff;">Bluffer Prédicateur</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -300,7 +307,7 @@ Tant que Cédric est empoisonné, Leelou se réveille de nouveau pour utiliser s
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
