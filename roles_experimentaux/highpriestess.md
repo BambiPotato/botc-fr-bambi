@@ -37,19 +37,28 @@ title: Grande Prêtresse
 
 ---
 
-## ℹ️ <span style="color:#4ea3ff;">Informations</span>
+##  <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong> 
     <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/High_Priestess"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    High Priestess
+  </a>
+</li>
   <li><strong>Artiste :</strong> <em>Chloe McDougall</em></li>
   <li><strong>Révélé :</strong> 22 juin 2023</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#4ea3ff;">Résumé</span>
+##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Chaque nuit, vous apprenez à quel joueur le Conteur pense que vous devriez parler le plus »</strong>
@@ -60,9 +69,6 @@ La <strong>Grande Prêtresse</strong> agit à l’instinct… ou plutôt à l’
 On lui indique, nuit après nuit, avec qui discuter en priorité pour aider l’équipe du Bien.
 </p>
 
----
-
-## ⚙️ <span style="color:#4ea3ff;">Détails</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Chaque nuit, la Grande Prêtresse voit <strong>un joueur ou une joueuse</strong>, choisi·e par le Conteur ou la conteuse comme étant la personne la plus pertinente à qui parler le lendemain.</li>
@@ -85,7 +91,7 @@ On lui indique, nuit après nuit, avec qui discuter en priorité pour aider l’
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
+##  <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Chaque nuit, réveillez la Grande Prêtresse.  
@@ -100,7 +106,7 @@ et de ce que vous jugez le plus amusant et le plus utile pour l’équipe du Bie
 
 ---
 
-## 🧩 <span style="color:#4ea3ff;">Exemples</span>
+##  <span style="color:#4ea3ff;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 La première nuit, la Grande Prêtresse apprend <strong>Cédric</strong>.  
@@ -127,7 +133,7 @@ Son histoire contredit plusieurs bons rôles, et le Conteur ou la conteuse espè
 
 ---
 
-## 💡 <span style="color:#4ea3ff;">Astuces et Conseils</span>
+##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -194,7 +200,7 @@ Son histoire contredit plusieurs bons rôles, et le Conteur ou la conteuse espè
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer Grande Prêtresse</span>
+##  <span style="color:#4ea3ff;">Bluffer Grande Prêtresse</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -247,7 +253,7 @@ Son histoire contredit plusieurs bons rôles, et le Conteur ou la conteuse espè
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
