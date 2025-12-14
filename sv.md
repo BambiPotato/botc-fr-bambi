@@ -24,19 +24,21 @@ title: Sects & Violets
 
 ---
 
-##  Sommaire
+##  <span style="color:#e0c99d;">Sommaire</span>
 
-1. [ Synopsis](#-synopsis)
-2. [ Gameplay](#-gameplay)
-3. [Villageois](#villageois)
-4. [Étrangers](#étrangers)
-5. [Sbires](#sbires)
-6. [Démons](#démons)
-7. [ Télécharger & Imprimer](#-télécharger--imprimer)
+<ol style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  <li><a href="#-synopsis" style="color:#e0c99d; text-decoration:none;">Synopsis</a></li>
+  <li><a href="#-gameplay" style="color:#e0c99d; text-decoration:none;">Gameplay</a></li>
+  <li><a href="#villageois" style="color:#e0c99d; text-decoration:none;">Villageois</a></li>
+  <li><a href="#étrangers" style="color:#e0c99d; text-decoration:none;">Étrangers</a></li>
+  <li><a href="#sbires" style="color:#e0c99d; text-decoration:none;">Sbires</a></li>
+  <li><a href="#démons" style="color:#e0c99d; text-decoration:none;">Démons</a></li>
+  <li><a href="#-télécharger--imprimer" style="color:#e0c99d; text-decoration:none;">Télécharger &amp; Imprimer</a></li>
+</ol>
 
 ---
 
-##  Synopsis
+##  <span style="color:#e0c99d;">Synopsis</span>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Le printemps vibrant laisse place à un été doux et accueillant.  
@@ -44,32 +46,32 @@ Des fleurs de toutes sortes s’épanouissent à perte de vue, soigneusement ent
 Les oiseaux chantent, les artistes peignent, et les philosophes méditent sur les grands mystères de la vie dans une taverne animée, tandis qu’un cirque dresse son chapiteau coloré à la lisière de la ville.
 </p>
 
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Alors que les villageois profitent de la frivolité et des festivités, se laissant aller au vin et aux rires, des forces sombres se rassemblent dans l’ombre.  
 Sorcières et cultistes rôdent dans les ruines majestueuses qui bordent la cité, organisant des réunions secrètes dans les cavernes souterraines et complotant avec malveillance la chute de Ravenswood Bluff et de ses habitants insouciants.
 </p>
 
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Le moment est venu pour... <span style="color:#d67bff; font-weight:bold;">Sects & Violets</span>.
 </p>
 
 ---
 
-##  Gameplay
+##  <span style="color:#e0c99d;">Gameplay</span>
 
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong>Sects & Violets</strong> est l’édition la plus folle et imprévisible des trois.  
-Les <span style="color:blue;">Villageois</span> reçoivent chaque nuit des informations puissantes, mais l’équipe du <span style="color:red;">Mal</span> dispose d’outils terriblement variés pour semer la confusion.
+Les <span style="color:blue;">Villageois</span> reçoivent chaque nuit des informations puissantes, mais l’équipe du <span style="color:#d45b5b;;">Mal</span> dispose d’outils terriblement variés pour semer la confusion.
 </p>
 
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Les rôles changent d’alignement.  
 Les joueurs changent de rôle.  
-Même les <span style="color:red;">Maléfiques</span> peuvent perdre le fil de qui est qui.  
+Même les <span style="color:#d45b5b;;">Maléfiques</span> peuvent perdre le fil de qui est qui.  
 C’est aussi la première apparition de la <strong>Folie</strong>, qui peut complètement bouleverser la partie.
 </p>
 
-<p style="color:#e0c99d; font-size:19px; font-weight:bold;">
+<p style="color:##f5f5f5; font-size:19px; font-weight:bold;">
  Niveau : <strong>Intermédiaire à Avancé</strong><br>
 <em>*Recommandé pour les joueurs et joueuses aimant le chaos, la folie;  les retournements inattendus et les défis logiques audacieux.*</em>
 </p>
