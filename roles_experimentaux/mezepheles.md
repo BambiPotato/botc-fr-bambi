@@ -28,7 +28,7 @@ title: Mezepheles
   </a>
 </div>
 
-# 🪶 <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Mezepheles</span>
+#  <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Mezepheles</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Ce qui vient du cœur touche le cœur des autres…  
@@ -37,19 +37,28 @@ title: Mezepheles
 
 ---
 
-## ℹ️ <span style="color:#d45b5b;">Informations</span>
+##  <span style="color:#d45b5b;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
     <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Mezepheles"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+    Mezepheles
+  </a>
+</li>
   <li><strong>Artiste :</strong> Caitlin Murphy</li>
   <li><strong>Révélé :</strong> 4 mars 2021</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#d45b5b;">Résumé</span>
+##  <span style="color:#d45b5b;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Vous commencez en connaissant un mot secret.  
@@ -90,7 +99,7 @@ rester dans la lumière… ou basculer volontairement du côté maléfique.
 
 ---
 
-## 🎭 <span style="color:#d45b5b;">Comment Conter</span>
+##  <span style="color:#d45b5b;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Pour préparer le jeu, écrivez un seul mot sur une feuille de papier,  
@@ -156,7 +165,7 @@ un téléphone ou un autre appareil.
 
 ---
 
-## 🧩 <span style="color:#d45b5b;">Exemples</span>
+##  <span style="color:#d45b5b;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Le <strong>Mezepheles</strong> dit au  
@@ -190,7 +199,7 @@ et le <strong>Mezepheles</strong> a perdu sa capacité pour rien.
 
 ---
 
-## 💡 <span style="color:#d45b5b;">Astuces & Conseils</span>
+##  <span style="color:#d45b5b;">Astuces & Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -315,7 +324,7 @@ et le <strong>Mezepheles</strong> a perdu sa capacité pour rien.
 
 ---
 
-## ⚔️ <span style="color:#d45b5b;">Combattre le Mezepheles</span>
+##  <span style="color:#d45b5b;">Combattre le Mezepheles</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -422,7 +431,7 @@ et le <strong>Mezepheles</strong> a perdu sa capacité pour rien.
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  😈 <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Retour aux Sbires</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Sbires</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
