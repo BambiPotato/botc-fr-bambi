@@ -28,7 +28,7 @@ title: Hatter
   </a>
 </div>
 
-# 🎩 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Chapelier</span>
+#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Chapelier</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Un chapeau. Deux chapeaux. Trois chapeaux. Chapeau-thé. Chapeau-quatre. Chapeau-vif.  
@@ -37,19 +37,28 @@ title: Hatter
 
 ---
 
-## ℹ️ <span style="color:#4ea3ff;">Informations</span>
+##  <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
     <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Hatter"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Hatter
+  </a>
+</li>
   <li><strong>Artistes :</strong> <em>Aidan Roberts, Chloe McDougall, Steven Medway</em></li>
   <li><strong>Révélé :</strong> 30 novembre 2023</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#4ea3ff;">Résumé</span>
+##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Si vous mourrez aujourd’hui ou cette nuit, les joueurs Sbires et Démon peuvent choisir de nouveaux rôles de Sbires et de Démon. »</strong>
@@ -59,6 +68,40 @@ title: Hatter
 Le <strong>Chapelier</strong> permet aux joueuses et joueurs maléfiques de  
 changer leurs rôles de <span style="color:#d45b5b; font-weight:bold;">Sbires</span> et de <span style="color:#d45b5b; font-weight:bold;">Démon</span> lorsqu’il meurt.
 </p>
+
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+  <li>Si le Chapelier meurt <strong>pendant la journée</strong> (par exécution, exil, etc.) ou  
+      <strong>pendant la nuit</strong>, chaque joueur qui a un rôle de <span style="color:#d45b5b; font-weight:bold;">Sbire</span>  
+      ou de <span style="color:#d45b5b; font-weight:bold;">Démon</span> peut choisir un nouveau rôle du même type.</li>
+
+  <li>Un Sbire doit devenir un autre Sbire,  
+      un Démon doit devenir un autre Démon.</li>
+
+  <li>Les joueurs maléfiques peuvent également choisir de <strong>ne pas changer</strong> de rôle.</li>
+
+  <li>Si un joueur devient un nouveau rôle,  
+      il gagne immédiatement sa nouvelle capacité,  
+      même s’il s’agit d’une capacité « vous commencez en sachant »  
+      ou d’un effet « une fois par partie » déjà utilisé  
+      sur ce rôle chez un autre joueur auparavant.</li>
+
+  <li>Une fois qu’un joueur a changé de rôle,  
+      son ancien rôle n’a plus aucun effet sur la partie.</li>
+
+  <li>Si un joueur meurt puis devient Chapelier (via un autre effet de script),  
+      les joueurs maléfiques ne changent pas de rôle cette nuit-là.</li>
+
+  <li>Un même rôle ne peut être choisi que par un seul joueur :  
+      si un rôle de Sbire ou de Démon est déjà en jeu ou déjà choisi cette nuit-là,  
+      un autre joueur ne peut pas le choisir et doit en sélectionner un autre.</li>
+
+  <li>Une règle optionnelle consiste à autoriser le <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
+      à devenir <span style="color:#d45b5b; font-weight:bold;">Sbire</span> et un Sbire à devenir Démon  
+      lorsque le Chapelier meurt, pour un chaos maximal au sein de l’équipe maléfique.</li>
+
+</ul>
 
 ---
 
@@ -102,44 +145,8 @@ changer leurs rôles de <span style="color:#d45b5b; font-weight:bold;">Sbires</s
 
 ---
 
-## ⚙️ <span style="color:#4ea3ff;">Détails</span>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Si le Chapelier meurt <strong>pendant la journée</strong> (par exécution, exil, etc.) ou  
-      <strong>pendant la nuit</strong>, chaque joueur qui a un rôle de <span style="color:#d45b5b; font-weight:bold;">Sbire</span>  
-      ou de <span style="color:#d45b5b; font-weight:bold;">Démon</span> peut choisir un nouveau rôle du même type.</li>
-
-  <li>Un Sbire doit devenir un autre Sbire,  
-      un Démon doit devenir un autre Démon.</li>
-
-  <li>Les joueurs maléfiques peuvent également choisir de <strong>ne pas changer</strong> de rôle.</li>
-
-  <li>Si un joueur devient un nouveau rôle,  
-      il gagne immédiatement sa nouvelle capacité,  
-      même s’il s’agit d’une capacité « vous commencez en sachant »  
-      ou d’un effet « une fois par partie » déjà utilisé  
-      sur ce rôle chez un autre joueur auparavant.</li>
-
-  <li>Une fois qu’un joueur a changé de rôle,  
-      son ancien rôle n’a plus aucun effet sur la partie.</li>
-
-  <li>Si un joueur meurt puis devient Chapelier (via un autre effet de script),  
-      les joueurs maléfiques ne changent pas de rôle cette nuit-là.</li>
-
-  <li>Un même rôle ne peut être choisi que par un seul joueur :  
-      si un rôle de Sbire ou de Démon est déjà en jeu ou déjà choisi cette nuit-là,  
-      un autre joueur ne peut pas le choisir et doit en sélectionner un autre.</li>
-
-  <li>Une règle optionnelle consiste à autoriser le <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
-      à devenir <span style="color:#d45b5b; font-weight:bold;">Sbire</span> et un Sbire à devenir Démon  
-      lorsque le Chapelier meurt, pour un chaos maximal au sein de l’équipe maléfique.</li>
-
-</ul>
-
----
-
-## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
+##  <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Quand le Chapelier meurt (jour ou nuit), marquez son jeton avec le rappel <strong>THÉ CE SOIR (TEA PARTY TONIGHT)</strong>.  
@@ -183,7 +190,7 @@ et les éventuelles confusions silencieuses entre les joueurs maléfiques.
 
 ---
 
-## 🧩 <span style="color:#4ea3ff;">Exemples</span>
+##  <span style="color:#4ea3ff;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
@@ -228,7 +235,7 @@ et l’Assassin peut immédiatement utiliser sa nouvelle capacité pour tuer un 
 
 ---
 
-## 💡 <span style="color:#4ea3ff;">Astuces et Conseils</span>
+##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -264,7 +271,7 @@ et l’Assassin peut immédiatement utiliser sa nouvelle capacité pour tuer un 
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer Chapelier</span>
+##  <span style="color:#4ea3ff;">Bluffer Chapelier</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -310,7 +317,7 @@ et l’Assassin peut immédiatement utiliser sa nouvelle capacité pour tuer un 
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a><br>
-  💈 <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Étrangers</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a><br>
+   <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Étrangers</a>
 </p>
