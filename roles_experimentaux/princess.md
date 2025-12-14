@@ -28,7 +28,7 @@ title: Princesse
   </a>
 </div>
 
-# 👸🏻 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Princesse</span>
+#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Princesse</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Nos mots sont des chiens tenus par des fils de soie, mes seigneurs. Que la bonté les guide, ou bien leurs laisses se rompront, et notre cour se déchirera. »
@@ -36,41 +36,27 @@ title: Princesse
 
 ---
 
-## ℹ️ <span style="color:#4ea3ff;">Informations</span>
+##  <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong> 
     <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Princess"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Princess
+  </a>
+</li>
   <li><strong>Artiste :</strong> <em>Chloe McDougall</em></li>
   <li><strong>Révélé :</strong> 22 juin 2025</li>
 </ul>
 
 ---
 
-## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>
-    🧞 
-    <img src="../images/Icon_alhadikhia.png" alt="Al-Hadikhia" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/alhadikhia.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Al-Hadikhia</a> :  
-    Si la Princesse a nommé et fait exécuter un joueur lors de son premier jour,  
-    personne ne meurt à cause de l’Al-Hadikhia cette nuit-là.
-  </li>
-
-  <li>
-    🧞 
-    <img src="../images/Icon_cannibal.png" alt="Cannibale" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/cannibal.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cannibale</a> :  
-    Si le Cannibale a nommé, fait exécuter et tué la Princesse aujourd’hui,  
-    le <span style="color:#d45b5b; font-weight:bold;">Démon</span> ne tue personne cette nuit.
-  </li>
-
-</ul>
-
----
 
 ## 📖 <span style="color:#4ea3ff;">Résumé</span>
 
@@ -82,9 +68,6 @@ title: Princesse
 La <strong>Princesse</strong> décide quel joueur ou quelle joueuse tombe sous le couperet en premier.
 </p>
 
----
-
-## ⚙️ <span style="color:#4ea3ff;">Détails</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -123,7 +106,31 @@ La <strong>Princesse</strong> décide quel joueur ou quelle joueuse tombe sous l
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
+## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+  <li>
+    🧞 
+    <img src="../images/Icon_alhadikhia.png" alt="Al-Hadikhia" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/alhadikhia.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Al-Hadikhia</a> :  
+    Si la Princesse a nommé et fait exécuter un joueur lors de son premier jour,  
+    personne ne meurt à cause de l’Al-Hadikhia cette nuit-là.
+  </li>
+
+  <li>
+    🧞 
+    <img src="../images/Icon_cannibal.png" alt="Cannibale" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/cannibal.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cannibale</a> :  
+    Si le Cannibale a nommé, fait exécuter et tué la Princesse aujourd’hui,  
+    le <span style="color:#d45b5b; font-weight:bold;">Démon</span> ne tue personne cette nuit.
+  </li>
+
+</ul>
+
+---
+
+##  <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Pendant la journée, suivez avec attention qui nomme qui.  
@@ -141,7 +148,7 @@ mais tous les autres effets éventuels de sa capacité s’appliquent.
 
 ---
 
-## 🧩 <span style="color:#4ea3ff;">Exemples</span>
+##  <span style="color:#4ea3ff;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
@@ -175,7 +182,7 @@ choisit la Princesse, qui ne meurt pas.
 
 ---
 
-## 💡 <span style="color:#4ea3ff;">Astuces et Conseils</span>
+##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -217,7 +224,7 @@ choisit la Princesse, qui ne meurt pas.
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer Princesse</span>
+##  <span style="color:#4ea3ff;">Bluffer Princesse</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -264,7 +271,7 @@ choisit la Princesse, qui ne meurt pas.
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
