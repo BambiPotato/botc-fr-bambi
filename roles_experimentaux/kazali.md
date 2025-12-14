@@ -28,7 +28,7 @@ title: Kazali
   </a>
 </div>
 
-# 👹 <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Kazali</span>
+#  <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Kazali</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Gon(z)a7les6. Faites attention. Le mécanisme est inversé. E99ors insy6tum. Reco{7}fig. »
@@ -36,19 +36,28 @@ title: Kazali
 
 ---
 
-## ℹ️ <span style="color:#d45b5b;">Informations</span>
+##  <span style="color:#d45b5b;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
     <span style="color:#d45b5b; font-weight:bold;">Démon</span>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Kazali"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+    Kazali
+  </a>
+</li>
   <li><strong>Artiste :</strong> Lachlan Bastiaen</li>
   <li><strong>Révélé :</strong> 28 décembre 2023</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#d45b5b;">Résumé</span>
+##  <span style="color:#d45b5b;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Chaque nuit*, choisissez un joueur : il meurt.  
@@ -137,7 +146,7 @@ et tue un joueur chaque nuit*.
 
 ---
 
-## 🎭 <span style="color:#d45b5b;">Comment Conter</span>
+##  <span style="color:#d45b5b;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Le <strong>Kazali</strong> modifie la répartition des Sbires  
@@ -207,7 +216,7 @@ Il tue ensuite comme un Démon « classique », une fois par nuit.
 
 ---
 
-## 🧩 <span style="color:#d45b5b;">Exemples</span>
+##  <span style="color:#d45b5b;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Il y a 15 joueurs et aucun  
@@ -223,7 +232,7 @@ et que <strong>Lilian</strong> devient le
 
 ---
 
-## 💡 <span style="color:#d45b5b;">Astuces & Conseils</span>
+##  <span style="color:#d45b5b;">Astuces & Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -297,7 +306,7 @@ et que <strong>Lilian</strong> devient le
 
 ---
 
-## ⚔️ <span style="color:#d45b5b;">Combattre le Kazali</span>
+##  <span style="color:#d45b5b;">Combattre le Kazali</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -342,7 +351,7 @@ et que <strong>Lilian</strong> devient le
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👹 <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Retour aux Démons</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Démons</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
