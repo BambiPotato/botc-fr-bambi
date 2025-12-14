@@ -28,7 +28,7 @@ title: Veilleur de Nuit
   </a>
 </div>
 
-# 🌙 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Veilleur de Nuit</span>
+#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Veilleur de Nuit</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « La nuit est froide et solitaire, mais j’ai pour compagnie la lune, les étoiles, le vent vif et le bruit feutré de bottes sur les pavés. Là-bas, une lueur vacille derrière une vitre obscurcie… »
@@ -36,19 +36,28 @@ title: Veilleur de Nuit
 
 ---
 
-## ℹ️ <span style="color:#4ea3ff;">Informations</span>
+##  <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong> 
     <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Nightwatchman"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+   Nightwatchman
+  </a>
+</li>
   <li><strong>Artiste :</strong> <em>Chloe McDougall</em></li>
   <li><strong>Révélé :</strong> 5 février 2022</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#4ea3ff;">Résumé</span>
+##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Une fois par partie, pendant la nuit, vous choisissez un joueur : il apprend que vous êtes le Veilleur de Nuit. »</strong>
@@ -58,9 +67,6 @@ title: Veilleur de Nuit
 Le <strong>Veilleur de Nuit</strong> est connu d’un seul joueur vivant : celui qu’il choisit lors de sa visite nocturne.
 </p>
 
----
-
-## ⚙️ <span style="color:#4ea3ff;">Détails</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -77,7 +83,7 @@ Le <strong>Veilleur de Nuit</strong> est connu d’un seul joueur vivant : celui
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
+##  <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Chaque nuit, réveillez le Veilleur de Nuit.  
@@ -103,7 +109,7 @@ Si le Veilleur de Nuit a pointé un joueur :
 
 ---
 
-## 🧩 <span style="color:#4ea3ff;">Exemples</span>
+##  <span style="color:#4ea3ff;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
@@ -131,7 +137,7 @@ l’information est fausse à cause du Vortox.
 
 ---
 
-## 💡 <span style="color:#4ea3ff;">Astuces et Conseils</span>
+##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -173,7 +179,7 @@ l’information est fausse à cause du Vortox.
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer Veilleur de Nuit</span>
+##  <span style="color:#4ea3ff;">Bluffer Veilleur de Nuit</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -196,7 +202,7 @@ l’information est fausse à cause du Vortox.
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
