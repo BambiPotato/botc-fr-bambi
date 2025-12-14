@@ -129,9 +129,9 @@ Celles et ceux qui savent lire les signes comprennent qu’il y a…
 
 ##  <span style="color:#b58b52;">Gameplay</span>
 
-<p style="text-align:left; color:#e0c99d; font-size:18px; line-height:1.7;">
-<strong>Trouble Brewing</strong> 
-<span style="color:#f5f5f5; contient un peu de tout :</span>
+<p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
+  <strong><span style="color:#b58b52;">Trouble Brewing</span></strong>
+  <span style="color:#f5f5f5;">contient un peu de tout :</span>
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
@@ -146,7 +146,7 @@ C’est une chasse au <span style="color:#d45b5b; font-weight:bold;">Démon</spa
 Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient savoir s’ils veulent espérer survivre.
 </p>
 
-<p style="text-align:left; color:#f5f5f5; font-size:18px; font-weight:bold;">
+<p style="text-align:left; color:#b58b52; font-size:18px; font-weight:bold;">
 🐥 Niveau : <strong>Débutant</strong><br>
 <em>Trouble Brewing est recommandé pour les joueurs et joueuses débutants, ainsi que pour les conteuses et conteurs qui content pour la première fois.</em>
 </p>
