@@ -88,26 +88,26 @@ title: Trouble Brewing
 
 <p style="text-align:left; color:#b58b52; font-size:18px; line-height:1.8;">
   <span style="font-weight:bold;">1.</span>
-  <a href="#synopsis" style="color:#b58b52; font-weight:bold; text-decoration:none;">Synopsis</a><br>
+  <a href="#synopsis" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Synopsis</a><br>
   <span style="font-weight:bold;">2.</span>
-  <a href="#gameplay" style="color:#b58b52; font-weight:bold; text-decoration:none;">Gameplay</a><br>
+  <a href="#gameplay" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Gameplay</a><br>
   <span style="font-weight:bold;">3.</span>
-  <a href="#villageois" style="color:#b58b52; font-weight:bold; text-decoration:none;">Villageois</a><br>
+  <a href="#villageois" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Villageois</a><br>
   <span style="font-weight:bold;">4.</span>
-  <a href="#etrangers" style="color:#b58b52; font-weight:bold; text-decoration:none;">Étrangers</a><br>
+  <a href="#etrangers" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Étrangers</a><br>
   <span style="font-weight:bold;">5.</span>
-  <a href="#sbires" style="color:#b58b52; font-weight:bold; text-decoration:none;">Sbires</a><br>
+  <a href="#sbires" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Sbires</a><br>
   <span style="font-weight:bold;">6.</span>
-  <a href="#demons" style="color:#b58b52; font-weight:bold; text-decoration:none;">Démons</a><br>
+  <a href="#demons" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Démons</a><br>
   <span style="font-weight:bold;">7.</span>
-  <a href="#telechargements" style="color:#b58b52; font-weight:bold; text-decoration:none;">Téléchargements &amp; Ressources</a>
+  <a href="#telechargements" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Téléchargements &amp; Ressources</a>
 </p>
 
 ---
 
 ## <span id="synopsis" style="color:#b58b52;">Synopsis</span>
 
-<p style="text-align:left; color:##f5f5f5; font-size:18px; line-height:1.7;">
+<p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
 Les nuages s’amoncellent au-dessus de <strong>Ravenswood Bluff</strong>, enveloppant cette ville endormie et ses Villageois superstitieux d’une ombre inquiétante.  
 Le linge fraîchement lavé danse de façon étrange entre les chaumières. Des cheminées crachent des volutes de fumée.  
 Des senteurs exotiques s’infiltrent par les fissures des fenêtres, tandis que des chaudrons cachés bouillonnent dans l’ombre.
@@ -331,12 +331,12 @@ Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient
 
 ## <span id="telechargements" style="color:#b58b52;">Téléchargements & Ressources</span>
 
-<h3 style="color:#b58b52; font-weight:bold; font-size:22px;"> PDF complet</h3>
+<h3 style="color:#b58b52; font-weight:bold; font-size:22px;"> </h3>
 <p style="text-align:left; font-size:18px;">
    <a href="./trouble_brewing.pdf" style="color:#d4a76a; font-weight:bold; text-decoration:none;"> Télécharger le PDF de Trouble Brewing</a>
 </p>
 
-<h3 style="color:#b58b52; font-weight:bold; font-size:22px;"> Images pratiques</h3>
+
 <div style="text-align:left;">
   <a href="./images/tb-front.png">
     <img src="./images/tb-front.png" alt="Couverture" width="250" style="margin:8px; border-radius:8px;">
