@@ -107,13 +107,13 @@ title: Trouble Brewing
 
 ## <span id="synopsis" style="color:#b58b52;">Synopsis</span>
 
-<p style="text-align:left; color:#e0c99d; font-size:18px; line-height:1.7;">
+<p style="text-align:left; color:##f5f5f5; font-size:18px; line-height:1.7;">
 Les nuages s’amoncellent au-dessus de <strong>Ravenswood Bluff</strong>, enveloppant cette ville endormie et ses Villageois superstitieux d’une ombre inquiétante.  
 Le linge fraîchement lavé danse de façon étrange entre les chaumières. Des cheminées crachent des volutes de fumée.  
 Des senteurs exotiques s’infiltrent par les fissures des fenêtres, tandis que des chaudrons cachés bouillonnent dans l’ombre.
 </p>
 
-<p style="text-align:left; color:#e0c99d; font-size:18px; line-height:1.7;">
+<p style="text-align:left; color:##f5f5f5; font-size:18px; line-height:1.7;">
 Un vent d’automne anormalement chaud s’insinue le long des murs couverts de lierre et murmure à l’oreille des plus téméraires.  
 Les mères appellent leurs enfants à rentrer, alors que le tonnerre gronde à l’horizon.  
 Mais en tendant l’oreille… des bruits plus étranges encore résonnent depuis la forêt voisine.
@@ -130,22 +130,22 @@ Celles et ceux qui savent lire les signes comprennent qu’il y a…
 ## <span id="gameplay" style="color:#b58b52;">Gameplay</span>
 
 <p style="text-align:left; color:#e0c99d; font-size:18px; line-height:1.7;">
-<strong>Trouble Brewing</strong> contient un peu de tout :
+<strong>Trouble Brewing</strong> <span style="color:#f5f5f5contient un peu de tout :</span>
 </p>
 
-<ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:40px;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Certains rôles reçoivent passivement des informations.</li>
   <li>D’autres doivent agir pour découvrir qui est qui.</li>
   <li>Quelques-uns cherchent simplement à attirer l’attaque du <span style="color:#d45b5b; font-weight:bold;">Démon</span>.</li>
 </ul>
 
-<p style="text-align:left; color:#e0c99d; font-size:18px; line-height:1.7;">
+<p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
 Tant le Bien que le Mal peuvent prendre l’avantage en effectuant des <strong>sacrifices bien calculés</strong>.<br>
 C’est une chasse au <span style="color:#d45b5b; font-weight:bold;">Démon</span> relativement simple, mais les <span style="color:#d45b5b; font-weight:bold;">Sbires</span> et le <span style="color:#d45b5b; font-weight:bold;">Démon</span> disposent de nombreux moyens pour semer la confusion.
 Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient savoir s’ils veulent espérer survivre.
 </p>
 
-<p style="text-align:left; color:#d4a76a; font-size:18px; font-weight:bold;">
+<p style="text-align:left; color:#f5f5f5; font-size:18px; font-weight:bold;">
 🐥 Niveau : <strong>Débutant</strong><br>
 <em>Trouble Brewing est recommandé pour les joueurs et joueuses débutants, ainsi que pour les conteuses et conteurs qui content pour la première fois.</em>
 </p>
