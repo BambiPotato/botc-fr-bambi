@@ -54,8 +54,8 @@ Un savant génial dévoile tout ! Le village est en danger ! Ôyez, ôyez ! »*
 Le Crieur sait quand un [<span style="color:red;">Sbire</span>](../sbires.md) a fait une **nomination**.  
 
 Chaque nuit, le Crieur apprend un **“oui”** ou **“non”** :  
-- Il ne sait **pas combien** de Sbires ont nommé,  
-- ni **lesquels** ont fait une nomination seulement si **au moins un Sbire** a fait une nomination.  
+- Il ne sait **pas combien** de Sbires ont nommé.
+- Ni **lesquels** ont fait une nomination seulement si **au moins un Sbire** a fait une nomination.  
 
 ---
 
@@ -70,9 +70,11 @@ Chaque nuit, le Crieur apprend un **“oui”** ou **“non”** :
   - Puis rendormez le Crieur.  
 - Retirez ensuite tous les jetons de rappel “SBIRE A NOMMÉ”.  
 
-> *Astuces & Conseils pour les Conteurs et Conteuses
+> **Astuces & Conseils pour les Conteurs et Conteuses**
+
 > Si vous vous oubliez si un [<span style="color:red;">Sbire</span>](../sbires.md) a fait une nomination,
  réveillez chaque [<span style="color:red;">Sbire</span>](../sbires.md) la nuit et montrez-lui le jeton :
+ 
 > *“As-tu nommé aujourd’hui ?”*.  
 > Ils doivent répondre honnêtement puis se rendormir.
 
