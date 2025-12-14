@@ -28,7 +28,7 @@ title: Aéronaute
   </a>
 </div>
 
-# 🎈 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Aéronaute</span>
+#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Aéronaute</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Plus de chaleur ! Plus haut ! Plus haut ! Più alto !  
@@ -41,19 +41,28 @@ title: Aéronaute
 
 ---
 
-## ℹ️ <span style="color:#4ea3ff;">Informations</span>
+##  <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong> 
     <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Balloonist"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+   Balloonist
+  </a>
+</li>
   <li><strong>Artiste :</strong> <em>Anica Kelsen</em></li>
   <li><strong>Révélé :</strong> 7 avril 2020</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#4ea3ff;">Résumé</span>
+##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong>« Chaque nuit, vous apprenez un joueur d’un type de rôle différent de la nuit précédente. [+0 ou +1 Étranger] »</strong>
@@ -64,6 +73,17 @@ L’<strong>Aéronaute</strong> apprend des joueurs de types de rôles différen
 <span style="color:#4ea3ff; font-weight:bold;">Villageois</span>, <span style="color:#4ea3ff; font-weight:bold;">Étrangers</span>, 
 <span style="color:#d45b5b; font-weight:bold;">Sbires</span> ou <span style="color:#d45b5b; font-weight:bold;">Démons</span>.
 </p>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>Chaque fois que l’Aéronaute apprend un joueur, ce joueur doit avoir un <strong>type de rôle différent</strong> de celui appris la nuit précédente.</li>
+  <li>L’Aéronaute ne connaît pas le type du joueur appris, uniquement son identité.</li>
+  <li>Le joueur montré peut être vivant ou mort.</li>
+  <li>Le joueur montré peut être bon ou maléfique.</li>
+  <li>Si l’Aéronaute est ivre ou empoisonné, il peut apprendre un joueur du même type que la nuit précédente.  
+      Quand il redevient sobre et en bonne santé, il doit à nouveau apprendre un joueur d’un type de rôle différent du dernier joueur appris.</li>
+  <li>Lors de la mise en place, la conteuse peut choisir d’ajouter un <span style="color:#4ea3ff; font-weight:bold;">Étranger</span> à cause de la capacité de l’Aéronaute.</li>
+</ul>
+
 
 ---
 
@@ -80,21 +100,7 @@ L’<strong>Aéronaute</strong> apprend des joueurs de types de rôles différen
 
 ---
 
-## ⚙️ <span style="color:#4ea3ff;">Détails</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Chaque fois que l’Aéronaute apprend un joueur, ce joueur doit avoir un <strong>type de rôle différent</strong> de celui appris la nuit précédente.</li>
-  <li>L’Aéronaute ne connaît pas le type du joueur appris, uniquement son identité.</li>
-  <li>Le joueur montré peut être vivant ou mort.</li>
-  <li>Le joueur montré peut être bon ou maléfique.</li>
-  <li>Si l’Aéronaute est ivre ou empoisonné, il peut apprendre un joueur du même type que la nuit précédente.  
-      Quand il redevient sobre et en bonne santé, il doit à nouveau apprendre un joueur d’un type de rôle différent du dernier joueur appris.</li>
-  <li>Lors de la mise en place, la conteuse peut choisir d’ajouter un <span style="color:#4ea3ff; font-weight:bold;">Étranger</span> à cause de la capacité de l’Aéronaute.</li>
-</ul>
-
----
-
-## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
+##  <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Lors de la mise en place, vous pouvez ajouter un <span style="color:#4ea3ff; font-weight:bold;">Étranger</span> supplémentaire grâce à la capacité de l’Aéronaute.
@@ -112,7 +118,7 @@ Mettez à jour le jeton de rappel <strong>SAIT (KNOW)</strong> avant la nuit sui
 
 ---
 
-## 🧩 <span style="color:#4ea3ff;">Exemples</span>
+##  <span style="color:#4ea3ff;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong>Amir</strong> est le 
@@ -235,7 +241,7 @@ La troisième nuit, redevenu sobre et en bonne santé, l’Aéronaute apprend <s
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer l’Aéronaute</span>
+##  <span style="color:#4ea3ff;">Bluffer l’Aéronaute</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -314,7 +320,7 @@ La troisième nuit, redevenu sobre et en bonne santé, l’Aéronaute apprend <s
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
