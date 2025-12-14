@@ -28,7 +28,7 @@ title: P'tit Monstre
   </a>
 </div>
 
-# 👹 <span style="color:#d45b5b; font-weight:bold; font-size:18px;">P'tit Monstre</span>
+#  <span style="color:#d45b5b; font-weight:bold; font-size:18px;">P'tit Monstre</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Étape 1 : être trop mignon.  
@@ -38,19 +38,28 @@ title: P'tit Monstre
 
 ---
 
-## ℹ️ <span style="color:#d45b5b;">Informations</span>
+##  <span style="color:#d45b5b;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
     <a href="/demon.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Lil%27_Monsta"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+    Lil’Monsta
+  </a>
+</li>
   <li><strong>Artiste :</strong> Chloe McDougall</li>
   <li><strong>Révélé :</strong> 4 juillet 2020</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#d45b5b;">Résumé</span>
+##  <span style="color:#d45b5b;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Chaque nuit, les Sbires choisissent qui garde le P’tit Monstre  
@@ -173,7 +182,7 @@ ou à n’importe quel autre joueur.
 
 ---
 
-## 🎭 <span style="color:#d45b5b;">Comment Conter</span>
+##  <span style="color:#d45b5b;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Le <strong>P’tit Monstre</strong> change complètement  
@@ -244,7 +253,7 @@ que les Sbires se passent chaque nuit.
 
 ---
 
-## 🧩 <span style="color:#d45b5b;">Exemples</span>
+##  <span style="color:#d45b5b;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 L’<a href="../tb_roles/poisoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>  
@@ -335,7 +344,7 @@ que l’Empoisonneur garde le P’tit Monstre.
 
 ---
 
-## ⚔️ <span style="color:#d45b5b;">Combattre le P'tit Monstre</span>
+##  <span style="color:#d45b5b;">Combattre le P'tit Monstre</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -411,7 +420,7 @@ que l’Empoisonneur garde le P’tit Monstre.
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👹 <a href="/demon.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Retour aux Démons</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="/demon.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Démons</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
