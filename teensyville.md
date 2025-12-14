@@ -28,6 +28,7 @@ title: TeensyVille
   À Teensyville, les secrets murmurent plus fort que les cris. »
 </p>
 
+
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
 Bienvenue à <strong>Teensyville</strong> 
 un petit village situé à quelques jours de marche de <strong>Ravenswood Bluff</strong>.  
@@ -72,7 +73,7 @@ Chaque script <strong>Teensyville</strong> contient :
   <li><span style="color:#d45b5b; font-weight:bold;">2</span> <a href="./demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démons</a></li>
 </ul>
 
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
  Cette configuration garantit un équilibre pour des groupes de 5 à 6 personnes,  
 et permet d’utiliser des rôles issus de n’importe quelle édition :  
 <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a>,  
