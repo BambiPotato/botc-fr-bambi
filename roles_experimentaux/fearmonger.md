@@ -28,7 +28,7 @@ title: Fearmonger
   </a>
 </div>
 
-# 😈 <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Fearmonger</span>
+#  <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Fearmonger</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Garde-toi bien de contempler trop longtemps l’abîme,  
@@ -37,19 +37,28 @@ title: Fearmonger
 
 ---
 
-## ℹ️ <span style="color:#d45b5b;">Informations</span>
+##  <span style="color:#d45b5b;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
     <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Fearmonger"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+   Fearmonger
+  </a>
+</li>
   <li><strong>Artiste :</strong> Anica Kelsen</li>
   <li><strong>Révélé :</strong> 9 septembre 2021</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#d45b5b;">Résumé</span>
+##  <span style="color:#d45b5b;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Chaque nuit, choisissez un joueur : si vous le nommez et l’exécutez, son équipe perd.  
@@ -106,7 +115,7 @@ Le <strong>Fearmonger</strong> crée une paranoïa permanente autour des nominat
 
 ---
 
-## 🎭 <span style="color:#d45b5b;">Comment Conter</span>
+##  <span style="color:#d45b5b;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Chaque nuit, vous faites agir le <strong>Fearmonger</strong>, puis vous informez ou non le groupe selon s’il a choisi un nouveau joueur.
@@ -138,7 +147,7 @@ Chaque nuit, vous faites agir le <strong>Fearmonger</strong>, puis vous informez
 
 ---
 
-## 🧩 <span style="color:#d45b5b;">Exemples</span>
+##  <span style="color:#d45b5b;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 La première nuit, le <strong>Fearmonger</strong> choisit le  
@@ -178,7 +187,7 @@ Comme le <a href="../tb_roles/baron.html" style="color:#d45b5b; font-weight:bold
 
 ---
 
-## 💡 <span style="color:#d45b5b;">Astuces & Conseils</span>
+##  <span style="color:#d45b5b;">Astuces & Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -256,7 +265,7 @@ Comme le <a href="../tb_roles/baron.html" style="color:#d45b5b; font-weight:bold
 
 ---
 
-## ⚔️ <span style="color:#d45b5b;">Combattre le Fearmonger</span>
+##  <span style="color:#d45b5b;">Combattre le Fearmonger</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -316,7 +325,7 @@ Comme le <a href="../tb_roles/baron.html" style="color:#d45b5b; font-weight:bold
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  😈 <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Retour aux Sbires</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Sbires</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
