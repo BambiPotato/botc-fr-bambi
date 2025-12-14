@@ -36,19 +36,28 @@ title: Amnésique
 
 ---
 
-## ℹ️ <span style="color:#4ea3ff;">Informations</span>
+##  <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong> 
     <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Amnesiac"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Amnesiac
+  </a>
+</li>
   <li><strong>Artiste :</strong> <em>Anica Kelsen</em></li>
   <li><strong>Révélé :</strong> 7 avril 2020</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#4ea3ff;">Résumé</span>
+##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong>« Vous ne savez pas quelle est votre capacité. Chaque jour, devinez en privé de quoi il s'agit : vous apprenez à quel point vous êtes précis. »</strong>
@@ -59,9 +68,6 @@ L’<strong>Amnésique</strong> ne sait pas comment fonctionne sa capacité.
 Chaque jour, l'Amnésique essaie de deviner sa capacité, et la conteuse lui indique à quel point il est proche de la vérité.
 </p>
 
----
-
-## ⚙️ <span style="color:#4ea3ff;">Détails</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>La conteuse décide librement de la capacité de l’Amnésique pendant la mise en place.</li>
@@ -76,7 +82,7 @@ Chaque jour, l'Amnésique essaie de deviner sa capacité, et la conteuse lui ind
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
+##  <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Pendant la mise en place, décidez clairement de la capacité de l’Amnésique.  
@@ -96,7 +102,7 @@ Veillez à ce que la capacité soit réellement devinable au fil des nuits, grâ
 
 ---
 
-## 🧩 <span style="color:#4ea3ff;">Exemples</span>
+##  <span style="color:#4ea3ff;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Chaque nuit, l’Amnésique se réveille et doit pointer deux joueurs.  
@@ -114,7 +120,7 @@ Au fil de la partie, il comprend que ce nombre correspond au total de ses voisin
 
 ---
 
-## 💡 <span style="color:#4ea3ff;">Astuces et Conseils</span>
+##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>La plupart des capacités d’Amnésique donnent de l’information, et sont souvent plus puissantes que celles d’un Villageois classique. Si vous parvenez à comprendre votre pouvoir, il peut devenir décisif pour le Bien.</li>
@@ -134,7 +140,7 @@ Au fil de la partie, il comprend que ce nombre correspond au total de ses voisin
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer Amnésique</span>
+##  <span style="color:#4ea3ff;">Bluffer Amnésique</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Vous n’avez pas besoin de décider immédiatement de la « fausse capacité » que vous prétendez avoir. Vous pouvez la construire petit à petit en cours de partie.</li>
@@ -148,7 +154,7 @@ Au fil de la partie, il comprend que ce nombre correspond au total de ses voisin
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
