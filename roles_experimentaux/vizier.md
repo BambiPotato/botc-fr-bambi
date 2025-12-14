@@ -39,19 +39,28 @@ title: Vizir
 
 ---
 
-## ℹ️ <span style="color:#d45b5b;">Informations</span>
+##  <span style="color:#d45b5b;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
     <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Vizier"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+    Vizier
+  </a>
+</li>
   <li><strong>Artiste :</strong> Chloe McDougall</li>
   <li><strong>Révélé :</strong> 20 avril 2023</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#d45b5b;">Résumé</span>
+##  <span style="color:#d45b5b;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Tous les joueurs savent que vous êtes le Vizir.  
@@ -171,7 +180,7 @@ Le <strong>Vizir</strong> peut exécuter des joueurs sans le consentement du vil
 
 ---
 
-## 🎭 <span style="color:#d45b5b;">Comment Conter</span>
+##  <span style="color:#d45b5b;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Vous devez annoncer publiquement l’existence du <strong>Vizir</strong>,  
@@ -224,7 +233,7 @@ et faire attention au moment où la journée se termine.
 
 ---
 
-## 🧩 <span style="color:#d45b5b;">Exemples</span>
+##  <span style="color:#d45b5b;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Le <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> est nommé.  
@@ -254,7 +263,7 @@ Cette nuit-là, le <span style="color:#d45b5b; font-weight:bold;">Démon</span> 
 
 ---
 
-## 💡 <span style="color:#d45b5b;">Astuces & Conseils</span>
+##  <span style="color:#d45b5b;">Astuces & Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -310,7 +319,7 @@ Cette nuit-là, le <span style="color:#d45b5b; font-weight:bold;">Démon</span> 
 
 ---
 
-## ⚔️ <span style="color:#d45b5b;">Combattre le Vizir</span>
+##  <span style="color:#d45b5b;">Combattre le Vizir</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -383,7 +392,7 @@ Cette nuit-là, le <span style="color:#d45b5b; font-weight:bold;">Démon</span> 
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  😈 <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Retour aux Sbires</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Sbires</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
