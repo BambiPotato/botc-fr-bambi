@@ -36,19 +36,28 @@ title: Alsaahir
 
 ---
 
-## ℹ️ <span style="color:#4ea3ff;">Informations</span>
+##  <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong> 
     <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Alsaahir"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Alsaahir
+  </a>
+</li>
   <li><strong>Artiste :</strong> <em>Chloe McDougall</em></li>
   <li><strong>Révélé :</strong> 27 juin 2024</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#4ea3ff;">Résumé</span>
+##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong>« Chaque jour, si vous devinez publiquement quels joueurs sont des Sbires et quels joueurs sont des Démons, le Bien gagne. »</strong>
@@ -58,18 +67,8 @@ title: Alsaahir
 L’<strong>Alsaahir</strong> doit deviner toute l’équipe maléfique en une seule fois : tous les <span style="color:#d45b5b; font-weight:bold;">Sbires</span> et tous les <span style="color:#d45b5b; font-weight:bold;">Démons</span>.
 </p>
 
----
 
 
-## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>🧞 <a href="../roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a> : La conteuse n’annonce pas que le Vizir est en jeu.</li>
-</ul>
-
----
-
-## ⚙️ <span style="color:#4ea3ff;">Détails</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Les annonces de l’Alsaahir doivent être <strong>publiques</strong> et faites <strong>pendant la journée</strong>. Il n’est pas obligé de deviner chaque jour.</li>
@@ -91,9 +90,21 @@ L’<strong>Alsaahir</strong> doit deviner toute l’équipe maléfique en une s
   <li>Si l’équipe maléfique a changé au cours de la partie, l’Alsaahir doit deviner l’équipe maléfique <strong>actuelle</strong>, pas l’équipe de départ.</li>
 </ul>
 
+
+
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
+
+## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>🧞 <a href="../roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a> : La conteuse n’annonce pas que le Vizir est en jeu.</li>
+</ul>
+
+
+---
+
+##  <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Chaque jour, une seule fois, si l’Alsaahir déclare qu’il veut utiliser sa capacité, demandez-lui quels joueurs il désigne comme <span style="color:#d45b5b; font-weight:bold;">Démon(s)</span> et quels joueurs il désigne comme <span style="color:#d45b5b; font-weight:bold;">Sbires</span>.  
@@ -112,7 +123,7 @@ la conteuse peut limiter à trois le nombre de joueurs par jour autorisés à fa
 
 ---
 
-## 🧩 <span style="color:#4ea3ff;">Exemples</span>
+##  <span style="color:#4ea3ff;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 L’Alsaahir devine quatre joueurs bons comme étant l’équipe maléfique.  
@@ -135,7 +146,7 @@ Rien ne se passe non plus et la partie continue.
 
 ---
 
-## 💡 <span style="color:#4ea3ff;">Astuces et Conseils</span>
+##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Faites une annonce tous les jours si possible. Chaque annonce que vous faites réduit le nombre de combinaisons possibles pour l’équipe maléfique.</li>
@@ -195,7 +206,7 @@ Rien ne se passe non plus et la partie continue.
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer Alsaahir</span>
+##  <span style="color:#4ea3ff;">Bluffer Alsaahir</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Il est facile de bluffer l’Alsaahir en début de partie, surtout quand des joueurs bons le font aussi. Même si un vrai Alsaahir est en jeu, vous pouvez bluffer ce rôle tant que vous avez un bluff de secours pour la suite.</li>
@@ -209,7 +220,7 @@ Rien ne se passe non plus et la partie continue.
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
