@@ -28,7 +28,7 @@ title: Psychopathe
   </a>
 </div>
 
-# 🔪 <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Psychopathe</span>
+#  <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Psychopathe</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Surprise ! »
@@ -36,19 +36,28 @@ title: Psychopathe
 
 ---
 
-## ℹ️ <span style="color:#d45b5b;">Informations</span>
+##  <span style="color:#d45b5b;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
     <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Psychopath"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+    Psychopath
+  </a>
+</li>
   <li><strong>Artiste :</strong> John Grist</li>
   <li><strong>Révélé :</strong> 18 novembre 2021</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#d45b5b;">Résumé</span>
+##  <span style="color:#d45b5b;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Chaque jour, avant les nominations, vous pouvez choisir publiquement un joueur : il meurt.  
@@ -106,7 +115,7 @@ Le <strong>Psychopathe</strong> tue en plein jour.
 
 ---
 
-## 🎭 <span style="color:#d45b5b;">Comment Conter</span>
+##  <span style="color:#d45b5b;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Une fois par jour, avant d’annoncer l’ouverture des nominations,  
@@ -159,7 +168,7 @@ le <strong>Psychopathe</strong> peut choisir publiquement un joueur : ce joueur 
 
 ---
 
-## 🧩 <span style="color:#d45b5b;">Exemples</span>
+##  <span style="color:#d45b5b;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Le <strong>Psychopathe</strong> choisit de tuer le  
@@ -189,7 +198,7 @@ et le <strong>Psychopathe</strong> joue « ciseaux » : cette fois, le <strong>P
 
 ---
 
-## 💡 <span style="color:#d45b5b;">Astuces & Conseils</span>
+##  <span style="color:#d45b5b;">Astuces & Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -342,7 +351,7 @@ et le <strong>Psychopathe</strong> joue « ciseaux » : cette fois, le <strong>P
 
 ---
 
-## ⚔️ <span style="color:#d45b5b;">Combattre le Psychopathe</span>
+##  <span style="color:#d45b5b;">Combattre le Psychopathe</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -431,7 +440,7 @@ et le <strong>Psychopathe</strong> joue « ciseaux » : cette fois, le <strong>P
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  😈 <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Retour aux Sbires</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Sbires</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
