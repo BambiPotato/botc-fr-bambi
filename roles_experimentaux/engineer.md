@@ -36,19 +36,28 @@ title: Ingénieur
 
 ---
 
-## ℹ️ <span style="color:#4ea3ff;">Informations</span>
+##  <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong> 
     <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Engineer"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+   Engineer
+  </a>
+</li>
   <li><strong>Artiste :</strong> <em>John Grist</em></li>
   <li><strong>Révélé :</strong> 21 octobre 2021</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#4ea3ff;">Résumé</span>
+##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Une fois par partie, de nuit, vous choisissez quels Sbires ou quel Démon est en jeu. »</strong>
@@ -59,6 +68,31 @@ L’<strong>Ingénieur</strong> reconstruit l’équipe maléfique : une seule f
 quels <span style="color:#d45b5b; font-weight:bold;">Sbires</span> sont en jeu <em>ou</em> quel 
 <span style="color:#d45b5b; font-weight:bold;">Démon</span> est en jeu, mais pas les deux à la fois.
 </p>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>L’Ingénieur peut, <strong>une fois par partie</strong>, de nuit, choisir :
+    <ul>
+      <li>quels <span style="color:#d45b5b; font-weight:bold;">Sbires</span> sont en jeu, <strong>ou</strong></li>
+      <li>quel <span style="color:#d45b5b; font-weight:bold;">Démon</span> est en jeu.</li>
+    </ul>
+    Il ne peut pas choisir les deux dans la même utilisation.
+  </li>
+
+  <li>Quand l’Ingénieur crée de nouveaux rôles maléfiques, le joueur Démon reste Démon,  
+      les joueurs Sbires restent Sbires : seul leur <strong>rôle</strong> change, pas l’alignement ni la répartition.</li>
+
+  <li>Si l’Ingénieur choisit un rôle déjà en jeu (par exemple un Démon qui est déjà celui de la partie),  
+      rien ne change en pratique, et l’Ingénieur ne le sait pas : sa capacité est tout de même dépensée.</li>
+
+  <li>Si l’Ingénieur choisit les Sbires, il doit désigner autant de Sbires que le nombre prévu pour ce nombre de joueurs  
+      (comme indiqué par les aides de mise en place).</li>
+
+  <li>Si l’Ingénieur désigne trop ou pas assez de rôles maléfiques, la conteuse ajuste au mieux en changeant  
+      un nombre « raisonnable » de rôles maléfiques pour garder une partie jouable.</li>
+
+  <li>L’Ingénieur ne peut choisir que des rôles présents sur le script actuel.</li>
+</ul>
+
 
 ---
 
@@ -87,35 +121,7 @@ quels <span style="color:#d45b5b; font-weight:bold;">Sbires</span> sont en jeu <
 
 ---
 
-## ⚙️ <span style="color:#4ea3ff;">Détails</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>L’Ingénieur peut, <strong>une fois par partie</strong>, de nuit, choisir :
-    <ul>
-      <li>quels <span style="color:#d45b5b; font-weight:bold;">Sbires</span> sont en jeu, <strong>ou</strong></li>
-      <li>quel <span style="color:#d45b5b; font-weight:bold;">Démon</span> est en jeu.</li>
-    </ul>
-    Il ne peut pas choisir les deux dans la même utilisation.
-  </li>
-
-  <li>Quand l’Ingénieur crée de nouveaux rôles maléfiques, le joueur Démon reste Démon,  
-      les joueurs Sbires restent Sbires : seul leur <strong>rôle</strong> change, pas l’alignement ni la répartition.</li>
-
-  <li>Si l’Ingénieur choisit un rôle déjà en jeu (par exemple un Démon qui est déjà celui de la partie),  
-      rien ne change en pratique, et l’Ingénieur ne le sait pas : sa capacité est tout de même dépensée.</li>
-
-  <li>Si l’Ingénieur choisit les Sbires, il doit désigner autant de Sbires que le nombre prévu pour ce nombre de joueurs  
-      (comme indiqué par les aides de mise en place).</li>
-
-  <li>Si l’Ingénieur désigne trop ou pas assez de rôles maléfiques, la conteuse ajuste au mieux en changeant  
-      un nombre « raisonnable » de rôles maléfiques pour garder une partie jouable.</li>
-
-  <li>L’Ingénieur ne peut choisir que des rôles présents sur le script actuel.</li>
-</ul>
-
----
-
-## 🔁 <span style="color:#4ea3ff;">Interactions à connaître</span>
+##  <span style="color:#4ea3ff;">Interactions à connaître</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -209,7 +215,7 @@ quels <span style="color:#d45b5b; font-weight:bold;">Sbires</span> sont en jeu <
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
+##  <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Chaque nuit, réveillez l’Ingénieur.  
@@ -234,7 +240,7 @@ S’il choisit des rôles :
 
 ---
 
-## 🧩 <span style="color:#4ea3ff;">Exemples</span>
+##  <span style="color:#4ea3ff;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
@@ -284,7 +290,7 @@ La Sorcière devient alors Mezepheles.
 
 ---
 
-## 💡 <span style="color:#4ea3ff;">Astuces et Conseils</span>
+##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -366,7 +372,7 @@ La Sorcière devient alors Mezepheles.
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer Ingénieur</span>
+##  <span style="color:#4ea3ff;">Bluffer Ingénieur</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -431,7 +437,7 @@ La Sorcière devient alors Mezepheles.
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
