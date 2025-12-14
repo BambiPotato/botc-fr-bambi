@@ -91,7 +91,7 @@ Le sage ne sait rien de son vivant, mais apprend l'information la plus important
 
 - Faites-vous tuer par le Démon, c’est votre **objectif principal**.  Faites-le. Par tous les moyens, et le plus vite possible. 
 - Si le Démon vous tue, vous obtiendrez des informations précieuses, alors faites tout votre possible pour que cela arrive. 
-- Bluffer un rôle que le Démon voudrait tuer, comme une [Fleuriste](fleuriste.md) ou [Savant](savant.md)…).  
+- Bluffer un rôle que le Démon voudrait tuer, comme une [Fleuriste](fleuriste.md) ou un [Savant](savant.md).  
 - Restez discret pour éveiller la méfiance du Démon.  
 - Contrairement au [Gardien](../tb_roles/gardien.md),  
   vous êtes **plus utile tôt dans la partie** : plus il reste de jours,  
