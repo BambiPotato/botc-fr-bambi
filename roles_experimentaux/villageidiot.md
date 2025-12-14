@@ -28,7 +28,7 @@ title: Idiot du Village
   </a>
 </div>
 
-# 🃏 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Idiot du Village</span>
+#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Idiot du Village</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Les roses sont bleues, et les violettes sont rouges,
@@ -37,19 +37,28 @@ S’il vous plaît, inversez simplement ce que je viens de dire. »
 
 ---
 
-## ℹ️ <span style="color:#4ea3ff;">Informations</span>
+##  <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
     <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
   </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Village_Idiot"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Village Idiot
+  </a>
+</li>
   <li><strong>Artiste :</strong> <em>Chloe McDougall</em></li>
   <li><strong>Révélé :</strong> 25 janvier 2024</li>
 </ul>
 
 ---
 
-## 📖 <span style="color:#4ea3ff;">Résumé</span>
+##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Chaque nuit, vous choisissez un joueur ou une joueuse : vous apprenez son alignement. [+0 à +2 Idiots du Village. L’un des Idiots du Village supplémentaires est ivre.] »</strong>
@@ -59,31 +68,6 @@ S’il vous plaît, inversez simplement ce que je viens de dire. »
 Les <strong>Idiots du Village</strong> forment un groupe qui apprend l’alignement des joueurs et des joueuses.
 </p>
 
----
-
-## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>
-    <img src="../images/Icon_boffin.png" alt="Boffin" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/boffin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boffin</a> :  
-    S’il reste un jeton disponible, le Boffin peut donner au <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
-    la capacité d’<strong>Idiot du Village</strong>.
-  </li>
-
-  <li>
-    <img src="../images/Icon_pithag.png" alt="Pit-Hag" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a> :  
-    S’il reste un jeton disponible, la Pit-Hag peut créer un Idiot du Village supplémentaire.  
-    Dans ce cas, l’Idiot du Village ivre peut changer.
-  </li>
-
-</ul>
-
----
-
-## ⚙️ <span style="color:#4ea3ff;">Détails</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -114,7 +98,29 @@ Les <strong>Idiots du Village</strong> forment un groupe qui apprend l’alignem
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Comment Conter</span>
+## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+  <li>
+    <img src="../images/Icon_boffin.png" alt="Boffin" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/boffin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boffin</a> :  
+    S’il reste un jeton disponible, le Boffin peut donner au <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
+    la capacité d’<strong>Idiot du Village</strong>.
+  </li>
+
+  <li>
+    <img src="../images/Icon_pithag.png" alt="Pit-Hag" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a> :  
+    S’il reste un jeton disponible, la Pit-Hag peut créer un Idiot du Village supplémentaire.  
+    Dans ce cas, l’Idiot du Village ivre peut changer.
+  </li>
+
+</ul>
+
+---
+
+##  <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Pendant la mise en place, avant de mettre les jetons de rôle dans le sac,  
@@ -138,7 +144,7 @@ Chaque nuit, réveillez un Idiot du Village à la fois :
 
 ---
 
-## 🧩 <span style="color:#4ea3ff;">Exemples</span>
+##  <span style="color:#4ea3ff;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
@@ -162,7 +168,7 @@ Sarah prétend avoir choisi Céline et avoir appris qu’elle est maléfique.
 
 ---
 
-## 💡 <span style="color:#4ea3ff;">Astuces et Conseils</span>
+##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -213,7 +219,7 @@ Sarah prétend avoir choisi Céline et avoir appris qu’elle est maléfique.
 
 ---
 
-## 🎭 <span style="color:#4ea3ff;">Bluffer Idiot du Village</span>
+##  <span style="color:#4ea3ff;">Bluffer Idiot du Village</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -262,7 +268,7 @@ Sarah prétend avoir choisi Céline et avoir appris qu’elle est maléfique.
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  🎠 <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a><br>
-  👨‍🌾 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a>
+   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a><br>
+   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a>
 </p>
