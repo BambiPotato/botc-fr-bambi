@@ -27,6 +27,7 @@ title: Baron
 
 - **Type :** [<span style="color:red">**Sbires**</span>](../sbires.md)   
 - **Artiste :** Aidan Roberts  
+
 <li>
   <strong>Nom original :</strong>
   <a href="https://wiki.bloodontheclocktower.com/Baron"
@@ -36,7 +37,9 @@ title: Baron
     Baron
   </a>
 </li>
-> *"Cette ville est tombée bien bas, pas vrai ? Main-d'œuvre étrangère bon marché… voilà la clé. Fourrez-les dans la mine, je dis. Un peu de travail dur n'a jamais fait de mal à personne, et une claque derrière les oreilles à tout brigand qui prétend le contraire. Tout est une question de profit, pas vrai ?"*
+> "Cette ville est tombée bien bas, pas vrai ? Main-d'œuvre étrangère bon marché… voilà la clé. Fourrez-les dans la mine, je dis.
+Un peu de travail dur n'a jamais fait de mal à personne, et une claque derrière les oreilles à tout brigand qui prétend le contraire. 
+Tout est une question de profit, pas vrai ?"
 
 ---
 
