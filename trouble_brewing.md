@@ -34,7 +34,7 @@ title: Trouble Brewing
   </p>
 
   <!-- Villageois -->
-  <p style="font-weight:bold; color:#b58b52; margin-bottom:4px;">Villageois</p>
+  <p style="font-weight:bold; color:#80aee0; margin-bottom:4px;">Villageois</p>
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
     <li><a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; text-decoration:none;">Lavandière</a></li>
     <li><a href="./tb_roles/bibliothecaire.html" style="color:#4ea3ff; text-decoration:none;">Bibliothécaire</a></li>
@@ -52,7 +52,7 @@ title: Trouble Brewing
   </ul>
 
   <!-- Étrangers -->
-  <p style="font-weight:bold; color:#b58b52; margin-bottom:4px;">Étrangers</p>
+  <p style="font-weight:bold; color:#80aee0; margin-bottom:4px;">Étrangers</p>
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
     <li><a href="./tb_roles/majordome.html" style="color:#4ea3ff; text-decoration:none;">Majordome</a></li>
     <li><a href="./tb_roles/ivrogne.html" style="color:#4ea3ff; text-decoration:none;">Ivrogne</a></li>
