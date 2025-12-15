@@ -39,7 +39,7 @@ title: Trouble Brewing
   line-height:1.6;
 ">
   <p style="font-weight:bold; color:#b58b52; margin-top:0; margin-bottom:8px;">
-    Liste des rôles dans Trouble Brewing
+    Les Rôles de Trouble Brewing
   </p>
 
   <!-- Villageois -->
