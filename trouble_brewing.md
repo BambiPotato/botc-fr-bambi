@@ -12,7 +12,7 @@ title: Trouble Brewing
 <!--  Logo centré cliquable -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./trouble_brewing.html" style="text-decoration:none;">
-    <img src="./images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400" style="border-radius:12px;">
+    <img src="./images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="300" style="border-radius:12px;">
     <br>
     <span style="color:#b58b52; font-weight:bold; font-size:22px;">Trouble Brewing</span>
   </a>
