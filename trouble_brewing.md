@@ -18,6 +18,15 @@ title: Trouble Brewing
   </a>
 </div>
 
+
+<style>
+@media (max-width: 768px) {
+  div[style*="margin:-500px"] {
+    margin-top: 0 !important;
+  }
+}
+</style>
+
 <!-- LISTE DES RÔLES À DROITE, JUSTE SOUS LE LOGO -->
 <div style="
   float:right;
