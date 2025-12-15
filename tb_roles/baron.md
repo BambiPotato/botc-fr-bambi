@@ -28,7 +28,7 @@ title: Baron
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
     <strong>Type :</strong>
-    <a href="../sbires.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+    <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">
       Sbires
     </a>
   </li>
