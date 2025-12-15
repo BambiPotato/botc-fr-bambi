@@ -24,14 +24,7 @@ title: Enquêteur
   </a>
 </div>
 
-
-
-##  <span style="color:blue">Information</span>  
-
-- **Type :** [<span style="color:blue">Villageois</span>](../villageois.md)  
-- **Illustrateur :** Aidan Roberts  
-- *« Une belle nuit pour une promenade, n’est-ce pas, Monsieur Morozov ? Ou devrais-je dire… **BARON** Morozov ? »*  
-
+---
 
 ##  Apparaît dans  
 
@@ -55,7 +48,38 @@ title: Enquêteur
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
 "Cult of the Clocktower – épisode par Andrew Nathenson"
 </p>
+---
+ 
+##  <span style="color:blue">Informations</span>
 
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+      Villageois
+    </a>
+  </li>
+
+  <li>
+    <strong>Artiste :</strong> Aidan Roberts
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Investigator"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Investigator
+    </a>
+  </li>
+</ul>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
+«  Une belle nuit pour une promenade, n’est-ce pas, Monsieur Morozov ? Ou devrais-je dire… **BARON** Morozov ? »
+</p>   
+
+---
 ##  <span style="color:blue">Résumé</span>
 « Vous commencez en apprenant 2 joueurs et le rôle de [<span style="color:red">Sbire</span>](../sbires.md) de l’un des deux.» 
 L’**Enquêteur** apprend qu’un rôle de Sbire particulier est en jeu, mais pas lequel des deux joueurs le possède.  
@@ -147,7 +171,7 @@ Il ne reçoit cette information qu’une seule fois, au début de la partie.
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
   <li> <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li> <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a></li>
+  <li> <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
 </ul>
 
 
