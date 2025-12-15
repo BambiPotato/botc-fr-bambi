@@ -20,13 +20,15 @@ title: Trouble Brewing
 
 
 <style>
-@media (max-width: 2000px) {
-  div[style*="margin:-500px"] { margin-top: 0 !important; }
+@media (max-width: 768px) {
+  #liste-roles {
+    margin-top: 0 !important;   /* ou -40px si tu veux encore un léger remonté */
+  }
 }
 </style>
 
 <!-- LISTE DES RÔLES À DROITE, JUSTE SOUS LE LOGO -->
-<div style="
+<div id="liste-roles" style="
   float:right;
   width:230px;
   margin:-520px 0 10px 20px; /* ← on remonte de 25px */
