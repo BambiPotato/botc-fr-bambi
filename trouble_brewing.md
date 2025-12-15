@@ -22,7 +22,7 @@ title: Trouble Brewing
 <div style="
   float:right;
   width:230px;
-  margin:-25px 0 10px 20px;  /* ← on remonte de 25px */
+  margin:-45px 0 10px 20px; /* ← on remonte de 25px */
   padding:8px 8px 8px 12px;
   border-left:1px solid #b58b52;
   background:rgba(0,0,0,0.25);
@@ -61,7 +61,7 @@ title: Trouble Brewing
   </ul>
 
   <!-- Sbires -->
-  <p style="font-weight:bold; color:#b58b52; margin-bottom:4px;">Sbires</p>
+  <p style="font-weight:bold; color:#a86464; margin-bottom:4px;">Sbires</p>
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
     <li><a href="./tb_roles/empoisonneur.html" style="color:#d45b5b; text-decoration:none;">Empoisonneur</a></li>
     <li><a href="./tb_roles/espion.html" style="color:#d45b5b; text-decoration:none;">Espion</a></li>
@@ -70,7 +70,7 @@ title: Trouble Brewing
   </ul>
 
   <!-- Démon -->
-  <p style="font-weight:bold; color:#b58b52; margin-bottom:4px;">Démon</p>
+  <p style="font-weight:bold; color:#a86464; margin-bottom:4px;">Démon</p>
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:6px;">
     <li><a href="./tb_roles/imp.html" style="color:#d45b5b; text-decoration:none;">Imp</a></li>
   </ul>
