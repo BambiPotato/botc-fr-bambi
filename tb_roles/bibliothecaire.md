@@ -25,14 +25,39 @@ title: Bibliothécaire
 </div>
 
 
-
 ---
 
-##  <span style="color:blue">Information</span>    
+##  <span style="color:red">Informations</span>
 
-- **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)
-- **Artiste :** Aidan Roberts  
-- *« Bien sûr madame, dans des circonstances normales, vous pourriez emprunter le *Codex Malificarium* dans les archives de la bibliothèque. Mais… il semble que vous ne soyez pas membre. »*  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../villageois.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+      Sbires
+    </a>
+  </li>
+
+  <li>
+    <strong>Artiste :</strong> Aidan Roberts
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Librarian"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Librarian
+    </a>
+  </li>
+</ul>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
+« Bien sûr madame, dans des circonstances normales, 
+  vous pourriez emprunter le *Codex Malificarium* dans les archives de la bibliothèque. 
+  Mais… il semble que vous ne soyez pas membre. »
+</p>
+
 
 ##  Apparaît dans  
 
