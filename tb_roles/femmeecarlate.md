@@ -26,12 +26,6 @@ title: Femme Écarlate
 
 ---
 
-##  <span style="color:red">Informations</span>    
-
-- **Type :** [<span style="color:red">**Sbire**</span>](../sbires.md)  
-- **Artiste :** Marianna Carr  
-- *« Tu m’as révélé les secrets du Conseil de la Flamme Pourpre. Nous avons brûlé ensemble dans le feu, dans le désir et dans la communion bestiale, et je t’ai servi pour toujours. Mais ce soir, mon cher, c’est moi ta maîtresse. »*  
-
 
 ##  Apparaît dans  
 
@@ -54,6 +48,41 @@ title: Femme Écarlate
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
 "Cult of the Clocktower – épisode par Andrew Nathenson"
 </p>
+
+---
+##  <span style="color:#d45b5b">Informations</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+      Sbires
+    </a>
+  </li>
+
+  <li>
+    <strong>Artiste :</strong> Marianna Carr  
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Scarlet_Woman"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+    Scarlet Woman
+    </a>
+  </li>
+</ul>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
+« Tu m’as révélé les secrets du Conseil de la Flamme Pourpre. 
+  Nous avons brûlé ensemble dans le feu, dans le désir et dans la communion bestiale, 
+  et je t’ai servi pour toujours. 
+  Mais ce soir, mon cher, c’est moi ta maîtresse.  »
+</p>
+
+
 
 ---
 
@@ -171,6 +200,6 @@ Si le <span style="color:red">Démon</span> meurt alors qu’il reste plus de 5 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
   <li> <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li> <a href="../sbires.html" style="color:red; font-weight:bold; text-decoration:none;">Retour aux Sbires</a></li>
+  <li> <a href="../sbires.html" style="color:red; font-weight:bold; text-decoration:none;">Catégorie : Sbires</a></li>
 </ul>
 
