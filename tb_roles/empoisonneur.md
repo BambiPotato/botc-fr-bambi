@@ -26,14 +26,6 @@ title: Empoisonneur
 
 ---
 
- 
-##  <span style="color:red">Informations</span>   
-
-- **Type :** [<span style="color:red">**Sbire**</span>](../sbires.md)  
-- **Artiste :** Aidan Roberts  
-- *« Ajoutez le composé Alpha au composé Beta... PAS TROP ! »*  
-
-
 ##  Apparaît dans  
 
 #  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
@@ -53,7 +45,41 @@ title: Empoisonneur
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
 "Cult of the Clocktower – épisode par Andrew Nathenson"
-</p> 
+</p>
+
+---
+
+##  <span style="color:#d45b5b">Informations</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../sbires.html" style="color:##d45b5b; font-weight:bold; text-decoration:none;">
+      Sbires
+    </a>
+  </li>
+
+  <li>
+    <strong>Artiste :</strong> Aidan Roberts
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Poisoner"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+    Poisoner
+    </a>
+  </li>
+</ul>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
+« Ajoutez le composé Alpha au composé Beta... PAS TROP !  »
+</p>   
+
+
+---
 
 ##  <span style="color:red">Résumé</span>     
 
