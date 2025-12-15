@@ -20,10 +20,8 @@ title: Trouble Brewing
 
 
 <style>
-@media (max-width: 768px) {
-  div[style*="margin:-500px"] {
-    margin-top: 0 !important;
-  }
+@media (max-width: 2000px) {
+  div[style*="margin:-500px"] { margin-top: 0 !important; }
 }
 </style>
 
@@ -31,7 +29,7 @@ title: Trouble Brewing
 <div style="
   float:right;
   width:230px;
-  margin:-600px 0 10px 20px; /* ← on remonte de 25px */
+  margin:-500px 0 10px 20px; /* ← on remonte de 25px */
   padding:8px 8px 8px 12px;
   border-left:1px solid #b58b52;
   background:rgba(0,0,0,0.25);
