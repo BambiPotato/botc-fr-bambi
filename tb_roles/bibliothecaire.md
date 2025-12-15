@@ -33,7 +33,7 @@ title: Bibliothécaire
   <li>
     <strong>Type :</strong>
     <a href="../villageois.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
-      Sbires
+      Villageois
     </a>
   </li>
 
