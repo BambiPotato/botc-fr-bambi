@@ -22,7 +22,7 @@ title: Trouble Brewing
 <div style="
   float:right;
   width:230px;
-  margin:-45px 0 10px 20px; /* ← on remonte de 25px */
+  margin:-60px 0 10px 20px; /* ← on remonte de 25px */
   padding:8px 8px 8px 12px;
   border-left:1px solid #b58b52;
   background:rgba(0,0,0,0.25);
