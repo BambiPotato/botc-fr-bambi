@@ -22,21 +22,39 @@ title: Croque-Mort
 </div>
 
 
+
 ---
 
-##  <span style="color:blue;">Informations</span>  
+##  <span style="color:blue">Informations</span>
 
-**Type :** [<span style="color:blue;">**Villageois**</span>](../villageois.md)  
-**Artiste :** Aidan Roberts  
-*"Hmmm… voyons voir ? La botte gauche est usée jusqu’au talon, avec des éclats de silex sous la semelle. C’est l’équipement d’un militaire."*  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+      Villageois
+    </a>
+  </li>
 
-##  Apparaît dans  
+  <li>
+    <strong>Artiste :</strong> Aidan Roberts
+  </li>
 
-#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Undertaker"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Undertaker
+    </a>
+  </li>
+</ul>
 
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
-</p>
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
+« "Hmmm… voyons voir ? La botte gauche est usée jusqu’au talon, avec des éclats de silex sous la semelle. 
+  C’est l’équipement d’un militaire." »
+</p>   
+
 
 ---
 
