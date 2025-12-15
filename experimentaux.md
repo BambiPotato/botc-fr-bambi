@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EXPERIMENTAUX
+title: Expérimentaux 
 ---
 
 <p align="left">
@@ -47,7 +47,7 @@ Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent l
 
 <!-- SOMMAIRE NUMÉROTÉ -->
 <h2 style="color:#d4a76a; font-weight:800; font-size:18px; text-align:left; margin-top:18px;"> Sommaire</h2>
-<ol style="color:#f5f5f5; font-size:18px; line-height:1.7; padding-left:14px; margin-top:6px;">
+<ol style="color:#d4a76a; font-size:18px; line-height:1.7; padding-left:14px; margin-top:6px;">
   <li><a href="#1-synopsis" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Synopsis</a></li>
   <li><a href="#2-gameplay" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Gameplay</a></li>
   <li><a href="#3-villageois" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Villageois</a></li>
