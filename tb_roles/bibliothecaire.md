@@ -32,7 +32,7 @@ title: Bibliothécaire
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
     <strong>Type :</strong>
-    <a href="../villageois.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
       Villageois
     </a>
   </li>
