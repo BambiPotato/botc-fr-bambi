@@ -23,12 +23,6 @@ title: Cuistot
 
 ---
 
-##  <span style="color:blue">Informations</span>   
-
-**Type :** [<span style="color:blue">Villageois</span>](../villageois.md)   
-**Artiste :** Aidan Roberts  
-*"Les réservations de ce soir semblent étranges. Jamais Madame Mayweather n’avait fréquenté ce vaurien de Hudson Lane. Et pourtant, ce soir, ils ont une table pour deux. Étrange."*
-
 
 ##  Apparaît dans  
 
@@ -37,6 +31,38 @@ title: Cuistot
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
 </p>
+
+---
+##  <span style="color:blue">Informations</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+      Villageois
+    </a>
+  </li>
+
+  <li>
+    <strong>Artiste :</strong> Aidan Roberts
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Chef"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Chef
+    </a>
+  </li>
+</ul>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
+« Les réservations de ce soir semblent étranges. 
+  Jamais Madame Mayweather n’avait fréquenté ce vaurien de Hudson Lane. 
+  Et pourtant, ce soir, ils ont une table pour deux. Étrange. »
+</p>   
 
 ---
 
