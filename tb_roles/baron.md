@@ -25,21 +25,35 @@ title: Baron
 
 ##  <span style="color:red">Informations</span>
 
-- **Type :** [<span style="color:red">**Sbires**</span>](../sbires.md)   
-- **Artiste :** Aidan Roberts  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../sbires.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+      Sbires
+    </a>
+  </li>
 
-<li>
-  <strong>Nom original :</strong>
-  <a href="https://wiki.bloodontheclocktower.com/Baron"
-     target="_blank"
-     rel="noopener noreferrer"
-     style="color:#d45b5b; font-weight:bold; text-decoration:none;">
-    Baron
-  </a>
-</li>
-> "Cette ville est tombée bien bas, pas vrai ? Main-d'œuvre étrangère bon marché… voilà la clé. Fourrez-les dans la mine, je dis.
-Un peu de travail dur n'a jamais fait de mal à personne, et une claque derrière les oreilles à tout brigand qui prétend le contraire. 
-Tout est une question de profit, pas vrai ?"
+  <li>
+    <strong>Artiste :</strong> Aidan Roberts
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Baron"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+      Baron
+    </a>
+  </li>
+</ul>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
+« Cette ville est tombée bien bas, pas vrai ? Main-d'œuvre étrangère bon marché… voilà la clé.
+Fourrez-les dans la mine, je dis. Un peu de travail dur n'a jamais fait de mal à personne,
+et une claque derrière les oreilles à tout brigand qui prétend le contraire.
+Tout est une question de profit, pas vrai ? »
+</p>
 
 ---
 
