@@ -22,12 +22,6 @@ title: Espion
 </div>
 
 
-##  <span style="color:red">Informations</span>
-
-- **Type :** [Sbire](../sbires.md) 
-- **Artiste :** Marianna Carr  
-- *« Tout maître brasseur digne de ce nom sait qu’aucune concoction ne crée plus vite des problèmes que celle où les espions semblent doubles. »*
-
 ---
 
 ##  Apparaît dans  
@@ -51,6 +45,37 @@ title: Espion
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
 "Cult of the Clocktower – épisode par Andrew Nathenson"
 </p>
+
+---
+##  <span style="color:#d45b5b">Informations</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+      Sbires
+    </a>
+  </li>
+
+  <li>
+    <strong>Artiste :</strong> Marianna Carr 
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Spy"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+   Spy
+    </a>
+  </li>
+</ul>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
+« Tout maître brasseur digne de ce nom sait qu’aucune concoction ne crée plus vite des problèmes que celle où les espions semblent doubles »
+</p>
+
 
 ---
 
@@ -176,6 +201,6 @@ title: Espion
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
   <li> <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li> <a href="../sbires.html" style="color:red; font-weight:bold; text-decoration:none;">Retour aux Sbires</a></li>
+  <li> <a href="../sbires.html" style="color:red; font-weight:bold; text-decoration:none;">Catégorie : Sbires</a></li>
 </ul>
 
