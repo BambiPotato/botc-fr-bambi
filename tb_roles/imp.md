@@ -55,9 +55,6 @@ title: Imp
   <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
 </h2>
 
-<p style="color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
-</p>
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../trouble_brewing.html" style="text-decoration:none;">
@@ -67,7 +64,7 @@ title: Imp
   </a>
 </div>
 
-<p style="color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   Cult of the Clocktower – épisode par Andrew Nathenson
 </p>
 
