@@ -303,6 +303,7 @@ title: Ivrogne
   </li>
 </ul>
 
+---
 
 ## 🧞 <span style="color:#d4a76a">Jinxes liés</span>
 
