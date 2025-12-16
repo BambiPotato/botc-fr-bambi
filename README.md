@@ -653,14 +653,14 @@ table.roles-grid td{
     <li>
       <a href="https://bloodontheclocktower.com/" target="_blank"
          style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-         Blood on the Clocktower – Site officiel
+         Site Officiel Blood on the Clocktower 
       </a>
     </li>
 
     <li>
       <a href="https://discord.gg/eD4zvq6RvB" target="_blank"
          style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-         Discord – Blood on the Clocktower Unofficial
+         Discord Blood on the Clocktower Unofficial
       </a>
     </li>
 
@@ -668,35 +668,35 @@ table.roles-grid td{
     <li>
       <a href="https://botc.app/" target="_blank"
          style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-         Application - Pour jouer en ligne 
+         Application Pour jouer en ligne 
       </a>
     </li>
 
     <li>
       <a href="https://wiki.bloodontheclocktower.com/Main_Page" target="_blank"
          style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-         Wiki officiel – The Pandemonium Institute
+         Wiki officiel The Pandemonium Institute
       </a>
     </li>
 
     <li>
       <a href="https://www.botcscripts.com" target="_blank"
          style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-         Scripts BotC - Librairie de scripts 
+         La librairie des scripts BotC
       </a>
     </li>
 
     <li>
       <a href="https://script.bloodontheclocktower.com/" target="_blank"
          style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-         Créer - Outil officiel de création de scripts
+         Outil officiel de création de scripts
       </a>
     </li>
 
     <li>
       <a href="https://savant.thegrim.gg/" target="_blank"
          style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-         Savant - Générateur d’informations pour le Savant
+         Générateur d’informations pour le rôle du Savant
       </a>
     </li>
 
@@ -704,7 +704,7 @@ table.roles-grid td{
     <li>
       <a href="https://www.youtube.com/@BloodontheClocktower" target="_blank"
          style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-         YouTube – Blood on the Clocktower 
+         YouTube  
       </a>
     </li>
 
@@ -712,7 +712,7 @@ table.roles-grid td{
     <li>
       <a href="https://www.twitch.tv/thepandemoniuminstitute" target="_blank"
          style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-        Twitch – The Pandemonium Institute
+        Twitch The Pandemonium Institute
       </a>
     </li>
 
@@ -720,7 +720,7 @@ table.roles-grid td{
     <li>
       <a href="https://www.instagram.com/stories/bloodontheclocktower/" target="_blank"
          style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-         Instagram – Blood on the Clocktower
+         Instagram 
       </a>
     </li>
 
@@ -728,7 +728,7 @@ table.roles-grid td{
     <li>
       <a href="https://www.patreon.com/c/botconline/posts" target="_blank"
          style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-         Patreon – Soutenir Blood on the Clocktower
+         Patreon pour soutenir Blood on the Clocktower
       </a>
     </li>
 
@@ -769,7 +769,7 @@ table.roles-grid td{
      <span style="color:#d4a76a; font-weight:bold;">Blood on the Clocktower en français</span> est édité par Open Sesame Games.
   </p>
 
-  <ul style="list-style:none; padding-left:0; font-size:19px; color:#e0c99d;">
+  <ul style="list-style:none; padding-left:0; font-size:16px; color:#e0c99d;">
 
     <li>
       <a href="https://open-sesame.games" target="_blank"
@@ -781,21 +781,21 @@ table.roles-grid td{
     <li>
       <a href="https://discord.gg/7jM7F9bZGf" target="_blank"
          style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-         Discord Open Sesame Games
+         Discord 
       </a>
     </li>
 
     <li>
       <a href="https://www.youtube.com/@opensesamegames1793" target="_blank"
          style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-         YouTube Open Sesame Games
+         YouTube 
       </a>
     </li>
 
     <li>
       <a href="https://www.instagram.com/opensesamegames/" target="_blank"
          style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-         Instagram Open Sesame Games
+         Instagram 
       </a>
     </li>
 
@@ -867,18 +867,18 @@ table.roles-grid td{
     Jouer en personne ou en ligne&nbsp;?
   </h2>
 
-  <p style="font-size:18px; color:#e0c99d;">
+  <p style="font-size:16px; color:#e0c99d;">
     Que vous découvriez <em>Blood on the Clocktower</em> autour d’une table ou à distance,  
     ce wiki est là pour vous aider à créer des parties passionnantes, accessibles et équilibrées.
   </p>
 
-  <p style="font-size:18px; color:#e0c99d;">
+  <p style="font-size:16px; color:#e0c99d;">
     Chaque communauté, qu’elle soit locale ou en ligne, est encouragée à jouer dans un
     <span style="color:#d4a76a; font-weight:bold;">cadre bienveillant, respectueux et sain</span>,  
     où l’amusement, la confiance et l’inclusivité passent toujours avant la compétition.
   </p>
 
-  <p style="font-size:18px; color:#e0c99d;">
+  <p style="font-size:16px; color:#e0c99d;">
     Si vous souhaitez jouer en personne, dans un <span style="color:#d4a76a; font-weight:bold;">cadre bienveillant</span>,  
     plusieurs groupes francophones organisent régulièrement des parties :
   </p>
