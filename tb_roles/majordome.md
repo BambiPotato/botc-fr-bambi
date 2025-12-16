@@ -4,6 +4,7 @@
   </a>
 </p>
 
+
 #   <span style="color:blue">Majordome</span>  
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
@@ -15,16 +16,39 @@
   </a>
 </div>
 
+--
+
+##  <span style="color:blue">Informations</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+     Étrangers
+    </a>
+  </li>
+
+  <li>
+    <strong>Artiste :</strong> Aidan Roberts
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Butler"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Butler
+    </a>
+  </li>
+</ul>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
+« "Oui, monsieur... Non, monsieur... Certainement, monsieur." »
+</p> 
+
 ---
 
-##  <span style="color:blue">Informations</span>  
-
-- **Type :** [Étrangers](../etrangers.md)  
-- **Artiste :** Aidan Roberts  
-
-*"Oui, monsieur... Non, monsieur... Certainement, monsieur."*
-
----
 
 ##  Apparaît dans  
 
@@ -91,7 +115,7 @@ Le Majordome ne peut voter que si son **Maître** vote.
 ##  <span style="color:blue">Bluffer Majordome</span>
 
 - Vous vous réveilleriez **chaque nuit, y compris la première**, pour choisir un joueur.  
-- Le Majordome est rarement soupçonné → bluff parfait aussi bien pour les Bons que pour les Méchants.  
+- Le Majordome est rarement soupçonné, c'est un bluff parfait aussi bien pour les Bons que pour les Maléfiques.  
 - Vous pouvez changer de Maître chaque jour ou rester fidèle pour bâtir une relation de confiance.  
 - Associer votre vote à un autre Sbire ou au Démon peut être une excuse pour chuchoter ensemble.  
 - Vous pouvez surprendre en « trahissant » au moment décisif, puisque personne ne vérifie vos contraintes de vote.  
