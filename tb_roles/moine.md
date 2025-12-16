@@ -48,8 +48,7 @@
   Viens, mon frère, t'abriter à l'abbaye pendant que la tempête fait rage. 
   Par ma parole, ou par ma vie, tu seras en sécurité. »
 </p> 
-
---- 
+ 
 
 ##  Apparaît dans  
 
