@@ -62,9 +62,6 @@ Tout est une question de profit, pas vrai ? »
 
 #  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
 
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
-</p>
 
 ---
 
@@ -80,6 +77,9 @@ Tout est une question de profit, pas vrai ? »
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
 "Cult of the Clocktower – épisode par Andrew Nathenson"
 </p>
+
+
+---
 
 ##  <span style="color:red">Résumé</span>
 
