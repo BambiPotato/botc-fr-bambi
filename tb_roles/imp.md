@@ -191,9 +191,9 @@ title: Imp
     mais survivre est plus important.<br>
     Vous pouvez aussi le faire même sans suspicion :<br>
     les joueurs font souvent plus confiance à ceux qui meurent la nuit.<br>
-    Dans tous les cas, si vous mourez la nuit, donner une information fausse au Bien le lendemain,<br>
+    Dans tous les cas, si vous mourez la nuit, donner une information fausse au Camp du Bien le lendemain,<br>
     comme prétendre être le<br>
-    <a href="./gardiendestombes.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien des Tombes</a>,<br>
+    <a href="./gardiend.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a>,<br>
     peut changer le cours de la partie.
   </li>
   <li>
@@ -248,7 +248,7 @@ title: Imp
     Envoyez vos <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> en missions de collecte d’informations.<br>
     Apprenez qui est qui.<br>
     Cela vous aide à éviter d’attaquer des rôles problématiques comme le<br>
-    <a href="./gardiendestombes.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien des Tombes</a><br>
+    <a href="./gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a><br>
     ou le<br>
     <a href="./soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a>,<br>
     et les problèmes qui suivent.
@@ -392,7 +392,7 @@ title: Imp
         <a href="./soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a> ou<br>
         <a href="./moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a>.<br>
         Les joueurs font très souvent confiance à un<br>
-        <a href="./soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a><br>
+        <a href="./soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a><br>,
         s’il n’y a pas eu de mort, ce qui en fait un excellent candidat pour reprendre le rôle de <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> plus tard.
       </li>
     </ul>
