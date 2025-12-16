@@ -146,7 +146,7 @@ le jour final, vous courez le même risque que tous les autres (car s'ils n'exé
 de 
 <span style="color:#4ea3ff; font-weight:bold;">[Empathe](empathe.md)</span> 
 et du 
-<span style="color:#4ea3ff; font-weight:bold;">[Gardien](gardien)</span> 
+<span style="color:#4ea3ff; font-weight:bold;">[Gardien](gardien)</span>. 
 — L'Équipe du Bien peut malgré tout hésiter à vous exécuter avant le dernier jour. 
  - D’ici là, vous aurez déjà causé tous les dégâts nécessaires. 
  - Vous pourrez alors soit être exécuté et faire gagner l’équipe Maléfique, soit,
