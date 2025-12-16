@@ -9,9 +9,6 @@ title: Ivrogne
   </a>
 </p>
 
-<h1 style="text-align:center; margin-top:10px;">
-  <span style="color:#4ea3ff; font-weight:bold;">Ivrogne</span>
-</h1>
 
 <!-- Image centrée cliquable + nom -->
 <div style="text-align:center; margin: 20px 0;">
