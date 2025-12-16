@@ -16,18 +16,44 @@
 </div>
 
 
+---
+
 
 ##  <span style="color:blue">Informations</span>
 
-- **Type :** [Étranger](../etrangers.md)  
-- **Artiste :** Aidan Roberts  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+      Étrangers
+    </a>
+  </li>
 
-*« Retirez vos sales paluches de chez moi, vous m’entendez ? 
+  <li>
+    <strong>Artiste :</strong> Aidan Roberts
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Recluse"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Recluse
+    </a>
+  </li>
+</ul>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
+« Retirez vos sales paluches de chez moi, vous m’entendez ? 
 Grr. Y’a de mauvais coins là-bas, vers le sud… 
-Filez donc ! Chez les miens, on n’affronte pas les démons à découvert. Ouste ! »*
+Filez donc ! Chez les miens, on n’affronte pas les démons à découvert. Ouste ! »
+</p> 
+
 
 
 ---
+
 
 ##  Apparaît dans  
 
