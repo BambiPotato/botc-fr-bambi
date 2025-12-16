@@ -39,11 +39,7 @@ title: Ivrogne
        rel="noopener noreferrer"
        style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Drunk</a>
   </li>
-</ul>
 
-<p style="color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  "Cult of the Clocktower – épisode par Andrew Nathenson"
-</p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic; margin-left:20px; margin-right:20px;">
   « Je ne suis qu’un buveur social, ma chère. Certes, je suis un grand… <em>*hic*</em>… sociabilisateur. »
@@ -59,9 +55,12 @@ title: Ivrogne
   <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
 </h2>
 
+</ul>
+
 <p style="color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
+  "Cult of the Clocktower – épisode par Andrew Nathenson"
 </p>
+
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../trouble_brewing.html" style="text-decoration:none;">
