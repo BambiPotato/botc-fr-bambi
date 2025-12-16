@@ -9,7 +9,6 @@ title: Imp
   </a>
 </p>
 
-
 <!-- Image centrée cliquable + nom -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./imp.html" style="text-decoration:none;">
@@ -21,7 +20,7 @@ title: Imp
 
 <hr>
 
-<h2 style="text-align:center; margin-top:10px;">
+<h2 style="margin-top:10px;">
   <span style="color:#d45b5b; font-weight:bold;">Informations</span>
 </h2>
 
@@ -48,19 +47,19 @@ title: Imp
 
 <hr>
 
-<h2 style="text-align:center; margin-top:10px;">
+<h2 style="margin-top:10px;">
   <span style="color:#b58b52; font-weight:bold;">Apparaît dans</span>
 </h2>
 
-<h2 style="text-align:center; margin-top:10px;">
+<h2 style="margin-top:10px;">
   <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
 </h2>
 
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+<p style="color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
 </p>
 
-<div style="text-align:center; margin: 20px 0;">
+<div style="text-align:left; margin: 20px 0;">
   <a href="../trouble_brewing.html" style="text-decoration:none;">
     <img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400" style="border-radius:12px;">
     <br>
@@ -68,13 +67,13 @@ title: Imp
   </a>
 </div>
 
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+<p style="color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
   "Cult of the Clocktower – épisode par Andrew Nathenson"
 </p>
 
 <hr>
 
-<h2 style="text-align:center; margin-top:10px;">
+<h2 style="margin-top:10px;">
   <span style="color:#d45b5b; font-weight:bold;">Résumé</span>
 </h2>
 
@@ -107,7 +106,7 @@ title: Imp
 
 <hr>
 
-<h2 style="text-align:center; margin-top:10px;">
+<h2 style="margin-top:10px;">
   <span style="color:#d45b5b; font-weight:bold;">Comment Conter</span>
 </h2>
 
@@ -137,7 +136,7 @@ title: Imp
 
 <hr>
 
-<h2 style="text-align:center; margin-top:10px;">
+<h2 style="margin-top:10px;">
   <span style="color:#d45b5b; font-weight:bold;">Exemples</span>
 </h2>
 
@@ -166,7 +165,7 @@ title: Imp
 
 <hr>
 
-<h2 style="text-align:center; margin-top:10px;">
+<h2 style="margin-top:10px;">
   <span style="color:#d45b5b; font-weight:bold;">Astuces &amp; Conseils</span>
 </h2>
 
@@ -273,7 +272,7 @@ title: Imp
 
 <hr>
 
-<h2 style="text-align:center; margin-top:10px;">
+<h2 style="margin-top:10px;">
   <span style="color:#d45b5b; font-weight:bold;">Combattre l’Imp</span>
 </h2>
 
