@@ -106,20 +106,20 @@ La **Voyante** détecte si un joueur est le [<span style="color:red">Démon</spa
 
 ##  <span style="color:blue">Comment Conter</span>
 
-Lors de la préparation de la première nuit :	
-Placez le jeton de rappel **"Leurre"** de la Voyante à côté du jeton de rôle d’un Villageois ou d’un Étranger.
-	•	Chaque nuit :
-	•	Réveillez la Voyante.
-	•	Elle choisit deux joueurs (vivants, morts ou elle-même).
-	•	Si au moins l’un des deux est :
-• le Démon, ou
-• le Leurre,
+- Lors de la préparation de la première nuit :	
+- Placez le jeton de rappel **"Leurre"** de la Voyante à côté du jeton de rôle d’un Villageois ou d’un Étranger.
+	-	Chaque nuit :
+	-	Réveillez la Voyante.
+	-	Elle choisit deux joueurs (vivants, morts ou elle-même).
+	-	Si au moins l’un des deux est :
+- le Démon, ou
+- le Leurre,
 alors hochez la tête pour indiquer oui.
-	•	Sinon, secouez la tête pour indiquer non.
-	•	Rendormez la Voyante.
+	-	Sinon, secouez la tête pour indiquer non.
+	-	Rendormez la Voyante.
 
 
- *Lors des parties à 5 ou 6 joueurs **TeensyVille**, il est parfois conseillé de faire de la Voyante son propre Leurre
+ - *Lors des parties à 5 ou 6 joueurs **TeensyVille**, il est parfois conseillé de faire de la Voyante son propre Leurre
 car cela lui permet d'obtenir davantage d'informations.*  
 
 ---
@@ -143,8 +143,8 @@ car cela lui permet d'obtenir davantage d'informations.*
 
 - Si vous avez une paire de joueurs pour laquelle vous avez obtenu un « oui »,
 et une autre paire pour laquelle vous avez obtenu un « non », essayez de choisir un joueur dans chaque paire.
-	•	Si vous obtenez à nouveau un « oui », alors le joueur sur lequel vous avez eu un « oui » les deux fois est celui que votre capacité détecte.
-	•	Sinon, c’est le joueur de la paire initiale avec « oui » que vous n’avez pas choisi cette fois-ci qu’il faut surveiller.
+  -	Si vous obtenez à nouveau un « oui », alors le joueur sur lequel vous avez eu un « oui » les deux fois est celui que votre capacité détecte.
+  - Sinon, c’est le joueur de la paire initiale avec « oui » que vous n’avez pas choisi cette fois-ci qu’il faut surveiller.
 
 - Si vous avez obtenu un « oui » sur des joueurs que vous soupçonnez, 
 confirmer lequel d’entre eux déclenche réellement votre capacité peut vous donner un objectif clair, 
@@ -169,7 +169,7 @@ et qu’un « oui » ne constitue pas une confirmation certaine de la présence 
   - Puisque vous savez que vous n’êtes pas le Démon, cela vous permet d’obtenir une information ciblée sur un joueur précis. 
   - Attention toutefois : le Conteur peut faire en sorte que vous soyez votre propre faux positif, ce qui rend cette méthode parfois inefficace.
 
-- Faites attention au [Reclus](reclus.md), qui peut apparaître comme le Démon à vos yeux. Cela n’est pas la même chose que le **LEURRE** qui est votre Faux-Psitif.
+- Faites attention au [Reclus](reclus.md), qui peut apparaître comme le Démon à vos yeux. Cela n’est pas la même chose que le **LEURRE** qui est votre Faux-Positif.
 
 - Prétendre être un rôle que le Démon n’a généralement aucun intérêt à tuer, comme le [Saint](saint.md), le [Soldat](soldat.md) ou 
 le [Gardien](gardien.md), peut vous aider à survivre plus longtemps, et ainsi vous laisser le temps nécessaire pour recueillir des informations réellement utiles.
