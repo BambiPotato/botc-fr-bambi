@@ -16,14 +16,44 @@
 </div>
 
 
+---
+
+
 
 ##  <span style="color:blue">Informations</span>
 
-- **Type :** [Étranger](../etrangers.md)  
-- **Artiste :** Aidan Roberts  
-- *« La sagesse engendre la paix. La patience engendre la sagesse. N’ayez pas peur, car viendra le jour où la peur aussi disparaîtra. Prions, et que l’unité de notre vision fasse de nous tous des saints. »*
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+      Étrangers
+    </a>
+  </li>
+
+  <li>
+    <strong>Artiste :</strong> Aidan Roberts
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Saint"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Saint
+    </a>
+  </li>
+</ul>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
+«  La sagesse engendre la paix. La patience engendre la sagesse. 
+   N’ayez pas peur, car viendra le jour où la peur aussi disparaîtra. 
+   Prions, et que l’unité de notre vision fasse de nous tous des saints.»
+</p> 
+
 
 ---
+
 
 ##  Apparaît dans  
 
@@ -47,6 +77,7 @@
 </p> 
 
 ---
+
 ##  <span style="color:blue">Résumé</span>
 
 **« Si vous mourez par exécution, votre équipe perd. »**
