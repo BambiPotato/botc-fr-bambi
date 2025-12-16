@@ -142,7 +142,7 @@
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Lorsque vous bluffez en vous faisant passer pour le Saint, voici quelques points à garder à l'esprit :</li>
 
-  <li>Vous ne vous réveilleriez jamais, n'apprendriez rien, n'agiriez jamais pendant la journée, <br>
+  vous ne vous réveilleriez jamais, n'apprendriez rien, n'agiriez jamais pendant la journée, <br>
 sauf au moment de votre exécution, auquel cas la partie serait déjà terminée.</li>
 
   <li>En raison de la condition de défaite du Saint, c'est sans doute l'un des meilleurs bluffs maléfiques du jeu.</li>
