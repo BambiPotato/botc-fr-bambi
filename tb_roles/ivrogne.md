@@ -9,7 +9,11 @@ title: Ivrogne
   </a>
 </p>
 
-<!-- Image centrée cliquable + nom -->
+<h2 style="margin-top:8px;">
+  <span style="color:#4ea3ff; font-weight:bold;">Ivrogne</span>
+</h2>
+
+<!-- Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin:20px 0;">
   <a href="./ivrogne.html" style="text-decoration:none;">
     <img src="../images/Icon_drunk-1.png" alt="Ivrogne" width="350" style="border-radius:8px;">
@@ -20,12 +24,13 @@ title: Ivrogne
 
 <hr>
 
-<h2>
-  <span style="color:#4ea3ff; font-weight:bold;">Informations</span>
-</h2>
+<h3 style="color:#4ea3ff; font-weight:bold;"> Informations</h3>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li><strong>Type :</strong> <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a></li>
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a>
+  </li>
   <li><strong>Artiste :</strong> Aidan Roberts</li>
   <li>
     <strong>Nom original :</strong>
@@ -36,19 +41,15 @@ title: Ivrogne
   </li>
 </ul>
 
-<p style="color:#f5f5f5; font-size:18px; font-style:italic; margin-left:20px;">
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic; margin-left:20px; margin-right:20px;">
   « Je ne suis qu’un buveur social, ma chère. Certes, je suis un grand… <em>*hic*</em>… sociabilisateur. »
 </p>
 
 <hr>
 
-<h2>
-  <span style="color:#b58b52; font-weight:bold;">Apparaît dans</span>
-</h2>
+<h3> Apparaît dans</h3>
 
-<h2>
-  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
-</h2>
+<h2 style="color:#b58b52; font-weight:bold; font-size:42px; margin-bottom:6px;">Trouble Brewing</h2>
 
 <div style="text-align:center; margin:20px 0;">
   <a href="../trouble_brewing.html" style="text-decoration:none;">
@@ -58,15 +59,13 @@ title: Ivrogne
   </a>
 </div>
 
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin:4px 0 0;">
   Cult of the Clocktower – épisode par Andrew Nathenson
 </p>
 
 <hr>
 
-<h2 style="margin-top:10px;">
-  <span style="color:#4ea3ff; font-weight:bold;">Résumé</span>
-</h2>
+<h3 style="color:#4ea3ff; font-weight:bold;"> Résumé</h3>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
   <strong>« Vous ne savez pas que vous êtes l’<a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>. Vous pensez être un rôle de <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>, mais vous ne l’êtes pas. »</strong>
@@ -93,9 +92,7 @@ title: Ivrogne
 
 <hr>
 
-<h2 style="margin-top:10px;">
-  <span style="color:#4ea3ff; font-weight:bold;">Comment Conter</span>
-</h2>
+<h3 style="color:#4ea3ff; font-weight:bold;"> Comment Conter</h3>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
@@ -118,9 +115,7 @@ title: Ivrogne
 
 <hr>
 
-<h2 style="margin-top:10px;">
-  <span style="color:#4ea3ff; font-weight:bold;">Exemples</span>
-</h2>
+<h3 style="color:#4ea3ff; font-weight:bold;"> Exemples</h3>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
@@ -155,9 +150,7 @@ title: Ivrogne
 
 <hr>
 
-<h2 style="margin-top:10px;">
-  <span style="color:#4ea3ff; font-weight:bold;">Astuces &amp; Conseils</span>
-</h2>
+<h3 style="color:#4ea3ff; font-weight:bold;"> Astuces &amp; Conseils</h3>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
@@ -224,9 +217,7 @@ title: Ivrogne
 
 <hr>
 
-<h2 style="margin-top:10px;">
-  <span style="color:#4ea3ff; font-weight:bold;">Bluffer l’Ivrogne</span>
-</h2>
+<h3 style="color:#4ea3ff; font-weight:bold;"> Bluffer l’Ivrogne</h3>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
   En bluffant l’<a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>, gardez quelques points en tête :
@@ -293,32 +284,31 @@ title: Ivrogne
   </li>
 </ul>
 
----
+<hr>
 
-## 🧞 <span style="color:#d4a76a">Jinxes liés</span>
+<h2 style="color:#4ea3ff; font-weight:bold; margin-top:30px; font-size:22px;">
+  🧞 Jinxes liés
+</h2>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-   <li>
+  <li>
     🧞
     <img src="../images/Icon_boffin.png" alt="Boffin" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/boffin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boffin</a> :  
-    Le <span style="color:#d45b5b; font-weight:bold;">Démon</span> ne peut pas recevoir la capacité de l'Ivrogne grâce au Boffin.
-   </li>  
-   <li>
+    <a href="../roles_experimentaux/boffin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boffin</a>
+    : Le <span style="color:#d45b5b; font-weight:bold;">Démon</span> ne peut pas recevoir la capacité de l'Ivrogne grâce au Boffin.
+  </li>
+  <li>
     🧞
-   <img src="../images/Icon_mathematician.png" alt="Mathématicien" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../sv_roles/mathematician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mathématicien</a> :  
-    Le Mathématicien peut apprendre si la capacité de l’Ivrogne a produit une fausse information ou n’a pas fonctionné correctement.
-   </li>    
-  </ul>
-  
----
-
-<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li> <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li> <a href="../etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Étrangers</a></li>
+    <img src="../images/Icon_mathematician.png" alt="Mathématicien" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../sv_roles/mathematician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mathématicien</a>
+    : Le Mathématicien peut apprendre si la capacité de l’Ivrogne a produit une fausse information ou n’a pas fonctionné correctement.
+  </li>
 </ul>
 
+<hr>
 
+<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  <li><a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li><a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li><a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Étrangers</a></li>
+</ul>
