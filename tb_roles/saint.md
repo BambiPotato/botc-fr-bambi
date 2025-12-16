@@ -270,7 +270,7 @@ est en jeu.</li>
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Seule la <strong>mort par exécution</strong> déclenche la capacité du Saint.</li>
   <li><strong>L'Exil</strong> n'est pas une exécution !</li>
-  <li>Les effets de redirection avec le (<strong><a href="../voyageurs/scapegoat.md" style="text-decoration:none;"><span style="color:purple">Bouc Émissaire</span></a></strong>) :
+  <li>Les effets de redirection avec le <strong><a href="../voyageurs/scapegoat.md" style="text-decoration:none;"><span style="color:purple">Bouc Émissaire</span></a></strong> :
     <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
       <li>si <strong>quelqu’un d’autre</strong> meurt <strong>à la place</strong> du Saint, <strong>la partie continue</strong>.</li>
     </ul>
