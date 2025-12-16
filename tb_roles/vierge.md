@@ -15,15 +15,44 @@
   </a>
 </div>
 
----
-
-## <span style="color:blue">Informations</span>   
-
-- **Type** : [Villageois](../villageois.md) 
-- **Artiste** : Aidan Roberts  
-- *"Je suis pure. Que ceux qui sont sans péché se jettent en avant et souffrent à ma place. Ma réputation ne sera pas souillée par vos accusations venimeuses."*
 
 ---
+
+
+##  <span style="color:blue">Informations</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+      Villageois
+    </a>
+  </li>
+
+  <li>
+    <strong>Artiste :</strong> Aidan Roberts
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Virgin"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+   Virgin
+    </a>
+  </li>
+</ul>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
+« Je suis pure. Que ceux qui sont sans péché se jettent en avant et souffrent à ma place. 
+  Ma réputation ne sera pas souillée par vos accusations venimeuses. »
+</p> 
+
+
+---
+
+
 ##  Apparaît dans  
 
 #  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
@@ -46,6 +75,11 @@
 "Cult of the Clocktower – épisode par Andrew Nathenson"
 </p>
 
+
+---
+
+
+
 ##  <span style="color:blue">Résumé</span>    
 
 **"La première fois que vous êtes nominé, si le joueur qui vous nomme est un Villageois, il est immédiatement exécuté."**
@@ -58,7 +92,7 @@ La Vierge peut, malgré elle, provoquer l’exécution de son accusateur, ce qui
 
 ---
 
-## � <span style="color:blue">Comment Conter</span>  
+##  <span style="color:blue">Comment Conter</span>  
 
 - Si le premier joueur à nominer la Vierge est un Villageois :  
   → Déclarez immédiatement que ce joueur est exécuté. Placez un Linceuil de mort sur son jeton.  
