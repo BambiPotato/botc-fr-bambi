@@ -41,7 +41,7 @@
 </style>
 
 
- <!--  PAGE D’ACCUEIL - WIKI BOTC FR -->
+<!--  PAGE D’ACCUEIL - WIKI BOTC FR -->
 
 <div style="text-align:center; margin:40px auto 0 auto; max-width:980px; padding:25px 20px; border:1px solid rgba(212,167,106,0.3); border-radius:10px; box-shadow:0 0 12px rgba(0,0,0,0.4); background-color:rgba(0,0,0,0.45);">
 
@@ -51,11 +51,16 @@
 
   <h2 style="color:#b58b52; font-size:24px; font-weight:bold; text-shadow:2px 2px 6px #000; margin-top:20px;">
      Bienvenue sur le Wiki Francophone « non officiel » de <br>
-    <span style="color:#d4a76a;">Blood on the Clocktower </span>
+    <span style="color:#d4a76a;">Blood on the Clocktower</span>
   </h2>
-  
 
-  <div style="text-align:center; margin:25px auto 0 auto; max-width:980px; padding:20px; border:1px solid rgba(212,167,106,0.3); border-radius:10px; box-shadow:0 0 12px rgba(0,0,0,0.4); background-color:rgba(0,0,0,0.45);">
+  <p style="font-size:20px; color:#e0c99d; font-style:italic; margin-top:15px;">
+    « Explorez les rôles, les stratégies et les secrets de chaque édition. »
+  </p>
+
+</div>
+
+<div style="margin:25px auto 0 auto; max-width:980px; padding:20px; border:1px solid rgba(212,167,106,0.3); border-radius:10px; box-shadow:0 0 12px rgba(0,0,0,0.4); background-color:rgba(0,0,0,0.45);">
 
   <p style="font-size:20px; color:#e0c99d; font-style:italic; line-height:1.8; margin:0;">
     <span style="font-weight:bold; color:#d4a76a;">Traductions fidèles</span>,
@@ -65,24 +70,25 @@
     <span style="font-weight:bold; color:#d4a76a;">inclusif et bienveillant.</span>
   </p>
 
-  <hr style="margin:22px auto; width:40%; border:1px solid rgba(212,167,106,0.25);">
-
-  <p style="font-size:15px; line-height:1.7; color:#e0c99d; margin:0;">
+  <p style="font-size:16px; color:#e0c99d; line-height:1.7; margin-top:14px; margin-bottom:0;">
     Ce site web est né de l’amour de
     <a href="https://bloodontheclocktower.com/"
        target="_blank" rel="noopener noreferrer"
        style="color:#d4a76a; font-weight:bold; text-decoration:none;">
       Blood on the Clocktower
     </a>
-    et n’a aucun but lucratif.<br>
-    Tout le contenu lié à
-    <span style="color:#d4a76a; font-weight:bold;">Blood on the Clocktower</span>
+    et il n’a aucun but lucratif.<br>
+    Tout le contenu de
+    <a href="https://bloodontheclocktower.com/"
+       target="_blank" rel="noopener noreferrer"
+       style="color:#d4a76a; font-weight:bold; text-decoration:none;">
+      Blood on the Clocktower
+    </a>
     appartient à
     <span style="color:#d4a76a; font-weight:bold;">The Pandemonium Institute</span>.
   </p>
 
 </div>
-
 
 <hr style="margin:16px auto; max-width:980px; border:1px solid rgba(181,139,82,.25);">
 
@@ -814,20 +820,19 @@ table.roles-grid td{
 </div>
 
 
-
 <div style="text-align:left; margin-top:40px; line-height:1.8; border:1px solid rgba(212,167,106,0.3); border-radius:10px; padding:25px; box-shadow:0 0 12px rgba(0,0,0,0.4); background-color:rgba(0,0,0,0.45);">
 
   <h2 style="color:#d4a76a; font-size:24px; font-weight:bold; text-shadow:1px 1px 4px #000;">
-     Jouer en personne ou en ligne&nbsp;?
+    Jouer en personne ou en ligne&nbsp;?
   </h2>
 
   <p style="font-size:20px; color:#e0c99d;">
-    Que vous découvriez <em>Blood on the Clocktower </em> autour d’une table ou à distance,  
+    Que vous découvriez <em>Blood on the Clocktower</em> autour d’une table ou à distance,  
     ce wiki est là pour vous aider à créer des parties passionnantes, accessibles et équilibrées.
   </p>
 
   <p style="font-size:20px; color:#e0c99d;">
-    Chaque communauté, qu’elle soit locale ou en ligne, est encouragée à jouer dans un 
+    Chaque communauté, qu’elle soit locale ou en ligne, est encouragée à jouer dans un
     <span style="color:#d4a76a; font-weight:bold;">cadre bienveillant, respectueux et sain</span>,  
     où l’amusement, la confiance et l’inclusivité passent toujours avant la compétition.
   </p>
@@ -838,45 +843,54 @@ table.roles-grid td{
   </p>
 
   <ul style="color:#e0c99d; font-size:20px; line-height:1.7; margin-left:30px;">
-    <li>   <a href="https://www.meetup.com/blood-on-the-clocktower-paris/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">
+    <li>
+      <a href="https://www.meetup.com/blood-on-the-clocktower-paris/"
+         target="_blank"
+         style="color:#ffb84d; font-weight:bold; text-decoration:none;">
         Blood on the Clocktower Paris Meetup
       </a>
     </li>
-
-    <li>   <a href="https://www.meetup.com/blood-on-the-clocktower-nantes/" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">
+    <li>
+      <a href="https://www.meetup.com/blood-on-the-clocktower-nantes/"
+         target="_blank"
+         style="color:#ffb84d; font-weight:bold; text-decoration:none;">
         Blood on the Clocktower Nantes Meetup
       </a>
     </li>
   </ul>
 
+  <!-- Séparation visuelle nette -->
+  <hr style="margin:22px 0; width:50%; border:1px solid rgba(212,167,106,0.25);">
 
-<p style="font-size:16px; color:#e0c99d; text-align:left; max-width:980px; margin:20px auto 10px auto; line-height:1.7;">
-  Ce site est créé par et pour les fans de
-  <span style="color:#d4a76a; font-weight:bold;">Blood on the Clocktower</span>
-  et n’a aucun but lucratif.<br>
-  Tout le contenu lié à
-  <span style="color:#d4a76a; font-weight:bold;">Blood on the Clocktower</span>
-  appartient à
-  <span style="color:#d4a76a; font-weight:bold;">The Pandemonium Institute</span>.
-</p>
+  <p style="font-size:16px; color:#e0c99d; text-align:left; max-width:980px; margin:20px 0 10px 0; line-height:1.7;">
+    Ce site est créé par et pour les fans de
+    <span style="color:#d4a76a; font-weight:bold;">Blood on the Clocktower</span>
+    et n’a aucun but lucratif.<br>
+    Tout le contenu lié à
+    <span style="color:#d4a76a; font-weight:bold;">Blood on the Clocktower</span>
+    appartient à
+    <span style="color:#d4a76a; font-weight:bold;">The Pandemonium Institute</span>.
+  </p>
 
-<p style="font-size:16px; color:#e0c99d; text-align:left; max-width:980px; margin:10px auto 0 auto; line-height:1.7;">
-  <span style="color:#e0c99d; font-style:italic;">Soutenez :</span><br>
-  <a href="https://bloodontheclocktower.com/"
-     target="_blank" rel="noopener noreferrer"
-     style="color:#d4a76a; font-weight:bold; text-decoration:none;">
-    The Pandemonium Institute
-  </a>
-  <span style="color:#d4a76a;">&nbsp;•&nbsp;</span>
-  <a href="https://open-sesame.games/"
-     target="_blank" rel="noopener noreferrer"
-     style="color:#d4a76a; font-weight:bold; text-decoration:none;">
-    Open Sesame Games
-  </a>
-</p>
+  <p style="font-size:16px; color:#e0c99d; text-align:left; max-width:980px; margin:10px 0 0 0; line-height:1.7;">
+    <span style="color:#e0c99d; font-style:italic;">Soutenez :</span><br>
+    <a href="https://bloodontheclocktower.com/"
+       target="_blank" rel="noopener noreferrer"
+       style="color:#d4a76a; font-weight:bold; text-decoration:none;">
+      The Pandemonium Institute
+    </a>
+    <span style="color:#d4a76a;">&nbsp;•&nbsp;</span>
+    <a href="https://open-sesame.games/"
+       target="_blank" rel="noopener noreferrer"
+       style="color:#d4a76a; font-weight:bold; text-decoration:none;">
+      Open Sesame Games
+    </a>
+  </p>
 
-<p align="left" style="margin-top:30px;">
-  <a href="/botc-fr-bambi/">
-    <img src="images/logogold.png" alt="Accueil BotC FR" width="200">
-  </a>
-</p>
+  <p align="left" style="margin-top:30px;">
+    <a href="/botc-fr-bambi/">
+      <img src="images/logogold.png" alt="Accueil BotC FR" width="200">
+    </a>
+  </p>
+
+</div>
