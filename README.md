@@ -626,7 +626,7 @@ table.roles-grid td{
   <h2 style="
     color:#b58b52;
     font-weight:bold;
-    font-size:26px;
+    font-size:20px;
     margin-bottom:10px;
   ">
      Ressources en ligne pour Blood on the Clocktower
@@ -637,7 +637,7 @@ table.roles-grid td{
        alt="Blood on the Clocktower"
        style="width:65px; height:auto; margin-bottom:12px; opacity:0.95; display:block;">
 
-  <p style="color:#e0c99d; font-size:19px; margin-bottom:18px;">
+  <p style="color:#e0c99d; font-size:18px; margin-bottom:18px;">
      Le jeu <span style="color:#d4a76a; font-weight:bold;">Blood on the Clocktower</span>
      a été créé par <span style="color:#d4a76a; font-weight:bold;">The Pandemonium Institute</span>.
   </p>
@@ -645,7 +645,7 @@ table.roles-grid td{
   <ul style="
     list-style:none;
     padding-left:0;
-    font-size:20px;
+    font-size:16px;
     color:#e0c99d;
   ">
     
@@ -756,7 +756,7 @@ table.roles-grid td{
   box-shadow:0 0 12px rgba(0,0,0,0.4);
 ">
 
-  <h2 style="color:#b58b52; font-weight:bold; font-size:26px; margin-bottom:10px;">
+  <h2 style="color:#b58b52; font-weight:bold; font-size:18px; margin-bottom:10px;">
      Open Sesame Games
   </h2>
 
@@ -765,7 +765,7 @@ table.roles-grid td{
        alt="Open Sesame Games"
        style="width:65px; height:auto; margin-bottom:15px; opacity:0.95; display:block;">
 
-  <p style="color:#e0c99d; font-size:19px; margin-bottom:15px;">
+  <p style="color:#e0c99d; font-size:16px; margin-bottom:15px;">
      <span style="color:#d4a76a; font-weight:bold;">Blood on the Clocktower en français</span> est édité par Open Sesame Games.
   </p>
 
@@ -823,7 +823,7 @@ table.roles-grid td{
   box-shadow:0 0 12px rgba(0,0,0,0.4);
 ">
 
-  <h2 style="color:#b58b52; font-weight:bold; font-size:26px; margin-bottom:10px;">
+  <h2 style="color:#b58b52; font-weight:bold; font-size:18px; margin-bottom:10px;">
     Wiki Francophone « non officiel »
   </h2>
 
@@ -832,11 +832,11 @@ table.roles-grid td{
        alt="Communauté Bambi Blue Potato Clocktower"
        style="width:100px; height:auto; margin-bottom:15px; opacity:0.9; display:block;">
 
-  <p style="color:#e0c99d; font-size:19px; margin-bottom:15px;">
+  <p style="color:#e0c99d; font-size:16px; margin-bottom:15px;">
     Rejoignez notre petite communauté sur <span style="color:#d4a76a; font-weight:bold;">Discord</span> pour jouer en ligne et participer à nos parties streamées :
   </p>
 
-  <ul style="list-style:none; padding-left:0; font-size:19px; color:#e0c99d;">
+  <ul style="list-style:none; padding-left:0; font-size:16px; color:#e0c99d;">
     <li> <a href="https://discord.gg/tGDVmZfZpE" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Discord</a></li>
     <li> <a href="https://www.youtube.com/@Bambipotato" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">YouTube</a></li>
     <li> <a href="https://www.twitch.tv/bambibluepotato" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Twitch</a></li>
@@ -846,7 +846,7 @@ table.roles-grid td{
   <!-- Ligne de contact -->
   <p style="
     margin-top:20px;
-    font-size:18px;
+    font-size:16px;
     color:#e0c99d;
     line-height:1.6;
   ">
@@ -863,27 +863,27 @@ table.roles-grid td{
 
 <div style="text-align:left; margin-top:40px; line-height:1.8; border:1px solid rgba(212,167,106,0.3); border-radius:10px; padding:25px; box-shadow:0 0 12px rgba(0,0,0,0.4); background-color:rgba(0,0,0,0.45);">
 
-  <h2 style="color:#d4a76a; font-size:24px; font-weight:bold; text-shadow:1px 1px 4px #000;">
+  <h2 style="color:#d4a76a; font-size:18px; font-weight:bold; text-shadow:1px 1px 4px #000;">
     Jouer en personne ou en ligne&nbsp;?
   </h2>
 
-  <p style="font-size:20px; color:#e0c99d;">
+  <p style="font-size:18px; color:#e0c99d;">
     Que vous découvriez <em>Blood on the Clocktower</em> autour d’une table ou à distance,  
     ce wiki est là pour vous aider à créer des parties passionnantes, accessibles et équilibrées.
   </p>
 
-  <p style="font-size:20px; color:#e0c99d;">
+  <p style="font-size:18px; color:#e0c99d;">
     Chaque communauté, qu’elle soit locale ou en ligne, est encouragée à jouer dans un
     <span style="color:#d4a76a; font-weight:bold;">cadre bienveillant, respectueux et sain</span>,  
     où l’amusement, la confiance et l’inclusivité passent toujours avant la compétition.
   </p>
 
-  <p style="font-size:20px; color:#e0c99d;">
+  <p style="font-size:18px; color:#e0c99d;">
     Si vous souhaitez jouer en personne, dans un <span style="color:#d4a76a; font-weight:bold;">cadre bienveillant</span>,  
     plusieurs groupes francophones organisent régulièrement des parties :
   </p>
 
-  <ul style="color:#e0c99d; font-size:20px; line-height:1.7; margin-left:30px;">
+  <ul style="color:#e0c99d; font-size:16px; line-height:1.7; margin-left:30px;">
     <li>
       <a href="https://www.meetup.com/blood-on-the-clocktower-paris/"
          target="_blank"
