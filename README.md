@@ -53,6 +53,20 @@
      Bienvenue sur le Wiki Francophone « non officiel » de <br>
     <span style="color:#d4a76a;">Blood on the Clocktower </span>
   </h2>
+  
+  <p style="margin-top:10px; font-size:15px; line-height:1.6; color:#f2ede3;">
+  Ce site web est né de l’amour de
+  <a href="https://bloodontheclocktower.com/"
+     target="_blank" rel="noopener noreferrer"
+     style="color:#d4a76a; font-weight:bold; text-decoration:none;">
+    Blood on the Clocktower
+  </a>
+  et n’a aucun but lucratif.<br>
+  Tout le contenu de
+  <span style="color:#d4a76a; font-weight:bold;">Blood on the Clocktower</span>
+  appartient à
+  <span style="color:#d4a76a; font-weight:bold;">The Pandemonium Institute</span>.
+</p>
 
   <p style="font-size:20px; color:#e0c99d; font-style:italic; margin-top:15px;">
     « Explorez les rôles, les stratégies et les secrets de chaque édition. »
@@ -846,25 +860,46 @@ table.roles-grid td{
     </li>
   </ul>
 
-  <hr style="width:50%; margin:30px 0; border:1px solid #b58b52; opacity:0.6;">
+  <hr style="width:50%; margin:30px auto; border:1px solid #b58b52; opacity:0.6;">
 
-  <h3 style="color:#b58b52; font-size:24px; font-weight:bold;">À propos de ce projet</h3>
+<h3 style="color:#b58b52; font-size:12px; font-weight:bold; text-align:center;">
+  À propos de ce projet
+</h3>
 
-  <p style="font-size:20px; color:#e0c99d;">
-    Ce wiki a pour objectif de partager <span style="color:#d4a76a; font-weight:bold;">Blood on the Clocktower</span> en français  
-    et de le rendre accessible à toutes et à tous, que vous soyez joueur ou joueuse débutant, confirmé, conteur ou conteuse expérimenté,  
-    ou simplement curieux ou curieuse de découvrir cet univers.
-  </p>
+<p style="font-size:16px; color:#e0c99d; text-align:center; max-width:980px; margin:15px auto;">
+  Ce wiki a pour objectif de partager
+  <span style="color:#d4a76a; font-weight:bold;">Blood on the Clocktower</span>
+  en français et de le rendre accessible à toutes et à tous, que vous soyez joueur ou joueuse débutant, confirmé, conteur ou conteuse expérimenté,
+  ou simplement curieux ou curieuse de découvrir cet univers.
+</p>
 
-  <p style="font-size:20px; color:#d4a76a; margin-top:25px; font-weight:bold; text-align:left;">
-     Merci à toutes et à tous.
-  </p>
+<p style="font-size:16px; color:#f2ede3; text-align:center; max-width:980px; margin:20px auto 10px auto; line-height:1.7;">
+  Ce site est créé par et pour les fans de
+  <span style="color:#d4a76a; font-weight:bold;">Blood on the Clocktower</span>
+  et n’a aucun but lucratif.<br>
+  Tout le contenu lié à
+  <span style="color:#d4a76a; font-weight:bold;">Blood on the Clocktower</span>
+  appartient à
+  <span style="color:#d4a76a; font-weight:bold;">The Pandemonium Institute</span>.
+</p>
 
+<p style="font-size:16px; text-align:center; margin-top:10px;">
+  <span style="color:#e0c99d; font-style:italic;">Soutenez :</span><br>
+  <a href="https://bloodontheclocktower.com/"
+     target="_blank" rel="noopener noreferrer"
+     style="color:#d4a76a; font-weight:bold; text-decoration:none;">
+    The Pandemonium Institute
+  </a>
+  <span style="color:#f2ede3;">&nbsp;•&nbsp;</span>
+  <a href="https://open-sesame.games/"
+     target="_blank" rel="noopener noreferrer"
+     style="color:#d4a76a; font-weight:bold; text-decoration:none;">
+    Open Sesame Game
+  </a>
+</p>
 
-</div>
-
-<p align="left">
+<p align="center" style="margin-top:30px;">
   <a href="/botc-fr-bambi/">
-    <img src="images/logogold.png" alt="Accueil BotC FR" width="300">
+    <img src="images/logogold.png" alt="Accueil BotC FR" width="200">
   </a>
 </p>
