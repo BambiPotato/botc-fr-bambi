@@ -85,24 +85,24 @@ title: Lavandière
 <h3 style="color:#6fa8ff; font-weight:bold;"> Comment conter</h3>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li><strong>Préparation (première nuit)</strong> :
+  <li><strong>Lors de la préparation de la première nuit, placez le jeton de rappel</strong> :
     <ul style="margin-top:6px;">
-      <li>Placez le jeton <strong>VILLAGEOIS</strong> de la Lavandière à côté d’un rôle
+      <li><strong>VILLAGEOIS</strong> de la Lavandière à côté d’un rôle
         <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a> en jeu.
       </li>
-      <li>Placez le jeton <strong>ERRONÉ</strong> de la Lavandière à côté d’un autre rôle quelconque.</li>
+      <li>Placez le jeton de rappel <strong>FAUX</strong> de la Lavandière à côté de n'importe quel autre jeton de rôle.</li>
     </ul>
   </li>
-  <li><strong>Première nuit</strong> :
+  <li><strong>Durant la première nuit</strong> :
     <ul style="margin-top:6px;">
       <li>Réveillez la Lavandière.</li>
-      <li>Montrez-lui les deux joueurs marqués et révélez le jeton du rôle
+      <li>Montrez-lui les deux joueurs marqués <strong>FAUX</strong> et <strong>VILLAGEOIS</strong>  montrez le jeton du rôle
         <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>.
       </li>
       <li>Rendormez la lavandière.</li>
     </ul>
   </li>
-  <li>Retirez ses jetons de rappel dès que possible pour éviter la confusion.</li>
+  <li>Retirez ses jetons de rappel dès que possible pour éviter la confusion ou lorsque cela vous convient.</li>
 </ul>
 
 <hr>
