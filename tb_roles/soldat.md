@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# 🛡️<span style="color:blue">Soldat</span> 
+#  <span style="color:blue">Soldat</span> 
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -15,14 +15,44 @@
   </a>
 </div>
 
-##  <span style="color:blue">Informations</span> 
-
-**Type :** [Villageois](../villageois.md)  
-**Artiste :** Aidan Roberts  
-
-*"Comme David face à Goliath, comme Thésée face au Minotaure, comme Arjuna face à Bhagadatta... Non."*
 
 ---
+
+
+##  <span style="color:blue">Informations</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+      Villageois
+    </a>
+  </li>
+
+  <li>
+    <strong>Artiste :</strong> Aidan Roberts
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Soldier"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+   Soldier
+    </a>
+  </li>
+</ul>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
+« Comme David face à Goliath, 
+  comme Thésée face au Minotaure, 
+  comme Arjuna face à Bhagadatta... Non. »
+</p> 
+
+
+---
+
 
 ##  Apparaît dans  
 
@@ -123,6 +153,6 @@ Pendant la nuit, si le Démon attaque le Soldat, celui-ci reste en vie. (À l'au
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
   <li> <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li> <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a></li>
+  <li> <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
 </ul>
 
