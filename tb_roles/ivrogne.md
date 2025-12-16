@@ -57,10 +57,6 @@ title: Ivrogne
 
 </ul>
 
-<p style="color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  "Cult of the Clocktower – épisode par Andrew Nathenson"
-</p>
-
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../trouble_brewing.html" style="text-decoration:none;">
@@ -70,6 +66,9 @@ title: Ivrogne
   </a>
 </div>
 
+<p style="color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+  "Cult of the Clocktower – épisode par Andrew Nathenson"
+</p>
 
 <hr>
 
