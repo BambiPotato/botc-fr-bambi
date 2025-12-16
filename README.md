@@ -83,9 +83,6 @@
 
 </div>
 
-</div>
-
-
 <div style="text-align:center; margin:25px auto 0 auto; max-width:980px; padding:20px; border:1px solid rgba(212,167,106,0.3); border-radius:10px; box-shadow:0 0 12px rgba(0,0,0,0.4); background-color:rgba(0,0,0,0.45);">
 
   <p style="font-size:20px; color:#e0c99d; font-style:italic; line-height:1.8;">
@@ -98,7 +95,6 @@
 
 </div>
 
----
 
 <hr style="margin:16px auto; max-width:980px; border:1px solid rgba(181,139,82,.25);">
 
