@@ -94,7 +94,14 @@
 
 <!-- ====== INFORMATIONS SUR LE JEU ====== -->
 
-<h1 style="color:#b58b52; font-size:20px; font-weight:bold; text-shadow:2px 2px 6px #000; margin-bottom:10px;">
+<h1 style="
+  color:#b58b52;
+  font-size:20px;
+  font-weight:bold;
+  text-shadow:2px 2px 6px #000;
+  padding-left:16px;
+  margin-bottom:10px;
+">
   Informations sur le Jeu
 </h1>
 
