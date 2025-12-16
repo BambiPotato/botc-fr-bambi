@@ -95,7 +95,7 @@ Le Saint met fin à la partie s'il est exécuté.
 - Si le **Saint** meurt **par exécution**, **annoncez immédiatement la fin de la partie** : **le Mal l’emporte**.  
 - Si le Saint **ne meurt pas par exécution**, **la partie continue**.  
 - La formulation « *votre équipe perd* » signifie ici « le Bien perd » car le Saint est toujours Bon dans TB. 
-- Dans d’autres éditions, si le Saint peut devenir maléfique, inversez selon l’alignement réel au moment de l’exécution;, (appliquez littéralement(
+- Dans d’autres éditions, si le Saint peut devenir maléfique, inversez selon l’alignement réel au moment de l’exécution;, (appliquez littéralement)
   « *votre équipe perd* ». Si un Saint **maléfique** est exécuté, alors **le Bien gagne**.
 
 ---
