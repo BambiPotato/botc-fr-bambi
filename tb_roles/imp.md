@@ -9,9 +9,6 @@ title: Imp
   </a>
 </p>
 
-<h1 style="text-align:center; margin-top:10px;">
-  <span style="color:#d45b5b; font-weight:bold;">Imp</span>
-</h1>
 
 <!-- Image centrée cliquable + nom -->
 <div style="text-align:center; margin: 20px 0;">
