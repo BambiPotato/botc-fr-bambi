@@ -24,7 +24,7 @@ title: Maire
 
 <hr>
 
-<h3 style="color:#4ea3ff; font-weight:bold;"> Informations</h3>
+<h3 style="color:#4ea3ff; font-weight:bold;">Informations</h3>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>
@@ -48,7 +48,7 @@ title: Maire
 
 <hr>
 
-<h3> Apparaît dans</h3>
+<h3>Apparaît dans</h3>
 
 <h2 style="color:#b58b52; font-weight:bold; font-size:42px; margin-bottom:6px;">Trouble Brewing</h2>
 
@@ -70,7 +70,7 @@ title: Maire
 
 <hr>
 
-<h3 style="color:#4ea3ff; font-weight:bold;"> Résumé</h3>
+<h3 style="color:#4ea3ff; font-weight:bold;">Résumé</h3>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li><em>S’il reste 3 joueurs vivants et qu’aucune exécution n’a lieu, l’équipe des Bons gagne.</em></li>
@@ -85,7 +85,7 @@ title: Maire
 
 <hr>
 
-<h3 style="color:#4ea3ff; font-weight:bold;"> Comment conter</h3>
+<h3 style="color:#4ea3ff; font-weight:bold;">Comment conter</h3>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li><strong>Dernier jour</strong> : si exactement 3 joueurs sont vivants et qu’aucune exécution n’a lieu → la partie se termine immédiatement avec une victoire des Bons.</li>
@@ -97,8 +97,9 @@ title: Maire
     comptent comme des joueurs pour la condition du Maire → ils doivent donc être exilés au préalable.
   </li>
   <li>
-    Les 
-     <a href="../legendaires/index.html" style="color:#d4a76a; font-weight:bold;">Légendaires/a> ne comptent pas : le Conteur n’est pas un joueur.
+    Les
+    <a href="../legendaires/index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Légendaires</a>
+    ne comptent pas : le Conteur n’est pas un joueur.
   </li>
   <li>
     Si le Démon attaque le Maire et que le Conteur choisit un joueur déjà mort, un
@@ -114,7 +115,7 @@ title: Maire
 
 <hr>
 
-<h3 style="color:#4ea3ff; font-weight:bold;"> Exemples</h3>
+<h3 style="color:#4ea3ff; font-weight:bold;">Exemples</h3>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>
@@ -137,7 +138,7 @@ title: Maire
 
 <hr>
 
-<h3 style="color:#4ea3ff; font-weight:bold;"> Conseils &amp; Astuces</h3>
+<h3 style="color:#4ea3ff; font-weight:bold;">Conseils &amp; Astuces</h3>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Votre pouvoir s’active <strong>au dernier jour</strong> : faites tout pour convaincre le village que vous êtes réellement le Maire afin d’éviter toute exécution.</li>
@@ -161,7 +162,7 @@ title: Maire
 
 <hr>
 
-<h3 style="color:#4ea3ff; font-weight:bold;"> Bluffer Maire</h3>
+<h3 style="color:#4ea3ff; font-weight:bold;">Bluffer Maire</h3>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Le Maire <strong>ne se réveille jamais la nuit</strong> → facile à bluffer.</li>
@@ -183,35 +184,33 @@ title: Maire
   <li>Même un joueur bon peut bluffer Maire pour détourner le Démon.</li>
 </ul>
 
----
+<hr>
 
-## 🧞 <span style="color:#d4a76a">Jinxes liés</span>
+<h2 style="color:#4ea3ff; font-size:22px; margin-top:30px;">🧞 Jinxes liés</h2>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
   <li>
     🧞
     <img src="../images/Icon_leviathan.png" alt="Léviathan" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/leviathan.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Léviathan</a> :  
-    Si le <span style="color:#d45b5b; font-weight:bold;">Léviathan</span> et le Maire sont vivants au 5éme jour et qu’aucune exécution n’a lieu, 
-    l’équipe des bons gagne.
+    <a href="../roles_experimentaux/leviathan.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Léviathan</a> :
+    Si le <span style="color:#d45b5b; font-weight:bold;">Léviathan</span> et le Maire sont vivants au 5ème jour et qu’aucune exécution n’a lieu, l’équipe des bons gagne.
   </li>
-    <li>
+
+  <li>
     🧞
     <img src="../images/Icon_riot.png" alt="Riot" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> :  
+    <a href="../roles_experimentaux/riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> :
     Le Maire peut choisir d’arrêter le Riot.
     S’il le fait alors qu’il ne reste qu’un seul Riot en vie, l’équipe des bons gagne.
-    Sinon, l’équipe des maléfique gagne.
+    Sinon, l’équipe des maléfiques gagne.
   </li>
-  </ul>
+</ul>
 
-  
----
+<hr>
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li> <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li> <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
+  <li><a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li><a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li><a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
 </ul>
 
