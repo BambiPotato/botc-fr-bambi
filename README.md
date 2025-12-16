@@ -660,7 +660,7 @@ table.roles-grid td{
     <li>
       <a href="https://discord.gg/eD4zvq6RvB" target="_blank"
          style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-         Discord Blood on the Clocktower Unofficial
+         Discord Unofficial
       </a>
     </li>
 
@@ -668,7 +668,7 @@ table.roles-grid td{
     <li>
       <a href="https://botc.app/" target="_blank"
          style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-         Application Pour jouer en ligne 
+         Application pour jouer en ligne 
       </a>
     </li>
 
@@ -712,7 +712,7 @@ table.roles-grid td{
     <li>
       <a href="https://www.twitch.tv/thepandemoniuminstitute" target="_blank"
          style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-        Twitch The Pandemonium Institute
+        Twitch 
       </a>
     </li>
 
@@ -728,7 +728,7 @@ table.roles-grid td{
     <li>
       <a href="https://www.patreon.com/c/botconline/posts" target="_blank"
          style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-         Patreon pour soutenir Blood on the Clocktower
+         Patreon 
       </a>
     </li>
 
@@ -766,7 +766,7 @@ table.roles-grid td{
        style="width:65px; height:auto; margin-bottom:15px; opacity:0.95; display:block;">
 
   <p style="color:#e0c99d; font-size:16px; margin-bottom:15px;">
-     <span style="color:#d4a76a; font-weight:bold;">Blood on the Clocktower en français</span> est édité par Open Sesame Games.
+     <span style="color:#d4a76a; font-weight:bold;">Le jeu Blood on the Clocktower en français</span> est édité par Open Sesame Games.
   </p>
 
   <ul style="list-style:none; padding-left:0; font-size:16px; color:#e0c99d;">
