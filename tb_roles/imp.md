@@ -20,12 +20,6 @@
 
 ---
 
-##  <span style="color:red">Informations</span>  
-
-- **Type :** [<span style="color:red">**Démon**</span>](../demons.md)  
-- **Artiste :** Aidan Roberts  
-- *« Nous devons garder l’esprit vif et notre épée plus affûtée encore. Le mal marche parmi nous, et ne reculera devant rien pour nous détruire, simples gens de bien, et mener notre belle ville à la ruine. Ne faites confiance à personne. Mais, si vous devez faire confiance à quelqu’un, faites-moi confiance. »*  
-
 ##  Apparaît dans  
 
 #  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
@@ -41,6 +35,41 @@
     <span style="color:#b58b52; font-weight:bold; font-size:22px;">Trouble Brewing</span>
   </a>
 </div>
+
+---
+
+##  <span style="color:#d45b5b">Informations</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+      Démon
+    </a>
+  </li>
+
+  <li>
+    <strong>Artiste :</strong> Aidan Roberts
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Imp"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+    Imp
+    </a>
+  </li>
+</ul>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
+« Nous devons garder l’esprit vif et notre épée plus affûtée encore. 
+  Le mal marche parmi nous, et ne reculera devant rien pour nous détruire, simples gens de bien, et mener notre belle ville à la ruine. 
+  Ne faites confiance à personne. Mais, si vous devez faire confiance à quelqu’un, faites-moi confiance. »
+</p>   
+
+
 
 ---
 
