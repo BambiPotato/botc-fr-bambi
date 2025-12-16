@@ -160,7 +160,7 @@ de <br>
 <span style="color:#4ea3ff; font-weight:bold;"><a href="empathe.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a></span> <br>
 et du <br>
 <span style="color:#4ea3ff; font-weight:bold;"><a href="gardien" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a></span>. <br>
-— L'Équipe du Bien peut malgré tout hésiter à vous exécuter avant le dernier jour.
+L'Équipe du Bien peut malgré tout hésiter à vous exécuter avant le dernier jour.
     <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
       <li>D’ici là, vous aurez déjà causé tous les dégâts nécessaires.</li>
       <li>Vous pourrez alors soit être exécuté et faire gagner l’équipe Maléfique, soit,<br>
