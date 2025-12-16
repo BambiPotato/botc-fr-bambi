@@ -152,12 +152,13 @@ Les jinxes suivants concernent l’<strong>Alchimiste</strong> et modifient sa c
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Lors de la première nuit, réveillez l’Alchimiste.  
-Montrez-lui d’abord le jeton <strong>YOU ARE</strong>, puis le jeton du <span style="color:#d45b5b; font-weight:bold;">Sbire</span> dont il aura la capacité.  
+Montrez-lui d’abord le jeton <strong>"VOUS ÊTES"</strong>, puis le jeton du <span style="color:#d45b5b; font-weight:bold;">Sbire</span> dont il aura la capacité.  
 Rendormez ensuite l’Alchimiste.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Si l’Alchimiste a la capacité d’un Sbire qui n’est pas en jeu, marquez l’Alchimiste avec le rappel <strong>EST L’ALCHIMISTE</strong>, puis échangez le jeton de l’Alchimiste avec celui de ce Sbire et retournez-le.  
+Si l’Alchimiste a la capacité d’un Sbire qui n’est pas en jeu, marquez l’Alchimiste avec le rappel <strong>"EST L’ALCHIMISTE"</strong>, 
+puis échangez le jeton de l’Alchimiste avec celui de ce Sbire et retournez-le.  
 Cela montre qu’il a cette capacité de Sbire tout en restant bon.
 </p>
 
@@ -193,5 +194,5 @@ Le <a href="../roles_experimentaux/lord_of_typhon.html" style="color:#d45b5b; fo
 <p style="text-align:left; font-size:18px; margin-top:20px;">
    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
    <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a><br>
-   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a>
+   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a>
 </p>
