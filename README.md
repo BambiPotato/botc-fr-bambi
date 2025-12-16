@@ -783,7 +783,7 @@ table.roles-grid td{
 ">
 
   <h2 style="color:#b58b52; font-weight:bold; font-size:26px; margin-bottom:10px;">
-    Wiki non officiel en français 
+    Wiki Francophone « non officiel »
   </h2>
 
   <!-- Petit icône communauté -->
