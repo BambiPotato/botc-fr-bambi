@@ -392,7 +392,7 @@ que l’Empoisonneur garde le P’tit Monstre.
       alors que vous êtes bon,  
       annoncez-le clairement.  
       S’il n’y a ni  
-      <a href="../bmr_roles/avocatdudiable.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Avocat du Diable</a>  
+      <a href="../bmr_roles/avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a>  
       ni <a href="../roles_experimentaux/heretic.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Hérétique</a>  
       sur le script,  
       il peut être très intéressant  
