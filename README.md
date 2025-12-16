@@ -45,11 +45,11 @@
 
 <div style="text-align:center; margin:40px auto 0 auto; max-width:980px; padding:25px 20px; border:1px solid rgba(212,167,106,0.3); border-radius:10px; box-shadow:0 0 12px rgba(0,0,0,0.4); background-color:rgba(0,0,0,0.45);">
 
-  <h1 style="color:#b58b52; font-size:28px; font-weight:bold; text-shadow:2px 2px 6px #000;">
+  <h1 style="color:#b58b52; font-size:26px; font-weight:bold; text-shadow:2px 2px 6px #000;">
      PAGE PRINCIPALE
   </h1>
 
-  <h2 style="color:#b58b52; font-size:26px; font-weight:bold; text-shadow:2px 2px 6px #000; margin-top:20px;">
+  <h2 style="color:#b58b52; font-size:24px; font-weight:bold; text-shadow:2px 2px 6px #000; margin-top:20px;">
      Bienvenue sur le Wiki Francophone « non officiel » de <br>
     <span style="color:#d4a76a;">Blood on the Clocktower </span>
   </h2>
@@ -79,18 +79,6 @@
     <span style="color:#d4a76a; font-weight:bold;">Blood on the Clocktower</span>
     appartient à
     <span style="color:#d4a76a; font-weight:bold;">The Pandemonium Institute</span>.
-  </p>
-
-</div>
-
-<div style="text-align:center; margin:25px auto 0 auto; max-width:980px; padding:20px; border:1px solid rgba(212,167,106,0.3); border-radius:10px; box-shadow:0 0 12px rgba(0,0,0,0.4); background-color:rgba(0,0,0,0.45);">
-
-  <p style="font-size:20px; color:#e0c99d; font-style:italic; line-height:1.8;">
-    <span style="font-weight:bold; color:#d4a76a;">Traductions fidèles</span>,
-    des <span style="font-weight:bold; color:#d4a76a;">conseils</span> et des
-    <span style="font-weight:bold; color:#d4a76a;">ressources</span>
-    pour aider les communautés francophones à jouer dans un cadre
-    <span style="font-weight:bold; color:#d4a76a;">inclusif et bienveillant.</span>
   </p>
 
 </div>
@@ -138,8 +126,6 @@
 
 <!-- ====== /INFORMATIONS SUR LE JEU ====== -->
 
-
----
 
 <!--  Livre des Règles (version table, sans <div>) -->
 <h1 style="color:#b58b52; font-size:20px; font-weight:bold; text-shadow:2px 2px 6px #000; margin-bottom:14px;">
@@ -222,8 +208,6 @@
   </tr>
 </table>
 
-
----
 
 ## <span style="color:#b58b52; font-weight:bold; font-size:20px;">Rôles par Édition</span>
 
@@ -439,7 +423,6 @@ table.roles-grid td{
 </table>
 <!-- ====== /GRID D'ACCUEIL ====== -->
 
----
 <!-- Catégories -->
 <h2 style="color:#b58b52; font-weight:bold; font-size:20px; text-align:left;">Catégories</h2>
 
@@ -503,7 +486,6 @@ table.roles-grid td{
 
 </div>
 
----
 
 <!-- ====== SCRIPTS PERSONNALISÉS ====== -->
 <style>
@@ -582,7 +564,7 @@ table.roles-grid td{
 </div>
 <!-- ====== /SCRIPTS PERSONNALISÉS ====== -->
 
----
+
 <div style="
   width:100%;
   margin:40px 0;
@@ -714,7 +696,7 @@ table.roles-grid td{
   </ul>
 
 </div>
----
+
 
 <div style="
   width:100%;
@@ -781,7 +763,7 @@ table.roles-grid td{
 
 </div>
 
----
+
 
 <div style="
   width:100%;
@@ -831,7 +813,7 @@ table.roles-grid td{
 
 </div>
 
----
+
 
 <div style="text-align:left; margin-top:40px; line-height:1.8; border:1px solid rgba(212,167,106,0.3); border-radius:10px; padding:25px; box-shadow:0 0 12px rgba(0,0,0,0.4); background-color:rgba(0,0,0,0.45);">
 
@@ -867,22 +849,8 @@ table.roles-grid td{
     </li>
   </ul>
 
----
 
-  <hr style="width:50%; margin:30px auto; border:1px solid #b58b52; opacity:0.6;">
-
-<h3 style="color:#b58b52; font-size:12px; font-weight:bold; text-align:left;">
-  À propos de ce projet
-</h3>
-
-<p style="font-size:16px; color:#e0c99d; text-align:left; max-width:980px; margin:15px auto;">
-  Ce wiki a pour objectif de partager
-  <span style="color:#d4a76a; font-weight:bold;">Blood on the Clocktower</span>
-  en français et de le rendre accessible à toutes et à tous, que vous soyez joueur ou joueuse débutant, confirmé, conteur ou conteuse expérimenté,
-  ou simplement curieux ou curieuse de découvrir cet univers.
-</p>
-
-<p style="font-size:16px; color:#f2ede3; text-align:left; max-width:980px; margin:20px auto 10px auto; line-height:1.7;">
+<p style="font-size:16px; color:#e0c99d; text-align:left; max-width:980px; margin:20px auto 10px auto; line-height:1.7;">
   Ce site est créé par et pour les fans de
   <span style="color:#d4a76a; font-weight:bold;">Blood on the Clocktower</span>
   et n’a aucun but lucratif.<br>
@@ -892,18 +860,18 @@ table.roles-grid td{
   <span style="color:#d4a76a; font-weight:bold;">The Pandemonium Institute</span>.
 </p>
 
-<p style="font-size:16px; text-align:left; margin-top:10px;">
+<p style="font-size:16px; color:#e0c99d; text-align:left; max-width:980px; margin:10px auto 0 auto; line-height:1.7;">
   <span style="color:#e0c99d; font-style:italic;">Soutenez :</span><br>
   <a href="https://bloodontheclocktower.com/"
      target="_blank" rel="noopener noreferrer"
      style="color:#d4a76a; font-weight:bold; text-decoration:none;">
     The Pandemonium Institute
   </a>
-  <span style="color:#f2ede3;">&nbsp;•&nbsp;</span>
+  <span style="color:#d4a76a;">&nbsp;•&nbsp;</span>
   <a href="https://open-sesame.games/"
      target="_blank" rel="noopener noreferrer"
      style="color:#d4a76a; font-weight:bold; text-decoration:none;">
-    Open Sesame Game
+    Open Sesame Games
   </a>
 </p>
 
