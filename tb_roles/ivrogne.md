@@ -10,7 +10,7 @@ title: Ivrogne
 </p>
 
 <!-- Image centrée cliquable + nom -->
-<div style="text-align:center; margin: 20px 0;">
+<div style="text-align:center; margin:20px 0;">
   <a href="./ivrogne.html" style="text-decoration:none;">
     <img src="../images/Icon_drunk-1.png" alt="Ivrogne" width="350" style="border-radius:8px;">
     <br>
@@ -20,18 +20,13 @@ title: Ivrogne
 
 <hr>
 
-<h2 style="margin-top:10px;">
+<h2>
   <span style="color:#4ea3ff; font-weight:bold;">Informations</span>
 </h2>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>
-    <strong>Type :</strong>
-    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a>
-  </li>
-
+  <li><strong>Type :</strong> <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a></li>
   <li><strong>Artiste :</strong> Aidan Roberts</li>
-
   <li>
     <strong>Nom original :</strong>
     <a href="https://wiki.bloodontheclocktower.com/Drunk"
@@ -39,26 +34,23 @@ title: Ivrogne
        rel="noopener noreferrer"
        style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Drunk</a>
   </li>
+</ul>
 
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic; margin-left:20px; margin-right:20px;">
+<p style="color:#f5f5f5; font-size:18px; font-style:italic; margin-left:20px;">
   « Je ne suis qu’un buveur social, ma chère. Certes, je suis un grand… <em>*hic*</em>… sociabilisateur. »
 </p>
 
 <hr>
 
-<h2 style="margin-top:10px;">
+<h2>
   <span style="color:#b58b52; font-weight:bold;">Apparaît dans</span>
 </h2>
 
-<h2 style="margin-top:10px;">
+<h2>
   <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
 </h2>
 
-</ul>
-
-
-<div style="text-align:center; margin: 20px 0;">
+<div style="text-align:center; margin:20px 0;">
   <a href="../trouble_brewing.html" style="text-decoration:none;">
     <img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400" style="border-radius:12px;">
     <br>
@@ -66,8 +58,8 @@ title: Ivrogne
   </a>
 </div>
 
-<p style="color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  "Cult of the Clocktower – épisode par Andrew Nathenson"
+<p style="color:#e0c99d; font-style:italic; font-size:18px;">
+  Cult of the Clocktower – épisode par Andrew Nathenson
 </p>
 
 <hr>
