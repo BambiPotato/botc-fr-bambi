@@ -141,7 +141,14 @@
 
 
 <!--  Livre des Règles (version table, sans <div>) -->
-<h1 style="color:#b58b52; font-size:20px; font-weight:bold; text-shadow:2px 2px 6px #000; margin-bottom:14px;">
+<h1 style="
+  color:#b58b52;
+  font-size:20px;
+  font-weight:bold;
+  text-shadow:2px 2px 6px #000;
+  padding-left:16px;
+  margin-bottom:14px;
+">
   Livre des Règles
 </h1>
 
@@ -221,8 +228,17 @@
   </tr>
 </table>
 
-
-## <span style="color:#b58b52; font-weight:bold; font-size:20px;">Rôles par Édition</span>
+<!-- Rôles par Édition -->
+<h1 style="
+  color:#b58b52;
+  font-size:20px;
+  font-weight:bold;
+  text-shadow:2px 2px 6px #000;
+  padding-left:16px;
+  margin-bottom:14px;
+">
+  Rôles par Édition
+</h1>
 
 <style>
   /* === Grille table 3x3, responsive, sans <div> visibles === */
@@ -437,7 +453,16 @@ table.roles-grid td{
 <!-- ====== /GRID D'ACCUEIL ====== -->
 
 <!-- Catégories -->
-<h2 style="color:#b58b52; font-weight:bold; font-size:20px; text-align:left;">Catégories</h2>
+<h2 style="
+  color:#b58b52;
+  font-weight:bold;
+  font-size:20px;
+  text-shadow:2px 2px 6px #000;
+  padding-left:16px;
+  margin-bottom:14px;
+">
+  Catégories
+</h2>
 
 <div style="width:100%; text-align:left;">
 
@@ -563,7 +588,16 @@ table.roles-grid td{
   }
 </style>
 
-<h2 style="color:#b58b52; font-weight:bold; font-size:20px;">Scripts personnalisés</h2>
+<h2 style="
+  color:#b58b52;
+  font-weight:bold;
+  font-size:20px;
+  text-shadow:2px 2px 6px #000;
+  padding-left:16px;
+  margin-bottom:14px;
+">
+  Scripts personnalisés
+</h2>
 
 <div class="scripts-grid">
 
