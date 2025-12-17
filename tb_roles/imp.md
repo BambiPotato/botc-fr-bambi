@@ -334,7 +334,7 @@ title: Imp
 <a href="./soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a>
 ou un
 <a href="./maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a>
-peut se faire passer pour une cible intéressante, laissant sa capacité encaisser l’attaque.
+peut se faire passer pour une cible intéressante, laissant sa capacité encaisser l’attaque.<br> 
     À l’inverse, le
     <a href="./saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a>, 
     le 
@@ -358,7 +358,7 @@ peut se faire passer pour une cible intéressante, laissant sa capacité encaiss
     Par exemple :<br>
     <ul style="margin-top:10px; white-space:normal; overflow-wrap:anywhere; word-break:break-word;">
       <li>
-        Bluffer<br>
+        Bluffer
         <a href="./lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>
         ou
         <a href="./bibliothecaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bibliothécaire</a> 
@@ -367,7 +367,8 @@ peut se faire passer pour une cible intéressante, laissant sa capacité encaiss
       <li>
         Bluffer 
         <a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a>
-        en affirmant avoir deux voisins bons, puis mourir « trop opportunément » et transmettre au <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> voisin.
+        en affirmant avoir deux voisins bons,<br> 
+        puis mourir « trop opportunément » et transmettre au <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> voisin.
       </li>
       <li>
         Choisir de mourir puis bluffer le
