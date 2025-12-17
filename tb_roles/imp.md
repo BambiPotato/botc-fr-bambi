@@ -142,7 +142,7 @@ title: Imp
   <li>
     C’est la première nuit.<br>
     L’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> apprend que Céline et Tania sont les <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>.<br>
-    L’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> apprend aussi que 3 rôles ne spnt pas en jeu :<br>
+    L’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> apprend aussi que 3 rôles bons qui ne sont pas en jeu :<br>
     <a href="./moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a><br>
     <a href="./cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuistot</a><br>
     <a href="./bibliothecaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bibliothécaire</a><br>
@@ -158,7 +158,7 @@ title: Imp
     Pendant la nuit, l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> se réveille et choisit un joueur, qui meurt.<br>
     La nuit suivante, l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> se choisit lui-même pour mourir.<br>
     L’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> meurt, et l’
-    <a href="./empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a><br>
+    <a href="./empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>
     devient l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span>.
   </li>
 </ul>
@@ -187,11 +187,11 @@ title: Imp
   </li>
   <li>
     Si vous êtes suspect, le suicide nocturne est toujours une option.<br>
-    Vous perdez le soutien de la puissance de vote continue de ce <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>,<br>
+    Vous perdez le soutien de la puissance de vote continue de ce <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>,
     mais survivre est plus important.<br>
     Vous pouvez aussi le faire même sans suspicion :<br>
     les joueurs font souvent plus confiance à ceux qui meurent la nuit.<br>
-    Dans tous les cas, si vous mourez la nuit, donner une information fausse au Camp du Bien le lendemain,<br>
+    Dans tous les cas, si vous mourez la nuit, donner une information fausse au Camp du Bien le lendemain,
     comme prétendre être le
     <a href="./gardiend.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a>,
     peut changer le cours de la partie.
@@ -217,7 +217,7 @@ title: Imp
   <li>
     Une stratégie très audacieuse, à utiliser parfois avec des joueurs expérimentés, est de revendiquer un rôle que vous n’avez pas reçu en bluff.<br>
     Si vous bluffez un rôle réellement en jeu, le Bien peut supposer que vous êtes juste le 
-    <a href="./baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a><br>
+    <a href="./baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a>
     qui n’a pas appris de rôles qui ne sont pas en jeu, et exécuter d’autres joueurs.<br>
     Bien sûr, le groupe peut aussi décider que vous êtes la <a href="./femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme Écarlate</a> et vous exécuter par précaution.
   </li>
@@ -250,9 +250,9 @@ title: Imp
     Parlez à vos <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>.<br>
     Coordonnez-vous : aidez-les à bluffer.<br>
     Décidez que l’un de vous paraîtra très suspect, tandis qu’un autre prendra le rôle de <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> et survivra jusqu’à la fin.<br>
-    Apprenez ce que sait votre<br>
+    Apprenez ce que sait votre 
     <a href="./espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espion</a>.<br>
-    Coordonnez-vous avec votre<br>
+    Coordonnez-vous avec votre 
     <a href="./empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>
     pour choisir des cibles différentes la nuit.<br>
     Laissez votre <a href="./baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> faire n’importe quoi.<br>
@@ -326,7 +326,7 @@ title: Imp
    Pour protéger vos rôles à information continue, comme le
    <a href="./croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-Mort</a>,<br>
    ou vos rôles à capacité puissante, comme la
-   <a href="./vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Vierge</a>,<br>
+   <a href="./vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Vierge</a>,
    essayez d’inciter l’
    <span style="color:#d45b5b; font-weight:bold;">Imp</span>
    à attaquer de mauvaises cibles.<br>
@@ -361,12 +361,12 @@ peut se faire passer pour une cible intéressante, laissant sa capacité encaiss
         Bluffer<br>
         <a href="./lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>
         ou
-        <a href="./bibliothecaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bibliothécaire</a><br>
+        <a href="./bibliothecaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bibliothécaire</a> 
         et confirmer que son <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> est un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> ou un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a> (très fort si le <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> prétend être le <a href="./saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a>).
       </li>
       <li>
         Bluffer 
-        <a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a><br>
+        <a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a>
         en affirmant avoir deux voisins bons, puis mourir « trop opportunément » et transmettre au <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> voisin.
       </li>
       <li>
