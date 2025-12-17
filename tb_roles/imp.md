@@ -206,11 +206,9 @@ title: Imp
     Comme l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> peut mourir la nuit et transmettre son rôle de <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> à un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>, les bluffs passifs comme les bluffs agressifs peuvent être utiles.<br>
     Si vous débutez, demandez de l’aide au Conteur, ou bluffez un rôle passif comme : <br>
     <a href="./soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a><br>
-    ou <br>
     <a href="./reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a>.<br>
     Si vous êtes plus aventureux, des bluffs plus risqués comme : <br>
     <a href="./voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a><br>
-    ou <br>
     <a href="./croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-Mort</a><br>
     peuvent être tentés.
   </li>
@@ -224,16 +222,14 @@ title: Imp
   <li>
     Pour vos attaques, tuez tôt les <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> puissants, gênants, et collecteurs d’informations, comme : <br>
     <a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a>,<br>
-    <br>
     <a href="./croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-Mort</a>,<br>
     <a href="./moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a><br>
-    ou <br>
     <a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a>.<br>
  Retirer leurs informations ou la puissance de leur capacité tôt vous aidera plus tard.<br>
     Parfois, garder volontairement l’un d’eux en vie jusqu’au dernier jour peut servir de double-bluff.
   </li>
   <li>
-    Tuez aussi les joueurs les plus crédibles tôt  : 
+    Tuez aussi les joueurs les plus crédibles tôt comme la  
     <a href="./vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Vierge</a>
     que tout le monde connaît ne sera jamais exécutée, ce qui augmente vos chances d’être exécuté plus tard.<br>
     Deux
