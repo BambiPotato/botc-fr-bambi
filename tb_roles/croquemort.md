@@ -166,7 +166,7 @@ une [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md) a probabl
   Vous pouvez rester discret plusieurs jours, puis sortir vos "révélations" au moment clé. 
 
 - Un bon moyen de discréditer un rôle du Village exécuté est de prétendre avoir vu un [Ivrogne](ivrogne.md).
-  Donnez-leur plutôt un jeton. Si le groupe vous croit (et surtout si le joueur exécuté vous croit), il considérera que toute information reçue était erronée. 
+  Si le groupe vous croit (et surtout si le joueur exécuté vous croit), il considérera que toute information reçue était erronée. 
   Si vous ignorez quel rôle a un joueur, prétendre qu'il est l'[Ivrogne](ivrogne.md) est un bon moyen de dissimuler ce fait.
 
 ---
