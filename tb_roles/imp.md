@@ -126,7 +126,7 @@ title: Imp
   <li>
     Si l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> attaque un joueur mort la nuit, laissez-le faire.<br>
     Quand une capacité dit « choisissez un joueur », cela signifie n’importe quel joueur : vivant ou mort.<br>
-    L’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> peut vouloir bluffer le<br>
+    L’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> peut vouloir bluffer le
     <a href="./soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a>,<br>
     et ce genre de choix peut rendre son bluff plus crédible.
   </li>
