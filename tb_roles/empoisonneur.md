@@ -116,7 +116,8 @@ L’**Empoisonneur** perturbe secrètement les capacités des autres rôles.
 - Empoisonner un joueur à capacité unique ([Vierge](vierge.md), [Mercenaire](mercenaire.md), [Maire](maire.md)) peut être **dévastateur**.  
 - Coordonnez-vous avec votre [<span style="color:red">Démon</span>](../demons.md) pour éviter de cibler les mêmes personnes.  
 - Vous pouvez même **empoisonner votre propre Démon** pour simuler une protection (comme si un [Moine](moine.md) l’avait protégé).  
-- Vous pouvez rendre la [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md) inapte à devenir Démon si l’[<span style="color:red">Imp</span>](imp.md) meurt — ainsi, un autre [<span style="color:red">Sbire</span>](../sbires.md) peut prendre le relais.  
+- Vous pouvez rendre la [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md) inapte à devenir Démon,
+  si l’[<span style="color:red">Imp</span>](imp.md) meurt ainsi, un autre [<span style="color:red">Sbire</span>](../sbires.md) peut prendre le relais.  
 - Alterner vos cibles brouille les pistes ; mais cibler toujours la même personne peut la faire passer pour un [Ivrogne](ivrogne.md).  
 
 ---
