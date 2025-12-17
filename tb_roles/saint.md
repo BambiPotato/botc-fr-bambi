@@ -128,7 +128,7 @@
 <h2><span style="color:blue">Bluffer Saint</span></h2>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Lorsque vous bluffez en vous faisant passer pour le Saint, voici quelques points à garder à l'esprit :</li>
+  <li>Lorsque vous bluffez en vous faisant passer pour le Saint, voici quelques points à garder à l'esprit:</li>
   <li>vous ne vous réveilleriez jamais, n'apprendriez rien, n'agiriez jamais pendant la journée, <br>
 sauf au moment de votre exécution, auquel cas la partie serait déjà terminée.</li>
   <li>En raison de la condition de défaite du Saint, c'est sans doute l'un des meilleurs bluffs maléfiques du jeu.</li>
@@ -137,15 +137,14 @@ sauf au moment de votre exécution, auquel cas la partie serait déjà terminée
 le jour final, vous courez le même risque que tous les autres (car s'ils n'exécutent pas le Démon, ils perdent de toute façon).</li>
   <li>Vous ferez également l'objet d'une surveillance accrue au fil de la partie.</li>
 
-  <li>Saint est souvent un excellent bluff pour Saint est souvent un excellent bluff pour l'<br>
+  <li>Saint est souvent un excellent bluff pour l'
 <span style="color:#d45b5b; font-weight:bold;"><a href="./empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a></span>,</li>
 
-  <li>Même si l’équipe du Bien est convaincue que vous êtes maléfique, par exemple grâce à des informations provenant à la fois de l'<br>
-<span style="color:#4ea3ff; font-weight:bold;"><a href="./enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Enquêteur</a></span>, <br>
-de <br>
+  <li>
+Même si l’équipe du Bien est convaincue que vous êtes maléfique, par exemple grâce à des informations provenant de rôles comme :<br>
+<span style="color:#4ea3ff; font-weight:bold;"><a href="./enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Enquêteur</a></span> <br> 
 <span style="color:#4ea3ff; font-weight:bold;"><a href="./empathe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a></span> <br>
-et du <br>
-<span style="color:#4ea3ff; font-weight:bold;"><a href="./gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a></span>. <br>
+<span style="color:#4ea3ff; font-weight:bold;"><a href="./gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a></span>  <br>
 L'Équipe du Bien peut malgré tout hésiter à vous exécuter avant le dernier jour.
     <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
       <li>D’ici là, vous aurez déjà causé tous les dégâts nécessaires.</li>
@@ -154,10 +153,10 @@ L'Équipe du Bien peut malgré tout hésiter à vous exécuter avant le dernier 
     </ul>
   </li>
 
-  <li>Si vous êtes l’<br>
+  <li>Si vous êtes l’
 <span style="color:#d45b5b; font-weight:bold;"><a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Imp</a></span>, <br>
 vous savez que votre exécution fait perdre votre équipe s’il n’y a pas de <br>
-<span style="color:#d45b5b; font-weight:bold;"><a href="./femme_ecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme Écarlate</a></span> <br>
+<span style="color:#d45b5b; font-weight:bold;"><a href="./femme_ecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme Écarlate</a></span>
 en jeu.</li>
 
   <li>Pour cette raison, si vous êtes sur le point d’être exécuté et que vous luttez désespérément pour vous sauver, l’équipe du Bien peut interpréter cela comme le comportement d’un Démon cherchant à éviter sa propre mort au moins suffisamment longtemps pour vous permettre de vous suicider et<br>
@@ -167,84 +166,90 @@ de transmettre le rôle de Démon à un Sbire.</li>
 <span style="color:#4ea3ff; font-weight:bold;"><a href="./saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a></span> : <br>
 l’équipe du Bien peut comprendre que vous évitez l’exécution pour empêcher votre équipe de perdre, sans forcément savoir de quelle équipe il s’agit.</li>
 
-  <li>Bluffer le <br>
-<span style="color:#4ea3ff; font-weight:bold;"><a href="./saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a></span> <br>
-dans une partie sans <br>
-<span style="color:#d45b5b; font-weight:bold;"><a href="./baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a></span> <br>
-peut être délicat, car vous risquez d’entrer en conflit avec d’autres Étrangers.</li>
+  <li>Bluffer le 
+<span style="color:#4ea3ff; font-weight:bold;"><a href="./saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a></span> 
+dans une partie sans 
+<span style="color:#d45b5b; font-weight:bold;"><a href="./baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a></span> 
+peut être délicat,<br> 
+car vous risquez d’entrer en conflit avec d’autres Étrangers.</li>
 
-  <li>Heureusement, votre condition de défaite fait de vous une cible d’exécution plus prioritaire qu’un <br>
-<span style="color:#4ea3ff; font-weight:bold;"><a href="./majordome.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Majordome</a></span> <br>
-ou un <br>
+  <li>Heureusement, votre condition de défaite fait de vous une cible d’exécution plus prioritaire qu’un 
+<span style="color:#4ea3ff; font-weight:bold;"><a href="./majordome.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Majordome</a></span> 
+ou un 
 <span style="color:#4ea3ff; font-weight:bold;"><a href="./reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a></span> ; <br>
 utilisez cela à votre avantage pour pousser à l’exécution d’un joueur du Bien.</li>
 
   <li>Il est possible que vous soyez détecté comme maléfique à un moment de la partie.</li>
 
-  <li>Un très bon contre-argument consiste à dire que, puisque vous êtes le <br>
+  <li>Un très bon contre-argument consiste à dire que, puisque vous êtes le 
 <span style="color:#4ea3ff; font-weight:bold;"><a href="./saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a></span>, <br>
 le Conteur vous cible volontairement.</li>
 
-  <li>Par exemple, vous pouvez prétendre être le <strong>LEURRE</strong> "faux positif" de la<br>
+  <li>Par exemple, vous pouvez prétendre être le <strong>LEURRE</strong> "faux positif" de la
 <span style="color:#4ea3ff; font-weight:bold;"><a href="./voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a></span>, <br>
-ou expliquer qu’un <br>
-<span style="color:#4ea3ff; font-weight:bold;"><a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a></span> <br>
-qui vous détecte comme maléfique est en réalité l'<br>
+ou expliquer qu’un 
+<span style="color:#4ea3ff; font-weight:bold;"><a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a></span> 
+qui vous détecte comme maléfique est en réalité l'
 <span style="color:#4ea3ff; font-weight:bold;"><a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a></span>.</li>
 
-  <li>Les joueurs du Bien ont aussi intérêt à bluffer le <br>
+  <li>Les joueurs du Bien ont aussi intérêt à bluffer le 
 <span style="color:#4ea3ff; font-weight:bold;"><a href="./saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a></span> !</li>
 
   <li>Les Démons hésitent généralement à cibler un Saint, préférant qu’il soit exécuté.</li>
 
-  <li>En exploitant cela, vous pouvez survivre quelques jours de plus en tant qu’<br>
-<span style="color:#4ea3ff; font-weight:bold;"><a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a></span> <br>
-ou <br>
+  <li>En exploitant cela, vous pouvez survivre quelques jours de plus en tant qu’
+<span style="color:#4ea3ff; font-weight:bold;"><a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a></span> 
+ou 
 <span style="color:#4ea3ff; font-weight:bold;"><a href="./voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a></span>.</li>
 
-  <li>Si vous êtes exécuté, il deviendra immédiatement évident que vous n’êtes pas le <br>
-<span style="color:#4ea3ff; font-weight:bold;"><a href="./saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a></span> <br>
+  <li>Si vous êtes exécuté, il deviendra immédiatement évident que vous n’êtes pas le 
+<span style="color:#4ea3ff; font-weight:bold;"><a href="./saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a></span>, <br>
 puisque la partie ne se terminera pas.</li>
 
-  <li>Soyez prêt à avoir un bluff de secours, comme le <br>
+  <li>Soyez prêt à avoir un bluff de secours, comme le 
 <span style="color:#4ea3ff; font-weight:bold;"><a href="./reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a></span>, <br>
-ou un Villageois puissant qui ne voulait pas mourir (comme l’<br>
-<span style="color:#4ea3ff; font-weight:bold;"><a href="./croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-Mort</a></span> <br>
-ou le <br>
+ou un Villageois puissant qui ne voulait pas mourir (comme le
+<span style="color:#4ea3ff; font-weight:bold;"><a href="./croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-Mort</a></span> 
+ou le 
 <span style="color:#4ea3ff; font-weight:bold;"><a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a></span>).</li>
 
-  <li>Méfiez-vous du<br>
+  <li>Méfiez-vous du
 <span style="color:#4ea3ff; font-weight:bold;"><a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a></span> !</li>
 
-  <li>Le <br>
+  <li>Le 
 <span style="color:#4ea3ff; font-weight:bold;"><a href="./saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a></span> <br>
-est généralement un bluff très efficace pour éviter l’exécution, mais si un <br>
+est généralement un bluff très efficace pour éviter l’exécution, <br> 
+mais si un 
 <span style="color:#4ea3ff; font-weight:bold;"><a href="./saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a></span> est en jeu, <br>
-il voudra très probablement vous tester, sans risquer de déclencher la condition de défaite du Saint avec son pouvoir.</li>
+il voudra très probablement vous tester, sans risquer de déclencher la condition de défaite du 
+<span style="color:#4ea3ff; font-weight:bold;"><a href="./saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a></span> avec son pouvoir.</li>
 
-  <li>Une bonne manière de contourner cela est de faire bluffer le Saint par un Sbire, de le faire tuer par le <br>
+  <li>Une bonne manière de contourner cela est de faire bluffer le 
+   <span style="color:#4ea3ff; font-weight:bold;"><a href="./saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a></span> 
+    par un Sbire,<br>
+    de le faire tuer par le 
 <span style="color:#4ea3ff; font-weight:bold;"><a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a></span>, <br>
-puis de faire passer le rôle de Démon à ce Sbire via l’<br>
+puis de faire passer le rôle de Démon à ce Sbire via l’
 <span style="color:#d45b5b; font-weight:bold;"><a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Imp</a></span>.</li>
 
-  <li>Si vous êtes nommé, abandonnez tout bluff précédent et révélez-vous comme le <br>
+  <li>Si vous êtes nommé, abandonnez tout bluff précédent et révélez-vous comme le 
 <span style="color:#4ea3ff; font-weight:bold;"><a href="./saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a></span>. <br>
 Affirmez que vos informations et votre rôle précédents étaient une ruse destinée à inciter le Démon à vous cibler. <br>
 Cela provoquera généralement une forte hésitation chez l’équipe du Bien.</li>
 
-  <li>N’ayez pas peur de prétendre être le <br>
-<span style="color:#4ea3ff; font-weight:bold;"><a href="./saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a></span>, <br>
+  <li>N’ayez pas peur de prétendre être le 
+<span style="color:#4ea3ff; font-weight:bold;"><a href="./saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a></span>, 
 même s’il y en a déjà un en jeu.</li>
 
   <li>L’équipe du Bien peut généralement résoudre deux revendications identiques en exécutant les deux joueurs dans n’importe quel ordre,<br>
-mais cela n’est pas possible avec le <br>
+mais cela n’est pas possible avec le 
 <span style="color:#4ea3ff; font-weight:bold;"><a href="./saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a></span>.</li>
 
-  <li>Prétendre être un <br>
-<span style="color:#4ea3ff; font-weight:bold;"><a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a></span> <br>
-peut masquer la présence de l’<br>
+  <li>Prétendre être un 
+<span style="color:#4ea3ff; font-weight:bold;"><a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a></span> 
+peut masquer la présence de l’
 <span style="color:#4ea3ff; font-weight:bold;"><a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a></span> <br>
-ou amener l’équipe du Bien à penser qu’un <br>
+ou amener l’équipe du Bien à penser qu’un 
 <span style="color:#d45b5b; font-weight:bold;"><a href="./baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a></span> <br>
 est en jeu.</li>
 </ul>
