@@ -168,7 +168,7 @@ title: Imp
 </h2>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px; white-space:normal; overflow-wrap:anywhere; word-break:break-word;">
-  Il existe de nombreuses stratégies pour les joueurs maléfiques, en particulier l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span>, détaillées plus en profondeur dans la section<br>
+  Il existe de nombreuses stratégies pour les joueurs maléfiques, en particulier l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span>, détaillées plus en profondeur dans la section
   <a href="../strategie.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Stratégie</a>.<br>
   En règle générale, en tant que <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, vous voulez paraître digne de confiance, répandre de fausses informations quand c’est possible,<br>
   pousser vos <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> à confirmer que vous êtes un joueur du Bien, et les sacrifier quand c’est nécessaire.<br>
@@ -178,9 +178,10 @@ title: Imp
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; white-space:normal; overflow-wrap:anywhere; word-break:break-word;">
   <li>
     Survivez pendant la journée à tout prix.<br>
-    Même dans les parties avec trois <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>, n’assumez pas qu’une<br>
-    <a href="./femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme Écarlate</a><br>
-    est en jeu. (Cependant, si vous parlez à vos <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> et apprenez que c’est le cas, vous pouvez ignorer ce conseil.)
+    Même dans les parties avec trois <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>, n’assumez pas qu’une
+    <a href="./femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme Écarlate</a>
+    est en jeu.<br>
+    Cependant, si vous parlez à vos <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> et apprenez que c’est le cas, vous pouvez ignorer ce conseil.
   </li>
   <li>
     Si vous êtes suspect, le suicide nocturne est toujours une option.<br>
@@ -189,8 +190,8 @@ title: Imp
     Vous pouvez aussi le faire même sans suspicion :<br>
     les joueurs font souvent plus confiance à ceux qui meurent la nuit.<br>
     Dans tous les cas, si vous mourez la nuit, donner une information fausse au Camp du Bien le lendemain,<br>
-    comme prétendre être le<br>
-    <a href="./gardiend.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a>,<br>
+    comme prétendre être le
+    <a href="./gardiend.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a>,
     peut changer le cours de la partie.
   </li>
   <li>
@@ -208,7 +209,7 @@ title: Imp
     <a href="./reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a>.<br>
     Si vous êtes plus aventureux, des bluffs plus risqués comme : <br>
     <a href="./voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a><br>
-    <a href="./croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-Mort</a><br>
+    <a href="./croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-Mort</a> 
     peuvent être tentés.
   </li>
   <li>
@@ -220,10 +221,10 @@ title: Imp
   </li>
   <li>
     Pour vos attaques, tuez tôt les <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> puissants, gênants, et collecteurs d’informations, comme : <br>
-    <a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a>,<br>
-    <a href="./croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-Mort</a>,<br>
+    <a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a><br>
+    <a href="./croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-Mort</a><br>
     <a href="./moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a><br>
-    <a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a>.<br>
+    <a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a><br>
  Retirer leurs informations ou la puissance de leur capacité tôt vous aidera plus tard.<br>
     Parfois, garder volontairement l’un d’eux en vie jusqu’au dernier jour peut servir de double-bluff.
   </li>
@@ -304,7 +305,7 @@ title: Imp
     C’est une information énorme :<br>
     savoir que cette personne est maléfique vous permet d’analyser tout ce qu’elle a fait afin d’identifier le reste de l’équipe maléfique.<br>
     C’est là que les informations fournies par des rôles comme : <br>
-    <a href="./cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuistot</a>,<br>
+    <a href="./cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuistot</a><br>
     <a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a><br>
     <a href="./enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Enquêteur</a><br>
     devient particulièrement précieuse.<br>
@@ -389,7 +390,7 @@ peut se faire passer pour une cible intéressante, laissant sa capacité encaiss
         <a href="./soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a> ou
         <a href="./moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a>.<br>
         Les joueurs font très souvent confiance à un 
-        <a href="./soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a><br>,
+        <a href="./soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a>,<br>
         s’il n’y a pas eu de mort, ce qui en fait un excellent candidat pour reprendre le rôle de <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> plus tard.
       </li>
     </ul>
