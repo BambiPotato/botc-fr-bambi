@@ -143,22 +143,20 @@ title: Imp
   <li>
     C’est la première nuit.<br>
     L’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> apprend que Céline et Tanina sont les <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>.<br>
-    L’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> apprend aussi que le<br>
-    <a href="./moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a>,<br>
-    le<br>
-    <a href="./cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuistot</a><br>
-    et le<br>
-    <a href="./bibliothecaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bibliothécaire</a><br>
+    L’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> apprend aussi que <br>
+    <a href="./moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">le Moine</a>,<br>
+    <a href="./cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">le Cuistot</a><br>
+    <a href="./bibliothecaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">le Bibliothécaire</a><br>
     ne sont pas en jeu.<br>
-    L’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> bluffe le <a href="./cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuistot</a>, puis bluffe le<br>
-    <a href="./maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a><br>
+    L’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> bluffe le <a href="./cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuistot</a>, puis bluffe le 
+    <a href="./maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a>
     à mi-partie.<br>
     Finalement, l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> est exécuté et le Bien gagne.
   </li>
   <li>
     Pendant la nuit, l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> se réveille et choisit un joueur, qui meurt.<br>
     La nuit suivante, l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> se choisit lui-même pour mourir.<br>
-    L’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> meurt, et l’<br>
+    L’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> meurt, et l’
     <a href="./empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a><br>
     devient l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span>.
   </li>
@@ -206,40 +204,39 @@ title: Imp
     Au début de la partie, le Conteur vous donne trois bluffs possibles.<br>
     Vous pouvez bluffer ce que vous voulez, bien sûr, mais ces bluffs sont sûrs.<br>
     Comme l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> peut mourir la nuit et transmettre son rôle de <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> à un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>, les bluffs passifs comme les bluffs agressifs peuvent être utiles.<br>
-    Si vous débutez, demandez de l’aide au Conteur, ou bluffez un rôle passif comme le<br>
+    Si vous débutez, demandez de l’aide au Conteur, ou bluffez un rôle passif comme : <br>
     <a href="./soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a><br>
-    ou le<br>
+    ou <br>
     <a href="./reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a>.<br>
-    Si vous êtes plus aventureux, des bluffs plus risqués comme la<br>
+    Si vous êtes plus aventureux, des bluffs plus risqués comme : <br>
     <a href="./voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a><br>
-    ou le<br>
+    ou <br>
     <a href="./croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-Mort</a><br>
     peuvent être tentés.
   </li>
   <li>
     Une stratégie très audacieuse, à utiliser parfois avec des joueurs expérimentés, est de revendiquer un rôle que vous n’avez pas reçu en bluff.<br>
-    Si vous bluffez un rôle réellement en jeu, le Bien peut supposer que vous êtes juste le<br>
+    Si vous bluffez un rôle réellement en jeu, le Bien peut supposer que vous êtes juste le 
     <a href="./baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a><br>
-    qui n’a pas appris de rôles hors-jeu, et exécuter d’autres joueurs.<br>
+    qui n’a pas appris de rôles qui ne sont pas en jeu, et exécuter d’autres joueurs.<br>
     Bien sûr, le groupe peut aussi décider que vous êtes la <a href="./femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme Écarlate</a> et vous exécuter par précaution.
   </li>
   <li>
-    Pour vos attaques, tuez tôt les <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> puissants, gênants, et collecteurs d’informations, comme l’<br>
+    Pour vos attaques, tuez tôt les <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> puissants, gênants, et collecteurs d’informations, comme : <br>
     <a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a>,<br>
-    le<br>
+    <br>
     <a href="./croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-Mort</a>,<br>
-    le<br>
     <a href="./moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a><br>
-    ou le<br>
+    ou <br>
     <a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a>.<br>
-    Retirer leurs informations (ou leur puissance) tôt vous aide plus tard.<br>
+ Retirer leurs informations ou la puissance de leur capacité tôt vous aidera plus tard.<br>
     Parfois, garder volontairement l’un d’eux en vie jusqu’au dernier jour peut servir de double-bluff.
   </li>
   <li>
-    Tuez aussi les joueurs les plus crédibles tôt : une<br>
-    <a href="./vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Vierge</a><br>
+    Tuez aussi les joueurs les plus crédibles tôt  : 
+    <a href="./vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Vierge</a>
     que tout le monde connaît ne sera jamais exécutée, ce qui augmente vos chances d’être exécuté plus tard.<br>
-    Deux<br>
+    Deux
     <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a><br>
     que tout le monde croit être des <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a> devront disparaître, car ils ne seront pas exécutés non plus.<br>
     Au dernier jour, vous voulez au moins un autre joueur, idéalement deux, qui paraissent plus suspects que vous.
@@ -247,11 +244,9 @@ title: Imp
   <li>
     Envoyez vos <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> en missions de collecte d’informations.<br>
     Apprenez qui est qui.<br>
-    Cela vous aide à éviter d’attaquer des rôles problématiques comme le<br>
-    <a href="./gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a><br>
-    ou le<br>
-    <a href="./soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a>,<br>
-    et les problèmes qui suivent.
+    Cela vous aide à éviter d’attaquer des rôles problématiques comme 
+    <a href="./gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a> ou 
+    <a href="./soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a>.<br>
   </li>
   <li>
     Parlez à vos <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>.<br>
@@ -260,7 +255,7 @@ title: Imp
     Apprenez ce que sait votre<br>
     <a href="./espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espion</a>.<br>
     Coordonnez-vous avec votre<br>
-    <a href="./empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a><br>
+    <a href="./empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>
     pour choisir des cibles différentes la nuit.<br>
     Laissez votre <a href="./baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> faire n’importe quoi.<br>
     Apprenez si le plan de la <a href="./femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme Écarlate</a> est de vous tuer, ou de vous garder en vie.
@@ -286,7 +281,7 @@ title: Imp
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px; white-space:normal; overflow-wrap:anywhere; word-break:break-word;">
   Dans <strong>Trouble Brewing</strong>, combattre l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> revient à jouer correctement pour l’équipe du Bien :<br>
-  pensez à consulter la section<br>
+  pensez à consulter la section 
   <a href="../strategie.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Stratégie</a>.<br>
   Exécuter le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> fait gagner le Bien.<br>
   Si vous avez une piste sur un <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> possible et une autre sur un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> possible, il est généralement préférable de prioriser l’exécution des suspects <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.
@@ -302,9 +297,8 @@ title: Imp
     vous avez alors une chance sur deux d’exécuter la bonne cible.
   </li>
   <li>
-    Des rôles comme le<br>
+    Des rôles comme :<br>
     <a href="./gardiend.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a><br>
-    ou le<br>
     <a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a><br>
     sont particulièrement utiles pour innocenter des joueurs.<br>
     Trouver un maléfique est excitant, mais innocenter un bon joueur peut être tout aussi puissant.
@@ -313,42 +307,44 @@ title: Imp
     Si quelqu’un meurt de manière inattendue à un moment étrange, ou après être devenu très suspect,<br>
     vous venez peut-être de voir l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> se tuer et transmettre le rôle de <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> à un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>.<br>
     C’est une information énorme :<br>
-    savoir que cette personne est maléfique vous permet d’analyser tout ce qu’elle a fait pour identifier l’autre partie de l’équipe du Mal.<br>
-    C’est là que l’information du<br>
+    savoir que cette personne est maléfique vous permet d’analyser tout ce qu’elle a fait afin d’identifier le reste de l’équipe maléfique.<br>
+    C’est là que les informations fournies par des rôles comme : <br>
     <a href="./cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuistot</a>,<br>
-    de l’<br>
     <a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a><br>
-    et de l’<br>
     <a href="./enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Enquêteur</a><br>
     devient particulièrement précieuse.<br>
     Même s’ils ne sont pas en jeu, vous avez d’autres angles :<br>
     avec qui cette personne parlait-elle, qui a-t-elle « confirmé », qui a-t-elle protégé, quelles informations a-t-elle cherché à rendre crédibles ?
   </li>
   <li>
-    Attention à la<br>
+    Attention à la 
     <a href="./femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme Écarlate</a>.<br>
-    Tant qu’il y a cinq joueurs ou plus en vie, l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> peut être exécuté et l’équipe du Mal peut continuer.<br>
+    Tant qu’il y a cinq joueurs ou plus en vie, l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> peut être exécuté et l’équipe maléfique peut continuer.<br>
     Si vous pensez savoir qui est l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span>, envisagez de retarder l’exécution jusqu’à ce qu’il reste moins de cinq joueurs,<br>
     afin que sa capacité ne puisse pas s’activer et que le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> soit stoppé net.
   </li>
   <li>
     L’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> peut être très efficace pour éliminer les rôles menaçants.<br>
-    Pour protéger vos rôles à information continue (comme le<br>
-    <a href="./croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-Mort</a>,)<br>
-    ou à capacité puissante (comme la<br>
-    <a href="./vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Vierge</a>,),<br>
-    essayez d’inciter l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> à attaquer de mauvaises cibles.<br>
-    Par exemple, un<br>
-    <a href="./soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a> ou un<br>
-    <a href="./maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a><br>
-    peut bluffer une cible intéressante, laissant sa capacité encaisser l’attaque.<br>
-    À l’inverse, le<br>
-    <a href="./saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a>,<br>
-    le<br>
-    <a href="./reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a><br>
-    ou la<br>
+   Pour protéger vos rôles à information continue, comme le
+   <a href="./croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-Mort</a>,<br>
+   ou vos rôles à capacité puissante, comme la
+   <a href="./vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Vierge</a>,<br>
+   essayez d’inciter l’
+   <span style="color:#d45b5b; font-weight:bold;">Imp</span>
+   à attaquer de mauvaises cibles.<br>
+   Par exemple, un
+<a href="./soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a>
+ou un
+<a href="./maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a>
+peut se faire passer pour une cible intéressante, laissant sa capacité encaisser l’attaque.
+    À l’inverse, le
+    <a href="./saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a>, 
+    le 
+    <a href="./reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a>
+    ou la
     <a href="./lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a><br>
-    peuvent chercher à attirer l’attention du <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> : ils mourront, mais c’est parfois mieux que perdre votre <a href="./voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>.
+    peuvent chercher à attirer l’attention du <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a><br> : 
+    ils mourront, mais c’est parfois mieux que perdre votre <a href="./voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>.
   </li>
   <li>
     Si vous jouez à six joueurs ou moins, les règles du <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> changent légèrement :<br>
@@ -365,33 +361,39 @@ title: Imp
     <ul style="margin-top:10px; white-space:normal; overflow-wrap:anywhere; word-break:break-word;">
       <li>
         Bluffer<br>
-        <a href="./lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a><br>
-        ou<br>
+        <a href="./lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>
+        ou
         <a href="./bibliothecaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bibliothécaire</a><br>
         et confirmer que son <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> est un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> ou un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a> (très fort si le <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> prétend être le <a href="./saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a>).
       </li>
       <li>
-        Bluffer l’<br>
+        Bluffer 
         <a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a><br>
         en affirmant avoir deux voisins bons, puis mourir « trop opportunément » et transmettre au <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> voisin.
       </li>
       <li>
-        Choisir de mourir puis bluffer le<br>
-        <a href="./gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a><br>
+        Choisir de mourir puis bluffer le
+        <a href="./gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a>,<br>
         afin de confirmer le bluff d’un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> devenu <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.
       </li>
       <li>
-        Bluffer le<br>
-        <a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a>,<br>
+        Bluffer des rôles comme :<br>
+        <a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a>,
         « tirer » sur son <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>, puis mourir.<br>
-        (Variante : pousser un vrai <a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a> bon à tirer sur le <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>,<br>
-        puis transmettre au <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> après qu’il a été confirmé non-<a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.)
+        Variante : pousser un vrai
+        <a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a>
+        bon à tirer sur un
+        <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>,<br>
+        puis transférer les soupçons vers un autre
+        <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>
+        après que celui-ci a été confirmé comme n’étant pas le
+        <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.
       </li>
       <li>
-        Choisir de ne tuer personne une nuit pour permettre à un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> de bluffer<br>
-        <a href="./soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a> ou<br>
+        Choisir de ne tuer personne une nuit pour permettre à un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> de          bluffer des rôles comme :<br>
+        <a href="./soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a> ou
         <a href="./moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a>.<br>
-        Les joueurs font très souvent confiance à un<br>
+        Les joueurs font très souvent confiance à un 
         <a href="./soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a><br>,
         s’il n’y a pas eu de mort, ce qui en fait un excellent candidat pour reprendre le rôle de <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> plus tard.
       </li>
