@@ -70,7 +70,7 @@
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Si le saint meurt exécuté, la partie prend fin. Le bien perd et le mal triomphe.</li>
   <li>Dans <strong>Trouble Brewing</strong>, le Saint est toujours <strong>Bon</strong> : s’il est <strong>exécuté</strong>, <strong>le Mal gagne</strong>.</li>
-  <li>Si le Saint meurt <strong>autrement</strong> que par exécution (attaque du Démon, etc.), <strong>la partie continue</strong>.</li>
+  <li>Si le Saint meurt <strong>autrement</strong> que par exécution (par exemple, tué par le Démon), <strong>la partie continue</strong>.</li>
 </ul>
 
 <hr>
@@ -80,7 +80,7 @@
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Si le <strong>Saint</strong> meurt <strong>par exécution</strong>, <strong>annoncez immédiatement la fin de la partie</strong> : <strong>le Mal l’emporte</strong>.</li>
   <li>Si le Saint <strong>ne meurt pas par exécution</strong>, <strong>la partie continue</strong>.</li>
-  <li>La formulation « <em>votre équipe perd</em> » signifie ici « le Bien perd » car le Saint est toujours Bon dans TB.</li>
+  <li>La formulation « <em>votre équipe perd</em> » signifie ici « le Bien perd » car le Saint est toujours Bon dans <strong>Trouble Brewing</strong>..</li>
   <li>Dans d’autres éditions, si le Saint peut devenir maléfique, inversez selon l’alignement réel au moment de l’exécution;, (appliquez littéralement)<br>
   « <em>votre équipe perd</em> ». Si un Saint <strong>maléfique</strong> est exécuté, alors <strong>le Bien gagne</strong>.</li>
 </ul>
@@ -92,7 +92,7 @@
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Il reste sept joueurs en vie et les nominations sont en cours. Le Saint obtient 4 votes et est « sur le bûcher ( il est sur le point de mourir par exécution).</li>
 
-  <li>Ensuite, le <strong><a href="./baron.html" style="text-decoration:none;"><span style="color:red">Baron</span></a></strong> est nommé mais n’obtient que 3 voix.<br>
+  <li>Ensuite, le <strong><a href="./baron.html" style="text-decoration:none;"><span style="color:red">Baron</span></a></strong> est nommé mais n’obtient que 3 votes.<br>
   Aucune autre nomination n'est faite aujourd'hui. : le Saint est exécuté → <strong>fin de partie, le Mal triomphe</strong>.</li>
 
   <li>L’<strong><a href="./imp.html" style="text-decoration:none;"><span style="color:red">Imp</span></a></strong> est nommé et les joueurs votent. Le <strong><a href="../voyageurs/gunslinger.html" style="text-decoration:none;"><span style="color:purple">Gunslinger</span></a></strong> tue le Saint pendant la journée ; le Saint <strong>meurt</strong>, <strong>mais la partie continue</strong> (ce n’est pas une exécution).</li>
@@ -105,7 +105,8 @@
 <h2><span style="color:blue">Conseils &amp; Astuces</span></h2>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li><strong>Ne vous faites pas exécuter.</strong> Vraiment. Prévenez <strong>publiquement</strong> que vous êtes le Saint si vous êtes menacé d’exécution.</li>
+  <li><strong>Ne vous faites pas exécuter.</strong> Vraiment. <br>
+    Prévenez <strong>publiquement</strong> que vous êtes le Saint si vous êtes menacé d’exécution.</li>
 
   <li><strong>Faites-vous confirmer sans risquer l’exécution :</strong>
     <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
@@ -116,7 +117,8 @@
     </ul>
   </li>
 
-  <li><strong>Profil bas efficace :</strong> bluffer un rôle qui attire les attaques nocturnes (<strong><a href="./moine.html" style="text-decoration:none;">Moine</a></strong>, <strong><a href="./voyante.html" style="text-decoration:none;">Voyante</a></strong>, <strong><a href="./mercenaire.html" style="text-decoration:none;">Mercenaire</a></strong>) peut pousser le Démon à <strong>vous tuer la nuit</strong> plutôt que de risquer une exécution accidentelle.</li>
+  <li><strong>Profil bas efficace :</strong> <br>
+    bluffer un rôle qui attire les attaques nocturnes (<strong><a href="./moine.html" style="text-decoration:none;">Moine</a></strong>, <strong><a href="./voyante.html" style="text-decoration:none;">Voyante</a></strong>, <strong><a href="./mercenaire.html" style="text-decoration:none;">Mercenaire</a></strong>) peut pousser le Démon à <strong>vous tuer la nuit</strong> plutôt que de risquer une exécution accidentelle.</li>
 
   <li><strong>Comptez les Étrangers :</strong> si les déclarations d’<strong>Étrangers</strong> correspondent à la configuration (ou s’il y a un <strong><a href="./baron.html" style="text-decoration:none;"><span style="color:red">Baron</span></a></strong>), votre présence devient plus crédible.</li>
 
@@ -217,7 +219,7 @@ ou le
 <span style="color:#4ea3ff; font-weight:bold;"><a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a></span> !</li>
 
   <li>Le 
-<span style="color:#4ea3ff; font-weight:bold;"><a href="./saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a></span> <br>
+<span style="color:#4ea3ff; font-weight:bold;"><a href="./saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a></span> 
 est généralement un bluff très efficace pour éviter l’exécution, <br> 
 mais si un 
 <span style="color:#4ea3ff; font-weight:bold;"><a href="./saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a></span> est en jeu, <br>
@@ -250,7 +252,7 @@ mais cela n’est pas possible avec le
 peut masquer la présence de l’
 <span style="color:#4ea3ff; font-weight:bold;"><a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a></span> <br>
 ou amener l’équipe du Bien à penser qu’un 
-<span style="color:#d45b5b; font-weight:bold;"><a href="./baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a></span> <br>
+<span style="color:#d45b5b; font-weight:bold;"><a href="./baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a></span> 
 est en jeu.</li>
 </ul>
 
