@@ -136,13 +136,12 @@
 </ul>
 
 <hr>
-
 <h2><span style="color:blue">Bluffer Saint</span></h2>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Lorsque vous bluffez en vous faisant passer pour le Saint, voici quelques points à garder à l'esprit :</li>
 
-  vous ne vous réveilleriez jamais, n'apprendriez rien, n'agiriez jamais pendant la journée, <br>
+  <li>vous ne vous réveilleriez jamais, n'apprendriez rien, n'agiriez jamais pendant la journée, <br>
 sauf au moment de votre exécution, auquel cas la partie serait déjà terminée.</li>
 
   <li>En raison de la condition de défaite du Saint, c'est sans doute l'un des meilleurs bluffs maléfiques du jeu.</li>
@@ -150,6 +149,7 @@ sauf au moment de votre exécution, auquel cas la partie serait déjà terminée
   <li>Cela ne signifie pas pour autant que votre stratégie est infaillible ; <br>
 le jour final, vous courez le même risque que tous les autres (car s'ils n'exécutent pas le Démon, ils perdent de toute façon).</li>
   <li>Vous ferez également l'objet d'une surveillance accrue au fil de la partie.</li>
+</ul>
 
   <li>Saint est souvent un excellent bluff pour Saint est souvent un excellent bluff pour l'<br>
 <span style="color:#d45b5b; font-weight:bold;"><a href="empoisonneur.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a></span>,</li>
