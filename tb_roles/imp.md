@@ -90,8 +90,8 @@ title: Imp
     ce joueur n’utilisera probablement pas sa capacité cette nuit.
   </li>
   <li>
-    L’<span style="color:#f5f5f5; font-weight:bold;">Imp</span>, parce qu’il est un <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, sait quels joueurs sont ses<br>
-    <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>,<br>
+    L’<span style="color:#f5f5f5; font-weight:bold;">Imp</span>, parce qu’il est un <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, sait quels joueurs sont ses
+    <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>,
     et connaît trois rôles bons qui ne sont pas en jeu, qu’il peut bluffer en toute sécurité.
   </li>
   <li>
@@ -112,11 +112,10 @@ title: Imp
     Chaque nuit (sauf la première), réveillez l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span>.<br>
     L’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> pointe un joueur.<br>
     Rendormez l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span>.<br>
-    Le joueur choisi meurt : placez le rappel <strong>MORT</strong> de l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> à côté du jeton de rôle de la cible dans le Grimoire<br>
-    et placez un linceul.
+    Le joueur choisi meurt : placez le rappel <strong>MORT</strong> de l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> à côté du jeton de rôle de la cible dans le Grimoire et placez un linceul.
   </li>
   <li>
-    Si l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> s’est tué la nuit, choisissez un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> vivant et remplacez son jeton de rôle<br>
+    Si l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> s’est tué la nuit, choisissez un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> vivant et remplacez son jeton de rôle
     par un jeton <span style="color:#f5f5f5; font-weight:bold;">Imp</span> de réserve, changeant son rôle en <span style="color:#f5f5f5; font-weight:bold;">Imp</span>.<br>
     Réveillez le nouvel <span style="color:#f5f5f5; font-weight:bold;">Imp</span>, montrez-lui le jeton d’info « VOUS ÊTES », puis montrez-lui le jeton <span style="color:#f5f5f5; font-weight:bold;">Imp</span>.<br>
     Rendormez le nouvel <span style="color:#f5f5f5; font-weight:bold;">Imp</span>.
@@ -142,11 +141,11 @@ title: Imp
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; white-space:normal; overflow-wrap:anywhere; word-break:break-word;">
   <li>
     C’est la première nuit.<br>
-    L’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> apprend que Céline et Tanina sont les <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>.<br>
+    L’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> apprend que Céline et Tania sont les <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>.<br>
     L’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> apprend aussi que <br>
-    <a href="./moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">le Moine</a>,<br>
-    <a href="./cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">le Cuistot</a><br>
-    <a href="./bibliothecaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">le Bibliothécaire</a><br>
+    <a href="./moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a>,<br>
+    <a href="./cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuistot</a><br>
+    <a href="./bibliothecaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bibliothécaire</a><br>
     ne sont pas en jeu.<br>
     L’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> bluffe le <a href="./cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuistot</a>, puis bluffe le 
     <a href="./maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a>
