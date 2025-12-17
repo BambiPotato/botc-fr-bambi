@@ -149,6 +149,7 @@ title: Lavandière
   <li>Si vous êtes
     <a href="./ivrogne.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Ivrogne</a>
     ou empoisonné ou empoisonnée, vos infos seront souvent fausses. Comparez-les aux déclarations des joueurs et des joueuses.</li>
+  
   <li>Parmi les deux joueurs désignés, l’un <strong>est</strong> bien le rôle vu. Donc vous savez aussi que ce joueur <strong>n’est pas</strong> l’
     <a href="./ivrogne.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Ivrogne</a>.
   </li>
@@ -157,6 +158,7 @@ title: Lavandière
   <li>Formez une alliance discrète avec le
     <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>
     que vous avez identifié. Ensemble, vous pourrez vous défendre si l’un de vous est accusé.
+    
   </li>
   <li>Vous pouvez aussi mentir au groupe sur le rôle exact pour protéger le vrai
     <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>
