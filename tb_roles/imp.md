@@ -143,13 +143,15 @@ title: Imp
     C’est la première nuit.<br>
     L’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> apprend que Céline et Tania sont les <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>.<br>
     L’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> apprend aussi que 3 rôles ne spnt pas en jeu :<br>
-    <a href="./moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a>,<br>
+    <a href="./moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a><br>
     <a href="./cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuistot</a><br>
     <a href="./bibliothecaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bibliothécaire</a><br>
     L’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> bluffe le 
     <a href="./cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuistot</a>, puis bluffe le 
     <a href="./maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a>
     à mi-partie.<br>
+  </li>
+  <li>
     Finalement, l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> est exécuté et le Bien gagne.
   </li>
   <li>
