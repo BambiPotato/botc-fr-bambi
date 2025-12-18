@@ -6,13 +6,13 @@ title: Barbier
 <!-- 🔷 Logo en haut à gauche -->
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="../images/logo.png" alt="Accueil BotC FR" width="200">
+    <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
 ---
 
-## 💈 Barbier
+##    <span style="color:#4ea3ff;>Barbier</span>
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="./barbier.html" style="text-decoration:none;">
@@ -22,14 +22,37 @@ title: Barbier
   </a>
 </div>
 
----
 
-## ℹ️ Information  
+##  <span style="color:blue">Informations</span>
 
-- **Type :** [<span style="color:blue;">**Étranger**</span>](../etrangers.md)  
-- **Artiste :** Aidan Roberts  
-> *« Saviez-vous qu’autrefois, les barbiers étaient aussi chirurgiens ?  
-Non ? Eh bien maintenant, vous le savez. »*
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Étrangers
+    </a>
+  </li>
+
+  <li>
+    <strong>Artiste :</strong> Aidan Roberts
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Barber"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Barber
+    </a>
+  </li>
+</ul>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
+« Saviez-vous qu’autrefois, les barbiers étaient aussi chirurgiens ?  
+Non ? Eh bien maintenant, vous le savez. » »
+</p> 
+
 
 ---
 
@@ -47,7 +70,7 @@ Non ? Eh bien maintenant, vous le savez. »*
 
 ---
 
-## 📖 Résumé  
+##  Résumé  
 
 > « Si vous êtes mort aujourd’hui ou cette nuit, 
 > le Démon peut choisir 2 joueurs (pas un autre Démon) pour échanger leurs rôles. »
@@ -61,7 +84,7 @@ Le Démon peut aussi **ne rien faire**.
 
 ---
 
-## 🎬 Comment Conter  
+##  Comment Conter  
 
 1. Si le Barbier meurt, placez le jeton de rappel **“COUPES DE CHEVEUX CETTE NUIT”**.  
 2. Cette nuit-là, **réveillez le Démon** :  
@@ -80,7 +103,7 @@ Le Démon peut aussi **ne rien faire**.
 
 ---
 
-## 🧾 Exemples  
+##  Exemples  
 
 - Le Barbier meurt. Le Démon **envisage** de permuter le [Horloger](horloger.md) et le [Jongleur](jongleur.md),  
   mais renonce finalement.  
@@ -95,9 +118,9 @@ Le Démon peut aussi **ne rien faire**.
 
 ---
 
-## 💡 Astuces & Conseils  
+##  Astuces & Conseils  
 
-### ✂️ Ne mourez pas trop tôt
+###  Ne mourez pas trop tôt
 Votre mort offre **un pouvoir monstrueux au Démon**.  
 Il peut bouleverser les alliances, rendre les informations fausses,  
 et semer la panique dans tout le village.  
@@ -107,7 +130,7 @@ comme le [Sage](sage.md) ou un rôle “épuisé” (ex. [Artiste](artiste.md), 
 
 ---
 
-### 😶 Si vous mourez malgré tout  
+###  Si vous mourez malgré tout  
 - **Annoncez votre rôle** après un court délai :  
   cela laisse aux autres joueurs le temps de révéler s’ils ont été changés.  
   (Cela renforcera votre crédibilité quand vous parlerez ensuite.)  
@@ -118,10 +141,10 @@ comme le [Sage](sage.md) ou un rôle “épuisé” (ex. [Artiste](artiste.md), 
 
 ---
 
-### 💀 Pour le Démon
-comme le [Sage](sage.md) ou un rôle “épuisé” (ex. [Artiste](artiste.md), [Jongleur](jongleur.md)).  
-- **Échanger deux Sbires** peut brouiller totalement les informations ([Fleuriste](fleuriste.md), [Savant](savant.md), etc.).  
-- **Échanger deux bons rôles** peut neutraliser un personnage gênant ([Philosophe](philosophe.md), [Sage](sage.md)…).  
+### Pour le Démon
+comme le [Sage](sage.md) ou un rôle qui a déjà utilisé sa capacité par exemple un [Artiste](artiste.md), un [Jongleur](jongleur.md).  
+- **Échanger deux Sbires** peut brouiller totalement les informations du ([Fleuriste](fleuriste.md), ou du [Savant](savant.md).  
+- **Échanger deux bons rôles** peut neutraliser un rôle gênant comme le ([Philosophe](philosophe.md), ou le [Sage](sage.md)…).  
 - **Échanger un bon et un mauvais joueur** est risqué,  
   car un bon joueur avec une capacité maléfique peut trahir sans le vouloir.  
 - Parfois, **ne rien faire** est la meilleure option :  
@@ -129,11 +152,11 @@ comme le [Sage](sage.md) ou un rôle “épuisé” (ex. [Artiste](artiste.md), 
 
 ---
 
-## 🎭 Bluff en tant que Barbier  
+##  Bluffer Barbier  
 
-### 😈 Pour les joueurs maléfiques
+###  Pour les joueurs maléfiques
 - Les vrais Barbiers se dévoilent rarement.  
-  → Imitation simple : **restez discret·ète** ou prétendez un autre rôle.  
+  → Imitation simple : **restez discret** ou prétendez un autre rôle.  
 
 - Vous pouvez aussi annoncer tôt que vous êtes le Barbier :  
   la plupart des joueurs préféreront vous garder en vie pour éviter un chaos prématuré.  
@@ -142,8 +165,8 @@ comme le [Sage](sage.md) ou un rôle “épuisé” (ex. [Artiste](artiste.md), 
   vous devrez donc **convaincre** que le Démon n’a rien fait  
   ou qu’il a échangé **deux Sbires**.  
 
-- **Combo maléfique** :  
-  si vous êtes trois (ex. Démon + deux Sbires),  
+- **Combinaison maléfique** :  
+  si vous êtes trois par exmeple un Démon et deux Sbires),  
   faites mourir votre “Barbier” fictif, puis vos complices  
   annoncent s’être “échangés”.  
   → Vous gagnez la confiance totale du village.  
@@ -151,10 +174,8 @@ comme le [Sage](sage.md) ou un rôle “épuisé” (ex. [Artiste](artiste.md), 
 ---
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌛 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>💈 <a href="../etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Étrangers</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="../sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
+  <li> <a href="../etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Étrangers</a></li>
 </ul>
 
