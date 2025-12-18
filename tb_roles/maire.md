@@ -13,7 +13,6 @@ title: Maire
   <span style="color:#4ea3ff; font-weight:bold;">Maire</span>
 </h2>
 
-<!-- Image centrée cliquable + nom -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./maire.html" style="text-decoration:none;">
     <img src="../images/Icon_mayor.png" alt="Maire" width="350" style="border-radius:8px;">
@@ -34,10 +33,7 @@ title: Maire
   <li><strong>Artiste</strong> : Aidan Roberts</li>
   <li>
     <strong>Nom original :</strong>
-    <a href="https://wiki.bloodontheclocktower.com/Mayor"
-       target="_blank"
-       rel="noopener noreferrer"
-       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mayor</a>
+    <a href="https://wiki.bloodontheclocktower.com/Mayor" target="_blank" rel="noopener noreferrer" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mayor</a>
   </li>
   <li>
     <em>« Nous devons mettre nos différences de côté et mettre fin à ces massacres insensés.
@@ -73,14 +69,40 @@ title: Maire
 <h3 style="color:#4ea3ff; font-weight:bold;">Résumé</h3>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li><em>S’il reste 3 joueurs vivants et qu’aucune exécution n’a lieu, l’équipe des Bons gagne.</em></li>
+  <li><em>S’il reste 3 joueurs vivants et qu’aucune exécution n’a lieu, votre équipe gagne.</em></li>
   <li><em>Si vous devez mourir pendant la nuit, un autre joueur pourrait mourir à votre place.</em></li>
 </ul>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
   Le <a href="./maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a> peut gagner pacifiquement le dernier jour.
-  S’il est attaqué par le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>,
-  le Conteur peut choisir qu’un autre joueur meure « accidentellement » à sa place.
+</p>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
+  Pour survivre, le maire provoque parfois « accidentellement » la mort d'un autre joueur. Si le maire est attaqué et sur le point de mourir, le Conteur peut décider qu'un autre joueur décède. Personne ne découvre les circonstances de sa mort, seulement qu'il est mort.
+</p>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
+  S'il ne reste que trois joueurs en vie à la fin de la journée, et qu'aucune exécution n'a eu lieu ce jour-là, alors la partie se termine et le bien l'emporte.
+</p>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
+  Les voyageurs comptent comme des joueurs pour la victoire du maire et doivent donc être exilés en premier. N'oubliez pas que l'exil n'est pas une exécution.
+</p>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
+  Les Légendaires ne comptent pas comme joueurs pour la victoire du Maire, car le Conteur n'est pas un joueur.
+</p>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
+  Si le Démon attaque le Maire et que le Conteur choisit à la place un joueur mort, le Soldat ou un joueur protégé par le Moine, ce joueur ne mourra pas cette nuit.
+</p>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
+  Nous vous recommandons de garder le maire en vie jusqu'au dernier jour, car c'est ainsi que les joueurs s'amusent le plus. Exceptionnellement, si le groupe est convaincu dès le début de la partie que le maire est bel et bien le maire, laissez-le mourir afin que le mal ait une chance de l'emporter.
+</p>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
+  Dans TROUBLE BREWING, la phrase du maire « votre équipe gagne » signifie toujours « le bien gagne », car le maire est toujours bon. Dans d'autres versions, un maire maléfique signifie plutôt « le mal gagne ».
 </p>
 
 <hr>
