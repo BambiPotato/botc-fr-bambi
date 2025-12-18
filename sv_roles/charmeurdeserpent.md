@@ -151,7 +151,7 @@ Chaque nuit, il choisit un joueur :
   Sinon, le Démon d’origine (désormais bon) pourrait vous dénoncer publiquement.  
 
 - Rappelez-vous : chaque joueur que vous avez choisi sans échange **n’est pas le Démon**.  
-  Vous êtes souvent **plus précis·e que la Voyante**, à condition que le groupe vous croie.  
+  Vous êtes souvent **plus précis que la Voyante**, à condition que le groupe vous croie.  
 
 - Si vous restez bon, partagez vos infos à un moment stratégique :  
   les garder secrètes trop longtemps ne profite qu’au Mal.  
