@@ -6,152 +6,213 @@ title: Dulcinée
 <!-- 🔷 Logo en haut à gauche -->
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="../images/logo.png" alt="Accueil BotC FR" width="200">
+    <img src="../images/logogold.png" alt="Accueil BotC FR" width="200">
   </a>
 </p>
 
----
+<hr>
 
-## 🎀 Dulcinée
+<h2 style="margin-top:10px;">
+  <span style="color:#4ea3ff; font-weight:bold;">Dulcinée</span>
+</h2>
 
-<div style="text-align:center; margin: 20px 0;">
+<div style="text-align:center; margin:20px 0;">
   <a href="./dulcinee.html" style="text-decoration:none;">
     <img src="../images/Icon_sweetheart.png" alt="Dulcinée" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:blue; font-weight:bold; font-size:22px;">Dulcinée</span>
+    <span style="color:#4ea3ff; font-weight:bold; font-size:22px;">Dulcinée</span>
   </a>
 </div>
 
----
+<hr>
 
-## ℹ️ Information  
+<h2 style="margin-top:10px;">
+  <span style="color:#4ea3ff; font-weight:bold;">Informations</span>
+</h2>
 
-- **Type :** [<span style="color:blue;">**Étranger**</span>](../etrangers.md)  
-- **Artiste :** Aidan Roberts  
-> *« Je ne l’oublierai jamais.  
-Jamais. »*
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+      Villageois
+    </a>
+  </li>
+  <li><strong>Artiste :</strong> Aidan Roberts</li>
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Sweetheart"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+      Sweetheart
+    </a>
+  </li>
+</ul>
 
----
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic; margin-left:20px;">
+  « Je ne l’oublierai jamais.<br>
+  Jamais. »
+</p>
 
-## 🎭 Apparaît dans  
+<hr>
 
-<div style="text-align:center; margin: 20px 0;">
+<h2 style="margin-top:10px;">
+  <span style="color:#4ea3ff; font-weight:bold;">Apparaît dans</span>
+</h2>
+
+<div style="text-align:center; margin:20px 0;">
   <a href="../sv.html" style="text-decoration:none;">
-    <img src="../images/Logo_sects_and_violets.png" alt="Sects & Violets" width="400" style="border-radius:12px;">
+    <img src="../images/Logo_sects_and_violets.png" alt="Sects &amp; Violets" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#d67bff; font-weight:bold; font-size:22px;">Sects & Violets</span>
+    <span style="color:#d67bff; font-weight:bold; font-size:22px;">Sects &amp; Violets</span>
   </a>
 </div>
 
-> *Cult of the Clocktower – épisode par Andrew Nathenson*
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px;">
+  Cult of the Clocktower – épisode par Andrew Nathenson
+</p>
 
----
+<hr>
 
-## 📖 Résumé  
+<h2 style="margin-top:10px;">
+  <span style="color:#4ea3ff; font-weight:bold;">Résumé</span>
+</h2>
 
-> « Quand vous mourez, **1 joueur·euse devient ivre pour le reste de la partie.** »
+<p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:20px;">
+  « Quand vous mourez, <strong>1 joueur devient ivre pour le reste de la partie.</strong> »
+</p>
 
-La Dulcinée, par sa mort, plonge quelqu’un dans une **ivresse durable**,  
-rendant son pouvoir **inutile ou erroné**.  
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px;">
+  La Dulcinée, par sa mort, plonge quelqu’un dans une <strong>ivresse durable</strong>,
+  rendant son pouvoir <strong>inutile ou erroné</strong>.
+</p>
 
-C’est le **Conteur** qui choisit **qui** devient ivre.  
-Cette capacité reste **active après sa mort**.
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px;">
+  C’est le <strong>Conteur</strong> qui choisit qui devient ivre.<br>
+  Cette capacité reste <strong>active après sa mort</strong>.
+</p>
 
----
+<hr>
 
-## 🎬 Comment Conter  
+<h2 style="margin-top:10px;">
+  <span style="color:#4ea3ff; font-weight:bold;">Comment Conter</span>
+</h2>
 
-- Si la Dulcinée meurt :  
-  - Choisissez **un·e joueur·euse** (vivant·e).  
-  - Marquez-le/la avec un jeton de **rappel IVRE**.  
-  - Cette ivresse dure **jusqu’à la fin de la partie**.  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>Si la Dulcinée meurt :</li>
+  <li>Choisissez <strong>un joueur vivant</strong>.</li>
+  <li>Marquez-le avec un jeton de rappel <strong>IVRE</strong>.</li>
+  <li>Cette ivresse dure <strong>jusqu’à la fin de la partie</strong>.</li>
+</ul>
 
-> 💡 En général, le Conteur choisit un·e Villageois·e pour affaiblir l’équipe du Bien.  
-> Mais en cas de domination du Mal, il peut viser un Étranger, un Sbire, ou même le Démon.  
+<p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:20px;">
+  En général, le Conteur choisit un Villageois pour affaiblir l’équipe du Bien.<br>
+  Mais en cas de domination du Mal, il peut viser un Étranger, un Sbire, ou même le Démon.
+</p>
 
----
+<hr>
 
-## 🧾 Exemples  
+<h2 style="margin-top:10px;">
+  <span style="color:#4ea3ff; font-weight:bold;">Exemples</span>
+</h2>
 
-- La Dulcinée meurt.  
-  → Le [Mathématicien](mathematicien.md) devient **ivre** et reçoit des infos fausses.  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    La Dulcinée meurt →
+    le <a href="./mathematicien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mathématicien</a>
+    devient <strong>ivre</strong> et reçoit des infos fausses.
+  </li>
+  <li>
+    La Dulcinée meurt →
+    le <a href="./mutant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mutant</a>
+    devient <strong>ivre</strong> et peut révéler son rôle sans risque… mais sans le savoir.
+  </li>
+  <li>
+    La Dulcinée meurt →
+    le <span style="color:#d45b5b; font-weight:bold;">Démon</span>
+    devient <strong>ivre</strong>, son attaque échoue et personne ne meurt cette nuit-là.
+  </li>
+</ul>
 
-- La Dulcinée meurt.  
-  → Le [Mutant](mutant.md) devient **ivre**, et peut maintenant révéler son rôle sans risque…  
-  … mais sans le savoir.  
+<hr>
 
-- La Dulcinée meurt.  
-  → Le **<span style="color:red;">Démon</span>** devient **ivre**, son attaque échoue et **personne ne meurt** cette nuit-là.  
+<h2 style="margin-top:10px;">
+  <span style="color:#4ea3ff; font-weight:bold;">Astuces &amp; Conseils</span>
+</h2>
 
----
+<h3 style="color:#4ea3ff; font-weight:bold; margin-left:20px;">Ne mourez pas trop tôt</h3>
 
-## 💡 Astuces & Conseils  
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px;">
+  Votre mort rend un joueur ivre, souvent un allié.<br>
+  Si vous mourez trop tôt, cela peut fausser des informations cruciales
+  (ex.
+  <a href="./oracle.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Oracle</a>,
+  <a href="./crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur</a>,
+  <a href="./fleuriste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a>).
+</p>
 
-### ❤️ Ne mourez pas trop tôt
-Votre mort rend **un·e joueur·euse ivre**,  
-souvent un·e allié·e.  
-Si vous mourez trop tôt, cela peut fausser des informations cruciales (ex. [Oracle](oracle.md), [Crieur](crieur.md), [Fleuriste](fleuriste.md)).  
+<h3 style="color:#4ea3ff; font-weight:bold; margin-left:20px;">Trompez le Démon</h3>
 
-### 😈 Trompez le Démon
-- Pour survivre, **faites semblant d’être un rôle qu’il ne voudra pas tuer**,  
-  comme un [Sage](sage.md) ou un [Artiste](artiste.md) ayant déjà utilisé sa capacité.  
-  Il vous ignorera, croyant vous “inutile”.  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    Bluffez un rôle que le Démon ne voudra pas tuer, comme un
+    <a href="./sage.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a>
+    ou un
+    <a href="./artiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Artiste</a>
+    ayant déjà agi.
+  </li>
+  <li>
+    Révélez votre rôle à un ou deux alliés fiables pour prévenir que vos infos
+    peuvent être fausses après votre mort.
+  </li>
+</ul>
 
-- Révélez votre identité à **1 ou 2 allié·es sûrs**,  
-  afin qu’ils sachent que vos infos sont potentiellement fausses après votre mort.  
+<h3 style="color:#4ea3ff; font-weight:bold; margin-left:20px;">Après votre mort</h3>
 
----
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>Essayez de deviner qui est ivre selon les incohérences.</li>
+  <li>Aidez le village à identifier les sources fiables.</li>
+</ul>
 
-### ☠️ Si vous devez mourir…
-- Annoncez immédiatement que vous êtes la Dulcinée !  
-  Cela permettra au village de savoir qu’une **ivresse permanente** vient d’être créée.  
+<h3 style="color:#4ea3ff; font-weight:bold; margin-left:20px;">Attention aux Sbires</h3>
 
-- Si vous êtes sur le point d’être exécuté·e,  
-  avertissez le groupe avant la fin du jour.  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    Le
+    <a href="./cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a>
+    et la
+    <a href="./sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a>
+    peuvent provoquer votre mort sans le Démon.
+  </li>
+</ul>
 
-- Si vous mourez tard dans la partie,  
-  l’impact sera souvent **minime**, car il reste peu de rôles actifs.  
+<hr>
 
-> Parfois, mourir au bon moment peut sauver la partie.  
+<h2 style="margin-top:10px;">
+  <span style="color:#4ea3ff; font-weight:bold;">Bluffer Dulcinée</span>
+</h2>
 
----
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    « J’étais
+    <a href="./fleuriste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a>,
+    mais en réalité, je suis la Dulcinée » est un bluff crédible.
+  </li>
+  <li>
+    Annoncez votre “ivresse créée” pour semer le doute dans les infos du village.
+  </li>
+  <li>
+    Bluff efficace pour un
+    <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>
+    ou un Démon mourant comme le
+    <a href="./fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a>.
+  </li>
+</ul>
 
-### 🧩 Après votre mort  
-Même depuis l’au-delà, vous pouvez aider :  
-- Essayez de **deviner qui est ivre** d’après les incohérences des infos.  
-- Aidez le village à **identifier les sources fiables**.  
-
----
-
-### ⚔️ Attention aux Sbires !
-- Le [<span style="color:red;">Cerenovus</span>](cerenovus.md) et la [<span style="color:red;">Sorcière</span>](sorciere.md) peuvent provoquer votre mort **sans intervention du Démon**.  
-- Si ces rôles sont en jeu, soyez prudent·e : ne provoquez pas leurs colères !  
-
----
-
-## 🎭 Bluff en tant que Dulcinée  
-
-### 😈 Pour les joueur·euses maléfiques
-  > “J’étais [Fleuriste](fleuriste.md)… mais en réalité, je suis la Dulcinée.”  
-  Cette révélation tardive paraît crédible et peu menaçante.  
-
-- Si vous mourez, annoncez immédiatement être la Dulcinée :  
-  → Les bons joueurs croiront qu’une personne est ivre,  
-  → Semant **le doute** dans toutes les infos du village.  
-
-- Continuez à “chercher qui est ivre” pour maintenir la confusion.  
-  Plus le village débat de cette ivresse imaginaire,  
-  moins il cherche le vrai Démon.  
-
-- Bluffez la Dulcinée si vous êtes un [<span style="color:red;">Sbire</span>](../sbires.md) ou un Démon capable de mourir (ex. [<span style="color:red;">Fang Gu</span>](fanggu.md)) :  
-  votre mort simulée rendra le village sûr qu’un “ivre” existe.  
-
----
+<hr>
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌛 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>💈 <a href="../etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Étrangers</a></li>
+  <li><a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li><a href="../sv.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a></li>
+  <li><a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
 </ul>
