@@ -78,8 +78,6 @@ title: Maire
 <!-- IMPORTANT : pas d’italique + pas de point devant, comme demandé -->
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
   S’il reste 3 joueurs vivants et qu’aucune exécution n’a lieu, votre équipe gagne.
-</p>
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
   Si vous devez mourir pendant la nuit, un autre joueur pourrait mourir à votre place.
 </p>
 
