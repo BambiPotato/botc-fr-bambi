@@ -79,12 +79,12 @@ title: Croque-Mort
 
 ##  <span style="color:blue;">Résumé</span>    
 
-*"Chaque nuit*, vous apprenez quel rôle est mort par **exécution** aujourd’hui."*  
+"Chaque nuit*, vous apprenez quel rôle est mort par **exécution** aujourd’hui." 
 
 Le croque-mort apprend quel rôle a été exécuté aujourd'hui.
 
 - Le joueur doit être mort lors d'une exécution pour que le Croque-mort puisse l'identifier. 
-Les morts survenant en journée pour d'autres raisons, comme le choix d'un joueur par le [**<span <span style="color:#9b59b6;">Flingeur**</span> ](../voyageurs/flingeur.md)
+Les morts survenant en journée pour d'autres raisons, comme le choix d'un joueur par le [<span <span style="color:#9b59b6;">Flingeur</span> ](../voyageurs/flingeur.md)
 ou l'exil d'un <span <span style="color:#9b59b6;">Voyageur/span>, ne sont pas pris en compte.
 
 - Le croque-mort se réveille chaque nuit sauf la première, car il n'y a encore eu aucune exécution.
