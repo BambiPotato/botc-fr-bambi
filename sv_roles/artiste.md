@@ -147,7 +147,7 @@ et l’[<span style="color:#4ea3ff;">Oracle</span>](fleuriste.md) fournissent de
 - **Être trop précis** dans votre question (par exemple : « Amélie est-elle le Démon ? ») aboutira très probablement à une réponse peu utile, comme un simple « non ». 
 - À la place, posez des questions qui divisent le groupe en deux. 
 - Par exemple, demandez si le Démon est assis dans un groupe précis : qu’il s’agisse d’un « oui » ou d’un « non », 
-  vous aurez déjà réduit la zone où se trouve — ou ne se trouve pas — le Démon.
+  vous aurez déjà réduit la zone où se trouve ou ne se trouve pas le Démon.
 - D’autres questions peuvent consister à demander s’il existe une concentration de joueurs maléfiques à un endroit donné, 
   ou à interroger le Conteur au sujet de rôles comme le [<span style="color:#d45b5b;">Jumeau Maléfique</span>](jumeaumalefique).
 
@@ -179,9 +179,10 @@ et l’[<span style="color:#4ea3ff;">Oracle</span>](fleuriste.md) fournissent de
 
 > Ne demandez **jamais directement** : « Y a-t-il un [<span style="color:red;">Vortox</span>](vortox.md) en jeu ? »  
 → La réponse sera toujours « Non », soit parce qu’il n’y a pas de [<span style="color:red;">Vortox</span>](vortox.md), 
-  soit parce qu’il y en a un et que vous recevez une information fausse
-À la place :  
-- Pour tenter de détecter un [<span style="color:red;">Vortox</span>](vortox.md), vous pouvez plutôt formuler une affirmation incontestablement vraie :  
+  soit parce qu’il y en a un et que vous recevez une information fausse.
+ 
+- Pour tenter de détecter un [<span style="color:red;">Vortox</span>](vortox.md), 
+  vous pouvez plutôt formuler une affirmation incontestablement vraie comme par exemple :
   > « 2 + 2 = 4 ? »  
   → Si le réponse est « Non », il y a un problème : probablement un [<span style="color:red;">Vortox</span>](vortox.md) ou 
   un [<span style="color:red;">No Dashii </span>](nodashii.md).  
