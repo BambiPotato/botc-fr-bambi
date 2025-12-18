@@ -42,11 +42,11 @@ title: Couturière
 
   <li>
     <strong>Nom original :</strong>
-    <a href="https://wiki.bloodontheclocktower.com//Seamstress"
+    <a href="https://wiki.bloodontheclocktower.com/Seamstress"
        target="_blank"
        rel="noopener noreferrer"
        style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
-    /Seamstress
+    Seamstress
     </a>
   </li>
 </ul>
