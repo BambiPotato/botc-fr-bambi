@@ -84,7 +84,9 @@ title: Enquêteur
 ---
 ##  <span style="color:blue">Résumé</span>
 « Vous commencez en apprenant 2 joueurs et le rôle de [<span style="color:red">Sbire</span>](../sbires.md) de l’un des deux.» 
-L’**Enquêteur** apprend qu’un rôle de Sbire particulier est en jeu, mais pas lequel des deux joueurs le possède.  
+
+L’**Enquêteur** apprend qu’un rôle de Sbire particulier est en jeu, mais pas lequel des deux joueurs le possède.
+
 Lors de la première nuit, il apprend que l’un de deux joueurs est un **Sbire spécifique**.  
 Il ne reçoit cette information qu’une seule fois, au début de la partie.  
 
