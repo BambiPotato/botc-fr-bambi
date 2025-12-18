@@ -56,7 +56,7 @@ Non ? Eh bien maintenant, vous le savez. » »
 
 <hr>
 
-<h2 style="color:#4ea3ff; font-weight:bold;">🎭 Apparaît dans</h2>
+<h2 style="color:#4ea3ff; font-weight:bold;"> Apparaît dans</h2>
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../sv.html" style="text-decoration:none;">
@@ -162,7 +162,7 @@ comme le <a href="sage.html" style="color:#4ea3ff; font-weight:bold; text-decora
 <h3 style="color:#4ea3ff; font-weight:bold; margin-left:20px;">Pour le Démon</h3>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
-comme le <a href="sage.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a> ou un rôle qui a déjà utilisé sa capacité par exemple un <a href="artiste.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Artiste</a>, un <a href="jongleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Jongleur</a>.  
+Echangez des rôles comme le <a href="sage.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a> ou un rôle qui a déjà utilisé sa capacité par exemple un <a href="artiste.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Artiste</a>, un <a href="jongleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Jongleur</a>.  
 - <strong>Échanger deux Sbires</strong> peut brouiller totalement les informations du (<a href="fleuriste.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a>, ou du <a href="savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a>).  
 - <strong>Échanger deux bons rôles</strong> peut neutraliser un rôle gênant comme le (<a href="philosophe.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Philosophe</a>, ou le <a href="sage.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a>…).  
 - <strong>Échanger un bon et un mauvais joueur</strong> est risqué,  
