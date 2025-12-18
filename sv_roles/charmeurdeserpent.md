@@ -28,8 +28,40 @@ title: Charmeur de Serpent
 
 - **Type :** [<span style="color:blue;">**Villageois**</span>](../villageois.md)  
 - **Artiste :** Aidan Roberts  
-> *« Effendi... Je ne suis qu’un humble homme, mais ma flûte est d’or, et un seul air apprivoisera les plus sauvages des djinns, Inshallah.  
-On dit que la cupidité pend plus d’hommes qu’une corde. Mais pas moi, Effendi... pas moi. »*
+> *« »*
+
+---
+
+##  <span style="color:blue">Informations</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+      Villageois
+    </a>
+  </li>
+
+  <li>
+    <strong>Artiste :</strong> Aidan Roberts
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Snake_Charmer"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Snake Charmer
+    </a>
+  </li>
+</ul>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
+« Effendi... Je ne suis qu’un humble homme, mais ma flûte est d’or, 
+  et un seul air apprivoisera les plus sauvages des djinns, Inshallah.  
+  On dit que la cupidité pend plus d’hommes qu’une corde. Mais pas moi, Effendi... pas moi.  »
+</p>
 
 ---
 
@@ -92,7 +124,7 @@ Chaque nuit, il choisit un joueur :
 
 - La [<span style="color:red;">Pit-Hag</span>](pithag.md) se transforme elle-même en Charmeur de Serpent.  
   Puis, le Charmeur choisit le [<span style="color:red;">Fang Gu</span>](fanggu.md).  
-  Le Charmeur devient le [<span style="color:red;">Fang Gu</span>](fanggu.md), et le Fang Gu devient Charmeur — tous deux restent maléfiques.
+  Le Charmeur devient le [<span style="color:red;">Fang Gu</span>](fanggu.md), et le Fang Gu devient Charmeur tous deux restent maléfiques.
 
 ---
 
@@ -101,7 +133,8 @@ Chaque nuit, il choisit un joueur :
 - Le Charmeur de Serpent vit dans un équilibre fragile :  
   à tout moment, il peut basculer du Bien vers le Mal.  
 
-- Tant qu’il reste bon, il obtient une information **très fiable** — chaque joueur qu’il choisit et qui ne provoque pas d’échange **n’est pas le Démon**.  
+- Tant qu’il reste bon, il obtient une information **très fiable** :
+  chaque joueur qu’il choisit et qui ne provoque pas d’échange **n’est pas le Démon**.  
   Cela fait de lui un détecteur aussi puissant que la [Voyante](../tb_roles/voyante.md) !  
 
 - Jouez **prudemment** :  
@@ -126,7 +159,7 @@ Chaque nuit, il choisit un joueur :
 - Si vous devenez maléfique, **ne révélez jamais** que vous êtes le Charmeur.  
   Trouvez un autre bluff crédible immédiatement.  
 
-- Si vous devenez Démon, soyez prêt·e :  
+- Si vous devenez Démon, soyez prêt :  
   inventez une nouvelle couverture, ou prétendez que **vous** avez été charmé par le vrai Charmeur.  
   Une réaction rapide et confiante peut semer le doute et désorienter vos anciens alliés.  
 
@@ -155,7 +188,8 @@ Chaque nuit, il choisit un joueur :
 - Si vous êtes le [<span style="color:red;">Démon</span>](../demons.md), vous pouvez même prétendre avoir été **changé en bon** par un Charmeur !  
   C’est risqué, mais crédible en fin de partie si bien joué.  
 
-- Si vous êtes un [<span style="color:red;">Sbire</span>](../sbires.md), vous pouvez aussi prétendre avoir été “le Démon devenu bon” — un bluff fou, mais parfois efficace.  
+- Si vous êtes un [<span style="color:red;">Sbire</span>](../sbires.md), vous pouvez aussi prétendre avoir été “le Démon devenu bon”,
+c'est un bluff fou, mais parfois efficace.  
 
 ---
 
