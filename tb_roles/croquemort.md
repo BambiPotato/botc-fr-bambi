@@ -84,12 +84,12 @@ title: Croque-Mort
 Le croque-mort apprend quel rôle a été exécuté aujourd'hui.
 
 - Le joueur doit être mort lors d'une exécution pour que le Croque-mort puisse l'identifier. 
-Les morts survenant en journée pour d'autres raisons, comme le choix d'un joueur par le [<span style="color:#9b59b6;">Flingeur</span>](../voyageurs/flingeur.md) ou l'exil d'un *Voyageur* , ne sont pas pris en compte.
+Les morts survenant en journée pour d'autres raisons, comme le choix d'un joueur par le [<span style="color:#9b59b6;">Flingeur</span>](../voyageurs/gunslinger.md) ou l'exil d'un *Voyageur* , ne sont pas pris en compte.
 
 - Le croque-mort se réveille chaque nuit sauf la première, car il n'y a encore eu aucune exécution.
 Si personne n'est mort aujourd'hui, le croque-mort n'apprend rien. 
 Le conteur, soit ne réveille pas le croque-mort la nuit, soit le réveille sans lui montrer de jeton.
-Si l’[Ivrogne](ivrogne.md) est exécuté, le croque-mort voit le jeton de rôle de l' l’[Ivrogne](ivrogne.md), 
+Si l’[Ivrogne](ivrogne.md) est exécuté, le croque-mort voit le jeton de rôle de l’[Ivrogne](ivrogne.md), 
 et non le jeton du Villageois que le joueur Ivrogne pensait être.
 
 
@@ -104,11 +104,13 @@ et non le jeton du Villageois que le joueur Ivrogne pensait être.
   - Endormez le Croque-mort. 
   - Retirez son jeton de rappel quand vous le souhaitez.
 
-- **Dans Trouble Brewing**, il ne peut y avoir qu'une seule exécution par jour, et chaque exécution entraîne la mort d'un joueur. 
-Dans d'autres éditions, il peut y avoir plusieurs exécutions par jour (auquel cas le Conteur choisit le rôle à montrer au Croque-mort) 
-ou l'exécution peut ne pas entraîner de mort (auquel cas le Croque-mort n'apprend rien).
+- Dans **Trouble Brewing**, il ne peut y avoir qu'une seule exécution par jour, et chaque exécution entraîne la mort d'un joueur. 
 
-Dans *Trouble Brewing*, une seule exécution par jour est possible. 
+- Dans d’autres éditions, il peut y avoir plusieurs exécutions par jour. 
+ - Dans ce cas, le Conteur choisit quel rôle est montré au Croque-Mort.
+ - De même, si une exécution n’entraîne pas de mort, le Croque-Mort n’apprend rien.
+
+- Dans *Trouble Brewing*, une seule exécution par jour est possible. 
 Dans d’autres éditions, il peut y en avoir plusieurs (le Conteur choisit alors quel rôle montrer).  
 
 ---
