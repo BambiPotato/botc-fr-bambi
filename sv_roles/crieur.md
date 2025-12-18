@@ -22,14 +22,39 @@ title: Crieur
   </a>
 </div>
 
+
 ---
 
-## <span style="color:#4ea3ff;">Information  
 
-- **Type :** [<span style="color:blue;">**Villageois**</span>](../villageois.md)  
-- **Artiste :** Aidan Roberts  
-> *« Ôyez ! Ôyez ! Sorcellerie dans le labyrinthe !  
-Un savant génial dévoile tout ! Le village est en danger ! Ôyez, ôyez ! »*
+##  <span style="color:blue">Informations</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+      Villageois
+    </a>
+  </li>
+
+  <li>
+    <strong>Artiste :</strong> Aidan Roberts
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Town_Crier"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Town Crier
+    </a>
+  </li>
+</ul>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
+«  Ôyez ! Ôyez ! Sorcellerie dans le labyrinthe !  
+Un savant génial dévoile tout ! Le village est en danger ! Ôyez, ôyez !  »
+</p>  
 
 ---
 
