@@ -22,15 +22,40 @@ title: Couturière
   </a>
 </div>
 
+
 ---
 
-## <span style="color:#4ea3ff;">Information</span>  
 
-- **Type :** [<span style="color:blue;">**Villageoise**</span>](../villageois.md)  
-- **Artiste :** Aidan Roberts  
-> *« Avez-vous entendu dire que l’inconnu au manteau de cachemire a fait la cour à notre jeune Belle ?  
+##  <span style="color:blue">Informations</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+      Villageois
+    </a>
+  </li>
+
+  <li>
+    <strong>Artiste :</strong> Aidan Roberts
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com//Seamstress"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    /Seamstress
+    </a>
+  </li>
+</ul>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
+« Avez-vous entendu dire que l’inconnu au manteau de cachemire a fait la cour à notre jeune Belle ?  
 Et qu’elle a dit oui ? Eh bien, ce n’est rien comparé à ce qu’Harry et ce jongleur ont fait à la foire !  
-Les choses que je pourrais raconter si j’étais une commère… oh, oui. »*
+Les choses que je pourrais raconter si j’étais une commère… oh, oui. »
+</p>  
 
 ---
 
