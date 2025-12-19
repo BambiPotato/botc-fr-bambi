@@ -23,7 +23,6 @@ title: No Dashii
   </a>
 </div>
 
-
 ---
 
 ##  <span style="color:#d45b5b">Informations</span>
@@ -32,7 +31,7 @@ title: No Dashii
   <li>
     <strong>Type :</strong>
     <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">
-      Sbires
+      Démons
     </a>
   </li>
 
@@ -74,70 +73,71 @@ title: No Dashii
 
 ---
 
-##  Résumé
+##  <span style="color:#d45b5b">Résumé</span>
 
 > « **Chaque nuit***, choisissez un joueur : il meurt.  
 > Vos **2 voisins Villageois** sont **empoisonnés**. »
 
-Le **No Dashii** empoisonne ses deux **voisins Villageois**
+Le <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a> empoisonne ses deux <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">voisins Villageois</a>
 
-- Le **No Dashii** empoisonne ses deux **voisins les plus proches Villageois**, dans le sens horaire et antihoraire, 
+- Le <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a> empoisonne ses deux <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">voisins les plus proches Villageois</a>, dans le sens horaire et antihoraire, 
 l’un à sa gauche et l’autre à sa droite.  
 
-- Les **Étrangers, Sbires et Voyageurs sont ignorés** : on saute par-dessus jusqu’au prochain **Villageois**.  
-Si le No Dashii **meurt** ou **perd sa capacité**, ces voisins redeviennent **sains**.  
-Si le **porteur du rôle** change ([<span style="color:blue;">Barbier</span>](barbier.md), [<span style="color:red;">Pit-Hag</span>](pithag.md)…), les joueurs **empoisonnés peuvent changer immédiatement** selon les nouveaux voisins Villageois.
+- Les <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>, <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> et Voyageurs sont ignorés : on saute par-dessus jusqu’au prochain <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>.  
+Si le No Dashii <strong>meurt</strong> ou <strong>perd sa capacité</strong>, ces voisins redeviennent <strong>sains</strong>.  
+Si le <strong>porteur du rôle</strong> change (<a href="./barbier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Barbier</a>, <a href="./pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a>…), les joueurs <strong>empoisonnés peuvent changer immédiatement</strong> selon les nouveaux voisins Villageois.
 
 ---
 
-##  Comment Conter
+##  <span style="color:#d45b5b">Comment Conter</span>
 
-1. **Mise en place pendant les préparatifs de la première nuit,**  
-   - Identifiez les **deux voisins Villageois** du No Dashii (en sautant les non-Villageois).  
-   - Placez sur eux des jetons de rappel **EMPOISONNÉS**.
+1. <strong>Mise en place pendant les préparatifs de la première nuit,</strong>  
+   - Identifiez les <strong>deux voisins Villageois</strong> du No Dashii (en sautant les non-Villageois).  
+   - Placez sur eux des jetons de rappel <span style="color:#4ea3ff; font-weight:bold;">EMPOISONNÉS</span>.
 
-2. **Chaque nuit sauf la première**  
-   - Réveillez le No Dashii : il **pointe un joueur ou une joueuse**.  
-   - Ce joueur **meurt** marquez-le avec le jeton de rappel "**MORT**", puis rendormez le No Dashii.
+2. <strong>Chaque nuit sauf la première</strong>  
+   - Réveillez le No Dashii : il <strong>pointe un joueur ou une joueuse</strong>.  
+   - Ce joueur <strong>meurt</strong> marquez-le avec le jeton de rappel <span style="color:#d45b5b; font-weight:bold;">"MORT"</span>, puis rendormez le No Dashii.
 
-3. **Changements dynamiques**  
-   - Si le No Dashii **change de joueur** [<span style="color:red;">Pit-Hag</span>](pithag.md) , [<span style="color:blue;">Barbier</span>](barbier.md) **ou** 
-   - si l’un des voisins **n’est plus Villageois**, **changez** immédiatement les deux voisins Villageois et **déplacez** les jetons de rappel **EMPOISONNÉS**.  
-   - Si le No Dashii **meurt** ou **perd son pouvoir**, **retirez** les rappels **EMPOISONNÉS**.
+3. <strong>Changements dynamiques</strong>  
+   - Si le No Dashii <strong>change de joueur</strong> <a href="./pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a> , <a href="./barbier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Barbier</a> <strong>ou</strong> 
+   - si l’un des voisins <strong>n’est plus Villageois</strong>, <strong>changez</strong> immédiatement les deux voisins Villageois et <strong>déplacez</strong> les jetons de rappel <span style="color:#4ea3ff; font-weight:bold;">EMPOISONNÉS</span>.  
+   - Si le No Dashii <strong>meurt</strong> ou <strong>perd son pouvoir</strong>, <strong>retirez</strong> les rappels <span style="color:#4ea3ff; font-weight:bold;">EMPOISONNÉS</span>.
 
+---
 
-##  Exemples
+##  <span style="color:#d45b5b">Exemples</span>
 
-- Au début de la partie, le [<span style="color:red;">No Dashii</span>](nodashii.md) est assis entre un [<span style="color:blue;">**Crieur**</span>](crieur.md) ([<span style="color:bleu;">**Villageois**</span>](../villageois.html) )
-  et un  [<span style="color:blue;">**Charmeur de serpent**</span>](charmeurdeserpent.md) ([<span style="color:bleu;">**Villageois**</span>](../villageois.html) ) : **ces 2 rôles-là sont empoisonnés**.  
+- Au début de la partie, le <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a> est assis entre un <a href="./crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur</a> (<a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>)
+  et un <a href="./charmeurdeserpent.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Charmeur de serpent</a> (<a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>) : <strong>ces 2 rôles-là sont empoisonnés</strong>.  
   
-  En sens antihoraire : la [<span style="color:red;">**Sorcière**</span>](sorciere.md) un <span style="color:red;">Sbire</span>, le [<span style="color:blue;">**Mutant**</span>](mutant.md) un <span style="color:blue;">Étranger</span>,
-  la  [<span style="color:blue;">**Couturière**</span>](couturiere.md) un ( [<span style="color:bleu;">**Villageois**</span>](../villageois.html) )  
-- Plus tard, avec la capacité du [<span style="color:blue;">**Barbier**</span>](barbier.md) le No Dashii échange avec la [<span style="color:red;">**Sorcière**</span>](sorciere.md) un <span style="color:red;">Sbire</span>.
-  Les **nouveaux voisins Villageois** du nouveau No Dashii deviennent **empoisonnés** ; les anciens redeviennent **sains**.  
-- En sens horaire depuis le No Dashii : le [<span style="color:blue;">**Philosophe**</span>](philosophe.md) un ( [<span style="color:bleu;">**Villageois**</span>](../villageois.html) ), le [<span style="color:blue;">**Mathématicien**</span>](Mathématicien.md) un ( [<span style="color:bleu;">**Villageois**</span>](../villageois.html) )  , 
-  le [<span style="color:blue;">**Sage**</span>](sage.md) un ( [<span style="color:bleu;">**Villageois**</span>](../villageois.html) ).  
-  En sens antihoraire : la [<span style="color:red;">**Sorcière**</span>](sorciere.md) <span style="color:red;">Sbire</span>,le  [<span style="color:blue;">**Mutant**</span>](mutant.md) un <span style="color:blue;">Étranger</span>, la [<span style="color:blue;">**Couturière**</span>](couturiere.md) un ( [<span style="color:bleu;">**Villageois**</span>](../villageois.html) ).   
-  ⇒ Les Villageois empoisonnés sont le [<span style="color:blue;">**Philosophe**</span>](philosophe.md) et la [<span style="color:blue;">**Couturière**</span>](couturiere.md).
+  En sens antihoraire : la <a href="./sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>, le <a href="./mutant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mutant</a> un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a>,
+  la <a href="./couturiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Couturière</a> un (<a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>)  
+- Plus tard, avec la capacité du <a href="./barbier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Barbier</a> le No Dashii échange avec la <a href="./sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>.
+  Les <strong>nouveaux voisins Villageois</strong> du nouveau No Dashii deviennent <strong>empoisonnés</strong> ; les anciens redeviennent <strong>sains</strong>.  
+- En sens horaire depuis le No Dashii : le <a href="./philosophe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Philosophe</a> un (<a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>), le <a href="./mathematicien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mathématicien</a> un (<a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>) , 
+  le <a href="./sage.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a> un (<a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>).  
+  En sens antihoraire : la <a href="./sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>, le <a href="./mutant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mutant</a> un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a>, la <a href="./couturiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Couturière</a> un (<a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>).   
+  ⇒ Les Villageois empoisonnés sont le <a href="./philosophe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Philosophe</a> et la <a href="./couturiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Couturière</a>.
 
 ---
 
-##  Astuces & Stratégies 
+##  <span style="color:#d45b5b">Astuces & Stratégies</span>
 
-- **Identifiez vos voisins Villageois** puis **soutenez publiquement** leurs infos : comme elles sont fausses, cela sèmera la confusion **sans que cela vienne de vous**.  
-- **Gardez vos voisins en vie** : plus ils parlent, plus la **désinformation** circule.  
-- Si le Village **pense à un No Dashii**, vous pouvez **tuer vos voisins** pour brouiller les pistes… ou faire croire à un **autre démon**,
-par exemple un [<span style="color:red;">**Vortox**</span>](vortox.md) 
-- Si **tous les méchants** propagent des infos fausses, cela peut **ressembler à un Vortox** : exploitez cette piste pour faire douter les bons de leurs données.
+- <strong>Identifiez vos voisins Villageois</strong> puis <strong>soutenez publiquement</strong> leurs infos : comme elles sont fausses, cela sèmera la confusion <strong>sans que cela vienne de vous</strong>.  
+- <strong>Gardez vos voisins en vie</strong> : plus ils parlent, plus la <strong>désinformation</strong> circule.  
+- Si le Village <strong>pense à un No Dashii</strong>, vous pouvez <strong>tuer vos voisins</strong> pour brouiller les pistes… ou faire croire à un <strong>autre démon</strong>,
+par exemple un <a href="./vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a> 
+- Si <strong>tous les méchants</strong> propagent des infos fausses, cela peut <strong>ressembler à un Vortox</strong> : exploitez cette piste pour faire douter les bons de leurs données.
 
 ---
 
-## Combattre le No Dashii
+## <span style="color:#d45b5b">Combattre le No Dashii</span>
 
-- Le poison du No Dashii **ignore** les **Sbires, Étrangers et Voyageurs** : il **n’a pas besoin d’être assis juste à côté** de vous pour vous empoisonner.  
-- Surveillez les **changements de rôles** avec un ( [<span style="color:blue;">**Barbier**</span>](barbier.md) , ou une [<span style="color:red;">**Pit-Hag**</span>](pithag.md)) : les **voisins Villageois empoisonnés** peuvent **changer en cours de partie**.  
-- Beaucoup d’infos **bancales** mais pas **toutes** ? Probablement un **No Dashii** plutôt qu’un [<span style="color:red;">**Vortox**</span>](vortox.md) qui fausse **tout**.  
-- **Examinez vos voisins** si vous êtes Villageois et que vos infos semblent corrompues : le démon est **proche**.
+- Le poison du No Dashii <strong>ignore</strong> les <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>, <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a> et Voyageurs : il <strong>n’a pas besoin d’être assis juste à côté</strong> de vous pour vous empoisonner.  
+- Surveillez les <strong>changements de rôles</strong> avec un (<a href="./barbier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Barbier</a>, ou une <a href="./pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a>) : les <strong>voisins Villageois empoisonnés</strong> peuvent <strong>changer en cours de partie</strong>.  
+- Beaucoup d’infos <strong>bancales</strong> mais pas <strong>toutes</strong> ? Probablement un <strong>No Dashii</strong> plutôt qu’un <a href="./vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a> qui fausse <strong>tout</strong>.  
+- <strong>Examinez vos voisins</strong> si vous êtes Villageois et que vos infos semblent corrompues : le démon est <strong>proche</strong>.
 
 ---
 
