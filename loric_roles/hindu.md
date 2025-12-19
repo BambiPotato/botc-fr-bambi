@@ -87,16 +87,16 @@ Quand quatre joueurs sont morts et sont devenus des Voyageurs, les joueurs meure
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Julien est la <a href="../experimentaux_roles/princesse.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Princesse</a>.<br> 
-Il est exécuté et devient le <a href="../voyageurs/gangster.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Gangster</a>.<br>
+Il est exécuté et devient le <a href="../voyageurs/gangster.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Gangster</a>.<br>
 <br>
 Louise est la <a href="../sv_roles/dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a>.<br> 
-Elle meurt et devient le <a href="../voyageurs/cacklejack.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Cacklejack</a>.<br>
+Elle meurt et devient le <a href="../voyageurs/cacklejack.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Cacklejack</a>.<br>
 Personne n’est ivre parce que la <a href="../sv_roles/dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a>
 n’est plus en jeu. 
 <br>  
 Emilien est l’ <a href="../experimentaux_roles/ingenieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ingénieur</a>.<br>
-Il meurt et devient le <a href="../voyageurs/judge.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Juge</a>.<br>  
-Cette nuit-là, le <a href="../bmr_roles/po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a> tue Marie, Abdel et Laurent. Marie devient le <a href="../voyageurs/gnome.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Gnome</a> et Abdel devient la <a href="../voyageurs/harlot.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Harlot</a>.
+Il meurt et devient le <a href="../voyageurs/judge.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Juge</a>.<br>  
+Cette nuit-là, le <a href="../bmr_roles/po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a> tue Marie, Abdel et Laurent. Marie devient le <a href="../voyageurs/gnome.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Gnome</a> et Abdel devient la <a href="../voyageurs/harlot.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Harlot</a>.
 </p>
 
 ---
