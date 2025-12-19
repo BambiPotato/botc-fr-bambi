@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bootlegger
+title: Contrebandier 
 ---
 
 <p align="left">
@@ -15,17 +15,21 @@ title: Bootlegger
   <a href="./bootlegger.html" style="text-decoration:none;">
     <img src="../images/Icon_bootlegger.png" alt="Bootlegger" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#7fd1ae; font-weight:bold; font-size:22px;">Bootlegger</span>
+    <span style="color:#7fd1ae; font-weight:bold; font-size:22px;">Contrebandier</span>
   </a>
 </div>
 
 #  <span style="color:#7fd1ae; font-weight:bold; font-size:18px;">Bootlegger</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « J’ai rapporté la dernière cuvée de la maison, une petite bière que j’appelle “Brume de Barrow”. Tu veux goûter ? »
+  «  J'ai reçu la dernière livraison de chez moi,<br>
+  une bière 🍺 que j'aimerais appeler "Barrowfog".<br>
+  Tu veux goûter ?  »
 </p>
 
+
 ---
+
 
 ##  <span style="color:#7fd1ae;">Informations</span>
 
@@ -33,7 +37,16 @@ title: Bootlegger
   <li><strong>Type :</strong> <a href="../loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Loric</a></li>
   <li><strong>Artiste :</strong> <em>Chloe McDougall</em></li>
   <li><strong>Révélé :</strong> 28 avril 2023</li>
+  <li><strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Bootlegger"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4caf50; font-weight:bold; text-decoration:none;">
+      Bootlegger
+    </a>
+  </li>
 </ul>
+
 
 ---
 
@@ -79,8 +92,10 @@ Le <strong>Bootlegger</strong> reste actif jusqu’à la fin de la partie.
   <li>Le script inclut le rôle <em>Paysan</em>, un personnage <em>homebrew</em> créé par la communauté.  
   Le Conteur déclare que le <strong>Bootlegger</strong> est en jeu, puis explique comment fonctionne le Paysan avant de commencer la partie.</li>
 
-  <li>Le Conteur décide d’appliquer une règle maison : « Les joueurs morts peuvent discuter librement le jour. »  
-  Il annonce le <strong>Bootlegger</strong>, présente la règle à tous les joueurs et précise qu’elle restera active toute la partie.</li>
+  <li>Le Conteur décide d’appliquer une règle maison : « Les joueurs morts peuvent discuter librement le jour. »<br>  
+  Il annonce le 
+  <a href="../loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Loric</a> en jeu le <strong>Contrebandier</strong>.<br>
+  Le Conteur présente la règle à tous les joueurs et précise qu’elle restera active toute la partie.</li>
 
 </ul>
 
