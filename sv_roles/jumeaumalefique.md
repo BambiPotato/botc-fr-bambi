@@ -243,12 +243,12 @@ title: Jumeau Maléfique
        style="color:#d45b5b; font-weight:bold; text-decoration:none;">
       Docteur de la peste
     </a> :
-    Si le <strong>Conteur</strong> devait gagner la capacité de l’
+    Si le <strong>Conteur</strong> devait gagner la capacité du
     <a href="./eviltwin.html"
        style="color:#d45b5b; font-weight:bold; text-decoration:none;">
      Jumeau Maléfique
     </a>,
-    un joueur devient l’
+    un joueur devient 
     <a href="./eviltwin.html"
        style="color:#d45b5b; font-weight:bold; text-decoration:none;">
       Jumeau Maléfique
