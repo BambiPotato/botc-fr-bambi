@@ -62,7 +62,7 @@ title: Harpie
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Chaque nuit, choisissez 2 joueurs : demain, le 1er est fou que le 2e est maléfique,  
-  ou bien l’un, l’autre, ou les deux pourraient mourir. »</strong>
+  sinon l'un ou les deux pourraient mourir. »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
