@@ -6,13 +6,13 @@ title: No Dashii
 <!-- 🔴 Logo en haut à gauche -->
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="../images/logo.png" alt="Accueil BotC FR" width="200">
+    <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
 ---
 
-## 🐙 No Dashii
+##  No Dashii
 
 <!-- 🧩 Image centrée cliquable avec nom centré -->
 <div style="text-align:center; margin: 20px 0;">
@@ -23,20 +23,44 @@ title: No Dashii
   </a>
 </div>
 
+
 ---
 
-## ℹ️ Information
+##  <span style="color:#d45b5b">Informations</span>
 
-- **Type :** [<span style="color:red;">**Démon**</span>](../demons.html)  
-- **Artiste :** Aidan Roberts  
-> *« Par les péchés d’Arnoch, je sens ta puanteur chargée.  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+      Sbires
+    </a>
+  </li>
+
+  <li>
+    <strong>Artiste :</strong> Aidan Roberts
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/No_Dashii"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+    No Dashii
+    </a>
+  </li>
+</ul>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
+« > *« Par les péchés d’Arnoch, je sens ta puanteur chargée.  
 > Par le soleil maudit et sa légion de petits dieux ricanants, je te corromps.  
 > Par la nuit bénie et les profondeurs cachées de la mer impie,  
-> je mets fin à ta vie misérable sur ce plan. »*
+> je mets fin à ta vie misérable sur ce plan. »*  »
+</p>     
 
 ---
 
-## 🎭 Apparaît dans
+##  Apparaît dans
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../sv.html" style="text-decoration:none;">
@@ -50,25 +74,29 @@ title: No Dashii
 
 ---
 
-## 📖 Résumé
+##  Résumé
 
 > « **Chaque nuit***, choisissez un joueur : il meurt.  
 > Vos **2 voisins Villageois** sont **empoisonnés**. »
 
-Le **No Dashii** empoisonne en permanence ses deux **voisins les plus proches Villageois**, dans le sens horaire et antihoraire - l’un à sa gauche et l’autre à sa droite.  
-Les **Étrangers, Sbires et Voyageurs sont ignorés** : on saute par-dessus jusqu’au prochain **Villageois**.  
+Le **No Dashii** empoisonne ses deux **voisins Villageois**
+
+- Le **No Dashii** empoisonne ses deux **voisins les plus proches Villageois**, dans le sens horaire et antihoraire, 
+l’un à sa gauche et l’autre à sa droite.  
+
+- Les **Étrangers, Sbires et Voyageurs sont ignorés** : on saute par-dessus jusqu’au prochain **Villageois**.  
 Si le No Dashii **meurt** ou **perd sa capacité**, ces voisins redeviennent **sains**.  
 Si le **porteur du rôle** change ([<span style="color:blue;">Barbier</span>](barbier.md), [<span style="color:red;">Pit-Hag</span>](pithag.md)…), les joueurs **empoisonnés peuvent changer immédiatement** selon les nouveaux voisins Villageois.
 
 ---
 
-## 🎬 Comment Conter
+##  Comment Conter
 
-1. **Mise en place (première nuit)**  
+1. **Mise en place pendant les préparatifs de la première nuit,**  
    - Identifiez les **deux voisins Villageois** du No Dashii (en sautant les non-Villageois).  
    - Placez sur eux des jetons de rappel **EMPOISONNÉS**.
 
-2. **Chaque nuit (sauf la première)**  
+2. **Chaque nuit sauf la première**  
    - Réveillez le No Dashii : il **pointe un joueur ou une joueuse**.  
    - Ce joueur **meurt** marquez-le avec le jeton de rappel "**MORT**", puis rendormez le No Dashii.
 
@@ -78,10 +106,11 @@ Si le **porteur du rôle** change ([<span style="color:blue;">Barbier</span>](ba
    - Si le No Dashii **meurt** ou **perd son pouvoir**, **retirez** les rappels **EMPOISONNÉS**.
 
 
-## 🧾 Exemples
+##  Exemples
 
 - Au début de la partie, le [<span style="color:red;">No Dashii</span>](nodashii.md) est assis entre un [<span style="color:blue;">**Crieur**</span>](crieur.md) ([<span style="color:bleu;">**Villageois**</span>](../villageois.html) )
   et un  [<span style="color:blue;">**Charmeur de serpent**</span>](charmeurdeserpent.md) ([<span style="color:bleu;">**Villageois**</span>](../villageois.html) ) : **ces 2 rôles-là sont empoisonnés**.  
+  
   En sens antihoraire : la [<span style="color:red;">**Sorcière**</span>](sorciere.md) un <span style="color:red;">Sbire</span>, le [<span style="color:blue;">**Mutant**</span>](mutant.md) un <span style="color:blue;">Étranger</span>,
   la  [<span style="color:blue;">**Couturière**</span>](couturiere.md) un ( [<span style="color:bleu;">**Villageois**</span>](../villageois.html) )  
 - Plus tard, avec la capacité du [<span style="color:blue;">**Barbier**</span>](barbier.md) le No Dashii échange avec la [<span style="color:red;">**Sorcière**</span>](sorciere.md) un <span style="color:red;">Sbire</span>.
@@ -93,16 +122,17 @@ Si le **porteur du rôle** change ([<span style="color:blue;">Barbier</span>](ba
 
 ---
 
-## 💡 Astuces & Stratégies 
+##  Astuces & Stratégies 
 
 - **Identifiez vos voisins Villageois** puis **soutenez publiquement** leurs infos : comme elles sont fausses, cela sèmera la confusion **sans que cela vienne de vous**.  
 - **Gardez vos voisins en vie** : plus ils parlent, plus la **désinformation** circule.  
-- Si la table **pense à un No Dashii**, vous pouvez **tuer vos voisins** pour brouiller les pistes… ou faire croire à un **autre démon** (p.ex. Vortox).  
+- Si le Village **pense à un No Dashii**, vous pouvez **tuer vos voisins** pour brouiller les pistes… ou faire croire à un **autre démon**,
+par exemple un [<span style="color:red;">**Vortox**</span>](vortox.md) 
 - Si **tous les méchants** propagent des infos fausses, cela peut **ressembler à un Vortox** : exploitez cette piste pour faire douter les bons de leurs données.
 
 ---
 
-## 🛡️ Contrer le No Dashii
+## Combattre le No Dashii
 
 - Le poison du No Dashii **ignore** les **Sbires, Étrangers et Voyageurs** : il **n’a pas besoin d’être assis juste à côté** de vous pour vous empoisonner.  
 - Surveillez les **changements de rôles** avec un ( [<span style="color:blue;">**Barbier**</span>](barbier.md) , ou une [<span style="color:red;">**Pit-Hag**</span>](pithag.md)) : les **voisins Villageois empoisonnés** peuvent **changer en cours de partie**.  
@@ -112,10 +142,8 @@ Si le **porteur du rôle** change ([<span style="color:blue;">Barbier</span>](ba
 ---
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌛 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>👹 <a href="../demons.html" style="color:red; font-weight:bold; text-decoration:none;">Catégorie : Démons</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="../sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
+  <li> <a href="../demons.html" style="color:red; font-weight:bold; text-decoration:none;">Catégorie : Démons</a></li>
 </ul>
 
