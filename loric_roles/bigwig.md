@@ -22,7 +22,10 @@ title: Gros Bonnet
 # <span style="color:#7fd1ae; font-weight:bold; font-size:18px;">Gros Bonnet</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « La vanité demande “Est-ce populaire ?” La lâcheté demande “Est-ce sûr ?” La conscience demande “Est-ce juste ?” Qui parmi nous demandera : “Est-ce vrai ?” »
+  « La vanité demande “Est-ce populaire ?” 
+  La lâcheté demande “Est-ce sûr ?” 
+  La conscience demande “Est-ce juste ?” 
+  Qui parmi nous demandera : “Est-ce vrai ?” »
 </p>
 
 ---
