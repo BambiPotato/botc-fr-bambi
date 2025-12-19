@@ -102,7 +102,7 @@ title: Lorics
   <!-- Bootlegger -->
   <a href="./loric_roles/bootlegger.html" style="text-decoration:none; flex:0 1 200px; text-align:center;">
     <img src="./images/Icon_bootlegger.png" alt="Bootlegger" style="display:block; margin:0 auto; width:200px; height:auto; border-radius:12px;">
-    <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Bootlegger</span>
+    <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Contrebandier</span>
   </a>
 
   <!-- Big Wig -->
