@@ -34,6 +34,12 @@ title: Gros Bonnet
   <li><strong>Type :</strong> <a href="../loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Loric</a></li>
   <li><strong>Artiste :</strong> <em>Chloe McDougall</em></li>
   <li><strong>Révélé :</strong> 25 octobre 2025</li>
+  <li><strong>Nom original :<strong>
+    <a href="https://wiki.bloodontheclocktower.com/Big_Wig"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:##4caf50; font-weight:bold; text-decoration:none;">
+    Big Wig</a></li>
 </ul>
 
 ---
@@ -86,5 +92,5 @@ Céline meurt à cause du pouvoir du Gros Bonnet.
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Retour aux rôles Loric</a>
+   <a href="../loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Catégorie : Lorics</a>
 </p>
