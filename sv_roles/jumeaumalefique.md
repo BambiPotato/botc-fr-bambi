@@ -92,7 +92,7 @@ title: Jumeau Maléfique
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Si le <strong>Jumeau Bon</strong> est exécuté → 💀 le Mal gagne immédiatement.</li>
+  <li>Si le <strong>Jumeau Bon</strong> est exécuté →  le Mal gagne immédiatement.</li>
   <li>Si le <strong>Jumeau Maléfique</strong> est exécuté → la partie continue.</li>
   <li>Tant que les deux sont vivants → le Bien ne peut pas gagner, même si le Démon meurt.</li>
 </ul>
