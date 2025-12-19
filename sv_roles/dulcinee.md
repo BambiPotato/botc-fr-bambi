@@ -78,7 +78,7 @@ title: Dulcinée
   <span style="color:#4ea3ff; font-weight:bold;">Résumé</span>
 </h2>
 
-<p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:20px;">
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px;">
   « Quand vous mourez, <strong>1 joueur devient ivre pour le reste de la partie.</strong> »
 </p>
 
@@ -105,7 +105,7 @@ title: Dulcinée
   <li>Cette ivresse dure <strong>jusqu’à la fin de la partie</strong>.</li>
 </ul>
 
-<p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:20px;">
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px;">
   En général, le Conteur choisit un Villageois pour affaiblir l’équipe du Bien.<br>
   Mais en cas de domination du Mal, il peut viser un Étranger, un Sbire, ou même le Démon.
 </p>
