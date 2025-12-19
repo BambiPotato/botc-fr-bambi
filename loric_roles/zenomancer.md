@@ -31,9 +31,17 @@ title: Zénomancien
 ##  <span style="color:#7fd1ae;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li><strong>Type :</strong> <a href="../loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Loric</a></li>
+  <li><strong>Type :</strong> <a href="../loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Zenomancer</a></li>
   <li><strong>Artiste :</strong> <em>Chloe McDougall</em></li>
   <li><strong>Révélé :</strong> 20 novembre 2025</li>
+  <li><strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Big_Wig"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#7fd1ae; font-weight:bold; text-decoration:none;">
+      Zenomancer
+    </a>
+  </li>
 </ul>
 
 ---
