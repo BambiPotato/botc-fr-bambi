@@ -19,12 +19,12 @@ title: Hindou
   </a>
 </div>
 
-# <span style="color:#7fd1ae; font-weight:bold; font-size:18px;">Hindu</span>
+# <span style="color:#7fd1ae; font-weight:bold; font-size:18px;">Hindou</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « चत्वारो मृत्युमध्ये पतन्ति,
-  चत्वारो यात्री पुनरुद्गताः।
-  चत्वारो धर्मे स्थितचित्तवृत्तेः,
+  « चत्वारो मृत्युमध्ये पतन्ति,<br>
+  चत्वारो यात्री पुनरुद्गताः।<br>
+  चत्वारो धर्मे स्थितचित्तवृत्तेः,<br>
   चत्वार एषां न पुनः क्षयः॥ »
 </p>
 
@@ -55,7 +55,7 @@ title: Hindou
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Hindu</strong> donne une nouvelle vie aux joueurs et joueuses qui meurent tôt.
+L'<strong>Hindou</strong> donne une nouvelle vie aux joueurs et joueuses qui meurent tôt.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
@@ -74,9 +74,8 @@ Le <strong>Hindu</strong> donne une nouvelle vie aux joueurs et joueuses qui meu
 ##  <span style="color:#7fd1ae;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Si un joueur meurt, il devient un <strong>Voyageur</strong> de votre choix. Déclarez quel Voyageur il est.
-<br><br>
-Quand quatre joueurs sont morts et sont devenus des Voyageurs, les joueurs meurent normalement.
+Si un joueur meurt, il devient un <strong>Voyageur</strong> de votre choix. Déclarez quel Voyageur il est.<br>
+Quand quatre joueurs sont morts et sont devenus des Voyageurs, les joueurs meurent normalement.<br>
 <br><br>
 <strong>Règle optionnelle :</strong> Si le Démon devient un Voyageur, un Sbire devient le Démon.
 </p>
