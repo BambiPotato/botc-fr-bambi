@@ -104,5 +104,5 @@ Cette nuit-là, le <a href="../bmr_roles/po.html" style="color:#d45b5b; font-wei
 <p style="text-align:left; font-size:18px; margin-top:20px;">
    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
    <a href="../loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Catégorie : Lorics</a><br>
-   <a href="../roles_experimentaux.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Catégories : Rôles expérimentaux</a>
+   <a href="../roles_experimentaux.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Catégories : Rôles expérimentaux</a>
 </p>
