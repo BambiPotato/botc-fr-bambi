@@ -25,11 +25,37 @@ title: Horloger
 
 ---
 
-##  <span style="color:#4ea3ff;">Information</span>  
 
-- **Type :** [<span style="color:blue;">**Villageois**</span>](../villageois.md)  
-- **Artiste :** Aidan Roberts  
-> *« Ne me dérangez pas. Le tic doit continuer, car le cercle est un symbole de vie et renferme toutes choses — toutes les réponses — dans sa divine machinerie. Je dois travailler. »*  
+##  <span style="color:blue">Informations</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+      Villageois
+    </a>
+  </li>
+
+  <li>
+    <strong>Artiste :</strong> Aidan Roberts
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Clockmaker"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Clockmaker
+    </a>
+  </li>
+</ul>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
+« Ne me dérangez pas. 
+  Le tic doit continuer, car le cercle est un symbole de vie et renferme toutes choses — toutes les réponses — dans sa divine machinerie. 
+  Je dois travailler. »
+</p> 
 
 ---
 
