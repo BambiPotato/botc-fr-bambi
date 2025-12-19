@@ -22,15 +22,9 @@ title: Charmeur de Serpent
   </a>
 </div>
 
----
-
-##  <span style="color:#4ea3ff;">Information</span>  
-
-- **Type :** [<span style="color:blue;">**Villageois**</span>](../villageois.md)  
-- **Artiste :** Aidan Roberts  
-> *« »*
 
 ---
+
 
 ##  <span style="color:blue">Informations</span>
 
