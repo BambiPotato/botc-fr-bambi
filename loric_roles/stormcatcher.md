@@ -37,7 +37,7 @@ title: Attrape-tempête
   <li><strong>Type :</strong> <a href="../loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Loric</a></li>
   <li><strong>Artiste :</strong> <em>John Grist</em></li>
   <li><strong>Révélé :</strong> 28 août 2020</li>
-    <li><strong>Nom original :</strong>
+  <li><strong>Nom original :</strong>
     <a href="https://wiki.bloodontheclocktower.com/Storm_Catcher"
        target="_blank"
        rel="noopener noreferrer"
@@ -75,12 +75,13 @@ Au début de la partie, annoncez que l’<strong>Attrape-tempête</strong> est e
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li><strong>Durant la première nuit, réveillez chaque joueur maléfique à tour de rôle. </strong><br>
+  <li><strong>Durant la première nuit, réveillez chaque joueur maléfique à tour de rôle.</strong><br>
     • Si joueur un est marqué <strong>PROTEGÉ</strong>, réveillez chaque joueur maléfique : montrez le jeton <em>CE JOUEUR EST</em>, le jeton du rôle favorisé, puis pointez la personne protégée.<br>
     • S’il n’y a pas de joueur marqué, montrez le jeton <em>CE RÔLE N'EST PAS JEU</em> et le jeton du rôle favorisé.
   </li>
-  <li><strong>Si le joueur marqué du symbole <strong>PROTEGÉ</strong> de l’<strong>Attrape-tempête</strong> est exécuté, il meurt.<br>
-    S'il devait mourir autrement, il reste en vie.</li>
+  <li><strong>Si le joueur marqué du symbole <strong>PROTEGÉ</strong> de l’<strong>Attrape-tempête</strong> est exécuté, il meurt.</strong><br>
+    S'il devait mourir autrement, il reste en vie.
+  </li>
 </ul>
 
 ---
@@ -93,7 +94,7 @@ Au début de la partie, annoncez que l’<strong>Attrape-tempête</strong> est e
   L’Attrape-tempête <strong>« favorise »</strong> le <a href="../roles_experimentaux/general.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Général</a>.<br>
   Le Général est en jeu. La nuit, l’<a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Imp</a> et le <a href="../bmr_roles/parrain.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parrain</a> l’attaquent : il ne meurt pas.<br>  
   Après plusieurs jours d’infos et de débats, le village choisit de l’<strong>exécuter</strong> : il meurt.</li>
-<br>
+
   <li>Le Conteur souhaite une partie basée autour de l’<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a>.<br>  
   L’Attrape-tempête « favorise l’Empathique », <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a> mais <strong>aucun <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a> n’est en jeu</strong>.<br>   
   Les <span style="color:#d45b5b; font-weight:bold;">maléfiques</span> l’apprennent, et l’<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> choisit de <em>bluffer</em> <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a>.</li>
