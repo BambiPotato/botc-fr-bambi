@@ -114,10 +114,9 @@ Pour contrer ce puissant atout, l'équipe maléfique connaîtra toujours l'ident
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Nommer un rôle avec l’Attrape-tempête ne signifie pas que vous devez l'inclure dans le jeu.<br>  
-S’il n’est pas présent, vous offrez simplement un <em>bluff sûr</em> à l’équipe maléfique.<br> 
-<br>
-Utilisez-le pour rendre un rôle « spécial » : si votre partie repose sur des interactions avec, par exemple, le <a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a>,<br>  
-c’est frustrant de le perdre dès le jour 2 sur un coup de chance du Démon.<br>  
+S’il n’est pas présent, vous offrez simplement un <em>bluff sûr</em> à l’équipe maléfique.
+Utilisez-le pour rendre un rôle « spécial » : si votre partie repose sur des interactions avec, par exemple, le <a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a>, 
+c’est frustrant de le perdre dès le jour 2 sur un coup de chance du Démon.  
 En offrant votre protection à un rôle, vous élargissez non seulement l'éventail des stratégies à sa disposition (bonnes ou mauvaises),<br> 
 mais vous vous assurez également que le groupe lui accordera une attention particulière lors de ses délibérations.
 </p>
