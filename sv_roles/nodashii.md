@@ -52,10 +52,10 @@ title: No Dashii
 </ul>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
-« > *« Par les péchés d’Arnoch, je sens ta puanteur chargée.  
-> Par le soleil maudit et sa légion de petits dieux ricanants, je te corromps.  
-> Par la nuit bénie et les profondeurs cachées de la mer impie,  
-> je mets fin à ta vie misérable sur ce plan. »*  »
+« Par les péchés d’Arnoch, je sens ta puanteur chargée.  
+ Par le soleil maudit et sa légion de petits dieux ricanants, je te corromps.  
+ Par la nuit bénie et les profondeurs cachées de la mer impie,  
+ je mets fin à ta vie misérable sur ce plan. »
 </p>     
 
 ---
