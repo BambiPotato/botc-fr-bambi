@@ -22,18 +22,43 @@ title: Oracle
   </a>
 </div>
 
----
-
-## <span style="color:#4ea3ff;">Information</span>  
-
-- **Type :** [<span style="color:blue;">**Villageois**</span>](../villageois.md)  
-- **Artiste :** John Grist  
-> *« Seuls les élus peuvent contempler au-delà du voile.  
-Les morts sont agités, et ils pointent en silence vers le nord glacé. »*
 
 ---
+##  <span style="color:blue">Informations</span>
 
-## 🎭 Apparaît dans  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+      Villageois
+    </a>
+  </li>
+
+  <li>
+    <strong>Artiste :</strong> John Grist 
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Oracle"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Oracle
+    </a>
+  </li>
+</ul>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
+« Seuls les élus peuvent contempler au-delà du voile.  
+Les morts sont agités, et ils pointent en silence vers le nord glacé. »
+</p>
+
+
+---
+
+
+##  Apparaît dans  
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../sv.html" style="text-decoration:none;">
