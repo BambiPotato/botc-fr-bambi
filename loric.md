@@ -93,6 +93,12 @@ title: Lorics
 <!-- Cartes : grille responsive, plusieurs cartes par ligne -->
 <div style="margin: 8px 0 6px 0; display:flex; flex-wrap:wrap; justify-content:center; gap:16px;">
 
+  <!-- Storm Catcher -->
+  <a href="./loric_roles/stormcatcher.html" style="text-decoration:none; flex:0 1 200px; text-align:center;">
+    <img src="./images/Icon_stormcatcher.png" alt="Storm Catcher" style="display:block; margin:0 auto; width:200px; height:auto; border-radius:12px;">
+    <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Attrape-tempête</span>
+  </a>
+
   <!-- Bootlegger -->
   <a href="./loric_roles/bootlegger.html" style="text-decoration:none; flex:0 1 200px; text-align:center;">
     <img src="./images/Icon_bootlegger.png" alt="Bootlegger" style="display:block; margin:0 auto; width:200px; height:auto; border-radius:12px;">
@@ -105,16 +111,16 @@ title: Lorics
     <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Gros Bonnet</span>
   </a>
 
+  <!-- Hindu -->
+  <a href="./loric_roles/hindu.html" style="text-decoration:none; flex:0 1 200px; text-align:center;">
+    <img src="./images/Icon_hindu.png" alt="Hindu" style="display:block; margin:0 auto; width:200px; height:auto; border-radius:12px;">
+    <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Hindou</span>
+  </a>
+
   <!-- Gardener -->
   <a href="./loric_roles/gardener.html" style="text-decoration:none; flex:0 1 200px; text-align:center;">
     <img src="./images/Icon_gardener.png" alt="Gardener" style="display:block; margin:0 auto; width:200px; height:auto; border-radius:12px;">
     <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Jardinier</span>
-  </a>
-
-  <!-- Storm Catcher -->
-  <a href="./loric_roles/stormcatcher.html" style="text-decoration:none; flex:0 1 200px; text-align:center;">
-    <img src="./images/Icon_stormcatcher.png" alt="Storm Catcher" style="display:block; margin:0 auto; width:200px; height:auto; border-radius:12px;">
-    <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Attrape-tempête</span>
   </a>
 
   <!-- Tor -->
