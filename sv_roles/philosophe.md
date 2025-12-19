@@ -24,11 +24,35 @@ title: Philosophe
 
 ---
 
-## <span style="color:#4ea3ff;">Information</span>  
+##  <span style="color:blue">Informations</span>
 
-- **Type :** [<span style="color:blue;">**Villageois**</span>](../villageois.md)  
-- **Artiste :** Aidan Roberts  
-> *« Si quelque chose est réel, c’est bien la bière. Bois, car demain nous mourrons peut-être. »*
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+      Villageois
+    </a>
+  </li>
+
+  <li>
+    <strong>Artiste :</strong> Aidan Roberts
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Philosopher"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Philosopher
+    </a>
+  </li>
+</ul>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
+« Si quelque chose est réel, c’est bien la bière. Bois, car demain nous mourrons peut-être.»
+</p>
+
 
 ---
 
