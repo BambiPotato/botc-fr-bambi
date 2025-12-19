@@ -6,13 +6,13 @@ title: Fang Gu
 <!-- 🔴 Logo en haut à gauche -->
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="../images/logo.png" alt="Accueil BotC FR" width="200">
+    <img src="../images/logogold.png" alt="Accueil BotC FR" width="200">
   </a>
 </p>
 
 ---
 
-## 🩸 Fang Gu
+##  Fang Gu
 
 <!-- Image centrée cliquable -->
 <div style="text-align:center; margin: 20px 0;">
@@ -25,15 +25,40 @@ title: Fang Gu
 
 ---
 
-## ℹ️ Information  
+##  <span style="color:#d45b5b">Informations</span>
 
-- **Type :** [<span style="color:red;">**Démon**</span>](../demons.html)  
-- **Artiste :** Aidan Roberts  
-> *« Vos murs et vos armes ne sont que de la fumée dans les rêves. »*
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+      Sbires
+    </a>
+  </li>
+
+  <li>
+    <strong>Artiste :</strong> Aidan Roberts
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com//Fang_Gu"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+    /Fang Gu
+    </a>
+  </li>
+</ul>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
+« Vos murs et vos armes ne sont que de la fumée dans les rêves.  »
+</p>   
+
+
 
 ---
 
-## 🎭 Apparaît dans  
+##  Apparaît dans  
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../sv.html" style="text-decoration:none;">
@@ -47,7 +72,7 @@ title: Fang Gu
 
 ---
 
-## 📖 Résumé  
+##  Résumé  
 
 > « Chaque nuit*, choisissez un joueur : il meurt.  
 > Le premier Étranger tué de cette façon devient un Fang Gu maléfique et vous mourez à sa place.
@@ -65,7 +90,7 @@ Cet effet ne peut se produire **qu’une seule fois** dans la partie.
 
 ---
 
-## 🎬 Comment Conter  
+##  Comment Conter  
 
 1. **Lors de la mise en place :**  
    - Ajoutez **un Étranger supplémentaire**.  
@@ -84,7 +109,7 @@ Cet effet ne peut se produire **qu’une seule fois** dans la partie.
 
 ---
 
-## 🧾 Exemples  
+##  Exemples  
 
 - Le Fang Gu attaque l' [<span style="color:blue;">Artiste</span>](artiste.md) : il meurt.  
 - La nuit suivante, il attaque la [<span style="color:blue;">Dulcinée</span>](dulcinee.md) : elle devient la nouvelle Fang Gu, et le Démon d’origine meurt.  
@@ -92,9 +117,9 @@ Cet effet ne peut se produire **qu’une seule fois** dans la partie.
 
 ---
 
-## 💡 Astuces & Stratégies  
+##  Astuces & Stratégies  
 
-### 🔴 En tant que Fang Gu  
+###  En tant que Fang Gu  
 
 - **Cherchez les Étrangers.**  
   Vous devez savoir qui ils sont avant de tuer à l’aveugle, afin de bien choisir quand transmettre votre pouvoir.  
@@ -118,8 +143,7 @@ Cet effet ne peut se produire **qu’une seule fois** dans la partie.
   votre priorité est de retrouver vos alliés maléfiques et de reprendre le contrôle de la partie.
 
 ---
-### ⚔️ Combattre le Fang Gu
-### 🔵 Pour le camp du Bien  
+###  Combattre le Fang Gu
 
 - **Trop d’Étrangers en jeu ?**  
   C’est un signe fort qu’un Fang Gu est en action.  
@@ -141,10 +165,29 @@ Cet effet ne peut se produire **qu’une seule fois** dans la partie.
 
 --- 
 
+<h2 style="color:#d45b5b; font-size:22px; margin-top:30px;">🧞 Jinxes liés</h2>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+  <li>
+    🧞
+    <img src="../images/Icon_scarletwoman.png" alt="Femme Écarlate" width="24"
+         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../tb_roles/femmeecarlate.html"
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+      Femme Écarlate
+    </a> :  
+    S’il devait y avoir deux <span style="color:#d45b5b; font-weight:bold;">Démons</span>,
+    dont l’un est la Femme Écarlate,  
+    la Femme Écarlate reste la Femme Écarlate.
+  </li>
+
+</ul>
+
+---
+
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌛 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>👹 <a href="../demons.html" style="color:red; font-weight:bold; text-decoration:none;">Catégorie : Démons</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="../sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
+  <li> <a href="../demons.html" style="color:red; font-weight:bold; text-decoration:none;">Catégorie : Démons</a></li>
 </ul>
