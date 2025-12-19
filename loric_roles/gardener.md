@@ -34,7 +34,17 @@ title: Gardener
   <li><strong>Type :</strong> <a href="../loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Loric</a></li>
   <li><strong>Artiste :</strong> <em>Z. Benetatos</em></li>
   <li><strong>Révélé :</strong> 28 avril 2023</li>
+   <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Gardener"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#7fd1ae; font-weight:bold; text-decoration:none;">
+    Gardener
+    </a>
+  </li>
 </ul>
+
 
 ---
 
