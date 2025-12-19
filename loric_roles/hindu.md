@@ -61,8 +61,8 @@ Le <strong>Hindu</strong> donne une nouvelle vie aux joueurs et joueuses qui meu
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Les quatre premiers joueurs à mourir deviennent des <strong>Voyageurs</strong>.</li>
   <li>Peu importe la manière dont les joueurs sont morts.</li>
-  <li>Le Conteur choisit quel Voyageur le joueur devient. 
-  <li>Cela diffère de la règle normale selon laquelle les joueurs choisissent leur Voyageur. 
+  <li>Le Conteur choisit quel Voyageur le joueur devient.</li>
+  <li>Cela diffère de la règle normale selon laquelle les joueurs choisissent leur Voyageur.</li>
   <li>L’alignement du joueur reste le même qu’avant sa mort.</li>
   <li>Si le script a cinq Voyageurs recommandés, le Conteur choisit parmi ceux-ci.</li>
   <li>La mort n’est jamais simultanée. Par exemple, si le <a href="../bmr_roles/shabaloth.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a> tue deux joueurs la nuit, il en tue un, puis l’autre.</li>
