@@ -40,7 +40,7 @@ title: Gros Bonnet
     <a href="https://wiki.bloodontheclocktower.com/Big_Wig"
        target="_blank"
        rel="noopener noreferrer"
-       style="color:#4caf50; font-weight:bold; text-decoration:none;">
+       style="color:#7fd1ae; font-weight:bold; text-decoration:none;">
       Big Wig
     </a>
   </li>
