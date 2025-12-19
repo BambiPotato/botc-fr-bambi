@@ -23,15 +23,39 @@ title: Jongleur
   </a>
 </div>
 
+
 ---
 
-## <span style="color:#4ea3ff;">Information</span>  
+##  <span style="color:blue">Informations</span>
 
-- **Type :** [<span style="color:blue;">**Villageois**</span>](../villageois.md)  
-- **Artiste :** Aidan Roberts  
-> *« Pour mon prochain tour, à la demande générale, il me faudra une fleur,  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+      Villageois
+    </a>
+  </li>
+
+  <li>
+    <strong>Artiste :</strong> Aidan Roberts
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Juggler"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+  Juggler
+    </a>
+  </li>
+</ul>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
+« Pour mon prochain tour, à la demande générale, il me faudra une fleur,  
 un sac de haricots, un serpent en plastique, un pinceau, et une tondeuse à essence.  
-Je vous préviens, ce tour sera peut-être mon dernier. Oh là là… »*
+Je vous préviens, ce tour sera peut-être mon dernier. Oh là là…  »
+</p> 
 
 ---
 
@@ -189,7 +213,6 @@ s’il n’est pas mort avant !
 </ul>
 
 ---
-
 
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
