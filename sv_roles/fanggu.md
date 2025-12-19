@@ -59,7 +59,7 @@ title: Fang Gu
 <hr>
 
 <h2 style="margin-top:10px;">
-  <span style="color:#d45b5b; font-weight:bold;">Apparaît dans</span>
+  <span style="color:#f5f5f5; font-weight:bold;">Apparaît dans</span>
 </h2>
 
 <div style="text-align:center; margin: 20px 0;">
@@ -80,7 +80,7 @@ title: Fang Gu
   <span style="color:#d45b5b; font-weight:bold;">Résumé</span>
 </h2>
 
-<p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
   « Chaque nuit*, choisissez un joueur : il meurt.<br>
   Le premier Étranger tué de cette façon devient un Fang Gu maléfique et vous mourez à sa place.<br>
   <strong>[+1 Étranger]</strong> »
