@@ -22,19 +22,44 @@ title: Mathématicien
   </a>
 </div>
 
+
 ---
 
-## <span style="color:#4ea3ff;">Information</span>  
 
-- **Type :** [<span style="color:blue;">**Villageois**</span>](../villageois.md)  
-- **Artiste :** John Grist  
-> *« Tout système formel cohérent x, au sein duquel un certain niveau d’arithmétique élémentaire peut être effectué, est incomplet :  
+##  <span style="color:blue">Informations</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+      Villageois
+    </a>
+  </li>
+
+  <li>
+    <strong>Artiste :</strong> John Grist
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Mathematician"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Mathematician
+    </a>
+  </li>
+</ul>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
+« Tout système formel cohérent x, au sein duquel un certain niveau d’arithmétique élémentaire peut être effectué, est incomplet :  
 il existe des énoncés dans le langage de x qui ne peuvent être ni prouvés ni réfutés en x.  
-Ergo, vous êtes ivre. »*
+Ergo, vous êtes ivre »
+</p>  
 
 ---
 
-## 🎭 Apparaît dans  
+##  Apparaît dans  
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../sv.html" style="text-decoration:none;">
