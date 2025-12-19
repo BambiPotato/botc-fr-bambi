@@ -265,7 +265,7 @@ title: Cerenovus
   <li>
     <strong>Déduisez l’identité du Cerenovus.</strong><br>
     Le Cerenovus choisit presque toujours <strong>des joueurs bons</strong>,<br>
-    rarement le Démon — c’est trop risqué.<br>
+    rarement le Démon, c’est trop risqué.<br>
     Gardez donc ces cibles en vie, et cherchez le véritable mal ailleurs.
   </li>
 </ul>
