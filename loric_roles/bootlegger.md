@@ -91,8 +91,7 @@ Le <strong>Contrebandier</strong> reste actif jusqu’à la fin de la partie.
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
   <li>Le script inclut le rôle <em>Paysan</em>, un rôle <em>Maison</em> créé par la communauté.<br>   
-  Le Conteur déclare que le <strong>Contrebandier</strong> est en jeu, puis explique comment fonctionne le Paysan avant de commencer la partie.</li><br> 
-<br> 
+  Le Conteur déclare que le <strong>Contrebandier</strong> est en jeu, puis explique comment fonctionne le Paysan avant de commencer la partie.</li><br>  
 
   <li>Le Conteur décide d’appliquer une règle maison : « Les joueurs morts peuvent discuter librement le jour. »<br>  
   Il annonce le 
