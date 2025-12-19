@@ -25,13 +25,38 @@ title: Rêveur
 
 ---
 
-##  <span style="color:#4ea3ff;">Information</span>  
+##  <span style="color:blue">Informations</span>
 
-- **Type :** [<span style="color:blue;">**Villageois**</span>](../villageois.md)  
-- **Artiste :** Caitlin Murphy  
-> *« Je me souviens de l’Horloger. Le ciel était rouge et il pleuvait des triangles fractals.  
-Il y avait une odeur de violettes et un bruit de bulles.  
-Une femme aux yeux luminescents et à la barbe éparse sifflait vers le ciel. Puis, je me suis réveillé·e. »*
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+      Villageois
+    </a>
+  </li>
+
+  <li>
+    <strong>Artiste :</strong> Caitlin Murphy 
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Dreamer"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Dreamer
+    </a>
+  </li>
+</ul>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
+« Je me souviens de l’Horloger. 
+  Le ciel était rouge et il pleuvait des triangles fractals.  
+  Il y avait une odeur de violettes et un bruit de bulles.  
+  Une femme aux yeux luminescents et à la barbe éparse sifflait vers le ciel. 
+  Puis, je me suis réveillé. »
+</p>
 
 ---
 
@@ -56,7 +81,8 @@ Une femme aux yeux luminescents et à la barbe éparse sifflait vers le ciel. Pu
 
 Le Rêveur apprend les rôles des joueurs,mais n’est pas certain que les informations qu’il reçoit soient entièrement exactes.
 
-Chaque nuit, le Rêveur choisit un joueur et apprend **deux rôles** :   
+Chaque nuit, le Rêveur choisit un joueur et apprend **deux rôles** : 
+
 - celui que le joueur est et celui que le joueur n'est pas.
 - Le rôle "faux" dépend du type réel de rôle du joueur choisi.
 - Si le Rêveur choisit un joueur qui est un [<span style="color:blue;">Villageois</span>](../villageois.md) ou un [<span style="color:blue;">Étranger</span>](../etrangers.md), le faux rôle est un [<span style="color:red;">Sbire</span>](../sbires.md) ou un [<span style="color:red;">Démon</span>](../demons.md).  
@@ -74,7 +100,7 @@ Le Rêveur ne peut **pas se choisir lui-même**, ni choisir un [<span style="col
 - Si le joueur est un <span style="color:red;">Sbire</span> ou <span style="color:red;">Démon</span>, montrez-lui ce jeton et celui d’un <span style="color:blue;">Villageois</span> ou <span style="color:blue;">Étranger</span>.  
 - Puis rendormez le Rêveur.  
 
-> **Astuce et Conseil 💡 pour les Conteurs et Conteuses**
+> **Astuce et Conseil pour les Conteurs et Conteuses**
 
 > Pour aider ou tromper subtilement :  
 
