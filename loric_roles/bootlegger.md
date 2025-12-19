@@ -41,7 +41,7 @@ title: Contrebandier
     <a href="https://wiki.bloodontheclocktower.com/Bootlegger"
        target="_blank"
        rel="noopener noreferrer"
-       style="color:#4caf50; font-weight:bold; text-decoration:none;">
+       style="color:#7fd1ae; font-weight:bold; text-decoration:none;">
       Bootlegger
     </a>
   </li>
@@ -90,8 +90,9 @@ Le <strong>Contrebandier</strong> reste actif jusqu’à la fin de la partie.
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
-  <li>Le script inclut le rôle <em>Paysan</em>, un prôle <em>Maison</em> créé par la communauté.  
-  Le Conteur déclare que le <strong>Contrebandier</strong> est en jeu, puis explique comment fonctionne le Paysan avant de commencer la partie.</li>
+  <li>Le script inclut le rôle <em>Paysan</em>, un rôle <em>Maison</em> créé par la communauté.<br>   
+  Le Conteur déclare que le <strong>Contrebandier</strong> est en jeu, puis explique comment fonctionne le Paysan avant de commencer la partie.</li><br> 
+<br> 
 
   <li>Le Conteur décide d’appliquer une règle maison : « Les joueurs morts peuvent discuter librement le jour. »<br>  
   Il annonce le 
