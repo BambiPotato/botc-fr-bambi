@@ -10,22 +10,23 @@ title: Mutant
   </a>
 </p>
 
----
+<hr>
 
-##  Mutant
+<h2 style="margin-top:8px;">
+  <span style="color:#4ea3ff; font-weight:bold;">Mutant</span>
+</h2>
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="./mutant.html" style="text-decoration:none;">
     <img src="../images/Icon_mutant.png" alt="Mutant" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:blue; font-weight:bold; font-size:22px;">Mutant</span>
+    <span style="color:#4ea3ff; font-weight:bold; font-size:22px;">Mutant</span>
   </a>
 </div>
 
+<hr>
 
----
-
-##  <span style="color:blue">Informations</span>
+<h3 style="color:#4ea3ff; font-weight:bold;">Informations</h3>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
@@ -41,162 +42,225 @@ title: Mutant
 
   <li>
     <strong>Nom original :</strong>
-    <a href="https://wiki.bloodontheclocktower.com/Librarian"
+    <a href="https://wiki.bloodontheclocktower.com/Mutant"
        target="_blank"
        rel="noopener noreferrer"
        style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
-    Librarian
+      Mutant
     </a>
   </li>
 </ul>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
-« Je ne suis pas un monstre !  
-Je suis un être humain !  
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic; margin-left:20px; margin-right:20px;">
+« Je ne suis pas un monstre !<br>
+Je suis un être humain !<br>
 Ayez pitié ! »
-</p>  
+</p>
 
----
+<hr>
 
-##  Apparaît dans  
+<h3>Apparaît dans</h3>
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../sv.html" style="text-decoration:none;">
     <img src="../images/Logo_sects_and_violets.png" alt="Sects & Violets" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#d67bff; font-weight:bold; font-size:22px;">Sects & Violets</span>
+    <span style="color:#d67bff; font-weight:bold; font-size:22px;">Sects &amp; Violets</span>
   </a>
 </div>
 
-> *Cult of the Clocktower – épisode par Andrew Nathenson*
+<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+  Cult of the Clocktower – épisode par Andrew Nathenson
+</p>
 
----
+<hr>
 
-##  Résumé  
+<h3 style="color:#4ea3ff; font-weight:bold;">Résumé</h3>
 
-> « Si vous êtes **« fou »** d’être un Étranger,vous pourriez être exécuté.»
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
+  « Si vous êtes <strong>« fou »</strong> d’être un Étranger,vous pourriez être exécuté.»
+</p>
 
-> Le Conteur **peut vous exécuter immédiatement**. »
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
+  « Le Conteur <strong>peut vous exécuter immédiatement</strong>. »
+</p>
 
-Le Mutant est exécuté s’il tente de **révéler qu’il est un Étranger** ou qu’il est **le Mutant**.  
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
+  Le Mutant est exécuté s’il tente de <strong>révéler qu’il est un Étranger</strong> ou qu’il est <strong>le Mutant</strong>.<br><br>
+  Dans <em>Blood on the Clocktower</em>, être <strong>“fou”</strong> signifie<br>
+  <strong>essayer de convaincre les autres de quelque chose</strong> — ici, que vous êtes un Étranger.<br><br>
+  Cela peut être fait :
+</p>
 
-Dans *Blood on the Clocktower*, être **“fou”** signifie  
-**essayer de convaincre les autres de quelque chose** — ici, que vous êtes un Étranger.  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>en le disant explicitement,</li>
+  <li>en le sous-entendant,</li>
+  <li>ou même <strong>par le silence</strong> si le Conteur estime que vous cherchez à le faire comprendre.</li>
+</ul>
 
-Cela peut être fait :  
-- en le disant explicitement,  
-- en le sous-entendant,  
-- ou même **par le silence** si le Conteur estime que vous cherchez à le faire comprendre.  
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
+  Le Conteur peut alors :
+</p>
 
-Le Conteur peut alors :  
-- vous **exécuter à tout moment** (même la nuit !),  
-- et **aucune autre exécution** n’aura lieu ce jour-là.
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>vous <strong>exécuter à tout moment</strong> (même la nuit !),</li>
+  <li>et <strong>aucune autre exécution</strong> n’aura lieu ce jour-là.</li>
+</ul>
 
----
+<hr>
 
-##  Comment Conter  
+<h3 style="color:#4ea3ff; font-weight:bold;">Comment Conter</h3>
 
-- À tout moment (jour ou nuit),  
-  si le Conteur pense que le Mutant essaie de révéler qu’il est un Étranger :  
-  - il **l’exécute immédiatement**,  
-  - le déclare **mort**,  
-  - et passe à la phase suivante (nuit si c’était le jour).  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    À tout moment (jour ou nuit),<br>
+    si le Conteur pense que le Mutant essaie de révéler qu’il est un Étranger :
+    <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; margin-top:10px;">
+      <li>il <strong>l’exécute immédiatement</strong>,</li>
+      <li>le déclare <strong>mort</strong>,</li>
+      <li>et passe à la phase suivante (nuit si c’était le jour).</li>
+    </ul>
+  </li>
+</ul>
 
-> ⚠️ Une seule exécution par jour, même si celle-ci est provoquée par la folie du Mutant.
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
+  ⚠️ Une seule exécution par jour, même si celle-ci est provoquée par la folie du Mutant.
+</p>
 
----
+<hr>
 
-##  Exemples  
+<h3 style="color:#4ea3ff; font-weight:bold;">Exemples</h3>
 
--  Dix secondes après le début du jour, le Mutant déclare :  
-  > “Je suis le Mutant.”  
-  → Le Conteur **l’exécute immédiatement**. Aucune nomination n’aura lieu ce jour-là.  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    Dix secondes après le début du jour, le Mutant déclare :<br>
+    « Je suis le Mutant. »<br>
+    → Le Conteur <strong>l’exécute immédiatement</strong>. Aucune nomination n’aura lieu ce jour-là.
+  </li>
 
--  Une [<span style="color:red;">Sorcière</span>](sorciere.md) murmure au Conteur :  
-  > “Maxime m’a dit qu’il était le [Maladroit](maladroit.md).”  
-  → Le Conteur décide que cela revient à révéler être un Étranger et **exécute le Mutant**.  
+  <li>
+    Une <a href="./sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> murmure au Conteur :<br>
+    « Maxime m’a dit qu’il était le <a href="./maladroit.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maladroit</a>. »<br>
+    → Le Conteur décide que cela revient à révéler être un Étranger et <strong>exécute le Mutant</strong>.
+  </li>
 
--  Le Mutant reste silencieux lorsqu’on lui demande son rôle.  
-  → Après un long silence, le Conteur considère cela comme une “folie”  
-  → **exécution immédiate**.  
+  <li>
+    Le Mutant reste silencieux lorsqu’on lui demande son rôle.<br>
+    → Après un long silence, le Conteur considère cela comme une “folie”<br>
+    → <strong>exécution immédiate</strong>.
+  </li>
 
--  Le Mutant dit :  
-  > “Je suis l’[Oracle](oracle.md), mais je ne suis *certainement pas* le Mutant.” (clin d’œil)  
-  → Le Conteur peut juger ce comportement “fou” et **le tuer sur-le-champ**.  
+  <li>
+    Le Mutant dit :<br>
+    « Je suis l’<a href="./oracle.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Oracle</a>, mais je ne suis <em>certainement pas</em> le Mutant. » (clin d’œil)<br>
+    → Le Conteur peut juger ce comportement “fou” et <strong>le tuer sur-le-champ</strong>.
+  </li>
+</ul>
 
----
+<hr>
 
-##  Astuces & Conseils  
+<h3 style="color:#4ea3ff; font-weight:bold;">Astuces &amp; Conseils</h3>
 
-###  Ne révélez **jamais** votre identité
-- Le Mutant ne doit **jamais admettre** être un Étranger.  
-  Même un sous-entendu peut suffire à provoquer votre mort.  
+<h4 style="color:#4ea3ff; font-weight:bold; margin-left:20px;">Ne révélez <strong>jamais</strong> votre identité</h4>
 
-- Le Conteur jugera selon **votre comportement** et non uniquement vos mots.  
-  → Même un “je pourrais être le Mutant… ou pas” peut être interprété comme une révélation.  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>Le Mutant ne doit <strong>jamais admettre</strong> être un Étranger.<br> Même un sous-entendu peut suffire à provoquer votre mort.</li>
+  <li>Le Conteur jugera selon <strong>votre comportement</strong> et non uniquement vos mots.<br> → Même un “je pourrais être le Mutant… ou pas” peut être interprété comme une révélation.</li>
+  <li>Le silence prolongé est tout aussi dangereux.<br> Restez <strong>actif·ve</strong>, parlez, échangez, et <strong>bluffez un rôle crédible</strong>.</li>
+</ul>
 
-- Le silence prolongé est tout aussi dangereux.  
-  Restez **actif·ve**, parlez, échangez, et **bluffez un rôle crédible**.  
+<hr style="opacity:0.35;">
 
----
+<h4 style="color:#4ea3ff; font-weight:bold; margin-left:20px;">Comment survivre</h4>
 
-###  Comment survivre  
-- Incarnez un **Villageois** crédible : par exemple un [Oracle](oracle.md), un [Crieur](crieur.md), un [Savant](savant.md).  
-  Si vous êtes cohérent·e et bavard·e, le Conteur ne vous exécutera pas.  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    Incarnez un <strong>Villageois</strong> crédible : par exemple un
+    <a href="./oracle.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Oracle</a>, un
+    <a href="./crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur</a>, un
+    <a href="./savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a>.
+    Si vous êtes cohérent·e et bavard·e, le Conteur ne vous exécutera pas.
+  </li>
+  <li>Si le Démon vous tue la nuit, tant mieux !<br> Vous aurez servi d’appât et protégé un vrai rôle clé.</li>
+</ul>
 
-- Si le Démon vous tue la nuit, tant mieux !  
-  Vous aurez servi d’appât et protégé un vrai rôle clé.  
+<hr style="opacity:0.35;">
 
----
+<h4 style="color:#4ea3ff; font-weight:bold; margin-left:20px;">Se dévoiler volontairement</h4>
 
-###  Se dévoiler volontairement  
-- Se “sacrifier” en se révélant Mutant peut :  
-   Confirmer que vous êtes bon,  
-   Mais **retirer un tour d’exécution** au village.  
-   Et bloquer des capacités diurnes ([Artiste](artiste.md), [Savant](savant.md), [Jongleur](jongleur.md) )...  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    Se “sacrifier” en se révélant Mutant peut :<br>
+    Confirmer que vous êtes bon,<br>
+    Mais <strong>retirer un tour d’exécution</strong> au village.<br>
+    Et bloquer des capacités diurnes
+    (<a href="./artiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Artiste</a>,
+     <a href="./savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a>,
+     <a href="./jongleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Jongleur</a> )...
+  </li>
+  <li>
+    De plus, le Conteur <strong>peut choisir de ne pas vous exécuter</strong>,<br>
+    vous laissant ainsi en vie… et suspect·e !
+  </li>
+</ul>
 
-- De plus, le Conteur **peut choisir de ne pas vous exécuter**,  
-  vous laissant ainsi en vie… et suspect·e !  
+<hr style="opacity:0.35;">
 
----
+<h4 style="color:#4ea3ff; font-weight:bold; margin-left:20px;">Jouer subtilement</h4>
 
-###  Jouer subtilement  
-- Confiez votre vraie identité à **1 ou 2 joueurs de confiance**.  
-  Ils pourront ignorer vos infos fausses et vous protéger d’une exécution injuste.  
-  (Utile aussi pour repérer un [<span style="color:red">Fang Gu</span>](fanggu.md) éventuel !)
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    Confiez votre vraie identité à <strong>1 ou 2 joueurs de confiance</strong>.<br>
+    Ils pourront ignorer vos infos fausses et vous protéger d’une exécution injuste.<br>
+    (Utile aussi pour repérer un <a href="./fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a> éventuel !)
+  </li>
+  <li>
+    Attention :<br>
+    Un joueur <span style="color:#d45b5b; font-weight:bold;">maléfique</span> peut <strong>révéler votre secret au Conteur</strong> pour vous faire tuer.
+  </li>
+</ul>
 
-- Attention :  
-  Un joueur <span style="color:red">maléfique</span> peut **révéler votre secret au Conteur** pour vous faire tuer.  
+<hr>
 
----
+<h3 style="color:#4ea3ff; font-weight:bold;">Bluffer Mutant</h3>
 
-##  Bluffer Mutant  
+<h4 style="color:#4ea3ff; font-weight:bold; margin-left:20px;">Côté maléfique</h4>
 
-###  Côté maléfique
-- Excellent bluff de **repli** si votre rôle d’information ne tient plus la route.  
-  → “Mes infos sont incohérentes car je cache mon identité de Mutant.”  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    Excellent bluff de <strong>repli</strong> si votre rôle d’information ne tient plus la route.<br>
+    → “Mes infos sont incohérentes car je cache mon identité de Mutant.”
+  </li>
 
-- Si vous annoncez être le Mutant alors que vous ne l’êtes pas,  
-  le Conteur **ne vous exécutera pas** (puisqu’il sait la vérité).  
-  Vous pouvez donc **blâmer le Conteur** pour “avoir choisi de vous épargner”.  
+  <li>
+    Si vous annoncez être le Mutant alors que vous ne l’êtes pas,<br>
+    le Conteur <strong>ne vous exécutera pas</strong> (puisqu’il sait la vérité).<br>
+    Vous pouvez donc <strong>blâmer le Conteur</strong> pour “avoir choisi de vous épargner”.
+  </li>
 
-- “Révélez-vous” en privé à quelques joueurs :  
-  ils croiront que vous êtes bon et chercheront à vous protéger,  
-  vous faisant gagner du temps.  
+  <li>
+    “Révélez-vous” en privé à quelques joueurs :<br>
+    ils croiront que vous êtes bon et chercheront à vous protéger,<br>
+    vous faisant gagner du temps.
+  </li>
 
-- Utilisez le Mutant pour **brouiller le compte des Étrangers** :  
-  > “La [Dulcinée](dulcinee.md) ment, c’est moi le vrai Étranger !”  
-  Cela sèmera la confusion, surtout s’il y a un [<span style="color:red">Fang Gu</span>](fanggu.md) en jeu.  
+  <li>
+    Utilisez le Mutant pour <strong>brouiller le compte des Étrangers</strong> :<br>
+    « La <a href="./dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a> ment, c’est moi le vrai Étranger ! »<br>
+    Cela sèmera la confusion, surtout s’il y a un <a href="./fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a> en jeu.
+  </li>
 
-- Encouragez les autres à **se battre à votre place** :  
-  plus le débat tourne autour de votre existence,  
-  plus le Mal gagne du temps.
+  <li>
+    Encouragez les autres à <strong>se battre à votre place</strong> :<br>
+    plus le débat tourne autour de votre existence,<br>
+    plus le Mal gagne du temps.
+  </li>
+</ul>
 
----
-
+<hr>
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li><a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
   <li><a href="../sv.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a></li>
-  <li><a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
+  <li><a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Étrangers</a></li>
 </ul>
