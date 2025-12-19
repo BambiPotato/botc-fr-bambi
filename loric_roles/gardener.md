@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gardener
+title: Jardinier
 ---
 
 <p align="left">
