@@ -74,7 +74,6 @@ title: Philosophe
 
 > « Une fois par partie, pendant la nuit, choisissez un rôle bon : 
 > vous gagnez **sa capacité**.»  
-
 > « Si ce rôle est déjà en jeu, il devient **ivre.** »
   
 Le Philosophe n’a aucune capacité tant qu’il n’a pas décidé quel rôle il souhaite imiter.
@@ -148,9 +147,9 @@ il peut choisir une nouvelle capacité ou la même capacité que précédemment.
 - **[Oracle](oracle.md)** : confirme quels morts sont maléfiques.  
 - **[Savant](savant.md)** : offre deux faits par jour, un vrai et un faux, parfait pour nourrir la réflexion du village.  
 - **[Couturière](couturiere.md)** : pour savoir si deux joueurs sont du même camp.  
-- **[Artiste](artiste.md)** : posez une grande question existentielle au Conteur – une seule fois, mais puissamment.  
+- **[Artiste](artiste.md)** : posez une grande question existentielle au Conteur une seule fois, mais puissamment.  
 - **[Jongleur](jongleur.md)** : pratique pour tester les déclarations en milieu de partie.  
-- **[Sage](sage.md)** : une proie tentante pour le Démon — et une belle opportunité de piéger celui-ci.  
+- **[Sage](sage.md)** : une proie tentante pour le Démon et une belle opportunité de piéger celui-ci.  
 
 
 - **[Barbier](barbier.md)** ou **[Maladroit](maladroit.md)** : peu puissants, mais peuvent générer des ivresses utiles ou des tests de confiance.  
