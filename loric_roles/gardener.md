@@ -93,7 +93,7 @@ Le <strong>Jardinier</strong> ne modifie rien durant la partie, il agit uniqueme
 
   <li>Le <a href="../roles_experimentaux/vizir.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a> est présent dans le script, mais <strong>Isabelle</strong> n’aime pas jouer un rôle maléfique révélé.<br>  
   Le Conteur place le <strong>Jardinier</strong> en jeu et attribue directement à Isabelle le rôle d’<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> à la place.</li><br>
-<br>
+
   <li><strong>Vincent</strong> a été maléfique plusieurs fois de suite aujourd’hui.<br>  
   Le Conteur place le <strong>Jardinier</strong> en jeu et lui attribue cette fois le rôle du <a href="../tb_roles/cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuistot</a>.</li>
 
