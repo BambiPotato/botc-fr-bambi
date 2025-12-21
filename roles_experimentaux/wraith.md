@@ -187,8 +187,7 @@ et gérer proprement son statut (ivresse, perte de capacité, mort, etc.).
 
   <li><strong>Règle optionnelle :</strong>  
     Vous pouvez choisir d’appliquer la règle suivante :  
-    <em>« Une fois par partie, un joueur qui passe la journée  
-    à être fou d’être le Spectre meurt. »</em>  
+    <em>« Une fois par partie, un joueur qui est fou que vous soyez le Spectre, meurt. »</em><br>  
     N’utilisez cette règle que si elle a été clairement annoncée  
     avant la partie et si vous êtes à l’aise avec ce type de sanction.</li>
 
