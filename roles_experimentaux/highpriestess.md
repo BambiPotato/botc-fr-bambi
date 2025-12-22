@@ -31,7 +31,7 @@ title: Grande Prêtresse
 #  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Grande Prêtresse</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Il existe une vie derrière la personnalité, qui porte les personnalités comme des masques.  
+  « Il existe une vie derrière la personnalité, qui porte les personnalités comme des masques.<br>  
   Parfois, la vie retire le masque, et les profondeurs répondent aux profondeurs. »
 </p>
 
