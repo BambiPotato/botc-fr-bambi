@@ -87,7 +87,7 @@ Le **Cuistot** sait si des joueurs maléfiques sont assis côte à côte.
   - 3 joueurs voisins = 2 paires.  
   - 4 joueurs voisins = 3 paires, etc.  
 - Le Cuistot détecte les Voyageurs maléfiques au même titre que les autres types de rôle,
-  mais seulement si ces Voyageurs ont rejoint la partie avant que le Chef n'agisse.
+  mais seulement si ces Voyageurs ont rejoint la partie avant que le Cuistot n'agisse.
 
 ---
 
