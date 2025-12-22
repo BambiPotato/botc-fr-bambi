@@ -53,8 +53,8 @@ title: Bibliothécaire
 </ul>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
-« Bien sûr madame, dans des circonstances normales, 
-  vous pourriez emprunter le *Codex Malificarium* dans les archives de la bibliothèque. 
+« Bien sûr madame, dans des circonstances normales,<br> 
+  vous pourriez emprunter le *Codex Malificarium* dans les archives de la bibliothèque.<br> 
   Mais… il semble que vous ne soyez pas membre. »
 </p>
 
@@ -84,7 +84,7 @@ title: Bibliothécaire
 
 « Vous commencez en apprenant 2 joueurs et le rôle d’**Étranger** de l’un des deux.(Ou qu'il y a zéro étranger en jeu.) »  
 
-Le **Bibliothécaire** apprend qu’un rôle **Étranger** est en jeu, mais pas exactement qui le possède.  
+Le **Bibliothécaire** apprend qu’un rôle **Étranger** est en jeu, mais pas exactement de quel joueur il s'agit.
 
 Lors de la première nuit, le Bibliothécaire apprend que l’un de deux joueurs est un Étranger spécifique.  
 Il ne l’apprend qu’une seule fois, puis plus rien.  
