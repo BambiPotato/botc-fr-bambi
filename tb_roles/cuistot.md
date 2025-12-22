@@ -48,8 +48,8 @@ title: Cuistot
 </ul>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
-« Les réservations de ce soir semblent étranges. 
-  Jamais Madame Mayweather n’avait fréquenté ce vaurien de Hudson Lane. 
+« Les réservations de ce soir semblent étranges.<br> 
+  Jamais Madame Mayweather n’avait fréquenté ce vaurien de Hudson Lane.<br> 
   Et pourtant, ce soir, ils ont une table pour deux. Étrange. »
 </p>   
 
@@ -77,16 +77,17 @@ title: Cuistot
 
 ##  <span style="color:blue">Résumé</span>  
 
-*"Vous commencez à savoir combien il y a de paires de joueurs maléfiques."*  
+**Vous commencez à savoir combien il y a de paires de joueurs maléfiques.**  
 
-Le **Cuistot** apprend combien de **paires de joueurs <span style="color:red">maléfiques</span> voisins** existent au total.  
-
-- Lors de la première nuit, le Cuistot est réveillé et apprend **un nombre exact** de paires de voisins <span style="color:red">maléfiques</span>.  
+Le **Cuistot** sait si des joueurs maléfiques sont assis côte à côte.
+  
+- Dès la première nuit, le Cuistot est réveillé et apprend **un nombre exact** de paires de voisins <span style="color:red">maléfiques</span>.  
 - Une paire = deux joueurs côte à côte.  
   - 2 joueurs = 1 paire.  
   - 3 joueurs voisins = 2 paires.  
   - 4 joueurs voisins = 3 paires, etc.  
-- Les Voyageurs maléfiques comptent aussi, à condition qu’ils aient rejoint la partie avant l’action du Cuistot.  
+- Le Cuistot détecte les Voyageurs maléfiques au même titre que les autres types de rôle,
+  mais seulement si ces Voyageurs ont rejoint la partie avant que le Chef n'agisse.
 
 ---
 
@@ -101,8 +102,11 @@ Le **Cuistot** apprend combien de **paires de joueurs <span style="color:red">ma
 ##  <span style="color:blue">Exemples</span>    
 
 - Aucun joueur <span style="color:red">maléfique</span> n’est assis à côté d’un autre. → le Cuistot apprend **0**.  
-- L’[<span style="color:red">Imp</span>](imp.md) est assis à côté du [<span style="color:red">Baron</span>](baron.md). Ailleurs, l’[<span style="color:red">Empoisonneur</span>](empoisonneur.md) est assis à côté de la [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md). → le Cuistot apprend **2**.  
+
+- L’[<span style="color:red">Imp</span>](imp.md) est assis à côté du [<span style="color:red">Baron</span>](baron.md). Ailleurs, l’[<span style="color:red">Empoisonneur</span>](empoisonneur.md) est assis à côté de la [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md). → le Cuistot apprend **2**. 
+
 - Un Voyageur <span style="color:red">maléfique</span> est assis entre l’Imp et un Sbire. Deux autres Sbires sont voisins ailleurs. → le Cuistot apprend **3**.  
+
 - Le [Reclus](reclus.md) est entre l’[<span style="color:red">Imp</span>](imp.md) et l’[<span style="color:red">Empoisonneur</span>](empoisonneur.md). Le Cuistot apprend **1** : ici, le [Reclus](reclus.md)s’enregistre comme <span style="color:red">maléfique</span> dans une paire mais pas dans l’autre.  
 
 ---
