@@ -31,7 +31,9 @@ title: Intendant
 # <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Intendant</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Comment OSEZ-vous accuser Sa Seigneurie de méfaits ? Je la connais depuis toujours ! Depuis mes neuf ans ! »
+  « Comment OSEZ-vous accuser Sa Seigneurie de méfaits ?<br>
+  Je la connais depuis toujours !<br>
+  Depuis mes neuf ans ! »
 </p>
 
 ---
@@ -137,12 +139,12 @@ Médhi est l’<a href="../tb_roles/espion.html" style="color:#d45b5b; font-weig
   <li>L’Intendant est l’un des bluffs les plus simples du jeu.  
       Vous pouvez déclarer que le joueur que vous « savez bon » est votre Démon.  
       Si on vous croit, ce joueur a l’air irréprochable : parfait bluff.</li><br>
-<br>
+
   <li>Déclarez un joueur bon comme votre information et arrangez-vous  
       pour que d’autres capacités laissent croire que vous êtes maléfique.  
       Vous tomberez ensemble, mais seulement après quelques jours,  
       ce qui laisse le temps au Mal de faire son œuvre.</li><br>
-<br>
+
   <li>Déclarez un joueur bon comme votre information  
       et travaillez avec lui pour « résoudre » la partie.  
       Si vous gagnez la confiance du groupe à deux,  
