@@ -52,9 +52,9 @@ title: Voyante
 </ul>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
-« Je sens un grand mal en toi ! 
-  Mais… c’est peut-être seulement ton parfum. 
-  Je suis allergique au sureau »
+« Je sens un grand mal en toi !<br> 
+  Mais… c’est peut-être seulement ton parfum.<br> 
+  Je suis allergique au sureau »<br>
 </p> 
 
 
@@ -99,7 +99,7 @@ La **Voyante** détecte si un joueur est le [<span style="color:red">Démon</spa
 - Le **LEURRE** est le même joueur pendant toute la partie. 
 - Ce joueur peut être n’importe quel joueur bon, y compris la Voyante elle-même, et la Voyante ne sait pas de quel joueur il s’agit.
 
-- La Voyante peut choisir n’importe quels deux joueurs — vivants ou morts, ou même elle-même.
+- La Voyante peut choisir n’importe quels deux joueurs, vivants, morts, ou même elle-même.
 - Si elle choisit un Démon mort, la Voyante reçoit tout de même un « oui ».
 
 ---
@@ -107,10 +107,10 @@ La **Voyante** détecte si un joueur est le [<span style="color:red">Démon</spa
 ##  <span style="color:blue">Comment Conter</span>
 
 - Lors de la préparation de la première nuit :	
-- Placez le jeton de rappel **"Leurre"** de la Voyante à côté du jeton de rôle d’un Villageois ou d’un Étranger.
+- Placez le jeton de rappel **LEURRE** de la Voyante à côté du jeton de rôle d’un Villageois ou d’un Étranger.
 	-	Chaque nuit :
 	-	Réveillez la Voyante.
-	-	Elle choisit deux joueurs (vivants, morts ou elle-même).
+	-	La voyante choisit deux joueurs : vivants, morts ou elle-même.
 	-	Si au moins l’un des deux est :
 - le Démon, ou
 - le Leurre,
@@ -132,7 +132,7 @@ car cela lui permet d'obtenir davantage d'informations.*
 
 - La Voyante choisit le [Majordome](majordome.md) vivant et un [ <span style="color:red">Imp</span>](imp.md) mort. Elle apprend un  : **oui**.  
 
-- La Voyante se choisit elle-même et le [Saint](saint.md). Le Saint est le Leurre. Elle apprend un : **oui**.  
+- La Voyante se choisit elle-même et le [Saint](saint.md). Le [Saint](saint.md) est le Leurre. Elle apprend un : **oui**.  
 
 ---
 
@@ -151,22 +151,24 @@ car cela lui permet d'obtenir davantage d'informations.*
   surtout si ce joueur est encore en vie à la fin de la partie.
 
 
-- Vous ne disposez que d’un nombre limité de nuits pour recueillir des informations. En passer trop à vous concentrer sur une ou deux personnes peut vous laisser avec peu d’éléments exploitables en fin de partie.
-  C’est pourquoi il est généralement plus efficace de commencer la partie en ratissant large, afin d’obtenir des informations sur autant de paires que possible.
+- Vous ne disposez que d’un nombre limité de nuits pour recueillir des informations. 
+  En passer trop à vous concentrer sur une ou deux personnes peut vous laisser avec peu d’éléments exploitables en fin de partie.
+  C’est pourquoi il est généralement plus efficace de commencer la partie en ratissant large, 
+  afin d’obtenir des informations sur autant de paires que possible.
   Ensuite, une fois que vous avez une vision d’ensemble, concentrez-vous sur les joueurs qui vous paraissent les plus suspects.
   
 
 - N’oubliez pas que l’[<span style="color:red">Imp</span>](imp.md) peut se tuer lui-même et faire qu’un Sbire devienne le Démon, 
-et que s’il est exécuté, la [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md) peut devenir le Démon. 
+  et que s’il est exécuté, la [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md) peut devenir le Démon. 
   Ainsi, même si vous avez obtenu un « non » sur quelqu’un plus tôt dans la partie, cela ne signifie pas qu’il ne soit pas le Démon à présent.
   Si vous pensez que le Démon est mort, essayez de choisir un joueur que vous soupçonnez d’être un Sbire et 
-sur lequel vous aviez auparavant obtenu un « non », afin de voir si votre information a changé.
+  sur lequel vous aviez auparavant obtenu un « non », afin de voir si votre information a changé.
 
 
-- Votre faux positif le **LEURRE** est choisi au début de la partie et ne se déplace pas, 
-et votre capacité ne vous fera jamais recevoir de faux résultat concernant plus d’un joueur.
-- Rappelez-vous que ce faux enregistrement peut concerner n’importe qui, y compris vous-même, 
-et qu’un « oui » ne constitue pas une confirmation certaine de la présence d’un Démon.
+- Votre faux positif le **LEURRE** est choisi au début de la partie et ne se déplace pas,<br>
+et votre capacité ne vous fera jamais recevoir de faux résultat concernant plus d’un joueur.<br>
+- Rappelez-vous que ce faux enregistrement peut concerner n’importe qui, y compris vous-même,<br>
+et qu’un « oui » ne constitue pas une confirmation certaine de la présence d’un Démon.<br>
 
 
 - Vous pouvez vous choisir vous-même comme l’un des deux joueurs. 
@@ -201,17 +203,17 @@ le [Gardien](gardien.md), peut vous aider à survivre plus longtemps, et ainsi v
   
 
 - Cela dit, votre bluff est beaucoup plus crédible si les informations que vous partagez avec le groupe sont cohérentes dans le temps.
-  Si vous répétez que certains joueurs ne sont pas le Démon, ils auront tendance à être gardés en vie.
-  Si vous répétez que certains joueurs pourraient être le Démon, ils auront tendance à être exécutés… 
+  Si vous répétez que certains joueurs ne sont pas le Démon, ils auront tendance à être gardés en vie.<br>
+  Si vous répétez que certains joueurs pourraient être le Démon, ils auront tendance à être exécutés…<br> 
   mais pourraient ensuite se retourner contre vous si la partie ne se termine pas.
   
 
 - Si un joueur bon devient particulièrement gênant, concentrer toute votre attention sur lui en affirmant qu’il apparaît 
-  comme le Démon à vos yeux peut rapidement conduire à son exécution. 
-  Vous pourrez toujours prétendre après coup qu’il s’agissait de votre **LEURRE**.
+  comme le Démon à vos yeux peut rapidement conduire à son exécution.<br> 
+  Vous pourrez toujours prétendre après coup qu’il s’agissait de votre **LEURRE**.<br>
   Cette stratégie est particulièrement dévastatrice lorsque vous devez absolument faire exécuter un joueur sans y parvenir par des moyens classiques. 
   Vous pouvez notamment faire exécuter un [Saint](saint.md), ou faire tuer un [Maire](maire.md) ou un [Soldat](soldat.md), 
-  ou au minimum convaincre l’équipe du bien de ne plus leur faire confiance. 
+  ou au minimum convaincre l’équipe du bien de ne plus leur faire confiance.<br> 
 - Même semer le doute sur un [Croque-Mort](croquemort.md), un [Empathique](empathique.md) ou un rôle similaire peut suffire à rendre leurs informations suspectes.
 
 
@@ -220,18 +222,14 @@ le [Gardien](gardien.md), peut vous aider à survivre plus longtemps, et ainsi v
   et aussi (dans les parties à un seul Sbire) qu’il ne reste qu’un seul joueur maléfique en vie. 
   Cette désinformation, bien qu’apparemment anodine, peut faire basculer la partie en votre faveur en augmentant la méfiance entre les joueurs vivants. 
   Elle est particulièrement efficace si vous faites passer un [Gardien](gardien.md) pour le Démon qui se serait tué lui-même pendant la nuit.
-  
-
 - Si vous êtes l'[<span style="color:red">Imp</span>](imp.md), vous pouvez vous révéler publiquement comme [Voyante](voyante.md) et mourir volontairement la nuit, afin de rendre vos informations plus crédibles.
 
 
 - Si vous êtes la [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md), vous pouvez accuser publiquement votre véritable Démon 
 et mener la charge pour son exécution. 
 - Cela donnera à des rôles comme le [Croque-Mort](croquemort.md) une information positive indiquant « Démon », ce qui renforce considérablement votre bluff.
-
-
 - Si vous savez qu’un [Reclus](reclus.md) est en jeu, affirmez avoir obtenu un « oui » sur lui. 
-  Si vous êtes, ou avez discuté avec, un [<span style="color:red">Espion</span>](espion.md), 
+  Si vous êtes, ou avez discuté avec, un [<span style="color:red">Espion</span>](espion.md),<br> 
   vous pouvez même annoncer ce « oui » avant que le [Reclus](reclus.md) ne révèle son rôle, ce qui rendra votre information encore plus crédible.
 
 
