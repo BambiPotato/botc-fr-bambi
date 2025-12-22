@@ -31,7 +31,7 @@ title: Grande Prêtresse
 #  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Grande Prêtresse</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Il existe une vie derrière la personnalité, qui porte les personnalités comme des masques.<br>  
+  « Il existe une vie derrière la personnalité, qui porte les personnalités comme des masques.  
   Parfois, la vie retire le masque, et les profondeurs répondent aux profondeurs. »
 </p>
 
@@ -65,8 +65,7 @@ title: Grande Prêtresse
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-La <strong>Grande Prêtresse</strong> agit à l’instinct… ou plutôt à l’intuition du Conteur ou de la conteuse.  
-On lui indique, nuit après nuit, avec qui discuter en priorité pour aider l’équipe du Bien.
+La <strong>Grande Prêtresse</strong> La Grande Prêtresse agit par intuition.  
 </p>
 
 
@@ -95,7 +94,7 @@ On lui indique, nuit après nuit, avec qui discuter en priorité pour aider l’
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Chaque nuit, réveillez la Grande Prêtresse.  
-Pointez un joueur ou une joueuse, celui ou celle avec qui, selon vous, une discussion aura le plus d’impact sur la partie.  
+Pointez un joueur, celui avec qui, selon vous, une discussion aura le plus d’impact sur la partie.  
 Puis rendormez la Grande Prêtresse.
 </p>
 
@@ -128,7 +127,7 @@ Sarah est le
 et le village envisage sérieusement de l’exécuter.  
 La dernière nuit, la Grande Prêtresse voit <strong>Nicolas</strong>, qui est l’
 <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Imp</a>.  
-Son histoire contredit plusieurs bons rôles, et le Conteur ou la conteuse espère que la Grande Prêtresse saura percer sa défense.
+Son histoire contredit plusieurs bons rôles, et le Conteur espère que la Grande Prêtresse saura percer sa défense.
 </p>
 
 ---
@@ -218,7 +217,7 @@ Son histoire contredit plusieurs bons rôles, et le Conteur ou la conteuse espè
       partager les bluffs et coordonner vos plans, sans éveiller de soupçons.</li><br>
 
   <li>Votre première nuit est la plus délicate à inventer :<br>  
-      c’est l’instant où le Conteur ou la conteuse a le moins d’emprise sur la partie pour guider son choix.<br>  
+      c’est l’instant où le Conteur a le moins d’emprise sur la partie pour guider son choix.<br>  
       Donnez donc une raison solide et cohérente pour le tout premier joueur que vous prétendez avoir vu.</li>
 
   <li>Gardez toujours un <strong>plan de secours</strong> au cas où vous devriez vous retourner  
