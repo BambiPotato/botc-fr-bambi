@@ -130,19 +130,19 @@ Médhi est l’<a href="../tb_roles/espion.html" style="color:#d45b5b; font-weig
 
 ---
 
-##  span style="color:#4ea3ff;">Bluffer Intendant</span>
+##  <span style="color:#4ea3ff;">Bluffer Intendant</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
   <li>L’Intendant est l’un des bluffs les plus simples du jeu.  
       Vous pouvez déclarer que le joueur que vous « savez bon » est votre Démon.  
-      Si on vous croit, ce joueur a l’air irréprochable : parfait bluff.</li>
-
+      Si on vous croit, ce joueur a l’air irréprochable : parfait bluff.</li><br>
+<br>
   <li>Déclarez un joueur bon comme votre information et arrangez-vous  
       pour que d’autres capacités laissent croire que vous êtes maléfique.  
       Vous tomberez ensemble, mais seulement après quelques jours,  
-      ce qui laisse le temps au Mal de faire son œuvre.</li>
-
+      ce qui laisse le temps au Mal de faire son œuvre.</li><br>
+<br>
   <li>Déclarez un joueur bon comme votre information  
       et travaillez avec lui pour « résoudre » la partie.  
       Si vous gagnez la confiance du groupe à deux,  
