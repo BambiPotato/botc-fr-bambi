@@ -31,7 +31,8 @@ title: Spectre
 #  <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Spectre</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri,  
+  « Ra'āb ina pān ṣilli ša dāri.<br>
+  Rigim qallu ina šūri,  
   šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti. »
 </p>
 
