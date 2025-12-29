@@ -65,7 +65,7 @@ title: Cerenovus
   </a>
 </div>
 
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   Cult of the Clocktower – épisode par Andrew Nathenson
 </p>
 
@@ -75,9 +75,9 @@ title: Cerenovus
   <span style="color:#d45b5b; font-weight:bold;">Résumé</span>
 </h2>
 
-<p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
   « Chaque nuit, choisissez un joueur et un rôle bon :<br>
-  demain, ce joeur sera <strong>fou</strong> et devra convaincre qu’il est ce rôle,<br>
+  demain, ce joueur sera <strong>fou</strong> et devra convaincre qu’il est ce rôle,<br>
   ou il pourrait être exécuté. »
 </p>
 
@@ -192,7 +192,7 @@ title: Cerenovus
     <a href="./savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a>
     ou la
     <a href="./fleuriste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a>
-    en fin de partie est un cauchemar — et un divertissement garanti.
+    en fin de partie est un divertissement garanti.
   </li>
   <li>
     <strong>Soyez subtil ou constant.</strong><br>
@@ -214,7 +214,7 @@ title: Cerenovus
   <li>
     <strong>Influencez les votes.</strong><br>
     Si les bons pensent qu’un joueur est sous ton effet,<br>
-    ils hésiteront à le tuer, ou le tueront à tort — dans les deux cas, c’est bon pour toi.
+    ils hésiteront à le tuer, ou le tueront à tort dans les deux cas, c’est bon pour toi.
   </li>
   <li>
     <strong>Ciblez aussi les morts.</strong><br>
