@@ -166,7 +166,7 @@ Chaque nuit, il choisit un joueur :
 ## <span style="color:#4ea3ff;">Bluffer Charmeur de Serpent</span>  
 
 - Attendez **quelques jours** avant d’annoncer votre rôle.  
-  Restez discret·e, ou prétendez être un autre [<span style="color:blue;">Villageois</span>](../villageois.md) crédible.  
+  Restez discret, ou prétendez être un autre [<span style="color:blue;">Villageois</span>](../villageois.md) crédible.  
 
 - Préparez vos informations en avance :  
   les autres joueurs voudront savoir **qui vous avez charmé chaque nuit**.  
@@ -176,8 +176,7 @@ Chaque nuit, il choisit un joueur :
   Si vous dites avoir tout vérifié sauf un, ce joueur semblera forcément être le [<span style="color:red;">Démon</span>](../demons.md)...  
   et quand la partie continue après son exécution, on saura que vous avez menti.  
 
-- Gagnez la confiance des bons joueurs :  
-  prétendre qu’un joueur n’est *pas* le [<span style="color:red;">Démon</span>](../demons.md) le rendra souvent bienveillant envers vous.  
+- Gagnez la confiance des joueurs, par exemple, prétendre qu’un joueur n’est *pas* le [<span style="color:red;">Démon</span>](../demons.md) le rendra souvent bienveillant envers vous.  
 
 - Si vous êtes le [<span style="color:red;">Démon</span>](../demons.md), vous pouvez même prétendre avoir été **changé en bon** par un Charmeur !  
   C’est risqué, mais crédible en fin de partie si bien joué.  
