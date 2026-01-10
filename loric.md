@@ -56,7 +56,7 @@ title: Lorics
   </ul>
 
   <p style="font-weight:bold; color:#7fd1ae; margin:0 0 6px 0;">
-    Rôles
+    Lorics
   </p>
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:0;">
     <li><a href="./loric_roles/stormcatcher.html" style="color:#7fd1ae; text-decoration:none;">Attrape-tempête</a></li>
