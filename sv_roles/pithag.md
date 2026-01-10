@@ -6,7 +6,7 @@ title: Pit-Hag
 <!-- 🔴 Logo en haut à gauche -->
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="../images/logogold.png" alt="Accueil BotC FR" width="200">
+    <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
@@ -180,6 +180,121 @@ Si ce rôle est déjà en jeu, rien ne se passe.
 - <strong>Bluffez intelligemment.</strong>  
   Si vous prétendez être un rôle que la Pit-Hag ne voudra pas créer (comme la <a href="./dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a>),  
   vous réduisez vos chances d’être ciblé.  
+
+---
+
+  <h2 style="color:#4ea3ff; font-size:22px; margin-top:30px;">
+  🧞 Jinxes liés
+</h2>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+  <!-- CULT LEADER -->
+  <li>
+    🧞
+    <img src="../images/Icon_cultleader.png" alt="Chef de Culte" width="24"
+         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/cultleader.html"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a> :
+    Si la <span style="color:#d45b5b; font-weight:bold;">Pit-Hag</span> transforme
+    un joueur maléfique en <span style="color:#4ea3ff; font-weight:bold;">Chef de Secte</span>,
+    il ne peut pas devenir bon à cause de sa propre capacité.
+  </li>
+
+  <!-- DAMSEL -->
+  <li>
+    🧞
+    <img src="../images/Icon_damsel.png" alt="Damoiselle" width="24"
+         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/damsel.html"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Damoiselle</a> :
+    Si une <span style="color:#d45b5b; font-weight:bold;">Pit-Hag</span> crée une
+    <span style="color:#4ea3ff; font-weight:bold;">Demoiselle</span>,
+    le Conteur choisit quel joueur c’est.
+  </li>
+
+  <!-- GOON -->
+  <li>
+    🧞
+    <img src="../images/Icon_goon.png" alt="Brute" width="24"
+         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../bmr_roles/brute.html"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Brute</a> :
+    Si la <span style="color:#d45b5b; font-weight:bold;">Pit-Hag</span> transforme
+    un joueur maléfique en <span style="color:#4ea3ff; font-weight:bold;">Brute</span>,
+    il ne peut pas devenir bon à cause de sa propre capacité.
+  </li>
+
+  <!-- HERETIC -->
+  <li>
+    🧞
+    <img src="../images/Icon_heretic.png" alt="Hérétique" width="24"
+         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/heretic.html"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Hérétique</a> :
+    Un seul rôle jinxé peut être en jeu.
+  </li>
+
+  <!-- LEVIATHAN -->
+  <li>
+    🧞
+    <img src="../images/Icon_leviathan.png" alt="Léviathan" width="24"
+         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/leviathan.html"
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Léviathan</a> :
+    Le <span style="color:#d45b5b; font-weight:bold;">Léviathan</span> ne peut pas entrer en jeu
+    après le <strong>jour 5</strong>.
+  </li>
+
+  <!-- OGRE -->
+  <li>
+    🧞
+    <img src="../images/Icon_ogre.png" alt="Ogre" width="24"
+         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/ogre.html"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ogre</a> :
+    Si la <span style="color:#d45b5b; font-weight:bold;">Pit-Hag</span> transforme
+    un joueur maléfique en <span style="color:#4ea3ff; font-weight:bold;">Ogre</span>,
+    il ne peut pas devenir bon à cause de sa propre capacité.
+  </li>
+
+  <!-- POLITICIAN -->
+  <li>
+    🧞
+    <img src="../images/Icon_politician.png" alt="Politicien" width="24"
+         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/politician.html"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Politicien</a> :
+    Si la <span style="color:#d45b5b; font-weight:bold;">Pit-Hag</span> transforme
+    un joueur maléfique en <span style="color:#4ea3ff; font-weight:bold;">Politicien</span>,
+    il ne peut pas devenir bon à cause de sa propre capacité.
+  </li>
+
+  <!-- SUMMONER -->
+  <li>
+    🧞
+    <img src="../images/Icon_summoner.png" alt="Invocateur" width="24"
+         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/summoner.html"
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocateur</a> :
+    Si l’<span style="color:#d45b5b; font-weight:bold;">Invocateur</span> crée un second
+    <span style="color:#d45b5b; font-weight:bold;">Démon</span> vivant,
+    les morts de cette nuit sont <strong>arbitraires</strong>.
+  </li>
+
+  <!-- VILLAGE IDIOT -->
+  <li>
+    🧞
+    <img src="../images/Icon_villageidiot.png" alt="Idiot du Village" width="24"
+         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/villageidiot.html"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Idiot du Village</a> :
+    S’il y a un jeton disponible en plus, la <span style="color:#d45b5b; font-weight:bold;">Pit-Hag</span>
+    peut créer un <span style="color:#4ea3ff; font-weight:bold;">Idiot du Village</span> supplémentaire.
+    Dans ce cas, l’Idiot du Village ivre peut changer.
+  </li>
+
+</ul>
 
 ---
 
