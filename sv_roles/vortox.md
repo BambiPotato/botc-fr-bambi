@@ -6,36 +6,54 @@ title: Vortox
 <!-- 🔴 Logo en haut à gauche -->
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="../images/logo.png" alt="Accueil BotC FR" width="200">
+    <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
 ---
 
-## 💫 Vortox
+<!-- Vortox -->
 
-<!-- 🧩 Image centrée cliquable -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./vortox.html" style="text-decoration:none;">
     <img src="../images/Icon_vortox.png" alt="Vortox" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:red; font-weight:bold; font-size:22px;">Vortox</span>
+    <span style="color:#d45b5b; font-weight:bold; font-size:22px;">Vortox</span>
   </a>
 </div>
 
----
+# <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Vortox</span>
 
-## ℹ️ Information  
-
-- **Type :** [<span style="color:red;">**Démon**</span>](../demons.html)  
-- **Artiste :** Anica Kelsen  
-> *« Le noir est blanc. Le bien est mal. La gauche est la droite.  
-> Le haut est long. Le bas est la vue. Le court est aveugle.  
-> Suis-moi, et les réponses te seront révélées. »*
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+  « Le noir est blanc. Le bien est mal. La gauche est la droite.<br>
+  Le haut est long. Le bas est la vue. Le court est aveugle.<br>
+  Suis-moi, et les réponses te seront révélées. »
+</p>
 
 ---
 
-## 🎭 Apparaît dans  
+##  <span style="color:#d45b5b;">Informations</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>
+  </li>
+  <li><strong>Artiste :</strong> <em>Anica Kelsen</em></li>
+   <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Vortox"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+ Vortox
+    </a>
+  </li>
+</ul>
+
+
+---
+
+##  Apparaît dans  
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../sv.html" style="text-decoration:none;">
@@ -49,105 +67,157 @@ title: Vortox
 
 ---
 
-## 📖 Résumé  
+##  <span style="color:#d45b5b;">Résumé</span>
 
-> « Chaque nuit*, choisissez un joueur : il meurt.  
-> Les capacités des **Villageois** donnent de **fausses informations**.  
-> Chaque jour, si personne n’est exécuté, **les Maléfiques gagnent**. »
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+  <strong>« Chaque nuit*, choisissez un joueur : il meurt.<br>
+  Les capacités des <span style="color:#4ea3ff; font-weight:bold;">Villageois</span> donnent de <strong>fausses informations</strong>.<br>
+  Chaque jour, si personne n’est exécuté, <strong>les <span style="color:#d45b5b; font-weight:bold;">Maléfiques</span> gagnent</strong>. »</strong>
+</p>
 
-Le **Vortox** corrompt la réalité elle-même :  
-- Toutes les **informations données aux Villageois** sont **fausses**.
-- Chaque fois qu'un Villageois obtient des informations grâce à sa capacité, il reçoit de fausses informations. 
-  Même s'il est ivre ou empoisonné, ces informations sont forcément fausses.
-- Si **aucune exécution** n’a lieu durant la journée (les exils ne comptent pas), **l’équipe maléfique gagne immédiatement**.  
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+Le <strong>Vortox</strong> corrompt la réalité elle-même :
+</p>
 
----
-
-## 🎬 Comment Conter  
-
-1. **Fausse information :**  
-   Tant que le Vortox est vivant, **toute info donnée à un Villageois** via son pouvoir doit être **fausse**.  
-   (Les infos données par d’autres sources, comme une règle de jeu ou un changement de rôle, restent vraies.)
-
-2. **Chaque nuit (sauf la première)** :  
-   - Réveillez le Vortox.  
-   - Il **désigne un joueur**, qui **meurt**.  
-   - Marquez ce joueur avec le jeton de rappel **MORT**, puis endormez le Vortox.
-
-3. **Chaque crépuscule :**  
-   - Si **aucune exécution n’a eu lieu** aujourd’hui, **la partie s’achève immédiatement** : les Maléfiques triomphe.
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>Toutes les <strong>informations données aux <span style="color:#4ea3ff; font-weight:bold;">Villageois</span></strong> sont <strong>fausses</strong>.</li>
+  <li>Chaque fois qu’un Villageois obtient des informations grâce à sa capacité, il reçoit de fausses informations. Même s’il est ivre ou empoisonné, ces informations sont forcément fausses.</li>
+  <li>Si <strong>aucune exécution</strong> n’a lieu durant la journée (les exils ne comptent pas), <strong>l’équipe maléfique gagne immédiatement</strong>.</li>
+</ul>
 
 ---
 
-## 🧾 Exemples  
+##  <span style="color:#d45b5b;">Comment Conter</span>
 
-- Le Vortox tue le [<span style="color:blue;">Sage</span>](sage.md).  
-  → Le [<span style="color:blue;">Sage</span>](sage.md) apprend deux joueurs, **aucun n’est Démon**.  
-- Personne n’est exécuté ce jour-là.  
-  → **Victoire immédiate** des Maléfiques.  
-- Le [<span style="color:blue;">Savant</span>](savant.md) reçoit deux infos chaque jour — elles sont toutes deux **fausses**.  
-- Le [<span style="color:blue;">Rêveur</span>](reveur.md) choisit un joueur et apprend deux rôles, dont **aucun n’est correct**.  
-
----
-
-## 💡 Astuces & Stratégies 
-
-### 🔴 En tant que Démon  
-
-- **Forcer les exécutions** : s’il n’y en a pas, vous gagnez !  
-  Encouragez les débats et la paranoïa pour pousser le village à tuer chaque jour.  
-
-- **Désinformez** : vos victimes reçoivent des données **fausses mais cohérentes**.  
-  Profitez-en pour bâtir un récit crédible autour de vos mensonges.  
-
-- **Mélangez le vrai et le faux** :  
-  donner parfois de **vraies infos** brouille les pistes et fait douter de votre présence.  
-
-- **Coopérez avec vos Sbires** :  
-  ils doivent savoir que toutes les infos sont fausses pour adapter leurs bluffs ( [<span style="color:blue;">Savant</span>](savant.md), [<span style="color:blue;">Rêveur</span>](reveur.md) ,
-   [<span style="color:blue;">Couturière</span>](couturière.md)...).  
-
-- **Essayez un bluff risqué** :  
-  convaincre le village qu’il **n’y a pas de Vortox** et les amener à **ne pas exécuter** pour “vérifier” — victoire instantanée !  
+<ol style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Fausse information :</strong><br>
+    Tant que le Vortox est vivant, <strong>toute info donnée à un <span style="color:#4ea3ff; font-weight:bold;">Villageois</span></strong> via son pouvoir doit être <strong>fausse</strong>.<br>
+    (Les infos données par d’autres sources, comme une règle de jeu ou un changement de rôle, restent vraies.)
+  </li>
+  <li>
+    <strong>Chaque nuit (sauf la première)</strong> :
+    <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:25px;">
+      <li>Réveillez le Vortox.</li>
+      <li>Il <strong>désigne un joueur</strong>, qui <strong>meurt</strong>.</li>
+      <li>Marquez ce joueur avec le jeton de rappel <span style="color:#d45b5b; font-weight:bold;">MORT</span>, puis endormez le Vortox.</li>
+    </ul>
+  </li>
+  <li>
+    <strong>Chaque crépuscule :</strong><br>
+    Si <strong>aucune exécution n’a eu lieu</strong> aujourd’hui, <strong>la partie s’achève immédiatement</strong> : les Maléfiques triomphe.
+  </li>
+</ol>
 
 ---
 
-### ⚔️ Combattre le Vortox
-### 🔵 Pour le camp du Bien  
+##  <span style="color:#d45b5b;">Exemples</span>
 
-- **Identifiez la confusion** :  
-  si **trop d’infos contradictoires** circulent, c’est probablement un Vortox.  
-
-- **Une fois sûr**, inversez toutes les infos reçues :  
-  > “Le Démon n’a pas voté” → donc il **a voté**.  
-  > “Le Sbire n’a pas nommé” → donc il **a nommé**.  
-
-- **Toujours exécuter !**  
-  Si le Vortox est en jeu, **ne jamais passer une journée sans exécution**, même si vous doutez.  
-
-- **Éliminez ceux qui disent vrai** :  
-  dans une partie avec Vortox, **toute info juste est mensongère** → ces joueurs sont probablement **maléfiques**.  
-
-- **Rôles utiles contre le Vortox** :  
-  - [<span style="color:blue;">Artiste</span>](artiste.md) : poser une question à réponse certaine.  
-  - [<span style="color:blue;">Jongleur</span>](jongleur.md) : se “jongler” soi-même pour tester la véracité.  
-  - [<span style="color:blue;">Couturière</span>](couturiere.md) : comparer deux joueurs à alignement connu.  
-  - [<span style="color:blue;">Fleuriste</span>](fleuriste.md) : demander au village de voter pour tester son info.  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>Le Vortox tue le <a href="./sage.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a>.<br>
+    → Le <a href="./sage.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a> apprend deux joueurs, <strong>aucun n’est Démon</strong>.
+  </li>
+  <li>Personne n’est exécuté ce jour-là.<br>
+    → <strong>Victoire immédiate</strong> des Maléfiques.
+  </li>
+  <li>Le <a href="./savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a> reçoit deux infos chaque jour — elles sont toutes deux <strong>fausses</strong>.</li>
+  <li>Le <a href="./reveur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Rêveur</a> choisit un joueur et apprend deux rôles, dont <strong>aucun n’est correct</strong>.</li>
+</ul>
 
 ---
 
-## 🛡️ En résumé  
+##  <span style="color:#d45b5b;">Astuces & Stratégies</span>
 
-- **Tout est faux**, sauf ce que vous renversez.  
-- **Toujours exécuter**, sinon la partie se termine.  
-- Si un joueur semble **dire vrai**, il est probablement **Maléfique**.  
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-weight:bold; margin-left:40px;">
+   En tant que Démon
+</p>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li><strong>Forcer les exécutions</strong> : s’il n’y en a pas, vous gagnez !<br>
+    Encouragez les débats et la paranoïa pour pousser le village à tuer chaque jour.</li>
+
+  <li><strong>Désinformez</strong> : vos victimes reçoivent des données <strong>fausses mais cohérentes</strong>.<br>
+    Profitez-en pour bâtir un récit crédible autour de vos mensonges.</li>
+
+  <li><strong>Mélangez le vrai et le faux</strong> :<br>
+    donner parfois de <strong>vraies infos</strong> brouille les pistes et fait douter de votre présence.</li>
+
+  <li><strong>Coopérez avec vos Sbires</strong> :<br>
+    ils doivent savoir que toutes les infos sont fausses pour adapter leurs bluffs
+    ( <a href="./savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a>,
+      <a href="./reveur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Rêveur</a>,
+      <a href="./couturiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Couturière</a>... ).
+  </li>
+
+  <li><strong>Essayez un bluff risqué</strong> :<br>
+    convaincre le village qu’il <strong>n’y a pas de Vortox</strong> et les amener à <strong>ne pas exécuter</strong> pour “vérifier” — victoire instantanée !</li>
+</ul>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-weight:bold; margin-left:40px;">
+   Combattre le Vortox
+</p>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li><strong>Identifiez la confusion</strong> :<br>
+    si <strong>trop d’infos contradictoires</strong> circulent, c’est probablement un Vortox.</li>
+
+  <li><strong>Une fois sûr</strong>, inversez toutes les infos reçues :<br>
+    “Le Démon n’a pas voté” → donc il <strong>a voté</strong>.<br>
+    “Le Sbire n’a pas nommé” → donc il <strong>a nommé</strong>.
+  </li>
+
+  <li><strong>Toujours exécuter !</strong><br>
+    Si le Vortox est en jeu, <strong>ne jamais passer une journée sans exécution</strong>, même si vous doutez.</li>
+
+  <li><strong>Éliminez ceux qui disent vrai</strong> :<br>
+    dans une partie avec Vortox, <strong>toute info juste est mensongère</strong> → ces joueurs sont probablement <strong>maléfiques</strong>.</li>
+
+  <li><strong>Rôles utiles contre le Vortox</strong> :
+    <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:25px;">
+      <li><a href="./artiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Artiste</a> : poser une question à réponse certaine.</li>
+      <li><a href="./jongleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Jongleur</a> : se “jongler” soi-même pour tester la véracité.</li>
+      <li><a href="./couturiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Couturière</a> : comparer deux joueurs à alignement connu.</li>
+      <li><a href="./fleuriste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a> : demander au village de voter pour tester son info.</li>
+    </ul>
+  </li>
+</ul>
+
+---
+
+##  <span style="color:#d45b5b;">En résumé</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li><strong>Tout est faux</strong>, sauf ce que vous renversez.</li>
+  <li><strong>Toujours exécuter</strong>, sinon la partie se termine.</li>
+  <li>Si un joueur semble <strong>dire vrai</strong>, il est probablement <strong>Maléfique</strong>.</li>
+</ul>
+
+---
+
+<h2 style="color:#d45b5b; font-size:22px; margin-top:30px;">
+  🧞 Jinxes liés
+</h2>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+  <!-- BANSHEE -->
+  <li>
+    🧞
+    <img src="../images/Icon_banshee.png" alt="Banshee" width="24"
+         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/banshee.html"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Banshee</a> :
+    Si le <span style="color:#d45b5b; font-weight:bold;">Vortox</span> tue la
+    <span style="color:#4ea3ff; font-weight:bold;">Banshee</span>,
+    tous les joueurs apprennent que la Banshee est morte.
+  </li>
+
+</ul>
 
 ---
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li>🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li>🌸 <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
-  <li>🍺 <a href="../trouble_brewing.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>🌛 <a href="../bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li>👹 <a href="../demons.html" style="color:red; font-weight:bold; text-decoration:none;">Catégorie : Démons</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="../sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
+  <li> <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Démons</a></li>
 </ul>
