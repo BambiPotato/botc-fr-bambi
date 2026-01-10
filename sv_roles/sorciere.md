@@ -39,7 +39,7 @@ title: Sorcière
     <a href="https://wiki.bloodontheclocktower.com/Witch"
        target="_blank"
        rel="noopener noreferrer"
-       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">
   Witch
     </a>
   </li>
@@ -47,7 +47,10 @@ title: Sorcière
 
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
-  « Trois gouttes de sang de chèvre. Une mèche de cheveux, arrachée dans la colère. Le nom est prononcé, l’ombre projetée. Marchez du pied gauche sur ce sentier d’épines… et ne vous retournez pas. »
+  « Trois gouttes de sang de chèvre.<br>
+  Une mèche de cheveux, arrachée dans la colère.<br>
+  Le nom est prononcé, l’ombre projetée.<br>
+  Marchez du pied gauche sur ce sentier d’épines… et ne vous retournez pas. »
 </p>
 
 ---
