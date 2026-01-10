@@ -128,8 +128,8 @@ Chaque nuit, le Crieur apprend un **“oui”** ou **“non”** :
 - Essayez de **faire nominer des joueurs différents** chaque jour.  
   Plus vous couvrez de monde, plus votre information devient puissante.  
 
-- Un “non” ne veut **pas forcément dire sécurité** —  
-  le [<span style="color:red;">Démon</span>](../demons.md) pourrait avoir nommé à la place des Sbires.  
+- Un “non” ne veut **pas forcément dire sécurité.**
+  Le [<span style="color:red;">Démon</span>](../demons.md) pourrait avoir nommé à la place des Sbires.  
   En revanche, un “oui” est très précieux :  
   vous savez qu’un [<span style="color:red;">Sbire</span>](../sbires.md) a agi aujourd’hui.  
 
