@@ -119,7 +119,7 @@ title: Cerenovus
   </li>
 </ol>
 
-<p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
   Vous pouvez choisir <strong>de ne pas exécuter</strong> un joueur maléfique devenu fou,<br>
   pour éviter une victoire accidentelle de l’équipe du Mal.
 </p>
