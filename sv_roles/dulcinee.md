@@ -33,8 +33,8 @@ title: Dulcinée
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
     <strong>Type :</strong>
-    <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
-      Villageois
+    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+      Étrangers
     </a>
   </li>
   <li><strong>Artiste :</strong> Aidan Roberts</li>
