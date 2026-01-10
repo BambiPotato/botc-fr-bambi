@@ -204,6 +204,13 @@ et combien de Sbires tournent autour du Démon.
           <a href="../roles_experimentaux/organgrinder.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Orgue de Barbarie</a>  
           ou d’un <a href="../roles_experimentaux/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a>  
           alignés aux côtés du Démon.</li>
+
+          <li><strong>Conseil aux Conteurs et Conteuse :</strong>
+       Le <a href="../tb_roles/reclus.html" style="color:##4ea3ff ; font-weight:bold; text-decoration:none;">Reclus</a> et,
+       l'un <a href="../tb/roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espion</a> :
+       <li>L’intention derrière le fait d’être mal enregistré ou détecté c’est qu’elles ne commencent pas avant la fin de préparation de la partie.</li>
+       <li>Dans les parties de tests, il a été conclu que ce n’est jamais amusant pour les joueurs d’avoir l’Espion ou le Reclus qui est mal considéré à la préparation de la partie pour être respectivement en dehors ou dans la ligne.</li> 
+       <li>Ne le faites pas !</li>
     </ul>
   </li>
 
