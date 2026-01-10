@@ -6,7 +6,7 @@ title: Vigormortis
 <!-- 🔴 Logo en haut à gauche -->
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="../images/logogold.png" alt="Accueil BotC FR" width="200">
+    <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
@@ -132,7 +132,7 @@ Lors de la mise en place, il y a <strong>un <a href="../etrangers.html" style="c
   Tuez-les seulement quand ils deviennent <strong>suspects</strong>.  
 
 - <strong>Trompez le village :</strong>  
-  Tuez des joueurs que la bonne équipe s’apprêtait à exécuter — ils croiront qu’ils étaient Sbires et ignoreront leurs infos.  
+  Tuez des joueurs que la bonne équipe s’apprêtait à exécuter, ils croiront qu’ils étaient Sbires et ignoreront leurs infos.  
 
 - <strong>Utilisez le poison intelligemment :</strong>  
   Le joueur empoisonné d’un Sbire mort peut <strong>désinformer durablement</strong> le Village sans s’en rendre compte.  
@@ -142,7 +142,7 @@ Lors de la mise en place, il y a <strong>un <a href="../etrangers.html" style="c
 
 ---
 
-###  Combattre le Vigormortis
+###  <span style="color:#d45b5b">Combattre le Vigormortis</span>
 
 - <strong>Surveillez les morts nocturnes</strong> :  
   Des morts “inutiles” ou apparemment aléatoires peuvent révéler un <strong>Vigormortis</strong>.  
@@ -156,6 +156,28 @@ Lors de la mise en place, il y a <strong>un <a href="../etrangers.html" style="c
 - <strong>En fin de partie</strong> :  
   Quand il ne reste que <strong>3 joueurs vivants</strong>, <strong>2 sont presque toujours bons</strong> dans une partie avec Vigormortis.  
   Cela vous permet de <strong>raisonner logiquement</strong> à partir de leurs infos fiables.  
+
+---
+
+<h2 style="color:#4ea3ff; font-size:22px; margin-top:30px;">
+  🧞 Jinxes liés
+</h2>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+  <!-- CONSPIRATEUR -->
+  <li>
+    🧞
+    <img src="../images/Icon_mastermind.png" alt="Conspirateur" width="24"
+         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../bmr_roles/cerveau.html"
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a> :
+    Un <span style="color:#d45b5b; font-weight:bold;">Conspirateur</span> qui possède encore sa capacité
+    la <strong>conserve</strong> même si le
+    <span style="color:#d45b5b; font-weight:bold;">Vigormortis</span> meurt.
+  </li>
+
+</ul>
 
 ---
 
