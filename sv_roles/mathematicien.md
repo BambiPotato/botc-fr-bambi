@@ -87,7 +87,7 @@ Cela inclut :
 - lorsqu’une information fausse est donnée à la place d’une vraie,  
 - lorsqu’une capacité échoue à cause d’un autre effet (empoisonnement, ivresse, malédiction, etc.).  
 
-Le Mathématicien **ne sait pas à qui** cela est arrivé — seulement **combien de fois**.  
+Le Mathématicien **ne sait pas à qui** cela est arrivé, seulement **combien de fois**.  
 Il ne détecte **pas ses propres échecs**, et ne “voit” pas directement l’ivresse ou l’empoisonnement,  
 mais détecte **leurs effets** lorsque des capacités échouent.  
 
