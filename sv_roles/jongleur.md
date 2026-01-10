@@ -86,7 +86,7 @@ s’il n’est pas mort avant !
 
 - Il peut annoncer de **0 à 5 combinaisons (suppositions)**.  
 - Ses annonces doivent être **publiques**.  
-- Il peut citer le ou la **même joueur.euse plusieurs fois** ou **des rôles différents**.  
+- Il peut citer le **même joueur plusieurs fois** ou **des rôles différents**.  
 - Si le Jongleur est ivre ou empoisonné au moment des de ses suppositions  
   mais sobre au moment de la révélation, son info sera correcte.
 
