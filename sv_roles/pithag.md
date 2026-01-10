@@ -158,7 +158,7 @@ Si ce rôle est déjà en jeu, rien ne se passe.
 
 ---
 
-###  Combattre la Pit-Hag
+###  <span style="color:#d45b5b">Combattre la Pit-Hag</span>
 
 - <strong>Annoncez publiquement les transformations.</strong>  
   Si vous changez de rôle, dites-le : cela prouvera souvent que vous êtes du bon côté.  
@@ -299,7 +299,7 @@ Si ce rôle est déjà en jeu, rien ne se passe.
 ---
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li> <a href="/botc-fr-bambi/" style="color:#d67bff; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li> <a href="../sv.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
+  <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="../sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
   <li> <a href="../sbires.html" style="color:red; font-weight:bold; text-decoration:none;">Catégorie : Sbires</a></li>
 </ul>
