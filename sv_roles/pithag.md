@@ -204,7 +204,7 @@ Si ce rôle est déjà en jeu, rien ne se passe.
   <!-- DAMSEL -->
   <li>
     🧞
-    <img src="../images/Icon_damsel.png" alt="Damoiselle" width="24"
+    <img src="../images/Icon_damsel.png" alt="Demoiselle" width="24"
          style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/damsel.html"
        style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Damoiselle</a> :
