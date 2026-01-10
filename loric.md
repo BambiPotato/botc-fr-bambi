@@ -24,6 +24,51 @@ title: Lorics
   « Des règles qui bousculent le village et réécrivent la partie. »
 </p>
 
+<style>
+@media (max-width: 900px) {
+  #liste-lorics {
+    float: none !important;
+    width: auto !important;
+    margin-top: 0 !important;
+  }
+}
+</style>
+
+<!-- LISTE DES SECTIONS / LORICS À DROITE (PC) / EN BLOC (MOBILE) -->
+<div id="liste-lorics" style="
+  float:right;
+  width:250px;
+  margin:-360px 0 10px 20px;
+  padding:8px 8px 8px 12px;
+  border-left:1px solid #7fd1ae;
+  background:rgba(0,0,0,0.25);
+  font-size:14px;
+  line-height:1.6;
+">
+  <p style="font-weight:bold; color:#7fd1ae; margin-top:0; margin-bottom:8px;">
+    Lorics
+  </p>
+
+  <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
+    <li><a href="#presentation" style="color:#f5f5f5; text-decoration:none;">Présentation</a></li>
+    <li><a href="#comment-conter" style="color:#f5f5f5; text-decoration:none;">Comment conter</a></li>
+    <li><a href="#lorics" style="color:#f5f5f5; text-decoration:none;">Lorics</a></li>
+  </ul>
+
+  <p style="font-weight:bold; color:#7fd1ae; margin:0 0 6px 0;">
+    Rôles
+  </p>
+  <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:0;">
+    <li><a href="./loric_roles/stormcatcher.html" style="color:#7fd1ae; text-decoration:none;">Attrape-tempête</a></li>
+    <li><a href="./loric_roles/bootlegger.html" style="color:#7fd1ae; text-decoration:none;">Contrebandier</a></li>
+    <li><a href="./loric_roles/bigwig.html" style="color:#7fd1ae; text-decoration:none;">Gros Bonnet</a></li>
+    <li><a href="./loric_roles/hindu.html" style="color:#7fd1ae; text-decoration:none;">Hindou</a></li>
+    <li><a href="./loric_roles/gardener.html" style="color:#7fd1ae; text-decoration:none;">Jardinier</a></li>
+    <li><a href="./loric_roles/tor.html" style="color:#7fd1ae; text-decoration:none;">Tor</a></li>
+    <li><a href="./loric_roles/zenomancer.html" style="color:#7fd1ae; text-decoration:none;">Zénomancien</a></li>
+  </ul>
+</div>
+
 ---
 
 ##  <span style="color:#7fd1ae;">Sommaire</span>
