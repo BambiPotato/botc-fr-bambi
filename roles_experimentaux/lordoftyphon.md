@@ -189,7 +189,6 @@ et combien de Sbires tournent autour du Démon.
     </ul>
   </li>
 
-  <!-- ✅ ICI : correction du "li/lil" sans changer le texte -->
   <li><strong>Gestion de la ligne maléfique :</strong>
     <ul style="margin-left:20px;">
       <li>gardez une trace claire, dans votre grimoire,  
