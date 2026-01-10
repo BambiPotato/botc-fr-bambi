@@ -287,7 +287,7 @@ title: Cerenovus
        style="color:#d45b5b; font-weight:bold; text-decoration:none;">Goblin</a> :
     Le <span style="color:#d45b5b; font-weight:bold;">Cerenovus</span> peut choisir
     de rendre un joueur <strong>fou</strong> d'être le
-    <span style="color:#d45b5b; font-weight:bold;">Gobelin</span>.
+    <span style="color:#d45b5b; font-weight:bold;">Goblin</span>.
   </li>
 
 </ul>
