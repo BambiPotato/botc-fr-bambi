@@ -284,8 +284,8 @@ title: Cerenovus
     <img src="../images/Icon_goblin.png" alt="Gobelin" width="24"
          style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../sv_roles/goblin.html"
-       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Gobelin</a> :
-    Le <span style="color:#d45b5b; font-weight:bold;">Cérénovus</span> peut choisir
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Goblin</a> :
+    Le <span style="color:#d45b5b; font-weight:bold;">Cerenovus</span> peut choisir
     de rendre un joueur <strong>fou</strong> qu’il est le
     <span style="color:#d45b5b; font-weight:bold;">Gobelin</span>.
   </li>
