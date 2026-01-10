@@ -202,7 +202,7 @@ et combien de Sbires tournent autour du Démon.
       <li>pensez à l’impact d’un  
           <a href="../roles_experimentaux/organgrinder.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Orgue de Barbarie</a>  
           ou d’un <a href="../roles_experimentaux/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a>  
-          alignés aux côtés du Démon.</li>
+          alignés aux côtés du Démon.</li><br>
 
 <ul style="margin-left:20px;">
       <li><strong>Conseil aux Conteurs et Conteuse :</strong></li>
