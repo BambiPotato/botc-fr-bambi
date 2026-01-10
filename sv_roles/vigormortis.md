@@ -159,7 +159,7 @@ Lors de la mise en place, il y a <strong>un <a href="../etrangers.html" style="c
 
 ---
 
-<h2 style="color:#4ea3ff; font-size:22px; margin-top:30px;">
+<h2 style="color:#d45b5b; font-size:22px; margin-top:30px;">
   🧞 Jinxes liés
 </h2>
 
