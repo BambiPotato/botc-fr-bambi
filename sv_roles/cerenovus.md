@@ -272,6 +272,27 @@ title: Cerenovus
 
 <hr>
 
+<h2 style="color:#d45b5b; font-size:22px; margin-top:30px;">
+  🧞 Jinxes liés
+</h2>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+
+  <!-- GOBELIN -->
+  <li>
+    🧞
+    <img src="../images/Icon_goblin.png" alt="Gobelin" width="24"
+         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../sv_roles/goblin.html"
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Gobelin</a> :
+    Le <span style="color:#d45b5b; font-weight:bold;">Cérénovus</span> peut choisir
+    de rendre un joueur <strong>fou</strong> qu’il est le
+    <span style="color:#d45b5b; font-weight:bold;">Gobelin</span>.
+  </li>
+
+</ul>
+
+
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li><a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
   <li><a href="../sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a></li>
