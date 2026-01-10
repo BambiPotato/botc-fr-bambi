@@ -23,11 +23,32 @@ title: Sage
 </div>
 
 ---
+##  <span style="color:blue">Informations</span>
 
-## <span style="color:#4ea3ff;">Information</span>  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+      Villageois
+    </a>
+  </li>
 
-- **Type :** [<span style="color:blue;">**Villageois**</span>](../villageois.md)  
-- **Artiste :** Aidan Roberts  
+  <li>
+    <strong>Artiste :</strong> Aidan Roberts
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Sage"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+  Sage
+    </a>
+  </li>
+</ul>
+
+
 > *« Ces montagnes de grimoires détiennent le secret, j’en suis certain !  
 Entre chaque mot, il se cache, tapi dans l’ombre…  
 Plus de bougies, garçon ! Et plus d’encre !  
