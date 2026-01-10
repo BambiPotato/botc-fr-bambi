@@ -183,7 +183,7 @@ Si ce rôle est déjà en jeu, rien ne se passe.
 
 ---
 
-  <h2 style="color:#4ea3ff; font-size:22px; margin-top:30px;">
+  <h2 style="color:#d45b5b; font-size:22px; margin-top:30px;">
   🧞 Jinxes liés
 </h2>
 
