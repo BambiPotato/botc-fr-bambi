@@ -40,12 +40,12 @@ title: Vortox
     <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>
   </li>
   <li><strong>Artiste :</strong> <em>Anica Kelsen</em></li>
-   <strong>Nom original :</strong>
+  <li><strong>Nom original :</strong>
     <a href="https://wiki.bloodontheclocktower.com/Vortox"
        target="_blank"
        rel="noopener noreferrer"
        style="color:#d45b5b; font-weight:bold; text-decoration:none;">
- Vortox
+      Vortox
     </a>
   </li>
 </ul>
