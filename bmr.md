@@ -137,7 +137,7 @@ Ce soir, même le bétail sait qu’il y a… <strong><span style="color:#ffa64d
 
 ## <span id="gameplay" style="color:#ffa64d;">Gameplay</span>
 
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong>Bad Moon Rising</strong> est une véritable <strong>fête de la mort</strong>.
 </p>
 
