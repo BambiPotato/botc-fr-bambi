@@ -137,7 +137,7 @@ Le Savant reçoit des informations folles et extraordinaires, différentes chaqu
 
 - Racontez vos infos au groupe (ou notez-les en secret).  
   Plus la partie avance, plus les liens entre vos phrases deviennent logiques.  
-  Votre mémoire est votre arme — ne la laissez pas faiblir !  
+  Votre mémoire est votre arme ne la laissez pas faiblir !  
 
 - Essayez de **survivre** le plus longtemps possible :  
   plus de jours = plus d’informations = plus d’impact.  
