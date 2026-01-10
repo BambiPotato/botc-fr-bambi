@@ -55,7 +55,7 @@ Ces rôles repoussent les limites de <em>Blood on the Clocktower</em> et inviten
     Rôles Expérimentaux
   </p>
 
-  <p style="font-weight:bold; color:#4ea3ff; margin-bottom:4px;">Villageois</p>
+  <p style="font-weight:bold; color:#80aee0; margin-bottom:4px;">Villageois</p>
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
     <li><a href="roles_experimentaux/acrobat.html" style="color:#4ea3ff; text-decoration:none;">Acrobate</a></li>
     <li><a href="roles_experimentaux/alchemist.html" style="color:#4ea3ff; text-decoration:none;">Alchimiste</a></li>
@@ -89,7 +89,7 @@ Ces rôles repoussent les limites de <em>Blood on the Clocktower</em> et inviten
     <li><a href="roles_experimentaux/villageidiot.html" style="color:#4ea3ff; text-decoration:none;">Idiot du village</a></li>
   </ul>
 
-  <p style="font-weight:bold; color:#4ea3ff; margin-bottom:4px;">Étrangers</p>
+  <p style="font-weight:bold; color:#80aee0; margin-bottom:4px;">Étrangers</p>
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
     <li><a href="roles_experimentaux/damsel.html" style="color:#4ea3ff; text-decoration:none;">Demoiselle</a></li>
     <li><a href="roles_experimentaux/golem.html" style="color:#4ea3ff; text-decoration:none;">Golem</a></li>
@@ -104,7 +104,7 @@ Ces rôles repoussent les limites de <em>Blood on the Clocktower</em> et inviten
     <li><a href="roles_experimentaux/zealot.html" style="color:#4ea3ff; text-decoration:none;">Zélote</a></li>
   </ul>
 
-  <p style="font-weight:bold; color:#d45b5b; margin-bottom:4px;">Sbires</p>
+  <p style="font-weight:bold; color:#a86464; margin-bottom:4px;">Sbires</p>
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
     <li><a href="roles_experimentaux/boffin.html" style="color:#d45b5b; text-decoration:none;">Boffin</a></li>
     <li><a href="roles_experimentaux/boomdandy.html" style="color:#d45b5b; text-decoration:none;">Boomdandy</a></li>
@@ -123,7 +123,7 @@ Ces rôles repoussent les limites de <em>Blood on the Clocktower</em> et inviten
     <li><a href="roles_experimentaux/xaan.html" style="color:#d45b5b; text-decoration:none;">Xaan</a></li>
   </ul>
 
-  <p style="font-weight:bold; color:#d45b5b; margin-bottom:4px;">Démons</p>
+  <p style="font-weight:bold; color:#a86464; margin-bottom:4px;">Démons</p>
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
     <li><a href="roles_experimentaux/alhadikhia.html" style="color:#d45b5b; text-decoration:none;">Al-Hadikhia</a></li>
     <li><a href="roles_experimentaux/kazali.html" style="color:#d45b5b; text-decoration:none;">Kazali</a></li>
