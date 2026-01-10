@@ -51,7 +51,7 @@ title: Bad Moon Rising
     Bad Moon Rising
   </p>
 
-  <p style="font-weight:bold; color:#4ea3ff; margin-bottom:4px;">Villageois</p>
+  <p style="font-weight:bold; color:#80aee0; margin-bottom:4px;">Villageois</p>
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
     <li><a href="./bmr_roles/grandmere.html" style="color:#4ea3ff; text-decoration:none;">Grand-Mère</a></li>
     <li><a href="./bmr_roles/marin.html" style="color:#4ea3ff; text-decoration:none;">Marin</a></li>
@@ -68,7 +68,7 @@ title: Bad Moon Rising
     <li><a href="./bmr_roles/fou.html" style="color:#4ea3ff; text-decoration:none;">Fou</a></li>
   </ul>
 
-  <p style="font-weight:bold; color:#4ea3ff; margin-bottom:4px;">Étrangers</p>
+  <p style="font-weight:bold; color:#80aee0; margin-bottom:4px;">Étrangers</p>
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
     <li><a href="./bmr_roles/brute.html" style="color:#4ea3ff; text-decoration:none;">Brute</a></li>
     <li><a href="./bmr_roles/lunatique.html" style="color:#4ea3ff; text-decoration:none;">Lunatique</a></li>
@@ -76,7 +76,7 @@ title: Bad Moon Rising
     <li><a href="./bmr_roles/enfantdelalune.html" style="color:#4ea3ff; text-decoration:none;">Enfant de la Lune</a></li>
   </ul>
 
-  <p style="font-weight:bold; color:#d45b5b; margin-bottom:4px;">Sbires</p>
+  <p style="font-weight:bold; color:#a86464; margin-bottom:4px;">Sbires</p>
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
     <li><a href="./bmr_roles/parrain.html" style="color:#d45b5b; text-decoration:none;">Parrain</a></li>
     <li><a href="./bmr_roles/avocatdudiable.html" style="color:#d45b5b; text-decoration:none;">Avocat du Diable</a></li>
@@ -84,7 +84,7 @@ title: Bad Moon Rising
     <li><a href="./bmr_roles/cerveau.html" style="color:#d45b5b; text-decoration:none;">Conspirateur</a></li>
   </ul>
 
-  <p style="font-weight:bold; color:#d45b5b; margin-bottom:4px;">Démons</p>
+  <p style="font-weight:bold; color:#a86464; margin-bottom:4px;">Démons</p>
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:6px;">
     <li><a href="./bmr_roles/zombuul.html" style="color:#d45b5b; text-decoration:none;">Zombuul</a></li>
     <li><a href="./bmr_roles/pukka.html" style="color:#d45b5b; text-decoration:none;">Pukka</a></li>
