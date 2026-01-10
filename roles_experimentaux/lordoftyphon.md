@@ -204,6 +204,7 @@ et combien de Sbires tournent autour du Démon.
           ou d’un <a href="../roles_experimentaux/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a>  
           alignés aux côtés du Démon.</li>
 
+<ul style="margin-left:20px;">
       <li><strong>Conseil aux Conteurs et Conteuse :</strong>
        Le <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a> et,
        l'un <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espion</a> :
