@@ -175,11 +175,11 @@ Ayez pitié ! »
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
-    Incarnez un <strong>Villageois</strong> crédible : par exemple un
+    Bluffez un <strong>Villageois</strong> crédible : par exemple un
     <a href="./oracle.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Oracle</a>, un
     <a href="./crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur</a>, un
     <a href="./savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a>.
-    Si vous êtes cohérent·e et bavard·e, le Conteur ne vous exécutera pas.
+    Si vous êtes cohérent et bavard, le Conteur ne vous exécutera pas.
   </li>
   <li>Si le Démon vous tue la nuit, tant mieux !<br> Vous aurez servi d’appât et protégé un vrai rôle clé.</li>
 </ul>
@@ -200,7 +200,7 @@ Ayez pitié ! »
   </li>
   <li>
     De plus, le Conteur <strong>peut choisir de ne pas vous exécuter</strong>,<br>
-    vous laissant ainsi en vie… et suspect·e !
+    vous laissant ainsi en vie… et suspect !
   </li>
 </ul>
 
