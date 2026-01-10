@@ -26,6 +26,73 @@ title: Bad Moon Rising
   « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
 </p>
 
+<style>
+@media (max-width: 900px) {
+  #liste-roles-bmr {
+    float: none !important;
+    width: auto !important;
+    margin-top: 0 !important;
+  }
+}
+</style>
+
+<!-- LISTE DES RÔLES À DROITE (PC) / EN BLOC (MOBILE) -->
+<div id="liste-roles-bmr" style="
+  float:right;
+  width:250px;
+  margin:-520px 0 10px 20px;
+  padding:8px 8px 8px 12px;
+  border-left:1px solid #ffa64d;
+  background:rgba(0,0,0,0.25);
+  font-size:14px;
+  line-height:1.6;
+">
+  <p style="font-weight:bold; color:#ffa64d; margin-top:0; margin-bottom:8px;">
+    Bad Moon Rising
+  </p>
+
+  <p style="font-weight:bold; color:#4ea3ff; margin-bottom:4px;">Villageois</p>
+  <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
+    <li><a href="./bmr_roles/grandmere.html" style="color:#4ea3ff; text-decoration:none;">Grand-Mère</a></li>
+    <li><a href="./bmr_roles/marin.html" style="color:#4ea3ff; text-decoration:none;">Marin</a></li>
+    <li><a href="./bmr_roles/femmedechambre.html" style="color:#4ea3ff; text-decoration:none;">Femme de Chambre</a></li>
+    <li><a href="./bmr_roles/exorciste.html" style="color:#4ea3ff; text-decoration:none;">Exorciste</a></li>
+    <li><a href="./bmr_roles/aubergiste.html" style="color:#4ea3ff; text-decoration:none;">Aubergiste</a></li>
+    <li><a href="./bmr_roles/parieur.html" style="color:#4ea3ff; text-decoration:none;">Parieur</a></li>
+    <li><a href="./bmr_roles/commere.html" style="color:#4ea3ff; text-decoration:none;">Commère</a></li>
+    <li><a href="./bmr_roles/courtisan.html" style="color:#4ea3ff; text-decoration:none;">Courtisan</a></li>
+    <li><a href="./bmr_roles/professeur.html" style="color:#4ea3ff; text-decoration:none;">Professeur</a></li>
+    <li><a href="./bmr_roles/menestrel.html" style="color:#4ea3ff; text-decoration:none;">Ménestrel</a></li>
+    <li><a href="./bmr_roles/damedethe.html" style="color:#4ea3ff; text-decoration:none;">Dame de Thé</a></li>
+    <li><a href="./bmr_roles/pacifiste.html" style="color:#4ea3ff; text-decoration:none;">Pacifiste</a></li>
+    <li><a href="./bmr_roles/fou.html" style="color:#4ea3ff; text-decoration:none;">Fou</a></li>
+  </ul>
+
+  <p style="font-weight:bold; color:#4ea3ff; margin-bottom:4px;">Étrangers</p>
+  <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
+    <li><a href="./bmr_roles/brute.html" style="color:#4ea3ff; text-decoration:none;">Brute</a></li>
+    <li><a href="./bmr_roles/lunatique.html" style="color:#4ea3ff; text-decoration:none;">Lunatique</a></li>
+    <li><a href="./bmr_roles/bricoleur.html" style="color:#4ea3ff; text-decoration:none;">Bricoleur</a></li>
+    <li><a href="./bmr_roles/enfantdelalune.html" style="color:#4ea3ff; text-decoration:none;">Enfant de la Lune</a></li>
+  </ul>
+
+  <p style="font-weight:bold; color:#d45b5b; margin-bottom:4px;">Sbires</p>
+  <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
+    <li><a href="./bmr_roles/parrain.html" style="color:#d45b5b; text-decoration:none;">Parrain</a></li>
+    <li><a href="./bmr_roles/avocatdudiable.html" style="color:#d45b5b; text-decoration:none;">Avocat du Diable</a></li>
+    <li><a href="./bmr_roles/assassin.html" style="color:#d45b5b; text-decoration:none;">Assassin</a></li>
+    <li><a href="./bmr_roles/cerveau.html" style="color:#d45b5b; text-decoration:none;">Conspirateur</a></li>
+  </ul>
+
+  <p style="font-weight:bold; color:#d45b5b; margin-bottom:4px;">Démons</p>
+  <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:6px;">
+    <li><a href="./bmr_roles/zombuul.html" style="color:#d45b5b; text-decoration:none;">Zombuul</a></li>
+    <li><a href="./bmr_roles/pukka.html" style="color:#d45b5b; text-decoration:none;">Pukka</a></li>
+    <li><a href="./bmr_roles/shabaloth.html" style="color:#d45b5b; text-decoration:none;">Shabaloth</a></li>
+    <li><a href="./bmr_roles/po.html" style="color:#d45b5b; text-decoration:none;">Po</a></li>
+  </ul>
+</div>
+
 ---
 
 ##  <span style="color:#ffa64d;">Sommaire</span>
