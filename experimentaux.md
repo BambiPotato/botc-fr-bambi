@@ -25,8 +25,9 @@ title: Expérimentaux
 
 <!-- INTRO -->
 <p style="text-align:left; color:#f5f5f5; font-style:italic; font-size:16px; margin-top:6px; line-height:1.7;">
-  «  <strong>Les rôles expérimentaux du <em>Carousel</em></strong> ouvrent la porte à de nouvelles mécaniques audacieuses et inédites.
-Pensés pour les joueuses, joueurs et Conteurs aguerris, ces rôles repoussent les limites de <em>Blood on the Clocktower</em> et invitent à explorer des expériences de jeu aussi surprenantes que captivantes. »
+  «  <strong>Les rôles expérimentaux du <em>Carousel</em></strong> ouvrent la porte à de nouvelles mécaniques audacieuses et inédites.<br>
+Pensés pour les joueurs et Conteurs aguerris.<br>
+Ces rôles repoussent les limites de <em>Blood on the Clocktower</em> et invitent à explorer des expériences de jeu aussi surprenantes que captivantes. »
 </p>
 
 <style>
