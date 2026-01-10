@@ -207,7 +207,7 @@ Si ce rôle est déjà en jeu, rien ne se passe.
     <img src="../images/Icon_damsel.png" alt="Demoiselle" width="24"
          style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/damsel.html"
-       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Damoiselle</a> :
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Demoiselle</a> :
     Si une <span style="color:#d45b5b; font-weight:bold;">Pit-Hag</span> crée une
     <span style="color:#4ea3ff; font-weight:bold;">Demoiselle</span>,
     le Conteur choisit quel joueur c’est.
