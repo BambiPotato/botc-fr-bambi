@@ -100,9 +100,9 @@ Cédric apprend « 1 ». Nicolas apprend « 0 ». Céline apprend « 2 ».
 <strong>Vanessa</strong> est l’ 
 <a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> 
 qui pense être 
-<a href="..roles_experimentaux/general.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Général</a>.<br>
+<a href="../roles_experimentaux/general.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Général</a>.<br>
 <strong>Alexandre</strong> et <strong>Julien</strong> sont 
-<a href="../roles_experimentaux/zealote.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Zélotes</a>, 
+<a href="../roles_experimentaux/zealot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Zélotes</a>, 
 et <strong>Maria</strong> est le 
 <a href="../roles_experimentaux/xaan.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Xaan</a> 
 qui bluffe 
