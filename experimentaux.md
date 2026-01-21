@@ -109,7 +109,7 @@ Ces rôles repoussent les limites de <em>Blood on the Clocktower</em> et inviten
     <li><a href="roles_experimentaux/boffin.html" style="color:#d45b5b; text-decoration:none;">Boffin</a></li>
     <li><a href="roles_experimentaux/boomdandy.html" style="color:#d45b5b; text-decoration:none;">Boomdandy</a></li>
     <li><a href="roles_experimentaux/fearmonger.html" style="color:#d45b5b; text-decoration:none;">Fearmonger</a></li>
-    <li><a href="roles_experimentaux/goblin.html" style="color:#d45b5b; text-decoration:none;">Gobelin</a></li>
+    <li><a href="roles_experimentaux/goblin.html" style="color:#d45b5b; text-decoration:none;">Goblin</a></li>
     <li><a href="roles_experimentaux/harpy.html" style="color:#d45b5b; text-decoration:none;">Harpie</a></li>
     <li><a href="roles_experimentaux/marionette.html" style="color:#d45b5b; text-decoration:none;">Marionnette</a></li>
     <li><a href="roles_experimentaux/mezepheles.html" style="color:#d45b5b; text-decoration:none;">Mezepheles</a></li>
