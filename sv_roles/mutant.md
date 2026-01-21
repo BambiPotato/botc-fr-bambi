@@ -82,29 +82,20 @@ Ayez pitié ! »
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
-  « Le Conteur <strong>peut vous exécuter immédiatement</strong>. »
-</p>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
-  Le Mutant est exécuté s’il tente de <strong>révéler qu’il est un Étranger</strong> ou qu’il est <strong>le Mutant</strong>.<br><br>
-  Dans <em>Blood on the Clocktower</em>, être <strong>“fou”</strong> signifie<br>
-  <strong>essayer de convaincre les autres de quelque chose</strong> — ici, que vous êtes un Étranger.<br><br>
-  Cela peut être fait :
+  Le Mutant est exécuté s’il tente de <strong>révéler son identité</strong>.<br>
+  <strong>« Folie »</strong> signifie <strong>« essayer de convaincre le groupe de quelque chose »</strong>.<br>
+  Ainsi, si le joueur Mutant est fou d'être le Mutant, cela signifie qu'il essaie de convaincre les autres qu'il est le Mutant.<br> 
+  S'il est fou d'être un Étranger, cela signifie qu'il essaie de convaincre les autres qu'il est un Étranger.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>en le disant explicitement,</li>
-  <li>en le sous-entendant,</li>
-  <li>ou même <strong>par le silence</strong> si le Conteur estime que vous cherchez à le faire comprendre.</li>
-</ul>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
-  Le Conteur peut alors :
-</p>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>vous <strong>exécuter à tout moment</strong> (même la nuit !),</li>
-  <li>et <strong>aucune autre exécution</strong> n’aura lieu ce jour-là.</li>
+  <li>Cela peut se faire en laissant entendre verbalement qui il est, ou par son silence lorsqu'on l'interroge.</li> 
+  <li>Il revient toujours au Conteur de décider des agissements du Mutant.</li>
+  <li>Si vous pensez que le Mutant tente de convaincre le groupe qu'il est un Étranger, vous pouvez l'exécuter, 
+    même en dehors de la phase de nomination ou la nuit.</li>
+  <li>Dans ce cas, aucune autre exécution ne pourra avoir lieu aujourd'hui par les voies habituelles, puisqu'il n'y a qu'une seule exécution par jour.</li>
+<li>Si le mutant laisse entendre qu'il est le mutant durant la nuit, vous pouvez l'exécuter cette nuit-là, même si une exécution a déjà eu lieu aujourd'hui.</li>
+<li>Déclarez sa mort et poursuivez la phase nocturne normalement. Une exécution peut toujours avoir lieu le lendemain.</li>
 </ul>
 
 <hr>
@@ -124,7 +115,8 @@ Ayez pitié ! »
 </ul>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
-  ⚠️ Une seule exécution par jour, même si celle-ci est provoquée par la folie du Mutant.
+   Si vous l'exécutez pendant la journée avant l'exécution normale, passez à la phase de nuit. 
+  ⚠️ Il n'y a qu'une seule exécution par jour.
 </p>
 
 <hr>
