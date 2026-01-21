@@ -82,7 +82,7 @@ Ayez pitié ! »
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
-  Le Mutant est exécuté s’il tente de <strong>révéler son identité</strong>.<br>
+  Le Mutant est exécuté s’il tente de <strong>révéler son identité</strong>.<br><br>
   <strong>« Folie »</strong> signifie <strong>« essayer de convaincre le groupe de quelque chose »</strong>.<br>
   Ainsi, si le joueur Mutant est fou d'être le Mutant, cela signifie qu'il essaie de convaincre les autres qu'il est le Mutant.<br> 
   S'il est fou d'être un Étranger, cela signifie qu'il essaie de convaincre les autres qu'il est un Étranger.
