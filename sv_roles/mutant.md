@@ -115,7 +115,7 @@ Ayez pitié ! »
 </ul>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
-   Si vous l'exécutez pendant la journée avant l'exécution normale, passez à la phase de nuit. 
+   Si vous l'exécutez pendant la journée avant l'exécution normale, passez à la phase de nuit.<br> 
   ⚠️ Il n'y a qu'une seule exécution par jour.
 </p>
 
