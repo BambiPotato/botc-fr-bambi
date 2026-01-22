@@ -51,7 +51,7 @@
   </h1>
 
   <p style="font-size:20px; color:#e0c99d; font-style:italic; margin-top:15px;">
-    « Wiki français communautaire dédié à Blood on the Clocktower pour la communauté francophone. »
+    « Wiki français communautaire dédié à Blood on the Clocktower, pour les joueurs et joueuses francophones. »
   </p>
 
 </div>
@@ -61,7 +61,8 @@
   <p style="font-size:20px; color:#e0c99d; font-style:italic; line-height:1.8; margin:0;">
     <span style="font-weight:bold; color:#d4a76a;">Traductions fidèles</span>,
     <span style="font-weight:bold; color:#d4a76a;">conseils</span>,
-    <span style="font-weight:bold; color:#d4a76a;">ressources</span>
+    <span style="font-weight:bold; color:#d4a76a;">ressources</span>, et
+    <span style="font-weight:bold; color:#d4a76a;">règles</span>
     pour aider les communautés francophones à jouer dans un cadre
     <span style="font-weight:bold; color:#d4a76a;">inclusif et bienveillant.</span>
   </p>
