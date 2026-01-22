@@ -51,7 +51,7 @@
   </h1>
 
   <p style="font-size:20px; color:#e0c99d; font-style:italic; margin-top:15px;">
-    « Explorez les rôles, les stratégies et les secrets de chaque édition. »
+    « Wiki français communautaire dédié à Blood on the Clocktower pour la communauté francophone. »
   </p>
 
 </div>
@@ -60,7 +60,7 @@
 
   <p style="font-size:20px; color:#e0c99d; font-style:italic; line-height:1.8; margin:0;">
     <span style="font-weight:bold; color:#d4a76a;">Traductions fidèles</span>,
-    des <span style="font-weight:bold; color:#d4a76a;">conseils</span> et des
+    <span style="font-weight:bold; color:#d4a76a;">conseils</span>,
     <span style="font-weight:bold; color:#d4a76a;">ressources</span>
     pour aider les communautés francophones à jouer dans un cadre
     <span style="font-weight:bold; color:#d4a76a;">inclusif et bienveillant.</span>
