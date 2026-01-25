@@ -60,7 +60,7 @@ title: Docteur de la peste
 ##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Quand vous mourrez, la conteuse ou le conteur gagne la capacité d’un Sbire. »</strong>
+  <strong>« Quand vous mourrez, le conteur gagne la capacité d’un Sbire. »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
