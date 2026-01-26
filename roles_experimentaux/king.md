@@ -63,7 +63,7 @@ title: Roi
 ##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Chaque nuit,si le nombre de morts est égal ou supérieur à celui des vivants, vous apprenez 1 rôle vivant. Le Démon sait que vous êtes le Roi. »</strong>
+  <strong>« Chaque nuit, si le nombre de morts est égal ou supérieur à celui des vivants, vous apprenez 1 rôle vivant. Le Démon sait que vous êtes le Roi. »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
