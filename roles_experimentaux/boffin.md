@@ -107,7 +107,7 @@ title: Boffin
   <li>
     <img src="../images/Icon_goon.png" alt="Goon" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../bmr_roles/brute.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Brute</a> :  
-    Si le <span style="color:#d45b5b; font-weight:bold;">Démon</span> possède la capacité <a href="../bmr_roles/brute.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Brute</a>, il ne peut pas devenir bon grâce à cette capacité.
+    Si le <span style="color:#d45b5b; font-weight:bold;">Démon</span> possède la capacité de la <a href="../bmr_roles/brute.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Brute</a>, il ne peut pas devenir bon grâce à cette capacité.
   </li>
 
   <li>
