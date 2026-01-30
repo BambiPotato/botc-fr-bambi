@@ -75,9 +75,8 @@ Je vous préviens, ce tour sera peut-être mon dernier. Oh là là…  »
 
 ##  <span style="color:#4ea3ff;">Résumé</span>  
 
-> « Le premier jour, devinez publiquement jusqu’à cinq combinaisons joueur/rôle.» 
-
-> « La nuit suivante, vous apprenez combien d’entre elles sont correctes.»  
+> « Le premier jour, devinez publiquement jusqu’à cinq combinaisons joueur/rôle.
+La nuit suivante, vous apprenez combien d’entre elles sont correctes.»  
 
 Le Jongleur doit convaincre les autres de **révéler leurs rôles** afin de pouvoir **deviner**  
 le plus justement possible.  
