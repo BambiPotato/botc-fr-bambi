@@ -62,7 +62,7 @@ title: Hérétique
 ##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Quiconque devrait gagner perd, et quiconque devrait perdre gagne, même si vous êtes mort. »</strong>
+  <strong>« Quiconque gagne, perd, et quiconque perd, gagne, même si vous êtes mort. »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
