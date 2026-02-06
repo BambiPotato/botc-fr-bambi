@@ -131,7 +131,7 @@ title: Lavandière
     et <strong>Leila</strong> est
     <a href="./femmeecarlate.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Femme Écarlate</a>
     → la Lavandière apprend que l’un des deux est le
-    <a href="./gardien.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Corneillen</a>.
+    <a href="./gardien.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Corneille</a>.
     <span style="opacity:.9;">(Ici, l’</span>
     <a href="./espion.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Espionne</a>
     <span style="opacity:.9;"> s’enregistre comme </span>
@@ -169,7 +169,7 @@ title: Lavandière
   </li>
   <li>Attention à l’
     <a href="./espion.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Espionne</a> :
-    il peut apparaître comme
+    elle peut apparaître comme
     <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>
     auprès de vous.
   </li>
@@ -195,7 +195,7 @@ title: Lavandière
   </li>
   <li>En tant qu’
     <a href="./espion.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Espionne</a>
-    (ou allié d’un
+    (ou allié d’une
     <a href="./espion.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Espionne</a>), vous savez quels rôles sont vraiment en jeu.
   </li>
   <li>Bluff risqué : si le rôle que vous citez n’est pas en jeu, votre couverture tombe vite.</li>
