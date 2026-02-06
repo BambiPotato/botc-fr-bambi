@@ -35,7 +35,7 @@ title: Ivrogne
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>
     <strong>Type :</strong>
-    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a>
+    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a>
   </li>
   <li><strong>Artiste :</strong> Aidan Roberts</li>
   <li>
@@ -112,7 +112,7 @@ title: Ivrogne
   <li>
     En préparant la première nuit, placez le rappel <strong>EST L’IVROGNE</strong> sur n’importe quel jeton de <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>,<br>
     changeant secrètement le rôle de ce joueur en <a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>.<br>
-    Il est maintenant un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a> et n’a pas la capacité de ce <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> (mais il pense que si).
+    Il est maintenant un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a> et n’a pas la capacité de ce <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> (mais il pense que si).
   </li>
   <li>
     Pendant la partie, agissez comme si l’<a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> était réellement ce <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>.<br>
@@ -130,7 +130,7 @@ title: Ivrogne
     L’<a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>, qui pense être le
     <a href="./soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a>,<br>
     est attaqué par le
-    <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diabltin</a>.<br>
+    <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>.<br>
     L’<a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> meurt.
   </li>
   <li>
@@ -202,7 +202,7 @@ title: Ivrogne
     Si vous avez compris que vous êtes l’<a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>, essayez de “reconstruire” ce que vous savez :<br>
     par exemple, si vous pensiez être l’<a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a> et avez eu « 0 »,<br>
     soupçonnez qu’au moins un voisin est peut-être <span style="color:#d45b5b; font-weight:bold;">maléfique</span>.<br>
-    Ou si vous pensiez être l’<a href="./enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a>,<br>
+    Ou si vous pensiez être le <a href="./enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a>,<br>
     vous pouvez souvent supposer qu’aucun des deux joueurs vus n’est <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>.
   </li>
   <li>
@@ -218,7 +218,7 @@ title: Ivrogne
     et le
     <a href="./maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a><br>
     ne peuvent pas influencer la partie avec leur capacité s’ils sont en réalité l’<a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>.<br>
-    Par exemple, un <a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse </a> ne tuera pas un bon joueur “à la place du <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>” :<br>
+    Par exemple, une <a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse </a> ne tuera pas un bon joueur “à la place du <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>” :<br>
     son tir échouera toujours.
   </li>
 </ul>
@@ -243,7 +243,7 @@ title: Ivrogne
   <li>
     Bluffez un rôle qui gagne des informations de façon “passive”, comme la
     <a href="./voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>,<br>
-    l’
+    le
     <a href="./enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a>,<br>
     l’
     <a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>,<br>
@@ -259,7 +259,7 @@ title: Ivrogne
     Bluffez un rôle dont la capacité peut “échouer”, puis réagissez avec surprise et proposez que vous soyez l’<a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>.<br>
     Par exemple : bluffez le <a href="./moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> et dites que la personne protégée est morte quand même ;<br>
     bluffez le <a href="./soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a> et faites-vous tuer ;<br>
-    bluffez l' <a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a> ou nommez la <a href="./vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Innoce,te</a> et faites semblant d’être choqué que rien ne se passe.
+    bluffez la <a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse </a> ou nommez la <a href="./vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Innoce,te</a> et faites semblant d’être choqué que rien ne se passe.
   </li>
   <li>
     Insinuez qu’il y a un <a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> en jeu et lancez une “chasse à l’Ivrogne” :<br>
