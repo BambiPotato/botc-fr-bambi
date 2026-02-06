@@ -10,14 +10,14 @@ title: Espionne
   </a>
 </p>
 
-# <span style="color:red">Espion</span>
+# <span style="color:red">Espionne</span>
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./espion.html" style="text-decoration:none;">
     <img src="../images/Icon_spy.png" alt="Espion" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:red; font-weight:bold; font-size:22px;">Espion</span>
+    <span style="color:red; font-weight:bold; font-size:22px;">Espionne</span>
   </a>
 </div>
 
