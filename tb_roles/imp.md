@@ -149,7 +149,7 @@ title: Diablotin
     <a href="./cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a><br>
     <a href="./bibliothecaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Archiviste</a><br>
     Le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> bluffe le 
-    <a href="./cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisonier</a>, puis bluffe le 
+    <a href="./cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a>, puis bluffe le 
     <a href="./maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a>
     à mi-partie.<br>
   </li>
