@@ -127,7 +127,7 @@ le Conteur choisit si la Recluse est enregistrée comme ce Sbire ou Démon.
 **[Empathe](./empathique.md)**, **[Détective](./enqueteur.md)**, etc.).  
 - À l’inverse, cacher votre identité jusqu’au dernier jour peut vous éviter l’exécution prématurée.  
 - N’oubliez pas : vous êtes **bon** ! Vous êtes donc un moins bon choix d’exécution que n’importe quel joueur réellement maléfique.  
-- Vous serez souvent perçu comme **maléfique**. Une **[Pourfendeuse](./mercenaire.md)]** risque de vous tuer par erreur, et le **[Fossoyeur](./croquemort.md)** verra souvent un rôle de Sbire/Démon.  
+- Vous serez souvent perçu comme **maléfique**. Une **[Pourfendeuse](./mercenaire.md)** risque de vous tuer par erreur, et le **[Fossoyeur](./croquemort.md)** verra souvent un rôle de Sbire/Démon.  
 - Parfois, s’enregistrer comme maléfique aide : un [Empathe](./empathique.md) qui voit « 1 » grâce à vous peut ainsi identifier son autre voisin comme bon.  
 - Si le groupe est trop suspicieux, acceptez l’exécution avant le dernier jour pour prouver que vous n’étiez pas le Démon.  
 
