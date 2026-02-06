@@ -87,8 +87,8 @@
 L'Innocente peut, malgré elle, provoquer l’exécution de son accusateur, ce qui permet de confirmer quels joueurs sont des Villageois.  
 
 - Si un Villageois nomine l'Innocente, ce Villageois est immédiatement exécuté. Comme il ne peut y avoir qu’une seule exécution par jour, le processus de nomination prend fin aussitôt, même si une autre personne devait mourir.  
-- Si un Étranger, un Sbire ou un Démon nomine la Vierge, rien ne se passe et le vote continue normalement.  
-- Après avoir été nominée une première fois, la Vierge **perd sa capacité**, même si le nominateur n’est pas mort ou si la Vierge était l’Ivrogne ou empoisonnée.  
+- Si un Étranger, un Sbire ou un Démon nomine l'Innocente, rien ne se passe et le vote continue normalement.  
+- Après avoir été nominée une première fois, l'Innocente **perd sa capacité**, même si le nominateur n’est pas mort ou si l'Innocente était l’Ivrogne ou empoisonnée.  
 
 ---
 
@@ -108,8 +108,8 @@ L'Innocente peut, malgré elle, provoquer l’exécution de son accusateur, ce q
 ##   <span style="color:blue">Exemples</span>  
 
 - La [Lavandière](lavandiere.md) nomine la Vierge → la Lavandière est exécutée immédiatement et la journée prend fin.  
-- L’[Ivrogne](ivrogne.md), qui pense être le [Cuistot](cuistot.md), nomine l'Innocente → rien ne se passe, mais l'Innocente perd sa capacité.  
-- Un joueur mort tente de nominer la Vierge → cela ne compte pas, car les morts ne peuvent pas nominer. La Vierge conserve sa capacité.  
+- L’[Ivrogne](ivrogne.md), qui pense être le [Cuisinier](cuistot.md), nomine l'Innocente → rien ne se passe, mais l'Innocente perd sa capacité.  
+- Un joueur mort tente de nominer l'Innocente → cela ne compte pas, car les morts ne peuvent pas nominer. L'Innocente conserve sa capacité.  
 
 ---
 
