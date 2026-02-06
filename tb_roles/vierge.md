@@ -129,7 +129,7 @@ L'Innocente peut, malgré elle, provoquer l’exécution de son accusateur, ce q
   - Le nominateur est un Étranger.  
   - Vous êtes l’[Ivrogne](ivrogne.md) ou empoisonnée.  
 
-⚠️ Attention à l’[<span style="color:red">Espion</span>](espion.md)  : c’est le seul rôle maléfique pouvant activer votre capacité puisqu’il s’enregistre comme Villageois.  
+⚠️ Attention à l’[<span style="color:red">Espionne</span>](espion.md)  : c’est le seul rôle maléfique pouvant activer votre capacité puisqu’il s’enregistre comme Villageois.  
 
 ---
 
