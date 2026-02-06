@@ -81,7 +81,7 @@ title: Trouble Brewing
   <!-- Démon -->
   <p style="font-weight:bold; color:#a86464; margin-bottom:4px;">Démon</p>
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:6px;">
-    <li><a href="./tb_roles/imp.html" style="color:#d45b5b; text-decoration:none;">Imp</a></li>
+    <li><a href="./tb_roles/imp.html" style="color:#d45b5b; text-decoration:none;">Diablotin</a></li>
   </ul>
 </div>
 
