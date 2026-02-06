@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Les Étrangers 
+title: Les Marginaux
 ---
 
 
@@ -18,7 +18,7 @@ title: Les Étrangers
 **Alignement :** 🔵 Bon  
 **But :** Trouver et exécuter le Démon… malgré leurs handicaps.  
 
-Les Étrangers compliquent la tâche du Village en faussant les informations ou en imposant des contraintes de jeu. 
+Les Magirnaux compliquent la tâche du Village en faussant les informations ou en imposant des contraintes de jeu. 
 Ils sèment le doute mais restent du côté des bons. 
 
 ##  Exemples dans *Trouble Brewing*  
