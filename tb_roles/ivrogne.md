@@ -74,7 +74,7 @@ title: Ivrogne
 <h3 style="color:#4ea3ff; font-weight:bold;"> Résumé</h3>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
-  <strong>« Vous ne savez pas que vous êtes l’<a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>.<br>
+  <strong>« Vous ne savez pas que vous êtes l’<a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>.
   Vous pensez être un rôle de <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>, mais vous ne l’êtes pas. »</strong>
 </p>
 
@@ -129,19 +129,19 @@ title: Ivrogne
   <li>
     L’<a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>, qui pense être le
     <a href="./soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a>,<br>
-    est attaqué par l’
-    <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Imp</a>.<br>
+    est attaqué par le
+    <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diabltin</a>.<br>
     L’<a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> meurt.
   </li>
   <li>
     L’<a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>, qui pense être l’
-    <a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a>,<br>
+    <a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>,<br>
     se réveille et apprend « 0 », alors qu’il est assis à côté d’un joueur <span style="color:#d45b5b; font-weight:bold;">maléfique</span>.<br>
     La nuit suivante, il apprend « 1 ».
   </li>
   <li>
     L’<a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>, qui pense être le
-    <a href="./gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a>,<br>
+    <a href="./gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a>,<br>
     est tué la nuit. Il choisit le
     <a href="./saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a>,<br>
     mais apprend que ce joueur est l’
@@ -151,7 +151,7 @@ title: Ivrogne
     La
     <a href="./voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a><br>
     est exécutée. Cette nuit-là, l’<a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>, qui pense être le
-    <a href="./croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-Mort</a>,<br>
+    <a href="./croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a>,<br>
     apprend que l’<a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> est mort aujourd’hui.
   </li>
 </ul>
@@ -188,21 +188,21 @@ title: Ivrogne
   </li>
   <li>
     Des rôles comme le
-    <a href="./croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-Mort</a>
+    <a href="./croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a>
     et le
     <a href="./gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a><br>
     verront le rôle <a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> lorsqu’ils vérifient ce joueur.<br>
     Vous ne “comptez” pas comme un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> :<br>
     vous pensez juste l’être.<br>
-    C’est aussi vrai pour la
-    <a href="./vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Vierge</a> :<br>
-    un <a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> ne peut pas activer sa capacité, car il n’est pas réellement <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>, mais <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a>.
+    C’est aussi vrai pour l'
+    <a href="./vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Innocente</a> :<br>
+    un <a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> ne peut pas activer sa capacité, car il n’est pas réellement <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>, mais <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a>.
   </li>
   <li>
     Si vous avez compris que vous êtes l’<a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>, essayez de “reconstruire” ce que vous savez :<br>
-    par exemple, si vous pensiez être l’<a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a> et avez eu « 0 »,<br>
+    par exemple, si vous pensiez être l’<a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a> et avez eu « 0 »,<br>
     soupçonnez qu’au moins un voisin est peut-être <span style="color:#d45b5b; font-weight:bold;">maléfique</span>.<br>
-    Ou si vous pensiez être l’<a href="./enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Enquêteur</a>,<br>
+    Ou si vous pensiez être l’<a href="./enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a>,<br>
     vous pouvez souvent supposer qu’aucun des deux joueurs vus n’est <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>.
   </li>
   <li>
@@ -212,7 +212,7 @@ title: Ivrogne
   </li>
   <li>
     Gardez à l’esprit que des rôles comme le
-    <a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a>,<br>
+    <a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse </a>,<br>
     le
     <a href="./moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a><br>
     et le
@@ -244,15 +244,15 @@ title: Ivrogne
     Bluffez un rôle qui gagne des informations de façon “passive”, comme la
     <a href="./voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>,<br>
     l’
-    <a href="./enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Enquêteur</a>,<br>
+    <a href="./enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a>,<br>
     l’
-    <a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a>,<br>
+    <a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>,<br>
     la
     <a href="./lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>,<br>
     le
-    <a href="./croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-Mort</a><br>
-    ou le
-    <a href="./bibliothecaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bibliothécaire</a>,<br>
+    <a href="./croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a><br>
+    ou l'
+    <a href="./bibliothecaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Archiviste</a>,<br>
     puis donnez des informations volontairement et clairement fausses : vous aurez l’air “évidemment Ivrogne”.
   </li>
   <li>
@@ -268,24 +268,25 @@ title: Ivrogne
   </li>
   <li>
     Insinuez qu’un joueur particulier est <a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>,<br>
-    surtout s’il a un dossier accablant contre votre équipe (par exemple, un
-    <a href="./gardiendestombes.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien des Tombes</a>
+    surtout s’il a des informations accablantes contre votre équipe (par exemple, un
+    <a href="./croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a>
     qui affirme qu’un <a href="./empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> mort était bien <a href="./empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>).
   </li>
   <li>
-    Convaincre le groupe qu’un <a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> est en jeu est beaucoup plus facile si le nombre d’<a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a> revendiqués publiquement colle avec votre histoire.<br>
-    Si un joueur <span style="color:#d45b5b; font-weight:bold;">maléfique</span> bluffe aussi <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a>, cela rend “crédible” l’idée qu’un <a href="./baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> est en jeu.
+    Convaincre le groupe qu’un <a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> est en jeu est beaucoup plus facile si le nombre de<a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a> revendiqués publiquement colle avec votre histoire.<br>
+    Si un joueur <span style="color:#d45b5b; font-weight:bold;">maléfique</span> bluffe aussi un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a>, cela rend “crédible” l’idée qu’un <a href="./baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> est en jeu.
   </li>
   <li>
     Si vous voulez qu’un allié <span style="color:#d45b5b; font-weight:bold;">maléfique</span> soutienne votre bluff d’<a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>,<br>
-    demandez-lui de revendiquer le <a href="./bibliothecaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bibliothécaire</a>.<br>
-    Le <a href="./gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a> et le <a href="./gardiendestombes.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien des Tombes</a> fonctionnent bien aussi,<br>
+    demandez-lui de bluffer l' <a href="./bibliothecaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Archiviste</a>.<br>
+    Le <a href="./gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a> et 
+    le <a href="./croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a> fonctionnent bien aussi,<br>
     mais l’un de vous devra mourir pour que ça marche.
   </li>
   <li>
     Si vous comptez bluffer l’<a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> plus tard et que vous pensez pouvoir réussir,<br>
     donnez au début des informations “opposées” à ce que vous voulez que le Bien croie.<br>
-    Par exemple : si vous prétendez être l’<a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a> et que vous voulez faire exécuter vos voisins au final,<br>
+    Par exemple : si vous prétendez être l’<a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a> et que vous voulez faire exécuter vos voisins au final,<br>
     dites d’abord qu’ils sont tous les deux bons.<br>
     Si ensuite le groupe conclut que vous étiez l’<a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>,<br>
     il pensera qu’au moins l’un de vos voisins est <span style="color:#d45b5b; font-weight:bold;">maléfique</span> et les exécutera.
@@ -323,6 +324,6 @@ title: Ivrogne
     <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a>
   </li>
   <li style="margin:4px 0;">
-    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Étrangers</a>
+    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Marginaux</a>
   </li>
 </ul>
