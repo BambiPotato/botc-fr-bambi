@@ -94,7 +94,7 @@ La **Femme Écarlate** devient le <span style="color:red">Démon</span> si celui
 
 - Les Voyageurs ne comptent pas dans ce calcul.  
 - Si le <span style="color:red">Démon</span> meurt alors qu’il reste moins de 5 joueurs, la partie se termine et le Bien l’emporte.  
-- Si la Femme Écarlate prend la place du <span style="color:red">Démon</span>, elle **devient ce Démon** (par ex. l’[<span style="color:red">Imp</span>](imp.md)) en tous points : elle attaque, elle s’enregistre comme Démon et si elle meurt, la partie s’arrête.  
+- Si la Femme Écarlate prend la place du <span style="color:red">Démon</span>, elle **devient ce Démon** par exemple : le [<span style="color:red">Diablotin</span>](imp.md)) en tous points : elle attaque, elle s’enregistre comme Démon et si elle meurt, la partie s’arrête.  
 
 
 ---
@@ -117,7 +117,7 @@ Si le <span style="color:red">Démon</span> meurt alors qu’il reste plus de 5 
   → Le [<span style="color:red">Diablotin</span>](imp.md) est exécuté → la partie s’arrête (les Voyageurs ne comptent pas).  
 
 - **Il y 5 joueurs vivants** : Le [<span style="color:red">Diablotin</span>](imp.md), la Femme Écarlate, le [<span style="color:red">Baron</span>](baron.md) et 2 Villageois.  
-  → Le [<span style="color:red">Diablotin</span>](imp.md) est exécuté → la Femme Écarlate devient l’[<span style="color:red">Imp</span>](imp.md)  → la partie continue.  
+  → Le [<span style="color:red">Diablotin</span>](imp.md) est exécuté → la Femme Écarlate devient le [<span style="color:red">Diablotin</span>](imp.md)  → la partie continue.  
 
 - Laura est la Femme Écarlate. La [Voyante](voyante.md) choisit Laura et Alexis elle apprend un « non ».  
   Plus tard, le [<span style="color:red">Diablotin</span>](imp.md) meurt, Laura devient le [<span style="color:red">Diablotin</span>](imp.md).  
