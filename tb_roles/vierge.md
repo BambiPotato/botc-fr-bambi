@@ -4,7 +4,7 @@
   </a>
 </p>
 
-#  <span style="color:blue">Vierge</span>  
+#  <span style="color:blue">Innocente</span>  
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
