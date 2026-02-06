@@ -134,7 +134,7 @@ Si le <span style="color:red">Démon</span> meurt alors qu’il reste plus de 5 
 
 - Si le Démon risque d’être exécuté trop tôt, assurez-vous qu’il meure **tant qu’il reste ≥ 5 joueurs vivants**.  
 
-- Vous ne vous enregistrez **pas comme Démon** tant que vous êtes Femme Écarlate → profitez-en pour être « confirmé » par des rôles comme la [Voyante](voyante.md) ou le [Pourfendeuse](mercenaire.md).  
+- Vous ne vous enregistrez **pas comme Démon** tant que vous êtes Femme Écarlate → profitez-en pour être « confirmé » par des rôles comme la [Voyante](voyante.md) ou la [Pourfendeuse](mercenaire.md).  
 
 - Si le Démon joue bien et reste discret, pas besoin d’activer votre capacité : semez le doute comme un <span style="color:red">Sbire</span> classique.  
 
@@ -149,7 +149,7 @@ Si le <span style="color:red">Démon</span> meurt alors qu’il reste plus de 5 
 
 - Le <span style="color:red">Démon</span> et la Femme Écarlate peuvent **co-bluffer** pour se soutenir (ex. elle se dit [Lavandière](lavandiere.md) et « confirme » le Démon).  
 
-- La Femme Écarlate **ne s’enregistre pas comme Démon** → la [Voyante](voyante.md) ou le [Pourfendeuse](mercenaire.md) ne la détecteront pas.  
+- La Femme Écarlate **ne s’enregistre pas comme Démon** → la [Voyante](voyante.md) ou la [Pourfendeuse](mercenaire.md) ne la détecteront pas.  
 
 - Si un [Détective](enqueteur.md) ou un [Fossoyeur](croquemort.md) révèle qu’elle est en jeu, gardez-la **vivante** : au dernier jour, la question devient « le Démon est-il devenu la Femme Écarlate ? ».  
 
