@@ -126,9 +126,9 @@ car cela lui permet d'obtenir davantage d'informations.*
 
 ##  <span style="color:blue">Exemples</span>   
 
-- La Voyante choisit le [Moine](moine.md) et le [Croque-Mort](croquemort.md). Elle apprend un : **non**. 
+- La Voyante choisit le [Moine](moine.md) et le [Fossoyeur](croquemort.md). Elle apprend un : **non**. 
 
-- La Voyante choisit l’[<span style="color:red">Imp</span>](imp.md) et l’[Empathique](empathique.md).  Elle apprend un : **oui**.
+- La Voyante choisit l’[<span style="color:red">Imp</span>](imp.md) et l’[Empathe](empathique.md).  Elle apprend un : **oui**.
 
 - La Voyante choisit le [Majordome](majordome.md) vivant et un [ <span style="color:red">Imp</span>](imp.md) mort. Elle apprend un  : **oui**.  
 
@@ -174,7 +174,7 @@ et qu’un « oui » ne constitue pas une confirmation certaine de la présence 
 - Vous pouvez vous choisir vous-même comme l’un des deux joueurs. 
   - Puisque vous savez que vous n’êtes pas le Démon, cela vous permet d’obtenir une information ciblée sur un joueur précis. 
   - Attention toutefois : le Conteur peut faire en sorte que vous soyez votre propre faux positif, ce qui rend cette méthode parfois inefficace.
-  Faites attention au [Reclus](reclus.md), qui peut apparaître comme le Démon à vos yeux. Cela n’est pas la même chose que le **LEURRE** qui est votre Faux-Positif.
+  Faites attention à la [Recluse](reclus.md), qui peut apparaître comme le Démon à vos yeux. Cela n’est pas la même chose que le **LEURRE** qui est votre Faux-Positif.
   
 
 - Prétendre être un rôle que le Démon n’a généralement aucun intérêt à tuer, comme le [Saint](saint.md), le [Soldat](soldat.md) ou 
@@ -214,21 +214,21 @@ le [Gardien](gardien.md), peut vous aider à survivre plus longtemps, et ainsi v
   Cette stratégie est particulièrement dévastatrice lorsque vous devez absolument faire exécuter un joueur sans y parvenir par des moyens classiques. 
   Vous pouvez notamment faire exécuter un [Saint](saint.md), ou faire tuer un [Maire](maire.md) ou un [Soldat](soldat.md), 
   ou au minimum convaincre l’équipe du bien de ne plus leur faire confiance.<br> 
-- Même semer le doute sur un [Croque-Mort](croquemort.md), un [Empathique](empathique.md) ou un rôle similaire peut suffire à rendre leurs informations suspectes.
+- Même semer le doute sur un [Fossoyeur](croquemort.md), un [Empathe](empathique.md) ou un rôle similaire peut suffire à rendre leurs informations suspectes.
 
 
 - N’oubliez pas que la Voyante peut choisir des joueurs morts, et peut même se choisir elle-même. 
   Dire au groupe qu’un joueur mort est le Démon implique que toutes ses informations étaient douteuses, 
   et aussi (dans les parties à un seul Sbire) qu’il ne reste qu’un seul joueur maléfique en vie. 
   Cette désinformation, bien qu’apparemment anodine, peut faire basculer la partie en votre faveur en augmentant la méfiance entre les joueurs vivants. 
-  Elle est particulièrement efficace si vous faites passer un [Gardien](gardien.md) pour le Démon qui se serait tué lui-même pendant la nuit.
+  Elle est particulièrement efficace si vous faites passer un [Corneille](gardien.md) pour le Démon qui se serait tué lui-même pendant la nuit.
 - Si vous êtes l'[<span style="color:red">Imp</span>](imp.md), vous pouvez vous révéler publiquement comme [Voyante](voyante.md) et mourir volontairement la nuit, afin de rendre vos informations plus crédibles.
 
 
 - Si vous êtes la [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md), vous pouvez accuser publiquement votre véritable Démon 
 et mener la charge pour son exécution. 
 - Cela donnera à des rôles comme le [Croque-Mort](croquemort.md) une information positive indiquant « Démon », ce qui renforce considérablement votre bluff.
-- Si vous savez qu’un [Reclus](reclus.md) est en jeu, affirmez avoir obtenu un « oui » sur lui. 
+- Si vous savez qu’une [Recluse](reclus.md) est en jeu, affirmez avoir obtenu un « oui » sur lui. 
   Si vous êtes, ou avez discuté avec, un [<span style="color:red">Espion</span>](espion.md),<br> 
   vous pouvez même annoncer ce « oui » avant que le [Reclus](reclus.md) ne révèle son rôle, ce qui rendra votre information encore plus crédible.
 
