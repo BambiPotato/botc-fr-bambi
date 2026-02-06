@@ -11,7 +11,7 @@
   <a href="./vierge.html" style="text-decoration:none;">
     <img src="../images/Icon_virgin.png" alt="Vierge" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:blue; font-weight:bold; font-size:22px;">Vierge</span>
+    <span style="color:blue; font-weight:bold; font-size:22px;">Innocente</span>
   </a>
 </div>
 
