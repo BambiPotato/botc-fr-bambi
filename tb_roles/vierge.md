@@ -84,9 +84,9 @@
 
 **"La première fois que vous êtes nominé, si le joueur qui vous nomme est un Villageois, il est immédiatement exécuté."**
 
-La Vierge peut, malgré elle, provoquer l’exécution de son accusateur, ce qui permet de confirmer quels joueurs sont des Villageois.  
+L'Innocente peut, malgré elle, provoquer l’exécution de son accusateur, ce qui permet de confirmer quels joueurs sont des Villageois.  
 
-- Si un Villageois nomine la Vierge, ce Villageois est immédiatement exécuté. Comme il ne peut y avoir qu’une seule exécution par jour, le processus de nomination prend fin aussitôt, même si une autre personne devait mourir.  
+- Si un Villageois nomine l'Innocente, ce Villageois est immédiatement exécuté. Comme il ne peut y avoir qu’une seule exécution par jour, le processus de nomination prend fin aussitôt, même si une autre personne devait mourir.  
 - Si un Étranger, un Sbire ou un Démon nomine la Vierge, rien ne se passe et le vote continue normalement.  
 - Après avoir été nominée une première fois, la Vierge **perd sa capacité**, même si le nominateur n’est pas mort ou si la Vierge était l’Ivrogne ou empoisonnée.  
 
@@ -94,7 +94,7 @@ La Vierge peut, malgré elle, provoquer l’exécution de son accusateur, ce qui
 
 ##  <span style="color:blue">Comment Conter</span>  
 
-- Si le premier joueur à nominer la Vierge est un Villageois :  
+- Si le premier joueur à nominer l'Innocente est un Villageois :  
   → Déclarez immédiatement que ce joueur est exécuté. Placez un Linceuil de mort sur son jeton.  
   → La Vierge perd sa capacité (placez son jeton de rappel **AUCUN POUVOIR**).  
   → Fin de la journée, passez directement à la nuit.  
@@ -108,19 +108,20 @@ La Vierge peut, malgré elle, provoquer l’exécution de son accusateur, ce qui
 ##   <span style="color:blue">Exemples</span>  
 
 - La [Lavandière](lavandiere.md) nomine la Vierge → la Lavandière est exécutée immédiatement et la journée prend fin.  
-- L’[Ivrogne](ivrogne.md), qui pense être le [Cuistot](cuistot.md), nomine la Vierge → rien ne se passe, mais la Vierge perd sa capacité.  
+- L’[Ivrogne](ivrogne.md), qui pense être le [Cuistot](cuistot.md), nomine l'Innocente → rien ne se passe, mais l'Innocente perd sa capacité.  
 - Un joueur mort tente de nominer la Vierge → cela ne compte pas, car les morts ne peuvent pas nominer. La Vierge conserve sa capacité.  
 
 ---
 
 ##  <span style="color:blue">Conseils & Astuces</span>    
 
-- La Vierge est l’un des rares Villageois qui peut être **confirmée comme bonne de façon absolue**.  
-- Les Villageois ayant déjà utilisé leur pouvoir (comme la [Lavandière](lavandiere.md), l’[Enquêteur](enqueteur.md) ou le [Mercenaire](mercenaire.md)) sont d’excellents choix pour la nomination, car leur mort valide leur rôle sans grande perte.  
+- L'Innocente est l’un des rares Villageois qui peut être **confirmée comme bonne de façon absolue**.  
+- Les Villageois ayant déjà utilisé leur pouvoir (comme la [Lavandière](lavandiere.md), le [Détective](enqueteur.md) ou la [Pourfendeuse](mercenaire.md)) sont d’excellents choix pour la nomination, car leur mort valide leur rôle sans grande perte.  
 - Une nomination par un Étranger ne déclenche pas votre capacité. Cela inclut l’[Ivrogne](ivrogne.md).  
-- Vous pouvez **vous auto-nominer** pour prouver que vous êtes la Vierge.  
+- Vous pouvez **vous auto-nominer** pour prouver que vous êtes l'Innocente.  
 - Votre capacité met fin à la journée : vous pouvez donc bloquer une exécution en plus de prouver votre rôle.  
-- Annoncer tôt votre rôle fait de vous une cible pour le Démon ou l’Empoisonneur. Utiliser votre capacité rapidement minimise ce risque.  
+- Annoncer tôt votre rôle fait de vous une cible pour le Démon ou l’[<span style="color:red">Empoisonneur</span>](empoisonneur.md). 
+- Utiliser votre capacité rapidement minimise ce risque.  
 - Attendre avant de révéler votre rôle permet de choisir un nominateur plus stratégique.  
 - Ne pas déclarer être la Vierge avant d’être nominée peut piéger un joueur se faisant passer pour Villageois.  
 - Attention : si votre capacité ne se déclenche pas, c’est peut-être parce que :  
@@ -132,13 +133,13 @@ La Vierge peut, malgré elle, provoquer l’exécution de son accusateur, ce qui
 
 ---
 
-##  <span style="color:blue">Bluffer Vierge</span>    
+##  <span style="color:blue">Bluffer l'Innocente</span>    
 
 - Vous **ne vous réveillez jamais la nuit**.  
-- Si vous êtes nominée et que rien ne se passe, cela jette le doute : l’un de vous deux est peut-être Ivrogne.  
+- Si vous êtes nominée et que rien ne se passe, cela jette le doute : l’un de vous deux est peut-être [Ivrogne](ivrogne.md).  
 - En tant que Sbire, vous pouvez inciter votre Démon à vous nominer → cela rend votre Démon plus crédible.  
-- Attention : si une vraie Vierge se révèle, vous serez immédiatement démasquée.  
-- Après avoir bluffé Vierge sans mourir, vous pouvez pivoter vers un autre rôle crédible comme [Croque-mort](croquemort.md) ou [Moine](moine.md).  
+- Attention : si une vraie Innocente se révèle, vous serez immédiatement démasquée.  
+- Après avoir bluffé l'Innocente sans mourir, vous pouvez pivoter vers un autre rôle crédible comme [Fossoyeur](croquemort.md) ou [Moine](moine.md).  
 
 ---
 
