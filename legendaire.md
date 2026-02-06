@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Légendaire
+title: Légendaires
 ---
 
 <p align="left">
