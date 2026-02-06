@@ -128,7 +128,7 @@ car cela lui permet d'obtenir davantage d'informations.*
 
 - La Voyante choisit le [Moine](moine.md) et le [Fossoyeur](croquemort.md). Elle apprend un : **non**. 
 
-- La Voyante choisit l’[<span style="color:red">Diablotin</span>](imp.md) et l’[Empathe](empathique.md).  Elle apprend un : **oui**.
+- La Voyante choisit le [<span style="color:red">Diablotin</span>](imp.md) et l’[Empathe](empathique.md).  Elle apprend un : **oui**.
 
 - La Voyante choisit le [Majordome](majordome.md) vivant et un [ <span style="color:red">Imp</span>](imp.md) mort. Elle apprend un  : **oui**.  
 
