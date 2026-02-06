@@ -130,7 +130,7 @@ car cela lui permet d'obtenir davantage d'informations.*
 
 - La Voyante choisit le [<span style="color:red">Diablotin</span>](imp.md) et l’[Empathe](empathique.md).  Elle apprend un : **oui**.
 
-- La Voyante choisit le [Majordome](majordome.md) vivant et un [ <span style="color:red">Imp</span>](imp.md) mort. Elle apprend un  : **oui**.  
+- La Voyante choisit le [Majordome](majordome.md) vivant et un [ <span style="color:red">Diablotin</span>](imp.md) mort. Elle apprend un  : **oui**.  
 
 - La Voyante se choisit elle-même et le [Saint](saint.md). Le [Saint](saint.md) est le Leurre. Elle apprend un : **oui**.  
 
