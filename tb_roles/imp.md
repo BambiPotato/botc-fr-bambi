@@ -117,7 +117,7 @@ title: Diablotin
     Le joueur choisi meurt : placez le rappel <strong>MORT</strong> du <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> à côté du jeton de rôle de la cible dans le Grimoire et placez un linceul.
   </li>
   <li>
-    Si le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> s’est tué la nuit, choisissez un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> vivant et remplacez son jeton de rôle
+    Si le <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> s’est tué la nuit, choisissez un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> vivant et remplacez son jeton de rôle
     par un jeton <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> de réserve, changeant son rôle en <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span>.<br>
     Réveillez le nouveau <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span>, montrez-lui la tuile d’info « VOUS ÊTES », puis montrez-lui le jeton <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span>.<br>
     Rendormez le nouveau <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span>.
@@ -126,9 +126,9 @@ title: Diablotin
     À l’aube, annoncez quel joueur est mort pendant la nuit. (Ne dites pas comment il est mort.)
   </li>
   <li>
-    Si le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> attaque un joueur mort la nuit, laissez-le faire.<br>
+    Si le <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> attaque un joueur mort la nuit, laissez-le faire.<br>
     Quand une capacité dit « choisissez un joueur », cela signifie n’importe quel joueur : vivant ou mort.<br>
-    Le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> peut vouloir bluffer le
+    Le <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> peut vouloir bluffer le
     <a href="./soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a>,
     et ce genre de choix peut rendre son bluff plus crédible.
   </li>
@@ -158,9 +158,9 @@ title: Diablotin
     </span> est exécuté et le Bien gagne.
   </li>
   <li>
-    Pendant la nuit, le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> se réveille et choisit un joueur, qui meurt.<br>
-    La nuit suivante, le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> se choisit lui-même pour mourir.<br>
-    Le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> meurt, et l'
+    Pendant la nuit, le <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> se réveille et choisit un joueur, qui meurt.<br>
+    La nuit suivante, le <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> se choisit lui-même pour mourir.<br>
+    Le <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> meurt, et l'
     <a href="./empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>
     devient le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span>.
   </li>
