@@ -128,7 +128,7 @@ car cela lui permet d'obtenir davantage d'informations.*
 
 - La Voyante choisit le [Moine](moine.md) et le [Fossoyeur](croquemort.md). Elle apprend un : **non**. 
 
-- La Voyante choisit l’[<span style="color:red">Imp</span>](imp.md) et l’[Empathe](empathique.md).  Elle apprend un : **oui**.
+- La Voyante choisit l’[<span style="color:red">Diablotin</span>](imp.md) et l’[Empathe](empathique.md).  Elle apprend un : **oui**.
 
 - La Voyante choisit le [Majordome](majordome.md) vivant et un [ <span style="color:red">Imp</span>](imp.md) mort. Elle apprend un  : **oui**.  
 
@@ -158,7 +158,7 @@ car cela lui permet d'obtenir davantage d'informations.*
   Ensuite, une fois que vous avez une vision d’ensemble, concentrez-vous sur les joueurs qui vous paraissent les plus suspects.
   
 
-- N’oubliez pas que l’[<span style="color:red">Imp</span>](imp.md) peut se tuer lui-même et faire qu’un Sbire devienne le Démon, 
+- N’oubliez pas que l’[<span style="color:red">Diablotin</span>](imp.md) peut se tuer lui-même et faire qu’un Sbire devienne le Démon, 
   et que s’il est exécuté, la [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md) peut devenir le Démon. 
   Ainsi, même si vous avez obtenu un « non » sur quelqu’un plus tôt dans la partie, cela ne signifie pas qu’il ne soit pas le Démon à présent.
   Si vous pensez que le Démon est mort, essayez de choisir un joueur que vous soupçonnez d’être un Sbire et 
@@ -192,7 +192,7 @@ le [Gardien](gardien.md), peut vous aider à survivre plus longtemps, et ainsi v
  
 
 - Vous pouvez mentir en affirmant que « ces deux joueurs ne sont pas le Démon » afin d’innocenter vos alliés maléfiques.
-  La Voyante peut parfois recevoir des informations très confuses. Le [Reclus](reclus.md), peut apparaître comme le Démon. 
+  La Voyante peut parfois recevoir des informations très confuses. La [Recluse](reclus.md), peut apparaître comme le Démon. 
   Le Démon lui-même peut changer, par exemple en passant à un joueur qui était auparavant Sbire, 
   même en l’absence d'une [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md).
   
@@ -222,7 +222,7 @@ le [Gardien](gardien.md), peut vous aider à survivre plus longtemps, et ainsi v
   et aussi (dans les parties à un seul Sbire) qu’il ne reste qu’un seul joueur maléfique en vie. 
   Cette désinformation, bien qu’apparemment anodine, peut faire basculer la partie en votre faveur en augmentant la méfiance entre les joueurs vivants. 
   Elle est particulièrement efficace si vous faites passer un [Corneille](gardien.md) pour le Démon qui se serait tué lui-même pendant la nuit.
-- Si vous êtes l'[<span style="color:red">Imp</span>](imp.md), vous pouvez vous révéler publiquement comme [Voyante](voyante.md) et mourir volontairement la nuit, afin de rendre vos informations plus crédibles.
+- Si vous êtes l'[<span style="color:red">Diablotin</span>](imp.md), vous pouvez vous révéler publiquement comme [Voyante](voyante.md) et mourir volontairement la nuit, afin de rendre vos informations plus crédibles.
 
 
 - Si vous êtes la [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md), vous pouvez accuser publiquement votre véritable Démon 
