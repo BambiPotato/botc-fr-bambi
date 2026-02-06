@@ -132,9 +132,9 @@ Par exemple :
   </li>
 
   <li>
-    <a href="/legendaire.html" 
-       style="color:#d4a76a; font-weight:bold; text-decoration:none;">
-      Retour aux Légendaires
-    </a>
+    <a href="/botc-fr-bambi/legendaire.html"
+   style="color:#d4a76a; font-weight:bold; text-decoration:none;">
+  Retour aux Légendaires
+</a>
   </li>
 </ul>
