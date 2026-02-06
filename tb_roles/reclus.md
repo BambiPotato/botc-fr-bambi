@@ -113,9 +113,9 @@ le Conteur choisit si la Recluse est enregistrée comme ce Sbire ou Démon.
 
 ##  <span style="color:blue">Exemples</span>
 
-- La **[Pourfendeuse](./mercenaire.md)** utilise sa capacité sur la Recluse. Le Conteur décide qu’elle s’enregistre comme **[<span style="color:red">Diablotin</span>](imp.md)** → la Recluse meurt, et la **[Pourfendeuse](./mercenaire.md) pense avoir trouvé le Démon.  
+- La **[Pourfendeuse](./mercenaire.md)** utilise sa capacité sur la Recluse. Le Conteur décide qu’elle s’enregistre comme **[<span style="color:red">Diablotin</span>](imp.md)** → la Recluse meurt, et la **[Pourfendeuse](./mercenaire.md)** pense avoir trouvé le Démon.  
 - L’**[Empathe](./empathique.md)** est voisin de la Recluse et du **[Moine](./moine.md)**. Il apprend « 1 » la première nuit, puis « 0 » la suivante.  
-- Le**[Détective](./enqueteur.md)** apprend que la Recluse ou le **[Saint](./saint.md)** est la **[<span style="color:red">Femme Écarlate</span>](femmeecarlate.md)**.  
+- Le **[Détective](./enqueteur.md)** apprend que la Recluse ou le **[Saint](./saint.md)** est la **[<span style="color:red">Femme Écarlate</span>](femmeecarlate.md)**.  
 - La Recluse est exécutée. Le **[Fossoyeur](./croquemort.md)** apprend que c’était le**[<span style="color:red">Diablotin</span>](imp.md)**.  
 - La Recluse est voisine du **[<span style="color:red">Diablotin</span>](imp.md)**  et d’un Voyageur maléfique. Pour ne pas trop révéler, le Conteur décide de donner au **[Cuisinier](./cuistot.md)** une vraie info (« 0 »).  
 
@@ -127,7 +127,7 @@ le Conteur choisit si la Recluse est enregistrée comme ce Sbire ou Démon.
 **[Empathe](./empathique.md)**, **[Détective](./enqueteur.md)**, etc.).  
 - À l’inverse, cacher votre identité jusqu’au dernier jour peut vous éviter l’exécution prématurée.  
 - N’oubliez pas : vous êtes **bon** ! Vous êtes donc un moins bon choix d’exécution que n’importe quel joueur réellement maléfique.  
-- Vous serez souvent perçu comme **maléfique**. Une **[Pourfendeuse](./mercenaire.md)](./mercenaire.md)** risque de vous tuer par erreur, et le **[Fossoyeur](./croquemort.md)** verra souvent un rôle de Sbire/Démon.  
+- Vous serez souvent perçu comme **maléfique**. Une **[Pourfendeuse](./mercenaire.md)]** risque de vous tuer par erreur, et le **[Fossoyeur](./croquemort.md)** verra souvent un rôle de Sbire/Démon.  
 - Parfois, s’enregistrer comme maléfique aide : un [Empathe](./empathique.md) qui voit « 1 » grâce à vous peut ainsi identifier son autre voisin comme bon.  
 - Si le groupe est trop suspicieux, acceptez l’exécution avant le dernier jour pour prouver que vous n’étiez pas le Démon.  
 
