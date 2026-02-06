@@ -114,7 +114,7 @@ Le Corneille apprend le rôle d’un joueur s’il meurt la nuit.
 
 ##  <span style="color:blue">Conseils & Astuces</span>  
 - Si le Démon sait que vous êtes Corneille, il évitera souvent de vous tuer.  
-  Bluffez en prétendant être un rôle menaçant comme [Empathe](empathique.md), [Voyante](voyante.md),ou [Fossoyeur](croquemort.md)) pour attirer son attention. 
+  Bluffez en prétendant être un rôle menaçant comme [Empathe](empathique.md), [Voyante](voyante.md),ou [Fossoyeur](croquemort.md) pour attirer son attention. 
   
 - Réfléchissez à qui vous souhaitez cibler **avant la nuit**, pour ne pas décider dans la panique.  
   Choisir un joueur vivant est souvent plus utile qu’un mort : vous saurez qui ne pas exécuter ou qui ne pas croire.  
