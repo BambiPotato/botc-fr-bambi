@@ -135,12 +135,12 @@ Dans <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; t
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; margin-right:20px;">
   <li>
-    L’
-    <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Imp</a>
+    Le
+    <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>
     attaque le
     <a href="./maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a>
     → le Conteur choisit de tuer le
-    <a href="./gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a>
+    <a href="./gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a>
     à la place.
   </li>
   <li>Il reste trois joueurs en vie. Aucune nomination n'a lieu, il n'y a pas d'exécution aujourd'hui. Victoire pour le Bien.</li>
@@ -191,8 +191,8 @@ Dans <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; t
     tombe à l’eau.
   </li>
   <li>
-    Si une mort étrange survient, par exemple le
-    <a href="./reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a>
+    Si une mort étrange survient, par exemple la
+    <a href="./reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a>
     ou la
     <a href="./lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>,
     vous pouvez l’utiliser comme preuve que vous êtes Maire.
