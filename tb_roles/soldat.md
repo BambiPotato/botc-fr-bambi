@@ -1,3 +1,8 @@
+---
+layout: default
+title: Soldat
+---
+
 <p align="left">
   <a href="/botc-fr-bambi/">
     <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
@@ -101,9 +106,9 @@ Pendant la nuit, si le Démon attaque le Soldat, celui-ci reste en vie. (À l'au
 
 ##  <span style="color:blue">Exemples</span>
 
-- L’[<span style="color:red">Imp</span>](imp.md)  attaque le Soldat → le Soldat survit, personne ne meurt cette nuit-là.  
-- L' [<span style="color:red">Empoisonneur</span>](../tb_roles/empoisonneur.md) empoisonne le Soldat, puis l’[<span style="color:red">Imp</span>](imp.md) l’attaque → le Soldat meurt, car il n’a plus sa capacité.  
-- L’[<span style="color:red">Imp</span>](imp.md) attaque le Soldat, mais le Soldat est en réalité l’[Ivrogne](ivrogne.md) → il meurt.  
+- L’[<span style="color:red">Diablotin</span>](imp.md)  attaque le Soldat → le Soldat survit, personne ne meurt cette nuit-là.  
+- L' [<span style="color:red">Empoisonneur</span>](../tb_roles/empoisonneur.md) empoisonne le Soldat, puis l’[<span style="color:red">Diablotin</span>](imp.md) l’attaque → le Soldat meurt, car il n’a plus sa capacité.  
+- L’[<span style="color:red">Diablotin</span>](imp.md) attaque le Soldat, mais le Soldat est en réalité l’[Ivrogne](ivrogne.md) → il meurt.  
 
 ---
 
@@ -111,7 +116,7 @@ Pendant la nuit, si le Démon attaque le Soldat, celui-ci reste en vie. (À l'au
 
 - Si vous survivez à une attaque du Démon, la nuit se solde par **aucune mort** :le groupe a plus de temps pour exécuter et cela appuie votre rôle.  
 - Vous ne saurez jamais avec certitude si vous avez été attaqué. Un [Moine](moine.md) peut avoir protégé quelqu’un, ou le Démon peut avoir ciblé un joueur déjà mort.  
-- Faites semblant d’être une cible intéressante pour le Démon : bluffez en [Voyante](voyante.md), [Croque-Mort](croque-mort.md), [Empathique](empathique.md) ou [Mercenaire](mercenaire.md) pour l’inciter à vous attaquer.  
+- Faites semblant d’être une cible intéressante pour le Démon : bluffez en [Voyante](voyante.md), [Fossoyeur](croque-mort.md), [Empathe](empathique.md) ou [Pourfendeuse](mercenaire.md) pour l’inciter à vous attaquer.  
 - Si vous prouvez être le Soldat, le groupe peut réduire les suspects à la fin de partie (de 3 ou 4 joueurs à seulement 2 ou 3).  
 - Ne révélez pas trop vite votre rôle. Attendez que l’absence de mort vous appuie.  
 - Si vous mourez la nuit, c’est soit que vous êtes empoisonné, soit que vous êtes l’Ivrogne → informations précieuses pour l’équipe des Bons.  
