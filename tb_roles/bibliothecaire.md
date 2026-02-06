@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bibliothécaire  
+title: Archiviste  
 ---
 
 
@@ -12,7 +12,7 @@ title: Bibliothécaire
 
 ---
 
-#  <span style="color:blue">Bibliothécaire</span>  
+#  <span style="color:blue">Archiviste</span>  
 
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
@@ -20,7 +20,7 @@ title: Bibliothécaire
   <a href="./bibliothecaire.html" style="text-decoration:none;">
     <img src="../images/Icon_librarian.png" alt="Bibliothécaire" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:blue; font-weight:bold; font-size:22px;">Bibliothecaire</span>
+    <span style="color:blue; font-weight:bold; font-size:22px;">Archiviste</span>
   </a>
 </div>
 
@@ -82,24 +82,24 @@ title: Bibliothécaire
 
 ##  <span style="color:blue">Résumé</span>  
 
-« Vous commencez en apprenant 2 joueurs et le rôle d’**Étranger** de l’un des deux.(Ou qu'il y a zéro étranger en jeu.) »  
+« Vous commencez en apprenant 2 joueurs et le rôle d’**Étranger** (Marginal) de l’un des deux.(Ou qu'il y a zéro étranger en jeu.) »  
 
-Le **Bibliothécaire** apprend qu’un rôle **Étranger** est en jeu, mais pas exactement de quel joueur il s'agit.
+L' **Archiviste** apprend qu’un rôle **Étranger** est en jeu, mais pas exactement de quel joueur il s'agit.
 
-Lors de la première nuit, le Bibliothécaire apprend que l’un de deux joueurs est un Étranger spécifique.  
+Lors de la première nuit, l'Archiviste  apprend que l’un de deux joueurs est un Étranger spécifique.  
 Il ne l’apprend qu’une seule fois, puis plus rien.  
 
-⚠️ L’[Ivrogne](ivrogne.md) est un Étranger. Si le Bibliothécaire apprend qu’un des deux joueurs est l’Ivrogne, il n’apprend pas le rôle [Villageois](../glossaire.md#villageois) que l’Ivrogne croit avoir.  
+⚠️ L’[Ivrogne](ivrogne.md) est un Étranger. Si l'Archiviste apprend qu’un des deux joueurs est l’Ivrogne, il n’apprend pas le rôle [Villageois](../glossaire.md#villageois) que l’Ivrogne croit avoir.  
 
 ---
 
 ##  <span style="color:blue">Comment Conter</span>  
 
-- Pendant la préparation de la première nuit, placez le jeton de rappel **ÉTRANGER** du Bibliothécaire à côté du jeton de rôle d’un Étranger,  
-  et placez placez le jeton de rappel  **FAUX** du Bibliothécaire à côté de n’importe quel autre rôle.  
+- Pendant la préparation de la première nuit, placez le jeton de rappel **ÉTRANGER** de l'Archiviste à côté du jeton de rôle d’un Étranger,  
+  et placez placez le jeton de rappel  **FAUX** d'Archiviste à côté de n’importe quel autre rôle.  
 
-- Réveillez ensuite le Bibliothécaire et **montrez les deux joueurs marqués ÉTRANGER et FAUX**.  
-- Montrez ensuite le jeton de rôle marqué **ÉTRANGER** au Bibliothécaire.  
+- Réveillez ensuite l'Archiviste et **montrez les deux joueurs marqués ÉTRANGER et FAUX**.  
+- Montrez ensuite le jeton de rôle marqué **ÉTRANGER** à l'Archiviste  .  
 - Rendormez le Bibliothécaire.  
 - Retirez ses jetons mémo quand cela n’est plus utile.  
 
@@ -113,7 +113,7 @@ Il ne l’apprend qu’une seule fois, puis plus rien.
 - Il n’y a aucun Étranger dans cette partie.  
   → Le Bibliothécaire apprend un « 0 ».  
 
-- **Julien** est l’[Ivrogne](ivrogne.md) (il croit être le [Moine](moine.md)) et **Tanina** est le [Croque-Mort](croquemort.md).  
+- **Julien** est l’[Ivrogne](ivrogne.md) (il croit être le [Moine](moine.md)) et **Tanina** est le [Fossoyeur](croquemort.md).  
   → Le Bibliothécaire apprend que soit Julien, soit Tanina est l’Ivrogne.  
   (Cela arrive car le Bibliothécaire apprend le vrai rôle. Le vrai rôle de Julien est Ivrogne, pas Moine.)  
 
@@ -128,12 +128,12 @@ Il ne l’apprend qu’une seule fois, puis plus rien.
 - Si vous recevez un **0**, c’est extrêmement puissant (sauf si vous êtes [Ivrogne](ivrogne.md) ou Empoisonné·e) :  
   → cela signifie qu’il n’y a **aucun Étranger** en jeu. Donc pas de  [<span style="color:red">Baron</span>](../tb_roles/baron.md) , et toute personne qui prétend être Étranger bluffe probablement pour le Mal.  
 
-- Partager votre info tôt peut confirmer un joueur du Bien et appuyer d’autres [Villageois](../glossaire.md#villageois) comme l’[Empathique](empathique.md) ou le [Gardien](gardien.md).  
+- Partager votre info tôt peut confirmer un joueur du Bien et appuyer d’autres [Villageois](../glossaire.md#villageois) comme l’[Empathe](empathique.md) ou le [Corneille](gardien.md).  
 
 - Garder votre info pour plus tard peut aussi être stratégique : sur la dernière journée, révéler qu’un joueur n’est pas le [Démon](../glossaire.md#démon) réduit le choix de 3 à 2 suspects.  
 
 - Comme vous avez toutes vos infos dès la première nuit, vous pouvez confirmer en nommant une [Vierge](vierge.md).  
-  Ou alors, prétendre être un rôle plus puissant pour détourner le <span style="color:red">**Démon**</span> de cibles clés comme le [Moine](moine.md) ou le [Croque-Mort](croquemort.md).  
+  Ou alors, prétendre être un rôle plus puissant pour détourner le <span style="color:red">**Démon**</span> de cibles clés comme le [Moine](moine.md) ou le [Fossoyeur](croquemort.md).  
 
 - Attention à l’[Ivrogne](ivrogne.md) : si les deux joueurs vus sont en fait Ivrogne, il est crucial de le dire vite, surtout si l’un pense être un rôle à informations.  
 
@@ -144,7 +144,7 @@ Il ne l’apprend qu’une seule fois, puis plus rien.
 
 ---
 
-##  <span style="color:blue">Bluffer Bibliothécaire</span>   
+##  <span style="color:blue">Bluffer Archiviste</span>   
 
 - Vous êtes censé avoir reçu vos infos la première nuit.  
   Vous aurez donc « vu » deux joueurs et un jeton d’[Étranger](../glossaire.md#étranger).  
@@ -160,7 +160,7 @@ Il ne l’apprend qu’une seule fois, puis plus rien.
   - qu’un joueur du Bien confirme vos dires,  
   - ou qu’un joueur du Mal saute sur l’occasion pour bluffer.  
 
-- Si vous êtes [<span style="color:red">Espion</span>](../tb_roles/espion.md), vos infos peuvent être exactes et renforcer encore votre crédibilité.  
+- Si vous êtes [<span style="color:red">Espionne</span>](../tb_roles/espion.md), vos infos peuvent être exactes et renforcer encore votre crédibilité.  
 
 ---
 
