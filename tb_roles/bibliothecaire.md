@@ -125,14 +125,14 @@ Il ne l’apprend qu’une seule fois, puis plus rien.
   Même si son pouvoir est parfois un handicap, il est toujours **bon** et donc un vote sûr.  
   Savoir qu’une personne n’est pas le <span style="color:red">**Démon**</span>  est déjà une information précieuse.  
 
-- Si vous recevez un **0**, c’est extrêmement puissant (sauf si vous êtes [Ivrogne](ivrogne.md) ou Empoisonné·e) :  
+- Si vous recevez un **0**, c’est extrêmement puissant (sauf si vous êtes [Ivrogne](ivrogne.md) ou Empoisonné ) :  
   → cela signifie qu’il n’y a **aucun Étranger** en jeu. Donc pas de  [<span style="color:red">Baron</span>](../tb_roles/baron.md) , et toute personne qui prétend être Étranger bluffe probablement pour le Mal.  
 
 - Partager votre info tôt peut confirmer un joueur du Bien et appuyer d’autres [Villageois](../glossaire.md#villageois) comme l’[Empathe](empathique.md) ou le [Corneille](gardien.md).  
 
 - Garder votre info pour plus tard peut aussi être stratégique : sur la dernière journée, révéler qu’un joueur n’est pas le [Démon](../glossaire.md#démon) réduit le choix de 3 à 2 suspects.  
 
-- Comme vous avez toutes vos infos dès la première nuit, vous pouvez confirmer en nommant une [Vierge](vierge.md).  
+- Comme vous avez toutes vos infos dès la première nuit, vous pouvez confirmer en nommant une [Innocente](vierge.md).  
   Ou alors, prétendre être un rôle plus puissant pour détourner le <span style="color:red">**Démon**</span> de cibles clés comme le [Moine](moine.md) ou le [Fossoyeur](croquemort.md).  
 
 - Attention à l’[Ivrogne](ivrogne.md) : si les deux joueurs vus sont en fait Ivrogne, il est crucial de le dire vite, surtout si l’un pense être un rôle à informations.  
@@ -150,7 +150,7 @@ Il ne l’apprend qu’une seule fois, puis plus rien.
   Vous aurez donc « vu » deux joueurs et un jeton d’[Étranger](../glossaire.md#étranger).  
 
 - Utilisez vos infos pour :  
-  - Faire passer un complice du Mal pour bon (ex. confirmer un [Saint](saint.md) ou un [Reclus](reclus.md)).  
+  - Faire passer un complice du Mal pour bon (ex. confirmer un [Saint](saint.md) ou une [Recluse](reclus.md)).  
   - Renforcer la crédibilité d’un joueur du Bien, afin de mieux l’orienter plus tard.  
   - Nommer deux bons joueurs comme « [Ivrogne](ivrogne.md) », ce qui sème le doute dans leurs infos.  
   - Nommer un allié maléfique comme potentiel Ivrogne : s’il se contredit, ce n’est pas grave !  
