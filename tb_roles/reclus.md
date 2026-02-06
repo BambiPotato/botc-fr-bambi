@@ -116,7 +116,7 @@ le Conteur choisit si la Recluse est enregistrée comme ce Sbire ou Démon.
 - La **[Pourfendeuse](./mercenaire.md)** utilise sa capacité sur la Recluse. Le Conteur décide qu’elle s’enregistre comme **[<span style="color:red">Diablotin</span>](imp.md)** → la Recluse meurt, et la **[Pourfendeuse](./mercenaire.md)** pense avoir trouvé le Démon.  
 - L’**[Empathe](./empathique.md)** est voisin de la Recluse et du **[Moine](./moine.md)**. Il apprend « 1 » la première nuit, puis « 0 » la suivante.  
 - Le **[Détective](./enqueteur.md)** apprend que la Recluse ou le **[Saint](./saint.md)** est la **[<span style="color:red">Femme Écarlate</span>](femmeecarlate.md)**.  
-- La Recluse est exécutée. Le **[Fossoyeur](./croquemort.md)** apprend que c’était le**[<span style="color:red">Diablotin</span>](imp.md)**.  
+- La Recluse est exécutée. Le **[Fossoyeur](./croquemort.md)** apprend que c’était le **[<span style="color:red">Diablotin</span>](imp.md)**.  
 - La Recluse est voisine du **[<span style="color:red">Diablotin</span>](imp.md)**  et d’un Voyageur maléfique. Pour ne pas trop révéler, le Conteur décide de donner au **[Cuisinier](./cuistot.md)** une vraie info (« 0 »).  
 
 ---
