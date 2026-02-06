@@ -171,7 +171,7 @@ title: Ivrogne
     Savoir qu’un <a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> est en jeu est important :<br>
     cela permet aux <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> de savoir si leurs informations doivent être scrutées davantage.<br>
     Le signe le plus évident est un nombre d’<a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a> différent de celui attendu<br>
-    (s’il y en a plus, il peut y avoir un <a href="./baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> qui a laissé entrer un <a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> en ville).
+    (s’il y en a plus, il peut y avoir un <a href="./baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> qui a laissé entrer un <a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> dans le Village).
   </li>
   <li>
     Si vous suspectez un <a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>, essayez d’identifier quel <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> c’est le plus tôt possible.<br>
@@ -190,7 +190,7 @@ title: Ivrogne
     Des rôles comme le
     <a href="./croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a>
     et le
-    <a href="./gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a><br>
+    <a href="./gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a><br>
     verront le rôle <a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> lorsqu’ils vérifient ce joueur.<br>
     Vous ne “comptez” pas comme un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> :<br>
     vous pensez juste l’être.<br>
