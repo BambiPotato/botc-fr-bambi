@@ -15,7 +15,9 @@ title: Imp
   <a href="./imp.html" style="text-decoration:none;">
     <img src="../images/Icon_imp.png" alt="Imp" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:#d45b5b; font-weight:bold; font-size:22px;">Imp</span>
+    <span style="color:#d45b5b; font-weight:bold; font-size:22px;">
+  {{ site.data.libelles.roles.imp }}
+</span>
   </a>
 </div>
 
