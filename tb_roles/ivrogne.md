@@ -211,7 +211,7 @@ title: Ivrogne
     mais parfois le Conteur peut vous dire la vérité si l’alternative révélerait forcément que vous êtes l’<a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>.
   </li>
   <li>
-    Gardez à l’esprit que des rôles comme le
+    Gardez à l’esprit que des rôles comme la
     <a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse </a>,<br>
     le
     <a href="./moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a><br>
