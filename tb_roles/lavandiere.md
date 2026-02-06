@@ -111,29 +111,29 @@ title: Lavandière
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li><strong>Cédric</strong> est
-    <a href="./cuistot.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Cuistot</a>,
+    <a href="./cuistot.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Cuisinier</a>,
     et <strong>Céline</strong> est
-    <a href="./gardien.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Gardien</a>
+    <a href="./gardien.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Corneille</a>
     → la Lavandière apprend que l’un des deux est le
-    <a href="./cuistot.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Cuistot</a>.
+    <a href="./cuistot.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Cuisinier</a>.
   </li>
 
   <li><strong>Julien</strong> est
-    <a href="./imp.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Imp</a>,
-    et <strong>Vanessa</strong> est
-    <a href="./vierge.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Vierge</a>
-    → la Lavandière apprend que l’un des deux est la
-    <a href="./vierge.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Vierge</a>.
+    <a href="./imp.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Diablotin</a>,
+    et <strong>Vanessa</strong> est l'
+    <a href="./vierge.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Innocente</a>
+    → la Lavandière apprend que l’un des deux est l'
+    <a href="./vierge.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Innocente</a>.
   </li>
 
   <li><strong>Tania</strong> est
-    <a href="./espion.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Espion</a>,
+    <a href="./espion.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Espionne</a>,
     et <strong>Leila</strong> est
     <a href="./femmeecarlate.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Femme Écarlate</a>
     → la Lavandière apprend que l’un des deux est le
-    <a href="./gardien.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Gardien</a>.
+    <a href="./gardien.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Corneillen</a>.
     <span style="opacity:.9;">(Ici, l’</span>
-    <a href="./espion.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Espion</a>
+    <a href="./espion.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Espionne</a>
     <span style="opacity:.9;"> s’enregistre comme </span>
     <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>
     <span style="opacity:.9;">.)</span>
@@ -165,10 +165,10 @@ title: Lavandière
     (ex. cacher une
     <a href="./voyante.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Voyante</a>
     ou un
-    <a href="./empathique.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Empathique</a>).
+    <a href="./empathique.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Empathe</a>).
   </li>
   <li>Attention à l’
-    <a href="./espion.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Espion</a> :
+    <a href="./espion.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Espionne</a> :
     il peut apparaître comme
     <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>
     auprès de vous.
@@ -194,9 +194,9 @@ title: Lavandière
     ou empoisonné ou empoisonnée.
   </li>
   <li>En tant qu’
-    <a href="./espion.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Espion</a>
+    <a href="./espion.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Espionne</a>
     (ou allié d’un
-    <a href="./espion.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Espion</a>), vous savez quels rôles sont vraiment en jeu.
+    <a href="./espion.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Espionne</a>), vous savez quels rôles sont vraiment en jeu.
   </li>
   <li>Bluff risqué : si le rôle que vous citez n’est pas en jeu, votre couverture tombe vite.</li>
 </ul>
