@@ -143,12 +143,12 @@ title: Diablotin
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; white-space:normal; overflow-wrap:anywhere; word-break:break-word;">
   <li>
     C’est la première nuit.<br>
-    Le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> apprend que Céline et Tania sont les <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>.<br>
-    Le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> apprend aussi que 3 rôles bons qui ne sont pas en jeu :<br>
+    Le <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> apprend que Céline et Tania sont les <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>.<br>
+    Le <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> apprend aussi que 3 rôles bons qui ne sont pas en jeu :<br>
     <a href="./moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a><br>
     <a href="./cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a><br>
     <a href="./bibliothecaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Archiviste</a><br>
-    Le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> bluffe le 
+    Le <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> bluffe le 
     <a href="./cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a>, puis bluffe le 
     <a href="./maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a>
     à mi-partie.<br>
@@ -375,12 +375,12 @@ peut se faire passer pour une cible intéressante, laissant sa capacité encaiss
       </li>
       <li>
         Choisir de mourir puis bluffer le
-        <a href="./gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a>,<br>
+        <a href="./gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a>,<br>
         afin de confirmer le bluff d’un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> devenu <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.
       </li>
       <li>
         Bluffer des rôles comme :<br>
-        <a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Diablotin</a>,
+        <a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a>,
         « tirer » sur son <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>, puis mourir.<br>
         Variante : pousser un vrai
         <a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a>
