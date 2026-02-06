@@ -86,7 +86,7 @@ title: Saint
   <li>Si le <strong>Saint</strong> meurt <strong>par exécution</strong>, <strong>annoncez immédiatement la fin de la partie</strong> : <strong>le Mal l’emporte</strong>.</li>
   <li>Si le Saint <strong>ne meurt pas par exécution</strong>, <strong>la partie continue</strong>.</li>
   <li>La formulation « <em>votre équipe perd</em> » signifie ici « le Bien perd » car le Saint est toujours Bon dans <strong>Trouble Brewing</strong>..</li>
-  <li>Dans d’autres éditions, si le Saint peut devenir maléfique, inversez selon l’alignement réel au moment de l’exécution;, (appliquez littéralement)<br>
+  <li>Dans d’autres éditions, si le Saint peut devenir maléfique, inversez selon l’alignement réel au moment de l’exécution; (appliquez littéralement)<br>
   « <em>votre équipe perd</em> ». Si un Saint <strong>maléfique</strong> est exécuté, alors <strong>le Bien gagne</strong>.</li>
 </ul>
 
@@ -100,7 +100,7 @@ title: Saint
   <li>Ensuite, le <strong><a href="./baron.html" style="text-decoration:none;"><span style="color:red">Baron</span></a></strong> est nommé mais n’obtient que 3 votes.<br>
   Aucune autre nomination n'est faite aujourd'hui. : le Saint est exécuté → <strong>fin de partie, le Mal triomphe</strong>.</li>
 
-  <li>L’<strong><a href="./imp.html" style="text-decoration:none;"><span style="color:red">Imp</span></a></strong> est nommé et les joueurs votent. Le <strong><a href="../voyageurs/gunslinger.html" style="text-decoration:none;"><span style="color:purple">Gunslinger</span></a></strong> tue le Saint pendant la journée ; le Saint <strong>meurt</strong>, <strong>mais la partie continue</strong> (ce n’est pas une exécution).</li>
+  <li>Le <strong><a href="./imp.html" style="text-decoration:none;"><span style="color:red">Diablotin</span></a></strong> est nommé et les joueurs votent. Le <strong><a href="../voyageurs/gunslinger.html" style="text-decoration:none;"><span style="color:purple">Gunslinger</span></a></strong> tue le Saint pendant la journée ; le Saint <strong>meurt</strong>, <strong>mais la partie continue</strong> (ce n’est pas une exécution).</li>
 
   <li><strong>Le Saint</strong> est « exécuté », mais l’effet du <strong><a href="../voyageurs/scapegoat.html" style="text-decoration:none;"><span style="color:purple">Bouc Émissaire</span></a></strong> se déclenche : c’est le <a href="../voyageurs/boucemissaire.html" style="text-decoration:none;"><span style="color:purple">Bouc Émissaire</span></a> qui meurt <strong>à la place</strong>. <strong>Le Saint n’est pas mort</strong>, donc <strong>la partie continue</strong>.</li>
 </ul>
@@ -160,8 +160,8 @@ L'Équipe du Bien peut malgré tout hésiter à vous exécuter avant le dernier 
     </ul>
   </li>
 
-  <li>Si vous êtes l’
-<span style="color:#d45b5b; font-weight:bold;"><a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Imp</a></span>, <br>
+  <li>Si vous êtes le
+<span style="color:#d45b5b; font-weight:bold;"><a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a></span>, <br>
 vous savez que votre exécution fait perdre votre équipe s’il n’y a pas de <br>
 <span style="color:#d45b5b; font-weight:bold;"><a href="./femme_ecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme Écarlate</a></span>
 en jeu.</li>
@@ -253,7 +253,7 @@ mais cela n’est pas possible avec le
 <span style="color:#4ea3ff; font-weight:bold;"><a href="./saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a></span>.</li>
 
   <li>Prétendre être un 
-<span style="color:#4ea3ff; font-weight:bold;"><a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a></span> 
+<span style="color:#4ea3ff; font-weight:bold;"><a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a></span> 
 peut masquer la présence de l’
 <span style="color:#4ea3ff; font-weight:bold;"><a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a></span> <br>
 ou amener l’équipe du Bien à penser qu’un 
