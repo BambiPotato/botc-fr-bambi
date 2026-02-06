@@ -170,7 +170,7 @@ title: Ivrogne
   <li>
     Savoir qu’un <a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> est en jeu est important :<br>
     cela permet aux <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> de savoir si leurs informations doivent être scrutées davantage.<br>
-    Le signe le plus évident est un nombre d’<a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a> différent de celui attendu<br>
+    Le signe le plus évident est un nombre de <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a> différent de celui attendu<br>
     (s’il y en a plus, il peut y avoir un <a href="./baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> qui a laissé entrer un <a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> dans le Village).
   </li>
   <li>
@@ -218,7 +218,7 @@ title: Ivrogne
     et le
     <a href="./maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a><br>
     ne peuvent pas influencer la partie avec leur capacité s’ils sont en réalité l’<a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>.<br>
-    Par exemple, un <a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a> ne tuera pas un bon joueur “à la place du <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>” :<br>
+    Par exemple, un <a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse </a> ne tuera pas un bon joueur “à la place du <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>” :<br>
     son tir échouera toujours.
   </li>
 </ul>
@@ -259,7 +259,7 @@ title: Ivrogne
     Bluffez un rôle dont la capacité peut “échouer”, puis réagissez avec surprise et proposez que vous soyez l’<a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>.<br>
     Par exemple : bluffez le <a href="./moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> et dites que la personne protégée est morte quand même ;<br>
     bluffez le <a href="./soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a> et faites-vous tuer ;<br>
-    bluffez le <a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a> ou nommez la <a href="./vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Vierge</a> et faites semblant d’être choqué que rien ne se passe.
+    bluffez l' <a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a> ou nommez la <a href="./vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Innoce,te</a> et faites semblant d’être choqué que rien ne se passe.
   </li>
   <li>
     Insinuez qu’il y a un <a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> en jeu et lancez une “chasse à l’Ivrogne” :<br>
