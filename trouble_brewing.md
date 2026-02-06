@@ -46,26 +46,26 @@ title: Trouble Brewing
   <p style="font-weight:bold; color:#80aee0; margin-bottom:4px;">Villageois</p>
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
     <li><a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; text-decoration:none;">Lavandière</a></li>
-    <li><a href="./tb_roles/bibliothecaire.html" style="color:#4ea3ff; text-decoration:none;">Bibliothécaire</a></li>
-    <li><a href="./tb_roles/enqueteur.html" style="color:#4ea3ff; text-decoration:none;">Enquêteur</a></li>
-    <li><a href="./tb_roles/cuistot.html" style="color:#4ea3ff; text-decoration:none;">Cuistot</a></li>
-    <li><a href="./tb_roles/empathique.html" style="color:#4ea3ff; text-decoration:none;">Empathique</a></li>
+    <li><a href="./tb_roles/bibliothecaire.html" style="color:#4ea3ff; text-decoration:none;">Archiviste</a></li>
+    <li><a href="./tb_roles/enqueteur.html" style="color:#4ea3ff; text-decoration:none;">Détective</a></li>
+    <li><a href="./tb_roles/cuistot.html" style="color:#4ea3ff; text-decoration:none;">Cuisinier</a></li>
+    <li><a href="./tb_roles/empathique.html" style="color:#4ea3ff; text-decoration:none;">Empathe</a></li>
     <li><a href="./tb_roles/voyante.html" style="color:#4ea3ff; text-decoration:none;">Voyante</a></li>
-    <li><a href="./tb_roles/croquemort.html" style="color:#4ea3ff; text-decoration:none;">Croque-Mort</a></li>
+    <li><a href="./tb_roles/croquemort.html" style="color:#4ea3ff; text-decoration:none;">Fossoyeur</a></li>
     <li><a href="./tb_roles/moine.html" style="color:#4ea3ff; text-decoration:none;">Moine</a></li>
-    <li><a href="./tb_roles/gardien.html" style="color:#4ea3ff; text-decoration:none;">Gardien</a></li>
-    <li><a href="./tb_roles/vierge.html" style="color:#4ea3ff; text-decoration:none;">Vierge</a></li>
-    <li><a href="./tb_roles/mercenaire.html" style="color:#4ea3ff; text-decoration:none;">Mercenaire</a></li>
+    <li><a href="./tb_roles/gardien.html" style="color:#4ea3ff; text-decoration:none;">Corneille</a></li>
+    <li><a href="./tb_roles/vierge.html" style="color:#4ea3ff; text-decoration:none;">Innocente</a></li>
+    <li><a href="./tb_roles/mercenaire.html" style="color:#4ea3ff; text-decoration:none;">Pourfendeuse </a></li>
     <li><a href="./tb_roles/soldat.html" style="color:#4ea3ff; text-decoration:none;">Soldat</a></li>
     <li><a href="./tb_roles/maire.html" style="color:#4ea3ff; text-decoration:none;">Maire</a></li>
   </ul>
 
   <!-- Étrangers -->
-  <p style="font-weight:bold; color:#80aee0; margin-bottom:4px;">Étrangers</p>
+  <p style="font-weight:bold; color:#80aee0; margin-bottom:4px;">Marginaux</p>
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
     <li><a href="./tb_roles/majordome.html" style="color:#4ea3ff; text-decoration:none;">Majordome</a></li>
     <li><a href="./tb_roles/ivrogne.html" style="color:#4ea3ff; text-decoration:none;">Ivrogne</a></li>
-    <li><a href="./tb_roles/reclus.html" style="color:#4ea3ff; text-decoration:none;">Reclus</a></li>
+    <li><a href="./tb_roles/reclus.html" style="color:#4ea3ff; text-decoration:none;">Recluse</a></li>
     <li><a href="./tb_roles/saint.html" style="color:#4ea3ff; text-decoration:none;">Saint</a></li>
   </ul>
 
@@ -73,7 +73,7 @@ title: Trouble Brewing
   <p style="font-weight:bold; color:#a86464; margin-bottom:4px;">Sbires</p>
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
     <li><a href="./tb_roles/empoisonneur.html" style="color:#d45b5b; text-decoration:none;">Empoisonneur</a></li>
-    <li><a href="./tb_roles/espion.html" style="color:#d45b5b; text-decoration:none;">Espion</a></li>
+    <li><a href="./tb_roles/espion.html" style="color:#d45b5b; text-decoration:none;">Espionne</a></li>
     <li><a href="./tb_roles/femmeecarlate.html" style="color:#d45b5b; text-decoration:none;">Femme Écarlate</a></li>
     <li><a href="./tb_roles/baron.html" style="color:#d45b5b; text-decoration:none;">Baron</a></li>
   </ul>
@@ -103,7 +103,7 @@ title: Trouble Brewing
   <span style="font-weight:bold;">3.</span>
   <a href="#villageois" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Villageois</a><br>
   <span style="font-weight:bold;">4.</span>
-  <a href="#etrangers" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Étrangers</a><br>
+  <a href="#etrangers" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Marginaux</a><br>
   <span style="font-weight:bold;">5.</span>
   <a href="#sbires" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Sbires</a><br>
   <span style="font-weight:bold;">6.</span>
@@ -178,25 +178,25 @@ Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient
   <!-- Bibliothécaire -->
   <a href="./tb_roles/bibliothecaire.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
     <img src="./images/Icon_librarian.png" alt="Bibliothécaire" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
-    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Bibliothécaire</span>
+    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Archiviste</span>
   </a>
 
   <!-- Enquêteur -->
   <a href="./tb_roles/enqueteur.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
     <img src="./images/Icon_investigator.png" alt="Enquêteur" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
-    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Enquêteur</span>
+    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Détective</span>
   </a>
 
   <!-- Cuistot -->
   <a href="./tb_roles/cuistot.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
     <img src="./images/Icon_chef.png" alt="Cuistot" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
-    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Cuistot</span>
+    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Cuisinier</span>
   </a>
 
   <!-- Empathique -->
   <a href="./tb_roles/empathique.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
     <img src="./images/Icon_empath.png" alt="Empathique" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
-    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Empathique</span>
+    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Empathe</span>
   </a>
 
   <!-- Voyante -->
@@ -208,7 +208,7 @@ Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient
   <!-- Croque-Mort -->
   <a href="./tb_roles/croquemort.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
     <img src="./images/Icon_undertaker.png" alt="Croque-Mort" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
-    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Croque-Mort</span>
+    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Fossoyeur</span>
   </a>
 
   <!-- Moine -->
@@ -220,19 +220,19 @@ Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient
   <!-- Gardien -->
   <a href="./tb_roles/gardien.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
     <img src="./images/Icon_ravenkeeper.png" alt="Gardien" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
-    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Gardien</span>
+    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Corneille</span>
   </a>
 
   <!-- Vierge -->
   <a href="./tb_roles/vierge.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
     <img src="./images/Icon_virgin.png" alt="Vierge" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
-    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Vierge</span>
+    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Innocente</span>
   </a>
 
   <!-- Mercenaire -->
   <a href="./tb_roles/mercenaire.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
     <img src="./images/Icon_slayer.png" alt="Mercenaire" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
-    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Mercenaire</span>
+    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Pourfendeuse </span>
   </a>
 
   <!-- Soldat -->
@@ -252,7 +252,7 @@ Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient
 ---
 
 <p style="text-align:left; color:#e0c99d; font-size:20px;">
-  <a id="etrangers" href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>
+  <a id="etrangers" href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>
 </p>
 
 <!-- GRID ÉTRANGERS -->
@@ -273,7 +273,7 @@ Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient
   <!-- Reclus -->
   <a href="./tb_roles/reclus.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
     <img src="./images/Icon_recluse-1.png" alt="Reclus" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
-    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Reclus</span>
+    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Recluse</span>
   </a>
 
   <!-- Saint -->
@@ -302,7 +302,7 @@ Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient
   <!-- Espion -->
   <a href="./tb_roles/espion.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
     <img src="./images/Icon_spy.png" alt="Espion" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
-    <span style="display:block; color:red; font-weight:bold; font-size:18px; margin-top:6px;">Espion</span>
+    <span style="display:block; color:red; font-weight:bold; font-size:18px; margin-top:6px;">Espionne</span>
   </a>
 
   <!-- Femme Écarlate -->
@@ -331,7 +331,7 @@ Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient
   <!-- Imp -->
   <a href="./tb_roles/imp.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
     <img src="./images/Icon_imp.png" alt="Imp" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
-    <span style="display:block; color:red; font-weight:bold; font-size:18px; margin-top:6px;">Imp</span>
+    <span style="display:block; color:red; font-weight:bold; font-size:18px; margin-top:6px;">Diablotin</span>
   </a>
 
 </div>
