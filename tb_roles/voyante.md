@@ -178,7 +178,7 @@ et qu’un « oui » ne constitue pas une confirmation certaine de la présence 
   
 
 - Prétendre être un rôle que le Démon n’a généralement aucun intérêt à tuer, comme le [Saint](saint.md), le [Soldat](soldat.md) ou 
-le [Gardien](gardien.md), peut vous aider à survivre plus longtemps, et ainsi vous laisser le temps nécessaire pour recueillir des informations réellement utiles.
+le [Corneille](gardien.md), peut vous aider à survivre plus longtemps, et ainsi vous laisser le temps nécessaire pour recueillir des informations réellement utiles.
 
 ---
 
