@@ -227,10 +227,10 @@ le [Gardien](gardien.md), peut vous aider à survivre plus longtemps, et ainsi v
 
 - Si vous êtes la [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md), vous pouvez accuser publiquement votre véritable Démon 
 et mener la charge pour son exécution. 
-- Cela donnera à des rôles comme le [Croque-Mort](croquemort.md) une information positive indiquant « Démon », ce qui renforce considérablement votre bluff.
-- Si vous savez qu’une [Recluse](reclus.md) est en jeu, affirmez avoir obtenu un « oui » sur lui. 
-  Si vous êtes, ou avez discuté avec, un [<span style="color:red">Espion</span>](espion.md),<br> 
-  vous pouvez même annoncer ce « oui » avant que le [Reclus](reclus.md) ne révèle son rôle, ce qui rendra votre information encore plus crédible.
+- Cela donnera à des rôles comme le [Fossoyeur](croquemort.md) une information positive indiquant « Démon », ce qui renforce considérablement votre bluff.
+- Si vous savez qu’une [Recluse](reclus.md) est en jeu, affirmez avoir obtenu un « oui » sur elle. 
+  Si vous êtes, ou avez discuté avec, une [<span style="color:red">Espionne</span>](espion.md),<br> 
+  vous pouvez même annoncer ce « oui » avant que la [Recluse](reclus.md) ne révèle son rôle, ce qui rendra votre information encore plus crédible.
 
 
 ---
