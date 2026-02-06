@@ -78,28 +78,28 @@ title: Diablotin
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
   <strong>« Chaque nuit* (sauf la première), choisissez un joueur : il meurt.
-  Si vous vous tuez de cette façon, un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> devient Imp. »</strong>
+  Si vous vous tuez de cette façon, un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> devient Diablotin. »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px; white-space:normal; overflow-wrap:anywhere; word-break:break-word;">
-  <span style="color:#f5f5f5; font-weight:bold;">L'Imp</span> tue un joueur chaque nuit, et peut se copier lui-même… pour un prix terrible.
+  <span style="color:#f5f5f5; font-weight:bold;">Le Diablotin</span> tue un joueur chaque nuit, et peut se copier lui-même… pour un prix terrible.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; white-space:normal; overflow-wrap:anywhere; word-break:break-word;">
   <li>
-    Chaque nuit (sauf la première), l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> choisit un joueur à tuer.<br>
+    Chaque nuit (sauf la première), le <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> choisit un joueur à tuer.<br>
     Comme la plupart des rôles agissent après le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>,<br>
     ce joueur n’utilisera probablement pas sa capacité cette nuit.
   </li>
   <li>
-    L’<span style="color:#f5f5f5; font-weight:bold;">Imp</span>, parce qu’il est un <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, sait quels joueurs sont ses
+    Le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span>, parce qu’il est un <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, sait quels joueurs sont ses
     <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>,
     et connaît trois rôles bons qui ne sont pas en jeu, qu’il peut bluffer en toute sécurité.
   </li>
   <li>
-    Si l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> meurt, la partie se termine et le Bien gagne.<br>
-    Cependant, si l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> se tue la nuit, il meurt et un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> vivant devient l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span>.<br>
-    Ce nouvel <span style="color:#f5f5f5; font-weight:bold;">Imp</span> n’agit pas cette même nuit, mais il est désormais l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> à tous les autres égards : il tue chaque nuit, et il perd s’il meurt.
+    Si le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> meurt, la partie se termine et le Bien gagne.<br>
+    Cependant, si le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> se tue la nuit, il meurt et un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> vivant devient le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span>.<br>
+    Ce nouveau <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> n’agit pas cette même nuit, mais il est désormais le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> à tous les autres égards : il tue chaque nuit, et il perd s’il meurt.
   </li>
 </ul>
 
@@ -111,24 +111,24 @@ title: Diablotin
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; white-space:normal; overflow-wrap:anywhere; word-break:break-word;">
   <li>
-    Chaque nuit (sauf la première), réveillez l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span>.<br>
-    L’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> pointe un joueur.<br>
+    Chaque nuit (sauf la première), réveillez le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span>.<br>
+    Le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> pointe un joueur.<br>
     Rendormez l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span>.<br>
     Le joueur choisi meurt : placez le rappel <strong>MORT</strong> de l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> à côté du jeton de rôle de la cible dans le Grimoire et placez un linceul.
   </li>
   <li>
-    Si l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> s’est tué la nuit, choisissez un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> vivant et remplacez son jeton de rôle
-    par un jeton <span style="color:#f5f5f5; font-weight:bold;">Imp</span> de réserve, changeant son rôle en <span style="color:#f5f5f5; font-weight:bold;">Imp</span>.<br>
-    Réveillez le nouvel <span style="color:#f5f5f5; font-weight:bold;">Imp</span>, montrez-lui le jeton d’info « VOUS ÊTES », puis montrez-lui le jeton <span style="color:#f5f5f5; font-weight:bold;">Imp</span>.<br>
-    Rendormez le nouvel <span style="color:#f5f5f5; font-weight:bold;">Imp</span>.
+    Si le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> s’est tué la nuit, choisissez un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> vivant et remplacez son jeton de rôle
+    par un jeton <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> de réserve, changeant son rôle en <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span>.<br>
+    Réveillez le nouveau <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span>, montrez-lui la tuile d’info « VOUS ÊTES », puis montrez-lui le jeton <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span>.<br>
+    Rendormez le nouveau <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span>.
   </li>
   <li>
     À l’aube, annoncez quel joueur est mort pendant la nuit. (Ne dites pas comment il est mort.)
   </li>
   <li>
-    Si l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> attaque un joueur mort la nuit, laissez-le faire.<br>
+    Si le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> attaque un joueur mort la nuit, laissez-le faire.<br>
     Quand une capacité dit « choisissez un joueur », cela signifie n’importe quel joueur : vivant ou mort.<br>
-    L’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> peut vouloir bluffer le
+    Le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> peut vouloir bluffer le
     <a href="./soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a>,
     et ce genre de choix peut rendre son bluff plus crédible.
   </li>
@@ -143,25 +143,26 @@ title: Diablotin
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; white-space:normal; overflow-wrap:anywhere; word-break:break-word;">
   <li>
     C’est la première nuit.<br>
-    L’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> apprend que Céline et Tania sont les <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>.<br>
-    L’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> apprend aussi que 3 rôles bons qui ne sont pas en jeu :<br>
+    Le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> apprend que Céline et Tania sont les <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>.<br>
+    Le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> apprend aussi que 3 rôles bons qui ne sont pas en jeu :<br>
     <a href="./moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a><br>
-    <a href="./cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuistot</a><br>
-    <a href="./bibliothecaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bibliothécaire</a><br>
-    L’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> bluffe le 
-    <a href="./cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuistot</a>, puis bluffe le 
+    <a href="./cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a><br>
+    <a href="./bibliothecaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Archiviste</a><br>
+    Le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> bluffe le 
+    <a href="./cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisonier</a>, puis bluffe le 
     <a href="./maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a>
     à mi-partie.<br>
   </li>
   <li>
-    Finalement, l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> est exécuté et le Bien gagne.
+    Finalement, le<span style="color:#f5f5f5; font-weight:bold;">Diablotin
+    </span> est exécuté et le Bien gagne.
   </li>
   <li>
-    Pendant la nuit, l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> se réveille et choisit un joueur, qui meurt.<br>
-    La nuit suivante, l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> se choisit lui-même pour mourir.<br>
-    L’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> meurt, et l’
+    Pendant la nuit, le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> se réveille et choisit un joueur, qui meurt.<br>
+    La nuit suivante, le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> se choisit lui-même pour mourir.<br>
+    Le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> meurt, et l'
     <a href="./empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>
-    devient l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span>.
+    devient le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span>.
   </li>
 </ul>
 
@@ -172,10 +173,10 @@ title: Diablotin
 </h2>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px; white-space:normal; overflow-wrap:anywhere; word-break:break-word;">
-  Il existe de nombreuses stratégies pour les joueurs maléfiques, en particulier l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span>, détaillées plus en profondeur dans la section
+  Il existe de nombreuses stratégies pour les joueurs maléfiques, en particulier le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span>, détaillées plus en profondeur dans la section
   <a href="../strategie.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Stratégie</a>.<br>
   En règle générale, en tant que <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, vous voulez paraître digne de confiance, répandre de fausses informations quand c’est possible,<br>
-  pousser vos <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> à confirmer que vous êtes un joueur du Bien, et les sacrifier quand c’est nécessaire.<br>
+  pousser vos <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> à confirmer que vous êtes un joueur du Camp du Bien, et les sacrifier quand c’est nécessaire.<br>
   Consultez cette section pour plus d’informations.
 </p>
 
@@ -195,7 +196,7 @@ title: Diablotin
     les joueurs font souvent plus confiance à ceux qui meurent la nuit.<br>
     Dans tous les cas, si vous mourez la nuit, donner une information fausse au Camp du Bien le lendemain,
     comme prétendre être le
-    <a href="./gardiend.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a>,
+    <a href="./gardiend.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a>,
     peut changer le cours de la partie.
   </li>
   <li>
@@ -207,13 +208,13 @@ title: Diablotin
   <li>
     Au début de la partie, le Conteur vous donne trois bluffs possibles.<br>
     Vous pouvez bluffer ce que vous voulez, bien sûr, mais ces bluffs sont sûrs.<br>
-    Comme l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> peut mourir la nuit et transmettre son rôle de <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> à un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>, les bluffs passifs comme les bluffs agressifs peuvent être utiles.<br>
+    Comme le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> peut mourir pendant la nuit et transmettre son rôle de <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> à un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>, les bluffs passifs comme les bluffs agressifs peuvent être utiles.<br>
     Si vous débutez, demandez de l’aide au Conteur, ou bluffez un rôle passif comme : <br>
     <a href="./soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a><br>
-    <a href="./reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a>.<br>
+    <a href="./reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a>.<br>
     Si vous êtes plus aventureux, des bluffs plus risqués comme : <br>
     <a href="./voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a><br>
-    <a href="./croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-Mort</a> 
+    <a href="./croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a> 
     peuvent être tentés.
   </li>
   <li>
@@ -225,27 +226,27 @@ title: Diablotin
   </li>
   <li>
     Pour vos attaques, tuez tôt les <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> puissants, gênants, et collecteurs d’informations, comme : <br>
-    <a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a><br>
-    <a href="./croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-Mort</a><br>
+    <a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a><br>
+    <a href="./croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a><br>
     <a href="./moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a><br>
-    <a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a><br>
+    <a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a><br>
  Retirer leurs informations ou la puissance de leur capacité tôt vous aidera plus tard.<br>
     Parfois, garder volontairement l’un d’eux en vie jusqu’au dernier jour peut servir de double-bluff.
   </li>
   <li>
-    Tuez aussi les joueurs les plus crédibles tôt comme la  
-    <a href="./vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Vierge</a>
+    Tuez aussi les joueurs les plus crédibles tôt comme l' 
+    <a href="./vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Innocente</a>
     que tout le monde connaît ne sera jamais exécutée, ce qui augmente vos chances d’être exécuté plus tard.<br>
     Deux
-    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a><br>
-    que tout le monde croit être des <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a> devront disparaître, car ils ne seront pas exécutés non plus.<br>
+    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a><br>
+    que tout le monde croit être des <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a> devront disparaître, car ils ne seront pas exécutés non plus.<br>
     Au dernier jour, vous voulez au moins un autre joueur, idéalement deux, qui paraissent plus suspects que vous.
   </li>
   <li>
     Envoyez vos <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> en missions de collecte d’informations.<br>
     Apprenez qui est qui.<br>
     Cela vous aide à éviter d’attaquer des rôles problématiques comme 
-    <a href="./gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a> ou 
+    <a href="./gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a> ou 
     <a href="./soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a>.<br>
   </li>
   <li>
@@ -253,7 +254,7 @@ title: Diablotin
     Coordonnez-vous : aidez-les à bluffer.<br>
     Décidez que l’un de vous paraîtra très suspect, tandis qu’un autre prendra le rôle de <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> et survivra jusqu’à la fin.<br>
     Apprenez ce que sait votre 
-    <a href="./espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espion</a>.<br>
+    <a href="./espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a>.<br>
     Coordonnez-vous avec votre 
     <a href="./empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>
     pour choisir des cibles différentes la nuit.<br>
@@ -261,8 +262,8 @@ title: Diablotin
     Apprenez si le plan de la <a href="./femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme Écarlate</a> est de vous tuer, ou de vous garder en vie.
   </li>
   <li>
-    Il existe de nombreuses raisons pour lesquelles vous pourriez apparaître comme un <span style="color:#f5f5f5; font-weight:bold;">Imp</span> maléfique aux bons joueurs.<br>
-    Si cela arrive, ne désespérez pas : peut-être pouvez-vous convaincre le groupe que l’<a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a> est ivre,<br>
+    Il existe de nombreuses raisons pour lesquelles vous pourriez apparaître comme un <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> maléfique aux bons joueurs.<br>
+    Si cela arrive, ne désespérez pas : peut-être pouvez-vous convaincre le groupe que l’<a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a> est ivre,<br>
     ou argumenter que vous êtes le « faux positif » de la <a href="./voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>.
   </li>
   <li>
@@ -276,7 +277,7 @@ title: Diablotin
 <hr>
 
 <h2 style="margin-top:10px;">
-  <span style="color:#d45b5b; font-weight:bold;">Combattre l’Imp</span>
+  <span style="color:#d45b5b; font-weight:bold;">Combattre le Diablotin</span>
 </h2>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px; white-space:normal; overflow-wrap:anywhere; word-break:break-word;">
@@ -298,8 +299,8 @@ title: Diablotin
   </li>
   <li>
     Des rôles comme :<br>
-    <a href="./gardiend.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a><br>
-    <a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a><br>
+    <a href="./gardiend.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a><br>
+    <a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a><br>
     sont particulièrement utiles pour innocenter des joueurs.<br>
     Trouver un maléfique est excitant, mais innocenter un bon joueur peut être tout aussi puissant.
   </li>
@@ -309,9 +310,9 @@ title: Diablotin
     C’est une information énorme :<br>
     savoir que cette personne est maléfique vous permet d’analyser tout ce qu’elle a fait afin d’identifier le reste de l’équipe maléfique.<br>
     C’est là que les informations fournies par des rôles comme : <br>
-    <a href="./cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuistot</a><br>
-    <a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a><br>
-    <a href="./enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Enquêteur</a><br>
+    <a href="./cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a><br>
+    <a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a><br>
+    <a href="./enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a><br>
     devient particulièrement précieuse.<br>
     Même s’ils ne sont pas en jeu, vous avez d’autres angles :<br>
     avec qui cette personne parlait-elle, qui a-t-elle « confirmé », qui a-t-elle protégé, quelles informations a-t-elle cherché à rendre crédibles ?
@@ -319,18 +320,18 @@ title: Diablotin
   <li>
     Attention à la 
     <a href="./femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme Écarlate</a>.<br>
-    Tant qu’il y a cinq joueurs ou plus en vie, l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> peut être exécuté et l’équipe maléfique peut continuer.<br>
-    Si vous pensez savoir qui est l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span>, envisagez de retarder l’exécution jusqu’à ce qu’il reste moins de cinq joueurs,<br>
+    Tant qu’il y a cinq joueurs ou plus en vie, le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> peut être exécuté et l’équipe maléfique peut continuer.<br>
+    Si vous pensez savoir qui est le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span>, envisagez de retarder l’exécution jusqu’à ce qu’il reste moins de cinq joueurs,<br>
     afin que sa capacité ne puisse pas s’activer et que le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> soit stoppé net.
   </li>
   <li>
     L’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> peut être très efficace pour éliminer les rôles menaçants.<br>
    Pour protéger vos rôles à information continue, comme le
-   <a href="./croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-Mort</a>,<br>
-   ou vos rôles à capacité puissante, comme la
-   <a href="./vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Vierge</a>,
-   essayez d’inciter l’
-   <span style="color:#d45b5b; font-weight:bold;">Imp</span>
+   <a href="./croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a>,<br>
+   ou vos rôles à capacité puissante, comme l'
+   <a href="./vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Innocente</a>,
+   essayez d’inciter le
+   <span style="color:#d45b5b; font-weight:bold;">Diablotin</span>
    à attaquer de mauvaises cibles.<br>
    Par exemple, un
 <a href="./soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a>
@@ -339,8 +340,8 @@ ou un
 peut se faire passer pour une cible intéressante, laissant sa capacité encaisser l’attaque.<br> 
     À l’inverse, le
     <a href="./saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a>, 
-    le 
-    <a href="./reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a>
+    la 
+    <a href="./reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a>
     ou la
     <a href="./lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a><br>
     peuvent chercher à attirer l’attention du <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a><br> : 
@@ -363,12 +364,12 @@ peut se faire passer pour une cible intéressante, laissant sa capacité encaiss
         Bluffer
         <a href="./lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>
         ou
-        <a href="./bibliothecaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bibliothécaire</a> 
+        <a href="./bibliothecaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Archiviste</a> 
         et confirmer que son <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> est un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> ou un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a> (très fort si le <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> prétend être le <a href="./saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a>).
       </li>
       <li>
         Bluffer 
-        <a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a>
+        <a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>
         en affirmant avoir deux voisins bons,<br> 
         puis mourir « trop opportunément » et transmettre au <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> voisin.
       </li>
@@ -379,10 +380,10 @@ peut se faire passer pour une cible intéressante, laissant sa capacité encaiss
       </li>
       <li>
         Bluffer des rôles comme :<br>
-        <a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a>,
+        <a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Diablotin</a>,
         « tirer » sur son <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>, puis mourir.<br>
         Variante : pousser un vrai
-        <a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a>
+        <a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a>
         bon à tirer sur un
         <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>,<br>
         puis transférer les soupçons vers un autre
