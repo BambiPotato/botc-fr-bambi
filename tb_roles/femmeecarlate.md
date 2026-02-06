@@ -104,7 +104,7 @@ La **Femme Écarlate** devient le <span style="color:red">Démon</span> si celui
 
 Si le <span style="color:red">Démon</span> meurt alors qu’il reste plus de 5 joueurs en vie :  
 - **Remplacez** immédiatement le jeton de la Femme Écarlate par celui du <span style="color:red">Démon</span>.
-- Dans *Trouble Brewing*, le Démon est toujours le [<span style="color:red">Diablotin</span>](imp.md)).  
+- Dans *Trouble Brewing*, le Démon est toujours le [<span style="color:red">Diablotin</span>](imp.md).  
 - Placez le jeton de rappel **« Est le Démon »** sur son jeton dans le Grimoire.  
 - La nuit suivante, réveillez le nouveau Diablotin et montrez-lui le jeton **« Vous êtes »** puis le jeton **Diablotin**.  
 - Dans d’autres éditions (avec plusieurs Démons), elle prend le type exact du Démon mort.  
