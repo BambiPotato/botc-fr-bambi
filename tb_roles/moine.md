@@ -1,3 +1,7 @@
+---
+layout: default
+title: Moine
+---
 
 <p align="left">
   <a href="/botc-fr-bambi/">
@@ -78,7 +82,8 @@
 
 ##  <span style="color:blue">Résumé</span>
 
-- Chaque nuit*, choisissez un joueur (pas vous-même) : il est à l'abri du Démon cette nuit. 
+ <strong>Chaque nuit*, choisissez un joueur (pas vous-même) : il est à l'abri du Démon cette nuit.</strong>
+
 - Le moine protège les autres joueurs du démon.
 - Chaque nuit, sauf la première, le moine peut choisir de protéger n'importe quel joueur sauf lui-même.
 - Si le Démon attaque un joueur protégé par le Moine, ce joueur ne meurt pas. 
@@ -102,13 +107,13 @@
 
 - Le Moine protège la [Voyante](voyante.md), l’[<span style="color:red">Imp</span>](imp.md) l’attaque. Personne ne meurt.  
 - Le Moine protège le [Maire](maire.md), l’Imp attaque le Maire. La capacité du Maire ne s’active pas : il reste en vie et personne ne meurt.  
-- Le Moine protège l’[<span style="color:red">Imp</span>](imp.md), l’[<span style="color:red">Imp</span>](imp.md) tente de se tuer pour transmettre sa capacité de Démon à un Sbire. Rien ne se passe : l’Imp reste en vie.  
+- Le Moine protège le [<span style="color:red">Diablotin</span>](imp.md), le [<span style="color:red">Diablotin</span>](imp.md) tente de se tuer pour transmettre sa capacité de Démon à un Sbire. Rien ne se passe : l’Imp reste en vie.  
 
 ---
 
 ##  <span style="color:blue">Conseils & Astuces</span>
 
-- Protégez les rôles puissants comme la [Voyante](voyante.md), l’[Empathique](empathique.md) ou la [Vierge](vierge.md).  
+- Protégez les rôles puissants comme la [Voyante](voyante.md), l’[Empathe](empathique.md) ou l' [Innocente](vierge.md).  
 - N’attirez pas trop l’attention : si vous êtes découvert, le Démon vous éliminera rapidement.  
 - Vous pouvez feinter en disant publiquement qui vous « allez protéger », pour pousser le Démon à viser ailleurs.  
 - Si un joueur survit grâce à vous, il est probablement bon (sauf cas particuliers avec l’Imp).  
