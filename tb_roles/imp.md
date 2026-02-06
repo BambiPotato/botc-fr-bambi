@@ -92,13 +92,13 @@ title: Diablotin
     ce joueur n’utilisera probablement pas sa capacité cette nuit.
   </li>
   <li>
-    Le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span>, parce qu’il est un <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, sait quels joueurs sont ses
+    Le <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span>, parce qu’il est un <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, sait quels joueurs sont ses
     <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>,
     et connaît trois rôles bons qui ne sont pas en jeu, qu’il peut bluffer en toute sécurité.
   </li>
   <li>
-    Si le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> meurt, la partie se termine et le Bien gagne.<br>
-    Cependant, si le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> se tue la nuit, il meurt et un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> vivant devient le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span>.<br>
+    Si le <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> meurt, la partie se termine et le Bien gagne.<br>
+    Cependant, si le <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> se tue la nuit, il meurt et un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> vivant devient le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span>.<br>
     Ce nouveau <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> n’agit pas cette même nuit, mais il est désormais le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> à tous les autres égards : il tue chaque nuit, et il perd s’il meurt.
   </li>
 </ul>
@@ -111,10 +111,10 @@ title: Diablotin
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; white-space:normal; overflow-wrap:anywhere; word-break:break-word;">
   <li>
-    Chaque nuit (sauf la première), réveillez le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span>.<br>
-    Le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> pointe un joueur.<br>
-    Rendormez l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span>.<br>
-    Le joueur choisi meurt : placez le rappel <strong>MORT</strong> de l’<span style="color:#f5f5f5; font-weight:bold;">Imp</span> à côté du jeton de rôle de la cible dans le Grimoire et placez un linceul.
+    Chaque nuit (sauf la première), réveillez le <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span>.<br>
+    Le <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> pointe un joueur.<br>
+    Rendormez le <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span>.<br>
+    Le joueur choisi meurt : placez le rappel <strong>MORT</strong> du <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> à côté du jeton de rôle de la cible dans le Grimoire et placez un linceul.
   </li>
   <li>
     Si le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> s’est tué la nuit, choisissez un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> vivant et remplacez son jeton de rôle
