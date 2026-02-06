@@ -86,7 +86,8 @@ title: Voyante
 
 ##  <span style="color:blue">Résumé</span>  
 
-*"Chaque nuit, choisissez 2 joueurs : vous apprenez si l’un d’eux est le Démon.  
+**« Chaque nuit, choisissez 2 joueurs : vous apprenez si l’un d’eux est le Démon.»**
+
 Un joueur bon apparaît comme un Démon pour vous."*  
 
 La **Voyante** détecte si un joueur est le [<span style="color:red">Démon</span>](../demons.md) … mais peut confondre un joueur bon avec un Démon.  
@@ -158,7 +159,7 @@ car cela lui permet d'obtenir davantage d'informations.*
   Ensuite, une fois que vous avez une vision d’ensemble, concentrez-vous sur les joueurs qui vous paraissent les plus suspects.
   
 
-- N’oubliez pas que l’[<span style="color:red">Diablotin</span>](imp.md) peut se tuer lui-même et faire qu’un Sbire devienne le Démon, 
+- N’oubliez pas que le [<span style="color:red">Diablotin</span>](imp.md) peut se tuer lui-même et faire qu’un Sbire devienne le Démon, 
   et que s’il est exécuté, la [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md) peut devenir le Démon. 
   Ainsi, même si vous avez obtenu un « non » sur quelqu’un plus tôt dans la partie, cela ne signifie pas qu’il ne soit pas le Démon à présent.
   Si vous pensez que le Démon est mort, essayez de choisir un joueur que vous soupçonnez d’être un Sbire et 
@@ -192,7 +193,8 @@ le [Corneille](gardien.md), peut vous aider à survivre plus longtemps, et ainsi
  
 
 - Vous pouvez mentir en affirmant que « ces deux joueurs ne sont pas le Démon » afin d’innocenter vos alliés maléfiques.
-  La Voyante peut parfois recevoir des informations très confuses. La [Recluse](reclus.md), peut apparaître comme le Démon. 
+  La Voyante peut parfois recevoir des informations très confuses. 
+  La [Recluse](reclus.md), peut apparaître comme le Démon. 
   Le Démon lui-même peut changer, par exemple en passant à un joueur qui était auparavant Sbire, 
   même en l’absence d'une [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md).
   
