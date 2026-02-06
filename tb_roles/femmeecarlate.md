@@ -104,23 +104,23 @@ La **Femme Écarlate** devient le <span style="color:red">Démon</span> si celui
 
 Si le <span style="color:red">Démon</span> meurt alors qu’il reste plus de 5 joueurs en vie :  
 - **Remplacez** immédiatement le jeton de la Femme Écarlate par celui du <span style="color:red">Démon</span>.
-- Dans *Trouble Brewing*, le Démon est toujours l’[<span style="color:red">Imp</span>](imp.md)).  
+- Dans *Trouble Brewing*, le Démon est toujours le [<span style="color:red">Diablotin</span>](imp.md)).  
 - Placez le jeton de rappel **« Est le Démon »** sur son jeton dans le Grimoire.  
-- La nuit suivante, réveillez le nouveau Imp et montrez-lui le jeton **« Vous êtes »** puis le jeton **Imp**.  
+- La nuit suivante, réveillez le nouveau Diablotin et montrez-lui le jeton **« Vous êtes »** puis le jeton **Diablotin**.  
 - Dans d’autres éditions (avec plusieurs Démons), elle prend le type exact du Démon mort.  
 
 ---
 
 ##  <span style="color:red">Exemples</span>     
 
-- **Il y a 7 joueurs en vie** : L' [<span style="color:red">Imp</span>](imp.md), la Femme Écarlate, 2 Villageois et 3 Voyageurs.  
-  → L’[<span style="color:red">Imp</span>](imp.md) est exécuté → la partie s’arrête (les Voyageurs ne comptent pas).  
+- **Il y a 7 joueurs en vie** : Le [<span style="color:red">Diablotin</span>](imp.md), la Femme Écarlate, 2 Villageois et 3 Voyageurs.  
+  → Le [<span style="color:red">Diablotin</span>](imp.md) est exécuté → la partie s’arrête (les Voyageurs ne comptent pas).  
 
-- **Il y 5 joueurs vivants** : L'[<span style="color:red">Imp</span>](imp.md), la Femme Écarlate, le [<span style="color:red">Baron</span>](baron.md) et 2 Villageois.  
-  → L’[<span style="color:red">Imp</span>](imp.md) est exécuté → la Femme Écarlate devient l’[<span style="color:red">Imp</span>](imp.md)  → la partie continue.  
+- **Il y 5 joueurs vivants** : Le [<span style="color:red">Diablotin</span>](imp.md), la Femme Écarlate, le [<span style="color:red">Baron</span>](baron.md) et 2 Villageois.  
+  → Le [<span style="color:red">Diablotin</span>](imp.md) est exécuté → la Femme Écarlate devient l’[<span style="color:red">Imp</span>](imp.md)  → la partie continue.  
 
 - Laura est la Femme Écarlate. La [Voyante](voyante.md) choisit Laura et Alexis elle apprend un « non ».  
-  Plus tard, l’[<span style="color:red">Imp</span>](imp.md) meurt, Laura devient l’[<span style="color:red">Imp</span>](imp.md).  
+  Plus tard, le [<span style="color:red">Diablotin</span>](imp.md) meurt, Laura devient le [<span style="color:red">Diablotin</span>](imp.md).  
   La [Voyante](voyante.md) choisit à nouveau Laura et Alexis, et obtient cette fois un « oui ».  
 
 ---
@@ -134,7 +134,7 @@ Si le <span style="color:red">Démon</span> meurt alors qu’il reste plus de 5 
 
 - Si le Démon risque d’être exécuté trop tôt, assurez-vous qu’il meure **tant qu’il reste ≥ 5 joueurs vivants**.  
 
-- Vous ne vous enregistrez **pas comme Démon** tant que vous êtes Femme Écarlate → profitez-en pour être « confirmé » par des rôles comme la [Voyante](voyante.md) ou le [Mercenaire](mercenaire.md).  
+- Vous ne vous enregistrez **pas comme Démon** tant que vous êtes Femme Écarlate → profitez-en pour être « confirmé » par des rôles comme la [Voyante](voyante.md) ou le [Pourfendeuse](mercenaire.md).  
 
 - Si le Démon joue bien et reste discret, pas besoin d’activer votre capacité : semez le doute comme un <span style="color:red">Sbire</span> classique.  
 
@@ -142,16 +142,16 @@ Si le <span style="color:red">Démon</span> meurt alors qu’il reste plus de 5 
 
 ##  <span style="color:red">Combattre la Femme Écarlate</span>   
 
-- Si vous êtes sûrs d’avoir tué l’[<span style="color:red">Imp</span>](imp.md) mais que la partie continue → **suspicion immédiate** : une Femme Écarlate est probablement en jeu.  
+- Si vous êtes sûrs d’avoir tué le [<span style="color:red">Diablotin</span>](imp.md) mais que la partie continue → **suspicion immédiate** : une Femme Écarlate est probablement en jeu.  
 
-- Si l’Imp se tue de nuit, la démonialité doit **toujours passer à la Femme Écarlate** avant un autre <span style="color:red">Sbire</span>.  
+- Si le Diablotin se tue de nuit, la démonialité doit **toujours passer à la Femme Écarlate** avant un autre <span style="color:red">Sbire</span>.  
   → Cela peut révéler où se cache le nouveau <span style="color:red">Démon</span>.  
 
 - Le <span style="color:red">Démon</span> et la Femme Écarlate peuvent **co-bluffer** pour se soutenir (ex. elle se dit [Lavandière](lavandiere.md) et « confirme » le Démon).  
 
-- La Femme Écarlate **ne s’enregistre pas comme Démon** → la [Voyante](voyante.md) ou le [Mercenaire](mercenaire.md) ne la détecteront pas.  
+- La Femme Écarlate **ne s’enregistre pas comme Démon** → la [Voyante](voyante.md) ou le [Pourfendeuse](mercenaire.md) ne la détecteront pas.  
 
-- Si un [Enquêteur](enqueteur.md) ou un [Croque-Mort](croquemort.md) révèle qu’elle est en jeu, gardez-la **vivante** : au dernier jour, la question devient « le Démon est-il devenu la Femme Écarlate ? ».  
+- Si un [Détective](enqueteur.md) ou un [Fossoyeur](croquemort.md) révèle qu’elle est en jeu, gardez-la **vivante** : au dernier jour, la question devient « le Démon est-il devenu la Femme Écarlate ? ».  
 
 - Contrairement à d’autres <span style="color:red">Sbires</span>, elle peut vouloir tuer son propre <span style="color:red">Démon</span> pour le remplacer.  
    - Surveillez les changements d’attitude dès qu’il ne reste plus que 5 joueurs.  
@@ -189,7 +189,7 @@ Si le <span style="color:red">Démon</span> meurt alors qu’il reste plus de 5 
   🧞
     <img src="../images/Icon_plaguedoctor.png" alt="Docteur de la peste" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/plaguedoctor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Docteur de la peste</a> :  
-    Si le Conteur ou la Conteur acquiert la capacité de la Femme Écarlate, un Sbire l'acquiert et l'apprend.
+    Si le Conteur acquiert la capacité de la Femme Écarlate, un Sbire l'acquiert et l'apprend.
     </li>
     
 </ul>
