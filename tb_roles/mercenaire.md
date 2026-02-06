@@ -82,7 +82,7 @@ title: Pourfendeuse
 
 ##  <span style="color:blue">Résumé</span>
 
-**"Une fois par partie, durant la journée, choisissez publiquement un joueur : si c’est le Démon, il meurt."**
+**« Une fois par partie, durant la journée, choisissez publiquement un joueur : si c’est le Démon, il meurt. »**
 
 - La Pourfendeuse peut tuer le Démon en devinant qui il est.
 - La Pourfendeuse  peut choisir d'utiliser sa capacité à tout moment de la journée et doit déclarer à tout le monde quand elle l'utilise. 
