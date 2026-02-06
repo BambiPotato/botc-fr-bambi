@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gardien 
+title: Corneille
 ---
 
 
@@ -10,14 +10,14 @@ title: Gardien
   </a>
 </p>
 
-#  <span style="color:blue">Gardien</span>
+#  <span style="color:blue">Corneille</span>
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./gardien.html" style="text-decoration:none;">
     <img src="../images/Icon_ravenkeeper.png" alt="Gardien" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:blue; font-weight:bold; font-size:22px;">Gardien</span>
+    <span style="color:blue; font-weight:bold; font-size:22px;">Corneille</span>
   </a>
 </div>
  
@@ -83,53 +83,53 @@ title: Gardien
 
 ##  <span style="color:blue">Résumé</span>  
 
-*"Si vous mourez pendant la nuit, vous êtes réveillé pour choisir un joueur : vous apprenez son rôle."*  
+** « Si vous mourez pendant la nuit, vous êtes réveillé pour choisir un joueur : vous apprenez son rôle. »**  
 
-Le Gardien apprend le rôle d’un joueur s’il meurt la nuit.  
+Le Corneille apprend le rôle d’un joueur s’il meurt la nuit.  
 
-- Le Gardien est réveillé la nuit où il meurt et choisit immédiatement un joueur.  
+- Le Corneille est réveillé la nuit où il meurt et choisit immédiatement un joueur.  
 - Il peut même choisir un joueur déjà mort.  
 
 ---
 
 ##  <span style="color:blue">Comment Conter</span> 
 
-- Si le Gardien meurt cette nuit, réveillez-le.  
+- Si le Corneille meurt cette nuit, réveillez-le.  
 - Il désigne un joueur. Montrez-lui le jeton de rôle de ce joueur.  
-- Puis rendormez le Gardien.  
+- Puis rendormez le Corneille.  
 
  **Conseil** : découragez ou interdisez les joueurs de parler pendant qu’ils font leur choix la nuit.  
 
 ---
 
 ##  <span style="color:blue">Exemples</span>   
-- Le Gardien est tué par l’**[<span style="color:red">Imp</span>](imp.md)** et choisit **Benjamin**. Benjamin est **[Empathique](empathique.md)** : le Gardien apprend le rôle [Empathique](empathique.md) .  
+- Le Corneille est tué par le **[<span style="color:red">Diablotin</span>](imp.md)** et choisit **Benjamin**. Benjamin est **[Empathe](empathique.md)** : le Corneille apprend le rôle [Empathe](empathique.md) .  
 
-- L’**[<span style="color:red">Imp</span>](imp.md)** attaque le **[<span style="color:blue">Maire</span>](maire.md)**. 
-  - Le Maire survit, mais le **Gardien** meurt à sa place. Le Gardien choisit **Damien**, un **[Reclus](reclus.md)** mort. 
-  - Le Gardien apprend que **Damien** était en réalité la **[<span style="color:red">Femme Écarlate</span>](femmeecarlate.md)**, 
-    à cause de la capacité du [Reclus](reclus.md).  
+- Le **[<span style="color:red">Diablotin</span>](imp.md)** attaque le **[<span style="color:blue">Maire</span>](maire.md)**. 
+  - Le Maire survit, mais le **Corneille** meurt à sa place. Le Corneille choisit **Damien**, une **[Recluse](reclus.md)** morte. 
+  - Le Corneille apprend que **Damien** était en réalité la **[<span style="color:red">Femme Écarlate</span>](femmeecarlate.md)**, 
+    à cause de la capacité de la [Recluse](reclus.md).  
 
 ---
 
 ##  <span style="color:blue">Conseils & Astuces</span>  
-- Si le Démon sait que vous êtes Gardien, il évitera souvent de vous tuer.  
-  Bluffez en prétendant être un rôle menaçant comme [Empathique](empathique.md), [Voyante](voyante.md),ou [Croque-Mort](croquemort.md)) pour attirer son attention. 
+- Si le Démon sait que vous êtes Corneille, il évitera souvent de vous tuer.  
+  Bluffez en prétendant être un rôle menaçant comme [Empathe](empathique.md), [Voyante](voyante.md),ou [Fossoyeur](croquemort.md)) pour attirer son attention. 
   
 - Réfléchissez à qui vous souhaitez cibler **avant la nuit**, pour ne pas décider dans la panique.  
   Choisir un joueur vivant est souvent plus utile qu’un mort : vous saurez qui ne pas exécuter ou qui ne pas croire.  
-  Attention au [Reclus](reclus.md) et à l’[<span style="color:red">Espion</span>](espion.md), leurs pouvoirs peuvent fausser votre info. 
+  Attention à la [Recluse](reclus.md) et à l’[<span style="color:red">Espionne</span>](espion.md), leurs pouvoirs peuvent fausser votre info. 
   Si vous apprenez qu’un joueur est [Ivrogne](ivrogne.md), c’est une double info : vous savez qu’il est bon **et** que son pouvoir est faux.  
   
 - Votre capacité ne marche **que si vous mourez la nuit**. Mourir de jour ne donne rien.  
   Vous pouvez annoncer publiquement être Gardien dès le début. Le Démon hésitera alors à vous tuer, mais vous n’aurez sans doute pas d’info.  
   
-- Si vous survivez très tard dans la partie sans mourir, soupçonnez la présence d’un [<span style="color:red">Espion</span>](espion.md) : 
+- Si vous survivez très tard dans la partie sans mourir, soupçonnez la présence d’une [<span style="color:red">Espionne</span>](espion.md) : 
   le Démon peut savoir qui vous êtes et vous éviter.  
 
 ---
 
-##  <span style="color:blue">Bluffer Gardien</span>  
+##  <span style="color:blue">Bluffer Corneille</span>  
 - Vous ne vous réveillez **que si vous mourez la nuit**.  
   Bluffez en tant que Gardien est très crédible : mourir la nuit rend souvent un joueur digne de confiance.  
   
@@ -139,7 +139,7 @@ Le Gardien apprend le rôle d’un joueur s’il meurt la nuit.
   - Ou confirmer un vrai Villageois pour gagner sa confiance.  
   - Si vous n’êtes pas sûr, dites que le joueur choisi était [Ivrogne](ivrogne.md) : ça sème le doute.  
   
-- Gardien est un excellent bluff si vous voulez rester vivant longtemps (le Démon évite de tuer ce rôle).  
+- Corneille est un excellent bluff si vous voulez rester vivant longtemps (le Démon évite de tuer ce rôle).  
 - Vous pouvez aussi vous en servir pour justifier pourquoi vous avez survécu tard dans la partie. 
 
 ---
@@ -153,14 +153,14 @@ Le Gardien apprend le rôle d’un joueur s’il meurt la nuit.
     <img src="../images/Icon_leviathan.png" alt="Lévathan" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/leviathan.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Léviathan</a> :  
     Chaque nuit*, le Léviathan choisit un joueur vivant (différent des nuits précédentes) : 
-    un Gardien choisi utilise sa capacité mais ne meurt pas.
+    un Corneille choisi utilise sa capacité mais ne meurt pas.
     </li>  
     <li>
     🧞
     <img src="../images/Icon_riot.png" alt="Boffin" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> :  
     Chaque nuit*, le Riot choisit un joueur bon vivant (différent des nuits précédentes) : 
-    un Gardien choisi utilise sa capacité mais ne meurt pas.
+    un Corneille choisi utilise sa capacité mais ne meurt pas.
    </li>  
   </ul>
 
