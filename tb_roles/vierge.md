@@ -88,7 +88,7 @@ title: Innocente
 
 ##  <span style="color:blue">Résumé</span>    
 
-**"La première fois que vous êtes nominé, si le joueur qui vous nomme est un Villageois, il est immédiatement exécuté."**
+**« La première fois que vous êtes nominé, si le joueur qui vous nomme est un Villageois, il est immédiatement exécuté.»**
 
 L'Innocente peut, malgré elle, provoquer l’exécution de son accusateur, ce qui permet de confirmer quels joueurs sont des Villageois.  
 
@@ -102,12 +102,12 @@ L'Innocente peut, malgré elle, provoquer l’exécution de son accusateur, ce q
 
 - Si le premier joueur à nominer l'Innocente est un Villageois :  
   → Déclarez immédiatement que ce joueur est exécuté. Placez un Linceuil de mort sur son jeton.  
-  → La Vierge perd sa capacité (placez son jeton de rappel **AUCUN POUVOIR**).  
+  → L'Innocente perd sa capacité (placez son jeton de rappel **AUCUN POUVOIR**).  
   → Fin de la journée, passez directement à la nuit.  
 
 - Si le premier joueur à nominer la Vierge n’est pas un Villageois :  
   → Continuez le vote normalement.  
-  → La Vierge perd sa capacité (mettez le rappel **AUCUN POUVOIR**).  
+  → L'Innocente perd sa capacité (mettez le rappel **AUCUN POUVOIR**).  
 
 ---
 
@@ -121,7 +121,7 @@ L'Innocente peut, malgré elle, provoquer l’exécution de son accusateur, ce q
 
 ##  <span style="color:blue">Conseils & Astuces</span>    
 
-- L'Innocente est l’un des rares Villageois qui peut être **confirmée comme bonne de façon absolue**.  
+- L'Innocente est l’un des rares Villageois qui peut être **confirmée comme Villageois de façon absolue**.  
 - Les Villageois ayant déjà utilisé leur pouvoir (comme la [Lavandière](lavandiere.md), le [Détective](enqueteur.md) ou la [Pourfendeuse](mercenaire.md)) sont d’excellents choix pour la nomination, car leur mort valide leur rôle sans grande perte.  
 - Une nomination par un Étranger ne déclenche pas votre capacité. Cela inclut l’[Ivrogne](ivrogne.md).  
 - Vous pouvez **vous auto-nominer** pour prouver que vous êtes l'Innocente.  
