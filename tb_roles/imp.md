@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Imp
+title: Diablotin
 ---
 
 
@@ -16,7 +16,7 @@ title: Imp
     <img src="../images/Icon_imp.png" alt="Imp" width="350" style="border-radius:8px;">
     <br>
     <span style="color:#d45b5b; font-weight:bold; font-size:22px;">
-  {{ site.data.libelles.roles.imp }}
+  Diablotin</span>
 </span>
   </a>
 </div>
