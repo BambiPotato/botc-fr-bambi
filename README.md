@@ -520,18 +520,12 @@ table.roles-grid td{
 
   <tr>
 <!-- Lorics -->
-<td style="width:50%; text-align:center; padding:12px; background:rgba(0,0,0,0.45); border:1px solid #b58b52; border-radius:12px;">
-  <a href="./loric.html" style="text-decoration:none; display:inline-block;">
-    <img src="./images/Generic_loric.png"
-         alt="Lorics"
-         width="240"
-         style="
-           border-radius:12px;
-           filter: brightness(1.35) contrast(1.15);
-         ">
-    <div style="margin-top:8px; color:#7fd1ae; font-weight:bold; font-size:20px;">Lorics</div>
-  </a>
-</td>
+  <td style="width:50%; text-align:center; padding:12px; background:rgba(0,0,0,0.45); border:1px solid #b58b52; border-radius:12px;">
+    <a href="./loric.html" style="text-decoration:none; display:inline-block;">
+      <img src="./images//Generic_loric.png" alt="Lorics" width="240" style="border-radius:12px;">
+      <div style="margin-top:8px; color:#7fd1ae; font-weight:bold; font-size:20px;">Lorics</div>
+    </a>
+  </td>
 
   <!-- Cellule vide -->
   <td></td>
