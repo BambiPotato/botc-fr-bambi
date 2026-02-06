@@ -322,7 +322,7 @@ Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient
 ---
 
 <p style="text-align:left; color:#e0c99d; font-size:18px;">
-  <a id="demons" href="./demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démons</a>
+  <a id="demons" href="./demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>
 </p>
 
 <!-- GRID DÉMONS -->
