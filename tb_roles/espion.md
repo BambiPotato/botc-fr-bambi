@@ -95,7 +95,7 @@ title: Espionne
 - Chaque nuit, **réveillez l’Espionne** et montrez-lui le **Grimoire complet** aussi longtemps qu’elle le souhaite.  
 - Quand une capacité détecte ou affecte un joueur « Bon » / Villageois / Marginal, **choisissez comment l’Espionne s’enregistre** :  
   - Montrez un jeton « Bon » si besoin.  
-  - Permettez qu’elle soit affectée comme une vraie Villageoise et ou /Marginale.  
+  - En tant que Conteur, il est conseillé que l'Espionne soit vue comme Villageois et ou /Marginal.  
 - ⚠️ Gardez le Grimoire **bien rangé et orienté** pour que l’Espionne voie facilement.
 
 ---
