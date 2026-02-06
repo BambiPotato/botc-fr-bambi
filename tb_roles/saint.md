@@ -1,3 +1,8 @@
+---
+layout: default
+title: Saint
+---
+
 <p align="left">
   <a href="/botc-fr-bambi/">
     <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
@@ -111,16 +116,16 @@
   <li><strong>Faites-vous confirmer sans risquer l’exécution :</strong>
     <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
       <li>Demandez à la <strong><a href="./voyante.html" style="text-decoration:none;">Voyante</a></strong> de vous choisir la nuit, vous n'êtes pas le Démon.</li>
-      <li>Obtenez une lecture claire d’un <strong><a href="./empathique.html" style="text-decoration:none;">Empathique</a></strong> (en coordonnant des morts autour de vous si besoin).</li>
-      <li>Si vous mourez <strong>la nuit</strong>, un <strong><a href="./gardien.html" style="text-decoration:none;">Gardien</a></strong> peut révéler votre véritable rôle.</li>
-      <li>Un <strong><a href="./mercenaire.html" style="text-decoration:none;">Mercenaire</a></strong> peut tenter son tir sur vous, pour prouver que vous n'êtes pas le Démon.</li>
+      <li>Obtenez une lecture claire d’un <strong><a href="./empathique.html" style="text-decoration:none;">Empathe</a></strong> (en coordonnant des morts autour de vous si besoin).</li>
+      <li>Si vous mourez <strong>la nuit</strong>, un <strong><a href="./gardien.html" style="text-decoration:none;">Corneille</a></strong> peut révéler votre véritable rôle.</li>
+      <li>Un <strong><a href="./mercenaire.html" style="text-decoration:none;">Pourfendeuse</a></strong> peut tenter son tir sur vous, pour prouver que vous n'êtes pas le Démon.</li>
     </ul>
   </li>
 
   <li><strong>Profil bas efficace :</strong> <br>
-    bluffer un rôle qui attire les attaques nocturnes (<strong><a href="./moine.html" style="text-decoration:none;">Moine</a></strong>, <strong><a href="./voyante.html" style="text-decoration:none;">Voyante</a></strong>, <strong><a href="./mercenaire.html" style="text-decoration:none;">Mercenaire</a></strong>) peut pousser le Démon à <strong>vous tuer la nuit</strong> plutôt que de risquer une exécution accidentelle.</li>
+    bluffer un rôle qui attire les attaques nocturnes (<strong><a href="./moine.html" style="text-decoration:none;">Moine</a></strong>, <strong><a href="./voyante.html" style="text-decoration:none;">Voyante</a></strong>, <strong><a href="./mercenaire.html" style="text-decoration:none;">Pourfendeuse</a></strong>) peut pousser le Démon à <strong>vous tuer la nuit</strong> plutôt que de risquer une exécution accidentelle.</li>
 
-  <li><strong>Comptez les Étrangers :</strong> si les déclarations d’<strong>Étrangers</strong> correspondent à la configuration (ou s’il y a un <strong><a href="./baron.html" style="text-decoration:none;"><span style="color:red">Baron</span></a></strong>), votre présence devient plus crédible.</li>
+  <li><strong>Comptez les Marginaux :</strong> si les déclarations de<strong>Marginaux</strong> correspondent à la configuration (ou s’il y a un <strong><a href="./baron.html" style="text-decoration:none;"><span style="color:red">Baron</span></a></strong>), votre présence devient plus crédible.</li>
 
   <li><strong>Dernier jour :</strong> Votre capacité n’empêche pas qu’on vous exécute si on pense que <strong>vous êtes le Démon</strong> restez pertinent, clair et utile dans vos déductions.</li>
 </ul>
@@ -144,9 +149,9 @@ le jour final, vous courez le même risque que tous les autres (car s'ils n'exé
 
   <li>
 Même si l’équipe du Bien est convaincue que vous êtes maléfique, par exemple grâce à des informations provenant de rôles comme :<br>
-<span style="color:#4ea3ff; font-weight:bold;"><a href="./enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Enquêteur</a></span> <br> 
+<span style="color:#4ea3ff; font-weight:bold;"><a href="./enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a></span> <br> 
 <span style="color:#4ea3ff; font-weight:bold;"><a href="./empathe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a></span> <br>
-<span style="color:#4ea3ff; font-weight:bold;"><a href="./gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a></span>  <br>
+<span style="color:#4ea3ff; font-weight:bold;"><a href="./gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a></span>  <br>
 L'Équipe du Bien peut malgré tout hésiter à vous exécuter avant le dernier jour.
     <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
       <li>D’ici là, vous aurez déjà causé tous les dégâts nécessaires.</li>
@@ -178,7 +183,7 @@ car vous risquez d’entrer en conflit avec d’autres Étrangers.</li>
   <li>Heureusement, votre condition de défaite fait de vous une cible d’exécution plus prioritaire qu’un 
 <span style="color:#4ea3ff; font-weight:bold;"><a href="./majordome.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Majordome</a></span> 
 ou un 
-<span style="color:#4ea3ff; font-weight:bold;"><a href="./reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a></span> ; <br>
+<span style="color:#4ea3ff; font-weight:bold;"><a href="./reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a></span> ; <br>
 utilisez cela à votre avantage pour pousser à l’exécution d’un joueur du Bien.</li>
 
   <li>Il est possible que vous soyez détecté comme maléfique à un moment de la partie.</li>
@@ -190,7 +195,7 @@ le Conteur vous cible volontairement.</li>
   <li>Par exemple, vous pouvez prétendre être le <strong>LEURRE</strong> "faux positif" de la
 <span style="color:#4ea3ff; font-weight:bold;"><a href="./voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a></span>, <br>
 ou expliquer qu’un 
-<span style="color:#4ea3ff; font-weight:bold;"><a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a></span> 
+<span style="color:#4ea3ff; font-weight:bold;"><a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a></span> 
 qui vous détecte comme maléfique est en réalité l'
 <span style="color:#4ea3ff; font-weight:bold;"><a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a></span>.</li>
 
@@ -200,7 +205,7 @@ qui vous détecte comme maléfique est en réalité l'
   <li>Les Démons hésitent généralement à cibler un Saint, préférant qu’il soit exécuté.</li>
 
   <li>En exploitant cela, vous pouvez survivre quelques jours de plus en tant qu’
-<span style="color:#4ea3ff; font-weight:bold;"><a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a></span> 
+<span style="color:#4ea3ff; font-weight:bold;"><a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a></span> 
 ou 
 <span style="color:#4ea3ff; font-weight:bold;"><a href="./voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a></span>.</li>
 
@@ -209,14 +214,14 @@ ou
 puisque la partie ne se terminera pas.</li>
 
   <li>Soyez prêt à avoir un bluff de secours, comme le 
-<span style="color:#4ea3ff; font-weight:bold;"><a href="./reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a></span>, <br>
+<span style="color:#4ea3ff; font-weight:bold;"><a href="./reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a></span>, <br>
 ou un Villageois puissant qui ne voulait pas mourir (comme le
-<span style="color:#4ea3ff; font-weight:bold;"><a href="./croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-Mort</a></span> 
+<span style="color:#4ea3ff; font-weight:bold;"><a href="./croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a></span> 
 ou le 
-<span style="color:#4ea3ff; font-weight:bold;"><a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a></span>).</li>
+<span style="color:#4ea3ff; font-weight:bold;"><a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a></span>).</li>
 
   <li>Méfiez-vous du
-<span style="color:#4ea3ff; font-weight:bold;"><a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a></span> !</li>
+<span style="color:#4ea3ff; font-weight:bold;"><a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a></span> !</li>
 
   <li>Le 
 <span style="color:#4ea3ff; font-weight:bold;"><a href="./saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a></span> 
@@ -230,9 +235,9 @@ il voudra très probablement vous tester, sans risquer de déclencher la conditi
    <span style="color:#4ea3ff; font-weight:bold;"><a href="./saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a></span> 
     par un Sbire,<br>
     de le faire tuer par le 
-<span style="color:#4ea3ff; font-weight:bold;"><a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a></span>, <br>
-puis de faire passer le rôle de Démon à ce Sbire via l’
-<span style="color:#d45b5b; font-weight:bold;"><a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Imp</a></span>.</li>
+<span style="color:#4ea3ff; font-weight:bold;"><a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a></span>, <br>
+puis de faire passer le rôle de Démon à ce Sbire via le
+<span style="color:#d45b5b; font-weight:bold;"><a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a></span>.</li>
 
   <li>Si vous êtes nommé, abandonnez tout bluff précédent et révélez-vous comme le 
 <span style="color:#4ea3ff; font-weight:bold;"><a href="./saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a></span>. <br>
@@ -248,7 +253,7 @@ mais cela n’est pas possible avec le
 <span style="color:#4ea3ff; font-weight:bold;"><a href="./saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a></span>.</li>
 
   <li>Prétendre être un 
-<span style="color:#4ea3ff; font-weight:bold;"><a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a></span> 
+<span style="color:#4ea3ff; font-weight:bold;"><a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a></span> 
 peut masquer la présence de l’
 <span style="color:#4ea3ff; font-weight:bold;"><a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a></span> <br>
 ou amener l’équipe du Bien à penser qu’un 
