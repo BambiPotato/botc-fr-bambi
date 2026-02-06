@@ -83,7 +83,7 @@ title: Corneille
 
 ##  <span style="color:blue">Résumé</span>  
 
-** « Si vous mourez pendant la nuit, vous êtes réveillé pour choisir un joueur : vous apprenez son rôle. »**  
+**« Si vous mourez pendant la nuit, vous êtes réveillé pour choisir un joueur : vous apprenez son rôle. »**  
 
 Le Corneille apprend le rôle d’un joueur s’il meurt la nuit.  
 
