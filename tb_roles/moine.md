@@ -82,7 +82,7 @@ title: Moine
 
 ##  <span style="color:blue">Résumé</span>
 
- <strong>Chaque nuit*, choisissez un joueur (pas vous-même) : il est à l'abri du Démon cette nuit.</strong>
+ <strong>« Chaque nuit*, choisissez un joueur (pas vous-même) : il est à l'abri du Démon cette nuit. »</strong>
 
 - Le moine protège les autres joueurs du démon.
 - Chaque nuit, sauf la première, le moine peut choisir de protéger n'importe quel joueur sauf lui-même.
