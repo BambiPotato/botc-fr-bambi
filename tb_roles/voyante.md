@@ -224,7 +224,7 @@ le [Corneille](gardien.md), peut vous aider à survivre plus longtemps, et ainsi
   et aussi (dans les parties à un seul Sbire) qu’il ne reste qu’un seul joueur maléfique en vie. 
   Cette désinformation, bien qu’apparemment anodine, peut faire basculer la partie en votre faveur en augmentant la méfiance entre les joueurs vivants. 
   Elle est particulièrement efficace si vous faites passer un [Corneille](gardien.md) pour le Démon qui se serait tué lui-même pendant la nuit.
-- Si vous êtes l'[<span style="color:red">Diablotin</span>](imp.md), vous pouvez vous révéler publiquement comme [Voyante](voyante.md) et mourir volontairement la nuit, afin de rendre vos informations plus crédibles.
+- Si vous êtes le [<span style="color:red">Diablotin</span>](imp.md), vous pouvez vous révéler publiquement comme [Voyante](voyante.md) et mourir volontairement la nuit, afin de rendre vos informations plus crédibles.
 
 
 - Si vous êtes la [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md), vous pouvez accuser publiquement votre véritable Démon 
