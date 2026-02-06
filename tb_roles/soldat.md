@@ -85,7 +85,7 @@ title: Soldat
 
 ##   <span style="color:blue">Résumé</span>
 
-**Vous êtes à l’abri du Démon.**  
+**« Vous êtes à l’abri du Démon.»**  
 
 Le Soldat ne peut pas être tué par le Démon.
 
