@@ -105,8 +105,8 @@ title: Moine
 
 ##  <span style="color:blue">Exemples</span>
 
-- Le Moine protège la [Voyante](voyante.md), l’[<span style="color:red">Imp</span>](imp.md) l’attaque. Personne ne meurt.  
-- Le Moine protège le [Maire](maire.md), l’Imp attaque le Maire. La capacité du Maire ne s’active pas : il reste en vie et personne ne meurt.  
+- Le Moine protège la [Voyante](voyante.md), le [<span style="color:red">Diablotin</span>](imp.md) l’attaque. Personne ne meurt.  
+- Le Moine protège le [Maire](maire.md), le [<span style="color:red">Diablotin</span>](imp.md) attaque le Maire. La capacité du Maire ne s’active    pas : il reste en vie et personne ne meurt.  
 - Le Moine protège le [<span style="color:red">Diablotin</span>](imp.md), le [<span style="color:red">Diablotin</span>](imp.md) tente de se tuer pour transmettre sa capacité de Démon à un Sbire. Rien ne se passe : l’Imp reste en vie.  
 
 ---
