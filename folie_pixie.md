@@ -132,7 +132,7 @@ soit la personne <em>joue le jeu</em>, soit elle ne le fait pas — et dans tous
   <li><a href="./sv_roles/cerenovus.html" style="color:red; font-weight:bold; text-decoration:none;">Cerenovus</a></li>
   <li><a href="./tb_roles/lavandiere.html" style="color:blue; font-weight:bold; text-decoration:none;">Lavandière</a></li>
   <li><a href="./sv_roles/savant.html" style="color:blue; font-weight:bold; text-decoration:none;">Savant</a></li>
-  <li><a href="https://wiki.bloodontheclocktower.com/Pixie" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Pixie — Wiki officiel (EN)</a></li>
+  </a></li>
 </ul>
 
 <!-- ===== Navigation ===== -->
