@@ -29,12 +29,13 @@ Leur rôle est de collecter des informations, de protéger leurs alliés et de m
 <hr style="border-color:rgba(224,185,122,0.2); margin:14px 0 10px;">
 
 <h2 style="font-weight:800; font-size:22px; text-align:left;">
-  Tous les <span style="color:#4ea3ff;">Villageois</span> 
-  <span style="color:#b58b52; font-weight:800;">• Trouble Brewing</span> 
-  <span style="color:#ffa64d; font-weight:800;">• Bad Moon Rising</span> 
-  <span style="color:#d67bff; font-weight:800;">• Sects & Violets</span> 
-  <span style="color:#d4a76a; font-weight:800;">• Expérimentaux</span>
+  Tous les <span style="color:#f5f5f5;">Villageois</span> •
+  <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:800; text-decoration:none;">• Trouble Brewing</a> 
+  <a href="./bmr.html" style="color:#ffa64d; font-weight:800; text-decoration:none;">• Bad Moon Rising</a> 
+  <a href="./sv.html" style="color:#d67bff; font-weight:800; text-decoration:none;">• Sects & Violets</a>
+  <a href="./experimentaux.html" style="color:#d67bff; font-weight:800; text-decoration:none;">• Expérimentaux</a>
 </h2>
+
 
 <!-- GRID VILLAGEOIS (ALPHABÉTIQUE) -->
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin:8px 0 6px 0;">
