@@ -102,22 +102,24 @@ L’**Empoisonneur** perturbe secrètement les capacités des autres rôles.
 
 ##   <span style="color:red">Exemples</span>    
 
-- L’Empoisonneur cible le [Mercenaire](mercenaire.md). Le lendemain, le Mercenaire tente de tuer l’[<span style="color:red">Imp</span>](imp.md). Rien ne se passe : sa capacité est perdue.  
-- L’[Empathique](empathique.md) empoisonné apprend un « 0 » alors qu’il est assis entre deux joueurs <span style="color:red">maléfiques</span>. La nuit suivante, il apprend un « 2 ».  
-- L’[Enquêteur](enqueteur.md) empoisonné apprend que l’un de deux joueurs est le [<span style="color:red">Baron</span>](baron.md), alors qu’aucun ne l’est.  
-- Le [Croque-Mort](croquemort.md) empoisonné apprend une mauvaise information : l’[<span style="color:red">Imp</span>](imp.md) est mort, mais il croit que c’est la [Vierge](vierge.md).  
-- L’Empoisonneur cible le [Maire](maire.md), puis devient le [<span style="color:red">Imp</span>](imp.md). Comme il n’y a plus d’Empoisonneur en jeu, le Maire n’est plus empoisonné.  
+- L’Empoisonneur cible la [Pourfendeuse](mercenaire.md). Le lendemain, la [Pourfendeuse](mercenaire.md) tente de tuer le [<span style="color:red">Diablotin</span>](imp.md). Rien ne se passe : sa capacité est perdue.  
+- L’[Empathe](empathique.md) empoisonné apprend un « 0 » alors qu’il est assis entre deux joueurs <span style="color:red">maléfiques</span>. 
+La nuit suivante, il apprend un « 2 ».  
+- Le [Détective](enqueteur.md) empoisonné apprend que l’un de deux joueurs est le [<span style="color:red">Baron</span>](baron.md), alors qu’aucun ne l’est.  
+- Le [Fossoyeur](croquemort.md) empoisonné apprend une mauvaise information : le [<span style="color:red">Diablotin</span>](imp.md) est mort, mais il croit que c’est l' [Innocnete](vierge.md).  
+- L’Empoisonneur cible le [Maire](maire.md), puis devient le [<span style="color:red">Diablotin</span>](imp.md). 
+Comme il n’y a plus d’Empoisonneur en jeu, le Maire n’est plus empoisonné.  
 
 ---
 
 ##  <span style="color:red">Astuces & Conseils</span>    
 
-- Les meilleures cibles sont les rôles donnant des infos en continu : [Empathique](empathique.md), [Croque-Mort](croquemort.md), [Voyante](voyante.md).  
-- Empoisonner un joueur à capacité unique ([Vierge](vierge.md), [Mercenaire](mercenaire.md), [Maire](maire.md)) peut être **dévastateur**.  
+- Les meilleures cibles sont les rôles donnant des infos en continu : [Empathe](empathique.md), [Fossyeur](croquemort.md), [Voyante](voyante.md).  
+- Empoisonner un joueur à capacité unique ([Innocente](vierge.md), [Pourfendeuse](mercenaire.md)], [Maire](maire.md)) peut être **dévastateur**.  
 - Coordonnez-vous avec votre [<span style="color:red">Démon</span>](../demons.md) pour éviter de cibler les mêmes personnes.  
 - Vous pouvez même **empoisonner votre propre Démon** pour simuler une protection (comme si un [Moine](moine.md) l’avait protégé).  
 - Vous pouvez rendre la [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md) inapte à devenir Démon,
-  si l’[<span style="color:red">Imp</span>](imp.md) meurt ainsi, un autre [<span style="color:red">Sbire</span>](../sbires.md) peut prendre le relais.  
+  si le [<span style="color:red">Diablotin</span>](imp.md) se tue lui-même, un autre [<span style="color:red">Sbire</span>](../sbires.md) peut prendre le relais.  
 - Alterner vos cibles brouille les pistes ; mais cibler toujours la même personne peut la faire passer pour un [Ivrogne](ivrogne.md).  
 
 ---
@@ -128,7 +130,7 @@ L’**Empoisonneur** perturbe secrètement les capacités des autres rôles.
 - Méfiez-vous si vos informations deviennent soudainement incohérentes.  
 - L’Empoisonneur adore cibler les leaders de table ou ceux qui parlent beaucoup.  
 - Distinguer l’[Ivrogne](ivrogne.md) de l’Empoisonneur est crucial : si plusieurs joueurs reçoivent de fausses infos, c’est probablement lui.  
-- Le [Bibliothécaire](bibliothecaire.md) ou l’[Enquêteur](enqueteur.md) peuvent le débusquer tôt.  
+- L' [Archiviste](bibliothecaire.md) ou le [Détective](enqueteur.md) peuvent le débusquer tôt.  
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
