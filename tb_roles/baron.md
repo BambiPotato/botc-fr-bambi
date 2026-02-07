@@ -119,9 +119,9 @@ Ces jetons (avec ces remplacements) vont dans le sac pour être tirés par les j
 
 - Votre pouvoir agit **avant même que la partie commence**, ensuite : amusez-vous à **bluffer** et semer la confusion pour aider votre Démon.  
 - Revendiquez être **Étranger** : si le nombre d’Étrangers paraît trop élevé, la ville pensera à un Baron et vous pourrez passer pour un véritable Étranger.  
-- **Doublez** un personnage déjà revendiqué (ex. [**Voyante**](../tb_roles/voyante.md), [**Croque-Mort**](../tb_roles/croquemort.md), [**Maire**](../tb_roles/maire.md)) afin de **dégrader la confiance** dans ses infos.  
+- **Doublez** un personnage déjà revendiqué (ex. [**Voyante**](../tb_roles/voyante.md), [**Fossoyeur**](../tb_roles/croquemort.md), [**Maire**](../tb_roles/maire.md)) afin de **dégrader la confiance** dans ses infos.  
 - Faire croire qu’un **Baron** est en jeu alors qu’il n’y en a pas peut forcer la ville à douter de ses infos (on soupçonnera un [**Ivrogne**](../tb_roles/ivrogne.md)).  
-- Acceptez d’être le **bouc émissaire** : mourir à la place du Démon (ou attirer un [**Mercenaire**](../tb_roles/mercenaire.md) / [**Gardien**](../tb_roles/gardien.md)) protège l’équipe maléfique.  
+- Acceptez d’être le **bouc émissaire** : mourir à la place du Démon (ou attirer une [**Pourfendeuse**](../tb_roles/mercenaire.md) / [**Corneille**](../tb_roles/gardien.md)) protège l’équipe maléfique.  
 - Si vous ne bluffez pas Étranger, **chargez** les vrais Étrangers : la ville pourrait les exécuter.  
 - Parfois, faire tuer le Baron tôt par le Démon vous rend “fiable” en mort et vous permet de **désinformer tranquillement** ensuite.
 
@@ -137,9 +137,9 @@ Ces jetons (avec ces remplacements) vont dans le sac pour être tirés par les j
   - Si vous n'êtes pas certain de la présence d'un Baron, il est probablement préférable de les **exécuter rapidement**,
     les prétendus Étrangers peuvent être des Maléfiques qui bluffent un rôle d'Étranger 
   - Si le compte n’est “pas tout à fait juste”, cherchez l’[**Ivrogne**](../tb_roles/ivrogne.md).  
-- Des rôles comme le [**Bibliothécaire**](../tb_roles/bibliothecaire.md), l’[**Enquêteur**](../tb_roles/enqueteur.md), le [**Croque-Mort**](../tb_roles/croquemort.md) ou le [**Gardien**](../tb_roles/gardien.md) aident à **déduire** la présence d’un Baron.  
-- Contrairement à d’autres Sbires, l’effet du Baron est **visible dès la mise en place**. Il n’est pas toujours nécessaire de l’exécuter si vous avez une meilleure cible, exemple. [<span style="color:red">Imp</span>](../tb_roles/imp.md)  ou [<span style="color:red">Empoisonneur</span>](../tb_roles/empoisonneur.md)  .  
-- Attention : l’[<span style="color:red">**Imp**</span>](../tb_roles/imp.md) peut **transmettre** sa démonialité au Baron ; l’ignorer trop longtemps peut le transformer en Démon en fin de partie.
+- Des rôles comme [**Archiviste**](../tb_roles/bibliothecaire.md), [**Détective**](../tb_roles/enqueteur.md), [**Fossoyeur**](../tb_roles/croquemort.md) ou [**Corneille**](../tb_roles/gardien.md) aident à **déduire** la présence d’un Baron.  
+- Contrairement à d’autres Sbires, l’effet du Baron est **visible dès la mise en place**. Il n’est pas toujours nécessaire de l’exécuter si vous avez une meilleure cible, exemple : le [<span style="color:red">Diablotin</span>](../tb_roles/imp.md)  ou l' [<span style="color:red">Empoisonneur</span>](../tb_roles/empoisonneur.md)  .  
+- Attention : le [<span style="color:red">Diablotin</span>](../tb_roles/imp.md) peut **transmettre** sa démonialité au [<span style="color:red">Baron</span>](../tb_roles/baron.md) ; l’ignorer trop longtemps peut le transformer en Démon en fin de partie.
 
 ---
 
