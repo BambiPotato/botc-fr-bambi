@@ -94,7 +94,7 @@ Le **Cuisinier** sait si des joueurs maléfiques sont assis côte à côte.
 ##  <span style="color:blue">Comment Conter</span>  
 
 - Pendant la **première nuit**, réveillez le Cuisinier.  
-- Montrez-lui un nombre de doigts correspondant au **nombre de paires** de voisins maléfiques (0, 1, 2, etc.).  
+- Montrez-lui des chiffres (0, 1, 2, etc.) correspondant au nombre de paires de joueurs maléfiques voisins.  
 - Endormez le Cuisinier.  
 
 ---
