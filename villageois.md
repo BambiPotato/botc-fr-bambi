@@ -20,11 +20,11 @@ Les Villageois possèdent des capacités puissantes et fiables.
 
 Leur rôle est de collecter des informations, de protéger leurs alliés et de mener le Village à la victoire.
 
-##  Exemples dans *Trouble Brewing*  
-- [Croque-Mort](./tb_roles/croquemort.md) : Apprend le rôle des morts de jour exécutés.
-- [Empathique](./tb_roles/empathique.md) : Apprend combien de ses voisins sont maléfiques.    
+##  Exemples dans **Trouble Brewing**  
+- [Fossoyeur](./tb_roles/croquemort.md) : Apprend le rôle des morts de jour exécutés.
+- [Empathe](./tb_roles/empathique.md) : Apprend combien de ses voisins sont maléfiques.    
 - [Moine](./tb_roles/moine.md) : Protège un joueur ou une joueuse des attaques nocturnes.   
-- [Mercenaire](./tb_roles/mercenaire.md) : Peut tuer le Démon d’un seul coup (une fois par partie).   
+- [Pourfendeuse](./tb_roles/mercenaire.md) : Peut tuer le Démon d’un seul coup (une fois par partie).   
 
  
 
