@@ -106,7 +106,7 @@ L’**Empoisonneur** perturbe secrètement les capacités des autres rôles.
 - L’[Empathe](empathique.md) empoisonné apprend un « 0 » alors qu’il est assis entre deux joueurs <span style="color:red">maléfiques</span>. 
 La nuit suivante, il apprend un « 2 ».  
 - Le [Détective](enqueteur.md) empoisonné apprend que l’un de deux joueurs est le [<span style="color:red">Baron</span>](baron.md), alors qu’aucun ne l’est.  
-- Le [Fossoyeur](croquemort.md) empoisonné apprend une mauvaise information : le [<span style="color:red">Diablotin</span>](imp.md) est mort, mais il croit que c’est l' [Innocnete](vierge.md).  
+- Le [Fossoyeur](croquemort.md) empoisonné apprend une mauvaise information : le [<span style="color:red">Diablotin</span>](imp.md) est mort, mais il croit que c’est l' [Innocente](vierge.md).  
 - L’Empoisonneur cible le [Maire](maire.md), puis devient le [<span style="color:red">Diablotin</span>](imp.md). 
 Comme il n’y a plus d’Empoisonneur en jeu, le Maire n’est plus empoisonné.  
 
