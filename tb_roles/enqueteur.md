@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Enquêteur
+title: Détective
 ---
 
 
@@ -13,7 +13,7 @@ title: Enquêteur
 
 ---
 
-#  <span style="color:blue">Enquêteur</span>    
+#  <span style="color:blue">Détective</span>    
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -83,9 +83,9 @@ title: Enquêteur
 
 ---
 ##  <span style="color:blue">Résumé</span>
-« Vous commencez en apprenant 2 joueurs et le rôle de [<span style="color:red">Sbire</span>](../sbires.md) de l’un des deux.» 
+**« Vous commencez en apprenant 2 joueurs et le rôle de [<span style="color:red">Sbire</span>](../sbires.md) de l’un des deux.»** 
 
-L’**Enquêteur** apprend qu’un rôle de Sbire particulier est en jeu, mais pas lequel des deux joueurs le possède.
+Le **Détective** apprend qu’un rôle de Sbire particulier est en jeu, mais pas lequel des deux joueurs le possède.
 
 Lors de la première nuit, il apprend que l’un de deux joueurs est un **Sbire spécifique**.  
 Il ne reçoit cette information qu’une seule fois, au début de la partie.  
@@ -97,40 +97,40 @@ Il ne reçoit cette information qu’une seule fois, au début de la partie.
 ##  <span style="color:blue">Comment Conter</span>  
 
 - Pendant la préparation de la première nuit :  
-  - Placez le jeton de rappel **<span style="color:red">SBIRE</span>** de l’Enquêteur à côté du jeton d’un [<span style="color:red">Sbire</span>](../sbires.md).  
-  - Placez ensuite le jeton **FAUX** à côté de n’importe quel autre rôle.  
-- Réveillez l’Enquêteur et pointez les deux joueurs marqués **SBIRE** et **FAUX**.  
+  - Placez le jeton de rappel **<span style="color:red">SBIRE</span>** du **Détective** à côté du jeton d’un [<span style="color:red">Sbire</span>](../sbires.md).  
+  - Placez ensuite le jeton **FAUX SBIRE** à côté de n’importe quel autre rôle.  
+- Réveillez le Détective et pointez les deux joueurs marqués **SBIRE** et **FAUX SBIRES**.  
 - Montrez-lui le jeton du rôle du **Sbire** en question.  
 - Rendormez-le ensuite.  
-- Retirez les jetons mémo lorsqu’ils ne sont plus nécessaires.  
+- Retirez les jetons  lorsqu’ils ne sont plus nécessaires.  
 
 ---
 
 ##  <span style="color:blue">Exemples</span>  
 
 - **Céline** est [<span style="color:red">Baron</span>](baron.md), et **Pierre** est [Maire](maire.md).  
-  → L’Enquêteur apprend que soit Céline, soit Pierre est le Baron.  
+  → Le Détective apprend que soit Céline, soit Pierre est le Baron.  
 
 - **Tyld** est [<span style="color:red">Espion</span>](espion.md), et **Julien** est [<span style="color:red">Empoisonneur</span>](empoisonneur.md).  
-  → L’Enquêteur apprend que soit Tyld, soit Julien est l’Espion.  
+  → Le Détective apprend que soit Tyld, soit Julien est l’Espionne.  
 
-- **Tigeni** est [Reclus](reclus.md), et **Kyllian** est [<span style="color:red">Imp</span>](imp.md).  
+- **Tigeni** est [Recluse](reclus.md), et **Kyllian** est [<span style="color:red">Diabltin</span>](imp.md).  
   → L’Enquêteur apprend que soit Tigeni, soit Kyllian est [<span style="color:red">Empoisonneur</span>](empoisonneur.md).  
-  (Le Reclus peut s’enregistrer comme un Sbire, ici comme Empoisonneur.)  
+  (La Recluse peut s’enregistrer comme un Sbire, ici comme Empoisonneur.)  
 
 ---
 
 ##  <span style="color:blue">Astuces & Conseils</span>    
 
-- Partagez votre information **dès le premier jour**. Même sans certitude, exécuter les deux suspects au fil du jeu garantit qu’au moins un [<span style="color:red">Sbire</span>](../sbires.md) meurt.  
+- Partagez votre information dès le premier jour. Même sans certitude, exécuter les deux suspects au fil de la partie garantit la mort d’au moins un [<span style="color:red">Sbire</span>](../sbires.md).  
 
-- Vos infos prennent de la valeur combinées à celles de rôles d’information comme l’[Empathique](empathique.md) ou le [Cuisinier](cuistot.md).  
+- Vos infos prennent de la valeur combinées à celles de rôles d’information comme l’[Empathe](empathique.md) ou le [Cuisinier](cuistot.md).  
 
 - Vous pouvez observer discrètement :  
   - Si un suspect défend souvent un joueur, ce dernier est peut-être le [<span style="color:red">Démon</span>](../demons.md).  
   - Si un suspect s’acharne à faire exécuter un joueur, ce joueur est sans doute bon.  
 
-- Vous pouvez aussi révéler vos infos plus tard à des joueurs de confiance, pour surprendre le Mal.  
+- Vous pouvez aussi révéler vos infos plus tard à des joueurs de confiance, pour surprendre l'équipe Maléfique.  
 
 - Si vous apprenez la présence d’une [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md) ou d’un [<span style="color:red">Empoisonneur</span>](empoisonneur.md), exécutez-les vite !  
 
@@ -138,21 +138,21 @@ Il ne reçoit cette information qu’une seule fois, au début de la partie.
 
 - Si vous apprenez qu’un Sbire autre que le [<span style="color:red">Baron</span>](baron.md) est en jeu, vous savez qu’il y a **0 Étranger**. Si plusieurs joueurs prétendent l’être, l’un ment.  
 
-- ⚠️ Attention au [Reclus](reclus.md) : il peut s’enregistrer comme Sbire.  
+- ⚠️ Attention à la [Recluse](reclus.md) : elle peut s’enregistrer comme Sbire.  
 
 ---
 
-##  <span style="color:blue">Bluffer Enquêteur</span>  
+##  <span style="color:blue">Bluffer Détective</span>  
 
 - Vous êtes censé avoir eu votre info la première nuit : deux joueurs + un rôle de Sbire.  
 
 - Stratégies possibles :  
   - Pointer deux bons joueurs et affirmer que l’un est un Sbire → le Bien peut se déchirer.  
-  - Si vous êtes [<span style="color:red">Démon</span>](../demons.md), nommer un vrai Sbire peut vous rendre crédible (surtout si le [Croque-Mort](croquemort.md) le confirme).  
+  - Si vous êtes [<span style="color:red">Démon</span>](../demons.md), nommer un vrai Sbire peut vous rendre crédible (surtout si le [Fossoyeur](croquemort.md) le confirme).  
   - Bluffer qu’un [<span style="color:red">Baron</span>](baron.md) est en jeu peut forcer vos alliés à prétendre être des Étrangers.  
   - Inversement, feindre avoir vu un [<span style="color:red">Empoisonneur</span>](empoisonneur.md) peut brouiller les pistes si une [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md) agit.  
-  - Si un vrai Enquêteur s’est révélé, le désigner comme l’un de vos « suspects » peut ruiner sa crédibilité.  
-  - Si vous êtes [<span style="color:red">Espion</span>](espion.md), vos infos exactes rendent votre bluff imparable.  
+  - Si un vrai Détective s’est révélé, le désigner comme l’un de vos « suspects » peut ruiner sa crédibilité.  
+  - Si vous êtes [<span style="color:red">Espionne</span>](espion.md), vos infos exactes rendent votre bluff imparable.  
   
 
   ---
@@ -166,7 +166,7 @@ Il ne reçoit cette information qu’une seule fois, au début de la partie.
     🧞
     <img src="../images/Icon_vizier.png" alt="Boffin" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a> :  
-    Si l’Enquêteur apprend que le <span style="color:#d45b5b; font-weight:bold;">Vizir</span> est en jeu <strong>le Conteur n’annonce pas son existence</strong> publiquement. 
+    Si le Détective apprend que le <span style="color:#d45b5b; font-weight:bold;">Vizir</span> est en jeu <strong>le Conteur n’annonce pas son existence</strong> publiquement. 
   </li>   
   </ul>
 
