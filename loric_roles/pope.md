@@ -56,7 +56,7 @@ Le <strong>Pape</strong> crée des revendications de rôles bons dupliqués.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> ou un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a>, ou les deux, ont plusieurs exemplaires dupliqués en jeu.</li>
+  <li>Un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> ou un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a>, ou les deux, peuvent avoir plusieurs exemplaires dupliqués en jeu.</li>
   <li>Il peut n’y avoir qu’un seul rôle dupliqué, ou plusieurs rôles dupliqués.</li>
   <li>Il peut y avoir deux exemplaires d’un même rôle, ou autant que le Conteur dispose de jetons pour les représenter.</li>
   <li>Ces rôles dupliqués peuvent faire partie des trois bluffs donnés au <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.</li>
@@ -91,15 +91,15 @@ des rôles réellement en jeu : certains rôles peuvent rendre la partie trop di
 ##  <span style="color:#7fd1ae;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>Cédric</strong>, <strong>Nicolas</strong> et <strong>Céline</strong> sont tous des 
-<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathiques</a>.<br>
+<strong>Cédric</strong>, <strong>Nicolas</strong> et <strong>Céline</strong> sont  
+<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathes</a>.<br>
 Cédric apprend « 1 ». Nicolas apprend « 0 ». Céline apprend « 2 ».
 <br><br>
-<strong>Noémie</strong> et <strong>Sandra</strong> sont
-<a href="../roles_experimentaux/general.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Générals</a>.<br>
+<strong>Noémie</strong> et <strong>Sandra</strong> ont le même rôle : 
+<a href="../roles_experimentaux/general.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Général</a>.<br>
 <strong>Vanessa</strong> est l’ 
 <a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> 
-qui pense être 
+et pense être le rôle de 
 <a href="../roles_experimentaux/general.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Général</a>.<br>
 <strong>Alexandre</strong> et <strong>Julien</strong> sont 
 <a href="../roles_experimentaux/zealot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Zélotes</a>, 
