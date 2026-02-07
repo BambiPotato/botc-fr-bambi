@@ -123,7 +123,7 @@ Les Sbires ne peuvent pas gagner sans leur Démon, mais leurs capacités perturb
 
 <!-- Jumelle Maléfique -->
 <a href="./sv_roles/jumeaumalefique.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
-  <img src="./images/Icon_evil_twin.png" alt="Jumelle Maléfique" style="width:220px; border-radius:12px;">
+  <img src="./images/Icon_eviltwin.png" alt="Jumelle Maléfique" style="width:220px; border-radius:12px;">
   <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Jumelle Maléfique</span>
 </a>
 
