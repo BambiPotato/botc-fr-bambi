@@ -145,10 +145,11 @@ Ces rôles repoussent les limites de <em>Blood on the Clocktower</em> et inviten
 
   <p style="font-weight:bold; color:#4caf50; margin-bottom:4px;">Lorics 🌿</p>
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
-    <li><a href="loric_roles/bootlegger.html" style="color:#4caf50; text-decoration:none;">Bootlegger</a></li>
-    <li><a href="loric_roles/bigwig.html" style="color:#4caf50; text-decoration:none;">Big Wig</a></li>
-    <li><a href="loric_roles/gardener.html" style="color:#4caf50; text-decoration:none;">Jardinier</a></li>
     <li><a href="loric_roles/stormcatcher.html" style="color:#4caf50; text-decoration:none;">Attrape-tempête</a></li>
+    <li><a href="loric_roles/bootlegger.html" style="color:#4caf50; text-decoration:none;">Bootlegger</a></li>
+    <li><a href="loric_roles/bigwig.html" style="color:#4caf50; text-decoration:none;">Gros Bonnet</a></li>
+    <li><a href="loric_roles/gardener.html" style="color:#4caf50; text-decoration:none;">Jardinier</a></li>
+     <li><a href="loric_roles/pope.html" style="color:#4caf50; text-decoration:none;">Pape</a></li>
     <li><a href="loric_roles/tor.html" style="color:#4caf50; text-decoration:none;">Tor</a></li>
     <li><a href="loric_roles/zenomancer.html" style="color:#4caf50; text-decoration:none;">Zénomancien</a></li>
   </ul>
