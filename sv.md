@@ -80,7 +80,7 @@ title: Sects & Violets
     <li><a href="./sv_roles/sorciere.html" style="color:#c97a7a; text-decoration:none;">Sorcière</a></li>
     <li><a href="./sv_roles/cerenovus.html" style="color:#c97a7a; text-decoration:none;">Cerenovus</a></li>
     <li><a href="./sv_roles/pithag.html" style="color:#c97a7a; text-decoration:none;">Pit-Hag</a></li>
-    <li><a href="./sv_roles/jumeaumalefique.html" style="color:#c97a7a; text-decoration:none;">Jumeau Maléfique</a></li>
+    <li><a href="./sv_roles/jumeaumalefique.html" style="color:#c97a7a; text-decoration:none;">Jumelle Maléfique</a></li>
   </ul>
 
   <!-- Démons -->
@@ -243,7 +243,7 @@ C’est aussi la première apparition de la <strong>Folie</strong>, qui peut com
 </div>
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_eviltwin.png" alt="Jumeau Maléfique" width="300">](sv_roles/jumeaumalefique.html)  
-  [<span style="color:red;">**Jumeau Maléfique**</span>](sv_roles/jumeaumalefique.html)
+  [<span style="color:red;">**Jumelle Maléfique**</span>](sv_roles/jumeaumalefique.html)
 </div>
 
 ---
