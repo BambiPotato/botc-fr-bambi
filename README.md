@@ -423,7 +423,7 @@ table.roles-grid td{
   <tr>
     <!-- Midnight in the House of the Damned -->
     <td>
-      <a href="./mind.html">
+      <a href="./mithotd.html">
         <span class="rg-media">
           <img src="./images/logo_midnight_in_the_house_of_the_damned.png" alt="Midnight in the House of the Damned">
         </span>
@@ -473,11 +473,11 @@ table.roles-grid td{
       </a>
     </td>
 
-    <!-- Étrangers -->
+    <!-- Marginaux -->
     <td style="width:50%; text-align:center; padding:12px; background:rgba(0,0,0,0.45); border:1px solid #b58b52; border-radius:12px;">
       <a href="./etrangers.html" style="text-decoration:none; display:inline-block;">
         <img src="./images/Generic_outsider.png" alt="Étrangers" width="240" style="border-radius:12px;">
-        <div style="margin-top:8px; color:#4ea3ff; font-weight:bold; font-size:20px;">Étrangers</div>
+        <div style="margin-top:8px; color:#4ea3ff; font-weight:bold; font-size:20px;">Marginaux</div>
       </a>
     </td>
   </tr>
@@ -509,13 +509,19 @@ table.roles-grid td{
       </a>
     </td>
 
-    <!-- Légendaires -->
-    <td style="width:50%; text-align:center; padding:12px; background:rgba(0,0,0,0.45); border:1px solid #b58b52; border-radius:12px;">
-      <a href="./legendaire.html" style="text-decoration:none; display:inline-block; opacity:0.8;">
-        <img src="./images/Generic_fabled.png" alt="Légendaires" width="240" style="border-radius:12px; opacity:0.7;">
-        <div style="margin-top:8px; color:d4a76a; font-weight:bold; font-size:20px;">Légendaires</div>
-      </a>
-    </td>
+   <!-- Légendaires -->
+<td style="width:50%; text-align:center; padding:12px; background:rgba(0,0,0,0.45); border:1px solid #b58b52; border-radius:12px;">
+  <a href="./legendaire.html" style="text-decoration:none; display:inline-block;">
+    <img src="./images/Generic_fabled.png"
+         alt="Légendaires"
+         width="240"
+         style="
+           border-radius:12px;
+           filter: brightness(1.25) contrast(1.1);
+         ">
+    <div style="margin-top:8px; color:#d4a76a; font-weight:bold; font-size:20px;">Légendaires</div>
+  </a>
+</td>
   </tr>
 
   <tr>
