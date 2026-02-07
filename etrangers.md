@@ -11,9 +11,9 @@ title: Les Marginaux
 </p>
 
 
-# <span style="color:blue">Étrangers</span>  
+# <span style="color:blue">Marginaux</span>  
 
-![<span style="color:blue">Étrangers</span>](./images/Generic_outsider.png)  
+![<span style="color:blue">Marginaux</span>](./images/Generic_outsider.png)  
 
 **Alignement :** 🔵 Bon  
 **But :** Trouver et exécuter le Démon… malgré leurs handicaps.  
@@ -184,8 +184,8 @@ Ils sèment le doute mais restent du côté des bons.
 
 ## Autres catégories :  
 - [Villageois](villageois.md)  
-- [Sbires](sbires.md)  
-- [Démons](demons.md)  
+- [<span style="color:red">Sbires</span>](sbires.md)  
+- [<span style="color:red">Démons</span>](demons.md)  
 
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-top:10px;">
