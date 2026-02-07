@@ -99,7 +99,7 @@ L’**Empathe** apprend chaque nuit combien de ses voisins encore vivants sont m
 ##  <span style="color:blue;">Exemples</span>   
 
 - L’Empathe a deux voisins bons : un [Soldat](soldat.md) et un [Moine](moine.md). → il apprend **0**.  
-- Le lendemain, le [Soldat](soldat.md) est exécuté, puis la nuit suivante le [Moine](moine.md) est tué par le [ <span style="color:red">Diablotin</span>](imp.md). L’Empathe détecte désormais les voisins du [Soldat](soldat.md) et du [Moine](moine.md) : un [Archiviste](bibliothecaire.md) (bon) et un Voyageur maléfique. → il apprend **1**.  
+- Le lendemain, le [Soldat](soldat.md) est exécuté, puis la nuit suivante le [Moine](moine.md) est tué par le [ <span style="color:red">Diablotin</span>](imp.md). L’Empathe détecte désormais les voisins du [Soldat](soldat.md) et du [Moine](moine.md) : un [Archiviste](bibliothecaire.md) et un Voyageur maléfique. → il apprend **1**.  
 - Il ne reste plus que trois joueurs vivants : l’Empathe, le [ <span style="color:red">Diablotin</span>](imp.md) et le [<span style="color:red">Baron</span>](baron.md). → l’Empathe apprend **2**, quelle que soit la disposition.  
 
 ---
