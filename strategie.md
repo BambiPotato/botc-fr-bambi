@@ -56,7 +56,7 @@ Mais votre mission personnelle dépend de votre rôle :
 </p>
 <ul>
   <li><a href="./tb_roles/saint.html" style="color:blue;">Saint</a> : évitez l’exécution, sinon le Bien pourrait perdre.</li>
-  <li><a href="./tb_roles/croquemort.html" style="color:blue;">Croque-Mort</a> : restez en vie pour identifier les rôles exécutés.</li>
+  <li><a href="./tb_roles/croquemort.html" style="color:blue;">Fossoyeur</a> : restez en vie pour identifier les rôles exécutés.</li>
   <li><a href="./tb_roles/soldat.html" style="color:blue;">Soldat</a> : attirez l’attaque du Démon pour sauver vos alliés.</li>
 </ul>
 
@@ -94,10 +94,10 @@ Mais avant la fin, révélez la vérité au groupe pour aider à la résolution.
 <h3 style="color:#e0c99d;"> Prouvez votre identité</h3>
 <p>
 Vos informations peuvent être confirmées par d’autres rôles :
-<a href="./tb_roles/cuistot.html" style="color:blue;">Cuistot</a>, 
-<a href="./tb_roles/croquemort.html" style="color:blue;">Croque-Mort</a>,
-<a href="./tb_roles/vierge.html" style="color:blue;">Vierge</a>,
-<a href="./tb_roles/enqueteur.html" style="color:blue;">Enquêteur</a>…
+<a href="./tb_roles/cuistot.html" style="color:blue;">Cuisinier</a>, 
+<a href="./tb_roles/croquemort.html" style="color:blue;">Fossoyeur</a>,
+<a href="./tb_roles/vierge.html" style="color:blue;">Innocente</a>,
+<a href="./tb_roles/enqueteur.html" style="color:blue;">Détective</a>…
 </p>
 
 <h3 style="color:#e0c99d;"> Soyez proactif</h3>
@@ -106,7 +106,7 @@ Demandez des actions sur vous :
 </p>
 <ul>
   <li>Protection d’un <a href="./tb_roles/moine.html" style="color:blue;">Moine</a></li>
-  <li>Tir d’un <a href="./tb_roles/mercenaire.html" style="color:blue;">Mercenaire</a></li>
+  <li>Tir d’un <a href="./tb_roles/mercenaire.html" style="color:blue;">Pourfendeuse</a></li>
   <li>Choix d’une <a href="./tb_roles/voyante.html" style="color:blue;">Voyante</a></li>
 </ul>
 
@@ -157,7 +157,7 @@ Attendez des preuves avant de le supposer.
 
 <h3 style="color:#e0c99d;">  Intuition et esprit d’équipe</h3>
 <p>
-Votre instinct a sa place dans Clocktower.  
+Votre instinct a sa place dans Blood on the Clocktower.  
 Mais n’oubliez pas : la victoire est presque toujours collective.
 </p>
 
@@ -276,18 +276,18 @@ Restez en vie. Sans vous, le Mal perd toute chance, sauf cas spéciaux :
 Utilisez vos Sbires : cachez-vous derrière eux, écoutez leurs infos, laissez-les détourner les soupçons.  
 Tuez les rôles dangereux au bon moment :
 <a href="./tb_roles/voyante.html" style="color:blue;">Voyante</a>, 
-<a href="./tb_roles/empathique.html" style="color:blue;">Empathique</a>, 
-<a href="./tb_roles/croquemort.html" style="color:blue;">Croque-Mort</a>…
+<a href="./tb_roles/empathique.html" style="color:blue;">Empathe</a>, 
+<a href="./tb_roles/croquemort.html" style="color:blue;">Fossoyeur</a>…
 </p>
 
 <p>
-Planifiez, mentez, adaptez. Et surtout : amusez-vous à être le Mal.
+Planifiez, mentez, adaptez. Et surtout : amusez-vous à être Maléfique.
 </p>
 
 <hr>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px;">
-« Qu’importe votre camp… tant que vous jouez avec panache. »
+« Qu’importe votre camp… tant que vous jouez avec panache, bienveillance et amusement. »
 </p>
 
 
