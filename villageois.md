@@ -23,12 +23,12 @@ Leur rôle est de collecter des informations, de protéger leurs alliés et de m
 ##  Exemples dans **Trouble Brewing**  
 - [Fossoyeur](./tb_roles/croquemort.md) : Apprend le rôle des morts de jour exécutés.
 - [Empathe](./tb_roles/empathique.md) : Apprend combien de ses voisins sont maléfiques.    
-- [Moine](./tb_roles/moine.md) : Protège un joueur ou une joueuse des attaques nocturnes.   
+- [Moine](./tb_roles/moine.md) : Protège un joueur ou une joueuse des attaques ou des capacités nocturnes du Démon.   
 - [Pourfendeuse](./tb_roles/mercenaire.md) : Peut tuer le Démon d’un seul coup (une fois par partie).   
 
 <hr style="border-color:rgba(224,185,122,0.2); margin:14px 0 10px;">
 
-<h2 style="color:#4ea3ff; font-weight:800; font-size:22px; text-align:left;">Tous les Villageois (Trouble Brewing • Bad Moon Rising • Sects & Viloets • Expérimentaux)</h2>
+<h2 style="color:#4ea3ff; font-weight:800; font-size:22px; text-align:left;">Tous les Villageois • Trouble Brewing • Bad Moon Rising • Sects & Violets • Expérimentaux</h2>
 
 <!-- GRID VILLAGEOIS (ALPHABÉTIQUE) -->
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin:8px 0 6px 0;">
