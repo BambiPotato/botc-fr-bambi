@@ -33,7 +33,7 @@ Leur rôle est de collecter des informations, de protéger leurs alliés et de m
   <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:800; text-decoration:none;">• Trouble Brewing</a> 
   <a href="./bmr.html" style="color:#ffa64d; font-weight:800; text-decoration:none;">• Bad Moon Rising</a> 
   <a href="./sv.html" style="color:#d67bff; font-weight:800; text-decoration:none;">• Sects & Violets</a>
-  <a href="./experimentaux.html" style="color:#d67bff; font-weight:800; text-decoration:none;">• Expérimentaux</a>
+  <a href="./experimentaux.html" style="color:#e0b97a; font-weight:800; text-decoration:none;">• Expérimentaux</a>
 </h2>
 
 
