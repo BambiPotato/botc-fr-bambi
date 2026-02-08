@@ -14,12 +14,6 @@ title: Comment Conter la Pixie
    Comment conter la Pixie
 </h1>
 
-<p align="left">
-  <a href="/botc-fr-bambi/">
-    <img src="./images/logogold.png" alt="Accueil BotC FR" width="300">
-  </a>
-</p>
-
 <!-- Pixie -->
 
 <div style="text-align:center; margin: 20px 0%;">
