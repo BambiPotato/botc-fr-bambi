@@ -158,13 +158,13 @@ afin d’éviter d’avoir trop de joueurs maléfiques.
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 La première nuit, l’Ogre choisit l’
-<a href="../roles_experimentaux/summoner.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Invocateur</a>.  
+<a href="../roles_experimentaux/summoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocateur</a>.  
 L’Ogre devient maléfique et le reste jusqu’à la fin de la partie.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 La première nuit, l’Ogre choisit la 
-<a href="../roles_experimentaux/banshee.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Banshee</a>.  
+<a href="../roles_experimentaux/banshee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Banshee</a>.  
 L’Ogre reste bon.  
 La troisième nuit, le 
 <a href="../roles_experimentaux/mezepheles.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mezepheles</a> rend la Banshee maléfique.  
