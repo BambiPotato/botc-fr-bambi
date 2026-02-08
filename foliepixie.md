@@ -5,7 +5,7 @@ title: Comment Conter la Pixie
 
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="images/logogold.png" alt="Accueil BotC FR" width="300">
+    <img src="./images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
@@ -14,10 +14,9 @@ title: Comment Conter la Pixie
    Comment conter la Pixie
 </h1>
 
-
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
+    <img src="./images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
@@ -25,7 +24,7 @@ title: Comment Conter la Pixie
 
 <div style="text-align:center; margin: 20px 0%;">
   <a href="./pixie.html" style="text-decoration:none;">
-    <img src="../images/Icon_pixie.png" alt="Pixie" width="260" style="border-radius:12px;">
+    <img src="./images/Icon_pixie.png" alt="Pixie" width="260" style="border-radius:12px;">
     <br>
     <span style="color:#4ea3ff; font-weight:bold; font-size:22px;">Pixie</span>
   </a>
@@ -33,8 +32,8 @@ title: Comment Conter la Pixie
 
 <!-- APPARAÎT DANS -->
 <div style="text-align:center; margin: 20px 0%;">
-  <a href="../experimentaux.html" style="text-decoration:none;">
-    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
+  <a href="./experimentaux.html" style="text-decoration:none;">
+    <img src="./images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
     <br>
     <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
   </a>
@@ -59,7 +58,7 @@ title: Comment Conter la Pixie
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
-    <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
+    <a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
   </li>
   <li>
   <strong>Nom original :</strong>
@@ -181,7 +180,6 @@ soit la personne <em>joue le jeu</em>, soit elle ne le fait pas — et dans tous
   <li><a href="./sv_roles/cerenovus.html" style="color:red; font-weight:bold; text-decoration:none;">Cerenovus</a></li>
   <li><a href="./tb_roles/lavandiere.html" style="color:blue; font-weight:bold; text-decoration:none;">Lavandière</a></li>
   <li><a href="./sv_roles/savant.html" style="color:blue; font-weight:bold; text-decoration:none;">Savant</a></li>
-  </a></li>
 </ul>
 
 <!-- ===== Navigation ===== -->
@@ -191,6 +189,6 @@ soit la personne <em>joue le jeu</em>, soit elle ne le fait pas — et dans tous
   <li> <a href="./trouble_brewing.md" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
   <li> <a href="./bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
   <li> <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a></li>
-   <li> <a href="./experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a></li>
+  <li> <a href="./experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a></li>
   <li> <a href="./index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
 </ul>
