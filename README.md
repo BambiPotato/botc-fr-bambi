@@ -862,9 +862,7 @@ table.roles-grid td{
     color:#e0c99d;
     line-height:1.6;
   ">
-    Pour toute question, suggestion ou amélioration du wiki,<br>
-    vous pouvez me contacter :  
-    <a href="mailto:bambibluepotato@gmail.com"
+    Pour toute question ou amélioration du wiki, vous pouvez me contacter : <a href="mailto:bambibluepotato@gmail.com"
        style="color:#ffb84d; font-weight:bold; text-decoration:none;">
        BambiBluePotato
     </a>
