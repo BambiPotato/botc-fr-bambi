@@ -840,17 +840,13 @@ table.roles-grid td{
 ">
 
   <h2 style="color:#b58b52; font-weight:bold; font-size:18px; margin-bottom:10px;">
-    Wiki Francophone « non officiel »
+    Wiki Francophone 
   </h2>
 
   <!-- Petit icône communauté -->
   <img src="./images/bambibluepotato.png"
        alt="Communauté Bambi Blue Potato Clocktower"
        style="width:100px; height:auto; margin-bottom:15px; opacity:0.9; display:block;">
-
-  <p style="color:#e0c99d; font-size:16px; margin-bottom:15px;">
-    Rejoignez notre petite communauté sur <span style="color:#d4a76a; font-weight:bold;">Discord</span> pour jouer en ligne et participer à nos parties streamées :
-  </p>
 
   <ul style="list-style:none; padding-left:0; font-size:16px; color:#e0c99d;">
     <li> <a href="https://discord.gg/tGDVmZfZpE" target="_blank" style="color:#ffb84d; font-weight:bold; text-decoration:none;">Discord</a></li>
