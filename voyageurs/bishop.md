@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bishop
+title: Évêque
 ---
 
 <p align="left">
