@@ -48,64 +48,27 @@ title: Comment Conter la Pixie
 
 ---
 
-## <span style="color:#b58b52;">Sommaire</span>
+<!-- ===== SOMMAIRE (ajouté, en liste verticale) ===== -->
+<h2 style="color:#b58b52; font-weight:bold; font-size:28px; margin-top:10px;">Sommaire</h2>
 
-<!-- Sommaire cliquable responsive (PC/Mac + mobile) -->
-<div style="margin: 10px 0 18px 0; display:flex; flex-wrap:wrap; gap:10px; justify-content:center;">
+<ul style="color:#e0c99d; font-size:18px; line-height:1.9; margin-left:40px;">
+  <li><a href="#informations" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Informations</a></li>
+  <li><a href="#resume" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Résumé</a></li>
+  <li><a href="#folie-steven" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">La Folie expliquée par Steven</a></li>
+  <li><a href="#concept-general" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Le concept général</a></li>
+  <li><a href="#fonctionnement" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fonctionnement de la Pixie</a></li>
+  <li><a href="#jugements" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exemples de jugements possibles</a></li>
+  <li><a href="#role-conteur" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Le rôle du Conteur et de la Conteuse</a></li>
+  <li><a href="#analogie" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Une analogie avec l’humour</a></li>
+  <li><a href="#en-resume" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">En résumé</a></li>
+  <li><a href="#conclusion" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Conclusion</a></li>
+  <li><a href="#plus-loin" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pour aller plus loin</a></li>
+  <li><a href="#navigation" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Navigation</a></li>
+</ul>
 
-  <a href="#infos" style="display:inline-block; padding:8px 12px; border-radius:10px; background:rgba(0,0,0,0.35); border:1px solid rgba(212,167,106,.35); color:#f5f5f5; font-weight:bold; text-decoration:none; font-size:16px;">
-     Informations
-  </a>
+<hr style="border:1px solid rgba(212,167,106,.35); margin:18px 0;">
 
-  <a href="#resume" style="display:inline-block; padding:8px 12px; border-radius:10px; background:rgba(0,0,0,0.35); border:1px solid rgba(212,167,106,.35); color:#f5f5f5; font-weight:bold; text-decoration:none; font-size:16px;">
-     Résumé
-  </a>
-
-  <a href="#folie-steven" style="display:inline-block; padding:8px 12px; border-radius:10px; background:rgba(0,0,0,0.35); border:1px solid rgba(212,167,106,.35); color:#f5f5f5; font-weight:bold; text-decoration:none; font-size:16px;">
-     Folie (Steven)
-  </a>
-
-  <a href="#concept" style="display:inline-block; padding:8px 12px; border-radius:10px; background:rgba(0,0,0,0.35); border:1px solid rgba(212,167,106,.35); color:#f5f5f5; font-weight:bold; text-decoration:none; font-size:16px;">
-     Le concept général
-  </a>
-
-  <a href="#fonctionnement" style="display:inline-block; padding:8px 12px; border-radius:10px; background:rgba(0,0,0,0.35); border:1px solid rgba(212,167,106,.35); color:#f5f5f5; font-weight:bold; text-decoration:none; font-size:16px;">
-     Fonctionnement
-  </a>
-
-  <a href="#jugements" style="display:inline-block; padding:8px 12px; border-radius:10px; background:rgba(0,0,0,0.35); border:1px solid rgba(212,167,106,.35); color:#f5f5f5; font-weight:bold; text-decoration:none; font-size:16px;">
-     Exemples
-  </a>
-
-  <a href="#role-conteur" style="display:inline-block; padding:8px 12px; border-radius:10px; background:rgba(0,0,0,0.35); border:1px solid rgba(212,167,106,.35); color:#f5f5f5; font-weight:bold; text-decoration:none; font-size:16px;">
-     Rôle du Conteur
-  </a>
-
-  <a href="#analogie" style="display:inline-block; padding:8px 12px; border-radius:10px; background:rgba(0,0,0,0.35); border:1px solid rgba(212,167,106,.35); color:#f5f5f5; font-weight:bold; text-decoration:none; font-size:16px;">
-     Analogie
-  </a>
-
-  <a href="#en-resume" style="display:inline-block; padding:8px 12px; border-radius:10px; background:rgba(0,0,0,0.35); border:1px solid rgba(212,167,106,.35); color:#f5f5f5; font-weight:bold; text-decoration:none; font-size:16px;">
-     En résumé
-  </a>
-
-  <a href="#conclusion" style="display:inline-block; padding:8px 12px; border-radius:10px; background:rgba(0,0,0,0.35); border:1px solid rgba(212,167,106,.35); color:#f5f5f5; font-weight:bold; text-decoration:none; font-size:16px;">
-     Conclusion
-  </a>
-
-  <a href="#plus-loin" style="display:inline-block; padding:8px 12px; border-radius:10px; background:rgba(0,0,0,0.35); border:1px solid rgba(212,167,106,.35); color:#f5f5f5; font-weight:bold; text-decoration:none; font-size:16px;">
-     Pour aller plus loin
-  </a>
-
-  <a href="#navigation" style="display:inline-block; padding:8px 12px; border-radius:10px; background:rgba(0,0,0,0.35); border:1px solid rgba(212,167,106,.35); color:#f5f5f5; font-weight:bold; text-decoration:none; font-size:16px;">
-     Navigation
-  </a>
-
-</div>
-
----
-
-##  <span id="infos" style="color:#4ea3ff;">Informations</span>
+##  <span id="informations" style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
@@ -148,7 +111,7 @@ La <strong>Pixie</strong> prétend être le même rôle qu’un autre joueur ou 
 </p>
 
 <!-- ===== Concept ===== -->
-<h2 id="concept" style="color:#b58b52; font-weight:bold; font-size:28px;"> Le concept général</h2>
+<h2 id="concept-general" style="color:#b58b52; font-weight:bold; font-size:28px;"> Le concept général</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 La question centrale porte sur <strong>quand</strong> s’applique la folie et sur la notion de folie “forcée” en lien avec la Pixie.
 La folie peut sembler déroutante&nbsp;: on peut <strong>être folle ou fou maintenant</strong> sans l’avoir été <strong>toute la partie</strong>, et inversement.
@@ -198,15 +161,14 @@ ce qui doit être dit ni sur le moment exact. Chaque situation est unique. Ce qu
 <!-- ===== Analogie ===== -->
 <h2 id="analogie" style="color:#b58b52; font-weight:bold; font-size:28px;"> Une analogie avec l’humour</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Être <strong>« fou »</strong>  se juge un peu comme être <strong>« drôle »</strong>.<br> 
-Cela dépend du contexte et du ressenti du groupe à un moment donné.<br>
+Être <strong>« fou »</strong>  se juge un peu comme être <strong>« drôle »</strong>. Cela dépend du contexte et du ressenti du groupe à un moment donné.
 Le conteur ne coche pas des cases&nbsp;: il évalue l’intention et l’effet global.
 </p>
 
 <!-- ===== Résumé ===== -->
 <h2 id="en-resume" style="color:#b58b52; font-weight:bold; font-size:28px;"> En résumé</h2>
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:26px;">
-  <li>La <strong style="color:blue;">folie</strong> encourage les joueurs et les joueuses du <span style="color:blue; font-weight:bold;">Bien</span> à mentir volontairement.</li>
+  <li>La <strong style="color:blue;">folie</strong> encourage les joueuses et les joueurs du <span style="color:blue; font-weight:bold;">Bien</span> à mentir volontairement.</li>
   <li>L’<strong>ivresse</strong> et le <strong>poison</strong> créent des mensonges involontaires.</li>
   <li>Certains rôles de soutien à l’ambiance valorisent aussi l’humour et la légèreté.</li>
 </ul>
@@ -235,7 +197,7 @@ soit la personne <em>joue le jeu</em>, soit elle ne le fait pas — et dans tous
 </ul>
 
 <!-- ===== Navigation ===== -->
-<h3 id="navigation" style="color:#b58b52; font-weight:bold; font-size:22px; margin-top:12px;"> Navigation</h3>
+<h3 id="navigation" style="color:#b58b52; font-weight:bold; font-size:22px; margin-top:12px;">📂 Navigation</h3>
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li> <a href="./conteur.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Conseils aux Conteurs et Conteuses</a></li>
   <li> <a href="./trouble_brewing.md" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
