@@ -23,9 +23,9 @@ title: Démons
 </p>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.8;">
-Le Démon est le chef de l’équipe des forces maléfiques.  
-C’est lui qui incarne la terreur nocturne du jeu.  
-Si le Démon est exécuté, les joueurs du Bien remportent la partie,  
+Le Démon est le chef de l’équipe des forces maléfiques.<br>  
+C’est lui qui incarne la terreur nocturne du jeu.<br>  
+Si le Démon est exécuté, les joueurs du Bien remportent la partie,<br>  
 sauf cas particuliers comme celui de la <a href="./tb_roles/femmeecarlate.html" style="color:red; font-weight:bold; text-decoration:none;">Femme Écarlate</a>.
 </p>
 
@@ -41,7 +41,7 @@ sauf cas particuliers comme celui de la <a href="./tb_roles/femmeecarlate.html" 
 
 <hr>
 
-<h2 style="color:#b58b52; font-weight:bold;">💡 Conseils pour les Conteur et Conteuse</h2>
+<h2 style="color:#b58b52; font-weight:bold;">💡 Conseils pour les Conteurs et Conteuses</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Lorsqu’un Démon agit, veillez à :
 </p>
