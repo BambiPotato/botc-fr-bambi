@@ -11,7 +11,7 @@ title: Comment Conter la Pixie
 
 <!-- ===== Titre ===== -->
 <h1 style="color:#b58b52; font-weight:bold; font-size:40px; text-shadow:2px 2px 6px #000;">
-   Comment conter la Folie 
+   Comment conter la Pixie
 </h1>
 
 <h2 style="color:#c9b08a; font-weight:bold; font-size:24px; margin-top:-6px;">
