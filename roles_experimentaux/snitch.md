@@ -125,7 +125,7 @@ Pour chaque <span style="color:#d45b5b; font-weight:bold;">Sbire</span> :
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Réveillez le Sbire.</li>
   <li>Montrez-lui le jeton d’information « Ces rôles ne sont pas en jeu ».</li>
-  <li>Montrez-lui ensuite <strong>trois jetons de rôles non en jeu</strong>.</li>
+  <li>Montrez-lui ensuite <strong>trois jetons de rôles qui ne sont pas en jeu</strong>.</li>
   <li>Endormez le Sbire.</li>
 </ul>
 
@@ -149,7 +149,7 @@ répétez ce processus à ce moment-là : tous les Sbires apprennent
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 La première nuit, le <span style="color:#d45b5b; font-weight:bold;">Démon</span> et ses deux 
-<span style="color:#d45b5b; font-weight:bold;">Sbires</span> apprennent tous que la 
+<span style="color:#d45b5b; font-weight:bold;">Sbires</span> apprennent tous que le
 <a href="../sv_roles/sage.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a>,  
 l’
 <a href="../bmr_roles/aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a>  
@@ -159,18 +159,26 @@ ne sont pas en jeu.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Dans une autre partie, le <span style="color:#d45b5b; font-weight:bold;">Démon</span> apprend que l’Idiot, le Moine et le 
+Dans une autre partie, le <span style="color:#d45b5b; font-weight:bold;">Démon</span> apprend que l’
+<a href="../roles_experimentaux/villageidiot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Idiot du Village</a>, le
+<a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> et le 
 <a href="../tb_roles/saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a>  
 ne sont pas en jeu.  
 Le 
-<a href="../bmr_roles/Cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a>  
+<a href="../bmr_roles/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a>  
 apprend les mêmes trois rôles,  
 tandis que la 
-<a href="../roles_experimentaux/witch.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a>  
-apprend que l’Idiot, la Fille aux fleurs et le Barbier ne sont pas en jeu,  
+<a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a>  
+apprend que l’
+<a href="../roles_experimentaux/villageidiot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Idiot du Village</a>, la
+<a href="../sv_roles/fleuriste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a> et le
+<a href="../sv_roles/barbier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Barbier</a>  
+ne sont pas en jeu,  
 et le 
 <a href="../roles_experimentaux/fearmonger.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fearmonger</a>  
-apprend que le Noble, l’Amnésique et l’
+apprend que le
+<a href="../roles_experimentaux/noble.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Noble</a>, l’
+<a href="../roles_experimentaux/amnesiac.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Amnésique</a> et l’
 <a href="../roles_experimentaux/heretic.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Hérétique</a>  
 ne sont pas en jeu.
 </p>
@@ -201,17 +209,17 @@ trois nouveaux rôles non en jeu à bluffer.
       (par exemple une 
       <a href="../roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a>,  
       un 
-      <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-mort</a>,  
+      <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a>,  
       un 
       <a href="../tb_roles/saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a>,  
-      une 
+      un
       <a href="../sv_roles/sage.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a>  
       ou une Brute).  
       Si vous trouvez qui ils sont, vous gagnerez souvent un allié sûr.</li>
 
   <li>Encouragez le groupe à partager tôt qui est qui.  
-      Dans une partie avec Balance, les mensonges de rôle des joueurs bons  
-      sont souvent plus nocifs pour le Bien que pour le Mal,  
+      Dans une partie avec une Balance, les mensonges de rôle des joueurs bons  
+      sont souvent plus nocifs pour le Bien que pour les Maléfiques,  
       car les <span style="color:#d45b5b; font-weight:bold;">Sbires</span> savent déjà quels rôles ne peuvent pas être en jeu.</li>
 
   <li>Révéler tôt que vous êtes la Balance peut aider le village :  
@@ -226,8 +234,8 @@ trois nouveaux rôles non en jeu à bluffer.
   <li>Soyez active ou actif : vous possédez une information méta importante sur la partie.  
       Même si ce n’est pas une info directe sur les alignements,  
       c’est une info sur la manière dont le Mal va bluffer.  
-      Jouez comme un ou une 
-      <a href="../tb_roles/bibliothecaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bibliothécaire</a>  
+      Jouez comme un 
+      <a href="../tb_roles/bibliothecaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Archiviste</a>  
       ou un autre rôle d’info : votre but est de partager ce que vous savez.</li>
 
 </ul>
