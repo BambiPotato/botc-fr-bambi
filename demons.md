@@ -11,18 +11,18 @@ title: Démons
 
 <!--  Page : Démons -->
 
-<h1 style="color:red; font-weight:bold; font-size:36px;"> Démons</h1>
+<h1 style="color:#d45b5b; font-weight:bold; font-size:36px;"> Démons</h1>
 
 <p align="center">
   <img src="./images/Generic_demon.png" alt="Démon" style="max-width:200px; border-radius:10px; margin-top:10px;">
 </p>
 
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong>Alignement :</strong> 🔴 <span style="color:red;">Maléfique</span><br>
 <strong>But :</strong> Tuer suffisamment de joueurs pour que le village ne puisse plus gagner.
 </p>
 
-<p style="color:#e0c99d; font-size:18px; line-height:1.8;">
+<p style="color:#f5f5f5; font-size:18px; line-height:1.8;">
 Le Démon est le chef de l’équipe des forces maléfiques.<br>  
 C’est lui qui incarne la terreur nocturne du jeu.<br>  
 Si le Démon est exécuté, les joueurs du Bien remportent la partie,<br>  
@@ -35,17 +35,17 @@ sauf cas particuliers comme celui de la <a href="./tb_roles/femmeecarlate.html" 
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:24px;">
   <li>
-    <a href="./tb_roles/imp.html" style="color:red; font-weight:bold; text-decoration:none;">Diablotin</a> : tue un joueur chaque nuit et peut transmettre son rôle à un sbire en mourant.
+    <a href="./tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> : tue un joueur chaque nuit et peut transmettre son rôle à un sbire en mourant.
   </li>
 </ul>
 
 <hr>
 
 <h2 style="color:#b58b52; font-weight:bold;">💡 Conseils pour les Conteurs et Conteuses</h2>
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Lorsqu’un Démon agit, veillez à :
 </p>
-<ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:24px;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:24px;">
   <li>préserver le suspense en gérant le rythme des nuits ;</li>
   <li>masquer les choix du Démon pour ne pas révéler son identité ;</li>
   <li>jouer les réactions du village avec neutralité pour maintenir la tension dramatique.</li>
