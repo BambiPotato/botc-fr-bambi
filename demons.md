@@ -179,9 +179,9 @@ Lorsqu’un Démon agit, veillez à :
 
 </div>
 
-<h2 style="color:#b58b52; font-weight:bold;"> Navigation</h2>
+<hr>
+<h2 style="color:#b58b52; font-weight:bold;"> Autres Catégories</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
- Autres catégories :
 </p>
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:24px;">
   <li><a href="./villageois.html" style="color:blue; font-weight:bold; text-decoration:none;">Villageois</a></li>
