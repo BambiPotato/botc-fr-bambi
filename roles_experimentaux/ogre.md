@@ -111,16 +111,16 @@ L’<strong>Ogre</strong> est le meilleur ami de quelqu'un.
   <li>
     🧞
     <img src="../images/Icon_recluse-1.png" alt="Reclus" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a> :  
-    Si le Reclus est enregistré comme maléfique auprès de l’Ogre,  
+    <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a> :  
+    Si la Recluse est enregistrée comme maléfique auprès de l’Ogre,  
     l’Ogre apprend qu’il est maléfique.
   </li>
 
   <li>
     🧞
     <img src="../images/Icon_spy.png" alt="Espion" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espion</a> :  
-    L’Espion est enregistré comme maléfique auprès de l’Ogre.
+    <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a> :  
+    L’Espionne est enregistrée comme maléfique auprès de l’Ogre.
   </li>
 
 </ul>
@@ -143,9 +143,9 @@ répétez ce processus la nuit où il est créé.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>Règle optionnelle :</strong>  
-vous pouvez marquer le joueur choisi par l’Ogre avec le rappel <strong>AMI (FRIEND)</strong>.  
-L’Ogre a alors toujours le même alignement que son ami.  
+<strong>Règle optionnelle</strong>  
+Vous pouvez marquer le joueur choisi par l’Ogre avec le rappel <strong>AMIGO</strong>.  
+L’Ogre a alors toujours le même alignement que son "amigo".  
 Si l’ami de l’Ogre change d’alignement, l’Ogre change également d’alignement,  
 mais l’Ogre ne l’apprend pas.  
 Cette variante est recommandée uniquement pour des parties à <strong>15 joueurs ou plus</strong>,  
