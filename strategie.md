@@ -259,7 +259,7 @@ Soutenez publiquement une théorie ou une accusation : elle servira plus tard.
   <li>Protégez-le, quitte à vous sacrifier.</li>
   <li>Si vous êtes découvert, sèmez la confusion avant de tomber.</li>
   <li>Restez en vie : chaque mort rouge est une perte lourde.</li>
-  <li>Si vous devez mourir, faites-le avec style : une mort bien jouée renforce la crédibilité du Mal.</li>
+  <li>Si vous devez mourir, faites-le avec style : une mort bien jouée renforce la crédibilité des Maléfiques.</li>
 </ul>
 
 <hr>
@@ -267,9 +267,9 @@ Soutenez publiquement une théorie ou une accusation : elle servira plus tard.
 <h2 id="section22"><span style="color:#e0c99d;">Oh lala, je suis le <span style="color:red;">Démon</span> !</span> </h2>
 
 <p>
-Restez en vie. Sans vous, le Mal perd toute chance, sauf cas spéciaux : 
+Restez en vie. Sans vous, les Maléfiques perdent toute chance, sauf cas spéciaux : 
 <a href="./bmr_roles/avocatdudiable.html" style="color:red;">Avocat du Diable</a> ou 
-<a href="./tb_roles/femmeecarlate.html" style="color:red;">Femme Écarlate</a>).
+<a href="./tb_roles/femmeecarlate.html" style="color:red;">Femme Écarlate</a>.
 </p>
 
 <p>
