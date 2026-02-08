@@ -106,7 +106,7 @@ Demandez des actions sur vous :
 </p>
 <ul>
   <li>Protection d’un <a href="./tb_roles/moine.html" style="color:blue;">Moine</a></li>
-  <li>Tir d’un <a href="./tb_roles/mercenaire.html" style="color:blue;">Pourfendeuse</a></li>
+  <li>Tir d’une <a href="./tb_roles/mercenaire.html" style="color:blue;">Pourfendeuse</a></li>
   <li>Choix d’une <a href="./tb_roles/voyante.html" style="color:blue;">Voyante</a></li>
 </ul>
 
