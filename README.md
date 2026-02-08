@@ -517,7 +517,7 @@ table.roles-grid td{
          width="240"
          style="
            border-radius:12px;
-           filter: brightness(1.18) contrast(1.08);
+           filter: brightness(1.15) contrast(1.10);
          ">
     <div style="margin-top:8px; color:#d4a76a; font-weight:bold; font-size:20px;">Légendaires</div>
   </a>
