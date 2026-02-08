@@ -179,6 +179,7 @@ Lorsqu’un Démon agit, veillez à :
 
 </div>
 
+
 <hr>
 <h2 style="color:#b58b52; font-weight:bold;"> Autres Catégories</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
