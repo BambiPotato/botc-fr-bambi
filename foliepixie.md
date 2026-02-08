@@ -14,29 +14,78 @@ title: Comment Conter la Pixie
    Comment conter la Pixie
 </h1>
 
-<h2 style="color:#c9b08a; font-weight:bold; font-size:24px; margin-top:-6px;">
-  <span style="color:blue;">Pixie</span>
-</h2>
 
-<!-- Visuel Pixie + nom cliquable centré -->
-<div style="text-align:center; margin:10px 0 18px 0;">
-  <img src="./images/Icon_pixie.png" alt="Pixie" style="max-width:220px; display:block; margin:0 auto 8px;">
-  <a href="./experimentaux.html" style="color:blue; font-weight:bold; text-decoration:none; font-size:18px;">
-    Pixie
+<p align="left">
+  <a href="/botc-fr-bambi/">
+    <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
-  <div style="color:#b58b52; font-size:14px; opacity:.9;">Pixie</div>
+</p>
+
+<!-- Pixie -->
+
+<div style="text-align:center; margin: 20px 0%;">
+  <a href="./pixie.html" style="text-decoration:none;">
+    <img src="../images/Icon_pixie.png" alt="Pixie" width="260" style="border-radius:12px;">
+    <br>
+    <span style="color:#4ea3ff; font-weight:bold; font-size:22px;">Pixie</span>
+  </a>
 </div>
 
-<!-- ===== Description du rôle ===== -->
-<div style="border:1px solid rgba(212,167,106,0.3); border-radius:8px; padding:18px; background-color:rgba(255,255,255,0.03); margin-bottom:25px;">
-  <h3 style="color:#b58b52; font-size:24px; font-weight:bold; margin-top:0;"> Rôle&nbsp;: <span style="color:blue;">Pixie</span> — Villageois</h3>
-  <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-    <strong>Alignement&nbsp;:</strong>Bon<br>
-    <strong>Capacité&nbsp;:</strong> Vous commencez en apprenant un rôle de villageois en jeu.<br>
-    Si vous êtes <strong>« fou »</strong> d’être ce rôle, vous gagnez sa capacité quand le joueur qui possède réellement ce rôle meurt.<br><br>
-    <em style="color:#b58b52;">«&nbsp;La Pixie prétend être le même rôle que quelqu’un d’autre.&nbsp;»</em>
-  </p>
+<!-- APPARAÎT DANS -->
+<div style="text-align:center; margin: 20px 0%;">
+  <a href="../experimentaux.html" style="text-decoration:none;">
+    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
+  </a>
 </div>
+
+#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Pixie</span>
+
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+  « Tourne, tourne dans le jardin.  
+  Les filles courent en tous sens.  
+  Les garçons grimpent aux arbres.  
+  Laquelle de ces Pixies serai-je ?  
+  Les dames sourient en ville.  
+  Les seigneurs abattent la forêt.  
+  Ce qui est à vous est à moi. Ce qui est à moi est sacré.  
+  Petite Pixie, si légère, si malicieuse. »
+</p>
+
+---
+
+##  <span style="color:#4ea3ff;">Informations</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li><strong>Type :</strong>
+    <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
+  </li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Pixie"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+  Pixie
+  </a>
+</li>
+  <li><strong>Artiste :</strong> <em>John Grist</em></li>
+  <li><strong>Révélé :</strong> 21 janvier 2021</li>
+</ul>
+
+---
+
+##  <span style="color:#4ea3ff;">Résumé</span>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+  <strong>« Vous commencez en apprenant un rôle de Villageois en jeu.  
+  Si vous êtes fou d’être ce rôle, vous gagnez sa capacité quand le joueur qui a vraiment ce rôle meurt. »</strong>
+</p>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+La <strong>Pixie</strong> prétend être le même rôle qu’un autre joueur ou une autre joueuse.
+</p>
 
 <hr style="border:1px solid rgba(212,167,106,.35); margin:18px 0;">
 
