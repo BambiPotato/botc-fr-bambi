@@ -292,4 +292,3 @@ Ces ressources sont pratiques pour <strong>imprimer</strong> et <strong>jouer en
   <li> <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
   <li> <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
 </ul>
-
