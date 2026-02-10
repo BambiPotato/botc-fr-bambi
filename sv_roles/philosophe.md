@@ -74,7 +74,7 @@ title: Philosophe
 
 > « Une fois par partie, pendant la nuit, choisissez un rôle bon : 
 > vous gagnez **sa capacité**.  
-> Si ce rôle est déjà en jeu, il devient **ivre.** »
+> Si ce rôle est en jeu, il est  **ivre.** »
   
 Le Philosophe n’a aucune capacité tant qu’il n’a pas décidé quel rôle il souhaite imiter.
 
