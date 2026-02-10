@@ -277,7 +277,7 @@ Certains rôles demandent d’être fou à propos d’un point précis, d’autr
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Lorsqu’un joueur est invité à être fou à propos de quelque chose mais ne joue pas cette folie, le Conteur peut appliquer une conséquence en jeu et décider de l’exécuter.
 À l’inverse, si le joueur joue correctement cette folie, le Conteur peut choisir de le laisser en vie ou de lui accorder un avantage.
-Les détails précis figurent sur le jeton ou sur la fiche du rôle concerned.
+Les détails précis figurent sur le jeton ou sur la fiche du rôle concerné.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
