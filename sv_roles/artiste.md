@@ -75,8 +75,6 @@ Dieu est révélé ! Oui ! »
 ##  <span style="color:#4ea3ff;">Résumé</span>
 
 > « Une fois par partie, durant la journée, posez en privé au Conteur une question à laquelle on ne peut répondre que par oui ou par non. »
- 
-> « **La question doit être fermée (oui / non)**. »
 
 > L'artiste peut poser une seule question et obtenir une réponse honnête.
 
@@ -111,8 +109,8 @@ Dieu est révélé ! Oui ! »
 -  **L'artiste** demande : *« Le Démon est-il assis sur une chaise marron ? »*  
   → Réponse : « Non », car le Démon est assis sur une chaise noire.  
 
--  **L'artiste** demande : *« Sébastien est-il le [<span style="color:red;">Jumeau Maléfique</span>](jumeaumalefique.md) ? »*  
-  → Réponse : « Oui » car Sébastien est bien le [<span style="color:red;">Jumeau Maléfique</span>](jumeaumalefique.md).  
+-  **L'artiste** demande : *« Sébastien est-il la [<span style="color:red;">Jumelle Maléfique</span>](jumeaumalefique.md) ? »*  
+  → Réponse : « Oui » car Sébastien est bien la [<span style="color:red;">Jumelle Maléfique</span>](jumeaumalefique.md).  
 
 - **L'artiste** demande :*« Combien de Sbires sont encore en vie ? »*  
   → Le Conteur : « Reformule ta question, je ne peux pas y répondre avec oui/non. »  
@@ -149,7 +147,7 @@ et l’[<span style="color:#4ea3ff;">Oracle</span>](fleuriste.md) fournissent de
 - Par exemple, demandez si le Démon est assis dans un groupe précis : qu’il s’agisse d’un « oui » ou d’un « non », 
   vous aurez déjà réduit la zone où se trouve ou ne se trouve pas le Démon.
 - D’autres questions peuvent consister à demander s’il existe une concentration de joueurs maléfiques à un endroit donné, 
-  ou à interroger le Conteur au sujet de rôles comme le [<span style="color:#d45b5b;">Jumeau Maléfique</span>](jumeaumalefique).
+  ou à interroger le Conteur au sujet de rôles comme la [<span style="color:#d45b5b;">Jumelle Maléfique</span>](jumeaumalefique).
 
 - Si vous n’avez pas beaucoup de pistes issues des mécaniques de jeu, 
   vous pouvez également poser des questions basées sur des éléments extérieurs au jeu tout en divisant le village en groupes. 
