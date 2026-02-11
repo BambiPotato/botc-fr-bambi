@@ -137,7 +137,7 @@ Les choses que je pourrais raconter si j’étais une commère… oh, oui. »
 - Si vous avez un **allié sûr**, utilisez-le comme référence :  
   en le comparant à un joueur suspect,  
   un **« non »** indique très probablement un **maléfique**.  
-  (Très utile contre le [<span style="color:red;">Jumeau Maléfique</span>](jumeaumalefique.md) !)  
+  (Très utile contre le [<span style="color:red;">Jumelle Maléfique</span>](jumeaumalefique.md) !)  
 
 - Ciblez des joueurs **influents** :  
   un [Savant](savant.md) ou une [Fleuriste](fleuriste.md) douteuse valent mieux qu’un simple [Barbier](barbier.md).  
