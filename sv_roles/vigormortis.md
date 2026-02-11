@@ -89,7 +89,7 @@ Lors de la mise en place, il y a <strong>un <a href="../etrangers.html" style="c
 ##  <span style="color:#d45b5b">Comment Conter</span>
 
 1. <strong>Préparation :</strong>  
-   - Retirez <strong>1 jeton de<a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a></strong> et ajoutez <strong>1 jeton de <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a></strong> avant de constituer le sac.  
+   - Retirez <strong>1 jeton de <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a></strong> et ajoutez <strong>1 jeton de <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a></strong> avant de constituer le sac.  
 
 2. <strong>Chaque nuit (sauf la première)</strong> :  
    - Réveillez le <a href="./vigormortis.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vigormortis</a>.  
@@ -137,7 +137,7 @@ Lors de la mise en place, il y a <strong>un <a href="../etrangers.html" style="c
 - <strong>Utilisez le poison intelligemment :</strong>  
   Le joueur empoisonné d’un Sbire mort peut <strong>désinformer durablement</strong> le Village sans s’en rendre compte.  
 
-- <strong>Exploitez la réduction des<a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a> :</strong>  
+- <strong>Exploitez la réduction des <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a> :</strong>  
   Vos Sbires peuvent <strong>bluffer</strong> en tant qu’Étrangers inexistants pour semer le doute.  
 
 ---
