@@ -30,7 +30,7 @@ title: Barbier
   <li>
     <strong>Type :</strong>
     <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
-    Étrangers
+    Marginal
     </a>
   </li>
 
@@ -203,5 +203,5 @@ Echangez des rôles comme le <a href="sage.html" style="color:#4ea3ff; font-weig
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li> <a href="/botc-fr-bambi/" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
   <li> <a href="../sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
-  <li> <a href="../etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Étrangers</a></li>
+  <li> <a href="../etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Maginaux</a></li>
 </ul>
