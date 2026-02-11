@@ -77,19 +77,19 @@ title: Vigormortis
 
 > « Chaque nuit*, choisissez un joueur : il meurt.  
 > Les <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> que vous tuez <strong>gardent leur capacité</strong> et <strong>empoisonnent un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> voisin</strong>.  
-> <strong>[-1 <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a>]</strong> »
+> <strong>[-1 <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a>]</strong> »
 
 Le <a href="./vigormortis.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vigormortis</a> tue ses propres <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>, mais ces derniers <strong>conservent leur pouvoir</strong> tant qu’il est vivant.  
 Chaque Sbire ainsi tué <strong>empoisonne un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> voisin</strong> (dans le sens horaire ou antihoraire — le Conteur choisit).  
 Si le Vigormortis meurt ou perd son pouvoir, <strong>les joueurs empoisonnés redeviennent sains</strong>.  
-Lors de la mise en place, il y a <strong>un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a> de moins</strong> que d’habitude.
+Lors de la mise en place, il y a <strong>un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a> de moins</strong> que d’habitude.
 
 ---
 
 ##  <span style="color:#d45b5b">Comment Conter</span>
 
 1. <strong>Préparation :</strong>  
-   - Retirez <strong>1 jeton d’<a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a></strong> et ajoutez <strong>1 jeton de <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a></strong> avant de constituer le sac.  
+   - Retirez <strong>1 jeton de<a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a></strong> et ajoutez <strong>1 jeton de <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a></strong> avant de constituer le sac.  
 
 2. <strong>Chaque nuit (sauf la première)</strong> :  
    - Réveillez le <a href="./vigormortis.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vigormortis</a>.  
@@ -112,7 +112,7 @@ Lors de la mise en place, il y a <strong>un <a href="../etrangers.html" style="c
   → La malédiction de la Sorcière reste active.  
   Le joueur maudit qui nomme <strong>meurt</strong> le lendemain.  
 
-- Le Vigormortis tue le <a href="./jumeau_malefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumeau Maléfique</a>.  
+- Le Vigormortis tue le <a href="./jumeau_malefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumelle Maléfique</a>.  
   → Le Conteur choisit un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> voisin (ex. <a href="./sage.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a>) à <strong>empoisonner</strong>.  
 
 - Le Vigormortis tue la <a href="./pit_hag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a>.  
@@ -137,14 +137,14 @@ Lors de la mise en place, il y a <strong>un <a href="../etrangers.html" style="c
 - <strong>Utilisez le poison intelligemment :</strong>  
   Le joueur empoisonné d’un Sbire mort peut <strong>désinformer durablement</strong> le Village sans s’en rendre compte.  
 
-- <strong>Exploitez la réduction d’<a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a> :</strong>  
+- <strong>Exploitez la réduction des<a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a> :</strong>  
   Vos Sbires peuvent <strong>bluffer</strong> en tant qu’Étrangers inexistants pour semer le doute.  
 
 ---
 
 ###  <span style="color:#d45b5b">Combattre le Vigormortis</span>
 
-- <strong>Surveillez les morts nocturnes</strong> :  
+- <strong>Surveillez les morts de nuit</strong> :  
   Des morts “inutiles” ou apparemment aléatoires peuvent révéler un <strong>Vigormortis</strong>.  
 
 - <strong>Repèrez les <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> morts encore actifs</strong> :  
