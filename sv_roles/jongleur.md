@@ -78,16 +78,18 @@ Je vous préviens, ce tour sera peut-être mon dernier. Oh là là…  »
 > « Lors de votre premier jour, devinez publiquement jusqu’à cinq combinaisons joueur/rôle.<br>
 La nuit suivante, vous apprenez combien d’entre elles sont correctes.»  
 
-Le Jongleur doit convaincre les autres de **révéler leurs rôles** afin de pouvoir **deviner**  
-le plus justement possible.  
-La nuit suivante, il apprend **combien de ses prédictions étaient exactes**…  
-s’il n’est pas mort avant ! 
+Le Jongleur prend le risque de convaincre les gens de révéler leur véritable **rôle** dès le premier jour,
+dans l’espoir de deviner le plus grand nombre possible de personnes disant la vérité.
 
-- Il peut annoncer de **0 à 5 combinaisons (suppositions)**.  
-- Ses annonces doivent être **publiques**.  
-- Il peut citer le **même joueur plusieurs fois** ou **des rôles différents**.  
-- Si le Jongleur est ivre ou empoisonné au moment des de ses suppositions  
-  mais sobre au moment de la révélation, son info sera correcte.
+- Le premier jour, il peut deviner quels joueurs ont quels rôles.
+Cette nuit-là, le Jongleur apprend combien de ses prédictions étaient correctes… s’il n’est pas tué auparavant.
+
+- Il doit annoncer ses prédictions publiquement, afin que tout le monde entende ce qui est déclaré. 
+Il peut deviner zéro rôle, ou jusqu’à cinq rôles, et ces rôles et joueurs peuvent être différents ou identiques.
+
+- Si le Jongleur a fait ses prédictions  alors qu’il était ivre ou empoisonné, 
+mais qu’il est sobre et sain au moment où sa capacité se déclenche cette nuit-là, 
+le Conteur lui donne malgré tout une information véridique.
 
 ---
 
@@ -95,8 +97,8 @@ s’il n’est pas mort avant !
 
 - Si le Jongleur déclare qu’il utilise sa capacité **le premier jour**,  
   entrez dans le cercle avec le grimoire.  
-- Il annonce jusqu’à **5 suppositions** (joueur + rôle).  
-- Pour chaque supposition correcte, placez secrètement un jeton de rappel **CORRECT**.  
+- Il annonce jusqu’à **5 prédictions** (joueur + rôle).  
+- Pour chaque prédiction correcte, placez secrètement un jeton de rappel **CORRECT**.  
 - Cette nuit-là, réveillez le Jongleur et montrez-lui avec vos doigts le **nombre de bonnes réponses**.  
 - Puis, retirez les jetons de rappel **CORRECT** et son jeton de nuit.
 
@@ -135,8 +137,8 @@ s’il n’est pas mort avant !
 - **Devine les 5 rôles complets** si tu le peux !  
   Un score parfait est rare, mais obtenir “3 sur 5” donne déjà beaucoup d’informations croisées.  
 
-- Tu peux aussi ne deviner que **2 ou 3 joueurs** précis  
-  pour cibler un groupe suspect (ou confirmer une hypothèse de Vortox).  
+- Vous pouvez aussi ne deviner que **2 ou 3 joueurs** précis  
+  pour cibler un groupe suspect (ou confirmer une hypothèse de [<span style="color:red;">Vortox</span>](vortox.md) ).  
 
 
 - Soyez conscient que vous devenez **une cible prioritaire** du Démon.  
@@ -206,7 +208,7 @@ s’il n’est pas mort avant !
     Si le <span style="color:#4ea3ff; font-weight:bold;">Jongleur</span> jongle
     lors de son <strong>premier jour</strong> et meurt par exécution, cette nuit-là,
     le <span style="color:#4ea3ff; font-weight:bold;">Cannibale</span> vivant
-    apprend combien de jonglages le Jongleur avait correctement devinés.
+    apprend combien de prédiction le Jongleur avait correctement devinés.
   </li>
 
 </ul>
