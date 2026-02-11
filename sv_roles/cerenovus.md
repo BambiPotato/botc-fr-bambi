@@ -77,7 +77,7 @@ title: Cerenovus
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
   « Chaque nuit, choisissez un joueur et un rôle bon :<br>
-  demain, ce joueur sera <strong>fou</strong> et devra convaincre qu’il est ce rôle,<br>
+  il doit être <strong>« fou »</strong> d'être ce rôle le lendemain<br>
   ou il pourrait être exécuté. »
 </p>
 
