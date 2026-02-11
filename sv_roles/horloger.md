@@ -101,9 +101,9 @@ title: Horloger
 - Le [<span style="color:red;">Fang Gu</span>](fanggu.md) est assis à côté de la [<span style="color:red;">Pit-Hag</span>](pithag.md). 
 Lors de la première nuit, l’[Horloger](horloger.md) apprend un **« 1 »**. 
 
-- Dans le sens des aiguilles d'une montre à partir du [<span style="color:red;">No Dashii</span>](nodashii.md) sont assis le [Rêveur](reveur.md), le [Charmeur de serpent](charmeurdeserpent.md) et le [<span style="color:red;">Jumeau maléfique</span>](jumeaumalefique.md).  
+- Dans le sens des aiguilles d'une montre à partir du [<span style="color:red;">No Dashii</span>](nodashii.md) sont assis le [Rêveur](reveur.md), le [Charmeur de serpent](charmeurdeserpent.md) et la [<span style="color:red;">Jumelle maléfique</span>](jumeaumalefique.md).  
 - Dans le sens antihoraire *(sens inverse des aiguilles d'une montre)* sont assis le [Mutant](mutant.md), la [Dulcinée](dulcinee.md), le [Philosophe](philosophe.md), le [Sage](sage.md), puis la [<span style="color:red;">Sorcière</span>](sorciere.md).  
-  La [<span style="color:red;">Sorcière</span>](sorciere.md) est à 5 pas du <span style="color:red;">Démon</span>, et le [<span style="color:red;">Jumeau maléfique</span>](jumeaumalefique.md) à 3.  
+  La [<span style="color:red;">Sorcière</span>](sorciere.md) est à 5 pas du <span style="color:red;">Démon</span>, et la [<span style="color:red;">Jumelle maléfique</span>](jumeaumalefique.md) à 3.  
   L’[Horloger](horloger.md) apprend donc un **« 3 »** lors de la première nuit.  
   
 - Le [<span style="color:red;">Fang Gu</span>](fanggu.md) est voisin de deux Voyageurs, l’un bon, l’autre [<span style="color:red;">maléfique</span>].  
@@ -139,7 +139,7 @@ Lors de la première nuit, l’[Horloger](horloger.md) apprend un **« 1 »**.
 
 - ➡️ Par exemple, si soudainement personne ne meurt à cause de la [<span style="color:red;">Sorcière</span>](sorciere.md), que plus personne ne devient fou à cause du [<span style="color:red;">Cerenovus</span>](cerenovus.md), ou qu’il n’y a plus de transformations par la [<span style="color:red;">Pit-Hag</span>](pithag.md), c’est sans doute qu’un [<span style="color:red;">Sbire</span>](../sbires.md) a été exécuté.  
   Trouver lequel vous ramènera directement au <span style="color:red;">Démon</span> !  
-  *[<span style="color:red;">Le Jumeau maléfique</span>](jumeaumalefique.md) est une exception, car vous savez généralement dès le début qu’il est en jeu.*  
+  *[<span style="color:red;">La Jumelle maléfique</span>](jumeaumalefique.md) est une exception, car vous savez généralement dès le début qu’il est en jeu.*  
 
 ---
 
