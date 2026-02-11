@@ -137,7 +137,7 @@ Chaque nuit, le Crieur apprend un **“oui”** ou **“non”** :
   elle veut aussi que les gens nomment, car cela augmente ses chances de tuer.  
   Essayez de deviner sa cible : les joueurs agressifs ou ceux qui nominent souvent sont de bons candidats.  
 
-- Face à un [<span style="color:red;">Jumeau Maléfique</span>](jumeaumalefique.md),  
+- Face à une [<span style="color:red;">Jumelle Maléfique</span>](jumeaumalefique.md),  
   vous pouvez demander à **un seul des deux jumeaux de nominer**.  
   Si vous obtenez “oui”, vous saurez lequel est le [<span style="color:red;">Sbire</span>](../sbires.md)…  
   sauf en cas de [<span style="color:red;">Vortox</span>](vortox.md) ou d’empoisonnement, donc croisez vos infos !  
@@ -171,7 +171,7 @@ Chaque nuit, le Crieur apprend un **“oui”** ou **“non”** :
   peut détourner le vote fatal loin de lui.  
   (Ne le faites pas trop tôt, sinon ils pourraient quand même l’exécuter “par précaution”.)  
 
-- En cas de [<span style="color:red;">Jumeaux Maléfiques</span>](jumeaumalefique.md),  
+- S'il y a une [<span style="color:red;">Jumelle Maléfique</span>](jumeaumalefique.md),  
   prétendez que **le bon jumeau** a déclenché votre capacité.  
   Cela peut semer un doute durable dans la tête du village.  
 
