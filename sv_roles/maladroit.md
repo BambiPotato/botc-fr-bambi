@@ -29,7 +29,7 @@ title: Maladroit
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
     <strong>Type :</strong>
-    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>
+    <a href="../marginaux.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>
   </li>
 
   <li>
@@ -71,27 +71,22 @@ title: Maladroit
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
   « Quand vous apprenez que vous êtes mort, <strong>choisissez publiquement un joueur vivant</strong> :<br>
-  s’il est maléfique, <strong>votre équipe perd immédiatement.</strong> »
+  s’il est maléfique, <strong>votre équipe perd.</strong> »
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
-  Le Maladroit peut, par une simple erreur, <strong>condamner tout le village.</strong><br>
-  Quand il meurt, il doit désigner un joueur vivant.
+  Le Maladroit pourrait accidentellement faire perdre la partie à son équipe, à moins qu’il ne soit malin.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Si la personne choisie est <strong>maléfique</strong>, la partie se termine instantanément — et le Mal perd.</li>
-  <li>Si elle est <strong>bonne</strong>, rien ne se passe, et le jeu continue.</li>
-</ul>
+  <li>Lorsque le Maladroit meurt, il doit désigner un joueur.</li>
+  <li>Il peut prendre quelques minutes pour le faire, après tout, c’est une décision importante,<br> 
+    et les autres joueurs peuvent donner des conseils sur qui choisir, mais la décision revient toujours au Maladroit.<br>
+    S’il choisit un joueur maléfique, la partie se termine immédiatement et l’équipe du bien perd.<br> 
+    S’il choisit un joueur bon, rien ne se passe et la partie continue.<br>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
-  Cette décision est <strong>publique</strong> et appartient uniquement au Maladroit,<br>
-  même si les autres peuvent donner des conseils.
-</p>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
-  ⚠️ Le Maladroit doit agir <strong>peu après avoir appris sa mort</strong>.<br>
-  Ignorer volontairement sa capacité est considéré comme de la triche.
+ <li>Il n’est pas de la responsabilité du Conteur de rappeler au Maladroit qu’il doit déclarer qu’il est le Maladroit et choisir un joueur.<br>  
+   Le Maladroit doit le faire peu de temps après avoir appris qu’il est mort. Ne pas le faire délibérément est considéré comme de la triche.</li>
 </p>
 
 <hr>
@@ -119,7 +114,8 @@ title: Maladroit
 </ol>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
-  Si un nouveau joueur ne comprend pas qu’il doit choisir,<br>
+  Si le joueur Maladroit ne se rend pas compte qu’il doit choisir un joueur lorsqu’il meurt,<br>
+  rappelez-le-lui en privé. Les nouveaux joueurs peuvent ne pas comprendre comment fonctionne leur rôle.
   le Conteur peut lui rappeler discrètement la règle.
 </p>
 
@@ -132,7 +128,7 @@ title: Maladroit
     Le Maladroit est <strong>exécuté</strong>.<br>
     Après discussion, il choisit un joueur (la
     <a href="couturiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Couturière</a>)
-    — qui est bon.<br>
+    qui est bon.<br>
     La nuit tombe, la partie continue.
   </li>
 
@@ -151,7 +147,7 @@ title: Maladroit
 <h3 style="color:#4ea3ff; font-weight:bold;">Évitez la mort</h3>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
-  Comme beaucoup d’Étrangers de <em>Sects &amp; Violets</em>,<br>
+  Comme beaucoup de Marginaux de <em>Sects &amp; Violets</em>,<br>
   votre pouvoir ne devient dangereux <strong>qu’à votre mort</strong>.<br>
   Restez donc en vie le plus longtemps possible.
 </p>
@@ -236,8 +232,8 @@ title: Maladroit
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
     Annoncez être le Maladroit juste avant la fin du jeu,<br>
-    quand plusieurs Étrangers sont déjà révélés.<br>
-    Cela <strong>fausse le décompte des Étrangers</strong><br>
+    quand plusieurs Marginaux sont déjà révélés.<br>
+    Cela <strong>fausse le décompte des Marginaux</strong><br>
     et sème le doute sur la présence d’un
     <a href="fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a>.
   </li>
@@ -254,5 +250,5 @@ title: Maladroit
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li><a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
   <li><a href="../sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a></li>
-  <li><a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Étrangers</a></li>
+  <li><a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Marginaux</a></li>
 </ul>
