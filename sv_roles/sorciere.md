@@ -78,15 +78,14 @@ title: Sorcière
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-La <strong>Sorcière</strong> jette des malédictions sur des joueurs.  
-Le joueur maudit mourra immédiatement s’il nomine quelqu’un le lendemain,  
-mais sa nomination comptera quand même.
+La <strong>Sorcière</strong> jette un sort aux joueurs, de sorte que ceux qui nomment meurent.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>La malédiction dure un seul jour.</li>
-  <li>La Sorcière peut maudire la même personne plusieurs nuits de suite.</li>
-  <li>Quand il ne reste plus que trois joueurs vivants, la malédiction disparaît et la Sorcière cesse d’agir.</li>
+  <li>Chaque nuit, la Sorcière choisit un joueur à maudire.</li>
+  <li>Ce joueur meurt s’il fait une nomination le jour suivant,  sa nomination est tout de même prise en compte.</li>
+  <li>La malédiction de la Sorcière ne dure qu’une seule journée, mais la Sorcière peut maudire le même joueur encore et encore chaque nuit.</li>
+  <li>Dès qu'il ne reste plus que trois joueurs en vie, la malédiction de la Sorcière est immédiatement levée et la Sorcière cesse d'agir.
 </ul>
 
 ---
@@ -147,7 +146,7 @@ mais sa nomination comptera quand même.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li><strong>Choisissez bien vos cibles.</strong><br>Vos malédictions peuvent faire des ravages si elles visent des personnages clés.</li>
+  <li><strong>Choisissez bien vos cibles.</strong><br>Vos malédictions peuvent faire des ravages si elles visent des rôles clés.</li>
   <li><strong>Les joueurs bavards sont vos proies.</strong><br>Ceux qui parlent beaucoup ou mènent la discussion finissent presque toujours par nominer quelqu’un.</li>
   <li><strong>Maudissez les rôles puissants.</strong><br>
     Les rôles comme le <a href="./savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a>, le <a href="./fleuriste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a> ou le <a href="./sage.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a>
@@ -168,7 +167,7 @@ mais sa nomination comptera quand même.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li><strong>Ne nominez pas sans réfléchir.</strong><br>Tant que vous n’êtes pas certain·e qu’il n’y a pas de Sorcière, restez prudent·e.</li>
+  <li><strong>Ne nominez pas sans réfléchir.</strong><br>Tant que vous n’êtes pas certain qu’il n’y a pas de Sorcière, restez prudent</li>
   <li><strong>Encouragez les joueurs calmes à nominer.</strong><br>Ils sont rarement maudits et risquent moins de mourir.</li>
   <li><strong>Observez les morts soudaines.</strong><br>Si un joueur meurt en nommant quelqu’un, la Sorcière est forcément en jeu.</li>
   <li><strong>Ne paniquez pas.</strong><br>Perdre un ou deux joueurs à cause d’elle n’est pas dramatique : concentrez-vous sur la traque du Démon.</li>
@@ -180,9 +179,9 @@ mais sa nomination comptera quand même.
 ##  <span style="color:#d45b5b;">Bluff et Variantes</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li><strong>Simulez votre mort.</strong><br>Vous pouvez prétendre avoir été maudit·e pour détourner l’attention.</li>
+  <li><strong>Simulez votre mort.</strong><br>Vous pouvez prétendre avoir été maudit pour détourner l’attention.</li>
   <li><strong>Faites croire à la présence d’un autre sbire.</strong><br>
-    En restant cachée, vous laissez le village supposer qu’un <a href="./cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a> ou un <a href="./faiseur_de_fosse.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Faiseur de Fosse</a> agit.
+    En restant cachée, vous laissez le village supposer qu’un <a href="./cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a> ou une <a href="./pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a> agit.
   </li>
 </ul>
 
