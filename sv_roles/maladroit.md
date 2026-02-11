@@ -29,7 +29,7 @@ title: Maladroit
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
     <strong>Type :</strong>
-    <a href="../marginaux.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>
+    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>
   </li>
 
   <li>
@@ -80,20 +80,23 @@ title: Maladroit
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Lorsque le Maladroit meurt, il doit désigner un joueur.</li>
-  <li>Il peut prendre quelques minutes pour le faire, après tout, c’est une décision importante,<br> 
+  <li>
+    Il peut prendre quelques minutes pour le faire, après tout, c’est une décision importante,<br> 
     et les autres joueurs peuvent donner des conseils sur qui choisir, mais la décision revient toujours au Maladroit.<br>
     S’il choisit un joueur maléfique, la partie se termine immédiatement et l’équipe du bien perd.<br> 
     S’il choisit un joueur bon, rien ne se passe et la partie continue.<br>
-
- <li>Il n’est pas de la responsabilité du Conteur de rappeler au Maladroit qu’il doit déclarer qu’il est le Maladroit et choisir un joueur.<br>  
-   Le Maladroit doit le faire peu de temps après avoir appris qu’il est mort. Ne pas le faire délibérément est considéré comme de la triche.</li>
-</p>
+  </li>
+  <li>
+    Il n’est pas de la responsabilité du Conteur de rappeler au Maladroit qu’il doit déclarer qu’il est le Maladroit et choisir un joueur.<br>  
+    Le Maladroit doit le faire peu de temps après avoir appris qu’il est mort. Ne pas le faire délibérément est considéré comme de la triche.
+  </li>
+</ul>
 
 <hr>
 
 <h2 style="color:#4ea3ff; font-weight:bold;">Comment Conter</h2>
 
-<ol style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
     Quand le Maladroit apprend qu’il est mort,<br>
     il doit <strong>déclarer publiquement</strong> qu’il est le Maladroit.
@@ -111,7 +114,7 @@ title: Maladroit
       <li>et qu’il choisit un joueur maléfique → le Bien <strong>gagne</strong> à la place.</li>
     </ul>
   </li>
-</ol>
+</ul>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
   Si le joueur Maladroit ne se rend pas compte qu’il doit choisir un joueur lorsqu’il meurt,<br>
@@ -147,7 +150,7 @@ title: Maladroit
 <h3 style="color:#4ea3ff; font-weight:bold;">Évitez la mort</h3>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
-  Comme beaucoup de Marginaux de <em>Sects &amp; Violets</em>,<br>
+  Comme beaucoup d’Étrangers de <em>Sects &amp; Violets</em>,<br>
   votre pouvoir ne devient dangereux <strong>qu’à votre mort</strong>.<br>
   Restez donc en vie le plus longtemps possible.
 </p>
@@ -232,8 +235,8 @@ title: Maladroit
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
     Annoncez être le Maladroit juste avant la fin du jeu,<br>
-    quand plusieurs Marginaux sont déjà révélés.<br>
-    Cela <strong>fausse le décompte des Marginaux</strong><br>
+    quand plusieurs Étrangers sont déjà révélés.<br>
+    Cela <strong>fausse le décompte des Étrangers</strong><br>
     et sème le doute sur la présence d’un
     <a href="fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a>.
   </li>
