@@ -23,17 +23,35 @@ title: Professeur
   </a>
 </div>
 
+##  <span style="color:blue">Informations</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+      Villageois
+    </a>
+  </li>
+
+  <li>
+    <strong>Artiste :</strong> Aidan Roberts
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Professor"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+   Professor
+    </a>
+  </li>
+</ul> 
+
+> *« Le processus est simple. Connectez le confabulateur hydraulique à l’amplificateur de matrice chi modifié, ajoutez 20 cc de pseudodorafine, gardez ses niveaux Z au-dessus de 20 %, 
+> et votre mari ira bien. Maintenant, tout ce dont nous avons besoin, c’est d’un éclair. »*
 
 ---
-
-##  <span style="color:blue">Informations</span>  
-
-- **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)  
-- **Artiste :** Aidan Roberts 
-> *« Le processus est simple. Connectez le confabulateur hydraulique à l’amplificateur de matrice chi modifié, ajoutez 20 cc de pseudodorafine, gardez ses niveaux Z au-dessus de 20 %, et votre mari ira bien. Maintenant, tout ce dont nous avons besoin, c’est d’un éclair. »*
-
----
-
 
 ## Apparaît dans  
 
@@ -66,7 +84,7 @@ title: Professeur
 > **Le Professeur peut ressusciter un joueur.**  
 
 * Une fois par partie, il choisit un joueur mort. Si ce joueur est un [<span style="color:blue">Villageois</span>](../villageois.md), il est ressuscité.  
-* Si le joueur est un [<span style="color:blue">Étranger</span>](../etrangers.md), un [<span style="color:red">Sbire</span>](../sbires.md) ou un [<span style="color:red">Démon</span>](../demons.md), rien ne se passe.  
+* Si le joueur est un [<span style="color:blue">Marginal</span>](../etrangers.md), un [<span style="color:red">Sbire</span>](../sbires.md) ou un [<span style="color:red">Démon</span>](../demons.md), rien ne se passe.  
 * Un Villageois ressuscité récupère son pouvoir, même si c’était un pouvoir « une fois par partie ».  
 
 ---
@@ -94,7 +112,7 @@ title: Professeur
 
 - Utilisez votre pouvoir **tôt** : les joueurs <span style="color:red">Maléfiques</span> tenteront sûrement de vous tuer rapidement.  
 - Utilisez-le **tard** : ressusciter un joueur confirmé en fin de partie peut totalement renverser la situation.  
-- Si votre pouvoir échoue, le joueur ciblé était soit [<span style="color:blue">Étranger</span>](../etrangers.md), soit [<span style="color:red">Maléfique</span>](../demons.md).  
+- Si votre pouvoir échoue, le joueur ciblé était soit [<span style="color:blue">Marginal</span>](../etrangers.md), soit [<span style="color:red">Maléfique</span>](../demons.md).  
 - Ressuscitez de préférence des morts de nuit : il est plus probable qu’ils aient été victimes du [<span style="color:red">Démon</span>](../demons.md).  
 - Un joueur exécuté peut aussi être ressuscité si vous pensez que le village a fait une erreur.  
 - Si vous réussissez, vous et le joueur ressuscité deviendrez probablement très fiables aux yeux du village.  
