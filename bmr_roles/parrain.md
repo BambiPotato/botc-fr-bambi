@@ -20,20 +20,31 @@ title: Parrain
   </a>
 </div>
 
----
 
-##  <span style="color:#d45b5b;">Informations</span>  
+<h2 style="margin-top:10px;">
+  <span style="color:#d45b5b; font-weight:bold;">Informations</span>
+</h2>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li><strong>Type :</strong>
-    <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>
+  <li>
+    <strong>Type :</strong>
+    <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>
   </li>
-  <li><strong>Artiste :</strong> Aidan Roberts</li>
+  <li>
+    <strong>Artiste :</strong> John Grist
+  </li>
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Godfather"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Godfather</a>
+  </li>
 </ul>
 
 <p style="color:#f5f5f5; font-style:italic; font-size:18px; margin:10px 40px;">
-  « Normalement, ce n’est que des affaires. Mais insulter ma fille, c’est m’insulter.  
-  Et m’insulter, c’est insulter ma famille. Vous devriez faire attention — un accident est si vite arrivé… »
+  « Normalement, ce n’est que des affaires. Mais insulter ma fille, c’est m’insulter.<br>  
+  Et m’insulter, c’est insulter ma famille. Vous devriez faire attention un accident est si vite arrivé… »
 </p>
 
 ---
@@ -66,29 +77,29 @@ title: Parrain
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0 40px;">
   <strong>« Vous commencez en sachant quels
-  <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>
+  <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>
   sont en jeu. Si l’un d’eux meurt durant la journée, vous choisissez un joueur la nuit suivante&nbsp;: il meurt.  
-  [-1 ou +1 Étranger] »</strong>
+  [-1 ou +1 Marginal] »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:10px 40px;">
   Le <strong>Parrain</strong> se venge lorsque le Village tue les
-  <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>.
+  <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Chaque fois qu’un
-      <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a>
+      <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a>
       est exécuté et meurt, le <strong>Parrain</strong> choisit un joueur qui mourra cette nuit-là.</li>
   <li>Le <strong>Parrain</strong> ne tue que si un
-      <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a>
-      meurt le jour&nbsp;: les Étrangers qui meurent pendant la nuit ne comptent pas.</li>
+      <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a>
+      meurt le jour&nbsp;: les Marginaux qui meurent pendant la nuit ne comptent pas.</li>
   <li>Au début de la partie, le <strong>Parrain</strong> apprend quels
-      <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>
+      <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>
       sont en jeu.</li>
   <li>Lorsque le <strong>Parrain</strong> est en jeu, le Conteur ajoute ou retire
-      <strong>un Étranger</strong> du total normal.</li>
-  <li>Si plusieurs Étrangers meurent dans la même journée,  
+      <strong>un Marginal</strong> du total normal.</li>
+  <li>Si plusieurs Marginaux meurent dans la même journée,  
       le <strong>Parrain</strong> ne tue tout de même qu’une seule fois la nuit suivante.</li>
 </ul>
 
@@ -98,10 +109,10 @@ title: Parrain
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Lors de la <strong>mise en place</strong>, avant de distribuer les jetons,  
-      ajoutez ou retirez <strong>un Étranger</strong> selon le cas.</li>
+      ajoutez ou retirez <strong>un Marginal</strong> selon le cas.</li>
   <li>Durant la <strong>première nuit</strong>, réveillez le <strong>Parrain</strong> et montrez-lui les jetons de rôle
-      des <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a> en jeu.</li>
-  <li>Si un Étranger <strong>meurt dans la journée</strong>, marquez-le avec un rappel «&nbsp;Mort aujourd’hui&nbsp;».</li>
+      des <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a> en jeu.</li>
+  <li>Si un Marginal <strong>meurt dans la journée</strong>, marquez-le avec un rappel «&nbsp;Mort aujourd’hui&nbsp;».</li>
   <li>La nuit suivante, réveillez le <strong>Parrain</strong>&nbsp;:  
       il choisit un joueur vivant, qui <strong>meurt</strong>, sauf s’il est protégé par un rôle comme
       l’<a href="../bmr_roles/innkeeper.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a>
@@ -151,9 +162,9 @@ title: Parrain
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Vous commencez en sachant exactement quels
-      <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a> sont en jeu&nbsp;:
+      <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a> sont en jeu&nbsp;:
       servez-vous de cette information.</li>
-  <li>Si le Conteur a ajouté un Étranger,  
+  <li>Si le Conteur a ajouté un Marginal,  
       vous pouvez prétendre en être un autre pour brouiller les pistes.</li>
   <li>Si le Conteur en a retiré un,  
       accusez un joueur d’être un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> déguisé.</li>
@@ -163,7 +174,7 @@ title: Parrain
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Faites en sorte que les
-      <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>
+      <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>
       soient exécutés.  
       Non seulement vous éliminez un joueur bon,  
       mais vous obtenez une <strong>mort bonus</strong> la nuit suivante.</li>
@@ -174,12 +185,12 @@ title: Parrain
       vous pouvez éliminer jusqu’à trois joueurs en une seule nuit.</li>
 </ul>
 
-###  <span style="color:#d45b5b;">Manipuler le nombre d’Étrangers</span>  
+###  <span style="color:#d45b5b;">Manipuler le nombre de Marginaux</span>  
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Si le groupe découvre qu’il y a trop ou pas assez d’Étrangers,  
+  <li>Si le groupe découvre qu’il y a trop ou pas assez de Marginaux,  
       faites mine d’être surpris et orientez la suspicion ailleurs.</li>
-  <li>Si tout le monde pense que le nombre d’Étrangers est normal,  
+  <li>Si tout le monde pense que le nombre de Marginaux est normal,  
       votre existence passera plus facilement inaperçue.</li>
 </ul>
 
@@ -201,9 +212,9 @@ title: Parrain
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Si le nombre d’Étrangers est à <strong>±1</strong> du total normal,  
+  <li>Si le nombre de Marginaux est à <strong>±1</strong> du total normal,  
       il y a probablement un <strong>Parrain</strong> en jeu.</li>
-  <li>Si un Étranger meurt le jour et qu’il y a <strong>deux morts la nuit suivante</strong>,  
+  <li>Si un Marginal meurt le jour et qu’il y a <strong>deux morts la nuit suivante</strong>,  
       c’est un très gros indice.</li>
   <li>Si le <strong>Parrain</strong> est présent, cela signifie qu’il n’y a pas
       d’<a href="../bmr_roles/avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a>
@@ -216,7 +227,7 @@ title: Parrain
 ##  <span style="color:#d45b5b;">Bluffer : se faire passer pour le Parrain</span>   
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>En bluffant <strong>Parrain</strong>, vous pouvez faire peur aux Étrangers  
+  <li>En bluffant <strong>Parrain</strong>, vous pouvez faire peur aux Marginaux  
       et dissuader le groupe de les exécuter.</li>
   <li>Vous pouvez aussi prétendre être un Parrain «&nbsp;repenti&nbsp;»,  
       façon Voyageur du Mal cherchant la rédemption.</li>
