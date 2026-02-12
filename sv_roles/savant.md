@@ -105,7 +105,7 @@ Le Savant reçoit des informations folles et extraordinaires, différentes chaqu
 
 - « Pierre et Céline ont le même alignement »  
  ou 
-  « Il y a un seul Étranger en jeu. »
+  « Il y a un seul **Marginal** en jeu. »
 
 ---
 
