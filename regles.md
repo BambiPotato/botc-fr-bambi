@@ -128,11 +128,11 @@ Voici l’essentiel à retenir. Quatre règles simples pour des parties claires 
   </li>
   <li>
     <strong>Pas d’espionnage.</strong><br>
-    Gardez votre jeton secret et ne regardez jamais le <em>Grimoire</em> (il contient tous les rôles).  
+    Gardez votre jeton de rôle secret et ne regardez jamais le <em>Grimoire</em> (il contient tous les rôles).  
     Voir quelque chose que vous ne devriez pas <strong>gâche le plaisir</strong>.
   </li>
   <li>
-    <strong>Posez vos questions au Conteur ou à la Conteuse.</strong><br>
+    <strong>Posez vos questions au Conteur.</strong><br>
     En cas de doute sur votre rôle, un rôle que vous bluffez, un événement nocturne, ou pour un conseil stratégique… <strong>demandez</strong>.  
     La personne qui conte est <strong>neutre</strong> et là pour vous aider. Signalez votre question et discutez-en en privé pour ne rien révéler aux autres.
   </li>
@@ -147,17 +147,22 @@ Voici l’essentiel à retenir. Quatre règles simples pour des parties claires 
 <h2 style="color:#d4a76a; font-weight:bold; font-size:28px;"> Nominations et exécutions</h2>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Pour nominer : dites clairement <em>« Je nomine … »</em>.</li>
-  <li>Tout le monde vote. Le Conteur annonce : <em>« Les votes pour …, c’est parti. »</em></li>
+  <li>Pour nommer : dites clairement <em>« Je nommme Ben »</em>.</li>
+  <li>Tout le monde vote. Le Conteur annonce : <em>« Les votes pour Ben, c’est parti. »</em></li>
   <li>Le Conteur passe <strong>dans le sens horaire</strong> :
     <ul style="margin-top:6px;">
       <li>Main levée = vote <strong>pour</strong></li>
       <li>Main baissée = vote <strong>contre</strong></li>
     </ul>
   </li>
-  <li>Une exécution a lieu si la cible obtient <strong>au moins 50 % des votes des vivants</strong>.</li>
-  <li> En cas d’égalité, <strong>personne n’est exécuté</strong>.</li>
-  <li> Si vous mourez : vous perdez votre capacité, vous ne pouvez plus nominer, et il vous reste <strong>un seul vote</strong> pour toute la partie.</li>
+  <li>Une exécution a lieu si le joueur nommé obtient <strong>au moins 50 % des votes des joueurs encore en vie.</strong></li>
+  <li> En cas d’égalité, <strong>aucun joueur n'est exécuté.</strong>.</li>
+  <li> Même si vous mourez, vous restez un élément essentiel du jeu.</li> 
+  <li> Vous continuez à parler et à fermer les yeux la nuit.</li>
+  <li>Surtout, vous continuez à gagner ou à perdre avec votre équipe.</li>
+  <li>En réalité, la partie se décide généralement grâce aux votes et aux opinions des joueurs éliminés.</li>
+  <li>Lorsque vous mourez, vous perdez votre capacité de rôle, vous ne pouvez plus nominer</li> 
+  <li>Vous ne disposez que d'un seul vote pour le reste de la partie ; utilisez-le donc judicieusement.</li>
 </ul>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
