@@ -114,7 +114,7 @@ Le sage ne sait rien de son vivant, mais apprend l'information la plus important
 - Si le Démon vous tue, vous obtiendrez des informations précieuses, alors faites tout votre possible pour que cela arrive. 
 - Bluffer un rôle que le Démon voudrait tuer, comme une [Fleuriste](fleuriste.md) ou un [Savant](savant.md).  
 - Restez discret pour éveiller la méfiance du Démon.  
-- Contrairement au [Gardien](../tb_roles/gardien.md),  
+- Contrairement au [Corneille](../tb_roles/gardien.md),  
   vous êtes **plus utile tôt dans la partie** : plus il reste de jours,  
   plus votre info pourra être exploitée.
 
@@ -184,7 +184,7 @@ assez de jours pour vérifier vos soupçons.
          style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../tb_roles/reclus.html"
        style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a> :
-    Le <span style="color:#4ea3ff; font-weight:bold;">Reclus</span> peut être considéré
+    La <span style="color:#4ea3ff; font-weight:bold;">Recluse</span> peut être considérée
     comme le <span style="color:#d45b5b; font-weight:bold;">Démon</span>
     pour le <span style="color:#d45b5b; font-weight:bold;">Sage</span>.
   </li>
