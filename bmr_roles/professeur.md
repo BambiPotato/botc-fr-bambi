@@ -48,8 +48,9 @@ title: Professeur
   </li>
 </ul> 
 
-> *« Le processus est simple. Connectez le confabulateur hydraulique à l’amplificateur de matrice chi modifié, ajoutez 20 cc de pseudodorafine, gardez ses niveaux Z au-dessus de 20 %, 
-> et votre mari ira bien. Maintenant, tout ce dont nous avons besoin, c’est d’un éclair. »*
+> *« Le processus est simple.<br>
+> Connectez le confabulateur hydraulique à l’amplificateur de matrice chi modifié, ajoutez 20 cc de pseudodorafine, gardez ses niveaux Z au-dessus de 20 %, et votre mari ira bien.<br> 
+> Maintenant, tout ce dont nous avons besoin, c’est d’un éclair. »*
 
 ---
 
@@ -80,7 +81,8 @@ title: Professeur
 
 ##  <span style="color:blue">Résumé</span>    
 
-> **Une fois par partie, pendant la nuit, choisissez un joueur mort : si c’est un Villageois, il revient à la vie.** 
+> **Une fois par partie, pendant la nuit, choisissez un joueur mort : si c’est un Villageois, il revient à la vie.**<br>
+
 > **Le Professeur peut ressusciter un joueur.**  
 
 * Une fois par partie, il choisit un joueur mort. Si ce joueur est un [<span style="color:blue">Villageois</span>](../villageois.md), il est ressuscité.  
