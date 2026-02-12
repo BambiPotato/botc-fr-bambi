@@ -43,7 +43,7 @@ title: Parrain
 </ul>
 
 <p style="color:#f5f5f5; font-style:italic; font-size:18px; margin:10px 40px;">
-  « Normalement, ce n’est que des affaires. Mais insulter ma fille, c’est m’insulter.<br>  
+  « Normalement, ce n’est que des affaires. Mais insulter ma fille, c’est m’insulter.  
   Et m’insulter, c’est insulter ma famille. Vous devriez faire attention un accident est si vite arrivé… »
 </p>
 
