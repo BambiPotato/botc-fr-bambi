@@ -147,12 +147,12 @@ Voici l’essentiel à retenir. Quatre règles simples pour des parties claires 
 <h2 style="color:#d4a76a; font-weight:bold; font-size:28px;"> Nominations et exécutions</h2>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Pour nommer : dites clairement <em>« Je nommme Ben »</em>.</li>
+  <li>Pour nommer : dites clairement <em>« Je nomme Ben »</em>.</li>
   <li>Tout le monde vote. Le Conteur annonce : <em>« Les votes pour Ben, c’est parti. »</em></li>
   <li>Le Conteur passe <strong>dans le sens horaire</strong> :
     <ul style="margin-top:6px;">
-      <li>Main levée = vote <strong>pour</strong></li>
-      <li>Main baissée = vote <strong>contre</strong></li>
+      <li>Main levée = vote <strong>pour exécuter</strong></li>
+      <li>Main baissée = vote <strong>contre l'exécution</strong></li>
     </ul>
   </li>
   <li>Une exécution a lieu si le joueur nommé obtient <strong>au moins 50 % des votes des joueurs encore en vie.</strong></li>
