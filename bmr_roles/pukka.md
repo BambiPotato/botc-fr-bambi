@@ -26,13 +26,29 @@ title: Pukka
 
 <!-- INFORMATIONS -->
 
-<h2> <span style="color:#d45b5b;">Informations</span></h2>
+<h2 style="margin-top:10px;">
+  <span style="color:#d45b5b; font-weight:bold;">Informations</span>
+</h2>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; list-style-type:disc;">
-  <li><strong>Type :</strong>
-    <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démons</a>
   </li>
-  <li><strong>Artiste :</strong> Aidan Roberts</li>
+
+  <li>
+    <strong>Artiste :</strong> Aidan Roberts
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Pukka"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+     Pukka
+    </a>
+  </li>
 </ul>
 
 <p style="color:#f5f5f5; font-style:italic; font-size:18px; margin:10px 40px 0 40px;">
