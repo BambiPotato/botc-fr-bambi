@@ -52,7 +52,7 @@ Cet essai explique <strong>toutes les interactions</strong> qui peuvent amener l
     <li><a href="#notes" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Notes importantes</a></li>
     <li><a href="#abreviations" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Termes utilisés</a></li>
     <li><a href="#resume" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Résumé des causes</a></li>
-    <li><a href="#sv-specifique" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Spécifique S&amp;V</a></li>
+    <li><a href="#sv-specifique" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Spécifique à Sects & Violets</a></li>
     <li><a href="#plages" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Plages de résultats</a></li>
     <li><a href="#cas-rares" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cas rares</a></li>
     <li><a href="#listes" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Interactions par rôles</a></li>
