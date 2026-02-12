@@ -20,6 +20,8 @@ title: Parrain
   </a>
 </div>
 
+---
+
 
 <h2 style="margin-top:10px;">
   <span style="color:#d45b5b; font-weight:bold;">Informations</span>
