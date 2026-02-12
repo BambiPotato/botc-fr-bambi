@@ -51,9 +51,9 @@ title: Marin
 </ul>
 
 
-> *« Je boirai n’importe qui sous la table ! Toi ! Le moulin à paroles ! 
-> Tu crois pouvoir tenir ? Non ? Et toi, Mamie ? 
-> T’as déjà goûté au vieux Rhum Extra Épicé de McKilly ? 
+> *« Je boirai n’importe qui sous la table ! Toi ! Le moulin à paroles !<br> 
+> Tu crois pouvoir tenir ? Non ? Et toi, Mamie ?<br> 
+> T’as déjà goûté au vieux Rhum Extra Épicé de McKilly ?<br> 
 > Garanti de te faire pousser des poils sur le torse ! Allez, monte à bord, aye ! »*
 
 ---
