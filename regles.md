@@ -124,7 +124,7 @@ Voici l’essentiel à retenir. Quatre règles simples pour des parties claires 
 <ol style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
     <strong>Vous pouvez dire ce que vous voulez, quand vous voulez.</strong><br>
-    C’est un jeu de parole. À vous de choisir entre discussion publique et apartés privés.
+    C’est un jeu de déduction social. À vous de choisir entre discussion publique et conversations privées.
   </li>
   <li>
     <strong>Pas d’espionnage.</strong><br>
