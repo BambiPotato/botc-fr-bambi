@@ -22,11 +22,29 @@ title: Po
 
 <hr>
 
-<h2> <span style="color:#d45b5b;">Informations</span></h2>
+<h2 style="margin-top:10px;">
+  <span style="color:#d45b5b; font-weight:bold;">Informations</span>
+</h2>
 
-<ul>
-  <li><strong>Type :</strong> <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a></li>
-  <li><strong>Artiste :</strong> Anica Kelsen</li>
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démons</a>
+  </li>
+
+  <li>
+    <strong>Artiste :</strong> Anica Kelsen
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Po"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+      Po
+    </a>
+  </li>
 </ul>
 
 <blockquote>
@@ -140,7 +158,7 @@ title: Po
   <li>
     Le Po attaque l’
     <a href="./enfantdelalune.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Enfant de la Lune</a>, 
-    puis la <a href="./brute.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Brute</a>, 
+    puis la <a href="./brute.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gros Bras</a>, 
     puis la <a href="./grandmere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Grand-Mère</a>.<br>
     Seul l’
     <a href="./enfantdelalune.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Enfant de la Lune</a> 
@@ -298,11 +316,11 @@ Tout repose sur le timing : si vous n’avez pas chargé lors d’une nuit où v
       <li><a href="./damedethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dame de Thé</a></li>
       <li><a href="./fou.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fou</a></li>
       <li><a href="./aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a></li>
-      <li><a href="./filou.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Filou</a></li>
+      <li><a href="./brute.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gros Bras</a></li>
       <li><a href="./marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a></li>
     </ul>
   </li>
-  <li>Ils doivent exploiter leurs capacités au maximum pour empêcher que le triple kill du Po ne détruise le village.</li>
+  <li>Ils doivent exploiter leurs capacités au maximum pour empêcher le Po de tuer trois fois et de détruire le village.</li>
 </ul>
 
 <h3><span style="color:#d45b5b;">Surveillez toujours combien de joueurs restent en vie</span></h3>
