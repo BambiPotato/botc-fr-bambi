@@ -22,13 +22,34 @@ title: Menestrel
   </a>
 </div>
 
-
 ---
 
-##  <span style="color:blue">Informations</span>   
 
-- **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)  
-- **Artiste :** John Grist  
+##  <span style="color:blue">Informations</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+      Villageois
+    </a>
+  </li>
+
+  <li>
+    <strong>Artiste :</strong> John Grist
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Minstrel"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+   Minstrel
+    </a>
+  </li>
+</ul>
+  
 > *"Et j’entendrai, même si tu marches doucement au-dessus de moi...  
 > Et tous mes rêves seront plus doux et plus chauds...  
 > Si tu ne manques pas de me dire que tu m’aimes...  
@@ -67,8 +88,8 @@ title: Menestrel
 
 Le **Ménestrel** rend tout le monde ivre lorsqu’un [<span style="color:red">Sbire</span>](../sbires.md) meurt **par exécution**.
 
-- Si un [<span style="color:red">Sbire</span>](../sbires.md) est exécuté **et meurt**, tous les joueurs - sauf ( le Ménestrel et les [<span style="color:#9b59b6">Voyageurs</span>](../voyageurs/voyageurs.md) ) deviennent immédiatement **ivres** pour **toute la nuit suivante et la journée suivante**.  
-- Cela inclut les [Villageois](../villageois.md), [Étrangers](../etrangers.md), [<span style="color:red">Sbires</span>](../sbires.md), et même les [<span style="color:red">Démons</span>](../demons.md).  
+- Si un [<span style="color:red">Sbire</span>](../sbires.md) est exécuté **et meurt**, tous les joueurs, sauf ( le Ménestrel et les [<span style="color:#9b59b6">Voyageurs</span>](../voyageurs/voyageurs.md) ) deviennent immédiatement **ivres** pour **toute la nuit suivante et la journée suivante**.  
+- Cela inclut les [Villageois](../villageois.md), [Marginaux](../etrangers.md), [<span style="color:red">Sbires</span>](../sbires.md), et même les [<span style="color:red">Démons</span>](../demons.md).  
 - Les [<span style="color:#9b59b6">Voyageurs</span>](../voyageurs/voyageurs.md) ne sont **pas affectés**.  
 - Si le [<span style="color:red">Sbire</span>](../sbires.md) meurt pendant la nuit, **l’effet ne se déclenche pas**.  
 
