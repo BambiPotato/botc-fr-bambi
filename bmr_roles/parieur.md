@@ -26,14 +26,34 @@ title: Parieur
 
 ---
 
-##  <span style="color:blue">Informations</span>  
+##  <span style="color:blue">Informations</span>
 
-- **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)  
-- **Artiste :** Aidan Roberts 
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+      Villageois
+    </a>
+  </li>
+
+  <li>
+    <strong>Artiste :</strong> Aidan Roberts
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Gambler"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Gambler
+    </a>
+  </li>
+</ul>
+
 > *« Pile, je gagne. Face, tu perds. »*
 
 ---
-
 
 ##  Apparaît dans  
 
@@ -77,9 +97,9 @@ Le joueur peut tenter de deviner qui possède quel rôle… mais il en paie le p
 ##  <span style="color:blue">Comment Conter</span>   
 
 - Chaque nuit (sauf la première), réveillez le Parieur.  
-- Il pointe un joueur, puis l’icône d’un rôle sur la feuille.  
+- Il pointe un joueur, puis le pictogramme d’un rôle sur la fiche des rôles.  
 - Rendormez-le.  
-- Si le rôle est incorrect → marquez le Parieur avec le jeton **MORT**.  
+- Si le Parieur s'est trompé → marquez le Parieur avec le jeton de rappel **MORT**.  
 
 ---
 
