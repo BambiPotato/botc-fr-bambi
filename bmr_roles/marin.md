@@ -25,11 +25,36 @@ title: Marin
 
 ---
 
-##  <span style="color:blue">Informations</span>  
+##  <span style="color:blue">Informations</span>
 
-- **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)  
-- **Artiste :** Aidan Roberts 
-> *« Je boirai n’importe qui sous la table ! Toi ! Le moulin à paroles ! Tu crois pouvoir tenir ? Non ? Et toi, Mamie ? T’as déjà goûté au vieux Rhum Extra Épicé de McKilly ? Garanti de te faire pousser des poils sur le torse ! Allez, monte à bord, aye ! »*
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+      Villageois
+    </a>
+  </li>
+
+  <li>
+    <strong>Artiste :</strong> Aidan Roberts
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Sailor"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Sailor
+    </a>
+  </li>
+</ul>
+
+
+> *« Je boirai n’importe qui sous la table ! Toi ! Le moulin à paroles ! 
+> Tu crois pouvoir tenir ? Non ? Et toi, Mamie ? 
+> T’as déjà goûté au vieux Rhum Extra Épicé de McKilly ? 
+> Garanti de te faire pousser des poils sur le torse ! Allez, monte à bord, aye ! »*
 
 ---
 
@@ -80,7 +105,7 @@ Tant qu’il est **sobre**, il est immortel.
 - Il pointe un joueur vivant. Endormez-le.  
 - Décidez qui est **Ivre** :  
   - En général, si c’est un [Villageois](../villageois.md) → c’est lui qui devient ivre.  
-  - Si c’est un [Étranger](../etrangers.md), un [<span style="color:red">Sbire</span>](../sbires.md) ou un [<span style="color:red">Démon</span>](../demons.md) → le Marin devient ivre.  
+  - Si c’est un [Marginal](../etrangers.md), un [<span style="color:red">Sbire</span>](../sbires.md) ou un [<span style="color:red">Démon</span>](../demons.md) → le Marin devient ivre.  
 - Si le Marin est sobre et devrait mourir :  
   - il survit.  
   - S’il est exécuté, annoncez qu’il a été exécuté mais qu’il reste vivant (sans dire pourquoi).  
@@ -102,7 +127,7 @@ Tant qu’il est **sobre**, il est immortel.
 ##  <span style="color:blue">Astuces & Conseils</span>   
 
 - Si vous choisissez un [Villageois](../villageois.md), vous êtes probablement sobre.  
-- Si vous choisissez un [Étranger](../etrangers.md), un [<span style="color:red">Sbire</span>](../sbires.md) ou un [<span style="color:red">Démon</span>](../demons.md), vous êtes probablement ivre.  
+- Si vous choisissez un [Marginal](../etrangers.md), un [<span style="color:red">Sbire</span>](../sbires.md) ou un [<span style="color:red">Démon</span>](../demons.md), vous êtes probablement ivre.  
 - L’immortalité du Marin est très puissante : le Conteur profitera souvent de l’occasion pour rendre un autre joueur ivre, ou vous ivre.  
 
 - Ciblez des joueurs dont vous soupçonnez le Mal, ou des [Villageois](../villageois.md) dont l’ivresse ne met pas trop en danger l’équipe (par ex. la [Grand-Mère](grandmere.md) ou le [Fou](fou.md)), plutôt que des rôles cruciaux comme l’[Exorciste](exorciste.md).  
@@ -125,10 +150,10 @@ Tant qu’il est **sobre**, il est immortel.
   → Évitez de chercher à « prouver » votre rôle ainsi.  
 
 - Utilisez l’**ivresse** comme couverture :  
-  - si un allié <span style="color:red">maléfique</span> (ex. [Femme de Chambre](femmedechambre.md)) donne des infos incohérentes → vous pouvez dire que vous l’avez choisi et qu’il était ivre.  
+  - Par exemple si, un Sbire bluffe le rôle de [Femme de Chambre](femmedechambre.md) et donne des infos incohérentes → vous pouvez dire que vous l’avez choisi et qu’il était ivre.  
   - si un joueur fort révèle son rôle, vous pouvez affirmer que vous l’avez rendu ivre chaque nuit → cela mettra en doute ses infos.  
 
-- Prétendez avoir choisi régulièrement un bon rôle qui échoue : par ex. si un [Courtisan](courtisan.md) ne paralyse pas un <span style="color:red">Démon</span> → dites que vous l’aviez choisi, donc il était ivre.  
+- Prétendez avoir choisi régulièrement un bon rôle qui échoue : par exemple, si un [Courtisan](courtisan.md) n'empêche pas un <span style="color:red">Démon</span> → dites que vous l’aviez choisi, donc il était ivre.  
 
 ---
 
