@@ -26,18 +26,37 @@ title: Zombuul
 
 ---
 
-##  <span style="color:#d45b5b;">Informations</span>  
+<h2 style="margin-top:10px;">
+  <span style="color:#d45b5b; font-weight:bold;">Informations</span>
+</h2>
 
-- **Type :**[<span style="color:red">Démon</span>](../demons.md)  
-- **Artiste :** Aidan Roberts    
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démons</a>
+  </li>
+
+  <li>
+    <strong>Artiste :</strong> Aidan Roberts
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Zombuul"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+     Zombuul
+    </a>
+  </li>
+</ul>
+
+---
 
 > *« Je ne comprends pas vos manières, chers humains.  
 > Montrez-moi la terre où repose le sacré dormant.  
 > Moi aussi, je dois dormir. Bientôt. »*
-
 ---
-
-
 ##  Apparaît dans  
 
 #  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
@@ -64,8 +83,8 @@ title: Zombuul
 
 ##  <span style="color:#d45b5b;">Résumé</span>     
 
-> **« Chaque nuit*, si personne n’est mort aujourd’hui, choisissez un joueur : il meurt.  
-> La première fois que vous mourez, vous restez en vie mais êtes considéré comme mort. »**
+>  <strong>« Chaque nuit*, si personne n’est mort aujourd’hui, choisissez un joueur : il meurt.</strong>  
+> **La première fois que vous mourez, vous restez en vie mais êtes considéré comme mort. »**
 
 Le **Zombuul** est un Démon terrifiant qui peut **se faire passer pour un mort** tout en continuant à **tuer la nuit**.  
 
