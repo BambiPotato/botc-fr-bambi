@@ -51,12 +51,13 @@ title: Zombuul
   </li>
 </ul>
 
----
 
 > *« Je ne comprends pas vos manières, chers humains.  
 > Montrez-moi la terre où repose le sacré dormant.  
 > Moi aussi, je dois dormir. Bientôt. »*
+
 ---
+
 ##  Apparaît dans  
 
 #  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
