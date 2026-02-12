@@ -128,7 +128,7 @@ Le Savant reçoit des informations folles et extraordinaires, différentes chaqu
 - Même une **fausse info** peut être précieuse :  
   si vous savez qu’elle est fausse, son contraire devient souvent révélateur.  
   (Mais attention à la logique !  
-  Le contraire de “la Sorcière a maudit un joueur bon” n’est pas forcément “elle a maudit un joueur mauvais” —  
+  Le contraire de “la Sorcière a maudit un joueur bon” n’est pas forcément “elle a maudit un joueur maléfique —  
   il se peut simplement qu’aucune Sorcière ne soit en jeu.)  
 
 - Comparez vos infos **d’un jour à l’autre** :  
@@ -146,7 +146,7 @@ Le Savant reçoit des informations folles et extraordinaires, différentes chaqu
 
 - Si la partie avance vite, **révélez vos infos avant qu’il ne soit trop tard**.  
   Vos dernières phrases peuvent sauver la partie,  
-  surtout contre des rôles trompeurs comme le [<span style="color:red;">Vortox</span>](vortox.md) ou le [<span style="color:red;">Jumeau Maléfique</span>](jumeaumalefique.md).  
+  surtout contre des rôles trompeurs comme le [<span style="color:red;">Vortox</span>](vortox.md) ou le [<span style="color:red;">Jumelle Maléfique</span>](jumeaumalefique.md).  
 
 - Faites attention aux **mots exacts** employés par le Conteur.  
   Une nuance peut tout changer.  
