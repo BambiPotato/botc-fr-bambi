@@ -44,8 +44,8 @@ title: Conspirateur
 </ul>  
 
 <p style="color:#f5f5f5; font-style:italic; font-size:18px; margin:10px 40px;">
-  « Les tentacules de ce monstre sont cloués aux portes de l’église.  
-  Les mères et les enfants dansent dans la rue. Excellent.  
+  « Les tentacules de ce monstre sont cloués aux portes de l’église.<br>  
+  Les mères et les enfants dansent dans la rue. Excellent.<br>  
   Tout se déroule exactement comme je l’avais prévu. »
 </p>
 
