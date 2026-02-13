@@ -25,10 +25,31 @@ title: Dame de Thé
 
 ---
 
-##   <span style="color:blue">Informations</span>    
+##  <span style="color:blue">Informations</span>
 
-- **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)  
-- **Artiste :** Aidan Roberts 
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+      Villageois
+    </a>
+  </li>
+
+  <li>
+    <strong>Artiste :</strong> Aidan Roberts
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Tea_Lady"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Tea Lady
+    </a>
+  </li>
+</ul> 
+
 > *"Si tu as froid, le thé te réchauffera.  
 > Si tu es trop échauffé, le thé te rafraîchira.  
 > Si tu es triste, le thé te consolera.  
