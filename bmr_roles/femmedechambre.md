@@ -50,7 +50,8 @@ title: Femme de chambre
   </li>
 </ul>
 
-> *« J’ai rien vu de suspect, M’dame. Pardonnez-moi, mais si j’avais vu quelque chose,<br>
+> *« J’ai rien vu de suspect, M’dame.<br> 
+Pardonnez-moi, mais si j’avais vu quelque chose,<br>
 c’était certainement pas le maître de maison en train de se faufiler dans le labo du professeur vers onze heures pour mélanger des potions,<br> 
 comme vous l’aviez dit, Miss.  »*
 
