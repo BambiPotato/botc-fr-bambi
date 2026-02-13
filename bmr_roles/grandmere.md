@@ -50,14 +50,32 @@ title: Grand-Mère
 
 ---
 
-##  <span style="color:#4ea3ff;">Informations</span>
+
+##  <span style="color:blue">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li><strong>Type :</strong>
-    <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
+  <li>
+    <strong>Type :</strong>
+    <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+      Villageois
+    </a>
   </li>
-  <li><strong>Artiste :</strong> John Grist</li>
+
+  <li>
+    <strong>Artiste :</strong> John Grist
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Grandmother"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+  Grandmother
+    </a>
+  </li>
 </ul>
+
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; margin-top:10px;">
   « Mets une veste si tu sors, mon chéri. Et ton thermos. Et ton écharpe.  
@@ -109,7 +127,7 @@ mais crée aussi une potentielle double mort si le <span style="color:#d45b5b; f
 
   <li><strong>Préparation de la première nuit :</strong>
     <ul style="margin-left:20px;">
-      <li>Choisissez un joueur bon (Villageois ou Étranger)  
+      <li>Choisissez un joueur bon (Villageois ou Marginal)  
           pour être le <strong>Petit-Enfant</strong>.</li>
       <li>Marquez ce rôle avec le jeton de rappel <strong>PETIT-ENFANT</strong>  
           dans votre grimoire.</li>
