@@ -24,11 +24,32 @@ title: Enfant de la lune
 
 
 ---
+<h2 style="color:#4ea3ff; font-weight:bold;">Informations</h2>
 
-##  <span style="color:blue">Informations</span>  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Marginal
+    </a>
+  </li>
 
-- **Type :** [<span style="color:blue">Étranger</span>](../etrangers.md)    
-- **Artiste :** Aidan Roberts 
+  <li>
+    <strong>Artiste :</strong> Aidan Roberts
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Moonchild"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Moonchild
+    </a>
+  </li>
+</ul> 
+
+
 > *« Le Scorpion regarde de côté les amants, et vous avez un choix à faire. Avec de l’argent dans ma paume, votre destin sera révélé. Avec de l’acier sur ma gorge, les étoiles vous feront regretter votre choix.»*
 
 ---
@@ -110,7 +131,7 @@ L’**Enfant de la Lune** maudit un joueur à sa mort le tuant également.
 
 ##  <span style="color:blue">Astuces & Stratégies</span>    
 
-L’Enfant de la Lune est un **Étranger dangereux** : en mourant, il peut provoquer **une mort supplémentaire** — mais uniquement parmi les joueurs bons.  
+L’Enfant de la Lune est un **Étranger dangereux** : en mourant, il peut provoquer **une mort supplémentaire** mais uniquement parmi les joueurs bons.  
 Votre rôle demande donc réflexion, timing et un brin de tragédie.
 
 ###  Choisir sagement votre cible  
@@ -169,6 +190,6 @@ Les bons joueurs perdront un temps précieux à analyser une fausse piste.
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Étrangers</a><br>
+   <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Marginaux</a><br>
    <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
 </p>
