@@ -103,7 +103,7 @@ les joueurs et joueuses apprennent toutes ces règles.
 
 ---
 
-## 🧾 Exemples
+## Exemples
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8; margin-left:24px;">
   <li>La <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pithag</a> et l’<a href="../roles_experimentaux/heretic.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Hérétique</a> sont <em>jinxés</em>.  
