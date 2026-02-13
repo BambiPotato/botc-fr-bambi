@@ -66,7 +66,7 @@ title: Lorics
     <li><a href="./loric_roles/gardener.html" style="color:#7fd1ae; text-decoration:none;">Jardinier</a></li>
     <li><a href="./loric_roles/pope.html" style="color:#7fd1ae; text-decoration:none;">Pape</a></li>
     <li><a href="./loric_roles/tor.html" style="color:#7fd1ae; text-decoration:none;">Tor</a></li>
-    <li><a href="./loric_roles/ventriloquist.html" style="color:#7fd1ae; text-decoration:none;">Tor</a></li>
+    <li><a href="./loric_roles/ventriloquist.html" style="color:#7fd1ae; text-decoration:none;">Ventriloque</a></li>
     <li><a href="./loric_roles/zenomancer.html" style="color:#7fd1ae; text-decoration:none;">Zénomancien</a></li>
   </ul>
 </div>
