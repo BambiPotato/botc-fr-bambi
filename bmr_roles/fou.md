@@ -22,17 +22,35 @@ title: Fou
   </a>
 </div>
 
-
 ---
 
-##  <span style="color:blue">Informations</span>   
+##  <span style="color:blue">Informations</span>
 
-- **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)  
-- **Artiste :** Anica Kelsen  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+      Villageois
+    </a>
+  </li>
+
+  <li>
+    <strong>Artiste :</strong> Anica Kelsen
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Fool"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Fool
+    </a>
+  </li>
+</ul>
+
 > *«…et le roi s’exclama : “Quoi ?! Je n’ai jamais possédé de pantalon en caoutchouc, encore moins un canon à crème anglaise !” Ho-ho ! Quelle journée joyeuse ! »*
-
 ---
-
 
 ##  Apparaît dans  
 
