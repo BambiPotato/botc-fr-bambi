@@ -21,15 +21,37 @@ title: Brute
     <span style="color:blue; font-weight:bold; font-size:22px;">Brute</span>
   </a>
 </div>
-
-
 ---
+<h2 style="color:#4ea3ff; font-weight:bold;">Informations</h2>
 
-##  <span style="color:blue">Informations</span>    
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Étrangers
+    </a>
+  </li>
 
-- **Type :** [<span style="color:blue">Étranger</span>](../etrangers.md)    
-- **Artiste :** Caitlin Murphy  
-> *« Oui patron. Je lui ai bien expliqué les choses à ce type. Il ne veut surtout pas que je réexplique. Non patron, pas besoin de docteur – c’est qu’un coup de couteau. Ça ira mieux demain matin. »*
+  <li>
+    <strong>Artiste :</strong> Caitlin Murphy  
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Goon"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+   Goon
+    </a>
+  </li>
+</ul>
+
+
+> *« Oui patron. Je lui ai bien expliqué les choses à ce type.<br>
+Il ne veut surtout pas que je réexplique.<br>
+Non patron, pas besoin de docteur, c’est qu’un coup de couteau.<br>
+Ça ira mieux demain matin. »*
 
 ---
 
@@ -183,6 +205,6 @@ Rester discret peut être judicieux : observez, bluffez et découvrez comment vo
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Étrangers</a><br>
+   <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Marginaux</a><br>
    <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
 </p>
