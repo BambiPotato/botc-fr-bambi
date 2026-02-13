@@ -25,10 +25,31 @@ title: Lunatique
 
 ---
 
-##  <span style="color:blue">Informations</span>  
+<h2 style="color:#4ea3ff; font-weight:bold;">Informations</h2>
 
-- **Type :** [<span style="color:blue">Étranger</span>](../etrangers.md)    
-- **Artiste :** Aidan Roberts 
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Marginal
+    </a>
+  </li>
+
+  <li>
+    <strong>Artiste :</strong> Aidan Roberts
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Lunatic"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Lunatic
+    </a>
+  </li>
+</ul> 
+
 > *« Je suis la nuit… enfin, je crois. »*
 
 ---
@@ -65,7 +86,7 @@ title: Lunatique
 
 > **« Vous pensez être le Démon, mais vous ne l’êtes pas. Le Démon sait qui vous êtes et qui vous choisissez la nuit. »**
 
-Le **Lunatique** pense être le **<span style="color:red">Démon</span>**, mais ne l’est pas.  
+Le **Lunatique** pense être le **<span style="color:red">Démon</span>**.  
 
 Tout comme l' [Ivrogne](../ivrogne.md), le Lunatique ignore sa véritable nature et son alignement véritable.   
 Chaque nuit, il se réveille et agit comme s’il était le Démon en jeu, par exemple un [<span style="color:red">Shabaloth</span>](shabaloth.md), un [<span style="color:red">Po</span>](po.md), mais **ses choix n’ont aucun effet**.  
@@ -106,7 +127,7 @@ Le Lunatique apprend également des informations erronées lors de la première 
 
 ##  <span style="color:blue">Astuces & Stratégies</span>  
 
-Le **Lunatique** est un Étranger fascinant : il croit semer la terreur, alors qu’il joue pour le **Bien** sans le savoir.
+Le **Lunatique** est un Marginal fascinant : il croit semer la terreur, alors qu’il joue pour le **Bien** sans le savoir.
 
 ###  Découvrir la vérité  
 
@@ -117,7 +138,7 @@ Le **Lunatique** est un Étranger fascinant : il croit semer la terreur, alors q
   → S’ils vous ignorent, se contredisent ou se comportent comme des villageois, il est probable que vous soyez le Lunatique.  
 
 - Si vous mourez **et que la partie continue**, vous savez que vous **n’étiez pas le Démon**.  
-  (Attention : un [<span style="color:red">Zombuul</span>](zombuul.md) ou un [<span style="color:red">Cerveau</span>](cerveau.md) peuvent faire durer la partie, donc ne sautez pas trop vite aux conclusions.)
+  (Attention : un [<span style="color:red">Zombuul</span>](zombuul.md) ou un [<span style="color:red">Conspirateur</span>](cerveau.md) peuvent faire durer la partie, donc ne sautez pas trop vite aux conclusions.)
 
 - Les bluffs que vous avez reçus peuvent être de faux indices :  
   → Si l’un de ces rôles se révèle réellement en jeu (ex. une [Dame de Thé](damedethe.md) authentique), vous êtes probablement le Lunatique.  
@@ -132,7 +153,7 @@ Ne le révélez pas trop tôt : laissez le <span style="color:red">Démon</span>
 S’il dévie soudainement, vous aurez trouvé le vrai Démon !
 
 Quand vous êtes sûr(e), annoncez publiquement votre rôle :  
-- Le groupe saura que le nombre d’[Étrangers](../etrangers.md) est correct.  
+- Le groupe saura que le nombre des [Marginaux](../etrangers.md) est correct.  
 - Vous pourrez clarifier les fausses informations que vous avez pu donner au début.
 
 ---
@@ -154,7 +175,7 @@ Quand vous êtes sûr(e), annoncez publiquement votre rôle :
   → Cela renforce votre crédibilité.  
 
 - Si vous êtes un vrai <span style="color:red">Sbire</span> et que votre Démon veut s’assurer de ne pas être le Lunatique, vous pouvez **mentir** en affirmant que vous ne l’êtes pas.  
-  Cela le fera douter, et il pourra lui-même finir par se révéler publiquement comme « Lunatique repenti » — au bénéfice du Mal.  
+  Cela le fera douter, et il pourra lui-même finir par se révéler publiquement comme « Lunatique repenti » au bénéfice des Maléfiques.  
 
 ---
 
@@ -182,6 +203,6 @@ Quand vous êtes sûr(e), annoncez publiquement votre rôle :
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Étrangers</a><br>
+   <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Marginaux</a><br>
    <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
 </p>
