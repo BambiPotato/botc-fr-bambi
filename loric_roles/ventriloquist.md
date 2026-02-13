@@ -91,7 +91,7 @@ marquez-le avec le rappel <strong>FOU</strong>.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Si une exécution a lieu, et que la personne exécutée est marquée <strong>MAD</strong> à cause du Ventriloque,
+Si une exécution a lieu, et que la personne exécutée est marquée <strong>FOU</strong> à cause du Ventriloque,
 annoncez qu’elle est exécutée, puis vous <strong>pouvez</strong> annoncer qu’elle <strong>ne meurt pas</strong>.
 </p>
 
@@ -103,14 +103,14 @@ annoncez qu’elle est exécutée, puis vous <strong>pouvez</strong> annoncer qu
 <strong>Abdallah</strong> est le
 <a href="../bmr_roles/parieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Parieur</a>.<br>
 Au jour 1, il est Fou d’être le Parieur. Lorsqu’il est nommé, il est Fou d’être le
-<a href="../roles_experimentaux/hatter.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Hatter</a>.<br>
+<a href="../roles_experimentaux/hatter.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chapelier</a>.<br>
 Plus tard ce jour-là, Abdallah est exécuté et <strong>ne meurt pas</strong>.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong>Marianna</strong> est le
 <a href="../bmr_roles/professor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Professeur</a>.<br>
-Elle prétend être l’<a href="../tb_roles/empathpque.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>
+Elle prétend être l’<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>
 depuis toute la partie.<br>
 Quand elle est nommée, elle prétend être le
 <a href="../roles_experimentaux/huntsman.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chasseur</a>.<br>
