@@ -25,10 +25,26 @@ title: ASSASSIN
 
 ---
 
-##  <span style="color:red">Informations</span>  
+<h2 style="margin-top:10px;">
+  <span style="color:#d45b5b; font-weight:bold;">Informations</span>
+</h2>
 
-- **Type :** [<span style="color:red">Sbire</span>](../sbires.md)  
-- **Artiste :** Aidan Roberts  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>
+  </li>
+  <li>
+    <strong>Artiste :</strong> Aidan Roberts
+  </li>
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Assassin"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>
+  </li>
+</ul>
 
 > *« … »*
 
