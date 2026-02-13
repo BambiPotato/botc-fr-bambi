@@ -22,17 +22,40 @@ title: Femme de chambre
   </a>
 </div>
 
-
 ---
 
-##  <span style="color:blue">Informations</span>   
 
-- **Type :** [<span style="color:blue">**Villageois**</span>](../villageois.md)  
-- **Artiste :** Aidan Roberts 
-> *« J’ai rien vu de suspect, M’dame. Pardonnez-moi, mais si j’avais vu quelque chose, c’était certainement pas le maître de maison en train de se faufiler dans le labo du professeur vers onze heures pour mélanger des potions, comme vous l’aviez dit, Miss.  »*
+##  <span style="color:blue">Informations</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+      Villageois
+    </a>
+  </li>
+
+  <li>
+    <strong>Artiste :</strong> Aidan Roberts
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Chambermaid"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Chambermaid
+    </a>
+  </li>
+</ul>
+
+> *« J’ai rien vu de suspect, M’dame. Pardonnez-moi, mais si j’avais vu quelque chose,<br>
+c’était certainement pas le maître de maison en train de se faufiler dans le labo du professeur vers onze heures pour mélanger des potions,<br> 
+comme vous l’aviez dit, Miss.  »*
+
 
 ---
-
 
 ##  Apparaît dans  
 
@@ -95,7 +118,7 @@ La **Femme de Chambre** permet de savoir qui s’est réveillé la nuit.
 - La nuit suivante, elle choisit le [<span style="color:red">Shabaloth</span>](shabaloth.md) et le [Fou](fou.md).  
   → Le <span style="color:red">Shabaloth</span> ne se réveille que grâce à l’Exorciste, pas cette nuit-là → elle apprend « 0 ».  
 
-- La deuxième nuit, elle choisit la [Grand-Mère](grandmere.md) et la [Brute](brute.md).  
+- La deuxième nuit, elle choisit la [Grand-Mère](grandmere.md) et la [Gros Bras](brute.md).  
   → Seule la Brute se réveille, mais elle est ivre. Elle compte quand même.  
   → Elle apprend « 2 » (car elle est elle-même ivre et l’info est fausse).  
 
