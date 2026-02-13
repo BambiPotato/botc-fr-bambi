@@ -154,7 +154,7 @@ Mais cette fragilité peut devenir un **atout d’information** si vous savez en
 - Si vous survivez trop longtemps, prétendez que le Conteur « veut vous faire passer pour un menteur ».  
 - Si vous mourez la nuit, attribuez cette mort à votre « capacité » : cela peut semer le doute sur quel <span style="color:red">Démon</span> est en jeu.
 
-### 😈 Si, vous êtes <span style="color:red">Maléfique</span>    
+### Si, vous êtes <span style="color:red">Maléfique</span>    
 
 - Bluffez le Bricoleur pour **dissimuler une mort nocturne suspecte** :  
   → Si quelqu’un meurt sans raison, vous pourrez dire que c’est « un Bricoleur ».  
