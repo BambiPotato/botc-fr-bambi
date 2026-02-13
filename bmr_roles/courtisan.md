@@ -24,11 +24,31 @@ title: Courtisan
 
 
 ---
+##  <span style="color:blue">Informations</span>
 
-##  <span style="color:blue">Informations</span>  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+      Villageois
+    </a>
+  </li>
 
-- **Type :**[<span style="color:blue">**Villageois**</span>](../villageois.md)  
-- **Artiste :** Aidan Roberts 
+  <li>
+    <strong>Artiste :</strong> Aidan Roberts
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Courtier"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Courtier
+    </a>
+  </li>
+</ul> 
+
 > *« Je crains davantage une armée de cent moutons menée par un lion qu’une armée de cent lions menée par un mouton.  »*
 
 ---
