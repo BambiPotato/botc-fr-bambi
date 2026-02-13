@@ -21,7 +21,11 @@ title: Brute
     <span style="color:blue; font-weight:bold; font-size:22px;">Brute</span>
   </a>
 </div>
+
+
 ---
+
+
 <h2 style="color:#4ea3ff; font-weight:bold;">Informations</h2>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
