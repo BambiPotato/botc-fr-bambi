@@ -20,7 +20,7 @@ title: Ange
 
 ---
 
-## <span style="color:#7fd1ae;">Informations</span>
+## <span style="color:#d4a76;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong> <a href="../legendaire.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Légendaire</a></li>
@@ -100,6 +100,6 @@ particulièrement utile lors des initiations ou des sessions publiques.
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
- <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+ <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
  <a href="../legendaire.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour aux Légendaires</a>
 </p>
