@@ -20,10 +20,23 @@ title: Deus ex Fiasco
 
 ---
 
-## 🧭 Informations
-- **Type :** <a href="../legendaire.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Légendaire</a>  
-- **Artiste :** Chloé McDougall  
-- **Révélé le :** 19 juin 2025  
+
+## <span style="color:#d4a76a;">Informations</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li><strong>Type :</strong> <a href="../legendaire.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Légendaire</a></li>
+  <li><strong>Artiste :</strong> <em>Chloé McDougall</em></li>
+  <li><strong>Révélé le :</strong> <em>19 juin 2025</em></li>  
+  <li><strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Deus_ex_Fiasco"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#d4a76a; font-weight:bold; text-decoration:none;">
+   Deus ex Fiasco 
+    </a>
+  </li>
+</ul>
+
 
 <p style="color:#f5f5f5; font-style:italic; font-size:17px; text-align:center; line-height:1.8; margin-top:10px;">
 « Ce n’est pas un bug, c’est une fonctionnalité.<br>
@@ -31,9 +44,11 @@ Ce n’est pas une erreur, c’est un ajustement.<br>
 Ce n’est pas cassé, c’est original. »
 </p>
 
+
 ---
 
-## 📖 Résumé
+
+##  Résumé
 
 **« Au moins une fois par partie, la conteuse ou le conteur fera une erreur, la corrigera et l’admettra publiquement. »**
 
@@ -51,35 +66,35 @@ Il <strong>doit être annoncé au début</strong> de la partie ; il ne peut <str
 
 ---
 
-## ⚙️ Comment Conter
+##  Comment Conter
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8; margin-left:24px;">
   <li><strong>Au début</strong> de la partie, déclarez que le <strong><span style="color:#d4a76a;">Deus ex Fiasco</span></strong> est en jeu.</li>
   <li>Si vous <strong>faites une erreur</strong>, corrigez-la au mieux (en adaptant les règles si nécessaire), puis annoncez publiquement l’erreur corrigée. Ajoutez le rappel <strong>WHOOPSIE</strong> au grimoire.</li>
-  <li>Vous pouvez aussi <strong>délibérément</strong> enfreindre une règle, la corriger, puis l’annoncer. Ajoutez <strong>WHOOPSIE</strong>.</li>
+  <li>Vous pouvez aussi <strong>délibérément</strong> enfreindre une règle, la corriger, puis l’annoncer. Ajoutez le jeton de rappel <strong>WHOOPSIE</strong>.</li>
 </ul>
 
 <p style="color:#f5f5f5; font-size:16.5px; line-height:1.8; margin-left:24px;">
-💡 Les <strong>Légendaires</strong> servent à aider les conteurs et conteuses à faire des parties fluides et inclusives, pas à ajouter du chaos.
+ Les <strong>Légendaires</strong> servent à aider les conteurs à faire des parties fluides et inclusives, cela n'ajoute pas de chaos.
 </p>
 
 ---
 
-## 🧾 Exemples
+##  Exemples
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8; margin-left:24px;">
 
   <li>Pendant le premier jour, Cédric affirme avoir tiré l’<a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>.  
-  Le Conteur vérifie dans le grimoire : c’est vrai. Il remplace secrètement l’Ivrogne par le <a href="../tb_roles/maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a> et rend le <a href="../tb_roles/gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a> ivre à la place.  
+  Le Conteur vérifie dans le grimoire : c’est vrai. Il remplace secrètement l’<a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> par le <a href="../tb_roles/maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a> et rend le <a href="../tb_roles/gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a> ivre à la place.  
   Plus tard, l’erreur corrigée est annoncée publiquement.</li>
 
-  <li>L’<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a> est assis entre le <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> et le <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a> empoisonné.  
-  Oubliant l’empoisonnement, le Conteur donne « 1 ». Dans la nuit, il réveille l’Empathique et corrige en « 0 ».  
+  <li>L’<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a> est assis entre le <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> et la <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a> empoisonné.  
+  Oubliant l’empoisonnement, le Conteur donne « 1 ». Dans la nuit, il réveille l’<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a> et corrige en « 0 ».  
   Le lendemain, explication en privé, puis annonce publique qu’une erreur a été corrigée.</li>
 
-  <li>L’<a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Imp</a> est exécuté.  
-  Le Conteur réveille le <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-Mort</a> sobre et montre à tort le jeton du <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a>.  
-  Plus tard, il le réveille à nouveau et montre le bon jeton de l’Imp, puis annonce qu’une erreur nocturne a été corrigée.</li>
+  <li>Le <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> est exécuté.  
+  Le Conteur réveille le <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a> sobre et montre à tort le jeton de la <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a>.  
+  Plus tard, il le réveille à nouveau et montre le bon jeton de <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>, puis annonce qu’une erreur de nuit a été corrigée.</li>
 
   <li>Le <a href="../roles_experimentaux/demons/yaggababble.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Yaggababble</a> est exécuté et meurt.  
   Le Conteur déclare (par erreur) la victoire du <span style="color:#4ea3ff;">Bien</span>, alors que la <a href="../tb_roles/femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme Écarlate</a> est encore en vie.  
@@ -100,11 +115,11 @@ Il <strong>doit être annoncé au début</strong> de la partie ; il ne peut <str
 
 ---
 
-## 💬 Explication
+##  Explication
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.8;">
 Si vous souhaitez conter un script au-dessus de votre zone de confort (premier <em>Trouble Brewing</em>, gros script personnalisé, etc.), le <strong><span style="color:#d4a76a;">Deus ex Fiasco</span></strong> vous apporte de la sérénité.  
-Comme il est annoncé dès le départ, tout le monde sait qu’<strong>au moins une erreur</strong> surviendra — sans savoir si elle est volontaire ou non.
+Comme il est annoncé dès le départ, tout le monde sait qu’<strong>au moins une erreur</strong> surviendra sans savoir si elle est volontaire ou non.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8; margin-left:24px;">
@@ -121,6 +136,6 @@ Gérez l’incident normalement, pour préserver l’équilibre et le plaisir de
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-🌟 <a href="../legendaire.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour aux Légendaires</a>
+ <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+ <a href="../legendaire.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour aux Légendaires</a>
 </p>
