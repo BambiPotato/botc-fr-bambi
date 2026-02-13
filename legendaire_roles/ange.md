@@ -19,10 +19,20 @@ title: Ange
 </div>
 
 ---
+ ##  <span style="color:#7fd1ae;">Informations</span>
 
-## 🧭 Informations
-- **Type :** <a href="../legendaire.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Légendaire</a>  
-- **Artiste :** Aidan Roberts  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li><strong>Type :</strong> <a href="../legendaire.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Légendaire</a>  decoration:none;">Loric</a></li>
+  <li><strong>Artiste :</strong> <em>Aidan Robert</em></li>
+  <li><strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Angel
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:##d4a76a; font-weight:bold; text-decoration:none;">
+     Angel
+    </a>
+  </li>
+</ul>
 
 <p style="color:#f5f5f5; font-style:italic; font-size:17px; text-align:center; line-height:1.8;">
 « Que ceux qui sont sans péché osent lever la main contre mon élu,  
@@ -31,7 +41,7 @@ car je les frapperai de la fureur et de la justice de mille tempêtes. »
 
 ---
 
-## 📖 Résumé
+##  Résumé
 
 **« Il pourrait arriver quelque chose de grave à celui ou celle qui est le plus responsable de la mort d'un nouveau joueur. »**
 
@@ -43,7 +53,7 @@ La personne principalement responsable de la mort d’un joueur protégé subit 
 
 ---
 
-## ⚙️ Comment Conter
+##  Comment Conter
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8; margin-left:24px;">
   <li><strong>Avant la partie</strong>, annoncez que l’<strong><span style="color:#d4a76a;">Ange</span></strong> est en jeu.  
@@ -60,7 +70,7 @@ La personne principalement responsable de la mort d’un joueur protégé subit 
 
 ---
 
-## 🧾 Exemples
+##  Exemples
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8; margin-left:24px;">
   <li>Le Conteur annonce que Louane est protégée par l’<strong><span style="color:#d4a76a;">Ange</span></strong>.  
@@ -73,7 +83,7 @@ La personne principalement responsable de la mort d’un joueur protégé subit 
 
 ---
 
-## 💬 Explication
+##  Explication
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.8;">
 L’<strong><span style="color:#d4a76a;">Ange</span></strong> est conçu pour encourager les joueurs expérimentés à faire preuve de bienveillance envers les nouveaux.  
@@ -89,6 +99,6 @@ particulièrement utile lors des initiations ou des sessions publiques.
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-🌟 <a href="../legendaire.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour aux Légendaires</a>
+ <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+ <a href="../legendaire.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour aux Légendaires</a>
 </p>
