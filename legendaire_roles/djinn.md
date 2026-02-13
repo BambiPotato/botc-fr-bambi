@@ -20,9 +20,21 @@ title: Djinn
 
 ---
 
-## 🧭 Informations
-- **Type :** <a href="../legendaire.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Légendaire</a>  
-- **Artiste :** John Grist
+  ## <span style="color:#d4a76a;">Informations</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li><strong>Type :</strong> <a href="../legendaire.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Légendaire</a></li>
+  <li><strong>Artiste :</strong> <em>John Grist</em></li>
+  <li><strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Djinn"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#d4a76a; font-weight:bold; text-decoration:none;">
+    Djinn
+    </a>
+  </li>
+</ul> 
+
 
 <p dir="rtl" style="color:#f5f5f5; font-style:italic; font-size:17px; line-height:1.8; text-align:left;">
 نحن لسنا هنا.<br>
@@ -39,7 +51,7 @@ Tes questions sont une montagne de feu par un jour clair.
 
 ---
 
-## 📖 Résumé
+##  Résumé
 
 **« Utilisez la règle spéciale du Djinn. Tous les joueurs la connaissent. »**
 
@@ -50,11 +62,11 @@ Le <strong><span style="color:#d4a76a;">Djinn</span></strong> résout les <em>ji
 
 ---
 
-### 🧩 Sommaire
-- <a href="#villageois" style="text-decoration:none;">👨‍🌾 Villageois</a>
-- <a href="#etrangers" style="text-decoration:none;">🍺 Étrangers</a>
-- <a href="#sbires" style="text-decoration:none;">😈 Sbires</a>
-- <a href="#demons" style="text-decoration:none;">👹 Démons</a>
+###  Sommaire
+- <a href="#villageois" style="text-decoration:none;"> Villageois</a>
+- <a href="#etrangers" style="text-decoration:none;"> Marginaux</a>
+- <a href="#sbires" style="text-decoration:none;"> Sbires</a>
+- <a href="#demons" style="text-decoration:none;"> Démons</a>
 
 ---
 
@@ -82,7 +94,7 @@ les joueurs et joueuses apprennent toutes ces règles.
 
 ---
 
-## ⚙️ Comment Conter
+##  Comment Conter
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8; margin-left:24px;">
   <li>Au début de la partie, s’il y a des rôles <em>jinxés</em> sur la feuille, annoncez que le <strong><span style="color:#d4a76a;">Djinn</span></strong> est en jeu et exposez toutes les règles spéciales du <strong><span style="color:#d4a76a;">Djinn</span></strong> pour cette partie (même s’aucun rôle <em>jinxé</em> n’est effectivement en jeu).</li>
@@ -98,14 +110,14 @@ les joueurs et joueuses apprennent toutes ces règles.
   En début de partie, la Conteuse lit la règle spéciale du Djinn : « Une Pithag ne peut pas créer un Hérétique. »  
   Plus tard, la <span style="color:#d45b5b; font-weight:bold;">Pithag</span> tente de créer un <span style="color:#4ea3ff; font-weight:bold;">Hérétique</span> ; la Conteuse refuse et elle doit choisir un autre rôle.</li>
 
-  <li>L’<a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espion</a> et le <a href="../roles_experimentaux/magicien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Magicien</a> sont <em>jinxés</em>.  
-  Règle du Djinn lue en début de partie : « Quand l’Espion voit le grimoire, les jetons du Démon et du Magicien sont retirés. »  
+  <li>L’<a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a> et le <a href="../roles_experimentaux/magicien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Magicien</a> sont <em>jinxés</em>.  
+  Règle du Djinn lue en début de partie : « Quand l’Espionne voit le grimoire, les jetons du Démon et du Magicien sont retirés. »  
   Il n’y a pas d’<span style="color:#d45b5b; font-weight:bold;">Espion</span> ni de <span style="color:#4ea3ff; font-weight:bold;">Magicien</span> en jeu, mais la règle est tout de même annoncée pour que l’équipe du <span style="color:#4ea3ff; font-weight:bold;">Bien</span> ignore quel <span style="color:#d45b5b; font-weight:bold;">Sbire</span> est présent.</li>
 </ul>
 
 ---
 
-## 📚 Règles spéciales du Djinn
+##  Règles spéciales du Djinn
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.8;">
 Cette section sera mise à jour au fur et à mesure que de nouveaux rôles seront disponibles.<br>
@@ -114,11 +126,11 @@ Si votre script contient des rôles <em>jinxés</em>, informez vos joueurs et jo
 </p>
 
 <a id="villageois"></a>
-### 👨‍🌾 Villageois (Townsfolk)
+###  Villageois (Townsfolk)
 
 - <a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> / <a href="..roles_experimentaux/boffin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boffin</a> : Un Alchimiste-Boffin n’apprend pas quel capacité le Démon a obtenue.
 - <a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> / <a href="../bmr_roles/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a> : Un Alchimiste-Conspirateur n’a pas la capacité du Conspirateur et aucun Conspirateur n’est en jeu.
-- <a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> / <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espion</a> : Un Alchimiste-Espion n’a pas la capacité d’Espion et un Espion est en jeu. Après chaque exécution, l’Alchimiste vivant peut deviner publiquement un joueur vivant comme étant l’Espion ; si c’est correct, le <span style="color:#d45b5b; font-weight:bold;">Démon</span> doit choisir l’Espion cette nuit.
+- <a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> / <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a> : Un Alchimiste-Espionne n’a pas la capacité d’Espionne et une Espionne est en jeu. Après chaque exécution, l’Alchimiste vivant peut deviner publiquement un joueur vivant comme étant l’Espion ; si c’est correct, le <span style="color:#d45b5b; font-weight:bold;">Démon</span> doit choisir l’Espion cette nuit.
 - <a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> / <a href="../roles_experimentaux/marionnette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> : Un Alchimiste-Marionnette n’a pas la capacité de la Marionnette et une Marionnette est en jeu.
 - <a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> / <a href="../roles_experimentaux/organgrinder.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Orgue de Barbarie</a> : Si l’Alchimiste a cette capacité, l’Orgue de Barbarie est en jeu ; si l’Alchimiste et l’Orgue sont sobres, ils sont tous deux ivres.
 - <a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> / <a href="../roles_experimentaux/summoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocateur</a> : L’Alchimiste-Invocateur ne reçoit pas de bluffs et choisit le type de <span style="color:#d45b5b; font-weight:bold;">Démon</span> mais pas le joueur. S’il meurt avant que cela n’arrive, les <span style="color:#d45b5b; font-weight:bold;">Maléfiques</span> gagnent. <span style="opacity:.8;">[Pas de Démon]</span>
@@ -140,13 +152,13 @@ Si votre script contient des rôles <em>jinxés</em>, informez vos joueurs et jo
 - <a href="../sv_roles/mathematicien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mathématicien</a> / <a href="../tb_roles/lunatique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Lunatique</a> : Le Mathématicien apprend si le Lunatique attaque des joueurs différents de ceux attaqués par le vrai Démon.
 
 <a id="etrangers"></a>
-### 🌿 Étrangers (Outsiders)
+###  Marginaux (Outsiders)
 
 - <a href="../roles_experimentaux/plaguedoctor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Docteur de la peste</a> / <a href="../tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> : Si la Conteuse gagne la capacité du Baron, jusqu’à deux joueurs deviennent des Étrangers non en jeu.
 - <a href="../roles_experimentaux/plague_doctor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Docteur de la peste</a> / <a href="../roles_experimentaux/boomdandy.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boomdandy</a> : Si le Docteur de la peste est exécuté et que la Conteuse gagnerait la capacité du Boomdandy, elle se déclenche immédiatement.
-- <a href="../roles_experimentaux/plaguedoctor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Docteur de la peste</a> / <a href="../sv_roles/jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumeau maléfique</a> : Le Conteur ne peut pas gagner cette capacité si le Docteur de la peste meurt.
+- <a href="../roles_experimentaux/plaguedoctor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Docteur de la peste</a> / <a href="../sv_roles/jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumelle maléfique</a> : Le Conteur ne peut pas gagner cette capacité si le Docteur de la peste meurt.
 - <a href="../roles_experimentaux/plaguedoctor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Docteur de la peste</a> / <a href="../roles_experimentaux/fearmonger.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fearmonger</a> : Si le Docteur de la peste meurt, un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> vivant gagne cette capacité en plus de la sienne, et l’apprend.
-- <a href="../roles_experimentaux/plaguedoctor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Docteur de la peste</a> / <a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Gobelin</a> : Idem : un Sbire vivant gagne la capacité de Gobelin et l’apprend.
+- <a href="../roles_experimentaux/plaguedoctor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Docteur de la peste</a> / <a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Goblin</a> : Idem : un Sbire vivant gagne la capacité de Gobelin et l’apprend.
 - <a href="../roles_experimentaux/plaguedoctor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Docteur de la peste</a> / <a href="../roles_experimentaux/marionnette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> : Si, à la mort du Docteur de la peste, le Démon a un voisin vivant Villageois ou Étranger, ce voisin devient une Marionnette maléfique (sauf s’il y a déjà un maléfique supplémentaire en jeu).
 - <a href="../roles_experimentaux/plaguedoctor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Docteur de la peste</a> / <a href="../tb_roles/femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme Écarlate</a> : Un Sbire vivant gagne la capacité de la Femme Écarlate et l’apprend.
 - <a href="../roles_experimentaux/plaguedoctor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Docteur de la peste</a> / <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espion</a> : Un Sbire vivant gagne la capacité d’Espion et l’apprend.
@@ -161,7 +173,7 @@ Si votre script contient des rôles <em>jinxés</em>, informez vos joueurs et jo
 - <a href="../roles_experimentaux/ogre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ogre</a> / <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a> : Si le Reclus s’enregistre comme maléfique pour l’Ogre, l’Ogre apprend qu’il est maléfique.
 
 <a id="sbires"></a>
-### 😈 Sbires (Minions)
+###  Sbires (Minions)
 
 - <a href="../roles_experimentaux/boffin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boffin</a> / <a href="../roles_experimentaux/cultleader.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Chef de secte</a> : Si le Démon a la capacité du Chef de secte, il ne peut pas devenir bon via cette capacité.
 - <a href="../roles_experimentaux/boffin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boffin</a> / <a href="../bmr_roles/brute.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Brute</a> : Si le Démon a la capacité de la Brute, il ne peut pas redevenir bon via cette capacité.
@@ -209,7 +221,7 @@ Si votre script contient des rôles <em>jinxés</em>, informez vos joueurs et jo
 - <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a> / <a href="../roles_experimentaux/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cultivateur de pavot</a> : Si le Cultivateur de pavot est en jeu, la Veuve ne voit pas le grimoire avant sa mort.
 
 <a id="demons"></a>
-### 👹 Démons
+### Démons
 
 - <a href="../roles_experimentaux/alhadikhia.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Al-Hadikhia</a> / <a href="../roles_experimentaux/princess.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Princesse</a> : Si la Princesse a nominé et exécuté un joueur le 1er jour, personne ne meurt d’Al-Hadikhia cette nuit.
 - <a href="../roles_experimentaux/alhadikhia.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Al-Hadikhia</a> / <a href="../bmr_roles/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a> : Si Al-Hadikhia meurt exécuté et que le Conspirateur est vivant, Al-Hadikhia choisit trois <span style="color:#4ea3ff; font-weight:bold;">Bons</span> cette nuit : si tous choisissent de vivre, le <span style="color:#d45b5b; font-weight:bold;">Mal</span> gagne, sinon le <span style="color:#4ea3ff; font-weight:bold;">Bien</span> gagne.
@@ -254,6 +266,6 @@ Si votre script contient des rôles <em>jinxés</em>, informez vos joueurs et jo
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-🏠 <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-🌟 <a href="../legendaire.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour aux Légendaires</a>
+ <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+ <a href="../legendaire.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour aux Légendaires</a>
 </p>
