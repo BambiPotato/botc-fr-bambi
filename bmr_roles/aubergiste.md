@@ -25,12 +25,33 @@ title: Aubergiste
 
 ---
 
-##  <span style="color:blue">Informations</span>  
+##  <span style="color:blue">Informations</span>
 
-- **Type :**[<span style="color:blue">**Villageois**</span>](../villageois.md)  
-- **Artiste :** John Grist 
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+      Villageois
+    </a>
+  </li>
 
-> *« Entrez donc, voyageur fatigué, reposez vos os. Buvez et réjouissez-vous, car les légions du Malin ne viendront pas troubler votre sommeil cette nuit.  »*
+  <li>
+    <strong>Artiste :</strong> John Grist 
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Innkeeper"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Innkeeper
+    </a>
+  </li>
+</ul>
+
+> *« Entrez donc, voyageur fatigué, reposez vos os.<br>
+> Buvez et réjouissez-vous, car les légions du Malin ne viendront pas troubler votre sommeil cette nuit.  »*
 
 ---
 
@@ -156,7 +177,7 @@ L’**Aubergiste** protège ses clients des morts nocturnes, mais enivre l’un 
          style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/riot.html"
        style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> :
-    Si <span style="color:#d45b5b; font-weight:bold;">Riot</span> 
+    Si un <span style="color:#d45b5b; font-weight:bold;">Riot</span> 
     nomme puis fait exécuter un joueur protégé par 
     l’<a href="./aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a>,  
     le Bien gagne.
