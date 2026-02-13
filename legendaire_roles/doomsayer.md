@@ -35,8 +35,8 @@ title: Doomsayer
 </ul> 
 
 <p style="color:#f5f5f5; font-style:italic; font-size:17px; text-align:center; line-height:1.8;">
-« Et le septième jour, il y eut un grand déluge et une peste s’abattit sur le village des Corbeaux !  
-Les morts se relevèrent et les vivants se repentirent ! Ô malheur ! Ô jour impie !  
+« Et le septième jour, il y eut un grand déluge et une peste s’abattit sur le village des Corbeaux ! <br>  
+Les morts se relevèrent et les vivants se repentirent ! Ô malheur ! Ô jour impie ! <br>  
 Ce n’est que par un grand sacrifice qu’ils triompheront ! Ainsi parlent les Sages de Nostros, et ainsi je le dis. »
 </p>
 
