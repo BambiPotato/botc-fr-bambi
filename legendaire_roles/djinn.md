@@ -20,7 +20,8 @@ title: Djinn
 
 ---
 
-  ## <span style="color:#d4a76a;">Informations</span>
+
+## <span style="color:#d4a76a;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong> <a href="../legendaire.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Légendaire</a></li>
@@ -240,7 +241,7 @@ Si votre script contient des rôles <em>jinxés</em>, informez vos joueurs et jo
 - <a href="../roles_experimentaux/leviathan.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Léviathan</a> / <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> : Si au moins une personne est morte, le Roi apprend chaque nuit un rôle vivant.
 - <a href="../roles_experimentaux/leviathan.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Léviathan</a> / <a href="../tb_roles/maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a> : Si le jour 5, le Léviathan et le Maire sont vivants et qu’aucune exécution n’a lieu, le Bien gagne.
 - <a href="../roles_experimentaux/leviathan.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Léviathan</a> / <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> : Si le Léviathan nomine et exécute la cible protégée du Moine, le Bien gagne.
-- <a href="../roles_experimentaux/leviathan.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Léviathan</a> / <a href="../tb_roles/gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a> : Chaque nuit*, le Léviathan choisit un joueur vivant : le Gardien choisi utilise sa capacité mais ne meurt pas.
+- <a href="../roles_experimentaux/leviathan.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Léviathan</a> / <a href="../tb_roles/gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a> : Chaque nuit*, le Léviathan choisit un joueur vivant : le Gardien choisi utilise sa capacité mais ne meurt pas.
 - <a href="../roles_experimentaux/leviathan.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Léviathan</a> / <a href="../sv_roles/sage.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a> : Chaque nuit*, le Léviathan choisit un joueur vivant et bon : un Sage choisi utilise son pouvoir mais ne meurt pas.
 - <a href="../roles_experimentaux/leviathan.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Léviathan</a> / <a href="../tb_roles/soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a> : Si le Léviathan nomine et exécute le Soldat, le Bien gagne.
 - <a href="../roles_experimentaux/lil_monsta.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">P’tit Monstre</a> / <a href="../roles_experimentaux/hatter.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chapelier</a> : Si le Chapelier meurt et que le Démon choisit le P’tit Monstre, il choisit aussi un Sbire à devenir.
