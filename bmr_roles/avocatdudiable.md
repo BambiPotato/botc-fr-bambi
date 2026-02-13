@@ -22,17 +22,29 @@ title: AVOCAT DU DIABLE
 
 ---
 
-##  <span style="color:#d45b5b;">Informations</span>    
+<h2 style="margin-top:10px;">
+  <span style="color:#d45b5b; font-weight:bold;">Informations</span>
+</h2>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li><strong>Type :</strong>
-    <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>
+  <li>
+    <strong>Type :</strong>
+    <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>
   </li>
-  <li><strong>Artiste :</strong> Aidan Roberts</li>
+  <li>
+    <strong>Artiste :</strong> Aidan Roberts
+  </li>
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Devil%27s_Advocate"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Devil's Advocate</a>
+  </li>
 </ul>
 
 <p style="color:#f5f5f5; font-style:italic; font-size:18px; margin:10px 40px;">
-  « Mon client, si l’objection est rejetée, plaide non coupable au motif que l’accusation n’a pas respecté l’article 27.B — mauvaise conjugaison d’un verbe.  
+  « Mon client, si l’objection est rejetée, plaide non coupable au motif que l’accusation n’a pas respecté l’article 27.B,mauvaise conjugaison d’un verbe.<br>  
   Le fait que neuf jurés soient morts cette nuit n’est que circonstanciel, et selon Wills contre Thule, justifie l’acquittement. »
 </p>
 
