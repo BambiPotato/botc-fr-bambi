@@ -26,11 +26,33 @@ title: Bricoleur
 
 ---
 
-##  <span style="color:blue">Informations</span>   
+ <h2 style="color:#4ea3ff; font-weight:bold;">Informations</h2>
 
-- **Type :** [<span style="color:blue">Étranger</span>](../etrangers.md)    
-- **Artiste :** Aidan Roberts 
-> *« Je crois voir le problème… heureusement, j’ai une idée ! Cette catapulte tirera deux fois plus loin avec un petit ajustement… »*
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+   Marginal
+    </a>
+  </li>
+
+  <li>
+    <strong>Artiste :</strong> Aidan Roberts
+  </li>
+
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Tinker"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+    Tinker
+    </a>
+  </li>
+</ul>
+
+> *« Je crois voir le problème… heureusement, j’ai une idée !<br> 
+> Cette catapulte tirera deux fois plus loin avec un petit ajustement… »*
 
 ---
 
@@ -143,6 +165,6 @@ Mais cette fragilité peut devenir un **atout d’information** si vous savez en
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Étrangers</a><br>
+   <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Marginaux</a><br>
    <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
 </p>
