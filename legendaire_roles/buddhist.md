@@ -20,9 +20,20 @@ title: Bouddhiste
 
 ---
 
-## 🧭 Informations
-- **Type :** <a href="../legendaire.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Légendaire</a>  
-- **Artiste :** Marianna Carr  
+## <span style="color:#d4a76a;">Informations</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li><strong>Type :</strong> <a href="../legendaire.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Légendaire</a></li>
+  <li><strong>Artiste :</strong> <em>Marianna Carr</em></li>
+  <li><strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Buddhist"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#d4a76a; font-weight:bold; text-decoration:none;">
+     Buddhist
+    </a>
+  </li>
+</ul>
 
 <p style="color:#f5f5f5; font-style:italic; font-size:17px; text-align:center; line-height:1.8;">
 « Tu lances des épines. En tombant dans mon silence, elles deviennent des fleurs. »
@@ -30,20 +41,20 @@ title: Bouddhiste
 
 ---
 
-## 📖 Résumé
+##  Résumé
 
 **« Pendant les deux premières minutes de chaque journée, les joueurs et joueuses expérimentés ne peuvent pas parler. »**
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.8;">
 Le <strong><span style="color:#d4a76a;">Bouddhiste</span></strong> aide les nouveaux joueurs et nouvelles joueuses à profiter du jeu lorsqu’ils sont minoritaires dans un groupe de vétérans.  
 Les personnes affectées doivent garder le silence pendant les deux premières minutes de chaque journée.  
-Elles ne peuvent pas chuchoter ni se parler entre elles — elles écoutent simplement.  
+Elles ne peuvent pas chuchoter ni se parler entre elles, elles écoutent simplement.  
 Ce n’est pas une punition : c’est un moyen de laisser la place aux nouveaux pour s’exprimer, réfléchir et agir par eux-mêmes.
 </p>
 
 ---
 
-## ⚙️ Comment Conter
+##  Comment Conter
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8; margin-left:24px;">
   <li>Au début de la partie, déclarez que le <strong><span style="color:#d4a76a;">Bouddhiste</span></strong> est en jeu et ajoutez son jeton au grimoire.</li>
@@ -58,7 +69,7 @@ Ce n’est pas une punition : c’est un moyen de laisser la place aux nouveaux 
 
 ---
 
-## 🧾 Exemples
+##  Exemples
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8; margin-left:24px;">
   <li>Nicolas et Céline sont des vétérans dans une partie composée surtout de nouveaux joueurs.  
@@ -70,7 +81,7 @@ Ce n’est pas une punition : c’est un moyen de laisser la place aux nouveaux 
 
 ---
 
-## 💬 Explication
+##  Explication
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.8;">
 Quand des joueurs expérimentés se retrouvent dans une partie remplie de débutants, ils ont tendance à dominer le jeu grâce à leur enthousiasme et leur expérience.  
@@ -79,7 +90,7 @@ Le <strong><span style="color:#d4a76a;">Bouddhiste</span></strong> encourage les
 Les joueurs affectés par le <strong><span style="color:#d4a76a;">Bouddhiste</span></strong> ne peuvent pas parler pendant les deux premières minutes de chaque journée.  
 Ils ne peuvent pas chuchoter ni s’adresser les uns aux autres, mais peuvent écouter.  
 
-Ce n’est pas une punition pour ceux qui aiment parler — bien au contraire !  
+Ce n’est pas une punition pour ceux qui aiment parler, bien au contraire !  
 *Blood on the Clocktower* est un jeu de discussion, et plus il y a d’échanges, mieux c’est.  
 Mais en imposant un court silence aux vétérans, on offre aux nouveaux l’occasion de faire entendre leurs idées, de développer leurs propres théories et de s’impliquer davantage.  
 C’est une aide précieuse pour que tout le monde s’amuse.
@@ -88,6 +99,6 @@ C’est une aide précieuse pour que tout le monde s’amuse.
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-🏠 <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-🌟 <a href="../legendaire.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour aux Légendaires</a>
+ <a href="/botc-fr-bambi/" style="color:#f#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+ <a href="../legendaire.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour aux Légendaires</a>
 </p>
