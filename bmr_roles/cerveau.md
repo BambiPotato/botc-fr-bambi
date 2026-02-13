@@ -22,14 +22,26 @@ title: Conspirateur
 
 ---
 
-##  <span style="color:#d45b5b;">Informations</span>  
+<h2 style="margin-top:10px;">
+  <span style="color:#d45b5b; font-weight:bold;">Informations</span>
+</h2>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li><strong>Type :</strong>
-    <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>
+  <li>
+    <strong>Type :</strong>
+    <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>
   </li>
-  <li><strong>Artiste :</strong> Aidan Roberts</li>
-</ul>
+  <li>
+    <strong>Artiste :</strong> Aidan Roberts
+  </li>
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Mastermind"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mastermind</a>
+  </li>
+</ul>  
 
 <p style="color:#f5f5f5; font-style:italic; font-size:18px; margin:10px 40px;">
   « Les tentacules de ce monstre sont cloués aux portes de l’église.  
