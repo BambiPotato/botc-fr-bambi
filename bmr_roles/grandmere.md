@@ -101,7 +101,7 @@ la Grand-Mère meurt aussi.
   <li>Lors de la première nuit, la <strong>Grand-Mère</strong> découvre l’identité de son <strong>Petit-Enfant</strong> :
       un joueur bon, qu’il soit
       <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
-      ou <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a>,  
+      ou <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a>,  
       et elle connaît son rôle exact.</li>
 
   <li>Le <strong>Petit-Enfant</strong> n’apprend pas qu’il a une Grand-Mère.</li>
