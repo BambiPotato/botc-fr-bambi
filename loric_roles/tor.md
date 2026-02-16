@@ -90,6 +90,7 @@ et Amélie le <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:b
 </p>
 
 ---
+
 <p style="text-align:left; font-size:18px; margin-top:20px;">
    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
    <a href="../loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Retour aux rôles Loric</a>
