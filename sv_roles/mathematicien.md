@@ -166,7 +166,7 @@ mais détecte **leurs effets** lorsque des capacités échouent.
 
 ---
 
-## <span style="color:#4ea3ff;">Bluffer Mathématicien</span>]
+## <span style="color:#4ea3ff;">Bluffer Mathématicien</span>
 
 Lorsque vous bluffez en vous faisant passer pour le Mathématicien, il y a quelques points à garder à l'esprit :
 
