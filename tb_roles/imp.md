@@ -3,7 +3,6 @@ layout: default
 title: Diablotin
 ---
 
-
 <p align="left">
   <a href="/botc-fr-bambi/">
     <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
@@ -15,9 +14,7 @@ title: Diablotin
   <a href="./imp.html" style="text-decoration:none;">
     <img src="../images/Icon_imp.png" alt="Imp" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:#d45b5b; font-weight:bold; font-size:22px;">
-  Diablotin</span>
-</span>
+    <span style="color:#d45b5b; font-weight:bold; font-size:22px;">Diablotin</span>
   </a>
 </div>
 
