@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Grand-Mère
+description: Vous commencez en connaissant un bon joueur et son rôle. Si le Démon le tue, vous mourez aussi.
+image: /images/Icon_grandmother.png
 ---
 
 <p align="left">
@@ -87,18 +89,17 @@ title: Grand-Mère
 ##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Vous commencez à connaître un bon joueur et son rôle.  
-  Si le Démon le tue, vous mourrez aussi. »</strong>
+  <strong>« Vous commencez en connaissant un bon joueur et son rôle. Si le Démon le tue, vous mourez aussi. »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 La <strong>Grand-Mère</strong> sait qui est son <strong>Petit-Enfant</strong>,  
-mais si cette personne est tuée par le <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
+mais si celui-ci est tué par le <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
 la Grand-Mère meurt aussi.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Lors de la première nuit, la <strong>Grand-Mère</strong> découvre l’identité de son <strong>Petit-Enfant</strong> :
+  <li>Lors de la première nuit, la <strong>Grand-Mère</strong> apprend l'existence de son <strong>Petit-Enfant</strong> :
       un joueur bon, qu’il soit
       <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
       ou <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a>,  
