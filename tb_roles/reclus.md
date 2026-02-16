@@ -89,7 +89,7 @@ Filez donc ! Chez les miens, on n’affronte pas les démons à découvert. Oust
 
 « **Vous pouvez être enregistrée comme maléfique et comme un Sbire ou un Démon, même si vous êtes morte.** » 
 
-La Recluse peut sembler être un rôle maléfique, mais il est en réalité bon.
+La Recluse peut sembler être un rôle maléfique, mais elle est en réalité d'alignement "Bon".
 
 - Lorsque l'alignement de la Recluse est détectée, le Conteur choisit si la Recluse est considérée comme bon ou maléfique.
 - Lorsque la Recluse est ciblée par une capacité qui affecte des Sbires ou des Démons spécifiques, 
