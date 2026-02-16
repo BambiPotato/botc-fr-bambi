@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Archiviste  
+title: Archiviste 
+description: Vous commencez en apprenant 2 joueurs et le rôle de Marginal de l’un des deux. (Ou qu’il n’y a aucun Marginal en jeu.)
+image: /images/Icon_librarian.png
 ---
 
 
