@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Croque-Mort  
+title: Fossoyeur
+description: Chaque nuit*, vous apprenez quel rôle est mort par **exécution** aujourd’hui.
+image: /images/Icon_undertaker.png
 ---
 
 <p align="left">
@@ -16,7 +18,7 @@ title: Croque-Mort
   <a href="./croquemort.html" style="text-decoration:none;">
     <img src="../images/Icon_undertaker.png" alt="Croque-Mort" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:blue; font-weight:bold; font-size:22px;">Croque-Mort</span>
+    <span style="color:blue; font-weight:bold; font-size:22px;">Fossoyeur</span>
   </a>
 </div>
 
@@ -79,17 +81,17 @@ title: Croque-Mort
 
 ##  <span style="color:blue;">Résumé</span>    
 
-"Chaque nuit*, vous apprenez quel rôle est mort par **exécution** aujourd’hui." 
+<strong>« Chaque nuit*, vous apprenez quel rôle est mort par **exécution** aujourd’hui. »</strong>
 
-Le croque-mort apprend quel rôle a été exécuté aujourd'hui.
+Le Fossoyeur apprend quel rôle a été exécuté aujourd'hui.
 
-- Le joueur doit être mort lors d'une exécution pour que le Croque-mort puisse l'identifier. 
+- Le joueur doit être mort lors d'une exécution pour que le Fossoyeur puisse l'identifier. 
 Les morts survenant en journée pour d'autres raisons, comme le choix d'un joueur par le [<span style="color:#9b59b6;">Flingeur</span>](../voyageurs/gunslinger.md) ou l'exil d'un *Voyageur* , ne sont pas pris en compte.
 
-- Le croque-mort se réveille chaque nuit sauf la première, car il n'y a encore eu aucune exécution.
-Si personne n'est mort aujourd'hui, le croque-mort n'apprend rien. 
-Le conteur, soit ne réveille pas le croque-mort la nuit, soit le réveille sans lui montrer de jeton.
-Si l’[Ivrogne](ivrogne.md) est exécuté, le croque-mort voit le jeton de rôle de l’[Ivrogne](ivrogne.md), 
+- Le Fossoyeur se réveille chaque nuit sauf la première, car il n'y a encore eu aucune exécution.
+Si personne n'est mort aujourd'hui, leFossoyeur n'apprend rien. 
+Le Conteur, soit ne réveille pas le Fossoyeur la nuit, soit le réveille sans lui montrer de jeton.
+Si l’[Ivrogne](ivrogne.md) est exécuté, le Fossoyeur voit le jeton de rôle de l’[Ivrogne](ivrogne.md), 
 et non le jeton du Villageois que le joueur Ivrogne pensait être.
 
 
@@ -97,18 +99,18 @@ et non le jeton du Villageois que le joueur Ivrogne pensait être.
 
 ##  <span style="color:blue;">Comment Conter</span> 
 
-- Si un joueur meurt par exécution, placez le jeton de rappel « EXÉCUTÉ AUJOURD'HUI » du croque-mort à côté du jeton du rôle du joueur mort.
+- Si un joueur meurt par exécution, placez le jeton de rappel « EXÉCUTÉ AUJOURD'HUI » du Fossoyeur à côté du jeton du rôle du joueur mort.
 
-- Chaque nuit, sauf la première, si un joueur est mort par exécution aujourd'hui, réveillez le Croque-mort. 
+- Chaque nuit, sauf la première, si un joueur est mort par exécution aujourd'hui, réveillez le Fossoyeur. 
   - Montrez-lui le jeton de rôle marqué « EXÉCUTÉ AUJOURD'HUI » . 
-  - Endormez le Croque-mort. 
+  - Endormez le Fossoyeur. 
   - Retirez son jeton de rappel quand vous le souhaitez.
 
 - Dans **Trouble Brewing**, il ne peut y avoir qu'une seule exécution par jour, et chaque exécution entraîne la mort d'un joueur. 
 
 - Dans d’autres éditions, il peut y avoir plusieurs exécutions par jour. 
- - Dans ce cas, le Conteur choisit quel rôle est montré au Croque-Mort.
- - De même, si une exécution n’entraîne pas de mort, le Croque-Mort n’apprend rien.
+ - Dans ce cas, le Conteur choisit quel rôle est montré au Fossoyeur.
+ - De même, si une exécution n’entraîne pas de mort, le Fossoyeur n’apprend rien.
 
 - Dans *Trouble Brewing*, une seule exécution par jour est possible. 
 Dans d’autres éditions, il peut y en avoir plusieurs (le Conteur choisit alors quel rôle montrer).  
@@ -117,14 +119,14 @@ Dans d’autres éditions, il peut y en avoir plusieurs (le Conteur choisit alor
 
 ##  <span style="color:blue;">Exemples</span>   
 
-- Le [Maire](maire.md) est exécuté. La nuit, le Croque-Mort voit le jeton de **Maire**.  
+- Le [Maire](maire.md) est exécuté. La nuit, le Fossoyeur voit le jeton de **Maire**.  
 
-- L’[Ivrogne](ivrogne.md), qui pensait être la [Vierge](vierge.md), est exécuté. Le Croque-Mort voit le jeton **Ivrogne**.  
+- L’[Ivrogne](ivrogne.md), qui pensait être l' [Innocente](vierge.md), est exécuté. Le Croque-Mort voit le jeton **Ivrogne**.  
 
-- L’[<span style="color:red">Espion</span>](../tb_roles/espion.md) est exécuté, mais il s’enregistre comme [Majordome](majordome.md). 
-Deux Voyageurs sont exilés. Le Croque-Mort voit **Majordome**, car les voyageurs exiléss ne comptent pas.  
+- L’[<span style="color:red">Espionne</span>](../tb_roles/espion.md) est exécutée, mais elle s’enregistre comme [Majordome](majordome.md). 
+Deux Voyageurs sont exilés. Le Fossoyeur voit **Majordome**, car les voyageurs exiléss ne comptent pas.  
 
-- Personne n'a été exécuté aujourd'hui. Cette nuit-là, le croque-mort ne se réveillera pas.  
+- Personne n'a été exécuté aujourd'hui. Cette nuit-là, le Fossoyeur ne se réveillera pas.  
 
 ---
 
@@ -142,30 +144,30 @@ Si vous n'y parvenez pas, vous arriverez au moins le jour final en connaissant b
 - Les Voyageurs ne sont pas concernés (ils sont exilés, pas exécutés), 
 sauf le [<span style="color:#9b59b6">Bouc émissaire</span>](../voyageurs/scapegoat.md), qui meurt explicitement par exécution.  
 
-- Les bons candidats à une exécution anticipée sont des rôles comme la [Lavandière](lavandiere.md), 
-[Bibliothécaire](bibliothecaire.md) ou [Enquêteur](enqueteur.md) est très utile. 
+- Les bons candidats à une exécution anticipée sont des rôles comme : [Lavandière](lavandiere.md), 
+  [Archiviste](bibliothecaire.md) ou [Détective](enqueteur.md) est très utile. 
 - Exécuter ces rôles tôt permet de valider aussi les joueurs qu’ils désignent.  
 
-- Exécuter une [Voyante](voyante.md) ou un [Empathique](empathique.md) peut sembler risqué, mais permet de valider toutes leurs infos passées.  
+- Exécuter une [Voyante](voyante.md) ou un [Empathe](empathique.md) peut sembler risqué, mais permet de valider toutes leurs infos passées.  
 - Vous êtes une cible prioritaire pour le Mal. Révélez vos infos au bon moment :  
   - tôt, si vous avez vu un Démon ;  
   - tard, si vous voulez accumuler un maximum de confirmations. 
   
-- Si un [<span style="color:red">Imp</span>](imp.md) exécuté est révélé par vous, méfiez-vous : 
+- Si un [<span style="color:red">Diablotin</span>](imp.md) exécuté est révélé par vous, méfiez-vous : 
 une [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md) a probablement pris la relève !  
 
 - Attention :  
-  - Le [Reclus](reclus.md) peut apparaître mauvais à tort.  
-  - L’[<span style="color:red">Espion</span>](espion.md) peut sembler bon.  
+  - La [Recluse](reclus.md) peut apparaître maléfique.  
+  - L’[<span style="color:red">Espionne</span>](espion.md) peut sembler bonne.  
   - Ces déformations restent visibles même après leur mort.  
 
 ---
 
-##  <span style="color:blue;">Bluffer Croque-Mort</span>   
+##  <span style="color:blue;">Bluffer Fossoyeur</span>   
 
 - Vous vous réveillez **chaque nuit sauf la première** : préparez un récit crédible avec un rôle exécuté chaque jour.  
   Confirmer des Villageois bons peut vous rendre crédible surtout si,
-  vous avez accès au Grimoire grâce à un [<span style="color:red">Espion</span>](espion.md).  
+  vous avez accès au Grimoire grâce à une [<span style="color:red">Espionne</span>](espion.md).  
   
 - Vous pouvez aussi rendre maléfique un joueur exécuté en prétendant qu’il était Sbire ou Démon. 
   C'est risqué car le joueur sait que vous mentez, mais efficace si les autres vous croient.  
