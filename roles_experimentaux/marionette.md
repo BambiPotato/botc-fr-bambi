@@ -280,7 +280,7 @@ Le Bien gagne.
       Les techniques pour repérer un Ivrogne fonctionnent donc souvent aussi  
       pour repérer une <strong>Marionnette</strong>.  
       Si vos infos ne collent pas, ou si votre capacité « rate » quand elle devrait marcher,  
-      vous pourriez être une <strong>Marionnette</strong> plutôt qu’un rôle bon.</li>
+      vous pourriez être une <strong>Marionnette</strong> plutôt qu’un rôle bon.</li><br>
 
   <li>Même si vous n’en avez pas conscience,  
       votre alignement est <strong>maléfique</strong>  
@@ -289,14 +289,14 @@ Le Bien gagne.
       ou le <a href="../sv_roles/crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur</a>.  
       Vous pouvez utiliser ces capacités pour éclaircir votre identité…  
       mais le village peut faire pareil,  
-      alors ne suppliez pas trop ouvertement qu’on vous cible !</li>
+      alors ne suppliez pas trop ouvertement qu’on vous cible !</li><br>
 
   <li>Dans la plupart des cas, l’équipe du Mal voudra vous révéler la vérité.  
       Si l’un de vos voisins vous dit que vous êtes une <strong>Marionnette</strong>,  
       prenez-le au sérieux :  
       il peut mentir… mais peut aussi vous donner la clé de votre vraie identité.  
       Si vous le démasquez et que le Mal perd,  
-      vous perdez avec lui.</li>
+      vous perdez avec lui.</li><br>
 
   <li>Si vous suspectez être une <strong>Marionnette</strong>  
       (à cause d’informations incohérentes,  
@@ -304,7 +304,7 @@ Le Bien gagne.
       évitez d’annoncer ce doute aux autres rôles bons :  
       s’ils vous croient, le Bien saura que le  
       <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
-      est forcément l’un de vos voisins.</li>
+      est forcément l’un de vos voisins.</li><br>
 
   <li>Évitez de nommer ou de voter contre vos voisins,  
       sauf si les preuves sont vraiment accablantes.  
@@ -312,7 +312,7 @@ Le Bien gagne.
       le <span style="color:#d45b5b; font-weight:bold;">Démon</span> est forcément assis à votre gauche ou à votre droite.  
       Exécuter votre propre <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
       simplement parce que vous ignoriez être maléfique,  
-      c’est un peu dommage pour vous…</li>
+      c’est un peu dommage pour vous…</li><br>
 
   <li>Cherchez quels types de Sbires sont en jeu.  
       La <strong>Marionnette</strong> est un Sbire discret et invisible,  
@@ -321,13 +321,13 @@ Le Bien gagne.
       Confirmer la présence d’un  
       <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a>  
       ou d’un autre Sbire bien identifié  
-      peut suffire à prouver qu’il n’y a pas de <strong>Marionnette</strong> en jeu.</li>
+      peut suffire à prouver qu’il n’y a pas de <strong>Marionnette</strong> en jeu.</li><br>
 
   <li>Si vous êtes certain·e de connaître les Sbires,  
       vous savez aussi que vous n’êtes <strong>pas</strong> secrètement la <strong>Marionnette</strong>.  
       Le nombre de Sbires est limité :  
       si vous les avez tous trouvés, le reste des joueurs bons  
-      ne sont pas des Marionnettes.</li>
+      ne sont pas des Marionnettes.</li><br>
 
   <li>Chassez le <span style="color:#d45b5b; font-weight:bold;">Démon</span> avec enthousiasme !  
       Si vous êtes une <strong>Marionnette</strong>,  
@@ -338,7 +338,7 @@ Le Bien gagne.
       à l’autre bout du cercle),  
       alors vous savez que vous ne pouvez pas être la <strong>Marionnette</strong>.  
       Et si vous l’êtes, vous détournez quand même les soupçons…  
-      loin de votre véritable <span style="color:#d45b5b; font-weight:bold;">Démon</span> !</li>
+      loin de votre véritable <span style="color:#d45b5b; font-weight:bold;">Démon</span> !</li><br>
 
   <li>Si vous craignez d’être la <strong>Marionnette</strong>  
       mais que vos voisins refusent de parler,  
@@ -348,7 +348,7 @@ Le Bien gagne.
       tandis qu’un joueur bon devra gérer ce doute  
       et se comportera différemment.  
       Cela peut révéler qui est votre voisin secret…  
-      ou qui est un allié maléfique potentiel.</li>
+      ou qui est un allié maléfique potentiel.</li><br>
 
   <li>Si vous êtes convaincu d’être la <strong>Marionnette</strong>,  
       votre rôle est alors de protéger votre <span style="color:#d45b5b; font-weight:bold;">Démon</span>.  
@@ -358,7 +358,7 @@ Le Bien gagne.
       afin qu’elles semblent cohérentes :  
       par exemple, si vous pensez être un  
       <a href="../sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a>,  
-      assurez-vous que chaque jour, l’une de vos phrases soit vraie et l’autre fausse.</li>
+      assurez-vous que chaque jour, l’une de vos phrases soit vraie et l’autre fausse.</li><br>
 
   <li>Si vous êtes le <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
       vous devez décider comment gérer votre <strong>Marionnette</strong>.  
@@ -368,7 +368,7 @@ Le Bien gagne.
       Mais garder une <strong>Marionnette</strong> dans l’ignorance  
       peut aussi être redoutable :  
       un joueur sincèrement persuadé d’être bon  
-      est parfois le meilleur allié du Mal.</li>
+      est parfois le meilleur allié du Mal.</li><br>
 
   <li>En tant que <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
       rien ne vous empêche de dire à vos deux voisins  
@@ -379,13 +379,13 @@ Le Bien gagne.
       ces joueurs auront tout intérêt à garder le secret  
       et à tester votre affirmation,  
       ce qui les poussera à des comportements étranges  
-      et souvent contre-productifs pour le Bien.</li>
+      et souvent contre-productifs pour le Bien.</li><br>
 
   <li>En tant que Sbire, vous pouvez aussi dire à vos voisins bons  
       qu’ils sont votre <strong>Marionnette</strong>.  
       Vous profitez du chaos et de la confusion,  
       sans risquer de faire perdre votre équipe  
-      si on vous exécute après avoir découvert le mensonge.</li>
+      si on vous exécute après avoir découvert le mensonge.</li><br>
 
   <li>Si vous êtes bon ou bonne, mais que votre voisin est très peu coopératif,  
       vous pouvez lui dire qu’il ou elle est votre <strong>Marionnette</strong>.  
@@ -412,7 +412,7 @@ Le Bien gagne.
       <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>  
       avec un « 0 », mais que vous suspectez fortement  
       un de ses voisins d’être maléfique,  
-      cet « Empathique » pourrait bien être une <strong>Marionnette</strong>.</li>
+      cet « Empathique » pourrait bien être une <strong>Marionnette</strong>.</li><br>
 
   <li>Si un joueur prétend être le <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
       et affirme que <strong>vous</strong> êtes la <strong>Marionnette</strong>,  
@@ -426,7 +426,7 @@ Le Bien gagne.
       Si vous pensez que ce joueur n’est pas le <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
       il est très probablement un Sbire.  
       Dans tous les cas, vous avez trouvé un joueur maléfique  
-      (ou un bon joueur qui doit cesser de vous mentir).</li>
+      (ou un bon joueur qui doit cesser de vous mentir).</li><br>
 
   <li>Si vous êtes sûr de ne pas être la <strong>Marionnette</strong>,  
       mais qu’on vous l’a affirmé, dites-le au groupe.  
@@ -437,13 +437,13 @@ Le Bien gagne.
         <li>un <span style="color:#d45b5b; font-weight:bold;">Démon</span> mort ;</li>
         <li>un Sbire mort ;</li>
         <li>ou un bon joueur mort…  
-            dont le bluff ne servait plus à grand-chose.</li>
+            dont le bluff ne servait plus à grand-chose.</li><br>
       </ul>
   </li>
 
   <li>Demandez combien de joueurs ont été déclarés « Marionnette ».  
       S’il y en a plus d’un,  
-      il est assez probable qu’il n’y ait pas de véritable <strong>Marionnette</strong> en jeu.</li>
+      il est assez probable qu’il n’y ait pas de véritable <strong>Marionnette</strong> en jeu.</li><br>
 
   <li>Surveillez vos voisins.  
       Si vous pensez qu’aucun des deux n’est le <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
@@ -452,13 +452,13 @@ Le Bien gagne.
       et jouer « normalement » :  
       gardez vos voisins en vie jusqu’au dernier jour  
       et concentrez-vous sur l’identification du  
-      <span style="color:#d45b5b; font-weight:bold;">Démon</span> ailleurs.</li>
+      <span style="color:#d45b5b; font-weight:bold;">Démon</span> ailleurs.</li><br>
 
   <li>Si la <strong>Marionnette</strong> est sur le script,  
       évitez d’exécuter vos propres voisins si possible :  
       vous ne serez jamais totalement certain·e.  
       Essayez d’exécuter d’abord tous les autres joueurs,  
-      ou de vous assurer qu’il existe d’autres meilleurs suspects.</li>
+      ou de vous assurer qu’il existe d’autres meilleurs suspects.</li><br>
 
   <li>Si vous pensez qu’une <strong>Marionnette</strong> est en jeu,  
       mais que ce n’est pas vous,  
@@ -471,7 +471,7 @@ Le Bien gagne.
       avec les autres infos de la partie :  
       si ça colle, vous avez probablement trouvé le duo maléfique ;  
       si ça ne colle pas, il est possible  
-      qu’aucune <strong>Marionnette</strong> ne soit en jeu.</li>
+      qu’aucune <strong>Marionnette</strong> ne soit en jeu.</li><br>
 
   <li>Normalement, découvrir un Sbire est utile,  
       mais pas forcément décisif.  
@@ -487,7 +487,7 @@ Le Bien gagne.
       a rendu toutes les infos suspectes,  
       le simple fait de savoir  
       qu’un joueur précis était la <strong>Marionnette</strong>  
-      peut suffire à gagner la partie à 3 joueurs vivants.</li>
+      peut suffire à gagner la partie à 3 joueurs vivants.</li><br>
 
   <li>Repérez les joueurs qui étaient très bavards  
       et investis dans l’aide à recher les maléfiques début,  
