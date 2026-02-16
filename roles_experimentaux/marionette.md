@@ -116,7 +116,7 @@ Elle pense être un rôle bon, mais fonctionne en réalité comme une sorte d’
     <img src="../images/Icon_balloonist.png" alt="Aérostier" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/balloonist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aéronaute</a> :  
     Si la <strong>Marionnette</strong> pense être l’<a href="../sv_roles/balloonist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aéronaute</a>,  
-    un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a> supplémentaire a peut-être été ajouté lors de la mise en place.
+    un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a> supplémentaire a peut-être été ajouté lors de la mise en place.
   </li>
 
   <li>
