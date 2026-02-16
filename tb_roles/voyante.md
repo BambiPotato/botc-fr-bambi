@@ -87,8 +87,7 @@ title: Voyante
 ##  <span style="color:blue">Résumé</span>  
 
 **« Chaque nuit, choisissez 2 joueurs : vous apprenez si l’un d’eux est le Démon.»**
-
-Un joueur bon apparaît comme un Démon pour vous."*  
+**Un joueur bon apparaît comme un Démon pour vous."**  
 
 La **Voyante** détecte si un joueur est le [<span style="color:red">Démon</span>](../demons.md) … mais peut confondre un joueur bon avec un Démon.  
 
@@ -96,7 +95,7 @@ La **Voyante** détecte si un joueur est le [<span style="color:red">Démon</spa
 - Elle n’apprend pas lequel des deux est le Démon, seulement qu’un des deux l’est.
 - Si aucun des deux n’est le Démon, elle apprend cette information à la place.
 
-- Malheureusement, un joueur, appelé le **LEURRE** son faux-positif, apparaîtra comme le Démon aux yeux de la Voyante s’il est choisi. 
+- Malheureusement, un joueur, appelé le **LEURRE/FAUX DÉMON** son *faux-positif*, apparaîtra comme le Démon aux yeux de la Voyante s’il est choisi. 
 - Le **LEURRE** est le même joueur pendant toute la partie. 
 - Ce joueur peut être n’importe quel joueur bon, y compris la Voyante elle-même, et la Voyante ne sait pas de quel joueur il s’agit.
 
