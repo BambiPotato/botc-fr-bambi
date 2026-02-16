@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Recluse
+description: Vous pouvez être enregistrée comme maléfique et comme un Sbire ou un Démon, même si vous êtes morte.
+image: /images/Icon_recluse-1.png
 ---
 
 <p align="left">
