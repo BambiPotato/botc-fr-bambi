@@ -73,7 +73,7 @@ Elle pense être un rôle bon, mais fonctionne en réalité comme une sorte d’
 
   <li>La <strong>Marionnette</strong> tire un jeton de  
       <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>  
-      ou d’<a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a> dans le sac,  
+      ou d’un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a> dans le sac,  
       mais est secrètement la <strong>Marionnette</strong>.</li>
 
   <li>La <strong>Marionnette</strong> est assise juste à côté du  
@@ -246,7 +246,7 @@ sans que les bons rôles ni les Sbires la voient comme telle.
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Mélanie est la <strong>Marionnette</strong>,  
 mais pense être le  
-<a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-Mort</a>.  
+<a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a>.  
 Elle se réveille chaque nuit pour apprendre qui a été exécuté dans la journée,  
 mais ses informations sont souvent fausses.  
 Au milieu de la partie, le <span style="color:#d45b5b; font-weight:bold;">Démon</span> lui révèle  
@@ -409,7 +409,7 @@ Le Bien gagne.
       cherchez un joueur dont les informations sont fausses,  
       même si elles sont présentées avec conviction.  
       Par exemple, si quelqu’un revendique être l’  
-      <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a>  
+      <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>  
       avec un « 0 », mais que vous suspectez fortement  
       un de ses voisins d’être maléfique,  
       cet « Empathique » pourrait bien être une <strong>Marionnette</strong>.</li>
@@ -464,7 +464,7 @@ Le Bien gagne.
       mais que ce n’est pas vous,  
       vous savez alors quelque chose de crucial :  
       le <span style="color:#d45b5b; font-weight:bold;">Démon</span> et un Sbire sont assis côte à côte.  
-      Comme un <a href="../tb_roles/chef.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef</a>  
+      Comme un <a href="../tb_roles/chef.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a>  
       ou un <a href="../sv_roles/clockmaker.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Horloger</a>,  
       vous disposez d’une info très structurante.  
       Testez l’hypothèse « deux joueurs maléfiques voisins »  
