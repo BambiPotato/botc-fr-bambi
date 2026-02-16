@@ -83,8 +83,10 @@ Julien, Cédric, Kyllian, Laura, Sarah, Marie et Amélie ne connaissent pas leur
 Marie est réveillé chaque nuit et voit un pouce levé sans savoir pourquoi.  
 Sarah et Marie sont réveillées chaque nuit pour choisir un joueur, sans savoir pourquoi.  
 Sarah est exécutée : elle apprend qu’elle est le <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> et qu'elle est d'alignement "Bon".  
-Laura, croyant être le <a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a>, le dit publiquement et choisit Amélie : Amélie meurt.  
-Marie était le Général, Laura le Mercenaire, et Amélie l’<a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Imp</a>.
+Laura, croyant être la <a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">pourfendeuse</a>, le dit publiquement et choisit Amélie : Amélie meurt.  
+Marie était le <a href="../roles_experimentaux/general.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">général</a>, 
+Laura la <a href="../tb_roles/imp.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">pourfendeuse</a>, 
+et Amélie le <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>.
 </p>
 
 ---
