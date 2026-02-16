@@ -107,7 +107,7 @@ La **Voyante** détecte si un joueur est le [<span style="color:red">Démon</spa
 ##  <span style="color:blue">Comment Conter</span>
 
 - Lors de la préparation de la première nuit :	
-- Placez le jeton de rappel **LEURRE** de la Voyante à côté du jeton de rôle d’un Villageois ou d’un Étranger.
+- Placez le jeton de rappel **LEURRE** de la Voyante à côté du jeton de rôle d’un Villageois ou d’un Marginal.
 	-	Chaque nuit :
 	-	Réveillez la Voyante.
 	-	La voyante choisit deux joueurs : vivants, morts ou elle-même.
