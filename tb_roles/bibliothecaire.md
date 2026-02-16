@@ -98,9 +98,9 @@ Il ne l’apprend qu’une seule fois, puis plus rien.
 ##  <span style="color:blue">Comment Conter</span>  
 
 - Pendant la préparation de la première nuit, placez le jeton de rappel **MARGINAL** de l'Archiviste à côté du jeton de rôle d’un Marginal,  
-  et placez placez le jeton de rappel  **FAUX** d'Archiviste à côté de n’importe quel autre rôle.  
+  et placez le jeton de rappel «**FAUX MARGINAL**» de l'Archiviste à côté de n’importe quel autre rôle.  
 
-- Réveillez ensuite l'Archiviste et **montrez les deux joueurs marqués MARGINAL et FAUX**.  
+- Réveillez ensuite l'Archiviste et **montrez les deux joueurs marqués MARGINAL et FAUX MARGINAL**.  
 - Montrez ensuite le jeton de rôle marqué **MARGINAL** à l'Archiviste  .  
 - Rendormez l'Archiviste.  
 - Retirez ses jetons de rappel lorsque cela vous convient.
