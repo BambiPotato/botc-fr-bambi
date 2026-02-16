@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Jardinier
+description: Le Conteur assigne manuellement le rôle d’un ou plusieurs joueurs.
+image: /images/Icon_gardener.png
 ---
 
 <p align="left">
@@ -95,7 +97,7 @@ Le <strong>Jardinier</strong> ne modifie rien durant la partie, il agit uniqueme
   Le Conteur place le <strong>Jardinier</strong> en jeu et attribue directement à Isabelle le rôle d’<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> à la place.</li><br>
 
   <li><strong>Vincent</strong> a été maléfique plusieurs fois de suite aujourd’hui.<br>  
-  Le Conteur place le <strong>Jardinier</strong> en jeu et lui attribue cette fois le rôle du <a href="../tb_roles/cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuistot</a>.</li>
+  Le Conteur place le <strong>Jardinier</strong> en jeu et lui attribue cette fois le rôle du <a href="../tb_roles/cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a>.</li>
 
 </ul>
 
