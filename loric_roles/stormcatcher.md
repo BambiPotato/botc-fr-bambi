@@ -97,7 +97,7 @@ Au début de la partie, annoncez que l’<strong>Attrape-tempête</strong> est e
 
   <li>Le Conteur souhaite une partie basée autour de l’<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>.<br>  
   L’Attrape-tempête « favorise l’Empathe », <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a> mais <strong>aucun <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a> n’est en jeu</strong>.<br>   
-  Les <span style="color:#d45b5b; font-weight:bold;">maléfiques</span> l’apprennent, et l’<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> choisit de <em>bluffer</em> <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a>.</li>
+  Les <span style="color:#d45b5b; font-weight:bold;">maléfiques</span> l’apprennent, et l’<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> choisit de <em>bluffer</em> <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>.</li>
 
 </ul>
 
