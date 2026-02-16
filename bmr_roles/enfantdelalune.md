@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Enfant de la lune
+title: Sélénite
+description: Lorsque vous apprenez que vous êtes morte, choisissez publiquement un joueur vivant. Cette nuit, si ce joueur était bon, il meurt. 
+image: /images/Icon_moonchild.png
 ---
 
 
@@ -82,31 +84,31 @@ title: Enfant de la lune
 
 ##  <span style="color:blue">Résumé</span>  
 
-> **« Lorsque vous apprenez que vous êtes mort, choisissez publiquement un joueur vivant. Cette nuit, si ce joueur était bon, il meurt. »**
+> **« Lorsque vous apprenez que vous êtes morte, choisissez publiquement un joueur vivant. Cette nuit, si ce joueur était bon, il meurt. »**
 
-L’**Enfant de la Lune** maudit un joueur à sa mort le tuant également.
+La **Sélénite** maudit un joueur à sa mort le tuant également.
 
-- Lorsque vous **apprenez que vous êtes mort**, vous devez **immédiatement choisir un joueur vivant**.  
+- Lorsque vous **apprenez que vous êtes morte**, vous devez **immédiatement choisir un joueur vivant**.  
 - Si le joueur choisi est **bon**, il **meurt cette nuit-là**.  
 - Si le joueur est **maléfique**, il **ne se passe rien**.  
-- L'Enfant de la Lune doit choisir **publiquement**, en une minute environ, après l’annonce de sa mort (que ce soit de nuit ou par exécution). 
-- L'Enfant de la Lune peut prendre son temps et demander conseil au groupe avant de prendre cette décision.
-- Si L'Enfant de la Lune refuse de choisir volontairement, c’est considéré comme **une tricherie**. 
-- Si l'Enfant de la Lune est sobre et sain la nuit, mais était ivre ou empoisonné lorsqu'il a choisi un joueur aujourd'hui, ce joueur meurt. 
-- Si l'Enfant de la Lune est ivre ou empoisonné la nuit, mais était sobre et sain lorsqu'il a choisi un joueur aujourd'hui, ce joueur ne meurt pas.
-- L'Enfant de la Lune tue la [Brute](brute.md) si celle-ci était d'aligment bon au moment où l'Enfant de la Lune l'a choisi, indépendamment de son alignement nocturne.
+- La Sélénite doit choisir **publiquement**, en une minute environ, après l’annonce de sa mort (que ce soit de nuit ou par exécution). 
+- La Sélénite peut prendre son temps et demander conseil au groupe avant de prendre cette décision.
+- Si la Sélénite refuse de choisir volontairement, c’est considéré comme **une tricherie**. 
+- Si la Sélénite est sobre et sain la nuit, mais était ivre ou empoisonnée lorsqu'elle a choisi un joueur aujourd'hui, ce joueur meurt. 
+- Si la Sélénite est ivre ou empoisonnée la nuit, mais était sobre et saine lorsqu'elle a choisi un joueur aujourd'hui, ce joueur ne meurt pas.
+- La Sélénite tue la [Brute](brute.md) si celle-ci était d'aligment bon au moment où la Sélénite l'a choisie, indépendamment de son alignement nocturne.
 
 
 >  *Astuce Conteur*
-> * Si l'Enfant de la Lune ne comprend pas qu'il doit choisir un joueur à sa mort, rappelez-le-lui discrètement. 
+> * Si la Sélénite ne comprend pas qu'elle doit choisir un joueur à sa mort, rappelez-la discrètement. 
 > * Les nouveaux joueurs peuvent ne pas comprendre le fonctionnement de leur rôle.  
 
 ---
 
 ##  <span style="color:blue">Comment Conter</span>   
 
-- Dès que vous annoncez que **l’Enfant de la Lune est mort**, laissez-le choisir un joueur vivant publiquement.  
-- Si le joueur choisi est **bon**, placez un jeton **MORT (Enfant de la Lune)** sur son rôle.  
+- Dès que vous annoncez que **la Sélénite** est morte, laissez-la choisir un joueur vivant publiquement.  
+- Si le joueur choisi est **bon**, placez le jeton **MORT** de la Sélénite sur son rôle.  
 - Ce joueur mourra **cette nuit-là**, sauf s’il est protégé (par exemple par la [Dame de Thé](damedethe.md) ou l’[Aubergiste](aubergiste.md)).  
 - Si le joueur choisi est **maléfique**, rien ne se passe.  
 - Le Conteur peut rappeler discrètement à un nouveau joueur qu’il doit faire un choix s’il ne connaît pas la règle.
@@ -120,18 +122,18 @@ L’**Enfant de la Lune** maudit un joueur à sa mort le tuant également.
   Cette nuit-là, **l’Exorciste meurt**.  
 
 - Le [Pacifiste](pacifiste.md) est en jeu.  
-  L’Enfant de la Lune est exécuté, mais **reste en vie** grâce à lui : il **ne choisit personne**.  
+  La Sélénite est exécutée, mais **reste en vie** grâce au [Pacifiste](pacifiste.md)  : elle **ne choisit personne**.  
 
-- Le <a href="shabaloth.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a> dévore l’Enfant de la Lune, qui choisit l’<a href="assassin.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>.  
+- Le <a href="shabaloth.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a> dévore la Sélénite , qui choisit l’<a href="assassin.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>.  
   L’<a href="assassin.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> survit, et le <a href="shabaloth.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a> **régurgite** sa victime, 
-  l’Enfant de la Lune revient à la  vie.  
+ la Sélénite revient à la  vie.  
   Quelques nuits plus tard, le <a href="shabaloth.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a> le mange de nouveau : cette fois, il choisit la [Commère](commere.md), qui **meurt**.
 
 ---
 
 ##  <span style="color:blue">Astuces & Stratégies</span>    
 
-L’Enfant de la Lune est un **Étranger dangereux** : en mourant, il peut provoquer **une mort supplémentaire** mais uniquement parmi les joueurs bons.  
+Ka Sélénite est une **Marginale dangereux** : en mourant, elle peut provoquer **une mort supplémentaire** mais uniquement parmi les joueurs bons.  
 Votre rôle demande donc réflexion, timing et un brin de tragédie.
 
 ###  Choisir sagement votre cible  
@@ -141,7 +143,7 @@ Votre rôle demande donc réflexion, timing et un brin de tragédie.
 
 - Si vous choisissez un **joueur maléfique**, il ne mourra pas : vous obtenez donc une **piste d’accusation solide**.  
 
- Avant votre mort, essayez de convenir avec le groupe **de qui vous choisirez** — cela peut transformer votre mort en source d’informations précieuses.
+ Avant votre mort, essayez de convenir avec le groupe **de qui vous choisirez**, cela peut transformer votre mort en source d’informations précieuses.
 
 ---
 
@@ -170,12 +172,12 @@ Votre rôle demande donc réflexion, timing et un brin de tragédie.
 
 ---
 
-##   <span style="color:blue">Bluffer Enfant de la Lune</span>  
+##   <span style="color:blue">Bluffer Sélénite</span>  
 
 ###  Si, vous êtes <span style="color:blue">Bon</span>   
 
-- Prétendre être l’Enfant de la Lune peut **dissuader la ville de vous exécuter**, de peur de mourir à leur tour.  
-- Vous pouvez aussi annoncer **publiquement** qui vous choisiriez si vous mouriez — cela met la pression sur les joueurs.  
+- Prétendre être la Sélénite peut **dissuader le village de vous exécuter**, de peur de mourir à leur tour.  
+- Vous pouvez aussi annoncer **publiquement** qui vous choisiriez si vous mouriez, cela met la pression sur les joueurs.  
 
 ###  Si, vous êtes <span style="color:#d45b5b">Maléfique</span>  
 
@@ -183,7 +185,7 @@ Votre rôle demande donc réflexion, timing et un brin de tragédie.
   Le Démon ou un Sbire pourra **tuer ce joueur** la nuit suivante pour renforcer votre crédibilité.  
 - À l’inverse, vous pouvez choisir un **vrai joueur du Bien** et le laisser en vie, pour semer la confusion et le faire passer pour maléfique.  
 
- Variante efficace : prétendre être un Enfant de la Lune exécuté tard dans la partie, et simuler une malédiction sur un joueur-clef.  
+ Variante efficace : prétendre être la Sélénite exécutée tard dans la partie, et simuler une malédiction sur un joueur-clef.  
 Les bons joueurs perdront un temps précieux à analyser une fausse piste.
 
 ---
