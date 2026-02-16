@@ -82,51 +82,53 @@ title: Archiviste
 
 ##  <span style="color:blue">Résumé</span>  
 
-« Vous commencez en apprenant 2 joueurs et le rôle d’**Étranger** (Marginal) de l’un des deux.(Ou qu'il y a zéro étranger en jeu.) »  
+**« Vous commencez en apprenant 2 joueurs et le rôle de Marginal de l’un des deux. (Ou qu’il n’y a aucun Marginal en jeu.) »** 
 
-L' **Archiviste** apprend qu’un rôle **Étranger** est en jeu, mais pas exactement de quel joueur il s'agit.
+L’Archiviste apprend qu’un Marginal particulier est en jeu, mais pas exactement de quel joueur il s’agit.
 
-Lors de la première nuit, l'Archiviste  apprend que l’un de deux joueurs est un Étranger spécifique.  
+Lors de la première nuit, l'Archiviste  apprend que l’un de deux joueurs est un Marginal spécifique.  
 Il ne l’apprend qu’une seule fois, puis plus rien.  
 
-⚠️ L’[Ivrogne](ivrogne.md) est un Étranger. Si l'Archiviste apprend qu’un des deux joueurs est l’Ivrogne, il n’apprend pas le rôle [Villageois](../glossaire.md#villageois) que l’Ivrogne croit avoir.  
+⚠️ L’[Ivrogne](ivrogne.md) est un Marginal. Si l'Archiviste apprend qu’un des deux joueurs est l’Ivrogne, il n’apprend pas le rôle [Villageois](../glossaire.md#villageois) que l’Ivrogne croit avoir.  
 
 ---
 
 ##  <span style="color:blue">Comment Conter</span>  
 
-- Pendant la préparation de la première nuit, placez le jeton de rappel **ÉTRANGER** de l'Archiviste à côté du jeton de rôle d’un Étranger,  
+- Pendant la préparation de la première nuit, placez le jeton de rappel **MARGINAL** de l'Archiviste à côté du jeton de rôle d’un Marginal,  
   et placez placez le jeton de rappel  **FAUX** d'Archiviste à côté de n’importe quel autre rôle.  
 
-- Réveillez ensuite l'Archiviste et **montrez les deux joueurs marqués ÉTRANGER et FAUX**.  
-- Montrez ensuite le jeton de rôle marqué **ÉTRANGER** à l'Archiviste  .  
-- Rendormez le Bibliothécaire.  
-- Retirez ses jetons mémo quand cela n’est plus utile.  
+- Réveillez ensuite l'Archiviste et **montrez les deux joueurs marqués MARGINAL et FAUX**.  
+- Montrez ensuite le jeton de rôle marqué **MARGINAL** à l'Archiviste  .  
+- Rendormez l'Archiviste.  
+- Retirez ses jetons de rappel lorsque cela vous convient.
 
 ---
 
 ##  <span style="color:blue">Exemples</span>   
 
 - **Cédric** est le [Saint](saint.md), et **Laura** est le [Baron](baron.md).  
-  → Le Bibliothécaire apprend que soit Cédric, soit Vanessa est le Saint.  
+  → L'Archiviste apprend que soit Cédric, soit Vanessa est le Saint.  
 
-- Il n’y a aucun Étranger dans cette partie.  
-  → Le Bibliothécaire apprend un « 0 ».  
+- Il n’y a aucun Marginal dans cette partie.  
+  → L'Archiviste apprend un « 0 ».  
 
-- **Julien** est l’[Ivrogne](ivrogne.md) (il croit être le [Moine](moine.md)) et **Tanina** est le [Fossoyeur](croquemort.md).  
-  → Le Bibliothécaire apprend que soit Julien, soit Tanina est l’Ivrogne.  
-  (Cela arrive car le Bibliothécaire apprend le vrai rôle. Le vrai rôle de Julien est Ivrogne, pas Moine.)  
+- **Julien** est l’[Ivrogne](ivrogne.md) (il croit être le [Moine](moine.md)) et **Sophie** est le [Fossoyeur](croquemort.md).  
+  → L'Archiviste apprend que soit Julien, soit Sophie est l’Ivrogne.  
+  (Cela arrive car l'Archiviste apprend le vrai rôle. Le vrai rôle de Julien est Ivrogne, pas Moine.)  
 
 ---
 
 ##  <span style="color:blue">Astuces & Conseils</span>    
 
-- Identifiez rapidement lequel des deux joueurs est l’[Étranger](../glossaire.md#étranger).  
+- Identifiez rapidement lequel des deux joueurs est le [Marginal](../glossaire.md#étranger).  
   Même si son pouvoir est parfois un handicap, il est toujours **bon** et donc un vote sûr.  
-  Savoir qu’une personne n’est pas le <span style="color:red">**Démon**</span>  est déjà une information précieuse.  
+  Savoir qu’une personne n’est pas le <span style="color:red">**Démon**</span> est déjà une information précieuse.  
 
 - Si vous recevez un **0**, c’est extrêmement puissant (sauf si vous êtes [Ivrogne](ivrogne.md) ou Empoisonné ) :  
-  → cela signifie qu’il n’y a **aucun Étranger** en jeu. Donc pas de  [<span style="color:red">Baron</span>](../tb_roles/baron.md) , et toute personne qui prétend être Étranger bluffe probablement pour le Mal.  
+  → cela signifie qu’il n’y a **aucun Marginal** en jeu. Donc pas de  [<span style="color:red">Baron</span>](../tb_roles/baron.md), toute affirmation concernant un Matginal est probablement le fruit d'un bluff de la part de joueurs maléfiques. 
+  Vous pouvez également inciter les Marginaux à bluffer en mentant sur vos informations et en prétendant qu'il y a au moins un Marginal en jeu ; 
+  un Sbire ou un Démon pourrait alors exploiter cette affirmation pour étayer son bluff.
 
 - Partager votre info tôt peut confirmer un joueur du Bien et appuyer d’autres [Villageois](../glossaire.md#villageois) comme l’[Empathe](empathique.md) ou le [Corneille](gardien.md).  
 
@@ -147,7 +149,7 @@ Il ne l’apprend qu’une seule fois, puis plus rien.
 ##  <span style="color:blue">Bluffer Archiviste</span>   
 
 - Vous êtes censé avoir reçu vos infos la première nuit.  
-  Vous aurez donc « vu » deux joueurs et un jeton d’[Étranger](../glossaire.md#étranger).  
+  Vous aurez donc « vu » deux joueurs et un jeton de [Marginal](../glossaire.md#étranger).  
 
 - Utilisez vos infos pour :  
   - Faire passer un complice du Mal pour bon (ex. confirmer un [Saint](saint.md) ou une [Recluse](reclus.md)).  
