@@ -81,16 +81,14 @@ title: Parieur
 
 ##  <span style="color:blue">Résumé</span>    
 
-> « Chaque nuit* (sauf la première), choisissez un joueur et devinez son rôle.  
-> → Si vous vous trompez, vous mourrez. »  
+> <strong> « Chaque nuit*, choisissez un joueur et devinez son rôle. Si vous vous trompez, vous mourez. »</strong>  
 
-Le **Parieur** mise sa vie sur sa lecture des autres joueurs.  
-Bonne intuition = survie. Mauvaise intuition = mort.  
-Le joueur peut tenter de deviner qui possède quel rôle… mais il en paie le prix fort en cas d’erreur.
+Le Parieur peut deviner qui est qui... mais il en paiera le prix fort s'il se trompe.
 
-- Chaque nuit (sauf la première), le joueur choisit un autre joueur — vivant ou mort, voire lui-même — et tente de deviner son rôle en désignant son icône sur la feuille des rôles.  
-- Si la réponse est correcte, rien ne se passe. Si elle est incorrecte, le joueur meurt.  
-- Le Conteur ne révèle pas si la supposition était juste ou non.  
+- Chaque nuit, sauf la première, le Parieur choisit un joueur et devine son rôle en pointant son icône sur la fiche des rôles. 
+  Si la prédiction est correcte, rien ne se passe. Si elle est incorrecte, le Joueur meurt.
+- Le Parieur n'apprend pas du conteur si sa supposition est correcte ou incorrecte.
+- Le Parieur peut choisir n'importe quel joueur, mort ou vivant, même lui-même.
 
 ---
 
