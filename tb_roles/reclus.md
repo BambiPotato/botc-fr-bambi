@@ -89,7 +89,7 @@ Filez donc ! Chez les miens, on n’affronte pas les démons à découvert. Oust
 
 « **Vous pouvez être enregistrée comme maléfique et comme un Sbire ou un Démon, même si vous êtes morte.** » 
 
-La Recluse peut sembler être un rôle maléfique, mais elle est en réalité d'alignement "Bon".
+La Recluse peut sembler être un rôle maléfique, mais elle est en réalité dans le camp du <strong>Bien</strong>.
 
 - Lorsque l'alignement de la Recluse est détectée, le Conteur choisit si la Recluse est considérée comme bon ou maléfique.
 - Lorsque la Recluse est ciblée par une capacité qui affecte des Sbires ou des Démons spécifiques, 
@@ -156,7 +156,7 @@ le Conteur choisit si la Recluse est enregistrée comme ce Sbire ou Démon.
     🧞
     <img src="../images/Icon_ogre.png" alt="Ogre" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/ogre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ogre</a> :  
-    Si la Reclues s’enregistre comme maléfique pour l’Ogre, l’Ogre apprend qu’il est maléfique.
+    Si la Recluse s’enregistre comme maléfique pour l’Ogre, l’Ogre apprend qu’il est maléfique.
   </li>  
   <li>
     🧞
