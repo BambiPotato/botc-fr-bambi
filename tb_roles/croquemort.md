@@ -11,7 +11,7 @@ image: /images/Icon_undertaker.png
   </a>
 </p>
 
-#  <span style="color:blue;">Croque-Mort</span>  
+#  <span style="color:blue;">Fossoyeur</span>  
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
