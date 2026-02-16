@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Parieur
+description: Chaque nuit*, choisissez un joueur et devinez son rôle. Si vous vous trompez, vous mourez.
+image: /images/Icon_gambler.png
 ---
 
 
