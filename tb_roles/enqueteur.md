@@ -114,7 +114,7 @@ Il ne reçoit cette information qu’une seule fois, au début de la partie.
 - **Tyld** est [<span style="color:red">Espion</span>](espion.md), et **Julien** est [<span style="color:red">Empoisonneur</span>](empoisonneur.md).  
   → Le Détective apprend que soit Tyld, soit Julien est l’Espionne.  
 
-- **Tigeni** est [Recluse](reclus.md), et **Kyllian** est [<span style="color:red">Diabltin</span>](imp.md).  
+- **Tigeni** est [Recluse](reclus.md), et **Kyllian** est [<span style="color:red">Diablotin</span>](imp.md).  
   → L’Enquêteur apprend que soit Tigeni, soit Kyllian est [<span style="color:red">Empoisonneur</span>](empoisonneur.md).  
   (La Recluse peut s’enregistrer comme un Sbire, ici comme Empoisonneur.)  
 
