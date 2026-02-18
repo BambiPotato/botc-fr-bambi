@@ -77,45 +77,45 @@ Le <strong>Docteur de la peste</strong> ajoute une capacité de <span style="col
     🧞
     <img src="../images/Icon_baron.png" alt="Baron" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> :  
-    Si la conteuse ou le conteur gagne la capacité du Baron, jusqu’à deux joueurs deviennent des
-    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>.
+    Si la conteuse gagne la capacité du Baron, jusqu’à deux joueurs deviennent des
+    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>.
   </li>
 
   <li>
     🧞
     <img src="../images/Icon_boomdandy.png" alt="Boomdandy" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/boomdandy.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boomdandy</a> :  
-    Si la conteuse ou le conteur gagne la capacité du Boomdandy, un joueur devient
+    Si la conteuse gagne la capacité du Boomdandy, un joueur devient
     <a href="../roles_experimentaux/boomdandy.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boomdandy</a>.
   </li>
 
   <li>
     🧞
     <img src="../images/Icon_eviltwin.png" alt="Jumeau Maléfique" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../sv_roles/jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumeau Maléfique</a> :  
-    Si la conteuse ou le conteur gagne la capacité du Jumeau Maléfique, un joueur devient
-    <a href="../sv_roles/jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumeau Maléfique</a>.
+    <a href="../sv_roles/jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumelle Maléfique</a> :  
+    Si la conteuse gagne la capacité de la Jumelle Maléfique, un joueur devient
+    <a href="../sv_roles/jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumelle Maléfique</a>.
   </li>
 
   <li>
     🧞
     <img src="../images/Icon_fearmonger.png" alt="Fearmonger" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/fearmonger.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fearmonger</a> :  
-    Si la conteuse ou le conteur gagne la capacité du Fearmonger, un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> gagne cette capacité et l’apprend.
+    Si la conteuse gagne la capacité du Fearmonger, un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> gagne cette capacité et l’apprend.
   </li>
 
   <li>
     🧞
     <img src="../images/Icon_goblin.png" alt="Goblin" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Goblin</a> :  
-    Si la conteuse ou le conteur gagne la capacité du Goblin, un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> gagne cette capacité et l’apprend.
+    Si la conteuse gagne la capacité du Goblin, un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> gagne cette capacité et l’apprend.
   </li>
 
   <li>
     🧞
     <img src="../images/Icon_marionette.png" alt="Marionnette" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/marionette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> :  
-    Si la conteuse ou le conteur gagne la capacité de la Marionnette, l’un des voisins bons du
+    Si la conteuse gagne la capacité de la Marionnette, l’un des voisins bons du
     <span style="color:#d45b5b; font-weight:bold;">Démon</span> devient
     <a href="../roles_experimentaux/marionette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a>.
   </li>
@@ -124,14 +124,14 @@ Le <strong>Docteur de la peste</strong> ajoute une capacité de <span style="col
     🧞
     <img src="../images/Icon_scarletwoman.png" alt="Femme Écarlate" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../tb_roles/femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme Écarlate</a> :  
-    Si la conteuse ou le conteur gagne la capacité de la Femme Écarlate, un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> gagne cette capacité et l’apprend.
+    Si la conteuse gagne la capacité de la Femme Écarlate, un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> gagne cette capacité et l’apprend.
   </li>
 
   <li>
     🧞
     <img src="../images/Icon_spy.png" alt="Espion" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espion</a> :  
-    Si la conteuse ou le conteur gagne la capacité de l’Espion, un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> gagne cette capacité et l’apprend.
+    <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a> :  
+    Si la conteuse gagne la capacité de l’Espionne, un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> gagne cette capacité et l’apprend.
   </li>
 
   <li>
@@ -149,11 +149,11 @@ Le <strong>Docteur de la peste</strong> ajoute une capacité de <span style="col
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
-  <li>Quand le Docteur de la peste meurt, la conteuse ou le conteur gagne la capacité d’un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> de son choix présent sur le script.</li>
+  <li>Quand le Docteur de la peste meurt, la conteuse gagne la capacité d’un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> de son choix présent sur le script.</li>
 
   <li>Cette capacité reste en jeu pour le reste de la partie.</li>
 
-  <li>La conteuse ou le conteur ne devient pas un joueur : il ou elle ne devient pas maléfique, ne peut pas être ciblé par des capacités, ne peut ni voter ni nommer.</li>
+  <li>La conteuse ne devient pas un joueur : elle ne devient pas maléfique, ne peut pas être ciblée par des capacités, ne peut ni voter ni nommer.</li>
 
   <li>Si le Docteur de peste est ivre ou empoisonné au moment de sa mort, aucune capacité de <span style="color:#d45b5b; font-weight:bold;">Sbire</span> n’est gagnée, même s’il redevenait sobre ou sain plus tard.</li>
 
@@ -174,7 +174,7 @@ Quand le Docteur de la peste meurt (de jour ou de nuit), choisissez une capacit�
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Placez un jeton de rôle de Sbire sur le bord du grimoire, côté conteuse/conteur,  
+Placez un jeton de rôle de Sbire sur le bord du grimoire, côté Conteur.  
 et marquez-le avec un rappel <strong>CAPACITÉ CONTEUR</strong> (ou un rappel dédié Docteur de peste si vous en avez un).  
 Notez au besoin sur votre feuille de nuit à quel moment cette capacité doit se déclencher.
 </p>
@@ -286,7 +286,7 @@ car elle l’a gagnée au moment de la mort du Docteur de peste et n’est pas a
   <li>Vous pouvez aussi changer totalement de discours une fois mort :  
       prétendez que vous n’étiez Docteur de peste que pour attirer le meurtre du <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
       et que vous étiez en réalité un rôle comme le 
-      <a href="../tb_roles/gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a>  
+      <a href="../tb_roles/gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a>  
       ou le 
       <a href="../sv_roles/sage.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a>.  
       Cette confusion supplémentaire peut suffire à brouiller les pistes sur les derniers jours.</li>
