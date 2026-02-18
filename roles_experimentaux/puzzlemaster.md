@@ -63,7 +63,7 @@ title: Maître des Puzzles
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« 1 joueur est ivre, même si vous êtes mort.  
-  Si vous devinez (une fois) qui c’est, vous apprenez qui est le <span style="color:#d45b5b; font-weight:bold;">Démon</span> ;  
+  Si vous devinez (une fois) qui c’est, vous apprenez qui est le <span style="color:#d45b5b; font-weight:bold;">Démon</span>, 
   si vous vous trompez, vous recevez une fausse information. »</strong>
 </p>
 
