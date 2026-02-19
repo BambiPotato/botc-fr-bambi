@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Lorics
+description: Tous les rôles Lorics
+image: /images/Generic_loric.png
 ---
 
 <p align="left">
