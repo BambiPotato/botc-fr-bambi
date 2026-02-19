@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Voyante
-description: Chaque nuit, choisissez 2 joueurs : vous apprenez si l’un d’eux est le Démon un joueur bon apparaît comme un Démon pour vous.
-image: /images/Icon_fortuneteller.png
+title: "Voyante"
+description: "Chaque nuit, choisissez 2 joueurs : vous apprenez si l’un d’eux est le Démon. Un joueur bon apparaît comme un Démon pour vous."
+image: "/images/Icon_fortuneteller.png"
 ---
 
 
