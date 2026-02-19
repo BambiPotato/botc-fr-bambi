@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Ange
+description: Quelque chose de terrible pourrait arriver à celui qui est le plus responsable de la mort d’un nouveau joueur.
+image: /images/Icon_angel.png
 ---
 
 <p align="left">
@@ -44,7 +46,7 @@ car je les frapperai de la fureur et de la justice de mille tempêtes. »
 
 ##  Résumé
 
-**« Il pourrait arriver quelque chose de grave à celui ou celle qui est le plus responsable de la mort d'un nouveau joueur. »**
+**«  Quelque chose de terrible pourrait arriver à celui qui est le plus responsable de la mort d’un nouveau joueur. »**
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.8;">
 L’<strong><span style="color:#d4a76a;">Ange</span></strong> aide les nouveaux joueurs et nouvelles joueuses à profiter pleinement du jeu lorsqu’ils rejoignent un groupe de vétérans.  
