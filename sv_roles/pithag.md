@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Pit-Hag
+description: Chaque nuit*, choisissez un joueur et un rôle qu’il devient (s’il n’est pas déjà en jeu).
+image: /images/Icon_pithag.png
 ---
 
 <!-- 🔴 Logo en haut à gauche -->
