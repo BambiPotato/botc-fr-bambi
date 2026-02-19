@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Glossaire
+description: Glossaire en français.
+image: /images/logogold.png
 ---
 
 
