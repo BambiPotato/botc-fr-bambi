@@ -61,7 +61,7 @@ title: Alchimiste
 ##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>« Vous avez une capacité de Sbire. Quand vous l’utilisez, la conteuse peut vous demander de choisir différemment. »</strong>
+<strong>« Vous possédez une capacité de sbire. Lorsque vous l’utilisez, le Conteur peut vous inviter à faire un autre choix. »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
