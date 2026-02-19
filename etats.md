@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Les États
+description: Dans Blood on the Clocktower, les joueurs peuvent être ivres ou sobres, vivants ou morts, sains ou empoisonnés, ces éléments sont appelés des états. 
+image: /images/logogold.png
 ---
 
 <p align="left">
@@ -24,7 +26,7 @@ title: Les États
 #  Les États
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Dans <strong>Blood on the Clocktower</strong>, les joueurs et les joueuses peuvent être beaucoup de choses : ce rôle-ci ou celui-là, ivres ou sobres, vivants ou morts, sains ou empoisonnés.  
+Dans <strong>Blood on the Clocktower</strong>, les joueurs peuvent être beaucoup de choses : ce rôle-ci ou celui-là, ivres ou sobres, vivants ou morts, sains ou empoisonnés.  
 Ces éléments sont appelés des <strong>états</strong>. Ce sont des caractéristiques permanentes et indépendantes d'un joueur. 
 Par exemple, si vous êtes ivre et que vous changez de rôle, vous restez ivre.  
 Si vous êtes empoisonné, vous pouvez aussi être ivre en même temps.
