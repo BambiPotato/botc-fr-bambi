@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Ventriloque
+description: Si un joueur est fou d’un nouveau rôle pendant sa nomination, il pourrait ne pas mourir s’il est exécuté aujourd’hui.
+image: /images/Icon_ventriloquist.png
 ---
 
 <p align="left">
@@ -129,6 +131,6 @@ Quand il est exécuté, Julian <strong>meurt</strong>, car il n’était pas vra
 ---
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+  <a href="{{ '/' | relative_url }}" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a>
   <a href="../loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Catégorie : Lorics</a>
 </p>
