@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Répartition
+description: Répartition du Village selon le nombre de joueurs et joueuses.
+image: /images/logogold.png
 ---
 
 <p align="left">
