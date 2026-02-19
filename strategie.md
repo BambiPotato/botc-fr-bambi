@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Conseils & Stratégies 
+description: Conseils & Stratégies pour les joueurs et les joueuses.
+image: /images/logogold.png
 ---
 
 <p align="left">
