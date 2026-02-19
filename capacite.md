@@ -1,3 +1,9 @@
+---
+layout: default
+title: Les Capacités
+description: Chaque rôle de Blood on the Clocktower possède une capacité unique, décrite sur son jeton de rôle, sa fiche et dans son almanach.  
+image: /images/logogold.png
+---
 
 <p align="left">
   <a href="/botc-fr-bambi/">
@@ -8,8 +14,8 @@
 #  <span style="color:#b58b52; font-weight:bold; font-size:36px;">Capacités</span>  
 
 <span style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Chaque rôle de *Blood on the Clocktower* possède une **capacité unique**, décrite sur son jeton, sa fiche et dans son almanach.  
-Le jeton et la fiche de rôle fournissent une version simplifiée, mais en cas de conflit ou d’interaction complexe, il faut se référer au texte de l’almanach.
+Chaque rôle de *Blood on the Clocktower* possède une **capacité unique**, décrite sur son jeton de rôle, sa fiche et dans son almanach.  
+Le jeton de rôle et sa fiche fournissent une version simplifiée, mais en cas de conflit ou d’interaction complexe, il faut se référer au texte de l’almanach.
 
 
 ---
@@ -21,7 +27,7 @@ Lorsqu’une capacité est utilisée, **elle s’applique immédiatement**.
 
 Exemples :  
 - Si le [<span style="color:red;">**Démon**</span>](./demons.md) attaque la [**Voyante**](./tb_roles/voyante.md), celle-ci meurt aussitôt et **ne se réveillera pas** pour utiliser sa capacité plus tard.  
-- Si le [**Moine**](./tb_roles/moine.md) protège l’[**Empathique**](./tb_roles/empathique.md), et que le Démon attaque l’Empathique juste après, **celle-ci survit**.
+- Si le [**Moine**](./tb_roles/moine.md) protège l’[**Empathe**](./tb_roles/empathique.md), et que le Démon attaque l’Empathique juste après, **celle-ci survit**.
 
 ---
 
@@ -31,8 +37,8 @@ Exemples :
 Chaque joueur ne connaît que **les informations prévues par sa propre capacité**.  
 Les secrets doivent le rester.  
 
-- Si l’[<span style="color:red;">**Imp**</span>](./tb_roles/imp.md) meurt et que la [<span style="color:red;">**Femme Écarlate**</span>](./tb_roles/femmeecarlate.md) devient le nouvel Imp, **les autres joueurs n’en savent rien**.  
-- Si le [**Mercenaire**](./tb_roles/mercenaire.md) utilise sa capacité sans effet, **personne ne sait** qu’il est le Mercenaire.  
+- Si l’[<span style="color:red;">**Diablotin**</span>](./tb_roles/imp.md) meurt et que la [<span style="color:red;">**Femme Écarlate**</span>](./tb_roles/femmeecarlate.md) devient le nouveau Diablotin, **les autres joueurs n’en savent rien**.  
+- Si la [**Pourfendeuse**](./tb_roles/mercenaire.md) utilise sa capacité sans effet, **personne ne sait** qu’il est la Pourfendeuse.  
 - Si le [**Moine**](./tb_roles/moine.md) protège la [**Lavandière**](./tb_roles/lavandiere.md), cette dernière **ne le découvre pas**.  
 - À la fin de la nuit, **les joueurs ne savent pas** quelle capacité a tué qui — uniquement **qui est mort**.
 
@@ -46,7 +52,7 @@ Les capacités sont perdues immédiatement si un joueur **meurt**, **devient ivr
 Leurs effets persistants cessent également.  
 
 Exemple :  
-- Si un [<span style="color:red;">**Empoisonneur**</span>](./tb_roles/empoisonneur.md) empoisonne le [**Mercenaire**](./tb_roles/mercenaire.md) pendant la nuit, mais meurt ensuite, le Mercenaire **n’est plus empoisonné**.  
+- Si un [<span style="color:red;">**Empoisonneur**</span>](./tb_roles/empoisonneur.md) empoisonne la [**Pourfendeuse**](./tb_roles/mercenaire.md) pendant la nuit, mais meurt ensuite, le Mercenaire **n’est plus empoisonné**.  
 Même si la capacité dit *« jusqu’au crépuscule »*, elle s’arrête à la mort de son détenteur.
 
 ---
@@ -71,7 +77,7 @@ Certains rôles conservent tout ou partie de leur capacité **après leur mort**
 Si leur texte précise *« même mort »* ou que leur capacité se déclenche au moment de la mort, alors elle s’applique.  
 
 Exemple :  
-Le [**Gardien**](./tb_roles/gardien.md) meurt la nuit et utilise sa capacité :  
+Le [**Corneille**](./tb_roles/gardien.md) meurt la nuit et utilise sa capacité :  
 > *« Si vous mourez la nuit, vous vous réveillez pour choisir un joueur et apprendre son rôle. »*  
 Même mort, sa capacité se déclenche au moment de son décès.
 
@@ -91,8 +97,8 @@ Si une capacité ne mentionne pas *« choisissez »*, c’est le **Conteur** qui
 
 <span style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Si un joueur tente d’utiliser sa capacité de manière illégale, **corrigez-le discrètement** :  
-- Le [**Moine**](./tb_roles/moine.md) ne peut pas se choisir lui-même → secouez la tête et invitez-le à choisir quelqu’un d’autre.  
-- La [**Femme de Chambre**](./bmr_roles/femmedechambre.md) ne peut choisir que des vivants → même geste, puis nouveau choix.
+- Le [Moine](./tb_roles/moine.md) ne peut pas se choisir lui-même → secouez la tête et invitez-le à choisir quelqu’un d’autre.  
+- La [Femme de Chambre](./bmr_roles/femmedechambre.md) ne peut choisir que des vivants → même geste, puis nouveau choix.
 
 
 ---
