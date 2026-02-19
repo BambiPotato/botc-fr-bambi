@@ -1,54 +1,39 @@
 <!DOCTYPE html>
 <html lang="fr">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!-- Titre de l’onglet -->
-    <title>
-      {% if page.title %}
-        {{ page.title }} – {{ site.title }}
-      {% else %}
-        Wiki communautaire en français de Blood on the Clocktower
-      {% endif %}
-    </title>
+  {% assign meta_title = page.title | default: site.title %}
+  {% assign meta_description = page.description | default: site.description %}
+  {% assign meta_image = page.image | default: "/images/og-wiki-botc-fr.png" %}
 
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <title>{{ meta_title }} – {{ site.title }}</title>
 
-    <!-- FAVICON -->
-    <link rel="icon" href="{{ '/images/favicon.png?v=3' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="icon" href="{{ '/images/favicon.png?v=3' | relative_url }}">
 
-    {%- comment -%}
-      Open Graph / Twitter (Discord, X, mails, etc.)
-      Pour chaque page, tu peux mettre dans le front matter :
-      description: ...
-      image: /images/...
-    {%- endcomment -%}
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ meta_title | escape }}">
+  <meta property="og:description" content="{{ meta_description | escape }}">
+  <meta property="og:image" content="{{ meta_image | absolute_url }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:site_name" content="{{ site.title }}">
 
-    {% assign og_title = page.title | default: site.title %}
-    {% assign og_desc = page.description | default: "Wiki communautaire francophone de Blood on the Clocktower : rôles, règles et ressources." %}
-    {% assign og_img = page.image | default: "/images/og-wiki-botc-fr.png" %}
+  <!-- Twitter / X -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ meta_title | escape }}">
+  <meta name="twitter:description" content="{{ meta_description | escape }}">
+  <meta name="twitter:image" content="{{ meta_image | absolute_url }}">
 
-    <!-- Open Graph -->
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="{{ og_title }} – {{ site.title }}">
-    <meta property="og:description" content="{{ og_desc }}">
-    <meta property="og:image" content="{{ og_img | absolute_url }}">
-    <meta property="og:url" content="{{ page.url | absolute_url }}">
+</head>
 
-    <!-- Twitter / X -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="{{ og_title }} – {{ site.title }}">
-    <meta name="twitter:description" content="{{ og_desc }}">
-    <meta name="twitter:image" content="{{ og_img | absolute_url }}">
-
-  </head>
-
-  <body>
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
-  </body>
+<body>
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
+      {{ content }}
+    </div>
+  </main>
+</body>
 </html>
