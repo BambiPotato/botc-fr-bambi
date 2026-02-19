@@ -18,32 +18,36 @@
     <!-- FAVICON -->
     <link rel="icon" href="{{ '/images/favicon.png?v=3' | relative_url }}">
 
-    <!-- Open Graph / Partage réseaux sociaux -->
+    <!-- ========================= -->
+    <!-- Open Graph (Discord, FB, etc.) -->
+    <!-- ========================= -->
     <meta property="og:type" content="website">
 
     <meta property="og:title"
-          content="{% if page.title %}{{ page.title }} – {{ site.title }}{% else %}Wiki communautaire en français Blood on the Clocktower{% endif %}">
+          content="{% if page.title %}{{ page.title }} – {{ site.title }}{% else %}Wiki communautaire en français de Blood on the Clocktower{% endif %}">
 
     <meta property="og:description"
-          content="Wiki communautaire francophone de Blood on the Clocktower : rôles, règles et ressources.">
+          content="{% if page.description %}{{ page.description | strip_html | strip_newlines | escape }}{% else %}Wiki communautaire francophone de Blood on the Clocktower : rôles, règles et ressources.{% endif %}">
 
     <meta property="og:image"
-          content="{{ '/images/og-wiki-botc-fr.png' | absolute_url }}">
+          content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/images/og-wiki-botc-fr.png' | absolute_url }}{% endif %}">
 
     <meta property="og:url"
           content="{{ page.url | absolute_url }}">
 
+    <!-- ========================= -->
     <!-- Twitter / X -->
+    <!-- ========================= -->
     <meta name="twitter:card" content="summary_large_image">
 
     <meta name="twitter:title"
           content="{% if page.title %}{{ page.title }} – {{ site.title }}{% else %}Wiki communautaire francophone de Blood on the Clocktower{% endif %}">
 
     <meta name="twitter:description"
-          content="Wiki communautaire francophone de Blood on the Clocktower : rôles, règles et ressources.">
+          content="{% if page.description %}{{ page.description | strip_html | strip_newlines | escape }}{% else %}Wiki communautaire francophone de Blood on the Clocktower : rôles, règles et ressources.{% endif %}">
 
     <meta name="twitter:image"
-          content="{{ '/images/og-wiki-botc-fr.png' | absolute_url }}">
+          content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/images/og-wiki-botc-fr.png' | absolute_url }}{% endif %}">
   </head>
 
   <body>
