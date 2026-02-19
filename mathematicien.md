@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Comment Conter le Mathématicien
+description: Cet essai explique toutes les interactions avec le Mathématicien.
+image: /images/Icon_mathematician.png
 ---
 
 <p align="left">
