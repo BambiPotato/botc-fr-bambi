@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Outil de Script
+description: L’outil officiel permet de créer un script à partir de n’importe quelle combinaison de rôles. 
+image: /images/logogold.png
 ---
 
 <p align="left">
@@ -14,7 +16,7 @@ title: Outil de Script
 <h1 style="color:#b58b52; font-weight:bold; font-size:36px;"> Outil de Script</h1>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  Chaque conteur et chaque conteuse est aussi un ou une créatrice. Composez votre propre histoire, un rôle à la fois.
+  Chaque conteur est aussi un créateur. Composez votre propre histoire, un rôle à la fois.
 </p>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.8;">
