@@ -153,6 +153,12 @@ Les Sbires ne peuvent pas gagner sans leur Démon, mais leurs capacités perturb
   <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Parrain</span>
 </a>
 
+<!-- Pithag -->
+<a href="./sv_roles/pithag.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
+    <img src="./images/Icon_pithag.png" alt="Pit-Hag" style="width:220px; border-radius:12px;">
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Pit-Hag</span>
+</a>
+  
 <!-- Psychopathe -->
 <a href="./roles_experimentaux/psychopath.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
   <img src="./images/Icon_psychopath.png" alt="Psychopathe" style="width:220px; border-radius:12px;">
