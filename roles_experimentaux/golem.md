@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Golem
+description: Vous ne pouvez nommer qu’une seule fois par partie. Quand vous le faites, si le nommé n’est pas le Démon, il meurt.
+image: /images/Icon_golem.png
 ---
 
 <p align="left">
