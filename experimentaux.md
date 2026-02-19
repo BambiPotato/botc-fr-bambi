@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Expérimentaux 
+description: Tous les rôles expérimentaux venant de l'extension le Carrousel (The Carousel).
+image: /images/carousel.png
 ---
 
 <p align="left">
