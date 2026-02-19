@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Démons
+description: Tous les Démons présents dans Blood on the Clocktower.
+image: /images/Generic_demon.png
 ---
 
 <p align="left">
