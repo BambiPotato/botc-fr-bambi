@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Évêque
+description: Seul le Conteur peut nommer. Chaque jour, au moins un joueur du camp opposé à celui de l’Évêque doit être nommé.
+image: /images/Icon_bishop.png
 ---
 
 <p align="left">
@@ -23,6 +25,15 @@ title: Évêque
 - **Type :** <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>  
 - **Édition :** <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a>  
 - **Artiste :** <span style="color:#f5f5f5;">John Grist</span>
+<li> <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Bishop"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#9b59b6; font-weight:bold; text-decoration:none;">
+     Bishop
+    </a>
+  </li>
+</ul>
 
 <p style="color:#f5f5f5; font-style:italic; font-size:17px; text-align:center;">
 « In nomine Patris, et Filii, et Spiritus Sancti… »
@@ -46,7 +57,7 @@ title: Évêque
 
 ##  Résumé
 
-**« Seul le Conteur peut nominer. Chaque jour, au moins un joueur du camp opposé à celui de l’Évêque doit être nommé. »**
+**« Seul le Conteur peut nommer. Chaque jour, au moins un joueur du camp opposé à celui de l’Évêque doit être nommé. »**
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 L’<strong>Évêque</strong> retire le droit de nomination à tout le monde&nbsp;: <strong>seul le Conteur</strong> nomine, et il doit <strong>inclure au moins un joueur d’alignement opposé</strong> chaque jour.
