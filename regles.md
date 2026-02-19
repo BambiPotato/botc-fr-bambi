@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Explication des règles
+description: Explication des règles du jeu Blood on the Cloktower
+image: /images/logogold.png
 ---
 
 <p align="left">
