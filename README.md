@@ -46,7 +46,7 @@
 <div style="text-align:center; margin:40px auto 0 auto; max-width:980px; padding:25px 20px; border:1px solid rgba(212,167,106,0.3); border-radius:10px; box-shadow:0 0 12px rgba(0,0,0,0.4); background-color:rgba(0,0,0,0.45);">
 
   <h1 style="color:#b58b52; font-size:24px; font-weight:bold; text-shadow:2px 2px 6px #000; margin-top:20px;">
-     Bienvenue sur le Wiki Francophone « non officiel » de <br>
+     Bienvenue sur le Wiki Francophone de <br>
     <span style="color:#d4a76a;">Blood on the Clocktower</span>
   </h1>
 
