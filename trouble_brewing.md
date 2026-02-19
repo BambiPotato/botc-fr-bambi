@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Trouble Brewing
+description: Les Rôles de Trouble Brewing
+image: /images/Logo_trouble_brewing.png
 ---
 
 <p align="left">
