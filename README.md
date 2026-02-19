@@ -1,10 +1,3 @@
----
-layout: default
-title: Wiki Blood on the Clocktower en français
-description: Règles, Rôles et ressources pour jouer et conter Blood on the Clocktower en français. Un espace communautaire créé par des passionnés pour la communauté.
-image: /images/og-wiki-botc-fr.png
----
-
 
 <p align="left">
   <a href="/botc-fr-bambi/">
