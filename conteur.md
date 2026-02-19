@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Conseils pour les Conteuses et les Conteurs
+description: Votre rôle est de faire tourner la partie sans accroc, tout en gardant la fluidité et la magie du jeu.
+image: /images/logogold.png
 ---
 
 <p align="left">
