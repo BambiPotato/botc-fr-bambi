@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Glossaire Anglais vers le Français
+description: Glossaire avec les termes originaux en Anglais de Blood on the Clocktower.
+image: /images/logogold..png
 ---
 
 
