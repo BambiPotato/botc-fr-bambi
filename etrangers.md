@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Les Marginaux
+description: Tous les Marginaux dans Blood on the Clocktower.
+image: /images/Generic_outsider.png
 ---
 
 
@@ -100,10 +102,10 @@ Ils sèment le doute mais restent du côté des bons.
     <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Golem</span>
   </a>
 
-  <!-- Gros Bras (BMR) -->
+  <!-- Brute (BMR) -->
   <a href="./bmr_roles/brute.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
     <img src="./images/Icon_goon.png" alt="Gros Bras" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
-    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Gros Bras</span>
+    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Brute</span>
   </a>
 
   <!-- Hérétique (Expérimentaux) -->
