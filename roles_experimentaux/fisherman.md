@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Pêcheur
+description: Une fois par partie, pendant la journée, rendez visite au conteur pour obtenir un conseil pour aider votre équipe à gagner.
+image: /images/Icon_fisherman.png
 ---
 
 <p align="left">
