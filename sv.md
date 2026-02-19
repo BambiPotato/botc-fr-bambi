@@ -2,8 +2,9 @@
 layout: default
 title: Sects & Violets
 description: Tous les rôles de Sects & Violets
-image: /images/Logo_sects_and_violets
+image: /images/Logo_sects_and_violets.png
 ---
+
 
 <p align="left">
   <a href="/botc-fr-bambi/">
