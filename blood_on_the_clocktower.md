@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Blood on the Clocktower
+description: Blood  on the Clocktower est un jeu de déduction sociale</strong>, dans la lignée des Loups-Garous de Thiercelieux.
+image: /images/logogold.png
 ---
 
 <p align="left">
