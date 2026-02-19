@@ -6,15 +6,17 @@ plugins:
   - jekyll-remote-theme
 
 title: "Wiki Blood on the Clocktower Francophone"
-description: "Traductions - Conseils et Ressources pour le jeu Blood on the Clocktower"
-url: "https://bambipotato.github.io/botc-fr-bambi/"
+description: "Traductions, conseils et ressources pour le jeu Blood on the Clocktower"
 
-markdown: kramdown
+# ⚠️ IMPORTANT : séparation correcte domaine / repo
+url: "https://bambipotato.github.io"
+baseurl: "/botc-fr-bambi"
+
 kramdown:
   input: GFM
   hard_wrap: false
   parse_block_html: true
-  parse_span_html: true   
+  parse_span_html: true
 
 # fichiers supplémentaires à inclure dans la compilation
 include:
@@ -26,4 +28,3 @@ include:
 collections:
   tb_roles:
     output: true
-
