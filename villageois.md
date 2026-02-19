@@ -328,7 +328,7 @@ Leur rôle est de collecter des informations, de protéger leurs alliés et de m
   </a>
 
   <a href="./roles_experimentaux/fisherman.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
-    <img src="../images/Icon_fisherman.png" alt="Pêcheur" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
+    <img src="./images/Icon_fisherman.png" alt="Pêcheur" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
     <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Pêcheur</span>
   </a>
 
