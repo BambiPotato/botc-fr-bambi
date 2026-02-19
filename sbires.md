@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Sbires
+description: Tous les Sbires du jeu Blood on the Clocktower
+image: /images/Generic_minion.png
 ---
 
 <p align="left">
