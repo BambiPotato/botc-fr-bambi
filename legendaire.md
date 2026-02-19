@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Légendaires
+description: Tous les Légendaires.
+image: /images//Generic_fabled.png
 ---
 
 <p align="left">
@@ -13,7 +15,7 @@ title: Légendaires
 
 ##  <span style="color:#d4a76a;">Présentation</span>
 
-Les **Légendaires** « Fabled »sont des rôles réservés aux **conteurs et conteuses**.  
+Les **Légendaires** sont des rôles réservés aux **conteurs et conteuses**.  
 Ils modifient légèrement les conditions de jeu et sont souvent inclus **au début d’une partie**.
 
 Leur objectif est d’**adapter la partie** aux besoins du groupe, ou de **corriger une contrainte réelle**.  
