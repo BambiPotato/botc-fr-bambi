@@ -1,6 +1,8 @@
 ---
 layout: default
 title: TeensyVille
+description: Un petit Village à 5 ou 6 personnes mais tout autant de chaos.
+image: /images/logogold.png
 ---
 
 <p align="left">
