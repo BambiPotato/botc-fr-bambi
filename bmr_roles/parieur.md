@@ -80,6 +80,7 @@ image: /images/Icon_gambler.png
 "Cult of the Clocktower – épisode par Andrew Nathenson"
 </p>
 
+---
 
 ##  <span style="color:blue">Résumé</span>    
 
