@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Cuisinier  
+title: Cuisinier
+description: Vous commencez à savoir combien il y a de paires de joueurs maléfiques.
+image: /images/Icon_chef.png
 ---
 
 <p align="left">
