@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Artiste
+description:  Une fois par partie, durant la journée, posez en privé au Conteur une question à laquelle on ne peut répondre que par oui ou par non. 
+image: /images/Icon_artist.png
 ---
 
 <!-- 🔷 Logo en haut à gauche -->
