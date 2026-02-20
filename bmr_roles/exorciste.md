@@ -80,7 +80,7 @@ title: Exorciste
 
 
 
-## 📖 <span style="color:blue">Résumé</span>  
+##  <span style="color:blue">Résumé</span>  
 
 « Chaque nuit (sauf la première), choisissez un joueur (différent de la nuit précédente) :  
 si c’est le [<span style="color:red">Démon</span>](../demons.md), il apprend qui vous êtes et ne se réveille pas cette nuit. »  
