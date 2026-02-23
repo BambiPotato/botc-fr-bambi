@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Jumelle Maléfique
+description: "Vous et un joueur d’alignement opposé vous connaissez. Si le joueur bon est exécuté, les Maléfiques gagnent. Le Bien ne peut pas gagner si vous êtes tous deux en vie."
+image: /images/Icon_fortuneteller.png
 ---
 
 <!-- 🔴 Logo en haut à gauche -->
