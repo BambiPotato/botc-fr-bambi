@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Moine
-description: Chaque nuit*, choisissez un joueur (pas vous-même) : il est à protégé du Démon cette nuit. 
+description: "Chaque nuit*, choisissez un joueur (pas vous-même) : il est à protégé du Démon cette nuit." 
 image: /images/Icon_monk.png
 ---
 
