@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Saint
+description: Si vous mourez par exécution, votre équipe perd.
+image: /images/Icon_saint.png
 ---
 
 <p align="left">
