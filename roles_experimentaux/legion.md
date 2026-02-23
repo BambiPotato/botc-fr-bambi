@@ -2,7 +2,7 @@
 layout: default
 title: Légion
 description: Chaque nuit*, un joueur peut mourir, les exécutions échouent si seuls des joueurs maléfiques ont voté.Vous vous enregistrez aussi comme Sbire.[La plupart des joueurs sont Légion]
-image: /images/Icon_fortuneteller.png
+image: /images/Icon_legion.png
 ---
 
 <p align="left">
