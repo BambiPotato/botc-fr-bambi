@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Diablotin
+description:  "Chaque nuit* (sauf la première), choisissez un joueur : il meurt. Si vous vous tuez de cette façon, un Sbire devient Diablotin." 
+image: /images/Icon_imp.png
 ---
 
 <p align="left">
