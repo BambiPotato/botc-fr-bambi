@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Empoisonneur   
-description: Chaque nuit, choisissez un joueur : il est **empoisonné** cette nuit et le jour suivant. 
+description: "Chaque nuit, choisissez un joueur : il est empoisonné cette nuit et le jour suivant." 
 image: /images/Icon_poisoner.png
 ---
 
