@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Soldat
+description: Vous êtes à l’abri du Démon.
+image: /images/Icon_soldier.png
 ---
 
 <p align="left">
