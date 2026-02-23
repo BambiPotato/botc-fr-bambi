@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Détective
+description: Vous commencez en apprenant 2 joueurs et le rôle de Sbire de l’un des deux.
+image: /images/Icon_investigator.png
 ---
 
 
