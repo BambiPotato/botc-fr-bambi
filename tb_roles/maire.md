@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Maire
+description: "S’il reste 3 joueurs vivants et qu’aucune exécution n’a lieu, votre équipe gagne.Si vous devez mourir pendant la nuit, un autre joueur pourrait mourir à votre place."
+image: /images/Icon_mayor.png
 ---
 
 <p align="left">
