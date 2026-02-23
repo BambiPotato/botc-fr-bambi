@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Espionne  
+description:  "Chaque nuit, vous voyez le Grimoire. Vous pouvez apparaître comme Bonne et comme Villageois ou Marginale, même si vous êtes morte."
+image: /images/Icon_spy.png
 ---
 
 
@@ -80,7 +82,7 @@ title: Espionne
 ---
 
 ##  <span style="color:red">Résumé</span>
-**« Chaque nuit, vous voyez le Grimoire. Vous pouvez apparaître comme Bonne et comme Villageois ou Marginale, même si vous êtes mort. »**
+**« Chaque nuit, vous voyez le Grimoire. Vous pouvez apparaître comme Bonne et comme Villageois ou Marginale, même si vous êtes morte. »**
 
 - L’Espionne est un **Sbire maléfique**, mais elle peut **s’enregistrer comme Bonne** comme Villageois ou Marginale quand une capacité cherche à détecter son alignement.  
 - Elle a accès **chaque nuit au Grimoire**, ce qui lui donne une vision complète de la partie : rôles, statuts, marqueurs du Conteur.  
