@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Ivrogne
+description: Vous ne savez pas que vous êtes l’Ivrogne. Vous pensez être un rôle de Villageois, mais vous ne l’êtes pas.
+image: /images/Icon_drunk-1.png
 ---
 
 <style>
