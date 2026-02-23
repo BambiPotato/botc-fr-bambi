@@ -1,3 +1,10 @@
+---
+layout: default
+title: Majordome
+description: Chaque nuit, choisissez un joueur (pas vous-même) : demain, vous ne pourrez voter que si ce joueur vote également. 
+image: /images/Icon_butler.png
+---
+
 <p align="left">
   <a href="/botc-fr-bambi/">
     <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
@@ -26,7 +33,7 @@
   <li>
     <strong>Type :</strong>
     <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
-     Étrangers
+    Marginal
     </a>
   </li>
 
@@ -77,7 +84,7 @@
 ---
 
 ##  <span style="color:blue">Résumé</span>
-*Chaque nuit, choisissez un joueur (pas vous-même) : demain, vous ne pourrez voter que si ce joueur vote également.*  
+**« Chaque nuit, choisissez un joueur (pas vous-même) : demain, vous ne pourrez voter que si ce joueur vote également. »**  
 
 Le Majordome ne peut voter que si son **Maître** vote.  
 
@@ -152,6 +159,6 @@ Le Majordome ne peut voter que si son **Maître** vote.
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
   <li> <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li> <a href="../etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Étrangers</a></li>
+  <li> <a href="../etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Marginaux</a></li>
 </ul>
 
