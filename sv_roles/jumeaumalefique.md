@@ -111,7 +111,7 @@ title: Jumelle Maléfique
     <strong>Première nuit :</strong><br>
     Réveillez les deux Jumelles.<br>
     Laissez-les se reconnaître.<br>
-    Montrez à la Jumelle Bon,e le jeton de rappel <em>Jumelle Maléfique</em>.<br>
+    Montrez à la Jumelle Bonne le jeton de rappel <em>Jumelle Maléfique</em>.<br>
     Montrez à Jumelle Maléfique le jeton du rôle de la Jumelle Bonne.
   </li>
 
