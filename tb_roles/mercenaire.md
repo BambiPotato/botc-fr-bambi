@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Pourfendeuse
+description:  "Une fois par partie, durant la journée, choisissez publiquement un joueur : si c’est le Démon, il meurt."
+image: /images/Icon_slayer.png
 ---
 
 
