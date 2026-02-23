@@ -157,7 +157,7 @@ image: /images/Icon_fortuneteller.png
 
   <li>
     Les deux Jumelles se disent
-    <a href="./artiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Artistes</a>.<br>
+    <a href="./artiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Artiste</a>.<br>
     Le village exécute le Démon, mais la nuit suivante il n’y a pas de morts : la Jumelle Maléfique et sa Jumelle Bonn sont encore en vie.
   </li>
 
