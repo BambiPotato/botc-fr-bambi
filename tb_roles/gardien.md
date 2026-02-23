@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Corneille
-description:  Si vous mourez pendant la nuit, vous êtes réveillé pour choisir un joueur : vous apprenez son rôle. 
+description:  "Si vous mourez pendant la nuit, vous êtes réveillé pour choisir un joueur : vous apprenez son rôle." 
 image: /images/Icon_ravenkeeper.png
 ---
 
