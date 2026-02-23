@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Empathe  
+description: Chaque nuit, vous apprenez combien de vos deux voisins vivants sont maléfiques.
+image: /images/Icon_empath.png
 ---
 
 
