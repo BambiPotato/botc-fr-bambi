@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Majordome
-description: Chaque nuit, choisissez un joueur (pas vous-même) : demain, vous ne pourrez voter que si ce joueur vote également. 
+description: "Chaque nuit, choisissez un joueur (pas vous-même) : demain, vous ne pourrez voter que si ce joueur vote également." 
 image: /images/Icon_butler.png
 ---
 
