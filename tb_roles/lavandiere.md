@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Lavandière
+description: Vous commencez en apprenant deux joueurs et le rôle de Villageois de l’un des deux. »
+image: /images/Icon_washerwoman.png
 ---
 
 <p align="left">
