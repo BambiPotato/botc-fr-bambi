@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Innocente
+description: La première fois que vous êtes nommée, si le joueur qui vous nomme est un Villageois, il est immédiatement exécuté.
+image: /images/Icon_virgin.png
 ---
 
 
@@ -88,7 +90,7 @@ title: Innocente
 
 ##  <span style="color:blue">Résumé</span>    
 
-**« La première fois que vous êtes nominé, si le joueur qui vous nomme est un Villageois, il est immédiatement exécuté.»**
+**« La première fois que vous êtes nommée, si le joueur qui vous nomme est un Villageois, il est immédiatement exécuté.»**
 
 L'Innocente peut, malgré elle, provoquer l’exécution de son accusateur, ce qui permet de confirmer quels joueurs sont des Villageois.  
 
