@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Empoisonneur   
+description: Chaque nuit, choisissez un joueur : il est **empoisonné** cette nuit et le jour suivant. 
+image: /images/Icon_poisoner.png
 ---
 
 <p align="left">
@@ -81,7 +83,7 @@ title: Empoisonneur
 
 ##  <span style="color:red">Résumé</span>     
 
-« Chaque nuit, choisissez un joueur : il est **empoisonné** cette nuit et le jour suivant. »  
+**« Chaque nuit, choisissez un joueur : il est **empoisonné** cette nuit et le jour suivant. »**  
 
 L’**Empoisonneur** perturbe secrètement les capacités des autres rôles.  
 - Chaque nuit, il choisit un joueur : ce joueur est **empoisonné** pour la nuit et toute la journée suivante.  
