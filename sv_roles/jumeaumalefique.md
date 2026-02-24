@@ -87,17 +87,21 @@ image: /images/Icon_eviltwin.png
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
-  La <strong>Jumelle Maléfique</strong> est un sbire qui crée un lien miroir avec un joueur bon appelé la <strong>Jumelle Bonne</strong>.<br>
-  Chacun connaît le rôle de l’autre.<br>
-  Toute la tension du jeu repose sur la confusion : lequel des deux dit la vérité ?<br>
-  L'Équipe des <strong>Bons</strong> ne savent pas quelle jumelle est bonne et quelle jumelle est maléfique.
-</p>
+  La <strong>Jumelle Maléfique</strong> reflète un rôle bon, de sorte que les joueurs ne savent pas laquelle des deux Jumelles est bonne et laquelle est maléfique.<br><br>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Si la <strong>Jumelle Bonnne</strong> est exécutée →  le Mal gagne immédiatement.</li>
-  <li>Si la <strong>Jumelle Maléfique</strong> est exécutée → la partie continue.</li>
-  <li>Tant que les deux sont vivants → le Bien ne peut pas gagner, même si le Démon meurt.</li>
-</ul>
+  La <strong>Jumelle Maléfique</strong> est associée à un joueur bon, choisi par le Conteur, appelé la <strong>Jumelle Bonne</strong>.<br><br>
+
+  Lors de la première nuit, la <strong>Jumelle Maléfique</strong> et la <strong>Jumelle Bonne</strong> se réveillent toutes les deux, se regardent dans les yeux et apprennent le rôle de l’autre.<br><br>
+
+  Si la <strong>Jumelle Bonne</strong> est exécutée, le mal gagne. Si la <strong>Jumelle Maléfique</strong> est exécutée, la partie continue. Une <strong>Jumelle Maléfique</strong> morte n’a plus de capacité ; ainsi, le mal ne gagne pas si la <strong>Jumelle Bonne</strong> est exécutée ultérieurement.<br><br>
+
+  Le bien ne peut pas gagner tant que les deux Jumelles sont en vie. Même si le Démon est tué, la partie continue. Pour gagner, le bien devra tuer à la fois la <strong>Jumelle Maléfique</strong> et le Démon.<br><br>
+
+  Si un joueur bon devient une <strong>Jumelle Maléfique</strong>, il reste un joueur bon, et un joueur maléfique devient son jumeau. 
+  Peu importe quelle Jumelle possède quel rôle : ce qui compte est leur alignement — l’équipe du bien peut exécuter le joueur maléfique sans risque, mais si elle exécute le joueur bon, le mal gagne.<br><br>
+
+  Si les deux Jumelles ont le même alignement, le Conteur choisit une nouvelle Jumelle.
+</p>
 
 <hr>
 
