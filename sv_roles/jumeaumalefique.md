@@ -2,7 +2,7 @@
 layout: default
 title: Jumelle Maléfique
 description: "Vous et un joueur d’alignement opposé vous connaissez. Si le joueur bon est exécuté, les Maléfiques gagnent. Le Bien ne peut pas gagner si vous êtes tous deux en vie."
-image: /images/Icon_fortuneteller.png
+image: /images/Icon_eviltwin.png
 ---
 
 <!-- 🔴 Logo en haut à gauche -->
@@ -121,7 +121,7 @@ image: /images/Icon_fortuneteller.png
   crée une nouvelle Jumelle Maléfique,<br>
   choisissez un joueur mort ou le Démon comme seconde jumelle pour ne pas bloquer la partie,<br>
   afin que la bonne équipe puisse toujours gagner.<br>
-  Choisir un Voyageur comme Jumelle est rarement une bonne idée..
+  Choisir un Voyageur comme Jumelle est rarement une bonne idée.
 </p>
 
 <hr>
