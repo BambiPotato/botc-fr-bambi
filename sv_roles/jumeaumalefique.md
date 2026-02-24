@@ -105,24 +105,14 @@ image: /images/Icon_fortuneteller.png
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
-    <strong>Avant la première nuit :</strong><br>
-    Choisissez un joueur bon et placez sur sa fiche le jeton de rappel <em>Jumelle Maléfique</em>.
+   Lors de la mise en place de la partie, choisissez une Jumelle bonne en marquant n’importe quel rôle bon avec le rappel JUMELLE.<br>
+   Au cours de la première nuit, réveillez les deux Jumelles.<br>
+   Laissez-les se regarder dans les yeux. Désignez la Jumelle maléfique, puis montrez son jeton à la Jumelle bonne.<br>
+   Désignez ensuite la Jumelle bonne, puis montrez son jeton de rôle à la Jumelle maléfique. Rendormez-les toutes les deux.<br>
+
+  Tant que les deux Jumelles sont en vie, l’équipe du bien ne peut pas gagner. Si une Jumelle d’alignement bon est exécutée, l’équipe du mal gagne.
   </li>
 
-  <li>
-    <strong>Première nuit :</strong><br>
-    Réveillez les deux Jumelles.<br>
-    Laissez-les se reconnaître.<br>
-    Montrez à la Jumelle Bonne le jeton de rappel <em>Jumelle Maléfique</em>.<br>
-    Montrez à Jumelle Maléfique le jeton du rôle de la Jumelle Bonne.
-  </li>
-
-  <li>
-    <strong>Pendant la partie :</strong><br>
-    Si la Jumelle Bonne est exécutée → les Maléfiques gagnent.<br>
-    Si la Jumelle Maléfique est exécutée → la partie continue.<br>
-    Tant que les deux sont en vie, le camp du Bien ne peut pas gagner.
-  </li>
 </ul>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
@@ -131,7 +121,7 @@ image: /images/Icon_fortuneteller.png
   crée une nouvelle Jumelle Maléfique,<br>
   choisissez un joueur mort ou le Démon comme seconde jumelle pour ne pas bloquer la partie,<br>
   afin que la bonne équipe puisse toujours gagner.<br>
-  Évitez de choisir un Voyageur comme Jumelle.
+  Choisir un Voyageur comme Jumelle est rarement une bonne idée..
 </p>
 
 <hr>
@@ -156,9 +146,10 @@ image: /images/Icon_fortuneteller.png
   </li>
 
   <li>
-    Les deux Jumelles se disent
+    La Jumelle Bonne et la Jumelle Maléfique affirment toutes les deux haut et fort être l'
     <a href="./artiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Artiste</a>.<br>
-    Le village exécute le Démon, mais la nuit suivante il n’y a pas de morts : la Jumelle Maléfique et sa Jumelle Bonn sont encore en vie.
+    Les deux joueurs s'approchent du Conteur pour lui poser une question en privé.<br>
+    Les joueurs bons, perplexes, exécutent le Démon. La partie continue, et désormais, aucun mort ne surviendra durant la nuit.
   </li>
 
   <li>
