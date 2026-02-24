@@ -135,7 +135,7 @@ image: /images/Icon_eviltwin.png
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
     Les deux Jumelles prétendent être l’
-    <a href="horloger.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Horloger</a>.<br>
+    <a href="oracle.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Oracle/a>.<br>
     La Jumelle Maléfique est exécutée : la partie continue.
   </li>
 
@@ -160,7 +160,7 @@ image: /images/Icon_eviltwin.png
     La
     <a href="pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a>
     transforme un joueur bon en Jumelle Maléfique, mais il reste bon.<br>
-    Le village l’exécute : <strong>le Mal gagne.</strong>
+    Le groupe exécute la Jumelle Maléfique d’alignement bon. Les Maléfiques gagnent. 
   </li>
 </ul>
 
