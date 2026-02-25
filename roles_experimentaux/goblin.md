@@ -140,7 +140,7 @@ Le <strong>Goblin</strong> ne fait qu’une seule chose : transformer une exécu
 
   <li>Si, à la fin de la journée, le joueur qui a revendiqué être le <strong>Goblin</strong> est exécuté :
       <ul style="margin-left:20px;">
-        <li>si c’est le vrai <strong>Goblin</strong> (marqué <strong>REVENDIQUE</strong>) →  
+        <li>si c’est le vrai <strong>Goblin</strong> (marqué le avec le jeton de rappel <strong>REVENDIQUE</strong>) →  
             annoncez que l’équipe du Mal gagne immédiatement ;</li>
         <li>si c’est un autre rôle → il meurt et la partie continue normalement.</li>
       </ul>
@@ -157,16 +157,16 @@ Le <strong>Goblin</strong> ne fait qu’une seule chose : transformer une exécu
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Abdallah est le <strong>Goblin</strong>. Alex nomme Abdel,  
-et Abdel déclare publiquement : « Je suis le Goblin. »  
+et Abdel déclare publiquement : « Je suis le Goblin. » <br>  
 Les votes sont comptés et Abdel est sur le point d’être exécuté.  
 D’autres nominations ont lieu, mais Abdel conserve le plus grand nombre de votes  
-et est finalement exécuté. L’équipe du Mal gagne.</p>
+et est finalement exécuté. L’équipe du Mal gagne.</p> <br> <br>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Lewis est l’<a href="../sv_roles/artiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Artiste</a>.  
 Il prétend être le <strong>Goblin</strong> lorsqu’il est nommé.  
 Il est exécuté, mais comme il n’est pas le vrai <strong>Goblin</strong>,  
-la partie continue normalement.</p>
+la partie continue normalement.</p> <br> <br>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Doug est le <strong>Goblin</strong>.  
@@ -182,18 +182,18 @@ Sa capacité ne s’applique pas : la partie continue.</p>
 
   <li>Le <strong>Goblin</strong> n’a qu’une seule mission :  
       se faire exécuter <strong>après</strong> avoir revendiqué être le Goblin.  
-      Peu importe le chaos que vous semez en chemin, si vous y arrivez, le but est atteint.</li>
+      Peu importe le chaos que vous semez en chemin, si vous y arrivez, le but est atteint.</li> <br>
 
   <li>Revendiquer être le <strong>Goblin</strong> révèle presque toujours que vous êtes maléfique.  
       Le mieux est donc d’attendre d’être <strong>vraiment menacé d’exécution</strong> pour le faire,  
-      puis d’y aller à fond. Sans cette revendication, votre capacité ne sert à rien.</li>
+      puis d’y aller à fond. Sans cette revendication, votre capacité ne sert à rien.</li> <br>
 
   <li>Pour que le village accepte d’exécuter quelqu’un qui revendique être le <strong>Goblin</strong>,  
       il faut souvent que vous ayez l’air d’être le <span style="color:#d45b5b; font-weight:bold;">Démon</span> lui-même.  
-      Adoptez des comportements « très démon » dès le début de la partie pour orienter les soupçons sur vous.</li>
+      Adoptez des comportements « très démon » dès le début de la partie pour orienter les soupçons sur vous.</li> <br><br>
 
   <li>Le <strong>Goblin</strong> est un Sbire bruyant par nature.  
-      Profitez-en pour :
+      Profitez-en pour : <br>
       <ul style="margin-left:20px;">
         <li>mentir ouvertement sur les Villageois (« J’ai entendu parler de deux autres Voyantes, donc tu mens ! ») ;</li>
         <li>faire plusieurs claims différents à plusieurs personnes  
@@ -202,49 +202,49 @@ Sa capacité ne s’applique pas : la partie continue.</p>
         <li>ou inventer des affirmations absurdes  
             (« Tout le monde sait qu’il y a 3 Étrangers dans cette partie, donc on doit avoir un Chasseur ! »).</li>
       </ul>
-      Qu’est-ce qu’ils peuvent faire ? Vous exécuter ? C’est exactement ce que vous voulez.</li>
+      Qu’est-ce qu’ils peuvent faire ? Vous exécuter ? C’est exactement ce que vous voulez.</li> <br>
 
   <li>Si vous poussez trop le chaos puis revendiquez être le <strong>Goblin</strong>,  
       la ville risque de vous croire… et donc de <strong>refuser</strong> de vous exécuter,  
-      ce qui est catastrophique pour vous.  
+      ce qui est catastrophique pour vous. <br>  
       Il peut être plus malin d’adopter un bluff de rôle puissant  
       (par exemple <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a>,  
       <a href="../sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a> ou  
       <a href="../roles_experimentaux/cannibal.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cannibale</a>)  
       et d’expliquer que vous êtes trop précieux pour mourir.  
-      Quand vous revendiquerez ensuite être le Goblin, cela créera une vraie tension.</li>
+      Quand vous revendiquerez ensuite être le Goblin, cela créera une vraie tension.</li> <br>
 
   <li>N’oubliez pas : pour que votre capacité fonctionne,  
-      vous devez revendiquer être le <strong>Goblin</strong> <strong>chaque fois</strong> que vous êtes nommé.  
+      vous devez revendiquer être le <strong>Goblin</strong> <strong>chaque fois</strong> que vous êtes nommé. <br>  
       Contrairement à la folie imposée par un  
       <a href="../sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a>,  
       il n’y a pas de punition automatique si vous ne le faites pas…  
-      mais votre capacité ne s’applique tout simplement pas.</li>
+      mais votre capacité ne s’applique tout simplement pas.</li> <br>
 
   <li>Essayez de convaincre la ville que vous êtes le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.  
       Les Sbires ne sont pas forcément prioritaires à exécuter.  
       Mais si la ville est persuadée que <em>vous</em> êtes le Démon,  
       elle se sentira obligée de vous exécuter tôt ou tard,  
-      même si vous revendiquez être le <strong>Goblin</strong>.</li>
+      même si vous revendiquez être le <strong>Goblin</strong>.</li> <br>
 
   <li>Encouragez d’autres joueurs à revendiquer être le <strong>Goblin</strong>, qu’ils soient bons ou mauvais.  
       D’autres Sbires peuvent s’en servir pour retarder leur exécution,  
       et des joueurs bons peuvent l’utiliser comme protection temporaire.  
       Plus il y a de faux Goblins, plus la ville se sentira en sécurité…  
-      jusqu’au moment où c’est <strong>vous</strong> qui serez sur l’échafaud.</li>
+      jusqu’au moment où c’est <strong>vous</strong> qui serez sur l’échafaud.</li> <br>
 
   <li>Vous pouvez aussi vous arranger pour que la ville veuille vous exécuter  
       pour une raison « utile » (par exemple pour être vérifié par un  
       <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a>)  
       puis, au moment de la nomination,  
       revendiquer être le <strong>Goblin</strong> en mode « vous allez le regretter ».  
-      Si la ville continue quand même, la victoire sera très savoureuse.</li>
+      Si la ville continue quand même, la victoire sera très savoureuse.</li> <br>
 
   <li>Méfiez-vous du <a href="../tb_roles/cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a>, de l’<a href="../sv_roles/clockmaker.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Horloger</a>  
       et autres rôles de ce genre :  
       si la ville est sûre qu’un <strong>Goblin</strong> est en jeu et sait qui c’est,  
       elle peut utiliser cette information pour remonter jusqu’au <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
-      en se basant sur les informations de proximité ou de lien.</li>
+      en se basant sur les informations de proximité ou de lien.</li> <br><br>
 
   <li>Le <strong>Goblin</strong> est un Sbire très social.  
       Vous voulez être dans cette zone ambiguë où la ville ne sait pas si :
@@ -254,7 +254,7 @@ Sa capacité ne s’applique pas : la partie continue.</p>
       </ul>
       Si la ville pense que vous êtes bon, elle n’a aucune raison de vous exécuter.  
       Si elle pense que vous êtes maléfique <em>et</em> vrai Goblin, elle ne vous exécutera pas non plus.  
-      Votre but est : « Il a revendiqué Goblin, mais on ne le croit pas… exécutons-le quand même. »</li>
+      Votre but est : « Il a revendiqué Goblin, mais on ne le croit pas… exécutons-le quand même. »</li> <br>
 
   <li>Si vous êtes un autre rôle maléfique, surtout <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
       revendiquer être le <strong>Goblin</strong> peut être un excellent plan de secours  
@@ -272,11 +272,11 @@ Sa capacité ne s’applique pas : la partie continue.</p>
       que le <span style="color:#d45b5b; font-weight:bold;">Démon</span> qui <strong>prétend</strong> être le Goblin  
       pour éviter l’exécution.  
       À chaque fois que vous pensez avoir trouvé le Démon,  
-      vous devez vous demander : « Et si c’était juste un Goblin ? »</li>
+      vous devez vous demander : « Et si c’était juste un Goblin ? »</li><br>
 
   <li>Si un joueur revendique être le <strong>Goblin</strong> et que vous n’êtes pas sûr qu’il dise vrai,  
       ne l’exécutez pas immédiatement. C’est trop risqué.  
-      Gardez cette exécution pour plus tard, lorsque vous aurez plus d’informations.</li>
+      Gardez cette exécution pour plus tard, lorsque vous aurez plus d’informations.</li><br>
 
   <li>Utilisez toutes les sources d’information possibles pour distinguer  
       un vrai Goblin d’un bluff :
@@ -286,7 +286,7 @@ Sa capacité ne s’applique pas : la partie continue.</p>
         <li>le <a href="../sv_roles/charmeurdeserpent.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Charmeur de Serpenst</a>,</li>
         <li>l’<a href="../bmr_roles/exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a>, etc.</li>
       </ul>
-      Ces rôles peuvent vous aider à décider si vous osez appuyer sur la gâchette.</li>
+      Ces rôles peuvent vous aider à décider si vous osez appuyer sur la gâchette.</li><br>
 
   <li>Rappelez-vous : la capacité du <strong>Goblin</strong> ne fonctionne  
       que si la personne a <strong>revendiqué publiquement</strong> être le Goblin  
