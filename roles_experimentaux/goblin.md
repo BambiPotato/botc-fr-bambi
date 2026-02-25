@@ -283,7 +283,7 @@ Sa capacité ne s’applique pas : la partie continue.</p>
       <ul style="margin-left:20px;">
         <li>la <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>,</li>
         <li>la <a href="../tb_roles/merceniare.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a>,</li>
-        <li>le <a href="../sv_roles/charmeurdeserpent.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Charmeur de Serpenst</a>,</li>
+        <li>le <a href="../sv_roles/charmeurdeserpent.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Charmeur de Serpent</a>,</li>
         <li>l’<a href="../bmr_roles/exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a>, etc.</li>
       </ul>
       Ces rôles peuvent vous aider à décider si vous osez appuyer sur la gâchette.</li><br>
@@ -305,7 +305,8 @@ Sa capacité ne s’applique pas : la partie continue.</p>
         <li>le <a href="../tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a>,</li>
         <li>le <a href="../tb_roles/crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur</a>,</li>
         <li>ou le <a href="../sv_roles/sage.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a> peuvent être décisifs.</li>
-          </ul>
+      </ul>
+  </li>
 
   <li>Vous pouvez, en tant que joueur du Bien,  
       revendiquer vous-même être le <strong>Goblin</strong>…mais il vous faudra une excellente raison. <br>  
