@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Goblin
+description: Si vous déclarez publiquement être le Goblin lorsque vous êtes nommé, et que vous êtes exécuté ce jour-là, votre équipe gagne. 
+image: /images/Icon_goblin.png
 ---
 
 <p align="left">
@@ -104,13 +106,13 @@ Le <strong>Goblin</strong> se venge si le village l’exécute en toute connaiss
     <img src="../images/Icon_cerenovus.png" alt="Cerenovus" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a> :  
     Le <a href="../sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a> peut rendre un joueur fou d’être le <strong>Goblin</strong>  
-    (il ou elle <strong>doit</strong> alors prétendre être le Goblin, sous peine d’exécution par les Conteurs et conteuses).
+    (il ou elle <strong>doit</strong> alors prétendre être le Goblin, sous peine d’exécution par les Conteurs).
   </li>
 
   <li>
     <img src="../images/Icon_plaguedoctor.png" alt="Docteur de Peste" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/plaguedoctor.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Docteur de Peste</a> :  
-    Si les <strong>Conteurs et conteuses</strong> devraient gagner la capacité du <strong>Goblin</strong>,  
+    Si les <strong>Conteurs </strong> devraient gagner la capacité du <strong>Goblin</strong>,  
     c’est un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> qui la gagne et en est informé à la place.
   </li>
 
@@ -206,7 +208,7 @@ Sa capacité ne s’applique pas : la partie continue.</p>
       la ville risque de vous croire… et donc de <strong>refuser</strong> de vous exécuter,  
       ce qui est catastrophique pour vous.  
       Il peut être plus malin d’adopter un bluff de rôle puissant  
-      (par exemple <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-Mort</a>,  
+      (par exemple <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a>,  
       <a href="../sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a> ou  
       <a href="../roles_experimentaux/cannibal.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cannibale</a>)  
       et d’expliquer que vous êtes trop précieux pour mourir.  
@@ -233,12 +235,12 @@ Sa capacité ne s’applique pas : la partie continue.</p>
 
   <li>Vous pouvez aussi vous arranger pour que la ville veuille vous exécuter  
       pour une raison « utile » (par exemple pour être vérifié par un  
-      <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-Mort</a>)  
+      <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a>)  
       puis, au moment de la nomination,  
       revendiquer être le <strong>Goblin</strong> en mode « vous allez le regretter ».  
       Si la ville continue quand même, la victoire sera très savoureuse.</li>
 
-  <li>Méfiez-vous du <a href="../tb_roles/cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuistot</a>, de l’<a href="../sv_roles/clockmaker.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Horloger</a>  
+  <li>Méfiez-vous du <a href="../tb_roles/cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a>, de l’<a href="../sv_roles/clockmaker.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Horloger</a>  
       et autres rôles de ce genre :  
       si la ville est sûre qu’un <strong>Goblin</strong> est en jeu et sait qui c’est,  
       elle peut utiliser cette information pour remonter jusqu’au <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
@@ -280,8 +282,8 @@ Sa capacité ne s’applique pas : la partie continue.</p>
       un vrai Goblin d’un bluff :
       <ul style="margin-left:20px;">
         <li>la <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>,</li>
-        <li>le <a href="../tb_roles/merceniare.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a>,</li>
-        <li>le <a href="../sv_roles/charmeurdeserpent.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Charmeur de Serpent</a>,</li>
+        <li>la <a href="../tb_roles/merceniare.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a>,</li>
+        <li>le <a href="../sv_roles/charmeurdeserpent.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Charmeur de Serpenst</a>,</li>
         <li>l’<a href="../bmr_roles/exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a>, etc.</li>
       </ul>
       Ces rôles peuvent vous aider à décider si vous osez appuyer sur la gâchette.</li>
@@ -297,70 +299,66 @@ Sa capacité ne s’applique pas : la partie continue.</p>
       pour apprendre qui il est vraiment.  
       Des rôles qui apprennent l’alignement ou le rôle, comme :
       <ul style="margin-left:20px;">
-        <li>le <a href="../tb_roles/gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a>,</li>
+        <li>la <a href="../tb_roles/gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a>,</li>
         <li>la <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>,</li>
         <li>le <a href="../sv_roles/reveur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Rêveur</a>,</li>
-        <li>l’<a href="../tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Enquêteur</a>,</li>
+        <li>le <a href="../tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a>,</li>
         <li>le <a href="../tb_roles/crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur</a>,</li>
-        <li>ou le <a href="../sv_roles/sage.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a></li>
-      </ul>
-      peuvent être décisifs.</li>
+        <li>ou le <a href="../sv_roles/sage.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a> peuvent être décisifs.</li>
+          </ul>
 
-  <li>Vous pouvez, en tant que joueur ou joueuse du Bien,  
-      revendiquer vous-même être le <strong>Goblin</strong>…  
-      mais il vous faudra une excellente raison.  
-      Par exemple, si vous <strong>devez</strong> survivre encore un jour ou deux  
-      pour compléter votre information (comme un  
+  <li>Vous pouvez, en tant que joueur du Bien,  
+      revendiquer vous-même être le <strong>Goblin</strong>…mais il vous faudra une excellente raison. <br>  
+      Par exemple, si vous <strong>devez</strong> survivre encore un jour ou deux pour compléter votre information (comme un  
       <a href="../sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a> ou une  
-      <a href="../sv_roles/fleuriste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a>),  
-      cela peut se discuter, même si vous perdrez en crédibilité ensuite.</li>
+      <a href="../sv_roles/fleuriste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a>), <br>  
+      cela peut se discuter, même si vous perdrez en crédibilité ensuite.</li> <br>
 
   <li>Lancez beaucoup de nominations en début de partie pour forcer le vrai <strong>Goblin</strong>  
       à se révéler tôt, avant qu’il n’ait un plan bien ficelé.  
-      Il pourrait revendiquer être le Goblin par réflexe, au mauvais moment.</li>
+      Il pourrait revendiquer être le Goblin par réflexe, au mauvais moment.</li> <br>
 
   <li>S’il n’y a qu’un seul Sbire en jeu,  
-      attendre le <strong>dernier jour</strong> pour exécuter un claim Goblin peut être judicieux.  
+      attendre le <strong>dernier jour</strong> pour exécuter un claim Goblin peut être judicieux. <br>  
       À ce moment-là, les trois joueurs vivants devraient être :  
       le <span style="color:#d45b5b; font-weight:bold;">Démon</span>, le <strong>Goblin</strong> et un joueur bon.  
-      Vous avez encore un choix réel entre ces trois-là.</li>
+      Vous avez encore un choix réel entre ces trois-là.</li> <br>
 
   <li>S’il y a plusieurs Sbires, il vaut mieux exécuter un claim Goblin bien avant la fin,  
-      ou au moins vous assurer que tous les autres Sbires sont morts.  
+      ou au moins vous assurer que tous les autres Sbires sont morts. <br>  
       Si la partie finit avec <span style="color:#d45b5b; font-weight:bold;">Démon</span> + <strong>Goblin</strong> + un autre Sbire,  
-      le Mal est presque certain de gagner.</li>
+      le Mal est presque certain de gagner.</li> <br>
 
   <li>Si vous êtes <strong>absolument convaincu</strong> qu’un joueur est réellement le <strong>Goblin</strong>,  
-      c’est une excellente nouvelle pour le Bien :  
-      partez du principe qu’il dit la vérité et utilisez cette info pour trouver le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.  
-      Croisez avec les infos de rôles comme l’<a href="../tb_roles/chef.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef</a>,  
+      c’est une excellente nouvelle pour le Bien : <br>  
+      partez du principe qu’il dit la vérité et utilisez cette info pour trouver le <span style="color:#d45b5b; font-weight:bold;">Démon</span>. <br>  
+      Croisez avec les infos de rôles comme le <a href="../tb_roles/chef.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a>,  
       l’<a href="../sv_roles/horloger.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Horloger</a>,  
-      l’<a href="../tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Enquêteur</a>  
-      ou le <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-Mort</a>  
+      le <a href="../tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a>  
+      ou le <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a>  
       pour remonter la piste.</li>
 
-  <li>Si vous pensez qu’un claim Goblin vient en fait d’un bon joueur  
-      qui ne veut pas être exécuté,  
-      vous pouvez vous aussi revendiquer être le <strong>Goblin</strong>.  
+  <li>Si vous pensez qu’un joueur bon s'est dit Goblin pour ne pa être exécuté,
+      vous pouvez vous aussi revendiquer être le <strong>Goblin</strong>. <br>  
       Si vous le faites de manière convaincante lors de votre nomination,  
       le premier claimant pourrait avouer son vrai rôle bon pour se distinguer de vous,  
-      ce qui vous révèle un allié sûr.</li>
+      ce qui vous révèle un allié sûr.</li> <br>
 
   <li>Vous pouvez aussi utiliser le nom du <strong>Goblin</strong> pour protéger votre propre vie :  
       si vous ne voulez vraiment pas être exécuté, revendiquez être le Goblin,  
-      puis revenez ensuite à votre vrai rôle.  
+      puis revenez ensuite à votre vrai rôle.<br>  
       C’est particulièrement utile pour des rôles à forte valeur  
       (comme le <a href="../sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a> ou la  
       <a href="../sv_roles/fleuriste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a>)  
-      ou des rôles à usage unique (comme le  
-      <a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a>  
-      ou le <a href="../tb_roles/maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a>).</li>
+      ou des rôles à usage unique (comme la 
+      <a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a>  
+      ou le <a href="../tb_roles/maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a>).</li> <br>
 
   <li>En dernier recours, vous pouvez tout simplement exécuter un joueur  
-      qui revendique être le <strong>Goblin</strong>.  
+      qui revendique être le <strong>Goblin</strong>. <br>  
       S’il ment et que la partie continue,  
-      vous venez de prouver à tout le monde qu’il n’était pas le Goblin.  
-      C’est risqué, mais parfois nécessaire.</li>
+      vous venez de prouver à tout le monde qu’il n’était pas le Goblin.<br>  
+      C’est risqué, mais parfois nécessaire.</li> 
 
 </ul>
 
