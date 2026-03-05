@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Mutant
+description: "Si vous êtes « fou » d’être un Marginal,vous pourriez être exécuté."
+image: "/images/Icon_mutant.png"
 ---
 
 <!-- 🔷 Logo en haut à gauche -->
@@ -32,7 +34,7 @@ title: Mutant
   <li>
     <strong>Type :</strong>
     <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
-     Étrangers
+     Marginal
     </a>
   </li>
 
@@ -78,7 +80,7 @@ Ayez pitié ! »
 <h3 style="color:#4ea3ff; font-weight:bold;">Résumé</h3>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
-  « Si vous êtes <strong>« fou »</strong> d’être un Étranger,vous pourriez être exécuté.»
+  « Si vous êtes <strong>« fou »</strong> d’être un Marginal,vous pourriez être exécuté.»
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
@@ -156,9 +158,9 @@ Ayez pitié ! »
 <h4 style="color:#4ea3ff; font-weight:bold; margin-left:20px;">Ne révélez <strong>jamais</strong> votre identité</h4>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Le Mutant ne doit <strong>jamais admettre</strong> être un Étranger.<br> Même un sous-entendu peut suffire à provoquer votre mort.</li>
+  <li>Le Mutant ne doit <strong>jamais admettre</strong> être un Marginal.<br> Même un sous-entendu peut suffire à provoquer votre mort.</li>
   <li>Le Conteur jugera selon <strong>votre comportement</strong> et non uniquement vos mots.<br> → Même un “je pourrais être le Mutant… ou pas” peut être interprété comme une révélation.</li>
-  <li>Le silence prolongé est tout aussi dangereux.<br> Restez <strong>actif·ve</strong>, parlez, échangez, et <strong>bluffez un rôle crédible</strong>.</li>
+  <li>Le silence prolongé est tout aussi dangereux.<br> Restez <strong>actif</strong>, parlez, échangez, et <strong>bluffez un rôle crédible</strong>.</li>
 </ul>
 
 <hr style="opacity:0.35;">
@@ -237,8 +239,8 @@ Ayez pitié ! »
   </li>
 
   <li>
-    Utilisez le Mutant pour <strong>brouiller le compte des Étrangers</strong> :<br>
-    « La <a href="./dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a> ment, c’est moi le vrai Étranger ! »<br>
+    Utilisez le Mutant pour <strong>brouiller le compte des Marginaux</strong> :<br>
+    « La <a href="./dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a> ment, c’est moi le vrai Marginal ! »<br>
     Cela sèmera la confusion, surtout s’il y a un <a href="./fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a> en jeu.
   </li>
 
@@ -254,5 +256,5 @@ Ayez pitié ! »
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li><a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
   <li><a href="../sv.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a></li>
-  <li><a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Étrangers</a></li>
+  <li><a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Marginaux</a></li>
 </ul>
