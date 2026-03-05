@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Crieur
+description: "Chaque nuit*, vous apprenez si un Sbire a nommé aujourd’hui."
+image: "/images/Icon_towncrier.png"
 ---
 
 <!-- 🔷 Logo en haut à gauche -->
