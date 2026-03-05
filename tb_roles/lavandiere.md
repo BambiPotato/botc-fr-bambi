@@ -65,9 +65,9 @@ image: /images/Icon_washerwoman.png
 <h3 style="color:#6fa8ff; font-weight:bold;"> Résumé</h3>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  « Vous commencez en apprenant deux joueurs et le rôle de
+  « Lors de votre première nuit, vous apprenez un rôle de 
   <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>
-  de l’un des deux. »
+  Villageois en jeu parmi 2 joueurs. »
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
