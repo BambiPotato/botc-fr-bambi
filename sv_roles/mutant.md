@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mutant
-description: "Si vous êtes « fou » d’être un Marginal,vous pourriez être exécuté."
+description: "Si vous êtes « fou » d’être un Marginal, vous pourriez être exécuté."
 image: "/images/Icon_mutant.png"
 ---
 
