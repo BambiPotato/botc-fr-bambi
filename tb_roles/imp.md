@@ -410,4 +410,3 @@ peut se faire passer pour une cible intéressante, laissant sa capacité encaiss
   <li><a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Démons</a></li>
 </ul>
 
-</div>
