@@ -110,7 +110,7 @@ Il ne l’apprend qu’une seule fois, puis plus rien.
 ##  <span style="color:blue">Exemples</span>   
 
 - **Cédric** est le [Saint](saint.md), et **Laura** est le [Baron](baron.md).  
-  → L'Archiviste apprend que soit Cédric, soit Vanessa est le Saint.  
+  → L'Archiviste apprend que soit Cédric, soit Laura est le Saint.  
 
 - Il n’y a aucun Marginal dans cette partie.  
   → L'Archiviste apprend un « 0 ».  
