@@ -76,7 +76,7 @@ Un savant génial dévoile tout ! Le village est en danger ! Ôyez, ôyez !  »
 
 ## <span style="color:#4ea3ff;">Résumé  
 
-> « Chaque nuit*, vous apprenez si un [<span style="color:red;">Sbire</span>](../sbires.md) a nommé aujourd’hui. »
+> <strong>« Chaque nuit*, vous apprenez si un [<span style="color:red;">Sbire</span>](../sbires.md) a nommé aujourd’hui. »</strong>
 
 Le Crieur sait quand un [<span style="color:red;">Sbire</span>](../sbires.md) a fait une **nomination**.  
 
