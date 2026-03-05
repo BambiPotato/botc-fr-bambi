@@ -66,8 +66,7 @@ image: /images/Icon_washerwoman.png
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   « Lors de votre première nuit, vous apprenez un rôle de 
-  <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>
-  Villageois en jeu parmi 2 joueurs. »
+  <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a> en jeu parmi 2 joueurs. »
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
