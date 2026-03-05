@@ -80,7 +80,7 @@ Ayez pitié ! »
 <h3 style="color:#4ea3ff; font-weight:bold;">Résumé</h3>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
-  « Si vous êtes <strong>« fou »</strong> d’être un Marginal,vous pourriez être exécuté.»
+  « Si vous êtes <strong>« fou »</strong> d’être un Marginal, vous pourriez être exécuté.»
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
