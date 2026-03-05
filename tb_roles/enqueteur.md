@@ -85,7 +85,7 @@ image: /images/Icon_investigator.png
 
 ---
 ##  <span style="color:blue">Résumé</span>
-**« Vous commencez en apprenant 2 joueurs et le rôle de [<span style="color:red">Sbire</span>](../sbires.md) de l’un des deux.»** 
+**« Lors de votre première nuit, vous apprenez un rôle de [<span style="color:red">Sbire</span>](../sbires.md) en jeu parmi 2 joueurs.»** 
 
 Le **Détective** apprend qu’un rôle de Sbire particulier est en jeu, mais pas lequel des deux joueurs le possède.
 
