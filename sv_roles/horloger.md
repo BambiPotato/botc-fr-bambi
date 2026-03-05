@@ -80,7 +80,7 @@ image: /images/Icon_clockmaker.png
 
 ##  <span style="color:#4ea3ff;">Résumé</span>  
 
-> « Vous commencez en sachant combien de pas séparent le <span style="color:red;">Démon</span> de son [<span style="color:red;">Sbire</span>](../sbires.md) le plus proche. »
+> **« Lors de votre première nuit, vous apprenez à combien de places du Démon est assis son Sbire le plus proche.»**
 
 « L'Horloger détermine la distance entre le <span style="color:red;">Démon</span> et son [<span style="color:red;">Sbire</span>](../sbires.md) le plus proche. »   
 
