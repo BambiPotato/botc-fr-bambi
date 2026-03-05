@@ -79,7 +79,7 @@ image: /images/Icon_chef.png
 
 ##  <span style="color:blue">Résumé</span>  
 
-**« Vous commencez à savoir combien il y a de paires de joueurs maléfiques.»**  
+**« Lors de votre première nuit, vous apprenez le nombre de paires de joueurs maléfiques.»**  
 
 Le **Cuisinier** sait si des joueurs maléfiques sont assis côte à côte.
   
