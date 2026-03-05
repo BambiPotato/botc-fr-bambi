@@ -84,7 +84,7 @@ image: /images/Icon_librarian.png
 
 ##  <span style="color:blue">Résumé</span>  
 
-**« Vous commencez en apprenant 2 joueurs et le rôle de Marginal de l’un des deux. (Ou qu’il n’y a aucun Marginal en jeu.) »** 
+**« Lors de votre première nuit, vous apprenez un rôle de Marginal en jeu parmi 2 joueurs (ou qu’aucun Marginal n’est en jeu).»** 
 
 L’Archiviste apprend qu’un Marginal particulier est en jeu, mais pas exactement de quel joueur il s’agit.
 
