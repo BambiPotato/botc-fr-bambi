@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Barbier
+description: "Si vous êtes mort aujourd’hui ou cette nuit, le Démon peut choisir 2 joueurs (pas un autre Démon) pour échanger leurs rôles"
+image: "/images/Icon_barber.png"
 ---
 
 <!-- 🔷 Logo en haut à gauche -->
