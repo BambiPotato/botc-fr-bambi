@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Jongleur
+description: "Lors de votre premier jour, devinez publiquement jusqu’à 5 rôles de joueurs. Cette nuit, vous apprenez combien étaient corrects."
+image: "/images/Icon_juggler.png"
 ---
 
 <!-- 🔷 Logo en haut à gauche -->
@@ -75,8 +77,7 @@ Je vous préviens, ce tour sera peut-être mon dernier. Oh là là…  »
 
 ##  <span style="color:#4ea3ff;">Résumé</span>  
 
-> « Lors de votre premier jour, devinez publiquement jusqu’à cinq combinaisons joueur/rôle.<br>
-La nuit suivante, vous apprenez combien d’entre elles sont correctes.»  
+> **« Lors de votre premier jour, devinez publiquement jusqu’à 5 rôles de joueurs. Cette nuit, vous apprenez combien étaient corrects.»**  
 
 Le Jongleur prend le risque de convaincre les gens de révéler leur véritable **rôle** dès le premier jour,
 dans l’espoir de deviner le plus grand nombre possible de personnes disant la vérité.
