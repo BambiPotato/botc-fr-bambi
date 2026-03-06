@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Horloger
-description: Vous commencez en sachant combien de pas séparent le Démon de son Sbire le plus proche.
+description: Lors de votre première nuit, vous apprenez à combien de places du Démon est assis son Sbire le plus proche.
 image: /images/Icon_clockmaker.png
 ---
 
