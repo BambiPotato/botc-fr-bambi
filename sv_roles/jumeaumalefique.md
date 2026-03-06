@@ -81,8 +81,7 @@ image: /images/Icon_eviltwin.png
 <h2 style="color:#d45b5b; font-weight:bold;">Résumé</h2>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
-  « Vous et un joueur d’alignement opposé vous connaissez.<br>
-  Si le joueur bon est exécuté, les Maléfiques gagnent.<br>
+  « Vous et un joueur d’alignement opposé vous connaissez.Si le joueur bon est exécuté, les Maléfiques gagnent.<br>
   Le Bien ne peut pas gagner si vous êtes tous deux en vie. »
 </p>
 
