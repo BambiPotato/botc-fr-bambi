@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Banshee
+description: "Si le Démon vous tue, tous les joueurs l'apprennent. À partir de ce moment, vous pouvez nominer deux fois par jour et voter deux fois par nomination."
+image: /images/Icon_banshee.png
 ---
 
 <p align="left">
@@ -60,7 +62,7 @@ title: Banshee
 ##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>« Si le Démon vous tue, tous les joueurs apprennent cela. À partir de ce moment, vous pouvez nominer deux fois par jour et voter deux fois par nomination. »</strong>
+<strong>« Si le Démon vous tue, tous les joueurs l'apprennent. À partir de ce moment, vous pouvez nominer deux fois par jour et voter deux fois par nomination. »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
