@@ -112,19 +112,19 @@ Dans <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; t
   <li>
     Les
     <a href="../voyageurs/index.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a>
-    comptent comme des joueurs pour la condition du Maire → ils doivent donc être exilés au préalable.
+    comptent comme des joueurs pour la condition du Maire → ils doivent donc être exilés au préalable.<br>
   </li>
   <li>
     Les
     <a href="../legendaires/index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Légendaires</a>
-    ne comptent pas : le Conteur n’est pas un joueur.
+    ne comptent pas : le Conteur n’est pas un joueur.<br>
   </li>
   <li>
     Si le Démon attaque le Maire et que le Conteur choisit un joueur déjà mort, un
     <a href="./soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a>
     ou un joueur protégé par le
     <a href="./moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a>,
-    ce joueur ne meurt pas non plus.
+    ce joueur ne meurt pas non plus.<br>
   </li>
   <li>Pendant la nuit, si le Maire est la cible du Démon : soit il meurt, soit un autre joueur meurt à sa place.</li>
   <li>Au crépuscule : si 3 joueurs sont vivants et qu’aucune exécution n’a lieu, la victoire des Bons est déclarée.</li>
@@ -143,13 +143,13 @@ Dans <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; t
     <a href="./maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a>
     → le Conteur choisit de tuer le
     <a href="./gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a>
-    à la place.
+    à la place.<br>
   </li>
-  <li>Il reste trois joueurs en vie. Aucune nomination n'a lieu, il n'y a pas d'exécution aujourd'hui. Victoire pour le Bien.</li>
+  <li>Il reste trois joueurs en vie. Aucune nomination n'a lieu, il n'y a pas d'exécution aujourd'hui. Victoire pour le Bien.</li><br>
   <li>
     Il reste cinq joueurs en vie, dont deux
-    <a href="../voyageurs/index.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a>.
-    Ces deux Voyageurs sont exilés, et le vote est à égalité entre les joueurs restants.
+    <a href="../voyageurs/index.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a>.<br>
+    Ces deux Voyageurs sont exilés, et le vote est à égalité entre les joueurs restants.<br>
     Comme l'égalité signifie qu'aucun joueur n'est exécuté, le Bien l'emporte.
   </li>
 </ul>
@@ -159,21 +159,21 @@ Dans <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; t
 <h2 style="color:#4ea3ff; font-weight:bold; margin-top:10px;">Conseils &amp; Astuces</h2>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; margin-right:20px;">
-  <li>Votre pouvoir s’active <strong>au dernier jour</strong> : faites tout pour convaincre le village que vous êtes réellement le Maire afin d’éviter toute exécution.</li>
+  <li>Votre pouvoir s’active <strong>au dernier jour</strong> : faites tout pour convaincre le village que vous êtes réellement le Maire afin d’éviter toute exécution.</li><br>
   <li>Ne révélez pas trop tôt votre rôle, sinon le Démon cherchera à vous tuer nuit après nuit.</li>
-  <li>À l’inverse, parfois annoncer votre rôle permet de créer un consensus autour de vous.</li>
+  <li>À l’inverse, parfois annoncer votre rôle permet de créer un consensus autour de vous.</li><br>
   <li>
     Si un joueur improbable, par exemple le
     <a href="./majordome.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Majordome</a>,
-    meurt la nuit, cela peut être la preuve que vous avez été attaqué.
+    meurt la nuit, cela peut être la preuve que vous avez été attaqué.<br>
   </li>
-  <li>Si le Démon vous attaque et qu’un autre joueur meurt, il saura qui vous êtes. Faites attention aux regards surpris au lever du jour !</li>
+  <li>Si le Démon vous attaque et qu’un autre joueur meurt, il saura qui vous êtes. Faites attention aux regards surpris au lever du jour !<br></li>
   <li>
     Assurez-vous de ne pas être l’
     <a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>
     et de ne pas être empoisonné ou empoisonnée par l’
     <a href="./empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>,
-    sinon votre capacité échouera et le Mal gagnera.
+    sinon votre capacité échouera et le Mal gagnera.<br>
   </li>
   <li>Évitez de garder vivants uniquement un Démon et un Sbire avec vous dans le final à 3 joueurs : vous serez certainement empoisonné.</li>
 </ul>
@@ -183,14 +183,14 @@ Dans <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; t
 <h2 style="color:#4ea3ff; font-weight:bold; margin-top:10px;">Bluffer Maire</h2>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; margin-right:20px;">
-  <li>Le Maire <strong>ne se réveille jamais la nuit</strong> → facile à bluffer.</li>
+  <li>Le Maire <strong>ne se réveille jamais la nuit</strong> → facile à bluffer.</li><br>
   <li>Sa longévité peut justifier votre survie suspecte face aux morts d’autres joueurs.</li>
   <li>Bluff parfait pour un Démon qui veut se protéger.</li>
   <li>Dévoilez votre rôle à quelques joueurs en privé pour préparer votre révélation finale.</li>
   <li>
     Le Maire est un excellent rôle de repli si votre bluff principal, par exemple la
     <a href="./voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>,
-    tombe à l’eau.
+    tombe à l’eau.<br>
   </li>
   <li>
     Si une mort étrange survient, par exemple la
@@ -199,7 +199,7 @@ Dans <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; t
     <a href="./lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>,
     vous pouvez l’utiliser comme preuve que vous êtes Maire.
   </li>
-  <li>Même un joueur bon peut bluffer Maire pour détourner le Démon.</li>
+  <li>Même un joueur bon peut bluffer Maire pour détourner le Démon.</li><br>
 </ul>
 
 <hr>
