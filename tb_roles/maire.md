@@ -44,8 +44,8 @@ image: /images/Icon_mayor.png
 </ul>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
-  « Nous devons mettre nos différences de côté et mettre fin à ces massacres insensés.
-  Après tout, nous sommes tous des contribuables.
+  « Nous devons mettre nos différences de côté et mettre fin à ces massacres insensés. <br>
+  Après tout, nous sommes tous des contribuables. <br>
   Enfin… la plupart d’entre nous. »
 </p>
 
@@ -79,24 +79,24 @@ image: /images/Icon_mayor.png
 
 <!-- IMPORTANT : pas d’italique + pas de point devant, comme demandé -->
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
-  S’il reste 3 joueurs vivants et qu’aucune exécution n’a lieu, votre équipe gagne.
-  Si vous devez mourir pendant la nuit, un autre joueur pourrait mourir à votre place.
+  <strong>« S’il reste 3 joueurs vivants et qu’aucune exécution n’a lieu, votre équipe gagne.</strong> <br>
+  <strong>Si vous devez mourir pendant la nuit, un autre joueur pourrait mourir à votre place. »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
-  Le <a href="./maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a> peut gagner pacifiquement le dernier jour.
+  Le <a href="./maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a> peut gagner pacifiquement le dernier jour. <br>
   
-Pour survivre, le maire provoque parfois « accidentellement » la mort d'un autre joueur. Si le maire est attaqué et sur le point de mourir, le Conteur peut décider qu'un autre joueur décède. Personne ne découvre les circonstances de sa mort, seulement qu'il est mort.
+Pour survivre, le maire provoque parfois « accidentellement » la mort d'un autre joueur. Si le maire est attaqué et sur le point de mourir, le Conteur peut décider qu'un autre joueur décède. Personne ne découvre les circonstances de sa mort, seulement qu'il est mort.<br>
 
-S'il ne reste que trois joueurs en vie à la fin de la journée, et qu'aucune exécution n'a eu lieu ce jour-là, alors la partie se termine et le bien l'emporte.
+S'il ne reste que trois joueurs en vie à la fin de la journée, et qu'aucune exécution n'a eu lieu ce jour-là, alors la partie se termine et le bien l'emporte.<br>
 
-Les voyageurs comptent comme des joueurs pour la victoire du maire et doivent donc être exilés en premier. 
-N'oubliez pas que l'exil n'est pas une exécution.
+Les voyageurs comptent comme des joueurs pour la victoire du maire et doivent donc être exilés en premier.
+N'oubliez pas que l'exil n'est pas une exécution. <br>
 
 Les Légendaires ne comptent pas comme joueurs pour la victoire du Maire, car le Conteur n'est pas un joueur.
-Si le Démon attaque le Maire et que le Conteur choisit à la place un joueur mort, le Soldat ou un joueur protégé par le Moine, ce joueur ne mourra pas cette nuit.
+Si le Démon attaque le Maire et que le Conteur choisit à la place un joueur mort, le Soldat ou un joueur protégé par le Moine, ce joueur ne mourra pas cette nuit. <br>
   
-Nous vous recommandons de garder le maire en vie jusqu'au dernier jour, car c'est ainsi que les joueurs s'amusent le plus. Exceptionnellement, si le groupe est convaincu dès le début de la partie que le maire est bel et bien le maire, laissez-le mourir afin que le mal ait une chance de l'emporter.
+Nous vous recommandons de garder le maire en vie jusqu'au dernier jour, car c'est ainsi que les joueurs s'amusent le plus. Exceptionnellement, si le groupe est convaincu dès le début de la partie que le maire est bel et bien le maire, laissez-le mourir afin que le mal ait une chance de l'emporter. <br>
 
 Dans <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">TROUBLE BREWING</a>, la phrase du maire « votre équipe gagne » signifie toujours « le bien gagne », car le maire est toujours bon. Dans d'autres versions, un maire maléfique signifie plutôt « le mal gagne ».
 </p>
@@ -106,9 +106,9 @@ Dans <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; t
 <h2 style="color:#4ea3ff; font-weight:bold; margin-top:10px;">Comment conter</h2>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; margin-right:20px;">
-  <li><strong>Dernier jour</strong> : si exactement 3 joueurs sont vivants et qu’aucune exécution n’a lieu → la partie se termine immédiatement avec une victoire des Bons.</li>
+  <li><strong>Dernier jour</strong> : si exactement 3 joueurs sont vivants et qu’aucune exécution n’a lieu → la partie se termine immédiatement avec une victoire des Bons.</li> <br>
   <li><strong>Cible du Démon</strong> : si le Maire doit mourir la nuit, le Conteur peut choisir que le Maire survive et qu’un autre joueur meure à la place.</li>
-  <li>Le Conteur annonce seulement « qu’un joueur est mort », jamais la raison.</li>
+  <li>Le Conteur annonce seulement « qu’un joueur est mort », jamais la raison.</li> <br>
   <li>
     Les
     <a href="../voyageurs/index.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a>
