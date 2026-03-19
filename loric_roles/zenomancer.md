@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Zénomancien 
+description: Un ou plusieurs joueurs reçoivent chacun un objectif. Lorsqu’il est accompli, ce joueur apprend une information vraie.
+image: /images/Icon_zenomancer.png
 ---
 
 <p align="left">
