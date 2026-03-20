@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dieu d’Ug
-description: Un chapeau Ug. Quand on porte le chapeau Ug, il faut prononcer un son à la fois et voter deux fois. En cas d’échec, on passe le chapeau Ug.
+description: Un chapeau Ug. Quand on porte le chapeau Ug, il faut prononcer un son à la fois mais voter deux fois. En cas d’échec, on passe le chapeau Ug.
 image: /images/Icon_godofug.png
 ---
 
@@ -50,7 +50,7 @@ image: /images/Icon_godofug.png
 ## <span style="color:#7fd1ae;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>« Un chapeau Ug. Quand on porte le chapeau Ug, il faut prononcer un son à la fois et voter deux fois. En cas d’échec, on passe le chapeau Ug. »</strong>
+<strong>« Un chapeau Ug. Quand on porte le chapeau Ug, il faut prononcer un son à la fois mais voter deux fois. En cas d’échec, on passe le chapeau Ug. »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
