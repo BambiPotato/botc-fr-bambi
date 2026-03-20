@@ -63,7 +63,7 @@ Les <strong>Knaves</strong> introduisent deux Conteurs.
 
   <li>Les joueurs ne savent pas quel Conteur est lequel. Chaque joueur choisit quel Conteur lui donne son information à chaque interaction.</li>
 
-  <li>Les Conteurs disent toujours la vérité concernant les règles du jeu et les informations hors capacités de rôle, comme les nominations, les bluffs du Démon, les informations des Sbires, etc.</li>
+  <li>Les Conteurs disent toujours la vérité concernant les règles du jeu et les informations hors capacités de rôle, comme les nominations, les bluffs du <a href="../demons.html" style="color:red; font-weight:bold; text-decoration:none;">Démon</a>, ou les informations des <a href="../sbires.html" style="color:red; font-weight:bold; text-decoration:none;">Sbires</a>.</li>
 
   <li>Si un joueur est ivre ou empoisonné, un Conteur peut dire la vérité ou mentir.</li>
 
@@ -90,11 +90,12 @@ Les <strong>Knaves</strong> introduisent deux Conteurs.
 ##  <span style="color:#7fd1ae;">Exemples</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Il y a deux Conteurs, Ben et Lachlan. Le Chef se réveille et choisit Lachlan, qui est le Conteur menteur. Le Chef apprend « 3 », alors qu’il n’y a que 2 paires de joueurs maléfiques.
+Il y a deux Conteurs, Ben et Lachlan. Le <a href="../tb_roles/cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a> se réveille et choisit Lachlan, qui est le Conteur menteur. Le <a href="../tb_roles/cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a>
+apprend « 3 », alors qu’il n’y a que 2 paires de joueurs maléfiques.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Plus tard dans la partie, les Conteurs échangent leurs rôles. Le Savant consulte Ben et Lachlan et choisit Lachlan. Le Savant reçoit alors 2 informations vraies.
+Plus tard dans la partie, les Conteurs échangent leurs rôles. Le <a href="../sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a> consulte Ben et Lachlan et choisit Lachlan. Le <a href="../sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a> reçoit alors 2 informations vraies.
 </p>
 
 ---
