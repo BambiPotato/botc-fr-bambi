@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Knaves
-description: Il y a 2 Conteurs : l’un ment et l’autre dit la vérité. Une fois par partie, au crépuscule, ils peuvent échanger.
+description: "Il y a 2 Conteurs : l’un ment et l’autre dit la vérité. Une fois par partie, au crépuscule, ils peuvent échanger."
 image: /images/Icon_knaves.png
 ---
 
