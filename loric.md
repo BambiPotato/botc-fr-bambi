@@ -155,6 +155,13 @@ image: /images/Generic_loric.png
     <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Contrebandier</span>
   </a>
 
+
+  <!-- Dieu d’Ug-->
+  <a href="./loric_roles/godofug.html" style="text-decoration:none; flex:0 1 200px; text-align:center;">
+    <img src="./images/Icon_godofug.png" alt="Big Wig" style="display:block; margin:0 auto; width:200px; height:auto; border-radius:12px;">
+    <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Dieu d’Ug</span>
+  </a>
+  
   <!-- Big Wig -->
   <a href="./loric_roles/bigwig.html" style="text-decoration:none; flex:0 1 200px; text-align:center;">
     <img src="./images/Icon_big_wig.png" alt="Big Wig" style="display:block; margin:0 auto; width:200px; height:auto; border-radius:12px;">
