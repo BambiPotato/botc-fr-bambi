@@ -63,6 +63,7 @@ image: /images/Generic_loric.png
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:0;">
     <li><a href="./loric_roles/stormcatcher.html" style="color:#7fd1ae; text-decoration:none;">Attrape-tempête</a></li>
     <li><a href="./loric_roles/bootlegger.html" style="color:#7fd1ae; text-decoration:none;">Contrebandier</a></li>
+    <li><a href="./loric_roles/godofug.html" style="color:#7fd1ae; text-decoration:none;">Dieu d’Ug</a></li>
     <li><a href="./loric_roles/bigwig.html" style="color:#7fd1ae; text-decoration:none;">Gros Bonnet</a></li>
     <li><a href="./loric_roles/hindu.html" style="color:#7fd1ae; text-decoration:none;">Hindou</a></li>
     <li><a href="./loric_roles/gardener.html" style="color:#7fd1ae; text-decoration:none;">Jardinier</a></li>
