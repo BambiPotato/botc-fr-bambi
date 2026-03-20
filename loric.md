@@ -67,6 +67,7 @@ image: /images/Generic_loric.png
     <li><a href="./loric_roles/bigwig.html" style="color:#7fd1ae; text-decoration:none;">Gros Bonnet</a></li>
     <li><a href="./loric_roles/hindu.html" style="color:#7fd1ae; text-decoration:none;">Hindou</a></li>
     <li><a href="./loric_roles/gardener.html" style="color:#7fd1ae; text-decoration:none;">Jardinier</a></li>
+     <li><a href="./loric_roles/knaves.html" style="color:#7fd1ae; text-decoration:none;">Knaves</a></li>
     <li><a href="./loric_roles/pope.html" style="color:#7fd1ae; text-decoration:none;">Pape</a></li>
     <li><a href="./loric_roles/tor.html" style="color:#7fd1ae; text-decoration:none;">Tor</a></li>
     <li><a href="./loric_roles/ventriloquist.html" style="color:#7fd1ae; text-decoration:none;">Ventriloque</a></li>
@@ -178,6 +179,12 @@ image: /images/Generic_loric.png
   <a href="./loric_roles/gardener.html" style="text-decoration:none; flex:0 1 200px; text-align:center;">
     <img src="./images/Icon_gardener.png" alt="Gardener" style="display:block; margin:0 auto; width:200px; height:auto; border-radius:12px;">
     <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Jardinier</span>
+  </a>
+
+   <!-- Knaves-->
+  <a href="./loric_roles/knaves.html" style="text-decoration:none; flex:0 1 200px; text-align:center;">
+    <img src="./images/Icon_knaves.png" alt="Gardener" style="display:block; margin:0 auto; width:200px; height:auto; border-radius:12px;">
+    <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Knaves</span>
   </a>
 
   <!-- Pope -->
