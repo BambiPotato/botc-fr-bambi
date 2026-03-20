@@ -95,13 +95,13 @@ Règle optionnelle : si le chapeau Ug devient moins amusant, limitez-le uniqueme
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Amy porte le chapeau Ug. Lorsqu’elle est nommée, elle dit :  
-« Pas moi. Je crois Ben a parlé avec son bouh. Il est bouh. »  
+« Pas moi. Je crois Ben a dit avec son bouh. Il est bouh. »  
 Amy garde le chapeau Ug.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Lewis porte le chapeau Ug. Lors d’une discussion privée avec Julien et Alex, Lewis dit :  
-« Je sais que tous les deux bons. Je suis le truc noir qui peut voir un truc quand je meurs. Je veux que le Démon me tue pour que je vois ce truc et sait des trucs à vous dit le jour ap. »  
+« Je sais que tous les deux bons. Je suis le truc qui vol qui peut voir un truc quand je meurs. Je veux que le Démon me tue pour que je vois ce truc et sait des trucs à vous dit le jour ap. »  
 Le Conteur donne le chapeau Ug à Abdallah, car « Démon » est un mot à plusieurs syllabes.
 </p>
 
