@@ -50,7 +50,7 @@ Ha-urrumph-o. »
 ##  Résumé
 
 **« Tous les joueurs commencent par connaître un joueur de votre alignement.  
-Vous pouvez choisir de tuer toute personne qui le nomine. »**
+Vous pouvez choisir de tuer toute personne qui le nomme. »**
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Le <strong>Gnome</strong> protège un joueur de son équipe — son <strong>amigo</strong>.  
