@@ -796,13 +796,6 @@ table.roles-grid td{
     </li>
 
     <li>
-      <a href="https://discord.gg/7jM7F9bZGf" target="_blank"
-         style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-         Discord 
-      </a>
-    </li>
-
-    <li>
       <a href="https://www.youtube.com/@opensesamegames1793" target="_blank"
          style="color:#ffb84d; font-weight:bold; text-decoration:none;">
          YouTube 
@@ -841,7 +834,7 @@ table.roles-grid td{
 ">
 
   <h2 style="color:#b58b52; font-weight:bold; font-size:18px; margin-bottom:10px;">
-    Wiki Francophone 
+    Wiki Francophone Communautaire
   </h2>
 
   <!-- Petit icône communauté -->
