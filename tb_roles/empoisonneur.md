@@ -18,7 +18,7 @@ image: /images/Icon_poisoner.png
  <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./empoisonneur.html" style="text-decoration:none;">
-    <img src="../images/Icon_poisoner.png" alt="Empoisonneurn" width="350" style="border-radius:8px;">
+    <img src="../images/Icon_poisoner.png" alt="Empoisonneur" width="350" style="border-radius:8px;">
     <br>
     <span style="color:red; font-weight:bold; font-size:22px;">Empoisonneur</span>
   </a>
@@ -83,7 +83,7 @@ image: /images/Icon_poisoner.png
 
 ##  <span style="color:red">Résumé</span>     
 
-**« Chaque nuit, choisissez un joueur : il est **empoisonné** cette nuit et le jour suivant. »**  
+**« Chaque nuit, choisissez un joueur : il est empoisonné cette nuit et le jour suivant. »**  
 
 L’**Empoisonneur** perturbe secrètement les capacités des autres rôles.  
 - Chaque nuit, il choisit un joueur : ce joueur est **empoisonné** pour la nuit et toute la journée suivante.  
