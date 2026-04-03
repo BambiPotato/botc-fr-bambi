@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Bouc Émissaire
+description: Si une personne de votre alignement est exécutée, vous pourriez être exécuté à sa place.
+image: /images/scapegoat.png
 ---
 
 <p align="left">
@@ -49,7 +51,7 @@ Je suis sûr que tout ira à merveille. Au fait… à quoi sert cette corde ? »
 ##  Résumé
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-« Si une personne de votre alignement est exécutée, vous pourriez être exécuté à sa place. »
+« <strong>Si une personne de votre alignement est exécutée, vous pourriez être exécuté à sa place.</strong> »
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
