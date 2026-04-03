@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Gunslinger
+description: Chaque jour, après le premier vote d’exécution, vous pouvez choisir publiquement un joueur ou une joueuse ayant voté : cette personne meurt.
+image: /images/Icon_gunslinger.png
 ---
 
 <p align="left">
