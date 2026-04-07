@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Djinn
+description: Utilisez la règle spéciale du Djinn. Tous les joueurs la connaissent. 
+image: /images/Icon_djinn.png
 ---
 
 <p align="left">
