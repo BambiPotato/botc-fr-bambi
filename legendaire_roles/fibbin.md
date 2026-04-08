@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Fibbin
+description: Une fois par partie, un joueur bon pourrait recevoir une information incorrecte.
+image: /images/fibbin..png
 ---
 
 <p align="left">
@@ -33,7 +35,7 @@ Hi. Hi. Hi. »
 
 ## 📖 Résumé
 
-**« Une fois par partie, un joueur du camp du Bien peut recevoir une information incorrecte. »**
+**« Une fois par partie, un joueur bon pourrait recevoir une information incorrecte.»**
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.8;">
 Ajoutez le <strong><span style="color:#d4a76a;">Fibbin</span></strong> si votre script contient trop d’informations fiables ou aucune source d’erreur.  
