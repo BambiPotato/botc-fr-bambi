@@ -2,7 +2,7 @@
 layout: default
 title: Fibbin
 description: Une fois par partie, un joueur bon pourrait recevoir une information incorrecte.
-image: /images/fibbin..png
+image: /images/fibbin.png
 ---
 
 <p align="left">
