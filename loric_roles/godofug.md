@@ -95,7 +95,7 @@ Règle optionnelle : si le chapeau Ug devient moins amusant, limitez-le uniqueme
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Amy porte le chapeau Ug. Lorsqu’elle est nommée, elle dit :  
-« Pas moi. Je crois Ben a dit avec son bouh. Il est bouh. »  
+« Pas moi. Je crois Ben a dit un mot qui me dit qu'il est mal. Il est mal, il est bouh. »  
 Amy garde le chapeau Ug.
 </p>
 
