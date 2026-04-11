@@ -67,7 +67,6 @@ title: Ojo
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 L’<strong>Ojo</strong> ne choisit pas un joueur mais un <strong>rôle</strong> précis.  
-C’est ensuite le Conteur qui traduit ce choix en mort concrète autour de la table.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
