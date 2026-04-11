@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Ojo
+description: "Chaque nuit*, choisissez un rôle : ce rôle meurt. S’il n’est pas en jeu, le Conteur choisit qui meurt."  
+image: /images/Icon_ojo.png
 ---
 
 <p align="left">
