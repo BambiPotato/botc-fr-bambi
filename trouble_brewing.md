@@ -56,7 +56,7 @@ image: /images/Logo_trouble_brewing.png
     <li><a href="./tb_roles/croquemort.html" style="color:#4ea3ff; text-decoration:none;">Fossoyeur</a></li>
     <li><a href="./tb_roles/moine.html" style="color:#4ea3ff; text-decoration:none;">Moine</a></li>
     <li><a href="./tb_roles/gardien.html" style="color:#4ea3ff; text-decoration:none;">Corneille</a></li>
-    <li><a href="./tb_roles/vierge.html" style="color:#4ea3ff; text-decoration:none;">Innocente</a></li>
+    <li><a href="./tb_roles/vierge.html" style="color:#4ea3ff; text-decoration:none;">Immaculée</a></li>
     <li><a href="./tb_roles/mercenaire.html" style="color:#4ea3ff; text-decoration:none;">Pourfendeuse </a></li>
     <li><a href="./tb_roles/soldat.html" style="color:#4ea3ff; text-decoration:none;">Soldat</a></li>
     <li><a href="./tb_roles/maire.html" style="color:#4ea3ff; text-decoration:none;">Maire</a></li>
@@ -228,7 +228,7 @@ Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient
   <!-- Vierge -->
   <a href="./tb_roles/vierge.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
     <img src="./images/Icon_virgin.png" alt="Vierge" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
-    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Innocente</span>
+    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Immaculée</span>
   </a>
 
   <!-- Mercenaire -->
