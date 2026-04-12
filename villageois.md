@@ -248,7 +248,7 @@ Leur rôle est de collecter des informations, de protéger leurs alliés et de m
 
   <a href="./tb_roles/vierge.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
     <img src="./images/Icon_virgin.png" alt="Innocente" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
-    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Innocente</span>
+    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Immaculée</span>
   </a>
 
   <a href="./roles_experimentaux/steward.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
