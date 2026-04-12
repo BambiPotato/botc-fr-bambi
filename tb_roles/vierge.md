@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Innocente
+title: Immaculée
 description: La première fois que vous êtes nommée, si le joueur qui vous nomme est un Villageois, il est immédiatement exécuté.
 image: /images/Icon_virgin.png
 ---
@@ -12,14 +12,14 @@ image: /images/Icon_virgin.png
   </a>
 </p>
 
-#  <span style="color:blue">Innocente</span>  
+#  <span style="color:blue">Immaculée</span>  
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./vierge.html" style="text-decoration:none;">
     <img src="../images/Icon_virgin.png" alt="Vierge" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:blue; font-weight:bold; font-size:22px;">Innocente</span>
+    <span style="color:blue; font-weight:bold; font-size:22px;">Immaculée</span>
   </a>
 </div>
 
@@ -92,62 +92,62 @@ image: /images/Icon_virgin.png
 
 **« La première fois que vous êtes nommée, si le joueur qui vous nomme est un Villageois, il est immédiatement exécuté.»**
 
-L'Innocente peut, malgré elle, provoquer l’exécution de son accusateur, ce qui permet de confirmer quels joueurs sont des Villageois.  
+L'Immaculée peut, malgré elle, provoquer l’exécution de son accusateur, ce qui permet de confirmer quels joueurs sont des Villageois.  
 
-- Si un Villageois nomine l'Innocente, ce Villageois est immédiatement exécuté. Comme il ne peut y avoir qu’une seule exécution par jour, le processus de nomination prend fin aussitôt, même si une autre personne devait mourir.  
-- Si un Étranger, un Sbire ou un Démon nomine l'Innocente, rien ne se passe et le vote continue normalement.  
-- Après avoir été nominée une première fois, l'Innocente **perd sa capacité**, même si le nominateur n’est pas mort ou si l'Innocente était l’Ivrogne ou empoisonnée.  
+- Si un Villageois nomme l'Immaculée, ce Villageois est immédiatement exécuté. Comme il ne peut y avoir qu’une seule exécution par jour, le processus de nomination prend fin aussitôt, même si une autre personne devait mourir.  
+- Si un Marginal, un Sbire ou un Démon nomine l'Immaculée, rien ne se passe et le vote continue normalement.  
+- Après avoir été nommmée une première fois, l'Immaculée **perd sa capacité**, même si le nominateur n’est pas mort ou si l'Immaculée était l’Ivrogne ou empoisonnée.  
 
 ---
 
 ##  <span style="color:blue">Comment Conter</span>  
 
-- Si le premier joueur à nominer l'Innocente est un Villageois :  
+- Si le premier joueur à nommer l'Immaculée est un Villageois :  
   → Déclarez immédiatement que ce joueur est exécuté. Placez un Linceuil de mort sur son jeton.  
-  → L'Innocente perd sa capacité (placez son jeton de rappel **AUCUN POUVOIR**).  
+  → L'Immaculée perd sa capacité (placez son jeton de rappel **AUCUN POUVOIR**).  
   → Fin de la journée, passez directement à la nuit.  
 
-- Si le premier joueur à nominer la Vierge n’est pas un Villageois :  
+- Si le premier joueur à nommer l'Immaculée n’est pas un Villageois :  
   → Continuez le vote normalement.  
-  → L'Innocente perd sa capacité (mettez le rappel **AUCUN POUVOIR**).  
+  → L'Immaculée perd sa capacité (mettez le jeton de rappel **AUCUN POUVOIR**).  
 
 ---
 
 ##   <span style="color:blue">Exemples</span>  
 
-- La [Lavandière](lavandiere.md) nomine la Vierge → la Lavandière est exécutée immédiatement et la journée prend fin.  
-- L’[Ivrogne](ivrogne.md), qui pense être le [Cuisinier](cuistot.md), nomine l'Innocente → rien ne se passe, mais l'Innocente perd sa capacité.  
-- Un joueur mort tente de nominer l'Innocente → cela ne compte pas, car les morts ne peuvent pas nominer. L'Innocente conserve sa capacité.  
+- La [Lavandière](lavandiere.md) nomme l'Immaculée → la Lavandière est exécutée immédiatement et la journée prend fin.  
+- L’[Ivrogne](ivrogne.md), qui pense être le [Cuisinier](cuistot.md), nomine l'Immaculée → rien ne se passe, mais l'Immaculée perd sa capacité.  
+- Un joueur mort tente de nommer l'Immaculée → cela ne compte pas, car les morts ne peuvent pas faire de nommination. L'Immaculée conserve sa capacité.  
 
 ---
 
 ##  <span style="color:blue">Conseils & Astuces</span>    
 
-- L'Innocente est l’un des rares Villageois qui peut être **confirmée comme Villageois de façon absolue**.  
+- L'Immaculée est l’un des rares Villageois qui peut être **confirmée comme Villageois de façon absolue**.  
 - Les Villageois ayant déjà utilisé leur pouvoir (comme la [Lavandière](lavandiere.md), le [Détective](enqueteur.md) ou la [Pourfendeuse](mercenaire.md)) sont d’excellents choix pour la nomination, car leur mort valide leur rôle sans grande perte.  
-- Une nomination par un Étranger ne déclenche pas votre capacité. Cela inclut l’[Ivrogne](ivrogne.md).  
-- Vous pouvez **vous auto-nominer** pour prouver que vous êtes l'Innocente.  
+- Une nomination par un Marginalr ne déclenche pas votre capacité. Cela inclut l’[Ivrogne](ivrogne.md).  
+- Vous pouvez **vous auto-nommer** pour prouver que vous êtes l'Immaculée.  
 - Votre capacité met fin à la journée : vous pouvez donc bloquer une exécution en plus de prouver votre rôle.  
 - Annoncer tôt votre rôle fait de vous une cible pour le Démon ou l’[<span style="color:red">Empoisonneur</span>](empoisonneur.md). 
 - Utiliser votre capacité rapidement minimise ce risque.  
 - Attendre avant de révéler votre rôle permet de choisir un nominateur plus stratégique.  
-- Ne pas déclarer être la Vierge avant d’être nominée peut piéger un joueur se faisant passer pour Villageois.  
+- Ne pas déclarer être l'Immaculéee avant d’être nommée peut piéger un joueur se faisant passer pour Villageois.  
 - Attention : si votre capacité ne se déclenche pas, c’est peut-être parce que :  
   - Le nominateur est un Sbire ou Démon.  
-  - Le nominateur est un Étranger.  
+  - Le nominateur est un Marginal.  
   - Vous êtes l’[Ivrogne](ivrogne.md) ou empoisonnée.  
 
-⚠️ Attention à l’[<span style="color:red">Espionne</span>](espion.md)  : c’est le seul rôle maléfique pouvant activer votre capacité puisqu’il s’enregistre comme Villageois.  
+⚠️ Attention à l’[<span style="color:red">Espionne</span>](espion.md)  : c’est le seul rôle maléfique pouvant activer votre capacité puisqu’elle s’enregistre comme Villageois.  
 
 ---
 
-##  <span style="color:blue">Bluffer l'Innocente</span>    
+##  <span style="color:blue">Bluffer l'Immaculée</span>    
 
 - Vous **ne vous réveillez jamais la nuit**.  
-- Si vous êtes nominée et que rien ne se passe, cela jette le doute : l’un de vous deux est peut-être [Ivrogne](ivrogne.md).  
-- En tant que Sbire, vous pouvez inciter votre Démon à vous nominer → cela rend votre Démon plus crédible.  
-- Attention : si une vraie Innocente se révèle, vous serez immédiatement démasquée.  
-- Après avoir bluffé l'Innocente sans mourir, vous pouvez pivoter vers un autre rôle crédible comme [Fossoyeur](croquemort.md) ou [Moine](moine.md).  
+- Si vous êtes nommée et que rien ne se passe, cela jette le doute : l’un de vous deux est peut-être [Ivrogne](ivrogne.md).  
+- En tant que Sbire, vous pouvez inciter votre Démon à vous nommer → cela rend votre Démon plus crédible.  
+- Attention : si une vraie Immaculée se révèle, vous serez immédiatement démasquée.  
+- Après avoir bluffé l'Immaculée sans mourir, vous pouvez pivoter vers un autre rôle crédible comme [Fossoyeur](croquemort.md) ou [Moine](moine.md).  
 
 ---
 
