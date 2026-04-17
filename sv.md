@@ -104,7 +104,7 @@ image: /images/Logo_sects_and_violets.png
   <li><a href="#-synopsis" style="color:#f5f5f5; text-decoration:none;">Synopsis</a></li>
   <li><a href="#-gameplay" style="color:#f5f5f5; text-decoration:none;">Gameplay</a></li>
   <li><a href="#villageois" style="color:#f5f5f5; text-decoration:none;">Villageois</a></li>
-  <li><a href="#étrangers" style="color:#f5f5f5; text-decoration:none;">Étrangers</a></li>
+  <li><a href="#étrangers" style="color:#f5f5f5; text-decoration:none;">Marginaux</a></li>
   <li><a href="#sbires" style="color:#f5f5f5; text-decoration:none;">Sbires</a></li>
   <li><a href="#démons" style="color:#f5f5f5; text-decoration:none;">Démons</a></li>
   <li><a href="#-télécharger--imprimer" style="color:#f5f5f5; text-decoration:none;">Télécharger &amp; Imprimer</a></li>
@@ -209,7 +209,7 @@ C’est aussi la première apparition de la <strong>Folie</strong>, qui peut com
 
 ---
 
-## [<span style="color:blue;">**Étrangers**</span>](etrangers.html)
+## [<span style="color:blue;">**Marginaux**</span>](etrangers.html)
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_mutant.png" alt="Mutant" width="300">](sv_roles/mutant.html)  
