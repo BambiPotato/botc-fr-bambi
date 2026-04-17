@@ -169,11 +169,11 @@ il peut choisir une nouvelle capacité ou la même capacité que précédemment.
 -  **Pour neutraliser un joueur gênant :**  
   prétendez avoir choisi *son* rôle.  
   → Son info devient “ivre”, donc suspecte.  
-  - > Exemple : « J’ai choisi le rôle du Savant cette nuit, donc son info est fausse. »  
+  -  Exemple : « J’ai choisi le rôle du Savant cette nuit, donc son info est fausse. »  
 
 -  Si votre bluff initial échoue, le Philosophe est une excellente **porte de sortie**.  
   Vous pouvez justifier toute duplication de rôle :  
-  - > “Ah, c’est normal qu’on soit deux Savants, je suis le Philosophe.”  
+  -  “Ah, c’est normal qu’on soit deux Savants, je suis le Philosophe.”  
 
 -  Choisissez un rôle **perturbateur** à imiter ([Savant](savant.md), [Couturière](couturiere.md), [Horloger](horloger.md)…)  
   pour semer la confusion dans les infos de la bonne équipe.  
@@ -183,7 +183,7 @@ il peut choisir une nouvelle capacité ou la même capacité que précédemment.
 
 -  Si un autre maléfique bluffe un rôle difficile,  
   prétendez être le Philosophe ayant copié ce rôle :  
-  - > “Leur info est fausse parce qu’ils sont ivres à cause de moi.”  
+  -  “Leur info est fausse parce qu’ils sont ivres à cause de moi.”  
   - Cela crédibilise votre allié tout en vous protégeant.  
 
   ---
