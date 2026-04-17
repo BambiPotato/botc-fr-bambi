@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Maladroit
+description: "Lorsque vous apprenez que vous êtes mort, choisissez publiquement un joueur vivant :s’il est maléfique, votre équipe perd." 
+image: /images/Icon_klutz.png
 ---
 
 <!-- 🔷 Logo en haut à gauche -->
@@ -29,7 +31,7 @@ title: Maladroit
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
     <strong>Type :</strong>
-    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>
+    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>
   </li>
 
   <li>
@@ -70,8 +72,7 @@ title: Maladroit
 <h2 style="color:#4ea3ff; font-weight:bold;">Résumé</h2>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
-  « Quand vous apprenez que vous êtes mort, <strong>choisissez publiquement un joueur vivant</strong> :<br>
-  s’il est maléfique, <strong>votre équipe perd.</strong> »
+  <strong>« Lorsque vous apprenez que vous êtes mort, choisissez publiquement un joueur vivant : s’il est maléfique, votre équipe perd. »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
@@ -98,8 +99,7 @@ title: Maladroit
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
-    Quand le Maladroit apprend qu’il est mort,<br>
-    il doit <strong>déclarer publiquement</strong> qu’il est le Maladroit.
+    Quand le Maladroit apprend qu’il est mort, il doit <strong>déclarer publiquement</strong> qu’il est le Maladroit.
   </li>
   <li>
     Il <strong>choisit un joueur vivant</strong> en le désignant.
@@ -117,8 +117,8 @@ title: Maladroit
 </ul>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
-  Si le joueur Maladroit ne se rend pas compte qu’il doit choisir un joueur lorsqu’il meurt,<br>
-  rappelez-le-lui en privé. Les nouveaux joueurs peuvent ne pas comprendre comment fonctionne leur rôle.
+  Si le joueur Maladroit ne se rend pas compte qu’il doit choisir un joueur lorsqu’il meurt, rappelez-le-lui en privé.<br> 
+  Les nouveaux joueurs peuvent ne pas comprendre comment fonctionne leur rôle.<br> 
   le Conteur peut lui rappeler discrètement la règle.
 </p>
 
@@ -150,7 +150,7 @@ title: Maladroit
 <h3 style="color:#4ea3ff; font-weight:bold;">Évitez la mort</h3>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
-  Comme beaucoup d’Étrangers de <em>Sects &amp; Violets</em>,<br>
+  Comme beaucoup de Marginaux de <em>Sects &amp; Violets</em>,<br>
   votre pouvoir ne devient dangereux <strong>qu’à votre mort</strong>.<br>
   Restez donc en vie le plus longtemps possible.
 </p>
@@ -235,8 +235,8 @@ title: Maladroit
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
     Annoncez être le Maladroit juste avant la fin du jeu,<br>
-    quand plusieurs Étrangers sont déjà révélés.<br>
-    Cela <strong>fausse le décompte des Étrangers</strong><br>
+    quand plusieurs Marginaux sont déjà révélés.<br>
+    Cela <strong>fausse le décompte des Marginaux</strong><br>
     et sème le doute sur la présence d’un
     <a href="fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a>.
   </li>
