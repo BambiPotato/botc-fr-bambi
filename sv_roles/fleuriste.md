@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Fleuriste
+description: "Chaque nuit*, vous apprenez si un Démon a voté aujourd’hui."
+image: /images/Icon_flowergirl.png
 ---
 
 <!-- 🔷 Logo en haut à gauche -->
@@ -72,7 +74,7 @@ mais aujourd’hui mes coquelicots fleurissent. »
 
 ## <span style="color:#4ea3ff;">Résumé</span>  
 
-> « Chaque nuit*, vous apprenez si un [<span style="color:red;">Démon</span>](../demons.md) a voté aujourd’hui. »
+> <strong>« Chaque nuit*, vous apprenez si un [<span style="color:red;">Démon</span>](../demons.md) a voté aujourd’hui. »</strong>
 
 La Fleuriste sait si un [<span style="color:red;">Démon</span>](../demons.md) a voté ou non.  
 
