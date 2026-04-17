@@ -113,18 +113,18 @@ Ces jetons (avec ces remplacements) vont dans le sac pour être tirés par les j
 - Le conteur décide de mettre Baron en jeu, le Conteur retire 2 Villageois et ajoute, par exemple, un [**Saint**](../tb_roles/saint.md) et un [**Majordome**](../tb_roles/majordome.md). 
 - La compisation finale aura donc 3 Villageois, 2 Marginaux, 1 Sbire, 1 Démon.  
 
-- Une partie à **15 joueurs** (9 Villageois, 2  Marginaux, 3 Sbires, 1 Démon). Le Baron est en jeu : Le Conteur décide de mettre un [**Ivrogne**](../tb_roles/ivrogne.md) et un [**Recluse**](../tb_roles/reclus.md). Le Conteur retire par exemple le [**Moine**](../tb_roles/moine.md) et ajoute le Reclus. Pour l’Ivrogne, on n’ajoute pas le jeton de rôle dans sac : on place le jeton de rappel “Est l’Ivrogne” dans le Grimoire (un Villageois est secrètement un Marginal).  
+- Une partie à **15 joueurs** (9 Villageois, 2  Marginaux, 3 Sbires, 1 Démon). Le Baron est en jeu : Le Conteur décide de mettre un [**Ivrogne**](../tb_roles/ivrogne.md) et une [**Recluse**](../tb_roles/reclus.md). Le Conteur retire par exemple le [**Moine**](../tb_roles/moine.md) et ajoute la Recluse. Pour l’Ivrogne, on n’ajoute pas le jeton de rôle dans sac : on place le jeton de rappel “Est l’Ivrogne” dans le Grimoire (un Villageois est secrètement un Marginal).  
 
 ---
 
 ##  <span style="color:red">Conseils & Astuces</span>
 
 - Votre pouvoir agit **avant même que la partie commence**, ensuite : amusez-vous à **bluffer** et semer la confusion pour aider votre Démon.  
-- Revendiquez être **Marginal** : si le nombre de Marginaux paraît trop élevé, la ville pensera à un Baron et vous pourrez passer pour un véritable Étranger.  
+- Revendiquez être **Marginal** : si le nombre de Marginaux paraît trop élevé, la ville pensera à un Baron et vous pourrez passer pour un véritable Marginal.  
 - **Bluffez** un rôle déjà revendiqué (exemple : [**Voyante**](../tb_roles/voyante.md), [**Fossoyeur**](../tb_roles/croquemort.md), [**Maire**](../tb_roles/maire.md)) afin de **dégrader la confiance** dans ses infos.  
 - Faire croire qu’un **Baron** est en jeu alors qu’il n’y en a pas peut forcer le Village à douter de ses infos (on soupçonnera un [**Ivrogne**](../tb_roles/ivrogne.md)).  
 - Acceptez d’être le **bouc émissaire** : mourir à la place du Démon (ou attirer une [**Pourfendeuse**](../tb_roles/mercenaire.md) / [**Corneille**](../tb_roles/gardien.md)) protège l’équipe maléfique.  
-- Si vous ne bluffez pas Étranger, **chargez** les vrais Étrangers : la ville pourrait les exécuter.  
+- Si vous ne bluffez pas un Marginal **chargez** les vrais Marginaux : le Village pourrait les exécuter.  
 - Parfois, faire tuer le Baron tôt par le Démon vous rend “fiable” en mort et vous permet de **désinformer tranquillement** ensuite.
 
 ---
