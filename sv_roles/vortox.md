@@ -2,7 +2,7 @@
 layout: default
 title: Vortox
 description: "Chaque nuit*, choisissez un joueur : il meurt.Les capacités des Villageois donnent de fausses informations.Chaque jour, si personne n’est exécuté, les Maléfiques gagnent." 
-image: /images/Icon_fortuneteller.png
+image: /images/Icon_vortox.png
 ---
 
 <!-- 🔴 Logo en haut à gauche -->
