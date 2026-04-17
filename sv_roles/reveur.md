@@ -106,7 +106,7 @@ Le Rêveur ne peut **pas se choisir lui-même**, ni choisir un [<span style="col
 > Pour aider ou tromper subtilement :  
 
 > Si le Rêveur choisit un joueur maléfique, vous pouvez lui montrer le rôle bon que ce joueur prétend incarner, 
-> ou un rôle secret (comme le [Charmeur de serpents](charmeurdeserpent.md), le [Sage](sage.md), le [Mutant](mutant.md) ou le [Maladroit](maladroit.md)).
+> ou un rôle secret (comme le [Charmeur de Serpents](charmeurdeserpent.md), le [Sage](sage.md), le [Mutant](mutant.md) ou le [Maladroit](maladroit.md)).
 
 ---
 
@@ -174,7 +174,8 @@ Le Rêveur ne peut **pas se choisir lui-même**, ni choisir un [<span style="col
   - Cela donne l’impression que vous êtes vraiment le Rêveur.  
 
 - Dites que vous avez choisi des joueurs déjà connus pour “confirmer” leurs rôles :  
-  - « Le Crieur est soit Crieur, soit [<span style="color:red;">Vigormortis</span>](vigormortis.md). »<br>
+  - « Le Crieur est soit Crieur, soit [<span style="color:red;">Vigormortis</span>](vigormortis.md). »
+  
   — Cela renforce la confiance envers vous.  
 
 - Pour rendre un joueur bon suspect, prétendez avoir appris qu’il est un rôle secret ou discret :  
