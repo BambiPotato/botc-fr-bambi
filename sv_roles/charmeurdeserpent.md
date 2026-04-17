@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Charmeur de Serpent
+title: Charmeur de Serpents
+description: "Chaque nuit, choisissez un joueur vivant : si c’est un Démon, vous échangez vos rôles et vos alignements avec lui, et il est empoisonné.."  
+image: /images/Icon_snakecharmer.png
 ---
 
 <!-- 🔷 Logo en haut à gauche -->
@@ -12,13 +14,13 @@ title: Charmeur de Serpent
 
 ---
 
-##  <span style="color:#4ea3ff;">Charmeur de Serpent</span>
+##  <span style="color:#4ea3ff;">Charmeur de Serpents</span>
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="./charmeurdeserpent.html" style="text-decoration:none;">
     <img src="../images/Icon_snakecharmer.png" alt="Charmeur de Serpent" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:blue; font-weight:bold; font-size:22px;">Charmeur de Serpent</span>
+    <span style="color:blue; font-weight:bold; font-size:22px;">Charmeur de Serpents</span>
   </a>
 </div>
 
@@ -75,15 +77,15 @@ title: Charmeur de Serpent
 
 ## <span style="color:#4ea3ff;">Résumé</span>  
 
-> « Chaque nuit, choisissez un joueur vivant :  
-> si c'est un [<span style="color:red;">Démon</span>](../demons.md), vous échangez vos rôles et vos alignements avec lui, et il est **empoisonné**. »
+> **« Chaque nuit, choisissez un joueur vivant :**  
+> **si c'est un [<span style="color:red;">Démon</span>](../demons.md), vous échangez vos rôles et vos alignements avec lui, et il est **empoisonné**.** »
 
-Le Charmeur de Serpent découvre nuit après nuit des joueurs qui ne sont pas le [<span style="color:red;">Démon</span>](../demons.md)...  
+Le Charmeur de Serpents découvre nuit après nuit des joueurs qui ne sont pas le [<span style="color:red;">Démon</span>](../demons.md)...  
 Mais s’il devient trop avide ou trop audacieux, il **devient lui-même le Démon**.
 
 Chaque nuit, il choisit un joueur :
 - Si ce joueur **n’est pas** le [<span style="color:red;">Démon</span>](../demons.md), rien ne se passe.  
-- Si c’est le [<span style="color:red;">Démon</span>](../demons.md), le Charmeur de Serpent **devient ce Démon** et passe du côté du Mal,  
+- Si c’est le [<span style="color:red;">Démon</span>](../demons.md), le Charmeur de Serpents **devient ce Démon** et passe du côté du Mal,  
   tandis que le Démon original devient **bon** et **empoisonné pour le reste de la partie**.  
 
 - Si le [Philosophe](philosophe.md) a la capacité du Charmeur de Serpent et devient le Démon, alors le Démon devient un [Philosophe](philosophe.md) empoisonné.
@@ -93,9 +95,9 @@ Chaque nuit, il choisit un joueur :
 
 ## <span style="color:#4ea3ff;">Comment Conter</span>  
 
-- Chaque nuit, réveillez le Charmeur de Serpent.  
+- Chaque nuit, réveillez le Charmeur de Serpents.  
 - Il désigne un joueur vivant.  
-- Si ce joueur **n’est pas** le [<span style="color:red;">Démon</span>](../demons.md), rien ne se passe : rendormez le Charmeur de Serpent.  
+- Si ce joueur **n’est pas** le [<span style="color:red;">Démon</span>](../demons.md), rien ne se passe : rendormez le Charmeur de Serpents.  
 - Si c’est le [<span style="color:red;">Démon</span>](../demons.md) :  
   - Échangez leurs jetons de rôle (et d’alignement).  
   - L’ancien Démon devient **bon** et **empoisonné**.  
@@ -103,28 +105,28 @@ Chaque nuit, il choisit un joueur :
 
 > **Astuces et Conseils pour les Conteurs et Conteuses**
 
-> Dans l'étrange situation où le Charmeur de serpent serait maléfique, ou le démon bon, inversez leurs alignements selon le cas.
+> Dans l'étrange situation où le Charmeur de Serpents serait maléfique, ou le Démon bon, inversez leurs alignements selon le cas.
 
 ---
 
 ##  <span style="color:#4ea3ff;">Exemples</span>    
 
-- Le Charmeur choisit un joueur qui est la [<span style="color:red;">Pit-Hag</span>](pithag.md) → rien ne se passe.  
+- Le Charmeur de Serpents choisit un joueur qui est la [<span style="color:red;">Pit-Hag</span>](pithag.md) → rien ne se passe.  
 - La nuit suivante, il se choisit lui-même → rien ne se passe.  
 
-- Le Charmeur choisit un joueur qui est le [<span style="color:red;">Vigormortis</span>](vigormortis.md).  
-  Le Charmeur devient alors le nouveau [<span style="color:red;">Vigormortis</span>](vigormortis.md) maléfique,  
-  tandis que le Vigormortis original devient bon et empoisonné.  
+- Le Charmeur de Serpents choisit un joueur qui est le [<span style="color:red;">Vigormortis</span>](vigormortis.md).  
+  Le Charmeur de Serpents devient alors le nouveau [<span style="color:red;">Vigormortis</span>](vigormortis.md) Maléfique,  
+  tandis que le [<span style="color:red;">Vigormortis</span>](vigormortis.md) original devient bon et empoisonné.  
 
-- La [<span style="color:red;">Pit-Hag</span>](pithag.md) se transforme elle-même en Charmeur de Serpent.  
-  Puis, le Charmeur choisit le [<span style="color:red;">Fang Gu</span>](fanggu.md).  
-  Le Charmeur devient le [<span style="color:red;">Fang Gu</span>](fanggu.md), et le Fang Gu devient Charmeur tous deux restent maléfiques.
+- La [<span style="color:red;">Pit-Hag</span>](pithag.md) se transforme elle-même en Charmeur de Serpents.  
+  Puis, le Charmeur de Serpents choisit le [<span style="color:red;">Fang Gu</span>](fanggu.md).  
+  Le Charmeur de Serpents devient le [<span style="color:red;">Fang Gu</span>](fanggu.md), et le [<span style="color:red;">Fang Gu</span>](fanggu.md) devient Charmeur de Serpents tous deux restent maléfiques.
 
 ---
 
 ## <span style="color:#4ea3ff;">Astuces & Conseils</span>  
 
-- Le Charmeur de Serpent vit dans un équilibre fragile :  
+- Le Charmeur de Serpents vit dans un équilibre fragile :  
   à tout moment, il peut basculer du Bien vers le Mal.  
 
 - Tant qu’il reste bon, il obtient une information **très fiable** :
@@ -150,20 +152,20 @@ Chaque nuit, il choisit un joueur :
 - Si vous restez bon, partagez vos infos à un moment stratégique :  
   les garder secrètes trop longtemps ne profite qu’au Mal.  
 
-- Si vous devenez maléfique, **ne révélez jamais** que vous êtes le Charmeur.  
+- Si vous devenez maléfique, **ne révélez jamais** que vous êtes le Charmeur de Serpents.  
   Trouvez un autre bluff crédible immédiatement.  
 
 - Si vous devenez Démon, soyez prêt :  
-  inventez une nouvelle couverture, ou prétendez que **vous** avez été charmé par le vrai Charmeur.  
+  inventez une nouvelle couverture, ou prétendez que **vous** avez été charmé par le vrai Charmeur de Serpents.  
   Une réaction rapide et confiante peut semer le doute et désorienter vos anciens alliés.  
 
-- Si vous étiez le Démon et devenez Charmeur :  
+- Si vous étiez le Démon et devenez Charmeur de Serpents :  
   jouez pour le Bien ! Vous pouvez choisir de **révéler votre alignement**, dénoncer vos anciens sbires,  
   ou au contraire rester discret quelques jours pour les piéger à leur tour.  
 
 ---
 
-## <span style="color:#4ea3ff;">Bluffer Charmeur de Serpent</span>  
+## <span style="color:#4ea3ff;">Bluffer Charmeur de Serpents</span>  
 
 - Attendez **quelques jours** avant d’annoncer votre rôle.  
   Restez discret, ou prétendez être un autre [<span style="color:blue;">Villageois</span>](../villageois.md) crédible.  
@@ -178,7 +180,7 @@ Chaque nuit, il choisit un joueur :
 
 - Gagnez la confiance des joueurs, par exemple, prétendre qu’un joueur n’est *pas* le [<span style="color:red;">Démon</span>](../demons.md) le rendra souvent bienveillant envers vous.  
 
-- Si vous êtes le [<span style="color:red;">Démon</span>](../demons.md), vous pouvez même prétendre avoir été **changé en bon** par un Charmeur !  
+- Si vous êtes le [<span style="color:red;">Démon</span>](../demons.md), vous pouvez même prétendre avoir été **changé en bon** par un Charmeur de Serpents !  
   C’est risqué, mais crédible en fin de partie si bien joué.  
 
 - Si vous êtes un [<span style="color:red;">Sbire</span>](../sbires.md), vous pouvez aussi prétendre avoir été “le Démon devenu bon”,
