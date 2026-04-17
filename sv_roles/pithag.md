@@ -77,8 +77,8 @@ image: /images/Icon_pithag.png
 
 ##  <span style="color:#d45b5b">Résumé</span>
 
-> « Chaque nuit*, choisissez un joueur et un rôle qu’il devient (s’il n’est pas déjà en jeu).
-> Si un <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> est créé, les morts de cette nuit sont arbitraires. »
+> <strong>« Chaque nuit*, choisissez un joueur et un rôle qu’il devient (s’il n’est pas déjà en jeu).</strong> 
+> <strong>Si un <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> est créé, les morts de cette nuit sont arbitraires. »</strong> 
 
 La <a href="./pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a> transforme les joueurs en d’autres rôles !  
 Chaque nuit (sauf la première), elle choisit un joueur et un rôle qui n’est pas déjà présent dans la partie.  
