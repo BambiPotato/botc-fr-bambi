@@ -82,7 +82,7 @@ Le <strong>Vortox</strong> rend toutes les informations fausses.
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Toutes les <strong>informations données aux <span style="color:#4ea3ff; font-weight:bold;">Villageois</span></strong> sont <strong>fausses</strong>.</li>
   <li>Chaque fois qu’un Villageois obtient des informations grâce à sa capacité, il reçoit de fausses informations. Même s’il est ivre ou empoisonné, ces informations sont forcément fausses.</li>
-  <li>Si <strong>aucune exécution</strong> n’a lieu durant la journée (les exils ne comptent pas), <strong>l’équipe maléfique gagne immédiatement</strong>.</li>
+  <li>Si <strong>aucune exécution</strong> n’a lieu durant la journée (les exils des Voyageurs ne comptent pas), <strong>l’équipe maléfique gagne immédiatement</strong>.</li>
 </ul>
 
 ---
