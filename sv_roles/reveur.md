@@ -175,8 +175,7 @@ Le Rêveur ne peut **pas se choisir lui-même**, ni choisir un [<span style="col
 
 - Dites que vous avez choisi des joueurs déjà connus pour “confirmer” leurs rôles :  
   - « Le Crieur est soit Crieur, soit [<span style="color:red;">Vigormortis</span>](vigormortis.md). »
-  
-  — Cela renforce la confiance envers vous.  
+      - Cela renforce la confiance envers vous.  
 
 - Pour rendre un joueur bon suspect, prétendez avoir appris qu’il est un rôle secret ou discret :  
   [Sage](sage.md), [Mutant](mutant.md), [Dulcinée](dulcinee.md) ou [Maladroit](maladroit.md).  
