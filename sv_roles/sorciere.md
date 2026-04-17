@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Sorcière
+description: "Chaque nuit, choisissez un joueur : s’il fait une nomination demain, il meurt.Si seulement 3 joueurs sont encore en vie, vous perdez cette capacité." 
+image: /images/Icon_witch.png
 ---
 
 <!-- 🔴 Logo en haut à gauche -->
@@ -72,8 +74,7 @@ title: Sorcière
 ##  <span style="color:#d45b5b;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Chaque nuit, choisissez un joueur :<br>
-  s’il fait une nomination demain, il meurt.<br>
+  <strong>« Chaque nuit, choisissez un joueur : s’il fait une nomination demain, il meurt.<br>
   Si seulement 3 joueurs sont encore en vie, vous perdez cette capacité. »</strong>
 </p>
 
@@ -90,7 +91,7 @@ La <strong>Sorcière</strong> jette un sort aux joueurs, de sorte que ceux qui n
 
 ---
 
-##  <span style="color:#d45b5b;">Comment Conter</span>
+#  <span style="color:#d45b5b;">Comment Conter</span>
 
 <ol style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
@@ -114,7 +115,7 @@ La <strong>Sorcière</strong> jette un sort aux joueurs, de sorte que ceux qui n
 
 ---
 
-##  <span style="color:#d45b5b;">Exemples</span>
+#  <span style="color:#d45b5b;">Exemples</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
@@ -139,7 +140,7 @@ La <strong>Sorcière</strong> jette un sort aux joueurs, de sorte que ceux qui n
 
 ---
 
-##  <span style="color:#d45b5b;">Astuces & Stratégies</span>
+#  <span style="color:#d45b5b;">Astuces & Stratégies</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-weight:bold; margin-left:40px;">
    En tant que Sorcière
@@ -176,7 +177,7 @@ La <strong>Sorcière</strong> jette un sort aux joueurs, de sorte que ceux qui n
 
 ---
 
-##  <span style="color:#d45b5b;">Bluff et Variantes</span>
+#  <span style="color:#d45b5b;">Bluff et Variantes</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Simulez votre mort.</strong><br>Vous pouvez prétendre avoir été maudit pour détourner l’attention.</li>
@@ -187,7 +188,7 @@ La <strong>Sorcière</strong> jette un sort aux joueurs, de sorte que ceux qui n
 
 ---
 
-##  <span style="color:#d45b5b;">Combattre la Sorcière</span>
+#  <span style="color:#d45b5b;">Combattre la Sorcière</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Ne laissez pas la peur bloquer les votes.</strong><br>Si vous ne nominez jamais, le Démon ne mourra pas non plus.</li>
