@@ -72,9 +72,9 @@ Ce casse-tête infernal se dévoile peu à peu… »*
 
 ## <span style="color:#4ea3ff;">Résumé</span>  
 
-> « **Si le Démon vous tue, vous apprenez de qui il s’agit entre deux joueurs.** »
+> « **Si le Démon vous tue, vous apprenez qu’il est parmi 2 joueurs..** »
 
-Le sage ne sait rien de son vivant, mais apprend l'information la plus importante de toutes au moment de sa mort : qui l'a tué.
+Le sage ne sait rien de son vivant, mais au moment de sa mort, il apprend l’information la plus importante : qui l’a tué.
 
 - Le Sage n'obtient cette information que lorsqu'il est tué par un démon. L'exécution ne compte pas.
 
