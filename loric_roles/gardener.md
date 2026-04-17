@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Jardinier
-description: Le Conteur assigne manuellement le rôle d’un ou plusieurs joueurs.
+description: Le Conteur assigne les rôles de tous les joueurs.
 image: /images/Icon_gardener.png
 ---
 
@@ -24,8 +24,8 @@ image: /images/Icon_gardener.png
 #  <span style="color:#7fd1ae; font-weight:bold; font-size:18px;">Jardinier</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Oh non, ça ne va pas du tout. Nous avons mélangé l’aconit avec la digitale, et la ciguë étouffe l’hellébore !  
-  Oh là là, il va falloir tout recommencer. Passez-moi mes sécateurs. »
+« Oh non, ça ne va pas du tout. Nous avons mélangé l’aconit avec la digitale, et la ciguë étouffe l’hellébore !  
+Oh là là, il va falloir tout recommencer. Passez-moi mes sécateurs. »
 </p>
 
 ---
@@ -47,33 +47,27 @@ image: /images/Icon_gardener.png
   </li>
 </ul>
 
-
 ---
 
 ##  <span style="color:#7fd1ae;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>« Le Conteur assigne manuellement le rôle d’un ou plusieurs joueurs. »</strong>
+<strong>« Le Conteur assigne les rôles de tous les joueurs. »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Ajoutez le <strong>jardinier</strong> pour permettre au Conteur de choisir quel rôle sera attribué à un ou plusieurs joueurs avant le début de la partie.  
-Ce Loric donne au Conteur un contrôle total sur la distribution des rôles, utile pour éviter les doublons, équilibrer une session, ou adapter la partie selon les préférences des joueurs et joueuses.
+Le <strong>Jardinier</strong> supprime le hasard lors de la mise en place.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Le <strong>Jardinier</strong> doit être annoncé au début de la partie.</li>
-  <li>Avant d’envoyer les rôles, le Conteur choisit quels joueurs recevront quels jetons.</li>
-  <li>Il peut attribuer ou échanger librement les rôles concernés.</li>
-  <li>Ce Loric est idéal pour :
-    <ul style="margin-left:20px;">
-      <li>éviter qu’un joueur reçoive toujours le même alignement,</li>
-      <li>adapter une partie à des préférences personnelles,</li>
-      <li>corriger un déséquilibre entre bons et maléfiques,</li>
-      <li>ou introduire des rôles expérimentaux sans perturber la structure du script.</li>
-    </ul>
-  </li>
-  <li>Le <strong>Jadinier</strong> est conçu uniquement pour l’application officielle et les scripts personnalisés.</li>
+
+  <li>Le Conteur choisit quel joueur reçoit quel rôle.</li>
+
+  <li>Les règles normales de mise en place doivent être respectées.</li>
+
+  <li>Le but du <strong>Jardinier</strong> n’est pas de permettre aux joueurs de choisir leur rôle,  
+      mais de permettre au Conteur de créer un type de partie spécifique ou une énigme logique.</li>
+
 </ul>
 
 ---
@@ -81,25 +75,34 @@ Ce Loric donne au Conteur un contrôle total sur la distribution des rôles, uti
 ## <span style="color:#7fd1ae;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Avant le début de la partie, déclarez que le <strong>Jardinier</strong> est en jeu.  
-Décidez quels joueurs recevront les rôles affectés par le Jardinier, puis assignez ou échangez les jetons selon votre choix.  
-Une fois les rôles distribués, lancez la partie normalement.  
-Le <strong>Jardinier</strong> ne modifie rien durant la partie, il agit uniquement sur la distribution initiale.
+Lors de la mise en place, au lieu de placer les jetons de rôle dans le sac, placez-les face cachée sur la place du village, ou sur un support stable comme un livre, en cercle ou selon une forme correspondant à la disposition physique des joueurs.
+</p>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+Un par un, dans le sens des aiguilles d’une montre, invitez les joueurs à prendre le jeton correspondant à leur position.
 </p>
 
 ---
 
 ## <span style="color:#7fd1ae;">Exemples</span>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+Le Conteur souhaite créer une partie avec le 
+<a href="../roles_experimentaux/wraith.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Spectre</a>, 
+le <a href="../roles_experimentaux/lordoftyphon.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Seigneur de Typhon</a>, 
+le <a href="../sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a>, 
+le <a href="../roles_experimentaux/zealot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Zélote</a>, 
+le <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a>, 
+l’<a href="../roles_experimentaux/alsaahir.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alsaahir</a>, 
+la <a href="../roles_experimentaux/banshee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Banshee</a>, 
+la <a href="../bmr_roles/highpriestess.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Grande Prêtresse</a>, 
+et le <a href="../sv_roles/balloonist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aéronaute</a>.
+</p>
 
-  <li>Le <a href="../roles_experimentaux/vizir.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a> est présent dans le script, mais <strong>Isabelle</strong> n’aime pas jouer un rôle maléfique révélé.<br>  
-  Le Conteur place le <strong>Jardinier</strong> en jeu et attribue directement à Isabelle le rôle d’<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> à la place.</li><br>
-
-  <li><strong>Vincent</strong> a été maléfique plusieurs fois de suite aujourd’hui.<br>  
-  Le Conteur place le <strong>Jardinier</strong> en jeu et lui attribue cette fois le rôle du <a href="../tb_roles/cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a>.</li>
-
-</ul>
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+Le Conteur place ces rôles dans cet ordre, face cachée, puis les joueurs prennent leurs jetons.  
+<strong>Ben</strong> est le Seigneur de Typhon et <strong>Julien</strong> est la Grande Prêtresse.
+</p>
 
 ---
 
