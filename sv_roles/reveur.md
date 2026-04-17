@@ -171,7 +171,7 @@ Le Rêveur ne peut **pas se choisir lui-même**, ni choisir un [<span style="col
 
 - Encouragez les joueurs à révéler leur rôle, puis hochez la tête d’un air sûr :  
   - *« C’est bien ce que je pensais. »*  
-  - Cela donne l’impression que vous êtes vraiment le Rêveur.  
+     - Cela donne l’impression que vous êtes vraiment le Rêveur.  
 
 - Dites que vous avez choisi des joueurs déjà connus pour “confirmer” leurs rôles :  
   - « Le Crieur est soit Crieur, soit [<span style="color:red;">Vigormortis</span>](vigormortis.md). »
@@ -188,10 +188,10 @@ Le Rêveur ne peut **pas se choisir lui-même**, ni choisir un [<span style="col
 - En parlant des joueurs maléfiques, donnez-leur plutôt un rôle de [<span style="color:red;">Sbire</span>], cela attire moins les exécutions.  
 
 - Attendez quelques jours avant de révéler que vous êtes le Rêveur.  
-  - Cela vous laisse le temps d’établir votre histoire.  
+    - Cela vous laisse le temps d’établir votre histoire.  
 
 - Et surtout : **ne dites jamais** qu’un joueur est possiblement le [<span style="color:red;">Vortox</span>](vortox.md) !  
-  - Si un [<span style="color:red;">Vortox</span>](vortox.md) est en jeu, vous ne pouvez pas avoir reçu cette information, cela vous trahirait immédiatement.  
+    - Si un [<span style="color:red;">Vortox</span>](vortox.md) est en jeu, vous ne pouvez pas avoir reçu cette information, cela vous trahirait immédiatement.  
 
 ---
 
