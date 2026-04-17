@@ -132,11 +132,11 @@ Il ne l’apprend qu’une seule fois, puis plus rien.
   Vous pouvez également inciter les Marginaux à bluffer en mentant sur vos informations et en prétendant qu'il y a au moins un Marginal en jeu ; 
   un Sbire ou un Démon pourrait alors exploiter cette affirmation pour étayer son bluff.
 
-- Partager votre info tôt peut confirmer un joueur du Bien et appuyer d’autres [Villageois](../glossaire.md#villageois) comme l’[Empathe](empathique.md) ou le [Corneille](gardien.md).  
+- Partager votre info tôt peut confirmer un joueur un bon et appuyer d’autres [Villageois](../glossaire.md#villageois) comme l’[Empathe](empathique.md) ou la [Corneille](gardien.md).  
 
 - Garder votre info pour plus tard peut aussi être stratégique : sur la dernière journée, révéler qu’un joueur n’est pas le [Démon](../glossaire.md#démon) réduit le choix de 3 à 2 suspects.  
 
-- Comme vous avez toutes vos infos dès la première nuit, vous pouvez confirmer en nommant une [Innocente](vierge.md).  
+- Comme vous avez toutes vos infos dès la première nuit, vous pouvez confirmer en nommant une [Immaculée](vierge.md).  
   Ou alors, prétendre être un rôle plus puissant pour détourner le <span style="color:red">**Démon**</span> de cibles clés comme le [Moine](moine.md) ou le [Fossoyeur](croquemort.md).  
 
 - Attention à l’[Ivrogne](ivrogne.md) : si les deux joueurs vus sont en fait Ivrogne, il est crucial de le dire vite, surtout si l’un pense être un rôle à informations.  
@@ -159,7 +159,7 @@ Il ne l’apprend qu’une seule fois, puis plus rien.
   - Nommer deux bons joueurs comme « [Ivrogne](ivrogne.md) », ce qui sème le doute dans leurs infos.  
   - Nommer un allié maléfique comme potentiel Ivrogne : s’il se contredit, ce n’est pas grave !  
 
-- Vous pouvez révéler très tôt quel Étranger est « en jeu », sans préciser qui.  
+- Vous pouvez révéler très tôt quel Marginal est « en jeu », sans préciser qui.  
   Cela permet :  
   - qu’un joueur du Bien confirme vos dires,  
   - ou qu’un joueur du Mal saute sur l’occasion pour bluffer.  
