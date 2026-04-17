@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sorcière
-description: "Chaque nuit, choisissez un joueur : s’il fait une nomination demain, il meurt.Si seulement 3 joueurs sont encore en vie, vous perdez cette capacité." 
+description: "Chaque nuit, choisissez un joueur : s’il fait une nomination demain, il meurt. Si seulement 3 joueurs sont encore en vie, vous perdez cette capacité."
 image: /images/Icon_witch.png
 ---
 
@@ -12,7 +12,7 @@ image: /images/Icon_witch.png
   </a>
 </p>
 
----
+<hr>
 
 <!-- Sorcière -->
 
@@ -24,11 +24,11 @@ image: /images/Icon_witch.png
   </a>
 </div>
 
-# <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Sorcière</span>
+<h1><span style="color:#d45b5b; font-weight:bold; font-size:18px;">Sorcière</span></h1>
 
----
+<hr>
 
-##  <span style="color:#d45b5b;">Informations</span>
+<h2><span style="color:#d45b5b;">Informations</span></h2>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
@@ -47,7 +47,6 @@ image: /images/Icon_witch.png
   </li>
 </ul>
 
-
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
   « Trois gouttes de sang de chèvre.<br>
   Une mèche de cheveux, arrachée dans la colère.<br>
@@ -55,9 +54,9 @@ image: /images/Icon_witch.png
   Marchez du pied gauche sur ce sentier d’épines… et ne vous retournez pas. »
 </p>
 
----
+<hr>
 
-##  Apparaît dans  
+<h2>Apparaît dans</h2>
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../sv.html" style="text-decoration:none;">
@@ -67,11 +66,13 @@ image: /images/Icon_witch.png
   </a>
 </div>
 
-> *Cult of the Clocktower – épisode par Andrew Nathenson*
+<blockquote>
+<p><em>Cult of the Clocktower – épisode par Andrew Nathenson</em></p>
+</blockquote>
 
----
+<hr>
 
-##  <span style="color:#d45b5b;">Résumé</span>
+<h2><span style="color:#d45b5b;">Résumé</span></h2>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Chaque nuit, choisissez un joueur : s’il fait une nomination demain, il meurt.<br>
@@ -86,12 +87,12 @@ La <strong>Sorcière</strong> jette un sort aux joueurs, de sorte que ceux qui n
   <li>Chaque nuit, la Sorcière choisit un joueur à maudire.</li>
   <li>Ce joueur meurt s’il fait une nomination le jour suivant,  sa nomination est tout de même prise en compte.</li>
   <li>La malédiction de la Sorcière ne dure qu’une seule journée, mais la Sorcière peut maudire le même joueur encore et encore chaque nuit.</li>
-  <li>Dès qu'il ne reste plus que trois joueurs en vie, la malédiction de la Sorcière est immédiatement levée et la Sorcière cesse d'agir.
+  <li>Dès qu'il ne reste plus que trois joueurs en vie, la malédiction de la Sorcière est immédiatement levée et la Sorcière cesse d'agir.</li>
 </ul>
 
----
+<hr>
 
-#  <span style="color:#d45b5b;">Comment Conter</span>
+<h1><span style="color:#d45b5b;">Comment Conter</span></h1>
 
 <ol style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
@@ -113,9 +114,9 @@ La <strong>Sorcière</strong> jette un sort aux joueurs, de sorte que ceux qui n
   </li>
 </ol>
 
----
+<hr>
 
-#  <span style="color:#d45b5b;">Exemples</span>
+<h1><span style="color:#d45b5b;">Exemples</span></h1>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
@@ -138,9 +139,9 @@ La <strong>Sorcière</strong> jette un sort aux joueurs, de sorte que ceux qui n
   </li>
 </ul>
 
----
+<hr>
 
-#  <span style="color:#d45b5b;">Astuces & Stratégies</span>
+<h1><span style="color:#d45b5b;">Astuces & Stratégies</span></h1>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-weight:bold; margin-left:40px;">
    En tant que Sorcière
@@ -175,9 +176,9 @@ La <strong>Sorcière</strong> jette un sort aux joueurs, de sorte que ceux qui n
   <li><strong>Les morts par malédiction sont souvent bons.</strong><br>La Sorcière cible presque toujours des villageois. Faites confiance à leurs informations.</li>
 </ul>
 
----
+<hr>
 
-#  <span style="color:#d45b5b;">Bluff et Variantes</span>
+<h1><span style="color:#d45b5b;">Bluff et Variantes</span></h1>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Simulez votre mort.</strong><br>Vous pouvez prétendre avoir été maudit pour détourner l’attention.</li>
@@ -186,9 +187,9 @@ La <strong>Sorcière</strong> jette un sort aux joueurs, de sorte que ceux qui n
   </li>
 </ul>
 
----
+<hr>
 
-#  <span style="color:#d45b5b;">Combattre la Sorcière</span>
+<h1><span style="color:#d45b5b;">Combattre la Sorcière</span></h1>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Ne laissez pas la peur bloquer les votes.</strong><br>Si vous ne nominez jamais, le Démon ne mourra pas non plus.</li>
@@ -196,7 +197,7 @@ La <strong>Sorcière</strong> jette un sort aux joueurs, de sorte que ceux qui n
   <li><strong>Analysez les morts.</strong><br>Si des joueurs puissants meurent en nommant, elle a ciblé des rôles utiles : c’est une information précieuse.</li>
 </ul>
 
----
+<hr>
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
