@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Vigormortis
+description: "Chaque nuit*, choisissez un joueur : il meurt.Les Sbires que vous tuez gardent leur capacité et empoisonnent un Villageois voisin.[-1 Marginal]" 
+image: /images/Icon_vigormortis.png
 ---
 
 <!-- 🔴 Logo en haut à gauche -->
@@ -75,8 +77,8 @@ title: Vigormortis
 
 ##  <span style="color:#d45b5b">Résumé</span>
 
-> « Chaque nuit*, choisissez un joueur : il meurt.  
-> Les <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> que vous tuez <strong>gardent leur capacité</strong> et <strong>empoisonnent un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> voisin</strong>.  
+> <strong>« Chaque nuit*, choisissez un joueur : il meurt.</strong>  
+> <strong>Les <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a></strong>  que vous tuez <strong>gardent leur capacité</strong> et <strong>empoisonnent un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> voisin</strong>.  
 > <strong>[-1 <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a>]</strong> »
 
 Le <a href="./vigormortis.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vigormortis</a> tue ses propres <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>, mais ces derniers <strong>conservent leur pouvoir</strong> tant qu’il est vivant.  
