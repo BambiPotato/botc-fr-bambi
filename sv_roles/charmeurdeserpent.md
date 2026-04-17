@@ -78,7 +78,7 @@ image: /images/Icon_snakecharmer.png
 ## <span style="color:#4ea3ff;">Résumé</span>  
 
 > **« Chaque nuit, choisissez un joueur vivant :**  
-> **si c'est un [<span style="color:red;">Démon</span>](../demons.md), vous échangez vos rôles et vos alignements avec lui, et il est **empoisonné**.** »
+> **si c'est un [<span style="color:red;">Démon</span>](../demons.md), vous échangez vos rôles et vos alignements avec lui, et il est empoisonné.** »
 
 Le Charmeur de Serpents découvre nuit après nuit des joueurs qui ne sont pas le [<span style="color:red;">Démon</span>](../demons.md)...  
 Mais s’il devient trop avide ou trop audacieux, il **devient lui-même le Démon**.
