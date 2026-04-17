@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Cerenovus
+description: "Chaque nuit, choisissez un joueur et un rôle bon :il doit être « fou » d’être ce rôle le lendemain ou il pourrait être exécuté."
+image: /images/Icon_cerenovus.png
 ---
 
 <!-- 🔴 Logo en haut à gauche -->
@@ -76,21 +78,16 @@ title: Cerenovus
 </h2>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
-  « Chaque nuit, choisissez un joueur et un rôle bon :<br>
-  il doit être <strong>« fou »</strong> d'être ce rôle le lendemain<br>
-  ou il pourrait être exécuté. »
+  <strong>« Chaque nuit, choisissez un joueur et un rôle bon :il doit être « fou » d’être ce rôle le lendemain ou il pourrait être exécuté. »</strong> 
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
-  Le <strong>Cerenovus</strong> peut rendre n’importe quel joueur “fou”,<br>
-  l’obligeant à se comporter comme un autre rôle bon pendant toute la journée suivante.<br>
-  S’il ne fait <strong>aucun effort crédible</strong>, le Conteur peut le <strong>faire exécuter immédiatement</strong>,<br>
-  même en dehors du processus de nomination.
+  Le <strong>Cerenovus</strong> peut rendre n’importe quel joueur “fou”,l’obligeant à se comporter comme un autre rôle bon pendant toute la journée suivante.<br>
+  S’il ne fait <strong>aucun effort crédible</strong>, le Conteur peut le <strong>faire exécuter immédiatement</strong>, même en dehors du processus de nomination.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
-  Cette <strong>folie</strong> est publique :<br>
-  le joueur doit <strong>agir et parler</strong> comme s’il croyait sincèrement être ce rôle.
+  Cette <strong>folie</strong> est publique :le joueur doit <strong>agir et parler</strong> comme s’il croyait sincèrement être ce rôle.
 </p>
 
 <hr>
@@ -102,26 +99,22 @@ title: Cerenovus
 <ol style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
     <strong>Chaque nuit</strong>, réveillez le Cerenovus :<br>
-    - Il désigne <strong>un joueur</strong> et <strong>un rôle bon</strong> (Villageois ou Étranger).<br>
+    - Il désigne <strong>un joueur</strong> et <strong>un rôle bon</strong> (Villageois ou Marginal).<br>
     - Marquez ce joueur avec un jeton de rappel <strong>FOU</strong>.
   </li>
   <li style="margin-top:8px;">
     <strong>Réveillez ensuite le joueur ciblé :</strong><br>
-    - Montrez-lui le jeton <em>« Ce rôle t’a choisi »</em> puis celui du <strong>Cerenovus</strong>,<br>
-    et enfin le rôle dont il doit être fou.
+    - Montrez-lui le jeton <em>« Ce rôle t’a sélectionné »</em> puis celui du <strong>Cerenovus</strong>, et enfin le rôle dont il doit être fou.
   </li>
   <li style="margin-top:8px;">
     <strong>Le lendemain</strong>, observez sa manière de jouer.<br>
-    - S’il <strong>ne fait pas d’effort visible</strong> pour jouer son rôle,<br>
-    vous pouvez <strong>le déclarer exécuté immédiatement.</strong><br>
-    - Si cette exécution a lieu pendant la journée,<br>
-    <strong>aucune autre exécution ne peut avoir lieu ce jour-là.</strong>
+    - S’il <strong>ne fait pas d’effort visible</strong> pour jouer son rôle, vous pouvez <strong>le déclarer exécuté immédiatement.</strong><br>
+    - Si cette exécution a lieu pendant la journée, <strong>aucune autre exécution ne peut avoir lieu ce jour-là.</strong>
   </li>
 </ol>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
-  Vous pouvez choisir <strong>de ne pas exécuter</strong> un joueur maléfique devenu fou,<br>
-  pour éviter une victoire accidentelle de l’équipe du Mal.
+  Vous pouvez choisir <strong>de ne pas exécuter</strong> un joueur maléfique devenu fou, pour éviter une victoire accidentelle de l’équipe du Mal.
 </p>
 
 <hr>
@@ -134,24 +127,24 @@ title: Cerenovus
   <li>
     Le Cerenovus rend le
     <a href="./barbier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Barbier</a>
-    fou du rôle de
-    <a href="./savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a>.
-    Le lendemain, le joueur prétend être le Savant et invente deux faits “logiques”.
+    fou d'être le
+    <a href="./savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a>.<br>
+    Le lendemain, le joueur prétend être le <a href="./savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a> et invente deux faits “logiques”.<br>
     Quand on lui demande s’il est fou, il répond “non” avec assurance : il survit.
   </li>
   <li>
     L’
     <a href="./artiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Artiste</a>
-    mort devient fou du rôle de
-    <a href="./sage.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a>.
-    Le lendemain, il ne mentionne jamais le Sage : le Conteur l’exécute immédiatement.
+    mort devient fou d'être le
+    <a href="./sage.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a>.<br>
+    Le lendemain, il ne mentionne jamais le <a href="./sage.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a> : le Conteur l’exécute immédiatement.
   </li>
   <li>
     Le Cerenovus rend la
     <a href="./fleuriste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a>
-    folle du rôle d’
-    <a href="./horloger.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Horloger</a>.
-    Elle dit avoir obtenu un “2”, mais murmure à un voisin qu’elle ment.
+    fou d'être l'
+    <a href="./horloger.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Horloger</a>.<br>
+    Elle dit avoir obtenu un “2”, mais murmure à un voisin qu’elle ment.<br>
     Le Conteur, ayant entendu, la fait exécuter.
   </li>
 </ul>
@@ -165,7 +158,7 @@ title: Cerenovus
 <h3 style="color:#d45b5b; font-weight:bold; margin-left:20px;">Pour le Cerenovus</h3>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
-  La “folie” est un outil extrêmement puissant :<br>
+  La <strong>folie</strong> est un outil extrêmement puissant :<br>
   elle peut <strong>museler</strong>, <strong>déstabiliser</strong> ou <strong>diviser</strong> les joueurs bons.
 </p>
 
@@ -231,25 +224,22 @@ title: Cerenovus
   <li>
     <strong>Comprenez la folie.</strong><br>
     Si vous êtes rendu fou, <strong>jouez le rôle à fond</strong> !<br>
-    Dites que vous êtes ce personnage, donnez de fausses infos crédibles,<br>
-    et défendez-vous avec conviction.
+    Dites que vous êtes ce rôle, donnez de fausses infos crédibles, et défendez-vous avec conviction.
   </li>
   <li>
-    <strong>Soyez observé·e·s.</strong><br>
+    <strong>Soyez observé.</strong><br>
     Le Conteur juge votre sincérité, pas vos mots précis.<br>
     Il faut paraître convaincant, enthousiaste et impliqué.
   </li>
   <li>
     <strong>Parfois, mourir est acceptable.</strong><br>
     Si votre vraie info est capitale (ex.
-    <a href="./oracle.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Oracle</a>),<br>
-    révélez-la et acceptez d’être exécuté.<br>
+    <a href="./oracle.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Oracle</a>), révélez-la et acceptez d’être exécuté.<br>
     Le village aura au moins la vérité.
   </li>
   <li>
     <strong>Attention aux espions !</strong><br>
-    Si vous murmurez à un voisin que vous êtes fou,<br>
-    et que c’est un Sbire… il peut vous dénoncer.<br>
+    Si vous murmurez à un voisin que vous êtes fou, et que c’est un Sbire… il peut vous dénoncer.<br>
     Le Conteur vous exécutera sur-le-champ.
   </li>
   <li>
@@ -259,13 +249,11 @@ title: Cerenovus
   </li>
   <li>
     <strong>Suivez les traces.</strong><br>
-    Si deux joueurs disent avoir été rendus fous la même nuit,<br>
-    c’est impossible : l’un des deux ment.
+    Si deux joueurs disent avoir été rendus fous la même nuit, c’est impossible : l’un des deux ment.
   </li>
   <li>
     <strong>Déduisez l’identité du Cerenovus.</strong><br>
-    Le Cerenovus choisit presque toujours <strong>des joueurs bons</strong>,<br>
-    rarement le Démon, c’est trop risqué.<br>
+    Le Cerenovus choisit presque toujours <strong>des joueurs bons</strong>, rarement le Démon, c’est trop risqué.<br>
     Gardez donc ces cibles en vie, et cherchez le véritable mal ailleurs.
   </li>
 </ul>
