@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Philosophe
+description: description: " Une fois par partie, pendant la nuit, choisissez un rôle bon : vous gagnez sa capacité.Si ce rôle est en jeu, il est ivre."
+image: /images/Icon_philosopher.png
 ---
 
 <!-- 🔷 Logo en haut à gauche -->
@@ -72,9 +74,7 @@ title: Philosophe
 
 ## <span style="color:#4ea3ff;">Résumé</span>  
 
-> « Une fois par partie, pendant la nuit, choisissez un rôle bon : 
-> vous gagnez **sa capacité**.  
-> Si ce rôle est en jeu, il est  **ivre.** »
+>  <strong>« Une fois par partie, pendant la nuit, choisissez un rôle bon : vous gagnez **sa capacité**. Si ce rôle est en jeu, il est  **ivre.** »</strong>
   
 Le Philosophe n’a aucune capacité tant qu’il n’a pas décidé quel rôle il souhaite imiter.
 
@@ -101,7 +101,7 @@ il peut choisir une nouvelle capacité ou la même capacité que précédemment.
 - Chaque nuit, réveillez le Philosophe.  
   Il peut :
   - **Secouer la tête** pour ne rien faire,  
-  - ou **pointer** un rôle bon (Villageois ou Étranger).  
+  - ou **pointer** un rôle bon (Villageois ou Marginal).  
 - S’il pointe un rôle **non en jeu** :
   - Remplacez son jeton par celui du rôle choisi,  
   - Marquez-le avec le rappel **EST LE PHILOSOPHE**.  
@@ -116,15 +116,15 @@ il peut choisir une nouvelle capacité ou la même capacité que précédemment.
 
 
 - Lors de la première nuit, le Philosophe choisit de gagner la capacité du rôle du [Rêveur](reveur.md). 
-  - À partir de ce moment-là, il possède la capacité du [Rêveur](reveur.md) et agit lorsque le [Rêveur](reveur.md) agirait normalement.
+    - À partir de ce moment-là, il possède la capacité du [Rêveur](reveur.md) et agit lorsque le [Rêveur](reveur.md) agirait normalement.
 
 - Lors de la troisième nuit, le Philosophe choisit de gagner la capacité du rôle de l’[Horloger](horloger.md). 
- - Cette nuit-là, il apprend la distance entre le Démon et son Sbire le plus proche.
+  - Cette nuit-là, il apprend la distance entre le Démon et son Sbire le plus proche.
 
 - Un [Artiste](artiste.md) est en jeu. Le Philosophe choisit de gagner la capacité du rôle de l’[Artiste](artiste.md). 
- - L’[Artiste](artiste.md) original devient ivre. 
- - Plus tard, le Philosophe meurt, et l’[Artiste](artiste.md) original redevient sobre. 
- - L’[Artiste](artiste.md) original redeviendrait également sobre si le Philosophe devenait ivre.
+   - L’[Artiste](artiste.md) original devient ivre. 
+   - Plus tard, le Philosophe meurt, et l’[Artiste](artiste.md) original redevient sobre. 
+   - L’[Artiste](artiste.md) original redeviendrait également sobre si le Philosophe devenait ivre.
 
 
 
@@ -140,7 +140,7 @@ il peut choisir une nouvelle capacité ou la même capacité que précédemment.
 ### Quelques choix stratégiques :
 - **[Horloger](horloger.md)** : utile pour confirmer ou contredire une information initiale, même en milieu de partie.  
 - **[Rêveur](reveur.md)** : parfait pour dévoiler les rôles cachés, surtout face à un [<span style="color:red;">Vortox</span>](vortox.md).  
-- **[Charmeur de Serpent](charmeurdeserpent.md)** : détecte le Démon, et vous pouvez même… le devenir.
+- **[Charmeur de Serpents](charmeurdeserpent.md)** : détecte le Démon, et vous pouvez même… le devenir.
 - **[Mathématicien](mathematicien.md)** : permet de vérifier quelles informations sont fiables.  
 - **[Fleuriste](fleuriste.md)** : redouté des Démons ; savoir quand il a voté est un atout puissant.  
 - **[Crieur](crieur.md)** : idéal contre les [<span style="color:red;">Sbires</span>](../sbires.md) comme la [<span style="color:red;">Sorcière</span>](sorciere.md).  
@@ -169,11 +169,11 @@ il peut choisir une nouvelle capacité ou la même capacité que précédemment.
 -  **Pour neutraliser un joueur gênant :**  
   prétendez avoir choisi *son* rôle.  
   → Son info devient “ivre”, donc suspecte.  
-  > Exemple : « J’ai choisi le rôle du Savant cette nuit, donc son info est fausse. »  
+  - > Exemple : « J’ai choisi le rôle du Savant cette nuit, donc son info est fausse. »  
 
 -  Si votre bluff initial échoue, le Philosophe est une excellente **porte de sortie**.  
   Vous pouvez justifier toute duplication de rôle :  
-  > “Ah, c’est normal qu’on soit deux Savants, je suis le Philosophe.”  
+  - > “Ah, c’est normal qu’on soit deux Savants, je suis le Philosophe.”  
 
 -  Choisissez un rôle **perturbateur** à imiter ([Savant](savant.md), [Couturière](couturiere.md), [Horloger](horloger.md)…)  
   pour semer la confusion dans les infos de la bonne équipe.  
@@ -183,8 +183,8 @@ il peut choisir une nouvelle capacité ou la même capacité que précédemment.
 
 -  Si un autre maléfique bluffe un rôle difficile,  
   prétendez être le Philosophe ayant copié ce rôle :  
-  > “Leur info est fausse parce qu’ils sont ivres à cause de moi.”  
-  Cela crédibilise votre allié tout en vous protégeant.  
+  - > “Leur info est fausse parce qu’ils sont ivres à cause de moi.”  
+  - Cela crédibilise votre allié tout en vous protégeant.  
 
   ---
 
