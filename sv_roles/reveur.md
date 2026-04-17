@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Rêveur
+description: "Chaque nuit, choisissez un joueur (sauf vous-même ni les voyageurs) : vous apprenez 1 rôle bon et 1 rôle maléfique, dont 1 est correct. " 
+image: /images/Icon_dreamer.png
 ---
 
 <!-- 🔷 Logo en haut à gauche -->
@@ -76,8 +78,7 @@ title: Rêveur
 
 ## <span style="color:#4ea3ff;">Résumé</span>  
 
-> « Chaque nuit, choisissez un joueur (sauf vous-même ni les voyageurs) :  
-> vous apprenez **1 rôle bon et 1 rôle maléfique**, dont **1 est correct**. »
+> **« Chaque nuit, choisissez un joueur (sauf vous-même ni les voyageurs) : vous apprenez 1 rôle bon et 1 rôle maléfique, dont 1 est correct. »**
 
 Le Rêveur apprend les rôles des joueurs,mais n’est pas certain que les informations qu’il reçoit soient entièrement exactes.
 
@@ -85,8 +86,8 @@ Chaque nuit, le Rêveur choisit un joueur et apprend **deux rôles** :
 
 - celui que le joueur est et celui que le joueur n'est pas.
 - Le rôle "faux" dépend du type réel de rôle du joueur choisi.
-- Si le Rêveur choisit un joueur qui est un [<span style="color:blue;">Villageois</span>](../villageois.md) ou un [<span style="color:blue;">Étranger</span>](../etrangers.md), le faux rôle est un [<span style="color:red;">Sbire</span>](../sbires.md) ou un [<span style="color:red;">Démon</span>](../demons.md).  
-- Si le joueur est un [<span style="color:red;">Sbire</span>](../sbires.md) ou un [<span style="color:red;">Démon</span>](../demons.md), le faux rôle est un [<span style="color:blue;">Villageois</span>](../villageois.md) ou un [<span style="color:blue;">Étranger</span>](../etrangers.md).  
+- Si le Rêveur choisit un joueur qui est un [<span style="color:blue;">Villageois</span>](../villageois.md) ou un [<span style="color:blue;">Marginal</span>](../etrangers.md), le faux rôle est un [<span style="color:red;">Sbire</span>](../sbires.md) ou un [<span style="color:red;">Démon</span>](../demons.md).  
+- Si le joueur est un [<span style="color:red;">Sbire</span>](../sbires.md) ou un [<span style="color:red;">Démon</span>](../demons.md), le faux rôle est un [<span style="color:blue;">Villageois</span>](../villageois.md) ou un [<span style="color:blue;">Marginal</span>](../etrangers.md).  
 
 Le Rêveur ne peut **pas se choisir lui-même**, ni choisir un [<span style="color:purple;">Voyageur</span>](../voyageurs/voyageurs.md).
 
@@ -96,8 +97,8 @@ Le Rêveur ne peut **pas se choisir lui-même**, ni choisir un [<span style="col
 
 - Chaque nuit, réveillez le Rêveur· 
 - Le Rêveur désigne un joueur.  
-- Si ce joueur est un <span style="color:blue;">Villageois</span> ou un <span style="color:blue;">Étranger</span>, montrez-lui ce jeton et celui d’un <span style="color:red;">Sbire</span> ou [<span style="color:red;">Démon</span>.  
-- Si le joueur est un <span style="color:red;">Sbire</span> ou <span style="color:red;">Démon</span>, montrez-lui ce jeton et celui d’un <span style="color:blue;">Villageois</span> ou <span style="color:blue;">Étranger</span>.  
+- Si ce joueur est un <span style="color:blue;">Villageois</span> ou un <span style="color:blue;">Marginal</span>, montrez-lui ce jeton et celui d’un <span style="color:red;">Sbire</span> ou <span style="color:red;">Démon</span>.  
+- Si le joueur est un <span style="color:red;">Sbire</span> ou <span style="color:red;">Démon</span>, montrez-lui ce jeton de rôle et celui d’un <span style="color:blue;">Villageois</span> ou d'un <span style="color:blue;">Marginal</span>.  
 - Puis rendormez le Rêveur.  
 
 > **Astuce et Conseil pour les Conteurs et Conteuses**
@@ -105,7 +106,7 @@ Le Rêveur ne peut **pas se choisir lui-même**, ni choisir un [<span style="col
 > Pour aider ou tromper subtilement :  
 
 > Si le Rêveur choisit un joueur maléfique, vous pouvez lui montrer le rôle bon que ce joueur prétend incarner, 
-> ou un rôle secret (comme le [Charmeur de serpent](charmeurdeserpent.md), le [Sage](sage.md), le [Mutant](mutant.md) ou le [Maladroit](maladroit.md)).
+> ou un rôle secret (comme le [Charmeur de serpents](charmeurdeserpent.md), le [Sage](sage.md), le [Mutant](mutant.md) ou le [Maladroit](maladroit.md)).
 
 ---
 
@@ -117,10 +118,10 @@ Le Rêveur ne peut **pas se choisir lui-même**, ni choisir un [<span style="col
 - Le [Rêveur](reveur.md) choisit un joueur qui était le [Philosophe](philosophe.md) mais a obtenu la capacité de la [Fleuriste](fleuriste.md) plus tôt dans la nuit.  
   Le Rêveur apprend que ce joueur est soit le [Philosophe](philosophe.md), soit le [<span style="color:red;">Vigormortis</span>](vigormortis.md).  
 
-- Le [<span style="color:red;">Jumeau Maléfique</span>](jumeaumalefique.md) et l’[Artiste](artiste.md) prétendent tous deux être l’[Artiste](artiste.md) .  
-  Cette nuit-là, le [Rêveur](reveur.md) choisit le [<span style="color:red;">Jumeau Maléfique</span>](jumeaumalefique.md).  
-  Si le Conteur souhaite aider l'équipe du Bien, il peut montrer le [<span style="color:red;">Jumeau Maléfique</span>](jumeaumalefique.md) et la [Dulcinée](dulcinee.md).  
-  Mais s’il souhaite aider les Maléfiques, le Conteur montre le [<span style="color:red;">Jumeau Maléfique</span>](jumeaumalefique.md) et l’[Artiste](artiste.md).  
+- La [<span style="color:red;">Jumelle Maléfique</span>](jumeaumalefique.md) et l’[Artiste](artiste.md) prétendent tous deux être l’[Artiste](artiste.md) .  
+  Cette nuit-là, le [Rêveur](reveur.md) choisit la [<span style="color:red;">Jumelle Maléfique</span>](jumeaumalefique.md).  
+  Si le Conteur souhaite aider l'équipe du Bien, il peut montrer la [<span style="color:red;">Jumelle Maléfique</span>](jumeaumalefique.md) et la [Dulcinée](dulcinee.md).  
+  Mais s’il souhaite aider les Maléfiques, le Conteur montre la [<span style="color:red;">Jumelle Maléfique</span>](jumeaumalefique.md) et l’[Artiste](artiste.md).  
 
 - Le [Rêveur](reveur.md) choisit un joueur qui est le [<span style="color:red;">Vortox</span>](vortox.md).  
   Les informations doivent être fausses, car le Vortox est en jeu.  
@@ -153,7 +154,7 @@ Le Rêveur ne peut **pas se choisir lui-même**, ni choisir un [<span style="col
 - Vérifiez d’abord les joueurs que vous soupçonnez de mentir.  
   Débusquer un menteur est une victoire majeure.  
 
-- Ne vérifiez pas les deux jumeaux d’un [<span style="color:red;">Jumeau Maléfique</span>](jumeaumalefique.md), 
+- Ne vérifiez pas les deux jumelles d’une [<span style="color:red;">Jumeelle Maléfique</span>](jumeaumalefique.md), 
   vous obtiendrez les mêmes deux rôles pour les deux.  
   Seule exception : si vous cherchez à confirmer un [<span style="color:red;">Vortox</span>](vortox.md).  
 
@@ -184,7 +185,7 @@ Le Rêveur ne peut **pas se choisir lui-même**, ni choisir un [<span style="col
 
 - En parlant des bons joueurs, donnez-leur plutôt un rôle de [<span style="color:red;">Démon</span>] que de [<span style="color:red;">Sbire</span>] 
   cela suscite plus de méfiance.  
-- En parlant des joueurs amléfiques, donnez-leur plutôt un rôle de [<span style="color:red;">Sbire</span>], cela attire moins les exécutions.  
+- En parlant des joueurs maléfiques, donnez-leur plutôt un rôle de [<span style="color:red;">Sbire</span>], cela attire moins les exécutions.  
 
 - Attendez quelques jours avant de révéler que vous êtes le Rêveur.  
   - Cela vous laisse le temps d’établir votre histoire.  
