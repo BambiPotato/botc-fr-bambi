@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Philosophe
-description: description: "Une fois par partie, pendant la nuit, choisissez un rôle bon : vous gagnez sa capacité.Si ce rôle est en jeu, il est ivre."
+description: "Une fois par partie, pendant la nuit, choisissez un rôle bon : vous gagnez sa capacité.Si ce rôle est en jeu, il est ivre."
 image: /images/Icon_philosopher.png
 ---
 
