@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Oracle
+description: "Chaque nuit*, vous apprenez combien de joueurs morts sont maléfiques."
+image: /images/Icon_oracle.png
+
 ---
 
 <!-- 🔷 Logo en haut à gauche -->
@@ -74,7 +77,7 @@ Les morts sont agités, et ils pointent en silence vers le nord glacé. »
 
 ## <span style="color:#4ea3ff;">Résumé</span>  
 
-> « Chaque nuit*, vous apprenez combien de joueurs morts sont maléfiques. »
+> <strong>« Chaque nuit*, vous apprenez combien de joueurs morts sont maléfiques. »</strong>
 
 L'Oracle sait combien de joueurs morts sont maléfiques.
 
