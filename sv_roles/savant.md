@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Savant
+description: "Chaque jour, vous pouvez rendre visite au Conteur pour apprendre 2 informations en privé : l’une est vraie et l’autre est fausse." 
+image: /images/savant.png
 ---
 
 <!-- 🔷 Logo en haut à gauche -->
@@ -53,8 +55,7 @@ Soixante-douze allumettes sur le sol… »*
 
 ## <span style="color:#4ea3ff;">Résumé</span>  
 
-> « Chaque jour, vous pouvez rendre visite au Conteur pour apprendre **2 informations en privé** :  
-> l’une est vraie et l’autre est fausse. »
+> **« Chaque jour, vous pouvez rendre visite au Conteur pour apprendre 2 informations en privé : l’une est vraie et l’autre est fausse. »**
 
 Le Savant reçoit des informations folles et extraordinaires, différentes chaque jour et à chaque partie, mais exactement la moitié d’entre elles est totalement fausse.
 
