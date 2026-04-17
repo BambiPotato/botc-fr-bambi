@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Dulcinée
+description: "Quand vous mourez, 1 joueur devient ivre pour le reste de la partie."
+image: /images/Icon_philosopher.png
 ---
 
 <!-- 🔷 Logo en haut à gauche -->
@@ -79,7 +81,7 @@ title: Dulcinée
 </h2>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px;">
-  « Quand vous mourez, <strong>1 joueur devient ivre pour le reste de la partie.</strong> »
+  <strong>« Quand vous mourez, 1 joueur devient ivre pour le reste de la partie. »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px;">
