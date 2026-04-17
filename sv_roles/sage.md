@@ -185,7 +185,7 @@ assez de jours pour vérifier vos soupçons.
     <img src="../images/Icon_recluse-1.png" alt="Reclus" width="24"
          style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../tb_roles/reclus.html"
-       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a> :
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a> :
     La <span style="color:#4ea3ff; font-weight:bold;">Recluse</span> peut être s'enregistrée 
     comme le <span style="color:#d45b5b; font-weight:bold;">Démon</span>
     pour le <span style="color:#d45b5b; font-weight:bold;">Sage</span>.
