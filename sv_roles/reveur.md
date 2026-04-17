@@ -154,7 +154,7 @@ Le Rêveur ne peut **pas se choisir lui-même**, ni choisir un [<span style="col
 - Vérifiez d’abord les joueurs que vous soupçonnez de mentir.  
   Débusquer un menteur est une victoire majeure.  
 
-- Ne vérifiez pas les deux jumelles d’une [<span style="color:red;">Jumeelle Maléfique</span>](jumeaumalefique.md), 
+- Ne vérifiez pas les deux jumelles d’une [<span style="color:red;">Jumelle Maléfique</span>](jumeaumalefique.md), 
   vous obtiendrez les mêmes deux rôles pour les deux.  
   Seule exception : si vous cherchez à confirmer un [<span style="color:red;">Vortox</span>](vortox.md).  
 
@@ -174,7 +174,7 @@ Le Rêveur ne peut **pas se choisir lui-même**, ni choisir un [<span style="col
   - Cela donne l’impression que vous êtes vraiment le Rêveur.  
 
 - Dites que vous avez choisi des joueurs déjà connus pour “confirmer” leurs rôles :  
-  - « Le Crieur est soit Crieur, soit [<span style="color:red;">Vigormortis</span>](vigormortis.md). »
+  - « Le Crieur est soit Crieur, soit [<span style="color:red;">Vigormortis</span>](vigormortis.md). »<br>
   — Cela renforce la confiance envers vous.  
 
 - Pour rendre un joueur bon suspect, prétendez avoir appris qu’il est un rôle secret ou discret :  
