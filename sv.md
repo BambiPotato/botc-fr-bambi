@@ -55,7 +55,7 @@ image: /images/Logo_sects_and_violets.png
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
     <li><a href="./sv_roles/horloger.html" style="color:#4ea3ff; text-decoration:none;">Horloger</a></li>
     <li><a href="./sv_roles/reveur.html" style="color:#4ea3ff; text-decoration:none;">Rêveur</a></li>
-    <li><a href="./sv_roles/charmeurdeserpent.html" style="color:#4ea3ff; text-decoration:none;">Charmeur de Serpent</a></li>
+    <li><a href="./sv_roles/charmeurdeserpent.html" style="color:#4ea3ff; text-decoration:none;">Charmeur de Serpents</a></li>
     <li><a href="./sv_roles/mathematicien.html" style="color:#4ea3ff; text-decoration:none;">Mathématicien</a></li>
     <li><a href="./sv_roles/fleuriste.html" style="color:#4ea3ff; text-decoration:none;">Fleuriste</a></li>
     <li><a href="./sv_roles/crieur.html" style="color:#4ea3ff; text-decoration:none;">Crieur</a></li>
@@ -163,8 +163,8 @@ C’est aussi la première apparition de la <strong>Folie</strong>, qui peut com
   [**Rêveur**](sv_roles/reveur.html)
 </div>
 <div style="text-align:center; display:inline-block; margin: 10px;">
-  [<img src="./images/Icon_snakecharmer.png" alt="Charmeur de Serpent" width="300">](sv_roles/charmeurdeserpent.html)  
-  [**Charmeur de Serpent**](sv_roles/charmeurdeserpent.html)
+  [<img src="./images/Icon_snakecharmer.png" alt="Charmeur de Serpents" width="300">](sv_roles/charmeurdeserpent.html)  
+  [**Charmeur de Serpents**](sv_roles/charmeurdeserpent.html)
 </div>
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_mathematician.png" alt="Mathématicien" width="300">](sv_roles/mathematicien.html)  
