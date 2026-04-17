@@ -68,8 +68,8 @@ image: /images/Logo_sects_and_violets.png
     <li><a href="./sv_roles/sage.html" style="color:#4ea3ff; text-decoration:none;">Sage</a></li>
   </ul>
 
-  <!-- Étrangers -->
-  <p style="font-weight:bold; color:#80aee0; margin-bottom:4px;">Étrangers</p>
+  <!-- Marginaux -->
+  <p style="font-weight:bold; color:#80aee0; margin-bottom:4px;">Marginaux</p>
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
     <li><a href="./sv_roles/mutant.html" style="color:#4ea3ff; text-decoration:none;">Mutant</a></li>
     <li><a href="./sv_roles/barbier.html" style="color:#4ea3ff; text-decoration:none;">Barbier</a></li>
