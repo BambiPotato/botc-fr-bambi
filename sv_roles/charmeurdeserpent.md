@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Charmeur de Serpents
-description: "Chaque nuit, choisissez un joueur vivant : si c’est un Démon, vous échangez vos rôles et vos alignements avec lui, et il est empoisonné.."  
+description: Chaque nuit, choisissez un joueur vivant : si c’est un Démon, vous échangez vos rôles et vos alignements avec lui, et il est empoisonné.  
 image: /images/Icon_snakecharmer.png
 ---
 
