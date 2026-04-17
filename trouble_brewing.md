@@ -62,7 +62,7 @@ image: /images/Logo_trouble_brewing.png
     <li><a href="./tb_roles/maire.html" style="color:#4ea3ff; text-decoration:none;">Maire</a></li>
   </ul>
 
-  <!-- Étrangers -->
+  <!-- Marginaux -->
   <p style="font-weight:bold; color:#80aee0; margin-bottom:4px;">Marginaux</p>
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
     <li><a href="./tb_roles/majordome.html" style="color:#4ea3ff; text-decoration:none;">Majordome</a></li>
