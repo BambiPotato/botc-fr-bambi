@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Sage
+description: "Si le Démon vous tue, vous apprenez qu’il est parmi 2 joueurs." 
+image: /images/Icon_sage.png
 ---
 
 <!-- 🔷 Logo en haut à gauche -->
@@ -72,7 +74,7 @@ Ce casse-tête infernal se dévoile peu à peu… »*
 
 ## <span style="color:#4ea3ff;">Résumé</span>  
 
-> « **Si le Démon vous tue, vous apprenez qu’il est parmi 2 joueurs..** »
+> « **Si le Démon vous tue, vous apprenez qui est le Démon parmi 2 joueurs.** »
 
 Le sage ne sait rien de son vivant, mais au moment de sa mort, il apprend l’information la plus importante : qui l’a tué.
 
@@ -184,7 +186,7 @@ assez de jours pour vérifier vos soupçons.
          style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../tb_roles/reclus.html"
        style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a> :
-    La <span style="color:#4ea3ff; font-weight:bold;">Recluse</span> peut être considérée
+    La <span style="color:#4ea3ff; font-weight:bold;">Recluse</span> peut être s'enregistrée 
     comme le <span style="color:#d45b5b; font-weight:bold;">Démon</span>
     pour le <span style="color:#d45b5b; font-weight:bold;">Sage</span>.
   </li>
