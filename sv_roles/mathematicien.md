@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Mathématicien
+description: "Une fois par partie, pendant la nuit, choisissez un rôle bon : vous gagnez sa capacité.Si ce rôle est en jeu, il est ivre."
+image: /images/Icon_mathematician.png
 ---
 
 <!-- 🔷 Logo en haut à gauche -->
@@ -75,8 +77,7 @@ Ergo, vous êtes ivre »
 
 ## <span style="color:#4ea3ff;">Résumé</span>  
 
-> « Chaque nuit, vous apprenez combien de capacités de joueurs ont **fonctionné anormalement** (depuis l’aube)  
-> à cause de la capacité d’un autre rôle. »
+> **« Chaque nuit, vous apprenez combien de capacités de joueurs ont fonctionné anormalement (depuis l’aube) à cause de la capacité d’un autre rôle. »**
 
 Le Mathématicien sait **combien de choses ont “mal tourné”** depuis le lever du jour.  
 
@@ -88,13 +89,13 @@ Cela inclut :
 - lorsqu’une capacité échoue à cause d’un autre effet (empoisonnement, ivresse, malédiction, etc.).  
 
 Le Mathématicien **ne sait pas à qui** cela est arrivé, seulement **combien de fois**.  
-Il ne détecte **pas ses propres échecs**, et ne “voit” pas directement l’ivresse ou l’empoisonnement,  
+Il ne détecte **pas ses propres échecs**, et ne *voit* pas directement l’ivresse ou l’empoisonnement,  
 mais détecte **leurs effets** lorsque des capacités échouent.  
 
 > Exemple :  
-> - Le [Reclus](reclus.md) apparaissant comme maléfique pour le [Cuistot](../tb_roles/cuistot.md) serait détecté.  
+> - La [Recluse](reclus.md) apparaissant comme maléfique pour le [Cuisinier](../tb_roles/cuistot.md) serait détectée.  
 > - Un [Soldat](../tb_roles/soldat.md) empoisonné mourant d’une attaque du [<span style="color:red;">Démon</span>](../demons.md) aussi.  
-> - En revanche, l'[Empathique](../tb_roles/empathique.md) empoisonné obtenant de véritables informations  **ne serait pas** détecté.
+> - En revanche, l'[Empathe](../tb_roles/empathique.md) empoisonné obtenant de véritables informations  **ne serait pas** détecté.
 
 ---
 
@@ -114,7 +115,7 @@ mais détecte **leurs effets** lorsque des capacités échouent.
   alors que trois joueurs morts le sont réellement. 
   Le Mathématicien apprend **« 1 »** cette nuit-là.  
 
-- Le [Charmeur de Serpent](charmeurdeserpent.md) empoisonné choisit un Villageois et rien ne se passe.  
+- Le [Charmeur de Serpents](charmeurdeserpent.md) empoisonné choisit un Villageois et rien ne se passe.  
   Le [Jongleur](jongleur.md) Ivrgone obtient des infos correctes.  
   Le [Savant](savant.md) apprend deux informations exactes.  
   → Le Mathématicien apprend **« 1 »**, car une seule capacité a fonctionné anormalement, 
