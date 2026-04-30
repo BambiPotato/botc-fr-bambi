@@ -77,8 +77,7 @@ Cult of the Clocktower – épisode par Andrew Nathenson
 <h2 style="color:#4ea3ff; font-weight:bold;">Résumé</h2>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
-« Si vous êtes mort aujourd’hui ou cette nuit, 
-le Démon peut choisir 2 joueurs (pas un autre Démon) pour échanger leurs rôles. »
+<strong>« Si vous êtes mort aujourd’hui ou cette nuit, le Démon peut choisir 2 joueurs (pas un autre Démon) pour échanger leurs rôles. »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
