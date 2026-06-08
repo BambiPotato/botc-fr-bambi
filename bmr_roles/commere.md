@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Commère
+description: "Chaque jour, vous pouvez faire une déclaration publique. Cette nuit, si c'était vrai, un joueur meurt."
+image: /images/Icon_gossip.png
 ---
 
 
@@ -80,7 +82,7 @@ title: Commère
 
 ##  <span style="color:blue">Résumé</span>   
 
-« Chaque jour, vous pouvez faire une déclaration publique. Cette nuit, si c'était vrai, un joueur meurt. »  
+**« Chaque jour, vous pouvez faire une déclaration publique. Cette nuit, si c'était vrai, un joueur meurt. »**  
 
 La **Commère** sème des rumeurs : si elles sont vraies, elles coûtent la vie à quelqu’un.  
 
