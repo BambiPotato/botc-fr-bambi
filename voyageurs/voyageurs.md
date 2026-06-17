@@ -56,7 +56,7 @@ Un Voyageur peut **rejoindre** la partie à tout moment, et **la quitter** à to
 
   <a href="./gunslinger.html" style="text-decoration:none;">
     <img src="../images/Icon_gunslinger.png" alt="Gunslinger" width="300"><br>
-    <span style="font-weight:bold; color:#9b59b6;">Gunslinger</span>
+    <span style="font-weight:bold; color:#9b59b6;">Franc-Tireur</span>
   </a>
 
   <a href="./beggar.html" style="text-decoration:none;">
@@ -71,7 +71,7 @@ Un Voyageur peut **rejoindre** la partie à tout moment, et **la quitter** à to
 
   <a href="./thief.html" style="text-decoration:none;">
     <img src="../images/Icon_thief.png" alt="Thief" width="300"><br>
-    <span style="font-weight:bold; color:#9b59b6;">Voleur</span>
+    <span style="font-weight:bold; color:#9b59b6;">Voleuse</span>
   </a>
 
 </div>
@@ -98,7 +98,7 @@ Un Voyageur peut **rejoindre** la partie à tout moment, et **la quitter** à to
 
   <a href="./harlot.html" style="text-decoration:none;">
     <img src="../images/Icon_harlot.png" alt="Harlot" width="300"><br>
-    <span style="font-weight:bold; color:#9b59b6;">Harlot</span>
+    <span style="font-weight:bold; color:#9b59b6;">Galante</span>
   </a>
 
   <a href="./barista.html" style="text-decoration:none;">
@@ -162,7 +162,7 @@ Un Voyageur peut **rejoindre** la partie à tout moment, et **la quitter** à to
 
   <a href="./cacklejack.html" style="text-decoration:none;">
     <img src="../images/Icon_cacklejack.png" alt="Cacklejack" width="300"><br>
-    <span style="font-weight:bold; color:#9b59b6;">Cacklejack</span>
+    <span style="font-weight:bold; color:#9b59b6;">Déphasé</span>
   </a>
 
   <a href="./gangster.html" style="text-decoration:none;">
