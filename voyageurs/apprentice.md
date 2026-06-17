@@ -109,7 +109,7 @@ L’<strong>Apprenti</strong> gagne une seule capacité selon son alignement et 
 
 ---
 
-##  Conseils et astuces pours kes  <span style="color:#4ea3ff;">Bons</span>
+##  Conseils et astuces pours les  <span style="color:#4ea3ff;">Bons</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Adaptez-vous totalement à la capacité reçue : <a href="../bmr_roles/parieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Parieur</a>, <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a>, etc.</li>
