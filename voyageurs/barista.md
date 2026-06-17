@@ -31,7 +31,7 @@ image: /images/Icon_barista.png
   </li>
   <li>
     <strong>Édition :</strong>
-    <a href="../sv.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Sects & Violets</a>
+    <a href="../sv.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Sects & Violets</a>
   </li>
   <li><strong>Artiste :</strong> <em>Aidan Roberts</em></li>
   <li>
