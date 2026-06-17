@@ -19,13 +19,32 @@ image: /images/Icon_beggar.png
   <span style="color:#9b59b6; font-weight:bold; font-size:28px;">Mendiant</span>
 </div>
 
+
+
 ---
+##  <span style="color:#d45b5b;">Informations</span>
 
-##  Informations
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a>
+  </li>
+  <li>
+    <strong>Édition :</strong>
+    <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a>
+  </li>
+  <li><strong>Artiste :</strong> <em>Aidan Roberts</em></li>
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Beggar"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#9b59b6; font-weight:bold; text-decoration:none;">
+      Beggar
+    </a>
+  </li>
+</ul>
 
-- **Type :** <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>  
-- **Édition :** <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a>  
-- **Artiste :** <span style="color:#f5f5f5;">Aidan Roberts</span>
 
 <p style="color:#f5f5f5; font-style:italic; font-size:17px; text-align:center;">
 « Aumône pour les pauvres, mon bon seigneur ? Une pièce, madame ? Merci.  
