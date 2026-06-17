@@ -22,11 +22,28 @@ image: /images/Icon_apprentice.png
 
 ---
 
-##  Informations
+##  <span style="color:#d45b5b;">Informations</span>
 
-- **Type :** <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>  
-- **Édition :** <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a>  
-- **Artiste :** <span style="color:#f5f5f5;">Aidan Roberts</span>
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../voyageurs.html" style="color:##9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>
+  </li>
+  <li>
+    <strong>Édition :</strong>
+    <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a> 
+  </li>
+  <li><strong>Artiste :</strong> <em>Aidan Roberts</em></li>
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Apprentice"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#9b59b6; font-weight:bold; text-decoration:none;">
+Apprentice
+    </a>
+  </li>
+</ul>
 
 <p style="color:#f5f5f5; font-style:italic; font-size:17px; text-align:center;">
 « Des années que je voyage pour étudier l’Art. Quel art ? Celui des gens simples. Rien d’inquiétant. Pas encore. »
