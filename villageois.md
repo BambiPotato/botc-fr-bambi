@@ -407,7 +407,7 @@ Leur rôle est de collecter des informations, de protéger leurs alliés et de m
   </a>
 
 </div>
----
+
 
 ## Autres catégories :  
 - [Marginaux](etrangers.md)  
