@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Collecteur d’os
-description: "Une fois par partie, de nuit, choisissez une personne morte : elle récupère sa capacité jusqu’au crépuscule.
+description: "Une fois par partie, de nuit, choisissez une personne morte : elle récupère sa capacité jusqu’au crépuscule."
 image: /images/Icon_bonecollector.png
 ---
 
