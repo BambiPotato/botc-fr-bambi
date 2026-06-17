@@ -60,7 +60,7 @@ Le <strong>Conteur</strong> choisit chaque nuit le joueur affecté et l’effet 
 ## Comment Conter
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
-  <li>Chaque nuit, retirez les rappels précédents de la Barista.</li>
+  <li>Chaque nuit, retirez les jeton de rappel précédents de la Barista.</li>
   <li>Placez soit le jeton de rappel <strong>SOBRE ET SAIN</strong>, soit le jeton de rappel <strong>AGIT DEUX FOIS</strong> à côté d’un jeton de rôle.</li>
   <li>Réveillez le joueur ou la joueuse concerné, montrez-lui le jeton d’info « CE RÔlE T’A CHOISI », puis celui de la Barista.</li>
   <li>Montrez-lui ensuite un doigt (s’il est sobre et sain) ou deux doigts (s’il agit deux fois). Endormez-le.</li>
@@ -74,8 +74,8 @@ Le <strong>Conteur</strong> choisit chaque nuit le joueur affecté et l’effet 
 ## Exemples
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
-  <li>Le Barista rend le <a href="../sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a> sobre et sain.</li>
-  <li>Le <a href="../sv_roles/maladroit.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maladroit</a> agit deux fois : il meurt et doit choisir deux joueurs ; si l’un est maléfique, le Mal gagne.</li>
+  <li>La Barista rend le <a href="../sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a> sobre et sain.</li>
+  <li>La <a href="../sv_roles/maladroit.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maladroit</a> agit deux fois : il meurt et doit choisir deux joueurs ; si l’un est maléfique, le Mal gagne.</li>
   <li>La nuit suivante, la Barista fait agir la <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> deux fois : deux joueurs sont maudits.</li>
 </ul>
 
@@ -114,7 +114,7 @@ Le <strong>Conteur</strong> choisit chaque nuit le joueur affecté et l’effet 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
   <li>La Barista peut être exilé comme tout Voyageur.</li>
   <li>La Barista ne compte pas dans les conditions de victoire.</li>
-  <li>Les rappels <strong>SOBRE ET SAIN</strong> et <strong>AGIT DEUX FOIS</strong> expirent au crépuscule suivant.</li>
+  <li>Les jeton de rappel <strong>SOBRE ET SAIN</strong> et <strong>AGIT DEUX FOIS</strong> expirent au crépuscule suivant.</li>
 </ul>
 
 ---
