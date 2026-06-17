@@ -27,7 +27,7 @@ image: /images/Icon_apprentice.png
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
     <strong>Type :</strong>
-    <li> <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a></li>
+    <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a></li>
   </li>
   <li>
     <strong>Édition :</strong>
