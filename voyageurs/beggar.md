@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Mendiant
+description: "Vous devez utiliser un jeton de vote pour voter. Si une personne morte vous donne le sien, vous apprenez son alignement.Vous êtes toujours sobre et sain." 
+image: /images/Icon_beggar.png
 ---
 
 <p align="left">
@@ -91,7 +93,7 @@ Le Conteur transfère alors le jeton et informe secrètement le Mendiant de l’
   → Le Mendiant, qui est maléfique, affirme au groupe que le Moine était mauvais.</li>
 
   <li>Le Mendiant bon possède trois jetons de vote.  
-  Le <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a> lui donne le sien : le Mendiant apprend qu’il est maléfique.  
+  La <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a> lui donne le sien : le Mendiant apprend qu’elle est maléfique.  
   Ce jour-là, le Mendiant meurt et perd tous ses jetons sauf un, qu’il garde pour voter en tant que mort.</li>
 </ul>
 
