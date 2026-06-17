@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Barista
+description: "Chaque nuit, jusqu’au crépuscule : 1) un joueur devient sobre, sain et reçoit des informations véridiques, ou 2) sa capacité agit deux fois. Le joueur apprend lequel des deux effets s’applique." 
+image: /images/Icon_barista.png
 ---
 
 <p align="left">
@@ -58,9 +60,9 @@ Le <strong>Conteur</strong> choisit chaque nuit le joueur affecté et l’effet 
 ## Comment Conter
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
-  <li>Chaque nuit, retirez les rappels précédents du Barista.</li>
+  <li>Chaque nuit, retirez les rappels précédents de la Barista.</li>
   <li>Placez soit le jeton de rappel <strong>SOBRE ET SAIN</strong>, soit le jeton de rappel <strong>AGIT DEUX FOIS</strong> à côté d’un jeton de rôle.</li>
-  <li>Réveillez le joueur ou la joueuse concerné, montrez-lui le jeton d’info « CE PERSONNAGE T’A CHOISI », puis celui du Barista.</li>
+  <li>Réveillez le joueur ou la joueuse concerné, montrez-lui le jeton d’info « CE RÔlE T’A CHOISI », puis celui de la Barista.</li>
   <li>Montrez-lui ensuite un doigt (s’il est sobre et sain) ou deux doigts (s’il agit deux fois). Endormez-le.</li>
   <li>Un joueur marqué <strong>SOBRE ET SAIN</strong> ne peut pas être ivre ou empoisonné jusqu’au crépuscule et reçoit toujours des informations véridiques, même avec un <a href="../sv_roles/vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a> en jeu.</li>
   <li>Un joueur marqué <strong>AGIT DEUX FOIS</strong> agit normalement à son moment habituel, puis agit à nouveau immédiatement après.  
@@ -74,7 +76,7 @@ Le <strong>Conteur</strong> choisit chaque nuit le joueur affecté et l’effet 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
   <li>Le Barista rend le <a href="../sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a> sobre et sain.</li>
   <li>Le <a href="../sv_roles/maladroit.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maladroit</a> agit deux fois : il meurt et doit choisir deux joueurs ; si l’un est maléfique, le Mal gagne.</li>
-  <li>La nuit suivante, le Barista fait agir la <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> deux fois : deux joueurs sont maudits.</li>
+  <li>La nuit suivante, la Barista fait agir la <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> deux fois : deux joueurs sont maudits.</li>
 </ul>
 
 ---
@@ -100,7 +102,7 @@ Le <strong>Conteur</strong> choisit chaque nuit le joueur affecté et l’effet 
   Cela vous sert : si votre effet ne touchait que le Mal, on saurait que vous êtes maléfique.</li>
   <li>Restez en vie le plus longtemps possible pour multiplier les effets favorables à votre camp.</li>
   <li>Si des Sbires sont affectés, ils pourront souvent agir deux fois :  
-  deux malédictions de <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a>, deux folies de <a href="../sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a>, ou deux transformations du <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a>.</li>
+  deux malédictions de <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a>, deux folies de <a href="../sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a>, ou deux transformations de la <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a>.</li>
   <li>Incitez les joueurs maléfiques à prétendre avoir été rendus « sobres et sains » pour justifier des informations trompeuses.</li>
   <li>Si vous survivez longtemps, votre équipe bénéficiera de plusieurs doubles actions ou informations falsifiées sous couvert de sincérité.</li>
 </ul>
@@ -110,8 +112,8 @@ Le <strong>Conteur</strong> choisit chaque nuit le joueur affecté et l’effet 
 ##  Rappels utiles
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
-  <li>Le Barista peut être exilé comme tout Voyageur.</li>
-  <li>Le Barista ne compte pas dans les conditions de victoire.</li>
+  <li>La Barista peut être exilé comme tout Voyageur.</li>
+  <li>La Barista ne compte pas dans les conditions de victoire.</li>
   <li>Les rappels <strong>SOBRE ET SAIN</strong> et <strong>AGIT DEUX FOIS</strong> expirent au crépuscule suivant.</li>
 </ul>
 
