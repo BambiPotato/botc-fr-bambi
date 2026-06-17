@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Boucher
+description: "Chaque jour, après la première exécution, vous pouvez faire une nouvelle nomination." 
+image: /images/Icon_butcher.png
 ---
 
 <p align="left">
@@ -78,12 +80,12 @@ Le <strong>Boucher</strong> permet une seconde exécution par jour.
   <li>La <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> est exécutée et meurt.  
   → Le <strong>Boucher</strong> nomine ensuite le <a href="../sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a>, qui obtient assez de votes et meurt aussi.</li>
 
-  <li>Le <a href="../sv_roles/collecteursos.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Collecteur d’Os</a> est exilé, puis la <a href="../sv_roles/courtisane.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisane</a> est exilée.  
+  <li>Le <a href="../sv_roles/collecteursos.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Collecteur d’Os</a> est exilé, puis la <a href="../sv_roles/courtisane.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Galante</a> est exilée.  
   → Aucune exécution n’a eu lieu : le Boucher ne peut pas agir.</li>
 
-  <li>Le Boucher nomine le <a href="../sv_roles/crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur</a>, sans succès.  
+  <li>Le Boucher nomme le <a href="../sv_roles/crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur</a>, sans succès.  
   Plus tard, le <a href="../sv_roles/mathematicien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mathématicien</a> reçoit plus de votes et meurt.  
-  → Le Boucher peut alors nominer de nouveau le Crieur, qui est exécuté.</li>
+  → Le Boucher peut alors nommer de nouveau le <a href="../sv_roles/crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur</a>, qui est exécuté.</li>
 </ul>
 
 ---
@@ -95,7 +97,7 @@ Le <strong>Boucher</strong> permet une seconde exécution par jour.
   <li>Ne gaspillez pas votre nomination : choisissez un moment et une cible pertinents.</li>
   <li>Proposez de suivre la volonté du groupe pour gagner leur confiance.</li>
   <li>Analysez les votes pour détecter le <span style="color:#d45b5b;">Mal</span>.</li>
-  <li>Attention au <a href="../sv_roles/jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumeau Maléfique</a>&nbsp;: deux exécutions peuvent écourter dangereusement la partie.</li>
+  <li>Attention à la <a href="../sv_roles/jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumelle Maléfique</a>&nbsp;: deux exécutions peuvent écourter dangereusement la partie.</li>
   <li>Si la <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> vous maudit, cela peut renforcer votre crédibilité auprès du Bien.</li>
 </ul>
 
@@ -105,9 +107,9 @@ Le <strong>Boucher</strong> permet une seconde exécution par jour.
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Favorisez l’élimination rapide des bons joueurs.</li>
-  <li>Ne nominez jamais votre <a href="../sv_roles/fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.</li>
+  <li>Ne nommez jamais votre <a href="../sv_roles/fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.</li>
   <li>Pour paraître bon, nominez une cible populaire et légitime.</li>
-  <li>Coordonnez-vous avec la <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a>, le <a href="../sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a> ou le <a href="../sv_roles/jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumeau Maléfique</a> pour affaiblir le Bien.</li>
+  <li>Coordonnez-vous avec la <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a>, le <a href="../sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a> ou la <a href="../sv_roles/jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumelle Maléfique</a> pour affaiblir le Bien.</li>
   <li>Si un <a href="../sv_roles/charmeurdeserpent.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Charmeur de Serpents</a> ou un <a href="../sv_roles/fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a> est en jeu, soyez prudent : le Démon peut changer.</li>
 </ul>
 
@@ -120,7 +122,7 @@ Le <strong>Boucher</strong> permet une seconde exécution par jour.
   <li>Il ne peut jamais déclencher une troisième exécution.</li>
   <li>Les exils ne comptent pas comme des exécutions.</li>
   <li>Il peut être exilé comme tout Voyageur.</li>
-  <li>Il ne compte pas dans le calcul de fin de partie.</li>
+  <li>Il ne compte pas dans la condition de victoire s'il ne reste que 2 joueurs à la fin de la partie.</li>
 </ul>
 
 ---
