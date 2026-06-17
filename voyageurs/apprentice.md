@@ -27,11 +27,11 @@ image: /images/Icon_apprentice.png
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
     <strong>Type :</strong>
-    <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a></li>
+    <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a>
   </li>
   <li>
     <strong>Édition :</strong>
-    <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a> 
+    <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a>
   </li>
   <li><strong>Artiste :</strong> <em>Aidan Roberts</em></li>
   <li>
@@ -40,7 +40,7 @@ image: /images/Icon_apprentice.png
        target="_blank"
        rel="noopener noreferrer"
        style="color:#9b59b6; font-weight:bold; text-decoration:none;">
-Apprentice
+      Apprentice
     </a>
   </li>
 </ul>
