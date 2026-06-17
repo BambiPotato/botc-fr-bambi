@@ -21,10 +21,31 @@ image: /images/Icon_barista.png
 
 ---
 
-## Informations
-- **Type :** <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>  
-- **Édition :** <a href="/botc-fr-bambi/sv.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Sects & Violets</a>  
-- **Artiste :** Aidan Roberts
+
+##  <span style="color:#d45b5b;">Informations</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>
+  </li>
+  <li>
+    <strong>Édition :</strong>
+    <a href="/botc-fr-bambi/sv.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Sects & Violets</a>  
+  </li>
+  <li><strong>Artiste :</strong> <em>Aidan Roberts</em></li>
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Barista"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#9b59b6; font-weight:bold; text-decoration:none;">
+Barista
+    </a>
+  </li>
+</ul>
+
+----
 
 <p style="color:#f5f5f5; font-style:italic; font-size:17px; text-align:center;">
 « Un café sans crème, Monsieur ? Toutes mes excuses, nous n’avons plus de crème… que diriez-vous d’un café sans lait ? »
