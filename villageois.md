@@ -409,6 +409,8 @@ Leur rôle est de collecter des informations, de protéger leurs alliés et de m
 </div>
 
 
+---
+
 ## Autres catégories :  
 - [Marginaux](etrangers.md)  
 - [<span style="color:red">Sbires</span>](sbires.md)  
