@@ -101,8 +101,8 @@ Leur rôle est de collecter des informations, de protéger leurs alliés et de m
   </a>
 
   <a href="./sv_roles/charmeurdeserpent.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
-    <img src="./images/Icon_snakecharmer.png" alt="Charmeur de Serpent" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
-    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Charmeur de Serpent</span>
+    <img src="./images/Icon_snakecharmer.png" alt="Charmeur de Serpents" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
+    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Charmeur de Serpents</span>
   </a>
 
   <a href="./roles_experimentaux/huntsman.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
@@ -123,6 +123,11 @@ Leur rôle est de collecter des informations, de protéger leurs alliés et de m
   <a href="./roles_experimentaux/knight.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
     <img src="./images/Icon_knight.png" alt="Chevalier" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
     <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Chevalier</span>
+  </a>
+
+  <a href="./roles_experimentaux/choirboy.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
+    <img src="./images/Icon_choirboy.png" alt="Choriste" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
+    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Choriste</span>
   </a>
 
   <a href="./bmr_roles/commere.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
@@ -146,8 +151,8 @@ Leur rôle est de collecter des informations, de protéger leurs alliés et de m
   </a>
 
   <a href="./sv_roles/crieur.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
-    <img src="./images/Icon_towncrier.png" alt="Crieur" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
-    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Crieur</span>
+    <img src="./images/Icon_towncrier.png" alt="Crieur Public" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
+    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Crieur Public</span>
   </a>
 
   <a href="./tb_roles/cuistot.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
@@ -155,17 +160,7 @@ Leur rôle est de collecter des informations, de protéger leurs alliés et de m
     <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Cuisinier</span>
   </a>
 
-  <a href="./roles_experimentaux/poppygrower.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
-    <img src="./images/Icon_poppygrower.png" alt="Cultivateur de pavot" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
-    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Cultivateur de pavot</span>
-  </a>
-
   <!-- D -->
-  <a href="./bmr_roles/damedethe.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
-    <img src="./images/Icon_tealady.png" alt="Dame de Thé" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
-    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Dame de Thé</span>
-  </a>
-
   <a href="./tb_roles/enqueteur.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
     <img src="./images/Icon_investigator.png" alt="Détective" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
     <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Détective</span>
@@ -175,11 +170,6 @@ Leur rôle est de collecter des informations, de protéger leurs alliés et de m
   <a href="./tb_roles/empathique.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
     <img src="./images/Icon_empath.png" alt="Empathe" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
     <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Empathe</span>
-  </a>
-
-  <a href="./roles_experimentaux/choirboy.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
-    <img src="./images/Icon_choirboy.png" alt="Enfant de Chœur" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
-    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Enfant de Chœur</span>
   </a>
 
   <a href="./bmr_roles/exorciste.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
@@ -194,8 +184,8 @@ Leur rôle est de collecter des informations, de protéger leurs alliés et de m
   </a>
 
   <a href="./roles_experimentaux/farmer.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
-    <img src="./images/Icon_farmer.png" alt="Fermier" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
-    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Fermier</span>
+    <img src="./images/Icon_farmer.png" alt="Fermière" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
+    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Fermière</span>
   </a>
 
   <a href="./sv_roles/fleuriste.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
@@ -209,8 +199,8 @@ Leur rôle est de collecter des informations, de protéger leurs alliés et de m
   </a>
 
   <a href="./bmr_roles/fou.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
-    <img src="./images/Icon_fool.png" alt="Fou" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
-    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Fou</span>
+    <img src="./images/Icon_fool.png" alt="Fou du Roi" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
+    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Fou du Roi</span>
   </a>
 
   <!-- G -->
@@ -241,19 +231,19 @@ Leur rôle est de collecter des informations, de protéger leurs alliés et de m
     <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Idiot du village</span>
   </a>
 
+  <a href="./tb_roles/vierge.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
+    <img src="./images/Icon_virgin.png" alt="Immaculée" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
+    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Immaculée</span>
+  </a>
+
   <a href="./roles_experimentaux/engineer.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
     <img src="./images/Icon_engineer.png" alt="Ingénieur" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
     <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Ingénieur</span>
   </a>
 
-  <a href="./tb_roles/vierge.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
-    <img src="./images/Icon_virgin.png" alt="Innocente" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
-    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Immaculée</span>
-  </a>
-
   <a href="./roles_experimentaux/steward.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
-    <img src="./images/Icon_steward.png" alt="Intendant" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
-    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Intendant</span>
+    <img src="./images/Icon_steward.png" alt="Intendante" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
+    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Intendante</span>
   </a>
 
   <!-- J -->
@@ -274,14 +264,14 @@ Leur rôle est de collecter des informations, de protéger leurs alliés et de m
   </a>
 
   <!-- M -->
-  <a href="./tb_roles/maire.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
-    <img src="./images/Icon_mayor.png" alt="Maire" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
-    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Maire</span>
-  </a>
-
   <a href="./roles_experimentaux/magician.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
     <img src="./images/Icon_magician.png" alt="Magicien" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
     <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Magicien</span>
+  </a>
+
+  <a href="./tb_roles/maire.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
+    <img src="./images/Icon_mayor.png" alt="Maire" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
+    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Maire</span>
   </a>
 
   <a href="./bmr_roles/marin.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
@@ -342,6 +332,11 @@ Leur rôle est de collecter des informations, de protéger leurs alliés et de m
     <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Pixie</span>
   </a>
 
+  <a href="./roles_experimentaux/poppygrower.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
+    <img src="./images/Icon_poppygrower.png" alt="Planteur de pavot" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
+    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Planteur de pavot</span>
+  </a>
+
   <a href="./tb_roles/mercenaire.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
     <img src="./images/Icon_slayer.png" alt="Pourfendeuse" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
     <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Pourfendeuse</span>
@@ -394,6 +389,12 @@ Leur rôle est de collecter des informations, de protéger leurs alliés et de m
     <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Soldat</span>
   </a>
 
+  <!-- T -->
+  <a href="./bmr_roles/damedethe.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
+    <img src="./images/Icon_tealady.png" alt="Tisanière" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
+    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Tisanière</span>
+  </a>
+
   <!-- V -->
   <a href="./roles_experimentaux/nightwatchman.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
     <img src="./images/Icon_nightwatchman.png" alt="Veilleur de nuit" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
@@ -406,12 +407,10 @@ Leur rôle est de collecter des informations, de protéger leurs alliés et de m
   </a>
 
 </div>
-
- 
 ---
 
 ## Autres catégories :  
-- [Étrangers](etrangers.md)  
+- [Marginaux](etrangers.md)  
 - [<span style="color:red">Sbires</span>](sbires.md)  
 - [<span style="color:red">Démons</span>](demons.md)  
  
