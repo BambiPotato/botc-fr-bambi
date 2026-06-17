@@ -1,7 +1,11 @@
 ---
 layout: default
 title: Collecteur d’os
+description: "Une fois par partie, de nuit, choisissez une personne morte : elle récupère sa capacité jusqu’au crépuscule.
+image: /images/Icon_bonecollector.png
 ---
+
+
 
 <p align="left">
   <a href="/botc-fr-bambi/">
@@ -76,7 +80,7 @@ Le <strong>Collecteur d’os</strong> rend temporairement leur pouvoir aux joueu
 ##  Exemples
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li>Le Collecteur d’os rend sa capacité à la <a href="../sv_roles/fillefleurs.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fille des Fleurs</a> : elle apprend si le <a href="../sv_roles/fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> a voté aujourd’hui.</li>
+  <li>Le Collecteur d’os rend sa capacité à la <a href="../sv_roles/fillefleurs.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a> : elle apprend si le <a href="../sv_roles/fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> a voté aujourd’hui.</li>
   <li>Il choisit la <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> : celle-ci maudit un joueur ; s’il nomine le lendemain, il meurt.</li>
   <li>La nuit, il choisit le <a href="../voyageurs/butcher.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Boucher</a> : après une exécution, celui-ci peut nominer à nouveau.</li>
   <li>Il cible le <a href="../sv_roles/jongleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Jongleur</a> : celui-ci agit de nouveau et reçoit « 3 » comme réponse.</li>
