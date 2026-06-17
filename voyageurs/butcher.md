@@ -80,7 +80,7 @@ Le <strong>Boucher</strong> permet une seconde exécution par jour.
   <li>La <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> est exécutée et meurt.  
   → Le <strong>Boucher</strong> nomine ensuite le <a href="../sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a>, qui obtient assez de votes et meurt aussi.</li>
 
-  <li>Le <a href="../sv_roles/collecteursos.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Collecteur d’Os</a> est exilé, puis la <a href="../sv_roles/courtisane.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Galante</a> est exilée.  
+  <li>Le <a href="../sv_roles/collecteursos.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Collecteur d’Os</a> est exilé, puis la <a href="../sv_roles/harlot.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Galante</a> est exilée.  
   → Aucune exécution n’a eu lieu : le Boucher ne peut pas agir.</li>
 
   <li>Le Boucher nomme le <a href="../sv_roles/crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur</a>, sans succès.  
