@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Bureaucrate
+description: "Chaque nuit, choisissez un joueur (pas vous-même) : son vote comptera pour trois demain." 
+image: /images/Icon_bureaucrat.png
 ---
 
 <p align="left">
@@ -50,7 +52,7 @@ Nous n’avons pas eu d’erreur de paperasse depuis des lustres… enfin, depui
 ## Résumé
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-« Chaque nuit, choisissez une personne (autre que vous) : son vote comptera pour trois le lendemain. »
+<strong>« Chaque nuit, choisissez un joueur (pas vous-même) : son vote comptera pour trois demain. »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -59,7 +61,7 @@ Chaque fois que cette personne vote pendant la journée, son vote compte pour tr
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li>Si le Bureaucrate meurt (même par exil), la personne perd immédiatement son vote triple.</li>
+  <li>Si le Bureaucrate meurt (même par exil), le joueur perd immédiatement son vote triple.</li>
   <li>Les exils ne sont jamais affectés : le triple vote ne s’applique pas lors d’un exil.</li>
   <li>Comme le Conteur compte à voix haute, le groupe saura vite qui bénéficie du triple vote.</li>
 </ul>
@@ -69,9 +71,9 @@ Chaque fois que cette personne vote pendant la journée, son vote compte pour tr
 ## Comment Conter
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Chaque nuit, le Bureaucrate se réveille et choisit une personne (autre que lui-même).  
+Chaque nuit, le Bureaucrate se réveille et choisit un joueur (autre que lui-même).  
 Le Conteur marque cette personne d’un rappel « 3 VOTES ».  
-Le lendemain, chaque fois que cette personne vote, son vote compte pour trois.  
+Le lendemain, chaque fois que ce joueur vote, son vote compte pour trois.  
 Si le Bureaucrate meurt, l’effet cesse immédiatement.
 </p>
 
@@ -96,8 +98,8 @@ Si le Bureaucrate meurt, l’effet cesse immédiatement.
 ##  Conseils et astuces pour les  <span style="color:#4ea3ff;">Bons</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li>Favorisez les personnes encore en vie : les morts utilisent rarement leurs votes avant la fin de partie.</li>
-  <li>Associez-vous à une personne confirmée comme bonne, par exemple une <a href="../tb_roles/vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Vierge</a> ou quelqu’un validé par la <a href="../tb_roles/blanchisseuse.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Blanchisseuse</a>.</li>
+  <li>Favorisez les joeueurs encore en vie : les morts utilisent rarement leurs votes avant la fin de partie.</li>
+  <li>Associez-vous à une personne confirmée comme bonne, par exemple une <a href="../tb_roles/vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Immaculée</a> ou quelqu’un validé par la <a href="../tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>.</li>
   <li>Observez les votes : un <span style="color:#d45b5b;">Sbire</span> ne votera jamais contre son <span style="color:#d45b5b;">Démon</span> s’il sait que sa voix vaut triple.</li>
   <li>Demandez l’avis du groupe : cela renforce la confiance collective.</li>
   <li>Annoncez ouvertement votre choix pour prouver votre loyauté.</li>
