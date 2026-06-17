@@ -36,173 +36,179 @@ Les Sbires ne peuvent pas gagner sans leur Démon, mais leurs capacités perturb
 </h2>
 
 
-<!-- GRID SBIRES -->
+<!-- GRID SBIRES (ALPHABÉTIQUE) -->
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin:12px 0;">
 
- <!-- Assassin -->
+<!-- A -->
+
 <a href="./bmr_roles/assassin.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
   <img src="./images/Icon_assassin.png" alt="Assassin" style="width:220px; border-radius:12px;">
   <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Assassin</span>
 </a>
 
-<!-- Avocat du Diable -->
 <a href="./bmr_roles/avocatdudiable.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
   <img src="./images/Icon_devilsadvocate.png" alt="Avocat du Diable" style="width:220px; border-radius:12px;">
   <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Avocat du Diable</span>
 </a>
 
-<!-- Baron -->
+<!-- B -->
+
 <a href="./tb_roles/baron.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
   <img src="./images/Icon_baron.png" alt="Baron" style="width:220px; border-radius:12px;">
   <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Baron</span>
 </a>
 
-<!-- Boffin -->
-<a href="./roles_experimentaux/boffin.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
-  <img src="./images/Icon_boffin.png" alt="Boffin" style="width:220px; border-radius:12px;">
-  <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Laborantin</span>
-</a>
-
-<!-- Boomdandy -->
 <a href="./roles_experimentaux/boomdandy.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
   <img src="./images/Icon_boomdandy.png" alt="Boomdandy" style="width:220px; border-radius:12px;">
   <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Boomdandy</span>
 </a>
 
-<!-- Cérémonius -->
+<!-- C -->
+
 <a href="./sv_roles/cerenovus.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
-  <img src="./images/Icon_cerenovus.png" alt="Cérémonius" style="width:220px; border-radius:12px;">
+  <img src="./images/Icon_cerenovus.png" alt="Cerenovus" style="width:220px; border-radius:12px;">
   <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Cerenovus</span>
 </a>
 
-<!-- Conspirateur -->
 <a href="./bmr_roles/cerveau.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
   <img src="./images/Icon_mastermind.png" alt="Conspirateur" style="width:220px; border-radius:12px;">
   <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Conspirateur</span>
 </a>
 
-<!-- Empoisonneur -->
+<!-- E -->
+
 <a href="./tb_roles/empoisonneur.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
   <img src="./images/Icon_poisoner.png" alt="Empoisonneur" style="width:220px; border-radius:12px;">
   <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Empoisonneur</span>
 </a>
 
-<!-- Espionne -->
 <a href="./tb_roles/espion.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
   <img src="./images/Icon_spy.png" alt="Espionne" style="width:220px; border-radius:12px;">
   <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Espionne</span>
 </a>
 
-<!-- Fearmonger -->
-<a href="./roles_experimentaux/fearmonger.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
-  <img src="./images/Icon_fearmonger.png" alt="Fearmonger" style="width:220px; border-radius:12px;">
-  <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Tourmenteur</span>
-</a>
+<!-- F -->
 
-<!-- Femme Écarlate -->
 <a href="./tb_roles/femmeecarlate.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
   <img src="./images/Icon_scarletwoman.png" alt="Femme Écarlate" style="width:220px; border-radius:12px;">
   <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Femme Écarlate</span>
 </a>
 
-<!-- Gobelin -->
+<!-- G -->
+
 <a href="./roles_experimentaux/goblin.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
-  <img src="./images/Icon_goblin.png" alt="Gobelin" style="width:220px; border-radius:12px;">
+  <img src="./images/Icon_goblin.png" alt="Goblin" style="width:220px; border-radius:12px;">
   <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Goblin</span>
 </a>
 
-<!-- Harpie -->
+<a href="./sv_roles/pithag.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
+  <img src="./images/Icon_pithag.png" alt="Guenaude" style="width:220px; border-radius:12px;">
+  <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Guenaude</span>
+</a>
+
+<!-- H -->
+
 <a href="./roles_experimentaux/harpy.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
   <img src="./images/Icon_harpy.png" alt="Harpie" style="width:220px; border-radius:12px;">
   <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Harpie</span>
 </a>
 
-<!-- Invocateur -->
+<!-- I -->
+
 <a href="./roles_experimentaux/summoner.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
-  <img src="./images/Icon_summoner.png" alt="Invocateur" style="width:220px; border-radius:12px;">
+  <img src="./images/Icon_summoner.png" alt="Invocatrice" style="width:220px; border-radius:12px;">
   <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Invocatrice</span>
 </a>
 
-<!-- Jumelle Maléfique -->
+<!-- J -->
+
 <a href="./sv_roles/jumeaumalefique.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
   <img src="./images/Icon_eviltwin.png" alt="Jumelle Maléfique" style="width:220px; border-radius:12px;">
   <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Jumelle Maléfique</span>
 </a>
 
-<!-- Marionnette -->
+<!-- L -->
+
+<a href="./roles_experimentaux/boffin.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
+  <img src="./images/Icon_boffin.png" alt="Laborantin" style="width:220px; border-radius:12px;">
+  <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Laborantin</span>
+</a>
+
+<!-- M -->
+
+<a href="./roles_experimentaux/wizard.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
+  <img src="./images/Icon_wizard.png" alt="Mage" style="width:220px; border-radius:12px;">
+  <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Mage</span>
+</a>
+
 <a href="./roles_experimentaux/marionette.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
   <img src="./images/Icon_marionette.png" alt="Marionnette" style="width:220px; border-radius:12px;">
   <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Marionnette</span>
 </a>
 
-<!-- Mezepheles -->
 <a href="./roles_experimentaux/mezepheles.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
   <img src="./images/Icon_mezepheles.png" alt="Mezepheles" style="width:220px; border-radius:12px;">
   <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Mezepheles</span>
 </a>
 
-<!-- Orgue de Barbarie -->
+<!-- O -->
+
 <a href="./roles_experimentaux/organgrinder.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
-  <img src="./images/Icon_organgrinder.png" alt="Orgue de Barbarie" style="width:220px; border-radius:12px;">
-  <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Orguaniste de rue</span>
+  <img src="./images/Icon_organgrinder.png" alt="Organiste de rue" style="width:220px; border-radius:12px;">
+  <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Organiste de rue</span>
 </a>
 
-<!-- Parrain -->
+<!-- P -->
+
 <a href="./bmr_roles/parrain.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
   <img src="./images/Icon_godfather.png" alt="Parrain" style="width:220px; border-radius:12px;">
   <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Parrain</span>
 </a>
 
-<!-- Pithag -->
-<a href="./sv_roles/pithag.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
-    <img src="./images/Icon_pithag.png" alt="Pit-Hag" style="width:220px; border-radius:12px;">
-    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Guenaude</span>
-</a>
-  
-<!-- Psychopathe -->
 <a href="./roles_experimentaux/psychopath.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
   <img src="./images/Icon_psychopath.png" alt="Psychopathe" style="width:220px; border-radius:12px;">
   <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Psychopathe</span>
 </a>
 
-<!-- Sorcière -->
+<!-- S -->
+
 <a href="./sv_roles/sorciere.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
   <img src="./images/Icon_witch.png" alt="Sorcière" style="width:220px; border-radius:12px;">
   <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Sorcière</span>
 </a>
 
-<!-- Spectre -->
 <a href="./roles_experimentaux/wraith.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
   <img src="./images/Icon_wraith.png" alt="Spectre" style="width:220px; border-radius:12px;">
   <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Spectre</span>
 </a>
 
-<!-- Veuve -->
+<!-- T -->
+
+<a href="./roles_experimentaux/fearmonger.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
+  <img src="./images/Icon_fearmonger.png" alt="Tourmenteur" style="width:220px; border-radius:12px;">
+  <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Tourmenteur</span>
+</a>
+
+<!-- V -->
+
 <a href="./roles_experimentaux/widow.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
   <img src="./images/Icon_widow.png" alt="Veuve" style="width:220px; border-radius:12px;">
   <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Veuve</span>
 </a>
 
-<!-- Vizir -->
 <a href="./roles_experimentaux/vizier.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
   <img src="./images/Icon_vizier.png" alt="Vizir" style="width:220px; border-radius:12px;">
   <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Vizir</span>
 </a>
 
-<!-- Wizard -->
-<a href="./roles_experimentaux/wizard.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
-  <img src="./images/Icon_wizard.png" alt="Wizard" style="width:220px; border-radius:12px;">
-  <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Wizard</span>
-</a>
+<!-- X -->
 
-<!-- Xaan -->
 <a href="./roles_experimentaux/xaan.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
   <img src="./images/Icon_xaan.png" alt="Xaan" style="width:220px; border-radius:12px;">
   <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Xaan</span>
 </a>
 
 </div>
-
 
 ---
 
