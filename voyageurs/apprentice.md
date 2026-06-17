@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Apprenti
+description: " Lors de votre première nuit, vous gagnez une capacité de Villageois si vous êtes bon, ou une capacité de Sbire si vous êtes maléfique." 
+image: /images/Icon_apprentice.png
+---
 ---
 
 <p align="left">
@@ -48,7 +51,7 @@ title: Apprenti
 ##  Résumé
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-« Lors de votre première nuit, vous gagnez une capacité de <span style="color:#4ea3ff; font-weight:bold;">Villageois</span> si vous êtes bon, ou une capacité de <span style="color:#d45b5b; font-weight:bold;">Sbire</span> si vous êtes maléfique. »
+<strong> « Lors de votre première nuit, vous gagnez une capacité de <span style="color:#4ea3ff; font-weight:bold;">Villageois</span> si vous êtes bon, ou une capacité de <span style="color:#d45b5b; font-weight:bold;">Sbire</span> si vous êtes maléfique. »</strong> 
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -59,9 +62,11 @@ L’<strong>Apprenti</strong> gagne une seule capacité selon son alignement et 
   <li>Si l’Apprenti est <span style="color:#4ea3ff;">bon</span>, il gagne la capacité d’un <span style="color:#4ea3ff;">Villageois</span>.</li>
   <li>S’il est <span style="color:#d45b5b;">maléfique</span>, il gagne la capacité d’un <span style="color:#d45b5b;">Sbire</span>.</li>
   <li>Il apprend sa capacité dès sa première nuit et agit immédiatement si ce rôle agit cette nuit-là.</li>
-  <li>Seules les capacités listées sur les fiches de rôles peuvent être attribuées.</li>
-  <li>L’Apprenti reste Voyageur (exil possible, ne compte pas pour « il ne reste que 2 joueurs en vie », etc.).</li>
-  <li>Les effets qui « détectent un personnage » détectent toujours <em>Apprenti</em> (Voyageur), pas le rôle copié.</li>
+  <li>Seules les capacités listées sur la fiche de rôle peuvent être acquises.</li>
+  <li>Si l'Apprenti acquiert une capacité qui ne fonctionne normalement que lors de la première nuit du jeu, comme celle de la Grand-mère, elle fonctionnera lors de sa première nuit.</li>
+  <li>L'Apprenti ne devient pas littéralement le rôle dont il acquiert le pouvoir. Il est l'Apprenti, un Voyageur ;</li> 
+  <li>il peut donc être exilé mais pas exécuté, et il n'est pas comptabilisé dans le nombre de joueurs en vie pour déterminer si le mal triomphe, car seuls deux joueurs sont encore en vie.</li> 
+  <li>De plus, les pouvoirs des autres rôles permettant de détecter les autres rôles identifieront l'Apprenti comme tel.</li>
 </ul>
 
 ---
@@ -69,9 +74,11 @@ L’<strong>Apprenti</strong> gagne une seule capacité selon son alignement et 
 ## Comment Conter
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li>La première nuit où l’Apprenti est en jeu : réveillez-le, montrez « VOUS ÊTES », puis un jeton <span style="color:#4ea3ff;">Villageois</span> (s’il est bon) ou <span style="color:#d45b5b;">Sbire</span> (s’il est maléfique).</li>
-  <li>Dans le Grimoire, remplacez temporairement son jeton par celui du personnage dont il gagne la capacité et marquez-le « EST L’APPRENTI ».</li>
-  <li>En pratique, choisissez souvent un personnage non en jeu pour éviter les doublons visibles.</li>
+  <li>La première nuit suivant l'entrée en jeu de l'Apprenti, réveillez-le.</li>
+  <li>Montrez-lui le jeton d'information <strong>« VOUS ÊTES »</strong>, puis un jeton <span style="color:#4ea3ff;">Villageois</span> (s’il est bon) ou <span style="color:#d45b5b;">Sbire</span> (s’il est maléfique).</li>
+  <li>Dans le Grimoire, remplacez temporairement son jeton par celui du rôle dont il gagne la capacité et marquez-le <strong>« EST L’APPRENTI »</strong>.</li>
+  <li>Ce joueur reste l'Apprenti mais acquiert la capacité associée à son jeton de rôle.</li>
+  <li>En pratique, choisissez un rôle qui n'est pas en jeu car il n'y a qu'un seul jeton de chaque rôle et l'Apprenti doit utiliser ce jeton.</li>
 </ul>
 
 ---
@@ -79,8 +86,8 @@ L’<strong>Apprenti</strong> gagne une seule capacité selon son alignement et 
 ## Exemples
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li>Apprenti maléfique : gagne la capacité de l’<a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>. Cette nuit-là, il tue une cible clé.</li>
-  <li>Apprenti bon : gagne la capacité de la <a href="../bmr_roles/femme_de_chambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de Chambre</a>. Il apprend qui se réveille la nuit. Plus tard, le <a href="../bmr_roles/parieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Parieur</a> le devine « <a href="../bmr_roles/dame_de_the.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dame de Thé</a> » et meurt, car l’Apprenti n’est pas Dame de Thé.</li>
+  <li>L'Apprenti maléfique : gagne la capacité de l’<a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>. Cette nuit-là, il tue une cible clé.</li>
+  <li>Apprenti bon : gagne la capacité de la <a href="../bmr_roles/femme_de_chambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de Chambre</a>. Il apprend qui se réveille la nuit. Plus tard, le <a href="../bmr_roles/parieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Parieur</a> le devine « <a href="../bmr_roles/dame_de_the.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Tisanière</a> » et meurt, car l’Apprenti n’est pas la Tisanière.</li>
 </ul>
 
 ---
@@ -111,7 +118,7 @@ L’<strong>Apprenti</strong> gagne une seule capacité selon son alignement et 
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>L’Apprenti peut être exilé comme tout Voyageur.</li>
-  <li>Il ne compte pas pour la condition « il ne reste que 2 joueurs en vie ».</li>
+  <li>Il ne compte pas pour la condition de victoire « s'il ne reste que 2 joueurs en vie ».</li>
   <li>Il garde sa capacité jusqu’à sa mort.</li>
 </ul>
 
