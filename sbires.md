@@ -60,7 +60,7 @@ Les Sbires ne peuvent pas gagner sans leur Démon, mais leurs capacités perturb
 <!-- Boffin -->
 <a href="./roles_experimentaux/boffin.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
   <img src="./images/Icon_boffin.png" alt="Boffin" style="width:220px; border-radius:12px;">
-  <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Boffin</span>
+  <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Laborantin</span>
 </a>
 
 <!-- Boomdandy -->
@@ -96,7 +96,7 @@ Les Sbires ne peuvent pas gagner sans leur Démon, mais leurs capacités perturb
 <!-- Fearmonger -->
 <a href="./roles_experimentaux/fearmonger.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
   <img src="./images/Icon_fearmonger.png" alt="Fearmonger" style="width:220px; border-radius:12px;">
-  <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Fearmonger</span>
+  <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Tourmenteur</span>
 </a>
 
 <!-- Femme Écarlate -->
@@ -120,7 +120,7 @@ Les Sbires ne peuvent pas gagner sans leur Démon, mais leurs capacités perturb
 <!-- Invocateur -->
 <a href="./roles_experimentaux/summoner.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
   <img src="./images/Icon_summoner.png" alt="Invocateur" style="width:220px; border-radius:12px;">
-  <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Invocateur</span>
+  <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Invocatrice</span>
 </a>
 
 <!-- Jumelle Maléfique -->
@@ -144,7 +144,7 @@ Les Sbires ne peuvent pas gagner sans leur Démon, mais leurs capacités perturb
 <!-- Orgue de Barbarie -->
 <a href="./roles_experimentaux/organgrinder.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
   <img src="./images/Icon_organgrinder.png" alt="Orgue de Barbarie" style="width:220px; border-radius:12px;">
-  <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Orgue de Barbarie</span>
+  <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Orguaniste de rue</span>
 </a>
 
 <!-- Parrain -->
@@ -156,7 +156,7 @@ Les Sbires ne peuvent pas gagner sans leur Démon, mais leurs capacités perturb
 <!-- Pithag -->
 <a href="./sv_roles/pithag.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
     <img src="./images/Icon_pithag.png" alt="Pit-Hag" style="width:220px; border-radius:12px;">
-    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Pit-Hag</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Guenaude</span>
 </a>
   
 <!-- Psychopathe -->
@@ -208,7 +208,7 @@ Les Sbires ne peuvent pas gagner sans leur Démon, mais leurs capacités perturb
 
 ## Autres catégories :  
 - [Villageois](villageois.md)  
-- [Étrangers](etrangers.md)  
+- [Marginaux](etrangers.md)  
 - [<span style="color:red">Démons</span>](demons.md)  
 
 
