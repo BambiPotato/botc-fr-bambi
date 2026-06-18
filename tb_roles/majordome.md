@@ -148,7 +148,7 @@ Le Majordome ne peut voter que si son **Maître** vote.
   <li>
     🧞
     <img src="../images/Icon_organgrinder.png" alt="Boffin" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/organgrinder.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Orgue de Barbarie</a> :  
+    <a href="../roles_experimentaux/organgrinder.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Organiste de rue</a> :  
    Si l'Orgue de Barbarie impose un vote avec les yeux fermés, le Majordome peut lever la main pour voter, 
    mais son vote n’est compté que si son maître a voté également.
   </li>
