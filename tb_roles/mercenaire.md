@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pourfendeuse
-description:  "Une fois par partie, durant la journée, choisissez publiquement un joueur : si c’est le Démon, il meurt."
+description:  "Une fois par partie, pendant la journée, choisissez publiquement un joueur : s’il est le Démon, il meurt."
 image: /images/Icon_slayer.png
 ---
 
@@ -84,9 +84,9 @@ image: /images/Icon_slayer.png
 
 ##  <span style="color:blue">Résumé</span>
 
-**« Une fois par partie, durant la journée, choisissez publiquement un joueur : si c’est le Démon, il meurt. »**
+**« Une fois par partie, pendant la journée, choisissez publiquement un joueur : s’il est le Démon, il meurt. »**
 
-- La Pourfendeuse peut tuer le Démon en devinant qui il est.
+- La Pourfendeuse peut tuer le Démon en devinant de qui il s’agit.
 - La Pourfendeuse  peut choisir d'utiliser sa capacité à tout moment de la journée et doit déclarer à tout le monde quand elle l'utilise. 
 - Si la Pourfendeuse  choisit le Démon, celui-ci meurt immédiatement. Sinon, rien ne se passe.
 - Les joueurs ignorent l'identité du joueur mort. Après tout, il s'agissait peut-être de la Recluse !
@@ -98,10 +98,10 @@ image: /images/Icon_slayer.png
 
 ##  <span style="color:blue">Comment Conter</span>
 
-- Durant la journée, la Pourfendeuse peut déclarer qu'elle souhaite utiliser sa capacité publiquement. Dans ce cas, elle désigne un joueur. 
+- Pendant la journée, la Pourfendeuse peut déclarer qu'elle souhaite utiliser sa capacité publiquement. Dans ce cas, elle désigne un joueur. 
 - Si le joueur choisi est un Démon vivant, déclarez sa mort : placez un linceul sur son jeton de rôle dans le Grimoire. 
 - Si le joueur choisi n'est pas un Démon vivant, dites « Rien ne se passe ». 
-  Dans tous les cas, la Pourfendeuse perd sa capacité : placez son jeton de rappel « AUCUNE CAPACITÉ » à côté du jeton de rôle Mercenaire.
+  Dans tous les cas, la Pourfendeuse perd sa capacité : placez le jeton **SANS CAPACITÉ** de la Pourfendeuse à côté de son jeton de rôle.
 - Si un joueur bluffe en se faisant passer pour la Pourfendeuse et déclare vouloir utiliser sa capacité, 
   agissez comme s'il était effectivement la Pourfendeuse : laissez-le joueur réfléchir quelques secondes, 
   puis laissez-le prendre la décision et faites comme si vous jouiez avec des jetons dans votre Grimoire, puis dites « Rien ne se passe ».
