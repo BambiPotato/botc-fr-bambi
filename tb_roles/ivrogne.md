@@ -197,7 +197,7 @@ image: /images/Icon_drunk-1.png
     Vous ne “comptez” pas comme un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> :<br>
     vous pensez juste l’être.<br>
     C’est aussi vrai pour l'
-    <a href="./vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Innocente</a> :<br>
+    <a href="./vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Immaculée</a> :<br>
     un <a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> ne peut pas activer sa capacité, car il n’est pas réellement <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>, mais <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a>.
   </li>
   <li>
@@ -261,7 +261,7 @@ image: /images/Icon_drunk-1.png
     Bluffez un rôle dont la capacité peut “échouer”, puis réagissez avec surprise et proposez que vous soyez l’<a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>.<br>
     Par exemple : bluffez le <a href="./moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> et dites que la personne protégée est morte quand même ;<br>
     bluffez le <a href="./soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a> et faites-vous tuer ;<br>
-    bluffez la <a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse </a> ou nommez la <a href="./vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Innoce,te</a> et faites semblant d’être choqué que rien ne se passe.
+    bluffez la <a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse </a> ou nommez la <a href="./vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Immaculée</a> et faites semblant d’être choqué que rien ne se passe.
   </li>
   <li>
     Insinuez qu’il y a un <a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> en jeu et lancez une “chasse à l’Ivrogne” :<br>
