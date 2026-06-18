@@ -392,7 +392,7 @@ peut se faire passer pour une cible intéressante, laissant sa capacité encaiss
         <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.
       </li>
       <li>
-        Choisir de ne tuer personne une nuit pour permettre à un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> de          bluffer des rôles comme :<br>
+        Choisir de ne tuer personne une nuit pour permettre à un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> de bluffer des rôles comme :<br>
         <a href="./soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a> ou
         <a href="./moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a>.<br>
         Les joueurs font très souvent confiance à un 
