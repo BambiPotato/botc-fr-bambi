@@ -113,7 +113,7 @@ image: /images/Icon_washerwoman.png
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li><strong>Cédric</strong> est
     <a href="./cuistot.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Cuisinier</a>,
-    et <strong>Céline</strong> est
+    et <strong>Céline</strong> est la
     <a href="./gardien.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Corneille</a>
     → la Lavandière apprend que l’un des deux est le
     <a href="./cuistot.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Cuisinier</a>.
@@ -122,16 +122,16 @@ image: /images/Icon_washerwoman.png
   <li><strong>Julien</strong> est
     <a href="./imp.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Diablotin</a>,
     et <strong>Vanessa</strong> est l'
-    <a href="./vierge.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Innocente</a>
+    <a href="./vierge.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Immaculée</a>
     → la Lavandière apprend que l’un des deux est l'
-    <a href="./vierge.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Innocente</a>.
+    <a href="./vierge.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Immaculée</a>.
   </li>
 
   <li><strong>Tania</strong> est
     <a href="./espion.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Espionne</a>,
     et <strong>Leila</strong> est
     <a href="./femmeecarlate.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Femme Écarlate</a>
-    → la Lavandière apprend que l’un des deux est le
+    → la Lavandière apprend que l’un des deux est la
     <a href="./gardien.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Corneille</a>.
     <span style="opacity:.9;">(Ici, l’</span>
     <a href="./espion.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Espionne</a>
