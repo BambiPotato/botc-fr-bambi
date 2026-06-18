@@ -116,7 +116,7 @@ Comme il n’y a plus d’Empoisonneur en jeu, le Maire n’est plus empoisonné
 
 ##  <span style="color:red">Astuces & Conseils</span>    
 
-- Les meilleures cibles sont les rôles donnant des infos en continu : [Empathe](empathique.md), [Fossyeur](croquemort.md), [Voyante](voyante.md).  
+- Les meilleures cibles sont les rôles donnant des infos en continu : [Empathe](empathique.md), [Fossoyeur](croquemort.md), [Voyante](voyante.md).  
 - Empoisonner un joueur à capacité unique ([Immaculée](vierge.md), [Pourfendeuse](mercenaire.md)], [Maire](maire.md)) peut être **dévastateur**.  
 - Coordonnez-vous avec votre [<span style="color:red">Démon</span>](../demons.md) pour éviter de cibler les mêmes personnes.  
 - Vous pouvez même **empoisonner votre propre Démon** pour simuler une protection (comme si un [Moine](moine.md) l’avait protégé).  
