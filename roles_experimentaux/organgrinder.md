@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Orgue de Barbarie
+title: Organiste de Rue
 ---
 
 <p align="left">
@@ -15,7 +15,7 @@ title: Orgue de Barbarie
   <a href="./organgrinder.html" style="text-decoration:none;">
     <img src="../images/Icon_organgrinder.png" alt="Orgue de Barbarie" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#d45b5b; font-weight:bold; font-size:22px;">Orgue de Barbarie</span>
+    <span style="color:#d45b5b; font-weight:bold; font-size:22px;">Organiste de rue</span>
   </a>
 </div>
 
@@ -61,36 +61,35 @@ title: Orgue de Barbarie
 ##  <span style="color:#d45b5b;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Tous les joueurs gardent les yeux fermés pendant les votes  
-  et le décompte des votes reste secret.  
+  <strong>« Tous les joueurs gardent les yeux fermés pendant les votes et le décompte des votes reste secret.  
   Chaque nuit, choisissez si vous êtes ivre jusqu’au crépuscule. »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-L’<strong>Orgue de Barbarie</strong> rend les votes secrets et empêche le Bien de suivre clairement qui a voté pour qui.
+L’<strong>Organiste de rue</strong> rend les votes secrets et empêche le Bien de suivre clairement qui a voté pour qui.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
   <li>Quand un joueur est nommé, les joueurs votent <strong>yeux fermés</strong>.</li>
 
-  <li>Les Conteurs et conteuses ne comptent pas les votes à voix haute  
+  <li>Le Conteur ne compte pas les votes à voix haute  
       et ne révèlent pas combien de joueurs ont voté une fois le vote terminé.</li>
 
-  <li>Les Conteurs et conteuses ne révèlent pas quel joueur est  
+  <li>Le Conteur ne révèlent pas quel joueur est  
       « sur le point de mourir » après un vote.</li>
 
-  <li>Une fois les nominations terminées, les Conteurs et conteuses annoncent  
+  <li>Une fois les nominations terminées, le Conteur annonce
       quel joueur est exécuté, comme d’habitude.</li>
 
   <li>Les joueurs morts peuvent voter une fois s’ils ont encore leur jeton de vote.  
       Leur jeton est retiré <strong>à la fin de la journée</strong> au lieu d’être retiré immédiatement après ce vote.</li>
 
-  <li>Si l’<strong>Orgue de Barbarie</strong> est ivre,  
+  <li>Si l’<strong>Organiste de rue</strong> est ivre,  
       les votes se déroulent <strong>yeux ouverts</strong>, comme dans une partie normale.  
-      Les Conteurs et conteuses ne précisent pas si l’<strong>Orgue de Barbarie</strong>  
+      Le Conteur ne précise si l’<strong>Organiste de rue</strong>  
       est vivant ou mort.  
-      Cette nuit-là, l’<strong>Orgue de Barbarie</strong> choisit à nouveau  
+      Cette nuit-là, l’<strong>Organiste de rue</strong> choisit à nouveau  
       d’être sobre ou ivre jusqu’au crépuscule suivant.</li>
 
 </ul>
@@ -104,15 +103,15 @@ L’<strong>Orgue de Barbarie</strong> rend les votes secrets et empêche le Bie
   <li>
     <img src="../images/Icon_alchemist.png" alt="Alchimiste" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> :  
-    Si l’<a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> possède la capacité de l’<strong>Orgue de Barbarie</strong>,  
-    l’<strong>Orgue de Barbarie</strong> est en jeu.  
+    Si l’<a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> possède la capacité de l’<strong>Organiste de rue</strong>,  
+    l’<strong>Organiste de rue</strong> est en jeu.  
     Si les deux sont sobres, les deux sont ivres.
   </li>
 
   <li>
     <img src="../images/Icon_butler.png" alt="Majordome" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../tb_roles/majordome.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Majordome</a> :  
-    Si l’<strong>Orgue de Barbarie</strong> impose les votes yeux fermés,  
+    Si l’<strong>Organiste de rue</strong> impose les votes yeux fermés,  
     le <a href="../tb_roles/majordome.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Majordome</a> peut lever la main pour voter,  
     mais son vote n’est compté que si son maître vote aussi.
   </li>
@@ -124,26 +123,26 @@ L’<strong>Orgue de Barbarie</strong> rend les votes secrets et empêche le Bie
 ##  <span style="color:#d45b5b;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Vous gérez l’état d’ivresse de l’<strong>Orgue de Barbarie</strong>  
+Vous gérez l’état d’ivresse de l’<strong>Organiste de rue</strong>  
 et vous appliquez les règles de vote secret lorsqu’il est sobre.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
-  <li>Chaque nuit, réveillez l’<strong>Orgue de Barbarie</strong>.  
+  <li>Chaque nuit, réveillez l’<strong>Organiste de rue</strong>.  
       Il hoche la tête pour indiquer qu’il sera <strong>ivre</strong> jusqu’au crépuscule,  
       ou secoue la tête pour rester <strong>sobre</strong>.  
       <ul style="margin-left:20px;">
-        <li>si il hoche la tête, marquez-le avec le rappel <strong>IVRE</strong> (DRUNK) ;</li>
+        <li>si il hoche la tête, marquez-le avec le rappel <strong>IVRE</strong> ;</li>
         <li>puis rendormez-le.</li>
       </ul>
   </li>
 
-  <li>Lorsqu’un joueur est nommé et que l’<strong>Orgue de Barbarie</strong> est <strong>sobre</strong> :
+  <li>Lorsqu’un joueur est nommé et que l’<strong>Organiste de rue</strong> est <strong>sobre</strong> :
       <ul style="margin-left:20px;">
         <li>annoncez aux joueurs de <strong>fermer les yeux</strong> pour le vote ;</li>
         <li>si l’on vous demande pourquoi, indiquez simplement qu’un  
-            <strong>Orgue de Barbarie</strong> est en jeu ;</li>
+            <strong>Organiste de rue</strong> est en jeu ;</li>
         <li>comptez les votes en silence, sans commenter ;</li>
         <li>ne révélez ni le nombre de votes,  
             ni si la personne nommée est « sur le point de mourir » ;</li>
@@ -156,7 +155,7 @@ et vous appliquez les règles de vote secret lorsqu’il est sobre.
 
   <li>Quand les nominations sont closes :
       <ul style="margin-left:20px;">
-        <li>annoncez que le joueur marqué <strong>ABOUT TO DIE</strong> est exécuté,  
+        <li>annoncez que le joueur marqué avec le jeton de rappel <strong>SUR LE POINT DE MOURIR</strong> est exécuté,  
             et résolvez sa mort normalement.</li>
       </ul>
   </li>
@@ -175,7 +174,7 @@ et vous appliquez les règles de vote secret lorsqu’il est sobre.
       </ul>
   </li>
 
-  <li>À chaque crépuscule, retirez le rappel <strong>IVRE</strong> (DRUNK).</li>
+  <li>À chaque crépuscule, retirez le jeton de rappel <strong>IVRE</strong> .</li>
 
   <li>Précisez bien aux joueurs qu’ils ne sont pas autorisés  
       à utiliser d’autres moyens (toucher, sons, bruits de chaise, etc.)  
@@ -192,12 +191,12 @@ Il y a 8 joueurs vivants.
 Le <a href="../roles_experimentaux/noble.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Noble</a> est nommé.  
 Tous les joueurs ferment les yeux pour voter,  
 et le <a href="../roles_experimentaux/noble.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Noble</a> obtient 5 votes.  
-L’<a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Imp</a> est ensuite nommé :  
+Le <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> est ensuite nommé :  
 yeux fermés, il obtient 7 votes.  
 Puis la <a href="../roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a> est nommée  
 et reçoit 4 votes.  
-Après la fermeture des nominations, les Conteurs et conteuses annoncent  
-que Damien (l’<a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Imp</a>) est exécuté et meurt,  
+Après la fermeture des nominations, le Conteur annonce
+que Damien (le <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>) est exécuté et meurt,  
 et que l’équipe du Bien gagne la partie.
 </p>
 
@@ -209,7 +208,7 @@ et que l’équipe du Bien gagne la partie.
 
   <li>Réfléchissez soigneusement avant de chercher à vous faire exécuter.  
       Quand vous mourrez, les votes redeviennent visibles,  
-      ce qui peut vous démasquer comme <strong>Orgue de Barbarie</strong>.  
+      ce qui peut vous démasquer comme <strong>Organiste de rue</strong>.  
       Parfois, il est préférable de mourir pour faire passer un autre joueur pour bon,  
       ou pour détourner l’attention d’un <span style="color:#d45b5b; font-weight:bold;">Démon</span>.</li>
 
@@ -246,7 +245,7 @@ et que l’équipe du Bien gagne la partie.
 
   <li>Méfiez-vous de la fin de partie.  
       Si l’on arrive au <strong>final 3</strong> et que le Bien est à peu près certain  
-      que vous êtes l’<strong>Orgue de Barbarie</strong>,  
+      que vous êtes l’<strong>Organiste de rue</strong>,  
       il ne lui reste qu’un 50/50 entre les deux autres joueurs  
       pour trouver le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.  
       Vous devez rester un <strong>candidat probable au Démon</strong> jusqu’au bout.  
@@ -271,7 +270,7 @@ et que l’équipe du Bien gagne la partie.
 
 ---
 
-##  <span style="color:#d45b5b;">Combattre l’Orgue de Barbarie</span>
+##  <span style="color:#d45b5b;">Combattre l’Organiste de rue</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -297,7 +296,7 @@ et que l’équipe du Bien gagne la partie.
       ou prétendront ne pas avoir voté alors qu’ils ont fait pencher la balance.</li>
 
   <li>Si vous êtes raisonnablement sûr de savoir  
-      qui est l’<strong>Orgue de Barbarie</strong>,  
+      qui est l’<strong>Organiste de rue</strong>,  
       il peut être judicieux de ne pas le nommer :  
       c’est presque assuré qu’il n’est pas le  
       <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
