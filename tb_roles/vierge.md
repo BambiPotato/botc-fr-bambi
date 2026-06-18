@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Immaculée
-description: La première fois que vous êtes nommée, si le joueur qui vous nomme est un Villageois, il est immédiatement exécuté.
+description: La première fois qu’un joueur vous nomme, il est exécuté immédiatement s’il s’agit d’un Villageois.
 image: /images/Icon_virgin.png
 ---
 
@@ -53,8 +53,8 @@ image: /images/Icon_virgin.png
 </ul>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
-« Je suis pure. Que ceux qui sont sans péché se jettent en avant et souffrent à ma place. 
-  Ma réputation ne sera pas souillée par vos accusations venimeuses. »
+« Je suis pure. Vous qui êtes si droits, jetez-vous à terre et souffrez à ma place. <br> 
+  Ma réputation ne saurait être entachée par le venin de vos accusations. »
 </p> 
 
 
@@ -90,7 +90,7 @@ image: /images/Icon_virgin.png
 
 ##  <span style="color:blue">Résumé</span>    
 
-**« La première fois que vous êtes nommée, si le joueur qui vous nomme est un Villageois, il est immédiatement exécuté.»**
+**« La première fois qu’un joueur vous nomme, il est exécuté immédiatement s’il s’agit d’un Villageois.»**
 
 L'Immaculée peut, malgré elle, provoquer l’exécution de son accusateur, ce qui permet de confirmer quels joueurs sont des Villageois.  
 
@@ -104,19 +104,19 @@ L'Immaculée peut, malgré elle, provoquer l’exécution de son accusateur, ce 
 
 - Si le premier joueur à nommer l'Immaculée est un Villageois :  
   → Déclarez immédiatement que ce joueur est exécuté. Placez un Linceuil de mort sur son jeton.  
-  → L'Immaculée perd sa capacité (placez son jeton de rappel **AUCUN POUVOIR**).  
+  → L'Immaculée perd sa capacité (placez son jeton de rappel **SANS CAPACITÉ**).  
   → Fin de la journée, passez directement à la nuit.  
 
 - Si le premier joueur à nommer l'Immaculée n’est pas un Villageois :  
   → Continuez le vote normalement.  
-  → L'Immaculée perd sa capacité (mettez le jeton de rappel **AUCUN POUVOIR**).  
+  → L'Immaculée perd sa capacité (mettez le jeton de rappel **SANS CAPACITÉ**).  
 
 ---
 
 ##   <span style="color:blue">Exemples</span>  
 
 - La [Lavandière](lavandiere.md) nomme l'Immaculée → la Lavandière est exécutée immédiatement et la journée prend fin.  
-- L’[Ivrogne](ivrogne.md), qui pense être le [Cuisinier](cuistot.md), nomine l'Immaculée → rien ne se passe, mais l'Immaculée perd sa capacité.  
+- L’[Ivrogne](ivrogne.md), qui pense être le [Cuisinier](cuistot.md), nomme l'Immaculée → rien ne se passe, mais l'Immaculée perd sa capacité.  
 - Un joueur mort tente de nommer l'Immaculée → cela ne compte pas, car les morts ne peuvent pas faire de nommination. L'Immaculée conserve sa capacité.  
 
 ---
