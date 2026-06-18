@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Corneille
-description:  "Si vous mourez pendant la nuit, vous êtes réveillé pour choisir un joueur : vous apprenez son rôle." 
+description:  "Si vous mourez la nuit, vous êtes réveillée pour choisir un joueur et apprendre son rôle." 
 image: /images/Icon_ravenkeeper.png
 ---
 
@@ -75,9 +75,10 @@ image: /images/Icon_ravenkeeper.png
 </ul>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
-« Mes oiseaux me vengeront ! Envolez-vous ! Envolez-vous, mes doux et loyaux compagnons ! 
-  Vers le manoir et la rivière ! 
-  Dans les ruelles et les salons ! Envolez-vous ! »
+« Mes oiseaux me vengeront ! Volez !
+Volez, mes sœurs, et faites votre devoir !
+Volez au manoir ! Volez à la rivière ! Que vos ailes
+soient l’instrument de ma vengeance ! Volez ! »
 </p>  
 
 
@@ -85,12 +86,11 @@ image: /images/Icon_ravenkeeper.png
 
 ##  <span style="color:blue">Résumé</span>  
 
-**« Si vous mourez pendant la nuit, vous êtes réveillé pour choisir un joueur : vous apprenez son rôle. »**  
+**« Si vous mourez la nuit, vous êtes réveillée pour choisir un joueur et apprendre son rôle. »**  
 
-Le Corneille apprend le rôle d’un joueur s’il meurt la nuit.  
-
-- Le Corneille est réveillé la nuit où il meurt et choisit immédiatement un joueur.  
-- Il peut même choisir un joueur déjà mort.  
+- **LA CORNEILLE** apprend le rôle de n’importe quel joueur si elle meurt la nuit.
+- La Corneille est réveillée lors de la nuit où elle meurt. Elle choisit alors immédiatement un joueur.
+- La Corneille peut choisir un joueur mort si elle le souhaite.
 
 ---
 
@@ -100,22 +100,22 @@ Le Corneille apprend le rôle d’un joueur s’il meurt la nuit.
 - Il désigne un joueur. Montrez-lui le jeton de rôle de ce joueur.  
 - Puis rendormez le Corneille.  
 
- **Conseil** : découragez ou interdisez les joueurs de parler pendant qu’ils font leur choix la nuit.  
+ **Conseil** : *Nous vous conseillons d'interdire aux joueurs de parler pendant la nuit de ce qu’ils sont en train de faire.*
 
 ---
 
 ##  <span style="color:blue">Exemples</span>   
-- Le Corneille est tué par le **[<span style="color:red">Diablotin</span>](imp.md)** et choisit **Benjamin**. Benjamin est **[Empathe](empathique.md)** : le Corneille apprend le rôle [Empathe](empathique.md) .  
+- La Corneille est tué par le **[<span style="color:red">Diablotin</span>](imp.md)** et choisit **Benjamin**. Benjamin est **[Empathe](empathique.md)** : le Corneille apprend le rôle [Empathe](empathique.md) .  
 
 - Le **[<span style="color:red">Diablotin</span>](imp.md)** attaque le **[<span style="color:blue">Maire</span>](maire.md)**. 
-  - Le Maire survit, mais le **Corneille** meurt à sa place. Le Corneille choisit **Damien**, une **[Recluse](reclus.md)** morte. 
-  - Le Corneille apprend que **Damien** était en réalité la **[<span style="color:red">Femme Écarlate</span>](femmeecarlate.md)**, 
+  - Le Maire survit, mais le **Corneille** meurt à sa place. La Corneille choisit **Damien**, une **[Recluse](reclus.md)** morte. 
+  - La Corneille apprend que **Damien** était en réalité la **[<span style="color:red">Femme Écarlate</span>](femmeecarlate.md)**, 
     à cause de la capacité de la [Recluse](reclus.md).  
 
 ---
 
 ##  <span style="color:blue">Conseils & Astuces</span>  
-- Si le Démon sait que vous êtes Corneille, il évitera souvent de vous tuer.  
+- Si le Démon sait que vous êtes la Corneille, il évitera souvent de vous tuer.  
   Bluffez en prétendant être un rôle menaçant comme [Empathe](empathique.md), [Voyante](voyante.md),ou [Fossoyeur](croquemort.md) pour attirer son attention. 
   
 - Réfléchissez à qui vous souhaitez cibler **avant la nuit**, pour ne pas décider dans la panique.  
@@ -133,7 +133,7 @@ Le Corneille apprend le rôle d’un joueur s’il meurt la nuit.
 
 ##  <span style="color:blue">Bluffer Corneille</span>  
 - Vous ne vous réveillez **que si vous mourez la nuit**.  
-  Bluffez en tant que Gardien est très crédible : mourir la nuit rend souvent un joueur digne de confiance.  
+  Bluffez en tant que Corneille est très crédible : mourir la nuit rend souvent un joueur digne de confiance.  
   
 - Après votre mort, vous pouvez :  
   - Pointer du doigt un bon joueur en le faisant passer pour un Sbire ou un Démon.  
@@ -155,14 +155,14 @@ Le Corneille apprend le rôle d’un joueur s’il meurt la nuit.
     <img src="../images/Icon_leviathan.png" alt="Lévathan" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/leviathan.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Léviathan</a> :  
     Chaque nuit*, le Léviathan choisit un joueur vivant (différent des nuits précédentes) : 
-    un Corneille choisi utilise sa capacité mais ne meurt pas.
+    une Corneille choisie utilise sa capacité mais ne meurt pas.
     </li>  
     <li>
     🧞
     <img src="../images/Icon_riot.png" alt="Boffin" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> :  
     Chaque nuit*, le Riot choisit un joueur bon vivant (différent des nuits précédentes) : 
-    un Corneille choisi utilise sa capacité mais ne meurt pas.
+    une Corneille choisie utilise sa capacité mais ne meurt pas.
    </li>  
   </ul>
 
