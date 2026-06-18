@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Grand-Mère
-description: Vous commencez en connaissant un bon joueur et son rôle. Si le Démon le tue, vous mourez aussi.
+description: "Lors de votre première nuit, vous apprenez un joueur bon et son rôle. Si le Démon tue ce joueur, vous mourez également."
 image: /images/Icon_grandmother.png
 ---
 
@@ -80,8 +80,9 @@ image: /images/Icon_grandmother.png
 
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; margin-top:10px;">
-  « Mets une veste si tu sors, mon chéri. Et ton thermos. Et ton écharpe.  
-  Mon cœur est fragile, tu sais. Que ferais-je si tu attrapais froid… ou pire ? »
+« Si tu vas dehors, prends ton manteau, mon petit ! Et ton bonnet.<br>
+Et ton écharpe. J’ai le cœur bien fragile...<br>
+Je ne voudrais pas que tu attrapes la mort. Ça me tuerait »
 </p>
 
 ---
@@ -89,7 +90,7 @@ image: /images/Icon_grandmother.png
 ##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Vous commencez en connaissant un bon joueur et son rôle. Si le Démon le tue, vous mourez aussi. »</strong>
+  <strong>« Lors de votre première nuit, vous apprenez un joueur bon et son rôle. Si le Démon tue ce joueur, vous mourez également »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -165,21 +166,21 @@ mais crée aussi une potentielle double mort si le <span style="color:#d45b5b; f
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Au cours de la première nuit, la <strong>Grand-Mère</strong> se réveille  
 et apprend que <strong>Corentin</strong>, son <strong>Petit-Enfant</strong>,  
-est <a href="../bmr_roles/professeur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Professeur</a>.  
+est le <a href="../bmr_roles/professeur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Professeur</a>.  
 Trois nuits plus tard, Corentin est tué par le <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
 donc la <strong>Grand-Mère</strong> meurt aussi.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>Sacha</strong> est
+<strong>Sacha</strong> est le
 <a href="../bmr_roles/parieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Parieur</a>.  
 Elle perd son pari et meurt à cause de son pouvoir.  
 La <strong>Grand-Mère</strong> reste vivante.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-La <strong>Grand-Mère</strong> sait que <strong>Camille</strong>, sa petite-fille,  
-est <a href="../bmr_roles/bricoleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bricoleur</a>.  
+La <strong>Grand-Mère</strong> sait que <strong>Camille</strong>, son <strong>Petit-Enfant</strong>,  
+est le <a href="../bmr_roles/bricoleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bricoleur</a>.  
 Camille est tuée par le <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
 mais la <strong>Grand-Mère</strong> est ivre à cause du  
 <a href="../bmr_roles/sailor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a>,  
@@ -194,7 +195,7 @@ donc elle reste en vie.
 
   <li><strong>Protégez votre Petit-Enfant adoré&nbsp;!</strong>  
       Il est presque certain qu’il est bon,  
-      et cette certitude est rare et précieuse dans Bad Moon Rising.  
+      et cette certitude est rare et précieuse dans strong>Bad Moon Rising</strong>.  
       De plus, s’il est tué par le <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
       vous mourrez aussi — motivation supplémentaire&nbsp;!</li>
 
@@ -212,13 +213,13 @@ donc elle reste en vie.
       qu’il y a un <a href="../bmr_roles/shabaloth.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a>  
       ou un <a href="../bmr_roles/po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a>.</li>
 
-  <li>Jouez proche de votre Petit-Enfant,  
+  <li>Jouez avec votre Petit-Enfant,  
       mais évitez de trop chuchoter ensemble au début :  
       cela attire l’attention du <span style="color:#d45b5b; font-weight:bold;">Mal</span>.</li>
 
   <li>Demandez à des rôles protecteurs, comme  
       l’<a href="../bmr_roles/innkeeper.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a>  
-      ou la <a href="../bmr_roles/tealady.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dame de Thé</a>,  
+      ou la <a href="../bmr_roles/tealady.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Tisanière</a>,  
       de le protéger discrètement.</li>
 
 </ul>
