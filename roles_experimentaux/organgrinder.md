@@ -9,7 +9,7 @@ title: Organiste de Rue
   </a>
 </p>
 
-<!-- Orgue de Barbarie -->
+<!-- Organiste de rue -->
 
 <div style="text-align:center; margin: 20px 0%;">
   <a href="./organgrinder.html" style="text-decoration:none;">
@@ -28,7 +28,7 @@ title: Organiste de Rue
   </a>
 </div>
 
-#  <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Orgue de Barbarie</span>
+#  <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Organiste de rue</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « La manivelle tourne encore et encore.  
