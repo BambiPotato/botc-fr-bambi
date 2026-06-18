@@ -108,7 +108,7 @@ L’**Empoisonneur** perturbe secrètement les capacités des autres rôles.
 - L’[Empathe](empathique.md) empoisonné apprend un « 0 » alors qu’il est assis entre deux joueurs <span style="color:red">maléfiques</span>. 
 La nuit suivante, il apprend un « 2 ».  
 - Le [Détective](enqueteur.md) empoisonné apprend que l’un de deux joueurs est le [<span style="color:red">Baron</span>](baron.md), alors qu’aucun ne l’est.  
-- Le [Fossoyeur](croquemort.md) empoisonné apprend une mauvaise information : le [<span style="color:red">Diablotin</span>](imp.md) est mort, mais il croit que c’est l' [Innocente](vierge.md).  
+- Le [Fossoyeur](croquemort.md) empoisonné apprend une mauvaise information : le [<span style="color:red">Diablotin</span>](imp.md) est mort, mais il croit que c’est l' [Immaculée](vierge.md).  
 - L’Empoisonneur cible le [Maire](maire.md), puis devient le [<span style="color:red">Diablotin</span>](imp.md). 
 Comme il n’y a plus d’Empoisonneur en jeu, le Maire n’est plus empoisonné.  
 
@@ -117,7 +117,7 @@ Comme il n’y a plus d’Empoisonneur en jeu, le Maire n’est plus empoisonné
 ##  <span style="color:red">Astuces & Conseils</span>    
 
 - Les meilleures cibles sont les rôles donnant des infos en continu : [Empathe](empathique.md), [Fossyeur](croquemort.md), [Voyante](voyante.md).  
-- Empoisonner un joueur à capacité unique ([Innocente](vierge.md), [Pourfendeuse](mercenaire.md)], [Maire](maire.md)) peut être **dévastateur**.  
+- Empoisonner un joueur à capacité unique ([Immaculée](vierge.md), [Pourfendeuse](mercenaire.md)], [Maire](maire.md)) peut être **dévastateur**.  
 - Coordonnez-vous avec votre [<span style="color:red">Démon</span>](../demons.md) pour éviter de cibler les mêmes personnes.  
 - Vous pouvez même **empoisonner votre propre Démon** pour simuler une protection (comme si un [Moine](moine.md) l’avait protégé).  
 - Vous pouvez rendre la [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md) inapte à devenir Démon,
@@ -133,6 +133,8 @@ Comme il n’y a plus d’Empoisonneur en jeu, le Maire n’est plus empoisonné
 - L’Empoisonneur adore cibler les leaders de table ou ceux qui parlent beaucoup.  
 - Distinguer l’[Ivrogne](ivrogne.md) de l’Empoisonneur est crucial : si plusieurs joueurs reçoivent de fausses infos, c’est probablement lui.  
 - L' [Archiviste](bibliothecaire.md) ou le [Détective](enqueteur.md) peuvent le débusquer tôt.  
+
+---
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
