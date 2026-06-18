@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Moine
-description: "Chaque nuit*, choisissez un joueur (pas vous-même) : il est à protégé du Démon cette nuit." 
+description: "Chaque nuit*, choisissez un joueur (sauf vous-même) : il est protégé du Démon cette nuit." 
 image: /images/Icon_monk.png
 ---
 
@@ -84,7 +84,7 @@ image: /images/Icon_monk.png
 
 ##  <span style="color:blue">Résumé</span>
 
- <strong>« Chaque nuit*, choisissez un joueur (pas vous-même) : il est à protégé du Démon cette nuit. »</strong>
+ <strong>« Chaque nuit*, choisissez un joueur (sauf vous-même) : il est protégé du Démon cette nuit. »</strong>
 
 - Le moine protège les autres joueurs du démon.
 - Chaque nuit, sauf la première, le moine peut choisir de protéger n'importe quel joueur sauf lui-même.
@@ -140,13 +140,13 @@ image: /images/Icon_monk.png
     🧞
     <img src="../images/Icon_leviathan-1.png" alt="Leviathan" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/leviathan.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Léviathan</a> :  
-    Si le Léviathan nomine et exécute le joueur protégé par le Moine, l’équipe des bons gagne.
+    Si le Léviathan nomme et exécute le joueur protégé par le Moine, l’équipe des bons gagne.
   </li>
   <li>
    🧞
     <img src="../images/Icon_riot.png" alt="Riot" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> :  
-    Si le Riot nomine et exécute le joueur protégé par le Moine, l’équipe des bons gagne.
+    Si le Riot nomme et exécute le joueur protégé par le Moine, l’équipe des bons gagne.
   </li>
   </ul> 
 
