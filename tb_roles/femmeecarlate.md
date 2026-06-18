@@ -78,9 +78,9 @@ image: /images/Icon_scarletwoman.png
 </ul>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
-« Tu m’as révélé les secrets du Conseil de la Flamme Pourpre. 
-  Nous avons brûlé ensemble dans le feu, dans le désir et dans la communion bestiale, 
-  et je t’ai servi pour toujours. 
+« Tu m’as révélé les secrets du Conseil de la Flamme Pourpre.<br> 
+  Nous avons brûlé ensemble dans le feu, dans le désir et dans la communion bestiale,<br> 
+  et je t’ai servi pour toujours.<br> 
   Mais ce soir, mon cher, c’est moi ta maîtresse.  »
 </p>
 
