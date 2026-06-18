@@ -12,7 +12,7 @@ image: /images/Icon_slayer.png
   </a>
 </p>
 
-#  <span style="color:blue">Poufendeuse</span>
+#  <span style="color:blue">Pourfendeuse</span>
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
