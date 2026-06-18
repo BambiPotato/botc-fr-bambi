@@ -75,10 +75,10 @@ image: /images/Icon_ravenkeeper.png
 </ul>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
-« Mes oiseaux me vengeront ! Volez !
-Volez, mes sœurs, et faites votre devoir !
-Volez au manoir ! Volez à la rivière ! Que vos ailes
-soient l’instrument de ma vengeance ! Volez ! »
+« Mes oiseaux me vengeront ! Volez ! <br>
+Volez, mes sœurs, et faites votre devoir ! <br>
+Volez au manoir ! Volez à la rivière ! <br>
+Que vos ailes soient l’instrument de ma vengeance ! Volez ! »
 </p>  
 
 
