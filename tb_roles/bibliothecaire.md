@@ -55,9 +55,9 @@ image: /images/Icon_librarian.png
 </ul>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
-« Bien sûr madame, dans des circonstances normales,<br> 
-  vous pourriez emprunter le *Codex Malificarium* dans les archives de la bibliothèque.<br> 
-  Mais… il semble que vous ne soyez pas membre. »
+« Bien sûr madame, nous avons biens,<br> 
+  le Codex Malificarium dans nos archives.<br> 
+  Mais pour le consulter, il vous faut une autorisation. »
 </p>
 
 ---
