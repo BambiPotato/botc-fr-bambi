@@ -52,9 +52,8 @@ image: /images/Icon_recluse-1.png
 </ul>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
-« Retirez vos sales paluches de chez moi, vous m’entendez ? 
-Grr. Y’a de mauvais coins là-bas, vers le sud… 
-Filez donc ! Chez les miens, on n’affronte pas les démons à découvert. Ouste ! »
+« Feriez ben d’pas m’estancer avec cte stoire de Démon. Grr. Gardez <br>
+don vot’nez cheu vous où qu’ç’a vous r’gad. Git ! Mi, j’m’occupe point d’vos affaires. F’tez-moi l’camp.»
 </p> 
 
 
@@ -94,8 +93,7 @@ Filez donc ! Chez les miens, on n’affronte pas les démons à découvert. Oust
 La Recluse peut sembler être un rôle maléfique, mais elle est en réalité dans le camp du <strong>Bien</strong>.
 
 - Lorsque l'alignement de la Recluse est détectée, le Conteur choisit si la Recluse est considérée comme bon ou maléfique.
-- Lorsque la Recluse est ciblée par une capacité qui affecte des Sbires ou des Démons spécifiques, 
-le Conteur choisit si la Recluse est enregistrée comme ce Sbire ou Démon.
+- Lorsque la Recluse est ciblée par une capacité qui affecte des Sbires ou des Démons spécifiques, le Conteur choisit si la Recluse est enregistrée comme ce Sbire ou Démon.
 - La Recluse peut apparaître comme bon ou maléfique, ou encore comme un Marginal, un Sbire ou un Démon, à différents moments de la même nuit. 
 - Le Conteur choisit ce qui lui semble le plus intéressant.
 - Une Recluse enregistrée comme un Sbire ou un Démon particulier ne possède pas les capacités de ce rôle. 
