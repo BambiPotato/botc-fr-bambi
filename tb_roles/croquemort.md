@@ -86,7 +86,7 @@ image: /images/Icon_undertaker.png
 Le Fossoyeur apprend quel rôle a été exécuté aujourd'hui.
 
 - Le joueur doit être mort lors d'une exécution pour que le Fossoyeur puisse l'identifier. 
-Les morts survenant en journée pour d'autres raisons, comme le choix d'un joueur par le [<span style="color:#9b59b6;">Flingeur</span>](../voyageurs/gunslinger.md) ou l'exil d'un *Voyageur* , ne sont pas pris en compte.
+Les morts survenant en journée pour d'autres raisons, comme le choix d'un joueur par le [<span style="color:#9b59b6;">Franc-tireur</span>](../voyageurs/gunslinger.md) ou l'exil d'un *Voyageur* , ne sont pas pris en compte.
 
 - Le Fossoyeur se réveille chaque nuit sauf la première, car il n'y a encore eu aucune exécution.
 Si personne n'est mort aujourd'hui, leFossoyeur n'apprend rien. 
@@ -121,7 +121,7 @@ Dans d’autres éditions, il peut y en avoir plusieurs (le Conteur choisit alor
 
 - Le [Maire](maire.md) est exécuté. La nuit, le Fossoyeur voit le jeton de **Maire**.  
 
-- L’[Ivrogne](ivrogne.md), qui pensait être l' [Innocente](vierge.md), est exécuté. Le Croque-Mort voit le jeton **Ivrogne**.  
+- L’[Ivrogne](ivrogne.md), qui pensait être l' [Immaculée](vierge.md), est exécuté. Le Fossoyeur voit le jeton **Ivrogne**.  
 
 - L’[<span style="color:red">Espionne</span>](../tb_roles/espion.md) est exécutée, mais elle s’enregistre comme [Majordome](majordome.md). 
 Deux Voyageurs sont exilés. Le Fossoyeur voit **Majordome**, car les voyageurs exiléss ne comptent pas.  
