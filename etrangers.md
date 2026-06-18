@@ -87,7 +87,7 @@ Ils sèment le doute mais restent du côté des bons.
   <!-- Enfant de la Lune (BMR) -->
   <a href="./bmr_roles/enfantdelalune.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
     <img src="./images/Icon_moonchild.png" alt="Enfant de la Lune" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
-    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Enfant de la Lune</span>
+    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Sélénite</span>
   </a>
 
   <!-- Ermite (Expérimentaux) -->
@@ -105,7 +105,7 @@ Ils sèment le doute mais restent du côté des bons.
   <!-- Brute (BMR) -->
   <a href="./bmr_roles/brute.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
     <img src="./images/Icon_goon.png" alt="Gros Bras" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
-    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Brute</span>
+    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Gros Bras</span>
   </a>
 
   <!-- Hérétique (Expérimentaux) -->
@@ -147,7 +147,7 @@ Ils sèment le doute mais restent du côté des bons.
   <!-- Mutant (S&V) -->
   <a href="./sv_roles/mutant.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
     <img src="./images/Icon_mutant.png" alt="Mutant" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
-    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Mutant</span>
+    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Bête de Foire</span>
   </a>
 
   <!-- Ogre (Expérimentaux) -->
