@@ -67,7 +67,7 @@ image: /images/Logo_bad_moon_rising-1.png
     <li><a href="./bmr_roles/menestrel.html" style="color:#4ea3ff; text-decoration:none;">Ménestrel</a></li>
     <li><a href="./bmr_roles/damedethe.html" style="color:#4ea3ff; text-decoration:none;">Tisanière</a></li>
     <li><a href="./bmr_roles/pacifiste.html" style="color:#4ea3ff; text-decoration:none;">Pacifiste</a></li>
-    <li><a href="./bmr_roles/fou.html" style="color:#4ea3ff; text-decoration:none;">Fou</a></li>
+    <li><a href="./bmr_roles/fou.html" style="color:#4ea3ff; text-decoration:none;">Fou du Roi</a></li>
   </ul>
 
   <p style="font-weight:bold; color:#80aee0; margin-bottom:4px;">Marginaux</p>
