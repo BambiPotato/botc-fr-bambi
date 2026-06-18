@@ -235,7 +235,7 @@ Sauf à moi. Vous pouvez me faire confiance. »
   </li>
   <li>
     Tuez aussi les joueurs les plus crédibles tôt comme l' 
-    <a href="./vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Innocente</a>
+    <a href="./vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Immaculée</a>
     que tout le monde connaît ne sera jamais exécutée, ce qui augmente vos chances d’être exécuté plus tard.<br>
     Deux
     <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a><br>
