@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Recluse
-description: Vous pouvez être enregistrée comme maléfique et comme un Sbire ou un Démon, même si vous êtes morte.
+description: Vous pourriez apparaître comme maléfique et comme Sbire ou Démon, même morte.
 image: /images/Icon_recluse-1.png
 ---
 
@@ -89,7 +89,7 @@ Filez donc ! Chez les miens, on n’affronte pas les démons à découvert. Oust
 
 ##  <span style="color:blue">Résumé</span>
 
-« **Vous pouvez être enregistrée comme maléfique et comme un Sbire ou un Démon, même si vous êtes morte.** » 
+« **Vous pourriez apparaître comme maléfique et comme Sbire ou Démon, même morte.** » 
 
 La Recluse peut sembler être un rôle maléfique, mais elle est en réalité dans le camp du <strong>Bien</strong>.
 
@@ -125,7 +125,7 @@ le Conteur choisit si la Recluse est enregistrée comme ce Sbire ou Démon.
 
 ##  <span style="color:blue">Conseils & Astuces</span>
 
-- Annoncez tôt que vous êtes le Reclus : cela permet aux bons joueurs d’expliquer leurs infos incohérentes (**[Cuisinier](./cuistot.md)**,
+- Annoncez tôt que vous êtes la Recluse : cela permet aux bons joueurs d’expliquer leurs infos incohérentes (**[Cuisinier](./cuistot.md)**,
 **[Empathe](./empathique.md)**, **[Détective](./enqueteur.md)**, etc.).  
 - À l’inverse, cacher votre identité jusqu’au dernier jour peut vous éviter l’exécution prématurée.  
 - N’oubliez pas : vous êtes **bon** ! Vous êtes donc un moins bon choix d’exécution que n’importe quel joueur réellement maléfique.  
@@ -141,7 +141,7 @@ le Conteur choisit si la Recluse est enregistrée comme ce Sbire ou Démon.
 - Vous ne vous réveilleriez jamais, n'apprendriez rien, et n'agiriez jamais durant la journée.
 - Prétexter : « Je ne suis pas maléfique, je **m’enregistre juste comme ça** » est un **bluff parfait** cela peut expliquer,
   pourquoi vous apparaissez maléfique dans les infos d'une [Voyante](./voyante.md), d'un [Empathe](./empathe.md) ou d'un 
-  [Détective](./empathique.md).
+  [Détective](./enqueteur.md).
 - Jouez de manière utile et proactive pour gagner la confiance des bons joueurs.  
 - Gardez ce bluff comme **roue de secours** si votre couverture tombe : révéler être Recluse « pour semer la confusion » peut sauver votre crédibilité.  
 - Vous continuez de vous enregistrer maléfique même après votre mort → prolongez le bluff au-delà de la tombe, 
