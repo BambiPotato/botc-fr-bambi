@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Maire
-description: "S’il reste 3 joueurs vivants et qu’aucune exécution n’a lieu, votre équipe gagne.Si vous devez mourir pendant la nuit, un autre joueur pourrait mourir à votre place."
+description: "S’il n’y a que 3 joueurs en vie et pas d’exécution, votre équipe gagne. Si vous mourez la nuit, un autre joueur pourrait mourir à votre place."
 image: /images/Icon_mayor.png
 ---
 
@@ -43,10 +43,10 @@ image: /images/Icon_mayor.png
   </li>
 </ul>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
-  « Nous devons mettre nos différences de côté et mettre fin à ces massacres insensés. <br>
-  Après tout, nous sommes tous des contribuables. <br>
-  Enfin… la plupart d’entre nous. »
+<p style="color:#f5f5f5; font-style:italic; font-size:15px; line-height:1.7; margin-left:20px; margin-right:20px;">
+  « Nous devons mettre nos différends de côté et cesser de nous entretuer. <br>
+  Tout le monde paie ses impôts ici, non ? Enfin presque. <br> »
+  
 </p>
 
 <hr>
@@ -79,8 +79,8 @@ image: /images/Icon_mayor.png
 
 <!-- IMPORTANT : pas d’italique + pas de point devant, comme demandé -->
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
-  <strong>« S’il reste 3 joueurs vivants et qu’aucune exécution n’a lieu, votre équipe gagne.</strong> <br>
-  <strong>Si vous devez mourir pendant la nuit, un autre joueur pourrait mourir à votre place. »</strong>
+  <strong>« S’il n’y a que 3 joueurs en vie et pas d’exécution, votre équipe gagne. </strong> <br>
+  <strong>Si vous mourez la nuit, un autre joueur pourrait mourir à votre place. »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
@@ -90,8 +90,7 @@ Pour survivre, le maire provoque parfois « accidentellement » la mort d'un aut
 
 S'il ne reste que trois joueurs en vie à la fin de la journée, et qu'aucune exécution n'a eu lieu ce jour-là, alors la partie se termine et le bien l'emporte.<br>
 
-Les voyageurs comptent comme des joueurs pour la victoire du maire et doivent donc être exilés en premier.
-N'oubliez pas que l'exil n'est pas une exécution. <br>
+Les Voyageurs empêchent la victoire du Maire. Ils doivent être exilés au préalable. Un exil n’est pas une exécution. <br>
 
 Les Légendaires ne comptent pas comme joueurs pour la victoire du Maire, car le Conteur n'est pas un joueur.
 Si le Démon attaque le Maire et que le Conteur choisit à la place un joueur mort, le Soldat ou un joueur protégé par le Moine, ce joueur ne mourra pas cette nuit. <br>
@@ -141,7 +140,7 @@ Dans <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; t
     <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>
     attaque le
     <a href="./maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a>
-    → le Conteur choisit de tuer le
+    → le Conteur choisit de tuer la
     <a href="./gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a>
     à la place.<br>
   </li>
