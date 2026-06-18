@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Détective
-description: Vous commencez en apprenant 2 joueurs et le rôle de Sbire de l’un des deux.
+description: Lors de votre première nuit, vous apprenez un rôle de Sbire en jeu parmi 2 joueurs.
 image: /images/Icon_investigator.png
 ---
 
@@ -22,7 +22,7 @@ image: /images/Icon_investigator.png
   <a href="./enqueteur.html" style="text-decoration:none;">
     <img src="../images/Icon_investigator.png" alt="Enquêteur" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:blue; font-weight:bold; font-size:22px;">Enquêteur</span>
+    <span style="color:blue; font-weight:bold; font-size:22px;">Détective</span>
   </a>
 </div>
 
@@ -80,14 +80,16 @@ image: /images/Icon_investigator.png
 </ul>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
-«  Une belle nuit pour une promenade, n’est-ce pas, Monsieur Morozov ? Ou devrais-je dire… **BARON** Morozov ? »
+«  Beau temps pour faire une promenade, <br>
+n’est-ce pas, Monsieur Morozov ? <br>
+Ou devrais-je dire... Monsieur le Baron ? »
 </p>   
 
 ---
 ##  <span style="color:blue">Résumé</span>
 **« Lors de votre première nuit, vous apprenez un rôle de [<span style="color:red">Sbire</span>](../sbires.md) en jeu parmi 2 joueurs.»** 
 
-Le **Détective** apprend qu’un rôle de Sbire particulier est en jeu, mais pas lequel des deux joueurs le possède.
+Le **Détective** apprend qu’un rôle de Sbire particulier est en jeu, mais ne sait pas qui l’incarne.
 
 Lors de la première nuit, il apprend que l’un de deux joueurs est un **Sbire spécifique**.  
 Il ne reçoit cette information qu’une seule fois, au début de la partie.  
