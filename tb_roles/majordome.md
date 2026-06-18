@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Majordome
-description: "Chaque nuit, choisissez un joueur (pas vous-même) : demain, vous ne pourrez voter que si ce joueur vote également." 
+description: "Chaque nuit, choisissez un joueur (sauf vous-même). Le lendemain, vous pouvez voter uniquement si ce joueur vote." 
 image: /images/Icon_butler.png
 ---
 
@@ -84,7 +84,7 @@ image: /images/Icon_butler.png
 ---
 
 ##  <span style="color:blue">Résumé</span>
-**« Chaque nuit, choisissez un joueur (pas vous-même) : demain, vous ne pourrez voter que si ce joueur vote également. »**  
+**« Chaque nuit, choisissez un joueur (sauf vous-même). Le lendemain, vous pouvez voter uniquement si ce joueur vote. »**  
 
 Le Majordome ne peut voter que si son **Maître** vote.  
 
@@ -149,7 +149,7 @@ Le Majordome ne peut voter que si son **Maître** vote.
     🧞
     <img src="../images/Icon_organgrinder.png" alt="Boffin" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/organgrinder.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Organiste de rue</a> :  
-   Si l'Orgue de Barbarie impose un vote avec les yeux fermés, le Majordome peut lever la main pour voter, 
+   Si l'Organiste de rue impose un vote avec les yeux fermés, le Majordome peut lever la main pour voter, 
    mais son vote n’est compté que si son maître a voté également.
   </li>
   </ul>
