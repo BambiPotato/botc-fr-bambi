@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Espionne  
-description:  "Chaque nuit, vous voyez le Grimoire. Vous pouvez apparaître comme Bonne et comme Villageois ou Marginale, même si vous êtes morte."
+description:  "Chaque nuit, vous voyez le Grimoire. Vous pourriez apparaître comme bonne et comme Villageois ou Marginal, même morte."
 image: /images/Icon_spy.png
 ---
 
@@ -75,15 +75,18 @@ image: /images/Icon_spy.png
 </ul>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
-« Tout maître brasseur digne de ce nom sait qu’aucune concoction ne crée plus vite des problèmes que celle où les espions semblent doubles »
+« Un agent double ? <br>
+Je ne sers qu’une seule cause. <br>
+Mais saurez-vous laquelle ? »
 </p>
 
 
 ---
 
 ##  <span style="color:red">Résumé</span>
-**« Chaque nuit, vous voyez le Grimoire. Vous pouvez apparaître comme Bonne et comme Villageois ou Marginale, même si vous êtes morte. »**
+**« Chaque nuit, vous voyez le Grimoire. Vous pourriez apparaître comme bonne et comme Villageois ou Marginal, même morte. »**
 
+**L’ESPIONNE** connaît tous les rôles. Elle-même apparaît comme bonne, mais le joueur est maléfique.
 - L’Espionne est un **Sbire maléfique**, mais elle peut **s’enregistrer comme Bonne** comme Villageois ou Marginale quand une capacité cherche à détecter son alignement.  
 - Elle a accès **chaque nuit au Grimoire**, ce qui lui donne une vision complète de la partie : rôles, statuts, marqueurs du Conteur.  
 - Elle **ne gagne pas les capacités** des rôles sous lesquels elle s’enregistre par exemple : 
@@ -95,10 +98,14 @@ image: /images/Icon_spy.png
 ##  <span style="color:red">Comment Conter</span>
 
 - Chaque nuit, **réveillez l’Espionne** et montrez-lui le **Grimoire complet** aussi longtemps qu’elle le souhaite.  
-- Quand une capacité détecte ou affecte un joueur « Bon » / Villageois / Marginal, **choisissez comment l’Espionne s’enregistre** :  
-  - Montrez un jeton « Bon » si besoin.  
-  - En tant que Conteur, il est conseillé que l'Espionne soit vue comme Villageois et ou /Marginal.  
-- ⚠️ Gardez le Grimoire **bien rangé et orienté** pour que l’Espionne voie facilement.
+- Chaque fois que l'Espionne est ciblée par une capacité qui détecte ou affecte les rôles bons, choisissez le rôle et l'alignement<br>
+sous lesquels l'Espionne apparaît. 
+- (Faites ce qu’il faut auprès des autres joueurs : montrez un jeton de rôle bon, faites signe avec les doigts,hochez la tête,<br>
+ou permettez à une capacité de fonctionner si elle affecte uniquement les joueurs bons, Villageois ou Marginaux.)<br>
+
+  **Conseil pour les Conteurs**
+  - *N'oubliez pas de garder votre Grimoire bien rangé et de le montrer à l'Espionne dans le bon sens, afin que l’Espionne
+puisse facilement voir qui est qui.*
 
 ---
 
@@ -109,7 +116,7 @@ image: /images/Icon_spy.png
 - L’Espionne est voisine du **[Diablotin](imp.md)** et de l’**[Empathe](../tb_roles/empathique.md)**.  
   - Le **[Cuisinier](../tb_roles/cuistot.md)** apprend un « 1 » car l’Espion est enregistré comme Maléfique.  
   - La nuit suivante, l’Empathique apprend « 0 », car l’Espion s’enregistre comme Bon.  
-- L’Espion nomme la **[Innocente](../tb_roles/vierge.md)** et est exécuté par sa capacité, car il s’enregistre comme Villageois.  
+- L’Espion nomme la **[Immaculée](../tb_roles/vierge.md)** et est exécuté par sa capacité, car il s’enregistre comme Villageois.  
   Cette nuit-là, le **[Fossoyeur](../tb_roles/croquemort.md)** apprend que l’**[Ivrogne](../tb_roles/ivrogne.md)** est mort — car l’Espion s’est enregistré comme Ivrogne.
 
 ---
@@ -124,7 +131,7 @@ image: /images/Icon_spy.png
 - **Bluffer est facile** : vous savez quels rôles ne sont pas en jeu. Choisissez-en un crédible.  
 - Vous pouvez vous faire passer pour un rôle à informations (**[Lavandière](../tb_roles/lavandiere.md)**, **[Archiviste](../tb_roles/bibliothecaire.md)**, **[Détective](../tb_roles/enqueteur.md)**) et donner de fausses pistes.  
 - **Coordonnez-vous avec le Démon et les autres Sbires** pour indiquer les bonnes cibles.  
-- Vous pouvez même vous **sacrifier volontairement** sur une **[Innocente](../tb_roles/vierge.md)** pour donner confiance à l’équipe.  
+- Vous pouvez même vous **sacrifier volontairement** sur une **[Immaculée](../tb_roles/vierge.md)** pour donner confiance à l’équipe.  
 - Vous serez souvent « vu comme bon » par un **[Empathe](../villageois/empathique.md)** ou un **[Cuisinier](../tb_roles/cuistot.md)**, ce qui vous aide à infiltrer le groupe.  
 
 ---
