@@ -43,7 +43,7 @@ image: /images/Icon_mayor.png
   </li>
 </ul>
 
-<p style="color:#f5f5f5; font-style:italic; font-size:15px; line-height:1.7; margin-left:20px; margin-right:20px;">
+<p style="text-align:left; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Nous devons mettre nos différends de côté et cesser de nous entretuer. <br>
   Tout le monde paie ses impôts ici, non ? Enfin presque. <br> »
   
