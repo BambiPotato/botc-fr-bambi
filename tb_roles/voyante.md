@@ -96,11 +96,11 @@ La **Voyante** détecte si un joueur est le [<span style="color:red">Démon</spa
 - Elle n’apprend pas lequel des deux est le Démon, seulement qu’un des deux l’est.
 - Si aucun des deux n’est le Démon, elle apprend cette information à la place.
 
-- Malheureusement, un joueur, appelé le **LEURRE/FAUX DÉMON** son *faux-positif*, apparaîtra comme le Démon aux yeux de la Voyante s’il est choisi. 
-- Le **LEURRE** est le même joueur pendant toute la partie. 
+- Malheureusement, un joueur, appelé le **FAUX DÉMON** son *faux-positif*, apparaîtra comme le Démon aux yeux de la Voyante s’il est choisi. 
+- Le **FAUX DÉMON** est le même joueur pendant toute la partie. 
 - Ce joueur peut être n’importe quel joueur bon, y compris la Voyante elle-même, et la Voyante ne sait pas de quel joueur il s’agit.
 
-- La Voyante peut choisir n’importe quels deux joueurs, vivants, morts, ou même elle-même.
+- La Voyante peut choisir n’importe quels joueurs, vivants, morts, ou même elle-même.
 - Si elle choisit un Démon mort, la Voyante reçoit tout de même un « oui ».
 
 ---
@@ -108,19 +108,19 @@ La **Voyante** détecte si un joueur est le [<span style="color:red">Démon</spa
 ##  <span style="color:blue">Comment Conter</span>
 
 - Lors de la préparation de la première nuit :	
-- Placez le jeton de rappel **LEURRE** de la Voyante à côté du jeton de rôle d’un Villageois ou d’un Marginal.
+- Placez le jeton de rappel **FAUX DÉMON** de la Voyante à côté du jeton de rôle d’un Villageois ou d’un Marginal.
 	-	Chaque nuit :
 	-	Réveillez la Voyante.
 	-	La voyante choisit deux joueurs : vivants, morts ou elle-même.
 	-	Si au moins l’un des deux est :
 - le Démon, ou
-- le Leurre,
+- le **FAUX DÉMON**,
 alors hochez la tête pour indiquer oui.
 	-	Sinon, secouez la tête pour indiquer non.
 	-	Rendormez la Voyante.
 
 
- - *Lors des parties à 5 ou 6 joueurs **TeensyVille**, il est parfois conseillé de faire de la Voyante son propre Leurre
+ - *Lors des parties à 5 ou 6 joueurs **TeensyVille**, il est parfois conseillé de faire de la Voyante son propre FAUX DÉMON
 car cela lui permet d'obtenir davantage d'informations.*  
 
 ---
@@ -166,7 +166,7 @@ car cela lui permet d'obtenir davantage d'informations.*
   sur lequel vous aviez auparavant obtenu un « non », afin de voir si votre information a changé.
 
 
-- Votre faux positif le **LEURRE** est choisi au début de la partie et ne se déplace pas,<br>
+- Votre faux positif le **FAUX DÉMON** est choisi au début de la partie et ne se déplace pas,<br>
 et votre capacité ne vous fera jamais recevoir de faux résultat concernant plus d’un joueur.<br>
 - Rappelez-vous que ce faux enregistrement peut concerner n’importe qui, y compris vous-même,<br>
 et qu’un « oui » ne constitue pas une confirmation certaine de la présence d’un Démon.<br>
@@ -179,7 +179,7 @@ et qu’un « oui » ne constitue pas une confirmation certaine de la présence 
   
 
 - Prétendre être un rôle que le Démon n’a généralement aucun intérêt à tuer, comme le [Saint](saint.md), le [Soldat](soldat.md) ou 
-le [Corneille](gardien.md), peut vous aider à survivre plus longtemps, et ainsi vous laisser le temps nécessaire pour recueillir des informations réellement utiles.
+la [Corneille](gardien.md), peut vous aider à survivre plus longtemps, et ainsi vous laisser le temps nécessaire pour recueillir des informations réellement utiles.
 
 ---
 
@@ -199,7 +199,7 @@ le [Corneille](gardien.md), peut vous aider à survivre plus longtemps, et ainsi
   même en l’absence d'une [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md).
   
 
-- Le **LEURRE** peut également apparaître comme le Démon, faisant paraître suspect un joueur bon. 
+- Le **FAUX DÉMON** peut également apparaître comme le Démon, faisant paraître suspect un joueur bon. 
   Préoccupez-vous moins du contenu exact de vos informations ou du nombre de « oui » que vous prétendez avoir reçus, 
   et davantage de la conviction avec laquelle vous jouez votre rôle.
   
@@ -212,7 +212,7 @@ le [Corneille](gardien.md), peut vous aider à survivre plus longtemps, et ainsi
 
 - Si un joueur bon devient particulièrement gênant, concentrer toute votre attention sur lui en affirmant qu’il apparaît 
   comme le Démon à vos yeux peut rapidement conduire à son exécution.<br> 
-  Vous pourrez toujours prétendre après coup qu’il s’agissait de votre **LEURRE**.<br>
+  Vous pourrez toujours prétendre après coup qu’il s’agissait de votre **FAUX DÉMON**.<br>
   Cette stratégie est particulièrement dévastatrice lorsque vous devez absolument faire exécuter un joueur sans y parvenir par des moyens classiques. 
   Vous pouvez notamment faire exécuter un [Saint](saint.md), ou faire tuer un [Maire](maire.md) ou un [Soldat](soldat.md), 
   ou au minimum convaincre l’équipe du bien de ne plus leur faire confiance.<br> 
@@ -223,7 +223,7 @@ le [Corneille](gardien.md), peut vous aider à survivre plus longtemps, et ainsi
   Dire au groupe qu’un joueur mort est le Démon implique que toutes ses informations étaient douteuses, 
   et aussi (dans les parties à un seul Sbire) qu’il ne reste qu’un seul joueur maléfique en vie. 
   Cette désinformation, bien qu’apparemment anodine, peut faire basculer la partie en votre faveur en augmentant la méfiance entre les joueurs vivants. 
-  Elle est particulièrement efficace si vous faites passer un [Corneille](gardien.md) pour le Démon qui se serait tué lui-même pendant la nuit.
+  Elle est particulièrement efficace si vous faites passer une [Corneille](gardien.md) pour le Démon qui se serait tué lui-même pendant la nuit.
 - Si vous êtes le [<span style="color:red">Diablotin</span>](imp.md), vous pouvez vous révéler publiquement comme [Voyante](voyante.md) et mourir volontairement la nuit, afin de rendre vos informations plus crédibles.
 
 
