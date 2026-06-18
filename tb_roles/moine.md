@@ -115,7 +115,7 @@ image: /images/Icon_monk.png
 
 ##  <span style="color:blue">Conseils & Astuces</span>
 
-- Protégez les rôles puissants comme la [Voyante](voyante.md), l’[Empathe](empathique.md) ou l' [Innocente](vierge.md).  
+- Protégez les rôles puissants comme la [Voyante](voyante.md), l’[Empathe](empathique.md) ou l' [Immaculée](vierge.md).  
 - N’attirez pas trop l’attention : si vous êtes découvert, le Démon vous éliminera rapidement.  
 - Vous pouvez feinter en disant publiquement qui vous « allez protéger », pour pousser le Démon à viser ailleurs.  
 - Si un joueur survit grâce à vous, il est probablement bon (sauf cas particuliers avec l’Imp).  
