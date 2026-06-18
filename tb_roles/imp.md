@@ -42,9 +42,10 @@ image: /images/Icon_imp.png
 </ul>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic; margin-left:20px; margin-right:20px; white-space:normal; overflow-wrap:anywhere; word-break:break-word;">
-  « Nous devons garder l’esprit vif et notre épée plus affûtée encore.<br>
-  Le mal marche parmi nous, et ne reculera devant rien pour nous détruire, simples gens de bien, et mener notre belle ville à la ruine.<br>
-  Ne faites confiance à personne. Mais, si vous devez faire confiance à quelqu’un, faites-moi confiance. »
+  « Nous devons garder l’esprit affûté, et nos lames prêtes.<br>
+Le Mal est parmi nous et ne reculera devant rien pour nous détruire,<br>
+nous, les bonnes gens, et notre beau village. Ne vous fiez à personne.<br>
+Sauf à moi. Vous pouvez me faire confiance. »
 </p>
 
 <hr>
