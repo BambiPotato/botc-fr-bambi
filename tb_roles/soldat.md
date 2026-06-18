@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Soldat
-description: Vous êtes à l’abri du Démon.
+description: Vous êtes Vous êtes protégé du Démon.
 image: /images/Icon_soldier.png
 ---
 
@@ -52,9 +52,10 @@ image: /images/Icon_soldier.png
 </ul>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
-« Comme David face à Goliath, 
-  comme Thésée face au Minotaure, 
-  comme Arjuna face à Bhagadatta... Non. »
+« Comme David a dit à Goliath, <br>
+comme Thésée a dit au Minotaure, <br>
+comme Arjuna a dit à Bhagadatta... <br>
+Non. »
 </p> 
 
 
@@ -87,7 +88,7 @@ image: /images/Icon_soldier.png
 
 ##   <span style="color:blue">Résumé</span>
 
-**« Vous êtes à l’abri du Démon.»**  
+**« Vous êtes Vous êtes protégé du Démon»**  
 
 Le Soldat ne peut pas être tué par le Démon.
 
@@ -96,13 +97,13 @@ Le Soldat ne peut pas être tué par le Démon.
 - Le Soldat peut toujours mourir par exécution, même si le nominateur est le Démon. 
 - Le Soldat est protégé de la capacité meurtrière du Démon, et non des actions du joueur qui est le Démon.
 
+
 ---
 ##  <span style="color:blue">Comment Conter</span>
 
 Pendant la nuit, si le Démon attaque le Soldat, celui-ci reste en vie. (À l'aube, déclarez que personne n'est mort cette nuit.)
-- Dans d’autres éditions, certains Démons infligent d’autres effets (empoisonnement, changement d’alignement, etc.)
-- Le Soldat est aussi protégé de ces effets maléfiques.  
-
+- Dans d'autres modules, les Démons peuvent avoir d'autres capacités que celle de tuer. 
+- Le Soldat est également protégé contre tous les autres effets néfastes de la capacité du Démon, tels que l'empoisonnement ou le changement en joueur maléfique.
 
 ---
 
