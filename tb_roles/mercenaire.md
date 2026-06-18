@@ -52,7 +52,7 @@ image: /images/Icon_slayer.png
 </ul>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
-« Mourir. »
+« Meurs ! »
 </p> 
 
 ---
