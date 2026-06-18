@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bad Moon Rising
-description: Tous les rôles de Bad Moon Risinf
+description: Tous les rôles de Bad Moon Rising
 image: /images/Logo_bad_moon_rising-1.png
 ---
 
