@@ -114,10 +114,10 @@ puisse facilement voir qui est qui.*
 - La **[Lavandière](../tb_roles/lavandiere.md)** apprend que **Claire** ou **Nicolas** est **[Corneille](../tb_roles/gardien.md)**. 
    En réalité, Claire est **[Moine](../tb_roles/moine.md)**, **Nicolas** est **Espionne**, enregistré comme [Corneille](../tb_roles/gardien.md).  
 - L’Espionne est voisine du **[Diablotin](imp.md)** et de l’**[Empathe](../tb_roles/empathique.md)**.  
-  - Le **[Cuisinier](../tb_roles/cuistot.md)** apprend un « 1 » car l’Espion est enregistré comme Maléfique.  
-  - La nuit suivante, l’Empathique apprend « 0 », car l’Espion s’enregistre comme Bon.  
-- L’Espion nomme la **[Immaculée](../tb_roles/vierge.md)** et est exécuté par sa capacité, car il s’enregistre comme Villageois.  
-  Cette nuit-là, le **[Fossoyeur](../tb_roles/croquemort.md)** apprend que l’**[Ivrogne](../tb_roles/ivrogne.md)** est mort — car l’Espion s’est enregistré comme Ivrogne.
+  - Le **[Cuisinier](../tb_roles/cuistot.md)** apprend un « 1 » car l’Espionne est enregistré comme Maléfique.  
+  - La nuit suivante, l’[Empathe](../tb_roles/empathique.md) apprend « 0 », car l’Espionne s’enregistre comme Bon.  
+- L’Espionne nomme la **[Immaculée](../tb_roles/vierge.md)** et est exécuté par sa capacité, car il s’enregistre comme Villageois.  
+  Cette nuit-là, le **[Fossoyeur](../tb_roles/croquemort.md)** apprend que l’**[Ivrogne](../tb_roles/ivrogne.md)** est mort — car l’Espionne s’est enregistrée comme Ivrogne.
 
 ---
 
