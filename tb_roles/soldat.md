@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Soldat
-description: Vous êtes Vous êtes protégé du Démon.
+description: Vous êtes protégé du Démon.
 image: /images/Icon_soldier.png
 ---
 
@@ -88,7 +88,7 @@ Non. »
 
 ##   <span style="color:blue">Résumé</span>
 
-**« Vous êtes Vous êtes protégé du Démon»**  
+**«Vous êtes protégé du Démon»**  
 
 Le Soldat ne peut pas être tué par le Démon.
 
