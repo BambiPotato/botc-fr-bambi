@@ -65,17 +65,17 @@ image: /images/Logo_bad_moon_rising-1.png
     <li><a href="./bmr_roles/courtisan.html" style="color:#4ea3ff; text-decoration:none;">Courtisan</a></li>
     <li><a href="./bmr_roles/professeur.html" style="color:#4ea3ff; text-decoration:none;">Professeur</a></li>
     <li><a href="./bmr_roles/menestrel.html" style="color:#4ea3ff; text-decoration:none;">Ménestrel</a></li>
-    <li><a href="./bmr_roles/damedethe.html" style="color:#4ea3ff; text-decoration:none;">Dame de Thé</a></li>
+    <li><a href="./bmr_roles/damedethe.html" style="color:#4ea3ff; text-decoration:none;">Tisanière</a></li>
     <li><a href="./bmr_roles/pacifiste.html" style="color:#4ea3ff; text-decoration:none;">Pacifiste</a></li>
     <li><a href="./bmr_roles/fou.html" style="color:#4ea3ff; text-decoration:none;">Fou</a></li>
   </ul>
 
-  <p style="font-weight:bold; color:#80aee0; margin-bottom:4px;">Étrangers</p>
+  <p style="font-weight:bold; color:#80aee0; margin-bottom:4px;">Marginaux</p>
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
-    <li><a href="./bmr_roles/brute.html" style="color:#4ea3ff; text-decoration:none;">Brute</a></li>
+    <li><a href="./bmr_roles/brute.html" style="color:#4ea3ff; text-decoration:none;">Gros Bras</a></li>
     <li><a href="./bmr_roles/lunatique.html" style="color:#4ea3ff; text-decoration:none;">Lunatique</a></li>
     <li><a href="./bmr_roles/bricoleur.html" style="color:#4ea3ff; text-decoration:none;">Bricoleur</a></li>
-    <li><a href="./bmr_roles/enfantdelalune.html" style="color:#4ea3ff; text-decoration:none;">Enfant de la Lune</a></li>
+    <li><a href="./bmr_roles/enfantdelalune.html" style="color:#4ea3ff; text-decoration:none;">Sélénite</a></li>
   </ul>
 
   <p style="font-weight:bold; color:#a86464; margin-bottom:4px;">Sbires</p>
@@ -150,13 +150,13 @@ Ce soir, même le bétail sait qu’il y a… <strong><span style="color:#ffa64d
 </ul>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Heureusement, beaucoup d’options permettent de garder des joueurs et des joueuses en vie bien plus longtemps qu’ils ne l’auraient cru possible.<br>
+Heureusement, beaucoup d’options permettent de garder des joueurs en vie bien plus longtemps qu’ils ne l’auraient cru possible.<br>
 Mais si l’équipe du Bien ne parvient pas à identifier les Sbires et les Démons précis en jeu, sa défaite est presque certaine.
 </p>
 
 <p style="color:#ffa64d; font-size:19px; font-weight:bold;">
 Niveau : <strong>Intermédiaire</strong><br>
-<em>*Recommandé pour les joueurs et les joueuses proactifs, attentifs à la coopération d’équipe et qui n’ont pas peur de mourir.*</em>
+<em>*Recommandé pour les joueurs proactifs, prêts à travailler en équipe, et qui n’ont pas peur de mourir.*</em>
 </p>
 
 ---
@@ -233,7 +233,7 @@ Niveau : <strong>Intermédiaire</strong><br>
   <!-- Dame de Thé -->
   <a href="./bmr_roles/damedethe.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
     <img src="./images/Icon_tealady.png" alt="Dame de Thé" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
-    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Dame de Thé</span>
+    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Tisanière</span>
   </a>
 
   <!-- Pacifiste -->
@@ -245,7 +245,7 @@ Niveau : <strong>Intermédiaire</strong><br>
   <!-- Fou -->
   <a href="./bmr_roles/fou.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
     <img src="./images/Icon_fool.png" alt="Fou" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
-    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Fou</span>
+    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Fou du Roi</span>
   </a>
 
 </div>
@@ -255,7 +255,7 @@ Niveau : <strong>Intermédiaire</strong><br>
 <!-- ÉTRANGERS -->
 
 <p style="text-align:left; color:#e0c99d; font-size:20px;">
-  <a id="etrangers" href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>
+  <a id="etrangers" href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>
 </p>
 
 <!-- GRID ÉTRANGERS -->
@@ -264,7 +264,7 @@ Niveau : <strong>Intermédiaire</strong><br>
   <!-- Brute -->
   <a href="./bmr_roles/brute.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
     <img src="./images/Icon_goon.png" alt="Brute" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
-    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Brute</span>
+    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Gros Bras</span>
   </a>
 
   <!-- Lunatique -->
@@ -282,7 +282,7 @@ Niveau : <strong>Intermédiaire</strong><br>
   <!-- Enfant de la Lune -->
   <a href="./bmr_roles/enfantdelalune.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
     <img src="./images/Icon_moonchild.png" alt="Enfant de la Lune" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
-    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Enfant de la Lune</span>
+    <span style="display:block; color:blue; font-weight:bold; font-size:18px; margin-top:6px;">Sélénite</span>
   </a>
 
 </div>
