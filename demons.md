@@ -170,7 +170,7 @@ Lorsqu’un Démon agit, veillez à :
   <!-- Yaggababble -->
   <a href="./roles_experimentaux/yaggababble.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
     <img src="./images/Icon_yaggababble.png" alt="Yaggababble" style="width:220px; border-radius:12px;">
-    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Yaggababble</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Yaggablabla</span>
   </a>
 
   <!-- Zombuul -->
