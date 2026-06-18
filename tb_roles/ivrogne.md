@@ -281,7 +281,7 @@ image: /images/Icon_drunk-1.png
   <li>
     Si vous voulez qu’un allié <span style="color:#d45b5b; font-weight:bold;">maléfique</span> soutienne votre bluff d’<a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>,<br>
     demandez-lui de bluffer l' <a href="./bibliothecaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Archiviste</a>.<br>
-    Le <a href="./gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a> et 
+    La <a href="./gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a> et 
     le <a href="./croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a> fonctionnent bien aussi,<br>
     mais l’un de vous devra mourir pour que ça marche.
   </li>
