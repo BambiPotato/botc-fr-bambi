@@ -136,7 +136,7 @@ Il ne l’apprend qu’une seule fois, puis plus rien.
 
 - Garder votre info pour plus tard peut aussi être stratégique : sur la dernière journée, révéler qu’un joueur n’est pas le [Démon](../glossaire.md#démon) réduit le choix de 3 à 2 suspects.  
 
-- Comme vous avez toutes vos infos dès la première nuit, vous pouvez confirmer en nommant une [Immaculée](vierge.md).  
+- Comme vous avez toutes vos infos dès la première nuit, vous pouvez confirmer en nommant l'[Immaculée](vierge.md).  
   Ou alors, prétendre être un rôle plus puissant pour détourner le <span style="color:red">**Démon**</span> de cibles clés comme le [Moine](moine.md) ou le [Fossoyeur](croquemort.md).  
 
 - Attention à l’[Ivrogne](ivrogne.md) : si les deux joueurs vus sont en fait Ivrogne, il est crucial de le dire vite, surtout si l’un pense être un rôle à informations.  
