@@ -111,7 +111,7 @@ tant que cet hôte survit, elle ne peut pas mourir.
 
   <li>
     <img src="../images/Icon_mastermind.png" alt="Meneur" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="..bmr_roles/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a> :  
+    <a href="../bmr_roles/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a> :  
     Si le <strong>Conspirateur</strong> est en vie  
     et que l’hôte de la <strong>Sangsue</strong> meurt par exécution,  
     la Sangsue <strong>reste en vie</strong>  
@@ -120,7 +120,7 @@ tant que cet hôte survit, elle ne peut pas mourir.
 
   <li>
     <img src="../images/Icon_slayer.png" alt="Tueur" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a> :  
+    <a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a> :  
     Si le <strong>Mercenaire</strong> tue l’hôte de la <strong>Sangsue</strong>  
     l'hôte <strong>meurt</strong>.
   </li>
@@ -368,9 +368,7 @@ le <strong>Bien gagne</strong>.
       il est peu probable  
       que la  <a href="../roles_experimentaux/lleech.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sangsue</a> ait choisi un
       <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>  
-      comme hôte,  
-      vous pouvez donc souvent les exclure  
-      de la liste des suspects.</li>
+      comme hôte, vous pouvez donc souvent les exclure de la liste des suspects.</li>
 
   <li>Si vous arrivez au dernier jour  
       sans certitude sur la présence de la 
@@ -386,6 +384,6 @@ le <strong>Bien gagne</strong>.
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="/demon.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Démons</a><br>
+   <a href="/demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Démons</a><br>
    <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
