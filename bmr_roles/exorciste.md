@@ -52,11 +52,9 @@ image: /images/Icon_exorcist.png
   </li>
 </ul>
 
-> *« Nous vous chassons, tous les esprits impurs, toutes les puissances sataniques, 
-toutes les attaques de l’adversaire infernal, toutes les légions,
-tous les groupes et sectes diaboliques, au nom et par la puissance de Notre Seigneur Jésus-Christ.<br> 
-Nous vous ordonnons de partir et de vous éloigner de l’Église de Dieu,<br> 
-des âmes créées par Dieu à son image et rachetées par le sang précieux de l’Agneau divin. »*
+> *« Nous vous chassons, tous les esprits impurs, toutes les puissances sataniques, toutes les attaques de l’adversaire infernal, 
+toutes les légions, tous les groupes et sectes diaboliques, au nom et par la puissance de Notre Seigneur Jésus-Christ.<br> 
+Nous vous ordonnons de partir et de vous éloigner de l’Église de Dieu,<br> des âmes créées par Dieu à son image et rachetées par le sang précieux de l’Agneau divin. »*
 
 ---
 
