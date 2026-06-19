@@ -85,7 +85,7 @@ image: /images/Icon_gambler.png
 
 ##  <span style="color:blue">Résumé</span>    
 
-> <strong> « Chaque nuit*, choisissez un joueur et devinez son rôle. Si vous vous trompez, vous mourez. »</strong>  
+<strong> « Chaque nuit*, choisissez un joueur et devinez son rôle. Si vous vous trompez, vous mourez. »</strong>  
 
 **Le PARIEUR** peut deviner qui est qui... mais s'il se trompe il en paiera le prix fort.
 
@@ -125,7 +125,7 @@ S’il devine juste, rien ne se passe. S’il se trompe, le Parieur meurt.
 - Un bon usage est de **confirmer les rôles des joueurs bons**.  
   → Savoir avec certitude qu’un [Pacifiste](pacifiste.md) ou une [Femme de Chambre](femmedecha.md) est bien en jeu peut être décisif.  
 
-- Vous ne vivrez peut-être pas jusqu’à la fin → concentrez vos paris sur les rôles **cruciaux** ([Exorciste](exorciste.md), [Courtisan](courtisan.md), [Dame de Thé](damedethe.md)).  
+- Vous ne vivrez peut-être pas jusqu’à la fin → concentrez vos paris sur les rôles **cruciaux** ([Exorciste](exorciste.md), [Courtisan](courtisan.md), [Tisanière](damedethe.md)).  
 
 - Deviner un joueur <span style="color:red">maléfique</span> est plus risqué : même si vous êtes sûrs qu’il est [<span style="color:red">Sbire</span>](../sbires.md) ou [<span style="color:red">Démon</span>](../demons.md), il y a plusieurs options possibles. Les chances sont contre vous.  
 
@@ -141,7 +141,7 @@ S’il devine juste, rien ne se passe. S’il se trompe, le Parieur meurt.
 ##  <span style="color:blue">Bluffer Parieur</span>  
 
 - Aidez vos alliés [<span style="color:red">maléfiques</span>](../sbires.md) en prétendant avoir « confirmé » leur rôle.  
-  → Exemple : « J’ai parié que Nicolas était [Tisanière](damedethe.md), et je suis encore vivant. »  
+  → Exemple : « J’ai parié que Nicolas était la [Tisanière](damedethe.md), et je suis encore vivant. »  
 
 - Vous pouvez renforcer des joueurs bons (et donc vous paraître fiable), mais attention à ne pas trop réduire les suspects du <span style="color:red">Mal</span>.  
 
