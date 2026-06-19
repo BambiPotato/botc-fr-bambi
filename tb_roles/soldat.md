@@ -88,11 +88,11 @@ Non. »
 
 ##   <span style="color:blue">Résumé</span>
 
-**«Vous êtes protégé du Démon»**  
+**«Vous êtes protégé du Démon.»**  
 
 Le Soldat ne peut pas être tué par le Démon.
 
-- Le Soldat ne peut pas mourir de la capacité du Démon. Ainsi, si le Démon attaque le Soldat la nuit, rien ne se passe. Personne ne meurt. 
+- Le Soldat ne peut pas mourir de la capacité du Démon.<br>  Ainsi, si le Démon attaque le Soldat la nuit, rien ne se passe. Personne ne meurt. 
 - Le Démon ne peut pas choisir un autre joueur pour l'attaquer.
 - Le Soldat peut toujours mourir par exécution, même si le nominateur est le Démon. 
 - Le Soldat est protégé de la capacité meurtrière du Démon, et non des actions du joueur qui est le Démon.
@@ -101,7 +101,7 @@ Le Soldat ne peut pas être tué par le Démon.
 ---
 ##  <span style="color:blue">Comment Conter</span>
 
-Pendant la nuit, si le Démon attaque le Soldat, celui-ci reste en vie. (À l'aube, déclarez que personne n'est mort cette nuit.)
+Pendant la nuit, si le Démon attaque le Soldat, celui-ci reste en vie.<br>  (À l'aube, déclarez que personne n'est mort cette nuit.)
 - Dans d'autres modules, les Démons peuvent avoir d'autres capacités que celle de tuer. 
 - Le Soldat est également protégé contre tous les autres effets néfastes de la capacité du Démon, tels que l'empoisonnement ou le changement en joueur maléfique.
 
