@@ -54,9 +54,9 @@ image: "/images/Icon_fortuneteller.png"
 </ul>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
-« Je sens un grand mal en toi !<br> 
-  Mais… c’est peut-être seulement ton parfum.<br> 
-  Je suis allergique au sureau »<br>
+« Votre âme est habitée par le Mal !<br> 
+  Ou alors, c’est juste votre parfum.<br> 
+  Je suis allergique à la cerise. »<br>
 </p> 
 
 
