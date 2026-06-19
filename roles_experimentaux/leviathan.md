@@ -130,10 +130,10 @@ La seule façon pour les joueurs de mourir, c’est l’<strong>exécution</stro
 
   <li>
     <img src="../images/Icon_farmer.png" alt="Fermier" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../experimentaux_roles/farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermier</a> :  
+    <a href="../experimentaux_roles/farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermière</a> :  
     Chaque nuit*, le <strong>Léviathan</strong> choisit un joueur bon vivant  
     différent des nuits précédentes :  
-    un <strong>Fermier</strong> choisi utilise sa capacité mais ne meurt pas.
+    une <strong>Fermière</strong> choisie utilise sa capacité mais ne meurt pas.
   </li>
 
   <li>
@@ -187,7 +187,7 @@ La seule façon pour les joueurs de mourir, c’est l’<strong>exécution</stro
 
   <li>
     <img src="../images/Icon_pithag.png" alt="Pit-Hag" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a> :  
+    <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Genaude</a> :  
     Le <strong>Léviathan</strong> ne peut pas entrer en jeu  
     après le 5<sup>ème</sup> jour.
   </li>
