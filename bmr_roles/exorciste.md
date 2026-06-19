@@ -106,15 +106,15 @@ Le Démon apprend qu’il ne peut pas attaquer, et qui est l’Exorciste.<br>
 
 ##  <span style="color:blue">Comment Conter</span>    
 
-- Chaque nuit, sauf la première, réveillez l’Exorciste. Il désigne n’importe quel joueur.
+- Chaque nuit, sauf la première, réveillez l’Exorciste. Il désigne n’importe quel joueur.<br> 
 Marquez le jeton de rôle du joueur choisi avec le jeton CHOISI. L’Exorciste se rendort.
 
 - Si l’Exorciste a choisi le Démon, réveillez le Démon. 
-Montrez-lui la tuile <strong>CE RÔLE VOUS A CHOISI</strong> et le jeton Exorciste, puis montrez le joueur Exorciste. 
+Montrez-lui la tuile <strong>CE RÔLE VOUS A CHOISI</strong> et le jeton Exorciste, puis montrez le joueur Exorciste.<br>  
 Le Démon se rendort. Plus tard cette nuit-là, ne réveillez pas le Démon. 
 
-⚠️ *Un Démon choisi par l’Exorciste ne se réveillera pas pour utiliser sa capacité de Démon, 
-mais se réveillera tout de même s’il doit le faire à cause des capacités d’autres rôles. 
+⚠️ *Un Démon choisi par l’Exorciste ne se réveillera pas pour utiliser sa capacité de Démon,<br>  
+mais se réveillera tout de même s’il doit le faire à cause des capacités d’autres rôles.<br>  
 Gardez cela en tête si vous utilisez l’Exorciste avec des rôles qui viennent d’autres modules.*
 
 ---
