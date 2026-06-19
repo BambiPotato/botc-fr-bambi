@@ -87,7 +87,7 @@ image: /images/Icon_innkeeper.png
 ##  <span style="color:blue">Résumé</span>    
 
 
-<strong> « Chaque nuit*, choisissez **2 joueurs** : ils ne peuvent pas mourir cette nuit mais l'un d'eux est ivre jusqu'au crépuscule. »**</strong>  
+<strong> « Chaque nuit*, choisissez **2 joueurs** : ils ne peuvent pas mourir cette nuit mais l'un d'eux est ivre jusqu'au crépuscule. »</strong>  
 
 **L’AUBERGISTE** protège des joueurs de la mort pendant la nuit, mais au prix de la sobriété de l'un d'entre eux.
 
