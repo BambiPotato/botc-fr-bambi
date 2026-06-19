@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Exorciste
+description: "Chaque nuit*, choisissez un joueur (différent de la nuit précédente) : si c’est le Démon, il apprend qui vous êtes puis ne se réveille pas cette nuit." 
+image: /images/Icon_exorcist.png
 ---
 
 
@@ -50,7 +52,11 @@ title: Exorciste
   </li>
 </ul>
 
-> *« Nous vous chassons, tout esprit impur, toute puissance satanique, toute attaque de l’adversaire infernal, toute légion, tout groupe et toute secte diabolique, au nom et par la puissance de Notre Seigneur Jésus-Christ. Nous vous ordonnons de fuir loin de l’Église de Dieu et des âmes créées à son image.  »*
+> *« Nous vous chassons, tous les esprits impurs, toutes les puissances sataniques,<br>  
+toutes les attaques de l’adversaire infernal, toutes les légions,<br> 
+tous les groupes et sectes diaboliques, au nom et par la puissance de Notre Seigneur Jésus-Christ.<br> 
+Nous vous ordonnons de partir et de vous éloigner de l’Église de Dieu,<br> 
+des âmes créées par Dieu à son image et rachetées par le sang précieux de l’Agneau divin. »*
 
 ---
 
@@ -82,30 +88,35 @@ title: Exorciste
 
 ##  <span style="color:blue">Résumé</span>  
 
-« Chaque nuit (sauf la première), choisissez un joueur (différent de la nuit précédente) :  
-si c’est le [<span style="color:red">Démon</span>](../demons.md), il apprend qui vous êtes et ne se réveille pas cette nuit. »  
+<strong> « Chaque nuit*, choisissez un joueur (différent de la nuit précédente) :</strong>   
+<strong> si c’est le [<span style="color:red">Démon</span>](../demons.md), il apprend qui vous êtes et ne se réveille pas cette nuit. »</strong>  
 
-L’**Exorciste** empêche le [<span style="color:red">Démon</span>](../demons.md) d’agir pour une nuit entière.  
+**L’EXORCISTE** empêche le [<span style="color:red">Démon</span>](../demons.md) de se réveiller pour attaquer.
 
-- S’il cible un joueur **qui n’est pas** le [<span style="color:red">Démon</span>](../demons.md), rien ne change : le Démon agit normalement.  
-- S’il cible le [<span style="color:red">Démon</span>](../demons.md), celui-ci ne se réveille pas et **n’attaque pas** cette nuit.  
-- Le Démon apprend alors **qui est l’Exorciste**.  
-- Les autres effets de Démons (comme le [<span style="color:red">Zombuul</span>](../bmr_roles/zombuul.md), le [<span style="color:red">Pukka</span>](../bmr_roles/pukka.md) ou le [<span style="color:red">Shabaloth</span>](../bmr_roles/shabaloth.md)) continuent d’exister.  
-- L’Exorciste ne peut pas choisir le **même joueur deux nuits de suite**.  
+- Chaque nuit, l’Exorciste choisit un joueur. S’il choisit un joueur qui n’est pas le Démon, le Démon peut encore attaquer.<br> 
+S’il choisit le Démon, le Démon ne se réveille pas cette nuit-là, et donc ne choisit pas de joueurs à attaquer cette nuit-là.<br>  
+Le Démon apprend qu’il ne peut pas attaquer, et qui est l’Exorciste.<br> 
+
+- Les autres capacités du Démon continuent de fonctionner :
+ – le  [<span style="color:red">Zombuul</span>](../bmr_roles/zombuul.md), reste en vie s’il est tué, le [<span style="color:red">Pukka</span>](../bmr_roles/pukka.md) tue un joueur attaqué lors de la nuit précédente, et le [<span style="color:red">Shabaloth</span>](../bmr_roles/shabaloth.md) recrache un joueur.
+ 
+- L’Exorciste ne peut pas choisir le même joueur deux nuits d’affilée.
+
 
 ---
 
 ##  <span style="color:blue">Comment Conter</span>    
 
-- Chaque nuit (sauf la première), réveillez l’Exorciste.  
-- Il désigne un joueur → placez le jeton **CHOISI** sur ce rôle, puis rendormez l’Exorciste.  
-- Si ce joueur est le [<span style="color:red">Démon</span>](../demons.md) :  
-  - Réveillez le Démon.  
-  - Montrez-lui le jeton **VOUS AVEZ ÉTÉ CHOISI** et le jeton **Exorciste**.  
-  - Pointez l’Exorciste.  
-  - Rendormez le Démon : cette nuit-là, **il ne se réveille plus** pour attaquer.  
+- Chaque nuit, sauf la première, réveillez l’Exorciste. Il désigne n’importe quel joueur.
+Marquez le jeton de rôle du joueur choisi avec le jeton CHOISI. L’Exorciste se rendort.
 
-⚠️ Le Démon peut encore être réveillé par d’autres effets, mais **pas pour tuer**.  
+- Si l’Exorciste a choisi le Démon, réveillez le Démon. 
+Montrez-lui la tuile <strong>CE RÔLE VOUS A CHOISI</strong> et le jeton Exorciste, puis montrez le joueur Exorciste. 
+Le Démon se rendort. Plus tard cette nuit-là, ne réveillez pas le Démon. 
+
+⚠️ *Un Démon choisi par l’Exorciste ne se réveillera pas pour utiliser sa capacité de Démon, 
+mais se réveillera tout de même s’il doit le faire à cause des capacités d’autres rôles. 
+Gardez cela en tête si vous utilisez l’Exorciste avec des rôles qui viennent d’autres modules.*
 
 ---
 
@@ -154,7 +165,7 @@ L’**Exorciste** empêche le [<span style="color:red">Démon</span>](../demons.
 - Ne révélez pas votre rôle trop tôt : un vrai Exorciste **reste discret**.  
 - Utilisez ce bluff pour parler en privé avec les [<span style="color:red">Sbires</span>](../sbires.md) ou le [<span style="color:red">Démon</span>](../demons.md).  
 - Profitez des nuits sans morts pour accuser un joueur bon :  
-  → Ex. : accusez une [Dame de Thé](../bmr_roles/damedethe.md) ou un [Pacifiste](../bmr_roles/pacifiste.md) de mentir.  
+  → Ex. : accusez une [Tisanière](../bmr_roles/damedethe.md) ou un [Pacifiste](../bmr_roles/pacifiste.md) de mentir.  
 - Coopérez avec un [<span style="color:red">Po</span>](../bmr_roles/po.md) : il peut choisir de **ne tuer personne** pour renforcer votre bluff.  
 - Vous pouvez prétendre avoir « neutralisé » un Démon pour innocenter un complice.  
 - Associez votre bluff à des rôles qui influencent les morts :  
