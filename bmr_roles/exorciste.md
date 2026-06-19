@@ -96,7 +96,7 @@ des âmes créées par Dieu à son image et rachetées par le sang précieux de 
 S’il choisit le Démon, le Démon ne se réveille pas cette nuit-là, et donc ne choisit pas de joueurs à attaquer cette nuit-là.<br>  
 Le Démon apprend qu’il ne peut pas attaquer, et qui est l’Exorciste.<br> 
 
-- Les autres capacités du Démon continuent de fonctionner :
+- Les autres capacités du Démon continuent de fonctionner :<br> 
  – le  [<span style="color:red">Zombuul</span>](../bmr_roles/zombuul.md), reste en vie s’il est tué, le [<span style="color:red">Pukka</span>](../bmr_roles/pukka.md) tue un joueur attaqué lors de la nuit précédente, et le [<span style="color:red">Shabaloth</span>](../bmr_roles/shabaloth.md) recrache un joueur.
  
 - L’Exorciste ne peut pas choisir le même joueur deux nuits d’affilée.
