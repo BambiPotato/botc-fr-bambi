@@ -87,11 +87,11 @@ image: /images/Icon_innkeeper.png
 ##  <span style="color:blue">Résumé</span>    
 
 
-**« Chaque nuit*, choisissez **2 joueurs** : ils ne peuvent pas mourir cette nuit mais l'un d'eux est ivre jusqu'au crépuscule. »**  
+<strong> « Chaque nuit*, choisissez **2 joueurs** : ils ne peuvent pas mourir cette nuit mais l'un d'eux est ivre jusqu'au crépuscule. »**</strong>  
 
 **L’AUBERGISTE** protège des joueurs de la mort pendant la nuit, mais au prix de la sobriété de l'un d'entre eux.
 
-- L’Aubergiste comme le [<span style="color:blue">Moine</span>](../tb_roles/po.md) protège empêche des joueurs d’être tués par le Démon.<br>
+- L’Aubergiste comme le [<span style="color:blue">Moine</span>](../tb_roles/moine.md) protège empêche des joueurs d’être tués par le Démon.<br>
 Ces joueurs ne peuvent pas non plus mourir à cause d’un Marginal, d’un Sbire, d’un Villageois ou d’un Voyageur.
 
 - L’Aubergiste protège uniquement les joueurs pendant la nuit, et non pendant la journée.
