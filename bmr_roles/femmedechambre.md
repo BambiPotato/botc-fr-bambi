@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Femme de chambre
+description: "Chaque nuit, choisissez 2 joueurs en vie (sauf vous-même) : vous apprenez combien d’entre eux se sont réveillés cette nuit à cause de leur capacité." 
+image: /images/Icon_chambermaid.png
 ---
 
 
@@ -50,10 +52,10 @@ title: Femme de chambre
   </li>
 </ul>
 
-> *« J’ai rien vu de suspect, M’dame.<br> 
+> *« Je n’ai rien vu d’anormal, Madame. Et certainement pas Monsieur,.<br> 
 Pardonnez-moi, mais si j’avais vu quelque chose,<br>
-c’était certainement pas le maître de maison en train de se faufiler dans le labo du professeur vers onze heures pour mélanger des potions,<br> 
-comme vous l’aviez dit, Miss.  »*
+se faufilant vers onze heures, dans le laboratoire du professeur, pour<br> 
+comme vous l’avez dit, Madame. »*
 
 
 ---
@@ -85,15 +87,25 @@ comme vous l’aviez dit, Miss.  »*
 
 ##  <span style="color:blue">Résumé</span>   
 
-« Chaque nuit, choisissez **2 joueurs vivants** (pas vous-même) : vous apprenez combien se sont réveillés cette nuit grâce à leur capacité. »  
+**« Chaque nuit, choisissez 2 joueurs en vie (sauf vous-même) : vous apprenez combien d’entre eux se sont réveillés cette nuit à cause de leur capacité. »**  
 
-La **Femme de Chambre** permet de savoir qui s’est réveillé la nuit.  
+**LA FEMME DE CHAMBRE** apprend qui s’est réveillé cette nuit.
 
-- Elle choisit deux joueurs vivants (pas elle-même).  
-- Elle apprend **combien** (0, 1 ou 2) se sont réveillés à cause de leur capacité cette nuit.  
-- Elle ne sait pas **lequel**.  
-- Les personnages réveillés pour d’autres raisons (info initiale, capacités adverses, erreur du Conteur, etc.) ne sont pas comptés.  
-- Un joueur ivre ou empoisonné **compte quand même** comme réveillé.  
+- Chaque nuit, elle choisit deux joueurs en vie, sauf elle-même,et apprend s’ils se sont réveillés cette nuit-là. 
+  Cela ne lui permet pas de détecter lequel de ces joueurs s’est réveillé, mais simplement combien.
+
+- Cette capacité ne détecte que les rôles qui se sont réveillés pour utiliser leur capacité, et non les autres – 
+par exemple :
+ - si le Conteur réveille un Sbire pour lui apprendre qui est le Démon, 
+ - ou s’il réveille le Démon pour lui donner ses informations de départ,
+- ou s’il réveille un joueur à cause de la capacité d’un autre rôle, 
+- ou s’il réveille quelqu’un par erreur, la capacité ne les détecte pas.
+
+- Si un rôle s’est réveillé lors d’une nuit précédente mais pas lors de cette nuit, la Femme de chambre ne le détecte pas.
+
+- Les joueurs qui se réveillent cette nuit-là à cause de leur capacité, mais qui sont ivres ou empoisonnés, comptent tout de même comme réveillés.
+
+- Si la Femme de chambre choisit un joueur mort par erreur, le Conteur doit lui demander d’en choisir un autre.
 
 ---
 
@@ -107,24 +119,24 @@ La **Femme de Chambre** permet de savoir qui s’est réveillé la nuit.
   - **2** → les deux se sont réveillés.  
 - Endormez la Femme de Chambre.  
 
-⚠️ Si moins de deux joueurs vivants peuvent être choisis (ex. fin de partie avec [<span style="color:red">Conspirateur</span>](cerveau.md), [<span style="color:red">Zombuul</span>](zombuul.md), etc.), **ne réveillez pas** la Femme de Chambre.  
+*⚠️ Ne réveillez pas la Femme de chambre s’il y a moins de deux joueurs en vie à choisir - exemple : fin de partie avec [<span style="color:red">Conspirateur</span>](cerveau.md), [<span style="color:red">Zombuul</span>](zombuul.md)...)*  
 
 ---
 
 ##  <span style="color:blue">Exemples</span>  
 
 - La Femme de Chambre choisit l’[Exorciste](exorciste.md) et l’[Aubergiste](aubergiste.md).  
-  → Elle apprend « 2 ».  
+  → Elle apprend un « 2 ».  
 
 - La nuit suivante, elle choisit le [<span style="color:red">Shabaloth</span>](shabaloth.md) et le [Fou](fou.md).  
-  → Le <span style="color:red">Shabaloth</span> ne se réveille que grâce à l’Exorciste, pas cette nuit-là → elle apprend « 0 ».  
+  → Le <span style="color:red">Shabaloth</span> ne se réveille que grâce à l’Exorciste, pas cette nuit-là → elle apprend un « 0 ».  
 
-- La deuxième nuit, elle choisit la [Grand-Mère](grandmere.md) et la [Gros Bras](brute.md).  
-  → Seule la Brute se réveille, mais elle est ivre. Elle compte quand même.  
-  → Elle apprend « 2 » (car elle est elle-même ivre et l’info est fausse).  
+- La deuxième nuit, elle choisit la [Grand-Mère](grandmere.md) et le [Gros Bras](brute.md).  
+  → Seul le [Gros Bras](brute.md) se réveille, mais elle est ivre. Elle compte quand même.  
+  → Elle apprend un « 2 » (car elle est elle-même ivre et l’info est fausse).  
 
-- La première nuit, elle choisit l’[<span style="color:red">Assassin</span>](assassin.md) et l’[<span style="color:red">Enfant de la Lune</span>](enfantdelalune.md).  
-  → Elle apprend « 0 », car aucun ne se réveille encore.  
+- La première nuit, elle choisit l’[<span style="color:red">Assassin</span>](assassin.md) et la [<span style="color:red">Sélénite</span>](enfantdelalune.md).  
+  → Elle apprend un « 0 », car aucun ne se réveille encore.  
 
 ---
 
@@ -137,7 +149,7 @@ La **Femme de Chambre** permet de savoir qui s’est réveillé la nuit.
 - Vérifiez des joueurs plusieurs nuits de suite.  
   → Exemple : un [<span style="color:red">Assassin</span>](assassin.md) bluffant [Aubergiste](aubergiste.md) se réveille une fois, mais plus après.  
 
-- Associez vos tests à un joueur qui ne se réveille jamais (ex. [Ménestrel](menestrel.md) ou [Fou](fou.md)).  
+- Associez vos tests à un joueur qui ne se réveille jamais (ex. [Ménestrel](menestrel.md) ou [Fou du Roi](fou.md)).  
   → Si vous testez toujours ce joueur + un autre, vous pouvez isoler les résultats sur une seule personne.  
 
 - Informez vos cibles : si elles sont ivres, elles doivent en tenir compte.  
@@ -166,7 +178,7 @@ La **Femme de Chambre** permet de savoir qui s’est réveillé la nuit.
     <a href="../sv_roles/mathematicien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mathématicien</a> :  
     La
     <a href="../bmr_roles/femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de Chambre</a> 
-    peut détecter si le Mathématicien se réveille cette nuit.
+    peut détecter si le Mathématicien se réveillera cette nuit.
   </li>
 
 </ul>
