@@ -384,6 +384,6 @@ le <strong>Bien gagne</strong>.
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Démons</a><<br>
+   <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Démons</a><br>
    <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
