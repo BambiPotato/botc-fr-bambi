@@ -66,10 +66,8 @@ image: /images/Icon_legion.png
 ##  <span style="color:#d45b5b;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Chaque nuit*, un joueur peut mourir.  
-  Les exécutions échouent si seuls des joueurs maléfiques ont voté.  
-  Vous vous enregistrez aussi comme Sbire.  
-  [La plupart des joueurs sont Légion] »</strong>
+  <strong>« Chaque nuit*, un joueur peut mourir.Les exécutions échouent si seuls des joueurs maléfiques ont voté.  
+  Vous vous enregistrez aussi comme Sbire.[La plupart des joueurs sont Légion] »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -85,7 +83,7 @@ image: /images/Icon_legion.png
 
   <li>Les joueurs qui ne sont pas Légion  
       peuvent être des <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>  
-      ou des <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>, dans n’importe quelle combinaison.</li>
+      ou des <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>, dans n’importe quelle combinaison.</li>
 
   <li>Si au moins un joueur bon vote pour une nomination  
       et que ce joueur est celui qui est « sur le point de mourir »,  
@@ -162,16 +160,14 @@ image: /images/Icon_legion.png
   <li>
     <img src="../images/Icon_preacher.png" alt="Prêcheur" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/preacher.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Prédicateur</a> :  
-    Si le <strong>Prédicateur</strong> choisit un joueur <strong>Légion</strong>,  
-    ce joueur garde sa capacité,  
-    mais le <strong>Prédicateur</strong> peut apprendre  
+    Si le <strong>Prédicateur</strong> choisit un joueur <strong>Légion</strong>,  ce joueur garde sa capacité, mais le <strong>Prédicateur</strong> peut apprendre  
     qu’il s'agit d'une <strong>Légion</strong>.
   </li>
 
   <li>
     <img src="../images/Icon_summoner.png" alt="Invocateur" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/summoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocateur</a> :  
-    Si l’<strong>Invocateur</strong> invoque une <strong>Légion</strong>,  
+    <a href="../roles_experimentaux/summoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocatrice</a> :  
+    Si l’<strong>Invocatrice</strong> invoque une <strong>Légion</strong>,  
     tous les joueurs maléfiques deviennent <strong>Légion</strong>.
   </li>
 
@@ -199,20 +195,15 @@ qui est vraiment bon… et combien sont membres de la <strong>Légion</strong> ?
 
   <li><strong>Première nuit :</strong>
     <ul style="margin-left:20px;">
-      <li>lors de l’étape d’informations des Démons,  
-          faites en sorte que tous les joueurs de la <strong>Légion</strong>  
-          puissent se voir et se reconnaître ;</li>
-      <li>vous pouvez aussi, si vous le souhaitez,  
-          <strong>pointer discrètement les joueurs qui ne sont pas Légion</strong>  
-          pour que les joueurs maléfiques sachent qui sont les bons.</li>
+      <li>lors de l’étape d’informations des Démons,faites en sorte que tous les joueurs de la <strong>Légion</strong> puissent se voir et se reconnaître ;</li>
+      <li>vous pouvez aussi, si vous le souhaitez, <strong>pointer discrètement les joueurs qui ne sont pas Légion</strong> pour que les joueurs maléfiques sachent qui sont les bons.</li>
     </ul>
   </li>
 
   <li><strong>Chaque nuit (sauf la première) :</strong>
     <ul style="margin-left:20px;">
       <li>vous décidez si <strong>un joueur meurt</strong> cette nuit-là ;</li>
-      <li>vous choisissez librement la cible,  
-          en gardant l’équilibre de la partie en tête.</li>
+      <li>vous choisissez librement la cible, en gardant l’équilibre de la partie en tête.</li>
     </ul>
   </li>
 
@@ -274,9 +265,9 @@ qui est vraiment bon… et combien sont membres de la <strong>Légion</strong> ?
 Les seuls joueurs bons sont la  
 <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>  
 et le  
-<a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a>.  
+<a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a>.  
 Six membres de la <strong>Légion</strong> et le 
-<a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a>
+<a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a>
 votent pour faire exécuter la
 <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>.  
 Un joueur bon vote,  
@@ -389,7 +380,7 @@ Le Mal gagne.
       à la fois comme Démons et comme Sbires,  
       vous pouvez « avouer » être un Sbire précis  
       si un  
-      <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-Mort</a>  
+      <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a>  
       apprend un rôle maléfique sur vous.  
       Le reste de l’équipe maléfique  
       utilisera cet aveu apparent  
@@ -431,7 +422,7 @@ Le Mal gagne.
   <li>Ne soyez pas convaincu  
       qu’il ne s’agit pas d’une partie avec la <strong>Légion</strong>  
       simplement parce qu’un  
-      <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-Mort</a>  
+      <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a>  
       ou un personnage d’information annonce  
       qu’un joueur est un Sbire précis.  
       Les membres de la <strong>Légion</strong> s’enregistrent aussi comme Sbires,  
@@ -447,7 +438,7 @@ Le Mal gagne.
       que vous êtes entouré de membres de la <strong>Légion</strong>.</li>
 
   <li>Les parties avec la <strong>Légion</strong> produisent souvent  
-      une quantité inhabituelle de <strong>double-claims</strong>.  
+      une quantité inhabituelle de <strong>doublon de rôle/strong>.  
       Un ou deux doublons peuvent s’expliquer,  
       mais si vous en avez trois, quatre ou plus,  
       il est très probable  
@@ -489,6 +480,6 @@ Le Mal gagne.
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="/demon.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Démons</a><br>
+   <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Démons</a><br>
    <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
