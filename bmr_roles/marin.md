@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Marin
+description: "Chaque nuit, choisissez un joueur vivant : lui ou vous êtes ivre jusqu’au crépuscule. Vous ne pouvez pas mourir." 
+image: /images/Icon_sailor.png
 ---
 
 
@@ -87,7 +89,7 @@ title: Marin
 ##  <span style="color:blue">Résumé</span>    
 
 
-> « Chaque nuit, choisissez un joueur vivant : lui ou vous êtes ivre jusqu’au crépuscule. Vous ne pouvez pas mourir. »  
+> <strong>« Chaque nuit, choisissez un joueur vivant : lui ou vous êtes ivre jusqu’au crépuscule. Vous ne pouvez pas mourir. »</strong>  
 
 **LE MARIN** s’enivre lui-même ou enivre quelqu’un d’autre.
 
