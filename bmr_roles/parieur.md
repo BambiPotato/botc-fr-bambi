@@ -53,7 +53,8 @@ image: /images/Icon_gambler.png
   </li>
 </ul>
 
-> *« Pile, je gagne. Face, tu perds. »*
+> *« Pile, je gagne.<br>   
+> Face, tu perds. »*
 
 ---
 
@@ -86,12 +87,14 @@ image: /images/Icon_gambler.png
 
 > <strong> « Chaque nuit*, choisissez un joueur et devinez son rôle. Si vous vous trompez, vous mourez. »</strong>  
 
-Le Parieur peut deviner qui est qui... mais il en paiera le prix fort s'il se trompe.
+**Le PARIEUR** peut deviner qui est qui... mais s'il se trompe il en paiera le prix fort.
 
-- Chaque nuit, sauf la première, le Parieur choisit un joueur et devine son rôle en pointant son icône sur la fiche des rôles. 
-  Si la prédiction est correcte, rien ne se passe. Si elle est incorrecte, le Joueur meurt.
-- Le Parieur n'apprend pas du conteur si sa supposition est correcte ou incorrecte.
-- Le Parieur peut choisir n'importe quel joueur, mort ou vivant, même lui-même.
+- Chaque nuit, sauf la première, le Parieur choisit un joueur et devine son rôle en le désignant du doigt sur la fiche de rôles.<br>   
+S’il devine juste, rien ne se passe. S’il se trompe, le Parieur meurt.
+
+- Le Conteur n’apprend pas au Parieur s’il a deviné juste ou non.
+
+- Le Parieur peut choisir n’importe quel joueur, qu’il soit mort ou en vie, et il peut se choisir lui-même.
 
 ---
 
@@ -138,7 +141,7 @@ Le Parieur peut deviner qui est qui... mais il en paiera le prix fort s'il se tr
 ##  <span style="color:blue">Bluffer Parieur</span>  
 
 - Aidez vos alliés [<span style="color:red">maléfiques</span>](../sbires.md) en prétendant avoir « confirmé » leur rôle.  
-  → Exemple : « J’ai parié que Nicolas était [Dame de Thé](damedethe.md), et je suis encore vivant. »  
+  → Exemple : « J’ai parié que Nicolas était [Tisanière](damedethe.md), et je suis encore vivant. »  
 
 - Vous pouvez renforcer des joueurs bons (et donc vous paraître fiable), mais attention à ne pas trop réduire les suspects du <span style="color:red">Mal</span>.  
 
