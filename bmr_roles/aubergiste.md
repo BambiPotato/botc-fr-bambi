@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Aubergiste
+description: " Chaque nuit*, choisissez 2 joueurs : ils ne peuvent pas mourir cette nuit mais l’un d’eux est ivre jusqu’au crépuscule." 
+image: /images/Icon_innkeeper.png
 ---
 
 
@@ -50,9 +52,10 @@ title: Aubergiste
   </li>
 </ul>
 
-> *« Entrez donc, voyageur fatigué, reposez vos os.<br>
-> Buvez et réjouissez-vous, car les légions du Malin ne viendront pas troubler votre sommeil cette nuit.  »*
 
+> *« Entrez, voyageur, et reposez-vous au coin du feu.<br>
+> Buvez et chassez vos soucis, car les légions de l’Obscur.<br>
+> ne viendront pas vous troubler cette nuit.»* 
 ---
 
 
@@ -84,34 +87,39 @@ title: Aubergiste
 ##  <span style="color:blue">Résumé</span>    
 
 
-« Chaque nuit*, choisissez **2 joueurs** : ils ne peuvent pas mourir cette nuit mais l'un d'eux est ivre jusqu'au crépuscule. »  
+**« Chaque nuit*, choisissez **2 joueurs** : ils ne peuvent pas mourir cette nuit mais l'un d'eux est ivre jusqu'au crépuscule. »**  
 
-L’**Aubergiste** protège ses clients des morts nocturnes, mais enivre l’un d’eux en contrepartie.  
+**L’AUBERGISTE** protège des joueurs de la mort pendant la nuit, mais au prix de la sobriété de l'un d'entre eux.
 
-- L’Aubergiste protège contre toutes les morts nocturnes (qu’elles viennent d’un [<span style="color:red">Démon</span>](../demons.md), d’un [<span style="color:red">Sbire</span>](../sbires.md), d’un Étranger ou d’un Villageois).  
-- Ne protège **pas** contre l’exécution de jour.  
-- L’un des deux choisis est rendu **ivre** jusqu’au lendemain soir.  
-- S’il se choisit lui-même, il peut devenir ivre, perdre son pouvoir et mourir.  
+- L’Aubergiste comme le [<span style="color:blue">Moine</span>](../tb_roles/po.md) protège empêche des joueurs d’être tués par le Démon.<br>
+Ces joueurs ne peuvent pas non plus mourir à cause d’un Marginal, d’un Sbire, d’un Villageois ou d’un Voyageur.
+
+- L’Aubergiste protège uniquement les joueurs pendant la nuit, et non pendant la journée.
+
+- L’un des deux joueurs choisis par l’Aubergiste devient ivre cette nuit-là et la journée du lendemain.<br> 
+Ce joueur peut être bon ou maléfique, mais il sera presque toujours bon, selon la manière dont la partie se déroule.<br> 
+Un Aubergiste qui se choisit lui-même pourrait devenir ivre, auquel cas il n’a pas de capacité et peut mourir cette nuit-là<br> 
+ – et l’autre joueur qu’il a choisi de protéger n’est plus en sécurité dans cette situation.
 
 ---
 
 ##  <span style="color:blue">Comment Conter</span>   
 
 - Chaque nuit (sauf la première), réveillez l’Aubergiste.  
-- Il choisit deux joueurs.  
-- Posez un jeton **PROTÉGÉ** à côté de leurs rôles.  
+- Il choisit deux joueurs au hasard.
+- Posez un jeton **EN SÉCURITÉ.** à côté de leurs rôles.  
 - Choisissez l’un des deux pour être ivre → placez un jeton **IVRE**.  
-- Les joueurs **protégés** ne peuvent pas mourir cette nuit.  
+- Les joueurs **EN SÉCURITÉ.s** ne peuvent pas mourir cette nuit.  
 
-- Au lever du jour, retirez les jetons **PROTÉGÉ**.  
+- A l'aubre (au lever du jour), retirez les jetons **EN SÉCURITÉ.**.  
 - Au crépuscule suivant, retirez le jeton **IVRE**.  
 
 ---
 
 ##  <span style="color:blue">Exemples</span>   
 
-- L’Aubergiste protège le [Fou](fou.md) et la [Femme de Chambre](femmedecha.md).  
-  → Le Conteur choisit d’enivrer le Fou. Le lendemain, quand le Fou est exécuté, il meurt au lieu de survivre.  
+- L’Aubergiste protège le [Fou du Roi](fou.md) et la [Femme de Chambre](femmedechambre.md).  
+  → Le Conteur choisit d’enivrer le Fou du Roi. Le lendemain, quand le Fou est exécuté, il meurt au lieu de survivre.  
 
 - L’Aubergiste protège l’[<span style="color:red">Assassin</span>](../bmr_roles/assassin.md) et le [<span style="color:red">Po</span>](../bmr_roles/po.md).  
   → Le Conteur choisit d’enivrer l’Assassin. Sa capacité ne fonctionne pas cette nuit-là.  
