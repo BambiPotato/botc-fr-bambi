@@ -52,9 +52,9 @@ image: /images/Icon_monk.png
 </ul>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
-« Un vent mauvais et mortel souffle ce soir. 
-  Viens, mon frère, t'abriter à l'abbaye pendant que la tempête fait rage. 
-  Par ma parole, ou par ma vie, tu seras en sécurité. »
+« C’est un vent mauvais qui souffle sur le village ce soir.<br>  
+Viens trouver refuge à l’abbaye, mon frère.<br>  
+Le Mal ne viendra pas t’y trouver, je m’en porte garant. »
 </p> 
  
 
@@ -87,47 +87,59 @@ image: /images/Icon_monk.png
  <strong>« Chaque nuit*, choisissez un joueur (sauf vous-même) : il est protégé du Démon cette nuit. »</strong>
 
 - Le moine protège les autres joueurs du démon.
+
 - Chaque nuit, sauf la première, le moine peut choisir de protéger n'importe quel joueur sauf lui-même.
-- Si le Démon attaque un joueur protégé par le Moine, ce joueur ne meurt pas. 
-  Le Démon ne peut pas attaquer un autre joueur ; il n'y a tout simplement pas de mort cette nuit.
+
+- Si le Démon attaque un joueur protégé par le Moine, ce joueur ne meurt pas.<br> Le Démon ne peut pas attaquer un autre joueur ; il n'y a tout simplement pas de mort cette nuit.
+
 - Le moine ne protège pas contre le démon qui nomme et exécute quelqu'un.
 
 ---
 
 ##  <span style="color:blue">Comment Conter</span>
 
-- Chaque nuit, sauf la première, réveillez le moine. Il désigne n'importe quel joueur sauf lui-même. (Si le moine se désigne lui-même, **Secouez** la tête pour dire non et invitez-le à désigner un autre joueur.) Endormez le moine.Placez le jeton de rappel **Protégé** sur ce joueur.
+- Chaque nuit, sauf la première, réveillez le Moine. Le Moine désigne n'importe quel joueur, sauf lui-même. <br>(Si le Moine se désigne lui-même, faites non de la tête et faites-lui comprendre qu'il doit désigner un autre joueur.) Le Moine se rendort. Placez le jeton **EN SÉCURITÉ** du Moine à côté du jeton de rôle du joueur choisi.
 
-- Si le Démon attaque le joueur marqué  **Protégé** , celui-ci reste en vie. (Ne le marquez pas avec le jeton de rappel MORT du Démon et n'ajoutez pas de linceul comme vous le feriez normalement.) À l'aube, déclarez que personne n'est mort cette nuit. (Ne précisez pas pourquoi.)
-À l'aube, retirez le jeton de rappel **Protégé** .
+- Si le Démon attaque le joueur **EN SÉCURITÉ**, le joueur reste en vie. (Ne le marquez pas du jeton **MORT** du Démon et n’ajoutez pas de linceul.) <br>À l'aube, annoncez que personne n'est mort pendant la nuit. (Ne dites pas pourquoi.)
 
-- Dans d'autres éditions, les Démons peuvent avoir d'autres capacités que tuer. La protection du Moine prévient également tous les autres effets néfastes de la capacité du Démon, comme l'empoisonnement ou la transformation du joueur protégé en personnage maléfique.
+- À l'aube, retirez le jeton **EN SÉCURITÉ**.
+
+-Dans d'autres modules, les Démons peuvent avoir d'autres capacités que celle de tuer.<br>La protection du Moine empêche également tous les autres effets néfastes de la capacité du Démon, tels que l'empoisonnement ou la conversion en joueur maléfique.
 
 ---
 
 ##  <span style="color:blue">Exemples</span>
 
-- Le Moine protège la [Voyante](voyante.md), le [<span style="color:red">Diablotin</span>](imp.md) l’attaque. Personne ne meurt.  
-- Le Moine protège le [Maire](maire.md), le [<span style="color:red">Diablotin</span>](imp.md) attaque le Maire. La capacité du Maire ne s’active    pas : il reste en vie et personne ne meurt.  
-- Le Moine protège le [<span style="color:red">Diablotin</span>](imp.md), le [<span style="color:red">Diablotin</span>](imp.md) tente de se tuer pour transmettre sa capacité de Démon à un Sbire. Rien ne se passe : l’Imp reste en vie.  
+- Le Moine protège la [Voyante](voyante.md), le [<span style="color:red">Diablotin</span>](imp.md) l’attaque. Personne ne meurt.
+
+- Le Moine protège le [Maire](maire.md), le [<span style="color:red">Diablotin</span>](imp.md) attaque le Maire. La capacité du Maire ne s’active pas : il reste en vie et personne ne meurt.  
+
+- Le Moine protège le [<span style="color:red">Diablotin</span>](imp.md), le [<span style="color:red">Diablotin</span>](imp.md) tente de se tuer pour transmettre sa capacité de Démon à un Sbire. Rien ne se passe : le [<span style="color:red">Diablotin</span>](imp.md) reste en vie.  
 
 ---
 
 ##  <span style="color:blue">Conseils & Astuces</span>
 
-- Protégez les rôles puissants comme la [Voyante](voyante.md), l’[Empathe](empathique.md) ou l' [Immaculée](vierge.md).  
-- N’attirez pas trop l’attention : si vous êtes découvert, le Démon vous éliminera rapidement.  
-- Vous pouvez feinter en disant publiquement qui vous « allez protéger », pour pousser le Démon à viser ailleurs.  
-- Si un joueur survit grâce à vous, il est probablement bon (sauf cas particuliers avec l’Imp).  
-- Si vous pensez qu’un Imp veut se tuer pour transférer son rôle à un Sbire, vous pouvez le protéger et l’en empêcher.  
+- Protégez les rôles puissants comme la [Voyante](voyante.md), l’[Empathe](empathique.md) ou l' [Immaculée](vierge.md).
+  
+- N’attirez pas trop l’attention : si vous êtes découvert, le Démon vous éliminera rapidement.
+   
+- Vous pouvez feinter en disant publiquement qui vous « allez protéger », pour pousser le Démon à viser ailleurs.
+   
+- Si un joueur survit grâce à vous, il est probablement bon (sauf cas particuliers avec le [<span style="color:red">Diablotin</span>](imp.md)).
+   
+- Si vous pensez qu’un [<span style="color:red">Diablotin</span>](imp.md) veut se tuer pour transférer son rôle à un Sbire, vous pouvez le protéger et l’en empêcher.  
 
 ---
 
 ##  <span style="color:blue">Bluffer Moine</span>
 
 - Le Conteur vous aurait réveillé **chaque nuit sauf la première**.  
-- Soyez cohérent dans vos choix : si un joueur que vous dites avoir protégé meurt, préparez une excuse (*« j’étais ivre », « j’ai été empoisonné »…*).  
+
+- Soyez cohérent dans vos choix : si un joueur que vous dites avoir protégé meurt, préparez une excuse (*« j’étais ivre », « j’ai été empoisonné »…*). 
+
 - Vous pouvez gagner la confiance en disant avoir protégé un joueur qui a survécu à une attaque.  
+
 - Vous pouvez aussi protéger (fictivement) un joueur que vous savez être Démon pour renforcer sa crédibilité.  
 
 ---
