@@ -64,38 +64,27 @@ title: Seigneur de Typhon
 ##  <span style="color:#d45b5b;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Chaque nuit*, choisissez un joueur : il meurt.  
-  [Les rôles maléfiques sont alignés. Vous êtes au milieu.  
-  +1 Sbire. -? à +? Étrangers] »</strong>
+  <strong>« Chaque nuit*, choisissez un joueur : il meurt. [Les rôles maléfiques sont alignés. Vous êtes au milieu. +1 Sbire. -? à +? Marginaux] »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Seigneur de Typhon</strong> est un Démon statique,  
-entouré d’une <strong>ligne continue de rôles maléfiques</strong>.  
-Si le village repère un seul maléfique,  
-il peut potentiellement remonter jusqu’à toute l’équipe du Mal.
+Le <strong>Seigneur de Typhon</strong> est un Démon statique,entouré d’une <strong>ligne continue de rôles maléfiques</strong>.  
+Si le village repère un seul maléfique, il peut potentiellement remonter jusqu’à toute l’équipe du Mal.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
   <li>Lors de la mise en place, tous les rôles maléfiques sont assis côte à côte, formant une <strong>ligne ininterrompue</strong>.</li>
 
-  <li>Le <strong>Seigneur de Typhon</strong> doit avoir un rôle maléfique  
-      <strong>des deux côtés</strong> :  
+  <li>Le <strong>Seigneur de Typhon</strong> doit avoir un rôle maléfique <strong>des deux côtés</strong> :  
       il ne peut pas être assis au bout de la ligne maléfique.</li>
 
-  <li>Les <strong>Voyageurs maléfiques</strong>  
-      et les <strong><a href="../roles_experimentaux/bountyhunter.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> devenus maléfiques</strong>  
-      peuvent faire partie de cette ligne,  
-      mais ce n’est pas obligatoire.</li>
+  <li>Les <strong>Voyageurs maléfiques</strong> et les <strong><a href="../roles_experimentaux/bountyhunter.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> devenus maléfiques</strong> peuvent faire partie de cette ligne, mais ce n’est pas obligatoire.</li>
 
-  <li>L’équipe Maléfique commence avec  
-      <strong>un Sbire supplémentaire</strong>  
-      lorsqu’un <strong>Seigneur de Typhon</strong> est en jeu.</li>
+  <li>L’équipe Maléfique commence avec  <strong>un Sbire supplémentaire</strong> lorsqu’un <strong>Seigneur de Typhon</strong> est en jeu.</li>
 
-  <li>Il peut y avoir <strong>n’importe quel nombre d’<a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a></strong> en jeu :  
-      le Démon peut en ajouter ou en retirer à sa guise  
-      via la distribution des rôles au départ.</li>
+  <li>Il peut y avoir <strong>n’importe quel nombre de <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a></strong> en jeu :  
+      le Démon peut en ajouter ou en retirer à sa guise via la distribution des rôles au départ.</li>
 
   <li>Comme pour la  
       <a href="../roles_experimentaux/marionette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a>,  
@@ -118,9 +107,8 @@ il peut potentiellement remonter jusqu’à toute l’équipe du Mal.
 
   <li>
     <img src="../images/Icon_summoner.png" alt="Invocateur" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/summoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocateur</a> :  
-    Si un <strong>Seigneur de Typhon</strong> est invoqué,  
-    il doit être assis à côté d’un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>  
+    <a href="../roles_experimentaux/summoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocatrice</a> :  
+    Si un <strong>Seigneur de Typhon</strong> est invoqué, il doit être assis à côté d’un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>  
     et son autre voisin devient un <strong>Sbire maléfique</strong>.
   </li>
 
@@ -131,11 +119,8 @@ il peut potentiellement remonter jusqu’à toute l’équipe du Mal.
 ##  <span style="color:#d45b5b;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Seigneur de Typhon</strong> demande surtout  
-une bonne <strong>mise en place physique</strong> de la table  
-et une gestion attentive de la ligne maléfique :  
-qui est où, qui semble « trop proche » de qui,  
-et combien de Sbires tournent autour du Démon.
+Le <strong>Seigneur de Typhon</strong> demande surtout une bonne <strong>mise en place physique</strong> de la table et une gestion attentive de la ligne maléfique :  
+qui est où, qui semble « trop proche » de qui, et combien de Sbires tournent autour du Démon.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
@@ -146,25 +131,19 @@ et combien de Sbires tournent autour du Démon.
           du sac ;</li>
       <li>remplacez-les par des jetons de  
           <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>  
-          ou d’<a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a> ;</li>
-      <li>choisissez <strong>en secret</strong>  
-          quels joueurs seront maléfiques  
-          et où se trouve la ligne maléfique ;</li>
-      <li>assurez-vous que le <strong>Seigneur de Typhon</strong>  
-          est bien au milieu de cette ligne,  
-          avec au moins un rôle maléfique de chaque côté.</li>
+          ou de <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a> ;</li>
+      <li>choisissez <strong>en secret</strong> quels joueurs seront maléfiques et où se trouve la ligne maléfique ;</li>
+      <li>assurez-vous que le <strong>Seigneur de Typhon</strong> est bien au milieu de cette ligne, avec au moins un rôle maléfique de chaque côté.</li>
     </ul>
   </li>
 
-  <li><strong>Première nuit :</strong>
+  <li><strong>Lors de la première nuit :</strong>
     <ul style="margin-left:20px;">
-      <li>réveillez successivement les joueurs  
-          situés directement à gauche et à droite  
-          du <strong>Seigneur de Typhon</strong>  
-          (autant que nécessaire pour le nombre de Sbires voulu) ;</li>
+      <li>réveillez successivement les joueurs situés directement à gauche et à droite  
+          du <strong>Seigneur de Typhon</strong> (autant que nécessaire pour le nombre de Sbires voulu) ;</li>
       <li>montrez à chacun un jeton de Sbire différent  
           (par exemple  
-          <a href="../roles_experimentaux/organgrinder.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Orgue de Barbarie</a>,  
+          <a href="../roles_experimentaux/organgrinder.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">L'Organiste de rue</a>,  
           <a href="../roles_experimentaux/mezepheles.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mezepheles</a>,  
           <a href="../roles_experimentaux/fearmonger.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fearmonger</a>, etc.)  
           et faites un pouce vers le bas ;</li>
@@ -200,7 +179,7 @@ et combien de Sbires tournent autour du Démon.
           un <a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Goblin</a>  
           ou d’autres Sbires visibles ;</li>
       <li>pensez à l’impact d’un  
-          <a href="../roles_experimentaux/organgrinder.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Orgue de Barbarie</a>  
+          <a href="../roles_experimentaux/organgrinder.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Organiste de rue</a>  
           ou d’un <a href="../roles_experimentaux/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a>  
           alignés aux côtés du Démon.</li><br>
 
@@ -210,7 +189,7 @@ et combien de Sbires tournent autour du Démon.
         l' <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espion</a> :</li>
         <ul style="margin-left:20px;">
           <li>L’intention derrière le fait d’être mal enregistré ou détecté c’est qu’elles ne commencent pas avant la fin de préparation de la partie.</li>
-          <li>Dans les parties de tests, il a été conclu que ce n’est jamais amusant pour les joueurs d’avoir l’Espion ou le Reclus qui est mal considéré à la préparation de la partie pour être respectivement en dehors ou dans la ligne.</li> 
+          <li>Dans les parties de tests, il a été conclu que ce n’est jamais amusant pour les joueurs d’avoir l’Espionne ou la Recluse qui sont faussement enregistrées à la préparation de la partie pour être respectivement en dehors ou dans la ligne.</li> 
           <li>Ne le faites pas !</li>
         </ul>
       </ul>
@@ -226,11 +205,11 @@ et combien de Sbires tournent autour du Démon.
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Il y a deux <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> :  
-l' <a href="../roles_experimentaux/organgrinder.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Orgue de Barbarie</a>  
+l' <a href="../roles_experimentaux/organgrinder.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Organiste de rue</a>  
 et le <a href="../roles_experimentaux/mezepheles.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mezepheles</a>.  
 Entre eux, les bordant tous les deux,  
 se trouve le <strong>Seigneur de Typhon</strong>.  
-Le nombre d’<a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a> est normal.
+Le nombre d’<a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a> est normal.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -241,7 +220,7 @@ qui elle-même est voisine du <strong>Seigneur de Typhon</strong>,
 lui-même voisin du  
 <a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Goblin</a>.  
 Il y a dix joueurs au total,  
-et deux <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a> en jeu  
+et deux <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a> en jeu  
 à cause de la capacité du Seigneur de Typhon.
 </p>
 
@@ -257,7 +236,7 @@ lui-même voisin du
 Il y a quinze joueurs, mais <strong>aucun Étranger</strong> en jeu,  
 car le Seigneur de Typhon a retiré un Étranger,  
 et le  
-<a href="../roles_experimentaux/puzzlemaster.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maître des Enigmes</a>  
+<a href="../roles_experimentaux/puzzlemaster.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maître des Puzzles</a>  
 est devenu le <a href="../bmr_roles/boomdandy.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boomdandy</a>  
 durant la première nuit.
 </p>
@@ -278,38 +257,28 @@ durant la première nuit.
       vous devez donc paraître <strong>très bon</strong>.</li>
 
   <li>Si vous avez commencé  
-      avec un jeton d’<a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a>,  
+      avec un jeton d’<a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>,  
       utilisez plutôt un bluff de Démon.  
-      Un nombre inhabituel d’Étrangers en jeu  
-      peut être un indice pour le village  
-      qu’un <strong>Seigneur de Typhon</strong> est présent.</li>
+      Un nombre inhabituel d’Étrangers en jeu  peut être un indice pour le village qu’un <strong>Seigneur de Typhon</strong> est présent.</li>
 
-  <li>Si vous bluffez un autre rôle,  
-      gardez votre rôle initial comme <strong>roue de secours</strong>  
-      au cas où votre premier mensonge s’effrite.</li>
+  <li>Si vous bluffez un autre rôle, gardez votre rôle initial comme <strong>roue de secours</strong> au cas où votre premier mensonge s’effrite.</li>
 
   <li>En tant que Démon, cachez-vous.  
-      Le <strong>Seigneur de Typhon</strong> ne récompense pas  
-      le jeu « tout feu tout flamme ».  
-      Réfléchissez bien aux conséquences  
-      d’un Démon rapidement identifié :  
+      Le <strong>Seigneur de Typhon</strong> ne récompense pas le jeu « tout feu tout flamme ».  
+      Réfléchissez bien aux conséquences d’un Démon rapidement identifié :  
       la ligne entière risque de tomber.</li>
 
   <li>Profitez du <strong>Sbire supplémentaire</strong>.  
-      Avec +1 Sbire, vous avez davantage de voix  
-      et plus de chances de garder  
-      plusieurs rôles maléfiques en vie jusqu’au bout.</li>
+      Avec 1  Sbire supplémentaire, vous avez davantage de vote  
+      et plus de chances de garder plusieurs rôles maléfiques en vie jusqu’au bout.</li>
 
   <li>Surveillez l’<strong>équilibre des votes</strong>.  
-      Gardez en tête combien de voix  
-      l’équipe du Mal peut aligner  
-      par rapport à l’équipe du Bien.</li>
+      Gardez en tête combien de voix l’équipe du Mal peut aligner par rapport à l’équipe du Bien.</li>
 
   <li>Ne votez pas tous ensemble.  
       Si toute la ligne lève la main en même temps,  
       une <a href="../sv_roles/fleuriste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a> attentive  
-      ou un simple bon sens collectif  
-      repèreront la ligne d’un seul coup.</li>
+      ou un simple bon sens collectif repèreront la ligne d’un seul coup.</li>
 
   <li>Profitez de vos voisins maléfiques  
       pour échanger des infos discrètement :  
@@ -379,7 +348,7 @@ durant la première nuit.
 
   <li>Essayez de déterminer quel type de Démon est en jeu.  
       Un nombre inhabituel de Sbires  
-      ou d’<a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>  
+      ou d’<a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>  
       peut pointer vers le <strong>Seigneur de Typhon</strong>.</li>
 
   <li>Comptez les capacités de Sbires visibles.  
@@ -405,6 +374,6 @@ durant la première nuit.
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="/demon.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Démons</a><br>
+   <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Démons</a><br>
    <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
