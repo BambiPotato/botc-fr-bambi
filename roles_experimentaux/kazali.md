@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Kazali
+description: "Chaque nuit*, choisissez un joueur : il meurt.[Vous choisissez quels joueurs sont quels Sbires. -? à +? Marginaux] " 
+image: /images/Icon_kazali.png
 ---
 
 <p align="left">
@@ -61,7 +63,7 @@ title: Kazali
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Chaque nuit*, choisissez un joueur : il meurt.  
-  [Vous choisissez quels joueurs sont quels Sbires. -? à +? Étrangers] »</strong>
+  [Vous choisissez quels joueurs sont quels Sbires. -? à +? Marginaux] »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -79,9 +81,9 @@ et tue un joueur chaque nuit*.
   <li>Chaque nuit* (sauf indication contraire du script),  
       le <strong>Kazali</strong> choisit un joueur : ce joueur <strong>meurt</strong>.</li>
 
-  <li>Le <strong>Kazali</strong> peut modifier le nombre d’<a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>  
+  <li>Le <strong>Kazali</strong> peut modifier le nombre de <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>  
       en jeu (entre -? et +?) lors de la mise en place,  
-      ce qui peut fortement déséquilibrer les « maths d’Étrangers ».</li>
+      ce qui peut fortement déséquilibrer les « maths de Marginaux ».</li>
 
   <li>Si un <strong>Kazali</strong> apparaît en cours de partie  
       (par exemple via une transformation),  
@@ -133,9 +135,9 @@ et tue un joueur chaque nuit*.
   </li>
 
   <li>
-    <img src="../images/Icon_summoner.png" alt="Invocateur" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/summoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocateur</a> :  
-    Si l’<a href="../roles_experimentaux/summoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocateur</a> crée  
+    <img src="../images/Icon_summoner.png" alt="Invocatrice" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/summoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocatrice</a> :  
+    Si l’<a href="../roles_experimentaux/summoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocatrice</a> crée  
     un <strong>second Démon vivant</strong>,  
     les morts de cette nuit sont <strong>arbitraires</strong>  
     (le Conteur choisit qui meurt).
@@ -150,7 +152,7 @@ et tue un joueur chaque nuit*.
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Le <strong>Kazali</strong> modifie la répartition des Sbires  
-et potentiellement le nombre d’<a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>  
+et potentiellement le nombre de <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>  
 avant que la partie ne commence réellement.  
 Il tue ensuite comme un Démon « classique », une fois par nuit.
 </p>
@@ -163,9 +165,9 @@ Il tue ensuite comme un Démon « classique », une fois par nuit.
           <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> du sac ;</li>
       <li>remplacez-les par des jetons de  
           <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>  
-          ou d’<a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>  
+          ou de <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>  
           selon ce que vous souhaitez ;</li>
-      <li>ajustez au passage le nombre d’<a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>  
+      <li>ajustez au passage le nombre de <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>  
           (en restant attentif à l’équilibre du script).</li>
     </ul>
   </li>
@@ -206,8 +208,8 @@ Il tue ensuite comme un Démon « classique », une fois par nuit.
     </ul>
   </li>
 
-  <li><strong>Équilibre des Étrangers :</strong>  
-      Ajouter plusieurs <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>  
+  <li><strong>Équilibre des Marginaux :</strong>  
+      Ajouter plusieurs <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>  
       peut mettre le Bien en net désavantage,  
       selon le script.  
       Ajustez ce paramètre avec prudence.</li>
@@ -223,7 +225,7 @@ Il y a 15 joueurs et aucun
 <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>  
 en jeu au départ.  
 Le <strong>Kazali</strong> se réveille et choisit que <strong>Nicolas</strong>  
-devient l’<a href="../roles_experimentaux/organgrinder.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Orgue de Barbarie</a> maléfique,  
+devient l’<a href="../roles_experimentaux/organgrinder.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Organiste de rue</a> maléfique,  
 que <strong>Amalia</strong> devient la  
 <a href="../roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a> maléfique,  
 et que <strong>Lilian</strong> devient le  
@@ -254,7 +256,7 @@ et que <strong>Lilian</strong> devient le
       que les Sbires ont été tirés au sort dans le sac  
       plutôt que sélectionnés par un <strong>Kazali</strong>.</li>
 
-  <li>N’oubliez pas que le jeu est là pour être fun :  
+  <li>N’oubliez pas que le jeu est là pour être amusant :  
       vous pouvez très bien ignorer la « méta optimale »  
       et simplement choisir les joueurs  
       avec qui vous savez que vous allez passer  
@@ -263,11 +265,11 @@ et que <strong>Lilian</strong> devient le
   <li>Essayez de choisir des Sbires  
       qui se <strong>complètent bien</strong> :
       <ul style="margin-left:20px;">
-        <li>un <a href="../roles_experimentaux/organgrinder.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Orgue de Barbarie</a>  
+        <li>un <a href="../roles_experimentaux/organgrinder.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Organiste de rue</a>  
             marche très bien avec un  
             <a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Goblin</a>  
             ou un <a href="../bmr_roles/boomdandy.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boomdandy</a> ;</li>
-        <li>une <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a>  
+        <li>une <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a>  
             adore avoir une  
             <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a>  
             pour lui souffler les meilleures cibles.</li>
@@ -293,7 +295,7 @@ et que <strong>Lilian</strong> devient le
         <li>à un joueur qui adore parler :  
             une <a href="../roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a> ;</li>
         <li>à une personne très tactique :  
-            une <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a>  
+            une <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a>  
             ou un <a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> ;</li>
         <li>à quelqu’un qui aime les coups spectaculaires :  
             un <a href="../roles_experimentaux/boomdandy.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boomdandy</a>  
@@ -313,10 +315,10 @@ et que <strong>Lilian</strong> devient le
   <li>Ne comptez pas trouver des Sbires <strong>sans bluff</strong> :  
       avec un <strong>Kazali</strong> en jeu,  
       tous les Sbires commencent en général  
-      avec un personnage bon « libre » à bluffer  
+      avec un rôle bon « libre » à bluffer  
       (leur rôle d’origine).  
       Vous ne pourrez donc pas les piéger facilement  
-      sur le choix de leur personnage.</li>
+      sur le choix de leur bluff.</li>
 
   <li>Mais cela peut aussi être un indice :  
       si tout le monde semble très à l’aise  
@@ -325,11 +327,11 @@ et que <strong>Lilian</strong> devient le
       ait préparé une équipe maléfique  
       avec des bluffs parfaits dès le départ.</li>
 
-  <li>Gardez un œil sur le <strong>nombre d’Étrangers</strong>.  
+  <li>Gardez un œil sur le <strong>nombre de Marginaux</strong>.  
       Le <strong>Kazali</strong> peut le modifier de façon imprévisible :  
       ce n’est pas une preuve absolue,  
       mais si vos informations indiquent  
-      qu’aucun autre rôle ne touche aux Étrangers  
+      qu’aucun autre rôle ne touche aux Marginaux  
       et que le compte ne colle pas,  
       cela renforce la piste Kazali.</li>
 
