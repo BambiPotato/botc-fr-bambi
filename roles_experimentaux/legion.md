@@ -474,7 +474,6 @@ Le Mal gagne.
       (cibles peu logiques, morts surprenantes),  
       vous êtes peut-être face à la <strong>Légion</strong>.</li>
 
-</ul>
 
 ---
 
