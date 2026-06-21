@@ -56,6 +56,7 @@ image: /images/Icon_innkeeper.png
 > *« Entrez, voyageur, et reposez-vous au coin du feu.<br>
 > Buvez et chassez vos soucis, car les légions de l’Obscur.<br>
 > ne viendront pas vous troubler cette nuit.»* 
+
 ---
 
 
@@ -107,9 +108,9 @@ Un Aubergiste qui se choisit lui-même pourrait devenir ivre, auquel cas il n’
 
 - Chaque nuit, *(sauf la première)*, réveillez l’Aubergiste.  
 - Il choisit deux joueurs au hasard.
-- Posez un jeton **PROTÉGÉ.** à côté de leurs rôles.  
+- Posez un jeton **PROTÉGÉ** à côté de leurs rôles.  
 - Choisissez l’un des deux pour être ivre → placez un jeton **IVRE**.  
-- Les joueurs **PROTÉGÉS** ne peuvent pas mourir cette nuit.  
+- Les joueurs **PROTÉGÉS** par l'Aubergiste ne peuvent pas mourir cette nuit.  
 
 - A l'aube, *(au lever du jour)* retirez les jetons **PROTÉGÉ.**.  
 - Au crépuscule suivant, retirez le jeton **IVRE**.  
