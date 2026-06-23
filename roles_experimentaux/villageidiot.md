@@ -61,7 +61,7 @@ S’il vous plaît, inversez simplement ce que je viens de dire. »
 ##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Chaque nuit, vous choisissez un joueur ou une joueuse : vous apprenez son alignement. [+0 à +2 Idiots du Village. L’un des Idiots du Village supplémentaires est ivre.] »</strong>
+  <strong>« Chaque nuit, vous choisissez un joueur  : vous apprenez son alignement. [+0 à +2 Idiots du Village. L’un des Idiots du Village supplémentaires est ivre.] »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -71,11 +71,11 @@ Les <strong>Idiots du Village</strong> forment un groupe qui apprend l’alignem
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
-  <li>Parmi les Idiots du Village en jeu, l’un d’eux est ivre, choisi par le Conteur ou la conteuse  
+  <li>Parmi les Idiots du Village en jeu, l’un d’eux est ivre, choisi par le Conteur  
       pendant la mise en place de la partie.</li>
 
   <li>Il peut y avoir un, deux ou trois Idiots du Village en jeu,  
-      quel que soit le nombre total de joueurs et joueuses.</li>
+      quel que soit le nombre total de joueurs.</li>
 
   <li>S’il n’y a qu’un Idiot du Village en jeu, il est sobre.</li>
 
@@ -104,15 +104,15 @@ Les <strong>Idiots du Village</strong> forment un groupe qui apprend l’alignem
 
   <li>
     <img src="../images/Icon_boffin.png" alt="Boffin" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/boffin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boffin</a> :  
-    S’il reste un jeton disponible, le Boffin peut donner au <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
+    <a href="../roles_experimentaux/boffin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Laborantin</a> :  
+    S’il reste un jeton disponible, le Laborantin peut donner au <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
     la capacité d’<strong>Idiot du Village</strong>.
   </li>
 
   <li>
     <img src="../images/Icon_pithag.png" alt="Pit-Hag" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a> :  
-    S’il reste un jeton disponible, la Pit-Hag peut créer un Idiot du Village supplémentaire.  
+    S’il reste un jeton disponible, la Guenaude peut créer un Idiot du Village supplémentaire.  
     Dans ce cas, l’Idiot du Village ivre peut changer.
   </li>
 
@@ -134,8 +134,8 @@ Chaque nuit, réveillez un Idiot du Village à la fois :
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
-  <li>L’Idiot du Village pointe un joueur ou une joueuse.</li>
-  <li>Donnez-lui un pouce levé pour « bon » ou un pouce baissé pour « maléfique »  
+  <li>L’Idiot du Village pointe un joueur.</li>
+  <li>DMonstrez-lui un pouce levé pour « bon » ou un pouce baissé pour « maléfique »  
       selon l’alignement réel de la cible (ou selon son ivresse, s’il s’agit de l’Idiot du Village ivre).</li>
   <li>Endormez cet Idiot du Village, puis passez au suivant jusqu’à ce que  
       tous les Idiots du Village aient agi.</li>
@@ -207,7 +207,7 @@ Sarah prétend avoir choisi Céline et avoir appris qu’elle est maléfique.
       Si votre information contredit un élément presque certain,  
       il est probable que vous soyez la source de l’erreur.</li>
 
-  <li>N’oubliez pas que le Conteur ou la conteuse peut encore donner  
+  <li>N’oubliez pas que le Conteur peut encore donner  
       une information correcte à l’Idiot du Village ivre afin de ne pas rendre  
       les Idiots du Village trop puissants.</li>
 
@@ -255,9 +255,9 @@ Sarah prétend avoir choisi Céline et avoir appris qu’elle est maléfique.
       comme bluff principal.</li>
 
   <li>Si vous recevez Idiot du Village comme bluff de Démon,  
-      soyez attentif aux joueurs et joueuses qui prétendent aussi être Idiot du Village.  
-      Ils ou elles peuvent être de puissants Villageois,  
-      ou des Étrangers gênants comme la 
+      soyez attentif aux joueurs qui prétendent aussi être un Idiot du Village.  
+      Ils peuvent être de puissants Villageois,  
+      ou des Marginaux gênants comme la 
       <a href="../roles_experimentaux/damsel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Demoiselle</a>  
       ou l’
       <a href="../roles_experimentaux/heretic.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Hérétique</a>.
