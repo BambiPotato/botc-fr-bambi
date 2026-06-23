@@ -67,9 +67,7 @@ image: /images/Icon_kazali.png
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Kazali</strong> choisit lui-même son équipe de  
-<a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>  
-et tue un joueur chaque nuit*.
+Le <strong>Kazali</strong> choisit lui-même ses <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
