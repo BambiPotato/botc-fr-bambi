@@ -65,7 +65,7 @@ S’il vous plaît, inversez simplement ce que je viens de dire. »
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Les <strong>Idiots du Village</strong> forment un groupe qui apprend l’alignement des joueurs et des joueuses.
+Les <strong>Idiots du Village</strong> forment un groupe qui apprend l’alignement des joueurs.
 </p>
 
 
