@@ -181,7 +181,7 @@ pour voter contre la
       vers les joueurs que vous jugez les plus suspects.</li>
 
   <li>Vous pouvez prétendre être un rôle qui profite des exécutions, comme le 
-      <a href="../tb_roles/croquemorts.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-morts</a>  
+      <a href="../tb_roles/croquemorts.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a>  
       ou le 
       <a href="../roles_experimentaux/cannibal.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cannibale</a>.  
       Les autres se demanderont alors : votez-vous tout le temps parce que vous êtes Zélote,  
@@ -197,7 +197,7 @@ pour voter contre la
   <li>Si un ou une Voyageuse rejoint la partie, encouragez-la à jouer  
       <a href="../voyageurs/bureaucrat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bureaucrate</a>  
       ou 
-      <a href="../voyageurs/thief.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voleur</a> :  
+      <a href="../voyageurs/thief.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voleuse</a> :  
       ces Voyageurs jouent beaucoup avec les votes, ce qui se marie très bien avec votre présence.</li>
 
   <li>Travaillez avec votre équipe pour arriver à un moment où il ne reste plus que <strong>4 joueurs ou moins</strong> en vie.  
