@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Gros Bonnet
+description: "Chaque nommé choisit un joueur : jusqu’au vote, seul ce joueur peut parler. Il est fou que le nommé soit bon, sinon il pourrait mourir."
+image: /images/Icon_ig_wig.png
 ---
 
 <p align="left">
@@ -51,8 +53,9 @@ title: Gros Bonnet
 ## <span style="color:#7fd1ae;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>Chaque personne nommée choisit un joueur : jusqu’au vote, seul ce joueur peut parler, et il est <em>Fou</em> que le joueur nommé soit <strong>Bon</strong> ; sinon, il pourrait mourir.</strong>
+<strong>Chaque nommé choisit un joueur : jusqu’au vote, seul ce joueur peut parler. Il est <em>fou</em> que le nommé soit strong>bon/strong>, sinon il pourrait mourir.</strong>
 </p>
+
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Le <strong>Gros Bonnet</strong> donne aux personnes nommées un véritable <em>avocat de la défense</em>.
