@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Zélote
+description: "Une fois par partie, pendant la nuit, choisissez un rôle bon : vous gagnez sa capacité.Si ce rôle est en jeu, il est ivre."
+image: /images/Icon_zealot.png
 ---
 
 <p align="left">
@@ -41,7 +43,7 @@ title: Zélote
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
-    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a>
+    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>
   </li>
   <li>
   <strong>Nom original :</strong>
@@ -80,7 +82,7 @@ Le <strong>Zélote</strong> doit constamment lever la main : tant qu’il y a as
   <li>Une fois mort, le Zélote peut utiliser son jeton de vote fantôme comme tout autre joueur mort.  
       Sa capacité n’oblige plus à voter : elle ne s’applique qu’aux joueurs vivants.</li>
 
-  <li>Le Zélote n’a pas besoin de voter lors des <strong>exils</strong> (votes pour ou contre les Voyageurs).</li>
+  <li>Le Zélote n’a pas besoin de voter lors des <strong>exils</strong> (votes pour éxilés les Voyageurs).</li>
 
   <li>Le Zélote doit voter même s’il pense être <strong>ivre ou empoisonné</strong> : sa contrainte de vote reste valable.</li>
 
@@ -144,14 +146,14 @@ Il reste 7 joueurs en vie.
 Le Zélote vote pour l’
 <a href="../roles_experimentaux/alsaahir.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Alsaahir</a>,  
 l’
-<a href="../roles_experimentaux/summoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocateur</a>,  
+<a href="../roles_experimentaux/summoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocatrice</a>,  
 l’
 <a href="../roles_experimentaux/ogre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ogre</a>  
 et la  
 <a href="../roles_experimentaux/banshee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Banshee</a>.  
 Le lendemain, il reste 5 joueurs en vie.  
 Le Zélote vote pour le 
-<a href="../roles_experimentaux/yaggababble.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Yaggababble</a>  
+<a href="../roles_experimentaux/yaggababble.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Yaggablabla</a>  
 et la 
 <a href="../roles_experimentaux/highpriestess.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Grande Prêtresse</a>.  
 Le jour suivant, il ne reste plus que 3 joueurs en vie.  
@@ -160,9 +162,9 @@ Le Zélote vote pour le Yaggababble, mais choisit de ne pas voter pour la Grande
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Il reste 9 joueurs en vie. Le Zélote est déjà mort.  
-Le Zélote ne vote pas pendant 3 jours, puis utilise son jeton de vote fantôme alors qu’il ne reste plus que 3 joueurs en vie  
-pour voter contre le 
-<a href="../roles_experimentaux/farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermier</a>.
+Le Zélote ne vote pas pendant 3 jours, puis utilise son jeton de vote de mort alors qu’il ne reste plus que 3 joueurs en vie  
+pour voter contre la
+<a href="../roles_experimentaux/farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermière</a>.
 </p>
 
 ---
@@ -207,9 +209,9 @@ pour voter contre le
   <li>Si le Zélote est sur le script et que vous ne l’êtes pas,  
       observez attentivement qui vote à chaque nomination.  
       Un bon joueur qui lève la main à toutes les nominations est peut-être le Zélote,  
-      ce qui vous donne un indice sur la répartition des Étrangers.</li>
+      ce qui vous donne un indice sur la répartition des Marginaux</li>
 
-  <li>Si vous jouez un personnage qui veut mourir la nuit (par exemple un rôle à condition de victoire spéciale),  
+  <li>Si vous jouez un rôle qui veut mourir la nuit (par exemple un rôle à condition de victoire spéciale),  
       votez sur tout pour convaincre l’équipe maléfique que vous êtes le Zélote  
       et les inciter à vous tuer.</li>
 
@@ -244,6 +246,6 @@ pour voter contre le
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Étrangers</a><br>
+   <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Marginaux</a><br>
    <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
