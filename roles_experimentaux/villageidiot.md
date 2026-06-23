@@ -111,7 +111,7 @@ Les <strong>Idiots du Village</strong> forment un groupe qui apprend l’alignem
 
   <li>
     <img src="../images/Icon_pithag.png" alt="Pit-Hag" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a> :  
+    <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a> :  
     S’il reste un jeton disponible, la Guenaude peut créer un Idiot du Village supplémentaire.  
     Dans ce cas, l’Idiot du Village ivre peut changer.
   </li>
