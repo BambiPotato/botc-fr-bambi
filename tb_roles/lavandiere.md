@@ -39,7 +39,7 @@ image: /images/Icon_washerwoman.png
 
   <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   <li>  « Il y a des taches de sang sur cette veste !<br> 
-         Ou alors, c’est de la sauce. C’est encore pire ! ». »</li>
+         Ou alors, c’est de la sauce. C’est encore pire ! ».</li>
   </p>  
 </ul>
 
