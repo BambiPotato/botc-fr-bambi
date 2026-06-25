@@ -121,7 +121,8 @@ image: /images/Icon_chef.png
 Plus loin, deux autres Sbires sont voisins. → le Cuisinier apprend **3**.  
 
 - La [Recluse](reclus.md) est entre le [<span style="color:red">Diablotin</span>](imp.md) et l’[<span style="color:red">Empoisonneur</span>](empoisonneurmd) 
-Le Cuisinier  apprend **1** : ici, la [Recluse](reclus.md) s’enregistre comme <span style="color:red">maléfique</span> pour la paire [<span style="color:red">Diablotin</span>](imp.md)-[Recluse](reclus.md),<br>mais comme bon pour la paire [<span style="color:red">Empoisonneur</span>](empoisonneurmd)-[Recluse](reclus.md).
+Le Cuisinier  apprend **1** : ici, la [Recluse](reclus.md) s’enregistre comme <span style="color:red">maléfique</span> pour la paire [<span style="color:red">Diablotin</span>](imp.md)-[Recluse](reclus.md),
+mais comme bon pour la paire [<span style="color:red">Empoisonneur</span>](empoisonneurmd)-[Recluse](reclus.md).
 
 ---
 
