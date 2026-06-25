@@ -53,7 +53,7 @@ image: /images/Icon_ig_wig.png
 ## <span style="color:#7fd1ae;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>Chaque nommé choisit un joueur : jusqu’au vote, seul ce joueur peut parler. Il est <em>fou</em> que le nommé soit strong>bon/strong>, sinon il pourrait mourir.</strong>
+<strong>Chaque nommé choisit un joueur : jusqu’au vote, seul ce joueur peut parler. Il est <em>fou</em> que le nommé soit <strong>bon/</strong>, sinon il pourrait mourir.</strong>
 </p>
 
 
