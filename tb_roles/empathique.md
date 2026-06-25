@@ -87,11 +87,9 @@ Quelque chose n’est pas normal. Je le sens.»
 
 - L’Empathe apprend uniquement combien de ses voisins sont maléfiques, mais ne sait pas qui est maléfique.
 
-- L’Empathe ne détecte pas les joueurs morts. Si l’Empathe est à côté d’un joueur mort, il ne reçoit aucune information le concernant.
-  En revanche, il reçoit une information concernant le joueur en vie le plus proche de ce côté-là.
+- L’Empathe ne détecte pas les joueurs morts. Si l’Empathe est à côté d’un joueur mort, il ne reçoit aucune information le concernant.<br> En revanche, il reçoit une information concernant le joueur en vie le plus proche de ce côté-là.
   
-- L’Empathe agit après le Démon, donc si le Démon tue l’un des voisins de l’Empathe, l’information qu’il reçoit tient compte de la nouvelle situation.
-  Autrement dit, l’information qu’il reçoit se rapporte à la situation à l’aube, et non au crépuscule de la journée précédente.
+- L’Empathe agit après le Démon, donc si le Démon tue l’un des voisins de l’Empathe, l’information qu’il reçoit tient compte de la nouvelle situation.<br> Autrement dit, l’information qu’il reçoit se rapporte à la situation à l’aube, et non au crépuscule de la journée précédente.
 
 ---
 
@@ -119,12 +117,12 @@ L’Empathe détecte désormais les voisins du [Soldat](soldat.md) et du [Moine]
 - Vous recevez l’info **après la mort de la nuit** → vos résultats reflètent l’état **à l’aube**.  
 - **0** → vous êtes probablement entouré de joueurs bons : collaborez avec eux.  
 - **1** → un voisin est bon, l’autre est mauvais. Trouvez lequel.  
-- **2** → vous êtes coincé entre deux mauvais → danger immédiat.  
+- **2** → vous êtes coincé entre deux Maléfique → danger immédiat.  
 
 - Si vos voisins meurent, vous obtenez de **nouvelles infos** sur les suivants. Collaborez avec un [Fossoyeur](croquemort.md) pour vérifier qui ils étaient.  
 - Révéler vos infos tôt aide à orienter les exécutions. Attendre peut protéger vos voisins bons ou vous donner plus de contexte.  
 - Mentir sur votre chiffre (par ex. annoncer "0" au lieu de "1") peut convaincre le Mal de vous garder en vie, pensant que vous êtes l'[Ivrogne](ivrogne.md)  
-- ⚠️ Attention à la [Recluse](reclus.md), qui peut apparatire comme maléfique, et à l’[<span style="color:red">Espionne</span>](espion.md), qui peut apparaître comme **Bonne**.  
+  ⚠️ Attention à la [Recluse](reclus.md), qui peut apparatire comme **Maléfique**, et à l’[<span style="color:red">Espionne</span>](espion.md), qui peut apparaître comme **Bonne**.  
 
 ---
 
