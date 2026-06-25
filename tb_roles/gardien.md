@@ -74,7 +74,7 @@ image: /images/Icon_ravenkeeper.png
   </li>
 </ul>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
 « Mes oiseaux me vengeront ! Volez ! <br>
 Volez, mes sœurs, et faites votre devoir ! <br>
 Volez au manoir ! Volez à la rivière ! <br>
@@ -96,19 +96,20 @@ Que vos ailes soient l’instrument de ma vengeance ! Volez ! »
 
 ##  <span style="color:blue">Comment Conter</span> 
 
-- Si le Corneille meurt cette nuit, réveillez-le.  
-- Il désigne un joueur. Montrez-lui le jeton de rôle de ce joueur.  
-- Puis rendormez le Corneille.  
+- Si la Corneille est morte cette nuit-là, réveillez-la. Elle désigne n'importe quel joueur. 
+- Montrez le jeton de rôle du joueur choisi à la Corneille. 
+- La Corneille se rendort.
 
  **Conseil** : *Nous vous conseillons d'interdire aux joueurs de parler pendant la nuit de ce qu’ils sont en train de faire.*
 
 ---
 
 ##  <span style="color:blue">Exemples</span>   
-- La Corneille est tué par le **[<span style="color:red">Diablotin</span>](imp.md)** et choisit **Benjamin**. Benjamin est **[Empathe](empathique.md)** : le Corneille apprend le rôle [Empathe](empathique.md) .  
+- La Corneille est tué par le **[<span style="color:red">Diablotin</span>](imp.md)** et choisit **Benjamin**. Benjamin est l'**[Empathe](empathique.md)** :
+  la Corneille apprend le rôle de l'[Empathe](empathique.md) .  
 
 - Le **[<span style="color:red">Diablotin</span>](imp.md)** attaque le **[<span style="color:blue">Maire</span>](maire.md)**. 
-  - Le Maire survit, mais le **Corneille** meurt à sa place. La Corneille choisit **Damien**, une **[Recluse](reclus.md)** morte. 
+  - Le Maire survit, mais la **Corneille** meurt à sa place. La Corneille choisit **Damien**, une **[Recluse](reclus.md)** morte. 
   - La Corneille apprend que **Damien** était en réalité la **[<span style="color:red">Femme Écarlate</span>](femmeecarlate.md)**, 
     à cause de la capacité de la [Recluse](reclus.md).  
 
@@ -116,12 +117,12 @@ Que vos ailes soient l’instrument de ma vengeance ! Volez ! »
 
 ##  <span style="color:blue">Conseils & Astuces</span>  
 - Si le Démon sait que vous êtes la Corneille, il évitera souvent de vous tuer.  
-  Bluffez en prétendant être un rôle menaçant comme [Empathe](empathique.md), [Voyante](voyante.md),ou [Fossoyeur](croquemort.md) pour attirer son attention. 
+  Bluffez en prétendant être un rôle menaçant comme l'[Empathe](empathique.md), la [Voyante](voyante.md),ou le [Fossoyeur](croquemort.md) pour attirer son attention. 
   
 - Réfléchissez à qui vous souhaitez cibler **avant la nuit**, pour ne pas décider dans la panique.  
   Choisir un joueur vivant est souvent plus utile qu’un mort : vous saurez qui ne pas exécuter ou qui ne pas croire.  
   Attention à la [Recluse](reclus.md) et à l’[<span style="color:red">Espionne</span>](espion.md), leurs pouvoirs peuvent fausser votre info. 
-  Si vous apprenez qu’un joueur est [Ivrogne](ivrogne.md), c’est une double info : vous savez qu’il est bon **et** que son pouvoir est faux.  
+  Si vous apprenez qu’un joueur est l'[Ivrogne](ivrogne.md), c’est une double info : vous savez qu’il est bon **et** que son pouvoir est faux.  
   
 - Votre capacité ne marche **que si vous mourez la nuit**. Mourir de jour ne donne rien.  
   Vous pouvez annoncer publiquement être Gardien dès le début. Le Démon hésitera alors à vous tuer, mais vous n’aurez sans doute pas d’info.  
