@@ -79,7 +79,7 @@ image: /images/Icon_investigator.png
   </li>
 </ul>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
 «  Beau temps pour faire une promenade, <br>
 n’est-ce pas, Monsieur Morozov ? <br>
 Ou devrais-je dire... Monsieur le Baron ? »
@@ -89,24 +89,23 @@ Ou devrais-je dire... Monsieur le Baron ? »
 ##  <span style="color:blue">Résumé</span>
 **« Lors de votre première nuit, vous apprenez un rôle de [<span style="color:red">Sbire</span>](../sbires.md) en jeu parmi 2 joueurs.»** 
 
-Le **Détective** apprend qu’un rôle de Sbire particulier est en jeu, mais ne sait pas qui l’incarne.
+**LE DETECTIVE** apprend qu’un rôle de Sbire particulier est en jeu, mais ne sait pas qui l’incarne.
 
-Lors de la première nuit, il apprend que l’un de deux joueurs est un **Sbire spécifique**.  
-Il ne reçoit cette information qu’une seule fois, au début de la partie.  
-
+- Lors de la première nuit, le Conteur réveille le ou la Détective et lui montre deux joueurs<br>  et un rôle de Sbire, qui appartient à l’un des deux.
+Il reçoit cette information une seule fois, et n’apprend rien d’autre.
 
 ---
 
 
 ##  <span style="color:blue">Comment Conter</span>  
 
-- Pendant la préparation de la première nuit :  
+- Lors de la préparation de la première nuit :  
   - Placez le jeton de rappel **<span style="color:red">SBIRE</span>** du **Détective** à côté du jeton d’un [<span style="color:red">Sbire</span>](../sbires.md).  
-  - Placez ensuite le jeton **FAUX SBIRE** à côté de n’importe quel autre rôle.  
-- Réveillez le Détective et pointez les deux joueurs marqués **SBIRE** et **FAUX SBIRES**.  
+  - Placez ensuite le jeton **FAUSSE PISTE** à côté de n’importe quel autre rôle.  
+- Réveillez le Détective et pointez les deux joueurs marqués **SBIRE** et **FAUSSE PISTE**.  
 - Montrez-lui le jeton du rôle du **Sbire** en question.  
 - Rendormez-le ensuite.  
-- Retirez les jetons  lorsqu’ils ne sont plus nécessaires.  
+- Retirez les jetons du Détective lorsqu’ils ne sont plus nécessaires.  
 
 ---
 
@@ -115,13 +114,12 @@ Il ne reçoit cette information qu’une seule fois, au début de la partie.
 - **Céline** est [<span style="color:red">Baron</span>](baron.md), et **Pierre** est [Maire](maire.md).  
   → Le Détective apprend que soit Céline, soit Pierre est le Baron.  
 
-- **Tyld** est [<span style="color:red">Espion</span>](espion.md), et **Julien** est [<span style="color:red">Empoisonneur</span>](empoisonneur.md).  
-  → Le Détective apprend que soit Tyld, soit Julien est l’Espionne.  
+- **Dorothée** est [<span style="color:red">Espionne</span>](espion.md), et **Julien** est [<span style="color:red">Empoisonneur</span>](empoisonneur.md).  
+  → Le Détective apprend que soit Dorothée, soit Julien est l’Espionne.  
 
-- **Tigeni** est [Recluse](reclus.md), et **Kyllian** est [<span style="color:red">Diablotin</span>](imp.md).  
-  → L’Enquêteur apprend que soit Tigeni, soit Kyllian est [<span style="color:red">Empoisonneur</span>](empoisonneur.md).  
-  (La Recluse peut s’enregistrer comme un Sbire, ici comme Empoisonneur.)  
-
+- **Evin** est la [Recluse](reclus.md), et **Kyllian** est le [<span style="color:red">Diablotin</span>](imp.md).  
+  → Le Détective apprend que soit Evin, soit Kyllian est l'[<span style="color:red">Empoisonneur</span>](empoisonneur.md).  
+⚠️ Ici, la [Recluse](reclus.md) apparaît comme un Sbire : dans ce cas précis, l’Empoisonneur.
 ---
 
 ##  <span style="color:blue">Astuces & Conseils</span>    
