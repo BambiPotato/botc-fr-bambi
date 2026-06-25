@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fossoyeur
-description: Chaque nuit*, vous apprenez quel rôle est mort par **exécution** aujourd’hui.
+description: Chaque nuit*, vous apprenez quel rôle est mort par exécution dans la journée.
 image: /images/Icon_undertaker.png
 ---
 
@@ -50,9 +50,10 @@ image: /images/Icon_undertaker.png
   </li>
 </ul>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
-« "Hmmm… voyons voir ? La botte gauche est usée jusqu’au talon, avec des éclats de silex sous la semelle. 
-  C’est l’équipement d’un militaire." »
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Alors, qu’est-ce qu’on a aujourd’hui ?<br>  
+Usure importante au talon de la botte gauche, des restes de pierre à fusil sous la langue...<br> 
+Un militaire, sans aucun doute. »
 </p>   
 
 
@@ -81,39 +82,37 @@ image: /images/Icon_undertaker.png
 
 ##  <span style="color:blue;">Résumé</span>    
 
-<strong>« Chaque nuit*, vous apprenez quel rôle est mort par **exécution** aujourd’hui. »</strong>
+<strong>« Chaque nuit*, vous apprenez quel rôle est mort par exécution dans la journée. »</strong>
+
+**LE FOSSOYEUR** apprend le rôle du joueur qui a été exécuté dans la journée.
+
+- Ce joueur doit avoir été tué par exécution pour que le Fossoyeur apprenne qui il était. 
+   - Les morts causées lors de la journée par d’autres effets (par exemple :
+     une victime du [<span style="color:#9b59b6;">Franc-tireur</span>](../voyageurs/gunslinger.md) ou l’exil d’un Voyageur) ne comptent pas.
+     
+- Le Fossoyeur se réveille chaque nuit, sauf la première, car il n’y a pas encore eu d’exécution à ce moment-là.
+
+- Si personne n’est mort dans la journée, le Fossoyeur n’apprend rien. 
+  - Dans ce cas, le Conteur ne le réveille pas, ou le réveille sans lui montrer de jeton.
+  
+- Si l’[Ivrogne](ivrogne.md) est exécuté, le Conteur montre le jeton d'[Ivrogne](ivrogne.md) au Fossoyeur, et non le jeton du rôle du Villageois que l’[Ivrogne](ivrogne.md) pensait être.
 
 Le Fossoyeur apprend quel rôle a été exécuté aujourd'hui.
-
-- Le joueur doit être mort lors d'une exécution pour que le Fossoyeur puisse l'identifier. 
-Les morts survenant en journée pour d'autres raisons, comme le choix d'un joueur par le [<span style="color:#9b59b6;">Franc-tireur</span>](../voyageurs/gunslinger.md) ou l'exil d'un *Voyageur* , ne sont pas pris en compte.
-
-- Le Fossoyeur se réveille chaque nuit sauf la première, car il n'y a encore eu aucune exécution.
-Si personne n'est mort aujourd'hui, leFossoyeur n'apprend rien. 
-Le Conteur, soit ne réveille pas le Fossoyeur la nuit, soit le réveille sans lui montrer de jeton.
-Si l’[Ivrogne](ivrogne.md) est exécuté, le Fossoyeur voit le jeton de rôle de l’[Ivrogne](ivrogne.md), 
-et non le jeton du Villageois que le joueur Ivrogne pensait être.
 
 
 ---
 
 ##  <span style="color:blue;">Comment Conter</span> 
 
-- Si un joueur meurt par exécution, placez le jeton de rappel « EXÉCUTÉ AUJOURD'HUI » du Fossoyeur à côté du jeton du rôle du joueur mort.
+- Si un joueur meurt par exécution, placez le jeton de rappel **« EXÉCUTÉ AUJOURD'HUI »** du Fossoyeur à côté du jeton du rôle du joueur mort.
 
 - Chaque nuit, sauf la première, si un joueur est mort par exécution aujourd'hui, réveillez le Fossoyeur. 
   - Montrez-lui le jeton de rôle marqué « EXÉCUTÉ AUJOURD'HUI » . 
   - Endormez le Fossoyeur. 
   - Retirez son jeton de rappel quand vous le souhaitez.
 
-- Dans **Trouble Brewing**, il ne peut y avoir qu'une seule exécution par jour, et chaque exécution entraîne la mort d'un joueur. 
-
-- Dans d’autres éditions, il peut y avoir plusieurs exécutions par jour. 
- - Dans ce cas, le Conteur choisit quel rôle est montré au Fossoyeur.
- - De même, si une exécution n’entraîne pas de mort, le Fossoyeur n’apprend rien.
-
-- Dans *Trouble Brewing*, une seule exécution par jour est possible. 
-Dans d’autres éditions, il peut y en avoir plusieurs (le Conteur choisit alors quel rôle montrer).  
+- Dans **TROUBLE BREWING**, il ne peut y avoir qu’une seule exécution par jour et chaque exécution provoque la mort d’un joueur.
+  Dans d'autres modules, il peut y avoir plus d'une exécution par jour (auquel cas le Conteur choisit quel rôle montrer au Fossoyeur)<br>  et il est possible de ne pas mourir d’une exécution (auquel cas le Fossoyeur n'apprend rien).
 
 ---
 
