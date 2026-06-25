@@ -51,12 +51,14 @@ image: /images/Icon_monk.png
   </li>
 </ul>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
 « C’est un vent mauvais qui souffle sur le village ce soir.<br>  
 Viens trouver refuge à l’abbaye, mon frère.<br>  
 Le Mal ne viendra pas t’y trouver, je m’en porte garant. »
 </p> 
  
+---
+
 
 ##  Apparaît dans  
 
@@ -86,25 +88,27 @@ Le Mal ne viendra pas t’y trouver, je m’en porte garant. »
 
  <strong>« Chaque nuit*, choisissez un joueur (sauf vous-même) : il est protégé du Démon cette nuit. »</strong>
 
-- Le moine protège les autres joueurs du démon.
+**LE MOINE** protège les autres joueurs du Démon.
 
-- Chaque nuit, sauf la première, le moine peut choisir de protéger n'importe quel joueur sauf lui-même.
+- Chaque nuit, sauf la première, le Moine peut choisir de protéger n’importe quel joueur, sauf lui-même.
 
-- Si le Démon attaque un joueur protégé par le Moine, ce joueur ne meurt pas.<br> Le Démon ne peut pas attaquer un autre joueur ; il n'y a tout simplement pas de mort cette nuit.
+- Si le Démon attaque un joueur protégé par le Moine, ce joueur ne meurt pas. 
+  - Le Démon ne peut pas choisir un autre joueur.
+  - Il n’y a pas de mort cette nuit-là.
 
-- Le moine ne protège pas contre le démon qui nomme et exécute quelqu'un.
+- La capacité du Moine ne protège pas de l’accusation d’un Démon, ni de l’éventuelle exécution qu’elle entraîne.
 
 ---
 
 ##  <span style="color:blue">Comment Conter</span>
 
-- Chaque nuit, sauf la première, réveillez le Moine. Le Moine désigne n'importe quel joueur, sauf lui-même. <br>(Si le Moine se désigne lui-même, faites non de la tête et faites-lui comprendre qu'il doit désigner un autre joueur.) Le Moine se rendort. Placez le jeton **PROTÉGÉ** du Moine à côté du jeton de rôle du joueur choisi.
+- Chaque nuit, sauf la première, réveillez le Moine. Le Moine désigne n'importe quel joueur, sauf lui-même. <br>(Si le Moine se désigne lui-même, faites non de la tête et faites-lui comprendre qu'il doit désigner un autre joueur.) Le Moine se rendort. Placez le jeton **EN SÉCURITÉ,** du Moine à côté du jeton de rôle du joueur choisi.
 
-- Si le Démon attaque le joueur **PROTÉGÉ**, le joueur reste en vie. (Ne le marquez pas du jeton **MORT** du Démon et n’ajoutez pas de linceul.) <br>À l'aube, annoncez que personne n'est mort pendant la nuit. (Ne dites pas pourquoi.)
+- Si le Démon attaque le joueur **EN SÉCURITÉ,**, le joueur reste en vie. (Ne le marquez pas du jeton **MORT** du Démon et n’ajoutez pas de linceul.) <br>À l'aube, annoncez que personne n'est mort pendant la nuit. (Ne dites pas pourquoi.)
 
-- À l'aube, retirez le jeton **PROTÉGÉ**.
+- À l'aube, retirez le jeton **EN SÉCURITÉ,**.
 
-*- Dans d'autres modules, les Démons peuvent avoir d'autres capacités que celle de tuer.<br>La protection du Moine empêche également tous les autres effets néfastes de la capacité du Démon, tels que l'empoisonnement ou la conversion en joueur maléfique.*
+* - Dans d'autres modules, les Démons peuvent avoir d'autres capacités que celle de tuer.<br>La protection du Moine empêche également tous les autres effets néfastes de la capacité du Démon, tels que l'empoisonnement ou la conversion en joueur maléfique.*
 
 ---
 
