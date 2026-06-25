@@ -36,12 +36,12 @@ image: /images/Icon_washerwoman.png
        rel="noopener noreferrer"
        style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Washerwoman</a>
   </li>
-
-  <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  <li>  « Il y a des taches de sang sur cette veste !<br> 
-         Ou alors, c’est de la sauce. C’est encore pire ! ».</li>
-  </p>  
 </ul>
+
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+  « Il y a des taches de sang sur cette veste !<br> 
+  Ou alors, c’est de la sauce. C’est encore pire ! ».
+</p>
 
 <hr>
 
@@ -74,7 +74,7 @@ image: /images/Icon_washerwoman.png
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  LA <span style="color:#6fa8ff; font-weight:bold;">LAVANDIÈRE</span> apprend qu’un certain rôle
+   <strong>LA LAVANDIÈRE</strong> apprend qu’un certain rôle
   <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>
   est en jeu, mais ne sait pas <strong>pas qui l'incarne</strong>.
 </p>
@@ -102,7 +102,6 @@ image: /images/Icon_washerwoman.png
     <ul style="margin-top:6px;">
      <li>réveillez la Lavandière et désignez les deux joueurs marqués <strong>FAUSSE PISTE</strong> et <strong>VILLAGEOIS</strong>.</li>
       <li>Montrez à la Lavandière le jeton de rôle associé au jeton <strong>VILLAGEOIS</strong>.</li>
-      </li>
      <li> La Lavandière se rendort. Retirez les jetons de la Lavandière quand vous le souhaitez.</li>
     </ul>
   </li>
@@ -152,13 +151,13 @@ image: /images/Icon_washerwoman.png
   <li>La Lavandière est <strong>puissante en discrétion</strong> : elle ne désigne pas les maléfiques, mais peut confirmer l’identité d’un joueur bon.</li>
   <li>Si vous êtes
     <a href="./ivrogne.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Ivrogne</a>
-    ou empoisonné ou empoisonnée, vos infos seront souvent fausses. Comparez-les aux déclarations des joueurs et des joueuses.</li>
+    ou empoisonné vos infos seront souvent fausses. Comparez-les aux déclarations des joueurs</li>
   
   <li>Parmi les deux joueurs désignés, l’un <strong>est</strong> bien le rôle vu. Donc vous savez aussi que ce joueur <strong>n’est pas</strong> l’
     <a href="./ivrogne.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Ivrogne</a>.
   </li>
   <li>Révéler vos infos dès le premier jour peut donner un <strong>très bon départ</strong> à l’équipe du Bien.</li>
-  <li>Garder l’info secrète jusqu’à la fin peut réduire les suspects à <strong>1 sur 2</strong> au lieu de 1 sur 3.</li>
+  <li>Garder l’info secrète jusqu’à la fin peut réduire les suspects potentiels.</li>
   <li>Formez une alliance discrète avec le
     <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>
     que vous avez identifié. Ensemble, vous pourrez vous défendre si l’un de vous est accusé.
@@ -195,7 +194,7 @@ image: /images/Icon_washerwoman.png
   <li>Si un joueur bon affirme être ce rôle, vous pouvez « confirmer » son identité et ainsi le tromper.</li>
   <li>Vous pouvez annoncer un rôle inexistant et, si c’est faux, dire que vous êtes
     <a href="./ivrogne.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Ivrogne</a>
-    ou empoisonné ou empoisonnée.
+    ou empoisonné.
   </li>
   <li>En tant qu’
     <a href="./espion.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Espionne</a>
@@ -213,3 +212,4 @@ image: /images/Icon_washerwoman.png
   <li> <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
   <li> <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a></li>
 </ul>
+
