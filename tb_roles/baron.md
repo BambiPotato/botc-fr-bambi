@@ -121,7 +121,7 @@ Ces jetons (avec ces remplacements) vont dans le sac pour être tirés par les j
  - le Conteur décide de mettre un [**Ivrogne**](../tb_roles/ivrogne.md) et une [**Recluse**](../tb_roles/reclus.md). 
   Le Conteur retire par exemple le [**Moine**](../tb_roles/moine.md) et ajoute la Recluse. 
 - Pour l’Ivrogne, on n’ajoute pas le jeton de rôle **IVROGNE** dans le sac : 
- - on place le jeton de rappel **“Est l’Ivrogne”** à côté d'un jeton de n'importe quel rôle d'un Villageois dans le Grimoire *(un Villageois est secrètement un Marginal)*.  
+  on place le jeton de rappel **“Est l’Ivrogne”** à côté d'un jeton de n'importe quel rôle d'un Villageois dans le Grimoire *(un Villageois est secrètement un Marginal)*.  
 
 ---
 
