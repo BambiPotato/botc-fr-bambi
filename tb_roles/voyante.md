@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Voyante"
-description: "Chaque nuit, choisissez 2 joueurs : vous apprenez si l’un d’eux est le Démon. Un joueur bon apparaît comme un Démon pour vous."
+description: "Chaque nuit, choisissez 2 joueurs et apprenez si un Démon est parmi eux. Un des joueurs bons vous apparaît comme un Démon."
 image: "/images/Icon_fortuneteller.png"
 ---
 
@@ -53,12 +53,11 @@ image: "/images/Icon_fortuneteller.png"
   </li>
 </ul>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
 « Votre âme est habitée par le Mal !<br> 
   Ou alors, c’est juste votre parfum.<br> 
   Je suis allergique à la cerise. »<br>
 </p> 
-
 
 ---
 
@@ -88,7 +87,7 @@ image: "/images/Icon_fortuneteller.png"
 
 ##  <span style="color:blue">Résumé</span>  
 
-**« Chaque nuit, choisissez 2 joueurs : vous apprenez si l’un d’eux est le Démon.** **Un joueur bon apparaît comme un Démon pour vous.»**  
+**« Chaque nuit, choisissez 2 joueurs et apprenez si un Démon est parmi eux. Un des joueurs bons vous apparaît comme un Démon.»**  
 
 **LA VOYANTE** peut détecter qui est le  [<span style="color:red">Démon</span>](../demons.md), mais peut être amenée à croire que des joueurs bons sont des Démons.
 
@@ -152,11 +151,11 @@ et qu’un « oui » ne constitue pas une confirmation certaine de la présence 
 
 - Vous pouvez vous choisir vous-même comme l’un des deux joueurs. 
   - Puisque vous savez que vous n’êtes pas le Démon, cela vous permet d’obtenir une information ciblée sur un joueur précis. 
-  - Attention toutefois : le Conteur peut faire en sorte que vous soyez votre propre faux positif, ce qui rend cette méthode parfois inefficace.
-  Faites attention à la [Recluse](reclus.md), qui peut apparaître comme le Démon à vos yeux. Cela n’est pas la même chose que le **LEURRE** qui est votre Faux-Positif.
+  - Attention toutefois : le Conteur peut faire en sorte que vous soyez votre propre faux positif, ce qui rend cette méthode parfois inefficace.<br>Faites attention à la [Recluse](reclus.md), qui peut apparaître comme le Démon à vos yeux. Cela n’est pas la même chose que le **LEURRE** qui est votre *Faux-Positif*.
   
 
-- Prétendre être un rôle que le Démon n’a généralement aucun intérêt à tuer, comme le [Saint](saint.md), le [Soldat](soldat.md) ou<br> la [Corneille](gardien.md), peut vous aider à survivre plus longtemps, et ainsi vous laisser le temps nécessaire pour recueillir des informations réellement utiles.
+- Prétendre être un rôle que le Démon n’a généralement aucun intérêt à tuer, comme le [Saint](saint.md), le [Soldat](soldat.md) ou<br> la [Corneille](gardien.md), peut vous aider à survivre plus longtemps,
+  et ainsi vous laisser le temps nécessaire pour recueillir des informations réellement utiles.
 
 ---
 
