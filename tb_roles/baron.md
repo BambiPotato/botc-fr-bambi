@@ -91,8 +91,7 @@ Rien de tel que la vertu du labeur pour se remettre dans le droit chemin.<br>
 **LE BARON** modifie le nombre de Marginaux présents dans la partie.  
 
 - Ce changement intervient lors de la **mise en place** et est irréversible même quand le **Baron** meurt.  
-
-- Toute modification apportée aux rôles lors de la mise en place, indépendamment du déroulement de la partie est indiquée entre crochets à la fin de la description du rôle sur sa fiche et sur les jetons,<br> comme ceci **[ceci]** : exemple : `[+2  Marginaux]` 
+- Toute modification apportée aux rôles lors de la mise en place, indépendamment du déroulement de la partie est indiquée entre crochets à la fin de la description du rôle sur sa fiche et sur les jetons,<br>comme ceci **[ceci]** : exemple : `[+2  Marginaux]` 
 
 - Les Marginaux ajoutés **remplacent toujours des Villageois**, jamais un autre type.
 
