@@ -80,7 +80,7 @@ image: /images/Icon_washerwoman.png
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li>Lors de la première nuit, le Coneteur réveille la Lavandière,</li>
+  <li>Lors de la première nuit, le Conteur réveille la Lavandière,</li>
   <li>et deux joueurs et un rôle de Villageois, qui appartient à l’un des deux.</li>
   <li>Elle reçoit cette information une seule fois, et n’apprend rien d’autre.</li>
 </ul>
@@ -102,7 +102,6 @@ image: /images/Icon_washerwoman.png
     <ul style="margin-top:6px;">
      <li>réveillez la Lavandière et désignez les deux joueurs marqués <strong>FAUSSE PISTE</strong> et <strong>VILLAGEOIS</strong>.</li>
       <li>Montrez à la Lavandière le jeton de rôle associé au jeton <strong>VILLAGEOIS</strong>.</li>
-        <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>.
       </li>
      <li> La Lavandière se rendort. Retirez les jetons de la Lavandière quand vous le souhaitez.</li>
     </ul>
