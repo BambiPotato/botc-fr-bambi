@@ -191,7 +191,7 @@ image: /images/Icon_washerwoman.png
     <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a> vu.
   </li>
   <li>Si un joueur bon affirme être ce rôle, vous pouvez « confirmer » son identité et ainsi le tromper.</li>
-  <li>Vous pouvez annoncer un rôle inexistant et, si c’est faux, dire que vous êtes
+  <li>Vous pouvez annoncer un rôle inexistant et, si c’est faux, dire que vous êtes l'
     <a href="./ivrogne.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Ivrogne</a>
     ou empoisonné.
   </li>
