@@ -52,7 +52,7 @@ image: /images/Icon_virgin.png
   </li>
 </ul>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
 « Je suis pure. Vous qui êtes si droits, jetez-vous à terre et souffrez à ma place. <br> 
   Ma réputation ne saurait être entachée par le venin de vos accusations. »
 </p> 
@@ -92,24 +92,31 @@ image: /images/Icon_virgin.png
 
 **« La première fois qu’un joueur vous nomme, il est exécuté immédiatement s’il s’agit d’un Villageois.»**
 
-L'Immaculée peut, malgré elle, provoquer l’exécution de son accusateur, ce qui permet de confirmer quels joueurs sont des Villageois.  
+**L’IMMACULÉE** est à l’abri des exécutions... mais pas toujours.
+**Nommer une Immaculée conduit en général à l’échafaud.**
 
-- Si un Villageois nomme l'Immaculée, ce Villageois est immédiatement exécuté. Comme il ne peut y avoir qu’une seule exécution par jour, le processus de nomination prend fin aussitôt, même si une autre personne devait mourir.  
-- Si un Marginal, un Sbire ou un Démon nomine l'Immaculée, rien ne se passe et le vote continue normalement.  
-- Après avoir été nommmée une première fois, l'Immaculée **perd sa capacité**, même si le nominateur n’est pas mort ou si l'Immaculée était l’Ivrogne ou empoisonnée.  
+- Si un Villageois nomme l’Immaculée, alors ce Villageois est immédiatement exécuté. 
+Comme il ne peut y avoir qu’une seule exécution par jour, ne poursuivez l’étape de nomination, même si un joueur était sur le point de mourir.
+
+- La capacité de l’Immaculée ne peut exécuter que les Villageois.
+Si un Marginal, un Sbire ou un Démon nomme l’Immaculée, l’étape de nomination se poursuit normalement, sans interruption.
+La capacité de l’Immaculée est puissante car si un Villageois la nomme et meurt, vous pouvez être quasi certain que les deux sont des Villageois.
+
+- Après avoir été nommée une première fois, l’Immaculée perd sa capacité, même si le joueur qui l’a nommée n’est pas mort, et même si l’Immaculée était empoisonnée ou ivre.
+
 
 ---
 
+
 ##  <span style="color:blue">Comment Conter</span>  
 
-- Si le premier joueur à nommer l'Immaculée est un Villageois :  
-  → Déclarez immédiatement que ce joueur est exécuté. Placez un Linceuil de mort sur son jeton.  
-  → L'Immaculée perd sa capacité (placez son jeton de rappel **SANS CAPACITÉ**).  
-  → Fin de la journée, passez directement à la nuit.  
+- Si le premier joueur à nommer l’Immaculée est un Villageois, déclarez immédiatement que ce joueur est exécuté. 
+  - Ce joueur meurt — placez un linceul sur son jeton de rôle dans le Grimoire.
+  - L’Immaculée perd sa capacité — placez le jeton **SANS CAPACITÉ** de l’Immaculée à côté de son jeton de rôle. 
+  - L’étape de nomination est terminée. Passez à la phase de nuit. (Personne d'autre ne peut être exécuté aujourd'hui.)
 
-- Si le premier joueur à nommer l'Immaculée n’est pas un Villageois :  
-  → Continuez le vote normalement.  
-  → L'Immaculée perd sa capacité (mettez le jeton de rappel **SANS CAPACITÉ**).  
+- Si le premier joueur à avoir désigné l'Immaculée n'est pas un Villageois, poursuivez le vote normalement.
+  - L’Immaculée perd sa capacité — placez le jeton **SANS CAPACITÉ** de l’Immaculée à côté de son jeton de rôle. 
 
 ---
 
@@ -137,7 +144,7 @@ L'Immaculée peut, malgré elle, provoquer l’exécution de son accusateur, ce 
   - Le nominateur est un Marginal.  
   - Vous êtes l’[Ivrogne](ivrogne.md) ou empoisonnée.  
 
-⚠️ Attention à l’[<span style="color:red">Espionne</span>](espion.md)  : c’est le seul rôle maléfique pouvant activer votre capacité puisqu’elle s’enregistre comme Villageois.  
+⚠️ Attention à l’[<span style="color:red">Espionne</span>](espion.md)  : c’est le seul rôle **Maléfique** pouvant activer votre capacité puisqu’elle s’enregistre comme Villageois.  
 
 ---
 
