@@ -80,8 +80,7 @@ image: /images/Icon_washerwoman.png
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li>Lors de la première nuit, le Conteur réveille la Lavandière,</li>
-  <li>et deux joueurs et un rôle de Villageois, qui appartient à l’un des deux.</li>
+  <li>Lors de la première nuit, le Conteur réveille la Lavandière et lui montre deux joueurs<br> et un rôle de Villageois, qui appartient à l’un des deux.</li>
   <li>Elle reçoit cette information une seule fois, et n’apprend rien d’autre.</li>
 </ul>
 
