@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Baron
-description: Il y a des Marginaux supplémentaires en jeu.
+description: "Il y a des Marginaux supplémentaires en jeu. [+2  Marginaux]" 
 image: /images/Icon_baron.png
 ---
 
@@ -50,12 +50,14 @@ image: /images/Icon_baron.png
   </li>
 </ul>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
-« Cette ville est tombée bien bas, pas vrai ? Main-d'œuvre étrangère bon marché… voilà la clé.
-Fourrez-les dans la mine, je dis. Un peu de travail dur n'a jamais fait de mal à personne,
-et une claque derrière les oreilles à tout brigand qui prétend le contraire.
-Tout est une question de profit, pas vrai ? »
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Tout va à vau-l’eau dans ce village.<br>  
+Un peu de main-d’œuvre bon marché lui fera le plus grand bien.<br> 
+Tout le monde à la mine, voilà ce que je dis.<br> 
+Rien de tel que la vertu du labeur pour se remettre dans le droit chemin.<br> 
+Ça n’a jamais tué personne, non ? »
 </p>
+
 
 ---
 
@@ -85,13 +87,12 @@ Tout est une question de profit, pas vrai ? »
 
 **« Il y a des Marginaux supplémentaires en jeu. [+2  Marginaux] »**
 
-Le Baron modifie le nombre de Marginaux présents dans la partie.  
+**LE BARON** modifie le nombre de Marginaux présents dans la partie.  
 
-- Ce changement intervient lors de la **mise en place** et est irréversible même quand le Baron mort.  
-- Toute modification apportée aux rôles lors de la mise en place, indépendamment du déroulement de la partie, 
-  est indiquée entre crochets à la fin de la description du rôle sur sa fiche et sur les jetons, comme ceci :**[ceci]** :
-  Exemple : `[+2  Marginaux]`.  
-- Les Étrangers ajoutés **remplacent toujours des Villageois**, jamais un autre type.
+- Ce changement intervient lors de la **mise en place** et est irréversible même quand le **Baron** meurt.  
+- Toute modification apportée aux rôles lors de la mise en place, indépendamment du déroulement de la partie est indiquée entre crochets à la fin de la description du rôle sur sa fiche et sur les jetons,
+  comme ceci :**[ceci]** : Exemple : `[+2  Marginaux]`.  
+- Les Marginaux ajoutés **remplacent toujours des Villageois**, jamais un autre type.
 
 
 ---
@@ -113,7 +114,9 @@ Ces jetons (avec ces remplacements) vont dans le sac pour être tirés par les j
 - Le conteur décide de mettre Baron en jeu, le Conteur retire 2 Villageois et ajoute, par exemple, un [**Saint**](../tb_roles/saint.md) et un [**Majordome**](../tb_roles/majordome.md). 
 - La compisation finale aura donc 3 Villageois, 2 Marginaux, 1 Sbire, 1 Démon.  
 
-- Une partie à **15 joueurs** (9 Villageois, 2  Marginaux, 3 Sbires, 1 Démon). Le Baron est en jeu : Le Conteur décide de mettre un [**Ivrogne**](../tb_roles/ivrogne.md) et une [**Recluse**](../tb_roles/reclus.md). Le Conteur retire par exemple le [**Moine**](../tb_roles/moine.md) et ajoute la Recluse. Pour l’Ivrogne, on n’ajoute pas le jeton de rôle dans sac : on place le jeton de rappel “Est l’Ivrogne” dans le Grimoire (un Villageois est secrètement un Marginal).  
+- Une partie à **15 joueurs** (9 Villageois, 2  Marginaux, 3 Sbires, 1 Démon). Le Baron est en jeu : Le Conteur décide de mettre un [**Ivrogne**](../tb_roles/ivrogne.md) et une [**Recluse**](../tb_roles/reclus.md). Le Conteur retire par exemple le [**Moine**](../tb_roles/moine.md) et ajoute la Recluse. 
+- Pour l’Ivrogne, on n’ajoute pas le jeton de rôle **IVROGNE** dans sac : 
+ - on place le jeton de rappel **“Est l’Ivrogne”** à côté d'un jeton de rôle d'un Villageois dans le Grimoire (un Villageois est secrètement un Marginal).  
 
 ---
 
@@ -121,7 +124,8 @@ Ces jetons (avec ces remplacements) vont dans le sac pour être tirés par les j
 
 - Votre pouvoir agit **avant même que la partie commence**, ensuite : amusez-vous à **bluffer** et semer la confusion pour aider votre Démon.  
 - Revendiquez être **Marginal** : si le nombre de Marginaux paraît trop élevé, la ville pensera à un Baron et vous pourrez passer pour un véritable Marginal.  
-- **Bluffez** un rôle déjà revendiqué (exemple : [**Voyante**](../tb_roles/voyante.md), [**Fossoyeur**](../tb_roles/croquemort.md), [**Maire**](../tb_roles/maire.md)) afin de **dégrader la confiance** dans ses infos.  
+- **Bluffez** un rôle déjà revendiqué (exemple : [**Voyante**](../tb_roles/voyante.md), [**Fossoyeur**](../tb_roles/croquemort.md), [**Maire**](../tb_roles/maire.md)) afin de **dégrader la confiance** dans ses infos.
+  
 - Faire croire qu’un **Baron** est en jeu alors qu’il n’y en a pas peut forcer le Village à douter de ses infos (on soupçonnera un [**Ivrogne**](../tb_roles/ivrogne.md)).  
 - Acceptez d’être le **bouc émissaire** : mourir à la place du Démon (ou attirer une [**Pourfendeuse**](../tb_roles/mercenaire.md) / [**Corneille**](../tb_roles/gardien.md)) protège l’équipe maléfique.  
 - Si vous ne bluffez pas un Marginal **chargez** les vrais Marginaux : le Village pourrait les exécuter.  
@@ -140,7 +144,8 @@ Ces jetons (avec ces remplacements) vont dans le sac pour être tirés par les j
     les prétendus Marginaux peuvent être des Maléfiques qui bluffent un rôle de Marginal. 
   - Si le compte n’est “pas tout à fait juste”, cherchez l’[**Ivrogne**](../tb_roles/ivrogne.md).  
 - Des rôles comme [**Archiviste**](../tb_roles/bibliothecaire.md), [**Détective**](../tb_roles/enqueteur.md), [**Fossoyeur**](../tb_roles/croquemort.md) ou [**Corneille**](../tb_roles/gardien.md) aident à **déduire** la présence d’un Baron.  
-- Contrairement à d’autres Sbires, l’effet du Baron est **visible dès la mise en place**. Il n’est pas toujours nécessaire de l’exécuter si vous avez une meilleure cible, exemple : le [<span style="color:red">Diablotin</span>](../tb_roles/imp.md)  ou l' [<span style="color:red">Empoisonneur</span>](../tb_roles/empoisonneur.md)  .  
+- Contrairement à d’autres Sbires, l’effet du Baron est **visible dès la mise en place**. 
+Il n’est pas toujours nécessaire de l’exécuter si vous avez une meilleure cible, exemple : le [<span style="color:red">Diablotin</span>](../tb_roles/imp.md)  ou l' [<span style="color:red">Empoisonneur</span>](../tb_roles/empoisonneur.md)  .  
 - Attention : le [<span style="color:red">Diablotin</span>](../tb_roles/imp.md) peut **transmettre** sa démonialité au [<span style="color:red">Baron</span>](../tb_roles/baron.md) ; l’ignorer trop longtemps peut le transformer en Démon en fin de partie.
 
 ---
