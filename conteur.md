@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Conseils pour les Conteuses et les Conteurs
+title: Conseils pour les Conteurs
 description: Votre rôle est de faire tourner la partie sans accroc, tout en gardant la fluidité et la magie du jeu.
 image: /images/logogold.png
 ---
@@ -20,15 +20,15 @@ image: /images/logogold.png
 </style>
 
 <!-- ========================= -->
-<!-- Rôle du Conteur et de la Conteuse -->
+<!-- Rôle du Conteur -->
 <!-- ========================= -->
 
 <h1 style="font-size:36px; font-weight:bold;">
-   <span style="color:#d4a76a;">Rôle du Conteur et de la Conteuse</span>
+   <span style="color:#d4a76a;">Rôle du Conteur</span>
 </h1>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Celle ou celui qui tisse les fils du destin, et veille à ce que chaque partie reste magique. »
+  « Celui qui tisse les fils du destin, et veille à ce que chaque partie reste magique. »
 </p>
 
 <hr class="section">
@@ -51,7 +51,7 @@ image: /images/logogold.png
 <h2 id="section-1">1. Faire fonctionner les choses en douceur</h2>
 
 <p>
-  En tant que <span style="color:#d4a76a; font-weight:bold;">Conteur ou Conteuse</span>, votre rôle est de faire tourner la partie sans accroc, tout en gardant la fluidité et la magie du jeu.
+  En tant que <span style="color:#d4a76a; font-weight:bold;">Conteur</span>, votre rôle est de faire tourner la partie sans accroc, tout en gardant la fluidité et la magie du jeu.
   Votre objectif n’est pas seulement de faire respecter les règles, mais aussi de vous assurer que chaque joueur et chaque joueuse vit une expérience mémorable, cohérente et amusante.
 </p>
 
@@ -66,7 +66,7 @@ image: /images/logogold.png
   <br>Mais attention : si un <a href="./tb_roles/moine.html" style="color:blue;">Moine</a> ou un <a href="./tb_roles/soldat.html" style="color:blue;">Soldat</a> est encore en vie, le <span style="color:red;">Démon</span> pourrait échouer à tuer cette nuit-là, entraînant une journée supplémentaire.
 </p>
 <p>
-  Utilisez votre <strong>jugement de Conteur ou Conteuse</strong> : si une possibilité de retournement existe, même infime, laissez la partie continuer.
+  Utilisez votre <strong>jugement de Conteur</strong> : si une possibilité de retournement existe, même infime, laissez la partie continuer.
 </p>
 
 <h3>Confirmer les choix des joueurs et des joueuses</h3>
@@ -86,8 +86,8 @@ image: /images/logogold.png
 
 <h3>Manipuler les jetons du Grimoire</h3>
 <p>
-  Vous devriez souvent déplacer des jetons (par exemple quand un 
-  <a href="./tb_roles/mercenaire.html" style="color:blue;">Mercenaire</a> ou un 
+  Vous devriez souvent déplacer des jetons (par exemple quand une 
+  <a href="./tb_roles/mercenaire.html" style="color:blue;">Pourfendeuse</a> ou un 
   <a href="./sv_roles/jongleur.html" style="color:blue;">Jongleur</a> agit).
   Quand une personne <span style="color:red;">maléfique</span> bluffe en prétendant être l’un ou l’une d’entre eux, 
   <strong>faites semblant</strong> de manipuler les mêmes jetons. Ainsi, même les personnes expertes ne pourront pas déceler un bluff à vos gestes.
@@ -137,7 +137,7 @@ image: /images/logogold.png
 
 <h3>Prenez votre temps</h3>
 <p>
-  Un bon Conteur ou une bonne Conteuse n’est <strong>jamais pressé</strong>. 
+  Un bon Conteur n’est <strong>jamais pressé</strong>. 
   Pendant la nuit, respirez, vérifiez l’ordre d’action, et ralentissez si nécessaire.
 </p>
 
@@ -148,7 +148,7 @@ image: /images/logogold.png
   <br>Exemples :
 </p>
 <blockquote>
-  ❌ « <a href="./tb_roles/empathique.html" style="color:blue; text-decoration:none;">L’Empathique</a> voulait savoir… »<br>
+  ❌ « <a href="./tb_roles/empathique.html" style="color:blue; text-decoration:none;">L’Empath</a> voulait savoir… »<br>
   ✅ « Cédric voulait savoir… »
 </blockquote>
 
@@ -187,7 +187,7 @@ image: /images/logogold.png
 <h2 id="section-2">2. Rendre le jeu amusant</h2>
 
 <p>
-  Votre rôle ne s’arrête pas à faire fonctionner le jeu : vous êtes aussi la ou le <strong>metteur en scène</strong>. 
+  Votre rôle ne s’arrête pas à faire fonctionner le jeu : vous êtes aussi le <strong>metteur en scène</strong>. 
   À vous le rythme, l’ambiance et les émotions.
 </p>
 
@@ -262,7 +262,7 @@ image: /images/logogold.png
 </p>
 <ul>
   <li>Si le <span style="color:red;">Mal</span> écrase : glissez parfois une vraie info à un <a href="./tb_roles/ivrogne.html" style="color:blue;">Ivrogne</a>, 
-      ou rendez visible qu’un <a href="./tb_roles/espion.html" style="color:red;">Espion</a> exécuté était bien ce rôle.</li>
+      ou rendez visible qu’un <a href="./tb_roles/espion.html" style="color:red;">Espionne</a> exécuté était bien ce rôle.</li>
   <li>Si le <span style="color:blue;">Bien</span> domine : brouillez un peu (fausses pistes pour une 
       <a href="./tb_roles/voyante.html" style="color:blue;">Voyante</a> ou un 
       <a href="./sv_roles/savant.html" style="color:blue;">Savant</a>).</li>
@@ -293,7 +293,7 @@ image: /images/logogold.png
   <a href="./bmr_roles/lunatique.html" style="color:blue;">Lunatique</a>).
 </p>
 
-<h3>Le Conteur ou la Conteuse, équilibriste et narrateur ou narratrice</h3>
+<h3>Le Conteur, équilibriste et narrateur</h3>
 <p>
   Vous êtes là pour <strong>amuser, surprendre, équilibrer</strong>.
   Chaque décision doit servir le <strong>plaisir collectif</strong>.
@@ -308,7 +308,7 @@ image: /images/logogold.png
 <h2 id="section-3">3. Le Script</h2>
 
 <p>
-  Créer votre propre <strong>script</strong> est un grand plaisir du rôle de Conteur ou Conteuse.
+  Créer votre propre <strong>script</strong> est un grand plaisir du rôle de Conteur.
   Une fois à l’aise avec
   <a href="./trouble_brewing.html" style="color:#b58b52;">Trouble Brewing</a>, 
   <a href="./bmr.html" style="color:#ffa64d;">Bad Moon Rising</a> et 
@@ -319,9 +319,9 @@ image: /images/logogold.png
 <h3>Composer votre script</h3>
 <p>
   Choisissez des rôles qui se complètent bien (par exemple une 
-  <a href="./sv_roles/pithag.html" style="color:red;">Pit-Hag</a>, un 
-  <a href="./tb_roles/saint.html" style="color:blue;">Saint</a>, un 
-  <a href="./sv_roles/jumeaumaléfique.html" style="color:red;">Jumeau Maléfique</a>, un 
+  <a href="./sv_roles/pithag.html" style="color:red;">Guenaude</a>, un 
+  <a href="./tb_roles/saint.html" style="color:blue;">Saint</a>, une 
+  <a href="./sv_roles/jumeaumaléfique.html" style="color:red;">Jumelle Maléfique</a>, un 
   <a href="./bmr_roles/aubergiste.html" style="color:blue;">Aubergiste</a>…), 
   puis utilisez 
   <a href="https://script.bloodontheclocktower.com">l'Outil de Script</a> 
@@ -330,7 +330,7 @@ image: /images/logogold.png
 
 <h3>Comparer et améliorer</h3>
 <p>
-  Échangez avec d’autres Conteurs et Conteuses (site officiel, Discord, Facebook), 
+  Échangez avec d’autres Conteurs (site officiel, Discord, Facebook), 
   commencez petit et élargissez progressivement.
 </p>
 
@@ -342,7 +342,7 @@ image: /images/logogold.png
 
 <h3>Utiliser les Légendaires pour équilibrer</h3>
 <p>
-  Les <a href="./legendaire.html" style="color:#b58b52;">Légendaires</a> aident à ajuster la difficulté (nombre d’Étrangers, désinformation, etc.).
+  Les <a href="./legendaire.html" style="color:#b58b52;">Légendaires</a> aident à ajuster la difficulté (nombre de Marginaux, désinformation, etc.).
 </p>
 
 <h3>Gérer les interactions complexes</h3>
@@ -373,13 +373,13 @@ image: /images/logogold.png
 
 <p>
   Plus il y a de monde autour de la tour, plus les parties sont vivantes. 
-  En tant que Conteur ou Conteuse, vous êtes souvent le moteur de cette dynamique.
+  En tant que Conteur, vous êtes souvent le moteur de cette dynamique.
 </p>
 
 <h3>Créer et entretenir un groupe</h3>
 <p>
   Organisez des rencontres régulières et conviviales (Discord, Facebook, cafés ludiques, chez vous). 
-  Chaque nouvelle personne peut devenir passionnée… ou future Conteuse/Conteur.
+  Chaque nouvelle personne peut devenir passionnée… ou futur Conteur.
 </p>
 
 <h3>Encourager à conter</h3>
@@ -442,7 +442,7 @@ image: /images/logogold.png
 <hr class="section">
 
 <p>
-  Vous venez de parcourir les <strong>conseils essentiels pour les Conteurs et Conteuses</strong>. 
+  Vous venez de parcourir les <strong>conseils essentiels pour les Conteurs</strong>. 
   Que vos parties soient pleines de mystères, de rires et de clochers résonnants.
 </p>
 
