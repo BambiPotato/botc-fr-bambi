@@ -90,8 +90,8 @@ image: /images/Icon_librarian.png
 
 - Lors de la première nuit, le Conteur réveille l’Archiviste et lui montre deux joueurs et un rôle de Marginal, qui appartient l’un des deux.
 Il reçoit cette information une seule fois, et n’apprend rien d’autre.
-⚠️ L’[Ivrogne](ivrogne.md) est un Marginal. 
-Si l’Archiviste apprend que l’un des deux joueurs est l’Ivrogne, il n’apprend pas pour autant le rôle de Villageois que l’Ivrogne pense être.
+
+- ⚠️ L’[Ivrogne](ivrogne.md) est un Marginal. Si l’Archiviste apprend que l’un des deux joueurs est l’Ivrogne,<br> il n’apprend pas pour autant le rôle de Villageois que l’Ivrogne pense être.
 
 ---
 
