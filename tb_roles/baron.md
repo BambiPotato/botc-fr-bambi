@@ -24,6 +24,8 @@ image: /images/Icon_baron.png
   </a>
 </div>
 
+---
+
 
 ##  <span style="color:red">Informations</span>
 
@@ -90,7 +92,7 @@ Rien de tel que la vertu du labeur pour se remettre dans le droit chemin.<br>
 **LE BARON** modifie le nombre de Marginaux présents dans la partie.  
 
 - Ce changement intervient lors de la **mise en place** et est irréversible même quand le **Baron** meurt.  
-- Toute modification apportée aux rôles lors de la mise en place, indépendamment du déroulement de la partie est indiquée entre crochets à la fin de la description du rôle sur sa fiche<br>  
+- Toute modification apportée aux rôles lors de la mise en place, indépendamment du déroulement de la partie est indiquée entre crochets à la fin de la description du rôle sur sa fiche 
 et sur les jetons, comme ceci **[ceci]** : Exemple : `[+2  Marginaux]` 
 - Les Marginaux ajoutés **remplacent toujours des Villageois**, jamais un autre type.
 
@@ -111,8 +113,9 @@ Ces jetons (avec ces remplacements) vont dans le sac pour être tirés par les j
 
 ##  <span style="color:red">Exemples</span>
 - Une partie avec **7 joueurs** la composition de base est :**(5 Villageois, 1 Sbire, 1 Démon)**. 
-- Le conteur décide de mettre Baron en jeu, le Conteur retire 2 Villageois et ajoute, par exemple, un [**Saint**](../tb_roles/saint.md) et un [**Majordome**](../tb_roles/majordome.md). 
-  La composation finale aura donc 3 Villageois, 2 Marginaux, 1 Sbire, 1 Démon.  
+- Le conteur décide de mettre Baron en jeu, le Conteur retire 2 Villageois et ajoute, par exemple,
+  un [**Saint**](../tb_roles/saint.md) et un [**Majordome**](../tb_roles/majordome.md). 
+  La composition finale aura donc 3 Villageois, 2 Marginaux, 1 Sbire, 1 Démon.  
 
 - Une partie à **15 joueurs** (9 Villageois, 2  Marginaux, 3 Sbires, 1 Démon). Le Baron est en jeu : 
  - le Conteur décide de mettre un [**Ivrogne**](../tb_roles/ivrogne.md) et une [**Recluse**](../tb_roles/reclus.md). 
