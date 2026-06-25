@@ -36,7 +36,11 @@ image: /images/Icon_washerwoman.png
        rel="noopener noreferrer"
        style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Washerwoman</a>
   </li>
-  <li>« Des taches de sang sur une veste de dîner ? Non, c’est du vin de cuisine. Quelle étourderie. »</li>
+
+  <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+  <li>  « Il y a des taches de sang sur cette veste !
+         Ou alors, c’est de la sauce. C’est encore pire ! ». »</li>
+  </p>  
 </ul>
 
 <hr>
@@ -70,15 +74,15 @@ image: /images/Icon_washerwoman.png
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  La <span style="color:#6fa8ff; font-weight:bold;">Lavandière</span> apprend qu’un certain rôle
+  LA <span style="color:#6fa8ff; font-weight:bold;">LAVANDIÈRE</span> apprend qu’un certain rôle
   <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>
-  est en jeu, mais <strong>pas qui le joue</strong>.
+  est en jeu, mais ne sait pas <strong>pas qui l'incarne</strong>.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li>Pendant la première nuit, la Lavandière est réveillée.</li>
-  <li>On lui montre deux joueurs et elle apprend le rôle de l’un d’eux.</li>
-  <li>Cela arrive <strong>une seule fois</strong> et elle n’aura plus d’informations ensuite.</li>
+  <li>Lors de la première nuit, le Coneteur réveille la Lavandière,</li>
+  <li>et deux joueurs et un rôle de Villageois, qui appartient à l’un des deux.</li>
+  <li>Elle reçoit cette information une seule fois, et n’apprend rien d’autre.</li>
 </ul>
 
 <hr>
@@ -91,19 +95,19 @@ image: /images/Icon_washerwoman.png
       <li><strong>VILLAGEOIS</strong> de la Lavandière à côté d’un rôle
         <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a> en jeu.
       </li>
-      <li>Placez le jeton de rappel <strong>FAUX</strong> de la Lavandière à côté de n'importe quel autre jeton de rôle.</li>
+      <li>Placez le jeton de rappel <strong>FAUSSE PISTE</strong> de la Lavandière à côté de n'importe quel autre jeton de rôle.</li>
     </ul>
   </li>
-  <li><strong>Durant la première nuit</strong> :
+  <li><strong>Lors de la la première nuit</strong>,
     <ul style="margin-top:6px;">
-      <li>Réveillez la Lavandière.</li>
-      <li>Montrez-lui les deux joueurs marqués <strong>FAUX</strong> et <strong>VILLAGEOIS</strong>  montrez le jeton du rôle
+     <li>réveillez la Lavandière et désignez les deux joueurs marqués <strong>FAUSSE PISTE</strong> et <strong>VILLAGEOIS</strong>.</li>
+      <li>Montrez à la Lavandière le jeton de rôle associé au jeton <strong>VILLAGEOIS</strong>.</li>
         <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>.
       </li>
-      <li>Rendormez la lavandière.</li>
+     <li> La Lavandière se rendort. Retirez les jetons de la Lavandière quand vous le souhaitez.</li>
     </ul>
   </li>
-  <li>Retirez ses jetons de rappel dès que possible pour éviter la confusion ou lorsque cela vous convient.</li>
+  <li>Conseil au Conteur : Retirez ses jetons de rappel dès que possible pour éviter la confusion ou lorsque cela vous convient.</li>
 </ul>
 
 <hr>
@@ -199,7 +203,7 @@ image: /images/Icon_washerwoman.png
     (ou allié d’une
     <a href="./espion.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Espionne</a>), vous savez quels rôles sont vraiment en jeu.
   </li>
-  <li>Bluff risqué : si le rôle que vous citez n’est pas en jeu, votre couverture tombe vite.</li>
+  <li>C'est un bluff risqué : si le rôle que vous donnez n’est pas en jeu, votre couverture tombe vite.</li>
 </ul>
 
 <hr>
