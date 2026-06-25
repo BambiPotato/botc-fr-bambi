@@ -54,8 +54,7 @@ image: /images/Icon_baron.png
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
 « Tout va à vau-l’eau dans ce village.
-Un peu de main-d’œuvre bon marché lui fera le plus grand bien.<br> 
-Tout le monde à la mine, voilà ce que je dis.<br> 
+Un peu de main-d’œuvre bon marché lui fera le plus grand bien.<br>Tout le monde à la mine, voilà ce que je dis.<br> 
 Rien de tel que la vertu du labeur pour se remettre dans le droit chemin.<br> 
 Ça n’a jamais tué personne, non ? »
 </p>
@@ -93,7 +92,7 @@ Rien de tel que la vertu du labeur pour se remettre dans le droit chemin.<br>
 
 - Ce changement intervient lors de la **mise en place** et est irréversible même quand le **Baron** meurt.  
 
-- Toute modification apportée aux rôles lors de la mise en place, indépendamment du déroulement de la partie est indiquée entre crochets à la fin de la description du rôle sur sa fiche<br>et sur les jetons, comme ceci **[ceci]** : exemple : `[+2  Marginaux]` 
+- Toute modification apportée aux rôles lors de la mise en place, indépendamment du déroulement de la partie est indiquée entre crochets à la fin de la description du rôle sur sa fiche et sur les jetons,<br> comme ceci **[ceci]** : exemple : `[+2  Marginaux]` 
 
 - Les Marginaux ajoutés **remplacent toujours des Villageois**, jamais un autre type.
 
