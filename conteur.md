@@ -58,11 +58,11 @@ image: /images/logogold.png
 <h3>Mettre fin à la partie au bon moment</h3>
 <p>
   Vous pouvez déclarer la fin du jeu <strong>dès qu’une victoire est certaine</strong> pour une équipe.
-  Par exemple, si toutes les personnes restantes sont <span style="color:red;">maléfiques</span>, alors le <span style="color:blue;">Bien</span> ne peut plus nominer le <span style="color:red;">Démon</span> : le <span style="color:red;">Mal</span> gagne.
+  Par exemple, si tous les joueurs restants sont <span style="color:red;">Maléfiques</span>, alors le <span style="color:blue;">Bien</span> ne peut plus nominer le <span style="color:red;">Démon</span> : le <span style="color:red;">Mal</span> gagne.
 </p>
 <p>
-  Souvent, lorsqu’il reste <strong>quatre personnes en vie</strong>, et que les bons exécutent quelqu’un qui n’est pas <span style="color:red;">maléfique</span>, vous pouvez <strong>terminer la partie immédiatement</strong>.
-  S’il ne reste plus que trois personnes ensuite, le <span style="color:red;">Démon</span> tuera l’une d’elles pendant la nuit — ce qui rendrait la suite automatique.
+  Souvent, lorsqu’il reste <strong>quatre joueurs en vie</strong>, et que les bons exécutent quelqu’un qui n’est pas <span style="color:red;">Maléfique</span>, vous pouvez <strong>terminer la partie immédiatement</strong>.
+  S’il ne reste plus que trois joueurs ensuite, le <span style="color:red;">Démon</span> tuera l’un d’eux pendant la nuit — ce qui rendrait la suite automatique.
   <br>Mais attention : si un <a href="./tb_roles/moine.html" style="color:blue;">Moine</a> ou un <a href="./tb_roles/soldat.html" style="color:blue;">Soldat</a> est encore en vie, le <span style="color:red;">Démon</span> pourrait échouer à tuer cette nuit-là, entraînant une journée supplémentaire.
 </p>
 <p>
@@ -72,7 +72,7 @@ image: /images/logogold.png
 <h3>Confirmer les choix des joueurs et des joueuses</h3>
 <p>
   Pendant la nuit, lorsque quelqu’un fait un choix, <strong>confirmez-le avec un geste clair</strong> (pointez du doigt vers la cible).
-  Si le geste est ambigu, <strong>déplacez-vous</strong> vers la personne visée, <strong>pointez clairement</strong>, puis attendez un hochement de tête pour valider.
+  Si le geste est ambigu, <strong>déplacez-vous</strong> vers le joueur visé, <strong>pointez clairement</strong>, puis attendez un hochement de tête pour valider.
   Hochez la tête en retour pour confirmer votre compréhension.
   <br> Cette simple habitude évite les malentendus qui peuvent tout gâcher.
 </p>
@@ -89,8 +89,8 @@ image: /images/logogold.png
   Vous devriez souvent déplacer des jetons (par exemple quand une 
   <a href="./tb_roles/mercenaire.html" style="color:blue;">Pourfendeuse</a> ou un 
   <a href="./sv_roles/jongleur.html" style="color:blue;">Jongleur</a> agit).
-  Quand une personne <span style="color:red;">maléfique</span> bluffe en prétendant être l’un ou l’une d’entre eux, 
-  <strong>faites semblant</strong> de manipuler les mêmes jetons. Ainsi, même les personnes expertes ne pourront pas déceler un bluff à vos gestes.
+  Quand un joueur <span style="color:red;">Maléfique</span> bluffe en prétendant être l’un ou l’une d’entre eux, 
+  <strong>faites semblant</strong> de manipuler les mêmes jetons. Ainsi, même les joueurs experts ne pourront pas déceler un bluff à vos gestes.
 </p>
 
 <h3>Réveiller discrètement</h3>
@@ -130,7 +130,7 @@ image: /images/logogold.png
   Deux options :
 </p>
 <ul>
-  <li>Replongez tout le monde “dans le sommeil” et réveillez uniquement la personne concernée,</li>
+  <li>Replongez tout le monde “dans le sommeil” et réveillez uniquement le joueur concerné,</li>
   <li>ou expliquez-lui la résolution au matin.</li>
 </ul>
 <p>Si l’erreur est réparable, faites-le : mieux vaut un petit ajustement qu’une injustice.</p>
@@ -144,7 +144,7 @@ image: /images/logogold.png
 <h3>Répondre aux questions</h3>
 <p>
   Favorisez les réponses <strong>en privé</strong> pour éviter de donner des indices. 
-  En public, <strong>ne citez pas le rôle</strong>, mais la personne. 
+  En public, <strong>ne citez pas le rôle</strong>, mais le joueur. 
   <br>Exemples :
 </p>
 <blockquote>
@@ -161,7 +161,7 @@ image: /images/logogold.png
 <h3>Silence pendant la nuit</h3>
 <p>
   La nuit doit rester silencieuse. Si quelqu’un commente ses actions à voix haute, 
-  cela ruine les bluffs des <span style="color:red;">maléfiques</span>. 
+  cela ruine les bluffs des <span style="color:red;">Maléfiques</span>. 
   Rappelez la règle avec bienveillance ou utilisez un <a href="./legendaire.html" style="color:#b58b52;">Légendaire</a> si nécessaire.
   Cependant, les joueurs et les joueuses peuvent tout à fait chanter et détendre l'atmosphère.
 </p>
@@ -169,7 +169,7 @@ image: /images/logogold.png
 <h3>Rester dans le cercle</h3>
 <p>
   Demandez à toutes et tous de rester autour du cercle pour faciliter nominations et échanges, 
-  et éviter les clans entre vétérans et nouvelles personnes.
+  et éviter les clans entre vétérans et nouveaux joueurs.
 </p>
 
 <h3> Relire les rôles en jeu</h3>
@@ -220,7 +220,7 @@ image: /images/logogold.png
 <p>
   Si quelqu’un parle sèchement ou domine trop, prenez-la ou prenez-le à part, 
   expliquez calmement que le comportement peut gêner. 
-  On critique l’attitude, pas la personne.
+  On critique l’attitude, pas le joueur.
 </p>
 
 <h3> Les comportements inacceptables</h3>
@@ -231,7 +231,7 @@ image: /images/logogold.png
 </ul>
 <p>
   Visez une ambiance <strong>sûre, respectueuse et amusante</strong>. 
-  Écartez si nécessaire une personne qui nuit au groupe.
+  Écartez si nécessaire un joueur qui nuit au groupe.
 </p>
 
 <h3>Juger ce qui est acceptable</h3>
@@ -240,7 +240,7 @@ image: /images/logogold.png
   Adaptez le ton et les rôles au public, éventuellement via des scripts personnalisés.
 </p>
 
-<h3>Aider les personnes timides</h3>
+<h3>Aider les joueurs timides</h3>
 <p>
   Offrez-leur un moment de parole : <em>« Tu veux donner ton avis avant qu’on vote ? »</em> 
   Ne forcez jamais. La confiance viendra.
@@ -248,7 +248,7 @@ image: /images/logogold.png
 
 <h3>Gérer les bavards</h3>
 <p>
-  Ne faites pas taire une seule personne : faites taire le groupe un instant, puis redonnez la parole équitablement.
+  Ne faites pas taire un seul joueur : faites taire le groupe un instant, puis redonnez la parole équitablement.
 </p>
 
 <h3> Prolonger le plaisir jusqu’au bout</h3>
@@ -262,7 +262,7 @@ image: /images/logogold.png
 </p>
 <ul>
   <li>Si le <span style="color:red;">Mal</span> écrase : glissez parfois une vraie info à un <a href="./tb_roles/ivrogne.html" style="color:blue;">Ivrogne</a>, 
-      ou rendez visible qu’un <a href="./tb_roles/espion.html" style="color:red;">Espionne</a> exécuté était bien ce rôle.</li>
+      ou rendez visible qu’une <a href="./tb_roles/espion.html" style="color:red;">Espionne</a> exécutée était bien ce rôle.</li>
   <li>Si le <span style="color:blue;">Bien</span> domine : brouillez un peu (fausses pistes pour une 
       <a href="./tb_roles/voyante.html" style="color:blue;">Voyante</a> ou un 
       <a href="./sv_roles/savant.html" style="color:blue;">Savant</a>).</li>
@@ -283,7 +283,7 @@ image: /images/logogold.png
 <h3>Encourager la créativité</h3>
 <p>
   Idées, signaux, alliances improbables… dites oui tant que c’est respectueux. 
-  Refusez seulement ce qui nuit aux personnes ou au plaisir de jeu.
+  Refusez seulement ce qui nuit aux joueurs ou au plaisir de jeu.
 </p>
 
 <h3>Réunir les Maléfiques</h3>
@@ -353,7 +353,7 @@ image: /images/logogold.png
 
 <h3>Découvrir Teensyville</h3>
 <p>
-  Format 5–6 personnes, idéal pour les soirées rapides et l’initiation. 
+  Format 5–6 joueurs, idéal pour les soirées rapides et l’initiation. 
   Le script builder le gère très bien.
 </p>
 
@@ -379,7 +379,7 @@ image: /images/logogold.png
 <h3>Créer et entretenir un groupe</h3>
 <p>
   Organisez des rencontres régulières et conviviales (Discord, Facebook, cafés ludiques, chez vous). 
-  Chaque nouvelle personne peut devenir passionnée… ou futur Conteur.
+  Chaque nouveau joueur peut devenir passionné… ou futur Conteur.
 </p>
 
 <h3>Encourager à conter</h3>
@@ -395,7 +395,7 @@ image: /images/logogold.png
   veillez à ce que chacun et chacune ait sa place.
 </p>
 
-<h3>Aider les nouvelles personnes</h3>
+<h3>Aider les nouveaux joueurs</h3>
 <p>
   Expliquez l’essentiel, répondez aux questions, 
   rappelez qu’il est normal de se tromper. 
@@ -412,7 +412,7 @@ image: /images/logogold.png
 <h3>Aider en cas de difficulté</h3>
 <p>
   Si quelqu’un semble perdu, proposez un bref échange privé et plusieurs options possibles. 
-  Laissez la personne décider.
+  Laissez le joueur décider.
 </p>
 
 <h3>Dédramatiser la mort et les erreurs</h3>
