@@ -51,8 +51,9 @@ image: /images/Icon_empath.png
   </li>
 </ul>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
-« Ma peau picote. Quelque chose cloche ici. Je le sens »
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Des picotements dans la peau...<br> 
+Quelque chose n’est pas normal. Je le sens.»
 </p>   
 
 
@@ -82,27 +83,34 @@ image: /images/Icon_empath.png
 
 **« Chaque nuit, vous apprenez combien de vos deux voisins vivants sont maléfiques.»**  
 
-L’**Empathe** apprend chaque nuit combien de ses voisins encore vivants sont maléfiques.  
+**L’EMPATHE** apprend chaque nuit si ses voisins sont maléfiques ou non.
 
-- L’Empathe **ne sait pas lequel** est maléfique, seulement le nombre.  
-- Les joueurs morts ne comptent pas. Si un voisin est mort, l’Empathe reçoit l’info sur le joueur vivant le plus proche.  
-- L’Empathe agit **après le Démon** : si un voisin est tué cette nuit-là, l’Empathe ne le détecte plus.  
+- L’Empathe apprend uniquement combien de ses voisins sont maléfiques, mais ne sait pas qui est maléfique.
+
+- L’Empathe ne détecte pas les joueurs morts. Si l’Empathe est à côté d’un joueur mort, il ne reçoit aucune information le concernant.
+  En revanche, il reçoit une information concernant le joueur en vie le plus proche de ce côté-là.
+  
+- L’Empathe agit après le Démon, donc si le Démon tue l’un des voisins de l’Empathe, l’information qu’il reçoit tient compte de la nouvelle situation.
+  Autrement dit, l’information qu’il reçoit se rapporte à la situation à l’aube, et non au crépuscule de la journée précédente.
 
 ---
 
 ##  <span style="color:blue;">Comment Conter</span>   
 
-- Chaque nuit, réveillez l’Empathe.  
-- Montrez-lui un nombre avec vois doigts (0, 1 ou 2) correspondant au **nombre de voisins maléfiques vivants**.  
-- Endormez l’Empathe.  
+- Chaque nuit, réveillez l’Empathe. 
+- Faites signe avec vos doigts (0, 1 ou 2) pour indiquer le nombre de joueurs maléfiques voisins de l’Empathe. 
+- L’Empathe se rendort.
 
 ---
 
 ##  <span style="color:blue;">Exemples</span>   
 
 - L’Empathe a deux voisins bons : un [Soldat](soldat.md) et un [Moine](moine.md). → il apprend **0**.  
-- Le lendemain, le [Soldat](soldat.md) est exécuté, puis la nuit suivante le [Moine](moine.md) est tué par le [ <span style="color:red">Diablotin</span>](imp.md). L’Empathe détecte désormais les voisins du [Soldat](soldat.md) et du [Moine](moine.md) : un [Archiviste](bibliothecaire.md) et un Voyageur maléfique. → il apprend **1**.  
-- Il ne reste plus que trois joueurs vivants : l’Empathe, le [ <span style="color:red">Diablotin</span>](imp.md) et le [<span style="color:red">Baron</span>](baron.md). → l’Empathe apprend **2**, quelle que soit la disposition.  
+- Le lendemain, le [Soldat](soldat.md) est exécuté, puis la nuit suivante le [Moine](moine.md) est tué par le [ <span style="color:red">Diablotin</span>](imp.md).
+L’Empathe détecte désormais les voisins du [Soldat](soldat.md) et du [Moine](moine.md) : un [Archiviste](bibliothecaire.md) et un Voyageur maléfique. → il apprend **1**. 
+
+- Il ne reste plus que trois joueurs vivants : l’Empathe, le [ <span style="color:red">Diablotin</span>](imp.md) et le [<span style="color:red">Baron</span>](baron.md). 
+→ L’Empathe apprend **2**, quelle que soit la disposition.  
 
 ---
 
@@ -112,10 +120,11 @@ L’**Empathe** apprend chaque nuit combien de ses voisins encore vivants sont m
 - **0** → vous êtes probablement entouré de joueurs bons : collaborez avec eux.  
 - **1** → un voisin est bon, l’autre est mauvais. Trouvez lequel.  
 - **2** → vous êtes coincé entre deux mauvais → danger immédiat.  
+
 - Si vos voisins meurent, vous obtenez de **nouvelles infos** sur les suivants. Collaborez avec un [Fossoyeur](croquemort.md) pour vérifier qui ils étaient.  
 - Révéler vos infos tôt aide à orienter les exécutions. Attendre peut protéger vos voisins bons ou vous donner plus de contexte.  
 - Mentir sur votre chiffre (par ex. annoncer "0" au lieu de "1") peut convaincre le Mal de vous garder en vie, pensant que vous êtes l'[Ivrogne](ivrogne.md)  
-- Attention à la [Recluse](reclus.md), qui peut s’enregistrer comme maléfique à tort, et à l’[<span style="color:red">Espionne</span>](espion.md), qui peut apparaître comme **Bonne**.  
+- ⚠️ Attention à la [Recluse](reclus.md), qui peut apparatire comme maléfique, et à l’[<span style="color:red">Espionne</span>](espion.md), qui peut apparaître comme **Bonne**.  
 
 ---
 
@@ -124,7 +133,8 @@ L’**Empathe** apprend chaque nuit combien de ses voisins encore vivants sont m
 - Vous recevez vos infos **chaque nuit**, dès la première nuit.  
 - Dire **0** → vos voisins bons vous font confiance, vous protégeant et protégeant vos alliés Maléfiques.  
 - Dire **1** → vous semez la discorde entre vos deux voisins.  
-- Dire **2** → bluff risqué, car vos voisins sauront que vous mentez, mais si certains ont un doute, cela discrédite deux bons joueurs.  
+- Dire **2** → bluff risqué, car vos voisins sauront que vous mentez, mais si certains ont un doute, cela discrédite deux bons joueurs. 
+
 - Si vos voisins meurent, vous pouvez adapter vos chiffres pour accuser d’autres joueurs.  
 - L’Empathe étant très puissant, sa survie en fin de partie peut sembler suspecte. Prétendre être l’[Ivrogne](ivrogne.md) ou être empoisonné est un bon prétexte.  
 
