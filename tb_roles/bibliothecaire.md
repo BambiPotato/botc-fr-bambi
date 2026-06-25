@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Archiviste 
-description: Vous commencez en apprenant 2 joueurs et le rôle de Marginal de l’un des deux. (Ou qu’il n’y a aucun Marginal en jeu.)
+description: "Lors de votre première nuit, vous apprenez un rôle de Marginal en jeu parmi 2 joueurs (ou qu’aucun Marginal n’est en jeu)."
 image: /images/Icon_librarian.png
 ---
 
@@ -54,7 +54,7 @@ image: /images/Icon_librarian.png
   </li>
 </ul>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
 « Bien sûr madame, nous avons bien,<br> 
   le Codex Malificarium dans nos archives.<br> 
   Mais pour le consulter, il vous faut une autorisation. »
@@ -86,38 +86,36 @@ image: /images/Icon_librarian.png
 
 **« Lors de votre première nuit, vous apprenez un rôle de Marginal en jeu parmi 2 joueurs (ou qu’aucun Marginal n’est en jeu).»** 
 
-L’Archiviste apprend qu’un Marginal particulier est en jeu, mais pas exactement de quel joueur il s’agit.
+**L’ARCHIVISTE** apprend qu’un Marginal en particulier est en jeu, mais ne sait pas qui l’incarne.
 
-Lors de la première nuit, l'Archiviste  apprend que l’un de deux joueurs est un Marginal spécifique.  
-Il ne l’apprend qu’une seule fois, puis plus rien.  
-
-⚠️ L’[Ivrogne](ivrogne.md) est un Marginal. Si l'Archiviste apprend qu’un des deux joueurs est l’Ivrogne, il n’apprend pas le rôle [Villageois](../glossaire.md#villageois) que l’Ivrogne croit avoir.  
+- Lors de la première nuit, le Conteur réveille l’Archiviste et lui montre deux joueurs et un rôle de Marginal, qui appartient l’un des deux.
+Il reçoit cette information une seule fois, et n’apprend rien d’autre.
+⚠️ L’[Ivrogne](ivrogne.md) est un Marginal. 
+Si l’Archiviste apprend que l’un des deux joueurs est l’Ivrogne, il n’apprend pas pour autant le rôle de Villageois que l’Ivrogne pense être.
 
 ---
 
 ##  <span style="color:blue">Comment Conter</span>  
 
-- Pendant la préparation de la première nuit, placez le jeton de rappel **MARGINAL** de l'Archiviste à côté du jeton de rôle d’un Marginal,  
-  et placez le jeton de rappel «**FAUX MARGINAL**» de l'Archiviste à côté de n’importe quel autre rôle.  
+- Lors de la préparation de la première nuit, placez le jeton **MARGINAL** de l’Archiviste à côté du jeton de rôle d’un Marginal,<br> et placez le jeton **FAUSSE PISTE** de l’Archiviste à côté d’un autre jeton de rôle.
 
-- Réveillez ensuite l'Archiviste et **montrez les deux joueurs marqués MARGINAL et FAUX MARGINAL**.  
-- Montrez ensuite le jeton de rôle marqué **MARGINAL** à l'Archiviste  .  
-- Rendormez l'Archiviste.  
-- Retirez ses jetons de rappel lorsque cela vous convient.
+- Lors de la première nuit, réveillez l’Archiviste et désignez les joueurs marqués MARGINAL et **FAUSSE PISTE**.
+Montrez à l’Archiviste le jeton de rôle associé au jeton **MARGINAL**.
+L’Archiviste se rendort. Retirez les jetons de l’Archiviste quand vous le souhaitez.
 
 ---
 
 ##  <span style="color:blue">Exemples</span>   
 
-- **Cédric** est le [Saint](saint.md), et **Laura** est le [Baron](baron.md).  
-  → L'Archiviste apprend que soit Cédric, soit Laura est le Saint.  
+- **Cédric** est le [Saint](saint.md), et **Laura** est le [Baron](baron.md).
+L'Archiviste apprend que soit Cédric ou Laura ou est le Saint.
 
-- Il n’y a aucun Marginal dans cette partie.  
-  → L'Archiviste apprend un « 0 ».  
+- Le Conteur décide que la [Recluse](reclus.md) apparaît comme un Sbire et non comme un Marginal. 
+Il n’y a pas d’autres Marginaux en jeu. L'Archiviste apprend le chiffre **« 0 »**.
 
-- **Julien** est l’[Ivrogne](ivrogne.md) (il croit être le [Moine](moine.md)) et **Sophie** est le [Fossoyeur](croquemort.md).  
-  → L'Archiviste apprend que soit Julien, soit Sophie est l’Ivrogne.  
-  (Cela arrive car l'Archiviste apprend le vrai rôle. Le vrai rôle de Julien est Ivrogne, pas Moine.)  
+- **Abdallah** est l'Ivrogne qui se prend pour le [Moine](moine.md), et **Doug** est le [Fossoyeur](croquemort.md).  
+L'Archiviste apprend qu'Abdallah ou Doug est l’[Ivrogne](ivrogne.md).
+L’[Ivrogne](ivrogne.md) est le véritable rôle d'Abdallah, même s'il pense être le [Moine](moine.md). 
 
 ---
 
@@ -150,7 +148,7 @@ Il ne l’apprend qu’une seule fois, puis plus rien.
 
 ##  <span style="color:blue">Bluffer Archiviste</span>   
 
-- Vous êtes censé avoir reçu vos infos la première nuit.  
+- Vous êtes censé avoir reçu votre info la première nuit.  
   Vous aurez donc « vu » deux joueurs et un jeton de [Marginal](../glossaire.md#étranger).  
 
 - Utilisez vos infos pour :  
