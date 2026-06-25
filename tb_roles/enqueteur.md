@@ -89,7 +89,7 @@ Ou devrais-je dire... Monsieur le Baron ? »
 ##  <span style="color:blue">Résumé</span>
 **« Lors de votre première nuit, vous apprenez un rôle de [<span style="color:red">Sbire</span>](../sbires.md) en jeu parmi 2 joueurs.»** 
 
-**LE DETECTIVE** apprend qu’un rôle de Sbire particulier est en jeu, mais ne sait pas qui l’incarne.
+**LE DÉTECTIVE** apprend qu’un rôle de Sbire particulier est en jeu, mais ne sait pas qui l’incarne.
 
 - Lors de la première nuit, le Conteur réveille le ou la Détective et lui montre deux joueurs<br>  et un rôle de Sbire, qui appartient à l’un des deux.
 Il reçoit cette information une seule fois, et n’apprend rien d’autre.
@@ -99,13 +99,12 @@ Il reçoit cette information une seule fois, et n’apprend rien d’autre.
 
 ##  <span style="color:blue">Comment Conter</span>  
 
-- Lors de la préparation de la première nuit :  
-  - Placez le jeton de rappel **<span style="color:red">SBIRE</span>** du **Détective** à côté du jeton d’un [<span style="color:red">Sbire</span>](../sbires.md).  
-  - Placez ensuite le jeton **FAUSSE PISTE** à côté de n’importe quel autre rôle.  
-- Réveillez le Détective et pointez les deux joueurs marqués **SBIRE** et **FAUSSE PISTE**.  
-- Montrez-lui le jeton du rôle du **Sbire** en question.  
-- Rendormez-le ensuite.  
-- Retirez les jetons du Détective lorsqu’ils ne sont plus nécessaires.  
+- Lors de la préparation de la première nuit, placez le jeton **<span style="color:red">SBIRE</span>** du Détective à côté du jeton de rôle d’un [<span style="color:red">Sbire</span>](../sbires.md),<br> et placez le jeton **FAUSSE PISTE** du Détective à côté d’un autre jeton de rôle.
+
+- Lors de la première nuit, réveillez le Détective et désignez les joueurs marqués **SBIRE** et **FAUSSE PISTE**.
+Montrez au Détective le jeton de rôle associé au jeton **SBIRE**. 
+Le Détective se rendort. 
+Retirez les jetons du Détective quand vous le souhaitez.
 
 ---
 
@@ -120,6 +119,7 @@ Il reçoit cette information une seule fois, et n’apprend rien d’autre.
 - **Evin** est la [Recluse](reclus.md), et **Kyllian** est le [<span style="color:red">Diablotin</span>](imp.md).  
   → Le Détective apprend que soit Evin, soit Kyllian est l'[<span style="color:red">Empoisonneur</span>](empoisonneur.md).  
 ⚠️ Ici, la [Recluse](reclus.md) apparaît comme un Sbire : dans ce cas précis, l’Empoisonneur.
+
 ---
 
 ##  <span style="color:blue">Astuces & Conseils</span>    
