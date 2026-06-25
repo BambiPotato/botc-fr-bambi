@@ -108,7 +108,7 @@ Le Mal ne viendra pas t’y trouver, je m’en porte garant. »
 
 - À l'aube, retirez le jeton **EN SÉCURITÉ,**.
 
-* - Dans d'autres modules, les Démons peuvent avoir d'autres capacités que celle de tuer.<br>La protection du Moine empêche également tous les autres effets néfastes de la capacité du Démon, tels que l'empoisonnement ou la conversion en joueur maléfique.*
+ - *Dans d'autres modules, les Démons peuvent avoir d'autres capacités que celle de tuer.<br>La protection du Moine empêche également tous les autres effets néfastes de la capacité du Démon, tels que l'empoisonnement ou la conversion en joueur maléfique.*
 
 ---
 
