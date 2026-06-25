@@ -151,6 +151,7 @@ mais comme bon pour la paire [<span style="color:red">Empoisonneur</span>](empoi
 
 ⚠️ **Attention** à la [Recluse](reclus.md) : elle peut vous piéger et condamner un allié, si vous n’êtes pas prudent surtout si elle apparait comme Maléfique.
 
+
 ---
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
