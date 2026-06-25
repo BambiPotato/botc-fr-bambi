@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cuisinier
-description: Vous commencez à savoir combien il y a de paires de joueurs maléfiques.
+description: Lors de votre première nuit, vous apprenez le nombre de paires de joueurs maléfiques.
 image: /images/Icon_chef.png
 ---
 
@@ -49,13 +49,14 @@ image: /images/Icon_chef.png
   </li>
 </ul>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
-« Les réservations de ce soir semblent étranges.<br> 
-  Jamais Madame Mayweather n’avait fréquenté ce vaurien de Hudson Lane.<br> 
-  Et pourtant, ce soir, ils ont une table pour deux. Étrange. »
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Les réservations de ce soir sont bizarres.<br> 
+  Je n’ai encore jamais vu Mlle Mayweather traîner avec ce garnement de Hudson Lane.<br> 
+  Et pourtant, ce soir, ils ont réservé une table pour deux. Étrange. »
 </p>   
 
 ---
+
 
 ##  Apparaît dans  
 
@@ -81,23 +82,31 @@ image: /images/Icon_chef.png
 
 **« Lors de votre première nuit, vous apprenez le nombre de paires de joueurs maléfiques.»**  
 
-Le **Cuisinier** sait si des joueurs maléfiques sont assis côte à côte.
+- **LE CUISINIER** apprend si plusieurs joueurs maléfiques sont côte à côte.
+
+- Lors de la première nuit, le **Cuisinier** apprend exactement combien il y a de paires de joueurs maléfiques.
+  Une paire est constituée de deux joueurs assis côte à côte. 
+  Cependant, un même joueur peut appartenir à deux paires. 
+  Ainsi, trois joueurs maléfiques côte à côte forment deux paires. 
+  Quatre joueurs maléfiques côte à côte forment trois paires. Et ainsi de suite.
+  
+- Le **Cuisinier** détecte les Voyageurs maléfiques comme les autres types de rôles, <br> mais uniquement si ces Voyageurs ont rejoint le jeu avant que le Cuisinier ne reçoive son information.
+
   
 - Dès la première nuit, le Cuisinier est réveillé et apprend **un nombre exact** de paires de voisins <span style="color:red">maléfiques</span>.  
 - Une paire = deux joueurs côte à côte.  
   - 2 joueurs = 1 paire.  
   - 3 joueurs voisins = 2 paires.  
   - 4 joueurs voisins = 3 paires, etc.  
-- Le Cuisinier détecte les Voyageurs maléfiques au même titre que les autres types de rôle,
-  mais seulement si ces Voyageurs ont rejoint la partie avant que le Cuisinier n'agisse.
+
 
 ---
 
 ##  <span style="color:blue">Comment Conter</span>  
 
 - Pendant la **première nuit**, réveillez le Cuisinier.  
-- Montrez-lui des chiffres (0, 1, 2, etc.) correspondant au nombre de paires de joueurs maléfiques voisins.  
-- Endormez le Cuisinier.  
+- Faites signe avec vos doigts (0, 1, 2, etc.) pour lui indiquer le nombre de paires de joueurs maléfiques assis côte à côte. 
+- Le Cuisinier se rendort.
 
 ---
 
@@ -108,11 +117,11 @@ Le **Cuisinier** sait si des joueurs maléfiques sont assis côte à côte.
 - Le [<span style="color:red">Diablotin</span>](imp.md) est assis à côté du [<span style="color:red">Baron</span>](baron.md). 
   Plus loin, l’[<span style="color:red">Empoisonneur</span>](empoisonneur.md) est assis à côté de la [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md). → le Cuisinier apprend **2**. 
 
-- Un Voyageur <span style="color:red">maléfique</span> est assis entre le [<span style="color:red">Diablotin</span>](imp.md)  et un Sbire. 
+- Un Voyageur <span style="color:red">maléfique</span> est assis entre le [<span style="color:red">Diablotin</span>](imp.md) et un Sbire. 
 Plus loin, deux autres Sbires sont voisins. → le Cuisinier apprend **3**.  
 
-- La [Recluse](reclus.md) est entre le [<span style="color:red">Diablotin</span>](imp.md) et l’[<span style="color:red">Empoisonneur</span>](empoisonneur.md). 
-Le Cuisinier  apprend **1** : ici, la [Recluse](reclus.md)s’enregistre comme <span style="color:red">maléfique</span> dans une paire mais pas dans l’autre.  
+- La [Recluse](reclus.md) est entre le [<span style="color:red">Diablotin</span>](imp.md) et l’[<span style="color:red">Empoisonneur</span>](empoisonneurmd) 
+Le Cuisinier  apprend **1** : ici, la [Recluse](reclus.md) s’enregistre comme <span style="color:red">maléfique</span> pour la paire [<span style="color:red">Diablotin</span>](imp.md)-[Recluse](reclus.md),<br> mais comme bon pour la paire [<span style="color:red">Empoisonneur</span>](empoisonneurmd)-[Recluse](reclus.md).
 
 ---
 
@@ -130,14 +139,16 @@ Le Cuisinier  apprend **1** : ici, la [Recluse](reclus.md)s’enregistre comme <
 
 ##  <span style="color:blue">Bluffer Cuisinier</span>   
 
-- Vous auriez reçu votre info la **première nuit** : un chiffre.  
-- Annoncer **0 ou 1 paire** est crédible.  
-- De grandes affirmations ("3 paires !") sont rarement crues, sauf si des Voyageurs <span style="color:red">maléfiques</span> sont présents.  
+- Vous auriez reçu votre info lors de la **première nuit** : un chiffre.  
+- Annoncer **0 ou 1** est crédible. 
+
+- De grandes affirmations ("3 paires !") sont rarement crues, sauf si des Voyageurs <span style="color:red">Maéfiques</span> sont présents.  
 - Donner une fausse info peut diviser les bons joueurs et semer le chaos.  
 - Donner une vraie info peut vous faire paraître fiable et vous protéger des exécutions.  
-- Le Cuisinier est **un rôle facile à bluffer**, idéal pour débutants.  
 
-⚠️ **Attention** à la [Recluse](reclus.md) : elle peut vous piéger et condamner un allié si vous n’êtes pas prudent.  
+- Le Cuisinier est **un rôle facile à bluffer**, idéal pour les joueurs débutants.  
+
+⚠️ **Attention** à la [Recluse](reclus.md) : elle peut vous piéger et condamner un allié, si vous n’êtes pas prudent surtout si elle apparait comme Maléfique.
 
 ---
 
