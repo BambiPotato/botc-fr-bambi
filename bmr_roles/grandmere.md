@@ -94,9 +94,7 @@ Je ne voudrais pas que tu attrapes la mort. Ça me tuerait »
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-La <strong>Grand-Mère</strong> sait quel joueur est son <strong>Petit-Enfant</strong>,  
-mais s'il est tué par le <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
-la Grand-Mère meurt également.
+<strong>LA GRAND-MÈRE</strong> sait quel joueur est son <strong>Petit-Enfant</strong>, mais s'il est tué par le <span style="color:#d45b5b; font-weight:bold;">Démon</span>, la Grand-Mère meurt également.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
