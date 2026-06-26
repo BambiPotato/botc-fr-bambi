@@ -52,10 +52,13 @@ image: /images/Icon_exorcist.png
   </li>
 </ul>
 
-> *« Nous vous chassons, tous les esprits impurs, toutes les puissances sataniques,<br> toutes les attaques de l’adversaire infernal, toutes les légions, tous les groupes et sectes diaboliques,<br> 
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Nous vous chassons, tous les esprits impurs, toutes les puissances sataniques,<br> toutes les attaques de l’adversaire infernal, toutes les légions, tous les groupes et sectes diaboliques,<br> 
 au nom et par la puissance de Notre Seigneur Jésus-Christ.<br> 
 Nous vous ordonnons de partir et de vous éloigner de l’Église de Dieu,<br> 
-des âmes créées par Dieu à son image et rachetées par le sang précieux de l’Agneau divin. »*
+des âmes créées par Dieu à son image et rachetées par le sang précieux de l’Agneau divin. »
+</p>
+
 
 ---
 
@@ -106,11 +109,11 @@ Le Démon apprend qu’il ne peut pas attaquer, et qui est l’Exorciste.<br>
 
 ##  <span style="color:blue">Comment Conter</span>    
 
-- Chaque nuit, sauf la première, réveillez l’Exorciste. Il désigne n’importe quel joueur.<br> 
-Marquez le jeton de rôle du joueur choisi avec le jeton CHOISI. L’Exorciste se rendort.
+- Chaque nuit, sauf la première, réveillez l’Exorciste. Il désigne n’importe quel joueur.<br> Marquez le jeton de rôle du joueur choisi avec le jeton **CHOISI**.<br> L’Exorciste se rendort.
 
-- Si l’Exorciste a choisi le Démon, réveillez le Démon. 
-Montrez-lui la tuile <strong>CE RÔLE VOUS A CHOISI</strong> et le jeton Exorciste, puis montrez le joueur Exorciste.<br>Le Démon se rendort. Plus tard cette nuit-là, ne réveillez pas le Démon. 
+- Si l’Exorciste a choisi le Démon, réveillez le Démon. <br>Montrez-lui la tuile <strong>CE RÔLE VOUS A CHOISI</strong> et le jeton Exorciste,<br> puis montrez le joueur Exorciste.<br>Le Démon se rendort. Plus tard cette nuit-là, ne réveillez pas le Démon. 
+
+**Instruction au Conteur**
 
 ⚠️ *Un Démon choisi par l’Exorciste ne se réveillera pas pour utiliser sa capacité de Démon,  
 mais se réveillera tout de même s’il doit le faire à cause des capacités d’autres rôles.  
@@ -161,11 +164,14 @@ Gardez cela en tête si vous utilisez l’Exorciste avec des rôles qui viennent
 ##  <span style="color:blue">Bluffer Exorciste</span>  
 
 - Ne révélez pas votre rôle trop tôt : un vrai Exorciste **reste discret**.  
-- Utilisez ce bluff pour parler en privé avec les [<span style="color:red">Sbires</span>](../sbires.md) ou le [<span style="color:red">Démon</span>](../demons.md).  
+- Utilisez ce bluff pour parler en privé avec les [<span style="color:red">Sbires</span>](../sbires.md) ou le [<span style="color:red">Démon</span>](../demons.md).
+
 - Profitez des nuits sans morts pour accuser un joueur bon :  
   → Ex. : accusez une [Tisanière](../bmr_roles/damedethe.md) ou un [Pacifiste](../bmr_roles/pacifiste.md) de mentir.  
+  
 - Coopérez avec un [<span style="color:red">Po</span>](../bmr_roles/po.md) : il peut choisir de **ne tuer personne** pour renforcer votre bluff.  
 - Vous pouvez prétendre avoir « neutralisé » un Démon pour innocenter un complice.  
+
 - Associez votre bluff à des rôles qui influencent les morts :  
   → ex. [<span style="color:red">Assassin</span>](../bmr_roles/assassin.md), [<span style="color:red">Avocat du Diable</span>](../bmr_roles/avocatdudiable.md), [Commère](../bmr_roles/commere.md)…  
 
@@ -191,8 +197,8 @@ Gardez cela en tête si vous utilisez l’Exorciste avec des rôles qui viennent
     <img src="../images/Icon_riot.png" alt="Riot" width="24" 
          style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/riot.html" 
-       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> :
-    Si le <span style="color:#d45b5b; font-weight:bold;">Riot</span> 
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Émeute</a> :
+    Si l' <span style="color:#d45b5b; font-weight:bold;">Émeute</span> 
     nomme puis exécute le joueur choisi par  
     l’<a href="../bmr_roles/exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a>,  
     le Bien gagne.
@@ -203,9 +209,9 @@ Gardez cela en tête si vous utilisez l’Exorciste avec des rôles qui viennent
     <img src="../images/Icon_yaggababble.png" alt="Yaggababble" width="24" 
          style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/yaggababble.html" 
-       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Yaggababble</a> :
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Yaggablabla</a> :
     Si l’<a href="../bmr_roles/exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a> 
-    choisit le <span style="color:#d45b5b; font-weight:bold;">Yaggababble</span>,  
+    choisit le <span style="color:#d45b5b; font-weight:bold;">Yaggablabla</span>,  
    le Yaggababble ne tue personne cette nuit.
   </li>
   
