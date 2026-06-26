@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Diablotin
-description:  "Chaque nuit* (sauf la première), choisissez un joueur : il meurt. Si vous vous tuez de cette façon, un Sbire devient Diablotin." 
+description:  "Chaque nuit* (sauf la première), choisissez un joueur : il meurt. Si vous vous tuez de cette façon, un Sbire devient le Diablotin." 
 image: /images/Icon_imp.png
 ---
 
@@ -41,8 +41,8 @@ image: /images/Icon_imp.png
   </li>
 </ul>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic; margin-left:20px; margin-right:20px; white-space:normal; overflow-wrap:anywhere; word-break:break-word;">
-  « Nous devons garder l’esprit affûté, et nos lames prêtes.<br>
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Nous devons garder l’esprit affûté, et nos lames prêtes.<br>
 Le Mal est parmi nous et ne reculera devant rien pour nous détruire,<br>
 nous, les bonnes gens, et notre beau village. Ne vous fiez à personne.<br>
 Sauf à moi. Vous pouvez me faire confiance. »
@@ -78,11 +78,11 @@ Sauf à moi. Vous pouvez me faire confiance. »
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
   <strong>« Chaque nuit* (sauf la première), choisissez un joueur : il meurt.
-  Si vous vous tuez de cette façon, un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> devient Diablotin. »</strong>
+  Si vous vous tuez de cette façon, un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> devient le Diablotin. »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px; white-space:normal; overflow-wrap:anywhere; word-break:break-word;">
-  <span style="color:#f5f5f5; font-weight:bold;">Le Diablotin</span> tue un joueur chaque nuit, et peut se copier lui-même… pour un prix terrible.
+  <span style="color:#f5f5f5; font-weight:bold;">LE DIABLOTIN</span> tue la nuit et peut s’incarner dans un de ses Sbires... en payant le prix fort.<br> Cet effet peut s’enchaîner : ainsi, le nouveau Démon peut lui-même se tuer pour qu’un nouveau Sbire devienne Diablotin, et ainsi de suite.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; white-space:normal; overflow-wrap:anywhere; word-break:break-word;">
