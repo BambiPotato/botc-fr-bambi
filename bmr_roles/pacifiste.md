@@ -88,7 +88,7 @@ image: /images/Icon_pacifist.png
 
 ##  <span style="color:blue">Résumé</span>  
 
-> **« Les bons joueurs exécutés pourraient ne pas mourir. »**
+**« Les bons joueurs exécutés pourraient ne pas mourir. »**
 
 **LE PACIFISTE** empêche les joueurs bons de mourir par exécution.
 
