@@ -99,10 +99,9 @@ ajouter 20 cc de pseudodorafine tout en maintenant les niveaux Z de votre mari s
 
 - Si le Professeur choisit un [<span style="color:blue">Marginal</span>](../etrangers.md), un [<span style="color:red">Sbire</span>](../sbires.md) ou un [<span style="color:red">Démon</span>](../demons.md), alors rien ne se passe et la capacité du Professeur est perdue.
 
-- Le joueur ressuscité regagne sa capacité, même s’il s’agit d’une capacité de type **« une fois par partie **» déjà utilisée.
+- Le joueur ressuscité regagne sa capacité, même s’il s’agit d’une capacité de type **« une fois par partie »** déjà utilisée.
 
-- Un Villageois ressuscité peut agir (ou non) lors de la nuit où il a été ressuscité, selon qu’il devait agir avant ou après le Professeur.<br>  
-Si un tel Villageois avait une capacité unique de première nuit ou une capacité **« Lors de votre première nuit, vous apprenez »**,<br> il se réveille immédiatement pour l’exercer, dès que le Professeur se rendort.
+- Un Villageois ressuscité peut agir (ou non) lors de la nuit où il a été ressuscité, selon qu’il devait agir avant ou après le Professeur.<br>Si un tel Villageois avait une capacité unique de première nuit ou une capacité **« Lors de votre première nuit, vous apprenez »**,<br> il se réveille immédiatement pour l’exercer, dès que le Professeur se rendort.
 
 ---
 
