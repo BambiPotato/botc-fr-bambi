@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pourfendeuse
-description:  "Une fois par partie, pendant la journée, choisissez publiquement un joueur : s’il est le Démon, il meurt."
+description:  "Une fois par partie, dans la journée, choisissez publiquement un joueur : s’il est le Démon, il meurt."
 image: /images/Icon_slayer.png
 ---
 
@@ -62,7 +62,7 @@ image: /images/Icon_slayer.png
 
 #  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
 
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
 </p>
 
@@ -84,39 +84,50 @@ image: /images/Icon_slayer.png
 
 ##  <span style="color:blue">Résumé</span>
 
-**« Une fois par partie, pendant la journée, choisissez publiquement un joueur : s’il est le Démon, il meurt. »**
+**« Une fois par partie, dans la journée, choisissez publiquement un joueur : s’il est le Démon, il meurt. »**
 
-- La Pourfendeuse peut tuer le Démon en devinant de qui il s’agit.
-- La Pourfendeuse  peut choisir d'utiliser sa capacité à tout moment de la journée et doit déclarer à tout le monde quand elle l'utilise. 
-- Si la Pourfendeuse  choisit le Démon, celui-ci meurt immédiatement. Sinon, rien ne se passe.
-- Les joueurs ignorent l'identité du joueur mort. Après tout, il s'agissait peut-être de la Recluse !
-- Une Pourfendeuse qui utilise sa capacité alors qu'il est empoisonné ou ivre ne peut plus l'utiliser.
-- La Pourfendeuse choisira un joueur vivant. Même si elle choisit un Diablotin mort, rien ne se passe, car un joueur mort ne peut pas mourir à nouveau.
-- Les joueurs peuvent dire ce qu'ils veulent à tout moment, un joueur qui prétend être la Pourfendeuse peut prétendre utiliser la capacité d'une Pourfendeuse.
+**LA POURFENDEUSE** peut tuer le Démon en devinant de qui il s’agit.
+
+- La Pourfendeuse peut choisir d’utiliser sa capacité à tout moment de la journée et doit annoncer à tous les joueurs qu’elle l’utilise.
+  - Si la Pourfendeuse choisit le Démon, le Démon meurt immédiatement. Sinon, rien ne se passe.
+
+- Les joueurs n’apprennent pas le rôle du joueur mort.
+  - Après tout, il pourrait s’agir de la Recluse !
+
+- Une Pourfendeuse qui utilise sa capacité alors qu’elle est empoisonnée ou ivre ne peut pas l’utiliser à nouveau.
+
+- La Pourfendeuse a intérêt à choisir un joueur en vie. 
+ - Si la Pourfendeuse choisit un Diablotin mort, rien ne se passe, car un joueur mort ne peut pas mourir à nouveau.
+
+- Les joueurs peuvent dire ce qu’ils veulent quand ils veulent.
+  - Un joueur qui prétend être la Pourfendeuse peut tout à fait faire semblant d’utiliser la capacité de la Pourfendeuse.
 
 ---
 
 ##  <span style="color:blue">Comment Conter</span>
 
-- Pendant la journée, la Pourfendeuse peut déclarer qu'elle souhaite utiliser sa capacité publiquement. Dans ce cas, elle désigne un joueur. 
-- Si le joueur choisi est un Démon vivant, déclarez sa mort : placez un linceul sur son jeton de rôle dans le Grimoire. 
-- Si le joueur choisi n'est pas un Démon vivant, dites « Rien ne se passe ». 
-  Dans tous les cas, la Pourfendeuse perd sa capacité : placez le jeton **SANS CAPACITÉ** de la Pourfendeuse à côté de son jeton de rôle.
-- Si un joueur bluffe en se faisant passer pour la Pourfendeuse et déclare vouloir utiliser sa capacité, 
-  agissez comme s'il était effectivement la Pourfendeuse : laissez-le joueur réfléchir quelques secondes, 
-  puis laissez-le prendre la décision et faites comme si vous jouiez avec des jetons dans votre Grimoire, puis dites « Rien ne se passe ».
+- Pendant la journée, la Pourfendeuse peut déclarer qu’elle souhaite utiliser sa capacité. 
+  - La Pourfendeuse désigne alors n’importe quel joueur. 
+  - Si le joueur choisi est un Démon en vie, annoncez que le joueur choisi meurt — placez un linceul sur son jeton de rôle dans le Grimoire. 
+  - Si le joueur choisi n'est pas un Démon en vie, annoncez « Rien ne se passe ». 
+  - Dans tous les cas, la Pourfendeuse perd sa capacité — placez le jeton **SANS CAPACITÉ** de la Pourfendeuse à côté de son jeton de rôle.
 
-- Lorsque la Pourfendeuse déclare vouloir utiliser son pouvoir, accordez au groupe une minute ou deux pour discuter du choix du la Pourfendeuse. 
-- Cela permet au groupe de se sentir responsable de la victoire (ou de la défaite !), mais le Mercenaire a toujours le dernier mot.
+- *Si un joueur se fait passer pour la Pourfendeuse et annonce qu’il veut utiliser sa capacité, faites comme s’il était vraiment la Pourfendeuse :*
+  *laissez le temps de la discussion, laissez-le prendre sa décision, trifouillez au besoin les jetons du Grimoire, puis annoncez « Rien ne se passe ».*
+
+- *Lorsque la Pourfendeuse annonce qu’elle veut utiliser sa capacité, accordez une minute ou deux au groupe pour discuter de sa cible.*
+  *Cela permet au groupe de participer à la victoire (ou à la défaite !), mais la décision finale revient à la Pourfendeuse.*
 
 ---
 
 ##  <span style="color:blue">Exemples</span>
 
-- La Pourfendeuse choisit le [<span style="color:red">Diablotin</span>](imp.md),  le [<span style="color:red">Diablotin</span>](imp.md), (le Démon) meurt, 
+- La Pourfendeuse choisit le [<span style="color:red">Diablotin</span>](imp.md), le [<span style="color:red">Diablotin</span>](imp.md), (le Démon) meurt, 
   et l’équipe des Bons gagne immédiatement !  
-- La Pourfendeuse choisit la [Recluse](reclus.md), le Conteur décide qu’il apparaît comme un [<span style="color:red">Diablotin</span>](imp.md).
-  La Reclues meurt, mais la partie continue.  
+  
+- La Pourfendeuse choisit la [Recluse](reclus.md), le Conteur décide qu’elle apparaît comme un [<span style="color:red">Diablotin</span>](imp.md).
+  - La Reclues meurt, mais la partie continue.  
+  
 - Le [<span style="color:red">Diablotin</span>](imp.md) bluffe Pourfendeuse et déclare tirer sur la [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md), c'est un bluff donc rien ne se passe.  
 
 ---
