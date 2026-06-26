@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Professeur
+description: "Une fois par partie, la nuit*, choisissez un joueur mort : si c’est un Villageois, il est ressuscité."
+image: /images/Icon_professor.png
 ---
 
 <p align="left">
@@ -48,12 +50,17 @@ title: Professeur
   </li>
 </ul> 
 
-> *« Le processus est simple.<br>
-> Connectez le confabulateur hydraulique à l’amplificateur de matrice chi modifié, ajoutez 20 cc de pseudodorafine,<br>
-> gardez ses niveaux Z au-dessus de 20 %, et votre mari ira bien.<br> 
-> Maintenant, tout ce dont nous avons besoin, c’est d’un éclair. »*
+
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Le processus est fort simple.<br> 
+Il suffit d’associer le confabulateur hydraulique à l’amplificateur matriciel chi,<br>
+ajouter 20 cc de pseudodorafine tout en maintenant les niveaux Z de votre mari sous les 20%, et tout ira bien.<br>
+À présent, il faut juste que la foudre tombe ici. »
+</p>
+
 
 ---
+
 
 ## Apparaît dans  
 
@@ -82,40 +89,55 @@ title: Professeur
 
 ##  <span style="color:blue">Résumé</span>    
 
- **Une fois par partie, pendant la nuit, choisissez un joueur mort : si c’est un Villageois, il revient à la vie.**<br>
+<strong>Une fois par partie, la nuit*, choisissez un joueur mort : si c’est un Villageois, il est ressuscité.</strong>
 
- **Le Professeur peut ressusciter un joueur.**  
+**LE PROFESSEUR** peut ramener quelqu’un d’entre les morts.
 
-* Une fois par partie, il choisit un joueur mort. Si ce joueur est un [<span style="color:blue">Villageois</span>](../villageois.md), il est ressuscité.  
-* Si le joueur est un [<span style="color:blue">Marginal</span>](../etrangers.md), un [<span style="color:red">Sbire</span>](../sbires.md) ou un [<span style="color:red">Démon</span>](../demons.md), rien ne se passe.  
-* Un Villageois ressuscité récupère son pouvoir, même si c’était un pouvoir « une fois par partie ».  
+- Une fois par partie, le Professeur peut choisir un joueur mort.
+
+- Si ce joueur est un [<span style="color:blue">Villageois</span>](../villageois.md), il est ressuscité et redevient « en vie ».
+
+- Si le Professeur choisit un [<span style="color:blue">Marginal</span>](../etrangers.md), un [<span style="color:red">Sbire</span>](../sbires.md) ou un [<span style="color:red">Démon</span>](../demons.md), alors rien ne se passe et la capacité du Professeur est perdue.
+
+- Le joueur ressuscité regagne sa capacité, même s’il s’agit d’une capacité de type **« une fois par partie **» déjà utilisée.
+
+- Un Villageois ressuscité peut agir (ou non) lors de la nuit où il a été ressuscité, selon qu’il devait agir avant ou après le Professeur.<br>  
+Si un tel Villageois avait une capacité unique de première nuit ou une capacité **« Lors de votre première nuit, vous apprenez »**,<br> il se réveille immédiatement pour l’exercer, dès que le Professeur se rendort.
 
 ---
 
 ##  <span style="color:blue">Comment Conter</span>  
 
-- Chaque nuit (sauf la première), réveillez le Professeur.  
-- Il peut secouer la tête (ne rien faire) ou choisir un joueur mort.  
-- Si le joueur choisi est un [<span style="color:blue">Villageois</span>](../villageois.md), il revient à la vie.  
-- Annoncez au lever du jour quels joueurs sont vivants ou morts (sans dire pourquoi).  
+**Instruction au Conteur**
+
+- Chaque nuit, sauf la première, réveillez le Professeur.<br> Le Professeur fait non de la tête ou désigne un joueur mort.<br> Le Professeur se rendort.
+
+- Si le Professeur choisit un [<span style="color:blue">Villageois</span>](../villageois.md) mort,<br> le joueur choisi devient en vie — marquez-le du jeton **EN VIE** du Professeur et retirez son linceul. (Il se réveille plus tard cette nuit-là, s’il doit se réveiller.<br> S’il ne se réveille que la première nuit, il se réveille immédiatement pour utiliser sa capacité.) 
+
+- À l’aube, après avoir annoncé quels joueurs sont morts, déclarez quel joueur est à nouveau en vie. *(Ne dites pas pourquoi.)*<br>  Le Professeur perd sa capacité — marquez-le du jeton **SANS CAPACITÉ** et retirez son jeton de nuit de la fiche de nuit.
+
 
 ---
 
+
 ##  <span style="color:blue">Exemples</span>   
 
-- Le Professeur choisit un joueur mort prétendant être la [Dame de Thé](damedethe.md). En réalité, c’était le [Lunatique](lunatique.md). → Personne n’est ressuscité.  
+- Le Professeur choisit un joueur mort prétendant être la [Tisanière](damedethe.md). <br> Le joueur est en fait le [Lunatique](lunatique.md). → Personne n’est ressuscité.   
 
-- Le Professeur ressuscite la [Grand-Mère](grandmere.md), qui apprend à nouveau l’identité de son petit-enfant.  
+- Le Professeur ressuscite la [Grand-mère](grandmere.md), qui apprend le rôle d’un joueur bon. <br> À l’aube, tous les joueurs apprennent que le joueur ([Grand-mère](grandmere.md),) est en vie, mais ils ne savent pas son rôle.
 
-- Le Professeur ivre tente de ressusciter le [Ménestrel](menestrel.md), déjà régurgité par le [<span style="color:red">Shabaloth</span>](shabaloth.md). Comme il est ivre, rien ne se passe.  
+- Le Professeur ivre choisit de ressusciter le [Ménestrel](menestrel.md).<br>  Or, à l’insu du Professeur, le [Ménestrel](menestrel.md) a été recraché par le [<span style="color:red">Shabaloth</span>](shabaloth.md) et est déjà de nouveau en vie.<br>  Le Conteur fait non de la tête pour refuser le choix du Professeur, qui doit choisir un joueur mort.<br> Le Professeur choisit alors le [Fou du roi](fou.md). <br> Rien ne se passe parce que le Professeur est ivre.<br>  Pour autant, il ne peut plus utiliser sa capacité de la partie.
+ 
 
 ---
 
 ##  <span style="color:blue">Astuces & Conseils</span>  
 
 - Utilisez votre pouvoir **tôt** : les joueurs <span style="color:red">Maléfiques</span> tenteront sûrement de vous tuer rapidement.  
-- Utilisez-le **tard** : ressusciter un joueur confirmé en fin de partie peut totalement renverser la situation.  
-- Si votre pouvoir échoue, le joueur ciblé était soit [<span style="color:blue">Marginal</span>](../etrangers.md), soit [<span style="color:red">Maléfique</span>](../demons.md).  
+- Utilisez votre pouvoir **tard** : ressusciter un joueur confirmé en fin de partie peut totalement renverser la situation.  
+
+- Si votre pouvoir échoue, le joueur ciblé était soit un [<span style="color:blue">Marginal</span>](../etrangers.md), soit un [<span style="color:red">Maléfique</span>](../demons.md). 
+
 - Ressuscitez de préférence des morts de nuit : il est plus probable qu’ils aient été victimes du [<span style="color:red">Démon</span>](../demons.md).  
 - Un joueur exécuté peut aussi être ressuscité si vous pensez que le village a fait une erreur.  
 - Si vous réussissez, vous et le joueur ressuscité deviendrez probablement très fiables aux yeux du village.  
