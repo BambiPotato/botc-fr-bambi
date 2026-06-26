@@ -88,7 +88,8 @@ Que vos ailes soient l’instrument de ma vengeance ! Volez ! »
 
 **« Si vous mourez la nuit, vous êtes réveillée pour choisir un joueur et apprendre son rôle. »**  
 
-- **LA CORNEILLE** apprend le rôle de n’importe quel joueur si elle meurt la nuit.
+**LA CORNEILLE** apprend le rôle de n’importe quel joueur si elle meurt la nuit.
+
 - La Corneille est réveillée lors de la nuit où elle meurt. Elle choisit alors immédiatement un joueur.
 - La Corneille peut choisir un joueur mort si elle le souhaite.
 
@@ -161,8 +162,8 @@ Que vos ailes soient l’instrument de ma vengeance ! Volez ! »
     <li>
     🧞
     <img src="../images/Icon_riot.png" alt="Boffin" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> :  
-    Chaque nuit*, le Riot choisit un joueur bon vivant (différent des nuits précédentes) : 
+    <a href="../roles_experimentaux/riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Émeute</a> :  
+    Chaque nuit*, l'Émeute choisit un joueur bon vivant (différent des nuits précédentes) : 
     une Corneille choisie utilise sa capacité mais ne meurt pas.
    </li>  
   </ul>
