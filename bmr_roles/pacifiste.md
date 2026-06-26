@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Pacifiste
+description: "Les joueurs bons exécutés pourraient ne pas mourir." 
+image: /images/Icon_pacifist.png
 ---
 
 
@@ -51,8 +53,10 @@ title: Pacifiste
   </li>
 </ul>
 
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Ne faites jamais confiance à ceux qui manient la punition comme seule arme. » 
+</p>
 
-> *« Méfie-toi de tous ceux dont l’instinct de punir est trop puissant. »*
 
 ---
 
@@ -86,33 +90,36 @@ title: Pacifiste
 
 > **« Les bons joueurs exécutés pourraient ne pas mourir. »**
 
-Le **Pacifiste** peut empêcher la mort de joueurs bons lors de leur exécution.  
+**LE PACIFISTE** empêche les joueurs bons de mourir par exécution.
 
-- Lorsque **un joueur bon** est exécuté, le Conteur décide s’il **meurt** ou **reste en vie**.  
-- Les joueurs ne savent **jamais pourquoi** une personne survit à une exécution.  
-- L’exécution est tout de même **considérée comme valide** : aucune autre nomination ne peut avoir lieu ce jour-là.  
+- Lorsqu’un joueur bon est exécuté, le Conteur choisit s’il meurt ou s’il vit.<br> Comme toujours, lorsque de telles capacités se manifestent de manière aussi évidente, le Conteur doit simplement dire ce qui s’est passé, sans pour autant en préciser la raison. <br> Ainsi, le groupe apprend que l’exécution a été effectuée, mais que le joueur exécuté n’est pas mort, sans que le Conteur n’en dise davantage.
+
+- Si un joueur exécuté reste en vie, on considère tout de même qu’il y a eu une exécution dans la journée.<br>  Il est impossible de nommer un autre joueur.
 
 ---
 
 ##  <span style="color:blue">Comment Conter</span>  
 
-- Si un **joueur bon** est exécuté, déclarez simplement qu’il **meurt** ou qu’il **reste en vie** ( sans préciser pourquoi ).  
-- Commencez ensuite la **phase de nuit** normalement.  
-- L’effet peut être activé **une ou plusieurs fois** selon le rythme de la partie.  
+**Instruction au Conteur**
 
->  Utiliser la capacité Pacifiste une fois par partie est généralement suffisant. 
-> Vous pouvez l'utiliser plus souvent si vous le jugez approprié. Exceptionnellement, pour rendre le Pacifiste suspect, vous pouvez ne jamais l'utiliser.  
+- Si un rôle bon est exécuté, annoncez s’il meurt ou s’il reste en vie. (Ne dites pas pourquoi.)<br>  Ensuite, commencez la phase de nuit. (Il n’y a qu’une seule exécution par jour, que le joueur ait survécu ou non.) 
+
+> Déclencher la capacité Pacifiste une fois par partie est généralement suffisant.<br>  Vous pouvez la déclencher davantage si vous le jugez approprié.
+> Vous pouvez aussi (rarement) ne jamais déclencher cettecapacité, pour rendre le Pacifiste suspect.  
+
 
 ---
 
 ##  <span style="color:blue">Exemples</span>  
 
 - L’[Aubergiste](aubergiste.md) est exécuté, mais **reste en vie** grâce au Pacifiste.  
-- Le Pacifiste est en jeu. Après sept jours et cinq exécutions de joueurs bons, **aucune survie** n’a eu lieu : la capacité n’a jamais été activée.  
-- Le [Lunatique](lunatique.md) est exécuté mais **survit** : le Conteur a choisi d’activer la capacité du Pacifiste.  
-  Le lendemain, le [Professeur](professeur.md) est exécuté et **meurt**, car le Pacifiste est **ivre**.  
-  Le jour suivant, un [<span style="color:#9b59b6">Évêque</span>](../voyageurs/bishop.md) bon est **exilé** et **meurt**, car le pouvoir du Pacifiste **ne s’applique pas aux exils**.  
-  Le jour d’après, le Pacifiste lui-même est exécuté, mais **survit** grâce à sa propre capacité.  
+
+- Le Pacifiste est en jeu. Le Bien est en train de gagner.<br>Même après ept jours et cinq joueurs bons exécutés, la capacité Pacifiste n’a sauvé personne.
+
+- Le Pacifiste est en jeu. Le Mal est en train de gagner.<br> Le [Lunatique](lunatique.md) est exécuté mais reste en vie, le Conteur a choisi d’activer la capacité du Pacifiste.<br> Le lendemain, le [Professeur](professeur.md) est exécuté et **meurt**, car le Pacifiste est **ivre**.<br>  
+  Le jour suivant, un [<span style="color:#9b59b6">Évêque</span>](../voyageurs/bishop.md) bon est **exilé** et **meurt**. 
+  Il meurt car le Pacifiste sauve les joueurs de l’exécution et non de l’exil. 
+  Le jour suivant, le Pacifiste est exécuté, mais reste en vie grâce au Pacifiste (lui-même).
 
 ---
 
@@ -124,22 +131,22 @@ Sa capacité dépend du **jugement du Conteur**, donc sa **discrétion** et sa *
 ###  <span style="color:blue">Jouer discrètement</span>     
 
 - Ne vous **révélez pas tôt** : vous seriez immédiatement une cible pour le [<span style="color:red">Démon</span>](../demons.md).  
-- Bluffez en prétendant être un rôle peu menaçant, comme le [Fou](fou.md) ou le [Bricoleur](bricoleur.md).  
+- Bluffez en prétendant être un rôle peu menaçant, comme le [Fou du roi](fou.md) ou le [Bricoleur](bricoleur.md).  
 - Vous pouvez révéler votre rôle à un joueur de confiance pour valider votre crédibilité si votre capacité se déclenche plus tard.  
 - Plus la partie avance, plus votre capacité devient **puissante et stratégique**.  
 
 ###  <span style="color:blue">Quand se révéler ?</span>    
 
 - Attendez un **sauvetage visible** : si un joueur survit à une exécution, c’est votre moment pour parler.  
-- Si vous vous révélez avant, vous risquez de semer la confusion avec d’autres rôles protecteurs (comme le [Marin](marin.md), le [Fou](fou.md) ou la [Dame de Thé](damedethe.md)).  
+- Si vous vous révélez avant, vous risquez de semer la confusion avec d’autres rôles protecteurs (comme le [Marin](marin.md), le [Fou](fou.md) ou la [Tisanière](damedethe.md)).  
 
 ###  <span style="color:blue">Attention aux confusions</span>  
 
 - Il existe de nombreuses raisons pour lesquelles on peut survivre, alors ne présumez pas immédiatement que c'est vous. 
 - Tirer des conclusions hâtives et révéler sa véritable identité alors qu'en réalité… 
-- [Fou](fou.md)  
+- [Fou du roi](fou.md)  
 - [Marin](marin.md)  
-- [Dame de Thé](damedethe.md)  
+- [Tisanière](damedethe.md)  
 - [<span style="color:red">Avocat du Diable</span>](avocatdudiable.md) 
 
 Si vous revendiquez à tort une survie causée par un autre rôle, vous deviendrez **suspect**.  
@@ -150,7 +157,7 @@ Soyez prudent si vous soupçonnez sa présence et, de manière générale, évit
 
 ---
 
-##  <span style="color:blue">Bluffer Pacifiste</span>    
+##  <span style="color:blue">Bluffer le Pacifiste</span>    
 
 Le **Pacifiste** est un bluff **parfait pour les sbires**, car son effet est rare, flou et difficile à vérifier.  
 
