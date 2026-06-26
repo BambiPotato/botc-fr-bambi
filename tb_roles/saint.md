@@ -28,7 +28,7 @@ image: /images/Icon_saint.png
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
     <strong>Type :</strong>
-    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>
+    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a>
   </li>
   <li><strong>Artiste :</strong> Aidan Roberts</li>
   <li>
