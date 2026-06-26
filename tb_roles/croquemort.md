@@ -52,8 +52,7 @@ image: /images/Icon_undertaker.png
 </ul>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-« Alors, qu’est-ce qu’on a aujourd’hui ?  
-Usure importante au talon de la botte gauche, des restes de pierre à fusil sous la langue...<br> 
+« Alors, qu’est-ce qu’on a aujourd’hui ?<br> Usure importante au talon de la botte gauche, des restes de pierre à fusil sous la langue...<br> 
 Un militaire, sans aucun doute. »
 </p>   
 
