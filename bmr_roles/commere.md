@@ -70,7 +70,9 @@ bla bla bla bla. Bla.»
   « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
 </p>
 
+
 ---
+
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../bmr.html" style="text-decoration:none;">
