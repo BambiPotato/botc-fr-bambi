@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Courtisan
+description: "Une fois par partie, la nuit, choisissez un rôle : il est ivre pendant 3 nuits et 3 jours." 
+image: /images/Icon_courtier..png
 ---
 
 
@@ -49,7 +51,11 @@ title: Courtisan
   </li>
 </ul> 
 
-> *« Je crains davantage une armée de cent moutons menée par un lion qu’une armée de cent lions menée par un mouton.  »*
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Je crains davantage une armée de cent moutons menée par un lion<br> 
+qu’une armée de cent lions menée par un mouton. »
+</p>
+
 
 ---
 
@@ -78,28 +84,45 @@ title: Courtisan
 </p>
 
 
-## 📖 <span style="color:blue">Résumé</span>     
+---
 
-« Une fois par partie, la nuit, choisissez un rôle : il est ivre pendant **3 nuits et 3 jours**. »  
 
-Le **Courtisan** choisit un **rôle** (et non un joueur) qui devient ivre pendant trois nuits et trois jours, à partir de cette nuit.  
+##  <span style="color:blue">Résumé</span>     
 
-- Le Courtisan ne sait pas si son choix est valide ni si ce rôle est en jeu ou non.  
-- Il ne peut utiliser son pouvoir **qu’une seule fois par partie**.  
-- Si le Courtisan est ivre ou empoisonné lorsqu’il utilise son pouvoir → il échoue.  
-- Si le Courtisan rend un rôle ivre, puis devient lui-même ivre/empoisonné → l’effet cesse. Quand il redevient sobre/sain → l’effet reprend.  
-- Le joueur ivre **ne le sait pas**, mais son pouvoir ne fonctionne plus tant que dure l’ivresse.  
+**« Une fois par partie, la nuit, choisissez un rôle : il est ivre pendant 3 nuits et 3 jours. »**  
+
+**LE COURTISAN** enivre un rôle sans savoir de quel joueur il s’agit.
+
+- Une fois par partie, le Courtisan choisit un rôle à enivrer pendant trois nuits et trois jours, avec effet immédiat.
+
+- Le Courtisan n’apprend pas s’il a véritablement enivré quelqu’un.<br> Il pourrait enivrer un rôle qui n’est pas en jeu.
+
+- Le Courtisan choisit un rôle, et non un joueur.<br> Vous serez peut-être obligé de rappeler cette règle au Courtisan. <br>Les joueurs maléfiques qui se font passer pour le Courtisan auront peut-être aussi besoin d’un tel rappel.
+
+- Si le Courtisan est ivre ou empoisonné lorsqu’il choisit le rôle à enivrer, le rôle choisi ne devient pas ivre, <br> et ce même si le Courtisan devient sobre et sain par la suite.<br> Si le Courtisan a enivré un rôle mais que lui-même devient ivre ou empoisonné, sa capacité cesse et le rôle qu’il a enivré redevient sobre.<br> Si le Courtisan redevient sobre et sain avant que les trois nuits et trois jours ne se soient écoulés,<br> alors sa capacité reprend et le rôle qu’il avait visé redevient immédiatement ivre. 
+
 
 ---
 
+
 ##  <span style="color:blue">Comment Conter</span>    
 
-- Chaque nuit (sauf la première), réveillez le Courtisan.  
-- Il peut passer son tour ou désigner un **rôle** (pictogramme sur la fiche).  
-- Si ce rôle est en jeu → le joueur correspondant devient ivre pendant 3 nuits et 3 jours.  
-- Utilisez les jetons rappels **IVRE 1 / IVRE 2 / IVRE 3** pour suivre la durée.  
-- Après ce cycle → retirez les jetons de rappel et marquez le Courtisan comme **sans pouvoir**.  
-- Une fois son pouvoir utilisé → ne le réveillez plus.  
+**Instruction au Conteur**
+
+- Chaque nuit, réveillez le Courtisan. Il fait non de la tête ou désigne n’importe quelle icône de rôle sur sa fiche de rôles. Le 
+Courtisan se rendort.
+
+- Si le Courtisan choisit une icône de rôle et que ce rôle est en jeu,<br> le joueur qui incarne le rôle choisi devient ivre pendant trois nuits et trois jours. 
+
+- Cette nuit-là, marquez-le du jeton **IVRE 1** du
+Courtisan.<br>  La nuit suivante, remplacez le jeton **IVRE 1** par le jeton **IVRE 2**. <br> La nuit d’après, remplacez le jeton **IVRE 2** par le jeton **IVRE 3**.<br> Au crépuscule de la nuit d’après, retirez le jeton **IVRE 3**. 
+
+- Le Courtisan perd sa capacité. Marquez-le du jeton **SANS CAPACITÉ** et retirez son jeton de nuit de la fiche de nuit.
+
+- Une fois que le Courtisan a choisi un rôle à enivrer, ne réveillez plus le Courtisan pendant le reste de la partie.
+
+*Dans d’autres modules, il peut y avoir plusieurs exemplaires du même rôle en jeu.*
+*Le Courtisan n’enivre qu’un seul d’entre eux.*
 
 ---
 
@@ -112,7 +135,7 @@ Le **Courtisan** choisit un **rôle** (et non un joueur) qui devient ivre pendan
   → Rien ne se passe.  
 
 - Le Courtisan cible le [<span style="color:red">Cerveau</span>](cerveau.md).  
-  → Le <span style="color:red">Démon</span> est exécuté, mais comme le Cerveau est ivre, il n’octroie pas la victoire au <span style="color:red">Mal</span>. Le Bien gagne.  
+  → Le <span style="color:red">Démon</span> est exécuté, mais comme le [<span style="color:red">Conspirateur</span>](cerveau.md) est ivre, il n’octroie pas la victoire au <span style="color:red">Mal</span>. Le Bien gagne.  
 
 ---
 
@@ -128,7 +151,7 @@ Le **Courtisan** choisit un **rôle** (et non un joueur) qui devient ivre pendan
 -  **Villageois** : ce n’est pas optimal, mais parfois utile :  
   - [Bricoleur](bricoleur.md) ivre → ne meurt plus au hasard.  
   - [Grand-Mère](grandmere.md) ivre → survit si son petit-enfant meurt.  
-  - [Enfant de la Lune](enfantdelalune.md) ivre → ne provoque pas de mort supplémentaire.  
+  - [Sélénite](enfantdelalune.md) ivre → ne provoque pas de mort supplémentaire.  
 
 -  **Tester les menteurs** : si un joueur prétend être [Exorciste](exorciste.md), rendez « Exorciste » ivre. Si malgré tout il continue à bloquer le <span style="color:red">Démon</span>, c’est un menteur.  
 
@@ -170,9 +193,9 @@ Le **Courtisan** choisit un **rôle** (et non un joueur) qui devient ivre pendan
     <img src="../images/Icon_summoner.png" alt="Invocateur" width="24"
          style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/summoner.html"
-       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocateur</a> :
-    Si l’<span style="color:#d45b5b; font-weight:bold;">Invocateur</span> vivant 
-    n’a plus de capacité, le Conteur obtient alors la capacité de l’Invocateur.
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocatrice</a> :
+    Si l’<span style="color:#d45b5b; font-weight:bold;">Invocatrice</span> vivante 
+    n’a plus de capacité, le Conteur obtient alors la capacité de l’Invocatrice.
   </li>
 
   <!-- VIZIER -->
@@ -183,7 +206,7 @@ Le **Courtisan** choisit un **rôle** (et non un joueur) qui devient ivre pendan
     <a href="../roles_experimentaux/vizier.html"
        style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a> :
     Si le <span style="color:#d45b5b; font-weight:bold;">Vizir</span> perd sa capacité,  
-    il l’apprend immédiatement et **ne peut plus mourir de jour**.
+    il l’apprend immédiatement et ne peut plus mourir de jour.
   </li>
 
 </ul>
