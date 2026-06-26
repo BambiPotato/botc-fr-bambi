@@ -134,7 +134,7 @@ Instructions au Conteur
     <ul style="margin-left:20px;">
       <li>Réveillez la <strong>Grand-mère</strong> ;</li>
       <li>Montrez-lui le jeton de rôle marqué <strong>PETIT-ENFANT</strong> ;</li>
-      <li>Puis désignez le joueur strong>Petit-enfant</strong>;</li>
+      <li>Puis désignez le joueur <strong>Petit-enfant</strong>;</li>
       <li>Endormez ensuite la <strong>Grand-Mère</strong>.</li>
     </ul>
   </li>
@@ -185,7 +185,7 @@ donc elle reste en vie.
 
   <li><strong>Protégez votre Petit-Enfant adoré&nbsp;!</strong>  
       Il est presque certain qu’il est bon,  
-      et cette certitude est rare et précieuse dans strong>Bad Moon Rising</strong>.  
+      et cette certitude est rare et précieuse dans <strong>Bad Moon Rising</strong>.  
       De plus, s’il est tué par le <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
       vous mourrez aussi — motivation supplémentaire&nbsp;!</li>
 
@@ -223,39 +223,32 @@ donc elle reste en vie.
   <li>Le moyen le plus simple de bluffer  
       est de prétendre être la <strong>Grand-Mère</strong>  
       et d’affirmer qu’un joueur maléfique  
-      est votre <strong>Petit-Enfant</strong>.  
-      Évitez toutefois de le faire dès le premier jour :  
-      la plupart des vraies Grand-Mères attendent un peu  
+      est votre <strong>Petit-Enfant</strong>.<br>Évitez toutefois de le faire dès le premier jour : <br> la plupart des vraies Grand-Mères attendent un peu  
       avant de donner leurs informations.</li>
 
   <li>Attendre un jour ou deux permet aussi à votre faux Petit-Enfant  
-      de se présenter au groupe et de s’y fondre,  
-      avant que vous ne confirmiez publiquement son rôle.</li>
+      de se présenter au groupe et de s’y fondre,<br> avant que vous ne confirmiez publiquement son rôle.</li>
 
-  <li>Vous pouvez également prétendre être la <strong>Grand-Mère</strong>  
-      et déclarer qu’un joueur maléfique  
-      est en réalité un rôle très puissant.  
-      Avec un peu de chance, il comprendra la ruse  
-      et commencera à se faire passer pour ce rôle.</li>
+  <li>Vous pouvez également prétendre être la <strong>Grand-Mère</strong> et déclarer qu’un joueur maléfique est en réalité un rôle très puissant.<br>Avec un peu de chance, il comprendra la ruse et commencera à se faire passer pour ce rôle.</li>
 
-  <li>Convainquez un joueur bon que vous êtes sa Grand-Mère :  
+  <li>Convainquez un joueur bon que vous êtes sa Grand-Mère :<br>   
       c’est plus simple s’il vous a déjà révélé son rôle  
-      (ou l’a fait publiquement).  
+      (ou l’a fait publiquement).<br>   
       Si vous connaissez son rôle, répétez-le au groupe ;  
       sinon, vous pouvez tenter une devinette…  
       ou refuser de répondre.</li>
 
   <li>Demandez à vos complices maléfiques  
       d’identifier discrètement les bons joueurs  
-      et de vous transmettre ces informations.  
+      et de vous transmettre ces informations.<br>   
       Une fois que vous connaissez l’identité d’un bon joueur à son insu,  
       il devient beaucoup plus facile de le convaincre  
       que vous êtes sa Grand-Mère.</li>
 
-  <li>Bluffez en vous faisant passer pour le <strong>Petit-Enfant</strong>&nbsp;!  
+  <li>Bluffez en vous faisant passer pour le <strong>Petit-Enfant</strong>&nbsp;!<br>   
       Vous pouvez affirmer être un rôle bon  
       tout en prétendant que la Grand-Mère vous a parlé en privé  
-      et que vous lui faites entièrement confiance.  
+      et que vous lui faites entièrement confiance.<br>   
       Plus tard, un allié maléfique pourra se déclarer Grand-Mère  
       et corroborer votre histoire.</li>
 
