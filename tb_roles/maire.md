@@ -113,12 +113,11 @@ Dans <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; t
   <li><strong>Cible du Démon</strong> : si le Maire doit mourir la nuit, le Conteur peut choisir que le Maire survive et qu’un autre joueur meure à la place.</li>
   <li>Le Conteur annonce seulement « qu’un joueur est mort », il ne donne pas la raison de la mort du joueur.</li> <br>
   <li>
-    Les <a href="../voyageurs/.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a>
+    Les <a href="../voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a>
     comptent comme des joueurs pour la condition du Maire → ils doivent donc être exilés au préalable.<br>
   </li>
   <li>
-    Les
-    <a href="../legendaires/.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Légendaires</a>
+    Les <a href="../legendaire.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Légendaires</a>
     ne comptent pas : le Conteur n’est pas un joueur.<br>
   </li>
   <li>
@@ -150,7 +149,7 @@ Dans <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; t
   <li>Il reste trois joueurs en vie. Aucune nomination n'a lieu, il n'y a pas d'exécution aujourd'hui. Victoire pour le Bien.</li><br>
   <li>
     Il reste cinq joueurs en vie, dont deux
-    <a href="../voyageurs/index.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a>.<br>
+    <a href="../voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a>.<br>
     Ces deux Voyageurs sont exilés, et le vote est à égalité entre les joueurs restants.<br>
     Comme l'égalité signifie qu'aucun joueur n'est exécuté, le Bien l'emporte.
   </li>
