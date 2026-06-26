@@ -37,10 +37,10 @@ image: /images/Icon_saint.png
   </li>
 </ul>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
-«  La sagesse engendre la paix. La patience engendre la sagesse.
-   N’ayez pas peur, car viendra le jour où la peur aussi disparaîtra.
-   Prions, et que l’unité de notre vision fasse de nous tous des saints.»
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« La sagesse engendre la paix. La patience engendre la sagesse.<br> 
+Ne craignez pas, car la crainte elle-même finira par passer.<br> 
+Prions, et que l’unité de notre vision nous transcende tous. »
 </p>
 
 <hr>
@@ -71,11 +71,11 @@ image: /images/Icon_saint.png
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Si vous mourez par exécution, votre équipe perd. »</strong><br>
-  Le Saint met fin à la partie s'il est exécuté.
+  <strong>LE SAINT</strong> met fin immédiatement à la partie s'il est exécuté.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Si le saint meurt exécuté, la partie prend fin. Le bien perd et le mal triomphe.</li>
+  <li>Si le saint meurt par exécution, la partie est terminée. Le Bien est vaincu et le Mal gagne.</li>
   <li>Dans <strong>Trouble Brewing</strong>, le Saint est toujours <strong>Bon</strong> : s’il est <strong>exécuté</strong>, <strong>le Mal gagne</strong>.</li>
   <li>Si le Saint meurt <strong>autrement</strong> que par exécution (par exemple, tué par le Démon), <strong>la partie continue</strong>.</li>
 </ul>
@@ -85,9 +85,9 @@ image: /images/Icon_saint.png
 <h2><span style="color:blue">Comment Conter</span></h2>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Si le <strong>Saint</strong> meurt <strong>par exécution</strong>, <strong>annoncez immédiatement la fin de la partie</strong> : <strong>le Mal l’emporte</strong>.</li>
+  <li>Si le <strong>Saint</strong> meurt <strong>par exécution</strong>, <strong>annoncez immédiatement la fin de la partie</strong> : <strong>le Mal gagne</strong>.</li>
   <li>Si le Saint <strong>ne meurt pas par exécution</strong>, <strong>la partie continue</strong>.</li>
-  <li>La formulation « <em>votre équipe perd</em> » signifie ici « le Bien perd » car le Saint est toujours Bon dans <strong>Trouble Brewing</strong>..</li>
+  <li>La formulation « <em>votre équipe perd</em> » signifie ici « le Bien perd » car le Saint est toujours Bon dans <strong>Trouble Brewing</strong>.</li>
   <li>Dans d’autres éditions, si le Saint peut devenir maléfique, inversez selon l’alignement réel au moment de l’exécution; (appliquez littéralement)<br>
   « <em>votre équipe perd</em> ». Si un Saint <strong>maléfique</strong> est exécuté, alors <strong>le Bien gagne</strong>.</li>
 </ul>
@@ -100,11 +100,11 @@ image: /images/Icon_saint.png
   <li>Il reste sept joueurs en vie et les nominations sont en cours. Le Saint obtient 4 votes et est « sur le bûcher ( il est sur le point de mourir par exécution).</li>
 
   <li>Ensuite, le <strong><a href="./baron.html" style="text-decoration:none;"><span style="color:red">Baron</span></a></strong> est nommé mais n’obtient que 3 votes.<br>
-  Aucune autre nomination n'est faite aujourd'hui. : le Saint est exécuté → <strong>fin de partie, le Mal triomphe</strong>.</li>
+  Aucune autre nomination n'est faite aujourd'hui. : le Saint est exécuté → <strong>la partie se termine immédiatement, le Mal gagne</strong>.</li>
 
-  <li>Le <strong><a href="./imp.html" style="text-decoration:none;"><span style="color:red">Diablotin</span></a></strong> est nommé et les joueurs votent. Le <strong><a href="../voyageurs/gunslinger.html" style="text-decoration:none;"><span style="color:purple">Gunslinger</span></a></strong> tue le Saint pendant la journée ; le Saint <strong>meurt</strong>, <strong>mais la partie continue</strong> (ce n’est pas une exécution).</li>
+  <li>Le <strong><a href="./imp.html" style="text-decoration:none;"><span style="color:red">Diablotin</span></a></strong> est nommé et les joueurs votent. Le <strong><a href="../voyageurs/gunslinger.html" style="text-decoration:none;"><span style="color:purple">Franc-tireur</span></a></strong> tue le Saint pendant la journée ; le Saint <strong>meurt</strong>, <strong>mais la partie continue</strong> (ce n’est pas une exécution mais une mort).</li>
 
-  <li><strong>Le Saint</strong> est « exécuté », mais l’effet du <strong><a href="../voyageurs/scapegoat.html" style="text-decoration:none;"><span style="color:purple">Bouc Émissaire</span></a></strong> se déclenche : c’est le <a href="../voyageurs/boucemissaire.html" style="text-decoration:none;"><span style="color:purple">Bouc Émissaire</span></a> qui meurt <strong>à la place</strong>. <strong>Le Saint n’est pas mort</strong>, donc <strong>la partie continue</strong>.</li>
+  <li><strong>Le Saint</strong> est « exécuté », mais l’effet du <strong><a href="../voyageurs/scapegoat.html" style="text-decoration:none;"><span style="color:purple">Bouc Émissaire</span></a></strong> se déclenche : c’est le <strong><a href="../voyageurs/scapegoat.html" style="text-decoration:none;"><span style="color:purple">Bouc Émissaire</span></a></strong> qui meurt <strong>à la place du Saint</strong>. <strong>Le Saint n’est pas mort</strong>, donc <strong>la partie continue</strong>.</li>
 </ul>
 
 <hr>
@@ -119,8 +119,8 @@ image: /images/Icon_saint.png
     <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
       <li>Demandez à la <strong><a href="./voyante.html" style="text-decoration:none;">Voyante</a></strong> de vous choisir la nuit, vous n'êtes pas le Démon.</li>
       <li>Obtenez une lecture claire d’un <strong><a href="./empathique.html" style="text-decoration:none;">Empathe</a></strong> (en coordonnant des morts autour de vous si besoin).</li>
-      <li>Si vous mourez <strong>la nuit</strong>, un <strong><a href="./gardien.html" style="text-decoration:none;">Corneille</a></strong> peut révéler votre véritable rôle.</li>
-      <li>Un <strong><a href="./mercenaire.html" style="text-decoration:none;">Pourfendeuse</a></strong> peut tenter son tir sur vous, pour prouver que vous n'êtes pas le Démon.</li>
+      <li>Si vous mourez <strong>la nuit</strong>, la <strong><a href="./gardien.html" style="text-decoration:none;">Corneille</a></strong> peut révéler votre véritable rôle.</li>
+      <li>La <strong><a href="./mercenaire.html" style="text-decoration:none;">Pourfendeuse</a></strong> peut tenter son tir sur vous, pour prouver que vous n'êtes pas le Démon.</li>
     </ul>
   </li>
 
@@ -164,8 +164,8 @@ L'Équipe du Bien peut malgré tout hésiter à vous exécuter avant le dernier 
 
   <li>Si vous êtes le
 <span style="color:#d45b5b; font-weight:bold;"><a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a></span>, <br>
-vous savez que votre exécution fait perdre votre équipe s’il n’y a pas de <br>
-<span style="color:#d45b5b; font-weight:bold;"><a href="./femme_ecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme Écarlate</a></span>
+vous savez que votre exécution fait perdre votre équipe s’il n’y a pas de 
+<span style="color:#d45b5b; font-weight:bold;"><a href="./femme_ecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme écarlate</a></span>
 en jeu.</li>
 
   <li>Pour cette raison, si vous êtes sur le point d’être exécuté et que vous luttez désespérément pour vous sauver, l’équipe du Bien peut interpréter cela comme le comportement d’un Démon cherchant à éviter sa propre mort au moins suffisamment longtemps pour vous permettre de vous suicider et<br>
@@ -180,7 +180,7 @@ l’équipe du Bien peut comprendre que vous évitez l’exécution pour empêch
 dans une partie sans 
 <span style="color:#d45b5b; font-weight:bold;"><a href="./baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a></span> 
 peut être délicat,<br> 
-car vous risquez d’entrer en conflit avec d’autres Étrangers.</li>
+car vous risquez d’entrer en conflit avec d’autres Marginaux</li>
 
   <li>Heureusement, votre condition de défaite fait de vous une cible d’exécution plus prioritaire qu’un 
 <span style="color:#4ea3ff; font-weight:bold;"><a href="./majordome.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Majordome</a></span> 
@@ -215,14 +215,14 @@ ou
 <span style="color:#4ea3ff; font-weight:bold;"><a href="./saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a></span>, <br>
 puisque la partie ne se terminera pas.</li>
 
-  <li>Soyez prêt à avoir un bluff de secours, comme le 
+  <li>Soyez prêt à avoir un bluff de secours, comme la
 <span style="color:#4ea3ff; font-weight:bold;"><a href="./reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a></span>, <br>
 ou un Villageois puissant qui ne voulait pas mourir (comme le
 <span style="color:#4ea3ff; font-weight:bold;"><a href="./croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a></span> 
-ou le 
+ou la
 <span style="color:#4ea3ff; font-weight:bold;"><a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a></span>).</li>
 
-  <li>Méfiez-vous du
+  <li>Méfiez-vous de la
 <span style="color:#4ea3ff; font-weight:bold;"><a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a></span> !</li>
 
   <li>Le 
@@ -235,8 +235,7 @@ il voudra très probablement vous tester, sans risquer de déclencher la conditi
 
   <li>Une bonne manière de contourner cela est de faire bluffer le 
    <span style="color:#4ea3ff; font-weight:bold;"><a href="./saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a></span> 
-    par un Sbire,<br>
-    de le faire tuer par le 
+    par un Sbire, de le faire tuer par la 
 <span style="color:#4ea3ff; font-weight:bold;"><a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a></span>, <br>
 puis de faire passer le rôle de Démon à ce Sbire via le
 <span style="color:#d45b5b; font-weight:bold;"><a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a></span>.</li>
@@ -254,10 +253,8 @@ même s’il y en a déjà un en jeu.</li>
 mais cela n’est pas possible avec le 
 <span style="color:#4ea3ff; font-weight:bold;"><a href="./saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a></span>.</li>
 
-  <li>Prétendre être un 
-<span style="color:#4ea3ff; font-weight:bold;"><a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a></span> 
-peut masquer la présence de l’
-<span style="color:#4ea3ff; font-weight:bold;"><a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a></span> <br>
+  <li>Prétendre être un Marginal peut masquer la présence de l’
+<span style="color:#4ea3ff; font-weight:bold;"><a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a></span> 
 ou amener l’équipe du Bien à penser qu’un 
 <span style="color:#d45b5b; font-weight:bold;"><a href="./baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a></span> 
 est en jeu.</li>
