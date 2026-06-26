@@ -79,7 +79,7 @@ image: /images/Icon_grandmother.png
 </ul>
 
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; margin-top:10px;">
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
 « Si tu vas dehors, prends ton manteau, mon petit ! Et ton bonnet.<br>
 Et ton écharpe. J’ai le cœur bien fragile...<br>
 Je ne voudrais pas que tu attrapes la mort. Ça me tuerait »
@@ -94,26 +94,22 @@ Je ne voudrais pas que tu attrapes la mort. Ça me tuerait »
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-La <strong>Grand-Mère</strong> sait qui est son <strong>Petit-Enfant</strong>,  
-mais si celui-ci est tué par le <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
-la Grand-Mère meurt aussi.
+La <strong>Grand-Mère</strong> sait quel joueur est son <strong>Petit-Enfant</strong>,  
+mais s'il est tué par le <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
+la Grand-Mère meurt également.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Lors de la première nuit, la <strong>Grand-Mère</strong> apprend l'existence de son <strong>Petit-Enfant</strong> :
-      un joueur bon, qu’il soit
+  <li>Lors de la première nuit, la <strong>Grand-Mère</strong> apprend qui est son <strong>Petit-enfant</strong> : <br>un joueur bon avec un rôle de 
       <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
-      ou <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a>,  
-      et elle connaît son rôle exact.</li>
+      ou de <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a>.</li>
 
-  <li>Le <strong>Petit-Enfant</strong> n’apprend pas qu’il a une Grand-Mère.</li>
+  <li>Le <strong>Petit-enfant</strong> n’apprend pas qu’il a une Grand-mère.</li>
 
-  <li>Si le <span style="color:#d45b5b; font-weight:bold;">Démon</span> tue le <strong>Petit-Enfant</strong> la nuit,
-      la <strong>Grand-Mère</strong> meurt aussi, immédiatement.</li>
+  <li>Si le <span style="color:#d45b5b; font-weight:bold;">Démon</span> tue le <strong>Petit-enfant</strong>,
+      la <strong>Grand-mère</strong> meurt également.</li>
 
-  <li>Si le <strong>Petit-Enfant</strong> meurt par toute autre cause  
-      (exécution, capacité d’un autre rôle, effet d’un Voyageur, etc.),
-      la <strong>Grand-Mère</strong> ne meurt pas.</li>
+  <li>Si le <strong>Petit-enfant</strong> meurt par un autre moyen, comme une exécution ou un autre type de mort,<br> alors la <strong>Grand-Mère</strong> ne meurt pas.</li>
 </ul>
 
 ---
@@ -121,39 +117,33 @@ la Grand-Mère meurt aussi.
 ##  <span style="color:#4ea3ff;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-La <strong>Grand-Mère</strong> fournit une information de départ très fiable,  
-mais crée aussi une potentielle double mort si le <span style="color:#d45b5b; font-weight:bold;">Démon</span> s’en prend à son Petit-Enfant.
+Instructions au Conteur
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
-  <li><strong>Préparation de la première nuit :</strong>
+  <li><strong>Lors de la préparation de la première nuit :</strong>
     <ul style="margin-left:20px;">
-      <li>Choisissez un joueur bon (Villageois ou Marginal)  
-          pour être le <strong>Petit-Enfant</strong>.</li>
+      <li>choisissez un <strong>Petit-enfant</strong> en marquant n'importe quel rôle bon ( un Villageois ou un Marginal)</li>
       <li>Marquez ce rôle avec le jeton de rappel <strong>PETIT-ENFANT</strong>  
           dans votre grimoire.</li>
     </ul>
   </li>
 
-  <li><strong>Première nuit :</strong>
+  <li><strong>Lors de la première nuit :</strong>
     <ul style="margin-left:20px;">
-      <li>Réveillez la <strong>Grand-Mère</strong> ;</li>
+      <li>Réveillez la <strong>Grand-mère</strong> ;</li>
       <li>Montrez-lui le jeton de rôle marqué <strong>PETIT-ENFANT</strong> ;</li>
-      <li>Puis pointez le joueur correspondant autour de la table ;</li>
+      <li>Puis désignez le joueur strong>Petit-enfant</strong>;</li>
       <li>Endormez ensuite la <strong>Grand-Mère</strong>.</li>
     </ul>
   </li>
 
   <li><strong>Mort du Petit-Enfant :</strong>
     <ul style="margin-left:20px;">
-      <li>Si le <span style="color:#d45b5b; font-weight:bold;">Démon</span> tue le <strong>Petit-Enfant</strong> la nuit,  
-          marquez ce joueur comme <strong>MORT</strong>,  
-          puis marquez également la <strong>Grand-Mère</strong> comme <strong>MORTE</strong>  
-          (deux morts sont annoncées au lever du jour).</li>
-      <li>Si le <strong>Petit-Enfant</strong> meurt autrement  
-          (exécution, capacité d’un autre rôle, etc.),  
-          ne faites rien de particulier pour la <strong>Grand-Mère</strong> : elle reste en vie.</li>
+      <li>Si le <span style="color:#d45b5b; font-weight:bold;">Démon</span> tue le <strong>Petit-enfant</strong>,  
+          la <strong>Grand-mère</strong> <strong>meurt</strong> - marquez-la du jeton de rappel <strong>MORT</strong>.</li>
+      <li>Au lever du jour annoncez les deux morts.</li>
     </ul>
   </li>
 
@@ -287,8 +277,8 @@ donc elle reste en vie.
 
   <li>
     <img src="../images/Icon_riot.png" alt="Émeute" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> :  
-    Si le <strong>Riot</strong> est en jeu  
+    <a href="../roles_experimentaux/riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Émeute</a> :  
+    Si l' <strong>Émeute</strong> est en jeu  
     et que le <strong>Petit-Enfant</strong> meurt par exécution,  
     le <span style="color:#d45b5b; font-weight:bold;">Mal</span> gagne.
   </li>
