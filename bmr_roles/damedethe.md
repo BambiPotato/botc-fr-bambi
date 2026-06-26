@@ -20,7 +20,7 @@ image: /images/Icon_tealady.png
   <a href="./damedethe.html" style="text-decoration:none;">
     <img src="../images/Icon_tealady.png" alt="Dame de Thé" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:blue; font-weight:bold; font-size:22px;">Dame de Thé</span>
+    <span style="color:blue; font-weight:bold; font-size:22px;">Tisanière</span>
   </a>
 </div>
 
@@ -86,6 +86,9 @@ Si vous êtes énervé, le thé vous calmera. »
 </p>
 
 
+---
+
+
 ##  <span style="color:blue">Résumé</span>  
 
 **« Si vos deux voisins vivants sont bons, ils ne peuvent pas mourir. »**
@@ -104,7 +107,7 @@ Si vous êtes énervé, le thé vous calmera. »
 
 **instruction au Conteur**
 
-- Si les deux voisins en vie de la Tisanière sont bons, marquez les jetons de rôle de ces voisins des jetons **NE PEUT PAS MOURIR** de la Tisanière.<br> Si l’un ou l’autre des voisins en vie de la Tisanière est maléfique, retirez ces jetons. Vous devez ajuster les jetons en temps réel selon ce qui se passe en jeu <br>- par exemple si l’alignement d’un joueur change).
+- Si les deux voisins en vie de la Tisanière sont bons, marquez les jetons de rôle de ces voisins des jetons **NE PEUT PAS MOURIR** de la Tisanière.<br> Si l’un ou l’autre des voisins en vie de la Tisanière est maléfique, retirez ces jetons. Vous devez ajuster les jetons en temps réel selon ce qui se passe en jeu <br>- par exemple si l’alignement d’un joueur change.
 
 - Si un joueur marqué **NE PEUT PAS MOURIR** doit mourir, il reste en vie.<br> Si un joueur marqué **NE PEUT PAS MOURIR** est exécuté, annoncez que le joueur marqué est exécuté mais reste en vie. (Ne dites pas pourquoi.)
 
