@@ -104,7 +104,7 @@ image: /images/Icon_pacifist.png
 
 - Si un rôle bon est exécuté, annoncez s’il meurt ou s’il reste en vie. (Ne dites pas pourquoi.)<br>  Ensuite, commencez la phase de nuit. (Il n’y a qu’une seule exécution par jour, que le joueur ait survécu ou non.) 
 
-> Déclencher la capacité Pacifiste une fois par partie est généralement suffisant.<br>  Vous pouvez la déclencher davantage si vous le jugez approprié.
+> Déclencher la capacité Pacifiste une fois par partie est généralement suffisant.<br> Vous pouvez la déclencher davantage si vous le jugez approprié.<br>
 > Vous pouvez aussi (rarement) ne jamais déclencher cettecapacité, pour rendre le Pacifiste suspect.  
 
 
@@ -116,10 +116,7 @@ image: /images/Icon_pacifist.png
 
 - Le Pacifiste est en jeu. Le Bien est en train de gagner.<br>Même après ept jours et cinq joueurs bons exécutés, la capacité Pacifiste n’a sauvé personne.
 
-- Le Pacifiste est en jeu. Le Mal est en train de gagner.<br> Le [Lunatique](lunatique.md) est exécuté mais reste en vie, le Conteur a choisi d’activer la capacité du Pacifiste.<br> Le lendemain, le [Professeur](professeur.md) est exécuté et **meurt**, car le Pacifiste est **ivre**.<br>  
-  Le jour suivant, un [<span style="color:#9b59b6">Évêque</span>](../voyageurs/bishop.md) bon est **exilé** et **meurt**. 
-  Il meurt car le Pacifiste sauve les joueurs de l’exécution et non de l’exil. 
-  Le jour suivant, le Pacifiste est exécuté, mais reste en vie grâce au Pacifiste (lui-même).
+- Le Pacifiste est en jeu. Le Mal est en train de gagner.<br> Le [Lunatique](lunatique.md) est exécuté mais reste en vie, le Conteur a choisi d’activer la capacité du Pacifiste.<br> Le lendemain, le [Professeur](professeur.md) est exécuté et **meurt**, car le Pacifiste est **ivre**.<br> Le jour suivant, un [<span style="color:#9b59b6">Évêque</span>](../voyageurs/bishop.md) bon est **exilé** et **meurt**.<br>Il meurt car le Pacifiste sauve les joueurs de l’exécution et non de l’exil.<br> Le jour suivant, le Pacifiste est exécuté, mais reste en vie grâce au Pacifiste (lui-même).
 
 ---
 
