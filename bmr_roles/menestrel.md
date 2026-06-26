@@ -100,7 +100,7 @@ Cousez mitaines, cousez mitaines, pour de belles capitaines. »
 
 **Instruction au Conteur**
 
-- Pendant la journée, si un Sbire meurt par exécution, tous les autres joueurs, à l’exception des Voyageurs, deviennent ivres. <br> Placez le jeton **TOUT LE MONDE EST IVRE** du Ménestrel au milieu de la partie gauche du Grimoire.<br>  Le lendemain, au crépuscule, tous les joueurs enivrés par le Ménestrel deviennent sobres — retirez le jeton **TOUT LE MONDE EST IVRE**. 
+- Pendant la journée, si un Sbire meurt par exécution, tous les autres joueurs, à l’exception des Voyageurs, deviennent ivres. <br> Placez le jeton **TOUT LE MONDE EST IVRE** du Ménestrel au milieu de la partie gauche du Grimoire.<br>  Le lendemain, au crépuscule, tous les joueurs enivrés par le Ménestrel deviennent sobres<br>  — retirez le jeton **TOUT LE MONDE EST IVRE**. 
 
 ---
 
