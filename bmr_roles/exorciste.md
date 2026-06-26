@@ -91,8 +91,7 @@ des âmes créées par Dieu à son image et rachetées par le sang précieux de 
 
 ##  <span style="color:blue">Résumé</span>  
 
-<strong> « Chaque nuit*, choisissez un joueur (différent de la nuit précédente) :</strong>   
-<strong> si c’est le [<span style="color:red">Démon</span>](../demons.md), il apprend qui vous êtes puis ne se réveille pas cette nuit»</strong>  
+<strong> « Chaque nuit*, choisissez un joueur (différent de la nuit précédente) : si c’est le [<span style="color:red">Démon</span>](../demons.md), il apprend qui vous êtes puis ne se réveille pas cette nuit. »</strong>  
 
 **L’EXORCISTE** empêche le [<span style="color:red">Démon</span>](../demons.md) de se réveiller pour attaquer.
 
