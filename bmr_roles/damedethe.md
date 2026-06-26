@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Dame de Thé
+title: Tisanière
+description: "Si vos deux voisins en vie sont bons, ils ne peuvent pas mourir." 
+image: /images/Icon_tealady.png
 ---
 
 
@@ -11,7 +13,7 @@ title: Dame de Thé
 </p>
 
  
-#    <span style="color:blue">Dame de Thé</span>  
+#    <span style="color:blue">Tisanière</span>  
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -50,10 +52,12 @@ title: Dame de Thé
   </li>
 </ul> 
 
-> *"Si tu as froid, le thé te réchauffera.  
-> Si tu es trop échauffé, le thé te rafraîchira.  
-> Si tu es triste, le thé te consolera.  
-> Si tu es trop excité, le thé t’apaisera."*
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Si vous avez froid, le thé vous réchauffera.<br> 
+Si vous avez chaud, le thé vous rafraîchira.<br> 
+Si vous êtes triste, le thé vous réjouira.<br> 
+Si vous êtes énervé, le thé vous calmera. »
+</p>
 
 ---
 
@@ -86,47 +90,43 @@ title: Dame de Thé
 
 **« Si vos deux voisins vivants sont bons, ils ne peuvent pas mourir. »**
 
-La **Dame de Thé** protège ses voisins de la mort… **tant qu’ils sont tous deux bons**.
+**LA TISANIÈRE** protège ses voisins de la mort... tant qu’ils sont bons.
 
-- Si **les deux voisins vivants** de la Dame de Thé sont **actuellement bons**, ces voisins **ne peuvent pas mourir**.  
-  Le [<span style="color:red">Démon</span>](../demons.md) ne peut pas les tuer, ni le [<span style="color:red">Parrain</span>](parrain.md), ni la [<span style="color:blue">Commère</span>](commere.md).  
-  Même exécutés, ils **restent en vie**.  
-  La seule exception est l’[<span style="color:red">Assassin</span>](assassin.md), qui peut tuer malgré cette protection.  
+- Si les deux voisins de la Tisanière sont actuellement bons, alors ces voisins ne peuvent pas mourir.<br>  Ni le [<span style="color:red">Démon</span>](../demons.md), ni le [<span style="color:red">Parrain</span>](parrain.md), ni la [<span style="color:blue">Commère</span>](commere.md) ne peuvent les tuer.<br>  S’ils sont exécutés, ils ne meurent pas.<br>  La seule exception est l' [<span style="color:red">Assassin</span>](assassin.md), qui peut tuer quelqu’un protégé de la mort.
 
-- Les **voisins vivants** sont les **deux joueurs vivants les plus proches** de la Dame de Thé — un dans le sens horaire, un dans le sens antihoraire (en sautant les morts).  
+- Les voisins en vie de la Tisanière sont les deux joueurs en vie les plus proches de la Tisanière : un dans le sens horaire, l’autre dans le sens antihoraire. Ignorez les voisins morts.
 
-- Si **l’un des voisins vivants** (ou les deux) est [<span style="color:red">maléfique</span>](../sbires.md), la Dame de Thé **ne protège aucun** de ses voisins.  
-  Si un joueur maléfique meurt et qu’elle se retrouve avec deux voisins bons, la protection s’active alors.
+- Toutefois, si l’un des deux voisins en vie est maléfique, ou si les deux le sont, alors la Tisanière ne protège plus ses voisins en vie. Si un joueur maléfique meurt et que la Tisanière se retrouve avec deux voisins bons, alors aucun d’entre eux ne peut mourir.
 
 ---
 
 ##  <span style="color:blue">Comment Conter</span>
 
-- Si **les deux voisins vivants** de la Dame de Thé sont **bons**, placez les jetons de rappel **NE PEUT PAS MOURIR** à côté de leurs rôles.  
-- Si l’un d’eux devient [<span style="color:red">maléfique</span>](../sbires.md), retirez ces jetons.  
-- Mettez à jour ces rappels **immédiatement** si l’alignement ou la vie d’un joueur change.  
+**instruction au Conteur**
 
- - Si un joueur marqué **NE PEUT PAS MOURIR** devait mourir, il **reste en vie**.  
- - S’il est exécuté, annoncez qu’il est exécuté **mais qu’il reste en vie** (sans dire pourquoi).  
+- Si les deux voisins en vie de la Tisanière sont bons, marquez les jetons de rôle de ces voisins des jetons **NE PEUT PAS MOURIR** de la Tisanière.<br> Si l’un ou l’autre des voisins en vie de la Tisanière est maléfique, retirez ces jetons. Vous devez ajuster les jetons en temps réel selon ce qui se passe en jeu <br>- par exemple si l’alignement d’un joueur change).
+
+- Si un joueur marqué **NE PEUT PAS MOURIR** doit mourir, il reste en vie.<br> Si un joueur marqué **NE PEUT PAS MOURIR** est exécuté, annoncez que le joueur marqué est exécuté mais reste en vie. (Ne dites pas pourquoi.)
 
 ---
 
 ##  <span style="color:blue">Exemples</span>  
 
-- La Dame de Thé commence la partie entre le [<span style="color:red">Conspirateur</span>](cerveau.md) et la [Brute](brute.md) d'alignement bon.  
-  Le le [<span style="color:red">Conspirateur</span>](cerveau.md) est exécuté et meurt.  
-  Ses nouveaux voisins sont maintenant la [Brute](brute.md) (toujours d'alignement bon) et le [Courtisan](courtisan.md).  
-  Le [<span style="color:red">Démon</span>](../demons.md) attaque le [Courtisan](courtisan.md), mais celui-ci **reste en vie**.  
-  Plus tard, la [Brute](brute.md) devient [<span style="color:red">maléfique</span>](../sbires.md) : le Démon attaque à nouveau le Courtisan — cette fois, **il meurt**.  
+- La Tisanière commence la partie entre le [<span style="color:red">Conspirateur</span>](cerveau.md) et le [Gros bras](brute.md) d'alignement bon.  
+  Le [<span style="color:red">Conspirateur</span>](cerveau.md) est exécuté et meurt.  
+  À présent, les voisins en vie de la **Tisanière** sont le [Gros bras](brute.md) *(toujours d'alignement bon)* et le [Courtisan](courtisan.md).  
+  Le [<span style="color:red">Démon</span>](../demons.md) attaque à nouveau le [Courtisan](courtisan.md), mais le [Courtisan](courtisan.md) **reste en vie**.  
+  Plus tard, le [Gros bras](brute.md) devient [<span style="color:red">maléfique</span>](../sbires.md).
+  Le Démon attaque à nouveau le [Courtisan](courtisan.md). Cette fois, le [Courtisan](courtisan.md) meurt.  
 
-- Les voisins vivants de la Dame de Thé sont la [<span style="color:#9b59b6">Matrone</span>](matrone.md) et le [<span style="color:#9b59b6">Juge</span>](../voyageurs/judge.md), tous deux bons.  
-  La  [<span style="color:#9b59b6">Matrone</span>](matrone.md) est exilée mais **reste en vie**.  
+- Les voisins en vie de la Tisanière sont une [<span style="color:#9b59b6">Matrone</span>](matrone.md) et un [<span style="color:#9b59b6">Juge</span>](../voyageurs/judge.md), ils sont tous les deux bons.  
+  La [<span style="color:#9b59b6">Matrone</span>](matrone.md) est exilée mais **reste en vie**.  
 
 ---
 
 ##  <span style="color:blue">Astuces & Stratégie</span>   
 
-La **Dame de Thé** est une **protectrice puissante**, mais **vulnérable** elle-même.  
+La **Tisanière** est une **protectrice puissante**, mais **vulnérable** elle-même.  
 Savoir **quand se révéler** est crucial pour orienter la partie.  
 
 ###  <span style="color:blue">Se révéler tôt ou tard ?</span>   
@@ -149,7 +149,7 @@ Exécutez vos voisins :
 S’ils sont tous deux bons, **ils ne mourront pas**.  
 C’est le moyen le plus rapide de prouver votre capacité.  
 
-> ⚠️ Évitez de tester sur des joueurs déjà protégés par leur capacité, comme le [Marin](marin.md) ou le [Fou](fou.md), cela brouille les résultats.  
+> ⚠️ Évitez de tester sur des joueurs déjà protégés par leur capacité, comme le [Marin](marin.md) ou le [Fou du roi](fou.md), cela brouille les résultats.  
 > Méfiez-vous aussi de l’[<span style="color:red">Avocat du Diable</span>](avocatdudiable.md), qui peut donner une fausse impression de protection,  
 > et du [Pacifiste](pacifiste.md), dont la capacité peut rendre les exécutions ambiguës.  
 
@@ -184,12 +184,12 @@ Mais plus la partie avance, plus il est probable que **l’un d’eux soit malé
 
 ---
 
-##  <span style="color:blue">Bluffer Dame de Thé</span>    
+##  <span style="color:blue">Bluffer la Tisanière</span>    
 
-Le **bluff de la Dame de Thé** est **crédible** et **facile à maintenir** : il donne une excuse pour des exécutions “sans morts”.  
+Le **bluff de la Tisanière** est **crédible** et **facile à maintenir** : il donne une excuse pour des exécutions “sans morts”.  
 
 - Si vos voisins sont bons, poussez à les exécuter :  
-  le groupe croira que vous êtes la Dame de Thé et leur survie semblera prouver leur bonté.  
+  le groupe croira que vous êtes la Tisanièreet leur survie semblera prouver leur bonté.  
 
 - Si vos voisins sont maléfiques, **défendez-les** activement :  
   vous paraîtrez bienveillante et serez crue.  
