@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Menestrel
+description: "Lorsqu’un Sbire meurt par exécution, tous les autres joueurs (sauf les Voyageurs) sont ivres jusqu’au crépuscule du lendemain."
+image: /images/Icon_minstrel.png
 ---
 
 <p align="left">
@@ -49,11 +51,11 @@ title: Menestrel
     </a>
   </li>
 </ul>
-  
-> *"Et j’entendrai, même si tu marches doucement au-dessus de moi...  
-> Et tous mes rêves seront plus doux et plus chauds...  
-> Si tu ne manques pas de me dire que tu m’aimes...  
-> Je dormirai simplement en paix jusqu’à ton retour."*  
+
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« File la laine, File la laine, de mes moutons dondaine.<br> 
+Cousez mitaines, cousez mitaines, pour de belles capitaines. »
+</p>
 
 ---
 
@@ -84,44 +86,40 @@ title: Menestrel
 
 ##  <span style="color:blue">Résumé</span>  
 
-**« Lorsqu’un [<span style="color:red">Sbire</span>](../sbires.md) meurt par exécution, tous les autres joueurs (sauf les [<span style="color:#9b59b6">Voyageurs</span>](../voyageurs/voyageurs.md)) deviennent ivres jusqu’au crépuscule du lendemain. »**
+**Lorsqu’un Sbire meurt par exécution, tous les autres joueurs (sauf les Voyageurs) sont ivres jusqu’au crépuscule du lendemain.**
 
-Le **Ménestrel** rend tout le monde ivre lorsqu’un [<span style="color:red">Sbire</span>](../sbires.md) meurt **par exécution**.
+**LE MÉNESTREL** enivre tout le monde si un Sbire meurt.
 
-- Si un [<span style="color:red">Sbire</span>](../sbires.md) est exécuté **et meurt**, tous les joueurs, sauf ( le Ménestrel et les [<span style="color:#9b59b6">Voyageurs</span>](../voyageurs/voyageurs.md) ) deviennent immédiatement **ivres** pour **toute la nuit suivante et la journée suivante**.  
-- Cela inclut les [Villageois](../villageois.md), [Marginaux](../etrangers.md), [<span style="color:red">Sbires</span>](../sbires.md), et même les [<span style="color:red">Démons</span>](../demons.md).  
-- Les [<span style="color:#9b59b6">Voyageurs</span>](../voyageurs/voyageurs.md) ne sont **pas affectés**.  
-- Si le [<span style="color:red">Sbire</span>](../sbires.md) meurt pendant la nuit, **l’effet ne se déclenche pas**.  
+- Si un [<span style="color:red">Sbire</span>](../sbires.md) meurt par exécution, tous les joueurs (sauf le Ménestrel) deviennent immédiatement ivres<br> - et le restent toute la nuit, et toute la journée du lendemain. Les [Villageois](../villageois.md), les [Marginaux](../etrangers.md), les [<span style="color:red">Sbires</span>](../sbires.md) et même les [<span style="color:red">Démons</span>](../demons.md) deviennent ivres.<br> Seuls les [<span style="color:#9b59b6">Voyageurs</span>](../voyageurs/voyageurs.md)) y échappent. Cet effet ne survient pas si le Sbire meurt pendant la nuit.
 
-> ⚠️ Si le Ménestrel est ivre ou empoisonné quand un [<span style="color:red">Sbire</span>](../sbires.md) meurt par exécution, sa capacité **ne se déclenche pas**.  
-
+- Si un Sbire mort est exécuté, la capacité du Ménestrel ne se déclenche pas.<br> Un rôle mort ne peut pas mourir à nouveau.<br>  Si un Sbire est exécuté, mais ne meurt pas, la capacité du Ménestrel ne se déclenche pas.<br> Si le Ménestrel est ivre ou empoisonné lorsqu’un Sbire meurt par exécution, la capacité du Ménestrel ne se déclenche pas.
+  
 ---
 
 ##  <span style="color:blue">Comment Conter</span>  
 
-Pendant la journée, si un [<span style="color:red">Sbire</span>](../sbires.md) meurt par exécution :  
+**Instruction au Conteur**
 
- Tous les autres joueurs sauf les [<span style="color:#9b59b6">Voyageurs</span>](../voyageurs/voyageurs.md) deviennent **ivres**.  
-Placez le jeton de rappel **« TOUT LE MONDE EST IVRE »** au centre du Grimoire.  
-
- Au **crépuscule du lendemain**, tous les joueurs affectés redeviennent **sobres** — retirez le jeton.  
+- Pendant la journée, si un Sbire meurt par exécution, tous les autres joueurs, à l’exception des Voyageurs, deviennent ivres. <br> Placez le jeton **TOUT LE MONDE EST IVRE** du Ménestrel au milieu de la partie gauche du Grimoire.<br>  Le lendemain, au crépuscule, tous les joueurs enivrés par le Ménestrel deviennent sobres — retirez le jeton **TOUT LE MONDE EST IVRE**. 
 
 ---
 
 ##  <span style="color:blue">Exemples</span>  
 
-- **Premier jour :** le [Pacifiste](pacifiste.md) meurt. Rien ne se passe.  
-  **Deuxième jour :** le [<span style="color:#9b59b6">Juge</span>](../voyageurs/judge.md) fait exécuter le [<span style="color:red">Parrain</span>](parrain.md). Cette nuit-là, tout le monde est ivre, y compris le [<span style="color:red">Démon</span>](../demons.md), donc personne ne meurt.  
-  **Troisième jour :** un [<span style="color:red">Sbire</span>](../sbires.md) protégé par l’[<span style="color:red">Avocat du Diable</span>](avocatdudiable.md) est exécuté et meurt, car l’Avocat du Diable est ivre. Le Ménestrel rend à nouveau tout le monde ivre.  
+- Lors du remier jour, le [Pacifiste](pacifiste.md) meurt. Rien ne se passe, cette nuit-là, les joueurs agissent normalement<br> - car le [Pacifiste](pacifiste.md) n’est pas un Sbire.
+ 
+- Lors du deuxième jour, le [<span style="color:#9b59b6">Juge</span>](../voyageurs/judge.md) fait exécuter le [<span style="color:red">Parrain</span>](parrain.md). Cette nuit-là, tout le monde est ivre, y compris le [<span style="color:red">Démon</span>](../demons.md), donc personne ne meurt.  
+  
+- Lors du troisième jour, un [<span style="color:red">Sbire</span>](../sbires.md) protégé par l’[<span style="color:red">Avocat du Diable</span>](avocatdudiable.md) est exécuté et meurt, car l’[<span style="color:red">Avocat du Diable</span>] est ivre.<br> Une fois encore, comme un Sbire est mort pendant la journée, le Ménestrel enivre tout le monde.
 
-- L’[<span style="color:red">Assassin</span>](assassin.md) est exécuté : tout le monde devient ivre.  
-  Le lendemain, le [<span style="color:red">Parrain</span>](parrain.md) est exécuté : tout le monde redevient ivre.  
-  Le [<span style="color:red">Démon</span>](../demons.md) ne tue personne ces deux nuits.  
-  Le jour suivant, l'[<span style="color:#9b59b6">Apprenti</span>](../voyageurs/apprentice.md) maléfique [<span style="color:red">Conspirateur</span>](cerveau.md) est exilé : tout le monde redevient sobre, car un exil de [<span style="color:#9b59b6">Voyageur</span>](../voyageurs/voyageurs.md) ne déclenche pas la capacité du Ménestrel.  
+- L’[<span style="color:red">Assassin</span>](assassin.md) est exécuté donc le Ménestrel enivre tout le monde.  
+  Le lendemain, le [<span style="color:red">Parrain</span>](parrain.md) est exécuté.<br> À nouveau, le Ménestrel enivre tout le monde. Le Démon n’a pu tuer lors d’aucune des deux nuits. 
+- Le jour suivant, l'[<span style="color:#9b59b6">Apprenti</span>](../voyageurs/apprentice.md) Voyageur maléfique avec la capacité du [<span style="color:red">Conspirateur</span>](cerveau.md) est exilé, tout le monde redevient sobre, car un exil de [<span style="color:#9b59b6">Voyageur</span>](../voyageurs/voyageurs.md) ne déclenche pas la capacité du Ménestrel.  
 
-- En journée, l’[<span style="color:red">Assassin</span>](assassin.md) meurt : tout le monde devient ivre.  
-  Le jour suivant, le [<span style="color:red">Zombuul</span>](zombuul.md) est exécuté et meurt pour la première fois.  
-  Le Bien gagne, car le Zombuul est ivre et n’a plus de capacité.  
+- Pedant la journée, l’[<span style="color:red">Assassin</span>](assassin.md) meurt, donc le Ménestrel enivre tout le monde. 
+Le lendemain, le [<span style="color:red">Zombuul</span>](zombuul.md) est exécuté et meurt pour la première fois.  
+Le Bien gagne, car le [<span style="color:red">Zombuul</span>](zombuul.md) est ivre et n’a donc aucune capacité.
+
 
 ---
 
@@ -182,7 +180,7 @@ Le **Ménestrel** est un **excellent bluff passif** : facile à maintenir, créd
     est morte par exécution aujourd’hui,  
     elle conserve sa capacité, mais le <a href="../bmr_roles/menestrel.html"
     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ménestrel</a>  
-    peut apprendre qu’elle est la Légion.
+    pourrait apprendre qu’elle est une Légion.
   </li>
 
 </ul>
