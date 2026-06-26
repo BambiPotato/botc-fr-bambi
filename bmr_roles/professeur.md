@@ -112,7 +112,7 @@ Si un tel Villageois avait une capacité unique de première nuit ou une capacit
 
 - Chaque nuit, sauf la première, réveillez le Professeur.<br> Le Professeur fait non de la tête ou désigne un joueur mort.<br> Le Professeur se rendort.
 
-- Si le Professeur choisit un [<span style="color:blue">Villageois</span>](../villageois.md) mort,<br> le joueur choisi devient en vie — marquez-le du jeton **EN VIE** du Professeur et retirez son linceul. (Il se réveille plus tard cette nuit-là, s’il doit se réveiller.<br> S’il ne se réveille que la première nuit, il se réveille immédiatement pour utiliser sa capacité.) 
+- Si le Professeur choisit un [<span style="color:blue">Villageois</span>](../villageois.md) mort, le joueur choisi devient en vie <br> — marquez-le du jeton **EN VIE** du Professeur et retirez son linceul. (Il se réveille plus tard cette nuit-là, s’il doit se réveiller.<br> S’il ne se réveille que la première nuit, il se réveille immédiatement pour utiliser sa capacité.) 
 
 - À l’aube, après avoir annoncé quels joueurs sont morts, déclarez quel joueur est à nouveau en vie. *(Ne dites pas pourquoi.)*<br>  Le Professeur perd sa capacité — marquez-le du jeton **SANS CAPACITÉ** et retirez son jeton de nuit de la fiche de nuit.
 
