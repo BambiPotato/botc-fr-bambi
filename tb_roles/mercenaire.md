@@ -168,8 +168,8 @@ image: /images/Icon_slayer.png
   <li>
     🧞
     <img src="../images/Icon_lleech.png" alt="Lleech" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/lleech.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sangsue</a> :  
-    Si la Pourfendeuse tue l’hôte de la Sangsue, l’hôte meurt.
+    <a href="../roles_experimentaux/lleech.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parasyte</a> :  
+    Si la Pourfendeuse tue l’hôte du Parasyte, l’hôte meurt.
   </li>
   </ul>
   
