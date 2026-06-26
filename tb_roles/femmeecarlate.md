@@ -196,7 +196,7 @@ Dans **TROUBLE BREWING**, il n'y a qu'un seul Démon : le [<span style="color:re
 <li>
   🧞
     <img src="../images/Icon_lilmonsta.png" alt="P'tit Monstre" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/lilmonsta.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">P'tit Monstre</a> :  
+    <a href="../roles_experimentaux/lilmonsta.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Timonstre</a> :  
     Si le Timonstre meurt alors qu'il reste 5 joueurs ou plus, la Femme Écarlate garde le Timonstre jusqu'à la fin de la partie.
   </li>
    
