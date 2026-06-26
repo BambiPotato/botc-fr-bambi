@@ -125,7 +125,7 @@ sans tenir compte du vote de son Maître car les exils ne tiennent pas compte de
 
 - Une nomination est en cours. Le Majordome et son Maître ont tous deux levé la main pour voter.<br>  Alors que le Conteur compte les votes, le Maître baisse la main à la dernière seconde.<br>  Le Majordome doit immédiatement baisser la main.
 
- -Le Majordome est mort. Comme les joueurs morts n'ont plus aucune capacité, il peut voter avec son jeton Vote à tout moment.
+- Le Majordome est mort. Comme les joueurs morts n'ont plus aucune capacité, il peut voter avec son jeton **Vote** à tout moment.
 
 ---
 
