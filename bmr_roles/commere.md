@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Commère
-description: "Chaque jour, vous pouvez faire une déclaration publique. Cette nuit, si c'était vrai, un joueur meurt."
+description: "Chaque jour, vous pouvez faire une annonce publiquement. Cette nuit, si votre annonce était vraie, un joueur meurt."
 image: /images/Icon_gossip.png
 ---
 
@@ -52,7 +52,12 @@ image: /images/Icon_gossip.png
   </li>
 </ul>   
 
-> *« Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah. »*
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Bla bla bla bla bla bla bla bla bla bla<br> 
+bla bla bla bla bla bla bla bla bla bla bla<br> 
+bla bla bla bla. Bla.»
+</p>
+
 
 ---
 
@@ -82,23 +87,29 @@ image: /images/Icon_gossip.png
 
 ##  <span style="color:blue">Résumé</span>   
 
-**« Chaque jour, vous pouvez faire une déclaration publique. Cette nuit, si c'était vrai, un joueur meurt. »**  
+**« Chaque jour, vous pouvez faire une annonce publiquement. Cette nuit, si votre annonce était vraie, un joueur meurt. »**  
 
-La **Commère** sème des rumeurs : si elles sont vraies, elles coûtent la vie à quelqu’un.  
+**LA COMMÈRE** prêche le faux pour savoir le vrai.
 
-- Chaque jour, elle peut faire une **déclaration publique**.  
-- Si cette déclaration est **vraie**, le Conteur tue un joueur pendant la nuit.  
-- Si elle est **fausse**, aucun joueur ne meurt à cause de la Commère.  
-- Le Conteur et les autres joueurs doivent entendre et comprendre clairement la déclaration pour qu’elle soit valide.  
-- Si elle était ivre ou empoisonnée quand elle a parlé, mais qu’elle est sobre quand son pouvoir son pouvoir se déclenche cette nuit-là, le Conteur tue quand même un joueur.  
+- Chaque jour, la Commère peut faire une annonce publique.
+ - Si cette annonce est vraie, le Conteur tue un joueur cette nuit-là.
+ - Si elle est fausse, aucun joueur ne meurt à cause de la Commère.
+
+- Les messes basses, les murmures, les annonces que le Conteur ne peut pas vérifier et les annonces qui ne sont pas audibles de tous, ne comptent pas. 
+
+- Comme pour la [Pourfendeuse](../tb_roles/mercenaire.md), le Conteur et tous les joueurs doivent être capables d’entendre et de comprendre la Commère,<br>  et être conscients du fait qu’elle utilise sa capacité, pour que le Conteur puisse prendre une décision sur les suites à donner.
+
+- Si la Commère a fait une annonce publique vraie alors qu’elle était ivre ou empoisonnée, <br> mais qu’elle est sobre et saine lorsque sa capacité se déclenche cette nuit-là, le Conteur tue un joueur.
 
 ---
 
 ##  <span style="color:blue">Comment Conter</span>    
 
+**Instruction au Conteur**
+
 - Chaque jour, si la Commère fait une **déclaration claire et vérifiable**, notez-le.  
 - Chaque nuit (sauf la première), si la déclaration était **vraie**, le Conteur choisit un joueur et le tue.  
-- Si possible, choisissez un joueur dont la mort sera visible et utile et et non un rôle protégé par un pouvoir comme le [Fou](fou.md) ou la [Dame de Thé](damedethe.md).  
+- Si possible, choisissez un joueur dont la mort sera visible et utile et et non un rôle protégé par un pouvoir comme le [Fou du Roi](fou.md) ou la [Tisanière](damedethe.md).  
 - La Commère acquiert des connaissances lorsque ses commérages entraînent une mort. C'est plus avantageux pour l'équipe du Bien et plus amusant pour tous.
 
 ---
