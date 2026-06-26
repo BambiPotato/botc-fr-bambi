@@ -53,9 +53,9 @@ image: /images/Icon_innkeeper.png
 </ul>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-> « Entrez, voyageur, et reposez-vous au coin du feu.<br>
-> Buvez et chassez vos soucis, car les légions de l’Obscur.<br>
-> ne viendront pas vous troubler cette nuit.»
+« Entrez, voyageur, et reposez-vous au coin du feu.<br>
+  Buvez et chassez vos soucis, car les légions de l’Obscur.<br>
+  ne viendront pas vous troubler cette nuit.»
 </p>
 
 
