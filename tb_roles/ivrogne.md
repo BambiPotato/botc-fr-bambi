@@ -149,11 +149,8 @@ image: /images/Icon_drunk-1.png
     <a href="./empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>.
   </li>
   <li>
-    La
-    <a href="./voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a><br>
-    est exécutée. Cette nuit-là, l’<a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>, qui pense être le
-    <a href="./croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a>,<br>
-    apprend que l’<a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> est mort aujourd’hui.
+    La <a href="./voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> est exécutée.<br> Cette nuit-là, l’<a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>, qui pense être le
+    <a href="./croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a>, apprend que l’<a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> est mort aujourd’hui.
   </li>
 </ul>
 
@@ -190,8 +187,7 @@ image: /images/Icon_drunk-1.png
   <li>
     Des rôles comme le
     <a href="./croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a>
-    et le
-    <a href="./gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a><br>
+    et la <a href="./gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a><br>
     verront le rôle <a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> lorsqu’ils vérifient ce joueur.<br>
     Vous ne “comptez” pas comme un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> :<br>
     vous pensez juste l’être.<br>
