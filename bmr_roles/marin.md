@@ -52,11 +52,12 @@ image: /images/Icon_sailor.png
   </li>
 </ul>
 
-
-> *« « Je couche tout le monde ici ! Vous ! Le beau parleur, là.!<br> 
-> Z’êtes de taille à descendre une pinte ? Non ? Et vous, mamie ?<br> 
-> Z’avez déjà goûté le rhum épicé du vieux McKilly ?<br> 
-> Ça vous donne du cœur au ventre, allez ! À l’abordage, la vieille ! »»*
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« « Je couche tout le monde ici ! Vous ! Le beau parleur, là.!<br> 
+Z’êtes de taille à descendre une pinte ? Non ? Et vous, mamie ?<br> 
+Z’avez déjà goûté le rhum épicé du vieux McKilly ?<br> 
+Ça vous donne du cœur au ventre, allez ! À l’abordage, la vieille ! »»
+</p>
 
 ---
 
@@ -104,7 +105,9 @@ image: /images/Icon_sailor.png
 
 ---
 
-##  <span style="color:blue">Comment Conter</span>   
+##  <span style="color:blue">Comment Conter</span> 
+
+**Instruction au Conteur**
 
 - Chaque nuit, réveillez le Marin.  
 - Il pointe un joueur vivant. Endormez-le.  
@@ -113,7 +116,10 @@ image: /images/Icon_sailor.png
   - Si c’est un [Marginal](../etrangers.md), un [<span style="color:red">Sbire</span>](../sbires.md) ou un [<span style="color:red">Démon</span>](../demons.md) → le Marin devient ivre.  
 - Si le Marin sobre devait mourir, le Marin reste en vie. 
 - Si le Marin sobre est exécuté, annoncez que ce joueur est exécuté mais reste en vie. (Ne dites pas pourquoi.)
+
+
 ---
+
 
 ##  <span style="color:blue">Exemples</span>  
 
