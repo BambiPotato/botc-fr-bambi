@@ -51,7 +51,7 @@ image: /images/Icon_soldier.png
   </li>
 </ul>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
 « Comme David a dit à Goliath, <br>
 comme Thésée a dit au Minotaure, <br>
 comme Arjuna a dit à Bhagadatta... <br>
@@ -90,20 +90,24 @@ Non. »
 
 **«Vous êtes protégé du Démon.»**  
 
-Le Soldat ne peut pas être tué par le Démon.
+**LE SOLDAT** ne peut pas être tué par le Démon.
 
-- Le Soldat ne peut pas mourir de la capacité du Démon.<br>  Ainsi, si le Démon attaque le Soldat la nuit, rien ne se passe. Personne ne meurt. 
-- Le Démon ne peut pas choisir un autre joueur pour l'attaquer.
-- Le Soldat peut toujours mourir par exécution, même si le nominateur est le Démon. 
-- Le Soldat est protégé de la capacité meurtrière du Démon, et non des actions du joueur qui est le Démon.
+- Le Soldat ne peut pas mourir à cause de la capacité du Démon.
+  - Si le Diablotin attaque le Soldat la nuit, rien ne se passe.
+  - Personne ne meurt. Le Diablotin n’a pas le droit de choisir d’attaquer un autre joueur à la place.
 
+- La capacité du Soldat ne le protège pas de l’accusation d’un Démon, ni de l’éventuelle exécution qu’elle entraîne. 
+  - Le Soldat est protégé de la capacité du Démon, mais pas des actions du joueur Démon.
 
 ---
+
+
 ##  <span style="color:blue">Comment Conter</span>
 
 Pendant la nuit, si le Démon attaque le Soldat, celui-ci reste en vie.<br>  (À l'aube, déclarez que personne n'est mort cette nuit.)
-- Dans d'autres modules, les Démons peuvent avoir d'autres capacités que celle de tuer. 
-- Le Soldat est également protégé contre tous les autres effets néfastes de la capacité du Démon, tels que l'empoisonnement ou le changement en joueur maléfique.
+
+- *Dans d'autres modules, les Démons peuvent avoir d'autres capacités que celle de tuer.* 
+- *Le Soldat est également protégé contre tous les autres effets néfastes de la capacité du Démon, tels que l'empoisonnement ou la conversion en joueur maléfique.*
 
 ---
 
@@ -120,6 +124,7 @@ Pendant la nuit, si le Démon attaque le Soldat, celui-ci reste en vie.<br>  (À
 - Si vous survivez à une attaque du Démon, la nuit se solde par **aucune mort** :le groupe a plus de temps pour exécuter et cela appuie votre rôle.  
 - Vous ne saurez jamais avec certitude si vous avez été attaqué. Un [Moine](moine.md) peut avoir protégé quelqu’un, ou le Démon peut avoir ciblé un joueur déjà mort.  
 - Faites semblant d’être une cible intéressante pour le Démon : bluffez [Voyante](voyante.md), [Fossoyeur](croque-mort.md), [Empathe](empathique.md) ou [Pourfendeuse](mercenaire.md) pour l’inciter à vous attaquer.  
+
 - Si vous prouvez être le Soldat, le groupe peut réduire les suspects à la fin de partie (de 3 ou 4 joueurs à seulement 2 ou 3).  
 - Ne révélez pas trop vite votre rôle. Attendez que l’absence de mort vous appuie.  
 - Si vous mourez la nuit, c’est soit que vous êtes empoisonné, soit que vous êtes l’Ivrogne → informations précieuses pour l’équipe des Bons.  
@@ -132,6 +137,7 @@ Pendant la nuit, si le Démon attaque le Soldat, celui-ci reste en vie.<br>  (À
 - Le Soldat **ne se réveille jamais la nuit** et ne reçoit jamais d’info → c’est un bluff facile.  
 - Vous pouvez justifier votre survie prolongée par ce rôle. Mais attention : comme vous n’apportez aucune info, les autres peuvent se méfier.  
 - Restez discret quelques jours pour paraître crédible comme cible du Démon.  
+
 - Vous (ou votre Démon) pouvez attaquer un joueur déjà mort → cela simule une non-mort et crédibilise votre bluff.  
 - D’autres rôles bons bluffent souvent Soldat pour éviter d’être tués : vous pouvez révéler que vous êtes le “vrai” Soldat pour les protéger et gagner leur confiance.  
 - Si vous mourez malgré tout, ayez une explication (empoisonné, Ivrogne…).  
@@ -151,8 +157,8 @@ Pendant la nuit, si le Démon attaque le Soldat, celui-ci reste en vie.<br>  (À
   <li>
     🧞
     <img src="../images/Icon_riot.png" alt="Riot" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> :  
-    Si le Riot nomme et exécute le Soldat, le bien triomphe.
+    <a href="../roles_experimentaux/riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Émeute</a> :  
+    Si l'Émeute nomme et exécute le Soldat, le bien triomphe.
   </li>  
   </ul>
 
