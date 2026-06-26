@@ -313,14 +313,9 @@ image: /images/Icon_drunk-1.png
 
 <hr>
 
-<ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin:0 0 12px 40px; padding-left:0;">
-  <li style="margin:4px 0;">
-    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a>
-  </li>
-  <li style="margin:4px 0;">
-    <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a>
-  </li>
-  <li style="margin:4px 0;">
-    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Marginaux</a>
-  </li>
+<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li> <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li> <a href="../etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Marginaux</a></li>
 </ul>
+
