@@ -135,7 +135,7 @@ Sa capacité dépend du **jugement du Conteur**, donc sa **discrétion** et sa *
 ###  <span style="color:blue">Quand se révéler ?</span>    
 
 - Attendez un **sauvetage visible** : si un joueur survit à une exécution, c’est votre moment pour parler.  
-- Si vous vous révélez avant, vous risquez de semer la confusion avec d’autres rôles protecteurs (comme le [Marin](marin.md), le [Fou](fou.md) ou la [Tisanière](damedethe.md)).  
+- Si vous vous révélez avant, vous risquez de semer la confusion avec d’autres rôles protecteurs (comme le [Marin](marin.md), le [Fou du roi](fou.md) ou la [Tisanière](damedethe.md)).  
 
 ###  <span style="color:blue">Attention aux confusions</span>  
 
