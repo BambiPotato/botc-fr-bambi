@@ -72,6 +72,7 @@ pour préparer des potions bizarres, comme vous l’avez dit, Madame. »
 
 ---
 
+
 <div style="text-align:center; margin: 20px 0;">
   <a href="../bmr.html" style="text-decoration:none;">
     <img src="../images/Logo_bad_moon_rising-1.png" alt= "Bad Moon Rising" width="400" style="border-radius:12px;">
