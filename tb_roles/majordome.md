@@ -96,7 +96,7 @@ image: /images/Icon_butler.png
 
 - Le Conteur n’a pas à surveiller le Majordome. Le Majordome doit impérativement s’appliquer au respect de la règle.<br>  Y contrevenir sciemment serait tricher.
 
-- Le Majordome peut librement voter (ou non) pour exiler un <a href="../voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a>
+- Le Majordome peut librement voter (ou non) pour exiler un <a href="../voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>
 sans tenir compte du vote de son Maître car les exils ne tiennent pas compte des capacités.
 
 - Les joueurs morts peuvent lever la main pour voter uniquement s’ils ont un jeton Vote. Si le Majordome choisit un joueur mort comme Maître, la règle continue de s’appliquer.
