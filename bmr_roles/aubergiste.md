@@ -106,7 +106,9 @@ Un Aubergiste qui se choisit lui-même pourrait devenir ivre, auquel cas il n’
 
 ---
 
-##  <span style="color:blue">Comment Conter</span>   
+##  <span style="color:blue">Comment Conter</span> 
+
+**Instruction au Conteur**
 
 - Chaque nuit, *(sauf la première)*, réveillez l’Aubergiste.  
 - Il choisit deux joueurs au hasard.
