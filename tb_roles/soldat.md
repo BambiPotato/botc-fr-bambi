@@ -114,7 +114,7 @@ Pendant la nuit, si le Démon attaque le Soldat, celui-ci reste en vie.<br>  (À
 ##  <span style="color:blue">Exemples</span>
 
 - Le [<span style="color:red">Diablotin</span>](imp.md)  attaque le Soldat → le Soldat survit, personne ne meurt cette nuit-là.  
-- Le [<span style="color:red">Empoisonneur</span>](../tb_roles/empoisonneur.md) empoisonne le Soldat, puis le [<span style="color:red">Diablotin</span>](imp.md) l’attaque → le Soldat meurt, car il n’a plus sa capacité.  
+- L' [<span style="color:red">Empoisonneur</span>](../tb_roles/empoisonneur.md) empoisonne le Soldat, puis le [<span style="color:red">Diablotin</span>](imp.md) l’attaque → le Soldat meurt, car il n’a plus sa capacité.  
 - Le [<span style="color:red">Diablotin</span>](imp.md) attaque le Soldat, mais le Soldat est en réalité l’[Ivrogne](ivrogne.md) → il meurt.  
 
 ---
