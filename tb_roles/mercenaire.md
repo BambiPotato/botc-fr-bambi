@@ -51,9 +51,10 @@ image: /images/Icon_slayer.png
   </li>
 </ul>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
 « Meurs ! »
 </p> 
+
 
 ---
 
