@@ -86,6 +86,8 @@ pour préparer des potions bizarres, comme vous l’avez dit, Madame. »
 </p>
 
 
+---
+
 
 ##  <span style="color:blue">Résumé</span>   
 
