@@ -50,7 +50,7 @@ image: /images/Icon_drunk-1.png
 </ul>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Je bois pour oublier, et ça fonctionne. <em>*hic*</em>.<br>  J’ai oublié qui je suis.... »
+  « Je bois pour oublier, et ça fonctionne. <em>*hic*</em>.<br> J’ai oublié qui je suis.... »
 </p>
 
 <hr>
@@ -76,7 +76,7 @@ image: /images/Icon_drunk-1.png
 <h3 style="color:#4ea3ff; font-weight:bold;"> Résumé</h3>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
-  <strong>« Vous ne savez pas que vous êtes l’Ivrogne.</a> Vous pensez que vous êtes un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>. »</strong>
+  <strong>« Vous ne savez pas que vous êtes l’Ivrogne. Vous pensez que vous êtes un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>. »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
@@ -270,7 +270,7 @@ image: /images/Icon_drunk-1.png
     qui affirme qu’un <a href="./empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> mort était bien <a href="./empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>).
   </li>
   <li>
-    Convaincre le groupe qu’un <a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> est en jeu est beaucoup plus facile si le nombre de<a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a> revendiqués publiquement colle avec votre histoire.<br>
+    Convaincre le groupe qu’un <a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> est en jeu est beaucoup plus facile si le nombre de <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a> revendiqués publiquement colle avec votre histoire.<br>
     Si un joueur <span style="color:#d45b5b; font-weight:bold;">maléfique</span> bluffe aussi un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a>, cela rend “crédible” l’idée qu’un <a href="./baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> est en jeu.
   </li>
   <li>
