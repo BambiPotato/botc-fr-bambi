@@ -32,7 +32,7 @@ image: /images/Icon_recluse-1.png
   <li>
     <strong>Type :</strong>
     <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
-      Marginaux
+      Marginal
     </a>
   </li>
 
