@@ -74,7 +74,7 @@ image: /images/Icon_spy.png
   </li>
 </ul>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
 « Un agent double ? <br>
 Je ne sers qu’une seule cause. <br>
 Mais saurez-vous laquelle ? »
@@ -87,10 +87,16 @@ Mais saurez-vous laquelle ? »
 **« Chaque nuit, vous voyez le Grimoire. Vous pourriez apparaître comme bonne et comme Villageois ou Marginal, même morte. »**
 
 **L’ESPIONNE** connaît tous les rôles. Elle-même apparaît comme bonne, mais le joueur est maléfique.
-- L’Espionne est un **Sbire maléfique**, mais elle peut **s’enregistrer comme Bonne** comme Villageois ou Marginale quand une capacité cherche à détecter son alignement.  
-- Elle a accès **chaque nuit au Grimoire**, ce qui lui donne une vision complète de la partie : rôles, statuts, marqueurs du Conteur.  
-- Elle **ne gagne pas les capacités** des rôles sous lesquels elle s’enregistre par exemple : 
-  une Espionne qui s’enregistre comme **[<span style="color:red">Empoisonneur</span>](empoisonneur.md)** ne peut pas empoisonner).  
+
+- Si un rôle dispose d’une capacité qui peut détecter ou affecter un joueur bon, alors l’Espionne pourrait apparaître comme bonne aux yeux de ce rôle. 
+
+- Si un rôle dispose d’une capacité qui peut détecter les Villageois ou les Marginaux, alors l’Espionne pourrait apparaître comme un Villageois ou un Marginal spécifique aux yeux de ce rôle. 
+  - C’est le Conteur qui choisit comment l’Espionne apparaît, et elle peut changer d’apparence (rôle et/ou alignement) au cours d’une même nuit.
+  
+- Une Espionne qui apparaît comme un Marginal ou Villageois particulier ne dispose pas de la capacité de ce rôle. 
+  - Par exemple, une Espionne qui apparaît comme Pourfendeuse ne peut pas tuer le Démon.
+  - Une Espionne qui s’enregistre comme **[<span style="color:red">Empoisonneur</span>](empoisonneur.md)** ne peut pas empoisonner). 
+  
 - Le Conteur choisit à chaque cas comment l’Espionne est perçue par les capacités d’information.
 
 ---
@@ -183,7 +189,7 @@ puisse facilement voir qui est qui.*
     🧞
     <img src="../images/Icon_magician.png" alt="Magicien" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/magician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Magicien</a> :  
-    Quand l’Espionne voit le Grimoire, les jetons de rôle du Démon et du Magicien sont retirés.
+    Lorsque l’Espionne voit le Grimoire, les jetons de rôle du Démon et du Magicien sont retirés.
   </li>  
   <li>
     🧞
@@ -200,7 +206,7 @@ puisse facilement voir qui est qui.*
   <li>
     🧞
     <img src="../images/Icon_poppygrower.png" alt="Cultivateur de pavot" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cultivateur de pavot</a> :  
+    <a href="../roles_experimentaux/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Planteur de pavot</a> :  
     Si le Cultivateur de pavot a sa capacité, l’Espionne ne voit pas le Grimoire.
   </li>    
   </ul>
