@@ -85,6 +85,9 @@ bla bla bla bla. Bla.»
 "Cult of the Clocktower – épisode par Andrew Nathenson"
 </p>
 
+---
+
+
 ##  <span style="color:blue">Résumé</span>   
 
 **« Chaque jour, vous pouvez faire une annonce publiquement. Cette nuit, si votre annonce était vraie, un joueur meurt. »**  
