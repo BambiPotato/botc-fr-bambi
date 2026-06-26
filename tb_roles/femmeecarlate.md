@@ -77,11 +77,11 @@ image: /images/Icon_scarletwoman.png
   </li>
 </ul>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
-« Tu m’as révélé les secrets du Conseil de la Flamme Pourpre.<br> 
-  Nous avons brûlé ensemble dans le feu, dans le désir et dans la communion bestiale,<br> 
-  et je t’ai servi pour toujours.<br> 
-  Mais ce soir, mon cher, c’est moi ta maîtresse.  »
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Vous m’avez montré les secrets du Conseil de la Flamme Pourpre.<br> 
+  Nous avons communié ensemble dans le feu et la luxure,<br> 
+  et je suis à jamais à votre service.<br> 
+  Mais ce soir, mon cher, je suis votre maître. »
 </p>
 
 
@@ -90,41 +90,54 @@ image: /images/Icon_scarletwoman.png
 
 ##  <span style="color:red">Résumé</span>    
 
-**« S’il y a au moins 5 joueurs en vie et que <span style="color:red">Démon</span> meurt, vous devenez le <span style="color:red">Démon</span>. (Les Voyageurs ne comptent pas.) »**
+**« S’il y a au moins 5 joueurs en vie et que le <span style="color:red">Démon</span> meurt, vous devenez le <span style="color:red">Démon</span>. (Les Voyageurs ne comptent pas.) »**
 
-La **Femme Écarlate** devient le <span style="color:red">Démon</span> si celui-ci meurt alors qu’il reste **au moins 5 joueurs vivants**.  
+**LA FEMME ÉCARLATE** devient le Démon si le Démon meurt.
 
-- Les Voyageurs ne comptent pas dans ce calcul.  
-- Si le <span style="color:red">Démon</span> meurt alors qu’il reste moins de 5 joueurs, la partie se termine et le Bien l’emporte.  
-- Si la Femme Écarlate prend la place du <span style="color:red">Démon</span>, elle **devient ce Démon** par exemple : le [<span style="color:red">Diablotin</span>](imp.md) en tous points : elle attaque, elle s’enregistre comme Démon et si elle meurt, la partie s’arrête.  
+- S’il y a au moins cinq joueurs juste avant la mort du Démon – donc s’il reste au moins quatre joueurs après la mort du Démon 
+  – la Femme écarlate devient immédiatement le Démon et la partie continue comme si rien ne s’était passé.
 
+- Comptez tous les joueurs sauf les Voyageurs.
 
+- S’il y a moins de cinq joueurs en vie au moment où le Démon est exécuté, alors la partie se termine et le Bien gagne.
+
+- S’il y a au moins cinq joueurs en vie lorsque le [<span style="color:red">Diablotin</span>](imp.md) se tue lui-même la nuit, la Femme écarlate devient le [<span style="color:red">Diablotin</span>](imp.md).
+
+- Si la Femme écarlate devient le Démon, elle le devient dans tous ses aspects. 
+  - Le Bien gagne si elle est exécutée. 
+  - Elle peut attaquer chaque nuit. 
+  - Elle apparaît comme le Démon.
+
+ 
 ---
 
 
 ##  <span style="color:red">Comment Conter</span>   
 
-Si le <span style="color:red">Démon</span> meurt alors qu’il reste plus de 5 joueurs en vie :  
-- **Remplacez** immédiatement le jeton de la Femme Écarlate par celui du <span style="color:red">Démon</span>.
-- Dans *Trouble Brewing*, le Démon est toujours le [<span style="color:red">Diablotin</span>](imp.md).  
-- Placez le jeton de rappel **« Est le Démon »** sur son jeton dans le Grimoire.  
-- La nuit suivante, réveillez le nouveau Diablotin et montrez-lui le jeton **« Vous êtes »** puis le jeton **Diablotin**.  
-- Dans d’autres éditions (avec plusieurs Démons), elle prend le type exact du Démon mort.  
+- Si le Démon meurt et qu'il y avait au moins cinq joueurs en vie juste avant sa mort,<br>remplacez le jeton **Femme écarlate**  par un jeton [<span style="color:red">Diablotin</span>](imp.md) supplémentaire pour marquer la transformation de la **Femme écarlate** en [<span style="color:red">Diablotin</span>](imp.md). 
+ - (Elle est désormais le Démon et dispose de la capacité du [<span style="color:red">Diablotin</span>](imp.md). Si elle meurt, le Bien gagne.)
+ 
+- Cette nuit-là, réveillez le nouveau [<span style="color:red">Diablotin</span>](imp.md), montrez-lui la tuile <br>**VOUS ÊTES**, puis montrez-lui le jeton [<span style="color:red">Diablotin</span>](imp.md).
+
+Dans **TROUBLE BREWING**, il n'y a qu'un seul Démon : le [<span style="color:red">Diablotin</span>](imp.md).<br>Dans d'autres modules, il existe plusieurs Démons. Si la **Femme écarlate** devient le Démon, elle devient le même type de Démon que celui qui est mort, et acquiert les capacités de ce Démon. 
+
+- Lorsque cela se produit, marquez la **Femme écarlate** avec le jeton **EST LE DÉMON** et référez-vous aux « Instructions au Conteur dans l'almanach » de ce Démon.
+- Pour plus d'information se référez à la page dédiée au [<span style="color:red">Diablotin</span>](imp.md).
 
 ---
 
 ##  <span style="color:red">Exemples</span>     
 
-- **Il y a 7 joueurs en vie** : Le [<span style="color:red">Diablotin</span>](imp.md), la Femme Écarlate, 2 Villageois et 3 Voyageurs.  
-  → Le [<span style="color:red">Diablotin</span>](imp.md) est exécuté → la partie s’arrête (les Voyageurs ne comptent pas).  
 
-- **Il y 5 joueurs vivants** : Le [<span style="color:red">Diablotin</span>](imp.md), la Femme Écarlate, le [<span style="color:red">Baron</span>](baron.md) et 2 Villageois.  
-  → Le [<span style="color:red">Diablotin</span>](imp.md) est exécuté → la Femme Écarlate devient le [<span style="color:red">Diablotin</span>](imp.md)  → la partie continue.  
+- Il reste sept joueurs en vie : le [<span style="color:red">Diablotin</span>](imp.md), la Femme écarlate, deux Villageois et trois Voyageurs. 
+ → Le [<span style="color:red">Diablotin</span>](imp.md) est exécuté, la partie se termine et le Bien gagne,<br> car les Voyageurs ne sont pas pris en compte dans le nombre de joueurs pour la capacité de la Femme écarlate.
 
-- Laura est la Femme Écarlate. La [Voyante](voyante.md) choisit Laura et Alexis elle apprend un « non ».  
-  Plus tard, le [<span style="color:red">Diablotin</span>](imp.md) meurt, Laura devient le [<span style="color:red">Diablotin</span>](imp.md).  
-  La [Voyante](voyante.md) choisit à nouveau Laura et Alexis, et obtient cette fois un « oui ».  
+- Il reste cinq joueurs en vie : le [<span style="color:red">Diablotin</span>](imp.md), la Femme écarlate, le [<span style="color:red">Baron</span>](baron.md) et deux Villageois. 
+ → Le [<span style="color:red">Diablotin</span>](imp.md) est exécuté. La Femme écarlate devient le [<span style="color:red">Diablotin</span>](imp.md) et la partie continue.
 
+- Lachlan est la Femme écarlate. La [Voyante](voyante.md) choisit Lachlan et Sarah et apprend un « non ». 
+  - Plus tard, le [<span style="color:red">Diablotin</span>](imp.md) meurt et Lachlan devient le [<span style="color:red">Diablotin</span>](imp.md). 
+  - La [Voyante](voyante.md) choisit à nouveau Lachlan et Sarah, et apprend un **« oui »**.
 ---
 
 ##  <span style="color:red">Astuces & Conseils</span>   
@@ -146,7 +159,7 @@ Si le <span style="color:red">Démon</span> meurt alors qu’il reste plus de 5 
 
 - Si vous êtes sûrs d’avoir tué le [<span style="color:red">Diablotin</span>](imp.md) mais que la partie continue → **suspicion immédiate** : une Femme Écarlate est probablement en jeu.  
 
-- Si le Diablotin se tue de nuit, la démonialité doit **toujours passer à la Femme Écarlate** avant un autre <span style="color:red">Sbire</span>.  
+- Si le [<span style="color:red">Diablotin</span>](imp.md) se tue de nuit, la démonialité doit **toujours passer à la Femme Écarlate** avant un autre <span style="color:red">Sbire</span>.  
   → Cela peut révéler où se cache le nouveau <span style="color:red">Démon</span>.  
 
 - Le <span style="color:red">Démon</span> et la Femme Écarlate peuvent **co-bluffer** pour se soutenir (ex. elle se dit [Lavandière](lavandiere.md) et « confirme » le Démon).  
@@ -184,7 +197,7 @@ Si le <span style="color:red">Démon</span> meurt alors qu’il reste plus de 5 
   🧞
     <img src="../images/Icon_lilmonsta.png" alt="P'tit Monstre" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/lilmonsta.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">P'tit Monstre</a> :  
-    Si le P'tit Montre meurt alors qu'il reste 5 joueurs ou plus, la Femme Écarlate garde le P'tit Monstre jusqu'à la fin de la partie.
+    Si le Timonstre meurt alors qu'il reste 5 joueurs ou plus, la Femme Écarlate garde le Timonstre jusqu'à la fin de la partie.
   </li>
    
 <li>
