@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ivrogne
-description: Vous ne savez pas que vous êtes l’Ivrogne. Vous pensez être un rôle de Villageois, mais vous ne l’êtes pas.
+description: "Vous ne savez pas que vous êtes l’Ivrogne. Vous pensez que vous êtes un Villageois."
 image: /images/Icon_drunk-1.png
 ---
 
@@ -49,8 +49,8 @@ image: /images/Icon_drunk-1.png
   </li>
 </ul>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic; margin-left:20px; margin-right:20px;">
-  « Je ne suis qu’un buveur social, ma chère. Certes, je suis un grand… <em>*hic*</em>… sociabilisateur. »
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+  « Je bois pour oublier, et ça fonctionne. <em>*hic*</em>.<br>  J’ai oublié qui je suis.... »
 </p>
 
 <hr>
@@ -76,8 +76,7 @@ image: /images/Icon_drunk-1.png
 <h3 style="color:#4ea3ff; font-weight:bold;"> Résumé</h3>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
-  <strong>« Vous ne savez pas que vous êtes l’<a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>.
-  Vous pensez être un rôle de <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>, mais vous ne l’êtes pas. »</strong>
+  <strong>« Vous ne savez pas que vous êtes l’Ivrogne.</a>. Vous pensez que vous êtes un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>. »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
@@ -86,7 +85,7 @@ image: /images/Icon_drunk-1.png
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
-    Pendant la mise en place, le jeton <a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> ne va pas dans le sac.<br>
+    Lors de la mise en place, le jeton <a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> ne va pas dans le sac.<br>
     À la place, un jeton de <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> va dans le sac, et la personne qui le pioche est secrètement l’<a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> pour toute la partie.<br>
     Le Conteur le sait.<br>
     Le joueur ne le sait pas.
@@ -106,7 +105,7 @@ image: /images/Icon_drunk-1.png
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
-    Pendant la mise en place, avant de mettre les jetons dans le sac, retirez le jeton
+    Lors de la mise en place, avant de mettre les jetons dans le sac, retirez le jeton
     <a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> et ajoutez un jeton de <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>.<br>
     Ajoutez le rappel <strong>EST L’IVROGNE</strong> dans le Grimoire.<br>
     Mettez dans le sac le jeton de <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> échangé, pas le jeton <a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>.
@@ -305,7 +304,7 @@ image: /images/Icon_drunk-1.png
   <li>
     🧞
     <img src="../images/Icon_boffin.png" alt="Boffin" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/boffin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boffin</a>
+    <a href="../roles_experimentaux/boffin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Laborantin</a>
     : Le <span style="color:#d45b5b; font-weight:bold;">Démon</span> ne peut pas recevoir la capacité de l'Ivrogne grâce au Boffin.
   </li>
   <li>
