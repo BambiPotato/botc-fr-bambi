@@ -52,10 +52,12 @@ image: /images/Icon_innkeeper.png
   </li>
 </ul>
 
-
-> *« Entrez, voyageur, et reposez-vous au coin du feu.<br>
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+> « Entrez, voyageur, et reposez-vous au coin du feu.<br>
 > Buvez et chassez vos soucis, car les légions de l’Obscur.<br>
-> ne viendront pas vous troubler cette nuit.»* 
+> ne viendront pas vous troubler cette nuit.»
+</p>
+
 
 ---
 
@@ -97,7 +99,7 @@ Ces joueurs ne peuvent pas non plus mourir à cause d’un Marginal, d’un Sbir
 
 - L’Aubergiste protège uniquement les joueurs pendant la nuit, et non pendant la journée.
 
-- L’un des deux joueurs choisis par l’Aubergiste devient ivre cette nuit-là et la journée du lendemain.<br> 
+- L’un des deux joueurs choisis par l’Aubergiste devient **ivre** cette nuit-là et la journée du lendemain.<br> 
 Ce joueur peut être bon ou maléfique, mais il sera presque toujours bon, selon la manière dont la partie se déroule.<br> 
 Un Aubergiste qui se choisit lui-même pourrait devenir ivre, auquel cas il n’a pas de capacité et peut mourir cette nuit-là<br> 
  – et l’autre joueur qu’il a choisi de protéger n’est plus en sécurité dans cette situation.
@@ -108,11 +110,11 @@ Un Aubergiste qui se choisit lui-même pourrait devenir ivre, auquel cas il n’
 
 - Chaque nuit, *(sauf la première)*, réveillez l’Aubergiste.  
 - Il choisit deux joueurs au hasard.
-- Posez un jeton **PROTÉGÉ** à côté de leurs rôles.  
+- Posez un jeton **EN SÉCURITÉ** à côté de leurs rôles.  
 - Choisissez l’un des deux pour être ivre → placez un jeton **IVRE**.  
-- Les joueurs **PROTÉGÉS** par l'Aubergiste ne peuvent pas mourir cette nuit.  
+- Les joueurs **EN SÉCURITÉ** par l'Aubergiste ne peuvent pas mourir cette nuit.  
 
-- A l'aube, *(au lever du jour)* retirez les jetons **PROTÉGÉ.**.  
+- A l'aube, *(au lever du jour)* retirez les jetons **EN SÉCURITÉ**.  
 - Au crépuscule suivant, retirez le jeton **IVRE**.  
 
 ---
@@ -185,8 +187,8 @@ Un Aubergiste qui se choisit lui-même pourrait devenir ivre, auquel cas il n’
     <img src="../images/Icon_riot.png" alt="Riot" width="24"
          style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/riot.html"
-       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> :
-    Si un <span style="color:#d45b5b; font-weight:bold;">Riot</span> 
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Émeute</a> :
+    Si l' <span style="color:#d45b5b; font-weight:bold;">Émeute</span> 
     nomme puis fait exécuter un joueur protégé par 
     l’<a href="./aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a>,  
     le Bien gagne.
