@@ -52,8 +52,8 @@ image: /images/Icon_butler.png
   </li>
 </ul>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
-« Oui, Monsieur... Non, Monsieur... Certainement, Monsieur. »
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Oui, Monsieur. Non, Monsieur.”<br>  Certainement, Monsieur. »
 </p> 
 
 ---
@@ -86,30 +86,46 @@ image: /images/Icon_butler.png
 ##  <span style="color:blue">Résumé</span>
 **« Chaque nuit, choisissez un joueur (sauf vous-même). Le lendemain, vous pouvez voter uniquement si ce joueur vote. »**  
 
-Le Majordome ne peut voter que si son **Maître** vote.  
+**LE MAJORDOME** ne peut voter que si son Maître vote.
 
-- Chaque nuit, il choisit un joueur comme Maître.  
-- S’il vote, le Majordome peut voter.  
-- S’il ne vote pas, le Majordome ne peut pas voter.  
-- Le Conteur **ne surveille pas** : le joueur est responsable de respecter sa capacité.  
-- Les exils ne sont pas affectés → le Majordome peut voter librement pour un exilé.  
-- Un Maître mort reste un Maître valide (mais limité par son jeton de vote).  
+- Chaque nuit, le Majordome choisit un joueur comme Maître. Ce peut être le même joueur que la nuit d’avant, ou un autre joueur.
+
+- Si le Maître a la main levée ou si son vote a déjà été pris en compte, le Majordome peut lever la main pour voter.
+
+- Si le Maître garde la main baissée, indiquant par là qu’il ne vote pas, ou si le Maître baisse la main avant que son vote ne soit pris en compte, le Majordome doit baisser la main lui aussi.
+
+- Le Conteur n’a pas à surveiller le Majordome. Le Majordome doit impérativement s’appliquer au respect de la règle.<br>  Y contrevenir sciemment serait tricher.
+
+- Le Majordome peut librement voter (ou non) pour exiler un <a href="../voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a>
+sans tenir compte du vote de son Maître car les exils ne tiennent pas compte des capacités.
+
+- Les joueurs morts peuvent lever la main pour voter uniquement s’ils ont un jeton Vote. Si le Majordome choisit un joueur mort comme Maître, la règle continue de s’appliquer.
+
+- Le Majordome n’est jamais obligé de voter.
+
+- Le Conteur peut compter le vote du Majordome avant ou après celui de son Maître. Peu importe où ils sont assis.
 
 ---
 
 ##  <span style="color:blue">Comment Conter</span>
 
-- Chaque nuit, réveillez le Majordome → il choisit un joueur. Placez le jeton **MAÎTRE** à côté de ce joueur.  
-- Lors des nominations, le Majordome ne peut voter que si son Maître vote (ou a déjà été compté).  
-- Si le Majordome vote illégalement, comptez quand même son vote pour éviter de révéler son identité.  
+- Chaque nuit, réveillez le Majordome. 
+  - Il désigne un joueur. 
+  - Marquez ce joueur avec le jeton **MAÎTRE**. La Majordome se rendort.
+
+- Lors d’une nomination, le Majordome ne peut lever la main pour voter que si le Maître a la main levée ou si le vote du Maître a déjà été pris en compte.
+
+- *Si le Majordome vote par erreur, comptez tout de même son vote. <br> Sinon, le total des votes sera inférieur à la réalité et les joueurs pourront identifier le Majordome, ce qui serait injuste pour l’équipe du Mal.<br> Continuez à jouer et rappelez discrètement la règle au Majordome plus tard*
 
 ---
 
 ##  <span style="color:blue">Exemples</span>
 
-- Le Majordome choisit **Corentin** comme Maître. Le lendemain, il ne pourra voter que si *Corentin* vote.  
-- Le Maître baisse la main à la dernière seconde → le Majordome doit aussi baisser la main.  
-- Le Majordome mort peut toujours utiliser son jeton de vote librement.  
+- Le Majordome choisit Abdallah comme Maître. Le lendemain, le Majordome ne peut voter que si Abdallah lève la main pour voter lors d’une exécution.
+
+- Une nomination est en cours. Le Majordome et son Maître ont tous deux levé la main pour voter.<br>  Alors que le Conteur compte les votes, le Maître baisse la main à la dernière seconde.<br>  Le Majordome doit immédiatement baisser la main.
+
+ -Le Majordome est mort. Comme les joueurs morts n'ont plus aucune capacité, il peut voter avec son jeton Vote à tout moment.
 
 ---
 
@@ -117,7 +133,8 @@ Le Majordome ne peut voter que si son **Maître** vote.
 
 - Choisir un bon Maître est crucial : si votre Maître est fiable, votre vote le sera aussi.  
 - Si vous dites à votre Maître que vous l’avez choisi, il tiendra compte de votre voix → cela peut vous donner des infos sur son alignement.  
-- Vous n’êtes **jamais obligé** de voter, même si votre Maître vote.  
+- Vous n’êtes **jamais obligé** de voter, même si votre Maître vote. 
+
 - Les Maîtres ont tendance à protéger leur Majordome → profitez-en pour bâtir une relation de confiance.  
 - Choisir un joueur mort peut être risqué (vote limité), mais utile pour sécuriser un vote final.  
 - Vous pouvez « négocier » avec d’autres joueurs pour survivre : promettez de les choisir comme Maître en échange de leur soutien.  
@@ -128,7 +145,8 @@ Le Majordome ne peut voter que si son **Maître** vote.
 
 - Vous vous réveilleriez **chaque nuit, y compris la première**, pour choisir un joueur.  
 - Le Majordome est rarement soupçonné, c'est un bluff parfait aussi bien pour les Bons que pour les Maléfiques.  
-- Vous pouvez changer de Maître chaque jour ou rester fidèle pour bâtir une relation de confiance.  
+- Vous pouvez changer de Maître chaque jour ou rester fidèle pour bâtir une relation de confiance. 
+
 - Associer votre vote à un autre Sbire ou au Démon peut être une excuse pour chuchoter ensemble.  
 - Vous pouvez surprendre en « trahissant » au moment décisif, puisque personne ne vérifie vos contraintes de vote.  
 - C’est un rôle simple à bluffer, car il explique votre longévité et vos choix étranges.  
