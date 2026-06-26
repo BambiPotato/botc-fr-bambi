@@ -53,10 +53,14 @@ image: /images/Icon_gambler.png
   </li>
 </ul>
 
-> *« Pile, je gagne.<br>   
-> Face, tu perds. »*
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Pile, je gagne.<br>   
+Face, tu perds. »
+</p>
+
 
 ---
+
 
 ##  Apparaît dans  
 
@@ -98,12 +102,14 @@ S’il devine juste, rien ne se passe. S’il se trompe, le Parieur meurt.
 
 ---
 
-##  <span style="color:blue">Comment Conter</span>   
+##  <span style="color:blue">Comment Conter</span> 
 
-- Chaque nuit (sauf la première), réveillez le Parieur.  
-- Il pointe un joueur, puis le pictogramme d’un rôle sur la fiche des rôles.  
-- Rendormez-le.  
-- Si le Parieur s'est trompé → marquez le Parieur avec le jeton de rappel **MORT**.  
+**Instruction au Conteur**
+
+- Chaque nuit, sauf la première, réveillez le Parieur. Il désigne n’importe quel joueur, puis n’importe quel rôle sur sa fiche de rôles. 
+
+- Le Parieur se rendort. Si le joueur choisi a un rôle différent de celui indiqué par le Parieur, le Parieur meurt. 
+  - Marquez-le du jeton **MORT**.
 
 ---
 
