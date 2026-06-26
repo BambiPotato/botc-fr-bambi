@@ -52,10 +52,11 @@ image: /images/Icon_chambermaid.png
   </li>
 </ul>
 
-> *« Je n’ai rien vu d’anormal, Madame. Et certainement pas Monsieur,.<br> 
-Pardonnez-moi, mais si j’avais vu quelque chose,<br>
-se faufilant vers onze heures, dans le laboratoire du professeur, pour<br> 
-comme vous l’avez dit, Madame. »*
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Je n’ai rien vu d’anormal, Madame. Et certainement pas Monsieur,.<br> 
+se faufilant vers onze heures, dans le laboratoire du professeur,<br>
+pour préparer des potions bizarres, comme vous l’avez dit, Madame. »
+</p>
 
 
 ---
