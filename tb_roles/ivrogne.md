@@ -76,7 +76,7 @@ image: /images/Icon_drunk-1.png
 <h3 style="color:#4ea3ff; font-weight:bold;"> Résumé</h3>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
-  <strong>« Vous ne savez pas que vous êtes l’Ivrogne.</a>. Vous pensez que vous êtes un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>. »</strong>
+  <strong>« Vous ne savez pas que vous êtes l’Ivrogne.</a> Vous pensez que vous êtes un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>. »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
