@@ -114,9 +114,9 @@ Il n’apprend pas que sa capacité lui a sauvé la vie.
 
 - Le Démon attaque le Fou du roi, qui est protégé par la [Tisanière](damedethe.md).<br>
 Le Fou du roi reste en vie et conserve sa capacité.<br>
-Plus tard, après la mort de la [Tisanière](damedethe.md), le Démon attaque le Fou du roi, qui est désormais protégé par [Aubergiste](aubergiste.md).<br> 
+Plus tard, après la mort de la [Tisanière](damedethe.md), le Démon attaque le Fou du roi, qui est désormais protégé par l' [Aubergiste](aubergiste.md).<br> 
 Le Fou du roi reste en vie et conserve sa capacité.<br>
-Plus tard, après la mort de l’[Aubergiste](aubergiste.md), le Démon attaque le Fou du roi. Il reste en vie, mais a maintenant utilisé sa capacité ; la prochaine fois, il mourra.
+Plus tard, après la mort de l’ [Aubergiste](aubergiste.md), le Démon attaque le Fou du roi. Il reste en vie, mais a maintenant utilisé sa capacité ; la prochaine fois, il mourra.
 
 
 ---
@@ -129,7 +129,7 @@ Mais bien joué, il peut aussi **protéger des alliés** et **piéger les Maléf
 ###  <span style="color:blue">Jouer avec audace</span>  
 
 - Votre capacité vous protège **une seule fois**.  
-  Utilisez-la pour **bluffer** : prétendez être un [Exorciste](exorciste.md) ou un [Courtisan](courtisan.md) afin d’attirer le [<span style="color:red">Démon</span>](../demons.md).  
+  Utilisez-la pour **bluffer** : prétendez être l' [Exorciste](exorciste.md) ou le [Courtisan](courtisan.md) afin d’attirer le [<span style="color:red">Démon</span>](../demons.md).  
 - Contre des Démons comme le [<span style="color:red">Po</span>](po.md) ou le [<span style="color:red">Shabaloth</span>](shabaloth.md), c’est une excellente tactique :  
   s’ils vous visent, vous survivez… et un autre joueur bon aussi !  
 
@@ -138,7 +138,7 @@ Mais bien joué, il peut aussi **protéger des alliés** et **piéger les Maléf
 - Si le Village doute de vous, proposez une **exécution volontaire** :  
   vous ne mourrez pas, ce qui prouve (en apparence) votre rôle.  
   
-- Attention toutefois : cette preuve **n’est pas absolue** — un [<span style="color:red">Avocat du Diable</span>](avocatdudiable.md) pourrait produire le même effet.  
+- Attention toutefois : cette preuve **n’est pas absolue** — l' [<span style="color:red">Avocat du Diable</span>](avocatdudiable.md) pourrait produire le même effet.  
 - Perdre votre capacité ainsi vous rend vulnérable la nuit suivante : pesez le risque.  
 
 ###  <span style="color:blue">Observer les morts</span>   
@@ -149,11 +149,12 @@ Mais bien joué, il peut aussi **protéger des alliés** et **piéger les Maléf
 ###  <span style="color:blue">Protéger et détourner</span>  
 
 - Vous pouvez **bluffer** pour protéger un autre joueur.  
-  Par exemple, si le [Pacifiste](pacifiste.md) veut se cacher, prétendez être lui.  
-  Si vous mourez malgré tout, cela peut révéler des infos :  
+  Par exemple, si le [Pacifiste](pacifiste.md) veut se cacher, prétendez être lui. 
+  
+- Si vous mourez malgré tout, cela peut révéler des infos :  
   - L' [<span style="color:red">Assassin</span>](assassin.md) ignore votre protection.  
   - Le [<span style="color:red">Pukka</span>](pukka.md) peut vous empoisonner et neutraliser votre capacité.  
-  - Un [Marin](marin.md) ivre pourrait provoquer une mort accidentelle.  
+  - Un [Marin](marin.md) pourrait vous rendre **ivre** et provoquer votre mort accidentellement.  
 
 ---
 
