@@ -326,3 +326,14 @@ p[align="left"]::after {
 .wiki-parchment [style*="color:#ffffff" i] {
   color: #4b1f25 !important;
 }
+/* =========================================================
+   PARCHEMIN GLOBAL — transforme le blanc #f5f5f5 en brun lisible
+   sans toucher aux liens colorés
+   ========================================================= */
+
+.page-content [style*="color:#f5f5f5" i],
+.page-content [style*="color: #f5f5f5" i],
+.wrapper [style*="color:#f5f5f5" i],
+.wrapper [style*="color: #f5f5f5" i] {
+  color: #4b1f25 !important;
+}
