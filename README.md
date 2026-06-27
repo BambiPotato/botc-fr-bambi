@@ -400,7 +400,7 @@ table.roles-grid td{
 
     <!--  Garden of Sin -->
     <td>
-      <a href="./gardenofsin.html">
+      <a  href="./trouble_brewing.html">
         <span class="rg-media">
           <img src="./images/logo_garden_of_sin.png" alt="Garden of Sin">
         </span>
@@ -411,7 +411,7 @@ table.roles-grid td{
 
     <!--  The Tomb -->
     <td>
-      <a href="./thetomb.html">
+      <a  href="./trouble_brewing.html">
         <span class="rg-media">
           <img src="./images/logo_the_tomb.png" alt="The Tomb">
         </span>
@@ -424,7 +424,7 @@ table.roles-grid td{
   <tr>
     <!-- Midnight in the House of the Damned -->
     <td>
-      <a href="./mithotd.html">
+      <a href="./trouble_brewing.html">
         <span class="rg-media">
           <img src="./images/logo_midnight_in_the_house_of_the_damned.png" alt="Midnight in the House of the Damned">
         </span>
@@ -435,7 +435,7 @@ table.roles-grid td{
 
     <!-- The Greatest Show on Earth -->
     <td>
-      <a href="./gshow.html">
+      <a  href="./trouble_brewing.html">
         <span class="rg-media">
           <img src="./images/logo_the_greatest_show_on_earth.png" alt="The Greatest Show on Earth">
         </span>
