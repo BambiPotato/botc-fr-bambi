@@ -492,3 +492,23 @@ h1, h2, h3, h4, h5, h6 {
     margin: 20px 0 !important;
   }
 }
+/* Réserve de l’espace à droite quand une liste flottante existe */
+.wiki-parchment:has(div[style*="float:right"]) {
+  padding-right: 330px;
+}
+
+/* Les listes flottantes restent dans le parchemin */
+.wiki-parchment div[style*="float:right"] {
+  margin-right: -300px !important;
+}
+
+/* Sur mobile/tablette, on annule tout */
+@media (max-width: 900px) {
+  .wiki-parchment:has(div[style*="float:right"]) {
+    padding-right: 35px;
+  }
+
+  .wiki-parchment div[style*="float:right"] {
+    margin-right: 0 !important;
+  }
+}
