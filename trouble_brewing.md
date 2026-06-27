@@ -159,7 +159,7 @@ Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient
 
 <p style="text-align:left; color:#b58b52; font-size:18px; font-weight:bold;">
  Niveau : <strong>Débutant</strong><br>
-<em>Trouble Brewing est recommandé pour les joueurs et joueuses débutants, ainsi que pour les conteuses et conteurs qui content pour la première fois.</em>
+<em>Trouble Brewing est recommandé pour les joueurs débutants, ainsi que pour les Conteurs qui content pour la première fois.</em>
 </p>
 
 ---
