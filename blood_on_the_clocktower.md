@@ -70,7 +70,7 @@ image: /images/logogold.png
 
     En <strong>2019</strong>, une campagne Kickstarter permet de financer une grande édition de luxe, publiée ensuite par le studio australien 
     <strong>The Pandemonium Institute</strong>.  
-    Le coffret comprend notamment trois scripts principaux :
+    Le coffret comprend notamment les trois modules principaux :
     <br>
      <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a>  
      <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a>  
@@ -80,9 +80,9 @@ image: /images/logogold.png
 
     Aujourd’hui, <em>Blood on the Clocktower</em> se joue :
     <br>
-    – en version physique, avec Grimoire et jetons illustrés ;  
+    – en version physique, avec un Grimoire et des de rôles jetons illustrés ;  
     – via une application pour jouer et conter en ligne ;  
-    – sur de nombreux serveurs Discord et en streams Twitch et YouTube à travers le monde.
+    – sur de nombreux serveurs Discord et en streams sur Twitch et YouTube à travers le monde.
   </p>
 </div>
 
@@ -108,7 +108,7 @@ Les joueurs sont répartis en deux équipes :
 Ils enquêtent pour sauver le village en traquant le Démon et en le faisant exécuter.
 <br>
 <a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> : rôles de protection et d’informations qui aident à la résolution de la partie.<br>
-<a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a> : rôles avec un malus ou une particularité qui complique la partie des Villageois.
+<a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a> : rôles avec un malus ou une particularité qui complique la partie des Villageois.
 
 <br><br>
 
@@ -120,7 +120,7 @@ Ils cherchent à tromper le village et à survivre jusqu’à la fin.
 
 <br><br>
 
-Un <a href="./conteur.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">conteur</a> prépare la partie, applique les règles, tisse les liens entre les événements et donne au tout une véritable ambiance d’histoire racontée.
+Le <a href="./conteur.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Conteur</a> prépare la partie, applique les règles, tisse les liens entre les événements<br> et les joueurs, et donne à l’ensemble une véritable ambiance d’histoire racontée.
 
 <br><br>
 
@@ -130,14 +130,14 @@ Un <a href="./conteur.html" style="color:#d4a76a; font-weight:bold; text-decorat
 
     <strong>Une Phase de Jour 🌞 </strong>  
     Tout le monde parle, partage ses soupçons, accuse, se défend…  
-    Le groupe peut ensuite voter pour exécuter un joueur.  
+    Le groupe peut ensuite nommer et voter pour exécuter un joueur.  
     Même les morts continuent à parler et disposent d’un dernier vote.
 
     <br><br>
 
     <strong>Une Phase de Nuit 🌚</strong>  
     Le village “dort”, les yeux se ferment.  
-    Le Démon choisit une victime et certains rôles agissent selon l’ordre de nuit officiel (information, protection, chaos…).
+    Le Démon choisit une victime et certains rôles agissent selon l’ordre de nuit officiel (information, protection…).
 
     <br><br>
 
@@ -174,9 +174,9 @@ Un <a href="./conteur.html" style="color:#d4a76a; font-weight:bold; text-decorat
   <br>
 
   <li>
-    <strong>Rôles expérimentaux – The Carousel</strong> :
+    <strong>Rôles expérimentaux – Le Carrousel (The Carousel)</strong> :
     <br>
-     <a href="./experimentaux.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">The Carousel Expérimental</a> – des centaines de rôles en phase de test.
+     <a href="./experimentaux.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">The Carousel Expérimental</a> – des centaines de rôles expérimentaux.
   </li>
 
   <br>
@@ -192,15 +192,15 @@ Un <a href="./conteur.html" style="color:#d4a76a; font-weight:bold; text-decorat
   <li>
     <strong>Légendaires</strong> :
     <br>
-     <a href="./legendaire.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Légendaires</a> – outils narratifs pour le conteur, utilisés dans des situations particulières.
+     <a href="./legendaire.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Légendaires</a> – outils narratifs pour le Conteur, utilisés dans des situations particulières.
   </li>
 
   <br>
 
   <li>
-    <strong>Lorics</strong> :
+    <strong>Loric</strong> :
     <br>
-     <a href="./loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Lorics</a> – règles spéciales pour le conteur qui modifient la structure de la partie.
+     <a href="./loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Loric</a> – règles spéciales pour le Conteur qui modifient la structure de la partie.
   </li>
 
 </ul>
