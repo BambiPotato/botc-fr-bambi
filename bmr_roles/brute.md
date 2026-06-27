@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Brute
+title: Gros Bras
+description: Chaque nuit, le premier joueur à vous choisir avec sa capacité est ivre jusqu’au crépuscule. Vous devenez de son alignement.
+image: /images/Icon_goon.png
 ---
 
 <p align="left">
@@ -52,10 +54,10 @@ title: Brute
 </ul>
 
 
-> *« Oui patron. Je lui ai bien expliqué les choses à ce type.<br>
-Il ne veut surtout pas que je réexplique.<br>
-Non patron, pas besoin de docteur, c’est qu’un coup de couteau.<br>
-Ça ira mieux demain matin. »*
+« Ouais, patron. J’y ai expliqué les choses à ma façon.<br> 
+L’a son compte, pour sûr.<br>  
+Nan, j’ai pas b’soin d’un docteur.<br> 
+J’me soigne seul. À demain. »
 
 ---
 
@@ -90,48 +92,49 @@ Non patron, pas besoin de docteur, c’est qu’un coup de couteau.<br>
 
 **« Chaque nuit, le premier joueur qui vous choisit avec sa capacité est ivre jusqu'au crépuscule. Vous devenez son alignement. »**
 
-La **Brute** est immunisée contre les capacités nocturnes des autres joueurs… mais change d’alignement à chaque fois qu’elle en rend un ivre !
+**LE GROS BRA**S est immunisé aux autres rôles la nuit, mais change constamment d’alignement.
 
-- Chaque nuit, la première fois qu’un joueur **utilise sa capacité sur la Brute**, il devient **ivre immédiatement**.  
-  Sa capacité échoue pour cette nuit et jusqu’au crépuscule suivant.  
-- Si un autre joueur choisit la Brute plus tard dans la même nuit, **sa capacité fonctionne normalement**.  
-- Dès qu’un joueur devient ivre à cause d’elle, la Brute **change d’alignement pour correspondre au sien**.  
-- La Brute change d’alignement même si le joueur était déjà ivre ou empoisonné.  
-- Si la Brute est attaquée par l’[<span style="color:red">Assassin</span>](assassin.md), elle meurt, mais devient alors **maléfique**.  
+- Chaque nuit, la première fois qu’un joueur se réveille pour utiliser sa capacité et choisit le **Gros bras**, ce joueur devient immédiatement **ivre**.<br> Sa capacité ne fonctionne pas cette nuit-là, ni la journée du lendemain.
+
+- Plus tard, lors de la même nuit, si un autre joueur se réveille pour utiliser sa capacité et choisit le Gros bras,<br> alors cette capacité fonctionne normalement.
+
+- Le Gros bras ne peut pas enivrer un joueur autrement qu’en étant choisi par ce joueur.<br> La capacité du **Gros bras** ne se déclenche pas si c’est le Conteur qui le choisit pour une capacité *(par exemple pour celle de la [Grand-mère](Grand-mère.md))*.
+
+- Dès que le Gros bras enivre un joueur, le Gros bras change d’alignement pour correspondre à celui de ce joueur.<br> Le Gros bras change d’alignement et enivre le joueur même si le joueur qui a choisi le Gros bras était déjà ivre ou empoisonné.
+
+- S’il est choisi par l’[<span style="color:red">Assassin</span>](assassin.md), le Gros bras meurt, mais devient tout de même maléfique.
 
 ---
 
 ##  <span style="color:blue">Comment Conter</span>   
 
-- La nuit, si un joueur choisit la Brute et qu’aucun jeton de rappel **IVRE (Brute)** n’est encore placé,  
-  marquez ce joueur avec le jeton **IVRE (Brute)**.  
-  Il devient immédiatement **ivre**, et sa capacité échoue.  
+**Instruction au Conteur**
 
-- Si son alignement est différent de celui de la Brute, **faites pivoter** le jeton de la Brute pour refléter son nouvel alignement :  
-  - Jeton à l’endroit = Bon  
-  - Jeton à l’envers = Maléfique  
+- La nuit, si un joueur utilise sa capacité sur le Gros bras alors que personne n’est marqué du jeton **IVRE** du Gros bras, il devient ivre — marquez-le du jeton **IVRE**.<br> Terminez la résolution de la capacité de ce joueur ; ensuite, il se rendort.
 
-- Réveillez la Brute, indiquez-lui son nouvel alignement (pouce levé pour Bon, pouce baissé pour Maléfique), puis rendormez-la.  
-- Au crépuscule suivant, le joueur marqué **IVRE (Brute)** redevient **sobre**.  
+- Si son alignement est différent de celui du Gros bras, pivotez le jeton du Gros bras (à l’endroit s’il est bon, à l’envers sinon) pour corresponde à cet alignement,<br> puis réveillez le Gros bras et faites-lui un signe **pouce en haut** ou **pouce en bas** (pour indiquer son nouvel alignement).<br>  Ensuite, le Gros bras se rendort.
+
+- Au crépuscule suivant, le joueur que le Gros bras a enivré devient sobre — retirez-lui le jeton **IVRE** du Gros bras.
 
 ---
 
 ##  <span style="color:blue">Exemples</span>  
 
-- Le [Courtisan](courtisan.md) choisit la Brute : la Brute devient **bonne**, et le Courtisan devient **ivre**.  
-- Le [<span style="color:red">Shabaloth</span>](shabaloth.md) attaque la Brute, puis la [Commère](commere.md).  
-  Comme le Shabaloth est devenu ivre en choisissant la Brute, **personne ne meurt cette nuit-là**, et la Brute devient **maléfique**.  
-- La nuit suivante, le Shabaloth attaque le [Parieur](parieur.md), puis la Brute :  
-  le Parieur meurt, le Shabaloth devient à nouveau ivre, et la Brute reste en vie, toujours maléfique.  
-- La [Femme de Chambre](femmedecha.md) choisit la Brute et le [Ménestrel](menestrel.md), et apprend un résultat erroné car elle est **ivre**.  
-- La [Dame de Thé](damedethe.md) est voisine d’une Brute bonne et d’un [Bricoleur](bricoleur.md).  
-  Le Bricoleur est exécuté mais ne meurt pas. Le lendemain, la Brute est devenue maléfique ; le Bricoleur est exécuté à nouveau et meurt.  
+- Le [Courtisan](courtisan.md) choisit le Gros bras. Le Gros bras devient bon et le [Courtisan](courtisan.md) devient ivre.
+
+- Le [<span style="color:red">Shabaloth</span>](shabaloth.md) attaque le Gros bras, puis la [Commère](commere.md).<br>  Le [<span style="color:red">Shabaloth</span>](shabaloth.md) devient ivre dès qu’il choisit le Gros bras, aucun joueur ne meurt, et le Gros bras devient maléfique.<br> La nuit suivante, le [<span style="color:red">Shabaloth</span>](shabaloth.md) attaque le [Parieur](parieur.md), puis le Gros bras.<br>  Le [Parieur](parieur.md) meurt, puis le [<span style="color:red">Shabaloth</span>](shabaloth.md) redevient ivre.<br> Le Gros bras reste en vie... et maléfique.
+
+- La [Femme de Chambre](femmedechambre.md) choisit le Gros bras et le [Ménestrel](menestrel.md), et apprend le chiffre « 1 » parce qu’elle est ivre.
+
+- La [Tisanière](damedethe.md) est voisine du Gros bras (bon) et du [Bricoleur](bricoleur.md).<br> [Bricoleur](bricoleur.md) est exécuté, mais il ne meurt pas.<br>  Le lendemain, le Gros bras est maléfique. Le [Bricoleur](bricoleur.md)est à nouveau exécuté et meurt.
+
 
 ---
 
+
 ##  <span style="color:blue">Astuces & Stratégie</span>  
 
-La **Brute** est un rôle imprévisible : vous ne saurez peut-être jamais de quel côté vous jouez avant la fin !  
+- Le **Gros bras** est un rôle imprévisible : vous ne saurez peut-être jamais de quel côté vous jouez avant la fin !  
 Rester discret peut être judicieux : observez, bluffez et découvrez comment votre alignement évolue.  
 
 ###  <span style="color:blue">Si vous êtes d'alignement bon</span> 
@@ -139,36 +142,39 @@ Rester discret peut être judicieux : observez, bluffez et découvrez comment vo
 - Vous êtes très difficile à tuer la nuit : la plupart des capacités échouent avant de vous atteindre.  
   Même un [<span style="color:red">Pukka</span>](pukka.md) devient ivre avant de pouvoir vous empoisonner.  
   Seul l’[<span style="color:red">Assassin</span>](assassin.md) peut vous éliminer directement.  
+  
 - Si vous devenez maléfique tôt dans la partie, révélez-vous peut-être : cela peut inciter les deux camps à **se battre pour vous rallier**.  
-  Mais attention : la ville pourrait choisir de vous exécuter par prudence.  
+  Mais attention : le Village pourrait choisir de vous exécuter par prudence.  
+  
 - En fin de partie, votre alignement actuel déterminera probablement votre victoire ou défaite.  
   Si vous êtes bon, aidez l’équipe : annoncez quand votre alignement a changé — cela peut correspondre à des échecs d’actions nocturnes, et donc révéler des rôles maléfiques !  
 
 ###  <span style="color:red">Si vous êtes maléfique</span>   
 
 - Semez le chaos ! Vous pouvez feindre d’être bon, inventer un rôle, ou manipuler les votes.  
-- Identifier les autres membres du Mal peut vous aider à coordonner la fin de partie.  
+- Identifier les autres joueurs du Mal peut vous aider à coordonner la fin de partie.  
 - Si vous redevenez bon par accident, tentez de brouiller les pistes : vous pouvez faire croire à un simple malentendu de rôle.  
 
 ---
 
-##  <span style="color:blue">Bluffer Brute</span>   
+##  <span style="color:blue">Bluffer Gros bras</span>   
 
 ### Si vous êtes <span style="color:blue">Bon</span>   
 
 - C'est un bluff difficile mais crédible.  
-  Attendez quelques jours avant de vous révéler : une Brute qui parle trop tôt est souvent exécutée.  
-  Observez d’abord, puis adaptez votre histoire selon les morts nocturnes et les rôles révélés.  
-- Pour un bluff convaincant, indiquez précisément **quand** vous pensez être devenu bon ou mauvais.  
-  Les nuits où vous prétendez être devenu mauvais doivent correspondre à **des nuits sans morts**, car les capacités des [<span style="color:red">Démons</span>](../demons.md) auraient échoué.  
-- Vous pouvez aussi inciter d’autres joueurs à vous cibler pour "redevenir bon" — ou prétendre qu’ils l’ont fait.  
+  Attendez quelques jours avant de vous révéler : un Gros bras qui parle trop tôt est souvent exécutée.  
+  Observez d’abord, puis adaptez votre histoire selon les morts nocturnes et les rôles révélés. 
+  
+- Pour un bluff convaincant, indiquez précisément **quand** vous pensez être devenu bon ou maléfique.  
+  Les nuits où vous prétendez être devenu maléfique doivent correspondre à **des nuits sans morts**, car les capacités des [<span style="color:red">Démons</span>](../demons.md) auraient échoué.  
+- Vous pouvez aussi inciter d’autres joueurs à vous cibler pour **"redevenir bon"** — ou prétendre qu’ils l’ont fait.  
 
 ### Si vous êtes <span style="color:red">Maléfique</span>   
 
-- Déclarez-vous **Brute maléfique** dès le début.  
+- Déclarez-vous **Gros bras maléfique** dès le début.  
   Le Village hésitera à vous exécuter, espérant que vous redeviendrez bon.  
-  Ironiquement, exécuter une Brute bonne peut parfois aider le village…  
-  tandis que garder une Brute maléfique peut aussi s’avérer utile !  
+  Ironiquement, exécuter un Gros bras d'alignement bon peut parfois aider le village…  
+  tandis que garder un Gros bras maléfique peut aussi s’avérer utile !  
   Profitez de cette ambiguïté.  
 
 ---
@@ -185,9 +191,9 @@ Rester discret peut être judicieux : observez, bluffez et découvrez comment vo
     <img src="../images/Icon_boffin.png" alt="Boffin" width="24"
          style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/boffin.html"
-       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boffin</a> :
-    Si le <span style="color:red; font-weight:bold;">Démon</span> possède la capacité de la
-    <span style="color:#4ea3ff; font-weight:bold;">Brute</span>, il ne peut pas devenir bon
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Laborantin</a> :
+    Si le <span style="color:red; font-weight:bold;">Démon</span> possède la capacité du 
+    <span style="color:#4ea3ff; font-weight:bold;">Gros bras</span>, il ne peut pas devenir bon
     grâce à cette capacité.
   </li>
 
@@ -197,9 +203,9 @@ Rester discret peut être judicieux : observez, bluffez et découvrez comment vo
     <img src="../images/Icon_pithag.png" alt="Pit-Hag" width="24"
          style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../sv_roles/pithag.html"
-       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a> :
-    Si la <span style="color:#d45b5b; font-weight:bold;">Pit-Hag</span> transforme un joueur
-    maléfique en <span style="color:#4ea3ff; font-weight:bold;">Brute</span>, ce joueur ne
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a> :
+    Si la <span style="color:#d45b5b; font-weight:bold;">Guenaude</span> transforme un joueur
+    maléfique en <span style="color:#4ea3ff; font-weight:bold;">Gros Bras</span>, ce joueur ne
     peut pas devenir bon à cause de sa propre capacité.
   </li>
 
