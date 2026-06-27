@@ -395,3 +395,59 @@ h1, h2, h3, h4, h5, h6 {
     display: none;
   }
 }
+/* =========================================================
+   ENCART BOTC — responsive PC / tablette / mobile
+   ========================================================= */
+
+.botc-note {
+  position: relative;
+  max-width: 850px;
+  width: calc(100% - 120px);
+  margin: 40px auto;
+  padding: 24px 34px;
+  background: rgba(248,244,238,0.96);
+  border: 4px double #b79b90;
+  color: #7a4343;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 19px;
+  line-height: 1.8;
+  font-style: italic;
+  text-align: center;
+  box-sizing: border-box;
+  white-space: normal;
+  overflow-wrap: break-word;
+}
+
+.botc-note::before,
+.botc-note::after {
+  content: "❦";
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #b79b90;
+  font-size: 44px;
+}
+
+.botc-note::before {
+  left: -58px;
+}
+
+.botc-note::after {
+  right: -58px;
+}
+
+@media (max-width: 700px) {
+  .botc-note {
+    width: calc(100% - 28px);
+    max-width: none;
+    margin: 28px auto;
+    padding: 18px 18px;
+    font-size: 17px;
+    line-height: 1.65;
+  }
+
+  .botc-note::before,
+  .botc-note::after {
+    display: none;
+  }
+}
