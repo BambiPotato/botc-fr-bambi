@@ -25,7 +25,7 @@ image: /images/Logo_bad_moon_rising-1.png
 #   <span style="color:#ffa64d; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
 
 <p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
+  « Les morts dansent sous la lune,<br> et les vivants leur tiennent la chandelle… »
 </p>
 
 <style>
@@ -107,7 +107,7 @@ image: /images/Logo_bad_moon_rising-1.png
   <span style="font-weight:bold;">3.</span>
   <a href="#villageois" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Villageois</a><br>
   <span style="font-weight:bold;">4.</span>
-  <a href="#etrangers" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Étrangers</a><br>
+  <a href="#etrangers" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Marginaux</a><br>
   <span style="font-weight:bold;">5.</span>
   <a href="#sbires" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Sbires</a><br>
   <span style="font-weight:bold;">6.</span>
