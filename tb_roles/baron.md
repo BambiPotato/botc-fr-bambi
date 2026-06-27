@@ -3,7 +3,9 @@ layout: default
 title: Baron
 description: "Il y a des Marginaux supplémentaires en jeu.[+2  Marginaux]" 
 image: /images/Icon_baron.png
+parchment: true
 ---
+
 
 
 <p align="left">
