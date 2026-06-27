@@ -301,17 +301,16 @@ p[align="left"]::after {
    ========================================================= */
 
 .wiki-parchment {
+  max-width: 1100px;
+  margin: 30px auto;
+  padding: 35px 45px;
+  background: rgba(246,239,229,0.94);
+  border: 1px solid rgba(184,157,148,0.5);
   color: #4b1f25;
   font-family: Georgia, "Times New Roman", serif;
-}
-
-.wiki-parchment p,
-.wiki-parchment li,
-.wiki-parchment ul,
-.wiki-parchment ol,
-.wiki-parchment strong,
-.wiki-parchment em {
-  color: inherit;
+  font-size: 18px;
+  line-height: 1.75;
+  box-sizing: border-box;
 }
 
 /* Les anciens liens sans couleur restent bleus */
