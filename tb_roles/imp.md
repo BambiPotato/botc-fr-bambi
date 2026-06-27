@@ -99,7 +99,7 @@ Sauf à moi. Vous pouvez me faire confiance. »
   <li>
     Si le <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> meurt, la partie se termine et le Bien gagne.<br>
     Cependant, si le <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> se tue la nuit, il meurt et un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> vivant devient le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span>.<br>
-    Ce nouveau <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> n’agit pas cette même nuit, mais il est désormais le<span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> à tous les autres égards : il tue chaque nuit, et il perd s’il meurt.
+    Ce nouveau <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> n’agit pas cette même nuit, mais il est désormais le <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> à tous les autres égards : il tue chaque nuit, et il perd s’il meurt.
   </li>
 </ul>
 
@@ -114,21 +114,21 @@ Sauf à moi. Vous pouvez me faire confiance. »
     Chaque nuit (sauf la première), réveillez le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>.<br>
     Le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> pointe un joueur.<br>
     Rendormez le <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span>.<br>
-    Le joueur choisi meurt : placez le rappel <strong>MORT</strong> du <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> à côté du jeton de rôle de la cible dans le Grimoire et placez un linceul.
+    Le joueur choisi meurt : placez le rappel <strong>MORT</strong> du <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> à côté du jeton de rôle de la cible dans le Grimoire et placez un linceul.
   </li>
   <li>
-    Si le <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> s’est tué la nuit, choisissez un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> vivant et remplacez son jeton de rôle
+    Si le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> s’est tué la nuit, choisissez un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> vivant et remplacez son jeton de rôle
     par un jeton <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> de réserve, changeant son rôle en <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span>.<br>
-    Réveillez le nouveau <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span>, montrez-lui la tuile d’info <strong>« VOUS ÊTES »</strong>, puis montrez-lui le jeton <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span>.<br>
-    Rendormez le nouveau <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span>.
+    Réveillez le nouveau <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span>, montrez-lui la tuile d’info <strong>« VOUS ÊTES »</strong>, puis montrez-lui le jeton <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a><br>
+    Rendormez le nouveau <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>.
   </li>
   <li>
     À l’aube, annoncez quel joueur est mort pendant la nuit. (Ne dites pas comment il est mort.)
   </li>
   <li>
-    Si le <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> attaque un joueur mort la nuit, laissez-le faire.<br>
+    Si le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> attaque un joueur mort la nuit, laissez-le faire.<br>
     Quand une capacité dit <strong>« choisissez un joueur »</strong>, cela signifie n’importe quel joueur : vivant ou mort.<br>
-    Le <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> peut vouloir bluffer le
+    Le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> peut vouloir bluffer le
     <a href="./soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a>,
     et ce genre de choix peut rendre son bluff plus crédible.
   </li>
@@ -143,19 +143,21 @@ Sauf à moi. Vous pouvez me faire confiance. »
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; white-space:normal; overflow-wrap:anywhere; word-break:break-word;">
   <li>
     Lors de la première nuit, le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> se réveille et reçoit ses informations pour la partie.<br>
-    Le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> apprend que Céline et Pierre sont ses <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>.<br>
+    Le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> apprend que Céline et Pierre sont ses <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>.<br>
     Le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> apprend aussi 3 rôles bons qui ne sont pas en jeu : ce sont ses <strong>bluffs</strong>.<br>
-    Le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> reçoit comme bluff : 
-    <a href="./moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a>, 
-    <a href="./cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier, 
-    et <a href="./bibliothecaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Archiviste</a><br>
-    Le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> décide d’abord de bluffer le 
-    <a href="./cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a>, puis, en cours de partie, de bluffer
+    Le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> reçoit comme bluff :
+    <a href="./moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a>,
+    <a href="./cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a>,
+    et <a href="./bibliothecaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Archiviste</a>.<br>
+    Le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> décide d’abord de bluffer le
+    <a href="./cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a>, puis, en cours de partie, de bluffer le
     <a href="./maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a>.<br>
   </li>
+
   <li>
-    Finalement, <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> est exécuté et le Bien gagne.<br>
+    Finalement, le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> est exécuté et le Bien gagne.
   </li>
+
   <li>
     Pendant la nuit, le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> se réveille et choisit un joueur, qui meurt.<br>
     La nuit suivante, le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> se choisit lui-même pour mourir, il se tue ainsi.<br>
@@ -206,7 +208,7 @@ Sauf à moi. Vous pouvez me faire confiance. »
   <li>
     Au début de la partie, le Conteur vous donne trois bluffs possibles.<br>
     Vous pouvez bluffer ce que vous voulez, bien sûr, mais ces bluffs sont sûrs.<br>
-    Comme le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> peut mourir pendant la nuit et transmettre son rôle de <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> à un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>, les bluffs passifs comme les bluffs agressifs peuvent être utiles.<br>
+    Comme le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>  peut mourir pendant la nuit et transmettre son rôle de <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> à un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>, les bluffs passifs comme les bluffs agressifs peuvent être utiles.<br>
     Si vous débutez, demandez de l’aide au Conteur, ou bluffez un rôle passif comme : 
     le <a href="./soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a> ou
     la <a href="./reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a>.<br>
@@ -260,7 +262,7 @@ Sauf à moi. Vous pouvez me faire confiance. »
     Apprenez si le plan de la <a href="./femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme Écarlate</a> est de vous tuer, ou de vous garder en vie.
   </li>
   <li>
-    Il existe de nombreuses raisons pour lesquelles les bons joueurs pourraient vous percevoir comme un <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> maléfique.<br>
+    Il existe de nombreuses raisons pour lesquelles les bons joueurs pourraient vous percevoir comme un <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>  maléfique.<br>
     Si cela arrive, ne désespérez pas : peut-être pouvez-vous convaincre le groupe que l’<a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a> est ivre,<br>
     ou argumenter que vous êtes le <strong>LEURRE</strong> <em>( faux positif )</em> de la <a href="./voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>.
   </li>
@@ -279,7 +281,7 @@ Sauf à moi. Vous pouvez me faire confiance. »
 </h2>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px; white-space:normal; overflow-wrap:anywhere; word-break:break-word;">
-  Dans <strong>Trouble Brewing</strong>, combattre le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> revient à jouer correctement pour l’équipe du Bien :
+  Dans <strong>Trouble Brewing</strong>, combattre le  <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>  revient à jouer correctement pour l’équipe du Bien :
   pensez à consulter la section 
   <a href="../strategie.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Stratégie</a>.<br>
   Exécuter le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> fait gagner le Bien.<br>
@@ -288,7 +290,7 @@ Sauf à moi. Vous pouvez me faire confiance. »
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; white-space:normal; overflow-wrap:anywhere; word-break:break-word;">
   <li>
-    Savoir qui le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> n’est pas est presque aussi important que savoir qui il est.<br>
+    Savoir qui le  <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>  n’est pas est presque aussi important que savoir qui il est.<br>
     Confirmer d’autres joueurs comme bons permet de construire de la confiance, recouper des informations et bâtir une liste de suspects…<br>
     mais cela réduit aussi le champ des personnes qui ne peuvent pas être le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.<br>
     Au dernier jour, il reste souvent trois joueurs vivants, dont un <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> :<br>
@@ -304,7 +306,7 @@ Sauf à moi. Vous pouvez me faire confiance. »
   </li>
   <li>
     Si quelqu’un meurt de manière inattendue à un moment étrange, ou après être devenu très suspect,<br>
-    vous venez peut-être de voir le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> se tuer et transmettre le rôle de <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> à un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>.<br>
+    vous venez peut-être de voir le  <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>  se tuer et transmettre le rôle de <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> à un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>.<br>
     C’est une information énorme :<br>
     savoir que cette personne est maléfique vous permet d’analyser tout ce qu’elle a fait afin d’identifier le reste de l’équipe maléfique.<br>
     C’est là que les informations fournies par des rôles comme : <br>
@@ -318,12 +320,12 @@ Sauf à moi. Vous pouvez me faire confiance. »
   <li>
     Attention à la 
     <a href="./femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme Écarlate</a>.<br>
-    Tant qu’il y a cinq joueurs ou plus en vie, Le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> peut être exécuté et l’équipe maléfique peut continuer.<br>
+    Tant qu’il y a cinq joueurs ou plus en vie, le  <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>  peut être exécuté et l’équipe maléfique peut continuer.<br>
     Si vous pensez savoir qui est le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>, envisagez de retarder l’exécution jusqu’à ce qu’il reste moins de cinq joueurs,<br>
     afin que sa capacité ne puisse pas s’activer et que le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> soit stoppé net.<br> 
   </li>
   <li>
-    Le <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> peut être très efficace pour éliminer les rôles menaçants.<br>
+    Le  <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>  peut être très efficace pour éliminer les rôles menaçants.<br>
    Pour protéger vos rôles à information continue, comme le 
    <a href="./croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a>,<br>
    ou vos rôles à capacité puissante, comme l'
@@ -353,7 +355,7 @@ peut se faire passer pour une cible intéressante, laissant sa capacité encaiss
     S’il admet être le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, vous pouvez le révéler au village pour une victoire décisive.<br>
   </li>
   <li>
-    Contrairement à d’autres <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démons</a>, la capacité du <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> à transmettre le rôle de <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> aux <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> lui permet des bluffs complexes,<br>
+    Contrairement à d’autres <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démons</a>, la capacité du <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>  à transmettre le rôle de <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> aux <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> lui permet des bluffs complexes,<br>
     souvent impliquant plusieurs joueurs.<br>
     Surveillez les groupes de joueurs qui se « confirment » mutuellement.<br>
     Par exemple :<br>
