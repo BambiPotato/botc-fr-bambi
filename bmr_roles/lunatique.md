@@ -13,6 +13,18 @@ image: /images/Icon_lunatic.png
 </p>
 
 
+<div style="
+  max-width:1100px;
+  margin:30px auto;
+  padding:35px 45px;
+  background:rgba(246,239,229,0.94);
+  color:#4b1f25;
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size:18px;
+  line-height:1.75;
+  border:1px solid rgba(184,157,148,0.5);
+">
+
 #   <span style="color:blue">Lunatique</span>  
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
@@ -234,3 +246,5 @@ Quand vous êtes sûr(e), annoncez publiquement votre rôle :
    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Marginaux</a><br>
    <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
 </p>
+
+</div>
