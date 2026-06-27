@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Lunatique
+description: "Vous pensez que vous êtes un Démon. Le Démon sait qui vous êtes et qui vous choisissez la nuit." 
+image: /images/Icon_lunatic.png
 ---
 
 
@@ -50,7 +52,10 @@ title: Lunatique
   </li>
 </ul> 
 
-> *« Je suis la nuit… enfin, je crois. »*
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Je suis la nuit ! Enfin, je crois. »
+</p>
+
 
 ---
 
@@ -78,50 +83,66 @@ title: Lunatique
 "Cult of the Clocktower – épisode par Andrew Nathenson"
 </p>
 
+---
 
 
 ##  <span style="color:blue">Résumé</span>  
 
+**Vous pensez que vous êtes un Démon. Le Démon sait qui vous êtes et qui vous choisissez la nuit.**
 
+**LE LUNATIQUE** pense qu’il est le Démon.
 
-> **« Vous pensez être le Démon, mais vous ne l’êtes pas. Le Démon sait qui vous êtes et qui vous choisissez la nuit. »**
+- Comme l’[Ivrogne](../ivrogne.md), le Lunatique ne connaît pas son véritable rôle, ni son véritable alignement.<br> Il est réveillé chaque nuit pour attaquer comme s’il était le Démon en jeu, mais ses choix n’ont aucun effet, car il n’a aucune capacité de Démon.
 
-Le **Lunatique** pense être le **<span style="color:red">Démon</span>**.  
+- Le Lunatique se réveille lors de la première nuit pour apprendre ses trois bluffs et son nombre de Sbires, mais les informations qu’il reçoit peuvent être fausses.
 
-Tout comme l' [Ivrogne](../ivrogne.md), le Lunatique ignore sa véritable nature et son alignement véritable.   
-Chaque nuit, il se réveille et agit comme s’il était le Démon en jeu, par exemple un [<span style="color:red">Shabaloth</span>](shabaloth.md), un [<span style="color:red">Po</span>](po.md), mais **ses choix n’ont aucun effet**.  
-Le **vrai <span style="color:red">Démon</span>** sait qui est le Lunatique et quels joueurs le Lunatique choisit d'attaquer chaque nuit.
-Le Lunatique apprend également des informations erronées lors de la première nuit : il pense connaître ses [<span style="color:red">Sbires</span>](../sbires.md) et reçoit trois bluffs de rôles bons, comme un Démon normal.
+- Le vrai Démon sait quels joueurs le Lunatique choisit d’attaquer chaque nuit.
+
 
 ---
 
 ##  <span style="color:blue">Comment Conter</span>  
 
-**Mise en place :**  
-- Placez les jetons du **<span style="color:red">Démon</span>** et du **Lunatique** dans le sac avant la distribution.  
-- Une fois tous les jetons récupérés, échangez leurs positions dans le Grimoire.
+**Instruction au Conteur**
 
-**Première nuit :**  
-1. Réveillez le Lunatique, montrez-lui le jeton « **Voici vos Sbires** » et pointez un nombre de joueurs correspondant au nombre de Sbires en jeu (peu importe qui).  
-2. Montrez-lui **trois jetons de rôles bons** comme bluffs (même s’ils sont réellement en jeu).  
-3. Endormez-le.  
-4. Réveillez ensuite le vrai <span style="color:red">Démon</span> et montrez-lui :  
-   - le jeton « **Vous êtes** » puis son jeton Démon. ( Cela lui indique qu'il est le véritable Démon. )  
-   - puis le jeton « **Ce joueur est** » puis le jeton Lunatique, et désignez le joueur Lunatique. 
+Lors de la mise en place du jeu, placez les jetons Lunatique et Démon dans le sac.<br> Une fois que tous les jetons vous ont été rendus, échangez les positions des jetons Lunatique et Démon
+dans le Grimoire.
 
-**Chaque nuit suivante :**  
-1. Avant de réveiller le Démon, réveillez le Lunatique.  
-2. Laissez-le effectuer ses choix comme un Démon.  
-3. Placez des rappels sur les cibles qu’il indique, puis endormez-le.  
-4. Réveillez le vrai <span style="color:red">Démon</span>, pointez le Lunatique, puis montrez-lui les cibles que celui-ci a choisies avant qu’il n’agisse normalement.
+- Lors de la première nuit, réveillez le Lunatique et faites comme s’il était le Démon.<br> Montrez-lui la tuile **VOICI VOS SBIRES** et désignez un nombre de joueurs égal au nombre de Sbires en jeu.<br>
+(Il peut s’agir de n’importe quels joueurs, et ils peuvent être des Sbires ou non.)<br> Montrez trois jetons de rôle bons pour constituer les bluffs du Lunatique. (Il peut même s’agir de rôles qui sont en jeu.)
+
+- Lors de la première nuit, réveillez le Démon. Montrez-lui la tuile **VOUS ÊTES** puis son jeton Démon.<br> (Cela lui indique qu’il est le véritable Démon.) Montrez-lui la tuile **CE JOUEUR EST**, puis le jeton Lunatique, puis désignez le joueur Lunatique.
+
+- Chaque nuit, avant que le Démon ne se réveille pour attaquer, réveillez le Lunatique pour qu’il agisse comme s’il était ce Démon. <br> Placez un jeton **CHOISI** sur chaque joueur qu’il choisit.<br> Ensuite, le
+Lunatique se rendort.<br> Réveillez le vrai Démon, désignez le Lunatique, montrez le jeton Lunatique au vrai Démon et désignez les joueurs choisis par le Lunatique.<br> Ensuite, le Démon agit normalement.
+
+<div style="display:flex; align-items:center; justify-content:center; gap:10px; margin:30px auto;">
+  <span style="color:#b7a096; font-size:46px;">❦</span>
+
+  <div style="
+    max-width: 760px;
+    padding: 16px 22px;
+    color: #7b3f3f;
+    background: rgba(255, 248, 240, 0.92);
+    border: 4px double #b7a096;
+    font-size: 18px;
+    line-height: 1.7;
+    font-style: italic;
+  ">
+    Vous pouvez faire croire au Lunatique qu’il s’agit d’un Démon différent du Démon en jeu en plaçant deux jetons Démon dans le sac,<br> puis en remplaçant l’un d’eux par le jeton Lunatique une fois qu’ils sont dans le Grimoire.
+  </div>
+
+  <span style="color:#b7a096; font-size:46px;">❦</span>
+</div>
 
 ---
 
 ## <span style="color:blue">Exemples</span>  
 
-- Le Lunatique, croyant être un [<span style="color:red">Shabaloth</span>](shabaloth.md), choisit deux joueurs chaque nuit — mais personne ne meurt.  
-- Le Lunatique, persuadé d’être un [<span style="color:red">Zombuul</span>](zombuul.md), ne se réveille presque jamais, tandis que le vrai Zombuul imite ses choix pour entretenir l’illusion.  
-- Le Lunatique croit être un [<span style="color:red">Po</span>](po.md) et accumule les morts dans sa tête, mais en réalité, les victimes correspondent uniquement aux choix du vrai Démon.
+- Le Lunatique pense qu’il est le [<span style="color:red">Shabaloth</span>](shabaloth.md). Il se réveille chaque nuit pour choisir deux joueurs.<br> Les joueurs choisis ne meurent pas.
+
+- Le Lunatique pense qu’il est le [<span style="color:red">Zombuul</span>](zombuul.md). Il ne se réveille pas souvent la nuit.<br> Le vrai [<span style="color:red">Zombuul</span>](zombuul.md) qui se fait passer pour le Sbire du Lunatique, attaque souvent les mêmes joueurs que ceux choisis par le Lunatique afin de faire croire que le Lunatique est le Démon.
+  
 
 ---
 
@@ -131,7 +152,7 @@ Le **Lunatique** est un Marginal fascinant : il croit semer la terreur, alors qu
 
 ###  Découvrir la vérité  
 
-- Si vos attaques semblent échouer, posez-vous des questions.  
+- Si vos attaques nocturnes semblent échouer, posez-vous des questions.  
   → Vous choisissez des joueurs, mais d’autres meurent ? Vous tuez deux personnes une nuit, puis aucune la suivante ? Peut-être n’êtes-vous pas vraiment le Démon.  
 
 - Observez les réactions de vos « Sbires ».  
@@ -141,7 +162,7 @@ Le **Lunatique** est un Marginal fascinant : il croit semer la terreur, alors qu
   (Attention : un [<span style="color:red">Zombuul</span>](zombuul.md) ou un [<span style="color:red">Conspirateur</span>](cerveau.md) peuvent faire durer la partie, donc ne sautez pas trop vite aux conclusions.)
 
 - Les bluffs que vous avez reçus peuvent être de faux indices :  
-  → Si l’un de ces rôles se révèle réellement en jeu (ex. une [Dame de Thé](damedethe.md) authentique), vous êtes probablement le Lunatique.  
+  → Si l’un de ces rôles se révèle réellement en jeu (ex. une [Tisanière](damedethe.md) authentique), vous êtes probablement le Lunatique.  
 
 ---
 
@@ -158,7 +179,7 @@ Quand vous êtes sûr(e), annoncez publiquement votre rôle :
 
 ---
 
-##  <span style="color:blue">Bluffer Lunatique</span>   
+##  <span style="color:blue">Bluffer le Lunatique</span>   
 
 ###  Si, vous êtes <span style="color:blue">Bon</span>  :  
 - Bluffez un rôle maléfique (comme un <span style="color:red">Démon</span>) pendant un moment, puis « réalisez » que vous êtes le Lunatique.  
@@ -192,14 +213,15 @@ Quand vous êtes sûr(e), annoncez publiquement votre rôle :
          style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../bmr_roles/mathematician.html"
        style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mathématicien</a> :
-    Le <span style="color:#4ea3ff; font-weight:bold;">Mathématicien</span> peut apprendre
-    si le <span style="color:#4ea3ff font-weight:bold;">Lunatique</span> attaque une personne
-    différente de celle visée par le vrai <span style="color:#d45b5b font-weight:bold;">Démon</span>.
+    Le <span style="color:#4ea3ff; font-weight:bold;">Mathématicien</span> pourrait apprendre 
+    si le <span style="color:#4ea3ff font-weight:bold;">Lunatique</span> attaque un joueur
+   différent de celui attaqué par le véritable  <span style="color:#d45b5b font-weight:bold;">Démon</span>.
   </li>
 
 </ul>
 
 ---
+
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
