@@ -245,11 +245,11 @@ Le <a href="./conteur.html" style="color:#d4a76a; font-weight:bold; text-decorat
   </li>
 
   <li>
-    Le <a href="./conteur.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">conteur</a> tisse les liens entre les actions, ajuste la difficulté et veille à ce que chaque joueur vive une expérience mémorable.
+    Le <a href="./conteur.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Conteur</a> tisse les liens entre les actions, ajuste la difficulté et veille à ce que chaque joueur vive une expérience mémorable.
   </li>
 
   <li>
-    Le jeu encourage la <strong>participation continue</strong> (même mort, on parle encore), la <strong>créativité</strong> (scripts personnalisés, rôles expérimentaux) et la <strong>communauté</strong> (tables physiques, serveurs en ligne, événements).
+    Le jeu encourage la <strong>participation continue</strong> (même mort, on parle encore, on joue), la <strong>créativité</strong> (scripts personnalisés, rôles expérimentaux) et la <strong>communauté</strong> (tables physiques, serveurs en ligne, événements).
   </li>
 </ul>
 
@@ -271,3 +271,4 @@ Le <a href="./conteur.html" style="color:#d4a76a; font-weight:bold; text-decorat
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li> <a href="./index.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
 </ul>
+
