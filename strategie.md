@@ -14,7 +14,7 @@ image: /images/logogold.png
 <!-- STYLE GLOBAL POUR LES TITRES -->
 <style>
   h1, h2, h3 {
-    color:#e0c99d !important;
+    color:#5C2E1F  !important;
   }
 </style>
 
@@ -28,17 +28,17 @@ image: /images/logogold.png
 
 <hr>
 
-<h2 style="color:#e0c99d;"> Sommaire</h2>
-<ol style="color:#e0c99d;">
+<h2 style="color:#5C2E1F;"> Sommaire</h2>
+<ol style="color:#5C2E1F;">
   <li><a href="#section1" style="color:#e0c99d;">Merci, je suis du côté des bons ! Et maintenant ?</a></li>
   <ul>
-    <li><a href="#section11" style="color:#e0c99d;">Douces cerises, je suis Villageoise !</a></li>
-    <li><a href="#section12" style="color:#e0c99d;">Bon sang, je suis Étranger !</a></li>
+    <li><a href="#section11" style="color:#5C2E1F;">Douces cerises, je suis Villageoise !</a></li>
+    <li><a href="#section12" style="color:#5C2E1F;">Bon sang, je suis un Marginal !</a></li>
   </ul>
-  <li><a href="#section2" style="color:#e0c99d;">Oh c'est chaud, je suis Maléfique ! Et maintenant ?</a></li>
+  <li><a href="#section2" style="color:#5C2E1F;">Oh c'est chaud, je suis Maléfique ! Et maintenant ?</a></li>
   <ul>
-    <li><a href="#section21" style="color:#e0c99d;">Oh génial, je suis Sbire !</a></li>
-    <li><a href="#section22" style="color:#e0c99d;">Oh lala, je suis Démon !</a></li>
+    <li><a href="#section21" style="color:#5C2E1F;">Oh génial, je suis un Sbire !</a></li>
+    <li><a href="#section22" style="color:#5C2E1F;">Oh lala, je suis le Démon !</a></li>
   </ul>
 </ol>
 
