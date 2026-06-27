@@ -512,3 +512,15 @@ h1, h2, h3, h4, h5, h6 {
     margin-right: 0 !important;
   }
 }
+/* TEST menu violet */
+body::after {
+  content: "";
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 240px;
+  height: 100vh;
+  background: url("/botc-fr-bambi/images/sidebar-purple.jpeg") center / cover no-repeat;
+  z-index: 10;
+  pointer-events: none;
+}
