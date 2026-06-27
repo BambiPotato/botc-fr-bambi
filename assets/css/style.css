@@ -467,3 +467,28 @@ h1, h2, h3, h4, h5, h6 {
   border: none;
   border-top: 1px solid rgba(75,31,37,0.55);
 }
+/* Menus/listes flottantes à droite sur fond parchemin */
+.wiki-parchment div[style*="float:right"] {
+  background: rgba(246,239,229,0.78) !important;
+  border: 1px solid rgba(184,157,148,0.55) !important;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.10);
+  box-sizing: border-box;
+  overflow-wrap: break-word;
+}
+
+/* Évite que les traits passent dans les encadrés à droite */
+.wiki-parchment hr {
+  clear: both;
+  border: none;
+  border-top: 1px solid rgba(75,31,37,0.55);
+}
+
+/* Sur mobile/tablette, les listes à droite passent en bloc normal */
+@media (max-width: 900px) {
+  .wiki-parchment div[style*="float:right"] {
+    float: none !important;
+    width: auto !important;
+    max-width: 100% !important;
+    margin: 20px 0 !important;
+  }
+}
