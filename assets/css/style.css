@@ -450,3 +450,20 @@ h1, h2, h3, h4, h5, h6 {
     display: none;
   }
 }
+/* Encadrés latéraux sur parchemin */
+.wiki-parchment #liste-lorics {
+  background: rgba(246,239,229,0.72) !important;
+  border: 1px solid rgba(127,209,174,0.65) !important;
+  border-left: 3px solid #7fd1ae !important;
+  color: #4b1f25 !important;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.12);
+}
+
+/* Traits séparateurs dans le parchemin */
+.wiki-parchment hr {
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  border: none;
+  border-top: 1px solid rgba(75,31,37,0.55);
+}
