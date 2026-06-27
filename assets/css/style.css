@@ -295,3 +295,34 @@ p[align="left"]::after {
   display: block;
   clear: both;
 }
+
+/* =========================================================
+   PARCHEMIN — texte lisible sans casser les liens colorés
+   ========================================================= */
+
+.wiki-parchment {
+  color: #4b1f25;
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+.wiki-parchment p,
+.wiki-parchment li,
+.wiki-parchment ul,
+.wiki-parchment ol,
+.wiki-parchment strong,
+.wiki-parchment em {
+  color: inherit;
+}
+
+/* Les anciens liens sans couleur restent bleus */
+.wiki-parchment a {
+  color: var(--link-blue);
+}
+
+/* Si une page force du blanc dans le parchemin, on le rend lisible */
+.wiki-parchment [style*="color:#f5f5f5" i],
+.wiki-parchment [style*="color:#fff" i],
+.wiki-parchment [style*="color:white" i],
+.wiki-parchment [style*="color:#ffffff" i] {
+  color: #4b1f25 !important;
+}
