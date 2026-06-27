@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Fou
+title: Fou du roi
+description: "La première fois que vous mourez, vous ne mourez pas."
+image: /images/Icon_fool.png
 ---
 
 
@@ -49,7 +51,13 @@ title: Fou
   </li>
 </ul>
 
-> *«…et le roi s’exclama : “Quoi ?! Je n’ai jamais possédé de pantalon en caoutchouc, encore moins un canon à crème anglaise !” Ho-ho ! Quelle journée joyeuse ! »*
+
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« ... Et le roi dit : “Quoi ?!<br> Je n’ai jamais possédé de pantalon en caoutchouc,<br> 
+et encore moins un canon à crème anglaise !”<br> 
+Ha ha ! Bonne journée ! »
+</p>
+
 ---
 
 ##  Apparaît dans  
@@ -75,52 +83,53 @@ title: Fou
 "Cult of the Clocktower – épisode par Andrew Nathenson"
 </p>
 
+---
 
 ##  <span style="color:blue">Résumé</span>   
 
-**« La première fois que vous mourrez, vous ne mourrez pas. »**
+**LE FOU DU ROI** échappe à la mort... une fois.
 
-Le **Fou** échappe à la mort… **une seule fois**.
+- La première fois que le Fou du roi doit mourir, quelle qu’en soit la raison, il reste en vie.<br>
+Il n’apprend pas que sa capacité lui a sauvé la vie.
 
-- La première fois que le Fou devrait mourir (quelle qu’en soit la cause), il **reste en vie**.  
-- Il **n’apprend pas** que sa capacité s’est déclenchée.  
-- Si un autre rôle l’empêche de mourir par exemple avec la protection d'une [Dame de Thé](damedethe.md), ou d'un [Aubergiste](aubergiste.md), la capacité du Fou **ne se déclenche pas**.  
-
+- Si la capacité d’un autre rôle protège le Fou du roi de la mort, le Fou du roi n’utilise pas sa capacité.<br> La capacité du Fou du roi se déclenche uniquement si rien d’autre ne le sauve de la mort.
+ 
 ---
 
 ##  <span style="color:blue">Comment Conter</span>   
 
-- Si le Fou **devrait mourir**, il **reste en vie** (sauf s’il est ivre ou empoisonné).  
-- S’il est **exécuté**, annoncez qu’il a été exécuté **mais reste en vie** — sans en expliquer la raison.  
-- Placez ensuite le jeton de rappel **« AUCUNE CAPACITÉ »** : son pouvoir est utilié pour le reste de la partie.  
+**Instruction au Conteur**
+
+- Si le Fou du roi doit mourir, il reste en vie. (Mais il meurt s’il est ivre ou empoisonné.)<br> Si le Fou du roi a été exécuté, annoncez que le joueur a été exécuté mais qu’il reste en vie. (Ne dites pas pourquoi.)
+
+- Dans tous les cas, le Fou du roi perd sa capacité — marquez-le du jeton **SANS CAPACITÉ**.
 
 ---
 
 ##   <span style="color:blue">Exemples</span>  
 
-- Le premier jour, le Fou est exécuté mais **survit**.  
-  Le quatrième jour, il est exécuté à nouveau : cette fois, il **meurt**.  
+- Le premier jour, le Fou du roi est exécuté mais reste en vie. <br>Le quatrième jour, le Fou du roi est à nouveau exécuté.<br> Cette fois, il meurt.
 
-- Le [<span style="color:red">Démon</span>](../demons.md) attaque le Fou : il **survit**. Personne ne meurt cette nuit-là.  
-  Le lendemain, le [<span style="color:#9b59b6">Juge</span>](../voyageurs/judge.md) fait exécuter le Fou, qui **meurt**.  
+- Le Démon attaque le Fou du roi, qui reste en vie.<br> Personne ne meurt cette nuit-là.<br> Le lendemain, le Fou du roi est exécuté par le [<span style="color:#9b59b6">Juge</span>](../voyageurs/judge.md)  et meurt.
 
-- Le [<span style="color:#red">Démon</span>](../demons.md) attaque le Fou, protégé par la [Dame de Thé](damedethe.md) : il survit et **garde sa capacité**.  
-  Plus tard, après la mort de la [Dame de Thé](damedethe.md), le [<span style="color:red">Démon</span>](../demons.md) l’attaque à nouveau : 
-  le Fou est protégé par l’[Aubergiste](aubergiste.md).  
-  Enfin, lorsque l’[Aubergiste](aubergiste.md) meurt, le [<span style="color:red">Démon</span>](../demons.md) attaque une troisième fois :  
-  le Fou survit **grâce à sa propre capacité**, mais la perd ensuite.  
+- Le Démon attaque le Fou du roi, qui est protégé par la [Tisanière](damedethe.md).<br>
+Le Fou du roi reste en vie et conserve sa capacité.<br>
+Plus tard, après la mort de la [Tisanière](damedethe.md), le Démon attaque le Fou du roi, qui est désormais protégé par [Aubergiste](aubergiste.md).<br> 
+Le Fou du roi reste en vie et conserve sa capacité.<br>
+Plus tard, après la mort de l’[Aubergiste](aubergiste.md), le Démon attaque le Fou du roi. Il reste en vie, mais a maintenant utilisé sa capacité ; la prochaine fois, il mourra.
+
 
 ---
 
 ##  <span style="color:blue">Astuces & Stratégie</span>   
 
-Le **Fou** est un rôle de survie : il peut **respirer une fois de plus** dans un monde sanglant.  
+Le **Fou du roi** est un rôle de survie : il peut **respirer une fois de plus** dans un monde sanglant.  
 Mais bien joué, il peut aussi **protéger des alliés** et **piéger les Maléfiques**.  
 
 ###  <span style="color:blue">Jouer avec audace</span>  
 
 - Votre capacité vous protège **une seule fois**.  
-  Utilisez-la pour **bluffer** : prétendez être un [Exorciste](exorciste.md) ou un [Courtisan](courtisan.md) afin d’attirer du [<span style="color:red">Démon</span>](../demons.md).  
+  Utilisez-la pour **bluffer** : prétendez être un [Exorciste](exorciste.md) ou un [Courtisan](courtisan.md) afin d’attirer le [<span style="color:red">Démon</span>](../demons.md).  
 - Contre des Démons comme le [<span style="color:red">Po</span>](po.md) ou le [<span style="color:red">Shabaloth</span>](shabaloth.md), c’est une excellente tactique :  
   s’ils vous visent, vous survivez… et un autre joueur bon aussi !  
 
@@ -128,6 +137,7 @@ Mais bien joué, il peut aussi **protéger des alliés** et **piéger les Maléf
 
 - Si le Village doute de vous, proposez une **exécution volontaire** :  
   vous ne mourrez pas, ce qui prouve (en apparence) votre rôle.  
+  
 - Attention toutefois : cette preuve **n’est pas absolue** — un [<span style="color:red">Avocat du Diable</span>](avocatdudiable.md) pourrait produire le même effet.  
 - Perdre votre capacité ainsi vous rend vulnérable la nuit suivante : pesez le risque.  
 
@@ -140,33 +150,33 @@ Mais bien joué, il peut aussi **protéger des alliés** et **piéger les Maléf
 
 - Vous pouvez **bluffer** pour protéger un autre joueur.  
   Par exemple, si le [Pacifiste](pacifiste.md) veut se cacher, prétendez être lui.  
-- Si vous mourez malgré tout, cela peut révéler des infos :  
-  - Le [<span style="color:red">Assassin</span>](assassin.md) ignore votre protection.  
+  Si vous mourez malgré tout, cela peut révéler des infos :  
+  - L' [<span style="color:red">Assassin</span>](assassin.md) ignore votre protection.  
   - Le [<span style="color:red">Pukka</span>](pukka.md) peut vous empoisonner et neutraliser votre capacité.  
   - Un [Marin](marin.md) ivre pourrait provoquer une mort accidentelle.  
 
 ---
 
-##  <span style="color:blue">Bluffer Fou</span>   
+##  <span style="color:blue">Bluffer le Fou du roi</span>   
 
 - **Pour les bons joueurs :**  
-  Le Fou est un **excellent bluff défensif**.  
+  Le **Fou du roi** est un **excellent bluff défensif**.  
   Le [<span style="color:red">Démon</span>](../demons.md) hésitera à vous attaquer.  
-  Si vous jouez un rôle vulnérable (comme l’[Exorciste](exorciste.md) ou la [Femme de Chambre](femmedecha.md)), prétendre être le Fou peut **sauver votre vie**.  
+  Si vous jouez un rôle vulnérable (comme l’[Exorciste](exorciste.md) ou la [Femme de Chambre](femmedecha.md)), prétendre être le **Fou du roi**  peut **sauver votre vie**.  
 
 - **Pour les maléfiques :**  
-  Le Fou est un **bluff flexible et crédible**.  
+  Le **Fou du roi** est un **bluff flexible et crédible**.  
   Vous pouvez dire : *« Je suis soit le Fou, soit le Courtisan »* pour garder le doute.  
   C’est un rôle universel et indémodable.  
 
-- Si vous vous proclamez publiquement **Fou**, certains joueurs voudront **vous exécuter pour vérifier**.  
-  Cela peut fonctionner, mais exécuter un vrai Fou peut coûter cher au Bien.  
+- Si vous vous clamez publiquement être le **Fou du roi**, certains joueurs voudront **vous exécuter pour vérifier**.  
+  Cela peut fonctionner, mais exécuter un vrai **Fou du roi** peut coûter cher au **Bien**.  
   Argumentez : votre pouvoir est **bien plus utile la nuit** !  
 
 - En présence d’un [<span style="color:red">Avocat du Diable</span>](avocatdudiable.md), coordonnez-vous :  
   il peut simuler votre survie pour renforcer votre crédibilité.  
 
-- Si un autre joueur maléfique **bluffe aussi le Fou**, ne le tuez pas :  
+- Si un autre joueur maléfique **bluffe aussi le Fou du roi**, ne le tuez pas :  
   sa mort révélerait le mensonge, ruinant le bluff collectif.  
 
 ---
