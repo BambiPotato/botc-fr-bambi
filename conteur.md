@@ -13,9 +13,9 @@ image: /images/logogold.png
 
 <!-- STYLE GLOBAL POUR HARMONISATION -->
 <style>
-  h2 { color:#e0c99d !important; margin-top:45px; }
-  h3 { color:#e0c99d !important; margin-top:32px; }
-  ol li a { color:#e0c99d !important; }
+  h2 { color:#d4a76a !important; margin-top:45px; }
+  h3 { color:#d4a76a!important; margin-top:32px; }
+  ol li a { color:#ed4a76a!important; }
   hr.section { border:0; border-top:1px solid #4a3e2a; margin:30px 0; }
 </style>
 
@@ -27,7 +27,7 @@ image: /images/logogold.png
    <span style="color:#d4a76a;">Rôle du Conteur</span>
 </h1>
 
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+<p style="text-align:center; color:#d4a76a; font-style:italic; font-size:18px; margin-top:-10px;">
   « Celui qui tisse les fils du destin, et veille à ce que chaque partie reste magique. »
 </p>
 
@@ -35,7 +35,7 @@ image: /images/logogold.png
 
 <!-- Sommaire -->
 <h2 id="sommaire">Sommaire</h2>
-<ol style="color:#e0c99d;">
+<ol style="color:#d4a76a;">
   <li><a href="#section-1">Faire fonctionner les choses en douceur</a></li>
   <li><a href="#section-2">Rendre le jeu amusant</a></li>
   <li><a href="#section-3">Le Script</a></li>
@@ -69,7 +69,7 @@ image: /images/logogold.png
   Utilisez votre <strong>jugement de Conteur</strong> : si une possibilité de retournement existe, même infime, laissez la partie continuer.
 </p>
 
-<h3>Confirmer les choix des joueurs et des joueuses</h3>
+<h3>Confirmer les choix des joueurs</h3>
 <p>
   Pendant la nuit, lorsque quelqu’un fait un choix, <strong>confirmez-le avec un geste clair</strong> (pointez du doigt vers la cible).
   Si le geste est ambigu, <strong>déplacez-vous</strong> vers le joueur visé, <strong>pointez clairement</strong>, puis attendez un hochement de tête pour valider.
@@ -125,7 +125,7 @@ image: /images/logogold.png
   Vous pouvez signaler qu’une erreur a eu lieu sans en dévoiler la nature.
 </p>
 
-<h3>Oublier de réveiller quelqu’un</h3>
+<h3>Oublier de réveiller un joueur</h3>
 <p>
   Deux options :
 </p>
@@ -148,7 +148,7 @@ image: /images/logogold.png
   <br>Exemples :
 </p>
 <blockquote>
-  ❌ « <a href="./tb_roles/empathique.html" style="color:blue; text-decoration:none;">L’Empath</a> voulait savoir… »<br>
+  ❌ « <a href="./tb_roles/empathique.html" style="color:blue; text-decoration:none;">L’Empathe</a> voulait savoir… »<br>
   ✅ « Cédric voulait savoir… »
 </blockquote>
 
@@ -210,7 +210,7 @@ image: /images/logogold.png
   Pour varier, utilisez les nombreux rôles officiels et communautaires, pas l’arbitraire.
 </p>
 
-<h3>Laisser décider les joueurs et les joueuses</h3>
+<h3>Laisser décider les joueurs</h3>
 <p>
   Même si leurs choix paraissent absurdes, <strong>n’orientez pas</strong>. 
   Leur stratégie leur appartient et fait la richesse du jeu.
@@ -421,7 +421,7 @@ image: /images/logogold.png
   Chaque erreur est une étape d’apprentissage.
 </p>
 
-<h3>Faire entrer des Voyageurs et Voyageuses</h3>
+<h3>Faire entrer des Voyageurs</h3>
 <p>
   Parfait pour accueillir du monde en cours de partie : 
   leur arrivée apporte équilibre et renouveau.
