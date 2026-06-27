@@ -116,23 +116,29 @@ dans le Grimoire.
 - Chaque nuit, avant que le Démon ne se réveille pour attaquer, réveillez le Lunatique pour qu’il agisse comme s’il était ce Démon. <br> Placez un jeton **CHOISI** sur chaque joueur qu’il choisit.<br> Ensuite, le
 Lunatique se rendort.<br> Réveillez le vrai Démon, désignez le Lunatique, montrez le jeton Lunatique au vrai Démon et désignez les joueurs choisis par le Lunatique.<br> Ensuite, le Démon agit normalement.
 
-<div style="display:flex; align-items:center; justify-content:center; gap:10px; margin:30px auto;">
-  <span style="color:#b7a096; font-size:46px;">❦</span>
+<div style="display:flex; align-items:center; justify-content:center; gap:16px; margin:30px 0;">
 
-  <div style="
-    max-width: 760px;
-    padding: 16px 22px;
-    color: #7b3f3f;
-    background: rgba(255, 248, 240, 0.92);
-    border: 4px double #b7a096;
-    font-size: 18px;
-    line-height: 1.7;
-    font-style: italic;
-  ">
-    Vous pouvez faire croire au Lunatique qu’il s’agit d’un Démon différent du Démon en jeu en plaçant deux jetons Démon dans le sac,<br> puis en remplaçant l’un d’eux par le jeton Lunatique une fois qu’ils sont dans le Grimoire.
-  </div>
+<span style="font-size:42px; color:#b79b90;">❦</span>
 
-  <span style="color:#b7a096; font-size:46px;">❦</span>
+<div style="
+  flex:1;
+  max-width:760px;
+  padding:18px 28px;
+  background:rgba(248,244,238,0.96);
+  border:4px double #b79b90;
+  color:#7a4343;
+  font-size:18px;
+  line-height:1.8;
+  font-style:italic;
+  white-space:normal;
+  overflow-wrap:break-word;
+">
+Vous pouvez faire croire au Lunatique qu’il s’agit d’un Démon différent du Démon en jeu en plaçant deux jetons Démon dans le sac,
+puis en remplaçant l’un d’eux par le jeton Lunatique une fois qu’ils sont dans le Grimoire.
+</div>
+
+<span style="font-size:42px; color:#b79b90;">❦</span>
+
 </div>
 
 ---
