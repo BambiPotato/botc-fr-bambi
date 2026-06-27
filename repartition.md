@@ -68,7 +68,7 @@ Voici la configuration officielle :
       <tr>
         <th>Nombre de joueurs et joueuses</th>
         <th><a href="villageois.html"><span style="color:#4ea3ff;">Villageois</span></a> <img src="images/Generic_townsfolk.png" alt="Villageois" width="24"></th>
-        <th><a href="etrangers.html"><span style="color:#4ea3ff;">Étrangers</span></a> <img src="images/Generic_outsider.png" alt="Étrangers" width="24"></th>
+        <th><a href="etrangers.html"><span style="color:#4ea3ff;">Marginaux</span></a> <img src="images/Generic_outsider.png" alt="Étrangers" width="24"></th>
         <th><a href="sbires.html"><span style="color:#d45b5b;">Sbires</span></a> <img src="images/Generic_minion.png" alt="Sbires" width="24"></th>
         <th><a href="demons.html"><span style="color:#d45b5b;">Démons</span></a> <img src="images/Generic_demon.png" alt="Démons" width="24"></th>
       </tr>
