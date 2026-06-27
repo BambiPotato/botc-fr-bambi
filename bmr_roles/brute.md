@@ -98,7 +98,7 @@ J’me soigne seul. À demain. »
 
 - Plus tard, lors de la même nuit, si un autre joueur se réveille pour utiliser sa capacité et choisit le Gros bras,<br> alors cette capacité fonctionne normalement.
 
-- Le Gros bras ne peut pas enivrer un joueur autrement qu’en étant choisi par ce joueur.<br> La capacité du **Gros bras** ne se déclenche pas si c’est le Conteur qui le choisit pour une capacité *(par exemple pour celle de la [Grand-mère](Grand-mère.md))*.
+- Le Gros bras ne peut pas enivrer un joueur autrement qu’en étant choisi par ce joueur.<br> La capacité du **Gros bras** ne se déclenche pas si c’est le Conteur qui le choisit pour une capacité *(par exemple pour celle de la [Grand-mère](grandmere.md))*.
 
 - Dès que le Gros bras enivre un joueur, le Gros bras change d’alignement pour correspondre à celui de ce joueur.<br> Le Gros bras change d’alignement et enivre le joueur même si le joueur qui a choisi le Gros bras était déjà ivre ou empoisonné.
 
