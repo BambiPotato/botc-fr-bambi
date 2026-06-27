@@ -30,9 +30,9 @@ image: /images/logogold.png
 
 <h2 style="color:#5C2E1F;"> Sommaire</h2>
 <ol style="color:#5C2E1F;">
-  <li><a href="#section1" style="color:#e#5C2E1F;">Merci, je suis du côté des bons ! Et maintenant ?</a></li>
+  <li><a href="#section1" style="color:#5C2E1F;">Merci, je suis du côté des bons ! Et maintenant ?</a></li>
   <ul>
-    <li><a href="#section11" style="color:#5C2E1F;">Douces cerises, je suis Villageoise !</a></li>
+    <li><a href="#section11" style="color:#5C2E1F;">Douces cerises, je suis Villageois !</a></li>
     <li><a href="#section12" style="color:#5C2E1F;">Bon sang, je suis un Marginal !</a></li>
   </ul>
   <li><a href="#section2" style="color:#5C2E1F;">Oh c'est chaud, je suis Maléfique ! Et maintenant ?</a></li>
@@ -47,7 +47,7 @@ image: /images/logogold.png
 <h2 id="section1">Merci, mon rôle est <span style="color:blue;">bleu</span> ! Je suis du côté du Bien !</h2>
 
 <p>
-Vous avez tiré un <strong><span style="color:blue;">jeton bleu</span></strong> 🔵. Félicitations !  
+Vous avez tiré un <strong><span style="color:blue;">rôle bleu</span></strong>. 🔵 Félicitations !  
 Mais... et maintenant ? Que faire, quand parler, qui croire ? Voici l’essentiel.
 </p>
 
