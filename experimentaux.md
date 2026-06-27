@@ -27,7 +27,7 @@ image: /images/carousel.png
 
 <!-- INTRO -->
 <p style="text-align:left; color:#f5f5f5; font-style:italic; font-size:16px; margin-top:6px; line-height:1.7;">
-  «  <strong>Les rôles expérimentaux du <em>Carousel</em></strong> ouvrent la porte à de nouvelles mécaniques audacieuses et inédites.<br>
+  «  <strong>Les rôles expérimentaux du <em>Carrousel</em></strong> ouvrent la porte à de nouvelles mécaniques audacieuses et inédites.<br>
 Pensés pour les joueurs et Conteurs aguerris.<br>
 Ces rôles repoussent les limites de <em>Blood on the Clocktower</em> <br>
 et invitent à explorer des expériences de jeu aussi surprenantes que captivantes. »
@@ -57,113 +57,114 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
   <p style="font-weight:bold; color:#d4a76a; margin-top:0; margin-bottom:8px;">
     Rôles Expérimentaux
   </p>
+<p style="font-weight:bold; color:#80aee0; margin-bottom:4px;">Villageois</p>
+<ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
+  <li><a href="roles_experimentaux/acrobat.html" style="color:#4ea3ff; text-decoration:none;">Acrobate</a></li>
+  <li><a href="roles_experimentaux/balloonist.html" style="color:#4ea3ff; text-decoration:none;">Aéronaute</a></li>
+  <li><a href="roles_experimentaux/alchemist.html" style="color:#4ea3ff; text-decoration:none;">Alchimiste</a></li>
+  <li><a href="roles_experimentaux/alsaahir.html" style="color:#4ea3ff; text-decoration:none;">Alsaahir</a></li>
+  <li><a href="roles_experimentaux/amnesiac.html" style="color:#4ea3ff; text-decoration:none;">Amnésique</a></li>
+  <li><a href="roles_experimentaux/atheist.html" style="color:#4ea3ff; text-decoration:none;">Athée</a></li>
+  <li><a href="roles_experimentaux/banshee.html" style="color:#4ea3ff; text-decoration:none;">Banshee</a></li>
+  <li><a href="roles_experimentaux/cannibal.html" style="color:#4ea3ff; text-decoration:none;">Cannibale</a></li>
+  <li><a href="roles_experimentaux/huntsman.html" style="color:#4ea3ff; text-decoration:none;">Chasseur</a></li>
+  <li><a href="roles_experimentaux/bountyhunter.html" style="color:#4ea3ff; text-decoration:none;">Chasseur de primes</a></li>
+  <li><a href="roles_experimentaux/cultleader.html" style="color:#4ea3ff; text-decoration:none;">Chef de secte</a></li>
+  <li><a href="roles_experimentaux/knight.html" style="color:#4ea3ff; text-decoration:none;">Chevalier</a></li>
+  <li><a href="roles_experimentaux/choirboy.html" style="color:#4ea3ff; text-decoration:none;">Choriste</a></li>
+  <li><a href="roles_experimentaux/farmer.html" style="color:#4ea3ff; text-decoration:none;">Fermière</a></li>
+  <li><a href="roles_experimentaux/general.html" style="color:#4ea3ff; text-decoration:none;">Général</a></li>
+  <li><a href="roles_experimentaux/highpriestess.html" style="color:#4ea3ff; text-decoration:none;">Grande prêtresse</a></li>
+  <li><a href="roles_experimentaux/villageidiot.html" style="color:#4ea3ff; text-decoration:none;">Idiot du village</a></li>
+  <li><a href="roles_experimentaux/engineer.html" style="color:#4ea3ff; text-decoration:none;">Ingénieur</a></li>
+  <li><a href="roles_experimentaux/steward.html" style="color:#4ea3ff; text-decoration:none;">Intendante</a></li>
+  <li><a href="roles_experimentaux/lycanthrope.html" style="color:#4ea3ff; text-decoration:none;">Lycanthrope</a></li>
+  <li><a href="roles_experimentaux/magician.html" style="color:#4ea3ff; text-decoration:none;">Magicien</a></li>
+  <li><a href="roles_experimentaux/noble.html" style="color:#4ea3ff; text-decoration:none;">Noble</a></li>
+  <li><a href="roles_experimentaux/fisherman.html" style="color:#4ea3ff; text-decoration:none;">Pêcheur</a></li>
+  <li><a href="roles_experimentaux/pixie.html" style="color:#4ea3ff; text-decoration:none;">Pixie</a></li>
+  <li><a href="roles_experimentaux/poppygrower.html" style="color:#4ea3ff; text-decoration:none;">Planteur de pavot</a></li>
+  <li><a href="roles_experimentaux/preacher.html" style="color:#4ea3ff; text-decoration:none;">Prédicateur</a></li>
+  <li><a href="roles_experimentaux/princess.html" style="color:#4ea3ff; text-decoration:none;">Princesse</a></li>
+  <li><a href="roles_experimentaux/king.html" style="color:#4ea3ff; text-decoration:none;">Roi</a></li>
+  <li><a href="roles_experimentaux/shugenja.html" style="color:#4ea3ff; text-decoration:none;">Shugenja</a></li>
+  <li><a href="roles_experimentaux/nightwatchman.html" style="color:#4ea3ff; text-decoration:none;">Veilleur de nuit</a></li>
+</ul>
 
-  <p style="font-weight:bold; color:#80aee0; margin-bottom:4px;">Villageois</p>
-  <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
-    <li><a href="roles_experimentaux/acrobat.html" style="color:#4ea3ff; text-decoration:none;">Acrobate</a></li>
-    <li><a href="roles_experimentaux/alchemist.html" style="color:#4ea3ff; text-decoration:none;">Alchimiste</a></li>
-    <li><a href="roles_experimentaux/alsaahir.html" style="color:#4ea3ff; text-decoration:none;">Alsaahir</a></li>
-    <li><a href="roles_experimentaux/amnesiac.html" style="color:#4ea3ff; text-decoration:none;">Amnésique</a></li>
-    <li><a href="roles_experimentaux/atheist.html" style="color:#4ea3ff; text-decoration:none;">Athée</a></li>
-    <li><a href="roles_experimentaux/balloonist.html" style="color:#4ea3ff; text-decoration:none;">Aéronaute</a></li>
-    <li><a href="roles_experimentaux/banshee.html" style="color:#4ea3ff; text-decoration:none;">Banshee</a></li>
-    <li><a href="roles_experimentaux/bountyhunter.html" style="color:#4ea3ff; text-decoration:none;">Chasseur de primes</a></li>
-    <li><a href="roles_experimentaux/cannibal.html" style="color:#4ea3ff; text-decoration:none;">Cannibale</a></li>
-    <li><a href="roles_experimentaux/choirboy.html" style="color:#4ea3ff; text-decoration:none;">Enfant de Chœur</a></li>
-    <li><a href="roles_experimentaux/cultleader.html" style="color:#4ea3ff; text-decoration:none;">Chef de secte</a></li>
-    <li><a href="roles_experimentaux/engineer.html" style="color:#4ea3ff; text-decoration:none;">Ingénieur</a></li>
-    <li><a href="roles_experimentaux/farmer.html" style="color:#4ea3ff; text-decoration:none;">Fermier</a></li>
-    <li><a href="roles_experimentaux/fisherman.html" style="color:#4ea3ff; text-decoration:none;">Pêcheur</a></li>
-    <li><a href="roles_experimentaux/general.html" style="color:#4ea3ff; text-decoration:none;">Général</a></li>
-    <li><a href="roles_experimentaux/highpriestess.html" style="color:#4ea3ff; text-decoration:none;">Grande prêtresse</a></li>
-    <li><a href="roles_experimentaux/huntsman.html" style="color:#4ea3ff; text-decoration:none;">Chasseur</a></li>
-    <li><a href="roles_experimentaux/king.html" style="color:#4ea3ff; text-decoration:none;">Roi</a></li>
-    <li><a href="roles_experimentaux/knight.html" style="color:#4ea3ff; text-decoration:none;">Chevalier</a></li>
-    <li><a href="roles_experimentaux/lycanthrope.html" style="color:#4ea3ff; text-decoration:none;">Lycanthrope</a></li>
-    <li><a href="roles_experimentaux/magician.html" style="color:#4ea3ff; text-decoration:none;">Magicien</a></li>
-    <li><a href="roles_experimentaux/nightwatchman.html" style="color:#4ea3ff; text-decoration:none;">Veilleur de nuit</a></li>
-    <li><a href="roles_experimentaux/noble.html" style="color:#4ea3ff; text-decoration:none;">Noble</a></li>
-    <li><a href="roles_experimentaux/pixie.html" style="color:#4ea3ff; text-decoration:none;">Pixie</a></li>
-    <li><a href="roles_experimentaux/poppygrower.html" style="color:#4ea3ff; text-decoration:none;">Cultivateur de pavot</a></li>
-    <li><a href="roles_experimentaux/preacher.html" style="color:#4ea3ff; text-decoration:none;">Prédicateur</a></li>
-    <li><a href="roles_experimentaux/princess.html" style="color:#4ea3ff; text-decoration:none;">Princesse</a></li>
-    <li><a href="roles_experimentaux/shugenja.html" style="color:#4ea3ff; text-decoration:none;">Shugenja</a></li>
-    <li><a href="roles_experimentaux/steward.html" style="color:#4ea3ff; text-decoration:none;">Intendant</a></li>
-    <li><a href="roles_experimentaux/villageidiot.html" style="color:#4ea3ff; text-decoration:none;">Idiot du village</a></li>
-  </ul>
+<p style="font-weight:bold; color:#80aee0; margin-bottom:4px;">Marginaux</p>
+<ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
+  <li><a href="roles_experimentaux/snitch.html" style="color:#4ea3ff; text-decoration:none;">Balance</a></li>
+  <li><a href="roles_experimentaux/hatter.html" style="color:#4ea3ff; text-decoration:none;">Chapelier</a></li>
+  <li><a href="roles_experimentaux/damsel.html" style="color:#4ea3ff; text-decoration:none;">Demoiselle</a></li>
+  <li><a href="roles_experimentaux/plaguedoctor.html" style="color:#4ea3ff; text-decoration:none;">Docteur de peste</a></li>
+  <li><a href="roles_experimentaux/hermit.html" style="color:#4ea3ff; text-decoration:none;">Ermite</a></li>
+  <li><a href="roles_experimentaux/golem.html" style="color:#4ea3ff; text-decoration:none;">Golem</a></li>
+  <li><a href="roles_experimentaux/heretic.html" style="color:#4ea3ff; text-decoration:none;">Hérétique</a></li>
+  <li><a href="roles_experimentaux/puzzlemaster.html" style="color:#4ea3ff; text-decoration:none;">Maître des puzzles</a></li>
+  <li><a href="roles_experimentaux/ogre.html" style="color:#4ea3ff; text-decoration:none;">Ogre</a></li>
+  <li><a href="roles_experimentaux/politician.html" style="color:#4ea3ff; text-decoration:none;">Politicien</a></li>
+  <li><a href="roles_experimentaux/zealot.html" style="color:#4ea3ff; text-decoration:none;">Zélote</a></li>
+</ul>
 
-  <p style="font-weight:bold; color:#80aee0; margin-bottom:4px;">Étrangers</p>
-  <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
-    <li><a href="roles_experimentaux/damsel.html" style="color:#4ea3ff; text-decoration:none;">Demoiselle</a></li>
-    <li><a href="roles_experimentaux/golem.html" style="color:#4ea3ff; text-decoration:none;">Golem</a></li>
-    <li><a href="roles_experimentaux/hatter.html" style="color:#4ea3ff; text-decoration:none;">Chapelier</a></li>
-    <li><a href="roles_experimentaux/heretic.html" style="color:#4ea3ff; text-decoration:none;">Hérétique</a></li>
-    <li><a href="roles_experimentaux/hermit.html" style="color:#4ea3ff; text-decoration:none;">Ermite</a></li>
-    <li><a href="roles_experimentaux/ogre.html" style="color:#4ea3ff; text-decoration:none;">Ogre</a></li>
-    <li><a href="roles_experimentaux/plaguedoctor.html" style="color:#4ea3ff; text-decoration:none;">Docteur de la peste</a></li>
-    <li><a href="roles_experimentaux/politician.html" style="color:#4ea3ff; text-decoration:none;">Politicien</a></li>
-    <li><a href="roles_experimentaux/puzzlemaster.html" style="color:#4ea3ff; text-decoration:none;">Maître des puzzles</a></li>
-    <li><a href="roles_experimentaux/snitch.html" style="color:#4ea3ff; text-decoration:none;">Balance</a></li>
-    <li><a href="roles_experimentaux/zealot.html" style="color:#4ea3ff; text-decoration:none;">Zélote</a></li>
-  </ul>
+<p style="font-weight:bold; color:#a86464; margin-bottom:4px;">Sbires</p>
+<ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
+  <li><a href="roles_experimentaux/boomdandy.html" style="color:#d45b5b; text-decoration:none;">Boomdandy</a></li>
+  <li><a href="roles_experimentaux/goblin.html" style="color:#d45b5b; text-decoration:none;">Gobelin</a></li>
+  <li><a href="roles_experimentaux/harpy.html" style="color:#d45b5b; text-decoration:none;">Harpie</a></li>
+  <li><a href="roles_experimentaux/summoner.html" style="color:#d45b5b; text-decoration:none;">Invocatrice</a></li>
+  <li><a href="roles_experimentaux/boffin.html" style="color:#d45b5b; text-decoration:none;">Laborantin</a></li>
+  <li><a href="roles_experimentaux/wizard.html" style="color:#d45b5b; text-decoration:none;">Mage</a></li>
+  <li><a href="roles_experimentaux/marionette.html" style="color:#d45b5b; text-decoration:none;">Marionnette</a></li>
+  <li><a href="roles_experimentaux/mezepheles.html" style="color:#d45b5b; text-decoration:none;">Mezepheles</a></li>
+  <li><a href="roles_experimentaux/organgrinder.html" style="color:#d45b5b; text-decoration:none;">Orguaniste de rue</a></li>
+  <li><a href="roles_experimentaux/psychopath.html" style="color:#d45b5b; text-decoration:none;">Psychopathe</a></li>
+  <li><a href="roles_experimentaux/wraith.html" style="color:#d45b5b; text-decoration:none;">Spectre</a></li>
+  <li><a href="roles_experimentaux/fearmonger.html" style="color:#d45b5b; text-decoration:none;">Tourmenteur</a></li>
+  <li><a href="roles_experimentaux/widow.html" style="color:#d45b5b; text-decoration:none;">Veuve</a></li>
+  <li><a href="roles_experimentaux/vizier.html" style="color:#d45b5b; text-decoration:none;">Vizir</a></li>
+  <li><a href="roles_experimentaux/xaan.html" style="color:#d45b5b; text-decoration:none;">Xaan</a></li>
+</ul>
 
-  <p style="font-weight:bold; color:#a86464; margin-bottom:4px;">Sbires</p>
-  <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
-    <li><a href="roles_experimentaux/boffin.html" style="color:#d45b5b; text-decoration:none;">Boffin</a></li>
-    <li><a href="roles_experimentaux/boomdandy.html" style="color:#d45b5b; text-decoration:none;">Boomdandy</a></li>
-    <li><a href="roles_experimentaux/fearmonger.html" style="color:#d45b5b; text-decoration:none;">Fearmonger</a></li>
-    <li><a href="roles_experimentaux/goblin.html" style="color:#d45b5b; text-decoration:none;">Goblin</a></li>
-    <li><a href="roles_experimentaux/harpy.html" style="color:#d45b5b; text-decoration:none;">Harpie</a></li>
-    <li><a href="roles_experimentaux/marionette.html" style="color:#d45b5b; text-decoration:none;">Marionnette</a></li>
-    <li><a href="roles_experimentaux/mezepheles.html" style="color:#d45b5b; text-decoration:none;">Mezepheles</a></li>
-    <li><a href="roles_experimentaux/organgrinder.html" style="color:#d45b5b; text-decoration:none;">Orgue de Barbarie</a></li>
-    <li><a href="roles_experimentaux/psychopath.html" style="color:#d45b5b; text-decoration:none;">Psychopathe</a></li>
-    <li><a href="roles_experimentaux/summoner.html" style="color:#d45b5b; text-decoration:none;">Invocateur</a></li>
-    <li><a href="roles_experimentaux/vizier.html" style="color:#d45b5b; text-decoration:none;">Vizir</a></li>
-    <li><a href="roles_experimentaux/widow.html" style="color:#d45b5b; text-decoration:none;">Veuve</a></li>
-    <li><a href="roles_experimentaux/wizard.html" style="color:#d45b5b; text-decoration:none;">Wizard</a></li>
-    <li><a href="roles_experimentaux/wraith.html" style="color:#d45b5b; text-decoration:none;">Spectre</a></li>
-    <li><a href="roles_experimentaux/xaan.html" style="color:#d45b5b; text-decoration:none;">Xaan</a></li>
-  </ul>
+<p style="font-weight:bold; color:#a86464; margin-bottom:4px;">Démons</p>
+<ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
+  <li><a href="roles_experimentaux/alhadikhia.html" style="color:#d45b5b; text-decoration:none;">Al-Hadikhia</a></li>
+  <li><a href="roles_experimentaux/riot.html" style="color:#d45b5b; text-decoration:none;">Emeute</a></li>
+  <li><a href="roles_experimentaux/kazali.html" style="color:#d45b5b; text-decoration:none;">Kazali</a></li>
+  <li><a href="roles_experimentaux/legion.html" style="color:#d45b5b; text-decoration:none;">Légion</a></li>
+  <li><a href="roles_experimentaux/leviathan.html" style="color:#d45b5b; text-decoration:none;">Léviathan</a></li>
+  <li><a href="roles_experimentaux/ojo.html" style="color:#d45b5b; text-decoration:none;">Ojo</a></li>
+  <li><a href="roles_experimentaux/lleech.html" style="color:#d45b5b; text-decoration:none;">Parasyte</a></li>
+  <li><a href="roles_experimentaux/lordoftyphon.html" style="color:#d45b5b; text-decoration:none;">Seigneur de Typhon</a></li>
+  <li><a href="roles_experimentaux/lilmonsta.html" style="color:#d45b5b; text-decoration:none;">Timonstre</a></li>
+  <li><a href="roles_experimentaux/yaggababble.html" style="color:#d45b5b; text-decoration:none;">Yaggablabla</a></li>
+</ul>
 
-  <p style="font-weight:bold; color:#a86464; margin-bottom:4px;">Démons</p>
-  <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
-    <li><a href="roles_experimentaux/alhadikhia.html" style="color:#d45b5b; text-decoration:none;">Al-Hadikhia</a></li>
-    <li><a href="roles_experimentaux/kazali.html" style="color:#d45b5b; text-decoration:none;">Kazali</a></li>
-    <li><a href="roles_experimentaux/legion.html" style="color:#d45b5b; text-decoration:none;">Légion</a></li>
-    <li><a href="roles_experimentaux/leviathan.html" style="color:#d45b5b; text-decoration:none;">Léviathan</a></li>
-    <li><a href="roles_experimentaux/lilmonsta.html" style="color:#d45b5b; text-decoration:none;">P’tit Monstre</a></li>
-    <li><a href="roles_experimentaux/lleech.html" style="color:#d45b5b; text-decoration:none;">Sangsue</a></li>
-    <li><a href="roles_experimentaux/lordoftyphon.html" style="color:#d45b5b; text-decoration:none;">Seigneur de Typhon</a></li>
-    <li><a href="roles_experimentaux/ojo.html" style="color:#d45b5b; text-decoration:none;">Ojo</a></li>
-    <li><a href="roles_experimentaux/riot.html" style="color:#d45b5b; text-decoration:none;">Riot</a></li>
-    <li><a href="roles_experimentaux/yaggababble.html" style="color:#d45b5b; text-decoration:none;">Yaggababble</a></li>
-  </ul>
+<p style="font-weight:bold; color:#e0b97a; margin-bottom:4px;">Légendaires</p>
+<ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
+  <li><a href="legendaire_roles/deusexfiasco.html" style="color:#e0b97a; text-decoration:none;">Deus ex Fiasco</a></li>
+  <li><a href="legendaire_roles/ferryman.html" style="color:#e0b97a; text-decoration:none;">Le Passeur</a></li>
+</ul>
 
-  <p style="font-weight:bold; color:#e0b97a; margin-bottom:4px;">Légendaires</p>
-  <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
-    <li><a href="legendaire_roles/deusexfiasco.html" style="color:#e0b97a; text-decoration:none;">Deus ex Fiasco</a></li>
-    <li><a href="legendaire_roles/ferryman.html" style="color:#e0b97a; text-decoration:none;">Le Passeur</a></li>
-  </ul>
+<p style="font-weight:bold; color:#4caf50; margin-bottom:4px;">Lorics 🌿</p>
+<ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
+  <li><a href="loric_roles/stormcatcher.html" style="color:#4caf50; text-decoration:none;">Chasseur d'orages</a></li>
+  <li><a href="loric_roles/bootlegger.html" style="color:#4caf50; text-decoration:none;">Contrebandier</a></li>
+  <li><a href="loric_roles/bigwig.html" style="color:#4caf50; text-decoration:none;">Gros Bonnet</a></li>
+  <li><a href="loric_roles/gardener.html" style="color:#4caf50; text-decoration:none;">Jardinier</a></li>
+  <li><a href="loric_roles/pope.html" style="color:#4caf50; text-decoration:none;">Pape</a></li>
+  <li><a href="loric_roles/tor.html" style="color:#4caf50; text-decoration:none;">Tor</a></li>
+  <li><a href="loric_roles/zenomancer.html" style="color:#4caf50; text-decoration:none;">Zénomancien</a></li>
+</ul>
 
-  <p style="font-weight:bold; color:#4caf50; margin-bottom:4px;">Lorics 🌿</p>
-  <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
-    <li><a href="loric_roles/stormcatcher.html" style="color:#4caf50; text-decoration:none;">Attrape-tempête</a></li>
-    <li><a href="loric_roles/bootlegger.html" style="color:#4caf50; text-decoration:none;">Bootlegger</a></li>
-    <li><a href="loric_roles/bigwig.html" style="color:#4caf50; text-decoration:none;">Gros Bonnet</a></li>
-    <li><a href="loric_roles/gardener.html" style="color:#4caf50; text-decoration:none;">Jardinier</a></li>
-     <li><a href="loric_roles/pope.html" style="color:#4caf50; text-decoration:none;">Pape</a></li>
-    <li><a href="loric_roles/tor.html" style="color:#4caf50; text-decoration:none;">Tor</a></li>
-    <li><a href="loric_roles/zenomancer.html" style="color:#4caf50; text-decoration:none;">Zénomancien</a></li>
-  </ul>
-
-  <p style="font-weight:bold; color:#9b59b6; margin-bottom:4px;">Voyageurs</p>
-  <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:6px;">
-    <li><a href="voyageurs/cacklejack.html" style="color:#9b59b6; text-decoration:none;">Cacklejack</a></li>
-    <li><a href="voyageurs/gangster.html" style="color:#9b59b6; text-decoration:none;">Gangster</a></li>
-    <li><a href="voyageurs/gnome.html" style="color:#9b59b6; text-decoration:none;">Gnome</a></li>
-  </ul>
+<p style="font-weight:bold; color:#9b59b6; margin-bottom:4px;">Voyageurs</p>
+<ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:6px;">
+  <li><a href="voyageurs/cacklejack.html" style="color:#9b59b6; text-decoration:none;">Dépahsé</a></li>
+  <li><a href="voyageurs/gangster.html" style="color:#9b59b6; text-decoration:none;">Gangster</a></li>
+  <li><a href="voyageurs/gnome.html" style="color:#9b59b6; text-decoration:none;">Gnome</a></li>
+</ul>
 </div>
+ 
+
 
 <!-- 1. SYNOPSIS -->
 <h2 id="1-synopsis" style="color:#d4a76a; font-weight:800; font-size:16px; text-align:left; margin-top:18px;">1. Synopsis</h2>
@@ -187,11 +188,11 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
   <li><a href="#1-synopsis" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Synopsis</a></li>
   <li><a href="#2-gameplay" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Gameplay</a></li>
   <li><a href="#3-villageois" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Villageois</a></li>
-  <li><a href="#4-etrangers" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Étrangers</a></li>
+  <li><a href="#4-etrangers" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Marginaux/a></li>
   <li><a href="#5-sbires" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Sbires</a></li>
   <li><a href="#6-demons" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Démons</a></li>
   <li><a href="#7-legendaires" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Légendaires</a></li>
-  <li><a href="#8-lorics" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Lorics</a></li>
+  <li><a href="#8-lorics" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Loric</a></li>
   <li><a href="#9-voyageurs" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Voyageurs</a></li>
 </ol>
 
@@ -205,6 +206,11 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
   <a href="roles_experimentaux/acrobat.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_acrobat.png" alt="Acrobate" style="width:280px; border-radius:12px;">
     <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Acrobate</span>
+  </a>
+
+  <a href="roles_experimentaux/balloonist.html" style="text-decoration:none; width:280px; text-align:center;">
+    <img src="./images/Icon_balloonist.png" alt="Aéronaute" style="width:280px; border-radius:12px;">
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Aéronaute</span>
   </a>
 
   <a href="roles_experimentaux/alchemist.html" style="text-decoration:none; width:280px; text-align:center;">
@@ -227,19 +233,9 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
     <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Athée</span>
   </a>
 
-  <a href="roles_experimentaux/balloonist.html" style="text-decoration:none; width:280px; text-align:center;">
-    <img src="./images/Icon_balloonist.png" alt="Aéronaute" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Aéronaute</span>
-  </a>
-
   <a href="roles_experimentaux/banshee.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_banshee.png" alt="Banshee" style="width:280px; border-radius:12px;">
     <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Banshee</span>
-  </a>
-
-  <a href="roles_experimentaux/bountyhunter.html" style="text-decoration:none; width:280px; text-align:center;">
-    <img src="./images/Icon_bountyhunter.png" alt="Chasseur de primes" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Chasseur de primes</span>
   </a>
 
   <a href="roles_experimentaux/cannibal.html" style="text-decoration:none; width:280px; text-align:center;">
@@ -247,9 +243,14 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
     <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Cannibale</span>
   </a>
 
-  <a href="roles_experimentaux/choirboy.html" style="text-decoration:none; width:280px; text-align:center;">
-    <img src="./images/Icon_choirboy.png" alt="Enfant de Chœur" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Enfant de Chœur</span>
+  <a href="roles_experimentaux/huntsman.html" style="text-decoration:none; width:280px; text-align:center;">
+    <img src="./images/Icon_huntsman.png" alt="Chasseur" style="width:280px; border-radius:12px;">
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Chasseur</span>
+  </a>
+
+  <a href="roles_experimentaux/bountyhunter.html" style="text-decoration:none; width:280px; text-align:center;">
+    <img src="./images/Icon_bountyhunter.png" alt="Chasseur de primes" style="width:280px; border-radius:12px;">
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Chasseur de primes</span>
   </a>
 
   <a href="roles_experimentaux/cultleader.html" style="text-decoration:none; width:280px; text-align:center;">
@@ -257,19 +258,19 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
     <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Chef de secte</span>
   </a>
 
-  <a href="roles_experimentaux/engineer.html" style="text-decoration:none; width:280px; text-align:center;">
-    <img src="./images/Icon_engineer.png" alt="Ingénieur" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Ingénieur</span>
+  <a href="roles_experimentaux/knight.html" style="text-decoration:none; width:280px; text-align:center;">
+    <img src="./images/Icon_knight.png" alt="Chevalier" style="width:280px; border-radius:12px;">
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Chevalier</span>
+  </a>
+
+  <a href="roles_experimentaux/choirboy.html" style="text-decoration:none; width:280px; text-align:center;">
+    <img src="./images/Icon_choirboy.png" alt="Enfant de Chœur" style="width:280px; border-radius:12px;">
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Choriste</span>
   </a>
 
   <a href="roles_experimentaux/farmer.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_farmer.png" alt="Fermier" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Fermier</span>
-  </a>
-
-  <a href="roles_experimentaux/fisherman.html" style="text-decoration:none; width:280px; text-align:center;">
-    <img src="./images/Icon_fisherman.png" alt="Pêcheur" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Pêcheur</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Fermière</span>
   </a>
 
   <a href="roles_experimentaux/general.html" style="text-decoration:none; width:280px; text-align:center;">
@@ -282,19 +283,19 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
     <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Grande prêtresse</span>
   </a>
 
-   <a href="roles_experimentaux/huntsman.html" style="text-decoration:none; width:280px; text-align:center;">
-    <img src="./images/Icon_huntsman.png" alt="Chasseur" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Chasseur</span>
+  <a href="roles_experimentaux/villageidiot.html" style="text-decoration:none; width:280px; text-align:center;">
+    <img src="./images/Icon_villageidiot.png" alt="Idiot du village" style="width:280px; border-radius:12px;">
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Idiot du village</span>
   </a>
 
-  <a href="roles_experimentaux/king.html" style="text-decoration:none; width:280px; text-align:center;">
-    <img src="./images/Icon_king.png" alt="Roi" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Roi</span>
+  <a href="roles_experimentaux/engineer.html" style="text-decoration:none; width:280px; text-align:center;">
+    <img src="./images/Icon_engineer.png" alt="Ingénieur" style="width:280px; border-radius:12px;">
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Ingénieur</span>
   </a>
 
-  <a href="roles_experimentaux/knight.html" style="text-decoration:none; width:280px; text-align:center;">
-    <img src="./images/Icon_knight.png" alt="Chevalier" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Chevalier</span>
+  <a href="roles_experimentaux/steward.html" style="text-decoration:none; width:280px; text-align:center;">
+    <img src="./images/Icon_steward.png" alt="Intendant" style="width:280px; border-radius:12px;">
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Intendante</span>
   </a>
 
   <a href="roles_experimentaux/lycanthrope.html" style="text-decoration:none; width:280px; text-align:center;">
@@ -307,14 +308,14 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
     <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Magicien</span>
   </a>
 
-  <a href="roles_experimentaux/nightwatchman.html" style="text-decoration:none; width:280px; text-align:center;">
-    <img src="./images/Icon_nightwatchman.png" alt="Veilleur de nuit" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Veilleur de nuit</span>
-  </a>
-
   <a href="roles_experimentaux/noble.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_noble.png" alt="Noble" style="width:280px; border-radius:12px;">
     <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Noble</span>
+  </a>
+
+  <a href="roles_experimentaux/fisherman.html" style="text-decoration:none; width:280px; text-align:center;">
+    <img src="./images/Icon_fisherman.png" alt="Pêcheur" style="width:280px; border-radius:12px;">
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Pêcheur</span>
   </a>
 
   <a href="roles_experimentaux/pixie.html" style="text-decoration:none; width:280px; text-align:center;">
@@ -324,7 +325,7 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
 
   <a href="roles_experimentaux/poppygrower.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_poppygrower.png" alt="Cultivateur de pavot" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Cultivateur de pavot</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Planteur de pavot</span>
   </a>
 
   <a href="roles_experimentaux/preacher.html" style="text-decoration:none; width:280px; text-align:center;">
@@ -337,19 +338,19 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
     <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Princesse</span>
   </a>
 
+  <a href="roles_experimentaux/king.html" style="text-decoration:none; width:280px; text-align:center;">
+    <img src="./images/Icon_king.png" alt="Roi" style="width:280px; border-radius:12px;">
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Roi</span>
+  </a>
+
   <a href="roles_experimentaux/shugenja.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_shugenja.png" alt="Shugenja" style="width:280px; border-radius:12px;">
     <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Shugenja</span>
   </a>
 
-  <a href="roles_experimentaux/steward.html" style="text-decoration:none; width:280px; text-align:center;">
-    <img src="./images/Icon_steward.png" alt="Intendant" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Intendant</span>
-  </a>
-
-  <a href="roles_experimentaux/villageidiot.html" style="text-decoration:none; width:280px; text-align:center;">
-    <img src="./images/Icon_villageidiot.png" alt="Idiot du village" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Idiot du village</span>
+  <a href="roles_experimentaux/nightwatchman.html" style="text-decoration:none; width:280px; text-align:center;">
+    <img src="./images/Icon_nightwatchman.png" alt="Veilleur de nuit" style="width:280px; border-radius:12px;">
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Veilleur de nuit</span>
   </a>
 
 </div>
@@ -357,17 +358,13 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
 <hr style="border-color:rgba(224,185,122,0.2); margin:14px 0 10px;">
 
 <!--  ÉTRANGERS -->
-<h2 id="4-etrangers" style="color:#4ea3ff; font-weight:800; font-size:22px; text-align:left;">Étrangers</h2>
+<h2 id="4-etrangers" style="color:#4ea3ff; font-weight:800; font-size:22px; text-align:left;">Marginaux</h2>
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
-  <a href="roles_experimentaux/damsel.html" style="text-decoration:none; width:280px; text-align:center;">
-    <img src="./images/Icon_damsel.png" alt="Demoiselle" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Demoiselle</span>
-  </a>
 
-  <a href="roles_experimentaux/golem.html" style="text-decoration:none; width:280px; text-align:center;">
-    <img src="./images/Icon_golem.png" alt="Golem" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Golem</span>
+  <a href="roles_experimentaux/snitch.html" style="text-decoration:none; width:280px; text-align:center;">
+    <img src="./images/Icon_snitch.png" alt="Balance" style="width:280px; border-radius:12px;">
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Balance</span>
   </a>
 
   <a href="roles_experimentaux/hatter.html" style="text-decoration:none; width:280px; text-align:center;">
@@ -375,9 +372,14 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
     <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Chapelier</span>
   </a>
 
-  <a href="roles_experimentaux/heretic.html" style="text-decoration:none; width:280px; text-align:center;">
-    <img src="./images/Icon_heretic.png" alt="Hérétique" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Hérétique</span>
+  <a href="roles_experimentaux/damsel.html" style="text-decoration:none; width:280px; text-align:center;">
+    <img src="./images/Icon_damsel.png" alt="Demoiselle" style="width:280px; border-radius:12px;">
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Demoiselle</span>
+  </a>
+
+  <a href="roles_experimentaux/plaguedoctor.html" style="text-decoration:none; width:280px; text-align:center;">
+    <img src="./images/Icon_plaguedoctor.png" alt="Docteur de la peste" style="width:280px; border-radius:12px;">
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Docteur de peste</span>
   </a>
 
   <a href="roles_experimentaux/hermit.html" style="text-decoration:none; width:280px; text-align:center;">
@@ -385,19 +387,14 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
     <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Ermite</span>
   </a>
 
-  <a href="roles_experimentaux/ogre.html" style="text-decoration:none; width:280px; text-align:center;">
-    <img src="./images/Icon_ogre.png" alt="Ogre" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Ogre</span>
+  <a href="roles_experimentaux/golem.html" style="text-decoration:none; width:280px; text-align:center;">
+    <img src="./images/Icon_golem.png" alt="Golem" style="width:280px; border-radius:12px;">
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Golem</span>
   </a>
 
-  <a href="roles_experimentaux/plaguedoctor.html" style="text-decoration:none; width:280px; text-align:center;">
-    <img src="./images/Icon_plaguedoctor.png" alt="Docteur de la peste" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Docteur de la peste</span>
-  </a>
-
-  <a href="roles_experimentaux/politician.html" style="text-decoration:none; width:280px; text-align:center;">
-    <img src="./images/Icon_politician.png" alt="Politicien" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Politicien</span>
+  <a href="roles_experimentaux/heretic.html" style="text-decoration:none; width:280px; text-align:center;">
+    <img src="./images/Icon_heretic.png" alt="Hérétique" style="width:280px; border-radius:12px;">
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Hérétique</span>
   </a>
 
   <a href="roles_experimentaux/puzzlemaster.html" style="text-decoration:none; width:280px; text-align:center;">
@@ -405,9 +402,14 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
     <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Maître des puzzles</span>
   </a>
 
-  <a href="roles_experimentaux/snitch.html" style="text-decoration:none; width:280px; text-align:center;">
-    <img src="./images/Icon_snitch.png" alt="Balance" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Balance</span>
+  <a href="roles_experimentaux/ogre.html" style="text-decoration:none; width:280px; text-align:center;">
+    <img src="./images/Icon_ogre.png" alt="Ogre" style="width:280px; border-radius:12px;">
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Ogre</span>
+  </a>
+
+  <a href="roles_experimentaux/politician.html" style="text-decoration:none; width:280px; text-align:center;">
+    <img src="./images/Icon_politician.png" alt="Politicien" style="width:280px; border-radius:12px;">
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Politicien</span>
   </a>
 
   <a href="roles_experimentaux/zealot.html" style="text-decoration:none; width:280px; text-align:center;">
@@ -422,19 +424,10 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
 <h2 id="5-sbires" style="color:#d45b5b; font-weight:800; font-size:22px; text-align:left;">Sbires</h2>
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
-  <a href="roles_experimentaux/boffin.html" style="text-decoration:none; width:280px; text-align:center;">
-    <img src="./images/Icon_boffin.png" alt="Boffin" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Boffin</span>
-  </a>
 
   <a href="roles_experimentaux/boomdandy.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_boomdandy.png" alt="Boomdandy" style="width:280px; border-radius:12px;">
     <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Boomdandy</span>
-  </a>
-
-  <a href="roles_experimentaux/fearmonger.html" style="text-decoration:none; width:280px; text-align:center;">
-    <img src="./images/Icon_fearmonger.png" alt="Fearmonger" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Fearmonger</span>
   </a>
 
   <a href="roles_experimentaux/goblin.html" style="text-decoration:none; width:280px; text-align:center;">
@@ -445,6 +438,21 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
   <a href="roles_experimentaux/harpy.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_harpy.png" alt="Harpie" style="width:280px; border-radius:12px;">
     <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Harpie</span>
+  </a>
+
+  <a href="roles_experimentaux/summoner.html" style="text-decoration:none; width:280px; text-align:center;">
+    <img src="./images/Icon_summoner.png" alt="Invocateur" style="width:280px; border-radius:12px;">
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Invocatrice</span>
+  </a>
+
+  <a href="roles_experimentaux/boffin.html" style="text-decoration:none; width:280px; text-align:center;">
+    <img src="./images/Icon_boffin.png" alt="Boffin" style="width:280px; border-radius:12px;">
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Laborantin</span>
+  </a>
+
+  <a href="roles_experimentaux/wizard.html" style="text-decoration:none; width:280px; text-align:center;">
+    <img src="./images/Icon_wizard.png" alt="Wizard" style="width:280px; border-radius:12px;">
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Mage</span>
   </a>
 
   <a href="roles_experimentaux/marionette.html" style="text-decoration:none; width:280px; text-align:center;">
@@ -459,7 +467,7 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
 
   <a href="roles_experimentaux/organgrinder.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_organgrinder.png" alt="Orgue de Barbarie" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Orgue de Barbarie</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Orguaniste de rue</span>
   </a>
 
   <a href="roles_experimentaux/psychopath.html" style="text-decoration:none; width:280px; text-align:center;">
@@ -467,14 +475,14 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
     <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Psychopathe</span>
   </a>
 
-  <a href="roles_experimentaux/summoner.html" style="text-decoration:none; width:280px; text-align:center;">
-    <img src="./images/Icon_summoner.png" alt="Invocateur" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Invocateur</span>
+  <a href="roles_experimentaux/wraith.html" style="text-decoration:none; width:280px; text-align:center;">
+    <img src="./images/Icon_wraith.png" alt="Spectre" style="width:280px; border-radius:12px;">
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Spectre</span>
   </a>
 
-  <a href="roles_experimentaux/vizier.html" style="text-decoration:none; width:280px; text-align:center;">
-    <img src="./images/Icon_vizier.png" alt="Vizir" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Vizir</span>
+  <a href="roles_experimentaux/fearmonger.html" style="text-decoration:none; width:280px; text-align:center;">
+    <img src="./images/Icon_fearmonger.png" alt="Fearmonger" style="width:280px; border-radius:12px;">
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Tourmenteur</span>
   </a>
 
   <a href="roles_experimentaux/widow.html" style="text-decoration:none; width:280px; text-align:center;">
@@ -482,14 +490,9 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
     <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Veuve</span>
   </a>
 
-  <a href="roles_experimentaux/wizard.html" style="text-decoration:none; width:280px; text-align:center;">
-    <img src="./images/Icon_wizard.png" alt="Wizard" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Wizard</span>
-  </a>
-
-  <a href="roles_experimentaux/wraith.html" style="text-decoration:none; width:280px; text-align:center;">
-    <img src="./images/Icon_wraith.png" alt="Spectre" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Spectre</span>
+  <a href="roles_experimentaux/vizier.html" style="text-decoration:none; width:280px; text-align:center;">
+    <img src="./images/Icon_vizier.png" alt="Vizir" style="width:280px; border-radius:12px;">
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Vizir</span>
   </a>
 
   <a href="roles_experimentaux/xaan.html" style="text-decoration:none; width:280px; text-align:center;">
@@ -504,9 +507,15 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
 <h2 id="6-demons" style="color:#d45b5b; font-weight:800; font-size:22px; text-align:left;">Démons</h2>
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
+
   <a href="roles_experimentaux/alhadikhia.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_alhadikhia.png" alt="Al-Hadikhia" style="width:280px; border-radius:12px;">
     <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Al-Hadikhia</span>
+  </a>
+
+  <a href="roles_experimentaux/riot.html" style="text-decoration:none; width:280px; text-align:center;">
+    <img src="./images/Icon_riot.png" alt="Riot" style="width:280px; border-radius:12px;">
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Émeute</span>
   </a>
 
   <a href="roles_experimentaux/kazali.html" style="text-decoration:none; width:280px; text-align:center;">
@@ -524,14 +533,14 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
     <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Léviathan</span>
   </a>
 
-  <a href="roles_experimentaux/lilmonsta.html" style="text-decoration:none; width:280px; text-align:center;">
-    <img src="./images/Icon_lilmonsta.png" alt="P’tit Monstre" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">P’tit Monstre</span>
+  <a href="roles_experimentaux/ojo.html" style="text-decoration:none; width:280px; text-align:center;">
+    <img src="./images/Icon_ojo.png" alt="Ojo" style="width:280px; border-radius:12px;">
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Ojo</span>
   </a>
 
   <a href="roles_experimentaux/lleech.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_lleech.png" alt="Sangsue" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Sangsue</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Parasyte</span>
   </a>
 
   <a href="roles_experimentaux/lordoftyphon.html" style="text-decoration:none; width:280px; text-align:center;">
@@ -539,19 +548,14 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
     <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Seigneur de Typhon</span>
   </a>
 
-  <a href="roles_experimentaux/ojo.html" style="text-decoration:none; width:280px; text-align:center;">
-    <img src="./images/Icon_ojo.png" alt="Ojo" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Ojo</span>
-  </a>
-
-  <a href="roles_experimentaux/riot.html" style="text-decoration:none; width:280px; text-align:center;">
-    <img src="./images/Icon_riot.png" alt="Riot" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Riot</span>
+  <a href="roles_experimentaux/lilmonsta.html" style="text-decoration:none; width:280px; text-align:center;">
+    <img src="./images/Icon_lilmonsta.png" alt="P’tit Monstre" style="width:280px; border-radius:12px;">
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Timonstre</span>
   </a>
 
   <a href="roles_experimentaux/yaggababble.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_yaggababble.png" alt="Yaggababble" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Yaggababble</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Yaggablabla</span>
   </a>
 </div>
 
@@ -578,14 +582,20 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
 <h2 id="8-lorics" style="color:#4caf50; font-weight:800; font-size:22px; text-align:left;">Lorics</h2>
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
+
+  <a href="loric_roles/stormcatcher.html" style="text-decoration:none; width:280px; text-align:center;">
+    <img src="./images/Icon_stormcatcher.png" alt="Attrape-tempête" style="width:280px; border-radius:12px;">
+    <span style="display:block; color:#4caf50; font-weight:bold; font-size:18px; margin-top:6px;">Chasseur d'orages</span>
+  </a>
+
   <a href="loric_roles/bootlegger.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_bootlegger.png" alt="Bootlegger" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4caf50; font-weight:bold; font-size:18px; margin-top:6px;">Bootlegger</span>
+    <span style="display:block; color:#4caf50; font-weight:bold; font-size:18px; margin-top:6px;">Contrebandier</span>
   </a>
 
   <a href="loric_roles/bigwig.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_big_wig.png" alt="Big Wig" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4caf50; font-weight:bold; font-size:18px; margin-top:6px;">Big Wig</span>
+    <span style="display:block; color:#4caf50; font-weight:bold; font-size:18px; margin-top:6px;">Gros Bonnet</span>
   </a>
 
   <a href="loric_roles/gardener.html" style="text-decoration:none; width:280px; text-align:center;">
@@ -593,9 +603,9 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
     <span style="display:block; color:#4caf50; font-weight:bold; font-size:18px; margin-top:6px;">Jardinier</span>
   </a>
 
-  <a href="loric_roles/stormcatcher.html" style="text-decoration:none; width:280px; text-align:center;">
-    <img src="./images/Icon_stormcatcher.png" alt="Attrape-tempête" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#4caf50; font-weight:bold; font-size:18px; margin-top:6px;">Attrape-tempête</span>
+<a href="loric_roles/pope.html" style="text-decoration:none; width:280px; text-align:center;">
+    <img src="./images/Icon_pope.png" alt="Pape" style="width:280px; border-radius:12px;">
+    <span style="display:block; color:#4caf50; font-weight:bold; font-size:18px; margin-top:6px;">Pape</span>
   </a>
 
   <a href="loric_roles/tor.html" style="text-decoration:none; width:280px; text-align:center;">
@@ -617,7 +627,7 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
   <a href="voyageurs/cacklejack.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_cacklejack.png" alt="Cacklejack" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#9b59b6; font-weight:bold; font-size:18px; margin-top:6px;">Cacklejack</span>
+    <span style="display:block; color:#9b59b6; font-weight:bold; font-size:18px; margin-top:6px;">Dépahsé</span>
   </a>
 
   <a href="voyageurs/gangster.html" style="text-decoration:none; width:280px; text-align:center;">
