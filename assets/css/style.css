@@ -337,3 +337,61 @@ p[align="left"]::after {
 .wrapper [style*="color: #f5f5f5" i] {
   color: #4b1f25 !important;
 }
+/* FORCE : ancien blanc -> brun lisible sur fond parchemin */
+body [style*="color:#f5f5f5" i],
+body [style*="color: #f5f5f5" i],
+body [style*="color:#fff" i],
+body [style*="color:white" i],
+body [style*="color:#ffffff" i] {
+  color: #4b1f25 !important;
+}
+
+/* Titres blancs par défaut -> brun foncé */
+h1, h2, h3, h4, h5, h6 {
+  color: #5c1f22;
+}
+
+.botc-note {
+  position: relative;
+  max-width: 850px;
+  margin: 40px auto;
+  padding: 24px 34px;
+  background: rgba(248,244,238,0.96);
+  border: 4px double #b79b90;
+  color: #7a4343;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 19px;
+  line-height: 1.8;
+  font-style: italic;
+  white-space: normal;
+  overflow-wrap: break-word;
+  box-sizing: border-box;
+}
+
+.botc-note::before,
+.botc-note::after {
+  content: "❦";
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #b79b90;
+  font-size: 44px;
+}
+
+.botc-note::before { left: -52px; }
+.botc-note::after { right: -52px; }
+
+@media (max-width: 700px) {
+  .botc-note {
+    max-width: calc(100vw - 32px);
+    margin: 28px auto;
+    padding: 18px 20px;
+    font-size: 17px;
+    line-height: 1.6;
+  }
+
+  .botc-note::before,
+  .botc-note::after {
+    display: none;
+  }
+}
