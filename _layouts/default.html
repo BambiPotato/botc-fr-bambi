@@ -32,7 +32,13 @@
 <body>
   <main class="page-content" aria-label="Content">
     <div class="wrapper">
-      {{ content }}
+      {% if page.parchment == true %}
+        <div class="wiki-parchment">
+          {{ content }}
+        </div>
+      {% else %}
+        {{ content }}
+      {% endif %}
     </div>
   </main>
 </body>
