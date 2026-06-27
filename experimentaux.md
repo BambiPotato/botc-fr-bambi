@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Expérimentaux 
-description: Tous les rôles expérimentaux venant de l'extension le Carrousel (The Carousel).
+description: Tous les rôles expérimentaux venant de l'extension du Carrousel (The Carousel).
 image: /images/carousel.png
 ---
 
@@ -188,7 +188,7 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
   <li><a href="#1-synopsis" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Synopsis</a></li>
   <li><a href="#2-gameplay" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Gameplay</a></li>
   <li><a href="#3-villageois" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Villageois</a></li>
-  <li><a href="#4-etrangers" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Marginaux/a></li>
+  <li><a href="#4-etrangers" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Marginaux</a></li>
   <li><a href="#5-sbires" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Sbires</a></li>
   <li><a href="#6-demons" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Démons</a></li>
   <li><a href="#7-legendaires" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Légendaires</a></li>
