@@ -13,7 +13,7 @@ image: /images/Icon_goon.png
 
 
 
-#   <span style="color:blue">Brute </span>  
+#   <span style="color:blue">Gros Bras </span>  
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -34,7 +34,7 @@ image: /images/Icon_goon.png
   <li>
     <strong>Type :</strong>
     <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
-    Étrangers
+    Marginal
     </a>
   </li>
 
