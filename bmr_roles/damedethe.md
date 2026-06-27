@@ -192,7 +192,7 @@ Mais plus la partie avance, plus il est probable que **l’un d’eux soit malé
 Le **bluff de la Tisanière** est **crédible** et **facile à maintenir** : il donne une excuse pour des exécutions “sans morts”.  
 
 - Si vos voisins sont bons, poussez à les exécuter :  
-  le groupe croira que vous êtes la Tisanièreet leur survie semblera prouver leur bonté.  
+  le groupe croira que vous êtes la Tisanière et leur survie semblera prouver leur bonté.  
 
 - Si vos voisins sont maléfiques, **défendez-les** activement :  
   vous paraîtrez bienveillante et serez crue.  
