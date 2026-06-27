@@ -31,12 +31,12 @@
 <body>
   <main class="page-content" aria-label="Content">
     <div class="wrapper">
-      {% if page.parchment == true %}
+      {% if page.url == "/" or page.no_parchment == true %}
+        {{ content }}
+      {% else %}
         <div class="wiki-parchment">
           {{ content }}
         </div>
-      {% else %}
-        {{ content }}
       {% endif %}
     </div>
   </main>
