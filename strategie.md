@@ -19,10 +19,10 @@ image: /images/logogold.png
 </style>
 
 <h1 style="font-size:36px; font-weight:bold;">
- <span style="color:#e0c99d;">Conseils & Stratégies pour les joueurs et les joueuses</span>
+ <span style="color:#5C2E1F ;">Conseils & Stratégies pour les joueurs et les joueuses</span>
 </h1>
 
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+<p style="text-align:center; color:#5C2E1F; font-style:italic; font-size:18px; margin-top:-10px;">
 « Suivez votre cœur… mais gardez la tête froide. »
 </p>
 
@@ -30,7 +30,7 @@ image: /images/logogold.png
 
 <h2 style="color:#5C2E1F;"> Sommaire</h2>
 <ol style="color:#5C2E1F;">
-  <li><a href="#section1" style="color:#e0c99d;">Merci, je suis du côté des bons ! Et maintenant ?</a></li>
+  <li><a href="#section1" style="color:#e#5C2E1F;">Merci, je suis du côté des bons ! Et maintenant ?</a></li>
   <ul>
     <li><a href="#section11" style="color:#5C2E1F;">Douces cerises, je suis Villageoise !</a></li>
     <li><a href="#section12" style="color:#5C2E1F;">Bon sang, je suis un Marginal !</a></li>
@@ -51,7 +51,7 @@ Vous avez tiré un <strong><span style="color:blue;">jeton bleu</span></strong> 
 Mais... et maintenant ? Que faire, quand parler, qui croire ? Voici l’essentiel.
 </p>
 
-<h3 style="color:#e0c99d;">  Définissez votre mission</h3>
+<h3 style="color:#5C2E1F;">  Définissez votre mission</h3>
 <p>
 L’objectif global du <strong>Bien</strong> est simple : <strong>trouver et exécuter le <span style="color:red;">Démon</span></strong>.  
 Mais votre mission personnelle dépend de votre rôle :
@@ -68,41 +68,41 @@ Parlez souvent, posez des questions, partagez vos hypothèses.
 Écoutez aussi : vous pouvez être ivre ou empoisonné, restez donc ouvert à la remise en question.
 </p>
 
-<h3 style="color:#e0c99d;">  Soyez utile au groupe</h3>
+<h3 style="color:#5C2E1F;">  Soyez utile au groupe</h3>
 <p>
 Aidez, votez, coordonnez-vous.  
 On accorde plus de confiance aux personnes actives et bienveillantes qu’à celles qui restent passives.
 </p>
 
-<h3 style="color:#e0c99d;">  Votre voix est votre arme</h3>
+<h3 style="color:#5C2E1F;">  Votre voix est votre arme</h3>
 <p>
 Rencontrez plusieurs personnes, croisez les informations.  
 Si vous êtes nominé, défendez-vous avec logique et calme.  
 Si vous suspectez quelqu’un, expliquez pourquoi.
 </p>
 
-<h3 style="color:#e0c99d;"> Faites des alliances limitées</h3>
+<h3 style="color:#5C2E1F;"> Faites des alliances limitées</h3>
 <p>
 Faites confiance à une ou deux personnes au début.  
 Partagez vos infos avec prudence. Si le groupe commence à accuser votre allié, réévaluez vite la situation.
 </p>
 
-<h3 style="color:#e0c99d;"> Parlez en privé</h3>
+<h3 style="color:#5C2E1F;"> Parlez en privé</h3>
 <p>
 Échangez discrètement, chuchotez, choisissez bien vos confidentes et confidents.  
 Mais avant la fin, révélez la vérité au groupe pour aider à la résolution.
 </p>
 
-<h3 style="color:#e0c99d;"> Prouvez votre identité</h3>
+<h3 style="color:#5C2E1F;"> Prouvez votre identité</h3>
 <p>
 Vos informations peuvent être confirmées par d’autres rôles :
 <a href="./tb_roles/cuistot.html" style="color:blue;">Cuisinier</a>, 
 <a href="./tb_roles/croquemort.html" style="color:blue;">Fossoyeur</a>,
-<a href="./tb_roles/vierge.html" style="color:blue;">Innocente</a>,
+<a href="./tb_roles/vierge.html" style="color:blue;">Immaculée</a>,
 <a href="./tb_roles/enqueteur.html" style="color:blue;">Détective</a>…
 </p>
 
-<h3 style="color:#e0c99d;"> Soyez proactif</h3>
+<h3 style="color:#5C2E1F;"> Soyez proactif</h3>
 <p>
 Demandez des actions sur vous :
 </p>
@@ -112,52 +112,52 @@ Demandez des actions sur vous :
   <li>Choix d’une <a href="./tb_roles/voyante.html" style="color:blue;">Voyante</a></li>
 </ul>
 
-<h3 style="color:#e0c99d;">  Protégez les alliés sûrs</h3>
+<h3 style="color:#5C2E1F;">  Protégez les alliés sûrs</h3>
 <p>
 Si vous êtes certain qu’une personne est du Bien, défendez-la.  
 Mentez si nécessaire pour détourner les soupçons ou éviter son exécution.
 </p>
 
-<h3 style="color:#e0c99d;">  Engagez les morts</h3>
+<h3 style="color:#5C2E1F;">  Engagez les morts</h3>
 <p>
 Les morts votent encore une fois. Coordonnez ces votes : ils peuvent renverser la fin de partie.
 </p>
 
-<h3 style="color:#e0c99d;">  Exécution et crédibilité</h3>
+<h3 style="color:#5C2E1F;">  Exécution et crédibilité</h3>
 <p>
 Évitez d’être exécuté, sauf si cela permet d’éclairer le village.  
 Une mort "innocente" peut valider vos informations.
 </p>
 
-<h3 style="color:#e0c99d;">  Mourir la nuit n’est pas un échec</h3>
+<h3 style="color:#5C2E1F;">  Mourir la nuit n’est pas un échec</h3>
 <p>
 Si vous mourrez la nuit, cela vous rend crédible : vos infos gagnent en valeur.
 </p>
 
-<h3 style="color:#e0c99d;">  Votre vote de mort</h3>
+<h3 style="color:#5C2E1F;">  Votre vote de mort</h3>
 <p>
 Conservez-le pour un moment crucial, souvent le dernier jour.
 </p>
 
-<h3 style="color:#e0c99d;">  Identifier le Démon… ou non</h3>
+<h3 style="color:#5C2E1F;">  Identifier le Démon… ou non</h3>
 <p>
 Chercher le Démon est bien, mais confirmer qui ne l’est pas l’est tout autant.  
 Protégez les joueurs sûrs.
 </p>
 
-<h3 style="color:#e0c99d;">  Logique simple et double</h3>
+<h3 style="color:#5C2E1F;">  Logique simple et double</h3>
 <p>
 Utilisez des hypothèses et éliminez celles qui mènent à des incohérences.  
 Comparez plusieurs pistes, même contradictoires : vous obtiendrez toujours de nouvelles informations.
 </p>
 
-<h3 style="color:#e0c99d;">  Ivre ou empoisonné ?</h3>
+<h3 style="color:#5C2E1F;">  Ivre ou empoisonné ?</h3>
 <p>
 Ne partez pas du principe que vous l’êtes : cela complique inutilement.  
 Attendez des preuves avant de le supposer.
 </p>
 
-<h3 style="color:#e0c99d;">  Intuition et esprit d’équipe</h3>
+<h3 style="color:#5C2E1F;">  Intuition et esprit d’équipe</h3>
 <p>
 Votre instinct a sa place dans Blood on the Clocktower.  
 Mais n’oubliez pas : la victoire est presque toujours collective.
@@ -165,7 +165,7 @@ Mais n’oubliez pas : la victoire est presque toujours collective.
 
 <hr>
 
-<h2 id="section11">Douces cerises, je suis <strong><span style="color:blue;">Villageoise</span> !</h2>
+<h2 id="section11">Douces cerises, je suis <strong><span style="color:blue;">Villageois</span> !</h2>
 
 <p>
 Partagez vos informations, même partielles.  
@@ -184,7 +184,7 @@ Si vous êtes un rôle qui aime être ciblé la nuit, bluffez un rôle à risque
 
 <hr>
 
-<h2 id="section12">Bon sang, je suis <span style="color:blue;">Étranger</span> !</h2>
+<h2 id="section12">Bon sang, je suis <span style="color:blue;">Marginal</span> !</h2>
 
 <p>
 Transformez votre handicap en avantage.  
@@ -198,9 +198,9 @@ Chaque Étranger apporte de la profondeur stratégique :
 </ul>
 
 <p>
-Surveillez le nombre d’Étrangers déclarés :
-trop ➜ mensonge ou <a href="./tb_roles/baron.html" style="color:red;">Baron</a>,
-pas assez ➜ <a href="./bmr_roles/parrain.html" style="color:red;">Parrain</a> ou <a href="./tb_roles/ivrogne.html" style="color:blue;">Ivrogne</a> caché.
+Surveillez le nombre de Marginaux déclarés :
+trop nombreux ➜ mensonge ou un <a href="./tb_roles/baron.html" style="color:red;">Baron</a> est en jeu,
+pas assez ➜ un <a href="./bmr_roles/parrain.html" style="color:red;">Parrain</a> ou <a href="./tb_roles/ivrogne.html" style="color:blue;">Ivrogne</a> caché.
 </p>
 
 <p>
@@ -216,7 +216,7 @@ Vous avez tiré un <strong><span style="color:red;">jeton rouge</span></strong> 
 Respirez. Les maléfiques gagnent par coordination, mensonge et influence.
 </p>
 
-<h3 style="color:#e0c99d;">  Connaissez votre rôle</h3>
+<h3 style="color:#5C2E1F;">  Connaissez votre rôle</h3>
 <ul>
   <li><a href="./tb_roles/empoisonneur.html" style="color:red;">Empoisonneur</a> : sabotez les grands informateurs.</li>
   <li><a href="./tb_roles/femmeecarlate.html" style="color:red;">Femme Écarlate</a> : inspirez confiance, prête à prendre la relève.</li>
@@ -224,7 +224,7 @@ Respirez. Les maléfiques gagnent par coordination, mensonge et influence.
 
 <h3 style="color:#e0c99d;">  Comprenez avant d’agir</h3>
 <p>
-Demandez au Conteur ou à la Conteuse en cas de doute.  
+Demandez au Conteur en cas de doute.  
 Mieux vaut comprendre que de se trahir.
 </p>
 
@@ -254,7 +254,7 @@ Soutenez publiquement une théorie ou une accusation : elle servira plus tard.
 
 <hr>
 
-<h2 id="section21"><span style="color:#e0c99d;">Oh génial, je suis <span style="color:red;">Sbire</span> !</span></h2>
+<h2 id="section21"><span style="color:#5C2E1F;">Oh génial, je suis <span style="color:red;">Sbire</span> !</span></h2>
 
 <ul>
   <li>Ne votez pas contre votre <span style="color:red;">Démon</span>, sauf plan précis.</li>
@@ -266,7 +266,7 @@ Soutenez publiquement une théorie ou une accusation : elle servira plus tard.
 
 <hr>
 
-<h2 id="section22"><span style="color:#e0c99d;">Oh lala, je suis le <span style="color:red;">Démon</span> !</span> </h2>
+<h2 id="section22"><span style="color:#5C2E1F;">Oh lala, je suis le <span style="color:red;">Démon</span> !</span> </h2>
 
 <p>
 Restez en vie. Sans vous, les Maléfiques perdent toute chance, sauf cas spéciaux : 
@@ -288,7 +288,7 @@ Planifiez, mentez, adaptez. Et surtout : amusez-vous à être Maléfique.
 
 <hr>
 
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px;">
+<p style="text-align:center; color:#5C2E1F; font-style:italic; font-size:18px;">
 « Qu’importe votre camp… tant que vous jouez avec panache, bienveillance et amusement. »
 </p>
 
@@ -298,7 +298,7 @@ Planifiez, mentez, adaptez. Et surtout : amusez-vous à être Maléfique.
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
  
-  <li> <a href="./glossaire.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Glossaire</a></li>
-  <li> <a href="./conteur.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Conseils aux Conteurs</a></li>
+  <li> <a href="./glossaire.html" style="color:##5C2E1F; font-weight:bold; text-decoration:none;">Glossaire</a></li>
+  <li> <a href="./conteur.html" style="color:#5C2E1F; font-weight:bold; text-decoration:none;">Conseils aux Conteurs</a></li>
   <li> <a href="./index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
 </ul>
