@@ -20,7 +20,7 @@ image: /images/Icon_goon.png
   <a href="./brute.html" style="text-decoration:none;">
     <img src="../images/Icon_goon.png" alt="brute" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:blue; font-weight:bold; font-size:22px;">Brute</span>
+    <span style="color:blue; font-weight:bold; font-size:22px;">Gros Bras</span>
   </a>
 </div>
 
