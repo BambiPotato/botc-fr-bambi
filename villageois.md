@@ -3,6 +3,7 @@ layout: default
 title: Villageois
 description: Tous les Villageois du jeu Blood on the Clocktower
 image: /images/Generic_townsfolk.png
+parchment: true
 ---
 
 <p align="left">
