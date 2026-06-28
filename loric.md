@@ -61,7 +61,7 @@ image: /images/Generic_loric.png
     Lorics
   </p>
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:0;">
-    <li><a href="./loric_roles/stormcatcher.html" style="color:#7fd1ae; text-decoration:none;">Attrape-tempête</a></li>
+    <li><a href="./loric_roles/stormcatcher.html" style="color:#7fd1ae; text-decoration:none;">Chasseur d'orages</a></li>
     <li><a href="./loric_roles/bootlegger.html" style="color:#7fd1ae; text-decoration:none;">Contrebandier</a></li>
     <li><a href="./loric_roles/godofug.html" style="color:#7fd1ae; text-decoration:none;">Dieu d’Ug</a></li>
     <li><a href="./loric_roles/bigwig.html" style="color:#7fd1ae; text-decoration:none;">Gros Bonnet</a></li>
@@ -90,14 +90,14 @@ image: /images/Generic_loric.png
 ##  <span id="presentation" style="color:#7fd1ae;">Présentation</span>
 
 <p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
-  Les <strong>Lorics</strong> sont des rôles conçus pour les conteurs et conteuses.  
+  Les <strong>Loric</strong> sont des rôles conçus pour les Conteurs et Conteuses.  
   Ils ressemblent davantage à des <strong>règles spéciales</strong> qu’à des rôles classiques :  
   ils sont immortels, ne participent pas comme des joueurs et modifient le déroulement même du jeu.
 </p>
 
 <p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
   Alors que les <em>Légendaires</em> servent surtout à <strong>résoudre des situations problématiques</strong>,  
-  les <strong>Lorics</strong> sont là pour <strong>créer de nouveaux enjeux</strong>, surprendre le village  
+  les <strong>Loris</strong> sont là pour <strong>créer de nouveaux enjeux</strong>, surprendre le village  
   et renouveler l’intérêt comme l’intensité de la partie.
 </p>
 
@@ -106,7 +106,7 @@ image: /images/Generic_loric.png
 ##  <span id="comment-conter" style="color:#7fd1ae;">Comment Conter</span>
 
 <p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
-  Utilisez les Lorics quand vous le souhaitez.  
+  Utilisez les Loric quand vous le souhaitez.  
   Si vous avez joué un script particulier de nombreuses fois  
   ou si vous voulez simplement changer de rythme,  
   ajouter un <strong>Loric</strong> donne au jeu une sensation de nouveauté et de différence.
@@ -120,15 +120,15 @@ image: /images/Generic_loric.png
 </p>
 
 <p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
-  Tous les Lorics doivent être ajoutés <strong>au début</strong> de la partie.  
+  Tous les Loric doivent être ajoutés <strong>au début</strong> de la partie.  
   En ajouter plusieurs est possible, mais se fait à vos risques et périls :  
   plus il y en a, plus la partie peut devenir chaotique à gérer.
 </p>
 
 <p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>Les Lorics ne peuvent ni mourir ni perdre leurs pouvoirs.</strong>  
+  <strong>Les Loric ne peuvent ni mourir ni perdre leurs pouvoirs.</strong>  
   Vous êtes conteur ou conteuse, pas joueur ou joueuse :  
-  vos Lorics sont donc immunisés contre tous les effets du jeu, y compris la mort, l’ivresse et l’empoisonnement.
+  vos Loric sont donc immunisés contre tous les effets du jeu, y compris la mort, l’ivresse et l’empoisonnement.
 </p>
 
 <p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -147,7 +147,7 @@ image: /images/Generic_loric.png
   <!-- Storm Catcher -->
   <a href="./loric_roles/stormcatcher.html" style="text-decoration:none; flex:0 1 200px; text-align:center;">
     <img src="./images/Icon_stormcatcher.png" alt="Storm Catcher" style="display:block; margin:0 auto; width:200px; height:auto; border-radius:12px;">
-    <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Attrape-tempête</span>
+    <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Chasseur d'orages</span>
   </a>
 
   <!-- Bootlegger -->
