@@ -741,3 +741,80 @@ body.sidebar-on .botc-sidebar-logo img {
     left: 0 !important;
   }
 }
+/* =========================================================
+   ACCUEIL — adaptation parchemin beige
+   ========================================================= */
+
+.wiki-parchment {
+  color: #5C2E1F;
+}
+
+/* Transforme les anciens blocs noirs de l’accueil en blocs parchemin */
+.wiki-parchment div[style*="background-color:rgba(0,0,0,0.45)"],
+.wiki-parchment td[style*="background:rgba(0,0,0,0.45)"],
+.wiki-parchment .rules-cell,
+.wiki-parchment .home-card {
+  background: rgba(246, 239, 229, 0.82) !important;
+  border: 2px solid rgba(92, 46, 31, 0.45) !important;
+  box-shadow: 0 6px 18px rgba(92, 46, 31, 0.18) !important;
+  color: #5C2E1F !important;
+}
+
+/* Texte anciennement doré / beige clair -> marron lisible */
+.wiki-parchment [style*="color:#e0c99d"],
+.wiki-parchment [style*="color:#d4a76a"],
+.wiki-parchment [style*="color:#b58b52"],
+.wiki-parchment [style*="color:#c9b08a"],
+.wiki-parchment [style*="color:#ffb84d"],
+.wiki-parchment .rules-title,
+.wiki-parchment .rules-sub,
+.wiki-parchment .home-title {
+  color: #5C2E1F !important;
+  text-shadow: none !important;
+}
+
+/* Titres de l’accueil */
+.wiki-parchment h1,
+.wiki-parchment h2,
+.wiki-parchment h3 {
+  color: #5C2E1F !important;
+  text-shadow: 1px 1px 4px rgba(92,46,31,0.18) !important;
+}
+
+/* Paragraphes dans les blocs */
+.wiki-parchment p {
+  color: #5C2E1F !important;
+}
+
+/* Garde les couleurs importantes des catégories */
+.wiki-parchment [style*="color:#4ea3ff"] {
+  color: #4ea3ff !important;
+}
+
+.wiki-parchment [style*="color:#d45b5b"] {
+  color: #d45b5b !important;
+}
+
+.wiki-parchment [style*="color:#9b59b6"] {
+  color: #9b59b6 !important;
+}
+
+.wiki-parchment [style*="color:#7fd1ae"] {
+  color: #4f9f7d !important;
+}
+
+/* Cartes plus propres */
+.wiki-parchment .rules-cell,
+.wiki-parchment table.roles-grid td {
+  background: rgba(246, 239, 229, 0.86) !important;
+  border-radius: 14px !important;
+}
+
+/* Liens dans les blocs d’information */
+.wiki-parchment a {
+  text-decoration: none;
+}
+
+.wiki-parchment a:hover {
+  text-decoration: underline;
+}
