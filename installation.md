@@ -236,6 +236,6 @@ Tant que l'ordre des joueurs dans le sens horaire ou antihoraire est identique d
 <hr>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li><a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li><a href="./regles.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Règles du jeu</a></li>
+  <li><a href="/botc-fr-bambi/" style="color:#5C2E1F; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li><a href="./regles.html" style="color:#5C2E1F; font-weight:bold; text-decoration:none;">Règles du jeu</a></li>
 </ul>
