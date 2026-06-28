@@ -1228,3 +1228,114 @@ body.home-page .wiki-parchment .rg-media img {
     font-size: 24px;
   }
 }
+/* =========================================================
+   SÉPARATEURS DÉCORATIFS BOTC
+   ========================================================= */
+
+hr.villageois,
+hr.marginal,
+hr.sbire,
+hr.demon,
+hr.voyageur,
+hr.legendaire,
+hr.loric,
+hr.explication{
+    border:0;
+    height:3px;
+    margin:28px 0;
+    position:relative;
+    overflow:visible;
+}
+
+hr.villageois::before,
+hr.marginal::before,
+hr.sbire::before,
+hr.demon::before,
+hr.voyageur::before,
+hr.legendaire::before,
+hr.loric::before,
+hr.explication::before{
+    content:"❧";
+    position:absolute;
+    left:50%;
+    top:50%;
+    transform:translate(-50%,-50%);
+    font-size:26px;
+    background:#f6efe5;
+    padding:0 14px;
+}
+
+hr.villageois{
+    background:#4ea3ff;
+}
+hr.villageois::before{
+    color:#4ea3ff;
+}
+
+hr.marginal{
+    background:#4ea3ff;
+}
+hr.marginal::before{
+    color:#4ea3ff;
+}
+
+hr.sbire{
+    background:#d45b5b;
+}
+hr.sbire::before{
+    color:#d45b5b;
+}
+
+hr.demon{
+    background:#d45b5b;
+}
+hr.demon::before{
+    color:#d45b5b;
+}
+
+hr.voyageur{
+    background:#9b59b6;
+}
+hr.voyageur::before{
+    color:#9b59b6;
+}
+
+hr.legendaire{
+    background:#d4a76a;
+}
+hr.legendaire::before{
+    color:#d4a76a;
+}
+
+hr.loric{
+    background:#6ea98a;
+}
+hr.loric::before{
+    color:#6ea98a;
+}
+
+hr.explication{
+    background:#5C2E1F;
+}
+hr.explication::before{
+    color:#5C2E1F;
+}
+
+@media (max-width:700px){
+
+hr.villageois,
+hr.marginal,
+hr.sbire,
+hr.demon,
+hr.voyageur,
+hr.legendaire,
+hr.loric,
+hr.explication{
+    margin:22px 0;
+}
+
+hr::before{
+    font-size:22px;
+}
+
+}
