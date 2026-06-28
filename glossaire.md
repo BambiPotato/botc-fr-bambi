@@ -238,9 +238,9 @@ Joueur croyant être un Démon, alors qu’il ne l’est pas.
 **Maléfique/Mal**  
 Alignement des <a href="./sbires.html" style="color:red; font-weight:bold; text-decoration:none;">Sbires</a> et des <a href="./demons.html" style="color:red; font-weight:bold; text-decoration:none;">Démons</a>.
 
-**Marginal**
-<a href="./etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Marginal</a> : Type de rôle qui commence bon.
-Les Marginaux possèdent des capacités défavorables à l’équipe du Bien. 
+**Marginal**<br>
+<a href="./etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Marginal</a> : Type de rôle qui commence bon.<br>
+Les Marginaux possèdent des capacités défavorables à l’équipe du Bien.<br> 
 Leur nombre en jeu est indiqué sur la fiche des Voyageurs.
 
 **Mort**  
