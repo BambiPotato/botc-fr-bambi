@@ -1229,7 +1229,7 @@ body.home-page .wiki-parchment .rg-media img {
   }
 }
 /* =========================================================
-   SÉPARATEURS DÉCORATIFS BOTC
+   SÉPARATEURS DÉCORATIFS BOTC — version fine sans carré
    ========================================================= */
 
 hr.villageois,
@@ -1239,12 +1239,23 @@ hr.demon,
 hr.voyageur,
 hr.legendaire,
 hr.loric,
-hr.explication{
-    border:0;
-    height:3px;
-    margin:28px 0;
-    position:relative;
-    overflow:visible;
+hr.explication {
+  border: 0;
+  height: 28px;
+  margin: 28px 0;
+  position: relative;
+  overflow: visible;
+  background:
+    linear-gradient(
+      to right,
+      currentColor 0,
+      currentColor calc(50% - 42px),
+      transparent calc(50% - 42px),
+      transparent calc(50% + 42px),
+      currentColor calc(50% + 42px),
+      currentColor 100%
+    )
+    center / 100% 1px no-repeat;
 }
 
 hr.villageois::before,
@@ -1254,88 +1265,77 @@ hr.demon::before,
 hr.voyageur::before,
 hr.legendaire::before,
 hr.loric::before,
-hr.explication::before{
-    content:"❧";
-    position:absolute;
-    left:50%;
-    top:50%;
-    transform:translate(-50%,-50%);
-    font-size:26px;
-    background:#f6efe5;
-    padding:0 14px;
+hr.explication::before {
+  content: "❦";
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -52%);
+  font-size: 24px;
+  line-height: 1;
+  color: currentColor;
 }
 
-hr.villageois{
-    background:#4ea3ff;
-}
-hr.villageois::before{
-    color:#4ea3ff;
-}
-
-hr.marginal{
-    background:#4ea3ff;
-}
-hr.marginal::before{
-    color:#4ea3ff;
-}
-
-hr.sbire{
-    background:#d45b5b;
-}
-hr.sbire::before{
-    color:#d45b5b;
-}
-
-hr.demon{
-    background:#d45b5b;
-}
-hr.demon::before{
-    color:#d45b5b;
-}
-
-hr.voyageur{
-    background:#9b59b6;
-}
-hr.voyageur::before{
-    color:#9b59b6;
-}
-
-hr.legendaire{
-    background:#d4a76a;
-}
-hr.legendaire::before{
-    color:#d4a76a;
-}
-
-hr.loric{
-    background:#6ea98a;
-}
-hr.loric::before{
-    color:#6ea98a;
-}
-
-hr.explication{
-    background:#5C2E1F;
-}
-hr.explication::before{
-    color:#5C2E1F;
-}
-
-@media (max-width:700px){
-
+/* Couleurs */
 hr.villageois,
-hr.marginal,
+hr.marginal {
+  color: #4ea3ff;
+}
+
 hr.sbire,
-hr.demon,
-hr.voyageur,
-hr.legendaire,
-hr.loric,
-hr.explication{
-    margin:22px 0;
+hr.demon {
+  color: #d45b5b;
 }
 
-hr::before{
-    font-size:22px;
+hr.voyageur {
+  color: #9b59b6;
 }
 
+hr.legendaire {
+  color: #d4a76a;
+}
+
+hr.loric {
+  color: #6ea98a;
+}
+
+hr.explication {
+  color: #5C2E1F;
+}
+
+/* Mobile */
+@media (max-width: 700px) {
+  hr.villageois,
+  hr.marginal,
+  hr.sbire,
+  hr.demon,
+  hr.voyageur,
+  hr.legendaire,
+  hr.loric,
+  hr.explication {
+    margin: 22px 0;
+    height: 24px;
+    background:
+      linear-gradient(
+        to right,
+        currentColor 0,
+        currentColor calc(50% - 34px),
+        transparent calc(50% - 34px),
+        transparent calc(50% + 34px),
+        currentColor calc(50% + 34px),
+        currentColor 100%
+      )
+      center / 100% 1px no-repeat;
+  }
+
+  hr.villageois::before,
+  hr.marginal::before,
+  hr.sbire::before,
+  hr.demon::before,
+  hr.voyageur::before,
+  hr.legendaire::before,
+  hr.loric::before,
+  hr.explication::before {
+    font-size: 21px;
+  }
 }
