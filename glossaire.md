@@ -12,15 +12,15 @@ image: /images/logogold.png
   </a>
 </p>
 
-#  <span style="color:#b58b52; font-weight:bold; font-size:36px;">Glossaire Blood on the Clocktower</span>
+#  <span style="color:#5C2E1F font-weight:bold; font-size:36px;">Glossaire Blood on the Clocktower</span>
 
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+<p style="text-align:center; color:#5C2E1F; font-style:italic; font-size:18px; margin-top:-10px;">
   « Chaque mot a son importance... surtout quand il peut te sauver la vie. »
 </p>
 
 ---
 
-##  <span style="color:#b58b52;">Sommaire alphabétique</span>
+##  <span style="color:#5C2E1F;">Sommaire alphabétique</span>
 
 **Aller à :**  
 [ A ](#a) | [ B ](#b) | [ C ](#c) | [ D ](#d) | [ E ](#e) | [ F ](#f) | [ G ](#g) | [ H ](#h) | [ I ](#i) | [ J ](#j) | [ L ](#l) | [ M ](#m) | [ N ](#n) | [ O ](#o) | [ P ](#p) | [ R ](#r) | [ S ](#s) | [ T ](#t) | [ U ](#u) | [ V ](#v) | [ W ](#w)
@@ -43,7 +43,7 @@ Fin de la nuit, avant le lever du jour. Les rôles qui agissent « à l’aube �
 <h2 id="b">🅱️ B</h2>
 
 **Bon/Bien**  
-L’alignement bon. Les <a href="./villageois.html" style="color:blue; font-weight:bold; text-decoration:none;">Villageois</a> et les <a href="./etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Étrangers</a> (rôles bleus) commencent bons. Le Bien l’emporte si le Démon meurt.
+L’alignement bon. Les <a href="./villageois.html" style="color:blue; font-weight:bold; text-decoration:none;">Villageois</a> et les <a href="./etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Marginaux</a> (rôles bleus) commencent bons. Le Bien l’emporte si le Démon meurt.
 
 **Boîte du Grimoire**  
 Support des Conteuses et Conteurs où sont disposés tous les jetons et rappels.
@@ -124,9 +124,6 @@ Tous les joueurs et toutes les joueuses partageant un alignement. « Votre équi
 
 **État**  
 Statut actuel d’un joueur : ivre/sobre, empoisonné/sain, vivant/mort, fou/sain d’esprit.
-
-**Étranger**  
-<a href="./etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Étrangers</a> : rôles bons avec un handicap/effet perturbant pour le village.
 
 **Exécution**  
 Décision collective de tuer une joueuse autre qu'un Voyageur pendant la journée. Il y a un maximum d'une exécution par jour, mais aucune n'est autorisée. Un joueur désigné est exécuté s'il a obtenu au moins la moitié des votes des joueurs ou des joueuses en vie et plus de votes que tout autre personne désignée.
@@ -219,7 +216,7 @@ Petits jetons d’aide-mémoire spécifiques à un rôle.
 Phase où les joueurs ont les yeux ouverts, discutent et votent pour une exécution. Un jour est suivi d’une nuit, et inversement.
 
 **Joueur/Joueuse**  
-Toute personne possédant un rôle en jeu (hors Conteur).
+Toute personne possédant un rôle en jeu.
 
 ---
 
@@ -241,6 +238,11 @@ Joueur croyant être un Démon, alors qu’il ne l’est pas.
 **Maléfique/Mal**  
 Alignement des <a href="./sbires.html" style="color:red; font-weight:bold; text-decoration:none;">Sbires</a> et des <a href="./demons.html" style="color:red; font-weight:bold; text-decoration:none;">Démons</a>.
 
+**Marginal**
+<a href="./etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Marginal</a> : Type de rôle qui commence bon.
+Les Marginaux possèdent des capacités défavorables à l’équipe du Bien. 
+Leur nombre en jeu est indiqué sur la fiche des Voyageurs.
+
 **Mort**  
 Joueur éliminé. Perd sa capacité, ne peut plus nominer, mais conserve **un dernier vote**.
 
@@ -248,7 +250,7 @@ Joueur éliminé. Perd sa capacité, ne peut plus nominer, mais conserve **un de
 
 <h2 id="n">🅽 N</h2>
 
-**Nominé**  
+**Nommé**  
 Désigne un joueur ou une joueuse qui est proposé pour une nomination.
 
 **Nomination**  
