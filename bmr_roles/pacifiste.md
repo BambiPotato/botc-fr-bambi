@@ -104,9 +104,10 @@ image: /images/Icon_pacifist.png
 
 - Si un rôle bon est exécuté, annoncez s’il meurt ou s’il reste en vie. (Ne dites pas pourquoi.)<br>  Ensuite, commencez la phase de nuit. (Il n’y a qu’une seule exécution par jour, que le joueur ait survécu ou non.) 
 
-> Déclencher la capacité Pacifiste une fois par partie est généralement suffisant.<br> Vous pouvez la déclencher davantage si vous le jugez approprié.<br>
-> Vous pouvez aussi (rarement) ne jamais déclencher cettecapacité, pour rendre le Pacifiste suspect.  
-
+<div class="botc-note">
+Déclencher la capacité Pacifiste une fois par partie est généralement suffisant.<br> Vous pouvez la déclencher davantage si vous le jugez approprié.**<br>
+Vous pouvez aussi (rarement) ne jamais déclencher cettecapacité, pour rendre le Pacifiste suspect.*  
+</div>
 
 ---
 
