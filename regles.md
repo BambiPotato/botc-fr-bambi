@@ -25,7 +25,7 @@ image: /images/logogold.png
   </a>
 
   <p>
-    Une petite vidéo pour expliquer les règles en 6 minutes.
+    Une petite vidéo de <strong>Board Game Siren</strong> pour expliquer les règles en 6 minutes.
   </p>
 </div>
 
