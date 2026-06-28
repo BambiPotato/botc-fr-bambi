@@ -16,7 +16,7 @@ image: /images/logogold.png
 <h1 style="color:#5C2E1F; font-weight:bold; font-size:36px;"> Installation et mise en place</h1>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.8;">
-Cette page vous guide pas à pas dans la préparation d’une partie de <strong>Blood on the Clocktower</strong> en suivant la </strong>FICHE DE MISE EN PLACE</strong>  du jeu.<br> Elle s’adresse aussi bien aux <strong>Conteurs et Conteuses</strong>  qu’aux joueurs et joueuses.
+Cette page vous guide pas à pas dans la préparation d’une partie de <strong>Blood on the Clocktower</strong> en suivant la <<strong>FICHE DE MISE EN PLACE</strong>  du jeu.<br> Elle s’adresse aussi bien aux <strong>Conteurs et Conteuses</strong>  qu’aux joueurs et joueuses.
 </p>
 
 <hr>
@@ -104,7 +104,7 @@ Une copie des règles figure aussi au dos de la feuille des Voyageurs, pratique 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 À partir du module choisi, sélectionnez le bon nombre de
 <a href="./villageois.html" style="color:#80aee0; font-weight:bold; text-decoration:none;">Villageois</a>,
-d’<a href="./etrangers.html" style="color:#80aee0; font-weight:bold; text-decoration:none;">Marginal</a>,
+de <a href="./etrangers.html" style="color:#80aee0; font-weight:bold; text-decoration:none;">Marginaux</a>,
 de <a href="./sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>
 et de <a href="./demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démons</a>
 en suivant la fiche des rôles pour la mise en place. Faites tout cela <strong>en secret</strong>.
