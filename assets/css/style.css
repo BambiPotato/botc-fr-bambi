@@ -512,8 +512,8 @@ h1, h2, h3, h4, h5, h6 {
     margin-right: 0 !important;
   }
 }
-/* TEST menu violet */
-body::after {
+/* TEST menu violet seulement sur les pages internes avec parchemin */
+.page-content:has(.wiki-parchment)::before {
   content: "";
   position: fixed;
   left: 0;
