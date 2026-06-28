@@ -818,3 +818,116 @@ body.sidebar-on .botc-sidebar-logo img {
 .wiki-parchment a:hover {
   text-decoration: underline;
 }
+/* =========================================================
+   CORRECTION FINALE — ACCUEIL UNIQUEMENT
+   À coller tout en bas du style.css
+   ========================================================= */
+
+/* On remet les pages internes comme avant */
+body:not(.home-page) .wiki-parchment {
+  background: rgba(246,239,229,0.94) !important;
+  color: #4b1f25 !important;
+}
+
+/* Accueil : parchemin plus chaud / plus foncé */
+body.home-page .wiki-parchment {
+  max-width: 1180px !important;
+  background: rgba(232, 205, 158, 0.96) !important;
+  border: 1px solid rgba(92, 46, 31, 0.55) !important;
+  color: #5C2E1F !important;
+}
+
+/* Accueil : anciens blocs noirs transformés en beaux encadrés */
+body.home-page .wiki-parchment div[style*="background-color:rgba(0,0,0,0.45)"],
+body.home-page .wiki-parchment td[style*="background:rgba(0,0,0,0.45)"],
+body.home-page .wiki-parchment .rules-cell,
+body.home-page .wiki-parchment .home-card,
+body.home-page .wiki-parchment table.roles-grid td {
+  background: rgba(246, 225, 184, 0.82) !important;
+  border: 2px solid rgba(92, 46, 31, 0.50) !important;
+  border-radius: 14px !important;
+  box-shadow: 0 8px 18px rgba(92, 46, 31, 0.22) !important;
+  color: #5C2E1F !important;
+}
+
+/* Accueil : texte marron élégant */
+body.home-page .wiki-parchment h1,
+body.home-page .wiki-parchment h2,
+body.home-page .wiki-parchment h3,
+body.home-page .wiki-parchment p,
+body.home-page .wiki-parchment li,
+body.home-page .wiki-parchment span,
+body.home-page .wiki-parchment div,
+body.home-page .wiki-parchment .rules-title,
+body.home-page .wiki-parchment .rules-sub,
+body.home-page .wiki-parchment .rg-title,
+body.home-page .wiki-parchment .home-title {
+  color: #5C2E1F !important;
+  text-shadow: none !important;
+}
+
+/* Accueil : badges Prochainement */
+body.home-page .wiki-parchment .rg-badge,
+body.home-page .wiki-parchment .badge-pending {
+  display: inline-block !important;
+  background: rgba(92, 46, 31, 0.13) !important;
+  color: #5C2E1F !important;
+  border: 1px solid rgba(92, 46, 31, 0.65) !important;
+  border-radius: 999px !important;
+  padding: 3px 9px !important;
+  font-size: 12px !important;
+  font-weight: bold !important;
+}
+
+/* Accueil : couleurs de catégories conservées */
+body.home-page .wiki-parchment [style*="color:#4ea3ff"] { color: #2f7dcc !important; }
+body.home-page .wiki-parchment [style*="color:#d45b5b"] { color: #a83232 !important; }
+body.home-page .wiki-parchment [style*="color:#9b59b6"] { color: #7b3fa0 !important; }
+body.home-page .wiki-parchment [style*="color:#7fd1ae"] { color: #3f8f6f !important; }
+
+/* Accueil : liens */
+body.home-page .wiki-parchment a {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+body.home-page .wiki-parchment a:hover {
+  text-decoration: underline !important;
+}
+
+/* Accueil : images mieux cadrées */
+body.home-page .wiki-parchment .rg-media {
+  height: 125px !important;
+  background: transparent !important;
+}
+
+body.home-page .wiki-parchment .rg-media img {
+  max-height: 115px !important;
+  object-fit: contain !important;
+}
+
+/* Accueil mobile : cartes propres, une par ligne */
+@media (max-width: 760px) {
+  body.home-page .wiki-parchment {
+    padding: 20px 14px !important;
+    font-size: 16px !important;
+  }
+
+  body.home-page .wiki-parchment table,
+  body.home-page .wiki-parchment tbody,
+  body.home-page .wiki-parchment tr,
+  body.home-page .wiki-parchment td {
+    display: block !important;
+    width: 100% !important;
+    box-sizing: border-box !important;
+  }
+
+  body.home-page .wiki-parchment td {
+    margin-bottom: 12px !important;
+  }
+
+  body.home-page .wiki-parchment img {
+    max-width: 100% !important;
+    height: auto !important;
+  }
+}
