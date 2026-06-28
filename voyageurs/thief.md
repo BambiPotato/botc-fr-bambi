@@ -104,10 +104,10 @@ Chaque fois que vous comptez le vote d'un joueur marqué <strong>VOTE NÉGATIF</
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 La Voleuse choisit Marianna. Le lendemain, lors du décompte du premier vote, le Conteur compte « 1... 2... 3... 2... 3... 4... 5. »
-Le joueur nommé a désormais cinq votes contre lui et l'étape de nomination continue.<br>
+Le joueur nommé a désormais cinq votes contre lui et l'étape de nomination continue.<br><br>
 
-La Voleuse choisit Abdallah. Abdallah vote pour une exécution. Le décompte des votes est de quatre (au lieu de six si Abdallah n'avait pas été affecté par la Voleuse).<br> Comme il y a dix joueurs en vie, le joueur nommé n'est pas exécuté aujourd'hui.<br> Plus tard dans la journée, les joueurs envisagent d'exiler le 
-<a href="./gunslinger.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Franc-tireur</a>. <br> Abdallah lève la main pour soutenir l'exil, ce qui compte comme un vote positif.
+La Voleuse choisit Abdallah. Abdallah vote pour une exécution.<br>Le décompte des votes est de quatre (au lieu de six si Abdallah n'avait pas été affecté par la Voleuse).<br> Comme il y a dix joueurs en vie, le joueur nommé n'est pas exécuté aujourd'hui.<br> Plus tard dans la journée, les joueurs envisagent d'exiler le 
+<a href="./gunslinger.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Franc-tireur</a>. <br> Abdallah lève la main pour soutenir l'exil, ce qui compte comme un vote positif.<br><br>
 
 La Voleuse choisit Marianna. Le  <a href="./bureaucrat.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Bureaucrate</a> choisit également Marianna. Le lendemain, le vote de Marianna compte pour trois votes négatifs.
 </ul>
