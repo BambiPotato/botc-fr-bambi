@@ -137,8 +137,6 @@ Si vous êtes <strong>ivre</strong> (par exemple <a href="tb_roles/ivrogne.html"
 
 <hr>
 
-<hr>
-
 <h2 style="color:#d4a76a; font-weight:bold; font-size:28px;"> Les 4 règles essentielles</h2>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
