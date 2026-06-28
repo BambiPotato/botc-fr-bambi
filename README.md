@@ -5,41 +5,6 @@
   </a>
 </p>
 
-<!-- PATCH LISIBILITÉ + BANNIÈRE ÉCLAIRCIE (version plus sombre et équilibrée) -->
-<style>
-  /* 1) BANNIÈRE : voile plus discret, ambiance dorée douce */
-  body::before {
-    background: linear-gradient(rgba(0,0,0,0.25), rgba(0,0,0,0.25)),
-                url("/botc-fr-bambi/images/banner.png") no-repeat center / cover !important;
-    opacity: 1 !important;
-  }
-
-  /* 2) Couleur générale du texte */
-  body { color: #f2ede3 !important; }
-
-  /* 3) Titres : doré profond, bien lisible sur fond sombre */
-  h1, h2, h3 {
-    color: #c9a758 !important;
-    text-shadow: 1px 1px 5px rgba(0,0,0,0.4) !important;
-  }
-
-  /* 4) Liens : doré doux */
-  a { color: #d2b56e !important; }
-  a:hover { color: #f0d88f !important; }
-
-/* 6) Cartes et blocs – un peu plus opaques pour la lisibilité */
-.home-card, .rules-cell {
-  background: rgba(0,0,0,0.45) !important;  /* voile sombre léger mais net */
-  border: 1px solid rgba(198,162,93,0.40) !important;
-  box-shadow: 0 3px 12px rgba(0,0,0,0.45) !important;
-}
-
-.home-card:hover, .rules-cell:hover {
-  background: rgba(0,0,0,0.60) !important;  /* un peu plus marqué au survol */
-  border-color: rgba(198,162,93,0.65) !important;
-  box-shadow: 0 8px 18px rgba(0,0,0,0.60) !important;
-}
-</style>
 
 
 <!--  PAGE D’ACCUEIL - WIKI BOTC FR -->
