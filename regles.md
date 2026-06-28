@@ -12,6 +12,26 @@ image: /images/logogold.png
 </p>
 
 
+<div class="botc-side-card float-right">
+  <h2>Règles en 6mn chrono !</h2>
+
+  <a href="https://youtu.be/6B3KsRAY7_Y?si=P4Izcn943d670oQJ"
+     target="_blank"
+     rel="noopener noreferrer"
+     class="botc-video-thumb">
+    <img src="https://img.youtube.com/vi/6B3KsRAY7_Y/hqdefault.jpg"
+         alt="Vidéo d’aide pour l’installation">
+    <span class="botc-play-button">▶</span>
+  </a>
+
+  <p>
+    Une petite vidéo pour expliquer les règles en moins de 6 minutes.
+  </p>
+</div>
+
+
+
+
 <!-- Explication des règles -->
 
 <h1 style="color:#d4a76a; font-weight:bold; font-size:40px;">Explication des règles</h1>
