@@ -525,3 +525,76 @@ body.sidebar-on::after {
   z-index: 10;
   pointer-events: none;
 }
+/* =========================================================
+   MENU LATÉRAL BOTC
+   ========================================================= */
+
+.botc-sidebar {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 240px;
+  height: 100vh;
+  z-index: 20;
+  padding: 18px 16px;
+  box-sizing: border-box;
+  overflow-y: auto;
+
+  background:
+    linear-gradient(rgba(25, 5, 35, 0.35), rgba(25, 5, 35, 0.55)),
+    url("/botc-fr-bambi/images/sidebar-purple.jpeg") center / cover no-repeat;
+
+  color: #f4efe6;
+}
+
+.botc-sidebar-logo img {
+  display: block;
+  width: 190px;
+  max-width: 100%;
+  margin: 0 auto 18px auto;
+}
+
+.botc-sidebar-nav h3 {
+  color: #d4a76a;
+  font-size: 15px;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 18px 0 8px 0;
+  padding: 8px 0;
+  border-top: 1px solid rgba(212,167,106,0.55);
+  border-bottom: 1px solid rgba(212,167,106,0.55);
+}
+
+.botc-sidebar-nav a {
+  display: block;
+  color: #f4efe6 !important;
+  font-size: 14px;
+  line-height: 1.45;
+  text-decoration: none;
+  margin: 4px 0;
+}
+
+.botc-sidebar-nav a:hover {
+  color: #d4a76a !important;
+}
+
+/* Décale le contenu pour laisser la place au menu */
+body.sidebar-on .page-content {
+  margin-left: 240px;
+}
+
+/* On n’a plus besoin de la fausse bande violette */
+body.sidebar-on::after {
+  display: none !important;
+}
+
+/* Mobile : le menu ne s’affiche pas encore */
+@media (max-width: 800px) {
+  .botc-sidebar {
+    display: none;
+  }
+
+  body.sidebar-on .page-content {
+    margin-left: 0;
+  }
+}
