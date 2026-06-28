@@ -15,13 +15,13 @@ image: /images/Generic_traveller.png
 
 ##  Présentation  
 
-Les **Voyageurs** sont des rôles spéciaux pour les joueuses et joueurs qui arrivent en retard ou qui doivent partir tôt.  
+Les **Voyageurs** sont des rôles spéciaux pour les joueurs et joueuses ui arrivent en retard ou qui doivent partir tôt.  
 Un Voyageur peut **rejoindre** la partie à tout moment, et **la quitter** à tout moment.  
 
 - Les Voyageurs ont souvent des capacités extrêmement puissantes , mais obtiennent peu d’informations.  
 - Ils ont **un maximum de pouvoir**… mais **un minimum de responsabilité**.  
-- Si un Voyageur est **<span style="color:red;">Maléfique </span>**, il apprend qui est le [<span style="color:red;">Démon</span>](../demons.md).  
-  (Mais il ne connaît pas les [<span style="color:red;">Sbires</span>](../sbires.md) et ne reçoit pas de bluffs.)  
+- Si un Voyageur est **<span style="color:red;">Maléfique </span>**, apprend qui est le [<span style="color:red;">Démon</span>](../demons.md).  
+  (Mais il ne connaît pas les [<span style="color:red;">Sbires</span>](../sbires.md) et ne reçoit aucun de bluffs.)  
 
 ---
 
