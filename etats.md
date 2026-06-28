@@ -14,7 +14,7 @@ image: /images/logogold.png
 <!-- STYLE GLOBAL POUR HARMONIE -->
 <style>
   h1, h2, h3 {
-    color:#d4a76a !important;
+    color:#5C2E1F !important;
   }
   hr.section {
     border:0;
@@ -25,7 +25,7 @@ image: /images/logogold.png
 
 #  Les États
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<p style="color:#5C2E1F; font-size:18px; line-height:1.7;">
 Dans <strong>Blood on the Clocktower</strong>, les joueurs peuvent être beaucoup de choses : ce rôle-ci ou celui-là, ivres ou sobres, vivants ou morts, sains ou empoisonnés.  
 Ces éléments sont appelés des <strong>états</strong>. Ce sont des caractéristiques permanentes et indépendantes d'un joueur. 
 Par exemple, si vous êtes ivre et que vous changez de rôle, vous restez ivre.  
@@ -95,20 +95,20 @@ Si un joueur change de rôle, son alignement reste le même.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li>Si la <a href="./bmr_roles/brute.html" style="color:#80aee0; text-decoration:none;">Brute</a> devient maléfique, elle reste la Brute.</li>
-  <li>Si la <a href="./sv_roles/fleuriste.html" style="color:#80aee0; text-decoration:none;">Fleuriste</a> devient la <a href="./sv_roles/sorciere.html" style="color:#d45b5b; text-decoration:none;">Sorcière</a> à cause de la <a href="./sv_roles/pithag.html" style="color:#d45b5b; text-decoration:none;">Pit-Hag</a>, alors la Sorcière est toujours dans le camp du Bien.</li>
+  <li>Si le <a href="./bmr_roles/brute.html" style="color:#80aee0; text-decoration:none;">Gros bras</a> devient maléfique, il reste le Gros bras.</li>
+  <li>Si la <a href="./sv_roles/fleuriste.html" style="color:#80aee0; text-decoration:none;">Fleuriste</a> devient la <a href="./sv_roles/sorciere.html" style="color:#d45b5b; text-decoration:none;">Sorcière</a> à cause de la <a href="./sv_roles/pithag.html" style="color:#d45b5b; text-decoration:none;">Guenaude</a>, alors la Sorcière est toujours dans le camp du Bien.</li>
 </ul>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Quand quelqu’un change de rôle ou d’alignement, le Conteur l’en informe secrètement, dès que possible.  
-En pratique, le Conteur montre souvent le jeton « VOUS ÊTES » puis indique le nouveau rôle ou le nouvel alignement.  
+Quand un joueur change de rôle ou d’alignement, le Conteur l’en informe secrètement, dès que possible.  
+En pratique, le Conteur montre souvent la tuile <strong>« VOUS ÊTES »</strong> puis indique le nouveau rôle ou le nouvel alignement.  
 La feuille de nuit ou l’almanach précise quand ces changements ont lieu et rappelle au Conteur de réveiller la personne concernée pour l’informer.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Ce type d’information n’est pas une information comme les autres.  
 Apprendre son propre rôle ou son propre alignement n’est pas affecté par l’ivresse, le poison ni par des effets comme le <a href="./sv_roles/vortox.html" style="color:#d45b5b; text-decoration:none;">Vortox</a>.  
-Les joueurs et les joueuses doivent toujours connaître leur rôle réel et leur alignement réel.
+Les joueurs doivent toujours connaître leur rôle réel et leur alignement réel.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -138,9 +138,9 @@ Un joueur vivant ou mort peut être ivre ou empoisonné.
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Un joueur ivre ou empoisonné n’a plus de capacité fonctionnelle.  
-Un <a href="./tb_roles/mercenaire.html" style="color:#80aee0; text-decoration:none;">Mercenaire</a> ivre ne tue personne.  
+Une <a href="./tb_roles/mercenaire.html" style="color:#80aee0; text-decoration:none;">Pourfendeuse</a> ivre ne tue personne.  
 Un <a href="./demons.html" style="color:#d45b5b; text-decoration:none;">Démon</a> empoisonné ne parvient pas à tuer.  
-Une <a href="./tb_roles/vierge.html" style="color:#80aee0; text-decoration:none;">Vierge</a> ivre ne provoque pas d’exécution avec sa capacité.  
+Une <a href="./tb_roles/vierge.html" style="color:#80aee0; text-decoration:none;">Immaculée</a> ivre ne provoque pas d’exécution avec sa capacité.  
 Un <a href="./bmr_roles/courtisan.html" style="color:#80aee0; text-decoration:none;">Courtisan</a> empoisonné ne rend aucun rôle ivre.  
 Si un joueur ivre ou empoisonné tente d’utiliser une capacité « une fois par partie », cette utilisation est perdue et ne reviendra jamais.
 </p>
@@ -159,7 +159,7 @@ Un <a href="./demons.html" style="color:#d45b5b; text-decoration:none;">Démon</
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Parfois, le Conteur peut donner des indices très subtils pour laisser deviner une ivresse ou un poison.  
-Par exemple, il peut montrer à un <a href="./tb_roles/croquemort.html" style="color:#80aee0; text-decoration:none;">Croque-Mort</a> que 
+Par exemple, il peut montrer à un <a href="./tb_roles/croquemort.html" style="color:#80aee0; text-decoration:none;">Fossoyeur</a> que 
 <a href="./tb_roles/maire.html" style="color:#80aee0; text-decoration:none;">Maire</a> le a été exécuté alors que personne ne revendique ce rôle.  
 Ce genre de situation doit rester rare.
 </p>
@@ -171,8 +171,8 @@ Par exemple :
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li>Camille <a href="./tb_roles/empathique.html" style="color:#80aee0; text-decoration:none;">Empathique</a> ivre se réveille chaque nuit, mais le nombre montré peut être erroné,</li>
-  <li>un <a href="./tb_roles/croquemort.html" style="color:#80aee0; text-decoration:none;">Croque-Mort</a> empoisonné voit un jeton de rôle qui ne correspond pas à la personne exécutée.</li>
+  <li>Aggie <a href="./tb_roles/empathique.html" style="color:#80aee0; text-decoration:none;">Empathe</a> ivre se réveille chaque nuit, mais le nombre montré peut être erroné,</li>
+  <li>un <a href="./tb_roles/croquemort.html" style="color:#80aee0; text-decoration:none;">Fossoyeur</a> empoisonné voit un jeton de rôle qui ne correspond pas à la personne exécutée.</li>
 </ul>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -187,14 +187,14 @@ Une personne peut être à la fois ivre et empoisonnée.
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Les capacités utilisées sur une joueuse ivre ou empoisonnée fonctionnent normalement.  
 Par exemple, une capacité d’un 
-<a href="./tb_roles/empathique.html" style="color:#80aee0; text-decoration:none;">Empathique</a> 
+<a href="./tb_roles/empathique.html" style="color:#80aee0; text-decoration:none;">Empathe</a> 
 donne la vraie information sur les voisins, même si ces voisins sont ivres.  
 Une <a href="./tb_roles/voyante.html" style="color:#80aee0; text-decoration:none;">Voyante</a> 
 peut identifier correctement un <a href="./demons.html" style="color:#d45b5b; text-decoration:none;">Démon</a> empoisonné.  
 Si un rôle <a href="./legendaire.html" style="color:#b58b52; text-decoration:none;">Légendaire</a> 
 comme la <a href="./legendaire_roles/duchess.html" style="color:#b58b52; text-decoration:none;">Duchesse</a> 
-fournit une information à trois joueurs et qu’un de ces joueurs est un <a href="./tb_roles/mercenaire.html" style="color:#80aee0; text-decoration:none;">Mercenaire</a> empoisonné, 
-la capacité de la Duchesse fonctionne correctement et donne une vraie information, même si le Mercenaire lui-même n’a plus de capacité.
+fournit une information à trois joueurs et qu’un de ces joueurs est une <a href="./tb_roles/mercenaire.html" style="color:#80aee0; text-decoration:none;">Pourfendeuse</a> empoisonné, 
+la capacité de la Duchesse fonctionne correctement et donne une vraie information, même si la Pourfendeuse lui-même n’a plus de capacité.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -215,7 +215,7 @@ En règle générale, si une capacité est permanente ou déjà active dans la p
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li>Une <a href="./bmr_roles/damedethe.html" style="color:#80aee0; text-decoration:none;">Dame de Thé</a> empoisonnée ne protège pas ses voisins. Quand elle redevient saine, elle les protège à nouveau.</li>
+  <li>Une <a href="./bmr_roles/damedethe.html" style="color:#80aee0; text-decoration:none;">Tisanière</a> empoisonnée ne protège pas ses voisins. Quand elle redevient saine, elle les protège à nouveau.</li>
   <li>Une <a href="./sv_roles/sorciere.html" style="color:#d45b5b; text-decoration:none;">Sorcière</a> sobre maudit une joueuse. Devenue ivre, cette malédiction cesse. Quand elle redevient sobre, la malédiction revient.</li>
 </ul>
 
@@ -283,28 +283,31 @@ Les détails précis figurent sur le jeton ou sur la fiche du rôle concerné.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>Exemple : le <a href="./sv_roles/mutant.html" style="color:#80aee0; text-decoration:none;">Mutant</a></strong>  
-Sa capacité indique : « Si vous êtes Fou d’être un étranger, vous pourriez être exécuté. »  
-Le Mutant doit se comporter comme un <a href="./villageois.html" style="color:#80aee0; text-decoration:none;">Villageois</a> et ne doit pas revendiquer clairement qu’il est un <a href="./etrangers.html" style="color:#80aee0; text-decoration:none;">Étranger</a>.  
-S’il insiste trop sur ce point ou s’il essaie manifestement de convaincre le Village qu’il est un Étranger, le Conteur peut décider de l’exécuter.
+
+<div class="botc-note">  
+<strong>La <a href="./sv_roles/mutant.html" style="color:#80aee0; text-decoration:none;">Bête de foire</a></strong>  
+Sa capacité indique : « Si vous vous montrez « fou » d’être un Marginal, vous pourriez être exécuté. »  
+La Bête de foire doit se comporter comme un <a href="./villageois.html" style="color:#80aee0; text-decoration:none;">Villageois</a> et ne doit pas revendiquer clairement qu’il est un <a href="./etrangers.html" style="color:#80aee0; text-decoration:none;">Marginal</a>.  
+S’il insiste trop sur ce point ou s’il essaie manifestement de convaincre le Village qu’il est un Marginal, le Conteur peut décider de l’exécuter.
+</div> 
 </p>
 
+<div class="botc-note">
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <a href="./sv_roles/mutant.html" style="color:#80aee0; text-decoration:none;">Mutant</a> 
+La <a href="./sv_roles/mutant.html" style="color:#80aee0; text-decoration:none;">Bête de foire</a> 
 peut tenter des approches plus subtiles.  
-Par exemple, il peut dire « Je ne vais pas vous dire qui je suis, mais je ne suis pas un 
-<a href="./villageois.html" style="color:#80aee0; text-decoration:none;">Villageois</a> » avec un sourire très révélateur, 
-ou garder le silence en espérant que les autres en déduisent qu’il est le Mutant.  
-C’est au Conteur de juger si la personne essaie réellement de convaincre le groupe qu’elle est un 
-<a href="./etrangers.html" style="color:#80aee0; text-decoration:none;">Étranger</a>.  
-Si c’est le cas, le Conteur est libre de l’exécuter.
+Par exemple, Alex peut dire " Je ne vais pas vous dire qui je suis, mais je suis certainement pas une Bête de foire ", avec un sourire malicieux sur son visage,
+ou il peut même ne rien dire du tout pendant que d'autres joueurs l'accusent d'être la Bête de foire.
+Dans les deux cas, le conteur peut juger qu'Alex essaie de convaincre le groupe qu'il est la Bête de foire.
+Dans le premier cas, il dit une chose et en veut dire une autre. 
+Dans le deuxième cas, il ne dit rien du tout, mais espère que, à cause de cela, le groupe conclura qu'il est la Bête de foire.
+Dans les deux cas, le conteur pourrait l'exécuter.
+De même, même si le conteur ne repère pas Alex disant à qui que ce soit qu'il est un Marginal, mais qu'un joueur maléfique s'en rappelle le conteur en privé et dit : 
+"Alex m'a dit qu'il était la Bête de foire", alors c'est une preuve suffisante qu'il essaie de convaincre le groupe qu'il est la Bête de foire, afin que le conteur puisse l'exécute
 </p>
+</div>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Même si le Conteur n’a pas entendu le joueur se déclarer Étranger, le témoignage d’un autre joueur peut suffire.  
-Par exemple, si un <a href="./sbires.html" style="color:#d45b5b; text-decoration:none;">Sbire</a> vient voir le Conteur en privé et lui dit « Alex m’a dit qu’il est le Mutant », le Conteur peut décider que cela prouve suffisamment que le Mutant a joué avec sa folie et choisir de l’exécuter.
-</p>
-
+<div class="botc-note">
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong>Exemple : le <a href="./sv_roles/cerenovus.html" style="color:#d45b5b; text-decoration:none;">Cerenovus</a></strong>  
 Sa capacité demande à un joeur d’être FOU à propos d’un rôle précis, sous peine d’exécution.  
@@ -312,18 +315,21 @@ Si le Cerenovus choisit un joueur et lui demande d’être FOU d'être le
 <a href="./sv_roles/sage.html" style="color:#80aee0; text-decoration:none;">Sage</a>, ce joueur doit faire tout son possible pour convaincre le Village qu’il est le Sage.  
 S’il se contente de rester silencieux sans jamais vraiment essayer de persuader les autres, le Conteur peut estimer qu’il ne respecte pas la Folie et décider de l’exécuter.
 </p>
+</div>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Personne n’est obligé de suivre une folie.  
-Chacun peut dire ce qu’il veut à tout moment.  
-La folie ajoute simplement une incitation : certaines phrases rapprochent de la survie, d’autres rapprochent de l’exécution.  
-Si quelqu’un déclare clairement « Je suis fou » ou laisse entendre qu’il préfère ignorer la folie, le Conteur peut appliquer la conséquence prévue par le rôle, souvent l’exécution.
+<strong>Les joueurs ne sont jamais obligés d'être fous.</strong>  Les joueurs peuvent dire ce qu'ils veulent à tout moment - 
+ils ne sont jamais obligés de dire quoi que ce soit qu'ils ne veulent pas dire. 
+Avec la folie, cependant, ils sont incités à dire des choses particulières et découragés à en dire d'autres. 
+Si un joueur dit carrément : « Je suis fou », ou l'implique fortement, alors le conteur peut lui donner la pénalité appropriée ou supprimer l'avantage approprié. 
+Ce genre de déclaration est généralement la façon d'un joueur de dire "Je ne veux pas être fou à ce sujet, et je préfère prendre la pénalité".
+Même si un joueur laisse simplement entendre qu'il est fou, cela compte.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Une joueuse qui a été ciblée par la Folie peut parler librement une fois que c’est terminé.  
-Par exemple, Lorie a été ciblée par le <a href="./sv_roles/cerenovus.html" style="color:#d45b5b; text-decoration:none;">Cerenovus</a> il y a deux nuits mais ne l’est plus, elle peut révéler cette information sans risquer l’exécution.  
-Un <a href="./sv_roles/mutant.html" style="color:#80aee0; text-decoration:none;">Mutant</a> mort n’a plus sa capacité et ne risque plus rien à raconter comment il a joué sa folie.
+Par exemple, Amy a été ciblée par le <a href="./sv_roles/cerenovus.html" style="color:#d45b5b; text-decoration:none;">Cerenovus</a> il y a deux nuits mais ne l’est plus, elle peut révéler cette information sans risquer l’exécution.  
+Une <a href="./sv_roles/mutant.html" style="color:#80aee0; text-decoration:none;">Bête de foire</a> morte n’a plus sa capacité et ne risque plus rien à raconter comment elle a joué sa folie.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -346,5 +352,5 @@ Le jeu devient alors plus théâtral, plus chaotique et souvent plus drôle.
 <hr class="section">
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li> <a href="./index.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
+  <li> <a href="./index.html" style="color:#5C2E1F; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
 </ul>
