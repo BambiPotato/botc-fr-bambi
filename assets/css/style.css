@@ -671,3 +671,10 @@ body.sidebar-on .botc-sidebar-logo img {
   width: 170px !important;
   max-width: 90% !important;
 }
+/* Correction finale logo sidebar */
+body.sidebar-on .botc-sidebar a.botc-sidebar-logo img {
+  width: 150px !important;
+  max-width: 150px !important;
+  height: auto !important;
+  margin: 0 auto 14px auto !important;
+}
