@@ -1152,3 +1152,79 @@ body.home-page .wiki-parchment .rg-media img {
   font-size: 26px;
   font-family: Arial, sans-serif;
 }
+/* =========================================================
+   LIGNES DÉCORATIVES — rôles / pages / explications
+   ========================================================= */
+
+.decorative-divider {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  margin: 28px 0 26px 0;
+  color: #5C2E1F;
+}
+
+.decorative-divider::before,
+.decorative-divider::after {
+  content: "";
+  flex: 1;
+  height: 3px;
+  background: currentColor;
+  border-radius: 999px;
+}
+
+.decorative-divider::after {
+  flex: 1.15;
+}
+
+.decorative-divider .ornament {
+  color: currentColor;
+  font-size: 28px;
+  line-height: 1;
+  transform: translateY(-1px);
+}
+
+/* Couleurs */
+.decorative-divider.villageois,
+.decorative-divider.marginal,
+.decorative-divider.bien {
+  color: #4ea3ff;
+}
+
+.decorative-divider.malefique,
+.decorative-divider.sbire,
+.decorative-divider.demon {
+  color: #d45b5b;
+}
+
+.decorative-divider.voyageur {
+  color: #9b59b6;
+}
+
+.decorative-divider.legendaire {
+  color: #d4a76a;
+}
+
+.decorative-divider.laurier,
+.decorative-divider.loric {
+  color: #2e7d5a;
+}
+
+.decorative-divider.neutre,
+.decorative-divider.explication,
+.decorative-divider.regles,
+.decorative-divider.conseils {
+  color: #5C2E1F;
+}
+
+/* Mobile */
+@media (max-width: 700px) {
+  .decorative-divider {
+    gap: 12px;
+    margin: 24px 0;
+  }
+
+  .decorative-divider .ornament {
+    font-size: 24px;
+  }
+}
