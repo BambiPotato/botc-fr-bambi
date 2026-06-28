@@ -931,3 +931,65 @@ body.home-page .wiki-parchment .rg-media img {
     height: auto !important;
   }
 }
+/* =========================================================
+   CORRECTION MOBILE — pages internes
+   élargit le parchemin et évite les textes en colonne
+   ========================================================= */
+
+@media (max-width: 800px) {
+  body:not(.home-page) .page-content {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  body:not(.home-page) .wrapper {
+    padding-left: 8px !important;
+    padding-right: 8px !important;
+  }
+
+  body:not(.home-page) .wiki-parchment {
+    width: calc(100vw - 24px) !important;
+    max-width: calc(100vw - 24px) !important;
+    margin: 18px auto !important;
+    padding: 22px 18px !important;
+    box-sizing: border-box !important;
+    font-size: 17px !important;
+    line-height: 1.65 !important;
+  }
+
+  body:not(.home-page) .wiki-parchment div,
+  body:not(.home-page) .wiki-parchment p,
+  body:not(.home-page) .wiki-parchment li {
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+    overflow-wrap: break-word !important;
+    word-break: normal !important;
+  }
+
+  body:not(.home-page) .wiki-parchment div[style*="width"],
+  body:not(.home-page) .wiki-parchment table,
+  body:not(.home-page) .wiki-parchment td {
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+  }
+
+  body:not(.home-page) .wiki-parchment div[style*="float:right"] {
+    float: none !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 18px 0 !important;
+  }
+
+  body:not(.home-page) .wiki-parchment:has(div[style*="float:right"]) {
+    padding-right: 18px !important;
+  }
+
+  body:not(.home-page) .botc-note {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 24px auto !important;
+    padding: 18px 16px !important;
+    font-size: 17px !important;
+    line-height: 1.6 !important;
+  }
+}
