@@ -5,20 +5,18 @@ description: Wiki Francophone Communautaire Blood on the Clocktower
 home_sidebar: true
 ---
 
-
 <p align="left">
   <a href="/botc-fr-bambi/">
     <img src="images/logogold.png" alt="Accueil BotC FR" width="200">
   </a>
 </p>
 
-
 <!--  PAGE D’ACCUEIL - WIKI BOTC FR -->
 
 <div style="text-align:center; margin:40px auto 0 auto; max-width:980px; padding:25px 20px; border:1px solid rgba(212,167,106,0.3); border-radius:10px; box-shadow:0 0 12px rgba(0,0,0,0.4); background-color:rgba(0,0,0,0.45);">
 
   <h1 style="color:#b58b52; font-size:24px; font-weight:bold; text-shadow:2px 2px 6px #000; margin-top:20px;">
-     Bienvenue sur le Wiki Francophone de <br>
+    Bienvenue sur le Wiki Francophone de <br>
     <span style="color:#d4a76a;">Blood on the Clocktower</span>
   </h1>
 
@@ -49,7 +47,8 @@ home_sidebar: true
          style="color:#d4a76a; font-weight:bold; text-decoration:none;">
         Blood on the Clocktower
       </a>
-      et il n’a aucun but lucratif.<br><br>
+      et il n’a aucun but lucratif.
+      <br><br>
 
       Tout le contenu de
       <a href="https://bloodontheclocktower.com/"
@@ -64,6 +63,7 @@ home_sidebar: true
 
   </div>
 
+</div>
 
 <hr style="margin:16px auto; max-width:980px; border:1px solid rgba(181,139,82,.25);">
 
