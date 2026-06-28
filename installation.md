@@ -11,23 +11,6 @@ image: /images/logogold.png
   </a>
 </p>
 
-<div class="botc-side-card float-right">
-  <h2>Vidéo d’aide</h2>
-
-  <a href="https://youtu.be/6B3KsRAY7_Y?si=P4Izcn943d670oQJ"
-     target="_blank"
-     rel="noopener noreferrer"
-     class="botc-video-thumb">
-    <img src="https://img.youtube.com/vi/6B3KsRAY7_Y/hqdefault.jpg"
-         alt="Vidéo d’aide pour l’installation">
-    <span class="botc-play-button">▶</span>
-  </a>
-
-  <p>
-    Une vidéo pour accompagner la mise en place et mieux visualiser les étapes.
-  </p>
-</div>
-
 
 <!--  Installation et mise en place -->
 
