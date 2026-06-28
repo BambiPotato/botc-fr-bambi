@@ -13,8 +13,8 @@ image: /images/logogold.png
 
 <!-- STYLE GLOBAL POUR HARMONISATION -->
 <style>
-  h2 { color:#d4a76a !important; margin-top:45px; }
-  h3 { color:#d4a76a!important; margin-top:32px; }
+  h2 { color:#5C2E1F !important; margin-top:45px; }
+  h3 { color:#5C2E1F!important; margin-top:32px; }
   ol li a { color:#ed4a76a!important; }
   hr.section { border:0; border-top:1px solid #4a3e2a; margin:30px 0; }
 </style>
@@ -24,10 +24,10 @@ image: /images/logogold.png
 <!-- ========================= -->
 
 <h1 style="font-size:36px; font-weight:bold;">
-   <span style="color:#d4a76a;">Rôle du Conteur</span>
+   <span style="color:#5C2E1F;">Rôle du Conteur</span>
 </h1>
 
-<p style="text-align:center; color:#d4a76a; font-style:italic; font-size:18px; margin-top:-10px;">
+<p style="text-align:center; color:#5C2E1F; font-style:italic; font-size:18px; margin-top:-10px;">
   « Celui qui tisse les fils du destin, et veille à ce que chaque partie reste magique. »
 </p>
 
@@ -35,7 +35,7 @@ image: /images/logogold.png
 
 <!-- Sommaire -->
 <h2 id="sommaire">Sommaire</h2>
-<ol style="color:#d4a76a;">
+<ol style="color:#5C2E1F;">
   <li><a href="#section-1">Faire fonctionner les choses en douceur</a></li>
   <li><a href="#section-2">Rendre le jeu amusant</a></li>
   <li><a href="#section-3">Le Script</a></li>
@@ -51,7 +51,7 @@ image: /images/logogold.png
 <h2 id="section-1">1. Faire fonctionner les choses en douceur</h2>
 
 <p>
-  En tant que <span style="color:#d4a76a; font-weight:bold;">Conteur</span>, votre rôle est de faire tourner la partie sans accroc, tout en gardant la fluidité et la magie du jeu.
+  En tant que <span style="color:#5C2E1F; font-weight:bold;">Conteur</span>, votre rôle est de faire tourner la partie sans accroc, tout en gardant la fluidité et la magie du jeu.
   Votre objectif n’est pas seulement de faire respecter les règles, mais aussi de vous assurer que chaque joueur et chaque joueuse vit une expérience mémorable, cohérente et amusante.
 </p>
 
