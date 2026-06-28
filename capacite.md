@@ -52,8 +52,8 @@ Les capacités sont perdues immédiatement si un joueur **meurt**, **devient ivr
 Leurs effets persistants cessent également.  
 
 Exemple :  
-- Si un [<span style="color:red;">**Empoisonneur**</span>](./tb_roles/empoisonneur.md) empoisonne la [**Pourfendeuse**](./tb_roles/mercenaire.md) pendant la nuit, mais meurt ensuite, la  [**Pourfendeuse**](./tb_roles/mercenaire.md) n’est plus empoisonnée**.  
-Même si la capacité dit *« jusqu’au crépuscule »*, elle s’arrête à la mort de son détenteur.
+- Si un [<span style="color:red;">**Empoisonneur**</span>](./tb_roles/empoisonneur.md) empoisonne la [**Pourfendeuse**](./tb_roles/mercenaire.md) pendant la nuit, mais meurt ensuite, la  [**Pourfendeuse**](./tb_roles/mercenaire.md) n’est plus empoisonnée.  
+Même si la capacité dit **« jusqu’au crépuscule »**, elle s’arrête à la mort de son détenteur.
 
 ---
 
