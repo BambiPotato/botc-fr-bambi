@@ -48,10 +48,11 @@ Les secrets doivent le rester.
 ##  <span style="color:#b58b52;">Perte de capacité</span>  
 
 <span style="color:#5C2E1F; font-size:18px; line-height:1.7;">
-Les capacités sont perdues immédiatement si un joueur **meurt**, **devient ivre**  ou **empoisonné**.  
-Leurs effets persistants cessent également.  
 
-Exemple :  
+- Les capacités sont perdues immédiatement si un joueur **meurt**, **devient ivre**  ou **empoisonné**.  
+- Leurs effets persistants cessent également.  
+
+**Exemple :**  
 - Si un [<span style="color:red;">**Empoisonneur**</span>](./tb_roles/empoisonneur.md) empoisonne la [**Pourfendeuse**](./tb_roles/mercenaire.md) pendant la nuit, mais meurt ensuite, la  [**Pourfendeuse**](./tb_roles/mercenaire.md) n’est plus empoisonnée.  
 Même si la capacité dit **« jusqu’au crépuscule »**, elle s’arrête à la mort de son détenteur.
 
@@ -73,13 +74,17 @@ Exemples :
 ##  <span style="color:#b58b52;">Capacités après la mort</span>  
 
 <span style="color:#5C2E1F; font-size:18px; line-height:1.7;">
-Certains rôles conservent tout ou partie de leur capacité **après leur mort**.  
-Si leur texte précise *« même mort »* ou que leur capacité se déclenche au moment de la mort, alors elle s’applique.  
+  
+- **Certains rôles conservent tout ou partie de leur capacité après leur mort.** 
+Si une capacité précise « même si vous êtes mort » ou se déclenche lorsqu’un rôle meurt, elle continue de fonctionner comme indiqué.
+En revanche, cette capacité est toujours perdue si le joueur est ivre ou empoisonné.
 
-Exemple :  
-La [**Corneille**](./tb_roles/gardien.md) meurt la nuit et utilise sa capacité :  
-> **« Si vous mourez la nuit, vous êtes réveillée pour choisir un joueur et apprendre son rôle. »**  
+<div class="botc-note">
+La [Corneille](./tb_roles/gardien.md) est tuée la nuit. Sa capacité dit :   
+**« Si vous mourez la nuit, vous êtes réveillée pour choisir un joueur et apprendre son rôle. »**  
 Même morte, sa capacité se déclenche au moment de sa mort.
+Cela se produit quand la Corneille meurt.
+</div> 
 
 ---
 
@@ -135,12 +140,13 @@ Certaines capacités s’activent à un moment différent de celui indiqué sur 
 Cette feuille sert uniquement de **guide** pour le Conteur.  
 La priorité revient toujours au **texte du rôle**.  
 
+<div class="botc-note">
 Exemple :  
 Le [<span style="color:red;">**Démon**</span>](./demons.md) tue le [**Sage**](./sv_roles/sage.md), mais le Conteur oublie de le réveiller.  
 Ensuite, la [**Dulcinée**](./sv_roles/dulcinee.md) agit.  
 Le Conteur se souvient qu’elle est morte plus tôt, et rend immédiatement un joueur ivre.  
 Puis il revient au [**Sage**](./sv_roles/sage.md) pour résoudre sa capacité.
-
+</div>
 
 ---
 
