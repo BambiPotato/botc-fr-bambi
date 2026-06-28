@@ -681,3 +681,51 @@ body.sidebar-on .botc-sidebar-logo img {
     display: block;
     margin: 0 auto !important;
 }
+/* =========================================================
+   MENU MOBILE BOTC
+   ========================================================= */
+
+.botc-menu-toggle {
+  display: none;
+}
+
+.botc-menu-button {
+  display: none;
+}
+
+@media (max-width: 800px) {
+  .botc-menu-button {
+    display: block;
+    position: fixed;
+    top: 12px;
+    left: 12px;
+    z-index: 10001;
+    padding: 8px 12px;
+    background: rgba(42,17,53,0.95);
+    color: #f4efe6;
+    border: 1px solid rgba(212,167,106,0.6);
+    border-radius: 6px;
+    font-size: 26px;
+    line-height: 1;
+    cursor: pointer;
+  }
+
+  body.sidebar-on .botc-sidebar {
+    display: block !important;
+    position: fixed !important;
+    left: -260px !important;
+    top: 0 !important;
+    width: 240px !important;
+    height: 100vh !important;
+    z-index: 10000 !important;
+    transition: left 0.25s ease;
+  }
+
+  .botc-menu-toggle:checked ~ .botc-sidebar {
+    left: 0 !important;
+  }
+
+  body.sidebar-on .page-content {
+    margin-left: 0 !important;
+  }
+}
