@@ -666,3 +666,8 @@ body.sidebar-on::after {
     margin-left: 0 !important;
   }
 }
+/* Ajustement logo sidebar */
+body.sidebar-on .botc-sidebar-logo img {
+  width: 170px !important;
+  max-width: 90% !important;
+}
