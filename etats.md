@@ -253,7 +253,7 @@ En cas de doute, l’entrée correspondante dans l’almanach du rôle fait réf
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong>Conseil pour les Conteurs et Conteuses :</strong> pour bien gérer l’ivresse et le poison, écoutez les bluffs des Maléfiques et soutenez-les autant que possible.  
-Par exemple, si un <a href="./tb_roles/gardien.html" style="color:#80aee0; text-decoration:none;">Gardien</a> 
+Par exemple, si une <a href="./tb_roles/gardien.html" style="color:#80aee0; text-decoration:none;">Pourfendeuse</a> 
 ivre choisit un <a href="./sbires.html" style="color:#d45b5b; text-decoration:none;">Sbire</a> qui bluffe un rôle du Bien, 
 vous pouvez montrer un jeton de rôle qui renforce ce mensonge.  
 Si la personne ivre choisit au contraire quelqu’un du Bien, il peut être intéressant de lui montrer un jeton de rôle maléfique.  
@@ -283,25 +283,19 @@ Les détails précis figurent sur le jeton ou sur la fiche du rôle concerné.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-
 <div class="botc-note">  
 <strong>La <a href="./sv_roles/mutant.html" style="color:#80aee0; text-decoration:none;">Bête de foire</a></strong>  
 Sa capacité indique : « Si vous vous montrez « fou » d’être un Marginal, vous pourriez être exécuté. »  
 La Bête de foire doit se comporter comme un <a href="./villageois.html" style="color:#80aee0; text-decoration:none;">Villageois</a> et ne doit pas revendiquer clairement qu’il est un <a href="./etrangers.html" style="color:#80aee0; text-decoration:none;">Marginal</a>.  
 S’il insiste trop sur ce point ou s’il essaie manifestement de convaincre le Village qu’il est un Marginal, le Conteur peut décider de l’exécuter.
-</div> 
-</p>
-
-<div class="botc-note">
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 La <a href="./sv_roles/mutant.html" style="color:#80aee0; text-decoration:none;">Bête de foire</a> 
-peut tenter des approches plus subtiles.  
+peut tenter des approches plus subtiles.<br>   
 Par exemple, Alex peut dire " Je ne vais pas vous dire qui je suis, mais je suis certainement pas une Bête de foire ", avec un sourire malicieux sur son visage,
-ou il peut même ne rien dire du tout pendant que d'autres joueurs l'accusent d'être la Bête de foire.
-Dans les deux cas, le conteur peut juger qu'Alex essaie de convaincre le groupe qu'il est la Bête de foire.
-Dans le premier cas, il dit une chose et en veut dire une autre. 
+ou il peut même ne rien dire du tout pendant que d'autres joueurs l'accusent d'être la Bête de foire.<br> 
+Dans les deux cas, le conteur peut juger qu'Alex essaie de convaincre le groupe qu'il est la Bête de foire.<br> 
+Dans le premier cas, il dit une chose et en veut dire une autre.<br>  
 Dans le deuxième cas, il ne dit rien du tout, mais espère que, à cause de cela, le groupe conclura qu'il est la Bête de foire.
-Dans les deux cas, le conteur pourrait l'exécuter.
+Dans les deux cas, le conteur pourrait l'exécuter.<br> 
 De même, même si le conteur ne repère pas Alex disant à qui que ce soit qu'il est un Marginal, mais qu'un joueur maléfique s'en rappelle le conteur en privé et dit : 
 "Alex m'a dit qu'il était la Bête de foire", alors c'est une preuve suffisante qu'il essaie de convaincre le groupe qu'il est la Bête de foire, afin que le conteur puisse l'exécute
 </p>
