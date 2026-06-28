@@ -21,7 +21,7 @@ Image: /images/Icon_stormcatcher.png
   </a>
 </div>
 
-#  <span style="color:#7fd1ae; font-weight:bold; font-size:18px;">Attrape-tempête</span>
+#  <span style="color:#7fd1ae; font-weight:bold; font-size:18px;">Chasseur d’orages</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « À l'aube, la longue ombre du temple s'étend jusqu'à la fontaine.<br>
@@ -72,7 +72,7 @@ Utilisez le <strong>Chasseur d'orages</strong> pour centrer la partie autour d�
 
 ##  <span style="color:#7fd1ae;">Comment Conter</span>
 
-<strong>Instructions au Conteur/strong> 
+<strong>Instructions au Conteur</strong> 
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Au début de la partie, annoncez que le <strong>Chasseur d’orages</strong> est en jeu, ajoutez son jeton au grimoire, puis déclarez le <span style="color:#4ea3ff; font-weight:bold;">rôle bon</span> favorisé.
