@@ -729,12 +729,12 @@ body.sidebar-on .botc-sidebar-logo img {
     margin-left: 0 !important;
   }
 }
-/* Ajustement largeur menu mobile */
+/* Ajustement final largeur menu mobile */
 @media (max-width: 800px) {
   body.sidebar-on .botc-sidebar {
-    width: 82vw !important;
-    max-width: 320px !important;
-    left: -90vw !important;
+    width: 240px !important;
+    max-width: 240px !important;
+    left: -260px !important;
   }
 
   .botc-menu-toggle:checked ~ .botc-sidebar {
