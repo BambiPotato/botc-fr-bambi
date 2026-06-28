@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Voleur
+title: Voleuse
+description: "Chaque nuit, choisissez un joueur (sauf vous-même) : son vote compte en négatif le lendemain."
+image: /images/Icon_thief.png
 ---
 
 <p align="left">
@@ -9,26 +11,46 @@ title: Voleur
   </a>
 </p>
 
-<!--  Voleur -->
+<!--  Voleuse -->
 
 <div style="text-align:center; margin: 20px 0;">
   <img src="../images/Icon_thief.png" alt="Voleur" width="360" style="border-radius:12px; margin-top:10px;">
   <br>
-  <span style="color:#9b59b6; font-weight:bold; font-size:28px;">Voleur</span>
+  <span style="color:#9b59b6; font-weight:bold; font-size:28px;">Voleuse</span>
 </div>
 
 ---
 
-##  Informations
+##  <span style="color:#f5f5f5;">Informations</span>
 
-- **Type :** <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>  
-- **Édition :** <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a>  
-- **Artiste :** <span style="color:#f5f5f5;">Aidan Roberts</span>
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>
+  </li>
+  <li>
+    <strong>Édition :</strong>
+    <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a>
+  </li>
+  <li><strong>Artiste :</strong> <em>Aidan Roberts</em></li>
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Thief"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#9b59b6; font-weight:bold; text-decoration:none;">
+      Thief
+    </a>
+  </li>
+</ul>
+
+---
+
 
 <p style="color:#f5f5f5; font-style:italic; font-size:17px; text-align:center;">
-« J’ai rien fait, j’vous jure ! J’étais même pas dans cette ruelle hier soir !  
-C’est pas moi qu’a volé la mallette du maire Bruno avec tous ces papiers officiels, non mais !  
-Et puis, c’était trop lourd à porter de toute façon… »
+« J'ai rin fait. J'tais même pas dans c’te ruelle hier soir !<br>
+S’pas moi qu’a volé la mallette du maire avec tous ces papiers.<br>
+En plus, c’était trop lourd. »
 </p>
 
 ---
@@ -50,29 +72,30 @@ Et puis, c’était trop lourd à porter de toute façon… »
 ##  Résumé
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-« Chaque nuit, choisissez un joueur ou une joueuse (autre que vous) : son vote comptera négativement le lendemain. »
+<strong> « Chaque nuit, choisissez un joueur (sauf vous-même) : son vote compte en négatif le lendemain. »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Voleur</strong> vole la valeur d’un vote, le rendant négatif.  
-Chaque fois que la personne choisie vote pendant la journée, son vote retire un point au lieu d’en ajouter un.
+<strong>LA VOLEUSE</strong> vole les votes d’un joueur, rendant ce vote négatif.<br>
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li>Le joueur ou la joueuse perd immédiatement son vote négatif si le Voleur meurt (même par exil).</li>
-  <li>Les exils ne sont jamais affectés par cette capacité.</li>
-  <li>Comme le Conteur compte les votes à voix haute, tout le monde saura vite qui a été choisi.</li>
+  <li>Lorsqu’un joueur choisi par la Voleuse vote, comptez un vote en moins au lieu de compter en vote en plus.<br>Cet effet se produit à chaque fois que ce joueur vote ce jour.</li>
+  <li>Le vote d’un tel joueur redevient positif dès que la Voleuse meurt, y compris lorsque la Voleuse est exilée,<br> car la Voleuse perd alors sa capacité.</li>
+  <li>Les exils ne sont pas affectés par les capacités.<br> Le joueur au vote négatif peut donc soutenir un exil sans être affecté par la capacité de la Voleuse.</li>
+  <li>Puisque le Conteur compte le nombre de votes à voix haute en suivant le cercle des joueurs,<br> tout le monde connaît le joueur choisi par la Voleuse.</li>
 </ul>
 
 ---
 
 ## Comment Conter
 
+<strong>Instructions au Conteur</strong>
+
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Chaque nuit, le Voleur se réveille et désigne un joueur ou une joueuse (autre que lui-même).  
-Le Conteur marque cette personne avec un rappel « VOTE NÉGATIF ».  
-Chaque fois que cette personne vote, le décompte baisse d’un point au lieu d’augmenter.  
-Si le Voleur meurt, cet effet cesse immédiatement.
+Chaque nuit, réveillez la Voleuse. Elle désigne n'importe quel joueur.<br>
+Marquez le joueur choisi du jeton <strong>VOTE NÉGATIF</strong> de la Voleuse.<br> La Voleuse se rendort.<br>
+Chaque fois que vous comptez le vote d'un joueur marqué <strong>VOTE NÉGATIF</strong>,<br> comptez-le comme un vote en moins plutôt qu'un vote en plus. (Comptez à voix haute, comme d'habitude.)
 </p>
 
 ---
@@ -80,33 +103,36 @@ Si le Voleur meurt, cet effet cesse immédiatement.
 ##  Exemples
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li>Le Voleur choisit Noémie.  
-  → Le lendemain, au premier vote, le Conteur compte « 1... 2... 3... 2... 3... 4... 5 ».  
-  → La personne nommée finit avec cinq votes, car celui de Noémie comptait négativement.</li>
+La Voleuse choisit Marianna. Le lendemain, lors du décompte du premier vote, le Conteur compte « 1... 2... 3... 2... 3... 4... 5. »
+Le joueur nommé a désormais cinq votes contre lui et l'étape de nomination continue.
 
-  <li>Le Voleur choisit Médhi.  
-  → Médhi vote pour exécuter un joueur, mais le total passe de 6 à 4 au lieu de 7.  
-  → Plus tard, il vote pour un exil : cette fois, son vote compte normalement.</li>
+La Voleuse choisit Abdallah. Abdallah vote pour une exécution.<br> Le décompte des votes est de quatre (au lieu de six si Abdallah n'avait pas été affecté par la Voleuse). Comme il y a dix joueurs en vie, le joueur nommé n'est pas exécuté aujourd'hui.<br> Plus tard dans la journée, les joueurs envisagent d'exiler le 
+<a href="./gunslinger.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Franc-tireur</a>. 
+Abdallah lève la main pour soutenir l'exil, ce qui compte comme un vote positif.
+
+La Voleuse choisit Marianna. Le  <a href="./bureaucrat.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Bureaucrate</a> choisit également Marianna. Le lendemain, le vote de Marianna compte pour trois votes négatifs.
 </ul>
+
 
 ---
 
-##  Conseils et Astuces pour les <span style="color:#4ea3ff;">Bons</span>
+
+##  Conseils et Astuces si vous êtes <span style="color:#4ea3ff;">Bon</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Servez-vous de votre pouvoir pour affaiblir les votes des joueurs ou des joueuses que vous pensez <span style="color:#d45b5b;">Maléfiques</span>.</li>
-  <li>Choisissez discrètement une personne suspecte sans lui dire : elle croira aider sa cause, alors qu’elle la dessert !</li>
-  <li>Ou bien, sélectionnez un joueur de confiance et prévenez-le : il pourra ainsi voter pour faire échouer un mauvais lynchage.</li>
+  <li>Choisissez discrètement un joueur suspect sans lui dire : il croira aider sa cause, alors qu’il la dessert !</li>
+  <li>Ou bien, sélectionnez un joueur de confiance et prévenez-le : il pourra ainsi voter pour faire échouer une mauvais exécution.</li>
   <li>Changez régulièrement votre cible pour semer le doute et empêcher les <span style="color:#d45b5b;">Sbires</span> d’utiliser votre pouvoir contre le Bien.</li>
-  <li>Observez les réactions : un joueur satisfait après un vote négatif trahit souvent une nature maléfique.</li>
-  <li>Vous pouvez aussi cibler des joueurs ou des joueuses morts : leur unique vote peut devenir une arme redoutable le dernier jour.</li>
-  <li>Si un <a href="./bureaucrat.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Bureaucrate</a> est en jeu, coordonnez-vous : choisir la même cible donne un vote **–3** !  
+  <li>Observez les réactions : un joueur satisfait après un vote négatif trahit souvent un joueur maléfique.</li>
+  <li>Vous pouvez aussi cibler des joueurs morts : leur unique vote peut devenir une arme redoutable le dernier jour.</li>
+  <li>Si un <a href="./bureaucrat.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Bureaucrate</a> est en jeu, coordonnez-vous :<br> choisir la même cible donne un vote négatif à **–3** !  
   Une combinaison destructrice contre les forces du Mal.</li>
 </ul>
 
 ---
 
-##  Conseils et Astuces pour les <span style="color:#d45b5b;">Maléfiques</span>
+##  Conseils et Astuces si vous êtes <span style="color:#d45b5b;">Maléfique</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Visez des joueurs du camp du Bien qui commencent à comprendre la partie, sans leur dire qu’ils votent négativement.</li>
