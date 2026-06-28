@@ -21,7 +21,7 @@ Voici la configuration officielle :
   width: 100%;
   border-collapse: collapse;
   margin-top: 20px;
-  color: #f5f5f5; /* texte clair neutre */
+  color: #5C2E1F; /* brun chaud, proche de l’original */
   font-size: 18px;
   text-align: center;
   background: transparent; /* pas de fond coloré */
@@ -35,6 +35,12 @@ Voici la configuration officielle :
 .repartition-table th {
   font-weight: bold;
   font-size: 19px;
+  color: #5C2E1F; /* brun chaud pour la première case aussi */
+}
+
+.repartition-table td {
+  color: #5C2E1F; /* chiffres lisibles */
+  font-weight: 600;
 }
 
 .repartition-table img {
