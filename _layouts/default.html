@@ -31,8 +31,11 @@
 <body class="{% if page.url != '/' %}sidebar-on{% endif %}">
 
   {% if page.url != '/' %}
-    {% include sidebar.html %}
-  {% endif %}
+  <input type="checkbox" id="botc-menu-toggle" class="botc-menu-toggle">
+  <label for="botc-menu-toggle" class="botc-menu-button">☰</label>
+
+  {% include sidebar.html %}
+{% endif %}
 
   <main class="page-content" aria-label="Content">
     <div class="wrapper">
