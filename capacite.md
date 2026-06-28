@@ -13,8 +13,8 @@ image: /images/logogold.png
 
 #  <span style="color:#b58b52; font-weight:bold; font-size:36px;">Capacités</span>  
 
-<span style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Chaque rôle de *Blood on the Clocktower* possède une **capacité unique**, décrite sur son jeton de rôle, sa fiche et dans son almanach.  
+<span style="color:#5C2E1F; font-size:18px; line-height:1.7;">
+Chaque rôle de **Blood on the Clocktower** possède une **capacité unique**, décrite sur son jeton de rôle, sa fiche et dans l'almanach.  
 Le jeton de rôle et sa fiche fournissent une version simplifiée, mais en cas de conflit ou d’interaction complexe, il faut se référer au texte de l’almanach.
 
 
@@ -22,23 +22,23 @@ Le jeton de rôle et sa fiche fournissent une version simplifiée, mais en cas d
 
 ##  <span style="color:#b58b52;">Fonctionnement général</span>  
 
-<span style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<span style="color:#5C2E1F; font-size:18px; line-height:1.7;">
 Lorsqu’une capacité est utilisée, **elle s’applique immédiatement**.  
 
 Exemples :  
 - Si le [<span style="color:red;">**Démon**</span>](./demons.md) attaque la [**Voyante**](./tb_roles/voyante.md), celle-ci meurt aussitôt et **ne se réveillera pas** pour utiliser sa capacité plus tard.  
-- Si le [**Moine**](./tb_roles/moine.md) protège l’[**Empathe**](./tb_roles/empathique.md), et que le Démon attaque l’Empathique juste après, **celle-ci survit**.
+- Si le [**Moine**](./tb_roles/moine.md) protège l’[**Empathe**](./tb_roles/empathique.md), et que le Démon attaque l’[**Empathe**](./tb_roles/empathique.md) juste après, **l’[ Empathe](./tb_roles/empathique.md) survit**.
 
 ---
 
 ##  <span style="color:#b58b52;">Ce que les joueurs apprennent (ou pas)</span>  
 
-<span style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<span style="color:#5C2E1F; font-size:18px; line-height:1.7;">
 Chaque joueur ne connaît que **les informations prévues par sa propre capacité**.  
 Les secrets doivent le rester.  
 
-- Si l’[<span style="color:red;">**Diablotin**</span>](./tb_roles/imp.md) meurt et que la [<span style="color:red;">**Femme Écarlate**</span>](./tb_roles/femmeecarlate.md) devient le nouveau Diablotin, **les autres joueurs n’en savent rien**.  
-- Si la [**Pourfendeuse**](./tb_roles/mercenaire.md) utilise sa capacité sans effet, **personne ne sait** qu’il est la Pourfendeuse.  
+- Si le [<span style="color:red;">**Diablotin**</span>](./tb_roles/imp.md) meurt et que la [<span style="color:red;">**Femme Écarlate**</span>](./tb_roles/femmeecarlate.md) devient le nouveau [<span style="color:red;">**Diablotin**</span>](./tb_roles/imp.md), **les autres joueurs n’en savent rien**.  
+- Si la [**Pourfendeuse**](./tb_roles/mercenaire.md) utilise sa capacité sans effet, **personne ne sait** qu’il est la [**Pourfendeuse**](./tb_roles/mercenaire.md).  
 - Si le [**Moine**](./tb_roles/moine.md) protège la [**Lavandière**](./tb_roles/lavandiere.md), cette dernière **ne le découvre pas**.  
 - À la fin de la nuit, **les joueurs ne savent pas** quelle capacité a tué qui — uniquement **qui est mort**.
 
@@ -52,7 +52,7 @@ Les capacités sont perdues immédiatement si un joueur **meurt**, **devient ivr
 Leurs effets persistants cessent également.  
 
 Exemple :  
-- Si un [<span style="color:red;">**Empoisonneur**</span>](./tb_roles/empoisonneur.md) empoisonne la [**Pourfendeuse**](./tb_roles/mercenaire.md) pendant la nuit, mais meurt ensuite, le Mercenaire **n’est plus empoisonné**.  
+- Si un [<span style="color:red;">**Empoisonneur**</span>](./tb_roles/empoisonneur.md) empoisonne la [**Pourfendeuse**](./tb_roles/mercenaire.md) pendant la nuit, mais meurt ensuite, la  [**Pourfendeuse**](./tb_roles/mercenaire.md) n’est plus empoisonnée**.  
 Même si la capacité dit *« jusqu’au crépuscule »*, elle s’arrête à la mort de son détenteur.
 
 ---
@@ -77,9 +77,9 @@ Certains rôles conservent tout ou partie de leur capacité **après leur mort**
 Si leur texte précise *« même mort »* ou que leur capacité se déclenche au moment de la mort, alors elle s’applique.  
 
 Exemple :  
-Le [**Corneille**](./tb_roles/gardien.md) meurt la nuit et utilise sa capacité :  
-> *« Si vous mourez la nuit, vous vous réveillez pour choisir un joueur et apprendre son rôle. »*  
-Même mort, sa capacité se déclenche au moment de son décès.
+La [**Corneille**](./tb_roles/gardien.md) meurt la nuit et utilise sa capacité :  
+> **« Si vous mourez la nuit, vous êtes réveillée pour choisir un joueur et apprendre son rôle. »**  
+Même morte, sa capacité se déclenche au moment de sa mort.
 
 ---
 
@@ -95,7 +95,7 @@ Si une capacité ne mentionne pas *« choisissez »*, c’est le **Conteur** qui
 
 ##  <span style="color:#b58b52;">Erreurs des joueurs</span>  
 
-<span style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<span style="color:#b58b52; font-size:18px; line-height:1.7;">
 Si un joueur tente d’utiliser sa capacité de manière illégale, **corrigez-le discrètement** :  
 - Le [Moine](./tb_roles/moine.md) ne peut pas se choisir lui-même → secouez la tête et invitez-le à choisir quelqu’un d’autre.  
 - La [Femme de Chambre](./bmr_roles/femmedechambre.md) ne peut choisir que des vivants → même geste, puis nouveau choix.
@@ -105,11 +105,11 @@ Si un joueur tente d’utiliser sa capacité de manière illégale, **corrigez-l
 
 ## <span style="color:#b58b52;">Changement de rôle</span>  
 
-<span style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<span style="color:#b58b52; font-size:18px; line-height:1.7;">
 Lorsqu’un joueur devient un **nouveau rôle**, il gagne immédiatement la nouvelle capacité et perd l’ancienne, ainsi que ses effets.  
 
-Si la nouvelle capacité est *« une fois par partie »* et a déjà été utilisée, il peut la réutiliser.  
-Si elle s’active uniquement la première nuit, elle s’applique **cette nuit-là**.
+Si la nouvelle capacité est **« une fois par partie »** et a déjà été utilisée, il peut la réutiliser.  
+Si elle s’active uniquement lors de la première nuit, elle s’applique **cette nuit-là**.
 
 > Les joueurs ressuscités ou transformés obtiennent ainsi leur nouvelle capacité immédiatement.
 
@@ -121,7 +121,7 @@ il **ne découvre pas** qui sont les autres joueurs maléfiques — cette inform
 
 ##  <span style="color:#b58b52;">Texte entre crochets [ ]</span>  
 
-<span style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<span style="color:#b58b52; font-size:18px; line-height:1.7;">
 Si une capacité contient du texte entre crochets `[comme ceci]`, cette partie **n’a aucun effet** lorsqu’un joueur devient ce rôle en cours de partie.  
 Les crochets indiquent des **règles de mise en place** du jeu, qui ne changent pas en cours de partie.
 
@@ -130,7 +130,7 @@ Les crochets indiquent des **règles de mise en place** du jeu, qui ne changent 
 
 ##  <span style="color:#b58b52;">Moment d’activation</span>  
 
-<span style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<span style="color:#b58b52; font-size:18px; line-height:1.7;">
 Certaines capacités s’activent à un moment différent de celui indiqué sur la **feuille de nuit**.  
 Cette feuille sert uniquement de **guide** pour le Conteur.  
 La priorité revient toujours au **texte du rôle**.  
