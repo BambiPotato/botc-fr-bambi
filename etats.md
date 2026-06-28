@@ -282,8 +282,8 @@ Lorsqu’un joueur est invité à être fou à propos de quelque chose mais ne j
 Les détails précis figurent sur le jeton ou sur la fiche du rôle concerné.
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<div class="botc-note">  
+<div class="botc-note"> 
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;"> 
 <strong>La <a href="./sv_roles/mutant.html" style="color:#80aee0; text-decoration:none;">Bête de foire</a></strong>  
 Sa capacité indique : « Si vous vous montrez « fou » d’être un Marginal, vous pourriez être exécuté. »  
 La Bête de foire doit se comporter comme un <a href="./villageois.html" style="color:#80aee0; text-decoration:none;">Villageois</a> et ne doit pas revendiquer clairement qu’il est un <a href="./etrangers.html" style="color:#80aee0; text-decoration:none;">Marginal</a>.  
