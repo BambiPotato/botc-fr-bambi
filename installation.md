@@ -110,13 +110,13 @@ et de <a href="./demons.html" style="color:#d45b5b; font-weight:bold; text-decor
 en suivant la fiche des rôles pour la mise en place. Faites tout cela <strong>en secret</strong>.
 </p>
 
-<blockquote style="color:#f5f5f5; font-size:18px; line-height:1.7; border-left:3px solid #d4a76a; padding-left:12px;">
+<div class="botc-note">
 Si vous avez plus de 15 joueurs, tous les joueurs supplémentaires doivent se porter volontaires pour être des
 <a href="./voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a>.<br>
 Pour une première partie, évitez les
 <a href="./voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a>
 et les <a href="./legendaire.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Légendaires</a>.
-</blockquote>
+</div>
 
 <h2 id="choix_roles" style="color:#5C2E1F; font-weight:bold;">Choix des rôles</h2>
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
