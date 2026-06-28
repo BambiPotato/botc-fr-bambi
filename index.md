@@ -23,7 +23,7 @@ home_sidebar: true
   </h1>
 
   <p style="font-size:20px; color:#e0c99d; font-style:italic; margin-top:15px;">
-    « Wiki français communautaire dédié à Blood on the Clocktower, pour les joueurs et joueuses francophones. »
+    « Wiki communautaire dédié à Blood on the Clocktower, pour les joueurs et joueuses francophones. »
   </p>
 
 </div>
