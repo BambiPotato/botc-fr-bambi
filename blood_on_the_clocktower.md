@@ -198,6 +198,7 @@ Le <a href="./conteur.html" style="color:#d4a76a; font-weight:bold; text-decorat
    <span style="color:#b58b52;">Le créateur et le studio</span>
 </h2>
 
+<div class="botc-note">
 <p style="color:#f5f5f5; font-size:18px; line-height:1.8; text-align:justify;">
 
   <strong>Steven Medway</strong> est l’auteur de <em>Blood on the Clocktower</em>.  
@@ -209,6 +210,7 @@ Le <a href="./conteur.html" style="color:#d4a76a; font-weight:bold; text-decorat
   le jeu. Basé en Australie, il s’occupe de la production des coffrets, de l’identité visuelle, 
   des règles officielles et de l’animation de la communauté mondiale.
 </p>
+</div> 
 
 <hr class="section">
 
