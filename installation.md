@@ -16,7 +16,7 @@ image: /images/logogold.png
 <h1 style="color:#5C2E1F; font-weight:bold; font-size:36px;"> Installation et mise en place</h1>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.8;">
-Cette page vous guide pas à pas dans la préparation d’une partie de <strong>Blood on the Clocktower</strong> en suivant la <<strong>FICHE DE MISE EN PLACE</strong>  du jeu.<br> Elle s’adresse aussi bien aux <strong>Conteurs et Conteuses</strong>  qu’aux joueurs et joueuses.
+Cette page vous guide pas à pas dans la préparation d’une partie de <strong>Blood on the Clocktower</strong> en suivant la <strong>FICHE DE MISE EN PLACE</strong> du jeu.<br> Elle s’adresse aussi bien aux <strong>Conteurs et Conteuses</strong> qu’aux joueurs et joueuses.
 </p>
 
 <hr>
