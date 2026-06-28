@@ -47,7 +47,7 @@ Les secrets doivent le rester.
 
 ##  <span style="color:#b58b52;">Perte de capacité</span>  
 
-<span style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<span style="color:#5C2E1F; font-size:18px; line-height:1.7;">
 Les capacités sont perdues immédiatement si un joueur **meurt**, **devient ivre**  ou **empoisonné**.  
 Leurs effets persistants cessent également.  
 
@@ -59,7 +59,7 @@ Même si la capacité dit *« jusqu’au crépuscule »*, elle s’arrête à la
 
 ##  <span style="color:#b58b52;">Ivresse & Poison</span>  
 
-<span style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<span style="color:#5C2E1F; font-size:18px; line-height:1.7;">
 Lorsqu’un joueur devient ivre ou empoisonné, on peut **retirer** ses jetons de rappel, ou simplement les **retourner** pour indiquer que sa capacité ne fonctionne plus.  
 
 Un joueur ivre ou empoisonné est traité comme **mort**, sans capacité active.  
@@ -72,7 +72,7 @@ Exemples :
 
 ##  <span style="color:#b58b52;">Capacités après la mort</span>  
 
-<span style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<span style="color:#5C2E1F; font-size:18px; line-height:1.7;">
 Certains rôles conservent tout ou partie de leur capacité **après leur mort**.  
 Si leur texte précise *« même mort »* ou que leur capacité se déclenche au moment de la mort, alors elle s’applique.  
 
@@ -85,7 +85,7 @@ Même morte, sa capacité se déclenche au moment de sa mort.
 
 ##  <span style="color:#b58b52;">Choix et décisions</span>  
 
-<span style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<span style="color:#5C2E1F; font-size:18px; line-height:1.7;">
 Si une capacité ne mentionne pas *« choisissez »*, c’est le **Conteur** qui décide.  
 - *« Un joueur est empoisonné chaque nuit »* → le Conteur choisit.  
 - *« Chaque nuit, choisissez un joueur : il est empoisonné »* → le joueur choisit lui-même.
@@ -95,7 +95,7 @@ Si une capacité ne mentionne pas *« choisissez »*, c’est le **Conteur** qui
 
 ##  <span style="color:#b58b52;">Erreurs des joueurs</span>  
 
-<span style="color:#b58b52; font-size:18px; line-height:1.7;">
+<span style="color:#5C2E1F; font-size:18px; line-height:1.7;">
 Si un joueur tente d’utiliser sa capacité de manière illégale, **corrigez-le discrètement** :  
 - Le [Moine](./tb_roles/moine.md) ne peut pas se choisir lui-même → secouez la tête et invitez-le à choisir quelqu’un d’autre.  
 - La [Femme de Chambre](./bmr_roles/femmedechambre.md) ne peut choisir que des vivants → même geste, puis nouveau choix.
@@ -105,7 +105,7 @@ Si un joueur tente d’utiliser sa capacité de manière illégale, **corrigez-l
 
 ## <span style="color:#b58b52;">Changement de rôle</span>  
 
-<span style="color:#b58b52; font-size:18px; line-height:1.7;">
+<span style="color:#5C2E1F; font-size:18px; line-height:1.7;">
 Lorsqu’un joueur devient un **nouveau rôle**, il gagne immédiatement la nouvelle capacité et perd l’ancienne, ainsi que ses effets.  
 
 Si la nouvelle capacité est **« une fois par partie »** et a déjà été utilisée, il peut la réutiliser.  
@@ -121,7 +121,7 @@ il **ne découvre pas** qui sont les autres joueurs maléfiques — cette inform
 
 ##  <span style="color:#b58b52;">Texte entre crochets [ ]</span>  
 
-<span style="color:#b58b52; font-size:18px; line-height:1.7;">
+<span style="color:#5C2E1F; font-size:18px; line-height:1.7;">
 Si une capacité contient du texte entre crochets `[comme ceci]`, cette partie **n’a aucun effet** lorsqu’un joueur devient ce rôle en cours de partie.  
 Les crochets indiquent des **règles de mise en place** du jeu, qui ne changent pas en cours de partie.
 
@@ -130,7 +130,7 @@ Les crochets indiquent des **règles de mise en place** du jeu, qui ne changent 
 
 ##  <span style="color:#b58b52;">Moment d’activation</span>  
 
-<span style="color:#b58b52; font-size:18px; line-height:1.7;">
+<span style="color:#5C2E1F; font-size:18px; line-height:1.7;">
 Certaines capacités s’activent à un moment différent de celui indiqué sur la **feuille de nuit**.  
 Cette feuille sert uniquement de **guide** pour le Conteur.  
 La priorité revient toujours au **texte du rôle**.  
