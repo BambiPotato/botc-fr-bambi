@@ -100,3 +100,4 @@ Voici la configuration officielle :
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-top:10px;">
  <a href="./index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a>
 </p>
+
