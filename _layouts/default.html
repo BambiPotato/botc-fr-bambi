@@ -13,7 +13,6 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   <link rel="icon" href="{{ '/images/favicon.png?v=3' | relative_url }}">
 
-  <!-- Open Graph -->
   <meta property="og:type" content="website">
   <meta property="og:title" content="{{ meta_title | escape }}">
   <meta property="og:description" content="{{ meta_description | escape }}">
@@ -21,14 +20,13 @@
   <meta property="og:url" content="{{ page.url | absolute_url }}">
   <meta property="og:site_name" content="Wiki Francophone de Blood on the Clocktower">
 
-  <!-- Twitter / X -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{{ meta_title | escape }}">
   <meta name="twitter:description" content="{{ meta_description | escape }}">
   <meta name="twitter:image" content="{{ meta_image | absolute_url }}">
 </head>
 
-<body class="{% if page.url != '/' or page.home_sidebar == true %}sidebar-on{% endif %}">
+<body class="{% if page.url != '/' or page.home_sidebar == true %}sidebar-on{% endif %}{% if page.home_sidebar == true %} home-page{% endif %}">
 
   {% if page.url != '/' or page.home_sidebar == true %}
     <input type="checkbox" id="botc-menu-toggle" class="botc-menu-toggle">
