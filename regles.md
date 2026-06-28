@@ -36,7 +36,7 @@ Sur la place du village, vous découvrez que votre Conteur bien-aimé a été as
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Vous comprenez aussitôt qu’il s’agit de l’œuvre d’un <strong><span style="color:#d45b5b;">Démon</span></strong> qui tue la nuit et prend forme humaine le jour.
+Vous comprenez aussitôt qu’il s’agit de l’œuvre d’un <strong><a href="demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a></strong> qui tue la nuit et prend forme humaine le jour.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -44,14 +44,14 @@ Vous allez recevoir un jeton <strong style="color:#80aee0;">bleu</strong> ou <st
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>🔵 <strong style="color:#80aee0;">Bleu</strong> = vous êtes <strong><span style="color:#80aee0;">Bon</span></strong>.</li>
-  <li>🔴 <strong style="color:#d45b5b;">Rouge</strong> = vous êtes <strong><span style="color:#d45b5b;">Maléfique</span></strong>.</li>
+  <li>🔵 <strong style="color:#80aee0;">Bleu</strong> = vous êtes <strong><a href="glossaire.html" style="color:#80aee0; font-weight:bold; text-decoration:none;">Bon</a></strong>.</li>
+  <li>🔴 <strong style="color:#d45b5b;">Rouge</strong> = vous êtes <strong><a href="glossaire.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Maléfique</a></strong>.</li>
 </ul>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-bottom:6px;"><strong> Objectifs :</strong></p>
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Si vous êtes <strong><span style="color:#80aee0;">Bon</span></strong> : trouvez et exécutez le <strong><span style="color:#d45b5b;">Démon</span></strong> → le <strong><span style="color:#80aee0;">Bien</span></strong> gagne.</li>
-  <li>Si vous êtes <strong><span style="color:#d45b5b;">Maléfique</span></strong> : détruisez le village. S’il ne reste que <strong>2 joueurs vivants</strong>, le <strong><span style="color:#d45b5b;">Mal</span></strong> gagne.</li>
+  <li>Si vous êtes <strong><a href="glossaire.html" style="color:#80aee0; font-weight:bold; text-decoration:none;">Bon</a></strong> : trouvez et exécutez le <strong><a href="demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a></strong> → le <strong><a href="glossaire.html" style="color:#80aee0; font-weight:bold; text-decoration:none;">Bien</a></strong> gagne.</li>
+  <li>Si vous êtes <strong><a href="glossaire.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Maléfique</a></strong> : détruisez le village. S’il ne reste que <strong>2 joueurs vivants</strong>, le <strong><a href="glossaire.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mal</a></strong> gagne.</li>
 </ul>
 
 <hr>
@@ -60,8 +60,8 @@ Vous allez recevoir un jeton <strong style="color:#80aee0;">bleu</strong> ou <st
 
 <h3 style="color:#d4a76a; font-weight:bold; font-size:22px; margin-bottom:8px;"> Jour</h3>
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Discutez, enquêtez, accusez. La plupart des joueurs et des joueuses du <strong><span style="color:#80aee0;">Bien</span></strong> partagent leurs informations pour démasquer le <strong><span style="color:#d45b5b;">Démon</span></strong>.  
-Attention : certaines personnes mentent… et si vous êtes <strong><span style="color:#d45b5b;">Maléfique</span></strong>, vous devrez mentir.
+Discutez, enquêtez, accusez. La plupart des joueurs et des joueuses du <strong><a href="glossaire.html" style="color:#80aee0; font-weight:bold; text-decoration:none;">Bien</a></strong> partagent leurs informations pour démasquer le <strong><a href="demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a></strong>.  
+Attention : certaines personnes mentent… et si vous êtes <strong><a href="glossaire.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Maléfique</a></strong>, vous devrez mentir.
 </p>
 
 <h3 style="color:#d4a76a; font-weight:bold; font-size:22px; margin-bottom:8px;"> Nuit</h3>
@@ -74,7 +74,7 @@ Tout le monde ferme les yeux. Le Conteur réveille certaines personnes pour qu�
   <li>✌️ Deux tapotements sur l’épaule ou le genou = <strong>Ouvrez les yeux</strong></li>
   <li>✊ Poing fermé = <strong>Fermez les yeux</strong></li>
   <li>👍 ou 👎 = <strong>Oui</strong> / <strong>Non</strong></li>
-  <li>👍 ou 👎 = <strong><span style="color:#80aee0;">Bon</span></strong> / <strong><span style="color:#d45b5b;">Maléfique</span></strong></li>
+  <li>👍 ou 👎 = <strong><a href="glossaire.html" style="color:#80aee0; font-weight:bold; text-decoration:none;">Bon</a></strong> / <strong><a href="glossaire.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Maléfique</a></strong></li>
   <li>✋ Doigts levés = <strong>0, 1, 2, 3…</strong></li>
   <li>👉 Doigt pointé = <strong>Choisir une personne</strong></li>
 </ul>
@@ -106,14 +106,16 @@ Tout le monde ferme les yeux. Le Conteur réveille certaines personnes pour qu�
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Le Conteur peut donner de <strong>fausses informations</strong>.  
-Si vous êtes <strong>ivre</strong> (par exemple Ivrogne) ou <strong>empoisonné</strong>, votre capacité ne fonctionne pas mais le Conteur ou la Conteuse fait comme si elle fonctionnait.
+Si vous êtes <strong>ivre</strong> (par exemple <a href="tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>) ou <strong>empoisonné</strong>, votre capacité ne fonctionne pas mais le Conteur ou la Conteuse fait comme si elle fonctionnait.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-bottom:6px;"><strong> Exemple :</strong></p>
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>L’<strong>Ivrogne</strong> pense être un <strong><span style="color:#80aee0;">Villageois</span></strong>, mais son rôle est inactif.</li>
+  <li>L’<strong><a href="tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a></strong> pense être un <strong><a href="villageois.html" style="color:#80aee0; font-weight:bold; text-decoration:none;">Villageois</a></strong>, mais son rôle est inactif.</li>
   <li>Une personne <strong>empoisonnée</strong> agit normalement, mais ses résultats sont <strong>faux</strong>.</li>
 </ul>
+
+<hr>
 
 <hr>
 
