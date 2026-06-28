@@ -100,7 +100,7 @@ image: /images/Icon_pacifist.png
 
 ##  <span style="color:blue">Comment Conter</span>  
 
-**Instruction au Conteur**
+**Instructions au Conteur**
 
 - Si un rôle bon est exécuté, annoncez s’il meurt ou s’il reste en vie. (Ne dites pas pourquoi.)<br>  Ensuite, commencez la phase de nuit. (Il n’y a qu’une seule exécution par jour, que le joueur ait survécu ou non.) 
 
