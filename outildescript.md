@@ -13,13 +13,13 @@ image: /images/logogold.png
 
 <!--  Outil de Script -->
 
-<h1 style="color:#b58b52; font-weight:bold; font-size:36px;"> Outil de Script</h1>
+<h1 style="color:#5C2E1F; font-weight:bold; font-size:36px;"> Outil de Script</h1>
 
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
+<p style="text-align:center; color:#5C2E1F; font-style:italic; font-size:18px; margin-top:-10px;">
   Chaque conteur est aussi un créateur. Composez votre propre histoire, un rôle à la fois.
 </p>
 
-<p style="color:#e0c99d; font-size:18px; line-height:1.8;">
+<p style="color:#5C2E1F; font-size:18px; line-height:1.8;">
 Une fois que vous maîtrisez les rôles des trois éditions principales, 
 vous pouvez créer vos propres listes de rôles uniques&nbsp;: les <strong>scripts personnalisés</strong>. 
 C’est la meilleure façon de renouveler vos parties de <em>Blood on the Clocktower</em>.
@@ -27,42 +27,45 @@ C’est la meilleure façon de renouveler vos parties de <em>Blood on the Clockt
 
 <hr>
 
-<h2 style="color:#d4a76a; font-weight:bold;"> Sommaire</h2>
+<h2 style="color:#5C2E1F; font-weight:bold;"> Sommaire</h2>
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li><a href="#pourquoi" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Pourquoi créer un script&nbsp;?</a></li>
-  <li><a href="#outil-officiel" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Utiliser l’outil officiel</a></li>
-  <li><a href="#ameliorer" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Améliorer vos créations</a></li>
-  <li><a href="#voyageurs-legendaire" style="color:#d4a76a; font-weight:bold; text-decoration:none;">4 Ajouter les Voyageurs et les Légendaires</a></li>
-  <li><a href="#situations" style="color:#d4a76a; font-weight:bold; text-decoration:none;">5 Gérer les situations inhabituelles</a></li>
-  <li><a href="#exemple" style="color:#d4a76a; font-weight:bold; text-decoration:none;"> Exemple de script personnalisé</a></li>
+  <li><a href="#pourquoi" style="color:#5C2E1F; font-weight:bold; text-decoration:none;">Pourquoi créer un script&nbsp;?</a></li>
+  <li><a href="#outil-officiel" style="color:#5C2E1F; font-weight:bold; text-decoration:none;">Utiliser l’outil officiel</a></li>
+  <li><a href="#ameliorer" style="color:#5C2E1F; font-weight:bold; text-decoration:none;">Améliorer vos créations</a></li>
+  <li><a href="#voyageurs-legendaire" style="color:#5C2E1F; font-weight:bold; text-decoration:none;">4 Ajouter les Voyageurs et les Légendaires</a></li>
+  <li><a href="#situations" style="color:#5C2E1F; font-weight:bold; text-decoration:none;">5 Gérer les situations inhabituelles</a></li>
+  <li><a href="#exemple" style="color:#5C2E1F; font-weight:bold; text-decoration:none;"> Exemple de script personnalisé</a></li>
 </ul>
 
 <hr>
 
-<h2 id="pourquoi" style="color:#d4a76a; font-weight:bold;">. Pourquoi créer un script&nbsp;?</h2>
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<h2 id="pourquoi" style="color:#5C2E1F; font-weight:bold;">. Pourquoi créer un script&nbsp;?</h2>
+<p style="color:#5C2E1F; font-size:18px; line-height:1.7;">
 Vous avez des rôles favoris que vous voulez inclure souvent&nbsp;? 
-Vous imaginez des combinaisons qui créent des interactions originales et stratégiques&nbsp;? 
-L’<strong>outil de script</strong> donne vie à ces idées.
+Vous imaginez des combinaisons qui créent des interactions originales et stratégiques&nbsp;?
+
+<p
+<a href="https://script.bloodontheclocktower.com" style="color:#d4a76a; font-weight:bold; text-decoration:none;">.L'outil de script</a>
+donne vie à ces idées.
 </p>
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<p style="color:#5C2E1F; font-size:18px; line-height:1.7;">
 Par exemple, imaginez une partie avec la 
-<a href="./sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a>, 
+<a href="./sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude/a>, 
 le <a href="./tb_roles/saint.html" style="color:#80aee0; font-weight:bold; text-decoration:none;">Saint</a>, 
-le <a href="./sv_roles/jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumeau maléfique</a> 
+la <a href="./sv_roles/jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumelle maléfique</a> 
 et l’<a href="./bmr_roles/aubergiste.html" style="color:#80aee0; font-weight:bold; text-decoration:none;">Aubergiste</a>. 
-Ou un scénario où l’<a href="./tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espion</a> 
+Ou un script où l’<a href="./tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a> 
 croise le <a href="./sv_roles/maladroit.html" style="color:#80aee0; font-weight:bold; text-decoration:none;">Maladroit</a>.
 </p>
 
 <hr>
 
-<h2 id="outil-officiel" style="color:#d4a76a; font-weight:bold;">. Utiliser l’outil officiel</h2>
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<h2 id="outil-officiel" style="color:#5C2E1F; font-weight:bold;">. Utiliser l’outil officiel</h2>
+<p style="color:#5C2E1F; font-size:18px; line-height:1.7;">
 L’outil officiel permet de créer un script à partir de n’importe quelle combinaison de rôles. 
-Il génère automatiquement la <strong>feuille de nuit</strong> correspondante, ce qui facilite la tâche du conteur ou de la conteuse.
+Il génère automatiquement la <strong>feuille de nuit</strong> correspondante, ce qui facilite la tâche des Conteurs.
 </p>
-<p style="color:#f5f5f5; font-size:18px;">
+<p style="color:#5C2E1F; font-size:18px;">
  <a href="https://script.bloodontheclocktower.com" style="color:#d4a76a; font-weight:bold; text-decoration:none;">. Accéder à l’outil officiel de création de scripts</a>
 </p>
 
@@ -119,19 +122,19 @@ Objectif&nbsp;: créer une partie dynamique avec forts retournements et informat
   <p style="color:#f5f5f5; font-size:18px; line-height:1.7;"><strong>Coquille de base</strong></p>
   <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:24px;">
     <li>
-      Villageois et villageoises&nbsp;: 
-      <a href="./tb_roles/croquemort.html" style="color:#80aee0; font-weight:bold; text-decoration:none;">Croque-Mort</a>, 
+      Villageois&nbsp;: 
+      <a href="./tb_roles/croquemort.html" style="color:#80aee0; font-weight:bold; text-decoration:none;">Fossoyeur</a>, 
       <a href="./sv_roles/savant.html" style="color:#80aee0; font-weight:bold; text-decoration:none;">Savant</a>, 
       <a href="./sv_roles/fleuriste.html" style="color:#80aee0; font-weight:bold; text-decoration:none;">Fleuriste</a>
     </li>
     <li>
-      Étrangers et étrangères&nbsp;: 
+      Marginauxs&nbsp;: 
       <a href="./sv_roles/maladroit.html" style="color:#80aee0; font-weight:bold; text-decoration:none;">Maladroit</a>, 
       <a href="./tb_roles/ivrogne.html" style="color:#80aee0; font-weight:bold; text-decoration:none;">Ivrogne</a>
     </li>
     <li>
       Sbires&nbsp;: 
-      <a href="./sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a>, 
+      <a href="./sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a>, 
       <a href="./sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a>
     </li>
     <li>
@@ -156,7 +159,7 @@ Objectif&nbsp;: créer une partie dynamique avec forts retournements et informat
     </li>
     <li>
       Chaos contrôlé et surprises via la 
-      <a href="./sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a>.
+      <a href="./sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a>.
     </li>
     <li>
       Une fin de partie tendue grâce au vote unique des morts et aux doutes persistants.
