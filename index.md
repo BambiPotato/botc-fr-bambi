@@ -26,44 +26,11 @@ home_sidebar: true
 
 </div>
 
-<div style="margin:25px auto 0 auto; max-width:980px; padding:28px 26px; border:1px solid rgba(212,167,106,0.3); border-radius:10px; box-shadow:0 0 12px rgba(0,0,0,0.4); background-color:rgba(0,0,0,0.45);">
-
-  <div style="max-width:820px; margin:0 auto; text-align:center;">
-
-    <p style="font-size:20px; color:#e0c99d; font-style:italic; line-height:1.8; margin:0 0 18px 0;">
-      <span style="font-weight:bold; color:#d4a76a;">Traductions</span>,
-      <span style="font-weight:bold; color:#d4a76a;">conseils</span>,
-      <span style="font-weight:bold; color:#d4a76a;">ressources</span> et
-      <span style="font-weight:bold; color:#d4a76a;">règles</span>
-      pour aider les communautés francophones à jouer dans un cadre
-      <span style="font-weight:bold; color:#d4a76a;">inclusif et bienveillant.</span>
-    </p>
-
-    <p style="font-size:16px; color:#e0c99d; line-height:1.75; margin:0;">
-      Ce site web est né de l’amour de
-      <a href="https://bloodontheclocktower.com/"
-         target="_blank"
-         rel="noopener noreferrer"
-         style="color:#d4a76a; font-weight:bold; text-decoration:none;">
-        Blood on the Clocktower
-      </a>
-      et il n’a aucun but lucratif.
-      <br><br>
-
-      Tout le contenu de
-      <a href="https://bloodontheclocktower.com/"
-         target="_blank"
-         rel="noopener noreferrer"
-         style="color:#d4a76a; font-weight:bold; text-decoration:none;">
-        Blood on the Clocktower
-      </a>
-      appartient à
-      <span style="color:#d4a76a; font-weight:bold;">The Pandemonium Institute</span>.
-    </p>
-
-  </div>
-
+<div style="margin:25px auto 0 auto; max-width:980px; padding:28px 26px; border:1px solid rgba(212,167,106,0.3); border-radius:10px; box-shadow:0 0 12px rgba(0,0,0,0.4); background-color:rgba(0,0,0,0.45); text-align:center;">
+<p style="font-size:20px; color:#e0c99d; font-style:italic; line-height:1.8; margin:0 0 18px 0;"><span style="font-weight:bold; color:#d4a76a;">Traductions</span>, <span style="font-weight:bold; color:#d4a76a;">conseils</span>, <span style="font-weight:bold; color:#d4a76a;">ressources</span> et <span style="font-weight:bold; color:#d4a76a;">règles</span> pour aider les communautés francophones à jouer dans un cadre <span style="font-weight:bold; color:#d4a76a;">inclusif et bienveillant.</span></p>
+<p style="font-size:16px; color:#e0c99d; line-height:1.75; margin:0;">Ce site web est né de l’amour de <a href="https://bloodontheclocktower.com/" target="_blank" rel="noopener noreferrer" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Blood on the Clocktower</a> et il n’a aucun but lucratif.<br><br>Tout le contenu de <a href="https://bloodontheclocktower.com/" target="_blank" rel="noopener noreferrer" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Blood on the Clocktower</a> appartient à <span style="color:#d4a76a; font-weight:bold;">The Pandemonium Institute</span>.</p>
 </div>
+
 
 <hr style="margin:16px auto; max-width:980px; border:1px solid rgba(181,139,82,.25);">
 
