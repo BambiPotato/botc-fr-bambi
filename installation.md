@@ -14,13 +14,14 @@ image: /images/logogold.png
 <div class="botc-side-card float-right">
   <h2>Vidéo d’aide</h2>
 
-  <div class="botc-video-frame">
-    <iframe
-      src="https://www.youtube.com/embed/6B3KsRAY7_Y"
-      title="Vidéo d’aide pour l’installation"
-      allowfullscreen>
-    </iframe>
-  </div>
+  <a href="https://youtu.be/6B3KsRAY7_Y?si=P4Izcn943d670oQJ"
+     target="_blank"
+     rel="noopener noreferrer"
+     class="botc-video-thumb">
+    <img src="https://img.youtube.com/vi/6B3KsRAY7_Y/hqdefault.jpg"
+         alt="Vidéo d’aide pour l’installation">
+    <span class="botc-play-button">▶</span>
+  </a>
 
   <p>
     Une vidéo pour accompagner la mise en place et mieux visualiser les étapes.
