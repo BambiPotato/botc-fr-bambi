@@ -28,18 +28,18 @@
   <meta name="twitter:image" content="{{ meta_image | absolute_url }}">
 </head>
 
-<body class="{% if page.url != '/' %}sidebar-on{% endif %}">
+<body class="{% if page.url != '/' or page.home_sidebar == true %}sidebar-on{% endif %}">
 
-  {% if page.url != '/' %}
-  <input type="checkbox" id="botc-menu-toggle" class="botc-menu-toggle">
-  <label for="botc-menu-toggle" class="botc-menu-button">☰</label>
+  {% if page.url != '/' or page.home_sidebar == true %}
+    <input type="checkbox" id="botc-menu-toggle" class="botc-menu-toggle">
+    <label for="botc-menu-toggle" class="botc-menu-button">☰</label>
 
-  {% include sidebar.html %}
-{% endif %}
+    {% include sidebar.html %}
+  {% endif %}
 
   <main class="page-content" aria-label="Content">
     <div class="wrapper">
-      {% if page.url == "/" or page.no_parchment == true %}
+      {% if page.url == "/" and page.home_sidebar != true or page.no_parchment == true %}
         {{ content }}
       {% else %}
         <div class="wiki-parchment">
