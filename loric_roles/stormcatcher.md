@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Attrape-tempête
+title: Chasseur d'orages
+Description: Annoncez un rôle bon. Si en jeu, il ne peut mourir que par exécution, mais les maléfiques apprennent qui c’est.
+Image: /images/Icon_stormcatcher.png
 ---
 
 <p align="left">
@@ -15,7 +17,7 @@ title: Attrape-tempête
   <a href="./stormcatcher.html" style="text-decoration:none;">
     <img src="../images/Icon_stormcatcher.png" alt="Attrape-tempête" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#7fd1ae; font-weight:bold; font-size:22px;">Attrape-tempête</span>
+    <span style="color:#7fd1ae; font-weight:bold; font-size:22px;">Chasseur d’orages</span>
   </a>
 </div>
 
@@ -52,16 +54,16 @@ title: Attrape-tempête
 ##  <span style="color:#7fd1ae;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>« Nommez un rôle bon. S’il est en jeu, la personne qui l’a ne peut mourir que par exécution, et les joueurs maléfiques apprennent qui c’est. »</strong>
+<strong>« Annoncez un rôle bon. Si en jeu, il ne peut mourir que par exécution, mais les maléfiques apprennent qui c’est. »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Utilisez l’<strong>Attrape-tempête</strong> pour centrer la partie autour d’un <span style="color:#4ea3ff; font-weight:bold;">rôle bon</span> précis : discussions focalisées et souvent une survie jusqu’au dernier jour… tant que le village le souhaite.
+Utilisez le <strong>Chasseur d'orages</strong> pour centrer la partie autour d’un <span style="color:#4ea3ff; font-weight:bold;">rôle bon</span> précis : discussions focalisées et souvent une survie jusqu’au dernier jour… tant que le village le souhaite.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Le conteur déclare quel <span style="color:#4ea3ff; font-weight:bold;">rôle bon</span> est « favorisé » par l’Attrape-tempête.</li>
-  <li>Si ce rôle est <strong>en jeu</strong>, la personne qui l’a ne peut <strong>mourir que par exécution</strong>. Marquez-la d’un rappel <strong>PROTEGÉ</strong>.</li>
+  <li>Le conteur déclare quel <span style="color:#4ea3ff; font-weight:bold;">rôle bon</span> est « favorisé » par le Chasseur d'orages.</li>
+  <li>Si ce rôle est <strong>en jeu</strong>, le joueur  qui l’a ne peut <strong>mourir que par exécution</strong>. Marquez-la d’un rappel <strong>EN SÉCURITÉ</strong>.</li>
   <li>Si ce rôle n’est <strong>pas en jeu</strong>, les <span style="color:#d45b5b; font-weight:bold;">maléfiques</span> l’apprennent : c’est un <em>bluff gratuit</em> crédible.</li>
   <li>La protection ne s’applique qu’aux <strong>morts non exécutoires</strong> (attaques, capacités nocturnes, etc.). Une exécution tue normalement.</li>
 </ul>
@@ -70,8 +72,10 @@ Utilisez l’<strong>Attrape-tempête</strong> pour centrer la partie autour d�
 
 ##  <span style="color:#7fd1ae;">Comment Conter</span>
 
+<strong>Instructions au Conteur/strong> 
+
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Au début de la partie, annoncez que l’<strong>Attrape-tempête</strong> est en jeu, ajoutez son jeton au grimoire, puis déclarez le <span style="color:#4ea3ff; font-weight:bold;">rôle bon</span> favorisé.
+Au début de la partie, annoncez que le <strong>Chasseur d’orages</strong> est en jeu, ajoutez son jeton au grimoire, puis déclarez le <span style="color:#4ea3ff; font-weight:bold;">rôle bon</span> favorisé.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
@@ -79,7 +83,7 @@ Au début de la partie, annoncez que l’<strong>Attrape-tempête</strong> est e
     • Si joueur un est marqué <strong>PROTEGÉ</strong>, réveillez chaque joueur maléfique : montrez le jeton <em>CE JOUEUR EST</em>, le jeton du rôle favorisé, puis pointez la personne protégée.<br>
     • S’il n’y a pas de joueur marqué, montrez le jeton <em>CE RÔLE N'EST PAS JEU</em> et le jeton du rôle favorisé.
   </li>
-  <li><strong>Si le joueur marqué du symbole <strong>PROTEGÉ</strong> de l’<strong>Attrape-tempête</strong> est exécuté, il meurt.</strong><br>
+  <li><strong>Si le joueur marqué du jeton <strong>EN SÉCURITÉ</strong> du <strong>Chasseur d'orages</strong> est exécuté, il meurt.</strong><br>
     S'il devait mourir autrement, il reste en vie.
   </li>
 </ul>
@@ -91,12 +95,12 @@ Au début de la partie, annoncez que l’<strong>Attrape-tempête</strong> est e
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
   <li>Le script est construit autour du <a href="../roles_experimentaux/general.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Général</a>.<br>  
-  L’Attrape-tempête <strong>« favorise »</strong> le <a href="../roles_experimentaux/general.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Général</a>.<br>
-  Le Général est en jeu. La nuit, l’<a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> et le <a href="../bmr_roles/parrain.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parrain</a> l’attaquent : il ne meurt pas.<br>  
+  Le Chasseur d'orages <strong>« favorise »</strong> le <a href="../roles_experimentaux/general.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Général</a>.<br>
+  Le Général est en jeu. La nuit, le <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> et le <a href="../bmr_roles/parrain.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parrain</a> l’attaquent : il ne meurt pas.<br>  
   Après plusieurs jours d’infos et de débats, le village choisit de l’<strong>exécuter</strong> : il meurt.</li>
 
   <li>Le Conteur souhaite une partie basée autour de l’<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>.<br>  
-  L’Attrape-tempête « favorise l’Empathe », <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a> mais <strong>aucun <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a> n’est en jeu</strong>.<br>   
+  Le Chassur d'orages « favorise l’Empathe », <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a> mais <strong>aucun <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a> n’est en jeu</strong>.<br>   
   Les <span style="color:#d45b5b; font-weight:bold;">maléfiques</span> l’apprennent, et l’<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> choisit de <em>bluffer</em> <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>.</li>
 
 </ul>
@@ -106,23 +110,25 @@ Au début de la partie, annoncez que l’<strong>Attrape-tempête</strong> est e
 ##  <span style="color:#7fd1ae;">Explication</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-L’<strong>Attrape-tempête</strong> est un Loric qui fonctionne particulièrement bien avec les scripts personnalisés :<br> 
+Le <strong>Chasseur d'orages</strong> est un Loric qui fonctionne particulièrement bien avec les scripts personnalisés :<br> 
 permettant de jouer une partie « axée » sur un rôle particulier sans que sa présence ne devienne un obstacle au métajeu.<br> 
 Ce rôle vertueux est protégé de la mort la nuit par la faveur du Conteur, ce qui lui confère une certaine capacité de survie.<br> 
 Pour contrer ce puissant atout, l'équipe maléfique connaîtra toujours l'identité du joueur afin de pouvoir le discréditer et l'éliminer au plus vite.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Nommer un rôle avec l’Attrape-tempête ne signifie pas que vous devez l'inclure dans le jeu.<br>  
+Nommer un rôle avec le Chassur d'orages ne signifie pas que vous devez l'inclure dans le jeu.<br>  
 S’il n’est pas présent, vous offrez simplement un <em>bluff sûr</em> à l’équipe maléfique.
-Utilisez-le pour rendre un rôle « spécial » : si votre partie repose sur des interactions avec, par exemple, le <a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a>, 
-c’est frustrant de le perdre dès le jour 2 sur un coup de chance du Démon.  
-En offrant votre protection à un rôle, vous élargissez non seulement l'éventail des stratégies à sa disposition (bonnes ou mauvaises),<br> 
+Utilisez-le pour rendre un rôle « spécial » : si votre partie repose sur des interactions avec, par exemple, la <a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a>, 
+c’est frustrant de perdre la <a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a>
+dès le jour 2 sur un coup de chance du Démon.
+  
+En offrant votre protection à un rôle, vous élargissez non seulement l'éventail des stratégies à sa disposition (bonnes ou maléfiques),<br> 
 mais vous vous assurez également que le groupe lui accordera une attention particulière lors de ses délibérations.
 </p>
 
 <p style="color:#f5f5f5; font-size:16.5px; line-height:1.7;">
- Remarque : l’Attrape-tempête ne s’applique qu’aux <strong>rôles bons</strong>.
+ Remarque : le Chasseur d'orages ne s’applique qu’aux <strong>rôles bons</strong>.
 </p>
 
 ---
