@@ -11,6 +11,23 @@ image: /images/logogold.png
   </a>
 </p>
 
+<div class="botc-side-card float-right">
+  <h2>Vidéo d’aide</h2>
+
+  <div class="botc-video-frame">
+    <iframe
+      src="https://www.youtube.com/embed/6B3KsRAY7_Y"
+      title="Vidéo d’aide pour l’installation"
+      allowfullscreen>
+    </iframe>
+  </div>
+
+  <p>
+    Une vidéo pour accompagner la mise en place et mieux visualiser les étapes.
+  </p>
+</div>
+
+
 <!--  Installation et mise en place -->
 
 <h1 style="color:#5C2E1F; font-weight:bold; font-size:36px;"> Installation et mise en place</h1>
