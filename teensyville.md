@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TeensyVille
+title: Teensyville
 description: Un petit Village à 5 ou 6 joueurs mais tout autant de chaos.
 image: /images/logogold.png
 ---
