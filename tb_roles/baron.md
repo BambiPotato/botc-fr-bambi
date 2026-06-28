@@ -84,7 +84,7 @@ Rien de tel que la vertu du labeur pour se remettre dans le droit chemin.<br>
 </p>
 
 
----
+<hr class="sbire">
 
 ##  <span style="color:red">Résumé</span>
 
