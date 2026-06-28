@@ -25,7 +25,7 @@ image: /images/logogold.png
   </a>
 
   <p>
-    Une petite vidéo pour expliquer les règles en moins de 6 minutes.
+    Une petite vidéo pour expliquer les règles en 6 minutes.
   </p>
 </div>
 
@@ -71,9 +71,9 @@ Vous allez recevoir un jeton <strong style="color:#80aee0;">bleu</strong> ou <st
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-bottom:6px;"><strong> Objectifs :</strong></p>
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Si vous êtes <strong><a href="glossaire.html" style="color:#80aee0; font-weight:bold; text-decoration:none;">Bon</a></strong> : trouvez et exécutez le <strong><a href="demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a></strong> → le <strong><a href="glossaire.html" style="color:#80aee0; font-weight:bold; text-decoration:none;">Bien</a></strong> gagne.</li>
-  <li>Si vous êtes <strong><a href="glossaire.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Maléfique</a></strong> : détruisez le village. S’il ne reste que <strong>2 joueurs vivants</strong>, le <strong><a href="glossaire.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mal</a></strong> gagne.</li>
+  <li>Si vous êtes <strong><a href="glossaire.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Maléfique</a></strong> : votre objectif est de détruire le village. S'il ne reste que deux joueurs vivants, dont le Démon, le <strong><a href="glossaire.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mal</a></strong> gagne.</li>
 </ul>
-
+ 
 <hr>
 
 <h2 style="color:#d4a76a; font-weight:bold; font-size:28px;">🌞 Le jour &nbsp;et&nbsp; 🌗 la nuit</h2>
