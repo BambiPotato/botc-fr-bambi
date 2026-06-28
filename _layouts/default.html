@@ -26,9 +26,14 @@
   <meta name="twitter:title" content="{{ meta_title | escape }}">
   <meta name="twitter:description" content="{{ meta_description | escape }}">
   <meta name="twitter:image" content="{{ meta_image | absolute_url }}">
-
 </head>
+
 <body class="{% if page.url != '/' %}sidebar-on{% endif %}">
+
+  {% if page.url != '/' %}
+    {% include sidebar.html %}
+  {% endif %}
+
   <main class="page-content" aria-label="Content">
     <div class="wrapper">
       {% if page.url == "/" or page.no_parchment == true %}
@@ -40,5 +45,6 @@
       {% endif %}
     </div>
   </main>
+
 </body>
 </html>
