@@ -108,7 +108,7 @@ ou permettez à une capacité de fonctionner si elle affecte uniquement les joue
 
 <div class="botc-note">
 N'oubliez pas de garder votre Grimoire bien rangé et de le montrer à l'Espionne dans le bon sens, afin que l’Espionne
-puisse facilement voir qui est qui.*
+puisse facilement voir qui est qui.
 </div>
 
 
