@@ -115,14 +115,15 @@ image: /images/Logo_bad_moon_rising-1.png
 ## <span id="synopsis" style="color:#ffa64d;">Synopsis</span>
 
 <p class="botc-flavour-text dropcap">
-LE SOLEIL DISPARAÎT DERRIÈRE L’HORIZON DÉCHIQUETÉ. UNE NOUVELLE JOURNÉE D’HIVER SUCCOMBE À LA NUIT TOMBANTE.<br> 
-DES MARBRURES ORANGE ET ROUGES SE FONDENT PROGRESSIVEMENT DANS LE CRÉPUSCULE TANDIS QUE LA FORÊT AMORCE SA TRANSFORMATION AUTOMNALE, EN ATTENTE DES PREMIÈRES NEIGES.<br><br>
+Le soleil disparaît derrière l’horizon déchiqueté. Une nouvelle journée d’hiver succombe à la nuit tombante.<br>
+Des marbrures orange et rouges se fondent progressivement dans le crépuscule tandis que la forêt amorce sa transformation automnale, en attente des premières neiges.<br><br>
 
-LES LOUPS AFFAMÉS HURLENT DEPUIS LES PROFONDEURS DES GROTTES QUI S’OUVRENT DANS LES MONTAGNES, AUX CONFINS DE LA VILLE, CHASSANT LES OISEAUX DE LEUR NID DOUILLET.<br> 
-DES VOYAGEURS SE RÉFUGIENT DANS L’AUBERGE POUR LUTTER CONTRE LE FROID INEXORABLE QUI S’INSTALLE.<br> 
-ILS SE RÉCHAUFFENT AUTOUR D’UN THÉ OU PARTAGENT UN MOMENT DE CONVIVIALITÉ AUTOUR D’UNE BIÈRE,<br> AU DOUX SON DE LA MUSIQUE QUI RÉSONNE DANS L’AUBERGE, SANS SE DOUTER QUE DES YEUX MALFAISANTS LES ÉPIENT DEPUIS LES RUINES DE LA VILLE, AUTREFOIS FLORISSANTE.
+Les loups affamés hurlent depuis les profondeurs des grottes qui s’ouvrent dans les montagnes, aux confins de la ville, chassant les oiseaux de leur nid douillet.<br><br>
 
-CETTE NUIT, MÊME LE BÉTAIL SAIT QUE LA LUNE SERA SANGLANTE...
+Des voyageurs se réfugient dans l’auberge pour lutter contre le froid inexorable qui s’installe.<br>
+Ils se réchauffent autour d’un thé ou partagent un moment de convivialité autour d’une bière, au doux son de la musique qui résonne dans l’auberge, sans se douter que des yeux malfaisants les épient depuis les ruines de la ville, autrefois florissante.<br><br>
+
+Cette nuit, même le bétail sait que la lune sera sanglante...
 </p>
 
 ---
