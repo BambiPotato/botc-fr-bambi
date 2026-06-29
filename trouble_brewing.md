@@ -145,7 +145,7 @@ Les équipes du Bien comme du Mal peuvent prendre l’avantage grâce à des sac
 </p>
 
 <p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
-Dans <strong><span style="color:#b58b52;">TROUBLE BREWING</span>, la chasse au Démon est relativement directe, mais l’équipe du Mal dispose de nombreux outils de désinformation et les joueurs de l’équipe du Bien devront donc remettre en question ce qu’ils pensent savoir s’ils espèrent survivre.
+Dans <strong><span style="color:#b58b52;">TROUBLE BREWING</span></strong>, la chasse au Démon est relativement directe, mais l’équipe du Mal dispose de nombreux outils de désinformation et les joueurs de l’équipe du Bien devront donc remettre en question ce qu’ils pensent savoir s’ils espèrent survivre.
 </p>
 
 <p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
