@@ -86,10 +86,11 @@ image: /images/Icon_mayor.png
 </ul>
   
 <div class="botc-note">
-Nous vous recommandons de garder le Maire en vie jusqu'au dernier jour; la partie n’en sera que plus intéressante.br> Si le groupe est convaincu dès le
+Nous vous recommandons de garder le Maire en vie jusqu'au dernier jour; la partie n’en sera que plus intéressante. <br> Si le groupe est convaincu dès le
 début du jeu que le Maire est bien le Maire, vous pouvez laisser le Maire mourir afin que le Mal ait une chance de gagner. <br>
 <hr>
-Dans <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">TROUBLE BREWING</a>, la phrase du maire « votre équipe gagne » signifie toujours « le bien gagne », car le maire est toujours bon.<br> Dans d'autres versions, un maire maléfique signifie plutôt « le Mal gagne ».
+Dans <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">TROUBLE BREWING</a>, la phrase « votre équipe gagne » du Maire
+signifie que le Bien gagne, car le Maire est toujours bon.<br> Dans d'autres modules, avec un Maire maléfique, elle signifie « Le Mal gagne ».
 </div>
 
 <hr>
