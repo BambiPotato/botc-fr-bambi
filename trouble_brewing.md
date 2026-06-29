@@ -16,7 +16,7 @@ image: /images/Logo_trouble_brewing.png
   <a href="./trouble_brewing.html" style="text-decoration:none;">
     <img src="./images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="300" style="border-radius:12px;">
     <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Trouble Brewing</span>
+    <span style="color:#b58b52; font-weight:bold; font-size:50px;">Trouble Brewing</span>
   </a>
 </div>
 
@@ -87,13 +87,9 @@ image: /images/Logo_trouble_brewing.png
   </ul>
 </div>
 
-#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
 
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
-</p>
+<hr class="explication">
 
----
 
 ##  <span style="color:#b58b52;">Sommaire</span>
 
@@ -119,48 +115,73 @@ image: /images/Logo_trouble_brewing.png
 ## <span id="synopsis" style="color:#b58b52;">Synopsis</span>
 
 <p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
-Les nuages s’amoncellent au-dessus de <strong>Ravenswood Bluff</strong>, enveloppant cette ville endormie et ses Villageois superstitieux d’une ombre inquiétante.  
-Le linge fraîchement lavé danse de façon étrange entre les chaumières. Des cheminées crachent des volutes de fumée.  
-Des senteurs exotiques s’infiltrent par les fissures des fenêtres, tandis que des chaudrons cachés bouillonnent dans l’ombre.
+LE CIEL EST MENAÇANT AU-DESSUS DE RAVENSWOOD.<br> 
+UNE OMBRE INQUIÉTANTE S’ÉTEND SUR LA VILLE ENDORMIE, RÉVEILLANT LES CRAINTES DES PLUS SUPERSTITIEUX.<br>
+LE LINGE ÉTENDU SUR LES CORDES, DANS LES JARDINS, SEMBLE DANSER UN ÉTRANGE BALLET.<br>
+D’ÉPAISSES FUMÉES S’ÉLÈVENT DEPUIS LES CHEMINÉES DES MAISONS.<br> 
+DES SENTEURS EXOTIQUES FILTRENT PAR LES FENÊTRES ENTROUVERTES ET LES SEUILS DE PORTE, TRAHISSANT LA PRÉSENCE DE CHAUDRONS CACHÉS.<br> 
+UNE BRISE AUTOMNALE ÉTONNAMMENT TIÈDE VIENT CARESSER LES MURS COUVERTS DE LIERRE TANDIS QU’UN MURMURE RÉSONNE AUX OREILLES DE CEUX QUI OSENT S’AVENTURER SUR LES PAVÉS DES RUELLES.
 </p>
 
 <p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
-Un vent d’automne anormalement chaud s’insinue le long des murs couverts de lierre et murmure à l’oreille des plus téméraires.  
-Les mères appellent leurs enfants à rentrer, alors que le tonnerre gronde à l’horizon.  
-Mais en tendant l’oreille… des bruits plus étranges encore résonnent depuis la forêt voisine.
+INQUIÈTES, DES MÈRES RAPPELLENT LEURS ENFANTS À LA MAISON, ALORS QUE LE TONNERRE COMMENCE À GRONDER À L'HORIZON.<br>  
+MAIS EN ÉCOUTANT ATTENTIVEMENT, DES BRUITS ENCORE PLUS ÉTRANGES PROVIENNENT DE LA FORÊT TOUTE PROCHE.<br>  
+SOUS LE CLOCHER D’UN MONASTÈRE QUI DOMINE LA RÉGION, DES SILHOUETTES ENCAPUCHONNÉES SEMBLENT BONDIR D’UNE PORTE À L’AUTRE.
 </p>
 
 <p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
-Sous l’œil vigilant du monastère qui domine la ville, des silhouettes passent de porte en porte.  
-Celles et ceux qui savent lire les signes comprennent qu’il y a…  
-<span style="color:#d4a76a; font-weight:bold;">Trouble Brewing</span>.
+CEUX QUI PEUVENT LIRE LES SIGNES SAVENT QUE LES GERMES DE LA DISCORDE NE SONT PAS LOIN...
 </p>
+
 
 ---
 
 ##  <span style="color:#b58b52;">Gameplay</span>
 
 <p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong><span style="color:#b58b52;">Trouble Brewing</span></strong>
-  <span style="color:#f5f5f5;">contient un peu de tout :</span>
+  <strong><span style="color:#b58b52;">TOUBLE BREWING</span></strong>
+  <span style="color:#f5f5f5;">OFFRE UN PEU DE TOUT :</span>
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Certains rôles reçoivent passivement des informations.</li>
-  <li>D’autres doivent agir pour découvrir qui est qui.</li>
-  <li>Quelques-uns cherchent simplement à attirer l’attaque du <span style="color:#d45b5b; font-weight:bold;">Démon</span>.</li>
-</ul>
+<p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
+Certains rôles reçoivent des informations passivement, d’autres doivent agir pour découvrir qui est qui,<br> tandis que certains cherchent simplement à inciter le Démon à les attaquer.<br>
+Les équipes du Bien comme du Mal peuvent prendre l’avantage grâce à des sacrifices bien calculés.
+</p>
 
 <p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
-Tant le Bien que le Mal peuvent prendre l’avantage en effectuant des <strong>sacrifices bien calculés</strong>.<br>
-C’est une chasse au <span style="color:#d45b5b; font-weight:bold;">Démon</span> relativement simple, mais les <span style="color:#d45b5b; font-weight:bold;">Sbires</span> et le <span style="color:#d45b5b; font-weight:bold;">Démon</span> disposent de nombreux moyens pour semer la confusion.
-Les joueurs et joueuses du Bien devront remettre en question ce qu’ils croient savoir s’ils veulent espérer survivre.
+Dans <strong><span style="color:#b58b52;">TOUBLE BREWING</span></strong>, la chasse au Démon est relativement directe,<br> mais l’équipe du Mal dispose de nombreux outils de désinformation et les joueurs de l’équipe du Bien devront donc remettre en question ce qu’ils pensent savoir s’ils espèrent survivre.
 </p>
 
 <p style="text-align:left; color:#b58b52; font-size:18px; font-weight:bold;">
- Niveau : <strong>Débutant</strong><br>
-<em>Trouble Brewing est recommandé pour les joueurs débutants, ainsi que pour les Conteurs qui content pour la première fois.</em>
+ Niveau : <strong>DÉBUTANT</strong><br>
+<em>Recommandé pour les joueurs et Conteurs débutants, ou pour celles et ceux qui découvrent les jeux de déduction sociale.</em>
 </p>
+
+<p style="text-align:left; color:#b58b52; font-size:18px; font-weight:bold;">
+Lorsque vous jouez le module <strong><span style="color:#b58b52;">TOUBLE BREWING</span></strong>...
+</p>
+
+<p style="text-align:left; color:#b58b52; font-size:18px; font-weight:bold;">
+Les joueurs de L’ÉQUIPE DU BIEN devront déterminer qui est bon et qui est maléfique en utilisant leur logique et leur intuition.<br>
+Certains joueurs voudront sans doute révéler immédiatement leur rôle et partager ce qu’ils savent, comme le Cuisinier ou le Détective,<br>tandis que d'autres tels que le Fossoyeur ou la Voyante préféreront mentir sur leur identité afin de ne pas se faire attaquer par le Diablotin, qui est le Démon de ce script.<br>
+D’autres comme la Corneille ou le Soldat pourront mentir sur leur rôle précisément pour que le Diablotin les attaque.
+</p>
+
+<p style="text-align:left; color:#b58b52; font-size:18px; font-weight:bold;">
+Enfin, certains rôles bons obtiennent des informations en faisant quelque chose et en notant l’effet ainsi produit.<br> 
+Sacrifier sa vie en nommant une Immaculée, tenter de tuer le Diablotin en tant que Pourfendeuse et observer ce qui se passe,.<br> ou tuer délibérément des joueurs de l’équipe du Bien afin que le Fossoyeur puisse confirmer leur rôle sont autant de sacrifices possibles pour obtenir des informations et remporter la victoire.
+</p>
+
+<p style="text-align:left; color:#b58b52; font-size:18px; font-weight:bold;">
+Les joueurs de <strong>L’ÉQUIPE DU MAL</strong> devront se faire passer pour des rôles bons et le faire de manière convaincante,<br>  en donnant de fausses informations pour semer la confusion dans l'équipe du Bien si nécessaire.
+Si le l’équipe du Bien n’obtient que de vraies informations, il y a fort à parier qu’elle identifiera les joueurs maléfiques très rapidement.<br> 
+Mais il suffit d’un soupçon de mensonge pour que le Mal se donne de sérieuses chances de victoire. L’Empoisonneur et l’Espionne, en prêtant attention,<br>  peuvent créer une pagaille sans nom dans les rangs du Bien en utilisant astucieusement leur capacité.<br> 
+Le Mal devra également décider quand faire des sacrifices.<br> 
+La Femme écarlate tuera-t-elle le Diablotin pour sauver son équipe ? <br> 
+Le Diablotin va-t-il se tuer lui-même pour transformer un joueur plus fiable en Démon ? <br> 
+Les joueurs maléfiques voteront-ils pour exécuter un Sbire trop suspect afin d’endormir les soupçons de leurs adversaires ? <br> 
+</p>
+
 
 ---
 
