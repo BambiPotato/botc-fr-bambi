@@ -111,7 +111,7 @@ image: /images/Logo_trouble_brewing.png
 
 ## <span id="synopsis" style="color:#b58b52;">Synopsis</span>
 
-<p style="text-align:left; color:#5C2E1F; font-family:'Cinzel Decorative','Cinzel',Georgia,serif; font-size:22px; line-height:1.45; letter-spacing:1px; font-weight:400;">
+<p class="botc-flavour-text dropcap">
 LE CIEL EST MENAÇANT AU-DESSUS DE RAVENSWOOD.<br>
 UNE OMBRE INQUIÉTANTE S’ÉTEND SUR LA VILLE ENDORMIE, RÉVEILLANT LES CRAINTES DES PLUS SUPERSTITIEUX.<br>
 LE LINGE ÉTENDU SUR LES CORDES, DANS LES JARDINS, SEMBLE DANSER UN ÉTRANGE BALLET.<br>
@@ -120,13 +120,13 @@ DES SENTEURS EXOTIQUES FILTRENT PAR LES FENÊTRES ENTROUVERTES ET LES SEUILS DE 
 UNE BRISE AUTOMNALE ÉTONNAMMENT TIÈDE VIENT CARESSER LES MURS COUVERTS DE LIERRE TANDIS QU’UN MURMURE RÉSONNE AUX OREILLES DE CEUX QUI OSENT S’AVENTURER SUR LES PAVÉS DES RUELLES.
 </p>
 
-<p style="text-align:left; color:#5C2E1F; font-family:'Cinzel Decorative','Cinzel',Georgia,serif; font-size:22px; line-height:1.45; letter-spacing:1px; font-weight:400;">
+<p class="botc-flavour-text dropcap">
 INQUIÈTES, DES MÈRES RAPPELLENT LEURS ENFANTS À LA MAISON, ALORS QUE LE TONNERRE COMMENCE À GRONDER À L'HORIZON.<br>
 MAIS EN ÉCOUTANT ATTENTIVEMENT, DES BRUITS ENCORE PLUS ÉTRANGES PROVIENNENT DE LA FORÊT TOUTE PROCHE.<br>
 SOUS LE CLOCHER D’UN MONASTÈRE QUI DOMINE LA RÉGION, DES SILHOUETTES ENCAPUCHONNÉES SEMBLENT BONDIR D’UNE PORTE À L’AUTRE.
 </p>
 
-<p style="text-align:left; color:#5C2E1F; font-family:'Cinzel Decorative','Cinzel',Georgia,serif; font-size:22px; line-height:1.45; letter-spacing:1px; font-weight:400;">
+<p class="botc-flavour-text dropcap">
 CEUX QUI PEUVENT LIRE LES SIGNES SAVENT QUE LES GERMES DE LA DISCORDE NE SONT PAS LOIN...
 </p>
 
