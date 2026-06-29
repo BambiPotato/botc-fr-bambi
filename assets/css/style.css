@@ -1397,12 +1397,12 @@ hr.explication {
    ========================================================= */
 
 .botc-flavour-text {
-  font-family: "Cinzel", Georgia, "Times New Roman", serif;
+  font-family: "Cormorant Garamond", Georgia, "Times New Roman", serif;
   font-size: 20px;
-  font-weight: 400;
+  font-weight: 600;
   font-style: normal;
   line-height: 1.55;
-  letter-spacing: 0.15px;
+  letter-spacing: 0.25px;
   color: #5C2E1F;
   text-align: left;
   margin: 1.4em 0;
@@ -1412,8 +1412,8 @@ hr.explication {
 .botc-flavour-text.dropcap::first-letter {
   float: left;
   font-family: "Cinzel Decorative", Georgia, serif;
-  font-size: 4.1em;
-  font-weight: 400;
+  font-size: 4.2em;
+  font-weight: 700;
   line-height: 0.82;
   padding-right: 10px;
   padding-top: 2px;
@@ -1424,6 +1424,7 @@ hr.explication {
   .botc-flavour-text {
     font-size: 18px;
     line-height: 1.5;
+    letter-spacing: 0.15px;
   }
 
   .botc-flavour-text.dropcap::first-letter {
