@@ -101,6 +101,11 @@ Le Fossoyeur apprend quel rôle a été exécuté aujourd'hui.
 
 ##  <span style="color:blue;">Comment Conter</span> 
 
+
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p>
+
 - Si un joueur meurt par exécution, placez le jeton de rappel **« EXÉCUTÉ AUJOURD'HUI »** du Fossoyeur à côté du jeton du rôle du joueur mort.
 
 - Chaque nuit, sauf la première, si un joueur est mort par exécution aujourd'hui, réveillez le Fossoyeur. 
