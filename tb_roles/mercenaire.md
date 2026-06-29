@@ -12,14 +12,14 @@ image: /images/Icon_slayer.png
   </a>
 </p>
 
-#  <span style="color:blue">Pourfendeuse</span>
+---
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./mercenaire.html" style="text-decoration:none;">
     <img src="../images/Icon_slayer.png" alt="Mercenaire" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:blue; font-weight:bold; font-size:22px;">Pourfendeuse</span>
+    <span style="color:blue; font-weight:bold; font-size:50px;">Pourfendeuse</span>
   </a>
 </div>
 
@@ -55,32 +55,21 @@ image: /images/Icon_slayer.png
 « Meurs ! »
 </p> 
 
-
----
-
+<hr class="villageois">
 
 ##  Apparaît dans  
 
-#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
-
-<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
-</p>
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../trouble_brewing.html" style="text-decoration:none;">
     <img src="../images/Logo_trouble_brewing.png" alt= "Trouble Brewing" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Trouble Brewing</span>
+    <span style="color:#b58b52; font-weight:bold; font-size:45px;">Trouble Brewing</span>
   </a>
 </div>
 
 
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-"Cult of the Clocktower – épisode par Andrew Nathenson"
-</p> 
-
----
+<hr class="villageois">
 
 
 ##  <span style="color:blue">Résumé</span>
@@ -107,17 +96,24 @@ image: /images/Icon_slayer.png
 
 ##  <span style="color:blue">Comment Conter</span>
 
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p>
+
+
 - Pendant la journée, la Pourfendeuse peut déclarer qu’elle souhaite utiliser sa capacité. 
   - La Pourfendeuse désigne alors n’importe quel joueur. 
   - Si le joueur choisi est un Démon en vie, annoncez que le joueur choisi meurt — placez un linceul sur son jeton de rôle dans le Grimoire. 
   - Si le joueur choisi n'est pas un Démon en vie, annoncez « Rien ne se passe ». 
   - Dans tous les cas, la Pourfendeuse perd sa capacité — placez le jeton **SANS CAPACITÉ** de la Pourfendeuse à côté de son jeton de rôle.
 
-- *Si un joueur se fait passer pour la Pourfendeuse et annonce qu’il veut utiliser sa capacité, faites comme s’il était vraiment la Pourfendeuse :*
-  *laissez le temps de la discussion, laissez-le prendre sa décision, trifouillez au besoin les jetons du Grimoire, puis annoncez « Rien ne se passe ».*
-
-- *Lorsque la Pourfendeuse annonce qu’elle veut utiliser sa capacité, accordez une minute ou deux au groupe pour discuter de sa cible.*
-  *Cela permet au groupe de participer à la victoire (ou à la défaite !), mais la décision finale revient à la Pourfendeuse.*
+<div class="botc-note">
+Si un joueur se fait passer pour la Pourfendeuse et annonce qu’il veut utiliser sa capacité, faites comme s’il était vraiment la Pourfendeuse :<br> 
+laissez le temps de la discussion, laissez-le prendre sa décision, trifouillez au besoin les jetons du Grimoire, puis annoncez « Rien ne se passe ».br> 
+<hr>
+Lorsque la Pourfendeuse annonce qu’elle veut utiliser sa capacité, accordez une minute ou deux au groupe pour discuter de sa cible.<br> 
+Cela permet au groupe de participer à la victoire (ou à la défaite !), mais la décision finale revient à la Pourfendeuse.
+</div>
 
 ---
 
