@@ -11,20 +11,18 @@ image: /images/Icon_mayor.png
   </a>
 </p>
 
-<h1 style="margin-top:8px;">
-  <span style="color:#4ea3ff; font-weight:bold;">Maire</span>
-</h1>
+<hr>
 
 <!-- Image centrée cliquable + nom -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./maire.html" style="text-decoration:none;">
     <img src="../images/Icon_mayor.png" alt="Maire" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:#4ea3ff; font-weight:bold; font-size:22px;">Maire</span>
+    <span style="color:#4ea3ff; font-weight:bold; font-size:50px;">Maire</span>
   </a>
 </div>
 
-<hr>
+<hr class="villageois">
 
 <h2 style="color:#4ea3ff; font-weight:bold; margin-top:10px;">Informations</h2>
 
@@ -48,29 +46,18 @@ image: /images/Icon_mayor.png
   Tout le monde paie ses impôts ici, non ? Enfin presque.» <br> 
 </p>
 
-<hr>
+<hr class="villageois">
 
 <h2 style="margin-top:10px;">Apparaît dans</h2>
 
-<h1 style="color:#b58b52; font-weight:bold; font-size:42px; margin-bottom:6px;">
-  <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a>
-</h1>
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
-</p>
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../trouble_brewing.html" style="text-decoration:none;">
     <img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Trouble Brewing</span>
+    <span style="color:#b58b52; font-weight:bold; font-size:45px;">Trouble Brewing</span>
   </a>
 </div>
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  Cult of the Clocktower – épisode par Andrew Nathenson
-</p>
 
 <hr>
 
@@ -98,15 +85,20 @@ image: /images/Icon_mayor.png
   <li>Si le Démon attaque le Maire et que le Conteur choisit un joueur mort, le Soldat ou un joueur protégé par le Moine, ce joueur ne meurt pas cette nuit-là.</li>
 </ul>
   
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
-Nous vous recommandons de garder le maire en vie jusqu'au dernier jour, car c'est ainsi que les joueurs s'amusent le plus.<br>  Exceptionnellement, si le groupe est convaincu dès le début de la partie que le maire est bel et bien le maire, laissez-le mourir afin que le Mal ait une chance de l'emporter. <br>
-
+<div class="botc-note">
+Nous vous recommandons de garder le Maire en vie jusqu'au dernier jour; la partie n’en sera que plus intéressante.br> Si le groupe est convaincu dès le
+début du jeu que le Maire est bien le Maire, vous pouvez laisser le Maire mourir afin que le Mal ait une chance de gagner. <br>
+<hr>
 Dans <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">TROUBLE BREWING</a>, la phrase du maire « votre équipe gagne » signifie toujours « le bien gagne », car le maire est toujours bon.<br> Dans d'autres versions, un maire maléfique signifie plutôt « le Mal gagne ».
-</p>
+</div>
 
 <hr>
 
 <h2 style="color:#4ea3ff; font-weight:bold; margin-top:10px;">Comment conter</h2>
+
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; margin-right:20px;">
   <li><strong>Lors du dernier jour</strong> : si exactement 3 joueurs sont vivants et qu’aucune exécution n’a lieu → la partie se termine immédiatement avec une victoire des Bons.</li> <br>
