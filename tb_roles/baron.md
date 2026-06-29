@@ -93,8 +93,11 @@ Rien de tel que la vertu du labeur pour se remettre dans le droit chemin.<br>
 
 ---
 
-
 ##  <span style="color:red">Comment Conter</span>
+
+<p class="botc-flavour-title">
+Instructions au Conteur
+</p>
 
 Pendant la mise en place :  
 1) Retirez **2 jetons Villageois**.  
