@@ -86,6 +86,12 @@ Il reçoit cette information une seule fois, et n’apprend rien d’autre.
 
 ##  <span style="color:blue">Comment Conter</span>  
 
+
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p>
+
+
 - Lors de la préparation de la première nuit, placez le jeton **MARGINAL** de l’Archiviste à côté du jeton de rôle d’un Marginal,<br> et placez le jeton **FAUSSE PISTE** de l’Archiviste à côté d’un autre jeton de rôle.
 
 - Lors de la première nuit, réveillez l’Archiviste et désignez les joueurs marqués MARGINAL et **FAUSSE PISTE**.
