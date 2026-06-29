@@ -16,14 +16,13 @@ parchment: true
 
 ---
 
-#  <span style="color:red">Baron</span> 
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./baron.html" style="text-decoration:none;">
     <img src="../images/Icon_baron.png" alt="Baron" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:red; font-weight:bold; font-size:22px;">Baron</span>
+    <span style="color:red; font-weight:bold; font-size:45px;">Baron</span>
   </a>
 </div>
 
@@ -70,22 +69,14 @@ Rien de tel que la vertu du labeur pour se remettre dans le droit chemin.<br>
 
 ##  Apparaît dans  
 
-#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
-
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../trouble_brewing.html" style="text-decoration:none;">
     <img src="../images/Logo_trouble_brewing.png" alt= "Trouble Brewing" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Trouble Brewing</span>
+    <span style="color:#b58b52; font-weight:bold; font-size:45px;">Trouble Brewing</span>
   </a>
 </div>
-
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-"Cult of the Clocktower – épisode par Andrew Nathenson"
-</p>
-
 
 <hr class="sbire">
 
