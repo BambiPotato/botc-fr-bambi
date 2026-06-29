@@ -16,14 +16,15 @@ image: /images/Icon_chef.png
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./cuistot.html" style="text-decoration:none;">
-    <img src="../images/Icon_chef.png" alt="Cuistot" width="350" style="border-radius:8px;">
+    <img src="../images/Icon_chef.png" alt="Cuisinier" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:blue; font-weight:bold; font-size:22px;">Cuisinier</span>
+    <span style="color:blue; font-weight:bold; font-size:50px;">Cuisinier</span>
   </a>
 </div>
 
+<hr class="villageois">
 
----
+
 ##  <span style="color:blue">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
@@ -60,14 +61,12 @@ image: /images/Icon_chef.png
 
 ##  Apparaît dans  
 
-#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
-
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../trouble_brewing.html" style="text-decoration:none;">
     <img src="../images/Logo_trouble_brewing.png" alt= "Trouble Brewing" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Trouble Brewing</span>
+    <span style="color:#b58b52; font-weight:bold; font-size:45px;">Trouble Brewing</span>
   </a>
 </div>
 
@@ -103,6 +102,11 @@ image: /images/Icon_chef.png
 ---
 
 ##  <span style="color:blue">Comment Conter</span>  
+
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p>
+
 
 - Pendant la **première nuit**, réveillez le Cuisinier.  
 - Faites signe avec vos doigts (0, 1, 2, etc.) pour lui indiquer le nombre de paires de joueurs maléfiques assis côte à côte. 
