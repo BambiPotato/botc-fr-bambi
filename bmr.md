@@ -141,6 +141,9 @@ Mais si l’équipe du Bien ne parvient pas à identifier quels <a href="../sbir
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong>NIVEAU :</strong> <strong>INTERMÉDIAIRE</strong>.<br>
 <em><strong>Recommandé pour les joueurs proactifs, prêts à travailler en équipe, et qui n’ont pas peur de mourir.</strong></em><br>
+</p>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">  
 Lorsque vous jouez le module <span style="color:#ffa64d; font-weight:bold; font-size:20px;">Bad Moon Rising</span>...
 </p>
 
