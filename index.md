@@ -618,10 +618,10 @@ table.roles-grid td{
       </a>
     </li>
 
-    <li>
-      <a href="https://discord.gg/eD4zvq6RvB" target="_blank"
+   <li>
+      <a href="https://wiki.bloodontheclocktower.com/Main_Page" target="_blank"
          style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-         Discord Unofficial
+         Wiki officiel The Pandemonium Institute
       </a>
     </li>
 
@@ -629,30 +629,26 @@ table.roles-grid td{
     <li>
       <a href="https://botc.app/" target="_blank"
          style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-         Application pour jouer en ligne 
+         Application officielle pour jouer en ligne 
       </a>
     </li>
 
-    <li>
-      <a href="https://wiki.bloodontheclocktower.com/Main_Page" target="_blank"
-         style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-         Wiki officiel The Pandemonium Institute
-      </a>
-    </li>
 
-    <li>
-      <a href="https://www.botcscripts.com" target="_blank"
-         style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-         La librairie des scripts BotC
-      </a>
-    </li>
-
-    <li>
+   <li>
       <a href="https://script.bloodontheclocktower.com/" target="_blank"
          style="color:#ffb84d; font-weight:bold; text-decoration:none;">
          Outil officiel de création de scripts
       </a>
     </li>
+
+  
+    <li>
+      <a href="https://www.botcscripts.com" target="_blank"
+         style="color:#ffb84d; font-weight:bold; text-decoration:none;">
+         Librairie communautaire des scripts BotC
+      </a>
+    </li>
+
 
     <li>
       <a href="https://savant.thegrim.gg/" target="_blank"
@@ -738,6 +734,14 @@ table.roles-grid td{
          Site officiel Open Sesame Games
       </a>
     </li>
+
+ <li>
+      <a href="https://discord.gg/eD4zvq6RvB" target="_blank"
+         style="color:#ffb84d; font-weight:bold; text-decoration:none;">
+         Discord 
+      </a>
+    </li>
+    
 
     <li>
       <a href="https://www.youtube.com/@opensesamegames1793" target="_blank"
