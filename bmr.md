@@ -24,10 +24,6 @@ image: /images/Logo_bad_moon_rising-1.png
 
 #   <span style="color:#ffa64d; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
 
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Les morts dansent sous la lune,<br> et les vivants leur tiennent la chandelle… »
-</p>
-
 <style>
 @media (max-width: 900px) {
   #liste-roles-bmr {
@@ -137,59 +133,50 @@ CETTE NUIT, MÊME LE BÉTAIL SAIT QUE LA LUNE SERA SANGLANTE...
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong>MULTIPLIE LES MORTS À UN RYTHME EFFRÉNÉ.</strong> 
-Les <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démons</a> peuvent tuer plusieurs fois par nuit, et les <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> participent eux aussi activement au carnage.
-Les joueurs de l’équipe du Bien peuvent prendre de gros risques pour obtenir des informations fiables... quitte à tuer accidentellement leurs propres alliés. Heureusement, il existe de nombreuses façons de maintenir des joueurs en vie bien au-delà de leur datede péremption. 
+Les <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démons</a> peuvent tuer plusieurs fois par nuit, et les <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> participent eux aussi activement au carnage.<br>
+Les joueurs de l’équipe du Bien peuvent prendre de gros risques pour obtenir des informations fiables... quitte à tuer accidentellement leurs propres alliés.<br> Heureusement, il existe de nombreuses façons de maintenir des joueurs en vie bien au-delà de leur datede péremption.<br> 
 Mais si l’équipe du Bien ne parvient pas à identifier quels <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> et quels <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démons</a> sont réellement en jeu, leur perte est quasiment inévitable.
 </p>
 
-<p style="color:#ffa64d; font-size:19px; font-weight:bold; line-height:1.7;">
+<p style="color:#ffa64d; font-size:18px; font-weight:bold; line-height:1.7;">
 <strong>NIVEAU :</strong> <strong>INTERMÉDIAIRE</strong>.<br>
-<em>*Recommandé pour les joueurs proactifs, prêts à travailler en équipe, et qui n’ont pas peur de mourir.*</em><br>
+<em>Recommandé pour les joueurs proactifs, prêts à travailler en équipe, et qui n’ont pas peur de mourir.</em><br>
 Lorsque vous jouez le module <span style="color:#ffa64d; font-weight:bold; font-size:20px;">Bad Moon Rising</span>...
 </p>
 
-<ul style="color:#ffa64d; font-size:19px; font-weight:bold; line-height:1.7; margin-left:40px;">
 
-  <li>
-    Les joueurs de <strong>L’ÉQUIPE DU BIEN</strong> recevront peu d’informations s’ils restent passifs.
-    Certaines capacités de <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> comme la 
-    <a href="../bmr_roles/damedethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Tisanière</a> et le 
-    <a href="../bmr_roles/pacifiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pacifiste</a> vont forcer l’équipe du Bien à exécuter des joueurs afin d’obtenir des informations, 
-    tandis que d’autres tels que le 
-    <a href="../bmr_roles/parieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Parieur</a> ou la 
-    <a href="../bmr_roles/commere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Commère</a> encouragent les joueurs bons à s’exposer afin de découvrir qui est qui... au risque d’y laisser la vie. 
-    Quand les joueurs de l’équipe du Bien font quelque chose, ils apprennent quelque chose.
-  </li>
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+Les joueurs de <strong>L’ÉQUIPE DU BIEN</strong> recevront peu d’informations s’ils restent passifs.<br>
+Certaines capacités de <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> comme la 
+<a href="../bmr_roles/damedethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Tisanière</a> et le 
+<a href="../bmr_roles/pacifiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pacifiste</a> vont forcer l’équipe du Bien à exécuter des joueurs afin d’obtenir des informations, tandis que d’autres tels que le 
+<a href="../bmr_roles/parieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Parieur</a> ou la 
+<a href="../bmr_roles/commere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Commère</a> encouragent les joueurs bons à s’exposer afin de découvrir qui est qui... au risque d’y laisser la vie.<br> 
+Quand les joueurs de l’équipe du Bien font quelque chose, ils apprennent quelque chose.
+</p>
 
-  <li>
-    L’équipe du Bien devra également prêter une attention particulière
-    à qui est mort pendant la nuit, et comment. 
-    Si elle n’en tient pas compte, elle risque de perdre de manière inattendue au crépuscule
-    d’une journée même s’il reste quatre, cinq voire six joueurs en vie.
-    Cependant, si les joueurs bons arrivent à déterminer comment chaque joueur est mort (y compris ceux qui ont été tués par erreur ou sans raison, à cause de rôles comme la 
-    <a href="../bmr_roles/enfantdelalune.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sélénite</a> ou le 
-    <a href="../bmr_roles/bricoleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bricoleur</a>), ils peuvent découvrir quels rôles maléfiques sont en jeu, et ainsi éviter de perdre la partie face au redoutable 
-    <a href="../bmr_roles/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a> ou au terrible 
-    <a href="../bmr_roles/po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a>.
-  </li>
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+L’équipe du Bien devra également prêter une attention particulière à qui est mort pendant la nuit, et comment.<br> 
+Si elle n’en tient pas compte, elle risque de perdre de manière inattendue au crépuscule d’une journée même s’il reste quatre, cinq voire six joueurs en vie.<br>
+Cependant, si les joueurs bons arrivent à déterminer comment chaque joueur est mort (y compris ceux qui ont été tués par erreur ou sans raison, à cause de rôles comme 
+<a href="../bmr_roles/enfantdelalune.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sélénite</a> ou le 
+<a href="../bmr_roles/bricoleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bricoleur</a>), ils peuvent découvrir quels rôles maléfiques sont en jeu, et ainsi éviter de perdre la partie face au redoutable 
+<a href="../bmr_roles/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a> ou au terrible 
+<a href="../bmr_roles/po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a>.
+</p>
 
-  <li>
-    Les joueurs de <strong>L’ÉQUIPE DU MAL</strong> peuvent se sentir invincibles au
-    début, mais devront malgré tout utiliser leurs capacités avec prudence
-    et au bon moment pour gagner.
-  </li>
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+Les joueurs de <strong>L’ÉQUIPE DU MAL</strong> peuvent se sentir invincibles au début,<br> mais devront malgré tout utiliser leurs capacités avec prudence et au bon moment pour gagner.
+</p> 
 
-  <li>
-    Le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> devra peut-être convaincre l’équipe du Bien qu’un autre <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> est en jeu afin d’éviter les effets dévastateurs de certains rôles bons tels que l’<a href="../bmr_roles/exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a> et le <a href="../bmr_roles/courtisan.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisan</a>, et devra peut-être éviter de tuer pour s’en sortir.
-    Si le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> parvient à déterminer qui attaquer et qui éviter (comme les voisins de la <a href="../bmr_roles/damedethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Tisanière</a> ou le <a href="../bmr_roles/fou.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fou du roi</a>), alors l’équipe du Bien se trouvera en difficulté.
-  </li>
-
-  <li>
-    Les <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> devront bien synchroniser leurs capacités. 
-    Un <a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> qui frappe au bon moment, un <a href="../bmr_roles/avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du diable</a> patient ou un <a href="../bmr_roles/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a> capable de « lire » ses adversaires peuvent arracher la victoire in extremis.
-  </li>
-
-</ul>
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+Le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> devra peut-être convaincre l’équipe du Bien qu’un autre <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> est en jeu afin d’éviter les effets dévastateurs de certains rôles bons tels que l’<a href="../bmr_roles/exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a> et le <a href="../bmr_roles/courtisan.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisan</a>, et devra peut-être éviter de tuer pour s’en sortir.<br>
+Si le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> parvient à déterminer qui attaquer et qui éviter (comme les voisins de la <a href="../bmr_roles/damedethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Tisanière</a> ou le <a href="../bmr_roles/fou.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fou du roi</a>), alors l’équipe du Bien se trouvera en difficulté.
+ 
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+Les <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> devront bien synchroniser leurs capacités.<br> 
+Un <a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> qui frappe au bon moment, un <a href="../bmr_roles/avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du diable</a> patient ou un <a href="../bmr_roles/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a> capable de « lire » ses adversaires peuvent arracher la victoire in extremis.
+</p> 
 
 ----
 
