@@ -55,6 +55,7 @@ parchment: true
   </li>
 </ul>
 
+
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
 « Tout va à vau-l’eau dans ce village.
 Un peu de main-d’œuvre bon marché lui fera le plus grand bien.<br>Tout le monde à la mine, voilà ce que je dis.<br> 
@@ -95,8 +96,8 @@ Rien de tel que la vertu du labeur pour se remettre dans le droit chemin.<br>
 
 ##  <span style="color:red">Comment Conter</span>
 
-<p class="botc-flavour-title">
-Instructions au Conteur
+<p class="botc-flavour-text dropcap">
+  Instructions au Conteur
 </p>
 
 Pendant la mise en place :  
