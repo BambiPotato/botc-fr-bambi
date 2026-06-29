@@ -56,7 +56,8 @@ image: /images/Icon_chef.png
   Et pourtant, ce soir, ils ont réservé une table pour deux. Étrange. »
 </p>   
 
----
+
+<hr class="villageois">
 
 
 ##  Apparaît dans  
@@ -69,11 +70,6 @@ image: /images/Icon_chef.png
     <span style="color:#b58b52; font-weight:bold; font-size:45px;">Trouble Brewing</span>
   </a>
 </div>
-
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-"Cult of the Clocktower – épisode par Andrew Nathenson"
-</p>
 
 ---
 
