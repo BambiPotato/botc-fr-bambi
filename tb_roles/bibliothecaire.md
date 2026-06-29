@@ -14,21 +14,16 @@ image: /images/Icon_librarian.png
 
 ---
 
-#  <span style="color:blue">Archiviste</span>  
-
-
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./bibliothecaire.html" style="text-decoration:none;">
     <img src="../images/Icon_librarian.png" alt="Bibliothécaire" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:blue; font-weight:bold; font-size:22px;">Archiviste</span>
+    <span style="color:blue; font-weight:bold; font-size:50px;">Archiviste</span>
   </a>
 </div>
 
-
----
-
+<hr class="villageois">
 
 ##  <span style="color:blue">Informations</span>
 
@@ -61,11 +56,9 @@ image: /images/Icon_librarian.png
   Mais pour le consulter, il vous faut une autorisation. »
 </p>
 
----
+<hr class="villageois">
 
 ##  Apparaît dans  
-
-#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
 
 
 <div style="text-align:center; margin: 20px 0;">
@@ -75,11 +68,6 @@ image: /images/Icon_librarian.png
     <span style="color:#b58b52; font-weight:bold; font-size:22px;">Trouble Brewing</span>
   </a>
 </div>
-
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-"Cult of the Clocktower – épisode par Andrew Nathenson"
-</p>
 
 ---
 
