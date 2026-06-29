@@ -115,7 +115,8 @@ image: /images/Logo_bad_moon_rising-1.png
 ## <span id="synopsis" style="color:#ffa64d;">Synopsis</span>
 
 <p class="botc-flavour-text dropcap">
-Le soleil disparaît derrière l’horizon déchiqueté. Une nouvelle journée d’hiver succombe à la nuit tombante.<br>
+Le soleil disparaît derrière l’horizon déchiqueté.<br> 
+Une nouvelle journée d’hiver succombe à la nuit tombante.<br>
 Des marbrures orange et rouges se fondent progressivement dans le crépuscule tandis que la forêt amorce sa transformation automnale, en attente des premières neiges.<br><br>
 
 Les loups affamés hurlent depuis les profondeurs des grottes qui s’ouvrent dans les montagnes, aux confins de la ville, chassant les oiseaux de leur nid douillet.<br><br>
@@ -131,7 +132,7 @@ Cette nuit, même le bétail sait que la lune sera sanglante...
 ## <span id="gameplay" style="color:#ffa64d;">Gameplay</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>MULTIPLIE LES MORTS À UN RYTHME EFFRÉNÉ.</strong> 
+<strong>MULTIPLIE LES MORTS À UN RYTHME EFFRÉNÉ.</strong><br> 
 Les <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démons</a> peuvent tuer plusieurs fois par nuit, et les <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> participent eux aussi activement au carnage.<br>
 Les joueurs de l’équipe du Bien peuvent prendre de gros risques pour obtenir des informations fiables... quitte à tuer accidentellement leurs propres alliés.<br> Heureusement, il existe de nombreuses façons de maintenir des joueurs en vie bien au-delà de leur datede péremption.<br> 
 Mais si l’équipe du Bien ne parvient pas à identifier quels <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> et quels <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démons</a> sont réellement en jeu, leur perte est quasiment inévitable.
@@ -139,10 +140,9 @@ Mais si l’équipe du Bien ne parvient pas à identifier quels <a href="../sbir
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong>NIVEAU :</strong> <strong>INTERMÉDIAIRE</strong>.<br>
-<em>Recommandé pour les joueurs proactifs, prêts à travailler en équipe, et qui n’ont pas peur de mourir.</em><br>
+<em><strong>Recommandé pour les joueurs proactifs, prêts à travailler en équipe, et qui n’ont pas peur de mourir.</strong></em><br>
 Lorsque vous jouez le module <span style="color:#ffa64d; font-weight:bold; font-size:20px;">Bad Moon Rising</span>...
 </p>
-
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Les joueurs de <strong>L’ÉQUIPE DU BIEN</strong> recevront peu d’informations s’ils restent passifs.<br>
