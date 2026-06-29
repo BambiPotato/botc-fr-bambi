@@ -404,17 +404,25 @@ h1, h2, h3, h4, h5, h6 {
   width: calc(100% - 120px);
   margin: 40px auto;
   padding: 24px 34px;
+
   background: rgba(248,244,238,0.96);
-  border: 4px double #b79b90;
+  border: 3px double #b79b90;
   color: #7a4343;
+
   font-family: Georgia, "Times New Roman", serif;
   font-size: 19px;
   line-height: 1.8;
   font-style: italic;
-  text-align: center;
+
+  text-align: left;
+
   box-sizing: border-box;
   white-space: normal;
   overflow-wrap: break-word;
+}
+
+.botc-note p {
+  margin: 0;
 }
 
 .botc-note::before,
@@ -424,15 +432,15 @@ h1, h2, h3, h4, h5, h6 {
   top: 50%;
   transform: translateY(-50%);
   color: #b79b90;
-  font-size: 44px;
+  font-size: 42px;
 }
 
 .botc-note::before {
-  left: -58px;
+  left: -54px;
 }
 
 .botc-note::after {
-  right: -58px;
+  right: -54px;
 }
 
 @media (max-width: 700px) {
