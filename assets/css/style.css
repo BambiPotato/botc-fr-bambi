@@ -1392,35 +1392,61 @@ hr.explication {
     font-size: 22px;
   }
 }
+
 /* =========================================================
-   TEXTE D'AMBIANCE BOTC — VERSION LISIBLE FINALE
+   TEXTE D'AMBIANCE BOTC
    ========================================================= */
 
 .botc-flavour-text {
-  color: #5C2E1F !important;
-  font-family: "Cormorant Garamond", Georgia, "Times New Roman", serif !important;
-  font-size: 24px !important;
-  line-height: 1.6 !important;
-  letter-spacing: 0.4px !important;
-  font-weight: 600 !important;
-  text-transform: uppercase !important;
-  text-align: left !important;
-  margin: 26px 0 !important;
+  color: #5C2E1F;
+
+  font-family: "Cormorant Garamond", Georgia, "Times New Roman", serif;
+
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 1.72;
+  letter-spacing: 0.7px;
+
+  text-transform: uppercase;
+
+  text-align: left;
+
+  margin: 28px 0;
+
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
 }
 
 .botc-flavour-text.dropcap::first-letter {
   float: left;
-  font-family: "Cormorant Garamond", Georgia, serif !important;
-  font-size: 3.2em;
-  line-height: 0.85;
-  padding-right: 8px;
+
+  font-family: "Cormorant Garamond", Georgia, serif;
+
+  font-size: 3.4em;
   font-weight: 700;
+
+  line-height: 0.78;
+
+  padding-right: 10px;
+  margin-top: 4px;
+
+  color: #5C2E1F;
 }
 
-@media (max-width: 700px) {
-  .botc-flavour-text {
-    font-size: 19px !important;
-    line-height: 1.55 !important;
-    letter-spacing: 0.2px !important;
-  }
+@media (max-width:700px){
+
+.botc-flavour-text{
+
+font-size:19px;
+line-height:1.68;
+letter-spacing:0.4px;
+
+}
+
+.botc-flavour-text.dropcap::first-letter{
+
+font-size:3em;
+
+}
+
 }
