@@ -98,13 +98,7 @@ image: /images/Icon_tinker.png
 
 
 ---
-Le **Bricoleur** peut mourir à tout moment, sans raison apparente. 
 
-- Le **Conteur** peut tuer le **Bricoleur** à tout moment, de jour comme de nuit.  
-- Le Bricoleur **ne peut pas mourir** de son pouvoir s’il est protégé de la mort, par exemple par la [Dame de Thé](damedethe.md), l’[Aubergiste](aubergiste.md) ou le [Pacifiste](pacifiste.md)).  
-- Cette mort ne dépend d’aucune autre capacité en jeu et peut servir à semer la confusion dans la partie.  
-
----
 
 ##  <span style="color:blue">Comment Conter</span>   
 
@@ -123,8 +117,8 @@ Pendant la nuit, le Bricoleur meurt, même si le Démon a attaqué un autre joue
 La [Tisanière](damedethe.md) s’assoit à côté du Bricoleur et d’un autre joueur bon.<br>
 Elle protège ainsi le Bricoleur qui ne peut pas mourir.<br>
 Le Bricoleur ne peut pas mourir à cause de sa capacité.<br>
-Le Bricoleur est attaqué par le Démon. Le Bricoleur ne meurt pas car il est protégé par l’[Aubergiste](aubergiste.md).<br>
-Plus tard dans la nuit, l'[Aubergiste](aubergiste.md) meurt, puis le Conteur décide de tuer le Bricoleur également.
+Le Bricoleur est attaqué par le Démon. Le Bricoleur ne meurt pas car il est protégé par l’ [Aubergiste](aubergiste.md).<br>
+Plus tard dans la nuit, l' [Aubergiste](aubergiste.md) meurt, puis le Conteur décide de tuer le Bricoleur également.
 
 <div class="botc-note">
 - Même si vous pouvez tuer le Bricoleur sans prévenir pendant la journée, il est plus intéressant que le Bricoleur meure pendant la nuit,<br> car les joueurs vont se demander si le Bricoleur est mort à cause de sa capacité ou pour une autre raison.<br>
@@ -144,9 +138,9 @@ Mais cette fragilité peut devenir un **atout d’information** si vous savez en
 ###  Comprendre votre mort  
 
 - Si vous mourez **sans raison claire**, votre mort peut aider le camp du Bien à déduire :
-  - qu’un <span style="color:red">Démon</span> a été **bloqué** par un [Exorciste](exorciste.md) ou un [Aubergiste](aubergiste.md),  
-  - ou qu’il n’y a pas eu de victime naturelle, et que le Conteur a choisi de vous faire mourir pour **brouiller les pistes**.  
-
+  - qu’un Démon a été **choisi** par un [Exorciste](exorciste.md) ou un [Aubergiste](aubergiste.md),  
+  - ou qu’il n’y ait eu aucune mort due à une capacité maléfique et le Conteur a choisi de vous faire mourir pour brouiller les pistes.
+  
 - Si vous mourez **en plein jour**, c’est souvent une bonne nouvelle : tout le monde sait que vous étiez bon !  
   Aucune autre mort spontanée ne peut arriver pendant le jour en dehors d’une exécution.  
 
