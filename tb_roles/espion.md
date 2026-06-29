@@ -151,7 +151,7 @@ puisse facilement voir qui est qui.*
 
 ---
 
-##  <span style="color:red">Stratégie pour l'Espion</span>   
+##  <span style="color:red">Stratégie pour l'Espionne</span>   
 - Vous pouvez avoir un **Excellent bluff** car vous savez exactement quels rôles sont disponibles.  
 - Prétendre être vu comme « bonne » par un rôle d’info (ex :**[<span style="color:blue">Empathe</span>](empathique.md)**) est crédible.  
 - Prétendre être une **Marginale** peut masquer la présence d’un **[<span style="color:red">Baron</span>](baron.md)**.  
