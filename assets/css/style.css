@@ -1348,62 +1348,20 @@ hr.explication {
     font-size: 21px;
   }
 }
-/* =========================================================
-   TEXTE D'AMBIANCE BOTC
-   ========================================================= */
 
-.botc-flavour-text {
-  color: #5C2E1F;
-  font-family: "Cormorant Garamond", Georgia, "Times New Roman", serif;
-  font-size: 24px;
-  line-height: 1.55;
-  letter-spacing: 0.4px;
-  font-weight: 600;
-  text-transform: uppercase;
-  text-align: left;
-  margin: 26px 0;
-}
-
-.botc-flavour-text.dropcap::first-letter {
-  float: left;
-  font-family: "MedievalSharp", "Cormorant Garamond", Georgia, serif;
-  font-size: 3.2em;
-  line-height: 0.85;
-  padding-right: 8px;
-}
-
-.botc-flavour-title {
-  color: #5C2E1F;
-  font-family: "MedievalSharp", Georgia, serif;
-  font-size: 28px;
-  line-height: 1.35;
-  letter-spacing: 1px;
-  text-transform: uppercase;
-}
-
-@media (max-width: 700px) {
-  .botc-flavour-text {
-    font-size: 19px;
-    line-height: 1.55;
-    letter-spacing: 0.2px;
-  }
-
-  .botc-flavour-title {
-    font-size: 22px;
-  }
-}
 /* =========================================================
    FLAVOUR TEXT — Texte d'ambiance BotC
    ========================================================= */
 
 .botc-flavour-text {
-  margin: 1.8em 0;
+  margin: 1.7em 0;
+  max-width: 980px;
 
   font-family: Georgia, "Times New Roman", serif;
   font-size: 21px;
   line-height: 1.62;
 
-  color: #6a3826;
+  color: #603122;
 
   font-style: normal;
   font-weight: 500;
@@ -1414,58 +1372,43 @@ hr.explication {
   text-align: left;
   text-rendering: optimizeLegibility;
 
-  max-width: 980px;
+  text-transform: none;
+  font-variant: normal;
 }
 
 .botc-flavour-text br {
   line-height: 1.62;
 }
 
-
-/* =========================================================
-   Lettrine
-   ========================================================= */
-
+/* Lettrine */
 .botc-flavour-text.dropcap::first-letter {
-
   float: left;
 
   font-family: Georgia, "Times New Roman", serif;
   font-weight: bold;
 
-  font-size: 5.1rem;
-  line-height: .82;
+  font-size: 5rem;
+  line-height: 0.82;
 
-  margin-right: 10px;
-  margin-top: 4px;
+  margin-right: 8px;
+  margin-top: 2px;
 
-  color: #6a3826;
+  color: #603122;
 }
 
-
-/* =========================================================
-   Mobile
-   ========================================================= */
-
+/* Mobile */
 @media (max-width: 700px) {
-
   .botc-flavour-text {
-
     font-size: 18px;
     line-height: 1.55;
-
     letter-spacing: 0.1px;
     word-spacing: normal;
-
-    margin: 1.5em 0;
+    margin: 1.4em 0;
   }
 
   .botc-flavour-text.dropcap::first-letter {
-
-    font-size: 4rem;
-
-    margin-right: 8px;
-    margin-top: 3px;
+    font-size: 3.9rem;
+    margin-right: 7px;
+    margin-top: 2px;
   }
-
 }
