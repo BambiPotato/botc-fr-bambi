@@ -11,19 +11,19 @@ image: /images/Icon_undertaker.png
   </a>
 </p>
 
-#  <span style="color:blue;">Fossoyeur</span>  
+---
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./croquemort.html" style="text-decoration:none;">
-    <img src="../images/Icon_undertaker.png" alt="Croque-Mort" width="350" style="border-radius:8px;">
+    <img src="../images/Icon_undertaker.png" alt="Fossoyeur" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:blue; font-weight:bold; font-size:22px;">Fossoyeur</span>
+    <span style="color:blue; font-weight:bold; font-size:50px;">Fossoyeur</span>
   </a>
 </div>
 
 
----
+<hr class="villageois">
 
 
 ##  <span style="color:blue">Informations</span>
@@ -57,7 +57,8 @@ Un militaire, sans aucun doute. »
 </p>   
 
 
----
+<hr class="villageois">
+
 
 ##  Apparaît dans  
 
@@ -73,10 +74,6 @@ Un militaire, sans aucun doute. »
   </a>
 </div>
 
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-"Cult of the Clocktower – épisode par Andrew Nathenson"
-</p>
 
 ---
 
