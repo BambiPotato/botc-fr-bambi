@@ -11,16 +11,19 @@ image: /images/Icon_imp.png
   </a>
 </p>
 
+---
+
+
 <!-- Image centrée cliquable + nom -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./imp.html" style="text-decoration:none;">
-    <img src="../images/Icon_imp.png" alt="Imp" width="350" style="border-radius:8px;">
+    <img src="../images/Icon_imp.png" alt="Diablotin" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:#d45b5b; font-weight:bold; font-size:22px;">Diablotin</span>
+    <span style="color:#d45b5b; font-weight:bold; font-size:50px;">Diablotin</span>
   </a>
 </div>
 
-<hr>
+<hr class="demon">	
 
 <h2 style="margin-top:10px;">
   <span style="color:#d45b5b; font-weight:bold;">Informations</span>
@@ -54,22 +57,16 @@ Sauf à moi. Vous pouvez me faire confiance. »
   <span style="color:#b58b52; font-weight:bold;">Apparaît dans</span>
 </h2>
 
-<h2 style="margin-top:10px;">
-  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
-</h2>
-
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../trouble_brewing.html" style="text-decoration:none;">
     <img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Trouble Brewing</span>
+    <span style="color:#b58b52; font-weight:bold; font-size:45px;">Trouble Brewing</span>
   </a>
 </div>
 
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  Cult of the Clocktower – épisode par Andrew Nathenson
-</p>
+<hr>
 
 <hr>
 <h2 style="margin-top:10px;">
@@ -109,6 +106,10 @@ Sauf à moi. Vous pouvez me faire confiance. »
   <span style="color:#d45b5b; font-weight:bold;">Comment Conter</span>
 </h2>
 
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p>
+
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; white-space:normal; overflow-wrap:anywhere; word-break:break-word;">
   <li>
     Chaque nuit (sauf la première), réveillez le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>.<br>
@@ -125,14 +126,16 @@ Sauf à moi. Vous pouvez me faire confiance. »
   <li>
     À l’aube, annoncez quel joueur est mort pendant la nuit. (Ne dites pas comment il est mort.)
   </li>
-  <li>
+</ul>
+
+  <div class="botc-note">
     Si le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> attaque un joueur mort la nuit, laissez-le faire.<br>
     Quand une capacité dit <strong>« choisissez un joueur »</strong>, cela signifie n’importe quel joueur : vivant ou mort.<br>
     Le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> peut vouloir bluffer le
     <a href="./soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a>,
     et ce genre de choix peut rendre son bluff plus crédible.
-  </li>
-</ul>
+</div>
+ 
 
 <hr>
 
