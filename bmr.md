@@ -18,11 +18,11 @@ image: /images/Logo_bad_moon_rising-1.png
   <a href="./bmr.html" style="text-decoration:none;">
     <img src="./images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#ffa64d; font-weight:bold; font-size:26px;">Bad Moon Rising</span>
+    <span style="color:#ffa64d; font-weight:bold; font-size:50px;">Bad Moon Rising</span>
   </a>
 </div>
 
-#   <span style="color:#ffa64d; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
+<hr class="explication">
 
 <style>
 @media (max-width: 900px) {
@@ -172,7 +172,8 @@ Les joueurs de <strong>L’ÉQUIPE DU MAL</strong> peuvent se sentir invincibles
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> devra peut-être convaincre l’équipe du Bien qu’un autre <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> est en jeu afin d’éviter les effets dévastateurs de certains rôles bons tels que l’<a href="../bmr_roles/exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a> et le <a href="../bmr_roles/courtisan.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisan</a>, et devra peut-être éviter de tuer pour s’en sortir.<br>
 Si le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> parvient à déterminer qui attaquer et qui éviter (comme les voisins de la <a href="../bmr_roles/damedethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Tisanière</a> ou le <a href="../bmr_roles/fou.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fou du roi</a>), alors l’équipe du Bien se trouvera en difficulté.
- 
+</p> 
+
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Les <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> devront bien synchroniser leurs capacités.<br> 
 Un <a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> qui frappe au bon moment, un <a href="../bmr_roles/avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du diable</a> patient ou un <a href="../bmr_roles/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a> capable de « lire » ses adversaires peuvent arracher la victoire in extremis.
