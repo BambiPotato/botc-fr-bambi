@@ -14,44 +14,32 @@ image: /images/Icon_scarletwoman.png
 
 ---
 
-#  <span style="color:red">Femme Écarlate</span>  
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./femmeecarlate.html" style="text-decoration:none;">
     <img src="../images/Icon_scarletwoman.png" alt="Femme Écarlate" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:red; font-weight:bold; font-size:22px;">Femme Écarlate</span>
+    <span style="color:red; font-weight:bold; font-size:50px;">Femme Écarlate</span>
   </a>
 </div>
 
 
----
+<hr class="sbire">
 
 
 ##  Apparaît dans  
-
-#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
-</p>
-
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../trouble_brewing.html" style="text-decoration:none;">
     <img src="../images/Logo_trouble_brewing.png" alt= "Trouble Brewing" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Trouble Brewing</span>
+    <span style="color:#b58b52; font-weight:bold; font-size:45px;">Trouble Brewing</span>
   </a>
 </div>
 
+<hr class="sbire">
 
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-"Cult of the Clocktower – épisode par Andrew Nathenson"
-</p>
-
----
 ##  <span style="color:#d45b5b">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
@@ -112,17 +100,24 @@ image: /images/Icon_scarletwoman.png
 ---
 
 
-##  <span style="color:red">Comment Conter</span>   
+##  <span style="color:red">Comment Conter</span>  
+
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p>
+
 
 - Si le Démon meurt et qu'il y avait au moins cinq joueurs en vie juste avant sa mort,<br>remplacez le jeton **Femme écarlate**  par un jeton [<span style="color:red">Diablotin</span>](imp.md) supplémentaire pour marquer la transformation de la **Femme écarlate** en [<span style="color:red">Diablotin</span>](imp.md). 
  - (Elle est désormais le Démon et dispose de la capacité du [<span style="color:red">Diablotin</span>](imp.md). Si elle meurt, le Bien gagne.)
  
 - Cette nuit-là, réveillez le nouveau [<span style="color:red">Diablotin</span>](imp.md), montrez-lui la tuile <br>**VOUS ÊTES**, puis montrez-lui le jeton [<span style="color:red">Diablotin</span>](imp.md).
 
-Dans **TROUBLE BREWING**, il n'y a qu'un seul Démon : le [<span style="color:red">Diablotin</span>](imp.md).<br>Dans d'autres modules, il existe plusieurs Démons. Si la **Femme écarlate** devient le Démon, elle devient le même type de Démon que celui qui est mort, et acquiert les capacités de ce Démon. 
 
-- Lorsque cela se produit, marquez la **Femme écarlate** avec le jeton **EST LE DÉMON** et référez-vous aux « Instructions au Conteur dans l'almanach » de ce Démon.
-- Pour plus d'information se référez à la page dédiée au [<span style="color:red">Diablotin</span>](imp.md).
+<div class="botc-note">
+Dans <strong>TROUBLE BREWING</strong>, il n'y a qu'un seul Démon : le [<span style="color:red">Diablotin</span>](imp.md).<br>Dans d'autres modules, il existe plusieurs Démons. Si la <strong>emme écarlate</strong> devient le Démon, elle devient le même type de Démon que celui qui est mort, et acquiert les capacités de ce Démon.<br> 
+Lorsque cela se produit, marquez la <strong>Femme écarlate</strong> avec le jeton <strong>EST LE DÉMON</strong> et référez-vous aux <strong>« Instructions au Conteur dans l'almanach »</strong> de ce Démon.<br> 
+Pour plus d'information se référez à la page dédiée au <strong>[<span style="color:red">Diablotin</span>](imp.md)</strong>.
+</div> 
 
 ---
 
