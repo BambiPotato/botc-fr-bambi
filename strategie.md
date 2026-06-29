@@ -26,7 +26,7 @@ image: /images/logogold.png
 « Suivez votre cœur… mais gardez la tête froide. »
 </p>
 
-<hr>
+<hr class="explication">
 
 <h2 style="color:#5C2E1F;"> Sommaire</h2>
 <ol style="color:#5C2E1F;">
