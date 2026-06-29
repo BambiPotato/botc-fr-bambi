@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700&display=swap');
 /* =========================================================
    /assets/css/style.css — VERSION STABLE COMPLÈTE
    ========================================================= */
@@ -1345,5 +1346,40 @@ hr.explication {
   hr.loric::before,
   hr.explication::before {
     font-size: 21px;
+  }
+}
+/* =========================================================
+   TEXTE D'AMBIANCE BOTC
+   ========================================================= */
+
+.botc-flavour-text {
+  color: #5C2E1F;
+  font-family: "Cinzel Decorative", Georgia, "Times New Roman", serif;
+  font-size: 22px;
+  line-height: 1.55;
+  letter-spacing: 1px;
+  font-weight: 400;
+  text-transform: uppercase;
+  text-align: left;
+  margin: 26px 0;
+}
+
+.botc-flavour-text.dropcap::first-letter {
+  float: left;
+  font-size: 3.4em;
+  line-height: 0.85;
+  padding-right: 8px;
+  font-weight: 700;
+}
+
+@media (max-width: 700px) {
+  .botc-flavour-text {
+    font-size: 17px;
+    line-height: 1.55;
+    letter-spacing: 0.5px;
+  }
+
+  .botc-flavour-text.dropcap::first-letter {
+    font-size: 2.8em;
   }
 }
