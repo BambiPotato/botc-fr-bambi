@@ -112,24 +112,23 @@ image: /images/Logo_trouble_brewing.png
 ## <span id="synopsis" style="color:#b58b52;">Synopsis</span>
 
 <p class="botc-flavour-text dropcap">
-LE CIEL EST MENAÇANT AU-DESSUS DE RAVENSWOOD.<br>
-UNE OMBRE INQUIÉTANTE S’ÉTEND SUR LA VILLE ENDORMIE, RÉVEILLANT LES CRAINTES DES PLUS SUPERSTITIEUX.<br>
-LE LINGE ÉTENDU SUR LES CORDES, DANS LES JARDINS, SEMBLE DANSER UN ÉTRANGE BALLET.<br>
-D’ÉPAISSES FUMÉES S’ÉLÈVENT DEPUIS LES CHEMINÉES DES MAISONS.<br>
-DES SENTEURS EXOTIQUES FILTRENT PAR LES FENÊTRES ENTROUVERTES ET LES SEUILS DE PORTE, TRAHISSANT LA PRÉSENCE DE CHAUDRONS CACHÉS.<br>
-UNE BRISE AUTOMNALE ÉTONNAMMENT TIÈDE VIENT CARESSER LES MURS COUVERTS DE LIERRE TANDIS QU’UN MURMURE RÉSONNE AUX OREILLES DE CEUX QUI OSENT S’AVENTURER SUR LES PAVÉS DES RUELLES.
+Le ciel est menaçant au-dessus de Ravenswood.<br>
+Une ombre inquiétante s’étend sur la ville endormie, réveillant les craintes des plus superstitieux.<br>
+Le linge étendu sur les cordes, dans les jardins, semble danser un étrange ballet.<br>
+D’épaisses fumées s’élèvent depuis les cheminées des maisons.<br>
+Des senteurs exotiques filtrent par les fenêtres entrouvertes et les seuils de porte, trahissant la présence de chaudrons cachés.<br>
+Une brise automnale étonnamment tiède vient caresser les murs couverts de lierre tandis qu’un murmure résonne aux oreilles de ceux qui osent s’aventurer sur les pavés des ruelles.
 </p>
 
-<p class="botc-flavour-text dropcap">
-INQUIÈTES, DES MÈRES RAPPELLENT LEURS ENFANTS À LA MAISON, ALORS QUE LE TONNERRE COMMENCE À GRONDER À L'HORIZON.<br>
-MAIS EN ÉCOUTANT ATTENTIVEMENT, DES BRUITS ENCORE PLUS ÉTRANGES PROVIENNENT DE LA FORÊT TOUTE PROCHE.<br>
-SOUS LE CLOCHER D’UN MONASTÈRE QUI DOMINE LA RÉGION, DES SILHOUETTES ENCAPUCHONNÉES SEMBLENT BONDIR D’UNE PORTE À L’AUTRE.
+<p class="botc-flavour-text">
+Inquiètes, des mères rappellent leurs enfants à la maison, alors que le tonnerre commence à gronder à l'horizon.<br>
+Mais en écoutant attentivement, des bruits encore plus étranges proviennent de la forêt toute proche.<br>
+Sous le clocher d’un monastère qui domine la région, des silhouettes encapuchonnées semblent bondir d’une porte à l’autre.
 </p>
 
-<p class="botc-flavour-text dropcap">
-CEUX QUI PEUVENT LIRE LES SIGNES SAVENT QUE LES GERMES DE LA DISCORDE NE SONT PAS LOIN...
+<p class="botc-flavour-text">
+Ceux qui peuvent lire les signes savent que les germes de la discorde ne sont pas loin…
 </p>
-
 
 ---
 
