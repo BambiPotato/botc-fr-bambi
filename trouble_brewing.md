@@ -20,7 +20,6 @@ image: /images/Logo_trouble_brewing.png
   </a>
 </div>
 
-
 <style>
 @media (max-width: 768px) {
   #liste-roles {
@@ -87,9 +86,7 @@ image: /images/Logo_trouble_brewing.png
   </ul>
 </div>
 
-
 <hr class="explication">
-
 
 ##  <span style="color:#b58b52;">Sommaire</span>
 
@@ -114,22 +111,22 @@ image: /images/Logo_trouble_brewing.png
 
 ## <span id="synopsis" style="color:#b58b52;">Synopsis</span>
 
-<p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
-LE CIEL EST MENAÇANT AU-DESSUS DE RAVENSWOOD.<br> 
+<p style="text-align:left; color:#5C2E1F; font-family:'Cinzel Decorative','Cinzel',Georgia,serif; font-size:22px; line-height:1.45; letter-spacing:1px; font-weight:400;">
+LE CIEL EST MENAÇANT AU-DESSUS DE RAVENSWOOD.<br>
 UNE OMBRE INQUIÉTANTE S’ÉTEND SUR LA VILLE ENDORMIE, RÉVEILLANT LES CRAINTES DES PLUS SUPERSTITIEUX.<br>
 LE LINGE ÉTENDU SUR LES CORDES, DANS LES JARDINS, SEMBLE DANSER UN ÉTRANGE BALLET.<br>
-D’ÉPAISSES FUMÉES S’ÉLÈVENT DEPUIS LES CHEMINÉES DES MAISONS.<br> 
-DES SENTEURS EXOTIQUES FILTRENT PAR LES FENÊTRES ENTROUVERTES ET LES SEUILS DE PORTE, TRAHISSANT LA PRÉSENCE DE CHAUDRONS CACHÉS.<br> 
+D’ÉPAISSES FUMÉES S’ÉLÈVENT DEPUIS LES CHEMINÉES DES MAISONS.<br>
+DES SENTEURS EXOTIQUES FILTRENT PAR LES FENÊTRES ENTROUVERTES ET LES SEUILS DE PORTE, TRAHISSANT LA PRÉSENCE DE CHAUDRONS CACHÉS.<br>
 UNE BRISE AUTOMNALE ÉTONNAMMENT TIÈDE VIENT CARESSER LES MURS COUVERTS DE LIERRE TANDIS QU’UN MURMURE RÉSONNE AUX OREILLES DE CEUX QUI OSENT S’AVENTURER SUR LES PAVÉS DES RUELLES.
 </p>
 
-<p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
-INQUIÈTES, DES MÈRES RAPPELLENT LEURS ENFANTS À LA MAISON, ALORS QUE LE TONNERRE COMMENCE À GRONDER À L'HORIZON.<br>  
-MAIS EN ÉCOUTANT ATTENTIVEMENT, DES BRUITS ENCORE PLUS ÉTRANGES PROVIENNENT DE LA FORÊT TOUTE PROCHE.<br>  
+<p style="text-align:left; color:#5C2E1F; font-family:'Cinzel Decorative','Cinzel',Georgia,serif; font-size:22px; line-height:1.45; letter-spacing:1px; font-weight:400;">
+INQUIÈTES, DES MÈRES RAPPELLENT LEURS ENFANTS À LA MAISON, ALORS QUE LE TONNERRE COMMENCE À GRONDER À L'HORIZON.<br>
+MAIS EN ÉCOUTANT ATTENTIVEMENT, DES BRUITS ENCORE PLUS ÉTRANGES PROVIENNENT DE LA FORÊT TOUTE PROCHE.<br>
 SOUS LE CLOCHER D’UN MONASTÈRE QUI DOMINE LA RÉGION, DES SILHOUETTES ENCAPUCHONNÉES SEMBLENT BONDIR D’UNE PORTE À L’AUTRE.
 </p>
 
-<p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
+<p style="text-align:left; color:#5C2E1F; font-family:'Cinzel Decorative','Cinzel',Georgia,serif; font-size:22px; line-height:1.45; letter-spacing:1px; font-weight:400;">
 CEUX QUI PEUVENT LIRE LES SIGNES SAVENT QUE LES GERMES DE LA DISCORDE NE SONT PAS LOIN...
 </p>
 
