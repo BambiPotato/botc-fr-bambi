@@ -17,20 +17,19 @@ image: /images/Icon_drunk-1.png
   </a>
 </p>
 
-<h2 style="margin-top:8px;">
-  <span style="color:#4ea3ff; font-weight:bold;">Ivrogne</span>
-</h2>
+<hr>
+
 
 <!-- Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin:20px 0;">
   <a href="./ivrogne.html" style="text-decoration:none;">
     <img src="../images/Icon_drunk-1.png" alt="Ivrogne" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:#4ea3ff; font-weight:bold; font-size:22px;">Ivrogne</span>
+    <span style="color:#4ea3ff; font-weight:bold; font-size:50px;">Ivrogne</span>
   </a>
 </div>
 
-<hr>
+<hr class="marginal">
 
 <h3 style="color:#4ea3ff; font-weight:bold;"> Informations</h3>
 
@@ -57,21 +56,16 @@ image: /images/Icon_drunk-1.png
 
 <h3> Apparaît dans</h3>
 
-<h2 style="color:#b58b52; font-weight:bold; font-size:42px; margin-bottom:6px;">Trouble Brewing</h2>
-
 <div style="text-align:center; margin:20px 0;">
   <a href="../trouble_brewing.html" style="text-decoration:none;">
     <img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Trouble Brewing</span>
+    <span style="color:#b58b52; font-weight:bold; font-size:45px;">Trouble Brewing</span>
   </a>
 </div>
 
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin:4px 0 0;">
-  Cult of the Clocktower – épisode par Andrew Nathenson
-</p>
-
 <hr>
+
 
 <h3 style="color:#4ea3ff; font-weight:bold;"> Résumé</h3>
 
@@ -102,6 +96,10 @@ image: /images/Icon_drunk-1.png
 <hr>
 
 <h3 style="color:#4ea3ff; font-weight:bold;"> Comment Conter</h3>
+
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
