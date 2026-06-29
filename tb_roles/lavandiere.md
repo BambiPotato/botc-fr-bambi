@@ -11,18 +11,18 @@ image: /images/Icon_washerwoman.png
   </a>
 </p>
 
-<h2 style="margin-top:8px;"> <span style="color:#6fa8ff; font-weight:bold;">Lavandière</span></h2>
+<hr>
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin:20px 0;">
   <a href="./lavandiere.html" style="text-decoration:none;">
     <img src="../images/Icon_washerwoman.png" alt="Lavandière" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:#6fa8ff; font-weight:bold; font-size:22px;">Lavandière</span>
+    <span style="color:#6fa8ff; font-weight:bold; font-size:50px;">Lavandière</span>
   </a>
 </div>
 
-<hr>
+<hr class="villageois">
 
 <h3 style="color:#6fa8ff; font-weight:bold;"> Informations</h3>
 
@@ -43,26 +43,18 @@ image: /images/Icon_washerwoman.png
   Ou alors, c’est de la sauce. C’est encore pire ! ».
 </p>
 
-<hr>
+<hr class="villageois">
 
 <h3> Apparaît dans</h3>
 
-<h2 style="color:#b58b52; font-weight:bold; font-size:42px; margin-bottom:6px;">Trouble Brewing</h2>
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-6px;">
-  « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
-</p>
 
 <div style="text-align:center; margin:18px 0 8px;">
   <a href="../trouble_brewing.html" style="text-decoration:none;">
     <img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Trouble Brewing</span>
+    <span style="color:#b58b52; font-weight:bold; font-size:45px;">Trouble Brewing</span>
   </a>
 </div>
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin:4px 0 0;">
-  « Cult of the Clocktower – épisode par Andrew Nathenson »
-</p>
 
 <hr>
 
@@ -87,6 +79,11 @@ image: /images/Icon_washerwoman.png
 <hr>
 
 <h3 style="color:#6fa8ff; font-weight:bold;"> Comment conter</h3>
+
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p>
+
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li><strong>Lors de la préparation de la première nuit, placez le jeton de rappel</strong> :
