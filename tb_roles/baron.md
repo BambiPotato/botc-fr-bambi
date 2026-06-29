@@ -30,7 +30,6 @@ parchment: true
 <hr class="sbire">
 
 
-
 ##  <span style="color:red">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
@@ -78,8 +77,7 @@ Rien de tel que la vertu du labeur pour se remettre dans le droit chemin.<br>
   </a>
 </div>
 
-<hr class="sbire">
-
+---
 
 ##  <span style="color:red">Résumé</span>
 
