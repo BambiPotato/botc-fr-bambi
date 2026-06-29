@@ -150,7 +150,7 @@ Dans <strong><span style="color:#b58b52;">TROUBLE BREWING</span></strong>, la ch
 
 <p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
  Niveau : <strong>DÉBUTANT</strong><br>
-<em>Recommandé pour les joueurs et Conteurs débutants, ou pour celles et ceux qui découvrent les jeux de déduction sociale.</em>
+<strong><em>Recommandé pour les joueurs et Conteurs débutants, ou pour celles et ceux qui découvrent les jeux de déduction sociale.</em></strong>
 </p>
 
 <p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
