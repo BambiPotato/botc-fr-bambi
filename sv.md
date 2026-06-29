@@ -17,13 +17,10 @@ image: /images/Logo_sects_and_violets.png
   <a href="./sv.html" style="text-decoration:none;">
     <img src="./images/Logo_sects_and_violets.png" alt="Sects & Violets" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#d67bff; font-weight:bold; font-size:22px;">Sects & Violets</span>
+    <span style="color:#d67bff; font-weight:bold; font-size:50px;">Sects & Violets</span>
   </a>
 </div>
 
-<p style="text-align:center; color:#d67bff; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Quand la beauté fleurit, la folie n’est jamais loin… »
-</p>
 
 <style>
 @media (max-width: 900px) {
@@ -96,7 +93,7 @@ image: /images/Logo_sects_and_violets.png
   </ul>
 </div>
 
----
+<hr class="explication">
 
 ##  <span style="color:#d67bff; ">Sommaire</span>
 
@@ -114,41 +111,66 @@ image: /images/Logo_sects_and_violets.png
 
 ##  <span style="color:#d67bff;">Synopsis</span>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le printemps vibrant laisse place à un été doux et accueillant.  
-Des fleurs de toutes sortes s’épanouissent à perte de vue, soigneusement entretenues dans les jardins publics et les jardinières suspendues le long de la promenade.  
-Les oiseaux chantent, les artistes peignent, et les philosophes méditent sur les grands mystères de la vie dans une taverne animée, tandis qu’un cirque dresse son chapiteau coloré à la lisière de la ville.
+<p class="botc-flavour-text dropcap">
+L’éclat du printemps laisse progressivement sa place à la chaleur de l’été.<br> 
+Des fleurs de toutes sortes s’ouvrent dans les prairies et les jardins, aux balcons des fenêtres et le long des chemins environnants. Les oiseaux chantent, les artistes peignent, et les philosophes réfléchissent aux plus grands mystères de la vie.<br>  
+Non loin d’une auberge animée, aux confins de la ville, un cirque plante sa tente en lambeaux.<br><br> 
+
+Les villageois insouciants ont l’esprit frivole et l’œil vif.<br> 
+Ils se plongent dans les délices de la vie en dégustant du bon vin, sans se douter que des forces obscures se rassemblent au sein même des leurs.<br> 
+Sorcières et cultistes ont élu domicile dans les ruines qui jouxtent la ville. <br> 
+Dans les caves souterraines, des réunions secrètes préparent la chute de Ravenswood et de ses infortunés habitants.<br> <br>  
+Le temps du châtiment est venu…
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Alors que les villageois profitent de la frivolité et des festivités, se laissant aller au vin et aux rires, des forces sombres se rassemblent dans l’ombre.  
-Sorcières et cultistes rôdent dans les ruines majestueuses qui bordent la cité, organisant des réunions secrètes dans les cavernes souterraines et complotant avec malveillance la chute de Ravenswood Bluff et de ses habitants insouciants.
-</p>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le moment est venu pour... <span style="color:#d67bff; font-weight:bold;">Sects & Violets</span>.
-</p>
 
 ---
 
 ##  <span style="color:#d67bff;">Gameplay</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<span style="color:#d67bff; font-weight:bold;">Sects & Violets</span> est l’édition la plus folle et imprévisible des trois.  
-Les <span style="color:blue;">Villageois</span> reçoivent chaque nuit des informations puissantes, mais l’équipe du <span style="color:#d45b5b;">Mal</span> dispose d’outils terriblement variés pour semer la confusion.
+<span style="color:#d67bff; font-weight:bold;">Sects & Violets</span>  <strong>EST LE PLUS FOU DES TROIS MODULES</strong> inclus dans la série de base.<br>  
+Les joueurs de l’équipe du Bien sont capables de recevoir des informations fascinantes chaque nuit.<br>   
+Cependant, l’équipe du Mal, très variée, peut riposter en semant la confusion la plus totale.<br>   
+Les rôles peuvent changer d’alignement.<br>  
+Les joueurs peuvent changer de rôle.<br>  
+Même l’équipe du Mal peut perdre la trace de qui est qui.<br> 
+C’est également la première apparition de la folie, qui force tous les joueurs à composer avec ce nouvel élément.
+</p>
+
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+ Niveau : <strong>INTERMÉDIAIRE.</strong><br>
+<strong><em>Recommandé pour les joueurs qui veulent repousser leurs limites au-delà de l’inattendu et dépasser ce que l’on peut attendre d’un « simple » jeu de déduction sociale.</em></strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Les rôles changent d’alignement.  
-Les joueurs changent de rôle.  
-Même les <span style="color:#d45b5b;">Maléfiques</span> peuvent perdre le fil de qui est qui.  
-C’est aussi la première apparition de la <strong>Folie</strong>, qui peut complètement bouleverser la partie.
+Lorsque vous jouez le module <span style="color:#d67bff; font-weight:bold;">SECTS & VIOLETS</span>...
 </p>
 
-<p style="color:#d67bff; font-size:19px; font-weight:bold;">
- Niveau : <strong>Intermédiaire à Avancé</strong><br>
-<em>*Recommandé pour les joueurs et joueuses aimant le chaos, la folie; les retournements inattendus et les défis logiques audacieux.*</em>
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+Les joueurs de <strong>L’ÉQUIPE DU BIEN</strong> auront presque toujours trop d’informations pour savoir quoi en faire.<br> 
+Contrairement à <span style="color:#b58b52; font-weight:bold;">TROUBLE BREWING</span>, où la plupart des informations sont fiables, dans <span style="color:#d67bff; font-weight:bold;">SECTS & VIOLETS</span>, l’équipe du Bien aura besoin d’identifier le Démon qui est en jeu pour commencer à comprendre ce qui se passe.<br>
+S’il y a un <a href="./sv_roles/fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a> en jeu, c’est une véritable course qui s’engage, dans la mesure où s’il attaque un Marginal, c’est lui qui deviendra le nouveau Démon, et tout sera à recommencer.<br>
+S’il y a un <a href="./sv_roles/nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a> en jeu, deux Villageois sont empoisonnés, mais si l’équipe du Bien parvient à les identifier, elle aura trouvé le Démon.
+S’il y a un <a href="./sv_roles/vigormortis.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vigormortis</a> en jeu et qu’un Sbire meurt la nuit, un Villageois voisin sera empoisonné.<br>
+Enfin, s’il y a un <a href="./sv_roles/vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a> en jeu, toutes les informations sont fausses.<br>
+Une fois que l’équipe du Bien aura distingué les vraies informations des fausses, ils pourront faire leurs propres déductions à partir de ce qu’ils savaient ou croyaient savoir et progresser vers la vérité.
 </p>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+Mais ce n’est pas si simple, car les Marginaux (et même certains Villageois) auront tendance à mentir sur leur propre rôle pendant une bonne partie du jeu.	<br>  
+Un Marginal qui meurt peut sérieusement désavantager l’équipe du Bien.<br> 
+Pour le Démon, c’est en général une bonne idée de les cibler en premier.
+</p>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+Les joueurs de <strong>L’ÉQUIPE DU MAL</strong>  voudront tuer ou éliminer dès que possible la menace que représentent les Villageois les plus dangereux.<br> 
+Les Démons ne peuvent tuer qu’une seule fois par nuit, mais les Sbires tels que la <a href="./sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a>, la <a href="./sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> et le <a href="./sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a> peuvent contribuer à éclaircir les rangs de l’équipe du Bien en étant joués intelligemment.	<br> 
+Les joueurs maléfiques doivent aussi faire attention aux informations qu’ils donnent au groupe, car certains joueurs seront capables de faire les déductions nécessaires s’ils parviennent à identifier le Démon qui est en jeu.
+</p>
+
+
 
 ---
 
