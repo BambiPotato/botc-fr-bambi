@@ -68,7 +68,6 @@ Sauf à moi. Vous pouvez me faire confiance. »
 
 <hr>
 
-<hr>
 <h2 style="margin-top:10px;">
   <span style="color:#d45b5b; font-weight:bold;">Résumé</span>
 </h2>
@@ -114,28 +113,28 @@ Instructions au Conteur
   <li>
     Chaque nuit (sauf la première), réveillez le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>.<br>
     Le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> pointe un joueur.<br>
-    Rendormez le <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span>.<br>
+    Rendormez le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>.<br>
     Le joueur choisi meurt : placez le rappel <strong>MORT</strong> du <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> à côté du jeton de rôle de la cible dans le Grimoire et placez un linceul.
   </li>
+
   <li>
-    Si le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> s’est tué la nuit, choisissez un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> vivant et remplacez son jeton de rôle
-    par un jeton <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> de réserve, changeant son rôle en <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span>.<br>
-    Réveillez le nouveau <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span>, montrez-lui la tuile d’info <strong>« VOUS ÊTES »</strong>, puis montrez-lui le jeton <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a><br>
+    Si le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> s’est tué la nuit, choisissez un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> vivant et remplacez son jeton de rôle par un jeton <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> de réserve, changeant son rôle en <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>.<br>
+    Réveillez le nouveau <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>, montrez-lui la tuile d’info <strong>« VOUS ÊTES »</strong>, puis montrez-lui le jeton <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>.<br>
     Rendormez le nouveau <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>.
   </li>
+
   <li>
     À l’aube, annoncez quel joueur est mort pendant la nuit. (Ne dites pas comment il est mort.)
   </li>
 </ul>
 
-  <div class="botc-note">
-    Si le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> attaque un joueur mort la nuit, laissez-le faire.<br>
-    Quand une capacité dit <strong>« choisissez un joueur »</strong>, cela signifie n’importe quel joueur : vivant ou mort.<br>
-    Le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> peut vouloir bluffer le
-    <a href="./soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a>,
-    et ce genre de choix peut rendre son bluff plus crédible.
+<div class="botc-note">
+  Si le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> attaque un joueur mort la nuit, laissez-le faire.<br>
+  Quand une capacité dit <strong>« choisissez un joueur »</strong>, cela signifie n’importe quel joueur : vivant ou mort.<br>
+  Le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> peut vouloir bluffer le
+  <a href="./soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a>,
+  et ce genre de choix peut rendre son bluff plus crédible.
 </div>
- 
 
 <hr>
 
