@@ -152,40 +152,39 @@ Les équipes du Bien comme du Mal peuvent prendre l’avantage grâce à des sac
 Dans <strong><span style="color:#b58b52;">TOUBLE BREWING</span></strong>, la chasse au Démon est relativement directe,<br> mais l’équipe du Mal dispose de nombreux outils de désinformation et les joueurs de l’équipe du Bien devront donc remettre en question ce qu’ils pensent savoir s’ils espèrent survivre.
 </p>
 
-<p style="text-align:left; color:#b58b52; font-size:18px; font-weight:bold;">
+<p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
  Niveau : <strong>DÉBUTANT</strong><br>
 <em>Recommandé pour les joueurs et Conteurs débutants, ou pour celles et ceux qui découvrent les jeux de déduction sociale.</em>
 </p>
 
-<p style="text-align:left; color:#b58b52; font-size:18px; font-weight:bold;">
+<p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
 Lorsque vous jouez le module <strong><span style="color:#b58b52;">TOUBLE BREWING</span></strong>...
 </p>
 
-<p style="text-align:left; color:#b58b52; font-size:18px; font-weight:bold;">
+<p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
 Les joueurs de L’ÉQUIPE DU BIEN devront déterminer qui est bon et qui est maléfique en utilisant leur logique et leur intuition.<br>
-Certains joueurs voudront sans doute révéler immédiatement leur rôle et partager ce qu’ils savent, comme le Cuisinier ou le Détective,<br>tandis que d'autres tels que le Fossoyeur ou la Voyante préféreront mentir sur leur identité afin de ne pas se faire attaquer par le Diablotin, qui est le Démon de ce script.<br>
-D’autres comme la Corneille ou le Soldat pourront mentir sur leur rôle précisément pour que le Diablotin les attaque.
+Certains joueurs voudront sans doute révéler immédiatement leur rôle et partager ce qu’ils savent, comme le <a href="./tb_roles/cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a> ou le <a href="./tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a>,<br>tandis que d'autres tels que le <a href="./tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a> ou la <a href="./tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> préféreront mentir sur leur identité afin de ne pas se faire attaquer par le <a href="./tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>, qui est le <a href="./demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> de ce script.<br>
+D’autres comme la <a href="./tb_roles/gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a> ou le <a href="./tb_roles/soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a> pourront mentir sur leur rôle précisément pour que le <a href="./tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> les attaque.
 </p>
 
-<p style="text-align:left; color:#b58b52; font-size:18px; font-weight:bold;">
+<p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
 Enfin, certains rôles bons obtiennent des informations en faisant quelque chose et en notant l’effet ainsi produit.<br> 
-Sacrifier sa vie en nommant une Immaculée, tenter de tuer le Diablotin en tant que Pourfendeuse et observer ce qui se passe,.<br> ou tuer délibérément des joueurs de l’équipe du Bien afin que le Fossoyeur puisse confirmer leur rôle sont autant de sacrifices possibles pour obtenir des informations et remporter la victoire.
+Sacrifier sa vie en nommant une <a href="./tb_roles/vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Immaculée</a>, tenter de tuer le <a href="./tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> en tant que <a href="./tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a> et observer ce qui se passe,.<br> ou tuer délibérément des joueurs de l’équipe du Bien afin que le <a href="./tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a> puisse confirmer leur rôle sont autant de sacrifices possibles pour obtenir des informations et remporter la victoire.
 </p>
 
-<p style="text-align:left; color:#b58b52; font-size:18px; font-weight:bold;">
+<p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
 Les joueurs de <strong>L’ÉQUIPE DU MAL</strong> devront se faire passer pour des rôles bons et le faire de manière convaincante,<br>  en donnant de fausses informations pour semer la confusion dans l'équipe du Bien si nécessaire.
 Si le l’équipe du Bien n’obtient que de vraies informations, il y a fort à parier qu’elle identifiera les joueurs maléfiques très rapidement.<br> 
-Mais il suffit d’un soupçon de mensonge pour que le Mal se donne de sérieuses chances de victoire. L’Empoisonneur et l’Espionne, en prêtant attention,<br>  peuvent créer une pagaille sans nom dans les rangs du Bien en utilisant astucieusement leur capacité.<br> 
+Mais il suffit d’un soupçon de mensonge pour que le Mal se donne de sérieuses chances de victoire. L’<a href="./tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> et l’<a href="./tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a>, en prêtant attention,<br>  peuvent créer une pagaille sans nom dans les rangs du Bien en utilisant astucieusement leur capacité.<br> 
 Le Mal devra également décider quand faire des sacrifices.<br> 
-La Femme écarlate tuera-t-elle le Diablotin pour sauver son équipe ? <br> 
-Le Diablotin va-t-il se tuer lui-même pour transformer un joueur plus fiable en Démon ? <br> 
-Les joueurs maléfiques voteront-ils pour exécuter un Sbire trop suspect afin d’endormir les soupçons de leurs adversaires ? <br> 
+La <a href="./tb_roles/femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme écarlate</a> tuera-t-elle le <a href="./tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> pour sauver son équipe ? <br> 
+Le <a href="./tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> va-t-il se tuer lui-même pour transformer un joueur plus fiable en <a href="./demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> ? <br> 
+Les joueurs maléfiques voteront-ils pour exécuter un <a href="./sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> trop suspect afin d’endormir les soupçons de leurs adversaires ? <br> 
 </p>
-
 
 ---
 
-<p style="text-align:left; color:#e0c99d; font-size:20px;">
+<p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
   <a id="villageois" href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
 </p>
 
