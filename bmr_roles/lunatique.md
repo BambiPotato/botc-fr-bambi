@@ -37,7 +37,8 @@ image: /images/Icon_lunatic.png
 </div>
 
 
----
+<hr class="marginal">
+
 
 <h2 style="color:#4ea3ff; font-weight:bold;">Informations</h2>
 
@@ -69,7 +70,7 @@ image: /images/Icon_lunatic.png
 </p>
 
 
----
+<hr class="marginal">
 
 
 ##  Apparaît dans  
