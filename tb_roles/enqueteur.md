@@ -19,39 +19,27 @@ image: /images/Icon_investigator.png
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./enqueteur.html" style="text-decoration:none;">
-    <img src="../images/Icon_investigator.png" alt="Enquêteur" width="350" style="border-radius:8px;">
+    <img src="../images/Icon_investigator.png" alt="Détective" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:blue; font-weight:bold; font-size:22px;">Détective</span>
+    <span style="color:blue; font-weight:bold; font-size:50px;">Détective</span>
   </a>
 </div>
 
----
+hr class="villageois">
 
 ##  Apparaît dans  
-
-#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
-</p>
-
-
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../trouble_brewing.html" style="text-decoration:none;">
     <img src="../images/Logo_trouble_brewing.png" alt= "Trouble Brewing" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Trouble Brewing</span>
+    <span style="color:#b58b52; font-weight:bold; font-size:45px;">Trouble Brewing</span>
   </a>
 </div>
 
 
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-"Cult of the Clocktower – épisode par Andrew Nathenson"
-</p>
+<hr class="villageois">
 
-
----
  
 ##  <span style="color:blue">Informations</span>
 
@@ -85,6 +73,8 @@ Ou devrais-je dire... Monsieur le Baron ? »
 </p>   
 
 ---
+
+
 ##  <span style="color:blue">Résumé</span>
 **« Lors de votre première nuit, vous apprenez un rôle de [<span style="color:red">Sbire</span>](../sbires.md) en jeu parmi 2 joueurs.»** 
 
@@ -96,6 +86,11 @@ Ou devrais-je dire... Monsieur le Baron ? »
 
 
 ##  <span style="color:blue">Comment Conter</span>  
+
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p>
+
 
 - Lors de la préparation de la première nuit, placez le jeton **<span style="color:red">SBIRE</span>** du Détective à côté du jeton de rôle d’un [<span style="color:red">Sbire</span>](../sbires.md),<br> et placez le jeton **FAUSSE PISTE** du Détective à côté d’un autre jeton de rôle.
 
