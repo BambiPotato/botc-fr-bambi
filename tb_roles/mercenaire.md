@@ -24,7 +24,8 @@ image: /images/Icon_slayer.png
 </div>
 
 
----
+<hr class="villageois">
+
 
 ##  <span style="color:blue">Informations</span>
 
@@ -68,8 +69,7 @@ image: /images/Icon_slayer.png
   </a>
 </div>
 
-
-<hr class="villageois">
+<hr>
 
 
 ##  <span style="color:blue">Résumé</span>
