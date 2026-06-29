@@ -1397,18 +1397,23 @@ hr.explication {
    ========================================================= */
 
 .botc-flavour-text {
-  font-family: "Cinzel Decorative", Georgia, serif;
+  font-family: "Cinzel", Georgia, "Times New Roman", serif;
   font-size: 20px;
-  line-height: 1.5;
-  letter-spacing: 0.35px;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1.55;
+  letter-spacing: 0.15px;
   color: #5C2E1F;
   text-align: left;
   margin: 1.4em 0;
+  text-transform: none;
 }
 
 .botc-flavour-text.dropcap::first-letter {
   float: left;
-  font-size: 4.2em;
+  font-family: "Cinzel Decorative", Georgia, serif;
+  font-size: 4.1em;
+  font-weight: 400;
   line-height: 0.82;
   padding-right: 10px;
   padding-top: 2px;
@@ -1418,8 +1423,7 @@ hr.explication {
 @media (max-width: 700px) {
   .botc-flavour-text {
     font-size: 18px;
-    line-height: 1.45;
-    letter-spacing: 0.25px;
+    line-height: 1.5;
   }
 
   .botc-flavour-text.dropcap::first-letter {
@@ -1427,4 +1431,3 @@ hr.explication {
     padding-right: 8px;
   }
 }
-
