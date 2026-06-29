@@ -91,7 +91,7 @@ image: /images/Logo_bad_moon_rising-1.png
   </ul>
 </div>
 
----
+
 
 ##  <span style="color:#ffa64d;">Sommaire</span>
 
@@ -179,7 +179,10 @@ Les <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decora
 Un <a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> qui frappe au bon moment, un <a href="../bmr_roles/avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du diable</a> patient ou un <a href="../bmr_roles/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a> capable de « lire » ses adversaires peuvent arracher la victoire in extremis.
 </p> 
 
+
+
 ----
+
 
 
 <!-- VILLAGEOIS -->
