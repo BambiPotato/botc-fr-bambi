@@ -119,7 +119,7 @@ Non loin d’une auberge animée, aux confins de la ville, un cirque plante sa t
 Les villageois insouciants ont l’esprit frivole et l’œil vif.<br> 
 Ils se plongent dans les délices de la vie en dégustant du bon vin, sans se douter que des forces obscures se rassemblent au sein même des leurs.<br> 
 Sorcières et cultistes ont élu domicile dans les ruines qui jouxtent la ville. <br> 
-Dans les caves souterraines, des réunions secrètes préparent la chute de Ravenswood et de ses infortunés habitants.<br> <br>  
+Dans les caves souterraines, des réunions secrètes préparent la chute de Ravenswood et de ses infortunés habitants.<br>   
 Le temps du châtiment est venu…
 </p>
 
@@ -130,11 +130,11 @@ Le temps du châtiment est venu…
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <span style="color:#d67bff; font-weight:bold;">Sects & Violets</span>  <strong>EST LE PLUS FOU DES TROIS MODULES</strong> inclus dans la série de base.<br>  
-Les joueurs de l’équipe du Bien sont capables de recevoir des informations fascinantes chaque nuit.<br>   
-Cependant, l’équipe du Mal, très variée, peut riposter en semant la confusion la plus totale.<br>   
-Les rôles peuvent changer d’alignement.<br>  
-Les joueurs peuvent changer de rôle.<br>  
-Même l’équipe du Mal peut perdre la trace de qui est qui.<br> 
+Les joueurs de l’équipe du Bien sont capables de recevoir des informations fascinantes chaque nuit.  
+Cependant, l’équipe du Mal, très variée, peut riposter en semant la confusion la plus totale.
+Les rôles peuvent changer d’alignement. 
+Les joueurs peuvent changer de rôle.
+Même l’équipe du Mal peut perdre la trace de qui est qui.
 C’est également la première apparition de la folie, qui force tous les joueurs à composer avec ce nouvel élément.
 </p>
 
@@ -166,7 +166,7 @@ Pour le Démon, c’est en général une bonne idée de les cibler en premier.
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Les joueurs de <strong>L’ÉQUIPE DU MAL</strong>  voudront tuer ou éliminer dès que possible la menace que représentent les Villageois les plus dangereux.<br> 
-Les Démons ne peuvent tuer qu’une seule fois par nuit, mais les Sbires tels que la <a href="./sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a>, la <a href="./sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> et le <a href="./sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a> peuvent contribuer à éclaircir les rangs de l’équipe du Bien en étant joués intelligemment.	<br> 
+Les Démons ne peuvent tuer qu’une seule fois par nuit, mais les Sbires tels que la <a href="./sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a>, la <a href="./sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> et le <a href="./sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a> peuvent contribuer à éclaircir les rangs de l’équipe du Bien en étant joués intelligemment.<br>  
 Les joueurs maléfiques doivent aussi faire attention aux informations qu’ils donnent au groupe, car certains joueurs seront capables de faire les déductions nécessaires s’ils parviennent à identifier le Démon qui est en jeu.
 </p>
 
