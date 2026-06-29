@@ -12,43 +12,35 @@ image: /images/Icon_spy.png
   </a>
 </p>
 
-# <span style="color:red">Espionne</span>
+---
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./espion.html" style="text-decoration:none;">
-    <img src="../images/Icon_spy.png" alt="Espion" width="350" style="border-radius:8px;">
+    <img src="../images/Icon_spy.png" alt="Espionne" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:red; font-weight:bold; font-size:22px;">Espionne</span>
+    <span style="color:red; font-weight:bold; font-size:50px;">Espionne</span>
   </a>
 </div>
 
 
----
+<hr class="sbire">
 
-##  Apparaît dans  
-
-#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
-</p>
+## Apparaît dans
 
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../trouble_brewing.html" style="text-decoration:none;">
     <img src="../images/Logo_trouble_brewing.png" alt= "Trouble Brewing" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Trouble Brewing</span>
+    <span style="color:#b58b52; font-weight:bold; font-size:45px;">Trouble Brewing</span>
   </a>
 </div>
 
 
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-"Cult of the Clocktower – épisode par Andrew Nathenson"
-</p>
+<hr class="sbire">
 
----
+
 ##  <span style="color:#d45b5b">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
@@ -103,15 +95,22 @@ Mais saurez-vous laquelle ? »
 
 ##  <span style="color:red">Comment Conter</span>
 
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p>
+
+
 - Chaque nuit, **réveillez l’Espionne** et montrez-lui le **Grimoire complet** aussi longtemps qu’elle le souhaite.  
 - Chaque fois que l'Espionne est ciblée par une capacité qui détecte ou affecte les rôles bons, choisissez le rôle et l'alignement<br>
 sous lesquels l'Espionne apparaît. 
 - (Faites ce qu’il faut auprès des autres joueurs : montrez un jeton de rôle bon, faites signe avec les doigts,hochez la tête,<br>
 ou permettez à une capacité de fonctionner si elle affecte uniquement les joueurs bons, Villageois ou Marginaux.)<br>
 
-  **Conseil pour les Conteurs**
-  - *N'oubliez pas de garder votre Grimoire bien rangé et de le montrer à l'Espionne dans le bon sens, afin que l’Espionne
+<div class="botc-note">
+N'oubliez pas de garder votre Grimoire bien rangé et de le montrer à l'Espionne dans le bon sens, afin que l’Espionne
 puisse facilement voir qui est qui.*
+</div>
+
 
 ---
 
