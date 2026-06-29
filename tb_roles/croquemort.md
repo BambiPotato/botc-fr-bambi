@@ -62,9 +62,6 @@ Un militaire, sans aucun doute. »
 
 ##  Apparaît dans  
 
-#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
-
-
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../trouble_brewing.html" style="text-decoration:none;">
@@ -113,8 +110,11 @@ Instructions au Conteur
   - Endormez le Fossoyeur. 
   - Retirez son jeton de rappel quand vous le souhaitez.
 
-- Dans **TROUBLE BREWING**, il ne peut y avoir qu’une seule exécution par jour et chaque exécution provoque la mort d’un joueur.
-  Dans d'autres modules, il peut y avoir plus d'une exécution par jour (auquel cas le Conteur choisit quel rôle montrer au Fossoyeur)<br>  et il est possible de ne pas mourir d’une exécution (auquel cas le Fossoyeur n'apprend rien).
+
+<div class="botc-note">
+Dans   <strong>TROUBLE BREWING</strong>, il ne peut y avoir qu’une seule exécution par jour et chaque exécution provoque la mort d’un joueur.
+Dans d'autres modules, il peut y avoir plus d'une exécution par jour (auquel cas le Conteur choisit quel rôle montrer au Fossoyeur)<br>  et il est possible de ne pas mourir d’une exécution (auquel cas le Fossoyeur n'apprend rien).
+</div>
 
 ---
 
