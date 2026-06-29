@@ -109,7 +109,7 @@ Instructions au Conteur
 
 <div class="botc-note">
 Si un joueur se fait passer pour la Pourfendeuse et annonce qu’il veut utiliser sa capacité, faites comme s’il était vraiment la Pourfendeuse :<br> 
-laissez le temps de la discussion, laissez-le prendre sa décision, trifouillez au besoin les jetons du Grimoire, puis annoncez « Rien ne se passe ».br> 
+laissez le temps de la discussion, laissez-le prendre sa décision, trifouillez au besoin les jetons du Grimoire, puis annoncez « Rien ne se passe ».<br>  
 <hr>
 Lorsque la Pourfendeuse annonce qu’elle veut utiliser sa capacité, accordez une minute ou deux au groupe pour discuter de sa cible.<br> 
 Cela permet au groupe de participer à la victoire (ou à la défaite !), mais la décision finale revient à la Pourfendeuse.
