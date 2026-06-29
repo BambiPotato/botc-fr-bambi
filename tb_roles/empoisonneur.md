@@ -12,9 +12,7 @@ image: /images/Icon_poisoner.png
 </p>
 
 ---
-
-#  <span style="color:red">Empoisonneur</span>    
-
+    
  <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./empoisonneur.html" style="text-decoration:none;">
@@ -24,30 +22,21 @@ image: /images/Icon_poisoner.png
   </a>
 </div>
 
----
+<hr class="sbire">
 
 ##  Apparaît dans  
 
-#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
-</p>
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../trouble_brewing.html" style="text-decoration:none;">
     <img src="../images/Logo_trouble_brewing.png" alt= "Trouble Brewing" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Trouble Brewing</span>
+    <span style="color:#b58b52; font-weight:bold; font-size:45px;">Trouble Brewing</span>
   </a>
 </div>
 
 
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-"Cult of the Clocktower – épisode par Andrew Nathenson"
-</p>
-
----
+<hr class="sbire">
 
 ##  <span style="color:#d45b5b">Informations</span>
 
@@ -102,6 +91,10 @@ image: /images/Icon_poisoner.png
 
 
 ##  <span style="color:red">Comment Conter</span>    
+
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p>
 
 - Chaque nuit, réveillez l'Empoisonneur. Il désigne n'importe quel joueur.
 Le joueur choisi devient empoisonné — placez le jeton **EMPOISONNÉ** à côté de son jeton de rôle. 
