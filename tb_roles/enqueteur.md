@@ -25,7 +25,7 @@ image: /images/Icon_investigator.png
   </a>
 </div>
 
-hr class="villageois">
+<hr class="villageois">
 
 ##  Apparaît dans  
 
