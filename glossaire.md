@@ -18,7 +18,7 @@ image: /images/logogold.png
   « Chaque mot a son importance... surtout quand il peut te sauver la vie. »
 </p>
 
----
+<hr class="explication">
 
 ##  <span style="color:#5C2E1F;">Sommaire alphabétique</span>
 
