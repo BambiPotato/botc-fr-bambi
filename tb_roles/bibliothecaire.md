@@ -102,7 +102,7 @@ L’Archiviste se rendort. Retirez les jetons de l’Archiviste quand vous le so
 
 ##  <span style="color:blue">Exemples</span>   
 
-- **Cédric** est le [Saint](saint.md), et **Laura** est le [Baron](baron.md).
+- **Cédric** est le [Saint](saint.md), et **Laura** est le [<span style="color:red">Baron</span>](baron.md).
 L'Archiviste apprend que soit Cédric ou Laura ou est le Saint.
 
 - Le Conteur décide que la [Recluse](reclus.md) apparaît comme un Sbire et non comme un Marginal. 
