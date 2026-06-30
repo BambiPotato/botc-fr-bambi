@@ -78,7 +78,8 @@ pour préparer des potions bizarres, comme vous l’avez dit, Madame. »
 
 ##  <span style="color:blue">Résumé</span>  
 
----
+<hr> 
+
 
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
