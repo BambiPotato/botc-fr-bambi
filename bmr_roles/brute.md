@@ -11,9 +11,7 @@ image: /images/Icon_goon.png
   </a>
 </p>
 
-
-
-#   <span style="color:blue">Gros Bras </span>  
+---
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -25,8 +23,7 @@ image: /images/Icon_goon.png
 </div>
 
 
----
-
+<hr class="marginal">
 
 <h2 style="color:#4ea3ff; font-weight:bold;">Informations</h2>
 
@@ -59,31 +56,19 @@ L’a son compte, pour sûr.<br>
 Nan, j’ai pas b’soin d’un docteur.<br> 
 J’me soigne seul. À demain. »
 
----
+<hr class="marginal">
 
 
 ##  Apparaît dans  
 
-#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
-</p>
-
----
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../bmr.html" style="text-decoration:none;">
     <img src="../images/Logo_bad_moon_rising-1.png" alt= "Bad Moon Rising" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Bad Moon Rising</span>
+    <span style="color:#b58b52; font-weight:bold; font-size:45px;">Bad Moon Rising</span>
   </a>
 </div>
-
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-"Cult of the Clocktower – épisode par Andrew Nathenson"
-</p>
 
 
 ---
@@ -92,7 +77,9 @@ J’me soigne seul. À demain. »
 
 **« Chaque nuit, le premier joueur qui vous choisit avec sa capacité est ivre jusqu'au crépuscule. Vous devenez son alignement. »**
 
-**LE GROS BRA**S est immunisé aux autres rôles la nuit, mais change constamment d’alignement.
+<p class="botc-flavour-text dropcap">
+LE GROS BRAS est immunisé aux autres rôles la nuit, mais change constamment d’alignement.
+</p> 
 
 - Chaque nuit, la première fois qu’un joueur se réveille pour utiliser sa capacité et choisit le **Gros bras**, ce joueur devient immédiatement **ivre**.<br> Sa capacité ne fonctionne pas cette nuit-là, ni la journée du lendemain.
 
@@ -108,7 +95,10 @@ J’me soigne seul. À demain. »
 
 ##  <span style="color:blue">Comment Conter</span>   
 
-**Instruction au Conteur**
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p>
+
 
 - La nuit, si un joueur utilise sa capacité sur le Gros bras alors que personne n’est marqué du jeton **IVRE** du Gros bras, il devient ivre — marquez-le du jeton **IVRE**.<br> Terminez la résolution de la capacité de ce joueur ; ensuite, il se rendort.
 
