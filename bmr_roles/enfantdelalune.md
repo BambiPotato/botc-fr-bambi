@@ -71,7 +71,7 @@ De l’acier contre ma gorge ? Votre Destin est scellé. »
   </a>
 </div>
 
-
+---
 
 ##  <span style="color:blue">Résumé</span>  
 
@@ -168,7 +168,7 @@ Votre rôle demande donc réflexion, timing et un brin de tragédie.
 ###  Anticiper les protections  
 
 - Les joueurs **impossibles à tuer** (comme le [Marin](marin.md) ou le [Fou du roi](fou.md)) survivront à votre malédiction.  
-- De même, les protections de la [DTisanière](damedethe.md) ou de l’[Aubergiste](aubergiste.md) peuvent **empêcher la mort**.  
+- De même, les protections de la [Tisanière](damedethe.md) ou de l’[Aubergiste](aubergiste.md) peuvent **empêcher la mort**.  
 - Si vous souhaitez éviter un surplus de morts, choisissez **délibérément** l’un d’eux.
 
 ---
