@@ -1,6 +1,9 @@
 ---
 layout: default
 title: ASSASSIN
+description: "Une fois par partie, la nuit*, choisissez un joueur : il meurt, même s’il ne peut normalement pas mourir."
+image: /images/Icon_assassin.png
+
 ---
 
 <p align="left">
@@ -9,21 +12,19 @@ title: ASSASSIN
   </a>
 </p>
 
-
-#  <span style="color:red">Assassin</span>  
-
+---
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./assassin.html" style="text-decoration:none;">
     <img src="../images/Icon_assassin.png" alt="Assassin" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:red; font-weight:bold; font-size:22px;">Assassin</span>
+    <span style="color:red; font-weight:bold; font-size:50px;">Assassin</span>
   </a>
 </div>
 
 
----
+<hr class="sbire">
 
 <h2 style="margin-top:10px;">
   <span style="color:#d45b5b; font-weight:bold;">Informations</span>
@@ -46,75 +47,71 @@ title: ASSASSIN
   </li>
 </ul>
 
-> *« … »*
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Argh. »
+</p>
 
----
+<hr class="sbire">
 
 
 ##  Apparaît dans  
-
-#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
-</p>
-
----
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../bmr.html" style="text-decoration:none;">
     <img src="../images/Logo_bad_moon_rising-1.png" alt= "Bad Moon Rising" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Bad Moon Rising</span>
+    <span style="color:#b58b52; font-weight:bold; font-size:45px;">Bad Moon Rising</span>
   </a>
 </div>
 
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-"Cult of the Clocktower – épisode par Andrew Nathenson"
-</p>
+---
 
 ##  <span style="color:red">Résumé</span>  
 
-> **« Une fois par partie, la nuit*, choisissez un joueur : il meurt, même s’il ne devrait pas. »**
+<strong>« Une fois par partie, la nuit*, choisissez un joueur : il meurt, même s’il ne peut normalement pas mourir.»</strong> 
 
-- Une fois par partie, la nuit, l'Assassin peut tuer un joueur. 
-- Ce joueur meurt, même s'il est protégé de quelque manière que ce soit, par exemple par une capacité.
-- L’**Assassin** tue là où même le **[<span style="color:red">Démon</span>](../demons.md)** ne peut pas frapper.  
-- Cependant, sa capacité peut être neutralisée s’il est **ivre** ou **empoisonné**.  
-- Si l'Assassin cible la [Bute](brute.md), elle **meurt** et devient **maléfique**.
+<p class="botc-flavour-text">
+L’ASSASSIN tue ceux que le Démon ne peut pas tuer.
+</p>
+
+- Une fois par partie, la nuit, l’Assassin peut tuer un joueur.<br> 
+Ce joueur meurt, même s’il est protégé de la mort d’une façon ou d’une autre, par exemple grâce à une capacité.
+
+- La capacité de l’Assassin est affectée par l’ivresse et l’empoisonnement, selon les règles normales.
+
+- Si l’Assassin attaque le [Gros bras](brute.md), le [Gros bras](brute.md) meurt puis devient maléfique.
+
 
 ---
 
+
 ##  <span style="color:red">Comment Conter</span>  
 
-- **Chaque nuit, sauf la première**, réveillez l’Assassin.  
-  - Il peut soit **secouer la tête** (pour dire non), soit **désigner un joueur**.  
-  - Endormez-le ensuite.  
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p>
 
-- Si l’Assassin a choisi une cible :  
-  - Ce joueur **meurt immédiatement** — marquez-le avec le jeton **MORT**.  
-  - **Aucune protection** ne peut empêcher cette mort (sauf ivresse ou empoisonnement de l’Assassin).  
-  - L’Assassin **perd sa capacité** : placez le jeton **AUCUNE CAPACITÉ** sur lui et 
-    retirez son jeton Nuit de la feuille de nuit. ( L'Assassin ne se réveillera plus. )
+- Chaque nuit, sauf la première, réveillez l’Assassin. 
+Il fait non de la tête ou désigne n’importe quel joueur. L’Assassin se rendort.
+
+- Si l’Assassin choisit un joueur, ce joueur meurt — marquez-le du jeton **MORT**. 
+Rien ne peut empêcher cet effet (sauf si l’Assassin n’a pas sa capacité, par exemple s’il est ivre ou empoisonné).
+
+- L’Assassin perd sa capacité : marquez-le du jeton **SANS CAPACITÉ** et retirez son jeton de nuit de la fiche de nuit. (L’Assassin ne se réveillera plus.)
 
 ---
 
 ##  <span style="color:red">Exemples</span>  
-  
-- Pendant les trois premières nuits,  l'Assassin se réveille, mais choisit de ne pas agir.  
-  La quatrième nuit, il tue le [Fou](fou.md) : le **[Fou](fou.md)** meurt **malgré sa capacité**.  
 
-- La [Dame de Thé](damedethe.md) protège ses deux voisins, tous deux bons.  
-  L’[<span style="color:red">Assassin</span>](assassin.md) choisit l’un d’eux : il **meurt malgré la protection**.  
+- Lors des trois premières nuits, l’Assassin se réveille, mais choisit de ne pas agir. Lors de la quatrième nuit, il décide de tuer le [Fou du roi](fou.md).<br>  
+Même si le [Fou du roi](fou.md) conserve sa capacité, le F[Fou du roi](fou.md) meurt et reste mort.
 
-- Le [Ménestrel](menestrel.md) est en jeu.  
-  Le [<span style="color:red">Conspirateur</span>](cerveau.md) meurt exécuté.  
-  Cette nuit-là, l’Assassin tente de tuer l’[Enfant de la Lune](enfantdelalune.md),  
-  mais comme il est **ivre à cause de la capacité du [Ménestrel](menestrel.md)**, sa cible **ne meurt pas**.  
+- La [Tisanière](damedethe.md) est voisine de deux joueurs bons. L’Assassin choisit de tuer l’un des voisins de la [Tisanière](damedethe.md). Ce voisin meurt malgré la protection de la [Tisanière](damedethe.md).<br> 
+Le Ménestrel est en jeu. Le Conspirateur meurt par exécution.
 
--  L’[<span style="color:red">Assassin</span>](assassin.md) est ivre à cause du [Courtisan](courtisan.md), il choisit de tuer la [Brute](brute.md) , 
-  La [Brute](brute.md) **ne meurt pas**, mais devient **maléfique**.  
+- Cette nuit-là, l’Assassin décide de tuer la [Sélénite](enfantdelalune.md), mais celle-ci ne meurt pas, car l’Assassin est ivre à cause du [Ménestrel](menestrel.md).
+
+- L’Assassin, qui était ivre à cause du Courtisan, choisit de tuer le [Gros bras](brute.md). L’Assassin n’a aucune capacité.<br>  Le [Gros bras](brute.md) reste en vie, mais devient maléfique.
 
 ---
 
@@ -130,7 +127,7 @@ Choisissez votre moment avec soin — **une utilisation bien placée peut renver
 - Éliminez ceux que votre **[<span style="color:red">Démon</span>](../demons.md)** ne peut pas atteindre :  
   - L’[Exorciste](exorciste.md) qui empêche votre démon d'agir.  
   - Le [Pacifiste](pacifiste.md) ou l’[Aubergiste](aubergiste.md) qui protège les autres.  
-  - Le [Marin](marin.md) ou le [Fou](villageois/fou.md) intouchables.  
+  - Le [Marin](marin.md) ou le [Fou du roi](villageois/fou.md) intouchables.  
 
 Rien n’arrête votre lame.  
 
@@ -139,7 +136,7 @@ Rien n’arrête votre lame.
 - Utilisez votre attaque pour **brouiller les pistes** :  
   - Tuez pendant une nuit où le Démon ne devrait pas pouvoir tuer,  
     cela fera croire à un autre Démon (comme le [<span style="color:red">Pukka</span>](pukka.md) ou le [<span style="color:red">Po</span>](po.md)).  
-  - Vous pouvez aussi masquer la mort d’un **[<span style="color:red">Cerveau</span>](cerveau.md)** ou d’un **[<span style="color:red">Parrain</span>](parrain.md)**.  
+  - Vous pouvez aussi masquer la mort d’un **[<span style="color:red">Conspirateur</span>](cerveau.md)** ou d’un **[<span style="color:red">Parrain</span>](parrain.md)**.  
 
 - Coordonnez-vous avec votre Démon : évitez de viser la même cible,  
   afin de **maximiser le nombre de morts** et **plonger le village dans la panique**.
@@ -159,13 +156,13 @@ Rien n’arrête votre lame.
 > **Mauvaise nouvelle : vous ne pouvez pas empêcher son attaque.**  
 
 Aucune protection ne résiste à sa lame :  
-ni l’[Aubergiste](aubergiste.md), ni la [Dame de Thé](damedethe.md), ni même le [Fou](fou.md) ou le [Marin](marin.md).  
+ni l’[Aubergiste](aubergiste.md), ni la [Tisanière](damedethe.md), ni même le [Fou du roi](fou.md) ou le [Marin](marin.md).  
 
 Cependant :  
 - Observez **le nombre de morts** : une mort nocturne inattendue peut signaler l’action de l’[<span style="color:red">Assassin</span>](assassin.md).  
 - Rappelez-vous qu’il **ne peut agir qu’une fois** : après cela, sa menace disparaît.  
 - Si une mort « anormale » survient, cherchez les autres Sbires restants :  
-  un **[<span style="color:red">Parrain</span>](parrain.md)** ou un **[<span style="color:red">Cerveau</span>](cerveau.md)** pourraient être encore en jeu.
+  un **[<span style="color:red">Parrain</span>](parrain.md)** ou un **[<span style="color:red">Conspirateur</span>](cerveau.md)** pourraient être encore en jeu.
 
 ---
 
