@@ -117,11 +117,11 @@ Instructions au Conteur
       La  <a href="../bmr_roles/grandmere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Grand-mère</a>  est exécutée, mais reste en vie.</li>
 
   <li> Plus tard, l’Avocat du Diable protège le
-      <a href="../bmr_roles/bricoleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bricoleur</a>.  
+      <a href="../bmr_roles/bricoleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bricoleur</a>.<br>   
       Le <a href="../bmr_roles/bricoleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bricoleur</a est exécuté, 
     mais le Conteur tue quand même le Bricoleur en appliquant la capacité du Bricoleur.</li>
 <li> Plus tard, l’Avocat du Diable protège la <a href="../bmr_roles/enfantdelalune.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sélénite</a>.<br> 
-    Le <a href="../voyageurs/judge.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Juge</a> impose que l’exécution ait lieu.
+    Le <a href="../voyageurs/judge.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Juge</a> impose que l’exécution ait lieu.<br> 
     L’exécution a lieu, mais la la <a href="../bmr_roles/enfantdelalune.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sélénite</a>  reste en vie. </li>
 </ul>
 
