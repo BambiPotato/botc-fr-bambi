@@ -1,6 +1,8 @@
 ---
 layout: default
 title: AVOCAT DU DIABLE
+description : "Chaque nuit, choisissez un joueur en vie (différent de la nuit précédente) : s’il est exécuté le lendemain, il ne meurt pas."
+image: /images/Icon_devilsadvocate.png
 ---
 
 <p align="left">
@@ -9,18 +11,18 @@ title: AVOCAT DU DIABLE
   </a>
 </p>
 
-#  <span style="color:#d45b5b;">Avocat du Diable</span>  
+---
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./avocatdudiable.html" style="text-decoration:none;">
     <img src="../images/Icon_devilsadvocate.png" alt="Avocat du Diable" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:#d45b5b; font-weight:bold; font-size:22px;">Avocat du Diable</span>
+    <span style="color:#d45b5b; font-weight:bold; font-size:50px;">Avocat du Diable</span>
   </a>
 </div>
 
----
+<hr class="sbire">
 
 <h2 style="margin-top:10px;">
   <span style="color:#d45b5b; font-weight:bold;">Informations</span>
@@ -48,64 +50,51 @@ title: AVOCAT DU DIABLE
   Le fait que neuf jurés soient morts cette nuit n’est que circonstanciel, et selon Wills contre Thule, justifie l’acquittement. »
 </p>
 
----
+<hr class="sbire">
 
 ##  Apparaît dans  
 
-#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
-</p>
-
----
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../bmr.html" style="text-decoration:none;">
     <img src="../images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Bad Moon Rising</span>
+    <span style="color:#b58b52; font-weight:bold; font-size:45px;">Bad Moon Rising</span>
   </a>
 </div>
 
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  “Cult of the Clocktower – épisode par Andrew Nathenson”
-</p>
 
 ---
 
 ##  <span style="color:#d45b5b;">Résumé</span>  
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0 40px;">
-  <strong>« Chaque nuit, choisissez un joueur vivant (différent de la nuit précédente)&nbsp;:  
-  s’il est exécuté demain, il ne meurt pas. »</strong>
+  <strong>« Chaque nuit, choisissez un joueur en vie (différent de la nuit précédente) : s’il est exécuté le lendemain, il ne meurt pas. »</strong>
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:10px 40px;">
+<p class="botc-flavour-text dropcap">
   L’<strong>Avocat du Diable</strong> sauve les joueurs de l’exécution.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Chaque nuit, l’<strong>Avocat du Diable</strong> choisit un joueur vivant.</li>
-  <li>Si ce joueur est exécuté le lendemain, il est <strong>exécuté mais reste en vie</strong>.</li>
-  <li>L’Avocat du Diable ne peut pas choisir le même joueur deux nuits de suite.</li>
-  <li>Il ne peut pas non plus protéger un
-      <a href="../bmr_roles/zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a>
-      déjà considéré comme mort.</li>
+  <li>Chaque nuit, l’Avocat du diable choisit un joueur à protéger de la mort par exécution. Le lendemain, si ce joueur est exécuté, l’exécution est effectuée, mais le joueur reste en vie.</li>
+  <li>L’Avocat du diable ne peut pas choisir le même joueur deux nuits d’affilée, que ce joueur ait effectivement été sauvé de l’exécution ou non ; il ne peut pas non plus choisir un  <a href="../bmr_roles/zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> qui apparaît comme mort.</li>
 </ul>
 
 ---
 
 ##  <span style="color:#d45b5b;">Comment Conter</span>    
 
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p> 
+
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Chaque nuit, réveillez l’<strong>Avocat du Diable</strong>. Il désigne un joueur vivant.</li>
-  <li>Rendormez l’Avocat du Diable.</li>
-  <li>Marquez le joueur désigné avec le jeton de rappel <strong>« SURVIT À L’EXÉCUTION »</strong>.</li>
-  <li>Si un joueur marqué « SURVIT À L’EXÉCUTION » est exécuté,  
-      déclarez qu’il a été exécuté mais qu’il reste en vie (sans expliquer pourquoi).</li>
-  <li>Retirez le jeton de rappel « SURVIT À L’EXÉCUTION » au crépuscule suivant,  
-      qu’il ait été utilisé ou non.</li>
+  <li>Chaque nuit, réveillez l’<strong>Avocat du Diable</strong>. Il désigne n’importe quel joueur.</li>
+  <li>L’Avocat du diable se rendort.</li>
+  <li>Marquez le joueur choisi avec le jeton <strong>SURVIT À L’EXÉCUTION<strong>.</li>
+  <li>Si un joueur marqué « SURVIT À L’EXÉCUTION » est exécuté, annoncez que le joueur a été exécuté mais qu’il reste en vie. <em>(Ne dites pas pourquoi)</em>.</li>
+  <li>Retirez le jeton de rappel <strong>SURVIT À L’EXÉCUTION<strong> au crépuscule suivant,  qu’il ait été utilisé ou non.</li>
 </ul>
 
 ---
@@ -113,27 +102,27 @@ title: AVOCAT DU DIABLE
 ##  <span style="color:#d45b5b;">Exemples</span>  
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>L’<strong>Avocat du Diable</strong> se protège lui-même.  
+  <li>La nuit l’<strong>Avocat du Diable</strong> se protège lui-même.  
       Le lendemain, il est exécuté, mais reste en vie.</li>
 
   <li>L’<strong>Avocat du Diable</strong> protège le
-      <a href="../bmr_roles/zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a>.  
-      Le Zombuul est exécuté, reste en vie, puis est exécuté à nouveau le lendemain et meurt pour de bon.</li>
+      <a href="../bmr_roles/zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a>. 
+    Le <a href="../bmr_roles/zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> est exécuté mais reste en vie.
+    Son jeton de vie n’est donc pas retourné. 
+    Le lendemain, le <a href="../bmr_roles/zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> est à nouveau exécuté et 
+    apparaît comme mort.</li>
 
   <li>L’<strong>Avocat du Diable</strong> protège la
-      <a href="../bmr_roles/grandmere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Grand-Mère</a>.  
-      Celle-ci est exécutée, mais survit.</li>
+      <a href="../bmr_roles/grandmere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Grand-mère</a>.  
+      La  <a href="../bmr_roles/grandmere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Grand-mère</a>  est exécutée, mais reste en vie.</li>
 
-  <li>Plus tard, l’Avocat du Diable protège le
+  <li> Plus tard, l’Avocat du Diable protège le
       <a href="../bmr_roles/bricoleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bricoleur</a>.  
-      Le Bricoleur est exécuté, mais le Conteur tue quand même le Bricoleur  
-      à cause de sa propre capacité.</li>
-
-  <li>Plus tard, l’Avocat du Diable protège
-      l’<a href="../bmr_roles/enfantdelalune.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Enfant de la Lune</a>,  
-      et le <a href="../voyageurs/judge.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Juge</a>
-      oblige l’exécution à réussir&nbsp;:  
-      l’exécution réussit, mais l’Enfant de la Lune reste en vie.</li>
+      Le <a href="../bmr_roles/bricoleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bricoleur</a est exécuté, 
+    mais le Conteur tue quand même le Bricoleur en appliquant la capacité du Bricoleur.</li>
+<li> Plus tard, l’Avocat du Diable protège la <a href="../bmr_roles/enfantdelalune.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sélénite</a>.<br> 
+    Le <a href="../voyageurs/judge.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Juge</a> impose que l’exécution ait lieu.
+    L’exécution a lieu, mais la la <a href="../bmr_roles/enfantdelalune.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sélénite</a>  reste en vie. </li>
 </ul>
 
 ---
