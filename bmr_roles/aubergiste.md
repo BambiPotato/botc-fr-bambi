@@ -12,20 +12,19 @@ image: /images/Icon_innkeeper.png
   </a>
 </p>
 
-
-#  <span style="color:blue">Aubergiste</span>  
+ ---
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./aubergiste.html" style="text-decoration:none;">
     <img src="../images/Icon_innkeeper.png" alt="Po" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:blue; font-weight:bold; font-size:22px;">Aubergiste</span>
+    <span style="color:blue; font-weight:bold; font-size:50px;">Aubergiste</span>
   </a>
 </div>
 
 
----
+<hr class="villageois">
 
 ##  <span style="color:blue">Informations</span>
 
@@ -59,31 +58,19 @@ image: /images/Icon_innkeeper.png
 </p>
 
 
----
+<hr class="villageois">
 
 
 ##  Apparaît dans  
 
-#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
-</p>
-
----
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../bmr.html" style="text-decoration:none;">
     <img src="../images/Logo_bad_moon_rising-1.png" alt= "Bad Moon Rising" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Bad Moon Rising</span>
+    <span style="color:#b58b52; font-weight:bold; font-size:45px;">Bad Moon Rising</span>
   </a>
 </div>
-
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-"Cult of the Clocktower – épisode par Andrew Nathenson"
-</p>
 
 ---
 
@@ -92,7 +79,10 @@ image: /images/Icon_innkeeper.png
 
 <strong> « Chaque nuit*, choisissez **2 joueurs** : ils ne peuvent pas mourir cette nuit mais l'un d'eux est ivre jusqu'au crépuscule. »</strong>  
 
-**L’AUBERGISTE** protège des joueurs de la mort pendant la nuit, mais au prix de la sobriété de l'un d'entre eux.
+
+<p class="botc-flavour-text dropcap">
+L’AUBERGISTE protège des joueurs de la mort pendant la nuit, mais au prix de la sobriété de l'un d'entre eux.
+</p>
 
 - L’Aubergiste comme le [<span style="color:blue">Moine</span>](../tb_roles/moine.md) protège empêche des joueurs d’être tués par le Démon.<br>
 Ces joueurs ne peuvent pas non plus mourir à cause d’un Marginal, d’un Sbire, d’un Villageois ou d’un Voyageur.
