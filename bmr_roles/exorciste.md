@@ -76,11 +76,8 @@ des âmes créées par Dieu à son image et rachetées par le sang précieux de 
 
 
 
-
 ##  <span style="color:blue">Résumé</span>  
-
-
-<hr class="explication">
+<hr>
 
 
 
@@ -225,7 +222,7 @@ Gardez cela en tête si vous utilisez l’Exorciste avec des rôles qui viennent
   
 </ul> 
 
----
+<hr class="explication">
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
