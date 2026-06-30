@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Conspirateur
+description: "Si le Démon meurt par exécution (mettant fin à la partie), vous jouez 1 jour de plus. Si un joueur est exécuté ce jour-là, son équipe perd."
+image: /images/Icon_mastermind.png
 ---
 
 <p align="left">
@@ -9,18 +11,18 @@ title: Conspirateur
   </a>
 </p>
 
-#  <span style="color:#d45b5b;">Conspirateur</span>
+---
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./cerveau.html" style="text-decoration:none;">
-    <img src="../images/Icon_mastermind.png" alt="Cerveau" width="350" style="border-radius:8px;">
+    <img src="../images/Icon_mastermind.png" alt="Conspirateur" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:#d45b5b; font-weight:bold; font-size:22px;">Conspirateur</span>
+    <span style="color:#d45b5b; font-weight:bold; font-size:50px;">Conspirateur</span>
   </a>
 </div>
 
----
+<hr class="sbire">
 
 <h2 style="margin-top:10px;">
   <span style="color:#d45b5b; font-weight:bold;">Informations</span>
@@ -41,7 +43,7 @@ title: Conspirateur
        rel="noopener noreferrer"
        style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mastermind</a>
   </li>
-</ul>  
+</ul>
 
 <p style="color:#f5f5f5; font-style:italic; font-size:18px; margin:10px 40px;">
   « Les tentacules de ce monstre sont cloués aux portes de l’église.<br>  
@@ -49,73 +51,53 @@ title: Conspirateur
   Tout se déroule exactement comme je l’avais prévu. »
 </p>
 
----
+<hr class="sbire">
 
 ##  Apparaît dans  
-
-#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
-</p>
-
----
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../bmr.html" style="text-decoration:none;">
     <img src="../images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Bad Moon Rising</span>
+    <span style="color:#b58b52; font-weight:bold; font-size:45px;">Bad Moon Rising</span>
   </a>
 </div>
 
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  "Cult of the Clocktower – épisode par Andrew Nathenson"
-</p>
 
 ---
 
 ##  <span style="color:#d45b5b;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0 40px;">
-  <strong>« Si le Démon meurt par exécution (mettant fin à la partie), jouez un jour de plus.  
-  Si un joueur est ensuite exécuté, son équipe perd. »</strong>
+  <strong>« Si le Démon meurt par exécution (mettant fin à la partie), vous jouez 1 jour de plus. Si un joueur est exécuté ce jour-là, son équipe perd. »</strong>
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:10px 40px;">
-  Le <strong>Conspirateur</strong> est un <strong>Sbire</strong> machiavélique capable de donner une dernière chance aux
-  <span style="color:#d45b5b; font-weight:bold;">Maléfiques</span>.  
-  Même après la mort du Démon, il peut faire basculer la victoire.
+<p class="botc-flavour-text dropcap">
+  LE CONSPIRATEUR peut gagner après la mort du Démon.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Si le <span style="color:#d45b5b; font-weight:bold;">Démon</span> est exécuté et meurt, la partie ne se termine pas immédiatement.</li>
-  <li>Le lendemain, si un joueur est exécuté, <strong>son équipe perd</strong> :
-    <ul style="margin-left:20px;">
-      <li>si c’est un joueur bon → le <span style="color:#d45b5b; font-weight:bold;">Mal</span> gagne ;</li>
-      <li>si c’est un joueur maléfique ou si aucun joueur n’est exécuté → le <span style="color:#4ea3ff; font-weight:bold;">Bien</span> gagne.</li>
-    </ul>
-  </li>
+  <li>Si le Démon meurt par exécution, la partie continue. Les joueurs n’apprennent pas que le Démon est mort.</li>
+  <li>Le jour suivant, si un joueur bon est exécuté – qu’il en meure ou non – alors le Mal gagne.</li>
+  <li>Si un joueur maléfique est exécuté ou si personne n’est exécuté, alors le Bien gagne.</li>
+  <li>Un Démon mort ne peut pas attaquer. Il perd sa capacité, selon les règles normales.</li>
+  <li>Lors de cette nuit et journée supplémentaires, les capacités des autres rôles fonctionnent normalement.</li>
+  <li>Si le Démon meurt et qu’il ne reste que deux joueurs en vie, la partie continue tout de même – le Mal ne gagne pas même s’il n’y a plus que deux joueurs en vie, et le Bien ne gagne pas même si le Démon est mort.</li>
+  <li>La capacité du Conspirateur vous impose de « jouer un jour supplémentaire », et les capacités ont toujours priorité sur les règles standard.</li>
 </ul>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:10px 40px;">
-  Cette capacité prolonge la partie d’un jour complet, même s’il ne reste que deux joueurs vivants.
-</p>
 
 ---
 
 ##  <span style="color:#d45b5b;">Comment Conter</span>  
 
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p>
+
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Si le <span style="color:#d45b5b; font-weight:bold;">Démon</span> est exécuté et meurt, ne terminez pas la partie.  
-      (Ajoutez un linceul comme d’habitude. Ne dites pas que le Démon est mort.)</li>
-  <li>Continuez avec une nuit normale, en ignorant le Démon mort.</li>
-  <li>Le lendemain :
-    <ul style="margin-left:20px;">
-      <li>si un joueur bon est exécuté → le <span style="color:#d45b5b; font-weight:bold;">Mal</span> gagne ;</li>
-      <li>si un joueur maléfique est exécuté ou si personne n’est exécuté → le <span style="color:#4ea3ff; font-weight:bold;">Bien</span> gagne.</li>
-    </ul>
-  </li>
+  <li>Si le Démon est exécuté et meurt, et que le jeu devrait se terminer, continuez à jouer. Ajoutez un linceul comme d’habitude. Ne dites pas que le Démon est mort.</li>
+  <li>Le lendemain, si un joueur bon est exécuté, annoncez que le jeu est terminé et que le Mal gagne.</li>
+  <li>En revanche, si un joueur maléfique ou aucun joueur n’est exécuté, annoncez que le jeu est terminé et que le Bien gagne.</li>
 </ul>
 
 ---
@@ -123,26 +105,30 @@ title: Conspirateur
 ##  <span style="color:#d45b5b;">Exemples</span>  
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Le <a href="../bmr_roles/shabaloth.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a> est exécuté et meurt.  
-      Le lendemain, le
-      <a href="../bmr_roles/professeur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Professeur</a> est exécuté :
-      <strong>les Maléfiques gagnent</strong>.</li>
+  <li>
+    Le <a href="./shabaloth.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a> est exécuté et meurt.  
+    Le lendemain, le <a href="./professeur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Professeur</a> est exécuté :
+    <strong>les Maléfiques gagnent</strong>.
+  </li>
 
-  <li>Le <a href="../bmr_roles/po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a> est exécuté et meurt.  
-      Le lendemain, le
-      <a href="../bmr_roles/parrain.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parrain</a>
-      est exécuté mais survit grâce à l’
-      <a href="../bmr_roles/avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a>.  
-      Comme un joueur maléfique a été exécuté, <strong>le Bien gagne</strong>.</li>
+  <li>
+    Le <a href="./po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a> est exécuté et meurt.  
+    Le lendemain, le <a href="./parrain.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parrain</a>
+    est exécuté mais reste en vie car il était protégé par l’
+    <a href="./avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a>.  
+    Cependant comme un joueur maléfique a été exécuté, <strong>le Bien gagne</strong>.
+  </li>
 
-  <li>Le <a href="../bmr_roles/zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> est exécuté,  
-      mais sa mort ne met pas fin à la partie (il était encore « vivant »).  
-      Lorsqu’il est exécuté une seconde fois et meurt pour de bon,  
-      la capacité du <strong>Conspirateur</strong> s’active : la partie continue un jour de plus.</li>
+  <li>
+    Le <a href="./zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> est exécuté et meurt... en apparence seulement.  
+    La capacité du <strong>Conspirateur</strong> ne se déclenche pas encore car l’exécution du <a href="./zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> n’a pas mis fin à la partie. 
+    Lorsque le <a href="./zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> est exécuté une deuxième fois et meurt pour de bon, la capacité du Conspirateur se déclenche et le jeu se poursuit pendant un jour supplémentaire.
+  </li>
 
-  <li>Il ne reste que trois joueurs vivants.  
-      Le Démon meurt par exécution.  
-      Le lendemain, avec seulement deux joueurs en vie, le groupe n’exécute personne → <strong>le Bien gagne</strong>.</li>
+  <li>
+    Il reste trois joueurs en vie. Le Démon meurt. Le lendemain, alors qu’il ne reste plus que deux joueurs en vie, le Bien décide de ne pas faire d’exécution.
+    À la tombée de la nuit, seuls deux joueurs sont encore en vie, mais le Démon est mort, donc le Bien gagne.
+  </li>
 </ul>
 
 ---
@@ -162,11 +148,11 @@ title: Conspirateur
       Infiltrez le camp du Bien, gagnez sa confiance et bluffez intelligemment.</li>
 
   <li>Bluffez un rôle inoffensif et crédible comme la
-      <a href="../bmr_roles/damedethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dame de Thé</a>,
-      le <a href="../bmr_roles/pacifiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pacifiste</a>
-      ou le <a href="../bmr_roles/menestrel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ménestrel</a>.  
+      <a href="./damedethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Tisanière</a>,
+      le <a href="./pacifiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pacifiste</a>
+      ou le <a href="./menestrel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ménestrel</a>.  
       Ces rôles n’agissent pas la nuit, ce qui évite la suspicion de la
-      <a href="../bmr_roles/femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de Chambre</a>.</li>
+      <a href="./femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de Chambre</a>.</li>
 </ul>
 
 ---
@@ -184,8 +170,8 @@ title: Conspirateur
       <li>décrédibilisez les appels à « ne pas exécuter demain » ;</li>
       <li>insistez sur l’importance de « vérifier les suspicions » ;</li>
       <li>si possible, coordonnez-vous avec un
-          <a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>
-          ou un <a href="../bmr_roles/parrain.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parrain</a>
+          <a href="./assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>
+          ou un <a href="./parrain.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parrain</a>
           pour créer des morts nocturnes et brouiller les pistes.</li>
     </ul>
   </li>
@@ -199,13 +185,13 @@ title: Conspirateur
   <li>Faites croire à la présence d’un autre Sbire :
     <ul style="margin-left:20px;">
       <li>parlez d’un possible
-          <a href="../bmr_roles/avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a>
+          <a href="./avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a>
           si une exécution échoue ;</li>
       <li>accusez un
-          <a href="../bmr_roles/parrain.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parrain</a>
+          <a href="./parrain.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parrain</a>
           d’être responsable d’une mort supplémentaire ;</li>
       <li>mentionnez l’ombre d’un
-          <a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>
+          <a href="./assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>
           pour justifier des morts inhabituelles.</li>
     </ul>
       Si le Bien croit savoir quels Sbires sont en jeu, il baissera sa garde.</li>
@@ -221,9 +207,9 @@ title: Conspirateur
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Observez le comportement des morts et des protections.  
       Si aucune trace visible d’un
-      <a href="../bmr_roles/parrain.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parrain</a>,
-      d’un <a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>
-      ou d’un <a href="../bmr_roles/avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a>
+      <a href="./parrain.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parrain</a>,
+      d’un <a href="./assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>
+      ou d’un <a href="./avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a>
       n’est détectée, soupçonnez un Conspirateur.</li>
 
   <li>Si une nuit se passe sans mort, soyez extrêmement prudent le lendemain :  
@@ -237,6 +223,7 @@ title: Conspirateur
 </ul>
 
 ---
+
 <h2 style="color:#d45b5b; font-size:22px; margin-top:30px;">
   🧞 Jinxes liés
 </h2>
