@@ -70,7 +70,7 @@ image: /images/Icon_assassin.png
 
 <strong>« Une fois par partie, la nuit*, choisissez un joueur : il meurt, même s’il ne peut normalement pas mourir.»</strong> 
 
-<p class="botc-flavour-text">
+<p class="botc-flavour-text dropcap">
 L’ASSASSIN tue ceux que le Démon ne peut pas tuer.
 </p>
 
