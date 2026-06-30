@@ -239,7 +239,7 @@ Instructions au Conteur
        style="color:#d45b5b; font-weight:bold; text-decoration:none;">Al-Hadikhia</a> :
     Si l'<span style="color:#d45b5b; font-weight:bold;">Al-Hadikhia</span> meurt par exécution
     alors que le <span style="color:#d45b5b; font-weight:bold;">Conspirateur</span> est vivant,
-    Al-Hadikhia choisit 3 joueurs bons cette nuit :
+    l'Al-Hadikhia choisit 3 joueurs bons cette nuit :
     si les 3 choisissent de vivre, le Mal gagne ; sinon, le Bien gagne.
   </li>
 
@@ -261,10 +261,10 @@ Instructions au Conteur
     <img src="../images/Icon_lleech.png" alt="Lleech" width="24"
          style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/lleech.html"
-       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Lleech</a> :
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parasyte</a> :
     Si le <span style="color:#d45b5b; font-weight:bold;">Conspirateur</span> est vivant
     et que l’hôte de la <span style="color:#d45b5b; font-weight:bold;">Parasyte</span>
-    meurt par exécution, la Sangsue survit mais <strong>perd sa capacité</strong>.
+    meurt par exécution, le Parasyte survit mais <strong>perd sa capacité</strong>.
   </li>
 
   <!-- VIGORMORTIS -->
