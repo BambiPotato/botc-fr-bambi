@@ -98,7 +98,7 @@ LE COURTISAN enivre un rôle sans savoir de quel joueur il s’agit.
 
 ##  <span style="color:blue">Comment Conter</span>  
 
- <p class="botc-flavour-text dropcap">
+<p class="botc-flavour-text dropcap">
 Instructions au Conteur
 </p>
 
