@@ -1,7 +1,7 @@
 ---
 layout: default
 title: AVOCAT DU DIABLE
-description : "Chaque nuit, choisissez un joueur en vie (différent de la nuit précédente) : s’il est exécuté le lendemain, il ne meurt pas."
+description: "Chaque nuit, choisissez un joueur en vie (différent de la nuit précédente) : s’il est exécuté le lendemain, il ne meurt pas."
 image: /images/Icon_devilsadvocate.png
 ---
 
@@ -46,14 +46,13 @@ image: /images/Icon_devilsadvocate.png
 </ul>
 
 <p style="color:#f5f5f5; font-style:italic; font-size:18px; margin:10px 40px;">
-  « Mon client, si l’objection est rejetée, plaide non coupable au motif que l’accusation n’a pas respecté l’article 27.B,mauvaise conjugaison d’un verbe.<br>  
+  « Mon client, si l’objection est rejetée, plaide non coupable au motif que l’accusation n’a pas respecté l’article 27.B, mauvaise conjugaison d’un verbe.<br>  
   Le fait que neuf jurés soient morts cette nuit n’est que circonstanciel, et selon Wills contre Thule, justifie l’acquittement. »
 </p>
 
 <hr class="sbire">
 
 ##  Apparaît dans  
-
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../bmr.html" style="text-decoration:none;">
@@ -62,7 +61,6 @@ image: /images/Icon_devilsadvocate.png
     <span style="color:#b58b52; font-weight:bold; font-size:45px;">Bad Moon Rising</span>
   </a>
 </div>
-
 
 ---
 
@@ -77,8 +75,8 @@ image: /images/Icon_devilsadvocate.png
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Chaque nuit, l’Avocat du diable choisit un joueur à protéger de la mort par exécution. Le lendemain, si ce joueur est exécuté, l’exécution est effectuée, mais le joueur reste en vie.</li>
-  <li>L’Avocat du diable ne peut pas choisir le même joueur deux nuits d’affilée, que ce joueur ait effectivement été sauvé de l’exécution ou non ; il ne peut pas non plus choisir un  <a href="../bmr_roles/zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> qui apparaît comme mort.</li>
+  <li>Chaque nuit, l’Avocat du Diable choisit un joueur à protéger de la mort par exécution. Le lendemain, si ce joueur est exécuté, l’exécution est effectuée, mais le joueur reste en vie.</li>
+  <li>L’Avocat du Diable ne peut pas choisir le même joueur deux nuits d’affilée, que ce joueur ait effectivement été sauvé de l’exécution ou non ; il ne peut pas non plus choisir un <a href="./zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> qui apparaît comme mort.</li>
 </ul>
 
 ---
@@ -87,14 +85,14 @@ image: /images/Icon_devilsadvocate.png
 
 <p class="botc-flavour-text dropcap">
 Instructions au Conteur
-</p> 
+</p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Chaque nuit, réveillez l’<strong>Avocat du Diable</strong>. Il désigne n’importe quel joueur.</li>
-  <li>L’Avocat du diable se rendort.</li>
-  <li>Marquez le joueur choisi avec le jeton <strong>SURVIT À L’EXÉCUTION<strong>.</li>
+  <li>L’Avocat du Diable se rendort.</li>
+  <li>Marquez le joueur choisi avec le jeton <strong>SURVIT À L’EXÉCUTION</strong>.</li>
   <li>Si un joueur marqué « SURVIT À L’EXÉCUTION » est exécuté, annoncez que le joueur a été exécuté mais qu’il reste en vie. <em>(Ne dites pas pourquoi)</em>.</li>
-  <li>Retirez le jeton de rappel <strong>SURVIT À L’EXÉCUTION<strong> au crépuscule suivant,  qu’il ait été utilisé ou non.</li>
+  <li>Retirez le jeton de rappel <strong>SURVIT À L’EXÉCUTION</strong> au crépuscule suivant, qu’il ait été utilisé ou non.</li>
 </ul>
 
 ---
@@ -106,23 +104,24 @@ Instructions au Conteur
       Le lendemain, il est exécuté, mais reste en vie.</li>
 
   <li>L’<strong>Avocat du Diable</strong> protège le
-      <a href="../bmr_roles/zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a>. 
-    Le <a href="../bmr_roles/zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> est exécuté mais reste en vie.
+      <a href="./zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a>. 
+    Le <a href="./zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> est exécuté mais reste en vie.
     Son jeton de vie n’est donc pas retourné. 
-    Le lendemain, le <a href="../bmr_roles/zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> est à nouveau exécuté et 
+    Le lendemain, le <a href="./zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> est à nouveau exécuté et 
     apparaît comme mort.</li>
 
   <li>L’<strong>Avocat du Diable</strong> protège la
-      <a href="../bmr_roles/grandmere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Grand-mère</a>.  
-      La  <a href="../bmr_roles/grandmere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Grand-mère</a>  est exécutée, mais reste en vie.</li>
+      <a href="./grandmere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Grand-mère</a>.  
+      La <a href="./grandmere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Grand-mère</a> est exécutée, mais reste en vie.</li>
 
-  <li> Plus tard, l’Avocat du Diable protège le
-      <a href="../bmr_roles/bricoleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bricoleur</a>.<br>   
-      Le <a href="../bmr_roles/bricoleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bricoleur</a est exécuté, 
+  <li>Plus tard, l’Avocat du Diable protège le
+      <a href="./bricoleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bricoleur</a>.<br>   
+      Le <a href="./bricoleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bricoleur</a> est exécuté, 
     mais le Conteur tue quand même le Bricoleur en appliquant la capacité du Bricoleur.</li>
-<li> Plus tard, l’Avocat du Diable protège la <a href="../bmr_roles/enfantdelalune.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sélénite</a>.<br> 
+
+  <li>Plus tard, l’Avocat du Diable protège la <a href="./enfantdelalune.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sélénite</a>.<br> 
     Le <a href="../voyageurs/judge.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Juge</a> impose que l’exécution ait lieu.<br> 
-    L’exécution a lieu, mais la la <a href="../bmr_roles/enfantdelalune.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sélénite</a>  reste en vie. </li>
+    L’exécution a lieu, mais la <a href="./enfantdelalune.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sélénite</a> reste en vie.</li>
 </ul>
 
 ---
@@ -145,9 +144,9 @@ Instructions au Conteur
   <li>Vous pouvez aussi protéger un autre
       <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>,  
       surtout s’il s’agit d’un
-      <a href="../bmr_roles/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a>
+      <a href="./cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a>
       ou d’un
-      <a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>
+      <a href="./assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>
       encore utile.</li>
 </ul>
 
@@ -159,12 +158,12 @@ Instructions au Conteur
   <li>Protéger un joueur bon peut parfois être une excellente stratégie.  
       Cela crée de la confusion&nbsp;:  
       le groupe croira qu’il y a une
-      <a href="../bmr_roles/damedethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Tisanière</a>
-      ou un <a href="../bmr_roles/pacifiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pacifiste</a> en jeu.</li>
+      <a href="./damedethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Tisanière</a>
+      ou un <a href="./pacifiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pacifiste</a> en jeu.</li>
 
   <li>Vous pouvez imiter le comportement d’un rôle protecteur du Bien  
       et prétendre être le
-      <a href="../bmr_roles/pacifiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pacifiste</a>.  
+      <a href="./pacifiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pacifiste</a>.  
       C’est un bluff parfait&nbsp;: sa capacité est aléatoire et difficile à vérifier.</li>
 </ul>
 
@@ -177,13 +176,13 @@ Instructions au Conteur
       Une seule exécution ratée peut offrir la victoire au Mal.</li>
 
   <li>Méfiez-vous d’un
-      <a href="../bmr_roles/menestrel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ménestrel</a>
+      <a href="./menestrel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ménestrel</a>
       ou d’un
-      <a href="../bmr_roles/aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a>
+      <a href="./aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a>
       encore en vie&nbsp;: ils peuvent contrer vos effets indirectement.</li>
 
   <li>Si vous êtes exécuté, faites semblant d’être une victime du
-      <a href="../bmr_roles/pacifiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pacifiste</a>
+      <a href="./pacifiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pacifiste</a>
       pour désorienter le Village.</li>
 </ul>
 
@@ -199,9 +198,9 @@ Instructions au Conteur
   <li>Si un joueur est exécuté mais reste en vie,  
       cherchez à en déterminer la cause.  
       Il peut s’agir d’un
-      <a href="../bmr_roles/fou.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fou du roi</a>,  
-      d’un <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a>,  
-      d’une <a href="../bmr_roles/damedethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Tisanière</a>  
+      <a href="./fou.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fou du roi</a>,  
+      d’un <a href="./marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a>,  
+      d’une <a href="./damedethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Tisanière</a>  
       ou de l’<strong>Avocat du Diable</strong>.</li>
 
   <li>Exécutez le même joueur deux jours de suite&nbsp;:  
@@ -228,7 +227,7 @@ Instructions au Conteur
 
   <li>Vous pouvez prétendre être un Avocat du Diable « repenti »,  
       agissant comme un
-      <a href="../voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>
+      <a href="../voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>
       maléfique cherchant à se racheter.</li>
 
   <li>Si vous êtes un autre
