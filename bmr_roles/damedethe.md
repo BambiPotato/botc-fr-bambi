@@ -152,7 +152,7 @@ Il n’y a **pas de stratégie parfaite** — adaptez-vous à la table et aux mo
 
 <hr>
 
-Exécutez vos voisins :  
+**Exécutez vos voisins :**  
 S’ils sont tous deux bons, **ils ne mourront pas**.  
 C’est le moyen le plus rapide de prouver votre capacité.  
 
@@ -174,7 +174,8 @@ Vous pouvez alors révéler votre rôle avec un **suspect clair en tête**.
 Cette approche est particulièrement efficace contre le [<span style="color:red">Zombuul</span>](zombuul.md),  
 qui pourrait “mourir” sans se rendre compte qu’il n’aurait pas dû pouvoir mourir s’il était votre voisin !  
 
-###  <span style="color:blue">Coopérer avec vos voisins</span>     
+###  <span style="color:blue">Coopérer avec vos voisins</span>   
+
 <hr>
 
 Bâtissez une **relation de confiance**.  
