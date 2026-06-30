@@ -84,7 +84,9 @@ Rien de tel que la vertu du labeur pour se remettre dans le droit chemin.<br>
 
 **« Il y a des Marginaux supplémentaires en jeu. [+2  Marginaux] »**
 
-**LE BARON** modifie le nombre de Marginaux présents dans la partie.  
+<p class="botc-flavour-text dropcap">
+LE BARON modifie le nombre de Marginaux présents dans la partie.  
+</p>
 
 - Ce changement intervient lors de la **mise en place** et est irréversible même quand le **Baron** meurt.  
 - Toute modification apportée aux rôles lors de la mise en place, indépendamment du déroulement de la partie est indiquée entre crochets à la fin de la description du rôle sur sa fiche et sur les jetons,<br>comme ceci **[ceci]** : exemple : `[+2  Marginaux]` 
