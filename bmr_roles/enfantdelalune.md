@@ -95,11 +95,8 @@ La Sélénite peut prendre son temps et même demander l’avis du groupe avant 
 - Si la Sélénite est ivre ou empoisonnée au moment de choisir un joueur pendant la journée, mais sobre et saine lors de la nuit
 qui suit, ce joueur meurt. Si la Sélénite est sobre et saine au moment de choisir un joueur pendant la journée, mais ivre ouempoisonnée lors de la nuit qui suit, ce joueur ne meurt pas.
 
-- La Sélénite tue le [Gros bras](brute.md) si le [Gros bras](brute.md)  était bon lorsque la Sélénite l’a choisi, quel que soit l’alignement du Gros bras
-$ lors de la nuit qui suit.
-
-Si la Sélénite ne comprend pas qu'elle doit choisir un joueur à sa mort, rappelez-la discrètement. 
-Les nouveaux joueurs peuvent ne pas comprendre le fonctionnement de leur rôle.  
+- La Sélénite tue le [Gros bras](brute.md) si le [Gros bras](brute.md)  était bon lorsque la Sélénite l’a choisi, quel que soit l’alignement du [Gros bras](brute.md)
+ lors de la nuit qui suit.
 
 ---
 
