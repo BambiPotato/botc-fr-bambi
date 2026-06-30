@@ -79,7 +79,9 @@ image: "/images/Icon_fortuneteller.png"
 
 **« Chaque nuit, choisissez 2 joueurs et apprenez si un Démon est parmi eux. Un des joueurs bons vous apparaît comme un Démon.»**  
 
-**LA VOYANTE** peut détecter qui est le  [<span style="color:red">Démon</span>](../demons.md), mais peut être amenée à croire que des joueurs bons sont des Démons.
+<p class="botc-flavour-text dropcap">
+LA VOYANTE peut détecter qui est le  Démon, mais peut être amenée à croire que des joueurs bons sont des Démons.
+</p>
 
 - Chaque nuit, la Voyante choisit deux joueurs et apprend si au moins l’un d’entre eux est un Démon. Elle ne sait pas qui est un Démon, mais simplement s’il y en a un parmi eux.<br> Si aucun
 n’est un Démon, elle apprend cette information.
