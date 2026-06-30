@@ -11,17 +11,17 @@ image: /images/Icon_saint.png
   </a>
 </p>
 
-<h1><span style="color:blue">Saint</span></h1>
+<hr>
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="./saint.html" style="text-decoration:none;">
     <img src="../images/Icon_saint.png" alt="Saint" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:blue; font-weight:bold; font-size:22px;">Saint</span>
+    <span style="color:blue; font-weight:bold; font-size:50px;">Saint</span>
   </a>
 </div>
 
-<hr>
+<hr class="villageois">
 
 <h2><span style="color:blue">Informations</span></h2>
 
@@ -43,27 +43,19 @@ Ne craignez pas, car la crainte elle-même finira par passer.<br>
 Prions, et que l’unité de notre vision nous transcende tous. »
 </p>
 
-<hr>
+<hr class="villageois">
 
 <h2>Apparaît dans</h2>
 
-<h1><span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span></h1>
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
-</p>
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../trouble_brewing.html" style="text-decoration:none;">
     <img src="../images/Logo_trouble_brewing.png" alt="Trouble Brewing" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Trouble Brewing</span>
+    <span style="color:#b58b52; font-weight:bold; font-size:45px;">Trouble Brewing</span>
   </a>
 </div>
 
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-"Cult of the Clocktower – épisode par Andrew Nathenson"
-</p>
 
 <hr>
 
@@ -84,13 +76,22 @@ Prions, et que l’unité de notre vision nous transcende tous. »
 
 <h2><span style="color:blue">Comment Conter</span></h2>
 
+
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p>
+
+
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Si le <strong>Saint</strong> meurt <strong>par exécution</strong>, <strong>annoncez immédiatement la fin de la partie</strong> : <strong>le Mal gagne</strong>.</li>
+  <li>Si le <strong>Saint</strong> meurt par exécution, annoncez que la partie est terminée et que le Mal gagne.</li>
   <li>Si le Saint <strong>ne meurt pas par exécution</strong>, <strong>la partie continue</strong>.</li>
-  <li>La formulation « <em>votre équipe perd</em> » signifie ici « le Bien perd » car le Saint est toujours Bon dans <strong>Trouble Brewing</strong>.</li>
-  <li>Dans d’autres éditions, si le Saint peut devenir maléfique, inversez selon l’alignement réel au moment de l’exécution; (appliquez littéralement)<br>
-  « <em>votre équipe perd</em> ». Si un Saint <strong>maléfique</strong> est exécuté, alors <strong>le Bien gagne</strong>.</li>
 </ul>
+
+<div class="botc-note">
+La capacité du Saint comporte la phrase « votre équipe perd ».<br> 
+Dans <strong>TROUBLE BREWING</strong>, cela signifiera toujours « le Mal gagne » car le Saint est toujours bon.<br>  
+Dans d'autres modules, certains rôles peuvent changer d'alignement. Si un Saint maléfique est exécuté, le Bien gagne.<br> 
+</div> 
 
 <hr>
 
