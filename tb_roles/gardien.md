@@ -78,7 +78,9 @@ Que vos ailes soient l’instrument de ma vengeance ! Volez ! »
 
 **« Si vous mourez la nuit, vous êtes réveillée pour choisir un joueur et apprendre son rôle. »**  
 
-**LA CORNEILLE** apprend le rôle de n’importe quel joueur si elle meurt la nuit.
+<p class="botc-flavour-text dropcap">
+LA CORNEILLE apprend le rôle de n’importe quel joueur si elle meurt la nuit.
+</p>
 
 - La Corneille est réveillée lors de la nuit où elle meurt. Elle choisit alors immédiatement un joueur.
 - La Corneille peut choisir un joueur mort si elle le souhaite.
