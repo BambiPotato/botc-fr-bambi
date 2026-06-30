@@ -74,7 +74,9 @@ image: /images/Icon_butler.png
 ##  <span style="color:blue">Résumé</span>
 **« Chaque nuit, choisissez un joueur (sauf vous-même). Le lendemain, vous pouvez voter uniquement si ce joueur vote. »**  
 
-**LE MAJORDOME** ne peut voter que si son Maître vote.
+<p class="botc-flavour-text dropcap">
+LE MAJORDOME ne peut voter que si son Maître vote.
+</p>
 
 - Chaque nuit, le Majordome choisit un joueur comme Maître. Ce peut être le même joueur que la nuit d’avant, ou un autre joueur.
 
