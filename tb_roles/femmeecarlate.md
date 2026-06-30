@@ -80,7 +80,9 @@ image: /images/Icon_scarletwoman.png
 
 **« S’il y a au moins 5 joueurs en vie et que le <span style="color:red">Démon</span> meurt, vous devenez le <span style="color:red">Démon</span>. (Les Voyageurs ne comptent pas.) »**
 
-**LA FEMME ÉCARLATE** devient le Démon si le Démon meurt.
+<p class="botc-flavour-text dropcap">
+LA FEMME ÉCARLATE devient le Démon si le Démon meurt.
+</p>
 
 - S’il y a au moins cinq joueurs juste avant la mort du Démon – donc s’il reste au moins quatre joueurs après la mort du Démon 
   – la Femme écarlate devient immédiatement le Démon et la partie continue comme si rien ne s’était passé.
