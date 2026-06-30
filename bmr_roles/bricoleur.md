@@ -12,16 +12,14 @@ image: /images/Icon_tinker.png
   </a>
 </p>
 
-
-
-#    <span style="color:blue">Bricoleur</span>  
+---
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./bricoleur.html" style="text-decoration:none;">
     <img src="../images/Icon_tinker.png" alt="Bricoleur" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:blue; font-weight:bold; font-size:22px;">Bricoleur</span>
+    <span style="color:blue; font-weight:bold; font-size:50px;">Bricoleur</span>
   </a>
 </div>
 
@@ -62,22 +60,17 @@ image: /images/Icon_tinker.png
 </p>
 
 
----
+<hr class="marginal">
 
 
 ##  Apparaît dans  
-
-#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
-
-
----
 
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../bmr.html" style="text-decoration:none;">
     <img src="../images/Logo_bad_moon_rising-1.png" alt= "Bad Moon Rising" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Bad Moon Rising</span>
+    <span style="color:#b58b52; font-weight:bold; font-size:45px;">Bad Moon Rising</span>
   </a>
 </div>
 
@@ -90,7 +83,9 @@ image: /images/Icon_tinker.png
 
 **«Vous pourriez mourir à tout moment. »**
 
-**LE BRICOLEUR** peut mourir à tout moment, sans raison.
+<p class="botc-flavour-text dropcap">
+LE BRICOLEUR peut mourir à tout moment, sans raison.
+</p>
 
 - Le Conteur peut tuer le Bricoleur à tout moment.
 
@@ -102,7 +97,9 @@ image: /images/Icon_tinker.png
 
 ##  <span style="color:blue">Comment Conter</span>   
 
-**Instruction au Conteur**
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p>
 
 À tout moment, vous pouvez décider que le Bricoleur **meurt**.<br>  
 Si cela se produit pendant la journée, déclarez immédiatement que le Bricoleur est **mort**.<br> 
