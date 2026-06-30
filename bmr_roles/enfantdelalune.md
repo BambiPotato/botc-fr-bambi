@@ -75,11 +75,12 @@ De l’acier contre ma gorge ? Votre Destin est scellé. »
 
 ##  <span style="color:blue">Résumé</span>  
 
-<p style="text-align:left; color:#f5f5f5; font-style:bold; font-size:18px; margin-top:-10px;">
-Lorsque vous apprenez que vous êtes morte, choisissez publiquement un joueur vivant.<br> Cette nuit, si ce joueur était bon, il meurt. 
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
+Lorsque vous apprenez que vous êtes morte, choisissez publiquement un joueur vivant.<br>
+Cette nuit, si ce joueur était bon, il meurt.
 </p>
 
-<p class="botc-flavour-text dropcap">  
+<p class="botc-flavour-text dropcap"> 
 LA SÉLÉNITE maudit quelqu’un en mourant. Le joueur maudit meurt.
 </p>
 
