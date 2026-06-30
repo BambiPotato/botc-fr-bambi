@@ -81,7 +81,7 @@ image: /images/Icon_virgin.png
 **« La première fois qu’un joueur vous nomme, il est exécuté immédiatement s’il s’agit d’un Villageois.»**
 
 <p class="botc-flavour-text dropcap">
-L’IMMACULÉE** est à l’abri des exécutions... mais pas toujours.<br>
+L’IMMACULÉE est à l’abri des exécutions... mais pas toujours.<br>
 Nommer une Immaculée conduit en général à l’échafaud.
 </p>
 
