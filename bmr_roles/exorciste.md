@@ -12,20 +12,19 @@ image: /images/Icon_exorcist.png
   </a>
 </p>
 
-
-#   <span style="color:blue">Exorciste</span>  
+---
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./exorciste.html" style="text-decoration:none;">
     <img src="../images/Icon_exorcist.png" alt="Exorciste" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:blue; font-weight:bold; font-size:22px;">Exorciste</span>
+    <span style="color:blue; font-weight:bold; font-size:50px;">Exorciste</span>
   </a>
 </div>
 
 
----
+<hr class="villageois">
 
 ##  <span style="color:blue">Informations</span>
 
@@ -60,18 +59,10 @@ des âmes créées par Dieu à son image et rachetées par le sang précieux de 
 </p>
 
 
----
+<hr class="villageois">
 
 
 ##  Apparaît dans  
-
-#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
-</p>
-
----
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../bmr.html" style="text-decoration:none;">
@@ -81,19 +72,21 @@ des âmes créées par Dieu à son image et rachetées par le sang précieux de 
   </a>
 </div>
 
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-"Cult of the Clocktower – épisode par Andrew Nathenson"
-</p>
-
 ---
 
 
 ##  <span style="color:blue">Résumé</span>  
 
-<strong> « Chaque nuit*, choisissez un joueur (différent de la nuit précédente) : si c’est le [<span style="color:red">Démon</span>](../demons.md), il apprend qui vous êtes puis ne se réveille pas cette nuit. »</strong>  
+---
 
-**L’EXORCISTE** empêche le [<span style="color:red">Démon</span>](../demons.md) de se réveiller pour attaquer.
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
+« Chaque nuit*, choisissez un joueur (différent de la nuit précédente) : si c’est le [<span style="color:red">Démon</span>](../demons.md), il apprend qui vous êtes puis ne se réveille pas cette nuit. » 
+</p>
+
+<p class="botc-flavour-text dropcap">
+L’EXORCISTE empêche le [<span style="color:red">Démon</span>](../demons.md) de se réveiller pour attaquer.
+</p>
+
 
 - Chaque nuit, l’Exorciste choisit un joueur. S’il choisit un joueur qui n’est pas le Démon, le Démon peut encore attaquer.<br> 
 S’il choisit le Démon, le Démon ne se réveille pas cette nuit-là, et donc ne choisit pas de joueurs à attaquer cette nuit-là.<br>  
@@ -105,23 +98,27 @@ Le Démon apprend qu’il ne peut pas attaquer, et qui est l’Exorciste.<br>
 - L’Exorciste ne peut pas choisir le même joueur deux nuits d’affilée.
 
 
----
+##  <span style="color:blue">Comment Conter</span>  
+<hr> 
 
-##  <span style="color:blue">Comment Conter</span>    
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p>
 
 - Chaque nuit, sauf la première, réveillez l’Exorciste. Il désigne n’importe quel joueur.<br> Marquez le jeton de rôle du joueur choisi avec le jeton **CHOISI**.<br> L’Exorciste se rendort.
 
 - Si l’Exorciste a choisi le Démon, réveillez le Démon. <br>Montrez-lui la tuile <strong>CE RÔLE VOUS A CHOISI</strong> et le jeton Exorciste,<br> puis montrez le joueur Exorciste.<br>Le Démon se rendort. Plus tard cette nuit-là, ne réveillez pas le Démon. 
 
-**Instruction au Conteur**
-
-⚠️ *Un Démon choisi par l’Exorciste ne se réveillera pas pour utiliser sa capacité de Démon,  
+<div class="botc-note">
+⚠️ Un Démon choisi par l’Exorciste ne se réveillera pas pour utiliser sa capacité de Démon,  
 mais se réveillera tout de même s’il doit le faire à cause des capacités d’autres rôles.  
-Gardez cela en tête si vous utilisez l’Exorciste avec des rôles qui viennent d’autres modules.*
+Gardez cela en tête si vous utilisez l’Exorciste avec des rôles qui viennent d’autres modules.
+</div>
+
+
+##  <span style="color:blue">Exemples</span> 
 
 ---
-
-##  <span style="color:blue">Exemples</span>      
 
 - L’Exorciste choisit le [<span style="color:red">Shabaloth</span>](../bmr_roles/shabaloth.md).  
   → Cette nuit-là, personne ne meurt.  
@@ -132,9 +129,10 @@ Gardez cela en tête si vous utilisez l’Exorciste avec des rôles qui viennent
 - L’Exorciste choisit le [<span style="color:red">Po</span>](../bmr_roles/po.md).  
   → Le Po ne se réveille pas et n’attaque pas. La nuit suivante, il pourra choisir jusqu’à **3 victimes**.  
 
----
 
 ##  <span style="color:blue">Astuces & Conseils</span>   
+
+---
 
 - Si vous choisissez un joueur et qu’il n’y a **aucune mort** cette nuit-là, vous avez peut-être trouvé le [<span style="color:red">Démon</span>](../demons.md) !  
   - Vous pouvez révéler publiquement votre identité.  
@@ -159,9 +157,11 @@ Gardez cela en tête si vous utilisez l’Exorciste avec des rôles qui viennent
   - L’un est exécuté.  
   - L’autre, vous l’« exorcisez » pendant la nuit.  
 
----
 
-##  <span style="color:blue">Bluffer Exorciste</span>  
+
+##  <span style="color:blue">Bluffer l'Exorciste</span>  
+
+---
 
 - Ne révélez pas votre rôle trop tôt : un vrai Exorciste **reste discret**.  
 - Utilisez ce bluff pour parler en privé avec les [<span style="color:red">Sbires</span>](../sbires.md) ou le [<span style="color:red">Démon</span>](../demons.md).
@@ -175,8 +175,11 @@ Gardez cela en tête si vous utilisez l’Exorciste avec des rôles qui viennent
 - Associez votre bluff à des rôles qui influencent les morts :  
   → ex. [<span style="color:red">Assassin</span>](../bmr_roles/assassin.md), [<span style="color:red">Avocat du Diable</span>](../bmr_roles/avocatdudiable.md), [Commère](../bmr_roles/commere.md)…  
 
----
+<hr class="explication">
+
 ## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
+
+<hr class="explication">
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   
@@ -212,7 +215,7 @@ Gardez cela en tête si vous utilisez l’Exorciste avec des rôles qui viennent
        style="color:#d45b5b; font-weight:bold; text-decoration:none;">Yaggablabla</a> :
     Si l’<a href="../bmr_roles/exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a> 
     choisit le <span style="color:#d45b5b; font-weight:bold;">Yaggablabla</span>,  
-   le Yaggababble ne tue personne cette nuit.
+   le Yaggablabla ne tue personne cette nuit.
   </li>
   
 </ul> 
