@@ -103,8 +103,8 @@ Rien ne peut empêcher cet effet (sauf si l’Assassin n’a pas sa capacité, p
 
 ##  <span style="color:red">Exemples</span>  
 
-- Lors des trois premières nuits, l’Assassin se réveille, mais choisit de ne pas agir. Lors de la quatrième nuit, il décide de tuer le [Fou du roi](fou.md).<br>  
-Même si le [Fou du roi](fou.md) conserve sa capacité, le F[Fou du roi](fou.md) meurt et reste mort.
+- Lors des trois premières nuits, l’Assassin se réveille, mais choisit de ne pas agir. Lors de la quatrième nuit, il décide de tuer le [Fou du roi](fou.md).  
+Même si le [Fou du roi](fou.md) conserve sa capacité, le [Fou du roi](fou.md) meurt et reste mort.
 
 - La [Tisanière](damedethe.md) est voisine de deux joueurs bons. L’Assassin choisit de tuer l’un des voisins de la [Tisanière](damedethe.md). Ce voisin meurt malgré la protection de la [Tisanière](damedethe.md).<br> 
 Le Ménestrel est en jeu. Le Conspirateur meurt par exécution.
