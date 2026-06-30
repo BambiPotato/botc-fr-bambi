@@ -12,20 +12,21 @@ image: /images/Icon_courtier..png
   </a>
 </p>
 
-
-#   <span style="color:blue">Courtisan</span>  
+---
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./courtisan.html" style="text-decoration:none;">
     <img src="../images/Icon_courtier.png" alt="Courtisan" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:blue; font-weight:bold; font-size:22px;">Courtisan</span>
+    <span style="color:blue; font-weight:bold; font-size:50px;">Courtisan</span>
   </a>
 </div>
 
 
----
+<hr class="villageois">
+
+
 ##  <span style="color:blue">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
@@ -57,31 +58,19 @@ qu’une armée de cent lions menée par un mouton. »
 </p>
 
 
----
+<hr class="villageois">
 
 
 ##  Apparaît dans  
 
-#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
-</p>
-
----
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../bmr.html" style="text-decoration:none;">
     <img src="../images/Logo_bad_moon_rising-1.png" alt= "Bad Moon Rising" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Bad Moon Rising</span>
+    <span style="color:#b58b52; font-weight:bold; font-size:45px;">Bad Moon Rising</span>
   </a>
 </div>
-
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-"Cult of the Clocktower – épisode par Andrew Nathenson"
-</p>
 
 
 ---
@@ -91,7 +80,9 @@ qu’une armée de cent lions menée par un mouton. »
 
 **« Une fois par partie, la nuit, choisissez un rôle : il est ivre pendant 3 nuits et 3 jours. »**  
 
-**LE COURTISAN** enivre un rôle sans savoir de quel joueur il s’agit.
+<p class="botc-flavour-text dropcap">
+LE COURTISAN enivre un rôle sans savoir de quel joueur il s’agit.
+</p>
 
 - Une fois par partie, le Courtisan choisit un rôle à enivrer pendant trois nuits et trois jours, avec effet immédiat.
 
@@ -105,9 +96,11 @@ qu’une armée de cent lions menée par un mouton. »
 ---
 
 
-##  <span style="color:blue">Comment Conter</span>    
+##  <span style="color:blue">Comment Conter</span>  
 
-**Instruction au Conteur**
+ <p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p>
 
 - Chaque nuit, réveillez le Courtisan. Il fait non de la tête ou désigne n’importe quelle icône de rôle sur sa fiche de rôles. Le 
 Courtisan se rendort.
@@ -150,7 +143,7 @@ Courtisan.<br>  La nuit suivante, remplacez le jeton **IVRE 1** par le jeton **I
 
 -  **Villageois** : ce n’est pas optimal, mais parfois utile :  
   - [Bricoleur](bricoleur.md) ivre → ne meurt plus au hasard.  
-  - [Grand-Mère](grandmere.md) ivre → survit si son petit-enfant meurt.  
+  - [Grand-mère](grandmere.md) ivre → survit si son petit-enfant meurt.  
   - [Sélénite](enfantdelalune.md) ivre → ne provoque pas de mort supplémentaire.  
 
 -  **Tester les menteurs** : si un joueur prétend être [Exorciste](exorciste.md), rendez « Exorciste » ivre. Si malgré tout il continue à bloquer le <span style="color:red">Démon</span>, c’est un menteur.  
