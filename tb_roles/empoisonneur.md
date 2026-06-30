@@ -74,7 +74,10 @@ image: /images/Icon_poisoner.png
 
 **« Chaque nuit, choisissez un joueur : il est empoisonné cette nuit et le jour suivant. »**  
 
-**L’EMPOISONNEUR** perturbe temporairement, en secret, la capacité d’un autre rôle.
+<p class="botc-flavour-text dropcap">
+L’EMPOISONNEUR perturbe temporairement, en secret, la capacité d’un autre rôle.
+</p>
+
 
 - Chaque nuit, l’Empoisonneur choisit qun joueur à empoisonner. 
   - Sa victime sera empoisonnée cette nuit-là et toute la journée du lendemain.
