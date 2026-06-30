@@ -13,8 +13,7 @@ image: /images/Icon_investigator.png
 </p>
 
 ---
-
-#  <span style="color:blue">Détective</span>    
+ 
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -78,7 +77,9 @@ Ou devrais-je dire... Monsieur le Baron ? »
 ##  <span style="color:blue">Résumé</span>
 **« Lors de votre première nuit, vous apprenez un rôle de [<span style="color:red">Sbire</span>](../sbires.md) en jeu parmi 2 joueurs.»** 
 
-**LE DÉTECTIVE** apprend qu’un rôle de Sbire particulier est en jeu, mais ne sait pas qui l’incarne.
+<p class="botc-flavour-text dropcap">
+LE DÉTECTIVE** apprend qu’un rôle de Sbire particulier est en jeu, mais ne sait pas qui l’incarne.
+</p>
 
 - Lors de la première nuit, le Conteur réveille le ou la Détective et lui montre deux joueurs<br>et un rôle de Sbire, qui appartient à l’un des deux.<br>Il reçoit cette information une seule fois, et n’apprend rien d’autre.
 
