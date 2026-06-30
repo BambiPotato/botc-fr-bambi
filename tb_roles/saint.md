@@ -63,7 +63,10 @@ Prions, et que l’unité de notre vision nous transcende tous. »
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Si vous mourez par exécution, votre équipe perd. »</strong><br>
-  <strong>LE SAINT</strong> met fin immédiatement à la partie s'il est exécuté.
+</p>
+
+  <p class="botc-flavour-text dropcap">
+  LE SAINT met fin immédiatement à la partie s'il est exécuté.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
