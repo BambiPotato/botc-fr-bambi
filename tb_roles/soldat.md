@@ -80,7 +80,9 @@ Non. »
 
 **«Vous êtes protégé du Démon.»**  
 
-**LE SOLDAT** ne peut pas être tué par le Démon.
+<p class="botc-flavour-text dropcap">
+LE SOLDAT ne peut pas être tué par le Démon.
+</p>
 
 - Le Soldat ne peut pas mourir à cause de la capacité du Démon.
   - Si le Diablotin attaque le Soldat la nuit, rien ne se passe.
