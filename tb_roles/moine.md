@@ -79,7 +79,9 @@ Le Mal ne viendra pas t’y trouver, je m’en porte garant. »
 
  <strong>« Chaque nuit*, choisissez un joueur (sauf vous-même) : il est protégé du Démon cette nuit. »</strong>
 
-**LE MOINE** protège les autres joueurs du Démon.
+<p class="botc-flavour-text dropcap">
+LE MOINE protège les autres joueurs du Démon.
+</p> 
 
 - Chaque nuit, sauf la première, le Moine peut choisir de protéger n’importe quel joueur, sauf lui-même.
 
