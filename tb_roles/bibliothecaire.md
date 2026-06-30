@@ -75,7 +75,9 @@ image: /images/Icon_librarian.png
 
 **« Lors de votre première nuit, vous apprenez un rôle de Marginal en jeu parmi 2 joueurs (ou qu’aucun Marginal n’est en jeu).»** 
 
-**L’ARCHIVISTE** apprend qu’un Marginal en particulier est en jeu, mais ne sait pas qui l’incarne.
+<p class="botc-flavour-text dropcap">
+L’ARCHIVISTE apprend qu’un Marginal en particulier est en jeu, mais ne sait pas qui l’incarne.
+</p>
 
 - Lors de la première nuit, le Conteur réveille l’Archiviste et lui montre deux joueurs et un rôle de Marginal, qui appartient l’un des deux.
 Il reçoit cette information une seule fois, et n’apprend rien d’autre.
