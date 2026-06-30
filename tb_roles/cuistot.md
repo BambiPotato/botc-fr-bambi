@@ -77,7 +77,9 @@ image: /images/Icon_chef.png
 
 **« Lors de votre première nuit, vous apprenez le nombre de paires de joueurs maléfiques.»**  
 
-- **LE CUISINIER** apprend si plusieurs joueurs maléfiques sont côte à côte.
+<p class="botc-flavour-text dropcap">
+LE CUISINIER apprend si plusieurs joueurs maléfiques sont côte à côte.
+</p>
 
 - Lors de la première nuit, le **Cuisinier** apprend exactement combien il y a de paires de joueurs maléfiques.
   Une paire est constituée de deux joueurs assis côte à côte. 
