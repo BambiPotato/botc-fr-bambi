@@ -78,7 +78,10 @@ Mais saurez-vous laquelle ? »
 ##  <span style="color:red">Résumé</span>
 **« Chaque nuit, vous voyez le Grimoire. Vous pourriez apparaître comme bonne et comme Villageois ou Marginal, même morte. »**
 
-**L’ESPIONNE** connaît tous les rôles. Elle-même apparaît comme bonne, mais le joueur est maléfique.
+<p class="botc-flavour-text dropcap">
+L’ESPIONNE connaît tous les rôles. Elle-même apparaît comme bonne, mais le joueur est maléfique.
+</p>
+
 
 - Si un rôle dispose d’une capacité qui peut détecter ou affecter un joueur bon, alors l’Espionne pourrait apparaître comme bonne aux yeux de ce rôle. 
 
