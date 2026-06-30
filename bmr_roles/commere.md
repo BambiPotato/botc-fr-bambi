@@ -12,22 +12,21 @@ image: /images/Icon_gossip.png
   </a>
 </p>
 
-
-#   <span style="color:blue">Commère</span>  
+---
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./commere.html" style="text-decoration:none;">
     <img src="../images/Icon_gossip.png" alt="Commère" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:blue; font-weight:bold; font-size:22px;">Commère</span>
+    <span style="color:blue; font-weight:bold; font-size:50px;">Commère</span>
   </a>
 </div>
 
 
----
+<hr class="villageois">
 
-##  <span style="color:blue">Informations</span>
+
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
@@ -59,33 +58,20 @@ bla bla bla bla. Bla.»
 </p>
 
 
----
+<hr class="villageois">
 
 
 ##  Apparaît dans  
-
-#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
-</p>
-
-
----
 
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../bmr.html" style="text-decoration:none;">
     <img src="../images/Logo_bad_moon_rising-1.png" alt= "Bad Moon Rising" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Bad Moon Rising</span>
+    <span style="color:#b58b52; font-weight:bold; font-size:45px;">Bad Moon Rising</span>
   </a>
 </div>
 
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-"Cult of the Clocktower – épisode par Andrew Nathenson"
-</p>
 
 ---
 
@@ -94,7 +80,9 @@ bla bla bla bla. Bla.»
 
 **« Chaque jour, vous pouvez faire une annonce publiquement. Cette nuit, si votre annonce était vraie, un joueur meurt. »**  
 
-**LA COMMÈRE** prêche le faux pour savoir le vrai.
+<p class="botc-flavour-text dropcap">
+LA COMMÈRE prêche le faux pour savoir le vrai.
+</p>
 
 - Chaque jour, la Commère peut faire une annonce publique.
  - Si cette annonce est vraie, le Conteur tue un joueur cette nuit-là.
@@ -110,24 +98,41 @@ bla bla bla bla. Bla.»
 
 ##  <span style="color:blue">Comment Conter</span>    
 
-**Instruction au Conteur**
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p>
 
-- Chaque jour, si la Commère fait une **déclaration claire et vérifiable**, notez-le.  
-- Chaque nuit (sauf la première), si la déclaration était **vraie**, le Conteur choisit un joueur et le tue.  
-- Si possible, choisissez un joueur dont la mort sera visible et utile et et non un rôle protégé par un pouvoir comme le [Fou du Roi](fou.md) ou la [Tisanière](damedethe.md).  
-- La Commère acquiert des connaissances lorsque ses commérages entraînent une mort. C'est plus avantageux pour l'équipe du Bien et plus amusant pour tous.
+- Chaque jour, si la Commère fait une déclaration publique claire et véridique, placez le jeton **MORT** de la Commère au milieu de la partie gauche du Grimoire en guise de rappel : vous devrez le placer cette nuit-là.
+
+- Chaque nuit, sauf la première, si la Commère a fait une déclaration publique claire et véridique dans la journée, choisissez n’importe quel joueur. 
+Le joueur choisi meurt — marquez-le d’un jeton **MORT**.
+
+<div class="botc-note">
+Lorsque vous choisissez un joueur qui va mourir à cause de la capacité de la Commère, nous vous conseillons de choisir un rôle qui va vraiment mourir, et non un rôle protégé de la mort par une capacité (comme le [Fou du roi](fou.md)  ou la [Tisanière](damedethe.md)). 
+La Commère apprend des choses utiles lorsque sa déclaration provoque la mort de quelqu’un.
+Cela est plus utile à l’équipe du Bien et plus amusant pour tous.
+</div>
+
+---
+
+##  <span style="color:blue">Exemples</span> 
+
+- Pendant la journée, la Commère dit : *« Je suis la Commère. Ma déclaration publique est : Le Démon porte un chapeau. »*
+  - Le Démon ne porte pas de chapeau. Cette nuit-là, la capacité de la Commère ne provoque aucun mort.
+
+- La Commère est voisine d’un Voyageur bon et du [Pacifiste](pacifiste.md). 
+  - Pendant la journée, la Commère ivre dit : « Mes deux voisins sont bons. » 
+  - Au crépuscule, la Commère ivre devient sobre.
+
+- Cette nuit-là, la  [Femme de Chambre](femmedechambre.md) meurt.
+  - Pendant la journée, la Commère fait une vraie déclaration. 
+- Cette nuit-là, la Commère est tuée par le Démon. 
+  - Elle perd sa capacité.
+  - En conséquence, sa déclaration ne tue personne cette nuit-là.
+ 
 
 ---
 
-##  <span style="color:blue">Exemples</span>   
-
-- La Commère dit : *« Le <span style="color:red">Démon</span> porte un chapeau. »* → Le <span style="color:red">Démon</span> n’en porte pas → personne ne meurt à cause d’elle cette nuit-là.  
-
-- Ivre, elle déclare : *« Mes deux voisins sont bons. »* → Le soir, elle redevient sobre. Cette nuit, un joueur meurt (pouvoir validé).  
-
-- La Commère dit une vérité, mais meurt le soir-même tuée par le <span style="color:red">Démon</span> → son pouvoir n’agit pas.  
-
----
 
 ##  <span style="color:blue">Astuces & Conseils</span>   
 
@@ -138,7 +143,7 @@ bla bla bla bla. Bla.»
 - Préférez des phrases **binaires et claires** (ex. : *« Le <span style="color:red">Démon</span> a nominé hier »*) plutôt que vagues (*« Le <span style="color:red">Démon</span> a agi hier »*).  
 
 - Faire une déclaration **fausse volontairement** permet de limiter les risques tout en testant vos hypothèses.  
-  Exemple : dire *« Il n’y a pas de [Femme de Chambre](femmedecha.md) en jeu »* alors qu’une joueuse l’a révélé → si personne ne meurt, vous la confirmez.  
+  Exemple : dire *« Il n’y a pas de [Femme de Chambre](femmedechambre.md) en jeu »* alors qu’une joueuse l’a révélé → si personne ne meurt, vous la confirmez.  
 
 - Faire une déclaration **vraie volontairement** peut vous permettre de prouver votre rôle, mais cela cause souvent une mort.  
 
@@ -154,7 +159,7 @@ bla bla bla bla. Bla.»
 
 ---
 
-##  <span style="color:blue">Bluffer Commère</span>  
+##  <span style="color:blue">Bluffer la Commère</span>  
 
 - **Version prudente :** faites des déclarations peu risquées, qui paraissent crédibles mais n’apportent rien. Vous paraissez bon, mais vos infos sont négligeables.  
 
