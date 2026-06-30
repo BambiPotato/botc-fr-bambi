@@ -80,8 +80,10 @@ image: /images/Icon_virgin.png
 
 **« La première fois qu’un joueur vous nomme, il est exécuté immédiatement s’il s’agit d’un Villageois.»**
 
-**L’IMMACULÉE** est à l’abri des exécutions... mais pas toujours.
-**Nommer une Immaculée conduit en général à l’échafaud.**
+<p class="botc-flavour-text dropcap">
+L’IMMACULÉE** est à l’abri des exécutions... mais pas toujours.<br>
+Nommer une Immaculée conduit en général à l’échafaud.
+</p>
 
 - Si un Villageois nomme l’Immaculée, alors ce Villageois est immédiatement exécuté. 
 Comme il ne peut y avoir qu’une seule exécution par jour, ne poursuivez l’étape de nomination, même si un joueur était sur le point de mourir.
