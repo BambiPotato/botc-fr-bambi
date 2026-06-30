@@ -120,7 +120,7 @@ Des senteurs exotiques filtrent par les fenêtres entrouvertes et les seuils de 
 Une brise automnale étonnamment tiède vient caresser les murs couverts de lierre tandis qu’un murmure résonne aux oreilles de ceux qui osent s’aventurer sur les pavés des ruelles.
 </p>
 
-<p class="botc-flavour-text">
+<p class="botc-flavour-text dropcap">
 Inquiètes, des mères rappellent leurs enfants à la maison, alors que le tonnerre commence à gronder à l'horizon.<br>
 Mais en écoutant attentivement, des bruits encore plus étranges proviennent de la forêt toute proche.<br>
 Sous le clocher d’un monastère qui domine la région, des silhouettes encapuchonnées semblent bondir d’une porte à l’autre.
@@ -130,7 +130,8 @@ Sous le clocher d’un monastère qui domine la région, des silhouettes encapuc
 Ceux qui peuvent lire les signes savent que les germes de la discorde ne sont pas loin…
 </p>
 
----
+<hr class="explication">
+
 
 ##  <span style="color:#b58b52;">Gameplay</span>
 
@@ -181,7 +182,10 @@ Le <a href="./tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-de
 Les joueurs maléfiques voteront-ils pour exécuter un <a href="./sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> trop suspect afin d’endormir les soupçons de leurs adversaires ?
 </p>
 
----
+
+
+<hr class="explication">
+
 
 <p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
   <a id="villageois" href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
