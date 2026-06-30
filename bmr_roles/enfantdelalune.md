@@ -12,20 +12,19 @@ image: /images/Icon_moonchild.png
   </a>
 </p>
 
-
-#  <span style="color:blue">Enfant de la lune</span>  
+---
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./enfantdelalune.html" style="text-decoration:none;">
     <img src="../images/Icon_moonchild.png" alt="Enfant de la lune" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:blue; font-weight:bold; font-size:22px;">Enfant de la lune</span>
+    <span style="color:blue; font-weight:bold; font-size:50px;">Sélénite</span>
   </a>
 </div>
 
+<hr class="villageois">
 
----
 <h2 style="color:#4ea3ff; font-weight:bold;">Informations</h2>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
@@ -51,84 +50,94 @@ image: /images/Icon_moonchild.png
   </li>
 </ul> 
 
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Le Scorpion regarde les Gémeaux. Vous avez un choix à faire.<br> 
+De l’argent contre ma paume ? Votre Destin sera révélé.<br> 
+De l’acier contre ma gorge ? Votre Destin est scellé. »
+</p>
 
-> *« Le Scorpion regarde de côté les amants, et vous avez un choix à faire. Avec de l’argent dans ma paume, votre destin sera révélé. Avec de l’acier sur ma gorge, les étoiles vous feront regretter votre choix.»*
 
----
+<hr class="villageois">
 
 
 ##  Apparaît dans  
 
-#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
-</p>
-
----
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../bmr.html" style="text-decoration:none;">
     <img src="../images/Logo_bad_moon_rising-1.png" alt= "Bad Moon Rising" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Bad Moon Rising</span>
+    <span style="color:#b58b52; font-weight:bold; font-size:45px;">Bad Moon Rising</span>
   </a>
 </div>
-
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-"Cult of the Clocktower – épisode par Andrew Nathenson"
-</p>
 
 
 
 ##  <span style="color:blue">Résumé</span>  
 
-> **« Lorsque vous apprenez que vous êtes morte, choisissez publiquement un joueur vivant. Cette nuit, si ce joueur était bon, il meurt. »**
+**« Lorsque vous apprenez que vous êtes morte, choisissez publiquement un joueur vivant. Cette nuit, si ce joueur était bon, il meurt. »**
 
-La **Sélénite** maudit un joueur à sa mort le tuant également.
+L A SÉLÉNITE maudit quelqu’un en mourant. Le joueur maudit meurt.
 
-- Lorsque vous **apprenez que vous êtes morte**, vous devez **immédiatement choisir un joueur vivant**.  
-- Si le joueur choisi est **bon**, il **meurt cette nuit-là**.  
-- Si le joueur est **maléfique**, il **ne se passe rien**.  
-- La Sélénite doit choisir **publiquement**, en une minute environ, après l’annonce de sa mort (que ce soit de nuit ou par exécution). 
-- La Sélénite peut prendre son temps et demander conseil au groupe avant de prendre cette décision.
-- Si la Sélénite refuse de choisir volontairement, c’est considéré comme **une tricherie**. 
-- Si la Sélénite est sobre et sain la nuit, mais était ivre ou empoisonnée lorsqu'elle a choisi un joueur aujourd'hui, ce joueur meurt. 
-- Si la Sélénite est ivre ou empoisonnée la nuit, mais était sobre et saine lorsqu'elle a choisi un joueur aujourd'hui, ce joueur ne meurt pas.
-- La Sélénite tue la [Brute](brute.md) si celle-ci était d'aligment bon au moment où la Sélénite l'a choisie, indépendamment de son alignement nocturne.
+- La Sélénite doit choisir un joueur dans la ou les minutes qui suivent le moment où elle a appris sa mort, soit par exécution, soit à l’aube lorsque le Conteur annonce qui est mort pendant la nuit.
+La Sélénite peut prendre son temps et même demander l’avis du groupe avant de prendre sa décision.
 
+- Si la Sélénite choisit un joueur bon, ce joueur meurt cette nuit-là. Si elle choisit un joueur maléfique, rien ne se passe.
 
->  *Astuce Conteur*
-> * Si la Sélénite ne comprend pas qu'elle doit choisir un joueur à sa mort, rappelez-la discrètement. 
-> * Les nouveaux joueurs peuvent ne pas comprendre le fonctionnement de leur rôle.  
+- Comme toujours, si un joueur maléfique se fait passer pour la Sélénite et fait semblant d’utiliser sa capacité, vous devez jouer le jeu.
+
+- Le Conteur n’a pas à demander à la Sélénite de choisir un joueur. La Sélénite doit le faire d’elle-même, peu après avoir appris sa mort. « Oublier » volontairement d’exercer cette capacité est considéré comme de la triche.
+
+- Si la Sélénite est ivre ou empoisonnée au moment de choisir un joueur pendant la journée, mais sobre et saine lors de la nuit
+qui suit, ce joueur meurt. Si la Sélénite est sobre et saine au moment de choisir un joueur pendant la journée, mais ivre ouempoisonnée lors de la nuit qui suit, ce joueur ne meurt pas.
+
+- La Sélénite tue le [Gros bras](brute.md) si le [Gros bras](brute.md)  était bon lorsque la Sélénite l’a choisi, quel que soit l’alignement du Gros bras
+$ lors de la nuit qui suit.
+
+Si la Sélénite ne comprend pas qu'elle doit choisir un joueur à sa mort, rappelez-la discrètement. 
+Les nouveaux joueurs peuvent ne pas comprendre le fonctionnement de leur rôle.  
 
 ---
 
 ##  <span style="color:blue">Comment Conter</span>   
 
-- Dès que vous annoncez que **la Sélénite** est morte, laissez-la choisir un joueur vivant publiquement.  
-- Si le joueur choisi est **bon**, placez le jeton **MORT** de la Sélénite sur son rôle.  
-- Ce joueur mourra **cette nuit-là**, sauf s’il est protégé (par exemple par la [Dame de Thé](damedethe.md) ou l’[Aubergiste](aubergiste.md)).  
-- Si le joueur choisi est **maléfique**, rien ne se passe.  
-- Le Conteur peut rappeler discrètement à un nouveau joueur qu’il doit faire un choix s’il ne connaît pas la règle.
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p>
+
+
+- Lorsque vous annoncez que la Sélénite est morte, la Sélénite choisit n’importe quel joueur en vie. 
+  - Si le joueur choisi est bon, marquez son jeton de rôle du jeton **MORT**. 
+  - Cette nuit-là, le joueur marqué du jeton **MORT** de la Sélénite meurt.
+  - Si le joueur choisi est bon mais qu'il est protégé ( par une [Tisanière](damedethe.md) ou un [Aubergiste](aubergiste.md)), il ne moura pas. 
+  - Si le joueur choisi est **Maléfique**, rien ne se passe.  
+
+
+<div class="botc-note">  
+Si la Sélénite ne se rend pas compte qu’elle doit choisir un joueur lorsqu’elle meurt, rappelez-le-lui en privé.
+Les nouveaux joueurs peuvent avoir du mal à comprendre comment fonctionne ce rôle. 
+</div>
 
 ---
 
 ##  <span style="color:blue">Exemples</span>     
 
-- Le <a href="pukka.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pukka</a> tue l’Enfant de la Lune.  
-  Le lendemain matin, l’Enfant de la Lune choisit l’[Exorciste](exorciste.md).  
-  Cette nuit-là, **l’Exorciste meurt**.  
+- Le <a href="pukka.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pukka</a> tue la Sélinite.  
+  Le lendemain matin, la Sélinite choisit l’[Exorciste](exorciste.md).  
+  Cette nuit-là, **l'[Exorciste](exorciste.md)** meurt.  
 
 - Le [Pacifiste](pacifiste.md) est en jeu.  
-  La Sélénite est exécutée, mais **reste en vie** grâce au [Pacifiste](pacifiste.md)  : elle **ne choisit personne**.  
+  La Sélénite est exécutée, mais **reste en vie** grâce à la capacité du [Pacifiste](pacifiste.md).  
+  - La Sélinite ne choisit pas de joueur car elle n'est pas morte.  
 
-- Le <a href="shabaloth.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a> dévore la Sélénite , qui choisit l’<a href="assassin.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>.  
-  L’<a href="assassin.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> survit, et le <a href="shabaloth.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a> **régurgite** sa victime, 
- la Sélénite revient à la  vie.  
-  Quelques nuits plus tard, le <a href="shabaloth.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a> le mange de nouveau : cette fois, il choisit la [Commère](commere.md), qui **meurt**.
+- Le <a href="shabaloth.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a> dévore la Sélénite. La Sélinite choisit l’<a href="assassin.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>.  
+  L’<a href="assassin.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> reste en vie. 
+  
+- Le <a href="shabaloth.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a> dévore à nouveau la Sélénite. La Sélénite revient à la  vie.  
+  Quelques nuits plus tard, le <a href="shabaloth.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a> dévore à  nouveau la Sélinite.
+  Cette fois-ci, la Sélénite choisit la [Commère](commere.md). La [Commère](commere.md) meurt. 
 
+  
 ---
 
 ##  <span style="color:blue">Astuces & Stratégies</span>    
@@ -158,8 +167,8 @@ Votre rôle demande donc réflexion, timing et un brin de tragédie.
 
 ###  Anticiper les protections  
 
-- Les joueurs **impossibles à tuer** (comme le [Marin](marin.md) ou le [Fou](fou.md)) survivront à votre malédiction.  
-- De même, les protections de la [Dame de Thé](damedethe.md) ou de l’[Aubergiste](aubergiste.md) peuvent **empêcher la mort**.  
+- Les joueurs **impossibles à tuer** (comme le [Marin](marin.md) ou le [Fou du roi](fou.md)) survivront à votre malédiction.  
+- De même, les protections de la [DTisanière](damedethe.md) ou de l’[Aubergiste](aubergiste.md) peuvent **empêcher la mort**.  
 - Si vous souhaitez éviter un surplus de morts, choisissez **délibérément** l’un d’eux.
 
 ---
@@ -172,7 +181,7 @@ Votre rôle demande donc réflexion, timing et un brin de tragédie.
 
 ---
 
-##   <span style="color:blue">Bluffer Sélénite</span>  
+##   <span style="color:blue">Bluffer la Sélénite</span>  
 
 ###  Si, vous êtes <span style="color:blue">Bon</span>   
 
