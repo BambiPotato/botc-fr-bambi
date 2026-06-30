@@ -156,10 +156,10 @@ Exécutez vos voisins :
 S’ils sont tous deux bons, **ils ne mourront pas**.  
 C’est le moyen le plus rapide de prouver votre capacité.  
 
-> ⚠️ Évitez de tester sur des joueurs déjà protégés par leur capacité, comme le [Marin](marin.md) ou le [Fou du roi](fou.md), cela brouille les résultats.  
-> Méfiez-vous aussi de l’[<span style="color:red">Avocat du Diable</span>](avocatdudiable.md), qui peut donner une fausse impression de protection,  
-> et du [Pacifiste](pacifiste.md), dont la capacité peut rendre les exécutions ambiguës.  
-
+<div class="botc-note">
+⚠️ Évitez de tester sur des joueurs déjà protégés par leur capacité, comme le [Marin](marin.md) ou le [Fou du roi](fou.md), cela brouille les résultats.   Méfiez-vous aussi de l’[<span style="color:red">Avocat du Diable</span>](avocatdudiable.md), qui peut donner une fausse impression de protection,  
+et du [Pacifiste](pacifiste.md), dont la capacité peut rendre les exécutions ambiguës.  
+</div>
 
 ###  <span style="color:blue">Jouer en secret</span>   
 
