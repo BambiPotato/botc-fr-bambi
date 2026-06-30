@@ -12,19 +12,18 @@ image: /images/Icon_chambermaid.png
   </a>
 </p>
 
-
-#   <span style="color:blue">Femme de chambre</span>  
+---
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./femmedechambre.html" style="text-decoration:none;">
     <img src="../images/Icon_chambermaid.png" alt="Femme de chambre" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:blue; font-weight:bold; font-size:22px;">Femme de chambre</span>
+    <span style="color:blue; font-weight:bold; font-size:50px;">Femme de chambre</span>
   </a>
 </div>
 
----
+<hr class="villageois">
 
 
 ##  <span style="color:blue">Informations</span>
@@ -59,42 +58,36 @@ pour préparer des potions bizarres, comme vous l’avez dit, Madame. »
 </p>
 
 
----
+<hr class="villageois">
 
 
 ##  Apparaît dans  
-
-#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
-</p>
-
----
 
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../bmr.html" style="text-decoration:none;">
     <img src="../images/Logo_bad_moon_rising-1.png" alt= "Bad Moon Rising" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Bad Moon Rising</span>
+    <span style="color:#b58b52; font-weight:bold; font-size:45px;">Bad Moon Rising</span>
   </a>
 </div>
 
 
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-"Cult of the Clocktower – épisode par Andrew Nathenson"
-</p>
+<hr class="explication">
 
+
+##  <span style="color:blue">Résumé</span>  
 
 ---
 
 
-##  <span style="color:blue">Résumé</span>   
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
+« Chaque nuit, choisissez 2 joueurs en vie (sauf vous-même) : vous apprenez combien d’entre eux se sont réveillés cette nuit à cause de leur capacité. »
+</p>
 
-**« Chaque nuit, choisissez 2 joueurs en vie (sauf vous-même) : vous apprenez combien d’entre eux se sont réveillés cette nuit à cause de leur capacité. »**  
-
-**LA FEMME DE CHAMBRE** apprend qui s’est réveillé cette nuit.
+<p class="botc-flavour-text dropcap">
+LA FEMME DE CHAMBRE apprend qui s’est réveillé cette nuit.
+</p>
 
 - Chaque nuit, elle choisit deux joueurs en vie, sauf elle-même,et apprend s’ils se sont réveillés cette nuit-là. 
   Cela ne lui permet pas de détecter lequel de ces joueurs s’est réveillé, mais simplement combien.
@@ -112,9 +105,15 @@ par exemple :
 
 - Si la Femme de chambre choisit un joueur mort par erreur, le Conteur doit lui demander d’en choisir un autre.
 
----
+
 
 ##  <span style="color:blue">Comment Conter</span>  
+
+---
+
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p>
 
 - Chaque nuit, réveillez la Femme de Chambre.  
 - Elle choisit deux joueurs vivants.  
@@ -124,11 +123,16 @@ par exemple :
   - **2** → les deux se sont réveillés.  
 - Endormez la Femme de Chambre.  
 
-*⚠️ Ne réveillez pas la Femme de chambre s’il y a moins de deux joueurs en vie à choisir - exemple : fin de partie avec [<span style="color:red">Conspirateur</span>](cerveau.md), [<span style="color:red">Zombuul</span>](zombuul.md)...)*  
+<div class="botc-note">
+⚠️ Ne réveillez pas la Femme de chambre s’il y a moins de deux joueurs en vie à choisir - exemple : fin de partie avec [<span style="color:red">Conspirateur</span>](cerveau.md), [<span style="color:red">Zombuul</span>](zombuul.md)...) 
+</div>
+
+
+
+##  <span style="color:blue">Exemples</span>  
 
 ---
 
-##  <span style="color:blue">Exemples</span>  
 
 - La Femme de Chambre choisit l’[Exorciste](exorciste.md) et l’[Aubergiste](aubergiste.md).  
   → Elle apprend un « 2 ».  
@@ -143,9 +147,11 @@ par exemple :
 - La première nuit, elle choisit l’[<span style="color:red">Assassin</span>](assassin.md) et la [<span style="color:red">Sélénite</span>](enfantdelalune.md).  
   → Elle apprend un « 0 », car aucun ne se réveille encore.  
 
----
+
 
 ##  <span style="color:blue">Astuces & Conseils</span>  
+
+---
 
 - Vous ne détectez pas directement les <span style="color:red">maléfiques</span>, mais vous détectez **les menteurs**.  
   - Un joueur qui dit être [Parieur](parieur.md) mais qui ne se réveille pas → il ment.  
@@ -161,9 +167,11 @@ par exemple :
 
 - Plus vous testez large, plus vous obtenez de données globales. Mais en fin de partie, cibler un seul joueur de manière répétée peut être plus utile.  
 
----
+
 
 ##  <span style="color:blue">Bluffer Femme de Chambre</span>  
+
+---
 
 - Si vous savez qui est qui, vous pouvez **donner des infos exactes** → vous et eux paraissez crédibles.  
 - Si vous ne savez pas, vous pouvez mentir : ex. dire « 1 » est le plus sûr (ça passe presque toujours).  
@@ -175,6 +183,8 @@ par exemple :
 ---
 
 ## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
+
+<hr class="explication">
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
@@ -188,7 +198,7 @@ par exemple :
 
 </ul>
 
----
+<hr class="explication">
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
