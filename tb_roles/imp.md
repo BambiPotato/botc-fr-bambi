@@ -77,8 +77,12 @@ Sauf à moi. Vous pouvez me faire confiance. »
   Si vous vous tuez de cette façon, un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> devient le Diablotin. »</strong>
 </p>
 
+<p class="botc-flavour-text dropcap">
+LE DIABLOTIN tue la nuit et peut s’incarner dans un de ses Sbires... en payant le prix fort.
+</p>
+
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px; white-space:normal; overflow-wrap:anywhere; word-break:break-word;">
-  <span style="color:#f5f5f5; font-weight:bold;">LE DIABLOTIN</span> tue la nuit et peut s’incarner dans un de ses Sbires... en payant le prix fort.<br> Cet effet peut s’enchaîner : ainsi, le nouveau Démon peut lui-même se tuer pour qu’un nouveau Sbire devienne Diablotin, et ainsi de suite.
+  Cet effet peut s’enchaîner : ainsi, le nouveau Démon peut lui-même se tuer pour qu’un nouveau Sbire devienne Diablotin, et ainsi de suite.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; white-space:normal; overflow-wrap:anywhere; word-break:break-word;">
