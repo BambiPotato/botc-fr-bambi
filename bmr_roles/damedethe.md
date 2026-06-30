@@ -73,12 +73,12 @@ Si vous êtes énervé, le thé vous calmera. »
 </div>
 
 
-
 <hr class="explication">
 
 ##  <span style="color:blue">Résumé</span>  
 
 <hr>
+
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
 « Si vos deux voisins vivants sont bons, ils ne peuvent pas mourir. »
