@@ -161,6 +161,7 @@ S’il devine juste, rien ne se passe. S’il se trompe, le Parieur meurt.
 
 <hr class="explication">
 
+
 <p style="text-align:left; font-size:18px; margin-top:20px;">
    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
    <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
