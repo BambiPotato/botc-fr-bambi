@@ -78,7 +78,9 @@ Un militaire, sans aucun doute. »
 
 <strong>« Chaque nuit*, vous apprenez quel rôle est mort par exécution dans la journée. »</strong>
 
-**LE FOSSOYEUR** apprend le rôle du joueur qui a été exécuté dans la journée.
+<p class="botc-flavour-text dropcap">
+LE FOSSOYEUR apprend le rôle du joueur qui a été exécuté dans la journée.
+</p>
 
 - Ce joueur doit avoir été tué par exécution pour que le Fossoyeur apprenne qui il était. 
    - Les morts causées lors de la journée par d’autres effets (par exemple :
