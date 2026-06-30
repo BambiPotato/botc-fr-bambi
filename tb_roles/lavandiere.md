@@ -66,8 +66,8 @@ image: /images/Icon_washerwoman.png
 </p>
 
 <p class="botc-flavour-text dropcap">
-   <strong>LA LAVANDIÈRE</strong> apprend qu’un certain rôle
-  <a href="../villageois.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Villageois</a> est en jeu, mais ne sait pas <strong>pas qui l'incarne/strong>.
+   LA LAVANDIÈRE apprend qu’un certain rôle
+  <a href="../villageois.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Villageois</a> est en jeu, mais ne sait pas <strong>pas qui l'incarne</strong>.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
