@@ -12,6 +12,8 @@ image: /images/Logo_sects_and_violets.png
   </a>
 </p>
 
+---
+
 <!--  Logo centré cliquable -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./sv.html" style="text-decoration:none;">
@@ -68,7 +70,7 @@ image: /images/Logo_sects_and_violets.png
   <!-- Marginaux -->
   <p style="font-weight:bold; color:#80aee0; margin-bottom:4px;">Marginaux</p>
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
-    <li><a href="./sv_roles/mutant.html" style="color:#4ea3ff; text-decoration:none;">Mutant</a></li>
+    <li><a href="./sv_roles/mutant.html" style="color:#4ea3ff; text-decoration:none;">Bête de foire</a></li>
     <li><a href="./sv_roles/barbier.html" style="color:#4ea3ff; text-decoration:none;">Barbier</a></li>
     <li><a href="./sv_roles/dulcinee.html" style="color:#4ea3ff; text-decoration:none;">Dulcinée</a></li>
     <li><a href="./sv_roles/maladroit.html" style="color:#4ea3ff; text-decoration:none;">Maladroit</a></li>
@@ -79,7 +81,7 @@ image: /images/Logo_sects_and_violets.png
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
     <li><a href="./sv_roles/sorciere.html" style="color:#c97a7a; text-decoration:none;">Sorcière</a></li>
     <li><a href="./sv_roles/cerenovus.html" style="color:#c97a7a; text-decoration:none;">Cerenovus</a></li>
-    <li><a href="./sv_roles/pithag.html" style="color:#c97a7a; text-decoration:none;">Pit-Hag</a></li>
+    <li><a href="./sv_roles/pithag.html" style="color:#c97a7a; text-decoration:none;">Guenaude</a></li>
     <li><a href="./sv_roles/jumeaumalefique.html" style="color:#c97a7a; text-decoration:none;">Jumelle Maléfique</a></li>
   </ul>
 
@@ -274,7 +276,7 @@ Les joueurs maléfiques doivent aussi faire attention aux informations qu’ils 
 
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_mutant.png" alt="Mutant" width="300">](sv_roles/mutant.html)  
-  [**Mutant**](sv_roles/mutant.html)
+  [**Bête de foire**](sv_roles/mutant.html)
 </div>
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_barber.png" alt="Barbier" width="300">](sv_roles/barbier.html)  
@@ -303,7 +305,7 @@ Les joueurs maléfiques doivent aussi faire attention aux informations qu’ils 
 </div>
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_pithag.png" alt="Pit-Hag" width="300">](sv_roles/pithag.html)  
-  [<span style="color:red;">**Pit-Hag**</span>](sv_roles/pithag.html)
+  [<span style="color:red;">**Guenaude**</span>](sv_roles/pithag.html)
 </div>
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_eviltwin.png" alt="Jumeau Maléfique" width="300">](sv_roles/jumeaumalefique.html)  
@@ -331,7 +333,9 @@ Les joueurs maléfiques doivent aussi faire attention aux informations qu’ils 
   [<span style="color:red;">**Vortox**</span>](sv_roles/vortox.html)
 </div>
 
----
+
+<hr class="explication">
+
 
 ##  <span style="color:#d67bff;">Télécharger &amp;  Imprimer</span>
 
@@ -349,7 +353,7 @@ Ces ressources sont pratiques pour <strong>imprimer</strong> et <strong>jouer en
   <a href="./images/sv-roles.png"><img src="./images/sv-roles.png" alt="Liste des rôles" width="250" style="margin:8px; border-radius:8px;"></a>
 </div>
 
----
+<hr class="explication">
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li> <a href="./index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
