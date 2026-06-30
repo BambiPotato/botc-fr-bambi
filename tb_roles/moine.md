@@ -11,19 +11,19 @@ image: /images/Icon_monk.png
   </a>
 </p>
 
-##  <span style="color:blue">Moine</span>  
+---
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./moine.html" style="text-decoration:none;">
     <img src="../images/Icon_monk.png" alt="Moine" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:blue; font-weight:bold; font-size:22px;">Moine</span>
+    <span style="color:blue; font-weight:bold; font-size:50px;">Moine</span>
   </a>
 </div>
 
 
----
+<hr class="villageois">
 
 
 ##  <span style="color:blue">Informations</span>
@@ -58,30 +58,19 @@ Le Mal ne viendra pas t’y trouver, je m’en porte garant. »
 </p> 
 
  
----
-
+<hr class="villageois">
 
 
 ##  Apparaît dans  
-
-##  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
-</p>
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../trouble_brewing.html" style="text-decoration:none;">
     <img src="../images/Logo_trouble_brewing.png" alt= "Trouble Brewing" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Trouble Brewing</span>
+    <span style="color:#b58b52; font-weight:bold; font-size:45px;">Trouble Brewing</span>
   </a>
 </div>
 
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-"Cult of the Clocktower – épisode par Andrew Nathenson"
-</p>
 
 ---
 
@@ -104,13 +93,19 @@ Le Mal ne viendra pas t’y trouver, je m’en porte garant. »
 
 ##  <span style="color:blue">Comment Conter</span>
 
-- Chaque nuit, sauf la première, réveillez le Moine. Le Moine désigne n'importe quel joueur, sauf lui-même. <br>(Si le Moine se désigne lui-même, faites non de la tête et faites-lui comprendre qu'il doit désigner un autre joueur.) Le Moine se rendort. Placez le jeton **EN SÉCURITÉ,** du Moine à côté du jeton de rôle du joueur choisi.
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p>
 
-- Si le Démon attaque le joueur **EN SÉCURITÉ,**, le joueur reste en vie. (Ne le marquez pas du jeton **MORT** du Démon et n’ajoutez pas de linceul.) <br>À l'aube, annoncez que personne n'est mort pendant la nuit. (Ne dites pas pourquoi.)
+- Chaque nuit, sauf la première, réveillez le Moine. Le Moine désigne n'importe quel joueur, sauf lui-même. <br>(Si le Moine se désigne lui-même, faites non de la tête et faites-lui comprendre qu'il doit désigner un autre joueur.) Le Moine se rendort. Placez le jeton **EN SÉCURITÉ**, du Moine à côté du jeton de rôle du joueur choisi.
 
-- À l'aube, retirez le jeton **EN SÉCURITÉ,**.
+- Si le Démon attaque le joueur **EN SÉCURITÉ**, le joueur reste en vie. (Ne le marquez pas du jeton **MORT** du Démon et n’ajoutez pas de linceul.) <br>À l'aube, annoncez que personne n'est mort pendant la nuit. (Ne dites pas pourquoi.)
 
-  *Dans d'autres modules, les Démons peuvent avoir d'autres capacités que celle de tuer.<br>La protection du Moine empêche également tous les autres effets néfastes de la capacité du Démon, tels que l'empoisonnement ou la conversion en joueur maléfique.*
+- À l'aube, retirez le jeton **EN SÉCURITÉ**.
+
+<div class="botc-note">
+Dans d'autres modules, les Démons peuvent avoir d'autres capacités que celle de tuer.<br>La protection du Moine empêche également tous les autres effets néfastes de la capacité du Démon, tels que l'empoisonnement ou la conversion en joueur maléfique.
+</div>
 
 ---
 
