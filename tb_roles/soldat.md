@@ -11,19 +11,19 @@ image: /images/Icon_soldier.png
   </a>
 </p>
 
-#  <span style="color:blue">Soldat</span> 
+---
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./soldat.html" style="text-decoration:none;">
     <img src="../images/Icon_soldier.png" alt="Soldat" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:blue; font-weight:bold; font-size:22px;">Soldat</span>
+    <span style="color:blue; font-weight:bold; font-size:50px;">Soldat</span>
   </a>
 </div>
 
 
----
+<hr class="villageois">
 
 
 ##  <span style="color:blue">Informations</span>
@@ -59,30 +59,20 @@ Non. »
 </p> 
 
 
----
+<hr class="villageois">
 
 
 ##  Apparaît dans  
 
-#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
-</p>
-
----
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../trouble_brewing.html" style="text-decoration:none;">
     <img src="../images/Logo_trouble_brewing.png" alt= "Trouble Brewing" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Trouble Brewing</span>
+    <span style="color:#b58b52; font-weight:bold; font-size:45px;">Trouble Brewing</span>
   </a>
 </div>
 
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-"Cult of the Clocktower – épisode par Andrew Nathenson"
-</p>
 
 ---
 
@@ -104,10 +94,17 @@ Non. »
 
 ##  <span style="color:blue">Comment Conter</span>
 
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p>
+
+
 Pendant la nuit, si le Démon attaque le Soldat, celui-ci reste en vie.<br>  (À l'aube, déclarez que personne n'est mort cette nuit.)
 
-- *Dans d'autres modules, les Démons peuvent avoir d'autres capacités que celle de tuer.* 
-- *Le Soldat est également protégé contre tous les autres effets néfastes de la capacité du Démon, tels que l'empoisonnement ou la conversion en joueur maléfique.*
+<div class="botc-note">
+Dans d'autres modules, les Démons peuvent avoir d'autres capacités que celle de tuer.<br>  
+Le Soldat est également protégé contre tous les autres effets néfastes de la capacité du Démon, tels que l'empoisonnement ou la conversion en joueur maléfique.
+</div>
 
 ---
 
