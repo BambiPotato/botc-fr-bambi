@@ -92,6 +92,14 @@ Si cela se produit pendant la journée, déclarez immédiatement que le Bricoleu
 Si cela se produit pendant la nuit, marquez le Bricoleur avec le jeton <strong>MORT</strong> et attendez l’aube pour annoncer quels joueurs sont morts pendant la nuit.<br> (Ne dites pas comment.)
 </p>
 
+<div class="botc-note">
+Même si vous pouvez tuer le Bricoleur sans prévenir pendant la journée, il est plus intéressant que le Bricoleur meure pendant la nuit, car les joueurs vont se demander si le Bricoleur est mort à cause de sa capacité ou pour une autre raison.
+<hr> 
+Vous pouvez choisir de ne jamais tuer le Bricoleur. Cela rend le Bricoleur vraiment suspect.
+<hr>  
+Nous vous recommandons de ne jamais tuer le Bricoleur si cela met un terme à la partie.<br> Les joueurs doivent gagner ou perdre grâce à leurs propres efforts, et non sur une décision arbitraire du Conteur.
+</div>
+
 ---
 
 ##  <span style="color:#4ea3ff;">Exemples</span>   
@@ -106,17 +114,6 @@ Le Bricoleur est attaqué par le <a href="../demons.html" style="color:#d45b5b; 
 Plus tard dans la nuit, l’<a href="./aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a> meurt, puis le Conteur décide de tuer le Bricoleur également.
 </p>
 
-<div class="botc-note">
-  <p>
-    Même si vous pouvez tuer le Bricoleur sans prévenir pendant la journée, il est plus intéressant que le Bricoleur meure pendant la nuit,<br> car les joueurs vont se demander si le Bricoleur est mort à cause de sa capacité ou pour une autre raison.
-  </p>
-  <p>
-    Vous pouvez choisir de ne jamais tuer le Bricoleur. Cela rend le Bricoleur vraiment suspect.
-  </p>
-  <p>
-    Nous vous recommandons de ne jamais tuer le Bricoleur si cela met un terme à la partie.<br> Les joueurs doivent gagner ou perdre grâce à leurs propres efforts, et non sur une décision arbitraire du Conteur.
-  </p>
-</div>
 
 ---
 
