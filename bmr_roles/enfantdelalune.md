@@ -75,9 +75,13 @@ De l’acier contre ma gorge ? Votre Destin est scellé. »
 
 ##  <span style="color:blue">Résumé</span>  
 
-**« Lorsque vous apprenez que vous êtes morte, choisissez publiquement un joueur vivant. Cette nuit, si ce joueur était bon, il meurt. »**
+<p style="text-align:left; color:#f5f5f5; font-style:bold; font-size:18px; margin-top:-10px;">
+Lorsque vous apprenez que vous êtes morte, choisissez publiquement un joueur vivant.<br> Cette nuit, si ce joueur était bon, il meurt. 
+</p>
 
-L A SÉLÉNITE maudit quelqu’un en mourant. Le joueur maudit meurt.
+<p class="botc-flavour-text dropcap">  
+LA SÉLÉNITE maudit quelqu’un en mourant. Le joueur maudit meurt.
+</p>
 
 - La Sélénite doit choisir un joueur dans la ou les minutes qui suivent le moment où elle a appris sa mort, soit par exécution, soit à l’aube lorsque le Conteur annonce qui est mort pendant la nuit.
 La Sélénite peut prendre son temps et même demander l’avis du groupe avant de prendre sa décision.
