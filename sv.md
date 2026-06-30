@@ -107,7 +107,7 @@ image: /images/Logo_sects_and_violets.png
   <li><a href="#-télécharger--imprimer" style="color:#f5f5f5; text-decoration:none;">Télécharger &amp; Imprimer</a></li>
 </ol>
 
----
+<hr class="explication">
 
 ##  <span style="color:#d67bff;">Synopsis</span>
 
@@ -124,7 +124,7 @@ Le temps du châtiment est venu…
 </p>
 
 
----
+<hr class="explication">
 
 ##  <span style="color:#d67bff;">Gameplay</span>
 
@@ -172,7 +172,46 @@ Les joueurs maléfiques doivent aussi faire attention aux informations qu’ils 
 
 
 
----
+<hr class="explication">
+
+
+<p class="botc-flavour-text dropcap">
+<strong>S’IL S’AGIT DE VOTRE PREMIÈRE PARTIE DE <span style="color:#d67bff;">SECTS &amp; VIOLETS</span> EN TANT QUE CONTEUR</strong> et que vous souhaitez apprendre avec les rôles les plus simples, nous vous conseillons de mettre en jeu les rôles suivants :
+</p>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<strong><a href="./sv_roles/horloger.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Horloger</a>, <a href="./sv_roles/oracle.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Oracle</a>, <a href="./sv_roles/couturiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Couturière</a>, <a href="./sv_roles/artiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Artiste</a>, <a href="./sv_roles/jongleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Jongleur</a>,<br>
+<a href="./sv_roles/maladroit.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maladroit</a>, <a href="./sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a>, <a href="./sv_roles/nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a>.</strong> Les informations que vous donnez à l’<a href="./sv_roles/horloger.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Horloger</a>, à l’<a href="./sv_roles/oracle.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Oracle</a> et au <a href="./sv_roles/jongleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Jongleur</a> sont faciles à jauger et à comprendre. Les joueurs choisiront comment utiliser leurs capacités de <a href="./sv_roles/couturiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Couturière</a>, d’<a href="./sv_roles/artiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Artiste</a>, de <a href="./sv_roles/jongleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Jongleur</a> et de <a href="./sv_roles/maladroit.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maladroit</a>. Souvenez-vous quel joueur est maudit par la <a href="./sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> et quels joueurs sont empoisonnés par le <a href="./sv_roles/nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a>, et tout ira bien.
+</p>
+
+<p class="botc-flavour-text dropcap">
+<strong>SI VOUS VOULEZ ALLER UN PEU PLUS LOIN</strong> et souhaitez créer un style de jeu expérimental avec des rôles et des interactions plus complexes, jouez avec la configuration suivante (pour une partie à huit joueurs) ou modifiez-la pour l’adapter à votre style :
+</p>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<strong><a href="./sv_roles/charmeurdeserpent.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Charmeur de serpents</a>, <a href="./sv_roles/reveur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Rêveur</a>, <a href="./sv_roles/fleuriste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a>, <a href="./sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a>, <a href="./sv_roles/barbier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Barbier</a>,
+<a href="./sv_roles/maladroit.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maladroit</a>, <a href="./sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a>, <a href="./sv_roles/fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a>.</strong> Cette configuration fait la part belle à l’échange de rôles. Le <a href="./sv_roles/charmeurdeserpents.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Charmeur de serpents</a> et le <a href="./sv_roles/fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a> peuvent faire en sorte que le Démon devienne un nouveau joueur.<br> La <a href="./sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a> crée de nouveaux rôles.<br> Le <a href="./sv_roles/barbier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Barbier</a> peut également compliquer les choses en échangeant des rôles. <br> Quant au pauvre <a href="./sv_roles/maladroit.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maladroit</a>, il devra faire au mieux pour ne pas faire perdre son équipe au milieu de ce chaos !
+</p>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<strong><a href="./sv_roles/crieurpublic.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur public</a>, <a href="./sv_roles/couturiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Couturière</a>, <a href="./sv_roles/philosophe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Philosophe</a>, <a href="./sv_roles/artiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Artiste</a>, <a href="./sv_roles/jongleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Jongleur</a>,
+<a href="./sv_roles/sage.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a>, <a href="./sv_roles/jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumelle maléfique</a>, <a href="./sv_roles/vigormortis.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vigormortis</a>.</strong> Cette configuration met l’accent sur la dualité des jumelles. <br> L’équipe du Bien a plusieurs moyens d’identifier les jumelles, mais le <a href="./sv_roles/vigormortis.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vigormortis</a> peut très bien en tuer une des deux si la situation l’exige pour semer la confusion et le chaos.<br> Cependant, si l’équipe du Bien se concentre exclusivement sur l’élimination de la <a href="./sv_roles/jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumelle maléfique</a>, elle risque de manquer de temps pour tuer le Démon par la suite. <br> Il lui faudra anticiper et ne pas mettre tous ses œufs dans le même panier.
+</p>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<strong><a href="./sv_roles/horloger.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Horloger</a>, <a href="./sv_roles/mathematicien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mathématicien</a>, <a href="./sv_roles/crieurpublic.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur public</a>, <a href="./sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a>, <a href="./sv_roles/artiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Artiste</a>, 
+<a href="./sv_roles/dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a>, <a href="./sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a>, <a href="./sv_roles/nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a>.<br> </strong> Cette configuration est similaire à celle du premier exemple, mais avec l’ajout du <a href="./sv_roles/mathematicien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mathématicien</a>, du <a href="./sv_roles/crieurpublic.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur public</a>, du <a href="./sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a> et de la <a href="./sv_roles/dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a>.<br>  Le <a href="./sv_roles/nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a> a beaucoup de cibles potentielles à empoisonner parmi les Villageois, mais le <a href="./sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a> et le <a href="./sv_roles/mathematicien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mathématicien</a> peuvent apprendre rapidement qui est le <a href="./sv_roles/nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a> s’ils jouent intelligemment.<br>  La <a href="./sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> est effrayante, surtout lorsque la <a href="./sv_roles/dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a> est en jeu, mais l’<a href="./sv_roles/horloger.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Horloger</a> et l’<a href="./sv_roles/artiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Artiste</a> peuvent se coordonner pour trouver le deuxième joueur maléfique une fois qu’ils auront une piste sur le premier. Cette configuration est plus adaptée aux joueurs prudents et réfléchis.
+</p>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<strong><a href="./sv_roles/horloger.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Horloger</a>, <a href="./sv_roles/philosophe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Philosophe</a>, <a href="./sv_roles/fleuriste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a>, <a href="./sv_roles/mathematicien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mathématicien</a>, <a href="./sv_roles/sage.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a>, 
+<a href="./sv_roles/mutant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bête de foire</a>, <a href="./sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a>, <a href="./sv_roles/vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a>. <br> </strong> Une configuration infernale ! La simple présence du <a href="./sv_roles/vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a> fournit un flux continu de fausses informations aux Villageois, tandis que le <a href="./sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a> et la <a href="./sv_roles/mutant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bête de foire</a> sèment le doute et provoquent le chaos. <br> Vous devrez vous familiariser avec <em>la folie</em> et la manière dont elle s’exprime, qui diffère selon les capacités de ces deux rôles.<br> Si les joueurs comprennent eux aussi, la partie peut vite devenir presque burlesque.<br> Cette configuration fait la part belle aux bluffs les plus extravagants, donnera lieu à des accusations inédites et fournira une expérience de jeu dynamique et inégalable.
+</p>
+
+
+<hr class="explication">
+
+
 
 ## [<span style="color:blue;">**Villageois**</span>](villageois.html)
 
