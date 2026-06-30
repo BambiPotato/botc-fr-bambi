@@ -263,7 +263,7 @@ Instructions au Conteur
     <a href="../roles_experimentaux/lleech.html"
        style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parasyte</a> :
     Si le <span style="color:#d45b5b; font-weight:bold;">Conspirateur</span> est vivant
-    et que l’hôte de la <span style="color:#d45b5b; font-weight:bold;">Parasyte</span>
+    et que l’hôte du <span style="color:#d45b5b; font-weight:bold;">Parasyte</span>
     meurt par exécution, le Parasyte survit mais <strong>perd sa capacité</strong>.
   </li>
 
