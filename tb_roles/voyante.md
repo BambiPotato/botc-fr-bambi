@@ -12,20 +12,19 @@ image: "/images/Icon_fortuneteller.png"
   </a>
 </p>
 
-#  <span style="color:blue">Voyante</span>  
+---
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./voyante.html" style="text-decoration:none;">
     <img src="../images/Icon_fortuneteller.png" alt="Voyante" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:blue; font-weight:bold; font-size:22px;">Voyante</span>
+    <span style="color:blue; font-weight:bold; font-size:50px;">Voyante</span>
   </a>
 </div>
 
 
-
----
+<hr class="villageois">
 
 
 ##  <span style="color:blue">Informations</span>
@@ -59,29 +58,20 @@ image: "/images/Icon_fortuneteller.png"
   Je suis allergique à la cerise. »<br>
 </p> 
 
----
+<hr class="villageois">
 
 
 ##  Apparaît dans  
 
-#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
-</p>
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../trouble_brewing.html" style="text-decoration:none;">
     <img src="../images/Logo_trouble_brewing.png" alt= "Trouble Brewing" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Trouble Brewing</span>
+    <span style="color:#b58b52; font-weight:bold; font-size:45px;">Trouble Brewing</span>
   </a>
 </div>
 
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-"Cult of the Clocktower – épisode par Andrew Nathenson"
-</p>
 
 ---
 
@@ -102,12 +92,18 @@ n’est un Démon, elle apprend cette information.
 
 ##  <span style="color:blue">Comment Conter</span>
 
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p>
+
+
 - Lors de la préparation de la première nuit, placez le jeton **LEURRE** de la Voyante à côté d’un jeton de rôle bon, identifiant ce joueur comme le Leurre.
 
 - Chaque nuit, réveillez la Voyante. La Voyante désigne deux joueurs. Si l’un d’entre eux est le Démon ou le Leurre, faites oui de la tête.<br> Sinon, faites non de la tête. La Voyante se rendort.
 
-- *Dans les parties à peu de joueurs, nous vous conseillons de placer le jeton <strong>LEURRE </strong> sur la Voyante elle-même,<br>  afin qu’elle obtienne plus d’informations.*
-
+<div class="botc-note">
+Dans les parties à peu de joueurs, nous vous conseillons de placer le jeton <strong>LEURRE </strong> sur la Voyante elle-même,<br>afin qu’elle obtienne plus d’informations.
+</div>
 
 ---
 
@@ -195,7 +191,7 @@ et qu’un « oui » ne constitue pas une confirmation certaine de la présence 
 
 - Si vous êtes la [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md), vous pouvez accuser publiquement votre véritable Démon et mener la charge pour son exécution. 
 - Cela donnera à des rôles comme le [Fossoyeur](croquemort.md) une information positive indiquant « Démon », ce qui renforce considérablement votre bluff.
-- Si vous savez qu’une [Recluse](reclus.md) est en jeu, affirmez avoir obtenu un « oui » sur elle.<br> Si vous êtes, ou avez discuté avec, une [<span style="color:red">Espionne</span>](espion.md),<br> vous pouvez même annoncer ce « oui » avant que la [Recluse](reclus.md) ne révèle son rôle, ce qui rendra votre information encore plus crédible.
+- Si vous savez qu’une [Recluse](reclus.md) est en jeu, affirmez avoir obtenu un « oui » sur elle.<br> Si vous êtes l' [<span style="color:red">Espionne</span>](espion.md), ou si vous avez discuté avec une [<span style="color:red">Espionne</span>](espion.md), vous pouvez même annoncer ce « oui » avant que la [Recluse](reclus.md) ne révèle son rôle, ce qui rendra votre information encore plus crédible.
 
 
 ---
