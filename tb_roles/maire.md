@@ -69,8 +69,8 @@ image: /images/Icon_mayor.png
   <strong>Si vous mourez la nuit, un autre joueur pourrait mourir à votre place. »</strong>
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
-<strong>LE MAIRE peut gagner par des moyens pacifiques lors du dernier jour.</strong>
+<p class="botc-flavour-text dropcap">
+LE MAIRE peut gagner par des moyens pacifiques lors du dernier jour.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; margin-right:20px;">
