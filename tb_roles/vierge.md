@@ -12,19 +12,18 @@ image: /images/Icon_virgin.png
   </a>
 </p>
 
-#  <span style="color:blue">Immaculée</span>  
+---
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./vierge.html" style="text-decoration:none;">
-    <img src="../images/Icon_virgin.png" alt="Vierge" width="350" style="border-radius:8px;">
+    <img src="../images/Icon_virgin.png" alt="Immaculée" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:blue; font-weight:bold; font-size:22px;">Immaculée</span>
+    <span style="color:blue; font-weight:bold; font-size:50px;">Immaculée</span>
   </a>
 </div>
 
-
----
+<hr class="villageois">
 
 
 ##  <span style="color:blue">Informations</span>
@@ -58,30 +57,19 @@ image: /images/Icon_virgin.png
 </p> 
 
 
----
+<hr class="villageois">
 
 
 ##  Apparaît dans  
-
-#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
-</p>
 
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../trouble_brewing.html" style="text-decoration:none;">
     <img src="../images/Logo_trouble_brewing.png" alt= "Trouble Brewing" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Trouble Brewing</span>
+    <span style="color:#b58b52; font-weight:bold; font-size:45px;">Trouble Brewing</span>
   </a>
 </div>
-
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-"Cult of the Clocktower – épisode par Andrew Nathenson"
-</p>
 
 
 ---
@@ -109,6 +97,11 @@ La capacité de l’Immaculée est puissante car si un Villageois la nomme et me
 
 
 ##  <span style="color:blue">Comment Conter</span>  
+
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p>
+
 
 - Si le premier joueur à nommer l’Immaculée est un Villageois, déclarez immédiatement que ce joueur est exécuté. 
   - Ce joueur meurt — placez un linceul sur son jeton de rôle dans le Grimoire.
@@ -144,7 +137,9 @@ La capacité de l’Immaculée est puissante car si un Villageois la nomme et me
   - Le nominateur est un Marginal.  
   - Vous êtes l’[Ivrogne](ivrogne.md) ou empoisonnée.  
 
+<div class="botc-note">
 ⚠️ Attention à l’[<span style="color:red">Espionne</span>](espion.md)  : c’est le seul rôle **Maléfique** pouvant activer votre capacité puisqu’elle s’enregistre comme Villageois.  
+</div> 
 
 ---
 
