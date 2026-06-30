@@ -11,19 +11,19 @@ image: /images/Icon_recluse-1.png
   </a>
 </p>
 
-# <span style="color:blue">Recluse</span>
+---
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./reclus.html" style="text-decoration:none;">
-    <img src="../images/Icon_recluse-1.png" alt="Reclus" width="350" style="border-radius:8px;">
+    <img src="../images/Icon_recluse-1.png" alt="Recluse" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:blue; font-weight:bold; font-size:22px;">Recluse</span>
+    <span style="color:blue; font-weight:bold; font-size:50px;">Recluse</span>
   </a>
 </div>
 
 
----
+<hr class="villageois">
 
 
 ##  <span style="color:blue">Informations</span>
@@ -57,31 +57,21 @@ image: /images/Icon_recluse-1.png
 </p> 
 
 
----
+<hr class="villageois">
 
 
 ##  Apparaît dans  
 
-#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Trouble Brewing</span>
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Dans le village endormi de Ravenswood Bluff, les cloches sonnent, et les secrets saignent… »
-</p>
-
----
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../trouble_brewing.html" style="text-decoration:none;">
     <img src="../images/Logo_trouble_brewing.png" alt= "Trouble Brewing" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Trouble Brewing</span>
+    <span style="color:#b58b52; font-weight:bold; font-size:45px;">Trouble Brewing</span>
   </a>
 </div>
 
 
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-"Cult of the Clocktower – épisode par Andrew Nathenson"
-</p> 
 
 ---
 
@@ -103,6 +93,11 @@ image: /images/Icon_recluse-1.png
 ---
 
 ##  <span style="color:blue">Comment Conter</span>
+
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p>
+
 
 - Chaque fois que la Recluse est ciblée par une capacité qui détecte ou affecte les rôles maléfiques, choisissez le rôle et l'alignement sous lesquels la Recluse apparaît.
   - (Faites ce qu’il faut auprès des autres joueurs : montrez un jeton de rôle maléfique, faites signe avec les doigts, hochez la tête,<br>ou permettez à une capacité de fonctionner si elle affecte uniquement les joueurs maléfiques, Sbires ou Démons.)
