@@ -82,7 +82,9 @@ Quelque chose n’est pas normal. Je le sens.»
 
 **« Chaque nuit, vous apprenez combien de vos deux voisins vivants sont maléfiques.»**  
 
-**L’EMPATHE** apprend chaque nuit si ses voisins sont maléfiques ou non.
+<p class="botc-flavour-text dropcap">
+L’EMPATHE apprend chaque nuit si ses voisins sont maléfiques ou non.
+</p>
 
 - L’Empathe apprend uniquement combien de ses voisins sont maléfiques, mais ne sait pas qui est maléfique.
 
