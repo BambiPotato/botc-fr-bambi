@@ -159,7 +159,7 @@ Instructions au Conteur
   <li>Protéger un joueur bon peut parfois être une excellente stratégie.  
       Cela crée de la confusion&nbsp;:  
       le groupe croira qu’il y a une
-      <a href="../bmr_roles/damedethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dame de Thé</a>
+      <a href="../bmr_roles/damedethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Tisanière</a>
       ou un <a href="../bmr_roles/pacifiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pacifiste</a> en jeu.</li>
 
   <li>Vous pouvez imiter le comportement d’un rôle protecteur du Bien  
@@ -199,9 +199,9 @@ Instructions au Conteur
   <li>Si un joueur est exécuté mais reste en vie,  
       cherchez à en déterminer la cause.  
       Il peut s’agir d’un
-      <a href="../bmr_roles/fou.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fou</a>,  
+      <a href="../bmr_roles/fou.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fou du roi</a>,  
       d’un <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a>,  
-      d’une <a href="../bmr_roles/damedethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dame de Thé</a>  
+      d’une <a href="../bmr_roles/damedethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Tisanière</a>  
       ou de l’<strong>Avocat du Diable</strong>.</li>
 
   <li>Exécutez le même joueur deux jours de suite&nbsp;:  
