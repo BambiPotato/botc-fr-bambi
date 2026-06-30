@@ -52,8 +52,7 @@ image: /images/Icon_goon.png
 
 
 « Ouais, patron. J’y ai expliqué les choses à ma façon.<br> 
-L’a son compte, pour sûr.<br>  
-Nan, j’ai pas b’soin d’un docteur.<br> 
+L’a son compte, pour sûr.<br> Nan, j’ai pas b’soin d’un docteur.<br> 
 J’me soigne seul. À demain. »
 
 <hr class="marginal">
@@ -127,7 +126,7 @@ Instructions au Conteur
 - Le **Gros bras** est un rôle imprévisible : vous ne saurez peut-être jamais de quel côté vous jouez avant la fin !  
 Rester discret peut être judicieux : observez, bluffez et découvrez comment votre alignement évolue.  
 
-###  <span style="color:blue">Si vous êtes d'alignement bon</span> 
+###  <span style="color:blue">Si vous êtes d'alignement Bon</span> 
 
 - Vous êtes très difficile à tuer la nuit : la plupart des capacités échouent avant de vous atteindre.  
   Même un [<span style="color:red">Pukka</span>](pukka.md) devient ivre avant de pouvoir vous empoisonner.  
@@ -139,7 +138,7 @@ Rester discret peut être judicieux : observez, bluffez et découvrez comment vo
 - En fin de partie, votre alignement actuel déterminera probablement votre victoire ou défaite.  
   Si vous êtes bon, aidez l’équipe : annoncez quand votre alignement a changé — cela peut correspondre à des échecs d’actions nocturnes, et donc révéler des rôles maléfiques !  
 
-###  <span style="color:red">Si vous êtes maléfique</span>   
+###  <span style="color:red">Si vous êtes Maléfique</span>   
 
 - Semez le chaos ! Vous pouvez feindre d’être bon, inventer un rôle, ou manipuler les votes.  
 - Identifier les autres joueurs du Mal peut vous aider à coordonner la fin de partie.  
