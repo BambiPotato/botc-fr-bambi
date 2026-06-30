@@ -102,7 +102,7 @@ Instructions au Conteur
 - Chaque nuit, réveillez la Voyante. La Voyante désigne deux joueurs. Si l’un d’entre eux est le Démon ou le Leurre, faites oui de la tête.<br> Sinon, faites non de la tête. La Voyante se rendort.
 
 <div class="botc-note">
-Dans les parties à peu de joueurs, nous vous conseillons de placer le jeton <strong>LEURRE </strong> sur la Voyante elle-même,<br>afin qu’elle obtienne plus d’informations.
+Dans les parties à peu de joueurs, nous vous conseillons de placer le jeton <strong>LEURRE </strong> sur la Voyante elle-même, afin qu’elle obtienne plus d’informations.
 </div>
 
 ---
