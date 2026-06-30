@@ -78,9 +78,7 @@ des âmes créées par Dieu à son image et rachetées par le sang précieux de 
 
 ##  <span style="color:blue">Résumé</span>  
 
-
----
-
+<hr class="explication">
 
 
 
