@@ -79,7 +79,9 @@ image: /images/Icon_recluse-1.png
 
 « **Vous pourriez apparaître comme maléfique et comme Sbire ou Démon, même morte.** » 
 
-**LA RECLUSE** apparaît comme maléfique mais fait partie des joueurs bons.
+<p class="botc-flavour-text dropcap">
+LA RECLUSE apparaît comme maléfique mais fait partie des joueurs bons.
+</p> 
 
 - Lorsque l’alignement de la Recluse est détecté, le Conteur choisit si la Recluse apparaît comme joueur bon ou maléfique.
 
