@@ -12,19 +12,18 @@ image: /images/Icon_fool.png
   </a>
 </p>
 
-
-#   <span style="color:blue">Fou</span>  
+--- 
 
 <!--  Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./fou.html" style="text-decoration:none;">
-    <img src="../images/Icon_fool.png" alt="Fou" width="350" style="border-radius:8px;">
+    <img src="../images/Icon_fool.png" alt="Fou du roi" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:blue; font-weight:bold; font-size:22px;">Fou</span>
+    <span style="color:blue; font-weight:bold; font-size:50px;">Fou du roi</span>
   </a>
 </div>
 
----
+<hr class="villageois">
 
 ##  <span style="color:blue">Informations</span>
 
@@ -58,55 +57,67 @@ et encore moins un canon à crème anglaise !”<br>
 Ha ha ! Bonne journée ! »
 </p>
 
----
+<hr class="villageois">
+
 
 ##  Apparaît dans  
 
-#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
-</p>
-
----
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../bmr.html" style="text-decoration:none;">
     <img src="../images/Logo_bad_moon_rising-1.png" alt= "Bad Moon Rising" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Bad Moon Rising</span>
+    <span style="color:#b58b52; font-weight:bold; font-size:45px;">Bad Moon Rising</span>
   </a>
 </div>
 
 
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-"Cult of the Clocktower – épisode par Andrew Nathenson"
-</p>
+<hr class="explication">
 
----
+
 
 ##  <span style="color:blue">Résumé</span>   
 
-**LE FOU DU ROI** échappe à la mort... une fois.
+
+<hr> 
+
+
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
+« La première fois que vous mourez, vous ne mourez pas. »
+</p>
+
+
+<p class="botc-flavour-text dropcap">
+LE FOU DU ROI échappe à la mort... une fois.
+</p>
+
 
 - La première fois que le Fou du roi doit mourir, quelle qu’en soit la raison, il reste en vie.<br>
 Il n’apprend pas que sa capacité lui a sauvé la vie.
 
 - Si la capacité d’un autre rôle protège le Fou du roi de la mort, le Fou du roi n’utilise pas sa capacité.<br> La capacité du Fou du roi se déclenche uniquement si rien d’autre ne le sauve de la mort.
  
+
+
+##  <span style="color:blue">Comment Conter</span> 
+
+
 ---
 
-##  <span style="color:blue">Comment Conter</span>   
 
-**Instruction au Conteur**
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p>
 
 - Si le Fou du roi doit mourir, il reste en vie. (Mais il meurt s’il est ivre ou empoisonné.)<br> Si le Fou du roi a été exécuté, annoncez que le joueur a été exécuté mais qu’il reste en vie. (Ne dites pas pourquoi.)
 
 - Dans tous les cas, le Fou du roi perd sa capacité — marquez-le du jeton **SANS CAPACITÉ**.
 
----
+
 
 ##   <span style="color:blue">Exemples</span>  
+
+---
 
 - Le premier jour, le Fou du roi est exécuté mais reste en vie. <br>Le quatrième jour, le Fou du roi est à nouveau exécuté.<br> Cette fois, il meurt.
 
@@ -119,21 +130,27 @@ Le Fou du roi reste en vie et conserve sa capacité.<br>
 Plus tard, après la mort de l’ [Aubergiste](aubergiste.md), le Démon attaque le Fou du roi. Il reste en vie, mais a maintenant utilisé sa capacité ; la prochaine fois, il mourra.
 
 
----
+
 
 ##  <span style="color:blue">Astuces & Stratégie</span>   
+
+---
 
 Le **Fou du roi** est un rôle de survie : il peut **respirer une fois de plus** dans un monde sanglant.  
 Mais bien joué, il peut aussi **protéger des alliés** et **piéger les Maléfiques**.  
 
 ###  <span style="color:blue">Jouer avec audace</span>  
 
+---
+
 - Votre capacité vous protège **une seule fois**.  
   Utilisez-la pour **bluffer** : prétendez être l' [Exorciste](exorciste.md) ou le [Courtisan](courtisan.md) afin d’attirer le [<span style="color:red">Démon</span>](../demons.md).  
 - Contre des Démons comme le [<span style="color:red">Po</span>](po.md) ou le [<span style="color:red">Shabaloth</span>](shabaloth.md), c’est une excellente tactique :  
   s’ils vous visent, vous survivez… et un autre joueur bon aussi !  
 
-###  <span style="color:blue">L’exécution comme preuve</span>    
+###  <span style="color:blue">L’exécution comme preuve</span>  
+
+---
 
 - Si le Village doute de vous, proposez une **exécution volontaire** :  
   vous ne mourrez pas, ce qui prouve (en apparence) votre rôle.  
@@ -141,12 +158,16 @@ Mais bien joué, il peut aussi **protéger des alliés** et **piéger les Maléf
 - Attention toutefois : cette preuve **n’est pas absolue** — l' [<span style="color:red">Avocat du Diable</span>](avocatdudiable.md) pourrait produire le même effet.  
 - Perdre votre capacité ainsi vous rend vulnérable la nuit suivante : pesez le risque.  
 
-###  <span style="color:blue">Observer les morts</span>   
+###  <span style="color:blue">Observer les morts</span>  
+
+---
 
 - Si le rythme des morts change par exemple une mort de moins dans la nuit, il est possible que votre capacité se soit déclenchée.  
 - Vous pouvez alors déduire que le [<span style="color:red">Démon</span>](../demons.md) vous a visé.  
 
 ###  <span style="color:blue">Protéger et détourner</span>  
+
+---
 
 - Vous pouvez **bluffer** pour protéger un autre joueur.  
   Par exemple, si le [Pacifiste](pacifiste.md) veut se cacher, prétendez être lui. 
@@ -159,6 +180,8 @@ Mais bien joué, il peut aussi **protéger des alliés** et **piéger les Maléf
 ---
 
 ##  <span style="color:blue">Bluffer le Fou du roi</span>   
+
+---
 
 - **Pour les bons joueurs :**  
   Le **Fou du roi** est un **excellent bluff défensif**.  
@@ -180,7 +203,9 @@ Mais bien joué, il peut aussi **protéger des alliés** et **piéger les Maléf
 - Si un autre joueur maléfique **bluffe aussi le Fou du roi**, ne le tuez pas :  
   sa mort révélerait le mensonge, ruinant le bluff collectif.  
 
----
+<hr class="explication">
+
+
 <p style="text-align:left; font-size:18px; margin-top:20px;">
    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
    <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
