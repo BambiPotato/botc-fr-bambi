@@ -12,6 +12,8 @@ image: /images/Icon_lunatic.png
   </a>
 </p>
 
+---
+
 
 <div style="
   max-width:1100px;
@@ -25,14 +27,13 @@ image: /images/Icon_lunatic.png
   border:1px solid rgba(184,157,148,0.5);
 ">
 
-#   <span style="color:blue">Lunatique</span>  
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./lunatique.html" style="text-decoration:none;">
     <img src="../images/Icon_lunatic.png" alt="Lunatique" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:blue; font-weight:bold; font-size:22px;">Lunatique</span>
+    <span style="color:blue; font-weight:bold; font-size:50px;">Lunatique</span>
   </a>
 </div>
 
@@ -75,35 +76,31 @@ image: /images/Icon_lunatic.png
 
 ##  Apparaît dans  
 
-#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
-</p>
-
----
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../bmr.html" style="text-decoration:none;">
     <img src="../images/Logo_bad_moon_rising-1.png" alt= "Bad Moon Rising" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Bad Moon Rising</span>
+    <span style="color:#b58b52; font-weight:bold; font-size:45px;">Bad Moon Rising</span>
   </a>
 </div>
 
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-"Cult of the Clocktower – épisode par Andrew Nathenson"
-</p>
-
----
+<hr class="explication">
 
 
 ##  <span style="color:blue">Résumé</span>  
 
-**Vous pensez que vous êtes un Démon. Le Démon sait qui vous êtes et qui vous choisissez la nuit.**
+---
 
-**LE LUNATIQUE** pense qu’il est le Démon.
+
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
+« Vous pensez que vous êtes un Démon. Le Démon sait qui vous êtes et qui vous choisissez la nuit.
+</p>
+
+<p class="botc-flavour-text dropcap">
+LE LUNATIQUE pense qu’il est le Démon.
+</p>
+
 
 - Comme l’[Ivrogne](../ivrogne.md), le Lunatique ne connaît pas son véritable rôle, ni son véritable alignement.<br> Il est réveillé chaque nuit pour attaquer comme s’il était le Démon en jeu, mais ses choix n’ont aucun effet, car il n’a aucune capacité de Démon.
 
@@ -112,11 +109,14 @@ image: /images/Icon_lunatic.png
 - Le vrai Démon sait quels joueurs le Lunatique choisit d’attaquer chaque nuit.
 
 
----
-
 ##  <span style="color:blue">Comment Conter</span>  
 
-**Instruction au Conteur**
+---
+
+
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p>
 
 Lors de la mise en place du jeu, placez les jetons Lunatique et Démon dans le sac.<br> Une fois que tous les jetons vous ont été rendus, échangez les positions des jetons Lunatique et Démon
 dans le Grimoire.
@@ -138,19 +138,19 @@ puis en remplaçant l’un d’eux par le jeton Lunatique une fois qu’ils sont
 
 
 
----
-
-
 ## <span style="color:blue">Exemples</span>  
+
+---
 
 - Le Lunatique pense qu’il est le [<span style="color:red">Shabaloth</span>](shabaloth.md). Il se réveille chaque nuit pour choisir deux joueurs.<br> Les joueurs choisis ne meurent pas.
 
 - Le Lunatique pense qu’il est le [<span style="color:red">Zombuul</span>](zombuul.md). Il ne se réveille pas souvent la nuit.<br> Le vrai [<span style="color:red">Zombuul</span>](zombuul.md) qui se fait passer pour le Sbire du Lunatique, attaque souvent les mêmes joueurs que ceux choisis par le Lunatique afin de faire croire que le Lunatique est le Démon.
   
 
----
 
 ##  <span style="color:blue">Astuces & Stratégies</span>  
+
+---
 
 Le **Lunatique** est un Marginal fascinant : il croit semer la terreur, alors qu’il joue pour le **Bien** sans le savoir.
 
@@ -168,9 +168,7 @@ Le **Lunatique** est un Marginal fascinant : il croit semer la terreur, alors qu
 - Les bluffs que vous avez reçus peuvent être de faux indices :  
   → Si l’un de ces rôles se révèle réellement en jeu (ex. une [Tisanière](damedethe.md) authentique), vous êtes probablement le Lunatique.  
 
----
-
-###  <span style="color:blue">Quand vous découvrez que vous êtes bon</span>   
+###  <span style="color:blue">Quand vous découvrez que vous êtes bon</span>  
 
 Une fois que vous réalisez votre nature, **changez immédiatement de camp** : vous jouez désormais pour le Bien !  
 Ne le révélez pas trop tôt : laissez le <span style="color:red">Démon</span> croire que vous êtes toujours sous son influence.  
@@ -181,9 +179,11 @@ Quand vous êtes sûr(e), annoncez publiquement votre rôle :
 - Le groupe saura que le nombre des [Marginaux](../etrangers.md) est correct.  
 - Vous pourrez clarifier les fausses informations que vous avez pu donner au début.
 
----
 
-##  <span style="color:blue">Bluffer le Lunatique</span>   
+
+##  <span style="color:blue">Bluffer le Lunatique</span>  
+
+---
 
 ###  Si, vous êtes <span style="color:blue">Bon</span>  :  
 - Bluffez un rôle maléfique (comme un <span style="color:red">Démon</span>) pendant un moment, puis « réalisez » que vous êtes le Lunatique.  
@@ -202,11 +202,13 @@ Quand vous êtes sûr(e), annoncez publiquement votre rôle :
 - Si vous êtes un vrai <span style="color:red">Sbire</span> et que votre Démon veut s’assurer de ne pas être le Lunatique, vous pouvez **mentir** en affirmant que vous ne l’êtes pas.  
   Cela le fera douter, et il pourra lui-même finir par se révéler publiquement comme « Lunatique repenti » au bénéfice des Maléfiques.  
 
----
+<hr class="explication">
+
 
 <h2 style="color:#4ea3ff; font-size:22px; margin-top:30px;">
   🧞 Jinx lié
-</h2>
+
+<hr class="explication">
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -224,7 +226,7 @@ Quand vous êtes sûr(e), annoncez publiquement votre rôle :
 
 </ul>
 
----
+<hr class="explication">
 
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
