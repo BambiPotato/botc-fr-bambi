@@ -11,46 +11,19 @@ image: /images/Icon_grandmother.png
   </a>
 </p>
 
-<!-- Grand-Mère -->
+---
+
+<!--- Grand-Mère -->
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="./grandmother.html" style="text-decoration:none;">
     <img src="../images/Icon_grandmother.png" alt="Grand-Mère" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#4ea3ff; font-weight:bold; font-size:22px;">Grand-Mère</span>
+    <span style="color:#4ea3ff; font-weight:bold; font-size:50px;">Grand-mère</span>
   </a>
 </div>
 
-
-
-##  Apparaît dans  
-
-#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
-</p>
-
----
-
-<div style="text-align:center; margin: 20px 0;">
-  <a href="../bmr.html" style="text-decoration:none;">
-    <img src="../images/Logo_bad_moon_rising-1.png" alt= "Bad Moon Rising" width="400" style="border-radius:12px;">
-    <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Bad Moon Rising</span>
-  </a>
-</div>
-
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-"Cult of the Clocktower – épisode par Andrew Nathenson"
-</p>
-
-
-
-#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Grand-Mère</span>
-
----
+<hr class="villageois">
 
 
 ##  <span style="color:blue">Informations</span>
@@ -85,9 +58,26 @@ Et ton écharpe. J’ai le cœur bien fragile...<br>
 Je ne voudrais pas que tu attrapes la mort. Ça me tuerait »
 </p>
 
----
+<hr class="villageois">
+
+
+##  Apparaît dans  
+
+
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../bmr.html" style="text-decoration:none;">
+    <img src="../images/Logo_bad_moon_rising-1.png" alt= "Bad Moon Rising" width="400" style="border-radius:12px;">
+    <br>
+    <span style="color:#b58b52; font-weight:bold; font-size:45px;">Bad Moon Rising</span>
+  </a>
+</div>
+
+<hr class="explication">
 
 ##  <span style="color:#4ea3ff;">Résumé</span>
+
+
+---
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Lors de votre première nuit, vous apprenez un joueur bon et son rôle. Si le Démon tue ce joueur, vous mourez également »</strong>
@@ -110,9 +100,11 @@ Je ne voudrais pas que tu attrapes la mort. Ça me tuerait »
   <li>Si le <strong>Petit-enfant</strong> meurt par un autre moyen, comme une exécution ou un autre type de mort,<br> alors la <strong>Grand-Mère</strong> ne meurt pas.</li>
 </ul>
 
----
+
 
 ##  <span style="color:#4ea3ff;">Comment Conter</span>
+
+---
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Instructions au Conteur
@@ -147,9 +139,11 @@ Instructions au Conteur
 
 </ul>
 
----
+
 
 ##  <span style="color:#4ea3ff;">Exemples</span>
+
+---
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Au cours de la première nuit, la <strong>Grand-Mère</strong> se réveille  
@@ -175,9 +169,11 @@ mais la <strong>Grand-Mère</strong> est ivre à cause du
 donc elle reste en vie.
 </p>
 
----
+
 
 ##  <span style="color:#4ea3ff;">Astuces &amp; Conseils</span>
+
+---
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -212,9 +208,11 @@ donc elle reste en vie.
 
 </ul>
 
----
+
 
 ##  <span style="color:#4ea3ff;">Bluffer Grand-Mère</span>
+
+---
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -252,9 +250,11 @@ donc elle reste en vie.
 
 </ul>
 
----
+<hr class="explication">
 
 ## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
+
+<hr class="explication">
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -276,7 +276,7 @@ donc elle reste en vie.
 
 </ul>
 
----
+<hr class="explication">
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
