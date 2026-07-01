@@ -11,6 +11,9 @@ image: /images/Logo_trouble_brewing.png
   </a>
 </p>
 
+<hr class="explication">
+
+
 <!--  Logo centré cliquable -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./trouble_brewing.html" style="text-decoration:none;">
@@ -107,7 +110,9 @@ image: /images/Logo_trouble_brewing.png
   <a href="#telechargements" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Téléchargements &amp; Ressources</a>
 </p>
 
----
+
+<hr class="explication">
+
 
 ## <span id="synopsis" style="color:#b58b52;">Synopsis</span>
 
@@ -361,7 +366,9 @@ Les joueurs maléfiques voteront-ils pour exécuter un <a href="./sbires.html" s
 
 </div>
 
+
 ---
+
 
 ## <span id="telechargements" style="color:#b58b52;">Téléchargements & Ressources</span>
 
@@ -383,7 +390,9 @@ Les joueurs maléfiques voteront-ils pour exécuter un <a href="./sbires.html" s
   </a>
 </div>
 
----
+
+<hr class="explication">
+
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li> <a href="./index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
