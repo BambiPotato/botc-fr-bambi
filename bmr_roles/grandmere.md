@@ -76,11 +76,13 @@ Je ne voudrais pas que tu attrapes la mort. Ça me tuerait »
 
 ##  <span style="color:#4ea3ff;">Résumé</span>
 
+<hr class="explication">
 
----
+
+
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Lors de votre première nuit, vous apprenez un joueur bon et son rôle. Si le Démon tue ce joueur, vous mourez également »</strong>
+  <strong>« Lors de votre première nuit, vous apprenez un joueur bon et son rôle. <br> Si le Démon tue ce joueur, vous mourez également »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -277,6 +279,7 @@ donc elle reste en vie.
 </ul>
 
 <hr class="explication">
+
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
