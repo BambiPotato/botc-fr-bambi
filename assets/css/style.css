@@ -1381,7 +1381,7 @@ hr.explication {
 }
 
 /* =========================================================
-   Lettrine encadrée
+   Lettrine simple — version stable
    ========================================================= */
 
 .botc-flavour-text.dropcap::first-letter {
@@ -1390,30 +1390,21 @@ hr.explication {
   font-family: Georgia, "Times New Roman", serif;
   font-weight: bold;
 
-  font-size: 4.7rem;
-  line-height: 0.88;
+  font-size: 4.8rem;
+  line-height: 0.82;
 
   color: #603122;
 
-  margin-right: 10px;
-  margin-top: 3px;
+  margin-right: 8px;
+  margin-top: 2px;
 
-  padding: 5px 11px 7px;
-
-  border: 1px solid rgba(191,156,109,.55);
-  border-radius: 2px;
-
+  padding: 0;
+  border: none;
   background: transparent;
-
-  box-sizing: border-box;
 }
 
-/* =========================================================
-   Mobile / tablette
-   ========================================================= */
-
+/* Mobile / tablette */
 @media (max-width:700px){
-
   .botc-flavour-text{
     font-size:18px;
     line-height:1.55;
@@ -1423,13 +1414,11 @@ hr.explication {
   }
 
   .botc-flavour-text.dropcap::first-letter{
-
-    font-size:3.7rem;
-
-    margin-right:8px;
+    font-size:3.8rem;
+    margin-right:7px;
     margin-top:2px;
-
-    padding:4px 8px 6px;
+    padding:0;
+    border:none;
+    background:transparent;
   }
-
 }
