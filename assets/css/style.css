@@ -1380,35 +1380,56 @@ hr.explication {
   line-height: 1.62;
 }
 
-/* Lettrine */
+/* =========================================================
+   Lettrine encadrée
+   ========================================================= */
+
 .botc-flavour-text.dropcap::first-letter {
   float: left;
 
   font-family: Georgia, "Times New Roman", serif;
   font-weight: bold;
 
-  font-size: 5rem;
-  line-height: 0.82;
-
-  margin-right: 8px;
-  margin-top: 2px;
+  font-size: 4.7rem;
+  line-height: 0.88;
 
   color: #603122;
+
+  margin-right: 10px;
+  margin-top: 3px;
+
+  padding: 5px 11px 7px;
+
+  border: 1px solid rgba(191,156,109,.55);
+  border-radius: 2px;
+
+  background: transparent;
+
+  box-sizing: border-box;
 }
 
-/* Mobile */
-@media (max-width: 700px) {
-  .botc-flavour-text {
-    font-size: 18px;
-    line-height: 1.55;
-    letter-spacing: 0.1px;
-    word-spacing: normal;
-    margin: 1.4em 0;
+/* =========================================================
+   Mobile / tablette
+   ========================================================= */
+
+@media (max-width:700px){
+
+  .botc-flavour-text{
+    font-size:18px;
+    line-height:1.55;
+    letter-spacing:.1px;
+    word-spacing:normal;
+    margin:1.4em 0;
   }
 
-  .botc-flavour-text.dropcap::first-letter {
-    font-size: 3.9rem;
-    margin-right: 7px;
-    margin-top: 2px;
+  .botc-flavour-text.dropcap::first-letter{
+
+    font-size:3.7rem;
+
+    margin-right:8px;
+    margin-top:2px;
+
+    padding:4px 8px 6px;
   }
+
 }
