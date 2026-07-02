@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lorics
-description: Tous les rôles Lorics
+description: Tous les rôles Loric.
 image: /images/Generic_loric.png
 ---
 
@@ -11,20 +11,19 @@ image: /images/Generic_loric.png
   </a>
 </p>
 
+<hr class="explication">
+
 <!--  Logo centré cliquable -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./loric.html" style="text-decoration:none;">
     <img src="./images/Generic_loric.png" alt="Lorics" width="300" style="border-radius:12px;">
     <br>
-    <span style="color:#7fd1ae; font-weight:bold; font-size:22px;">Loric</span>
+    <span style="color:#7fd1ae; font-weight:bold; font-size:50px;">Loric</span>
   </a>
 </div>
 
-#  <span style="color:#7fd1ae; font-weight:bold; font-size:18px;">Lorics</span>
+<hr class="explication">
 
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Des règles qui bousculent le village et réécrivent la partie. »
-</p>
 
 <style>
 @media (max-width: 900px) {
@@ -85,7 +84,8 @@ image: /images/Generic_loric.png
   <a href="#lorics" style="color:#f5f5f5; font-weight:bold; text-decoration:none;"> Lorics</a>
 </p>
 
----
+<hr class="explication">
+
 
 ##  <span id="presentation" style="color:#7fd1ae;">Présentation</span>
 
@@ -101,7 +101,8 @@ image: /images/Generic_loric.png
   et renouveler l’intérêt comme l’intensité de la partie.
 </p>
 
----
+<hr class="explication">
+
 
 ##  <span id="comment-conter" style="color:#7fd1ae;">Comment Conter</span>
 
@@ -137,9 +138,9 @@ image: /images/Generic_loric.png
   « il ne reste que deux joueurs en vie » de l’équipe maléfique.
 </p>
 
----
 
-##  <span id="lorics" style="color:#7fd1ae;">Lorics</span>
+<hr class="explication">
+
 
 <!-- Cartes : grille responsive, plusieurs cartes par ligne -->
 <div style="margin: 8px 0 6px 0; display:flex; flex-wrap:wrap; justify-content:center; gap:16px;">
@@ -213,7 +214,7 @@ image: /images/Generic_loric.png
 
 </div>
 
----
+<hr class="explication">
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7; text-align:left; margin-top:10px;">
   <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
