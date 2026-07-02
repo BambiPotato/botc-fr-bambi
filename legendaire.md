@@ -11,7 +11,21 @@ image: /images//Generic_fabled.png
   </a>
 </p>
 
-#  <span style="color:#d4a76a; font-weight:bold; font-size:42px;">Les Légendaires</span>
+<hr class="explication">
+
+
+<div style="text-align:center;">
+
+<h1 style="color:#d4a76a; margin-bottom:50px;">
+Les Légendaires
+</h1>
+
+<img src="./images/Generic_fabled.png" alt="Les Légendaires" width="300">
+
+</div>
+
+<hr class="explication">
+
 
 ##  <span style="color:#d4a76a;">Présentation</span>
 
@@ -31,7 +45,8 @@ Par exemple :
 - Si la partie doit s’arrêter plus tôt que prévu, un Légendaire peut désigner un vainqueur.  
 - Si vous créez votre propre script personnalisé, un Légendaire peut enrichir l’expérience.
 
----
+<hr class="explication">
+
 
 ##  <span style="color:#d4a76a;">Sommaire</span>
 
@@ -41,18 +56,25 @@ Par exemple :
 3. <a href="#-experimentaux" style="color:#f5f5f5; text-decoration:none;">Expérimentaux</a>
 </p>
 
----
+
+<hr class="explication">
+
 
 ##  <span style="color:#d4a76a;">Toute Partie</span>
 
 <div style="text-align:center; display:inline-block; margin:10px;">
-  [<img src="./images/Icon_doomsayer.png" alt="Doomsayer" width="260">](./legendaire_roles/doomsayer.html)  
-  [<span style="color:#d4a76a; font-weight:bold;">Messager de malheur</span>](./legendaire_roles/doomsayer.html)
+  [<img src="./images/Icon_angel.png" alt="Ange" width="260">](./legendaire_roles/ange.html)  
+  [<span style="color:#d4a76a; font-weight:bold;">Ange</span>](./legendaire_roles/ange.html)
 </div>
 
 <div style="text-align:center; display:inline-block; margin:10px;">
-  [<img src="./images/Icon_angel.png" alt="Ange" width="260">](./legendaire_roles/ange.html)  
-  [<span style="color:#d4a76a; font-weight:bold;">Ange</span>](./legendaire_roles/ange.html)
+  [<img src="./images/Icon_hellslibrarian.png" alt="Bibliothécaire de l’Enfer" width="260">](./legendaire_roles/hellslibrarian.html)  
+  [<span style="color:#d4a76a; font-weight:bold;">Archiviste Infernal</span>](./legendaire_roles/hellslibrarian.html)
+</div>
+
+<div style="text-align:center; display:inline-block; margin:10px;">
+  [<img src="./images/Icon_toymaker.png" alt="Fabricant de Jouets" width="260">](./legendaire_roles/toymaker.html)  
+  [<span style="color:#d4a76a; font-weight:bold;">Bibelotier</span>](./legendaire_roles/toymaker.html)
 </div>
 
 <div style="text-align:center; display:inline-block; margin:10px;">
@@ -61,8 +83,8 @@ Par exemple :
 </div>
 
 <div style="text-align:center; display:inline-block; margin:10px;">
-  [<img src="./images/Icon_hellslibrarian.png" alt="Bibliothécaire de l’Enfer" width="260">](./legendaire_roles/hellslibrarian.html)  
-  [<span style="color:#d4a76a; font-weight:bold;">Archiviste Infernal</span>](./legendaire_roles/hellslibrarian.html)
+  [<img src="./images/Icon_doomsayer.png" alt="Doomsayer" width="260">](./legendaire_roles/doomsayer.html)  
+  [<span style="color:#d4a76a; font-weight:bold;">Messager de malheur</span>](./legendaire_roles/doomsayer.html)
 </div>
 
 <div style="text-align:center; display:inline-block; margin:10px;">
@@ -75,18 +97,14 @@ Par exemple :
   [<span style="color:#d4a76a; font-weight:bold;">Violoniste</span>](./legendaire_roles/fiddler.html)
 </div>
 
-<div style="text-align:center; display:inline-block; margin:10px;">
-  [<img src="./images/Icon_toymaker.png" alt="Fabricant de Jouets" width="260">](./legendaire_roles/toymaker.html)  
-  [<span style="color:#d4a76a; font-weight:bold;">Bibelotier.</span>](./legendaire_roles/toymaker.html)
-</div>
+<hr class="explication">
 
----
 
 ##   <span style="color:#d4a76a;">Parties Personnalisées</span>
 
 <div style="text-align:center; display:inline-block; margin:10px;">
-  [<img src="./images/Icon_fibbin.png" alt="Fibbin" width="260">](./legendaire_roles/fibbin.html)  
-  [<span style="color:#d4a76a; font-weight:bold;">Taquin</span>](./legendaire_roles/fibbin.html)
+  [<img src="./images/Icon_djinn.png" alt="Djinn" width="260">](./legendaire_roles/djinn.html)  
+  [<span style="color:#d4a76a; font-weight:bold;">Djinn</span>](./legendaire_roles/djinn.html)
 </div>
 
 <div style="text-align:center; display:inline-block; margin:10px;">
@@ -95,21 +113,23 @@ Par exemple :
 </div>
 
 <div style="text-align:center; display:inline-block; margin:10px;">
-  [<img src="./images/Icon_sentinel.png" alt="Sentinelle" width="260">](./legendaire_roles/sentinel.html)  
-  [<span style="color:#d4a76a; font-weight:bold;">Sentinelle</span>](./legendaire_roles/sentinel.html)
-</div>
-
-<div style="text-align:center; display:inline-block; margin:10px;">
   [<img src="./images/Icon_spiritofivory.png" alt="Esprit d’Ivoire" width="260">](./legendaire_roles/spiritofivory.html)  
   [<span style="color:#d4a76a; font-weight:bold;">Esprit d’Ivoire</span>](./legendaire_roles/spiritofivory.html)
 </div>
 
 <div style="text-align:center; display:inline-block; margin:10px;">
-  [<img src="./images/Icon_djinn.png" alt="Djinn" width="260">](./legendaire_roles/djinn.html)  
-  [<span style="color:#d4a76a; font-weight:bold;">Djinn</span>](./legendaire_roles/djinn.html)
+  [<img src="./images/Icon_sentinel.png" alt="Sentinelle" width="260">](./legendaire_roles/sentinel.html)  
+  [<span style="color:#d4a76a; font-weight:bold;">Sentinelle</span>](./legendaire_roles/sentinel.html)
 </div>
 
----
+<div style="text-align:center; display:inline-block; margin:10px;">
+  [<img src="./images/Icon_fibbin.png" alt="Fibbin" width="260">](./legendaire_roles/fibbin.html)  
+  [<span style="color:#d4a76a; font-weight:bold;">Taquin</span>](./legendaire_roles/fibbin.html)
+</div>
+
+
+<hr class="explication">
+
 
 ##  <span style="color:#d4a76a;">Expérimentaux</span>
 
@@ -123,7 +143,8 @@ Par exemple :
   [<span style="color:#d4a76a; font-weight:bold;">Passeur</span>](./legendaire_roles/ferryman.html)
 </div>
 
----
+<hr class="explication">
+
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; list-style:none; padding-left:0; margin-top:20px;">
   <li>
