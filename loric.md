@@ -74,7 +74,6 @@ image: /images/Generic_loric.png
   </ul>
 </div>
 
----
 
 ##  <span style="color:#7fd1ae;">Sommaire</span>
 
