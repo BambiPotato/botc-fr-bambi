@@ -427,9 +427,9 @@ Leur rôle est de collecter des informations, de protéger leurs alliés et de m
 <hr class="explication">
 
 
-- [Marginaux](etrangers.md)  
-- [<span style="color:red">Sbires</span>](sbires.md)  
-- [<span style="color:red">Démons</span>](demons.md)  
+- [**Marginaux**](etrangers.md)  
+- [<span style="color:red">**Sbires**</span>](sbires.md)  
+- [<span style="color:red">**Démons**</span>](demons.md)  
 
  
 <hr class="explication">
