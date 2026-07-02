@@ -32,7 +32,7 @@ Marginaux
 **Alignement :** 🔵 Bon  
 **But :** Trouver et exécuter le Démon… malgré les contraintes de leurs rôles.
 
-Les Magirnaux compliquent la tâche du Village en faussant les informations ou en imposant des contraintes de jeu. 
+Les Magirnaux compliquent la tâche du Village en faussant les informations ou en imposant des contraintes de jeu.<br> 
 Ils sèment le doute mais restent du côté des bons. 
 
 ##  Exemples dans **Trouble Brewing**  
