@@ -11,20 +11,21 @@ image: /images/Icon_minstrel.png
   </a>
 </p>
 
+<hr class="explication">
 
 
-#   <span style="color:blue">Menestrel</span>  
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./menestrel.html" style="text-decoration:none;">
     <img src="../images/Icon_minstrel.png" alt="Menestrel" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:blue; font-weight:bold; font-size:22px;">Menestrel</span>
+    <span style="color:blue; font-weight:bold; font-size:50px;">Menestrel</span>
   </a>
 </div>
 
----
+
+<hr class="villageois">
 
 
 ##  <span style="color:blue">Informations</span>
@@ -53,61 +54,65 @@ image: /images/Icon_minstrel.png
 </ul>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-« File la laine, File la laine, de mes moutons dondaine.<br> 
+« File la laine, File la laine, De mes moutons dondaine.<br> 
 Cousez mitaines, cousez mitaines, pour de belles capitaines. »
 </p>
 
----
+<hr class="villageois">
 
 
 ##  Apparaît dans  
 
-#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
-</p>
-
----
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../bmr.html" style="text-decoration:none;">
     <img src="../images/Logo_bad_moon_rising-1.png" alt= "Bad Moon Rising" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Bad Moon Rising</span>
+    <span style="color:#b58b52; font-weight:bold; font-size:45px;">Bad Moon Rising</span>
   </a>
 </div>
 
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-"Cult of the Clocktower – épisode par Andrew Nathenson"
-</p>
+<hr class="explication">
 
 
----
+##  <span style="color:blue">Résumé</span> 
 
 
-##  <span style="color:blue">Résumé</span>  
+<hr class="explication">
 
-**Lorsqu’un Sbire meurt par exécution, tous les autres joueurs (sauf les Voyageurs) sont ivres jusqu’au crépuscule du lendemain.**
 
-**LE MÉNESTREL** enivre tout le monde si un Sbire meurt.
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
+Lorsqu’un Sbire meurt par exécution, tous les autres joueurs (sauf les Voyageurs) sont ivres jusqu’au crépuscule du lendemain.
+</p> 
+
+
+<p class="botc-flavour-text dropcap">
+LE MÉNESTREL enivre tout le monde si un Sbire meurt.
+</p> 
+
 
 - Si un [<span style="color:red">Sbire</span>](../sbires.md) meurt par exécution, tous les joueurs (sauf le Ménestrel) deviennent immédiatement ivres<br> - et le restent toute la nuit, et toute la journée du lendemain. Les [Villageois](../villageois.md), les [Marginaux](../etrangers.md), les [<span style="color:red">Sbires</span>](../sbires.md) et même les [<span style="color:red">Démons</span>](../demons.md) deviennent ivres.<br> Seuls les [<span style="color:#9b59b6">Voyageurs</span>](../voyageurs/voyageurs.md) y échappent. Cet effet ne survient pas si le Sbire meurt pendant la nuit.
 
 - Si un Sbire mort est exécuté, la capacité du Ménestrel ne se déclenche pas.<br> Un rôle mort ne peut pas mourir à nouveau.<br>  Si un Sbire est exécuté, mais ne meurt pas, la capacité du Ménestrel ne se déclenche pas.<br> Si le Ménestrel est ivre ou empoisonné lorsqu’un Sbire meurt par exécution, la capacité du Ménestrel ne se déclenche pas.
   
----
+
 
 ##  <span style="color:blue">Comment Conter</span>  
 
-**Instruction au Conteur**
+---
+
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p> 
 
 - Pendant la journée, si un Sbire meurt par exécution, tous les autres joueurs, à l’exception des Voyageurs, deviennent ivres. <br> Placez le jeton **TOUT LE MONDE EST IVRE** du Ménestrel au milieu de la partie gauche du Grimoire.<br>  Le lendemain, au crépuscule, tous les joueurs enivrés par le Ménestrel deviennent sobres<br>  — retirez le jeton **TOUT LE MONDE EST IVRE**. 
 
----
+
 
 ##  <span style="color:blue">Exemples</span>  
+
+---
+
 
 - Lors du remier jour, le [Pacifiste](pacifiste.md) meurt. Rien ne se passe, cette nuit-là, les joueurs agissent normalement<br> - car le [Pacifiste](pacifiste.md) n’est pas un Sbire.
  
@@ -124,9 +129,9 @@ Le lendemain, le [<span style="color:red">Zombuul</span>](zombuul.md) est exécu
 Le Bien gagne, car le [<span style="color:red">Zombuul</span>](zombuul.md) est ivre et n’a donc aucune capacité.
 
 
----
-
 ##  <span style="color:blue">Astuces & Stratégie</span>  
+
+---
 
 Le **Ménestrel** semble faible, mais il fournit en réalité **des informations extrêmement fiables**.  
 
@@ -153,9 +158,11 @@ Même si les bons joueurs hésitent à exécuter souvent, éliminer un [<span st
 Les [<span style="color:red">Démons</span>](../demons.md) sous-estiment souvent le Ménestrel, le laissant en vie.  
 Profitez-en pour garder votre identité secrète jusqu’à ce qu’un [<span style="color:red">Sbire</span>](../sbires.md) tombe — l’effet sera spectaculaire !  
 
----
 
-##  <span style="color:blue">Bluffer Ménestrel</span>  
+
+##  <span style="color:blue">Bluffer le Ménestrel</span>  
+
+---
 
 Le **Ménestrel** est un **excellent bluff passif** : facile à maintenir, crédible et discret.  
 
@@ -166,7 +173,9 @@ Le **Ménestrel** est un **excellent bluff passif** : facile à maintenir, créd
 - Encouragez les exécutions sauf celles visant le [<span style="color:red">Démon</span>](../demons.md) ou vous-même.  
 - Si un vrai Ménestrel est en jeu et que vous êtes le [<span style="color:red">Démon</span>](../demons.md), sautez quelques attaques nocturnes : cela créera la confusion.  
 
----
+
+<hr class="explication">
+
 <h2 style="color:#4ea3ff; font-size:22px; margin-top:30px;">
   🧞 Jinxes liés
 </h2>
@@ -189,7 +198,8 @@ Le **Ménestrel** est un **excellent bluff passif** : facile à maintenir, créd
 </ul>
 
 
----
+<hr class="explication">
+
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
