@@ -111,6 +111,7 @@ LA COMMÈRE prêche le faux pour savoir le vrai.
 Instructions au Conteur
 </p>
 
+
 - Chaque jour, si la Commère fait une déclaration publique claire et véridique, placez le jeton **MORT** de la Commère au milieu de la partie gauche du Grimoire en guise de rappel : vous devrez le placer cette nuit-là.
 
 - Chaque nuit, sauf la première, si la Commère a fait une déclaration publique claire et véridique dans la journée, choisissez n’importe quel joueur. 
