@@ -12,7 +12,7 @@ image: /images/Icon_chambermaid.png
   </a>
 </p>
 
----
+<hr class="explication">
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -78,7 +78,8 @@ pour préparer des potions bizarres, comme vous l’avez dit, Madame. »
 
 ##  <span style="color:blue">Résumé</span>  
 
-<hr> 
+
+<hr class="explication">
 
 
 
