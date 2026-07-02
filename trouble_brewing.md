@@ -116,6 +116,9 @@ image: /images/Logo_trouble_brewing.png
 
 ## <span id="synopsis" style="color:#b58b52;">Synopsis</span>
 
+<hr class="explication">
+
+
 <p class="botc-flavour-text dropcap">
 Le ciel est menaçant au-dessus de Ravenswood.<br>
 Une ombre inquiétante s’étend sur la ville endormie, réveillant les craintes des plus superstitieux.<br>
@@ -140,13 +143,16 @@ Ceux qui peuvent lire les signes savent que les germes de la discorde ne sont pa
 
 ##  <span style="color:#b58b52;">Gameplay</span>
 
+<hr class="explication">
+
+
 <p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong><span style="color:#b58b52;">TROUBLE BREWING</span></strong>
   <span style="color:#f5f5f5;">OFFRE UN PEU DE TOUT :</span>
 </p>
 
 <p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
-Certains rôles reçoivent des informations passivement, d’autres doivent agir pour découvrir qui est qui,<br> tandis que certains cherchent simplement à inciter le Démon à les attaquer.<br>
+Certains rôles reçoivent des informations passivement, d’autres doivent agir pour découvrir qui est qui, tandis que certains cherchent simplement à inciter le Démon à les attaquer.<br>
 Les équipes du Bien comme du Mal peuvent prendre l’avantage grâce à des sacrifices bien calculés.
 </p>
 
@@ -165,7 +171,7 @@ Lorsque vous jouez le module <strong><span style="color:#b58b52;">TROUBLE BREWIN
 
 <p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
 Les joueurs de <strong>L’ÉQUIPE DU BIEN</strong> devront déterminer qui est bon et qui est maléfique en utilisant leur logique et leur intuition.<br>
-Certains joueurs voudront sans doute révéler immédiatement leur rôle et partager ce qu’ils savent, comme le <a href="./tb_roles/cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a> ou le <a href="./tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a>,<br>
+Certains joueurs voudront sans doute révéler immédiatement leur rôle et partager ce qu’ils savent, comme le <a href="./tb_roles/cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a> ou le <a href="./tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a>, 
 tandis que d'autres tels que le <a href="./tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a> ou la <a href="./tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> préféreront mentir sur leur identité afin de ne pas se faire attaquer par le <a href="./tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>, qui est le <a href="./demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> de ce script.<br>
 D’autres comme la <a href="./tb_roles/gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a> ou le <a href="./tb_roles/soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a> pourront mentir sur leur rôle précisément pour que le <a href="./tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> les attaque.
 </p>
@@ -176,7 +182,7 @@ Sacrifier sa vie en nommant une <a href="./tb_roles/vierge.html" style="color:#4
 </p>
 
 <p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
-Les joueurs de <strong>L’ÉQUIPE DU MAL</strong> devront se faire passer pour des rôles bons et le faire de manière convaincante,<br>
+Les joueurs de <strong>L’ÉQUIPE DU MAL</strong> devront se faire passer pour des rôles bons et le faire de manière convaincante, 
 en donnant de fausses informations pour semer la confusion dans l'équipe du Bien si nécessaire.<br>
 Si l’équipe du Bien n’obtient que de vraies informations, il y a fort à parier qu’elle identifiera les joueurs maléfiques très rapidement.<br>
 Mais il suffit d’un soupçon de mensonge pour que le Mal se donne de sérieuses chances de victoire.<br> 
