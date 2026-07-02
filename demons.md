@@ -32,14 +32,11 @@ Démons
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong>Alignement :</strong> 🔴 <span style="color:red;">Maléfique</span><br>
-<strong>But :</strong> Tuer suffisamment de joueurs pour que le village ne puisse plus gagner.
+<strong>But :</strong> tuer suffisamment de joueurs de l’équipe du Bien pour empêcher le village de gagner.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.8;">
-Le Démon est le chef de l’équipe des forces maléfiques.<br>  
-C’est lui qui incarne la terreur nocturne du jeu.<br>  
-Si le Démon est exécuté, les joueurs du Bien remportent la partie,<br>  
-sauf cas particuliers comme celui de la <a href="./tb_roles/femmeecarlate.html" style="color:red; font-weight:bold; text-decoration:none;">Femme Écarlate</a>.
+Le Démon est le chef de l’équipe des forces maléfiques.<br>C’est lui qui incarne la terreur nocturne du jeu.<br> Si le Démon est exécuté, les joueurs du Bien remportent la partie, sauf cas particuliers comme celui de la <a href="./tb_roles/femmeecarlate.html" style="color:red; font-weight:bold; text-decoration:none;">Femme écarlate</a>.
 </p>
 
 <hr class="explication">
@@ -49,7 +46,7 @@ sauf cas particuliers comme celui de la <a href="./tb_roles/femmeecarlate.html" 
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:24px;">
   <li>
-    <a href="./tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> : tue un joueur chaque nuit et peut transmettre son rôle à un sbire en mourant.
+    <a href="./tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> : tue un joueur chaque nuit* et peut transmettre son rôle à un Sbire en se tuant.
   </li>
 </ul>
 
@@ -92,6 +89,12 @@ Lorsqu’un Démon agit, veillez à :
     <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Diablotin</span>
   </a>
 
+  <!-- Émeute -->
+  <a href="./roles_experimentaux/riot.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
+    <img src="./images/Icon_riot.png" alt="Riot" style="width:220px; border-radius:12px;">
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Émeute</span>
+  </a>
+
   <!-- Fang Gu -->
   <a href="./sv_roles/fanggu.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
     <img src="./images/Icon_fanggu.png" alt="Fang Gu" style="width:220px; border-radius:12px;">
@@ -128,10 +131,10 @@ Lorsqu’un Démon agit, veillez à :
     <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Ojo</span>
   </a>
 
-  <!-- P’tit Monstre -->
-  <a href="./roles_experimentaux/lilmonsta.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
-    <img src="./images/Icon_lilmonsta.png" alt="P’tit Monstre" style="width:220px; border-radius:12px;">
-    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">P’tit Monstre</span>
+  <!-- Parasyte -->
+  <a href="./roles_experimentaux/lleech.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
+    <img src="./images/Icon_lleech.png" alt="Sangsue" style="width:220px; border-radius:12px;">
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Parasyte</span>
   </a>
 
   <!-- Po -->
@@ -140,22 +143,16 @@ Lorsqu’un Démon agit, veillez à :
     <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Po</span>
   </a>
 
+  <!-- P’tit Monstre -->
+  <a href="./roles_experimentaux/lilmonsta.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
+    <img src="./images/Icon_lilmonsta.png" alt="P’tit Monstre" style="width:220px; border-radius:12px;">
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Timonstre</span>
+  </a>
+
   <!-- Pukka -->
   <a href="./bmr_roles/pukka.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
     <img src="./images/Icon_pukka.png" alt="Pukka" style="width:220px; border-radius:12px;">
     <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Pukka</span>
-  </a>
-
-  <!-- Riot -->
-  <a href="./roles_experimentaux/riot.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
-    <img src="./images/Icon_riot.png" alt="Riot" style="width:220px; border-radius:12px;">
-    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Riot</span>
-  </a>
-
-  <!-- Sangsue -->
-  <a href="./roles_experimentaux/lleech.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
-    <img src="./images/Icon_lleech.png" alt="Sangsue" style="width:220px; border-radius:12px;">
-    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Sangsue</span>
   </a>
 
   <!-- Seigneur de Typhon -->
@@ -206,5 +203,5 @@ Lorsqu’un Démon agit, veillez à :
 
 <hr class="explication">
   
-  <li><a href="./" style="color:#f5f5f5; font-weight:bold; text-decoration:none;"> 🔙Retour à la page d’accueil</a></li>
+  <li><a href="./" style="color:#f5f5f5; font-weight:bold; text-decoration:none;"> 🔙 Retour à la page d’accueil</a></li>
 </ul>
