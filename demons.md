@@ -196,6 +196,7 @@ Lorsqu’un Démon agit, veillez à :
 
 <hr class="explication">
 
+
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:24px;">
   <li><a href="./villageois.html" style="color:blue; font-weight:bold; text-decoration:none;">Villageois</a></li>
   <li><a href="./etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Marginaux</a></li>
