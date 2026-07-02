@@ -14,6 +14,58 @@ image: /images//Generic_fabled.png
 <hr class="explication">
 
 
+<style>
+@media (max-width: 900px) {
+  #liste-roles-legendaires {
+    float: none !important;
+    width: auto !important;
+    margin: 10px 0 20px 0 !important;
+  }
+}
+</style>
+
+<div id="liste-roles-legendaires" style="
+  float:right;
+  width:260px;
+  margin:0 0 10px 20px;
+  padding:8px 8px 8px 12px;
+  border-left:1px solid #d4a76a;
+  background:rgba(0,0,0,0.25);
+  font-size:14px;
+  line-height:1.6;
+">
+  <p style="font-weight:bold; color:#d4a76a; margin-top:0; margin-bottom:8px;">
+    Légendaires
+  </p>
+
+  <p style="font-weight:bold; color:#d4a76a; margin-bottom:4px;">Interactions sociales et accessibilité</p>
+  <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
+    <li><a href="./legendaire_roles/ange.html" style="color:#d4a76a; text-decoration:none;">Ange</a></li>
+    <li><a href="./legendaire_roles/hellslibrarian.html" style="color:#d4a76a; text-decoration:none;">Archiviste Infernal</a></li>
+    <li><a href="./legendaire_roles/toymaker.html" style="color:#d4a76a; text-decoration:none;">Bibelotier</a></li>
+    <li><a href="./legendaire_roles/buddhist.html" style="color:#d4a76a; text-decoration:none;">Bouddhiste</a></li>
+    <li><a href="./legendaire_roles/doomsayer.html" style="color:#d4a76a; text-decoration:none;">Messager de malheur</a></li>
+    <li><a href="./legendaire_roles/revolutionary.html" style="color:#d4a76a; text-decoration:none;">Révolutionnaire</a></li>
+    <li><a href="./legendaire_roles/fiddler.html" style="color:#d4a76a; text-decoration:none;">Violoniste</a></li>
+  </ul>
+
+  <p style="font-weight:bold; color:#d4a76a; margin-bottom:4px;">Scripts personnalisés</p>
+  <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
+    <li><a href="./legendaire_roles/djinn.html" style="color:#d4a76a; text-decoration:none;">Djinn</a></li>
+    <li><a href="./legendaire_roles/duchess.html" style="color:#d4a76a; text-decoration:none;">Duchesse</a></li>
+    <li><a href="./legendaire_roles/spiritofivory.html" style="color:#d4a76a; text-decoration:none;">Esprit d’Ivoire</a></li>
+    <li><a href="./legendaire_roles/sentinel.html" style="color:#d4a76a; text-decoration:none;">Sentinelle</a></li>
+    <li><a href="./legendaire_roles/fibbin.html" style="color:#d4a76a; text-decoration:none;">Taquin</a></li>
+  </ul>
+
+  <p style="font-weight:bold; color:#d4a76a; margin-bottom:4px;">Expérimental</p>
+  <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:6px;">
+    <li><a href="./legendaire_roles/deusexfiasco.html" style="color:#d4a76a; text-decoration:none;">Deus ex Fiasco</a></li>
+    <li><a href="./legendaire_roles/ferryman.html" style="color:#d4a76a; text-decoration:none;">Passeur</a></li>
+  </ul>
+</div>
+
+
 <div style="text-align:center;">
 
 <h1 style="color:#d4a76a; margin-bottom:50px;">
