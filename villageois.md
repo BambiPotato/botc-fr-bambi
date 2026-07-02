@@ -16,7 +16,7 @@ parchment: true
 
 <div style="text-align:center;">
 
-<h1 style="color:#4ea3ff; margin-bottom:10px;">
+<h1 style="color:#4ea3ff; margin-bottom:50px;">
 Villageois
 </h1>
 
@@ -421,7 +421,7 @@ Leur rôle est de collecter des informations, de protéger leurs alliés et de m
 </div>
 
 
----
+<hr class="explication">
 
 ## Autres catégories :  
 - [Marginaux](etrangers.md)  
