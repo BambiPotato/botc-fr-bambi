@@ -12,9 +12,20 @@ parchment: true
   </a>
 </p>
 
-#  <span style="color:blue">Villageois</span>  
+<hr class="explication">
 
-![Villageois](./images/Generic_townsfolk.png)  
+<div style="text-align:center;">
+
+<h1 style="color:#4ea3ff; margin-bottom:10px;">
+Villageois
+</h1>
+
+<img src="./images/Generic_townsfolk.png" alt="Villageois" width="90">
+
+</div>
+
+<hr class="explication">
+
 
 **Alignement :** 🔵 Bon  
 **But :** Trouver et exécuter le Démon.  
@@ -25,9 +36,9 @@ Leur rôle est de collecter des informations, de protéger leurs alliés et de m
 
 ##  Exemples dans **Trouble Brewing**  
 - [Fossoyeur](./tb_roles/croquemort.md) : Apprend le rôle des morts de jour exécutés.
-- [Empathe](./tb_roles/empathique.md) : Apprend combien de ses voisins sont maléfiques.    
-- [Moine](./tb_roles/moine.md) : Protège un joueur ou une joueuse des attaques ou des capacités nocturnes du Démon.   
-- [Pourfendeuse](./tb_roles/mercenaire.md) : Peut tuer le Démon d’un seul coup (une fois par partie).   
+- [Empathe](./tb_roles/empathique.md) : Apprend chaque nuit, combien de ses voisins vivants sont maléfiques.    
+- [Moine](./tb_roles/moine.md) : Protège un joueur des attaques ou des capacités nocturnes du Démon.   
+- [Pourfendeuse](./tb_roles/mercenaire.md) : Peut tuer le Démon d’un seul coup.
 
 <hr style="border-color:rgba(224,185,122,0.2); margin:14px 0 10px;">
 
