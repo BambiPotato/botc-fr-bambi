@@ -12,7 +12,7 @@ image: /images/Icon_gossip.png
   </a>
 </p>
 
----
+<hr class="explication">
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -73,12 +73,19 @@ bla bla bla bla. Bla.»
 </div>
 
 
----
+<hr class="explication">
 
 
-##  <span style="color:blue">Résumé</span>   
+##  <span style="color:blue">Résumé</span>  
 
-**« Chaque jour, vous pouvez faire une annonce publiquement. Cette nuit, si votre annonce était vraie, un joueur meurt. »**  
+
+<hr class="explication">
+
+
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
+« Chaque jour, vous pouvez faire une annonce publiquement. Cette nuit, si votre annonce était vraie, un joueur meurt.»  
+</p>
+
 
 <p class="botc-flavour-text dropcap">
 LA COMMÈRE prêche le faux pour savoir le vrai.
@@ -94,9 +101,11 @@ LA COMMÈRE prêche le faux pour savoir le vrai.
 
 - Si la Commère a fait une annonce publique vraie alors qu’elle était ivre ou empoisonnée, <br> mais qu’elle est sobre et saine lorsque sa capacité se déclenche cette nuit-là, le Conteur tue un joueur.
 
+
+##  <span style="color:blue">Comment Conter</span>  
+
 ---
 
-##  <span style="color:blue">Comment Conter</span>    
 
 <p class="botc-flavour-text dropcap">
 Instructions au Conteur
@@ -113,9 +122,10 @@ La Commère apprend des choses utiles lorsque sa déclaration provoque la mort d
 Cela est plus utile à l’équipe du Bien et plus amusant pour tous.
 </div>
 
----
 
 ##  <span style="color:blue">Exemples</span> 
+
+---
 
 - Pendant la journée, la Commère dit : *« Je suis la Commère. Ma déclaration publique est : Le Démon porte un chapeau. »*
   - Le Démon ne porte pas de chapeau. Cette nuit-là, la capacité de la Commère ne provoque aucun mort.
@@ -131,10 +141,10 @@ Cela est plus utile à l’équipe du Bien et plus amusant pour tous.
   - En conséquence, sa déclaration ne tue personne cette nuit-là.
  
 
+##  <span style="color:blue">Astuces & Conseils</span>   
+
 ---
 
-
-##  <span style="color:blue">Astuces & Conseils</span>   
 
 - **Utilisez votre capacité chaque jour !** Même si elle peut causer une mort involontaire, elle apporte énormément d’informations.  
 
@@ -157,9 +167,10 @@ Cela est plus utile à l’équipe du Bien et plus amusant pour tous.
   - « Marianne est [Courtisan](courtisan.md). »  
   - « Mes deux voisins sont bons. »  
 
----
 
 ##  <span style="color:blue">Bluffer la Commère</span>  
+
+---
 
 - **Version prudente :** faites des déclarations peu risquées, qui paraissent crédibles mais n’apportent rien. Vous paraissez bon, mais vos infos sont négligeables.  
 
@@ -171,7 +182,9 @@ Cela est plus utile à l’équipe du Bien et plus amusant pour tous.
 
 - Coordonnez vos déclarations avec les morts causées par vos alliés [<span style="color:red">maléfiques</span>](../sbires.md) avec l'aide d'un [<span style="color:red">Assassin</span>](../bmr_roles/assassin.md), ou d'un [<span style="color:red">Parrain</span>](../bmr_roles/parrain.md), pour brouiller les pistes.  
 
----
+
+<hr class="explication">
+
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
