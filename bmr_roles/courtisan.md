@@ -12,7 +12,8 @@ image: /images/Icon_courtier..png
   </a>
 </p>
 
----
+<hr class="explication">
+
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -72,17 +73,23 @@ qu’une armée de cent lions menée par un mouton. »
   </a>
 </div>
 
+<hr class="explication">
 
----
+
+##  <span style="color:blue">Résumé</span>    
 
 
-##  <span style="color:blue">Résumé</span>     
+<hr class="explication">
 
-**« Une fois par partie, la nuit, choisissez un rôle : il est ivre pendant 3 nuits et 3 jours. »**  
+
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
+« Une fois par partie, la nuit, choisissez un rôle : il est ivre pendant 3 nuits et 3 jours. »
+</p> 
 
 <p class="botc-flavour-text dropcap">
 LE COURTISAN enivre un rôle sans savoir de quel joueur il s’agit.
 </p>
+
 
 - Une fois par partie, le Courtisan choisit un rôle à enivrer pendant trois nuits et trois jours, avec effet immédiat.
 
@@ -93,10 +100,10 @@ LE COURTISAN enivre un rôle sans savoir de quel joueur il s’agit.
 - Si le Courtisan est ivre ou empoisonné lorsqu’il choisit le rôle à enivrer, le rôle choisi ne devient pas ivre, <br> et ce même si le Courtisan devient sobre et sain par la suite.<br> Si le Courtisan a enivré un rôle mais que lui-même devient ivre ou empoisonné, sa capacité cesse et le rôle qu’il a enivré redevient sobre.<br> Si le Courtisan redevient sobre et sain avant que les trois nuits et trois jours ne se soient écoulés,<br> alors sa capacité reprend et le rôle qu’il avait visé redevient immédiatement ivre. 
 
 
+##  <span style="color:blue">Comment Conter</span>  
+
 ---
 
-
-##  <span style="color:blue">Comment Conter</span>  
 
 <p class="botc-flavour-text dropcap">
 Instructions au Conteur
@@ -117,9 +124,11 @@ Courtisan.<br>  La nuit suivante, remplacez le jeton **IVRE 1** par le jeton **I
 *Dans d’autres modules, il peut y avoir plusieurs exemplaires du même rôle en jeu.*
 *Le Courtisan n’enivre qu’un seul d’entre eux.*
 
----
+
 
 ##  <span style="color:blue">Exemples</span>    
+
+---
 
 - Le Courtisan attend la 5ème nuit et cible le [<span style="color:red">Shabaloth</span>](shabaloth.md).  
   → Pendant 3 nuits, le Shabaloth se réveille, mais ne tue personne.  
@@ -130,9 +139,10 @@ Courtisan.<br>  La nuit suivante, remplacez le jeton **IVRE 1** par le jeton **I
 - Le Courtisan cible le [<span style="color:red">Cerveau</span>](cerveau.md).  
   → Le <span style="color:red">Démon</span> est exécuté, mais comme le [<span style="color:red">Conspirateur</span>](cerveau.md) est ivre, il n’octroie pas la victoire au <span style="color:red">Mal</span>. Le Bien gagne.  
 
----
 
 ##  <span style="color:blue">Astuces & Conseils</span>  
+
+---
 
 -  **<span style="color:red">Démon</span>** : c’est la cible la plus puissante. Si vous réussissez, vous donnez 3 nuits de répit au Bien. Observez le rythme des morts nocturnes pour identifier si vous faites face à un [<span style="color:red">Shabaloth</span>](shabaloth.md), à un [<span style="color:red">Po</span>](po.md), à un [<span style="color:red">Pukka</span>](pukka.md) ou un [<span style="color:red">Zombuul</span>](zombuul.md).  
 
@@ -154,9 +164,10 @@ Courtisan.<br>  La nuit suivante, remplacez le jeton **IVRE 1** par le jeton **I
 
 - ❌ Si vous ne savez pas qui viser → ciblez un rôle dangereux. Même si ce rôle n’est pas en jeu, vous pouvez l’éliminer de vos déductions.  
 
----
 
-##  <span style="color:blue">Bluffer Courtisan</span>  
+##  <span style="color:blue">Bluffer le Courtisan</span>  
+
+---
 
 -  Attendez quelques jours avant de dire que vous avez utilisé votre pouvoir. Un vrai Courtisan ne l’active pas dès le départ.  
 
@@ -172,7 +183,8 @@ Courtisan.<br>  La nuit suivante, remplacez le jeton **IVRE 1** par le jeton **I
 - Feignez d’avoir neutralisé un rôle clé par exemple l' [<span style="color:red">Avocat du Diable</span>](avocatdudiable.md). 
 - Le Camp du Bien cessera d’y penser, et vous pourrez surprendre.  
 
----
+<hr class="explication">
+
 
 <h2 style="color:#4ea3ff; font-size:22px; margin-top:30px;">
   🧞 Jinxes liés
@@ -204,7 +216,8 @@ Courtisan.<br>  La nuit suivante, remplacez le jeton **IVRE 1** par le jeton **I
 
 </ul>
 
----
+<hr class="explication">
+
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
