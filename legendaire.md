@@ -60,7 +60,7 @@ Par exemple :
 <hr class="explication">
 
 
-##  <span style="color:#d4a76a;">Toute Partie</span>
+##  <span style="color:#d4a76a;">Interactions sociales et accessibilité</span>
 
 <div style="text-align:center; display:inline-block; margin:10px;">
   [<img src="./images/Icon_angel.png" alt="Ange" width="260">](./legendaire_roles/ange.html)  
@@ -100,7 +100,7 @@ Par exemple :
 <hr class="explication">
 
 
-##   <span style="color:#d4a76a;">Parties Personnalisées</span>
+##   <span style="color:#d4a76a;">Scripts personnalisés</span>
 
 <div style="text-align:center; display:inline-block; margin:10px;">
   [<img src="./images/Icon_djinn.png" alt="Djinn" width="260">](./legendaire_roles/djinn.html)  
@@ -131,7 +131,7 @@ Par exemple :
 <hr class="explication">
 
 
-##  <span style="color:#d4a76a;">Expérimentaux</span>
+##  <span style="color:#d4a76a;">Expérimental</span>
 
 <div style="text-align:center; display:inline-block; margin:10px;">
   [<img src="./images/Icon_deusexfiasco.png" alt="Deus ex Fiasco" width="260">](./legendaire_roles/deusexfiasco.html)  
