@@ -12,20 +12,20 @@ image: /images/Icon_sailor.png
   </a>
 </p>
 
-
-#   <span style="color:blue">Marin </span>  
+<hr class="explication">
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./marin.html" style="text-decoration:none;">
     <img src="../images/Icon_sailor.png" alt="Marin" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:blue; font-weight:bold; font-size:22px;">Marin</span>
+    <span style="color:blue; font-weight:bold; font-size:50px;">Marin</span>
   </a>
 </div>
 
 
----
+<hr class="villageois">
+
 
 ##  <span style="color:blue">Informations</span>
 
@@ -59,40 +59,40 @@ Z’avez déjà goûté le rhum épicé du vieux McKilly ?<br>
 Ça vous donne du cœur au ventre, allez ! À l’abordage, la vieille ! »»
 </p>
 
----
+
+<hr class="villageois">
 
 
 ##  Apparaît dans  
 
-#  <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
-</p>
-
----
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="../bmr.html" style="text-decoration:none;">
     <img src="../images/Logo_bad_moon_rising-1.png" alt= "Bad Moon Rising" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Bad Moon Rising</span>
+    <span style="color:#b58b52; font-weight:bold; font-size:45px;">Bad Moon Rising</span>
   </a>
 </div>
 
 
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-"Cult of the Clocktower – épisode par Andrew Nathenson"
+<hr class="explication">
+
+
+##  <span style="color:blue">Résumé</span>  
+
+
+<hr class="explication">
+
+
+
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
+« Chaque nuit, choisissez un joueur vivant : lui ou vous êtes ivre jusqu’au crépuscule. Vous ne pouvez pas mourir. »
 </p>
 
----
+<p class="botc-flavour-text dropcap">
+LE MARIN s’enivre lui-même ou enivre quelqu’un d’autre.
+</p>
 
-##  <span style="color:blue">Résumé</span>    
-
-
-> <strong>« Chaque nuit, choisissez un joueur vivant : lui ou vous êtes ivre jusqu’au crépuscule. Vous ne pouvez pas mourir. »</strong>  
-
-**LE MARIN** s’enivre lui-même ou enivre quelqu’un d’autre.
 
 - Chaque nuit, le Marin choisit un joueur : ce joueur sera probablement ivre.
 - Si le Marin se choisit lui-même, il perd sa capacité « vous ne pouvez pas mourir » jusqu’à être à nouveau sobre.
@@ -103,11 +103,17 @@ Z’avez déjà goûté le rhum épicé du vieux McKilly ?<br>
 - Tant qu’il est sobre, le Marin ne peut pas mourir, même s’il ne s’est pas encore réveillé la nuit pour aller boire.
   
 
----
+
 
 ##  <span style="color:blue">Comment Conter</span> 
 
-**Instruction au Conteur**
+---
+
+
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p>
+
 
 - Chaque nuit, réveillez le Marin.  
 - Il pointe un joueur vivant. Endormez-le.  
@@ -118,10 +124,9 @@ Z’avez déjà goûté le rhum épicé du vieux McKilly ?<br>
 - Si le Marin sobre est exécuté, annoncez que ce joueur est exécuté mais reste en vie. (Ne dites pas pourquoi.)
 
 
----
-
-
 ##  <span style="color:blue">Exemples</span>  
+
+---
 
 - Le Marin choisit l’[Exorciste](exorciste.md).  
   → Le Conteur décide que l’Exorciste est ivre. Cette nuit-là, le Marin est attaqué par le [<span style="color:red">Shabaloth</span>](shabaloth.md). 
@@ -133,9 +138,11 @@ Le Marin s’était choisi lui-même, le Conteur décide donc qu’il est ivre. 
 - Le Marin choisit le [<span style="color:red">Conspirateur</span>](cerveau.md).  
   → Le Conteur décide que le Marin est ivre. Le lendemain, le Marin demande à être exécuté pour prouver son rôle, mais il meurt car il était ivre.  
 
----
+
 
 ##  <span style="color:blue">Astuces & Conseils</span>   
+
+---
 
 - Si vous choisissez un [Villageois](../villageois.md), vous êtes probablement sobre.  
 - Si vous choisissez un [Marginal](../etrangers.md), un [<span style="color:red">Sbire</span>](../sbires.md) ou un [<span style="color:red">Démon</span>](../demons.md), vous êtes probablement ivre.  
@@ -153,9 +160,11 @@ Le Marin s’était choisi lui-même, le Conteur décide donc qu’il est ivre. 
   - protéger un rôle clé en détournant le <span style="color:red">Démon</span>,  
   - ou garder votre immortalité jusqu’aux derniers jours.  
 
----
 
-##  <span style="color:blue">Bluffer Marin</span>  
+
+##  <span style="color:blue">Bluffer le Marin</span>  
+
+---
 
 - ⚠️ Contrairement à un vrai Marin, vous mourrez probablement si vous êtes exécuté.  
   → Évitez de chercher à « prouver » votre rôle ainsi.  
@@ -164,9 +173,10 @@ Le Marin s’était choisi lui-même, le Conteur décide donc qu’il est ivre. 
   - Par exemple si, un Sbire bluffe le rôle de [Femme de Chambre](femmedechambre.md) et donne des infos incohérentes → vous pouvez dire que vous l’avez choisi et qu’il était ivre.  
   - si un joueur fort révèle son rôle, vous pouvez affirmer que vous l’avez rendu ivre chaque nuit → cela mettra en doute ses infos.  
 
-- Prétendez avoir choisi régulièrement un bon rôle qui échoue : par exemple, si un [Courtisan](courtisan.md) n'empêche pas un <span style="color:red">Démon</span> → dites que vous l’aviez choisi, donc il était ivre.  
+- Prétendez avoir choisi régulièrement un bon rôle qui échoue : par exemple, si un [Courtisan](courtisan.md) n'empêche pas un <span style="color:red">Démon</span> → dites que vous l’aviez choisi, donc il était ivre. 
 
----
+
+<hr class="explication">
 
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
