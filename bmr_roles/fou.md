@@ -12,7 +12,8 @@ image: /images/Icon_fool.png
   </a>
 </p>
 
---- 
+<hr class="explication">
+
 
 <!--  Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -75,11 +76,10 @@ Ha ha ! Bonne journée ! »
 <hr class="explication">
 
 
-
 ##  <span style="color:blue">Résumé</span>   
 
 
-<hr> 
+<hr class="explication">
 
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
@@ -100,7 +100,6 @@ Il n’apprend pas que sa capacité lui a sauvé la vie.
 
 
 ##  <span style="color:blue">Comment Conter</span> 
-
 
 ---
 
