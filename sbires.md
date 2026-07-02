@@ -11,21 +11,32 @@ image: /images/Generic_minion.png
   </a>
 </p>
 
+<hr class="explication">
 
-# <span style="color:red">Sbires</span>  
 
-![Sbires](./images/Generic_minion.png)  
+<div style="text-align:center;">
+
+<h1 style="color:#d45b5b; margin-bottom:50px;">
+Sbires
+</h1>
+
+<img src="./images/Generic_minion.png" alt="Sbires" width="300">
+
+</div>
+
+<hr class="explication">
+
 
 **Alignement :** 🔴 Maléfique  
 **But :** Aider le Démon à semer le chaos et protéger son identité.  
 
 Les Sbires ne peuvent pas gagner sans leur Démon, mais leurs capacités perturbent et manipulent le Village. 
 
-##  Exemples dans *Trouble Brewing*  
-- [<span style="color:red">Empoisonneur</span>](./tb_roles/empoisonneur.md) : **Falsifie** les **capacités** des autres joueurs et joueuses.    
+##  Exemples dans **Trouble Brewing**  
+- [<span style="color:red">Empoisonneur</span>](./tb_roles/empoisonneur.md) : **neutralise** les **capacités** des Villageois.
 - [<span style="color:red">Espionne</span>](./tb_roles/espion.md) : Voit 👀 le **Grimoire** chaque nuit.   
 - [<span style="color:red">Baron</span>](./tb_roles/baron.md) : Ajoute **deux** Marginaux au jeu.   
-- [<span style="color:red">Femme Écarlate</span>](./tb_roles/femmeecarlate.md) : Devient **Démon**, si celui-ci meurt avec **5** joueurs ou **plus** en vie. 
+- [<span style="color:red">Femme écarlate</span>](./tb_roles/femmeecarlate.md) : Devient **Démon**, si celui-ci meurt avec **5** joueurs ou **plus** en vie. 
 
 <h2 style="font-weight:800; font-size:22px; text-align:left;">
   Tous les <span style="color:#f5f5f5;">Sbires</span> 
@@ -34,6 +45,9 @@ Les Sbires ne peuvent pas gagner sans leur Démon, mais leurs capacités perturb
   <a href="./sv.html" style="color:#d67bff; font-weight:800; text-decoration:none;">• Sects & Violets</a>
   <a href="./experimentaux.html" style="color:#e0b97a; font-weight:800; text-decoration:none;">• Expérimentaux</a>
 </h2>
+
+
+<hr class="explication">
 
 
 <!-- GRID SBIRES (ALPHABÉTIQUE) -->
@@ -210,15 +224,17 @@ Les Sbires ne peuvent pas gagner sans leur Démon, mais leurs capacités perturb
 
 </div>
 
----
+<hr class="explication">
 
-## Autres catégories :  
-- [Villageois](villageois.md)  
-- [Marginaux](etrangers.md)  
-- [<span style="color:red">Démons</span>](demons.md)  
 
+- [**Villageois**](villageois.md)  
+- [**Marginaux**](etrangers.md)  
+- [<span style="color:red">**Démons**</span>](demons.md)  
+
+
+<hr class="explication">
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-top:10px;">
- <a href="./" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a>
+ <a href="./" style="color:#e0c99d; font-weight:bold; text-decoration:none;"> 🔙 Retour à la page d’accueil</a>
 </p>
  
