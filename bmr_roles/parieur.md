@@ -12,7 +12,8 @@ image: /images/Icon_gambler.png
   </a>
 </p>
 
----
+<hr class="explication">
+
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -76,7 +77,8 @@ Face, tu perds. »
 
 ##  <span style="color:blue">Résumé</span>  
 
-<hr>
+
+<hr class="explication">
 
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
@@ -98,7 +100,7 @@ S’il devine juste, rien ne se passe. S’il se trompe, le Parieur meurt.
 
 ##  <span style="color:blue">Comment Conter</span> 
 
-<hr>
+---
 
 - Chaque nuit, sauf la première, réveillez le Parieur. Il désigne n’importe quel joueur, puis n’importe quel rôle sur sa fiche de rôles. 
 
@@ -109,7 +111,7 @@ S’il devine juste, rien ne se passe. S’il se trompe, le Parieur meurt.
 
 ##  <span style="color:blue">Exemples</span>  
 
-<hr>
+---
 
 - Le Parieur choisit le [Ménestrel](menestrel.md) et pointe l’icône du Ménestrel.  
   → Bonne prédiction, il reste en vie… mais est tué la même nuit par le [<span style="color:red">Shabaloth</span>](shabaloth.md).  
@@ -122,7 +124,8 @@ S’il devine juste, rien ne se passe. S’il se trompe, le Parieur meurt.
 
 ##  <span style="color:blue">Astuces & Conseils</span>    
 
-<hr>
+---
+
 
 - Le Parieur est un rôle à **fort risque mais très fiable** : si vous survivez, c’est que votre intuition était juste.  
 
@@ -144,7 +147,7 @@ S’il devine juste, rien ne se passe. S’il se trompe, le Parieur meurt.
 
 ##  <span style="color:blue">Bluffer le Parieur</span>  
 
-<hr>
+---
 
 - Aidez vos alliés [<span style="color:red">maléfiques</span>](../sbires.md) en prétendant avoir « confirmé » leur rôle.  
   → Exemple : « J’ai parié que Nicolas était la [Tisanière](damedethe.md), et je suis encore vivant. »  
