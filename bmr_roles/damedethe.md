@@ -12,7 +12,7 @@ image: /images/Icon_tealady.png
   </a>
 </p>
  
---- 
+<hr class="explication">
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -75,9 +75,11 @@ Si vous êtes énervé, le thé vous calmera. »
 
 <hr class="explication">
 
+
 ##  <span style="color:blue">Résumé</span>  
 
-<hr>
+
+<hr class="explication">
 
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
