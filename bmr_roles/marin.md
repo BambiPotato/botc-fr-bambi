@@ -53,10 +53,10 @@ image: /images/Icon_sailor.png
 </ul>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-« « Je couche tout le monde ici ! Vous ! Le beau parleur, là.!<br> 
+« Je couche tout le monde ici ! Vous ! Le beau parleur, là.!<br> 
 Z’êtes de taille à descendre une pinte ? Non ? Et vous, mamie ?<br> 
 Z’avez déjà goûté le rhum épicé du vieux McKilly ?<br> 
-Ça vous donne du cœur au ventre, allez ! À l’abordage, la vieille ! »»
+Ça vous donne du cœur au ventre, allez ! À l’abordage, la vieille ! »
 </p>
 
 
