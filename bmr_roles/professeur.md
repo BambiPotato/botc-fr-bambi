@@ -23,6 +23,9 @@ image: /images/Icon_professor.png
   </a>
 </div>
 
+<hr class="villageois">
+
+
 ##  <span style="color:blue">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
@@ -72,13 +75,13 @@ ajouter 20 cc de pseudodorafine tout en maintenant les niveaux Z de votre mari s
   </a>
 </div>
 
-<hr class="villageois">
+<hr class="explication">
 
 
 ##  <span style="color:blue">Résumé</span>   
 
 
-<hr class="villageois">
+<hr class="explication">
 
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
