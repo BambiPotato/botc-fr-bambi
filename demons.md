@@ -11,13 +11,24 @@ image: /images/Generic_demon.png
   </a>
 </p>
 
+<hr class="explication">
+
+
 <!--  Page : Démons -->
 
-<h1 style="color:#d45b5b; font-weight:bold; font-size:36px;"> Démons</h1>
+<div style="text-align:center;">
 
-<p align="center">
-  <img src="./images/Generic_demon.png" alt="Démon" style="max-width:200px; border-radius:10px; margin-top:10px;">
-</p>
+<h1 style="color:#d45b5b; margin-bottom:50px;">
+Démons
+</h1>
+
+<img src="./images/Generic_demon.png" alt="Démons" width="300">
+
+</div>
+
+
+<hr class="explication">
+
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong>Alignement :</strong> 🔴 <span style="color:red;">Maléfique</span><br>
@@ -31,7 +42,8 @@ Si le Démon est exécuté, les joueurs du Bien remportent la partie,<br>
 sauf cas particuliers comme celui de la <a href="./tb_roles/femmeecarlate.html" style="color:red; font-weight:bold; text-decoration:none;">Femme Écarlate</a>.
 </p>
 
-<hr>
+<hr class="explication">
+
 
 <h2 style="color:#b58b52; font-weight:bold;">📌 Exemple dans <em>Trouble Brewing</em></h2>
 
@@ -41,7 +53,8 @@ sauf cas particuliers comme celui de la <a href="./tb_roles/femmeecarlate.html" 
   </li>
 </ul>
 
-<hr>
+
+<hr class="explication">
 
 <h2 style="color:#b58b52; font-weight:bold;">💡 Conseils pour les Conteurs et Conteuses</h2>
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -53,7 +66,7 @@ Lorsqu’un Démon agit, veillez à :
   <li>jouer les réactions du village avec neutralité pour maintenir la tension dramatique.</li>
 </ul>
 
-<hr>
+<hr class="explication">
 
 <h2 style="font-weight:800; font-size:22px; text-align:left;">
   Tous les <span style="color:#f5f5f5;">Démons</span> 
@@ -62,6 +75,8 @@ Lorsqu’un Démon agit, veillez à :
   <a href="./sv.html" style="color:#d67bff; font-weight:800; text-decoration:none;">• Sects & Violets</a>
   <a href="./experimentaux.html" style="color:#e0b97a; font-weight:800; text-decoration:none;">• Expérimentaux</a>
 </h2>
+
+
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:12px 0;">
 
@@ -182,13 +197,14 @@ Lorsqu’un Démon agit, veillez à :
 </div>
 
 
-<hr>
-<h2 style="color:#b58b52; font-weight:bold;"> Autres Catégories</h2>
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-</p>
+<hr class="explication">
+
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:24px;">
   <li><a href="./villageois.html" style="color:blue; font-weight:bold; text-decoration:none;">Villageois</a></li>
   <li><a href="./etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Marginaux</a></li>
   <li><a href="./sbires.html" style="color:red; font-weight:bold; text-decoration:none;">Sbires</a></li>
-  <li><a href="./" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
+
+<hr class="explication">
+  
+  <li><a href="./" style="color:#f5f5f5; font-weight:bold; text-decoration:none;"> 🔙Retour à la page d’accueil</a></li>
 </ul>
