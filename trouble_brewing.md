@@ -380,13 +380,13 @@ Les joueurs maléfiques voteront-ils pour exécuter un <a href="./sbires.html" s
 
 <h3 style="color:#b58b52; font-weight:bold; font-size:22px;"> </h3>
 <p style="text-align:left; font-size:18px;">
-   <a href="./trouble_brewing.pdf" style="color:#d4a76a; font-weight:bold; text-decoration:none;"> Télécharger le PDF de Trouble Brewing</a>
+   <a href="./images/trouble_brewing.pdf" style="color:#d4a76a; font-weight:bold; text-decoration:none;"> Télécharger le PDF de Trouble Brewing</a>
 </p>
 
 
 <div style="text-align:left;">
-  <a href="./images/tb-front.png">
-    <img src="./images/tb-front.png" alt="Couverture" width="250" style="margin:8px; border-radius:8px;">
+  <a href="./images/tb-front .png"> 
+    <img src="./images/tb-front .png" alt="Couverture" width="250" style="margin:8px; border-radius:8px;">
   </a>
   <a href="./images/tb-nuit.png">
     <img src="./images/tb-nuit.png" alt="Ordre de Nuit" width="250" style="margin:8px; border-radius:8px;">
