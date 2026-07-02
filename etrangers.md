@@ -12,10 +12,22 @@ image: /images/Generic_outsider.png
   </a>
 </p>
 
+<hr class="explication">
 
-# <span style="color:blue">Marginaux</span>  
 
-![<span style="color:blue">Marginaux</span>](./images/Generic_outsider.png)  
+<div style="text-align:center;">
+
+<h1 style="color:#4ea3ff; margin-bottom:50px;">
+Marginaux
+</h1>
+
+<img src="./images/Generic_outsider.png" alt="Marginaux" width="300">
+
+</div>
+
+
+<hr class="explication">
+
 
 **Alignement :** 🔵 Bon  
 **But :** Trouver et exécuter le Démon… malgré leurs handicaps.  
@@ -23,7 +35,7 @@ image: /images/Generic_outsider.png
 Les Magirnaux compliquent la tâche du Village en faussant les informations ou en imposant des contraintes de jeu. 
 Ils sèment le doute mais restent du côté des bons. 
 
-##  Exemples dans *Trouble Brewing*  
+##  Exemples dans **Trouble Brewing**  
 - [Majordome](./tb_roles/majordome.md) : Ne peut voter que si son Maître vote.  
 - [Ivrogne](./tb_roles/ivrogne.md) : Croit être un Villageois mais sa capacité ne fonctionne pas.  
 - [Recluse](./tb_roles/reclus.md) : Peut apparaître comme un Sbire ou un Démon.  
@@ -37,6 +49,9 @@ Ils sèment le doute mais restent du côté des bons.
   <a href="./sv.html" style="color:#d67bff; font-weight:800; text-decoration:none;">• Sects & Violets</a>
   <a href="./experimentaux.html" style="color:#e0b97a; font-weight:800; text-decoration:none;">• Expérimentaux</a>
 </h2>
+
+
+<hr class="explication">
 
 
 <!-- GRID MARGINAUX (ALPHABÉTIQUE) -->
@@ -187,15 +202,17 @@ Ils sèment le doute mais restent du côté des bons.
 
 </div>
 
----
 
-## Autres catégories :  
+<hr class="explication">
+
+
 - [Villageois](villageois.md)  
 - [<span style="color:red">Sbires</span>](sbires.md)  
 - [<span style="color:red">Démons</span>](demons.md)  
 
+<hr class="explication">
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-top:10px;">
- <a href="./" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a>
+ <a href="./" style="color:#e0c99d; font-weight:bold; text-decoration:none;"> 🔙 Retour à la page d’accueil</a>
 </p>
 
