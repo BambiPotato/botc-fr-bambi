@@ -183,6 +183,7 @@ Cela est plus utile à l’équipe du Bien et plus amusant pour tous.
 - Coordonnez vos déclarations avec les morts causées par vos alliés [<span style="color:red">maléfiques</span>](../sbires.md) avec l'aide d'un [<span style="color:red">Assassin</span>](../bmr_roles/assassin.md), ou d'un [<span style="color:red">Parrain</span>](../bmr_roles/parrain.md), pour brouiller les pistes.  
 
 
+
 <hr class="explication">
 
 
