@@ -12,7 +12,7 @@ image: /images/Icon_innkeeper.png
   </a>
 </p>
 
- ---
+<hr class="explication">
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -72,12 +72,16 @@ image: /images/Icon_innkeeper.png
   </a>
 </div>
 
----
+<hr class="explication">
 
-##  <span style="color:blue">Résumé</span>    
+##  <span style="color:blue">Résumé</span>  
+
+<hr class="explication">
 
 
-<strong> « Chaque nuit*, choisissez **2 joueurs** : ils ne peuvent pas mourir cette nuit mais l'un d'eux est ivre jusqu'au crépuscule. »</strong>  
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
+« Chaque nuit*, choisissez  <strong>2 joueurs</strong> : ils ne peuvent pas mourir cette nuit mais l'un d'eux est ivre jusqu'au crépuscule. » 
+</p> 
 
 
 <p class="botc-flavour-text dropcap">
@@ -94,11 +98,16 @@ Ce joueur peut être bon ou maléfique, mais il sera presque toujours bon, selon
 Un Aubergiste qui se choisit lui-même pourrait devenir ivre, auquel cas il n’a pas de capacité et peut mourir cette nuit-là<br> 
  – et l’autre joueur qu’il a choisi de protéger n’est plus en sécurité dans cette situation.
 
----
+
 
 ##  <span style="color:blue">Comment Conter</span> 
 
-**Instruction au Conteur**
+---
+
+
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p> 
 
 - Chaque nuit, *(sauf la première)*, réveillez l’Aubergiste.  
 - Il choisit deux joueurs au hasard.
@@ -109,9 +118,11 @@ Un Aubergiste qui se choisit lui-même pourrait devenir ivre, auquel cas il n’
 - A l'aube, *(au lever du jour)* retirez les jetons **EN SÉCURITÉ**.  
 - Au crépuscule suivant, retirez le jeton **IVRE**.  
 
----
+
 
 ##  <span style="color:blue">Exemples</span>   
+
+---
 
 - L’Aubergiste protège le [Fou du Roi](fou.md) et la [Femme de Chambre](femmedechambre.md).  
   → Le Conteur choisit d’enivrer le Fou du Roi. Le lendemain, quand le Fou est exécuté, il meurt au lieu de survivre.  
@@ -122,9 +133,11 @@ Un Aubergiste qui se choisit lui-même pourrait devenir ivre, auquel cas il n’
 - L’Aubergiste se protège lui-même ainsi que le [Pacifiste](pacifiste.md).  
   → Le Conteur choisit que l’Aubergiste devienne ivre. Le Pacifiste est attaqué par le [<span style="color:red">Démon</span>](../demons.md) et meurt.  
 
----
 
-##  <span style="color:blue">Astuces & Conseils</span>    
+
+##  <span style="color:blue">Astuces & Conseils</span>   
+
+---
 
 - Votre pouvoir est **très puissant** : bien utilisé, vous pouvez bloquer les meurtres nocturnes et rallonger la partie.  
 
@@ -139,9 +152,10 @@ Un Aubergiste qui se choisit lui-même pourrait devenir ivre, auquel cas il n’
 - Protéger deux joueurs suspects (comme des [<span style="color:red">Sbires</span>](../sbires.md) ou un [<span style="color:red">Démon</span>](../demons.md)) peut aussi être utile :  
   → l’un d’eux sera ivre, bloquant potentiellement son pouvoir maléfique.  
 
----
 
-##  <span style="color:blue">Bluffer Aubergiste</span>  
+##  <span style="color:blue">Bluffer Aubergiste</span> 
+
+---
 
 - Si vous êtes un [<span style="color:red">Démon</span>](../demons.md), **ne tuez pas** les joueurs que vous prétendez protéger, sinon vos mensonges seront évidents.  
 
@@ -155,7 +169,9 @@ Un Aubergiste qui se choisit lui-même pourrait devenir ivre, auquel cas il n’
 - Ayez un **bluff de secours** : si vous survivez trop longtemps, avouez par exemple que vous étiez le [Fou](fou.md) ou le [Marin](marin.md).  
   → Cela justifie votre survie et renforce votre crédibilité.  
 
----
+
+<hr class="explication">
+
 <h2 style="color:#4ea3ff; font-size:22px; margin-top:30px;">
   🧞 Jinxes liés
 </h2>
@@ -188,7 +204,9 @@ Un Aubergiste qui se choisit lui-même pourrait devenir ivre, auquel cas il n’
 
 </ul>
 
----
+
+<hr class="explication">
+
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
