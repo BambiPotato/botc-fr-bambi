@@ -21,7 +21,7 @@ home_sidebar: true
   </h1>
 
   <p style="font-size:20px; color:#e0c99d; font-style:italic; margin-top:15px;">
-    « Wiki communautaire dédié à Blood on the Clocktower pour les joueurs et joueuses francophones. »
+    « Wiki communautaire dédié à Blood on the Clocktower pour les joueurs francophones. »
   </p>
 
 </div>
@@ -879,7 +879,7 @@ table.roles-grid td{
       Open Sesame Games
     </a>
      <span style="color:#d4a76a;">&nbsp;•&nbsp;</span>
-    <a href="https://www.twitch.tv/bambibluepotato)/"
+    <a href="https://www.twitch.tv/bambibluepotato/"
        target="_blank" rel="noopener noreferrer"
        style="color:#d4a76a; font-weight:bold; text-decoration:none;">
       Bambi
