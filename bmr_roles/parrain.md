@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Parrain
-description : "Lors de votre première nuit, vous apprenez quels Marginaux sont en jeu. Si un Marginal meurt dans la journée, choisissez un joueur cette nuit : il meurt. [-1 ou +1 Marginal]"
-image : /images/Icon_godfather.png
+description: "Lors de votre première nuit, vous apprenez quels Marginaux sont en jeu. Si un Marginal meurt dans la journée, choisissez un joueur cette nuit : il meurt. [-1 ou +1 Marginal]"
+image: /images/Icon_godfather.png
 ---
 
 <p align="left">
@@ -13,7 +13,6 @@ image : /images/Icon_godfather.png
 
 <hr class="explication">
 
-<!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./parrain.html" style="text-decoration:none;">
     <img src="../images/Icon_godfather.png" alt="Parrain" width="350" style="border-radius:8px;">
@@ -23,7 +22,6 @@ image : /images/Icon_godfather.png
 </div>
 
 <hr class="sbire">
-
 
 <h2 style="margin-top:10px;">
   <span style="color:#d45b5b; font-weight:bold;">Informations</span>
@@ -55,7 +53,6 @@ image : /images/Icon_godfather.png
 
 ##  Apparaît dans  
 
-
 <div style="text-align:center; margin: 20px 0;">
   <a href="../bmr.html" style="text-decoration:none;">
     <img src="../images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="400" style="border-radius:12px;">
@@ -63,7 +60,6 @@ image : /images/Icon_godfather.png
     <span style="color:#b58b52; font-weight:bold; font-size:22px;">Bad Moon Rising</span>
   </a>
 </div>
-
 
 ##  <span style="color:#d45b5b;">Résumé</span>  
 
@@ -74,7 +70,7 @@ image : /images/Icon_godfather.png
 </p>
 
 <p class="botc-flavour-text dropcap">
- LE PARRAIN se venge lorsque le village tue des Marginaux.
+ LE PARRAIN se venge lorsque le village tue des
   <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>.
 </p>
 
@@ -95,25 +91,20 @@ image : /images/Icon_godfather.png
       le <strong>Parrain</strong> ne tue tout de même qu’un seul joueur cette nuit-là.</li>
 </ul>
 
-
 ##  <span style="color:#d45b5b;">Comment Conter</span>  
 
 ---
 
 <p class="botc-flavour-text dropcap">
 Instructions au Conteur
-</p> 
+</p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Lors de la mise en place du jeu, avant de mettre les jetons de rôle dans le sac, retirez un <strong>Villageois</strong> et ajoutez un <strong>Marginal</strong>, ou retirez
-un <strong>Marginal et ajoutez un <strong>Villageois.</strong></li>
-  <li>Lors de la première nuit, réveillez le <strong>Parrain</strong>.<br> Montrez-lui les jetons
-de rôle de tous les Marginaux en jeu. Le <strong>Parrain</strong> se rendort.</li>
-  <li>Si un Marginal <strong>meurt pendant la journée</strong>, marquez-le du jeton <strong>«MORT AUJOURD’HUI.»</strong> </li>
-  <li>Cette nuit-là, réveillez le Parrain. Il désigne n’importe quel joueur.<br> Le Parrain se rendort.<br> Le joueur choisi
-<strong>meurt — marquez-le d’un jeton <strong>MORT</strong>.</li> 
+  <li>Lors de la mise en place du jeu, avant de mettre les jetons de rôle dans le sac, retirez un <strong>Villageois</strong> et ajoutez un <strong>Marginal</strong>, ou retirez un <strong>Marginal</strong> et ajoutez un <strong>Villageois</strong>.</li>
+  <li>Lors de la première nuit, réveillez le <strong>Parrain</strong>.<br> Montrez-lui les jetons de rôle de tous les Marginaux en jeu. Le <strong>Parrain</strong> se rendort.</li>
+  <li>Si un Marginal <strong>meurt pendant la journée</strong>, marquez-le du jeton <strong>« MORT AUJOURD’HUI. »</strong></li>
+  <li>Cette nuit-là, réveillez le Parrain. Il désigne n’importe quel joueur.<br> Le Parrain se rendort.<br> Le joueur choisi <strong>meurt</strong> — marquez-le d’un jeton <strong>MORT</strong>.</li> 
 </ul>
-
 
 ##  <span style="color:#d45b5b;">Exemples</span>   
 
@@ -142,7 +133,7 @@ de rôle de tous les Marginaux en jeu. Le <strong>Parrain</strong> se rendort.</
     Le <strong>Parrain</strong> n’agit pas cette nuit-là.  
     Le lendemain, le 
     <a href="../bmr_roles/bricoleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bricoleur</a> meurt à cause de sa propre capacité. 
-    Cette nuit-là, le Démon tue un joueur, et le  <strong>Parrain</strong> se tue lui-même pour passer pour un joueur bon.
+    Cette nuit-là, le Démon tue un joueur, et le <strong>Parrain</strong> se tue lui-même pour passer pour un joueur bon.
   </li>
 </ul>
 
@@ -153,7 +144,7 @@ de rôle de tous les Marginaux en jeu. Le <strong>Parrain</strong> se rendort.</
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Le <strong>Parrain</strong> ajoute ou retire un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a> de la composition normale de la partie, au choix du Conteur. <br> Vous pourrez ensuite éliminer ces innocents joueurs bons grâce à une mort supplémentaire pendant la nuit… mais uniquement si vous parvenez à convaincre le village de faire le sale boulot à votre place ! <br> Votre capacité est discrète, mais redoutablement puissante lorsqu’elle est utilisée au bon moment.</li>
 
-  <li>Lors de votre première nuit, vous apprenez quels Marginaux <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a> sont en jeu, ce qui peut vous aider, vous et votre équipe maléfique, à anticiper le déroulement de la partie. <br> Si vous savez, par exemple, qu’il y a un <a href="./lunatique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lunatique</a>, vous pouvez vous attendre à ce qu’il ne révèle pas immédiatement son rôle et vous faire passer vous-même pour un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a> supplémentaire. <br>  À l’inverse, s’il y a un <a href="./brute.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gros Bras</a>, vous pouvez essayer de le retrouver et de vous allier à lui afin de le faire rejoindre le camp du mal plutôt que de simplement le faire mourir. <br> Cette information est fiable et très puissante : utilisez-la de la manière qui servira le mieux votre équipe.</li>
+  <li>Lors de votre première nuit, vous apprenez quels <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a> sont en jeu, ce qui peut vous aider, vous et votre équipe maléfique, à anticiper le déroulement de la partie. <br> Si vous savez, par exemple, qu’il y a un <a href="./lunatique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lunatique</a>, vous pouvez vous attendre à ce qu’il ne révèle pas immédiatement son rôle et vous faire passer vous-même pour un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a> supplémentaire. <br>  À l’inverse, s’il y a un <a href="./brute.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gros Bras</a>, vous pouvez essayer de le retrouver et de vous allier à lui afin de le faire rejoindre le camp du mal plutôt que de simplement le faire mourir. <br> Cette information est fiable et très puissante : utilisez-la de la manière qui servira le mieux votre équipe.</li>
 
   <li>S’il y a un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a> de moins que prévu, vous pouvez profiter de cette absence pour bluffer un rôle de <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a>. <br> Les joueurs se méfient généralement lorsqu’il y a trop ou pas assez de <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>, mais ils remarquent beaucoup moins facilement lorsque leur nombre est exactement celui attendu. (C’est également un excellent bluff pour votre <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> !)</li>
 
@@ -165,7 +156,6 @@ de rôle de tous les Marginaux en jeu. Le <strong>Parrain</strong> se rendort.</
 
   <li>Lorsque vous bénéficiez d’une mort supplémentaire, vous pouvez volontairement choisir un joueur déjà mort afin de masquer l’existence de cette capacité et cacher le fait qu’un <strong>Parrain</strong> est en jeu. <br> Cette stratégie est particulièrement utile si vous essayez de faire croire qu’il n’y a pas de <strong>Parrain</strong> : les joueurs cessent généralement d’exécuter les <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a> dès qu’ils soupçonnent votre présence. <br> Retarder votre mort supplémentaire pour la déclencher plus tard dans la partie peut s’avérer particulièrement satisfaisant.</li>
 </ul>
-
 
 <h2 style="color:#d45b5b;">Combattre le Parrain</h2>
 
@@ -181,9 +171,7 @@ de rôle de tous les Marginaux en jeu. Le <strong>Parrain</strong> se rendort.</
   <li>Dans <span style="color:#ffa64d; font-weight:bold;">Bad Moon Rising</span>, savoir quels <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> sont en jeu est souvent essentiel pour remporter la partie. <br> Si vous ne savez pas si un <strong>Parrain</strong> est présent et qu’un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a> est exécuté, observez attentivement le nombre de morts pendant la nuit suivante. <br> Si une mort supplémentaire survient (ou au contraire si le nombre de morts correspond exactement à ce qui est attendu), vous obtiendrez une information précieuse sur les <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> présents. <br> Gardez toutefois à l’esprit qu’il existe d’autres raisons pouvant provoquer des morts supplémentaires pendant la nuit, comme le <a href="./parieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Parieur</a>, la <a href="./commere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Commère</a> ou le <a href="./bricoleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bricoleur</a>. <br> Éliminez d’abord ces possibilités avant d’en tirer des conclusions.</li>
 </ul>
 
-
 <hr class="explication">
-
 
 <h2 style="color:#d45b5b; font-size:22px; margin-top:30px;">
   🧞 Jinx lié
@@ -197,14 +185,13 @@ de rôle de tous les Marginaux en jeu. Le <strong>Parrain</strong> se rendort.</
     <img src="../images/Icon_heretic.png" alt="Hérétique" width="24"
          style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/heretic.html"
-       style="color:#4ea3ff font-weight:bold; text-decoration:none;">Hérétique</a> :
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Hérétique</a> :
     Un seul rôle <span style="color:#4ea3ff; font-weight:bold;">jinxé</span> peut être en jeu.
   </li>
 
 </ul>
 
 <hr class="explication">
-
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
