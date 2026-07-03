@@ -66,7 +66,7 @@ image: /images/Icon_lunatic.png
 <hr class="explication">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
-« Vous pensez que vous êtes un Démon. Le Démon sait qui vous êtes et qui vous choisissez la nuit. »
+« Vous pensez que vous êtes un Démon. <br>  Le Démon sait qui vous êtes et qui vous choisissez la nuit. »
 </p>
 
 <p class="botc-flavour-text dropcap">
@@ -105,7 +105,7 @@ Vous pouvez faire croire au Lunatique qu’il s’agit d’un Démon différent 
 
 <h2><span style="color:#4ea3ff;">Exemples</span></h2>
 
-<hr class="explication">
+---
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Le Lunatique pense qu’il est le <a href="./shabaloth.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a>. Il se réveille chaque nuit pour choisir deux joueurs.<br> Les joueurs choisis ne meurent pas.</li>
@@ -115,7 +115,7 @@ Vous pouvez faire croire au Lunatique qu’il s’agit d’un Démon différent 
 
 <h2 style="color:#4ea3ff;">Conseils &amp; Astuces</h2>
 
-<hr class="explication">
+---
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -146,7 +146,7 @@ Vous pouvez faire croire au Lunatique qu’il s’agit d’un Démon différent 
 
 <h2 style="color:#4ea3ff;">Bluffer le Lunatique</h2>
 
-<hr class="explication">
+---
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Lorsque vous bluffez en prétendant être le Lunatique, gardez les points suivants à l’esprit :
