@@ -83,7 +83,6 @@ image: /images/Icon_pacifist.png
 « Les bons joueurs exécutés pourraient ne pas mourir. » 
 </p> 
 
-
 <p class="botc-flavour-text dropcap">
 LE PACIFISTE empêche les joueurs bons de mourir par exécution.
 </p>
@@ -153,7 +152,7 @@ Lorsque vous bluffez le Pacifiste, il y a quelques éléments à garder en tête
 
 - Soit restez silencieux au début, soit utilisez le Pacifiste comme bluff de secours.<br>  La plupart des Pacifistes attendent plusieurs jours avant de révéler qu’ils sont le Pacifiste, donc cela paraîtra parfaitement normal.<br> Autrement, si le bluff du rôle que vous tentez ne se passe pas très bien, passez au Pacifiste plus tard dans la partie, ou lorsque vous êtes mis sur la sellette.
 
-- Si un joueur est exécuté et ne meurt pas, affirmez immédiatement être le Pacifiste !<br> L’équipe du Bien commencera probablement à rassembler les pièces du puzzle pour comprendre pourquoi ce joueur n’est pas mort, mais, pendant ce temps, vous aurez l’air extrêmement digne de confiance.<br>  Même si l’équipe du Bien comprend la nature de la survie du joueur, à cause de certains rôles comme le[Fou du roi](fou.md), la [Tisanière](damedethe.md) , l’[<span style="color:red">Avocat du Diable</span>](avocatdudiable.md) ou le [Marin](marin.md), vous aurez toujours l’air digne de confiance, car cela n’aura pas invalidé votre bluff.
+- Si un joueur est exécuté et ne meurt pas, affirmez immédiatement être le Pacifiste !<br> L’équipe du Bien commencera probablement à rassembler les pièces du puzzle pour comprendre pourquoi ce joueur n’est pas mort, mais, pendant ce temps, vous aurez l’air extrêmement digne de confiance.<br>  Même si l’équipe du Bien comprend la nature de la survie du joueur, à cause de certains rôles comme le [Fou du roi](fou.md), la [Tisanière](damedethe.md) , l’[<span style="color:red">Avocat du Diable</span>](avocatdudiable.md) ou le [Marin](marin.md), vous aurez toujours l’air digne de confiance, car cela n’aura pas invalidé votre bluff.
 
 - Si vous survivez jusqu’à la fin et que personne n’a été sauvé de l’exécution, accusez le Conteur. <br> Parfois, lorsque l’équipe du Bien est en train de gagner avec une avance importante, le Conteur n’activera pas du tout la capacité du Pacifiste afin de donner une chance à l’équipe du Mal. <br> C’est une chose parfaitement raisonnable, bien que peu courante, qui peut arriver, donc prétendre que le Conteur a pris cette décision est raisonnable. <br> Bien sûr, si vous êtes en réalité un Sbire et que vous tenez à mourir le dernier jour à la place de votre Démon, faites de votre mieux pour soit ignorer cet argument, soit le présenter très maladroitement.
  
