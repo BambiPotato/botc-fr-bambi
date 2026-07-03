@@ -11,14 +11,14 @@ image: /images/Icon_goon.png
   </a>
 </p>
 
----
+<hr class="explication">
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./brute.html" style="text-decoration:none;">
     <img src="../images/Icon_goon.png" alt="brute" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:blue; font-weight:bold; font-size:22px;">Gros Bras</span>
+    <span style="color:blue; font-weight:bold; font-size:50px;">Gros Bras</span>
   </a>
 </div>
 
@@ -70,11 +70,17 @@ J’me soigne seul. À demain. »
 </div>
 
 
----
+<hr class="explication">
+
 
 ##  <span style="color:blue">Résumé</span>  
 
-**« Chaque nuit, le premier joueur qui vous choisit avec sa capacité est ivre jusqu'au crépuscule. Vous devenez son alignement. »**
+
+<hr class="explication">
+
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
+« Chaque nuit, le premier joueur qui vous choisit avec sa capacité est ivre jusqu'au crépuscule. Vous devenez son alignement. »
+</p>
 
 <p class="botc-flavour-text dropcap">
 LE GROS BRAS est immunisé aux autres rôles la nuit, mais change constamment d’alignement.
@@ -90,14 +96,14 @@ LE GROS BRAS est immunisé aux autres rôles la nuit, mais change constamment d�
 
 - S’il est choisi par l’[<span style="color:red">Assassin</span>](assassin.md), le Gros bras meurt, mais devient tout de même maléfique.
 
----
 
 ##  <span style="color:blue">Comment Conter</span>   
+
+---
 
 <p class="botc-flavour-text dropcap">
 Instructions au Conteur
 </p>
-
 
 - La nuit, si un joueur utilise sa capacité sur le Gros bras alors que personne n’est marqué du jeton **IVRE** du Gros bras, il devient ivre — marquez-le du jeton **IVRE**.<br> Terminez la résolution de la capacité de ce joueur ; ensuite, il se rendort.
 
@@ -105,9 +111,11 @@ Instructions au Conteur
 
 - Au crépuscule suivant, le joueur que le Gros bras a enivré devient sobre — retirez-lui le jeton **IVRE** du Gros bras.
 
----
+
 
 ##  <span style="color:blue">Exemples</span>  
+
+---
 
 - Le [Courtisan](courtisan.md) choisit le Gros bras. Le Gros bras devient bon et le [Courtisan](courtisan.md) devient ivre.
 
@@ -118,10 +126,9 @@ Instructions au Conteur
 - La [Tisanière](damedethe.md) est voisine du Gros bras (bon) et du [Bricoleur](bricoleur.md).<br> [Bricoleur](bricoleur.md) est exécuté, mais il ne meurt pas.<br>  Le lendemain, le Gros bras est maléfique. Le [Bricoleur](bricoleur.md)est à nouveau exécuté et meurt.
 
 
----
-
-
 ##  <span style="color:blue">Astuces & Stratégie</span>  
+
+---
 
 - Le **Gros bras** est un rôle imprévisible : vous ne saurez peut-être jamais de quel côté vous jouez avant la fin !  
 Rester discret peut être judicieux : observez, bluffez et découvrez comment votre alignement évolue.  
@@ -144,9 +151,11 @@ Rester discret peut être judicieux : observez, bluffez et découvrez comment vo
 - Identifier les autres joueurs du Mal peut vous aider à coordonner la fin de partie.  
 - Si vous redevenez bon par accident, tentez de brouiller les pistes : vous pouvez faire croire à un simple malentendu de rôle.  
 
----
+
 
 ##  <span style="color:blue">Bluffer Gros bras</span>   
+
+---
 
 ### Si vous êtes <span style="color:blue">Bon</span>   
 
@@ -166,7 +175,7 @@ Rester discret peut être judicieux : observez, bluffez et découvrez comment vo
   tandis que garder un Gros bras maléfique peut aussi s’avérer utile !  
   Profitez de cette ambiguïté.  
 
----
+<hr class="explication">
 
   <h2 style="color:#4ea3ff; font-size:22px; margin-top:30px;">
   🧞 Jinxes liés
@@ -200,7 +209,7 @@ Rester discret peut être judicieux : observez, bluffez et découvrez comment vo
 
 </ul>
 
----
+<hr class="explication">
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
