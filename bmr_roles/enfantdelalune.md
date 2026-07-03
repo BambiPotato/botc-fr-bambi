@@ -191,7 +191,9 @@ Lorsque vous bluffez en prétendant être la <strong>Sélénite</strong>, gardez
   <li>À l’inverse, vous pouvez choisir un joueur maléfique, puis vous coordonner avec votre équipe pour qu’il meure pendant la nuit. <br>  Le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, un <a href="./assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> ou le <a href="./parrain.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parrain</a> peuvent s’en charger, ce qui donnera l’impression que ce joueur était bon. <br>  Vous perdrez un joueur maléfique avec cette stratégie, mais il est parfois plus important de désinformer le village que de conserver tous les joueurs du mal en vie.</li>
 </ul>
 
+
 <hr class="explication">
+
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
