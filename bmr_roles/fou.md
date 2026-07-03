@@ -189,7 +189,7 @@ Mais bien joué, il peut aussi **protéger des alliés** et **piéger les Maléf
 
 - **Pour les maléfiques :**  
   Le **Fou du roi** est un **bluff flexible et crédible**.  
-  Vous pouvez dire : *« Je suis soit le Fou, soit le Courtisan »* pour garder le doute.  
+  Vous pouvez dire : *« Je suis soit le Fou du roi, soit le Courtisan »* pour garder le doute.  
   C’est un rôle universel et indémodable.  
 
 - Si vous vous clamez publiquement être le **Fou du roi**, certains joueurs voudront **vous exécuter pour vérifier**.  
