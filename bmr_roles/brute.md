@@ -51,10 +51,12 @@ image: /images/Icon_goon.png
   </li>
 </ul>
 
-
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
 « Ouais, patron. J’y ai expliqué les choses à ma façon.<br> 
 L’a son compte, pour sûr.<br> Nan, j’ai pas b’soin d’un docteur.<br> 
 J’me soigne seul. À demain. »
+</p>
+
 
 <hr class="marginal">
 
