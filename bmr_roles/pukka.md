@@ -119,6 +119,7 @@ Si vous utilisez des rôles provenant d’autres modules, vous devrez peut-être
 Par exemple, si le <strong>Pukka</strong> tue le <a href="../sv_roles/sage.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a>, le <a href="../sv_roles/sage.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a> peut obtenir de fausses informations à cause de son empoisonnement par le <strong>Pukka</strong>.
 </div>
 
+
 <h2><span style="color:#d45b5b;">Exemples</span></h2>
 
 ---
