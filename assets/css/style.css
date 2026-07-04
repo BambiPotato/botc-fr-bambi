@@ -1403,22 +1403,45 @@ hr.explication {
   background: transparent;
 }
 
-/* Mobile / tablette */
-@media (max-width:700px){
-  .botc-flavour-text{
-    font-size:18px;
-    line-height:1.55;
-    letter-spacing:.1px;
-    word-spacing:normal;
-    margin:1.4em 0;
+/* =========================================================
+   Mobile / tablette
+   ========================================================= */
+
+@media (max-width: 700px) {
+
+  /* Texte d'ambiance */
+  .botc-flavour-text {
+    font-size: 18px;
+    line-height: 1.55;
+    letter-spacing: 0.1px;
+    word-spacing: normal;
+    margin: 1.4em 0;
   }
 
-  .botc-flavour-text.dropcap::first-letter{
-    font-size:3.8rem;
-    margin-right:7px;
-    margin-top:2px;
-    padding:0;
-    border:none;
-    background:transparent;
+  .botc-flavour-text.dropcap::first-letter {
+    font-size: 3.8rem;
+    margin-right: 7px;
+    margin-top: 2px;
+    padding: 0;
+    border: none;
+    background: transparent;
   }
+
+  /* =====================================================
+     Titres de rôles (anciens span style="font-size:50px")
+     ===================================================== */
+
+  span[style*="font-size:50px"] {
+    display: inline-block !important;
+    max-width: 100% !important;
+
+    font-size: clamp(30px, 8.8vw, 42px) !important;
+    line-height: 1.12 !important;
+
+    white-space: nowrap !important;
+    word-break: keep-all !important;
+    overflow-wrap: normal !important;
+    hyphens: none !important;
+  }
+
 }
