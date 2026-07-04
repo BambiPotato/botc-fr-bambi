@@ -45,8 +45,8 @@ image: /images/Icon_godfather.png
 </ul>
 
 <p style="color:#f5f5f5; font-style:italic; font-size:18px; margin:10px 40px;">
-  « Normalement, ce n’est que des affaires. Mais insulter ma fille, c’est m’insulter.  
-  Et m’insulter, c’est insulter ma famille. Vous devriez faire attention un accident est si vite arrivé… »
+« Normalement, ce sont juste des affaires.<br> Mais si tu insultes ma fille, tu m’insultes.<br> Et quand tu m’insultes, tu insultes la famille.<br>
+Fais bien attention où tu mets les pieds.<br> Ce serait dommage qu’ils finissent dans le ciment. »
 </p>
 
 <hr class="sbire">
@@ -66,7 +66,7 @@ image: /images/Icon_godfather.png
 ---
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
-  <strong>« Lors de votre première nuit, vous apprenez quels Marginaux sont en jeu. <br>  Si un Marginal meurt dans la journée, choisissez un joueur cette nuit : il meurt. [-1 ou +1 Marginal] »</strong>
+  <strong>« Lors de votre première nuit, vous apprenez quels Marginaux sont en jeu. <br>  Si un Marginal meurt dans la journée, choisissez un joueur cette nuit : il meurt.<br> [-1 ou +1 Marginal] »</strong>
 </p>
 
 <p class="botc-flavour-text dropcap">
