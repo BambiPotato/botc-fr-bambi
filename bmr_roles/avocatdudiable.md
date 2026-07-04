@@ -46,8 +46,7 @@ image: /images/Icon_devilsadvocate.png
 </ul>
 
 <p style="color:#f5f5f5; font-style:italic; font-size:18px; margin:10px 40px;">
-  « Mon client, si l’objection est rejetée, plaide non coupable au motif que l’accusation n’a pas respecté l’article 27.B, mauvaise conjugaison d’un verbe.<br>  
-  Le fait que neuf jurés soient morts cette nuit n’est que circonstanciel, et selon Wills contre Thule, justifie l’acquittement. »
+  « Mon client, si l’objection est rejetée, <br>plaide non coupable au motif que l’accusation n’a pas respecté l’article 27.B,<br> mauvaise conjugaison d’un verbe.<br> Le fait que neuf jurés soient morts cette nuit n’est que circonstanciel,<br> et selon Wills contre Thule, justifie l’acquittement. »
 </p>
 
 <hr class="sbire">
