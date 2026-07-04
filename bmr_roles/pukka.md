@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Pukka
+description : "Chaque nuit, choisissez un joueur : il est empoisonné. Le joueur précédemment empoisonné meurt, puis devient sain."
+image: /images/Icon_pukka.png
 ---
 
 <p align="left">
@@ -9,20 +11,19 @@ title: Pukka
   </a>
 </p>
 
-<!-- TITRE -->
+<hr class="explication">
 
-<h1> <span style="color:#d45b5b;">Pukka</span></h1>
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./pukka.html" style="text-decoration:none;">
     <img src="../images/Icon_pukka.png" alt="Pukka" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:#d45b5b; font-weight:bold; font-size:22px;">Pukka</span>
+    <span style="color:#d45b5b; font-weight:bold; font-size:50px;">Pukka</span>
   </a>
 </div>
 
-<hr>
+<hr class="demon">	
 
 <!-- INFORMATIONS -->
 
@@ -51,266 +52,144 @@ title: Pukka
   </li>
 </ul>
 
-<p style="color:#f5f5f5; font-style:italic; font-size:18px; margin:10px 40px 0 40px;">
-  « Vous avez été si aimables de m’accueillir dans votre charmante demeure.<br>
-  Je suis navré de vous avoir accidentellement égratigné. Ce n’est rien, vraiment.<br>
-  Mais prenez donc ce cure-dent doré, modeste gage de mes regrets. »
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+  « Vous avez vraiment été aimable en m’accueillant dans votre magnifique demeure.<br> Je suis tellement désolé de vous avoir griffé accidentellement.<br> 
+  Une petite chose. Sans importance. .<br> Mais je vous en prie, acceptez ce cure-dent en or comme un humble témoignage de mon regret. »<br>
 </p>
 
-<hr>
+<hr class="demon">	
 
 <!-- APPARAIT DANS -->
 
 <h2> <span style="color:#d45b5b;">Apparaît dans</span></h2>
 
-<h1 style="text-align:center; margin-bottom:0;">
-   <span style="color:#b58b52; font-weight:bold; font-size:42px;">Bad Moon Rising</span>
-</h1>
-
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Les morts dansent sous la lune, et les vivants leur tiennent la chandelle… »
-</p>
-
-<hr>
-
 <div style="text-align:center; margin: 20px 0;">
   <a href="../bmr.html" style="text-decoration:none;">
     <img src="../images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:22px;">Bad Moon Rising</span>
+    <span style="color:#b58b52; font-weight:bold; font-size:45px;">Bad Moon Rising</span>
   </a>
 </div>
 
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-  "Cult of the Clocktower – épisode par Andrew Nathenson"
-</p>
-
-<hr>
-
 <!-- RÉSUMÉ -->
+<hr class="explication">
+
 
 <h2> <span style="color:#d45b5b;">Résumé</span></h2>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0 40px;">
-  <strong>« Chaque nuit, choisissez un joueur : il est empoisonné. Le joueur précédemment empoisonné meurt puis redevient sain. »</strong>
+
+<hr class="explication">
+
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
+  <strong>« Chaque nuit, choisissez un joueur : il est empoisonné. <br> Le joueur précédemment empoisonné meurt, puis devient sain. »</strong>
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:10px 40px 0 40px;">
-  Le <strong>Pukka</strong> empoisonne ses victimes, qui meurent plus tard.
+<p class="botc-flavour-text dropcap">
+<strong>LE PUKKA</strong> empoisonne ses victimes, qui meurent un peu plus tard.
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; list-style-type:disc;">
-  <li>Lorsque le Pukka attaque, sa victime est immédiatement <strong>empoisonnée</strong>.  
-      La nuit suivante, juste après une nouvelle attaque du Pukka, ce joueur meurt.</li>
-  <li>Contrairement à la plupart des autres Démons, le Pukka agit dès la <strong>première nuit</strong>.</li>
-  <li>L’<a href="../bmr_roles/exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a> empêche le Pukka de se réveiller pour empoisonner un joueur.</li>
-  <li>L’<a href="../bmr_roles/aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a> peut empêcher le Pukka de tuer un joueur empoisonné, qui n’est alors plus empoisonné.</li>
-  <li>Si le Pukka est ivre et choisit un joueur, ce joueur n’est pas empoisonné et ne meurt donc pas la nuit suivante.</li>
-  <li>Si le Pukka était sobre lorsqu’il a choisi un joueur la nuit précédente, mais qu’il est ivre le soir même, ce joueur ne meurt pas.  
-      Cependant, lorsque le Pukka dégrise, le poison reprend son effet et tue le joueur pendant la nuit.</li>
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>Lorsque le <strong>Pukka</strong> attaque, sa victime est immédiatement empoisonnée.<br> La nuit suivante, juste après l’attaque du <strong>Pukka</strong>, ce joueur meurt.</li>
+
+  <li>Contrairement aux autres <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démons</a>, le <strong>Pukka</strong> attaque dès la première nuit.</li>
+
+  <li>L’<a href="./exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a> empêche le <strong>Pukka</strong> de se réveiller pour empoisonner un joueur.<br> L’<a href="./aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a> empêche le <strong>Pukka</strong> de tuer un joueur empoisonné.<br> Ce joueur cesse alors d’être empoisonné.</li>
+
+  <li>Si le <strong>Pukka</strong> est ivre lorsqu’il choisit un joueur, ce joueur ne devient pas empoisonné et ne meurt pas la nuit suivante.</li>
+
+  <li>Si le <strong>Pukka</strong> est ivre au moment de tuer un joueur empoisonné lors de la nuit précédente, ce joueur ne meurt pas.<br> La nuit venue, si le <strong>Pukka</strong> redevient sobre, le poison reprend et tue ce joueur.</li>
 </ul>
 
-<hr>
 
-<!-- COMMENT CONTER -->
 
-<h2> <span style="color:#d45b5b;">Comment Conter</span></h2>
+<h2><span style="color:#d45b5b;">Comment Conter</span></h2>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; list-style-type:disc;">
-  <li>Chaque nuit, réveillez le Pukka.  
-      Il désigne un joueur. Endormez le Pukka.  
-      Le joueur désigné est empoisonné : marquez-le avec le jeton de rappel <strong>EMPOISONNÉ</strong>.</li>
+---
 
-  <li>Chaque nuit, sauf la première, le joueur qui était déjà marqué <strong>EMPOISONNÉ</strong> meurt :  
-      marquez-le avec le jeton de rappel <strong>MORT</strong>, puis retirez son jeton <strong>EMPOISONNÉ</strong>.</li>
-</ul>
-
-<p style="color:#f5f5f5; font-size:16px; line-height:1.7; margin:10px 40px; border-left:3px solid #d45b5b; padding-left:10px;">
-   <em>Astuce pour les Conteurs et Conteuses :</em><br>
-  Les joueurs tués par le Pukka restent empoisonnés au moment de leur mort.  
-  Si vous utilisez des rôles d’autres éditions, il peut être nécessaire de conserver l’indication « EMPOISONNÉ » près de « MORT »  
-  jusqu’à la résolution de leur capacité de mort.  
-  Par exemple, si le Pukka tue le
-  <a href="../sv_roles/sage.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a>,  
-  ce dernier pourrait recevoir de fausses informations à cause de son empoisonnement.
+<p class="botc-flavour-text dropcap">
+<strong>INSTRUCTIONS AU CONTEUR</strong>
 </p>
 
-<hr>
-
-<!-- EXEMPLES -->
-
-<h2> <span style="color:#d45b5b;">Exemples</span></h2>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; list-style-type:disc;">
-  <li>
-    Le <strong>Pukka</strong> empoisonne la
-    <a href="../bmr_roles/femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de Chambre</a>.  
-    Elle reçoit de fausses informations.  
-    La nuit suivante, la
-    <a href="../bmr_roles/femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de Chambre</a> meurt.
-  </li>
-
-  <li>
-    Le <strong>Pukka</strong> empoisonne le
-    <a href="../bmr_roles/fou.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fou</a>.  
-    Le lendemain, le
-    <a href="../bmr_roles/fou.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fou</a> est exécuté et meurt car il n’a plus de capacité.  
-    La nuit suivante, personne ne meurt ; le <strong>Pukka</strong> empoisonne la
-    <a href="../bmr_roles/commere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Commère</a>.  
-    La nuit suivante, le <strong>Pukka</strong> est ivre et tente d’empoisonner le
-    <a href="../bmr_roles/bricoleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bricoleur</a>, mais n’y parvient pas.  
-    La nuit suivante, le Pukka redevient sobre et la
-    <a href="../bmr_roles/commere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Commère</a> meurt.
-  </li>
-
-  <li>
-    Le <strong>Pukka</strong> empoisonne le
-    <a href="../bmr_roles/pacifiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pacifiste</a>.  
-    La nuit suivante, l’
-    <a href="../bmr_roles/exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a>
-    choisit le <strong>Pukka</strong> : il ne se réveille pas cette nuit,  
-    mais le
-    <a href="../bmr_roles/pacifiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pacifiste</a> meurt malgré tout à cause du poison.
-  </li>
-
-  <li>
-    L’
-    <a href="../bmr_roles/enfantdelalune.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Enfant de la Lune</a>
-    est exécuté, meurt et choisit le
-    <a href="../bmr_roles/courtisan.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisan</a>.  
-    Cette nuit-là, le <strong>Pukka</strong> empoisonne l’
-    <a href="../bmr_roles/enfantdelalune.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Enfant de la Lune</a>.  
-    Le
-    <a href="../bmr_roles/courtisan.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisan</a>
-    ne meurt pas parce que l’
-    <a href="../bmr_roles/enfantdelalune.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Enfant de la Lune</a>
-    est empoisonné.
-  </li>
-</ul>
-
-<hr>
-
-<!-- ASTUCES & STRATÉGIE -->
-
-<h2> <span style="color:#d45b5b;">Astuces &amp; Stratégie</span></h2>
-
-<h3 style="color:#d45b5b; font-size:20px; margin-left:40px;"> Le poison du chaos</h3>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0 40px;">
-  Le perfide <strong>Pukka</strong> est l’un des Démons les plus dangereux de <em>Bad Moon Rising</em> en raison de sa brutalité et de sa cruauté.
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+Chaque nuit, réveillez le <strong>Pukka</strong>.<br>
+Il désigne n’importe quel joueur.<br>
+Le <strong>Pukka</strong> se rendort.<br>
+Le joueur choisi est empoisonné — marquez-le d’un jeton <strong>EMPOISONNÉ</strong>.<br>
+Chaque nuit, sauf la première, l’autre joueur marqué <strong>EMPOISONNÉ</strong> meurt.<br>
+Marquez-le d’un jeton <strong>MORT</strong>, puis retirez son jeton <strong>EMPOISONNÉ</strong>.
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; list-style-type:disc;">
-  <li>Tous les autres Démons laissent au Village au moins une nuit de répit ; le Pukka, lui, agit dès la première nuit.</li>
-  <li>Il sème le chaos immédiatement, en choisissant sa future victime avant même que les Villageois n’aient la moindre possibilité d’agir.</li>
-  <li>Le <a href="./zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> est peut-être plus résistant, et le
-      <a href="./shabaloth.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a>
-      ou le <a href="./po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a> peuvent tuer plus efficacement,  
-      mais ils restent vulnérables à l’arme la plus redoutable du camp du
-      <span style="color:#4ea3ff; font-weight:bold;">Bien</span> : l’information.</li>
-  <li>Le Pukka ne se contente pas de tuer : il annule les capacités de ses victimes et les plonge dans la confusion.  
-      Leurs derniers renseignements deviennent faux, et la menace qu’elles représentaient se transforme en néant.</li>
-  <li>Le camp du Bien espère toujours qu’il n’est pas en jeu, de peur de devoir passer toute la partie à douter de chaque information normalement fiable.</li>
+<div class="botc-note">
+Les joueurs tués par <strong>Pukka</strong> restent empoisonnés au moment de leur mort.<br>
+Si vous utilisez des rôles provenant d’autres modules, vous devrez peut-être conserver le jeton <strong>EMPOISONNÉ</strong> à côté du jeton <strong>MORT</strong> jusqu’à ce que la capacité du joueur mort soit résolue.<br>
+Par exemple, si le <strong>Pukka</strong> tue le <strong>Sage</strong>, le <strong>Sage</strong> peut obtenir de fausses informations à cause de son empoisonnement par le <strong>Pukka</strong>.
+</div>
+
+
+
+<h2><span style="color:#d45b5b;">Exemples</span></h2>
+
+---
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+Le <strong>Pukka</strong> empoisonne la <a href="./femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de chambre</a>.<br>
+Elle reçoit de fausses informations.<br>
+La nuit suivante, elle meurt.<br>
+Le <strong>Pukka</strong> empoisonne le <a href="./fou.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fou du roi</a>.<br>
+Le lendemain, le <a href="./fou.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fou du roi</a> est exécuté et meurt parce que sa capacité ne fonctionne pas.<br>
+La nuit suivante, personne ne meurt.<br>
+Le <strong>Pukka</strong> empoisonne la <a href="./commere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Commère</a>.<br>
+La nuit suivante, le <strong>Pukka</strong> est ivre.<br>
+Il tente d’empoisonner le <a href="./bricoleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bricoleur</a>, mais sans effet.<br>
+La nuit suivante, la <a href="./commere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Commère</a> meurt parce que le <strong>Pukka</strong> est sobre.<br>
+Le <strong>Pukka</strong> empoisonne le <a href="./pacifiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pacifiste</a>.<br>
+La nuit suivante, l’<a href="./exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a> choisit que le <strong>Pukka</strong> ne se réveillera pas cette nuit-là.<br>
+Le <a href="./pacifiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pacifiste</a> meurt, mais le <strong>Pukka</strong> ne se réveille pas pour attaquer cette nuit-là.<br>
+La <a href="./enfantdelalune.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sélénite</a> est exécutée.<br>
+Elle meurt et choisit le <a href="./courtisan.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisan</a> comme cible de sa capacité.<br>
+Cette nuit-là, le <strong>Pukka</strong> choisit la <a href="./enfantdelalune.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sélénite</a>.<br>
+Le <a href="./courtisan.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisan</a> ne meurt pas, car la <a href="./enfantdelalune.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sélénite</a> morte est empoisonnée.
+</p>
+
+
+
+<h2><span style="color:#d45b5b;">Conseils &amp; Astuces</span></h2>
+
+---
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>Le sournois <strong>Pukka</strong> est le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> le plus redoutable de <span style="color:#ffa64d; font-weight:bold;">Bad Moon Rising</span> par sa cruauté et sa férocité.<br> Tous les autres <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démons</a> accordent au village la courtoisie d’une nuit de répit ; le <strong>Pukka</strong>, lui, n’a pas cette patience.<br> Il sème le chaos dès la première nuit, en choisissant sa première victime avant même que les villageois n’aient la moindre occasion d’agir.<br> Le <a href="./zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> est peut-être plus résistant que vous, et le <a href="./shabaloth.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a> ou le <a href="./po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a> tuent peut-être plus efficacement, mais ils restent vulnérables à l’arme la plus dangereuse de l’équipe du bien : l’information.<br> Vous ne vous contentez pas de tuer ; vous neutralisez également vos victimes, les condamnant à passer leurs derniers jours dans le délire, leurs informations devenant erronées et la menace qu’elles représentaient réduite à néant.<br> L’équipe du bien espère toujours que vous n’êtes pas en jeu, car cela l’obligerait à remettre en question toutes les informations qui, autrement, la conduiraient tout droit jusqu’à vous.</li>
+
+  <li>Réfléchissez autant au joueur que vous souhaitez empoisonner qu’à celui que vous souhaitez tuer.<br> Une <a href="./femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de chambre</a> bavarde et très active, qui ignore que sa dernière information est fausse, peut continuer à travailler pour vous même après sa mort.<br> Avec un peu de chance, vous pourrez neutraliser un <a href="./exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a> ou un <a href="./courtisan.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisan</a> avant qu’ils ne vous neutralisent, ou encore exposer les protégés d’un <a href="./aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a> au <a href="./parrain.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parrain</a> ou à la malédiction d’une <a href="./enfantdelalune.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sélénite</a> grâce à un bon timing.<br> Vous êtes le seul joueur maléfique de <span style="color:#ffa64d; font-weight:bold;">Bad Moon Rising</span> capable de fausser les informations de vos victimes : profitez-en pleinement.</li>
+
+  <li>Ciblez des joueurs qui, selon vous, ne seront pas exécutés le lendemain.<br> Si l’équipe du bien exécute votre victime empoisonnée, vous ne provoquerez aucune mort cette nuit-là… ce que des joueurs bons particulièrement perspicaces pourraient utiliser pour comprendre qu’un <strong>Pukka</strong> est en jeu.<br> Une exécution mal placée peut vous obliger à courir après la partie jusqu’à la fin.</li>
+
+  <li>Ciblez des joueurs que l’équipe du bien soupçonne de bluffer une protection contre l’exécution, comme un prétendu <a href="./marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a>, ou une <a href="./damedethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Tisanière</a> et l’un de ses voisins.<br> Même en l’absence de mort la nuit suivante, cela donnera l’impression qu’ils ont simulé leur capacité grâce à un <a href="./avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a>, et pourra même conduire le village à croire qu’il affronte en réalité un <a href="./zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a>.<br> Et chaque journée que le village passe à exécuter des joueurs déjà morts est une excellente journée pour vous !</li>
+
+  <li>Votre poison ne peut être empêché que par un rusé <a href="./brute.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gros-bras</a>, mais les personnages peuvent toujours être protégés de la mort pendant la nuit par des rôles comme la <a href="./damedethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Tisanière</a> ou l’<a href="./aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a>.<br> Vous n’avez rien à craindre du <a href="./fou.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fou du roi</a> ni du <a href="./marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a>, mais choisissez tout de même vos victimes avec soin : manquer une mise à mort serait regrettable, surtout lorsque vous rivalisez avec le <a href="./shabaloth.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a> ou le <a href="./po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a>.<br> Votre mot d’ordre doit être : fiabilité et méthode.</li>
+
+  <li>Essayez de cacher aussi longtemps que possible le fait qu’un <strong>Pukka</strong> est en jeu.<br> Dès que l’équipe du bien comprend que vous êtes présent, elle peut commencer à reconstituer l’historique des informations empoisonnées, réduisant à néant tous vos efforts !<br> Même si faire croire à un <a href="./zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> peut sembler être le choix le plus évident, il est souvent plus facile d’imiter un <a href="./po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a>, voire un <a href="./shabaloth.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a>, avec l’aide d’un <a href="./assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>, d’un <a href="./parrain.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parrain</a>… ou simplement de quelques villageois téméraires.<br> Par exemple, si vous savez qu’une déclaration de la <a href="./commere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Commère</a> provoquera une mort cette nuit-là, c’est peut-être le moment idéal pour faire agir vos <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> afin de provoquer plusieurs morts et reproduire une attaque d’un <a href="./po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a> chargé.<br> Ils finiront peut-être par vous retrouver… mais l’objectif est qu’au moment où ils y parviennent, il soit déjà trop tard.</li>
 </ul>
 
-<h3 style="color:#d45b5b; font-size:20px; margin-left:40px;"> Choisissez vos cibles avec discernement</h3>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; list-style-type:disc;">
-  <li>Empoisonnez en priorité les rôles qui collectent ou vérifient des informations :
-      <a href="../bmr_roles/femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de Chambre</a>,
-      <a href="../bmr_roles/parieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Parieur</a>,
-      <a href="../bmr_roles/commere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Commère</a>,
-      <a href="../bmr_roles/exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a>, etc.</li>
-  <li>Une <a href="../bmr_roles/damedethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dame de Thé</a>
-      ou un <a href="../bmr_roles/aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a> empoisonné devient un allié involontaire,  
-      puisqu’ils protègent désormais à tort.</li>
+
+<h2><span style="color:#d45b5b;">Combattre le Pukka</span></h2>
+
+---
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>La première étape pour combattre le <strong>Pukka</strong> consiste à comprendre qu’il est en jeu.<br> Soyez attentif aux morts inhabituelles pendant la nuit, comme un <a href="./fou.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fou du roi</a> qui meurt très tôt ou un <a href="./marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a> qui meurt tout court.<br> Pensez également au fait qu’une nuit sans mort peut simplement s’expliquer par l’exécution, pendant la journée, de la victime empoisonnée par le <strong>Pukka</strong>.<br> Si ces deux indices commencent à former un schéma, il est presque certain qu’un <strong>Pukka</strong> est présent.</li>
+
+  <li>Une fois que vous avez compris qu’un <strong>Pukka</strong> est en jeu, il va falloir remonter le fil des informations.<br> Chaque joueur mort la nuit dernière a été empoisonné la journée et la nuit précédentes.<br> Une <a href="./damedethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Tisanière</a> morte explique peut-être pourquoi sa capacité n’a pas fonctionné lorsqu’elle était en vie.<br> Un <a href="./parieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Parieur</a> mort explique peut-être pourquoi il n’est pas mort la nuit où il avait désigné un joueur.<br> Une <a href="./femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de chambre</a> morte a reçu une fausse information l’avant-dernière nuit.<br> Un <a href="./exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a> mort a peut-être réellement choisi le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> une nuit où des joueurs sont tout de même morts.<br> Reconstituer cette chronologie peut être compliqué, car il est plus difficile de se souvenir de ce qui s’est passé l’avant-dernière nuit que de ce qui s’est passé la nuit dernière, mais cet exercice peut fournir des informations extrêmement précieuses.</li>
+
+  <li>Si un <strong>Pukka</strong> est en jeu, personne n’est à l’abri.<br> Le <a href="./fou.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fou du roi</a> et le <a href="./marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a> ne peuvent pas compter sur leur propre capacité pour survivre.<br> De plus, comme le <strong>Pukka</strong> choisit sa victime une nuit entière avant qu’elle ne meure, il est préférable que tous les joueurs bons révèlent publiquement leur rôle et leurs informations le plus tôt possible.<br> Avec d’autres <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démons</a>, il peut être avantageux que certains rôles restent cachés afin d’inciter le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> à attaquer certaines personnes plutôt que d’autres.<br> Face au <strong>Pukka</strong>, ce n’est pas le cas.<br> Révélez tout, travaillez ensemble et traduisez enfin ce maudit empoisonneur en justice !</li>
+
+  <li>Si vous n’avez absolument aucune idée de l’identité des joueurs maléfiques, privilégiez l’exécution des joueurs que vous pensez empoisonnés.<br> Toutes choses égales par ailleurs, il vaut mieux exécuter un joueur bon empoisonné par le <strong>Pukka</strong> qu’un joueur bon qui ne l’est pas, car lorsqu’une victime du <strong>Pukka</strong> est exécutée, le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> ne provoque aucune mort cette nuit-là.<br> Bien entendu, il est toujours préférable d’exécuter un joueur maléfique, mais si vous ne disposez d’aucune information fiable, privilégiez les joueurs qui semblent empoisonnés.</li>
 </ul>
 
-<h3 style="color:#d45b5b; font-size:20px; margin-left:40px;"> Rythmez vos morts</h3>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; list-style-type:disc;">
-  <li>Si le Village exécute votre victime empoisonnée, il n’y aura <strong>aucune mort la nuit suivante</strong>.  
-      Cela peut révéler qu’un Pukka est en jeu.</li>
-  <li>Essayez donc de cibler des joueurs peu susceptibles d’être exécutés rapidement.</li>
-  <li>Ciblez aussi celles et ceux qui bluffent des rôles immunisés à la mort (comme un
-      <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a>  
-      ou les voisins d’une
-      <a href="../bmr_roles/damedethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dame de Thé</a>) :  
-      leur mort ultérieure sèmera une grande confusion.</li>
-</ul>
+<hr class="explication">
 
-<h3 style="color:#d45b5b; font-size:20px; margin-left:40px;"> Coopérez avec vos Sbires</h3>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; list-style-type:disc;">
-  <li>Le <a href="../bmr_roles/parrain.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parrain</a>
-      peut tuer vos victimes au bon moment pour renforcer votre effet.</li>
-  <li>L’<a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>
-      peut faire croire à la présence d’un autre type de Démon.</li>
-  <li>Le <a href="../bmr_roles/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a>
-      offre un plan de secours si vous êtes exécuté.</li>
-</ul>
-
-<h3 style="color:#d45b5b; font-size:20px; margin-left:40px;"> Restez discret</h3>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; list-style-type:disc;">
-  <li>Ne laissez pas le Village comprendre trop tôt que vous êtes un Démon empoisonneur.  
-      Une fois identifié, vos effets pourront être recoupés et neutralisés.</li>
-  <li>Bluffez un autre Démon, comme le
-      <a href="./zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a>
-      ou le <a href="./po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a>.  
-      Quelques morts supplémentaires causées par vos alliés peuvent entretenir le doute.</li>
-</ul>
-
-<hr>
-
-<!-- COMBATTRE LE PUKKA -->
-
-<h2> <span style="color:#d45b5b;">Combattre le Pukka</span></h2>
-
-<h3 style="color:#d45b5b; font-size:20px; margin-left:40px;"> Première étape : identifier sa présence</h3>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; list-style-type:disc;">
-  <li>Cherchez des morts suspectes, par exemple :
-    <ul style="margin-left:20px; list-style-type:circle;">
-      <li>un <a href="../bmr_roles/fou.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fou</a> qui meurt tôt ;</li>
-      <li>un <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a> qui meurt alors qu’il ne devrait pas ;</li>
-      <li>ou une nuit sans mort après une exécution (la victime empoisonnée du Pukka ayant été exécutée le jour même).</li>
-    </ul>
-  </li>
-  <li>Si un schéma cohérent apparaît entre ces signaux, il y a de fortes chances qu’un Pukka soit en jeu.</li>
-</ul>
-
-<h3 style="color:#d45b5b; font-size:20px; margin-left:40px;"> Remontez la chaîne d’informations</h3>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; list-style-type:disc;">
-  <li>Chaque mort nocturne correspond à un joueur :
-    <ul style="margin-left:20px; list-style-type:circle;">
-      <li>empoisonné la veille ;</li>
-      <li>puis mort cette nuit.</li>
-    </ul>
-  </li>
-  <li>Exemples de déductions :
-    <ul style="margin-left:20px; list-style-type:circle;">
-      <li>Une <a href="../bmr_roles/damedethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dame de Thé</a> morte avait une bonne raison pour que sa capacité échoue la nuit précédente : elle était peut-être empoisonnée.</li>
-      <li>Un <a href="../bmr_roles/parieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Parieur</a> mort n’a pas été tué la nuit précédente malgré un mauvais choix : il était probablement empoisonné au moment de son pari.</li>
-      <li>Une <a href="../bmr_roles/femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de Chambre</a> morte a pu recevoir une information fausse l’avant-veille.</li>
-      <li>Un <a href="../bmr_roles/exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a> mort a peut-être réellement ciblé le Démon une nuit où il y a eu mort.</li>
-    </ul>
-  </li>
-  <li>Cela demande de se souvenir de ce qui s’est passé deux nuits plus tôt, mais les informations obtenues peuvent être décisives.</li>
-</ul>
-
-<h3 style="color:#d45b5b; font-size:20px; margin-left:40px;"> Stratégies pour le camp du Bien</h3>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; list-style-type:disc;">
-  <li><strong>Révélez vos rôles assez tôt</strong> : le Pukka tue avec décalage, donc l’information publique aide le groupe à recouper les indices.</li>
-  <li>Si vous ne savez pas qui est le Démon, il peut être judicieux d’<strong>exécuter les joueurs que vous pensez empoisonnés</strong> :  
-      cela empêchera un nouveau meurtre cette nuit-là.
-      <br>Bien sûr, exécuter un Sbire ou le Démon reste l’idéal,  
-      mais en l’absence d’informations fiables, exécuter une victime empoisonnée est souvent la « moins mauvaise » option.</li>
-</ul>
-
-<hr>
 
 <h2 style="color:#d45b5b; font-size:22px; margin-top:30px;">
   🧞 Jinxes liés
@@ -333,7 +212,7 @@ title: Pukka
 </ul>
 
 
----
+<hr class="explication">
 
 
 <!-- LIENS DE PIED DE PAGE -->
