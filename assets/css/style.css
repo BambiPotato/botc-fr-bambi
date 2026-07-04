@@ -1427,21 +1427,23 @@ hr.explication {
     background: transparent;
   }
 
-  /* =====================================================
-     Titres de rôles (anciens span style="font-size:50px")
-     ===================================================== */
+ /* =====================================================
+   Titres de rôles mobile — anciens span font-size:50px
+   ===================================================== */
 
+@media (max-width: 700px) {
   span[style*="font-size:50px"] {
     display: inline-block !important;
     max-width: 100% !important;
 
-    font-size: clamp(30px, 8.8vw, 42px) !important;
+    font-size: clamp(30px, 8.5vw, 42px) !important;
     line-height: 1.12 !important;
 
-    white-space: nowrap !important;
+    white-space: normal !important;
     word-break: keep-all !important;
     overflow-wrap: normal !important;
     hyphens: none !important;
-  }
 
+    text-align: center !important;
+  }
 }
