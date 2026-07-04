@@ -107,6 +107,10 @@ S’il avait une capacité unique de première nuit ou une capacité « Lors de 
 
 ---
 
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p>
+
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 • Chaque nuit, sauf la première, réveillez le <strong>Shabaloth</strong>.<br>
 Il désigne deux joueurs, un à la fois.<br>
@@ -132,7 +136,7 @@ S’il ne se réveille que la première nuit, il se réveille immédiatement pou
 <div class="botc-note">
 Comme le <strong>Shabaloth</strong> ne peut pas se recracher lui-même (il n’a pas de capacité une fois mort), il est préférable de le faire recracher une ou deux fois par partie seulement.<br>
 En général, cela suffit.
-</p></div> 
+</div> 
 
 <h2><span style="color:#d45b5b;">Exemples</span></h2>
 
