@@ -46,7 +46,7 @@ image: /images/Icon_devilsadvocate.png
 </ul>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Mon client, si l’objection est rejetée, <br>plaide non coupable au motif que l’accusation n’a pas respecté l’article 27.B,<br> mauvaise conjugaison d’un verbe.<br> Le fait que neuf jurés soient morts cette nuit n’est que circonstanciel,<br> et selon Wills contre Thule, justifie l’acquittement. »
+« Mon client, si l’objection est rejetée, <br>plaide non coupable au motif que l’accusation n’a pas respecté l’article 27.B,<br> mauvaise conjugaison d’un verbe.<br> Le fait que neuf jurés soient morts cette nuit n’est que circonstanciel,<br> et selon Wills contre Thule, justifie l’acquittement. »
 </p>
 
 <hr class="sbire">
@@ -165,7 +165,9 @@ Instructions au Conteur
   <li>Une fois que vous avez compris qu’un <strong>Avocat du Diable</strong> est en jeu, traquez-le immédiatement ! <br> Contrairement à certains autres <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>, il ne peut pas être ignoré. <br> Par exemple, si vous découvrez qui est le Baron, il est souvent préférable de concentrer vos exécutions sur d’autres joueurs et de laisser le Baron en vie. <br> De même, si vous identifiez l’<a href="./assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>, il peut être plus judicieux de le laisser vivre et de concentrer tous vos efforts sur le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>. <br> En revanche, un <strong>Avocat du Diable</strong> doit absolument mourir pour que l’équipe du bien ait de bonnes chances de l’emporter. <br> Si possible, trouvez-le et éliminez-le avant même de concentrer vos efforts sur le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.</li>
 </ul>
 
+
 <hr class="explication">
+
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
  <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
