@@ -82,7 +82,6 @@ Où le sacré. <br> Repose. En paix. <br> Moi aussi. Je dois dormir. Bientôt. �
 
 <hr class="explication">
 
-<h2><span style="color:#d45b5b;">Résumé</span></h2>
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
  « Chaque nuit*, si personne n’est mort dans la journée, choisissez un joueur : il meurt. <br> La première fois que vous mourez, vous restez en vie, mais apparaissez comme mort. » 
