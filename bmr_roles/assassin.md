@@ -12,7 +12,8 @@ image: /images/Icon_assassin.png
   </a>
 </p>
 
----
+<hr class="explication">
+
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -64,11 +65,17 @@ image: /images/Icon_assassin.png
   </a>
 </div>
 
----
+<hr class="explication">
+
 
 ##  <span style="color:red">Résumé</span>  
 
-<strong>« Une fois par partie, la nuit*, choisissez un joueur : il meurt, même s’il ne peut normalement pas mourir.»</strong> 
+
+<hr class="explication">
+
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
+« Une fois par partie, la nuit*, choisissez un joueur : il meurt, même s’il ne peut normalement pas mourir.»
+</p>
 
 <p class="botc-flavour-text dropcap">
 L’ASSASSIN tue ceux que le Démon ne peut pas tuer.
@@ -82,10 +89,10 @@ Ce joueur meurt, même s’il est protégé de la mort d’une façon ou d’une
 - Si l’Assassin attaque le [Gros bras](brute.md), le [Gros bras](brute.md) meurt puis devient maléfique.
 
 
+
+##  <span style="color:red">Comment Conter</span> 
+
 ---
-
-
-##  <span style="color:red">Comment Conter</span>  
 
 <p class="botc-flavour-text dropcap">
 Instructions au Conteur
@@ -99,72 +106,52 @@ Rien ne peut empêcher cet effet (sauf si l’Assassin n’a pas sa capacité, p
 
 - L’Assassin perd sa capacité : marquez-le du jeton **SANS CAPACITÉ** et retirez son jeton de nuit de la fiche de nuit. (L’Assassin ne se réveillera plus.)
 
----
+
 
 ##  <span style="color:red">Exemples</span>  
+
+---
 
 - Lors des trois premières nuits, l’Assassin se réveille, mais choisit de ne pas agir. Lors de la quatrième nuit, il décide de tuer le [Fou du roi](fou.md).  
 Même si le [Fou du roi](fou.md) conserve sa capacité, le [Fou du roi](fou.md) meurt et reste mort.
 
-- La [Tisanière](damedethe.md) est voisine de deux joueurs bons. L’Assassin choisit de tuer l’un des voisins de la [Tisanière](damedethe.md). Ce voisin meurt malgré la protection de la [Tisanière](damedethe.md).<br> 
+- La [Tisanière](damedethe.md) est voisine de deux joueurs bons. L’Assassin choisit de tuer l’un des voisins de la [Tisanière](damedethe.md). <br> Ce voisin meurt malgré la protection de la [Tisanière](damedethe.md).<br> 
 Le Ménestrel est en jeu. Le Conspirateur meurt par exécution.
 
 - Cette nuit-là, l’Assassin décide de tuer la [Sélénite](enfantdelalune.md), mais celle-ci ne meurt pas, car l’Assassin est ivre à cause du [Ménestrel](menestrel.md).
 
 - L’Assassin, qui était ivre à cause du Courtisan, choisit de tuer le [Gros bras](brute.md). L’Assassin n’a aucune capacité.<br>  Le [Gros bras](brute.md) reste en vie, mais devient maléfique.
 
----
 
-##  <span style="color:red">Astuces et Stratégies</span>  
 
-###  Une seule balle, un seul tir  
-
-L’[<span style="color:red">Assassin</span>](assassin.md) dispose **d’un pouvoir unique**, capable d’abattre **quiconque**, même les personnages normalement protégés.  
-Choisissez votre moment avec soin — **une utilisation bien placée peut renverser la partie**.
-
-###  Visez les cibles inaccessibles  
-
-- Éliminez ceux que votre **[<span style="color:red">Démon</span>](../demons.md)** ne peut pas atteindre :  
-  - L’[Exorciste](exorciste.md) qui empêche votre démon d'agir.  
-  - Le [Pacifiste](pacifiste.md) ou l’[Aubergiste](aubergiste.md) qui protège les autres.  
-  - Le [Marin](marin.md) ou le [Fou du roi](villageois/fou.md) intouchables.  
-
-Rien n’arrête votre lame.  
-
-###  Semer la confusion  
-
-- Utilisez votre attaque pour **brouiller les pistes** :  
-  - Tuez pendant une nuit où le Démon ne devrait pas pouvoir tuer,  
-    cela fera croire à un autre Démon (comme le [<span style="color:red">Pukka</span>](pukka.md) ou le [<span style="color:red">Po</span>](po.md)).  
-  - Vous pouvez aussi masquer la mort d’un **[<span style="color:red">Conspirateur</span>](cerveau.md)** ou d’un **[<span style="color:red">Parrain</span>](parrain.md)**.  
-
-- Coordonnez-vous avec votre Démon : évitez de viser la même cible,  
-  afin de **maximiser le nombre de morts** et **plonger le village dans la panique**.
-
-###  Manipuler les apparences  
-
-- Vous pouvez **tuer un autre Sbire** (voire vous-même !) pour **faire croire** que vous étiez bon.  
-  Un joueur mort la nuit est souvent perçu comme **innocent**.  
-- Exemple : si vous savez qu’un [Aubergiste](aubergiste.md) vous protège,  
-  tuez-vous vous-même : cela rendra l’[Aubergiste](aubergiste.md) suspect,  
-  et vous paraîtrez crédible comme victime « bonne ».
+<h2 style="color:#d45b5b;">Conseils &amp; Astuces</h2>
 
 ---
 
-##  <span style="color:red">Combattre l’Assassin</span>  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>Peu de <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> possèdent un pouvoir comparable au vôtre : un contrôle absolu sur la vie et la mort. <br> Aucune protection ne peut mettre les joueurs à l’abri de vos machinations (à moins que vous ne soyez ivre… évitez donc que cela arrive). <br> Savourez la terreur que vous inspirez à l’équipe du bien et frappez-la au pire moment possible !</li>
 
-> **Mauvaise nouvelle : vous ne pouvez pas empêcher son attaque.**  
+  <li>Tuez les joueurs que votre <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> ne peut pas atteindre. <br> Un <a href="./exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a> empêche votre <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> d’agir ? Plus maintenant. <br> Un <a href="./pacifiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pacifiste</a> est protégé par un <a href="./aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a> ? Un jeu d’enfant. <br> Un <a href="./marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a> un peu trop sûr de lui vous pose problème ? Faites de cette nuit sa dernière. <br> Rien n’arrête votre lame : profitez-en pour éliminer les joueurs qui se croient intouchables.</li>
 
-Aucune protection ne résiste à sa lame :  
-ni l’[Aubergiste](aubergiste.md), ni la [Tisanière](damedethe.md), ni même le [Fou du roi](fou.md) ou le [Marin](marin.md).  
+  <li>Tuez afin de brouiller le nombre de morts et de masquer le type de <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> en jeu. <br> Si les joueurs soupçonnent un <a href="./zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a>, vous pouvez tuer une nuit où le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> ne le peut pas, ce qui sèmera la confusion (d’autant plus que votre capacité peut imiter la mort provoquée par un <a href="./pukka.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pukka</a>). <br> Autre exemple utile : couvrir un <a href="./po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a> qui est en train de se charger. <br> L’équipe du bien ne verra pas venir les morts supplémentaires, ce qui rendra son attaque encore plus dévastatrice lorsqu’elle se produira.</li>
 
-Cependant :  
-- Observez **le nombre de morts** : une mort nocturne inattendue peut signaler l’action de l’[<span style="color:red">Assassin</span>](assassin.md).  
-- Rappelez-vous qu’il **ne peut agir qu’une fois** : après cela, sa menace disparaît.  
-- Si une mort « anormale » survient, cherchez les autres Sbires restants :  
-  un **[<span style="color:red">Parrain</span>](parrain.md)** ou un **[<span style="color:red">Conspirateur</span>](cerveau.md)** pourraient être encore en jeu.
+  <li>Coordonnez-vous avec votre <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> pour décider de la personne que vous allez tuer.<br> C’est particulièrement important avec des <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démons</a> « gourmands » comme le <a href="./shabaloth.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a> ou le <a href="./po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a>, qui peuvent tuer plusieurs joueurs dans une même nuit, mais cela vaut presque toujours la peine d’en discuter afin d’éviter de viser la même cible.<br> Votre mort supplémentaire est précieuse, et ce serait dommage de la « perdre » parce que vous et votre <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> avez choisi le même joueur.</li>
+
+  <li>Si vous ne savez pas qui tuer, ou si vous avez envie de jouer particulièrement finement, vous pouvez vous tuer vous-même (ou tuer un autre joueur maléfique) pendant la nuit afin de faire passer ce joueur maléfique pour un joueur bon. <br> Comme il est rare qu’un joueur maléfique meure pendant la nuit, l’équipe du bien supposera généralement qu’un joueur mort pendant la nuit est bon, accordera sa confiance à ses informations et bâtira sa stratégie en conséquence. <br> Cette tactique est particulièrement efficace si elle permet en plus de discréditer la capacité d’un joueur bon. <br> Par exemple, si vous savez qu’un <a href="./aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a> vous protège pendant la nuit et que vous vous tuez vous-même, non seulement vous paraîtrez bon le lendemain matin, mais l’<a href="./aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a> donnera également l’impression de mentir lorsqu’il affirmera vous avoir protégé.</li>
+</ul>
+
+
+<h2 style="color:#d45b5b;">Combattre l’Assassin</h2>
 
 ---
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>Vous ne le pouvez pas ! L’<strong>Assassin</strong> peut tuer n’importe quel joueur de son choix, et ce joueur ne peut rien faire pour empêcher cette mort. <br> L’<a href="./aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a> ne peut pas le protéger, pas plus que la <a href="./damedethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Tisanière</a>, et le <a href="./fou.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fou du Roi</a>, le <a href="./marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a> ou même le <a href="./brute.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gros Bras</a> mourront sous la lame de l’<strong>Assassin</strong>.</li>
+
+  <li>En tant que joueur bon, la meilleure façon de lutter contre l’<strong>Assassin</strong> est de repérer le moment où il a utilisé sa capacité, puis d’en tirer les conséquences pour poursuivre votre enquête. <br> La bonne nouvelle, c’est que l’<strong>Assassin</strong> ne peut tuer qu’un seul joueur par partie, contrairement au <a href="./parrain.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parrain</a>, qui peut souvent provoquer plusieurs morts au cours d’une même partie.</li>
+</ul>
+
+<hr class="explication">
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
