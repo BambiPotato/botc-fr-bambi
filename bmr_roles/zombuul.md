@@ -2,6 +2,7 @@
 layout: default
 title: Zombuul
 description: "Chaque nuit*, si personne n’est mort dans la journée, choisissez un joueur : il meurt. La première fois que vous mourez, vous restez en vie, mais apparaissez comme mort."
+image: /images/Icon_zombuul.png
 ---
 
 
@@ -133,9 +134,10 @@ Le <strong>Zombuul</strong> se rendort.<br>
 Le joueur choisi meurt — marquez-le d’un jeton <strong>MORT</strong>.
 </p>
 
-<hr class="explication">
 
 <h2><span style="color:#d45b5b;">Exemples</span></h2>
+
+---
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Le <strong>Zombuul</strong> est exécuté et meurt... en apparence seulement.<br>
@@ -149,9 +151,11 @@ Le joueur choisi meurt — marquez-le d’un jeton <strong>MORT</strong>.
   Cette nuit-là, le <strong>Zombuul</strong> ne se réveille pas.</li>
 </ul>
 
-<hr class="explication">
+
 
 <h2><span style="color:#d45b5b;">Conseils &amp; Astuces</span></h2>
+
+---
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Le sinistre <strong>Zombuul</strong> est le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> le plus redoutable de <span style="color:#ffa64d; font-weight:bold;">Bad Moon Rising</span> grâce à sa discrétion et à son incroyable capacité de survie.<br>
