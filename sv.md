@@ -46,7 +46,7 @@ image: /images/Logo_sects_and_violets.png
   line-height:1.6;
 ">
   <p style="font-weight:bold; color:#d67bff; margin-top:0; margin-bottom:8px;">
-    Les Rôles de Sects &amp; Violets
+    Sects &amp; Violets
   </p>
 
   <!-- Villageois -->
