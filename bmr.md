@@ -443,13 +443,14 @@ Ces ressources sont pratiques pour <strong>imprimer</strong> et <strong>jouer en
   <a href="./images/bmr-front.png">
     <img src="./images/bmr-front.png" alt="Couverture" width="250" style="margin:8px; border-radius:8px;">
   </a>
-  <a href="./images/bmr-nuit.png">
-    <img src="./images/bmr-nuit.png" alt="Ordre de Nuit" width="250" style="margin:8px; border-radius:8px;">
-  </a>
   <a href="./images/bmr-liste.png">
-    <img src="./images/bmr-liste.png" alt="Liste des rôles" width="250" style="margin:8px; border-radius:8px;">
+    <img src="./images/bmr-liste.png" alt="Ordre de Nuit" width="250" style="margin:8px; border-radius:8px;">
+  </a>
+  <a href="./images/bmr-nuit.png">
+    <img src="./images/bmr-nuit.png" alt="Liste des rôles" width="250" style="margin:8px; border-radius:8px;">
   </a>
 </div>
+
 
 
 <hr class="explication">
