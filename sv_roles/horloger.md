@@ -82,11 +82,9 @@ Son cercle est celui de la vie, <br> et ses mécanismes divins apportent toutes 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
 « Lors de votre première nuit, vous apprenez à combien de places du Démon est assis son Sbire le plus proche. »
 </p> 
-
 <p class="botc-flavour-text dropcap">
 L’HORLOGER apprend à combien de places du Démon se trouve son Sbire le plus proche.
 </p> 
-
 - L’Horloger apprend cette information uniquement lors de la première nuit.
 - La distance correspond au nombre de joueurs assis entre le Sbire le plus proche du Démon dans le sens horaire ou antihoraire (le plus court chemin est retenu).  
 - Un « 1 » signifie qu’il y a un Sbire juste à côté du Démon (dans le sens horaire ou antihoraire). 
