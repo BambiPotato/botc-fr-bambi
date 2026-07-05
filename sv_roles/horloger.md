@@ -74,53 +74,78 @@ Son cercle est celui de la vie, <br> et ses mécanismes divins apportent toutes 
 <hr class="explication">
 
 
-##  <span style="color:#4ea3ff;">Résumé</span>  
+<h2><span style="color:#4ea3ff;">Résumé</span></h2>
 
 
 <hr class="explication">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
-« Lors de votre première nuit, vous apprenez à combien de places du Démon est assis son Sbire le plus proche. »
-</p> 
-<p class="botc-flavour-text dropcap">
-L’HORLOGER apprend à combien de places du Démon se trouve son Sbire le plus proche.
-</p> 
-- L’Horloger apprend cette information uniquement lors de la première nuit.
-- La distance correspond au nombre de joueurs assis entre le Sbire le plus proche du Démon dans le sens horaire ou antihoraire (le plus court chemin est retenu).  
-- Un « 1 » signifie qu’il y a un Sbire juste à côté du Démon (dans le sens horaire ou antihoraire). 
-- Un « 2 » signifie qu’il y a un seul joueur entre le Démon et le Sbire, etc..
-
-
-
-##   <span style="color:#4ea3ff;">Comment Conter</span>  
-
-  ---
+« Lors de votre première nuit, vous apprenez à combien de places du <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> est assis son <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> le plus proche. »
+</p>
 
 <p class="botc-flavour-text dropcap">
-Instructions au Conteur
-</p> 
-- Lors de la première nuit, réveillez l’Horloger.  
-- Montrez-lui un nombre avec vos doigts ✋🏼 (1 ☝🏼, 2 ✌🏼 , etc.) pour indiquer à combien de places du Démon se trouve le Sbire le plus proche, en commençant par le joueur
-voisin du Démon le plus proche de ce Sbire.
-- L’Horloger se rendort.
+L’<strong>HORLOGER</strong> apprend à combien de places du <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> se trouve son <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> le plus proche.
+</p>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+
+<li style="margin-bottom:14px;">L’<strong>Horloger</strong> apprend cette information uniquement lors de la première nuit.</li>
+
+<li style="margin-bottom:14px;">La distance correspond au nombre de joueurs assis entre le <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> le plus proche et le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, dans le sens horaire ou antihoraire (le plus court chemin est retenu).</li>
+
+<li style="margin-bottom:14px;">Un <strong>« ☝🏼 1 »</strong> signifie qu’il y a un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> juste à côté du <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> (dans le sens horaire ou antihoraire).</li>
+
+<li style="margin-bottom:14px;">Un <strong>« ✌🏼 2 »</strong> signifie qu’il y a un seul joueur entre le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> et le <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>, etc.</li>
+
+</ul>
 
 
-##  <span style="color:#4ea3ff;">Exemples</span>   
+<h2><span style="color:#4ea3ff;">Comment Conter</span></h2>
 
 ---
 
-- Le [<span style="color:red;">Fang Gu</span>](fanggu.md) est assis à côté de la [<span style="color:red;">Guenaude</span>](pithag.md). 
-Lors de la première nuit, l’ **Horloger** apprend le chiffre **« ☝🏼 1 »**. 
+<p class="botc-flavour-text dropcap">
+<strong>INSTRUCTIONS AU CONTEUR</strong>
+</p>
 
-- Dans le sens horaire, à partir du [<span style="color:red;">No Dashii</span>](nodashii.md) sont assis le [Rêveur](reveur.md), le [Charmeur de serpents](charmeurdeserpent.md) puis la [<span style="color:red;">Jumelle maléfique</span>](jumeaumalefique.md).  
-- Dans le sens antihoraire, *(sens inverse des aiguilles d'une montre)* à partir du [<span style="color:red;">No Dashii</span>](nodashii.md) sont assis 
-la [Bête de foire ](mutant.md), la [Dulcinée](dulcinee.md), le [Philosophe](philosophe.md), le [Sage](sage.md), puis la [<span style="color:red;">Sorcière</span>](sorciere.md).  
-  Comme la [<span style="color:red;">Sorcière</span>](sorciere.md) se trouve à cinq places du  <span style="color:red;">Démon</span> et la [<span style="color:red;">Jumelle maléfique</span>](jumeaumalefique.md) à 3 places du **Démon**, l’[Horloger](horloger.md) apprend le chiffre **« 3 »** lors de la première nuit.  
-  
-- Le [<span style="color:red;">Fang Gu</span>](fanggu.md) est voisin de deux Voyageurs, l’un bon, l’autre maléfique.  
-  Le [<span style="color:red;">Cerenovus</span>](cerenovus.md) est voisin de l’un de ces Voyageurs.
-  Lors de la première nuit, l’Horloger apprend le chiffre **« ✌🏼 2 »**, car les <span style="color:purple;">Voyageurs maléfiques</span> ne sont pas des Sbires.  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
+<li style="margin-bottom:14px;">Lors de la première nuit, réveillez l’<strong>Horloger</strong>.</li>
+
+<li style="margin-bottom:14px;">Montrez-lui un nombre avec vos doigts ✋🏼 (☝🏼 1, ✌🏼 2, etc.) pour indiquer à combien de places du <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> se trouve le <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> le plus proche, en commençant par le joueur voisin du <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> le plus proche de ce <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>.</li>
+
+<li style="margin-bottom:14px;">L’<strong>Horloger</strong> se rendort.</li>
+
+</ul>
+
+<h2><span style="color:#4ea3ff;">Exemples</span></h2>
+
+<hr class="explication">
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+
+<li style="margin-bottom:14px;">
+Le <a href="./fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a> est assis à côté de la <a href="./pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a>.<br>
+Lors de la première nuit, l’<strong>Horloger</strong> apprend le chiffre <strong>« ☝🏼 1 »</strong>.
+</li>
+
+<li style="margin-bottom:14px;">
+Dans le sens horaire, à partir du <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a>, sont assis le <a href="./reveur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Rêveur</a>, le <a href="./charmeurdeserpent.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Charmeur de serpents</a>, puis la <a href="./jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumelle Maléfique</a>.<br><br>
+
+Dans le sens antihoraire (sens inverse des aiguilles d'une montre), à partir du <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a>, sont assis la <a href="./mutant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bête de foire</a>, la <a href="./dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a>, le <a href="./philosophe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Philosophe</a>, le <a href="./sage.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a>, puis la <a href="./sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a>.<br><br>
+
+Comme la <a href="./sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> se trouve à cinq places du <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> et la <a href="./jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumelle Maléfique</a> à trois places du <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, l’<a href="./horloger.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Horloger</a> apprend le chiffre <strong>« 3 »</strong> lors de la première nuit.
+</li>
+
+<li style="margin-bottom:14px;">
+Le <a href="./fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a> est voisin de deux <a href="../voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a>, l’un bon, l’autre maléfique.<br>
+
+Le <a href="./cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a> est voisin de l’un de ces <a href="../voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a>.<br><br>
+
+Lors de la première nuit, l’<strong>Horloger</strong> apprend le chiffre <strong>« ✌🏼 2 »</strong>, car les <a href="../voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a> maléfiques ne sont pas des <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>.
+</li>
+
+</ul>
 
 
 <h2><span style="color:#4ea3ff;">Conseils &amp; Astuces</span></h2>
