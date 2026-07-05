@@ -899,7 +899,9 @@ table.roles-grid td{
     </a>
   </p>
 
+
 <hr class="explication">
+
 
   <p align="left" style="margin-top:30px;">
     <a href="/botc-fr-bambi/">
