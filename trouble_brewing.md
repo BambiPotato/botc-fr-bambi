@@ -388,13 +388,14 @@ Les joueurs maléfiques voteront-ils pour exécuter un <a href="./sbires.html" s
   <a href="./images/tb-front .png"> 
     <img src="./images/tb-front .png" alt="Couverture" width="250" style="margin:8px; border-radius:8px;">
   </a>
-  <a href="./images/tb-nuit.png">
-    <img src="./images/tb-nuit.png" alt="Ordre de Nuit" width="250" style="margin:8px; border-radius:8px;">
-  </a>
   <a href="./images/tb-roles.png">
-    <img src="./images/tb-roles.png" alt="Liste des rôles" width="250" style="margin:8px; border-radius:8px;">
+    <img src="./images/tb-nuit.png" alt="Liste des rôles" width="250" style="margin:8px; border-radius:8px;">
+  </a>
+  <a href="./images/b-nuit.png">
+    <img src="./images/tb-roles.png" alt="Ordre de Nuit" width="250" style="margin:8px; border-radius:8px;">
   </a>
 </div>
+
 
 
 <hr class="explication">
