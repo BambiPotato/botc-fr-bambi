@@ -1447,3 +1447,27 @@ hr.explication {
     text-align: center !important;
   }
 }
+   
+/* =========================================================
+   Accueil — encart de bienvenue mobile
+   ========================================================= */
+
+@media (max-width: 700px) {
+
+  .home-page .wiki-parchment > div:first-of-type {
+    padding: 22px 16px !important;
+    margin-top: 24px !important;
+  }
+
+  .home-page .wiki-parchment > div:first-of-type h1 {
+    font-size: 20px !important;
+    line-height: 1.45 !important;
+    margin: 6px 0 16px 0 !important;
+  }
+
+  .home-page .wiki-parchment > div:first-of-type p {
+    font-size: 17px !important;
+    line-height: 1.55 !important;
+  }
+
+}
