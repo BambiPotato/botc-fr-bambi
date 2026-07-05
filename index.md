@@ -35,7 +35,7 @@ home_sidebar: true
 
 
 
-<hr style="margin:16px auto; max-width:980px; border:1px solid rgba(181,139,82,.25);">
+<hr style="margin:16px auto; max-width:980px; border:0; border-top:1px solid rgba(181,139,82,.25);">
 
 <!-- ====== INFORMATIONS SUR LE JEU ====== -->
 
@@ -47,22 +47,22 @@ home_sidebar: true
   padding-left:16px;
   margin-bottom:10px;
 ">
-  Informations sur le Jeu
+  Informations sur le jeu
 </h1>
 
 <table class="rules-table">
   <tr>
     <td class="rules-cell">
-      <a class="rules-link" href="./glossaire.html" aria-label="Glossaire des termes Français">
-        <div class="rules-title">Glossaire des termes </div>
+      <a class="rules-link" href="./glossaire.html" aria-label="Glossaire des termes français">
+        <div class="rules-title">Glossaire des termes</div>
         <div class="rules-sub">Liste des termes en français</div>
       </a>
     </td>
 
     <td class="rules-cell">
       <a class="rules-link" href="./glossaireengfr.html" aria-label="Glossaire des termes anglais">
-        <div class="rules-title">Glossary des termes en anglais</div>
-        <div class="rules-sub">Termes anglais & équivalents</div>
+        <div class="rules-title">Glossaire des termes anglais</div>
+        <div class="rules-sub">Termes anglais & équivalents français</div>
       </a>
     </td>
 
@@ -74,18 +74,16 @@ home_sidebar: true
     </td>
 
     <td class="rules-cell">
-      <a class="rules-link" href="./strategie.html" aria-label="Conseils et Stratégies pour les joueurs et joueuses">
-        <div class="rules-title">Conseils & Stratégies pour les joueurs et joueuses</div>
+      <a class="rules-link" href="./strategie.html" aria-label="Conseils et stratégies pour les joueurs et joueuses">
+        <div class="rules-title">Conseils & stratégies pour les joueurs et joueuses</div>
         <div class="rules-sub">Pistes de réflexion en partie</div>
       </a>
     </td>
   </tr>
 </table>
 
-<!-- ====== /INFORMATIONS SUR LE JEU ====== -->
+<!-- ====== LIVRE DES RÈGLES ====== -->
 
-
-<!--  Livre des Règles (version table, sans <div>) -->
 <h1 style="
   color:#b58b52;
   font-size:20px;
@@ -94,7 +92,7 @@ home_sidebar: true
   padding-left:16px;
   margin-bottom:14px;
 ">
-  Livre des Règles
+  Livre des règles
 </h1>
 
 <style>
@@ -107,14 +105,21 @@ home_sidebar: true
     padding:18px 12px;
     text-align:center;
     vertical-align:middle;
-    height:110px; /* hauteur uniforme */
+    height:110px;
   }
   .rules-link { text-decoration:none; display:block; }
   .rules-title { color:#d4a76a; font-weight:bold; font-size:20px; line-height:1.25; margin:0; }
-  .rules-sub   { color:#c9b08a; font-size:14px; opacity:.9; margin-top:6px; }
-  @media (max-width: 720px) {
-    .rules-table, .rules-table tbody, .rules-table tr, .rules-table td { display:block; width:100%; }
-    .rules-cell { margin-bottom:12px; height:auto; }
+  .rules-sub { color:#c9b08a; font-size:14px; opacity:.9; margin-top:6px; }
+
+  @media (max-width:720px) {
+    .rules-table, .rules-table tbody, .rules-table tr, .rules-table td {
+      display:block;
+      width:100%;
+    }
+    .rules-cell {
+      margin-bottom:12px;
+      height:auto;
+    }
   }
 </style>
 
@@ -123,21 +128,24 @@ home_sidebar: true
     <td class="rules-cell">
       <a class="rules-link" href="./blood_on_the_clocktower.html">
         <div class="rules-title">Découvrir le jeu</div>
-        <div class="rules-sub">Premiers pas, esprit du jeu</div>
+        <div class="rules-sub">Premiers pas et esprit du jeu</div>
       </a>
     </td>
+
     <td class="rules-cell">
       <a class="rules-link" href="./regles.html">
         <div class="rules-title">Explications des règles</div>
         <div class="rules-sub">Univers, signaux, déroulé</div>
       </a>
     </td>
+
     <td class="rules-cell">
       <a class="rules-link" href="./repartition.html">
         <div class="rules-title">Répartition du village</div>
         <div class="rules-sub">Configuration officielle</div>
       </a>
     </td>
+
     <td class="rules-cell">
       <a class="rules-link" href="./installation.html">
         <div class="rules-title">Installation</div>
@@ -145,6 +153,7 @@ home_sidebar: true
       </a>
     </td>
   </tr>
+
   <tr>
     <td class="rules-cell">
       <a class="rules-link" href="./capacite.html">
@@ -152,22 +161,25 @@ home_sidebar: true
         <div class="rules-sub">Quand et comment elles s’appliquent</div>
       </a>
     </td>
+
     <td class="rules-cell">
       <a class="rules-link" href="./etats.html">
         <div class="rules-title">États</div>
         <div class="rules-sub">Ivresse, empoisonnement…</div>
       </a>
     </td>
+
     <td class="rules-cell">
       <a class="rules-link" href="./teensyville.html">
         <div class="rules-title">Teensyville</div>
-        <div class="rules-sub">Format 5–6 joueurs et joueuses</div>
+        <div class="rules-sub">Format pour 5–6 joueurs</div>
       </a>
     </td>
+
     <td class="rules-cell">
       <a class="rules-link" href="./outildescript.html">
-        <div class="rules-title">Outil de Script</div>
-        <div class="rules-sub">Créez vos scripts personnalisés</div>
+        <div class="rules-title">Outil de script</div>
+        <div class="rules-sub">Créer des scripts personnalisés</div>
       </a>
     </td>
   </tr>
@@ -182,7 +194,7 @@ home_sidebar: true
   padding-left:16px;
   margin-bottom:14px;
 ">
-  Rôles & Modules
+  Rôles 
 </h1>
 
 <style>
@@ -269,7 +281,7 @@ table.roles-grid td{
   }
 </style>
 
-<table class="roles-grid" role="presentation" aria-label="Rôles & Modules">
+<table class="roles-grid" role="presentation" aria-label="Rôles">
   <tr>
     <!--  Trouble Brewing -->
     <td>
