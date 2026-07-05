@@ -1,1 +1,36 @@
 
+---
+layout: null
+---
+
+[
+{% assign first_item = true %}
+
+{% for page in site.pages %}
+  {% unless page.url contains '/assets/' or page.url contains '/images/' %}
+    {% unless first_item %},{% endunless %}
+    {
+      "title": {{ page.title | default: page.name | replace: ".md", "" | replace: ".html", "" | jsonify }},
+      "url": {{ page.url | relative_url | jsonify }},
+      "content": {{ page.content | strip_html | normalize_whitespace | jsonify }},
+      "path": {{ page.path | jsonify }},
+      "type": "Page"
+    }
+    {% assign first_item = false %}
+  {% endunless %}
+{% endfor %}
+
+{% for doc in site.documents %}
+  {% unless doc.url contains '/assets/' or doc.url contains '/images/' %}
+    {% unless first_item %},{% endunless %}
+    {
+      "title": {{ doc.title | default: doc.name | replace: ".md", "" | replace: ".html", "" | jsonify }},
+      "url": {{ doc.url | relative_url | jsonify }},
+      "content": {{ doc.content | strip_html | normalize_whitespace | jsonify }},
+      "path": {{ doc.path | jsonify }},
+      "type": "Rôle"
+    }
+    {% assign first_item = false %}
+  {% endunless %}
+{% endfor %}
+]
