@@ -75,7 +75,7 @@ image: /images/Icon_lleech.png
 
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
-« Lors de votre première nuit, choisissez un joueur : il est empoisonné. Vous mourez si et seulement si ce joueur est mort. »
+« Lors de votre première nuit, choisissez un joueur : il est empoisonné. <br>  Vous mourez si et seulement si ce joueur est mort. »
 </p>
 
 
@@ -151,7 +151,11 @@ Le <strong>Parasyte</strong> crée un lien fort entre un joueur empoisonné et l
 ---
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Parasyte</strong> empoisonne la <a href="../roles_experimentaux/noble.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Noble</a>. La Noble reçoit une information erronée. Le <strong>Parasyte</strong> est exécuté, mais ne meurt pas, car la Noble est encore en vie. Le lendemain, la Noble est exécutée : la Noble et le Parasyte meurent, et le <strong>Bien gagne</strong>.
+Le <strong>Parasyte</strong> empoisonne le <a href="../roles_experimentaux/noble.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Noble</a>. <br>
+Le <a href="../roles_experimentaux/noble.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Noble</a> reçoit une information erronée. <br>
+Le <strong>Parasyte</strong> est exécuté, mais ne meurt pas, car le <a href="../roles_experimentaux/noble.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Noble</a> est encore en vie.<br> 
+Le lendemain, le  <a href="../roles_experimentaux/noble.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Noble</a>  est exécuté : le 
+<a href="../roles_experimentaux/noble.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Noble</a>  et le Parasyte meurent, et le <strong>Bien gagne</strong>.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
