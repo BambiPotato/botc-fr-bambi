@@ -216,3 +216,4 @@ Si vous pensez qu’un <strong>Po</strong> est en jeu et qu’il reste 4, 5, voi
    <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Retour aux Démons</a><br>
    <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
 </p>
+
