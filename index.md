@@ -173,7 +173,7 @@ home_sidebar: true
   </tr>
 </table>
 
-<!-- Rôles par Édition -->
+<!-- Rôles  -->
 <h1 style="
   color:#b58b52;
   font-size:20px;
@@ -182,7 +182,7 @@ home_sidebar: true
   padding-left:16px;
   margin-bottom:14px;
 ">
-  Rôles par Édition
+  Rôles & Modules
 </h1>
 
 <style>
@@ -269,7 +269,7 @@ table.roles-grid td{
   }
 </style>
 
-<table class="roles-grid" role="presentation" aria-label="Rôles par Édition">
+<table class="roles-grid" role="presentation" aria-label="Rôles & Modules">
   <tr>
     <!--  Trouble Brewing -->
     <td>
@@ -341,7 +341,7 @@ table.roles-grid td{
         <span class="rg-media">
           <img src="./images/Generic_loric.png" alt="Lorics">
         </span>
-        <span class="rg-title">Lorics</span>
+        <span class="rg-title">Loric</span>
       </a>
     </td>
 
@@ -391,8 +391,6 @@ table.roles-grid td{
       </a>
     </td>
 
-    <!-- Placeholder vide pour compléter la ligne -->
-    <td aria-hidden="true"></td>
   </tr>
 </table>
 <!-- ====== /GRID D'ACCUEIL ====== -->
