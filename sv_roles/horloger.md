@@ -79,7 +79,9 @@ Son cercle est celui de la vie, <br> et ses mécanismes divins apportent toutes 
 
 <hr class="explication">
 
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
 « Lors de votre première nuit, vous apprenez à combien de places du Démon est assis son Sbire le plus proche. »
+</p> 
 
 <p class="botc-flavour-text dropcap">
 L’HORLOGER apprend à combien de places du Démon se trouve son Sbire le plus proche.
@@ -91,6 +93,7 @@ L’HORLOGER apprend à combien de places du Démon se trouve son Sbire le plus 
 - Un « 2 » signifie qu’il y a un seul joueur entre le Démon et le Sbire, etc..
 
 
+
 ##   <span style="color:#4ea3ff;">Comment Conter</span>  
 
   ---
@@ -98,7 +101,6 @@ L’HORLOGER apprend à combien de places du Démon se trouve son Sbire le plus 
 <p class="botc-flavour-text dropcap">
 Instructions au Conteur
 </p> 
-
 - Lors de la première nuit, réveillez l’Horloger.  
 - Montrez-lui un nombre avec vos doigts ✋🏼 (1 ☝🏼, 2 ✌🏼 , etc.) pour indiquer à combien de places du Démon se trouve le Sbire le plus proche, en commençant par le joueur
 voisin du Démon le plus proche de ce Sbire.
@@ -109,7 +111,7 @@ voisin du Démon le plus proche de ce Sbire.
 
 ---
 
-- Le [<span style="color:red;">Fang Gu</span>](fanggu.md) est assis à côté de la [<span style="color:red;">Gunaude</span>](pithag.md). 
+- Le [<span style="color:red;">Fang Gu</span>](fanggu.md) est assis à côté de la [<span style="color:red;">Guenaude</span>](pithag.md). 
 Lors de la première nuit, l’[Horloger](horloger.md) apprend le chiffre **« ☝🏼 1 »**. 
 
 - Dans le sens horaire, à partir du [<span style="color:red;">No Dashii</span>](nodashii.md) sont assis le [Rêveur](reveur.md), le [Charmeur de serpent](charmeurdeserpent.md) puis la [<span style="color:red;">Jumelle maléfique</span>](jumeaumalefique.md).  
@@ -120,6 +122,7 @@ la [Bête de foire ](mutant.md), la [Dulcinée](dulcinee.md), le [Philosophe](ph
 - Le [<span style="color:red;">Fang Gu</span>](fanggu.md) est voisin de deux Voyageurs, l’un bon, l’autre maléfique.  
   Le [<span style="color:red;">Cerenovus</span>](cerenovus.md) est voisin de l’un de ces Voyageurs.
   Lors de la première nuit, l’Horloger apprend le chiffre **« ✌🏼 2 »**, car les <span style="color:purple;">Voyageurs maléfiques</span> ne sont pas des Sbires.  
+
 
 
 <h2><span style="color:#4ea3ff;">Conseils &amp; Astuces</span></h2>
@@ -143,6 +146,7 @@ la [Bête de foire ](mutant.md), la [Dulcinée](dulcinee.md), le [Philosophe](ph
 </ul>
 
 
+
 ## <span style="color:#d45b5b;">Bluffer en tant qu’Horloger</span>
 
 ---
@@ -157,7 +161,7 @@ Lorsque vous bluffez en prétendant être l’<strong>Horloger</strong>, gardez 
 
 <li style="margin-bottom:14px;">Donner une information d’<strong>Horloger</strong> correcte peut en réalité être très utile à l’équipe du mal.<br>Si les joueurs vous croient bon, ils croiront votre information et ne vous considéreront donc pas comme un possible <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> ou <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> lorsqu’ils analyseront l’information de l’Horloger, ce qui les empêchera d’arriver jusqu’au véritable <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.<br>S’ils pensent au contraire que vous êtes maléfique, ils croiront que vous avez donné une fausse information et éviteront, là encore, le véritable <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.</li>
 
-<li style="margin-bottom:14px;">Survivre au premier jour est crucial si vous êtes le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> et que vous bluffez l’<strong>Horloger</strong>.<br>Comme c’est le seul rôle de <span style="color:#8fd3ff; font-weight:bold;">Sects &amp; Violets</span> qui reçoit une information la première nuit, puis plus jamais ensuite, les joueurs bons débutants auront tendance à vouloir exécuter l’Horloger le premier jour.<br>Attendre le deuxième jour, ou plus tard, avant de révéler que vous êtes l’Horloger peut vous aider à survivre aux premières étapes de la partie, plus risquées.</li>
+<li style="margin-bottom:14px;">Survivre au premier jour est crucial si vous êtes le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> et que vous bluffez l’<strong>Horloger</strong>.<br>Comme c’est le seul rôle de <span style="color:#d67bff; font-weight:bold;">Sects &amp; Violets</span> qui reçoit une information la première nuit, puis plus jamais ensuite, les joueurs bons débutants auront tendance à vouloir exécuter l’Horloger le premier jour.<br>Attendre le deuxième jour, ou plus tard, avant de révéler que vous êtes l’Horloger peut vous aider à survivre aux premières étapes de la partie, plus risquées.</li>
 
 <li style="margin-bottom:14px;">Choisir de petits nombres comme fausse information est généralement préférable.<br>Si le nombre que vous donnez correspond à la moitié du nombre de joueurs, cela implique que le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> et le <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> sont assis exactement l’un en face de l’autre, puisque, dans le sens horaire comme antihoraire, compter les pas depuis l’un mène au même joueur.<br>De plus, dans les parties avec plusieurs <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>, de grands nombres peuvent suggérer que les <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> sont tous regroupés, ce que les joueurs bons pourraient ne pas croire.<br>Les petits nombres peuvent être tout aussi déroutants que les grands.<br>Réfléchissez donc bien au nombre que vous choisissez.</li>
 
