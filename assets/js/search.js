@@ -1,5 +1,5 @@
 /* =========================================================
-   BOTC Wiki Search — moteur de recherche local
+   BOTC Wiki Search — version corrigée FR/EN
    Fichier : /assets/js/search.js
    ========================================================= */
 
@@ -33,6 +33,40 @@
       .trim();
   }
 
+  function extractFrenchTitle(item) {
+    const content = String(item.content || "").replace(/\s+/g, " ").trim();
+    if (!content) return "";
+
+    const stopWords = [
+      "Apparaît dans",
+      "Informations",
+      "Type :",
+      "Nom original :",
+      "Artiste :",
+      "Révélé :",
+      "Résumé"
+    ];
+
+    let title = content;
+
+    for (const stop of stopWords) {
+      const index = title.indexOf(stop);
+      if (index > 0) {
+        title = title.slice(0, index);
+      }
+    }
+
+    title = title
+      .replace(/[^\p{L}\p{N}\s'’\-]/gu, " ")
+      .replace(/\s+/g, " ")
+      .trim();
+
+    if (!title) return "";
+    if (title.length > 70) return "";
+
+    return title;
+  }
+
   function detectModule(item) {
     const path = String(item.path || item.url || "").toLowerCase();
 
@@ -52,7 +86,6 @@
     const content = String(item.content || "").toLowerCase();
 
     if (
-      path.includes("_roles") ||
       path.includes("tb_roles") ||
       path.includes("bmr_roles") ||
       path.includes("sv_roles") ||
@@ -64,7 +97,6 @@
     if (path.includes("voyageurs")) return "Voyageur";
     if (path.includes("legendaire")) return "Légendaire";
     if (path.includes("loric")) return "Loric";
-
     if (path.includes("glossaire")) return "Glossaire";
     if (path.includes("etats")) return "États";
     if (path.includes("capacite")) return "Capacités";
@@ -75,18 +107,13 @@
     if (path.includes("installation")) return "Installation";
     if (path.includes("teensyville")) return "Teensyville";
 
-    if (content.includes("type : villageois")) return "Rôle";
-    if (content.includes("type : sbire")) return "Rôle";
-    if (content.includes("type : démon")) return "Rôle";
-    if (content.includes("type : voyageur")) return "Voyageur";
-    if (content.includes("type : légendaire")) return "Légendaire";
+    if (content.includes("type :")) return "Rôle";
 
     return item.type || "Page";
   }
 
   function detectCategory(item) {
-    const content = String(item.content || "");
-    const lower = content.toLowerCase();
+    const lower = String(item.content || "").toLowerCase();
 
     if (lower.includes("type : villageois")) return "Villageois";
     if (lower.includes("type : marginal")) return "Marginaux";
@@ -133,41 +160,36 @@
 
   function scoreItem(item, query) {
     const q = normalizeText(query);
-    const title = item.searchTitle;
-    const original = item.searchOriginal;
-    const category = item.searchCategory;
-    const module = item.searchModule;
-    const content = item.searchContent;
 
     let score = 0;
 
-    if (title === q) score += 120;
-    if (original === q) score += 110;
+    if (item.searchTitle === q) score += 200;
+    if (item.searchOriginal === q) score += 180;
 
-    if (title.startsWith(q)) score += 80;
-    if (original.startsWith(q)) score += 75;
+    if (item.searchTitle.startsWith(q)) score += 130;
+    if (item.searchOriginal.startsWith(q)) score += 120;
 
-    if (title.includes(q)) score += 55;
-    if (original.includes(q)) score += 50;
+    if (item.searchTitle.includes(q)) score += 90;
+    if (item.searchOriginal.includes(q)) score += 80;
 
-    if (category === q) score += 45;
-    if (module.includes(q)) score += 35;
-
-    if (content.includes(q)) score += 15;
+    if (item.searchContent.includes(q)) score += 35;
+    if (item.searchCategory.includes(q)) score += 30;
+    if (item.searchModule.includes(q)) score += 25;
+    if (item.searchPath.includes(q)) score += 20;
 
     const words = q.split(" ").filter(Boolean);
+
     for (const word of words) {
       if (word.length < 2) continue;
 
-      if (title.includes(word)) score += 18;
-      if (original.includes(word)) score += 16;
-      if (category.includes(word)) score += 12;
-      if (module.includes(word)) score += 10;
-      if (content.includes(word)) score += 4;
+      if (item.searchTitle.includes(word)) score += 25;
+      if (item.searchOriginal.includes(word)) score += 22;
+      if (item.searchContent.includes(word)) score += 10;
+      if (item.searchPath.includes(word)) score += 6;
     }
 
-    if (item.type === "Rôle") score += 8;
-    if (item.category) score += 5;
+    if (item.type === "Rôle") score += 10;
+    if (item.category) score += 6;
 
     return score;
   }
@@ -175,29 +197,34 @@
   function prepareData(data) {
     return data
       .filter(function (item) {
-        return item && item.url && item.title;
+        return item && item.url;
       })
       .map(function (item) {
-        const title = cleanTitle(item.title);
+        const frenchTitle = extractFrenchTitle(item);
+        const title = frenchTitle || cleanTitle(item.title);
         const originalName = extractOriginalName(item);
         const module = detectModule(item);
         const type = detectType(item);
         const category = detectCategory(item);
+        const content = item.content || "";
+        const path = item.path || "";
 
         return {
-          title: title,
+          title,
           url: item.url,
-          content: item.content || "",
-          path: item.path || "",
-          type: type,
-          category: category,
-          module: module,
-          originalName: originalName,
+          content,
+          path,
+          type,
+          category,
+          module,
+          originalName,
+
           searchTitle: normalizeText(title),
           searchOriginal: normalizeText(originalName),
           searchCategory: normalizeText(category),
           searchModule: normalizeText(module),
-          searchContent: normalizeText(item.content || "")
+          searchContent: normalizeText(content),
+          searchPath: normalizeText(path)
         };
       });
   }
@@ -205,14 +232,12 @@
   function search(query) {
     const q = normalizeText(query);
 
-    if (q.length < MIN_QUERY_LENGTH) {
-      return [];
-    }
+    if (q.length < MIN_QUERY_LENGTH) return [];
 
     return searchData
       .map(function (item) {
         return {
-          item: item,
+          item,
           score: scoreItem(item, q)
         };
       })
@@ -254,7 +279,7 @@
       return;
     }
 
-    const html = results
+    resultsBox.innerHTML = results
       .map(function (item) {
         const original = item.originalName
           ? `<div class="botc-search-original">${escapeHtml(item.originalName)}</div>`
@@ -264,10 +289,9 @@
           ? `<div class="botc-search-meta">${escapeHtml(resultMeta(item))}</div>`
           : "";
 
-        const snippet =
-          item.type !== "Rôle"
-            ? `<div class="botc-search-snippet">${escapeHtml(makeSnippet(item.content, query))}</div>`
-            : "";
+        const snippet = item.type !== "Rôle"
+          ? `<div class="botc-search-snippet">${escapeHtml(makeSnippet(item.content, query))}</div>`
+          : "";
 
         return `
           <a class="botc-search-result" href="${escapeAttribute(item.url)}">
@@ -282,7 +306,6 @@
       })
       .join("");
 
-    resultsBox.innerHTML = html;
     resultsBox.classList.add("is-visible");
   }
 
@@ -307,8 +330,10 @@
 
     input.addEventListener("input", function () {
       if (!searchReady) return;
+
       const query = input.value;
       const results = search(query);
+
       renderResults(results, query, resultsBox);
     });
 
@@ -343,10 +368,11 @@
       });
 
       if (!response.ok) {
-        throw new Error("Impossible de charger l'index de recherche.");
+        throw new Error("Impossible de charger l’index de recherche.");
       }
 
       const data = await response.json();
+
       searchData = prepareData(data);
       searchReady = true;
     } catch (error) {
