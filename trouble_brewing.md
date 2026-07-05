@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Trouble Brewing
-description: Les Rôles de Trouble Brewing
+description: Tous les rôles du module Trouble Brewing
 image: /images/Logo_trouble_brewing.png
 ---
 
@@ -43,7 +43,7 @@ image: /images/Logo_trouble_brewing.png
   line-height:1.6;
 ">
   <p style="font-weight:bold; color:#b58b52; margin-top:0; margin-bottom:8px;">
-    Les Rôles de Trouble Brewing
+    Trouble Brewing 
   </p>
 
   <!-- Villageois -->
