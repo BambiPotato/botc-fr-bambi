@@ -112,9 +112,9 @@ voisin du Démon le plus proche de ce Sbire.
 ---
 
 - Le [<span style="color:red;">Fang Gu</span>](fanggu.md) est assis à côté de la [<span style="color:red;">Guenaude</span>](pithag.md). 
-Lors de la première nuit, l’[Horloger](horloger.md) apprend le chiffre **« ☝🏼 1 »**. 
+Lors de la première nuit, l’ **Horloger** apprend le chiffre **« ☝🏼 1 »**. 
 
-- Dans le sens horaire, à partir du [<span style="color:red;">No Dashii</span>](nodashii.md) sont assis le [Rêveur](reveur.md), le [Charmeur de serpent](charmeurdeserpent.md) puis la [<span style="color:red;">Jumelle maléfique</span>](jumeaumalefique.md).  
+- Dans le sens horaire, à partir du [<span style="color:red;">No Dashii</span>](nodashii.md) sont assis le [Rêveur](reveur.md), le [Charmeur de serpents](charmeurdeserpent.md) puis la [<span style="color:red;">Jumelle maléfique</span>](jumeaumalefique.md).  
 - Dans le sens antihoraire, *(sens inverse des aiguilles d'une montre)* à partir du [<span style="color:red;">No Dashii</span>](nodashii.md) sont assis 
 la [Bête de foire ](mutant.md), la [Dulcinée](dulcinee.md), le [Philosophe](philosophe.md), le [Sage](sage.md), puis la [<span style="color:red;">Sorcière</span>](sorciere.md).  
   Comme la [<span style="color:red;">Sorcière</span>](sorciere.md) se trouve à cinq places du  <span style="color:red;">Démon</span> et la [<span style="color:red;">Jumelle maléfique</span>](jumeaumalefique.md) à 3 places du **Démon**, l’[Horloger](horloger.md) apprend le chiffre **« 3 »** lors de la première nuit.  
