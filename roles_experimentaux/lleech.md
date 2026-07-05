@@ -54,15 +54,15 @@ image: /images/Icon_lleech.png
 <hr class="demon">
 
 
-<!-- APPARAÎT DANS -->
-<div style="text-align:center; margin: 45px 0%;">
+## Apparaît dans
+
+<div style="text-align:center; margin:20px 0;">
   <a href="../experimentaux.html" style="text-decoration:none;">
-    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:40px;">
+    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:30px;">🎠 Apparaît dans : Carrousel (The Carousel) Expérimental</span>
+    <span style="color:#b58b52; font-weight:bold; font-size:22px;">🎠 Carrousel (The Carousel) Expérimental</span>
   </a>
 </div>
-
 
 <hr class="explication">
 
