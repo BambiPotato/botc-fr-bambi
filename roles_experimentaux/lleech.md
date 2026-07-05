@@ -59,7 +59,7 @@ image: /images/Icon_lleech.png
   <a href="../experimentaux.html" style="text-decoration:none;">
     <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:40px;">
     <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:45px;">🎠 Apparaît dans : Carrousel (The Carousel) Expérimental</span>
+    <span style="color:#e0b97a; font-weight:bold; font-size:30px;">🎠 Apparaît dans : Carrousel (The Carousel) Expérimental</span>
   </a>
 </div>
 
@@ -69,7 +69,10 @@ image: /images/Icon_lleech.png
 
 ##  <span style="color:#d45b5b;">Résumé</span>
 
----
+
+<hr class="explication">
+
+
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
 « Lors de votre première nuit, choisissez un joueur : il est empoisonné. Vous mourez si et seulement si ce joueur est mort. »
@@ -87,33 +90,6 @@ Le <strong>Parasyte</strong> lie sa vie à celle d’un <strong>hôte</strong> :
   <li>À partir de la <strong>deuxième nuit</strong>, les joueurs attaqués par le Parasyte <strong>meurent</strong>, mais ne sont plus empoisonnés : seul l’hôte reste empoisonné en continu.</li>
   <li>Si un <strong>Parasyte</strong> est créé en cours de partie, il choisit un hôte vivant cette nuit-là, qui devient alors empoisonné pour le reste de la partie.</li>
 </ul>
-
-
-
-<hr class="explication">
-
-
-## 🧞 <span style="color:#d45b5b;">Jinxes liés</span>
-
-<ul style="margin-left:40px; color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li>
-    <img src="../images/Icon_heretic.png" alt="Hérétique" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/heretic.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Hérétique</a> : Un seul rôle jinxé avec l’<strong>Hérétique</strong> (dont le <strong>Parasyte</strong>) peut être en jeu à la fois.
-  </li>
-
-  <li>
-    <img src="../images/Icon_mastermind.png" alt="Meneur" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../bmr_roles/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a> : Si le <strong>Conspirateur</strong> est en vie et que l’hôte du <strong>Parasyte</strong> meurt par exécution, le Parasyte <strong>reste en vie</strong> mais <strong>perd sa capacité</strong>.
-  </li>
-
-  <li>
-    <img src="../images/Icon_slayer.png" alt="Tueur" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a> : Si la <strong>Pourfendeuse</strong> tue l’hôte du <strong>Parasyte</strong>, l'hôte <strong>meurt</strong>.
-  </li>
-</ul>
-
-
-<hr class="explication">
 
 
 
@@ -239,6 +215,30 @@ Le <strong>Parasyte</strong> empoisonne la <a href="../roles_experimentaux/farme
   <li>N’oubliez pas de repérer aussi qui sont les joueurs maléfiques. Exécuter le Démon reste une excellente information : il est peu probable que le <a href="../roles_experimentaux/lleech.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parasyte</a> ait choisi un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> comme hôte, vous pouvez donc souvent les exclure de la liste des suspects.</li>
 
   <li>Si vous arrivez au dernier jour sans certitude sur la présence du <a href="../roles_experimentaux/lleech.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parasyte</a>, il est souvent plus prudent de jouer comme s’il n’y en avait pas, plutôt que de tout miser sur une hypothèse fragile.</li>
+</ul>
+
+
+
+<hr class="explication">
+
+
+## 🧞 <span style="color:#d45b5b;">Jinxes liés</span>
+
+<ul style="margin-left:40px; color:#f5f5f5; font-size:18px; line-height:1.7;">
+  <li>
+    <img src="../images/Icon_heretic.png" alt="Hérétique" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/heretic.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Hérétique</a> : Un seul rôle jinxé avec l’<strong>Hérétique</strong> (dont le <strong>Parasyte</strong>) peut être en jeu à la fois.
+  </li>
+
+  <li>
+    <img src="../images/Icon_mastermind.png" alt="Meneur" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../bmr_roles/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a> : Si le <strong>Conspirateur</strong> est en vie et que l’hôte du <strong>Parasyte</strong> meurt par exécution, le Parasyte <strong>reste en vie</strong> mais <strong>perd sa capacité</strong>.
+  </li>
+
+  <li>
+    <img src="../images/Icon_slayer.png" alt="Tueur" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a> : Si la <strong>Pourfendeuse</strong> tue l’hôte du <strong>Parasyte</strong>, l'hôte <strong>meurt</strong>.
+  </li>
 </ul>
 
 
