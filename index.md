@@ -21,7 +21,7 @@ home_sidebar: true
   </h1>
 
   <p style="font-size:20px; color:#e0c99d; font-style:italic; line-height:1.7; margin:0;">
-    « Wiki communautaire dédié à Blood on the Clocktower pour les joueurs francophones. »
+    « Wiki communautaire dédié à Blood on the Clocktower. »
     <br><br>
     Tout le contenu de
     <a href="https://bloodontheclocktower.com/" target="_blank" rel="noopener noreferrer" style="color:#d4a76a; font-weight:bold; text-decoration:none;">
