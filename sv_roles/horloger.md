@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Horloger
+title: Horloger 
 description: Lors de votre première nuit, vous apprenez à combien de places du Démon est assis son Sbire le plus proche.
 image: /images/Icon_clockmaker.png
 ---
