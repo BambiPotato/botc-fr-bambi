@@ -1,0 +1,108 @@
+/* =========================================================
+   BOTC Wiki Search
+   Fichier : /assets/css/search.css
+   ========================================================= */
+
+.botc-search {
+  position: relative;
+  margin: 14px 0 18px 0;
+}
+
+.botc-search-input {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px 12px;
+  border: 1px solid rgba(212,167,106,0.65);
+  border-radius: 6px;
+  background: rgba(255,255,255,0.92);
+  color: #2b1a16;
+  font-size: 15px;
+  font-family: Arial, sans-serif;
+  outline: none;
+}
+
+.botc-search-input:focus {
+  border-color: #d4a76a;
+  box-shadow: 0 0 0 2px rgba(212,167,106,0.25);
+}
+
+.botc-search-results {
+  display: none;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: calc(100% + 6px);
+  z-index: 10050;
+  max-height: 420px;
+  overflow-y: auto;
+  background: rgba(42,17,53,0.98);
+  border: 1px solid rgba(212,167,106,0.65);
+  border-radius: 8px;
+  box-shadow: 0 10px 24px rgba(0,0,0,0.45);
+}
+
+.botc-search-results.is-visible {
+  display: block;
+}
+
+.botc-search-result {
+  display: block;
+  padding: 10px 12px;
+  color: #f4efe6 !important;
+  text-decoration: none !important;
+  border-bottom: 1px solid rgba(212,167,106,0.22);
+}
+
+.botc-search-result:hover {
+  background: rgba(212,167,106,0.13);
+  color: #ffffff !important;
+  text-decoration: none !important;
+}
+
+.botc-search-title {
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 1.25;
+}
+
+.botc-search-original {
+  margin-top: 2px;
+  font-size: 13px;
+  font-style: italic;
+  color: #d4a76a;
+}
+
+.botc-search-meta {
+  margin-top: 3px;
+  font-size: 12px;
+  color: #c9b08a;
+}
+
+.botc-search-snippet {
+  margin-top: 5px;
+  font-size: 12px;
+  line-height: 1.35;
+  color: rgba(244,239,230,0.82);
+}
+
+.botc-search-empty {
+  padding: 12px;
+  color: #f4efe6;
+  font-size: 14px;
+}
+
+/* Mobile */
+@media (max-width: 800px) {
+  .botc-search {
+    margin: 12px 0 16px 0;
+  }
+
+  .botc-search-input {
+    font-size: 16px;
+    padding: 10px 12px;
+  }
+
+  .botc-search-results {
+    max-height: 55vh;
+  }
+}
