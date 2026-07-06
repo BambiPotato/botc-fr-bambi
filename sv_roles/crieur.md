@@ -91,11 +91,11 @@ LE CRIEUR public sait quand des Sbires nomment quelqu’un.
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
 <li style="margin-bottom:14px;">
-• Chaque nuit, le Crieur public apprend un <strong>« oui »</strong> ou un <strong>« non »</strong>.
- </li>
+Chaque nuit, le Crieur public apprend un <strong>« oui »</strong> ou un <strong>« non »</strong>.
+</li>
 
  <li style="margin-bottom:14px;">
-• Il n’apprend pas quels joueurs sont des Sbires, ni combien de Sbires ont nommé quelqu’un ;	<br>  il apprend simplement si un ou des <strong>Sbires</strong> ont <strong>nommé</strong> quelqu’un, ou <strong>non</strong>.
+Il n’apprend pas quels joueurs sont des Sbires, ni combien de Sbires ont nommé quelqu’un ;	<br>  il apprend simplement si un ou des <strong>Sbires</strong> ont <strong>nommé</strong> quelqu’un, ou <strong>non</strong>.
 </li>
 
 </ul>
