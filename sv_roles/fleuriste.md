@@ -115,7 +115,7 @@ jeton le **DÉMON N’A PAS VOTÉ** par le jeton **DÉMON A VOTÉ**.
 
 - Chaque nuit, sauf la première, réveillez la Fleuriste.  
   - Si la Fleuriste est marquée du jeton le **DÉMON N’A PAS VOTÉ**, faites non 🙅🏽 de la tête. 
-  - Si la Fleuriste est marquée du jeton le **DÉMON A VOTÉ**, faites oui de la tête. 
+  - Si la Fleuriste est marquée du jeton le **DÉMON A VOTÉ**, faites oui 🙂‍↕️ de la tête. 
   - Ensuite, la Fleuriste se rendort.
 
 <div class="botc-note">
@@ -129,7 +129,7 @@ Il vous répond sans mentir en faisant oui ou non de la tête, puis se rendort.
 ---
 
 - Il y a eu une nomination aujourd’hui. Beaucoup de joueurs ont voté et le joueur a été exécuté, mais le Démon n’a pas voté. 
-  - Cette nuit-là, la Fleuriste apprend un ***« non »**.
+  - Cette nuit-là, la Fleuriste apprend un **« non »**.
 
 - Il y a eu trois nominations aujourd’hui. 
   - Le Démon a voté lors de la deuxième nomination. 
