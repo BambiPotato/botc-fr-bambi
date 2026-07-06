@@ -82,7 +82,7 @@ Ensuite, je me suis réveillé. »
 <hr class="explication">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
-« Chaque nuit, choisissez un joueur (sauf vous-même ni les voyageurs) : vous apprenez 1 rôle bon et 1 rôle maléfique, dont 1 est correct. »
+« Chaque nuit, choisissez un joueur (sauf vous-même ni les voyageurs) : <br> vous apprenez 1 rôle bon et 1 rôle maléfique, dont 1 est correct. »
 </p>
 <p class="botc-flavour-text dropcap">
 LE RÊVEUR apprend le rôle d’un joueur, sans pour autant en être sûr.
@@ -92,7 +92,7 @@ LE RÊVEUR apprend le rôle d’un joueur, sans pour autant en être sûr.
 
 - Le faux jeton de rôle dépend du véritable type de rôle du joueur choisi. 
 Si le Rêveur choisit un joueur Villageois ou Marginal, ce sera un rôle de Sbire ou de Démon. 
-Si le Rêveur choisit un joueur Sbire ou Démon, ce sera un rôle de [<span style="color:blue;">Villageois</span>](../villageois.md) ou de [<spanstyle="color:blue;">Marginal](../etrangers.md</span>).
+Si le Rêveur choisit un joueur Sbire ou Démon, ce sera un rôle de [<span style="color:blue;">Villageois</span>](../villageois.md) ou de [<span style="color:blue;">Marginal](../etrangers.md</span>).
 
 - Le Rêveur ne peut pas se choisir lui-même et ne peut pas choisir un [<span style="color:purple;">Voyageur</span>](../voyageurs/voyageurs.md).
 
