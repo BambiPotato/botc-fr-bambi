@@ -12,7 +12,7 @@ image: /images/Logo_sects_and_violets.png
   </a>
 </p>
 
----
+<hr class="explication">
 
 <!--  Logo centré cliquable -->
 <div style="text-align:center; margin: 20px 0;">
@@ -54,10 +54,10 @@ image: /images/Logo_sects_and_violets.png
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
     <li><a href="./sv_roles/horloger.html" style="color:#4ea3ff; text-decoration:none;">Horloger</a></li>
     <li><a href="./sv_roles/reveur.html" style="color:#4ea3ff; text-decoration:none;">Rêveur</a></li>
-    <li><a href="./sv_roles/charmeurdeserpent.html" style="color:#4ea3ff; text-decoration:none;">Charmeur de Serpents</a></li>
+    <li><a href="./sv_roles/charmeurdeserpent.html" style="color:#4ea3ff; text-decoration:none;">Charmeur de serpents</a></li>
     <li><a href="./sv_roles/mathematicien.html" style="color:#4ea3ff; text-decoration:none;">Mathématicien</a></li>
     <li><a href="./sv_roles/fleuriste.html" style="color:#4ea3ff; text-decoration:none;">Fleuriste</a></li>
-    <li><a href="./sv_roles/crieur.html" style="color:#4ea3ff; text-decoration:none;">Crieur</a></li>
+    <li><a href="./sv_roles/crieur.html" style="color:#4ea3ff; text-decoration:none;">Crieur public</a></li>
     <li><a href="./sv_roles/oracle.html" style="color:#4ea3ff; text-decoration:none;">Oracle</a></li>
     <li><a href="./sv_roles/savant.html" style="color:#4ea3ff; text-decoration:none;">Savant</a></li>
     <li><a href="./sv_roles/couturiere.html" style="color:#4ea3ff; text-decoration:none;">Couturière</a></li>
@@ -82,7 +82,7 @@ image: /images/Logo_sects_and_violets.png
     <li><a href="./sv_roles/sorciere.html" style="color:#c97a7a; text-decoration:none;">Sorcière</a></li>
     <li><a href="./sv_roles/cerenovus.html" style="color:#c97a7a; text-decoration:none;">Cerenovus</a></li>
     <li><a href="./sv_roles/pithag.html" style="color:#c97a7a; text-decoration:none;">Guenaude</a></li>
-    <li><a href="./sv_roles/jumeaumalefique.html" style="color:#c97a7a; text-decoration:none;">Jumelle Maléfique</a></li>
+    <li><a href="./sv_roles/jumeaumalefique.html" style="color:#c97a7a; text-decoration:none;">Jumelle maléfique</a></li>
   </ul>
 
   <!-- Démons -->
@@ -227,7 +227,7 @@ Les joueurs maléfiques doivent aussi faire attention aux informations qu’ils 
 </div>
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_snakecharmer.png" alt="Charmeur de Serpents" width="300">](sv_roles/charmeurdeserpent.html)  
-  [**Charmeur de Serpents**](sv_roles/charmeurdeserpent.html)
+  [**Charmeur de serpents**](sv_roles/charmeurdeserpent.html)
 </div>
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_mathematician.png" alt="Mathématicien" width="300">](sv_roles/mathematicien.html)  
@@ -239,7 +239,7 @@ Les joueurs maléfiques doivent aussi faire attention aux informations qu’ils 
 </div>
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_towncrier.png" alt="Crieur" width="300">](sv_roles/crieur.html)  
-  [**Crieur**](sv_roles/crieur.html)
+  [**Crieur public**](sv_roles/crieur.html)
 </div>
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_oracle.png" alt="Oracle" width="300">](sv_roles/oracle.html)  
@@ -270,7 +270,9 @@ Les joueurs maléfiques doivent aussi faire attention aux informations qu’ils 
   [**Sage**](sv_roles/sage.html)
 </div>
 
----
+
+<hr class="explication">
+
 
 ## [<span style="color:blue;">**Marginaux**</span>](etrangers.html)
 
@@ -291,7 +293,9 @@ Les joueurs maléfiques doivent aussi faire attention aux informations qu’ils 
   [**Maladroit**](sv_roles/maladroit.html)
 </div>
 
----
+
+<hr class="explication">
+
 
 ## [<span style="color:red;">**Sbires**</span>](sbires.html)
 
@@ -309,10 +313,12 @@ Les joueurs maléfiques doivent aussi faire attention aux informations qu’ils 
 </div>
 <div style="text-align:center; display:inline-block; margin: 10px;">
   [<img src="./images/Icon_eviltwin.png" alt="Jumeau Maléfique" width="300">](sv_roles/jumeaumalefique.html)  
-  [<span style="color:red;">**Jumelle Maléfique**</span>](sv_roles/jumeaumalefique.html)
+  [<span style="color:red;">**Jumelle maléfique**</span>](sv_roles/jumeaumalefique.html)
 </div>
 
----
+
+<hr class="explication">
+
 
 ## [<span style="color:red;">**Démons**</span>](demons.html)
 
