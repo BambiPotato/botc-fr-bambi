@@ -88,13 +88,19 @@ Ensuite, je me suis réveillé. »
 LE RÊVEUR apprend le rôle d’un joueur, sans pour autant en être sûr.
 </p>
 
-- Chaque nuit, le Rêveur choisit un joueur et apprend deux  rôles — l’un est celui de ce joueur, l’autre ne l’est pas.
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+• Chaque nuit, le <strong>Rêveur</strong> choisit un joueur et apprend deux rôles — l’un est celui de ce joueur, l’autre ne l’est pas.
+</p>
 
-- Le faux jeton de rôle dépend du véritable type de rôle du joueur choisi. 
-Si le Rêveur choisit un joueur Villageois ou Marginal, ce sera un rôle de Sbire ou de Démon. 
-Si le Rêveur choisit un joueur Sbire ou Démon, ce sera un rôle de [<span style="color:blue;">Villageois</span>](../villageois.md) ou de [<span style="color:blue;">Marginal](../etrangers.md</span>).
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+• Le faux jeton de rôle dépend du véritable type de rôle du joueur choisi.<br>
+Si le <strong>Rêveur</strong> choisit un joueur <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> ou <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a>, ce sera un rôle de <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> ou de <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.<br>
+Si le <strong>Rêveur</strong> choisit un joueur <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> ou <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, ce sera un rôle de <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> ou de <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a>.
+</p>
 
-- Le Rêveur ne peut pas se choisir lui-même et ne peut pas choisir un [<span style="color:purple;">Voyageur</span>](../voyageurs/voyageurs.md).
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+• Le <strong>Rêveur</strong> ne peut pas se choisir lui-même et ne peut pas choisir un <a href="../voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>.
+</p>
 
 
 ## <span style="color:#4ea3ff;">Comment Conter</span>  
