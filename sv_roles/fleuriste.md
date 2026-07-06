@@ -241,6 +241,7 @@ Si un <a href="./vortox.html" style="color:#d45b5b; font-weight:bold; text-decor
 
 <hr class="explication">
 
+
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li> <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
   <li> <a href="../sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
