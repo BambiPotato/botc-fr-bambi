@@ -99,7 +99,6 @@ apprendre s’il a voté, la Fleuriste détecte le vote du **Démon original**.
 Dès lors qu’au moins un Démon a voté, la Fleuriste apprend un **« oui »**.
 
 
-
 ## <span style="color:#4ea3ff;">Comment Conter</span>   
 
 ---
