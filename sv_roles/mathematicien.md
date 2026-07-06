@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mathématicien
-description: "Une fois par partie, pendant la nuit, choisissez un rôle bon : vous gagnez sa capacité.Si ce rôle est en jeu, il est ivre."
+description: "Chaque nuit, vous apprenez combien de joueurs ont vu leur capacité dysfonctionner (depuis l’aube) à cause de la capacité d’un autre rôle."
 image: /images/Icon_mathematician.png
 ---
 
@@ -12,20 +12,19 @@ image: /images/Icon_mathematician.png
   </a>
 </p>
 
----
+<hr class="explication">
 
-## <span style="color:#4ea3ff;">Mathématicien</span>
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="./mathematicien.html" style="text-decoration:none;">
     <img src="../images/Icon_mathematician.png" alt="Mathématicien" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:blue; font-weight:bold; font-size:22px;">Mathématicien</span>
+    <span style="color:blue; font-weight:bold; font-size:50px;">Mathématicien</span>
   </a>
 </div>
 
 
----
+<hr class="villageois">
 
 
 ##  <span style="color:blue">Informations</span>
@@ -53,13 +52,12 @@ image: /images/Icon_mathematician.png
   </li>
 </ul>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
-« Tout système formel cohérent x, au sein duquel un certain niveau d’arithmétique élémentaire peut être effectué, est incomplet :  
-il existe des énoncés dans le langage de x qui ne peuvent être ni prouvés ni réfutés en x.  
-Ergo, vous êtes ivre »
-</p>  
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Tout système formel cohérent x permettant des opérations arithmétiques élémentaires est incomplet :<br> certains de ses énoncés ne
+peuvent être ni prouvés ni réfutés. Donc, vous êtes ivre. »	
+</p>
 
----
+<hr class="villageois">
 
 ##  Apparaît dans  
 
@@ -67,69 +65,85 @@ Ergo, vous êtes ivre »
   <a href="../sv.html" style="text-decoration:none;">
     <img src="../images/Logo_sects_and_violets.png" alt="Sects & Violets" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#d67bff; font-weight:bold; font-size:22px;">Sects & Violets</span>
+    <span style="color:#d67bff; font-weight:bold; font-size:45px;">Sects & Violets</span>
   </a>
 </div>
 
-> *Cult of the Clocktower – épisode par Andrew Nathenson*
+<hr class="explication">
 
----
 
 ## <span style="color:#4ea3ff;">Résumé</span>  
 
-> **« Chaque nuit, vous apprenez combien de capacités de joueurs ont fonctionné anormalement (depuis l’aube) à cause de la capacité d’un autre rôle. »**
 
-Le Mathématicien sait **combien de choses ont “mal tourné”** depuis le lever du jour.  
+<hr class="explication">
 
-Chaque fois qu’une capacité **ne fonctionne pas comme prévu** à cause d’un autre rôle,  
-le Mathématicien en est informé.  
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
+« Chaque nuit, vous apprenez combien de joueurs ont vu leur capacité dysfonctionner (depuis l’aube) à cause de la capacité d’un autre rôle. »
+</p>
 
-Cela inclut :
-- lorsqu’une information fausse est donnée à la place d’une vraie,  
-- lorsqu’une capacité échoue à cause d’un autre effet (empoisonnement, ivresse, malédiction, etc.).  
+<p class="botc-flavour-text dropcap">
+LE MATHÉMATICIEN sait combien de capacités sont allées de travers depuis l’aube de ce jour.
+</p> 
 
-Le Mathématicien **ne sait pas à qui** cela est arrivé, seulement **combien de fois**.  
-Il ne détecte **pas ses propres échecs**, et ne *voit* pas directement l’ivresse ou l’empoisonnement,  
-mais détecte **leurs effets** lorsque des capacités échouent.  
+- Lorsqu’une capacité ne fonctionne pas comme elle aurait dû à cause d’un autre rôle, le Mathématicien l’apprendra : 
+  - par exemple lorsqu’une information est fausse alors qu’elle était censée être vraie, 
+  - ou qu’une capacité aurait dû fonctionner mais que cela n’a pas été le cas à cause d’un autre rôle.
+  
+- Le Mathématicien n’apprend pas quels joueurs ou capacités sont concernés, mais uniquement le nombre de fois où cela s’est produit.
 
-> Exemple :  
-> - La [Recluse](reclus.md) apparaissant comme maléfique pour le [Cuisinier](../tb_roles/cuistot.md) serait détectée.  
-> - Un [Soldat](../tb_roles/soldat.md) empoisonné mourant d’une attaque du [<span style="color:red;">Démon</span>](../demons.md) aussi.  
-> - En revanche, l'[Empathe](../tb_roles/empathique.md) empoisonné obtenant de véritables informations  **ne serait pas** détecté.
+- Le Mathématicien ne détecte pas si sa propre capacité a dysfonctionné.
 
----
+- Le Mathématicien ne détecte pas l’état d’ivresse ou d’empoisonnement, mais le fait que les capacités des joueurs ivres ou empoisonnés ne fonctionnent pas comme prévu.<br> 
+Ainsi, il détectera une [Recluse](../tb_roles/reclus.md) qui apparaît comme maléfique à un [Cuisinier](../tb_roles/cuistot.md), ou un [Soldat](../tb_roles/soldat.md) empoisonné qui meurt suite à l’attaque d’un [<span style="color:red;">Diablotin</span>](../tb_roles/imp.md). <br> 
+En revanche, il ne détectera pas un [Empathe](../tb_roles/empathique.md) empoisonné qui reçoit une vraie information.
+
+
 
 ## <span style="color:#4ea3ff;">Comment Conter</span>    
 
-- À chaque fois qu’une capacité agit **de manière anormale** à cause d’un autre rôle,  
-  placez un jeton **ANORMAL** sur le joueur concerné.  
-- La nuit, réveillez le Mathématicien.  
-  Montrez-lui un nombre avec vos doigts (0, 1, 2, etc.) correspondant au nombre de joueurs marqués.  
-- Puis, retirez tous les marqueurs **ANORMAL**.
-
 ---
 
-## <span style="color:#4ea3ff;">Exemples</span>    
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p>
+
+- Chaque fois que la capacité d’un rôle dysfonctionne à cause de la capacité d’un autre rôle, marquez-les d’un jeton **ANORMAL**.
+
+ - Chaque nuit, réveillez le Mathématicien. 
+   - Faites signe avec vos doigts ✌🏼 (0, 1, 2, etc.) pour lui indiquer le nombre de rôles qui ont un jeton **ANORMAL.** 
+   - Le Mathématicien se rendort. 
+   - Retirez tous les jetons **ANORMAL**.
+
+
+
+## <span style="color:#4ea3ff;">Exemples</span>   
+
+---
 
 - L’[Oracle](oracle.md) empoisonné apprend que deux joueurs morts sont maléfiques, 
-  alors que trois joueurs morts le sont réellement. 
-  Le Mathématicien apprend **« 1 »** cette nuit-là.  
+   mais en réalité, trois joueurs morts sont maléfiques.
+   Le Mathématicien apprend le chiffre **« 1 »** cette nuit-là.  
 
-- Le [Charmeur de Serpents](charmeurdeserpent.md) empoisonné choisit un Villageois et rien ne se passe.  
-  Le [Jongleur](jongleur.md) Ivrgone obtient des infos correctes.  
-  Le [Savant](savant.md) apprend deux informations exactes.  
-  → Le Mathématicien apprend **« 1 »**, car une seule capacité a fonctionné anormalement, 
-  celle du [Savant](savant.md) qui aurait dû apprendre une information vraie et une information fausse.  
+- Le [Charmeur de Serpents](charmeurdeserpent.md) empoisonné choisit un joueur Villageois.
+  Rien ne se passe. <br>  
+  Le [Jongleur](jongleur.md) ivre obtient de vraies informations. <br> 
+  Le [Savant](savant.md) empoisonné apprend deux vraies informations. <br> 
+  → Le Mathématicien apprend le chiffre **« 1 »**, les capacités du[Charmeur de Serpents](charmeurdeserpent.md)  et du [Jongleur](jongleur.md)  ont fonctionné
+normalement ; une seule capacité a fonctionné anormalement, celle du [Savant](savant.md) qui aurait dû apprendre une information vraie et une information fausse.  
 
 - Un [<span style="color:red;">Vortox</span>](vortox.md) est en jeu.  
-  Cinq bons joueurs reçoivent de fausses informations,  
-  et la [<span style="color:red;">Sorcière</span>](sorciere.md) ivre ne tue pas quand sa cible nomine.  
-  → Bien que six capacités aient fonctionné anormalement,
-  le Mathématicien apprend un **« 4 »** à cause du pouvoir du [<span style="color:red;">Vortox</span>](vortox.md).
+  Cinq joueurs bons joueurs ont reçu de fausses informations.<br>  
+  La [<span style="color:red;">Sorcière</span>](sorciere.md) est ivre.  
+  Le joueur qu’elle avait maudit ne meurt pas au moment de nommer quelqu’un.<br>  
+  En tout, six capacités ont dysfonctionné. <br> 
+  Mais la capacité du [<span style="color:red;">Vortox</span>](vortox.md) s’applique aussi à l’information que reçoit le Mathématicien.<br> 
+  → Bien que six capacités aient fonctionné anormalement, le Mathématicien apprend un **« 4 »** à cause du pouvoir du [<span style="color:red;">Vortox</span>](vortox.md).
 
----
+
 
 ## <span style="color:#4ea3ff;">Astuces & Conseils</span>      
+
+---
 
 - Votre information devient puissante si vous savez **qui a agi et comment**.  
   Discutez avec les autres joueurs : découvrir **qui a reçu de mauvaises infos**  
@@ -165,11 +179,13 @@ mais détecte **leurs effets** lorsque des capacités échouent.
   ses infos sont d’autant plus utiles qu’elles sont partagées,  
   même après une seule nuit.
 
+
+
+## <span style="color:#4ea3ff;">Bluffer le Mathématicien</span>
+
 ---
 
-## <span style="color:#4ea3ff;">Bluffer Mathématicien</span>
-
-Lorsque vous bluffez en vous faisant passer pour le Mathématicien, il y a quelques points à garder à l'esprit :
+Lorsque vous bluffez en vous faisant passer pour le **Mathématicien**, il y a quelques points à garder à l'esprit :
 
 - Donnez des chiffres modestes. 
   Annoncer un « 4 », un « 3 » ou même un « 2 » peut paraître suspect. 
@@ -181,13 +197,13 @@ Lorsque vous bluffez en vous faisant passer pour le Mathématicien, il y a quelq
   Un **« 1 »** est parfois crédible aussi.  
 
 - Soyez **cohérent** :  
-  si vous avez dit « 2 » pendant trois nuits, continuez à dire « 2 ».  
+  si vous avez dit **« 2 »** pendant trois nuits, continuez à dire **« 2 »**.  
   Changer soudainement de valeur attire la suspicion.  
   Diminuer légèrement votre chiffre avec le temps paraît plus naturel  
   (car moins de joueurs vivants = moins de capacités).  
 
 - Modifiez votre chiffre seulement lorsqu’un événement majeur se produit :  
-  mort d’une [Dulcinée](dulcinee.md), action d’un [Philosophe](philosophe.md), apparition d’un nouveau rôle, etc.  
+  la mort d’une [Dulcinée](dulcinee.md), l'action d’un [Philosophe](philosophe.md), apparition d’un nouveau rôle, etc.  
 
 - Si vous connaissez le type de [<span style="color:red;">Démon</span>](../demons.md) présent,  
   adaptez vos chiffres à sa logique :  
@@ -199,13 +215,15 @@ Lorsque vous bluffez en vous faisant passer pour le Mathématicien, il y a quelq
   Par exemple, faire croire à un [<span style="color:red;">No Dashii</span>](nodashii.md) alors qu’un [<span style="color:red;">Vigormortis</span>](vigormortis.md) est présent.  
 
 - En tant que faux Mathématicien, soutenez les bluffs des autres joueurs maléfiques :  
-  si un allié prétend que sa capacité a échoué, donnez un chiffre qui **confirme** son histoire.  
+  si un allié prétend que sa capacité a dysfonctionné, donnez un chiffre qui **confirme** son histoire.  
 
 - Si vous êtes un [<span style="color:red;">Sbire</span>](../sbires.md) voulant être exécuté tard dans la partie,  
   prétendre un chiffre **illogique** (comme « 0 » alors que tout va mal)  
   peut vous faire exécuter à la place du Démon. 
 
-  ---
+
+<hr class="explication">
+
 
   <h2 style="color:#4ea3ff; font-size:22px; margin-top:30px;">
   🧞 Jinxes liés
@@ -246,7 +264,7 @@ Lorsque vous bluffez en vous faisant passer pour le Mathématicien, il y a quelq
        style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lunatique</a> :
     Le <span style="color:#4ea3ff; font-weight:bold;">Mathématicien</span> peut apprendre
     si le <span style="color:#4ea3ff; font-weight:bold;">Lunatique</span> attaque
-    un joueur différent de celui visé par le vrai
+    un joueur différent de celui ciblé par le vrai
     <span style="color:#d45b5b; font-weight:bold;">Démon</span>.
   </li>
 
@@ -264,7 +282,8 @@ Lorsque vous bluffez en vous faisant passer pour le Mathématicien, il y a quelq
 
 </ul>
 
----
+<hr class="explication">
+
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li> <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
