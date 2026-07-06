@@ -15,7 +15,6 @@ image: "/images/Icon_towncrier.png"
 <hr class="explication">
 
 
-
 <div style="text-align:center; margin: 20px 0;">
   <a href="./crieur.html" style="text-decoration:none;">
     <img src="../images/Icon_towncrier.png" alt="Crieur" width="350" style="border-radius:8px;">
