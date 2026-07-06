@@ -25,19 +25,40 @@ image: /images/savant.png
 
 <hr class="villageois">
 
+##  <span style="color:blue">Informations</span>
 
-<h2><span style="color:#4ea3ff;">Information</span></h2>
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li>
+    <strong>Type :</strong>
+    <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+      Villageois
+    </a>
+  </li>
 
-<hr class="explication">
+  <li>
+    <strong>Artiste :</strong> Aidan Roberts
+  </li>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li style="margin-bottom:14px;"><strong>Type :</strong> <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a></li>
-  <li style="margin-bottom:14px;"><strong>Artiste :</strong> Aidan Roberts</li>
-  <li style="margin-bottom:14px;"><strong>Nom original :</strong> <a href="https://wiki.bloodontheclocktower.com/Savant" target="_blank" rel="noopener noreferrer" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a></li>
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Savant"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+      Savant
+    </a>
+  </li>
 </ul>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-<strong>« Soixante-douze allumettes sur le sol... le soleil se lève tôt, mais la lune reste inchangée... un morceau de tissu déchiré... le Mal rôde dans le manoir... trois fois trois... ne pas se fier aux apparences... une lueur verte, c’est du magnésium... du moins un résidu, mais ce modèle n’est pas conforme... soixante-douze allumettes sur le sol... »</strong>
+  « Soixante-douze allumettes sur le sol...<br>
+  le soleil se lève tôt, mais la lune reste inchangée...<br>
+  un morceau de tissu déchiré...<br>
+  le Mal rôde dans le manoir... trois fois trois...<br>
+  ne pas se fier aux apparences...<br>
+  une lueur verte, c’est du magnésium...<br>
+  du moins un résidu, mais ce modèle n’est pas conforme...<br>
+  soixante-douze allumettes sur le sol... »
 </p>
 
 <hr class="explication">
