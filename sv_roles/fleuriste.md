@@ -180,7 +180,7 @@ Non seulement cela peut aider votre allié bon, mais si vous contrôlez les vote
 Si tous les joueurs votent et que vous apprenez que le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> n’a pas voté, alors soit un <a href="./vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a> est en jeu (ce qui est une information extrêmement utile), soit vous êtes ivre ou empoisonné (ce qui est également très utile à savoir pour le village !)
 </p>
 
-<h2><span style="color:#4ea3ff;">Bluffer en tant que Fleuriste</span></h2>
+<h2><span style="color:#4ea3ff;">Bluffer la Fleuriste</span></h2>
 
 ---
 
