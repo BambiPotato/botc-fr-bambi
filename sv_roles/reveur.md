@@ -92,7 +92,7 @@ LE RÊVEUR apprend le rôle d’un joueur, sans pour autant en être sûr.
 
 - Le faux jeton de rôle dépend du véritable type de rôle du joueur choisi. 
 Si le Rêveur choisit un joueur Villageois ou Marginal, ce sera un rôle de Sbire ou de Démon. 
-Si le Rêveur choisit un joueur Sbire ou Démon, ce sera un rôle de [<span style="color:blue;">Villageois</span>](../villageois.md) ou de [<span style="color:blue;">Marginal</span>].
+Si le Rêveur choisit un joueur Sbire ou Démon, ce sera un rôle de [<span style="color:blue;">Villageois</span>](../villageois.md) ou de [<spanstyle="color:blue;">Marginal](../etrangers.md</span>).
 
 - Le Rêveur ne peut pas se choisir lui-même et ne peut pas choisir un [<span style="color:purple;">Voyageur</span>](../voyageurs/voyageurs.md).
 
@@ -102,7 +102,7 @@ Si le Rêveur choisit un joueur Sbire ou Démon, ce sera un rôle de [<span styl
 ---
 
 <p class="botc-flavour-text dropcap">
-<strong>INSTRUCTIONS AU CONTEUR</strong>
+Instructions au Conteur
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -119,7 +119,6 @@ Si le <strong>Rêveur</strong> choisit un joueur maléfique, vous pouvez aider l
 <h2><span style="color:#4ea3ff;">Exemples</span></h2>
 
 ---
-
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li style="margin-bottom:14px;">Le <a href="./reveur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Rêveur</a> choisit un joueur qui est la <a href="./mutant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bête de foire</a>.<br>Le <strong>Rêveur</strong> apprend que ce joueur est soit la <a href="./mutant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bête de foire</a>, soit le <a href="./cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a>.</li>
@@ -149,7 +148,7 @@ Si le <strong>Rêveur</strong> choisit un joueur maléfique, vous pouvez aider l
   <li style="margin-bottom:14px;">Si une <a href="./jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumelle Maléfique</a> est en jeu, ne perdez pas votre temps à la vérifier.<br>Vous recevrez le rôle de la jumelle bonne et la <a href="./jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumelle Maléfique</a> pour les deux joueurs, ce qui est… assez peu utile.<br>Il existe toutefois une exception : cette situation peut vous permettre de détecter un <a href="./vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a>, puisque les informations devraient alors être fausses !</li>
 </ul>
 
-<h3 style="color:#4ea3ff; font-weight:bold;">Bluffer en tant que Rêveur</h3>
+<h3 style="color:#4ea3ff; font-weight:bold;">Bluffer le  Rêveur</h3>
 
 ---
 
