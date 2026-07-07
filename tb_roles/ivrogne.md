@@ -305,7 +305,7 @@ Instructions au Conteur
     🧞
     <img src="../images/Icon_mathematician.png" alt="Mathématicien" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../sv_roles/mathematician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mathématicien</a>
-    : Le Mathématicien peut apprendre si la capacité de l’Ivrogne a produit une fausse information ou n’a pas fonctionné correctement.
+    : Le Mathématicien apprend si la capacité de l’Ivrogne a produit une fausse information ou n’a pas fonctionné correctement.
   </li>
 </ul>
 
