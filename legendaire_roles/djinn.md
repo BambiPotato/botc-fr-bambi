@@ -63,7 +63,8 @@ Ajoutez le <strong><span style="color:#d4a76a;">Djinn</span></strong> à toutes 
 Le <strong><span style="color:#d4a76a;">Djinn</span></strong> résout les <em>jinxes</em> en créant une règle unique.
 </p>
 
----
+<hr class="explication">
+
 
 ###  Sommaire
 - <a href="#villageois" style="text-decoration:none;"> Villageois</a>
@@ -71,7 +72,10 @@ Le <strong><span style="color:#d4a76a;">Djinn</span></strong> résout les <em>ji
 - <a href="#sbires" style="text-decoration:none;"> Sbires</a>
 - <a href="#demons" style="text-decoration:none;"> Démons</a>
 
----
+
+<hr class="explication">
+
+
 
 ## Les Djinns
 
@@ -104,14 +108,15 @@ les joueurs et joueuses apprennent toutes ces règles.
   <li>Puis, appliquez les instructions du <em>Script Tool</em> telles qu’imprimées pour votre script.</li>
 </ul>
 
----
+<hr class="explication">
+
 
 ## Exemples
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8; margin-left:24px;">
-  <li>La <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pithag</a> et l’<a href="../roles_experimentaux/heretic.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Hérétique</a> sont <em>jinxés</em>.  
+  <li>La <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a> et l’<a href="../roles_experimentaux/heretic.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Hérétique</a> sont <em>jinxés</em>.  
   En début de partie, la Conteuse lit la règle spéciale du Djinn : « Une Guenaude ne peut pas créer un Hérétique. »  
-  Plus tard, la <span style="color:#d45b5b; font-weight:bold;">Pithag</span> tente de créer un <span style="color:#4ea3ff; font-weight:bold;">Hérétique</span> ; la Conteuse refuse et elle doit choisir un autre rôle.</li>
+  Plus tard, la <span style="color:#d45b5b; font-weight:bold;">Guenaude</span> tente de créer un <span style="color:#4ea3ff; font-weight:bold;">Hérétique</span> ; la Conteuse refuse et elle doit choisir un autre rôle.</li>
 
   <li>L’<a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a> et le <a href="../roles_experimentaux/magicien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Magicien</a> sont <em>jinxés</em>.  
   Règle du Djinn lue en début de partie : « Quand l’Espionne voit le grimoire, les jetons du Démon et du Magicien sont retirés. »  
@@ -128,6 +133,9 @@ Cette section sera mise à jour au fur et à mesure que de nouveaux rôles seron
 La règle spéciale du <strong><span style="color:#d4a76a;">Djinn</span></strong> permet à des rôles <em>jinxés</em> d’apparaître sur le même script, voire d’être en jeu en même temps.  
 Si votre script contient des rôles <em>jinxés</em>, informez vos joueurs et joueuses des règles du <strong><span style="color:#d4a76a;">Djinn</span></strong> en début de partie, qu’ils soient en jeu ou non.
 </p>
+
+
+<hr class="explication">
 
 
 <a id="villageois"></a>
