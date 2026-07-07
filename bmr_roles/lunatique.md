@@ -182,9 +182,9 @@ Lorsque vous bluffez en prétendant être le Lunatique, gardez les points suivan
          style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../sv_roles/mathematicien.html"
        style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mathématicien</a> :
-    Le <span style="color:#4ea3ff; font-weight:bold;">Mathématicien</span> pourrait apprendre 
-    si le <span style="color:#4ea3ff; font-weight:bold;">Lunatique</span> attaque un joueur
-    différent de celui attaqué par le véritable <span style="color:#d45b5b; font-weight:bold;">Démon</span>.
+    Le <span style="color:#4ea3ff; font-weight:bold;">Mathématicien</span> apprend
+    si le <span style="color:#4ea3ff; font-weight:bold;">Lunatique</span> attaque des joueurs
+    différents de ceux attaqués par le vrai <span style="color:#d45b5b; font-weight:bold;">Démon</span>.
   </li>
 </ul>
 
