@@ -11,6 +11,9 @@ image: /images/Icon_djinn.png
   </a>
 </p>
 
+<hr class="explication">
+
+
 <!-- 🧞 Djinn -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./djinn.html" style="text-decoration:none;">
