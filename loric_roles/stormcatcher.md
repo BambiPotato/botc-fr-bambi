@@ -93,7 +93,7 @@ Au début de la partie, annoncez que le <strong>Chasseur d’orages</strong> est
   </li>
 
   <li>
-    Lors de la première nuit, réveillez tous les <strong>joueurs maléfiques</strong> un par un.<br>
+    Lors de la première nuit, réveillez tous les joueurs maléfiques un par un.<br>
     • Si un rôle bon est marqué du jeton <strong>« EN SÉCURITÉ »</strong>, réveillez chaque joueur maléfique : montrez au joueur maléfique la tuile <strong>« CE JOUEUR EST »</strong>, le jeton de rôle bon, puis désignez le joueur bon en question.<br>
     Ensuite, le joueur maléfique se rendort.<br>
     • S’il n’y a pas de joueur marqué, montrez la tuile <strong>« CE RÔLE N'EST PAS EN JEU »</strong>, puis le jeton du rôle favorisé.
