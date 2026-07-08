@@ -33,6 +33,9 @@ image: /images/Icon_bootlegger.png
 </p>
 
 
+<hr class="loric">
+
+
 
 ##  <span style="color:#7fd1ae;">Informations</span>
 
