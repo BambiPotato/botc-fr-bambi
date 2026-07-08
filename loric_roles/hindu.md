@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Hindou
+description: Les 4 premiers joueurs à mourir sont immédiatement réincarnés en Voyageurs du même alignement.
+image: /images/Icon_hindu.png
 ---
 
 <p align="left">
@@ -9,6 +11,7 @@ title: Hindou
   </a>
 </p>
 
+<hr class="explication">
 <!-- Hindu -->
 
 <div style="text-align:center; margin: 20px 0;">
@@ -19,7 +22,6 @@ title: Hindou
   </a>
 </div>
 
-# <span style="color:#7fd1ae; font-weight:bold; font-size:18px;">Hindou</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « चत्वारो मृत्युमध्ये पतन्ति,<br>
@@ -28,7 +30,8 @@ title: Hindou
   चत्वार एषां न पुनः क्षयः॥ »
 </p>
 
----
+<hr class="loric">
+
 
 ##  <span style="color:#7fd1ae;">Informations</span>
 
@@ -46,15 +49,20 @@ title: Hindou
   </li>
 </ul>
 
----
+
+<hr class="loric">
+
 
 ## <span style="color:#7fd1ae;">Résumé</span>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>Les 4 premiers joueurs à mourir se réincarnent immédiatement en Voyageurs du même alignement.</strong>
+
+<hr class="loric">
+
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
+« Les 4 premiers joueurs à mourir sont immédiatement réincarnés en Voyageurs du même alignement. »
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<p class="botc-flavour-text dropcap">
 L'<strong>Hindou</strong> donne une nouvelle vie aux joueurs et joueuses qui meurent tôt.
 </p>
 
@@ -69,36 +77,47 @@ L'<strong>Hindou</strong> donne une nouvelle vie aux joueurs et joueuses qui meu
   <li>Si le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> est l’un des quatre premiers joueurs à mourir, la partie se termine et le Bien gagne.</li>
 </ul>
 
----
 
 ##  <span style="color:#7fd1ae;">Comment Conter</span>
+
+---
+
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Si un joueur meurt, il devient un <strong>Voyageur</strong> de votre choix. Déclarez quel Voyageur il est.<br>
 Quand quatre joueurs sont morts et sont devenus des Voyageurs, les joueurs meurent normalement.<br>
-<br><br>
-<strong>Règle optionnelle :</strong> Si le Démon devient un Voyageur, un Sbire devient le Démon.
 </p>
 
----
+<div class="botc-note">
+<strong>Règle optionnelle :</strong> Si le Démon devient un Voyageur, un Sbire devient le Démon.
+</div>  
+
+
 
 ##  <span style="color:#7fd1ae;">Exemples</span>
+
+---
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Julien est la <a href="../experimentaux_roles/princesse.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Princesse</a>.<br> 
 Il est exécuté et devient le <a href="../voyageurs/gangster.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Gangster</a>.<br>
 <br>
 Louise est la <a href="../sv_roles/dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a>.<br> 
-Elle meurt et devient le <a href="../voyageurs/cacklejack.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Cacklejack</a>.<br>
+Elle meurt et devient le <a href="../voyageurs/cacklejack.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Déphasé</a>.<br>
 Personne n’est ivre parce que la <a href="../sv_roles/dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a>
 n’est plus en jeu. 
 <br>  
 Emilien est l’ <a href="../experimentaux_roles/ingenieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ingénieur</a>.<br>
 Il meurt et devient le <a href="../voyageurs/judge.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Juge</a>.<br>  
-Cette nuit-là, le <a href="../bmr_roles/po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a> tue Marie, Abdel et Laurent. Marie devient le <a href="../voyageurs/gnome.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Gnome</a> et Abdel devient la <a href="../voyageurs/harlot.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Harlot</a>.
+Cette nuit-là, le <a href="../bmr_roles/po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a> tue Marie, Abdel et Laurent. Marie devient le <a href="../voyageurs/gnome.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Gnome</a> et Abdel devient la <a href="../voyageurs/harlot.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Galante</a>.
 </p>
 
----
+
+<hr class="loric">
+
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
