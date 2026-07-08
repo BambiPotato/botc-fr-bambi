@@ -88,7 +88,6 @@ Le Dieu d’Ug oblige les joueurs à ne parler qu’avec des mots d’une seule 
 <p class="botc-flavour-text dropcap">
 Instructions au Conteur
 </p> 
-
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Au début de la partie, donnez le <strong>chapeau Ug</strong> à n’importe quel joueur. <br>  Si vous ou un autre joueur surprenez ce joueur à dire un mot à plusieurs syllabes, donnez le chapeau Ug à un autre joueur.
 </p>
@@ -108,14 +107,14 @@ Règle optionnelle : si le <strong>chapeau Ug</strong>  devient moins amusant, l
 ---
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Amy porte le <strong>chapeau Ug</strong>. <br> Lorsqu’elle est nommée, elle dit :<br>  
-« Pas moi. Je crois Ben a dit un mot qui me dit lui est mal. Il est le mal, il est bouh, mal. »<br>    
+Amy porte le <strong>chapeau Ug</strong>. Lorsqu’elle est nommée, elle dit : 
+« Pas moi. Je crois Ben a dit un mot qui me dit lui est mal. Il est le mal, il est bouh, mal. »  
 Amy garde le chapeau Ug.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Lewis porte le <strong>chapeau Ug</strong>. <br> Lors d’une discussion privée avec Julien et Alex, Lewis dit : <br>  
-« Je sais que tous les deux bons. Je suis le truc qui vol qui peut voir un truc quand je meurs. Je veux que le Démon me tue pour que je vois ce truc et sait des trucs à vous dit le jour ap. »  <br> 
+Lewis porte le <strong>chapeau Ug</strong>. Lors d’une discussion privée avec Julien et Alex, Lewis dit :  
+« Je sais que tous les deux bons. Je suis le truc qui vol qui peut voir un truc quand je meurs. Je veux que le Démon me tue pour que je vois ce truc et sait des trucs à vous dit le jour ap. »  
 Le Conteur donne le <strong>chapeau Ug</strong> à Abdallah, car « Démon » est un mot à plusieurs syllabes.
 </p>
 
