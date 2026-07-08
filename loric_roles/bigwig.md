@@ -11,17 +11,18 @@ image: /images/Icon_ig_wig.png
   </a>
 </p>
 
+<hr class="explication">
+
 <!-- Big Wig -->
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="./bigwig.html" style="text-decoration:none;">
     <img src="../images/Icon_big_wig.png" alt="Big Wig" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#7fd1ae; font-weight:bold; font-size:22px;">Gros Bonnet</span>
+    <span style="color:#7fd1ae; font-weight:bold; font-size:50px;">Gros Bonnet</span>
   </a>
 </div>
 
-# <span style="color:#7fd1ae; font-weight:bold; font-size:18px;">Gros Bonnet</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « La vanité demande “Est-ce populaire ?”<br> 
@@ -30,7 +31,9 @@ image: /images/Icon_ig_wig.png
   Qui parmi nous demandera : “Est-ce vrai ?” »
 </p>
 
----
+
+<hr class="loric">
+
 
 ##  <span style="color:#7fd1ae;">Informations</span>
 
@@ -48,16 +51,20 @@ image: /images/Icon_ig_wig.png
   </li>
 </ul>
 
----
+<hr class="loric">
+
 
 ## <span style="color:#7fd1ae;">Résumé</span>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>Chaque nommé choisit un joueur : jusqu’au vote, seul ce joueur peut parler. Il est <em>fou</em> que le nommé est <strong>bon</strong>, sinon il pourrait mourir.</strong>
+
+<hr class="loric">
+
+
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
+<strong>Chaque nommé choisit un joueur : jusqu’au vote, seul ce joueur peut parler. Il est <strong>fou</strong> que le nommé est <strong>bon</strong>, sinon il pourrait mourir.</strong>
 </p>
 
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<p class="botc-flavour-text dropcap">
 Le <strong>Gros Bonnet</strong> donne aux personnes nommées un véritable <em>avocat de la défense</em>.
 </p>
 
@@ -70,9 +77,10 @@ Le <strong>Gros Bonnet</strong> donne aux personnes nommées un véritable <em>a
   <li>Le défenseur garde son droit de vote.</li>
 </ul>
 
----
 
 ##  <span style="color:#7fd1ae;">Comment Conter</span>
+
+---
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 À chaque nomination, demandez à la personne nommée de choisir son défenseur.<br>
@@ -81,9 +89,11 @@ S’il ne défend pas le joueur nommé comme si ce joueur était Bon, vous pouve
 Le silence prend fin au moment du vote.
 </p>
 
----
+
 
 ##  <span style="color:#7fd1ae;">Exemples</span>
+
+---
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong>Cédric</strong> prétend être le <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a> et est nommé.<br>
@@ -96,7 +106,9 @@ Céline déclare que Vanessa est probablement une <a href="../sbires.html" style
 Céline meurt à cause du pouvoir du Gros Bonnet.
 </p>
 
----
+
+<hr class="loric">
+
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
