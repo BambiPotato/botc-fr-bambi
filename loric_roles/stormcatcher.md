@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Chasseur d'orages
-Description: Annoncez un rôle bon. Si en jeu, il ne peut mourir que par exécution, mais les maléfiques apprennent qui c’est.
-Image: /images/Icon_stormcatcher.png
+description: "Annoncez un rôle bon. Si en jeu, il ne peut mourir que par exécution, mais les maléfiques apprennent qui c’est."
+image: /images/Icon_stormcatcher.png
 ---
 
 <p align="left">
@@ -13,8 +13,6 @@ Image: /images/Icon_stormcatcher.png
 
 <hr class="explication">
 
-<!-- Attrape-tempête -->
-
 <div style="text-align:center; margin: 20px 0;">
   <a href="./stormcatcher.html" style="text-decoration:none;">
     <img src="../images/Icon_stormcatcher.png" alt="Attrape-tempête" width="260" style="border-radius:12px;">
@@ -23,18 +21,14 @@ Image: /images/Icon_stormcatcher.png
   </a>
 </div>
 
-
-
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Une tempête approchait, et je vis, en relevant la tête, <br>
   un grand nuage obscur posé sur l’horizon ;<br> aucun tonnerre encore ne grondait ; <br> le gazon frissonnait près de moi ;<br> les branches tremblaient toutes, <br> et des passants lointains se hâtaient sur les routes. »
 </p>
 
-
 <hr class="loric">
 
-
-##  <span style="color:#7fd1ae;">Informations</span>
+<h2><span style="color:#7fd1ae;">Informations</span></h2>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong> <a href="../loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Loric</a></li>
@@ -52,9 +46,7 @@ Image: /images/Icon_stormcatcher.png
 
 <hr class="loric">
 
-
-##  <span style="color:#7fd1ae;">Résumé</span>
-
+<h2><span style="color:#7fd1ae;">Résumé</span></h2>
 
 <hr class="loric">
 
@@ -71,9 +63,9 @@ Utilisez le <strong>Chasseur d'orages</strong> pour mettre l’accent sur un rô
   <li>Le Conteur annonce que ce rôle ne peut pas mourir autrement que par exécution. Ce rôle peut être en jeu ou pas. <br> S’il est en jeu, ce joueur bon vit tant que les joueurs bons le souhaitent, car les joueurs maléfiques ne peuvent pas le tuer. <br> S’il n’est pas en jeu, tous les joueurs maléfiques l’apprennent et n’importe quel joueur maléfique peut se faire passer pour ce rôle. (Bien que cela ne soit pas une obligation.)</li>
 </ul>
 
-##  <span style="color:#7fd1ae;">Comment Conter</span>
+<h2><span style="color:#7fd1ae;">Comment Conter</span></h2>
 
----
+<hr class="loric">
 
 <p class="botc-flavour-text dropcap">
 Instructions au Conteur
@@ -84,7 +76,6 @@ Au début de la partie, annoncez que le <strong>Chasseur d’orages</strong> est
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
   <li>
     Au début de la partie, annoncez que le <strong>Chasseur d'orages</strong> est en jeu.<br>
     Ajoutez le jeton <strong>Chasseur d'orages</strong> au Grimoire.<br>
@@ -100,18 +91,16 @@ Au début de la partie, annoncez que le <strong>Chasseur d’orages</strong> est
   </li>
 
   <li>
-    <strong>Si le joueur marqué du jeton «<strong>« EN SÉCURITÉ »</strong> du <strong>Chasseur d'orages</strong> est exécuté, il meurt. <br>
+    <strong>Si le joueur marqué du jeton « EN SÉCURITÉ » du Chasseur d'orages est exécuté, il meurt.</strong><br>
     S’il doit mourir d'une autre manière, il reste en vie.
   </li>
-
 </ul>
 
-##  <span style="color:#7fd1ae;">Exemples</span>
+<h2><span style="color:#7fd1ae;">Exemples</span></h2>
 
----
+<hr class="loric">
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
   <li>Le script est construit autour du <a href="../roles_experimentaux/general.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Général</a>.<br>
   Le Chasseur d'orages <strong>« favorise »</strong> le <a href="../roles_experimentaux/general.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Général</a>.<br>
   Le Général est en jeu. La nuit, le <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> et le <a href="../bmr_roles/parrain.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parrain</a> l’attaquent : il ne meurt pas.<br>
@@ -120,12 +109,11 @@ Au début de la partie, annoncez que le <strong>Chasseur d’orages</strong> est
   <li>Le Conteur souhaite une partie basée autour de l’<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>.<br>
   Le Chassur d'orages « favorise », l' <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a> mais <strong>aucun <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a> n’est en jeu</strong>.<br>
   Les <span style="color:#d45b5b; font-weight:bold;">maléfiques</span> l’apprennent, et l’<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> choisit de <em>bluffer</em> <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>.</li>
-
 </ul>
 
-##  <span style="color:#7fd1ae;">Explication</span>
+<h2><span style="color:#7fd1ae;">Explication</span></h2>
 
----
+<hr class="loric">
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Le <strong>Chasseur d'orages</strong> est un Loric qui fonctionne particulièrement bien avec les scripts personnalisés :<br>
@@ -136,11 +124,8 @@ Pour contrer ce puissant atout, l'équipe maléfique connaîtra toujours l'ident
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Nommer un rôle avec le <strong>Chasseur d'orages</strong> ne signifie pas que vous devez l'inclure dans le jeu.<br>
-S’il n’est pas présent, vous offrez simplement un <em>bluff sûr</em> à l’équipe maléfique.
-Utilisez-le pour rendre un rôle « spécial » : si votre partie repose sur des interactions avec, par exemple, la <a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a>,
-c’est frustrant de perdre la <a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a>
-dès le jour 2 sur un coup de chance du Démon.
-
+S’il n’est pas présent, vous offrez simplement un <em>bluff sûr</em> à l’équipe maléfique.<br>
+Utilisez-le pour rendre un rôle « spécial » : si votre partie repose sur des interactions avec, par exemple, la <a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a>, c’est frustrant de perdre la <a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a> dès le jour 2 sur un coup de chance du Démon.<br>
 En offrant votre protection à un rôle, vous élargissez non seulement l'éventail des stratégies à sa disposition (bonnes ou maléfiques),<br>
 mais vous vous assurez également que le groupe lui accordera une attention particulière lors de ses délibérations.
 </p>
@@ -150,7 +135,6 @@ Remarque : le <strong>Chasseur d'orages</strong> ne s’applique qu’aux <stron
 </p>
 
 <hr class="loric">
-
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
