@@ -23,7 +23,6 @@ image: /images/Icon_bootlegger.png
 </div>
 
 
-<hr class="loric">
 
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
