@@ -83,6 +83,10 @@ Le <strong>Gros Bonnet</strong> donne aux personnes nommées un véritable <em>a
 
 ---
 
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p>
+
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 À chaque nomination, demandez à la personne nommée de choisir son défenseur.<br>
 Déclarez que seul ce joueur peut parler jusqu’au vote.<br>
