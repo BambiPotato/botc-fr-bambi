@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Djinn
-description: Utilisez la règle spéciale du Djinn. Tous les joueurs la connaissent. 
+title: Djinn et Jinxes
+description: "Utilisez la règle spéciale du Djinn. Tous les joueurs la connaissent. Tous les jinxes sont disponibles sur cette page." 
 image: /images/Icon_djinn.png
 ---
 
@@ -139,6 +139,9 @@ Si votre script contient des rôles <em>jinxés</em>, informez vos joueurs et jo
 
 
 <hr class="explication">
+
+
+##  Liste de tous les jinxes existants :
 
 
 <a id="villageois"></a>
