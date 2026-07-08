@@ -89,18 +89,18 @@ Au début de la partie, annoncez que le <strong>Chasseur d’orages</strong> est
     Au début de la partie, annoncez que le <strong>Chasseur d'orages</strong> est en jeu.<br>
     Ajoutez le jeton <strong>Chasseur d'orages</strong> au Grimoire.<br>
     Annoncez quel rôle bon a les faveurs du <strong>Chasseur d'orages</strong>.<br>
-    Si ce rôle est en jeu, marquez-le du jeton <strong>« EN SÉCURITÉ »</strong>.
+    Si ce rôle est en jeu, marquez-le du jeton <strong>« EN SÉCURITÉ »</strong>.<br>
   </li>
 
   <li>
-    <strong>Lors de la première nuit, réveillez tous les joueurs maléfiques un par un.</strong><br>
+    Lors de la première nuit, réveillez tous les <strong>joueurs maléfiques</strong> un par un.<br>
     • Si un rôle bon est marqué du jeton <strong>« EN SÉCURITÉ »</strong>, réveillez chaque joueur maléfique : montrez au joueur maléfique la tuile <strong>« CE JOUEUR EST »</strong>, le jeton de rôle bon, puis désignez le joueur bon en question.<br>
     Ensuite, le joueur maléfique se rendort.<br>
     • S’il n’y a pas de joueur marqué, montrez la tuile <strong>« CE RÔLE N'EST PAS EN JEU »</strong>, puis le jeton du rôle favorisé.
   </li>
 
   <li>
-    <strong>Si le joueur marqué du jeton « EN SÉCURITÉ » du Chasseur d'orages est exécuté, il meurt.</strong><br>
+    <strong>Si le joueur marqué du jeton «<strong>« EN SÉCURITÉ »</strong> du <strong>Chasseur d'orages</strong> est exécuté, il meurt. <br>
     S’il doit mourir d'une autre manière, il reste en vie.
   </li>
 
