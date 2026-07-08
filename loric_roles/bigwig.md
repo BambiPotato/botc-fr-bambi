@@ -51,6 +51,7 @@ image: /images/Icon_ig_wig.png
   </li>
 </ul>
 
+
 <hr class="loric">
 
 
@@ -102,8 +103,8 @@ Alexandre défend son innocence et propose d’exécuter <strong>Nicolas</strong
 <strong>Vanessa</strong> est l’ <a href="../roles_experimentaux/ermite.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ermite</a> 
 mais ne l’a pas dit.<br>
 Lorsqu'elle est nommée, elle choisit <strong>Céline</strong> pour parler.<br>
-Céline déclare que Vanessa est probablement une <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> et qu’il n’est pas grave qu’elle meure.<br>
-Céline meurt à cause du pouvoir du Gros Bonnet.
+Céline déclare que Vanessa est probablement un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> et qu’il n’est pas grave qu’elle meure.<br>
+Céline meurt à cause du pouvoir du <strong>Gros Bonnet</strong>.
 </p>
 
 
