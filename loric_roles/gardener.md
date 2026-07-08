@@ -11,24 +11,25 @@ image: /images/Icon_gardener.png
   </a>
 </p>
 
+<hr class="explication">
 <!-- Jardinier -->
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="./gardener.html" style="text-decoration:none;">
     <img src="../images/Icon_gardener.png" alt="Gardener" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#7fd1ae; font-weight:bold; font-size:22px;">Jardinier</span>
+    <span style="color:#7fd1ae; font-weight:bold; font-size:50px;">Jardinier</span>
   </a>
 </div>
 
-#  <span style="color:#7fd1ae; font-weight:bold; font-size:18px;">Jardinier</span>
+
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-« Oh non, ça ne va pas du tout. Nous avons mélangé l’aconit avec la digitale, et la ciguë étouffe l’hellébore !  
-Oh là là, il va falloir tout recommencer. Passez-moi mes sécateurs. »
+« Oh non, ça ne va pas du tout. <br>Nous avons mélangé l’aconit avec la digitale, et la ciguë étouffe l’hellébore !  
+Oh là là, il va falloir tout recommencer.<br> Passez-moi mes sécateurs. »
 </p>
 
----
+<hr class="loric">
 
 ##  <span style="color:#7fd1ae;">Informations</span>
 
@@ -47,15 +48,19 @@ Oh là là, il va falloir tout recommencer. Passez-moi mes sécateurs. »
   </li>
 </ul>
 
----
+<hr class="loric">
+
 
 ##  <span style="color:#7fd1ae;">Résumé</span>
+
+
+<hr class="loric">
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong>« Le Conteur assigne les rôles de tous les joueurs. »</strong>
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<p class="botc-flavour-text dropcap">
 Le <strong>Jardinier</strong> supprime le hasard lors de la mise en place.
 </p>
 
@@ -70,9 +75,15 @@ Le <strong>Jardinier</strong> supprime le hasard lors de la mise en place.
 
 </ul>
 
----
+
 
 ## <span style="color:#7fd1ae;">Comment Conter</span>
+
+---
+
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Lors de la mise en place, au lieu de placer les jetons de rôle dans le sac, placez-les face cachée sur la place du village, ou sur un support stable comme un livre, en cercle ou selon une forme correspondant à la disposition physique des joueurs.
@@ -82,9 +93,11 @@ Lors de la mise en place, au lieu de placer les jetons de rôle dans le sac, pla
 Un par un, dans le sens des aiguilles d’une montre, invitez les joueurs à prendre le jeton correspondant à leur position.
 </p>
 
----
+
 
 ## <span style="color:#7fd1ae;">Exemples</span>
+
+---
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Le Conteur souhaite créer une partie avec le 
@@ -104,7 +117,9 @@ Le Conteur place ces rôles dans cet ordre, face cachée, puis les joueurs prenn
 <strong>Ben</strong> est le Seigneur de Typhon et <strong>Julien</strong> est la Grande Prêtresse.
 </p>
 
----
+
+<hr class="loric">
+
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
