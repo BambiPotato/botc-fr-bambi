@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Djinn et Jinxes
+title: Djinn & Jinxes
 description: "Utilisez la règle spéciale du Djinn. Tous les joueurs la connaissent. Tous les jinxes sont disponibles sur cette page." 
 image: /images/Icon_djinn.png
 ---
@@ -42,27 +42,28 @@ image: /images/Icon_djinn.png
 </ul> 
 
 
-<p dir="rtl" style="color:#f5f5f5; font-style:italic; font-size:17px; line-height:1.8; text-align:left;">
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+
 نحن لسنا هنا.<br>
 انت لست حقيقي.<br>
 كل شيء هو وهم.<br>
-أسئلتك هي جبل نار في يوم صافٍ.
+أسئلتك هي جبل نار في يوم صافٍ
 </p>
-<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-Nous ne sommes pas ici.<br>
-Tu n’es pas réel.<br>
-Tout est illusion.<br>
-Tes questions sont une montagne de feu par un jour clair.
-</p>
+
+
 
 <hr class="explication">
 
+
 ##  Résumé
 
-**« Utilisez la règle spéciale du Djinn. Tous les joueurs la connaissent. »**
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.8;">
-Ajoutez le <strong><span style="color:#d4a76a;">Djinn</span></strong> à toutes les parties qui comportent une icône <em>jinx</em> sur le script.  
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
+« Utilisez la règle spéciale du Djinn. Tous les joueurs la connaissent. »
+</p>
+
+<p class="botc-flavour-text dropcap">
+Ajoutez le <strong><span style="color:#d4a76a;">Djinn</span></strong> à toutes les parties qui comportent une icône de <em>jinx</em> sur le script.  
 Le <strong><span style="color:#d4a76a;">Djinn</span></strong> résout les <em>jinxes</em> en créant une règle unique.
 </p>
 
@@ -83,33 +84,32 @@ Le <strong><span style="color:#d4a76a;">Djinn</span></strong> résout les <em>ji
 ## Les Djinns
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.8;">
-Lors de la création d’une liste de rôles avec l’outil <em>Script Tool</em>, certaines combinaisons sont signalées comme inhabituelles.  
-Ces deux rôles sont <em>jinxés</em> — leurs capacités s’opposent ou se contredisent d’une manière ou d’une autre.  
-Le <strong><span style="color:#d4a76a;">Djinn</span></strong> crée une règle spéciale qui permet à ces rôles de fonctionner correctement ensemble.  
-Certains rôles <em>jinxés</em> marchent même mieux lorsque le <strong><span style="color:#d4a76a;">Djinn</span></strong> est en jeu !
+Lorsque vous créez une liste de rôles avec l’outil <em>Script Tool</em>, certaines combinaisons sont signalées comme inhabituelles.  
+Ces deux rôles sont <em>jinxés</em> — leurs capacités entrent en conflit ou se contredisent d’une manière ou d’une autre.  
+Le <strong><span style="color:#d4a76a;">Djinn</span></strong> crée une règle spéciale qui permet à ces rôles de fonctionner correctement ensemble.   
+Certains rôles <em>jinxés</em> fonctionnent même mieux lorsque le <strong><span style="color:#d4a76a;">Djinn</span></strong> est en jeu !
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.8;">
-La règle spéciale du <strong><span style="color:#d4a76a;">Djinn</span></strong> est décrite en ligne par l’<em>Outil de Script</em> et est imprimée automatiquement
-quand vous créez un script contenant une combinaison <em>jinxée</em>.  
-Il existe de nombreuses règles spéciales ; chacune est adaptée à une paire précise de rôles <em>jinxés</em>.
+La règle spéciale du <strong><span style="color:#d4a76a;">Djinn</span></strong> est décrite en ligne par l’<em>Outil de Script</em> et elle est automatiquement imprimée lorsque vous créez un script contenant une combinaison de rôles <em>jinxée</em>.  
+Il existe de nombreuses règles spéciales du <strong><span style="color:#d4a76a;">Djinn</span></strong>. Chacune est adaptée à une paire précise de rôless <em>jinxés</em>.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.8;">
-S’il y a des rôles <em>jinxés</em> sur la feuille du script, même si aucun n’est en jeu,
-la <strong>Conteuse</strong> explique à toutes et tous, au début de la partie, quelle est la règle du <strong><span style="color:#d4a76a;">Djinn</span></strong>.  
-Le <strong><span style="color:#d4a76a;">Djinn</span></strong> peut avoir plusieurs règles spéciales en même temps : si plusieurs paires <em>jinxées</em> figurent sur la feuille,
-les joueurs et joueuses apprennent toutes ces règles.
+S’il y a des rôles <em>jinxés</em> sur la feuille de rôles,m ême si aucun rôle <em>jinxé</em> n’est en jeu, le Conteur annonce à tous les joueurs la règle spéciale du  <strong><span style="color:#d4a76a;">Djinn</span></strong> au début de la partie.
+Le <strong><span style="color:#d4a76a;">Djinn</span></strong> peut avoir plusieurs règles spéciales en même temps. <br> S’il y a plusieurs paires de rôles <em>jinxés</em> sur la feuille de rôles, les joueurs apprennent toutes les règles spéciales du <strong><span style="color:#d4a76a;">Djinn</span></strong>.
 </p>
 
----
+
 
 ##  Comment Conter
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8; margin-left:24px;">
-  <li>Au début de la partie, s’il y a des rôles <em>jinxés</em> sur la feuille, annoncez que le <strong><span style="color:#d4a76a;">Djinn</span></strong> est en jeu et exposez toutes les règles spéciales du <strong><span style="color:#d4a76a;">Djinn</span></strong> pour cette partie (même s’aucun rôle <em>jinxé</em> n’est effectivement en jeu).</li>
-  <li>Puis, appliquez les instructions du <em>Script Tool</em> telles qu’imprimées pour votre script.</li>
+  <li>Au début de la partie, s’il y a des rôles <em>jinxés</em> sur la feuille de rôles, annoncez que le <strong><span style="color:#d4a76a;">Djinn</span></strong> est en jeu et informez le groupe de toutes les règles spéciales du <strong><span style="color:#d4a76a;">Djinn</span></strong>. <br> Faites-le même si aucun rôle <em>jinxé</em> n’est en jeu.
+  </li>
+  <li>Suivez les instructions du <strong><span style="color:#d4a76a;">Djinn</span></strong> telles qu’elles sont indiquées sur l’impression de l'outil de script- <em>(Script Tool)</em>.</li>
 </ul>
+
 
 <hr class="explication">
 
@@ -118,13 +118,35 @@ les joueurs et joueuses apprennent toutes ces règles.
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8; margin-left:24px;">
   <li>La <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a> et l’<a href="../roles_experimentaux/heretic.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Hérétique</a> sont <em>jinxés</em>.  
-  En début de partie, la Conteuse lit la règle spéciale du Djinn : « Une Guenaude ne peut pas créer un Hérétique. »  
-  Plus tard, la <span style="color:#d45b5b; font-weight:bold;">Guenaude</span> tente de créer un <span style="color:#4ea3ff; font-weight:bold;">Hérétique</span> ; la Conteuse refuse et elle doit choisir un autre rôle.</li>
+  Au début de partie, la Conteuse lit à voix haute la règle spéciale du <strong><span style="color:#d4a76a;">Djinn</span></strong> : « Une 
+    <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a> ne peut pas créer un 
+    <a href="../roles_experimentaux/heretic.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Hérétique</a>. »  
+ Plus tard dans la partie, la <span style="color:#d45b5b; font-weight:bold;">Guenaude</span> essaie de créer un <span style="color:#4ea3ff; font-weight:bold;">Hérétique</span> ; la Conteuse secoue la tête, et la  <span style="color:#d45b5b; font-weight:bold;">Guenaude</span> doit choisir un autre rôle à créer.</li>
 
   <li>L’<a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a> et le <a href="../roles_experimentaux/magicien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Magicien</a> sont <em>jinxés</em>.  
-  Règle du Djinn lue en début de partie : « Quand l’Espionne voit le grimoire, les jetons du Démon et du Magicien sont retirés. »  
-  Il n’y a pas d’<span style="color:#d45b5b; font-weight:bold;">Espionne</span> ni de <span style="color:#4ea3ff; font-weight:bold;">Magicien</span> en jeu, mais la règle est tout de même annoncée pour que l’équipe du <span style="color:#4ea3ff; font-weight:bold;">Bien</span> ignore quel <span style="color:#d45b5b; font-weight:bold;">Sbire</span> est présent.</li>
+  Au début de la partie, le Conteur lit à voix haute la règle spéciale du <strong><span style="color:#d4a76a;">Djinn</span></strong> : « Quand l’ <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a> voit le grimoire, les jetons du rôle du Démon et du  
+  <a href="../roles_experimentaux/magicien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Magicien</a> sont retirés. »  
+  Il n’y a ni <span style="color:#d45b5b; font-weight:bold;">Espionne</span> ni  <span style="color:#4ea3ff; font-weight:bold;">Magicien</span> en jeu, mais le Conteur lit quand même cette règle à voix haute, afin que l’équipe du Bien ne sache pas quel Sbire est en jeu.</li>
 </ul>
+
+<hr class="explication">
+
+
+## Explication
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.8;">
+Lorsque vous créez une liste de rôles avec le Script Tool, certaines combinaisons de rôles seront indiquées comme inhabituelles avec un petit symbole de rôle sous l’un des rôles que vous avez sélectionnés. <br> Ces deux rôles sont jinxés : leurs capacités entrent en conflit ou se contredisent d’une manière ou d’une autre. <br> Le <strong><span style="color:#d4a76a;">Djinn</span></strong> crée une règle spéciale qui permet à ces rôles de fonctionner correctement ensemble. <br> Certains rôles jinxés fonctionnent même mieux lorsque le <strong><span style="color:#d4a76a;">Djinn</span></strong> est en jeu !
+</p>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.8;">
+La règle spéciale du <strong><span style="color:#d4a76a;">Djinn</span></strong> est décrite en ligne par le Script Tool, et elle est automatiquement imprimée lorsque vous créez un script contenant une combinaison de rôles jinxés. <br> Il existe de nombreuses règles spéciales du <strong><span style="color:#d4a76a;">Djinn</span></strong>. Chacune est adaptée à une paire précise de rôles jinxés. <br> S’il y a des rôles jinxés sur la feuille de rôles, même si aucun rôle jinxé n’est en jeu, le Conteur annonce à tous les joueurs la règle spéciale du <strong><span style="color:#d4a76a;">Djinn</span></strong>  au début de la partie. 
+</p>
+
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.8;">
+Le <strong><span style="color:#d4a76a;">Djinn</span></strong> peut avoir plusieurs règles spéciales en même temps. <br> S’il y a plusieurs paires de rôles jinxés sur la feuille de rôles, les joueurs apprennent toutes les règles spéciales du <strong><span style="color:#d4a76a;">Djinn</span></strong>. 
+</p>
+
 
 <hr class="explication">
 
@@ -132,9 +154,8 @@ les joueurs et joueuses apprennent toutes ces règles.
 ##  Règles spéciales du Djinn
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.8;">
-Cette section sera mise à jour au fur et à mesure que de nouveaux rôles seront disponibles.<br>
-La règle spéciale du <strong><span style="color:#d4a76a;">Djinn</span></strong> permet à des rôles <em>jinxés</em> d’apparaître sur le même script, voire d’être en jeu en même temps.  
-Si votre script contient des rôles <em>jinxés</em>, informez vos joueurs et joueuses des règles du <strong><span style="color:#d4a76a;">Djinn</span></strong> en début de partie, qu’ils soient en jeu ou non.
+Cette section sera mise à jour au fur et à mesure que de nouveaux rôles seront disponibles.<br> <br> 
+La règle spéciale du <strong><span style="color:#d4a76a;">Djinn</span></strong> permet à des rôles jinxés d’être présents sur le même script, et même d’être tous les deux en jeu en même temps. <br> Si votre script contient des rôles jinxés, informez vos joueurs des règles spéciales du <strong><span style="color:#d4a76a;">Djinn</span></strong> au début de la partie, que les rôles jinxés soient en jeu ou non.
 </p>
 
 
