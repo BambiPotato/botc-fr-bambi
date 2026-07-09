@@ -160,11 +160,11 @@ L’[Ivrogne](ivrogne.md) est le véritable rôle d'Abdallah, même s'il pense �
   On vous aurait montré deux joueurs et un jeton de [Marginal](../glossaire.md#étranger).  
 
 - Vous pouvez utiliser vos informations pour soutenir un autre joueur maléfique et le faire paraître bon. 
-  Cela rend sa revendication plus crédible, surtout s’il prétend être le [Saint](saint.md) ou la[Recluse](reclus.md)), 
+  Cela rend sa revendication plus crédible, surtout s’il prétend être le [Saint](saint.md) ou la [Recluse](reclus.md), 
   et vous permet de travailler directement avec lui, puisque vous êtes tous les deux des « joueurs bons » qui se connaissent
 
 - Vous pouvez aussi utiliser vos informations pour soutenir un joueur bon. Un [Saint](saint.md) qui a du mal à être cru, 
-  ou un [Majordome](majordome.md) qui cherche   quelqu’un en qui avoir confiance, appréciera qu’un **Archiviste$$ le confirme, 
+  ou un [Majordome](majordome.md) qui cherche quelqu’un en qui avoir confiance, appréciera qu’un **Archiviste** le confirme, 
   et sera plus enclin à vous faire confiance et à voter avec vous.
 
 - Nommer deux joueurs bons comme l'[Ivrogne](ivrogne.md) peut les amener à douter de leurs informations, ou affaiblir des rôles puissants comme le [Maire](maire.md). 
