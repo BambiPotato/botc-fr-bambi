@@ -87,7 +87,7 @@ image: /images/Generic_loric.png
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <a href="#presentation" style="color:#f5f5f5; font-weight:bold; text-decoration:none;"> Présentation</a><br>
   <a href="#comment-conter" style="color:#f5f5f5; font-weight:bold; text-decoration:none;"> Comment Conter</a><br>
-  <a href="#lorics" style="color:#f5f5f5; font-weight:bold; text-decoration:none;"> Lorics</a>
+  <a href="#lorics" style="color:#f5f5f5; font-weight:bold; text-decoration:none;"> Loric</a>
 </p>
 
 
@@ -145,11 +145,11 @@ Instructions au Conteur
   Vous êtes Conteur, pas joueur donc vos Loric sont donc immunisés contre tous les effets du jeu, y compris la mort, l’ivresse et l’empoisonnement.
 </p>
 
-<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
+<div class="botc-note">
   Comme les <strong>Voyageurs</strong> et les <strong>Légendaires</strong>,  
   les <strong>Loric</strong> ne comptent pas comme des joueurs pour la condition de victoire 
   de l’équipe maléfique lorsqu’il ne reste que « deux joueurs en vie ».
-</p>
+</div>
 
 
 <hr class="loric">
