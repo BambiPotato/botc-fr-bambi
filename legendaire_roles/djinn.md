@@ -104,12 +104,9 @@ Le <strong><span style="color:#d4a76a;">Djinn</span></strong> peut avoir plusieu
 <hr class="explication">
 
 
-##  Comment Conter
-
 <p class="botc-flavour-text dropcap">
 Instructions au Conteur
 </p> 
-
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8; margin-left:24px;">
   <li>Au début de la partie, s’il y a des rôles <em>jinxés</em> sur la feuille de rôles, annoncez que le <strong><span style="color:#d4a76a;">Djinn</span></strong> est en jeu et informez le groupe de toutes les règles spéciales du <strong><span style="color:#d4a76a;">Djinn</span></strong>. <br> Faites-le même si aucun rôle <em>jinxé</em> n’est en jeu.
   </li>
