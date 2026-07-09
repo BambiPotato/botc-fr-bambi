@@ -158,9 +158,10 @@ Quand il ne reste que trois joueurs en vie, et que vous savez avec certitude qu�
 
 - L’[<span style="color:red">Espionne</span>](espion.md) peut ne pas être considérée comme un joueur Maléfique pour votre information, ce qui vous donnerait un décompte incorrect.
 De même, la [Recluse](reclus.md) peut être considérée comme un joueur Maléfique pour votre information. Pour pouvoir faire confiance à votre information, vous devrez faire ce que vous pouvez pour révéler l’existence d’une [<span style="color:red">Espionne</span>](espion.md) ou d’une [Recluse](reclus.md) dès que possible. Demander simplement au groupe si quelqu’un est la [Recluse](reclus.md) suffit parfois. Découvrir qu’une [<span style="color:red">Espionne</span>](espion.md) est en jeu peut vous demander d’utiliser votre intuition et de faire attention aux joueurs qui meurent la nuit. 
-Si le Démon semble tuer beaucoup trop efficacement,  alors une [<span style="color:red">Espionne</span>](espion.md)l’aide peut-être.
+Si le Démon semble tuer beaucoup trop efficacement,  alors une [<span style="color:red">Espionne</span>](espion.md) l’aide peut-être.
 
-- Si la partie est une partie Teensyville (toute partie avec seulement cinq ou six joueurs), alors le Démon et le Sbire ne se connaîtront pas, et tenteront désespérément de découvrir qui est l’autre. Donner au groupe une fausse information de Cuisinier peut pousser les joueurs Maléfiques à faire confiance aux mauvaises personnes. Par exemple, dire que les joueurs maléfiques sont assis les uns à côté des autres, alors que vous savez que ce n’est pas le cas, signifie que le Démon peut accidentellement se révéler à un voisin Bon, ou qu’un Sbire ne votera pas pour l’exécution de son voisin Bon et votera plutôt pour l’exécution du Démon.
+- Si la partie est une partie **Teensyville** (toute partie avec seulement cinq ou six joueurs), alors le Démon et le Sbire ne se connaîtront pas, et tenteront désespérément de découvrir qui est l’autre. Donner au groupe une fausse information de Cuisinier peut pousser les joueurs Maléfiques à faire confiance aux mauvaises personnes. 
+Par exemple, dire que les joueurs maléfiques sont assis les uns à côté des autres, alors que vous savez que ce n’est pas le cas, signifie que le Démon peut accidentellement se révéler à un voisin Bon, ou qu’un Sbire ne votera pas pour l’exécution de son voisin Bon et votera plutôt pour l’exécution du Démon.
 
 
 
