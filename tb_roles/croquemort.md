@@ -11,7 +11,9 @@ image: /images/Icon_undertaker.png
   </a>
 </p>
 
----
+
+<hr class="explication">
+
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -71,10 +73,9 @@ Un militaire, sans aucun doute. »
   </a>
 </div>
 
+##  <span style="color:blue;">Résumé</span> 
 
 ---
-
-##  <span style="color:blue;">Résumé</span>    
 
 <strong>« Chaque nuit*, vous apprenez quel rôle est mort par exécution dans la journée. »</strong>
 
@@ -96,10 +97,11 @@ LE FOSSOYEUR apprend le rôle du joueur qui a été exécuté dans la journée.
 Le Fossoyeur apprend quel rôle a été exécuté aujourd'hui.
 
 
----
+
 
 ##  <span style="color:blue;">Comment Conter</span> 
 
+---
 
 <p class="botc-flavour-text dropcap">
 Instructions au Conteur
@@ -112,15 +114,16 @@ Instructions au Conteur
   - Endormez le Fossoyeur. 
   - Retirez son jeton de rappel quand vous le souhaitez.
 
-
 <div class="botc-note">
 Dans   <strong>TROUBLE BREWING</strong>, il ne peut y avoir qu’une seule exécution par jour et chaque exécution provoque la mort d’un joueur.
 Dans d'autres modules, il peut y avoir plus d'une exécution par jour (auquel cas le Conteur choisit quel rôle montrer au Fossoyeur)<br>  et il est possible de ne pas mourir d’une exécution (auquel cas le Fossoyeur n'apprend rien).
 </div>
 
----
+
 
 ##  <span style="color:blue;">Exemples</span>   
+
+---
 
 - Le [Maire](maire.md) est exécuté. La nuit, le Fossoyeur voit le jeton de **Maire**.  
 
@@ -131,59 +134,90 @@ Deux Voyageurs sont exilés. Le Fossoyeur voit **Majordome**, car les voyageurs 
 
 - Personne n'a été exécuté aujourd'hui. Cette nuit-là, le Fossoyeur ne se réveillera pas.  
 
----
+  
 
 ##  <span style="color:blue;">Conseils & Astuces</span>  
 
-- Plus vous éliminez de joueurs, plus vous obtenez d'informations. 
-  Il est donc dans votre intérêt de faciliter un maximum d'exécutions. 
+---
+
+- Plus il y a de joueurs exécutés, plus vous obtenez d’informations. 
+  Il est donc dans votre intérêt de faciliter autant d’exécutions que possible. 
+  La principale méthode de l’équipe du Bien pour tuer des joueurs maléfiques est l’exécution, puisqu’ils ont beaucoup moins de chances de mourir la nuit, 
+  donc chaque exécution est une occasion de toucher le Démon. 
+  Si ce n’est pas le cas, vous arriverez au moins au dernier jour en sachant beaucoup plus de choses sur les autres joueurs et leurs rôles.
+
+- Vous n’apprenez pas l’identité des [Voyageurs](../voyageur.md) : ils sont exilés, pas exécutés. 
+  La seule exception est l [<span style="color:#9b59b6">Bouc émissaire</span>](../voyageurs/scapegoat.md),, puisqu’il est explicitement exécuté par sa capacité de rôle. 
+  Cependant, vous n’apprenez pas son alignement, seulement son rôle.
+
+- Exécuter quelqu’un dont vous ne connaissez pas l’identité peut renforcer votre revendication de **Fossoyeur**. 
+ À l’inverse, exécuter quelqu’un qui s’est révélé et prétend être un rôle précis vous permet de confirmer son histoire, puisque vous apprendrez quel rôle il est. 
+ Ce sont deux très bons moyens de créer de la confiance avec les autres membres de l’équipe du Bien.
+
+- De bons candidats pour les premières exécutions sont des rôles comme la [Lavandière](lavandiere.md) et l' [Archiviste](bibliothécaire.md), 
+car confirmer leur identité permet aussi de confirmer d’autres joueurs bons. 
   
-- La principale méthode de l'équipe du bien pour éliminer les joueurs maléfiques est l'exécution, 
-car ils ont beaucoup moins de chances de mourir la nuit. 
+- Exécuter le [Détective](enqueteur.md) ou le [Cuisinier](cuistot.md) ne confirme pas d’autres joueurs, mais cela signifie tout de même que vous pouvez faire confiance à 
+leurs informations puissantes et peut-être exécuter rapidement l’[<span style="color:red">Empoisonneur</span>](empoisonneur.md) problématique.
 
-- Chaque exécution est donc une occasion de toucher le Démon. 
-Si vous n'y parvenez pas, vous arriverez au moins le jour final en connaissant bien mieux vos coéquipiers et leurs rôles.
+- Exécuter un rôle comme la [Voyante](voyante/md) peut signifier qu’elle n’obtiendra plus d’informations, mais vous pouvez la confirmer, ainsi que tout ce qu’elle a dit jusque-là. 
+  - Si elle meurt pendant la nuit, elle ne pourra plus être confirmée.
 
-- Les Voyageurs ne sont pas concernés (ils sont exilés, pas exécutés), 
-sauf le [<span style="color:#9b59b6">Bouc émissaire</span>](../voyageurs/scapegoat.md), qui meurt explicitement par exécution.  
+- Vous révéler tôt vous expose au risque de mourir ou d’être empoisonné. 
+Attendre un moment critique pour révéler vos informations peut maximiser la quantité d’informations que vous recevez. 
+Assurez-vous simplement de vous révéler avant la fin de la partie !
 
-- Les bons candidats à une exécution anticipée sont des rôles comme : [Lavandière](lavandiere.md), 
-  [Archiviste](bibliothecaire.md) ou [Détective](enqueteur.md) est très utile. 
-- Exécuter ces rôles tôt permet de valider aussi les joueurs qu’ils désignent.  
+- Vous révéler dès que possible est un bon choix si vous avez appris quelque chose de crucial, comme l’identité du Démon. 
+Si l’on vous montre que le joueur exécuté était le [<span style="color:red">Diablotin</span>](imp.md), 
+il est très probable qu’une  [<span style="color:red">Femme écarlate</span>](femmeecarlate.md) vienne de prendre sa place en tant que Démon !
 
-- Exécuter une [Voyante](voyante.md) ou un [Empathe](empathique.md) peut sembler risqué, mais permet de valider toutes leurs infos passées.  
-- Vous êtes une cible prioritaire pour le Mal. Révélez vos infos au bon moment :  
-  - tôt, si vous avez vu un Démon ;  
-  - tard, si vous voulez accumuler un maximum de confirmations. 
-  
-- Si un [<span style="color:red">Diablotin</span>](imp.md) exécuté est révélé par vous, méfiez-vous : 
-une [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md) a probablement pris la relève !  
+- Si un joueur exécuté est l'[Ivrogne](ivrogne.md), vous verrez le jeton de rôle de l’[Ivrogne](ivrogne.md), pas le Villageois qu’il pensait être.
 
-- Attention :  
-  - La [Recluse](reclus.md) peut apparaître maléfique.  
-  - L’[<span style="color:red">Espionne</span>](espion.md) peut sembler bonne.  
-  - Ces déformations restent visibles même après leur mort.  
+- Si vous voyez qu’un joueur est un rôle bon, vous pouvez lui faire confiance et lui dire ce que vous êtes. 
+Ensuite, lorsque vous finirez par vous révéler comme **Fossoyeur**, les joueurs exécutés pourront vous soutenir.
+
+- Si vous voyez un jeton de rôle maléfique, il est généralement peu judicieux d’être honnête avec le joueur qui vient d’être exécuté. 
+Vous pouvez tout de même prétendre être le **Fossoyeur** et faire semblant de confirmer son bluff, 
+afin que le [<span style="color:red">Diablotin</span>](imp.md) et l' [<span style="color:red">Empoisonneur</span>](empoisonneur.md) puissent vous éviter lors des prochaines nuits.
+
+- Un joueur qui meurt à cause de l' [Immaculée](vierge.md) est considéré comme exécuté et déclenchera votre capacité, donc vous apprendrez qui il est cette nuit-là.
+
+- Méfiez-vous de l’[<span style="color:red">Espionne</span>](espion.md) et de la [Recluse](reclus.md) ! 
+  Elles s’enregistreront probablement auprès de vous comme des rôles bons et maléfiques respectivement, puisque leurs capacités continuent de fonctionner même lorsqu’ils sont morts.
+
+
+##  <span style="color:blue;">Bluffer le Fossoyeur</span>   
 
 ---
 
-##  <span style="color:blue;">Bluffer Fossoyeur</span>   
+**Lorsque vous bluffez le Fossoyeur**, il y a quelques éléments à garder en tête :
 
-- Vous vous réveillez **chaque nuit sauf la première** : préparez un récit crédible avec un rôle exécuté chaque jour.  
-  Confirmer des Villageois bons peut vous rendre crédible surtout si,
-  vous avez accès au Grimoire grâce à une [<span style="color:red">Espionne</span>](espion.md).  
-  
-- Vous pouvez aussi rendre maléfique un joueur exécuté en prétendant qu’il était Sbire ou Démon. 
-  C'est risqué car le joueur sait que vous mentez, mais efficace si les autres vous croient.  
-  
-- Si un allié maléfique est exécuté, prétendre qu’il est un [Villageois](../villageois.md) renforce vos deux bluffs.  
-  Une technique courante est de dire qu’un exécuté était **Ivrogne**, pour invalider ses infos et semer le doute.  
-  Vous pouvez rester discret plusieurs jours, puis sortir vos "révélations" au moment clé. 
+- Chaque nuit, sauf la première, le Conteur vous aurait réveillé et montré le jeton de rôle du joueur exécuté la veille.
 
-- Un bon moyen de discréditer un rôle du Village exécuté est de prétendre avoir vu un [Ivrogne](ivrogne.md).
-  Si le groupe vous croit (et surtout si le joueur exécuté vous croit), il considérera que toute information reçue était erronée. 
-  Si vous ignorez quel rôle a un joueur, prétendre qu'il est l'[Ivrogne](ivrogne.md) est un bon moyen de dissimuler ce fait.
+- Un bon **Fossoyeur** peut tout à fait attendre quelques jours avant de révéler qu’il est le **Fossoyeur**.
+N’hésitez pas à rester discret pendant un moment, ou même à prétendre être un autre rôle au début, pour donner l’impression d’être un **Fossoyeur** qui bluffe autre chose.
 
----
+- Vous pouvez vous faire passer pour bon en confirmant que des joueurs bons sont bien qui ils disent être. 
+  - Pour que cette stratégie fonctionne, vous devrez découvrir qui ils sont à l’avance. 
+  - Si vous êtes l’[<span style="color:red">Espionne</span>](espion.md), ou si vous avez accès à une [<span style="color:red">Espionne</span>](espion.md), 
+  vous pouvez être plus convaincant grâce à votre connaissance complète des rôles de tout le monde.
+
+- Vous pouvez faire paraître des joueurs clés maléfiques en affirmant qu’ils sont des Sbires, voire le Démon, s’ils sont exécutés. 
+  C’est risqué, car le joueur concerné saura probablement que vous êtes maléfique, mais cela peut potentiellement faire gagner la partie, 
+  puisque le reste du groupe ne saura pas que vous mentez. 
+  Comme, la plupart du temps, davantage de joueurs bons seront exécutés que de joueurs maléfiques, utilisez cette technique avec parcimonie. 
+  Si vous voyez que l’on ne vous croit pas, vous pouvez toujours prétendre être l’Ivrogne ou avoir été empoisonné.
+
+- Si un autre joueur maléfique meurt par exécution, vous pouvez sans risque prétendre qu’il est soit un rôle bon, soit un rôle maléfique. 
+  - Si vous prétendez qu’il est un rôle bon, vous confirmez tous les deux vos histoires respectives, ce qui vous rend tous les deux plus crédibles. 
+  - Si vous prétendez qu’il est un rôle maléfique, il devrait, avec un peu de chance, se comporter un peu plus comme un joueur maléfique, 
+    et laisser subtilement entendre publiquement qu’il est effectivement maléfique, ce qui vous fera passer pour le vrai Fossoyeur.
+
+- Une bonne manière de décrédibiliser un Villageois exécuté est de prétendre que vous avez vu le jeton de  l'[Ivrogne](ivrogne.md) à sa place. 
+  - Si le groupe vous croit, et surtout si le joueur exécuté vous croit, alors le groupe supposera que toutes les informations qu’il a reçues n’étaient pas fiables. 
+  - Si vous ne savez pas quel rôle est un joueur, prétendre qu’il est l'[Ivrogne](ivrogne.md) est un bon moyen de cacher ce fait.
+
+<hr class="explication">
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
