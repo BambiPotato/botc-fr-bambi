@@ -97,7 +97,7 @@ Marquez ce joueur avec le rappel <strong>OBJECTIF</strong> du <strong>Zénomanci
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Ajoutez « …sans dire à qui que ce soit quel est votre objectif » pour rendre vos objectifs plus intéressants. 
+Ajoutez <em>« …sans dire à qui que ce soit quel est votre objectif »</em> pour rendre vos objectifs plus intéressants. 
 La plupart des objectifs sont plus amusants pour le joueur s’il ne peut pas les communiquer. 
 Vous pouvez ajouter « <em>…sans dire ton objectif à qui que ce soit</em> » pour rendre la quête plus amusante et plus difficile à contourner.
 </p>
@@ -121,12 +121,14 @@ Il apprend alors que <strong>Louis</strong> est le <a href="../sv_roles/sage.htm
 La conteuse juge que Sarah est suffisamment confuse quant au fait d’être ou non la <strong>aucune</strong> <a href="../roles_experimentaux/marionnette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a>.
 Emilien apprend qu’il n'y a pas de  <a href="../roles_experimentaux/marionnette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> en jeu.
 
-Pendant ce temps, <strong>Ben</strong> a l’objectif « nommer et exécuter un Sbire ». Cela n’arrive pas, et <strong>Ben</strong> ne reçoit pas son information du Zénomancien.<br><br>
+Pendant ce temps, <strong>Ben</strong> a l’objectif « nommer et exécuter un Sbire ».
+Cela n’arrive pas, et <strong>Ben</strong> ne reçoit pas son information du Zénomancien.<br><br>
 
 <strong>Julien</strong> a pour objectif de « voler tous les coussins confortables du canapé, sans les toucher ». 
 <strong>Amy</strong> a le même objectif.
-<strong>Amy/strong>  convainc <strong>Marianna/strong> d’entraîner <strong>Julien/strong> dans une conversation privée pendant qu’<strong>Abdallah/strong>  vole les coussins et les lui donne. 
-<strong>Amy/strong>  apprend que le Démon est  un <a href="../sv_roles/fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a>.
+<strong>Amy</strong>  convainc <strong>Marianna</strong> d’entraîner <strong>Julien</strong> dans une conversation privée 
+pendant qu’<strong>Abdallah</strong>  vole les coussins et les lui donne. 
+<strong>Amy</strong>  apprend que le Démon est  un <a href="../sv_roles/fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a>.
 </p>
 
 <hr class="loric">
