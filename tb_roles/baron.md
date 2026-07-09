@@ -14,7 +14,7 @@ parchment: true
   </a>
 </p>
 
----
+<hr class="explication">
 
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
@@ -78,9 +78,11 @@ Rien de tel que la vertu du labeur pour se remettre dans le droit chemin.<br>
   </a>
 </div>
 
----
+
 
 ##  <span style="color:red">Résumé</span>
+
+---
 
 **« Il y a des Marginaux supplémentaires en jeu. [+2  Marginaux] »**
 
@@ -94,9 +96,11 @@ LE BARON modifie le nombre de Marginaux présents dans la partie.
 - Les Marginaux ajoutés **remplacent toujours des Villageois**, jamais un autre type.
 
 
----
+
 
 ##  <span style="color:red">Comment Conter</span>
+
+---
 
 <p class="botc-flavour-text dropcap">
   Instructions au Conteur
@@ -109,9 +113,12 @@ Pendant la mise en place :
 
 Ces jetons (avec ces remplacements) vont dans le sac pour être tirés par les joueurs.
 
----
+
 
 ##  <span style="color:red">Exemples</span>
+
+---
+
 - Une partie avec **7 joueurs** la composition de base est :**(5 Villageois, 1 Sbire, 1 Démon)**. 
 - Le conteur décide de mettre Baron en jeu, le Conteur retire 2 Villageois et ajoute, par exemple,
   un [**Saint**](../tb_roles/saint.md) et un [**Majordome**](../tb_roles/majordome.md). 
@@ -123,9 +130,11 @@ Ces jetons (avec ces remplacements) vont dans le sac pour être tirés par les j
 - Pour l’Ivrogne, on n’ajoute pas le jeton de rôle **IVROGNE** dans le sac : 
   on place le jeton de rappel **“Est l’Ivrogne”** à côté d'un jeton de n'importe quel rôle d'un Villageois dans le Grimoire *(un Villageois est secrètement un Marginal)*.  
 
----
+
 
 ##  <span style="color:red">Conseils & Astuces</span>
+
+---
 
 - Votre pouvoir agit **avant même que la partie commence**, ensuite : amusez-vous à **bluffer** et semer la confusion pour aider votre Démon.  
 - Revendiquez être **Marginal** : si le nombre de Marginaux paraît trop élevé, le Village pensera à un Baron et vous pourrez passer pour un véritable Marginal.  
@@ -136,9 +145,11 @@ Ces jetons (avec ces remplacements) vont dans le sac pour être tirés par les j
 - Si vous ne bluffez pas un Marginal **chargez** les vrais Marginaux : le Village pourrait les exécuter.  
 - Parfois, faire tuer le Baron tôt par le Démon vous rend “fiable” en mort et vous permet de **désinformer tranquillement** ensuite.
 
----
+
 
 ##  <span style="color:red">Combattre le Baron</span>
+
+---
 
 - Un **compte de Marginaux inhabituel**, si le nombre de Marginaux est différent de celui attendu par défaut par exemple :
   vous en avez trois au lieu d'un seul, il s'agit probablement d'un Baron. 
@@ -154,7 +165,8 @@ Il n’est pas toujours nécessaire de l’exécuter si vous avez une meilleure 
 - Attention : le [<span style="color:red">Diablotin</span>](../tb_roles/imp.md) peut **transmettre** son pouvoir au [<span style="color:red">Baron</span>](../tb_roles/baron.md) ; 
 l’ignorer trop longtemps peut le transformer en Démon en fin de partie.
 
----
+<hr class="explication">
+
 
 ## 🧞 <span style="color:#d4a76a;">Jinxes liés</span>
 
@@ -178,8 +190,9 @@ l’ignorer trop longtemps peut le transformer en Démon en fin de partie.
 
 </ul>
 
+<hr class="explication">
 
----
+
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
   <li> <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
