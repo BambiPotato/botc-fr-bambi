@@ -25,8 +25,7 @@ image: /images/Icon_ventriloquist.png
 
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Eh bien, les amis, approchez ! Voici mon copain Charlie :<br>
-  il a une langue qui ferait rougir un mulet… mais ne vous inquiétez pas, c’est moi qui parle… enfin, je crois ? »
+« Eh bien, mes amis, approchez donc ! <br> Voici mon copain Charlie, <br> et il a une langue si bien pendue qu’il ferait rougir une mule. <br> Mais ne vous inquiétez pas,<br> c’est moi qui parle… ou peut-être pas ? »
 </p>
 
 
