@@ -64,7 +64,7 @@ imagge: /images/Icon_pope.png
 </p>
 
 <p class="botc-flavour-text dropcap">
-Le <strong>Pape</strong> crée des revendications de rôles en double..
+Le <strong>Pape</strong> crée des revendications de rôles en double.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
