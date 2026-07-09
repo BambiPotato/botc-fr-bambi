@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lorics
+title: Loric
 description: Tous les rôles Loric.
 image: /images/Generic_loric.png
 ---
@@ -11,7 +11,7 @@ image: /images/Generic_loric.png
   </a>
 </p>
 
-<hr class="explication">
+<hr class="loric">
 
 <!--  Logo centré cliquable -->
 <div style="text-align:center; margin: 20px 0;">
@@ -22,7 +22,9 @@ image: /images/Generic_loric.png
   </a>
 </div>
 
+
 <hr class="loric">
+
 
 
 <style>
@@ -77,7 +79,10 @@ image: /images/Generic_loric.png
 
 ##  <span style="color:#7fd1ae;">Sommaire</span>
 
----
+
+
+<hr class="loric">
+
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <a href="#presentation" style="color:#f5f5f5; font-weight:bold; text-decoration:none;"> Présentation</a><br>
