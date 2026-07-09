@@ -96,11 +96,11 @@ Dites-le-lui en privé, ou réveillez-le la nuit et montrez-lui une note écrite
 Marquez ce joueur avec le rappel <strong>OBJECTIF</strong> du <strong>Zénomancien</strong>.
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<div class="botc-note">
 Ajoutez <em>« …sans dire à qui que ce soit quel est votre objectif »</em> pour rendre vos objectifs plus intéressants. 
 La plupart des objectifs sont plus amusants pour le joueur s’il ne peut pas les communiquer. 
 Vous pouvez ajouter « <em>…sans dire ton objectif à qui que ce soit</em> » pour rendre la quête plus amusante et plus difficile à contourner.
-</p>
+</div>
 
 
 
