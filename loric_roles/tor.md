@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Tor 
+description: "Les joueurs ne connaissent pas leur rôle ni leur alignement. Ils les apprennent lorsqu’ils meurent."
+image: 
 ---
 
 <p align="left">
@@ -9,23 +11,24 @@ title: Tor
   </a>
 </p>
 
+<hr class="explication">
 <!-- Tor -->
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="./tor.html" style="text-decoration:none;">
-    <img src="../images/Icon_tor.png" alt="Tor" width="260" style="border-radius:12px;">
+    <img src="../images/Icon_tor.png" alt="Tor" width="300" style="border-radius:12px;">
     <br>
-    <span style="color:#7fd1ae; font-weight:bold; font-size:22px;">Tor</span>
+    <span style="color:#7fd1ae; font-weight:bold; font-size:50px;">Tor</span>
   </a>
 </div>
 
-#  <span style="color:#7fd1ae; font-weight:bold; font-size:18px;">Tor</span>
+
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Avec le tonnerre pour voix et l’éclair pour lame, je suis le gardien éternel. Quiconque ose franchir la porte interdite sera frappé. Mon but : purger le scarabée des entrailles de la terre, l’enfermer dans un filet d’étoiles, là où le ciel touche la pierre. »
+« Avec le tonnerre pour voix et la foudre pour lame, moi, gardien éternel, <br>  je me repais des fous qui osent approcher la porte interdite. <br>  Contemplez mon objectif sacré ! <br> Purger le scarabée du ventre de la terre rocheuse, <br> l’emprisonner dans un filet d’étoiles, <br> au sommet de la colline où le ciel rencontre la terre. » 
 </p>
 
----
+<hr class="loric">
 
 ##  <span style="color:#7fd1ae;">Informations</span>
 
@@ -43,53 +46,64 @@ title: Tor
   </li>
 </ul>
 
----
+<hr class="loric">
+
 
 ##  <span style="color:#7fd1ae;">Résumé</span>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>Les joueurs ne connaissent pas leur rôle ni leur alignement. Ils les apprennent lorsqu’ils meurent.</strong>
+
+<hr class="loric">
+
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
+« Les joueurs ne connaissent pas leur rôle ni leur alignement. Ils les apprennent lorsqu’ils meurent. »
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Tor supprime toute connaissance de « qui est qui » pendant la partie.
+<p class="botc-flavour-text dropcap">
+Tor retire toute connaissance « qui est qui » pendant la partie.
 </p>
-
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Les joueurs ne savent pas quel rôle ils incarnent.</li>
-  <li>Lors de la mise en place, le conteur tire les jetons et les place directement dans le Grimoire ; les joueurs ne piochent pas eux-mêmes.</li>
-  <li>Les capacités de rôle fonctionnent normalement. Les joueurs sont réveillés pour agir si besoin.</li>
-  <li>Quand un joueur meurt, il apprend son rôle et son alignement. Cette information est toujours correcte, même s’il était saoul ou empoisonné.</li>
+  <li>Les joueurs ne savent pas quel rôle ils sont.</li>
+  <li>Les joueurs ne piochent pas de jetons dans le sac. Le Conteur les place directement dans le Grimoire au début de la partie.</li>
+  <li>Les capacités des rôles fonctionnent normalement. Les joueurs sont réveillés et invités à utiliser leur capacité si nécessaire.</li>
+  <li>Lorsqu’un joueur meurt, il apprend son rôle et son alignement. Même s’il est ivre ou empoisonné, cette information est correcte.</li>
   <li>Le <span style="color:#d45b5b;">Démon</span> et les <span style="color:#d45b5b;">Sbires</span> ne se connaissent pas.</li>
 </ul>
 
----
 
 ##  <span style="color:#7fd1ae;">Comment Conter</span>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Pendant la préparation, ne fais pas circuler le sac. Tire les rôles toi-même et place-les dans le Grimoire.  
-Si un joueur meurt de jour, annonce-lui en privé son rôle et son alignement.  
-S’il meurt de nuit, réveille-le et montre-lui successivement le jeton « VOUS ÊTES », son jeton de rôle, le jeton « VOUS ÊTES », puis un pouce levé (Bien) ou baissé (Maléfique).
+---
+
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
 </p>
 
----
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+Lors de la mise en place, ne faites pas passer le sac aux joueurs. <br> À la place, piochez les jetons de rôle dans le sac et placez-les dans l’ordre dans le Grimoire.<br><br>
+Si un joueur meurt pendant la journée, dites-lui en privé quel rôle et quel alignement il est. <br> Si un joueur meurt pendant la nuit, réveillez-le, montrez-lui le jeton d’info <strong>VOUS ÊTES</strong>, son jeton de rôle, le jeton d’info <strong>VOUS ÊTES</strong>, puis un pouce levé ou un pouce baissé.
+</p>
+
+
 
 ##  <span style="color:#7fd1ae;">Exemples</span>
 
+---
+
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Julien, Cédric, Kyllian, Laura, Sarah, Marie et Amélie ne connaissent pas leurs rôles.  
-Marie est réveillé chaque nuit et voit un pouce levé sans savoir pourquoi.  
-Sarah et Marie sont réveillées chaque nuit pour choisir un joueur, sans savoir pourquoi.<br>  
-Sarah est exécutée : elle apprend qu’elle est le <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> et qu'elle est d'alignement "Bon".  
-Laura, croyant être la <a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a>, le dit publiquement et choisit Amélie : Amélie meurt.<br>  
-Marie était le <a href="../roles_experimentaux/general.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Général</a>, 
-Laura la <a href="../tb_roles/imp.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a>, 
-et Amélie le <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>.
+Julian, Alex, Evin, Lachlan, Sarah, Marianna et Amy ne savent pas quel rôle ils sont. 
+Evin se réveille chaque nuit et reçoit un pouce levé, mais ne sait pas pourquoi.
+Sarah se réveille chaque nuit pour choisir un joueur, mais ne sait pas pourquoi.
+Amy se réveille chaque nuit pour choisir un joueur, mais ne sait pas pourquoi.  
+Sarah est exécutée et apprend qu’elle est le <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> bon.  
+Lachlan, pensant qu’il pourrait être la <a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a>, déclare publiquement être la <a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a> et choisit Amy. Amy meurt.<br> Evin était le <a href="../roles_experimentaux/general.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Général</a>, 
+Lachlan était la <a href="../tb_roles/imp.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a>, 
+et Amy était le <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>.
 </p>
 
----
+
+<hr class="loric">
+
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
