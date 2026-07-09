@@ -12,7 +12,7 @@ image: /images/Icon_librarian.png
   </a>
 </p>
 
----
+<hr class="explication">
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -69,9 +69,12 @@ image: /images/Icon_librarian.png
   </a>
 </div>
 
----
+
 
 ##  <span style="color:blue">Résumé</span>  
+
+---
+
 
 **« Lors de votre première nuit, vous apprenez un rôle de Marginal en jeu parmi 2 joueurs (ou qu’aucun Marginal n’est en jeu).»** 
 
@@ -84,15 +87,15 @@ Il reçoit cette information une seule fois, et n’apprend rien d’autre.
 
 - ⚠️ L’[Ivrogne](ivrogne.md) est un Marginal. Si l’Archiviste apprend que l’un des deux joueurs est l’Ivrogne,<br> il n’apprend pas pour autant le rôle de Villageois que l’Ivrogne pense être.
 
----
+
 
 ##  <span style="color:blue">Comment Conter</span>  
 
+---
 
 <p class="botc-flavour-text dropcap">
 Instructions au Conteur
 </p>
-
 
 - Lors de la préparation de la première nuit, placez le jeton **MARGINAL** de l’Archiviste à côté du jeton de rôle d’un Marginal,<br> et placez le jeton **FAUSSE PISTE** de l’Archiviste à côté d’un autre jeton de rôle.
 
@@ -100,9 +103,11 @@ Instructions au Conteur
 Montrez à l’Archiviste le jeton de rôle associé au jeton **MARGINAL**.
 L’Archiviste se rendort. Retirez les jetons de l’Archiviste quand vous le souhaitez.
 
----
+
 
 ##  <span style="color:blue">Exemples</span>   
+
+---
 
 - **Cédric** est le [Saint](saint.md), et **Laura** est le [<span style="color:red">Baron</span>](baron.md).
 L'Archiviste apprend que soit Cédric ou Laura ou est le Saint.
@@ -114,9 +119,11 @@ Il n’y a pas d’autres Marginaux en jeu. L'Archiviste apprend le chiffre **«
 L'Archiviste apprend qu'Abdallah ou Doug est l’[Ivrogne](ivrogne.md).
 L’[Ivrogne](ivrogne.md) est le véritable rôle d'Abdallah, même s'il pense être le [Moine](moine.md). 
 
----
 
-##  <span style="color:blue">Astuces & Conseils</span>    
+
+##  <span style="color:blue">Astuces & Conseils</span>   
+
+---
 
 - Identifiez rapidement lequel des deux joueurs est le [Marginal](../glossaire.md#étranger).  
   Même si son pouvoir est parfois un handicap, il est toujours **bon** et donc un vote sûr.  
@@ -141,27 +148,42 @@ L’[Ivrogne](ivrogne.md) est le véritable rôle d'Abdallah, même s'il pense �
 - Partager vos infos librement donne confiance au joueur concerné, mais pas forcément à vous.  
   Trouvez un équilibre en échangeant partiellement, par exemple en proposant une **petite liste de rôles possibles**.  
 
----
 
-##  <span style="color:blue">Bluffer Archiviste</span>   
 
-- Vous êtes censé avoir reçu votre info la première nuit.  
-  Vous aurez donc « vu » deux joueurs et un jeton de [Marginal](../glossaire.md#étranger).  
-
-- Utilisez vos infos pour :  
-  - Faire passer un complice du Mal pour bon (ex. confirmer un [Saint](saint.md) ou une [Recluse](reclus.md)).  
-  - Renforcer la crédibilité d’un joueur du Bien, afin de mieux l’orienter plus tard.  
-  - Nommer deux bons joueurs comme « [Ivrogne](ivrogne.md) », ce qui sème le doute dans leurs infos.  
-  - Nommer un allié maléfique comme potentiel Ivrogne : s’il se contredit, ce n’est pas grave !  
-
-- Vous pouvez révéler très tôt quel Marginal est « en jeu », sans préciser qui.  
-  Cela permet :  
-  - qu’un joueur du Bien confirme vos dires,  
-  - ou qu’un joueur du Mal saute sur l’occasion pour bluffer.  
-
-- Si vous êtes [<span style="color:red">Espionne</span>](../tb_roles/espion.md), vos infos peuvent être exactes et renforcer encore votre crédibilité.  
+##  <span style="color:blue">Bluffer l'Archiviste</span>   
 
 ---
+
+**Lorsque vous bluffez l'Archiviste**, il y a quelques éléments à garder en tête :
+
+- Vous auriez reçu vos informations la première nuit, et devriez donc les avoir à partir de ce moment-là. 
+  On vous aurait montré deux joueurs et un jeton de [Marginal](../glossaire.md#étranger).  
+
+- Vous pouvez utiliser vos informations pour soutenir un autre joueur maléfique et le faire paraître bon. 
+  Cela rend sa revendication plus crédible, surtout s’il prétend être le [Saint](saint.md) ou la[Recluse](reclus.md)), 
+  et vous permet de travailler directement avec lui, puisque vous êtes tous les deux des « joueurs bons » qui se connaissent
+
+- Vous pouvez aussi utiliser vos informations pour soutenir un joueur bon. Un [Saint](saint.md) qui a du mal à être cru, 
+  ou un [Majordome](majordome.md) qui cherche   quelqu’un en qui avoir confiance, appréciera qu’un **Archiviste$$ le confirme, 
+  et sera plus enclin à vous faire confiance et à voter avec vous.
+
+- Nommer deux joueurs bons comme l'[Ivrogne](ivrogne.md) peut les amener à douter de leurs informations, ou affaiblir des rôles puissants comme le [Maire](maire.md). 
+  L’[Ivrogne](ivrogne.md) est une option très sûre, puisque les personnes que vous choisissez ne pourront pas confirmer vos informations, (du moins pendant un moment).
+
+- Vous pouvez aussi nommer l’un de vos alliés maléfiques comme [Ivrogne](ivrogne.md) potentiel. 
+  Ainsi, s’il rate son bluff, par exemple en donnant des informations incohérentes ou en mourant alors qu’il prétend être le [Soldat](soldat.md), 
+  ce n’est pas grave : il est évidemment simplement l’[Ivrogne](ivrogne.md)!
+
+- Pour montrer votre assurance, révélez très tôt dans la partie quel Marginal est « en jeu », mais ne nommez pas vos « joueurs ».
+  Cela peut pousser un joueur bon à confirmer vos informations, ou permettre à un joueur maléfique de se lancer dans un bluff si vous vous êtes trompé.
+
+- Si vous êtes l’[<span style="color:red">Espionne</span>](../tb_roles/espion.md), ou si vous avez accès à 
+  une [<span style="color:red">Espionne</span>](../tb_roles/espion.md), il peut être extrêmement précieux pour vous fournir des informations exactes,
+  afin d’appuyer votre histoire. 
+ 
+
+<hr class="explication">
+
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
