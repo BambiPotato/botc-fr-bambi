@@ -91,7 +91,7 @@ Instructions au Conteur
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Lors la mise en place, remplacez n’importe quels jetons de Villageois
 par des copies d’un jeton de rôle Villageois ou Marginal en jeu. <br>Vous pouvez le faire plusieurs fois.
-<br><br>
+</p>
   
 Lors de l’étape d' <strong>INFOS DÉMON</strong>, vous pouvez donner au Démon un, deux ou trois de ces jetons de rôle en double comme bluffs.
 </p>
