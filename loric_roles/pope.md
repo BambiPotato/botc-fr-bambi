@@ -107,8 +107,7 @@ Réfléchissez bien avant de donner au Démon des rôles en jeu comme bluffs. Ce
 ---
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>Doug</strong>, <strong>Ben</strong> et <strong>Sarah</strong> sont  
-<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathes</a>.
+<strong>Doug</strong>, <strong>Ben</strong> et <strong>Sarah</strong> sont <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathes</a>.<br>
 Doug apprend « 1 ». Ben apprend « 0 ». Sarah apprend « 2 ».
 <br><br>
 <strong>Noémie</strong> et <strong>Sandra</strong> ont le même rôle : 
