@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pape
-description: "Plusieurs joueurs peuvent avoir les mêmes rôles bons. Des rôles bons en jeu peuvent également être des bluffs."
+description: "Des rôles bons sont présents en plusieurs exemplaires. Ils peuvent également faire partie des bluffs."
 imagge: /images/Icon_pope.png
 ---
 
@@ -60,7 +60,7 @@ imagge: /images/Icon_pope.png
 
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
-« Plusieurs joueurs peuvent avoir les mêmes rôles bons. Des rôles bons en jeu peuvent également être des bluffs. »
+« Des rôles bons sont présents en plusieurs exemplaires. Ils peuvent également faire partie des bluffs. »
 </p>
 
 <p class="botc-flavour-text dropcap">
