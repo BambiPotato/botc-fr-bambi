@@ -111,14 +111,13 @@ Vous pouvez ajouter « <em>…sans dire ton objectif à qui que ce soit</em> » 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
 <strong>Alexandre</strong> est la <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a>.  
-Il reçoit l’objectif : « créer un Marginal maléfique ».  
-Alexandre transforme la <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> en <a href="../sv_roles/dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a>.  
-Il apprend alors que <strong>Louis</strong> est le <a href="../sv_roles/sage.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a> ivre.
+Il reçoit l’objectif « créer un Marginal maléfique ».
+Alexandre transforme la <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> en <a href="../sv_roles/dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a> et apprend  que <strong>Louis</strong> est le <a href="../sv_roles/sage.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a> ivre.
 
 <br><br>
 
-<strong>Emilien</strong> reçoit l’objectif « convaincre Sarah qu’elle est la <strong>aucune</strong> <a href="../roles_experimentaux/marionnette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> ».  
-La conteuse juge que Sarah est suffisamment confuse quant au fait d’être ou non la <strong>aucune</strong> <a href="../roles_experimentaux/marionnette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a>.
+<strong>Emilien</strong> reçoit l’objectif « convaincre Sarah qu’elle est la  <a href="../roles_experimentaux/marionnette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> ».  
+La conteuse juge que Sarah est suffisamment confuse quant au fait d’être ou non la  <a href="../roles_experimentaux/marionnette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a>.
 Emilien apprend qu’il n'y a pas de  <a href="../roles_experimentaux/marionnette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> en jeu.
 
 Pendant ce temps, <strong>Ben</strong> a l’objectif « nommer et exécuter un Sbire ».
