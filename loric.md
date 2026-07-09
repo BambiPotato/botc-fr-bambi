@@ -16,13 +16,13 @@ image: /images/Generic_loric.png
 <!--  Logo centré cliquable -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./loric.html" style="text-decoration:none;">
-    <img src="./images/Generic_loric.png" alt="Lorics" width="300" style="border-radius:12px;">
+    <img src="./images/Generic_loric.png" alt="Lorics" width="350" style="border-radius:12px;">
     <br>
     <span style="color:#7fd1ae; font-weight:bold; font-size:50px;">Loric</span>
   </a>
 </div>
 
-<hr class="explication">
+<hr class="loric">
 
 
 <style>
@@ -47,17 +47,17 @@ image: /images/Generic_loric.png
   line-height:1.6;
 ">
   <p style="font-weight:bold; color:#7fd1ae; margin-top:0; margin-bottom:8px;">
-    Lorics
+    Loric
   </p>
 
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
     <li><a href="#presentation" style="color:#f5f5f5; text-decoration:none;">Présentation</a></li>
     <li><a href="#comment-conter" style="color:#f5f5f5; text-decoration:none;">Comment conter</a></li>
-    <li><a href="#lorics" style="color:#f5f5f5; text-decoration:none;">Lorics</a></li>
+    <li><a href="#lorics" style="color:#f5f5f5; text-decoration:none;">Loric</a></li>
   </ul>
 
   <p style="font-weight:bold; color:#7fd1ae; margin:0 0 6px 0;">
-    Lorics
+    Loric
   </p>
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:0;">
     <li><a href="./loric_roles/stormcatcher.html" style="color:#7fd1ae; text-decoration:none;">Chasseur d'orages</a></li>
@@ -77,16 +77,20 @@ image: /images/Generic_loric.png
 
 ##  <span style="color:#7fd1ae;">Sommaire</span>
 
+---
+
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <a href="#presentation" style="color:#f5f5f5; font-weight:bold; text-decoration:none;"> Présentation</a><br>
   <a href="#comment-conter" style="color:#f5f5f5; font-weight:bold; text-decoration:none;"> Comment Conter</a><br>
   <a href="#lorics" style="color:#f5f5f5; font-weight:bold; text-decoration:none;"> Lorics</a>
 </p>
 
-<hr class="explication">
+
 
 
 ##  <span id="presentation" style="color:#7fd1ae;">Présentation</span>
+
+---
 
 <p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
   Les <strong>Loric</strong> sont des rôles conçus pour les Conteurs et Conteuses.  
@@ -100,10 +104,16 @@ image: /images/Generic_loric.png
   et renouveler l’intérêt comme l’intensité de la partie.
 </p>
 
-<hr class="explication">
+
 
 
 ##  <span id="comment-conter" style="color:#7fd1ae;">Comment Conter</span>
+
+---
+
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p>
 
 <p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
   Utilisez les Loric quand vous le souhaitez.  
@@ -127,18 +137,17 @@ image: /images/Generic_loric.png
 
 <p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>Les Loric ne peuvent ni mourir ni perdre leurs pouvoirs.</strong>  
-  Vous êtes conteur ou conteuse, pas joueur ou joueuse :  
-  vos Loric sont donc immunisés contre tous les effets du jeu, y compris la mort, l’ivresse et l’empoisonnement.
+  Vous êtes Conteur, pas joueur donc vos Loric sont donc immunisés contre tous les effets du jeu, y compris la mort, l’ivresse et l’empoisonnement.
 </p>
 
-<p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
   Comme les <strong>Voyageurs</strong> et les <strong>Légendaires</strong>,  
-  ils ne comptent jamais dans la condition de victoire  
-  « il ne reste que deux joueurs en vie » de l’équipe maléfique.
+  les <strong>Loric</strong> ne comptent pas comme des joueurs pour la condition de victoire 
+  de l’équipe maléfique lorsqu’il ne reste que « deux joueurs en vie ».
 </p>
 
 
-<hr class="explication">
+<hr class="loric">
 
 
 <!-- Cartes : grille responsive, plusieurs cartes par ligne -->
@@ -213,9 +222,9 @@ image: /images/Generic_loric.png
 
 </div>
 
-<hr class="explication">
+<hr class="loric">
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7; text-align:left; margin-top:10px;">
   <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li> <a href="./loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Lorics</a></li>
+  <li> <a href="./loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Catégorie : Loric</a></li>
 </ul>
