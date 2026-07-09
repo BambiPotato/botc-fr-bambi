@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fossoyeur
-description: Chaque nuit*, vous apprenez quel rôle est mort par exécution dans la journée.
+description: "Chaque nuit*, vous apprenez quel rôle est mort par exécution dans la journée."
 image: /images/Icon_undertaker.png
 ---
 
@@ -148,8 +148,8 @@ Deux Voyageurs sont exilés. Le Fossoyeur voit **[Majordome](majordome.md)**, ca
   donc chaque exécution est une occasion de toucher le Démon. 
   Si ce n’est pas le cas, vous arriverez au moins au dernier jour en sachant beaucoup plus de choses sur les autres joueurs et leurs rôles.
 
-- Vous n’apprenez pas l’identité des [<span style="color:#9b59b6;">Voyageurs</span>](../voyageurs/.md) : ils sont exilés, pas exécutés. 
-  La seule exception est le [<span style="color:#9b59b6;">Bouc émissaire</span>](../voyageurs/scapegoat.md),, puisqu’il est explicitement exécuté par sa capacité de rôle. 
+- Vous n’apprenez pas l’identité des [<span style="color:#9b59b6;">Voyageurs</span>](../voyageurs.md) : ils sont exilés, pas exécutés. 
+  La seule exception est le [<span style="color:#9b59b6;">Bouc émissaire</span>](../voyageurs/scapegoat.md), puisqu’il est explicitement exécuté par sa capacité de rôle. 
   Cependant, vous n’apprenez pas son alignement, seulement son rôle.
 
 - Exécuter quelqu’un dont vous ne connaissez pas l’identité peut renforcer votre revendication de **Fossoyeur**. 
