@@ -2,7 +2,7 @@
 layout: default
 title: Tor 
 description: "Les joueurs ne connaissent pas leur rôle ni leur alignement. Ils les apprennent lorsqu’ils meurent."
-image: 
+image: /images/Icon_tor.png
 ---
 
 <p align="left">
