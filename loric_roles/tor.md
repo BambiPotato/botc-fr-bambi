@@ -23,12 +23,12 @@ image:
 </div>
 
 
-
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
 « Avec le tonnerre pour voix et la foudre pour lame, moi, gardien éternel, <br>  je me repais des fous qui osent approcher la porte interdite. <br>  Contemplez mon objectif sacré ! <br> Purger le scarabée du ventre de la terre rocheuse, <br> l’emprisonner dans un filet d’étoiles, <br> au sommet de la colline où le ciel rencontre la terre. » 
 </p>
 
 <hr class="loric">
+
 
 ##  <span style="color:#7fd1ae;">Informations</span>
 
