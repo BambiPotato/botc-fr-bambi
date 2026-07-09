@@ -125,14 +125,15 @@ Dans d'autres modules, il peut y avoir plus d'une exécution par jour (auquel ca
 
 ---
 
-- Le [Maire](maire.md) est exécuté. La nuit, le Fossoyeur voit le jeton de **Maire**.  
+- Le [Maire](maire.md) est exécuté. La nuit, le Fossoyeur voit le jeton de **[Maire](maire.md)**.  
 
-- L’[Ivrogne](ivrogne.md), qui pensait être l' [Immaculée](vierge.md), est exécuté. Le Fossoyeur voit le jeton **Ivrogne**.  
+- L’[Ivrogne](ivrogne.md), qui pensait être l' [Immaculée](vierge.md), est exécuté. Le Fossoyeur voit le jeton **[Ivrogne](ivrogne.md)**.  
 
 - L’[<span style="color:red">Espionne</span>](../tb_roles/espion.md) est exécutée, mais elle s’enregistre comme [Majordome](majordome.md). 
-Deux Voyageurs sont exilés. Le Fossoyeur voit **Majordome**, car les voyageurs exiléss ne comptent pas.  
+Deux Voyageurs sont exilés. Le Fossoyeur voit **[Majordome](majordome.md)**, car les voyageurs exilés ne comptent pas.  
 
-- Personne n'a été exécuté aujourd'hui. Cette nuit-là, le Fossoyeur ne se réveillera pas.  
+- Personne n'a été exécuté aujourd'hui. Cette nuit-là, le **Fossoyeur** ne se réveillera pas.  
+
 
   
 
@@ -146,8 +147,8 @@ Deux Voyageurs sont exilés. Le Fossoyeur voit **Majordome**, car les voyageurs 
   donc chaque exécution est une occasion de toucher le Démon. 
   Si ce n’est pas le cas, vous arriverez au moins au dernier jour en sachant beaucoup plus de choses sur les autres joueurs et leurs rôles.
 
-- Vous n’apprenez pas l’identité des [Voyageurs](../voyageur.md) : ils sont exilés, pas exécutés. 
-  La seule exception est l [<span style="color:#9b59b6">Bouc émissaire</span>](../voyageurs/scapegoat.md),, puisqu’il est explicitement exécuté par sa capacité de rôle. 
+- Vous n’apprenez pas l’identité des [<span style="color:#9b59b6;">Voyageurs</span>](../voyageurs/.md) : ils sont exilés, pas exécutés. 
+  La seule exception est le [<span style="color:#9b59b6;">Bouc émissaire</span>](../voyageurs/scapegoat.md),, puisqu’il est explicitement exécuté par sa capacité de rôle. 
   Cependant, vous n’apprenez pas son alignement, seulement son rôle.
 
 - Exécuter quelqu’un dont vous ne connaissez pas l’identité peut renforcer votre revendication de **Fossoyeur**. 
@@ -186,6 +187,7 @@ afin que le [<span style="color:red">Diablotin</span>](imp.md) et l' [<span styl
   Elles s’enregistreront probablement auprès de vous comme des rôles bons et maléfiques respectivement, puisque leurs capacités continuent de fonctionner même lorsqu’ils sont morts.
 
 
+
 ##  <span style="color:blue;">Bluffer le Fossoyeur</span>   
 
 ---
@@ -206,7 +208,7 @@ N’hésitez pas à rester discret pendant un moment, ou même à prétendre êt
   C’est risqué, car le joueur concerné saura probablement que vous êtes maléfique, mais cela peut potentiellement faire gagner la partie, 
   puisque le reste du groupe ne saura pas que vous mentez. 
   Comme, la plupart du temps, davantage de joueurs bons seront exécutés que de joueurs maléfiques, utilisez cette technique avec parcimonie. 
-  Si vous voyez que l’on ne vous croit pas, vous pouvez toujours prétendre être l’Ivrogne ou avoir été empoisonné.
+  Si vous voyez que l’on ne vous croit pas, vous pouvez toujours prétendre être l’[Ivrogne](ivrogne.md) ou avoir été empoisonné.
 
 - Si un autre joueur maléfique meurt par exécution, vous pouvez sans risque prétendre qu’il est soit un rôle bon, soit un rôle maléfique. 
   - Si vous prétendez qu’il est un rôle bon, vous confirmez tous les deux vos histoires respectives, ce qui vous rend tous les deux plus crédibles. 
