@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Pape
+description: "Plusieurs joueurs peuvent avoir les mêmes rôles bons. Des rôles bons en jeu peuvent également être des bluffs."
+imagge: /images/Icon_pope.png
 ---
 
 <p align="left">
@@ -9,23 +11,28 @@ title: Pape
   </a>
 </p>
 
+
+<hr class="explication">
+
 <!-- Pope -->
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="./pope.html" style="text-decoration:none;">
-    <img src="../images/Icon_pope.png" alt="Pape" width="260" style="border-radius:12px;">
+    <img src="../images/Icon_pope.png" alt="Pape" width="300" style="border-radius:12px;">
     <br>
-    <span style="color:#7fd1ae; font-weight:bold; font-size:22px;">Pape</span>
+    <span style="color:#7fd1ae; font-weight:bold; font-size:50px;">Pape</span>
   </a>
 </div>
 
-# <span style="color:#7fd1ae; font-weight:bold; font-size:18px;">Pape</span>
+
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « ...Pulcherrimae. »
 </p>
 
----
+
+<hr class="loric">
+
 
 ##  <span style="color:#7fd1ae;">Informations</span>
 
@@ -43,57 +50,66 @@ title: Pape
   </li>
 </ul>
 
----
+<hr class="loric">
+
 
 ## <span style="color:#7fd1ae;">Résumé</span>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>Il y a des rôles <span style="color:#4ea3ff; font-weight:bold;">bons</span> dupliqués en jeu. Ils peuvent aussi être des bluffs.</strong>
+
+<hr class="loric">
+
+
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
+« Plusieurs joueurs peuvent avoir les mêmes rôles bons. Des rôles bons en jeu peuvent également être des bluffs. »
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Pape</strong> crée des revendications de rôles bons dupliqués.
+<p class="botc-flavour-text dropcap">
+Le <strong>Pape</strong> crée des revendications de rôles en double..
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> ou un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a>, ou les deux, peuvent avoir plusieurs exemplaires dupliqués en jeu.</li>
-  <li>Il peut n’y avoir qu’un seul rôle dupliqué, ou plusieurs rôles dupliqués.</li>
-  <li>Il peut y avoir deux exemplaires d’un même rôle, ou autant que le Conteur dispose de jetons pour les représenter.</li>
-  <li>Ces rôles dupliqués peuvent faire partie des trois bluffs donnés au <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.</li>
-  <li>Le Conteur aura besoin de plusieurs exemplaires du jeu, ou au minimum d’un moyen d’utiliser des jetons de rôles strictement identiques, pour compter ce Loric… pour le moment.</li>
-  <li>Des <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a> dupliqués peuvent entraîner un nombre inhabituel d’Étrangers.</li>
-  <li>Des <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> dupliqués n’augmentent pas le nombre de Villageois.</li>
+  <li>Un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> ou un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginalr</a>, ou les deux, sont plusieurs copies en jeu.</li>
+  <li>Il peut y avoir un seul rôle qui a plusieurs copies en jeu, ou plusieurs rôles qui ont plusieurs copies en jeu.</li>
+  <li>Il peut y avoir 2 rôles identiques, ou autant que le Conteur a de jetons pour les gérer.</li>
+  <li>Ces rôles peuvent faire partie des 3 bluffs donnés au <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.</li>
+  <li>Le Conteur aura besoin de plusieurs copies du jeu, ou au moins d’un moyen d’accéder à des jetons de rôle identiques, afin de faire jouer ce rôle… pour l’instant.</li>
+  <li>Des rôles <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a> en double peuvent entraîner un nombre inhabituel de Marginaux</li>
+  <li>Des rôles <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> en double ne devraient pas augmenter le nombre de Villageois.</li>
 </ul>
 
----
+
+
 
 ##  <span style="color:#7fd1ae;">Comment Conter</span>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Pendant la mise en place, remplacez n’importe quels jetons de 
-<a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> 
-par des jetons dupliqués d’un rôle (en jeu) de 
-<a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> 
-ou d’<a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a>.  
-Vous pouvez le faire plusieurs fois.
-<br><br>
-Pendant l’étape <strong>INFOS DÉMON</strong>, vous pouvez donner au 
-<a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> 
-un, deux ou trois de ces jetons de rôles dupliqués en tant que bluffs.
-<br><br>
-Réfléchissez attentivement avant de donner au 
-<a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> 
-des rôles réellement en jeu : certains rôles peuvent rendre la partie trop difficile pour l’équipe maléfique.
+---
+
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
 </p>
 
----
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+Lors la mise en place, remplacez n’importe quels jetons de Villageois
+par des copies d’un jeton de rôle Villageois ou Marginal en jeu. <br>Vous pouvez le faire plusieurs fois.
+<br><br>
+  
+Lors de l’étape d' <strong>INFOS DÉMON</strong>, vous pouvez donner au Démon un, deux ou trois de ces jetons de rôle en double comme bluffs.
+</p>
+
+<div class="botc-note">
+Réfléchissez bien avant de donner au Démon des rôles en jeu comme bluffs. Certains rôles peuvent rendre la partie trop difficile pour l’équipe maléfique.
+</div>
+
+
 
 ##  <span style="color:#7fd1ae;">Exemples</span>
 
+---
+
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>Cédric</strong>, <strong>Nicolas</strong> et <strong>Céline</strong> sont  
+<strong>Doug</strong>, <strong>Ben</strong> et <strong>Sarah</strong> sont  
 <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathes</a>.<br>
-Cédric apprend « 1 ». Nicolas apprend « 0 ». Céline apprend « 2 ».
+Doug apprend « 1 ». Ben apprend « 0 ». Sarah apprend « 2 ».
 <br><br>
 <strong>Noémie</strong> et <strong>Sandra</strong> ont le même rôle : 
 <a href="../roles_experimentaux/general.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Général</a>.<br>
@@ -105,13 +121,15 @@ et pense être le rôle de
 <a href="../roles_experimentaux/zealot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Zélotes</a>, 
 et <strong>Maria</strong> est le 
 <a href="../roles_experimentaux/xaan.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Xaan</a> 
-qui bluffe 
+qui bluffe le 
 <a href="../roles_experimentaux/zealot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Zélote</a>.
 </p>
 
----
+
+<hr class="loric">
+
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  <a href="../loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Catégorie : Lorics</a>
+  <a href="../loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Catégorie : Loric</a>
 </p>
