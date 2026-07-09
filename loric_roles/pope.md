@@ -68,7 +68,7 @@ Le <strong>Pape</strong> crée des revendications de rôles en double.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> ou un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginalr</a>, ou les deux, sont plusieurs copies en jeu.</li>
+  <li>Un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> ou un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a>, ou les deux, ont plusieurs copies en jeu.</li>
   <li>Il peut y avoir un seul rôle qui a plusieurs copies en jeu, ou plusieurs rôles qui ont plusieurs copies en jeu.</li>
   <li>Il peut y avoir 2 rôles identiques, ou autant que le Conteur a de jetons pour les gérer.</li>
   <li>Ces rôles peuvent faire partie des 3 bluffs donnés au <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.</li>
