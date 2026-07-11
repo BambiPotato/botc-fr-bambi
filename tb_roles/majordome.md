@@ -200,7 +200,7 @@ Si le Majordome vote par erreur, comptez tout de même son vote. <br> Sinon, le 
 ---
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>Lorsque vous bluffez en Majordome,</strong> il y a quelques éléments à garder en tête:
+  <strong>Lorsque vous bluffez le Majordome,</strong> il y a quelques éléments à garder en tête:
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
