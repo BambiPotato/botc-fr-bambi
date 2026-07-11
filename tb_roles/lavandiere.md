@@ -183,14 +183,14 @@ Instructions au Conteur
   </li>
 </ul>
 
-<hr>
+
 
 <h3 style="color:#6fa8ff; font-weight:bold;"> Bluffer la Lavandière</h3>
 
 ---
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>Lorsque vous bluffez en <a href="./lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>,</strong> il y a quelques éléments à garder en tête:
+  <strong>Lorsque vous bluffez la  <a href="./lavandiere.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Lavandière</a>,</strong> il y a quelques éléments à garder en tête:
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
@@ -201,7 +201,7 @@ Instructions au Conteur
   </li>
 
   <li style="margin-bottom:14px;">
-    Revendiquez la <a href="./lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> et désignez au moins un joueur maléfique.<br>
+    Revendiquez la <a href="./lavandiere.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Lavandière</a> et désignez au moins un joueur maléfique.<br>
     Ensuite, nommez le rôle <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> (de préférence un rôle que vous soupçonnez/savez ne pas être en jeu).<br>
     Si ce joueur maléfique est malin, il peut comprendre que vous essayez de le faire paraître bon, et revendiquer ce <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>.<br>
     Par exemple, si vous désignez le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> et un joueur bon au hasard, et dites que l’un d’eux est le <a href="./moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a>, alors le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> peut prétendre être le <a href="./moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a>, ce qui vous fait paraître bons tous les deux.
