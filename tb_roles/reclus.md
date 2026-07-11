@@ -75,7 +75,9 @@ image: /images/Icon_recluse-1.png
 
 <hr class="explication"> 
 
+
 ##  <span style="color:blue">Résumé</span>
+
 
 <hr class="explication"> 
 
