@@ -12,7 +12,7 @@ image: /images/Icon_spy.png
   </a>
 </p>
 
----
+<hr class="explication">
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -73,9 +73,11 @@ Mais saurez-vous laquelle ? »
 </p>
 
 
----
 
 ##  <span style="color:red">Résumé</span>
+
+---
+
 **« Chaque nuit, vous voyez le Grimoire. Vous pourriez apparaître comme bonne et comme Villageois ou Marginal, même morte. »**
 
 <p class="botc-flavour-text dropcap">
@@ -94,14 +96,15 @@ L’ESPIONNE connaît tous les rôles. Elle-même apparaît comme bonne, mais le
   
 - Le Conteur choisit à chaque cas comment l’Espionne est perçue par les capacités d’information.
 
----
+
 
 ##  <span style="color:red">Comment Conter</span>
+
+---
 
 <p class="botc-flavour-text dropcap">
 Instructions au Conteur
 </p>
-
 
 - Chaque nuit, **réveillez l’Espionne** et montrez-lui le **Grimoire complet** aussi longtemps qu’elle le souhaite.  
 - Chaque fois que l'Espionne est ciblée par une capacité qui détecte ou affecte les rôles bons, choisissez le rôle et l'alignement<br>
@@ -115,9 +118,10 @@ puisse facilement voir qui est qui.
 </div>
 
 
----
 
 ##  <span style="color:red">Exemples</span>
+
+---
 
 - La **[Lavandière](../tb_roles/lavandiere.md)** apprend que **Claire** ou **Nicolas** est **[Corneille](../tb_roles/gardien.md)**. 
    En réalité, Claire est **[Moine](../tb_roles/moine.md)**, **Nicolas** est **Espionne**, enregistré comme [Corneille](../tb_roles/gardien.md).  
@@ -127,41 +131,76 @@ puisse facilement voir qui est qui.
 - L’Espionne nomme la **[Immaculée](../tb_roles/vierge.md)** et est exécuté par sa capacité, car il s’enregistre comme Villageois.  
   Cette nuit-là, le **[Fossoyeur](../tb_roles/croquemort.md)** apprend que l’**[Ivrogne](../tb_roles/ivrogne.md)** est mort — car l’Espionne s’est enregistrée comme Ivrogne.
 
----
+
 
 ## <span style="color:red">Conseils & Astuces</span> 
 
-- **Mémorisez bien** le Grimoire : vous savez tout dès le début (rôles en jeu, alignements, statuts).  
-- Notez surtout :  
-  - Les rôles non utilisés sont parfaits pour **vos bluffs**.  
-  - Les cibles prioritaires à éliminer (**[Voyante](../tb_roles/voyante.md)**, **[Fossoyeur](../tb_roles/croquemort.md)**, **[Corneille](../tb_roles/gardien.md)**, etc.).  
-  - Les cibles à éviter (**[Soldat](../tb_roles/soldat.md)**, **[Moine](../tb_roles/moine.md)**).  
-- **Bluffer est facile** : vous savez quels rôles ne sont pas en jeu. Choisissez-en un crédible.  
-- Vous pouvez vous faire passer pour un rôle à informations (**[Lavandière](../tb_roles/lavandiere.md)**, **[Archiviste](../tb_roles/bibliothecaire.md)**, **[Détective](../tb_roles/enqueteur.md)**) et donner de fausses pistes.  
-- **Coordonnez-vous avec le Démon et les autres Sbires** pour indiquer les bonnes cibles.  
-- Vous pouvez même vous **sacrifier volontairement** sur une **[Immaculée](../tb_roles/vierge.md)** pour donner confiance à l’équipe.  
-- Vous serez souvent « vu comme bon » par un **[Empathe](../villageois/empathique.md)** ou un **[Cuisinier](../tb_roles/cuistot.md)**, ce qui vous aide à infiltrer le groupe.  
-
 ---
+
+- Si vous lisez ceci après avoir tout juste pioché le jeton de l’Espionne, ce conseil ne vous aidera pas, mais si vous êtes sur le point de jouer votre première partie, demandez à votre Conteur de vous montrer un exemple de grimoire, afin d’être prêt lorsqu’il vous réveillera.
+
+- Si votre mémoire est bonne, vous commencez la partie en sachant tout ! Tous les rôles en jeu et qui les possède seront disposés dans le Grimoire. <br>  Utilisez ces informations pour aider l’équipe maléfique à choisir de bons bluffs et à éliminer les cibles prioritaires.
+
+- Il n’est pas nécessaire de tout mémoriser. Parmi les choses importantes à retenir, il peut y avoir:
+  - Un rôle qui n’est pas en jeu, pour que vous puissiez le bluffer (peut-être même plusieurs, si vous avez l’occasion de parler à un autre Sbire), ainsi que toutes les informations dont vous pourriez avoir besoin pour soutenir votre bluff.
+- Quelques personnes que le [<span style="color:red">Diablotin</span>](imp.md) devrait tuer ou que votre [<span style="color:red">Empoisonneur</span>](empoisonneur.md) devrait empoisonner, comme la [Pourfendeuse](mercenaire.md) ou le [Fossoyeur](croquemort.md).
+- Quelques personnes que le [<span style="color:red">Diablotin</span>](imp.md) ne devrait surtout pas tuer, comme la [Corneille](gardien.md) ou le [Soldat](soldaat.md)
+- Tous les jetons de rappel que vous pensez importants
+
+- Prenez votre temps ! Le Conteur vous montrera le Grimoire aussi longtemps que nécessaire.
+
+- Dans le Grimoire, vous verrez non seulement qui est qui, mais aussi les jetons de rappel du Conteur. Ils vous permettront d’identifier qui est l’[Ivrogne](ivrogne.md), qui votre [<span style="color:red">Empoisonneur</span>](empoisonneur.md) a ciblé, qui est le **Leurre** rouge de la [Voyante](voyante.md), qui le Démon a tué, sur qui la [Lavandière](../tb_roles/lavandiere.md)/l’[Archiviste](../tb_roles/bibliothecaire.md) obtient son information, et l’alignement de tous les Voyageurs. <br>Souvenez-vous que vous pouvez être considéré comme bon pour une [Lavandière](lavandiere.md) ou un [Archiviste](../tb_roles/bibliothecaire.md) ; si vous voyez cela dans le Grimoire, vous pouvez vous appuyer sur ce bluff dès le début.
+
+- Choisir un bon bluff pour vous-même est facile, puisque vous connaissez tous les rôles qui ne sont pas en jeu.
+
+- Vous avez aussi accès à des informations difficiles à deviner ou à obtenir en tant que joueur maléfique, comme les rôles des joueurs. <br> Cela fait de vous une [Lavandière](lavandiere.md), un [Fossoyeur](croquemort.md) ou une [Corneille](gardien.md)  particulièrement redoutable, puisque tous ces rôles apprennent ce genre d’informations.<br>  Vous pouvez gagner la confiance des joueurs bons en étant capable de nommer leur rôle, surtout s’ils ne se sont pas encore révélés, ou s’ils bluffent autre chose.
+
+- Bluffer l'[Archiviste](../tb_roles/bibliothecaire.md) ou le [Détective](enqueteur.md) et choisir des rôles puissants (comme l’[Empathe](empathique.md), la [Corneille](gardien.md) ou le [Maire](maire.md) ) pour les désigner comme l’[Ivrogne](ivrogne.md) ou comme un Sbire maléfique vous permettra de les affaiblir. <br>  En tant qu’Espionne, vous pouvez faire cela avant qu’ils se révèlent, ce qui rend votre revendication plus crédible que si d’autres joueurs maléfiques faisaient le même type de bluff.
+
+- Vous pouvez soutenir votre Démon et les autres Sbires (comme l’[<span style="color:red">Empoisonneur</span>](empoisonneur.md) ) en leur donnant secrètement des rôles puissants à cibler dès le début, afin de les neutraliser avant qu’ils ne représentent une menace sérieuse pour l’équipe maléfique.  <br> En général, vous aurez envie d’avoir beaucoup de conversations secrètes avec vos alliés maléfiques pour leur communiquer les informations que vous possédez ; préparez un alibi solide pour expliquer pourquoi vous chuchotiez.
+
+- Vous serez généralement considéré comme un joueur bon par des rôles comme l’[Empathe](empathique.md), le [Cuisinier](cuistot.md) et le [Fossoyeur](croquemort.md). Grâce à cela, vous pourrez gagner la confiance des joueurs bons beaucoup plus facilement que les autres rôles maléfiques. Cela fait aussi de vous un excellent candidat pour devenir le Démon en fin de partie. Encouragez le [<span style="color:red">Diablotin</span>](imp.md)  à vous transmettre son statut de Démon une fois que vous êtes bien installé !
+
+- Vous êtes le seul joueur maléfique qui peut activer la capacité de l' [Immaculée](vierge.md). Les joueurs qui meurent de cette façon sont généralement les rôles les plus fiables de la partie. Donner volontairement de fausses informations puis vous sacrifier sur une [Immaculée](vierge.md) peut vous donner une plateforme pour semer la confusion et tromper l’équipe du Bien. <br> De même, si vous savez qu’un [Fossoyeur](croquemort.md) est en jeu, vous pouvez vous laisser exécuter, afin que lorsqu’il vous considère comme bon, il vous fasse confiance ainsi qu’à vos informations. Cela peut aussi être un excellent moyen de détourner une exécution indésirable (par exemple, celle de votre Démon) - vous mourrez et votre exécution prendra le dessus sur le vote existant.
+
+- L’Espionne est particulièrement efficace pour les bluffs qui nécessitent plus d’un joueur. Par exemple, vous pouvez prétendre être la [Lavandière](lavandiere/md), l’[Archiviste](../tb_roles/bibliothecaire.md) ou la [Corneille](gardien.md) et soutenir la revendication de rôle de votre Démon. (Vous devriez probablement prévenir votre Démon que vous allez faire cela !)
+
+- Vous serez souvent considéré comme bon, ce qui est excellent si vous êtes assis près d’un [Empathe](empathique.md), ou si un [Cuisinier](cusitot.md) est en jeu. Cela vous aidera à atteindre votre objectif : infiltrer l’équipe du Bien et gagner sa confiance.
+
+- Vous pouvez signaler des bluffs possibles aux autres joueurs maléfiques, sans avoir besoin d’avoir une conversation privée avec eux. Comme parler d’“étoiles” ou de “joyaux” pour faire savoir à un partenaire que vous êtes fort en carreau dans une partie de bridge, vous pouvez utiliser des subtilités de langage pour indiquer à vos alliés quels rôles ils peuvent bluffer. Ou, parfois, vous pouvez simplement leur dire directement. Par exemple, si vous dites publiquement, *“Je ne dirai pas qui, mais quelqu’un m’a dit que David est le [Moine](moine.md)”*, alors David pourrait comprendre ce que vous faites, et commencer à bluffer en Moine.
+
+- Assurez-vous que le Conteur sait ce que vous prétendez être - cela lui permettra de soutenir votre bluff auprès des autres joueurs. Par exemple, si vous bluffez en [Majordome](majordome.md) et que vous êtes exécuté, le Conteur saura qu’il doit montrer le jeton du [Majordome](majordome.md) au [Fossoyeur](croquemort.md).
+
+- Vous ne serez pas toujours considéré comme bon. Parfois, le village vous verra comme maléfique - et ce n’est pas grave ! La dernière chose que vous voulez, c’est que votre Démon soit exécuté parce que l’on vous fait trop confiance.
+
+
+
 
 ##  <span style="color:red">Combattre l’Espionne</span> 
 
-- Si le Mal **tue vite les bons rôles clés**, c’est peut-être grâce à l’Espionne.  
-- **Supposez que le Mal sait tout** et coordonnez vos infos au lieu de garder des secrets.  
-- Attention aux joueurs trop à l’aise pour bluffer des rôles d’information comme **Lavandière** ou **Corneille**.  
-- Les lectures incohérentes d’un **Empathique** ou d'un **Cuistot** peuvent signaler la présence d’un Espion.  
-- Les **Voyageurs** et des rôles comme le **[Fossoyeur](croquemort.md)** peuvent aussi dévoiler qu’un joueur est Espionne mais méfiez-vous, car le Conteur peut volontairement semer la confusion.
-
 ---
 
-##  <span style="color:red">Stratégie pour l'Espionne</span>   
-- Vous pouvez avoir un **Excellent bluff** car vous savez exactement quels rôles sont disponibles.  
-- Prétendre être vu comme « bonne » par un rôle d’info (ex :**[<span style="color:blue">Empathe</span>](empathique.md)**) est crédible.  
-- Prétendre être une **Marginale** peut masquer la présence d’un **[<span style="color:red">Baron</span>](baron.md)**.  
-- Restez cohérent avec vos alliés Sbires et Démon : partagez vos bluffs potentiels en privé… ou subtilement en public.  
-- Le Conteur **confirmera vos bluffs** si vous êtes exécuté et qu’un **[Fossoyeur](croquemort.md)** reçoit le rôle que vous bluffiez. 
+- Détecter l’Espionne est la première étape pour combattre l’Espionne. <br> Par exemple, les morts causées par le Démon peuvent être un peu trop efficaces. <br> Si votre [Voyante](voyante.md) et votre [Pourfendeuse](mercenaire.md) meurent rapidement alors que votre [Corneille](gardien.md) et votre [Soldat](soladat.md) restent intacts, c’est un signe que le Démon en sait plus qu’il ne devrait.
 
----
+- Si vous soupçonnez une Espionne, vous devriez partir du principe que l’équipe maléfique sait tout, ce qui signifie qu’il est maintenant dans l’intérêt de l’équipe du Bien de tout partager. Cela vous permettra de vous coordonner plus efficacement, tout en piégeant les joueurs maléfiques qui n’avaient pas complètement préparé leur bluff.
+
+- Faites attention aux joueurs qui passent beaucoup de temps à chuchoter ensemble, en particulier le premier jour ; même si ce n’est pas toujours une Espionne et son Démon, ils ont souvent plus de choses à se dire que deux joueurs moyens.
+
+- Si vous êtes l'[Immaculée](vierge.md), le [Fossoyeur](croquemort.md) ou la [Corneille](gardien.md), méfiez-vous des joueurs qui semblent trop pressés de mourir et de prouver qui ils sont. Comme l’Espionne peut être considérée comme bonne, cela peut être sa tentative de se glisser dans vos bonnes grâces.
+
+- L’Espionne est particulièrement douée pour bluffer des rôles comme la [Lavandière](lavandiere.md) ou la [Corneille](gardien.md), car ces rôles détectent des informations qui ne sont généralement pas disponibles pour l’équipe maléfique tant que ces joueurs ne se sont pas révélés. <br> Si vous soupçonnez une Espionne, gardez un œil attentif sur toute personne prétendant être l’un de ces rôles.
+
+- Les rôles qui détectent l’alignement, comme l’[Empathe](mapahtique.md) ou le [Cuisinier](cuistot.md), peuvent obtenir des informations qui semblent incohérentes. Cela peut parfois indiquer que l’Espionne fausse les nombres en étant considérée comme bonne.
+
+- L’Espionne saura si elle a été vue par la [Lavandière](lavandiere.md) ou l’[Archiviste](../tb_roles/bibliothecaire.md) comme un joueur bon, mais elle ne saura pas le rôle. <br> Si l’un de ces rôles prétend avoir vu un rôle qu’aucune des deux personnes vues ne revendique, peut-être qu’une Espionne a été mal considérée pour eux. Cela peut être particulièrement important si l’[Archiviste](../tb_roles/bibliothecaire.md) a vu un Marginal et que l’une des personnes vues prétend être un autre Marginal - peut-être que l’Espionne a tenté sa chance sur une possibilité parmi quatre, et s’est trompée.
+
+- Un [Fossoyeur](croquemort.md) ou une [Corneille](gardien.md) peut apprendre qu’un joueur est en réalité l’Espionne. C’est généralement un mensonge du Conteur et cela devrait être considéré avec méfiance.
+
+- Le [<span style="color:red">Diablotin</span>](imp.md) est plus susceptible de se tuer lui-même et de transmettre son statut de Démon si une Espionne est en jeu, grâce à la capacité de l’Espionne à s’intégrer au village. Méfiez-vous des morts nocturnes qui n’ont pas de sens.
+
+
+<hr class="explication">
+
 
 ## 🧞 <span style="color:#d4a76a">Jinxes liés</span>
 
@@ -214,7 +253,7 @@ puisse facilement voir qui est qui.
   </ul>
 
 
----
+<hr class="explication">
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
