@@ -11,7 +11,7 @@ image: /images/Icon_washerwoman.png
   </a>
 </p>
 
-<hr>
+<hr class="explication">
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin:20px 0;">
@@ -56,11 +56,13 @@ image: /images/Icon_washerwoman.png
   </a>
 </div>
 
+<hr class="explication">
 
 
 <h3 style="color:#6fa8ff; font-weight:bold;"> Résumé</h3>
 
----
+
+<hr class="explication">
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Lors de votre première nuit, vous apprenez un rôle de 
