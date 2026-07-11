@@ -56,9 +56,11 @@ image: /images/Icon_washerwoman.png
   </a>
 </div>
 
-<hr>
+
 
 <h3 style="color:#6fa8ff; font-weight:bold;"> Résumé</h3>
+
+---
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Lors de votre première nuit, vous apprenez un rôle de 
@@ -75,9 +77,11 @@ image: /images/Icon_washerwoman.png
   <li>Elle reçoit cette information une seule fois, et n’apprend rien d’autre.</li>
 </ul>
 
-<hr>
+
 
 <h3 style="color:#6fa8ff; font-weight:bold;"> Comment conter</h3>
+
+---
 
 <p class="botc-flavour-text dropcap">
 Instructions au Conteur
@@ -103,9 +107,11 @@ Instructions au Conteur
   <li>Conseil au Conteur : Retirez ses jetons de rappel dès que possible pour éviter la confusion ou lorsque cela vous convient.</li>
 </ul>
 
-<hr>
+
 
 <h3 style="color:#6fa8ff; font-weight:bold;"> Exemples</h3>
+
+---
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li><strong>Cédric</strong> est
@@ -138,9 +144,11 @@ Instructions au Conteur
   </li>
 </ul>
 
-<hr>
 
-<h3 style="color:#6fa8ff; font-weight:bold;"> Astuces & Stratégies</h3>
+
+<h3 style="color:#6fa8ff; font-weight:bold;"> Conseils & Astuces </h3>
+
+---
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>La Lavandière est <strong>puissante en discrétion</strong> : elle ne désigne pas les maléfiques, mais peut confirmer l’identité d’un joueur bon.</li>
@@ -175,32 +183,53 @@ Instructions au Conteur
 
 <hr>
 
-<h3 style="color:#6fa8ff; font-weight:bold;"> Bluffer Lavandière</h3>
+<h3 style="color:#6fa8ff; font-weight:bold;"> Bluffer la Lavandière</h3>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li>Vos infos arrivent <strong>dès la première nuit</strong> : deux joueurs et un jeton
-    <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>.
+---
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+  <strong>Lorsque vous bluffez en <a href="./lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>,</strong> il y a quelques éléments à garder en tête:
+</p>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
+
+  <li style="margin-bottom:14px;">
+    Vous auriez reçu vos informations la première nuit, et devriez donc les avoir à partir de ce moment-là.<br>
+    On vous aurait montré deux joueurs et un jeton de <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>.
   </li>
-  <li>Désignez un joueur maléfique (par exemple un
-    <a href="../glossaire.html#sbire" style="color:#c45959; font-weight:bold; text-decoration:none;">Sbire</a>)
-    et dites qu’il est un
-    <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a> vu.
+
+  <li style="margin-bottom:14px;">
+    Revendiquez la <a href="./lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> et désignez au moins un joueur maléfique.<br>
+    Ensuite, nommez le rôle <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> (de préférence un rôle que vous soupçonnez/savez ne pas être en jeu).<br>
+    Si ce joueur maléfique est malin, il peut comprendre que vous essayez de le faire paraître bon, et revendiquer ce <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>.<br>
+    Par exemple, si vous désignez le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> et un joueur bon au hasard, et dites que l’un d’eux est le <a href="./moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a>, alors le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> peut prétendre être le <a href="./moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a>, ce qui vous fait paraître bons tous les deux.
   </li>
-  <li>Si un joueur bon affirme être ce rôle, vous pouvez « confirmer » son identité et ainsi le tromper.</li>
-  <li>Vous pouvez annoncer un rôle inexistant et, si c’est faux, dire que vous êtes l'
-    <a href="./ivrogne.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Ivrogne</a>
-    ou empoisonné.
+
+  <li style="margin-bottom:14px;">
+    Si un joueur bon revendique un rôle <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> en particulier, vous pouvez revendiquer la <a href="./lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>, et confirmer qu’il est bien qui il dit être.<br>
+    Cela peut l’aider à vous faire confiance, et vous permettre de l’égarer avec ses propres informations.
   </li>
-  <li>En tant qu’
-    <a href="./espion.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Espionne</a>
-    (ou allié d’une
-    <a href="./espion.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Espionne</a>), vous savez quels rôles sont vraiment en jeu.
+
+  <li style="margin-bottom:14px;">
+    Dès votre réveil, dites au groupe qu’un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> en particulier est en jeu.<br>
+    Croisez les doigts et espérez avoir raison !<br>
+    Si c’est le cas, parfait.<br>
+    Sinon, un joueur maléfique peut bluffer le <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> que vous avez affirmé être en jeu.
   </li>
-  <li>C'est un bluff risqué : si le rôle que vous donnez n’est pas en jeu, votre couverture tombe vite.</li>
+
+  <li style="margin-bottom:14px;">
+    La <a href="./lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> peut être un bluff difficile, parce que parfois le <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> que vous dites être en jeu ne l’est pas.<br>
+    Si cela arrive, vous pouvez toujours prétendre être l’<a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> ou avoir été empoisonné.<br>
+    Une autre option est de dire que <a href="./lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> était un bluff, et que vous êtes en réalité un rôle plus puissant plus tard dans la partie, comme la <a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a> ou le <a href="./croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a>, et que vous essayiez de ressembler à un rôle qui a déjà utilisé sa capacité afin que le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> ne vous attaque pas.
+  </li>
+
+  <li style="margin-bottom:14px;">
+    Si vous êtes l’<a href="./espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a> ou avez accès à une <a href="./espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a>, elle peut être extrêmement précieuse pour vous fournir des informations exactes afin de soutenir votre histoire.
+  </li>
+
 </ul>
 
-<hr>
-
+<hr class="explication">
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
