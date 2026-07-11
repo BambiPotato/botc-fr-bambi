@@ -71,8 +71,6 @@ image: /images/Icon_recluse-1.png
   </a>
 </div>
 
-
-
 <hr class="explication"> 
 
 
@@ -80,7 +78,6 @@ image: /images/Icon_recluse-1.png
 
 
 <hr class="explication"> 
-
 
 « **Vous pourriez apparaître comme maléfique et comme Sbire ou Démon, même morte.** » 
 
