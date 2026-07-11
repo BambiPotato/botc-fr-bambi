@@ -75,9 +75,7 @@ image: /images/Icon_recluse-1.png
 
 <hr class="explication"> 
 
-
 ##  <span style="color:blue">Résumé</span>
-
 
 <hr class="explication"> 
 
@@ -231,7 +229,6 @@ Instructions au Conteur
 </ul>
 
 <hr class="explication"> 
-
 
 ## 🧞 <span style="color:#d4a76a">Jinxes liés</span>
 
