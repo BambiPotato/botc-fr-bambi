@@ -144,7 +144,8 @@ Pour plus d'information se référez à la page dédiée au <strong>[<span style
 - Lachlan est la Femme écarlate. La [Voyante](voyante.md) choisit Lachlan et Sarah et apprend un « non ». 
   - Plus tard, le [<span style="color:red">Diablotin</span>](imp.md) meurt et Lachlan devient le [<span style="color:red">Diablotin</span>](imp.md). 
   - La [Voyante](voyante.md) choisit à nouveau Lachlan et Sarah, et apprend un **« oui »**.
----
+  
+
 
 ##  <span style="color:red">Conseils & Astuces</span>   
 
