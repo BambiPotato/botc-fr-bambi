@@ -182,7 +182,7 @@ Si le Majordome vote par erreur, comptez tout de même son vote. <br> Sinon, le 
   <li style="margin-bottom:14px;">
     Vous pouvez choisir un joueur mort comme votre Maître.<br>
     Parfois, vous le ferez sans le vouloir, si vous et le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> choisissez le même joueur.<br>
-    Si cela arrive, vous pourriez avoir du mal à voter ce jour-là, mais si vous savez que demain sera le dernier jour, il peut être utile de lier votre vote à celui de quelqu’un en qui vous avez confiance pour voter contre le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> - peut-être l’<a href="./archiviste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Archiviste</a> qui vous a vu, ou bien la <a href="./vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Immaculée</a> que vous savez tous être bonne ?
+    Si cela arrive, vous pourriez avoir du mal à voter ce jour-là, mais si vous savez que demain sera le dernier jour, il peut être utile de lier votre vote à celui de quelqu’un en qui vous avez confiance pour voter contre le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> - peut-être l’<a href="./archiviste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Archiviste</a> qui vous a vu, ou bien l' <a href="./vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Immaculée</a> que vous savez tous être bonne ?
   </li>
 
   <li style="margin-bottom:14px;">
