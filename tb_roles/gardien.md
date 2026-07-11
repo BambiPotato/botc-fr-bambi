@@ -73,12 +73,13 @@ Volez au manoir ! Volez à la rivière ! <br>
 Que vos ailes soient l’instrument de ma vengeance ! Volez ! »
 </p>  
 
----
+<hr class="explication">
 
 
 ##  <span style="color:blue">Résumé</span>  
 
 
+<hr class="explication">
 
 **« Si vous mourez la nuit, vous êtes réveillée pour choisir un joueur et apprendre son rôle. »**  
 
@@ -132,7 +133,7 @@ Instructions au Conteur
 
 - La Corneille obtient certaines des meilleures informations de Trouble Brewing. Réfléchissez au rôle de quel joueur vous aimeriez apprendre avant chaque tombée de la nuit. Vous n’aurez pas envie de prendre une décision précipitée et de choisir au hasard sur le moment.
 
-- Choisir des joueurs vivants est généralement plus utile que choisir des joueurs morts.  <br> Si vous apprenez qu’un joueur vivant est bon, vous savez qu’il ne faut pas l’exécuter.  <br> Si vous apprenez qu’un joueur vivant est maléfique, vous savez que vous ne devriez pas lui faire confiance !  <br> Cependant, de temps en temps, confirmer qu’un joueur mort est bon peut être d’une aide énorme. Par exemple, confirmer qu’une [Lavandière](lavandiere.md) un [Archiviste](bibliothecaire.md), un [Détective](enqueteur.md) ou un [Cuisinier](cuistot.md) mort dit la vérité peut vous aider à vérifier ses informations, ou choisir un joueur mort que vous soupçonnez peut confirmer qu’un joueur maléfique est mort. Cela pourrait même soutenir le [Détective](enqueteur.md)  ou la[Voyante](voyante.md).
+- Choisir des joueurs vivants est généralement plus utile que choisir des joueurs morts.  <br> Si vous apprenez qu’un joueur vivant est bon, vous savez qu’il ne faut pas l’exécuter.  <br> Si vous apprenez qu’un joueur vivant est maléfique, vous savez que vous ne devriez pas lui faire confiance !  <br> Cependant, de temps en temps, confirmer qu’un joueur mort est bon peut être d’une aide énorme. Par exemple, confirmer qu’une [Lavandière](lavandiere.md) un [Archiviste](bibliothecaire.md), un [Détective](enqueteur.md) ou un [Cuisinier](cuistot.md) mort dit la vérité peut vous aider à vérifier ses informations, ou choisir un joueur mort que vous soupçonnez peut confirmer qu’un joueur maléfique est mort. Cela pourrait même soutenir le [Détective](enqueteur.md)  ou la [Voyante](voyante.md).
 
 - Méfiez-vous de l’ [<span style="color:red">Espionne</span>](espionne.md) et de la [Recluse](reclus.md). <br> Si vous pensez qu’un joueur est l’un de ces rôles, il est peu probable que vous appreniez son vrai rôle si vous le choisissez, à cause de leurs capacités à être considérés comme d’autres rôles.
 
@@ -160,7 +161,7 @@ Instructions au Conteur
   - La Corneille ne se réveillerait que si elle meurt pendant la nuit, pas pendant la journée. Elle se réveillerait et choisirait un joueur, puis on lui montrerait un jeton de rôle.
 - La Corneille est un bluff fantastique si vous comptez transmettre le flambeau à un Sbire à un moment donné, ou mourir autrement en protégeant le Démon. Mourir la nuit a tendance à faire paraître un joueur bon, et avoir des informations grâce à votre mort peut vous permettre de rejeter la faute sur quelqu’un, de protéger un autre joueur maléfique, ou de paraître extrêmement digne de confiance.
   - Rejeter la faute sur quelqu’un vous permet de pointer du doigt un joueur bon comme étant maléfique - en jetant le doute sur lui, sur ses informations, et sur les personnes en qui il a confiance.
-  - Vous pouvez aussi soutenir le bluff d’un joueur maléfique, confirmer son identité et le rendre digne de confiance pour l’équipe du Bien. Par exemple, si votre Démon prétend être le [Moine](moine.md), vous pouvez prétendre l’avoir choisi et avoir vu le jeton de rôle du Moine](moine.md).
+  - Vous pouvez aussi soutenir le bluff d’un joueur maléfique, confirmer son identité et le rendre digne de confiance pour l’équipe du Bien. Par exemple, si votre Démon prétend être le [Moine](moine.md), vous pouvez prétendre l’avoir choisi et avoir vu le jeton de rôle du [Moine](moine.md).
   
 - Une technique avancée consiste à prétendre qu’il est en réalité un rôle différent de celui qu’il revendiquait publiquement. Votre allié maléfique peut alors révéler qu’il mentait depuis le début, et que vous aviez en fait raison ! (Assurez-vous que votre coéquipier sait que vous allez faire cela, ou qu’il peut s’adapter sur le moment !)
   - Enfin, vous pouvez soutenir la revendication d’un joueur bon, ce qui l’amènera à vous faire confiance et à travailler avec vous. Par exemple, si vous savez qu’un joueur est l’[Empathe](empathqiue.md), prétendez que vous l’avez choisi et que vous avez vu le jeton de l’[Empathe](empathqiue.md).
