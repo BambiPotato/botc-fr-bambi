@@ -11,7 +11,8 @@ image: /images/Icon_mayor.png
   </a>
 </p>
 
-<hr>
+<hr class="explication">
+
 
 <!-- Image centrée cliquable + nom -->
 <div style="text-align:center; margin: 20px 0;">
@@ -59,9 +60,13 @@ image: /images/Icon_mayor.png
   </a>
 </div>
 
-<hr>
+<hr class="explication">
+
 
 <h2 style="color:#4ea3ff; font-weight:bold; margin-top:10px;">Résumé</h2>
+
+
+<hr class="explication">
 
 <!-- IMPORTANT : pas d’italique + pas de point devant, comme demandé -->
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
@@ -93,9 +98,11 @@ Dans <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; t
 signifie que le Bien gagne, car le Maire est toujours bon.<br> Dans d'autres modules, avec un Maire maléfique, elle signifie « Le Mal gagne ».
 </div>
 
-<hr>
+
 
 <h2 style="color:#4ea3ff; font-weight:bold; margin-top:10px;">Comment conter</h2>
+
+---
 
 <p class="botc-flavour-text dropcap">
 Instructions au Conteur
@@ -125,9 +132,11 @@ Instructions au Conteur
   <li>Le Conteur est encouragé à garder le Maire vivant jusqu’au dernier jour, car c’est plus amusant.</li>
 </ul>
 
-<hr>
+
 
 <h2 style="color:#4ea3ff; font-weight:bold; margin-top:10px;">Exemples</h2>
+
+---
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; margin-right:20px;">
   <li>
@@ -148,9 +157,11 @@ Instructions au Conteur
   </li>
 </ul>
 
-<hr>
+
 
 <h2 style="color:#4ea3ff; font-weight:bold; margin-top:10px;">Conseils &amp; Astuces</h2>
+
+---
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; margin-right:20px;">
   <li>Votre pouvoir s’active <strong>au dernier jour</strong> : faites tout pour convaincre le village que vous êtes réellement le Maire afin d’éviter toute exécution.</li><br>
@@ -172,31 +183,61 @@ Instructions au Conteur
   <li>Évitez de garder vivants uniquement un Démon et un Sbire avec vous dans le final à 3 joueurs : vous serez certainement empoisonné.</li>
 </ul>
 
-<hr>
 
-<h2 style="color:#4ea3ff; font-weight:bold; margin-top:10px;">Bluffer Maire</h2>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; margin-right:20px;">
-  <li>Le Maire <strong>ne se réveille jamais la nuit</strong> → facile à bluffer.</li><br>
-  <li>Sa longévité peut justifier votre survie suspecte face aux morts d’autres joueurs.</li>
-  <li>Bluff parfait pour un Démon qui veut se protéger.</li>
-  <li>Dévoilez votre rôle à quelques joueurs en privé pour préparer votre révélation finale.</li>
-  <li>
-    Le Maire est un excellent rôle de repli si votre bluff principal, par exemple la
-    <a href="./voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>,
-    tombe à l’eau.<br>
+<h2 style="color:#4ea3ff; font-weight:bold; margin-top:10px;">Bluffer le Maire</h2>
+
+---
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+  <strong>Lorsque vous bluffez le Maire,</strong> il y a quelques éléments à garder en tête:
+</p>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
+
+  <li style="margin-bottom:14px;">
+    Le Maire ne se réveillerait jamais la nuit.<br>
+    Vous n’apprendriez jamais si vous avez été ciblé et avez causé la mort d’un autre joueur à la place.
   </li>
-  <li>
-    Si une mort étrange survient, par exemple la
-    <a href="./reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a>
-    ou la
-    <a href="./lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>,
-    vous pouvez l’utiliser comme preuve que vous êtes Maire.
+
+  <li style="margin-bottom:14px;">
+    Le Maire a une bonne raison de survivre la nuit, ce que vous pouvez utiliser pour expliquer votre longévité alors que d’autres joueurs meurent.<br>
+    Cela en fait un excellent bluff, en particulier pour un <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.
   </li>
-  <li>Même un joueur bon peut bluffer Maire pour détourner le Démon.</li><br>
+
+  <li style="margin-bottom:14px;">
+    Révélez-vous à quelques joueurs en privé assez tôt dans la partie, afin que lorsque vous finirez par vous révéler publiquement, vous ayez du soutien et que votre revendication ne semble pas sortir de nulle part.
+  </li>
+
+  <li style="margin-bottom:14px;">
+    Le Maire est un excellent bluff de secours si un autre bluff ne fonctionne pas.<br>
+    Se révéler le dernier jour comme le Maire qui était “caché” peut atténuer les soupçons que vous auriez pu attirer si vos informations de <a href="./voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> ne collaient pas.
+  </li>
+
+  <li style="margin-bottom:14px;">
+    Préparer volontairement la mort d’un rôle qui n’est pas “optimal” peut servir de preuve qu’un Maire est en jeu.<br>
+    Par exemple, vous pouvez cibler une <a href="./reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a>, ou une <a href="./lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> qui a déjà donné ses informations ; les deux sont normalement des cibles peu prioritaires pour le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, et vous pouvez donc soutenir qu’il s’agissait d’une mort redirigée par votre capacité.
+  </li>
+
+  <li style="margin-bottom:14px;">
+    En tant que joueur bon, bluffer en Maire peut pousser le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> à vous cibler, puisqu’il soupçonnera soit que vous êtes un rôle plus puissant qui bluffe en Maire pour survivre, soit qu’il voudra simplement confirmer l’existence d’un Maire.
+  </li>
+
+  <li style="margin-bottom:14px;">
+    Les joueurs bons sont plus susceptibles de tenter une victoire avec le Maire s’ils n’ont pas de meilleure piste.<br>
+    Coordonnez-vous avec votre équipe maléfique pour maintenir un haut niveau de confusion, afin que le dernier jour, le Bien n’ait pas l’impression d’avoir une voie claire vers la victoire.
+  </li>
+
+  <li style="margin-bottom:14px;">
+    Si vous êtes nommé le dernier jour, ne désespérez pas !<br>
+    Contrairement à un bluff classique où vous devez battre les votes contre vous, un Maire peut demander au village d’égaliser le vote à la place, puisque cela n’entraînera aucune exécution, permettant à la capacité du Maire de s’activer normalement.
+  </li>
+
 </ul>
 
-<hr>
+
+<hr class="explication">
+
 
 <h2 style="color:#4ea3ff; font-size:22px; margin-top:30px;">🧞 Jinxes liés</h2>
 
@@ -211,14 +252,14 @@ Instructions au Conteur
   <li>
     🧞
     <img src="../images/Icon_riot.png" alt="Riot" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> :
-    Le Maire peut choisir d’arrêter le Riot.
-    S’il le fait alors qu’il ne reste qu’un seul Riot en vie, l’équipe des bons gagne.
+    <a href="../roles_experimentaux/riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Émeute</a> :
+    Le Maire peut choisir d’arrêter l'Émeute
+    S’il le fait alors qu’il ne reste qu’un seul Émeute en vie, l’équipe des bons gagne.
     Sinon, l’équipe des maléfiques gagne.
   </li>
 </ul>
 
-<hr>
+<hr class="explication">
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:40px; margin-right:20px;">
   <li><a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
