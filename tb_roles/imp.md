@@ -294,7 +294,6 @@ Instructions au Conteur
   </li>
 </ul>
 
-<hr>
 
 <h2 style="margin-top:10px;">
   <span style="color:#d45b5b; font-weight:bold;">Combattre le Diablotin</span>
