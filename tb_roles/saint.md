@@ -62,8 +62,7 @@ Prions, et que l’unité de notre vision nous transcende tous. »
 
 <h2><span style="color:blue">Résumé</span></h2>
 
-
-<hr class="explication"> 
+---
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Si vous mourez par exécution, votre équipe perd. »</strong><br>
