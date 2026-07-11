@@ -11,7 +11,7 @@ image: /images/Icon_saint.png
   </a>
 </p>
 
-<hr>
+<hr class="explication"> 
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="./saint.html" style="text-decoration:none;">
@@ -57,9 +57,13 @@ Prions, et que l’unité de notre vision nous transcende tous. »
 </div>
 
 
-<hr>
+<hr class="explication"> 
+
 
 <h2><span style="color:blue">Résumé</span></h2>
+
+
+<hr class="explication"> 
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong>« Si vous mourez par exécution, votre équipe perd. »</strong><br>
@@ -75,15 +79,15 @@ Prions, et que l’unité de notre vision nous transcende tous. »
   <li>Si le Saint meurt <strong>autrement</strong> que par exécution (par exemple, tué par le Démon), <strong>la partie continue</strong>.</li>
 </ul>
 
-<hr>
+
 
 <h2><span style="color:blue">Comment Conter</span></h2>
 
+---
 
 <p class="botc-flavour-text dropcap">
 Instructions au Conteur
 </p>
-
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Si le <strong>Saint</strong> meurt par exécution, annoncez que la partie est terminée et que le Mal gagne.</li>
@@ -96,9 +100,11 @@ Dans <strong>TROUBLE BREWING</strong>, cela signifiera toujours « le Mal gagne 
 Dans d'autres modules, certains rôles peuvent changer d'alignement. Si un Saint maléfique est exécuté, le Bien gagne.
 </div> 
 
-<hr>
+
 
 <h2><span style="color:blue">Exemples</span></h2>
+
+---
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Il reste sept joueurs en vie et les nominations sont en cours. Le Saint obtient 4 votes et est « sur le bûcher ( il est sur le point de mourir par exécution).</li>
@@ -111,9 +117,11 @@ Dans d'autres modules, certains rôles peuvent changer d'alignement. Si un Saint
   <li><strong>Le Saint</strong> est « exécuté », mais l’effet du <strong><a href="../voyageurs/scapegoat.html" style="text-decoration:none;"><span style="color:purple">Bouc Émissaire</span></a></strong> se déclenche : c’est le <strong><a href="../voyageurs/scapegoat.html" style="text-decoration:none;"><span style="color:purple">Bouc Émissaire</span></a></strong> qui meurt <strong>à la place du Saint</strong>. <strong>Le Saint n’est pas mort</strong>, donc <strong>la partie continue</strong>.</li>
 </ul>
 
-<hr>
+
 
 <h2><span style="color:blue">Conseils &amp; Astuces</span></h2>
+
+---
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Ne vous faites pas exécuter.</strong> Vraiment. <br>
@@ -136,9 +144,11 @@ Dans d'autres modules, certains rôles peuvent changer d'alignement. Si un Saint
   <li><strong>Dernier jour :</strong> Votre capacité n’empêche pas qu’on vous exécute si on pense que <strong>vous êtes le Démon</strong> restez pertinent, clair et utile dans vos déductions.</li>
 </ul>
 
-<hr>
 
-<h2><span style="color:blue">Bluffer Saint</span></h2>
+
+<h2><span style="color:blue">Bluffer le Saint</span></h2>
+
+---
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Lorsque vous bluffez en vous faisant passer pour le Saint, voici quelques points à garder à l'esprit:</li>
@@ -264,7 +274,7 @@ ou amener l’équipe du Bien à penser qu’un
 est en jeu.</li>
 </ul>
 
-<hr>
+<hr class="explication"> 
 
 <h2><span style="color:blue">Notes & interactions</span></h2>
 
@@ -278,7 +288,7 @@ est en jeu.</li>
   </li>
 </ul>
 
-<hr>
+<hr class="explication"> 
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li><a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
