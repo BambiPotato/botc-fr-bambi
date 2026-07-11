@@ -11,7 +11,7 @@ image: /images/Icon_recluse-1.png
   </a>
 </p>
 
----
+<hr class="explication"> 
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
 <div style="text-align:center; margin: 20px 0;">
@@ -73,9 +73,14 @@ image: /images/Icon_recluse-1.png
 
 
 
----
+<hr class="explication"> 
+
 
 ##  <span style="color:blue">Résumé</span>
+
+
+<hr class="explication"> 
+
 
 « **Vous pourriez apparaître comme maléfique et comme Sbire ou Démon, même morte.** » 
 
@@ -92,21 +97,24 @@ LA RECLUSE apparaît comme maléfique mais fait partie des joueurs bons.
 - Une Recluse qui apparaît comme un Démon ou Sbire particulier ne dispose pas de la capacité de ce rôle.
   - Par exemple, une Recluse qui apparaît comme un [<span style="color:red">Empoisonneur</span>](Empoisonneur.md) ne se réveille pas la nuit et ne peut pas empoisonner un joueur.
 
----
+
 
 ##  <span style="color:blue">Comment Conter</span>
+
+---
 
 <p class="botc-flavour-text dropcap">
 Instructions au Conteur
 </p>
 
-
 - Chaque fois que la Recluse est ciblée par une capacité qui détecte ou affecte les rôles maléfiques, choisissez le rôle et l'alignement sous lesquels la Recluse apparaît.
   - (Faites ce qu’il faut auprès des autres joueurs : montrez un jeton de rôle maléfique, faites signe avec les doigts, hochez la tête,<br>ou permettez à une capacité de fonctionner si elle affecte uniquement les joueurs maléfiques, Sbires ou Démons.)
 
----
+
 
 ##  <span style="color:blue">Exemples</span>
+
+---
 
 - La **[Pourfendeuse](./mercenaire.md)** utilise sa capacité sur la Recluse. Le Conteur décide qu’elle s’enregistre comme le **[<span style="color:red">Diablotin</span>](imp.md)** 
   → la Recluse meurt, et la **[Pourfendeuse](./mercenaire.md)** pense avoir trouvé le Démon.  
@@ -120,38 +128,110 @@ Instructions au Conteur
 - La Recluse est voisine du **[<span style="color:red">Diablotin</span>](imp.md)** et d’un <a href="../voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a> maléfique. 
  → Pour ne pas trop révéler les Maléfiques, le Conteur décide d'enregister la Recluse bonne et de donner au **[Cuisinier](./cuistot.md)** une vraie info (« 0 »).  
 
----
+
 
 ##  <span style="color:blue">Conseils & Astuces</span>
 
-- Annoncez tôt que vous êtes la Recluse : cela permet aux bons joueurs d’expliquer leurs infos incohérentes (**[Cuisinier](./cuistot.md)**,
-**[Empathe](./empathique.md)**, **[Détective](./enqueteur.md)**, etc.). 
+---
 
-- À l’inverse, cacher votre identité jusqu’au dernier jour peut vous éviter l’exécution prématurée. 
-  - N’oubliez pas : vous êtes **bon** ! Vous êtes donc un moins bon choix d’exécution que n’importe quel joueur réellement maléfique.  
-  - Vous serez souvent perçu comme **maléfique**. Une **[Pourfendeuse](./mercenaire.md)** risque de vous tuer par erreur, et le **[Fossoyeur](./croquemort.md)** verra souvent un rôle de Sbire ou de Démon.  
-  
-- Parfois, s’enregistrer comme maléfique aide : un [Empathe](./empathique.md) qui voit « 1 » grâce à vous peut ainsi identifier son autre voisin comme bon. 
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
 
-- Si le groupe est trop suspicieux, acceptez l’exécution avant le dernier jour pour prouver que vous n’étiez pas le Démon.  
+  <li style="margin-bottom:14px;">
+    Dites à tout le monde que vous êtes la Recluse dès que possible !<br>
+    De cette façon, une grande partie des mauvaises informations des joueurs bons peut être expliquée, comme celles du <a href="./cuisinier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a>, de l’<a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a> ou du <a href="./enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a>.<br>
+    Les rôles qui obtiennent d’autres informations, comme la <a href="./voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> et la <a href="./gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a>, sauront qu’il ne faut pas vous choisir.<br>
+    Cependant, si le groupe sait que vous êtes la Recluse, il peut quand même vouloir vous exécuter.
+  </li>
+
+  <li style="margin-bottom:14px;">
+    Vous pouvez aussi rester silencieux sur votre rôle jusqu’au dernier jour.<br>
+    Si vous parvenez à comprendre quels autres joueurs sont des <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>, ou comme quels rôles vous avez été faussement considérée (espérons pas trop souvent), alors vous pourrez peut-être convaincre le groupe que vous êtes réellement une Marginale.<br>
+    Comme l’équipe du Bien voudra souvent tuer une Recluse, et que ce n’est pas bénéfique pour l’équipe dans son ensemble, rester en vie par tous les moyens nécessaires est une bonne façon de gagner.
+  </li>
+
+  <li style="margin-bottom:14px;">
+    Souvenez-vous que vous êtes un joueur bon, et donc généralement un moins bon choix d’exécution que n’importe quel joueur maléfique.<br>
+    Vous pouvez aussi être considérée comme maléfique même après votre mort - le <a href="./croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a> n’obtiendra pas d’information fiable à votre sujet.
+  </li>
+
+  <li style="margin-bottom:14px;">
+    Vous serez généralement considérée comme maléfique - méfiez-vous de toute personne disant le contraire.<br>
+    Si vous êtes assise à côté d’un <a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a> qui dit que ses deux voisins sont bons, ou si une <a href="./voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> dit que vous n’êtes pas le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, ils mentent probablement, et sont donc maléfiques.<br>
+    De la même manière, toute personne affirmant avoir une information indiquant que vous êtes maléfique peut souvent être digne de confiance.
+  </li>
+
+  <li style="margin-bottom:14px;">
+    Ne vous faites pas pourfendre !<br>
+    La <a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a> vous tuera généralement si elle vous choisit, et cela donnera l’impression que vous êtes le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> et qu’une <a href="./femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme écarlate</a> est en jeu.<br>
+    Ce n’est pas utile pour votre équipe, et il faut l’éviter à tout prix.<br>
+    De la même façon, évitez d’être exécutée, car le <a href="./croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a> apprendra généralement que vous êtes un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> ou un <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, ce qui embrouillera encore davantage l’équipe du Bien.
+  </li>
+
+  <li style="margin-bottom:14px;">
+    Être considérée comme maléfique peut parfois être très utile.<br>
+    Les joueurs qui disent que vous êtes maléfique peuvent souvent être dignes de confiance, et des informations comme celles du <a href="./cuisinier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a> ou de l’<a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a> peuvent être franchement utiles pour vous aider à détecter d’autres joueurs maléfiques… si vous parvenez à convaincre le groupe que vous n’êtes pas réellement maléfique.
+  </li>
+
+  <li style="margin-bottom:14px;">
+    Si les joueurs sont extrêmement méfiants envers vous, et veulent vraiment vous exécuter, il vaut mieux accepter votre sort avant que le dernier jour arrive.<br>
+    Vous pouvez même voter pour vous-même afin de vous assurer d’être exécutée.<br>
+    Si le groupe pense que vous êtes maléfique, alors mourir avant le dernier jour confirme au moins que vous n’êtes pas le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, et détournera l’attention de l’équipe du Bien vers d’autres joueurs.<br>
+    Mourir l’avant-dernier jour est sûr.<br>
+    Mourir le dernier jour signifie que la partie est terminée pour vous.
+  </li>
+
+</ul>
+
+
+
+##  <span style="color:blue">Bluffer la Recluse</span>
 
 ---
 
-##  <span style="color:blue">Bluffer Recluse</span>
 
-- Lorsque vous bluffez en vous faisant passer pour la Recluse, voici quelques points à garder à l'esprit :
-  - Vous ne vous réveilleriez jamais, n'apprendriez rien, et n'agiriez jamais durant la journée.
-  - Prétexter : « Je ne suis pas maléfique, je **m’enregistre juste comme tel** » est un **bluff parfait** cela peut expliquer,
-  pourquoi vous apparaissez maléfique dans les infos d'une [Voyante](./voyante.md), d'un [Empathe](./empathe.md) ou d'un 
-  [Détective](./enqueteur.md).
-  
-- Jouez de manière utile et proactive pour gagner la confiance des bons joueurs.  
-- Gardez ce bluff comme **roue de secours** si votre couverture tombe : révéler être Recluse « pour semer la confusion » peut sauver votre crédibilité.  
-- Vous continuez de vous enregistrer maléfique même après votre mort → prolongez le bluff au-delà de la tombe, 
-  en laissant croire qu’il reste des Sbires ou Démons vivants.  
-- Se prétendre un Magirnal brouille aussi les pistes sur l’éventuel **[Ivrogne](./ivrogne.md)** ou la présence d’un **[<span style="color:red">Baron</span>](baron.md)**.  
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+  <strong>Lorsque vous bluffez la Recluse,</strong> il y a quelques éléments à garder en tête:
+</p>
 
----
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
+
+  <li style="margin-bottom:14px;">
+    Vous ne vous réveilleriez jamais, n’apprendriez rien, et n’agiriez pas pendant la journée.
+  </li>
+
+  <li style="margin-bottom:14px;">
+    “Je ne suis pas maléfique, je suis juste considérée comme telle” - Comme la Recluse est considérée comme maléfique, c’est une excellente excuse si vous êtes considéré comme maléfique.<br>
+    Cela peut vous aider à éviter les soupçons venant de rôles comme l’<a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>, la <a href="./voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> et même le <a href="./enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a> !
+  </li>
+
+  <li style="margin-bottom:14px;">
+    Soyez aussi utile que possible à l’équipe du Bien.<br>
+    Dites-leur tôt que vous êtes la Recluse et soyez proactive pour trouver les autres <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>, éviter que les informations soient confuses, etc.<br>
+    S’ils vous croient bonne, ils auront intérêt à vous garder en vie, même si vous semblez perturber leurs capacités.
+  </li>
+
+  <li style="margin-bottom:14px;">
+    Utilisez la Recluse comme bluff de secours, ou restez silencieux sur votre revendication pendant un moment - vous pourrez finir par vous révéler et dire que vous vous cachiez pour embrouiller les joueurs maléfiques en dissimulant l’existence de votre statut de Marginale, ou pour vérifier les revendications des joueurs qui récoltaient des informations puisque vous seriez considérée comme maléfique pour eux.
+  </li>
+
+  <li style="margin-bottom:14px;">
+    Comme la Recluse continue d’être considérée comme maléfique même lorsqu’elle est morte, vous pouvez maintenir ce bluff depuis l’au-delà, même lorsque des rôles comme le <a href="./croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a> ou la <a href="./gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a> ont obtenu une information sur vous.<br>
+    Insister sur le fait qu’il y a encore un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> ou un <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> vivant quelque part aidera à semer la confusion dans le village.
+  </li>
+
+  <li style="margin-bottom:14px;">
+    Savoir que vous êtes considéré comme maléfique donnera à l’équipe du Bien des informations avec lesquelles travailler ; méfiez-vous des rôles comme le <a href="./cuisinier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a>, qui voudront vous utiliser comme point de référence pour trouver d’autres joueurs maléfiques.<br>
+    Si vous êtes assise juste à côté de votre <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, attendez peut-être de voir ce que les gens ont à dire avant de révéler votre bluff.
+  </li>
+
+  <li style="margin-bottom:14px;">
+    Revendiquer un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a> peut masquer la présence d’un <a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>, et peut-être suggérer l’existence d’un <a href="./baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a>.
+  </li>
+
+</ul>
+
+<hr class="explication"> 
+
 
 ## 🧞 <span style="color:#d4a76a">Jinxes liés</span>
 
@@ -171,7 +251,8 @@ Instructions au Conteur
   </li>  
   </ul>
   
----
+<hr class="explication"> 
+
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
