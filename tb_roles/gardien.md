@@ -123,7 +123,7 @@ Instructions au Conteur
   - La Corneille apprend que **Damien** était en réalité la **[<span style="color:red">Femme Écarlate</span>](femmeecarlate.md)**, 
     à cause de la capacité de la [Recluse](reclus.md).  
 
----
+
 
 ##  <span style="color:blue">Conseils & Astuces</span>  
 
