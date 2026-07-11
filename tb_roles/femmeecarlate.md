@@ -12,7 +12,7 @@ image: /images/Icon_scarletwoman.png
   </a>
 </p>
 
----
+<hr class="explication">
 
 
 <!-- 🧩 Image centrée cliquable avec nom centré en dessous -->
@@ -73,10 +73,16 @@ image: /images/Icon_scarletwoman.png
 </p>
 
 
+<hr class="explication">
 
----
+
 
 ##  <span style="color:red">Résumé</span>    
+
+
+
+<hr class="explication">
+
 
 **« S’il y a au moins 5 joueurs en vie et que le <span style="color:red">Démon</span> meurt, vous devenez le <span style="color:red">Démon</span>. (Les Voyageurs ne comptent pas.) »**
 
@@ -99,10 +105,12 @@ LA FEMME ÉCARLATE devient le Démon si le Démon meurt.
   - Elle apparaît comme le Démon.
 
  
----
+
 
 
 ##  <span style="color:red">Comment Conter</span>  
+
+---
 
 <p class="botc-flavour-text dropcap">
 Instructions au Conteur
@@ -121,10 +129,11 @@ Lorsque cela se produit, marquez la <strong>Femme écarlate</strong> avec le jet
 Pour plus d'information se référez à la page dédiée au <strong>[<span style="color:red">Diablotin</span>](imp.md)</strong>.
 </div> 
 
----
+
 
 ##  <span style="color:red">Exemples</span>     
 
+---
 
 - Il reste sept joueurs en vie : le [<span style="color:red">Diablotin</span>](imp.md), la Femme écarlate, deux Villageois et trois Voyageurs. 
  → Le [<span style="color:red">Diablotin</span>](imp.md) est exécuté, la partie se termine et le Bien gagne,<br> car les Voyageurs ne sont pas pris en compte dans le nombre de joueurs pour la capacité de la Femme écarlate.
@@ -137,39 +146,44 @@ Pour plus d'information se référez à la page dédiée au <strong>[<span style
   - La [Voyante](voyante.md) choisit à nouveau Lachlan et Sarah, et apprend un **« oui »**.
 ---
 
-##  <span style="color:red">Astuces & Conseils</span>   
-
-- La Femme Écarlate est la plus forte lorsqu’elle **coordonne avec son <span style="color:red">Démon</span>**.  
-  → Vous pouvez organiser une mort « volontaire » du Démon pour reprendre le flambeau.  
-
-- Rester **en vie longtemps** est essentiel. Contrairement à l’[<span style="color:red">Empoisonneur</span>](empoisonneur.md) ou au [<span style="color:red">Baron</span>](baron.md), votre capacité ne sert que si vous survivez à la mort du Démon.  
-
-- Si le Démon risque d’être exécuté trop tôt, assurez-vous qu’il meure **tant qu’il reste ≥ 5 joueurs vivants**.  
-
-- Vous ne vous enregistrez **pas comme Démon** tant que vous êtes Femme Écarlate → profitez-en pour être « confirmé » par des rôles comme la [Voyante](voyante.md) ou la [Pourfendeuse](mercenaire.md).  
-
-- Si le Démon joue bien et reste discret, pas besoin d’activer votre capacité : semez le doute comme un <span style="color:red">Sbire</span> classique.  
+##  <span style="color:red">Conseils & Astuces</span>   
 
 ---
 
+- La Femme écarlate est au plus fort de sa puissance lorsque vous vous coordonnez avec le Démon et trouvez une stratégie qui vous convient à tous les deux, puisque le Démon peut mourir sans danger. Peut-être accusez-vous le Démon d’être maléfique, et le Démon fait tout son possible pour que l’équipe du Bien pense qu’il est effectivement maléfique ? Cela vous rend très bonne et digne de confiance. Peut-être que le Démon se tue lui-même pendant la nuit et prétend être la [Corneille](gardien.md), en disant que vous êtes bien le rôle que vous revendiquez. Peut-être que le Démon vous accuse d’être maléfique, mais le fait de manière peu convaincante, afin que vous paraissiez bonne par comparaison. Peut-être que vous et le Démon revendiquez tous les deux le même rôle, comme le [Maire](maire.md) ? Après tout, “l’un de vous doit être le [Maire](maire.md)”, non ? Peu importe lequel de vous meurt, puisque la partie continue avec un Démon vivant dans tous les cas.
+
+- En début de partie, rester en vie est plus important pour vous que pour les autres Sbires. Même si ce n’est pas très grave si le [<span style="color:red">Baron</span>](baron.md) ou l’[<span style="color:red">Empoisonneur </span>](empoisonneur.md) meurt tôt (puisqu’ils peuvent souvent causer beaucoup de perturbations dès le début de la partie), vous devrez survivre jusqu’à la fin de la partie si vous comptez devenir le Démon à un moment donné. Attendre, écouter, puis revendiquer un rôle dont vous savez qu’il n’est pas en jeu est souvent la meilleure façon d’y parvenir.
+
+- Le timing est important. Souvenez-vous que s’il reste moins de cinq joueurs en vie lorsque le Démon meurt, la partie est terminée et le Bien gagne. <br> Si votre Démon attire beaucoup de soupçons, et que vous pensez qu’il ne survivra pas jusqu’au dernier jour, agissez et faites tuer votre Démon tant qu’il reste cinq joueurs ou plus en vie… avant qu’il ne soit trop tard.
+
+- Tant que vous êtes la Femme écarlate, vous n’êtes pas considérée comme le Démon. Donc, si vous pouvez vous faire confirmer comme telle par des rôles bons, comme la Pourfendeuse ou la Voyante, puis devenir le Démon plus tard, alors l’équipe du Bien sera très confuse quant à l’identité du vrai Démon, car ses informations ne correspondront plus.
+
+- Si le Démon joue bien, et semble avoir la confiance de l’équipe du Bien, il n’est pas nécessaire d’utiliser votre capacité. Vous pouvez jouer le rôle normal d’un Sbire : diffuser de fausses informations, semer la méfiance parmi les joueurs bons et, de manière générale, créer des problèmes, tout en ignorant votre capacité de rôle.
+
+
+
+
 ##  <span style="color:red">Combattre la Femme Écarlate</span>   
 
-- Si vous êtes sûrs d’avoir tué le [<span style="color:red">Diablotin</span>](imp.md) mais que la partie continue → **suspicion immédiate** : une Femme Écarlate est probablement en jeu.  
+---
 
-- Si le [<span style="color:red">Diablotin</span>](imp.md) se tue de nuit, la démonialité doit **toujours passer à la Femme Écarlate** avant un autre <span style="color:red">Sbire</span>.  
-  → Cela peut révéler où se cache le nouveau <span style="color:red">Démon</span>.  
+- Lorsque la Femme écarlate est en jeu, le Démon peut se permettre certaines choses qu’il ne pourrait pas faire autrement. Par exemple, il peut être exécuté avec succès, ou mourir grâce à la capacité de la [Pourfendeuse](mercenaire.md), et la partie continuera. Si vous êtes certain d’avoir bien éliminé le [<span style="color:red">Diablotin</span>](imp.md) mais que la partie continue, vous devriez soupçonner qu’une Femme écarlate est en jeu. Il est possible qu’un Fossoyeur voie correctement le jeton du [<span style="color:red">Diablotin</span>](imp.md) sans être l’[Ivrogne](ivrogne.md) !
 
-- Le <span style="color:red">Démon</span> et la Femme Écarlate peuvent **co-bluffer** pour se soutenir (ex. elle se dit [Lavandière](lavandiere.md) et « confirme » le Démon).  
+- Si le [<span style="color:red">Diablotin</span>](imp.md) se tue lui-même pendant la nuit, le statut de Démon doit toujours passer à la Femme écarlate en premier, avant tout autre Sbire. Cela peut vous permettre de réduire les possibilités quant à l’endroit où le nouveau Démon s’est retrouvé si le [<span style="color:red">Diablotin</span>](imp.md) vous échappe.
 
-- La Femme Écarlate **ne s’enregistre pas comme Démon** → la [Voyante](voyante.md) ou la [Pourfendeuse](mercenaire.md) ne la détecteront pas.  
+- Le Démon et la Femme écarlate peuvent coordonner leurs bluffs pour se confirmer mutuellement. Par exemple, la Femme écarlate peut prétendre être la Lavandière et “confirmer” la revendication du Démon. Cela a l’avantage de les faire paraître tous les deux bons, et peut préparer la transmission du statut de Démon plus tard dans la partie.
 
-- Si un [Détective](enqueteur.md) ou un [Fossoyeur](croquemort.md) révèle qu’elle est en jeu, gardez-la **vivante** : au dernier jour, la question devient « le Démon est-il devenu la Femme Écarlate ? ».  
+- La Femme écarlate n’est pas considérée comme un Démon, ce qui signifie que les rôles qui détectent spécifiquement les Démons sembleront obtenir une information propre sur elle. Par exemple, la Voyante ne la détectera pas, et la capacité de la [Pourfendeuse](mercenaire.md) ne fonctionnera pas sur elle. Méfiez-vous des joueurs qui sont trop pressés d’être vérifiés ou confirmés, surtout en début de partie.
 
-- Contrairement à d’autres <span style="color:red">Sbires</span>, elle peut vouloir tuer son propre <span style="color:red">Démon</span> pour le remplacer.  
-   - Surveillez les changements d’attitude dès qu’il ne reste plus que 5 joueurs.  
-   
+- Si vous savez qu’une Femme écarlate est en jeu (par exemple grâce à une information du [Détective](enqueteur.md)  ou de la [Corneille](gardien.md) ), alors une bonne stratégie peut être de la laisser en vie. Lors des derniers jours, quand il ne reste que trois joueurs en vie, vous n’avez plus à répondre à la question “qui est le Démon”, mais à “est-ce que le statut de Démon est passé à la Femme écarlate”. <br> Si vous pensez que oui, vous exécutez la Femme écarlate. Si vous pensez que non, vous écartez la Femme écarlate des possibilités et vous avez alors une chance sur deux de trouver le Démon.
 
-   ---
+- Contrairement aux autres Sbires, la Femme écarlate peut se permettre d’être plus audacieuse en ciblant son propre Démon, et peut même essayer volontairement de le faire tuer pour mieux paraître. Si vous soupçonnez quelqu’un d’être la Femme écarlate, faites très attention à qui il cible, et à tout changement brutal dans ses alliances ; s’il ciblait un joueur en particulier puis change soudainement de discours une fois qu’il reste moins de cinq joueurs, il se peut très bien que ce joueur soit son Démon.
+
+- La Femme écarlate est généralement un plan de secours, pas une phase deux ; si le Démon est bien intégré au village ou n’est pas très soupçonné, la Femme écarlate peut finir par se comporter davantage comme un Sbire classique, et se sacrifier plus librement. Si vous découvrez une Femme écarlate qui se jette elle-même sur son épée, il peut être utile de vous méfier des joueurs qui étaient considérés comme dignes de confiance jusque-là.
+
+
+
+  <hr class="explication">
    
 
 ## 🧞 <span style="color:#d4a76a;">Jinxes liés</span>
@@ -207,7 +221,7 @@ Pour plus d'information se référez à la page dédiée au <strong>[<span style
 </ul>
 
 
---- 
+<hr class="explication">
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
