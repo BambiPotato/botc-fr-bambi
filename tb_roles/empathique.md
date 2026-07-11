@@ -26,6 +26,7 @@ image: /images/Icon_empath.png
 
 <hr class="villageois">
 
+
 ##  <span style="color:blue">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
@@ -96,6 +97,8 @@ L’EMPATHE apprend chaque nuit si ses voisins sont maléfiques ou non.
 
 
 ##  <span style="color:blue;">Comment Conter</span>   
+
+---
 
 <p class="botc-flavour-text dropcap">
 Instructions au Conteur
