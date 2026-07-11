@@ -76,8 +76,7 @@ image: /images/Icon_recluse-1.png
 
 ##  <span style="color:blue">Résumé</span>
 
-
-<hr class="explication"> 
+---
 
 « **Vous pourriez apparaître comme maléfique et comme Sbire ou Démon, même morte.** » 
 
