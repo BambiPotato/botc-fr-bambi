@@ -17,7 +17,7 @@ image: /images/Icon_drunk-1.png
   </a>
 </p>
 
-<hr>
+<hr class="explication">
 
 
 <!-- Image centrée cliquable avec nom centré en dessous -->
@@ -52,7 +52,7 @@ image: /images/Icon_drunk-1.png
   « Je bois pour oublier, et ça fonctionne. <em>*hic*</em>.<br> J’ai oublié qui je suis.... »
 </p>
 
-<hr>
+<hr class="marginal">
 
 <h3> Apparaît dans</h3>
 
@@ -64,10 +64,14 @@ image: /images/Icon_drunk-1.png
   </a>
 </div>
 
-<hr>
+<hr class="explication">
 
 
 <h3 style="color:#4ea3ff; font-weight:bold;"> Résumé</h3>
+
+
+<hr class="explication">
+
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
   <strong>« Vous ne savez pas que vous êtes l’Ivrogne. Vous pensez que vous êtes un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>. »</strong>
@@ -93,9 +97,11 @@ image: /images/Icon_drunk-1.png
   </li>
 </ul>
 
-<hr>
+
 
 <h3 style="color:#4ea3ff; font-weight:bold;"> Comment Conter</h3>
+
+---
 
 <p class="botc-flavour-text dropcap">
 Instructions au Conteur
@@ -120,9 +126,11 @@ Instructions au Conteur
   </li>
 </ul>
 
-<hr>
+
 
 <h3 style="color:#4ea3ff; font-weight:bold;"> Exemples</h3>
+
+---
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
@@ -152,9 +160,11 @@ Instructions au Conteur
   </li>
 </ul>
 
-<hr>
 
-<h3 style="color:#4ea3ff; font-weight:bold;"> Astuces &amp; Conseils</h3>
+
+<h3 style="color:#4ea3ff; font-weight:bold;"> Conseils &amp; Astuces </h3>
+
+---
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
@@ -218,9 +228,11 @@ Instructions au Conteur
   </li>
 </ul>
 
-<hr>
+
 
 <h3 style="color:#4ea3ff; font-weight:bold;"> Bluffer l’Ivrogne</h3>
+
+---
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
   En bluffant l’<a href="./ivrogne.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Ivrogne</a>, gardez quelques points en tête :
@@ -288,7 +300,7 @@ Instructions au Conteur
   </li>
 </ul>
 
-<hr>
+<hr class="explication">
 
 <h2 style="color:#4ea3ff; font-weight:bold; margin-top:30px; font-size:22px;">
   🧞 Jinxes liés
@@ -309,7 +321,7 @@ Instructions au Conteur
   </li>
 </ul>
 
-<hr>
+<hr class="explication">
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
