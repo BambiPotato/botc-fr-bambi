@@ -11,7 +11,7 @@ image: /images/Icon_imp.png
   </a>
 </p>
 
----
+<hr class="explication">
 
 
 <!-- Image centrée cliquable + nom -->
@@ -51,7 +51,9 @@ nous, les bonnes gens, et notre beau village. Ne vous fiez à personne.<br>
 Sauf à moi. Vous pouvez me faire confiance. »
 </p>
 
-<hr>
+
+<hr class="demon">	
+
 
 <h2 style="margin-top:10px;">
   <span style="color:#b58b52; font-weight:bold;">Apparaît dans</span>
@@ -66,11 +68,17 @@ Sauf à moi. Vous pouvez me faire confiance. »
   </a>
 </div>
 
-<hr>
+<hr class="explication">
+
+
 
 <h2 style="margin-top:10px;">
   <span style="color:#d45b5b; font-weight:bold;">Résumé</span>
-</h2>
+</h2>  
+
+
+  <hr class="explication">
+
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
   <strong>« Chaque nuit* (sauf la première), choisissez un joueur : il meurt.
@@ -103,11 +111,13 @@ LE DIABLOTIN tue la nuit et peut s’incarner dans un de ses Sbires... en payant
   </li>
 </ul>
 
-<hr>
+
 
 <h2 style="margin-top:10px;">
   <span style="color:#d45b5b; font-weight:bold;">Comment Conter</span>
 </h2>
+
+---
 
 <p class="botc-flavour-text dropcap">
 Instructions au Conteur
@@ -140,11 +150,13 @@ Instructions au Conteur
   et ce genre de choix peut rendre son bluff plus crédible.
 </div>
 
-<hr>
+
 
 <h2 style="margin-top:10px;">
   <span style="color:#d45b5b; font-weight:bold;">Exemples</span>
 </h2>
+
+---
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; white-space:normal; overflow-wrap:anywhere; word-break:break-word;">
   <li>
@@ -173,11 +185,13 @@ Instructions au Conteur
   </li>
 </ul>
 
-<hr>
+
 
 <h2 style="margin-top:10px;">
   <span style="color:#d45b5b; font-weight:bold;">Astuces &amp; Conseils</span>
 </h2>
+
+---
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px; white-space:normal; overflow-wrap:anywhere; word-break:break-word;">
   Il existe de nombreuses stratégies pour les joueurs maléfiques, en particulier le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>, détaillées plus en profondeur dans la section
@@ -285,6 +299,8 @@ Instructions au Conteur
 <h2 style="margin-top:10px;">
   <span style="color:#d45b5b; font-weight:bold;">Combattre le Diablotin</span>
 </h2>
+
+---
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px; white-space:normal; overflow-wrap:anywhere; word-break:break-word;">
   Dans <strong>Trouble Brewing</strong>, combattre le  <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>  revient à jouer correctement pour l’équipe du Bien :
@@ -409,7 +425,7 @@ peut se faire passer pour une cible intéressante, laissant sa capacité encaiss
   </li>
 </ul>
 
-<hr>
+<hr class="explication">
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:40px; white-space:normal; overflow-wrap:anywhere; word-break:break-word;">
   <li><a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
