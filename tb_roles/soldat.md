@@ -75,12 +75,10 @@ Non. »
 </div>
 
 
-<hr class="explication"> 
-
-
 ##   <span style="color:blue">Résumé</span>
 
 ---
+
 
 **«Vous êtes protégé du Démon.»**  
 
@@ -108,7 +106,7 @@ Instructions au Conteur
 Pendant la nuit, si le Démon attaque le Soldat, celui-ci reste en vie.<br>  (À l'aube, déclarez que personne n'est mort cette nuit.)
 
 <div class="botc-note">
-Dans d'autres modules, les Démons peuvent avoir d'autres capacités que celle de tuer.<br>  
+Dans d'autres modules, les Démons peuvent avoir d'autres capacités que celle de tuer. 
 Le Soldat est également protégé contre tous les autres effets néfastes de la capacité du Démon, tels que l'empoisonnement ou la conversion en joueur maléfique.
 </div>
 
@@ -243,7 +241,6 @@ Le Soldat est également protégé contre tous les autres effets néfastes de la
 </ul>
 
 <hr class="explication"> 
-
 
 ## 🧞 <span style="color:#d4a76a">Jinxes liés</span>
 
