@@ -154,7 +154,9 @@ et qu’un « oui » ne constitue pas une confirmation certaine de la présence 
 
 
 
-##  <span style="color:blue">Bluffer Voyante</span> 
+##  <span style="color:blue">Bluffer la Voyante</span> 
+
+---
 
 **Lorsque vous bluffez en tant que Voyante**, il y a plusieurs points importants à garder en tête :
  - Vous vous réveillez chaque nuit, y compris la première, et vous êtes censé avoir une information pour chaque nuit où vous êtes en vie. 
