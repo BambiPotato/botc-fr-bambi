@@ -250,7 +250,7 @@ Lorsque vous bluffez en vous faisant passer pour le **Mathématicien**, il y a q
          style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../tb_roles/ivrogne.html"
        style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> :
-    Le <span style="color:#4ea3ff; font-weight:bold;">Mathématicien</span> peut apprendre
+    Le <span style="color:#4ea3ff; font-weight:bold;">Mathématicien</span> apprend
     si la capacité de l’<span style="color:#4ea3ff; font-weight:bold;">Ivrogne</span>
     a donné une fausse information ou n’a pas fonctionné correctement.
   </li>
@@ -262,7 +262,7 @@ Lorsque vous bluffez en vous faisant passer pour le **Mathématicien**, il y a q
          style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../bmr_roles/lunatique.html"
        style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lunatique</a> :
-    Le <span style="color:#4ea3ff; font-weight:bold;">Mathématicien</span> peut apprendre
+    Le <span style="color:#4ea3ff; font-weight:bold;">Mathématicien</span> apprend
     si le <span style="color:#4ea3ff; font-weight:bold;">Lunatique</span> attaque
     un joueur différent de celui ciblé par le vrai
     <span style="color:#d45b5b; font-weight:bold;">Démon</span>.
@@ -275,7 +275,7 @@ Lorsque vous bluffez en vous faisant passer pour le **Mathématicien**, il y a q
          style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/marionette.html"
        style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> :
-    Le <span style="color:#4ea3ff; font-weight:bold;">Mathématicien</span> peut apprendre
+    Le <span style="color:#4ea3ff; font-weight:bold;">Mathématicien</span> apprend
     si la capacité de la <span style="color:#d45b5b; font-weight:bold;">Marionnette</span>
     a donné une fausse information ou n’a pas fonctionné correctement.
   </li>
