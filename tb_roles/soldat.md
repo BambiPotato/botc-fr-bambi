@@ -103,11 +103,10 @@ LE SOLDAT ne peut pas être tué par le Démon.
 Instructions au Conteur
 </p>
 
-Pendant la nuit, si le Démon attaque le Soldat, celui-ci reste en vie.<br>  (À l'aube, déclarez que personne n'est mort cette nuit.)
+Pendant la nuit, si le Démon attaque le Soldat, celui-ci reste en vie.<br> (À l'aube, déclarez que personne n'est mort cette nuit.)
 
 <div class="botc-note">
-Dans d'autres modules, les Démons peuvent avoir d'autres capacités que celle de tuer. 
-Le Soldat est également protégé contre tous les autres effets néfastes de la capacité du Démon, tels que l'empoisonnement ou la conversion en joueur maléfique.
+Dans d'autres modules, les Démons peuvent avoir d'autres capacités que celle de tuer. <br> Le Soldat est également protégé contre tous les autres effets néfastes de la capacité du Démon, tels que l'empoisonnement ou la conversion en joueur maléfique.
 </div>
 
 
