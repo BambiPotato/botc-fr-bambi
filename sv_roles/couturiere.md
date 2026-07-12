@@ -14,7 +14,6 @@ image: /images/Icon_seamstress.png
 
 <hr class="explication">
 
-## <span style="color:#4ea3ff;">Couturière</span>
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="./couturiere.html" style="text-decoration:none;">
