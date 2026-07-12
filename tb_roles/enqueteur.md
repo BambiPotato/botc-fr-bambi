@@ -152,11 +152,11 @@ Méfiez-vous de la [Recluse](reclus.md) ! Elle peut être considérée comme un 
 
 ---
 
-**Lorsque vous bluffez l' Enquêteur**, il y a quelques éléments à garder en tête:
+**Lorsque vous bluffez le Détective**, il y a quelques éléments à garder en tête:
 
 - Vous auriez reçu vos informations la première nuit, et devriez donc les avoir à partir de ce moment-là. On vous aurait montré deux joueurs et un jeton de Sbire.
 
-- Choisissez deux joueurs bons, et prétendez que l’un d’eux est un Sbire pour essayer de faire exécuter ces joueurs.<br>  Choisir l’[<span style="color:red">Empoisonneur</span>] ou la [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md) est généralement préférable si vous voulez que l’équipe du Bien soit motivée à les exécuter tous les deux. <br> Les joueurs bons n’exécuteront peut-être pas immédiatement un [<span style="color:red">Baron</span>](baron.md) ou une [<span style="color:red">Espionne</span>](espion.md) suspectée, mais ils pourraient le faire.
+- Choisissez deux joueurs bons, et prétendez que l’un d’eux est un Sbire pour essayer de faire exécuter ces joueurs.<br>  Choisir l’[<span style="color:red">Empoisonneur</span>](empoisonneur.md) ou la [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md) est généralement préférable si vous voulez que l’équipe du Bien soit motivée à les exécuter tous les deux. <br> Les joueurs bons n’exécuteront peut-être pas immédiatement un [<span style="color:red">Baron</span>](baron.md) ou une [<span style="color:red">Espionne</span>](espion.md) suspectée, mais ils pourraient le faire.
 
 - Si vous êtes le Démon, ou même un Sbire ambitieux, donner à l’équipe du Bien un véritable Sbire peut vous rendre extrêmement digne de confiance, surtout si d’autres joueurs bons comme le [Fossoyeur](croquemort.md) soutiennent vos informations. Cela peut être encore renforcé si le Sbire fait tout son possible pour paraître aussi maléfique que possible. Après tout, plus il a l’air d’être un Sbire, plus vous avez l’air d’être le Détective.
 
@@ -164,7 +164,7 @@ Méfiez-vous de la [Recluse](reclus.md) ! Elle peut être considérée comme un 
 
 - Communiquer vos informations secrètement à un ou deux joueurs bons peut semer une énorme méfiance. Ils se déchireront souvent entre eux sans que vous ayez besoin d’en faire beaucoup plus.
 
-- Prétendre avoir vu un Sbire qui n’est pas réellement en jeu peut créer beaucoup de confusion, ou soutenir les bluffs d’autres joueurs maléfiques. <br> Par exemple, bluffer qu’un [<span style="color:red">Baron</span>](baron.md)  est en jeu aidera à confirmer un Démon qui bluffe en Marginal. Bluffer qu’un [<span style="color:red">Empoisonneur</span>] est en jeu alors qu’il y a en réalité une [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md) peut pousser le Bien à se méfier de ses propres informations.
+- Prétendre avoir vu un Sbire qui n’est pas réellement en jeu peut créer beaucoup de confusion, ou soutenir les bluffs d’autres joueurs maléfiques. <br> Par exemple, bluffer qu’un [<span style="color:red">Baron</span>](baron.md)  est en jeu aidera à confirmer un Démon qui bluffe en Marginal. Bluffer qu’un [<span style="color:red">Empoisonneur</span>](empoisonneur.md) est en jeu alors qu’il y a en réalité une [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md) peut pousser le Bien à se méfier de ses propres informations.
 
 - Si un véritable Détective s’est déjà révélé publiquement avec ses informations, et que vous ne faites pas partie de ses cibles, prétendre être le véritable Détective et dire au groupe qu’il était l’un des deux Sbires qui vous ont été montrés peut être un excellent moyen de le faire paraître Maléfique. <br>Si le véritable Détective paraît Maléfique, alors les joueurs qu’il a accusés comme Sbires potentiels paraissent Bons.
 
