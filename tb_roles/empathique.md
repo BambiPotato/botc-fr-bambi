@@ -73,11 +73,6 @@ Quelque chose n’est pas normal. Je le sens.»
 </div>
 
 
-<p style="text-align:center; color:#e0c99d; font-style:italic; font-size:18px; margin-top:-10px;">
-"Cult of the Clocktower – épisode par Andrew Nathenson"
-</p>
-
-
 ##  <span style="color:blue;">Résumé</span>  
 
 ---
@@ -103,7 +98,6 @@ L’EMPATHE apprend chaque nuit si ses voisins sont maléfiques ou non.
 <p class="botc-flavour-text dropcap">
 Instructions au Conteur
 </p> 
-
 - Chaque nuit, réveillez l’Empathe. 
 - Faites signe avec vos doigts (0, 1 ou 2) pour indiquer le nombre de joueurs maléfiques voisins de l’Empathe. 
 - L’Empathe se rendort.
