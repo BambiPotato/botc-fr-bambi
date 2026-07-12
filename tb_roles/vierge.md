@@ -120,7 +120,8 @@ Instructions au Conteur
 - Un joueur mort tente de nommer l'Immaculée → cela ne compte pas, car les morts ne peuvent pas faire de nommination. L'Immaculée conserve sa capacité.  
 
 
-<h2 style="color:#4ea3ff;">CONSEILS ET ASTUCES</h2>
+
+<h2 style="color:#4ea3ff;">Conseils & Astuces</h2>
 
 ---
 
@@ -205,7 +206,8 @@ Instructions au Conteur
 
 </ul>
 
-<h2 style="color:#4ea3ff;">Bluffer L'IMMACULÉE</h2>
+
+<h2 style="color:#4ea3ff;">Bluffer l'Immaculée</h2>
 
 ---
 
