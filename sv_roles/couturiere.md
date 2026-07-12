@@ -52,8 +52,9 @@ image: /images/Icon_seamstress.png
   </li>
 </ul>
 
+
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-« Saviez-vous que l’inconnu avec le manteau de cachemire a fait sa déclaration à notre jeune Belle ?  <br> Et qu’elle a dit oui ?  <br> Et encore !  <br> Ce n’est rien à côté de ce qu’ont préparé Harry et ce jongleur à la foire !  <br> Heureusement que je ne suis pas une pipelette !  <br> J’en sais, des choses... »
+« Saviez-vous que l’inconnu avec le manteau de cachemire <br> a fait sa déclaration à notre jeune Belle ?  <br> Et qu’elle a dit oui ?  <br> Et encore !  <br> Ce n’est rien à côté de ce qu’ont préparé Harry  <br> et ce jongleur à la foire !  <br> Heureusement que je ne suis pas une pipelette !  <br> J’en sais, des choses... »
 </p>  
 
 <hr class="villageois">
