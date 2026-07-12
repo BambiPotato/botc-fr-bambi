@@ -69,10 +69,14 @@ image: /images/Icon_seamstress.png
   </a>
 </div>
 
+<hr class="explication">
+
 
 ## <span style="color:#4ea3ff;">Résumé</span>
 
----
+
+<hr class="explication">
+
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
 « Une fois par partie, la nuit, choisissez 2 joueurs (sauf vous-même) : vous apprenez s’ils sont du même alignement.»
