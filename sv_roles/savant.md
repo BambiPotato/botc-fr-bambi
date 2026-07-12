@@ -184,6 +184,8 @@ Lorsque vous bluffez en prétendant être le <strong>Savant</strong>, gardez les
   <li style="margin-bottom:14px;">Donnez des informations qui conduisent à la conclusion que vous souhaitez obtenir.<br>C’est une technique délicate, mais très gratifiante lorsqu’elle fonctionne.<br>L’idée est de construire deux affirmations qui convergent vers un même résultat, quelle que soit celle que le groupe considère comme vraie.<br>Par exemple, si vous cherchez à protéger votre <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, qu’il est une femme et qu’elle est assise à côté de vous, vous pouvez dire : a) le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> est un homme, <strong>OU</strong> b) mes deux voisins sont bons.<br>Quelle que soit l’affirmation considérée comme fausse, cela innocente clairement votre <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.</li>
 </ul>
 
+<hr class="explication">
+
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li> <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
   <li> <a href="../sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
