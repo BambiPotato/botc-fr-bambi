@@ -54,7 +54,7 @@ image: "/images/Icon_juggler.png"
 </ul>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-« Voici mon prochain tour ! <br> Il me faut une fleur, un sac de haricots, <br> un serpent factice, un pinceau, et un taille-haie à moteur diesel. <br> Je vous préviens, <br> c’est peut-être mon dernier tour. <br> Attention les yeux. »
+« Voici mon prochain tour ! <br> Il me faut une fleur, un sac de haricots, <br> un serpent factice, un pinceau, et un taille-haie à moteur diesel. <br> Je vous préviens, c’est peut-être mon dernier tour. <br> Attention les yeux. »
 </p> 
 
 <hr class="villageois">
@@ -78,20 +78,14 @@ image: "/images/Icon_juggler.png"
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
 « Lors de votre premier jour, devinez publiquement jusqu’à 5 rôles de joueurs. Cette nuit, vous apprenez combien étaient corrects.» 
 </p> 
-
 <p class="botc-flavour-text dropcap">
 LE JONGLEUR prend le risque de convaincre les joueurs de révéler leur rôle lors du premier jour, en espérant en deviner autant que possible, s’ils ne lui ont pas menti.
 </p> 
-
-<h2 style="color:#4ea3ff;">Résumé</h2>
-
-<hr class="explication">
-
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
 
   <li style="margin-bottom:14px;">
-    Lors du premier jour, il peut deviner quels joueurs incarnent quels rôles.<br>
-    Cette nuit-là, le Jongleur apprend combien de rôles il a correctement devinés... s’il n’est pas tué au préalable.
+  Lors du premier jour, il peut deviner quels joueurs incarnent quels rôles.<br>
+  Cette nuit-là, le Jongleur apprend combien de rôles il a correctement devinés... s’il n’est pas tué au préalable.
   </li>
 
   <li style="margin-bottom:14px;">
@@ -101,7 +95,7 @@ LE JONGLEUR prend le risque de convaincre les joueurs de révéler leur rôle lo
   </li>
 
   <li style="margin-bottom:14px;">
-    Si le Jongleur était ivre ou empoisonné au moment où il a deviné des rôles, mais qu’il est sobre et sain lorsque sa capacité se déclenche cette nuit-là, le Conteur lui donne la vraie information.
+Si le Jongleur était ivre ou empoisonné au moment où il a deviné des rôles, mais qu’il est sobre et sain lorsque sa capacité se déclenche cette nuit-là, le Conteur lui donne la vraie information.
   </li>
 
 </ul>
@@ -132,15 +126,12 @@ Instructions au Conteur
     Le Jongleur se rendort.<br>
     Retirez les jetons <strong>CORRECT</strong> et le jeton de nuit du Jongleur au moment opportun.
   </li>
-
 </ul>
-
 <div class="botc-note">
 Si le Jongleur parle trop vite, demandez-lui de ralentir.
----  
+<hr>
 Si un joueur maléfique se fait passer pour le Jongleur, vous pouvez soutenir son bluff en faisant semblant de mettre des jetons dans le Grimoire à mesure qu’il formule ses suppositions.
 </div>
-
 
 <h2 style="color:#4ea3ff;">Exemples</h2>
 
@@ -285,8 +276,6 @@ Si un joueur maléfique se fait passer pour le Jongleur, vous pouvez soutenir so
   </li>
 
 </ul>
-
-
 
 <hr class="explication">
 
