@@ -77,8 +77,8 @@ image: /images/Icon_sweetheart.png
 
 ---
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px;">
-  <strong>« Lorsque vous mourez, 1 joueur est désormais ivre. »</strong>
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
+<strong>« Lorsque vous mourez, 1 joueur est désormais ivre. »</strong>
 </p>
 
 <p class="botc-flavour-text dropcap">
@@ -118,7 +118,7 @@ Dans la plupart des cas, il est préférable d’enivrer un Villageois pour nuir
 
 ---
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
   <li>
     La Dulcinée meurt.
     Le <a href="./mathematicien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mathématicien</a>
@@ -179,7 +179,7 @@ Dans la plupart des cas, il est préférable d’enivrer un Villageois pour nuir
   <li style="margin-bottom:14px;">
     Mourez tard dans la partie si vous devez mourir.<br>
     Selon l’état de la partie (par exemple, qui est encore en vie), l’ivresse que vous infligez peut avoir peu ou pas d’impact.<br>
-    Par exemple, si les seuls rôles encore revendiqués par des joueurs vivants sont une <a href="./charmeurdeserpent.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Charmeuse de serpents</a> empoisonnée, un <a href="./jongleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Jongleur</a>, un <a href="./maladroit.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maladroit</a> et vous-même, alors votre mort est moins dangereuse qu’en début de partie, où vous auriez pu perturber la capacité d’un <a href="./oracle.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Oracle</a> ou d’un <a href="./crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur public</a>.
+    Par exemple, si les seuls rôles encore revendiqués par des joueurs vivants sont un <a href="./charmeurdeserpent.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Charmeur de serpents</a> empoisonnée, un <a href="./jongleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Jongleur</a>, un <a href="./maladroit.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maladroit</a> et vous-même, alors votre mort est moins dangereuse qu’en début de partie, où vous auriez pu perturber la capacité d’un <a href="./oracle.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Oracle</a> ou d’un <a href="./crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur public</a>.
   </li>
 
 </ul>
