@@ -184,7 +184,7 @@ Si le Sage meurt lors de la dernière nuit, vous pouvez lui montrer un joueur en
 ---
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>Lorsque vous bluffez en Sage,</strong> il y a quelques éléments à garder en tête:
+<strong>Lorsque vous bluffez le Sage,</strong> il y a quelques éléments à garder en tête:
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
