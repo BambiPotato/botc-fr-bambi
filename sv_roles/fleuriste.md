@@ -86,8 +86,7 @@ mais aujourd’hui mes coquelicots fleurissent. »
 <p class="botc-flavour-text dropcap">
 La Fleuriste sait si un <strong>Démon</strong> a voté ou non. 
 </p> 
- 
-- Le vote d’un **Démon** compte même si le joueur nommé n’a pas été exécuté.
+ - Le vote d’un **Démon** compte même si le joueur nommé n’a pas été exécuté.
 
 - La **Fleuriste** ne détecte pas si le Démon a levé la main pour d'autres raisons, 
   par exemple si les joueurs **« votent »** pour savoir quoi commander à dîner, ou si les joueurs lèvent la main pour exiler un Voyageur.
@@ -106,7 +105,6 @@ Dès lors qu’au moins un Démon a voté, la Fleuriste apprend un **« oui »**
 <p class="botc-flavour-text dropcap">
 Instructions au Conteur
 </p> 
-
 - À l’aube de chaque jour, marquez la Fleuriste d’un jeton le **DÉMON N’A PAS VOTÉ**,  
   et retirez le jeton le **DÉMON A VOTÉ** le cas échéant.
   
@@ -139,7 +137,7 @@ Il vous répond sans mentir en faisant oui ou non de la tête, puis se rendort.
   - Un Voyageur a été exilé, et tous les joueurs ont levé la main pour soutenir l’exil.
   - Cette nuit-là, la Fleuriste apprend un **« non »** car soutenir un exil n’est pas **« voter »**.
 
-  <h2><span style="color:#4ea3ff;">Conseils &amp; Astuces</span></h2>
+<h2><span style="color:#4ea3ff;">Conseils &amp; Astuces</span></h2>
 
 ---
 
