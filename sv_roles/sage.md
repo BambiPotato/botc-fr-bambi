@@ -81,13 +81,14 @@ image: /images/Icon_sage.png
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
 « Si le Démon vous tue, vous apprenez qui est le Démon parmi 2 joueurs. »
 </p> 
+
 <p class="botc-flavour-text dropcap">
 <strong>LE SAGE</strong> ne sait rien tant qu’il est en vie, mais si le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> le tue, il apprend qui il est.
 </p> 
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
-  <li style="margin-bottom:14px;">
-    Le Sage obtient cette information uniquement s’il est tué par une attaque de <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.<br>
+<li style="margin-bottom:14px;">
+Le Sage obtient cette information uniquement s’il est tué par une attaque de <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.<br>
     S’il est exécuté, cela ne fonctionne pas.
   </li>
 
