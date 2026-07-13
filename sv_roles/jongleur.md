@@ -78,10 +78,10 @@ image: "/images/Icon_juggler.png"
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
 « Lors de votre premier jour, devinez publiquement jusqu’à 5 rôles de joueurs. Cette nuit, vous apprenez combien étaient corrects.» 
 </p> 
-
 <p class="botc-flavour-text dropcap">
 LE JONGLEUR prend le risque de convaincre les joueurs de révéler leur rôle lors du premier jour, en espérant en deviner autant que possible, s’ils ne lui ont pas menti.
 </p> 
+
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
   <li style="margin-bottom:14px;">
   Lors du premier jour, il peut deviner quels joueurs incarnent quels rôles.<br>
@@ -95,7 +95,6 @@ LE JONGLEUR prend le risque de convaincre les joueurs de révéler leur rôle lo
 <li style="margin-bottom:14px;">
 Si le Jongleur était ivre ou empoisonné au moment où il a deviné des rôles, mais qu’il est sobre et sain lorsque sa capacité se déclenche cette nuit-là, le Conteur lui donne la vraie information.
   </li>
-
 </ul>
 
 <h2 style="color:#4ea3ff;">Comment Conter</h2>
@@ -105,6 +104,7 @@ Si le Jongleur était ivre ou empoisonné au moment où il a deviné des rôles,
 <p class="botc-flavour-text dropcap">
 Instructions au Conteur
 </p> 
+
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
 <li style="margin-bottom:14px;">
     Le premier jour, si le Jongleur annonce qu’il utilise sa capacité, entrez dans le cercle des joueurs avec le Grimoire.
