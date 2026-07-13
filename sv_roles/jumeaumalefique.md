@@ -71,6 +71,7 @@ image: /images/Icon_eviltwin.png
 
 ---
 
+
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
 « Vous et un joueur d’alignement opposé vous connaissez mutuellement. Si le joueur bon est exécuté, le Mal gagne. Le Bien ne peut pas gagner si vous restez tous les deux en vie. »
 </p>
@@ -140,7 +141,8 @@ Instructions au Conteur
 </ul>
 
 <div class="botc-note">
-Si une <a href="./pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a> crée une Jumelle Maléfique lors de la dernière nuit, il est préférable que l’autre jumelle soit le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> ou un joueur mort afin de laisser une chance à l’équipe du Bien de gagner.<br><br>
+Si une <a href="./pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a> crée une Jumelle Maléfique lors de la dernière nuit, il est préférable que l’autre jumelle soit le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> ou un joueur mort afin de laisser une chance à l’équipe du Bien de gagner.
+<hr>  
 Évitez de choisir un <a href="../voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a> comme l’une des jumelles.
 </div>
 
