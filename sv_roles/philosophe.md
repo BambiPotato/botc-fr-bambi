@@ -50,8 +50,8 @@ image: /images/Icon_philosopher.png
   </li>
 </ul>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
-« Si quelque chose est réel, c’est bien la bière. Bois, car demain nous mourrons peut-être.»
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Si quelque chose est réel, c’est bien la bière. <br> Bois, car demain nous mourrons peut-être.»
 </p>
 
 
@@ -104,7 +104,7 @@ image: /images/Icon_philosopher.png
   </li>
 
   <li style="margin-bottom:14px;">
-    Si le Philosophe regagne sa capacité grâce au <a href="../voyageurs/collecteurdos.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Collecteur d’os</a>, ou s’il utilise sa capacité deux fois grâce au <a href="../voyageurs/barista.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Barista</a>, le Philosophe peut choisir une nouvelle capacité, ou la même capacité qu’auparavant.
+    Si le Philosophe regagne sa capacité grâce au <a href="../voyageurs/bonecollector.md.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Collecteur d’os</a>, ou s’il utilise sa capacité deux fois grâce au <a href="../voyageurs/barista.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Barista</a>, le Philosophe peut choisir une nouvelle capacité, ou la même capacité qu’auparavant.
   </li>
 
   <li style="margin-bottom:14px;">
