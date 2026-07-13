@@ -71,6 +71,7 @@ image: /images/Icon_nodashii.png
 
 ---
 
+
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
 « Chaque nuit*, choisissez un joueur : il meurt. Vos 2 Villageois voisins sont empoisonnés. »
 </p>
