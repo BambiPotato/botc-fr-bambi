@@ -12,19 +12,20 @@ image: /images/Icon_sage.png
   </a>
 </p>
 
----
+<hr class="explication">
 
-## <span style="color:#4ea3ff;">Sage</span>
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="./sage.html" style="text-decoration:none;">
     <img src="../images/Icon_sage.png" alt="Sage" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:blue; font-weight:bold; font-size:22px;">Sage</span>
+    <span style="color:blue; font-weight:bold; font-size:45px;">Sage</span>
   </a>
 </div>
 
----
+<hr class="villageois">
+
+
 ##  <span style="color:blue">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
@@ -50,13 +51,12 @@ image: /images/Icon_sage.png
   </li>
 </ul>
 
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Le secret se trouve quelque part dans ces énormes grimoires, j’en suis certain ! <br> Il m’attend, bien caché entre deux lignes.<br>  Gamin ! Rapporte des bougies. Et de l’encre !<br>  Ces notes peuvent paraître cryptiques, mais la clé de l’énigme s’y dessine. »
+</p> 
 
-> *« Ces montagnes de grimoires détiennent le secret, j’en suis certain !  
-Entre chaque mot, il se cache, tapi dans l’ombre…  
-Plus de bougies, garçon ! Et plus d’encre !  
-Ce casse-tête infernal se dévoile peu à peu… »*
 
----
+<hr class="villageois">
 
 ##  Apparaît dans  
 
@@ -64,101 +64,155 @@ Ce casse-tête infernal se dévoile peu à peu… »*
   <a href="../sv.html" style="text-decoration:none;">
     <img src="../images/Logo_sects_and_violets.png" alt="Sects & Violets" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#d67bff; font-weight:bold; font-size:22px;">Sects & Violets</span>
+    <span style="color:#d67bff; font-weight:bold; font-size:45px;">Sects & Violets</span>
   </a>
 </div>
 
-> *Cult of the Clocktower – épisode par Andrew Nathenson*
 
----
+
+
 
 ## <span style="color:#4ea3ff;">Résumé</span>  
 
-> « **Si le Démon vous tue, vous apprenez qui est le Démon parmi 2 joueurs.** »
+---
 
-Le sage ne sait rien de son vivant, mais au moment de sa mort, il apprend l’information la plus importante : qui l’a tué.
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
+« Si le Démon vous tue, vous apprenez qui est le Démon parmi 2 joueurs. »
+</p> 
 
-- Le Sage n'obtient cette information que lorsqu'il est tué par un démon. L'exécution ne compte pas.
+<div class="botc-note">
+<strong>LE SAGE</strong> ne sait rien tant qu’il est en vie, mais si le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> le tue, il apprend qui il est.
+</div>
 
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
+  <li style="margin-bottom:14px;">
+    Le Sage obtient cette information uniquement s’il est tué par une attaque de <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.<br>
+    S’il est exécuté, cela ne fonctionne pas.
+  </li>
+
+</ul>
+
+<h2 style="color:#4ea3ff;">Comment Conter</h2>
 
 ---
 
-## <span style="color:#4ea3ff;">Comment Conter  
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p>
 
-- Si le Sage est tué par le Démon :  
-  - Réveillez-le.  
-  - Pointez **deux joueurs**, dont **l’un est le Démon**.  
-  - Puis rendormez le Sage.  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
+<li style="margin-bottom:14px;">
+    Si le Sage a été tué par le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, réveillez le Sage.<br>
+    Désignez deux joueurs, dont l’un est le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> qui a tué le Sage.<br>
+    Le Sage se rendort.
+  </li>
 
--  **Astuces & Conseils pour les Conteurs et Conteuses**
-   - *Si le Sage meurt rapidement, il est conseillé de lui montrer deux joueurs vivants, ce qui laisse à l'équipe des maléfiques une petite chance de gagner.* 
-   - *Si le Sage meurt lors de la dernière nuit, vous pouvez lui montrer un joueur vivant et un joueur mort.*
+</ul>
 
----
+<div class="botc-note">
+Si le Sage meurt tôt dans la partie, il est sans doute préférable de lui montrer deux joueurs en vie.<br>
+Cela laisse à l’équipe du Mal une petite chance de gagner.<br>
+Si le Sage meurt lors de la dernière nuit, vous pouvez lui montrer un joueur en vie et un joueur mort.
+</div>
 
-## <span style="color:#4ea3ff;">Exemples  
+<h2 style="color:#4ea3ff;">Exemples</h2>
 
-- Le Démon tue le Sage la deuxième nuit.  
-  Le Conteur montre **deux joueur**, dont **l’un est réellement le Démon**.  
+<hr class="explication">
 
-- Dernière nuit : le Sage est tué, mais il est **ivre** à cause de la [Dulcinée](dulcinee.md).  
-  Le Conteur lui montre alors **une mauvaise combinaison** (un mort et un vivant).  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
 
-- La [<span style="color:red">Pit-Hag</span>](pithag.md) crée un nouveau <span style="color:red">Démon</span>,  
-  ce qui cause des morts “arbitraires”.  
-  Le Sage meurt, mais **pas à cause du Démon**, il **n’apprend donc rien**.  
+  <li style="margin-bottom:14px;">
+    Lors de la deuxième nuit, le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> tue le Sage.<br>
+    Le Conteur désigne deux joueurs, dont l’un est le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.
+  </li>
 
----
+  <li style="margin-bottom:14px;">
+    Lors de la dernière nuit, le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> tue le Sage, qui est ivre.<br>
+    Le Conteur désigne un joueur mort et l’un des trois joueurs en vie.<br>
+    Cette information est fausse.
+  </li>
 
-## <span style="color:#4ea3ff;">Astuces & Conseils</span>  
+  <li style="margin-bottom:14px;">
+    La <a href="./pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a> crée un <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.<br>
+    La règle veut que dans ce cas, le Conteur puisse tuer de façon arbitraire cette nuit-là.<br>
+    Il décide que l’ancien <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> meurt, et que le Sage meurt lui aussi.<br>
+    Comme le Sage est mort à cause de la <a href="./pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a> et non du <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, le Sage ne se réveille pas pour apprendre quoi que ce soit cette nuit-là.
+  </li>
 
-- Faites-vous tuer par le Démon, c’est votre **objectif principal**.  Faites-le. Par tous les moyens, et le plus vite possible. 
-- Si le Démon vous tue, vous obtiendrez des informations précieuses, alors faites tout votre possible pour que cela arrive. 
-- Bluffer un rôle que le Démon voudrait tuer, comme une [Fleuriste](fleuriste.md) ou un [Savant](savant.md).  
-- Restez discret pour éveiller la méfiance du Démon.  
-- Contrairement au [Corneille](../tb_roles/gardien.md),  
-  vous êtes **plus utile tôt dans la partie** : plus il reste de jours,  
-  plus votre info pourra être exploitée.
+</ul>
 
-- Après votre mort, si vous êtes tué, **révélez immédiatement** votre rôle et votre info.  
-- Plus tôt le village sait que vous êtes le Sage,  
-  - plus tôt il pourra exécuter vos deux suspects.  
-
-- Garder le secret trop longtemps risquerait de ne pas laisser  
-assez de jours pour vérifier vos soupçons.
-
-- Si vous pensez que le groupe vous fait confiance,  
-  **dévoilez-vous comme Sage** pour dissuader le Démon de vous tuer.  
-  Vous servirez ainsi de “bouclier” : tant que vous êtes en vie,  
-  les Maléfiques ne peuvent pas gagner automatiquement à 3 joueurs restants.  
-
-- Et si vous mourrez sans obtenir d’info, c’est aussi une **information précieuse** :  
-  cela prouve que vous n’avez **pas été tué·e par le Démon**,  
-  mais probablement par un effet comme celui de la [<span style="color:red">Pit-Hag</span>](pithag.md).
+<h2 style="color:#4ea3ff;">Astuces &amp; Conseils</h2>
 
 ---
 
-## <span style="color:#4ea3ff;">Bluffer Sage</span>  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
 
-### Si, vous êtes <span style="color:red">Maléfique</span>
-- Le bluff du Sage est **très efficace**, car son pouvoir ne s’active qu’à la mort.  
-  Si vous êtes prêt·e à mourir, vous pouvez offrir une **fausse piste** crédible.  
-  Le village perdra **deux jours d’exécutions** à suivre vos accusations.  
+  <li style="margin-bottom:14px;">
+    Faites-vous tuer par le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.<br>
+    Faites-le.<br>
+    Par tous les moyens, et aussi rapidement que possible.<br>
+    Si le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> vous tue, vous obtenez des informations fantastiques, alors faites tout votre possible pour que cela arrive.<br>
+    Prétendez être un rôle que le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> voudrait tuer, comme la <a href="./fleuriste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a> ou le <a href="./savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a>, ou restez silencieux.<br>
+    Contrairement à la <a href="../tb_roles/gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a>, qui profite davantage d’une attaque du <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> plus tard dans la partie, vous en profitez surtout si le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> vous attaque tôt.<br>
+    Si le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> vous attaque pendant la première ou la deuxième nuit, ou pendant la première moitié de la partie, il vous restera assez de jours pour exécuter les deux suspects dont vous apprenez que l’un pourrait être le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.
+  </li>
 
-  → Idéal si votre Démon est un [<span style="color:red">Fang Gu</span>](fanggu.md) ou s’il y a une [<span style="color:red">Pit-Hag</span>](pithag.md) active.  
+  <li style="margin-bottom:14px;">
+    Révélez immédiatement vos informations si le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> vous tue.<br>
+    Plus tôt l’équipe du Bien saura que vous êtes le Sage, et que vous savez que l’un de deux joueurs est le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, plus tôt vous pourrez découvrir qui est réellement le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.<br>
+    Si vous attendez le dernier jour pour révéler vos informations, comme une <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> pourrait attendre le dernier jour pour révéler qu’un ou deux joueurs encore vivants ne sont pas le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, vous ne saurez peut-être toujours que le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> est l’un de deux joueurs.<br>
+    De plus, dans ce cas, vous devrez convaincre l’équipe du Bien que vous êtes le Sage, et vous n’aurez peut-être plus assez de temps pour le faire.
+  </li>
 
-- Si vous préférez **vivre longtemps**, adaptez votre bluff :  
-  - Dites avoir révélé votre rôle à une seule personne “de confiance”.  
-  - Puis, plus tard, accusez cette personne d’être le Démon qui ne vous a pas tué·e !  
+  <li style="margin-bottom:14px;">
+    Vous pouvez simplement vous révéler publiquement comme Sage afin de survivre jusqu’au dernier jour.<br>
+    Si vous pensez que le groupe vous fait confiance, dire au groupe que vous êtes le Sage peut être un excellent moyen de pousser le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> à vous laisser tranquille, afin que d’autres joueurs soient tués la nuit et exécutés pendant la journée.<br>
+    Il est essentiel que les autres joueurs vous croient bon pour que cette stratégie fonctionne.<br>
+    Survivre jusqu’au dernier jour signifie que le Mal ne peut pas gagner automatiquement parce que les trois joueurs encore en vie sont tous maléfiques, et cela signifie aussi que l’équipe du Bien choisit entre deux joueurs à exécuter, et non trois.
+  </li>
 
-  Cela sème la discorde et détourne les soupçons de vous.  
+  <li style="margin-bottom:14px;">
+    Si vous mourez la nuit mais ne recevez aucune information, c’est également une excellente nouvelle !<br>
+    Même si vous n’avez pas appris qui est le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, vous savez que la seule façon pour vous de mourir la nuit sans avoir été tué par le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> est d’avoir été victime des morts arbitraires de la <a href="./pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a>.<br>
+    Vous pouvez donc le confirmer au village.
+  </li>
 
-- Si votre faux rôle d’information (ex. [Savant](savant.md), [Horloger](horloger.md))  
-  devient incohérent, vous pouvez vous **recycler** en Sage.  
-  > “Je mentais pour attirer le Démon, je suis en réalité le Sage.”  
-  Cela peut suffire à sauver votre peau pour plusieurs jours.
+</ul>
+
+<h2 style="color:#4ea3ff;">Bluffer le Sage</h2>
 
 ---
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<strong>Lorsque vous bluffez en Sage,</strong> il y a quelques éléments à garder en tête:
+</p>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
+
+  <li style="margin-bottom:14px;">
+    Le pouvoir du Sage ne devient pertinent qu’à sa mort, et il est incroyablement puissant.<br>
+    Si vous comptez mener un bluff de Sage jusqu’au bout, vous devez être prêt à mourir.<br>
+    Cela en vaut la peine : si l’équipe du Bien vous croit, elle passera deux jours à exécuter les personnes que vous accusez, au lieu de votre <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> !<br>
+    Cela peut être particulièrement efficace si vous êtes un <a href="./fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a>, qui peut mourir de façon inattendue en ciblant un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a>, ou si une <a href="./pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a> provoque des morts maléfiques aléatoires.
+  </li>
+
+  <li style="margin-bottom:14px;">
+    En tant que joueur maléfique, vous voudrez probablement rester en vie aussi longtemps que possible afin de semer un maximum de chaos.<br>
+    Cela peut rendre le bluff de Sage plus difficile, puisque vous n’aurez aucune <strong>« information »</strong> pour soutenir votre revendication sans mourir la nuit, mais vous pouvez transformer votre survie en arme, tout comme votre mort.<br>
+    Parlez tôt à un joueur, quelqu’un que vous savez bon, et c’est encore plus efficace s’il revendique un rôle puissant comme le <a href="./savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a> ou la <a href="./fleuriste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a>, et avouez-lui être le Sage.<br>
+    Plus tard, lorsque le village commencera à se méfier de vous, dites que vous n’avez révélé votre identité qu’à une seule personne, puis accusez-la soit d’être le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> et d’avoir évité de vous tuer, soit d’avoir transmis au <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> des informations sur votre rôle !
+  </li>
+
+  <li style="margin-bottom:14px;">
+    Si vous bluffez un rôle d’information et que les joueurs commencent à remarquer que vos informations ne correspondent pas, envisagez d’abandonner ce bluff et de vous révéler comme Sage à la place.<br>
+    Vos informations confuses seront alors reconnues comme fausses, mais l’équipe du Bien pensera, avec un peu de chance, que vous ne mentiez que pour une bonne raison : attirer l’attention du <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, et vous laissera tranquille.
+  </li>
+
+</ul>
+
+
+<hr class="explication">
+
 
 <h2 style="color:#4ea3ff; font-size:22px; margin-top:30px;">
   🧞 Jinxes liés
@@ -186,7 +240,7 @@ assez de jours pour vérifier vos soupçons.
          style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../tb_roles/reclus.html"
        style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a> :
-    La <span style="color:#4ea3ff; font-weight:bold;">Recluse</span> peut être s'enregistrée 
+    La <span style="color:#4ea3ff; font-weight:bold;">Recluse</span> peut s'enregistrée 
     comme le <span style="color:#d45b5b; font-weight:bold;">Démon</span>
     pour le <span style="color:#d45b5b; font-weight:bold;">Sage</span>.
   </li>
@@ -197,8 +251,8 @@ assez de jours pour vérifier vos soupçons.
     <img src="../images/Icon_riot.png" alt="Riot" width="24"
          style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/riot.html"
-       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> :
-    Chaque nuit, le <span style="color:#d45b5b; font-weight:bold;">Riot</span> choisit
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Émeute</a> :
+    Chaque nuit, l' <span style="color:#d45b5b; font-weight:bold;">Émeute</span> choisit
     un joueur bon vivant (différent des nuits précédentes) :
     un <span style="color:#d45b5b; font-weight:bold;">Sage</span> ainsi choisi
     utilise sa capacité mais <strong>ne meurt pas</strong>.
@@ -206,7 +260,9 @@ assez de jours pour vérifier vos soupçons.
 
 </ul>
 
----
+
+<hr class="explication">
+
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li> <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
