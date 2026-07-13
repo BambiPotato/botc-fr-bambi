@@ -332,18 +332,18 @@ Si une <a href="./pithag.html" style="color:#d45b5b; font-weight:bold; text-deco
     <img src="../images/Icon_plaguedoctor.png" alt="Plague Doctor" width="24"
          style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="./plaguedoctor.html"
-       style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
       Docteur de la peste
     </a> :
     Si le <strong>Conteur</strong> devait gagner la capacité de 
     <a href="./eviltwin.html"
        style="color:#d45b5b; font-weight:bold; text-decoration:none;">
-     Jumelle Maléfique
+     Jumelle maléfique
     </a>,
     un joueur devient 
     <a href="./eviltwin.html"
        style="color:#d45b5b; font-weight:bold; text-decoration:none;">
-      Jumelle Maléfique
+      Jumelle maléfique
     </a>.
   </li>
 </ul>
