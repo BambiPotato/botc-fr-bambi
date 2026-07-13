@@ -14,9 +14,6 @@ image: /images/Icon_sweetheart.png
 
 <hr class="explication">
 
-<h2 style="margin-top:10px;">
-  <span style="color:#4ea3ff; font-weight:bold;">Dulcinée</span>
-</h2>
 
 <div style="text-align:center; margin:20px 0;">
   <a href="./dulcinee.html" style="text-decoration:none;">
