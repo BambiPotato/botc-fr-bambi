@@ -75,6 +75,7 @@ image: /images/Icon_fanggu.png
 
 ---
 
+
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
 « Chaque nuit*, choisissez un joueur : il meurt. <br>Le premier Marginal tué ainsi devient un Fang Gu maléfique et vous mourez à sa place. [+1 Marginal]»
 </p>
@@ -92,12 +93,6 @@ image: /images/Icon_fanggu.png
 </ul>
 
 
-<h2 style="margin-top:10px;">
-  <span style="color:#d45b5b; font-weight:bold;">Comment Conter</span>
-</h2>
-
----
-
 
 
 <h2 style="color:#d45b5b;">Comment Conter</h2>
@@ -107,7 +102,6 @@ image: /images/Icon_fanggu.png
 <p class="botc-flavour-text dropcap">
 Instructions au Conteur
 </p> 
-
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
 
   <li style="margin-bottom:14px;">
