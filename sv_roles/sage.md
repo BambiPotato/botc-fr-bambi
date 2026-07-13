@@ -51,12 +51,14 @@ image: /images/Icon_sage.png
   </li>
 </ul>
 
+
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
 « Le secret se trouve quelque part dans ces énormes grimoires, j’en suis certain ! <br> Il m’attend, bien caché entre deux lignes.<br>  Gamin ! Rapporte des bougies. Et de l’encre !<br>  Ces notes peuvent paraître cryptiques, mais la clé de l’énigme s’y dessine. »
 </p> 
 
 
 <hr class="villageois">
+
 
 ##  Apparaît dans  
 
@@ -79,10 +81,9 @@ image: /images/Icon_sage.png
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
 « Si le Démon vous tue, vous apprenez qui est le Démon parmi 2 joueurs. »
 </p> 
-
-<div class="botc-note">
+<p class="botc-flavour-text dropcap">
 <strong>LE SAGE</strong> ne sait rien tant qu’il est en vie, mais si le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> le tue, il apprend qui il est.
-</div>
+</p> 
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
   <li style="margin-bottom:14px;">
