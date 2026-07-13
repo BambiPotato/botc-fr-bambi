@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bête de foire
-description: "Si vous êtes « fou » d’être un Marginal, vous pourriez être exécuté."
+description: "Si vous vous montrez « fou » d’être un Marginal, vous pourriez être exécuté."
 image: "/images/Icon_mutant.png"
 ---
 
@@ -73,7 +73,7 @@ image: "/images/Icon_mutant.png"
 ---
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
-« Si vous êtes <strong>« fou »</strong> d’être un Marginal, vous pourriez être exécuté.»
+« Si vous vous montrez <strong>« fou »</strong>  d’être un Marginal, vous pourriez être exécuté.»
 </p>
 
 <p class="botc-flavour-text dropcap">
@@ -238,12 +238,12 @@ Instructions au Conteur
     Demander aux autres de vous aider à protéger votre véritable identité, agir nerveusement près du Conteur et des joueurs soupçonnés d’être maléfiques, et faire de votre mieux pour vous rendre utile sont autant de comportements typiques d’un véritable joueur Bête de foire !
   </li>
 
-  <li style="margin-bottom:14px;">
-    L’un des grands avantages du bluff de Bête de foire est de pouvoir brouiller le nombre de <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>.<br>
-    Chuchoter avec urgence à des joueurs bons que <strong>« cette Dulcinée ment, parce que je suis le véritable Marginal ! »</strong> introduit la possibilité qu’un <a href="./fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a> soit le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> en jeu.<br>
-    Au minimum, cela jette le doute sur les <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a> déjà révélés, puisque vous vous ajoutez à leur nombre.<br>
-    La nature secrète de la Bête de foire rend cette tactique particulièrement puissante, puisque vous pouvez, et devriez, convaincre les autres joueurs de débattre de votre existence à votre place, ce qui empêchera les pauvres véritables <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a> de vous confronter directement et de faire remonter vos terribles mensonges jusqu’à votre équipe maléfique !
-  </li>
+<li style="margin-bottom:14px;">
+  L’un des grands avantages du bluff de Bête de foire est de pouvoir brouiller le nombre de <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>.<br>
+  Chuchoter avec urgence à des joueurs bons que <strong>« cette <a href="./dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a> ment, parce que je suis le véritable Marginal ! »</strong> introduit la possibilité qu’un <a href="./fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a> soit le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> en jeu.<br>
+  Au minimum, cela jette le doute sur les <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a> déjà révélés, puisque vous vous ajoutez à leur nombre.<br>
+  La nature secrète de la Bête de foire rend cette tactique particulièrement puissante, puisque vous pouvez, et devriez, convaincre les autres joueurs de débattre de votre existence à votre place, ce qui empêchera les pauvres véritables <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a> de vous confronter directement et de faire remonter vos terribles mensonges jusqu’à votre équipe maléfique !
+</li>
 
 </ul>
 
