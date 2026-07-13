@@ -78,23 +78,21 @@ image: "/images/Icon_juggler.png"
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
 « Lors de votre premier jour, devinez publiquement jusqu’à 5 rôles de joueurs. Cette nuit, vous apprenez combien étaient corrects.» 
 </p> 
+
 <p class="botc-flavour-text dropcap">
 LE JONGLEUR prend le risque de convaincre les joueurs de révéler leur rôle lors du premier jour, en espérant en deviner autant que possible, s’ils ne lui ont pas menti.
 </p> 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
-
   <li style="margin-bottom:14px;">
   Lors du premier jour, il peut deviner quels joueurs incarnent quels rôles.<br>
   Cette nuit-là, le Jongleur apprend combien de rôles il a correctement devinés... s’il n’est pas tué au préalable.
   </li>
-
-  <li style="margin-bottom:14px;">
+ <li style="margin-bottom:14px;">
     Il doit annoncer ce qu’il devine publiquement afin que tout le monde l’entende.<br>
     Il peut deviner de zéro à cinq rôles.<br>
     Il peut tenter plusieurs fois le même rôle sur des joueurs différents s’il le souhaite, ou plusieurs rôles sur le même joueur.
   </li>
-
-  <li style="margin-bottom:14px;">
+<li style="margin-bottom:14px;">
 Si le Jongleur était ivre ou empoisonné au moment où il a deviné des rôles, mais qu’il est sobre et sain lorsque sa capacité se déclenche cette nuit-là, le Conteur lui donne la vraie information.
   </li>
 
@@ -108,8 +106,7 @@ Si le Jongleur était ivre ou empoisonné au moment où il a deviné des rôles,
 Instructions au Conteur
 </p> 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
-
-  <li style="margin-bottom:14px;">
+<li style="margin-bottom:14px;">
     Le premier jour, si le Jongleur annonce qu’il utilise sa capacité, entrez dans le cercle des joueurs avec le Grimoire.
   </li>
 
@@ -119,8 +116,7 @@ Instructions au Conteur
     Pour chaque réponse correcte, marquez le Jongleur d’un jeton <strong>CORRECT</strong>.<br>
     (Les joueurs ne doivent pas voir combien de jetons vous placez ainsi.)
   </li>
-
-  <li style="margin-bottom:14px;">
+ <li style="margin-bottom:14px;">
     Cette nuit-là, réveillez le Jongleur.<br>
     Faites signe avec vos doigts (0, 1, 2, etc.) pour lui indiquer le nombre de suppositions <strong>CORRECTES</strong> qu’il a faites.<br>
     Le Jongleur se rendort.<br>
