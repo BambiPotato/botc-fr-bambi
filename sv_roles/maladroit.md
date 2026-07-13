@@ -67,13 +67,9 @@ image: /images/Icon_klutz.png
 
 ---
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
 « Lorsque vous apprenez que vous êtes mort, choisissez publiquement 1 joueur en vie. S’il est maléfique, votre équipe perd. »
 </p>
-
-<h2 style="color:#4ea3ff;">Résumé</h2>
-
-<hr class="explication">
 
 <p class="botc-flavour-text dropcap">
 <strong>LE MALADROIT</strong> peut faire perdre la partie à toute son équipe, à moins de jouer finement.
@@ -101,7 +97,7 @@ image: /images/Icon_klutz.png
 
 <h2 style="color:#4ea3ff;">Comment Conter</h2>
 
-<hr class="explication">
+---
 
 <p class="botc-flavour-text dropcap">
 Instructions au Conteur
@@ -164,9 +160,7 @@ Les nouveaux joueurs peuvent avoir du mal à comprendre comment fonctionne ce r�
 
   <li style="margin-bottom:14px;">
     Si l’équipe du Bien est complètement perdue, vous pouvez volontairement mourir et confirmer qu’un joueur est bon en le choisissant.<br>
-    Votre capacité fournit une information incroyablement puissante, mais au prix d’un risque extrêmement élevé.<br>
-    Savoir avec certitude qu’un joueur est bon vous permet de lui faire entièrement confiance, ce qui est très rare dans cette édition !<br>
-    Comme pour la <a href="./charmeurdeserpent.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Charmeuse de serpents</a>, vos informations ne peuvent pas être perturbées par le <a href="./vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a>.<br>
+    Votre capacité fournit une information incroyablement puissante, mais au prix d’un risque extrêmement élevé.<br> Savoir avec certitude qu’un joueur est bon vous permet de lui faire entièrement confiance, ce qui est très rare dans cette édition !<br> Comme pour le <a href="./charmeurdeserpent.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Charmeur de serpents</a>, vos informations ne peuvent pas être perturbées par le <a href="./vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a>.<br>
     Ainsi, si vous pensez que ce <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> est en jeu, vous n’avez pas à craindre que votre information soit fausse.<br>
     (Remarque : même si tout cela paraît extrêmement utile, voire tentant, n’oubliez pas qu’un choix irréfléchi vous fera perdre la partie !)
   </li>
