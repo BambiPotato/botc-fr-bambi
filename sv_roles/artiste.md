@@ -79,11 +79,10 @@ Dieu est révélé ! Oui ! »
 
 ---
 
-
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
 « Une fois par partie, dans la journée, posez en privé une question fermée (oui/non) au Conteur. »
 </p> 
-<p class="botc-flavour-text dropcap">
+<p class="botc-flavour-text dropcap" style="margin-top:0;">
 <strong>L’ARTISTE</strong> peut poser n’importe quelle question au Conteur.
 </p>
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
