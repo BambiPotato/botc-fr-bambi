@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Artiste
-description:  Une fois par partie, durant la journée, posez en privé au Conteur une question à laquelle on ne peut répondre que par oui ou par non. 
+description:  "Une fois par partie, dans la journée, posez en privé une question fermée (oui/non) au Conteur."
 image: /images/Icon_artist.png
 ---
 
@@ -12,20 +12,22 @@ image: /images/Icon_artist.png
   </a>
 </p>
 
----
 
-##  <span style="color:#4ea3ff;">Artiste</span>
+<hr class="explication">
+
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="./artiste.html" style="text-decoration:none;">
     <img src="../images/Icon_artist.png" alt="Artiste" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:blue; font-weight:bold; font-size:22px;">Artiste</span>
+    <span style="color:blue; font-weight:bold; font-size:45px;">Artiste</span>
   </a>
 </div>
 
 
----
+<hr class="villageois">
+
+
 ##  <span style="color:blue">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
@@ -51,14 +53,15 @@ image: /images/Icon_artist.png
   </li>
 </ul>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic;">
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
 «  Mon Dieu ! C’est lumineux !  
 Mon œuvre, elle est… comment dit-on… magnifique !  
 Dieu est révélé ! Oui ! »
 </p> 
 
 
----
+<hr class="villageois">
+
 
 ##  Apparaît dans  
 
@@ -66,166 +69,198 @@ Dieu est révélé ! Oui ! »
   <a href="../sv.html" style="text-decoration:none;">
     <img src="../images/Logo_sects_and_violets.png" alt="Sects & Violets" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#d67bff; font-weight:bold; font-size:22px;">Sects & Violets</span>
+    <span style="color:#d67bff; font-weight:bold; font-size:45px;">Sects & Violets</span>
   </a>
 </div>
 
-> *Cult of the Clocktower – épisode par Andrew Nathenson*
+
+
+<h2 style="color:#4ea3ff;">Résumé</h2>
 
 ---
 
-##  <span style="color:#4ea3ff;">Résumé</span>
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
+« Une fois par partie, dans la journée, posez en privé une question fermée (oui/non) au Conteur. »
+</p> 
 
-> « Une fois par partie, durant la journée, posez en privé au Conteur une question à laquelle on ne peut répondre que par oui ou par non. »
+<p class="botc-flavour-text dropcap">
+<strong>L’ARTISTE</strong> peut poser n’importe quelle question au Conteur.
+</p>
 
-> L'artiste peut poser une seule question et obtenir une réponse honnête.
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
+  <li style="margin-bottom:14px;">
+    La question peut porter sur n’importe quel sujet et être formulée comme il le souhaite.<br>
+    Le Conteur répond honnêtement <strong>« oui »</strong>, <strong>« non »</strong> ou <strong>« Je ne sais pas »</strong>.
+  </li>
 
-- La question peut porter sur n'importe quel sujet et être formulée de n'importe quelle manière. 
-- Le Conteur doit répondre honnêtement par **« oui »**, **« non »**, ou **« je ne sais pas »**.
-- Il appartient à l'artiste de parler avec le conteur, et non l'inverse. 
-- Cette discussion est **privée** : les autres joueurs ne doivent pas entendre la question ni la réponse.
+  <li style="margin-bottom:14px;">
+    C’est à l’Artiste d’aller trouver le Conteur, et non l’inverse.<br>
+    La conversation doit rester privée.<br>
+    Le groupe ne peut pas l’écouter.<br>
+    Elle est secrète.
+  </li>
 
----
+</ul>
 
-##  <span style="color:#4ea3ff;">Comment Conter</span>  
-
-- À tout moment **pendant la journée**, l’Artiste peut demander une discussion privée.  
-- Éloignez-vous du cercle et écoutez sa question.  
-- Répondez **« oui »**, **« non »** ou **« je ne sais pas »**.  
-- Si la question ne peut pas être formulée ainsi, invitez l’Artiste à la reformuler.  
-- Ensuite, marquez le rôle avec le jeton de rappel **AUCUNE CAPACITÉ** :  
-  l’Artiste a utilisé son pouvoir.  
-
-> **Astuces pour les Conteurs et Conteuses :**
-
-> À l'instar du Savant, les joueurs maléfiques se faisant passer pour l'Artiste peuvent vous demander une conversation privée et 
-  faire semblant de vous poser une question. 
-  
-> Pour les aider à bluffer, vous pouvez feindre de répondre en hochant ou en secouant la tête.
-
+<h2 style="color:#4ea3ff;">Comment Conter</h2>
 
 ---
 
-## <span style="color:#4ea3ff;">Exemples</span>    
+<p class="botc-flavour-text dropcap">
+Instructions au Conteur
+</p>
 
--  **L'artiste** demande : *« Le Démon est-il assis sur une chaise marron ? »*  
-  → Réponse : « Non », car le Démon est assis sur une chaise noire.  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
+  <li style="margin-bottom:14px;">
+    À tout moment, l’Artiste peut demander à vous parler en privé.<br>
+    Éloignez-le des autres joueurs afin que personne ne puisse vous entendre.<br>
+    Il va vous poser une question.<br>
+    Chuchotez <strong>« Oui »</strong>, <strong>« Non »</strong> ou <strong>« Je ne sais pas »</strong>, ou si vous ne pouvez pas répondre de cette manière, demandez à l’Artiste de reformuler sa question.<br>
+    <strong>L’ARTISTE PERD SA CAPACITÉ</strong> — marquez-le du jeton <strong>SANS CAPACITÉ</strong>.
+  </li>
 
--  **L'artiste** demande : *« Sébastien est-il la [<span style="color:red;">Jumelle Maléfique</span>](jumeaumalefique.md) ? »*  
-  → Réponse : « Oui » car Sébastien est bien la [<span style="color:red;">Jumelle Maléfique</span>](jumeaumalefique.md).  
+</ul>
 
-- **L'artiste** demande :*« Combien de Sbires sont encore en vie ? »*  
-  → Le Conteur : « Reformule ta question, je ne peux pas y répondre avec oui/non. »  
+<div class="botc-note">
+Comme pour le <a href="./savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a>, les joueurs maléfiques peuvent demander à vous parler en privé et faire semblant de vous poser une question.<br>
+Pour soutenir leur bluff, vous pouvez faire semblant de répondre en faisant oui ou non de la tête.
+</div>
 
--  **L'artiste** demande : *« Sommes-nous en train de gagner ? »*  
-  → Réponse du Conteur : « Je ne sais pas », car même si tous les sbires sont morts, de nombreux bons joueurs font confiance au démon.  
-
----
-
-##  <span style="color:#4ea3ff;">Astuces & Conseils</span>     
-
-###  <span style="color:#4ea3ff;">Quand poser la question</span>  
-- Posez votre question dès que possible le premier jour ! 
-- Entre le démon et la [<span style="color:red;">Pit-Hag</span>](pithag.md), vous risquez de perdre votre question chaque jour où vous ne l'utilisez pas. 
-- L'utiliser immédiatement élimine ce risque. 
-- De nombreuses questions, même sans rien savoir du jeu, 
-  vous donneront une longueur d'avance considérable pour débusquer les forces du mal qui se cachent dans le Village.
-
-
-- Gardez votre question pour vous pendant quelques jours. 
-- C’est très risqué, car plus vous restez en vie longtemps sans l’utiliser, plus vous courez le risque de ne jamais pouvoir la poser.
-- Cela dit, 
-<a href="../sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a> est un script regorgeant d’informations : 
-attendre d’entendre les déclarations des joueurs et les informations dont ils disposent peut vous permettre de poser une question bien plus ciblée 
-et potentiellement décisive capable de changer le cours de la partie avec un simple « oui » ou « non ».
-- En particulier, des rôles comme la [<span style="color:#4ea3ff;">Fleuriste</span>](fleuriste.md), le [<span style="color:#4ea3ff;">Crieur</span>](fleuriste.md), 
-et l’[<span style="color:#4ea3ff;">Oracle</span>](fleuriste.md) fournissent des informations qui peuvent vous aider à cerner précisément où se cache les maléfiques.
-
-
-###  <span style="color:#4ea3ff;">Comment bien formuler</span>  
-
-- **Être trop précis** dans votre question (par exemple : « Amélie est-elle le Démon ? ») aboutira très probablement à une réponse peu utile, comme un simple « non ». 
-- À la place, posez des questions qui divisent le groupe en deux. 
-- Par exemple, demandez si le Démon est assis dans un groupe précis : qu’il s’agisse d’un « oui » ou d’un « non », 
-  vous aurez déjà réduit la zone où se trouve ou ne se trouve pas le Démon.
-- D’autres questions peuvent consister à demander s’il existe une concentration de joueurs maléfiques à un endroit donné, 
-  ou à interroger le Conteur au sujet de rôles comme la [<span style="color:#d45b5b;">Jumelle Maléfique</span>](jumeaumalefique).
-
-- Si vous n’avez pas beaucoup de pistes issues des mécaniques de jeu, 
-  vous pouvez également poser des questions basées sur des éléments extérieurs au jeu tout en divisant le village en groupes. 
-- Par exemple, si un nombre disproportionné de joueurs porte des vêtements rouges, vous pouvez demander si le Démon se trouve parmi eux.
-
-- Votre capacité peut être utilisée pour reproduire de nombreuses capacités d’obtention d’informations présentes dans le jeu,
-  à condition de pouvoir les formuler sous forme de question à laquelle on peut répondre par « oui » ou par « non ». 
-- Écoutez attentivement les déclarations des joueurs et des joueuses autour de vous 
-  et construisez votre question de manière à combler les faiblesses des informations de l’équipe du bien, 
-  ou à confirmer ou infirmer les déclarations d’un autre joueur.
-
+<h2 style="color:#4ea3ff;">Exemples</h2>
 
 ---
 
-###  <span style="color:#4ea3ff;">Jouer discrètement</span>  
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
+  <li style="margin-bottom:14px;">
+    L’Artiste demande : <strong>« Le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> est-il assis sur une chaise marron ? »</strong><br>
+    Le Conteur répond <strong>« Non »</strong>, car le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> est assis sur une chaise noire.
+  </li>
 
-- **Cachez votre pouvoir** : Se cacher du Démon afin qu’il ne vous tue pas avant que vous n’ayez utilisé votre capacité est impératif. 
-- Vous pouvez tenter de bluffer en prétendant être un autre rôle, mais une autre option consiste à vous révéler au village 
-  et à faire semblant d’avoir déjà posé votre question. 
-- Si le Démon vous croit, il ne vous considérera plus comme une menace prioritaire 
-  et cherchera probablement à éliminer en priorité des cibles plus dangereuses, qui semblent encore obtenir des informations.
+  <li style="margin-bottom:14px;">
+    L’Artiste demande : <strong>« David est-il la <a href="./jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumelle Maléfique</a> ? »</strong><br>
+    Le Conteur répond <strong>« Oui »</strong>, car David l’est.
+  </li>
 
+  <li style="margin-bottom:14px;">
+    L’Artiste demande : <strong>« Combien y a-t-il de <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> vivants ? »</strong><br>
+    Le Conteur répond : <strong>« Posez une autre question, s’il vous plaît. Je ne peux pas répondre à cette question par oui, non ou je ne sais pas. »</strong>
+  </li>
 
----
+  <li style="margin-bottom:14px;">
+    L’Artiste demande : <strong>« Est-ce que nous sommes en train de gagner ? »</strong><br>
+    Le Conteur répond : <strong>« Je ne sais pas »</strong>, car même si tous les <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> sont morts, le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> a su gagner la confiance de l’équipe du Bien.
+  </li>
 
-###  <span style="color:#4ea3ff;">Contourner le Vortox</span>  
+</ul>
 
-> Ne demandez **jamais directement** : « Y a-t-il un [<span style="color:red;">Vortox</span>](vortox.md) en jeu ? »  
-→ La réponse sera toujours « Non », soit parce qu’il n’y a pas de [<span style="color:red;">Vortox</span>](vortox.md), 
-  soit parce qu’il y en a un et que vous recevez une information fausse.
- 
-- Pour tenter de détecter un [<span style="color:red;">Vortox</span>](vortox.md), 
-  vous pouvez plutôt formuler une affirmation incontestablement vraie comme par exemple :
-  > « 2 + 2 = 4 ? »  
-  → Si le réponse est « Non », il y a un problème : probablement un [<span style="color:red;">Vortox</span>](vortox.md) ou 
-  un [<span style="color:red;">No Dashii </span>](nodashii.md).  
-
-- Ou posez une question **vérifiable en jeu** :  
-  > « Le Démon est-il parmi ces trois joueurs ? »  
-  Si après exécution des trois personnes le jeu continue, vous avez presque confirmé la présence d’un [<span style="color:red;">Vortox</span>](vortox.md). .  
+<h2 style="color:#4ea3ff;">Conseils &amp; Astuces</h2>
 
 ---
 
-##  <span style="color:#4ea3ff;">Bluffer Artiste</span>   
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
 
+  <li style="margin-bottom:14px;">
+    Posez votre question dès que possible le premier jour !<br>
+    Entre le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> et la <a href="./pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a>, vous risquez de perdre votre question chaque jour où vous ne l’utilisez pas.<br>
+    L’utiliser immédiatement supprime ce risque.<br>
+    Il existe beaucoup de questions que vous pouvez poser sans rien savoir d’autre sur la partie, et qui vous donneront une excellente longueur d’avance pour découvrir où le Mal se cache dans le village.
+  </li>
 
-- L’Artiste peut avoir reçu **toutes sortes d’informations** : servez-vous-en pour soutenir votre récit.  
-  → Vous pouvez prétendre avoir eu une “réponse du Conteur” qui sert les intérêts maléfiques.  
+  <li style="margin-bottom:14px;">
+    Gardez votre question pendant quelques jours.<br>
+    C’est très risqué, puisque plus vous restez en vie sans l’utiliser, plus vous risquez de ne jamais pouvoir le faire.<br>
+    Cela dit, <a href="../sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a> est une partie remplie d’informations : attendre d’entendre les revendications des joueurs et les informations dont ils disposent peut vous permettre de poser une question beaucoup plus précise et redoutable, capable de changer le cours de la partie avec un simple <strong>« oui »</strong> ou <strong>« non »</strong>.<br>
+    En particulier, des rôles comme la <a href="./fleuriste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a>, le <a href="./crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur public</a> et l’<a href="./oracle.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Oracle</a> donnent des informations qui peuvent vous aider à réduire les possibilités quant à l’endroit où se trouve le Mal.
+  </li>
 
-- Faites croire que **des bons joueurs sont maléfiques** : 
-   → Par exemple, vous pouvez prétendre avoir demandé si un rôle précis est en jeu, 
-   si un joueur donné est assis à côté d’un joueur maléfique, etc. 
-- Chaque joueur bon que le village exécute à cause de vos informations douteuses est une exécution que le village n’a pas utilisée contre votre Démon.
-  > “Le Conteur m’a dit que le Démon est à droite de Nicolas.”  
+  <li style="margin-bottom:14px;">
+    Poser une question trop précise, par exemple <strong>« Amy est-elle le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> ? »</strong>, vous donnera probablement un <strong>« non »</strong> peu utile.<br>
+    Posez plutôt des questions qui divisent le groupe en deux moitiés.<br>
+    Par exemple, demandez si le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> se trouve dans un groupe précis : que la réponse soit oui ou non, vous avez réduit les possibilités quant à l’endroit où le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> se trouve ou ne se trouve pas.<br>
+    Vous pouvez également demander s’il existe une concentration de joueurs maléfiques dans une zone précise, ou poser une question sur des rôles comme la <a href="./jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumelle Maléfique</a>.
+  </li>
 
-- Ou l’inverse : **Posez une question qui suggère que vos alliés maléfiques sont bons.**  
-  → Par exemple; s’il y a plus de joueurs maléfiques à votre gauche qu’à votre droite, 
-  ou si le Démon se trouve à un endroit où vous savez qu’il ne se trouve pas, 
-  ou encore si un rôle précis est en jeu alors qu’il s’agit en réalité d’un bluff utilisé par un joueur maléfique. 
-  Innocenter des joueurs maléfiques aux yeux du village détournera l’attention vers d’autres cibles, 
-  faisant perdre du temps à enquêter sur des joueurs qui représentent une menace moindre.
-  > “Le Conteur a dit que le Démon n’est pas à gauche de Vanessa.”  
+  <li style="margin-bottom:14px;">
+    Si vous n’avez pas beaucoup de pistes liées aux mécaniques de la partie, vous pouvez aussi poser une question sur des éléments extérieurs au jeu tout en divisant le village en plusieurs groupes.<br>
+    Par exemple, si un nombre disproportionné de joueurs porte un haut rouge, vous pouvez demander si le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> se trouve parmi eux !
+  </li>
 
-- Vous pouvez choisir de **contredire** les infos du camp du Bien (utile pour un Sbire),  
-  ou au contraire **les confirmer** (utile pour un Démon cherchant à se fondre dans le groupe).  
+  <li style="margin-bottom:14px;">
+    Votre capacité peut reproduire de nombreuses capacités d’information de la partie, à condition de pouvoir les formuler sous la forme d’une question à laquelle le Conteur peut répondre par oui ou non !<br>
+    Écoutez les revendications des joueurs autour de vous et construisez votre question afin de combler les faiblesses dans les informations de l’équipe du Bien, ou de confirmer ou réfuter les affirmations d’un autre joueur.
+  </li>
 
-- ⚠️ **Méfiez-vous du [<span style="color:red;">Vortox</span>](vortox.md)**. 
-  → Si vous savez qu’un[<span style="color:red;">Vortox</span>](vortox.md) est en jeu, 
-  vous devrez faire attention à ne pas fournir des informations « vraies », 
-  car le [<span style="color:red;">Vortox</span>](vortox.md) transformerait toute information correcte en information fausse.
- 
-- Ne révélez **jamais trop tôt** ce bluff :  
-  En début de partie, un Artiste ayant déjà posé sa question constitue une cible idéale pour une exécution « de précaution » destinée à satisfaire un éventuel [<span style="color:red;">Vortox</span>](vortox.md). 
-  Si vous êtes justement ce [<span style="color:red;">Vortox</span>](vortox.md), ce serait une fin pour le moins embarrassante ! 
+  <li style="margin-bottom:14px;">
+    Vous cacher du <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> afin qu’il ne vous tue pas avant que vous ayez utilisé votre capacité est impératif.<br>
+    Vous pouvez essayer de bluffer un autre rôle, mais une autre option consiste à vous révéler au village et à prétendre que vous avez déjà posé votre question.<br>
+    Si le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> vous croit, il vous considérera moins comme une menace, et donnera probablement la priorité à des cibles plus dangereuses qui semblent encore recevoir des informations.
+  </li>
+
+  <li style="margin-bottom:14px;">
+    Ne posez pas directement de question sur le <a href="./vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a>.<br>
+    Demander <strong>« Un <a href="./vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a> est-il en jeu ? »</strong> donnera toujours un <strong>« non »</strong> : soit il n’y a pas de <a href="./vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a>, soit il y en a un et vous recevez une fausse information.<br>
+    Pour tenter de détecter le <a href="./vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a>, vous pouvez plutôt poser une question dont la réponse est forcément vraie, par exemple <strong>« 2 + 2 font-ils 4 ? »</strong>.<br>
+    Si le Conteur répond <strong>« non »</strong>, vous savez que votre information a été perturbée d’une manière ou d’une autre.
+  </li>
+
+  <li style="margin-bottom:14px;">
+    Une autre façon de rechercher la présence d’un <a href="./vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a> consiste à demander une information qui peut être vérifiée comme vraie pendant la partie.<br>
+    Par exemple : demandez si le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> se trouve parmi trois joueurs.<br>
+    Remarque : ces trois joueurs ne devraient pas être suffisamment proches pour être vos voisins, car le <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a> pourrait perturber votre information.<br>
+    Si vous obtenez un <strong>« oui »</strong>, exécutez-les tous.<br>
+    Ensuite, si la partie continue, vous savez qu’il s’agit probablement d’un <a href="./vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a>.<br>
+    Si vous obtenez un <strong>« non »</strong>, alors soit vous connaissez trois joueurs qui ne sont pas le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, soit vous savez que l’un d’eux est très probablement le <a href="./vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a>.
+  </li>
+
+</ul>
+
+<h2 style="color:#4ea3ff;">Bluffer l’Artiste</h2>
 
 ---
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<strong>Lorsque vous bluffez l'Artiste,</strong> il y a quelques éléments à garder en tête:
+</p>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
+  <li style="margin-bottom:14px;">
+    L’Artiste peut recevoir pratiquement n’importe quelle information dans la partie.<br>
+    Utilisez cela à votre avantage lorsque vous bluffez : donnez une information qui renforce le récit que l’équipe maléfique essaie de construire contre l’équipe du Bien.
+  </li>
+
+  <li style="margin-bottom:14px;">
+    Posez une question qui fait paraître des joueurs bons maléfiques.<br>
+    Vous pouvez par exemple prétendre avoir demandé si un rôle précis est en jeu, si un joueur donné est assis à côté d’un joueur maléfique, etc.<br>
+    Chaque joueur bon exécuté par le village à cause de votre information douteuse est une exécution qui n’aura pas été utilisée contre votre <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.
+  </li>
+
+  <li style="margin-bottom:14px;">
+    Posez une question qui indique que vos alliés maléfiques sont bons !<br>
+    Vous pouvez par exemple prétendre avoir demandé s’il y a plus de joueurs maléfiques à votre gauche qu’à votre droite, si le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> se trouve dans une zone où vous savez qu’il n’est pas, ou même si un rôle précis est en jeu, alors qu’il s’agit en réalité d’un bluff utilisé par un joueur maléfique.<br>
+    Innocenter des joueurs maléfiques aux yeux du village poussera celui-ci à concentrer ses efforts ailleurs, et à perdre du temps sur des joueurs qui représentent une menace bien moins importante.
+  </li>
+
+  <li style="margin-bottom:14px;">
+    Décidez si votre information va contredire ou non celles de l’équipe du Bien.<br>
+    C’est plus risqué si vous êtes le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, puisque si vous les contredisez, l’équipe du Bien vous tuera probablement par méfiance.<br>
+    En tant que <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>, vous pouvez préparer plus volontairement un contre-argument, puisque votre exécution ne met pas fin à la partie, et si vous parvenez entre-temps à convaincre le groupe de quelque chose de faux, c’est encore mieux !
+  </li>
+
+  <li style="margin-bottom:14px;">
+    Méfiez-vous du <a href="./vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a> : si vous savez qu’il est en jeu, vous devrez faire attention lorsque vous donnez une information <strong>« vraie »</strong>, puisque le <a href="./vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a> rendrait fausse votre information supposément bonne.
+  </li>
+
+  <li style="margin-bottom:14px;">
+    Ne révélez pas ce bluff immédiatement.<br>
+    En début de partie, un Artiste qui a déjà posé sa question est une cible idéale pour une exécution de précaution destinée à satisfaire un éventuel <a href="./vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a>.<br>
+    Si vous êtes ce <a href="./vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a>, ce serait une fin plutôt embarrassante !
+  </li>
+
+</ul>
+
+
+<hr class="explication">
+
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li> <a href="/botc-fr-bambi/" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
