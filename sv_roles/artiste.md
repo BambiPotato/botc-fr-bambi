@@ -75,7 +75,7 @@ Dieu est révélé ! Oui ! »
 
 
 
-<h2 style="color:#4ea3ff;">Résumé</h2>
+<h1 style="color:#4ea3ff;">Résumé</h1>
 
 ---
 
@@ -86,7 +86,6 @@ Dieu est révélé ! Oui ! »
 <p class="botc-flavour-text dropcap">
 <strong>L’ARTISTE</strong> peut poser n’importe quelle question au Conteur.
 </p>
-
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
   <li style="margin-bottom:14px;">
     La question peut porter sur n’importe quel sujet et être formulée comme il le souhaite.<br>
