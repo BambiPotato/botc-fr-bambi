@@ -148,8 +148,8 @@ home_sidebar: true
 
     <td class="rules-cell">
       <a class="rules-link" href="./installation.html">
-        <div class="rules-title">Installation</div>
-        <div class="rules-sub">Mise en place étape par étape</div>
+        <div class="rules-title">Mise en place</div>
+        <div class="rules-sub">Mener une partie étape par étape</div>
       </a>
     </td>
   </tr>
