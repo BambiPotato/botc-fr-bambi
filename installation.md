@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mise en Place & Installation
+title: Mise en Place 
 description: Comment préparer une partie de Blood on the Clocktower étape par étape.
 image: /images/logogold.png
 ---
