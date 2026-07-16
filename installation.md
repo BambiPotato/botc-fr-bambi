@@ -126,7 +126,7 @@ Les rôles que vous choisirez influenceront grandement le déroulement de la par
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong>Exemple 1 (chaotique et fun) :</strong><br>
-<a href="./tb_roles/cuistot.html" style="color:#80aee0; font-weight:bold; text-decoration:none;">Cuisnier</a>,
+<a href="./tb_roles/cuistot.html" style="color:#80aee0; font-weight:bold; text-decoration:none;">Cuisinier</a>,
 <a href="./tb_roles/empathique.html" style="color:#80aee0; font-weight:bold; text-decoration:none;">Empathe</a>,
 <a href="./tb_roles/voyante.html" style="color:#80aee0; font-weight:bold; text-decoration:none;">Voyante</a>,
 <a href="./tb_roles/croquemort.html" style="color:#80aee0; font-weight:bold; text-decoration:none;">Fossoyeur</a>,
