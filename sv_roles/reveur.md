@@ -71,15 +71,12 @@ Ensuite, je me suis réveillé. »
   </a>
 </div>
 
-<hr class="explication">
-
-
 
 ## <span style="color:#4ea3ff;">Résumé</span>  
 
 
+<hr class="marginal">
 
-<hr class="explication">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
 « Chaque nuit, choisissez un joueur (sauf vous-même ni les voyageurs) : <br> vous apprenez 1 rôle bon et 1 rôle maléfique, dont 1 est correct. »
