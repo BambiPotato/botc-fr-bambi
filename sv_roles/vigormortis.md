@@ -12,7 +12,8 @@ image: /images/Icon_vigormortis.png
   </a>
 </p>
 
----
+
+<hr class="explication">
 
 
 <!-- 🧩 Image centrée cliquable -->
@@ -237,7 +238,7 @@ Instructions au Conteur
   </li>
 
   <li style="margin-bottom:14px;">
-    Méfiez-vous du <a href="../voyageurs/collecteurdos.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Collecteur d’os</a>.<br>
+    Méfiez-vous du <a href="../voyageurs/bonecollector.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Collecteur d’os</a>.<br>
     Il peut donner l’impression qu’un Vigormortis est en jeu alors que ce n’est pas le cas.
   </li>
 
