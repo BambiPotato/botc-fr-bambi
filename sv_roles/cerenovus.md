@@ -77,10 +77,10 @@ image: /images/Icon_cerenovus.png
 Chaque nuit, choisissez un joueur et un rôle bon : le lendemain, il doit être <strong>« fou »</strong> d’être ce rôle. Sinon, il pourrait être exécuté.
 </p>
 
+
 <p class="botc-flavour-text dropcap" style="margin-top:0;">
 <strong>LE CERENOVUS</strong> pousse les joueurs à faire semblant d’avoir un rôle différent de leur rôle véritable.
 </p>
-
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
 <li style="margin-bottom:14px;">
     Le Cerenovus choisit un rôle de <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> ou de <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a> ; le joueur ciblé doit alors être <strong>« fou »</strong> d’être ce rôle.<br>
@@ -112,8 +112,8 @@ Chaque nuit, choisissez un joueur et un rôle bon : le lendemain, il doit être 
 Instructions au Conteur
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
 
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
   <li style="margin-bottom:14px;">
     Chaque nuit, réveillez le Cerenovus.<br>
     Il désigne n’importe quel joueur et n’importe quelle icône de <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> ou de <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a> sur sa fiche de rôles.<br>
