@@ -13,14 +13,18 @@ image: /images/logogold.png
 
 <hr class="explication">
 
-<!--  Installation et mise en place -->
+<!-- Installation et mise en place -->
 
-<h1 style="color:#5C2E1F; font-weight:bold; font-size:36px;"> Mise en place</h1>
-<p class="botc-flavour-text dropcap" style="margin-top:0;">
-VOUS POUVEZ METTRE EN PLACE UNE PARTIE DE BOTC en suivant les instructions qui sont expliquées plus en détail ci-dessous.
-</p> 
-<p style="margin-top:0; color:#f5f5f5; font-size:18px; line-height:1.8;">
-Cette page dédiée à la <strong>Mise en Place</strong> vous guide pas à pas dans la préparation d’une partie de <strong>Blood on the Clocktower</strong>.<br> Elle s’adresse aussi bien aux <strong>Conteurs et Conteuses</strong> qu’aux joueurs et joueuses.
+<h1 style="color:#5C2E1F; font-weight:bold; font-size:36px;">
+  Mise en place
+</h1>
+
+<p class="botc-flavour-text dropcap" style="margin:0 0 18px 0;">
+  VOUS POUVEZ METTRE EN PLACE UNE PARTIE DE BOTC en suivant les instructions qui sont expliquées plus en détail ci-dessous.
+</p>
+<p style="clear:left; margin:0; color:#f5f5f5; font-size:18px; line-height:1.8;">
+  Cette page dédiée à la <strong>Mise en Place</strong> vous guide pas à pas dans la préparation d’une partie de <strong>Blood on the Clocktower</strong>.<br>
+  Elle s’adresse aussi bien aux <strong>Conteurs et Conteuses</strong> qu’aux joueurs et joueuses.
 </p>
 
 <hr class="explication">
