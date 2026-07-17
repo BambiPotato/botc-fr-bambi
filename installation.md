@@ -23,7 +23,7 @@ image: /images/logogold.png
   VOUS POUVEZ METTRE EN PLACE UNE PARTIE DE BOTC en suivant les instructions qui sont expliquées plus en détail ci-dessous.
 </p>
 <p style="clear:left; margin:0; color:#f5f5f5; font-size:18px; line-height:1.8;">
-  Cette page dédiée à la <strong>Mise en Place</strong> vous guide pas à pas dans la préparation d’une partie de <strong>Blood on the Clocktower</strong>.<br>
+  Cette page dédiée à la <strong>Mise en Place</strong>, vous guide pas à pas dans la préparation d’une partie de <strong>Blood on the Clocktower</strong>.<br>
   Elle s’adresse aussi bien aux <strong>Conteurs et Conteuses</strong> qu’aux joueurs et joueuses.
 </p>
 
@@ -31,16 +31,16 @@ image: /images/logogold.png
 
 <h2 style="color:#5C2E1F; font-weight:bold;"> Sommaire</h2>
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li><a href="#rassembler"   style="color:#80aee0; font-weight:bold; text-decoration:none;">1. Rassemblez vos joueurs</a></li>
-  <li><a href="#grimoire"     style="color:#80aee0; font-weight:bold; text-decoration:none;">2. Préparer le Grimoire</a></li>
-  <li><a href="#edition"      style="color:#80aee0; font-weight:bold; text-decoration:none;">3. Choisissez un module</a></li>
-  <li><a href="#place"        style="color:#80aee0; font-weight:bold; text-decoration:none;">4. Préparez la place du village</a></li>
-  <li><a href="#regles"       style="color:#80aee0; font-weight:bold; text-decoration:none;">5. Lisez les règles aux nouveaux joueurs et joueuses</a></li>
-  <li><a href="#roles"        style="color:#80aee0; font-weight:bold; text-decoration:none;">6. Choisissez secrètement les rôles</a></li>
-  <li><a href="#ajustements"  style="color:#80aee0; font-weight:bold; text-decoration:none;">7. Ajoutez et retirez des rôles</a></li>
-  <li><a href="#rappels"      style="color:#80aee0; font-weight:bold; text-decoration:none;">8. Ajoutez les jetons de rappel au grimoire</a></li>
-  <li><a href="#distribution" style="color:#80aee0; font-weight:bold; text-decoration:none;">9. Distribuez les jetons de rôle</a></li>
-  <li><a href="#placer"       style="color:#80aee0; font-weight:bold; text-decoration:none;">10.Ajoutez les jetons de rôle au grimoire</a></li>
+  <li><a href="#rassembler"   style="color:#4ea3ff; font-weight:bold; text-decoration:none;">1. Rassemblez vos joueurs</a></li>
+  <li><a href="#grimoire"     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">2. Préparer le Grimoire</a></li>
+  <li><a href="#edition"      style="color:#4ea3ff; font-weight:bold; text-decoration:none;">3. Choisissez un module</a></li>
+  <li><a href="#place"        style="color:#4ea3ff; font-weight:bold; text-decoration:none;">4. Préparez la place du village</a></li>
+  <li><a href="#regles"       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">5. Lisez les règles aux nouveaux joueurs et joueuses</a></li>
+  <li><a href="#roles"        style="color:#4ea3ff; font-weight:bold; text-decoration:none;">6. Choisissez secrètement les rôles</a></li>
+  <li><a href="#ajustements"  style="color:#4ea3ff; font-weight:bold; text-decoration:none;">7. Ajoutez et retirez des rôles</a></li>
+  <li><a href="#rappels"      style="color:#4ea3ff; font-weight:bold; text-decoration:none;">8. Ajoutez les jetons de rappel au grimoire</a></li>
+  <li><a href="#distribution" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">9. Distribuez les jetons de rôle</a></li>
+  <li><a href="#placer"       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">10.Ajoutez les jetons de rôle au grimoire</a></li>
 </ul>
 
 <hr>
@@ -86,7 +86,7 @@ Pour débuter, privilégiez <a href="./trouble_brewing.html" style="color:#b58b5
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Bien qu’il soit possible de jouer aux autres modules avec moins de sept joueurs, cela n’est pas recommandé.<br> 
 (Dans des parties de 
-<a href="./bmr.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Bad Moon Rising</a> 
+<a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a> 
 ou de 
 <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a> 
 à cinq ou six joueurs, des rôles comme le 
@@ -135,8 +135,8 @@ Une seconde fiche des règles se trouve au verso de la fiche des Voyageurs, rang
 
 <h2 id="roles" style="color:#5C2E1F; font-weight:bold;">6. Choisissez secrètement les rôles</h2>
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Prenez tous les jetons <a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> dans la boîte du module choisi et sélectionnez-en le nombre approprié en fonction du nombre de joueurs, comme indiqué sur la fiche de mise en place. 
-Placez ces jetons de rôle sur le côté gauche du Grimoire, puis remettez tous les jetons <a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> restants dans la boîte du module. Faites ensuite de même pour les jetons <a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>, <a href="./sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> et le <a href="./demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>. Faites tout cela en secret : les joueurs ne savent pas quels rôles sont en jeu.
+Prenez tous les jetons <a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> dans la boîte du module choisi et sélectionnez-en le nombre approprié en fonction du nombre de joueurs, comme indiqué sur la fiche de mise en place. <br>
+Placez ces jetons de rôle sur le côté gauche du Grimoire, puis remettez tous les jetons <a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> restants dans la boîte du module. Faites ensuite de même pour les jetons <a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>, <a href="./sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> et le <a href="./demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>. <br> Faites tout cela en secret : les joueurs ne savent pas quels rôles sont en jeu.
 </p>
 
 <div class="botc-note">
@@ -158,29 +158,22 @@ Les rôles que vous choisissez influencent fortement le déroulement de la parti
 
 </p>
 
-<p style="margin-top:0;"><strong>Configuration n°1</strong>
+<p style="margin-top:0;"><strong>Configuration n°1</strong></p>
 
+<p>
 <a href="./tb_roles/cuisinier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a>,
-
 <a href="./tb_roles/empathe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>,
-
 <a href="./tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>,
-
 <a href="./tb_roles/fossoyeur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a>,
-
 <a href="./tb_roles/immaculee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Immaculée</a>,
-
 <a href="./tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>
-
 (<a href="./tb_roles/detective.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a>),
-
 <a href="./tb_roles/femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme écarlate</a>,
-
 <a href="./tb_roles/diablotin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Cette configuration fournit beaucoup d’informations aux joueurs bons et constitue un excellent moyen d’inciter immédiatement les joueurs à discuter, tout en restant relativement sûre pour les joueurs maléfiques qui ne savent pas encore très bien bluffer. La partie sera chaotique et très amusante pour les nouveaux joueurs. N’oubliez pas de donner de fausses informations au <a href="./tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a> ivre, et souvenez-vous qu’il ne peut pas mourir en nommant l’<a href="./tb_roles/vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Immaculée</a>&nbsp;!
+Cette configuration fournit beaucoup d’informations aux joueurs bons et constitue un excellent moyen d’inciter immédiatement les joueurs à discuter, tout en restant relativement sûre pour les joueurs maléfiques qui ne savent pas encore très bien bluffer. <br> La partie sera chaotique et très amusante pour les nouveaux joueurs.<br> N’oubliez pas de donner de fausses informations au <a href="./tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a> ivre, et souvenez-vous qu’il ne peut pas mourir en nommant l’<a href="./tb_roles/vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Immaculée</a>&nbsp;!
 </p>
 </div>
 
@@ -233,7 +226,7 @@ Il s'agit d'une configuration plus avancée, qui demande une logique plus approf
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Si des jetons de rôle choisis affichent une <strong>fleur orange</strong>, vous devrez ajouter ou retirer certains jetons de rôle, comme indiqué dans leur entrée d’almanach.<br>
-Sur le jeton de rôle, le texte entre crochets <strong>[comme ceci]</strong> décrit brièvement comment modifier les rôles en jeu pour cette partie.
+Sur le jeton de rôle, le texte entre crochets <strong>[comme ceci]</strong> décrit brièvement comment modifier les rôles en jeu pour cette partie.<br>
 Cela se fait maintenant et ne se reproduira plus une fois la partie commencée. <br>
 Après l’ajout et le retrait de jetons de rôle, le nombre total de jetons de rôle est toujours égal au nombre de joueurs.
 </p>
