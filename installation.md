@@ -238,7 +238,7 @@ Exemple
 </h3>
 
 <p style="margin:0; color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le jeton du <a href="./tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> comporte le texte <strong>[+2 <a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>]</strong>. Le <a href="./tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> ajoute deux jetons <a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a> à la partie, mais retire deux <a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>. <br> D’autres rôles, comme l’<a href="./tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>, fonctionnent de manière similaire.
+Le jeton du <a href="./tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> comporte le texte <strong>[+2 <a href="./etrangers.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Marginaux</a>]</strong>. Le <a href="./tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> ajoute deux jetons <a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a> à la partie, mais retire deux <a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>. <br> D’autres rôles, comme l’ <a href="./tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>, fonctionnent de manière similaire.
 </p>
 
 </div>
@@ -260,7 +260,7 @@ Exemple
 </h3>
 
 <p style="margin:0; color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le jeton de rôle du <a href="./tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a> affiche une icône de loupe.
+Le jeton de rôle du <a href="./tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a> affiche une icône de loupe.<br>
 Les deux jetons de rappel du <a href="./tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a> affichent la même icône de loupe.
 </p>
 
