@@ -66,8 +66,8 @@ image: /images/logogold.png
 
   Aujourd’hui, <em>Blood on the Clocktower</em> se joue :
   <br>
-  – en version physique, avec un Grimoire et des de rôles jetons illustrés ;  
-  – via une application pour jouer et conter en ligne ;  
+  – en version physique, avec un Grimoire et des jetons de rôle;  
+  – via l'application officielle pour jouer et conter en ligne ;  
   – sur de nombreux serveurs Discord et en streams sur Twitch et YouTube à travers le monde.
 </p>
 
