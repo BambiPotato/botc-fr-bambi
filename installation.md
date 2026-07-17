@@ -47,9 +47,9 @@ image: /images/logogold.png
 
 <h2 id="rassembler" style="color:#5C2E1F; font-weight:bold;">1. Rassemblez vos joueurs</h2>
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Prévoyez une chaise par joueur et disposez-les de manière à ce que les joueurs se fassent face.
-Un cercle approximatif convient, tant que les joueurs sont assis dans un ordre clairement défini, dans le sens des aiguilles d’une montre. 
-En tant que <strong>Conteur</strong>, vous devrez entrer et sortir fréquemment du cercle, laissez donc un espace libre entre deux chaises. 
+Prévoyez une chaise par joueur et disposez-les de manière à ce que les joueurs se fassent face.<br>
+Un cercle approximatif convient, tant que les joueurs sont assis dans un ordre clairement défini, dans le sens des aiguilles d’une montre.<br> 
+En tant que <strong>Conteur</strong>, vous devrez entrer et sortir fréquemment du cercle, laissez donc un espace libre entre deux chaises. <br>
 Le centre de cet espace devra être en grande partie dégagé : pas de table ni d’obstacle au sol sur lequel quelqu’un pourrait trébucher.  
 </p>
 
@@ -57,8 +57,8 @@ Le centre de cet espace devra être en grande partie dégagé : pas de table ni 
 
 <h2 id="grimoire" style="color:#5C2E1F; font-weight:bold;">2. Préparer le Grimoire</h2>
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Fixez le Grimoire en attachant les deux pinces métalliques aussi près que possible des coins supérieurs et inférieurs de la boîte de jeu, afin de former un contenant solide semblable à un livre.
-Dépliez et assemblez les deux parties du <strong>lutrin du Grimoire</strong>, puis placez-y le Grimoire, en veillant à ce que les joueurs qui se déplacent autour ne puissent pas voir accidentellement son contenu. 
+Fixez le Grimoire en attachant les deux pinces métalliques aussi près que possible des coins supérieurs et inférieurs de la boîte de jeu, afin de former un contenant solide semblable à un livre.<br>
+Dépliez et assemblez les deux parties du <strong>lutrin du Grimoire</strong>, puis placez-y le Grimoire, en veillant à ce que les joueurs qui se déplacent autour ne puissent pas voir accidentellement son contenu. <br>
 Rassemblez les tuiles info, les jetons de nuit et les linceuls où vous le souhaitez dans le Grimoire <em>(nous recommandons le coin inférieur gauche du côté droit).</em>
 </p>
 
@@ -72,19 +72,19 @@ Rassemblez les tuiles info, les jetons de nuit et les linceuls où vous le souha
   <li><a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
 </ul>
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Choisissez celui avec lequel vous voulez jouer, puis sortez et placez sa boîte de module dans la partie inférieure gauche du Grimoire.
-<em>(Cela vous permettra d’accéder facilement aux jetons de rôle et aux jetons de rappel nécessaires pour cette partie.)</em> 
+Choisissez celui avec lequel vous voulez jouer, puis sortez et placez sa boîte de module dans la partie inférieure gauche du Grimoire.<br>
+<em>(Cela vous permettra d’accéder facilement aux jetons de rôle et aux jetons de rappel nécessaires pour cette partie.)</em> <br>
 Ajoutez la fiche de nuit de ce module sur le côté droit du Grimoire.
 </p>
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:24px;">
-  <li><strong>Trouble Brewing</strong> : Il vous faut au minimum 5 joueurs</li>
-  <li><strong>Bad Moon Rising</strong> et <strong>Sects & Violets</strong> : Il vous faut au minimum 7 joueurs</li>
+  <li><strong>Trouble Brewing</strong> : Il vous faut au minimum 5 joueurs.</li>
+  <li><strong>Bad Moon Rising</strong> et <strong>Sects & Violets</strong> : Il vous faut au minimum 7 joueurs.</li>
 </ul>
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Pour débuter, privilégiez <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a>.
 </p>
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Bien qu’il soit possible de jouer aux autres modules avec moins de sept joueurs, cela n’est pas recommandé. 
+Bien qu’il soit possible de jouer aux autres modules avec moins de sept joueurs, cela n’est pas recommandé.<br> 
 (Dans des parties de 
 <a href="./bmr.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Bad Moon Rising</a> 
 ou de 
@@ -100,17 +100,15 @@ ou la
 peuvent donner un avantage injuste à une équipe.)
 </p>
 <div class="botc-note">
-Nous vous recommandons de commencer par <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a> , puis de passer ensuite aux autres modules.
+Nous vous recommandons de commencer par <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a> , puis de passer ensuite aux autres modules.<br> 
 De même, nous vous conseillons de mener une ou deux parties avec cinq à dix joueurs afin de vous familiariser avec le jeu, avant d’essayer des parties avec davantage de joueurs.
 </div>
 
 <hr>
 
 <h2 id="place" style="color:#5C2E1F; font-weight:bold;">4. Préparez la place du village</h2>
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Placez le plateau Place du Village sur le sol, au centre des chaises.
-</p>
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:24px;">
+  <li>Placez le plateau Place du Village sur le sol, au centre des chaises.</li>
   <li>Placez un jeton de vie par joueur sur la Place du Village, en correspondance avec leur position autour du cercle.</li>
   <li>Placez une pile de jetons de vote au centre de la Place du Village.</li>
   <li>Glissez partiellement la fiche des <a href="./voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a> 
@@ -128,9 +126,9 @@ La fiche des <a href="./regles.html" style="color:#80aee0; font-weight:bold; tex
 Lisez simplement le texte qui y figure à voix haute au groupe, ou laissez ceux qui le souhaitent la lire en privé.<br> 
 </p>
 <div class="botc-note">
-Une partie de la fiche des règles vous invite à expliquer différents signes de la main. Il est conseillé de les montrer au fur et à mesure, car certains joueurs apprennent plus facilement de manière visuelle. Si vous le souhaitez, vous pouvez lire dès maintenant la partie de la fiche des règles qui traite des nominations et des exécutions, mais la plupart des joueurs comprendront mieux ces règles si vous les expliquez plus tard, lorsque la première nomination pour une exécution aura lieu.<br> 
+Une partie de la fiche des règles vous invite à expliquer différents signes de la main. Il est conseillé de les montrer au fur et à mesure, car certains joueurs apprennent plus facilement de manière visuelle. <br> Si vous le souhaitez, vous pouvez lire dès maintenant la partie de la fiche des règles qui traite des nominations et des exécutions, mais la plupart des joueurs comprendront mieux ces règles si vous les expliquez plus tard, lorsque la première nomination pour une exécution aura lieu.<br> 
 <hr>  
-Une seconde fiche des règles se trouve au verso de la fiche des Voyageurs, rangée sous la Place du Village. Pour gagner du temps, vous pouvez demander à un joueur expérimenté de lire les règles à voix haute depuis cette fiche, afin que vous n’ayez pas à le faire. Pendant qu’il explique les règles, vous pouvez continuer à mettre la partie en place.
+Une seconde fiche des règles se trouve au verso de la fiche des Voyageurs, rangée sous la Place du Village. <br> Pour gagner du temps, vous pouvez demander à un joueur expérimenté de lire les règles à voix haute depuis cette fiche, afin que vous n’ayez pas à le faire. <br> Pendant qu’il explique les règles, vous pouvez continuer à mettre la partie en place.
 </div>
 
 <hr>
@@ -160,7 +158,7 @@ Les rôles que vous choisissez influencent fortement le déroulement de la parti
 
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<p style="margin-top:0;"><strong>Configuration n°1</strong></p>
 
 <a href="./tb_roles/cuisinier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a>,
 
@@ -183,7 +181,7 @@ Les rôles que vous choisissez influencent fortement le déroulement de la parti
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Cette configuration fournit beaucoup d’informations aux joueurs bons et constitue un excellent moyen d’inciter immédiatement les joueurs à discuter, tout en restant relativement sûre pour les joueurs maléfiques qui ne savent pas encore très bien bluffer. La partie sera chaotique et très amusante pour les nouveaux joueurs. N’oubliez pas de donner de fausses informations au <a href="./tb_roles/detective.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a> ivre, et souvenez-vous qu’il ne peut pas mourir en nommant l’<a href="./tb_roles/immaculee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Immaculée</a>&nbsp;!
+Cette configuration fournit beaucoup d’informations aux joueurs bons et constitue un excellent moyen d’inciter immédiatement les joueurs à discuter, tout en restant relativement sûre pour les joueurs maléfiques qui ne savent pas encore très bien bluffer. La partie sera chaotique et très amusante pour les nouveaux joueurs. N’oubliez pas de donner de fausses informations au <a href="./tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a> ivre, et souvenez-vous qu’il ne peut pas mourir en nommant l’<a href="./tb_roles/vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Immaculée</a>&nbsp;!
 </p>
 </div>
 
@@ -193,18 +191,18 @@ Cette configuration fournit beaucoup d’informations aux joueurs bons et consti
 <p style="margin-top:0;"><strong>Configuration n°2</strong></p>
 
 <p>
-<a href="./tb_roles/empathe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>,
+<a href="./tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>,
 <a href="./tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>,
-<a href="./tb_roles/corneille.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a>,
-<a href="./tb_roles/pourfendeuse.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a>,
+<a href="./tb_roles/gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a>,
+<a href="./tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a>,
 <a href="./tb_roles/maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a>,
 <a href="./tb_roles/saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a>,
 <a href="./tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>,
-<a href="./tb_roles/diablotin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>.
+<a href="./tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>.
 </p>
 
 <p style="margin-bottom:0;">
-Cette configuration donnera une partie beaucoup plus calme, les joueurs découvrant progressivement si le <a href="./tb_roles/saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a>, la <a href="./tb_roles/pourfendeuse.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a> et le <a href="./tb_roles/maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a> disent la vérité. L'<a href="./tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>, qui dispose de nombreuses cibles intéressantes, peut néanmoins provoquer un certain chaos. Cependant, la partie peut être rapide si la <a href="./tb_roles/pourfendeuse.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a> est perspicace, si le <a href="./tb_roles/saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a> manque de prudence, ou si l'<a href="./tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> ne parvient pas à trouver l'<a href="./tb_roles/empathe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a> et la <a href="./tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> à temps. Si le <a href="./tb_roles/maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a> est attaqué pendant la nuit, n'oubliez pas de tuer un autre joueur à la place, par exemple la <a href="./tb_roles/corneille.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a>.
+Cette configuration donnera une partie beaucoup plus calme, les joueurs découvrant progressivement si le <a href="./tb_roles/saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a>, la <a href="./tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a> et le <a href="./tb_roles/maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a> disent la vérité. L'<a href="./tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>, qui dispose de nombreuses cibles intéressantes, peut néanmoins provoquer un certain chaos. Cependant, la partie peut être rapide si la <a href="./tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a> est perspicace, si le <a href="./tb_roles/saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a> manque de prudence, ou si l'<a href="./tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> ne parvient pas à trouver l'<a href="./tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a> et la <a href="./tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> à temps. Si le <a href="./tb_roles/maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a> est attaqué pendant la nuit, n'oubliez pas de tuer un autre joueur à la place, par exemple la <a href="./tb_roles/gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a>.
 </p>
 
 </div>
@@ -216,16 +214,16 @@ Cette configuration donnera une partie beaucoup plus calme, les joueurs découvr
 <p>
 <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>,
 <a href="./tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>,
-<a href="./tb_roles/fossoyeur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a>,
-<a href="./tb_roles/pourfendeuse.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a>,
-<a href="./tb_roles/immaculee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Immaculée</a>,
-<a href="./tb_roles/recluse.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a>,
-<a href="./tb_roles/espionne.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a>,
-<a href="./tb_roles/diablotin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>.
+<a href="./tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a>,
+<a href="./tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a>,
+<a href="./tb_roles/vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Immaculée</a>,
+<a href="./tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a>,
+<a href="./tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a>,
+<a href="./tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>.
 </p>
 
 <p style="margin-bottom:0;">
-Il s'agit d'une configuration plus avancée, qui demande une logique plus approfondie de la part des joueurs, mais qui peut être très gratifiante s'ils parviennent à la résoudre. N'oubliez pas que la <a href="./tb_roles/recluse.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a> peut apparaître comme le <a href="./tb_roles/diablotin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> auprès de la <a href="./tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>, du <a href="./tb_roles/fossoyeur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a> et de la <a href="./tb_roles/pourfendeuse.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a> ! Et n'oubliez pas que l'<a href="./tb_roles/espionne.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a> peut apparaître comme une <a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageoise</a> à l'<a href="./tb_roles/immaculee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Immaculée</a>, au <a href="./tb_roles/fossoyeur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a> et à la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>.
+Il s'agit d'une configuration plus avancée, qui demande une logique plus approfondie de la part des joueurs, mais qui peut être très gratifiante s'ils parviennent à la résoudre. N'oubliez pas que la <a href="./tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a> peut apparaître comme le <a href="./tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> auprès de la <a href="./tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>, du <a href="./tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a> et de la <a href="./tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a> ! Et n'oubliez pas que l'<a href="./tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a> peut apparaître comme une <a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageoise</a> à l'<a href="./tb_roles/vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Immaculée</a>, au <a href="./tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a> et à la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>.
 </p>
 
 </div>
@@ -235,9 +233,9 @@ Il s'agit d'une configuration plus avancée, qui demande une logique plus approf
 <h2 id="ajustements" style="color:#5C2E1F; font-weight:bold;">7. Ajoutez et retirez des rôles</h2>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Si des jetons de rôle choisis affichent une <strong>fleur orange</strong>, vous devrez ajouter ou retirer certains jetons de rôle, comme indiqué dans leur entrée d’almanach.
+Si des jetons de rôle choisis affichent une <strong>fleur orange</strong>, vous devrez ajouter ou retirer certains jetons de rôle, comme indiqué dans leur entrée d’almanach.<br>
 Sur le jeton de rôle, le texte entre crochets <strong>[comme ceci]</strong> décrit brièvement comment modifier les rôles en jeu pour cette partie.
-Cela se fait maintenant et ne se reproduira plus une fois la partie commencée. 
+Cela se fait maintenant et ne se reproduira plus une fois la partie commencée. <br>
 Après l’ajout et le retrait de jetons de rôle, le nombre total de jetons de rôle est toujours égal au nombre de joueurs.
 </p>
 
@@ -248,7 +246,7 @@ Exemple
 </h3>
 
 <p style="margin:0; color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le jeton du <a href="./tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> comporte le texte <strong>[+2 <a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>]</strong>. Le <a href="./tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> ajoute deux jetons <a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a> à la partie, mais retire deux <a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>. D’autres rôles, comme l’<a href="./tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>, fonctionnent de manière similaire.
+Le jeton du <a href="./tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> comporte le texte <strong>[+2 <a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>]</strong>. Le <a href="./tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> ajoute deux jetons <a href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a> à la partie, mais retire deux <a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>. <br> D’autres rôles, comme l’<a href="./tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>, fonctionnent de manière similaire.
 </p>
 
 </div>
@@ -257,9 +255,9 @@ Le jeton du <a href="./tb_roles/baron.html" style="color:#d45b5b; font-weight:bo
 
 <h2 id="rappels" style="color:#5C2E1F; font-weight:bold;">8. Ajoutez les jetons de rappel au grimoire</h2>
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Si certains jetons de rôle choisis affichent des feuilles vertes en haut, ajoutez les jetons de rappel correspondants au rôle au Grimoire. 
-Replacez tous les autres jetons de rappel dans la boîte du module.
-Les jetons de rappel d’un rôle affichent la même icône que son jeton de rôle. 
+Si certains jetons de rôle choisis affichent des feuilles vertes en haut, ajoutez les jetons de rappel correspondants au rôle au Grimoire.<br> 
+Replacez tous les autres jetons de rappel dans la boîte du module.<br>
+Les jetons de rappel d’un rôle affichent la même icône que son jeton de rôle. <br>
 Le nombre de feuilles vertes en haut du jeton indique le nombre de jetons de rappel que possède ce rôle : s’il y a une feuille, ajoutez un jeton de rappel ; s’il y en a trois, ajoutez-en trois.
 </p>
 
@@ -270,8 +268,8 @@ Exemple
 </h3>
 
 <p style="margin:0; color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le jeton de rôle du <a href="./tb_roles/detective.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a> affiche une icône de loupe.
-Les deux jetons de rappel du <a href="./tb_roles/detective.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a> affichent la même icône de loupe.
+Le jeton de rôle du <a href="./tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a> affiche une icône de loupe.
+Les deux jetons de rappel du <a href="./tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a> affichent la même icône de loupe.
 </p>
 
 </div>
@@ -280,9 +278,9 @@ Les deux jetons de rappel du <a href="./tb_roles/detective.html" style="color:#4
 
 <h2 id="distribution" style="color:#5C2E1F; font-weight:bold;">9. Distribuez les jetons de rôle</h2>
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Mélangez les jetons de rôle et placez-les dans le sac. 
-Ensuite, chaque joueur tire un jeton de rôle du sac, puis passe le sac au joueur suivant. 
-Continuez jusqu’à ce que chaque joueur ait un jeton. 
+Mélangez les jetons de rôle et placez-les dans le sac. <br>
+Ensuite, chaque joueur tire un jeton de rôle du sac, puis passe le sac au joueur suivant.<br> 
+Continuez jusqu’à ce que chaque joueur ait un jeton. <br>
 Chaque joueur regarde son jeton de rôle en secret, sans le montrer à qui que ce soit.
 </p>
 
@@ -294,7 +292,7 @@ Récupérez tous les jetons de rôle auprès des joueurs et placez-les dans le G
 </p>
 <div class="botc-note">
 <p style="margin:0; color:#f5f5f5; font-size:18px; line-height:1.7;">
-La manière la plus sûre de récupérer les jetons de rôle est de demander aux joueurs de tendre la main, jeton posé dans la paume, face feutrée vers le haut, afin de pouvoir les récupérer sans révéler de couleur. L’organisation des jetons dans le Grimoire vous appartient&nbsp;: tant que l’ordre des joueurs y correspond à leur disposition réelle (horaire ou antihoraire), tout fonctionne. Regrouper les jetons de joueurs assis ensemble peut aussi servir d’aide-mémoire.
+La manière la plus sûre de récupérer les jetons de rôle est de demander aux joueurs de tendre la main, jeton posé dans la paume, face feutrée vers le haut, afin de pouvoir les récupérer sans révéler de couleur.<br> L’organisation des jetons dans le Grimoire vous appartient&nbsp;: tant que l’ordre des joueurs y correspond à leur disposition réelle (horaire ou antihoraire), tout fonctionne. Regrouper les jetons de joueurs assis ensemble peut aussi servir d’aide-mémoire.
 </p>
 </div>
 
