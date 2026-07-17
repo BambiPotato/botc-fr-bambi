@@ -16,7 +16,6 @@ image: /images/logogold.png
 <!--  Installation et mise en place -->
 
 <h1 style="color:#5C2E1F; font-weight:bold; font-size:36px;"> Mise en place</h1>
-
 <p class="botc-flavour-text dropcap" style="margin-top:0;">
 VOUS POUVEZ METTRE EN PLACE UNE PARTIE DE BOTC en suivant les instructions qui sont expliquées plus en détail ci-dessous.
 </p> 
@@ -151,7 +150,7 @@ et des <a href="./legendaire.html" style="color:#e0c99d; font-weight:bold; text-
 </div>
 
 <div class="botc-note">
-<h2 id="choix_roles" style="color:#5C2E1F; font-weight:bold;">CHOISIR LES RÔLES.</h2>
+<h2 id="choix_roles" style="color:#5C2E1F; font-weight:bold;">CHOISIR LES RÔLES</h2>
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Les rôles que vous choisissez influencent fortement le déroulement de la partie. Choisissez ceux qui vous semblent amusants, ceux qui interagiront bien ensemble, ou simplement ceux que vous vous sentez capable de gérer. Si c’est votre première partie et que vous ne savez pas quels rôles inclure, vous pouvez vous inspirer des exemples suivants (pour une partie à huit joueurs).
 
