@@ -1403,6 +1403,11 @@ hr.explication {
   background: transparent;
 }
 
+.botc-flavour-text.dropcap {
+  display: flow-root;
+  margin-bottom: 20px;
+}
+
 /* =========================================================
    Mobile / tablette
    ========================================================= */
