@@ -158,7 +158,7 @@ Les rôles que vous choisissez influencent fortement le déroulement de la parti
 
 </p>
 
-<p style="margin-top:0;"><strong>Configuration n°1</strong></p>
+<p style="margin-top:0;"><strong>Configuration n°1</strong>
 
 <a href="./tb_roles/cuisinier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a>,
 
@@ -177,7 +177,6 @@ Les rôles que vous choisissez influencent fortement le déroulement de la parti
 <a href="./tb_roles/femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme écarlate</a>,
 
 <a href="./tb_roles/diablotin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>.
-
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
