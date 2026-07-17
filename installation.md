@@ -19,7 +19,7 @@ image: /images/logogold.png
 <p class="botc-flavour-text dropcap" style="margin-top:0;">
 VOUS POUVEZ METTRE EN PLACE UNE PARTIE DE BOTC en suivant les instructions qui sont expliquées plus en détail ci-dessous.
 </p> 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.8;">
+<p style="margin-top:0; color:#f5f5f5; font-size:18px; line-height:1.8;">
 Cette page dédiée à la <strong>Mise en Place</strong> vous guide pas à pas dans la préparation d’une partie de <strong>Blood on the Clocktower</strong>.<br> Elle s’adresse aussi bien aux <strong>Conteurs et Conteuses</strong> qu’aux joueurs et joueuses.
 </p>
 
