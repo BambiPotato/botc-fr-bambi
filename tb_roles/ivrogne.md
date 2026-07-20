@@ -64,23 +64,17 @@ image: /images/Icon_drunk-1.png
   </a>
 </div>
 
-<hr class="explication">
-
 
 <h3 style="color:#4ea3ff; font-weight:bold;"> Résumé</h3>
 
+<hr class="marginal">
 
-<hr class="explication">
-
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
-  <strong>« Vous ne savez pas que vous êtes l’Ivrogne. Vous pensez que vous êtes un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>. »</strong>
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:25px;">
+  <strong>« Vous ne savez pas que vous êtes l’Ivrogne. Vous pensez que vous êtes un <a href="../villageois.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Villageois</a>. »</strong>
 </p>
-
 <p class="botc-flavour-text dropcap">
   Le joueur <a href="./ivrogne.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Ivrogne</a> pense être un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> et n’a aucune idée qu’il est en réalité l’<a href="./ivrogne.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Ivrogne</a>.
 </p>
-
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
     Lors de la mise en place, le jeton <a href="./ivrogne.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Ivrogne</a> ne va pas dans le sac.<br>
@@ -106,7 +100,6 @@ image: /images/Icon_drunk-1.png
 <p class="botc-flavour-text dropcap">
 Instructions au Conteur
 </p>
-
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>
     Lors de la mise en place, avant de mettre les jetons dans le sac, retirez le jeton
