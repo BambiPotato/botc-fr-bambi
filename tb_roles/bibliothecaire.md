@@ -73,8 +73,7 @@ image: /images/Icon_librarian.png
 
 ##  <span style="color:blue">Résumé</span>  
 
----
-
+<hr class="villageois">
 
 **« Lors de votre première nuit, vous apprenez un rôle de Marginal en jeu parmi 2 joueurs (ou qu’aucun Marginal n’est en jeu).»** 
 
