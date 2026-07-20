@@ -73,13 +73,13 @@ Volez au manoir ! Volez à la rivière ! <br>
 Que vos ailes soient l’instrument de ma vengeance ! Volez ! »
 </p>  
 
-<hr class="explication">
 
 
 ##  <span style="color:blue">Résumé</span>  
 
 
-<hr class="explication">
+<hr class="villageois">
+
 
 **« Si vous mourez la nuit, vous êtes réveillée pour choisir un joueur et apprendre son rôle. »**  
 
