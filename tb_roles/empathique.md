@@ -75,7 +75,7 @@ Quelque chose n’est pas normal. Je le sens.»
 
 ##  <span style="color:blue;">Résumé</span>  
 
----
+<hr class="villageois">
 
 **« Chaque nuit, vous apprenez combien de vos deux voisins vivants sont maléfiques.»**  
 
