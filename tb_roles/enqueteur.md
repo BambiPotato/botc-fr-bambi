@@ -71,13 +71,13 @@ n’est-ce pas, Monsieur Morozov ? <br>
 Ou devrais-je dire... Monsieur le Baron ? »
 </p>   
 
-<hr class="explication">
 
 
 ##  <span style="color:blue">Résumé</span>
 
 
-<hr class="explication">
+
+<hr class="villageois">
 
 
 **« Lors de votre première nuit, vous apprenez un rôle de [<span style="color:red">Sbire</span>](../sbires.md) en jeu parmi 2 joueurs.»** 
@@ -183,7 +183,7 @@ Méfiez-vous de la [Recluse](reclus.md) ! Elle peut être considérée comme un 
     🧞
     <img src="../images/Icon_vizier.png" alt="Boffin" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a> :  
-    Si le Détective apprend que le <span style="color:#d45b5b; font-weight:bold;">Vizir</span> est en jeu <strong>le Conteur n’annonce pas son existence</strong> publiquement. 
+    Le Conteur n’annonce pas que le Vizir est en jeu.
   </li>   
   </ul>
 
