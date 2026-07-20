@@ -68,16 +68,14 @@ Sauf à moi. Vous pouvez me faire confiance. »
   </a>
 </div>
 
-<hr class="explication">
-
 
 
 <h2 style="margin-top:10px;">
-  <span style="color:#d45b5b; font-weight:bold;">Résumé</span>
+<span style="color:#d45b5b; font-weight:bold;">Résumé</span>
 </h2>  
 
 
-  <hr class="explication">
+<hr class="demon">	
 
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
