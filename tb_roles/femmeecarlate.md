@@ -73,15 +73,9 @@ image: /images/Icon_scarletwoman.png
 </p>
 
 
-<hr class="explication">
-
-
-
 ##  <span style="color:red">Résumé</span>    
 
-
-
-<hr class="explication">
+<hr class="sbire">
 
 
 **« S’il y a au moins 5 joueurs en vie et que le <span style="color:red">Démon</span> meurt, vous devenez le <span style="color:red">Démon</span>. (Les Voyageurs ne comptent pas.) »**
@@ -195,28 +189,28 @@ Pour plus d'information se référez à la page dédiée au <strong>[<span style
     🧞
     <img src="../images/Icon_alhadikhia.png" alt="Al Hadikhia" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/alhadikhia.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Al Hadikhia</a> :  
-    S'il y avait deux Démons, dont l'un était la Femme Écarlate, la Femme Écarlate redeviendrait la Femme Écarlate.
+    Si deux Démons devaient être en jeu, dont l’un était la Femme écarlate, la Femme écarlate redevient la Femme écarlate.
   </li>
 
 <li>
     🧞
     <img src="../images/Icon_fanggu.png" alt="Fang Gu" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../sv_roles/fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a> :  
-    S'il y avait deux Démons, dont l'un était la Femme Écarlate, la Femme Écarlate resterait la Femme Écarlate.
+    Si deux Démons devaient être en jeu, dont l’un était la Femme écarlate, la Femme écarlate reste la Femme écarlate.
   </li>
 
 <li>
   🧞
     <img src="../images/Icon_lilmonsta.png" alt="P'tit Monstre" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/lilmonsta.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Timonstre</a> :  
-    Si le Timonstre meurt alors qu'il reste 5 joueurs ou plus, la Femme Écarlate garde le Timonstre jusqu'à la fin de la partie.
+    Si le Timonstre meurt alors qu'il reste 5 joueurs ou plus, la Femme écarlate garde le Timonstre pendant le reste de la partie.
   </li>
    
 <li>
   🧞
     <img src="../images/Icon_plaguedoctor.png" alt="Docteur de la peste" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/plaguedoctor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Docteur de la peste</a> :  
-    Si le Conteur acquiert la capacité de la Femme Écarlate, un Sbire l'acquiert et l'apprend.
+    Si le Conteur devait obtenir la capacité de la Femme écarlate, un Sbire l’obtient et l’apprend.
     </li>
     
 </ul>
