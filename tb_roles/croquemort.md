@@ -76,10 +76,11 @@ Un militaire, sans aucun doute. »
 
 ##  <span style="color:blue;">Résumé</span> 
 
----
+<hr class="villageois">
 
-<strong>« Chaque nuit*, vous apprenez quel rôle est mort par exécution dans la journée. »</strong>
-
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
+« Chaque nuit*, vous apprenez quel rôle est mort par exécution dans la journée. »
+</p>
 <p class="botc-flavour-text dropcap">
 LE FOSSOYEUR apprend le rôle du joueur qui a été exécuté dans la journée.
 </p>
