@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Acrobate
-description: Chaque nuit*, choisissez un joueur : s’il est ou devient ivre ou empoisonné cette nuit, vous mourez. 
+description: "Chaque nuit*, choisissez un joueur : s’il est ou devient ivre ou empoisonné cette nuit, vous mourez. "
 image: /images/Icon_acrobat.png
 ---
 
