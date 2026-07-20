@@ -56,27 +56,21 @@ image: /images/Icon_washerwoman.png
   </a>
 </div>
 
-<hr class="explication">
-
 
 <h3 style="color:#6fa8ff; font-weight:bold;"> Résumé</h3>
 
+<hr class="villageois">
 
-<hr class="explication">
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Lors de votre première nuit, vous apprenez un rôle de 
-  <a href="../villageois.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Villageois</a> en jeu parmi 2 joueurs. »</strong>
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:30px; margin:0 0 8px 0;">
+<strong>« Lors de votre première nuit, vous apprenez un rôle de  <a href="../villageois.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Villageois</a> en jeu parmi 2 joueurs. »</strong>
 </p>
-
 <p class="botc-flavour-text dropcap">
-   LA LAVANDIÈRE apprend qu’un certain rôle
-  <a href="../villageois.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Villageois</a> est en jeu, mais ne sait pas <strong>pas qui l'incarne</strong>.
+LA LAVANDIÈRE apprend qu’un certain rôle <a href="../villageois.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Villageois</a> est en jeu, mais ne sait pas <strong>pas qui l'incarne</strong>.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li>Lors de la première nuit, le Conteur réveille la Lavandière et lui montre deux joueurs<br> et un rôle de Villageois, qui appartient à l’un des deux.</li>
-  <li>Elle reçoit cette information une seule fois, et n’apprend rien d’autre.</li>
+<li>Lors de la première nuit, le Conteur réveille la Lavandière et lui montre deux joueurs<br> et un rôle de Villageois, qui appartient à l’un des deux.</li>
+<li>Elle reçoit cette information une seule fois, et n’apprend rien d’autre.</li>
 </ul>
 
 
@@ -88,8 +82,6 @@ image: /images/Icon_washerwoman.png
 <p class="botc-flavour-text dropcap">
 Instructions au Conteur
 </p>
-
-
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li><strong>Lors de la préparation de la première nuit, placez le jeton de rappel</strong> :
     <ul style="margin-top:6px;">
