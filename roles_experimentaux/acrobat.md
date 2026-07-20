@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Acrobate
+description: Chaque nuit*, choisissez un joueur : s’il est ou devient ivre ou empoisonné cette nuit, vous mourez. 
+image: /images/Icon_acrobat.png
 ---
 
 <p align="left">
@@ -9,33 +11,23 @@ title: Acrobate
   </a>
 </p>
 
+<hr class="explication">
 <!-- Acrobate -->
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="./acrobat.html" style="text-decoration:none;">
     <img src="../images/Icon_acrobat.png" alt="Acrobate" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#4ea3ff; font-weight:bold; font-size:22px;">Acrobate</span>
+    <span style="color:#4ea3ff; font-weight:bold; font-size:45px;">🤸 Acrobate</span>
   </a>
 </div>
 
-<!-- APPARAÎT DANS -->
-<div style="text-align:center; margin: 20px 0;">
-  <a href="../experimentaux.html" style="text-decoration:none;">
-    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
-    <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
-  </a>
-</div>
-
-# 🤸 <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Acrobate</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Mesdames et messieurs, accrochez vos chapeaux, car je défie les lois de la gravité.  
-  Je danserai dans les airs, un miracle d’agilité et d’audace, pour votre plus grand émerveillement ! »
+« Mesdames et messieurs, accrochez-vous bien à vos chapeaux, <br> car je vais défier les lois mêmes de la gravité et danser dans les airs, <br> une merveille d’agilité et d’audace, <br> pour votre plus grand plaisir et votre émerveillement !  »
 </p>
 
----
+<hr class="villageois">
 
 ## <span style="color:#4ea3ff;">Informations</span>
 
@@ -56,64 +48,99 @@ title: Acrobate
   <li><strong>Révélé :</strong> 24 mai 2020</li>
 </ul>
 
----
+<hr class="villageois">
 
-##  <span style="color:#4ea3ff;">Résumé</span>
+<!-- APPARAÎT DANS -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../experimentaux.html" style="text-decoration:none;">
+    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:40px;">🎠 Apparaît dans : The Carousel Expérimental</span>
+  </a>
+</div>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>« Chaque nuit*, choisissez un joueur : s’il est ou devient ivre ou empoisonné cette nuit, vous mourez. »</strong>
+
+<h2 style="color:#d45b5b;">Résumé</h2>
+<hr class="villageois">
+
+<p style="color:#f5f5f5; font-size:23px; line-height:1.7; font-weight:bold; margin:0;">
+« Chaque nuit*, choisissez un joueur : s’il est ou devient ivre ou empoisonné cette nuit, vous mourez. »
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-L’<strong>Acrobate</strong> risque sa vie pour identifier les joueurs ivres ou empoisonnés.
+<p class="botc-flavour-text dropcap" style="margin-top:0;">
+L’Acrobate meurt lorsqu’il trouve un joueur ivre ou empoisonné.
 </p>
 
+<ul style="margin:0; padding:0; list-style-position:inside; color:#f5f5f5; font-size:18px; line-height:1.7;">
+<li>
+Chaque nuit, sauf la première, l’Acrobate choisit un joueur. Si le joueur choisi est sobre et en bonne santé, rien ne se passe.<br>
+Si le joueur est ivre ou empoisonné, l’Acrobate meurt.
+</li>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Chaque nuit sauf la première, l’Acrobate choisit un joueur, vivant ou mort, y compris lui-même.</li>
-  <li>Si le joueur choisi reste sobre et en bonne santé toute la nuit, rien ne se passe.</li>
-  <li>Si le joueur choisi est ou devient ivre ou empoisonné à un moment quelconque de la nuit, l’Acrobate meurt.</li>
-  <li>Si l’Acrobate est ivre ou empoisonné, il ne peut pas mourir de sa propre capacité.</li>
-  <li>L’Acrobate ne sait jamais si le joueur choisi était ivre, empoisonné, ou les deux.</li>
-  <li>Un véritable Ivrogne s’enregistre comme ivre pour l’Acrobate.</li>
+<li>
+Si l’Acrobate est ivre ou empoisonné, il ne peut pas mourir à cause de sa propre capacité.
+</li>
+
+<li>
+L’Acrobate peut choisir n’importe quel joueur, mort ou vivant, y compris lui-même.
+</li>
+
+<li>
+Si le joueur choisi est sobre et en bonne santé au moment où l’Acrobate le sélectionne, mais devient ivre ou empoisonné plus tard dans la nuit, l’Acrobate meurt.
+</li>
+
+<li>
+L’Acrobate n’apprend pas si le joueur qu’il a choisi était ivre, empoisonné, ou les deux.
+</li>
+
+<li>
+L’<a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> est considéré comme ivre pour l’Acrobate.
+</li>
 </ul>
 
----
+<h2 style="color:#d45b5b;">Comment conter</h2>
+<hr class="explication">
 
-##  <span style="color:#4ea3ff;">Comment Conter</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Chaque nuit sauf la première, réveillez l’Acrobate.  
-Il ou elle désigne un joueur. Rendormez l’Acrobate.  
-Si le joueur choisi est ou devient ivre ou empoisonné durant la nuit, l’Acrobate meurt avant l’aube.
+<p class="botc-flavour-text dropcap" style="margin-top:0;">
+Instructions au Conteur
 </p>
+<ul style="margin:0; padding:0; list-style-position:inside; color:#f5f5f5; font-size:18px; line-height:1.7;">
+<li>
+Chaque nuit, sauf la première, réveillez l’Acrobate.<br>
+Il désigne un joueur.<br>
+Rendormez l’Acrobate.
+</li>
 
----
+<li>
+Si le joueur désigné par l’Acrobate est ivre ou empoisonné, ou le devient à n’importe quel moment de cette nuit, l’Acrobate meurt.
+</li>
+</ul>
 
-##  <span style="color:#4ea3ff;">Exemples</span>
+<h2 style="color:#d45b5b;">Exemples</h2>
+<hr class="explication">
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<ul style="margin:0; padding:0; list-style-position:inside; color:#f5f5f5; font-size:18px; line-height:1.7;">
+<li>
+Le <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a> choisit l’<a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>, et le Conteur rend le <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a> ivre.<br>
+L’Acrobate choisit le <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a> et meurt, car le <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a> est ivre.
+</li>
 
-<strong>Le Marin</strong> choisit l’<a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>.  
-La conteuse rend le Marin ivre.  
-L’Acrobate choisit le Marin et meurt car celui-ci est ivre.
+<li>
+L’Acrobate choisit le <a href="../bmr_roles/bricoleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bricoleur</a>, qui est sobre et en bonne santé.<br>
+Rien ne se passe.
+</li>
 
-<br><br>
+<li>
+L’Acrobate choisit le <a href="./preacher.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Prédicateur</a>.<br>
+Plus tard dans la nuit, le <a href="../bmr_roles/pukka.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pukka</a> empoisonne le <a href="./preacher.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Prédicateur</a>.<br>
+L’Acrobate meurt, car le <a href="./preacher.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Prédicateur</a> n’est plus en bonne santé.
+</li>
+</ul>
 
-L’Acrobate choisit le <a href="../bmr_roles/bricoleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bricoleur</a>.  
-Le Bricoleur est sobre et en bonne santé : rien ne se passe.
-
-<br><br>
-
-L’Acrobate choisit le <a href="../roles_experimentaux/preacher.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Prédicateur</a>.  
-Plus tard dans la nuit, le <a href="../bmr_roles/pukka.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pukka</a> empoisonne le Prédicateur.  
-L’Acrobate meurt, car le Prédicateur n’est plus en bonne santé.
-</p>
-
----
+<hr class="explication">
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a><br>
+   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour aux rôle expérimentaux</a><br>
    <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a>
 </p>
