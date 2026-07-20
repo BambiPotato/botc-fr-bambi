@@ -79,18 +79,14 @@ Sauf à moi. Vous pouvez me faire confiance. »
 
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
-  <strong>« Chaque nuit* (sauf la première), choisissez un joueur : il meurt.
-  Si vous vous tuez de cette façon, un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> devient le Diablotin. »</strong>
+  <strong>« Chaque nuit* (sauf la première), choisissez un joueur : il meurt. <br> Si vous vous tuez de cette façon, un <a href="../sbires.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Sbire</a> devient le Diablotin. »</strong>
 </p>
-
 <p class="botc-flavour-text dropcap">
 LE DIABLOTIN tue la nuit et peut s’incarner dans un de ses Sbires... en payant le prix fort.
 </p>
-
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px; white-space:normal; overflow-wrap:anywhere; word-break:break-word;">
   Cet effet peut s’enchaîner : ainsi, le nouveau Démon peut lui-même se tuer pour qu’un nouveau Sbire devienne Diablotin, et ainsi de suite.
 </p>
-
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; white-space:normal; overflow-wrap:anywhere; word-break:break-word;">
   <li>
     Chaque nuit (sauf la première), le <span style="color:#f5f5f5; font-weight:bold;">Diablotin</span> choisit un joueur à tuer.<br>
@@ -120,7 +116,6 @@ LE DIABLOTIN tue la nuit et peut s’incarner dans un de ses Sbires... en payant
 <p class="botc-flavour-text dropcap">
 Instructions au Conteur
 </p>
-
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; white-space:normal; overflow-wrap:anywhere; word-break:break-word;">
   <li>
     Chaque nuit (sauf la première), réveillez le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>.<br>
