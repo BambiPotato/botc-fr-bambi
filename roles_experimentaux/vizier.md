@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Vizir
+dedcription: "Tous les joueurs savent que vous êtes le Vizir. Vous ne pouvez pas mourir pendant la journée. Si le Bien a voté, vous pouvez choisir d’exécuter immédiatement."
+image: /images/Icon_vizier.png
 ---
 
 <p align="left">
@@ -15,20 +17,10 @@ title: Vizir
   <a href="./vizier.html" style="text-decoration:none;">
     <img src="../images/Icon_vizier.png" alt="Vizir" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#d45b5b; font-weight:bold; font-size:22px;">Vizir</span>
+    <span style="color:#d45b5b; font-weight:bold; font-size:45px;">Vizir</span>
   </a>
 </div>
 
-<!-- APPARAÎT DANS -->
-<div style="text-align:center; margin: 20px 0%;">
-  <a href="../experimentaux.html" style="text-decoration:none;">
-    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
-    <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
-  </a>
-</div>
-
-#  <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Vizir</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Une excellente décision, comme toujours, sire.  
@@ -37,7 +29,8 @@ title: Vizir
   Reposez-vous, sire. Laissez donc… tout le reste entre mes mains. »
 </p>
 
----
+<hr class="sbire">
+
 
 ##  <span style="color:#d45b5b;">Informations</span>
 
@@ -58,14 +51,24 @@ title: Vizir
   <li><strong>Révélé :</strong> 20 avril 2023</li>
 </ul>
 
----
+<hr class="sbire">
+
+<!-- APPARAÎT DANS -->
+<div style="text-align:center; margin: 20px 0%;">
+  <a href="../experimentaux.html" style="text-decoration:none;">
+    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:45px;">🎠 Apparaît dans Le Carrousel : (The Carousel Expérimental)</span>
+  </a>
+</div>
 
 ##  <span style="color:#d45b5b;">Résumé</span>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Tous les joueurs savent que vous êtes le Vizir.  
-  Vous ne pouvez pas mourir pendant la journée.  
-  Si un joueur Bon a voté, vous pouvez choisir d’exécuter immédiatement. »</strong>
+<hr class="sbire">
+
+
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
+« Tous les joueurs savent que vous êtes le Vizir. Vous ne pouvez pas mourir pendant la journée. Si le Bien a voté, vous pouvez choisir d’exécuter immédiatement. »
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -105,7 +108,7 @@ Le <strong>Vizir</strong> peut exécuter des joueurs sans le consentement du vil
 
 </ul>
 
----
+<hr class="explication">
 
 ## 🧞 <span style="color:#d45b5b;">Jinxes liés</span>
 
@@ -114,7 +117,7 @@ Le <strong>Vizir</strong> peut exécuter des joueurs sans le consentement du vil
   <li>
     <img src="../images/Icon_alsaahir.png" alt="Alsaahir" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/alsaahir.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alsaahir</a> :  
-    Les Conteurs et conteuses ne déclarent pas qu’un <strong>Vizir</strong> est en jeu.
+    Le Conteur n'annonce pas qu’un <strong>Vizir</strong> est en jeu.
   </li>
 
   <li>
@@ -126,24 +129,24 @@ Le <strong>Vizir</strong> peut exécuter des joueurs sans le consentement du vil
 
   <li>
     <img src="../images/Icon_fearmonger.png" alt="Crieur de Peur" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="..//roles_experimentaux/fearmonger.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fearmonger</a> :  
+    <a href="..//roles_experimentaux/fearmonger.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Tourmenteur</a> :  
     Le <strong>Vizir</strong> se réveille avec le  
-    <a href="..//roles_experimentaux/fearmonger.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fearmonger</a>,  
+    <a href="..//roles_experimentaux/fearmonger.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Tourmenteur</a>,  
     apprend qui il désigne,  
     et ne peut pas choisir d’exécuter immédiatement ce joueur-là.
   </li>
 
   <li>
     <img src="../images/Icon_investigator.png" alt="Enquêteur" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Enquêteur</a> :  
-    Les Conteurs et conteuses ne déclarent pas qu’un <strong>Vizir</strong> est en jeu.
+    <a href="../tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a> :  
+    Le Conteur n'annonce pas qu’un <strong>Vizir</strong> est en jeu.
   </li>
 
   <li>
     <img src="../images/Icon_lilmonsta.png" alt="Petit Monstre" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/lilmonsta.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">P'tit Monstre</a> :  
+    <a href="../roles_experimentaux/lilmonsta.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Timonstre</a> :  
     Si le <strong>Vizir</strong> garde le  
-    <a href="../roles_experimentaux/lilmonsta.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">P'tit Monstre</a>,  
+    <a href="../roles_experimentaux/lilmonsta.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Timonstre</a>,  
     il meurt lorsqu’il est exécuté.
   </li>
 
@@ -178,9 +181,10 @@ Le <strong>Vizir</strong> peut exécuter des joueurs sans le consentement du vil
 
 </ul>
 
----
 
 ##  <span style="color:#d45b5b;">Comment Conter</span>
+
+---
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Vous devez annoncer publiquement l’existence du <strong>Vizir</strong>,  
@@ -231,18 +235,20 @@ et faire attention au moment où la journée se termine.
 
 </ul>
 
----
+
 
 ##  <span style="color:#d45b5b;">Exemples</span>
+
+---
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Le <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> est nommé.  
 Cinq personnes votent,  
 mais le <strong>Vizir</strong> n’utilise pas sa capacité.  
-Le <a href="../roles_experimentaux/boomdandy.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boomdandy</a> est ensuite nommé  
+Le <a href="../roles_experimentaux/boomdandy.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boumdandy</a> est ensuite nommé  
 et huit personnes votent.  
 Cette fois, le <strong>Vizir</strong> utilise sa capacité  
-et le <a href="../roles_experimentaux/boomdandy.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boomdandy</a> est immédiatement exécuté.
+et le <a href="../roles_experimentaux/boomdandy.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boumdandy</a> est immédiatement exécuté.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -261,9 +267,11 @@ Le <strong>Vizir</strong> ne meurt pas (il ne peut pas mourir de jour).
 Cette nuit-là, le <span style="color:#d45b5b; font-weight:bold;">Démon</span> tue le <strong>Vizir</strong>.
 </p>
 
----
+
 
 ##  <span style="color:#d45b5b;">Astuces & Conseils</span>
+
+---
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -317,9 +325,11 @@ Cette nuit-là, le <span style="color:#d45b5b; font-weight:bold;">Démon</span> 
 
 </ul>
 
----
+
 
 ##  <span style="color:#d45b5b;">Combattre le Vizir</span>
+
+---
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -389,7 +399,7 @@ Cette nuit-là, le <span style="color:#d45b5b; font-weight:bold;">Démon</span> 
 
 </ul>
 
----
+<hr class="explication">
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
