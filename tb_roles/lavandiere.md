@@ -61,7 +61,7 @@ image: /images/Icon_washerwoman.png
 
 <hr class="villageois">
 
-<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:30px; margin:0 0 8px 0;">
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:22px; margin:0 0 8px 0;">
 <strong>« Lors de votre première nuit, vous apprenez un rôle de  <a href="../villageois.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Villageois</a> en jeu parmi 2 joueurs. »</strong>
 </p>
 <p class="botc-flavour-text dropcap">
