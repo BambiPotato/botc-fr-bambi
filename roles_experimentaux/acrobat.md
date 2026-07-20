@@ -55,17 +55,20 @@ image: /images/Icon_acrobat.png
   <a href="../experimentaux.html" style="text-decoration:none;">
     <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:40px;">🎠 Apparaît dans : The Carousel Expérimental</span>
+    <span style="color:#e0b97a; font-weight:bold; font-size:30px;">🎠 Apparaît dans : The Carousel Expérimental</span>
   </a>
 </div>
 
 
-<h2 style="color:#d45b5b;">Résumé</h2>
-<hr class="villageois">
+
+<h2 style="color:#4ea3ff;">Résumé</h2>
+
+---
 
 <p style="color:#f5f5f5; font-size:23px; line-height:1.7; font-weight:bold; margin:0;">
 « Chaque nuit*, choisissez un joueur : s’il est ou devient ivre ou empoisonné cette nuit, vous mourez. »
 </p>
+
 
 <p class="botc-flavour-text dropcap" style="margin-top:0;">
 L’Acrobate meurt lorsqu’il trouve un joueur ivre ou empoisonné.
@@ -98,8 +101,9 @@ L’<a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; t
 </li>
 </ul>
 
-<h2 style="color:#d45b5b;">Comment conter</h2>
-<hr class="explication">
+<h2 style="color:#4ea3ff;">Comment conter</h2>
+
+---
 
 <p class="botc-flavour-text dropcap" style="margin-top:0;">
 Instructions au Conteur
@@ -116,8 +120,9 @@ Si le joueur désigné par l’Acrobate est ivre ou empoisonné, ou le devient �
 </li>
 </ul>
 
-<h2 style="color:#d45b5b;">Exemples</h2>
-<hr class="explication">
+<h2 style="color:#4ea3ff;">Exemples</h2>
+
+---
 
 <ul style="margin:0; padding:0; list-style-position:inside; color:#f5f5f5; font-size:18px; line-height:1.7;">
 <li>
