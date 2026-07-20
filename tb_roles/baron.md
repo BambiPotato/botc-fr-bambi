@@ -82,7 +82,7 @@ Rien de tel que la vertu du labeur pour se remettre dans le droit chemin.<br>
 
 ##  <span style="color:red">Résumé</span>
 
----
+<hr class="sbire">
 
 **« Il y a des Marginaux supplémentaires en jeu. [+2  Marginaux] »**
 
