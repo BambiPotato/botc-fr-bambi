@@ -75,7 +75,7 @@ image: /images/Icon_chef.png
 
 ##  <span style="color:blue">Résumé</span>  
 
----
+<hr class="villageois">
 
 **« Lors de votre première nuit, vous apprenez le nombre de paires de joueurs maléfiques.»**  
 
