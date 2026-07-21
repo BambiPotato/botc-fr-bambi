@@ -95,8 +95,8 @@ Lorsque la Recluse est ciblée par une capacité qui affecte un <a href="../demo
 La Recluse peut apparaître comme un joueur bon ou maléfique, ou comme un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a>, un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> ou un <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, et ce pendant la même nuit. Le Conteur choisit ce qui est le plus intéressant.
 </li>
 <li>
-Une Recluse qui apparaît comme un <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> ou un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> particulier ne dispose pas de la capacité de ce rôle.<br><br>
-<strong>Exemple :</strong> une Recluse qui apparaît comme un <a href="./empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> ne se réveille pas la nuit et ne peut pas empoisonner un joueur.
+Une Recluse qui apparaît comme un <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> ou un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> particulier ne dispose pas de la capacité de ce rôle.<br>
+<strong>Par exemple :</strong> une Recluse qui apparaît comme un <a href="./empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> ne se réveille pas la nuit et ne peut pas empoisonner un joueur.
 </li>
 </ul>
 
