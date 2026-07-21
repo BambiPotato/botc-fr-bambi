@@ -80,7 +80,6 @@ image: /images/Icon_recluse-1.png
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:23px; margin:0 0 8px 0;">
 « Vous pourriez apparaître comme maléfique et comme Sbire ou Démon, même morte. »
 </p>
-
 <p class="botc-flavour-text dropcap" style="margin:0;">
 LA RECLUSE apparaît comme maléfique mais fait partie des joueurs bons.
 </p> 
