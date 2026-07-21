@@ -57,21 +57,17 @@ Prions, et que l’unité de notre vision nous transcende tous. »
 </div>
 
 
-<hr class="explication"> 
 
 
 <h2><span style="color:blue">Résumé</span></h2>
+<hr class="villageois">
 
----
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Si vous mourez par exécution, votre équipe perd. »</strong><br>
+<p style="color:#f5f5f5; font-size:23px; font-weight:bold; line-height:1.7; margin:0 0 8px 0;">
+« Si vous mourez par exécution, votre équipe perd. »
 </p>
-
-  <p class="botc-flavour-text dropcap">
-  LE SAINT met fin immédiatement à la partie s'il est exécuté.
+<p class="botc-flavour-text dropcap" style="margin:0;">
+LE SAINT met fin immédiatement à la partie s'il est exécuté.
 </p>
-
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Si le saint meurt par exécution, la partie est terminée. Le Bien est vaincu et le Mal gagne.</li>
   <li>Dans <strong>Trouble Brewing</strong>, le Saint est toujours <strong>Bon</strong> : s’il est <strong>exécuté</strong>, <strong>le Mal gagne</strong>.</li>
