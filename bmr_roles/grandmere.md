@@ -163,26 +163,16 @@ Camille est tuée par le <span style="color:#d45b5b; font-weight:bold;">Démon</
 
 <ul style="margin:0; padding:0; list-style-position:inside; color:#f5f5f5; font-size:18px; line-height:1.7;">
 <li>Protégez votre cher petit-enfant ! Il est presque certainement bon, et cette certitude est à la fois rare et précieuse dans <strong>Bad Moon Rising</strong>. De plus, s’il est tué par le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, vous mourrez également&nbsp;: une raison supplémentaire de le garder en sécurité&nbsp;!</li><br> 
-
 <li>Parlez à votre petit-enfant, donnez-lui des biscuits et gagnez sa confiance ! Contrairement à des rôles similaires comme la 
 <a href="../tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>, votre information est totalement certaine puisque vous n’apprenez que l’identité d’un seul joueur et son rôle. Il n’y a donc aucun intérêt à attendre qu’il vous révèle qui il est, sauf si vous doutez sincèrement d’être sobre et en bonne santé. Dès que vous en avez l’occasion, révélez-lui que vous connaissez son rôle et comment vous l’avez appris, et vous bénéficierez immédiatement d’une grande confiance mutuelle.</li><br> 
-
 <li>Ne révélez l’identité de votre petit-enfant à personne ! Si l’équipe maléfique comprend le lien qui vous unit, elle voudra absolument le tuer afin de provoquer votre mort en prime. Gardez son identité secrète pour le protéger.</li><br> 
-
 <li>Révélez assez tôt votre identité ainsi que celle de votre petit-enfant à un ou deux joueurs. Cela présente plusieurs avantages&nbsp;: si ces joueurs sont dignes de confiance, ils sauront qu’ils peuvent vous faire confiance, vous et votre petit-enfant. En revanche, si vous et votre petit-enfant mourez soudainement, vous pourrez regarder ces joueurs avec beaucoup de suspicion&nbsp;: il est possible que l’un d’eux soit en réalité le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>&nbsp;! (Si vous pensez parler à des joueurs maléfiques, rien ne vous oblige à révéler l’identité de votre véritable petit-enfant.)</li><br> 
-
 <li>Il existe de nombreuses façons de renforcer la confiance de l’équipe du Bien grâce à vos informations&nbsp;!</li><br> 
-
 <li>Encouragez les rôles protecteurs à protéger votre petit-enfant. Si vous connaissez l’identité d’un <a href="./aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a>, ou si votre petit-enfant est assis à côté d’une <a href="./tealady.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Tisanière</a>, essayez de faire en sorte que votre petit-enfant soit protégé la nuit, afin de vous garder tous les deux en sécurité.</li><br> 
-
 <li>De la même manière, mettez en garde des rôles comme le <a href="./marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a> ou l’<a href="./exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a>, qui risqueraient soit de rendre votre petit-enfant ivre, soit de gaspiller leur capacité sur un joueur dont vous savez avec certitude qu’il est bon.</li><br> 
-
 <li>Enfin, vous pouvez encourager le <a href="./parieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Parieur</a> et la <a href="./femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de chambre</a> à utiliser leurs capacités sur vous ou votre petit-enfant, afin d’élargir le cercle de confiance lorsque leurs informations concordent avec les vôtres.</li><br> 
-
 <li>Si vous et votre petit-enfant êtes les seuls à mourir pendant la nuit, il est probable que vous soyez mort à cause de votre capacité. Si vous pensez que c’est le cas, veillez à en informer l’équipe du Bien. Sinon, deux morts pendant la nuit peuvent être interprétées comme un indice précoce de la présence d’un terrible <a href="./shabaloth.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a> ou d’un <a href="./po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a>, alors qu’un <a href="./zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> ou un <a href="./pukka.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pukka</a> restent des possibilités tout à fait plausibles.</li><br> 
-
 <li>Ne parlez pas immédiatement à votre petit-enfant. Chuchoter ensemble, surtout au début de la partie, attirera l’attention aussi bien des joueurs bons que des joueurs maléfiques, et un <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> pourrait très bien décider de vous éliminer tous les deux en soupçonnant que vous êtes la Grand-mère et son petit-enfant.</li><br> 
-
 <li>Révélez au groupe que vous êtes la Grand-mère, sans préciser quel joueur est votre petit-enfant. Par exemple, vous pouvez simplement dire&nbsp;: « Je suis la Grand-mère, je sais qu’il y a un <a href="./exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a> dans le village », ou quelque chose de similaire. Le groupe saura ainsi que vous êtes un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>, et s’attendra à ce qu’un <a href="./exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a> se révèle à un moment de la partie.</li>
 </ul>
 
@@ -191,14 +181,10 @@ Camille est tuée par le <span style="color:#d45b5b; font-weight:bold;">Démon</
 ---
 
 <ul style="margin:0; padding:0; list-style-position:inside; color:#f5f5f5; font-size:18px; line-height:1.7;">
-<li>Lorsque vous bluffez en Grand-mère, il y a quelques éléments à garder en tête.</li>
-
+<li>Lorsque vous bluffez en Grand-mère, il y a quelques éléments à garder en tête.</li><br> 
 <li>Le moyen le plus simple de bluffer la Grand-mère consiste à prétendre que vous êtes la Grand-mère et qu’un joueur maléfique est votre petit-enfant. Vous ne voudrez probablement pas faire cela dès le premier jour, car la plupart des Grand-mères attendent un ou deux jours avant de révéler leurs informations. <br>  Attendre un ou deux jours permet également à votre faux petit-enfant de révéler son rôle au groupe afin que vous puissiez reprendre son histoire. <br> Vous pouvez aussi simplement annoncer que vous êtes la Grand-mère, déclarer qu’un joueur maléfique est un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> précis, puis espérer qu’il comprenne votre intention et revendique ce rôle à son tour.</li><br> 
-
 <li>Convainquez un joueur bon que vous êtes sa Grand-mère. C’est beaucoup plus facile si ce joueur vous a déjà révélé son rôle en privé ou publiquement. <br> Si vous connaissez son rôle, vous pouvez dire la même chose au groupe. Si vous ne le connaissez pas, vous pouvez tenter de le deviner… ou simplement refuser de révéler lequel est votre petit-enfant.</li><br> 
-
 <li>Demandez à vos alliés maléfiques de découvrir discrètement quels sont les rôles des joueurs bons, puis de vous transmettre ces informations. Une fois que vous connaissez le rôle d’un joueur bon sans qu’il sache que vous le connaissez, il devient beaucoup plus facile de le convaincre que vous êtes sa Grand-mère.</li><br> 
-
 <li>Bluffez le petit-enfant ! Vous pouvez revendiquer un rôle bon tout en affirmant être le petit-enfant. Dites au groupe que la Grand-mère est venue vous parler en privé et que vous lui faites entièrement confiance. <br> Avec un peu de chance, un joueur maléfique prétendra ensuite être la Grand-mère et confirmera votre histoire.</li>
 </ul>
 
