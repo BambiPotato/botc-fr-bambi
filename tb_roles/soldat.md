@@ -78,14 +78,12 @@ Non. »
 ##   <span style="color:blue">Résumé</span>
 
 ---
-
-
-**«Vous êtes protégé du Démon.»**  
-
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:23px; margin:0 0 8px 0;">
+«Vous êtes protégé du Démon.»  
+</p> 
 <p class="botc-flavour-text dropcap">
 LE SOLDAT ne peut pas être tué par le Démon.
 </p>
-
 - Le Soldat ne peut pas mourir à cause de la capacité du Démon.
   - Si le Diablotin attaque le Soldat la nuit, rien ne se passe.
   - Personne ne meurt. Le Diablotin n’a pas le droit de choisir d’attaquer un autre joueur à la place.
