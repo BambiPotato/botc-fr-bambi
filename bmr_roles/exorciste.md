@@ -72,14 +72,9 @@ des âmes créées par Dieu à son image et rachetées par le sang précieux de 
   </a>
 </div>
 
-<hr class="explication">
-
-
 
 ##  <span style="color:blue">Résumé</span>  
-
-<hr class="explication">
-
+<hr class="villageois">
 
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
@@ -133,56 +128,52 @@ Gardez cela en tête si vous utilisez l’Exorciste avec des rôles qui viennent
   → Le Po ne se réveille pas et n’attaque pas. La nuit suivante, il pourra choisir jusqu’à **3 victimes**.  
 
 
-##  <span style="color:blue">Astuces & Conseils</span>   
+<h2 style="color:#4ea3ff;">Conseils &amp; Astuces</h2>
 
 ---
 
-- Si vous choisissez un joueur et qu’il n’y a **aucune mort** cette nuit-là, vous avez peut-être trouvé le [<span style="color:red">Démon</span>](../demons.md) !  
-  - Vous pouvez révéler publiquement votre identité.  
-  - Ou attendre et cibler à nouveau ce joueur pour confirmer.  
+<ul style="margin:0; padding:0; list-style-position:inside; color:#f5f5f5; font-size:18px; line-height:1.7;">
+<li>Si vous choisissez un joueur pendant la nuit et qu’il n’y a aucun mort cette nuit-là, vous avez peut-être trouvé le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> !<br>Vous pouvez soit révéler publiquement au groupe qui vous êtes et quel joueur vous avez choisi le lendemain, afin que tout le monde connaisse vos informations, soit attendre une ou deux nuits supplémentaires et choisir à nouveau le même joueur, juste pour en être sûr.<br>Il arrive que personne ne meure la nuit pour d’autres raisons, mais si vous choisissez plusieurs fois le même joueur et qu’à chaque fois il n’y a aucun mort pendant la nuit, vous pouvez être quasiment certain d’avoir trouvé le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.</li>
 
-- Si une mort a lieu malgré tout, c’est sûrement que vous avez ciblé un non-Démon.  
-  → Passez à un autre joueur.  
+<li>Si un joueur meurt pendant la nuit, choisissez un autre joueur les nuits suivantes.<br>Vous avez probablement choisi un joueur qui n’est pas le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, il est donc inutile de le choisir à nouveau, sauf si vous pensez que ce joueur est mort pour une autre raison, comme un meurtre de l’<a href="./assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> ou de la <a href="./commere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Commère</a>.</li>
 
-- En début de partie, vous êtes fragile et sans info.  
-  → Plus la partie avance, plus votre pouvoir devient puissant.  
+<li>Au fur et à mesure que la partie progresse, discutez avec le groupe et cherchez à déterminer quels rôles sont en jeu et comment ils agissent.<br>Il existe de nombreuses raisons pour lesquelles des morts peuvent survenir pendant la nuit, même si vous avez empêché le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> de tuer.<br>De la même manière, il existe de nombreuses raisons pour lesquelles personne n’est mort pendant la nuit, même si vous avez choisi un joueur qui n’est pas le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.<br>Le <a href="./po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a> s’est caché dans une ruelle et n’a pas agi, le <a href="./parieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Parieur</a> s’est accidentellement tué lors d’une partie de poker particulièrement risquée, la <a href="./commere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Commère</a> a laissé échapper un secret croustillant qui a provoqué une mort, le <a href="./bricoleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bricoleur</a> s’est fait exploser, le mélange spécial de la <a href="./damedethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Tisanière</a> a donné à un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a> la force de survivre à la nuit, l’<a href="./aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a> a protégé la victime du <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> dans son auberge, le <a href="./fou.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fou du roi</a> a échappé aux hommes de main du <a href="./parrain.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parrain</a>, etc.</li>
 
-- Attendez d’avoir quelques nuits d’infos avant de révéler votre rôle.  
-  → Sinon, vous serez la cible prioritaire du [<span style="color:red">Démon</span>](../demons.md) et de ses [<span style="color:red">Sbires</span>](../sbires.md).  
+<li>En tant qu’Exorciste, vous êtes souvent peu puissant au début de la partie, mais vous devenez de plus en plus fort à mesure que la partie avance.<br>Non seulement vous découvrez quels joueurs ne sont pas le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, mais il reste également de moins en moins de joueurs vivants parmi lesquels choisir.<br>Il est généralement préférable de ne pas révéler que vous êtes l’Exorciste avant que quelques jours ne se soient écoulés et que vous disposiez d’informations solides.<br>Si vous vous révélez trop tôt sans avoir trouvé le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, vous pouvez partir du principe que vous deviendrez immédiatement sa cible prioritaire.<br>Restez discret ou bluffez un rôle que le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> n’a pas intérêt à tuer, comme le <a href="./marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a>, le <a href="./fou.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fou du roi</a> ou le <a href="./grosbras.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gros bras</a>.</li>
 
-- Si vous suspectez un [<span style="color:red">Zombuul</span>](../bmr_roles/zombuul.md), vous pouvez cibler les joueurs morts.  
-  → Une nuit sans mort dans ce cas est un indice fort.  
+<li>Si vous pensez qu’un <a href="./zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> est en jeu, n’hésitez pas à choisir des joueurs morts.<br>Si personne n’est mort pendant la journée et que vous exorcisez un joueur mort cette nuit-là, l’absence de mort signifie presque certainement que vous avez trouvé le <a href="./zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a>.</li>
 
-- Une fois découvert, le [<span style="color:red">Démon</span>](../demons.md) saura qui vous êtes :  
-  → Surveillez qui cherche à vous éliminer ensuite.  
+<li>Une fois que vous avez choisi le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> avec succès, le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> saura qui vous êtes.<br>À partir de ce moment-là, observez qui cherche à vous faire tuer.<br>Le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> et ses <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> feront tout leur possible pour vous faire exécuter, car si vous mourez la nuit juste après avoir trouvé le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, vous aurez révélé son identité.</li>
 
-- Chaque jour, vous pouvez convaincre le groupe de tester **deux suspects** :  
-  - L’un est exécuté.  
-  - L’autre, vous l’« exorcisez » pendant la nuit.  
+<li>Chaque jour, si vous vous êtes révélé publiquement comme étant l’Exorciste, vous pouvez pratiquement convaincre le groupe que deux joueurs ne sont pas le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.<br>Si deux joueurs paraissent particulièrement suspects, vous pouvez en faire exécuter un et promettre d’exorciser l’autre.</li>
+</ul>
 
-
-
-##  <span style="color:blue">Bluffer l'Exorciste</span>  
+<h2 style="color:#4ea3ff;">Bluffer l’Exorciste</h2>
 
 ---
 
-- Ne révélez pas votre rôle trop tôt : un vrai Exorciste **reste discret**.  
-- Utilisez ce bluff pour parler en privé avec les [<span style="color:red">Sbires</span>](../sbires.md) ou le [<span style="color:red">Démon</span>](../demons.md).
+<ul style="margin:0; padding:0; list-style-position:inside; color:#f5f5f5; font-size:18px; line-height:1.7;">
+<li>Lorsque vous bluffez l’Exorciste, il y a quelques éléments à garder en tête.</li>
 
-- Profitez des nuits sans morts pour accuser un joueur bon :  
-  → Ex. : accusez une [Tisanière](../bmr_roles/damedethe.md) ou un [Pacifiste](../bmr_roles/pacifiste.md) de mentir.  
-  
-- Coopérez avec un [<span style="color:red">Po</span>](../bmr_roles/po.md) : il peut choisir de **ne tuer personne** pour renforcer votre bluff.  
-- Vous pouvez prétendre avoir « neutralisé » un Démon pour innocenter un complice.  
+<li>Ne révélez pas immédiatement qui vous êtes !<br>Un véritable Exorciste a toutes les raisons de vouloir cacher son identité aux joueurs maléfiques qui rôdent : il constitue une cible idéale pour un rôle comme l’<a href="./assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>.<br>Les joueurs bons commenceront à trouver cela suspect si vous vous révélez très tôt puis survivez encore longtemps.</li>
 
-- Associez votre bluff à des rôles qui influencent les morts :  
-  → ex. [<span style="color:red">Assassin</span>](../bmr_roles/assassin.md), [<span style="color:red">Avocat du Diable</span>](../bmr_roles/avocatdudiable.md), [Commère](../bmr_roles/commere.md)…  
+<li>Utilisez votre rôle pour parler aux autres en privé.<br>L’Exorciste est comparable à la <a href="../tb_roles/pourfendeuse.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a> : il possède très peu d’informations par lui-même et doit compter sur les <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> pour prendre les bonnes décisions.<br>Les joueurs bons à qui vous révélez votre rôle auront intérêt à vous aider, ce qui vous permettra d’orienter les informations loin de vos alliés maléfiques.<br>Cela vous donne également une excellente raison de chuchoter en privé avec vos <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> ou votre <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> : révélez votre rôle aux bonnes personnes dès le début et les joueurs bons pourraient même défendre votre comportement suspect devant le groupe !</li>
+
+<li>Si une nuit passe sans qu’il y ait de mort, vous pouvez (et devriez !) prétendre avoir choisi un joueur bon avec votre capacité.<br>Vous pourrez ainsi pousser le village à se méfier de ce joueur puis, à terme, à l’exécuter, en visant de préférence des rôles gênants pour l’équipe maléfique, comme la <a href="./damedethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Tisanière</a> ou le <a href="./pacifiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pacifiste</a>.</li>
+
+<li>Décidez volontairement de ne pas tuer, ou demandez à votre <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> de ne pas tuer, afin de renforcer votre bluff selon lequel vous avez réussi à bloquer le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.<br>L’absence de mort rendra le joueur que vous accusez encore plus suspect, vous permettant de laisser le village faire le travail à votre place.<br>Cette stratégie est particulièrement efficace avec un <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> comme le <a href="./po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a>, qui peut choisir de ne pas tuer immédiatement.<br>L’équipe maléfique peut ainsi accumuler sa puissance avant une nuit de meurtres sans retenue, éliminant une grande partie de l’équipe du Bien juste après que celle-ci se soit crue en sécurité.</li>
+
+<li>Lors d’au moins une nuit où une mort semble très probablement due au <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, affirmez que vous avez choisi le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> avec votre capacité.<br>Si les autres joueurs vous croient, vous aurez ainsi « prouvé » que votre <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> ne pouvait pas avoir agi cette nuit-là, ce qui l’innocentera.</li>
+
+<li>Soyez attentif aux rôles qui modifient le nombre de morts.<br>Que votre <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> tue ou non, vous pourrez toujours prétendre avoir réussi à le bloquer en tant qu’Exorciste.<br>Par exemple, si une <a href="./commere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Commère</a> est en jeu, vous pouvez affirmer que sa déclaration était vraie et qu’elle est responsable de la mort à la place du <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.<br>Vous pouvez également invoquer la présence d’un <a href="./assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> ou d’un <a href="./parrain.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parrain</a> selon les circonstances et les joueurs morts.</li>
+
+<li>Rien n’est jamais certain dans <strong>Bad Moon Rising</strong>, mais si l’équipe du Bien commence à se rapprocher dangereusement de votre <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, vous pouvez utiliser votre bluff d’Exorciste pour lui offrir un jour de répit supplémentaire en proposant de le « bloquer ».<br>Cette stratégie est particulièrement efficace lorsque le groupe hésite entre deux joueurs : encouragez-le à exécuter le joueur innocent pendant que vous « exorcisez » le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, offrant ainsi à l’équipe du Bien un moyen infaillible de traiter ses deux suspects… si seulement vous disiez la vérité.<br>Attention toutefois : cette supercherie sera rapidement démasquée une fois que la nuit sera passée et que le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> aura de nouveau tué.<br>Choisissez donc soigneusement le bon moment.</li>
+</ul> 
 
 <hr class="explication">
 
 ## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
 
-<hr class="explication">
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   
