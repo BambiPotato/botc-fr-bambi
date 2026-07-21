@@ -72,103 +72,77 @@ image: /images/Icon_innkeeper.png
   </a>
 </div>
 
-<hr class="explication">
-
-##  <span style="color:blue">Résumé</span>  
-
-<hr class="explication">
 
 
-<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
-« Chaque nuit*, choisissez  <strong>2 joueurs</strong> : ils ne peuvent pas mourir cette nuit mais l'un d'eux est ivre jusqu'au crépuscule. » 
-</p> 
 
+<h2 style="color:#4ea3ff;">Résumé</h2>
+<hr class="villageois">
 
-<p class="botc-flavour-text dropcap">
-L’AUBERGISTE protège des joueurs de la mort pendant la nuit, mais au prix de la sobriété de l'un d'entre eux.
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:22px; margin:0 0 8px 0;">
+« Chaque nuit*, choisissez <strong>2 joueurs</strong> : ils ne peuvent pas mourir cette nuit, mais l’un d’eux est ivre jusqu’au crépuscule. »
 </p>
 
-- L’Aubergiste comme le [<span style="color:blue">Moine</span>](../tb_roles/moine.md) protège empêche des joueurs d’être tués par le Démon.<br>
-Ces joueurs ne peuvent pas non plus mourir à cause d’un Marginal, d’un Sbire, d’un Villageois ou d’un Voyageur.
+<p class="botc-flavour-text dropcap" style="margin:0;">
+L’AUBERGISTE protège des joueurs de la mort pendant la nuit, mais au prix de la sobriété de l’un d’entre eux.
+</p>
 
-- L’Aubergiste protège uniquement les joueurs pendant la nuit, et non pendant la journée.
+<ul style="margin:0; padding:0; list-style-position:inside; color:#f5f5f5; font-size:18px; line-height:1.7;">
+<li>Comme le <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a>, l’Aubergiste empêche les joueurs qu’il protège d’être tués par le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.<br>Ces joueurs ne peuvent pas non plus mourir à cause de la capacité d’un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a>, d’un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>, d’un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> ou d’un <a href="../voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>.</li>
+<li>L’Aubergiste protège uniquement les joueurs pendant la nuit, et non pendant la journée.</li>
+<li>L’un des deux joueurs choisis par l’Aubergiste devient <strong>ivre</strong> cette nuit-là et pendant la journée suivante.<br>Ce joueur peut être bon ou maléfique, mais il sera presque toujours bon, selon la manière dont la partie se déroule.<br>Un Aubergiste qui se choisit lui-même peut devenir ivre, auquel cas il n’a plus de capacité et peut mourir cette nuit-là.<br>L’autre joueur qu’il avait choisi n’est alors plus protégé non plus.</li>
+</ul>
 
-- L’un des deux joueurs choisis par l’Aubergiste devient **ivre** cette nuit-là et la journée du lendemain.<br> 
-Ce joueur peut être bon ou maléfique, mais il sera presque toujours bon, selon la manière dont la partie se déroule.<br> 
-Un Aubergiste qui se choisit lui-même pourrait devenir ivre, auquel cas il n’a pas de capacité et peut mourir cette nuit-là<br> 
- – et l’autre joueur qu’il a choisi de protéger n’est plus en sécurité dans cette situation.
+<h2 style="color:#4ea3ff;">Comment conter</h2>
+<hr class="villageois">
 
-
-
-##  <span style="color:blue">Comment Conter</span> 
-
----
-
-
-<p class="botc-flavour-text dropcap">
+<p class="botc-flavour-text dropcap" style="margin:0;">
 Instructions au Conteur
-</p> 
+</p>
 
-- Chaque nuit, *(sauf la première)*, réveillez l’Aubergiste.  
-- Il choisit deux joueurs au hasard.
-- Posez un jeton **EN SÉCURITÉ** à côté de leurs rôles.  
-- Choisissez l’un des deux pour être ivre → placez un jeton **IVRE**.  
-- Les joueurs **EN SÉCURITÉ** par l'Aubergiste ne peuvent pas mourir cette nuit.  
+<ul style="margin:0; padding:0; list-style-position:inside; color:#f5f5f5; font-size:18px; line-height:1.7;">
+<li>Chaque nuit, sauf la première, réveillez l’Aubergiste.</li>
+<li>Il choisit deux joueurs.</li>
+<li>Placez un jeton <strong>EN SÉCURITÉ</strong> à côté du rôle de chacun de ces joueurs.</li>
+<li>Choisissez l’un des deux joueurs pour qu’il devienne ivre.<br>Placez le jeton <strong>IVRE</strong> à côté de son rôle.</li>
+<li>Les joueurs marqués <strong>EN SÉCURITÉ</strong> ne peuvent pas mourir cette nuit-là, tant que l’Aubergiste est sobre et en bonne santé.</li>
+<li>À l’aube, retirez les deux jetons <strong>EN SÉCURITÉ</strong>.</li>
+<li>Au crépuscule suivant, retirez le jeton <strong>IVRE</strong>.</li>
+</ul>
 
-- A l'aube, *(au lever du jour)* retirez les jetons **EN SÉCURITÉ**.  
-- Au crépuscule suivant, retirez le jeton **IVRE**.  
-
-
-
-##  <span style="color:blue">Exemples</span>   
-
----
-
-- L’Aubergiste protège le [Fou du Roi](fou.md) et la [Femme de Chambre](femmedechambre.md).  
-  → Le Conteur choisit d’enivrer le Fou du Roi. Le lendemain, quand le Fou est exécuté, il meurt au lieu de survivre.  
-
-- L’Aubergiste protège l’[<span style="color:red">Assassin</span>](../bmr_roles/assassin.md) et le [<span style="color:red">Po</span>](../bmr_roles/po.md).  
-  → Le Conteur choisit d’enivrer l’Assassin. Sa capacité ne fonctionne pas cette nuit-là.  
-
-- L’Aubergiste se protège lui-même ainsi que le [Pacifiste](pacifiste.md).  
-  → Le Conteur choisit que l’Aubergiste devienne ivre. Le Pacifiste est attaqué par le [<span style="color:red">Démon</span>](../demons.md) et meurt.  
-
-
-
-##  <span style="color:blue">Astuces & Conseils</span>   
+<h2 style="color:#4ea3ff;">Exemples</h2>
 
 ---
 
-- Votre pouvoir est **très puissant** : bien utilisé, vous pouvez bloquer les meurtres nocturnes et rallonger la partie.  
+<ul style="margin:0; padding:0; list-style-position:inside; color:#f5f5f5; font-size:18px; line-height:1.7;">
+<li>L’Aubergiste protège le <a href="./fou.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fou du roi</a> et la <a href="./femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de chambre</a>.<br>Le Conteur choisit de rendre le <a href="./fou.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fou du roi</a> ivre.<br>Le lendemain, lorsque le <a href="./fou.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fou du roi</a> est exécuté, il meurt au lieu de survivre.</li>
+<li>L’Aubergiste protège l’<a href="./assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> et le <a href="./po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a>.<br>Le Conteur choisit de rendre l’<a href="./assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> ivre.<br>Sa capacité ne fonctionne pas cette nuit-là.</li>
+<li>L’Aubergiste se protège lui-même ainsi que le <a href="./pacifiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pacifiste</a>.<br>Le Conteur choisit de rendre l’Aubergiste ivre.<br>L’Aubergiste perd donc sa capacité : ni lui ni le <a href="./pacifiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pacifiste</a> ne sont protégés.<br>Le <a href="./pacifiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pacifiste</a> est attaqué par le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> et meurt.</li>
+</ul>
 
-- Attention cependant : l’ivresse que vous causez rend vos cibles **peu fiables**.  
-  → Évitez de protéger les rôles à informations cruciales comme l’[Exorciste](exorciste.md) ou le [Courtisan](courtisan.md).  
-
-- Variez vos protections : si vous annoncez publiquement qui vous protégez, protégez en réalité d’autres personnes.  
-  → Le Mal pourrait éviter vos cibles officielles et attaquer ailleurs.  
-
-- Se protéger soi-même est risqué : le Conteur vous rendra probablement ivre, annulant votre protection.  
-
-- Protéger deux joueurs suspects (comme des [<span style="color:red">Sbires</span>](../sbires.md) ou un [<span style="color:red">Démon</span>](../demons.md)) peut aussi être utile :  
-  → l’un d’eux sera ivre, bloquant potentiellement son pouvoir maléfique.  
-
-
-##  <span style="color:blue">Bluffer Aubergiste</span> 
+<h2 style="color:#4ea3ff;">Conseils &amp; Astuces</h2>
 
 ---
 
-- Si vous êtes un [<span style="color:red">Démon</span>](../demons.md), **ne tuez pas** les joueurs que vous prétendez protéger, sinon vos mensonges seront évidents.  
+<ul style="margin:0; padding:0; list-style-position:inside; color:#f5f5f5; font-size:18px; line-height:1.7;">
+<li>Votre capacité est puissante et, bien utilisée, elle peut ralentir l’équipe maléfique tout en protégeant vos alliés.<br>Son prix est toutefois élevé : tous les joueurs que vous protégez risquent d’être ivres pendant la nuit où ils survivent.<br>Il est donc essentiel de vous coordonner avec les autres joueurs bons afin de trouver les meilleures cibles à protéger.<br>Certains rôles, comme le <a href="./pacifiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pacifiste</a> ou l’<a href="./exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a>, deviennent de plus en plus puissants à mesure qu’ils survivent, et vous pouvez leur permettre d’atteindre ce potentiel.</li>
+<li>Faites bien attention à l’ivresse provoquée par votre capacité !<br>Ne protégez pas des joueurs qui doivent recevoir des informations fiables ou utiliser leur capacité avec la garantie qu’elle fonctionnera cette nuit-là.<br>Si vous savez, par exemple, qu’une <a href="./courtisane.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisane</a> s’apprête à utiliser sa capacité, le fait de la protéger pourrait la rendre ivre et lui faire gaspiller cette puissante capacité !</li>
+<li>Protégez des joueurs différents de ceux que vous prétendez protéger publiquement.<br>Si l’équipe maléfique croit ce que vous dites, elle ne voudra pas perdre de temps à cibler des joueurs qui ne peuvent pas être tués.<br>Pendant ce temps, vous protégez secrètement d’autres joueurs susceptibles d’être visés, bloquant ainsi, avec un peu de chance, un meurtre important pour l’équipe maléfique.</li>
+<li>Il peut sembler judicieux de vous protéger vous-même avec votre capacité, mais ce n’est généralement pas recommandé.<br>Il est probable que le Conteur choisisse de vous rendre ivre à cause de votre propre capacité, annulant complètement votre protection et vous laissant, vous comme l’autre joueur, vulnérables.</li>
+<li>Si vous pensez connaître au moins deux joueurs maléfiques, choisissez-les tous les deux !<br>Les protéger de la mort n’est pas idéal, mais cela signifie que l’un d’eux sera ivre cette nuit-là.<br>Si vous parvenez à choisir le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> ou un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> particulièrement dangereux, comme l’<a href="./assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> ou l’<a href="./avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a>, vous neutralisez directement sa capacité !<br>En revanche, si vous vous trompez, vous pouvez presque être certain que le joueur bon parmi les deux sera ivre.</li>
+</ul>
 
-- Aidez vos alliés maléfiques : affirmez que vous les protégez, pour leur donner une excuse si leur pouvoir semble « défaillant » (ex. un [<span style="color:red">Assassin</span>](../bmr_roles/assassin.md) qui n’arrive pas à tuer).  
+<h2 style="color:#4ea3ff;">Bluffer l’Aubergiste</h2>
 
-- Faites croire aux bons joueurs qu’ils sont ivres. Cela suffit parfois à semer le doute dans tout le village.  
+---
 
-- En privé, révélez que vous êtes l’Aubergiste : les bons joueurs voudront soit être protégés (ex. [Pacifiste](pacifiste.md), [Exorciste](exorciste.md)), soit éviter d’être ivres (ex. [Parieur](parieur.md), [Courtisan](courtisan.md)).  
-  → Cela vous aide à repérer qui est qui.  
-
-- Ayez un **bluff de secours** : si vous survivez trop longtemps, avouez par exemple que vous étiez le [Fou](fou.md) ou le [Marin](marin.md).  
-  → Cela justifie votre survie et renforce votre crédibilité.  
-
+<ul style="margin:0; padding:0; list-style-position:inside; color:#f5f5f5; font-size:18px; line-height:1.7;">
+<li>Lorsque vous bluffez l’Aubergiste, il y a quelques éléments à garder en tête.</li>
+<li>Si vous êtes le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, tuez des joueurs différents de ceux que vous prétendez protéger.<br>Si vous affirmez avoir protégé la <a href="./femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de chambre</a> pendant la nuit et qu’elle est retrouvée morte le lendemain matin, vous aurez quelques explications à fournir.<br>Si vous êtes le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, ou un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> capable de se coordonner avec lui, attaquez des joueurs différents de ceux que vous prétendez protéger.</li>
+<li>Si les bluffs de vos alliés maléfiques ne fonctionnent pas très bien, affirmez les avoir protégés.<br>Cela donnera l’impression que l’un d’eux, ou les deux, sont peut-être ivres.<br>Ils disposeront ainsi d’une explication au mauvais fonctionnement de leur capacité, ainsi que d’une raison supplémentaire pour laquelle ils sont encore en vie.</li>
+<li>Si certains joueurs bons deviennent particulièrement gênants, prétendez les protéger.<br>La simple possibilité qu’ils soient ivres peut semer suffisamment de doute et de confusion pour neutraliser efficacement leur capacité.</li>
+<li>Pour gagner la confiance de l’équipe du Bien, tout en étant particulièrement agaçant, dites discrètement à certains joueurs que vous êtes l’Aubergiste.<br>Les joueurs bons voudront souvent vous révéler leur identité afin de bénéficier de votre protection, s’ils jouent un rôle qui souhaite survivre à tout prix.<br>À l’inverse, ils pourront vous demander de ne jamais les choisir s’ils ont besoin de rester sobres pour utiliser leur capacité.<br>Savoir quels joueurs possèdent quels rôles vous est directement utile, car vous saurez qui éliminer, mais cela incitera également ces joueurs à vous faire davantage confiance.</li>
+<li>Préparez un bluff de secours au cas où votre survie jusqu’à la fin de la partie deviendrait beaucoup trop suspecte.<br>Il est rare, mais pas impossible, qu’un Aubergiste survive jusqu’aux derniers jours.<br>Avoir une bonne explication à votre « mensonge », par exemple en prétendant avoir été le <a href="./fou.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fou du roi</a> depuis le début, peut être très utile.<br>Des rôles comme le <a href="./fou.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fou du roi</a>, le <a href="./marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a>, le <a href="./brute.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gros bras</a>, ou encore un joueur assis à côté d’une <a href="./damedethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Tisanière</a>, ont tous de bonnes raisons de mentir sur leur identité afin d’attirer l’attention du <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.<br>L’Aubergiste est une cible particulièrement intéressante pour celui-ci.</li>
+</ul>
 
 <hr class="explication">
 
