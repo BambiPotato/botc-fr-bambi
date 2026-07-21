@@ -73,26 +73,32 @@ image: /images/Icon_recluse-1.png
 
 
 
-
-##  <span style="color:blue">Résumé</span>
+<h2 style="color:#4ea3ff;">Résumé</h2>
 <hr class="villageois">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:23px; margin:0 0 8px 0;">
 « Vous pourriez apparaître comme maléfique et comme Sbire ou Démon, même morte. »
 </p>
+
 <p class="botc-flavour-text dropcap" style="margin:0;">
 LA RECLUSE apparaît comme maléfique mais fait partie des joueurs bons.
-</p> 
-- Lorsque l’alignement de la Recluse est détecté, le Conteur choisit si la Recluse apparaît comme joueur bon ou maléfique.
+</p>
 
-- Lorsque la Recluse est ciblée par une capacité qui affecte un Démon ou un Sbire en particulier, le Conteur choisit si la Recluse apparaît comme ce Démon ou ce Sbire.
-
-- La Recluse peut apparaître comme un joueur bon ou maléfique, ou comme un Marginal, un Sbire ou un Démon, et ce pendant la même nuit. Le Conteur choisit ce qui est le plus intéressant.
-
-- Une Recluse qui apparaît comme un Démon ou Sbire particulier ne dispose pas de la capacité de ce rôle.
-  - Par exemple, une Recluse qui apparaît comme un [<span style="color:red">Empoisonneur</span>](Empoisonneur.md) ne se réveille pas la nuit et ne peut pas empoisonner un joueur.
-
-
+<ul style="margin:0; padding:0; list-style-position:inside; color:#f5f5f5; font-size:18px; line-height:1.7;">
+<li>
+Lorsque l’alignement de la Recluse est détecté, le Conteur choisit si la Recluse apparaît comme un joueur bon ou maléfique.
+</li>
+<li>
+Lorsque la Recluse est ciblée par une capacité qui affecte un <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> ou un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> en particulier, le Conteur choisit si la Recluse apparaît comme ce <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> ou ce <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>.
+</li>
+<li>
+La Recluse peut apparaître comme un joueur bon ou maléfique, ou comme un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a>, un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> ou un <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, et ce pendant la même nuit. Le Conteur choisit ce qui est le plus intéressant.
+</li>
+<li>
+Une Recluse qui apparaît comme un <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> ou un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> particulier ne dispose pas de la capacité de ce rôle.<br><br>
+<strong>Exemple :</strong> une Recluse qui apparaît comme un <a href="./empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> ne se réveille pas la nuit et ne peut pas empoisonner un joueur.
+</li>
+</ul>
 
 ##  <span style="color:blue">Comment Conter</span>
 
