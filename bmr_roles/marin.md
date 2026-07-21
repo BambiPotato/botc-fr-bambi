@@ -75,15 +75,10 @@ Z’avez déjà goûté le rhum épicé du vieux McKilly ?<br>
 </div>
 
 
-<hr class="explication">
 
 
 ##  <span style="color:blue">Résumé</span>  
-
-
-<hr class="explication">
-
-
+<hr class="villageois">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
 « Chaque nuit, choisissez un joueur vivant : lui ou vous êtes ivre jusqu’au crépuscule. Vous ne pouvez pas mourir. »
@@ -140,40 +135,37 @@ Le Marin s’était choisi lui-même, le Conteur décide donc qu’il est ivre. 
 
 
 
-##  <span style="color:blue">Astuces & Conseils</span>   
+<h2 style="color:#4ea3ff;">Conseils &amp; Astuces</h2>
 
 ---
 
-- Si vous choisissez un [Villageois](../villageois.md), vous êtes probablement sobre.  
-- Si vous choisissez un [Marginal](../etrangers.md), un [<span style="color:red">Sbire</span>](../sbires.md) ou un [<span style="color:red">Démon</span>](../demons.md), vous êtes probablement ivre.  
-- L’immortalité du Marin est très puissante : le Conteur profitera souvent de l’occasion pour rendre un autre joueur ivre, ou vous ivre.  
+<ul style="margin:0; padding:0; list-style-position:inside; color:#f5f5f5; font-size:18px; line-height:1.7;">
+<li>Si vous choisissez un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> pendant la nuit, vous êtes probablement sobre.<br>Si vous choisissez un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a>, un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> ou un <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, vous êtes probablement ivre.<br>La capacité du Marin à survivre est extrêmement puissante, et le Conteur saisira généralement toutes les occasions de faire payer cela à l’équipe du Bien en rendant les <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> ivres dès que possible, et en vous rendant ivre chaque fois que vous choisissez un non-<a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>.</li>
 
-- Ciblez des joueurs dont vous soupçonnez le Mal, ou des [Villageois](../villageois.md) dont l’ivresse ne met pas trop en danger l’équipe (par ex. la [Grand-Mère](grandmere.md) ou le [Fou du Roi](fou.md)), plutôt que des rôles cruciaux comme l’[Exorciste](exorciste.md).  
+<li>Choisissez des joueurs que vous aimeriez voir devenir ivres, comme des joueurs que vous soupçonnez d’être maléfiques, ou des <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> qui sont actuellement moins utiles que les autres.<br>Une <a href="./grandmere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Grand-mère</a> ou un <a href="./fouduroi.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fou du roi</a> ivres seront probablement moins préjudiciables qu’un <a href="./exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a> ou une <a href="./courtisane.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisane</a> ivres.</li>
 
-- Vous pouvez **prouver** que vous êtes Marin en demandant l’exécution : si vous êtes sobre, vous survivrez. Mais attention : cela peut aussi faire croire que vous êtes protégé par un [<span style="color:red">Avocat du Diable</span>](avocatdudiable.md).  
+<li>Maximisez vos chances de survie en cherchant volontairement à rendre d’autres joueurs ivres.<br>Si vous continuez à choisir des <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>, en particulier des <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> puissants, vous pourrez survivre jusqu’au dernier jour bien plus facilement que les autres joueurs.</li>
 
-- Informez vos cibles qu’elles risquent d’être ivres.  
-  → Une [Femme de Chambre](femmedechambre.md) ivre aura des infos fausses, un [Aubergiste](aubergiste.md) ivre ne protège pas, etc.  
+<li>Dites aux joueurs que vous avez choisis pendant la nuit afin qu’ils sachent qu’ils sont peut-être ivres.<br>C’est essentiel.<br>Par exemple, un <a href="./aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a> ivre devra savoir qu’il est possible que sa capacité n’ait pas fonctionné pendant une nuit où il n’y a eu aucun mort, ou une <a href="./femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de chambre</a> ivre devra savoir que ses informations peuvent être fausses.</li>
 
-- Vous pouvez coordonner vos choix avec d’autres bons rôles pour maximiser l’impact :  
-  - ivrer un rôle d’info suspect,  
-  - protéger un rôle clé en détournant le <span style="color:red">Démon</span>,  
-  - ou garder votre immortalité jusqu’aux derniers jours.  
+<li>Communiquez avec les autres joueurs afin de trouver de bons candidats à rendre ivres.<br>Vous n’allez pas aller boire avec le premier venu… vous êtes un marin distingué.<br>Si vous découvrez quels joueurs possèdent quels rôles, vous pourrez mieux travailler en équipe.<br>Plus ivres, mais plus efficaces.</li>
 
+<li>Vous pouvez prouver que vous êtes le Marin en vous faisant volontairement exécuter.<br>Si vous êtes sobre, vous ne mourrez pas.<br>À partir de ce moment-là, si le groupe est convaincu que vous êtes bien le Marin et non simplement protégé par l’<a href="./avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a>, vous devriez pouvoir survivre jusqu’au dernier jour, ce qui augmente considérablement les chances de l’équipe du Bien de trouver le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.<br>Après tout… ils savent que ce n’est pas vous.</li>
+</ul>
 
-
-##  <span style="color:blue">Bluffer le Marin</span>  
+<h2 style="color:#4ea3ff;">Bluffer le Marin</h2>
 
 ---
 
-- ⚠️ Contrairement à un vrai Marin, vous mourrez probablement si vous êtes exécuté.  
-  → Évitez de chercher à « prouver » votre rôle ainsi.  
+<ul style="margin:0; padding:0; list-style-position:inside; color:#f5f5f5; font-size:18px; line-height:1.7;">
+<li>Lorsque vous bluffez en Marin, il y a quelques éléments à garder en tête.</li>
 
-- Utilisez l’**ivresse** comme couverture :  
-  - Par exemple si, un Sbire bluffe le rôle de [Femme de Chambre](femmedechambre.md) et donne des infos incohérentes → vous pouvez dire que vous l’avez choisi et qu’il était ivre.  
-  - si un joueur fort révèle son rôle, vous pouvez affirmer que vous l’avez rendu ivre chaque nuit → cela mettra en doute ses infos.  
+<li>Contrairement à un véritable Marin, vous mourrez probablement si vous êtes exécuté !<br>À moins qu’un rusé <a href="./avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a> ne vous prête main-forte, il vaut sans doute mieux éviter de vous faire tuer simplement pour prouver quelque chose.<br>Certains villages seront particulièrement enthousiastes à cette idée, alors soyez prudent et proposez au groupe de meilleures cibles à exécuter ce jour-là.</li>
 
-- Prétendez avoir choisi régulièrement un bon rôle qui échoue : par exemple, si un [Courtisan](courtisan.md) n'empêche pas un <span style="color:red">Démon</span> → dites que vous l’aviez choisi, donc il était ivre. 
+<li>Essayez de convaincre les rôles puissants qu’ils sont ivres à cause de vous.<br>Quelqu’un vient de révéler qu’il est la <a href="./damedethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Tisanière</a> et qu’il soupçonne un voisin maléfique ?<br>Quel dommage ! Vous l’avez choisi toutes les nuits, c’est donc probablement pour cela que sa capacité n’a pas fonctionné.<br>Le simple fait qu’il soit possible qu’il ait été ivre suffira à ébranler les certitudes d’un joueur bon.</li>
+
+<li>Utilisez l’« ivresse » que vous prétendez avoir provoquée pour couvrir les autres joueurs maléfiques.<br>Par exemple, si un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> bluffe la <a href="./femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de chambre</a> et annonce un nombre qui ne correspond pas à ce que le village sait ?<br>Eh bien, il était ivre, évidemment… pas étonnant qu’il se soit complètement trompé !</li>
+</ul>
 
 
 <hr class="explication">
