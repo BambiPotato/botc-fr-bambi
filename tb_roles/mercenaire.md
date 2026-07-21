@@ -77,10 +77,11 @@ image: /images/Icon_slayer.png
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:23px; margin:0 0 8px 0;">
 « Une fois par partie, dans la journée, choisissez publiquement un joueur : s’il est le Démon, il meurt. »
-</p> 
-<p class="botc-flavour-text dropcap" style="margin-top:0;">
+</p>
+
+<p class="botc-flavour-text dropcap" style="margin:0;">
 LA POURFENDEUSE peut tuer le Démon en devinant de qui il s’agit.
-</p> 
+</p>
 - La Pourfendeuse peut choisir d’utiliser sa capacité à tout moment de la journée et doit annoncer à tous les joueurs qu’elle l’utilise.
   - Si la Pourfendeuse choisit le Démon, le Démon meurt immédiatement. Sinon, rien ne se passe.
 
