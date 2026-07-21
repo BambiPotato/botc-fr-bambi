@@ -71,19 +71,19 @@ image: /images/Icon_recluse-1.png
   </a>
 </div>
 
-<hr class="explication"> 
+
 
 
 ##  <span style="color:blue">Résumé</span>
+<hr class="villageois">
 
----
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:23px; margin:0 0 8px 0;">
+« Vous pourriez apparaître comme maléfique et comme Sbire ou Démon, même morte. »
+</p>
 
-« **Vous pourriez apparaître comme maléfique et comme Sbire ou Démon, même morte.** » 
-
-<p class="botc-flavour-text dropcap">
+<p class="botc-flavour-text dropcap" style="margin:0;">
 LA RECLUSE apparaît comme maléfique mais fait partie des joueurs bons.
 </p> 
-
 - Lorsque l’alignement de la Recluse est détecté, le Conteur choisit si la Recluse apparaît comme joueur bon ou maléfique.
 
 - Lorsque la Recluse est ciblée par une capacité qui affecte un Démon ou un Sbire en particulier, le Conteur choisit si la Recluse apparaît comme ce Démon ou ce Sbire.
@@ -99,10 +99,9 @@ LA RECLUSE apparaît comme maléfique mais fait partie des joueurs bons.
 
 ---
 
-<p class="botc-flavour-text dropcap">
+<p class="botc-flavour-text dropcap" style="margin-top:0;">
 Instructions au Conteur
 </p>
-
 - Chaque fois que la Recluse est ciblée par une capacité qui détecte ou affecte les rôles maléfiques, choisissez le rôle et l'alignement sous lesquels la Recluse apparaît.
   - (Faites ce qu’il faut auprès des autres joueurs : montrez un jeton de rôle maléfique, faites signe avec les doigts, hochez la tête,<br>ou permettez à une capacité de fonctionner si elle affecte uniquement les joueurs maléfiques, Sbires ou Démons.)
 
