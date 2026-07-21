@@ -69,13 +69,12 @@ image: /images/Icon_butler.png
   </a>
 </div>
 
-<hr class="explication">
+
 
 
 ##  <span style="color:blue">Résumé</span>
 
-
-<hr class="explication">
+<hr class="villageois">
 
 **« Chaque nuit, choisissez un joueur (sauf vous-même). Le lendemain, vous pouvez voter uniquement si ce joueur vote. »**  
 
