@@ -105,7 +105,6 @@ la <strong>Grand-mère</strong> meurt également.</li>
 <p class="botc-flavour-text dropcap" style="margin-top:0;">
 Instructions au Conteur
 </p> 
-
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 <li><strong>Lors de la préparation de la première nuit :</strong>
 <ul style="margin-left:20px;">
