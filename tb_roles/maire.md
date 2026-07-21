@@ -60,13 +60,13 @@ image: /images/Icon_mayor.png
   </a>
 </div>
 
-<hr class="explication">
+
 
 
 <h2 style="color:#4ea3ff; font-weight:bold; margin-top:10px;">Résumé</h2>
 
 
-<hr class="explication">
+<hr class="villageois">
 
 <!-- IMPORTANT : pas d’italique + pas de point devant, comme demandé -->
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
@@ -143,12 +143,12 @@ Instructions au Conteur
     Le
     <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>
     attaque le
-    <a href="./maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a>
-    → le Conteur choisit de tuer la
+    <a href="./maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire.</a>
+   Le Conteur choisit de tuer la
     <a href="./gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a>
     à la place.<br>
   </li>
-  <li>Il reste trois joueurs en vie. Aucune nomination n'a lieu, il n'y a pas d'exécution aujourd'hui. Victoire pour le Bien.</li><br>
+  <li>Il reste trois joueurs en vie. Aucune nomination n'a lieu, il n'y a pas d'exécution aujourd'hui. C'est une victoire pour le Bien.</li><br>
   <li>
     Il reste cinq joueurs en vie, dont deux
     <a href="../voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a>.<br>
