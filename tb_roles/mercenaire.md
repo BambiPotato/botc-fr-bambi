@@ -69,13 +69,13 @@ image: /images/Icon_slayer.png
   </a>
 </div>
 
-<hr class="explication">
+
 
 
 ##  <span style="color:blue">Résumé</span>
+<hr class="villageois">
 
 
-<hr class="explication">
 
 **« Une fois par partie, dans la journée, choisissez publiquement un joueur : s’il est le Démon, il meurt. »**
 
