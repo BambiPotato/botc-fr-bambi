@@ -72,20 +72,18 @@ Le Mal ne viendra pas t’y trouver, je m’en porte garant. »
 </div>
 
 
-<hr class="explication"> 
 
 
-##  <span style="color:blue">Résumé</span>
+##  <span style="color:blue">Résumé</span> 
+<hr class="villageois">
 
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:23px; margin:0 0 8px 0;">
+« Chaque nuit*, choisissez un joueur (sauf vous-même) : il est protégé du Démon cette nuit. »
+</p>
 
-<hr class="explication"> 
-
- <strong>« Chaque nuit*, choisissez un joueur (sauf vous-même) : il est protégé du Démon cette nuit. »</strong>
-
-<p class="botc-flavour-text dropcap">
+<p class="botc-flavour-text dropcap" style="margin:0;">
 LE MOINE protège les autres joueurs du Démon.
-</p> 
-
+</p>
 - Chaque nuit, sauf la première, le Moine peut choisir de protéger n’importe quel joueur, sauf lui-même.
 
 - Si le Démon attaque un joueur protégé par le Moine, ce joueur ne meurt pas. 
