@@ -89,8 +89,7 @@ Le Conteur décide quelle équipe est en train de gagner au moment où le Géné
 
 
 ##  <span style="color:#4ea3ff;">Comment Conter</span>
-
----
+<hr>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Chaque nuit, réveillez le Général. 
@@ -103,8 +102,7 @@ Chaque nuit, réveillez le Général.
 
 
 <h2 style="color:#4ea3ff;">Exemples</h2>
-
----
+<hr>
 
 <ul style="margin:0; padding:0; list-style-position:inside; color:#f5f5f5; font-size:18px; line-height:1.7;">
 <li>Il reste cinq joueurs bons en vie et trois <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> en vie. <br> De très forts soupçons se portent sur le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, qui est sur le point d’être exécuté, mais la <a href="../tb_roles/femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme écarlate</a> a su gagner la confiance du groupe. <br> Le Conteur montre donc un pouce 👎🏻 vers le bas.</li>
@@ -117,9 +115,7 @@ Chaque nuit, réveillez le Général.
 
  
 <h2 style="color:#4ea3ff;">Conseils &amp; Astuces</h2>
-
-
----
+<hr>
 
 <ul style="margin:0; padding:0; list-style-position:inside; color:#f5f5f5; font-size:18px; line-height:1.7;">
 <li>Gardez à l’esprit que votre rôle interagit avec l’opinion personnelle du Conteur.<br>Cette opinion sera inévitablement influencée par bien plus que les seules mécaniques.<br>Votre groupe de joueurs comprend-il une personne largement considérée comme particulièrement rusée lorsqu’elle est maléfique ?<br>Peut-être avez-vous dans votre partie quelqu’un de bien plus expérimenté que les autres ?<br>Quelles sont les stratégies et les tactiques que votre Conteur considère comme les plus efficaces ?<br>Tous ces éléments, et bien d’autres encore, peuvent influencer les informations que vous recevez chaque nuit.</li>
