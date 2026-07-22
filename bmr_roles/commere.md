@@ -122,14 +122,14 @@ Cela est plus utile à l’équipe du Bien et plus amusant pour tous.
 ---
 
 - Pendant la journée, la Commère dit : *« Je suis la Commère. Ma déclaration publique est : Le Démon porte un chapeau. »*
-  - Le Démon ne porte pas de chapeau. Cette nuit-là, la capacité de la Commère ne provoque aucun mort.
+  Le Démon ne porte pas de chapeau. Cette nuit-là, la capacité de la Commère ne provoque aucun mort.
 
 - La Commère est voisine d’un Voyageur bon et du [Pacifiste](pacifiste.md). 
-  - Pendant la journée, la Commère ivre dit : « Mes deux voisins sont bons. » 
+  Pendant la journée, la Commère ivre dit : « Mes deux voisins sont bons. » 
   - Au crépuscule, la Commère ivre devient sobre.
 
 - Cette nuit-là, la  [Femme de Chambre](femmedechambre.md) meurt.
-  - Pendant la journée, la Commère fait une vraie déclaration. 
+  Pendant la journée, la Commère fait une vraie déclaration. 
 - Cette nuit-là, la Commère est tuée par le Démon. 
   - Elle perd sa capacité.
   - En conséquence, sa déclaration ne tue personne cette nuit-là.
