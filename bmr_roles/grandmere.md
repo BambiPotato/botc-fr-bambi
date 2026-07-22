@@ -102,36 +102,33 @@ la <strong>Grand-mère</strong> meurt également.</li>
 
 ---
 
-<p class="botc-flavour-text dropcap" style="margin-top:0;">
+<p class="botc-flavour-text dropcap" style="margin:0;">
 Instructions au Conteur
-</p> 
+</p>
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 <li><strong>Lors de la préparation de la première nuit :</strong>
 <ul style="margin-left:20px;">
-<li>choisissez un <strong>Petit-enfant</strong> en marquant n'importe quel rôle bon ( un Villageois ou un Marginal)</li>
+<li>Choisissez un <strong>Petit-enfant</strong> en marquant n'importe quel rôle bon (un Villageois ou un Marginal).</li>
 <li>Marquez ce rôle avec le jeton de rappel <strong>PETIT-ENFANT</strong> dans votre grimoire.</li>
 </ul>
 </li>
 
 <li><strong>Lors de la première nuit :</strong>
 <ul style="margin-left:20px;">
-<li>Réveillez la <strong>Grand-mère</strong> ;</li>
-<li>Montrez-lui le jeton de rôle marqué <strong>PETIT-ENFANT</strong> ;</li>
-<li>Puis désignez le joueur <strong>Petit-enfant</strong>;</li>
-<li>Endormez ensuite la <strong>Grand-Mère</strong>.</li>
+<li>Réveillez la <strong>Grand-mère</strong>.</li>
+<li>Montrez-lui le jeton de rôle marqué <strong>PETIT-ENFANT</strong>.</li>
+<li>Puis désignez le joueur <strong>Petit-enfant</strong>.</li>
+<li>Endormez ensuite la <strong>Grand-mère</strong>.</li>
 </ul>
 </li>
 
-<li><strong>Mort du Petit-Enfant :</strong>
+<li><strong>Mort du Petit-enfant :</strong>
 <ul style="margin-left:20px;">
-<li>Si le <span style="color:#d45b5b; font-weight:bold;">Démon</span> tue le <strong>Petit-enfant</strong>,  
-la <strong>Grand-mère</strong> <strong>meurt</strong> - marquez-la du jeton de rappel <strong>MORT</strong>.</li>
-<li>Au lever du jour annoncez les deux morts.</li>
+<li>Si le <span style="color:#d45b5b; font-weight:bold;">Démon</span> tue le <strong>Petit-enfant</strong>, la <strong>Grand-mère</strong> <strong>meurt</strong> — marquez-la du jeton de rappel <strong>MORT</strong>.</li>
+<li>Au lever du jour, annoncez les deux morts.</li>
 </ul>
 </li>
-
 </ul>
-
 
 
 ##  <span style="color:#4ea3ff;">Exemples</span>
