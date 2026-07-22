@@ -2,7 +2,7 @@
 layout: default
 title: Général
 description: "Chaque nuit, vous apprenez quel alignement est en train de gagner selon le Conteur : bon, maléfique, ou aucun."
-image: 
+image: /images/Icon_general.png
 ---
 
 <p align="left">
@@ -65,7 +65,7 @@ image:
 ##  <span style="color:#4ea3ff;">Résumé</span>
 <hr class="villageois">
 
-<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:23px; margin:0 0 8px 0;">
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:22px; margin:0 0 8px 0;">
 « Chaque nuit, vous apprenez quel alignement est en train de gagner selon le Conteur : bon, maléfique, ou aucun. »
 </p>
 
@@ -117,7 +117,9 @@ Chaque nuit, réveillez le Général.
 
  
 <h2 style="color:#4ea3ff;">Conseils &amp; Astuces</h2>
-<hr class="villageois">
+
+
+---
 
 <ul style="margin:0; padding:0; list-style-position:inside; color:#f5f5f5; font-size:18px; line-height:1.7;">
 <li>Gardez à l’esprit que votre rôle interagit avec l’opinion personnelle du Conteur.<br>Cette opinion sera inévitablement influencée par bien plus que les seules mécaniques.<br>Votre groupe de joueurs comprend-il une personne largement considérée comme particulièrement rusée lorsqu’elle est maléfique ?<br>Peut-être avez-vous dans votre partie quelqu’un de bien plus expérimenté que les autres ?<br>Quelles sont les stratégies et les tactiques que votre Conteur considère comme les plus efficaces ?<br>Tous ces éléments, et bien d’autres encore, peuvent influencer les informations que vous recevez chaque nuit.</li>
@@ -135,9 +137,12 @@ Chaque nuit, réveillez le Général.
 <li>Si vous apprenez constamment que l’équipe maléfique est en train de gagner, faites-le savoir à l’équipe du Bien et agissez immédiatement d’une manière différente de ce qui a été fait jusqu’ici.<br>Si l’équipe maléfique est en train de gagner, essayez quelque chose de nouveau et convainquez le groupe de vous suivre.<br>Même si cet <a href="../tb_roles/bibliothecaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Archiviste</a>, auquel tout le monde fait confiance et que l’<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a> a confirmé comme étant bon, tient un raisonnement parfaitement cohérent, si vous et le groupe passez la journée à supposer qu’il ment, qu’il est maléfique ou qu’il est ivre, le Conteur pourrait décider que l’équipe du Bien est désormais « en train de gagner », ou même qu’« aucune équipe n’est en train de gagner », et vous l’indiquer cette nuit-là.<br>N’importe quelle tentative vaut mieux que de laisser l’équipe maléfique continuer à gagner jour après jour.<br>Il peut donc être judicieux d’agir de manière contre-intuitive, d’explorer des idées qui semblent déraisonnables ou de remettre en doute des informations qui paraissent confirmées.<br>Dans le pire des cas, le Conteur continuera à vous dire que le Mal est en train de gagner ; dans le meilleur des cas, il vous dira que le Bien est désormais en train de gagner.<br>Dans les deux cas, vous apprenez quelque chose d’important.<br>Le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> pourrait toutefois vous tuer pendant la nuit avant que vous ne puissiez recevoir cette information.<br>Il est donc encore préférable de parvenir à influencer les croyances générales et les intentions du groupe sans révéler que vous cherchez à le faire.</li>
 </ul>
 
+
+
 <h2 style="color:#4ea3ff;">Bluffer le Général</h2>
 
 ---
+
 
 <ul style="margin:0; padding:0; list-style-position:inside; color:#f5f5f5; font-size:18px; line-height:1.7;">
 <li>Lorsque vous bluffez le <strong>Général</strong>, il y a quelques éléments à garder en tête.</li>
@@ -154,7 +159,7 @@ Chaque nuit, réveillez le Général.
 
 <li>Pour paraître plus digne de confiance, au prix d’informations moins nuisibles, ne passez jamais directement de « le Bien est en train de gagner » à « le Mal est en train de gagner » entre deux nuits consécutives.<br>Prétendez avoir reçu au moins une fois l’information qu’« aucune équipe n’est en train de gagner », afin que le passage d’une équipe gagnante à l’autre semble moins brutal et davantage résulter d’une évolution progressive sur plusieurs jours.<br>Ce changement graduel est plus vraisemblable dans une véritable partie, ce qui augmente les chances que l’équipe du Bien vous croie réellement Général.<br>En revanche, cette stratégie aura moins d’impact sur les décisions de l’équipe du Bien, ou mettra au moins davantage de temps à produire ses effets.<br>Elle convient donc mieux aux <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démons</a>.</li>
 
-<li>Chaque fois qu’un événement important se produit pendant la partie, comme lorsque l’équipe du Bien milite pour l’exécution d’un Gobelin révélé publiquement et manque de peu de l’exécuter, lorsque le <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-mort</a> annonce au groupe qu’une Femme écarlate doit être en jeu parce que le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> vient d’être exécuté, lorsque l’<a href="../tb_roles/vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Immaculée</a> provoque l’exécution d’un joueur, ou lorsque vous vous réveillez pour découvrir que le joueur mort prétend soudainement être le Maladroit, changez radicalement l’équipe que vous prétendez voir gagner.<br>Jusqu’à ce moment-là, vous aurez probablement diffusé de fausses informations sur l’équipe qui était en train de gagner.<br>Après un événement majeur, il est tout à fait logique que le Général apprenne qu’une nouvelle équipe a pris l’avantage.<br>Appuyez-vous sur les croyances de l’équipe du Bien et profitez-en pour lui transmettre des informations encore plus spectaculaires et mensongères.</li>
+<li>Chaque fois qu’un événement important se produit pendant la partie, comme lorsque l’équipe du Bien milite pour l’exécution d’un <a href="../roles_experimentaux/gobelin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Gobelin</a> révélé publiquement et manque de peu de l’exécuter, lorsque le <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a> annonce au groupe qu’une <a href="../tb_roles/femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme écarlate</a> doit être en jeu parce que le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> vient d’être exécuté, lorsque l’<a href="../tb_roles/vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Immaculée</a> provoque l’exécution d’un joueur, ou lorsque vous vous réveillez pour découvrir que le joueur mort prétend soudainement être le <a href="../tb_roles/maladroit.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maladroit</a>, changez radicalement l’équipe que vous prétendez voir gagner.<br>Jusqu’à ce moment-là, vous aurez probablement diffusé de fausses informations sur l’équipe qui était en train de gagner.<br>Après un événement majeur, il est tout à fait logique que le Général apprenne qu’une nouvelle équipe a pris l’avantage.<br>Appuyez-vous sur les croyances de l’équipe du Bien et profitez-en pour lui transmettre des informations encore plus spectaculaires et mensongères.</li>
 </ul>
 
 
