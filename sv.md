@@ -12,6 +12,7 @@ image: /images/Logo_sects_and_violets.png
   </a>
 </p>
 
+
 <hr class="explication">
 
 <!--  Logo centré cliquable -->
