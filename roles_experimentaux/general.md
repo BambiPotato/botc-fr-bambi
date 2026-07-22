@@ -91,8 +91,9 @@ Le Conteur décide quelle équipe est en train de gagner au moment où le Géné
 
 <p class="botc-flavour-text dropcap" style="margin-bottom:0;">
 Instructions au Conteur
-</p> 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+</p>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-top:0;">
 Chaque nuit, réveillez le Général.
 </p>
 
