@@ -26,20 +26,6 @@ image: /images/Icon_scarletwoman.png
 
 
 <hr class="sbire">
-
-
-##  Apparaît dans  
-
-<div style="text-align:center; margin: 20px 0;">
-  <a href="../trouble_brewing.html" style="text-decoration:none;">
-    <img src="../images/Logo_trouble_brewing.png" alt= "Trouble Brewing" width="400" style="border-radius:12px;">
-    <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:45px;">Trouble Brewing</span>
-  </a>
-</div>
-
-<hr class="sbire">
-
 ##  <span style="color:#d45b5b">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
@@ -71,6 +57,19 @@ image: /images/Icon_scarletwoman.png
   et je suis à jamais à votre service.<br> 
   Mais ce soir, mon cher, je suis votre maître. »
 </p>
+
+<hr class="sbire">
+
+##  Apparaît dans  
+
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../trouble_brewing.html" style="text-decoration:none;">
+    <img src="../images/Logo_trouble_brewing.png" alt= "Trouble Brewing" width="400" style="border-radius:12px;">
+    <br>
+    <span style="color:#b58b52; font-weight:bold; font-size:45px;">Trouble Brewing</span>
+  </a>
+</div>
+
 
 
 ##  <span style="color:red">Résumé</span>    
