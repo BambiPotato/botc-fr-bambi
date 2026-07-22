@@ -91,7 +91,7 @@ Instructions au Conteur
 
 <div class="botc-note">
 La capacité du Saint comporte la phrase « votre équipe perd ».<br> 
-Dans <strong>TROUBLE BREWING</strong>, cela signifiera toujours « le Mal gagne » car le Saint est toujours bon.<br>  
+Dans <strong>TROUBLE BREWING</strong>, cela signifiera toujours « le Mal gagne » car le Saint est toujours bon. 
 Dans d'autres modules, certains rôles peuvent changer d'alignement. Si un Saint maléfique est exécuté, le Bien gagne.
 </div> 
 
