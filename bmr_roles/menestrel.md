@@ -72,106 +72,73 @@ Cousez mitaines, cousez mitaines, pour de belles capitaines. »
   </a>
 </div>
 
-<hr class="explication">
 
-
-##  <span style="color:blue">Résumé</span> 
-
-
-<hr class="explication">
-
+<h2 style="color:#4ea3ff;">Résumé</h2>
+<hr class="villageois">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
 Lorsqu’un Sbire meurt par exécution, tous les autres joueurs (sauf les Voyageurs) sont ivres jusqu’au crépuscule du lendemain.
-</p> 
-
+</p>
 
 <p class="botc-flavour-text dropcap">
 LE MÉNESTREL enivre tout le monde si un Sbire meurt.
-</p> 
+</p>
 
+<ul style="margin:0; padding:0; list-style-position:inside; color:#f5f5f5; font-size:18px; line-height:1.7;">
+  <li>Si un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> meurt par exécution, tous les joueurs (sauf le Ménestrel) deviennent immédiatement ivres et le restent toute la nuit, et toute la journée du lendemain. Les <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>, les <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>, les <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> et même les <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démons</a> deviennent ivres. Seuls les <a href="../voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a> y échappent. Cet effet ne survient pas si le Sbire meurt pendant la nuit.</li>
+  <li>Si un Sbire mort est exécuté, la capacité du Ménestrel ne se déclenche pas. Un rôle mort ne peut pas mourir à nouveau.</li>
+  <li>Si un Sbire est exécuté, mais ne meurt pas, la capacité du Ménestrel ne se déclenche pas.</li>
+  <li>Si le Ménestrel est ivre ou empoisonné lorsqu’un Sbire meurt par exécution, la capacité du Ménestrel ne se déclenche pas.</li>
+</ul>
 
-- Si un [<span style="color:red">Sbire</span>](../sbires.md) meurt par exécution, tous les joueurs (sauf le Ménestrel) deviennent immédiatement ivres<br> - et le restent toute la nuit, et toute la journée du lendemain. Les [Villageois](../villageois.md), les [Marginaux](../etrangers.md), les [<span style="color:red">Sbires</span>](../sbires.md) et même les [<span style="color:red">Démons</span>](../demons.md) deviennent ivres.<br> Seuls les [<span style="color:#9b59b6">Voyageurs</span>](../voyageurs/voyageurs.md) y échappent. Cet effet ne survient pas si le Sbire meurt pendant la nuit.
-
-- Si un Sbire mort est exécuté, la capacité du Ménestrel ne se déclenche pas.<br> Un rôle mort ne peut pas mourir à nouveau.<br>  Si un Sbire est exécuté, mais ne meurt pas, la capacité du Ménestrel ne se déclenche pas.<br> Si le Ménestrel est ivre ou empoisonné lorsqu’un Sbire meurt par exécution, la capacité du Ménestrel ne se déclenche pas.
-  
-
-
-##  <span style="color:blue">Comment Conter</span>  
-
----
+<h2 style="color:#4ea3ff;">Comment Conter</h2>
+<hr>
 
 <p class="botc-flavour-text dropcap">
 Instructions au Conteur
-</p> 
+</p>
 
-- Pendant la journée, si un Sbire meurt par exécution, tous les autres joueurs, à l’exception des Voyageurs, deviennent ivres. <br> Placez le jeton **TOUT LE MONDE EST IVRE** du Ménestrel au milieu de la partie gauche du Grimoire.<br>  Le lendemain, au crépuscule, tous les joueurs enivrés par le Ménestrel deviennent sobres<br>  — retirez le jeton **TOUT LE MONDE EST IVRE**. 
+<ul style="margin:0; padding:0; list-style-position:inside; color:#f5f5f5; font-size:18px; line-height:1.7;">
+  <li>Pendant la journée, si un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> meurt par exécution, tous les autres joueurs, à l’exception des Voyageurs, deviennent ivres. Placez le jeton <strong>TOUT LE MONDE EST IVRE</strong> du Ménestrel au milieu de la partie gauche du Grimoire.</li>
+  <li>Le lendemain, au crépuscule, tous les joueurs enivrés par le Ménestrel deviennent sobres — retirez le jeton <strong>TOUT LE MONDE EST IVRE</strong>.</li>
+</ul>
 
+<h2 style="color:#4ea3ff;">Exemples</h2>
+<hr>
 
+<ul style="margin:0; padding:0; list-style-position:inside; color:#f5f5f5; font-size:18px; line-height:1.7;">
+  <li>Lors du premier jour, le <a href="./pacifiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pacifiste</a> meurt. Rien ne se passe, cette nuit-là, les joueurs agissent normalement car le <a href="./pacifiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pacifiste</a> n’est pas un Sbire.</li>
+  <li>Lors du deuxième jour, le <a href="../voyageurs/juge.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Juge</a> fait exécuter le <a href="./parrain.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parrain</a>. Cette nuit-là, tout le monde est ivre, y compris le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, donc personne ne meurt.</li>
+  <li>Lors du troisième jour, un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> protégé par l’<a href="./avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a> est exécuté et meurt, car l’<a href="./avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a> est ivre. Une fois encore, comme un Sbire est mort pendant la journée, le Ménestrel enivre tout le monde.</li>
+  <li>L’<a href="./assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> est exécuté donc le Ménestrel enivre tout le monde. Le lendemain, le <a href="./parrain.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parrain</a> est exécuté. À nouveau, le Ménestrel enivre tout le monde. Le Démon n’a pu tuer lors d’aucune des deux nuits.</li>
+  <li>Le jour suivant, l’<a href="../voyageurs/apprenti.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Apprenti</a> Voyageur maléfique avec la capacité du <a href="./cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a> est exilé, tout le monde redevient sobre, car un exil de <a href="../voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a> ne déclenche pas la capacité du Ménestrel.</li>
+  <li>Pendant la journée, l’<a href="./assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> meurt, donc le Ménestrel enivre tout le monde. Le lendemain, le <a href="./zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> est exécuté et meurt pour la première fois. Le Bien gagne, car le <a href="./zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> est ivre et n’a donc aucune capacité.</li>
+</ul>
 
-##  <span style="color:blue">Exemples</span>  
+<h2 style="color:#4ea3ff;">Conseils & Astuces</h2>
+<hr>
 
----
+<ul style="margin:0; padding:0; list-style-position:inside; color:#f5f5f5; font-size:18px; line-height:1.7;">
+  <li>À première vue, le <a href="./menestrel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ménestrel</a> ne semble pas si puissant, mais en réalité, vous obtenez l'une des informations les plus fiables du jeu. Après chaque journée où une exécution a lieu, vous savez avec certitude que si quelqu'un meurt la nuit suivante, le joueur exécuté n'est pas un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>. Étant donné qu'un <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> exécuté met généralement fin à la partie (mis à part le <a href="./zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> et le <a href="./cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a>), vous pouvez en fait être raisonnablement certain que l'exécuté était bon !</li>
+  <li>Si le village réussit à exécuter un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>, la capacité du <a href="./menestrel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ménestrel</a> s'active et personne ne mourra cette nuit-là. Cela ne signifie pas pour autant qu'une nuit sans mort garantit que votre capacité en soit la cause. Dans <a href="../bmr.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Bad Moon Rising</a>, il y a autant de raisons pour lesquelles les gens ne meurent pas qu'il y en a pour lesquelles ils meurent (par exemple l'<a href="./exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a>, l'<a href="./aubergiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergière</a>, ou le <a href="./po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a> qui se prépare) ! Pour être sûr que votre capacité est bien la cause de cette absence de mort et que le récent exécuté doit être condamné, menez votre petite enquête : puisque vous affectez toutes les capacités du jeu, vous devriez être en mesure de trouver la preuve que d'autres compétences n'ont pas fonctionné comme prévu. Par exemple, des personnages comme la <a href="./chambriere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chambrière</a> ou le <a href="./parieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Parieur</a> pourraient obtenir des résultats étranges. De plus, personne ne sera protégé de l'exécution (par exemple via le <a href="./pacifiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pacifiste</a> ou l'<a href="./avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a>), et des personnages comme le <a href="./bricoleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bricoleur</a> ne mourront pas aléatoirement ce jour-là.</li>
+  <li>Visez les exécutions ! Plus il y a d'exécutions, plus vous avez de chances d'attraper un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>. Les joueurs du bien peuvent être réticents à exécuter quiconque n'est pas suspecté d'être le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, car le nombre de morts peut être inattendu et lourd dans <a href="../bmr.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Bad Moon Rising</a>, mais cela vaut le coup d'éliminer de puissants <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> comme l'<a href="./assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> ou le <a href="./cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a> avant qu'ils ne fassent trop de dégâts. Combiné au répit d'une nuit que votre pouvoir accorde lors d'une exécution réussie, votre capacité devrait vous inciter à être bien plus agressif que d'habitude !</li>
+  <li>Les <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démons</a> sont parfois moins susceptibles de vous cibler car ils sous-estiment votre pouvoir ! À moins que les <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> ne se fassent exécuter à tour de bras, le <a href="./menestrel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ménestrel</a> a de grandes chances de survivre un peu plus longtemps que les autres <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> dépourvus de protection, tout simplement parce qu'un <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> s'inquiétera beaucoup plus de voir un <a href="./exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a> ou une <a href="./damedethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Tisanière</a> survivre une nuit de plus. Profitez pleinement de ce point aveugle : avec un peu de chance, au moment où l'équipe du mal réalisera le danger que vous représentez, un ou deux <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> seront déjà tombés !</li>
+  <li>Si l'équipe du mal est un peu plus avisée, elle peut chercher à vous cibler plus tôt, surtout si l'équipe du bien commence à se concentrer sur certains <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>. Garder votre identité secrète pendant quelques jours vous permettra de ménager une mauvaise surprise à ces joueurs rusés, car ils ne sauront pas que vous les avez empêchés d'agir et que vous avez exposé un <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> jusqu'à ce que personne ne puisse agir. Votre mort inattendue peut également être l'indicateur que vous étiez sur la piste d'un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> que l'équipe du mal ne voulait absolument pas voir confirmé comme tel.</li>
+</ul>
 
+<h2 style="color:#4ea3ff;">Bluffer le Ménestrel</h2>
+<hr>
 
-- Lors du remier jour, le [Pacifiste](pacifiste.md) meurt. Rien ne se passe, cette nuit-là, les joueurs agissent normalement<br> - car le [Pacifiste](pacifiste.md) n’est pas un Sbire.
+<ul style="margin:0; padding:0; list-style-position:inside; color:#f5f5f5; font-size:18px; line-height:1.7;">
+  <li>Lorsque vous bluffez en tant que <a href="./menestrel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ménestrel</a>, gardez quelques éléments à l'esprit.</li>
+  <li>Le <a href="./menestrel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ménestrel</a> est un bon bluff passif ou de « couverture ». Vous n'avez pas grand-chose à faire si ce n'est rappeler de temps en temps aux autres que vous êtes le <a href="./menestrel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ménestrel</a>. Comme c'est facile, certains joueurs du bien prétendront être le <a href="./menestrel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ménestrel</a> pour masquer le fait qu'ils sont par exemple l'<a href="./exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a>. Vous pouvez faire de même.</li>
+  <li>Au moins une fois par partie, demandez au <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> d'éviter de tuer la nuit. Si aucune autre mort ne survient, cela simulera ce qui se passe lorsqu'un vrai <a href="./menestrel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ménestrel</a> est en jeu et qu'un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> est exécuté. Si vous faites cela après l'exécution d'un joueur suspect, non seulement vous confirmez les soupçons du groupe quant à la malveillance de ce joueur, mais vous convainquez également le groupe qu'il était ivre cette nuit-là — ce qui met des bâtons dans les roues des personnages qui s'appuient sur les informations et retours nocturnes, comme l'<a href="./exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a>, la <a href="./chambriere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chambrière</a>, le <a href="./parieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Parieur</a> et même l'<a href="./enfantdelalune.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Enfant de la Lune</a>.</li>
+  <li>Si vous prétendez être le <a href="./menestrel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ménestrel</a> et qu'un coéquipier du mal est exécuté, demander au <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> de tuer normalement cette nuit-là est un excellent moyen de convaincre le groupe que le joueur exécuté était bon. Vous n'aurez peut-être même pas besoin de dire quoi que ce soit d'autre que le fait que vous êtes le <a href="./menestrel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ménestrel</a> — et laissez-les déduire le reste eux-mêmes.</li>
+  <li>Encouragez les exécutions — de joueurs autres que vous-même et votre <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, bien entendu.</li>
+  <li>Si un vrai <a href="./menestrel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ménestrel</a> est en jeu et que vous êtes le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, choisissez de ne pas tuer de temps en temps afin d'embrouiller le <a href="./menestrel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ménestrel</a>. Si un <a href="./menestrel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ménestrel</a> suppose que le groupe vient d'exécuter un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> alors qu'il a en réalité exécuté un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>, non seulement ce <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> paraîtra maléfique, mais le reste des joueurs du bien supposera qu'ils étaient ivres cette nuit (en raison de la capacité du <a href="./menestrel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ménestrel</a>), même s'ils étaient tout à fait sobres.</li>
+</ul>
+
  
-- Lors du deuxième jour, le [<span style="color:#9b59b6">Juge</span>](../voyageurs/judge.md) fait exécuter le [<span style="color:red">Parrain</span>](parrain.md). Cette nuit-là, tout le monde est ivre, y compris le [<span style="color:red">Démon</span>](../demons.md), donc personne ne meurt.  
-  
-- Lors du troisième jour, un [<span style="color:red">Sbire</span>](../sbires.md) protégé par l’[<span style="color:red">Avocat du Diable</span>](avocatdudiable.md) est exécuté et meurt, car l’[<span style="color:red">Avocat du Diable</span>](avocatdudiable.md)  est ivre.<br> Une fois encore, comme un Sbire est mort pendant la journée, le Ménestrel enivre tout le monde.
-
-- L’[<span style="color:red">Assassin</span>](assassin.md) est exécuté donc le Ménestrel enivre tout le monde.  
-  Le lendemain, le [<span style="color:red">Parrain</span>](parrain.md) est exécuté.<br> À nouveau, le Ménestrel enivre tout le monde. Le Démon n’a pu tuer lors d’aucune des deux nuits. 
-- Le jour suivant, l'[<span style="color:#9b59b6">Apprenti</span>](../voyageurs/apprentice.md) Voyageur maléfique avec la capacité du [<span style="color:red">Conspirateur</span>](cerveau.md) est exilé, tout le monde redevient sobre, car un exil de [<span style="color:#9b59b6">Voyageur</span>](../voyageurs/voyageurs.md) ne déclenche pas la capacité du Ménestrel.  
-
-- Pedant la journée, l’[<span style="color:red">Assassin</span>](assassin.md) meurt, donc le Ménestrel enivre tout le monde. 
-Le lendemain, le [<span style="color:red">Zombuul</span>](zombuul.md) est exécuté et meurt pour la première fois.  
-Le Bien gagne, car le [<span style="color:red">Zombuul</span>](zombuul.md) est ivre et n’a donc aucune capacité.
-
-
-##  <span style="color:blue">Astuces & Stratégie</span>  
-
----
-
-Le **Ménestrel** semble faible, mais il fournit en réalité **des informations extrêmement fiables**.  
-
-- Après une exécution, si quelqu’un meurt durant la nuit, vous savez que l’exécuté **n’était pas un [<span style="color:red">Sbire</span>](../sbires.md)**.  
-- Comme l’exécution d’un [<span style="color:red">Démon</span>](../demons.md) met souvent fin à la partie (sauf cas particuliers comme un [<span style="color:red">Zombuul</span>](zombuul.md) ou un [<span style="color:red">Conspirateur</span>](cerveau.md) en jeu), vous pouvez en déduire qu’il s’agissait d’un **joueur du Bien** !  
-
-###  <span style="color:blue">Interpréter les nuits sans mort</span>    
-
-Si un [<span style="color:red">Sbire</span>](../sbires.md) est exécuté, votre capacité s’active et **personne ne meurt cette nuit-là**.  
-Mais attention : dans *Bad Moon Rising*, il existe **de nombreuses raisons** à l’absence de mort ([Exorciste](exorciste.md), [Aubergiste](aubergiste.md), [<span style="color:red">Po</span>](po.md), etc.).  
-
-Pour confirmer que votre capacité est en cause :  
-- Observez les résultats inhabituels des rôles à information ([Femme de Chambre](femmedecha.md), [Parieur](parieur.md)...).  
-- Notez si des protections cessent de fonctionner ([Pacifiste](pacifiste.md), [<span style="color:red">Avocat du Diable</span>](avocatdudiable.md)).  
-- Vérifiez si des morts aléatoires (comme le [Bricoleur](bricoleur.md)) ne se produisent pas.  
-
-###   <span style="color:blue">Favorisez les exécutions</span>    
-
-Plus il y a d’exécutions, plus vous avez de chances d’éliminer un [<span style="color:red">Sbire</span>](../sbires.md).  
-Même si les bons joueurs hésitent à exécuter souvent, éliminer un [<span style="color:red">Assassin</span>](assassin.md) peut offrir **une nuit de répit**.  
-
-###  <span style="color:blue">Survivre plus longtemps</span>      
-
-Les [<span style="color:red">Démons</span>](../demons.md) sous-estiment souvent le Ménestrel, le laissant en vie.  
-Profitez-en pour garder votre identité secrète jusqu’à ce qu’un [<span style="color:red">Sbire</span>](../sbires.md) tombe — l’effet sera spectaculaire !  
-
-
-
-##  <span style="color:blue">Bluffer le Ménestrel</span>  
-
----
-
-Le **Ménestrel** est un **excellent bluff passif** : facile à maintenir, crédible et discret.  
-
-- Faites en sorte qu’aucune mort ne survienne une nuit, par exemple demandez à votre [<span style="color:red">Démon</span>](../demons.md) de ne pas tuer.  
-  Cela simulera votre capacité après la mort d’un [<span style="color:red">Sbire</span>](../sbires.md) et désorientera les rôles à information.  
-- Si un allié du [<span style="color:red">Mal</span>](../sbires.md) est exécuté, laissez le [<span style="color:red">Démon</span>](../demons.md) tuer normalement.  
-  Les joueurs croiront que l’exécuté était bon.  
-- Encouragez les exécutions sauf celles visant le [<span style="color:red">Démon</span>](../demons.md) ou vous-même.  
-- Si un vrai Ménestrel est en jeu et que vous êtes le [<span style="color:red">Démon</span>](../demons.md), sautez quelques attaques nocturnes : cela créera la confusion.  
 
 
 <hr class="explication">
