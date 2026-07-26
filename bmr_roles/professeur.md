@@ -130,7 +130,7 @@ Instructions au Conteur
   <li>Lorsque vous choisissez qui ressusciter, envisagez de dire au joueur à l'avance ce que vous comptez faire. Non seulement cela crédibilise le fait que vous n'êtes pas le <a href="./shabaloth.html" style="color:#D45B5B; font-weight:bold; text-decoration:none;">Shabaloth</a> (puisque le Conteur choisit qui est régurgité), mais cela signifie aussi que le joueur peut vous mettre en garde s'il est un Marginal qui bluffe en tant que Villageois pour une raison quelconque. De plus, si le joueur accepte de suivre ce plan et ne revient pas, vous pouvez être beaucoup plus certain qu'il est du mal, puisqu'il a eu l'occasion de vous arrêter et ne l'a pas fait !</li>
 </ul>
 
-<h2 style="color:#4ea3ff;">>Bluffer le Professeur</h2>
+<h2 style="color:#4ea3ff;">Bluffer le Professeur</h2>
 <hr>
 
 <ul style="margin:0; padding:0; list-style-position:inside; color:#f5f5f5; font-size:18px; line-height:1.7;">
