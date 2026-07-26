@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Accueil
-description: Wiki Francophone Communautaire Blood on the Clocktower
+description: Wiki francophone communautaire Blood on the Clocktower 
 home_sidebar: true
 ---
 
