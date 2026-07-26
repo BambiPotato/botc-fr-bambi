@@ -76,8 +76,7 @@ ajouter 20 cc de pseudodorafine tout en maintenant les niveaux Z de votre mari s
 </div>
 
 
-
-<h2 style="color:#4EA3FF;">Résumé</h2>
+<h2 style="color:#4ea3ff;">Résumé</h2>
 <hr class="villageois">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:22px; margin-top:-10px;">
@@ -96,7 +95,7 @@ LE PROFESSEUR peut ramener quelqu’un d’entre les morts.
   <li>Un Villageois ressuscité peut agir (ou non) lors de la nuit où il a été ressuscité, selon qu’il devait agir avant ou après le Professeur.<br>Si un tel Villageois avait une capacité unique de première nuit ou une capacité <strong>« Lors de votre première nuit, vous apprenez »</strong>,<br> il se réveille immédiatement pour l’exercer, dès que le Professeur se rendort.</li>
 </ul>
 
-<h2 style="color:#4EA3FF; margin-top:30px;">Comment Conter</h2>
+<h2 style="color:#4ea3ff;">Comment Conter</h2>
 <hr>
 
 <p class="botc-flavour-text dropcap">
@@ -109,7 +108,7 @@ Instructions au Conteur
   <li>À l’aube, après avoir annoncé quels joueurs sont morts, déclarez quel joueur est à nouveau en vie. <em>(Ne dites pas pourquoi.)</em><br> Le Professeur perd sa capacité — marquez-le du jeton <strong>SANS CAPACITÉ</strong> et retirez son jeton de nuit de la fiche de nuit.</li>
 </ul>
 
-<h2 style="color:#4EA3FF; margin-top:30px;">Exemples</h2>
+<h2 style="color:#4ea3ff;">Exemples</h2>
 <hr>
 
 <ul style="margin:0; padding:0; list-style-position:inside; color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -118,7 +117,7 @@ Instructions au Conteur
   <li>Le Professeur ivre choisit de ressusciter le <a href="./menestrel.html" style="color:#4EA3FF; font-weight:bold; text-decoration:none;">Ménestrel</a>.<br> Or, à l’insu du Professeur, le <a href="./menestrel.html" style="color:#4EA3FF; font-weight:bold; text-decoration:none;">Ménestrel</a> a été recraché par le <a href="./shabaloth.html" style="color:#D45B5B; font-weight:bold; text-decoration:none;">Shabaloth</a> et est déjà de nouveau en vie.<br> Le Conteur fait non de la tête pour refuser le choix du Professeur, qui doit choisir un joueur mort.<br> Le Professeur choisit alors le <a href="./fou.html" style="color:#4EA3FF; font-weight:bold; text-decoration:none;">Fou du roi</a>. <br> Rien ne se passe parce que le Professeur est ivre.<br> Pour autant, il ne peut plus utiliser sa capacité de la partie.</li>
 </ul>
 
-<h2 style="color:#4EA3FF; margin-top:30px;">Conseils & Astuces</h2>
+<h2 style="color:#4ea3ff;">Conseils & Astuces</h2>
 <hr>
 
 <ul style="margin:0; padding:0; list-style-position:inside; color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -131,7 +130,7 @@ Instructions au Conteur
   <li>Lorsque vous choisissez qui ressusciter, envisagez de dire au joueur à l'avance ce que vous comptez faire. Non seulement cela crédibilise le fait que vous n'êtes pas le <a href="./shabaloth.html" style="color:#D45B5B; font-weight:bold; text-decoration:none;">Shabaloth</a> (puisque le Conteur choisit qui est régurgité), mais cela signifie aussi que le joueur peut vous mettre en garde s'il est un Marginal qui bluffe en tant que Villageois pour une raison quelconque. De plus, si le joueur accepte de suivre ce plan et ne revient pas, vous pouvez être beaucoup plus certain qu'il est du mal, puisqu'il a eu l'occasion de vous arrêter et ne l'a pas fait !</li>
 </ul>
 
-<h2 style="color:#4EA3FF; margin-top:30px;">Bluffer le Professeur</h2>
+<h2 style="color:#4ea3ff;">>Bluffer le Professeur</h2>
 <hr>
 
 <ul style="margin:0; padding:0; list-style-position:inside; color:#f5f5f5; font-size:18px; line-height:1.7;">
