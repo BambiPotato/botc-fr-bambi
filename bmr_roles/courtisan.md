@@ -73,115 +73,80 @@ qu’une armée de cent lions menée par un mouton. »
   </a>
 </div>
 
-<hr class="explication">
 
 
-##  <span style="color:blue">Résumé</span>    
 
+<h2 style="color:#4ea3ff;">Résumé</h2>
+<hr class="villageois">
 
-<hr class="explication">
-
-
-<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:22px; margin:0 0 8px 0;">
 « Une fois par partie, la nuit, choisissez un rôle : il est ivre pendant 3 nuits et 3 jours. »
-</p> 
+</p>
 
-<p class="botc-flavour-text dropcap">
+<p class="botc-flavour-text dropcap" style="margin:0;">
 LE COURTISAN enivre un rôle sans savoir de quel joueur il s’agit.
 </p>
 
+<ul style="margin:0; padding:0; list-style-position:inside; color:#f5f5f5; font-size:18px; line-height:1.7;">
+<li>Une fois par partie, le Courtisan choisit un rôle à enivrer pendant trois nuits et trois jours, avec effet immédiat.</li>
+<li>Le Courtisan n’apprend pas s’il a véritablement enivré quelqu’un.<br>Il pourrait enivrer un rôle qui n’est pas en jeu.</li>
+<li>Le Courtisan choisit un rôle, et non un joueur.<br>Vous serez peut-être obligé de rappeler cette règle au Courtisan.<br>Les joueurs maléfiques qui se font passer pour le Courtisan auront peut-être aussi besoin d’un tel rappel.</li>
+<li>Si le Courtisan est ivre ou empoisonné lorsqu’il choisit le rôle à enivrer, le rôle choisi ne devient pas ivre,<br>et ce même si le Courtisan devient sobre et sain par la suite.<br>Si le Courtisan a enivré un rôle mais que lui-même devient ivre ou empoisonné, sa capacité cesse et le rôle qu’il a enivré redevient sobre.<br>Si le Courtisan redevient sobre et sain avant que les trois nuits et trois jours ne se soient écoulés,<br>alors sa capacité reprend et le rôle qu’il avait visé redevient immédiatement ivre.</li>
+</ul>
 
-- Une fois par partie, le Courtisan choisit un rôle à enivrer pendant trois nuits et trois jours, avec effet immédiat.
+<h2 style="color:#4ea3ff;">Comment Conter</h2>
+<hr class="villageois">
 
-- Le Courtisan n’apprend pas s’il a véritablement enivré quelqu’un.<br> Il pourrait enivrer un rôle qui n’est pas en jeu.
-
-- Le Courtisan choisit un rôle, et non un joueur.<br> Vous serez peut-être obligé de rappeler cette règle au Courtisan. <br>Les joueurs maléfiques qui se font passer pour le Courtisan auront peut-être aussi besoin d’un tel rappel.
-
-- Si le Courtisan est ivre ou empoisonné lorsqu’il choisit le rôle à enivrer, le rôle choisi ne devient pas ivre, <br> et ce même si le Courtisan devient sobre et sain par la suite.<br> Si le Courtisan a enivré un rôle mais que lui-même devient ivre ou empoisonné, sa capacité cesse et le rôle qu’il a enivré redevient sobre.<br> Si le Courtisan redevient sobre et sain avant que les trois nuits et trois jours ne se soient écoulés,<br> alors sa capacité reprend et le rôle qu’il avait visé redevient immédiatement ivre. 
-
-
-##  <span style="color:blue">Comment Conter</span>  
-
----
-
-
-<p class="botc-flavour-text dropcap">
+<p class="botc-flavour-text dropcap" style="margin:0;">
 Instructions au Conteur
 </p>
 
-- Chaque nuit, réveillez le Courtisan. Il fait non de la tête ou désigne n’importe quelle icône de rôle sur sa fiche de rôles. Le 
-Courtisan se rendort.
+<ul style="margin:0; padding:0; list-style-position:inside; color:#f5f5f5; font-size:18px; line-height:1.7;">
+<li>Chaque nuit, réveillez le Courtisan. Il fait non de la tête ou désigne n’importe quelle icône de rôle sur sa fiche de rôles. Le Courtisan se rendort.</li>
+<li>Si le Courtisan choisit une icône de rôle et que ce rôle est en jeu,<br>le joueur qui incarne le rôle choisi devient ivre pendant trois nuits et trois jours.</li>
+<li>Cette nuit-là, marquez-le du jeton <strong>IVRE 1</strong> du Courtisan.<br>La nuit suivante, remplacez le jeton <strong>IVRE 1</strong> par le jeton <strong>IVRE 2</strong>.<br>La nuit d’après, remplacez le jeton <strong>IVRE 2</strong> par le jeton <strong>IVRE 3</strong>.<br>Au crépuscule de la nuit d’après, retirez le jeton <strong>IVRE 3</strong>.</li>
+<li>Le Courtisan perd sa capacité. Marquez-le du jeton <strong>SANS CAPACITÉ</strong> et retirez son jeton de nuit de la fiche de nuit.</li>
+<li>Une fois que le Courtisan a choisi un rôle à enivrer, ne réveillez plus le Courtisan pendant le reste de la partie.</li>
+</ul>
 
-- Si le Courtisan choisit une icône de rôle et que ce rôle est en jeu,<br> le joueur qui incarne le rôle choisi devient ivre pendant trois nuits et trois jours. 
-
-- Cette nuit-là, marquez-le du jeton **IVRE 1** du
-Courtisan.<br>  La nuit suivante, remplacez le jeton **IVRE 1** par le jeton **IVRE 2**. <br> La nuit d’après, remplacez le jeton **IVRE 2** par le jeton **IVRE 3**.<br> Au crépuscule de la nuit d’après, retirez le jeton **IVRE 3**. 
-
-- Le Courtisan perd sa capacité. Marquez-le du jeton **SANS CAPACITÉ** et retirez son jeton de nuit de la fiche de nuit.
-
-- Une fois que le Courtisan a choisi un rôle à enivrer, ne réveillez plus le Courtisan pendant le reste de la partie.
-
-*Dans d’autres modules, il peut y avoir plusieurs exemplaires du même rôle en jeu.*
-*Le Courtisan n’enivre qu’un seul d’entre eux.*
+<div class="botc-note">
+Dans d’autres modules, il peut y avoir plusieurs exemplaires du même rôle en jeu. Le Courtisan n’enivre qu’un seul d’entre eux.
+</div>
 
 
+<h2 style="color:#4ea3ff;">Exemples</h2>
+<hr>
 
-##  <span style="color:blue">Exemples</span>    
+<ul style="margin:0; padding:0; list-style-position:inside; color:#f5f5f5; font-size:18px; line-height:1.7;">
+<li>Le Courtisan attend la 5ème nuit et cible le <a href="./shabaloth.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a>.<br>Pendant 3 nuits, le <a href="./shabaloth.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a> se réveille, mais ne tue personne.</li>
+<li>Le Courtisan est ivre et choisit le <a href="./po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a>.<br>Rien ne se passe.</li>
+<li>Le Courtisan cible le <a href="./cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a>.<br>Le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> est exécuté, mais comme le <a href="./cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a> est ivre, il n’octroie pas la victoire au Mal. Le Bien gagne.</li>
+</ul>
 
----
-
-- Le Courtisan attend la 5ème nuit et cible le [<span style="color:red">Shabaloth</span>](shabaloth.md).  
-  → Pendant 3 nuits, le Shabaloth se réveille, mais ne tue personne.  
-
-- Le Courtisan est ivre et choisit le [<span style="color:red">Po</span>](po.md).  
-  → Rien ne se passe.  
-
-- Le Courtisan cible le [<span style="color:red">Cerveau</span>](cerveau.md).  
-  → Le <span style="color:red">Démon</span> est exécuté, mais comme le [<span style="color:red">Conspirateur</span>](cerveau.md) est ivre, il n’octroie pas la victoire au <span style="color:red">Mal</span>. Le Bien gagne.  
+<h2 style="color:#4ea3ff;">Conseils &amp; Astuces</h2>
+<hr>
 
 
-##  <span style="color:blue">Astuces & Conseils</span>  
+<ul style="margin:0; padding:0; list-style-position:inside; color:#f5f5f5; font-size:18px; line-height:1.7;">
+<li>Le Courtisan est unique car vous choisissez un rôle, et non un joueur.<br>Cela signifie que vous sélectionnez un rôle réel, et s'il est présent dans votre partie, il deviendra ivre. C'est différent de l'<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>, qui choisit un joueur pour qu'il soit empoisonné, peu importe qui il est. Grâce à cela, plusieurs stratégies s'offrent à vous !</li>
+<li>Vous ne pouvez utiliser votre capacité qu'une seule fois dans toute la partie, alors choisissez bien votre moment ! Plus vous faites votre choix tard, plus vous aurez d'informations sur l'état de la partie, sur les rôles en jeu et sur ce qui cause le chaos. D'un autre côté, l'équipe du mal aura très envie de vous cibler dès que possible. Utiliser votre capacité tôt peut donc vous assurer de l'activer et d'apprendre quelque شيء avant de mourir.<br>C'est à vous de juger la situation de votre partie spécifique et de faire votre choix !</li>
+<li>Évidemment, l'une des utilisations les plus puissantes de votre capacité est de cibler le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>. Si vous parvenez à bloquer le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> en le rendant ivre, l'équipe du bien bénéficiera de trois nuits de répit et l'équipe du mal sera désavantagée. Le meilleur moyen de savoir quel <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> est en jeu est le nombre de morts chaque nuit : repérez un motif, et vous pourrez neutraliser un redoutable <a href="./shabaloth.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a> ou un rusé <a href="./po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a> avant qu'ils ne lancent leurs attaques dévastatrices.</li>
+<li>Une autre stratégie puissante à votre disposition consiste à rendre les <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> ivres. Un <a href="./assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> ou un <a href="./parrain.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parrain</a> ivre ne pourra pas infliger de morts inattendues au village, bien que réussir le bon timing soit très délicat — ne visiez ces rôles que si vous êtes vraiment certain que cela aidera l'équipe du bien. Un <a href="./avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a> ou un <a href="./cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a> ivre est un peu plus insidieux, car l'équipe du mal compte souvent sur leurs capacités pour se sauver en cas de besoin, et l'ivresse ne sera pas évidente immédiatement. Une équipe du mal qui pense avoir un <a href="./cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a> sous le coude peut être d'accord pour laisser mourir son <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, alors qu'en réalité, elle est sur le point de perdre la partie !<br>Dans la plupart des cas, rendre des joueurs du bien ivres n'est probablement pas la meilleure utilisation de votre capacité, mais il existe certains cas où cela peut être viable.<br>Par exemple, un <a href="./bricoleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bricoleur</a> ivre ne peut plus mourir de manière aléatoire, une <a href="./grandmere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Grand-mère</a> ivre ne mourra pas aux côtés de son petit-enfant, et un <a href="./enfantdelalune.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sélénite</a> ivre qui meurt ne causera pas la mort d'un joueur du bien supplémentaire.</li>
+<li>Si vous suspectez que quelqu'un n'est pas ce qu'il prétend être, vous pouvez choisir le rôle qu'il revendique et voir si son histoire change.<br>Par exemple, si une <a href="./femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de chambre</a> continue de donner des informations « vraies » après que vous avez pris quelques verres de trop avec ce rôle, ou si un <a href="./exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a> continue de « bloquer » le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> alors qu'il est censé être complètement ivre ? (Note : si vous vous trompez et que vous rendez la vraie <a href="./femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de chambre</a> ou le vrai <a href="./exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a> ivre, vous risquez d'attirer la suspicion et la colère en sapant l'équipe du bien ! C'est un jeu risqué avec une grande récompense.)</li>
+<li>Si vous ne savez tout simplement pas qui rendre ivre et que vous manquez rapidement de jours, une option valide consiste simplement à choisir le rôle le plus mortel sur le grimoire. Qu'il soit en jeu ou non, vous pouvez désormais être totalement certain qu'il n'impacte pas du tout votre partie, ce qui permet à l'équipe du bien de l'exclure de tout raisonnement. (Quel est le rôle le plus mortel dans Sects & Violets ou Bad Moon Rising, vous demandez-vous ? Eh bien, c'est à vous de décider ! 😉)</li>
+</ul>
 
----
-
--  **<span style="color:red">Démon</span>** : c’est la cible la plus puissante. Si vous réussissez, vous donnez 3 nuits de répit au Bien. Observez le rythme des morts nocturnes pour identifier si vous faites face à un [<span style="color:red">Shabaloth</span>](shabaloth.md), à un [<span style="color:red">Po</span>](po.md), à un [<span style="color:red">Pukka</span>](pukka.md) ou un [<span style="color:red">Zombuul</span>](zombuul.md).  
-
-  - [<span style="color:red">Sbires</span>](../sbires.md) :  
-  - [<span style="color:red">Assassin</span>](assassin.md) ou [<span style="color:red">Parrain</span>](parrain.md) s'ils sont ivres par votre pouvoir → pas de morts inattendues  
-  - [<span style="color:red">Avocat du Diable</span>](avocatdudiable.md) ivre  → ne sauve personne de l'exécution.  
-  - [<span style="color:red">Conspirateur</span>](cerveau.md) ivre → prive les maléfiques d’une victoire inattendue.  
-
--  **Villageois** : ce n’est pas optimal, mais parfois utile :  
-  - [Bricoleur](bricoleur.md) ivre → ne meurt plus au hasard.  
-  - [Grand-mère](grandmere.md) ivre → survit si son petit-enfant meurt.  
-  - [Sélénite](enfantdelalune.md) ivre → ne provoque pas de mort supplémentaire.  
-
--  **Tester les menteurs** : si un joueur prétend être [Exorciste](exorciste.md), rendez « Exorciste » ivre. Si malgré tout il continue à bloquer le <span style="color:red">Démon</span>, c’est un menteur.  
-
--  **Utilisation unique** : choisissez bien le moment.  
-  - Tôt = vous êtes sûrs de l’activer avant de mourir.  
-  - Tard = vous avez plus d’infos pour cibler au mieux.  
-
-- ❌ Si vous ne savez pas qui viser → ciblez un rôle dangereux. Même si ce rôle n’est pas en jeu, vous pouvez l’éliminer de vos déductions.  
+<h2 style="color:#4ea3ff;">Bluffer le Courtisan</h2>
+<hr>
 
 
-##  <span style="color:blue">Bluffer le Courtisan</span>  
-
----
-
--  Attendez quelques jours avant de dire que vous avez utilisé votre pouvoir. Un vrai Courtisan ne l’active pas dès le départ.  
-
-- Version simple : « J’ai ciblé le <span style="color:red">Démon</span>, mais il n’était pas le bon. » → crédible et peu risqué.  
-
-- Version risquée : affirmez avoir rendu ivre un rôle actif.  
-  → Exemple : « J’ai ciblé l’Exorciste, il est ivre, ses infos ne valent rien. » → cela sème le chaos.  
-
-- Si vous êtes le [<span style="color:red">Conspirateur</span>](cerveau.md), prétendez avoir ciblé le “[<span style="color:red">Conspirateur</span>](cerveau.md)” : le Bien croira qu’il est neutralisé, et sera pris au piège.  
-
-- Si vous êtes le [<span style="color:red">Pukka</span>](pukka.md), prétendez avoir ciblé le Pukka. Quand les morts continuent malgré tout, tout le monde pensera qu’un autre <span style="color:red">Démon</span> est en jeu.  
-
-- Feignez d’avoir neutralisé un rôle clé par exemple l' [<span style="color:red">Avocat du Diable</span>](avocatdudiable.md). 
-- Le Camp du Bien cessera d’y penser, et vous pourrez surprendre.  
+<ul style="margin:0; padding:0; list-style-position:inside; color:#f5f5f5; font-size:18px; line-height:1.7;">
+<li>Lorsque vous bluffez en Courtisan, il y a quelques éléments à garder à l'esprit : attendez quelques jours avant de prétendre que vous êtes le Courtisan, ou au moins attendez quelques jours pour prétendre avoir utilisé votre capacité. C'est ce qu'un vrai Courtisan ferait généralement.<br>De plus, rappelez-vous qu'un vrai Courtisan choisit un rôle à rendre ivre, et non un joueur.</li>
+<li>La façon la plus simple de bluffer en Courtisan est de prétendre avoir utilisé votre capacité de Courtisan sur un <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> ou un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>, et que cela n'ait aucun effet évident.<br>Par exemple, prétendez que vous avez utilisé votre capacité sur le <a href="./pukka.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pukka</a>, mais comme un meurtre a quand même eu lieu pendant la nuit, vous avez dû deviner le mauvais <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>. « Se tromper » de cette manière est assez courant pour un Courtisan, donc cela ne paraîtra pas particulièrement suspect, tant que le groupe est confus quant aux rôles maléfiques en jeu.</li>
+<li>Bluffer et « avoir raison » peut être beaucoup plus dévastateur, mais aussi plus risqué. Si vous pouvez convaincre le groupe non seulement que vous êtes le Courtisan, mais aussi que vous avez annulé la capacité d'un rôle maléfique en jeu, le groupe sera extrêmement réticent à vous exécuter. Les crédules !</li>
+<li>Si vous prétendez avoir choisi le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> qui est réellement en jeu, ou du moins le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> que l'équipe du bien pense être en jeu, vous devrez peut-être vous organiser avec le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> pour qu'aucune mort n'intervienne pendant la nuit. Un <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> ivre ne peut pas tuer. Par conséquent, pour avoir l'air d'avoir réellement fait cela au <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, ce dernier devra soit ne pas tuer, soit avoir une raison différente pour expliquer les morts survenues la nuit, comme la <a href="./commere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Commère</a> ou le <a href="./bricoleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bricoleur</a>, pour que votre bluff soit crédible.<br>Cependant, ce coup peut vous faire gagner la partie, surtout si vous le faites tard dans la partie. Si l'équipe du bien croit que le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> est ivre, elle peut n'exécuter personne lorsqu'il ne reste que 3 ou 4 (ou même 5 ou 6) joueurs en vie, et un <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> avisé tel que le <a href="./shabaloth.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a> ou le <a href="./po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a> peut l'emporter pendant la nuit en tuant plusieurs joueurs à ce moment-là.</li>
+<li>Feignez de retirer la capacité d'un rôle crucial de la partie, et donc de la réflexion de l'équipe du bien. Si vous êtes le <a href="./cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a>, vous pouvez prétendre être le Courtisan ayant sélectionné le <a href="./cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a>, ce qui signifie qu'ils seront totalement pris par surprise lorsque vous arracherez la victoire le lendemain de l'exécution du <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>. Si vous êtes le <a href="./pukka.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pukka</a>, vous pouvez prétendre être le Courtisan ayant rendu le <a href="./pukka.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pukka</a> ivre, ce qui, si les morts continuent la nuit, convaincra le groupe qu'un autre <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> est en jeu, et ils ignoreront totalement la possibilité de l'empoisonnement du <a href="./pukka.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pukka</a>. Joli coup.</li>
+</ul>
 
 <hr class="explication">
 
