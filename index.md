@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Accueil
-description: Wiki francophone communautaire Blood on the Clocktower 
+share_title: "Wiki francophone communautaire de Blood on the Clocktower"
+description: "Traductions, conseils et ressources pour jouer et conter à Blood on the Clocktower en français."
+image: "/images/botcshare.png"
 home_sidebar: true
 ---
 
