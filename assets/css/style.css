@@ -1476,3 +1476,50 @@ hr.explication {
   }
 
 }
+   
+/* =========================================================
+   INFOBULLES DES LIENS INTERNES
+   ========================================================= */
+
+.botc-role-tooltip {
+  position: fixed;
+  z-index: 99999;
+
+  max-width: 340px;
+  padding: 14px 18px;
+
+  background: #f7f2e8;
+  border: 1px solid #b9957b;
+  border-radius: 10px;
+
+  color: #5f2424;
+  font-size: 18px;
+  line-height: 1.5;
+  text-align: center;
+
+  box-shadow:
+    0 8px 22px rgba(55, 32, 24, 0.18),
+    0 2px 6px rgba(55, 32, 24, 0.12);
+
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+
+  transform: translateY(4px);
+  transition:
+    opacity 0.15s ease,
+    transform 0.15s ease,
+    visibility 0.15s ease;
+}
+
+.botc-role-tooltip.is-visible {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+@media (max-width: 700px), (hover: none), (pointer: coarse) {
+  .botc-role-tooltip {
+    display: none !important;
+  }
+}
