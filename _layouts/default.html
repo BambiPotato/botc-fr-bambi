@@ -15,6 +15,10 @@
   <link rel="stylesheet" href="{{ '/assets/css/search.css' | relative_url }}">
   <link rel="icon" href="{{ '/images/favicon.png?v=3' | relative_url }}">
 
+  {% if page.description %}
+    <meta name="botc-tooltip-description" content="{{ page.description | escape }}">
+  {% endif %}
+
   <meta property="og:type" content="website">
   <meta property="og:title" content="{{ meta_share_title | escape }}">
   <meta property="og:description" content="{{ meta_description | escape }}">
@@ -50,6 +54,7 @@
   </main>
 
   <script src="{{ '/assets/js/search.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/role-tooltips.js' | relative_url }}"></script>
 
 </body>
 </html>
