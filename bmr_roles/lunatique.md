@@ -72,7 +72,7 @@ LE LUNATIQUE pense qu’il est le Démon.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-• Comme l’<a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>, le Lunatique ne connaît pas son véritable rôle, ni son véritable alignement.<br> Il est réveillé chaque nuit pour attaquer comme s’il était le Démon en jeu, mais ses choix n’ont aucun effet, car il n’a aucune capacité de Démon.
+• Comme l’<a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>, le Lunatique ne connaît pas son véritable rôle, ni son véritable alignement.<br> Il est réveillé chaque nuit pour attaquer comme s’il était le Démon en jeu, mais ses choix n’ont aucun effet, car il n’a aucune capacité de Démon.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
