@@ -72,14 +72,12 @@ image: /images/Icon_shabaloth.png
 </div>
 
 
-<hr class="explication">
+
 
 <!-- RÉSUMÉ -->
 
 <h2> <span style="color:#d45b5b;">Résumé</span></h2>
-
-
-<hr class="explication">
+<hr class="demon">	
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
 « Chaque nuit*, choisissez 2 joueurs : ils meurent. Un joueur mort que vous avez choisi lors de la nuit précédente pourrait être recraché. » 
