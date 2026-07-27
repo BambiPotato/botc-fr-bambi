@@ -7,13 +7,99 @@ image: "/images/botcshare.png"
 home_sidebar: true
 ---
 
-<div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:16px; width:100%; margin-bottom:20px;">
-<a href="/botc-fr-bambi/" style="display:block; flex-shrink:0;"><img src="images/logogold.png" alt="Accueil BotC FR" width="200" style="display:block;"></a>
-<div style="display:flex; justify-content:flex-end; align-items:center; gap:14px; margin-left:auto;">
-<a href="https://discord.gg/tGDVmZfZpE" target="_blank" rel="noopener noreferrer" aria-label="Rejoindre le Discord" style="display:block; line-height:0;"><img src="images/discord.png" alt="Discord" width="30" style="display:block;"></a>
-<a href="https://www.twitch.tv/bambibluepotato" target="_blank" rel="noopener noreferrer" aria-label="Voir la chaîne Twitch" style="display:block; line-height:0;"><img src="images/twitch.png" alt="Twitch" width="30" style="display:block;"></a>
-<a href="https://www.youtube.com/@Bambipotato" target="_blank" rel="noopener noreferrer" aria-label="Voir la chaîne YouTube" style="display:block; line-height:0;"><img src="images/youtube.png" alt="YouTube" width="30" style="display:block;"></a>
-<a href="https://www.instagram.com/bambibluepotato/" target="_blank" rel="noopener noreferrer" aria-label="Voir le compte Instagram" style="display:block; line-height:0;"><img src="images/instagram.png" alt="Instagram" width="30" style="display:block;"></a>
+<style>
+.home-topbar{
+display:flex;
+align-items:center;
+justify-content:space-between;
+width:100%;
+gap:20px;
+margin-bottom:20px;
+}
+.home-logo{
+display:block;
+flex:0 0 auto;
+}
+.home-logo img{
+display:block;
+width:200px;
+height:auto;
+}
+.home-socials{
+display:flex!important;
+flex-direction:row!important;
+flex-wrap:nowrap!important;
+align-items:center;
+justify-content:flex-end;
+gap:10px;
+margin-left:auto;
+}
+.home-socials a{
+display:inline-flex!important;
+align-items:center;
+justify-content:center;
+width:40px!important;
+height:40px!important;
+flex:0 0 40px!important;
+border-radius:50%;
+background:rgba(212,167,106,0.28);
+border:1px solid rgba(181,139,82,0.42);
+text-decoration:none!important;
+line-height:1!important;
+transition:transform 0.2s ease, background 0.2s ease;
+}
+.home-socials a:hover{
+transform:translateY(-2px) scale(1.05);
+background:rgba(212,167,106,0.45);
+}
+.home-socials img{
+display:block!important;
+width:24px!important;
+height:24px!important;
+max-width:24px!important;
+object-fit:contain;
+margin:0!important;
+}
+@media (max-width:600px){
+.home-topbar{
+gap:10px;
+}
+.home-logo img{
+width:145px;
+}
+.home-socials{
+gap:6px;
+}
+.home-socials a{
+width:34px!important;
+height:34px!important;
+flex-basis:34px!important;
+}
+.home-socials img{
+width:20px!important;
+height:20px!important;
+max-width:20px!important;
+}
+}
+</style>
+
+<div class="home-topbar">
+<a class="home-logo" href="/botc-fr-bambi/">
+<img src="images/logogold.png" alt="Accueil BotC FR">
+</a>
+<div class="home-socials">
+<a href="https://discord.gg/tGDVmZfZpE" target="_blank" rel="noopener noreferrer" aria-label="Rejoindre le Discord">
+<img src="images/discord.png" alt="Discord">
+</a>
+<a href="https://www.twitch.tv/bambibluepotato" target="_blank" rel="noopener noreferrer" aria-label="Voir la chaîne Twitch">
+<img src="images/twitch.png" alt="Twitch">
+</a>
+<a href="https://www.youtube.com/@Bambipotato" target="_blank" rel="noopener noreferrer" aria-label="Voir la chaîne YouTube">
+<img src="images/youtube.png" alt="YouTube">
+</a>
+<a href="https://www.instagram.com/bambibluepotato/" target="_blank" rel="noopener noreferrer" aria-label="Voir le compte Instagram">
+<img src="images/instagram.png" alt="Instagram">
+</a>
 </div>
 </div>
 
