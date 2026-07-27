@@ -85,6 +85,7 @@ J’me soigne seul. À demain. »
 
 <p class="botc-flavour-text dropcap" style="margin:0;">
 LE GROS BRAS est immunisé aux autres rôles la nuit, mais change constamment d’alignement.
+</p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 • Chaque nuit, la première fois qu’un joueur se réveille pour utiliser sa capacité et choisit le <strong>Gros bras</strong>, ce joueur devient immédiatement <strong>ivre</strong>.<br> Sa capacité ne fonctionne pas cette nuit-là, ni la journée du lendemain.
