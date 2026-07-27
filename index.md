@@ -7,11 +7,34 @@ image: "/images/botcshare.png"
 home_sidebar: true
 ---
 
-<p align="left">
-  <a href="/botc-fr-bambi/">
-    <img src="images/logogold.png" alt="Accueil BotC FR" width="200">
+<div style="display:flex; justify-content:space-between; align-items:center; gap:20px; margin-bottom:20px; width:100%;">
+
+  <a href="/botc-fr-bambi/" style="display:block; flex-shrink:0;">
+    <img src="images/logogold.png" alt="Accueil BotC FR" width="200" style="display:block;">
   </a>
-</p>
+
+  <div style="display:flex; justify-content:flex-end; align-items:center; gap:14px; margin-left:auto;">
+
+    <a href="https://discord.gg/tGDVmZfZpE" target="_blank" rel="noopener noreferrer" aria-label="Rejoindre le Discord" style="display:block; line-height:0;">
+      <img src="images/discord.png" alt="Discord" width="30" style="display:block;">
+    </a>
+
+    <a href="https://www.twitch.tv/bambibluepotato" target="_blank" rel="noopener noreferrer" aria-label="Voir la chaîne Twitch" style="display:block; line-height:0;">
+      <img src="images/twitch.png" alt="Twitch" width="30" style="display:block;">
+    </a>
+
+    <a href="https://www.youtube.com/@Bambipotato" target="_blank" rel="noopener noreferrer" aria-label="Voir la chaîne YouTube" style="display:block; line-height:0;">
+      <img src="images/youtube.png" alt="YouTube" width="30" style="display:block;">
+    </a>
+
+    <a href="https://www.instagram.com/bambibluepotato/" target="_blank" rel="noopener noreferrer" aria-label="Voir le compte Instagram" style="display:block; line-height:0;">
+      <img src="images/instagram.png" alt="Instagram" width="30" style="display:block;">
+    </a>
+
+  </div>
+
+</div>
+
 
 <!--  PAGE D’ACCUEIL - WIKI BOTC FR -->
 
