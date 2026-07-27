@@ -67,13 +67,11 @@ image: /images/Icon_po.png
 </div>
 
 
-<hr class="explication">
+
 
 
 <h2> <span style="color:#d45b5b;">Résumé</span></h2>
-
-
-<hr class="explication">
+<hr class="demon">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
   <strong>« Chaque nuit*, vous pouvez choisir un joueur : il meurt.<br>
