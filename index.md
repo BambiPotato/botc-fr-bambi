@@ -16,15 +16,26 @@ width:100%;
 gap:20px;
 margin-bottom:20px;
 }
+
 .home-logo{
 display:block;
 flex:0 0 auto;
+position:relative;
+line-height:0;
+transition:transform 0.18s ease, filter 0.18s ease;
 }
+
+.home-logo:hover{
+transform:translateY(-2px) scale(1.035);
+filter:drop-shadow(0 5px 8px rgba(0,0,0,0.18));
+}
+
 .home-logo img{
 display:block;
 width:200px;
 height:auto;
 }
+
 .home-socials{
 display:flex!important;
 flex-direction:row!important;
@@ -33,73 +44,147 @@ align-items:center;
 justify-content:flex-end;
 gap:10px;
 margin-left:auto;
+margin-right:0;
 }
+
 .home-socials a{
 display:inline-flex!important;
 align-items:center;
 justify-content:center;
-width:40px!important;
-height:40px!important;
-flex:0 0 40px!important;
+width:42px!important;
+height:42px!important;
+flex:0 0 42px!important;
 border-radius:50%;
-background:rgba(212,167,106,0.28);
-border:1px solid rgba(181,139,82,0.42);
+background:rgba(212,167,106,0.18);
+border:1px solid rgba(181,139,82,0.32);
 text-decoration:none!important;
 line-height:1!important;
-transition:transform 0.2s ease, background 0.2s ease;
+box-shadow:0 2px 5px rgba(0,0,0,0.08);
+position:relative;
+transition:transform 0.18s ease, background 0.18s ease, border-color 0.18s ease, box-shadow 0.18s ease;
 }
+
 .home-socials a:hover{
-transform:translateY(-2px) scale(1.05);
-background:rgba(212,167,106,0.45);
+transform:translateY(-2px) scale(1.06);
+background:rgba(212,167,106,0.32);
+border-color:rgba(181,139,82,0.48);
+box-shadow:0 4px 8px rgba(0,0,0,0.14);
 }
+
 .home-socials img{
 display:block!important;
-width:24px!important;
-height:24px!important;
-max-width:24px!important;
+width:25px!important;
+height:25px!important;
+max-width:25px!important;
 object-fit:contain;
 margin:0!important;
 }
+
+.home-logo::after,
+.home-socials a::after{
+content:attr(data-tooltip);
+position:absolute;
+left:50%;
+bottom:calc(100% + 10px);
+transform:translateX(-50%) translateY(4px);
+background:rgba(55,29,20,0.96);
+color:#f3ddb0;
+font-size:13px;
+font-weight:600;
+line-height:1.25;
+white-space:nowrap;
+padding:7px 10px;
+border:1px solid rgba(212,167,106,0.45);
+border-radius:8px;
+box-shadow:0 5px 12px rgba(0,0,0,0.25);
+opacity:0;
+visibility:hidden;
+pointer-events:none;
+z-index:50;
+transition:opacity 0.18s ease, transform 0.18s ease, visibility 0.18s ease;
+}
+
+.home-logo:hover::after,
+.home-socials a:hover::after{
+opacity:1;
+visibility:visible;
+transform:translateX(-50%) translateY(0);
+}
+
 @media (max-width:600px){
 .home-topbar{
-gap:10px;
+gap:8px;
 }
+
 .home-logo img{
-width:145px;
+width:130px;
 }
+
 .home-socials{
-gap:6px;
+gap:5px;
 }
+
 .home-socials a{
-width:34px!important;
-height:34px!important;
-flex-basis:34px!important;
+width:32px!important;
+height:32px!important;
+flex:0 0 32px!important;
 }
+
 .home-socials img{
-width:20px!important;
-height:20px!important;
-max-width:20px!important;
+width:19px!important;
+height:19px!important;
+max-width:19px!important;
+}
+
+.home-logo::after,
+.home-socials a::after{
+display:none;
 }
 }
 </style>
 
 <div class="home-topbar">
-<a class="home-logo" href="/botc-fr-bambi/">
+
+<a class="home-logo"
+href="/botc-fr-bambi/"
+data-tooltip="Wiki pour jouer et conter en français">
 <img src="images/logogold.png" alt="Accueil BotC FR">
 </a>
+
 <div class="home-socials">
-<a href="https://discord.gg/tGDVmZfZpE" target="_blank" rel="noopener noreferrer" aria-label="Rejoindre le Discord">
+
+<a href="https://discord.gg/tGDVmZfZpE"
+target="_blank"
+rel="noopener noreferrer"
+aria-label="Rejoins Discord"
+data-tooltip="Rejoins Discord">
 <img src="images/discord.png" alt="Discord">
 </a>
-<a href="https://www.twitch.tv/bambibluepotato" target="_blank" rel="noopener noreferrer" aria-label="Voir la chaîne Twitch">
+
+<a href="https://www.twitch.tv/bambibluepotato"
+target="_blank"
+rel="noopener noreferrer"
+aria-label="Regarder les lives sur Twitch"
+data-tooltip="Regarder les lives">
 <img src="images/twitch.png" alt="Twitch">
 </a>
-<a href="https://www.youtube.com/@Bambipotato" target="_blank" rel="noopener noreferrer" aria-label="Voir la chaîne YouTube">
+
+<a href="https://www.youtube.com/@Bambipotato"
+target="_blank"
+rel="noopener noreferrer"
+aria-label="Voir les vidéos sur YouTube"
+data-tooltip="Voir les vidéos">
 <img src="images/youtube.png" alt="YouTube">
 </a>
-<a href="https://www.instagram.com/bambibluepotato/" target="_blank" rel="noopener noreferrer" aria-label="Voir le compte Instagram">
+
+<a href="https://www.instagram.com/bambibluepotato/"
+target="_blank"
+rel="noopener noreferrer"
+aria-label="Suivre le compte Instagram"
+data-tooltip="Suivre sur Instagram">
 <img src="images/instagram.png" alt="Instagram">
 </a>
+
 </div>
 </div>
 
