@@ -72,13 +72,11 @@ image: /images/Icon_pukka.png
 </div>
 
 <!-- RÉSUMÉ -->
-<hr class="explication">
+
 
 
 <h2> <span style="color:#d45b5b;">Résumé</span></h2>
-
-
-<hr class="explication">
+<hr class="demon">	
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong>« Chaque nuit, choisissez un joueur : il est empoisonné. <br> Le joueur précédemment empoisonné meurt, puis devient sain. »</strong>
@@ -162,22 +160,22 @@ Par exemple, si le <strong>Pukka</strong> tue le <a href="../sv_roles/sage.html"
 
 
 <h2 style="color:#d45b5b; font-size:22px; margin-top:30px;">
-  🧞 Jinxes liés
+ 🧞 Jinxes liés
 </h2>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
   <!-- SUMMONER -->
-  <li>
-    🧞
-    <img src="../images/Icon_summoner.png" alt="Invocateur" width="24"
-         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/summoner.html"
-       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocatrice</a> :
-    L’<span style="color:#d45b5b; font-weight:bold;">Invocatrice</span> peut invoquer
-    un <span style="color:#d45b5b; font-weight:bold;">Pukka</span> dès la
-    <strong>2<sup>ème</sup> nuit</strong> au lieu de la 3<sup>ème</sup> nuit.
-  </li>
+<li>
+🧞
+<img src="../images/Icon_summoner.png" alt="Invocateur" width="24"
+style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+<a href="../roles_experimentaux/summoner.html"
+style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocatrice</a> :
+L’<span style="color:#d45b5b; font-weight:bold;">Invocatrice</span> peut invoquer
+un <span style="color:#d45b5b; font-weight:bold;">Pukka</span> dès la
+<strong>2<sup>ème</sup> nuit</strong> au lieu de la <strong>3<sup>ème</sup> nuit</strong>.
+</li>
 
 </ul>
 
