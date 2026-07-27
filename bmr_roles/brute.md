@@ -73,19 +73,15 @@ J’me soigne seul. À demain. »
 </div>
 
 
-<hr class="explication">
-
 
 ##  <span style="color:blue">Résumé</span>  
-
-
-<hr class="explication">
+<hr class="marginal">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
 « Chaque nuit, le premier joueur qui vous choisit avec sa capacité est ivre jusqu'au crépuscule. Vous devenez son alignement. »
 </p>
 
-<p class="botc-flavour-text dropcap">
+<p class="botc-flavour-text dropcap" style="margin:0;">
 LE GROS BRAS est immunisé aux autres rôles la nuit, mais change constamment d’alignement.
 </p> 
 
@@ -104,7 +100,7 @@ LE GROS BRAS est immunisé aux autres rôles la nuit, mais change constamment d�
 
 ---
 
-<p class="botc-flavour-text dropcap">
+<p class="botc-flavour-text dropcap" style="margin:0;">
 Instructions au Conteur
 </p>
 
