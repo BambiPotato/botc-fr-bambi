@@ -156,32 +156,32 @@ data-tooltip="Wiki pour jouer et conter en français">
 <a href="https://discord.gg/tGDVmZfZpE"
 target="_blank"
 rel="noopener noreferrer"
-aria-label="Rejoins Discord"
-data-tooltip="Rejoins Discord">
+aria-label="Rejoins-nous sur Discord"
+data-tooltip="Rejoins-nous sur Discord">
 <img src="images/discord.png" alt="Discord">
 </a>
 
 <a href="https://www.twitch.tv/bambibluepotato"
 target="_blank"
 rel="noopener noreferrer"
-aria-label="Regarder les lives sur Twitch"
-data-tooltip="Regarder les lives">
+aria-label="Regarde les lives sur Twitch"
+data-tooltip="Regarde les lives sur Twitch">
 <img src="images/twitch.png" alt="Twitch">
 </a>
 
 <a href="https://www.youtube.com/@Bambipotato"
 target="_blank"
 rel="noopener noreferrer"
-aria-label="Voir les vidéos sur YouTube"
-data-tooltip="Voir les vidéos">
+aria-label="Découvre les vidéos sur YouTube"
+data-tooltip="Découvre les vidéos sur YouTube">
 <img src="images/youtube.png" alt="YouTube">
 </a>
 
 <a href="https://www.instagram.com/bambibluepotato/"
 target="_blank"
 rel="noopener noreferrer"
-aria-label="Suivre le compte Instagram"
-data-tooltip="Suivre sur Instagram">
+aria-label="Suis-nous sur Instagram"
+data-tooltip="Suis-nous sur Instagram">
 <img src="images/instagram.png" alt="Instagram">
 </a>
 
