@@ -70,8 +70,7 @@ image: /images/Icon_philosopher.png
 
 
 ## <span style="color:#4ea3ff;">Résumé</span>  
-
----
+<hr class="villageois">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
 <strong>« Une fois par partie, la nuit, choisissez un rôle bon : gagnez cette capacité. <br> Si ce rôle est en jeu, il est ivre. »</strong>
@@ -315,7 +314,7 @@ Instructions au Conteur
 ---
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>Lorsque vous bluffez le Philosophe,</strong> il y a quelques éléments à garder en tête:
+Lorsque vous bluffez le <strong>Philosophe,</strong> il y a quelques éléments à garder en tête:
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
