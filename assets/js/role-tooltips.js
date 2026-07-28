@@ -1,7 +1,7 @@
 (() => {
   "use strict";
 
-  const SHOW_DELAY = 180;
+  const SHOW_DELAY = 150;
   const OFFSET = 16;
   const SCREEN_MARGIN = 12;
 
@@ -12,6 +12,33 @@
   let requestId = 0;
   let mouseX = 0;
   let mouseY = 0;
+
+  // Injection dynamique du style pour garantir que l'infobulle s'affiche
+  const style = document.createElement("style");
+  style.textContent = `
+    .botc-role-tooltip {
+      position: fixed !important;
+      top: 0 !important;
+      left: 0 !important;
+      z-index: 999999 !important;
+      max-width: 320px !important;
+      padding: 10px 14px !important;
+      background: #181818 !important;
+      color: #f5f5f5 !important;
+      border: 1px solid #b58b52 !important;
+      border-radius: 8px !important;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.6) !important;
+      font-size: 14px !important;
+      line-height: 1.4 !important;
+      pointer-events: none !important;
+      display: none;
+      font-family: sans-serif !important;
+    }
+    .botc-role-tooltip.is-visible {
+      display: block !important;
+    }
+  `;
+  document.head.appendChild(style);
 
   const tooltip = document.createElement("div");
   tooltip.className = "botc-role-tooltip";
