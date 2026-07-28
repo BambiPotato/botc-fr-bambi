@@ -107,10 +107,10 @@ Instructions au Conteur
 • La <strong>Dulcinée</strong> ne perd pas cette capacité lorsqu’elle meurt.
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; background-color:rgba(255,255,255,0.05); padding:12px; border-left:4px solid #4ea3ff; border-radius:4px;">
+<div class="botc-note">
 Dans la plupart des cas, il est préférable d’enivrer un Villageois pour nuire à l’équipe du Bien.<br>
 Si toutefois vous sentez que l’équipe du Mal a beaucoup trop d’avance, vous pouvez enivrer un Marginal, un Sbire ou même le Démon.
-</p>
+</div>
 
 <h2 style="color:#4ea3ff;">Exemples</h2>
 <hr>
