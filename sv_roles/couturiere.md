@@ -69,16 +69,14 @@ image: /images/Icon_seamstress.png
   </a>
 </div>
 
-<hr class="explication">
+
 
 
 ## <span style="color:#4ea3ff;">Résumé</span>
+<hr class="villageois">
 
 
-<hr class="explication">
-
-
-<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:22px; margin-top:-10px;">
 « Une fois par partie, la nuit, choisissez 2 joueurs (sauf vous-même) : vous apprenez s’ils sont du même alignement.»
 </p>
 
@@ -105,13 +103,15 @@ Instructions au Conteur
   
 - **La Couturière** perd sa capacité — marquez-la du jeton **SANS CAPACITÉ** et retirez son jeton de nuit de la fiche de nuit.
 
----
+
 
 ## <span style="color:#4ea3ff;">Exemples</span>  
 
+---
+
 - Lors de la première nuit, la Couturière choisit deux joueurs :
   - le [Barbier](barbier.md) et l’[Horloger](horloger.md).  
-  - Comme ils sont tous deux bons, la Couturière apprend **« oui »**.  
+  - Comme ils sont tous les deux bons, la Couturière apprend **« oui »**.  
 
 - Lors des trois premières nuits, la Couturière choisit de ne pas utiliser sa capacité. 
   - Lors de la quatrième nuit, elle choisit deux joueurs :
@@ -120,7 +120,7 @@ Instructions au Conteur
 
   - La [<span style="color:red;">Guenaude</span>](pithag.md) transforme le [Mathématicien](mathematicien.md) 
   en [<span style="color:red;">Sorcière</span>](sorciere.md), (le joueur ne change pas d’alignement et reste bon). 
-  - Plus tard dans la Couturière choisit deux joueurs : la  [<span style="color:red;">Sorcière</span>](sorciere.md) et le [Crieur Public](crieur.md).  
+  - Plus tard dans la nuit, la Couturière choisit deux joueurs : la  [<span style="color:red;">Sorcière</span>](sorciere.md) et le [Crieur Public](crieur.md).  
   - La Couturière apprend « oui » parce que les deux joueurs sont bons.
 
 
