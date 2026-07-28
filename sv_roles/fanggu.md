@@ -73,7 +73,7 @@ image: /images/Icon_fanggu.png
 <hr class="demon">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
-« Chaque nuit*, choisissez un joueur : il meurt.<br>Le premier Marginal tué ainsi devient un Fang Gu maléfique et vous mourez à sa place. [+1 Marginal] »
+« Chaque nuit*, choisissez un joueur : il meurt. Le premier Marginal tué ainsi devient un Fang Gu maléfique et vous mourez à sa place. [+1 Marginal] »
 </p>
 
 <p class="botc-flavour-text dropcap" style="margin:0;">
