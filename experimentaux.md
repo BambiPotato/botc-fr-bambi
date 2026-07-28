@@ -11,6 +11,8 @@ image: /images/carousel.png
   </a>
 </p>
 
+<hr class="explication">
+
 <!-- Bandeau cliquable -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./experimentaux.html" style="text-decoration:none;">
@@ -163,7 +165,21 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
   <li><a href="voyageurs/gnome.html" style="color:#9b59b6; text-decoration:none;">Gnome</a></li>
 </ul>
 </div>
+
  
+<!-- SOMMAIRE NUMÉROTÉ -->
+<h2 style="color:#d4a76a; font-weight:800; font-size:18px; text-align:left; margin-top:18px;"> Sommaire</h2>
+<ol style="color:#d4a76a; font-size:18px; line-height:1.7; padding-left:14px; margin-top:6px;">
+  <li><a href="#1-synopsis" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Synopsis</a></li>
+  <li><a href="#2-gameplay" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Gameplay</a></li>
+  <li><a href="#3-villageois" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Villageois</a></li>
+  <li><a href="#4-etrangers" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Marginaux</a></li>
+  <li><a href="#5-sbires" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Sbires</a></li>
+  <li><a href="#6-demons" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Démons</a></li>
+  <li><a href="#7-legendaires" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Légendaires</a></li>
+  <li><a href="#8-lorics" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Loric</a></li>
+  <li><a href="#9-voyageurs" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Voyageurs</a></li>
+</ol>
 
 
 <!-- 1. SYNOPSIS -->
@@ -182,21 +198,8 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
    Les rôles expérimentaux du <em>Carousel</em> sont recommandés aux joueurs et Conteurs ayant déjà une bonne expérience du jeu <em>Blood on the Clocktower</em>.
 </p>
 
-<!-- SOMMAIRE NUMÉROTÉ -->
-<h2 style="color:#d4a76a; font-weight:800; font-size:18px; text-align:left; margin-top:18px;"> Sommaire</h2>
-<ol style="color:#d4a76a; font-size:18px; line-height:1.7; padding-left:14px; margin-top:6px;">
-  <li><a href="#1-synopsis" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Synopsis</a></li>
-  <li><a href="#2-gameplay" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Gameplay</a></li>
-  <li><a href="#3-villageois" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Villageois</a></li>
-  <li><a href="#4-etrangers" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Marginaux</a></li>
-  <li><a href="#5-sbires" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Sbires</a></li>
-  <li><a href="#6-demons" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Démons</a></li>
-  <li><a href="#7-legendaires" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Légendaires</a></li>
-  <li><a href="#8-lorics" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Loric</a></li>
-  <li><a href="#9-voyageurs" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Voyageurs</a></li>
-</ol>
 
-<hr style="border-color:rgba(224,185,122,0.3); margin:14px 0 10px;">
+<hr class="explication">
 
 <!--  VILLAGEOIS -->
 <h2 id="3-villageois" style="color:#4ea3ff; font-weight:800; font-size:22px; text-align:left;"> Villageois</h2>
@@ -418,7 +421,7 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
   </a>
 </div>
 
-<hr style="border-color:rgba(224,185,122,0.2); margin:14px 0 10px;">
+<hr class="explication">
 
 <!--  SBIRES -->
 <h2 id="5-sbires" style="color:#d45b5b; font-weight:800; font-size:22px; text-align:left;">Sbires</h2>
@@ -641,7 +644,7 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
   </a>
 </div>
 
-<hr style="border-color:rgba(224,185,122,0.3); margin:16px 0 12px;">
+<hr class="explication">
 
 <!-- Liens bas de page -->
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; text-align:left; margin-top:6px;">
