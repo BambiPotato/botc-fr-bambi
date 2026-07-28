@@ -24,6 +24,7 @@
   }
 
   function getInternalPageUrl(link) {
+    if (!link) return null;
     const href = link.getAttribute("href");
 
     if (
@@ -37,7 +38,6 @@
     }
 
     let url;
-
     try {
       url = new URL(href, window.location.href);
     } catch (error) {
@@ -53,8 +53,7 @@
     }
 
     /*
-     * On conserve uniquement les liens qui mènent vers une page HTML
-     * du wiki. Les images, PDF, ancres et liens externes sont ignorés.
+     * On conserve uniquement les liens vers les pages HTML du wiki.
      */
     if (
       !url.pathname.endsWith(".html") &&
@@ -64,7 +63,6 @@
     }
 
     url.hash = "";
-
     return url;
   }
 
@@ -149,18 +147,10 @@
       const html = await response.text();
       const parsedPage = new DOMParser().parseFromString(html, "text/html");
 
-      /*
-       * Source principale :
-       * le champ description: de la fiche, transmis par le layout.
-       */
       const dedicatedMeta = parsedPage.querySelector(
         'meta[name="botc-tooltip-description"]'
       );
 
-      /*
-       * Sécurité supplémentaire :
-       * la même description est déjà utilisée pour les aperçus sociaux.
-       */
       const openGraphMeta = parsedPage.querySelector(
         'meta[property="og:description"]'
       );
@@ -172,7 +162,6 @@
         : "";
 
       cache.set(key, description);
-
       return description;
     } catch (error) {
       console.error(
@@ -207,40 +196,51 @@
     }, SHOW_DELAY);
   }
 
-  function initialiseLinks() {
+  function setupDelegatedEvents() {
     if (!isDesktopPointer()) {
       return;
     }
 
-    document.querySelectorAll("a[href]").forEach(link => {
+    // Gestion du survol de la souris
+    document.addEventListener("mouseover", event => {
+      const link = event.target.closest("a[href]");
+      if (!link) return;
+
       const url = getInternalPageUrl(link);
-
-      if (!url) {
-        return;
-      }
-
-      link.addEventListener("mouseenter", () => {
+      if (url && activeLink !== link) {
         prepareTooltip(link, url);
-      });
+      }
+    });
 
-      link.addEventListener("mouseleave", () => {
-        if (activeLink === link) {
-          hideTooltip();
-        }
-      });
+    document.addEventListener("mouseout", event => {
+      const link = event.target.closest("a[href]");
+      if (link && activeLink === link) {
+        hideTooltip();
+      }
+    });
 
-      link.addEventListener("focus", () => {
+    // Gestion de la navigation au clavier (Focus)
+    document.addEventListener("focusin", event => {
+      const link = event.target.closest("a[href]");
+      if (!link) return;
+
+      const url = getInternalPageUrl(link);
+      if (url) {
         const rect = link.getBoundingClientRect();
-
         mouseX = rect.left + rect.width / 2;
         mouseY = rect.bottom;
-
         prepareTooltip(link, url);
-      });
-
-      link.addEventListener("blur", hideTooltip);
-      link.addEventListener("click", hideTooltip);
+      }
     });
+
+    document.addEventListener("focusout", event => {
+      const link = event.target.closest("a[href]");
+      if (link && activeLink === link) {
+        hideTooltip();
+      }
+    });
+
+    document.addEventListener("click", hideTooltip);
   }
 
   document.addEventListener("mousemove", event => {
@@ -267,8 +267,8 @@
   });
 
   if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", initialiseLinks);
+    document.addEventListener("DOMContentLoaded", setupDelegatedEvents);
   } else {
-    initialiseLinks();
+    setupDelegatedEvents();
   }
 })();
