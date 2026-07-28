@@ -72,10 +72,9 @@ Non ? Eh bien maintenant, vous le savez. » »
 
 
 <h2 style="color:#4ea3ff; font-weight:bold;">Résumé</h2>
-
 <hr class="villageois">
 
-<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:22px; margin-top:-10px;">
 <strong>« Si vous êtes mort dans la journée ou cette nuit, le Démon peut choisir 2 joueurs (mais pas un autre Démon) qui échangent alors leur rôle.»</strong>
 </p>
 
@@ -261,7 +260,7 @@ Si un joueur bon devient un Sbire ou un Démon, ou si un joueur maléfique devie
 ---
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>Lorsque vous bluffez le Barbier,</strong> il y a quelques éléments à garder en tête :
+Lorsque vous bluffez le <strong>Barbier,</strong> il y a quelques éléments à garder en tête :
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
@@ -289,9 +288,7 @@ Si un joueur bon devient un Sbire ou un Démon, ou si un joueur maléfique devie
     Par exemple : vous êtes la <a href="./sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> et bluffez le Barbier.<br>
     Vous mourez.<br>
     Le lendemain, le <a href="./vigormortis.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vigormortis</a> et la <a href="./pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a>, qui prétendaient être respectivement le <a href="./reveur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Rêveur</a> et le <a href="./sage.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a>, annoncent que leurs rôles ont été échangés et qu’ils sont désormais le <a href="./sage.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a> et le <a href="./reveur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Rêveur</a>.<br>
-    Partie.<br>
-    Set.<br>
-    Match.
+    Jeu. Set. Et...Match !!
   </li>
 
 </ul>
