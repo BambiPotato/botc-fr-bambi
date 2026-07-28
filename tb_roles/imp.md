@@ -116,9 +116,9 @@ Instructions au Conteur
 • À l’aube, annoncez quel joueur est mort pendant la nuit. (Ne dites pas comment il est mort.)
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; background-color:rgba(255,255,255,0.05); padding:12px; border-left:4px solid #d45b5b; border-radius:4px;">
-Si le <strong>Diablotin</strong> attaque un joueur mort la nuit, laissez-le faire. Quand une capacité dit <strong>« choisissez un joueur »</strong>, cela signifie n’importe quel joueur : vivant ou mort. Le <strong>Diablotin</strong> peut vouloir bluffer le <a href="./soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a>, et ce genre de choix peut rendre son bluff plus crédible.
-</p>
+<div class="botc-note">
+Si le <strong>Diablotin</strong> attaque un joueur mort pendant la nuit, laissez-le faire.<br> Chaque fois que la capacité d'un rôle indique <strong>« choisissez un joueur »</strong>, cela signifie n’importe quel joueur, en vie ou mort, peut être choisi. <br> Le <strong>Diablotin</strong> peut tout à fait avoir l’intention de se faire passer pour le  <a href="./soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a>, et ce genre de manœuvre permet de renforcer un tel bluff.
+</div>
 
 <h2 style="color:#d45b5b;">Exemples</h2>
 <hr>
