@@ -71,7 +71,7 @@ image: /images/Icon_eviltwin.png
 <hr class="sbire">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:22px; margin-top:-10px;">
-« Vous et un joueur d’alignement opposé vous connaissez mutuellement. Si le joueur bon est exécuté, le Mal gagne. <br> Le Bien ne peut pas gagner si vous restez tous les deux en vie. »
+« Vous et un joueur d’alignement opposé vous connaissez mutuellement. Si le joueur bon est exécuté, le Mal gagne. Le Bien ne peut pas gagner si vous restez tous les deux en vie. »
 </p>
 
 <p class="botc-flavour-text dropcap" style="margin:0;">
