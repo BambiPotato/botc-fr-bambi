@@ -182,8 +182,6 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
 
 <!-- 1. SYNOPSIS -->
 <h2 id="1-synopsis" style="color:#d4a76a; font-weight:800; font-size:22px; text-align:left; margin-top:18px;">1. Synopsis</h2>
-<hr>
-
 <h3 style="color:#f5f5f5; font-weight:800; font-size:22px; text-align:left; margin:6px 0 10px;">The Carousel Expérimental</h3>
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:22px;">
   <li>Les rôles expérimentaux sont des rôles qui <strong>n’ont pas encore de script officiel attitré</strong>.</li>
@@ -422,11 +420,11 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
   </a>
 </div>
 
-<hr class="explication">
+
 
 <!--  SBIRES -->
 <h2 id="5-sbires" style="color:#d45b5b; font-weight:800; font-size:22px; text-align:left;">Sbires</h2>
-<hr> 
+<hr class="explication">
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
 
@@ -510,7 +508,7 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
 
 <!-- DÉMONS -->
 <h2 id="6-demons" style="color:#d45b5b; font-weight:800; font-size:22px; text-align:left;">Démons</h2>
-<hr> 
+<hr class="explication">
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
 
@@ -569,7 +567,7 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
 
 <!--  LÉGENDAIRES -->
 <h2 id="7-legendaires" style="color:#d4a76a; font-weight:800; font-size:22px; text-align:left;">Légendaires</h2>
-<hr> 
+<hr class="explication">
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
   <a href="legendaire_roles/deusexfiasco.html" style="text-decoration:none; width:280px; text-align:center;">
@@ -587,7 +585,7 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
 
 <!-- LORICS -->
 <h2 id="8-lorics" style="color:#7fd1ae; font-weight:800; font-size:22px; text-align:left;">Loric</h2>
-<hr> 
+<hr class="explication">
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
 
@@ -631,7 +629,7 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
 
 <!-- 9. VOYAGEURS -->
 <h2 id="9-voyageurs" style="color:#9b59b6; font-weight:800; font-size:22px; text-align:left;">Voyageurs</h2>
-<hr> 
+<hr class="explication"> 
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
   <a href="voyageurs/cacklejack.html" style="text-decoration:none; width:280px; text-align:center;">
