@@ -1,54 +1,85 @@
 (() => {
   "use strict";
 
+  /* =========================================================
+     RÉGLAGES GÉNÉRAUX
+     ========================================================= */
+
   const SHOW_DELAY = 180;
-  const GAP = 10;
+
+  /*
+   * Petit espace entre le lien et l’infobulle.
+   * La bulle reste proche du rôle, comme sur le wiki original.
+   */
+  const GAP = 8;
+
+  /*
+   * Marge de sécurité pour empêcher l’infobulle
+   * de sortir des limites de l’écran.
+   */
   const SCREEN_MARGIN = 12;
 
+  /*
+   * Les descriptions déjà chargées sont conservées en mémoire.
+   * Une même fiche n’est donc pas téléchargée plusieurs fois.
+   */
   const descriptionCache = new Map();
 
   let activeLink = null;
   let showTimer = null;
   let requestId = 0;
 
-  /*
-   * Le style est placé ici pour que l’infobulle ait toujours
-   * exactement la même apparence, sans conflit avec le reste du wiki.
-   */
+
+  /* =========================================================
+     APPARENCE DE L’INFOBULLE
+     ========================================================= */
+
   const style = document.createElement("style");
 
   style.textContent = `
     .botc-role-tooltip {
       position: fixed !important;
+
       top: var(--botc-tooltip-top, 0px) !important;
       left: var(--botc-tooltip-left, 0px) !important;
+
       z-index: 999999 !important;
-
       box-sizing: border-box !important;
-      width: max-content !important;
-      max-width: min(360px, calc(100vw - 24px)) !important;
-      padding: 13px 17px !important;
 
-      background: #f7f2e8 !important;
-      border: 1px solid #b99a82 !important;
+      width: max-content !important;
+      max-width: min(330px, calc(100vw - 24px)) !important;
+
+      padding: 11px 15px !important;
+
+      background: #f8f4ec !important;
+      border: 1px solid #c3a994 !important;
       border-radius: 9px !important;
 
       color: #5a2929 !important;
-      font-family: Georgia, "Times New Roman", serif !important;
-      font-size: 17px !important;
+
+      font-family:
+        Georgia,
+        "Times New Roman",
+        serif !important;
+
+      font-size: 16px !important;
       font-weight: 400 !important;
-      line-height: 1.45 !important;
+      line-height: 1.42 !important;
       text-align: center !important;
 
+      overflow-wrap: anywhere !important;
+      white-space: normal !important;
+
       box-shadow:
-        0 8px 22px rgba(65, 42, 31, 0.18),
-        0 2px 5px rgba(65, 42, 31, 0.10) !important;
+        0 7px 18px rgba(65, 42, 31, 0.15),
+        0 2px 4px rgba(65, 42, 31, 0.08) !important;
 
       opacity: 0 !important;
       visibility: hidden !important;
       pointer-events: none !important;
 
-      transform: translateY(3px) !important;
+      transform: translateY(2px) !important;
+
       transition:
         opacity 0.12s ease,
         transform 0.12s ease,
@@ -61,6 +92,11 @@
       transform: translateY(0) !important;
     }
 
+    /*
+     * Sur un appareil entièrement tactile,
+     * l’infobulle est désactivée afin que le premier toucher
+     * ouvre normalement le lien.
+     */
     @media (hover: none), (pointer: coarse) {
       .botc-role-tooltip {
         display: none !important;
@@ -70,6 +106,11 @@
 
   document.head.appendChild(style);
 
+
+  /* =========================================================
+     CRÉATION DE L’INFOBULLE
+     ========================================================= */
+
   const tooltip = document.createElement("div");
 
   tooltip.className = "botc-role-tooltip";
@@ -78,9 +119,21 @@
 
   document.body.appendChild(tooltip);
 
+
+  /* =========================================================
+     COMPATIBILITÉ DE L’APPAREIL
+     ========================================================= */
+
   function supportsHover() {
-    return window.matchMedia("(hover: hover) and (pointer: fine)").matches;
+    return window.matchMedia(
+      "(hover: hover) and (pointer: fine)"
+    ).matches;
   }
+
+
+  /* =========================================================
+     DÉTECTION DU LIEN
+     ========================================================= */
 
   function getInternalUrl(link) {
     if (!link) {
@@ -102,21 +155,34 @@
     let url;
 
     try {
+      /*
+       * Le script suit directement le href réel.
+       *
+       * Exemple :
+       * <a href="./goon.html">Gros bras</a>
+       *
+       * Il ouvre goon.html.
+       * Il ne tente jamais de fabriquer une adresse
+       * à partir du texte français « Gros bras ».
+       */
       url = new URL(href, window.location.href);
     } catch {
       return null;
     }
 
+    /*
+     * Les liens externes sont ignorés.
+     */
     if (url.origin !== window.location.origin) {
       return null;
     }
 
     /*
-     * Les liens vers des fichiers qui ne sont pas des pages
-     * sont ignorés.
+     * Les fichiers qui ne sont pas des pages HTML
+     * ne doivent pas produire d’infobulle.
      */
     if (
-      /\.(png|jpe?g|gif|webp|svg|pdf|json|zip|mp3|mp4)$/i.test(
+      /\.(png|jpe?g|gif|webp|svg|pdf|json|zip|mp3|mp4|webm)$/i.test(
         url.pathname
       )
     ) {
@@ -124,8 +190,8 @@
     }
 
     /*
-     * On évite l’infobulle lorsque le lien pointe vers
-     * la page sur laquelle on se trouve déjà.
+     * Pas d’infobulle si le lien renvoie exactement
+     * vers la page actuelle.
      */
     if (
       url.pathname === window.location.pathname &&
@@ -139,10 +205,15 @@
     return url;
   }
 
+
+  /* =========================================================
+     MASQUAGE
+     ========================================================= */
+
   function hideTooltip() {
     window.clearTimeout(showTimer);
-    showTimer = null;
 
+    showTimer = null;
     activeLink = null;
     requestId += 1;
 
@@ -151,8 +222,16 @@
     tooltip.textContent = "";
   }
 
+
+  /* =========================================================
+     POSITIONNEMENT SOUS LE RÔLE
+     ========================================================= */
+
   function positionTooltip(link) {
-    if (!link || !tooltip.classList.contains("is-visible")) {
+    if (
+      !link ||
+      !tooltip.classList.contains("is-visible")
+    ) {
       return;
     }
 
@@ -161,7 +240,7 @@
 
     /*
      * Position normale :
-     * centrée juste en dessous du rôle survolé.
+     * l’infobulle est centrée sous le rôle cliquable.
      */
     let left =
       linkRect.left +
@@ -171,18 +250,39 @@
     let top = linkRect.bottom + GAP;
 
     /*
-     * Si la bulle dépasse en bas de l’écran,
-     * elle se place juste au-dessus du rôle.
+     * Elle reste sous le rôle dans tous les cas où elle tient
+     * encore dans la partie visible de l’écran.
+     *
+     * Elle ne passe au-dessus que si elle serait réellement coupée
+     * par le bas de la fenêtre.
      */
-    if (
+    const wouldOverflowBottom =
       top + tooltipRect.height >
-      window.innerHeight - SCREEN_MARGIN
-    ) {
-      top = linkRect.top - tooltipRect.height - GAP;
+      window.innerHeight - SCREEN_MARGIN;
+
+    if (wouldOverflowBottom) {
+      const positionAbove =
+        linkRect.top -
+        tooltipRect.height -
+        GAP;
+
+      /*
+       * Elle passe au-dessus uniquement s’il y a suffisamment
+       * de place. Sinon, elle reste contenue dans l’écran.
+       */
+      if (positionAbove >= SCREEN_MARGIN) {
+        top = positionAbove;
+      } else {
+        top =
+          window.innerHeight -
+          tooltipRect.height -
+          SCREEN_MARGIN;
+      }
     }
 
     /*
-     * La bulle ne doit jamais sortir à gauche ou à droite.
+     * Protection contre les dépassements à gauche et à droite.
+     * La bulle reste centrée autant que possible.
      */
     left = Math.max(
       SCREEN_MARGIN,
@@ -195,7 +295,7 @@
     );
 
     /*
-     * Sécurité si l’écran est particulièrement petit.
+     * Protection supplémentaire contre les dépassements verticaux.
      */
     top = Math.max(
       SCREEN_MARGIN,
@@ -218,8 +318,16 @@
     );
   }
 
+
+  /* =========================================================
+     AFFICHAGE
+     ========================================================= */
+
   function showTooltip(description, link) {
-    if (!description || activeLink !== link) {
+    if (
+      !description ||
+      activeLink !== link
+    ) {
       return;
     }
 
@@ -229,6 +337,11 @@
 
     positionTooltip(link);
   }
+
+
+  /* =========================================================
+     CHARGEMENT DE LA DESCRIPTION
+     ========================================================= */
 
   async function loadDescription(url) {
     const cacheKey = url.href;
@@ -260,28 +373,33 @@
       );
 
       /*
-       * Première source :
-       * le champ description: dédié aux infobulles.
+       * Source principale :
+       * la balise créée directement à partir du champ
+       * description: de la fiche.
        */
-      const dedicatedDescription = parsedPage.querySelector(
-        'meta[name="botc-tooltip-description"]'
-      );
+      const dedicatedDescription =
+        parsedPage.querySelector(
+          'meta[name="botc-tooltip-description"]'
+        );
 
       /*
-       * Sources de secours :
-       * elles utilisent normalement la même valeur description:.
+       * Sources de secours.
+       * Elles utilisent normalement la même valeur description:.
        */
-      const standardDescription = parsedPage.querySelector(
-        'meta[name="description"]'
-      );
+      const standardDescription =
+        parsedPage.querySelector(
+          'meta[name="description"]'
+        );
 
-      const openGraphDescription = parsedPage.querySelector(
-        'meta[property="og:description"]'
-      );
+      const openGraphDescription =
+        parsedPage.querySelector(
+          'meta[property="og:description"]'
+        );
 
-      const twitterDescription = parsedPage.querySelector(
-        'meta[name="twitter:description"]'
-      );
+      const twitterDescription =
+        parsedPage.querySelector(
+          'meta[name="twitter:description"]'
+        );
 
       const descriptionMeta =
         dedicatedDescription ||
@@ -300,7 +418,7 @@
       return description;
     } catch (error) {
       console.error(
-        "Impossible de charger la description :",
+        "Impossible de charger la description de l’infobulle :",
         url.href,
         error
       );
@@ -311,8 +429,21 @@
     }
   }
 
+
+  /* =========================================================
+     PRÉPARATION AU SURVOL
+     ========================================================= */
+
   function prepareTooltip(link, url) {
     window.clearTimeout(showTimer);
+
+    /*
+     * Une ancienne infobulle ne doit pas rester visible
+     * pendant que l’on survole un nouveau rôle.
+     */
+    tooltip.classList.remove("is-visible");
+    tooltip.setAttribute("aria-hidden", "true");
+    tooltip.textContent = "";
 
     activeLink = link;
 
@@ -333,24 +464,35 @@
     }, SHOW_DELAY);
   }
 
+
+  /* =========================================================
+     ÉVÉNEMENTS
+     ========================================================= */
+
   function initialiseTooltips() {
     if (!supportsHover()) {
       return;
     }
 
     document.addEventListener("mouseover", event => {
-      const link = event.target.closest("a[href]");
+      const target = event.target;
+
+      if (!(target instanceof Element)) {
+        return;
+      }
+
+      const link = target.closest("a[href]");
 
       if (!link) {
         return;
       }
 
       /*
-       * On ignore les mouvements entre plusieurs éléments
+       * Ignore les mouvements entre plusieurs éléments
        * appartenant au même lien.
        */
       if (
-        event.relatedTarget &&
+        event.relatedTarget instanceof Node &&
         link.contains(event.relatedTarget)
       ) {
         return;
@@ -362,18 +504,35 @@
         return;
       }
 
+      /*
+       * Évite de relancer inutilement l’infobulle
+       * lorsque le même lien est déjà actif.
+       */
+      if (activeLink === link) {
+        return;
+      }
+
       prepareTooltip(link, url);
     });
 
     document.addEventListener("mouseout", event => {
-      const link = event.target.closest("a[href]");
+      const target = event.target;
 
-      if (!link || link !== activeLink) {
+      if (!(target instanceof Element)) {
+        return;
+      }
+
+      const link = target.closest("a[href]");
+
+      if (
+        !link ||
+        link !== activeLink
+      ) {
         return;
       }
 
       if (
-        event.relatedTarget &&
+        event.relatedTarget instanceof Node &&
         link.contains(event.relatedTarget)
       ) {
         return;
@@ -382,8 +541,17 @@
       hideTooltip();
     });
 
+    /*
+     * Compatibilité avec la navigation au clavier.
+     */
     document.addEventListener("focusin", event => {
-      const link = event.target.closest("a[href]");
+      const target = event.target;
+
+      if (!(target instanceof Element)) {
+        return;
+      }
+
+      const link = target.closest("a[href]");
 
       if (!link) {
         return;
@@ -399,13 +567,23 @@
     document.addEventListener("focusout", hideTooltip);
     document.addEventListener("click", hideTooltip);
 
+    /*
+     * L’infobulle disparaît pendant un défilement
+     * pour éviter qu’elle reste suspendue loin du lien.
+     */
     document.addEventListener(
       "scroll",
       hideTooltip,
-      { passive: true }
+      {
+        passive: true,
+        capture: true
+      }
     );
 
-    window.addEventListener("resize", hideTooltip);
+    window.addEventListener(
+      "resize",
+      hideTooltip
+    );
 
     document.addEventListener("keydown", event => {
       if (event.key === "Escape") {
@@ -413,6 +591,11 @@
       }
     });
   }
+
+
+  /* =========================================================
+     LANCEMENT
+     ========================================================= */
 
   if (document.readyState === "loading") {
     document.addEventListener(
