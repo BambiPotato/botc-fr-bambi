@@ -71,13 +71,11 @@ Son cercle est celui de la vie, <br> et ses mécanismes divins apportent toutes 
 </div>
 
 
-<hr class="explication">
+
 
 
 <h2><span style="color:#4ea3ff;">Résumé</span></h2>
-
-
-<hr class="explication">
+<hr class="villageois">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
 « Lors de votre première nuit, vous apprenez à combien de places du <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> est assis son <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> le plus proche. »
@@ -120,7 +118,7 @@ L’<strong>HORLOGER</strong> apprend à combien de places du <a href="../demons
 
 <h2><span style="color:#4ea3ff;">Exemples</span></h2>
 
-<hr class="explication">
+---
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
@@ -131,17 +129,13 @@ Lors de la première nuit, l’<strong>Horloger</strong> apprend le chiffre <str
 
 <li style="margin-bottom:14px;">
 Dans le sens horaire, à partir du <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a>, sont assis le <a href="./reveur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Rêveur</a>, le <a href="./charmeurdeserpent.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Charmeur de serpents</a>, puis la <a href="./jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumelle Maléfique</a>.<br><br>
-
 Dans le sens antihoraire (sens inverse des aiguilles d'une montre), à partir du <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a>, sont assis la <a href="./mutant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bête de foire</a>, la <a href="./dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a>, le <a href="./philosophe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Philosophe</a>, le <a href="./sage.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a>, puis la <a href="./sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a>.<br>
-
-Comme la <a href="./sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> se trouve à cinq places du <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> et la <a href="./jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumelle Maléfique</a> à trois places du <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, l’<a href="./horloger.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Horloger</a> apprend le chiffre <strong>« 3 »</strong> lors de la première nuit.
+Comme la <a href="./sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> se trouve à cinq places du <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> et la <a href="./jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumelle Maléfique</a> à trois places du <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, l’Horloger apprend le chiffre <strong>« 3 »</strong> lors de la première nuit.
 </li>
 
 <li style="margin-bottom:14px;">
 Le <a href="./fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a> est voisin de deux <a href="../voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a>, l’un bon, l’autre maléfique.<br>
-
-Le <a href="./cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a> est voisin de l’un de ces <a href="../voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a>.<br><br>
-
+Le <a href="./cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a> est voisin de l’un de ces <a href="../voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a>.<br>
 Lors de la première nuit, l’<strong>Horloger</strong> apprend le chiffre <strong>« ✌🏼 2 »</strong>, car les <a href="../voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a> maléfiques ne sont pas des <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>.
 </li>
 
@@ -197,21 +191,21 @@ Lorsque vous bluffez en prétendant être l’<strong>Horloger</strong>, gardez 
 
 
 <h2 style="color:#4ea3ff; font-size:22px; margin-top:30px;">
-  🧞 Jinxes liés
+🧞 Jinxes liés
 </h2>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
   <!-- SUMMONER -->
-  <li>
+<li>
     🧞
-    <img src="../images/Icon_summoner.png" alt="Invocateur" width="24"
-         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/summoner.html"
-       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocatrice</a> :
-    L’<span style="color:#d45b5b; font-weight:bold;">Invocatrice</span> s'enregistre comme 
-    <span style="color:#d45b5b; font-weight:bold;">Démon</span> auprès l’Horloger.
-  </li>
+<img src="../images/Icon_summoner.png" alt="Invocateur" width="24"
+style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+<a href="../roles_experimentaux/summoner.html"
+style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocatrice</a> :
+L’<span style="color:#d45b5b; font-weight:bold;">Invocatrice</span> s'enregistre comme 
+<span style="color:#d45b5b; font-weight:bold;">Démon</span> auprès l’Horloger.
+</li>
 
 </ul>
 
