@@ -71,14 +71,9 @@ image: "/images/Icon_towncrier.png"
 
 
 
-<hr class="explication">
-
 
 <h2><span style="color:#4ea3ff;">Résumé</span></h2>
-
-
-<hr class="explication">
-
+<hr class="villageois">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
 « Chaque nuit*, vous apprenez si un Sbire a nommé quelqu’un dans la journée. »
