@@ -48,10 +48,6 @@
       return null;
     }
 
-    if (url.pathname === window.location.pathname && !url.search) {
-      return null;
-    }
-
     url.hash = "";
     return url;
   }
@@ -179,7 +175,7 @@
     }, SHOW_DELAY);
   }
 
-  function setupDelegatedEvents() {
+  function setupEvents() {
     if (!isDesktopPointer()) {
       return;
     }
@@ -200,28 +196,6 @@
         hideTooltip();
       }
     });
-
-    document.addEventListener("focusin", event => {
-      const link = event.target.closest("a[href]");
-      if (!link) return;
-
-      const url = getInternalPageUrl(link);
-      if (url) {
-        const rect = link.getBoundingClientRect();
-        mouseX = rect.left + rect.width / 2;
-        mouseY = rect.bottom;
-        prepareTooltip(link, url);
-      }
-    });
-
-    document.addEventListener("focusout", event => {
-      const link = event.target.closest("a[href]");
-      if (link && activeLink === link) {
-        hideTooltip();
-      }
-    });
-
-    document.addEventListener("click", hideTooltip);
   }
 
   document.addEventListener("mousemove", event => {
@@ -231,25 +205,12 @@
     positionTooltip();
   });
 
-  document.addEventListener(
-    "scroll",
-    () => {
-      hideTooltip();
-    },
-    { passive: true }
-  );
-
+  document.addEventListener("scroll", hideTooltip, { passive: true });
   window.addEventListener("resize", hideTooltip);
 
-  document.addEventListener("keydown", event => {
-    if (event.key === "Escape") {
-      hideTooltip();
-    }
-  });
-
   if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", setupDelegatedEvents);
+    document.addEventListener("DOMContentLoaded", setupEvents);
   } else {
-    setupDelegatedEvents();
+    setupEvents();
   }
 })();
