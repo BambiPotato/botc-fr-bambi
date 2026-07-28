@@ -197,10 +197,10 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
 </p>
 
 
-<hr class="explication">
 
 <!--  VILLAGEOIS -->
 <h2 id="3-villageois" style="color:#4ea3ff; font-weight:800; font-size:22px; text-align:left;"> Villageois</h2>
+<hr class="explication">
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
 
