@@ -72,8 +72,8 @@ image: "/images/Icon_juggler.png"
 
 
 ##  <span style="color:#4ea3ff;">Résumé</span>  
+<hr class="villageois">
 
----
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
 « Lors de votre premier jour, devinez publiquement jusqu’à 5 rôles de joueurs. Cette nuit, vous apprenez combien étaient corrects.» 
@@ -216,7 +216,7 @@ Si un joueur maléfique se fait passer pour le Jongleur, vous pouvez soutenir so
 ---
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>Lorsque vous bluffez le Jongleur,</strong> il y a quelques éléments à garder en tête:
+Lorsque vous bluffez le <strong>Jongleur,</strong> il y a quelques éléments à garder en tête:
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
