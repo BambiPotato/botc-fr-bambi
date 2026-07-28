@@ -71,11 +71,10 @@ image: /images/Icon_vigormortis.png
 
 
 <h2 style="color:#d45b5b;">Résumé</h2>
-
 <hr class="sbire">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
-Chaque nuit*, choisissez un joueur : il meurt. Les <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> que vous tuez gardent leur capacité et empoisonnent 1 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> voisin. [-1 <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a>]
+Chaque nuit*, choisissez un joueur : il meurt. Les <a href="../sbires.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Sbires</a> que vous tuez gardent leur capacité et empoisonnent 1 <a href="../villageois.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Villageois</a> voisin. [-1 <a href="../etrangers.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Marginal</a>]
 </p>
 
 <p class="botc-flavour-text dropcap" style="margin-top:0;">
@@ -102,8 +101,7 @@ Chaque nuit*, choisissez un joueur : il meurt. Les <a href="../sbires.html" styl
 </ul>
 
 <h2 style="color:#d45b5b;">Comment Conter</h2>
-
----
+<hr> 
 
 <p class="botc-flavour-text dropcap" style="margin-top:0; margin-bottom:0;">
 Instructions au Conteur
@@ -129,8 +127,7 @@ Instructions au Conteur
 </ul>
 
 <h2 style="color:#d45b5b;">Exemples</h2>
-
----
+<hr> 
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
 
@@ -159,8 +156,7 @@ Instructions au Conteur
 </ul>
 
 <h2 style="color:#d45b5b;">Conseils &amp; Astuces</h2>
-
----
+<hr> 
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
 
@@ -216,8 +212,7 @@ Instructions au Conteur
 </ul>
 
 <h2 style="color:#d45b5b;">Combattre le Vigormortis</h2>
-
----
+<hr> 
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
 
