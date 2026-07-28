@@ -68,89 +68,85 @@ image: /images/Icon_nodashii.png
 
 
 <h2 style="color:#d45b5b;">Résumé</h2>
+<hr class="demon">	
 
----
 
-
-<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:22px; margin-top:-10px;">
 « Chaque nuit*, choisissez un joueur : il meurt. Vos 2 Villageois voisins sont empoisonnés. »
 </p>
 
-<p class="botc-flavour-text dropcap">
-<strong>LE NO DASHII</strong> empoisonne les <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> voisins.
+<p class="botc-flavour-text dropcap" style="margin:0;">
+<strong>LE NO DASHII</strong> empoisonne les <a href="../villageois.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Villageois</a> voisins.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
 
   <li style="margin-bottom:14px;">
-    Les <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> les plus proches du <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a> (un dans le sens horaire, l’autre dans le sens antihoraire) sont empoisonnés, qu’ils soient en vie ou non.<br>
-    Si le <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a> meurt ou perd sa capacité d’une manière ou d’une autre, alors ces joueurs redeviennent sains.<br>
-    Il y aura toujours deux <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> empoisonnés, puisque les <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>, <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> ou <a href="../voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a> voisins sont ignorés.
+    Les <a href="../villageois.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Villageois</a> les plus proches du <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a> (un dans le sens horaire, l’autre dans le sens antihoraire) sont empoisonnés, qu’ils soient en vie ou non.<br>
+    Si le <a href="./nodashii.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">No Dashii</a> meurt ou perd sa capacité d’une manière ou d’une autre, alors ces joueurs redeviennent sains.<br>
+    Il y aura toujours deux <a href="../villageois.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Villageois</a> empoisonnés, puisque les <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>, <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> ou <a href="../voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a> voisins sont ignorés.
   </li>
 
   <li style="margin-bottom:14px;">
-    Si un nouveau joueur devient le <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a> ou si un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> empoisonné devient un rôle non-Villageois, mettez immédiatement à jour les deux joueurs empoisonnés, selon la nouvelle configuration et l’endroit où se trouve le <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a>.
+    Si un nouveau joueur devient le <a href="./nodashii.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">No Dashii</a> ou si un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> empoisonné devient un rôle non-Villageois, mettez immédiatement à jour les deux joueurs empoisonnés, selon la nouvelle configuration et l’endroit où se trouve le <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a>.
   </li>
 
 </ul>
 
 <h2 style="color:#d45b5b;">Comment Conter</h2>
+<hr> 
 
----
-
-<p class="botc-flavour-text dropcap">
+<p class="botc-flavour-text dropcap" style="margin:0;">
 Instructions au Conteur
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
 
   <li style="margin-bottom:14px;">
-    Lors de la préparation de la première nuit, les deux <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> voisins du <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a> sont empoisonnés — marquez-les du jeton <strong>EMPOISONNÉ</strong>.
+    Lors de la préparation de la première nuit, les deux <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> voisins du <a href="./nodashii.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">No Dashii</a> sont empoisonnés — marquez-les du jeton <strong>EMPOISONNÉ</strong>.
   </li>
 
   <li style="margin-bottom:14px;">
-    Si un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> empoisonné par le <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a> devient un rôle non-Villageois, ou si le <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a> se transforme en un autre rôle, ou si un nouveau joueur devient le <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a>, les nouveaux voisins du <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a> deviennent empoisonnés et les anciens voisins deviennent sains.<br>
+    Si un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> empoisonné par le <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a> devient un rôle non-Villageois, ou si le <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a> se transforme en un autre rôle, ou si un nouveau joueur devient le <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a>, les nouveaux voisins du <a href="./nodashii.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">No Dashii</a> deviennent empoisonnés et les anciens voisins deviennent sains.<br>
     Déplacez immédiatement les jetons <strong>EMPOISONNÉ</strong> du <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a> si nécessaire.
   </li>
 
   <li style="margin-bottom:14px;">
-    Chaque nuit, sauf la première, réveillez le <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a>.<br>
+    Chaque nuit, sauf la première, réveillez le <a href="./nodashii.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">No Dashii</a>.<br>
     Il désigne n’importe quel joueur.<br>
     Ce joueur meurt — marquez-le du jeton <strong>MORT</strong>.<br>
-    Le <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a> se rendort.
+    Le <a href="./nodashii.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">No Dashii</a> se rendort.
   </li>
 
 </ul>
 
 <h2 style="color:#d45b5b;">Exemples</h2>
-
----
+<hr> 
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
 
   <li style="margin-bottom:14px;">
-    Au début de la partie, le <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a> est voisin d’un <a href="./crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur public</a> et d’un <a href="./charmeurdeserpent.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Charmeur de serpents</a>.<br>
+    Au début de la partie, le <a href="./nodashii.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">No Dashii</a> est voisin d’un <a href="./crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur public</a> et d’un <a href="./charmeurdeserpent.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Charmeur de serpents</a>.<br>
     Ils sont tous les deux empoisonnés.<br>
-    Quelques journées plus tard, ils sont tous les deux morts, et les voisins en vie les plus proches du <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a> sont maintenant un <a href="./horloger.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Horloger</a> et un <a href="./barbier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Barbier</a>, mais eux ne sont pas empoisonnés par le <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a>.
+    Quelques journées plus tard, ils sont tous les deux morts, et les voisins en vie les plus proches du <a href="./nodashii.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">No Dashii</a> sont maintenant un <a href="./horloger.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Horloger</a> et un <a href="./barbier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Barbier</a>, mais eux ne sont pas empoisonnés par le <a href="./nodashii.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">No Dashii</a>.
   </li>
 
   <li style="margin-bottom:14px;">
-    Dans le sens horaire, à partir du <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a>, sont assis un <a href="./philosophe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Philosophe</a>, un <a href="./mathematicien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mathématicien</a>, puis un <a href="./sage.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a>.<br>
-    Dans le sens antihoraire, à partir du <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a>, sont assises une <a href="./sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a>, une <a href="./mutant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bête de foire</a>, puis une <a href="./couturiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Couturière</a>.<br>
+    Dans le sens horaire, à partir du <a href="./nodashii.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">No Dashii</a>, sont assis un <a href="./philosophe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Philosophe</a>, un <a href="./mathematicien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mathématicien</a>, puis un <a href="./sage.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a>.<br>
+    Dans le sens antihoraire, à partir du <a href="./nodashii.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">No Dashii</a>, sont assises une <a href="./sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a>, une <a href="./mutant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bête de foire</a>, puis une <a href="./couturiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Couturière</a>.<br>
     Le <a href="./philosophe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Philosophe</a> et la <a href="./couturiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Couturière</a> sont empoisonnés.
   </li>
 
   <li style="margin-bottom:14px;">
-    La <a href="./pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a> transforme le <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a> mort en <a href="./fleuriste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a>.<br>
-    La nuit suivante, la <a href="./pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a> transforme le <a href="./fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a> encore en vie en <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a>.<br>
+    La <a href="./pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a> transforme le <a href="./nodashii.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">No Dashii</a> mort en <a href="./fleuriste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a>.<br>
+    La nuit suivante, la <a href="./pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a> transforme le <a href="./fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a> encore en vie en <a href="./nodashii.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">No Dashii</a>.<br>
     Ce nouveau <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a> en vie empoisonne désormais ses deux voisins <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>.
   </li>
 
 </ul>
 
 <h2 style="color:#d45b5b;">Conseils &amp; Astuces</h2>
-
----
+<hr> 
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
 
@@ -172,8 +168,8 @@ Instructions au Conteur
   </li>
 
   <li style="margin-bottom:14px;">
-    Tuez vos voisins si les joueurs commencent à penser qu’un <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a> est en jeu.<br>
-    Cela donne l’impression que quelqu’un d’autre est le <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a>, ou au moins que vous êtes un <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> différent du <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a>.
+    Tuez vos voisins si les joueurs commencent à penser qu’un <a href="./nodashii.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">No Dashii</a> est en jeu.<br>
+    Cela donne l’impression que quelqu’un d’autre est le <a href="./nodashii.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">No Dashii</a>, ou au moins que vous êtes un <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> différent du <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a>.
   </li>
 
   <li style="margin-bottom:14px;">
@@ -184,13 +180,12 @@ Instructions au Conteur
 </ul>
 
 <h2 style="color:#d45b5b;">Combattre le No Dashii</h2>
-
----
+<hr> 
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
 
   <li style="margin-bottom:14px;">
-    L’empoisonnement du <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a> ignore les <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>, les <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a> et les <a href="../voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a>.<br>
+    L’empoisonnement du <a href="./nodashii.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">No Dashii</a> ignore les <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>, les <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a> et les <a href="../voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a>.<br>
     Grâce à cela, le <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a> n’a pas besoin d’être votre voisin immédiat pour vous empoisonner.
   </li>
 
