@@ -61,7 +61,7 @@ image: /images/logogold.png
   Par exemple, si tous les joueurs restants sont <span style="color:red;">Maléfiques</span>, alors le <span style="color:blue;">Bien</span> ne peut plus nominer le <span style="color:red;">Démon</span> : le <span style="color:red;">Mal</span> gagne.
 </p>
 <p>
-  Souvent, lorsqu’il reste <strong>quatre joueurs en vie</strong>, et que les bons exécutent quelqu’un qui n’est pas <span style="color:red;">Maléfique</span>, vous pouvez <strong>terminer la partie immédiatement</strong>.
+  Souvent, lorsqu’il reste <strong>quatre joueurs en vie</strong>, et que les bons exécutent quelqu’un qui n’est pas maléfique, vous pouvez <strong>terminer la partie immédiatement</strong>.
   S’il ne reste plus que trois joueurs ensuite, le <span style="color:red;">Démon</span> tuera l’un d’eux pendant la nuit — ce qui rendrait la suite automatique.
   <br>Mais attention : si un <a href="./tb_roles/moine.html" style="color:blue;">Moine</a> ou un <a href="./tb_roles/soldat.html" style="color:blue;">Soldat</a> est encore en vie, le <span style="color:red;">Démon</span> pourrait échouer à tuer cette nuit-là, entraînant une journée supplémentaire.
 </p>
@@ -81,7 +81,7 @@ image: /images/logogold.png
 <p>
   Vos mouvements peuvent révéler des indices sans que vous le vouliez.
   Variez vos déplacements, faites parfois des pas “gratuits”, changez de rythme. 
-  Ainsi, les joueurs et les joueuses ne pourront pas relier un bruit ou un mouvement à une action précise, ni <strong>déduire la position du <span style="color:red;">Démon</span></strong>.
+  Ainsi, les joueurs et les joueuses ne pourront pas relier un bruit ou un mouvement à une action précise, ni <strong>déduire la position du Démon </strong>.
 </p>
 
 <h3>Manipuler les jetons du Grimoire</h3>
@@ -89,7 +89,7 @@ image: /images/logogold.png
   Vous devriez souvent déplacer des jetons (par exemple quand une 
   <a href="./tb_roles/mercenaire.html" style="color:blue;">Pourfendeuse</a> ou un 
   <a href="./sv_roles/jongleur.html" style="color:blue;">Jongleur</a> agit).
-  Quand un joueur <span style="color:red;">Maléfique</span> bluffe en prétendant être l’un ou l’une d’entre eux, 
+  Quand un joueurmMaléfique bluffe en prétendant être l’un ou l’une d’entre eux, 
   <strong>faites semblant</strong> de manipuler les mêmes jetons. Ainsi, même les joueurs experts ne pourront pas déceler un bluff à vos gestes.
 </p>
 
@@ -321,7 +321,7 @@ image: /images/logogold.png
   Choisissez des rôles qui se complètent bien (par exemple une 
   <a href="./sv_roles/pithag.html" style="color:red;">Guenaude</a>, un 
   <a href="./tb_roles/saint.html" style="color:blue;">Saint</a>, une 
-  <a href="./sv_roles/jumeaumaléfique.html" style="color:red;">Jumelle Maléfique</a>, un 
+  <a href="./sv_roles/jumeaumalefique.html" style="color:red;">Jumelle Maléfique</a>, un 
   <a href="./bmr_roles/aubergiste.html" style="color:blue;">Aubergiste</a>…), 
   puis utilisez 
   <a href="https://script.bloodontheclocktower.com">l'Outil de Script</a> 
