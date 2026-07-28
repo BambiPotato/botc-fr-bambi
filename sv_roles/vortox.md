@@ -70,7 +70,7 @@ image: /images/Icon_vortox.png
 <hr class="demon">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
-« Chaque nuit*, choisissez un joueur : il meurt.<br>Les capacités des <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> donnent de fausses informations.<br>Chaque jour, si personne n’est exécuté, les <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Maléfiques</a> gagnent. »
+« Chaque nuit*, choisissez un joueur : il meurt. Les capacités des <a href="../villageois.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Villageois</a> donnent de fausses informations. Chaque jour, si personne n’est exécuté, les <a href="../demons.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Maléfiques</a> gagnent. »
 </p>
 
 <p class="botc-flavour-text dropcap" style="margin:0;">
@@ -183,7 +183,7 @@ Ce n’est donc pas aussi terrible qu’il y paraît.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-• En tant qu’équipe, vous pouvez identifier si un <strong>Vortox</strong> est en jeu en recoupant vos informations.<br>
+• En équipe, vous pouvez identifier si un <strong>Vortox</strong> est en jeu en recoupant vos informations.<br>
 Plus les joueurs du Bien partageront leurs retours, plus vite il deviendra évident qu’un <strong>Vortox</strong> est présent, car les pièces du puzzle ne s’assembleront pas.<br>
 Une ou deux informations étranges peuvent facilement s’expliquer par un <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a>, une <a href="./dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a>, ou un joueur mauvais qui répand des mensonges ; mais 5 ou 6 informations incohérentes désignent généralement un <strong>Vortox</strong>.<br>
 Une fois la présence du <strong>Vortox</strong> identifiée, même si vous n’avez aucune idée de l’identité du joueur qui l’incarne, vous prenez l’avantage.
@@ -204,20 +204,20 @@ Avoir une certitude absolue sur vos informations (même si vous devez continuell
 Ne sautez jamais l’exécution, à moins d’être VRAIMENT certain qu’aucun <strong>Vortox</strong> n’est en jeu.<br>
 (La raison pour laquelle le <strong>Vortox</strong> possède cette capacité redoutable est d’empêcher le camp du Bien de s’abstenir volontairement de désigner le premier jour pour forcer des rôles comme l’<a href="./oracle.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Oracle</a>, la <a href="./fleuriste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a> ou le <a href="./crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur public</a> à recevoir de fausses informations et ainsi détecter sa présence).<br>
 Le camp du Bien doit désigner et exécuter chaque jour... au cas où.<br>
-Évidemment, tuer des joueurs mauvais est préférable, mais exécuter un joueur du Bien vaut toujours mieux que de perdre la partie sur-le-champ.
+Évidemment, tuer des joueurs maléfique est préférable, mais exécuter un joueur du Bien vaut toujours mieux que de perdre la partie sur-le-champ.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 • Si un joueur donne une information vraie dans une partie avec un <strong>Vortox</strong>... exécutez-le. Il ment.<br>
-Et mentir ne signifie qu’une seule chose : il est mauvais.<br>
-Ou alors il s’agit du <a href="./charmeurdeserpent.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Charmeur de serpents</a>, du <a href="./sage.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a> ou du <a href="./mutant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mutant</a> qui cache son identité pour une autre raison.<br>
+Et mentir ne signifie qu’une seule chose : il est maléfique.<br>
+Ou alors il s’agit du <a href="./charmeurdeserpent.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Charmeur de serpents</a>, du <a href="./sage.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a> ou du <a href="./mutant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bête de foire</a> qui cache son identité pour une autre raison.<br>
 Mais dans la majorité des cas, il est mauvais.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 • Certains rôles sont meilleurs que d’autres pour détecter le <strong>Vortox</strong>.<br>
 Puisque le <strong>Vortox</strong> force toutes les informations à être fausses, vous pouvez créer des situations où votre information est censée donner un résultat prévisible pour vérifier si le résultat s’inverse.<br>
-Quelques exemples : l’<a href="./artiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Artiste</a> (qui pose une question fermée par oui/non), le <a href="./jongleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Jongleur</a> (qui peut simplement se jongler lui-même), le <a href="./reveur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Rêveur</a> (qui peut choisir quelqu’un en qui il a confiance pour voir si l’information concorde), la <a href="./fleuriste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a> (faites voter tout le Village — si le résultat indique que le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> n’a pas voté, vous savez que votre information est fausse), le <a href="./crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur public</a> (soyez le seul à désigner de la journée — si l’on vous dit qu’un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> a désigné...), ou la <a href="./couturiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Couturière</a> (choisissez deux joueurs dont vous connaissez pertinemment l’alignement et comparez-les — particulièrement efficace si une <a href="./jumelle_maléfique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumelle maléfique</a> est en jeu !).
+Quelques exemples : l’<a href="./artiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Artiste</a> (qui pose une question fermée par oui/non), le <a href="./jongleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Jongleur</a> (qui peut simplement se jongler lui-même), le <a href="./reveur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Rêveur</a> (qui peut choisir quelqu’un en qui il a confiance pour voir si l’information concorde), la <a href="./fleuriste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a> (faites voter tout le Village — si le résultat indique que le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> n’a pas voté, vous savez que votre information est fausse), le <a href="./crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur public</a> (soyez le seul à désigner de la journée — si l’on vous dit qu’un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> a désigné...), ou la <a href="./couturiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Couturière</a> (choisissez deux joueurs dont vous connaissez pertinemment l’alignement et comparez-les — particulièrement efficace si une <a href="./jumeaualefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumelle maléfique</a> est en jeu !).
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
