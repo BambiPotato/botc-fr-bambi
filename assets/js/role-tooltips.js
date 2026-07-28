@@ -1,49 +1,37 @@
 (() => {
   "use strict";
 
-  const TOOLTIP_META_SELECTOR =
-    'meta[name="botc-tooltip-description"]';
-
-  const TOOLTIP_DELAY = 250;
-  const TOOLTIP_OFFSET = 16;
+  const SHOW_DELAY = 180;
+  const OFFSET = 16;
   const SCREEN_MARGIN = 12;
 
-  const descriptionCache = new Map();
+  const cache = new Map();
+
   let activeLink = null;
   let showTimer = null;
-  let requestNumber = 0;
-  let pointerX = 0;
-  let pointerY = 0;
+  let requestId = 0;
+  let mouseX = 0;
+  let mouseY = 0;
 
   const tooltip = document.createElement("div");
   tooltip.className = "botc-role-tooltip";
   tooltip.setAttribute("role", "tooltip");
   tooltip.setAttribute("aria-hidden", "true");
-
   document.body.appendChild(tooltip);
 
-  function tooltipsAreAvailable() {
-    return (
-      window.matchMedia("(hover: hover)").matches &&
-      window.matchMedia("(pointer: fine)").matches
-    );
+  function isDesktopPointer() {
+    return window.matchMedia("(hover: hover) and (pointer: fine)").matches;
   }
 
-  function getEligibleLink(element) {
-    const link = element.closest("a[href]");
-
-    if (!link) {
-      return null;
-    }
-
-    const rawHref = link.getAttribute("href");
+  function getInternalPageUrl(link) {
+    const href = link.getAttribute("href");
 
     if (
-      !rawHref ||
-      rawHref.startsWith("#") ||
-      rawHref.startsWith("mailto:") ||
-      rawHref.startsWith("tel:") ||
-      rawHref.startsWith("javascript:")
+      !href ||
+      href.startsWith("#") ||
+      href.startsWith("mailto:") ||
+      href.startsWith("tel:") ||
+      href.startsWith("javascript:")
     ) {
       return null;
     }
@@ -51,8 +39,8 @@
     let url;
 
     try {
-      url = new URL(link.href, window.location.href);
-    } catch {
+      url = new URL(href, window.location.href);
+    } catch (error) {
       return null;
     }
 
@@ -64,20 +52,31 @@
       return null;
     }
 
-    return {
-      link,
-      url
-    };
+    /*
+     * On conserve uniquement les liens qui mènent vers une page HTML
+     * du wiki. Les images, PDF, ancres et liens externes sont ignorés.
+     */
+    if (
+      !url.pathname.endsWith(".html") &&
+      !url.pathname.endsWith("/")
+    ) {
+      return null;
+    }
+
+    url.hash = "";
+
+    return url;
   }
 
   function hideTooltip() {
-    clearTimeout(showTimer);
+    window.clearTimeout(showTimer);
     showTimer = null;
     activeLink = null;
-    requestNumber += 1;
+    requestId += 1;
 
     tooltip.classList.remove("is-visible");
     tooltip.setAttribute("aria-hidden", "true");
+    tooltip.textContent = "";
   }
 
   function positionTooltip() {
@@ -85,35 +84,35 @@
       return;
     }
 
-    const tooltipWidth = tooltip.offsetWidth;
-    const tooltipHeight = tooltip.offsetHeight;
+    const width = tooltip.offsetWidth;
+    const height = tooltip.offsetHeight;
 
-    let left = pointerX + TOOLTIP_OFFSET;
-    let top = pointerY + TOOLTIP_OFFSET;
+    let left = mouseX + OFFSET;
+    let top = mouseY + OFFSET;
 
-    if (left + tooltipWidth > window.innerWidth - SCREEN_MARGIN) {
-      left = pointerX - tooltipWidth - TOOLTIP_OFFSET;
+    if (left + width > window.innerWidth - SCREEN_MARGIN) {
+      left = mouseX - width - OFFSET;
     }
 
-    if (top + tooltipHeight > window.innerHeight - SCREEN_MARGIN) {
-      top = pointerY - tooltipHeight - TOOLTIP_OFFSET;
+    if (top + height > window.innerHeight - SCREEN_MARGIN) {
+      top = mouseY - height - OFFSET;
     }
 
     left = Math.max(
       SCREEN_MARGIN,
-      Math.min(left, window.innerWidth - tooltipWidth - SCREEN_MARGIN)
+      Math.min(left, window.innerWidth - width - SCREEN_MARGIN)
     );
 
     top = Math.max(
       SCREEN_MARGIN,
-      Math.min(top, window.innerHeight - tooltipHeight - SCREEN_MARGIN)
+      Math.min(top, window.innerHeight - height - SCREEN_MARGIN)
     );
 
     tooltip.style.left = `${left}px`;
     tooltip.style.top = `${top}px`;
   }
 
-  function displayTooltip(description, link) {
+  function showTooltip(description, link) {
     if (!description || activeLink !== link) {
       return;
     }
@@ -125,124 +124,139 @@
     positionTooltip();
   }
 
-  async function getDescription(url) {
-    const cacheKey = url.href;
+  async function loadDescription(url) {
+    const key = url.href;
 
-    if (descriptionCache.has(cacheKey)) {
-      return descriptionCache.get(cacheKey);
+    if (cache.has(key)) {
+      return cache.get(key);
     }
 
     try {
-      const response = await fetch(cacheKey, {
+      const response = await fetch(key, {
         method: "GET",
         credentials: "same-origin",
+        cache: "no-store",
         headers: {
           Accept: "text/html"
         }
       });
 
       if (!response.ok) {
-        descriptionCache.set(cacheKey, "");
+        cache.set(key, "");
         return "";
       }
 
       const html = await response.text();
-      const documentParser = new DOMParser();
-      const fetchedDocument = documentParser.parseFromString(
-        html,
-        "text/html"
+      const parsedPage = new DOMParser().parseFromString(html, "text/html");
+
+      /*
+       * Source principale :
+       * le champ description: de la fiche, transmis par le layout.
+       */
+      const dedicatedMeta = parsedPage.querySelector(
+        'meta[name="botc-tooltip-description"]'
       );
 
-      const descriptionMeta =
-        fetchedDocument.querySelector(TOOLTIP_META_SELECTOR);
+      /*
+       * Sécurité supplémentaire :
+       * la même description est déjà utilisée pour les aperçus sociaux.
+       */
+      const openGraphMeta = parsedPage.querySelector(
+        'meta[property="og:description"]'
+      );
 
-      const description = descriptionMeta
-        ? descriptionMeta.getAttribute("content")?.trim() || ""
+      const meta = dedicatedMeta || openGraphMeta;
+
+      const description = meta
+        ? (meta.getAttribute("content") || "").trim()
         : "";
 
-      descriptionCache.set(cacheKey, description);
+      cache.set(key, description);
 
       return description;
-    } catch {
-      descriptionCache.set(cacheKey, "");
+    } catch (error) {
+      console.error(
+        "Impossible de charger la description de l’infobulle :",
+        key,
+        error
+      );
+
+      cache.set(key, "");
       return "";
     }
   }
 
-  function prepareTooltip(link, url) {
-    clearTimeout(showTimer);
+  async function prepareTooltip(link, url) {
+    window.clearTimeout(showTimer);
 
     activeLink = link;
-    const currentRequest = ++requestNumber;
+    const currentRequest = ++requestId;
 
     showTimer = window.setTimeout(async () => {
-      const description = await getDescription(url);
+      const description = await loadDescription(url);
 
       if (
-        currentRequest !== requestNumber ||
-        activeLink !== link
+        currentRequest !== requestId ||
+        activeLink !== link ||
+        !description
       ) {
         return;
       }
 
-      if (description) {
-        displayTooltip(description, link);
-      }
-    }, TOOLTIP_DELAY);
+      showTooltip(description, link);
+    }, SHOW_DELAY);
   }
 
-  document.addEventListener("pointerover", event => {
-    if (!tooltipsAreAvailable()) {
+  function initialiseLinks() {
+    if (!isDesktopPointer()) {
       return;
     }
 
-    const result = getEligibleLink(event.target);
+    document.querySelectorAll("a[href]").forEach(link => {
+      const url = getInternalPageUrl(link);
 
-    if (!result) {
-      return;
-    }
+      if (!url) {
+        return;
+      }
 
-    if (
-      event.relatedTarget &&
-      result.link.contains(event.relatedTarget)
-    ) {
-      return;
-    }
+      link.addEventListener("mouseenter", () => {
+        prepareTooltip(link, url);
+      });
 
-    prepareTooltip(result.link, result.url);
-  });
+      link.addEventListener("mouseleave", () => {
+        if (activeLink === link) {
+          hideTooltip();
+        }
+      });
 
-  document.addEventListener("pointerout", event => {
-    if (!activeLink) {
-      return;
-    }
+      link.addEventListener("focus", () => {
+        const rect = link.getBoundingClientRect();
 
-    const link = event.target.closest("a[href]");
+        mouseX = rect.left + rect.width / 2;
+        mouseY = rect.bottom;
 
-    if (link !== activeLink) {
-      return;
-    }
+        prepareTooltip(link, url);
+      });
 
-    if (
-      event.relatedTarget &&
-      link.contains(event.relatedTarget)
-    ) {
-      return;
-    }
+      link.addEventListener("blur", hideTooltip);
+      link.addEventListener("click", hideTooltip);
+    });
+  }
 
-    hideTooltip();
-  });
-
-  document.addEventListener("pointermove", event => {
-    pointerX = event.clientX;
-    pointerY = event.clientY;
+  document.addEventListener("mousemove", event => {
+    mouseX = event.clientX;
+    mouseY = event.clientY;
 
     positionTooltip();
   });
 
-  document.addEventListener("scroll", hideTooltip, {
-    passive: true
-  });
+  document.addEventListener(
+    "scroll",
+    () => {
+      hideTooltip();
+    },
+    { passive: true }
+  );
 
   window.addEventListener("resize", hideTooltip);
 
@@ -251,4 +265,10 @@
       hideTooltip();
     }
   });
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", initialiseLinks);
+  } else {
+    initialiseLinks();
+  }
 })();
