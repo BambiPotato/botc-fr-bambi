@@ -76,8 +76,7 @@ Dieu est révélé ! Oui ! »
 
 
 <h1 style="color:#4ea3ff;">Résumé</h1>
-
----
+<hr class="villageois">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
 « Une fois par partie, dans la journée, posez en privé une question fermée (oui/non) au Conteur. »
@@ -217,7 +216,7 @@ Pour soutenir leur bluff, vous pouvez faire semblant de répondre en faisant oui
 ---
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>Lorsque vous bluffez l'Artiste,</strong> il y a quelques éléments à garder en tête:
+Lorsque vous bluffez <strong>l'Artiste,</strong> il y a quelques éléments à garder en tête:
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
