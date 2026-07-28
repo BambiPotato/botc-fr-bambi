@@ -68,15 +68,12 @@ image: /images/Icon_snakecharmer.png
   </a>
 </div>
 
-<hr class="explication">
+
 
 
 
 ## <span style="color:#4ea3ff;">Résumé</span>  
-
-
-
-<hr class="explication">
+<hr class="villageois">
 
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
