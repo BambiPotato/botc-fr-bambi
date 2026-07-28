@@ -22,14 +22,12 @@ image: /images/carousel.png
   </a>
 </div>
 
-<!-- Titre principal -->
-<h1 style="color:#d4a76a; font-weight:800; font-size:20px; text-align:left; margin:10px 0 4px;">
-   The Carousel Expérimental
-</h1>
+
+<hr class="explication">
 
 <!-- INTRO -->
 <p style="text-align:left; color:#f5f5f5; font-style:italic; font-size:16px; margin-top:6px; line-height:1.7;">
-  «  <strong>Les rôles expérimentaux du <em>Carrousel</em></strong> ouvrent la porte à de nouvelles mécaniques audacieuses et inédites.<br>
+«  <strong>Les rôles expérimentaux du <em>Carrousel</em></strong> ouvrent la porte à de nouvelles mécaniques audacieuses et inédites.<br>
 Pensés pour les joueurs et Conteurs aguerris.<br>
 Ces rôles repoussent les limites de <em>Blood on the Clocktower</em> <br>
 et invitent à explorer des expériences de jeu aussi surprenantes que captivantes. »
@@ -57,7 +55,7 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
   line-height:1.6;
 ">
   <p style="font-weight:bold; color:#d4a76a; margin-top:0; margin-bottom:8px;">
-    Rôles Expérimentaux
+  Les rôles expérimentaux
   </p>
 <p style="font-weight:bold; color:#80aee0; margin-bottom:4px;">Villageois</p>
 <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
@@ -147,7 +145,7 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
   <li><a href="legendaire_roles/ferryman.html" style="color:#e0b97a; text-decoration:none;">Le Passeur</a></li>
 </ul>
 
-<p style="font-weight:bold; color:#4caf50; margin-bottom:4px;">Lorics 🌿</p>
+<p style="font-weight:bold; color:#7fd1ae; margin-bottom:4px;">Loric 🌿</p>
 <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
   <li><a href="loric_roles/stormcatcher.html" style="color:#4caf50; text-decoration:none;">Chasseur d'orages</a></li>
   <li><a href="loric_roles/bootlegger.html" style="color:#4caf50; text-decoration:none;">Contrebandier</a></li>
@@ -168,7 +166,7 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
 
  
 <!-- SOMMAIRE NUMÉROTÉ -->
-<h2 style="color:#d4a76a; font-weight:800; font-size:18px; text-align:left; margin-top:18px;"> Sommaire</h2>
+<h2 style="color:#d4a76a; font-weight:800; font-size:22px; text-align:left; margin-top:18px;"> Sommaire</h2>
 <ol style="color:#d4a76a; font-size:18px; line-height:1.7; padding-left:14px; margin-top:6px;">
   <li><a href="#1-synopsis" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Synopsis</a></li>
   <li><a href="#2-gameplay" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Gameplay</a></li>
@@ -183,8 +181,10 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
 
 
 <!-- 1. SYNOPSIS -->
-<h2 id="1-synopsis" style="color:#d4a76a; font-weight:800; font-size:16px; text-align:left; margin-top:18px;">1. Synopsis</h2>
-<h3 style="color:#f5f5f5; font-weight:800; font-size:20px; text-align:left; margin:6px 0 10px;">The Carousel Expérimental</h3>
+<h2 id="1-synopsis" style="color:#d4a76a; font-weight:800; font-size:22px; text-align:left; margin-top:18px;">1. Synopsis</h2>
+<hr>
+
+<h3 style="color:#f5f5f5; font-weight:800; font-size:22px; text-align:left; margin:6px 0 10px;">The Carousel Expérimental</h3>
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:22px;">
   <li>Les rôles expérimentaux sont des rôles qui <strong>n’ont pas encore de script officiel attitré</strong>.</li>
   <li>Ils pourraient, à l’avenir, être intégrés dans des extensions officielles de <em>Blood on the Clocktower</em>.</li>
@@ -192,7 +192,7 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
 </ul>
 
 <!-- 2. GAMEPLAY -->
-<h2 id="2-gameplay" style="color:#d4a76a; font-weight:800; font-size:16px; text-align:left; margin-top:18px;">2. Gameplay</h2>
+<h2 id="2-gameplay" style="color:#d4a76a; font-weight:800; font-size:22px; text-align:left; margin-top:18px;">2. Gameplay</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
    <span style="color:#f5f5f5; font-weight:bold;">Niveau : Expérimenté</span><br>
    Les rôles expérimentaux du <em>Carousel</em> sont recommandés aux joueurs et Conteurs ayant déjà une bonne expérience du jeu <em>Blood on the Clocktower</em>.
@@ -358,10 +358,11 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
 
 </div>
 
-<hr style="border-color:rgba(224,185,122,0.2); margin:14px 0 10px;">
+
 
 <!--  ÉTRANGERS -->
 <h2 id="4-etrangers" style="color:#4ea3ff; font-weight:800; font-size:22px; text-align:left;">Marginaux</h2>
+<hr class="explication">
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
 
@@ -425,6 +426,7 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
 
 <!--  SBIRES -->
 <h2 id="5-sbires" style="color:#d45b5b; font-weight:800; font-size:22px; text-align:left;">Sbires</h2>
+<hr> 
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
 
@@ -504,10 +506,11 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
   </a>
 </div>
 
-<hr style="border-color:rgba(224,185,122,0.2); margin:14px 0 10px;">
+
 
 <!-- DÉMONS -->
 <h2 id="6-demons" style="color:#d45b5b; font-weight:800; font-size:22px; text-align:left;">Démons</h2>
+<hr> 
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
 
@@ -562,10 +565,11 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
   </a>
 </div>
 
-<hr style="border-color:rgba(224,185,122,0.2); margin:14px 0 10px;">
+
 
 <!--  LÉGENDAIRES -->
-<h2 id="7-legendaires" style="color:#e0b97a; font-weight:800; font-size:22px; text-align:left;">Légendaires</h2>
+<h2 id="7-legendaires" style="color:#d4a76a; font-weight:800; font-size:22px; text-align:left;">Légendaires</h2>
+<hr> 
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
   <a href="legendaire_roles/deusexfiasco.html" style="text-decoration:none; width:280px; text-align:center;">
@@ -579,10 +583,11 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
   </a>
 </div>
 
-<hr style="border-color:rgba(224,185,122,0.2); margin:14px 0 10px;">
+
 
 <!-- LORICS -->
-<h2 id="8-lorics" style="color:#4caf50; font-weight:800; font-size:22px; text-align:left;">Lorics</h2>
+<h2 id="8-lorics" style="color:#7fd1ae; font-weight:800; font-size:22px; text-align:left;">Loric</h2>
+<hr> 
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
 
@@ -622,10 +627,11 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
   </a>
 </div>
 
-<hr style="border-color:rgba(224,185,122,0.2); margin:14px 0 10px;">
+
 
 <!-- 9. VOYAGEURS -->
 <h2 id="9-voyageurs" style="color:#9b59b6; font-weight:800; font-size:22px; text-align:left;">Voyageurs</h2>
+<hr> 
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
   <a href="voyageurs/cacklejack.html" style="text-decoration:none; width:280px; text-align:center;">
