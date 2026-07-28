@@ -69,8 +69,7 @@ image: "/images/Icon_mutant.png"
 
 
 <h3 style="color:#4ea3ff; font-weight:bold;">Résumé</h3>
-
----
+<hr class="villageois">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
 « Si vous vous montrez <strong>« fou »</strong>  d’être un Marginal, vous pourriez être exécuté.»
@@ -209,7 +208,7 @@ Instructions au Conteur
 ---
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>Lorsque vous bluffez la Bête de foire,</strong> il y a quelques éléments à garder en tête:
+Lorsque vous bluffez la <strong>Bête de foire,</strong> il y a quelques éléments à garder en tête :
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
