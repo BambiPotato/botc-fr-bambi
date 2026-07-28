@@ -39,8 +39,8 @@
 
     let url;
     try {
-      url = new URL(href, window.location.href);
-    } catch (error) {
+      url = new URL(link.href, window.location.href);
+    } catch {
       return null;
     }
 
@@ -49,16 +49,6 @@
     }
 
     if (url.pathname === window.location.pathname && !url.search) {
-      return null;
-    }
-
-    /*
-     * On conserve uniquement les liens vers les pages HTML du wiki.
-     */
-    if (
-      !url.pathname.endsWith(".html") &&
-      !url.pathname.endsWith("/")
-    ) {
       return null;
     }
 
@@ -133,7 +123,6 @@
       const response = await fetch(key, {
         method: "GET",
         credentials: "same-origin",
-        cache: "no-store",
         headers: {
           Accept: "text/html"
         }
@@ -163,13 +152,7 @@
 
       cache.set(key, description);
       return description;
-    } catch (error) {
-      console.error(
-        "Impossible de charger la description de l’infobulle :",
-        key,
-        error
-      );
-
+    } catch {
       cache.set(key, "");
       return "";
     }
@@ -201,7 +184,6 @@
       return;
     }
 
-    // Gestion du survol de la souris
     document.addEventListener("mouseover", event => {
       const link = event.target.closest("a[href]");
       if (!link) return;
@@ -219,7 +201,6 @@
       }
     });
 
-    // Gestion de la navigation au clavier (Focus)
     document.addEventListener("focusin", event => {
       const link = event.target.closest("a[href]");
       if (!link) return;
