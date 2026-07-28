@@ -71,19 +71,16 @@ image: /images/Icon_pithag.png
 
 
 
-<hr class="sbire">
-
 
 <h2 style="color:#d45b5b;">Résumé</h2>
-
-
 <hr class="sbire">
 
 
-<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:22px; margin-top:-10px;">
 « Chaque nuit*, choisissez un joueur et le rôle qu’il devient (s’il n’est pas en jeu). Si un Démon est créé, les morts de cette nuit sont arbitraires. »
 </p>
-<p class="botc-flavour-text dropcap">
+
+<p class="botc-flavour-text dropcap" style="margin:0;">
 <strong>LA GUENAUDE</strong> force les joueurs à changer de rôle.
 </p>
 
@@ -101,10 +98,9 @@ image: /images/Icon_pithag.png
 </ul>
 
 <h2 style="color:#d45b5b;">Comment Conter</h2>
+<hr> 
 
----
-
-<p class="botc-flavour-text dropcap">
+<p class="botc-flavour-text dropcap" style="margin:0;">
 Instructions au Conteur
 </p>
 
@@ -146,8 +142,7 @@ L’équipe du Bien devra tuer les deux pour l’emporter.
 
 
 <h2 style="color:#d45b5b;">Exemples</h2>
-
----
+<hr> 
 
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
@@ -170,8 +165,7 @@ L’équipe du Bien devra tuer les deux pour l’emporter.
 </ul>
 
 <h2 style="color:#d45b5b;">Conseils &amp; Astuces</h2>
-
----
+<hr> 
 
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
@@ -264,8 +258,7 @@ L’équipe du Bien devra tuer les deux pour l’emporter.
 </ul>
 
 <h2 style="color:#d45b5b;">Combattre la Guenaude</h2>
-
----
+<hr> 
 
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
@@ -339,7 +332,7 @@ L’équipe du Bien devra tuer les deux pour l’emporter.
     le Conteur choisit quel joueur c’est.
   </li>
 
-  <!-- GOON -->
+  <!-- Gros bras -->
   <li>
     🧞
     <img src="../images/Icon_goon.png" alt="Brute" width="24"
