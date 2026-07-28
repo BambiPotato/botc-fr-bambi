@@ -64,8 +64,7 @@ image: /images/Icon_klutz.png
 
 
 <h2 style="color:#4ea3ff; font-weight:bold;">Résumé</h2>
-
----
+<hr class="villageois">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
 « Lorsque vous apprenez que vous êtes mort, choisissez publiquement 1 joueur en vie. S’il est maléfique, votre équipe perd. »
@@ -196,7 +195,7 @@ Les nouveaux joueurs peuvent avoir du mal à comprendre comment fonctionne ce r�
 ---
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>Lorsque vous bluffez le Maladroit,</strong> il y a quelques éléments à garder en tête:
+Lorsque vous bluffez le <strong>Maladroit,</strong> il y a quelques éléments à garder en tête:
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
