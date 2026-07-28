@@ -93,8 +93,7 @@ Il n’apprend pas quels joueurs sont des Sbires, ni combien de Sbires ont nomm�
 </ul>
 
 <h2><span style="color:#4ea3ff;">Comment Conter</span></h2>
-
-<hr class="explication">
+<hr>
 
 <p class="botc-flavour-text dropcap">
 Instructions au Conteur
@@ -126,8 +125,7 @@ Chacun vous répond sans mentir en faisant oui ou non de la tête, puis se rendo
 </div>
 
 <h2><span style="color:#4ea3ff;">Exemples</span></h2>
-
----
+<hr>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
@@ -151,8 +149,7 @@ Cette nuit-là, le <strong>Crieur public</strong> apprend un <strong>« non »</
 </ul>
 
 <h2><span style="color:#4ea3ff;">Conseils &amp; Astuces</span></h2>
-
----
+<hr>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 • Faites attention à qui nomme !<br>
@@ -195,8 +192,7 @@ Après tout, le but du jeu est d’exécuter le <a href="../demons.html" style="
 </p>
 
 <h2><span style="color:#4ea3ff;">Bluffer le Crieur public</span></h2>
-
----
+<hr>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Lorsque vous bluffez en prétendant être le <strong>Crieur public</strong>, gardez les points suivants à l’esprit :
