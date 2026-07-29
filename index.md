@@ -206,47 +206,6 @@ data-tooltip="Suis-nous sur Instagram">
     filter:drop-shadow(0 5px 8px rgba(0,0,0,0.22));
     opacity:1;
   }
-
-  .clocktower-separator {
-    display:flex;
-    align-items:center;
-    justify-content:center;
-    width:60%;
-    margin:28px auto;
-  }
-
-  .clocktower-separator::before,
-  .clocktower-separator::after {
-    content:"";
-    flex:1;
-    height:1px;
-  }
-
-  .clocktower-separator::before {
-    background:linear-gradient(
-      to right,
-      transparent,
-      rgba(181,139,82,0.55)
-    );
-  }
-
-  .clocktower-separator::after {
-    background:linear-gradient(
-      to left,
-      transparent,
-      rgba(181,139,82,0.55)
-    );
-  }
-
-  .clocktower-separator span {
-    width:7px;
-    height:7px;
-    margin:0 12px;
-    border:1px solid rgba(181,139,82,0.75);
-    background-color:rgba(181,139,82,0.22);
-    transform:rotate(45deg);
-    box-shadow:0 0 5px rgba(181,139,82,0.18);
-  }
 </style>
 
 <!-- PAGE D’ACCUEIL - WIKI BOTC FR -->
@@ -262,9 +221,17 @@ data-tooltip="Suis-nous sur Instagram">
     « Un wiki communautaire pour jouer et conter en français. »
   </p>
 
-  <div class="clocktower-separator" aria-hidden="true">
-    <span></span>
-  </div>
+  <div style="
+    width:60%;
+    height:1px;
+    margin:28px auto;
+    background:linear-gradient(
+      to right,
+      transparent,
+      rgba(181,139,82,0.55),
+      transparent
+    );
+  "></div>
 
   <p style="font-size:20px; color:#e0c99d; font-style:italic; line-height:1.7; margin:0;">
     Tout le contenu de
