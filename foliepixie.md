@@ -13,6 +13,7 @@ image: /images/Icon_pixie.png
 
 <hr class="explication">
 
+
 <!-- Pixie -->
 <div style="text-align:center; margin: 20px 0%;">
   <a href="./roles_experimentaux/pixie.html" style="text-decoration:none;">
@@ -23,6 +24,7 @@ image: /images/Icon_pixie.png
 </div>
 
 <hr class="villageois">
+
 
 <h2 style="color:#4ea3ff;"><span id="informations">Informations</span></h2>
 
