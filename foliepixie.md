@@ -18,7 +18,7 @@ image: /images/Icon_pixie.png
   <a href="./pixie.html" style="text-decoration:none;">
     <img src="./images/Icon_pixie.png" alt="Pixie" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#4ea3ff; font-weight:bold; font-size:30px;">Comment conter la "Folie" pour la Pixie</span>
+    <span style="color:#4ea3ff; font-weight:bold; font-size:30px;">Comment Conter la folie pour la Pixie par Steven Medway</span>
   </a>
 </div>
 
@@ -75,7 +75,7 @@ image: /images/Icon_pixie.png
 
 <!-- ===== Titre ===== -->
 <h1 style="color:#b58b52; font-weight:bold; font-size:22px; text-shadow:2px 2px 6px #000;">
-Comment conter la Pixie (par Steven Medway)
+Comment Conter la folie pour la Pixie par Steven Medway
 </h1>
 
 <!-- ===== Definition ===== -->
