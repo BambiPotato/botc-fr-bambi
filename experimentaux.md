@@ -18,7 +18,7 @@ image: /images/carousel.png
   <a href="./experimentaux.html" style="text-decoration:none;">
     <img src="./images/carousel.png" alt="The Carousel Expérimental" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#d4a76a; font-weight:bold; font-size:22px;">🎠 The Carousel Expérimental</span>
+    <span style="color:#d4a76a; font-weight:bold; font-size:22px;">🎠 The Carousel Experimental</span>
   </a>
 </div>
 
@@ -182,9 +182,10 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
 </ol>
 
 
+<hr class="explication">
+
 <!-- 1. SYNOPSIS -->
 <h2 id="1-synopsis" style="color:#d4a76a; font-weight:800; font-size:22px; text-align:left; margin-top:18px;">1. Synopsis</h2>
-<hr>
 <h3 style="color:#f5f5f5; font-weight:800; font-size:22px; text-align:left; margin:6px 0 10px;">Les rôles expérimentaux (Carousel Experimental)</h3>
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:22px;">
   <li>Les rôles expérimentaux sont des rôles qui <strong>n’ont pas encore de module officiel attitré</strong>.</li>
@@ -203,12 +204,13 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
 
 <!--  VILLAGEOIS -->
 
-<div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
+
 
 <h2 id="3-villageois" style="color:#4ea3ff; font-weight:800; font-size:22px; text-align:left;"> Villageois</h2>
 <hr>
 
-
+<div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
+  
   <a href="roles_experimentaux/acrobat.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_acrobat.png" alt="Acrobate" style="width:280px; border-radius:12px;">
     <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:18px; margin-top:6px;">Acrobate</span>
