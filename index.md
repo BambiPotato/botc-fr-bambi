@@ -423,7 +423,7 @@ data-tooltip="Suis-nous sur Instagram">
   </tr>
 </table>
 
-<!-- Rôles  -->
+<!-- les rôles par édition  -->
 <h1 style="
   color:#b58b52;
   font-size:20px;
@@ -432,7 +432,7 @@ data-tooltip="Suis-nous sur Instagram">
   padding-left:16px;
   margin-bottom:14px;
 ">
-  Rôles 
+  Les rôles par édition
 </h1>
 
 <style>
@@ -552,48 +552,17 @@ table.roles-grid td{
     </td>
   </tr>
 
-  <tr>
-    <!--  Voyageurs -->
-    <td>
-      <a href="./voyageurs/voyageurs.html">
-        <span class="rg-media">
-          <img src="./images/Generic_traveller.png" alt="Voyageurs">
-        </span>
-        <span class="rg-title">Voyageurs</span>
-      </a>
-    </td>
 
-    <!--  The Carousel Expérimental -->
+    <!--  The Carousel  -->
     <td>
       <a href="./experimentaux.html">
         <span class="rg-media">
           <img src="./images/carousel.png" alt="The Carousel Expérimental">
         </span>
-        <span class="rg-title">The Carousel Expérimentaux</span>
+        <span class="rg-title">The Carousel </span>
       </a>
     </td>
 
-    <!--  Légendaires -->
-    <td>
-      <a href="./legendaire.html">
-        <span class="rg-media">
-          <img src="./images/Generic_fabled.png" alt="Légendaires" style="opacity:.65; filter:grayscale(15%);">
-        </span>
-        <span class="rg-title">Légendaires</span>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <!--  Lorics -->
-    <td>
-      <a href="./loric.html">
-        <span class="rg-media">
-          <img src="./images/Generic_loric.png" alt="Lorics">
-        </span>
-        <span class="rg-title">Loric</span>
-      </a>
-    </td>
 
     <!--  Garden of Sin -->
     <td>
@@ -608,7 +577,7 @@ table.roles-grid td{
 
     <!--  The Tomb -->
     <td>
-      <a  href="./trouble_brewing.html">
+      <a  href="#" onclick="return false;">
         <span class="rg-media">
           <img src="./images/logo_the_tomb.png" alt="The Tomb">
         </span>
@@ -621,7 +590,7 @@ table.roles-grid td{
   <tr>
     <!-- Midnight in the House of the Damned -->
     <td>
-      <a href="./trouble_brewing.html">
+      <a href="#" onclick="return false;">
         <span class="rg-media">
           <img src="./images/logo_midnight_in_the_house_of_the_damned.png" alt="Midnight in the House of the Damned">
         </span>
@@ -632,7 +601,7 @@ table.roles-grid td{
 
     <!-- The Greatest Show on Earth -->
     <td>
-      <a  href="./trouble_brewing.html">
+      <a  href="#" onclick="return false;">  
         <span class="rg-media">
           <img src="./images/logo_the_greatest_show_on_earth.png" alt="The Greatest Show on Earth">
         </span>
@@ -654,8 +623,10 @@ table.roles-grid td{
   padding-left:16px;
   margin-bottom:14px;
 ">
-  Catégories
+   Les rôles par catégorie
 </h2>
+
+<hr>
 
 <div style="width:100%; text-align:left;">
 
