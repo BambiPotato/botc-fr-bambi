@@ -477,7 +477,7 @@ data-tooltip="Suis-nous sur Instagram">
     </td>
 
     <!-- Case vide invisible -->
-    <td style="background: none; border: none; box-shadow: none;"></td>
+    <td style="background: transparent !important; border: none !important; box-shadow: none !important;"></td>
   </tr>
 </table>
 
