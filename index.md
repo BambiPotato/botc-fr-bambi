@@ -264,7 +264,7 @@ data-tooltip="Suis-nous sur Instagram">
    target="_blank"
    rel="noopener noreferrer"
    class="ccc-logo"
-   title="Community Created Content">
+   title="Politique Community Created Content">
   <img src="images/ccc-parchment.png"
        alt="Community Created Content"
        width="220"
@@ -725,7 +725,7 @@ table.roles-grid td{
   <td style="width:50%; text-align:center; padding:12px; background:rgba(0,0,0,0.45); border:1px solid #b58b52; border-radius:12px;">
     <a href="./loric.html" style="text-decoration:none; display:inline-block;">
       <img src="./images//Generic_loric.png" alt="Lorics" width="240" style="border-radius:12px;">
-      <div style="margin-top:8px; color:#7fd1ae; font-weight:bold; font-size:20px;">Lorics</div>
+      <div style="margin-top:8px; color:#7fd1ae; font-weight:bold; font-size:20px;">Loric</div>
     </a>
   </td>
 
