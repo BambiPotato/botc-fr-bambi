@@ -74,7 +74,7 @@ image: /images/Icon_pixie.png
 </ul>
 
 <h2 style="color:#f5f5f5;"><span id="resume">Résumé</span></h2>
-<hr class="villageois">
+<hr class="explication">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
 « Lors de votre 1<sup>re</sup> nuit, vous apprenez un rôle de Villageois en jeu. Si vous étiez fou d’être ce rôle, gagnez sa capacité à sa mort. »
@@ -221,6 +221,14 @@ La Pixie n’est jamais forcée de dire quoi que ce soit. Le Conteur ne juge pas
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 • <a href="./experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Carrousel les rôles expérimentaux</a>
 </p>
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-• <a href="./index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a>
-</p>
+
+<hr class="explication">
+
+<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+ <li> <a href="./trouble_brewing.md" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li> <a href="./bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
+  <li> <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a></li>
+  <li> <a href="./experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Carrousel les rôles expérimentaux</a></li>
+  <li> <a href="./index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
+</ul> 
+
