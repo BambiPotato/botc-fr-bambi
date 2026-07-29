@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Comment Conter la Pixie par Steven Medway
+title: Comment Conter la folie pour la Pixie par Steven Medway
 description: Steven Medway a détaillé le fonctionnement de la folie pour la Pixie.
 image: /images/Icon_pixie.png
 ---
@@ -18,7 +18,7 @@ image: /images/Icon_pixie.png
   <a href="./pixie.html" style="text-decoration:none;">
     <img src="./images/Icon_pixie.png" alt="Pixie" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#4ea3ff; font-weight:bold; font-size:40px;">Pixie</span>
+    <span style="color:#4ea3ff; font-weight:bold; font-size:30px;">Comment conter la "Folie" pour la Pixie</span>
   </a>
 </div>
 
