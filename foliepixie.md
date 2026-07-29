@@ -18,7 +18,7 @@ image: /images/Icon_pixie.png
   <a href="./pixie.html" style="text-decoration:none;">
     <img src="./images/Icon_pixie.png" alt="Pixie" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#4ea3ff; font-weight:bold; font-size:30px;">Comment Conter la folie pour la Pixie par Steven Medway</span>
+    <span style="color:#4ea3ff; font-weight:bold; font-size:30px;">Comment Conter la folie pour la Pixie</span>
   </a>
 </div>
 
@@ -69,7 +69,7 @@ image: /images/Icon_pixie.png
 <h2 style="color:#f5f5f5;"><span id="resume">Résumé</span></h2>
 <hr class="explication">
 
-<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:21px; margin:0 0 8px 0;">
 « Lors de votre 1<sup>re</sup> nuit, vous apprenez un rôle de Villageois en jeu. Si vous étiez fou d’être ce rôle, gagnez sa capacité à sa mort. »
 </p>
 
