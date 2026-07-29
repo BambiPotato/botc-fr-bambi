@@ -16,7 +16,7 @@ image: /images/Icon_atheist.png
 <!-- Athée -->
 <div style="text-align:center; margin: 20px 0%;">
   <a href="./roles_experimentaux/atheist.html" style="text-decoration:none;">
-    <img src="../images/Icon_atheist.png" width="260" style="border-radius:12px;">
+    <img src="./images/Icon_atheist.png" width="260" style="border-radius:12px;">
     <br>
     <span style="color:#4ea3ff; font-weight:bold; font-size:30px;">Comment conter l'Athée</span>
   </a>
@@ -298,8 +298,7 @@ Vous avez donc décidé de mettre un Athée dans Trouble Brewing. Choix très sy
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
 • <a href="./roles_experimentaux/atheist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">L'Athée</a><br>
-• <a href="./tb_roles/mercenaire.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">La Pourfendeuse</a><br>
-• <a href="./sv_roles/cerenovus.html" style="color:#e05252; font-weight:bold; text-decoration:none;">Le Cerenovus</a><br>
+• <a href="./tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">La Pourfendeuse</a><br>
 • <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">La Lavandière</a><br>
 • <a href="./sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Le Savant</a><br>
 • <a href="./conteur.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Conseils pour les Conteurs et Conteuses</a>
