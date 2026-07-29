@@ -432,7 +432,7 @@ data-tooltip="Suis-nous sur Instagram">
 
     <!-- Garden of Sin -->
     <td>
-      <a href="./trouble_brewing.html">
+      <a href="#" onclick="return false;">
         <span class="rg-media">
           <img src="./images/logo_garden_of_sin.png" alt="Garden of Sin">
         </span>
@@ -476,8 +476,8 @@ data-tooltip="Suis-nous sur Instagram">
       </a>
     </td>
 
-    <!-- Case vide -->
-    <td></td>
+    <!-- Case vide invisible -->
+    <td style="background: none; border: none; box-shadow: none;"></td>
   </tr>
 </table>
 
