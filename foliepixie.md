@@ -15,7 +15,7 @@ image: /images/Icon_pixie.png
 
 <!-- Pixie -->
 <div style="text-align:center; margin: 20px 0%;">
-  <a href="./pixie.html" style="text-decoration:none;">
+  <a href="./roles_experimentaux/pixie.html" style="text-decoration:none;">
     <img src="./images/Icon_pixie.png" alt="Pixie" width="260" style="border-radius:12px;">
     <br>
     <span style="color:#4ea3ff; font-weight:bold; font-size:30px;">Comment Conter la folie pour la Pixie</span>
