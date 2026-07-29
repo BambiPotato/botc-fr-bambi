@@ -190,21 +190,66 @@ data-tooltip="Suis-nous sur Instagram">
 
 
 <style>
-.ccc-logo{
-display:inline-block;
-margin-top:24px;
-transition:transform .18s ease, filter .18s ease, opacity .18s ease;
-opacity:.95;
-}
+  .ccc-logo {
+    display:inline-block;
+    margin-top:20px;
+    line-height:0;
+    opacity:0.95;
+    transition:
+      transform 0.18s ease,
+      filter 0.18s ease,
+      opacity 0.18s ease;
+  }
 
-.ccc-logo:hover{
-transform:translateY(-2px) scale(1.035);
-filter:drop-shadow(0 5px 8px rgba(0,0,0,.22));
-opacity:1;
-}
+  .ccc-logo:hover {
+    transform:translateY(-2px) scale(1.035);
+    filter:drop-shadow(0 5px 8px rgba(0,0,0,0.22));
+    opacity:1;
+  }
+
+  .clocktower-separator {
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    width:60%;
+    margin:28px auto;
+  }
+
+  .clocktower-separator::before,
+  .clocktower-separator::after {
+    content:"";
+    flex:1;
+    height:1px;
+  }
+
+  .clocktower-separator::before {
+    background:linear-gradient(
+      to right,
+      transparent,
+      rgba(181,139,82,0.55)
+    );
+  }
+
+  .clocktower-separator::after {
+    background:linear-gradient(
+      to left,
+      transparent,
+      rgba(181,139,82,0.55)
+    );
+  }
+
+  .clocktower-separator span {
+    width:7px;
+    height:7px;
+    margin:0 12px;
+    border:1px solid rgba(181,139,82,0.75);
+    background-color:rgba(181,139,82,0.22);
+    transform:rotate(45deg);
+    box-shadow:0 0 5px rgba(181,139,82,0.18);
+  }
 </style>
 
-<!--  PAGE D’ACCUEIL - WIKI BOTC FR -->
+<!-- PAGE D’ACCUEIL - WIKI BOTC FR -->
 
 <div style="text-align:center; margin:40px auto 0 auto; max-width:980px; padding:30px 24px; border:1px solid rgba(212,167,106,0.3); border-radius:14px; box-shadow:0 8px 18px rgba(0,0,0,0.28); background-color:rgba(0,0,0,0.45);">
 
@@ -217,19 +262,16 @@ opacity:1;
     « Un wiki communautaire pour jouer et conter en français. »
   </p>
 
-  <div style="
-    width:60%;
-    height:1px;
-    margin:28px auto;
-    background:linear-gradient(to right,
-      transparent,
-      rgba(181,139,82,0.55),
-      transparent);
-  "></div>
+  <div class="clocktower-separator" aria-hidden="true">
+    <span></span>
+  </div>
 
   <p style="font-size:20px; color:#e0c99d; font-style:italic; line-height:1.7; margin:0;">
     Tout le contenu de
-    <a href="https://bloodontheclocktower.com/" target="_blank" rel="noopener noreferrer" style="color:#d4a76a; font-weight:bold; text-decoration:none;">
+    <a href="https://bloodontheclocktower.com/"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#d4a76a; font-weight:bold; text-decoration:none;">
       Blood on the Clocktower
     </a>
     appartient à
@@ -240,26 +282,15 @@ opacity:1;
      target="_blank"
      rel="noopener noreferrer"
      class="ccc-logo"
-     title="En savoir plus sur la Community Created Content Policy">
+     title="Consulter la politique officielle Community Created Content">
     <img src="images/ccc-parchment.png"
          alt="Community Created Content"
-         width="185">
+         width="195"
+         style="display:block; max-width:100%; height:auto;">
   </a>
-
-  <div style="
-    margin-top:8px;
-    color:#b58b52;
-    font-size:14px;
-    font-style:italic;
-    opacity:.85;
-  ">
-    Community Created Content
-  </div>
 
 </div>
 
-
-<hr style="margin:16px auto; max-width:980px; border:0; border-top:1px solid rgba(181,139,82,.25);">
 
 <!-- ====== INFORMATIONS SUR LE JEU ====== -->
 
