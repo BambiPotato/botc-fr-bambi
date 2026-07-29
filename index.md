@@ -191,7 +191,7 @@ data-tooltip="Suis-nous sur Instagram">
 <style>
   .ccc-logo {
     display:inline-block;
-    margin-top:16px;
+    margin-top:12px;
     line-height:0;
     opacity:0.95;
     cursor:pointer;
@@ -206,11 +206,25 @@ data-tooltip="Suis-nous sur Instagram">
     filter:drop-shadow(0 5px 8px rgba(0,0,0,0.22));
     opacity:1;
   }
+
+  .official-botc-link {
+    color:#d4a76a;
+    font-weight:bold;
+    text-decoration:none;
+    transition:
+      color 0.18s ease,
+      text-shadow 0.18s ease;
+  }
+
+  .official-botc-link:hover {
+    color:#f0c987;
+    text-shadow:0 0 6px rgba(212,167,106,0.35);
+  }
 </style>
 
 <!-- PAGE D’ACCUEIL - WIKI BOTC FR -->
 
-<div style="text-align:center; margin:40px auto 0 auto; max-width:980px; padding:30px 24px; border:1px solid rgba(212,167,106,0.3); border-radius:14px; box-shadow:0 8px 18px rgba(0,0,0,0.28); background-color:rgba(0,0,0,0.45);">
+<div style="text-align:center; margin:40px auto 0 auto; max-width:980px; padding:22px 24px; border:1px solid rgba(212,167,106,0.3); border-radius:14px; box-shadow:0 8px 18px rgba(0,0,0,0.28); background-color:rgba(0,0,0,0.45);">
 
   <h1 style="color:#b58b52; font-size:24px; font-weight:600; text-shadow:2px 2px 6px #000; margin:10px 0 20px 0;">
     Bienvenue sur le Wiki francophone de <br>
@@ -238,7 +252,8 @@ data-tooltip="Suis-nous sur Instagram">
     <a href="https://bloodontheclocktower.com/"
        target="_blank"
        rel="noopener noreferrer"
-       style="color:#d4a76a; font-weight:bold; text-decoration:none;">
+       class="official-botc-link"
+       title="Visiter le site officiel de Blood on the Clocktower">
       Blood on the Clocktower
     </a>
     appartient à
