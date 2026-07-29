@@ -113,9 +113,10 @@ image: /images/Logo_bad_moon_rising-1.png
   <a href="#telechargements" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Télécharger &amp; Imprimer</a>
 </p>
 
----
+
 
 ## <span id="synopsis" style="color:#ffa64d;">Synopsis</span>
+<hr>
 
 <p class="botc-flavour-text dropcap">
 Le soleil disparaît derrière l’horizon déchiqueté.<br> 
@@ -130,9 +131,10 @@ Ils se réchauffent autour d’un thé ou partagent un moment de convivialité a
 Cette nuit, même le bétail sait que la lune sera sanglante...
 </p>
 
----
+
 
 ## <span id="gameplay" style="color:#ffa64d;">Gameplay</span>
+<hr>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong>MULTIPLIE LES MORTS À UN RYTHME EFFRÉNÉ.</strong><br> 
@@ -314,13 +316,15 @@ le <a href="./bmr_roles/menestrel.html" style="color:#4ea3ff; font-weight:bold; 
 
 </div>
 
----
+
 
 <!-- ÉTRANGERS -->
 
 <p style="text-align:left; color:#e0c99d; font-size:20px;">
   <a id="etrangers" href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>
 </p>
+
+<hr>
 
 <!-- GRID ÉTRANGERS -->
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin:8px 0 6px 0;">
@@ -351,13 +355,15 @@ le <a href="./bmr_roles/menestrel.html" style="color:#4ea3ff; font-weight:bold; 
 
 </div>
 
----
+
 
 <!-- SBIRES -->
 
 <p style="text-align:left; color:#e0c99d; font-size:20px;">
   <a id="sbires" href="./sbires.html" style="color:red; font-weight:bold; text-decoration:none;">Sbires</a>
 </p>
+
+<hr>
 
 <!-- GRID SBIRES -->
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin:8px 0 6px 0;">
@@ -388,13 +394,15 @@ le <a href="./bmr_roles/menestrel.html" style="color:#4ea3ff; font-weight:bold; 
 
 </div>
 
----
+
 
 <!-- DÉMONS -->
 
 <p style="text-align:left; color:#e0c99d; font-size:20px;">
   <a id="demons" href="./demons.html" style="color:red; font-weight:bold; text-decoration:none;">Démons</a>
 </p>
+
+<hr>
 
 <!-- GRID DÉMONS -->
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin:8px 0 6px 0;">
@@ -425,7 +433,9 @@ le <a href="./bmr_roles/menestrel.html" style="color:#4ea3ff; font-weight:bold; 
 
 </div>
 
----
+
+<hr class="explication">
+
 
 ## <span id="telechargements" style="color:#ffa64d;">  Télécharger &amp; Imprimer</span>
 
