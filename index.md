@@ -247,29 +247,29 @@ data-tooltip="Suis-nous sur Instagram">
     );
   "></div>
 
-  <p style="font-size:20px; color:#e0c99d; font-style:italic; line-height:1.7; margin:0;">
-    Tout le contenu de
-    <a href="https://bloodontheclocktower.com/"
-       target="_blank"
-       rel="noopener noreferrer"
-       class="official-botc-link"
-       title="Visiter le site officiel de Blood on the Clocktower">
-      Blood on the Clocktower
-    </a>
-    appartient à
-    <span style="color:#d4a76a; font-weight:bold;">The Pandemonium Institute</span>.
-  </p>
-
-  <a href="https://bloodontheclocktower.com/pages/community-created-content-policy"
+ <p style="font-size:20px; color:#e0c99d; font-style:italic; line-height:1.7; margin:0;">
+  Tout le contenu de
+  <a href="https://bloodontheclocktower.com/"
      target="_blank"
      rel="noopener noreferrer"
-     class="ccc-logo"
-     title="Consulter la politique officielle Community Created Content">
-    <img src="images/ccc-parchment.png"
-         alt="Community Created Content"
-         width="220"
-         style="display:block; max-width:100%; height:auto;">
+     class="official-botc-link"
+     title="Site officiel de Blood on the Clocktower">
+    Blood on the Clocktower
   </a>
+  appartient à
+  <span style="color:#d4a76a; font-weight:bold;">The Pandemonium Institute</span>.
+</p>
+
+<a href="https://bloodontheclocktower.com/pages/community-created-content-policy"
+   target="_blank"
+   rel="noopener noreferrer"
+   class="ccc-logo"
+   title="Community Created Content">
+  <img src="images/ccc-parchment.png"
+       alt="Community Created Content"
+       width="220"
+       style="display:block; max-width:100%; height:auto;">
+</a>
 
 </div>
 
