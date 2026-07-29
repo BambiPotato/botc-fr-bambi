@@ -209,18 +209,6 @@ La Pixie n’est jamais forcée de dire quoi que ce soit. Le Conteur ne juge pas
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 • <a href="./conteur.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Conseils pour les Conteurs et Conteuses</a>
 </p>
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-• <a href="./trouble_brewing.md" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a>
-</p>
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-• <a href="./bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a>
-</p>
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-• <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a>
-</p>
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-• <a href="./experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Carrousel les rôles expérimentaux</a>
-</p>
 
 <hr class="explication">
 
