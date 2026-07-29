@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Comment Conter la folie pour la Pixie par Steven Medway 
+title: Comment Conter la Pixie par Steven Medway
 description: Steven Medway a détaillé le fonctionnement de la folie pour la Pixie.
 image: /images/Icon_pixie.png
 ---
@@ -62,13 +62,13 @@ image: /images/Icon_pixie.png
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.9; margin-left:40px;">
   <li><a href="#resume" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Résumé</a></li>
-  <li><a href="#folie-steven" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">La Folie expliquée par Steven Medway</a></li>
-  <li><a href="#concept-general" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Le concept général</a></li>
-  <li><a href="#fonctionnement" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Fonctionnement de la Pixie</a></li>
-  <li><a href="#jugements" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Exemples de jugements possibles</a></li>
-  <li><a href="#role-conteur" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Le rôle du Conteur</a></li>
-  <li><a href="#analogie" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Une analogie avec l’humour</a></li>
-  <li><a href="#en-resume" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">En résumé</a></li>
+  <li><a href="#definition-folie" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Définition de la Folie</a></li>
+  <li><a href="#folie-pixie" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">La Folie de la Pixie</a></li>
+  <li><a href="#jugements" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Exemples de jugements du Conteur</a></li>
+  <li><a href="#role-conteur" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Le rôle du Conteur dans la folie</a></li>
+  <li><a href="#analogie-deviant" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">L’analogie avec l’humour et le Déviant</a></li>
+  <li><a href="#objectifs-mecaniques" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Les objectifs des mécaniques du jeu</a></li>
+  <li><a href="#particularite-pixie" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">La particularité de la Pixie</a></li>
   <li><a href="#conclusion" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Conclusion</a></li>
   <li><a href="#plus-loin" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Pour aller plus loin</a></li>
 </ul>
@@ -77,117 +77,145 @@ image: /images/Icon_pixie.png
 <hr class="explication">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
-« Lors de votre 1<sup>re</sup> nuit, vous apprenez un rôle de Villageois en jeu. Si vous étiez fou d’être ce rôle, gagnez sa capacité à sa mort. »
+« Lors de votre 1<sup>re</sup> nuit, vous apprenez un rôle de Villageois en jeu. Si vous étiez fou d’être ce rôle, vous gagnez sa capacité à sa mort. »
 </p>
 
 <!-- ===== Titre ===== -->
 <h1 style="color:#b58b52; font-weight:bold; font-size:22px; text-shadow:2px 2px 6px #000;">
-Comment conter la Pixie
+Comment conter la Pixie (par Steven Medway)
 </h1>
 
-<!-- ===== Intro ===== -->
-<h3 id="folie-steven" style="color:#b58b52; font-weight:bold; font-size:20px;">La Folie expliquée par Steven Medway</h3>
+<!-- ===== Definition ===== -->
+<h2 id="definition-folie" style="color:#b58b52; font-weight:bold; font-size:20px;">Définition de la Folie</h2>
 <hr>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-À l’occasion de la sortie de la <strong>Pixie</strong>, Steven Medway a détaillé le fonctionnement de la <strong>folie</strong>. Partager cette mise au point aide les Conteurs ainsi que les joueurs à bien comprendre cette mécanique essentielle de <em>Blood on the Clocktower</em>.
+Un joueur qui est « fou » doit convaincre de quelque chose, le joueur essaie de persuader le groupe que cette chose est vraie. 
+</p>
+<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+• Certains joueurs reçoivent l'instruction d'être fou, ils doivent convaincre de quelque chose — si le Conteur estime qu'un joueur n'a pas fait d'efforts pour convaincre le groupe de la chose en question, une pénalité peut s'appliquer.<br>
+• Certains joueurs reçoivent l'instruction de <strong>ne pas</strong> être fou, de convaincre de quelque chose — si le Conteur estime qu'un joueur a essayé de convaincre le groupe de cette chose, une pénalité peut s'appliquer.
 </p>
 
-<!-- ===== Concept ===== -->
-<h2 id="concept-general" style="color:#b58b52; font-weight:bold; font-size:20px;">Le concept général</h2>
+<!-- ===== Folie de la Pixie ===== -->
+<h2 id="folie-pixie" style="color:#b58b52; font-weight:bold; font-size:20px;">La Folie de la Pixie</h2>
 <hr>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-La question centrale porte sur <strong>quand</strong> s’applique la folie et sur la notion de folie “forcée” en lien avec la Pixie. La folie peut sembler déroutante : on peut <strong>être folle ou fou maintenant</strong> sans l’avoir été <strong>toute la partie</strong>, et inversement.
-</p>
-
-<!-- ===== Fonctionnement Pixie ===== -->
-<h2 id="fonctionnement" style="color:#b58b52; font-weight:bold; font-size:20px;">Fonctionnement de la Pixie</h2>
-<hr>
-
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-• La <strong>Pixie</strong> reçoit une capacité dès <strong>le début de la partie</strong>.
+La <a href="./roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a> obtient son pouvoir de Pixie au début de la partie. Elle obtient ensuite le pouvoir du joueur dont elle prétendait follement être le rôle, <strong>immédiatement après la mort de ce joueur</strong>.
 </p>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-• Elle gagne ensuite la capacité du rôle qu’elle prétendait être <strong>immédiatement après la mort</strong> de ce rôle.
+Pour les besoins de cette explication, supposons que le rôle montré au joueur Pixie par le Conteur soit la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>.
 </p>
-
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Exemple : le conteur montre à la Pixie que le rôle imité est la <a href="./tb_roles/lavandiere.html" style="color:blue; font-weight:bold; text-decoration:none;">Lavandière</a>.<br>
-Si la Pixie a <strong>sincèrement</strong> tenté de convaincre qu’elle était la Lavandière, le Conteur peut <strong>lui accorder</strong> cette capacité. Le Conteur est <strong>le seul juge</strong> pour déterminer si le joueur a vraiment joué la <strong>folie</strong>.
+Si le Conteur estime que le joueur Pixie a sincèrement essayé de convaincre des membres du groupe, ou le groupe entier, qu'il est la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>, alors le Conteur peut donner à la <a href="./roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a> le pouvoir de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>. <strong>Le Conteur est seul juge de déterminer si le joueur Pixie est fou ou non.</strong>
 </p>
 
 <!-- ===== Exemples ===== -->
-<h2 id="jugements" style="color:#b58b52; font-weight:bold; font-size:20px;">Exemples de jugements possibles</h2>
+<h2 id="jugements" style="color:#b58b52; font-weight:bold; font-size:20px;">Exemples de jugements du Conteur</h2>
+<hr>
+
+<ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:20px;">
+  <li style="margin-bottom:10px;">
+    Si le joueur <a href="./roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a> prétendait follement être la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> au début, puis est resté silencieux pendant deux jours, le Conteur jugera très probablement que le joueur était fou de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> et lui accordera le pouvoir de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>.
+  </li>
+  <li style="margin-bottom:10px;">
+    Si le joueur <a href="./roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a> prétendait follement être la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> au début, puis a essayé de convaincre le groupe qu'il était le <a href="./sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a>, mais que tous les joueurs pensent que la <a href="./roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a> est en réalité la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>, le Conteur jugera très probablement que le joueur était fou de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> et lui accordera le pouvoir de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>.
+  </li>
+  <li style="margin-bottom:10px;">
+    Si le joueur <a href="./roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a> prétendait follement être la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> au début, puis a essayé de convaincre le groupe qu'il était le <a href="./sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a>, et que tous les joueurs croient que la <a href="./roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a> est en effet le <a href="./sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a>, le Conteur jugera très probablement que le joueur n'était pas fou de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> et ne lui accordera pas le pouvoir de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>.
+  </li>
+  <li style="margin-bottom:10px;">
+    Si le joueur <a href="./roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a> prétendait follement être la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> au début, puis a essayé de convaincre le groupe qu'il était le <a href="./sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a>, puis a essayé de convaincre le groupe qu'il était fou à cause du <a href="./sv_roles/cerenovus.html" style="color:#e05252; font-weight:bold; text-decoration:none;">Cérenovus</a> et qu'il est vraiment la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> après tout, le Conteur jugera très probablement que le joueur était fou de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> et lui accordera le pouvoir de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>.
+  </li>
+  <li style="margin-bottom:10px;">
+    Si le joueur <a href="./roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a> est d'abord resté silencieux pendant deux jours, puis s'est montré fou de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> en trouvant une raison crédible à son silence, le Conteur jugera très probablement qu'il était fou de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> et lui accordera le pouvoir de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>.
+  </li>
+  <li style="margin-bottom:10px;">
+    Si le joueur <a href="./roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a> est d'abord resté silencieux pendant deux jours, puis s'est montré fou de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> mais sans trouver de raison crédible à son silence (ou avec une raison crédible mais sans sembler faire de vrais efforts pour convaincre les gens, donnant l'impression de débiter des mots uniquement pour que le Conteur lui donne à regret le pouvoir), le Conteur jugera très probablement que le joueur n'était pas fou de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> et ne lui accordera pas le pouvoir de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>.
+  </li>
+  <li style="margin-bottom:10px;">
+    Si le joueur <a href="./roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a> prétendait follement être la <a href="./tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> pendant cinq jours, puis a dit à la hâte qu'il était la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> juste avant que la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> ne soit exécutée, le Conteur jugera très probablement qu'il n'était pas fou de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> et ne lui accordera pas le pouvoir de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>.
+  </li>
+  <li style="margin-bottom:10px;">
+    Si le joueur <a href="./roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a> prétendait follement être la <a href="./tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> pendant cinq jours, puis a dit qu'il était la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> avec un argument très convaincant pour expliquer pourquoi il avait bluffé en <a href="./tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>, qu'il donne ses informations de <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>, que cela suscite le débat, que les autres joueurs commencent à croire qu'il est la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> et à utiliser ses fausses informations dans la partie, puis que la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> meurt par exécution ce jour-là, alors le Conteur jugera très probablement que le joueur était fou de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> et lui accordera le pouvoir de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>.
+  </li>
+</ul>
+
+<!-- ===== Rôle du Conteur ===== -->
+<h2 id="role-conteur" style="color:#b58b52; font-weight:bold; font-size:20px;">Le rôle du Conteur dans la folie</h2>
 <hr>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-• Le joueur <strong>Pixie</strong> prétend être la <a href="./tb_roles/lavandiere.html" style="color:blue; font-weight:bold; text-decoration:none;">Lavandière</a>, puis reste discret deux jours → il a probablement été <strong>« fou »</strong> d'être ce rôle, il obtient la capacité.
+Qu'un joueur « soit » fou ou non relève entièrement du jugement du Conteur. Il n'y a pas de règles strictes sur ce qui peut ou ne peut pas être dit, ni sur le moment où cela doit ou ne doit pas être dit. Chaque situation est différente.
 </p>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-• Ensuite, il prétend être le <a href="./sv_roles/savant.html" style="color:blue; font-weight:bold; text-decoration:none;">Savant</a>, mais tout le monde le croit encore Lavandière → il conserve la capacité.
+Ce qui compte, c'est de savoir si le Conteur estime que le joueur <a href="./roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a> :
 </p>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-• Si désormais tout le monde la croit Savant → il <strong>ne</strong> reçoit <strong>pas</strong> la nouvelle capacité.
+• Fait des efforts et est sincère dans ses tentatives de convaincre les autres qu'il est la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> ;<br>
+• Fournit de bons arguments montrant que ses informations de <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> sont correctes et doivent être écoutées ;<br>
+• Réussit à se faire croire par les autres joueurs, etc.
 </p>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-• S'il explique son changement par l’influence d’un <a href="./sv_roles/cerenovus.html" style="color:red; font-weight:bold; text-decoration:none;">Cerenovus</a>, le conteur peut juger qu’il est redevenu <strong>« fou »</strong>.
-</p>
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-• Explication crédible et comportement cohérent → capacité accordée.
-</p>
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-• Justification forcée et peu convaincante → capacité refusée.
+Le moment précis où le joueur <a href="./roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a> a été fou et ce qu'il a dit ou fait d'exactement identifiable comme « fou » ne peuvent pas être codifiés par une règle stricte.
 </p>
 
-<!-- ===== Rôle du conteur ===== -->
-<h2 id="role-conteur" style="color:#b58b52; font-weight:bold; font-size:20px;">Le rôle du Conteur</h2>
+<!-- ===== Analogie Déviant ===== -->
+<h2 id="analogie-deviant" style="color:#b58b52; font-weight:bold; font-size:20px;">L’analogie avec l’humour et le Déviant</h2>
 <hr>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Savoir si un joueur est <strong>« fou »</strong> dépend <strong>entièrement</strong> du jugement du Conteur. Il n’y a pas de règle rigide sur ce qui doit être dit ni sur le moment exact. Chaque situation est unique. Ce qui compte :
+Évaluer la folie revient à évaluer l'humour. Le <a href="./voyageurs/deviant.html" style="color:#20b2aa; font-weight:bold; text-decoration:none;">Déviant</a> en est un bon exemple :
 </p>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-• l’effort et la sincérité ;
-</p>
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-• la cohérence des propos et des actes ;
-</p>
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-• la réaction des autres joueuses.
+• Si le <a href="./voyageurs/deviant.html" style="color:#20b2aa; font-weight:bold; text-decoration:none;">Déviant</a> a fait rire au début de la journée mais plus à la fin, le Conteur peut juger le <a href="./voyageurs/deviant.html" style="color:#20b2aa; font-weight:bold; text-decoration:none;">Déviant</a> drôle aujourd'hui.<br>
+• S'il a fait rire à la fin de la journée mais pas au début, le Conteur peut aussi le juger drôle.<br>
+• Si le <a href="./voyageurs/deviant.html" style="color:#20b2aa; font-weight:bold; text-decoration:none;">Déviant</a> a fait rire au début de la journée mais s'est détérioré ensuite et a plombé l'ambiance, le Conteur peut juger qu'il n'était pas drôle aujourd'hui — oui, il a été drôle à un moment, mais l'appréciation globale du Conteur est un pouce vers le bas.<br>
+• Le <a href="./voyageurs/deviant.html" style="color:#20b2aa; font-weight:bold; text-decoration:none;">Déviant</a> peut ne faire rire personne, mais si le Conteur estime qu'il <em>était</em> drôle et que les autres joueurs s'empêchaient délibérément de rire uniquement pour pouvoir l'exécuter, le Conteur peut juger que le <a href="./voyageurs/deviant.html" style="color:#20b2aa; font-weight:bold; text-decoration:none;">Déviant</a> était drôle et empêcher sa mort.
 </p>
 
-<!-- ===== Analogie ===== -->
-<h2 id="analogie" style="color:#b58b52; font-weight:bold; font-size:20px;">Une analogie avec l’humour</h2>
+<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+Steven Medway illustre cette difficulté par une question fictive d'un Conteur confus :
+</p>
+
+<blockquote style="color:#f5f5f5; font-style:italic; border-left:3px solid #b58b52; padding-left:15px; margin:20px 0;">
+« Pendant ma partie, le joueur <a href="./voyageurs/deviant.html" style="color:#20b2aa; font-weight:bold; text-decoration:none;">Déviant</a> a fait une blague "toc toc". Un joueur a rigolé, mais ce joueur est très immature et rit à n'importe quoi. Tous les autres joueurs ont juste soufflé, levé les yeux au ciel et n'ont pas trouvé ça drôle du tout. Est-ce que cela signifie que le <a href="./voyageurs/deviant.html" style="color:#20b2aa; font-weight:bold; text-decoration:none;">Déviant</a> était drôle ? Est-ce que faire une blague "toc toc" constitue le fait d'"être drôle" ? J'ai soutenu au groupe que comme un joueur avait ri, le <a href="./voyageurs/deviant.html" style="color:#20b2aa; font-weight:bold; text-decoration:none;">Déviant</a> était drôle et ne pouvait pas mourir. Les joueurs ont rétorqué que comme la majorité n'avait pas ri, il n'était pas drôle. Pouvons-nous aussi préciser combien de joueurs doivent rire pour empêcher l'exécution du <a href="./voyageurs/deviant.html" style="color:#20b2aa; font-weight:bold; text-decoration:none;">Déviant</a> ? Un joueur qui rit à trois blagues distinctes équivaut-il à trois joueurs qui rient à une seule blague ? Les joueurs demandent des règles précises sur ce qui rend ou non un <a href="./voyageurs/deviant.html" style="color:#20b2aa; font-weight:bold; text-decoration:none;">Déviant</a> drôle afin de savoir quand le nommer. De plus, j'ai tranché le lendemain que le <a href="./voyageurs/deviant.html" style="color:#20b2aa; font-weight:bold; text-decoration:none;">Déviant</a> n'était pas drôle parce qu'il n'a fait aucune blague, même si tout le groupe était plié en deux en raison de sa description d'exécution hilarante. Était-ce correct ? »
+</blockquote>
+
+<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+Ces questions sont une exagération, et personne ne les pose vraiment pour le <a href="./voyageurs/deviant.html" style="color:#20b2aa; font-weight:bold; text-decoration:none;">Déviant</a> car il est plus intuitivement facile de savoir si quelqu'un est drôle ou non. Pour le <a href="./voyageurs/deviant.html" style="color:#20b2aa; font-weight:bold; text-decoration:none;">Déviant</a> comme pour la folie, il n'y a pas de critères fixes : soit le Conteur trouve quelque chose drôle/convaincant, soit il ne le trouve pas.
+</p>
+<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+Si un joueur <a href="./roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a> a fait l'effort de convaincre le groupe qu'il était la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> pendant six jours d'affilée, puis qu'un autre joueur dit que la <a href="./roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a> est probablement la <a href="./roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a>, et que le joueur <a href="./roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a> se contente de faire un clin d'œil et de garder le silence... le Conteur jugera presque certainement qu'il n'était « pas fou d'être la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> » parce qu'il a abattu ses cartes au dernier moment. Mais si la <a href="./roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a> avait causé d'importants dégâts à la bibliothèque d'informations du bien et que son clin d'œil était perçu comme de l'impertinence, le Conteur pourrait quand même lui donner le pouvoir de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>. Tout dépend de l'intention de la <a href="./roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a> et de l'effet produit par ses paroles et ses actes.
+</p>
+
+<!-- ===== Objectifs Mécaniques ===== -->
+<h2 id="objectifs-mecaniques" style="color:#b58b52; font-weight:bold; font-size:20px;">Les objectifs des mécaniques du jeu</h2>
 <hr>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Être <strong>« fou »</strong> se juge un peu comme être <strong>« drôle »</strong>. Cela dépend du contexte et du ressenti du groupe à un moment donné. Le Conteur ne coche pas des cases : il évalue l’intention et l’effet global.
+• <strong>La mécanique du <a href="./voyageurs/deviant.html" style="color:#20b2aa; font-weight:bold; text-decoration:none;">Déviant</a> :</strong> encourager l'humour, le rire et la légèreté.<br>
+• <strong>La mécanique d'ivresse / d'empoisonnement :</strong> faire propager de fausses informations aux joueurs du bien <em>sans qu'ils le sachent</em>.<br>
+• <strong>La mécanique de folie :</strong> encourager les joueurs du bien à propager de fausses informations <em>en toute connaissance de cause</em>. S'ils le font, ils obtiennent une récompense (ou évitent une pénalité).
+</p>
+<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+Soit le joueur joue le jeu de la folie, soit il ne le joue pas. Les problèmes surviennent lorsqu'un joueur ne veut pas jouer le jeu de la folie et cherche des failles juridiques pour être techniquement considéré comme « jouant le jeu » afin d'en obtenir les bénéfices sans les inconvénients.
 </p>
 
-<!-- ===== Résumé ===== -->
-<h2 id="en-resume" style="color:#b58b52; font-weight:bold; font-size:20px;">En résumé</h2>
+<!-- ===== Particularite Pixie ===== -->
+<h2 id="particularite-pixie" style="color:#b58b52; font-weight:bold; font-size:20px;">La particularité de la Pixie</h2>
 <hr>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-• La <strong>folie</strong> encourage les joueurs de l'équipe du bien à mentir volontairement.
-</p>
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-• L’<strong>ivresse</strong> et le <strong>poison</strong> créent des mensonges involontaires.
-</p>
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-• Certains rôles de soutien à l’ambiance valorisent aussi l’humour et la légèreté.
-</p>
-
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-La Pixie est à part : sa “fenêtre de folie” dure <strong>toute la partie</strong> jusqu’à la mort du rôle imité. Le Conteur doit donc privilégier les <strong>actions récentes</strong> pour juger la sincérité.
+La <a href="./roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a> est un cas un peu particulier car la plupart des autres rôles liés à la folie disposent d'une fenêtre d'une journée pour agir follement. Pour la <a href="./roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a>, la fenêtre s'étend sur toute la partie jusqu'au moment où la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> (ou le rôle imité) meurt. Pour juger si la <a href="./roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a> « a été folle » ou non, le Conteur donnera souvent la priorité aux paroles et actions les plus récentes de la <a href="./roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a> plutôt qu'à ce qu'elle a pu dire beaucoup plus tôt dans la partie.
 </p>
 
 <!-- ===== Conclusion ===== -->
 <h2 id="conclusion" style="color:#b58b52; font-weight:bold; font-size:28px;">Conclusion</h2>
 
-<div class="botc-note">
-La Pixie n’est jamais forcée de dire quoi que ce soit. Le Conteur ne juge pas des mots exacts, mais <strong>de l’intention, de la cohérence et de l’impact</strong>. Il n’existe pas de critères fixes pour “être fou” : soit le joueur <em>joue le jeu</em>, soit il ne le fait pas — et dans tous les cas, c’est le Conteur qui décide.
+<div class="botc-note" style="color:#e0c99d; font-size:18px; line-height:1.7;">
+Chaque joueur peut dire ce qu'il veut à tout moment et n'est jamais forcé de dire quoi que ce soit qu'il ne souhaite pas dire. La <a href="./roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a> n'est jamais contrainte de parler. Le Conteur ne juge pas des mots exacts, mais de l'intention, de la cohérence, des efforts sincères et de l'impact global. Il n'y a pas de critères fixes : soit le joueur joue le jeu, soit il ne le fait pas — et dans tous les cas, c'est le Conteur qui décide.
 </div>
 
 <!-- ===== Pour aller plus loin ===== -->
@@ -195,16 +223,19 @@ La Pixie n’est jamais forcée de dire quoi que ce soit. Le Conteur ne juge pas
 <hr class="explication">
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-• <a href="./roles_experimentaux/pixie.html" style="color:blue; font-weight:bold; text-decoration:none;">La Pixie</a>
+• <a href="./roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">La Pixie</a>
 </p>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-• <a href="./sv_roles/cerenovus.html" style="color:red; font-weight:bold; text-decoration:none;">Le Cerenovus</a>
+• <a href="./voyageurs/deviant.html" style="color:#20b2aa; font-weight:bold; text-decoration:none;">Le Déviant</a>
 </p>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-• <a href="./tb_roles/lavandiere.html" style="color:blue; font-weight:bold; text-decoration:none;">La Lavandière</a>
+• <a href="./sv_roles/cerenovus.html" style="color:#e05252; font-weight:bold; text-decoration:none;">Le Cerenovus</a>
 </p>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-• <a href="./sv_roles/savant.html" style="color:blue; font-weight:bold; text-decoration:none;">Le Savant</a>
+• <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">La Lavandière</a>
+</p>
+<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+• <a href="./sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Le Savant</a>
 </p>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 • <a href="./conteur.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Conseils pour les Conteurs et Conteuses</a>
@@ -213,10 +244,9 @@ La Pixie n’est jamais forcée de dire quoi que ce soit. Le Conteur ne juge pas
 <hr class="explication">
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
- <li> <a href="./trouble_brewing.md" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+  <li> <a href="./trouble_brewing.md" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
   <li> <a href="./bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
   <li> <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a></li>
   <li> <a href="./experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Carrousel les rôles expérimentaux</a></li>
   <li> <a href="./index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
-</ul> 
-
+</ul>
