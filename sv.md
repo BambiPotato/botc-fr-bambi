@@ -110,9 +110,10 @@ image: /images/Logo_sects_and_violets.png
   <li><a href="#-télécharger--imprimer" style="color:#f5f5f5; text-decoration:none;">Télécharger &amp; Imprimer</a></li>
 </ol>
 
-<hr class="explication">
+
 
 ##  <span style="color:#d67bff;">Synopsis</span>
+<hr>
 
 <p class="botc-flavour-text dropcap">
 L’éclat du printemps laisse progressivement sa place à la chaleur de l’été.<br> 
@@ -127,9 +128,10 @@ Le temps du châtiment est venu…
 </p>
 
 
-<hr class="explication">
+
 
 ##  <span style="color:#d67bff;">Gameplay</span>
+<hr>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <span style="color:#d67bff; font-weight:bold;">Sects & Violets</span>  <strong>EST LE PLUS FOU DES TROIS MODULES</strong> inclus dans la série de base.<br>  
@@ -356,8 +358,8 @@ Ces ressources sont pratiques pour <strong>imprimer</strong> et <strong>jouer en
 
 <div style="text-align:left;">
   <a href="./images/sv-front.png"><img src="./images/sv-front.png" alt="Couverture" width="250" style="margin:8px; border-radius:8px;"></a>
-  <a href="./images/sv-nuit.png"><img src="./images/sv-nuit.png" alt="Ordre de Nuit" width="250" style="margin:8px; border-radius:8px;"></a>
   <a href="./images/sv-roles.png"><img src="./images/sv-roles.png" alt="Liste des rôles" width="250" style="margin:8px; border-radius:8px;"></a>
+  <a href="./images/sv-nuit.png"><img src="./images/sv-nuit.png" alt="Ordre de Nuit" width="250" style="margin:8px; border-radius:8px;"></a>
 </div>
 
 <hr class="explication">
