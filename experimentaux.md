@@ -33,8 +33,6 @@ Ces rôles repoussent les limites de <em>Blood on the Clocktower</em> <br>
 et invitent à explorer des expériences de jeu aussi surprenantes que captivantes. »
 </p>
 
-<hr class="explication">
-
 <style>
 @media (max-width: 900px) {
   #liste-roles-exp {
@@ -181,7 +179,6 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
   <li><a href="#9-voyageurs" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Voyageurs</a></li>
 </ol>
 
-
 <hr class="explication">
 
 <!-- 1. SYNOPSIS -->
@@ -195,16 +192,15 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
 
 <!-- 2. GAMEPLAY -->
 <h2 id="2-gameplay" style="color:#d4a76a; font-weight:800; font-size:22px; text-align:left; margin-top:18px;">2. Gameplay</h2>
-<hr>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
    <span style="color:#f5f5f5; font-weight:bold;">Niveau : Expérimenté</span><br>
    Les rôles expérimentaux du <em>Carousel</em> sont recommandés aux joueurs et Conteurs ayant déjà une bonne expérience du jeu <em>Blood on the Clocktower</em>.
 </p>
 
 
+
+
 <!--  VILLAGEOIS -->
-
-
 
 <h2 id="3-villageois" style="color:#4ea3ff; font-weight:800; font-size:22px; text-align:left;"> Villageois</h2>
 <hr>
