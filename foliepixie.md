@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Comment Conter la Pixie
+title: Comment Conter la folie pour la Pixie par Steven Medway 
 description: Steven Medway a détaillé le fonctionnement de la folie pour la Pixie.
 image: /images/Icon_pixie.png
 ---
