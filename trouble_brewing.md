@@ -111,12 +111,11 @@ image: /images/Logo_trouble_brewing.png
 </p>
 
 
-<hr class="explication">
+
 
 
 ## <span id="synopsis" style="color:#b58b52;">Synopsis</span>
-
-<hr class="explication">
+<hr>
 
 
 <p class="botc-flavour-text dropcap">
@@ -138,12 +137,11 @@ Sous le clocher d’un monastère qui domine la région, des silhouettes encapuc
 Ceux qui peuvent lire les signes savent que les germes de la discorde ne sont pas loin…
 </p>
 
-<hr class="explication">
+
 
 
 ##  <span style="color:#b58b52;">Gameplay</span>
-
-<hr class="explication">
+<hr>
 
 
 <p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -285,11 +283,13 @@ Les joueurs maléfiques voteront-ils pour exécuter un <a href="./sbires.html" s
 
 </div>
 
----
+
 
 <p style="text-align:left; color:#e0c99d; font-size:20px;">
   <a id="etrangers" href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>
 </p>
+
+<hr>
 
 <!-- GRID ÉTRANGERS -->
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin:8px 0 6px 0;">
@@ -320,12 +320,13 @@ Les joueurs maléfiques voteront-ils pour exécuter un <a href="./sbires.html" s
 
 </div>
 
----
+
 
 <p style="text-align:left; color:#e0c99d; font-size:18px;">
   <a id="sbires" href="./sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>
 </p>
 
+<hr>
 <!-- GRID SBIRES -->
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin:8px 0 6px 0;">
 
@@ -355,11 +356,13 @@ Les joueurs maléfiques voteront-ils pour exécuter un <a href="./sbires.html" s
 
 </div>
 
----
+
 
 <p style="text-align:left; color:#e0c99d; font-size:18px;">
   <a id="demons" href="./demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>
 </p>
+
+<hr>
 
 <!-- GRID DÉMONS -->
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin:8px 0 6px 0;">
@@ -373,7 +376,7 @@ Les joueurs maléfiques voteront-ils pour exécuter un <a href="./sbires.html" s
 </div>
 
 
----
+<hr class="explication">
 
 
 ## <span id="telechargements" style="color:#b58b52;">Téléchargements & Ressources</span>
