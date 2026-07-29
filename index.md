@@ -189,6 +189,21 @@ data-tooltip="Suis-nous sur Instagram">
 </div>
 
 
+<style>
+.ccc-logo{
+display:inline-block;
+margin-top:24px;
+transition:transform .18s ease, filter .18s ease, opacity .18s ease;
+opacity:.95;
+}
+
+.ccc-logo:hover{
+transform:translateY(-2px) scale(1.035);
+filter:drop-shadow(0 5px 8px rgba(0,0,0,.22));
+opacity:1;
+}
+</style>
+
 <!--  PAGE D’ACCUEIL - WIKI BOTC FR -->
 
 <div style="text-align:center; margin:40px auto 0 auto; max-width:980px; padding:30px 24px; border:1px solid rgba(212,167,106,0.3); border-radius:14px; box-shadow:0 8px 18px rgba(0,0,0,0.28); background-color:rgba(0,0,0,0.45);">
@@ -200,7 +215,19 @@ data-tooltip="Suis-nous sur Instagram">
 
   <p style="font-size:20px; color:#e0c99d; font-style:italic; line-height:1.7; margin:0;">
     « Un wiki communautaire pour jouer et conter en français. »
-    <br><br>
+  </p>
+
+  <div style="
+    width:60%;
+    height:1px;
+    margin:28px auto;
+    background:linear-gradient(to right,
+      transparent,
+      rgba(181,139,82,0.55),
+      transparent);
+  "></div>
+
+  <p style="font-size:20px; color:#e0c99d; font-style:italic; line-height:1.7; margin:0;">
     Tout le contenu de
     <a href="https://bloodontheclocktower.com/" target="_blank" rel="noopener noreferrer" style="color:#d4a76a; font-weight:bold; text-decoration:none;">
       Blood on the Clocktower
@@ -209,8 +236,27 @@ data-tooltip="Suis-nous sur Instagram">
     <span style="color:#d4a76a; font-weight:bold;">The Pandemonium Institute</span>.
   </p>
 
-</div>
+  <a href="https://bloodontheclocktower.com/pages/community-created-content-policy"
+     target="_blank"
+     rel="noopener noreferrer"
+     class="ccc-logo"
+     title="En savoir plus sur la Community Created Content Policy">
+    <img src="images/ccc-parchment.png"
+         alt="Community Created Content"
+         width="185">
+  </a>
 
+  <div style="
+    margin-top:8px;
+    color:#b58b52;
+    font-size:14px;
+    font-style:italic;
+    opacity:.85;
+  ">
+    Community Created Content
+  </div>
+
+</div>
 
 
 <hr style="margin:16px auto; max-width:980px; border:0; border-top:1px solid rgba(181,139,82,.25);">
