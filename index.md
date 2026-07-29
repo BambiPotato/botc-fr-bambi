@@ -188,13 +188,13 @@ data-tooltip="Suis-nous sur Instagram">
 </div>
 </div>
 
-
 <style>
   .ccc-logo {
     display:inline-block;
-    margin-top:20px;
+    margin-top:16px;
     line-height:0;
     opacity:0.95;
+    cursor:pointer;
     transition:
       transform 0.18s ease,
       filter 0.18s ease,
@@ -252,11 +252,12 @@ data-tooltip="Suis-nous sur Instagram">
      title="Consulter la politique officielle Community Created Content">
     <img src="images/ccc-parchment.png"
          alt="Community Created Content"
-         width="195"
+         width="220"
          style="display:block; max-width:100%; height:auto;">
   </a>
 
 </div>
+
 
 
 <!-- ====== INFORMATIONS SUR LE JEU ====== -->
