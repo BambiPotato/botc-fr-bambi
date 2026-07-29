@@ -192,11 +192,9 @@ Le Conteur doit donc privilégier les <strong>actions récentes</strong> pour ju
 <h2 id="conclusion" style="color:#b58b52; font-weight:bold; font-size:28px;"> Conclusion</h2>
 
 <div class="botc-note">
-<p style="color:#e0c99d; font-size:18px; line-height:1.8; border-left:3px solid rgba(212,167,106,.5); padding-left:12px;">
 La Pixie n’est jamais forcée de dire quoi que ce soit. Le Conteur ne juge pas des mots exacts,
 mais <strong>de l’intention, de la cohérence et de l’impact</strong>. Il n’existe pas de critères fixes pour “être fou”&nbsp;:
 soit le joueur <em>joue le jeu</em>, soit il ne le fait pas — et dans tous les cas, c’est le Conteur qui décide.
-</p>
 </div>
 
 <!-- ===== Pour aller plus loin ===== -->
