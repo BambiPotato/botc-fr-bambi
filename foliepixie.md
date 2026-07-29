@@ -77,7 +77,7 @@ image: /images/Icon_pixie.png
 <hr class="explication">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
-« Lors de votre 1<sup>re</sup> nuit, vous apprenez un rôle de Villageois en jeu. Si vous étiez fou d’être ce rôle, vous gagnez sa capacité à sa mort. »
+« Lors de votre 1<sup>re</sup> nuit, vous apprenez un rôle de Villageois en jeu. Si vous étiez fou d’être ce rôle, gagnez sa capacité à sa mort. »
 </p>
 
 <!-- ===== Titre ===== -->
@@ -90,11 +90,11 @@ Comment conter la Pixie (par Steven Medway)
 <hr>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Un joueur qui est « fou » doit convaincre de quelque chose, le joueur essaie de persuader le groupe que cette chose est vraie. 
+Un joueur qui est « follement » convaincu de quelque chose essaie de persuader le groupe que cette chose est vraie. 
 </p>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-• Certains joueurs reçoivent l'instruction d'être fou, ils doivent convaincre de quelque chose — si le Conteur estime qu'un joueur n'a pas fait d'efforts pour convaincre le groupe de la chose en question, une pénalité peut s'appliquer.<br>
-• Certains joueurs reçoivent l'instruction de <strong>ne pas</strong> être fou, de convaincre de quelque chose — si le Conteur estime qu'un joueur a essayé de convaincre le groupe de cette chose, une pénalité peut s'appliquer.
+• Certains joueurs reçoivent l'instruction d'être follement convaincus de quelque chose — si le Conteur estime qu'un joueur n'a pas fait d'efforts pour convaincre le groupe de la chose en question, une pénalité peut s'appliquer.<br>
+• Certains joueurs reçoivent l'instruction de <strong>ne pas</strong> être follement convaincus de quelque chose — si le Conteur estime qu'un joueur a essayé de convaincre le groupe de cette chose, une pénalité peut s'appliquer.
 </p>
 
 <!-- ===== Folie de la Pixie ===== -->
@@ -166,25 +166,25 @@ Le moment précis où le joueur <a href="./roles_experimentaux/pixie.html" style
 <hr>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Évaluer la folie revient à évaluer l'humour. Le <a href="./voyageurs/deviant.html" style="color:#20b2aa; font-weight:bold; text-decoration:none;">Déviant</a> en est un bon exemple :
+Évaluer la folie revient à évaluer l'humour. Le <a href="./voyageurs/deviant.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Déviant</a> en est un bon exemple :
 </p>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-• Si le <a href="./voyageurs/deviant.html" style="color:#20b2aa; font-weight:bold; text-decoration:none;">Déviant</a> a fait rire au début de la journée mais plus à la fin, le Conteur peut juger le <a href="./voyageurs/deviant.html" style="color:#20b2aa; font-weight:bold; text-decoration:none;">Déviant</a> drôle aujourd'hui.<br>
+• Si le <a href="./voyageurs/deviant.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Déviant</a> a fait rire au début de la journée mais plus à la fin, le Conteur peut juger le <a href="./voyageurs/deviant.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Déviant</a> drôle aujourd'hui.<br>
 • S'il a fait rire à la fin de la journée mais pas au début, le Conteur peut aussi le juger drôle.<br>
-• Si le <a href="./voyageurs/deviant.html" style="color:#20b2aa; font-weight:bold; text-decoration:none;">Déviant</a> a fait rire au début de la journée mais s'est détérioré ensuite et a plombé l'ambiance, le Conteur peut juger qu'il n'était pas drôle aujourd'hui — oui, il a été drôle à un moment, mais l'appréciation globale du Conteur est un pouce vers le bas.<br>
-• Le <a href="./voyageurs/deviant.html" style="color:#20b2aa; font-weight:bold; text-decoration:none;">Déviant</a> peut ne faire rire personne, mais si le Conteur estime qu'il <em>était</em> drôle et que les autres joueurs s'empêchaient délibérément de rire uniquement pour pouvoir l'exécuter, le Conteur peut juger que le <a href="./voyageurs/deviant.html" style="color:#20b2aa; font-weight:bold; text-decoration:none;">Déviant</a> était drôle et empêcher sa mort.
+• Si le <a href="./voyageurs/deviant.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Déviant</a> a fait rire au début de la journée mais s'est détérioré ensuite et a plombé l'ambiance, le Conteur peut juger qu'il n'était pas drôle aujourd'hui — oui, il a été drôle à un moment, mais l'appréciation globale du Conteur est un pouce vers le bas.<br>
+• Le <a href="./voyageurs/deviant.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Déviant</a> peut ne faire rire personne, mais si le Conteur estime qu'il <em>était</em> drôle et que les autres joueurs s'empêchaient délibérément de rire uniquement pour pouvoir l'exécuter, le Conteur peut juger que le <a href="./voyageurs/deviant.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Déviant</a> était drôle et empêcher sa mort.
 </p>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Steven Medway illustre cette difficulté par une question fictive d'un Conteur confus :
 </p>
 
-<blockquote style="color:#f5f5f5; font-style:italic; border-left:3px solid #b58b52; padding-left:15px; margin:20px 0;">
-« Pendant ma partie, le joueur <a href="./voyageurs/deviant.html" style="color:#20b2aa; font-weight:bold; text-decoration:none;">Déviant</a> a fait une blague "toc toc". Un joueur a rigolé, mais ce joueur est très immature et rit à n'importe quoi. Tous les autres joueurs ont juste soufflé, levé les yeux au ciel et n'ont pas trouvé ça drôle du tout. Est-ce que cela signifie que le <a href="./voyageurs/deviant.html" style="color:#20b2aa; font-weight:bold; text-decoration:none;">Déviant</a> était drôle ? Est-ce que faire une blague "toc toc" constitue le fait d'"être drôle" ? J'ai soutenu au groupe que comme un joueur avait ri, le <a href="./voyageurs/deviant.html" style="color:#20b2aa; font-weight:bold; text-decoration:none;">Déviant</a> était drôle et ne pouvait pas mourir. Les joueurs ont rétorqué que comme la majorité n'avait pas ri, il n'était pas drôle. Pouvons-nous aussi préciser combien de joueurs doivent rire pour empêcher l'exécution du <a href="./voyageurs/deviant.html" style="color:#20b2aa; font-weight:bold; text-decoration:none;">Déviant</a> ? Un joueur qui rit à trois blagues distinctes équivaut-il à trois joueurs qui rient à une seule blague ? Les joueurs demandent des règles précises sur ce qui rend ou non un <a href="./voyageurs/deviant.html" style="color:#20b2aa; font-weight:bold; text-decoration:none;">Déviant</a> drôle afin de savoir quand le nommer. De plus, j'ai tranché le lendemain que le <a href="./voyageurs/deviant.html" style="color:#20b2aa; font-weight:bold; text-decoration:none;">Déviant</a> n'était pas drôle parce qu'il n'a fait aucune blague, même si tout le groupe était plié en deux en raison de sa description d'exécution hilarante. Était-ce correct ? »
-</blockquote>
+<div class="botc-note" style="color:#e0c99d; font-size:18px; line-height:1.7; font-style:italic;">
+« Pendant ma partie, le joueur <a href="./voyageurs/deviant.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Déviant</a> a fait une blague "toc toc". Un joueur a rigolé, mais ce joueur est très immature et rit à n'importe quoi. Tous les autres joueurs ont juste soufflé, levé les yeux au ciel et n'ont pas trouvé ça drôle du tout. Est-ce que cela signifie que le <a href="./voyageurs/deviant.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Déviant</a> était drôle ? Est-ce que faire une blague "toc toc" constitue le fait d'"être drôle" ? J'ai soutenu au groupe que comme un joueur avait ri, le <a href="./voyageurs/deviant.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Déviant</a> était drôle et ne pouvait pas mourir. Les joueurs ont rétorqué que comme la majorité n'avait pas ri, il n'était pas drôle. Pouvons-nous aussi préciser combien de joueurs doivent rire pour empêcher l'exécution du <a href="./voyageurs/deviant.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Déviant</a> ? Un joueur qui rit à trois blagues distinctes équivaut-il à trois joueurs qui rient à une seule blague ? Les joueurs demandent des règles précises sur ce qui rend ou non un <a href="./voyageurs/deviant.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Déviant</a> drôle afin de savoir quand le nommer. De plus, j'ai tranché le lendemain que le <a href="./voyageurs/deviant.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Déviant</a> n'était pas drôle parce qu'il n'a fait aucune blague, même si tout le groupe était plié en deux en raison de sa description d'exécution hilarante. Était-ce correct ? »
+</div>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Ces questions sont une exagération, et personne ne les pose vraiment pour le <a href="./voyageurs/deviant.html" style="color:#20b2aa; font-weight:bold; text-decoration:none;">Déviant</a> car il est plus intuitivement facile de savoir si quelqu'un est drôle ou non. Pour le <a href="./voyageurs/deviant.html" style="color:#20b2aa; font-weight:bold; text-decoration:none;">Déviant</a> comme pour la folie, il n'y a pas de critères fixes : soit le Conteur trouve quelque chose drôle/convaincant, soit il ne le trouve pas.
+Ces questions sont une exagération, et personne ne les pose vraiment pour le <a href="./voyageurs/deviant.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Déviant</a> car il est plus intuitivement facile de savoir si quelqu'un est drôle ou non. Pour le <a href="./voyageurs/deviant.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Déviant</a> comme pour la folie, il n'y a pas de critères fixes : soit le Conteur trouve quelque chose drôle/convaincant, soit il ne le trouve pas.
 </p>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Si un joueur <a href="./roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a> a fait l'effort de convaincre le groupe qu'il était la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> pendant six jours d'affilée, puis qu'un autre joueur dit que la <a href="./roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a> est probablement la <a href="./roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a>, et que le joueur <a href="./roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a> se contente de faire un clin d'œil et de garder le silence... le Conteur jugera presque certainement qu'il n'était « pas fou d'être la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> » parce qu'il a abattu ses cartes au dernier moment. Mais si la <a href="./roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a> avait causé d'importants dégâts à la bibliothèque d'informations du bien et que son clin d'œil était perçu comme de l'impertinence, le Conteur pourrait quand même lui donner le pouvoir de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>. Tout dépend de l'intention de la <a href="./roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a> et de l'effet produit par ses paroles et ses actes.
@@ -195,7 +195,7 @@ Si un joueur <a href="./roles_experimentaux/pixie.html" style="color:#4ea3ff; fo
 <hr>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-• <strong>La mécanique du <a href="./voyageurs/deviant.html" style="color:#20b2aa; font-weight:bold; text-decoration:none;">Déviant</a> :</strong> encourager l'humour, le rire et la légèreté.<br>
+• <strong>La mécanique du <a href="./voyageurs/deviant.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Déviant</a> :</strong> encourager l'humour, le rire et la légèreté.<br>
 • <strong>La mécanique d'ivresse / d'empoisonnement :</strong> faire propager de fausses informations aux joueurs du bien <em>sans qu'ils le sachent</em>.<br>
 • <strong>La mécanique de folie :</strong> encourager les joueurs du bien à propager de fausses informations <em>en toute connaissance de cause</em>. S'ils le font, ils obtiennent une récompense (ou évitent une pénalité).
 </p>
@@ -226,7 +226,7 @@ Chaque joueur peut dire ce qu'il veut à tout moment et n'est jamais forcé de d
 • <a href="./roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">La Pixie</a>
 </p>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-• <a href="./voyageurs/deviant.html" style="color:#20b2aa; font-weight:bold; text-decoration:none;">Le Déviant</a>
+• <a href="./voyageurs/deviant.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Le Déviant</a>
 </p>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 • <a href="./sv_roles/cerenovus.html" style="color:#e05252; font-weight:bold; text-decoration:none;">Le Cerenovus</a>
