@@ -61,20 +61,6 @@ image: /images/Icon_pixie.png
 </div>
 
 
-
-<hr class="explication">
-
-<!-- ===== SOMMAIRE ===== -->
-<h2 style="color:#b58b52; font-weight:bold; font-size:28px; margin-top:10px;">Sommaire</h2>
-
-<p style="color:#e0c99d; font-size:18px; line-height:1.9; margin-left:0; text-align:left;">
-  • <a href="#resume" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Résumé</a><br>
-  • <a href="#comment-conter" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Comment Conter</a><br>
-  • <a href="#exemples" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Exemples</a><br>
-  • <a href="#conseils-astuces" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Conseils &amp; Astuces</a><br>
-  • <a href="#bluffer-pixie" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Bluffer la Pixie</a>
-</p>
-
 <!-- ===== RESUME ===== -->
 <h2 style="color:#4ea3ff;"><span id="resume">Résumé</span></h2>
 <hr class="villageois">
@@ -98,13 +84,13 @@ LA PIXIE fait semblant d’être le même rôle que quelqu’un d’autre.
 <h2 style="color:#4ea3ff;"><span id="comment-conter">Comment Conter</span></h2>
 <hr>
 
-<p class="botc-flavour-text dropcap" style="margin-bottom:10px; color:#e0c99d; font-size:18px; font-style:italic;">
+<p class="botc-flavour-text dropcap" style="margin-bottom:10px; color:#e0c99d; font-size:18px;">
 Instructions au Conteur
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
 • Lors de la première nuit, marquez un jeton Villageois du jeton <strong>« Fou »</strong> de la Pixie. Réveillez la Pixie. Montrez à la Pixie ce jeton Villageois. Ensuite, la Pixie se rendort.<br>
-• Si le Villageois marqué « Fou » meurt et que vous pensez que le joueur Pixie s’est sufficiently montré « fou » d’être ce rôle, remplacez le jeton « Fou » par le jeton « A une capacité ». La Pixie possède désormais la capacité de ce Villageois et sera réveillée la nuit au moment où ce Villageois doit normalement se réveiller.
+• Si le Villageois marqué « Fou » meurt et que vous pensez que le joueur Pixie s’est suffisamment montré « fou » d’être ce rôle, remplacez le jeton « Fou » par le jeton « A une capacité ». La Pixie possède désormais la capacité de ce Villageois et sera réveillée la nuit au moment où ce Villageois doit normalement se réveiller.
 </p>
 
 <!-- ===== EXEMPLES ===== -->
@@ -113,12 +99,12 @@ Instructions au Conteur
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
 • Amy est la Pixie et elle sait que le <a href="./general.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Général</a> est en jeu. Pendant trois jours, Amy affirme que le joueur Général ment, et prétend être elle-même le Général. Le Général est exécuté. Cette nuit-là, Amy obtient la capacité du Général. Elle obtient des informations chaque nuit à partir de maintenant.<br>
-• Doug est la Pixie, mais il est ivre. Il apprend que le <a href="./lycanthrope.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lycanthrope</a> est en jeu. Il n'y a pas de <a href="./lycanthrope.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lycanthrope</a> en jeu, mais le <a href="./fearmonger.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Tourmenteur</a> se fait passer pour le <a href="./lycanthrope.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lycanthrope</a>. Le <a href="./fearmonger.html" style="color:#e05252; font-weight:bold; text-decoration:none;">Tourmenteur</a>meurt. <br> Le Conteur fait maintenant croire à Doug que Doug possède la capacité du Lycanthrope. <br> Il le réveille chaque nuit et lui fait choisir un joueur à « attaquer ». Ses cibles ne meurent pas, parce que Doug n'a pas la capacité du <a href="./lycanthrope.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lycanthrope</a> .<br>
-• Le premier jour, le joueur Pixie prétend être le <a href="../tb_roles/soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a>. Le vrai Soldat prétend également être le Soldat. Le joueur Pixie ne le contredit pas. Lorsque le <a href="../tb_roles/soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a> meurt, le joueur Pixie ne gagne pas la capacité du <a href="../tb_roles/soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a>, car le Conteur estime que la Pixie n’a pas fait d’effort pour persuader les autres qu’il était le <a href="../tb_roles/soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a>.
+• Doug est la Pixie, mais il est ivre. Il apprend que le <a href="./lycanthrope.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lycanthrope</a> est en jeu. Il n'y a pas de <a href="./lycanthrope.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lycanthrope</a> en jeu, mais le <a href="./fearmonger.html" style="color:#e05252; font-weight:bold; text-decoration:none;">Tourmenteur</a> se fait passer pour le <a href="./lycanthrope.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lycanthrope</a>. Le <a href="./fearmonger.html" style="color:#e05252; font-weight:bold; text-decoration:none;">Tourmenteur</a> meurt. Le Conteur fait maintenant croire à Doug que Doug possède la capacité du Lycanthrope. Il le réveille chaque nuit et lui fait choisir un joueur à « attaquer ». Ses cibles ne meurent pas, parce que Doug n'a pas la capacité du <a href="./lycanthrope.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lycanthrope</a>.<br>
+• Le premier jour, le joueur Pixie prétend être le <a href="../tb_roles/soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a>. Le vrai <a href="../tb_roles/soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a> prétend également être le Soldat. Le joueur Pixie ne le contredit pas. Lorsque le <a href="../tb_roles/soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a> meurt, le joueur Pixie ne gagne pas la capacité du <a href="../tb_roles/soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a>, car le Conteur estime que la Pixie n’a pas fait d’effort pour persuader les autres qu’il était le <a href="../tb_roles/soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a>.
 </p>
 
 <!-- ===== CONSEILS & ASTUCES ===== -->
-<h2 style="color:#b58b52; font-weight:bold; font-size:24px;"><span id="conseils-astuces">Conseils &amp; Astuces</span></h2>
+<h2 style="color:#4ea3ff;"><span id="conseils-astuces">Conseils &amp; Astuces</span></h2>
 <hr>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
@@ -138,7 +124,7 @@ Instructions au Conteur
 </p>
 
 <!-- ===== BLUFFER LA PIXIE ===== -->
-<h2 style="color:#b58b52; font-weight:bold; font-size:24px;"><span id="bluffer-pixie">Bluffer la Pixie</span></h2>
+<h2 style="color:#4ea3ff;"><span id="bluffer-pixie">Bluffer la Pixie</span></h2>
 <hr>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
@@ -146,7 +132,7 @@ Lorsque vous bluffez la <strong>Pixie</strong>, gardez quelques points à l'espr
 </p>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
-• Vous incarnez un Sbire pris au piège d'une double revendication embarrassante ? Vous bluffiez la <a href="../bmr_roles/tisaniere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Tisanière</a>, mais votre voisin du bien vient de mourir et l'autre joueur prétendant être la Tisanière est appuyé par une <a href="../bmr_roles/grandmere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Grand-mère</a> très en colère ? Ne paniquez pas : approchez-vous doucement et chuchotez-lui à l'oreille : « Hé, en fait je suis ta Pixie ! » Les Villageois sont généralement ravis de savoir qu'une Pixie double leur rôle, car cela prouve leur existence et leur donne un plan de secours en cas de mort inattendue — appuyez-vous là-dessus pour rattraper votre boulette et entretenir le doute chez les bons... tout en les gardant dans votre camp un peu plus longtemps.<br>
+• Vous incarnez un Sbire pris au piège d'une double revendication embarrassante ? Vous bluffiez la <a href="../bmr_roles/damedethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Tisanière</a>, mais votre voisin du bien vient de mourir et l'autre joueur prétendant être la Tisanière est appuyé par une <a href="../bmr_roles/grandmere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Grand-mère</a> très en colère ? Ne paniquez pas : approchez-vous doucement et chuchotez-lui à l'oreille : « Hé, en fait je suis ta Pixie ! » Les Villageois sont généralement ravis de savoir qu'une Pixie double leur rôle, car cela prouve leur existence et leur donne un plan de secours en cas de mort inattendue — appuyez-vous là-dessus pour rattraper votre boulette et entretenir le doute chez les bons... tout en les gardant dans votre camp un peu plus longtemps.<br>
 • La Pixie est une excellente roue de secours si vous vous retrouvez dans une situation délicate, mais vous pouvez aussi planifier de bluffer la Pixie dès le départ. Choisissez un Villageois que vous suspectez d'être en jeu et lancez-vous ! Si ce Villageois est effectivement en jeu, il prendra probablement contact avec vous à un moment donné ; mais vous pouvez aussi utiliser cela pour convaincre le groupe qu'un rôle spécifique est en jeu alors qu'il ne l'est pas, ou pour crédibiliser le bluff d'un coéquipier maléfique en « prouvant » qu'il doit être en jeu ! Développer délibérément une folie de Pixie vous offre de nombreuses portes de sortie à mesure que vous prenez le pouls de la partie.<br>
 • Cibler un rôle bon puissant et revendiquer son rôle en bluffant la Pixie rassurera les autres joueurs quant à la fiabilité de cette personne, mais aussi quant à la vôtre. À l'inverse, soutenir le bluff d'un joueur maléfique l'aidera à paraître plus crédible, au risque de passer pour un duo maléfique si l'un de vous se fait démasquer.<br>
 • Si le Village ne fait pas confiance aux Pixies malicieuses, tournez cela à votre avantage et révélez-vous délibérément comme Pixie pour vous lier à un autre joueur. Si le groupe vous soupçonne d'être maléfique, le pauvre pigeon dont vous doublez le rôle semblera être votre complice.<br>
@@ -161,18 +147,8 @@ Lorsque vous bluffez la <strong>Pixie</strong>, gardez quelques points à l'espr
 
 <!-- ===== PIED DE PAGE ===== -->
 <p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
-  • <a href="../trouble_brewing.md" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a><br>
-  • <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a><br>
-  • <a href="../sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a><br>
+  • <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
   • <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Carrousel les rôles expérimentaux</a><br>
   • <a href="../index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a>
 </p>
 
-
-<hr class="explication">
-
-<p style="text-align:left; font-size:18px; margin-top:20px;">
-   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
-   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
-</p>
