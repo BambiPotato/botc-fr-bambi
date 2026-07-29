@@ -34,20 +34,20 @@ image: /images/Icon_pixie.png
   <a href="./experimentaux.html" style="text-decoration:none;">
     <img src="./images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
+    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Experimental</span>
   </a>
 </div>
 
 
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Tourne, tourne dans le jardin.  
-  Les filles courent en tous sens.  
-  Les garçons grimpent aux arbres.  
-  Laquelle de ces Pixies serai-je ?  
-  Les dames sourient en ville.  
-  Les seigneurs abattent la forêt.  
-  Ce qui est à vous est à moi. Ce qui est à moi est sacré.  
+  « Tourne, tourne dans le jardin.<br>   
+  Les filles courent en tous sens.<br>   
+  Les garçons grimpent aux arbres.<br>   
+  Laquelle de ces Pixies serai-je ?<br>   
+  Les dames sourient en ville.<br>   
+  Les seigneurs abattent la forêt. <br>  
+  Ce qui est à vous est à moi. Ce qui est à moi est sacré.<br>   
   Petite Pixie, si légère, si malicieuse. »
 </p>
 
