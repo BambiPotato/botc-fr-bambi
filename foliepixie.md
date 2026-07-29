@@ -26,19 +26,12 @@ image: /images/Icon_pixie.png
 
 <h2 style="color:#4ea3ff;"><span id="informations">Informations</span></h2>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; padding-left:1.2em; list-style-position:inside;">
-  <li><strong>Type :</strong>
-    <a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
-  </li>
-  <li>
-    <strong>Nom original :</strong>
-    <a href="https://wiki.bloodontheclocktower.com/Pixie" target="_blank" rel="noopener noreferrer" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
-      Pixie
-    </a>
-  </li>
-  <li><strong>Artiste :</strong> <em>John Grist</em></li>
-  <li><strong>Révélé :</strong> 21 janvier 2021</li>
-</ul>
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
+  • <strong>Type :</strong> <a href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a><br>
+  • <strong>Nom original :</strong> <a href="https://wiki.bloodontheclocktower.com/Pixie" target="_blank" rel="noopener noreferrer" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a><br>
+  • <strong>Artiste :</strong> <em>John Grist</em><br>
+  • <strong>Révélé :</strong> 21 janvier 2021
+</p>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
 « La petite Pixie s’est cachée dans le jardin. <br> Cherchez-moi, coucou coucou ! <br> Je suis cachée parmi vous. <br> Tirant ses moustaches <br> Le Démon passe et repasse, <br> Mais ne trouve rien du tout. <br> La Pixie l’envoie au trou. »
@@ -57,21 +50,21 @@ image: /images/Icon_pixie.png
 
 <hr class="explication">
 
-<!-- ===== SOMMAIRE ALIGNÉ ===== -->
+<!-- ===== SOMMAIRE ===== -->
 <h2 style="color:#b58b52; font-weight:bold; font-size:28px; margin-top:10px;">Sommaire</h2>
 
-<ul style="color:#e0c99d; font-size:18px; line-height:1.9; margin-left:0; padding-left:1.2em; list-style-position:inside;">
-  <li><a href="#resume" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Résumé</a></li>
-  <li><a href="#definition-folie" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Définition de la Folie</a></li>
-  <li><a href="#folie-pixie" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">La Folie de la Pixie</a></li>
-  <li><a href="#jugements" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Exemples de jugements du Conteur</a></li>
-  <li><a href="#role-conteur" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Le rôle du Conteur dans la folie</a></li>
-  <li><a href="#analogie-deviant" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">L’analogie avec l’humour et le Déviant</a></li>
-  <li><a href="#objectifs-mecaniques" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Les objectifs des mécaniques du jeu</a></li>
-  <li><a href="#particularite-pixie" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">La particularité de la Pixie</a></li>
-  <li><a href="#conclusion" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Conclusion</a></li>
-  <li><a href="#plus-loin" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Pour aller plus loin</a></li>
-</ul>
+<p style="color:#e0c99d; font-size:18px; line-height:1.9; margin-left:0; text-align:left;">
+  • <a href="#resume" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Résumé</a><br>
+  • <a href="#definition-folie" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Définition de la Folie</a><br>
+  • <a href="#folie-pixie" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">La Folie de la Pixie</a><br>
+  • <a href="#jugements" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Exemples de jugements du Conteur</a><br>
+  • <a href="#role-conteur" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Le rôle du Conteur dans la folie</a><br>
+  • <a href="#analogie-deviant" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">L’analogie avec l’humour et le Déviant</a><br>
+  • <a href="#objectifs-mecaniques" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Les objectifs des mécaniques du jeu</a><br>
+  • <a href="#particularite-pixie" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">La particularité de la Pixie</a><br>
+  • <a href="#conclusion" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Conclusion</a><br>
+  • <a href="#plus-loin" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Pour aller plus loin</a>
+</p>
 
 <h2 style="color:#f5f5f5;"><span id="resume">Résumé</span></h2>
 <hr class="explication">
@@ -94,7 +87,7 @@ Un joueur qui est « follement » convaincu de quelque chose essaie de persuader
 </p>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 • Certains joueurs reçoivent l'instruction d'être follement convaincus de quelque chose — si le Conteur estime qu'un joueur n'a pas fait d'efforts pour convaincre le groupe de la chose en question, une pénalité peut s'appliquer.<br>
-• Certains joueurs reçoivent l'instruction de <strong>ne pas</strong> être follement convaincus de quelque chose — si le Conteur estime qu'un joueur a essayé de convaincre le groupe de cette chose, une pénalité peut s'appliquer.
+• Certains joueurs reçoivent l'instruction de <strong>ne pas</strong> être follement convaincus de quelque شيء — si le Conteur estime qu'un joueur a essayé de convaincre le groupe de cette chose, une pénalité peut s'appliquer.
 </p>
 
 <!-- ===== Folie de la Pixie ===== -->
@@ -111,36 +104,34 @@ Pour les besoins de cette explication, supposons que le rôle montré au joueur 
 Si le Conteur estime que le joueur Pixie a sincèrement essayé de convaincre des membres du groupe, ou le groupe entier, qu'il est la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>, alors le Conteur peut donner à la <strong>Pixie</strong> le pouvoir de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>. <strong>Le Conteur est seul juge de déterminer si le joueur Pixie est fou ou non.</strong>
 </p>
 
-<!-- ===== EXEMPLES DE JUGEMENTS ALIGNÉS ===== -->
+<!-- ===== EXEMPLES DE JUGEMENTS ===== -->
 <h2 id="jugements" style="color:#b58b52; font-weight:bold; font-size:20px;">Exemples de jugements du Conteur</h2>
 <hr>
 
-<ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:0; padding-left:1.2em; list-style-position:inside;">
-<li style="margin-bottom:12px;">
-Si le joueur <strong>Pixie</strong> prétendait follement être la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> au début, puis est resté silencieux pendant deux jours, le Conteur jugera très probablement que le joueur était fou de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> et lui accordera le pouvoir de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>.
-</li>
-<li style="margin-bottom:12px;">
-Si le joueur <strong>Pixie</strong> prétendait follement être la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> au début, puis a essayé de convaincre le groupe qu'il était le <a href="./sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a>, mais que tous les joueurs pensent que la <strong>Pixie</strong> est en réalité la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>, le Conteur jugera très probablement que le joueur était fou de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> et lui accordera le pouvoir de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>.
-</li>
-<li style="margin-bottom:12px;">
-Si le joueur <strong>Pixie</strong> prétendait follement être la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> au début, puis a essayé de convaincre le groupe qu'il était le <a href="./sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a>, et que tous les joueurs croient que la <strong>Pixie</strong> est en effet le <a href="./sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a>, le Conteur jugera très probablement que le joueur n'était pas fou de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> et ne lui accordera pas le pouvoir de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>.
-</li>
-<li style="margin-bottom:12px;">
-Si le joueur <strong>Pixie</strong> prétendait follement être la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> au début, puis a essayé de convaincre le groupe qu'il était le <a href="./sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a>, puis a essayé de convaincre le groupe qu'il était fou à cause du <a href="./sv_roles/cerenovus.html" style="color:#e05252; font-weight:bold; text-decoration:none;">Cerenovus</a> et qu'il est vraiment la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> après tout, le Conteur jugera très probablement que le joueur était fou de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> et lui accordera le pouvoir de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>.
-</li>
-<li style="margin-bottom:12px;">
-Si le joueur <strong>Pixie</strong> est d'abord resté silencieux pendant deux jours, puis s'est montré fou de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> en trouvant une raison crédible à son silence, le Conteur jugera très probablement qu'il était fou de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> et lui accordera le pouvoir de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>.
-</li>
-<li style="margin-bottom:12px;">
-Si le joueur <strong>Pixie</strong> est d'abord resté silencieux pendant deux jours, puis s'est montré fou de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> mais sans trouver de raison crédible à son silence (ou avec une raison crédible mais sans sembler faire de vrais efforts pour convaincre les gens, donnant l'impression de débiter des mots uniquement pour que le Conteur lui donne à regret le pouvoir), le Conteur jugera très probablement que le joueur n'était pas fou de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> et ne lui accordera pas le pouvoir de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>.
-</li>
-<li style="margin-bottom:12px;">
-Si le joueur <strong>Pixie</strong> prétendait follement être la <a href="./tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> pendant cinq jours, puis a dit à la hâte qu'il était la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> juste avant que la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> ne soit exécutée, le Conteur jugera très probablement qu'il n'était pas fou de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> et ne lui accordera pas le pouvoir de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>.
-</li>
-<li style="margin-bottom:12px;">
-Si le joueur <strong>Pixie</strong> prétendait follement être la <a href="./tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> pendant cinq jours, puis a dit qu'il était la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> avec un argument très convaincant pour expliquer pourquoi il avait bluffé en <a href="./tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>, qu'il donne ses informations de <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>, que cela suscite le débat, que les autres joueurs commencent à croire qu'il est la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> et à utiliser ses fausses informations dans la partie, puis que la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> meurt par exécution ce jour-là, alors le Conteur jugera très probablement que le joueur était fou de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> et lui accordera le pouvoir de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>.
-</li>
-</ul>
+<p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-bottom:12px; text-align:left;">
+• Si le joueur <strong>Pixie</strong> prétendait follement être la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> au début, puis est resté silencieux pendant deux jours, le Conteur jugera très probablement que le joueur était fou de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> et lui accordera le pouvoir de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>.
+</p>
+<p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-bottom:12px; text-align:left;">
+• Si le joueur <strong>Pixie</strong> prétendait follement être la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> au début, puis a essayé de convaincre le groupe qu'il était le <a href="./sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a>, mais que tous les joueurs pensent que la <strong>Pixie</strong> est en réalité la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>, le Conteur jugera très probablement que le joueur était fou de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> et lui accordera le pouvoir de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>.
+</p>
+<p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-bottom:12px; text-align:left;">
+• Si le joueur <strong>Pixie</strong> prétendait follement être la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> au début, puis a essayé de convaincre le groupe qu'il était le <a href="./sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a>, et que tous les joueurs croient que la <strong>Pixie</strong> est en effet le <a href="./sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a>, le Conteur jugera très probablement que le joueur n'était pas fou de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> et ne lui accordera pas le pouvoir de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>.
+</p>
+<p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-bottom:12px; text-align:left;">
+• Si le joueur <strong>Pixie</strong> prétendait follement être la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> au début, puis a essayé de convaincre le groupe qu'il était le <a href="./sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a>, puis a essayé de convaincre le groupe qu'il était fou à cause du <a href="./sv_roles/cerenovus.html" style="color:#e05252; font-weight:bold; text-decoration:none;">Cerenovus</a> et qu'il est vraiment la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> après tout, le Conteur jugera très probablement que le joueur était fou de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> et lui accordera le pouvoir de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>.
+</p>
+<p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-bottom:12px; text-align:left;">
+• Si le joueur <strong>Pixie</strong> est d'abord resté silencieux pendant deux jours, puis s'est montré fou de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> en trouvant une raison crédible à son silence, le Conteur jugera très probablement qu'il était fou de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> et lui accordera le pouvoir de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>.
+</p>
+<p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-bottom:12px; text-align:left;">
+• Si le joueur <strong>Pixie</strong> est d'abord resté silencieux pendant deux jours, puis s'est montré fou de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> mais sans trouver de raison crédible à son silence (ou avec une raison crédible mais sans sembler faire de vrais efforts pour convaincre les gens, donnant l'impression de débiter des mots uniquement pour que le Conteur lui donne à regret le pouvoir), le Conteur jugera très probablement que le joueur n'était pas fou de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> et ne lui accordera pas le pouvoir de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>.
+</p>
+<p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-bottom:12px; text-align:left;">
+• Si le joueur <strong>Pixie</strong> prétendait follement être la <a href="./tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> pendant cinq jours, puis a dit à la hâte qu'il était la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> juste avant que la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> ne soit exécutée, le Conteur jugera très probablement qu'il n'était pas fou de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> et ne lui accordera pas le pouvoir de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>.
+</p>
+<p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-bottom:12px; text-align:left;">
+• Si le joueur <strong>Pixie</strong> prétendait follement être la <a href="./tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> pendant cinq jours, puis a dit qu'il était la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> avec un argument très convincing pour expliquer pourquoi il avait bluffé en <a href="./tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>, qu'il donne ses informations de <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>, que cela suscite le débat, que les autres joueurs commencent à croire qu'il est la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> et à utiliser ses fausses informations dans la partie, puis que la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> meurt par exécution ce jour-là, alors le Conteur jugera très probablement que le joueur était fou de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> et lui accordera le pouvoir de la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>.
+</p>
 
 <!-- ===== Rôle du Conteur ===== -->
 <h2 id="role-conteur" style="color:#b58b52; font-weight:bold; font-size:20px;">Le rôle du Conteur dans la folie</h2>
@@ -222,32 +213,22 @@ Chaque joueur peut dire ce qu'il veut à tout moment et n'est jamais forcé de d
 <h3 id="plus-loin" style="color:#b58b52; font-weight:bold; font-size:22px;">Pour aller plus loin</h3>
 <hr class="explication">
 
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-• <a href="./roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">La Pixie</a>
-</p>
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-• <a href="./voyageurs/deviant.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Le Déviant</a>
-</p>
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-• <a href="./sv_roles/cerenovus.html" style="color:#e05252; font-weight:bold; text-decoration:none;">Le Cerenovus</a>
-</p>
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-• <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">La Lavandière</a>
-</p>
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-• <a href="./sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Le Savant</a>
-</p>
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+<p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
+• <a href="./roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">La Pixie</a><br>
+• <a href="./voyageurs/deviant.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Le Déviant</a><br>
+• <a href="./sv_roles/cerenovus.html" style="color:#e05252; font-weight:bold; text-decoration:none;">Le Cerenovus</a><br>
+• <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">La Lavandière</a><br>
+• <a href="./sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Le Savant</a><br>
 • <a href="./conteur.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Conseils pour les Conteurs et Conteuses</a>
 </p>
 
 <hr class="explication">
 
-<!-- ===== PIED DE PAGE ALIGNÉ ===== -->
-<ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:0; padding-left:1.2em; list-style-position:inside;">
-  <li> <a href="./trouble_brewing.md" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li> <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li> <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a></li>
-  <li> <a href="./experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Carrousel les rôles expérimentaux</a></li>
-  <li> <a href="./index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
-</ul>
+<!-- ===== PIED DE PAGE ===== -->
+<p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
+• <a href="./trouble_brewing.md" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a><br>
+• <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a><br>
+• <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a><br>
+• <a href="./experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Carrousel les rôles expérimentaux</a><br>
+• <a href="./index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a>
+</p>
