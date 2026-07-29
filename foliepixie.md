@@ -29,6 +29,8 @@ image: /images/Icon_pixie.png
   </a>
 </div>
 
+<hr class="villageois">
+
 
 ##  <span id="informations" style="color:#4ea3ff;">Informations</span>
 
@@ -52,6 +54,8 @@ image: /images/Icon_pixie.png
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
 « La petite Pixie s’est cachée dans le jardin. <br>  Cherchez-moi, coucou coucou ! <br>  Je suis cachée parmi vous. <br>  Tirant ses moustaches <br>  Le Démon passe et repasse, <br>  Mais ne trouve rien du tout. <br>  La Pixie l’envoie au trou. »
 </p>
+
+<hr class="villageois">
 
 <!-- APPARAÎT DANS -->
 <div style="text-align:center; margin: 20px 0%;">
@@ -79,7 +83,6 @@ image: /images/Icon_pixie.png
   <li><a href="#en-resume" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">En résumé</a></li>
   <li><a href="#conclusion" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Conclusion</a></li>
   <li><a href="#plus-loin" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pour aller plus loin</a></li>
-  <li><a href="#navigation" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Navigation</a></li>
 </ul>
 
 
@@ -91,7 +94,6 @@ image: /images/Icon_pixie.png
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
 « Lors de votre 1<sup>re</sup> nuit, vous apprenez un rôle de Villageois en jeu. Si vous étiez fou d’être ce rôle, gagnez sa capacité à sa mort.»
 </p>
-
 <p class="botc-flavour-text dropcap" style="margin-bottom:0;">
 <strong>La Pixie</strong> fait semblant d’être le même rôle que quelqu’un d’autre. 
 </p>
@@ -102,7 +104,7 @@ image: /images/Icon_pixie.png
 <hr>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-À l’occasion de la sortie de la <strong style="color:blue;">Pixie</strong>, Steven Medway a détaillé le fonctionnement de la
+À l’occasion de la sortie de la <strong>Pixie</strong>, Steven Medway a détaillé le fonctionnement de la
 <strong>folie</strong>. Partager cette mise au point aide les Conteurs ainsi que les joueurs 
 à bien comprendre cette mécanique essentielle de <em>Blood on the Clocktower</em>.
 </p>
@@ -121,7 +123,7 @@ La folie peut sembler déroutante&nbsp;: on peut <strong>être folle ou fou main
 <hr>
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:26px;">
-  <li>La <strong style="color:blue;">Pixie</strong> reçoit une capacité dès <strong>le début de la partie</strong>.</li>
+  <li>La <strong>Pixie</strong> reçoit une capacité dès <strong>le début de la partie</strong>.</li>
   <li>Elle gagne ensuite la capacité du rôle qu’elle prétendait être <strong>immédiatement après la mort</strong> de ce rôle.</li>
 </ul>
 
@@ -177,7 +179,7 @@ Le Conteur ne coche pas des cases&nbsp;: il évalue l’intention et l’effet g
 <hr>
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:26px;">
-  <li>La <strong style="color:blue;">folie</strong> encourage les joueurs du <span style="color:blue; font-weight:bold;">Bien</span> à mentir volontairement.</li>
+  <li>La <strong>folie</strong> encourage les joueurs du de l'équipe du bien à mentir volontairement.</li>
   <li>L’<strong>ivresse</strong> et le <strong>poison</strong> créent des mensonges involontaires.</li>
   <li>Certains rôles de soutien à l’ambiance valorisent aussi l’humour et la légèreté.</li>
 </ul>
@@ -188,12 +190,14 @@ Le Conteur doit donc privilégier les <strong>actions récentes</strong> pour ju
 
 <!-- ===== Conclusion ===== -->
 <h2 id="conclusion" style="color:#b58b52; font-weight:bold; font-size:28px;"> Conclusion</h2>
+
+<div class="botc-note">
 <p style="color:#e0c99d; font-size:18px; line-height:1.8; border-left:3px solid rgba(212,167,106,.5); padding-left:12px;">
 La Pixie n’est jamais forcée de dire quoi que ce soit. Le Conteur ne juge pas des mots exacts,
 mais <strong>de l’intention, de la cohérence et de l’impact</strong>. Il n’existe pas de critères fixes pour “être fou”&nbsp;:
 soit le joueur <em>joue le jeu</em>, soit il ne le fait pas — et dans tous les cas, c’est le Conteur qui décide.
 </p>
-
+</div>
 
 <!-- ===== Pour aller plus loin ===== -->
 <h3 id="plus-loin" style="color:#b58b52; font-weight:bold; font-size:22px;"> Pour aller plus loin</h3>
@@ -204,11 +208,6 @@ soit le joueur <em>joue le jeu</em>, soit il ne le fait pas — et dans tous les
   <li><a href="./sv_roles/cerenovus.html" style="color:red; font-weight:bold; text-decoration:none;">Le Cerenovus</a></li>
   <li><a href="./tb_roles/lavandiere.html" style="color:blue; font-weight:bold; text-decoration:none;">La Lavandière</a></li>
   <li><a href="./sv_roles/savant.html" style="color:blue; font-weight:bold; text-decoration:none;">Le Savant</a></li>
-</ul>
-
-<hr class="explication">
-
-<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li> <a href="./conteur.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Conseils pour les Conteurs et Conteuses</a></li>
   <li> <a href="./trouble_brewing.md" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
   <li> <a href="./bmr.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
