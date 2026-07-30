@@ -63,11 +63,11 @@ description: "Chaque nuit*, vous pouvez choisir 3 joueurs (le Conteur les annonc
 <hr class="demon">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
-« Chaque nuit*, vous pouvez choisir 3 joueurs (le Conteur les annonce) : chacun choisit en secret la vie ou la mort, mais s’ils vivent tous, tous meurent. » <br>
+« Chaque nuit*, vous pouvez choisir 3 joueurs (le Conteur les annonce) : chacun choisit en secret la vie ou la mort, mais s’ils vivent tous, tous meurent. » <br><br>
 </p>
 
 <p class="botc-flavour-text dropcap" style="margin:0; color:#e0c99d; font-size:20px; line-height:1.7;">
-L’Al-Hadikhia pose un dilemme à trois joueurs : qui va choisir de mourir pour que les autres restent en vie ? <br>
+L’Al-Hadikhia pose un dilemme à trois joueurs : qui va choisir de mourir pour que les autres restent en vie ? <br><br>
 </p>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
