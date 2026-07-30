@@ -12,11 +12,10 @@ image: /images/logogold.png
   </a>
 </p>
 
-<hr class="explication">
 
 #  <span style="color:#5C2E1F; font-weight:bold; font-size:36px;">Glossaire</span>
 
-<p class="botc-flavour-text dropcap" style="margin:0; color:#e0c99d; font-size:20px; line-height:1.7;">
+<p class="botc-flavour-text dropcap" style="margin-bottom:10px; color:#e0c99d; font-size:18px;">
 « Chaque terme a son importance dans Blood on the Clocktower »
 </p>
 
