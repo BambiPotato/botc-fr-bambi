@@ -21,9 +21,9 @@ image: /images/logogold.png
 « Chaque terme a son importance dans Blood on the Clocktower »
 </p>
 
-<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
+<div class="botc-note">
 Dans cette section, vous trouverez tous les termes officiels du glossaire en français, classés par ordre alphabétique. Cliquez sur une lettre pour accéder directement aux termes correspondants.
-</p>
+</div>
 
 <hr class="explication">
 
