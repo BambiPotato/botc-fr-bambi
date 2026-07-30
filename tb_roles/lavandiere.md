@@ -57,12 +57,14 @@ image: /images/Icon_washerwoman.png
 </div>
 
 
+
 <h3 style="color:#4ea3ff; font-weight:bold;"> Résumé</h3>
 <hr class="villageois">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
 « Lors de votre première nuit, vous apprenez un rôle de Villageois en jeu parmi 2 joueurs. »
 </p>
+
 <p class="botc-flavour-text dropcap" style="margin:0;">
 LA LAVANDIÈRE apprend qu’un certain rôle Villageois est en jeu, mais ne sait pas pas qui l'incarne.
 </p>
@@ -71,6 +73,7 @@ LA LAVANDIÈRE apprend qu’un certain rôle Villageois est en jeu, mais ne sait
 <li>Lors de la première nuit, le Conteur réveille la Lavandière et lui montre deux joueurs et un rôle de Villageois, qui appartient à l’un des deux.</li><br>
 <li>Elle reçoit cette information une seule fois, et n’apprend rien d’autre.</li>
 </ul>
+
 
 
 
