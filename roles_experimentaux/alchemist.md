@@ -46,9 +46,7 @@ image: /images/Icon_alchemist.png
 </ul>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-« Va au cœur de la Terre. La rectification te dévoilera la pierre cachée. 
-  Au-dessus de l’or, le rouge apparaîtra. 
-  Kether en Malkhuth. »
+« Va au cœur de la Terre. La rectification te dévoilera la pierre cachée. <br> Au-dessus de l’or, le rouge apparaîtra. <br> Kether en Malkhuth. »
 </p>
 
 
@@ -104,11 +102,11 @@ Instructions au Conteur
 <hr>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
-• L’Alchimiste a la capacité du <a href="../tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a>. Il y a donc 2 Marginaux supplémentaires en jeu.<br><br>
+• L’Alchimiste a la capacité du <a href="../tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a>. <br> Il y a donc 2 Marginaux supplémentaires en jeu.<br><br>
 • L’Alchimiste a la capacité de l’<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>.<br>
 La première nuit, il se réveille et empoisonne le <a href="../roles_experimentaux/wizard.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mage</a>.<br>
 La deuxième nuit, il se réveille et empoisonne l’<a href="../roles_experimentaux/alsaahir.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alsaahir</a>.<br>
-La troisième nuit, il se réveille et essaie d’empoisonner le <a href="../roles_experimentaux/lord_of_typhon.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Seigneur de Typhon</a>, mais le Conteur lui demande de choisir une autre cible. Il empoisonne le <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> à la place. Le <a href="../roles_experimentaux/lord_of_typhon.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Seigneur de Typhon</a> n’est pas empoisonné.
+La troisième nuit, il se réveille et essaie d’empoisonner le <a href="../roles_experimentaux/lordoftyphon.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Seigneur de Typhon</a>, mais le Conteur lui demande de choisir une autre cible. Il empoisonne le <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> à la place. Le <a href="../roles_experimentaux/lordoftyphon.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Seigneur de Typhon</a> n’est pas empoisonné.
 </p>
 
 
@@ -149,7 +147,7 @@ Les jinxes suivants concernent l’<strong>Alchimiste</strong> et modifient sa c
 
   <li> 🧞
     <img src="../images/Icon_spy.png" alt="Espion" width="26" style="vertical-align:middle; border-radius:6px; margin-right:6px;">
-    <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espion</a> :  
+    <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a> :  
     Un Alchimiste-Espionne n’a pas la capacité de l’Espionne et une Espionne est en jeu.  
     Après chaque exécution, si l’Alchimiste-Espionne est vivant, il peut désigner publiquement un joueur vivant comme étant l’Espionne.  
     Si c’est correct, le <span style="color:#d45b5b; font-weight:bold;">Démon</span> doit choisir l’Espionne cette nuit.
