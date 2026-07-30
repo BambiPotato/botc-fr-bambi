@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Aéronaute
+description: "Chaque nuit, vous apprenez un joueur d’un type de rôle différent de la nuit précédente. [+0 ou +1 Marginal]"
+image: /images/Icon_balloonist.png
 ---
 
 <p align="left">
@@ -9,37 +11,21 @@ title: Aéronaute
   </a>
 </p>
 
+<hr class="explication">
+
 <!-- Aéronaute -->
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="./balloonist.html" style="text-decoration:none;">
     <img src="../images/Icon_balloonist.png" alt="Aéronaute" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#4ea3ff; font-weight:bold; font-size:22px;">Aéronaute</span>
+    <span style="color:#4ea3ff; font-weight:bold; font-size:35px;">🎈 Aéronaute</span>
   </a>
 </div>
 
-<!-- APPARAÎT DANS -->
-<div style="text-align:center; margin: 20px 0;">
-  <a href="../experimentaux.html" style="text-decoration:none;">
-    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
-    <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
-  </a>
-</div>
+<hr class="villageois">
 
-#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Aéronaute</span>
 
-<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Plus de chaleur ! Plus haut ! Plus haut ! Più alto !  
-  Ahhh… c’est magnifique, vu d’ici, tu ne trouves pas ?  
-  Vois-tu les enfants pêcher près de la rivière, sous le saule ?  
-  Le reflet du soleil sur les mats du chapiteau ?  
-  Qu’est-ce que c’est ? Un vieil homme, seul, évanoui dans les vignes ?  
-  Moins de chaleur ! Plus bas ! Plus bas ! Vai più in basso ! »
-</p>
-
----
 
 ##  <span style="color:#4ea3ff;">Informations</span>
 
@@ -60,32 +46,118 @@ title: Aéronaute
   <li><strong>Révélé :</strong> 7 avril 2020</li>
 </ul>
 
----
 
-##  <span style="color:#4ea3ff;">Résumé</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>« Chaque nuit, vous apprenez un joueur d’un type de rôle différent de la nuit précédente. [+0 ou +1 Étranger] »</strong>
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Plus de chaleur ! Plus haut ! Plus haut ! Più alto !  
+Ahhh… c’est magnifique, vu d’ici, tu ne trouves pas ?  
+Vois-tu les enfants pêcher près de la rivière, sous le saule ?  
+Le reflet du soleil sur les mats du chapiteau ?  
+Qu’est-ce que c’est ? Un vieil homme, seul, évanoui dans les vignes ?  
+Moins de chaleur ! Plus bas ! Plus bas ! Vai più in basso ! »
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-L’<strong>Aéronaute</strong> apprend des joueurs de types de rôles différents au fil des nuits : 
-<span style="color:#4ea3ff; font-weight:bold;">Villageois</span>, <span style="color:#4ea3ff; font-weight:bold;">Étrangers</span>, 
-<span style="color:#d45b5b; font-weight:bold;">Sbires</span> ou <span style="color:#d45b5b; font-weight:bold;">Démons</span>.
+
+<hr class="villageois">
+
+<!-- APPARAÎT DANS -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../experimentaux.html" style="text-decoration:none;">
+    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:25px;">🎠 Apparaît dans : The Carousel</span>
+  </a>
+</div>
+
+
+<h2 style="color:#4ea3ff;"><span id="resume">Résumé</span></h2>
+<hr class="villageois">
+
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
+« Chaque nuit, vous apprenez un joueur d’un type de rôle différent de la nuit précédente. [+0 ou +1 Marginal] »
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Chaque fois que l’Aéronaute apprend un joueur, ce joueur doit avoir un <strong>type de rôle différent</strong> de celui appris la nuit précédente.</li>
-  <li>L’Aéronaute ne connaît pas le type du joueur appris, uniquement son identité.</li>
-  <li>Le joueur montré peut être vivant ou mort.</li>
-  <li>Le joueur montré peut être bon ou maléfique.</li>
-  <li>Si l’Aéronaute est ivre ou empoisonné, il peut apprendre un joueur du même type que la nuit précédente.  
-      Quand il redevient sobre et en bonne santé, il doit à nouveau apprendre un joueur d’un type de rôle différent du dernier joueur appris.</li>
-  <li>Lors de la mise en place, la conteuse peut choisir d’ajouter un <span style="color:#4ea3ff; font-weight:bold;">Étranger</span> à cause de la capacité de l’Aéronaute.</li>
-</ul>
+<p class="botc-flavour-text dropcap" style="margin:0; color:#e0c99d; font-size:20px; line-height:1.7;">
+L’Aéronaute apprend des joueurs de types de rôles différents.
+</p>
+
+<p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
+• Chaque fois que l’Aéronaute apprend un joueur, ce joueur a nécessairement un type de rôle différent du dernier joueur qu’il a appris.<br><br>
+• L’Aéronaute n'apprend pas pour autant le type de rôle du joueur, il apprend juste que ce type est différent de celui d’avant.<br><br>
+• Le joueur appris peut être en vie ou mort.<br><br>
+• Le joueur appris peut être bon ou maléfique.<br><br>
+• Si l’Aéronaute est ivre ou empoisonné, il peut apprendre un joueur avec un rôle du même type que le dernier joueur qu’il a appris. Lorsque l’Aéronaute redevient sobre et sain, il doit apprendre un joueur d’un type de rôle différent du dernier joueur qu’il a appris.<br><br>
+• Lors de la mise en place, le Conteur peut choisir d'ajouter un Marginal en raison de la capacité de l’Aéronaute.
+</p>
+
+<!-- ===== COMMENT CONTER ===== -->
+<h2 style="color:#4ea3ff;"><span id="comment-conter">Comment Conter</span></h2>
+<hr>
+
+<p class="botc-flavour-text dropcap" style="margin-bottom:10px; color:#e0c99d; font-size:18px;">
+Instructions au Conteur
+</p>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
+• Lors de la mise en place, vous pouvez ajouter un Marginal.<br><br>
+• Lors de la préparation de la première nuit, marquez n’importe quel joueur du jeton <strong>« Appris »</strong>.<br><br>
+• Par la suite, lors de la préparation de chaque nuit, déplacez le jeton <strong>« Appris »</strong> sur un rôle de type différent.<br><br>
+• Chaque nuit, réveillez l’Aéronaute. Désignez le joueur marqué <strong>« Appris »</strong>. L’Aéronaute se rendort.
+</p>
+
+<!-- ===== EXEMPLES ===== -->
+<h2 style="color:#4ea3ff;"><span id="exemples">Exemples</span></h2>
+<hr>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
+• Abdallah est le <a href="./vizier.html" style="color:#e05252; font-weight:bold; text-decoration:none;">Vizir</a>, Lewis est la <a href="./high_priestess.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Grande Prêtresse</a>, Sarah est le <a href="./politician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Politicien</a>.<br>
+La première nuit, l’Aéronaute apprend Abdallah.<br>
+La deuxième nuit, l’Aéronaute apprend Lewis.<br>
+La troisième nuit, l’Aéronaute apprend Sarah.<br><br>
+• Julian est le <a href="./nightwatchman.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Veilleur de Nuit</a>, Alex est le <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a> et Lachlan est le <a href="./puzzlemaster.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maître des Puzzles</a>.<br>
+La première nuit, l’Aéronaute apprend Julian. La deuxième nuit, l'<a href="../tb_roles/empoisonneur.html" style="color:#e05252; font-weight:bold; text-decoration:none;">Empoisonneur</a> choisit l’Aéronaute. Comme l’Aéronaute est empoisonné, le Conteur choisit de lui montrer à nouveau un Villageois ; l’Aéronaute apprend Alex.<br>
+La troisième nuit, l’Aéronaute est sobre et sain, et apprend Lachlan, qui est un rôle de type différent d'Alex.
+</p>
+
+<!-- ===== CONSEILS & ASTUCES ===== -->
+<h2 style="color:#4ea3ff;"><span id="conseils-astuces">Conseils &amp; Astuces</span></h2>
+<hr>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
+• Faites attention aux déclarations de Marginaux ! Vous pourriez avoir ajouté un Marginal supplémentaire. Ainsi, si vous entendez des joueurs prétendre être le <a href="./zealot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Zélote</a>, la <a href="./snitch.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Balance</a> ou la <a href="../bmr_roles/enfantdelalune.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sélénite</a>, cela peut vous aider à prouver que vous êtes bien celui que vous prétendez être. De plus, savoir où se trouvent les Marginaux facilite le déchiffrement de vos informations.<br><br>
+• Chaque jour, parlez au joueur dont vous avez appris le nom la nuit précédente. Découvrez quel rôle il revendique, afin de pouvoir comparer sa déclaration à celle du joueur précédent et vérifier si cela a du sens !<br><br>
+• Attendez plus tard dans la partie pour parler aux joueurs sur lesquels vous avez obtenu des informations, lorsque les joueurs bons sont plus susceptibles de dire la vérité sur leur rôle, et que les joueurs maléfiques ont déjà choisi leur bluff. Si un joueur maléfique découvre tôt que vous l’avez vu juste après un Villageois de confiance, il pourrait choisir de bluffer en tant que Marginal pour brouiller vos pistes et affaiblir vos informations.<br><br>
+• Choisissez un joueur en qui vous avez confiance et partagez vos informations avec lui chaque jour. Cela aide l’équipe du Bien à croire que vous n’avez pas menti ni modifié vos informations.<br><br>
+• Mentez sur votre rôle pour rester en vie le plus longtemps possible. Prétendez être une <a href="./banshee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Banshee</a> ou la <a href="./farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermière</a> pour que l’équipe maléfique hésite à vous tuer la nuit ! Plus vous vivez longtemps, plus vos informations deviennent puissantes.<br><br>
+• Après avoir reçu plusieurs nuits d’informations, décidez quel joueur vous inspire le plus confiance parmi vos informations, puis vérifiez si le reste de vos informations est cohérent par rapport aux affirmations de ce joueur. Si vous avez appris l'existence du <a href="../sv_roles/reveur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Rêveur</a> à la nuit 3 et que vous lui faites entièrement confiance, vous savez alors que les joueurs appris à la nuit 2 et à la nuit 4 ne peuvent pas être des Villageois.<br><br>
+• Méfiez-vous des fausses enregistrations ! L’<a href="../tb_roles/espion.html" style="color:#e05252; font-weight:bold; text-decoration:none;">Espionne</a> et La <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a> peuvent apparaître sous des types de rôles différents. En fait, si votre Conteur se sent particulièrement diabolique, il pourrait vous montrer La <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a> chaque nuit (Conteurs, ne faites pas ça, s'il vous plaît).<br><br>
+• Cherchez d’autres rôles qui détectent les types de rôles, comme L'<a href="../tb_roles/archiviste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Archiviste</a> et Le <a href="../sv_roles/crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur public</a>. Si vous savez de source sûre que quelqu’un est un Marginal, ou qu’il ne peut pas être un Sbire, cela affine vos informations et vous rend encore plus puissant.<br><br>
+• À moins qu’il n’y ait des rôles comme L’<a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> ou Le <a href="../sv_roles/cerenovus.html" style="color:#e05252; font-weight:bold; text-decoration:none;">Cerenovus</a> sur le script, si vous apprenez deux joueurs d’affilée qui prétendent tous deux être des Villageois, il est extrêmement probable que l’un d’eux soit maléfique. Traitez cette information exactement comme vous le feriez pour une <a href="../sv_roles/couturiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Couturière</a> qui aurait appris que deux joueurs sont dans des équipes opposées !<br><br>
+• Faites attention à ce qui figure sur le script. Il est très peu probable que L'<a href="../tb_roles/vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Immaculée</a> vous dise qu’elle est un Marginal de son vivant, et La <a href="../sv_roles/mutant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bête de foire</a> ne le peut littéralement pas ! Ce n’est pas parce que vous avez appris deux joueurs d’affilée prétendant être des Villageois que l’un d’eux est obligatoirement maléfique. Cas particulier : si le Démon est un <a href="../sv_roles/vortox.html" style="color:#e05252; font-weight:bold; text-decoration:none;">Vortox</a>, alors chaque joueur que vous apprenez doit être du même type de rôle que le joueur précédent.
+</p>
+
+<!-- ===== BLUFFER L'AÉRONAUTE ===== -->
+<h2 style="color:#4ea3ff;"><span id="bluffer-aeronaut">Bluffer l’Aéronaute</span></h2>
+<hr>
+
+<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+Lorsque vous bluffez l’<strong>Aéronaute</strong>, gardez quelques points à l'esprit :
+</p>
+
+<p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
+• Comme l’Aéronaute peut ajouter un Marginal, demandez à un Sbire de bluffer en tant que Marginal, pour donner l’impression que vous avez ajouté un Marginal supplémentaire dans la partie.<br><br>
+• Parlez aux joueurs bons et découvrez quel type de rôle ils revendiquent, afin de pouvoir prétendre avoir des informations plus réalistes.<br><br>
+• Ouvrez l’œil pour repérer les joueurs bons possédant des informations qui font passer d’autres joueurs pour maléfiques. Si Le <a href="../tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a> a vu Le <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> comme un candidat à l'<a href="../tb_roles/empoisonneur.html" style="color:#e05252; font-weight:bold; text-decoration:none;">Empoisonneur</a>, dites que vous avez vu Le <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> et Le <a href="../tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a> lors de nuits consécutives. Non seulement cela donne l’impression que Le <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> est un <a href="../tb_roles/empoisonneur.html" style="color:#e05252; font-weight:bold; text-decoration:none;">Empoisonneur</a> maléfique, mais vous gagnerez aussi la confiance sociale du <a href="../tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a> !<br><br>
+• Ne révélez votre prétendu rôle qu’à quelques joueurs bons, afin que votre survie plus tard dans la partie ne soit pas suspecte. L’Aéronaute devenant plus puissant à chaque nuit d’information, l’équipe maléfique voudrait qu’un vrai Aéronaute soit mort bien avant le dernier jour.<br><br>
+• Soutenez que vous avez appris vos Sbires l’un après l’autre ! Cela peut donner l’impression qu’un des Sbires est bon (particulièrement utile si ce Sbire bluffe avec des informations qui appuient les vôtres, comme une <a href="../tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> ou L'<a href="./steward.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Intendante</a>). Sinon, utilisez cela pour piéger l’un de vos Sbires en le faisant passer pour le Démon ! Si vous avez appris deux joueurs maléfiques d’affilée, ils ne devraient pas être tous les deux des Sbires… n’est-ce pas ?<br><br>
+• Soyez très attentif aux chaînes de confiance sociale entre les joueurs bons. Si vous dites avoir appris deux bons Villageois coup sur coup et que ces deux joueurs se font mutuellement confiance, ils vont se méfier de vous. Cherchez plutôt des joueurs bons qui ne se font pas confiance et appuyez là où ça fait mal — si Le <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a> est convaincu que Le <a href="../tb_roles/maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a> est maléfique, dites que vous avez appris Le <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a> puis Le <a href="../tb_roles/maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a> la nuit suivante, puis observez le chaos s’installer.<br><br>
+• Attendez quelques jours avant de partager vos « informations » avec les joueurs bons. L’Aéronaute est l’un des rôles les plus difficiles à bluffer, car vous ne savez pas immédiatement quels joueurs bons sont des Villageois et lesquels sont des Marginaux. En attendant avant de livrer vos informations, vous aurez quelques jours pour essayer de comprendre qui est qui ! Les informations que vous simulez n’ont pas besoin d’être parfaites, mais elles doivent sembler cohérentes aux yeux de l’équipe du Bien.<br><br>
+• Si l’un de vos Sbires est une <a href="./widow.html" style="color:#e05252; font-weight:bold; text-decoration:none;">Veuve</a> ou une <a href="../tb_roles/espion.html" style="color:#e05252; font-weight:bold; text-decoration:none;">Espionne</a>, parlez-lui le plus tôt possible pour prendre connaissance du Grimoire. Bluffer de vraies informations d’Aéronaute est un excellent moyen de prouver au village qu’au pire vous êtes simplement l’<a href="../tb_roles/espion.html" style="color:#e05252; font-weight:bold; text-decoration:none;">Espionne</a>, et absolument pas le Démon !
+</p>
 
 
----
+
+<hr class="explication">
+
 
 ## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
 
@@ -94,230 +166,12 @@ L’<strong>Aéronaute</strong> apprend des joueurs de types de rôles différen
     🧞 
     <img src="../images/Icon_marionette.png" alt="Marionnette" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/marionnette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> :  
-    Si la Marionnette pense qu’elle est l’Aéronaute, un <span style="color:#4ea3ff; font-weight:bold;">Étranger</span> supplémentaire a peut-être été ajouté lors de la mise en place.
+    Si la Marionnette pense qu’elle est l’Aéronaute, un <span style="color:#4ea3ff; font-weight:bold;">Marginal</span> a peut-être été ajouté lors de la mise en place.
   </li>
 </ul>
 
----
 
-##  <span style="color:#4ea3ff;">Comment Conter</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Lors de la mise en place, vous pouvez ajouter un <span style="color:#4ea3ff; font-weight:bold;">Étranger</span> supplémentaire grâce à la capacité de l’Aéronaute.
-</p>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Pour la première nuit, marquez un joueur avec le jeton de rappel <strong>SAIT (KNOW)</strong>.  
-Pour chaque nuit suivante, marquez un joueur qui a un <strong>type de rôle différent</strong> de celui du joueur précédemment marqué, toujours avec le rappel <strong>KNOW</strong>.
-</p>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Chaque nuit, réveillez l’Aéronaute, pointez le joueur marqué <strong>SAIT (KNOW)</strong>, puis rendormez l’Aéronaute.  
-Mettez à jour le jeton de rappel <strong>SAIT (KNOW)</strong> avant la nuit suivante.
-</p>
-
----
-
-##  <span style="color:#4ea3ff;">Exemples</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>Amir</strong> est le 
-<a href="../roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a>,  
-<strong>Louis</strong> est la 
-<a href="../roles_experimentaux/high_priestess.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Grande Prêtresse</a>  
-et <strong>Sarah</strong> est la 
-<a href="../roles_experimentaux/politician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Politicienne</a>.  
-La première nuit, l’Aéronaute apprend <strong>Amir</strong>.  
-La deuxième nuit, il apprend <strong>Louis</strong>.  
-La troisième nuit, il apprend <strong>Sarah</strong>.
-</p>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>Julien</strong> est le 
-<a href="../roles_experimentaux/nightwatchman.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Veilleur de Nuit</a>,  
-<strong>Alexandre</strong> est le 
-<a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a>  
-et <strong>Laurent</strong> est le 
-<a href="../roles_experimentaux/puzzlemaster.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maître des Puzzles</a>.  
-La première nuit, l’Aéronaute apprend <strong>Julien</strong>.  
-La deuxième nuit, l’
-<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> choisit l’Aéronaute.  
-Comme il est empoisonné, la conteuse choisit de lui montrer un autre <span style="color:#4ea3ff; font-weight:bold;">Villageois</span> et l’Aéronaute apprend <strong>Alexandre</strong>.  
-La troisième nuit, redevenu sobre et en bonne santé, l’Aéronaute apprend <strong>Lachlan</strong>, qui a un type de rôle différent de celui d’Alexandre.
-</p>
-
----
-
-## 💡 <span style="color:#4ea3ff;">Astuces et Conseils</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>
-    Soyez attentif aux déclarations d’<span style="color:#4ea3ff; font-weight:bold;">Étrangers</span>.  
-    Vous avez peut-être ajouté un Étranger supplémentaire : si des joueurs et joueuses prétendent être le 
-    <a href="../roles_experimentaux/zealot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Zélote</a>, la 
-    <a href="../roles_experimentaux/snitch.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Balance</a> 
-    ou l’
-    <a href="../sv_roles/enfant_de_la_lune.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Enfant de la lune</a>,  
-    cela peut vous aider à prouver que vous êtes bien l’Aéronaute et à localiser les Étrangers.
-  </li>
-
-  <li>
-    Chaque jour, parlez au joueur dont vous avez appris le nom la nuit précédente.  
-    Demandez-lui quel rôle il revendique, pour comparer sa déclaration avec celles des joueurs appris les autres nuits et voir si tout est cohérent.
-  </li>
-
-  <li>
-    Vous pouvez aussi attendre quelques jours avant d’aller voir les joueurs que vous avez appris.  
-    Plus la partie avance, plus les joueurs bons ont tendance à dire la vérité, et plus les joueurs maléfiques ont figé leurs bluffs.  
-    Un joueur maléfique qui découvre tôt que vous l’avez vu juste après un Villageois fiable peut choisir de se faire passer pour un Étranger pour brouiller vos informations.
-  </li>
-
-  <li>
-    Choisissez un joueur de confiance et partagez-lui vos informations chaque jour.  
-    Cela permet à l’équipe du Bien de vérifier que vous ne modifiez pas vos résultats au fil de la partie.
-  </li>
-
-  <li>
-    Vous pouvez mentir sur votre rôle pour rester en vie plus longtemps.  
-    Par exemple, prétendez être une 
-    <a href="../roles_experimentaux/banshee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Banshee</a> 
-    ou un 
-    <a href="../roles_experimentaux/farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermier</a>  
-    pour que l’équipe maléfique hésite à vous tuer.  
-    Plus vous vivez longtemps, plus votre information devient puissante.
-  </li>
-
-  <li>
-    Après plusieurs nuits, choisissez un joueur dont vous êtes presque sûr qu’il est honnête à propos de son rôle.  
-    Si, par exemple, vous avez appris un 
-    <a href="../sv_roles/reveur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Rêveur</a> 
-    la troisième nuit et que vous lui faites confiance, vous savez que les joueurs appris la deuxième et la quatrième nuit ne peuvent pas être du même type de rôle que lui.
-  </li>
-
-  <li>
-    Méfiez-vous des erreurs d’enregistrement, comme avec le 
-    <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a>  
-    ou l’
-    <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espion</a>.  
-    Ces rôles peuvent apparaître comme de faux types de rôles et rendre vos déductions plus difficiles.
-  </li>
-
-  <li>
-    Cherchez les rôles qui détectent le type de rôle, comme la 
-    <a href="../tb_roles/bibliothecaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bibliothécaire</a>  
-    ou le 
-    <a href="../sv_roles/crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur</a>.  
-    Si vous savez qu’un joueur est sûrement un <span style="color:#4ea3ff; font-weight:bold;">Étranger</span> ou ne peut pas être un <span style="color:#d45b5b; font-weight:bold;">Sbire</span>, cela renforce énormément vos informations.
-  </li>
-
-  <li>
-    Traitez vos résultats un peu comme ceux de la 
-    <a href="../sv_roles/couturiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Couturière</a> étalés dans le temps :  
-    si vous apprenez deux joueurs de suite qui prétendent tous deux être des <span style="color:#4ea3ff; font-weight:bold;">Villageois</span>,  
-    et qu’aucun rôle sur le script ne justifie cela (pas d’
-    <a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>,  
-    ni de 
-    <a href="../sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a>, etc.),  
-    il est très probable que l’un des deux soit maléfique.
-  </li>
-
-  <li>
-    Gardez en tête les Étrangers difficiles à avouer, comme la 
-    <a href="../roles_experimentaux/damsel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Demoiselle</a>  
-    ou le 
-    <a href="../sv_roles/mutant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mutant</a>.  
-    Ils mentiront souvent sur leur type de rôle pour survivre, ce qui peut vous donner deux « faux » Villageois d’affilée.
-  </li>
-
-  <li>
-    Si le Démon est un 
-    <a href="../sv_roles/vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a>,  
-    vos informations peuvent être complètement inversées.  
-    Dans certains cas extrêmes, la conteuse peut même décider de vous montrer des joueurs du même type de rôle plusieurs nuits d’affilée pour renforcer la confusion.
-  </li>
-
-</ul>
-
----
-
-##  <span style="color:#4ea3ff;">Bluffer l’Aéronaute</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>
-    Comme l’Aéronaute peut ajouter un <span style="color:#4ea3ff; font-weight:bold;">Étranger</span>, faites bluffer un 
-    <span style="color:#d45b5b; font-weight:bold;">Sbire</span> en tant qu’Étranger, pour donner l’illusion qu’un Étranger supplémentaire a été ajouté au script.
-  </li>
-
-  <li>
-    Discutez avec les joueurs bons pour savoir quel type de rôle ils prétendent avoir.  
-    Cela vous aide à inventer une suite d’informations crédible et cohérente lorsque vous racontez vos nuits.
-  </li>
-
-  <li>
-    Surveillez les bons rôles qui produisent des informations accusatrices.  
-    Si, par exemple, l’
-    <a href="../tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Enquêteur</a>  
-    voit le 
-    <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> 
-    comme candidate ou candidat 
-    <a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>,  
-    vous pouvez prétendre avoir appris le Moine puis l’Enquêteur sur deux nuits consécutives.  
-    Cela renforce l’idée que le Moine est en réalité un <span style="color:#d45b5b; font-weight:bold;">Sbire</span>.
-  </li>
-
-  <li>
-    Ne révélez votre prétendu rôle qu’à quelques joueurs de confiance.  
-    L’Aéronaute devient de plus en plus puissant à chaque nuit, donc un vrai Aéronaute serait une cible prioritaire.  
-    S’il survit très longtemps alors que tout le monde sait qui il est, cela deviendrait suspect.
-  </li>
-
-  <li>
-    Vous pouvez prétendre avoir appris vos Sbires les uns après les autres.  
-    Faites passer l’un d’eux pour un 
-    <span style="color:#4ea3ff; font-weight:bold;">Villageois</span> innocent, et utilisez l’autre comme bouc émissaire à exécuter,  
-    pendant que vos alliés maléfiques soutiennent vos « informations ».
-  </li>
-
-  <li>
-    Observez les chaînes de confiance entre les joueurs bons.  
-    Si deux joueurs se font une confiance totale et que vous affirmez les avoir appris deux nuits de suite,  
-    ils risquent de se méfier de vous plutôt que l’un de l’autre.  
-    Cherchez plutôt des bons joueurs qui ne se font pas confiance et exploitez cette tension.
-  </li>
-
-  <li>
-    Attendez quelques jours avant de détailler vos « résultats ».  
-    L’Aéronaute est l’un des rôles les plus difficiles à bluffer, car vous ne connaissez pas immédiatement qui est 
-    <span style="color:#4ea3ff; font-weight:bold;">Villageois</span> et qui est <span style="color:#4ea3ff; font-weight:bold;">Étranger</span>.  
-    Utilisez les premiers jours pour observer et comprendre qui prétend quoi, puis construisez vos nuits à partir de ces informations.
-  </li>
-
-  <li>
-    Si une 
-    <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a> 
-    ou un 
-    <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espion</a> 
-    fait partie de votre équipe, obtenez le Grimoire le plus tôt possible.  
-    Bluffer de vraies informations d’Aéronaute est un excellent moyen de paraître honnête, tout en cachant que vous êtes peut-être le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.
-  </li>
-
-  <li>
-    Vous pouvez aussi utiliser des rôles comme la 
-    <a href="../tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>,  
-    l’
-    <a href="../roles_experimentaux/steward.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Intendant</a>,  
-    le 
-    <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-Mort</a> 
-    ou le 
-    <a href="../tb_roles/maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a>  
-    comme appuis sociaux : si vos fausses informations semblent bien s’emboîter avec les leurs, le village sera plus enclin à vous croire.
-  </li>
-
-</ul>
-
----
+<hr class="explication">
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
