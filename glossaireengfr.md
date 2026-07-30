@@ -52,7 +52,7 @@ Joueur du même alignement.
 
 ## 🅱️ B
 **Blood on the Clocktower (Le jeu)**  
-Le jeu lui-même, souvent abrégé en *BotC*.  
+Blood on the Clocktower, le meilleur jeu de bluff au monde, en toute objectivité bien sûr ! Souvent abrégé BotC.
 
 ---
 
