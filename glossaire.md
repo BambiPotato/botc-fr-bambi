@@ -17,7 +17,7 @@ image: /images/logogold.png
 
 #  <span style="color:#5C2E1F; font-weight:bold; font-size:36px;">Glossaire</span>
 
-<p class="botc-flavour-text dropcap" style="margin-bottom:0;">
+<p class="botc-flavour-text dropcap" style="margin:0;">
 « Chaque terme a son importance dans Blood on the Clocktower »
 </p>
 
@@ -25,7 +25,7 @@ image: /images/logogold.png
 Dans cette section, vous trouverez tous les termes officiels du glossaire en français, classés par ordre alphabétique. Cliquez sur une lettre pour accéder directement aux termes correspondants.
 </div>
 
-<hr class="explication">
+
 
 ##  <span style="color:#5C2E1F;">Sommaire alphabétique</span>
 
