@@ -109,9 +109,9 @@ Vous pouvez rendre la capacité de l'Amnésique légèrement supérieure à cell
 <hr>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
-• Chaque nuit, l'Amnésique se réveille. Le Conteur lui demande de désigner deux joueurs. La première nuit, le Conteur fait non de la tête. La deuxième nuit, le Conteur fait oui de la tête. L’Amnésique vient le trouver et demande : « <em>Est-ce que j’apprends si deux joueurs sont des Sbires ?</em> » Le Conteur dit « tu brûles », car sa capacité est en fait de détecter si l’un des deux joueurs désignés est un Sbire.<br><br>
+• Chaque nuit, l'Amnésique se réveille. Le Conteur lui demande de désigner deux joueurs. <br> La première nuit, le Conteur fait non de la tête. <br> La deuxième nuit, le Conteur fait oui de la tête. <br> L’Amnésique rend visite au Conteur et lui demande : <br> « <em>Est-ce que j’apprends si deux joueurs sont des Sbires ?</em> » <br> Le Conteur lui répond :  <em>« tu brûles »</em>, car sa capacité est en fait de détecter si l’un des deux joueurs désignés est un Sbire.<br><br>
 • Chaque nuit, l'Amnésique apprend un chiffre. L’Amnésique apprend en fait combien de voisins en vie sont des Villageois.
-</p>
+</p> 
 
 <!-- ===== CONSEILS & ASTUCES ===== -->
 <h2 style="color:#4ea3ff;"><span id="conseils-astuces">Conseils &amp; Astuces</span></h2>
