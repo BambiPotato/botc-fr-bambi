@@ -89,11 +89,11 @@ Instructions au Conteur
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
-• Lors de la mise en place, décidez de la capacité du joueur Amnésique. Pendant la partie, considérez que ce joueur a cette capacité, réveillez-le quand cela est nécessaire, demandez-lui de choisir des joueurs quand il le faut, etc. Utilisez les jetons « ? » de l’Amnésique en cas de besoin.<br><br>
+• Lors de la mise en place, décidez de la capacité du joueur Amnésique. <br> Pendant la partie, considérez que ce joueur a cette capacité, réveillez-le quand cela est nécessaire, demandez-lui de choisir des joueurs quand il le faut, etc. <br> Utilisez les jetons « ? » de l’Amnésique en cas de besoin.<br><br>
 • Chaque jour, l'Amnésique vient faire une supposition en privé au sujet de sa capacité. <br> Répondez « froid », « tu chauffes », « tu brûles » ou « bingo ».<br><br>
 • Faites en sorte que l’Amnésique ait une chance de deviner sa capacité à mesure que la partie progresse. <br> Si l’Amnésique apprend un élément d’information chaque nuit ou dispose d’une capacité qui affecte le jeu de manière à ce qu’il puisse le remarquer, vous êtes sur la bonne voie.<br><br>
 • Si l'Amnésique devine sa capacité, mais qu’il ne la formule pas exactement comme vous l’entendiez, dites-lui tout de même « bingo ».<br><br>
-• Vous pouvez rendre la capacité de l'Amnésique légèrement supérieure à celle d’une capacité normale de Villageois. Le joueur ne la connaît pas, après tout, et devra faire beaucoup d’efforts pour l’exploiter à son plein potentiel.
+• Vous pouvez rendre la capacité de l'Amnésique légèrement supérieure à celle d’une capacité normale de Villageois. <br> Le joueur ne la connaît pas, après tout, et devra faire beaucoup d’efforts pour l’exploiter à son plein potentiel.
 </p>
 
 <div class="botc-note">
@@ -119,7 +119,7 @@ Vous pouvez rendre la capacité de l'Amnésique légèrement supérieure à cell
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
 • La plupart des capacités de l’Amnésique (bien que ce ne soit pas le cas de toutes) sont des capacités d’information, et elles sont généralement plus puissantes que la moyenne des capacités de Villageois (en raison du risque que vous ne la deviniez jamais). Cela rend votre capacité particulièrement utile si vous parvenez à la comprendre.<br><br>
-• Vous êtes libre d’être aussi général ou aussi spécifique que vous le souhaitez lorsque vous posez des questions de clarification au Conteur. Il est probablement préférable de commencer par de grandes questions globales comme « <em>Ma capacité a-t-elle un rapport avec les Marginaux ?</em> » pour progresser ensuite vers des questions plus précises comme « <em>Est-ce que j’apprends si le joueur que je choisis a un nom de rôle qui commence par L ?</em> ».<br><br>
+• Vous êtes libre d’être aussi général ou aussi spécifique que vous le souhaitez lorsque vous posez des questions de clarification au Conteur.<br> Il est probablement préférable de commencer par de grandes questions globales comme « <em>Ma capacité a-t-elle un rapport avec les Marginaux ?</em> » pour progresser ensuite vers des questions plus précises comme « <em>Est-ce que j’apprends si le joueur que je choisis a un nom de rôle qui commence par L ?</em> ».<br><br>
 • De nombreuses capacités d’Amnésique vous demanderont de choisir des joueurs la nuit. Essayez de varier vos cibles afin d'obtenir des données diversifiées pour vos déductions.<br><br>
 • Lorsque vous tentez de deviner la nature de votre capacité, gardez à l’esprit les différents leviers mécaniques du jeu auxquels elle pourrait être liée, tels que :<br>
 <span style="display:block; padding-left:20px; margin-top:5px;">- <strong>Les Rôles :</strong> Qui incarne un rôle en particulier ? Qui appartient à un type spécifique comme Sbire ou Marginal ? Le nom du rôle commence-t-il ou se termine-t-il par une lettre précise ? Le rôle se trouve-t-il à une position particulière sur la feuille de script ?</span>
