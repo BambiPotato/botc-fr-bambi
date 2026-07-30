@@ -60,23 +60,22 @@ image: /images/Icon_washerwoman.png
 <h3 style="color:#4ea3ff; font-weight:bold;"> Résumé</h3>
 <hr class="villageois">
 
-<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:22px; margin:0 0 8px 0;">
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
 « Lors de votre première nuit, vous apprenez un rôle de Villageois en jeu parmi 2 joueurs. »
 </p>
 <p class="botc-flavour-text dropcap" style="margin:0;">
-LA LAVANDIÈRE apprend qu’un certain rôle <a href="../villageois.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Villageois</a> est en jeu, mais ne sait pas <strong>pas qui l'incarne</strong>.
+LA LAVANDIÈRE apprend qu’un certain rôle Villageois est en jeu, mais ne sait pas pas qui l'incarne.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<li>Lors de la première nuit, le Conteur réveille la Lavandière et lui montre deux joueurs<br> et un rôle de Villageois, qui appartient à l’un des deux.</li>
+<li>Lors de la première nuit, le Conteur réveille la Lavandière et lui montre deux joueurs et un rôle de Villageois, qui appartient à l’un des deux.</li><br>
 <li>Elle reçoit cette information une seule fois, et n’apprend rien d’autre.</li>
 </ul>
 
 
 
 <h3 style="color:#4ea3ff; font-weight:bold;"> Comment conter</h3>
-
----
+<hr>
 
 <p class="botc-flavour-text dropcap" style="margin:0;">
 Instructions au Conteur
@@ -102,8 +101,7 @@ Instructions au Conteur
 
 
 <h3 style="color:#4ea3ff; font-weight:bold;"> Exemples</h3>
-
----
+<hr>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Evin est le est le 
@@ -127,7 +125,7 @@ Instructions au Conteur
     et Sarah est
     <a href="./femmeecarlate.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Femme Écarlate</a>.
     La Lavandière apprend que l’un des deux est la
-    <a href="./gardien.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Corneille</a>.
+    <a href="./gardien.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Corneille</a>.<br>
     <span style="opacity:.9;">Ici, l’</span>
     <a href="./espion.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Espionne</a>
     <span style="opacity:.9;"> apparait </span> comme 
@@ -140,8 +138,7 @@ Instructions au Conteur
 
 
 <h3 style="color:#4ea3ff; font-weight:bold;"> Conseils & Astuces </h3>
-
----
+<hr>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>La Lavandière est <strong>puissante en discrétion</strong> : elle ne désigne pas les maléfiques, mais peut confirmer l’identité d’un joueur bon.</li>
@@ -177,11 +174,10 @@ Instructions au Conteur
 
 
 <h3 style="color:#4ea3ff; font-weight:bold;"> Bluffer la Lavandière</h3>
-
----
+<hr>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Lorsque vous bluffez la  <strong>Lavandière</a>,</strong> il y a quelques éléments à garder en tête:
+Lorsque vous bluffez la  <strong>Lavandière,</strong> il y a quelques éléments à garder en tête:
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
