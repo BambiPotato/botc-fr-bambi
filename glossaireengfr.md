@@ -12,6 +12,8 @@ image: /images/logogold..png
   </a>
 </p>
 
+<hr class="explication">
+
 
 #  Glossaire **Blood on the Clocktower**
 
@@ -134,7 +136,7 @@ Phase initiale où certains rôles agissent.
 
 ## 🅶 G
 **Good (Bon)**  
-Alignement des Villageois et Étrangers.  
+Alignement des Villageois et Marginaux.  
 
 **Grimoire**  
 Boîte contenant tous les éléments du jeu, gérée par le Conteur.  
@@ -152,7 +154,7 @@ Pas empoisonné.
 Tout savoir donné par un rôle ou le Conteur.  
 
 **Info token (Jeton d’information)**  
-Petits jetons rectangulaires montrés par le Conteur.  
+Petits jetons montrés par le Conteur.  
 
 **In play (En jeu)**  
 Un rôle actuellement dans la partie.  
@@ -173,16 +175,16 @@ Quand son équipe échoue.
 
 ## 🅼 M
 **Mad (Fou)**  
-Un joueur doit jouer comme si quelque chose était vrai.  
+Un joueur est FOU, il doit convaincre de quelque chose comme si c'était vrai.  
 
-**Might (Peut-être)**  
+**Might (Peut-être/Pourrait)**  
 Signifie que le Conteur décide si l’effet s’applique.  
 
 **Minion (Sbire)**  
 Rôles maléfiques qui aident le Démon.  
 
 **Minion info (Infos Sbires)**  
-Ce qu’apprennent les Sbires la première nuit (qui sont les autres Sbires + le Démon).  
+Ce qu’apprennent les Sbires lors de la première nuit (qui sont les autres Sbires et le Démon).  
 
 ---
 
@@ -197,43 +199,43 @@ Phase où les joueurs ferment les yeux et les rôles agissent.
 Feuille du Conteur listant l’ordre d’action nocturne.  
 
 **Nomination**  
-Action de proposer un joueur à l’exécution.  
+Action de nommer pour proposer un joueur à l’exécution.  
 
-**Not in play (Hors jeu)**  
+**Not in play (Pas en jeu)**  
 Rôle qui n’est pas présent dans cette partie.  
 
 ---
 
 ## 🅾 O
 **Once per game (Une fois par partie)**  
-Pouvoir utilisable une seule fois.  
+Capacité/pouvoir utilisable une seule fois.  
 
-**Outsider (Étranger)**  
-Rôles bons aux capacités handicapantes.  
+**Outsider (Marginaux)**  
+Types de rôles bons qui possèdent des capacités défavorables à l’équipe du Bien. Leur nombre en jeu est indiqué sur la fiche des Voyageurs. 
 
 ---
 
 ## 🅿 P
 **Player (Joueur)**  
-Toute personne jouant un rôle (hors Conteur).  
+Toute personne jouant un rôle (hormis le Conteur).  
 
 **Poisoned (Empoisonné)**  
-Comme l’ivresse, mais causé par un Sbire.  
+Comme l’ivresse, mais causé par un Sbire ou un Démon.  
 
 **Private (Privé)**  
-Échange entre deux personnes uniquement.  
+Échange entre deux joueurs uniquement.  
 
 **Public (Public)**  
-Visible et entendu par la majorité.  
+Visible et entendu par la majorité des joueurs.  
 
 ---
 
 ## 🅡 R
-**Register (S’enregistrer comme)**  
+**Register (S’enregistrer comme/Apparait comme)**  
 Compter comme un autre rôle ou alignement sans l’être vraiment.  
 
-**Reminder token (Jeton rappel)**  
-Petit jeton d’aide pour le Conteur.  
+**Reminder token (Jeton de rappel)**  
+Petit jeton de rappel pour le Conteur.  
 
 **Resurrected (Ressuscité)**  
 Un mort redevient vivant et retrouve son pouvoir.  
@@ -251,19 +253,19 @@ Liste de rôles créée via le Script Tool.
 Instructions pour le Conteur avant la partie.  
 
 **Shroud (Linceul)**  
-Jeton signalant un mort dans le Grimoire.  
+Jeton signalant un joueur mort dans le Grimoire.  
 
 **Sober (Sobre)**  
 Pas ivre.  
 
-**Start knowing (Commence en sachant)**  
-Pouvoir qui donne des infos dès la première nuit.  
+**Start knowing (Lors de la première nuit/Commence en sachant)**  
+Pouvoir qui donne des infos lors de la première nuit.  
 
 **State (État)**  
-Statut d’un joueur (sobre/ivre, vivant/mort, etc.).  
+État d’un joueur (sobre/ivre, vivant/mort, etc.).  
 
 **Storyteller (Conteur)**  
-Personne qui arbitre la partie.  
+Personne qui dirige la partie. Le Conteur gère le Grimoire, applique les règles du jeu et prend les décisions finales lorsque des situations ambiguës ou inhabituelles se présentent.
 
 ---
 
@@ -271,38 +273,41 @@ Personne qui arbitre la partie.
 **Team (Équipe)**  
 Tous les joueurs partageant le même alignement.  
 
-**Think (Croire être)**  
-Croire jouer un rôle qui n’est pas le sien (ex. Marionnette).  
+**Think (Pense être)**  
+Pense jouer un rôle qui n’est pas le sien (ex.la Marionnette).  
 
 **Tomorrow (Demain)**  
-Le prochain cycle jour+nuit.  
+Le jour et la nuit qui suivent immédiatement la nuit en cours.
 
 **Townsfolk (Villageois)**  
-Rôles bons qui aident activement.  
+Type de rôle. Les Villageois ont des capacités qui aident l’équipe du Bien. La majorité des rôles en jeu sont généralement des Villageois. 
+Leur nombre exact est indiqué sur la fiche des Voyageurs.
+
 
 **Town Square (Place du village)**  
 Plateau central contenant les jetons de vie et de vote.  
 
 **Traveller (Voyageur)**  
-Rôle spécial pour arrivants/départs.  
+Type de rôle pour les joueurs arrivant en retard ou partant plus tôt.
 
 **Traveller sheet (Feuille des Voyageurs)**  
 Liste des Voyageurs et leur effet.  
 
 **True info (Vraie info)**  
-Info correcte.  
+Vraie Info 
 
 **Type (Type)**  
-Catégorie de rôle (Villageois, Étranger, Sbire, Démon, Voyageur, Légendaire).  
+Catégorie de rôle (Villageois, Marginal, Sbire, Démon, Voyageur, Légendaire, Loric).  
 
 ---
 
 ## 🅥 V
 **Vote (Vote)**  
-Lever la main lors d’une exécution.  
+Lever la main lors d’une nomination/exécution.  
 
 **Vote token (Jeton de vote)**  
-Jeton blanc qu’un mort utilise pour voter une dernière fois.  
+Jeton rond placé sur le jeton de vie d’un joueur lorsqu’il meurt. 
+Lorsqu’un joueur mort utilise son vote, il retire ce jeton et ne peut plus voter pour le reste de la partie.
 
 ---
 
@@ -313,7 +318,7 @@ Quand un joueur ouvre les yeux la nuit.
 **Win (Gagner)**  
 Victoire de son équipe (les vivants et morts de l’équipe gagnante gagnent ensemble).  
 
----
+<hr class="explication">
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li> <a href="./index.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
