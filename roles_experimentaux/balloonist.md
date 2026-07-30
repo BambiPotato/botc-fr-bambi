@@ -68,7 +68,7 @@ image: /images/Icon_balloonist.png
 <hr class="villageois">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
-« Chaque nuit, vous apprenez un joueur d’un type de rôle différent de la nuit précédente. [+0 ou +1 Marginal] »
+« Chaque nuit, vous apprenez un joueur d’un type de rôle différent de la nuit précédente.<br> [+0 ou +1 Marginal] »
 </p>
 
 <p class="botc-flavour-text dropcap" style="margin:0; color:#e0c99d; font-size:20px; line-height:1.7;">
@@ -107,7 +107,7 @@ Instructions au Conteur
 • Abdallah est le <a href="./vizier.html" style="color:#e05252; font-weight:bold; text-decoration:none;">Vizir</a>, Lewis est la <a href="./highpriestess.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Grande Prêtresse</a>, Sarah est le <a href="./politician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Politicien</a>.<br>
 La première nuit, l’Aéronaute apprend Abdallah.<br>
 La deuxième nuit, l’Aéronaute apprend Lewis.<br>
-La troisième nuit, l’Aéronaute apprend Sarah.<br>
+La troisième nuit, l’Aéronaute apprend Sarah.<br><br>
 • Julian est le <a href="./nightwatchman.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Veilleur de Nuit</a>, Alex est le <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a> et Lachlan est le <a href="./puzzlemaster.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maître des Puzzles</a>.<br>
 La première nuit, l’Aéronaute apprend Julian. La deuxième nuit, l'<a href="../tb_roles/empoisonneur.html" style="color:#e05252; font-weight:bold; text-decoration:none;">Empoisonneur</a> choisit l’Aéronaute. Comme l’Aéronaute est empoisonné, le Conteur choisit de lui montrer à nouveau un Villageois ; l’Aéronaute apprend Alex.<br>
 La troisième nuit, l’Aéronaute est sobre et sain, et apprend Lachlan, qui est un rôle de type différent d'Alex.
@@ -160,7 +160,7 @@ Lorsque vous bluffez l’<strong>Aéronaute</strong>, gardez quelques points à 
   <li>
     🧞 
     <img src="../images/Icon_marionette.png" alt="Marionnette" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/marionnette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> :  
+    <a href="../roles_experimentaux/marionette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> :  
     Si la Marionnette pense qu’elle est l’Aéronaute, un <span style="color:#4ea3ff; font-weight:bold;">Marginal</span> a peut-être été ajouté lors de la mise en place.
   </li>
 </ul>
