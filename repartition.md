@@ -11,6 +11,9 @@ image: /images/logogold.png
   </a>
 </p>
 
+<hr class="explication">
+
+
 #  Répartition du Village
 
 Selon le nombre de joueurs et joueuses, la composition des catégories change.  
