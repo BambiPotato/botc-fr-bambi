@@ -48,7 +48,7 @@ image: /images/Icon_balloonist.png
 
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-« Plus de chaleur ! Plus haut ! Plus haut ! Più alto !<br>Ahhh… c’est magnifique, vu d’ici, tu ne trouves pas ? <br>Vois-tu les enfants pêcher près de la rivière, sous le saule ? <br>Le reflet du soleil sur les mats du chapiteau ? Qu’est-ce que c’est ? Un vieil homme, seul, évanoui dans les vignes ? <br> Moins de chaleur ! <br>Plus bas ! Plus bas ! Vai più in basso ! »
+« Plus de chaleur ! Plus haut ! Plus haut ! Più alto !<br>Ahhh… c’est magnifique, vu d’ici, tu ne trouves pas ? <br>Vois-tu les enfants pêcher près de la rivière, sous le saule ? <br>Le reflet du soleil sur les mats du chapiteau ? <br>Qu’est-ce que c’est ? <br> Un vieil homme, seul, évanoui dans les vignes ? <br> Moins de chaleur ! Plus bas ! Plus bas ! <br> Vai più in basso ! »
 </p>
 
 
@@ -59,7 +59,7 @@ image: /images/Icon_balloonist.png
   <a href="../experimentaux.html" style="text-decoration:none;">
     <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:25px;">🎠 Apparaît dans : The Carousel</span>
+    <span style="color:#e0b97a; font-weight:bold; font-size:30px;">🎠 Apparaît dans : The Carousel</span>
   </a>
 </div>
 
@@ -169,7 +169,7 @@ Lorsque vous bluffez l’<strong>Aéronaute</strong>, gardez quelques points à 
 <hr class="explication">
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
-   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+• <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+• <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
+• <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
