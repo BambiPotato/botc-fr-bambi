@@ -19,7 +19,7 @@ image: /images/Icon_balloonist.png
   <a href="./balloonist.html" style="text-decoration:none;">
     <img src="../images/Icon_balloonist.png" alt="Aéronaute" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#4ea3ff; font-weight:bold; font-size:35px;">🎈 Aéronaute</span>
+    <span style="color:#4ea3ff; font-weight:bold; font-size:35px;">Aéronaute</span>
   </a>
 </div>
 
@@ -48,12 +48,7 @@ image: /images/Icon_balloonist.png
 
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-« Plus de chaleur ! Plus haut ! Plus haut ! Più alto !  
-Ahhh… c’est magnifique, vu d’ici, tu ne trouves pas ?  
-Vois-tu les enfants pêcher près de la rivière, sous le saule ?  
-Le reflet du soleil sur les mats du chapiteau ?  
-Qu’est-ce que c’est ? Un vieil homme, seul, évanoui dans les vignes ?  
-Moins de chaleur ! Plus bas ! Plus bas ! Vai più in basso ! »
+« Plus de chaleur ! Plus haut ! Plus haut ! Più alto !<br>Ahhh… c’est magnifique, vu d’ici, tu ne trouves pas ? <br>Vois-tu les enfants pêcher près de la rivière, sous le saule ? <br>Le reflet du soleil sur les mats du chapiteau ? Qu’est-ce que c’est ? Un vieil homme, seul, évanoui dans les vignes ? <br> Moins de chaleur ! <br>Plus bas ! Plus bas ! Vai più in basso ! »
 </p>
 
 
@@ -81,11 +76,11 @@ L’Aéronaute apprend des joueurs de types de rôles différents.
 </p>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
-• Chaque fois que l’Aéronaute apprend un joueur, ce joueur a nécessairement un type de rôle différent du dernier joueur qu’il a appris.<br><br>
-• L’Aéronaute n'apprend pas pour autant le type de rôle du joueur, il apprend juste que ce type est différent de celui d’avant.<br><br>
-• Le joueur appris peut être en vie ou mort.<br><br>
-• Le joueur appris peut être bon ou maléfique.<br><br>
-• Si l’Aéronaute est ivre ou empoisonné, il peut apprendre un joueur avec un rôle du même type que le dernier joueur qu’il a appris. Lorsque l’Aéronaute redevient sobre et sain, il doit apprendre un joueur d’un type de rôle différent du dernier joueur qu’il a appris.<br><br>
+• Chaque fois que l’Aéronaute apprend un joueur, ce joueur a nécessairement un type de rôle différent du dernier joueur qu’il a appris.<br>
+• L’Aéronaute n'apprend pas pour autant le type de rôle du joueur, il apprend juste que ce type est différent de celui d’avant.<br>
+• Le joueur appris peut être en vie ou mort.<br>
+• Le joueur appris peut être bon ou maléfique.<br>
+• Si l’Aéronaute est ivre ou empoisonné, il peut apprendre un joueur avec un rôle du même type que le dernier joueur qu’il a appris. Lorsque l’Aéronaute redevient sobre et sain, il doit apprendre un joueur d’un type de rôle différent du dernier joueur qu’il a appris.<br>
 • Lors de la mise en place, le Conteur peut choisir d'ajouter un Marginal en raison de la capacité de l’Aéronaute.
 </p>
 
@@ -98,9 +93,9 @@ Instructions au Conteur
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
-• Lors de la mise en place, vous pouvez ajouter un Marginal.<br><br>
-• Lors de la préparation de la première nuit, marquez n’importe quel joueur du jeton <strong>« Appris »</strong>.<br><br>
-• Par la suite, lors de la préparation de chaque nuit, déplacez le jeton <strong>« Appris »</strong> sur un rôle de type différent.<br><br>
+• Lors de la mise en place, vous pouvez ajouter un Marginal.<br>
+• Lors de la préparation de la première nuit, marquez n’importe quel joueur du jeton <strong>« Appris »</strong>.<br>
+• Par la suite, lors de la préparation de chaque nuit, déplacez le jeton <strong>« Appris »</strong> sur un rôle de type différent.<br>
 • Chaque nuit, réveillez l’Aéronaute. Désignez le joueur marqué <strong>« Appris »</strong>. L’Aéronaute se rendort.
 </p>
 
@@ -109,10 +104,10 @@ Instructions au Conteur
 <hr>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
-• Abdallah est le <a href="./vizier.html" style="color:#e05252; font-weight:bold; text-decoration:none;">Vizir</a>, Lewis est la <a href="./high_priestess.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Grande Prêtresse</a>, Sarah est le <a href="./politician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Politicien</a>.<br>
+• Abdallah est le <a href="./vizier.html" style="color:#e05252; font-weight:bold; text-decoration:none;">Vizir</a>, Lewis est la <a href="./highpriestess.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Grande Prêtresse</a>, Sarah est le <a href="./politician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Politicien</a>.<br>
 La première nuit, l’Aéronaute apprend Abdallah.<br>
 La deuxième nuit, l’Aéronaute apprend Lewis.<br>
-La troisième nuit, l’Aéronaute apprend Sarah.<br><br>
+La troisième nuit, l’Aéronaute apprend Sarah.<br>
 • Julian est le <a href="./nightwatchman.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Veilleur de Nuit</a>, Alex est le <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a> et Lachlan est le <a href="./puzzlemaster.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maître des Puzzles</a>.<br>
 La première nuit, l’Aéronaute apprend Julian. La deuxième nuit, l'<a href="../tb_roles/empoisonneur.html" style="color:#e05252; font-weight:bold; text-decoration:none;">Empoisonneur</a> choisit l’Aéronaute. Comme l’Aéronaute est empoisonné, le Conteur choisit de lui montrer à nouveau un Villageois ; l’Aéronaute apprend Alex.<br>
 La troisième nuit, l’Aéronaute est sobre et sain, et apprend Lachlan, qui est un rôle de type différent d'Alex.
@@ -130,7 +125,7 @@ La troisième nuit, l’Aéronaute est sobre et sain, et apprend Lachlan, qui es
 • Mentez sur votre rôle pour rester en vie le plus longtemps possible. Prétendez être une <a href="./banshee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Banshee</a> ou la <a href="./farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermière</a> pour que l’équipe maléfique hésite à vous tuer la nuit ! Plus vous vivez longtemps, plus vos informations deviennent puissantes.<br><br>
 • Après avoir reçu plusieurs nuits d’informations, décidez quel joueur vous inspire le plus confiance parmi vos informations, puis vérifiez si le reste de vos informations est cohérent par rapport aux affirmations de ce joueur. Si vous avez appris l'existence du <a href="../sv_roles/reveur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Rêveur</a> à la nuit 3 et que vous lui faites entièrement confiance, vous savez alors que les joueurs appris à la nuit 2 et à la nuit 4 ne peuvent pas être des Villageois.<br><br>
 • Méfiez-vous des fausses enregistrations ! L’<a href="../tb_roles/espion.html" style="color:#e05252; font-weight:bold; text-decoration:none;">Espionne</a> et La <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a> peuvent apparaître sous des types de rôles différents. En fait, si votre Conteur se sent particulièrement diabolique, il pourrait vous montrer La <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a> chaque nuit (Conteurs, ne faites pas ça, s'il vous plaît).<br><br>
-• Cherchez d’autres rôles qui détectent les types de rôles, comme L'<a href="../tb_roles/archiviste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Archiviste</a> et Le <a href="../sv_roles/crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur public</a>. Si vous savez de source sûre que quelqu’un est un Marginal, ou qu’il ne peut pas être un Sbire, cela affine vos informations et vous rend encore plus puissant.<br><br>
+• Cherchez d’autres rôles qui détectent les types de rôles, comme L'<a href="../tb_roles/biblothecaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Archiviste</a> et Le <a href="../sv_roles/crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur public</a>. Si vous savez de source sûre que quelqu’un est un Marginal, ou qu’il ne peut pas être un Sbire, cela affine vos informations et vous rend encore plus puissant.<br><br>
 • À moins qu’il n’y ait des rôles comme L’<a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> ou Le <a href="../sv_roles/cerenovus.html" style="color:#e05252; font-weight:bold; text-decoration:none;">Cerenovus</a> sur le script, si vous apprenez deux joueurs d’affilée qui prétendent tous deux être des Villageois, il est extrêmement probable que l’un d’eux soit maléfique. Traitez cette information exactement comme vous le feriez pour une <a href="../sv_roles/couturiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Couturière</a> qui aurait appris que deux joueurs sont dans des équipes opposées !<br><br>
 • Faites attention à ce qui figure sur le script. Il est très peu probable que L'<a href="../tb_roles/vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Immaculée</a> vous dise qu’elle est un Marginal de son vivant, et La <a href="../sv_roles/mutant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bête de foire</a> ne le peut littéralement pas ! Ce n’est pas parce que vous avez appris deux joueurs d’affilée prétendant être des Villageois que l’un d’eux est obligatoirement maléfique. Cas particulier : si le Démon est un <a href="../sv_roles/vortox.html" style="color:#e05252; font-weight:bold; text-decoration:none;">Vortox</a>, alors chaque joueur que vous apprenez doit être du même type de rôle que le joueur précédent.
 </p>
