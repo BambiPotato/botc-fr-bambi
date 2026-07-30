@@ -65,9 +65,8 @@ image: /images/Icon_amnesiac.png
 <hr class="villageois">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
-« Vous ne connaissez pas votre capacité. Chaque jour, devinez-la en privé : vous apprenez à quel point vous chauffez. »
+« Vous ne connaissez pas votre capacité. Chaque jour, devinez-la en privé : vous apprenez à quel point vous chauffez. » <br>
 </p>
-
 
 <p class="botc-flavour-text dropcap" style="margin:0; color:#e0c99d; font-size:20px; line-height:1.7;">
 L’Amnésique ne sait pas quelle est sa capacité.
@@ -77,8 +76,8 @@ L’Amnésique ne sait pas quelle est sa capacité.
 • Le Conteur décide quelle est la capacité de l'Amnésique.<br><br>
 • Ce peut être la même capacité qu’un autre rôle de <em>Blood on the Clocktower</em>, une capacité proche, ou une capacité inédite.<br><br>
 • La capacité de l’Amnésique peut lui permettre de se réveiller pendant la nuit pour apprendre des informations ou choisir un joueur, ou être une capacité passive qui ne requiert aucune action de la part du joueur Amnésique.<br><br>
-• Chaque jour, l'Amnésique parle avec le Conteur en privé pour deviner sa capacité. Le Conteur répond « <strong>froid</strong> » si la supposition est très éloignée de la réalité, « <strong>tu chauffes</strong> » si l’Amnésique est sur la bonne voie, « <strong>tu brûles</strong> » s’il a quasiment trouvé et « <strong>bingo</strong> » s’il a effectivement identifié sa capacité.<br><br>
-• Sa supposition peut être spécifique, par exemple « <em>Est-ce que j'apprends deux joueurs du même alignement chaque nuit ?</em> », ou plus vague, comme « <em>Est-ce que ma capacité est liée aux joueurs morts ?</em> ».
+• Chaque jour, l'Amnésique parle avec le Conteur en privé pour deviner sa capacité. <br>Le Conteur répond « <strong>froid</strong> » si la supposition est très éloignée de la réalité, « <strong>tu chauffes</strong> » si l’Amnésique est sur la bonne voie, « <strong>tu brûles</strong> » s’il a quasiment trouvé et « <strong>bingo</strong> » s’il a effectivement identifié sa capacité.<br><br>
+• Sa supposition peut être spécifique, par exemple : <br> « <em>Est-ce que j'apprends deux joueurs du même alignement chaque nuit ?</em> », ou plus vague, comme « <em>Est-ce que ma capacité est liée aux joueurs morts ?</em> ».
 </p>
 
 <!-- ===== COMMENT CONTER ===== -->
@@ -91,18 +90,17 @@ Instructions au Conteur
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
 • Lors de la mise en place, décidez de la capacité du joueur Amnésique. Pendant la partie, considérez que ce joueur a cette capacité, réveillez-le quand cela est nécessaire, demandez-lui de choisir des joueurs quand il le faut, etc. Utilisez les jetons « ? » de l’Amnésique en cas de besoin.<br><br>
-• Chaque jour, l'Amnésique vient faire une supposition en privé au sujet de sa capacité. Répondez « froid », « tu chauffes », « tu brûles » ou « bingo ».<br><br>
-• Faites en sorte que l’Amnésique ait une chance de deviner sa capacité à mesure que la partie progresse. Si l’Amnésique apprend un élément d’information chaque nuit ou dispose d’une capacité qui affecte le jeu de manière à ce qu’il puisse le remarquer, vous êtes sur la bonne voie.<br><br>
+• Chaque jour, l'Amnésique vient faire une supposition en privé au sujet de sa capacité. <br> Répondez « froid », « tu chauffes », « tu brûles » ou « bingo ».<br><br>
+• Faites en sorte que l’Amnésique ait une chance de deviner sa capacité à mesure que la partie progresse. <br> Si l’Amnésique apprend un élément d’information chaque nuit ou dispose d’une capacité qui affecte le jeu de manière à ce qu’il puisse le remarquer, vous êtes sur la bonne voie.<br><br>
 • Si l'Amnésique devine sa capacité, mais qu’il ne la formule pas exactement comme vous l’entendiez, dites-lui tout de même « bingo ».<br><br>
 • Vous pouvez rendre la capacité de l'Amnésique légèrement supérieure à celle d’une capacité normale de Villageois. Le joueur ne la connaît pas, après tout, et devra faire beaucoup d’efforts pour l’exploiter à son plein potentiel.
 </p>
 
 <div class="botc-note">
-Faites en sorte que l’Amnésique ait une chance de deviner sa capacité à mesure que la partie progresse. 
-<hr>   
-Si l’Amnésique apprend un élément d’information chaque nuit ou dispose d’une capacité qui affecte le jeu de manière à ce qu’il puisse le remarquer, vous êtes sur la bonne voie.
+Faites en sorte que l’Amnésique ait une chance de deviner sa capacité à mesure que la partie progresse. <br> Si l’Amnésique apprend un élément d’information chaque nuit ou dispose d’une capacité qui affecte le jeu de manière à ce qu’il puisse le remarquer, vous êtes sur la bonne voie.
 <hr>   
 Si l'Amnésique devine sa capacité, mais qu’il ne la formule pas exactement comme vous l’entendiez, dites-lui tout de même « bingo ».
+<hr>  
 Vous pouvez rendre la capacité de l'Amnésique légèrement supérieure à celle d’une capacité normale de Villageois. Le joueur ne la connaît pas, après tout, et devra faire beaucoup d’efforts pour l’exploiter à son plein potentiel.
 </div>
 
