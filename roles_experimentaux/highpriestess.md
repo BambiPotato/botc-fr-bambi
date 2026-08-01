@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Grande Prêtresse
+description: Chaque nuit, apprenez à quel joueur vous devriez parler en priorité, selon le Conteur.
+image: /images/Icon_highpriestess.png
 ---
 
 <p align="left">
@@ -9,33 +11,22 @@ title: Grande Prêtresse
   </a>
 </p>
 
+<hr class="explication">
+
 <!-- Grande Prêtresse -->
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="./highpriestess.html" style="text-decoration:none;">
     <img src="../images/Icon_highpriestess.png" alt="Grande Prêtresse" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#4ea3ff; font-weight:bold; font-size:22px;">Grande Prêtresse</span>
+    <span style="color:#4ea3ff; font-weight:bold; font-size:30px;">Grande Prêtresse</span>
   </a>
 </div>
 
-<!-- APPARAÎT DANS -->
-<div style="text-align:center; margin: 20px 0;">
-  <a href="../experimentaux.html" style="text-decoration:none;">
-    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
-    <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
-  </a>
-</div>
 
-#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Grande Prêtresse</span>
+<hr class="villageois">
 
-<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Il existe une vie derrière la personnalité, qui porte les personnalités comme des masques.  
-  Parfois, la vie retire le masque, et les profondeurs répondent aux profondeurs. »
-</p>
 
----
 
 ##  <span style="color:#4ea3ff;">Informations</span>
 
@@ -56,41 +47,51 @@ title: Grande Prêtresse
   <li><strong>Révélé :</strong> 22 juin 2023</li>
 </ul>
 
+
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Il y a de la vie derrière la personnalité qui utilise les personnalités comme des masques. <br> Il y a des moments où la vie fait tomber le masque et l’abîme répond à l’abîme.  »
+</p>
+
+<hr class="villageois">
+
+<!-- APPARAÎT DANS -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../experimentaux.html" style="text-decoration:none;">
+    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="300" style="border-radius:12px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
+  </a>
+</div>
 ---
 
 ##  <span style="color:#4ea3ff;">Résumé</span>
+<hr class="villageois">
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Chaque nuit, vous apprenez à quel joueur le Conteur pense que vous devriez parler le plus »</strong>
+<p class="botc-flavour-text dropcap" style="margin:0;">
+La Grande prêtresse agit selon son intuition.
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-La <strong>Grande Prêtresse</strong> La Grande Prêtresse agit par intuition.  
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
+Chaque nuit, apprenez à quel joueur vous devriez parler en priorité, selon le Conteur.
+</p> 
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
+• <a href="./roles_experimentaux/highpriestess.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retrouvez ici la fiche et le détail du rôle la Grande Prêtresse</a><br>
+• La Grande prêtresse peut voir plusieurs fois le même joueur d’affilée, ou un joueur différent chaque nuit.<br>
+• Le joueur qu’elle voit peut être en vie ou mort.<br>
+• Le joueur qu’elle voit peut être bon ou maléfique.<br>
+• Il n'existe aucun critère officiel permettant de déterminer le joueur que le Conteur doit montrer à la Grande prêtresse.<br> 
+</p>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;"> 
+• C’est le Conteur qui décide qui, selon lui, est le mieux indiqué pour parler avec la Grande prêtresse, et de manière générale, pour aider l’équipe du Bien. <br> Ce peut être parce que ce joueur dispose d’informations importantes qu’il n’a pas encore révélées. <br> Ou parce qu’il s’agit d’un joueur maléfique qui tente de se faire passer pour quelqu’un qu’il ne peut pas être. <br> Ou encore parce que c’est un joueur digne de confiance qui gagnerait à être écouté. <br> Ou enfin parce que c’est un joueur bon, mais qui n’est pas sur la bonne piste, et doit être remis dans le droit chemin. Ou autre chose encore…
 </p>
 
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Chaque nuit, la Grande Prêtresse voit <strong>un joueur </strong>, choisi par le Conteur ou la conteuse comme étant la personne la plus pertinente à qui parler le lendemain.</li>
-  <li>Le même joueur peut être montré plusieurs nuits d’affilée, ou un joueur différent chaque nuit.</li>
-  <li>Le joeur montré peut être <strong>vivant ou mort</strong>.</li>
-  <li>La joueur montré peut être <strong>bon ou maléfique</strong> (Villageois, Étranger, <span style="color:#d45b5b; font-weight:bold;">Sbire</span> ou <span style="color:#d45b5b; font-weight:bold;">Démon</span>).</li>
-  <li>Il n’existe <strong>aucune règle officielle</strong> pour déterminer qui montrer à la Grande Prêtresse :  
-      c’est un choix de jugement, de lecture de la partie, de rythme et de dramaturgie.</li>
-  <li>La personne montrée peut être :
-    <ul style="margin-top:4px; margin-left:20px;">
-      <li>un rôle à information qui n’a pas encore tout révélé ;</li>
-      <li>un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> ou un <span style="color:#d45b5b; font-weight:bold;">Démon</span> au bluff bancal ;</li>
-      <li>un rôle sûr qu’il faudrait encore plus croire ;</li>
-      <li>un joueur bon mais complètement à côté de la plaque ;</li>
-      <li>ou tout simplement quelqu’un au cœur d’une situation intéressante.</li>
-    </ul>
-  </li>
-  <li>Si la Grande Prêtresse est ivre ou empoisonnée, l’information reste une indication sociale… mais peut mener l’équipe du Bien dans la mauvaise direction.</li>
-</ul>
 
----
 
 ##  <span style="color:#4ea3ff;">Comment Conter</span>
+<hr>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Chaque nuit, réveillez la Grande Prêtresse.  
@@ -103,9 +104,10 @@ Choisissez en fonction de la dynamique de la partie, des informations en circula
 et de ce que vous jugez le plus amusant et le plus utile pour l’équipe du Bien (ou pour la tension dramatique !).
 </p>
 
----
+
 
 ##  <span style="color:#4ea3ff;">Exemples</span>
+<hr>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 La première nuit, la Grande Prêtresse apprend <strong>Cédric</strong>.  
@@ -130,9 +132,10 @@ La dernière nuit, la Grande Prêtresse voit <strong>Nicolas</strong>, qui est l
 Son histoire contredit plusieurs bons rôles, et le Conteur espère que la Grande Prêtresse saura percer sa défense.
 </p>
 
----
+
 
 ##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
+<hr>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -197,9 +200,10 @@ Son histoire contredit plusieurs bons rôles, et le Conteur espère que la Grand
 
 </ul>
 
----
 
-##  <span style="color:#4ea3ff;">Bluffer Grande Prêtresse</span>
+
+##  <span style="color:#4ea3ff;">Bluffer la Grande Prêtresse</span>
+<hr>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -249,7 +253,7 @@ Son histoire contredit plusieurs bons rôles, et le Conteur espère que la Grand
 
 </ul>
 
----
+<hr class="explication">
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
