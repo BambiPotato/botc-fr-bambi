@@ -124,13 +124,13 @@ La dernière nuit, la Grande Prêtresse voit Lewis, qui est le <a href="../tb_ro
 
 
 <!-- CONSEILS & ASTUCES -->
-<h2 id="conseils" style="color: #4ea3ff;">Conseils &amp; Astuces</h2>
+<h2 style="color: #4ea3ff;">Conseils &amp; Astuces</h2>
 <hr>
 
 <p>
   ⚬ Parlez dès que possible chaque jour à la personne que le Conteur vous indique. Le Conteur estime que c'est la personne la plus importante avec qui vous devez discuter. Vous devriez donc entrer immédiatement en contact avec elle afin de tenter d'établir un lien de confiance et d'utiliser ses informations pour guider votre démarche pour le reste de la journée.<br><br>
 
-  ⚬ Ne parlez pas immédiatement au joueur qui vous a été désigné. Observez plutôt avec qui il discute et essayez de déceler des indices sur la raison pour laquelle vous devriez lui parler, en vous basant sur son comportement et ses interactions. S'il est particulièrement impatient de parler à un ou deux autres joueurs spécifiques, il s'agit peut-être par exemple d'une <a href="./tb_roles/lavandiere.html" style="color: #4ea3ff; font-weight: bold;">Lavandière</a> ou d'une <a href="./tb_roles/voyante.html" style="color: #4ea3ff; font-weight: bold;">Voyante</a>, et le savoir pourrait orienter la façon dont vous l'abordez. Il pourrait aussi sembler légèrement perdu jusqu'à ce qu'il parle à un joueur spécifique et être un Sbire qui vient tout juste de recevoir ses bluffs.<br><br>
+  ⚬ Ne parlez pas immédiatement au joueur qui vous a été désigné. Observez plutôt avec qui il discute et essayez de déceler des indices sur la raison pour laquelle vous devriez lui parler, en vous basant sur son comportement et ses interactions. S'il est particulièrement impatient de parler à un ou deux autres joueurs spécifiques, il s'agit peut-être par exemple d'une <a href="../tb_roles/lavandiere.html" style="color: #4ea3ff; font-weight: bold;">Lavandière</a> ou d'une <a href="../tb_roles/voyante.html" style="color: #4ea3ff; font-weight: bold;">Voyante</a>, et le savoir pourrait orienter la façon dont vous l'abordez. Il pourrait aussi sembler légèrement perdu jusqu'à ce qu'il parle à un joueur spécifique et être un Sbire qui vient tout juste de recevoir ses bluffs.<br><br>
 
   ⚬ Dites à la personne que vous avez vue que vous êtes la Grande Prêtresse et que vous l'avez obtenue. Voyez si elle connaît une bonne raison pour laquelle elle a pu vous être montrée. Votre information peut être très floue, mais il est possible que ce joueur ait de bonnes théories, basées sur ce qu'il a tiré de son propre rôle, concernant ce qu'il peut vous apporter à vous et plus largement à l'équipe du Bien.<br><br>
 
@@ -151,7 +151,7 @@ La dernière nuit, la Grande Prêtresse voit Lewis, qui est le <a href="../tb_ro
 
 <!-- BLUFFER LA GRANDE PRÊTRESSE -->
 
-<h2 id="bluffer" style="color: #4ea3ff;">Bluffer la Grande Prêtresse</h2>
+<h2 style="color: #4ea3ff;">Bluffer la Grande Prêtresse</h2>
 <hr>
 
 <p>
@@ -163,11 +163,11 @@ La dernière nuit, la Grande Prêtresse voit Lewis, qui est le <a href="../tb_ro
 
   ⚬ N'hésitez pas à choisir plus ou moins qui vous voulez et vous pourrez toujours inventer une raison plus tard, mais le choix le plus risqué reste votre « information » de la première nuit. Le rôle du joueur qui vous a été montré la première nuit représente probablement l'avis le plus ferme du Conteur, en l'absence de toute influence liée au déroulement de la partie ou à la façon de penser des joueurs. Vous aurez donc besoin d'une justification solide.<br><br>
 
-  ⚬ Ayez toujours un plan de secours au cas où vous devriez vous retourner contre un joueur qui vous a été montré. Si son information est trop puissante ou s'il rassemble un cercle de confiance trop large, vous devrez peut-être instiller le doute en suggérant qu'il vous a été montré pour le piéger en plein bluff, ou qu'il s'agit en réalité de <a href="./tb_roles/ivrogne.html" style="color: #4ea3ff; font-weight: bold;">l'Ivrogne</a> et qu'on vous l'a montré pour vous encourager à le déduire.<br><br>
+  ⚬ Ayez toujours un plan de secours au cas où vous devriez vous retourner contre un joueur qui vous a été montré. Si son information est trop puissante ou s'il rassemble un cercle de confiance trop large, vous devrez peut-être instiller le doute en suggérant qu'il vous a été montré pour le piéger en plein bluff, ou qu'il s'agit en réalité de <a href="../tb_roles/ivrogne.html" style="color: #4ea3ff; font-weight: bold;">l'Ivrogne</a> et qu'on vous l'a montré pour vous encourager à le déduire.<br><br>
 
   ⚬ Une excellente façon de bluffer la Grande Prêtresse est d'écouter. Vous voulez que les joueurs suggèrent une raison pour laquelle ils auraient pu vous être montrés et, si elle est incorrecte, d'encourager cette piste afin de dévoyer leur stratégie.<br><br>
 
-  ⚬ Attendez que les gens aient revendiqué leurs rôles avant de les aborder pour pouvoir faire des choix cohérents. Vous ne voulez pas vous faire piéger en milieu de partie quand quelqu'un réexaminera vos premières informations et se demandera pourquoi on vous a montré <a href="./tb_roles/gardien.html" style="color: #4ea3ff; font-weight: bold;">la Corneille</a> et <a href="./tb_roles/majordome.html" style="color: #4ea3ff; font-weight: bold;">le Majordome</a> lors des deux premières nuits, alors qu'il n'y avait aucune bonne raison pour le Conteur de vous inciter à leur parler.<br><br>
+  ⚬ Attendez que les gens aient revendiqué leurs rôles avant de les aborder pour pouvoir faire des choix cohérents. Vous ne voulez pas vous faire piéger en milieu de partie quand quelqu'un réexaminera vos premières informations et se demandera pourquoi on vous a montré <a href="../tb_roles/gardien.html" style="color: #4ea3ff; font-weight: bold;">la Corneille</a> et <a href="../tb_roles/majordome.html" style="color: #4ea3ff; font-weight: bold;">le Majordome</a> lors des deux premières nuits, alors qu'il n'y avait aucune bonne raison pour le Conteur de vous inciter à leur parler.<br><br>
 
   ⚬ Bien plus qu'avec d'autres rôles, vous pouvez tout à fait vous en sortir en feignant l'ignorance en tant que Grande Prêtresse. Passer une bonne partie du jeu à « ne pas savoir ce qui se passe » est non seulement très convaincant — car les joueurs bons sont généralement confus —, mais cela encourage aussi les joueurs bons à vous aider pour comprendre la pertinence de votre information, ce qui exige d'eux qu'ils adhèrent à votre point de vue !<br><br>
 
