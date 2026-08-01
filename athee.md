@@ -54,14 +54,16 @@ image: /images/Icon_atheist.png
 <h2 style="color:#4ea3ff;"><span id="sommaire">Sommaire</span></h2>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.9; margin-left:0; text-align:left;">
-  1• <a href="#resume" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">. Résumé</a><br>
-  2• <a href="#mener-la-partie" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">. Comment mener la partie</a><br>
-  3• <a href="#interactions" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">. Interactions intéressantes</a><br>
-  4• <a href="#bien-mener" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">. Comment bien mener une partie avec l’Athée</a><br>
-  5• <a href="#mal-mener" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">. Comment mal mener une partie avec l'Athée</a><br>
-  7• <a href="#faq" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">. Foire aux questions</a><br>
-  8• <a href="#trouble-brewing" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">. L’Athée dans Trouble Brewing</a><br>
-  9• <a href="#plus-loin" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">. Pour aller plus loin</a>
+  <ul style="color: #e0c99d; font-size: 16px; line-height: 1.8; margin-bottom: 0; padding-left: 20px;">
+  1.  <a href="#resume" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">. Résumé</a><br>
+  2.  <a href="#mener-la-partie" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Comment mener la partie</a><br>
+  3.  <a href="#interactions" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Interactions intéressantes</a><br>
+  4.  <a href="#bien-mener" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Comment bien mener une partie avec l’Athée</a><br>
+  5.  <a href="#mal-mener" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Comment mal mener une partie avec l'Athée</a><br>
+  7.  <a href="#faq" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Foire aux questions</a><br>
+  8.  <a href="#trouble-brewing" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">L’Athée dans Trouble Brewing</a><br>
+  9.  <a href="#plus-loin" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Pour aller plus loin</a>
+  </ul>
 </p>
 
 <h2 style="color:#4ea3ff;"><span id="resume">1•Résumé</span></h2>
@@ -215,7 +217,7 @@ L’intérêt de l’Athée est que tous les joueurs sont bons, et que le Conteu
 </p>
 
 <!-- ===== TROUBLE BREWING ===== -->
-<h2 style="color:#4ea3ff;"><span id="trouble-brewing">7•L’Athée dans Trouble Brewing</span></h2>
+<h2 style="color:#4ea3ff;"><span id="trouble-brewing">7.L’Athée dans Trouble Brewing</span></h2>
 <hr>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
@@ -255,7 +257,7 @@ Vous avez donc décidé de mettre un <a href="./roles_experimentaux/atheist.html
 • Donnez au Démon des bluffs qui confirment normalement les joueurs bons : le Fossoyeur, l'Empathe, la Voyante, la Lavandière, le Cuisinier, etc. Cela encourage les joueurs maléfiques à confirmer le faux Athée comme bon, au lieu d’encourager les joueurs maléfiques à confirmer les joueurs bons comme maléfiques.
 </p>
 
-<h3 id="plus-loin" style="color:#b58b52; font-weight:bold; font-size:22px;">8•Pour aller plus loin</h3>
+<h3 id="plus-loin" style="color:#4ea3ff; font-weight:bold; font-size:22px;">8•Pour aller plus loin</h3>
 <hr class="explication">
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
