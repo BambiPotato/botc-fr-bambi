@@ -81,7 +81,7 @@ Chaque nuit, apprenez à quel joueur vous devriez parler en priorité, selon le 
 • Le joueur qu’elle voit peut être en vie ou mort.<br>
 • Le joueur qu’elle voit peut être bon ou maléfique.<br>
 • Il n'existe aucun critère officiel permettant de déterminer le joueur que le Conteur doit montrer à la Grande prêtresse.<br> 
-• <a href="../roles_experimentaux/grandepretresse.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;"> Comment conter la Grande Prêtresse : Essai par Emma</a><br>
+• Nous vous invitons à lire ce guide pour mieux vous aider : <a href="../grandepretresse.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;"> Comment conter la Grande Prêtresse : Essai par Emma</a><br>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;"> 
@@ -93,6 +93,10 @@ Chaque nuit, apprenez à quel joueur vous devriez parler en priorité, selon le 
 
 ##  <span style="color:#4ea3ff;">Comment Conter</span>
 <hr>
+
+<p class="botc-flavour-text dropcap" style="margin:0;">
+Instructions au Conteur
+</p> 
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Chaque nuit, réveillez la Grande Prêtresse.  
