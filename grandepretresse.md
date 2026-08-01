@@ -56,7 +56,7 @@ image: /images/Icon_highpriestess.png
 
 <h2 style="color:#f5f5f5;"><span id="sommaire">Sommaire</span></h2>
   
-  <ul style="color: #4ea3ff; font-size: 16px; line-height: 1.8; margin-bottom: 0; padding-left: 20px;">
+  <ul style="color: #f5f5f5; font-size: 16px; line-height: 1.8; margin-bottom: 0; padding-left: 20px;">
     <li><a href="#resume" style="color: #4ea3ff; text-decoration: none;">Introduction</a></li>
     <li><a href="#principes" style="color: #4ea3ff; text-decoration: none;">Principes Fondamentaux</a></li>
     <li><a href="#theorie-conception" style="color: #4ea3ff; text-decoration: none;">La Théorie de Conception</a></li>
@@ -86,7 +86,7 @@ Chaque nuit, apprenez à quel joueur vous devriez parler en priorité, selon le 
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;"> 
-• C’est le Conteur qui décide qui, selon lui, est le mieux indiqué pour parler avec la Grande prêtresse, et de manière générale, pour aider l’équipe du Bien. <br> Ce peut être parce que ce joueur dispose d’informations importantes qu’il n’a pas encore révélées. Ou parce qu’il s’agit d’un joueur maléfique qui tente de se faire passer pour quelqu’un qu’il ne peut pas être. <br> Ou encore parce que c’est un joueur digne de confiance qui gagnerait à être écouté. <br> Ou enfin parce que c’est un joueur bon, mais qui n’est pas sur la bonne piste, et doit être remis dans le droit chemin. Ou autre chose encore…
+• C’est le Conteur qui décide qui, selon lui, est le mieux indiqué pour parler avec la Grande prêtresse, et de manière générale, pour aider l’équipe du Bien. <br> Ce peut être parce que ce joueur dispose d’informations importantes qu’il n’a pas encore révélées. <br> Ou parce qu’il s’agit d’un joueur maléfique qui tente de se faire passer pour quelqu’un qu’il ne peut pas être. <br> Ou encore parce que c’est un joueur digne de confiance qui gagnerait à être écouté. <br> Ou enfin parce que c’est un joueur bon, mais qui n’est pas sur la bonne piste, et doit être remis dans le droit chemin. Ou autre chose encore…
 </p>
 
 
