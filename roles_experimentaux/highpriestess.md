@@ -99,14 +99,8 @@ Instructions au Conteur
 </p> 
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Chaque nuit, réveillez la Grande Prêtresse.  
-Pointez un joueur, celui avec qui, selon vous, une discussion aura le plus d’impact sur la partie.  
-Puis rendormez la Grande Prêtresse.
-</p>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Choisissez en fonction de la dynamique de la partie, des informations en circulation, des mensonges que vous voyez,  
-et de ce que vous jugez le plus amusant et le plus utile pour l’équipe du Bien (ou pour la tension dramatique !).
+• Chaque nuit, réveillez la Grande Prêtresse. <br> 
+Désignez un joueur. <br>Ensuite, la Grande prêtresse se rendort.
 </p>
 
 
@@ -115,149 +109,72 @@ et de ce que vous jugez le plus amusant et le plus utile pour l’équipe du Bie
 <hr>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-La première nuit, la Grande Prêtresse apprend <strong>Cédric</strong>.  
-Cédric est le 
-<a href="../tb_roles/chef.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef</a> 
-et possède une information de départ importante.  
-La nuit suivante, la Grande Prêtresse voit <strong>Vanessa</strong>, qui est le 
-<a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Goblin</a>.  
-Le Conteur espère que la conversation avec Vanessa permettra de démasquer ce bluff maléfique rapidement.  
-La troisième nuit, la Grande Prêtresse voit <strong>Pierre</strong>, un 
-<a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>  
-dont les « informations » nuisent beaucoup au Bien.
+• La première nuit, la Grande prêtresse apprend Julian.
+Julian est le <a href="../tb_roles/cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a> et a des informations importantes à partager. <br> 
+ La deuxième nuit, le Conteur montre Marianna à la Grande prêtresse. <br> Marianna est le  <a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Gobelin</a> et le Conteur pense que la Grande Prêtresse aurait intérêt à parler avec elle pour l’identifier aussi rapidement que possible. <br> 
+La troisième nuit, le Conteur montre Doug à la Grande prêtresse. Doug est <a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>. <br> Ses informations incorrectes pèsent sur les décisions de l’équipe du Bien.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Pendant trois nuits de suite, la Grande Prêtresse apprend <strong>Sarah</strong>.  
-Sarah est le 
-<a href="../tb_roles/saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a>,  
-et le village envisage sérieusement de l’exécuter.  
-La dernière nuit, la Grande Prêtresse voit <strong>Nicolas</strong>, qui est l’
-<a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Imp</a>.  
-Son histoire contredit plusieurs bons rôles, et le Conteur espère que la Grande Prêtresse saura percer sa défense.
+• Pendant trois nuits de suite, la Grande Prêtresse apprend Sarah.<br> 
+Sarah est le <a href="../tb_roles/saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a>, et l’équipe du Bien ne cesse de tenter de l’exécuter. <br>
+La dernière nuit, la Grande Prêtresse voit Lewis, qui est le <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> et ce qu’il raconte ne recoupe pas les déclarations de plusieurs joueurs bons. 
 </p>
 
 
 
-##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
+<!-- CONSEILS & ASTUCES -->
+<h2 id="conseils" style="color: #4ea3ff;">Conseils &amp; Astuces</h2>
 <hr>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<p>
+  ⚬ Parlez dès que possible chaque jour à la personne que le Conteur vous indique. Le Conteur estime que c'est la personne la plus importante avec qui vous devez discuter. Vous devriez donc entrer immédiatement en contact avec elle afin de tenter d'établir un lien de confiance et d'utiliser ses informations pour guider votre démarche pour le reste de la journée.<br><br>
 
-  <li>Allez parler au joueur donné par le Conteur <strong>dès que possible chaque jour</strong>.<br>  
-      Si le Conteur vous l’indique, c’est qu’il y a probablement quelque chose à y gagner :<br>  
-      une info cachée, un doute à lever, ou un mensonge à débusquer.</li><br>
+  ⚬ Ne parlez pas immédiatement au joueur qui vous a été désigné. Observez plutôt avec qui il discute et essayez de déceler des indices sur la raison pour laquelle vous devriez lui parler, en vous basant sur son comportement et ses interactions. S'il est particulièrement impatient de parler à un ou deux autres joueurs spécifiques, il s'agit peut-être par exemple d'une <a href="./tb_roles/lavandiere.html" style="color: #4ea3ff; font-weight: bold;">Lavandière</a> ou d'une <a href="./tb_roles/voyante.html" style="color: #4ea3ff; font-weight: bold;">Voyante</a>, et le savoir pourrait orienter la façon dont vous l'abordez. Il pourrait aussi sembler légèrement perdu jusqu'à ce qu'il parle à un joueur spécifique et être un Sbire qui vient tout juste de recevoir ses bluffs.<br><br>
 
-  <li>Vous pouvez aussi <strong>observer d’abord</strong> la personne montrée :<br>  
-      avec qui discute-t-elle ? Qui semble-t-elle cibler ou croire ?<br>  
-      Une joueuse qui se rue sur deux personnes précises pourrait être une 
-      <a href="../tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>  
-      ou une 
-      <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>.<br>  
-      Quelqu’un de complètement perdu jusqu’à une courte discussion secrète pourrait être un <span style="color:#d45b5b; font-weight:bold;">Sbire</span>  
-      qui vient de recevoir ses bluffs.</li><br>
+  ⚬ Dites à la personne que vous avez vue que vous êtes la Grande Prêtresse et que vous l'avez obtenue. Voyez si elle connaît une bonne raison pour laquelle elle a pu vous être montrée. Votre information peut être très floue, mais il est possible que ce joueur ait de bonnes théories, basées sur ce qu'il a tiré de son propre rôle, concernant ce qu'il peut vous apporter à vous et plus largement à l'équipe du Bien.<br><br>
 
-  <li>N’hésitez pas à dire à la personne vue :  
-      « Je suis la Grande Prêtresse et j’ai appris que je devais te parler. » <br> 
-      Certaines joueuses ou certains joueurs auront des théories très pertinentes sur <em>pourquoi</em> ils ont été pointés,  
-      en fonction de leur propre rôle et de ce qu’ils peuvent apporter au Bien.</li><br>
+  ⚬ Ne dites pas à cette personne que vous êtes la Grande Prêtresse. Le Conteur n'a peut-être pas l'intention que vous partagiez toutes vos informations avec elle, mais simplement qu'elle ait potentiellement des choses à dire qui pourraient vous aider.<br><br>
 
-  <li>À l’inverse, vous pouvez <strong>ne pas révéler</strong> votre rôle à la personne montrée.<br>  
-      Peut-être que le Conteur souhaite que vous écoutiez, testiez ou perturbiez cette personne,  
-      sans pour autant lui donner la certitude qu’il y a une Grande Prêtresse en jeu.</li><br>
+  ⚬ La première nuit, le joueur que vous apprenez est très probablement soit un joueur bon qui possède déjà une information afin qu'il puisse la partager avec vous, soit un Sbire sur lequel vous pourriez obtenir une lecture sociale ou que vous pourriez piéger faute de bluff.<br><br>
 
-  <li>En début de partie, la personne que vous voyez est souvent soit :<br>
-    <ul style="margin-top:4px; margin-left:20px;">
-      <li>un bon rôle à information qui peut déjà vous aider,</li>
-      <li>soit un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> que vous pouvez jauger socialement ou essayer de piéger.</li><br>
-    </ul>
-  </li>
+  ⚬ À mesure que la partie avance, le Conteur est plus susceptible de vous orienter vers des joueurs qui possèdent des informations qu'ils n'ont pas encore pleinement partagées (même si cette information est simplement leur rôle), des joueurs morts qui ont besoin de connaître d'autres informations que vous avez rassemblées, ou des joueurs maléfiques qui ne peuvent pas faire avancer leurs plans s'ils sont en conversation avec vous plutôt qu'avec leurs compères maléfiques ou les joueurs qu'ils tentent de manipuler.<br><br>
 
-  <li>Au fil de la partie, on vous montrera probablement :
-    <ul style="margin-top:4px; margin-left:20px;">
-      <li>des rôles bons qui n’ont pas tout révélé,</li>
-      <li>des morts qui ont besoin de vos infos pour refaire le point,</li>
-      <li>ou des rôles maléfiques qui seront moins dangereux  
-          s’ils passent leur temps à parler avec vous plutôt qu’à manipuler le reste de la table.</li>
-    </ul>
-  </li>
+  ⚬ En fin de partie, le Conteur est très susceptible de vous diriger vers des joueurs bons qui sont sur la bonne voie, afin de vous encourager à vous rallier à leur point de vue et de renforcer leur état d'esprit auprès du groupe, ou vers le Démon afin que vous puissiez essayer de trouver des failles dans ses arguments et de contester ses affirmations.<br><br>
 
-  <li>En fin de partie, il est fréquent que vous soyez dirigé vers :
-    <ul style="margin-top:4px; margin-left:20px;">
-      <li>des bons rôles « sur la bonne piste », pour que vous renforciez leur discours ;</li>
-      <li>ou carrément vers le <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
-          pour que vous puissiez réfuter ses arguments et le mettre en difficulté.</li>
-    </ul>
-  </li>
+  ⚬ Si l'équipe du Bien est en train de gagner, le Conteur vous dirigera probablement vers des joueurs permettant de renforcer cette stratégie victorieuse. Si ce n'est pas le cas, il pourrait vous pointer vers des informations contradictoires pour essayer d'attirer votre attention sur d'autres perspectives et vous encourager à abandonner vos convictions précédentes. Comment sentez-vous la tournure des événements pour l'équipe du Bien ? Prenez toujours en compte votre information dans ce contexte !<br><br>
 
-  <li>Demandez-vous toujours <strong>dans quel contexte</strong> on vous donne cette info.  
-      Si le Bien semble mener, le Conteur cherchera souvent à consolider cette avance.  
-      Si le Mal domine, on vous montrera peut-être des voix discordantes pour vous pousser  
-      à remettre en question vos certitudes.</li>
+  ⚬ Le Conteur vous a-t-il désigné le même joueur deux fois de suite ? Il est très probable que ce que le Conteur voulait que vous tiriez de cette conversation ne se soit pas produit, alors réessayez avec l'esprit ouvert !<br><br>
 
-  <li>Si vous voyez le <strong>même joueur plusieurs nuits d’affilée</strong>,  
-      c’est probablement que ce que le Conteur  voulait que vous obteniez de cette discussion  
-      n’est pas encore arrivé. Recommencez avec un esprit ouvert.</li>
+  ⚬ En fin de compte, la Grande Prêtresse apporte une grande valeur ajoutée, même si vous ne comprenez pas exactement pourquoi le Conteur vous a envoyé vers un joueur donné. Même si tout ce que vous faites est d'aller parler chaque jour au joueur indiqué sans jamais comprendre pourquoi, vous discutez avec les personnes recommandées par le Conteur, et cela ne peut s'avérer qu'utile pour l'équipe du Bien.
+</p>
 
-  <li>Même si vous ne comprenez jamais totalement <em>pourquoi</em> on vous a envoyé vers telle personne,  
-      le simple fait de parler aux joueurs jugés importants par le Conteur ou la conteuse  
-      est déjà extrêmement précieux pour le Bien.</li>
+<!-- BLUFFER LA GRANDE PRÊTRESSE -->
 
-</ul>
-
-
-
-##  <span style="color:#4ea3ff;">Bluffer la Grande Prêtresse</span>
+<h2 id="bluffer" style="color: #4ea3ff;">Bluffer la Grande Prêtresse</h2>
 <hr>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<p>
+  ⚬ Prétendez qu'on vous a montré des joueurs bons, puis soutenez-les ainsi que leurs informations dès le départ. Bien que vous renforciez de bonnes informations — ce qui pourrait nuire à votre équipe —, vous suscitez également une grande confiance envers vous chez ce joueur, ce qui pourrait s'avérer très payant par la suite.<br><br>
 
-  <li>Vous pouvez prétendre avoir vu des rôles bons,  
-      et les soutenir activement.<br>  
-      Cela renforce leur crédibilité… et la vôtre.<br>  
-      Plus tard, cette confiance pourra être retournée au profit du Mal.</li><br>
+  ⚬ À l'inverse, prétendez qu'on vous a montré un joueur bon, mais affirmez que votre conversation s'est très mal passée et que vous suspectez qu'on vous a montré un Sbire sans bluff ou qui a une histoire peu crédible.<br><br>
 
-  <li>À l’inverse, dites que votre discussion avec un rôle apparemment bon s’est « très mal passée » <br> 
-      et qu’il pourrait être un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> en difficulté de bluff.<br>  
-      Vous semez ainsi le doute sans avoir besoin de prouver quoi que ce soit.</li><br>
+  ⚬ Prétendez avoir vu vos camarades maléfiques. Cela vous fournit une excellente excuse pour vous parler dès le premier jour, partager vos bluffs ainsi que toute autre information, et lancer la planification de votre approche du jeu. Assurez-vous simplement que ce que ces joueurs finiront par revendiquer sur le long terme constitue une bonne raison d'avoir été montrés à la Grande Prêtresse lors de la première nuit.<br><br>
 
-  <li>Prétendez avoir vu vos alliés maléfiques.<br>  
-      Cela vous donne un excellent prétexte pour parler longuement avec eux dès le jour 1,  
-      partager les bluffs et coordonner vos plans, sans éveiller de soupçons.</li><br>
+  ⚬ N'hésitez pas à choisir plus ou moins qui vous voulez et vous pourrez toujours inventer une raison plus tard, mais le choix le plus risqué reste votre « information » de la première nuit. Le rôle du joueur qui vous a été montré la première nuit représente probablement l'avis le plus ferme du Conteur, en l'absence de toute influence liée au déroulement de la partie ou à la façon de penser des joueurs. Vous aurez donc besoin d'une justification solide.<br><br>
 
-  <li>Votre première nuit est la plus délicate à inventer :<br>  
-      c’est l’instant où le Conteur a le moins d’emprise sur la partie pour guider son choix.<br>  
-      Donnez donc une raison solide et cohérente pour le tout premier joueur que vous prétendez avoir vu.</li>
+  ⚬ Ayez toujours un plan de secours au cas où vous devriez vous retourner contre un joueur qui vous a été montré. Si son information est trop puissante ou s'il rassemble un cercle de confiance trop large, vous devrez peut-être instiller le doute en suggérant qu'il vous a été montré pour le piéger en plein bluff, ou qu'il s'agit en réalité de <a href="./tb_roles/ivrogne.html" style="color: #4ea3ff; font-weight: bold;">l'Ivrogne</a> et qu'on vous l'a montré pour vous encourager à le déduire.<br><br>
 
-  <li>Gardez toujours un <strong>plan de secours</strong> au cas où vous devriez vous retourner  
-      contre un joueur que vous affirmez avoir vu.<br>  
-      Par exemple : « Je pense que j’ai été envoyée vers toi pour te tester, pas pour te faire confiance. »</li>
+  ⚬ Une excellente façon de bluffer la Grande Prêtresse est d'écouter. Vous voulez que les joueurs suggèrent une raison pour laquelle ils auraient pu vous être montrés et, si elle est incorrecte, d'encourager cette piste afin de dévoyer leur stratégie.<br><br>
 
-  <li>Un excellent bluff de Grande Prêtresse consiste à beaucoup écouter.<br>  
-      Laissez les autres vous proposer des raisons pour lesquelles vous auriez pu les voir,  
-      puis encouragez les théories qui servent l’agenda du Mal.</li><br>
+  ⚬ Attendez que les gens aient revendiqué leurs rôles avant de les aborder pour pouvoir faire des choix cohérents. Vous ne voulez pas vous faire piéger en milieu de partie quand quelqu'un réexaminera vos premières informations et se demandera pourquoi on vous a montré <a href="./tb_roles/gardien.html" style="color: #4ea3ff; font-weight: bold;">la Corneille</a> et <a href="./tb_roles/majordome.html" style="color: #4ea3ff; font-weight: bold;">le Majordome</a> lors des deux premières nuits, alors qu'il n'y avait aucune bonne raison pour le Conteur de vous inciter à leur parler.<br><br>
 
-  <li>Attendez que les gens révèlent leurs rôles avant de prétendre les avoir vus,  
-      afin que votre récit paraisse logique : <br> 
-      vous ne voulez pas qu’on vous reproche plus tard d’avoir vu des rôles anodins  
-      sans raison évidente.</li><br>
+  ⚬ Bien plus qu'avec d'autres rôles, vous pouvez tout à fait vous en sortir en feignant l'ignorance en tant que Grande Prêtresse. Passer une bonne partie du jeu à « ne pas savoir ce qui se passe » est non seulement très convaincant — car les joueurs bons sont généralement confus —, mais cela encourage aussi les joueurs bons à vous aider pour comprendre la pertinence de votre information, ce qui exige d'eux qu'ils adhèrent à votre point de vue !<br><br>
 
-  <li>Vous pouvez vous permettre d’être un peu perdue ou perdu :<br>  
-      les vrais Villageois sont souvent confus,  
-      et cette posture incite les bons rôles à vous « aider »  
-      en s’ouvrant davantage sur leurs informations.</li><br>
+  ⚬ C'est un excellent bluff pour les joueurs maléfiques pour commencer la partie avant de bifurquer vers un autre rôle, mais c'est aussi un très bon bluff pour les joueurs bons. C'est un moyen très puissant de pouvoir engager la conversation avec une personne spécifique à qui vous devez parler sans rendre évidente la raison de votre démarche.<br><br>
 
-  <li>C’est un excellent bluff de début de partie, que vous pouvez ensuite « abandonner »  
-      pour revendiquer un autre rôle.<br>  
-      Vous pourrez toujours prétendre avoir voulu rester discrète ou discret  
-      pour ne pas vous faire cibler par le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.</li><br>
-
-  <li>Revendiquer avoir vu un joueur que le groupe considère déjà comme très suspect,  
-      surtout après son exécution,  
-      est un bon moyen de casser un consensus correct en le rendant à nouveau discutable.</li>
-
-</ul>
-
+  ⚬ Prétendre avoir vu quelqu'un alors même que le consensus du groupe est que ce joueur est très probablement maléfique — surtout après qu'il a été exécuté et qu'il est mort — est un excellent moyen de faire dérailler ce consensus et d'éloigner le village de la vérité.
+</p>
 
 <hr class="explication">
 
