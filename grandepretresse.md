@@ -37,7 +37,9 @@ image: /images/Icon_highpriestess.png
 « Il y a de la vie derrière la personnalité qui utilise les personnalités comme des masques. <br> Il y a des moments où la vie fait tomber le masque et l’abîme répond à l’abîme.  »
 </p>
 
+
 <hr class="villageois">
+
 
 <!-- APPARAÎT DANS -->
 <div style="text-align:center; margin: 20px 0%;">
