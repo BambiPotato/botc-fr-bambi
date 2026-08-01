@@ -48,9 +48,11 @@ image: /images/Icon_highpriestess.png
 </ul>
 
 
+
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
 « Il y a de la vie derrière la personnalité qui utilise les personnalités comme des masques. <br> Il y a des moments où la vie fait tomber le masque et l’abîme répond à l’abîme.  »
 </p>
+
 
 <hr class="villageois">
 
@@ -88,21 +90,16 @@ Chaque nuit, apprenez à quel joueur vous devriez parler en priorité, selon le 
 • C’est le Conteur qui décide qui, selon lui, est le mieux indiqué pour parler avec la Grande prêtresse, et de manière générale, pour aider l’équipe du Bien. <br> Ce peut être parce que ce joueur dispose d’informations importantes qu’il n’a pas encore révélées. <br> Ou parce qu’il s’agit d’un joueur maléfique qui tente de se faire passer pour quelqu’un qu’il ne peut pas être. <br> Ou encore parce que c’est un joueur digne de confiance qui gagnerait à être écouté. <br> Ou enfin parce que c’est un joueur bon, mais qui n’est pas sur la bonne piste, et doit être remis dans le droit chemin. Ou autre chose encore…
 </p>
 
-
-
-
 ##  <span style="color:#4ea3ff;">Comment Conter</span>
 <hr>
 
-<p class="botc-flavour-text dropcap" style="margin:0;">
+<p class="botc-flavour-text dropcap" style="margin-top:0;">
 Instructions au Conteur
-</p> 
-
+</p>
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 • Chaque nuit, réveillez la Grande Prêtresse. <br> 
 Désignez un joueur. <br>Ensuite, la Grande prêtresse se rendort.
 </p>
-
 
 
 ##  <span style="color:#4ea3ff;">Exemples</span>
@@ -122,12 +119,10 @@ La dernière nuit, la Grande Prêtresse voit Lewis, qui est le <a href="../tb_ro
 </p>
 
 
-
-<!-- CONSEILS & ASTUCES -->
-<h2 style="color: #4ea3ff;">Conseils &amp; Astuces</h2>
+##  <span style="color:#4ea3ff;">Conseils &amp; Astuces</span>
 <hr>
 
-<p>
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   ⚬ Parlez dès que possible chaque jour à la personne que le Conteur vous indique. Le Conteur estime que c'est la personne la plus importante avec qui vous devez discuter. Vous devriez donc entrer immédiatement en contact avec elle afin de tenter d'établir un lien de confiance et d'utiliser ses informations pour guider votre démarche pour le reste de la journée.<br><br>
 
   ⚬ Ne parlez pas immédiatement au joueur qui vous a été désigné. Observez plutôt avec qui il discute et essayez de déceler des indices sur la raison pour laquelle vous devriez lui parler, en vous basant sur son comportement et ses interactions. S'il est particulièrement impatient de parler à un ou deux autres joueurs spécifiques, il s'agit peut-être par exemple d'une <a href="../tb_roles/lavandiere.html" style="color: #4ea3ff; font-weight: bold;">Lavandière</a> ou d'une <a href="../tb_roles/voyante.html" style="color: #4ea3ff; font-weight: bold;">Voyante</a>, et le savoir pourrait orienter la façon dont vous l'abordez. Il pourrait aussi sembler légèrement perdu jusqu'à ce qu'il parle à un joueur spécifique et être un Sbire qui vient tout juste de recevoir ses bluffs.<br><br>
@@ -146,15 +141,14 @@ La dernière nuit, la Grande Prêtresse voit Lewis, qui est le <a href="../tb_ro
 
   ⚬ Le Conteur vous a-t-il désigné le même joueur deux fois de suite ? Il est très probable que ce que le Conteur voulait que vous tiriez de cette conversation ne se soit pas produit, alors réessayez avec l'esprit ouvert !<br><br>
 
-  ⚬ En fin de compte, la Grande Prêtresse apporte une grande valeur ajoutée, même si vous ne comprenez pas exactement pourquoi le Conteur vous a envoyé vers un joueur donné. Même si tout ce que vous faites est d'aller parler chaque jour au joueur indiqué sans jamais comprendre pourquoi, vous discutez avec les personnes recommandées par le Conteur, et cela ne peut s'avérer qu'utile pour l'équipe du Bien.
+  ⚬ En fin de compte, la Grande Prêtresse apporte une grande valeur ajoutée, même si vous ne comprenez pas exactement pourquoi le Conteur vous a envoyé vers un joueur donné. Même si tout ce que vous faites est d'aller parler chaque jour au joueur indiqué sans jamais comprendre pourquoi, vous discutez avec les personnes recommandées par le Conteur, et cela ne peut s'avérer quutile pour l'équipe du Bien.
 </p>
 
-<!-- BLUFFER LA GRANDE PRÊTRESSE -->
 
-<h2 style="color: #4ea3ff;">Bluffer la Grande Prêtresse</h2>
+##  <span style="color:#4ea3ff;">Bluffer la Grande Prêtresse</span>
 <hr>
 
-<p>
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   ⚬ Prétendez qu'on vous a montré des joueurs bons, puis soutenez-les ainsi que leurs informations dès le départ. Bien que vous renforciez de bonnes informations — ce qui pourrait nuire à votre équipe —, vous suscitez également une grande confiance envers vous chez ce joueur, ce qui pourrait s'avérer très payant par la suite.<br><br>
 
   ⚬ À l'inverse, prétendez qu'on vous a montré un joueur bon, mais affirmez que votre conversation s'est très mal passée et que vous suspectez qu'on vous a montré un Sbire sans bluff ou qui a une histoire peu crédible.<br><br>
@@ -175,6 +169,7 @@ La dernière nuit, la Grande Prêtresse voit Lewis, qui est le <a href="../tb_ro
 
   ⚬ Prétendre avoir vu quelqu'un alors même que le consensus du groupe est que ce joueur est très probablement maléfique — surtout après qu'il a été exécuté et qu'il est mort — est un excellent moyen de faire dérailler ce consensus et d'éloigner le village de la vérité.
 </p>
+
 
 <hr class="explication">
 
