@@ -53,18 +53,18 @@ image: /images/Icon_atheist.png
 <!-- ===== SOMMAIRE ===== -->
 <h2 style="color:#4ea3ff;"><span id="sommaire">Sommaire</span></h2>
 
-<p style="color:#e0c99d; font-size:18px; line-height:1.9; margin-left:0; text-align:left;">
-  <ul style="color: #e0c99d; font-size: 16px; line-height: 1.8; margin-bottom: 0; padding-left: 20px;">
-  1.  <a href="#resume" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">. Résumé</a><br>
-  2.  <a href="#mener-la-partie" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Comment mener la partie</a><br>
-  3.  <a href="#interactions" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Interactions intéressantes</a><br>
-  4.  <a href="#bien-mener" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Comment bien mener une partie avec l’Athée</a><br>
-  5.  <a href="#mal-mener" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Comment mal mener une partie avec l'Athée</a><br>
-  7.  <a href="#faq" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Foire aux questions</a><br>
-  8.  <a href="#trouble-brewing" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">L’Athée dans Trouble Brewing</a><br>
-  9.  <a href="#plus-loin" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Pour aller plus loin</a>
-  </ul>
-</p>
+
+<ul style="color: #e0c99d; font-size: 16px; line-height: 1.8; margin-bottom: 0; padding-left: 20px; list-style: none;">
+  <li>1. <a href="#resume" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Résumé</a></li>
+  <li>2. <a href="#mener-la-partie" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Comment mener la partie</a></li>
+  <li>3. <a href="#interactions" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Interactions intéressantes</a></li>
+  <li>4. <a href="#bien-mener" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Comment bien mener une partie avec l’Athée</a></li>
+  <li>5. <a href="#mal-mener" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Comment mal mener une partie avec l'Athée</a></li>
+  <li>7. <a href="#faq" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Foire aux questions</a></li>
+  <li>8. <a href="#trouble-brewing" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">L’Athée dans Trouble Brewing</a></li>
+  <li>9. <a href="#plus-loin" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Pour aller plus loin</a></li>
+</ul>
+
 
 <h2 style="color:#4ea3ff;"><span id="resume">1•Résumé</span></h2>
 <hr class="explication">
@@ -258,7 +258,7 @@ Vous avez donc décidé de mettre un <a href="./roles_experimentaux/atheist.html
 </p>
 
 <h3 id="plus-loin" style="color:#4ea3ff; font-weight:bold; font-size:22px;">8•Pour aller plus loin</h3>
-<hr class="explication">
+<hr>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
 • <a href="./roles_experimentaux/atheist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">L'Athée</a><br>
