@@ -62,7 +62,7 @@ image: /images/Icon_highpriestess.png
     <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
   </a>
 </div>
----
+
 
 ##  <span style="color:#4ea3ff;">Résumé</span>
 <hr class="villageois">
@@ -76,11 +76,12 @@ Chaque nuit, apprenez à quel joueur vous devriez parler en priorité, selon le 
 </p> 
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
-• <a href="./roles_experimentaux/highpriestess.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retrouvez ici la fiche et le détail du rôle la Grande Prêtresse</a><br>
+
 • La Grande prêtresse peut voir plusieurs fois le même joueur d’affilée, ou un joueur différent chaque nuit.<br>
 • Le joueur qu’elle voit peut être en vie ou mort.<br>
 • Le joueur qu’elle voit peut être bon ou maléfique.<br>
 • Il n'existe aucun critère officiel permettant de déterminer le joueur que le Conteur doit montrer à la Grande prêtresse.<br> 
+• <a href="../roles_experimentaux/grandepretresse.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;"> Comment conter la Grande Prêtresse : Essai par Emma</a><br>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;"> 
@@ -252,6 +253,7 @@ Son histoire contredit plusieurs bons rôles, et le Conteur espère que la Grand
       est un bon moyen de casser un consensus correct en le rendant à nouveau discutable.</li>
 
 </ul>
+
 
 <hr class="explication">
 
