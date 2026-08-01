@@ -54,39 +54,40 @@ image: /images/Icon_atheist.png
 <h2 style="color:#4ea3ff;"><span id="sommaire">Sommaire</span></h2>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.9; margin-left:0; text-align:left;">
-  • <a href="#resume" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">1. Résumé</a><br>
-  • <a href="#mener-la-partie" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">2. Comment mener la partie</a><br>
-  • <a href="#interactions" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">3. Interactions intéressantes</a><br>
-  • <a href="#bien-mener" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">4. Comment bien mener une partie avec l’Athée</a><br>
-  • <a href="#mal-mener" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">5. Comment mal mener une partie avec l'Athée</a><br>
-  • <a href="#faq" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">6. Foire aux questions</a><br>
-  • <a href="#trouble-brewing" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">7. L’Athée dans Trouble Brewing</a><br>
-  • <a href="#plus-loin" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">8. Pour aller plus loin</a>
+  1• <a href="#resume" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">. Résumé</a><br>
+  2• <a href="#mener-la-partie" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">. Comment mener la partie</a><br>
+  3• <a href="#interactions" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">. Interactions intéressantes</a><br>
+  4• <a href="#bien-mener" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">. Comment bien mener une partie avec l’Athée</a><br>
+  5• <a href="#mal-mener" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">. Comment mal mener une partie avec l'Athée</a><br>
+  7• <a href="#faq" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">. Foire aux questions</a><br>
+  8• <a href="#trouble-brewing" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">. L’Athée dans Trouble Brewing</a><br>
+  9• <a href="#plus-loin" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">. Pour aller plus loin</a>
 </p>
 
-<h2 style="color:#4ea3ff;"><span id="resume">Résumé</span></h2>
+<h2 style="color:#4ea3ff;"><span id="resume">1•Résumé</span></h2>
 <hr class="explication">
 
-<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:21px; margin:0 0 8px 0;">
-« Le Conteur peut enfreindre les règles. Si il est exécuté, le Bien gagne même si vous êtes mort. <strong>[Aucun rôle maléfique]</strong> »
-</p>
-
-<!-- ===== COMMENT MENER LA PARTIE ===== -->
-<h2 style="color:#4ea3ff;"><span id="mener-la-partie">Comment mener la partie</span></h2>
-<hr>
-
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
-Rappel : L’<a href="./roles_experimentaux/atheist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Athée</a> est absolument un rôle réservé aux joueurs expérimentés et, encore bien plus, un rôle réservé aux Conteurs expérimentés. <br> À manipuler avec une précaution extrême.<br>
-Pendant la mise en place, si l’Athée doit être en jeu, n’ajoutez aucun rôle maléfique. <br>À la place, ajoutez n’importe quelle combinaison de Villageois ou de Marginaux pour correspondre au nombre de joueurs. N’ajoutez pas de rôles maléfiques en prétextant que vous utilisez la capacité de l’Athée pour enfreindre la règle « Aucun rôle maléfique » — ce serait l’inverse exact du principe de l’Athée.<br>
-Si l’Athée est en jeu et que le Conteur est exécuté, le Bien gagne. N’importe quel joueur en vie peut nommer le Conteur et les règles d’exécution normales s’appliquent en termes de nombre de voix requises. Si l’Athée n’est pas en jeu et que le Conteur est exécuté, le Mal gagne. Le Bien perd s’il ne reste que deux joueurs en vie, même si l’Athée est mort. S’il n’est pas possible qu’un Athée soit en jeu, le Conteur ne peut pas être nommé.<br>
-Une fois les rôles distribués, la manière dont vous procédez dépend de ce qui figure sur le script. <br> De manière générale, vous pouvez désormais enfreindre n’importe quelle règle du jeu comme bon vous semble afin de maintenir l’illusion d’une partie normale. Cela consiste généralement à décider quel(s) Démon(s) et Sbire(s) vous souhaitez simuler en jeu et à faire vos choix en conséquence (vous pouvez garder les jetons memento de l'équipe maléfique concernée à portée de hand pour suivre vos choix).<br>
-La priorité dans une partie avec l’Athée est que vos joueurs s’amusent — et ils risquent de ne pas s’amuser si vous enfreignez des règles juste pour le plaisir de le faire. Vous devez faire des choix conçus pour être une énigme à résoudre pour vos joueurs, et non un bac à sable où vous les manipulez pour votre propre divertissement. Par conséquent, vous ne devez enfreindre les règles du jeu que pour donner de fausses informations ou pour simuler les actions de rôles maléfiques qui pourraient être en jeu mais ne le sont pas. Évitez de créer des règles arbitraires ou de modifier les conditions de victoire. Les joueurs doivent savoir comment ils peuvent gagner la partie avec un Athée pour pouvoir l’apprécier.<br>
-Vous trouverez ci-dessous de bien plus amples informations sur le type de règles que vous pouvez et devez enfreindre, ainsi que sur les choix à effectuer.<br>
-Si l’Athée est l’<a href="./tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>, vous auriez dû le décider avant de mettre les jetons dans le sac, puisque vous auriez eu besoin de mettre des rôles maléfiques dans le sac. À partir de ce moment, ignorez tous les effets de la capacité de l’Athée puisqu’elle n’est pas en jeu — le Mal gagne si le Conteur est exécuté, le Conteur ne peut pas enfreindre les règles du jeu, etc.
+• ⚠️ <strong>Rappel :</strong> L’<a href="./roles_experimentaux/atheist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Athée</a> est absolument un rôle réservé aux joueurs expérimentés et, encore bien plus, un rôle réservé aux Conteurs expérimentés. <br>
+À manipuler avec une précaution extrême.<br><br>
+
+• Pendant la mise en place, si l’Athée doit être en jeu, n’ajoutez aucun rôle maléfique. <br>
+À la place, ajoutez n’importe quelle combinaison de Villageois ou de Marginaux pour correspondre au nombre de joueurs. N’ajoutez pas de rôles maléfiques en prétextant que vous utilisez la capacité de l’Athée pour enfreindre la règle « Aucun rôle maléfique » — ce serait l’inverse exact du principe de l’Athée.<br><br>
+
+• Si l’Athée est en jeu et que le Conteur est exécuté, le Bien gagne. N’importe quel joueur en vie peut nommer le Conteur et les règles d’exécution normales s’appliquent en termes de nombre de voix requises. Si l’Athée n’est pas en jeu et que le Conteur est exécuté, le Mal gagne. Le Bien perd s’il ne reste que deux joueurs en vie, même si l’Athée est mort. S’il n’est pas possible qu’un Athée soit en jeu, le Conteur ne peut pas être nommé.<br><br>
+
+• Une fois les rôles distribués, la manière dont vous procédez dépend de ce qui figure sur le script. <br>
+De manière générale, vous pouvez désormais enfreindre n’importe quelle règle du jeu comme bon vous semble afin de maintenir l’illusion d’une partie normale. Cela consiste généralement à décider quel(s) Démon(s) et Sbire(s) vous souhaitez simuler en jeu et à faire vos choix en conséquence (vous pouvez garder les jetons memento de l'équipe maléfique concernée à portée de hand pour suivre vos choix).<br><br>
+
+• La priorité dans une partie avec l’Athée est que vos joueurs s’amusent — et ils risquent de ne pas s’amuser si vous enfreignez des règles juste pour le plaisir de le faire. Vous devez faire des choix conçus pour être une énigme à résoudre pour vos joueurs, et non un bac à sable où vous les manipulez pour votre propre divertissement. Par conséquent, vous ne devez enfreindre les règles du jeu que pour donner de fausses informations ou pour simuler les actions de rôles maléfiques qui pourraient être en jeu mais ne le sont pas. Évitez de créer des règles arbitraires ou de modifier les conditions de victoire. Les joueurs doivent savoir comment ils peuvent gagner la partie avec un Athée pour pouvoir l’apprécier.<br><br>
+
+Vous trouverez ci-dessous de bien plus amples informations sur le type de règles que vous pouvez et devez enfreindre, ainsi que sur les choix à effectuer.<br><br>
+
+• Si l’Athée est l’<a href="./tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>, vous auriez dû le décider avant de mettre les jetons dans le sac, puisque vous auriez eu besoin de mettre des rôles maléfiques dans le sac. À partir de ce moment, ignorez tous les effets de la capacité de l’Athée puisqu’elle n’est pas en jeu — le Mal gagne si le Conteur est exécuté, le Conteur ne peut pas enfreindre les règles du jeu, etc.
 </p>
 
 <!-- ===== INTERACTIONS INTERESSANTES ===== -->
-<h2 style="color:#4ea3ff;"><span id="interactions">Interactions intéressantes</span></h2>
+<h2 style="color:#4ea3ff;"><span id="interactions">3•Interactions intéressantes</span></h2>
 <hr>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
@@ -100,7 +101,7 @@ Si l’Athée est l’<a href="./tb_roles/ivrogne.html" style="color:#4ea3ff; fo
 </p>
 
 <!-- ===== COMMENT BIEN MENER UNE PARTIE ===== -->
-<h2 style="color:#4ea3ff;"><span id="bien-mener">Comment bien mener une partie avec l’Athée</span></h2>
+<h2 style="color:#4ea3ff;"><span id="bien-mener">4•Comment bien mener une partie avec l’Athée</span></h2>
 <hr>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
@@ -114,7 +115,7 @@ Si l’Athée est l’<a href="./tb_roles/ivrogne.html" style="color:#4ea3ff; fo
 </p>
 
 <!-- ===== COMMENT MAL MENER UNE PARTIE ===== -->
-<h2 style="color:#4ea3ff;"><span id="mal-mener">Comment mal mener une partie avec l'Athée</span></h2>
+<h2 style="color:#4ea3ff;"><span id="mal-mener">5•Comment mal mener une partie avec l'Athée</span></h2>
 <hr>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
@@ -126,7 +127,7 @@ Si l’Athée est l’<a href="./tb_roles/ivrogne.html" style="color:#4ea3ff; fo
 </p>
 
 <!-- ===== FAQ ===== -->
-<h2 style="color:#4ea3ff;"><span id="faq">Foire aux questions</span></h2>
+<h2 style="color:#4ea3ff;"><span id="faq">6•Foire aux questions</span></h2>
 <hr>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
@@ -214,7 +215,7 @@ L’intérêt de l’Athée est que tous les joueurs sont bons, et que le Conteu
 </p>
 
 <!-- ===== TROUBLE BREWING ===== -->
-<h2 style="color:#4ea3ff;"><span id="trouble-brewing">L’Athée dans Trouble Brewing</span></h2>
+<h2 style="color:#4ea3ff;"><span id="trouble-brewing">7•L’Athée dans Trouble Brewing</span></h2>
 <hr>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
@@ -254,7 +255,7 @@ Vous avez donc décidé de mettre un <a href="./roles_experimentaux/atheist.html
 • Donnez au Démon des bluffs qui confirment normalement les joueurs bons : le Fossoyeur, l'Empathe, la Voyante, la Lavandière, le Cuisinier, etc. Cela encourage les joueurs maléfiques à confirmer le faux Athée comme bon, au lieu d’encourager les joueurs maléfiques à confirmer les joueurs bons comme maléfiques.
 </p>
 
-<h3 id="plus-loin" style="color:#b58b52; font-weight:bold; font-size:22px;">Pour aller plus loin</h3>
+<h3 id="plus-loin" style="color:#b58b52; font-weight:bold; font-size:22px;">8•Pour aller plus loin</h3>
 <hr class="explication">
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
