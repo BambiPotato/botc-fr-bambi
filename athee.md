@@ -22,7 +22,9 @@ image: /images/Icon_atheist.png
   </a>
 </div>
 
+
 <hr class="villageois">
+
 
 <h2 style="color:#4ea3ff;"><span id="informations">Informations</span></h2>
 
