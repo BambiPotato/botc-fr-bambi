@@ -285,6 +285,8 @@ data-tooltip="Wiki pour jouer et conter en français">
 <img src="images/logogold.png" alt="Accueil BotC FR">
 </a>
 
+<hr class="explication">
+
 <div class="home-socials">
 <a href="https://discord.gg/tGDVmZfZpE"
 target="_blank"
@@ -371,7 +373,7 @@ data-tooltip="Suis-nous sur Instagram">
 
 </div>
 
-<!-- 1. Les rôles par édition -->
+<!-- 1. Les rôles par module -->
 <h1 style="
   color:#b58b52;
   font-size:20px;
@@ -381,7 +383,7 @@ data-tooltip="Suis-nous sur Instagram">
   margin-bottom:14px;
   margin-top:30px;
 ">
-  Les rôles par édition
+  Les rôles par module 
 </h1>
 
 <hr>
@@ -1064,35 +1066,40 @@ data-tooltip="Suis-nous sur Instagram">
   <hr style="margin:22px 0; width:50%; border:1px solid rgba(212,167,106,0.25);">
 
   <p style="font-size:16px; color:#e0c99d; text-align:left; max-width:980px; margin:20px 0 10px 0; line-height:1.7;">
-    Ce wiki a été créé par <span style="color:#d4a76a; font-weight:bold;">Bambi</span> pour les fans de
-    <span style="color:#d4a76a; font-weight:bold;">Blood on the Clocktower</span>
-    et n’a aucun but lucratif.<br>    
-    Tout le contenu lié à
-    <span style="color:#d4a76a; font-weight:bold;">Blood on the Clocktower</span>
-    appartient à
-    <span style="color:#d4a76a; font-weight:bold;">The Pandemonium Institute</span>.
-  </p>
+  Ce wiki a été créé et est maintenu par <span style="color:#d4a76a; font-weight:bold;">Bambi</span> pour la communauté 
+  <span style="color:#d4a76a; font-weight:bold;">Blood on the Clocktower</span>
+  et n’a aucun but lucratif.<br>    
+  Tout le contenu lié à
+  <span style="color:#d4a76a; font-weight:bold;">Blood on the Clocktower</span>
+  appartient à
+  <span style="color:#d4a76a; font-weight:bold;">The Pandemonium Institute</span>.
+</p>
 
-  <p style="font-size:16px; color:#e0c99d; text-align:left; max-width:980px; margin:10px 0 0 0; line-height:1.7;">
-    <span style="color:#e0c99d; font-style:italic;">Soutenez :</span><br>
-    <a href="https://bloodontheclocktower.com/"
-       target="_blank" rel="noopener noreferrer"
-       style="color:#d4a76a; font-weight:bold; text-decoration:none;">
-      The Pandemonium Institute
-    </a>
-    <span style="color:#d4a76a;">&nbsp;•&nbsp;</span>
-    <a href="https://open-sesame.games/"
-       target="_blank" rel="noopener noreferrer"
-       style="color:#d4a76a; font-weight:bold; text-decoration:none;">
-      Open Sesame Games
-    </a>
-     <span style="color:#d4a76a;">&nbsp;•&nbsp;</span>
-    <a href="https://www.twitch.tv/bambibluepotato/"
-       target="_blank" rel="noopener noreferrer"
-       style="color:#d4a76a; font-weight:bold; text-decoration:none;">
-      Bambi
-    </a>
-  </p>
+<p style="font-size:16px; color:#e0c99d; text-align:left; max-width:980px; margin:10px 0 0 0; line-height:1.7;">
+  <span style="color:#e0c99d; font-style:italic;">Soutenez les éditeurs :</span><br>
+  <a href="https://bloodontheclocktower.com/"
+     target="_blank" rel="noopener noreferrer"
+     style="color:#d4a76a; font-weight:bold; text-decoration:none;">
+    The Pandemonium Institute
+  </a>
+  <span style="color:#d4a76a;">&nbsp;•&nbsp;</span>
+  <a href="https://open-sesame.games/"
+     target="_blank" rel="noopener noreferrer"
+     style="color:#d4a76a; font-weight:bold; text-decoration:none;">
+    Open Sesame Games
+  </a>
+</p>
+
+<p style="font-size:16px; color:#e0c99d; text-align:left; max-width:980px; margin:10px 0 0 0; line-height:1.7;">
+  <span style="color:#e0c99d; font-style:italic;">Pour me soutenir :</span><br>
+  Retrouvez-moi en live sur 
+  <a href="https://www.twitch.tv/bambibluepotato/"
+     target="_blank" rel="noopener noreferrer"
+     style="color:#d4a76a; font-weight:bold; text-decoration:none;">
+    ma chaîne Twitch
+  </a> !
+</p>
+
 
 
 <hr class="explication">
