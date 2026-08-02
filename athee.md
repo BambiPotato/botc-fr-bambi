@@ -56,7 +56,7 @@ image: /images/Icon_atheist.png
 <h2 style="color:#4ea3ff;"><span id="sommaire">Sommaire</span></h2>
 
 
-<ul style="color: #e0c99d; font-size: 16px; line-height: 1.8; margin-bottom: 0; padding-left: 20px; list-style: none;">
+<ul style="color: #4ea3ff; font-size: 16px; line-height: 1.8; margin-bottom: 0; padding-left: 20px; list-style: none;">
   <li>1. <a href="#resume" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Résumé</a></li>
   <li>2. <a href="#mener-la-partie" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Comment mener la partie</a></li>
   <li>3. <a href="#interactions" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Interactions intéressantes</a></li>
@@ -70,6 +70,23 @@ image: /images/Icon_atheist.png
 
 <h2 style="color:#4ea3ff;"><span id="resume">1•Résumé</span></h2>
 <hr class="explication">
+
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
+« Le Conteur peut enfreindre les règles. S’il est exécuté, le Bien gagne, même si vous êtes mort. [Aucun rôle maléfique] »
+</p>
+
+<p class="botc-flavour-text dropcap" style="margin:0; color:#e0c99d; font-size:20px; line-height:1.7;">
+L’Athée sait que tous les joueurs sont bons et que les Démons n’existent pas.
+</p>
+
+<p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
+• Si l’Athée est en jeu, il n'y a pas de joueurs maléfiques — aucun Sbire ni Démon.<br>
+• Le Bien gagne si le Conteur est exécuté. Tout joueur en vie peut nommer le Conteur, et le Conteur est exécuté si au moins la moitié des joueurs en vie vote contre lui.<br>
+• Si l'Athée n'est pas en jeu et que le Conteur est exécuté, le Mal gagne.<br>
+• Le Bien perd s’il ne reste que deux joueurs en vie.<br>
+• Le Conteur peut enfreindre n’importe quelle règle du jeu. Il peut tuer un joueur qui a été nommé pour simuler la malédiction d’une <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a>, tuer des joueurs la nuit pour faire croire qu’un Démon est présent, donner de fausses informations aux joueurs pour simuler l’ivresse, transformer des rôles la nuit pour laisser penser qu’une <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a> est en jeu, ou même jouer avec un nombre de Marginaux incorrect. <br>
+• Nous vous invitons à lire ce guide pour mieux vous aider : <a href="../athee.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;"> Comment conter l'Athée</a>
+</p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
 • ⚠️ <strong>Rappel :</strong> L’<a href="./roles_experimentaux/atheist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Athée</a> est absolument un rôle réservé aux joueurs expérimentés et, encore bien plus, un rôle réservé aux Conteurs expérimentés. <br>
