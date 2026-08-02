@@ -88,6 +88,9 @@ L’Athée sait que tous les joueurs sont bons et que les Démons n’existent p
 • Nous vous invitons à lire ce guide pour mieux vous aider : <a href="../athee.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;"> Comment conter l'Athée</a>
 </p>
 
+<h2 style="color:#4ea3ff;"><span id="mener-la-partie">2•Comment mener la partie</span></h2>
+<hr>
+
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
 • ⚠️ <strong>Rappel :</strong> L’<a href="./roles_experimentaux/atheist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Athée</a> est absolument un rôle réservé aux joueurs expérimentés et, encore bien plus, un rôle réservé aux Conteurs expérimentés. <br>
 À manipuler avec une précaution extrême.<br><br>
