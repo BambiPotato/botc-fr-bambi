@@ -1045,22 +1045,30 @@ data-tooltip="Suis-nous sur Instagram">
     plusieurs groupes francophones organisent régulièrement des parties :
   </p>
 
-  <ul style="color:#e0c99d; font-size:16px; line-height:1.7; margin-left:30px;">
-    <li>
-      <a href="https://www.meetup.com/blood-on-the-clocktower-paris/"
-         target="_blank"
-         style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-        Blood on the Clocktower Paris Meetup
-      </a>
-    </li>
-    <li>
-      <a href="https://www.meetup.com/blood-on-the-clocktower-nantes/"
-         target="_blank"
-         style="color:#ffb84d; font-weight:bold; text-decoration:none;">
-        Blood on the Clocktower Nantes Meetup
-      </a>
-    </li>
-  </ul>
+ <ul style="color:#e0c99d; font-size:16px; line-height:1.7; margin-left:30px;">
+  <li>
+    <a href="https://www.meetup.com/blood-on-the-clocktower-paris/"
+       target="_blank" rel="noopener noreferrer"
+       style="color:#ffb84d; font-weight:bold; text-decoration:none;">
+      Blood on the Clocktower Paris Meetup
+    </a>
+  </li>
+  <li>
+    <a href="https://www.meetup.com/blood-on-the-clocktower-nantes/"
+       target="_blank" rel="noopener noreferrer"
+       style="color:#ffb84d; font-weight:bold; text-decoration:none;">
+      Blood on the Clocktower Nantes Meetup
+    </a>
+  </li>
+  <li>
+    <a href="https://discord.gg/J9GaUV9B9n"
+       target="_blank" rel="noopener noreferrer"
+       style="color:#ffb84d; font-weight:bold; text-decoration:none;">
+      Toulouse avec Board Game Siren
+    </a>
+  </li>
+</ul>
+
 
   <!-- Séparation visuelle nette -->
   <hr style="margin:22px 0; width:50%; border:1px solid rgba(212,167,106,0.25);">
