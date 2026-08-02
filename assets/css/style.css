@@ -728,6 +728,11 @@ body.sidebar-on .botc-sidebar-logo img {
     height: 100vh !important;
     z-index: 10000 !important;
     transition: left 0.25s ease;
+
+    /* --- AJOUT DE SÉCURITÉ POUR LE SCROLL MOBILE --- */
+    overflow-y: auto !important;
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: 120px !important;
   }
 
   .botc-menu-toggle:checked ~ .botc-sidebar {
@@ -738,6 +743,7 @@ body.sidebar-on .botc-sidebar-logo img {
     margin-left: 0 !important;
   }
 }
+
 /* Ajustement final largeur menu mobile */
 @media (max-width: 800px) {
   body.sidebar-on .botc-sidebar {
@@ -750,6 +756,7 @@ body.sidebar-on .botc-sidebar-logo img {
     left: 0 !important;
   }
 }
+
 /* =========================================================
    ACCUEIL — adaptation parchemin beige
    ========================================================= */
