@@ -74,7 +74,7 @@ image: /images/Icon_vigormortis.png
 <hr class="sbire">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
-Chaque nuit*, choisissez un joueur : il meurt. Les <a href="../sbires.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Sbires</a> que vous tuez gardent leur capacité et empoisonnent 1 <a href="../villageois.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Villageois</a> voisin. [-1 <a href="../etrangers.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Marginal</a>]
+« Chaque nuit*, choisissez un joueur : il meurt. Les <a href="../sbires.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Sbires</a> que vous tuez gardent leur capacité et empoisonnent 1 <a href="../villageois.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Villageois</a> voisin. [-1 <a href="../etrangers.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Marginal</a>]»
 </p>
 
 <p class="botc-flavour-text dropcap" style="margin-top:0;">
