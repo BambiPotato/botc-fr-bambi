@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sects & Violets
-description: Tous les rôles de Sects & Violets
+description: Tous les rôles du module Sects & Violets
 image: /images/Logo_sects_and_violets.png
 ---
 
