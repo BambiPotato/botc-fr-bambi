@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pourfendeuse
-description:  "Une fois par partie, dans la journée, choisissez publiquement un joueur : s’il est le Démon, il meurt."
+description:  "Une fois par partie, dans la journée, choisissez publiquement un joueur : si ce joueur est le Démon, il meurt."
 image: /images/Icon_slayer.png
 ---
 
@@ -76,7 +76,7 @@ image: /images/Icon_slayer.png
 <hr class="villageois">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:23px; margin:0 0 8px 0;">
-« Une fois par partie, dans la journée, choisissez publiquement un joueur : s’il est le Démon, il meurt. »
+« Une fois par partie, dans la journée, choisissez publiquement un joueur : si ce joueur est le Démon, il meurt. »
 </p>
 
 <p class="botc-flavour-text dropcap" style="margin:0;">
