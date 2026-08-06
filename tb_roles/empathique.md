@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Empathe  
-description: Chaque nuit, vous apprenez combien de vos deux voisins vivants sont maléfiques.
+description: "Chaque nuit, vous apprenez combien de vos 2 voisins en vie sont maléfiques."
 image: /images/Icon_empath.png
 ---
 
@@ -77,7 +77,7 @@ Quelque chose n’est pas normal. Je le sens.»
 <hr class="villageois">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
-« Chaque nuit, vous apprenez combien de vos deux voisins vivants sont maléfiques. »
+« Chaque nuit, vous apprenez combien de vos 2 voisins en vie sont maléfiques. »
 </p>
 
 <p class="botc-flavour-text dropcap" style="margin:0;">
