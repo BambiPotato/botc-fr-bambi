@@ -79,7 +79,7 @@ La Légion rassemble plusieurs Démons.
 </p>
 
 <ul class="botc-list">
-<li>Nous vous conseillons d’inverser le nombre de joueurs bons et maléfiques par rapport à une partie normale. Par exemple, pour une partie à dix joueurs, jouez avec sept <strong>Légions</strong> et trois joueurs bons.</li>
+<li>Nous vous conseillons d’inverser le nombre de joueurs bons et maléfiques par rapport à une partie normale. <br> Par exemple, pour une partie à dix joueurs, jouez avec sept <strong>Légions</strong> et trois joueurs bons.</li>
 
 <li>Les joueurs qui ne sont pas <strong>Légion</strong> peuvent être des Villageois ou des Marginaux, dans n’importe quelle combinaison.</li>
 
@@ -128,7 +128,7 @@ Si les joueurs essaient de forcer les autres à voter pour « voir si le décomp
 Les seuls joueurs bons sont la
 <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>
 et la
-<a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a>.
+<a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a>.<br>
 Six <strong>Légions</strong> et la
 <a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a>
 votent pour exécuter la
@@ -161,7 +161,7 @@ Alex, qui rassemble deux votes contre lui, dont un venant d’un joueur bon, est
 
 <li>Certains bluffs nécessitent un effort collectif, notamment <a href="../roles_experimentaux/atheist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">l'Athée</a>, le <a href="../roles_experimentaux/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Planteur de Pavot</a> ou le <a href="../sv_roles/vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a>. <br> Dès qu'un joueur revendique l'un de ces rôles, toute l'équipe devra soutenir ce mensonge.</li>
 
-<li>Certaines capacités prouvent publiquement qu'il n'y a pas de <strong>Légion</strong>, comme une malédiction de la <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a>, une protection de l'<a href="../bmr_roles/avocat_du_diable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a>, un <a href="../roles_experimentaux/fearmonger.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Tourmenteur</a> révélé ou un <a href="../roles_experimentaux/psychopath.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Psychopathe</a> révélé.</li>
+<li>Certaines capacités prouvent publiquement qu'il n'y a pas de <strong>Légion</strong>, comme une malédiction de la <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a>, une protection de l'<a href="../bmr_roles/avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a>, un <a href="../roles_experimentaux/fearmonger.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Tourmenteur</a> révélé ou un <a href="../roles_experimentaux/psychopath.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Psychopathe</a> révélé.</li>
 
 <li>D'autres capacités peuvent convaincre un seul joueur qu'il n'y a pas de <strong>Légion</strong>, comme la folie du <a href="../sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a> ou une annonce de <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a>.</li>
 
