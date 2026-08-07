@@ -69,15 +69,15 @@ image: /images/Icon_alsaahir.png
 </p>
 
 <p class="botc-flavour-text dropcap" style="margin:0;">
-L'Alsaahir devine les membres de l'équipe du Mal.
+L'ALSAAHIR devine les membres de l'équipe du Mal.
 </p>
 
 <ul>
-<li>L'Alsaahir doit formuler ses propositions publiquement pendant la journée. ><br> Il n'a pas besoin de faire une proposition tous les jours.</li>
+<li>L'Alsaahir doit formuler ses propositions publiquement pendant la journée. <br> Il n'a pas besoin de faire une proposition tous les jours.</li>
 
-<li>D'autres joueurs peuvent se faire passer pour l'Alsaahir et formuler des propositions. ><br> Tout comme avec le <a href="../sv_roles/jongleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Jongleur</a> ou la <a href="../bmr_roles/commere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Commère</a>, le Conteur devra jouer le jeu.</li>
+<li>D'autres joueurs peuvent se faire passer pour l'Alsaahir et formuler des propositions. <br> Tout comme avec le <a href="../sv_roles/jongleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Jongleur</a> ou la <a href="../bmr_roles/commere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Commère</a>, le Conteur devra jouer le jeu.</li>
 
-<li>Si l'Alsaahir annonce correctement qui est le Démon et qui sont les Sbires, la partie se termine immédiatement. ><br> L'Alsaahir doit deviner tous les joueurs Démon et Sbire.</li>
+<li>Si l'Alsaahir annonce correctement qui est le Démon et qui sont les Sbires, la partie se termine immédiatement. <br> L'Alsaahir doit deviner tous les joueurs Démon et Sbire.</li>
 
 <li>L'Alsaahir n'a pas besoin de deviner le rôle de chaque Sbire, ni le rôle du Démon.</li>
 
