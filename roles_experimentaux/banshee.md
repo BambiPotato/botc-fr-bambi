@@ -142,11 +142,11 @@ La Banshee ne gagne pas ses pouvoirs supplémentaires, et rien n’est annoncé.
 
 <li>Vos nominations peuvent s'avérer être les seules nominations du bien restantes&nbsp;: contrairement à une partie classique où la partie s'arrête s'il ne reste que des membres du mal en vie pour nominer, vous pouvez toujours nominer dans la mort. <br> Ne balayez donc pas les mondes où tous les joueurs vivants sont du mal. <br> Cela pourrait littéralement se jouer sur votre capacité à nominer correctement le seul Démon parmi les 3 joueurs du mal encore en vie.</li>
 
-<li>Vous pouvez vous permettre de chasser uniquement les Démons une fois mort(e)&nbsp;: tuer les Sbires n'est peut-être plus aussi important, puisque vous ne pouvez pas perdre automatiquement en ne laissant que des joueurs du mal en vie. Par conséquent, traquez le Démon chaque jour&nbsp;!</li>
+<li>Vous pouvez vous permettre de chasser uniquement les Démons une fois morte &nbsp;: tuer les Sbires n'est peut-être plus aussi important, puisque vous ne pouvez pas perdre automatiquement en ne laissant que des joueurs du mal en vie. Par conséquent, traquez le Démon chaque jour&nbsp;!</li>
 
-<li>Utilisez vos nominations chaque jour&nbsp;: vous avez ainsi la certitude qu'un joueur du bien nomine. Et utilisez vos votes au moins une fois par jour&nbsp;: vous faites pencher la majorité des voix très fortement en faveur de l'équipe du bien.</li>
+<li>Utilisez vos nominations chaque jour&nbsp;: vous avez ainsi la certitude qu'un joueur du bien nomme. Et utilisez vos votes au moins une fois par jour&nbsp;: vous faites pencher la majorité des voix très fortement en faveur de l'équipe du bien.</li>
 
-<li>Si vous découvrez que vous êtes mort(e) pendant la nuit et que le Conteur ne vous a pas annoncé, vérifiez auprès du Conteur que votre capacité ne s'est pas déclenchée, plutôt que de simplement nominer pour vérifier.</li>
+<li>Si vous découvrez que vous êtes morte pendant la nuit et que le Conteur ne vous a pas annoncé, vérifiez auprès du Conteur que votre capacité ne s'est pas déclenchée, plutôt que de simplement nominer pour vérifier.</li>
 </ul>
 
 <h2 style="color:#4ea3ff;"><span>Bluffer la Banshee</span></h2>
@@ -155,13 +155,13 @@ La Banshee ne gagne pas ses pouvoirs supplémentaires, et rien n’est annoncé.
 <ul>
 <li>Si vous mourez la nuit, votre bluff est ruiné&nbsp;! Assurez-vous que le Démon sache qu'il ne doit pas vous tuer si vous êtes un Sbire, et ne vous tuez pas vous-même si vous êtes le Démon.</li>
 
-<li>Bluffez en tant qu'un autre personnage puis rabattez-vous sur une revendication de Banshee si vous y êtes vraiment contraint(e)&nbsp;: c'est ce que la plupart des Banshees feraient, après tout.</li>
+<li>Bluffez en tant qu'un autre rôle puis rabattez-vous sur une revendication de Banshee si vous y êtes vraiment contrainte &nbsp;: c'est ce que la plupart des Banshees feraient, après tout.</li>
 
 <li>Révélez-vous en tant que Banshee très tôt et défiez l'équipe du mal de vous tuer. Cela ne fonctionne pas toujours, mais si vous pouvez mettre les intuitions sociales de votre côté grâce à ça, il est tout à fait crédible qu'une équipe du mal évite de vous tuer pour ne pas vous confirmer.</li>
 
-<li>Revendiquez la Banshee et liez-vous fortement à un ou deux joueurs du bien, puis faites-vous tuer la nuit. Vous ne serez pas confirmé(e) puisque vous n'êtes pas la Banshee, mais la suspicion qui en découlera devrait entraîner dans votre chute les joueurs du bien auxquels vous vous étiez associé(e).</li>
+<li>Revendiquez la Banshee et liez-vous fortement à un ou deux joueurs du bien, puis faites-vous tuer la nuit. Vous ne serez pas confirmée puisque vous n'êtes pas la Banshee, mais la suspicion qui en découlera devrait entraîner dans votre chute les joueurs du bien auxquels vous vous étiez associée.</li>
 
-<li>Assurez-vous de connaître les raisons sur la feuille de personnage qui expliqueraient que votre capacité ne s'est pas déclenchée, et soyez prêt(e) à élaborer ces hypothèses si vous devez mourir la nuit. Un joueur du bien ferait la même chose, ce n'est donc pas suspect, mais vous devez être capable de construire une explication solide sous peine de passer un très mauvais moment plus tard&nbsp;!</li>
+<li>Assurez-vous de connaître les raisons sur la feuille de rôle qui expliqueraient que votre capacité ne s'est pas déclenchée, et soyez prête à élaborer ces hypothèses si vous devez mourir la nuit. Un joueur du bien ferait la même chose, ce n'est donc pas suspect, mais vous devez être capable de construire une explication solide sous peine de passer un très mauvais moment plus tard&nbsp;!</li>
 </ul>
 
 
