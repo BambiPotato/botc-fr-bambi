@@ -100,7 +100,9 @@ Instructions au Conteur
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Chaque jour, une seule fois, si l'Alsaahir déclare qu'il souhaite utiliser sa capacité, invitez-le à deviner quel joueur est le Démon et quel(s) joueur(s) sont les Sbires. S'il se trompe, il ne se passe rien et la partie continue. S'il a raison, annoncez que le Bien gagne.
+Chaque jour, une seule fois, si l'Alsaahir déclare qu'il souhaite utiliser sa capacité, invitez-le à deviner quel joueur est le Démon et quel(s) joueur(s) sont les Sbires. <br> 
+• S'il se trompe, il ne se passe rien et la partie continue. <br> 
+• S'il a raison, annoncez que le Bien a gagné.
 </p>
 
 <div class="botc-note">
@@ -135,36 +137,36 @@ Rien ne se passe et la partie continue.
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
-⚬ Faites une supposition chaque jour ! Chaque supposition que vous faites permet de réduire la liste des joueurs Démons et Sbires.<br><br>
+•  Faites une supposition chaque jour ! Chaque supposition que vous faites permet de réduire la liste des joueurs Démons et Sbires.<br><br>
 
-⚬ Attendez quelques jours avant de faire votre première spposition afin de cacher le fait que vous êtes l'Alsaahir. <br> L'équipe du Mal pourrait vouloir vous empoisonner et vous tuer si elle sait qui vous êtes ; cacher votre rôle vous aide donc à rester sobre et à vivre plus longtemps.<br><br>
+•  Attendez quelques jours avant de faire votre première spposition afin de cacher le fait que vous êtes l'Alsaahir. <br> L'équipe du Mal pourrait vouloir vous empoisonner et vous tuer si elle sait qui vous êtes ; cacher votre rôle vous aide donc à rester sobre et à vivre plus longtemps.<br><br>
 
 
-⚬ Utilisez vos suppositions pour écarter intentionnellement des paires ou des groupes de joueurs qui vous inquiètent. <br> Par exemple, si l'<a href="../tb_roles/bibliothecaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Archiviste</a> prétend confirmer le <a href="../tb_roles/saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a>, vous pouvez prouver qu'ils ne sont pas l'équipe du Mal en les désignant comme Sbire et Démon dans votre supposition.<br><br>
+•  Utilisez vos suppositions pour écarter intentionnellement des paires ou des groupes de joueurs qui vous inquiètent. <br> Par exemple, si l'<a href="../tb_roles/bibliothecaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Archiviste</a> prétend confirmer le <a href="../tb_roles/saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a>, vous pouvez prouver qu'ils ne sont pas l'équipe du Mal en les désignant comme Sbire et Démon dans votre supposition.<br><br>
 
-⚬ S'il y a un Alsaahir sur la feuille de rôle, bluffez en tant qu'Alsaahir et faites une supposition pour couvrir le véritable Alsaahir. <br> Tout comme le <a href="../sv_roles/jongleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Jongleur</a> et la <a href="../bmr_roles/commere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Commère</a>, si plusieurs joueurs du Bien se revendiquent publiquement l'Alsaahir, l'équipe du Mal aura plus de mal à identifier le vrai. Mais attention : si trop de joueurs bluffent l'Alsaahir, cela risque de masquer des informations utiles à l'équipe du Bien !<br><br>
+•  S'il y a un Alsaahir sur la feuille de rôle, bluffez en tant qu'Alsaahir et faites une supposition pour couvrir le véritable Alsaahir. <br> Tout comme le <a href="../sv_roles/jongleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Jongleur</a> et la <a href="../bmr_roles/commere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Commère</a>, si plusieurs joueurs du Bien se revendiquent publiquement l'Alsaahir, l'équipe du Mal aura plus de mal à identifier le vrai. Mais attention : si trop de joueurs bluffent l'Alsaahir, cela risque de masquer des informations utiles à l'équipe du Bien !<br><br>
 
-⚬ Si vous mourez pendant la nuit, réfléchissez aux suppositions que vous avez faites juste avant votre mort. Vous vous êtes peut-être dangereusement rapproché de la vérité.<br><br>
+•  Si vous mourez pendant la nuit, réfléchissez aux suppositions que vous avez faites juste avant votre mort. Vous vous êtes peut-être dangereusement rapproché de la vérité.<br><br>
 
-⚬ Encouragez les joueurs du Bien à révéler leurs informations afin qu'ils deviennent des cibles plus attrayantes pour le Démon que vous. Plus vous survivez longtemps, plus votre capacité devient puissante.<br><br>
+•  Encouragez les joueurs du Bien à révéler leurs informations afin qu'ils deviennent des cibles plus attrayantes pour le Démon que vous. Plus vous survivez longtemps, plus votre capacité devient puissante.<br><br>
 
-⚬ Prêtez attention aux devinettes faites par les autres joueurs. Elles sont souvent fondées sur des informations ou des indices sociaux qui peuvent vous être utiles.<br><br>
+•  Prêtez attention aux devinettes faites par les autres joueurs. Elles sont souvent fondées sur des informations ou des indices sociaux qui peuvent vous être utiles.<br><br>
 
-⚬ Recherchez les rôles qui détectent les joueurs du Mal, comme le <a href="../tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a>, l'<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>, la <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> ou le <a href="../roles_experimentaux/bountyhunter.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chasseur de primes</a>, et utilisez leurs informations pour affiner vos devinettes.<br><br>
+•  Recherchez les rôles qui détectent les joueurs du Mal, comme le <a href="../tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a>, l'<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>, la <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> ou le <a href="../roles_experimentaux/bountyhunter.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chasseur de primes</a>, et utilisez leurs informations pour affiner vos devinettes.<br><br>
 
-⚬ Choisissez un joueur dont vous êtes certain qu'il est du Mal, puis testez différentes combinaisons autour de lui jusqu'à trouver la bonne équipe.<br><br>
+•  Choisissez un joueur dont vous êtes certain qu'il est du Mal, puis testez différentes combinaisons autour de lui jusqu'à trouver la bonne équipe.<br><br>
 
-⚬ N'oubliez pas d'inclure les joueurs morts dans vos suppositions ! Si vous pensez que le <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> s'est tué pendant la nuit, ou que le <a href="../sv_roles/fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a> a sauté sur un Marginal, vous devrez désigner le Démon mort ainsi que le Démon vivant comme Démons, ainsi que tous les Sbires, morts ou vivants.<br><br>
+•  N'oubliez pas d'inclure les joueurs morts dans vos suppositions ! Si vous pensez que le <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> s'est tué pendant la nuit, ou que le <a href="../sv_roles/fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a> a sauté sur un Marginal, vous devrez désigner le Démon mort ainsi que le Démon vivant comme Démons, ainsi que tous les Sbires, morts ou vivants.<br><br>
 
-⚬ Si vous pensez avoir été empoisonné, refaites exactement la même supposition le lendemain.<br><br>
+•  Si vous pensez avoir été empoisonné, refaites exactement la même supposition le lendemain.<br><br>
 
-⚬ Commencez par déterminer quels joueurs composent probablement l'équipe du Mal. Une fois cette équipe identifiée, essayez différentes répartitions entre Démon(s) et Sbire(s) jusqu'à trouver la bonne combinaison.<br><br>
+•  Commencez par déterminer quels joueurs composent probablement l'équipe du Mal. Une fois cette équipe identifiée, essayez différentes répartitions entre Démon(s) et Sbire(s) jusqu'à trouver la bonne combinaison.<br><br>
 
-⚬ Soyez attentif à la répartition des rôles selon le nombre de joueurs. Dans les grandes parties, il peut y avoir davantage de Sbires à identifier.<br><br>
+•  Soyez attentif à la répartition des rôles selon le nombre de joueurs. Dans les grandes parties, il peut y avoir davantage de Sbires à identifier.<br><br>
 
-⚬ Lisez attentivement la section rouge (Sbires et Démons) de la feuille de role. Des rôles comme le <a href="../roles_experimentaux/lilmonsta.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Timonstre</a>, la <a href="../roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a>, l'<a href="../roles_experimentaux/riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Émeute</a> ou d'autres rôles particuliers peuvent modifier le nombre de Démons ou de Sbires que vous devrez deviner.<br><br>
+•  Lisez attentivement la section rouge (Sbires et Démons) de la feuille de role. Des rôles comme le <a href="../roles_experimentaux/lilmonsta.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Timonstre</a>, la <a href="../roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a>, l'<a href="../roles_experimentaux/riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Émeute</a> ou d'autres rôles particuliers peuvent modifier le nombre de Démons ou de Sbires que vous devrez deviner.<br><br>
 
-⚬ Soyez attentif aux personnages qui peuvent changer quel joueur est le Démon en cours de partie. S'il y a un <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>, un <a href="../sv_roles/fang_gu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a> ou une <a href="../tb_roles/femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme écarlate</a> sur la feuille de rôle, adaptez vos suppositions au fur et à mesure que la partie évolue.
+•  Soyez attentif aux personnages qui peuvent changer quel joueur est le Démon en cours de partie. S'il y a un <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>, un <a href="../sv_roles/fang_gu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a> ou une <a href="../tb_roles/femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme écarlate</a> sur la feuille de rôle, adaptez vos suppositions au fur et à mesure que la partie évolue.
 </p>
 
 
@@ -173,17 +175,17 @@ Rien ne se passe et la partie continue.
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
-⚬ Il est facile de bluffer en Alsaahir en début de partie, car bien souvent les joueurs du Bien le font également. Même s'il y a un véritable Alsaahir en jeu, vous pouvez généralement vous faire passer pour lui sans grand risque, tant que vous prévoyez un autre bluff pour la suite de la partie.<br><br>
+•  Il est facile de bluffer l'Alsaahir en début de partie, car bien souvent les joueurs du Bien le font également. Même s'il y a un véritable Alsaahir en jeu, vous pouvez généralement vous faire passer pour lui sans grand risque, tant que vous prévoyez un autre bluff pour la suite de la partie.<br><br>
 
-⚬ Faites attention à vos devinettes. Réfléchissez soigneusement aux joueurs que vous avez désignés les jours précédents et à ceux que vous comptez désigner ensuite. Si vous éliminez trop de compositions possibles de l'équipe du Mal, vous risquez de vous retrouver face à des contradictions lors du dernier jour. C'est encore plus important si vous êtes le Démon.<br><br>
+•  Faites attention à vos devinettes. Réfléchissez soigneusement aux joueurs que vous avez désignés les jours précédents et à ceux que vous comptez désigner ensuite. Si vous éliminez trop de compositions possibles de l'équipe du Mal, vous risquez de vous retrouver face à des contradictions lors du dernier jour. C'est encore plus important si vous êtes le Démon.<br><br>
 
-⚬ Demandez régulièrement l'avis des autres joueurs sur les personnes à désigner. Solliciter les joueurs du Bien améliore votre crédibilité, tandis que demander également l'avis des joueurs du Mal peut renforcer la leur.<br><br>
+•  Demandez régulièrement l'avis des autres joueurs sur les personnes à désigner. Solliciter les joueurs du Bien améliore votre crédibilité, tandis que demander également l'avis des joueurs du Mal peut renforcer la leur.<br><br>
 
-⚬ Évitez de désigner des joueurs du Bien déjà largement considérés comme dignes de confiance. Si vous accusez sans succès un joueur confirmé, les autres concluront souvent que vous êtes du Mal, ce qui renforcera encore davantage la confiance accordée à ce joueur.<br><br>
+•  Évitez de désigner des joueurs du Bien déjà largement considérés comme dignes de confiance. Si vous accusez sans succès un joueur confirmé, les autres concluront souvent que vous êtes du Mal, ce qui renforcera encore davantage la confiance accordée à ce joueur.<br><br>
 
-⚬ Recherchez les rôles capables de détecter les capacités du Mal, comme le <a href="../tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a>, l'<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>, la <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> ou le <a href="../roles_experimentaux/bountyhunter.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chasseur de primes</a>. <br>Gagnez leur confiance afin de pouvoir prétendre utiliser leurs informations dans vos devinettes. Mais soyez prudent : cela peut facilement se retourner contre vous s'ils découvrent votre véritable camp.<br><br>
+•  Recherchez les rôles capables de détecter les capacités du Mal, comme le <a href="../tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a>, l'<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>, la <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> ou le <a href="../roles_experimentaux/bountyhunter.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chasseur de primes</a>. <br>Gagnez leur confiance afin de pouvoir prétendre utiliser leurs informations dans vos devinettes. Mais soyez prudent : cela peut facilement se retourner contre vous s'ils découvrent votre véritable camp.<br><br>
 
-⚬ Faites de vos devinettes un véritable événement ! Mettez-les en scène avec de l'humour, du suspense ou un peu de théâtre. <br> Plus les joueurs concentreront leur attention sur vos annonces, plus ils seront susceptibles de croire que vous êtes le véritable Alsaahir.
+•  Faites de vos devinettes un véritable événement ! Mettez-les en scène avec de l'humour, du suspense ou un peu de théâtre. <br> Plus les joueurs concentreront leur attention sur vos annonces, plus ils seront susceptibles de croire que vous êtes le véritable Alsaahir.
 </p>
 
 
