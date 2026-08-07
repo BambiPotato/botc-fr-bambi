@@ -73,11 +73,11 @@ L'Alsaahir devine les membres de l'équipe du Mal.
 </p>
 
 <ul>
-<li>L'Alsaahir doit formuler ses propositions publiquement pendant la journée. Il n'a pas besoin de faire une proposition tous les jours.</li>
+<li>L'Alsaahir doit formuler ses propositions publiquement pendant la journée. ><br> Il n'a pas besoin de faire une proposition tous les jours.</li>
 
-<li>D'autres joueurs peuvent se faire passer pour l'Alsaahir et formuler des propositions. Tout comme avec le <a href="../sv_roles/jongleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Jongleur</a> ou la <a href="../bmr_roles/commere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Commère</a>, le Conteur devra jouer le jeu.</li>
+<li>D'autres joueurs peuvent se faire passer pour l'Alsaahir et formuler des propositions. ><br> Tout comme avec le <a href="../sv_roles/jongleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Jongleur</a> ou la <a href="../bmr_roles/commere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Commère</a>, le Conteur devra jouer le jeu.</li>
 
-<li>Si l'Alsaahir annonce correctement qui est le Démon et qui sont les Sbires, la partie se termine immédiatement. L'Alsaahir doit deviner tous les joueurs Démon et Sbire.</li>
+<li>Si l'Alsaahir annonce correctement qui est le Démon et qui sont les Sbires, la partie se termine immédiatement. ><br> L'Alsaahir doit deviner tous les joueurs Démon et Sbire.</li>
 
 <li>L'Alsaahir n'a pas besoin de deviner le rôle de chaque Sbire, ni le rôle du Démon.</li>
 
@@ -131,7 +131,7 @@ Rien ne se passe et la partie continue.
 
 
 <h2 style="color:#4ea3ff;"><span>Conseils &amp; Astuces</span></h2>
-<hr class="villageois">
+<hr>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
@@ -150,11 +150,11 @@ Rien ne se passe et la partie continue.
 
 ⚬ Prêtez attention aux devinettes faites par les autres joueurs. Elles sont souvent fondées sur des informations ou des indices sociaux qui peuvent vous être utiles.<br><br>
 
-⚬ Recherchez les rôles qui détectent les joueurs du Mal, comme le <a href="../tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a>, l'<a href="../tb_roles/empath.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>, la <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> ou le <a href="../roles_experimentaux/bountyhunter.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chasseur de primes</a>, et utilisez leurs informations pour affiner vos devinettes.<br><br>
+⚬ Recherchez les rôles qui détectent les joueurs du Mal, comme le <a href="../tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a>, l'<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>, la <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> ou le <a href="../roles_experimentaux/bountyhunter.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chasseur de primes</a>, et utilisez leurs informations pour affiner vos devinettes.<br><br>
 
 ⚬ Choisissez un joueur dont vous êtes certain qu'il est du Mal, puis testez différentes combinaisons autour de lui jusqu'à trouver la bonne équipe.<br><br>
 
-⚬ N'oubliez pas d'inclure les joueurs morts dans vos suppositions ! Si vous pensez que le <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> s'est tué pendant la nuit, ou que le <a href="../sv_roles/fang_gu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a> a sauté sur un Marginal, vous devrez désigner le Démon mort ainsi que le Démon vivant comme Démons, ainsi que tous les Sbires, morts ou vivants.<br><br>
+⚬ N'oubliez pas d'inclure les joueurs morts dans vos suppositions ! Si vous pensez que le <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> s'est tué pendant la nuit, ou que le <a href="../sv_roles/fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a> a sauté sur un Marginal, vous devrez désigner le Démon mort ainsi que le Démon vivant comme Démons, ainsi que tous les Sbires, morts ou vivants.<br><br>
 
 ⚬ Si vous pensez avoir été empoisonné, refaites exactement la même supposition le lendemain.<br><br>
 
@@ -168,8 +168,8 @@ Rien ne se passe et la partie continue.
 </p>
 
 
-<h2 style="color:#d45b5b;"><span>Bluffer l'Alsaahir</span></h2>
-<hr class="villageois">
+<h2 style="color:#4ea3ff;"><span>Bluffer l'Alsaahir</span></h2>
+<hr>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
