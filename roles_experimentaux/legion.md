@@ -187,7 +187,7 @@ Alex, qui rassemble deux votes contre lui, dont un venant d’un joueur bon, est
 
 <li>Dans une partie avec <strong>Légion</strong>, le Conteur choisit qui meurt chaque nuit. Pour équilibrer la partie, il éliminera souvent des joueurs <strong>Légion</strong>. Si vous êtes un personnage puissant, publiquement confirmé, et que vous survivez malgré tout plusieurs nuits, cela peut être un indice que vous affrontez <strong>Légion</strong>.</li>
 
-<li>Selon la manière dont le Conteur gère ce rôle, la <strong>Légion</strong> peut recevoir zéro, trois ou même six bluffs (avec la <a href="../roles_experimentaux/snitcht.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Balance</a>). <br> Il y aura donc souvent très peu d'informations fiables sur les rôles réellement en jeu. <br> Trois revendications identiques ou davantage constituent un indice fort qu'il s'agit d'une partie avec <strong>Légion</strong>.</li>
+<li>Selon la manière dont le Conteur gère ce rôle, la <strong>Légion</strong> peut recevoir zéro, trois ou même six bluffs (avec la <a href="../roles_experimentaux/snitch.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Balance</a>). <br> Il y aura donc souvent très peu d'informations fiables sur les rôles réellement en jeu. <br> Trois revendications identiques ou davantage constituent un indice fort qu'il s'agit d'une partie avec <strong>Légion</strong>.</li>
 
 <li>Les parties avec <strong>Légion</strong> reposent sur une véritable conscience collective. <br> Si tout le monde semble étonnamment d'accord sur la vision de la partie et que de nombreux joueurs votent toujours ensemble, cela peut indiquer que plusieurs joueurs appartiennent à l'équipe du Mal.</li>
 
@@ -232,7 +232,7 @@ le <strong>Chapelier</strong> n’a pas de capacité.
 
   <li>
   <img src="../images/Icon_minstrel.png" alt="Ménestrel" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-  <a href="../bmr_roles/minstrel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ménestrel</a> :  
+  <a href="../bmr_roles/menestrel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ménestrel</a> :  
   Si un joueur <strong>Légion</strong> est mort par exécution aujourd’hui,  
   la <strong>Légion</strong> garde sa capacité,  
   mais le <strong>Ménestrel</strong> peut apprendre  
