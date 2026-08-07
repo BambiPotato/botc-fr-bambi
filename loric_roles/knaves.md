@@ -22,12 +22,8 @@ image: /images/Icon_knaves.png
   </a>
 </div>
 
-
-<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-« Chaque mur est une porte. <br> Chaque repas est un festin. »
-</p>
-
 <hr class="loric">
+
 
 ##  <span style="color:#7fd1ae;">Informations</span>
 
@@ -45,12 +41,14 @@ image: /images/Icon_knaves.png
   </li>
 </ul>
 
-<hr class="loric">
+
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Chaque mur est une porte. <br> Chaque repas est un festin. »
+</p>
+
 
 
 ## <span style="color:#7fd1ae;">Résumé</span>
-
-
 <hr class="loric">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
@@ -61,7 +59,7 @@ image: /images/Icon_knaves.png
 Les <strong>Knaves</strong> sont deux Conteurs.
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0px;">
 
   <li>Quand les Knaves sont en jeu, il y a deux Conteurs. Quand les joueurs reçoivent des informations via leurs capacités, un Conteur donne des informations vraies, et l’autre donne des informations fausses.</li>
 
@@ -78,14 +76,13 @@ Les <strong>Knaves</strong> sont deux Conteurs.
 
 
 ##  <span style="color:#7fd1ae;">Comment Conter</span>
-
----
+<hr>
 
 <p class="botc-flavour-text dropcap">
 Instructions au Conteur
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0px;">
 
   <li>Il y a deux Conteurs. Avant la première nuit, décidez lequel dira la vérité et lequel mentira.</li>
 
@@ -98,16 +95,15 @@ Instructions au Conteur
 
 
 ##  <span style="color:#7fd1ae;">Exemples</span>
-
----
+<hr>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Il y a deux Conteurs, Ben et Lachlan. Le <a href="../tb_roles/cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a> se réveille et choisit Lachlan, qui est le Conteur menteur. Le <a href="../tb_roles/cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a>
+• Il y a deux Conteurs, Ben et Lachlan. Le <a href="../tb_roles/cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a> se réveille et choisit Lachlan, qui est le Conteur menteur. <br> Le <a href="../tb_roles/cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a>
 apprend « 3 », alors qu’il n’y a que 2 paires de joueurs maléfiques.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Plus tard dans la partie, les Conteurs échangent leurs rôles. Le <a href="../sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a> consulte Ben et Lachlan et choisit Lachlan. Le <a href="../sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a> reçoit alors 2 informations vraies.
+• Plus tard dans la partie, les Conteurs échangent leurs rôles. <br> Le <a href="../sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a> consulte Ben et Lachlan et choisit Lachlan. <br> Le <a href="../sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a> reçoit alors 2 informations vraies.
 </p>
 
 
@@ -115,6 +111,6 @@ Plus tard dans la partie, les Conteurs échangent leurs rôles. Le <a href="../s
 
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Retour aux rôles Loric</a>
+• <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+• <a href="../loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Retour aux rôles Loric</a>
 </p>
