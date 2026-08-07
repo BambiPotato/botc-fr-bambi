@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Banshee
-description: "Si le Démon vous tue, tous les joueurs l'apprennent. À partir de ce moment, vous pouvez nominer deux fois par jour et voter deux fois par nomination."
+description: "Si le Démon vous tue, tous les joueurs l’apprennent. Désormais, vous pouvez voter 2 fois par nomination et nommer 2 fois par jour."
 image: /images/Icon_banshee.png
 ---
 
@@ -11,32 +11,19 @@ image: /images/Icon_banshee.png
   </a>
 </p>
 
+<hr class="explication">
+
 <!-- Banshee -->
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="./banshee.html" style="text-decoration:none;">
-    <img src="../images/Icon_banshee.png" alt="Banshee" width="260" style="border-radius:12px;">
+    <img src="../images/Icon_banshee.png" alt="Banshee" width="300" style="border-radius:12px;">
     <br>
-    <span style="color:#4ea3ff; font-weight:bold; font-size:22px;">Banshee</span>
+    <span style="color:#4ea3ff; font-weight:bold; font-size:30px;">Banshee</span>
   </a>
 </div>
 
-<!-- APPARAÎT DANS -->
-<div style="text-align:center; margin: 20px 0;">
-  <a href="../experimentaux.html" style="text-decoration:none;">
-    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
-    <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
-  </a>
-</div>
-
-#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Banshee</span>
-
-<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Gorm do shúile, dearg do ghruaig, ní bheidh sé i bhfad, is a mbeidh tú san uaigh. »
-</p>
-
----
+<hr class="villageois">
 
 ##  <span style="color:#4ea3ff;">Informations</span>
 
@@ -57,183 +44,164 @@ image: /images/Icon_banshee.png
   <li><strong>Révélé :</strong> 25 avril 2024</li>
 </ul>
 
----
 
-##  <span style="color:#4ea3ff;">Résumé</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>« Si le Démon vous tue, tous les joueurs l'apprennent. À partir de ce moment, vous pouvez nominer deux fois par jour et voter deux fois par nomination. »</strong>
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Gorm do shúile, dearg do ghruaig, <br> ní bheidh sé i bhfad, <br> is a mbeidh tú san uaigh. »
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-La <strong>Banshee</strong> devient plus puissante une fois morte, en pouvant nominer et voter deux fois plus que les autres.
+<hr class="villageois">
+
+<!-- APPARAÎT DANS -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../experimentaux.html" style="text-decoration:none;">
+    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="300" style="border-radius:12px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
+  </a>
+</div>
+
+
+<h2 style="color:#4ea3ff;"><span>Résumé</span></h2>
+<hr class="villageois">
+
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
+« Si le Démon vous tue, tous les joueurs l’apprennent. Désormais, vous pouvez voter 2 fois par nomination et nommer 2 fois par jour. »
 </p>
 
+<p class="botc-flavour-text dropcap" style="margin:0;">
+LA BANSHEE devient plus puissante une fois morte. Elle peut nommer et voter deux fois plus.
+</p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Quand elle est vivante, la Banshee nomine et vote normalement, comme n’importe quel autre joueur vivant.</li>
-  <li>Si la Banshee meurt tuée par le <span style="color:#d45b5b; font-weight:bold;">Démon</span>, tous les joueurs apprennent que la Banshee est morte.</li>
-  <li>À partir de ce moment, même morte, la Banshee peut nominer deux fois par jour, alors qu’un joueur mort ne peut normalement plus nominer.</li>
-  <li>En tant que morte, la Banshee peut voter à toutes les nominations qu’elle souhaite, sans avoir besoin d’un jeton de vote.  
-      Elle peut voter deux fois pour la même nomination.</li>
-  <li>La Banshee ne gagne ces pouvoirs que si elle a été tuée par le Démon.  
-      Si elle meurt par exécution ou à cause d’un rôle non démoniaque, sa capacité ne se déclenche pas.</li>
-  <li>Pour voter deux fois, la joueuse ou le joueur Banshee lève les deux mains lorsque les votes sont comptés.  
-      Si la personne ne peut pas le faire physiquement, la conteuse ou le conteur peut compter son vote normal comme valant deux.</li>
-  <li>Si tous les joueurs bons sont morts, la partie continue. Le Bien peut encore gagner grâce aux nominations de la Banshee.</li>
+<ul>
+<li>Lorsqu'elle est en vie, la Banshee nomme et vote normalement.</li>
+
+<li>Lorsqu’elle est morte, elle peut nommer deux fois par jour, même si les joueurs morts n’ont normalement pas le droit de nommer du tout.</li>
+
+<li>Lorsqu’elle est morte, elle peut voter lors de n’importe quelle nomination et n’a pas besoin d’un jeton de vote pour cela. Elle peut même voter deux fois lors de la même nomination.</li>
+
+<li>La Banshee acquiert ces pouvoirs uniquement si elle a été tuée par le Démon. Mourir par exécution ou à cause d’une capacité non liée au Démon ne compte pas.</li>
+
+<li>Pour voter deux fois, le joueur Banshee lève les deux mains lors du décompte des votes. Si le joueur n'est pas en mesure de le faire en raison d'un handicap, le Conteur peut compter deux fois son vote normal.</li>
 </ul>
 
----
+<h2 style="color:#4ea3ff;"><span>Comment Conter</span></h2>
+<hr>
+
+<p class="botc-flavour-text dropcap" style="margin:0;">
+Instructions au Conteur
+</p>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+• Si la Banshee est tuée par le Démon, marquez-la du jeton « A une capacité » et annoncez « La Banshee a été réveillée ! » ou quelque chose dans le même ton.<br>
+• La Banshee peut nommer deux fois par jour, mais il est de sa responsabilité de tenir les comptes.<br>
+• La Banshee peut lever les deux mains lors du vote. Lors du décompte des votes, comptez chaque main comme un vote.<br><br>
+
+• Si la Banshee est tuée par le Démon, mais n'a pas sa capacité à ce moment-là, ou si elle est tuée par une capacité non liée au Démon, alors n’annoncez pas au groupe que sa capacité a été déclenchée.<br>
+La Banshee ne peut pas nommer et a besoin d’un jeton de vote pour voter, comme un joueur mort normal.
+</p>
+
+<div class="botc-note">
+Si tous les joueurs bons sont morts, la partie continue. Le Bien peut gagner grâce à la Banshee, qui peut encore nommer.
+</div>
+
+<h2 style="color:#4ea3ff;"><span>Exemples</span></h2>
+<hr>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+• Le <a href="../roles_experimentaux/kazali.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Kazali</a> tue la Banshee.<br>
+Tous les joueurs apprennent que la Banshee est morte.<br>
+Le lendemain, la Banshee nomme l’<a href="../roles_experimentaux/village_idiot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Idiot du Village</a> et vote deux fois.<br>
+Ensuite, elle nomme le <a href="../roles_experimentaux/fearmonger.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Tourmenteur</a> et vote deux fois.<br>
+Enfin, lorsque le <a href="../roles_experimentaux/shugenja.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Shugenja</a> est nommé, elle vote aussi deux fois. Le jour suivant, la Banshee ne nomme personne, mais vote deux fois pour le <a href="../roles_experimentaux/kazali.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Kazali</a>.
+</p>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+• La Banshee est empoisonnée.<br>
+L’<a href="../roles_experimentaux/ojo.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Ojo</a> tue la Banshee.<br>
+Personne n’apprend que la Banshee est morte, et pour le reste du jeu, la Banshee ne peut pas nommer et ne dispose que d’un seul vote.
+</p>
+
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+• Le <a href="../roles_experimentaux/lycanthrope.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lycanthrope</a> tue la Banshee.<br>
+La Banshee ne gagne pas ses pouvoirs supplémentaires, et rien n’est annoncé.
+</p>
+
+
+
+<h2 style="color:#4ea3ff;"><span>Conseils &amp; Astuces</span></h2>
+<hr>
+
+<ul>
+<li>Faites-vous tuer par le Démon, par n'importe quel moyen qui fonctionne pour vous !</li>
+
+<li>Vous pouvez vous révéler en tant que Banshee de votre vivant si vous avez des informations pour vous soutenir. <br> Cela forcera l'équipe du mal soit à vous tuer (ce qui vous confirmera auprès du groupe), soit à vous laisser en vie jusqu'au trio final, réduisant ainsi les choix du Démon à l'un des deux autres joueurs survivants.</li>
+
+<li>Vous êtes confirmée lorsque vous mourez&nbsp;: tirez-en profit. Emparez-vous de la moindre parcelle d'information possible.</li>
+
+<li>Vos votes deviennent démesurément puissants&nbsp;: à mesure que le nombre de joueurs vivants diminue, vos deux votes représentent une proportion de plus en plus grande des voix nécessaires pour envoyer quelqu'un sur l'échafaud. <br> C'est cependant un couteau à double tranchant&nbsp;: vous allez avoir un impact majeur sur l'exécution qui récoltera le plus de voix, que vous ayez raison ou non. <br> Par conséquent, vous voudrez parfois retenir vos tirs si vous avez des doutes&nbsp;!</li>
+
+<li>Vos nominations peuvent s'avérer être les seules nominations du bien restantes&nbsp;: contrairement à une partie classique où la partie s'arrête s'il ne reste que des membres du mal en vie pour nominer, vous pouvez toujours nominer dans la mort. <br> Ne balayez donc pas les mondes où tous les joueurs vivants sont du mal. <br> Cela pourrait littéralement se jouer sur votre capacité à nominer correctement le seul Démon parmi les 3 joueurs du mal encore en vie.</li>
+
+<li>Vous pouvez vous permettre de chasser uniquement les Démons une fois mort(e)&nbsp;: tuer les Sbires n'est peut-être plus aussi important, puisque vous ne pouvez pas perdre automatiquement en ne laissant que des joueurs du mal en vie. Par conséquent, traquez le Démon chaque jour&nbsp;!</li>
+
+<li>Utilisez vos nominations chaque jour&nbsp;: vous avez ainsi la certitude qu'un joueur du bien nomine. Et utilisez vos votes au moins une fois par jour&nbsp;: vous faites pencher la majorité des voix très fortement en faveur de l'équipe du bien.</li>
+
+<li>Si vous découvrez que vous êtes mort(e) pendant la nuit et que le Conteur ne vous a pas annoncé, vérifiez auprès du Conteur que votre capacité ne s'est pas déclenchée, plutôt que de simplement nominer pour vérifier.</li>
+</ul>
+
+<h2 style="color:#4ea3ff;"><span>Bluffer la Banshee</span></h2>
+<hr>
+
+<ul>
+<li>Si vous mourez la nuit, votre bluff est ruiné&nbsp;! Assurez-vous que le Démon sache qu'il ne doit pas vous tuer si vous êtes un Sbire, et ne vous tuez pas vous-même si vous êtes le Démon.</li>
+
+<li>Bluffez en tant qu'un autre personnage puis rabattez-vous sur une revendication de Banshee si vous y êtes vraiment contraint(e)&nbsp;: c'est ce que la plupart des Banshees feraient, après tout.</li>
+
+<li>Révélez-vous en tant que Banshee très tôt et défiez l'équipe du mal de vous tuer. Cela ne fonctionne pas toujours, mais si vous pouvez mettre les intuitions sociales de votre côté grâce à ça, il est tout à fait crédible qu'une équipe du mal évite de vous tuer pour ne pas vous confirmer.</li>
+
+<li>Revendiquez la Banshee et liez-vous fortement à un ou deux joueurs du bien, puis faites-vous tuer la nuit. Vous ne serez pas confirmé(e) puisque vous n'êtes pas la Banshee, mais la suspicion qui en découlera devrait entraîner dans votre chute les joueurs du bien auxquels vous vous étiez associé(e).</li>
+
+<li>Assurez-vous de connaître les raisons sur la feuille de personnage qui expliqueraient que votre capacité ne s'est pas déclenchée, et soyez prêt(e) à élaborer ces hypothèses si vous devez mourir la nuit. Un joueur du bien ferait la même chose, ce n'est donc pas suspect, mais vous devez être capable de construire une explication solide sous peine de passer un très mauvais moment plus tard&nbsp;!</li>
+</ul>
+
+
+
+<hr class="explication">
+
 
 ## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0px;">
 
-  <li>
-    🧞
-    <img src="../images/Icon_leviathan.png" alt="Léviathan" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/leviathan.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Léviathan</a> :  
-    Chaque nuit*, le Léviathan choisit un joueur bon vivant, différent de la nuit précédente.  
-    Si ce joueur est la Banshee, elle meurt et gagne sa capacité.
+<li>
+🧞
+<img src="../images/Icon_leviathan.png" alt="Léviathan" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+<a href="../roles_experimentaux/leviathan.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Léviathan</a> :  
+Chaque nuit*, le Léviathan choisit un joueur bon vivant, différent de la nuit précédente.  
+Si ce joueur est la Banshee, elle meurt et gagne sa capacité.
+</li>
+
+ <li>
+🧞
+<img src="../images/Icon_riot.png" alt="Riot" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+<a href="../roles_experimentaux/riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Émeute</a> :  
+Chaque nuit*, l'Émeute choisit un joueur bon vivant, différent de la nuit précédente.  
+Si ce joueur est la Banshee, elle meurt et gagne sa capacité.
   </li>
 
-  <li>
-    🧞
-    <img src="../images/Icon_riot.png" alt="Riot" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> :  
-    Chaque nuit*, le Riot choisit un joueur bon vivant, différent de la nuit précédente.  
-    Si ce joueur est la Banshee, elle meurt et gagne sa capacité.
-  </li>
-
-  <li>
-    🧞
-    <img src="../images/Icon_vortox.png" alt="Vortox" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../sv_roles/vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a> :  
-    Si le Vortox tue la Banshee, tous les joueurs apprennent que la Banshee est morte.
+<li>
+🧞
+<img src="../images/Icon_vortox.png" alt="Vortox" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+<a href="../sv_roles/vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a> :  
+Si le Vortox tue la Banshee, tous les joueurs apprennent que la Banshee est morte.
   </li>
 
 </ul>
 
----
-
-
-##  <span style="color:#4ea3ff;">Comment Conter</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Si la Banshee est tuée par le <span style="color:#d45b5b; font-weight:bold;">Démon</span> alors qu’elle a sa capacité active :
-</p>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Placez le rappel <strong>A SA CAPACITÉ</strong> à côté de la Banshee.</li>
-  <li>Annoncer à haute voix quelque chose comme : « La Banshee s’est réveillée. »</li>
-  <li>Rappelez à la Banshee qu’elle peut nominer deux fois par jour.  
-      Il est de sa responsabilité de se souvenir si elle a déjà utilisé une ou deux nominations.</li>
-  <li>Quand la Banshee vote, comptez chaque main levée comme un vote distinct.</li>
-</ul>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Si la Banshee est tuée par le Démon alors qu’elle n’a pas sa capacité (par exemple, ivre ou empoisonnée), ou qu’elle est tuée par une capacité non démoniaque :
-</p>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Ne dites pas au groupe que la capacité de la Banshee s’est déclenchée.</li>
-  <li>La Banshee morte ne peut pas nominer et a besoin d’un jeton de vote pour voter, comme un mort normal.</li>
-</ul>
-
----
-
-##  <span style="color:#4ea3ff;">Exemples</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-
-Le <a href="../roles_experimentaux/kazali.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Kazali</a> tue la Banshee.  
-Tous les joueurs apprennent que la Banshee est morte.  
-Le lendemain, la Banshee nomine l’
-<a href="../roles_experimentaux/village_idiot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Idiot du Village</a> 
-et vote deux fois, puis nomine le 
-<a href="../roles_experimentaux/fearmonger.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fearmonger</a> 
-et vote encore deux fois, puis vote deux fois lorsque le 
-<a href="../roles_experimentaux/shugenja.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Shugenja</a> 
-est nominé.  
-Le jour suivant, la Banshee ne nomine personne, mais vote deux fois pour le Kazali.
-</p>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-
-La Banshee est empoisonnée.  
-L’
-<a href="../roles_experimentaux/ojo.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Ojo</a> 
-tue la Banshee.  
-Personne n’apprend que la Banshee est morte, et pour le reste de la partie, la Banshee ne peut pas nominer et ne dispose que d’un seul vote comme un mort normal.
-</p>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-
-Le 
-<a href="../roles_experimentaux/lycanthrope.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lycanthrope</a> 
-tue la Banshee.  
-La Banshee ne gagne pas ses pouvoirs supplémentaires, et rien n’est annoncé au groupe à ce sujet.
-</p>
-
----
-
-##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Essayez de mourir tuée par le <span style="color:#d45b5b; font-weight:bold;">Démon</span>, par n’importe quel moyen qui vous convient.  
-      C’est la condition pour que votre pouvoir se révèle vraiment.</li>
-
-  <li>Vous pouvez révéler que vous êtes la Banshee tant que vous êtes en vie, surtout si vous avez des informations ou une position sociale forte.  
-      L’équipe maléfique devra choisir entre vous tuer (et vous confirmer) ou vous laisser vivante jusqu’aux derniers jours, en réduisant les options de Démon.</li>
-
-  <li>Profitez du fait que vous êtes confirmée quand vous mourrez du Démon.  
-      Récupérez un maximum d’informations avant votre mort afin d’en faire profiter le village ensuite.</li>
-
-  <li>Vos votes deviennent de plus en plus puissants à mesure que le nombre de joueurs vivants diminue.  
-      Deux votes de Banshee peuvent représenter une énorme part des voix nécessaires pour mettre quelqu’un sur le bloc.  
-      Mais attention : cette puissance peut se retourner contre le Bien si vous vous trompez.</li>
-
-  <li>Vos nominations peuvent parfois être les seules nominations vraiment bonnes qui restent.  
-      Contrairement aux parties normales, la partie ne se termine pas automatiquement si seules des joueuses et des joueurs maléfiques restent vivants, car vous pouvez toujours nominer en tant que Banshee morte.</li>
-
-  <li>Une fois morte, vous pouvez vous concentrer entièrement sur la chasse au <span style="color:#d45b5b; font-weight:bold;">Démon</span>.  
-      Éliminer les <span style="color:#d45b5b; font-weight:bold;">Sbires</span> est moins prioritaire, puisque la partie peut continuer même si le Bien n’a plus de joueurs vivants.</li>
-
-  <li>Utilisez vos deux nominations chaque jour, ou au moins régulièrement.  
-      Vous êtes la garantie qu’au moins un joueur bon nomine encore, même si la majorité des vivants devient maléfique.</li>
-
-  <li>Si vous apprenez que vous êtes morte dans la nuit et que la conteuse ou le conteur n’a rien annoncé sur la Banshee, vérifiez en privé si votre capacité s’est déclenchée ou non, au lieu de tester en nominant n’importe comment.</li>
-
-</ul>
-
----
-
-##  <span style="color:#4ea3ff;">Bluffer Banshee</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Si vous mourrez la nuit alors que vous bluffez Banshee, votre bluff est détruit.  
-      Prévenez bien le <span style="color:#d45b5b; font-weight:bold;">Démon</span> de ne pas vous tuer si vous êtes Sbire, et ne vous faites pas tuer vous-même si vous êtes Démon.</li>
-
-  <li>Bluffez un autre rôle au départ, puis revenez sur un aveu de Banshee si vous êtes acculé.  
-      C’est ce que ferait souvent une vraie Banshee qui hésite à se dévoiler trop tôt.</li>
-
-  <li>Vous pouvez aussi vous déclarer Banshee très tôt et défier l’équipe maléfique de vous tuer.  
-      Cela ne marche pas toujours, mais la réaction du groupe et de l’équipe maléfique peut vous donner des lectures sociales utiles.</li>
-
-  <li>Si vous bluffez Banshee, liez-vous fortement à un ou deux joueurs que le village considère comme bons, puis arrangez-vous pour mourir la nuit.  
-      Comme vous n’êtes pas la vraie Banshee, vous ne serez pas confirmé, et la suspicion risque de retomber sur ces alliés.</li>
-
-  <li>Assurez-vous de bien connaître les raisons possibles pour lesquelles la capacité de la Banshee ne se déclencherait pas (ivresse, empoisonnement, type de mort…).  
-      Si vous devez mourir la nuit sans qu’une annonce soit faite, vous aurez besoin de ces explications pour rester crédible.</li>
-
-</ul>
-
----
+<hr class="explication">
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
-   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+• <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+• <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
+• <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
