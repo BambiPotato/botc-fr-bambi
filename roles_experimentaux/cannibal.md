@@ -70,13 +70,13 @@ Le Cannibale mange les rôles exécutés et gagne leur capacité.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
-• Si un joueur bon meurt par exécution, le Cannibale gagne la capacité de ce joueur.<br><br>
-• Si un joueur maléfique meurt par exécution, le Cannibale pense gagner sa capacité, mais il n’en est rien, puisque le Cannibale est empoisonné dans ce cas. Le Conteur peut lui mentir.<br><br>
-• Chaque fois qu'un joueur meurt par exécution, le Cannibale perd la capacité du joueur précédent.<br><br>
-• Exécuter un joueur mort ne confère aucune capacité au Cannibale.<br><br>
-• Exécuter un joueur en vie sans que cela ne provoque sa mort ne confère aucune capacité au Cannibale.<br><br>
-• Un joueur doit être exécuté et mourir pour que le Cannibale acquière sa capacité.<br><br>
-• Le Cannibale n'est pas informé de la capacité qu'il a acquise. Il doit le découvrir par lui-même.<br><br>
+• Si un joueur bon meurt par exécution, le Cannibale gagne la capacité de ce joueur.<br>
+• Si un joueur maléfique meurt par exécution, le Cannibale pense gagner sa capacité, mais il n’en est rien, puisque le Cannibale est empoisonné dans ce cas. Le Conteur peut lui mentir.<br>
+• Chaque fois qu'un joueur meurt par exécution, le Cannibale perd la capacité du joueur précédent.<br>
+• Exécuter un joueur mort ne confère aucune capacité au Cannibale.<br>
+• Exécuter un joueur en vie sans que cela ne provoque sa mort ne confère aucune capacité au Cannibale.<br>
+• Un joueur doit être exécuté et mourir pour que le Cannibale acquière sa capacité.<br>
+• Le Cannibale n'est pas informé de la capacité qu'il a acquise. Il doit le découvrir par lui-même.<br>
 • Si le Cannibale a une capacité de type « même mort », telle que celle de la <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a>, ou une capacité qui fonctionne une fois mort, comme celle de la <a href="../tb_roles/gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a> ou de la <a href="../sv_roles/dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a>, le Cannibale conserve cette capacité lorsqu'il meurt, mais perd sa capacité de Cannibale.
 </p>
 
@@ -111,9 +111,9 @@ Cette nuit-là, le Cannibale apprend le chiffre « 2 » parce qu’un Sbire se t
 La <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> se faisait passer pour le <a href="../tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a>.<br>
 Cette nuit-là, le Cannibale empoisonné apprend que le <a href="../tb_roles/maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a> ou le <a href="../sv_roles/jongleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Jongleur</a> est la <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a>.<br><br>
 • Le <a href="../tb_roles/soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a> meurt par exécution.<br>
-Cette nuit-là, le <a href="../tb_roles/diablotin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> attaque le Cannibale, mais le Cannibale ne meurt pas.<br>
+Cette nuit-là, le <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> attaque le Cannibale, mais le Cannibale ne meurt pas.<br>
 Le <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> meurt par exécution.<br>
-Cette nuit-là, le Cannibale choisit la <a href="../bmr_roles/commere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Commère</a>, tout comme le <a href="../tb_roles/diablotin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>.<br>
+Cette nuit-là, le Cannibale choisit la <a href="../bmr_roles/commere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Commère</a>, tout comme le <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>.<br>
 La <a href="../bmr_roles/commere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Commère</a> ne meurt pas.<br>
 Le lendemain, personne n'est exécuté. Le Cannibale a de nouveau la capacité du <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> cette nuit-là.<br><br>
 • C'est la troisième nuit et la <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a> a été exécutée aujourd'hui. <br> Comme la <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a> bluffait la <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>, le Cannibale est invité à choisir 2 joueurs, mais il obtient un « non » après avoir choisi le Démon parce qu'il ne possède pas réellement le rôle de la <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> (ni de la capacité de la <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a>), étant donné qu'il est empoisonné.<br><br>
@@ -135,11 +135,11 @@ Le Cannibale n'apprend rien cette nuit, car une vraie <a href="../sv_roles/mutan
 </p>
 
 <!-- ===== BLUFFER EN TANT QUE CANNIBALE ===== -->
-<h2 style="color:#4ea3ff;"><span id="bluffer-cannibale">Bluffer en tant que Cannibale</span></h2>
+<h2 style="color:#4ea3ff;"><span id="bluffer-cannibale">Bluffer le Cannibale</span></h2>
 <hr>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
-Lorsque vous bluffez en tant que Cannibale, il y a quelques éléments à garder en tête :<br><br>
+Lorsque vous bluffez le Cannibale, il y a quelques éléments à garder en tête :<br><br>
 • Essayez de faire exécuter des gens ! C'est ce que ferait un vrai Cannibale, et c'est une excellente excuse pour s'en prendre aux Villageois. Même si le village découvre plus tard qu'il a tué quelqu'un d'utile sur votre suggestion, il gardera peut-être l'espoir que vous puissiez compenser une telle perte grâce au cannibalisme, un espoir que vous serez plus que ravi de combler avec un mensonge.<br><br>
 • Si vous voulez accuser une personne exécutée d'être du mal, envisagez d'agir comme si votre pouvoir n'avait pas fonctionné après l'avoir devorée. Les joueurs du mal empoisonnent le Cannibale lorsqu'ils sont devorés, ce qui vous offre de nombreuses possibilités de bluff peu importe ce que vous dites.<br><br>
 • Soyez prêt à simuler un nouveau rôle à chaque fois que quelqu'un est exécuté. Cela peut signifier interroger les futurs exécutés avant leur mort ou conspirer avec vos alliés. Si vous prétendez dévorer quelqu'un qui obtient des informations chaque nuit, mais que vous ne prétendez pas avoir obtenu d'information la nuit de son exécution, vous pourriez vous retrouver dans l'embarras. À moins, bien sûr, que vous ne disiez qu'une telle absence d'information était simplement due au fait que cette personne était du mal et vous a empoisonné ! Mais le résultat peut varier.
