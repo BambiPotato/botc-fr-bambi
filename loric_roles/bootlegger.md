@@ -26,11 +26,11 @@ image: /images/Icon_bootlegger.png
 
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  «  J'ai reçu la dernière livraison de chez moi,<br>
-  une bière 🍺 que j'aimerais appeler "Barrowfog".<br>
-  Tu veux goûter ?  »
+«  J'ai reçu la toute dernière cargaison du pays,<br>
+une cuvée 🍺 que j'aimerais appeler la "Brouillard de Tumulus".<br>
+Tu veux goûter ?  »
 </p>
-
+ 
 
 <hr class="loric">
 
@@ -67,12 +67,12 @@ image: /images/Icon_bootlegger.png
 Ajoutez le Contrebandier pour inclure des rôles ou des règles faits maison.
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:Opx;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0px;">
 <li>Le Contrebandier permet aux Conteurs d'utiliser des rôles créés par eux mêmes ou par d'autres qui ne sont pas des rôles officiels, ou leur permet d'utiliser des règles non officielles dans la partie.</li>
-<li>S'il y a des rôles faits maison sur la feuille de rôle, ou des règles faites maison en vigueur, le Conteur explique à tous les joueurs de quoi il s'agit avant le début de la partie.</li>
+<li>S'il y a des rôles faits maison sur la feuille de rôle, ou des règles faits maison en vigueur, le Conteur explique à tous les joueurs de quoi il s'agit avant le début de la partie.</li>
 <li>Le Contrebandier est conçu pour être utilisé uniquement dans l'application officielle.</li>
-<li>Le <strong>Contrebandier </strong> est conçu pour les scripts expérimentaux et les adaptations dans l’application officielle.</li>
-<li>Le Contrebandier, malgré de nombreuses affirmations contraires, a battu <a href="https://wiki.bloodontheclocktower.com/Bootlegger"target="_blank"rel="noopener noreferrer"style="color:#7fd1ae; font-weight:bold; text-decoration:none;"> “Homebrewy McHomebrewface”</a>, « le choix du peuple », lors d'un sondage très disputé pour décider du nom du Loric.</li>
+<li>Le <strong>Contrebandier</strong> est conçu pour les scripts expérimentaux et les adaptations dans l’application officielle.</li>
+<li>Le Contrebandier, malgré de nombreuses affirmations contraires, a battu <a href="https://wiki.bloodontheclocktower.com/Bootlegger" target="_blank" rel="noopener noreferrer" style="color:#7fd1ae; font-weight:bold; text-decoration:none;"> “Homebrewy McHomebrewface”</a>, « le choix du peuple », lors d'un sondage très disputé pour décider du nom du Loric.</li>
 </ul>
 
 
