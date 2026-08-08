@@ -78,15 +78,17 @@ LE DIEU D'UG oblige les joueurs à ne parler qu'avec des mots d'une seule syllab
 </ul>
 
 
-##  <span style="color:#7fd1ae;">Comment Conter</span>
-<hr class="loric">
+<h2 style="color:#7fd1ae;">Comment Conter</h2>
+<hr class="loric" style="border:none; border-top:1px solid #7fd1ae; margin:10px 0 15px 0;">
 
-<p class="botc-flavour-text dropcap" style="margin-top:0;">
+<p class="botc-flavour-text dropcap" style="margin-top:0; margin-bottom:4px; font-weight:bold; color:#7fd1ae;">
 Instructions au Conteur
-</p> 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Au début de la partie, donnez le chapeau d'Ug à n'importe quel joueur. <br> Si vous ou un joueur surprenez ce joueur en train de prononcer un mot de plusieurs syllabes, donnez le chapeau d'Ug à un autre joueur.
 </p>
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-top:0;">
+Au début de la partie, donnez le chapeau d'Ug à n'importe quel joueur. <br>
+Si vous ou un joueur surprenez ce joueur en train de prononcer un mot de plusieurs syllabes, donnez le chapeau d'Ug à un autre joueur.
+</p>
+
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Si le joueur qui porte le chapeau d'Ug vote, son vote compte pour deux votes.
