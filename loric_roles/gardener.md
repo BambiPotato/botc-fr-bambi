@@ -12,6 +12,7 @@ image: /images/Icon_gardener.png
 </p>
 
 <hr class="explication">
+
 <!-- Jardinier -->
 
 <div style="text-align:center; margin: 20px 0;">
