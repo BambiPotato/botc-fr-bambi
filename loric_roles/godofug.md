@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dieu d’Ug
-description: Un chapeau Ug. Quand on porte le chapeau Ug, il faut prononcer un son à la fois mais voter deux fois. En cas d’échec, on passe le chapeau Ug.
+description: "Un chapeau d'Ug. Quand vous portez le chapeau d'Ug, vous devez parler avec un seul son à la fois, mais vous votez deux fois. Si vous échouez, vous passez le chapeau d'Ug."
 image: /images/Icon_godofug.png
 ---
 
@@ -11,7 +11,8 @@ image: /images/Icon_godofug.png
   </a>
 </p>
 
-<hr class="explication">
+<hr class="loric">
+
 <!-- God of Ug -->
 
 <div style="text-align:center; margin: 20px 0;">
@@ -47,78 +48,74 @@ image: /images/Icon_godofug.png
   </li>
 </ul>
 
-<hr class="loric">
 
 
 ## <span style="color:#7fd1ae;">Résumé</span>
-
-
 <hr class="loric">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
-<strong>« Un <strong>chapeau Ug</strong>. Quand on porte le <strong>chapeau Ug</strong>, il faut prononcer un son à la fois mais voter deux fois. En cas d’échec, on passe le <strong>chapeau Ug</strong>. »</strong>
+«Un chapeau d'Ug. Quand vous portez le chapeau d'Ug, vous devez parler avec un seul son à la fois, mais vous votez deux fois. Si vous échouez, vous passez le chapeau d'Ug»
 </p>
 
 <p class="botc-flavour-text dropcap">
-Le Dieu d’Ug oblige les joueurs à ne parler qu’avec des mots d’une seule syllabe.
+LE DIEU D'UG oblige les joueurs à ne parler qu'avec des mots d'une seule syllabe.
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0px;">
 
-  <li>Quand le joueur qui porte le c<strong>chapeau Ug</strong>  vote, son vote compte comme deux fois. Utilisez un vrai chapeau si vous le pouvez.</li>
+  <li>Quand le joueur qui porte le chapeau d'Ug vote, son vote compte pour deux votes. <br> Utilisez un vrai chapeau si vous le pouvez.</li>
 
-  <li>Tout mot d’une seule syllabe compte. <br>  Les astuces avec des mots comportant des tirets ne comptent pas. Dire un seul mot à plusieurs syllabes suffit à perdre le chapeau Ug.</li>
+  <li>Tout mot qui possède une seule syllabe compte. <br> Les manigances avec des mots composés ne comptent pas. <br> Prononcer un seul mot de plusieurs syllabes suffit pour perdre le chapeau d'Ug.</li>
 
-  <li>Le Conteur choisit qui porte le <strong>chapeau Ug</strong> en premier. <br>  Si un joueur dit un mot à plusieurs syllabes, ou met trop de temps à parler, ou ne s’amuse pas, ou porte le chapeau depuis trop longtemps, le Conteur choisit un nouveau joueur pour porter le chapeau.</li>
+  <li>Le Conteur choisit qui porte le chapeau d'Ug en premier. <br> Si un joueur prononce un mot de plusieurs syllabes, ou si le joueur met trop de temps à parler, ou si le joueur ne s'amuse pas, ou si le joueur porte le chapeau depuis trop longtemps, le Conteur choisit un nouveau joueur pour porter le chapeau.</li>
 
-  <li>N’importe quel joueur peut porter le chapeau Ug. Il peut refuser s’il le souhaite. <br>  Un joueur peut porter le <strong>chapeau Ug</strong>  plusieurs fois.</li>
+  <li>N'importe quel joueur peut porter le chapeau d'Ug. <br> Il peut le refuser s'il le souhaite. <br> Un joueur peut recevoir le chapeau d'Ug plus d'une fois.</li>
 
-  <li>Si le Conteur n’est pas présent, le système d’honneur est utilisé. <br> Tout joueur qui surprend le porteur du <strong>chapeau Ug</strong> à dire un mot à plusieurs syllabes peut le signaler, et le chapeau est retiré.</li>
+  <li>Si le Conteur n'est pas présent, le système d'honneur s'applique. <br>Tout joueur qui surprend le porteur du chapeau d'Ug en train de prononcer des mots de plusieurs syllabes peut le signaler, et le chapeau d'Ug lui est retiré.</li>
 
-  <li>Le Conteur peut choisir un nouveau joueur chaque jour pour commencer avec le <strong>chapeau Ug</strong>, ou garder le même joueur que la veille.</li>
+  <li>Le Conteur peut choisir un nouveau joueur chaque jour pour commencer avec le chapeau d'Ug, ou garder le même joueur que le jour précédent.</li>
 
 </ul>
 
 
 
 ##  <span style="color:#7fd1ae;">Comment Conter</span>
-
----
+<hr class="loric">
 
 <p class="botc-flavour-text dropcap">
 Instructions au Conteur
 </p> 
+
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Au début de la partie, donnez le <strong>chapeau Ug</strong> à n’importe quel joueur. <br>  Si vous ou un autre joueur surprenez ce joueur à dire un mot à plusieurs syllabes, donnez le chapeau Ug à un autre joueur.
+Au début de la partie, donnez le chapeau d'Ug à n'importe quel joueur. <br> Si vous ou un joueur surprenez ce joueur en train de prononcer un mot de plusieurs syllabes, donnez le chapeau d'Ug à un autre joueur.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Si le joueur portant le <strong>chapeau Ug</strong> vote, cela compte comme deux votes.
+Si le joueur qui porte le chapeau d'Ug vote, son vote compte pour deux votes.
 </p>
 
 <div class="botc-note">
-Règle optionnelle : si le <strong>chapeau Ug</strong>  devient moins amusant, limitez-le uniquement à la phase de nomination.
+Si porter le chapeau d'Ug devient ennuyeux, limitez le uniquement à la phase de nomination.
 </div>
 
 
 
 ##  <span style="color:#7fd1ae;">Exemples</span>
-
----
+<hr class="loric">
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Amy porte le <strong>chapeau Ug</strong>. Lorsqu’elle est nommée, elle dit : 
-« Pas moi. Je crois Ben a dit un mot qui me dit lui est mal. Il est le mal, il est bouh, mal. »  
-Amy garde le chapeau Ug.
+Amy porte le <strong>chapeau Ug</strong>. Lorsqu’elle est nommée, elle dit : <br>
+« Pas moi. Moi dit que Ben a vu le mal. Lui est vil. »  <br>
+Amy garde le chapeau d'Ug.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Lewis porte le <strong>chapeau Ug</strong>. Lors d’une discussion privée avec Julien et Alex, Lewis dit :  
-« Je sais que tous les deux bons. Je suis le truc qui vol qui peut voir un truc quand je meurs. Je veux que le Démon me tue pour que je vois ce truc et sait des trucs à vous dit le jour ap. »  
-Le Conteur donne le <strong>chapeau Ug</strong> à Abdallah, car « Démon » est un mot à plusieurs syllabes.
+Lewis a le chapeau d'Ug. Dans une conversation privée avec Julian et Alex, Lewis dit : <br>
+« Je crois que vous deux vous êtes bons. Je suis le grand coq qui voit un gars quand je meurs. Je veux que le Démon me tue pour que j'ai ce gars et que je le cri le jour qui vient.  » <br>
+Le Conteur donne le chapeau d'Ug à Abdallah, parce que « Démon » est un mot de plusieurs syllabes.
 </p>
 
----
+<hr class="loric">
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
