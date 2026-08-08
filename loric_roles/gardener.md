@@ -104,13 +104,13 @@ le <a href="../roles_experimentaux/zealot.html" style="color:#4ea3ff; font-weigh
 le <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a>, 
 l’<a href="../roles_experimentaux/alsaahir.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alsaahir</a>, 
 la <a href="../roles_experimentaux/banshee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Banshee</a>, 
-la <a href="../bmr_roles/highpriestess.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Grande Prêtresse</a>, 
-et le <a href="../sv_roles/balloonist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aéronaute</a>.
+la <a href="../roles_experimentauxs/highpriestess.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Grande Prêtresse</a>, 
+et le <a href="../roles_experimentaux/balloonist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aéronaute</a>.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Le Conteur dispose ces rôles dans cet ordre, les place face cachée, et les joueurs prennent leurs jetons. 
-<strong>Ben</strong> est le <a href="../roles_experimentaux/lordoftyphon.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Seigneur de Typhon</a>, et <strong>Julien</strong> est la <a href="../bmr_roles/highpriestess.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Grande Prêtresse</a>.
+<strong>Ben</strong> est le <a href="../roles_experimentaux/lordoftyphon.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Seigneur de Typhon</a>, et <strong>Julien</strong> est la <a href="../roles_experimentaux/highpriestess.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Grande Prêtresse</a>.
 </p>
 
 
