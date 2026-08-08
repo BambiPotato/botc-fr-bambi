@@ -97,7 +97,7 @@ Instructions au Conteur
 <hr>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-• Il y a deux Conteurs, Ben et Lachlan. Le <a href="../tb_roles/cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a> se réveille et choisit Lachlan, ui est le Conteur qui ment. <br> Le <a href="../tb_roles/cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a>
+• Il y a deux Conteurs, Ben et Lachlan. <br> Le <a href="../tb_roles/cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a> se réveille et choisit Lachlan, qui est le Conteur qui ment. <br> Le <a href="../tb_roles/cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a>
 apprend « 3 », même s'il n'y a que 2 paires de joueurs du mal.
 </p>
 
