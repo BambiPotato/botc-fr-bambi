@@ -53,16 +53,12 @@ image: /images/Generic_loric.png
   </p>
 
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
-    <li><a href="#resume" style="color:#f5f5f5; text-decoration:none;">Résumé</a></li>
-    <li><a href="#comment-conter" style="color:#f5f5f5; text-decoration:none;">Comment conter</a></li>
-    <li><a href="#loric" style="color:#f5f5f5; text-decoration:none;">Loric</a></li>
+    <li><a href="#resume" style="color:#7fd1ae; text-decoration:none;">• Résumé</a></li>
+    <li><a href="#comment-conter" style="color:#7fd1ae; text-decoration:none;">• Comment conter</a></li>
+    <li><a href="#loric" style="color:#7fd1ae; text-decoration:none;">• Loric</a></li>
   </ul>
 
-  <ul style="color: #f5f5f5; font-size: 18px; line-height: 1.8; margin-bottom: 0; padding-left: 20px;">
-    <li><a href=""#resume" style="color: #4ea3ff; text-decoration: none;">Résumé</a></li>
-    <li><a href="#comment-conter" style="color: #4ea3ff; text-decoration: none;">Comment Conter</a></li>
-    <li><a href="#loric" style="color: #4ea3ff; text-decoration: none;">Loric</a></li>
-  </ul>
+ 
 
   <p style="font-weight:bold; color:#7fd1ae; margin:0 0 6px 0;">
     Loric
@@ -86,11 +82,10 @@ image: /images/Generic_loric.png
 ##  <span style="color:#7fd1ae;">Sommaire</span>
 
 
-
 <ul style="color: #f5f5f5; font-size: 18px; line-height: 1.8; margin-bottom: 0; padding-left: 20px;">
-    <li><a href=""#resume" style="color: #4ea3ff; text-decoration: none;">Résumé</a></li>
-    <li><a href="#comment-conter" style="color: #4ea3ff; text-decoration: none;">Comment Conter</a></li>
-    <li><a href="#loric" style="color: #4ea3ff; text-decoration: none;">Loric</a></li>
+    <li><a href="#resume" style="color: #7fd1ae; text-decoration: none;">Résumé</a></li>
+    <li><a href="#comment-conter" style="color: #7fd1ae; text-decoration: none;">Comment Conter</a></li>
+    <li><a href="#loric" style="color: #7fd1ae; text-decoration: none;">Loric</a></li>
   </ul>
 
 
@@ -129,6 +124,9 @@ Instructions au Conteur
 <strong>Tout comme les Voyageurs et les Légendaires, les Loric ne comptent pas comme des joueurs pour la condition de victoire de l'équipe du mal « deux joueurs restent en vie ».</strong>
 </p> 
 
+
+
+##  <span id="loric" style="color:#7fd1ae;">Loric</span>
 <hr class="loric">
 
 
