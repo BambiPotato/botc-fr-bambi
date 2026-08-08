@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contrebandier 
-description: Ce script contient des rôles ou des règles personnalisés.
+description: Ce script contient des rôles ou des règles faits maison.
 image: /images/Icon_bootlegger.png
 ---
 
@@ -53,37 +53,26 @@ image: /images/Icon_bootlegger.png
 </ul>
 
 
-<hr class="loric">
+
 
 
 ##  <span style="color:#7fd1ae;">Résumé</span>
-
-
 <hr class="loric">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
-« Ce script contient des rôles ou des règles <strong>personnalisés</strong>. »
+«Ce script contient des rôles ou des règles faits maison. »
 </p>
 
 <p class="botc-flavour-text dropcap">
-Instructions au Conteur
-</p>
-Ajoutez le <strong>Contrebandier</strong> pour inclure des rôles ou des règles <em>personnalisés</em>. 
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Il autorise les Conteurs à utiliser des rôles non officiels ou des règles personnalisées.  
-Tant qu’un ou plusieurs rôles <em>personnalisés</em> figurent sur le script, le <strong>Contrebandier</strong> reste en jeu.  
-Il ne peut être retiré qu’en passant à un script ne contenant aucun rôle, ni règle personnalisée.
+Ajoutez le Contrebandier pour inclure des rôles ou des règles faits maison.
 </p>
 
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Le <strong>Contrebandier</strong> doit être annoncé au début de la partie s’il y a des rôles ou règles <em>personnalisés</em>.</li>
-  <li>Le Conteur annonce à tous les joueurs la liste de ces rôles ou les règles avant le début de la partie.</li>
-  <li>Il est possible d’utiliser plusieurs créations à la fois, tant qu’elles sont expliquées avant le lancement de la partie.</li>
-  <li>Le <strong>Contrebandier </strong> est conçu pour les scripts expérimentaux et les adaptations dans l’application officielle.</li>
-  <li>Ce rôle rend hommage au légendaire <span style="color:#7fd1ae;">“Homebrewy McHomebrewface”</span>, 
-      son ancêtre écarté lors d’un vote serré de la communauté.</li>
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:Opx;">
+<li>Le Contrebandier permet aux Conteurs d'utiliser des rôles créés par eux mêmes ou par d'autres qui ne sont pas des rôles officiels, ou leur permet d'utiliser des règles non officielles dans la partie.</li>
+<li>S'il y a des rôles faits maison sur la feuille de rôle, ou des règles faites maison en vigueur, le Conteur explique à tous les joueurs de quoi il s'agit avant le début de la partie.</li>
+<li>Le Contrebandier est conçu pour être utilisé uniquement dans l'application officielle.</li>
+<li>Le <strong>Contrebandier </strong> est conçu pour les scripts expérimentaux et les adaptations dans l’application officielle.</li>
+<li>Le Contrebandier, malgré de nombreuses affirmations contraires, a battu <a href="https://wiki.bloodontheclocktower.com/Bootlegger"target="_blank"rel="noopener noreferrer"style="color:#7fd1ae; font-weight:bold; text-decoration:none;"> “Homebrewy McHomebrewface”</a>, « le choix du peuple », lors d'un sondage très disputé pour décider du nom du Loric.</li>
 </ul>
 
 
@@ -97,10 +86,7 @@ Instructions au Conteur
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Au début de la partie, si votre script comporte des rôles ou règles <em>personnalisés</em>, annoncez que le <strong>Contrebandier</strong> est en jeu.  
-Présentez brièvement les créations utilisées et précisez comment elles modifient les règles officielles.  
-Si plusieurs créations sont présentes, expliquez chacune d’elles avant de commencer la première nuit.  
-Le <strong>Contrebandier</strong> reste actif jusqu’à la fin de la partie.
+Au début de la partie, s'il y a des rôles faits maison sur la feuille de rôle ou si vous utilisez des règles faites maison, annoncez que le Contrebandier est en jeu et informez le groupe de tous les rôles faits maison et/ou règles que vous utilisez dans cette partie.
 </p>
 
 
@@ -109,15 +95,11 @@ Le <strong>Contrebandier</strong> reste actif jusqu’à la fin de la partie.
 
 ---
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0px;">
 
-  <li>Le script inclut le rôle <em>Paysan</em>, un rôle <em>personnalisé</em> créé par la communauté.<br>   
-  Le Conteur annonce que le <strong>Contrebandier</strong> est en jeu, puis explique comment fonctionne le <em>Paysan</em> avant de commencer la partie.</li><br>  
+<li>La feuille de rôle contient le rôle fait maison le Paysan. Le Conteur annonce que le Contrebandier est en jeu puis explique le fonctionnement du Paysan.</li><br>  
 
-  <li>Le Conteur décide d’appliquer une règle personnalisée : « Les joueurs morts peuvent discuter librement le jour. »<br>  
-  Il annonce le 
-  <a href="../loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Loric</a> en jeu, le <strong>Contrebandier</strong>.<br>
-  Le Conteur explique la règle à tous les joueurs et précise qu’elle restera active toute la partie.</li>
+<li>Le Conteur utilise une règle faite maison ou une règle maison. Le Conteur annonce que le Contrebandier est en jeu et explique en quoi consiste cette règle faite maison et la manière dont elle affectera la partie.</li>
 
 </ul>
 
@@ -126,6 +108,6 @@ Le <strong>Contrebandier</strong> reste actif jusqu’à la fin de la partie.
 
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  <a href="../loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Retour aux rôles Loric</a>
+• <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+• <a href="../loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Retour aux rôles Loric</a>
 </p>
