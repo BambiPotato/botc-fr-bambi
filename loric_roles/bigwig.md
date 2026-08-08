@@ -52,8 +52,6 @@ image: /images/Icon_ig_wig.png
 </ul>
 
 
-<hr class="loric">
-
 
 ## <span style="color:#7fd1ae;">Résumé</span>
 <hr class="loric">
