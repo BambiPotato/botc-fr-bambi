@@ -103,7 +103,7 @@ Si porter le chapeau d'Ug devient ennuyeux, limitez le uniquement à la phase de
 <hr class="loric">
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Amy porte le <strong>chapeau Ug</strong>. Lorsqu’elle est nommée, elle dit : <br>
+Amy porte le <strong>chapeau d'Ug</strong>. Lorsqu’elle est nommée, elle dit : <br>
 « Pas moi. Moi dit que Ben a vu le mal. Lui est vil. »  <br>
 Amy garde le chapeau d'Ug.
 </p>
