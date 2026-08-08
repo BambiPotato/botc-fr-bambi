@@ -78,14 +78,12 @@ LE DIEU D'UG oblige les joueurs à ne parler qu'avec des mots d'une seule syllab
 </ul>
 
 
-
 ##  <span style="color:#7fd1ae;">Comment Conter</span>
 <hr class="loric">
 
 <p class="botc-flavour-text dropcap" style="margin-top:0;">
 Instructions au Conteur
 </p> 
-
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Au début de la partie, donnez le chapeau d'Ug à n'importe quel joueur. <br> Si vous ou un joueur surprenez ce joueur en train de prononcer un mot de plusieurs syllabes, donnez le chapeau d'Ug à un autre joueur.
 </p>
@@ -118,6 +116,6 @@ Le Conteur donne le chapeau d'Ug à Abdallah, parce que « Démon » est un mot 
 <hr class="loric">
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Retour aux rôles Loric</a>
+• <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+• <a href="../loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Retour aux rôles Loric</a>
 </p>
