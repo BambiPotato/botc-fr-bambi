@@ -82,7 +82,7 @@ LE DIEU D'UG oblige les joueurs à ne parler qu'avec des mots d'une seule syllab
 ##  <span style="color:#7fd1ae;">Comment Conter</span>
 <hr class="loric">
 
-<p class="botc-flavour-text dropcap">
+<p class="botc-flavour-text dropcap" style="margin-top:0;">
 Instructions au Conteur
 </p> 
 
