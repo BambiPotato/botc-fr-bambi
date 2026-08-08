@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Gros Bonnet
-description: "Chaque nommé choisit un joueur : jusqu’au vote, seul ce joueur peut parler. Il est fou que le nommé est bon, sinon il pourrait mourir."
+description: "Chaque nommé choisit un joueur : jusqu’au vote, seul ce joueur peut parler et il est «fou» que le nommé soit bon. Sinon il pourrait mourir."
 image: /images/Icon_ig_wig.png
 ---
 
@@ -11,7 +11,7 @@ image: /images/Icon_ig_wig.png
   </a>
 </p>
 
-<hr class="explication">
+<hr class="loric">
 
 <!-- Big Wig -->
 
@@ -56,26 +56,23 @@ image: /images/Icon_ig_wig.png
 
 
 ## <span style="color:#7fd1ae;">Résumé</span>
-
-
 <hr class="loric">
 
-
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
-<strong>Chaque nommé choisit un joueur : jusqu’au vote, seul ce joueur peut parler. Il est <strong>fou</strong> que le nommé est <strong>bon</strong>, sinon il pourrait mourir.</strong>
+« Chaque nommé choisit un joueur : jusqu’au vote, seul ce joueur peut parler et il est <strong>«fou»</strong> que le nommé soit <strong>bon</strong>. Sinon il pourrait mourir. »
 </p>
 
-<p class="botc-flavour-text dropcap">
-Le <strong>Gros Bonnet</strong> donne aux personnes nommées un véritable <em>avocat de la défense</em>.
+<p class="botc-flavour-text dropcap" style="margin-top:0;">
+LE GROS BONNET donne aux joueurs nommés un avocat de la défense.
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Quand une personne est nommée, elle choisit un joueur (vivant ou mort) pour parler en son nom.</li>
-  <li>Pendant cette période, seul le défenseur choisi peut parler ; même la personne nommée doit rester silencieuse.</li>
-  <li>Si le défenseur est <em>Fou</em> que le joueur nommé soit maléfique, ou pas assez <em>Fou</em> qu’il soit bon, il peut mourir.</li>
-  <li>Être <em>Fou</em> que « la personne nommée ne devrait pas être exécutée » peut suffire à éviter la mort.</li>
-  <li>Le Conteur annonce clairement le début et la fin de la période de silence (elle se termine au moment du vote).</li>
-  <li>Le défenseur garde son droit de vote.</li>
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0px;">
+  <li>Lorsqu'il est nommé, ce joueur doit choisir un joueur pour parler en son nom. Il peut choisir des joueurs vivants ou morts.</li>
+  <li>Les autres joueurs ne sont pas autorisés à parler pendant cette période. Cela inclut le joueur nommé. <br> Si nécessaire, le Conteur peut utiliser le <a href="../legendaire_roles/hellslibrarian.html" style="color:#c59a3d; font-weight:bold; text-decoration:none;">Bibliothécaire de l'Enfer</a> pour faire respecter cela.</li>
+  <li>Si le joueur choisi est fou que le joueur nommé est maléfique, ou pas assez fou que le joueur nommé soit bon, le Conteur peut tuer ce joueur.</li>
+  <li>Être fou que « le joueur nommé ne devrait pas être exécuté » peut être suffisamment proche d'être fou que « le joueur nommé est bon » pour éviter d'être tué par le Conteur.</li>
+  <li>Le Conteur rendra évidents les moments où la période de silence commence. Elle se termine lorsque le vote commence.</li>
+  <li>Le joueur choisi par le joueur nommé peut voter pour le joueur nommé.</li>
 </ul>
 
 
@@ -83,15 +80,12 @@ Le <strong>Gros Bonnet</strong> donne aux personnes nommées un véritable <em>a
 
 ---
 
-<p class="botc-flavour-text dropcap">
+<p class="botc-flavour-text dropcap" style="margin-top:0;">
 Instructions au Conteur
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-À chaque nomination, demandez à la personne nommée de choisir son défenseur.<br>
-Déclarez que seul ce joueur peut parler jusqu’au vote.<br>
-S’il ne défend pas le joueur nommé comme si ce joueur était Bon, vous pouvez le faire mourir.<br>
-Le silence prend fin au moment du vote.
+Chaque fois qu'un joueur est nommé, demandez-lui de choisir un joueur. <br> Déclarez que ce joueur est le seul joueur autorisé à parler jusqu'à ce que le vote commence. <br> Pendant cette période, si ce joueur n'est pas fou que le joueur nommé soit bon, il peut mourir.
 </p>
 
 
@@ -101,14 +95,13 @@ Le silence prend fin au moment du vote.
 ---
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>Cédric</strong> prétend être le <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a> et est nommé.<br>
-Il choisit <strong>Alexandre</strong> pour parler en son nom.<br>
-Alexandre défend son innocence et propose d’exécuter <strong>Nicolas</strong> à la place. Alexandre survit.<br><br>
-<strong>Vanessa</strong> est l’ <a href="../roles_experimentaux/ermite.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ermite</a> 
-mais ne l’a pas dit.<br>
-Lorsqu'elle est nommée, elle choisit <strong>Céline</strong> pour parler.<br>
-Céline déclare que Vanessa est probablement un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> et qu’il n’est pas grave qu’elle meure.<br>
-Céline meurt à cause du pouvoir du <strong>Gros Bonnet</strong>.
+Alex prétend être le <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a> et est nommé.<br>
+Alex choisit Evin pour parler en son nom.<br>
+Evin avance un argument convaincant selon lequel Alex est réellement le <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a> et que Julian devrait être exécuté à la place. Evin survit.<br><br>
+Marianna est l’ <a href="../roles_experimentaux/hermit.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ermite</a> 
+mais n'a pas dit à beaucoup de monde qu'elle est l' <a href="../roles_experimentaux/hermit.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ermite</a>. <br>
+Lorsqu'elle est nommée, elle choisit Alex pour la défendre. <br>
+Alex dit que Marianna est probablement un Sbire et que cela n'a pas d'importance si Marianna meurt ou non. <br> Alex meurt en raison de la capacité du <strong>Gros Bonnet</strong>.
 </p>
 
 
@@ -116,6 +109,6 @@ Céline meurt à cause du pouvoir du <strong>Gros Bonnet</strong>.
 
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-  <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  <a href="../loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Catégorie : Lorics</a>
+• <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+• <a href="../loric.html" style="color:#7fd1ae; font-weight:bold; text-decoration:none;">Catégorie : Lorics</a>
 </p>
