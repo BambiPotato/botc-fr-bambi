@@ -61,7 +61,7 @@ image: /images/Generic_loric.png
  
 
   <p style="font-weight:bold; color:#7fd1ae; margin:0 0 6px 0;">
-    Loric
+    Tous les rôles
   </p>
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:0;">
     <li><a href="./loric_roles/stormcatcher.html" style="color:#7fd1ae; text-decoration:none;">Chasseur d'orages</a></li>
@@ -82,7 +82,7 @@ image: /images/Generic_loric.png
 ##  <span style="color:#7fd1ae;">Sommaire</span>
 
 
-<ul style="color: #f5f5f5; font-size: 18px; line-height: 1.8; margin-bottom: 0; padding-left: 20px;">
+<ul style="color: #f5f5f5; font-size: 20px; line-height: 1.8; margin-bottom: 0; padding-left: 20px;">
     <li><a href="#resume" style="color: #7fd1ae; text-decoration: none;">Résumé</a></li>
     <li><a href="#comment-conter" style="color: #7fd1ae; text-decoration: none;">Comment Conter</a></li>
     <li><a href="#loric" style="color: #7fd1ae; text-decoration: none;">Loric</a></li>
@@ -95,7 +95,7 @@ image: /images/Generic_loric.png
 ---
 
 <p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
-Les Loric sont des rôles pour le Conteur. Il s'agit davantage de règles spéciales que de rôles à part entière. Ils ne peuvent pas être tués et ils modifient le jeu lui même. Les rôles Loric apportent une touche supplémentaire pour modifier une partie en créant un rebondissement. Alors que les Légendaires résolvent des problèmes, les Loric introduisent de nouveaux problèmes pour rendre la partie novatrice et intéressante.
+Les Loric sont des rôles pour le Conteur. Il s'agit davantage de règles spéciales que de rôles à part entière. <br> Ils ne peuvent pas être tués et ils modifient le jeu lui même. <br> Les rôles Loric apportent une touche supplémentaire pour modifier une partie en créant un rebondissement. <br> Alors que les Légendaires résolvent des problèmes, les Loric introduisent de nouveaux problèmes pour rendre la partie novatrice et intéressante.
 </p>
 
 
@@ -113,7 +113,7 @@ Instructions au Conteur
 </p> 
 
 <p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>Pour inclure les Loric dans votre partie,</strong> choisissez en simplement un, annoncez au groupe quel Loric est en jeu et placez le jeton de rôle Loric au centre du côté gauche du Grimoire pour vous rappeler ce que fait le rôle. Tous les Loric doivent être ajoutés au début de la partie. Vous pouvez ajouter plusieurs Loric à vos risques et périls.
+<strong>Pour inclure les Loric dans votre partie,</strong> choisissez en simplement un, annoncez au groupe quel Loric est en jeu et placez le jeton de rôle Loric au centre du côté gauche du Grimoire pour vous rappeler ce que fait le rôle. <br> Tous les Loric doivent être ajoutés au début de la partie. <br> Vous pouvez ajouter plusieurs Loric à vos risques et périls.
 </p> 
 
 <p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">  
