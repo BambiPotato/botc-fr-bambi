@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Marin
-description: "Chaque nuit, choisissez un joueur vivant : lui ou vous êtes ivre jusqu’au crépuscule. Vous ne pouvez pas mourir." 
+description: "Chaque nuit, choisissez un joueur en vie : lui ou vous êtes ivre jusqu’au crépuscule. Vous ne pouvez pas mourir." 
 image: /images/Icon_sailor.png
 ---
 
@@ -81,7 +81,7 @@ Z’avez déjà goûté le rhum épicé du vieux McKilly ?<br>
 <hr class="villageois">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
-« Chaque nuit, choisissez un joueur vivant : lui ou vous êtes ivre jusqu’au crépuscule. Vous ne pouvez pas mourir. »
+« Chaque nuit, choisissez un joueur en vie : lui ou vous êtes ivre jusqu’au crépuscule. Vous ne pouvez pas mourir. »
 </p>
 
 <p class="botc-flavour-text dropcap">
