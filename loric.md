@@ -53,9 +53,15 @@ image: /images/Generic_loric.png
   </p>
 
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
-    <li><a href="#presentation" style="color:#f5f5f5; text-decoration:none;">Présentation</a></li>
+    <li><a href="#resume" style="color:#f5f5f5; text-decoration:none;">Résumé</a></li>
     <li><a href="#comment-conter" style="color:#f5f5f5; text-decoration:none;">Comment conter</a></li>
-    <li><a href="#lorics" style="color:#f5f5f5; text-decoration:none;">Loric</a></li>
+    <li><a href="#loric" style="color:#f5f5f5; text-decoration:none;">Loric</a></li>
+  </ul>
+
+  <ul style="color: #f5f5f5; font-size: 18px; line-height: 1.8; margin-bottom: 0; padding-left: 20px;">
+    <li><a href=""#resume" style="color: #4ea3ff; text-decoration: none;">Résumé</a></li>
+    <li><a href="#comment-conter" style="color: #4ea3ff; text-decoration: none;">Comment Conter</a></li>
+    <li><a href="#loric" style="color: #4ea3ff; text-decoration: none;">Loric</a></li>
   </ul>
 
   <p style="font-weight:bold; color:#7fd1ae; margin:0 0 6px 0;">
@@ -81,34 +87,21 @@ image: /images/Generic_loric.png
 
 
 
-<hr class="loric">
-
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <a href="#presentation" style="color:#f5f5f5; font-weight:bold; text-decoration:none;"> Présentation</a><br>
-  <a href="#comment-conter" style="color:#f5f5f5; font-weight:bold; text-decoration:none;"> Comment Conter</a><br>
-  <a href="#lorics" style="color:#f5f5f5; font-weight:bold; text-decoration:none;"> Loric</a>
-</p>
+<ul style="color: #f5f5f5; font-size: 18px; line-height: 1.8; margin-bottom: 0; padding-left: 20px;">
+    <li><a href=""#resume" style="color: #4ea3ff; text-decoration: none;">Résumé</a></li>
+    <li><a href="#comment-conter" style="color: #4ea3ff; text-decoration: none;">Comment Conter</a></li>
+    <li><a href="#loric" style="color: #4ea3ff; text-decoration: none;">Loric</a></li>
+  </ul>
 
 
 
-
-##  <span id="presentation" style="color:#7fd1ae;">Présentation</span>
+##  <span id="presentation" style="color:#7fd1ae;">Résumé</span>
 
 ---
 
 <p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
-  Les <strong>Loric</strong> sont des rôles conçus pour les Conteurs et Conteuses.  
-  Ils ressemblent davantage à des <strong>règles spéciales</strong> qu’à des rôles classiques :  
-  ils sont immortels, ne participent pas comme des joueurs et modifient le déroulement même du jeu.
+Les Loric sont des rôles pour le Conteur. Il s'agit davantage de règles spéciales que de rôles à part entière. Ils ne peuvent pas être tués et ils modifient le jeu lui même. Les rôles Loric apportent une touche supplémentaire pour modifier une partie en créant un rebondissement. Alors que les Légendaires résolvent des problèmes, les Loric introduisent de nouveaux problèmes pour rendre la partie novatrice et intéressante.
 </p>
-
-<p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
-  Alors que les <em>Légendaires</em> servent surtout à <strong>résoudre des situations problématiques</strong>,  
-  les <strong>Loris</strong> sont là pour <strong>créer de nouveaux enjeux</strong>, surprendre le village  
-  et renouveler l’intérêt comme l’intensité de la partie.
-</p>
-
 
 
 
@@ -121,36 +114,20 @@ Instructions au Conteur
 </p>
 
 <p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
-  Utilisez les Loric quand vous le souhaitez.  
-  Si vous avez joué un script particulier de nombreuses fois  
-  ou si vous voulez simplement changer de rythme,  
-  ajouter un <strong>Loric</strong> donne au jeu une sensation de nouveauté et de différence.
-</p>
+<strong>Utilisez les Loric quand vous le souhaitez.</strong> Si vous avez joué un script particulier de nombreuses fois ou si vous voulez simplement changer de rythme, ajouter un Loric donne une sensation de nouveauté et de différence à la partie.
+</p> 
 
 <p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
-  Pour inclure un <strong>Loric</strong> dans votre partie, choisissez-en un,  
-  annoncez au groupe quel Loric est en jeu,  
-  puis placez son jeton au centre du côté gauche du <strong>Grimoire</strong>  
-  afin de vous rappeler de son effet pendant toute la partie.
-</p>
+<strong>Pour inclure les Loric dans votre partie,</strong> choisissez en simplement un, annoncez au groupe quel Loric est en jeu et placez le jeton de rôle Loric au centre du côté gauche du Grimoire pour vous rappeler ce que fait le rôle. Tous les Loric doivent être ajoutés au début de la partie. Vous pouvez ajouter plusieurs Loric à vos risques et périls.
+</p> 
 
-<p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
-  Tous les Loric doivent être ajoutés <strong>au début</strong> de la partie.  
-  En ajouter plusieurs est possible, mais se fait à vos risques et périls :  
-  plus il y en a, plus la partie peut devenir chaotique à gérer.
-</p>
+<p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">  
+<strong>Les Loric ne peuvent pas mourir ni perdre leur capacité.</strong> Vous êtes le Conteur, pas un joueur, donc vos Loric sont immunisés à tous les effets de jeu, y compris la mort, l'ivresse et l'empoisonnement.
+</p> 
 
-<p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>Les Loric ne peuvent ni mourir ni perdre leurs pouvoirs.</strong>  
-  Vous êtes Conteur, pas joueur donc vos Loric sont donc immunisés contre tous les effets du jeu, y compris la mort, l’ivresse et l’empoisonnement.
-</p>
-
-<div class="botc-note">
-  Comme les <strong>Voyageurs</strong> et les <strong>Légendaires</strong>,  
-  les <strong>Loric</strong> ne comptent pas comme des joueurs pour la condition de victoire 
-  de l’équipe maléfique lorsqu’il ne reste que « deux joueurs en vie ».
-</div>
-
+<p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">  
+<strong>Tout comme les Voyageurs et les Légendaires, les Loric ne comptent pas comme des joueurs pour la condition de victoire de l'équipe du mal « deux joueurs restent en vie ».</strong>
+</p> 
 
 <hr class="loric">
 
