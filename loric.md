@@ -82,11 +82,12 @@ image: /images/Generic_loric.png
 ##  <span style="color:#7fd1ae;">Sommaire</span>
 
 
-<ul style="color: #f5f5f5; font-size: 20px; line-height: 1.8; margin-bottom: 0; padding-left: 20px;">
+<ul style="color: #f5f5f5; font-size: 20px; line-height: 1.8; margin-bottom: 0; padding-left: 20px; font-weight: bold;">
     <li><a href="#resume" style="color: #7fd1ae; text-decoration: none;">Résumé</a></li>
     <li><a href="#comment-conter" style="color: #7fd1ae; text-decoration: none;">Comment Conter</a></li>
     <li><a href="#loric" style="color: #7fd1ae; text-decoration: none;">Loric</a></li>
-  </ul>
+</ul>
+
 
 
 
