@@ -147,7 +147,7 @@ Lewis et Evin, de l’autre côté de la pièce, restent silencieux. Lewis est l
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Finalement, Doug prend la parole. « Je suis le <a href="./tb_roles/tb_role_cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a>, dit-il. Je sais que deux joueurs maléfiques sont assis côte à côte. Je pense que ce sont Marianna et Julian. Ou peut-être Alex et Sarah. Cela dit, Sarah et Lachlan sont assis l’un à côté de l’autre et chuchotent on ne sait quoi depuis tout à l’heure. C’est peut-être eux, la paire maléfique. Quoi qu’il en soit, j’aimerais exécuter Sarah. »
+Finalement, Doug prend la parole. « Je suis le <a href="./tb_roles/cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a>, dit-il. Je sais que deux joueurs maléfiques sont assis côte à côte. Je pense que ce sont Marianna et Julian. Ou peut-être Alex et Sarah. Cela dit, Sarah et Lachlan sont assis l’un à côté de l’autre et chuchotent on ne sait quoi depuis tout à l’heure. C’est peut-être eux, la paire maléfique. Quoi qu’il en soit, j’aimerais exécuter Sarah. »
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -155,7 +155,7 @@ Après encore quelques minutes de discussions animées, le Conteur entre dans le
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le Conteur demande à tous les joueurs de fermer les yeux. Le Conteur fait le tour du cercle et, un par un, tapote l’épaule de certains joueurs. Ces joueurs ouvrent les yeux pour utiliser les capacités spéciales de leur rôle. Evin, le <a href="./tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a>, se réveille et désigne Julian, indiquant que Julian est protégé de l’attaque du Démon cette nuit. Le Conteur fait ensuite signe à Evin de refermer les yeux. Ben, le Démon (le <a href="./tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>), se réveille et désigne Doug, le <a href="./tb_roles/tb_role_cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a>, indiquant qu’il souhaite attaquer Doug.
+Le Conteur demande à tous les joueurs de fermer les yeux. Le Conteur fait le tour du cercle et, un par un, tapote l’épaule de certains joueurs. Ces joueurs ouvrent les yeux pour utiliser les capacités spéciales de leur rôle. Evin, le <a href="./tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a>, se réveille et désigne Julian, indiquant que Julian est protégé de l’attaque du Démon cette nuit. Le Conteur fait ensuite signe à Evin de refermer les yeux. Ben, le Démon (le <a href="./tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>), se réveille et désigne Doug, le <a href="./tb_roles/cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a>, indiquant qu’il souhaite attaquer Doug.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -216,10 +216,10 @@ Quel suspense !
 • 1 Grimoire (2 parties)<br>
 • 1 Lutrin pour le Grimoire (2 parties)<br>
 • 1 Plateau Place du Village<br>
-• 4 Sleeves en plastique<br><br>
+• 4 Sleeves en plastique<br>
 • 1 Fiche de mise en place (avec explications des règles au verso)<br>
 • 1 Fiche des Voyageurs (avec explications des règles au verso)<br><br>
-• 1 Sac<br>
+• 1 Petit sac violet<br>
 • 18+ Linceuls<br>
 • 25+ Jetons de nuit<br>
 • 4 Tuiles info<br>
