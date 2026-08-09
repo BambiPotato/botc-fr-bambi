@@ -84,9 +84,9 @@ Instructions au Conteur
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0px;">
 
-  <li>Il y a deux Conteurs. Avant la 1ère nuit, décidez lequel d'entre vous dira la vérité et lequel mentira.</li><br>
+  <li>Il y a deux Conteurs. Avant la 1ère nuit, décidez lequel d'entre vous dira la vérité et lequel mentira.</li>
 
-  <li>Chaque nuit, lorsqu'un joueur se réveille pour recevoir une information en raison de la capacité de son rôle, ou lorsqu'un joueur rend visite au Conteur pendant le jour, invitez-le à choisir quel Conteur lui donnera son information.</li><br>
+  <li>Chaque nuit, lorsqu'un joueur se réveille pour recevoir une information en raison de la capacité de son rôle, ou lorsqu'un joueur rend visite au Conteur pendant le jour, invitez-le à choisir quel Conteur lui donnera son information.</li>
 
   <li>Une fois par partie, au crépuscule, si les deux Conteurs sont d'accord, le Conteur qui dit la vérité devient le Conteur qui ment, et le Conteur qui ment devient le Conteur qui dit la vérité.</li>
 
