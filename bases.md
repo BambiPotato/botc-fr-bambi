@@ -21,9 +21,7 @@ image: /images/logogold.png
 </div>
 
 <!-- ===== SOMMAIRE CLIQUABLE ===== -->
-<h2 style="color:#e0c99d; margin-bottom:10px;"><span id="top">Sommaire</span></h2>
-<hr class="explication">
-
+<h2 style="color:#e0c99d; margin-bottom:20px;"><span id="top">Sommaire</span></h2>
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8; padding-left:20px; font-weight:bold;">
   <li><a href="#les-bases" style="color:#e0c99d; text-decoration:none;">Les Bases</a></li>
   <li><a href="#quest-ce-que-ce-jeu" style="color:#e0c99d; text-decoration:none;">Qu’est-ce que ce jeu ?</a></li>
@@ -50,7 +48,7 @@ Pour préparer votre première partie :
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0;">
-1. Lisez <a href="/botc-fr-bambi/blood_on_the_clocktower.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Les Bases</a>. Ce chapitre vous donnera une vue d’ensemble de <em>Blood on the Clocktower</em>, afin de comprendre de quel type de jeu il s’agit. Si vous êtes déjà familier avec les jeux de déduction sociale tels que Loup-Garou ou Mafia, certains éléments vous sembleront familiers.<br><br>
+1. Lisez <a href="/botc-fr-bambi/blood_on_the_clocktower.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Les Bases</a>. <br> Ce chapitre vous donnera une vue d’ensemble de <em>Blood on the Clocktower</em>, afin de comprendre de quel type de jeu il s’agit. Si vous êtes déjà familier avec les jeux de déduction sociale tels que Loup-Garou ou Mafia, certains éléments vous sembleront familiers.<br><br>
 2. Lisez <a href="/botc-fr-bambi/installation.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Mise en place</a>. Ce chapitre explique les règles fondamentales du jeu. Vous apprendrez comment démarrer une partie, comment la terminer, et quoi faire entre les deux.<br><br>
 3. Lisez l’almanach des rôles <a href="/botc-fr-bambi/trouble_brewing.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Trouble Brewing</a>. <a href="/botc-fr-bambi/trouble_brewing.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Trouble Brewing</a> est le module le plus accessible de <em>Blood on the Clocktower</em>, et nous vous recommandons vivement de commencer par celui-ci.
 </p>
@@ -129,7 +127,7 @@ Marianna, Julian et Alex, assis côte à côte sur le même canapé et discutant
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-« Tu ne peux pas me tuer, répond Abdallah, parce que je suis le <a href="./tb_roles/saint.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Saint</a>. Si je suis exécuté, nous perdons tous. C’est forcément Sarah. »
+« Tu ne peux pas me tuer, répond Abdallah, parce que je suis le <a href="./tb_roles/saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a>. Si je suis exécuté, nous perdons tous. C’est forcément Sarah. »
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -137,7 +135,7 @@ Marianna, Julian et Alex, assis côte à côte sur le même canapé et discutant
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-« Eh bien, eh bien, dit Alex, c’est très pratique, tout ça, non ? Je suis l’<a href="./tb_roles/empate.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>, ce qui signifie que je sais que je suis assis à côté d’un joueur maléfique et d’un joueur bon. Donc, soit Julian est maléfique, soit c’est toi, Sarah. »
+« Eh bien, eh bien, dit Alex, c’est très pratique, tout ça, non ? Je suis l’<a href="./tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>, ce qui signifie que je sais que je suis assis à côté d’un joueur maléfique et d’un joueur bon. Donc, soit Julian est maléfique, soit c’est toi, Sarah. »
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -149,7 +147,7 @@ Lewis et Evin, de l’autre côté de la pièce, restent silencieux. Lewis est l
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Finalement, Doug prend la parole. « Je suis le <a href="./tb_roles/cuisinier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a>, dit-il. Je sais que deux joueurs maléfiques sont assis côte à côte. Je pense que ce sont Marianna et Julian. Ou peut-être Alex et Sarah. Cela dit, Sarah et Lachlan sont assis l’un à côté de l’autre et chuchotent on ne sait quoi depuis tout à l’heure. C’est peut-être eux, la paire maléfique. Quoi qu’il en soit, j’aimerais exécuter Sarah. »
+Finalement, Doug prend la parole. « Je suis le <a href="./tb_roles/tb_role_cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a>, dit-il. Je sais que deux joueurs maléfiques sont assis côte à côte. Je pense que ce sont Marianna et Julian. Ou peut-être Alex et Sarah. Cela dit, Sarah et Lachlan sont assis l’un à côté de l’autre et chuchotent on ne sait quoi depuis tout à l’heure. C’est peut-être eux, la paire maléfique. Quoi qu’il en soit, j’aimerais exécuter Sarah. »
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -157,22 +155,22 @@ Après encore quelques minutes de discussions animées, le Conteur entre dans le
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le Conteur demande à tous les joueurs de fermer les yeux. Le Conteur fait le tour du cercle et, un par un, tapote l’épaule de certains joueurs. Ces joueurs ouvrent les yeux pour utiliser les capacités spéciales de leur rôle. Evin, le <a href="./tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a>, se réveille et désigne Julian, indiquant que Julian est protégé de l’attaque du Démon cette nuit. Le Conteur fait ensuite signe à Evin de refermer les yeux. Ben, le Démon (le <a href="./tb_roles/diablotin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>), se réveille et désigne Doug, le <a href="./tb_roles/cuisinier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a>, indiquant qu’il souhaite attaquer Doug.
+Le Conteur demande à tous les joueurs de fermer les yeux. Le Conteur fait le tour du cercle et, un par un, tapote l’épaule de certains joueurs. Ces joueurs ouvrent les yeux pour utiliser les capacités spéciales de leur rôle. Evin, le <a href="./tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a>, se réveille et désigne Julian, indiquant que Julian est protégé de l’attaque du Démon cette nuit. Le Conteur fait ensuite signe à Evin de refermer les yeux. Ben, le Démon (le <a href="./tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>), se réveille et désigne Doug, le <a href="./tb_roles/tb_role_cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a>, indiquant qu’il souhaite attaquer Doug.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Lachlan, l’<a href="./tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> maléfique, se réveille et pointe Julian, après avoir entendu Julian murmurer qu’il est le <a href="./tb_roles/fossoyeur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a>, un rôle qui apprend quel rôle a été exécuté. Julian est maintenant empoisonné et peut recevoir de fausses informations cette nuit.
+Lachlan, l’<a href="./tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> maléfique, se réveille et pointe Julian, après avoir entendu Julian murmurer qu’il est le <a href="./tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a>, un rôle qui apprend quel rôle a été exécuté. Julian est maintenant empoisonné et peut recevoir de fausses informations cette nuit.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Effectivement, lorsque Julian se réveille plus tard dans la nuit, le Conteur lui indique que Sarah était l’<a href="./tb_roles/ivrogne.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Ivrogne</a>, un rôle bon, alors que Sarah était en réalité la <a href="./tb_roles/femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme écarlate</a>.<br>
+Effectivement, lorsque Julian se réveille plus tard dans la nuit, le Conteur lui indique que Sarah était l’<a href="./tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>, un rôle bon, alors que Sarah était en réalité la <a href="./tb_roles/femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme écarlate</a>.<br>
 Une fois la nuit terminée, tous les joueurs ouvrent les yeux, et le Conteur annonce au groupe que Doug est mort pendant la nuit.<br>
 « Mince » dit Doug.<br>
-« Ah ah ! s’exclame Julian. Sarah n’était pas la <a href="./tb_roles/femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme écarlate</a> ! Elle était l’<a href="./tb_roles/ivrogne.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Ivrogne</a> ! Sarah était du côté du Bien, ce qui signifie que soit Abdallah, soit Marianna ment ! »
+« Ah ah ! s’exclame Julian. Sarah n’était pas la <a href="./tb_roles/femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme écarlate</a> ! Elle était l’<a href="./tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> ! Sarah était du côté du Bien, ce qui signifie que soit Abdallah, soit Marianna ment ! »
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Lachlan, l’<a href="./tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> maléfique, est satisfait : la désinformation reçue par le <a href="./tb_roles/fossoyeur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a> empoisonné a permis à l’équipe du Mal de se remettre de la perte initiale de Sarah. Lachlan ajoute : « Amy, pourquoi ne dirais-tu pas au groupe ce que tu m’as confié tout à l’heure en privé ? Tu es un rôle puissant et tu pourrais être très utile à nous autres, l’équipe du Bien. »
+Lachlan, l’<a href="./tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> maléfique, est satisfait : la désinformation reçue par le <a href="./tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a> empoisonné a permis à l’équipe du Mal de se remettre de la perte initiale de Sarah. Lachlan ajoute : « Amy, pourquoi ne dirais-tu pas au groupe ce que tu m’as confié tout à l’heure en privé ? Tu es un rôle puissant et tu pourrais être très utile à nous autres, l’équipe du Bien. »
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -185,9 +183,9 @@ Ben, le Démon, répond : « Bonne idée ! Je pense que Marianna est le Démon. 
 « Peut-être que c’est Marianna, dit Amy, mais Lewis est beaucoup trop discret à mon goût. Qu’est-ce qu’il cache ? »<br>
 « Je suis le <a href="./tb_roles/soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a> ! dit Lewis. Je n’ai rien dit parce que je voulais que le Démon m’attaque. Je suis protégé du Démon, il ne peut donc pas me tuer. »<br>
 « Je fais confiance à Lewis, dit Ben. Je suis la <a href="./tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a>, et je sais que Lewis est le <a href="./tb_roles/soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a>. »<br>
-« J’ai un bon pressentiment à propos de Lewis aussi, dit Evin. Je suis le <a href="./tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a>, et j’ai protégé Julian la nuit dernière. Nous avons besoin que notre <a href="./tb_roles/fossoyeur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a> survive. Même s’il a l’air un peu louche. »<br>
-« Mais attendez ! dit Amy. Si Sarah est l’<a href="./tb_roles/ivrogne.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Ivrogne</a>, alors cela signifie qu’Abdallah ment ! On ne peut pas avoir à la fois un <a href="./tb_roles/ivrogne.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Ivrogne</a> et un <a href="./tb_roles/saint.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Saint</a> ! C’est Abdallah ! »<br>
-« Je suis désolé, mais tu te trompes, répond Abdallah. Je pense que Sarah est en fait maléfique, et que notre <a href="./tb_roles/fossoyeur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a> ment. Faites-moi confiance. »<br>
+« J’ai un bon pressentiment à propos de Lewis aussi, dit Evin. Je suis le <a href="./tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a>, et j’ai protégé Julian la nuit dernière. Nous avons besoin que notre <a href="./tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a> survive. Même s’il a l’air un peu louche. »<br>
+« Mais attendez ! dit Amy. Si Sarah est l’<a href="./tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>, alors cela signifie qu’Abdallah ment ! On ne peut pas avoir à la fois un <a href="./tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> et un <a href="./tb_roles/saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a> ! C’est Abdallah ! »<br>
+« Je suis désolé, mais tu te trompes, répond Abdallah. Je pense que Sarah est en fait maléfique, et que notre <a href="./tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a> ment. Faites-moi confiance. »<br>
 « Non, dit Amy. Je décide d’utiliser ma capacité de <a href="./tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a> sur Abdallah. »
 </p>
 
@@ -229,12 +227,12 @@ Quel suspense !
 • 20 Jetons de vie<br>
 • 18+ Jetons de vote<br><br>
 <strong>Voyageurs et Légendaires :</strong><br>
-• 1 Almanach des rôles Voyageurs & Légendaires<br>
-• 1 Boîte de rangement des jetons Voyageurs & Légendaires<br>
-• 15 Jetons de rôle Voyageur<br>
-• 14 Jetons de rappel Voyageur<br>
-• 12 Jetons de rôle Légendaire<br>
-• 11 Jetons de rappel Légendaire<br><br>
+• 1 Almanach des rôles <a href="/botc-fr-bambi/voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a> & <a href="/botc-fr-bambi/legendaire.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Légendaires</a><br>
+• 1 Boîte de rangement des jetons <a href="/botc-fr-bambi/voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a> & <a href="/botc-fr-bambi/legendaire.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Légendaires</a><br>
+• 15 Jetons de rôle <a href="/botc-fr-bambi/voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a><br>
+• 14 Jetons de rappel <a href="/botc-fr-bambi/voyageurs/voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a><br>
+• 12 Jetons de rôle <a href="/botc-fr-bambi/legendaire.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Légendaire</a><br>
+• 11 Jetons de rappel <a href="/botc-fr-bambi/legendaire.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Légendaire</a><br><br>
 <strong>Trouble Brewing :</strong><br>
 • 1 Almanach des rôles <a href="/botc-fr-bambi/trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a><br>
 • 1 Boîte de module <a href="/botc-fr-bambi/trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a><br>
@@ -250,7 +248,7 @@ Quel suspense !
 • 25 Jetons de rôle Bad Moon Rising<br>
 • 42 Jetons de rappel Bad Moon Rising<br><br>
 <strong>Sects & Violets :</strong><br>
-• 1 Almanach des rôles <a href="/botc-fr-bambi/sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a><br><br>
+• 1 Almanach des rôles <a href="/botc-fr-bambi/sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a><br>
 • 1 Boîte de module Sects & Violets<br>
 • 1 Fiche de nuit Sects & Violets<br>
 • 20 Fiches de rôles Sects & Violets<br>
@@ -263,7 +261,7 @@ Quel suspense !
 <hr>
 
 <p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7; margin-top:0;">
-La Place du Village est un plateau que vous placez sur le sol, au centre du cercle formé par les joueurs. Vous l’utilisez pour suivre quels joueurs sont en vie et lesquels sont morts, à l’aide des jetons de vie, disposés de manière à correspondre approximativement à la position des joueurs autour du cercle. Un jeton de vie placé face visible représente un joueur en vie, tandis qu’un jeton de vie retourné représente un joueur mort.
+La Place du Village est un plateau que vous placez sur le sol, au centre du cercle formé par les joueurs. <br> Vous l’utilisez pour suivre quels joueurs sont en vie et lesquels sont morts, à l’aide des jetons de vie, disposés de manière à correspondre approximativement à la position des joueurs autour du cercle. <br> Un jeton de vie placé face visible représente un joueur en vie, tandis qu’un jeton de vie retourné représente un joueur mort.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -279,7 +277,7 @@ Sous la Place du Village se trouve la fiche des Voyageurs. Cette fiche indique c
 <hr>
 
 <p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7; margin-top:0;">
-Le Grimoire est la boîte dans laquelle le jeu est fourni, maintenue par deux pinces métalliques en haut et en bas, formant un contenant semblable à un livre ouvert. Il vous aide, en tant que Conteur, à suivre quel joueur correspond à quel rôle, qui est en vie et qui est mort, quels joueurs doivent agir la nuit, qui est ivre ou empoisonné, ainsi que de nombreux autres éléments importants de la partie.
+Le Grimoire est la boîte dans laquelle le jeu est fourni, maintenue par deux pinces métalliques en haut et en bas, formant un contenant semblable à un livre ouvert. <br> Il vous aide, en tant que Conteur, à suivre quel joueur correspond à quel rôle, qui est en vie et qui est mort, quels joueurs doivent agir la nuit, qui est ivre ou empoisonné, ainsi que de nombreux autres éléments importants de la partie.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -287,8 +285,14 @@ Vous seul pouvez consulter le Grimoire, et vous l’utiliserez fréquemment tout
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-La disposition présentée ici correspond à la manière recommandée d’installer le Grimoire pour une personne droitière. Si vous êtes gaucher, il peut être utile d’inverser le contenu des côtés gauche et droit.
+La disposition présentée ici correspond à la manière recommandée d’installer le Grimoire pour une personne droitière. <br> Si vous êtes gaucher, il peut être utile d’inverser le contenu des côtés gauche et droit.
 </p>
+
+<div class="botc-note">
+Le côté gauche du Grimoire contient les jetons de tous les rôles présents dans la partie, disposés de manière à correspondre à la position réelle des joueurs autour du cercle.<br>
+<hr>  
+Vous y placez également les jetons de rappel afin de vous souvenir de ce qui est arrivé à un rôle, ou de ce qui doit lui arriver.
+</div>
 
 <!-- ===== PIED DE PAGE ET LIENS DE NAVIGATION ===== -->
 <hr class="explication">
@@ -302,3 +306,4 @@ Pour aller plus loin dans livre des règles :
   <li><a href="#top" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Retour en haut de la page ↑</a></li>
   <li><a href="/botc-fr-bambi/index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
 </ul>
+
