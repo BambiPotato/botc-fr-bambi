@@ -31,16 +31,16 @@ image: /images/logogold.png
 
 <h2 style="color:#5C2E1F; font-weight:bold;"> Sommaire</h2>
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li><a href="#rassembler"   style="color:#4ea3ff; font-weight:bold; text-decoration:none;">1. Rassemblez vos joueurs</a></li>
-  <li><a href="#grimoire"     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">2. Préparer le Grimoire</a></li>
-  <li><a href="#edition"      style="color:#4ea3ff; font-weight:bold; text-decoration:none;">3. Choisissez un module</a></li>
-  <li><a href="#place"        style="color:#4ea3ff; font-weight:bold; text-decoration:none;">4. Préparez la place du village</a></li>
-  <li><a href="#regles"       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">5. Lisez les règles aux nouveaux joueurs et joueuses</a></li>
-  <li><a href="#roles"        style="color:#4ea3ff; font-weight:bold; text-decoration:none;">6. Choisissez secrètement les rôles</a></li>
-  <li><a href="#ajustements"  style="color:#4ea3ff; font-weight:bold; text-decoration:none;">7. Ajoutez et retirez des rôles</a></li>
-  <li><a href="#rappels"      style="color:#4ea3ff; font-weight:bold; text-decoration:none;">8. Ajoutez les jetons de rappel au grimoire</a></li>
-  <li><a href="#distribution" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">9. Distribuez les jetons de rôle</a></li>
-  <li><a href="#placer"       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">10.Ajoutez les jetons de rôle au grimoire</a></li>
+  <li><a href="#rassembler"   style="color:#c59a3d; font-weight:bold; text-decoration:none;">1. Rassemblez vos joueurs</a></li>
+  <li><a href="#grimoire"     style="color:#c59a3d; font-weight:bold; text-decoration:none;">2. Préparer le Grimoire</a></li>
+  <li><a href="#edition"      style="color:#c59a3d; font-weight:bold; text-decoration:none;">3. Choisissez un module</a></li>
+  <li><a href="#place"        style="color:#c59a3d; font-weight:bold; text-decoration:none;">4. Préparez la place du village</a></li>
+  <li><a href="#regles"       style="color:#c59a3d; font-weight:bold; text-decoration:none;">5. Lisez les règles aux nouveaux joueurs et joueuses</a></li>
+  <li><a href="#roles"        style="color:#c59a3d; font-weight:bold; text-decoration:none;">6. Choisissez secrètement les rôles</a></li>
+  <li><a href="#ajustements"  style="color:#c59a3d; font-weight:bold; text-decoration:none;">7. Ajoutez et retirez des rôles</a></li>
+  <li><a href="#rappels"      style="color:#c59a3d; font-weight:bold; text-decoration:none;">8. Ajoutez les jetons de rappel au grimoire</a></li>
+  <li><a href="#distribution" style="color:#c59a3d; font-weight:bold; text-decoration:none;">9. Distribuez les jetons de rôle</a></li>
+  <li><a href="#placer"       style="color:#c59a3d; font-weight:bold; text-decoration:none;">10.Ajoutez les jetons de rôle au grimoire</a></li>
 </ul>
 
 <hr>
