@@ -464,15 +464,15 @@ loadQuestion();
 <hr class="explication">
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.8;">
-<li>
-N'hésitez pas à consulter la section 
-<a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-pour découvrir tous les rôles en détail
-</li>
-<li>
-<a href="#botc-quiz" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour au quiz ↑</a>
-</li>
-<li>
-<a href="/botc-fr-bambi/" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a>
-</li>
+  <li>
+    N'hésitez pas à consulter la section 
+    <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a>
+    pour découvrir tous les rôles en détail.
+  </li>
+  <li>
+    <a href="#botc-quiz" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour au quiz ↑</a>
+  </li>
+  <li>
+    <a href="/botc-fr-bambi/index.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a>
+  </li>
 </ul>
