@@ -643,7 +643,7 @@ data-tooltip="Suis-nous sur Instagram">
     <td class="rules-cell">
       <a class="rules-link" href="./blood_on_the_clocktower.html">
         <div class="rules-title">Découvrir le jeu</div>
-        <div class="rules-sub">Son créateur l'esprit du jeu</div>
+        <div class="rules-sub">Son créateur et l'esprit du jeu</div>
       </a>
     </td>
 
