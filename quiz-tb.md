@@ -427,9 +427,9 @@ resultBox.style.display = "block";
 scoreElement.textContent = "Score : " + score + " / " + quizData.length;
 
 if (score === quizData.length) {
-message = "🏆 Score parfait ! Vous maîtrisez les règles de Trouble Brewing.";
+message = "🏆 Score parfait ! Vous maîtrisez les règles de niveau 1 de Trouble Brewing.";
 } else if (score >= 7) {
-message = "👏 Très bon score ! Vous avez une excellente maîtrise du jeu.";
+message = "👏 Très bon score ! Vous avez une bonne maîtrise des règles de niveau 1 de Trouble Brewing.";
 } else if (score >= 4) {
 message = "🙂 Score honorable ! Relisez les fiches de rôles pour consolider les règles qui vous ont piégé.";
 } else {
