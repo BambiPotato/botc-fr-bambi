@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Les Bases
-description: Les bases du jeu Blodd on the Clocktower
+description: Les bases du jeu Blood on the Clocktower
 image: /images/logogold.png
 ---
 
