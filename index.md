@@ -588,34 +588,34 @@ data-tooltip="Suis-nous sur Instagram">
   <tr>
     <!-- Glossaire des termes -->
     <td>
-      <a href="./glossaire.html">
-        <span class="rg-media">
-          <img src="./images/logomini.png" alt="Icone BotC" style="width:60px; height:auto; margin:0 auto 8px auto; opacity:0.95; display:block;">
+      <a href="./glossaire.html" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; padding: 15px 10px;">
+        <span class="rg-media" style="margin-bottom: 12px;">
+          <img src="./images/logomini.png" alt="Icone BotC" style="width:70px; height:auto; opacity:0.95; display:block;">
         </span>
-        <span class="rg-title">Glossaire des termes</span>
-        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin-top:4px;">Liste des termes officiels en français</span>
+        <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px;">Glossaire des termes</span>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85;">Liste des termes officiels en français</span>
       </a>
     </td>
 
     <!-- Glossaire des termes anglais -->
     <td>
-      <a href="./glossaireengfr.html">
-        <span class="rg-media">
-          <img src="./images/logomini.png" alt="Icone BotC" style="width:60px; height:auto; margin:0 auto 8px auto; opacity:0.95; display:block;">
+      <a href="./glossaireengfr.html" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; padding: 15px 10px;">
+        <span class="rg-media" style="margin-bottom: 12px;">
+          <img src="./images/logomini.png" alt="Icone BotC" style="width:70px; height:auto; opacity:0.95; display:block;">
         </span>
-        <span class="rg-title">Glossaire des termes anglais</span>
-        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin-top:4px;">Termes anglais &amp; équivalents français</span>
+        <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px;">Glossaire des termes anglais</span>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85;">Termes anglais &amp; équivalents français</span>
       </a>
     </td>
 
     <!-- Conseils pour les Conteurs -->
     <td>
-      <a href="./conteur.html">
-        <span class="rg-media">
-          <img src="./images/logomini.png" alt="Icone BotC" style="width:60px; height:auto; margin:0 auto 8px auto; opacity:0.95; display:block;">
+      <a href="./conteur.html" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; padding: 15px 10px;">
+        <span class="rg-media" style="margin-bottom: 12px;">
+          <img src="./images/logomini.png" alt="Icone BotC" style="width:70px; height:auto; opacity:0.95; display:block;">
         </span>
-        <span class="rg-title">Conseils pour les Conteurs et Conteuses</span>
-        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin-top:4px;">Astuces, bonnes pratiques</span>
+        <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px;">Conseils pour les Conteurs et Conteuses</span>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85;">Astuces, bonnes pratiques</span>
       </a>
     </td>
   </tr>
@@ -623,12 +623,12 @@ data-tooltip="Suis-nous sur Instagram">
   <tr>
     <!-- Conseils & stratégies -->
     <td>
-      <a href="./strategie.html">
-        <span class="rg-media">
-          <img src="./images/logomini.png" alt="Icone BotC" style="width:60px; height:auto; margin:0 auto 8px auto; opacity:0.95; display:block;">
+      <a href="./strategie.html" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; padding: 15px 10px;">
+        <span class="rg-media" style="margin-bottom: 12px;">
+          <img src="./images/logomini.png" alt="Icone BotC" style="width:70px; height:auto; opacity:0.95; display:block;">
         </span>
-        <span class="rg-title">Conseils &amp; stratégies pour les joueurs et joueuses</span>
-        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin-top:4px;">Pistes de réflexion en partie</span>
+        <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px;">Conseils &amp; stratégies pour les joueurs et joueuses</span>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85;">Pistes de réflexion en partie</span>
       </a>
     </td>
 
@@ -657,34 +657,34 @@ data-tooltip="Suis-nous sur Instagram">
   <tr>
     <!-- Les bases -->
     <td>
-      <a href="./bases.html">
-        <span class="rg-media">
-          <img src="./images/logomini.png" alt="Icone BotC" style="width:60px; height:auto; margin:0 auto 8px auto; opacity:0.95; display:block;">
+      <a href="./bases.html" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; padding: 15px 10px;">
+        <span class="rg-media" style="margin-bottom: 12px;">
+          <img src="./images/logomini.png" alt="Icone BotC" style="width:70px; height:auto; opacity:0.95; display:block;">
         </span>
-        <span class="rg-title">Les bases</span>
-        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin-top:4px;">Les bases du jeu Blood on the Clocktower, tout ce que vous devez savoir</span>
+        <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px;">Les bases</span>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85;">Les bases du jeu Blood on the Clocktower, tout ce que vous devez savoir</span>
       </a>
     </td>
 
     <!-- Découvrir le jeu -->
     <td>
-      <a href="./blood_on_the_clocktower.html">
-        <span class="rg-media">
-          <img src="./images/logomini.png" alt="Icone BotC" style="width:60px; height:auto; margin:0 auto 8px auto; opacity:0.95; display:block;">
+      <a href="./blood_on_the_clocktower.html" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; padding: 15px 10px;">
+        <span class="rg-media" style="margin-bottom: 12px;">
+          <img src="./images/logomini.png" alt="Icone BotC" style="width:70px; height:auto; opacity:0.95; display:block;">
         </span>
-        <span class="rg-title">Découvrir le jeu</span>
-        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin-top:4px;">Son créateur et l'esprit du jeu</span>
+        <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px;">Découvrir le jeu</span>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85;">Son créateur et l'esprit du jeu</span>
       </a>
     </td>
 
     <!-- Explications des règles -->
     <td>
-      <a href="./regles.html">
-        <span class="rg-media">
-          <img src="./images/logomini.png" alt="Icone BotC" style="width:60px; height:auto; margin:0 auto 8px auto; opacity:0.95; display:block;">
+      <a href="./regles.html" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; padding: 15px 10px;">
+        <span class="rg-media" style="margin-bottom: 12px;">
+          <img src="./images/logomini.png" alt="Icone BotC" style="width:70px; height:auto; opacity:0.95; display:block;">
         </span>
-        <span class="rg-title">Explications des règles</span>
-        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin-top:4px;">Univers, signaux, déroulé</span>
+        <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px;">Explications des règles</span>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85;">Univers, signaux, déroulé</span>
       </a>
     </td>
   </tr>
@@ -692,34 +692,34 @@ data-tooltip="Suis-nous sur Instagram">
   <tr>
     <!-- Répartition du village -->
     <td>
-      <a href="./repartition.html">
-        <span class="rg-media">
-          <img src="./images/logomini.png" alt="Icone BotC" style="width:60px; height:auto; margin:0 auto 8px auto; opacity:0.95; display:block;">
+      <a href="./repartition.html" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; padding: 15px 10px;">
+        <span class="rg-media" style="margin-bottom: 12px;">
+          <img src="./images/logomini.png" alt="Icone BotC" style="width:70px; height:auto; opacity:0.95; display:block;">
         </span>
-        <span class="rg-title">Répartition du village</span>
-        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin-top:4px;">Configuration officielle</span>
+        <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px;">Répartition du village</span>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85;">Configuration officielle</span>
       </a>
     </td>
 
     <!-- Mise en place -->
     <td>
-      <a href="./installation.html">
-        <span class="rg-media">
-          <img src="./images/logomini.png" alt="Icone BotC" style="width:60px; height:auto; margin:0 auto 8px auto; opacity:0.95; display:block;">
+      <a href="./installation.html" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; padding: 15px 10px;">
+        <span class="rg-media" style="margin-bottom: 12px;">
+          <img src="./images/logomini.png" alt="Icone BotC" style="width:70px; height:auto; opacity:0.95; display:block;">
         </span>
-        <span class="rg-title">Mise en place</span>
-        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin-top:4px;">Mener une partie étape par étape</span>
+        <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px;">Mise en place</span>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85;">Mener une partie étape par étape</span>
       </a>
     </td>
 
     <!-- Mener une Partie -->
     <td>
-      <a href="./menerunepartie.html">
-        <span class="rg-media">
-          <img src="./images/logomini.png" alt="Icone BotC" style="width:60px; height:auto; margin:0 auto 8px auto; opacity:0.95; display:block;">
+      <a href="./menerunepartie.html" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; padding: 15px 10px;">
+        <span class="rg-media" style="margin-bottom: 12px;">
+          <img src="./images/logomini.png" alt="Icone BotC" style="width:70px; height:auto; opacity:0.95; display:block;">
         </span>
-        <span class="rg-title">Mener une Partie</span>
-        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin-top:4px;">Le guide complet pour orchestrer toutes les phases.</span>
+        <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px;">Mener une Partie</span>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85;">Le guide complet pour orchestrer toutes les phases.</span>
       </a>
     </td>
   </tr>
@@ -727,34 +727,34 @@ data-tooltip="Suis-nous sur Instagram">
   <tr>
     <!-- Capacités -->
     <td>
-      <a href="./capacite.html">
-        <span class="rg-media">
-          <img src="./images/logomini.png" alt="Icone BotC" style="width:60px; height:auto; margin:0 auto 8px auto; opacity:0.95; display:block;">
+      <a href="./capacite.html" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; padding: 15px 10px;">
+        <span class="rg-media" style="margin-bottom: 12px;">
+          <img src="./images/logomini.png" alt="Icone BotC" style="width:70px; height:auto; opacity:0.95; display:block;">
         </span>
-        <span class="rg-title">Capacités</span>
-        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin-top:4px;">Quand et comment elles s’appliquent</span>
+        <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px;">Capacités</span>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85;">Quand et comment elles s’appliquent</span>
       </a>
     </td>
 
     <!-- États -->
     <td>
-      <a href="./etats.html">
-        <span class="rg-media">
-          <img src="./images/logomini.png" alt="Icone BotC" style="width:60px; height:auto; margin:0 auto 8px auto; opacity:0.95; display:block;">
+      <a href="./etats.html" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; padding: 15px 10px;">
+        <span class="rg-media" style="margin-bottom: 12px;">
+          <img src="./images/logomini.png" alt="Icone BotC" style="width:70px; height:auto; opacity:0.95; display:block;">
         </span>
-        <span class="rg-title">États</span>
-        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin-top:4px;">Ivresse, empoisonnement…</span>
+        <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px;">États</span>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85;">Ivresse, empoisonnement…</span>
       </a>
     </td>
 
     <!-- Teensyville -->
     <td>
-      <a href="./teensyville.html">
-        <span class="rg-media">
-          <img src="./images/logomini.png" alt="Icone BotC" style="width:60px; height:auto; margin:0 auto 8px auto; opacity:0.95; display:block;">
+      <a href="./teensyville.html" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; padding: 15px 10px;">
+        <span class="rg-media" style="margin-bottom: 12px;">
+          <img src="./images/logomini.png" alt="Icone BotC" style="width:70px; height:auto; opacity:0.95; display:block;">
         </span>
-        <span class="rg-title">Teensyville</span>
-        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin-top:4px;">Format pour 5–6 joueurs</span>
+        <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px;">Teensyville</span>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85;">Format pour 5–6 joueurs</span>
       </a>
     </td>
   </tr>
@@ -762,12 +762,12 @@ data-tooltip="Suis-nous sur Instagram">
   <tr>
     <!-- Outil de script -->
     <td>
-      <a href="./outildescript.html">
-        <span class="rg-media">
-          <img src="./images/logomini.png" alt="Icone BotC" style="width:60px; height:auto; margin:0 auto 8px auto; opacity:0.95; display:block;">
+      <a href="./outildescript.html" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; padding: 15px 10px;">
+        <span class="rg-media" style="margin-bottom: 12px;">
+          <img src="./images/logomini.png" alt="Icone BotC" style="width:70px; height:auto; opacity:0.95; display:block;">
         </span>
-        <span class="rg-title">Outil de script</span>
-        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin-top:4px;">Créer des scripts personnalisés</span>
+        <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px;">Outil de script</span>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85;">Créer des scripts personnalisés</span>
       </a>
     </td>
 
@@ -776,8 +776,6 @@ data-tooltip="Suis-nous sur Instagram">
     <td style="background: transparent !important; border: none !important; box-shadow: none !important;"></td>
   </tr>
 </table>
-
-
 
 
 <!-- ====== SCRIPTS PERSONNALISÉS ====== -->
