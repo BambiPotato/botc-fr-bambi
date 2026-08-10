@@ -134,18 +134,18 @@ Le <a href="./conteur.html" style="color:#d4a76a; font-weight:bold; text-decorat
 <hr class="section">
 
 <!-- ======================= -->
-<!-- ÉDITIONS & RÔLES -->
+<!-- MODULES & RÔLES -->
 <!-- ======================= -->
 
 <h2 style="font-size:26px;">
-   <span style="color:#b58b52;">Éditions, rôles spéciaux et contenus</span>
+   <span style="color:#b58b52;">Modules, rôles spéciaux et contenus</span>
 </h2>
 
 <ul style="color:#f5f5f5; font-size:19px; line-height:1.9;">
 
   <!-- ÉDITIONS PRINCIPALES -->
   <li>
-    <strong>Éditions principales</strong> :
+    <strong>Modules principaux</strong> :
     <br>
      <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a> – idéale pour découvrir le jeu.
     <br>
@@ -201,7 +201,7 @@ Le <a href="./conteur.html" style="color:#d4a76a; font-weight:bold; text-decorat
 <div class="botc-note">
 <p style="color:#f5f5f5; font-size:18px; line-height:1.8; text-align:justify;">
 
-  <strong>Steven Medway</strong> est l’auteur de <em>Blood on the Clocktower</em>.  
+  <strong>Steven Medway</strong> est le créateur du jeu <em>Blood on the Clocktower</em>.  
   Il a longuement testé le jeu en convention et en soirées, pour rendre la déduction sociale plus fluide, moins frustrante et plus narrative, avec des joueurs qui restent impliqués même après leur mort.
 
   <br><br>
