@@ -584,39 +584,43 @@ data-tooltip="Suis-nous sur Instagram">
 
 <hr>
 
-<table class="rules-table">
+<table class="roles-grid" role="presentation" aria-label="Informations sur le jeu">
   <tr>
-    <td class="rules-cell">
-      <a class="rules-link" href="./glossaire.html" aria-label="Glossaire des termes français">
-        <div class="rules-title">Glossaire des termes</div>
-        <div class="rules-sub">Liste des termes officiels en français</div>
+    <!-- Glossaire des termes -->
+    <td>
+      <a href="./glossaire.html">
+        <span class="rg-title">Glossaire des termes</span>
+        <span class="rg-sub">Liste des termes officiels en français</span>
       </a>
     </td>
 
-    <td class="rules-cell">
-      <a class="rules-link" href="./glossaireengfr.html" aria-label="Glossaire des termes anglais">
-        <div class="rules-title">Glossaire des termes anglais</div>
-        <div class="rules-sub">Termes anglais &amp; équivalents français</div>
+    <!-- Glossaire des termes anglais -->
+    <td>
+      <a href="./glossaireengfr.html">
+        <span class="rg-title">Glossaire des termes anglais</span>
+        <span class="rg-sub">Termes anglais &amp; équivalents français</span>
       </a>
     </td>
 
-    <td class="rules-cell">
-      <a class="rules-link" href="./conteur.html" aria-label="Conseils pour les Conteurs et Conteuses">
-        <div class="rules-title">Conseils pour les Conteurs et Conteuses</div>
-        <div class="rules-sub">Astuces, bonnes pratiques</div>
+    <!-- Conseils pour les Conteurs -->
+    <td>
+      <a href="./conteur.html">
+        <span class="rg-title">Conseils pour les Conteurs et Conteuses</span>
+        <span class="rg-sub">Astuces, bonnes pratiques</span>
       </a>
     </td>
   </tr>
 
   <tr>
-    <td class="rules-cell">
-      <a class="rules-link" href="./strategie.html" aria-label="Conseils et stratégies pour les joueurs et joueuses">
-        <div class="rules-title">Conseils &amp; stratégies pour les joueurs et joueuses</div>
-        <div class="rules-sub">Pistes de réflexion en partie</div>
+    <!-- Conseils & stratégies -->
+    <td>
+      <a href="./strategie.html">
+        <span class="rg-title">Conseils &amp; stratégies pour les joueurs et joueuses</span>
+        <span class="rg-sub">Pistes de réflexion en partie</span>
       </a>
     </td>
 
-    <!-- Cases vides transparentes pour garder les 3 colonnes parfaites -->
+    <!-- Cases vides invisibles pour alignement parfait -->
     <td style="background: transparent !important; border: none !important; box-shadow: none !important;"></td>
     <td style="background: transparent !important; border: none !important; box-shadow: none !important;"></td>
   </tr>
@@ -637,89 +641,100 @@ data-tooltip="Suis-nous sur Instagram">
 
 <hr>
 
-<table class="rules-table">
+<table class="roles-grid" role="presentation" aria-label="Livre des règles">
   <tr>
-    <td class="rules-cell">
-      <a class="rules-link" href="./bases.html">
-        <div class="rules-title">Les bases</div>
-        <div class="rules-sub">Les bases du jeu Blood on the Clocktower, tout ce que vous devez savoir</div>
+    <!-- Les bases -->
+    <td>
+      <a href="./bases.html">
+        <span class="rg-title">Les bases</span>
+        <span class="rg-sub">Les bases du jeu Blood on the Clocktower, tout ce que vous devez savoir</span>
       </a>
     </td>
 
-    <td class="rules-cell">
-      <a class="rules-link" href="./blood_on_the_clocktower.html">
-        <div class="rules-title">Découvrir le jeu</div>
-        <div class="rules-sub">Son créateur et l'esprit du jeu</div>
+    <!-- Découvrir le jeu -->
+    <td>
+      <a href="./blood_on_the_clocktower.html">
+        <span class="rg-title">Découvrir le jeu</span>
+        <span class="rg-sub">Son créateur et l'esprit du jeu</span>
       </a>
     </td>
 
-    <td class="rules-cell">
-      <a class="rules-link" href="./regles.html">
-        <div class="rules-title">Explications des règles</div>
-        <div class="rules-sub">Univers, signaux, déroulé</div>
+    <!-- Explications des règles -->
+    <td>
+      <a href="./regles.html">
+        <span class="rg-title">Explications des règles</span>
+        <span class="rg-sub">Univers, signaux, déroulé</span>
       </a>
     </td>
   </tr>
 
   <tr>
-    <td class="rules-cell">
-      <a class="rules-link" href="./repartition.html">
-        <div class="rules-title">Répartition du village</div>
-        <div class="rules-sub">Configuration officielle</div>
+    <!-- Répartition du village -->
+    <td>
+      <a href="./repartition.html">
+        <span class="rg-title">Répartition du village</span>
+        <span class="rg-sub">Configuration officielle</span>
       </a>
     </td>
 
-    <td class="rules-cell">
-      <a class="rules-link" href="./installation.html">
-        <div class="rules-title">Mise en place</div>
-        <div class="rules-sub">Mener une partie étape par étape</div>
+    <!-- Mise en place -->
+    <td>
+      <a href="./installation.html">
+        <span class="rg-title">Mise en place</span>
+        <span class="rg-sub">Mener une partie étape par étape</span>
       </a>
     </td>
 
-    <td class="rules-cell">
-      <a class="rules-link" href="./menerunepartie.html">
-        <div class="rules-title">Mener une Partie</div>
-        <div class="rules-sub">Le guide complet pour orchestrer toutes les phases.</div>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td class="rules-cell">
-      <a class="rules-link" href="./capacite.html">
-        <div class="rules-title">Capacités</div>
-        <div class="rules-sub">Quand et comment elles s’appliquent</div>
-      </a>
-    </td>
-
-    <td class="rules-cell">
-      <a class="rules-link" href="./etats.html">
-        <div class="rules-title">États</div>
-        <div class="rules-sub">Ivresse, empoisonnement…</div>
-      </a>
-    </td>
-
-    <td class="rules-cell">
-      <a class="rules-link" href="./teensyville.html">
-        <div class="rules-title">Teensyville</div>
-        <div class="rules-sub">Format pour 5–6 joueurs</div>
+    <!-- Mener une Partie -->
+    <td>
+      <a href="./menerunepartie.html">
+        <span class="rg-title">Mener une Partie</span>
+        <span class="rg-sub">Le guide complet pour orchestrer toutes les phases.</span>
       </a>
     </td>
   </tr>
 
   <tr>
-    <td class="rules-cell">
-      <a class="rules-link" href="./outildescript.html">
-        <div class="rules-title">Outil de script</div>
-        <div class="rules-sub">Créer des scripts personnalisés</div>
+    <!-- Capacités -->
+    <td>
+      <a href="./capacite.html">
+        <span class="rg-title">Capacités</span>
+        <span class="rg-sub">Quand et comment elles s’appliquent</span>
       </a>
     </td>
 
-    <!-- Cases vides transparentes pour équilibrer la dernière ligne -->
+    <!-- États -->
+    <td>
+      <a href="./etats.html">
+        <span class="rg-title">États</span>
+        <span class="rg-sub">Ivresse, empoisonnement…</span>
+      </a>
+    </td>
+
+    <!-- Teensyville -->
+    <td>
+      <a href="./teensyville.html">
+        <span class="rg-title">Teensyville</span>
+        <span class="rg-sub">Format pour 5–6 joueurs</span>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <!-- Outil de script -->
+    <td>
+      <a href="./outildescript.html">
+        <span class="rg-title">Outil de script</span>
+        <span class="rg-sub">Créer des scripts personnalisés</span>
+      </a>
+    </td>
+
+    <!-- Cases vides invisibles pour alignement parfait -->
     <td style="background: transparent !important; border: none !important; box-shadow: none !important;"></td>
     <td style="background: transparent !important; border: none !important; box-shadow: none !important;"></td>
   </tr>
 </table>
+
 
 
 
