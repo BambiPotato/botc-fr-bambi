@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Quiz de règles — Blood on the Clocktower
-description: Testez vos connaissances des règles sur le module Trouble Brewing.
+title: "🧠 Petit Quiz Blood on the Clocktower : module Trouble Brewing"
+description: "Testez vos connaissances des règles sur le module Trouble Brewing."
 image: /images/logogold.png
 ---
+
 
 <p style="text-align:left;">
   <a href="/botc-fr-bambi/">
