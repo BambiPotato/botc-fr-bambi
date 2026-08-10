@@ -12,6 +12,7 @@ image: /images/logogold.png
   </a>
 </p>
 
+
 <hr class="explication">
 
 <style>
