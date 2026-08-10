@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Guide d'utilisation de BOTC App
-description: Tutoriel complet pour jouer à Blood on the Clocktower sur l'application officielle.
+description: Tutoriel complet pour jouer à Blood on the Clocktower en ligne sur l'application officielle.
 image: /images/logogold.png
 ---
 
@@ -18,17 +18,100 @@ image: /images/logogold.png
 
 
 <style>
-/* Disposition générale */
+/* En-tête de page principal */
+.guide-header {
+  max-width: 1200px;
+  margin: 20px auto 30px auto;
+  padding: 0 10px;
+}
+
+.guide-tag {
+  display: inline-block;
+  background: rgba(255, 217, 125, 0.15);
+  border: 1px solid #ffd97d;
+  color: #ffd97d;
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 1.5px;
+  padding: 4px 10px;
+  border-radius: 4px;
+  text-transform: uppercase;
+  margin-bottom: 12px;
+}
+
+.guide-main-title {
+  color: #fffdf0 !important;
+  font-size: 42px !important;
+  font-weight: 900 !important;
+  font-style: italic !important;
+  text-transform: uppercase !important;
+  margin: 0 0 12px 0;
+  text-shadow: 3px 3px 0px #000000, 1px 1px 0px #000000 !important;
+  letter-spacing: 1px;
+  line-height: 1.1;
+}
+
+.guide-subtitle {
+  color: #e2d3f3 !important;
+  font-size: 17px;
+  line-height: 1.5;
+  margin-bottom: 25px;
+  max-width: 800px;
+}
+
+/* Bloc Vidéo Tuto */
+.video-container-card {
+  background: #1c102e;
+  border: 1px solid #b58b52;
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 35px;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.6);
+  max-width: 700px;
+}
+
+.video-badge {
+  display: inline-block;
+  background: #ff6b6b;
+  color: #ffffff;
+  font-size: 11px;
+  font-weight: 900;
+  padding: 3px 10px;
+  border-radius: 4px;
+  text-transform: uppercase;
+  margin-bottom: 12px;
+  letter-spacing: 0.5px;
+}
+
+.video-wrapper {
+  position: relative;
+  padding-bottom: 56.25%; /* Ratio 16:9 */
+  height: 0;
+  overflow: hidden;
+  border-radius: 8px;
+  border: 1px solid rgba(255, 217, 125, 0.3);
+}
+
+.video-wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+/* Disposition générale du guide */
 .guide-container {
   display: flex;
   gap: 30px;
   max-width: 1200px;
-  margin: 30px auto;
+  margin: 0 auto;
   color: #f0e2ca;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
 }
 
-/* Sommaire latéral fixe à gauche */
+/* Sommaire latéral fixe */
 .guide-sidebar {
   width: 280px;
   flex-shrink: 0;
@@ -46,7 +129,7 @@ image: /images/logogold.png
 
 .guide-sidebar h3 {
   color: #ffd97d !important;
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 800;
   font-style: italic;
   letter-spacing: 1.5px;
@@ -72,7 +155,7 @@ image: /images/logogold.png
 }
 
 .guide-sidebar a {
-  color: #e2d3f3 !important;
+  color: #ffffff !important; /* Texte de menu en Blanc Pur ultra lisible */
   text-decoration: none;
   font-size: 14px;
   transition: all 0.2s ease;
@@ -81,7 +164,7 @@ image: /images/logogold.png
 }
 
 .guide-sidebar a:hover {
-  color: #ffffff !important;
+  color: #ffd97d !important;
   padding-left: 5px;
   text-shadow: 0 0 8px rgba(255, 217, 125, 0.6);
 }
@@ -126,7 +209,7 @@ image: /images/logogold.png
   box-shadow: 0 4px 12px rgba(0,0,0,0.6);
 }
 
-/* TITRES STYLE MODÈLE : CRÈME/BLANC AVEC OMBRE NETTE */
+/* TITRES STYLE MODÈLE : COULEUR CRÈME/BLANC LUMINEUX (PLUS AUCUN ROUGE) */
 .step-title {
   color: #fffdf0 !important;
   font-size: 28px !important;
@@ -136,6 +219,15 @@ image: /images/logogold.png
   margin: 0;
   text-shadow: 3px 3px 0px #000000, 1px 1px 0px #000000 !important;
   letter-spacing: 1px;
+}
+
+/* Sous-titres à l'intérieur des étapes */
+.step-text h4 {
+  color: #ffd97d !important;
+  font-size: 18px !important;
+  font-weight: 800 !important;
+  margin-top: 0;
+  margin-bottom: 8px;
 }
 
 /* Grille pour sous-étapes avec image + texte */
@@ -184,13 +276,7 @@ image: /images/logogold.png
   box-shadow: 0 4px 15px rgba(0,0,0,0.4);
 }
 
-.step-media img, .step-media video {
-  width: 100%;
-  height: auto;
-  display: block;
-}
-
-/* Textes et encadrés */
+/* Textes et encadrés - Couleur de corps très lisible */
 .step-text {
   flex-grow: 1;
   color: #f0e2ca !important;
@@ -254,6 +340,24 @@ html {
 }
 </style>
 
+<!-- EN-TÊTE DU GUIDE -->
+<div class="guide-header" markdown="0">
+  <div class="guide-tag">GUIDE DU JOUEUR · BOTC.APP</div>
+  <h1 class="guide-main-title">COMMENT JOUER SUR BOTC.APP</h1>
+  <p class="guide-subtitle">
+    Vous trouverez ici tout ce dont vous avez besoin pour rejoindre une partie, parler aux autres joueurs et gérer votre grimoire — sur l'application officielle en ligne de <strong>Blood on the Clocktower</strong>.
+  </p>
+
+  <!-- CARTE VIDÉO -->
+  <div class="video-container-card">
+    <div class="video-badge">▶ TUTO VIDÉO</div>
+    <p style="margin-top: 0; font-weight: bold; color: #fffdf0;">Vous préférez une démonstration en vidéo ?</p>
+    <div class="video-wrapper">
+      <iframe src="https://www.youtube.com/embed/O2ksf5eTeSI" title="Tuto pour utiliser l'application BOTC" allowfullscreen></iframe>
+    </div>
+  </div>
+</div>
+
 <div class="guide-container" markdown="0">
 
   <!-- SOMMAIRE LATÉRAL -->
@@ -299,7 +403,7 @@ html {
     </ul>
   </nav>
 
-  <!-- CONTENU PRINCIPAL -->
+  <!-- CONTENU PRINCIPAL DU GUIDE -->
   <div class="guide-content">
 
     <!-- ÉTAPE 1 -->
@@ -344,7 +448,7 @@ html {
         <div class="step-row">
           <div class="step-media">[Image 1 : Liste des parties publiques]</div>
           <div class="step-text">
-            <h4 style="color: #ffd97d; margin-top: 0;">Rejoindre une partie publique</h4>
+            <h4>Rejoindre une partie publique</h4>
             <p>Une fois connecté, vous verrez une liste de parties publiques disponibles. Elles varient selon la langue, la difficulté, la phase actuelle et le type de jeu. Choisissez-en une pour rejoindre en tant que spectateur ou pour jouer. Posez vos questions au Conteur si besoin.</p>
           </div>
         </div>
@@ -352,7 +456,7 @@ html {
         <div class="step-row">
           <div class="step-media">[Image 2 : Invitation par lien]</div>
           <div class="step-text">
-            <h4 style="color: #ffd97d; margin-top: 0;">Rejoindre une partie privée</h4>
+            <h4>Rejoindre une partie privée</h4>
             <p>La plupart des Conteurs vous invitent avec un lien, et c’est tout ce dont vous avez besoin. Cela ressemble à :<br>
             <strong style="color: #ffd97d; font-size: 16px;">https://botc.app/join/66666666</strong></p>
           </div>
@@ -744,13 +848,13 @@ html {
         <div class="step-row">
           <div class="step-media">[Image 2 : Prise de note personnelle]</div>
           <div class="step-text">
-            Changer le jeton d'un joueur est une action **purement personnelle** : vous seul le voyez. Cela ne modifie le rôle de personne (même pas le vôtre) — c'est un outil idéal pour prendre des notes !
+            Changer le jeton d'un joueur est une action <strong>purement personnelle</strong> : vous seul le voyez. Cela ne modifie le rôle de personne (même pas le vôtre) — c'est un outil idéal pour prendre des notes !
           </div>
         </div>
         <div class="step-row">
           <div class="step-media">[Image 3 : Survol du cercle intérieur]</div>
           <div class="step-text">
-            Pour ajouter plusieurs jetons de rappel à un joueur, survolez son cercle intérieur jusqu'à ce qu'un **jeton violet vierge** apparaisse, puis cliquez dessus.
+            Pour ajouter plusieurs jetons de rappel à un joueur, survolez son cercle intérieur jusqu'à ce qu'un <strong>jeton violet vierge</strong> apparaisse, puis cliquez dessus.
           </div>
         </div>
         <div class="step-row">
@@ -762,7 +866,7 @@ html {
         <div class="step-row">
           <div class="step-media">[Image 5 : Rappels personnalisés]</div>
           <div class="step-text">
-            Vous pouvez également créer vos propres **jetons de rappel personnalisés**.
+            Vous pouvez également créer vos propres <strong>jetons de rappel personnalisés</strong>.
           </div>
         </div>
         <div class="step-row">
@@ -774,20 +878,24 @@ html {
       </div>
     </div>
 
-    <!-- ÉTAPE 15 -->
+    <!-- ÉTAPE 15 : DÉPANNAGE CAMÉRA / MICRO (PRÉCISION WINDOWS & MAC) -->
     <div id="step-15" class="step-card">
       <div class="step-header">
         <div class="step-number">15</div>
-        <h2 class="step-title">CAMÉRA OU MICRO QUI NE FONCTIONNE PAS</h2>
+        <h2 class="step-title">CAMÉRA OU MICRO QUI NE FONCTIONNE PAS ?</h2>
       </div>
       <div class="step-grid">
         <div class="step-row">
-          <div class="step-media">[Image 1 : Autorisations navigateur]</div>
+          <div class="step-media">[Image 1 : Rafraîchir la page / Autorisations]</div>
           <div class="step-text">
             <div class="action-box">
               <span class="action-badge">★ À FAIRE</span><br>
-              Commencez par rafraîchir la page (<span class="key-badge">F5</span> ou <span class="key-badge">CTRL</span> + <span class="key-badge">F5</span>).<br><br>
-              Vérifiez les autorisations de votre navigateur (icône de caméra/cadenas à gauche de la barre d'adresse URL) et assurez-vous que votre casque n'est pas en muet via un bouton physique.
+              Si vous rencontrez un problème audio ou vidéo, la première étape est de <strong>rafraîchir la page web</strong> :
+              <ul style="margin-top: 8px; margin-bottom: 8px; padding-left: 20px;">
+                <li><strong>Sur Windows / Linux :</strong> Appuyez sur <span class="key-badge">F5</span> ou forcez avec <span class="key-badge">CTRL</span> + <span class="key-badge">F5</span>.</li>
+                <li><strong>Sur Mac OS :</strong> Cliquez sur le bouton <strong>« Actualiser cette page » 🔄</strong> (la petite flèche qui tourne en rond à côté de la barre d'adresse de votre navigateur) ou faites <span class="key-badge">⌘ CMD</span> + <span class="key-badge">R</span>.</li>
+              </ul>
+              Vérifiez aussi les autorisations de votre navigateur (icône de cadenas 🔒 à gauche de l'URL) et assurez-vous que votre casque n'est pas coupé électriquement par un bouton physique.
             </div>
           </div>
         </div>
@@ -806,7 +914,7 @@ html {
           <div class="step-text">
             <div class="action-box">
               <span class="action-badge">★ À FAIRE</span><br>
-              Appuyez sur la touche <span class="key-badge">T</span> de votre clavier. Vous êtes probablement basculé sur la vue **Town Square (Place du Village)** — réappuyez sur <span class="key-badge">T</span> pour revenir en arrière.
+              Appuyez sur la touche <span class="key-badge">T</span> de votre clavier. Vous êtes probablement basculé sur la vue <strong>Town Square (Place du Village)</strong> — réappuyez sur <span class="key-badge">T</span> pour revenir en arrière.
             </div>
           </div>
         </div>
