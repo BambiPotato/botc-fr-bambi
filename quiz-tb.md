@@ -16,11 +16,11 @@ image: /images/logogold.png
 
 
 <h1 style="color:#b58b52; font-size:24px; font-weight:bold; text-shadow:2px 2px 6px #000; padding-left:16px; margin:0 0 10px;">
-Quiz de règles
+Petit Quiz 🧠 sur le module Trouble Brewing
 </h1>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7; padding-left:16px; margin:0 0 25px;">
-Testez vos connaissances sur les règles de <em>Blood on the Clocktower</em> et du script <strong style="color:#d4a76a;">Trouble Brewing</strong>.
+Testez vos connaissances sur les règles de niveau 1 du module <strong style="color:#d4a76a;">Trouble Brewing</strong>.
 </p>
 
 <style>
@@ -463,17 +463,16 @@ loadQuestion();
 
 <hr class="explication">
 
+
 <ul style="color:#e0c99d; font-size:18px; line-height:1.8;">
-<li>
-Consultez la section
-<a href="/botc-fr-bambi/installation.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Mise en place</a>
-pour apprendre à mener une partie.
-</li>
-<li>
-<a href="#botc-quiz" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Retour au quiz ↑</a>
-</li>
-<li>
-<a href="/botc-fr-bambi/" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a>
-</li>
+  <li>
+    Consultez la section 
+    <a href="/botc-fr-bambi/installation.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Mise en place</a>
+    pour apprendre à mener une partie.
+  </li>
+  <li>
+    <a href="/botc-fr-bambi/index.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a>
+  </li>
 </ul>
+
 
