@@ -14,6 +14,8 @@ image: /images/logogold.png
 
 
 <hr class="explication">
+
+
 <style>
 /* Disposition générale */
 .guide-container {
