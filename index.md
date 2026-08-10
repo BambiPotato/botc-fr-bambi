@@ -634,9 +634,16 @@ data-tooltip="Suis-nous sur Instagram">
 <table class="rules-table">
   <tr>
     <td class="rules-cell">
+      <a class="rules-link" href="./bases.html">
+        <div class="rules-title">Les bases</div>
+        <div class="rules-sub">Les bases du jeu Blood on the Clocktower, tout ce que vous devez savoir</div>
+      </a>
+    </td>
+
+    <td class="rules-cell">
       <a class="rules-link" href="./blood_on_the_clocktower.html">
         <div class="rules-title">Découvrir le jeu</div>
-        <div class="rules-sub">Premiers pas et esprit du jeu</div>
+        <div class="rules-sub">Son créateur l'esprit du jeu</div>
       </a>
     </td>
 
@@ -653,16 +660,23 @@ data-tooltip="Suis-nous sur Instagram">
         <div class="rules-sub">Configuration officielle</div>
       </a>
     </td>
+  </tr>
 
+  <tr>
     <td class="rules-cell">
       <a class="rules-link" href="./installation.html">
         <div class="rules-title">Mise en place</div>
         <div class="rules-sub">Mener une partie étape par étape</div>
       </a>
     </td>
-  </tr>
 
-  <tr>
+    <td class="rules-cell">
+      <a class="rules-link" href="./menerunepartie.html">
+        <div class="rules-title">Mener une Partie</div>
+        <div class="rules-sub">Le guide complet pour orchestrer toutes les phases.</div>
+      </a>
+    </td>
+
     <td class="rules-cell">
       <a class="rules-link" href="./capacite.html">
         <div class="rules-title">Capacités</div>
@@ -676,7 +690,9 @@ data-tooltip="Suis-nous sur Instagram">
         <div class="rules-sub">Ivresse, empoisonnement…</div>
       </a>
     </td>
+  </tr>
 
+  <tr>
     <td class="rules-cell">
       <a class="rules-link" href="./teensyville.html">
         <div class="rules-title">Teensyville</div>
