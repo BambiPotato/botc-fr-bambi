@@ -16,6 +16,7 @@ image: /images/logogold.png
 <hr class="explication">
 
 
+
 <style>
 /* Disposition générale */
 .guide-container {
@@ -45,7 +46,7 @@ image: /images/logogold.png
 
 /* TITRES DE CATÉGORIES DANS LE SOMMAIRE */
 .guide-sidebar h3 {
-  color: #ffd97d !important; /* Jaune/Doré éclatant */
+  color: #ffd97d !important;
   font-size: 15px;
   font-weight: 800;
   font-style: italic;
@@ -110,7 +111,7 @@ image: /images/logogold.png
 }
 
 .step-number {
-  background: #ffd97d; /* Pastille Jaune */
+  background: #ffd97d;
   color: #1a0f2b;
   width: 42px;
   height: 42px;
@@ -124,9 +125,9 @@ image: /images/logogold.png
   box-shadow: 0 3px 10px rgba(0,0,0,0.5);
 }
 
-/* FIX DES TITRES PRINCIPAUX : Doré vif + Ombre nette */
+/* FIX DES TITRES PRINCIPAUX : Doré vif */
 .step-title {
-  color: #ffd97d !important; /* Jaune lumineux comme la pastille ! */
+  color: #ffd97d !important;
   font-size: 24px !important;
   font-weight: 900;
   font-style: italic;
@@ -179,7 +180,7 @@ image: /images/logogold.png
   display: block;
 }
 
-/* FIX DU TEXTE PRINCIPAL : Blanc/Beige clair */
+/* FIX DU TEXTE PRINCIPAL */
 .step-text, .step-text p, .step-text li {
   color: #f0e2ca !important;
   font-size: 15px;
@@ -187,7 +188,7 @@ image: /images/logogold.png
 }
 
 .step-text strong {
-  color: #ffe89c !important; /* Mots importants en doré très clair */
+  color: #ffe89c !important;
 }
 
 /* Encadré d'action */
@@ -228,55 +229,11 @@ html {
 }
 </style>
 
-<!-- ÉTAPE 1 : CRÉATION DE COMPTE -->
-    <div id="step-1" class="step-card">
-      <div class="step-header">
-        <div class="step-number">1</div>
-        <h2 class="step-title">S’ENREGISTRER SUR LE SITE</h2>
-      </div>
-      <div class="step-body">
-        <div class="step-media">[Image : Formulaire d'inscription botc.app]</div>
-        <div class="step-text">
-          <p>Pour jouer avec l’application <strong>Blood 🩸 on the Clocktower 🕰️</strong>, vous devez créer un <strong>compte gratuit</strong>.</p>
-          <p>Pour cela, <strong>suivez la procédure ci-dessous</strong> 😗 :</p>
-
-          <ul style="list-style: none; padding-left: 0;">
-            <li style="margin-bottom: 12px;">
-              <strong>1️⃣ Rendez-vous sur le site Blood on the Clocktower Online :</strong><br>
-              ▫️ <a href="https://botc.app/login" target="_blank" rel="noopener noreferrer" style="color: #ffd97d !important; font-weight: bold; text-decoration: underline;">https://botc.app/login 🔗</a>
-            </li>
-
-            <li style="margin-bottom: 12px;">
-              <strong>2️⃣ Cliquez sur Register :</strong><br>
-              ▫️ Renseignez tous les champs demandés <em>(adresse e-mail, mot de passe, pseudo)</em>.<br>
-              ➡️ <strong style="color: #ff6b6b !important;">Ne cliquez pas sur Patreon.</strong>
-            </li>
-
-            <li style="margin-bottom: 12px;">
-              <strong>3️⃣ Cliquez sur Register</strong>
-            </li>
-
-            <li style="margin-bottom: 12px;">
-              <strong>4️⃣ Une fois votre compte créé :</strong><br>
-              Entrez votre adresse <strong>e-mail</strong> et votre <strong>mot de passe</strong>, puis cliquez sur <strong>Login</strong>.
-            </li>
-          </ul>
-
-          <div class="action-box">
-            <span class="action-badge">👏🏻 BRAVO</span><br>
-            <strong>Vous venez de créer votre compte !</strong> Vous êtes prêt à passer à l'étape suivante pour rejoindre le village.
-          </div>
-        </div>
-      </div>
-    </div>
-
-
-
 <div class="guide-container" markdown="0">
 
   <!-- SOMMAIRE LATÉRAL -->
   <nav class="guide-sidebar">
-    <a href="https://botc.app/login" target="_blank" rel="noopener noreferrer" style="display: block; text-align: center; background: rgba(181,139,82,.25); border: 1px solid #b58b52; border-radius: 8px; color: #d4a76a; font-weight: bold; padding: 10px; margin-bottom: 15px; text-decoration: none;">
+    <a href="https://botc.app/login" target="_blank" rel="noopener noreferrer" style="display: block; text-align: center; background: rgba(181,139,82,.25); border: 1px solid #ffd97d; border-radius: 8px; color: #ffd97d; font-weight: bold; padding: 10px; margin-bottom: 15px; text-decoration: none;">
       🌐 Ouvrir BOTC.APP ↗
     </a>
 
@@ -335,13 +292,13 @@ html {
           <ul style="list-style: none; padding-left: 0;">
             <li style="margin-bottom: 12px;">
               <strong>1️⃣ Rendez-vous sur le site Blood on the Clocktower Online :</strong><br>
-              ▫️ <a href="https://botc.app/login" target="_blank" rel="noopener noreferrer" style="color: #d4a76a; font-weight: bold; text-decoration: underline;">https://botc.app/login 🔗</a>
+              ▫️ <a href="https://botc.app/login" target="_blank" rel="noopener noreferrer" style="color: #ffd97d !important; font-weight: bold; text-decoration: underline;">https://botc.app/login 🔗</a>
             </li>
 
             <li style="margin-bottom: 12px;">
               <strong>2️⃣ Cliquez sur Register :</strong><br>
               ▫️ Renseignez tous les champs demandés <em>(adresse e-mail, mot de passe, pseudo)</em>.<br>
-              ➡️ <strong style="color: #d45b5b;">Ne cliquez pas sur Patreon.</strong>
+              ➡️ <strong style="color: #ff6b6b !important;">Ne cliquez pas sur Patreon.</strong>
             </li>
 
             <li style="margin-bottom: 12px;">
@@ -624,6 +581,7 @@ html {
 
   </div>
 </div>
+
 
 <hr class="explication">
 
