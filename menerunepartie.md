@@ -77,8 +77,11 @@ S’il y a des <a href="./voyageurs/voyageurs.html" style="color:#9b59b6; font-w
 
 <h4 style="color:#e0c99d;"><span id="mener-la-nuit">MENER LA NUIT</span></h4>
 
+<p class="botc-flavour-text dropcap" style="margin-top:0;">  
+PENDANT LA PHASE DE NUIT les joueurs gardent les yeux fermés. Certains joueurs se réveilleront, ouvriront les yeux, afin d’obtenir des informations ou d’utiliser de puissantes capacités. 
+</p>  
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>PENDANT LA PHASE DE NUIT</strong>, les joueurs gardent les yeux fermés. Certains joueurs se réveilleront, ouvriront les yeux, afin d’obtenir des informations ou d’utiliser de puissantes capacités. En général, le Démon attaque pendant la nuit, tuant un ou plusieurs joueurs ou provoquant le chaos d’une autre manière.<br>
+En général, le Démon attaque pendant la nuit, tuant un ou plusieurs joueurs ou provoquant le chaos d’une autre manière.<br>
 Pour commencer la nuit, demandez aux joueurs de fermer les yeux. Dites « Tous les joueurs, fermez les yeux », ou une formule équivalente, et vérifiez si nécessaire que leurs yeux sont bien fermés. Ensuite, effectuez les actions indiquées sur la fiche de nuit, de haut en bas.<br>
 S’il s’agit de la première nuit et que vous jouez avec sept joueurs ou plus, effectuez les deux étapes suivantes :<br>
 1. <strong>RÉVEILLEZ TOUS LES SBIRES ET MONTREZ-LEUR LE DÉMON.</strong> Laissez les Sbires établir un contact visuel afin qu’ils sachent qui sont les autres Sbires. Montrez ensuite à chaque Sbire la tuile info <strong>VOICI LE DÉMON</strong> et pointez du doigt le Démon. Assurez-vous que tous les Sbires voient clairement la personne que vous désignez. Puis rendormez tous les Sbires.<br>
@@ -113,8 +116,8 @@ Certains rôles peuvent tuer d’autres rôles pendant la nuit. Si un rôle meur
 
 <h4 style="color:#e0c99d;"><span id="communiquer-pendant-la-nuit">COMMUNIQUER PENDANT LA NUIT</span></h4>
 
-<p class="botc-flavour-text dropcap" style="margin:0; color:#f5f5f5; font-size:20px; line-height:1.7;">
-<strong>VOUS UTILISEREZ DES SIGNES DE LA MAIN</strong> pour communiquer avec certains joueurs pendant la nuit.
+<p class="botc-flavour-text dropcap" style="margin:0;">
+VOUS UTILISEREZ DES SIGNES DE LA MAIN pour communiquer avec certains joueurs pendant la nuit.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -130,7 +133,7 @@ Comme tous les joueurs ont les yeux fermés et que le joueur qui se réveille po
 <strong>UN RÔLE PRÉCIS :</strong> Pour désigner un rôle précis, montrez le jeton de rôle correspondant ou pointez l’icône du rôle sur la fiche de rôles. (Assurez-vous de tenir le jeton suffisamment près du joueur pour qu’il puisse le voir, à environ trente centimètres ou moins.)
 </p>
 
-<div class="botc-note" style="background-color:#2a2a2a; border-left:4px solid #e0c99d; padding:15px; margin:20px 0; color:#f5f5f5; font-size:16px; line-height:1.6;">
+<div class="botc-note">
 Si un joueur est l’<a href="./tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>, qui se réveille chaque nuit pour apprendre combien de ses voisins sont maléfiques, et que cet <a href="./tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a> est assis à côté d’un joueur maléfique, la procédure complète est la suivante :<br>
 Tapotez deux fois le genou de l’<a href="./tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a> pour le réveiller. Levez un doigt pour indiquer « 1 ». Placez votre main devant vos yeux pour lui indiquer qu’il doit se rendormir.<br><br>
 Ou bien, si un joueur est la <a href="./tb_roles/gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a>, qui se réveille, choisit un joueur et apprend son rôle, la procédure complète est la suivante :<br>
@@ -141,26 +144,26 @@ Tapotez deux fois le genou de la <a href="./tb_roles/gardien.html" style="color:
 <h2 style="color:#e0c99d;"><span id="le-jour">LE JOUR</span></h2>
 <hr class="explication">
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<p class="botc-flavour-text dropcap" style="margin:0;">
 <strong>PENDANT LA PHASE DE JOUR</strong>, les joueurs discutent entre eux. Ils peuvent comploter, mentir, partager des informations, ou rester silencieux et tenter de comprendre qui est qui. Ils votent ensuite pour déterminer qui sera exécuté. Il s’agit de la partie principale du jeu, largement prise en charge par les joueurs eux-mêmes.
 </p>
 
 <h4 style="color:#e0c99d;"><span id="discussions">DISCUSSIONS</span></h4>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>POUR COMMENCER, LAISSEZ SIMPLEMENT LES JOUEURS DISCUTER ENTRE EUX.</strong> Vous avez très peu de choses à faire à ce stade. Les joueurs peuvent dire ce qu’ils veulent, ou ne rien dire du tout.<br>
+<p class="botc-flavour-text dropcap" style="margin:0;">
+POUR COMMENCER, LAISSEZ SIMPLEMENT LES JOUEURS DISCUTER ENTRE EUX. Vous avez très peu de choses à faire à ce stade. Les joueurs peuvent dire ce qu’ils veulent, ou ne rien dire du tout.<br>
 En règle générale, les joueurs bons révèlent leur rôle et les informations dont ils disposent, tandis que les joueurs maléfiques se font passer pour des rôles bons et diffusent de fausses informations. Il arrive aussi que des joueurs bons choisissent de tromper les autres. C’est à eux d’en décider.<br>
 Les joueurs peuvent s’adresser au groupe, chuchoter entre eux, ou même quitter leur place pour discuter en secret avec d’autres joueurs. Encouragez-les toutefois à rester dans le cercle pendant ces échanges.
 </p>
 
-<div class="botc-note" style="background-color:#2a2a2a; border-left:4px solid #e0c99d; padding:15px; margin:20px 0; color:#f5f5f5; font-size:16px; line-height:1.6;">
+<div class="botc-note">
 <strong>DES QUESTIONS ?</strong> Même si vous avez lu les règles principales lors de la mise en place, il est normal que certains joueurs vous posent des questions. Contrairement à d’autres jeux, BOTC ne demande pas à tous les joueurs de connaître toutes les règles avant de jouer. Nous privilégions la participation : soyez donc aussi disponible que possible face aux questions des joueurs. Si vous ne connaissez pas la réponse à une question générale, consultez le <a href="./glossaire.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">GLOSSAIRE</a>. Si la question concerne un rôle précis, reportez-vous à l’entrée dans l’almanach des rôles correspondant.<br><br>
 Vous pouvez répondre aux questions publiquement, afin que tout le groupe en profite, ou en privé. Les joueurs qui ont des questions sur la capacité de leur rôle préféreront parfois vous parler à l’écart, afin que personne ne sache qui ils incarnent ni ce qu’ils ont demandé.
 </div>
 
 <h4 style="color:#e0c99d;"><span id="nominations-et-votes">NOMINATIONS ET VOTES</span></h4>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<p class="botc-flavour-text dropcap" style="margin:0;">
 <strong>FAITES UN APPEL À NOMINATION</strong> lorsque vous estimez que le moment est venu. En général, le faire après cinq à dix minutes de discussion est approprié, mais certains groupes préféreront parler plus ou moins longtemps. Assurez-vous que tous les joueurs soient revenus à leur place.<br>
 Dites « J’appelle maintenant les nominations », ou une formule équivalente. Un joueur peut nommer quelqu’un en disant simplement « Je nomme Bob », ou quelque chose de similaire.<br>
 Lorsque vous entendez une nomination, répétez-la à voix haute, par exemple : « Sally a nommé Bob. » Cela permet à tous de savoir que vous avez bien entendu et accepté la nomination.<br><br>
@@ -191,7 +194,7 @@ Faites un dernier appel à nominations lorsque vous estimez qu’il y a eu suffi
 
 <h4 style="color:#e0c99d;"><span id="execution-et-mort">EXÉCUTION ET MORT</span></h4>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<p class="botc-flavour-text dropcap" style="margin:0;">
 <strong>EXÉCUTEZ LE JOUEUR QUI ÉTAIT SUR LE POINT DE MOURIR.</strong> Annoncez que ce joueur meurt.<br>
 Il n’y a qu’une seule exécution par jour. Après une exécution, la phase de jour est terminée.<br>
 Une exécution n’est pas obligatoire. Si les joueurs décident de ne nommer personne, si les joueurs nommés n’obtiennent pas suffisamment de votes, ou si le vote se termine par une égalité, la journée s’achève sans exécution.<br>
@@ -215,8 +218,8 @@ Une fois l’étape d’exécution terminée, prenez une trentaine de secondes p
 <h2 style="color:#e0c99d;"><span id="fin-de-partie">FIN DE PARTIE</span></h2>
 <hr class="explication">
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>UNE FOIS LA PREMIÈRE PHASE DE NUIT TERMINÉE</strong>, passez à la phase de jour, puis à une nouvelle phase de nuit. (Pensez à retourner la fiche de nuit sur le côté <strong>AUTRES NUITS</strong> et à réorganiser les jetons de nuit en conséquence à la fin de la première phase de jour.) Répétez ce cycle jusqu’à ce qu’une équipe l’emporte et que la partie prenne fin.<br>
+<p class="botc-flavour-text dropcap" style="margin:0;">
+UNE FOIS LA PREMIÈRE PHASE DE NUIT TERMINÉE, passez à la phase de jour, puis à une nouvelle phase de nuit. (Pensez à retourner la fiche de nuit sur le côté <strong>AUTRES NUITS</strong> et à réorganiser les jetons de nuit en conséquence à la fin de la première phase de jour.) Répétez ce cycle jusqu’à ce qu’une équipe l’emporte et que la partie prenne fin.<br>
 À Ravenswood... la mort n’est pas une fin. Si l’équipe du Bien l’emporte, tous les joueurs bons gagnent, qu’ils soient en vie ou morts. Si l’équipe du Mal l’emporte, tous les joueurs maléfiques gagnent, qu’ils soient en vie ou morts. Une équipe gagne, l’autre perd. Il n’y a jamais de joueurs neutres.<br>
 L’équipe du Bien l’emporte si le Démon meurt. Annoncez que le Bien a gagné et encouragez, si vous le souhaitez, poignées de main, embrassades ou cris de joie.<br>
 L’équipe du Mal l’emporte s’il ne reste plus que deux joueurs en vie. Annoncez que le Mal a gagné et encouragez, si vous le souhaitez, checks du poing, rires triomphants ou célébrations débridées. (L’équipe du Mal peut gagner soit parce que le Démon a tué un joueur, soit parce que le mauvais joueur a été exécuté.)<br>
@@ -224,7 +227,8 @@ Si les deux équipes devaient gagner en même temps, l’équipe du Bien l’emp
 </p>
 
 <div class="botc-note">
-<strong>LA PARTIE SE TERMINE-T-ELLE TOUJOURS LORSQUE LE DÉMON MEURT ?</strong> Non. Certains rôles, comme la <a href="./tb_roles/femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme écarlate</a>, permettent à la partie de continuer après la mort du Démon, sans que l’équipe du Bien sache ce qui s’est produit.<br>
+<strong>LA PARTIE SE TERMINE-T-ELLE TOUJOURS LORSQUE LE DÉMON MEURT ?</strong> Non. Certains rôles, comme la <a href="./tb_roles/femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme écarlate</a>, permettent à la partie de continuer après la mort du Démon, sans que l’équipe du Bien sache ce qui s’est produit.<br><br>
+  
 Dans certains modules intermédiaires ou avancés, plusieurs Démons peuvent être en vie en même temps. Tous les Démons doivent mourir pour que le Bien l’emporte. De plus, certains Démons peuvent être bons plutôt que maléfiques et l’équipe du Bien ne gagne que lorsque tous les Démons sont morts, quelle que soit leur équipe.
 </div>
 
