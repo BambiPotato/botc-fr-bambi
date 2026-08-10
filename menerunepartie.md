@@ -49,7 +49,7 @@ image: /images/logogold.png
 <h4 style="color:#e0c99d;"><span id="preparer-la-nuit">PRÉPARER LA NUIT</span></h4>
 
 <p class="botc-flavour-text dropcap" style="margin-top:0;">
-AVANT DE MENER LA PHASE DE NUIT en elle-même, vous devez d’abord préparer certaines choses. 
+<strong>AVANT DE MENER LA PHASE DE NUI</strong> en elle-même, vous devez d’abord préparer certaines choses. 
 </p>
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Dans l’idéal, les nuits doivent se dérouler rapidement et de manière fluide, avec un minimum de réflexion. Si vous préparez bien votre nuit, toute la réflexion a déjà été faite en amont. Les joueurs peuvent discuter librement entre eux pendant ce temps.<br>
@@ -78,7 +78,7 @@ S’il y a des <a href="./voyageurs/voyageurs.html" style="color:#9b59b6; font-w
 <h4 style="color:#e0c99d;"><span id="mener-la-nuit">MENER LA NUIT</span></h4>
 
 <p class="botc-flavour-text dropcap" style="margin-top:0;">  
-PENDANT LA PHASE DE NUIT les joueurs gardent les yeux fermés. Certains joueurs se réveilleront, ouvriront les yeux, afin d’obtenir des informations ou d’utiliser de puissantes capacités. 
+<strong>PENDANT LA PHASE DE NUIT</strong> les joueurs gardent les yeux fermés. Certains joueurs se réveilleront, ouvriront les yeux, afin d’obtenir des informations ou d’utiliser de puissantes capacités. 
 </p>  
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 En général, le Démon attaque pendant la nuit, tuant un ou plusieurs joueurs ou provoquant le chaos d’une autre manière.<br>
@@ -103,7 +103,7 @@ Si des joueurs sont morts pendant la nuit, annoncez immédiatement quels joueurs
 <strong>BIEN GÉRER L’AUBE.</strong> La courte attente à l’aube empêche les joueurs de savoir avec certitude s’ils ont été les derniers à agir pendant la nuit. De même, annoncer immédiatement qui est mort empêche les joueurs de s’écrier rapidement « Je suis mort. Je ne me suis pas réveillé cette nuit ! », ce qui pourrait les aider à prouver qu’ils incarnent un rôle précis.
 <hr style="border-color:#444; margin:15px 0;">
 <strong>COMMENT SAVOIR QUI RÉVEILLER LA NUIT ?</strong> Le Conteur doit juger, en fonction de l’état de la partie, s’il est nécessaire de réveiller un joueur, même si un jeton de nuit figure sur la fiche de nuit. La description du rôle précise à quels moments il se réveille au cours de la partie.<br>
-Par exemple, la <a href="./tb_roles/corneille.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a> a un jeton de nuit parce qu’elle peut avoir besoin d’être réveillée, mais ce n’est pas toujours le cas. Si le Démon tue la <a href="./tb_roles/gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a>, vous la réveillerez plus tard cette nuit-là afin de lui donner son information.<br>
+Par exemple, la <a href="./tb_roles/gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a> a un jeton de nuit parce qu’elle peut avoir besoin d’être réveillée, mais ce n’est pas toujours le cas. Si le Démon tue la <a href="./tb_roles/gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a>, vous la réveillerez plus tard cette nuit-là afin de lui donner son information.<br>
 Si le Démon ne la tue pas, ignorez simplement l’action de la <a href="./tb_roles/gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a> cette nuit : il n’est pas nécessaire de la réveiller sans raison.<br>
 Autre exemple : la capacité de la <a href="./bmr_roles/commere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Commère</a> peut tuer un joueur, mais le joueur incarnant la <a href="./bmr_roles/commere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Commère</a> ne se réveille pas pour apprendre que cela s’est produit.
 <hr style="border-color:#444; margin:15px 0;">
@@ -117,7 +117,7 @@ Certains rôles peuvent tuer d’autres rôles pendant la nuit. Si un rôle meur
 <h4 style="color:#e0c99d;"><span id="communiquer-pendant-la-nuit">COMMUNIQUER PENDANT LA NUIT</span></h4>
 
 <p class="botc-flavour-text dropcap" style="margin:0;">
-VOUS UTILISEREZ DES SIGNES DE LA MAIN pour communiquer avec certains joueurs pendant la nuit.
+<strong>VOUS UTILISEREZ DES SIGNES DE LA MAIN </strong>pour communiquer avec certains joueurs pendant la nuit.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -137,7 +137,7 @@ Comme tous les joueurs ont les yeux fermés et que le joueur qui se réveille po
 Si un joueur est l’<a href="./tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>, qui se réveille chaque nuit pour apprendre combien de ses voisins sont maléfiques, et que cet <a href="./tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a> est assis à côté d’un joueur maléfique, la procédure complète est la suivante :<br>
 Tapotez deux fois le genou de l’<a href="./tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a> pour le réveiller. Levez un doigt pour indiquer « 1 ». Placez votre main devant vos yeux pour lui indiquer qu’il doit se rendormir.<br><br>
 Ou bien, si un joueur est la <a href="./tb_roles/gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a>, qui se réveille, choisit un joueur et apprend son rôle, la procédure complète est la suivante :<br>
-Tapotez deux fois le genou de la <a href="./tb_roles/gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a> pour la réveiller. La <a href="./tb_roles/corneille.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a> désigne un joueur. Lorsqu’elle l’a fait, pointez vous aussi ce joueur afin de confirmer lequel elle désigne, puis retirez le jeton de rôle de ce joueur du Grimoire et montrez-le à la <a href="./tb_roles/corneille.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a>. Une fois qu’elle l’a vu, replacez le jeton de rôle dans le Grimoire, puis placez votre main devant vos yeux pour rendormir la <a href="./tb_roles/corneille.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a>.
+Tapotez deux fois le genou de la <a href="./tb_roles/gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a> pour la réveiller. La <a href="./tb_roles/gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a> désigne un joueur. Lorsqu’elle l’a fait, pointez vous aussi ce joueur afin de confirmer lequel elle désigne, puis retirez le jeton de rôle de ce joueur du Grimoire et montrez-le à la <a href="./tb_roles/gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a>. Une fois qu’elle l’a vu, replacez le jeton de rôle dans le Grimoire, puis placez votre main devant vos yeux pour rendormir la <a href="./tb_roles/gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a>.
 </div>
 
 <!-- ===== LE JOUR ===== -->
@@ -151,7 +151,7 @@ Tapotez deux fois le genou de la <a href="./tb_roles/gardien.html" style="color:
 <h4 style="color:#e0c99d;"><span id="discussions">DISCUSSIONS</span></h4>
 
 <p class="botc-flavour-text dropcap" style="margin:0;">
-POUR COMMENCER, LAISSEZ SIMPLEMENT LES JOUEURS DISCUTER ENTRE EUX. Vous avez très peu de choses à faire à ce stade. Les joueurs peuvent dire ce qu’ils veulent, ou ne rien dire du tout.<br>
+<strong>POUR COMMENCER, LAISSEZ SIMPLEMENT LES JOUEURS DISCUTER ENTRE EUX.</strong> Vous avez très peu de choses à faire à ce stade. Les joueurs peuvent dire ce qu’ils veulent, ou ne rien dire du tout.<br>
 En règle générale, les joueurs bons révèlent leur rôle et les informations dont ils disposent, tandis que les joueurs maléfiques se font passer pour des rôles bons et diffusent de fausses informations. Il arrive aussi que des joueurs bons choisissent de tromper les autres. C’est à eux d’en décider.<br>
 Les joueurs peuvent s’adresser au groupe, chuchoter entre eux, ou même quitter leur place pour discuter en secret avec d’autres joueurs. Encouragez-les toutefois à rester dans le cercle pendant ces échanges.
 </p>
@@ -219,7 +219,7 @@ Une fois l’étape d’exécution terminée, prenez une trentaine de secondes p
 <hr class="explication">
 
 <p class="botc-flavour-text dropcap" style="margin:0;">
-UNE FOIS LA PREMIÈRE PHASE DE NUIT TERMINÉE, passez à la phase de jour, puis à une nouvelle phase de nuit. (Pensez à retourner la fiche de nuit sur le côté <strong>AUTRES NUITS</strong> et à réorganiser les jetons de nuit en conséquence à la fin de la première phase de jour.) Répétez ce cycle jusqu’à ce qu’une équipe l’emporte et que la partie prenne fin.<br>
+<strong>UNE FOIS LA PREMIÈRE PHASE DE NUIT TERMINÉE</strong>, passez à la phase de jour, puis à une nouvelle phase de nuit. (Pensez à retourner la fiche de nuit sur le côté <strong>AUTRES NUITS</strong> et à réorganiser les jetons de nuit en conséquence à la fin de la première phase de jour.) Répétez ce cycle jusqu’à ce qu’une équipe l’emporte et que la partie prenne fin.<br>
 À Ravenswood... la mort n’est pas une fin. Si l’équipe du Bien l’emporte, tous les joueurs bons gagnent, qu’ils soient en vie ou morts. Si l’équipe du Mal l’emporte, tous les joueurs maléfiques gagnent, qu’ils soient en vie ou morts. Une équipe gagne, l’autre perd. Il n’y a jamais de joueurs neutres.<br>
 L’équipe du Bien l’emporte si le Démon meurt. Annoncez que le Bien a gagné et encouragez, si vous le souhaitez, poignées de main, embrassades ou cris de joie.<br>
 L’équipe du Mal l’emporte s’il ne reste plus que deux joueurs en vie. Annoncez que le Mal a gagné et encouragez, si vous le souhaitez, checks du poing, rires triomphants ou célébrations débridées. (L’équipe du Mal peut gagner soit parce que le Démon a tué un joueur, soit parce que le mauvais joueur a été exécuté.)<br>
