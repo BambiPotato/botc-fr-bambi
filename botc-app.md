@@ -35,7 +35,7 @@ image: /images/logogold.png
   top: 20px;
   height: fit-content;
   background: #1c102e;
-  border: 1px solid #d4a76a;
+  border: 1px solid #ffd97d;
   border-radius: 12px;
   padding: 20px;
   box-shadow: 0 8px 25px rgba(0,0,0,0.6);
@@ -43,9 +43,9 @@ image: /images/logogold.png
   overflow-y: auto;
 }
 
-/* TITRES DES CATÉGORIES DANS LE SOMMAIRE (Nettement plus clairs et lisibles) */
+/* TITRES DE CATÉGORIES DANS LE SOMMAIRE */
 .guide-sidebar h3 {
-  color: #ffd97d !important; /* Jaune doré très lumineux */
+  color: #ffd97d !important; /* Jaune/Doré éclatant */
   font-size: 15px;
   font-weight: 800;
   font-style: italic;
@@ -54,7 +54,7 @@ image: /images/logogold.png
   margin: 22px 0 10px 0;
   border-bottom: 1px solid rgba(255, 217, 125, 0.3);
   padding-bottom: 5px;
-  text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.9); /* Ombre de contraste */
+  text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.9);
 }
 
 .guide-sidebar h3:first-child {
@@ -72,7 +72,7 @@ image: /images/logogold.png
 }
 
 .guide-sidebar a {
-  color: #e2d3f3; /* Texte des liens très lisible */
+  color: #e2d3f3 !important;
   text-decoration: none;
   font-size: 14px;
   transition: all 0.2s ease;
@@ -81,7 +81,7 @@ image: /images/logogold.png
 }
 
 .guide-sidebar a:hover {
-  color: #ffffff;
+  color: #ffffff !important;
   padding-left: 5px;
   text-shadow: 0 0 8px rgba(255, 217, 125, 0.6);
 }
@@ -110,7 +110,7 @@ image: /images/logogold.png
 }
 
 .step-number {
-  background: #ffd97d; /* Pastille jaune doré */
+  background: #ffd97d; /* Pastille Jaune */
   color: #1a0f2b;
   width: 42px;
   height: 42px;
@@ -124,15 +124,15 @@ image: /images/logogold.png
   box-shadow: 0 3px 10px rgba(0,0,0,0.5);
 }
 
-/* TITRES PRINCIPAUX DES ÉTAPES (Gros, dorés, en majuscules et très visibles) */
+/* FIX DES TITRES PRINCIPAUX : Doré vif + Ombre nette */
 .step-title {
-  color: #ffd97d !important; /* Jaune/Doré éclatant */
-  font-size: 24px !important; /* Taille augmentée */
+  color: #ffd97d !important; /* Jaune lumineux comme la pastille ! */
+  font-size: 24px !important;
   font-weight: 900;
   font-style: italic;
   text-transform: uppercase;
   margin: 0;
-  text-shadow: 2px 2px 6px #000000, 0 0 10px rgba(255, 217, 125, 0.2); /* Double ombre pour détacher du fond */
+  text-shadow: 2px 2px 4px #000000 !important;
   letter-spacing: 1px;
 }
 
@@ -156,7 +156,6 @@ image: /images/logogold.png
   }
 }
 
-/* Emplacement visuel / vidéo */
 .step-media {
   width: 280px;
   flex-shrink: 0;
@@ -180,19 +179,18 @@ image: /images/logogold.png
   display: block;
 }
 
-.step-text {
-  flex-grow: 1;
+/* FIX DU TEXTE PRINCIPAL : Blanc/Beige clair */
+.step-text, .step-text p, .step-text li {
+  color: #f0e2ca !important;
   font-size: 15px;
   line-height: 1.6;
-  color: #f0e2ca;
 }
 
-/* Éléments forts dans le texte */
 .step-text strong {
-  color: #ffd97d; /* Met les mots importants en doré clair au lieu de rouge sombre */
+  color: #ffe89c !important; /* Mots importants en doré très clair */
 }
 
-/* Encadrés d'actions */
+/* Encadré d'action */
 .action-box {
   background: #160c24;
   border-left: 4px solid #ffd97d;
@@ -229,6 +227,48 @@ html {
   scroll-behavior: smooth;
 }
 </style>
+
+<!-- ÉTAPE 1 : CRÉATION DE COMPTE -->
+    <div id="step-1" class="step-card">
+      <div class="step-header">
+        <div class="step-number">1</div>
+        <h2 class="step-title">S’ENREGISTRER SUR LE SITE</h2>
+      </div>
+      <div class="step-body">
+        <div class="step-media">[Image : Formulaire d'inscription botc.app]</div>
+        <div class="step-text">
+          <p>Pour jouer avec l’application <strong>Blood 🩸 on the Clocktower 🕰️</strong>, vous devez créer un <strong>compte gratuit</strong>.</p>
+          <p>Pour cela, <strong>suivez la procédure ci-dessous</strong> 😗 :</p>
+
+          <ul style="list-style: none; padding-left: 0;">
+            <li style="margin-bottom: 12px;">
+              <strong>1️⃣ Rendez-vous sur le site Blood on the Clocktower Online :</strong><br>
+              ▫️ <a href="https://botc.app/login" target="_blank" rel="noopener noreferrer" style="color: #ffd97d !important; font-weight: bold; text-decoration: underline;">https://botc.app/login 🔗</a>
+            </li>
+
+            <li style="margin-bottom: 12px;">
+              <strong>2️⃣ Cliquez sur Register :</strong><br>
+              ▫️ Renseignez tous les champs demandés <em>(adresse e-mail, mot de passe, pseudo)</em>.<br>
+              ➡️ <strong style="color: #ff6b6b !important;">Ne cliquez pas sur Patreon.</strong>
+            </li>
+
+            <li style="margin-bottom: 12px;">
+              <strong>3️⃣ Cliquez sur Register</strong>
+            </li>
+
+            <li style="margin-bottom: 12px;">
+              <strong>4️⃣ Une fois votre compte créé :</strong><br>
+              Entrez votre adresse <strong>e-mail</strong> et votre <strong>mot de passe</strong>, puis cliquez sur <strong>Login</strong>.
+            </li>
+          </ul>
+
+          <div class="action-box">
+            <span class="action-badge">👏🏻 BRAVO</span><br>
+            <strong>Vous venez de créer votre compte !</strong> Vous êtes prêt à passer à l'étape suivante pour rejoindre le village.
+          </div>
+        </div>
+      </div>
+    </div>
 
 
 
@@ -584,6 +624,8 @@ html {
 
   </div>
 </div>
+
+<hr class="explication">
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li><a href="/botc-fr-bambi/" style="color:#5C2E1F; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
