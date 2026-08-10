@@ -24,7 +24,7 @@ Sbires
 
 </div>
 
-<hr class="explication">
+<hr class="sbire">
 
 
 **Alignement :** 🔴 Maléfique  
@@ -34,20 +34,20 @@ Les Sbires ne peuvent pas gagner sans leur Démon, mais leurs capacités perturb
 
 ##  Exemples dans **Trouble Brewing**  
 - [<span style="color:red">Empoisonneur</span>](./tb_roles/empoisonneur.md) : **neutralise** les **capacités** des Villageois.
-- [<span style="color:red">Espionne</span>](./tb_roles/espion.md) : Voit 👀 le **Grimoire** chaque nuit.   
-- [<span style="color:red">Baron</span>](./tb_roles/baron.md) : Ajoute **deux** Marginaux au jeu.   
-- [<span style="color:red">Femme écarlate</span>](./tb_roles/femmeecarlate.md) : Devient **Démon**, si celui-ci meurt avec **5** joueurs ou **plus** en vie. 
+- [<span style="color:red">Espionne</span>](./tb_roles/espion.md) : voit 👀 le **Grimoire** chaque nuit, peut apparaître comme bonne et comme Villageois ou Marginal, même morte.  
+- [<span style="color:red">Baron</span>](./tb_roles/baron.md) : ajoute **deux** Marginaux au jeu.   
+- [<span style="color:red">Femme écarlate</span>](./tb_roles/femmeecarlate.md) : devient **Démon**, si celui-ci meurt avec **5** joueurs ou **plus** en vie. 
 
 <h2 style="font-weight:800; font-size:22px; text-align:left;">
   Tous les <span style="color:#f5f5f5;">Sbires</span> 
   <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:800; text-decoration:none;">• Trouble Brewing</a> 
   <a href="./bmr.html" style="color:#ffa64d; font-weight:800; text-decoration:none;">• Bad Moon Rising</a> 
   <a href="./sv.html" style="color:#d67bff; font-weight:800; text-decoration:none;">• Sects & Violets</a>
-  <a href="./experimentaux.html" style="color:#e0b97a; font-weight:800; text-decoration:none;">• Expérimentaux</a>
+  <a href="./experimentaux.html" style="color:#e0b97a; font-weight:800; text-decoration:none;">• Carrousel-Expérimentaux</a>
 </h2>
 
 
-<hr class="explication">
+<hr class="sbire">
 
 
 <!-- GRID SBIRES (ALPHABÉTIQUE) -->
@@ -74,7 +74,7 @@ Les Sbires ne peuvent pas gagner sans leur Démon, mais leurs capacités perturb
 
 <a href="./roles_experimentaux/boomdandy.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
   <img src="./images/Icon_boomdandy.png" alt="Boomdandy" style="width:220px; border-radius:12px;">
-  <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Boomdandy</span>
+  <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Boumdandy</span>
 </a>
 
 <!-- C -->
@@ -105,14 +105,14 @@ Les Sbires ne peuvent pas gagner sans leur Démon, mais leurs capacités perturb
 
 <a href="./tb_roles/femmeecarlate.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
   <img src="./images/Icon_scarletwoman.png" alt="Femme Écarlate" style="width:220px; border-radius:12px;">
-  <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Femme Écarlate</span>
+  <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Femme écarlate</span>
 </a>
 
 <!-- G -->
 
 <a href="./roles_experimentaux/goblin.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
   <img src="./images/Icon_goblin.png" alt="Goblin" style="width:220px; border-radius:12px;">
-  <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Goblin</span>
+  <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Gobelin</span>
 </a>
 
 <a href="./sv_roles/pithag.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
@@ -138,7 +138,7 @@ Les Sbires ne peuvent pas gagner sans leur Démon, mais leurs capacités perturb
 
 <a href="./sv_roles/jumeaumalefique.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
   <img src="./images/Icon_eviltwin.png" alt="Jumelle Maléfique" style="width:220px; border-radius:12px;">
-  <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Jumelle Maléfique</span>
+  <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Jumelle maléfique</span>
 </a>
 
 <!-- L -->
