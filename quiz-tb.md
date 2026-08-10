@@ -2,7 +2,7 @@
 layout: default
 title: Quiz de règles — Blood on the Clocktower
 description: Testez vos connaissances des règles sur le module Trouble Brewing.
-image: /botc-fr-bambi/images/logogold.png
+image: /images/logogold.png
 ---
 
 <p style="text-align:left;">
