@@ -589,7 +589,7 @@ data-tooltip="Suis-nous sur Instagram">
     <td class="rules-cell">
       <a class="rules-link" href="./glossaire.html" aria-label="Glossaire des termes français">
         <div class="rules-title">Glossaire des termes</div>
-        <div class="rules-sub">Liste des termes en français</div>
+        <div class="rules-sub">Liste des termes officiels en français</div>
       </a>
     </td>
 
