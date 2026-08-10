@@ -1,273 +1,524 @@
 ---
 layout: default
-title: Quiz de Règles - Blood on the Clocktower
-description: Teste tes connaissances sur les règles du module Trouble Brewing !
-image: /images/logogold.png
+title: Quiz de règles — Blood on the Clocktower
+description: Testez vos connaissances des règles sur le module Trouble Brewing.
+image: /botc-fr-bambi/images/logogold.png
 ---
 
-
 <p align="left">
-  <a href="/botc-fr-bambi/">
-    <img src="images/logogold.png" alt="Accueil BotC FR" width="300">
+  <a href="/botc-fr-bambi/" aria-label="Retour à l'accueil BotC FR">
+    <img src="/botc-fr-bambi/images/logogold.png"
+         alt="Accueil BotC FR"
+         width="300">
   </a>
 </p>
 
 <hr class="explication">
 
----
-layout: default
-title: Quiz de Règles - Blood on the Clocktower
----
+<h1 style="
+  color:#b58b52;
+  font-size:24px;
+  font-weight:bold;
+  text-shadow:2px 2px 6px #000;
+  padding-left:16px;
+  margin:0 0 10px;
+">
+  Quiz de règles
+</h1>
 
-<!-- ===== CADRE DU QUIZ (STYLE PARCHEMIN / CHARTE DU SITE) ===== -->
-<div id="quiz-wrapper" style="max-width: 750px; margin: 20px auto; padding: 25px; background: #faf6ee; border: 2px solid #8b2626; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); color: #2c1e14;">
+<p style="
+  color:#e0c99d;
+  font-size:18px;
+  line-height:1.7;
+  padding-left:16px;
+  margin:0 0 25px;
+">
+  Testez vos connaissances sur les règles de
+  <em>Blood on the Clocktower</em> et du script
+  <strong style="color:#d4a76a;">Trouble Brewing</strong>.
+</p>
 
-  <div id="question-box">
-    <div id="q-number" style="color: #8b2626; font-weight: bold; font-size: 14px; text-transform: uppercase; margin-bottom: 10px;">QUESTION 1 / 10</div>
-    <div id="q-text" style="color: #2c1e14; font-size: 20px; font-weight: bold; line-height: 1.4; margin-bottom: 20px;">Chargement...</div>
+<style>
+  /* Styles limités au quiz : aucune modification du CSS global du wiki. */
+  #botc-quiz {
+    max-width: 750px;
+    margin: 20px auto;
+    padding: 25px;
+    box-sizing: border-box;
+    background: rgba(0,0,0,0.45);
+    border: 1px solid #b58b52;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.45);
+    color: #e0c99d;
+  }
 
-    <div id="options-box" style="margin-bottom: 20px;"></div>
+  #botc-quiz .quiz-number {
+    margin-bottom: 10px;
+    color: #d4a76a;
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: .8px;
+  }
 
-    <div id="explanation-box" style="display: none; margin-top: 20px; padding: 15px; background: #f0e6d2; border-left: 4px solid #8b2626; border-radius: 4px;">
-      <div id="expl-title" style="font-weight: bold; font-size: 18px; margin-bottom: 8px;"></div>
-      <div id="expl-text" style="color: #2c1e14; font-size: 16px; line-height: 1.5; margin-bottom: 12px;"></div>
-      <a id="role-link" href="#" style="display: inline-block; color: #8b2626; font-weight: bold; text-decoration: underline; font-size: 15px; margin-bottom: 12px;">📖 Consulter la fiche du rôle</a>
+  #botc-quiz .quiz-question {
+    margin-bottom: 22px;
+    color: #e0c99d;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 1.5;
+  }
+
+  #botc-quiz .quiz-option,
+  #botc-quiz .quiz-next,
+  #botc-quiz .quiz-restart {
+    font-family: inherit;
+    transition: background .15s ease, border-color .15s ease, transform .15s ease;
+  }
+
+  #botc-quiz .quiz-option {
+    display: block;
+    width: 100%;
+    margin: 0 0 10px;
+    padding: 13px 15px;
+    box-sizing: border-box;
+    background: rgba(0,0,0,0.28);
+    border: 1px solid rgba(181,139,82,.8);
+    border-radius: 8px;
+    color: #e0c99d;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 1.45;
+    text-align: left;
+    cursor: pointer;
+  }
+
+  #botc-quiz .quiz-option:hover:not(:disabled),
+  #botc-quiz .quiz-next:hover,
+  #botc-quiz .quiz-restart:hover {
+    background: rgba(181,139,82,.22);
+    border-color: #d4a76a;
+    transform: translateY(-1px);
+  }
+
+  #botc-quiz .quiz-option:disabled {
+    cursor: default;
+    opacity: 1;
+  }
+
+  #botc-quiz .quiz-option.is-correct {
+    background: rgba(89,145,99,.30);
+    border-color: #7fd1ae;
+    color: #d9f3e7;
+  }
+
+  #botc-quiz .quiz-option.is-wrong {
+    background: rgba(170,61,61,.28);
+    border-color: #d45b5b;
+    color: #ffdada;
+  }
+
+  #botc-quiz .quiz-explanation {
+    display: none;
+    margin-top: 22px;
+    padding: 16px;
+    background: rgba(0,0,0,.28);
+    border-left: 4px solid #b58b52;
+    border-radius: 8px;
+  }
+
+  #botc-quiz .quiz-explanation-title {
+    margin-bottom: 8px;
+    color: #d4a76a;
+    font-size: 18px;
+    font-weight: bold;
+  }
+
+  #botc-quiz .quiz-explanation-text {
+    margin-bottom: 14px;
+    color: #e0c99d;
+    font-size: 16px;
+    line-height: 1.6;
+  }
+
+  #botc-quiz .quiz-role-link {
+    display: inline-block;
+    margin-bottom: 15px;
+    color: #d4a76a;
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+  #botc-quiz .quiz-role-link:hover {
+    color: #e0c99d;
+    text-decoration: underline;
+  }
+
+  #botc-quiz .quiz-next,
+  #botc-quiz .quiz-restart {
+    padding: 11px 20px;
+    background: rgba(181,139,82,.25);
+    border: 1px solid #b58b52;
+    border-radius: 8px;
+    color: #e0c99d;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+
+  #botc-quiz .quiz-result {
+    display: none;
+    padding: 10px;
+    text-align: center;
+  }
+
+  #botc-quiz .quiz-result h2 {
+    margin: 0 0 15px;
+    color: #d4a76a;
+    font-size: 26px;
+  }
+
+  #botc-quiz .quiz-score {
+    margin-bottom: 15px;
+    color: #e0c99d;
+    font-size: 22px;
+    font-weight: bold;
+  }
+
+  #botc-quiz .quiz-message {
+    margin: 0 0 22px;
+    color: #e0c99d;
+    font-size: 16px;
+    line-height: 1.6;
+  }
+
+  @media (max-width: 600px) {
+    #botc-quiz {
+      margin: 16px 0;
+      padding: 18px;
+    }
+
+    #botc-quiz .quiz-question {
+      font-size: 18px;
+    }
+
+    #botc-quiz .quiz-option {
+      font-size: 15px;
+    }
+  }
+</style>
+
+<div id="botc-quiz">
+  <div id="quiz-question-box">
+    <div id="quiz-number" class="quiz-number">QUESTION 1 / 10</div>
+
+    <div id="quiz-question" class="quiz-question" aria-live="polite">
+      Chargement de la question…
+    </div>
+
+    <div id="quiz-options"></div>
+
+    <div id="quiz-explanation" class="quiz-explanation" aria-live="polite">
+      <div id="quiz-explanation-title" class="quiz-explanation-title"></div>
+      <div id="quiz-explanation-text" class="quiz-explanation-text"></div>
+
+      <a id="quiz-role-link" class="quiz-role-link" href="#">
+        📖 Voir la fiche du rôle
+      </a>
+
       <div>
-        <button id="next-btn" onclick="nextQuestion()" style="background: #8b2626; color: #ffffff; border: none; padding: 10px 20px; border-radius: 5px; font-weight: bold; cursor: pointer; font-size: 15px;">Question suivante →</button>
+        <button id="quiz-next" class="quiz-next" type="button">
+          Question suivante →
+        </button>
       </div>
     </div>
   </div>
 
-  <div id="result-box" style="display: none; text-align: center; padding: 10px;">
-    <h2 style="color: #8b2626; font-size: 26px; margin-bottom: 15px;">Fin du Quiz !</h2>
-    <div id="final-score" style="color: #2c1e14; font-size: 22px; font-weight: bold; margin-bottom: 15px;"></div>
-    <p id="final-message" style="color: #2c1e14; font-size: 16px; line-height: 1.5; margin-bottom: 20px;"></p>
-    <button onclick="restartQuiz()" style="background: #8b2626; color: #ffffff; border: none; padding: 12px 25px; border-radius: 6px; font-weight: bold; font-size: 16px; cursor: pointer;">Recommencer le Quiz</button>
-  </div>
+  <div id="quiz-result" class="quiz-result">
+    <h2>Fin du quiz !</h2>
+    <div id="quiz-score" class="quiz-score"></div>
+    <p id="quiz-message" class="quiz-message"></p>
 
+    <button id="quiz-restart" class="quiz-restart" type="button">
+      Recommencer le quiz
+    </button>
+  </div>
 </div>
 
-<!-- ===== SCRIPT DU QUIZ ===== -->
 <script>
-(function() {
+(function () {
+  "use strict";
+
   var quizData = [
     {
-      q: "1. L'Empoisonneur cible la Voyante durant la nuit. Que doit faire le Conteur lors du tour de la Voyante ?",
+      q: "L’Empoisonneur cible la Voyante pendant la nuit. Que fait le Conteur lors du tour de la Voyante ?",
       options: [
-        "Le Conteur ne la réveille pas.",
-        "Le Conteur la réveille normalement, mais il peut lui donner une fausse information.",
-        "Le Conteur lui indique discrètement qu'elle est empoisonnée."
+        "Il ne réveille pas la Voyante.",
+        "Il la réveille normalement et peut lui donner une information erronée.",
+        "Il lui indique discrètement qu’elle est empoisonnée."
       ],
       correct: 1,
-      expl: "Un joueur empoisonné croit jouer normalement. La Voyante se réveille, mais le Conteur peut lui donner une fausse information.",
-      roleName: "L'Empoisonneur",
+      expl: "Un joueur empoisonné ne sait pas qu’il l’est et pense utiliser sa capacité normalement. La Voyante est donc réveillée, mais son information peut être erronée.",
+      roleName: "L’Empoisonneur",
       roleUrl: "/botc-fr-bambi/tb_roles/empoisonneur.html"
     },
     {
-      q: "2. Le Diablotin (Démon) se choisit lui-même pendant la nuit. Que se passe-t-il ?",
+      q: "Le Diablotin se choisit lui-même pendant la nuit. Que se passe-t-il ?",
       options: [
-        "Il meurt et l'équipe du Bien gagne immédiatement la partie.",
-        "Rien ne se passe, un Démon ne peut pas s'auto-détruire.",
-        "Il meurt, et l'un de ses Sbires devient le nouveau Diablotin."
+        "Il meurt et le Bien gagne immédiatement.",
+        "Rien : un Démon ne peut pas se choisir lui-même.",
+        "Il meurt, puis un Sbire vivant devient le nouveau Diablotin."
       ],
       correct: 2,
-      expl: "C'est le pouvoir du Diablotin ! S'il se tue la nuit, il transmet immédiatement le rôle du Diablotin à l'un de ses Sbires en vie.",
+      expl: "Le Diablotin peut se choisir lui-même. S’il meurt ainsi pendant la nuit, l’un de ses Sbires vivants devient immédiatement le nouveau Diablotin.",
       roleName: "Le Diablotin",
       roleUrl: "/botc-fr-bambi/tb_roles/imp.html"
     },
     {
-      q: "3. La Corneille meurt pendant la nuit. Quand son pouvoir s'active-t-il ?",
+      q: "La Corneille meurt pendant la nuit. Quand son pouvoir s’active-t-il ?",
       options: [
-        "Elle se réveille immédiatement la nuit même pour désigner un joueur et apprendre son rôle.",
-        "Elle doit attendre la journée suivante pour l'annoncer au village.",
-        "Son pouvoir ne s'active que si elle est exécutée le jour."
+        "Elle est réveillée cette même nuit : elle choisit un joueur et apprend son rôle.",
+        "Elle doit attendre la journée suivante pour agir.",
+        "Son pouvoir ne s’active que si elle est exécutée durant la journée."
       ],
       correct: 0,
-      expl: "La Corneille s'active la nuit de sa mort. Le Conteur la réveille aussitôt : elle pointe un joueur et découvre son rôle exact.",
+      expl: "Si la Corneille meurt la nuit, le Conteur la réveille immédiatement. Elle désigne alors un joueur et apprend son rôle exact.",
       roleName: "La Corneille",
       roleUrl: "/botc-fr-bambi/tb_roles/gardien.html"
     },
     {
-      q: "4. L'Empathe a deux voisins en vie : l'un est le Diablotin et l'autre est un Villageois empoisonné. Que reçoit l'Empathe ?",
+      q: "L’Empathe a deux voisins vivants : le Diablotin et un Villageois empoisonné. Quelle information reçoit-il ?",
       options: [
-        "Le chiffre 1, car il a 1 voisin maléfique.",
+        "Le chiffre 1, car un seul de ses voisins est maléfique.",
         "Le chiffre 2, car un joueur empoisonné compte comme maléfique.",
-        "Le chiffre 0, car son pouvoir ne marche pas."
+        "Le chiffre 0, car le pouvoir de l’Empathe ne fonctionne plus."
       ],
       correct: 0,
-      expl: "L'empoisonnement ne change pas l'alignement d'un joueur. Le Villageois reste Bon, donc l'Empathe apprend la valeur '1' (pour le Diablotin).",
-      roleName: "L'Empathe",
+      expl: "L’empoisonnement peut rendre une capacité dysfonctionnelle, mais ne change pas l’alignement. Le Villageois reste bon : l’Empathe reçoit donc « 1 ».",
+      roleName: "L’Empathe",
       roleUrl: "/botc-fr-bambi/tb_roles/empathique.html"
     },
     {
-      q: "5. Le Moine désigne le Soldat pendant la nuit. Plus tard, le Diablotin attaque le Soldat. Que se passe-t-il ?",
+      q: "Le Moine protège le Soldat pendant la nuit, puis le Diablotin attaque le Soldat. Que se passe-t-il ?",
       options: [
-        "Le Soldat meurt quand même.",
-        "Le Soldat survit (grâce à son pouvoir personnel et la protection du Moine).",
+        "Le Soldat meurt.",
+        "Le Soldat survit.",
         "Le Moine meurt à la place du Soldat."
       ],
       correct: 1,
-      expl: "Le Soldat ne meurt pas la nuit face au Démon, et la protection du Moine le sécurise encore plus. Personne ne meurt.",
+      expl: "Le Soldat ne peut pas mourir de l’attaque nocturne du Démon grâce à sa propre capacité. La protection du Moine aurait également empêché cette mort : le Soldat survit.",
       roleName: "Le Moine",
       roleUrl: "/botc-fr-bambi/tb_roles/moine.html"
     },
-    {
-      q: "6. Le Saint est exécuté par le village pendant la journée. Quelle est la conséquence ?",
+
+        {
+      q: "Le Saint est exécuté par décision du village pendant la journée. Quelle est la conséquence ?",
       options: [
-        "L'équipe du Mal gagne immédiatement la partie.",
-        "Le Saint meurt mais la partie continue normalement.",
-        "Le Saint peut désigner un joueur qui mourra avec lui."
+        "L’équipe du Mal gagne immédiatement.",
+        "Le Saint meurt, mais la partie continue normalement.",
+        "Le Saint choisit un joueur qui meurt avec lui."
       ],
       correct: 0,
-      expl: "Si le Saint est exécuté par décision du village, son équipe (le Bien) perd immédiatement la partie.",
+      expl: "Si le Saint est exécuté, son équipe perd immédiatement. Dans Trouble Brewing, le Saint est bon : le Mal gagne donc la partie.",
       roleName: "Le Saint",
       roleUrl: "/botc-fr-bambi/tb_roles/saint.html"
     },
     {
-      q: "7. La Pourfendeuse tente de tuer un joueur en journée mais se trompe (ce n'est pas le Démon). Peut-elle réessayer le lendemain ?",
+      q: "La Pourfendeuse utilise sa capacité en journée, mais cible un joueur qui n’est pas le Démon. Peut-elle réessayer le lendemain ?",
       options: [
         "Oui, une fois par jour.",
-        "Non, sa capacité ne peut être utilisée qu'une seule fois par partie.",
-        "Oui, si le Conteur lui en donne l'autorisation."
+        "Non, sa capacité ne peut être utilisée qu’une seule fois par partie.",
+        "Oui, si le Conteur l’autorise."
       ],
       correct: 1,
-      expl: "La Pourfendeuse n'a qu'un seul tir pour toute la partie. Qu'elle touche ou qu'elle râte, son pouvoir est consommé.",
+      expl: "La Pourfendeuse ne peut utiliser sa capacité qu’une seule fois par partie. Qu’elle touche le Démon ou non, son unique tentative est consommée.",
       roleName: "La Pourfendeuse",
       roleUrl: "/botc-fr-bambi/tb_roles/mercenaire.html"
     },
     {
-      q: "8. L'Ivrogne pense être la Lavandière. Quelle information reçoit-il lors de la première nuit ?",
+      q: "L’Ivrogne pense être la Lavandière. Quelle information peut-il recevoir lors de la première nuit ?",
       options: [
         "Aucune information.",
-        "Le Conteur lui donne obligatoirement une fausse information.",
-        "Le Conteur lui donne une information qui peut être vraie ou fausse."
+        "Obligatoirement une fausse information.",
+        "Une information qui peut être vraie ou fausse."
       ],
       correct: 2,
-      expl: "L'Ivrogne ne sait pas qu'il est ivre. Le Conteur lui donne une information qui a l'air vraie, mais qui peut être totalement fausse (ou vraie si cela arrange le Conteur).",
-      roleName: "L'Ivrogne",
+      expl: "L’Ivrogne ne sait pas qu’il est ivre. Le Conteur lui donne une information comme s’il était la Lavandière, mais cette information peut être vraie ou fausse.",
+      roleName: "L’Ivrogne",
       roleUrl: "/botc-fr-bambi/tb_roles/ivrogne.html"
     },
     {
-      q: "9. La Femme Écarlate est en jeu. Le Diablotin est exécuté le jour alors qu'il y a 7 joueurs en vie. Que se passe-t-il ?",
+      q: "La Femme Écarlate est en jeu. Le Diablotin est exécuté alors qu’il reste 7 joueurs vivants, sans Voyageur. Que se passe-t-il ?",
       options: [
         "La Femme Écarlate devient le nouveau Diablotin.",
-        "L'équipe du Bien gagne car la Femme Écarlate ne s'active qu'à 5 joueurs en vie ou plus.",
+        "Le Bien gagne : la Femme Écarlate ne fonctionne qu’à moins de 5 joueurs vivants.",
         "Le Diablotin ne meurt pas."
       ],
       correct: 0,
-      expl: "S'il y a 5 joueurs en vie ou plus (ici 7) au moment où le Démon meurt, la Femme Écarlate prend immédiatement sa place et la partie continue !",
+      expl: "S’il y a au moins 5 joueurs vivants lorsque le Démon meurt, la Femme Écarlate devient le Démon. La partie continue donc avec un nouveau Diablotin.",
       roleName: "La Femme Écarlate",
       roleUrl: "/botc-fr-bambi/tb_roles/femmeecarlate.html"
     },
     {
-      q: "10. Le Maire est en vie lors des 3 derniers joueurs et aucune exécution n'a lieu la journée. Que se passe-t-il ?",
+      q: "Le Maire est vivant lorsqu’il ne reste plus que 3 joueurs vivants. Aucune exécution n’a lieu ce jour-là. Que se passe-t-il ?",
       options: [
         "Le Démon gagne automatiquement.",
-        "L'équipe du Maire (le Bien) gagne la partie.",
-        "La partie repart pour une journée supplémentaire."
+        "L’équipe du Maire gagne la partie.",
+        "La partie continue obligatoirement une journée de plus."
       ],
       correct: 1,
-      expl: "C'est la condition de victoire spéciale du Maire ! S'il ne reste que 3 joueurs en vie et qu'aucune exécution n'a lieu, l'équipe du Bien l'emporte.",
+      expl: "Lorsque seulement 3 joueurs sont en vie et qu’aucune exécution n’a lieu ce jour-là, l’équipe du Maire gagne. Dans Trouble Brewing, le Maire est bon : le Bien gagne.",
       roleName: "Le Maire",
       roleUrl: "/botc-fr-bambi/tb_roles/maire.html"
     }
   ];
 
-  var currentIdx = 0;
+  var currentIndex = 0;
   var score = 0;
   var answered = false;
 
-  window.loadQuestion = function() {
-    answered = false;
-    var data = quizData[currentIdx];
-    document.getElementById('q-number').innerText = "QUESTION " + (currentIdx + 1) + " / " + quizData.length;
-    document.getElementById('q-text').innerText = data.q;
-    document.getElementById('explanation-box').style.display = 'none';
-    var optsBox = document.getElementById('options-box');
-    optsBox.innerHTML = '';
-    for (var i = 0; i < data.options.length; i++) {
-      (function(index) {
-        var btn = document.createElement('button');
-        btn.style.cssText = "display:block; width:100%; background:#f4ebd9; border:1.5px solid #8b2626; color:#3a0000; padding:12px 15px; margin-bottom:10px; border-radius:6px; font-size:16px; font-weight:bold; text-align:left; cursor:pointer;";
-        btn.innerText = data.options[index];
-        btn.onclick = function() { checkAnswer(index, btn); };
-        optsBox.appendChild(btn);
-      })(i);
-    }
-  };
+  var questionBox = document.getElementById("quiz-question-box");
+  var resultBox = document.getElementById("quiz-result");
+  var numberElement = document.getElementById("quiz-number");
+  var questionElement = document.getElementById("quiz-question");
+  var optionsElement = document.getElementById("quiz-options");
+  var explanationElement = document.getElementById("quiz-explanation");
+  var explanationTitleElement = document.getElementById("quiz-explanation-title");
+  var explanationTextElement = document.getElementById("quiz-explanation-text");
+  var roleLinkElement = document.getElementById("quiz-role-link");
+  var nextButton = document.getElementById("quiz-next");
+  var scoreElement = document.getElementById("quiz-score");
+  var messageElement = document.getElementById("quiz-message");
+  var restartButton = document.getElementById("quiz-restart");
 
-  function checkAnswer(selectedIdx, btnClicked) {
-    if (answered) return;
-    answered = true;
-    var data = quizData[currentIdx];
-    var allButtons = document.getElementById('options-box').children;
-    if (selectedIdx === data.correct) {
-      score++;
-      btnClicked.style.background = "#d4edda";
-      btnClicked.style.color = "#155724";
-      btnClicked.style.borderColor = "#c3e6cb";
-      document.getElementById('expl-title').innerText = "✅ Bonne réponse !";
-      document.getElementById('expl-title').style.color = "#155724";
-    } else {
-      btnClicked.style.background = "#f8d7da";
-      btnClicked.style.color = "#721c24";
-      btnClicked.style.borderColor = "#f5c6cb";
-      allButtons[data.correct].style.background = "#d4edda";
-      allButtons[data.correct].style.color = "#155724";
-      allButtons[data.correct].style.borderColor = "#c3e6cb";
-      document.getElementById('expl-title').innerText = "❌ Mauvaise réponse";
-      document.getElementById('expl-title').style.color = "#721c24";
-    }
-    document.getElementById('expl-text').innerText = data.expl;
-    var link = document.getElementById('role-link');
-    link.href = data.roleUrl;
-    link.innerText = "📖 Voir la fiche du rôle : " + data.roleName;
-    document.getElementById('explanation-box').style.display = 'block';
+  function loadQuestion() {
+    var data = quizData[currentIndex];
+
+    answered = false;
+    numberElement.textContent =
+      "QUESTION " + (currentIndex + 1) + " / " + quizData.length;
+    questionElement.textContent = data.q;
+    explanationElement.style.display = "none";
+    optionsElement.innerHTML = "";
+
+    data.options.forEach(function (option, index) {
+      var button = document.createElement("button");
+
+      button.type = "button";
+      button.className = "quiz-option";
+      button.textContent = option;
+      button.addEventListener("click", function () {
+        checkAnswer(index);
+      });
+
+      optionsElement.appendChild(button);
+    });
   }
 
-  window.nextQuestion = function() {
-    currentIdx++;
-    if (currentIdx < quizData.length) {
+  function checkAnswer(selectedIndex) {
+    var data;
+    var buttons;
+    var isCorrect;
+
+    if (answered) {
+      return;
+    }
+
+    answered = true;
+    data = quizData[currentIndex];
+    buttons = optionsElement.querySelectorAll(".quiz-option");
+    isCorrect = selectedIndex === data.correct;
+
+    buttons.forEach(function (button, index) {
+      button.disabled = true;
+
+      if (index === data.correct) {
+        button.classList.add("is-correct");
+      } else if (index === selectedIndex) {
+        button.classList.add("is-wrong");
+      }
+    });
+
+    if (isCorrect) {
+      score += 1;
+      explanationTitleElement.textContent = "✓ Bonne réponse !";
+      explanationTitleElement.style.color = "#7fd1ae";
+    } else {
+      explanationTitleElement.textContent = "✗ Mauvaise réponse";
+      explanationTitleElement.style.color = "#d45b5b";
+    }
+
+    explanationTextElement.textContent = data.expl;
+    roleLinkElement.href = data.roleUrl;
+    roleLinkElement.textContent = "📖 Voir la fiche du rôle : " + data.roleName;
+    explanationElement.style.display = "block";
+  }
+
+  function showResult() {
+    var message;
+
+    questionBox.style.display = "none";
+    resultBox.style.display = "block";
+    scoreElement.textContent = "Score : " + score + " / " + quizData.length;
+
+    if (score === quizData.length) {
+      message = "🏆 Score parfait ! Vous maîtrisez les règles de Trouble Brewing.";
+    } else if (score >= 7) {
+      message = "👏 Très bon score ! Vous avez une excellente maîtrise du jeu.";
+    } else if (score >= 4) {
+      message = "🙂 Score honorable ! Relisez les fiches de rôles pour consolider les règles qui vous ont piégé.";
+    } else {
+      message = "📚 Quelques révisions s’imposent : les fiches de rôles sont là pour vous aider.";
+    }
+
+    messageElement.textContent = message;
+  }
+
+  nextButton.addEventListener("click", function () {
+    currentIndex += 1;
+
+    if (currentIndex < quizData.length) {
       loadQuestion();
     } else {
-      showFinalResult();
+      showResult();
     }
-  };
+  });
 
-  function showFinalResult() {
-    document.getElementById('question-box').style.display = 'none';
-    var resBox = document.getElementById('result-box');
-    resBox.style.display = 'block';
-    document.getElementById('final-score').innerText = "Score : " + score + " / " + quizData.length;
-    var msg = "";
-    if (score === 10) {
-      msg = "🏆 Score parfait ! Tu maîtrises les règles de Trouble Brewing à la perfection. Tu es un Conteur hors-pair !";
-    } else if (score >= 7) {
-      msg = "👏 Très bon score ! Tu as une excellente maîtrise du jeu et de ses subtilités.";
-    } else if (score >= 4) {
-      msg = "🙂 Score honorable ! Quelques petites règles t'ont piégé, n'hésite pas à relire les fiches pour réviser.";
-    } else {
-      msg = "📚 Encore un peu de lecture nécessaire ! Les règles de Blood on the Clocktower sont pleines de pièges.";
-    }
-    document.getElementById('final-message').innerText = msg;
-  }
-
-  window.restartQuiz = function() {
-    currentIdx = 0;
+  restartButton.addEventListener("click", function () {
+    currentIndex = 0;
     score = 0;
-    document.getElementById('question-box').style.display = 'block';
-    document.getElementById('result-box').style.display = 'none';
+    resultBox.style.display = "none";
+    questionBox.style.display = "block";
     loadQuestion();
-  };
+  });
 
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', loadQuestion);
-  } else {
-    loadQuestion();
-  }
-})();
+  loadQuestion();
+}());
 </script>
 
+<hr class="explication">
+
+<ul style="color:#e0c99d; font-size:18px; line-height:1.8;">
+  <li>
+    Consultez la section
+    <a href="/botc-fr-bambi/installation.html"
+       style="color:#d4a76a; font-weight:bold; text-decoration:none;">
+      Mise en place
+    </a>
+    pour apprendre à mener une partie.
+  </li>
+  <li>
+    <a href="#botc-quiz"
+       style="color:#d4a76a; font-weight:bold; text-decoration:none;">
+      Retour au quiz ↑
+    </a>
+  </li>
+  <li>
+    <a href="/botc-fr-bambi/"
+       style="color:#e0c99d; font-weight:bold; text-decoration:none;">
+      Retour à la page d’accueil
+    </a>
+  </li>
+</ul>
 
 
 <hr class="explication">
