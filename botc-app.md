@@ -25,7 +25,7 @@ image: /images/logogold.png
   max-width: 1200px;
   margin: 30px auto;
   color: #f0e2ca;
-  font-family: inherit;
+  font-family: system-ui, -apple-system, sans-serif;
 }
 
 /* Sommaire latéral fixe à gauche */
@@ -110,31 +110,34 @@ image: /images/logogold.png
   margin-bottom: 18px;
 }
 
+/* FIX 1 : CERCLE ET NUMÉRO PLUS GROS, GRAS ET BIEN VISIBLE */
 .step-number {
-  background: #ffd97d;
-  color: #1a0f2b;
-  width: 42px;
-  height: 42px;
+  background: #fdf0a6 !important; /* Jaune pastel clair comme l'image 2 */
+  color: #1a0f2b !important;
+  width: 52px !important;  /* Agrandi */
+  height: 52px !important; /* Agrandi */
   border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
-  font-weight: 900;
-  font-size: 20px;
+  font-weight: 900 !important; /* Très gras */
+  font-size: 26px !important;   /* Numéro beaucoup plus gros */
+  font-family: system-ui, -apple-system, sans-serif !important;
   flex-shrink: 0;
-  box-shadow: 0 3px 10px rgba(0,0,0,0.5);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.6);
 }
 
-/* FIX DES TITRES PRINCIPAUX : Doré vif */
+/* FIX 2 : TITRES EN BLANC / CRÈME CLAIR AVEC OMBRE NETTE (PLUS DE ROUGE SOMBRE) */
 .step-title {
-  color: #ffd97d !important;
-  font-size: 24px !important;
-  font-weight: 900;
-  font-style: italic;
-  text-transform: uppercase;
+  color: #ffffff !important; /* Blanc pur pour un contraste parfait */
+  font-size: 28px !important; /* Plus grand */
+  font-weight: 900 !important;
+  font-style: italic !important;
+  text-transform: uppercase !important;
   margin: 0;
-  text-shadow: 2px 2px 4px #000000 !important;
+  text-shadow: 3px 3px 0px #000000, 1px 1px 0px #000000 !important; /* Ombre nette comme l'image 2 */
   letter-spacing: 1px;
+  font-family: inherit;
 }
 
 .step-body {
@@ -180,7 +183,7 @@ image: /images/logogold.png
   display: block;
 }
 
-/* FIX DU TEXTE PRINCIPAL */
+/* TEXTE DU CONTENU */
 .step-text, .step-text p, .step-text li {
   color: #f0e2ca !important;
   font-size: 15px;
