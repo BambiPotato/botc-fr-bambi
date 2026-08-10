@@ -5,6 +5,9 @@ description: Teste tes connaissances sur les règles de Trouble Brewing !
 image: /images/logogold.png
 ---
 
+<!-- ===== ON FORCE JEKYLL À LIRE DU HTML PUR ===== -->
+{% raw %}
+
 <p align="left">
   <a href="/botc-fr-bambi/">
     <img src="images/logogold.png" alt="Accueil BotC FR" width="300">
@@ -22,7 +25,7 @@ image: /images/logogold.png
   Sauras-tu trancher ces 10 situations de jeu comme un vrai Conteur ?
 </p>
 
-<div id="quiz-container" style="background: #1c1510; border: 2px solid #b58b52; border-radius: 12px; padding: 25px; max-width: 750px; margin: 0 auto; box-shadow: 0 6px 20px rgba(0,0,0,0.6);">
+<div id="quiz-container" style="background: linear-gradient(rgba(28, 21, 16, 0.92), rgba(28, 21, 16, 0.95)), url('./images/quiz.png'); background-size: cover; background-position: center; border: 2px solid #b58b52; border-radius: 12px; padding: 25px; max-width: 750px; margin: 0 auto; box-shadow: 0 6px 20px rgba(0,0,0,0.6);">
 
   <div id="question-box">
     <div id="q-number" style="color: #e0c99d; font-weight: bold; font-size: 14px; text-transform: uppercase; margin-bottom: 8px;">QUESTION 1 / 10</div>
@@ -30,7 +33,7 @@ image: /images/logogold.png
 
     <div id="options-box"></div>
 
-    <div id="explanation-box" style="display: none; margin-top: 25px; padding: 18px; background: rgba(0, 0, 0, 0.6); border-left: 4px solid #b58b52; border-radius: 6px;">
+    <div id="explanation-box" style="display: none; margin-top: 25px; padding: 18px; background: rgba(0, 0, 0, 0.7); border-left: 4px solid #b58b52; border-radius: 6px;">
       <div id="expl-title" style="font-weight: bold; font-size: 18px; margin-bottom: 8px;"></div>
       <div id="expl-text" style="color: #f5f5f5; font-size: 16px; line-height: 1.6; margin-bottom: 15px;"></div>
       
@@ -282,7 +285,12 @@ image: /images/logogold.png
   loadQuestion();
 </script>
 
+{% endraw %}
+<!-- ===== FIN DU BLOC HTML PUR ===== -->
+
+
 <hr class="explication">
+
 <ul style="color:#e0c99d; font-size:18px; line-height:1.8;">
   <li>Lisez comment mener une partie dans la section <a href="/botc-fr-bambi/installation.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Mise en place</a>.</li>
   <li><a href="#top" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Retour en haut de la page ↑</a></li>
