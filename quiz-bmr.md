@@ -20,7 +20,7 @@ Petit Quiz 🧠 sur le module Bad Moon Rising
 </h1>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7; padding-left:16px; margin:0 0 25px;">
-Testez vos connaissances sur les règles et subtilités du script <strong style="color:#d4a76a;">Bad Moon Rising</strong>.
+Testez vos connaissances sur les règles de niveau 1 et subtilités du module <strong style="color:#d4a76a;">Bad Moon Rising</strong>.
 </p>
 
 <style>
