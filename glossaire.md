@@ -18,7 +18,7 @@ image: /images/logogold.png
 #  <span style="color:#5C2E1F; font-weight:bold; font-size:36px;">Glossaire</span>
 
 <p class="botc-flavour-text dropcap" style="margin:0;">
-« Chaque terme a son importance dans Blood on the Clocktower »
+Chaque terme a son importance dans Blood on the Clocktower 
 </p>
 
 <div class="botc-note">
