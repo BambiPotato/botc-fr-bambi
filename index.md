@@ -569,7 +569,7 @@ data-tooltip="Suis-nous sur Instagram">
   </table>
 </div>
 
- <!-- 3. Informations sur le jeu -->
+<!-- 3. Informations sur le jeu -->
 <h1 style="
   color:#b58b52;
   font-size:20px;
@@ -596,7 +596,7 @@ data-tooltip="Suis-nous sur Instagram">
     <td class="rules-cell">
       <a class="rules-link" href="./glossaireengfr.html" aria-label="Glossaire des termes anglais">
         <div class="rules-title">Glossaire des termes anglais</div>
-        <div class="rules-sub">Termes anglais & équivalents français</div>
+        <div class="rules-sub">Termes anglais &amp; équivalents français</div>
       </a>
     </td>
 
@@ -606,13 +606,19 @@ data-tooltip="Suis-nous sur Instagram">
         <div class="rules-sub">Astuces, bonnes pratiques</div>
       </a>
     </td>
+  </tr>
 
+  <tr>
     <td class="rules-cell">
       <a class="rules-link" href="./strategie.html" aria-label="Conseils et stratégies pour les joueurs et joueuses">
-        <div class="rules-title">Conseils & stratégies pour les joueurs et joueuses</div>
+        <div class="rules-title">Conseils &amp; stratégies pour les joueurs et joueuses</div>
         <div class="rules-sub">Pistes de réflexion en partie</div>
       </a>
     </td>
+
+    <!-- Cases vides transparentes pour garder les 3 colonnes parfaites -->
+    <td style="background: transparent !important; border: none !important; box-shadow: none !important;"></td>
+    <td style="background: transparent !important; border: none !important; box-shadow: none !important;"></td>
   </tr>
 </table>
 
@@ -653,16 +659,16 @@ data-tooltip="Suis-nous sur Instagram">
         <div class="rules-sub">Univers, signaux, déroulé</div>
       </a>
     </td>
+  </tr>
 
+  <tr>
     <td class="rules-cell">
       <a class="rules-link" href="./repartition.html">
         <div class="rules-title">Répartition du village</div>
         <div class="rules-sub">Configuration officielle</div>
       </a>
     </td>
-  </tr>
 
-  <tr>
     <td class="rules-cell">
       <a class="rules-link" href="./installation.html">
         <div class="rules-title">Mise en place</div>
@@ -676,7 +682,9 @@ data-tooltip="Suis-nous sur Instagram">
         <div class="rules-sub">Le guide complet pour orchestrer toutes les phases.</div>
       </a>
     </td>
+  </tr>
 
+  <tr>
     <td class="rules-cell">
       <a class="rules-link" href="./capacite.html">
         <div class="rules-title">Capacités</div>
@@ -690,24 +698,29 @@ data-tooltip="Suis-nous sur Instagram">
         <div class="rules-sub">Ivresse, empoisonnement…</div>
       </a>
     </td>
-  </tr>
 
-  <tr>
     <td class="rules-cell">
       <a class="rules-link" href="./teensyville.html">
         <div class="rules-title">Teensyville</div>
         <div class="rules-sub">Format pour 5–6 joueurs</div>
       </a>
     </td>
+  </tr>
 
+  <tr>
     <td class="rules-cell">
       <a class="rules-link" href="./outildescript.html">
         <div class="rules-title">Outil de script</div>
         <div class="rules-sub">Créer des scripts personnalisés</div>
       </a>
     </td>
+
+    <!-- Cases vides transparentes pour équilibrer la dernière ligne -->
+    <td style="background: transparent !important; border: none !important; box-shadow: none !important;"></td>
+    <td style="background: transparent !important; border: none !important; box-shadow: none !important;"></td>
   </tr>
 </table>
+
 
 
 <!-- ====== SCRIPTS PERSONNALISÉS ====== -->
