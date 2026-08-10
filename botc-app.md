@@ -14,7 +14,6 @@ image: /images/logogold.png
 
 
 <hr class="explication">
-
 <style>
 /* Disposition générale */
 .guide-container {
@@ -26,14 +25,14 @@ image: /images/logogold.png
   font-family: inherit;
 }
 
-/* Sommaire latéral fixe à gauche (Violet sombre + Bordure Dorée) */
+/* Sommaire latéral fixe à gauche */
 .guide-sidebar {
   width: 280px;
   flex-shrink: 0;
   position: sticky;
   top: 20px;
   height: fit-content;
-  background: #1c102e; /* Violet profond BOTC */
+  background: #1c102e;
   border: 1px solid #d4a76a;
   border-radius: 12px;
   padding: 20px;
@@ -42,15 +41,18 @@ image: /images/logogold.png
   overflow-y: auto;
 }
 
+/* TITRES DES CATÉGORIES DANS LE SOMMAIRE (Nettement plus clairs et lisibles) */
 .guide-sidebar h3 {
-  color: #e5c188; /* Doré antique */
-  font-size: 13px;
-  font-weight: bold;
-  letter-spacing: 1.2px;
+  color: #ffd97d !important; /* Jaune doré très lumineux */
+  font-size: 15px;
+  font-weight: 800;
+  font-style: italic;
+  letter-spacing: 1.5px;
   text-transform: uppercase;
-  margin: 18px 0 8px 0;
-  border-bottom: 1px solid rgba(212, 167, 106, 0.3);
-  padding-bottom: 4px;
+  margin: 22px 0 10px 0;
+  border-bottom: 1px solid rgba(255, 217, 125, 0.3);
+  padding-bottom: 5px;
+  text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.9); /* Ombre de contraste */
 }
 
 .guide-sidebar h3:first-child {
@@ -68,7 +70,7 @@ image: /images/logogold.png
 }
 
 .guide-sidebar a {
-  color: #cbb8dc; /* Violet clair lisible */
+  color: #e2d3f3; /* Texte des liens très lisible */
   text-decoration: none;
   font-size: 14px;
   transition: all 0.2s ease;
@@ -77,9 +79,9 @@ image: /images/logogold.png
 }
 
 .guide-sidebar a:hover {
-  color: #fff;
+  color: #ffffff;
   padding-left: 5px;
-  text-shadow: 0 0 8px rgba(229, 193, 136, 0.5);
+  text-shadow: 0 0 8px rgba(255, 217, 125, 0.6);
 }
 
 /* Zone de contenu principale */
@@ -87,9 +89,9 @@ image: /images/logogold.png
   flex-grow: 1;
 }
 
-/* Cartes d'étapes (Violet nuit sombre) */
+/* Cartes d'étapes */
 .step-card {
-  background: #231538; /* Fond violet feutré */
+  background: #231538;
   border: 1px solid #b58b52;
   border-radius: 12px;
   padding: 25px;
@@ -106,27 +108,30 @@ image: /images/logogold.png
 }
 
 .step-number {
-  background: #d4a76a; /* Cercle Doré */
+  background: #ffd97d; /* Pastille jaune doré */
   color: #1a0f2b;
-  width: 38px;
-  height: 38px;
+  width: 42px;
+  height: 42px;
   border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
-  font-weight: bold;
-  font-size: 19px;
+  font-weight: 900;
+  font-size: 20px;
   flex-shrink: 0;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.4);
+  box-shadow: 0 3px 10px rgba(0,0,0,0.5);
 }
 
+/* TITRES PRINCIPAUX DES ÉTAPES (Gros, dorés, en majuscules et très visibles) */
 .step-title {
-  color: #e5c188; /* Titre Doré */
-  font-size: 22px;
-  font-weight: bold;
+  color: #ffd97d !important; /* Jaune/Doré éclatant */
+  font-size: 24px !important; /* Taille augmentée */
+  font-weight: 900;
+  font-style: italic;
+  text-transform: uppercase;
   margin: 0;
-  text-shadow: 1px 1px 4px #000;
-  letter-spacing: 0.5px;
+  text-shadow: 2px 2px 6px #000000, 0 0 10px rgba(255, 217, 125, 0.2); /* Double ombre pour détacher du fond */
+  letter-spacing: 1px;
 }
 
 .step-body {
@@ -154,14 +159,14 @@ image: /images/logogold.png
   width: 280px;
   flex-shrink: 0;
   border-radius: 8px;
-  border: 1px solid rgba(212, 167, 106, 0.4);
+  border: 1px solid rgba(255, 217, 125, 0.4);
   overflow: hidden;
   background: #12091f;
   min-height: 160px;
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #8f7b9c;
+  color: #a894b8;
   font-size: 13px;
   text-align: center;
   padding: 10px;
@@ -180,19 +185,15 @@ image: /images/logogold.png
   color: #f0e2ca;
 }
 
-.step-text ul {
-  margin: 10px 0;
-  padding-left: 20px;
+/* Éléments forts dans le texte */
+.step-text strong {
+  color: #ffd97d; /* Met les mots importants en doré clair au lieu de rouge sombre */
 }
 
-.step-text li {
-  margin-bottom: 6px;
-}
-
-/* Encadré d'action "★ À FAIRE" ou "BRAVO" */
+/* Encadrés d'actions */
 .action-box {
   background: #160c24;
-  border-left: 4px solid #d4a76a;
+  border-left: 4px solid #ffd97d;
   border-radius: 6px;
   padding: 12px 15px;
   margin-top: 15px;
@@ -200,7 +201,7 @@ image: /images/logogold.png
 
 .action-badge {
   display: inline-block;
-  background: #d4a76a;
+  background: #ffd97d;
   color: #1a0f2b;
   font-size: 11px;
   font-weight: bold;
@@ -210,7 +211,6 @@ image: /images/logogold.png
   margin-bottom: 8px;
 }
 
-/* Touches du clavier */
 .key-badge {
   background: #f0e2ca;
   color: #1a0f2b;
