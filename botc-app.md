@@ -405,7 +405,7 @@ image: /images/logogold.png
               <span class="badge-afaire"><span class="badge-icon">★</span> À FAIRE</span><br>
               <span style="color: #ffffff !important;">Appuyez sur la touche <span class="key-cap">Q</span> de votre clavier.</span>
               <span style="color: #ffd97d !important; font-weight: 900 !important; font-style: italic !important; margin: 10px 0 !important; display: block !important;">— OU —</span>
-              <span style="color: #ffffff !important;">Cliquez sur l'icône d'engrenage ⚙️.</span>
+              <span style="color: #ffffff !important;">Cliquez sur l'icône ⚙️ d'engrenage. </span>
             </div>
           </div>
         </div>
