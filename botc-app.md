@@ -306,7 +306,7 @@ image: /images/logogold.png
       <div class="step-grid">
         <div class="step-row">
           <!-- TON IMAGE ICI : remplace juste inscription.png par le nom de ton fichier -->
-          <img src="inscription.png" alt="Formulaire d'inscription" class="step-media">
+          <img src="images/inscription.png" alt="Formulaire d'inscription" class="step-media">
           <div>
             <p style="color: #ffffff !important;">Pour jouer avec l’application <strong>Blood 🩸 on the Clocktower 🕰️</strong>, vous devez créer un <strong>compte gratuit</strong>.</p>
             <ul style="list-style: none; padding-left: 0;">
