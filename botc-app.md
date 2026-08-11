@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Guide d'utilisation de BOTC App
-description: Tutoriel complet pour jouer à Blood on the Clocktower en ligne sur l'application officielle.
+title: "BotC APP : le guide d'utilisation pour jouer en ligne."
+description: "Tutoriel complet pour jouer à Blood on the Clocktower en ligne sur l'application officielle."
 image: /images/logogold.png
 ---
 
@@ -14,6 +14,7 @@ image: /images/logogold.png
 
 
 <hr class="explication">
+
 
 <style>
 /* Layout principal */
@@ -85,6 +86,95 @@ image: /images/logogold.png
   flex-grow: 1;
 }
 
+/* SECTION HAUT DE PAGE / EN-TÊTE EN DOUBLE CARTE */
+.header-hero-container {
+  max-width: 1200px;
+  margin: 20px auto 30px auto;
+  padding: 0 10px;
+}
+
+.header-grid {
+  display: flex;
+  gap: 20px;
+  align-items: stretch;
+}
+
+.hero-card {
+  flex: 1;
+  background: #f7f3ec !important;
+  border: 1.5px solid #dcd1c4 !important;
+  border-radius: 16px !important;
+  padding: 24px !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06) !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.hero-card h1 {
+  color: #1c102e !important;
+  font-size: 32px !important;
+  font-weight: 900 !important;
+  font-style: italic !important;
+  text-transform: uppercase !important;
+  margin: 12px 0 !important;
+  line-height: 1.2 !important;
+}
+
+.hero-card p {
+  color: #3b1b15 !important;
+  font-size: 15px !important;
+  line-height: 1.6 !important;
+  font-weight: 600 !important;
+  margin: 0 !important;
+}
+
+/* ENCART VIDÉO COMPACT */
+.video-card-compact {
+  flex: 1;
+  background: #f7f3ec !important;
+  border: 1.5px solid #dcd1c4 !important;
+  border-radius: 16px !important;
+  padding: 20px 18px !important;
+  text-align: center !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06) !important;
+}
+
+.video-card-compact h3 {
+  color: #3b1b15 !important;
+  font-size: 22px !important;
+  font-weight: 800 !important;
+  margin: 0 0 12px 0 !important;
+  font-family: Georgia, serif !important;
+}
+
+.video-wrapper-compact {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  border-radius: 12px;
+  background: #000000;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}
+
+.video-wrapper-compact iframe {
+  position: absolute;
+  top: -8%; 
+  left: -4%; 
+  width: 108%; 
+  height: 116%; 
+  border: 0;
+}
+
+.video-card-compact p {
+  color: #3b1b15 !important;
+  font-size: 14px !important;
+  margin: 12px 0 0 0 !important;
+  font-weight: 500 !important;
+}
+
+/* CARTES D'ÉTAPES */
 .step-card {
   background: #1c102e !important;
   border: 1px solid #b58b52 !important;
@@ -114,7 +204,6 @@ image: /images/logogold.png
   align-items: center;
 }
 
-/* STYLE IMAGES UNIFORME & HOMOGÈNE */
 .step-media {
   width: 280px !important;
   height: 160px !important;
@@ -181,52 +270,6 @@ image: /images/logogold.png
   gap: 8px !important;
 }
 
-/* ENCART VIDÉO COMPACT */
-.video-card-compact {
-  background: #f7f3ec !important;
-  border: 1.5px solid #dcd1c4 !important;
-  border-radius: 16px !important;
-  padding: 18px 16px !important;
-  max-width: 380px !important;
-  margin: 20px 0 35px 0 !important;
-  text-align: center !important;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06) !important;
-}
-
-.video-card-compact h3 {
-  color: #3b1b15 !important;
-  font-size: 22px !important;
-  font-weight: 800 !important;
-  margin: 0 0 14px 0 !important;
-  font-family: Georgia, serif !important;
-}
-
-.video-wrapper-compact {
-  position: relative;
-  padding-bottom: 56.25%;
-  height: 0;
-  overflow: hidden;
-  border-radius: 12px;
-  background: #000000;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
-}
-
-.video-wrapper-compact iframe {
-  position: absolute;
-  top: -8%; 
-  left: -4%; 
-  width: 108%; 
-  height: 116%; 
-  border: 0;
-}
-
-.video-card-compact p {
-  color: #3b1b15 !important;
-  font-size: 14px !important;
-  margin: 12px 0 0 0 !important;
-  font-weight: 500 !important;
-}
-
 /* BOUTON RETOUR EN HAUT */
 .back-to-top {
   display: block;
@@ -251,30 +294,39 @@ image: /images/logogold.png
   color: #ffffff !important;
 }
 
+/* ADAPTATION MOBILE */
 @media (max-width: 768px) {
+  .header-grid { flex-direction: column; }
   .guide-container { flex-direction: column; }
-  .guide-sidebar { width: 100%; }
+  .guide-sidebar { width: 100%; position: static; }
   .step-row { flex-direction: column; }
-  .video-card-compact { max-width: 100% !important; }
 }
 </style>
 
-<!-- EN-TÊTE / ANCRE DE HAUT DE PAGE -->
-<div id="top-guide" style="max-width: 1200px; margin: 20px auto 10px auto; padding: 0 10px;" markdown="0">
-  <span style="display: inline-block !important; background: #1c102e !important; color: #ffd97d !important; font-size: 13px !important; font-weight: 900 !important; letter-spacing: 2px !important; padding: 6px 14px !important; border-radius: 6px !important; text-transform: uppercase !important;">GUIDE DU JOUEUR · BOTC.APP</span>
-  
-  <h1 style="color: #1c102e !important; font-size: 40px !important; font-weight: 900 !important; font-style: italic !important; text-transform: uppercase !important; margin: 12px 0 !important;">COMMENT JOUER SUR BOTC.APP</h1>
-  
-  <p style="color: #2b1a3f !important; font-size: 16px !important; line-height: 1.5 !important; font-weight: 600 !important; max-width: 900px;">
-    Vous trouverez ici tout ce dont vous avez besoin pour rejoindre une partie, parler aux autres joueurs et gérer votre grimoire — sur l'application officielle en ligne de <strong>Blood on the Clocktower</strong>.
-  </p>
-
-  <div class="video-card-compact">
-    <h3>Tuto vidéo</h3>
-    <div class="video-wrapper-compact">
-      <iframe src="https://www.youtube-nocookie.com/embed/O2ksf5eTeSI" title="Tutoriel pour jouer sur l'application" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- EN-TÊTE / ANCRE DE HAUT DE PAGE (ALIGNÉ CÔTÉ À CÔTÉ) -->
+<div id="top-guide" class="header-hero-container" markdown="0">
+  <div class="header-grid">
+    
+    <!-- CARTE TEXTE D'ACCUEIL -->
+    <div class="hero-card">
+      <div>
+        <span style="display: inline-block !important; background: #1c102e !important; color: #ffd97d !important; font-size: 12px !important; font-weight: 900 !important; letter-spacing: 2px !important; padding: 6px 12px !important; border-radius: 6px !important; text-transform: uppercase !important;">GUIDE DU JOUEUR · BOTC.APP</span>
+      </div>
+      <h1>COMMENT JOUER SUR L'APPLICATION OFFICIELLE</h1>
+      <p>
+        Vous trouverez ici tout ce dont vous avez besoin pour rejoindre une partie en ligne, parler aux autres joueurs et gérer votre grimoire sur l'application officielle de <strong>Blood on the Clocktower</strong>.
+      </p>
     </div>
-    <p>Une petite démonstration en vidéo pour vous guider pas à pas sur l'application.</p>
+
+    <!-- CARTE TUTO VIDÉO -->
+    <div class="video-card-compact">
+      <h3>Tuto vidéo</h3>
+      <div class="video-wrapper-compact">
+        <iframe src="https://www.youtube-nocookie.com/embed/O2ksf5eTeSI" title="Tutoriel pour jouer sur l'application" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+      <p>Une petite démonstration en vidéo pour vous guider pas à pas sur l'application.</p>
+    </div>
+
   </div>
 </div>
 
@@ -418,7 +470,7 @@ image: /images/logogold.png
       </div>
     </div>
 
-    <!-- ÉTAPE 4 : CONFIGURER CAMÉRA & MICRO (8 IMAGES) -->
+    <!-- ÉTAPE 4 : CONFIGURER CAMÉRA & MICRO -->
     <div id="step-4" class="step-card">
       <div class="step-header">
         <div style="background: #fdf0a6 !important; color: #1a0f2b !important; width: 52px !important; height: 52px !important; border-radius: 50% !important; display: flex !important; align-items: center !important; justify-content: center !important; font-weight: 900 !important; font-size: 26px !important; flex-shrink: 0 !important; box-shadow: 0 4px 12px rgba(0,0,0,0.6) !important;">4</div>
@@ -433,7 +485,7 @@ image: /images/logogold.png
               <span class="badge-afaire"><span class="badge-icon">★</span> À FAIRE</span><br>
               <span style="color: #ffffff !important;">Appuyez sur la touche <span class="key-cap">Q</span> de votre clavier.</span>
               <span style="color: #ffd97d !important; font-weight: 900 !important; font-style: italic !important; margin: 10px 0 !important; display: block !important;">— OU —</span>
-              <span style="color: #ffffff !important;">Cliquez sur l'icône d'engrenage ⚙️.</span>
+              <span style="color: #ffffff !important;">Cliquez sur l'icône ⚙️ d'engrenage.</span>
             </div>
           </div>
         </div>
@@ -453,7 +505,7 @@ image: /images/logogold.png
           <div>
             <div class="action-box">
               <span class="badge-afaire"><span class="badge-icon">★</span> À FAIRE</span><br>
-              <span style="color: #ffffff !important;">Cliquez sur <strong>Paramètres (Settings)</strong>.</span>
+              <span style="color: #ffffff !important;">Cliquez sur <strong>Paramètres</strong>.</span>
             </div>
           </div>
         </div>
@@ -473,7 +525,7 @@ image: /images/logogold.png
           <div>
             <div class="action-box">
               <span class="badge-afaire"><span class="badge-icon">★</span> À FAIRE</span><br>
-              <span style="color: #ffffff !important;">Cliquez sur <strong>Lancer la configuration (Run the Setup)</strong>.</span>
+              <span style="color: #ffffff !important;">Cliquez sur <strong>Lancer la configuration</strong>.</span>
             </div>
           </div>
         </div>
@@ -483,7 +535,7 @@ image: /images/logogold.png
           <div>
             <div class="action-box">
               <span class="badge-afaire"><span class="badge-icon">★</span> À FAIRE</span><br>
-              <span style="color: #ffffff !important;">Cliquez sur <strong>Démarrer (Start)</strong>.</span>
+              <span style="color: #ffffff !important;">Cliquez sur <strong>Démarrer</strong>.</span>
             </div>
           </div>
         </div>
@@ -493,7 +545,7 @@ image: /images/logogold.png
           <div>
             <div class="action-box">
               <span class="badge-afaire"><span class="badge-icon">★</span> À FAIRE</span><br>
-              <span style="color: #ffffff !important;">Choisissez la caméra et le microphone à utiliser. Lorsque la caméra est bien réglée, vous vous verrez ; lorsque le micro fonctionne, des <strong style="color: #ffd97d !important;">barres jaunes</strong> bougent au rythme de votre voix. Une fois terminé, cliquez sur <strong>Fermer (Close)</strong>.</span>
+              <span style="color: #ffffff !important;">Choisissez la caméra et le microphone à utiliser. Lorsque la caméra est bien réglée, vous vous verrez ; lorsque le micro fonctionne, des <strong style="color: #ffd97d !important;">barres jaunes</strong> bougent au rythme de votre voix. Une fois terminé, cliquez sur <strong>Fermer</strong>.</span>
             </div>
           </div>
         </div>
@@ -581,14 +633,14 @@ image: /images/logogold.png
           <div>
             <div class="action-box">
               <span class="badge-afaire"><span class="badge-icon">★</span> À FAIRE</span><br>
-              <span style="color: #ffffff !important;">Cliquez directement sur l'icône de bulle 💬 à côté du joueur que vous souhaitez contacter.</span>
+              <span style="color: #ffffff !important;">Cliquez directement sur l'icône 💬 de bulle à côté du joueur que vous souhaitez contacter.</span>
             </div>
           </div>
         </div>
       </div>
     </div>
 
-    <!-- ÉTAPE 8 : ENVOYER UN CHUCHOTEMENT (4 IMAGES) -->
+    <!-- ÉTAPE 8 -->
     <div id="step-8" class="step-card">
       <div class="step-header">
         <div style="background: #fdf0a6 !important; color: #1a0f2b !important; width: 52px !important; height: 52px !important; border-radius: 50% !important; display: flex !important; align-items: center !important; justify-content: center !important; font-weight: 900 !important; font-size: 26px !important; flex-shrink: 0 !important; box-shadow: 0 4px 12px rgba(0,0,0,0.6) !important;">8</div>
@@ -636,7 +688,7 @@ image: /images/logogold.png
       </div>
     </div>
 
-    <!-- ÉTAPE 9 : NOM & AVATAR (4 IMAGES) -->
+    <!-- ÉTAPE 9 -->
     <div id="step-9" class="step-card">
       <div class="step-header">
         <div style="background: #fdf0a6 !important; color: #1a0f2b !important; width: 52px !important; height: 52px !important; border-radius: 50% !important; display: flex !important; align-items: center !important; justify-content: center !important; font-weight: 900 !important; font-size: 26px !important; flex-shrink: 0 !important; box-shadow: 0 4px 12px rgba(0,0,0,0.6) !important;">9</div>
@@ -652,7 +704,7 @@ image: /images/logogold.png
         <div class="step-row">
           <img src="images/onglet-utilisateur.png" alt="Onglet Utilisateur" class="step-media">
           <div>
-            <p style="color: #ffffff !important; margin: 0 !important;">Cliquez sur le 2ème onglet, <strong>Utilisateur (User)</strong>.</p>
+            <p style="color: #ffffff !important; margin: 0 !important;">Cliquez sur le 2ème onglet, <strong>Utilisateur</strong>.</p>
           </div>
         </div>
         <div class="step-row">
@@ -672,7 +724,7 @@ image: /images/logogold.png
       </div>
     </div>
 
-    <!-- ÉTAPE 10 : QUITTERS SON SIÈGE (2 IMAGES) -->
+    <!-- ÉTAPE 10 -->
     <div id="step-10" class="step-card">
       <div class="step-header">
         <div style="background: #fdf0a6 !important; color: #1a0f2b !important; width: 52px !important; height: 52px !important; border-radius: 50% !important; display: flex !important; align-items: center !important; justify-content: center !important; font-weight: 900 !important; font-size: 26px !important; flex-shrink: 0 !important; box-shadow: 0 4px 12px rgba(0,0,0,0.6) !important;">10</div>
@@ -682,13 +734,13 @@ image: /images/logogold.png
         <div class="step-row">
           <img src="images/clic-engrenage.png" alt="Engrenage" class="step-media">
           <div>
-            <p style="color: #ffffff !important; margin: 0 !important;">Cliquez sur l'icône d'engrenage ⚙️.</p>
+            <p style="color: #ffffff !important; margin: 0 !important;">Cliquez sur l'icône ⚙️ d'engrenage.</p>
           </div>
         </div>
         <div class="step-row">
-          <img src="images/liberer-siege.png" alt="Liberer Siege" class="step-media">
+          <img src="images/liberer-siege.png" alt="Quitter son siège" class="step-media">
           <div>
-            <p style="color: #ffffff !important; margin: 0 !important;">Cliquez sur <strong>Libérer le siège (Vacate Seat)</strong>. Vous restez dans la partie en tant que Spectateur — vous pouvez chuchoter au Conteur et discuter avec les autres spectateurs.</p>
+            <p style="color: #ffffff !important; margin: 0 !important;">Cliquez sur <strong>Quitter son siège</strong>. Vous restez dans la partie en tant que Spectateur — vous pouvez chuchoter au Conteur et discuter avec les autres spectateurs.</p>
           </div>
         </div>
       </div>
@@ -710,7 +762,7 @@ image: /images/logogold.png
       </div>
     </div>
 
-    <!-- ÉTAPE 12 : QUITTERS LA PARTIE (2 IMAGES) -->
+    <!-- ÉTAPE 12 -->
     <div id="step-12" class="step-card">
       <div class="step-header">
         <div style="background: #fdf0a6 !important; color: #1a0f2b !important; width: 52px !important; height: 52px !important; border-radius: 50% !important; display: flex !important; align-items: center !important; justify-content: center !important; font-weight: 900 !important; font-size: 26px !important; flex-shrink: 0 !important; box-shadow: 0 4px 12px rgba(0,0,0,0.6) !important;">12</div>
@@ -720,20 +772,20 @@ image: /images/logogold.png
         <div class="step-row">
           <img src="images/quitter-touche-l.png" alt="Touche L" class="step-media">
           <div>
-            <p style="color: #ffffff !important; margin: 0 !important;">Appuyez sur la touche <span class="key-cap">L</span> du clavier — un message d'avertissement apparaît pour éviter les quitts accidentels.</p>
+            <p style="color: #ffffff !important; margin: 0 !important;">Appuyez sur la touche <span class="key-cap">L</span> du clavier — un message d'avertissement apparaît pour éviter les déconnexions accidentelles.</p>
           </div>
         </div>
         <div class="step-row">
           <img src="images/quitter-partie.png" alt="Quitter Partie Engrenage" class="step-media">
           <div>
             <span style="color: #ffd97d !important; font-weight: 900 !important; font-style: italic !important; margin: 10px 0 !important; display: block !important;">— OU —</span>
-            <p style="color: #ffffff !important; margin: 0 !important;">Cliquez sur l'engrenage ⚙️ puis sur <strong>Quitter la partie</strong>.</p>
+            <p style="color: #ffffff !important; margin: 0 !important;">Cliquez sur l'icône ⚙️ d'engrenage puis sur <strong>Quitter la partie</strong>.</p>
           </div>
         </div>
       </div>
     </div>
 
-    <!-- ÉTAPE 13 : OUVRIR L'ONGLET RÔLES (3 IMAGES) -->
+    <!-- ÉTAPE 13 -->
     <div id="step-13" class="step-card">
       <div class="step-header">
         <div style="background: #fdf0a6 !important; color: #1a0f2b !important; width: 52px !important; height: 52px !important; border-radius: 50% !important; display: flex !important; align-items: center !important; justify-content: center !important; font-weight: 900 !important; font-size: 26px !important; flex-shrink: 0 !important; box-shadow: 0 4px 12px rgba(0,0,0,0.6) !important;">13</div>
@@ -743,7 +795,7 @@ image: /images/logogold.png
         <div class="step-row">
           <img src="images/roles-liste-courte.png" alt="Liste courte rôles" class="step-media">
           <div>
-            <p style="color: #ffffff !important; margin: 0 !important;">Cliquez sur l'onglet <strong>Personnages (Character)</strong> pour afficher la liste simplifiée des personnages du script.</p>
+            <p style="color: #ffffff !important; margin: 0 !important;">Cliquez sur l'onglet <strong>Personnages</strong> pour afficher la liste simplifiée des personnages du script.</p>
           </div>
         </div>
         <div class="step-row">
@@ -761,7 +813,7 @@ image: /images/logogold.png
       </div>
     </div>
 
-    <!-- ÉTAPE 14 : JETONS DE RÔLES & RAPPELS (6 IMAGES) -->
+    <!-- ÉTAPE 14 -->
     <div id="step-14" class="step-card">
       <div class="step-header">
         <div style="background: #fdf0a6 !important; color: #1a0f2b !important; width: 52px !important; height: 52px !important; border-radius: 50% !important; display: flex !important; align-items: center !important; justify-content: center !important; font-weight: 900 !important; font-size: 26px !important; flex-shrink: 0 !important; box-shadow: 0 4px 12px rgba(0,0,0,0.6) !important;">14</div>
@@ -803,7 +855,7 @@ image: /images/logogold.png
         <div class="step-row">
           <img src="images/exemples-rappels.png" alt="Exemples de rappels" class="step-media">
           <div>
-            <p style="color: #ffffff !important; margin: 0 !important;">Parfait pour suivre plusieurs revendications de rôles, les infos du Savant, la cible du Cancanier (Gossip)... et bien plus encore !</p>
+            <p style="color: #ffffff !important; margin: 0 !important;">Parfait pour suivre plusieurs revendications de rôles, les infos du Savant, la cible de la Commère... et bien plus encore !</p>
           </div>
         </div>
       </div>
@@ -856,7 +908,6 @@ image: /images/logogold.png
 
   </div>
 </div>
-
 
 <hr class="explication">
 
