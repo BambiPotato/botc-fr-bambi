@@ -14,6 +14,7 @@ image: /images/logogold.png
 
 
 <hr class="explication">
+
 <style>
 /* Layout principal */
 .guide-container {
@@ -132,8 +133,8 @@ image: /images/logogold.png
   margin: 10px 0 !important;
 }
 
-/* NOUVEAUX BADGES REVISITÉS */
-.badge-afaire {
+/* BADGES DE BOUTONS (À FAIRE / BRAVO) - DESIGN ENCADRÉ VIOLET/JAUNE VERRROUILLÉ */
+.badge-afaire, .badge-bravo {
   background: #2a143d !important;
   color: #ffe885 !important;
   border: 1.5px solid #ffd97d !important;
@@ -150,31 +151,14 @@ image: /images/logogold.png
   box-shadow: 0 2px 8px rgba(0,0,0,0.4) !important;
 }
 
-.badge-bravo {
-  background: #fdf0a6 !important;
-  color: #1a0f2b !important;
-  border: 1px solid #e2d275 !important;
-  font-size: 13px !important;
-  font-weight: 900 !important;
-  letter-spacing: 1.5px !important;
-  padding: 6px 14px !important;
-  border-radius: 6px !important;
-  text-transform: uppercase !important;
-  display: inline-flex !important;
-  align-items: center !important;
-  gap: 8px !important;
-  margin-bottom: 12px !important;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.2) !important;
-}
-
-/* ÉMOJIS GROSSIS DANS LES BADGES ET L'ICÔNE ÉTOILE */
+/* TAILLE ÉMOJIS DANS BADGES */
 .badge-icon {
-  font-size: 18px !important;
+  font-size: 17px !important;
   line-height: 1 !important;
   display: inline-block !important;
 }
 
-/* TOUCHES DU CLAVIER LISIBLES */
+/* TOUCHES CLAVIER */
 .key-cap {
   background: #ffffff !important;
   color: #000000 !important;
@@ -186,6 +170,17 @@ image: /images/logogold.png
   border: 1px solid #000000 !important;
   display: inline-block !important;
   box-shadow: 0 2px 0 rgba(0,0,0,0.2) !important;
+}
+
+/* TITRES DE SOUS-ÉTAPES JAUNES ENCADRÉS / LISIBLES */
+.sub-step-title {
+  color: #ffd97d !important;
+  font-size: 18px !important;
+  font-weight: 900 !important;
+  margin: 0 0 8px 0 !important;
+  display: flex !important;
+  align-items: center !important;
+  gap: 8px !important;
 }
 
 /* ENCART VIDÉO COMPACT */
@@ -242,7 +237,7 @@ image: /images/logogold.png
 }
 </style>
 
-<!-- EN-TÊTE -->
+<!-- EN-TÊTE PAGE ACCUEIL -->
 <div style="max-width: 1200px; margin: 20px auto 10px auto; padding: 0 10px;" markdown="0">
   <span style="display: inline-block !important; background: #1c102e !important; color: #ffd97d !important; font-size: 13px !important; font-weight: 900 !important; letter-spacing: 2px !important; padding: 6px 14px !important; border-radius: 6px !important; text-transform: uppercase !important;">GUIDE DU JOUEUR · BOTC.APP</span>
   
@@ -252,7 +247,7 @@ image: /images/logogold.png
     Vous trouverez ici tout ce dont vous avez besoin pour rejoindre une partie, parler aux autres joueurs et gérer votre grimoire — sur l'application officielle en ligne de <strong>Blood on the Clocktower</strong>.
   </p>
 
-  <!-- ENCART VIDÉO PETIT & ENCADRÉ -->
+  <!-- ENCART VIDÉO TUTO -->
   <div class="video-card-compact">
     <h3>Tuto vidéo</h3>
     <div class="video-wrapper-compact">
@@ -322,15 +317,19 @@ image: /images/logogold.png
           <div>
             <p style="color: #ffffff !important;">Pour jouer avec l’application <strong>Blood 🩸 on the Clocktower 🕰️</strong>, vous devez créer un <strong>compte gratuit</strong>.</p>
             <ul style="list-style: none; padding-left: 0;">
-              <li style="margin-bottom: 10px; color: #ffffff !important;">
-                <strong style="color: #ffd97d !important;">1️⃣ Rendez-vous sur le site officiel :</strong><br>
-                ▫️ <a href="https://botc.app/login" target="_blank" rel="noopener noreferrer" style="color: #ffd97d !important; font-weight: bold; text-decoration: underline;">https://botc.app/login 🔗</a>
+              <li style="margin-bottom: 12px; color: #ffffff !important;">
+                <h4 class="sub-step-title">1️⃣ Rendez-vous sur le site officiel :</h4>
+                <a href="https://botc.app/login" target="_blank" rel="noopener noreferrer" style="color: #ffd97d !important; font-weight: bold; text-decoration: underline;">https://botc.app/login 🔗</a>
               </li>
-              <li style="margin-bottom: 10px; color: #ffffff !important;">
-                <strong style="color: #ffd97d !important;">2️⃣ Cliquez sur S'inscrire :</strong> Remplissez les champs <em>(adresse e-mail, mot de passe, pseudonyme)</em>.<br>
+              <li style="margin-bottom: 12px; color: #ffffff !important;">
+                <h4 class="sub-step-title">2️⃣ Cliquez sur S'inscrire :</h4>
+                Remplissez les champs <em>(adresse e-mail, mot de passe, pseudonyme)</em>.<br>
                 ➡️ <strong style="color: #ff6b6b !important;">Ne cliquez pas sur Patreon.</strong>
               </li>
-              <li style="color: #ffffff !important;"><strong style="color: #ffd97d !important;">3️⃣ Connectez-vous :</strong> Entrez vos identifiants puis cliquez sur <strong>Connexion</strong>.</li>
+              <li style="color: #ffffff !important;">
+                <h4 class="sub-step-title">3️⃣ Connectez-vous :</h4>
+                Entrez vos identifiants puis cliquez sur <strong>Connexion</strong>.
+              </li>
             </ul>
             <div class="action-box">
               <span class="badge-bravo"><span class="badge-icon">👏🏻</span> BRAVO</span><br>
@@ -351,14 +350,14 @@ image: /images/logogold.png
         <div class="step-row">
           <div class="step-media">[Image 1 : Liste des parties publiques]</div>
           <div>
-            <h4 style="color: #ffffff !important; font-size: 20px !important; margin: 0 0 8px 0 !important; font-weight: 800 !important;">Rejoindre une partie publique</h4>
+            <h4 class="sub-step-title">Rejoindre une partie publique</h4>
             <p style="color: #ffffff !important; margin: 0 !important;">Une fois connecté, vous verrez la liste des parties publiques disponibles. Choisissez-en une pour vous installer ou simplement observer la partie.</p>
           </div>
         </div>
         <div class="step-row">
           <div class="step-media">[Image 2 : Invitation par lien]</div>
           <div>
-            <h4 style="color: #ffffff !important; font-size: 20px !important; margin: 0 0 8px 0 !important; font-weight: 800 !important;">Rejoindre une partie privée</h4>
+            <h4 class="sub-step-title">Rejoindre une partie privée</h4>
             <p style="color: #ffffff !important; margin: 0 !important;">La plupart du temps, le Conteur vous enverra un lien direct. Il suffit de cliquer dessus :<br>
             <strong style="color: #ffd97d !important; font-size: 16px;">https://botc.app/join/66666666</strong></p>
           </div>
@@ -691,7 +690,6 @@ image: /images/logogold.png
 
   </div>
 </div>
-
 
 <hr class="explication">
 
