@@ -16,14 +16,14 @@ image: /images/logogold.png
 <hr class="explication">
 
 <style>
-/* Style global et correctifs de priorité */
+/* 1. RÈGLES DE BASE ET EN-TÊTE */
 .guide-header-title {
-  color: #1c102e !important; /* Sombre sur fond clair */
-  font-size: 38px !important;
+  color: #1c102e !important;
+  font-size: 40px !important;
   font-weight: 900 !important;
   font-style: italic !important;
   text-transform: uppercase !important;
-  margin: 10px 0 !important;
+  margin: 12px 0 !important;
 }
 
 .guide-header-sub {
@@ -32,19 +32,21 @@ image: /images/logogold.png
   line-height: 1.5 !important;
 }
 
+/* Badge "GUIDE DU JOUEUR" plus gros et bien lisible */
 .guide-tag-badge {
-  display: inline-block;
+  display: inline-block !important;
   background: #1c102e !important;
-  color: #fdf0a6 !important;
-  font-size: 11px !important;
-  font-weight: 800 !important;
-  letter-spacing: 1.5px !important;
-  padding: 4px 12px !important;
-  border-radius: 4px !important;
+  color: #ffd97d !important;
+  font-size: 15px !important; /* Agrandi */
+  font-weight: 900 !important;
+  letter-spacing: 2px !important;
+  padding: 8px 18px !important; /* Agrandi */
+  border-radius: 6px !important;
   text-transform: uppercase !important;
+  border: 1px solid #ffd97d !important;
 }
 
-/* CARTE D'ÉTAPE (FOND SOMBRE VIOLET) */
+/* 2. CARTE D'ÉTAPE ET TEXTES SUR FOND VIOLET */
 .step-card {
   background: #231538 !important;
   border: 1px solid #b58b52 !important;
@@ -77,17 +79,65 @@ image: /images/logogold.png
   box-shadow: 0 4px 12px rgba(0,0,0,0.6) !important;
 }
 
-/* RÈGLE ABSOLUE POUR TOUT CE QUI EST DANS LES CARTES SOMBRES */
-.step-card h2, .step-card h3, .step-card h4, .step-title {
-  color: #fffdf0 !important; /* CRÈME ULTRA LISIBLE */
+.step-card h2, .step-card h3, .step-card h4 {
+  color: #ffffff !important;
   text-shadow: 2px 2px 0px #000000 !important;
 }
 
-.step-card p, .step-card li, .step-card span {
-  color: #f4ebd9 !important; /* TEXTE CRÈME CLAIR */
+.step-card p, .step-card li, .step-card span, .step-card div {
+  color: #ffffff !important; /* Force tout le texte descriptif en blanc pur */
 }
 
-/* Disposition */
+/* 3. ENCADRÉES "À FAIRE" ET TOUCHES CLAVIER (CORRECTION CIBLÉE) */
+.action-box {
+  background: #160c24 !important;
+  border-left: 4px solid #ffd97d !important;
+  border-radius: 6px !important;
+  padding: 15px !important;
+  margin: 10px 0 !important;
+  color: #ffffff !important;
+}
+
+.action-box p, .action-box li, .action-box span {
+  color: #ffffff !important; /* TUE LE ROUGE DANS LES ENCADRÉS */
+}
+
+/* Insigne "À FAIRE" : Texte SOMBRE sur fond JAUNE */
+.action-badge {
+  background: #ffd97d !important;
+  color: #1c102e !important; /* Écrit en sombre ultra lisible */
+  font-size: 12px !important;
+  font-weight: 900 !important;
+  padding: 4px 10px !important;
+  border-radius: 6px !important;
+  text-transform: uppercase !important;
+  display: inline-block !important;
+  margin-bottom: 10px !important;
+}
+
+/* Touches de clavier (Q, F5, CTRL, CMD, etc.) */
+.key-badge {
+  background: #ffffff !important;
+  color: #1c102e !important; /* Texte noir/violet bien visible */
+  padding: 3px 8px !important;
+  border-radius: 5px !important;
+  font-weight: 900 !important;
+  font-family: monospace !important;
+  font-size: 14px !important;
+  border: 1px solid #000000 !important;
+  box-shadow: 0 2px 0 #9e8256 !important;
+  display: inline-block !important;
+}
+
+.or-divider {
+  color: #ffd97d !important;
+  font-weight: 900 !important;
+  font-style: italic !important;
+  margin: 10px 0 !important;
+  display: block !important;
+}
+
+/* 4. DISPOSITION & SIDEBAR */
 .guide-container {
   display: flex;
   gap: 30px;
@@ -160,42 +210,6 @@ image: /images/logogold.png
   padding: 10px;
 }
 
-.action-box {
-  background: #160c24 !important;
-  border-left: 4px solid #ffd97d !important;
-  border-radius: 6px;
-  padding: 12px 15px;
-  margin: 10px 0;
-}
-
-.action-badge {
-  background: #ffd97d !important;
-  color: #1a0f2b !important;
-  font-size: 11px !important;
-  font-weight: 900 !important;
-  padding: 2px 8px;
-  border-radius: 10px;
-  text-transform: uppercase;
-}
-
-.key-badge {
-  background: #ffffff !important;
-  color: #1a0f2b !important;
-  padding: 2px 8px;
-  border-radius: 5px;
-  font-weight: 800;
-  font-family: monospace;
-  font-size: 13px;
-}
-
-.or-divider {
-  color: #ff6b6b !important;
-  font-weight: 900 !important;
-  font-style: italic;
-  margin: 8px 0;
-  display: block;
-}
-
 .video-card {
   background: #1c102e !important;
   border: 1px solid #b58b52;
@@ -225,7 +239,7 @@ image: /images/logogold.png
 }
 </style>
 
-<!-- EN-TÊTE EN HAUT DE PAGE (SUR FOND CLAIR) -->
+<!-- EN-TÊTE EN HAUT DE PAGE -->
 <div style="max-width: 1200px; margin: 20px auto 30px auto; padding: 0 10px;" markdown="0">
   <span class="guide-tag-badge">GUIDE DU JOUEUR · BOTC.APP</span>
   <h1 class="guide-header-title">COMMENT JOUER SUR BOTC.APP</h1>
@@ -295,23 +309,23 @@ image: /images/logogold.png
     <div id="step-1" class="step-card">
       <div class="step-header">
         <div class="step-number">1</div>
-        <h2 style="color: #fffdf0 !important; font-size: 26px !important; font-weight: 900 !important; font-style: italic !important; margin: 0 !important;">S’ENREGISTRER SUR LE SITE</h2>
+        <h2 style="color: #ffffff !important; font-size: 26px !important; font-weight: 900 !important; font-style: italic !important; margin: 0 !important;">S’ENREGISTRER SUR LE SITE</h2>
       </div>
       <div class="step-grid">
         <div class="step-row">
           <div class="step-media">[Image 1 : Formulaire d'inscription]</div>
           <div>
-            <p style="color: #f4ebd9 !important;">Pour jouer avec l’application <strong>Blood 🩸 on the Clocktower 🕰️</strong>, vous devez créer un <strong>compte gratuit</strong>.</p>
+            <p style="color: #ffffff !important;">Pour jouer avec l’application <strong>Blood 🩸 on the Clocktower 🕰️</strong>, vous devez créer un <strong>compte gratuit</strong>.</p>
             <ul style="list-style: none; padding-left: 0;">
-              <li style="margin-bottom: 10px; color: #f4ebd9 !important;">
+              <li style="margin-bottom: 10px; color: #ffffff !important;">
                 <strong style="color: #ffd97d !important;">1️⃣ Rendez-vous sur le site officiel :</strong><br>
                 ▫️ <a href="https://botc.app/login" target="_blank" rel="noopener noreferrer" style="color: #ffd97d !important; font-weight: bold; text-decoration: underline;">https://botc.app/login 🔗</a>
               </li>
-              <li style="margin-bottom: 10px; color: #f4ebd9 !important;">
+              <li style="margin-bottom: 10px; color: #ffffff !important;">
                 <strong style="color: #ffd97d !important;">2️⃣ Cliquez sur Register :</strong> Remplissez les champs <em>(email, mot de passe, pseudo)</em>.<br>
                 ➡️ <strong style="color: #ff6b6b !important;">Ne cliquez pas sur Patreon.</strong>
               </li>
-              <li style="color: #f4ebd9 !important;"><strong style="color: #ffd97d !important;">3️⃣ Connectez-vous :</strong> Entrez vos identifiants et cliquez sur <strong>Login</strong>.</li>
+              <li style="color: #ffffff !important;"><strong style="color: #ffd97d !important;">3️⃣ Connectez-vous :</strong> Entrez vos identifiants et cliquez sur <strong>Login</strong>.</li>
             </ul>
             <div class="action-box">
               <span class="action-badge">👏🏻 BRAVO</span><br>
@@ -326,23 +340,23 @@ image: /images/logogold.png
     <div id="step-2" class="step-card">
       <div class="step-header">
         <div class="step-number">2</div>
-        <h2 style="color: #fffdf0 !important; font-size: 26px !important; font-weight: 900 !important; font-style: italic !important; margin: 0 !important;">REJOINDRE UNE PARTIE</h2>
+        <h2 style="color: #ffffff !important; font-size: 26px !important; font-weight: 900 !important; font-style: italic !important; margin: 0 !important;">REJOINDRE UNE PARTIE</h2>
       </div>
       <div class="step-grid">
         <!-- 2A -->
         <div class="step-row">
           <div class="step-media">[Image 1 : Liste des parties publiques]</div>
           <div>
-            <h4 style="color: #fffdf0 !important; font-size: 20px !important; margin: 0 0 8px 0 !important; font-weight: 800 !important;">Rejoindre une partie publique</h4>
-            <p style="color: #f4ebd9 !important; margin: 0 !important;">Une fois connecté, vous verrez une liste de parties publiques disponibles. Elles varient selon la langue, la difficulté, la phase actuelle et le type de jeu. Choisissez-en une pour rejoindre en tant que spectateur ou pour jouer. Posez vos questions au Conteur si besoin.</p>
+            <h4 style="color: #ffffff !important; font-size: 20px !important; margin: 0 0 8px 0 !important; font-weight: 800 !important;">Rejoindre une partie publique</h4>
+            <p style="color: #ffffff !important; margin: 0 !important;">Une fois connecté, vous verrez une liste de parties publiques disponibles. Elles varient selon la langue, la difficulté, la phase actuelle et le type de jeu. Choisissez-en une pour rejoindre en tant que spectateur ou pour jouer. Posez vos questions au Conteur si besoin.</p>
           </div>
         </div>
         <!-- 2B -->
         <div class="step-row">
           <div class="step-media">[Image 2 : Invitation par lien]</div>
           <div>
-            <h4 style="color: #fffdf0 !important; font-size: 20px !important; margin: 0 0 8px 0 !important; font-weight: 800 !important;">Rejoindre une partie privée</h4>
-            <p style="color: #f4ebd9 !important; margin: 0 !important;">La plupart des Conteurs vous invitent avec un lien, et c’est tout ce dont vous avez besoin. Cela ressemble à :<br>
+            <h4 style="color: #ffffff !important; font-size: 20px !important; margin: 0 0 8px 0 !important; font-weight: 800 !important;">Rejoindre une partie privée</h4>
+            <p style="color: #ffffff !important; margin: 0 !important;">La plupart des Conteurs vous invitent avec un lien, et c’est tout ce dont vous avez besoin. Cela ressemble à :<br>
             <strong style="color: #ffd97d !important; font-size: 16px;">https://botc.app/join/66666666</strong></p>
           </div>
         </div>
@@ -351,7 +365,7 @@ image: /images/logogold.png
           <div class="step-media">[Image 3 : Option Join Private Game]</div>
           <div>
             <span class="or-divider">— OU —</span>
-            <p style="color: #f4ebd9 !important; margin: 0 !important;">Cliquez sur <strong>Rejoindre une partie privée (Join Private Game)</strong> et entrez le code de la partie privée fourni par votre Conteur.</p>
+            <p style="color: #ffffff !important; margin: 0 !important;">Cliquez sur <strong>Rejoindre une partie privée (Join Private Game)</strong> et entrez le code de la partie privée fourni par votre Conteur.</p>
           </div>
         </div>
       </div>
@@ -361,13 +375,13 @@ image: /images/logogold.png
     <div id="step-3" class="step-card">
       <div class="step-header">
         <div class="step-number">3</div>
-        <h2 style="color: #fffdf0 !important; font-size: 26px !important; font-weight: 900 !important; font-style: italic !important; margin: 0 !important;">PRENDRE UN SIÈGE</h2>
+        <h2 style="color: #ffffff !important; font-size: 26px !important; font-weight: 900 !important; font-style: italic !important; margin: 0 !important;">PRENDRE UN SIÈGE</h2>
       </div>
       <div class="step-grid">
         <div class="step-row">
           <div class="step-media">[Image 1 : Cliquer sur un siège]</div>
           <div>
-            <p style="color: #f4ebd9 !important; margin: 0 !important;">Une fois dans le village, cliquez sur un siège vide autour de la table pour vous y installer.</p>
+            <p style="color: #ffffff !important; margin: 0 !important;">Une fois dans le village, cliquez sur un siège vide autour de la table pour vous y installer.</p>
           </div>
         </div>
       </div>
@@ -377,7 +391,7 @@ image: /images/logogold.png
     <div id="step-4" class="step-card">
       <div class="step-header">
         <div class="step-number">4</div>
-        <h2 style="color: #fffdf0 !important; font-size: 26px !important; font-weight: 900 !important; font-style: italic !important; margin: 0 !important;">CONFIGURER CAMÉRA & MICRO</h2>
+        <h2 style="color: #ffffff !important; font-size: 26px !important; font-weight: 900 !important; font-style: italic !important; margin: 0 !important;">CONFIGURER CAMÉRA & MICRO</h2>
       </div>
       <div class="step-grid">
         <div class="step-row">
@@ -385,9 +399,9 @@ image: /images/logogold.png
           <div>
             <div class="action-box">
               <span class="action-badge">★ À FAIRE</span><br>
-              Appuyez sur <span class="key-badge">Q</span> sur votre clavier.
+              <span style="color: #ffffff !important;">Appuyez sur <span class="key-badge">Q</span> sur votre clavier.</span>
               <span class="or-divider">— OU —</span>
-              Cliquez sur l'engrenage ⚙️.
+              <span style="color: #ffffff !important;">Cliquez sur l'engrenage ⚙️.</span>
             </div>
           </div>
         </div>
@@ -396,7 +410,7 @@ image: /images/logogold.png
           <div>
             <div class="action-box">
               <span class="action-badge">★ À FAIRE</span><br>
-              Cliquez sur le 3ème onglet.
+              <span style="color: #ffffff !important;">Cliquez sur le 3ème onglet.</span>
             </div>
           </div>
         </div>
@@ -405,7 +419,7 @@ image: /images/logogold.png
           <div>
             <div class="action-box">
               <span class="action-badge">★ À FAIRE</span><br>
-              Cliquez sur <strong>Paramètres (Settings)</strong> ou appuyez sur <span class="key-badge">Q</span>.
+              <span style="color: #ffffff !important;">Cliquez sur <strong>Paramètres (Settings)</strong> ou appuyez sur <span class="key-badge">Q</span>.</span>
             </div>
           </div>
         </div>
@@ -414,7 +428,7 @@ image: /images/logogold.png
           <div>
             <div class="action-box">
               <span class="action-badge">★ À FAIRE</span><br>
-              Cliquez sur le 3ème onglet, <strong>Chat</strong>.
+              <span style="color: #ffffff !important;">Cliquez sur le 3ème onglet, <strong>Chat</strong>.</span>
             </div>
           </div>
         </div>
@@ -423,7 +437,7 @@ image: /images/logogold.png
           <div>
             <div class="action-box">
               <span class="action-badge">★ À FAIRE</span><br>
-              Cliquez sur <strong>Lancer la configuration (Run the Setup)</strong>.
+              <span style="color: #ffffff !important;">Cliquez sur <strong>Lancer la configuration (Run the Setup)</strong>.</span>
             </div>
           </div>
         </div>
@@ -432,7 +446,7 @@ image: /images/logogold.png
           <div>
             <div class="action-box">
               <span class="action-badge">★ À FAIRE</span><br>
-              Cliquez sur <strong>Démarrer (Start)</strong> dans la fenêtre pop-up.
+              <span style="color: #ffffff !important;">Cliquez sur <strong>Démarrer (Start)</strong> dans la fenêtre pop-up.</span>
             </div>
           </div>
         </div>
@@ -441,7 +455,7 @@ image: /images/logogold.png
           <div>
             <div class="action-box">
               <span class="action-badge">★ À FAIRE</span><br>
-              Choisissez la caméra et le micro à utiliser. Lorsque la caméra est bien réglée, <strong>vous vous verrez à l'écran</strong> ; quand le micro est bon, vous verrez des <strong>barres jaunes</strong> bouger au son de votre voix. Une fois terminé, cliquez sur <strong>Fermer (Close)</strong>.
+              <span style="color: #ffffff !important;">Choisissez la caméra et le micro à utiliser. Lorsque la caméra est bien réglée, <strong>vous vous verrez à l'écran</strong> ; quand le micro est bon, vous verrez des <strong>barres jaunes</strong> bouger au son de votre voix. Une fois terminé, cliquez sur <strong>Fermer (Close)</strong>.</span>
             </div>
           </div>
         </div>
@@ -450,7 +464,7 @@ image: /images/logogold.png
           <div>
             <div class="action-box">
               <span class="action-badge">★ À FAIRE</span><br>
-              De retour sur la Place du Village, vous commencerez avec <strong>le micro coupé et la caméra désactivée</strong>. Rallumez-les à l'aide des boutons situés dans le coin supérieur droit.
+              <span style="color: #ffffff !important;">De retour sur la Place du Village, vous commencerez avec <strong>le micro coupé et la caméra désactivée</strong>. Rallumez-les à l'aide des boutons situés dans le coin supérieur droit.</span>
             </div>
           </div>
         </div>
@@ -461,16 +475,16 @@ image: /images/logogold.png
     <div id="step-5" class="step-card">
       <div class="step-header">
         <div class="step-number">5</div>
-        <h2 style="color: #fffdf0 !important; font-size: 26px !important; font-weight: 900 !important; font-style: italic !important; margin: 0 !important;">LEVER LA MAIN</h2>
+        <h2 style="color: #ffffff !important; font-size: 26px !important; font-weight: 900 !important; font-style: italic !important; margin: 0 !important;">LEVER LA MAIN</h2>
       </div>
       <div class="step-grid">
         <div class="step-row">
           <div class="step-media">[Image 1 : Main levée]</div>
           <div>
-            <p style="color: #f4ebd9 !important;">Levez la main pour indiquer que vous souhaitez prendre la parole — cette fonction sert aussi à voter lors des exécutions.</p>
+            <p style="color: #ffffff !important;">Levez la main pour indiquer que vous souhaitez prendre la parole — cette fonction sert aussi à voter lors des exécutions.</p>
             <div class="action-box">
               <span class="action-badge">★ À FAIRE</span><br>
-              Appuyez sur la touche <span class="key-badge">ESPACE</span> de votre clavier pour lever ou baisser la main.
+              <span style="color: #ffffff !important;">Appuyez sur la touche <span class="key-badge">ESPACE</span> de votre clavier pour lever ou baisser la main.</span>
             </div>
           </div>
         </div>
@@ -481,7 +495,7 @@ image: /images/logogold.png
     <div id="step-6" class="step-card">
       <div class="step-header">
         <div class="step-number">6</div>
-        <h2 style="color: #fffdf0 !important; font-size: 26px !important; font-weight: 900 !important; font-style: italic !important; margin: 0 !important;">RÉPONDRE À UNE DEMANDE DE CHAT PRIVÉ</h2>
+        <h2 style="color: #ffffff !important; font-size: 26px !important; font-weight: 900 !important; font-style: italic !important; margin: 0 !important;">RÉPONDRE À UNE DEMANDE DE CHAT PRIVÉ</h2>
       </div>
       <div class="step-grid">
         <div class="step-row">
@@ -489,8 +503,8 @@ image: /images/logogold.png
           <div>
             <div class="action-box">
               <span class="action-badge">★ À FAIRE</span><br>
-              Quand quelqu'un souhaite discuter en privé avec vous, vous entendrez un petit son ("ding") et son nom apparaîtra dans l'onglet <strong>Vocal</strong> à gauche. Cliquez sur son nom pour accepter.<br>
-              <small><em>(Par défaut, aucun son n'est émis pendant la phase de Nuit.)</em></small>
+              <span style="color: #ffffff !important;">Quand quelqu'un souhaite discuter en privé avec vous, vous entendrez un petit son ("ding") et son nom apparaîtra dans l'onglet <strong>Vocal</strong> à gauche. Cliquez sur son nom pour accepter.<br>
+              <small><em>(Par défaut, aucun son n'est émis pendant la phase de Nuit.)</em></small></span>
             </div>
           </div>
         </div>
@@ -499,7 +513,7 @@ image: /images/logogold.png
           <div>
             <div class="action-box">
               <span class="action-badge">★ À FAIRE</span><br>
-              Personne d'autre ne peut entendre une conversation privée, bien qu'ils voient toujours votre caméra (sauf la Nuit). Le Conteur et les spectateurs ayant accès au Grimoire peuvent rejoindre la discussion à tout moment. Pour quitter, cliquez sur <strong>Quitter</strong> ou appuyez sur <span class="key-badge">RETOUR ARRIÈRE</span> (Backspace).
+              <span style="color: #ffffff !important;">Personne d'autre ne peut entendre une conversation privée, bien qu'ils voient toujours votre caméra (sauf la Nuit). Le Conteur et les spectateurs ayant accès au Grimoire peuvent rejoindre la discussion à tout moment. Pour quitter, cliquez sur <strong>Quitter</strong> ou appuyez sur <span class="key-badge">RETOUR ARRIÈRE</span> (Backspace).</span>
             </div>
           </div>
         </div>
@@ -510,7 +524,7 @@ image: /images/logogold.png
     <div id="step-7" class="step-card">
       <div class="step-header">
         <div class="step-number">7</div>
-        <h2 style="color: #fffdf0 !important; font-size: 26px !important; font-weight: 900 !important; font-style: italic !important; margin: 0 !important;">DEMANDER UN CHAT PRIVÉ</h2>
+        <h2 style="color: #ffffff !important; font-size: 26px !important; font-weight: 900 !important; font-style: italic !important; margin: 0 !important;">DEMANDER UN CHAT PRIVÉ</h2>
       </div>
       <div class="step-grid">
         <div class="step-row">
@@ -518,9 +532,9 @@ image: /images/logogold.png
           <div>
             <div class="action-box">
               <span class="action-badge">★ À FAIRE</span><br>
-              Appuyez sur <span class="key-badge">ENTRÉE</span>.
+              <span style="color: #ffffff !important;">Appuyez sur <span class="key-badge">ENTRÉE</span>.</span>
               <span class="or-divider">— OU —</span>
-              Dans l'onglet <strong>Vocal</strong>, cliquez sur <strong>Demander un chat privé (Request Private Chat)</strong>.
+              <span style="color: #ffffff !important;">Dans l'onglet <strong>Vocal</strong>, cliquez sur <strong>Demander un chat privé (Request Private Chat)</strong>.</span>
             </div>
           </div>
         </div>
@@ -529,7 +543,7 @@ image: /images/logogold.png
           <div>
             <div class="action-box">
               <span class="action-badge">★ À FAIRE</span><br>
-              Cliquez sur la bulle de dialogue 💬 à côté d'un joueur pour lui demander une discussion privée.
+              <span style="color: #ffffff !important;">Cliquez sur la bulle de dialogue 💬 à côté d'un joueur pour lui demander une discussion privée.</span>
             </div>
           </div>
         </div>
@@ -540,7 +554,7 @@ image: /images/logogold.png
     <div id="step-8" class="step-card">
       <div class="step-header">
         <div class="step-number">8</div>
-        <h2 style="color: #fffdf0 !important; font-size: 26px !important; font-weight: 900 !important; font-style: italic !important; margin: 0 !important;">ENVOYER UN CHUCHOTEMENT (WHISPER)</h2>
+        <h2 style="color: #ffffff !important; font-size: 26px !important; font-weight: 900 !important; font-style: italic !important; margin: 0 !important;">ENVOYER UN CHUCHOTEMENT (WHISPER)</h2>
       </div>
       <div class="step-grid">
         <div class="step-row">
@@ -548,7 +562,7 @@ image: /images/logogold.png
           <div>
             <div class="action-box">
               <span class="action-badge">★ À FAIRE</span><br>
-              Cliquez sur l'enveloppe 📩 pour envoyer un chuchotement par écrit. Vous ne pouvez chuchoter qu'à vos <strong>voisins directs</strong> et au <strong>Conteur</strong>. Une animation d'enveloppe se joue — sa taille varie selon la longueur de votre message.
+              <span style="color: #ffffff !important;">Cliquez sur l'enveloppe 📩 pour envoyer un chuchotement par écrit. Vous ne pouvez chuchoter qu'à vos <strong>voisins directs</strong> et au <strong>Conteur</strong>. Une animation d'enveloppe se joue — sa taille varie selon la longueur de votre message.</span>
             </div>
           </div>
         </div>
@@ -557,7 +571,7 @@ image: /images/logogold.png
           <div>
             <div class="action-box">
               <span class="action-badge">★ À FAIRE</span><br>
-              Les notifications de nouveaux messages s'affichent dans l'onglet <strong>Texte</strong>. Appuyez sur <span class="key-badge">TAB</span> pour l'ouvrir.
+              <span style="color: #ffffff !important;">Les notifications de nouveaux messages s'affichent dans l'onglet <strong>Texte</strong>. Appuyez sur <span class="key-badge">TAB</span> pour l'ouvrir.</span>
             </div>
           </div>
         </div>
@@ -566,7 +580,7 @@ image: /images/logogold.png
           <div>
             <div class="action-box">
               <span class="action-badge">★ À FAIRE</span><br>
-              Il existe également un chat public visible par tout le monde. Les messages y disparaissent après un certain temps.
+              <span style="color: #ffffff !important;">Il existe également un chat public visible par tout le monde. Les messages y disparaissent après un certain temps.</span>
             </div>
           </div>
         </div>
@@ -575,7 +589,7 @@ image: /images/logogold.png
           <div>
             <div class="action-box">
               <span class="action-badge">★ À FAIRE</span><br>
-              L'enveloppe s’agrandit proportionnellement à la longueur du texte envoyé à votre voisin.
+              <span style="color: #ffffff !important;">L'enveloppe s’agrandit proportionnellement à la longueur du texte envoyé à votre voisin.</span>
             </div>
           </div>
         </div>
@@ -586,7 +600,7 @@ image: /images/logogold.png
     <div id="step-9" class="step-card">
       <div class="step-header">
         <div class="step-number">9</div>
-        <h2 style="color: #fffdf0 !important; font-size: 26px !important; font-weight: 900 !important; font-style: italic !important; margin: 0 !important;">CHANGER DE NOM & D'AVATAR</h2>
+        <h2 style="color: #ffffff !important; font-size: 26px !important; font-weight: 900 !important; font-style: italic !important; margin: 0 !important;">CHANGER DE NOM & D'AVATAR</h2>
       </div>
       <div class="step-grid">
         <div class="step-row">
@@ -594,7 +608,7 @@ image: /images/logogold.png
           <div>
             <div class="action-box">
               <span class="action-badge">★ À FAIRE</span><br>
-              Appuyez sur <span class="key-badge">Q</span> pour ouvrir le menu des réglages de l'application.
+              <span style="color: #ffffff !important;">Appuyez sur <span class="key-badge">Q</span> pour ouvrir le menu des réglages de l'application.</span>
             </div>
           </div>
         </div>
@@ -603,7 +617,7 @@ image: /images/logogold.png
           <div>
             <div class="action-box">
               <span class="action-badge">★ À FAIRE</span><br>
-              Cliquez sur le 2ème onglet, <strong>Utilisateur (User)</strong>.
+              <span style="color: #ffffff !important;">Cliquez sur le 2ème onglet, <strong>Utilisateur (User)</strong>.</span>
             </div>
           </div>
         </div>
@@ -612,7 +626,7 @@ image: /images/logogold.png
           <div>
             <div class="action-box">
               <span class="action-badge">★ À FAIRE</span><br>
-              Cliquez sur votre nom pour le modifier.
+              <span style="color: #ffffff !important;">Cliquez sur votre nom pour le modifier.</span>
             </div>
           </div>
         </div>
@@ -621,7 +635,7 @@ image: /images/logogold.png
           <div>
             <div class="action-box">
               <span class="action-badge">★ À FAIRE</span><br>
-              Cliquez sur votre avatar pour changer votre photo de profil <em>(nécessite un abonnement Patreon)</em>.
+              <span style="color: #ffffff !important;">Cliquez sur votre avatar pour changer votre photo de profil <em>(nécessite un abonnement Patreon)</em>.</span>
             </div>
           </div>
         </div>
@@ -632,19 +646,19 @@ image: /images/logogold.png
     <div id="step-10" class="step-card">
       <div class="step-header">
         <div class="step-number">10</div>
-        <h2 style="color: #fffdf0 !important; font-size: 26px !important; font-weight: 900 !important; font-style: italic !important; margin: 0 !important;">QUITTER SON SIÈGE</h2>
+        <h2 style="color: #ffffff !important; font-size: 26px !important; font-weight: 900 !important; font-style: italic !important; margin: 0 !important;">QUITTER SON SIÈGE</h2>
       </div>
       <div class="step-grid">
         <div class="step-row">
           <div class="step-media">[Image 1 : Engrenage ⚙️]</div>
           <div>
-            <p style="color: #f4ebd9 !important; margin: 0 !important;">Cliquez sur la roue dentée ⚙️ (Engrenage).</p>
+            <p style="color: #ffffff !important; margin: 0 !important;">Cliquez sur la roue dentée ⚙️ (Engrenage).</p>
           </div>
         </div>
         <div class="step-row">
           <div class="step-media">[Image 2 : Option Libérer le siège]</div>
           <div>
-            <p style="color: #f4ebd9 !important; margin: 0 !important;">Cliquez sur <strong>Libérer le siège (Stand up / Leave seat)</strong>. Vous resterez dans la partie en tant que Spectateur — vous pourrez toujours chuchoter au Conteur et discuter avec les autres spectateurs.</p>
+            <p style="color: #ffffff !important; margin: 0 !important;">Cliquez sur <strong>Libérer le siège (Stand up / Leave seat)</strong>. Vous resterez dans la partie en tant que Spectateur — vous pourrez toujours chuchoter au Conteur et discuter avec les autres spectateurs.</p>
           </div>
         </div>
       </div>
@@ -654,13 +668,13 @@ image: /images/logogold.png
     <div id="step-11" class="step-card">
       <div class="step-header">
         <div class="step-number">11</div>
-        <h2 style="color: #fffdf0 !important; font-size: 26px !important; font-weight: 900 !important; font-style: italic !important; margin: 0 !important;">DEMANDER L'ACCÈS AU GRIMOIRE</h2>
+        <h2 style="color: #ffffff !important; font-size: 26px !important; font-weight: 900 !important; font-style: italic !important; margin: 0 !important;">DEMANDER L'ACCÈS AU GRIMOIRE</h2>
       </div>
       <div class="step-grid">
         <div class="step-row">
           <div class="step-media">[Image 1 : Menu Conteur]</div>
           <div>
-            <p style="color: #f4ebd9 !important; margin: 0 !important;">Cliquez sur le Conteur pour ouvrir son menu, puis choisissez <strong>Demander l'accès au Grimoire</strong>. S'il accepte, vous pourrez voir le rôle de chacun et rejoindre les chats privés — mais vous ne pourrez plus envoyer de messages ni parler aux joueurs.</p>
+            <p style="color: #ffffff !important; margin: 0 !important;">Cliquez sur le Conteur pour ouvrir son menu, puis choisissez <strong>Demander l'accès au Grimoire</strong>. S'il accepte, vous pourrez voir le rôle de chacun et rejoindre les chats privés — mais vous ne pourrez plus envoyer de messages ni parler aux joueurs.</p>
           </div>
         </div>
       </div>
@@ -670,20 +684,20 @@ image: /images/logogold.png
     <div id="step-12" class="step-card">
       <div class="step-header">
         <div class="step-number">12</div>
-        <h2 style="color: #fffdf0 !important; font-size: 26px !important; font-weight: 900 !important; font-style: italic !important; margin: 0 !important;">QUITTER LA PARTIE</h2>
+        <h2 style="color: #ffffff !important; font-size: 26px !important; font-weight: 900 !important; font-style: italic !important; margin: 0 !important;">QUITTER LA PARTIE</h2>
       </div>
       <div class="step-grid">
         <div class="step-row">
           <div class="step-media">[Image 1 : Touche L]</div>
           <div>
-            <p style="color: #f4ebd9 !important; margin: 0 !important;">Appuyez sur la touche <span class="key-badge">L</span> de votre clavier (une confirmation apparaîtra).</p>
+            <p style="color: #ffffff !important; margin: 0 !important;">Appuyez sur la touche <span class="key-badge">L</span> de votre clavier (une confirmation apparaîtra).</p>
           </div>
         </div>
         <div class="step-row">
           <div class="step-media">[Image 2 : Option Quitter dans le menu]</div>
           <div>
             <span class="or-divider">— OU —</span>
-            <p style="color: #f4ebd9 !important; margin: 0 !important;">Cliquez sur l'engrenage ⚙️, puis sélectionnez <strong>Quitter la partie (Leave Game)</strong>.</p>
+            <p style="color: #ffffff !important; margin: 0 !important;">Cliquez sur l'engrenage ⚙️, puis sélectionnez <strong>Quitter la partie (Leave Game)</strong>.</p>
           </div>
         </div>
       </div>
@@ -693,25 +707,25 @@ image: /images/logogold.png
     <div id="step-13" class="step-card">
       <div class="step-header">
         <div class="step-number">13</div>
-        <h2 style="color: #fffdf0 !important; font-size: 26px !important; font-weight: 900 !important; font-style: italic !important; margin: 0 !important;">OUVRIR L'ONGLET RÔLES</h2>
+        <h2 style="color: #ffffff !important; font-size: 26px !important; font-weight: 900 !important; font-style: italic !important; margin: 0 !important;">OUVRIR L'ONGLET RÔLES</h2>
       </div>
       <div class="step-grid">
         <div class="step-row">
           <div class="step-media">[Image 1 : Premier clic]</div>
           <div>
-            <p style="color: #f4ebd9 !important; margin: 0 !important;">Cliquez sur l'onglet <strong>Personnages (Characters)</strong> pour ouvrir une liste simplifiée des rôles du script.</p>
+            <p style="color: #ffffff !important; margin: 0 !important;">Cliquez sur l'onglet <strong>Personnages (Characters)</strong> pour ouvrir une liste simplifiée des rôles du script.</p>
           </div>
         </div>
         <div class="step-row">
           <div class="step-media">[Image 2 : Second clic]</div>
           <div>
-            <p style="color: #f4ebd9 !important; margin: 0 !important;">Cliquez une seconde fois sur cet onglet pour afficher le script complet détaillé.</p>
+            <p style="color: #ffffff !important; margin: 0 !important;">Cliquez une seconde fois sur cet onglet pour afficher le script complet détaillé.</p>
           </div>
         </div>
         <div class="step-row">
           <div class="step-media">[Image 3 : Troisième clic]</div>
           <div>
-            <p style="color: #f4ebd9 !important; margin: 0 !important;">Cliquez une troisième fois pour fermer le panneau.</p>
+            <p style="color: #ffffff !important; margin: 0 !important;">Cliquez une troisième fois pour fermer le panneau.</p>
           </div>
         </div>
       </div>
@@ -721,43 +735,43 @@ image: /images/logogold.png
     <div id="step-14" class="step-card">
       <div class="step-header">
         <div class="step-number">14</div>
-        <h2 style="color: #fffdf0 !important; font-size: 26px !important; font-weight: 900 !important; font-style: italic !important; margin: 0 !important;">PLACER DES JETONS & DES RAPPELS</h2>
+        <h2 style="color: #ffffff !important; font-size: 26px !important; font-weight: 900 !important; font-style: italic !important; margin: 0 !important;">PLACER DES JETONS & DES RAPPELS</h2>
       </div>
       <div class="step-grid">
         <div class="step-row">
           <div class="step-media">[Image 1 : Changer un jeton]</div>
           <div>
-            <p style="color: #f4ebd9 !important; margin: 0 !important;">Vous pouvez modifier le jeton d'un joueur en cliquant directement dessus.</p>
+            <p style="color: #ffffff !important; margin: 0 !important;">Vous pouvez modifier le jeton d'un joueur en cliquant directement dessus.</p>
           </div>
         </div>
         <div class="step-row">
           <div class="step-media">[Image 2 : Prise de note personnelle]</div>
           <div>
-            <p style="color: #f4ebd9 !important; margin: 0 !important;">Changer le jeton d'un joueur est une action <strong>purement personnelle</strong> : vous seul le voyez. Cela ne modifie le rôle de personne (même pas le vôtre) — c'est un outil idéal pour prendre des notes !</p>
+            <p style="color: #ffffff !important; margin: 0 !important;">Changer le jeton d'un joueur est une action <strong>purement personnelle</strong> : vous seul le voyez. Cela ne modifie le rôle de personne (même pas le vôtre) — c'est un outil idéal pour prendre des notes !</p>
           </div>
         </div>
         <div class="step-row">
           <div class="step-media">[Image 3 : Survol du cercle intérieur]</div>
           <div>
-            <p style="color: #f4ebd9 !important; margin: 0 !important;">Pour ajouter plusieurs jetons de rappel à un joueur, survolez son cercle intérieur jusqu'à ce qu'un <strong>jeton violet vierge</strong> apparaisse, puis cliquez dessus.</p>
+            <p style="color: #ffffff !important; margin: 0 !important;">Pour ajouter plusieurs jetons de rappel à un joueur, survolez son cercle intérieur jusqu'à ce qu'un <strong>jeton violet vierge</strong> apparaisse, puis cliquez dessus.</p>
           </div>
         </div>
         <div class="step-row">
           <div class="step-media">[Image 4 : Sélection du rappel]</div>
           <div>
-            <p style="color: #f4ebd9 !important; margin: 0 !important;">Choisissez n'importe quel jeton de rappel présent dans la partie.</p>
+            <p style="color: #ffffff !important; margin: 0 !important;">Choisissez n'importe quel jeton de rappel présent dans la partie.</p>
           </div>
         </div>
         <div class="step-row">
           <div class="step-media">[Image 5 : Rappels personnalisés]</div>
           <div>
-            <p style="color: #f4ebd9 !important; margin: 0 !important;">Vous pouvez également créer vos propres <strong>jetons de rappel personnalisés</strong>.</p>
+            <p style="color: #ffffff !important; margin: 0 !important;">Vous pouvez également créer vos propres <strong>jetons de rappel personnalisés</strong>.</p>
           </div>
         </div>
         <div class="step-row">
           <div class="step-media">[Image 6 : Exemples pratiques]</div>
           <div>
-            <p style="color: #f4ebd9 !important; margin: 0 !important;">Parfait pour noter les prétentions multiples, les informations du Savant, la cible de la Commère... et bien plus encore !</p>
+            <p style="color: #ffffff !important; margin: 0 !important;">Parfait pour noter les prétentions multiples, les informations du Savant, la cible de la Commère... et bien plus encore !</p>
           </div>
         </div>
       </div>
@@ -767,7 +781,7 @@ image: /images/logogold.png
     <div id="step-15" class="step-card">
       <div class="step-header">
         <div class="step-number">15</div>
-        <h2 style="color: #fffdf0 !important; font-size: 26px !important; font-weight: 900 !important; font-style: italic !important; margin: 0 !important;">CAMÉRA OU MICRO QUI NE FONCTIONNE PAS ?</h2>
+        <h2 style="color: #ffffff !important; font-size: 26px !important; font-weight: 900 !important; font-style: italic !important; margin: 0 !important;">CAMÉRA OU MICRO QUI NE FONCTIONNE PAS ?</h2>
       </div>
       <div class="step-grid">
         <div class="step-row">
@@ -775,12 +789,12 @@ image: /images/logogold.png
           <div>
             <div class="action-box">
               <span class="action-badge">★ À FAIRE</span><br>
-              <p style="color: #f4ebd9 !important; margin: 5px 0 !important;">Si vous rencontrez un problème audio ou vidéo, la première étape est de <strong>rafraîchir la page web</strong> :</p>
+              <p style="color: #ffffff !important; margin: 5px 0 !important;">Si vous rencontrez un problème audio ou vidéo, la première étape est de <strong>rafraîchir la page web</strong> :</p>
               <ul style="margin-top: 8px; margin-bottom: 8px; padding-left: 20px;">
-                <li style="color: #f4ebd9 !important;"><strong>Sur Windows / Linux :</strong> Appuyez sur <span class="key-badge">F5</span> ou forcez avec <span class="key-badge">CTRL</span> + <span class="key-badge">F5</span>.</li>
-                <li style="color: #f4ebd9 !important;"><strong>Sur Mac OS :</strong> Cliquez sur le bouton <strong>« Actualiser cette page » 🔄</strong> (la petite flèche qui tourne en rond) ou faites <span class="key-badge">⌘ CMD</span> + <span class="key-badge">R</span>.</li>
+                <li style="color: #ffffff !important;"><strong>Sur Windows / Linux :</strong> Appuyez sur <span class="key-badge">F5</span> ou forcez avec <span class="key-badge">CTRL</span> + <span class="key-badge">F5</span>.</li>
+                <li style="color: #ffffff !important;"><strong>Sur Mac OS :</strong> Cliquez sur le bouton <strong>« Actualiser cette page » 🔄</strong> (la petite flèche qui tourne en rond) ou faites <span class="key-badge">⌘ CMD</span> + <span class="key-badge">R</span>.</li>
               </ul>
-              <p style="color: #f4ebd9 !important; margin: 0 !important;">Vérifiez aussi les autorisations de votre navigateur (icône de cadenas 🔒 à gauche de l'URL) et assurez-vous que votre casque n'est pas coupé électriquement par un bouton physique.</p>
+              <p style="color: #ffffff !important; margin: 0 !important;">Vérifiez aussi les autorisations de votre navigateur (icône de cadenas 🔒 à gauche de l'URL) et assurez-vous que votre casque n'est pas coupé électriquement par un bouton physique.</p>
             </div>
           </div>
         </div>
@@ -791,7 +805,7 @@ image: /images/logogold.png
     <div id="step-16" class="step-card">
       <div class="step-header">
         <div class="step-number">16</div>
-        <h2 style="color: #fffdf0 !important; font-size: 26px !important; font-weight: 900 !important; font-style: italic !important; margin: 0 !important;">IMPOSSIBLE DE VOIR VOTRE JETON ?</h2>
+        <h2 style="color: #ffffff !important; font-size: 26px !important; font-weight: 900 !important; font-style: italic !important; margin: 0 !important;">IMPOSSIBLE DE VOIR VOTRE JETON ?</h2>
       </div>
       <div class="step-grid">
         <div class="step-row">
@@ -799,7 +813,7 @@ image: /images/logogold.png
           <div>
             <div class="action-box">
               <span class="action-badge">★ À FAIRE</span><br>
-              <p style="color: #f4ebd9 !important; margin: 0 !important;">Appuyez sur la touche <span class="key-badge">T</span> de votre clavier. Vous êtes probablement basculé sur la vue <strong>Town Square (Place du Village)</strong> — réappuyez sur <span class="key-badge">T</span> pour revenir en arrière.</p>
+              <p style="color: #ffffff !important; margin: 0 !important;">Appuyez sur la touche <span class="key-badge">T</span> de votre clavier. Vous êtes probablement basculé sur la vue <strong>Town Square (Place du Village)</strong> — réappuyez sur <span class="key-badge">T</span> pour revenir en arrière.</p>
             </div>
           </div>
         </div>
