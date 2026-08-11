@@ -15,6 +15,7 @@ image: /images/logogold.png
 
 <hr class="explication">
 
+
 <style>
 /* Layout principal */
 .guide-container {
@@ -298,7 +299,7 @@ image: /images/logogold.png
   <!-- CONTENU PRINCIPAL -->
   <div class="guide-content">
 
-    <!-- ÉTAPE 1 (SÉPARÉE EN 2 IMAGES PROPRES) -->
+    <!-- ÉTAPE 1 -->
     <div id="step-1" class="step-card">
       <div class="step-header">
         <div style="background: #fdf0a6 !important; color: #1a0f2b !important; width: 52px !important; height: 52px !important; border-radius: 50% !important; display: flex !important; align-items: center !important; justify-content: center !important; font-weight: 900 !important; font-size: 26px !important; flex-shrink: 0 !important; box-shadow: 0 4px 12px rgba(0,0,0,0.6) !important;">1</div>
@@ -309,7 +310,7 @@ image: /images/logogold.png
 
       <div class="step-grid">
         <div class="step-row">
-          <img src="inscription-1.png" alt="Formulaire d'inscription" class="step-media">
+          <img src="images/inscription-1.png" alt="Formulaire d'inscription" class="step-media">
           <div>
             <h4 class="sub-step-title">1️⃣ Rendez-vous sur le site officiel :</h4>
             <p style="margin-bottom: 12px;">
@@ -325,7 +326,7 @@ image: /images/logogold.png
         </div>
 
         <div class="step-row">
-          <img src="inscription-2.png" alt="Écran de connexion" class="step-media">
+          <img src="images/inscription-2.png" alt="Écran de connexion" class="step-media">
           <div>
             <h4 class="sub-step-title">3️⃣ Connectez-vous :</h4>
             <p style="color: #ffffff !important; margin-bottom: 15px;">
@@ -350,14 +351,14 @@ image: /images/logogold.png
       </div>
       <div class="step-grid">
         <div class="step-row">
-          <img src="partie-publique.png" alt="Partie publique" class="step-media">
+          <img src="images/partie-publique.png" alt="Partie publique" class="step-media">
           <div>
             <h4 class="sub-step-title">Rejoindre une partie publique</h4>
             <p style="color: #ffffff !important; margin: 0 !important;">Une fois connecté, vous verrez la liste des parties publiques disponibles. Choisissez-en une pour vous installer ou simplement observer la partie.</p>
           </div>
         </div>
         <div class="step-row">
-          <img src="invitation.png" alt="Lien d'invitation" class="step-media">
+          <img src="images/invitation.png" alt="Lien d'invitation" class="step-media">
           <div>
             <h4 class="sub-step-title">Rejoindre une partie privée</h4>
             <p style="color: #ffffff !important; margin: 0 !important;">La plupart du temps, le Conteur vous enverra un lien direct. Il suffit de cliquer dessus :<br>
@@ -365,7 +366,7 @@ image: /images/logogold.png
           </div>
         </div>
         <div class="step-row">
-          <img src="partie-privee.png" alt="Code privé" class="step-media">
+          <img src="images/partie-privee.png" alt="Code privé" class="step-media">
           <div>
             <span style="color: #ffd97d !important; font-weight: 900 !important; font-style: italic !important; margin: 10px 0 !important; display: block !important;">— OU —</span>
             <p style="color: #ffffff !important; margin: 0 !important;">Cliquez sur <strong>Rejoindre une partie privée</strong> et entrez le code donné par le Conteur.</p>
@@ -382,7 +383,7 @@ image: /images/logogold.png
       </div>
       <div class="step-grid">
         <div class="step-row">
-          <img src="siege.png" alt="Prendre un siège" class="step-media">
+          <img src="images/siege.png" alt="Prendre un siège" class="step-media">
           <div>
             <p style="color: #ffffff !important; margin: 0 !important;">Une fois arrivé dans le village, cliquez sur un siège libre autour du cercle pour vous y installer.</p>
           </div>
@@ -398,7 +399,7 @@ image: /images/logogold.png
       </div>
       <div class="step-grid">
         <div class="step-row">
-          <img src="reglages.png" alt="Réglages" class="step-media">
+          <img src="images/reglages.png" alt="Réglages" class="step-media">
           <div>
             <div class="action-box">
               <span class="badge-afaire"><span class="badge-icon">★</span> À FAIRE</span><br>
@@ -409,7 +410,7 @@ image: /images/logogold.png
           </div>
         </div>
         <div class="step-row">
-          <img src="onglet-chat.png" alt="Onglet Chat" class="step-media">
+          <img src="images/onglet-chat.png" alt="Onglet Chat" class="step-media">
           <div>
             <div class="action-box">
               <span class="badge-afaire"><span class="badge-icon">★</span> À FAIRE</span><br>
@@ -418,7 +419,7 @@ image: /images/logogold.png
           </div>
         </div>
         <div class="step-row">
-          <img src="lancer-config.png" alt="Lancer Configuration" class="step-media">
+          <img src="images/lancer-config.png" alt="Lancer Configuration" class="step-media">
           <div>
             <div class="action-box">
               <span class="badge-afaire"><span class="badge-icon">★</span> À FAIRE</span><br>
@@ -427,7 +428,7 @@ image: /images/logogold.png
           </div>
         </div>
         <div class="step-row">
-          <img src="test-micro.png" alt="Test Micro" class="step-media">
+          <img src="images/test-micro.png" alt="Test Micro" class="step-media">
           <div>
             <div class="action-box">
               <span class="badge-afaire"><span class="badge-icon">★</span> À FAIRE</span><br>
@@ -446,7 +447,7 @@ image: /images/logogold.png
       </div>
       <div class="step-grid">
         <div class="step-row">
-          <img src="main-levee.png" alt="Lever la main" class="step-media">
+          <img src="images/main-levee.png" alt="Lever la main" class="step-media">
           <div>
             <p style="color: #ffffff !important;">Levez la main pour demander la parole ou pour voter pendant les phases d'exécution.</p>
             <div class="action-box">
@@ -466,7 +467,7 @@ image: /images/logogold.png
       </div>
       <div class="step-grid">
         <div class="step-row">
-          <img src="notif-vocal.png" alt="Notification Vocal" class="step-media">
+          <img src="images/notif-vocal.png" alt="Notification Vocal" class="step-media">
           <div>
             <div class="action-box">
               <span class="badge-afaire"><span class="badge-icon">★</span> À FAIRE</span><br>
@@ -475,7 +476,7 @@ image: /images/logogold.png
           </div>
         </div>
         <div class="step-row">
-          <img src="salon-prive.png" alt="Salon privé" class="step-media">
+          <img src="images/salon-prive.png" alt="Salon privé" class="step-media">
           <div>
             <div class="action-box">
               <span class="badge-afaire"><span class="badge-icon">★</span> À FAIRE</span><br>
@@ -494,7 +495,7 @@ image: /images/logogold.png
       </div>
       <div class="step-grid">
         <div class="step-row">
-          <img src="touche-entree.png" alt="Touche Entrée" class="step-media">
+          <img src="images/touche-entree.png" alt="Touche Entrée" class="step-media">
           <div>
             <div class="action-box">
               <span class="badge-afaire"><span class="badge-icon">★</span> À FAIRE</span><br>
@@ -505,7 +506,7 @@ image: /images/logogold.png
           </div>
         </div>
         <div class="step-row">
-          <img src="bulle-joueur.png" alt="Bulle Joueur" class="step-media">
+          <img src="images/bulle-joueur.png" alt="Bulle Joueur" class="step-media">
           <div>
             <div class="action-box">
               <span class="badge-afaire"><span class="badge-icon">★</span> À FAIRE</span><br>
@@ -524,7 +525,7 @@ image: /images/logogold.png
       </div>
       <div class="step-grid">
         <div class="step-row">
-          <img src="enveloppe.png" alt="Enveloppe" class="step-media">
+          <img src="images/enveloppe.png" alt="Enveloppe" class="step-media">
           <div>
             <div class="action-box">
               <span class="badge-afaire"><span class="badge-icon">★</span> À FAIRE</span><br>
@@ -533,7 +534,7 @@ image: /images/logogold.png
           </div>
         </div>
         <div class="step-row">
-          <img src="onglet-texte.png" alt="Onglet Texte" class="step-media">
+          <img src="images/onglet-texte.png" alt="Onglet Texte" class="step-media">
           <div>
             <div class="action-box">
               <span class="badge-afaire"><span class="badge-icon">★</span> À FAIRE</span><br>
@@ -552,7 +553,7 @@ image: /images/logogold.png
       </div>
       <div class="step-grid">
         <div class="step-row">
-          <img src="profil-utilisateur.png" alt="Profil Utilisateur" class="step-media">
+          <img src="images/profil-utilisateur.png" alt="Profil Utilisateur" class="step-media">
           <div>
             <div class="action-box">
               <span class="badge-afaire"><span class="badge-icon">★</span> À FAIRE</span><br>
@@ -571,7 +572,7 @@ image: /images/logogold.png
       </div>
       <div class="step-grid">
         <div class="step-row">
-          <img src="liberer-siege.png" alt="Libérer le siège" class="step-media">
+          <img src="images/liberer-siege.png" alt="Libérer le siège" class="step-media">
           <div>
             <p style="color: #ffffff !important; margin: 0 !important;">Cliquez sur l'engrenage ⚙️ puis choisissez <strong>Libérer le siège</strong>. Vous resterez dans le salon en tant que Spectateur.</p>
           </div>
@@ -587,7 +588,7 @@ image: /images/logogold.png
       </div>
       <div class="step-grid">
         <div class="step-row">
-          <img src="demande-grimoire.png" alt="Accès Grimoire" class="step-media">
+          <img src="images/demande-grimoire.png" alt="Accès Grimoire" class="step-media">
           <div>
             <p style="color: #ffffff !important; margin: 0 !important;">Cliquez sur le jeton du Conteur puis sélectionnez <strong>Demander l'accès au Grimoire</strong> pour voir l'ensemble des rôles de la partie en tant que spectateur.</p>
           </div>
@@ -603,7 +604,7 @@ image: /images/logogold.png
       </div>
       <div class="step-grid">
         <div class="step-row">
-          <img src="quitter-partie.png" alt="Quitter la partie" class="step-media">
+          <img src="images/quitter-partie.png" alt="Quitter la partie" class="step-media">
           <div>
             <div class="action-box">
               <span class="badge-afaire"><span class="badge-icon">★</span> À FAIRE</span><br>
@@ -624,7 +625,7 @@ image: /images/logogold.png
       </div>
       <div class="step-grid">
         <div class="step-row">
-          <img src="onglet-roles.png" alt="Onglet Personnages" class="step-media">
+          <img src="images/onglet-roles.png" alt="Onglet Personnages" class="step-media">
           <div>
             <p style="color: #ffffff !important; margin: 0 !important;">Cliquez sur l'onglet <strong style="color: #ffd97d !important;">Personnages</strong> pour afficher la liste des rôles du script. Un second clic affiche les détails complets.</p>
           </div>
@@ -640,7 +641,7 @@ image: /images/logogold.png
       </div>
       <div class="step-grid">
         <div class="step-row">
-          <img src="notes-jetons.png" alt="Jetons personnels" class="step-media">
+          <img src="images/notes-jetons.png" alt="Jetons personnels" class="step-media">
           <div>
             <p style="color: #ffffff !important; margin: 0 !important;">Cliquez sur le jeton d'un joueur pour le modifier. Cette note est <strong style="color: #ffd97d !important;">100 % personnelle</strong> : vous seul la voyez sur votre écran !</p>
           </div>
@@ -656,7 +657,7 @@ image: /images/logogold.png
       </div>
       <div class="step-grid">
         <div class="step-row">
-          <img src="actualiser.png" alt="Actualiser la page" class="step-media">
+          <img src="images/actualiser.png" alt="Actualiser la page" class="step-media">
           <div>
             <div class="action-box">
               <span class="badge-afaire"><span class="badge-icon">★</span> À FAIRE</span><br>
@@ -679,7 +680,7 @@ image: /images/logogold.png
       </div>
       <div class="step-grid">
         <div class="step-row">
-          <img src="touche-t.png" alt="Touche T" class="step-media">
+          <img src="images/touche-t.png" alt="Touche T" class="step-media">
           <div>
             <div class="action-box">
               <span class="badge-afaire"><span class="badge-icon">★</span> À FAIRE</span><br>
