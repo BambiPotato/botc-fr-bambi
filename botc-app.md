@@ -535,7 +535,7 @@ image: /images/logogold.png
           <div>
             <div class="action-box">
               <span class="badge-afaire"><span class="badge-icon">★</span> À FAIRE</span><br>
-              <span style="color: #ffffff !important;">Cliquez sur <strong>Démarrer</strong>.</span>
+              <span style="color: #ffffff !important;">Cliquez sur <strong>Commencer</strong>.</span>
             </div>
           </div>
         </div>
@@ -570,7 +570,7 @@ image: /images/logogold.png
       </div>
       <div class="step-grid">
         <div class="step-row">
-          <img src="images/main-levee.png" alt="Lever la main" class="step-media">
+          <img src="images/main-levee.gif" alt="Lever la main" class="step-media">
           <div>
             <p style="color: #ffffff !important;">Levez la main pour demander la parole ou pour voter pendant les phases d'exécution.</p>
             <div class="action-box">
