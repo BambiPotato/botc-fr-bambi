@@ -77,6 +77,11 @@ image: /images/logogold.png
   display: inline-block !important;
 }
 
+.guide-sidebar a:hover {
+  color: #ffd97d !important;
+  text-decoration: underline !important;
+}
+
 .guide-content {
   flex-grow: 1;
 }
@@ -130,7 +135,7 @@ image: /images/logogold.png
   margin: 10px 0 !important;
 }
 
-/* BADGES BOUTONS (À FAIRE / BRAVO) */
+/* BADGES BOUTONS */
 .badge-afaire, .badge-bravo {
   background: #2a143d !important;
   color: #ffe885 !important;
@@ -241,7 +246,6 @@ image: /images/logogold.png
     Vous trouverez ici tout ce dont vous avez besoin pour rejoindre une partie, parler aux autres joueurs et gérer votre grimoire — sur l'application officielle en ligne de <strong>Blood on the Clocktower</strong>.
   </p>
 
-  <!-- ENCART VIDÉO TUTO -->
   <div class="video-card-compact">
     <h3>Tuto vidéo</h3>
     <div class="video-wrapper-compact">
@@ -253,7 +257,7 @@ image: /images/logogold.png
 
 <div class="guide-container" markdown="0">
 
-  <!-- SOMMAIRE LATÉRAL -->
+  <!-- SOMMAIRE LATÉRAL (MIS À JOUR) -->
   <nav class="guide-sidebar">
     <a href="https://botc.app/login" target="_blank" rel="noopener noreferrer" style="text-align: center; background: rgba(181,139,82,.25); border: 1px solid #ffd97d; border-radius: 8px; color: #ffd97d !important; font-weight: bold; padding: 10px; margin-bottom: 15px; display: block !important;">
       🌐 Ouvrir BOTC.APP ↗
@@ -277,7 +281,7 @@ image: /images/logogold.png
 
     <h3>Profil & Siège</h3>
     <ul>
-      <li><a href="#step-9">9. Nom & Avatar</a></li>
+      <li><a href="#step-9">9. Changer de nom & d'avatar</a></li>
       <li><a href="#step-10">10. Quitter son siège</a></li>
       <li><a href="#step-11">11. Accès au Grimoire</a></li>
       <li><a href="#step-12">12. Quitter la partie</a></li>
@@ -285,13 +289,13 @@ image: /images/logogold.png
 
     <h3>Script & Grimoire</h3>
     <ul>
-      <li><a href="#step-13">13. Onglet Rôles</a></li>
-      <li><a href="#step-14">14. Jetons & Rappels</a></li>
+      <li><a href="#step-13">13. Ouvrir l'onglet Rôles</a></li>
+      <li><a href="#step-14">14. Jetons de rôles & rappels</a></li>
     </ul>
 
     <h3>Dépannage</h3>
     <ul>
-      <li><a href="#step-15">15. Dépannage Caméra/Micro</a></li>
+      <li><a href="#step-15">15. Caméra/Micro en panne</a></li>
       <li><a href="#step-16">16. Jeton introuvable</a></li>
     </ul>
   </nav>
@@ -391,13 +395,14 @@ image: /images/logogold.png
       </div>
     </div>
 
-    <!-- ÉTAPE 4 -->
+    <!-- ÉTAPE 4 : CONFIGURER CAMÉRA & MICRO (8 IMAGES) -->
     <div id="step-4" class="step-card">
       <div class="step-header">
         <div style="background: #fdf0a6 !important; color: #1a0f2b !important; width: 52px !important; height: 52px !important; border-radius: 50% !important; display: flex !important; align-items: center !important; justify-content: center !important; font-weight: 900 !important; font-size: 26px !important; flex-shrink: 0 !important; box-shadow: 0 4px 12px rgba(0,0,0,0.6) !important;">4</div>
         <h2 style="color: #ffffff !important; font-size: 26px !important; font-weight: 900 !important; font-style: italic !important; margin: 0 !important;">CONFIGURER CAMÉRA & MICRO</h2>
       </div>
       <div class="step-grid">
+        <!-- Image 1 -->
         <div class="step-row">
           <img src="images/reglages.png" alt="Réglages" class="step-media">
           <div>
@@ -405,34 +410,77 @@ image: /images/logogold.png
               <span class="badge-afaire"><span class="badge-icon">★</span> À FAIRE</span><br>
               <span style="color: #ffffff !important;">Appuyez sur la touche <span class="key-cap">Q</span> de votre clavier.</span>
               <span style="color: #ffd97d !important; font-weight: 900 !important; font-style: italic !important; margin: 10px 0 !important; display: block !important;">— OU —</span>
-              <span style="color: #ffffff !important;">Cliquez sur l'icône ⚙️ d'engrenage. </span>
+              <span style="color: #ffffff !important;">Cliquez sur l'icône d'engrenage ⚙️.</span>
             </div>
           </div>
         </div>
+        <!-- Image 2 -->
         <div class="step-row">
-          <img src="images/onglet-chat.png" alt="Onglet Chat" class="step-media">
+          <img src="images/onglet-chat.png" alt="3ème Onglet" class="step-media">
           <div>
             <div class="action-box">
               <span class="badge-afaire"><span class="badge-icon">★</span> À FAIRE</span><br>
-              <span style="color: #ffffff !important;">Cliquez sur le 3ème onglet (<strong style="color: #ffd97d !important;">Chat / Audio</strong>).</span>
+              <span style="color: #ffffff !important;">Cliquez sur le 3ème onglet.</span>
             </div>
           </div>
         </div>
+        <!-- Image 3 -->
         <div class="step-row">
-          <img src="images/lancer-config.png" alt="Lancer Configuration" class="step-media">
+          <img src="images/lancer-config.png" alt="Paramètres" class="step-media">
           <div>
             <div class="action-box">
               <span class="badge-afaire"><span class="badge-icon">★</span> À FAIRE</span><br>
-              <span style="color: #ffffff !important;">Cliquez sur <strong>Lancer la configuration</strong> puis sur <strong>Démarrer</strong> dans la fenêtre qui s'ouvre.</span>
+              <span style="color: #ffffff !important;">Cliquez sur <strong>Paramètres (Settings)</strong>.</span>
             </div>
           </div>
         </div>
+        <!-- Image 4 -->
         <div class="step-row">
-          <img src="images/test-micro.png" alt="Test Micro" class="step-media">
+          <img src="images/onglet-audio.png" alt="Onglet Chat" class="step-media">
           <div>
             <div class="action-box">
               <span class="badge-afaire"><span class="badge-icon">★</span> À FAIRE</span><br>
-              <span style="color: #ffffff !important;">Sélectionnez votre caméra et votre microphone. Quand le micro fonctionne, des <strong style="color: #ffd97d !important;">barres jaunes</strong> bougent quand vous parlez. Cliquez sur <strong>Fermer</strong> quand vous avez terminé.</span>
+              <span style="color: #ffffff !important;">Cliquez sur le 3ème onglet, <strong>Chat</strong>.</span>
+            </div>
+          </div>
+        </div>
+        <!-- Image 5 -->
+        <div class="step-row">
+          <img src="images/bouton-lancer.png" alt="Lancer la config" class="step-media">
+          <div>
+            <div class="action-box">
+              <span class="badge-afaire"><span class="badge-icon">★</span> À FAIRE</span><br>
+              <span style="color: #ffffff !important;">Cliquez sur <strong>Lancer la configuration (Run the Setup)</strong>.</span>
+            </div>
+          </div>
+        </div>
+        <!-- Image 6 -->
+        <div class="step-row">
+          <img src="images/bouton-demarrer.png" alt="Démarrer" class="step-media">
+          <div>
+            <div class="action-box">
+              <span class="badge-afaire"><span class="badge-icon">★</span> À FAIRE</span><br>
+              <span style="color: #ffffff !important;">Cliquez sur <strong>Démarrer (Start)</strong>.</span>
+            </div>
+          </div>
+        </div>
+        <!-- Image 7 -->
+        <div class="step-row">
+          <img src="images/test-micro.png" alt="Choix Caméra et Micro" class="step-media">
+          <div>
+            <div class="action-box">
+              <span class="badge-afaire"><span class="badge-icon">★</span> À FAIRE</span><br>
+              <span style="color: #ffffff !important;">Choisissez la caméra et le microphone à utiliser. Lorsque la caméra est bien réglée, vous vous verrez ; lorsque le micro fonctionne, des <strong style="color: #ffd97d !important;">barres jaunes</strong> bougent au rythme de votre voix. Une fois terminé, cliquez sur <strong>Fermer (Close)</strong>.</span>
+            </div>
+          </div>
+        </div>
+        <!-- Image 8 -->
+        <div class="step-row">
+          <img src="images/reactiver-micro.png" alt="Réactiver le micro" class="step-media">
+          <div>
+            <div class="action-box">
+              <span class="badge-afaire"><span class="badge-icon">★</span> À FAIRE</span><br>
+              <span style="color: #ffffff !important;">De retour sur la place du village, vous commencerez avec votre micro en sourdine et votre caméra coupée. Réactivez-les à l'aide des boutons situés dans le coin supérieur droit.</span>
             </div>
           </div>
         </div>
@@ -517,7 +565,7 @@ image: /images/logogold.png
       </div>
     </div>
 
-    <!-- ÉTAPE 8 -->
+    <!-- ÉTAPE 8 : ENVOYER UN CHUCHOTEMENT (4 IMAGES) -->
     <div id="step-8" class="step-card">
       <div class="step-header">
         <div style="background: #fdf0a6 !important; color: #1a0f2b !important; width: 52px !important; height: 52px !important; border-radius: 50% !important; display: flex !important; align-items: center !important; justify-content: center !important; font-weight: 900 !important; font-size: 26px !important; flex-shrink: 0 !important; box-shadow: 0 4px 12px rgba(0,0,0,0.6) !important;">8</div>
@@ -525,27 +573,47 @@ image: /images/logogold.png
       </div>
       <div class="step-grid">
         <div class="step-row">
-          <img src="images/enveloppe.png" alt="Enveloppe" class="step-media">
+          <img src="images/touche-entree-demande.png" alt="Demande de chat" class="step-media">
           <div>
             <div class="action-box">
               <span class="badge-afaire"><span class="badge-icon">★</span> À FAIRE</span><br>
-              <span style="color: #ffffff !important;">Cliquez sur l'icône d'enveloppe 📩 pour chuchoter par écrit à vos <strong>voisins directs</strong> ou au <strong>Conteur</strong>.</span>
+              <span style="color: #ffffff !important;">Appuyez sur la touche <span class="key-cap">ENTRÉE</span>.</span>
+              <span style="color: #ffd97d !important; font-weight: 900 !important; font-style: italic !important; margin: 10px 0 !important; display: block !important;">— OU —</span>
+              <span style="color: #ffffff !important;">Dans l'onglet Vocal, cliquez sur <strong>Demander un chat privé</strong>.</span>
             </div>
           </div>
         </div>
         <div class="step-row">
-          <img src="images/onglet-texte.png" alt="Onglet Texte" class="step-media">
+          <img src="images/enveloppe.png" alt="Enveloppe chuchotement" class="step-media">
           <div>
             <div class="action-box">
               <span class="badge-afaire"><span class="badge-icon">★</span> À FAIRE</span><br>
-              <span style="color: #ffffff !important;">Appuyez sur la touche <span class="key-cap">TAB</span> pour ouvrir rapidement le panneau de texte.</span>
+              <span style="color: #ffffff !important;">Cliquez sur l'enveloppe pour envoyer un chuchotement. Vous ne pouvez chuchoter qu'à vos <strong>voisins directs</strong> et au <strong>Conteur</strong>. Une animation d'enveloppe se joue — sa taille s'adapte à la longueur de votre message.</span>
+            </div>
+          </div>
+        </div>
+        <div class="step-row">
+          <img src="images/notif-texte.png" alt="Notifications texte" class="step-media">
+          <div>
+            <div class="action-box">
+              <span class="badge-afaire"><span class="badge-icon">★</span> À FAIRE</span><br>
+              <span style="color: #ffffff !important;">Les notifications de nouveaux messages s'affichent dans l'onglet Texte. Appuyez sur la touche <span class="key-cap">TAB</span> pour l'ouvrir.</span>
+            </div>
+          </div>
+        </div>
+        <div class="step-row">
+          <img src="images/chat-public.png" alt="Chat public" class="step-media">
+          <div>
+            <div class="action-box">
+              <span class="badge-afaire"><span class="badge-icon">★</span> À FAIRE</span><br>
+              <span style="color: #ffffff !important;">Il existe également un chat public visible par tout le monde. Les messages disparaissent après un certain temps.</span>
             </div>
           </div>
         </div>
       </div>
     </div>
 
-    <!-- ÉTAPE 9 -->
+    <!-- ÉTAPE 9 : NOM & AVATAR (4 IMAGES) -->
     <div id="step-9" class="step-card">
       <div class="step-header">
         <div style="background: #fdf0a6 !important; color: #1a0f2b !important; width: 52px !important; height: 52px !important; border-radius: 50% !important; display: flex !important; align-items: center !important; justify-content: center !important; font-weight: 900 !important; font-size: 26px !important; flex-shrink: 0 !important; box-shadow: 0 4px 12px rgba(0,0,0,0.6) !important;">9</div>
@@ -553,18 +621,35 @@ image: /images/logogold.png
       </div>
       <div class="step-grid">
         <div class="step-row">
-          <img src="images/profil-utilisateur.png" alt="Profil Utilisateur" class="step-media">
+          <img src="images/menu-reglages-q.png" alt="Menu Reglages" class="step-media">
           <div>
-            <div class="action-box">
-              <span class="badge-afaire"><span class="badge-icon">★</span> À FAIRE</span><br>
-              <span style="color: #ffffff !important;">Appuyez sur <span class="key-cap">Q</span> pour ouvrir les réglages, puis cliquez sur le 2ème onglet (<strong style="color: #ffd97d !important;">Utilisateur</strong>) pour modifier votre nom ou votre image de profil.</span>
-            </div>
+            <p style="color: #ffffff !important; margin: 0 !important;">Appuyez sur <span class="key-cap">Q</span> pour ouvrir le menu des réglages de l'application.</p>
+          </div>
+        </div>
+        <div class="step-row">
+          <img src="images/onglet-utilisateur.png" alt="Onglet Utilisateur" class="step-media">
+          <div>
+            <p style="color: #ffffff !important; margin: 0 !important;">Cliquez sur le 2ème onglet, <strong>Utilisateur (User)</strong>.</p>
+          </div>
+        </div>
+        <div class="step-row">
+          <img src="images/modifier-nom.png" alt="Modifier Nom" class="step-media">
+          <div>
+            <p style="color: #ffffff !important; margin: 0 !important;">Cliquez sur votre nom pour le modifier.</p>
+          </div>
+        </div>
+        <div class="step-row">
+          <img src="images/modifier-avatar.png" alt="Modifier Avatar" class="step-media">
+          <div>
+            <p style="color: #ffffff !important; margin: 0 !important;">
+              Cliquez sur l'avatar pour changer votre image (nécessite un abonnement <a href="https://www.patreon.com/cw/botconline/membership" target="_blank" rel="noopener noreferrer" style="color: #ffd97d !important; font-weight: bold; text-decoration: underline;">Patreon 🔗</a>).
+            </p>
           </div>
         </div>
       </div>
     </div>
 
-    <!-- ÉTAPE 10 -->
+    <!-- ÉTAPE 10 : QUITTERS SON SIÈGE (2 IMAGES) -->
     <div id="step-10" class="step-card">
       <div class="step-header">
         <div style="background: #fdf0a6 !important; color: #1a0f2b !important; width: 52px !important; height: 52px !important; border-radius: 50% !important; display: flex !important; align-items: center !important; justify-content: center !important; font-weight: 900 !important; font-size: 26px !important; flex-shrink: 0 !important; box-shadow: 0 4px 12px rgba(0,0,0,0.6) !important;">10</div>
@@ -572,9 +657,15 @@ image: /images/logogold.png
       </div>
       <div class="step-grid">
         <div class="step-row">
-          <img src="images/liberer-siege.png" alt="Libérer le siège" class="step-media">
+          <img src="images/clic-engrenage.png" alt="Engrenage" class="step-media">
           <div>
-            <p style="color: #ffffff !important; margin: 0 !important;">Cliquez sur l'engrenage ⚙️ puis choisissez <strong>Libérer le siège</strong>. Vous resterez dans le salon en tant que Spectateur.</p>
+            <p style="color: #ffffff !important; margin: 0 !important;">Cliquez sur l'icône d'engrenage ⚙️.</p>
+          </div>
+        </div>
+        <div class="step-row">
+          <img src="images/liberer-siege.png" alt="Liberer Siege" class="step-media">
+          <div>
+            <p style="color: #ffffff !important; margin: 0 !important;">Cliquez sur <strong>Libérer le siège (Vacate Seat)</strong>. Vous restez dans la partie en tant que Spectateur — vous pouvez chuchoter au Conteur et discuter avec les autres spectateurs.</p>
           </div>
         </div>
       </div>
@@ -596,7 +687,7 @@ image: /images/logogold.png
       </div>
     </div>
 
-    <!-- ÉTAPE 12 -->
+    <!-- ÉTAPE 12 : QUITTERS LA PARTIE (2 IMAGES) -->
     <div id="step-12" class="step-card">
       <div class="step-header">
         <div style="background: #fdf0a6 !important; color: #1a0f2b !important; width: 52px !important; height: 52px !important; border-radius: 50% !important; display: flex !important; align-items: center !important; justify-content: center !important; font-weight: 900 !important; font-size: 26px !important; flex-shrink: 0 !important; box-shadow: 0 4px 12px rgba(0,0,0,0.6) !important;">12</div>
@@ -604,20 +695,22 @@ image: /images/logogold.png
       </div>
       <div class="step-grid">
         <div class="step-row">
-          <img src="images/quitter-partie.png" alt="Quitter la partie" class="step-media">
+          <img src="images/quitter-touche-l.png" alt="Touche L" class="step-media">
           <div>
-            <div class="action-box">
-              <span class="badge-afaire"><span class="badge-icon">★</span> À FAIRE</span><br>
-              <span style="color: #ffffff !important;">Appuyez sur la touche <span class="key-cap">L</span> de votre clavier.</span>
-              <span style="color: #ffd97d !important; font-weight: 900 !important; font-style: italic !important; margin: 10px 0 !important; display: block !important;">— OU —</span>
-              <span style="color: #ffffff !important;">Cliquez sur l'engrenage ⚙️ puis choisissez <strong>Quitter la partie</strong>.</span>
-            </div>
+            <p style="color: #ffffff !important; margin: 0 !important;">Appuyez sur la touche <span class="key-cap">L</span> du clavier — un message d'avertissement apparaît pour éviter les quitts accidentels.</p>
+          </div>
+        </div>
+        <div class="step-row">
+          <img src="images/quitter-partie.png" alt="Quitter Partie Engrenage" class="step-media">
+          <div>
+            <span style="color: #ffd97d !important; font-weight: 900 !important; font-style: italic !important; margin: 10px 0 !important; display: block !important;">— OU —</span>
+            <p style="color: #ffffff !important; margin: 0 !important;">Cliquez sur l'engrenage ⚙️ puis sur <strong>Quitter la partie</strong>.</p>
           </div>
         </div>
       </div>
     </div>
 
-    <!-- ÉTAPE 13 -->
+    <!-- ÉTAPE 13 : OUVRIR L'ONGLET RÔLES (3 IMAGES) -->
     <div id="step-13" class="step-card">
       <div class="step-header">
         <div style="background: #fdf0a6 !important; color: #1a0f2b !important; width: 52px !important; height: 52px !important; border-radius: 50% !important; display: flex !important; align-items: center !important; justify-content: center !important; font-weight: 900 !important; font-size: 26px !important; flex-shrink: 0 !important; box-shadow: 0 4px 12px rgba(0,0,0,0.6) !important;">13</div>
@@ -625,25 +718,69 @@ image: /images/logogold.png
       </div>
       <div class="step-grid">
         <div class="step-row">
-          <img src="images/onglet-roles.png" alt="Onglet Personnages" class="step-media">
+          <img src="images/roles-liste-courte.png" alt="Liste courte rôles" class="step-media">
           <div>
-            <p style="color: #ffffff !important; margin: 0 !important;">Cliquez sur l'onglet <strong style="color: #ffd97d !important;">Personnages</strong> pour afficher la liste des rôles du script. Un second clic affiche les détails complets.</p>
+            <p style="color: #ffffff !important; margin: 0 !important;">Cliquez sur l'onglet <strong>Personnages (Character)</strong> pour afficher la liste simplifiée des personnages du script.</p>
+          </div>
+        </div>
+        <div class="step-row">
+          <img src="images/roles-script-complet.png" alt="Script complet" class="step-media">
+          <div>
+            <p style="color: #ffffff !important; margin: 0 !important;">Cliquez une deuxième fois sur l'onglet <strong>Personnages</strong> pour afficher le script complet avec tous les détails.</p>
+          </div>
+        </div>
+        <div class="step-row">
+          <img src="images/roles-fermer.png" alt="Fermer l'onglet rôles" class="step-media">
+          <div>
+            <p style="color: #ffffff !important; margin: 0 !important;">Cliquez une troisième fois sur l'onglet <strong>Personnages</strong> pour le fermer.</p>
           </div>
         </div>
       </div>
     </div>
 
-    <!-- ÉTAPE 14 -->
+    <!-- ÉTAPE 14 : JETONS DE RÔLES & RAPPELS (6 IMAGES) -->
     <div id="step-14" class="step-card">
       <div class="step-header">
         <div style="background: #fdf0a6 !important; color: #1a0f2b !important; width: 52px !important; height: 52px !important; border-radius: 50% !important; display: flex !important; align-items: center !important; justify-content: center !important; font-weight: 900 !important; font-size: 26px !important; flex-shrink: 0 !important; box-shadow: 0 4px 12px rgba(0,0,0,0.6) !important;">14</div>
-        <h2 style="color: #ffffff !important; font-size: 26px !important; font-weight: 900 !important; font-style: italic !important; margin: 0 !important;">PLACER DES JETONS & DES RAPPELS</h2>
+        <h2 style="color: #ffffff !important; font-size: 26px !important; font-weight: 900 !important; font-style: italic !important; margin: 0 !important;">JETONS DE RÔLES & RAPPELS</h2>
       </div>
       <div class="step-grid">
         <div class="step-row">
-          <img src="images/notes-jetons.png" alt="Jetons personnels" class="step-media">
+          <img src="images/changer-jeton-joueur.png" alt="Changer jeton" class="step-media">
           <div>
-            <p style="color: #ffffff !important; margin: 0 !important;">Cliquez sur le jeton d'un joueur pour le modifier. Cette note est <strong style="color: #ffd97d !important;">100 % personnelle</strong> : vous seul la voyez sur votre écran !</p>
+            <h4 class="sub-step-title">Définir un jeton</h4>
+            <p style="color: #ffffff !important; margin: 0 !important;">Vous pouvez modifier le jeton d'un joueur en cliquant directement dessus.</p>
+          </div>
+        </div>
+        <div class="step-row">
+          <img src="images/notes-personnelles.png" alt="Note personnelle" class="step-media">
+          <div>
+            <p style="color: #ffffff !important; margin: 0 !important;">Définir le jeton d’un joueur est une information <strong>visible uniquement par vous</strong>. Cela ne change le rôle de personne (pas même le vôtre) — très pratique pour prendre des notes !</p>
+          </div>
+        </div>
+        <div class="step-row">
+          <img src="images/ajouter-rappel.png" alt="Ajouter rappel" class="step-media">
+          <div>
+            <h4 class="sub-step-title">Placer des rappels</h4>
+            <p style="color: #ffffff !important; margin: 0 !important;">Ajoutez plusieurs jetons de rappel sur un joueur. Survolez le cercle intérieur jusqu'à ce qu'un jeton violet vierge apparaisse, puis cliquez sur le jeton de rappel souhaité.</p>
+          </div>
+        </div>
+        <div class="step-row">
+          <img src="images/choisir-rappel.png" alt="Choisir jeton rappel" class="step-media">
+          <div>
+            <p style="color: #ffffff !important; margin: 0 !important;">Choisissez n'importe quel jeton de rappel disponible dans la partie.</p>
+          </div>
+        </div>
+        <div class="step-row">
+          <img src="images/rappel-personnalise.png" alt="Rappel personnalise" class="step-media">
+          <div>
+            <p style="color: #ffffff !important; margin: 0 !important;">Vous pouvez également créer vos propres jetons de rappel personnalisés.</p>
+          </div>
+        </div>
+        <div class="step-row">
+          <img src="images/exemples-rappels.png" alt="Exemples de rappels" class="step-media">
+          <div>
+            <p style="color: #ffffff !important; margin: 0 !important;">Parfait pour suivre plusieurs revendications de rôles, les infos du Savant, la cible du Cancanier (Gossip)... et bien plus encore !</p>
           </div>
         </div>
       </div>
