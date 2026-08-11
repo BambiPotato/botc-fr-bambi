@@ -15,7 +15,6 @@ image: /images/logogold.png
 
 <hr class="explication">
 
-
 <style>
 /* Layout principal */
 .guide-container {
@@ -42,12 +41,12 @@ image: /images/logogold.png
 
 .guide-sidebar h3 {
   color: #ffd97d !important;
-  font-size: 14px !important;
+  font-size: 13px !important;
   font-weight: 800 !important;
   text-transform: uppercase !important;
-  margin: 20px 0 10px 0 !important;
+  margin: 18px 0 8px 0 !important;
   border-bottom: 1px solid rgba(255, 217, 125, 0.3) !important;
-  padding-bottom: 5px !important;
+  padding-bottom: 4px !important;
 }
 
 .guide-sidebar ul {
@@ -73,7 +72,7 @@ image: /images/logogold.png
 .guide-sidebar a {
   color: #ffffff !important;
   text-decoration: none !important;
-  font-size: 14px !important;
+  font-size: 13px !important;
   display: inline-block !important;
 }
 
@@ -228,6 +227,30 @@ image: /images/logogold.png
   font-weight: 500 !important;
 }
 
+/* BOUTON RETOUR EN HAUT */
+.back-to-top {
+  display: block;
+  width: fit-content;
+  margin: 40px auto 20px auto;
+  padding: 12px 24px;
+  background: #1c102e !important;
+  color: #ffd97d !important;
+  border: 1.5px solid #ffd97d !important;
+  border-radius: 30px;
+  font-weight: 800;
+  font-size: 15px;
+  text-decoration: none !important;
+  text-align: center;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.4);
+  transition: transform 0.2s ease, background-color 0.2s ease;
+}
+
+.back-to-top:hover {
+  transform: translateY(-2px);
+  background: #2b1845 !important;
+  color: #ffffff !important;
+}
+
 @media (max-width: 768px) {
   .guide-container { flex-direction: column; }
   .guide-sidebar { width: 100%; }
@@ -236,8 +259,8 @@ image: /images/logogold.png
 }
 </style>
 
-<!-- EN-TÊTE -->
-<div style="max-width: 1200px; margin: 20px auto 10px auto; padding: 0 10px;" markdown="0">
+<!-- EN-TÊTE / ANCRE DE HAUT DE PAGE -->
+<div id="top-guide" style="max-width: 1200px; margin: 20px auto 10px auto; padding: 0 10px;" markdown="0">
   <span style="display: inline-block !important; background: #1c102e !important; color: #ffd97d !important; font-size: 13px !important; font-weight: 900 !important; letter-spacing: 2px !important; padding: 6px 14px !important; border-radius: 6px !important; text-transform: uppercase !important;">GUIDE DU JOUEUR · BOTC.APP</span>
   
   <h1 style="color: #1c102e !important; font-size: 40px !important; font-weight: 900 !important; font-style: italic !important; text-transform: uppercase !important; margin: 12px 0 !important;">COMMENT JOUER SUR BOTC.APP</h1>
@@ -257,21 +280,25 @@ image: /images/logogold.png
 
 <div class="guide-container" markdown="0">
 
-  <!-- SOMMAIRE LATÉRAL (MIS À JOUR) -->
+  <!-- SOMMAIRE LATÉRAL -->
   <nav class="guide-sidebar">
     <a href="https://botc.app/login" target="_blank" rel="noopener noreferrer" style="text-align: center; background: rgba(181,139,82,.25); border: 1px solid #ffd97d; border-radius: 8px; color: #ffd97d !important; font-weight: bold; padding: 10px; margin-bottom: 15px; display: block !important;">
       🌐 Ouvrir BOTC.APP ↗
     </a>
 
-    <h3>Rejoindre le jeu</h3>
+    <h3>1. Inscription</h3>
     <ul>
       <li><a href="#step-1">1. S’enregistrer sur le site</a></li>
+    </ul>
+
+    <h3>2. Rejoindre une partie</h3>
+    <ul>
       <li><a href="#step-2">2. Rejoindre une partie</a></li>
       <li><a href="#step-3">3. Prendre un siège</a></li>
       <li><a href="#step-4">4. Configurer caméra & micro</a></li>
     </ul>
 
-    <h3>Parler aux autres joueurs</h3>
+    <h3>3. Parler aux joueurs</h3>
     <ul>
       <li><a href="#step-5">5. Lever la main</a></li>
       <li><a href="#step-6">6. Répondre à un chat privé</a></li>
@@ -279,7 +306,7 @@ image: /images/logogold.png
       <li><a href="#step-8">8. Envoyer un chuchotement</a></li>
     </ul>
 
-    <h3>Profil & Siège</h3>
+    <h3>4. Profil & Siège</h3>
     <ul>
       <li><a href="#step-9">9. Changer de nom & d'avatar</a></li>
       <li><a href="#step-10">10. Quitter son siège</a></li>
@@ -287,14 +314,10 @@ image: /images/logogold.png
       <li><a href="#step-12">12. Quitter la partie</a></li>
     </ul>
 
-    <h3>Script & Grimoire</h3>
+    <h3>5. Script, Jetons & Dépannage</h3>
     <ul>
       <li><a href="#step-13">13. Ouvrir l'onglet Rôles</a></li>
       <li><a href="#step-14">14. Jetons de rôles & rappels</a></li>
-    </ul>
-
-    <h3>Dépannage</h3>
-    <ul>
       <li><a href="#step-15">15. Caméra/Micro en panne</a></li>
       <li><a href="#step-16">16. Jeton introuvable</a></li>
     </ul>
@@ -827,6 +850,9 @@ image: /images/logogold.png
         </div>
       </div>
     </div>
+
+    <!-- BOUTON REVENIR EN HAUT -->
+    <a href="#top-guide" class="back-to-top">⬆️ Revenir en haut de page</a>
 
   </div>
 </div>
