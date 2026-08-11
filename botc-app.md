@@ -14,6 +14,7 @@ image: /images/logogold.png
 
 
 <hr class="explication">
+
 <style>
 /* Layout principal */
 .guide-container {
@@ -108,7 +109,7 @@ image: /images/logogold.png
   align-items: center;
 }
 
-/* STYLE AUTOMATIQUE DES IMAGES - RIEN À TOUCHER */
+/* STYLE IMAGES UNIFORME & HOMOGÈNE */
 .step-media {
   width: 280px !important;
   height: 160px !important;
@@ -128,7 +129,7 @@ image: /images/logogold.png
   margin: 10px 0 !important;
 }
 
-/* BADGES DE BOUTONS (À FAIRE / BRAVO) */
+/* BADGES BOUTONS (À FAIRE / BRAVO) */
 .badge-afaire, .badge-bravo {
   background: #2a143d !important;
   color: #ffe885 !important;
@@ -297,36 +298,44 @@ image: /images/logogold.png
   <!-- CONTENU PRINCIPAL -->
   <div class="guide-content">
 
-    <!-- ÉTAPE 1 -->
+    <!-- ÉTAPE 1 (SÉPARÉE EN 2 IMAGES PROPRES) -->
     <div id="step-1" class="step-card">
       <div class="step-header">
         <div style="background: #fdf0a6 !important; color: #1a0f2b !important; width: 52px !important; height: 52px !important; border-radius: 50% !important; display: flex !important; align-items: center !important; justify-content: center !important; font-weight: 900 !important; font-size: 26px !important; flex-shrink: 0 !important; box-shadow: 0 4px 12px rgba(0,0,0,0.6) !important;">1</div>
         <h2 style="color: #ffffff !important; font-size: 26px !important; font-weight: 900 !important; font-style: italic !important; margin: 0 !important;">S’ENREGISTRER SUR LE SITE</h2>
       </div>
+
+      <p style="color: #ffffff !important; margin-bottom: 20px;">Pour jouer avec l’application <strong>Blood 🩸 on the Clocktower 🕰️</strong>, vous devez créer un <strong>compte gratuit</strong>.</p>
+
       <div class="step-grid">
         <div class="step-row">
-          <!-- TON IMAGE ICI : remplace juste inscription.png par le nom de ton fichier -->
-          <img src="images/inscription.png" alt="Formulaire d'inscription" class="step-media">
+          <img src="inscription-1.png" alt="Formulaire d'inscription" class="step-media">
           <div>
-            <p style="color: #ffffff !important;">Pour jouer avec l’application <strong>Blood 🩸 on the Clocktower 🕰️</strong>, vous devez créer un <strong>compte gratuit</strong>.</p>
-            <ul style="list-style: none; padding-left: 0;">
-              <li style="margin-bottom: 12px; color: #ffffff !important;">
-                <h4 class="sub-step-title">1️⃣ Rendez-vous sur le site officiel :</h4>
-                <a href="https://botc.app/login" target="_blank" rel="noopener noreferrer" style="color: #ffd97d !important; font-weight: bold; text-decoration: underline;">https://botc.app/login 🔗</a>
-              </li>
-              <li style="margin-bottom: 12px; color: #ffffff !important;">
-                <h4 class="sub-step-title">2️⃣ Cliquez sur S'inscrire :</h4>
-                Remplissez les champs <em>(adresse e-mail, mot de passe, pseudonyme)</em>.<br>
-                ➡️ <strong style="color: #ff6b6b !important;">Ne cliquez pas sur Patreon.</strong>
-              </li>
-              <li style="color: #ffffff !important;">
-                <h4 class="sub-step-title">3️⃣ Connectez-vous :</h4>
-                Entrez vos identifiants puis cliquez sur <strong>Connexion</strong>.
-              </li>
-            </ul>
+            <h4 class="sub-step-title">1️⃣ Rendez-vous sur le site officiel :</h4>
+            <p style="margin-bottom: 12px;">
+              <a href="https://botc.app/login" target="_blank" rel="noopener noreferrer" style="color: #ffd97d !important; font-weight: bold; text-decoration: underline;">https://botc.app/login 🔗</a>
+            </p>
+
+            <h4 class="sub-step-title">2️⃣ Cliquez sur S'inscrire :</h4>
+            <p style="color: #ffffff !important; margin: 0;">
+              Remplissez les champs <em>(adresse e-mail, mot de passe, pseudonyme)</em>.<br>
+              ➡️ <strong style="color: #ff6b6b !important;">Ne cliquez pas sur Patreon.</strong>
+            </p>
+          </div>
+        </div>
+
+        <div class="step-row">
+          <img src="inscription-2.png" alt="Écran de connexion" class="step-media">
+          <div>
+            <h4 class="sub-step-title">3️⃣ Connectez-vous :</h4>
+            <p style="color: #ffffff !important; margin-bottom: 15px;">
+              Entrez vos identifiants puis cliquez sur <strong>Connexion</strong>.
+            </p>
+
             <div class="action-box">
               <span class="badge-bravo"><span class="badge-icon">👏🏻</span> BRAVO</span><br>
-              <span style="color: #ffffff !important; font-weight: bold;">Votre compte est créé !</span> <span style="color: #ffffff !important;">Passez à l'étape suivante pour rejoindre une table.</span>
+              <span style="color: #ffffff !important; font-weight: bold;">Votre compte est créé !</span> 
+              <span style="color: #ffffff !important;">Passez à l'étape suivante pour rejoindre une table.</span>
             </div>
           </div>
         </div>
