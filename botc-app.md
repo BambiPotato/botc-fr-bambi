@@ -15,22 +15,14 @@ image: /images/logogold.png
 
 <hr class="explication">
 
-
 <style>
-/* Fond de page sombre global pour éviter le blanc qui tire sur les yeux */
-body, html {
-  background-color: #12091f !important;
-  color: #ffffff !important;
-  margin: 0;
-  padding: 0;
-  font-family: system-ui, -apple-system, sans-serif;
-}
-
+/* Conteneur principal */
 .guide-container {
   display: flex;
   gap: 30px;
   max-width: 1200px;
   margin: 0 auto;
+  font-family: system-ui, -apple-system, sans-serif;
 }
 
 .guide-sidebar {
@@ -141,6 +133,7 @@ body, html {
   margin: 10px 0 !important;
 }
 
+/* CARTE VIDÉO ET TRUCAGE POUR MASQUER LE BADGE IA */
 .video-card {
   background: #1c102e !important;
   border: 1px solid #b58b52;
@@ -159,9 +152,14 @@ body, html {
   background: #000000;
 }
 
+/* Agrandissement léger pour faire sortir l'icône IA du cadre */
 .video-wrapper iframe {
   position: absolute;
-  top: 0; left: 0; width: 100%; height: 100%; border: 0;
+  top: -8%; 
+  left: -4%; 
+  width: 108%; 
+  height: 116%; 
+  border: 0;
 }
 
 @media (max-width: 768px) {
@@ -171,17 +169,17 @@ body, html {
 }
 </style>
 
-<!-- EN-TÊTE DU GUIDE -->
+<!-- EN-TÊTE : COULEUR FONCÉE SOMBRE SUR LE FOND BEIGE DE TON SITE -->
 <div style="max-width: 1200px; margin: 20px auto 30px auto; padding: 0 10px;" markdown="0">
   <span style="display: inline-block !important; background: #1c102e !important; color: #ffd97d !important; font-size: 15px !important; font-weight: 900 !important; letter-spacing: 2px !important; padding: 8px 18px !important; border-radius: 6px !important; text-transform: uppercase !important; border: 1px solid #ffd97d !important;">GUIDE DU JOUEUR · BOTC.APP</span>
   
-  <h1 style="color: #ffffff !important; font-size: 40px !important; font-weight: 900 !important; font-style: italic !important; text-transform: uppercase !important; margin: 12px 0 !important;">COMMENT JOUER SUR BOTC.APP</h1>
+  <h1 style="color: #1c102e !important; font-size: 42px !important; font-weight: 900 !important; font-style: italic !important; text-transform: uppercase !important; margin: 12px 0 !important; text-shadow: none !important;">COMMENT JOUER SUR BOTC.APP</h1>
   
-  <p style="color: #d1c4e9 !important; font-size: 16px !important; line-height: 1.5 !important;">
+  <p style="color: #2b1a3f !important; font-size: 17px !important; line-height: 1.5 !important; font-weight: 600 !important;">
     Vous trouverez ici tout ce dont vous avez besoin pour rejoindre une partie, parler aux autres joueurs et gérer votre grimoire — sur l'application officielle en ligne de <strong>Blood on the Clocktower</strong>.
   </p>
 
-  <!-- LECTEUR VIDÉO CORRIGÉ SANS ERREUR DE CONNEXION -->
+  <!-- LECTEUR VIDÉO (AVEC LE LÉGER ZOOM POUR MASQUER LE BADGE IA) -->
   <div class="video-card">
     <span style="background: #ff6b6b; color: #ffffff !important; font-size: 11px; font-weight: 900; padding: 3px 10px; border-radius: 4px; text-transform: uppercase;">▶ TUTO VIDÉO</span>
     <h3 style="color: #ffffff !important; font-size: 20px !important; margin: 12px 0 !important; font-weight: 800 !important;">Vous préférez une démonstration en vidéo ?</h3>
@@ -193,7 +191,7 @@ body, html {
 
 <div class="guide-container" markdown="0">
 
-  <!-- SOMMAIRE LATÉRAL (100% FRANÇAIS) -->
+  <!-- SOMMAIRE LATÉRAL -->
   <nav class="guide-sidebar">
     <a href="https://botc.app/login" target="_blank" rel="noopener noreferrer" style="text-align: center; background: rgba(181,139,82,.25); border: 1px solid #ffd97d; border-radius: 8px; color: #ffd97d !important; font-weight: bold; padding: 10px; margin-bottom: 15px; display: block !important;">
       🌐 Ouvrir BOTC.APP ↗
@@ -236,7 +234,7 @@ body, html {
     </ul>
   </nav>
 
-  <!-- CONTENU DU GUIDE (TRADUIT EN FRANÇAIS PUR) -->
+  <!-- CONTENU -->
   <div class="guide-content">
 
     <!-- ÉTAPE 1 -->
@@ -262,7 +260,7 @@ body, html {
               <li style="color: #ffffff !important;"><strong style="color: #ffd97d !important;">3️⃣ Connectez-vous :</strong> Entrez vos identifiants puis cliquez sur <strong>Connexion</strong>.</li>
             </ul>
             <div class="action-box">
-              <span style="background: #ffd97d !important; color: #12091f !important; font-size: 12px !important; font-weight: 900 !important; padding: 4px 10px !important; border-radius: 6px !important; text-transform: uppercase !important; display: inline-block !important; margin-bottom: 10px !important;">👏🏻 BRAVO</span><br>
+              <span style="background: #fdf0a6 !important; color: #000000 !important; font-size: 14px !important; font-weight: 900 !important; padding: 6px 14px !important; border-radius: 6px !important; text-transform: uppercase !important; display: inline-block !important; margin-bottom: 10px !important; letter-spacing: 1px !important;">👏🏻 BRAVO</span><br>
               <span style="color: #ffffff !important; font-weight: bold;">Votre compte est créé !</span> <span style="color: #ffffff !important;">Passez à l'étape suivante pour rejoindre une table.</span>
             </div>
           </div>
@@ -329,7 +327,8 @@ body, html {
           <div class="step-media">[Image 1 : Menu Réglages]</div>
           <div>
             <div class="action-box">
-              <span style="background: #ffd97d !important; color: #12091f !important; font-size: 12px !important; font-weight: 900 !important; padding: 4px 10px !important; border-radius: 6px !important; text-transform: uppercase !important; display: inline-block !important; margin-bottom: 10px !important;">★ À FAIRE</span><br>
+              <!-- BADGE À FAIRE : PLUS GRAND ET NOIR ULTRA LISIBLE -->
+              <span style="background: #fdf0a6 !important; color: #000000 !important; font-size: 14px !important; font-weight: 900 !important; padding: 6px 14px !important; border-radius: 6px !important; text-transform: uppercase !important; display: inline-block !important; margin-bottom: 10px !important; letter-spacing: 1px !important;">★ À FAIRE</span><br>
               <span style="color: #ffffff !important;">Appuyez sur la touche <span style="background: #ffffff !important; color: #000000 !important; padding: 3px 8px !important; border-radius: 5px !important; font-weight: 900 !important; font-family: monospace !important; font-size: 14px !important; border: 1px solid #000000 !important; display: inline-block !important;">Q</span> de votre clavier.</span>
               <span style="color: #ffd97d !important; font-weight: 900 !important; font-style: italic !important; margin: 10px 0 !important; display: block !important;">— OU —</span>
               <span style="color: #ffffff !important;">Cliquez sur l'icône d'engrenage ⚙️.</span>
@@ -340,7 +339,7 @@ body, html {
           <div class="step-media">[Image 2 : Onglet Chat]</div>
           <div>
             <div class="action-box">
-              <span style="background: #ffd97d !important; color: #12091f !important; font-size: 12px !important; font-weight: 900 !important; padding: 4px 10px !important; border-radius: 6px !important; text-transform: uppercase !important; display: inline-block !important; margin-bottom: 10px !important;">★ À FAIRE</span><br>
+              <span style="background: #fdf0a6 !important; color: #000000 !important; font-size: 14px !important; font-weight: 900 !important; padding: 6px 14px !important; border-radius: 6px !important; text-transform: uppercase !important; display: inline-block !important; margin-bottom: 10px !important; letter-spacing: 1px !important;">★ À FAIRE</span><br>
               <span style="color: #ffffff !important;">Cliquez sur le 3ème onglet (<strong>Chat / Audio</strong>).</span>
             </div>
           </div>
@@ -349,7 +348,7 @@ body, html {
           <div class="step-media">[Image 3 : Configuration]</div>
           <div>
             <div class="action-box">
-              <span style="background: #ffd97d !important; color: #12091f !important; font-size: 12px !important; font-weight: 900 !important; padding: 4px 10px !important; border-radius: 6px !important; text-transform: uppercase !important; display: inline-block !important; margin-bottom: 10px !important;">★ À FAIRE</span><br>
+              <span style="background: #fdf0a6 !important; color: #000000 !important; font-size: 14px !important; font-weight: 900 !important; padding: 6px 14px !important; border-radius: 6px !important; text-transform: uppercase !important; display: inline-block !important; margin-bottom: 10px !important; letter-spacing: 1px !important;">★ À FAIRE</span><br>
               <span style="color: #ffffff !important;">Cliquez sur <strong>Lancer la configuration</strong> puis sur <strong>Démarrer</strong> dans la fenêtre qui s'ouvre.</span>
             </div>
           </div>
@@ -358,7 +357,7 @@ body, html {
           <div class="step-media">[Image 4 : Test caméra et micro]</div>
           <div>
             <div class="action-box">
-              <span style="background: #ffd97d !important; color: #12091f !important; font-size: 12px !important; font-weight: 900 !important; padding: 4px 10px !important; border-radius: 6px !important; text-transform: uppercase !important; display: inline-block !important; margin-bottom: 10px !important;">★ À FAIRE</span><br>
+              <span style="background: #fdf0a6 !important; color: #000000 !important; font-size: 14px !important; font-weight: 900 !important; padding: 6px 14px !important; border-radius: 6px !important; text-transform: uppercase !important; display: inline-block !important; margin-bottom: 10px !important; letter-spacing: 1px !important;">★ À FAIRE</span><br>
               <span style="color: #ffffff !important;">Sélectionnez votre caméra et votre microphone. Quand le micro fonctionne, des <strong>barres jaunes</strong> bougent quand vous parlez. Cliquez sur <strong>Fermer</strong> quand vous avez terminé.</span>
             </div>
           </div>
@@ -378,7 +377,7 @@ body, html {
           <div>
             <p style="color: #ffffff !important;">Levez la main pour demander la parole ou pour voter pendant les phases d'exécution.</p>
             <div class="action-box">
-              <span style="background: #ffd97d !important; color: #12091f !important; font-size: 12px !important; font-weight: 900 !important; padding: 4px 10px !important; border-radius: 6px !important; text-transform: uppercase !important; display: inline-block !important; margin-bottom: 10px !important;">★ À FAIRE</span><br>
+              <span style="background: #fdf0a6 !important; color: #000000 !important; font-size: 14px !important; font-weight: 900 !important; padding: 6px 14px !important; border-radius: 6px !important; text-transform: uppercase !important; display: inline-block !important; margin-bottom: 10px !important; letter-spacing: 1px !important;">★ À FAIRE</span><br>
               <span style="color: #ffffff !important;">Appuyez sur la barre <span style="background: #ffffff !important; color: #000000 !important; padding: 3px 8px !important; border-radius: 5px !important; font-weight: 900 !important; font-family: monospace !important; font-size: 14px !important; border: 1px solid #000000 !important; display: inline-block !important;">ESPACE</span> pour lever ou baisser la main.</span>
             </div>
           </div>
@@ -397,7 +396,7 @@ body, html {
           <div class="step-media">[Image 1 : Notification dans le menu Vocal]</div>
           <div>
             <div class="action-box">
-              <span style="background: #ffd97d !important; color: #12091f !important; font-size: 12px !important; font-weight: 900 !important; padding: 4px 10px !important; border-radius: 6px !important; text-transform: uppercase !important; display: inline-block !important; margin-bottom: 10px !important;">★ À FAIRE</span><br>
+              <span style="background: #fdf0a6 !important; color: #000000 !important; font-size: 14px !important; font-weight: 900 !important; padding: 6px 14px !important; border-radius: 6px !important; text-transform: uppercase !important; display: inline-block !important; margin-bottom: 10px !important; letter-spacing: 1px !important;">★ À FAIRE</span><br>
               <span style="color: #ffffff !important;">Si un joueur veut discuter en privé avec vous, un signal sonore retentit et son nom apparaît dans l'onglet <strong>Vocal</strong> à gauche. Cliquez sur son nom pour accepter la discussion.</span>
             </div>
           </div>
@@ -406,7 +405,7 @@ body, html {
           <div class="step-media">[Image 2 : Salon privé]</div>
           <div>
             <div class="action-box">
-              <span style="background: #ffd97d !important; color: #12091f !important; font-size: 12px !important; font-weight: 900 !important; padding: 4px 10px !important; border-radius: 6px !important; text-transform: uppercase !important; display: inline-block !important; margin-bottom: 10px !important;">★ À FAIRE</span><br>
+              <span style="background: #fdf0a6 !important; color: #000000 !important; font-size: 14px !important; font-weight: 900 !important; padding: 6px 14px !important; border-radius: 6px !important; text-transform: uppercase !important; display: inline-block !important; margin-bottom: 10px !important; letter-spacing: 1px !important;">★ À FAIRE</span><br>
               <span style="color: #ffffff !important;">Pour quitter un salon privé, cliquez sur <strong>Quitter</strong> ou appuyez sur la touche <span style="background: #ffffff !important; color: #000000 !important; padding: 3px 8px !important; border-radius: 5px !important; font-weight: 900 !important; font-family: monospace !important; font-size: 14px !important; border: 1px solid #000000 !important; display: inline-block !important;">RETOUR ARRIÈRE</span> (Effacer) de votre clavier.</span>
             </div>
           </div>
@@ -425,7 +424,7 @@ body, html {
           <div class="step-media">[Image 1 : Touche Entrée]</div>
           <div>
             <div class="action-box">
-              <span style="background: #ffd97d !important; color: #12091f !important; font-size: 12px !important; font-weight: 900 !important; padding: 4px 10px !important; border-radius: 6px !important; text-transform: uppercase !important; display: inline-block !important; margin-bottom: 10px !important;">★ À FAIRE</span><br>
+              <span style="background: #fdf0a6 !important; color: #000000 !important; font-size: 14px !important; font-weight: 900 !important; padding: 6px 14px !important; border-radius: 6px !important; text-transform: uppercase !important; display: inline-block !important; margin-bottom: 10px !important; letter-spacing: 1px !important;">★ À FAIRE</span><br>
               <span style="color: #ffffff !important;">Appuyez sur la touche <span style="background: #ffffff !important; color: #000000 !important; padding: 3px 8px !important; border-radius: 5px !important; font-weight: 900 !important; font-family: monospace !important; font-size: 14px !important; border: 1px solid #000000 !important; display: inline-block !important;">ENTRÉE</span>.</span>
               <span style="color: #ffd97d !important; font-weight: 900 !important; font-style: italic !important; margin: 10px 0 !important; display: block !important;">— OU —</span>
               <span style="color: #ffffff !important;">Dans l'onglet <strong>Vocal</strong>, cliquez sur <strong>Demander un chat privé</strong>.</span>
@@ -436,7 +435,7 @@ body, html {
           <div class="step-media">[Image 2 : Bulle sur joueur]</div>
           <div>
             <div class="action-box">
-              <span style="background: #ffd97d !important; color: #12091f !important; font-size: 12px !important; font-weight: 900 !important; padding: 4px 10px !important; border-radius: 6px !important; text-transform: uppercase !important; display: inline-block !important; margin-bottom: 10px !important;">★ À FAIRE</span><br>
+              <span style="background: #fdf0a6 !important; color: #000000 !important; font-size: 14px !important; font-weight: 900 !important; padding: 6px 14px !important; border-radius: 6px !important; text-transform: uppercase !important; display: inline-block !important; margin-bottom: 10px !important; letter-spacing: 1px !important;">★ À FAIRE</span><br>
               <span style="color: #ffffff !important;">Cliquez directement sur l'icône de bulle 💬 à côté du joueur que vous souhaitez contacter.</span>
             </div>
           </div>
@@ -455,7 +454,7 @@ body, html {
           <div class="step-media">[Image 1 : Enveloppe]</div>
           <div>
             <div class="action-box">
-              <span style="background: #ffd97d !important; color: #12091f !important; font-size: 12px !important; font-weight: 900 !important; padding: 4px 10px !important; border-radius: 6px !important; text-transform: uppercase !important; display: inline-block !important; margin-bottom: 10px !important;">★ À FAIRE</span><br>
+              <span style="background: #fdf0a6 !important; color: #000000 !important; font-size: 14px !important; font-weight: 900 !important; padding: 6px 14px !important; border-radius: 6px !important; text-transform: uppercase !important; display: inline-block !important; margin-bottom: 10px !important; letter-spacing: 1px !important;">★ À FAIRE</span><br>
               <span style="color: #ffffff !important;">Cliquez sur l'icône d'enveloppe 📩 pour chuchoter par écrit à vos <strong>voisins directs</strong> ou au <strong>Conteur</strong>.</span>
             </div>
           </div>
@@ -464,7 +463,7 @@ body, html {
           <div class="step-media">[Image 2 : Onglet Texte]</div>
           <div>
             <div class="action-box">
-              <span style="background: #ffd97d !important; color: #12091f !important; font-size: 12px !important; font-weight: 900 !important; padding: 4px 10px !important; border-radius: 6px !important; text-transform: uppercase !important; display: inline-block !important; margin-bottom: 10px !important;">★ À FAIRE</span><br>
+              <span style="background: #fdf0a6 !important; color: #000000 !important; font-size: 14px !important; font-weight: 900 !important; padding: 6px 14px !important; border-radius: 6px !important; text-transform: uppercase !important; display: inline-block !important; margin-bottom: 10px !important; letter-spacing: 1px !important;">★ À FAIRE</span><br>
               <span style="color: #ffffff !important;">Appuyez sur la touche <span style="background: #ffffff !important; color: #000000 !important; padding: 3px 8px !important; border-radius: 5px !important; font-weight: 900 !important; font-family: monospace !important; font-size: 14px !important; border: 1px solid #000000 !important; display: inline-block !important;">TAB</span> pour ouvrir rapidement le panneau de texte.</span>
             </div>
           </div>
@@ -483,7 +482,7 @@ body, html {
           <div class="step-media">[Image 1 : Réglages Utilisateur]</div>
           <div>
             <div class="action-box">
-              <span style="background: #ffd97d !important; color: #12091f !important; font-size: 12px !important; font-weight: 900 !important; padding: 4px 10px !important; border-radius: 6px !important; text-transform: uppercase !important; display: inline-block !important; margin-bottom: 10px !important;">★ À FAIRE</span><br>
+              <span style="background: #fdf0a6 !important; color: #000000 !important; font-size: 14px !important; font-weight: 900 !important; padding: 6px 14px !important; border-radius: 6px !important; text-transform: uppercase !important; display: inline-block !important; margin-bottom: 10px !important; letter-spacing: 1px !important;">★ À FAIRE</span><br>
               <span style="color: #ffffff !important;">Appuyez sur <span style="background: #ffffff !important; color: #000000 !important; padding: 3px 8px !important; border-radius: 5px !important; font-weight: 900 !important; font-family: monospace !important; font-size: 14px !important; border: 1px solid #000000 !important; display: inline-block !important;">Q</span> pour ouvrir les réglages, puis cliquez sur le 2ème onglet (<strong>Utilisateur</strong>) pour modifier votre nom ou votre image de profil.</span>
             </div>
           </div>
@@ -534,7 +533,7 @@ body, html {
           <div class="step-media">[Image 1 : Option Quitter]</div>
           <div>
             <div class="action-box">
-              <span style="background: #ffd97d !important; color: #12091f !important; font-size: 12px !important; font-weight: 900 !important; padding: 4px 10px !important; border-radius: 6px !important; text-transform: uppercase !important; display: inline-block !important; margin-bottom: 10px !important;">★ À FAIRE</span><br>
+              <span style="background: #fdf0a6 !important; color: #000000 !important; font-size: 14px !important; font-weight: 900 !important; padding: 6px 14px !important; border-radius: 6px !important; text-transform: uppercase !important; display: inline-block !important; margin-bottom: 10px !important; letter-spacing: 1px !important;">★ À FAIRE</span><br>
               <span style="color: #ffffff !important;">Appuyez sur la touche <span style="background: #ffffff !important; color: #000000 !important; padding: 3px 8px !important; border-radius: 5px !important; font-weight: 900 !important; font-family: monospace !important; font-size: 14px !important; border: 1px solid #000000 !important; display: inline-block !important;">L</span> de votre clavier.</span>
               <span style="color: #ffd97d !important; font-weight: 900 !important; font-style: italic !important; margin: 10px 0 !important; display: block !important;">— OU —</span>
               <span style="color: #ffffff !important;">Cliquez sur l'engrenage ⚙️ puis choisissez <strong>Quitter la partie</strong>.</span>
@@ -587,7 +586,7 @@ body, html {
           <div class="step-media">[Image 1 : Actualiser la page]</div>
           <div>
             <div class="action-box">
-              <span style="background: #ffd97d !important; color: #12091f !important; font-size: 12px !important; font-weight: 900 !important; padding: 4px 10px !important; border-radius: 6px !important; text-transform: uppercase !important; display: inline-block !important; margin-bottom: 10px !important;">★ À FAIRE</span><br>
+              <span style="background: #fdf0a6 !important; color: #000000 !important; font-size: 14px !important; font-weight: 900 !important; padding: 6px 14px !important; border-radius: 6px !important; text-transform: uppercase !important; display: inline-block !important; margin-bottom: 10px !important; letter-spacing: 1px !important;">★ À FAIRE</span><br>
               <p style="color: #ffffff !important; margin: 5px 0 !important;">Rafraîchissez votre page web pour réinitialiser la connexion audio/vidéo :</p>
               <ul style="margin-top: 8px; margin-bottom: 8px; padding-left: 20px;">
                 <li style="color: #ffffff !important;"><strong>Sous Windows / Linux :</strong> Appuyez sur <span style="background: #ffffff !important; color: #000000 !important; padding: 3px 8px !important; border-radius: 5px !important; font-weight: 900 !important; font-family: monospace !important; font-size: 14px !important; border: 1px solid #000000 !important; display: inline-block !important;">F5</span> ou forcez avec <span style="background: #ffffff !important; color: #000000 !important; padding: 3px 8px !important; border-radius: 5px !important; font-weight: 900 !important; font-family: monospace !important; font-size: 14px !important; border: 1px solid #000000 !important; display: inline-block !important;">CTRL</span> + <span style="background: #ffffff !important; color: #000000 !important; padding: 3px 8px !important; border-radius: 5px !important; font-weight: 900 !important; font-family: monospace !important; font-size: 14px !important; border: 1px solid #000000 !important; display: inline-block !important;">F5</span>.</li>
@@ -610,7 +609,7 @@ body, html {
           <div class="step-media">[Image 1 : Touche T]</div>
           <div>
             <div class="action-box">
-              <span style="background: #ffd97d !important; color: #12091f !important; font-size: 12px !important; font-weight: 900 !important; padding: 4px 10px !important; border-radius: 6px !important; text-transform: uppercase !important; display: inline-block !important; margin-bottom: 10px !important;">★ À FAIRE</span><br>
+              <span style="background: #fdf0a6 !important; color: #000000 !important; font-size: 14px !important; font-weight: 900 !important; padding: 6px 14px !important; border-radius: 6px !important; text-transform: uppercase !important; display: inline-block !important; margin-bottom: 10px !important; letter-spacing: 1px !important;">★ À FAIRE</span><br>
               <p style="color: #ffffff !important; margin: 0 !important;">Appuyez sur la touche <span style="background: #ffffff !important; color: #000000 !important; padding: 3px 8px !important; border-radius: 5px !important; font-weight: 900 !important; font-family: monospace !important; font-size: 14px !important; border: 1px solid #000000 !important; display: inline-block !important;">T</span> de votre clavier. Vous êtes sans doute basculé en vue <strong>Place du Village</strong> — réappuyez sur <span style="background: #ffffff !important; color: #000000 !important; padding: 3px 8px !important; border-radius: 5px !important; font-weight: 900 !important; font-family: monospace !important; font-size: 14px !important; border: 1px solid #000000 !important; display: inline-block !important;">T</span> pour revenir à la vue normale.</p>
             </div>
           </div>
@@ -620,7 +619,6 @@ body, html {
 
   </div>
 </div>
-
 
 <hr class="explication">
 
