@@ -15,6 +15,7 @@ image: /images/logogold.png
 
 <hr class="explication">
 
+
 <style>
 /* Fond de page sombre global pour éviter le blanc qui tire sur les yeux */
 body, html {
