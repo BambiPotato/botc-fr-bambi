@@ -551,7 +551,7 @@ image: /images/logogold.png
         </div>
         <!-- Image 8 -->
         <div class="step-row">
-          <img src="images/reactiver-micro.png" alt="Réactiver le micro" class="step-media">
+          <img src="images/reactiver-micro.gif" alt="Réactiver le micro" class="step-media">
           <div>
             <div class="action-box">
               <span class="badge-afaire"><span class="badge-icon">★</span> À FAIRE</span><br>
@@ -594,7 +594,7 @@ image: /images/logogold.png
           <div>
             <div class="action-box">
               <span class="badge-afaire"><span class="badge-icon">★</span> À FAIRE</span><br>
-              <span style="color: #ffffff !important;">Si un joueur veut discuter en privé avec vous, un signal sonore retentit et son nom apparaît dans l'onglet <strong style="color: #ffd97d !important;">Vocal</strong> à gauche. Cliquez sur son nom pour accepter la discussion.</span>
+              <span style="color: #ffffff !important;">Si un joueur veut discuter en privé avec vous, un signal sonore retentit et son nom apparaît dans l'onglet <strong style="color: #ffd97d !important;">VOIX</strong> à gauche. Cliquez sur son nom pour accepter la discussion.</span>
             </div>
           </div>
         </div>
@@ -624,7 +624,7 @@ image: /images/logogold.png
               <span class="badge-afaire"><span class="badge-icon">★</span> À FAIRE</span><br>
               <span style="color: #ffffff !important;">Appuyez sur la touche <span class="key-cap">ENTRÉE</span>.</span>
               <span style="color: #ffd97d !important; font-weight: 900 !important; font-style: italic !important; margin: 10px 0 !important; display: block !important;">— OU —</span>
-              <span style="color: #ffffff !important;">Dans l'onglet <strong style="color: #ffd97d !important;">Vocal</strong>, cliquez sur <strong>Demander un chat privé</strong>.</span>
+              <span style="color: #ffffff !important;">Dans l'onglet <strong style="color: #ffd97d !important;">VOIX</strong>, cliquez sur <strong>Demander un chat privé</strong>.</span>
             </div>
           </div>
         </div>
@@ -795,19 +795,19 @@ image: /images/logogold.png
         <div class="step-row">
           <img src="images/roles-liste-courte.png" alt="Liste courte rôles" class="step-media">
           <div>
-            <p style="color: #ffffff !important; margin: 0 !important;">Cliquez sur l'onglet <strong>Personnages</strong> pour afficher la liste simplifiée des personnages du script.</p>
+            <p style="color: #ffffff !important; margin: 0 !important;">Cliquez sur l'onglet <strong>RÔLES</strong> pour afficher la liste simplifiée des personnages du script.</p>
           </div>
         </div>
         <div class="step-row">
           <img src="images/roles-script-complet.png" alt="Script complet" class="step-media">
           <div>
-            <p style="color: #ffffff !important; margin: 0 !important;">Cliquez une deuxième fois sur l'onglet <strong>Personnages</strong> pour afficher le script complet avec tous les détails.</p>
+            <p style="color: #ffffff !important; margin: 0 !important;">Cliquez une deuxième fois sur l'onglet <strong>RÔLES</strong> pour afficher le script complet avec tous les détails.</p>
           </div>
         </div>
         <div class="step-row">
           <img src="images/roles-fermer.png" alt="Fermer l'onglet rôles" class="step-media">
           <div>
-            <p style="color: #ffffff !important; margin: 0 !important;">Cliquez une troisième fois sur l'onglet <strong>Personnages</strong> pour le fermer.</p>
+            <p style="color: #ffffff !important; margin: 0 !important;">Cliquez une troisième fois sur l'onglet <strong>RÔLES</strong> pour le fermer.</p>
           </div>
         </div>
       </div>
