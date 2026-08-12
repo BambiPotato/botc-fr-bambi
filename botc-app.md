@@ -714,7 +714,7 @@ image: /images/logogold.png
           </div>
         </div>
         <div class="step-row">
-          <img src="images/modifier-avatar.png" alt="Modifier Avatar" class="step-media">
+          <img src="images/modifier-avatar.gif" alt="Modifier Avatar" class="step-media">
           <div>
             <p style="color: #ffffff !important; margin: 0 !important;">
               Cliquez sur l'avatar pour changer votre image (nécessite un abonnement <a href="https://www.patreon.com/cw/botconline/membership" target="_blank" rel="noopener noreferrer" style="color: #ffd97d !important; font-weight: bold; text-decoration: underline;">Patreon 🔗</a>).
