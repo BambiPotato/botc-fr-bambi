@@ -479,7 +479,7 @@ image: /images/logogold.png
       <div class="step-grid">
         <!-- Image 1 -->
         <div class="step-row">
-          <img src="images/reglages.png" alt="Réglages" class="step-media">
+          <img src="images/reglages.gif" alt="Réglages" class="step-media">
           <div>
             <div class="action-box">
               <span class="badge-afaire"><span class="badge-icon">★</span> À FAIRE</span><br>
