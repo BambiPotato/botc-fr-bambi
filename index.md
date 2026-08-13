@@ -632,8 +632,18 @@ data-tooltip="Suis-nous sur Instagram">
       </a>
     </td>
 
-    <!-- Cases vides invisibles -->
-    <td style="background: transparent !important; border: none !important; box-shadow: none !important;"></td>
+    <!-- BotC App : Guide pour jouer en ligne  -->
+    <td style="height: 220px !important; min-height: 220px !important; vertical-align: top;">
+      <a href="./botc-app.html" style="display: flex; flex-direction: column; align-items: center; height: 100%; padding: 20px 12px 12px 12px; text-decoration: none !important;">
+        <span class="rg-media" style="margin-bottom: 12px;">
+          <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
+        </span>
+        <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:6px; text-align:center;">BotC App : Guide pour jouer en ligne</span>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center;">Tutoriel complet pour jouer à Blood on the Clocktower sur l'application officielle</span>
+      </a>
+    </td>
+
+    <!-- Case vide invisible restante -->
     <td style="background: transparent !important; border: none !important; box-shadow: none !important;"></td>
   </tr>
 </table>
