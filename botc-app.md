@@ -876,7 +876,7 @@ image: /images/logogold.png
               <p style="color: #ffffff !important; margin: 5px 0 !important;">Rafraîchissez votre page web pour réinitialiser la connexion audio/vidéo :</p>
               <ul style="margin-top: 8px; margin-bottom: 8px; padding-left: 20px;">
                 <li style="color: #ffffff !important;"><strong>Sous Windows / Linux :</strong> Appuyez sur <span class="key-cap">F5</span> ou forcez avec <span class="key-cap">CTRL</span> + <span class="key-cap">F5</span>.</li>
-                <li style="color: #ffffff !important;"><strong>Sous Mac OS :</strong> Cliquez sur le bouton <strong>Actualiser 🔄</strong> du navigateur ou faites <span class="key-cap">⌘ CMD</span> + <span class="key-cap">R</span>.</li>
+                <li style="color: #ffffff !important;"><strong>Sous Mac OS :</strong> Cliquez sur le bouton <strong>Actualiser 🔄</strong> du navigateur ou faites <span class="key-cap">⌘ CMD</span> + <span class="key-cap">R</span></li>
               </ul>
             </div>
           </div>
