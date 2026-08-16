@@ -36,7 +36,7 @@ image: /images/Generic_traveller.png
 
 <!-- ===== SOMMAIRE CLIQUABLE ===== -->
 <h2 id="top" style="color:#9b59b6; font-size:26px;">Sommaire</h2>
-<hr class="explication">
+<hr class="voyageur">
 
 <ul style="color:#f5f5f5; font-size:20px; line-height:1.8; padding-left:20px; font-weight:bold;">
   <li><a href="#synopsis" style="color:#9b59b6; text-decoration:none;">Synopsis</a></li>
@@ -104,6 +104,7 @@ image: /images/Generic_traveller.png
 
 <!-- ===== SYNOPSIS ===== -->
 <h2 id="synopsis"><span style="color:#9b59b6; font-weight:bold;">Synopsis</span></h2>
+<hr class="voyageur">
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Une boue glissante recouvre les pavés d’un village sans nom, au cœur de la nuit. Debout sous la pluie, un homme attend. Le bord de son chapeau, qui fait ruisseler l’eau de pluie, crée une sorte de cascade dans la pâleur de la lune. Elle vient se fracasser à ses pieds, éclaboussant ses bottes.
@@ -222,12 +223,13 @@ Comme pour les exécutions, chaque Voyageur ne peut être appelé à l’exil qu
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong>En règle générale, les Voyageurs ne peuvent pas devenir des rôles non Voyageurs, et inversement.</strong><br>
 Si une capacité tente de provoquer ce changement, indiquez simplement au joueur de choisir une autre personne ou un autre rôle. (Cela s’explique par le fait que les joueurs incarnant des Voyageurs peuvent avoir besoin de quitter la partie plus tôt, ce qui ne serait plus possible s’ils devenaient des rôles non Voyageurs. De plus, la partie pourrait devenir déséquilibrée, voire absurde, si les joueurs devenaient Voyageurs trop facilement.)<br><br>
-Cela dit, vous pouvez décider de faire exception. Si vous aimez expérimenter et que vous pensez que cela rendra la partie plus amusante, certaines capacités (comme celle du <a href="../bmr_roles/barbier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Barbier</a>) peuvent autoriser ce type de transformation.<br>
+Cela dit, vous pouvez décider de faire exception. Si vous aimez expérimenter et que vous pensez que cela rendra la partie plus amusante, certaines capacités (comme celle du <a href="../sv_roles/barbier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Barbier</a>) peuvent autoriser ce type de transformation.<br>
 Dans ce cas, le joueur échange son jeton de vie en conséquence. Les Voyageurs restent toujours clairement identifiés par tous les joueurs.
 </p>
 
 <!-- ===== MODULES VOYAGEURS ===== -->
 <h2 id="modules-voyageurs"><span style="color:#9b59b6; font-size:26px;">Les Voyageurs par Module</span></h2>
+
 
 <!-- ===== TROUBLE BREWING ===== -->
 <h3 id="trouble-brewing"><span style="color:#b58b52;">Trouble Brewing</span></h3>
