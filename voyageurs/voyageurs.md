@@ -28,7 +28,7 @@ image: /images/Generic_traveller.png
 <!-- ===== EN-TÊTE ET IMAGE PRINCIPALE ===== -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./voyageurs.html" style="text-decoration:none; display:inline-block;">
-    <img src="../images/Generic_traveller.png" alt="Voyageurs" width="360" style="border-radius:12px; margin-top:10px; display:block; margin-left:auto; margin-right:auto;"><br>
+    <img src="../images/Generic_traveller.png" alt="Voyageurs" width="360" style="border-radius:12px; margin-top:10px; display:block; margin-left:auto; margin-right:auto;">
     <span style="color:#9b59b6; font-weight:bold; font-size:30px;">Voyageurs</span>
   </a>
 </div>
@@ -119,14 +119,14 @@ On dit qu’il n’est pas de peur supérieure à celle de l’inconnu. Cet homm
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="./voyageurs.html" style="text-decoration:none; display:inline-block;">
-    <img src="../images/Generic_traveller.png" alt="Voyageurs" width="360" style="border-radius:12px; margin-top:10px; display:block; margin-left:auto; margin-right:auto;"><br>
+    <img src="../images/Generic_traveller.png" alt="Voyageurs" width="360" style="border-radius:12px; margin-top:10px; display:block; margin-left:auto; margin-right:auto;">
     <span style="color:#9b59b6; font-weight:bold; font-size:30px;">Voyageurs</span>
   </a>
 </div>
 
 
 <!-- ===== PRESENTATION ===== -->
-<h2 id="presentation"><span style="color:#9b59b6; font-weight:bold;">Présentation les Voyageurs</span></h2>
+<h2 id="presentation"><span style="color:#9b59b6; font-weight:bold;">Présentation</span></h2>
 <hr class="voyageur">
 
 <p class="botc-flavour-text dropcap" style="margin:0; color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -187,7 +187,7 @@ Et de temps en temps, faire du seul Voyageur un maléfique permet aussi d’entr
 </p>
 
 <!-- ===== GERER LES VOYAGEURS ===== -->
-<h2 id="gerer-les-voyageurs"><span style="color:#9b59b6; font-weight:bold;">GÉRER LES VOYAGEURS</span></h2>
+<h2 id="gerer-les-voyageurs"><span style="color:#9b59b6; font-weight:bold;">Gérer les Voyageurs</span></h2>
 <hr class="voyageur">
 
 <p class="botc-flavour-text dropcap" style="margin:0; color:#f5f5f5; font-size:18px; line-height:1.7;">
