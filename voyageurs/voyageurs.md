@@ -126,7 +126,7 @@ On dit qu’il n’est pas de peur supérieure à celle de l’inconnu. Cet homm
 
 
 <!-- ===== PRESENTATION ===== -->
-<h2 id="presentation"><span style="color:#9b59b6; font-weight:bold;">Présentation RÔLES VOYAGEURS</span></h2>
+<h2 id="presentation"><span style="color:#9b59b6; font-weight:bold;">Présentation les Voyageurs</span></h2>
 <hr class="voyageur">
 
 <p class="botc-flavour-text dropcap" style="margin:0; color:#f5f5f5; font-size:18px; line-height:1.7;">
