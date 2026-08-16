@@ -23,22 +23,26 @@ image: /images/Generic_traveller.png
 }
 </style>
 
+
+
 <!-- ===== EN-TÊTE ET IMAGE PRINCIPALE ===== -->
 <div style="text-align:center; margin: 20px 0;">
-  <img src="../images/Generic_traveller.png" alt="Voyageurs" width="360" style="border-radius:12px; margin-top:10px;">
-  <br>
-  <span style="color:#9b59b6; font-weight:bold; font-size:30px;">Voyageurs</span>
+  <a href="./voyageurs.html" style="text-decoration:none; display:inline-block;">
+    <img src="../images/Generic_traveller.png" alt="Voyageurs" width="360" style="border-radius:12px; margin-top:10px; display:block; margin-left:auto; margin-right:auto;"><br>
+    <span style="color:#9b59b6; font-weight:bold; font-size:30px;">Voyageurs</span>
+  </a>
 </div>
 
+
 <!-- ===== SOMMAIRE CLIQUABLE ===== -->
-<h2 id="top" style="color:#e0b97a; font-size:26px;">Sommaire</h2>
+<h2 id="top" style="color:#9b59b6; font-size:26px;">Sommaire</h2>
 <hr class="explication">
 
 <ul style="color:#f5f5f5; font-size:20px; line-height:1.8; padding-left:20px; font-weight:bold;">
   <li><a href="#synopsis" style="color:#9b59b6; text-decoration:none;">Synopsis</a></li>
   <li><a href="#presentation" style="color:#9b59b6; text-decoration:none;">Présentation des Voyageurs</a></li>
   <li><a href="#gerer-les-voyageurs" style="color:#9b59b6; text-decoration:none;">Gérer les Voyageurs</a></li>
-  <li style="margin-top:8px;"><a href="#modules-voyageurs" style="color:#e0b97a; text-decoration:none; font-size:22px;">Les Voyageurs par Module</a>
+  <li style="margin-top:8px;"><a href="#modules-voyageurs" style="color:#9b59b6; text-decoration:none; font-size:22px;">Les Voyageurs par Module</a>
     <ul style="font-weight:normal; font-size:18px; line-height:1.6; margin-top:5px;">
       <li><a href="#trouble-brewing" style="color:#b58b52; text-decoration:none;">Trouble Brewing</a></li>
       <li><a href="#sects-violets" style="color:#d67bff; text-decoration:none;">Sects & Violets</a></li>
@@ -114,16 +118,15 @@ On dit qu’il n’est pas de peur supérieure à celle de l’inconnu. Cet homm
 </p>
 
 <div style="text-align:center; margin: 20px 0;">
-  <img src="../images/Generic_traveller.png" alt="Voyageurs" width="360" style="border-radius:12px; margin-top:10px;">
-  <br>
-  <span style="color:#9b59b6; font-weight:bold; font-size:30px;">Voyageurs</span>
+  <a href="./voyageurs.html" style="text-decoration:none; display:inline-block;">
+    <img src="../images/Generic_traveller.png" alt="Voyageurs" width="360" style="border-radius:12px; margin-top:10px; display:block; margin-left:auto; margin-right:auto;"><br>
+    <span style="color:#9b59b6; font-weight:bold; font-size:30px;">Voyageurs</span>
+  </a>
 </div>
 
 
 <!-- ===== PRESENTATION ===== -->
-<h2 id="presentation">Présentation</h2>
-
-<h3 style="color:#e0b97a;">RÔLES VOYAGEURS</h3>
+<h2 id="presentation"><span style="color:#9b59b6;>Présentation LES VOYAGEURS</span></h2>
 <hr class="voyageur">
 
 <p class="botc-flavour-text dropcap" style="margin:0; color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -184,7 +187,7 @@ Et de temps en temps, faire du seul Voyageur un maléfique permet aussi d’entr
 </p>
 
 <!-- ===== GERER LES VOYAGEURS ===== -->
-<h2 id="gerer-les-voyageurs"><span style="color:#e0b97a;">GÉRER LES VOYAGEURS</span></h2>
+<h2 id="gerer-les-voyageurs"><span style="color:#9b59b6;>GÉRER LES VOYAGEURS</span></h2>
 <hr class="voyageur">
 
 <p class="botc-flavour-text dropcap" style="margin:0; color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -224,7 +227,7 @@ Dans ce cas, le joueur échange son jeton de vie en conséquence. Les Voyageurs 
 </p>
 
 <!-- ===== MODULES VOYAGEURS ===== -->
-<h2 id="modules-voyageurs"><span style="color:#e0b97a; font-size:26px;">Les Voyageurs par Module</span></h2>
+<h2 id="modules-voyageurs"><span style="color:#9b59b6; font-size:26px;">Les Voyageurs par Module</span></h2>
 
 <!-- ===== TROUBLE BREWING ===== -->
 <h3 id="trouble-brewing"><span style="color:#b58b52;">Trouble Brewing</span></h3>
