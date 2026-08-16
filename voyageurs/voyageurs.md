@@ -13,14 +13,6 @@ image: /images/Generic_traveller.png
 
 <hr class="voyageur">
 
-
-<div style="text-align:center; margin: 20px 0;">
-  <img src="./images/Generic_traveller.png" alt="Voyageurs" width="360" style="border-radius:12px; margin-top:10px;">
-  <br>
-  <span style="color:#9b59b6; font-weight:bold; font-size:3Opx;">Voyageurs</span>
-</div>
-
-
 <style>
 @media (max-width: 900px) {
   #liste-roles-voyageurs {
@@ -33,25 +25,25 @@ image: /images/Generic_traveller.png
 
 <!-- ===== EN-TÊTE ET IMAGE PRINCIPALE ===== -->
 <div style="text-align:center; margin: 20px 0;">
-  <img src="./images/Generic_traveller.png" alt="Voyageurs" width="360" style="border-radius:12px; margin-top:10px;">
+  <img src="../images/Generic_traveller.png" alt="Voyageurs" width="360" style="border-radius:12px; margin-top:10px;">
   <br>
   <span style="color:#9b59b6; font-weight:bold; font-size:30px;">Voyageurs</span>
 </div>
 
 <!-- ===== SOMMAIRE CLIQUABLE ===== -->
-<h2 id="top" style="color:#e0c99d;">Sommaire</h2>
+<h2 id="top" style="color:#e0b97a; font-size:26px;">Sommaire</h2>
 <hr class="explication">
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.8; padding-left:20px; font-weight:bold;">
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.8; padding-left:20px; font-weight:bold;">
   <li><a href="#synopsis" style="color:#9b59b6; text-decoration:none;">Synopsis</a></li>
   <li><a href="#presentation" style="color:#9b59b6; text-decoration:none;">Présentation des Voyageurs</a></li>
   <li><a href="#gerer-les-voyageurs" style="color:#9b59b6; text-decoration:none;">Gérer les Voyageurs</a></li>
-  <li><a href="#modules-voyageurs" style="color:#9b59b6; text-decoration:none;">Les Voyageurs par Module</a>
-    <ul style="font-weight:normal; font-size:16px; line-height:1.6;">
+  <li style="margin-top:8px;"><a href="#modules-voyageurs" style="color:#e0b97a; text-decoration:none; font-size:22px;">Les Voyageurs par Module</a>
+    <ul style="font-weight:normal; font-size:18px; line-height:1.6; margin-top:5px;">
       <li><a href="#trouble-brewing" style="color:#b58b52; text-decoration:none;">Trouble Brewing</a></li>
       <li><a href="#sects-violets" style="color:#d67bff; text-decoration:none;">Sects & Violets</a></li>
       <li><a href="#bad-moon-rising" style="color:#ffa64d; text-decoration:none;">Bad Moon Rising</a></li>
-      <li><a href="#experimentaux" style="color:#e0c99d; text-decoration:none;">Expérimentaux</a></li>
+      <li><a href="#experimentaux" style="color:#e0b97a; text-decoration:none;">Expérimentaux</a></li>
     </ul>
   </li>
 </ul>
@@ -60,7 +52,7 @@ image: /images/Generic_traveller.png
 <div id="liste-roles-voyageurs" style="
   float:right;
   width:250px;
-  margin:-320px 0 10px 20px;
+  margin:-360px 0 10px 20px;
   padding:8px 8px 8px 12px;
   border-left:2px solid #9b59b6;
   background:rgba(0,0,0,0.25);
@@ -73,36 +65,36 @@ image: /images/Generic_traveller.png
 
   <p style="font-weight:bold; color:#b58b52; margin-bottom:4px;">Trouble Brewing</p>
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
-    <li><a href="./voyageurs/scapegoat.html" style="color:#9b59b6; text-decoration:none;">Bouc Émissaire</a></li>
-    <li><a href="./voyageurs/gunslinger.html" style="color:#9b59b6; text-decoration:none;">Franc-Tireur</a></li>
-    <li><a href="./voyageurs/beggar.html" style="color:#9b59b6; text-decoration:none;">Mendiant</a></li>
-    <li><a href="./voyageurs/bureaucrat.html" style="color:#9b59b6; text-decoration:none;">Bureaucrate</a></li>
-    <li><a href="./voyageurs/thief.html" style="color:#9b59b6; text-decoration:none;">Voleuse</a></li>
+    <li><a href="./scapegoat.html" style="color:#9b59b6; text-decoration:none;">Bouc Émissaire</a></li>
+    <li><a href="./gunslinger.html" style="color:#9b59b6; text-decoration:none;">Franc-Tireur</a></li>
+    <li><a href="./beggar.html" style="color:#9b59b6; text-decoration:none;">Mendiant</a></li>
+    <li><a href="./bureaucrat.html" style="color:#9b59b6; text-decoration:none;">Bureaucrate</a></li>
+    <li><a href="./thief.html" style="color:#9b59b6; text-decoration:none;">Voleuse</a></li>
   </ul>
 
   <p style="font-weight:bold; color:#d67bff; margin-bottom:4px;">Sects & Violets</p>
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
-    <li><a href="./voyageurs/butcher.html" style="color:#9b59b6; text-decoration:none;">Boucher</a></li>
-    <li><a href="./voyageurs/bonecollector.html" style="color:#9b59b6; text-decoration:none;">Collecteur d’os</a></li>
-    <li><a href="./voyageurs/harlot.html" style="color:#9b59b6; text-decoration:none;">Galante</a></li>
-    <li><a href="./voyageurs/barista.html" style="color:#9b59b6; text-decoration:none;">Barista</a></li>
-    <li><a href="./voyageurs/deviant.html" style="color:#9b59b6; text-decoration:none;">Déviant</a></li>
+    <li><a href="./butcher.html" style="color:#9b59b6; text-decoration:none;">Boucher</a></li>
+    <li><a href="./bonecollector.html" style="color:#9b59b6; text-decoration:none;">Collecteur d’os</a></li>
+    <li><a href="./harlot.html" style="color:#9b59b6; text-decoration:none;">Galante</a></li>
+    <li><a href="./barista.html" style="color:#9b59b6; text-decoration:none;">Barista</a></li>
+    <li><a href="./deviant.html" style="color:#9b59b6; text-decoration:none;">Déviant</a></li>
   </ul>
 
   <p style="font-weight:bold; color:#ffa64d; margin-bottom:4px;">Bad Moon Rising</p>
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
-    <li><a href="./voyageurs/apprentice.html" style="color:#9b59b6; text-decoration:none;">Apprenti</a></li>
-    <li><a href="./voyageurs/matron.html" style="color:#9b59b6; text-decoration:none;">Matrone</a></li>
-    <li><a href="./voyageurs/voudon.html" style="color:#9b59b6; text-decoration:none;">Voudon</a></li>
-    <li><a href="./voyageurs/judge.html" style="color:#9b59b6; text-decoration:none;">Juge</a></li>
-    <li><a href="./voyageurs/bishop.html" style="color:#9b59b6; text-decoration:none;">Évêque</a></li>
+    <li><a href="./apprentice.html" style="color:#9b59b6; text-decoration:none;">Apprenti</a></li>
+    <li><a href="./matron.html" style="color:#9b59b6; text-decoration:none;">Matrone</a></li>
+    <li><a href="./voudon.html" style="color:#9b59b6; text-decoration:none;">Voudon</a></li>
+    <li><a href="./judge.html" style="color:#9b59b6; text-decoration:none;">Juge</a></li>
+    <li><a href="./bishop.html" style="color:#9b59b6; text-decoration:none;">Évêque</a></li>
   </ul>
 
-  <p style="font-weight:bold; color:#e0c99d; margin-bottom:4px;">Expérimentaux</p>
+  <p style="font-weight:bold; color:#e0b97a; margin-bottom:4px;">Expérimentaux</p>
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:6px;">
-    <li><a href="./voyageurs/cacklejack.html" style="color:#9b59b6; text-decoration:none;">Déphasé</a></li>
-    <li><a href="./voyageurs/gangster.html" style="color:#9b59b6; text-decoration:none;">Gangster</a></li>
-    <li><a href="./voyageurs/gnome.html" style="color:#9b59b6; text-decoration:none;">Gnome</a></li>
+    <li><a href="./cacklejack.html" style="color:#9b59b6; text-decoration:none;">Déphasé</a></li>
+    <li><a href="./gangster.html" style="color:#9b59b6; text-decoration:none;">Gangster</a></li>
+    <li><a href="./gnome.html" style="color:#9b59b6; text-decoration:none;">Gnome</a></li>
   </ul>
 </div>
 
@@ -122,7 +114,7 @@ On dit qu’il n’est pas de peur supérieure à celle de l’inconnu. Cet homm
 </p>
 
 <div style="text-align:center; margin: 20px 0;">
-  <img src="./images/Generic_traveller.png" alt="Voyageurs" width="360" style="border-radius:12px; margin-top:10px;">
+  <img src="../images/Generic_traveller.png" alt="Voyageurs" width="360" style="border-radius:12px; margin-top:10px;">
   <br>
   <span style="color:#9b59b6; font-weight:bold; font-size:30px;">Voyageurs</span>
 </div>
@@ -132,7 +124,7 @@ On dit qu’il n’est pas de peur supérieure à celle de l’inconnu. Cet homm
 <!-- ===== PRESENTATION ===== -->
 <h2 id="presentation">Présentation</h2>
 
-<h3 style="color:#e0c99d;">RÔLES VOYAGEURS</h3>
+<h3 style="color:#e0b97a;">RÔLES VOYAGEURS</h3>
 <hr class="voyageur">
 
 <p class="botc-flavour-text dropcap" style="margin:0; color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -151,8 +143,8 @@ Demandez au joueur de choisir un Voyageur à incarner.
 </p>
 
 <div class="botc-note">
-Les cinq Voyageurs recommandés pour TROUBLE BREWING sont le <a href="./voyageurs/scapegoat.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Bouc émissaire</a>, le <a href="./voyageurs/beggar.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Mendiant</a>, le <a href="./voyageurs/gunslinger.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Franc-tireur</a>, le <a href="./voyageurs/bureaucrat.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Bureaucrate</a> et la <a href="./voyageurs/thief.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voleuse</a>. Ils s’intègrent naturellement à ce module.<br>
-D’autres Voyageurs peuvent mal interagir avec les rôles en jeu : par exemple, un <a href="./voyageurs/judge.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Juge</a> maléfique pourrait exécuter automatiquement le <a href="../tb_roles/saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a> et mettre fin à la partie de façon injuste.<br>
+Les cinq Voyageurs recommandés pour TROUBLE BREWING sont le <a href="./scapegoat.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Bouc émissaire</a>, le <a href="./beggar.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Mendiant</a>, le <a href="./gunslinger.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Franc-tireur</a>, le <a href="./bureaucrat.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Bureaucrate</a> et la <a href="./thief.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voleuse</a>. Ils s’intègrent naturellement à ce module.<br>
+D’autres Voyageurs peuvent mal interagir avec les rôles en jeu : par exemple, un <a href="./judge.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Juge</a> maléfique pourrait exécuter automatiquement le <a href="../tb_roles/saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a> et mettre fin à la partie de façon injuste.<br>
 Faites donc preuve de discernement lorsque vous choisissez des Voyageurs hors de cette liste.
 </div>
 
@@ -193,7 +185,7 @@ Et de temps en temps, faire du seul Voyageur un maléfique permet aussi d’entr
 </p>
 
 <!-- ===== GERER LES VOYAGEURS ===== -->
-<h2 id="gerer-les-voyageurs"><span style="color:#e0c99d;">GÉRER LES VOYAGEURS</span></h2>
+<h2 id="gerer-les-voyageurs"><span style="color:#e0b97a;">GÉRER LES VOYAGEURS</span></h2>
 <hr class="voyageur">
 
 <p class="botc-flavour-text dropcap" style="margin:0; color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -220,7 +212,7 @@ Lorsqu’un joueur appelle à l’exil, tous les joueurs décident s’ils souti
 Cette décision collective fonctionne comme un vote d’exécution, les joueurs lèvent la main et le Conteur compte, mais il ne s’agit pas d’un vote à proprement parler.<br>
 Tout joueur, même mort, peut soutenir l’exil d’un Voyageur. Les joueurs morts qui soutiennent un exil ne perdent pas leur jeton de vote.<br><br>
 La procédure d’exil d’un Voyageur n’est pas affectée par les capacités. Il s’agit uniquement d’une décision collective.<br>
-Par exemple, les rôles qui modifient les votes (la <a href="./voyageurs/thief.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voleuse</a>, le <a href="./voyageurs/bureaucrat.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Bureaucrate</a>, etc.) ne modifient pas le soutien à un exil. Même le <a href="../tb_roles/majordome.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Majordome</a> peut lever la main pour soutenir un exil sans que son Maître lève la main.<br><br>
+Par exemple, les rôles qui modifient les votes (la <a href="./thief.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voleuse</a>, le <a href="./bureaucrat.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Bureaucrate</a>, etc.) ne modifient pas le soutien à un exil. Même le <a href="../tb_roles/majordome.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Majordome</a> peut lever la main pour soutenir un exil sans que son Maître lève la main.<br><br>
 Si au moins la moitié des <strong>joueurs de la partie</strong> (et non juste les joueurs en vie) soutiennent l’exil, le Voyageur meurt, sauf si une capacité l’en empêche. N’importe quel nombre de Voyageurs peut être exilé au cours d’une même journée, et une exécution peut toujours avoir lieu, car l’exil n’est pas une exécution.<br><br>
 Comme pour les exécutions, chaque Voyageur ne peut être appelé à l’exil qu’une seule fois par jour. Les joueurs peuvent penser qu’un Voyageur est maléfique et vouloir l’éliminer, mais s’il n’y a pas suffisamment de soutien pour l’exiler ce jour-là, ils devront réessayer le lendemain.
 </p>
@@ -233,7 +225,7 @@ Dans ce cas, le joueur échange son jeton de vie en conséquence. Les Voyageurs 
 </p>
 
 <!-- ===== MODULES VOYAGEURS ===== -->
-<h2 id="modules-voyageurs"><span style="color:#e0c99d;">Les Voyageurs par Module</span></h2>
+<h2 id="modules-voyageurs"><span style="color:#e0b97a; font-size:26px;">Les Voyageurs par Module</span></h2>
 
 <!-- ===== TROUBLE BREWING ===== -->
 <h3 id="trouble-brewing"><span style="color:#b58b52;">Trouble Brewing</span></h3>
@@ -245,27 +237,27 @@ Dans ce cas, le joueur échange son jeton de vie en conséquence. Les Voyageurs 
 
 <div style="text-align:center; display:flex; flex-wrap:wrap; gap:20px; justify-content:center; margin:15px 0;">
 
-  <a href="./voyageurs/scapegoat.html" style="text-decoration:none;">
+  <a href="./scapegoat.html" style="text-decoration:none;">
     <img src="../images/Icon_scapegoat.png" alt="Scapegoat" width="300"><br>
     <span style="font-weight:bold; color:#9b59b6;">Bouc Émissaire</span>
   </a>
 
-  <a href="./voyageurs/gunslinger.html" style="text-decoration:none;">
+  <a href="./gunslinger.html" style="text-decoration:none;">
     <img src="../images/Icon_gunslinger.png" alt="Gunslinger" width="300"><br>
     <span style="font-weight:bold; color:#9b59b6;">Franc-Tireur</span>
   </a>
 
-  <a href="./voyageurs/beggar.html" style="text-decoration:none;">
+  <a href="./beggar.html" style="text-decoration:none;">
     <img src="../images/Icon_beggar.png" alt="Beggar" width="300"><br>
     <span style="font-weight:bold; color:#9b59b6;">Mendiant</span>
   </a>
 
-  <a href="./voyageurs/bureaucrat.html" style="text-decoration:none;">
+  <a href="./bureaucrat.html" style="text-decoration:none;">
     <img src="../images/Icon_bureaucrat.png" alt="Bureaucrat" width="300"><br>
     <span style="font-weight:bold; color:#9b59b6;">Bureaucrate</span>
   </a>
 
-  <a href="./voyageurs/thief.html" style="text-decoration:none;">
+  <a href="./thief.html" style="text-decoration:none;">
     <img src="../images/Icon_thief.png" alt="Thief" width="300"><br>
     <span style="font-weight:bold; color:#9b59b6;">Voleuse</span>
   </a>
@@ -282,27 +274,27 @@ Dans ce cas, le joueur échange son jeton de vie en conséquence. Les Voyageurs 
 
 <div style="text-align:center; display:flex; flex-wrap:wrap; gap:20px; justify-content:center; margin:15px 0;">
 
-  <a href="./voyageurs/butcher.html" style="text-decoration:none;">
+  <a href="./butcher.html" style="text-decoration:none;">
     <img src="../images/Icon_butcher.png" alt="Butcher" width="300"><br>
     <span style="font-weight:bold; color:#9b59b6;">Boucher</span>
   </a>
 
-  <a href="./voyageurs/bonecollector.html" style="text-decoration:none;">
+  <a href="./bonecollector.html" style="text-decoration:none;">
     <img src="../images/Icon_bonecollector.png" alt="Bone Collector" width="300"><br>
     <span style="font-weight:bold; color:#9b59b6;">Collecteur d’os</span>
   </a>
 
-  <a href="./voyageurs/harlot.html" style="text-decoration:none;">
+  <a href="./harlot.html" style="text-decoration:none;">
     <img src="../images/Icon_harlot.png" alt="Harlot" width="300"><br>
     <span style="font-weight:bold; color:#9b59b6;">Galante</span>
   </a>
 
-  <a href="./voyageurs/barista.html" style="text-decoration:none;">
+  <a href="./barista.html" style="text-decoration:none;">
     <img src="../images/Icon_barista.png" alt="Barista" width="300"><br>
     <span style="font-weight:bold; color:#9b59b6;">Barista</span>
   </a>
 
-  <a href="./voyageurs/deviant.html" style="text-decoration:none;">
+  <a href="./deviant.html" style="text-decoration:none;">
     <img src="../images/Icon_deviant.png" alt="Deviant" width="300"><br>
     <span style="font-weight:bold; color:#9b59b6;">Déviant</span>
   </a>
@@ -319,27 +311,27 @@ Dans ce cas, le joueur échange son jeton de vie en conséquence. Les Voyageurs 
 
 <div style="text-align:center; display:flex; flex-wrap:wrap; gap:20px; justify-content:center; margin:15px 0;">
 
-  <a href="./voyageurs/apprentice.html" style="text-decoration:none;">
+  <a href="./apprentice.html" style="text-decoration:none;">
     <img src="../images/Icon_apprentice.png" alt="Apprentice" width="300"><br>
     <span style="font-weight:bold; color:#9b59b6;">Apprenti</span>
   </a>
 
-  <a href="./voyageurs/matron.html" style="text-decoration:none;">
+  <a href="./matron.html" style="text-decoration:none;">
     <img src="../images/Icon_matron.png" alt="Matron" width="300"><br>
     <span style="font-weight:bold; color:#9b59b6;">Matrone</span>
   </a>
 
-  <a href="./voyageurs/voudon.html" style="text-decoration:none;">
+  <a href="./voudon.html" style="text-decoration:none;">
     <img src="../images/Icon_voudon.png" alt="Voudon" width="300"><br>
     <span style="font-weight:bold; color:#9b59b6;">Voudon</span>
   </a>
 
-  <a href="./voyageurs/judge.html" style="text-decoration:none;">
+  <a href="./judge.html" style="text-decoration:none;">
     <img src="../images/Icon_judge.png" alt="Judge" width="300"><br>
     <span style="font-weight:bold; color:#9b59b6;">Juge</span>
   </a>
 
-  <a href="./voyageurs/bishop.html" style="text-decoration:none;">
+  <a href="./bishop.html" style="text-decoration:none;">
     <img src="../images/Icon_bishop.png" alt="Bishop" width="300"><br>
     <span style="font-weight:bold; color:#9b59b6;">Évêque</span>
   </a>
@@ -347,7 +339,7 @@ Dans ce cas, le joueur échange son jeton de vie en conséquence. Les Voyageurs 
 </div>
 
 <!-- ===== EXPERIMENTAUX ===== -->
-<h3 id="experimentaux"><span style="color:#e0c99d;">Expérimentaux</span></h3>
+<h3 id="experimentaux"><span style="color:#e0b97a;">Expérimentaux</span></h3>
 <hr> 
 
 <a href="/botc-fr-bambi/experimentaux.html" style="text-decoration:none;">
@@ -356,17 +348,17 @@ Dans ce cas, le joueur échange son jeton de vie en conséquence. Les Voyageurs 
 
 <div style="text-align:center; display:flex; flex-wrap:wrap; gap:20px; justify-content:center; margin:15px 0;">
 
-  <a href="./voyageurs/cacklejack.html" style="text-decoration:none;">
+  <a href="./cacklejack.html" style="text-decoration:none;">
     <img src="../images/Icon_cacklejack.png" alt="Cacklejack" width="300"><br>
     <span style="font-weight:bold; color:#9b59b6;">Déphasé</span>
   </a>
 
-  <a href="./voyageurs/gangster.html" style="text-decoration:none;">
+  <a href="./gangster.html" style="text-decoration:none;">
     <img src="../images/Icon_gangster.png" alt="Gangster" width="300"><br>
     <span style="font-weight:bold; color:#9b59b6;">Gangster</span>
   </a>
 
-  <a href="./voyageurs/gnome.html" style="text-decoration:none;">
+  <a href="./gnome.html" style="text-decoration:none;">
     <img src="../images/Icon_gnome.png" alt="Gnome" width="300"><br>
     <span style="font-weight:bold; color:#9b59b6;">Gnome</span>
   </a>
@@ -377,10 +369,10 @@ Dans ce cas, le joueur échange son jeton de vie en conséquence. Les Voyageurs 
 
 <!-- ===== FOOTER / NAVIGATION ===== -->
 <p style="text-align:left; font-size:18px; margin-top:20px;">
- <a href="#top" style="color:#e0c99d; font-weight:bold; text-decoration:none;">↑ Retour en haut de la page</a><br>
- <a href="/botc-fr-bambi/index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">← Retour à l’accueil</a>
+ • <a href="#top" style="color:#e0b97a; font-weight:bold; text-decoration:none;">↑ Retour en haut de la page</a><br>
+ • <a href="/botc-fr-bambi/index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">← Retour à l’accueil</a>
+ • <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a>
 </p>
-
 
 
 
