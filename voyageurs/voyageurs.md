@@ -102,6 +102,7 @@ image: /images/Generic_traveller.png
   </ul>
 </div>
 
+  
 <!-- ===== SYNOPSIS ===== -->
 <h2 id="synopsis"><span style="color:#9b59b6; font-weight:bold;">Synopsis</span></h2>
 <hr class="voyageur">
