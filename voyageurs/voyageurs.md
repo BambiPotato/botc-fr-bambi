@@ -13,17 +13,6 @@ image: /images/Generic_traveller.png
 
 <hr class="voyageur">
 
-<style>
-@media (max-width: 900px) {
-  #liste-roles-voyageurs {
-    float: none !important;
-    width: auto !important;
-    margin-top: 0 !important;
-  }
-}
-</style>
-
-
 
 <!-- ===== EN-TÊTE ET IMAGE PRINCIPALE ===== -->
 <div style="text-align:center; margin: 20px 0;">
@@ -33,32 +22,23 @@ image: /images/Generic_traveller.png
   </a>
 </div>
 
-
-<!-- ===== SOMMAIRE CLIQUABLE ===== -->
-<h2 id="top" style="color:#9b59b6; font-size:26px;">Sommaire</h2>
-<hr class="voyageur">
-
-<ul style="color:#f5f5f5; font-size:20px; line-height:1.8; padding-left:20px; font-weight:bold;">
-  <li><a href="#synopsis" style="color:#9b59b6; text-decoration:none;">Synopsis</a></li>
-  <li><a href="#presentation" style="color:#9b59b6; text-decoration:none;">Présentation des Voyageurs</a></li>
-  <li><a href="#gerer-les-voyageurs" style="color:#9b59b6; text-decoration:none;">Gérer les Voyageurs</a></li>
-  <li style="margin-top:8px;"><a href="#modules-voyageurs" style="color:#9b59b6; text-decoration:none; font-size:22px;">Les Voyageurs par Module</a>
-    <ul style="font-weight:normal; font-size:18px; line-height:1.6; margin-top:5px;">
-      <li><a href="#trouble-brewing" style="color:#b58b52; text-decoration:none;">Trouble Brewing</a></li>
-      <li><a href="#sects-violets" style="color:#d67bff; text-decoration:none;">Sects & Violets</a></li>
-      <li><a href="#bad-moon-rising" style="color:#ffa64d; text-decoration:none;">Bad Moon Rising</a></li>
-      <li><a href="#experimentaux" style="color:#e0b97a; text-decoration:none;">Expérimentaux</a></li>
-    </ul>
-  </li>
-</ul>
+<style>
+@media (max-width: 768px) {
+  #liste-roles-voyageurs {
+    float: none !important;
+    width: auto !important;
+    margin-top: 0 !important;
+  }
+}
+</style>
 
 <!-- LISTE DES VOYAGEURS À DROITE (PC) / EN BLOC (MOBILE) -->
 <div id="liste-roles-voyageurs" style="
   float:right;
-  width:250px;
-  margin:-360px 0 10px 20px;
+  width:230px;
+  margin:-520px 0 10px 20px;
   padding:8px 8px 8px 12px;
-  border-left:2px solid #9b59b6;
+  border-left:1px solid #9b59b6;
   background:rgba(0,0,0,0.25);
   font-size:14px;
   line-height:1.6;
@@ -101,6 +81,25 @@ image: /images/Generic_traveller.png
     <li><a href="./gnome.html" style="color:#9b59b6; text-decoration:none;">Gnome</a></li>
   </ul>
 </div>
+
+
+<!-- ===== SOMMAIRE CLIQUABLE ===== -->
+<h2 id="top" style="color:#9b59b6; font-size:26px;">Sommaire</h2>
+<hr class="voyageur">
+
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.8; padding-left:20px; font-weight:bold;">
+  <li><a href="#synopsis" style="color:#9b59b6; text-decoration:none;">Synopsis</a></li>
+  <li><a href="#presentation" style="color:#9b59b6; text-decoration:none;">Présentation des Voyageurs</a></li>
+  <li><a href="#gerer-les-voyageurs" style="color:#9b59b6; text-decoration:none;">Gérer les Voyageurs</a></li>
+  <li style="margin-top:8px;"><a href="#modules-voyageurs" style="color:#9b59b6; text-decoration:none; font-size:22px;">Les Voyageurs par Module</a>
+    <ul style="font-weight:normal; font-size:18px; line-height:1.6; margin-top:5px;">
+      <li><a href="#trouble-brewing" style="color:#b58b52; text-decoration:none;">Trouble Brewing</a></li>
+      <li><a href="#sects-violets" style="color:#d67bff; text-decoration:none;">Sects & Violets</a></li>
+      <li><a href="#bad-moon-rising" style="color:#ffa64d; text-decoration:none;">Bad Moon Rising</a></li>
+      <li><a href="#experimentaux" style="color:#e0b97a; text-decoration:none;">Expérimentaux</a></li>
+    </ul>
+  </li>
+</ul>
 
   
 <!-- ===== SYNOPSIS ===== -->
