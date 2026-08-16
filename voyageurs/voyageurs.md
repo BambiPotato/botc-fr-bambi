@@ -126,7 +126,7 @@ On dit qu’il n’est pas de peur supérieure à celle de l’inconnu. Cet homm
 
 
 <!-- ===== PRESENTATION ===== -->
-<h2 id="presentation"><span style="color:#9b59b6;>Présentation LES VOYAGEURS</span></h2>
+<h2 id="presentation"><span style="color:#9b59b6; font-weight:bold;">Présentation RÔLES VOYAGEURS</span></h2>
 <hr class="voyageur">
 
 <p class="botc-flavour-text dropcap" style="margin:0; color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -187,7 +187,7 @@ Et de temps en temps, faire du seul Voyageur un maléfique permet aussi d’entr
 </p>
 
 <!-- ===== GERER LES VOYAGEURS ===== -->
-<h2 id="gerer-les-voyageurs"><span style="color:#9b59b6;>GÉRER LES VOYAGEURS</span></h2>
+<h2 id="gerer-les-voyageurs"><span style="color:#9b59b6; font-weight:bold;">GÉRER LES VOYAGEURS</span></h2>
 <hr class="voyageur">
 
 <p class="botc-flavour-text dropcap" style="margin:0; color:#f5f5f5; font-size:18px; line-height:1.7;">
