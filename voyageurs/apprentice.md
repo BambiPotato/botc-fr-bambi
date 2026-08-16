@@ -48,7 +48,7 @@ image: /images/Icon_apprentice.png
 </ul>
 
 <p style="color:#f5f5f5; font-style:italic; font-size:17px; text-align:center;">
-« Pendant des années, j’ai voyagé pour étudier les méthodes de L’Art avec un grand A. <br> Quel Art, dites-vous ?  <br> L’Art des gens simples. <br> Pas de quoi s’inquiéter. Du moins, pas encore. » »
+« Pendant des années, <br>j’ai voyagé pour étudier les méthodes de L’Art avec un grand A. <br> Quel Art, dites-vous ?  <br> L’Art des gens simples. <br> Pas de quoi s’inquiéter. Du moins, pas encore. » »
 </p>
 
 <hr class="voyageur">
@@ -79,11 +79,11 @@ image: /images/Icon_apprentice.png
 L’APPRENTI a soit une capacité de Villageois, soit de Sbire.
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; padding-left:0px;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; padding-left:20px;">
   <li>Un Apprenti bon gagne une capacité de Villageois. Un Apprenti maléfique gagne une capacité de Sbire. Il a cette capacité jusqu’à sa mort.</li>
   <li>L’Apprenti apprend sa capacité lors de sa première nuit, et peut agir dès cette nuit-là si le rôle dont il a gagné la capacité peut le faire.</li>
   <li>Seules les capacités indiquées sur sa fiche de rôles peuvent être gagnées.</li>
-  <li>Si l’Apprenti gagne une capacité qui ne fonctionne normalement que la première nuit, comme celle de la <a href="../bmr_roles/grandmere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Grand-Mère</a>, elle fonctionne lors de la première nuit de l'Apprenti à la place.</li>
+  <li>Si l’Apprenti gagne une capacité qui ne fonctionne normalement que la première nuit, comme celle de la <a href="../bmr_roles/grandmere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Grand-mère</a>, elle fonctionne lors de la première nuit de l'Apprenti à la place.</li>
   <li>L’Apprenti ne devient pas littéralement le rôle dont il gagne la capacité. Il reste l’Apprenti, un Voyageur, qui peut être exilé, mais pas exécuté ; et il ne compte pas dans le nombre de joueurs en vie qui déterminent si le Mal gagne lorsqu’il ne reste que deux joueurs en vie. Enfin, toutes les capacités des autres rôles qui détectent les rôles détectent l’Apprenti comme un Apprenti.</li>
 </ul>
 
