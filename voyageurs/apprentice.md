@@ -139,6 +139,10 @@ Conseils & Astuces (si vous êtes bon)
   <li>Il est possible que vous deveniez le même rôle qu'un autre joueur en jeu, mais cela reste peu probable. Comme il n'y a qu'un seul jeton de chaque, le Conteur vous donnera plus souvent la capacité d'un rôle qui n'est pas en jeu. Traitez avec suspicion tout joueur prétendant avoir le même rôle que vous.</li>
 </ul>
 
+
+<hr class="voyageur">
+
+
 <p style="color:#9b59b6; font-size:20px; font-weight:bold; margin-top:20px; margin-bottom:8px;">
 Conseils & Astuces (si vous êtes maléfique)
 </p>
