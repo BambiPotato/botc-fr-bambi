@@ -369,6 +369,7 @@ Dans ce cas, le joueur échange son jeton de vie en conséquence. Les Voyageurs 
 
 </div>
 
+
 <hr class="voyageur">
 
 <!-- ===== FOOTER / NAVIGATION ===== -->
@@ -377,4 +378,3 @@ Dans ce cas, le joueur échange son jeton de vie en conséquence. Les Voyageurs 
  • <a href="/botc-fr-bambi/index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">← Retour à l’accueil</a><br>
  • <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a>
 </p>
-
