@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Voyageurs
-description: Un Voyageur peut rejoindre la partie à tout moment, et la quitter à tout moment.  
+description: "Les Voyageurs sont des rôles destinés aux joueurs qui arrivent en retard ou qui doivent partir plus tôt. Les Voyageurs disposent généralement de capacités très puissantes." 
 image: /images/Generic_traveller.png
 ---
 
