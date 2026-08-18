@@ -675,118 +675,138 @@ data-tooltip="Suis-nous sur Instagram">
 <table class="roles-grid" role="presentation" aria-label="Livre des règles">
   <tr>
     <!-- Les bases -->
-    <td style="height: 220px !important; min-height: 220px !important; vertical-align: top;">
-      <a href="./bases.html" style="display: flex; flex-direction: column; align-items: center; height: 100%; padding: 20px 12px 12px 12px; text-decoration: none !important;">
-        <span class="rg-media" style="margin-bottom: 12px;">
-          <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
-        </span>
-        <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:6px; text-align:center;">Les bases</span>
-        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center;">Les bases du jeu Blood on the Clocktower, tout ce que vous devez savoir</span>
+    <td style="height: auto !important; min-height: 220px; vertical-align: top;">
+      <a href="./bases.html" style="display: flex; flex-direction: column; align-items: center; justify-content: space-between; height: 100%; min-height: 200px; padding: 20px 12px; text-decoration: none !important; box-sizing: border-box;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <span class="rg-media" style="margin-bottom: 12px;">
+            <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
+          </span>
+          <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px; text-align:center;">Les bases</span>
+        </div>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center; line-height:1.3;">Les bases du jeu Blood on the Clocktower, tout ce que vous devez savoir</span>
       </a>
     </td>
 
     <!-- Découvrir le jeu -->
-    <td style="height: 220px !important; min-height: 220px !important; vertical-align: top;">
-      <a href="./blood_on_the_clocktower.html" style="display: flex; flex-direction: column; align-items: center; height: 100%; padding: 20px 12px 12px 12px; text-decoration: none !important;">
-        <span class="rg-media" style="margin-bottom: 12px;">
-          <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
-        </span>
-        <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:6px; text-align:center;">Découvrir le jeu</span>
-        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center;">Son créateur et l'esprit du jeu</span>
+    <td style="height: auto !important; min-height: 220px; vertical-align: top;">
+      <a href="./blood_on_the_clocktower.html" style="display: flex; flex-direction: column; align-items: center; justify-content: space-between; height: 100%; min-height: 200px; padding: 20px 12px; text-decoration: none !important; box-sizing: border-box;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <span class="rg-media" style="margin-bottom: 12px;">
+            <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
+          </span>
+          <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px; text-align:center;">Découvrir le jeu</span>
+        </div>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center; line-height:1.3;">Son créateur et l'esprit du jeu</span>
       </a>
     </td>
 
     <!-- Explications des règles -->
-    <td style="height: 220px !important; min-height: 220px !important; vertical-align: top;">
-      <a href="./regles.html" style="display: flex; flex-direction: column; align-items: center; height: 100%; padding: 20px 12px 12px 12px; text-decoration: none !important;">
-        <span class="rg-media" style="margin-bottom: 12px;">
-          <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
-        </span>
-        <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:6px; text-align:center;">Explications des règles</span>
-        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center;">Univers, signaux, déroulé</span>
+    <td style="height: auto !important; min-height: 220px; vertical-align: top;">
+      <a href="./regles.html" style="display: flex; flex-direction: column; align-items: center; justify-content: space-between; height: 100%; min-height: 200px; padding: 20px 12px; text-decoration: none !important; box-sizing: border-box;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <span class="rg-media" style="margin-bottom: 12px;">
+            <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
+          </span>
+          <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px; text-align:center;">Explications des règles</span>
+        </div>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center; line-height:1.3;">Univers, signaux, déroulé</span>
       </a>
     </td>
   </tr>
 
   <tr>
     <!-- Répartition du village -->
-    <td style="height: 220px !important; min-height: 220px !important; vertical-align: top;">
-      <a href="./repartition.html" style="display: flex; flex-direction: column; align-items: center; height: 100%; padding: 20px 12px 12px 12px; text-decoration: none !important;">
-        <span class="rg-media" style="margin-bottom: 12px;">
-          <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
-        </span>
-        <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:6px; text-align:center;">Répartition du village</span>
-        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center;">Configuration officielle</span>
+    <td style="height: auto !important; min-height: 220px; vertical-align: top;">
+      <a href="./repartition.html" style="display: flex; flex-direction: column; align-items: center; justify-content: space-between; height: 100%; min-height: 200px; padding: 20px 12px; text-decoration: none !important; box-sizing: border-box;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <span class="rg-media" style="margin-bottom: 12px;">
+            <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
+          </span>
+          <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px; text-align:center;">Répartition du village</span>
+        </div>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center; line-height:1.3;">Configuration officielle</span>
       </a>
     </td>
 
     <!-- Mise en place -->
-    <td style="height: 220px !important; min-height: 220px !important; vertical-align: top;">
-      <a href="./installation.html" style="display: flex; flex-direction: column; align-items: center; height: 100%; padding: 20px 12px 12px 12px; text-decoration: none !important;">
-        <span class="rg-media" style="margin-bottom: 12px;">
-          <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
-        </span>
-        <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:6px; text-align:center;">Mise en place</span>
-        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center;">Mener une partie étape par étape</span>
+    <td style="height: auto !important; min-height: 220px; vertical-align: top;">
+      <a href="./installation.html" style="display: flex; flex-direction: column; align-items: center; justify-content: space-between; height: 100%; min-height: 200px; padding: 20px 12px; text-decoration: none !important; box-sizing: border-box;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <span class="rg-media" style="margin-bottom: 12px;">
+            <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
+          </span>
+          <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px; text-align:center;">Mise en place</span>
+        </div>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center; line-height:1.3;">Mener une partie étape par étape</span>
       </a>
     </td>
 
     <!-- Mener une Partie -->
-    <td style="height: 220px !important; min-height: 220px !important; vertical-align: top;">
-      <a href="./menerunepartie.html" style="display: flex; flex-direction: column; align-items: center; height: 100%; padding: 20px 12px 12px 12px; text-decoration: none !important;">
-        <span class="rg-media" style="margin-bottom: 12px;">
-          <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
-        </span>
-        <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:6px; text-align:center;">Mener une Partie</span>
-        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center;">Le guide complet pour orchestrer toutes les phases.</span>
+    <td style="height: auto !important; min-height: 220px; vertical-align: top;">
+      <a href="./menerunepartie.html" style="display: flex; flex-direction: column; align-items: center; justify-content: space-between; height: 100%; min-height: 200px; padding: 20px 12px; text-decoration: none !important; box-sizing: border-box;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <span class="rg-media" style="margin-bottom: 12px;">
+            <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
+          </span>
+          <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px; text-align:center;">Mener une Partie</span>
+        </div>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center; line-height:1.3;">Le guide complet pour orchestrer toutes les phases</span>
       </a>
     </td>
   </tr>
 
   <tr>
     <!-- Capacités -->
-    <td style="height: 220px !important; min-height: 220px !important; vertical-align: top;">
-      <a href="./capacite.html" style="display: flex; flex-direction: column; align-items: center; height: 100%; padding: 20px 12px 12px 12px; text-decoration: none !important;">
-        <span class="rg-media" style="margin-bottom: 12px;">
-          <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
-        </span>
-        <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:6px; text-align:center;">Capacités</span>
-        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center;">Quand et comment elles s’appliquent</span>
+    <td style="height: auto !important; min-height: 220px; vertical-align: top;">
+      <a href="./capacite.html" style="display: flex; flex-direction: column; align-items: center; justify-content: space-between; height: 100%; min-height: 200px; padding: 20px 12px; text-decoration: none !important; box-sizing: border-box;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <span class="rg-media" style="margin-bottom: 12px;">
+            <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
+          </span>
+          <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px; text-align:center;">Capacités</span>
+        </div>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center; line-height:1.3;">Quand et comment elles s’appliquent</span>
       </a>
     </td>
 
     <!-- États -->
-    <td style="height: 220px !important; min-height: 220px !important; vertical-align: top;">
-      <a href="./etats.html" style="display: flex; flex-direction: column; align-items: center; height: 100%; padding: 20px 12px 12px 12px; text-decoration: none !important;">
-        <span class="rg-media" style="margin-bottom: 12px;">
-          <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
-        </span>
-        <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:6px; text-align:center;">États</span>
-        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center;">Ivresse, empoisonnement…</span>
+    <td style="height: auto !important; min-height: 220px; vertical-align: top;">
+      <a href="./etats.html" style="display: flex; flex-direction: column; align-items: center; justify-content: space-between; height: 100%; min-height: 200px; padding: 20px 12px; text-decoration: none !important; box-sizing: border-box;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <span class="rg-media" style="margin-bottom: 12px;">
+            <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
+          </span>
+          <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px; text-align:center;">États</span>
+        </div>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center; line-height:1.3;">Ivresse, empoisonnement…</span>
       </a>
     </td>
 
     <!-- Teensyville -->
-    <td style="height: 220px !important; min-height: 220px !important; vertical-align: top;">
-      <a href="./teensyville.html" style="display: flex; flex-direction: column; align-items: center; height: 100%; padding: 20px 12px 12px 12px; text-decoration: none !important;">
-        <span class="rg-media" style="margin-bottom: 12px;">
-          <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
-        </span>
-        <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:6px; text-align:center;">Teensyville</span>
-        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center;">Format pour 5–6 joueurs</span>
+    <td style="height: auto !important; min-height: 220px; vertical-align: top;">
+      <a href="./teensyville.html" style="display: flex; flex-direction: column; align-items: center; justify-content: space-between; height: 100%; min-height: 200px; padding: 20px 12px; text-decoration: none !important; box-sizing: border-box;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <span class="rg-media" style="margin-bottom: 12px;">
+            <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
+          </span>
+          <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px; text-align:center;">Teensyville</span>
+        </div>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center; line-height:1.3;">Format pour 5–6 joueurs</span>
       </a>
     </td>
   </tr>
 
   <tr>
     <!-- Outil de script -->
-    <td style="height: 220px !important; min-height: 220px !important; vertical-align: top;">
-      <a href="./outildescript.html" style="display: flex; flex-direction: column; align-items: center; height: 100%; padding: 20px 12px 12px 12px; text-decoration: none !important;">
-        <span class="rg-media" style="margin-bottom: 12px;">
-          <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
-        </span>
-        <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:6px; text-align:center;">Outil de script</span>
-        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center;">Créer des scripts personnalisés</span>
+    <td style="height: auto !important; min-height: 220px; vertical-align: top;">
+      <a href="./outildescript.html" style="display: flex; flex-direction: column; align-items: center; justify-content: space-between; height: 100%; min-height: 200px; padding: 20px 12px; text-decoration: none !important; box-sizing: border-box;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <span class="rg-media" style="margin-bottom: 12px;">
+            <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
+          </span>
+          <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px; text-align:center;">Outil de script</span>
+        </div>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center; line-height:1.3;">Créer des scripts personnalisés</span>
       </a>
     </td>
 
@@ -795,7 +815,6 @@ data-tooltip="Suis-nous sur Instagram">
     <td style="background: transparent !important; border: none !important; box-shadow: none !important;"></td>
   </tr>
 </table>
-
 
 
 <!-- ====== SCRIPTS PERSONNALISÉS ====== -->
