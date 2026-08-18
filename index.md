@@ -285,7 +285,6 @@ data-tooltip="Wiki pour jouer et conter en français">
 <img src="images/logogold.png" alt="Accueil BotC FR">
 </a>
 
-<hr class="explication">
 
 <div class="home-socials">
 <a href="https://discord.gg/tGDVmZfZpE"
@@ -587,59 +586,69 @@ data-tooltip="Suis-nous sur Instagram">
 <table class="roles-grid" role="presentation" aria-label="Informations sur le jeu">
   <tr>
     <!-- Glossaire des termes -->
-    <td style="height: 220px !important; min-height: 220px !important; vertical-align: top;">
-      <a href="./glossaire.html" style="display: flex; flex-direction: column; align-items: center; height: 100%; padding: 20px 12px 12px 12px; text-decoration: none !important;">
-        <span class="rg-media" style="margin-bottom: 12px;">
-          <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
-        </span>
-        <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:6px; text-align:center;">Glossaire des termes</span>
-        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center;">Liste des termes officiels en français</span>
+    <td style="height: auto !important; min-height: 220px; vertical-align: top;">
+      <a href="./glossaire.html" style="display: flex; flex-direction: column; align-items: center; justify-content: space-between; height: 100%; min-height: 200px; padding: 20px 12px; text-decoration: none !important; box-sizing: border-box;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <span class="rg-media" style="margin-bottom: 12px;">
+            <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
+          </span>
+          <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px; text-align:center;">Glossaire des termes</span>
+        </div>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center; line-height:1.3;">Liste des termes officiels en français</span>
       </a>
     </td>
 
     <!-- Glossaire des termes anglais -->
-    <td style="height: 220px !important; min-height: 220px !important; vertical-align: top;">
-      <a href="./glossaireengfr.html" style="display: flex; flex-direction: column; align-items: center; height: 100%; padding: 20px 12px 12px 12px; text-decoration: none !important;">
-        <span class="rg-media" style="margin-bottom: 12px;">
-          <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
-        </span>
-        <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:6px; text-align:center;">Glossaire des termes anglais</span>
-        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center;">Termes anglais &amp; équivalents français</span>
+    <td style="height: auto !important; min-height: 220px; vertical-align: top;">
+      <a href="./glossaireengfr.html" style="display: flex; flex-direction: column; align-items: center; justify-content: space-between; height: 100%; min-height: 200px; padding: 20px 12px; text-decoration: none !important; box-sizing: border-box;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <span class="rg-media" style="margin-bottom: 12px;">
+            <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
+          </span>
+          <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px; text-align:center;">Glossaire des termes anglais</span>
+        </div>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center; line-height:1.3;">Termes anglais &amp; équivalents français</span>
       </a>
     </td>
 
-    <!-- Conseils pour les Conteurs -->
-    <td style="height: 220px !important; min-height: 220px !important; vertical-align: top;">
-      <a href="./conteur.html" style="display: flex; flex-direction: column; align-items: center; height: 100%; padding: 20px 12px 12px 12px; text-decoration: none !important;">
-        <span class="rg-media" style="margin-bottom: 12px;">
-          <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
-        </span>
-        <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:6px; text-align:center;">Conseils pour les Conteurs et Conteuses</span>
-        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center;">Astuces, bonnes pratiques</span>
+    <!-- Conseils pour les Conteurs et Conteuses -->
+    <td style="height: auto !important; min-height: 220px; vertical-align: top;">
+      <a href="./conteur.html" style="display: flex; flex-direction: column; align-items: center; justify-content: space-between; height: 100%; min-height: 200px; padding: 20px 12px; text-decoration: none !important; box-sizing: border-box;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <span class="rg-media" style="margin-bottom: 12px;">
+            <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
+          </span>
+          <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px; text-align:center;">Conseils pour les Conteurs et Conteuses</span>
+        </div>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center; line-height:1.3;">Astuces, bonnes pratiques</span>
       </a>
     </td>
   </tr>
 
   <tr>
     <!-- Conseils & stratégies -->
-    <td style="height: 220px !important; min-height: 220px !important; vertical-align: top;">
-      <a href="./strategie.html" style="display: flex; flex-direction: column; align-items: center; height: 100%; padding: 20px 12px 12px 12px; text-decoration: none !important;">
-        <span class="rg-media" style="margin-bottom: 12px;">
-          <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
-        </span>
-        <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:6px; text-align:center;">Conseils &amp; stratégies pour les joueurs et joueuses</span>
-        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center;">Pistes de réflexion en partie</span>
+    <td style="height: auto !important; min-height: 220px; vertical-align: top;">
+      <a href="./strategie.html" style="display: flex; flex-direction: column; align-items: center; justify-content: space-between; height: 100%; min-height: 200px; padding: 20px 12px; text-decoration: none !important; box-sizing: border-box;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <span class="rg-media" style="margin-bottom: 12px;">
+            <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
+          </span>
+          <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px; text-align:center;">Conseils &amp; stratégies pour les joueurs et joueuses</span>
+        </div>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center; line-height:1.3;">Pistes de réflexion en partie</span>
       </a>
     </td>
 
-    <!-- BotC App : Guide pour jouer en ligne  -->
-    <td style="height: 220px !important; min-height: 220px !important; vertical-align: top;">
-      <a href="./botc-app.html" style="display: flex; flex-direction: column; align-items: center; height: 100%; padding: 20px 12px 12px 12px; text-decoration: none !important;">
-        <span class="rg-media" style="margin-bottom: 12px;">
-          <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
-        </span>
-        <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:6px; text-align:center;">BotC App : Guide pour jouer en ligne</span>
-        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center;">Tutoriel complet pour jouer à Blood on the Clocktower sur l'application officielle</span>
+    <!-- BotC App : Guide pour jouer et conter en ligne -->
+    <td style="height: auto !important; min-height: 220px; vertical-align: top;">
+      <a href="./botc-app.html" style="display: flex; flex-direction: column; align-items: center; justify-content: space-between; height: 100%; min-height: 200px; padding: 20px 12px; text-decoration: none !important; box-sizing: border-box;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <span class="rg-media" style="margin-bottom: 12px;">
+            <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
+          </span>
+          <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px; text-align:center;">BotC App : Guide pour jouer en ligne</span>
+        </div>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center; line-height:1.3;">Tutoriel complet pour jouer sur l'application officielle</span>
       </a>
     </td>
 
