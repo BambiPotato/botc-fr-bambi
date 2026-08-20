@@ -2,6 +2,7 @@
 layout: default
 title: Cannibale
 description: "Vous avez la capacité du dernier mort exécuté. S’il est maléfique, vous êtes empoisonné jusqu’à ce qu’un joueur bon meure exécuté."
+image: /images/Icon_cannibal.png
 ---
 
 <p align="left">
