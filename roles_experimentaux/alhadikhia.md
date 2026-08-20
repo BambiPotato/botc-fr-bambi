@@ -2,6 +2,7 @@
 layout: default
 title: Al-Hadikhia
 description: "Chaque nuit*, vous pouvez choisir 3 joueurs (le Conteur les annonce) : chacun choisit en secret la vie ou la mort, mais s’ils vivent tous, tous meurent."
+image: /images/Icon_alhadikhia.png
 ---
 
 <p align="left">
