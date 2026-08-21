@@ -70,13 +70,11 @@ image: /images/Icon_cerenovus.png
 
 
 <h2 style="color:#d45b5b;">Résumé</h2>
-
 <hr class="sbire">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
 Chaque nuit, choisissez un joueur et un rôle bon : le lendemain, il doit être <strong>« fou »</strong> d’être ce rôle. Sinon, il pourrait être exécuté.
 </p>
-
 
 <p class="botc-flavour-text dropcap" style="margin-top:0;">
 <strong>LE CERENOVUS</strong> pousse les joueurs à faire semblant d’avoir un rôle différent de leur rôle véritable.
@@ -105,8 +103,7 @@ Chaque nuit, choisissez un joueur et un rôle bon : le lendemain, il doit être 
 </ul>
 
 <h2 style="color:#d45b5b;">Comment Conter</h2>
-
----
+<hr> 
 
 <p class="botc-flavour-text dropcap" style="margin-top:0; margin-bottom:0;">
 Instructions au Conteur
@@ -135,8 +132,7 @@ Instructions au Conteur
 </ul>
 
 <h2 style="color:#d45b5b;">Exemples</h2>
-
----
+<hr> 
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
 
@@ -162,8 +158,7 @@ Instructions au Conteur
 </ul>
 
 <h2 style="color:#d45b5b;">Conseils &amp; Astuces</h2>
-
----
+<hr> 
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
 
@@ -245,8 +240,7 @@ Instructions au Conteur
 </ul>
 
 <h2 style="color:#d45b5b;">Combattre le Cerenovus</h2>
-
----
+<hr> 
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
 
