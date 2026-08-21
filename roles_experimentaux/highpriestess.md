@@ -50,7 +50,7 @@ image: /images/Icon_highpriestess.png
 
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-« Il y a de la vie derrière la personnalité qui utilise les personnalités comme des masques. <br> Il y a des moments où la vie fait tomber le masque et l’abîme répond à l’abîme.  »
+« Il y a de la vie derrière la personnalité qui utilise les personnalités comme des masques. <br> Il y a des moments où la vie fait tomber le masque et l’abîme répond à l’abîme. »
 </p>
 
 
@@ -69,13 +69,13 @@ image: /images/Icon_highpriestess.png
 ##  <span style="color:#4ea3ff;">Résumé</span>
 <hr class="villageois">
 
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
+« Chaque nuit, apprenez à quel joueur vous devriez parler en priorité, selon le Conteur.»
+</p> 
+
 <p class="botc-flavour-text dropcap" style="margin:0;">
 La Grande prêtresse agit selon son intuition.
 </p>
-
-<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
-Chaque nuit, apprenez à quel joueur vous devriez parler en priorité, selon le Conteur.
-</p> 
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
 
