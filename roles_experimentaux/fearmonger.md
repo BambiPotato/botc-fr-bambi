@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Fearmonger
+description: "Chaque nuit, choisissez un joueur : si vous le nommez et l’exécutez, son équipe perd. Tous les joueurs savent si vous choisissez un nouveau joueur."
+image: images/Icon_fearmonger.png
 ---
 
 <p align="left">
@@ -61,8 +63,7 @@ title: Fearmonger
 ##  <span style="color:#d45b5b;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Chaque nuit, choisissez un joueur : si vous le nommez et l’exécutez, son équipe perd.  
-  Tous les joueurs apprennent si vous choisissez un nouveau joueur. »</strong>
+  <strong>« Chaque nuit, choisissez un joueur : si vous le nommez et l’exécutez, son équipe perd. Tous les joueurs savent si vous choisissez un nouveau joueur. »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
