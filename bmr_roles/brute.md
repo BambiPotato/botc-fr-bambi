@@ -80,7 +80,7 @@ J’me soigne seul. À demain. »
 <hr class="marginal">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:22px; margin-top:-10px;">
-« Chaque nuit, le premier joueur qui vous choisit avec sa capacité est ivre jusqu'au crépuscule. Vous devenez son alignement. »
+« Chaque nuit, le premier joueur à vous choisir avec sa capacité est ivre jusqu’au crépuscule. Vous devenez de son alignement. »
 </p>
 
 <p class="botc-flavour-text dropcap" style="margin:0;">
