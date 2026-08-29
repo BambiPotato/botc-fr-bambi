@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pêcheur
-description: Une fois par partie, pendant la journée, rendez visite au conteur pour obtenir un conseil pour aider votre équipe à gagner.
+description: Une fois par partie, dans la journée, demandez conseil au Conteur pour aider votre équipe à gagner.
 image: /images/Icon_fisherman.png
 ---
 
@@ -63,7 +63,7 @@ image: /images/Icon_fisherman.png
 ##  <span style="color:#4ea3ff;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Une fois par partie, pendant la journée, rendez visite au conteur pour obtenir un conseil pour aider votre équipe à gagner. »</strong>
+  <strong>« Une fois par partie, dans la journée, demandez conseil au Conteur pour aider votre équipe à gagner. »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
