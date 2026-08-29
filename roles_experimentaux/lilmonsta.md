@@ -1,6 +1,8 @@
 ---
 layout: default
-title: P'tit Monstre
+title: Timonstre
+description: "Chaque nuit, les Sbires choisissent qui garde le Timonstre et « est le Démon ». Chaque nuit*, un joueur pourrait mourir."
+image: images/Icon_lilmonsta.png
 ---
 
 <p align="left">
@@ -15,7 +17,7 @@ title: P'tit Monstre
   <a href="./lilmonsta.html" style="text-decoration:none;">
     <img src="../images/Icon_lilmonsta.png" alt="P'tit Monstre" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#d45b5b; font-weight:bold; font-size:22px;">P'tit Monstre</span>
+    <span style="color:#d45b5b; font-weight:bold; font-size:22px;">Timonstre</span>
   </a>
 </div>
 
@@ -28,7 +30,7 @@ title: P'tit Monstre
   </a>
 </div>
 
-#  <span style="color:#d45b5b; font-weight:bold; font-size:18px;">P'tit Monstre</span>
+#  <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Timonstre</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Étape 1 : être trop mignon.  
@@ -62,14 +64,12 @@ title: P'tit Monstre
 ##  <span style="color:#d45b5b;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Chaque nuit, les Sbires choisissent qui garde le P’tit Monstre  
-  et “est le Démon”.  
-  Chaque nuit*, un joueur peut mourir.  
+  <strong>« Chaque nuit, les Sbires choisissent qui garde le Timonstre et « est le Démon ». Chaque nuit*, un joueur pourrait mourir.  
   [+1 Sbire] »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>P’tit Monstre</strong> n’est pas un joueur,  
+Le <strong>Timonstre</strong> n’est pas un joueur,  
 mais un jeton confié chaque nuit à un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>…  
 ou à n’importe quel autre joueur.
 </p>
@@ -77,23 +77,22 @@ ou à n’importe quel autre joueur.
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
   <li>Chaque nuit, tous les <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> se réveillent ensemble  
-      et décident qui va « garder » le <strong>P’tit Monstre</strong> cette nuit-là.</li>
+      et décident qui va « garder » le <strong>Timonstre</strong> cette nuit-là.</li>
 
-  <li>La personne choisie est marquée comme <strong>« est le Démon »</strong>.  
-      Tant qu’elle garde le P’tit Monstre,  
-      elle est traitée comme le Démon par toutes les capacités  
+  <li>Le joueur choisi est marqué comme <strong>« est le Démon »</strong>.  
+      Tant qu’il garde le Timonstre, il est enregistré comme le Démon par toutes les capacités  
       (par exemple la <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>).</li>
 
   <li>Le joueur qui « est le Démon » peut être :
     <ul style="margin-left:20px;">
       <li>un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> ;</li>
       <li>un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> ;</li>
-      <li>un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a> ;</li>
+      <li>un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a> ;</li>
       <li>ou même un <a href=".../voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>.</li>
     </ul>
   </li>
 
-  <li>Si un <strong>joueur bon</strong> garde le P’tit Monstre,  
+  <li>Si un <strong>joueur bon</strong> garde le Timonstre,  
       il « est le Démon » pour les règles,  
       mais il reste bon : son alignement ne change pas.</li>
 
@@ -102,7 +101,7 @@ ou à n’importe quel autre joueur.
       <strong>le Bien gagne immédiatement</strong>,  
       puisque le Démon considéré comme tel est mort.</li>
 
-  <li>Si un <strong>joueur déjà mort</strong> garde le P’tit Monstre,  
+  <li>Si un <strong>joueur déjà mort</strong> garde le Timonstre,  
       la partie se termine tout de suite :  
       le Démon est considéré comme mort.</li>
 
@@ -134,7 +133,7 @@ ou à n’importe quel autre joueur.
     <a href="../roles_experimentaux/magician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Magicien</a> :  
     Si le <strong>Magicien</strong> est en vie,  
     c’est le Conteur qui choisit  
-    quel Sbire garde le <strong>P’tit Monstre</strong> chaque nuit.
+    quel Sbire garde le <strong>Timonstre</strong> chaque nuit.
   </li>
 
   <li>
@@ -147,34 +146,34 @@ ou à n’importe quel autre joueur.
 
   <li>
     <img src="../images/Icon_poppygrower.png" alt="Poppy Grower" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cultivateur de Pavot</a> :  
-    Si le <strong>P’tit Monstre</strong> et le  
-    <strong>Poppy Grower</strong> sont en vie,  
+    <a href="../roles_experimentaux/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Planteur de pavot</a> :  
+    Si le <strong>Timonstre</strong> et le  
+    <strong>Planteur de pavot</strong> sont en vie,  
     les Sbires se réveillent un par un  
     jusqu’à ce que l’un d’eux accepte  
-    de prendre le jeton du P’tit Monstre.
+    de prendre le jeton du Timonstre.
   </li>
 
   <li>
     <img src="../images/Icon_psychopath.png" alt="Psychopathe" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../sv_roles/psychopath.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Psychopathe</a> :  
-    Si le <strong>Psychopathe</strong> garde le P’tit Monstre,  
+    Si le <strong>Psychopathe</strong> garde le Timonstre,  
     il meurt lorsqu’il est exécuté.
   </li>
 
   <li>
     <img src="../images/Icon_scarletwoman.png" alt="Femme Écarlate" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../tb_roles/femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme Écarlate</a> :  
-    Si le <strong>P’tit Monstre</strong> meurt  
+    <a href="../tb_roles/femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme écarlate</a> :  
+    Si le <strong>Timonstre</strong> meurt  
     alors qu’il reste 5 joueurs ou plus en vie,  
-    la <strong>Femme Écarlate</strong> garde ensuite le P’tit Monstre  
+    la <strong>Femme écarlate</strong> garde ensuite le Timonstre
     pour le reste de la partie.
   </li>
 
   <li>
     <img src="../images/Icon_vizier.png" alt="Vizir" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a> :  
-    Si le <strong>Vizir</strong> garde le P’tit Monstre,  
+    Si le <strong>Vizir</strong> garde le Timonstre,  
     il meurt lorsqu’il est exécuté.
   </li>
 
@@ -185,7 +184,7 @@ ou à n’importe quel autre joueur.
 ##  <span style="color:#d45b5b;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>P’tit Monstre</strong> change complètement  
+Le <strong>Timonstre</strong> change complètement  
 la structure classique Démon / Sbires :  
 le Démon est littéralement un petit démon-jeton  
 que les Sbires se passent chaque nuit.
@@ -196,7 +195,7 @@ que les Sbires se passent chaque nuit.
   <li><strong>Mise en place :</strong>
     <ul style="margin-left:20px;">
       <li>pendant la préparation,  
-          retirez le jeton <strong>P’tit Monstre</strong>  
+          retirez le jeton <strong>Timonstre</strong>  
           et ajoutez à la place un jeton de <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> ;</li>
       <li>la première nuit, sautez les étapes  
           <strong>INFO SBIRES</strong> et <strong>INFO DÉMON</strong> habituelles.</li>
@@ -207,13 +206,13 @@ que les Sbires se passent chaque nuit.
     <ul style="margin-left:20px;">
       <li>réveillez <strong>tous les Sbires</strong> en même temps ;</li>
       <li>ils désignent ensemble un joueur  
-          qui gardera le P’tit Monstre ;</li>
+          qui gardera le Timonstre ;</li>
       <li>si les Sbires n’arrivent pas à se mettre d’accord,  
-          choisissez vous-même le gardien ;</li>
+          choisissez vous-même le gardien du Timonstre;</li>
       <li>marquez ce joueur avec le rappel  
           <strong>EST LE DÉMON</strong> ;</li>
       <li>si vous utilisez la règle optionnelle du jeton physique,  
-          donnez-lui le jeton du P’tit Monstre  
+          donnez-lui le jeton du Timonstre 
           et laissez-le le cacher (poche, capuche, chapeau…).</li>
       <li>rendormez ensuite tous les Sbires ;</li>
       <li>si ce n’est pas la première nuit,  
@@ -230,7 +229,7 @@ que les Sbires se passent chaque nuit.
           <strong>annoncez immédiatement</strong>  
           que la partie est terminée et que le Bien a gagné ;</li>
       <li>si c’est un joueur déjà mort  
-          qui garde le P’tit Monstre,  
+          qui garde le Timonstre,  
           considérez également que le Démon est mort  
           et terminez la partie.</li>
     </ul>
@@ -262,9 +261,9 @@ Ils se pointent d’abord l’un l’autre,
 puis chacun se désigne soi-même,  
 avant de finalement se mettre d’accord  
 et montrer ensemble la Veuve :  
-elle reçoit alors le jeton du <strong>P’tit Monstre</strong>.  
+elle reçoit alors le jeton du <strong>Timonstre</strong>.  
 La nuit suivante, ils choisissent cette fois  
-que l’Empoisonneur garde le P’tit Monstre.
+que l’Empoisonneur garde le Timonstre.
 </p>
 
 ---
@@ -273,7 +272,7 @@ que l’Empoisonneur garde le P’tit Monstre.
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
-  <li>L’une des grandes forces du <strong>P’tit Monstre</strong>,  
+  <li>L’une des grandes forces du <strong>Timonstre</strong>,  
       c’est que le Mal commence avec  
       <strong>un Sbire supplémentaire</strong>.  
       Profitez-en pour exploiter à fond des capacités comme  
@@ -285,27 +284,27 @@ que l’Empoisonneur garde le P’tit Monstre.
       combien de capacités de <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>  
       semblent en jeu.  
       S’il y en a plus que prévu,  
-      ils pourront deviner qu’un <strong>P’tit Monstre</strong> rôde.  
+      ils pourront deviner qu’un <strong>Timonstre</strong> rôde.  
       Si vous voulez garder le mystère,  
       soyez prudent avec les capacités très visibles  
       comme le <a href="../sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a>  
       ou l’<a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>.</li>
 
   <li>Le Démon change de « corps » chaque nuit.  
-      Vous pouvez déplacer le P’tit Monstre  
+      Vous pouvez déplacer le Timonstre
       pour perturber les informations  
       de la <a href="../sv_roles/fleuriste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a>  
       ou de la <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> :  
       si le Démon semble être une personne différente  
       à chaque nuit, le village aura du mal à suivre.</li>
 
-  <li>À l’inverse, vous pouvez garder le P’tit Monstre  
+  <li>À l’inverse, vous pouvez garder le Timonstre
       presque toujours au même endroit,  
       confié au Sbire le plus discret.  
       Tant que ce gardien reste peu suspect,  
       le village hésitera à l’exécuter.</li>
 
-  <li>Vous pouvez confier le P’tit Monstre  
+  <li>Vous pouvez confier le Timonstre
       à <strong>n’importe quel joueur</strong>.  
       En général, le donner à un bon joueur lucide  
       est risqué : s’il comprend ce qui se passe,  
@@ -316,15 +315,15 @@ que l’Empoisonneur garde le P’tit Monstre.
       a rendu un Villageois maléfique,  
       ou si un <a href="../roles_experimentaux/politician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Politicien</a>  
       a secrètement changé d’alignement,  
-      ces personnages sont des gardiens parfaits :  
+      ces rôles sont des gardiens parfaits du Timonstre :  
       ils ont l’air bons, mais protègent votre Démon.</li>
 
   <li>Les Sbires morts se réveillent encore la nuit  
-      pour choisir qui garde le P’tit Monstre.  
-      Tant que quelqu’un de maléfique le garde,  
+      pour choisir qui garde le Timonstre.  
+      Tant qu'un joueur garde le Timonstre,  
       la partie continue, même si la plupart des Sbires sont morts.</li>
 
-  <li>Si vous jouez avec le jeton physique du P’tit Monstre,  
+  <li>Si vous jouez avec le jeton physique du Timonstre,  
       cachez-le vraiment bien.  
       Si un joueur bon voit clairement  
       que vous avez un jeton étrange en main,  
@@ -337,7 +336,7 @@ que l’Empoisonneur garde le P’tit Monstre.
       mais ne fera jamais mourir  
       le joueur qui garde le P’tit Monstre.  
       En fin de partie,  
-      donnez le P’tit Monstre au joueur maléfique  
+      donnez le Timonstre au joueur maléfique  
       que vous voulez absolument garder en vie.</li>
 
 </ul>
@@ -351,9 +350,9 @@ que l’Empoisonneur garde le P’tit Monstre.
   <li><strong>Comptez les capacités de Sbires visibles.</strong>  
       S’il semble y avoir plus de Sbires  
       que dans une partie normale,  
-      vous êtes peut-être face au <strong>P’tit Monstre</strong>.</li>
+      vous êtes peut-être face au <strong>Timonstre</strong>.</li>
 
-  <li>Dans une partie avec le <strong>P’tit Monstre</strong>,  
+  <li>Dans une partie avec le <strong>Timonstre</strong>,  
       l’équipe du Mal ne reçoit en général  
       pas de rôles de couverture préparés.  
       S’il y a beaucoup de doubles revendications  
@@ -365,10 +364,10 @@ que l’Empoisonneur garde le P’tit Monstre.
       risquent d’obtenir beaucoup de « oui ».  
       Si leurs informations semblent montrer  
       un Démon qui change de place chaque nuit,  
-      c’est un indice fort en faveur du <strong>P’tit Monstre</strong>.</li>
+      c’est un indice fort en faveur du <strong>Timonstre</strong>.</li>
 
   <li>Une fois que vous pensez avoir identifié  
-      que le Démon est le <strong>P’tit Monstre</strong>,  
+      que le Démon est le <strong>Timonstre</strong>,  
       les capacités qui détectent les <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>  
       deviennent cruciales :  
       chaque Sbire mort,  
@@ -384,11 +383,11 @@ que l’Empoisonneur garde le P’tit Monstre.
   <li>Si vous êtes à peu près sûr qu’un joueur est maléfique,  
       il peut être judicieux de le laisser en vie  
       sans trop insister publiquement.  
-      L’équipe du Mal pourrait lui confier le P’tit Monstre  
+      L’équipe du Mal pourrait lui confier le Timonstre  
       en pensant qu’il est « en sécurité ».  
       Vous pourrez alors pousser son exécution au bon moment.</li>
 
-  <li>Si l’on vous confie le P’tit Monstre  
+  <li>Si l’on vous confie le Timonstre
       alors que vous êtes bon,  
       annoncez-le clairement.  
       S’il n’y a ni  
@@ -399,14 +398,14 @@ que l’Empoisonneur garde le P’tit Monstre.
       de vous faire exécuter pour gagner.</li>
 
   <li>Attention cependant :  
-      si la <a href="../tb_roles/scarletwoman.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme Écarlate</a>  
+      si la <a href="../tb_roles/scarletwoman.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme écarlate</a>  
       est en jeu,  
-      elle peut récupérer le P’tit Monstre  
+      elle peut récupérer le Timonstre
       lorsque vous mourrez,  
       prolongeant la partie tout en vous laissant mort.</li>
 
   <li>Souvenez-vous enfin que dans une partie  
-      avec le <strong>P’tit Monstre</strong>,  
+      avec le <strong>Timonstre</strong>,  
       ce n’est pas le Démon qui choisit directement  
       qui meurt la nuit,  
       mais le Conteur,  
