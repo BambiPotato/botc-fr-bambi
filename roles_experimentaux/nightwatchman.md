@@ -1,6 +1,9 @@
 ---
 layout: default
-title: Veilleur de Nuit
+title: Veilleur de nuit
+description: "Une fois par partie, la nuit, choisissez un joueur : il apprend que vous êtes le Veilleur de nuit."
+image: /images/Icon_nightwatchman.png
+
 ---
 
 <p align="left">
@@ -9,32 +12,20 @@ title: Veilleur de Nuit
   </a>
 </p>
 
+<hr class="explication">
+
 <!-- Veilleur de Nuit -->
 
 <div style="text-align:center; margin: 20px 0%;">
   <a href="./nightwatchman.html" style="text-decoration:none;">
     <img src="../images/Icon_nightwatchman.png" alt="Veilleur de Nuit" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#4ea3ff; font-weight:bold; font-size:22px;">Veilleur de Nuit</span>
+    <span style="color:#4ea3ff; font-weight:bold; font-size:30px;">Veilleur de Nuit</span>
   </a>
 </div>
 
-<!-- APPARAÎT DANS -->
-<div style="text-align:center; margin: 20px 0%;">
-  <a href="../experimentaux.html" style="text-decoration:none;">
-    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
-    <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
-  </a>
-</div>
+<hr class="villageois">
 
-#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Veilleur de Nuit</span>
-
-<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « La nuit est froide et solitaire, mais j’ai pour compagnie la lune, les étoiles, le vent vif et le bruit feutré de bottes sur les pavés. Là-bas, une lueur vacille derrière une vitre obscurcie… »
-</p>
-
----
 
 ##  <span style="color:#4ea3ff;">Informations</span>
 
@@ -55,12 +46,27 @@ title: Veilleur de Nuit
   <li><strong>Révélé :</strong> 5 février 2022</li>
 </ul>
 
----
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+  « La nuit est froide et solitaire, mais j’ai pour compagnie la lune, les étoiles, le vent vif et le bruit feutré de bottes sur les pavés. Là-bas, une lueur vacille derrière une vitre obscurcie… »
+</p>
+
+<hr class="villageois">
+
+<!-- APPARAÎT DANS -->
+<div style="text-align:center; margin: 20px 0%;">
+  <a href="../experimentaux.html" style="text-decoration:none;">
+    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
+  </a>
+</div>
+
 
 ##  <span style="color:#4ea3ff;">Résumé</span>
+<hr class="villageois">
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Une fois par partie, pendant la nuit, vous choisissez un joueur : il apprend que vous êtes le Veilleur de Nuit. »</strong>
+  <strong>« Une fois par partie, la nuit, choisissez un joueur : il apprend que vous êtes le Veilleur de nuit. »</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -81,9 +87,9 @@ Le <strong>Veilleur de Nuit</strong> est connu d’un seul joueur vivant : celui
 
 </ul>
 
----
 
 ##  <span style="color:#4ea3ff;">Comment Conter</span>
+<hr>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Chaque nuit, réveillez le Veilleur de Nuit.  
@@ -107,9 +113,10 @@ Si le Veilleur de Nuit a pointé un joueur :
 
 </ul>
 
----
+
 
 ##  <span style="color:#4ea3ff;">Exemples</span>
+<hr>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
@@ -135,9 +142,10 @@ Sarah apprend que Louis est le Veilleur de Nuit :
 l’information est fausse à cause du Vortox.
 </p>
 
----
+
 
 ##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
+<hr>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -177,9 +185,10 @@ l’information est fausse à cause du Vortox.
 
 </ul>
 
----
+
 
 ##  <span style="color:#4ea3ff;">Bluffer Veilleur de Nuit</span>
+<hr>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
@@ -199,7 +208,7 @@ l’information est fausse à cause du Vortox.
 
 </ul>
 
----
+<hr class="explication">	
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
