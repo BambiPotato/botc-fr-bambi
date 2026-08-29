@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Hérétique
+description: "Quiconque gagne, perd, et quiconque perd, gagne, même si vous êtes mort."
+image: /images/Icon_heretic.png
 ---
 
 <p align="left">
