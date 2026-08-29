@@ -14,9 +14,6 @@ image: /images/Icon_cerenovus.png
 
 <hr class="explication">
 
-<h2 style="margin-top:10px;">
-  <span style="color:#d45b5b; font-weight:bold;">Cerenovus</span>
-</h2>
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="./cerenovus.html" style="text-decoration:none;">
