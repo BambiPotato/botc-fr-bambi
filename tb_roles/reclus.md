@@ -52,8 +52,7 @@ image: /images/Icon_recluse-1.png
 </ul>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-« Feriez ben d’pas m’estancer avec cte stoire de Démon. Grr. <br> Gardez don vot’nez cheu vous où qu’ç’a vous r’gad. <br>
-  Git ! Mi, j’m’occupe point d’vos affaires. F’tez-moi l’camp.»
+« Zy ctoi té tain té mites dmi seul tvoi. RRRrrrr!!!  <br> Vomai grubge lbà ver sud ba tepir apra té !  <br> Lez ! Mi prosk pô don zarb lèchou  <br> et démmons pô se bagar’ minlvé j’mais fez la.  <br> Lez, mijdi ! »
 </p> 
 
 
