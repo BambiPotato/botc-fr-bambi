@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Wizard
+title: Mage
+description: "Une fois par partie, choisissez de faire un vœu. S’il est exaucé, il pourrait avoir un prix et laisser un indice sur sa nature."
+image:
 ---
 
 <p align="left">
@@ -15,7 +17,7 @@ title: Wizard
   <a href="./wizard.html" style="text-decoration:none;">
     <img src="../images/Icon_wizard.png" alt="Wizard" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#d45b5b; font-weight:bold; font-size:22px;">Wizard</span>
+    <span style="color:#d45b5b; font-weight:bold; font-size:22px;">Mage</span>
   </a>
 </div>
 
@@ -28,7 +30,6 @@ title: Wizard
   </a>
 </div>
 
-#  <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Wizard</span>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Tout homme et toute femme est une étoile.  
@@ -61,22 +62,20 @@ title: Wizard
 ##  <span style="color:#d45b5b;">Résumé</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Une fois par partie, vous pouvez choisir de faire un vœu.  
-  S’il est exaucé, il peut avoir un prix  
-  et laisser un indice sur sa nature. »</strong>
+<strong>« Une fois par partie, choisissez de faire un vœu. S’il est exaucé, il pourrait avoir un prix et laisser un indice sur sa nature.»</strong>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Wizard</strong> fait un vœu.
+Le <strong>Mage</strong> fait un vœu.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
-  <li>Une fois par partie, le <strong>Wizard</strong> peut choisir de faire un <strong>vœu</strong>.  
+  <li>Une fois par partie, le <strong>Mage</strong> peut choisir de faire un <strong>vœu</strong>.  
       Ce vœu n’est limité que par son imagination :  
       il peut concerner les rôles, les règles, les informations, la victoire, etc.</li>
 
-  <li>Le <strong>Wizard</strong> peut :
+  <li>Le <strong>Mage</strong> peut :
     <ul style="margin-left:20px;">
       <li>écrire son vœu sur son téléphone et le montrer au Conteur la nuit ;</li>
       <li>parler au Conteur en privé pendant la journée ;</li>
@@ -84,7 +83,7 @@ Le <strong>Wizard</strong> fait un vœu.
     </ul>
   </li>
 
-  <li>Le Conteur peut annoncer au groupe que le <strong>Wizard</strong> a fait un vœu,  
+  <li>Le Conteur peut annoncer au groupe que le <strong>Mage</strong> a fait un vœu,  
       mais n’est pas obligé de le faire immédiatement.  
       Il peut le déclarer plus tard dans la partie.</li>
 
@@ -102,13 +101,13 @@ Le <strong>Wizard</strong> fait un vœu.
       Le but de l’<strong>indice</strong> est de rééquilibrer un vœu  
       trop fort sur le plan informationnel.</li>
 
-  <li>Lorsque le <strong>Wizard</strong> meurt,  
+  <li>Lorsque le <strong>Mage</strong> meurt,  
       le vœu peut continuer à produire ses effets… ou non,  
       selon la nature du vœu et du prix décidé par le Conteur.</li>
 
-  <li>Si le <strong>Wizard</strong> formule un vœu que le Conteur ne comprend pas,  
+  <li>Si le <strong>Mage</strong> formule un vœu que le Conteur ne comprend pas,  
       ou qu’il juge impossible à appliquer,  
-      le Conteur peut demander au Wizard de formuler un autre vœu  
+      le Conteur peut demander au Mage de formuler un autre vœu  
       ou simplement annuler le vœu.</li>
 
 </ul>
@@ -119,7 +118,7 @@ Le <strong>Wizard</strong> fait un vœu.
 ##  <span style="color:#d45b5b;">Comment Conter</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Conter le <strong>Wizard</strong> est délicat.  
+Conter le <strong>Mage</strong> est délicat.  
 Le rôle est généralement plus amusant pour tout le monde  
 lorsque tous les vœux sont exaucés,  
 que tous les vœux ont un prix  
@@ -129,11 +128,11 @@ Mais vous devez surtout garder la partie jouable et équitable.
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
-  <li><strong>Quand le Wizard fait un vœu :</strong>
+  <li><strong>Lorsque le Mage fait un vœu :</strong>
     <ul style="margin-left:20px;">
       <li>Le vœu peut être formulé à voix haute, à l’écrit, en privé ou en public.</li>
       <li>Décidez d’abord si vous <strong>acceptez</strong> ou <strong>refusez</strong> le vœu.</li>
-      <li>Si vous le refusez, invitez le Wizard à faire un autre vœu  
+      <li>Si vous le refusez, invitez le Mage à faire un autre vœu  
           ou dites-lui qu’il n’a plus de vœux.</li>
     </ul>
   </li>
@@ -147,7 +146,7 @@ Mais vous devez surtout garder la partie jouable et équitable.
           appliquez au besoin des ajustements mécaniques  
           pour que le vœu reste équilibré ;</li>
       <li>maintenant ou plus tard, annoncez publiquement  
-          que le Wizard a fait un vœu,  
+          que le Mage a fait un vœu,  
           puis donnez au groupe un <strong>indice</strong>  
           sur la nature de ce vœu.</li>
     </ul>
@@ -192,7 +191,7 @@ Mais vous devez surtout garder la partie jouable et équitable.
           vous pouvez vous accorder quelques instants  
           (ou une courte pause) pour décider du prix et de l’indice.</li>
       <li>Globalement, le vœu doit faire pencher la balance  
-          du côté du <strong>Wizard</strong> et du Mal,  
+          du côté du <strong>Mage</strong> et du Mal,  
           tout en laissant au Bien une chance réelle de gagner.</li>
       <li>Lorsque le <strong>Wizard</strong> meurt,  
           décidez si les effets du vœu continuent ou non.  
@@ -215,7 +214,7 @@ Il n’y a <strong>ni prix ni indice</strong>.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Wizard</strong> souhaite que tous les joueurs bons soient ivres.  
+Le <strong>Mage</strong> souhaite que tous les joueurs bons soient ivres.  
 Le Conteur exauce le vœu.  
 Plus tard, il déclare que le Wizard a fait un vœu  
 et annonce simplement : « Les choses sont fausses. »  
@@ -229,13 +228,13 @@ Le Conteur exauce le vœu.
 Plus tard, il annonce que le Wizard a fait un vœu  
 et ajoute : « L’élève est devenu le maître. »  
 Le Conteur tue le <a href="../roles_experimentaux/lordoftyphon.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Seigneur de Typhon</a>  
-et transforme le <strong>Wizard</strong> en  
+et transforme le <strong>Mage</strong> en  
 <a href="../roles_experimentaux/ojo.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Ojo</a>.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Le <strong>Wizard</strong> souhaite gagner la partie.  
-Le Conteur exauce le vœu et informe le Wizard  
+Le Conteur exauce le vœu et informe le Mage  
 que l’équipe du Mal gagnera à la fin de la journée.  
 Il annonce ensuite que le Wizard a fait un vœu  
 et que « Ben, Amy ou Lewis est le Démon ».  
@@ -244,11 +243,11 @@ et le Bien gagne quand même la partie.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Wizard</strong> souhaite que tous les joueurs aient 5 vies  
+Le <strong>Mage</strong> souhaite que tous les joueurs aient 5 vies  
 et que tous les rappels du script  
 soient ajoutés aux personnages.  
 Le Conteur juge que ce vœu serait trop compliqué, confus et ennuyeux,  
-refuse le vœu et demande au Wizard d’en formuler un autre.
+refuse le vœu et demande au Mage d’en formuler un autre.
 </p>
 
 ---
@@ -263,16 +262,12 @@ refuse le vœu et demande au Wizard d’en formuler un autre.
 
   <li>À l’inverse, vous pouvez <strong>attendre quelques jours</strong>  
       avant de souhaiter.  
-      Cela peut cacher la présence d’un Wizard  
-      et faire croire à d’autres capacités de Sbires.  
-      Un vœu plus tardif peut aussi être plus ciblé  
-      pour frapper le Bien là où cela fait le plus mal.</li>
+      Cela peut cacher la présence d’un Mage  et faire croire à d’autres capacités de Sbires.  
+      Un vœu plus tardif peut aussi être plus ciblé pour frapper le Bien là où cela fait le plus mal.</li>
 
   <li>Soyez conscient de la <strong>puissance</strong> de votre vœu.  
-      Plus votre vœu est fort, plus vous devez vous attendre  
-      à un <strong>prix lourd</strong> en retour.  
-      Un vœu raisonnable et déjà assez équilibré  
-      demandera moins de corrections de la part du Conteur.</li>
+      Plus votre vœu est fort, plus vous devez vous attendre  à un <strong>prix lourd</strong> en retour.  
+      Un vœu raisonnable et déjà assez équilibré demandera moins de corrections de la part du Conteur.</li>
 
   <li>Avant de jouer un script avec le <strong>Wizard</strong>,  
       prenez le temps de <strong>préparer quelques idées de vœux</strong>.  
@@ -382,15 +377,15 @@ refuse le vœu et demande au Wizard d’en formuler un autre.
       à tout ce que le Conteur dit ou fait  
       qui sort de l’ordinaire.  
       Ces éléments sont probablement des <strong>indices</strong>  
-      sur le vœu du <strong>Wizard</strong>  
+      sur le vœu du <strong>Mage</strong>  
       et peuvent grandement vous aider  
       à comprendre ce qui se passe.</li>
 
   <li>Utilisez les indices à votre avantage.  
       Si le Conteur déclare par exemple  
-      « Une capacité de Détraqué (Tinker) est en jeu »,  
+      « Une capacité de Bricoleur est en jeu »,  
       jouez comme si vous pouviez mourir à tout moment.  
-      Si votre personnage change,  
+      Si votre rôle change,  
       cherchez d’autres joueurs dont le rôle a changé,  
       comparez vos observations et essayez de remonter  
       à ce que le vœu a réellement fait.</li>
@@ -435,7 +430,7 @@ refuse le vœu et demande au Wizard d’en formuler un autre.
   <li>Surtout, <strong>amusez-vous</strong>.  
       Si vous attendiez une partie de Clocktower  
       « standard », il est possible  
-      que le vœu du Wizard chamboule tout.  
+      que le vœu du Mage chamboule tout.  
       Lâchez un peu prise,  
       acceptez le chaos et les situations improbables,  
       et servez-vous des indices  
