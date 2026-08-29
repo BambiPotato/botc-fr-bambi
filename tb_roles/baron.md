@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Baron
-description: "Il y a des Marginaux supplémentaires en jeu.[+2  Marginaux]" 
+description: "Il y a deux Marginaux supplémentaires en jeu.[+2  Marginaux]" 
 image: /images/Icon_baron.png
 parchment: true
 ---
@@ -84,7 +84,7 @@ Rien de tel que la vertu du labeur pour se remettre dans le droit chemin.<br>
 
 <hr class="sbire">
 
-**« Il y a des Marginaux supplémentaires en jeu. [+2  Marginaux] »**
+**« Il y a deux Marginaux supplémentaires en jeu. [+2  Marginaux] »**
 
 <p class="botc-flavour-text dropcap">
 LE BARON modifie le nombre de Marginaux présents dans la partie.  
@@ -97,13 +97,12 @@ LE BARON modifie le nombre de Marginaux présents dans la partie.
 
 
 
-
 ##  <span style="color:red">Comment Conter</span>
 
 ---
 
 <p class="botc-flavour-text dropcap">
-  Instructions au Conteur
+Instructions au Conteur
 </p>
 
 Pendant la mise en place :  
