@@ -2,7 +2,7 @@
 layout: default
 title: Mage
 description: "Une fois par partie, choisissez de faire un vœu. S’il est exaucé, il pourrait avoir un prix et laisser un indice sur sa nature."
-image:
+image: images/Icon_wizard.png
 ---
 
 <p align="left">
