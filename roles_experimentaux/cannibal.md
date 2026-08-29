@@ -23,22 +23,8 @@ image: /images/Icon_cannibal.png
   </a>
 </div>
 
-<!-- APPARAÎT DANS -->
-<div style="text-align:center; margin: 20px 0;">
-  <a href="../experimentaux.html" style="text-decoration:none;">
-    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="300" style="border-radius:12px;">
-    <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
-  </a>
-</div>
 
-
-
-<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-« Je n’aime pas les clowns. <br> Ils ont un drôle de goût. »
-</p>
-
----
+<hr class="villageois">
 
 ## <span style="color:#4ea3ff;">Informations</span>
 
@@ -58,6 +44,23 @@ image: /images/Icon_cannibal.png
   <li><strong>Artiste :</strong> <em>John Grist</em></li>
   <li><strong>Révélé :</strong> 4 juillet 2020</li>
 </ul>
+
+
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Je n’aime pas les clowns. <br> Ils ont un drôle de goût. »
+</p>
+
+<hr class="villageois">
+
+<!-- APPARAÎT DANS -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../experimentaux.html" style="text-decoration:none;">
+    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="300" style="border-radius:12px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
+  </a>
+</div>
+
 
 <h2 style="color:#4ea3ff;"><span id="resume">Résumé</span></h2>
 <hr class="villageois">
