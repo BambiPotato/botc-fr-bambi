@@ -122,6 +122,7 @@ Retirez les jetons <strong>CORRECT</strong> et le jeton de nuit du <strong>Jongl
 
 <div class="botc-note">
 Si le <strong>Jongleur</strong> parle trop vite, demandez-lui de ralentir.<br>
+<hr>   
 Si un joueur maléfique se fait passer pour le <strong>Jongleur</strong>, vous pouvez soutenir son bluff en faisant semblant de mettre des jetons dans le Grimoire à mesure qu’il formule ses suppositions.
 </div>
 
