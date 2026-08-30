@@ -103,8 +103,8 @@ Le <strong>Sage</strong> se rendort.
 
 <div class="botc-note">
 Si le <strong>Sage</strong> meurt tôt dans la partie, il est sans doute préférable de lui montrer deux joueurs en vie.<br>
-Cela leaves à l’équipe du Mal une petite chance de gagner.<br>
-Si le <strong>Sage</strong> meurt lors de la dernière nuit, vous pouvez lui montrer un joueur en vie et un joueur mort.
+Cela laisse à l’équipe du Mal une petite chance de gagner.<br>
+Si le <strong>Sage</strong> meurt lors de la dernière nuit, vous pouvez lui montrer un joueur en vie et un joueur mort.  
 </div>
 
 <h2 style="color:#4ea3ff;">Exemples</h2>
