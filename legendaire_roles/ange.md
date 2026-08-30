@@ -118,9 +118,12 @@ Les joueurs ne l’exécutent pas avant le dernier jour.<br>
 <hr class="legendaire">
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.8;">
-• L’<strong style="color:#d4a76a;">Ange</strong> est conçu pour encourager les joueurs expérimentés à faire preuve de bienveillance envers les nouveaux. Il permet d’éviter que ceux-ci ne soient éliminés trop tôt par erreur ou par excès d’enthousiasme stratégique.<br><br>
-• Les conséquences appliquées doivent être légères : perte temporaire de capacité, impossibilité de voter ou empoisonnement symbolique. L’objectif n’est pas de punir, mais d’apprendre à ralentir le rythme pour que tout le monde s’amuse.<br><br>
-• Le rôle de l’<strong style="color:#d4a76a;">Ange</strong> peut aussi servir à introduire un ton plus calme et empathique dans la partie, particulièrement utile lors des initiations ou des sessions publiques.
+• Être le seul nouveau joueur dans un groupe peut parfois être intimidant. Être protégé par l' <strong style="color:#d4a76a;">Ange</strong> encourage tous les joueurs à garder les nouveaux joueurs en vie le plus longtemps possible, ce qui permet aux nouveaux joueurs de s'amuser davantage et de contribuer plus à la partie.<br><br>
+• Tous les joueurs savent qui est protégé par l' <strong style="color:#d4a76a;">Ange</strong>, mais pas son alignement ni son rôle. <br> Quiconque est le joueur le plus responsable de la mort d'un joueur protégé subit une conséquence. <br> Par exemple, si le Démon tue un joueur protégé, le Démon subit une pénalité. <br> Si un joueur protégé est exécuté, ce sera probablement le joueur qui l'a nommé qui subira une pénalité.<br><br>
+• La « chose néfaste » qui se produit est à votre discrétion. Cependant, il est recommandé de choisir pour pénalité soit que le joueur meure, soit que le joueur perde sa capacité pendant un jour, soit que le joueur ne puisse pas voter pendant un jour. <br> Une pénalité légère fonctionne bien mieux qu'une pénalité sévère.<br><br>
+• Retirez l' <strong style="color:#d4a76a;">Ange</strong> lors du dernier jour, afin que les joueurs se sentent libres d'exécuter les joueurs protégés par l'Ange.<br><br>
+
+• L' <strong style="color:#d4a76a;">Ange</strong>n'a pas besoin d'être en jeu à moins que les nouveaux joueurs ne le souhaitent. 
 </p>
 
 <hr class="legendaire">
