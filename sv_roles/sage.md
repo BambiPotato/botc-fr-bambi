@@ -72,8 +72,6 @@ image: /images/Icon_sage.png
 
 
 
-
-
 <h2 style="color:#4ea3ff;">Résumé</h2>
 <hr class="villageois">
 
@@ -103,11 +101,11 @@ Désignez deux joueurs, dont l’un est le <a href="../demons.html" style="color
 Le <strong>Sage</strong> se rendort.
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; background-color:rgba(255,255,255,0.05); padding:12px; border-left:4px solid #4ea3ff; border-radius:4px;">
+<div class="botc-note">
 Si le <strong>Sage</strong> meurt tôt dans la partie, il est sans doute préférable de lui montrer deux joueurs en vie.<br>
 Cela leaves à l’équipe du Mal une petite chance de gagner.<br>
 Si le <strong>Sage</strong> meurt lors de la dernière nuit, vous pouvez lui montrer un joueur en vie et un joueur mort.
-</p>
+</div>
 
 <h2 style="color:#4ea3ff;">Exemples</h2>
 <hr>
