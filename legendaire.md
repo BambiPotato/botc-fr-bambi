@@ -66,6 +66,30 @@ image: /images//Generic_fabled.png
 </div>
 
 
+<hr class="legendaire">
+
+<h2>Synopsis</h2>
+
+<p class="botc-flavour-text dropcap" style="margin:0;">
+Un cocher fatigué savoure son hydromel à petites gorgées, assis au coin du feu. Se laissant aller à la chaleur des flammes, il s’enfonce dans son siège. Turné vers le foyer, il bâille et se frotte les mains.<br>
+« Quelles nouvelles de la route, mon bon monsieur ? » demande une voix qui s’élève du fond de la taverne.<br>
+« Racontez-nous une histoire triste avant de passer à table. »<br>
+« Ou, si c’est une histoire drôle, nous vous offrirons un verre. »<br>
+Le cocher pousse un long soupir et se prépare à satisfaire son auditoire. Il prend une grande inspiration et fait face aux autres clients. Dans une sorte d’admiration craintive, tous retiennent leur souffle, attendant l’histoire.
+</p>
+
+<p>
+« C’est vrai, commence-t-il, sans mentir, j’ai voyagé loin, et longtemps. J’ai traversé le désert, et j’ai parcouru les mers. J’ai vu des bébés renaître, j’ai connu de grands hommes, qui sont morts aujourd’hui. Mais il y a aussi ceux que je ne peux pas connaître, une route que je n’ai pas encore arpentée. Ils vivent dans des lieux où le cheval ne peut se rendre, et que le faucon ne peut voir.
+</p>
+
+<p>
+Même l’œil le plus affûté n’est pas capable de les repérer. Faites cercle autour de cette cheminée, mes amis, et mettez vos chevaux à l’écurie. Ouvrez grand vos oreilles et mettez vos petites conversations de côté.
+</p>
+
+<p>
+Car je vais maintenant vous parler de ceux que les contes appellent les... »
+</p>
+
 <div style="text-align:center;">
 
 <h1 style="color:#d4a76a; margin-bottom:50px;">
@@ -77,6 +101,7 @@ Les Légendaires
 </div>
 
 <hr class="explication">
+
 
 
 ##  <span style="color:#d4a76a;">Présentation</span>
