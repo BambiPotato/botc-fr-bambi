@@ -53,11 +53,11 @@ et la vertu d’un millier de tempêtes ! »
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
 « Quelque chose de terrible pourrait arriver à quiconque est le plus responsable de la mort d’un nouveau joueur. »
-</p><br><br>
+</p><br>
 
 <p class="botc-flavour-text dropcap" style="margin:0; color:#f5f5f5; font-size:20px; line-height:1.7;">
 UTILISEZ L’ANGE pour aider les nouveaux joueurs à s’amuser lorsqu’un ou deux nouveaux joueurs rejoignent un groupe de vétérans.
-</p><br><br>
+</p><br>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; padding-left:0px;">
 <li>Il est parfois intimidant d’être le seul nouveau joueur au milieu des anciens ! La protection de l’Ange encourage les joueurs à garder les nouveaux joueurs en jeu aussi longtemps que possible ; ainsi, les nouveaux joueurs s’amusent davantage et contribuent mieux à la partie.</li>
