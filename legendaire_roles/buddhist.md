@@ -2,7 +2,7 @@
 layout: default
 title: Bouddhiste
 description: "Pendant les 2 premières minutes de chaque jour, les vétérans ne peuvent pas parler."
-image: 
+image: /images/Icon_buddhist.png
 ---
 
 <p align="left">
@@ -27,13 +27,13 @@ image:
 ## <span style="color:#d4a76a;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li><strong>Type :</strong> <a href="../legendaire.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Légendaire</a></li>
+  <li><strong>Type :</strong> <a href="../legendaire.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Légendaire</a></li>
   <li><strong>Artiste :</strong> <em>Marianna Carr</em></li>
   <li><strong>Nom original :</strong>
     <a href="https://wiki.bloodontheclocktower.com/Buddhist"
        target="_blank"
        rel="noopener noreferrer"
-       style="color:#d4a76a; font-weight:bold; text-decoration:none;">
+       style="color:#e0c99d; font-weight:bold; text-decoration:none;">
      Buddhist
     </a>
   </li>
@@ -66,7 +66,7 @@ Ceci étant, forcer les vétérans à rester silencieux quelques minutes chaque 
 L’idée est que tout le monde y trouve son compte.</li>
 <li>Un joueur peut dire « Je suis un Bouddhiste », ou le Conteur peut décréter « Tu es un Bouddhiste ».<br>
 Cela ne signifie pas que leur rôle est le Bouddhiste.<br>
-C’est une façon élégante de signifier que ces joueurs doivent appliquer la capacité du Bouddhiste. On retrouvera cette idée avec le <a href="./revolutionary.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Révolutionnaire</a>.</li>
+C’est une façon élégante de signifier que ces joueurs doivent appliquer la capacité du Bouddhiste. On retrouvera cette idée avec le <a href="./revolutionary.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Révolutionnaire</a>.</li>
 </ul>
 
 <hr class="legendaire">
@@ -94,7 +94,7 @@ Retirez le Bouddhiste à tout moment (informez les joueurs).
 <div class="botc-note">
 Si vous n’avez pas de chronomètre, estimez vous-même les deux minutes et faites signe aux vétérans lorsqu’ils peuvent à nouveau parler.
 <hr>
-Tout comme pour l’<a href="./angel.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;"><strong>Ange</strong></a> et le <a href="./revolutionary.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Révolutionnaire</a>, vous devrez demander le consentement du joueur avant d’utiliser le Bouddhiste.<br>
+Tout comme pour l’<a href="./ange.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;"><strong>Ange</strong></a> et le <a href="./revolutionary.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Révolutionnaire</a>, vous devrez demander le consentement du joueur avant d’utiliser le Bouddhiste.<br>
 Par exemple, en lui demandant : « Ça te dérange si je te fais devenir Bouddhiste pour cette partie ?<br>
 Tu es plutôt bon à ce jeu et je souhaite que les nouveaux joueurs puissent découvrir des choses par eux-mêmes. Ça te va ? »
 </div>
