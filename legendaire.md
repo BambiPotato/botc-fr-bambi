@@ -41,7 +41,7 @@ image: /images//Generic_fabled.png
   <p style="font-weight:bold; color:#d4a76a; margin-bottom:4px;">Interactions sociales et accessibilité</p>
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
     <li><a href="./legendaire_roles/ange.html" style="color:#d4a76a; text-decoration:none;">Ange</a></li>
-    <li><a href="./legendaire_roles/hellslibrarian.html" style="color:#d4a76a; text-decoration:none;">Archiviste Infernal</a></li>
+    <li><a href="./legendaire_roles/hellslibrarian.html" style="color:#d4a76a; text-decoration:none;">Bibliothécaire de l'enfer</a></li>
     <li><a href="./legendaire_roles/toymaker.html" style="color:#d4a76a; text-decoration:none;">Bibelotier</a></li>
     <li><a href="./legendaire_roles/buddhist.html" style="color:#d4a76a; text-decoration:none;">Bouddhiste</a></li>
     <li><a href="./legendaire_roles/doomsayer.html" style="color:#d4a76a; text-decoration:none;">Messager de malheur</a></li>
@@ -121,7 +121,7 @@ Par exemple :
 
 <div style="text-align:center; display:inline-block; margin:10px;">
   [<img src="./images/Icon_hellslibrarian.png" alt="Bibliothécaire de l’Enfer" width="260">](./legendaire_roles/hellslibrarian.html)  
-  [<span style="color:#d4a76a; font-weight:bold;">Archiviste Infernal</span>](./legendaire_roles/hellslibrarian.html)
+  [<span style="color:#d4a76a; font-weight:bold;">Bibliothécaire de l'enfer</span>](./legendaire_roles/hellslibrarian.html)
 </div>
 
 <div style="text-align:center; display:inline-block; margin:10px;">
