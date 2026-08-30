@@ -66,9 +66,10 @@ image: /images//Generic_fabled.png
 </div>
 
 
-<hr class="legendaire">
+
 
 <h2>Synopsis</h2>
+<hr class="legendaire">
 
 <p class="botc-flavour-text dropcap" style="margin:0;">
 Un cocher fatigué savoure son hydromel à petites gorgées, assis au coin du feu. Se laissant aller à la chaleur des flammes, il s’enfonce dans son siège. Turné vers le foyer, il bâille et se frotte les mains.<br>
@@ -100,11 +101,10 @@ Les Légendaires
 
 </div>
 
-<hr class="explication">
-
 
 
 ##  <span style="color:#d4a76a;">Présentation</span>
+<hr class="legendaire">
 
 Les **Légendaires** sont des rôles réservés aux **Conteurs**.  
 Ils modifient légèrement les conditions de jeu et sont souvent inclus **au début d’une partie**.
@@ -122,10 +122,11 @@ Par exemple :
 - Si la partie doit s’arrêter plus tôt que prévu, un Légendaire peut désigner un vainqueur.  
 - Si vous créez votre propre script personnalisé, un Légendaire peut enrichir l’expérience.
 
-<hr class="explication">
+
 
 
 ##  <span style="color:#d4a76a;">Sommaire</span>
+<hr class="legendaire">
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:5px;">
 1. <a href="#-toute-partie" style="color:#f5f5f5; text-decoration:none;">Toute Partie</a><br>
@@ -134,10 +135,9 @@ Par exemple :
 </p>
 
 
-<hr class="explication">
-
 
 ##  <span style="color:#d4a76a;">Interactions sociales et accessibilité</span>
+<hr class="legendaire">
 
 <div style="text-align:center; display:inline-block; margin:10px;">
   [<img src="./images/Icon_angel.png" alt="Ange" width="260">](./legendaire_roles/ange.html)  
@@ -174,10 +174,10 @@ Par exemple :
   [<span style="color:#d4a76a; font-weight:bold;">Violoniste</span>](./legendaire_roles/fiddler.html)
 </div>
 
-<hr class="explication">
 
 
 ##   <span style="color:#d4a76a;">Scripts personnalisés</span>
+<hr class="legendaire">
 
 <div style="text-align:center; display:inline-block; margin:10px;">
   [<img src="./images/Icon_djinn.png" alt="Djinn" width="260">](./legendaire_roles/djinn.html)  
@@ -205,10 +205,10 @@ Par exemple :
 </div>
 
 
-<hr class="explication">
 
 
 ##  <span style="color:#d4a76a;">Expérimental</span>
+<hr class="legendaire">
 
 <div style="text-align:center; display:inline-block; margin:10px;">
   [<img src="./images/Icon_deusexfiasco.png" alt="Deus ex Fiasco" width="260">](./legendaire_roles/deusexfiasco.html)  
