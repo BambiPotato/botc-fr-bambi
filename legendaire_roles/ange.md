@@ -53,11 +53,11 @@ et la vertu d’un millier de tempêtes ! »
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
 « Quelque chose de terrible pourrait arriver à quiconque est le plus responsable de la mort d’un nouveau joueur. »
-</p>
+</p><br><br>
 
 <p class="botc-flavour-text dropcap" style="margin:0; color:#f5f5f5; font-size:20px; line-height:1.7;">
 UTILISEZ L’ANGE pour aider les nouveaux joueurs à s’amuser lorsqu’un ou deux nouveaux joueurs rejoignent un groupe de vétérans.
-</p>
+</p><br><br>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; padding-left:0px;">
 <li>Il est parfois intimidant d’être le seul nouveau joueur au milieu des anciens ! La protection de l’Ange encourage les joueurs à garder les nouveaux joueurs en jeu aussi longtemps que possible ; ainsi, les nouveaux joueurs s’amusent davantage et contribuent mieux à la partie.</li>
@@ -69,7 +69,7 @@ Par exemple, si le Démon tue un joueur protégé, le Démon sera pénalisé. Si
 <h2 style="color:#d4a76a;">Comment Conter</h2>
 <hr class="legendaire">
 
-<p class="botc-flavour-text dropcap" style="margin:0; color:#f5f5f5; font-size:18px; line-height:1.7;">
+<p class="botc-flavour-text dropcap" style="margin:0; color:#f5f5f5; font-size:20px; line-height:1.7;">
 Instructions au Conteur
 </p>
 
@@ -123,7 +123,7 @@ Les joueurs ne l’exécutent pas avant le dernier jour.<br>
 • La « chose néfaste » qui se produit est à votre discrétion. Cependant, il est recommandé de choisir pour pénalité soit que le joueur meure, soit que le joueur perde sa capacité pendant un jour, soit que le joueur ne puisse pas voter pendant un jour. <br> Une pénalité légère fonctionne bien mieux qu'une pénalité sévère.<br><br>
 • Retirez l' <strong style="color:#d4a76a;">Ange</strong> lors du dernier jour, afin que les joueurs se sentent libres d'exécuter les joueurs protégés par l'Ange.<br><br>
 
-• L' <strong style="color:#d4a76a;">Ange</strong>n'a pas besoin d'être en jeu à moins que les nouveaux joueurs ne le souhaitent. 
+• L' <strong style="color:#d4a76a;">Ange</strong> n'a pas besoin d'être en jeu à moins que les nouveaux joueurs ne le souhaitent. 
 </p>
 
 <hr class="legendaire">
