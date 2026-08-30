@@ -22,7 +22,7 @@ image: "/images/Icon_mutant.png"
   </a>
 </div>
 
-<hr class="villageois"><hr>
+<hr class="marginal">
 
 <h3 style="color:#4ea3ff; font-weight:bold;">Informations</h3>
 
@@ -102,8 +102,7 @@ image: "/images/Icon_mutant.png"
 </ul>
 
 <h2 style="color:#4ea3ff;">Comment Conter</h2>
-
----
+<hr> 
 
 <p class="botc-flavour-text dropcap">
 Instructions au Conteur
@@ -124,8 +123,7 @@ Instructions au Conteur
 </ul>
 
 <h2 style="color:#4ea3ff;">Exemples</h2>
-
----
+<hr> 
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
 
@@ -154,8 +152,7 @@ Instructions au Conteur
 </ul>
 
 <h2 style="color:#4ea3ff;">Conseils &amp; Astuces</h2>
-
-<hr class="explication">
+<hr> 
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
 
@@ -204,8 +201,7 @@ Instructions au Conteur
 </ul>
 
 <h2 style="color:#4ea3ff;">Bluffer la Bête de foire</h2>
-
----
+<hr> 
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Lorsque vous bluffez la <strong>Bête de foire,</strong> il y a quelques éléments à garder en tête :
