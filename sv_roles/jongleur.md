@@ -120,10 +120,10 @@ Le <strong>Jongleur</strong> se rendort.<br>
 Retirez les jetons <strong>CORRECT</strong> et le jeton de nuit du <strong>Jongleur</strong> au moment opportun.
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; background-color:rgba(255,255,255,0.05); padding:12px; border-left:4px solid #4ea3ff; border-radius:4px;">
+<div class="botc-note">
 Si le <strong>Jongleur</strong> parle trop vite, demandez-lui de ralentir.<br>
 Si un joueur maléfique se fait passer pour le <strong>Jongleur</strong>, vous pouvez soutenir son bluff en faisant semblant de mettre des jetons dans le Grimoire à mesure qu’il formule ses suppositions.
-</p>
+</div>
 
 <h2 style="color:#4ea3ff;">Exemples</h2>
 <hr>
