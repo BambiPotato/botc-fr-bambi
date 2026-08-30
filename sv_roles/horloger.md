@@ -72,8 +72,6 @@ Son cercle est celui de la vie, <br> et ses mécanismes divins apportent toutes 
 
 
 
-
-
 <h2><span style="color:#4ea3ff;">Résumé</span></h2>
 <hr class="villageois">
 
@@ -99,8 +97,7 @@ L’<strong>HORLOGER</strong> apprend à combien de places du <a href="../demons
 
 
 <h2><span style="color:#4ea3ff;">Comment Conter</span></h2>
-
----
+<hr> 
 
 <p class="botc-flavour-text dropcap">
 <strong>INSTRUCTIONS AU CONTEUR</strong>
@@ -117,8 +114,7 @@ L’<strong>HORLOGER</strong> apprend à combien de places du <a href="../demons
 </ul>
 
 <h2><span style="color:#4ea3ff;">Exemples</span></h2>
-
----
+<hr> 
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
@@ -143,8 +139,7 @@ Lors de la première nuit, l’<strong>Horloger</strong> apprend le chiffre <str
 
 
 <h2><span style="color:#4ea3ff;">Conseils &amp; Astuces</span></h2>
-
----
+<hr> 
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 
@@ -163,10 +158,8 @@ Lors de la première nuit, l’<strong>Horloger</strong> apprend le chiffre <str
 </ul>
 
 
-
-## <span style="color:#d45b5b;">Bluffer en tant qu’Horloger</span>
-
----
+<h2><span style="color:#4ea3ff;">Bluffer l'Horloger</span></h2>
+<hr> 
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Lorsque vous bluffez en prétendant être l’<strong>Horloger</strong>, gardez les points suivants à l’esprit :
