@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ange
-description: Quelque chose de terrible pourrait arriver à celui qui est le plus responsable de la mort d’un nouveau joueur.
+description: "Quelque chose de terrible pourrait arriver à quiconque est le plus responsable de la mort d’un nouveau joueur."
 image: /images/Icon_angel.png
 ---
 
