@@ -73,10 +73,11 @@ Le Conteur peut être amené à enfreindre des règles pour corriger son erreur.
   <li>Le Conteur peut faire plusieurs erreurs fortuites, plusieurs erreurs délibérées, ou une combinaison des deux.</li>
 </ul>
 
-<hr class="legendaire">
+
 
 <!-- ===== COMMENT CONTER ===== -->
 <h2 style="color:#d4a76a;">Comment Conter</h2>
+<hr class="legendaire">
 
 <p class="botc-flavour-text dropcap" style="margin-top:0; padding-left:0;">
 Instructions au Conteur
