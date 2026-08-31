@@ -78,7 +78,8 @@ Ajoutez le jeton Duchesse et les jetons associés dans le Grimoire.
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; padding-left:0;">
 Chaque jour, n’importe quel joueur peut vouloir rendre visite à la Duchesse cette nuit-là.<br>
-Si exactement trois joueurs se portent volontaires, marquez deux d’entre eux d’un jeton <strong>VISITEUR</strong> et le troisième d’un jeton<strong>FAUSSE INFO</strong>.<br>
+Si exactement trois joueurs se portent volontaires, marquez deux d’entre eux d’un jeton <strong>VISITEUR</strong> et le troisième d’un jeton 
+<strong>FAUSSE INFO</strong>.<br>
 S’il n’y a pas exactement trois joueurs, n’ajoutez pas ces jetons.
 </p>
 
