@@ -40,10 +40,10 @@ image: /images/Icon_doomsayer.png
   </li>
 </ul> 
 
-<p style="color:#f5f5f5; font-style:italic; font-size:17px; text-align:center; line-height:1.8;">
+<p style="color:#f5f5f5; font-style:italic; font-size:17px; text-align:center; line-height:1.8; margin-left:0; padding-left:0;">
 « Et au septième jour, les grandes eaux et la peste frapperont le peuple du village des corbeaux ! <br> Les morts se lèveront, et les vivants se repentiront !<br>
 Ô, Malheur ! Ô, Infamie ! Seul le sacrifice ultime sauvera les pécheurs ! <br> Ainsi parlaient les Sages de Nostros, et ainsi parlai-je. »
-
+</p>
 
 <!-- ===== RESUME ===== -->
 <h2 style="color:#d4a76a;">Résumé</h2>
