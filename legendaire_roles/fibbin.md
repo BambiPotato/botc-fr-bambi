@@ -22,6 +22,8 @@ image: /images/Icon_fibbin.png
   </a>
 </div>
 
+<hr class="legendaire">
+
 <!-- ===== INFORMATIONS ===== -->
 <h2 style="color:#f5f5f5;">Informations</h2>
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; padding-left:0; list-style-position:inside;">
@@ -73,7 +75,7 @@ Ajoutez le jeton Taquin au Grimoire.
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; padding-left:0;">
 Une fois par partie, lorsqu’un joueur bon obtient une information grâce à une capacité, vous pouvez lui donner une information incorrecte.<br>
-Le Taquin perd sa capacité — placez son jeton SANS CAPACITÉ à côté de son jeton de rôle.
+<strong>Le Taquin perd sa capacité</strong> — placez son jeton <strong>SANS CAPACITÉ</strong> à côté de son jeton de rôle.
 </p>
 
 
