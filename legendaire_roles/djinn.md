@@ -156,6 +156,7 @@ Si votre script contient des rôles jinxés, informez vos joueurs des règles sp
 
 <a id="villageois"></a>
 ###  Villageois 
+<hr class="legendaire">
 
 - <a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> / <a href="../bmr_roles/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a> : Un Alchimiste-Conspirateur n’a pas la capacité du Conspirateur et aucun Conspirateur n’est en jeu.
 - <a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> / <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a> : Un Alchimiste-Espionne n’a pas la capacité d’Espionne et une Espionne est en jeu. Après chaque exécution, l’Alchimiste vivant peut deviner publiquement un joueur vivant comme étant l’Espionne ; si c’est correct, le <span style="color:#d45b5b; font-weight:bold;">Démon</span> doit choisir l’Espionne cette nuit.
@@ -187,11 +188,10 @@ Si votre script contient des rôles jinxés, informez vos joueurs des règles sp
 - <a href="../sv_roles/mathematicien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mathématicien</a> / <a href="../roles_experimentaux/marionnette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> : Le Mathématicien apprend si la capacité de la Marionnette a produit une fausse information ou n’a pas fonctionné correctement.
 
 
-<hr class="legendaire">
-
 
 <a id="etrangers"></a>
 ###  Marginaux 
+<hr class="legendaire">
 
 - <a href="../roles_experimentaux/plaguedoctor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Docteur de la peste</a> / <a href="../tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> : Si le Conteur gagne la capacité du Baron, jusqu’à deux joueurs deviennent des Marginaux qui ne sont pas en jeu.
 - <a href="../roles_experimentaux/plaguedoctor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Docteur de la peste</a> / <a href="../roles_experimentaux/boomdandy.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boumdandy</a> : Si le Conteur acquiert la capacité du Boumdandy, un joueur devient le Boumdandy.
@@ -215,11 +215,10 @@ Si votre script contient des rôles jinxés, informez vos joueurs des règles sp
 - <a href="../roles_experimentaux/ogre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ogre</a> / <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a> : Si la Recluse s’enregistre comme maléfique pour l’Ogre, l’Ogre apprend qu’il est maléfique.
 
 
-<hr class="legendaire">
-
 
 <a id="sbires"></a>
 ###  Sbires 
+<hr class="legendaire">
 
 - <a href="../sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a> / <a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Gobelin</a> : Le Cerenovus peut rendre un joueur fou d’être Gobelin.
 
@@ -276,12 +275,12 @@ Si votre script contient des rôles jinxés, informez vos joueurs des règles sp
 - <a href="../roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a> / <a href="../roles_experimentaux/zealot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Zélote</a> : Le Zélote peut s’enregistrer comme maléfique pour le Vizir.
 
 
-<hr class="legendaire">
 
 
 <a id="demons"></a>
 ### Démons
-
+<hr class="legendaire">
+            
 - <a href="../roles_experimentaux/alhadikhia.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Al-Hadikhia</a> / <a href="../bmr_roles/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a> : Si Al-Hadikhia meurt exécuté et que le Conspirateur est vivant, Al-Hadikhia choisit trois <span style="color:#4ea3ff; font-weight:bold;">Bons</span> cette nuit : si tous choisissent de vivre, le <span style="color:#d45b5b; font-weight:bold;">Mal</span> gagne, sinon le <span style="color:#4ea3ff; font-weight:bold;">Bien</span> gagne.
 - <a href="../roles_experimentaux/alhadikhia.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Al-Hadikhia</a> / <a href="../roles_experimentaux/princess.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Princesse</a> : Si la Princesse a nominé et exécuté un joueur le 1er jour, personne ne meurt d’Al-Hadikhia cette nuit.
 
