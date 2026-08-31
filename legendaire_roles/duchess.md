@@ -78,14 +78,14 @@ Ajoutez le jeton Duchesse et les jetons associés dans le Grimoire.
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; padding-left:0;">
 Chaque jour, n’importe quel joueur peut vouloir rendre visite à la Duchesse cette nuit-là.<br>
-Si exactement trois joueurs se portent volontaires, marquez deux d’entre eux d’un jeton VISITEUR et le troisième d’un jeton FAUSSE INFO.<br>
+Si exactement trois joueurs se portent volontaires, marquez deux d’entre eux d’un jeton <strong>VISITEUR</strong> et le troisième d’un jeton<strong>FAUSSE INFO</strong>.<br>
 S’il n’y a pas exactement trois joueurs, n’ajoutez pas ces jetons.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; padding-left:0;">
-La nuit, réveillez un par un chaque joueur marqué VISITEUR ou FAUSSE INFO. Montrez-lui le jeton Duchesse.<br>
-Si le joueur réveillé est VISITEUR, faites signe avec vos doigts (0, 1, 2 ou 3) pour indiquer le nombre de joueurs maléfiques VISITEUR ou FAUSSE INFO.<br>
-Si le joueur réveillé est FAUSSE INFO, faites signe avec vos doigts sans donner le bon chiffre.<br>
+La nuit, réveillez un par un chaque joueur marqué <strong>VISITEUR</strong> ou <strong>FAUSSE INFO</strong>. Montrez-lui le jeton Duchesse.<br>
+Si le joueur réveillé est <strong>VISITEUR</strong>, faites signe avec vos doigts (0, 1, 2 ou 3) pour indiquer le nombre de joueurs maléfiques <strong>VISITEUR</strong> ou <strong>FAUSSE INFO</strong>.<br>
+Si le joueur réveillé est <strong>FAUSSE INFO</strong>, faites signe avec vos doigts sans donner le bon chiffre.<br>
 Le joueur que vous avez réveillé se rendort.
 </p>
 
