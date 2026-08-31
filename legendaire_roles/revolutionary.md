@@ -72,20 +72,21 @@ Instructions au Conteur
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; padding-left:0;">
 Lors de la mise en place du jeu, avant de faire passer le sac aux joueurs, annoncez que le Révolutionnaire est en jeu et indiquez qui sont les deux joueurs voisins Révolutionnaires.<br>
-Ajoutez le jeton Révolutionnaire au Grimoire. Placez le jeton <strong>FAUSSE APPARENCE ? entre les deux Révolutionnaires.
+Ajoutez le jeton Révolutionnaire au Grimoire. Placez le jeton <strong>FAUSSE APPARENCE ?</strong> entre les deux Révolutionnaires.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; padding-left:0;">
 Donnez le sac à un Révolutionnaire. Il y pioche un jeton. Regardez son jeton, choisissez un jeton du même alignement dans le sac, et donnez-le à l’autre Révolutionnaire. Ensuite, faites passer le sac aux joueurs non Révolutionnaires pour qu’ils y piochent leur jeton.
 </p>
 
-<div class="botc-note">
-Une fois par partie, vous pouvez faire apparaître un joueur marqué <strong>FAUSSE APPARENCE ?</strong> sous un autre rôle et un autre alignement. <br> Ensuite, retirez le jeton <strong>FAUSSE APPARENCE ?</strong>.
-</div>
-
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; padding-left:0;">
+Une fois par partie, vous pouvez faire apparaître un joueur marqué <strong>FAUSSE APPARENCE ?</strong> sous un autre rôle et un autre alignement. <br> Ensuite, retirez le jeton <strong>FAUSSE APPARENCE ?</strong>.
+</p>  
+
+
+<div class="botc-note">
 Le Révolutionnaire ne doit être en jeu que si les deux joueurs le souhaitent. Demandez leur accord avant le début du jeu.
-</p>
+</div>
 
 
 
