@@ -66,11 +66,7 @@ image: /images//Generic_fabled.png
 </div>
 
 
-
-
 <h2>Synopsis</h2>
-<hr class="legendaire">
-
 <p class="botc-flavour-text dropcap" style="margin:0;">
 Un cocher fatigué savoure son hydromel à petites gorgées, assis au coin du feu. Se laissant aller à la chaleur des flammes, il s’enfonce dans son siège. Turné vers le foyer, il bâille et se frotte les mains.<br>
 « Quelles nouvelles de la route, mon bon monsieur ? » demande une voix qui s’élève du fond de la taverne.<br>
