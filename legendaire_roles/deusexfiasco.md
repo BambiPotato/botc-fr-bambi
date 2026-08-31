@@ -98,7 +98,7 @@ Ensuite, annoncez que vous avez fait une erreur.<br>
 Ajoutez le jeton « Oups » au Grimoire.
 </p>
 
-<div class="botc-note" style="margin-left:0; padding-left:15px;">
+<div class="botc-note">
 N'oubliez pas que les rôles Légendaires n’ont pas été conçus pour enrichir l’expérience de jeu.<br>
 Le but de ces rôles est d’aider le Conteur à être un maître du jeu efficace, compréhensif et inclusif.
 </div>
