@@ -121,14 +121,14 @@ Si vous avez créé votre propre liste de rôles à l'aide de <a href="https://s
 <hr class="legendaire">
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:5px;">
-1. <a href="#-comment-conter" style="color:#f5f5f5; text-decoration:none;">Comment Conter</a><br>
-2. <a href="#-interaction-accessibilite" style="color:#f5f5f5; text-decoration:none;">Interactions sociales et accessibilité</a><br>
-3. <a href="#-script-personnalises" style="color:#f5f5f5; text-decoration:none;">Scripts Personnalisés</a><br>
-4. <a href="#-experimental" style="color:#f5f5f5; text-decoration:none;">Expérimental</a>
+1. <a href="#comment-conter" style="color:#f5f5f5; text-decoration:none;">Comment Conter</a><br>
+2. <a href="#interaction-accessibilite" style="color:#f5f5f5; text-decoration:none;">Interactions sociales et accessibilité</a><br>
+3. <a href="#script-personnalises" style="color:#f5f5f5; text-decoration:none;">Scripts Personnalisés</a><br>
+4. <a href="#experimental" style="color:#f5f5f5; text-decoration:none;">Expérimental</a>
 </p>
 
 
-## <span id="comment-conter" style="color:#d4a76a;">Commment Conter</span>
+<h2 id="comment-conter"><span style="color:#d4a76a;">Commment Conter</span></h2>
 <hr class="legendaire">
 
 <p class="botc-flavour-text dropcap" style="margin:0;">
@@ -164,7 +164,7 @@ Pour plus d’informations sur les effets spécifiques des rôles Légendaires e
 </p>
 
 
-## <span id="interaction-accessibilite" style="color:#d4a76a;">Interactions sociales et accessibilité</span>
+<h2 id="interaction-accessibilite"><span style="color:#d4a76a;">Interactions sociales et accessibilité</span></h2>
 <hr class="legendaire">
 
 <div style="text-align:center; display:inline-block; margin:10px;">
@@ -203,7 +203,7 @@ Pour plus d’informations sur les effets spécifiques des rôles Légendaires e
 </div>
 
 
-## <span id="script-personnalises" style="color:#d4a76a;">Scripts personnalisés</span>
+<h2 id="script-personnalises"><span style="color:#d4a76a;">Scripts personnalisés</span></h2>
 <hr class="legendaire">
 
 <div style="text-align:center; display:inline-block; margin:10px;">
@@ -232,8 +232,7 @@ Pour plus d’informations sur les effets spécifiques des rôles Légendaires e
 </div>
 
 
-
-## <span id="experimental" style="color:#d4a76a;">Expérimental</span>
+<h2 id="experimental"><span style="color:#d4a76a;">Expérimental</span></h2>
 <hr class="legendaire">
 
 <div style="text-align:center; display:inline-block; margin:10px;">
