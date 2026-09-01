@@ -24,7 +24,7 @@ image: /images/Icon_toymaker.png
 
 <hr class="legendaire">
 
----<!-- ===== INFORMATIONS ===== -->
+<!-- ===== INFORMATIONS ===== -->
 <h2 style="color:#f5f5f5;">Informations</h2>
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; padding-left:0; list-style-position:inside;">
   <li><strong>Type :</strong> <a href="../legendaire.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Légendaire</a></li>
