@@ -74,7 +74,7 @@ image: /images/Generic_traveller.png
     <li><a href="./bishop.html" style="color:#9b59b6; text-decoration:none;">Évêque</a></li>
   </ul>
 
-  <p style="font-weight:bold; color:#e0b97a; margin-bottom:4px;">Expérimentaux</p>
+  <p style="font-weight:bold; color:#e0b97a; margin-bottom:4px;">Expérimental</p>
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:6px;">
     <li><a href="./cacklejack.html" style="color:#9b59b6; text-decoration:none;">Déphasé</a></li>
     <li><a href="./gangster.html" style="color:#9b59b6; text-decoration:none;">Gangster</a></li>
