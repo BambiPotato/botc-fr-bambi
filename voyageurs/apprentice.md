@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Apprenti
-description: " Lors de votre première nuit, vous gagnez une capacité de Villageois si vous êtes bon, ou une capacité de Sbire si vous êtes maléfique." 
+description: " Lors de votre 1re nuit, vous gagnez une capacité de Villageois (si bon) ou une capacité de Sbire (si maléfique). " 
 image: /images/Icon_apprentice.png
 ---
 
@@ -71,11 +71,11 @@ image: /images/Icon_apprentice.png
 <h2 style="color:#9b59b6;">Résumé</h2>
 <hr class="voyageur">
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong> « Lors de votre première nuit, vous gagnez une capacité de <span style="color:#f5f5f5; font-weight:bold;">Villageois</span> si vous êtes bon, ou une capacité de <span style="color:#f5f5f5; font-weight:bold;">Sbire</span> si vous êtes maléfique. »</strong>
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
+« Lors de votre 1re nuit, vous gagnez une capacité de Villageois (si bon) ou une capacité de Sbire (si maléfique). »
 </p>
 
-<p class="botc-flavour-text dropcap" style="margin:0; color:#f5f5f5; font-size:18px; line-height:1.7;">
+<p class="botc-flavour-text dropcap" style="margin:0; color:#f5f5f5; font-size:20px; line-height:1.7;">
 L’APPRENTI a soit une capacité de Villageois, soit de Sbire.
 </p>
 
@@ -91,7 +91,7 @@ L’APPRENTI a soit une capacité de Villageois, soit de Sbire.
 <h2 style="color:#9b59b6;">Comment Conter</h2>
 <hr> 
 
-<p class="botc-flavour-text dropcap" style="margin:0; color:#f5f5f5; font-size:18px; line-height:1.7;">
+<p class="botc-flavour-text dropcap" style="margin:0; color:#f5f5f5; font-size:20px; line-height:1.7;">
 Instructions au Conteur
 </p>
 
@@ -109,17 +109,17 @@ Il est presque obligatoire de choisir une capacité de rôle qui n’est pas en 
 <h2 style="color:#9b59b6;">Exemples</h2>
 <hr> 
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
 L’Apprenti (maléfique) acquiert la capacité de l’<a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>.<br>
 Cette nuit-là, il tue le <a href="../bmr_roles/fou.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fou du roi</a>.
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
 L’Apprenti (bon) acquiert la capacité du <a href="../bmr_roles/fou.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fou du roi</a>.<br>
 Il est exilé, mais ne meurt pas. Bien que les capacités n’affectent pas les exils, on considère que le Voyageur meurt après que l’exil a été prononcé. Un Apprenti avec la capacité du <a href="../bmr_roles/fou.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fou du roi</a> reste donc en vie au lieu de mourir.
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
 L’Apprenti (bon) acquiert la capacité de la <a href="../bmr_roles/femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de chambre</a>.<br>
 Désormais, il apprend qui se réveille la nuit. Plus tard, le <a href="../bmr_roles/parieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Parieur</a> devine que l’Apprenti est la <a href="../bmr_roles/femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de chambre</a>.<br>
 Le <a href="../bmr_roles/parieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Parieur</a> meurt, car l’Apprenti n’est pas la <a href="../bmr_roles/femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de chambre</a>.
