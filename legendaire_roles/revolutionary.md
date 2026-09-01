@@ -99,7 +99,7 @@ Le Révolutionnaire ne doit être en jeu que si les deux joueurs le souhaitent. 
   Matt tire l’<a href="../bmr_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>, et Julian tire le <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>.<br>
   Ils peuvent discuter en utilisant la langue des signes afin que Matt puisse participer.</li><br>
 
-  <li>Hannah a 12 ans. Elle a envie de jouer, mais ne comprend pas les subtilités de tous les rôles. Elle obtient la <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> et fait équipe avec son père, qui est l' <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>.</li>
+  <li>Hannah a 12 ans. Elle a envie de jouer, mais ne comprend pas les subtilités de tous les rôles. Elle obtient le <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> et fait équipe avec son père, qui est l' <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>.</li>
 </ul>
 
 
