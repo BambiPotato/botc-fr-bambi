@@ -83,14 +83,14 @@ Au début de la partie, annoncez que l’Esprit d’ivoire est en jeu. Ajoutez l
 Si un joueur devait devenir maléfique et que l’Esprit d’ivoire est marqué <strong>MALÉFIQUES AU MAXIMUM</strong>, ce joueur reste bon.
 </p>
 
-<hr class="legendaire">
+
 
 <!-- ===== EXEMPLES ===== -->
 <h2 style="color:#d4a76a;">Exemples</h2>
 <hr class="legendaire">
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.8; margin-left:0; padding-left:0; list-style-position:inside;">
-  <li>Le <a href="../sv_roles/fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a> attaque un Marginal et crée un joueur <span style="color:#d45b5b;">maléfique</span> supplémentaire.<br>
+  <li>Le <a href="../sv_roles/fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a> attaque un Marginal et crée un joueur maléfique supplémentaire.<br>
   Plus tard, l’<a href="../bmr_roles/avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a> choisit le <a href="../bmr_roles/brute.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gros bras</a> pendant la nuit : normalement, le <a href="../bmr_roles/brute.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gros bras</a> deviendrait <span style="color:#d45b5b;">maléfique</span>, mais comme il y a déjà <strong>un</strong> maléfique supplémentaire, le <a href="../bmr_roles/brute.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gros bras</a> garde son alignement du Bien.</li><br>
 
   <li>Le <a href="../bmr_roles/brute.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gros bras</a> est maléfique.<br>
