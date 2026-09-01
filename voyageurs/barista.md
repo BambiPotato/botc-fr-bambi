@@ -12,7 +12,7 @@ image: /images/Icon_barista.png
   </a>
 </p>
 
-<hr class="voyageur">
+<hr class="explication">	
 
 <!--  Barista -->
 
@@ -63,7 +63,7 @@ image: /images/Icon_barista.png
 </p>
 
 <p style="text-align:center;">
-  <a href="../sv.html" style="color:#9b59b6; font-weight:bold; text-decoration:none; font-size:22px;">Sects & Violets</a>
+  <a href="../sv.html" style="color:#9b59b6; font-weight:bold; text-decoration:none; font-size:25px;">Sects & Violets</a>
 </p>
 
 
@@ -76,7 +76,7 @@ image: /images/Icon_barista.png
 </p>
 
 <p class="botc-flavour-text dropcap" style="margin:0; color:#f5f5f5; font-size:20px; line-height:1.7;">
-LA BARISTA rend les joueurs libres de toute ivresse et empoisonnement, ou leur permet d’agir deux fois.
+LA BARISTA rend les joueurs sobres et sains, ou leur permet d'agir deux fois.
 </p>
 
 <ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0; list-style-position:inside;">
@@ -102,7 +102,7 @@ Un joueur marqué <strong>SOBRE ET SAIN</strong> est sobre et sain (même s’il
 </p>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
-Un joueur marqué <strong>AGIT DEUX FOIS</strong> agit deux fois au moment opportun. (Si la capacité est facultative, il peut l’utiliser deux fois. Si elle est obligatoire, il doit l’utiliser deux fois.) Utilisez les jetons ? de la Barista si nécessaire pour remplacer les jetons propres au rôle ainsi amélioré.
+Un joueur marqué <strong>AGIT DEUX FOIS</strong> agit deux fois au moment opportun. (Si la capacité est facultative, il peut l’utiliser deux fois. Si elle est obligatoire, il doit l’utiliser deux fois.) Utilisez les jetons <strong>?</strong> de la Barista si nécessaire pour remplacer les jetons propres au rôle ainsi amélioré.
 </p>
 
 <div class="botc-note" style="font-size:20px; margin-left:0; padding-left:0;">
@@ -156,7 +156,7 @@ Conseils & Astuces (si vous êtes maléfique)
   <li>Si des joueurs maléfiques sont choisis pour bénéficier de votre pouvoir de Barista, encouragez-les à prétendre avoir learned qu'ils sont sains, d'esprit clair et qu'ils obtiennent une vraie information. Dans <a href="../sv.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Sects & Violets</a>, toute information doit être traitée avec suspicion... mais vous êtes le rôle qui apporte la certitude. Un joueur maléfique donnant de fausses informations sous le couvert de prétendre se savoir sain et d'esprit clair peut faire basculer la partie en faveur de l'équipe maléfique.</li>
 </ul>
 
-<hr class="voyageur">
+<hr class="explication">	
 
 
 <ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0; list-style-position:inside;">
