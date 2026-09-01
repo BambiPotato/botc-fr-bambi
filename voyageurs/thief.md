@@ -11,6 +11,8 @@ image: /images/Icon_thief.png
   </a>
 </p>
 
+<hr class="explication">
+
 <!--  Voleuse -->
 
 <div style="text-align:center; margin: 20px 0;">
@@ -19,7 +21,7 @@ image: /images/Icon_thief.png
   <span style="color:#9b59b6; font-weight:bold; font-size:28px;">Voleuse</span>
 </div>
 
----
+<hr class="voyageur">
 
 ##  <span style="color:#f5f5f5;">Informations</span>
 
@@ -44,7 +46,6 @@ image: /images/Icon_thief.png
   </li>
 </ul>
 
----
 
 
 <p style="color:#f5f5f5; font-style:italic; font-size:17px; text-align:center;">
@@ -53,7 +54,7 @@ S’pas moi qu’a volé la mallette du maire avec tous ces papiers.<br>
 En plus, c’était trop lourd. »
 </p>
 
----
+<hr class="voyageur">
 
 ##  Apparaît dans
 
@@ -67,16 +68,17 @@ En plus, c’était trop lourd. »
    <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none; font-size:22px;">Trouble Brewing</a>
 </p>
 
----
+
 
 ##  Résumé
+<hr class="voyageur">
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong> « Chaque nuit, choisissez un joueur (sauf vous-même) : son vote compte en négatif le lendemain. »</strong>
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>LA VOLEUSE</strong> vole les votes d’un joueur, rendant ce vote négatif.<br>
+<p class="botc-flavour-text dropcap" style="margin-top:0;">
+LA VOLEUSE vole les votes d’un joueur, rendant ce vote négatif.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -86,11 +88,14 @@ En plus, c’était trop lourd. »
   <li>Puisque le Conteur compte le nombre de votes à voix haute en suivant le cercle des joueurs,<br> tout le monde connaît le joueur choisi par la Voleuse.</li>
 </ul>
 
----
+
 
 ## Comment Conter
+<hr class="voyageur">
 
-<strong>Instructions au Conteur</strong>
+<p class="botc-flavour-text dropcap" style="margin-top:0;">
+Instructions au Conteur
+</p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Chaque nuit, réveillez la Voleuse. Elle désigne n'importe quel joueur.<br>
@@ -98,9 +103,10 @@ Marquez le joueur choisi du jeton <strong>VOTE NÉGATIF</strong> de la Voleuse.<
 Chaque fois que vous comptez le vote d'un joueur marqué <strong>VOTE NÉGATIF</strong>,<br> comptez-le comme un vote en moins plutôt qu'un vote en plus. (Comptez à voix haute, comme d'habitude.)
 </p>
 
----
+
 
 ##  Exemples
+<hr class="voyageur">
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 La Voleuse choisit Marianna. Le lendemain, lors du décompte du premier vote,<br> le Conteur compte « 1... 2... 3... 2... 3... 4... 5. »<br>
@@ -111,10 +117,10 @@ La Voleuse choisit Marianna. Le  <a href="./bureaucrat.html" style="color:#9b59b
 </ul>
 
 
----
 
 
 ##  Conseils et Astuces si vous êtes <span style="color:#4ea3ff;">Bon</span>
+<hr class="voyageur">
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Servez-vous de votre pouvoir pour affaiblir les votes des joueurs ou des joueuses que vous pensez <span style="color:#d45b5b;">Maléfiques</span>.</li>
@@ -127,20 +133,21 @@ La Voleuse choisit Marianna. Le  <a href="./bureaucrat.html" style="color:#9b59b
   Une combinaison destructrice contre les forces du Mal.</li>
 </ul>
 
----
+
 
 ##  Conseils et Astuces si vous êtes <span style="color:#d45b5b;">Maléfique</span>
+<hr class="voyageur">
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>Visez des joueurs du camp du Bien qui commencent à comprendre la partie, sans leur dire qu’ils votent négativement.</li>
   <li>Mentir sur votre cible sème la confusion et fait échouer des exécutions cruciales.</li>
   <li>Choisissez parfois vos alliés maléfiques et prévenez-les : ils sauront comment exploiter leur vote négatif.</li>
   <li>Alternez vos cibles entre Démon et Sbire selon le contexte, pour maintenir votre couverture.</li>
-  <li>Le dernier jour, ciblez un <span style="color:#d45b5b;">Démon</span> et assurez-vous qu’il en soit conscient : un vote négatif à ce moment peut vous offrir la victoire.</li>
+  <li>Lors du dernier jour, ciblez un <span style="color:#d45b5b;">Démon</span> et assurez-vous qu’il en soit conscient : un vote négatif à ce moment peut vous offrir la victoire.</li>
   <li>Choisir un joueur mort maléfique peut aussi être stratégique : les morts sont souvent considérés comme fiables.</li>
 </ul>
 
----
+<hr class="explication">
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
