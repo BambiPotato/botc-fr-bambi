@@ -68,31 +68,28 @@ image: /images//Generic_fabled.png
 
 <h2>Synopsis</h2>
 <p class="botc-flavour-text dropcap" style="margin:0;">
-Un cocher fatigué savoure son hydromel à petites gorgées, assis au coin du feu. Se laissant aller à la chaleur des flammes, il s’enfonce dans son siège. Tourné vers le foyer, il bâille et se frotte les mains.
+Un cocher fatigué savoure son hydromel à petites gorgées, assis au coin du feu. Se laissant aller à la chaleur des flammes, il s’enfonce dans son siège. Tourné vers le foyer, il bâille et se frotte les mains. <br> <br>
 </p>
 
 <p style="text-align:left; color:#f5f5f5; font-weight:normal; font-size:20px; margin:0 0 8px 0;">
 « Quelles nouvelles de la route, mon bon monsieur ? » demande une voix qui s’élève du fond de la taverne.<br>
 « Racontez-nous une histoire triste avant de passer à table. »<br>
 « Ou, si c’est une histoire drôle, nous vous offrirons un verre. »<br>
-Le cocher pousse un long soupir et se prépare à satisfaire son auditoire. Il prend une grande inspiration et fait face aux autres clients. Dans une sorte d’admiration craintive, tous retiennent leur souffle, attendant l’histoire.
+Le cocher pousse un long soupir et se prépare à satisfaire son auditoire. Il prend une grande inspiration et fait face aux autres clients. Dans une sorte d’admiration craintive, tous retiennent leur souffle, attendant l’histoire. <br> <br>
 </p>
 
 <p style="text-align:left; color:#f5f5f5; font-weight:normal; font-size:20px; margin:0 0 8px 0;">
-« C’est vrai, commence-t-il, sans mentir, j’ai voyagé loin, et longtemps. J’ai traversé le désert, et j’ai parcouru les mers. J’ai vu des bébés renaître, j’ai connu de grands hommes, qui sont morts aujourd’hui. Mais il y a aussi ceux que je ne peux pas connaître, une route que je n’ai pas encore arpentée. Ils vivent dans des lieux où le cheval ne peut se rendre, et que le faucon ne peut voir.
+« C’est vrai, commence-t-il, sans mentir, j’ai voyagé loin, et longtemps. J’ai traversé le désert, et j’ai parcouru les mers. J’ai vu des bébés renaître, j’ai connu de grands hommes, qui sont morts aujourd’hui. Mais il y a aussi ceux que je ne peux pas connaître, une route que je n’ai pas encore arpentée. Ils vivent dans des lieux où le cheval ne peut se rendre, et que le faucon ne peut voir. Même l’œil le plus affûté n’est pas capable de les repérer. <br> <br>
 </p>
 
 <p style="text-align:left; color:#f5f5f5; font-weight:normal; font-size:20px; margin:0 0 8px 0;">
-Même l’œil le plus affûté n’est pas capable de les repérer. Faites cercle autour de cette cheminée, mes amis, et mettez vos chevaux à l’écurie. Ouvrez grand vos oreilles et mettez vos petites conversations de côté.
-</p>
-
-<p style="text-align:left; color:#f5f5f5; font-weight:normal; font-size:20px; margin:0 0 8px 0;">
+« Faites cercle autour de cette cheminée, mes amis, et mettez vos chevaux à l’écurie. Ouvrez grand vos oreilles et mettez vos petites conversations de côté.
 Car je vais maintenant vous parler de ceux que les contes appellent les... »
 </p>
 
 <div style="text-align:center;">
 
-<h1 style="color:#d4a76a; margin-bottom:30px;">
+<h1 style="color:#d4a76a; margin-bottom:20px;">
 Les Légendaires
 </h1>
 
@@ -105,22 +102,18 @@ Les Légendaires
 ##  <span style="color:#d4a76a;">Présentation</span>
 <hr class="legendaire">
 
-Les **Légendaires** sont des rôles réservés aux **Conteurs**.  
-Ils modifient légèrement les conditions de jeu et sont souvent inclus **au début d’une partie**.
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Les Légendaires sont des rôles pour le Conteur. Ils ressemblent plus à des règles spéciales qu'à de véritables rôles à part entière. Ils ne peuvent pas être tués et ils modifient le jeu lui-même.<br>
+Les rôles Légendaires ne sont pas un ingrédient bonus destiné à pimenter une partie par simple rebondissement — ils aident le Conteur à animer des parties plus équilibrées, plus inclusives et à résoudre des problèmes concrets qui peuvent survenir.
+</p>
 
-Leur objectif est d’**adapter la partie** aux besoins du groupe, ou de **corriger une contrainte réelle**.  
-Ces rôles permettent à la partie de rester fluide, inclusive et équilibrée.
-
-Découvrez ici les **rôles légendaires**, ces figures mythiques qui accompagnent les conteurs pour préserver l’équilibre, l’équité et la magie de chaque partie.
-
-Par exemple :  
-- Si un joueur a une difficulté de compréhension, un Légendaire peut l’aider à participer.  
-- Si un nouveau joueur craint de mourir tôt, un Légendaire peut la protéger.  
-- Si trop de joueurs veulent jouer en même temps, un Légendaire peut accélérer le jeu.  
-- Si quelqu’un de timide a du mal à se faire entendre, un Légendaire peut lui donner plus d’impact.  
-- Si la partie doit s’arrêter plus tôt que prévu, un Légendaire peut désigner un vainqueur.  
-- Si vous créez votre propre script personnalisé, un Légendaire peut enrichir l’expérience.
-
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Par exemple, si un joueur présente un handicap intellectuel qui l'empêcherait normalement de comprendre les règles du jeu ou de communiquer avec le groupe, un Légendaire peut lui permettre de participer.<br>
+Si un nouveau joueur craint de mourir trop tôt, un Légendaire peut le protéger. S'il y a trop de joueurs pour le temps imparti, un Légendaire peut accélérer le déroulement de la partie.<br>
+Si quelqu'un est timide ou réservé et a du mal à capter l'attention du groupe, un Légendaire peut lui donner la parole sans interruption.<br>
+Si la partie doit se terminer plus tôt que prévu, un Légendaire peut désigner un vainqueur.<br>
+Si vous avez créé votre propre liste de rôles à l'aide de <a href="https://script.bloodontheclocktower.com/" target="_blank" rel="noopener noreferrer" style="color:#d4a76a; font-weight:bold; text-decoration:none;">l'outil de création de scripts</a>, un Légendaire peut contribuer à la rendre plus amusante.
+</p>
 
 
 
@@ -128,14 +121,50 @@ Par exemple :
 <hr class="legendaire">
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:5px;">
-1. <a href="#-toute-partie" style="color:#f5f5f5; text-decoration:none;">Toute Partie</a><br>
-2. <a href="#-parties-personnalisees" style="color:#f5f5f5; text-decoration:none;">Parties Personnalisées</a><br>
-3. <a href="#-experimentaux" style="color:#f5f5f5; text-decoration:none;">Expérimentaux</a>
+1. <a href="#-comment-conter" style="color:#f5f5f5; text-decoration:none;">Comment Conter</a><br>
+2. <a href="#-interaction-accessibilite" style="color:#f5f5f5; text-decoration:none;">Interactions sociales et accessibilité</a><br>
+3. <a href="#-script-personnalises" style="color:#f5f5f5; text-decoration:none;">Scripts Personnalisés</a><br>
+4. <a href="#-experimental" style="color:#f5f5f5; text-decoration:none;">Expérimental</a>
 </p>
 
 
+## <span id="comment-conter" style="color:#d4a76a;">Commment Conter</span>
+<hr class="legendaire">
 
-##  <span style="color:#d4a76a;">Interactions sociales et accessibilité</span>
+<p class="botc-flavour-text dropcap" style="margin:0;">
+Instructions au Conteur
+</p>
+
+<p class="dropcap" style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+LES RÔLES LÉGENDAIRES SONT DESTINÉS À VOUS, LE CONTEUR. Ils se rapprochent davantage de règles spéciales que de rôles à part entière. Ils permettent à certains joueurs de participer à une partie de BOTC alors qu’ils n’auraient normalement pas pu le faire, et aident la partie à se dérouler plus harmonieusement lorsqu’un imprévu du monde réel survient. Les rôles Légendaires servent à résoudre des situations qui sortent du cadre habituel du jeu.
+</p>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Par exemple, un rôle Légendaire peut permettre à un joueur ayant des difficultés de compréhension ou de communication de participer, protéger un nouveau joueur d’une élimination trop rapide, accélérer une partie trop longue, ou donner la parole à un joueur timide. Si la partie doit se terminer plus tôt que prévu, un rôle Légendaire peut désigner un vainqueur. Si vous avez créé votre propre liste de rôles à l’aide de l’<a href="https://script.bloodontheclocktower.com/" target="_blank" rel="noopener noreferrer" style="color:#d4a76a; font-weight:bold; text-decoration:none;">OUTIL DE SCRIPT</a>, un rôle Légendaire peut également contribuer à rendre la partie plus intéressante.
+</p>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+<strong>N’utilisez les rôles Légendaires que lorsque c’est nécessaire.</strong> Ils peuvent être extrêmement utiles pour rendre vos parties plus agréable et plus accessibles à tous types de joueurs, mais les ajouter systématiquement à chaque partie est inutile et finit vite par lasser.
+</p>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+<strong>Pour inclure un rôle Légendaire dans votre partie</strong>, choisissez-en simplement un, annoncez au groupe quel rôle Légendaire est en jeu, puis placez son jeton de rôle au centre du côté gauche du Grimoire afin de vous rappeler son effet. Certains rôles Légendaires sont ajoutés au début de la partie, tandis que d’autres peuvent être ajoutés ou retirés à tout moment. Vous pouvez également inclure plusieurs rôles Légendaires si vous le souhaitez.
+</p>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+<strong>Les rôles Légendaires ne peuvent ni mourir ni perdre leur capacité.</strong> Vous êtes le Conteur, pas un joueur : vos rôles Légendaires sont donc immunisés contre tous les effets du jeu, y compris la mort, l’ivresse et l’empoisonnement.
+</p>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+<strong>Comme les <a href="voyageurs/voyageurs.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Voyageurs</a>, les rôles Légendaires ne comptent pas comme des joueurs pour la condition de victoire du Mal « lorsqu’il ne reste que deux joueurs en vie ».</strong>
+</p>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Pour plus d’informations sur les effets spécifiques des rôles Légendaires et sur la manière dont ils peuvent enrichir vos parties, consultez l’almanach <a href="voyageurs/voyageurs.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">VOYAGEURS</a> & les LÉGENDAIRES sur cette page.
+</p>
+
+
+## <span id="interaction-accessibilite" style="color:#d4a76a;">Interactions sociales et accessibilité</span>
 <hr class="legendaire">
 
 <div style="text-align:center; display:inline-block; margin:10px;">
@@ -174,8 +203,7 @@ Par exemple :
 </div>
 
 
-
-##   <span style="color:#d4a76a;">Scripts personnalisés</span>
+## <span id="script-personnalises" style="color:#d4a76a;">Scripts personnalisés</span>
 <hr class="legendaire">
 
 <div style="text-align:center; display:inline-block; margin:10px;">
@@ -205,8 +233,7 @@ Par exemple :
 
 
 
-
-##  <span style="color:#d4a76a;">Expérimental</span>
+## <span id="experimental" style="color:#d4a76a;">Expérimental</span>
 <hr class="legendaire">
 
 <div style="text-align:center; display:inline-block; margin:10px;">
@@ -226,14 +253,14 @@ Par exemple :
   <li>
     <a href="/botc-fr-bambi/" 
        style="color:#f5f5f5; font-weight:bold; text-decoration:none;">
-      Retour à l’accueil
+      • Retour à l’accueil
     </a>
   </li>
 
   <li>
     <a href="/botc-fr-bambi/legendaire.html"
    style="color:#d4a76a; font-weight:bold; text-decoration:none;">
-  Retour aux Légendaires
+  • Retour aux Légendaires
 </a>
   </li>
 </ul>
