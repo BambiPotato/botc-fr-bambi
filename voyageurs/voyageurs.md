@@ -96,7 +96,7 @@ image: /images/Generic_traveller.png
       <li><a href="#trouble-brewing" style="color:#b58b52; text-decoration:none;">Trouble Brewing</a></li>
       <li><a href="#sects-violets" style="color:#d67bff; text-decoration:none;">Sects & Violets</a></li>
       <li><a href="#bad-moon-rising" style="color:#ffa64d; text-decoration:none;">Bad Moon Rising</a></li>
-      <li><a href="#experimentaux" style="color:#e0b97a; text-decoration:none;">Expérimentaux</a></li>
+      <li><a href="#experimental" style="color:#e0b97a; text-decoration:none;">Expérimental</a></li>
     </ul>
   </li>
 </ul>
@@ -106,15 +106,15 @@ image: /images/Generic_traveller.png
 <h2 id="synopsis"><span style="color:#9b59b6; font-weight:bold;">Synopsis</span></h2>
 <hr class="voyageur">
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<p class="botc-flavour-text dropcap" style="margin:0;">
 Une boue glissante recouvre les pavés d’un village sans nom, au cœur de la nuit. Debout sous la pluie, un homme attend. Le bord de son chapeau, qui fait ruisseler l’eau de pluie, crée une sorte de cascade dans la pâleur de la lune. Elle vient se fracasser à ses pieds, éclaboussant ses bottes.
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
 L’homme reste immobile, semblant jauger les alentours. Tout en lui indique qu’il sait pourquoi il est venu ici. Il a une mission à accomplir. Tout autour de lui, les villageois l’observent en silence, à l’abri de leurs rideaux. Eux aussi savent pourquoi cet homme est là. Leur inquiétude ne vient pas du pouvoir que cet homme exerce. Elle concerne plutôt la manière dont il va en user.
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
 On dit qu’il n’est pas de peur supérieure à celle de l’inconnu. Cet homme, cet inconnu, avec ses intentions inconnues, est l’incarnation même de cette peur. Peut-on se fier à un homme qui n’a ni foyer, ni allégeance, ni croyance ? Avons-nous vraiment besoin de lui ? Avons-nous vraiment besoin de...
 </p>
 
@@ -343,7 +343,7 @@ Dans ce cas, le joueur échange son jeton de vie en conséquence. Les Voyageurs 
 </div>
 
 <!-- ===== EXPERIMENTAUX ===== -->
-<h3 id="experimentaux"><span style="color:#e0b97a;">Expérimentaux</span></h3>
+<h3 id="experimental"><span style="color:#e0b97a;">Expérimental</span></h3>
 <hr> 
 
 <a href="/botc-fr-bambi/experimentaux.html" style="text-decoration:none;">
