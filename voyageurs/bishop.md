@@ -1,17 +1,20 @@
 ---
 layout: default
 title: Évêque
-description: Seul le Conteur peut nommer. Chaque jour, au moins un joueur du camp opposé à celui de l’Évêque doit être nommé.
+description: "Seul le Conteur peut nommer des joueurs. Au moins 1 joueur adverse doit être nommé chaque jour."
 image: /images/Icon_bishop.png
 ---
 
-<p align="left">
+
+<p align="left" style="margin-left:0; padding-left:0;">
   <a href="/botc-fr-bambi/">
     <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
-<!--  Évêque -->
+<hr class="explication">	
+
+<!-- Évêque -->
 
 <div style="text-align:center; margin: 20px 0;">
   <img src="../images/Icon_bishop.png" alt="Évêque" width="360" style="border-radius:12px; margin-top:10px;">
@@ -19,24 +22,22 @@ image: /images/Icon_bishop.png
   <span style="color:#9b59b6; font-weight:bold; font-size:28px;">Évêque</span>
 </div>
 
----
+<hr class="voyageur">
 
 ## Informations
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li><strong>Type :</strong> 
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0; list-style-position:inside;">
+  <li>
+    <strong>Type :</strong>
     <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>
   </li>
-
-  <li><strong>Édition :</strong> 
+  <li>
+    <strong>Édition :</strong>
     <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a>
   </li>
-
-  <li><strong>Artiste :</strong> 
-    <span style="color:#f5f5f5;">John Grist</span>
-  </li>
-
-  <li><strong>Nom original :</strong>
+  <li><strong>Artiste :</strong> <em>John Grist</em></li>
+  <li>
+    <strong>Nom original :</strong>
     <a href="https://wiki.bloodontheclocktower.com/Bishop"
        target="_blank"
        rel="noopener noreferrer"
@@ -46,14 +47,14 @@ image: /images/Icon_bishop.png
   </li>
 </ul>
 
-
-<p style="color:#f5f5f5; font-style:italic; font-size:17px; text-align:center;">
-« In nomine Patris, et Filii, et Spiritus Sancti… »
+<p style="color:#f5f5f5; font-style:italic; font-size:20px; text-align:center; margin-left:0; padding-left:0;">
+« In nomine Patris, et Filii, et Spiritus Sancti...Volumus Dei. <br> Deus vult nobis. »
 </p>
 
----
+<hr class="voyageur">
 
-##  Apparaît dans
+
+## Apparaît dans
 
 <p style="text-align:center; margin: 12px 0 6px;">
   <a href="../bmr.html" style="text-decoration:none;">
@@ -62,88 +63,95 @@ image: /images/Icon_bishop.png
 </p>
 
 <p style="text-align:center;">
-   <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none; font-size:22px;">Bad Moon Rising</a>
+  <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none; font-size:22px;">Bad Moon Rising</a>
 </p>
 
----
 
-##  Résumé
+<!-- ===== RESUME ===== -->
+<h2 style="color:#9b59b6;">Résumé</h2>
+<hr class="voyageur">
 
-**« Seul le Conteur peut nommer. Chaque jour, au moins un joueur du camp opposé à celui de l’Évêque doit être nommé. »**
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-L’<strong>Évêque</strong> retire le droit de nomination à tout le monde&nbsp;: <strong>seul le Conteur</strong> nomine, et il doit <strong>inclure au moins un joueur d’alignement opposé</strong> chaque jour.
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0; padding-left:0;">
+« Seul le Conteur peut nommer des joueurs. Au moins 1 joueur adverse doit être nommé chaque jour. »
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li>Le Conteur peut nominer autant de personnes qu’il souhaite.</li>
-  <li>Le vote reste inchangé&nbsp;: tous les joueurs peuvent voter.</li>
-  <li>La phase des nominations ne peut pas se terminer sans qu’au moins un opposant ait été nommé.</li>
-  <li>Si l’Évêque est exilé, les règles de nomination redeviennent normales.</li>
+<p class="botc-flavour-text dropcap" style="margin:0; color:#f5f5f5; font-size:20px; line-height:1.7;">
+L’ÉVÊQUE empêche les joueurs de nommer qui que ce soit. <br>À la place, seul le Conteur peut nommer des joueurs.
+</p>
+
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0; list-style-position:inside;">
+  <li>Le Conteur nomme des joueurs lors de l’étape de nomination à la place des joueurs, et le Conteur peut nommer autant de joueurs qu’il le veut. <br>Pour que ce ne soit pas injuste, il doit nommer chaque jour au moins un joueur de l’alignement opposé à celui de l’Évêque.</li>
+  <li>L’Évêque ne change pas qui peut voter, et qui ne le peut pas. <br>Chaque joueur peut le faire selon les règles normales.</li>
+  <li>Puisque les Voyageurs sont exilés et non exécutés, n’importe quel joueur peut demander l’exil de l’Évêque ou d’un autre Voyageur.</li>
 </ul>
 
----
+<!-- ===== COMMENT CONTER ===== -->
+<h2 style="color:#9b59b6;">Comment Conter</h2>
+<hr> 
 
-## Comment Conter
+<p class="botc-flavour-text dropcap" style="margin:0; color:#f5f5f5; font-size:20px; line-height:1.7;">
+Instructions au Conteur
+</p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li>Au lever du jour, notez la contrainte&nbsp;: <em>nominer un opposant</em> (bon si l’Évêque est maléfique, maléfique s’il est bon).</li>
-  <li>Pendant la journée, seuls les choix du Conteur deviennent des nominations.</li>
-  <li>Il choisit librement le nombre de nominations (souvent 3 à 5).</li>
-  <li>Exil de l’Évêque&nbsp;=&nbsp;retour aux nominations classiques.</li>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Chaque jour à l’aube, marquez l’Évêque du jeton <strong>NOMMER JOUEUR MALÉFIQUE</strong> s’il est bon, ou du jeton <strong>NOMMER JOUEUR BON</strong> s’il est maléfique.
+</p>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Lors de l’étape de nomination, les joueurs ne peuvent pas nommer qui que ce soit, mais vous si. (Le vote se déroule normalement.)
+</p>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Lorsque vous nommez un joueur de l’alignement opposé à l’Évêque, retirez le jeton associé à l’Évêque. <br>Vous ne pouvez pas mettre fin à l’étape de nomination tant que l’Évêque est encore marqué de son jeton.
+</p>
+
+<div class="botc-note">
+Vous devriez nommer de trois à cinq joueurs chaque jour, dont au moins un joueur maléfique. <br>Vous n’êtes pas obligé de désigner le Démon chaque jour, mais vous devriez désigner tous les joueurs encore en vie lors du dernier jour. <br> C’est à vous de choisir les joueurs que vous nommez, mais il est préférable de nommer plus de joueurs maléfiques si l’Évêque est bon, et moins de joueurs maléfiques si l’Évêque est maléfique.
+</div>
+
+<!-- ===== EXEMPLES ===== -->
+<h2 style="color:#9b59b6;">Exemples</h2>
+<hr> 
+
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0; list-style-position:inside;">
+  <li>L’Évêque est bon. <br>Le premier jour, le Conteur nomme le Démon (le <a href="../bmr_roles/po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a>), un Sbire (l’<a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>) et deux Villageois dont la <a href="../bmr_roles/femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de chambre</a>. <br>Le deuxième jour, le Conteur désigne un Sbire et un Marginal.</li>
+  <li>L’Évêque est maléfique. <br>Le Conteur n’a nommé personne. <br>Cependant, le Conteur doit désigner au moins un joueur bon aujourd’hui. <br>Il choisit donc le <a href="../bmr_roles/menestrel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ménestrel</a>. <br>Le lendemain, le Conteur nomme quatre joueurs bons et le Démon. <br>L’Évêque est exilé ce jour-là. <br>Les joueurs peuvent désormais poursuivre l’étape de nomination normalement.</li>
 </ul>
 
----
+<!-- ===== CONSEILS & ASTUCES ===== -->
+<h2 style="color:#9b59b6;">Conseils & Astuces</h2>
+<hr> 
 
-## Exemples
+<p style="color:#9b59b6; font-size:20px; font-weight:bold; margin-bottom:8px; margin-left:0; padding-left:0;">
+Conseils & Astuces (si vous êtes bon)
+</p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li>L’<strong>Évêque bon</strong>.  
-  → Le Conteur nomine le <a href="../bmr_roles/po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a>, l’<a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> et deux <a href="../bmr_roles/chambermaid.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois (Femme de chambre)</a>.</li>
-
-  <li>L’<strong>Évêque maléfique</strong>.  
-  → Le Conteur n’a encore nommé personne. Il doit nominer au moins un bon&nbsp;: il choisit le <a href="../bmr_roles/minstrel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ménestrel</a>.  
-  → Le lendemain, il nomine quatre bons et le <a href="../bmr_roles/po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon (Po)</a>.  
-  → L’Évêque est exilé ce jour-là, les joueurs reprennent la main.</li>
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0; list-style-position:inside;">
+  <li>Portez une attention toute particulière à la personne que le Conteur nomme chaque jour. <br>Chaque jour, le Conteur doit nommer au moins un joueur maléfique. <br>Généralement, le Conteur ne nommera qu'un seul joueur maléfique et plusieurs joueurs bons. <br>Soyez attentif jour après jour et réduisez le cercle des joueurs maléfiques potentiels. <br>Par exemple, si le jour 1 le Conteur nomme le <a href="../bmr_roles/fou.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fou du roi</a>, la <a href="../bmr_roles/femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de chambre</a> et le <a href="../bmr_roles/bricoleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bricoleur</a>, puis que le jour suivant il nomme le <a href="../bmr_roles/bricoleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bricoleur</a>, l'<a href="../bmr_roles/exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a>, la <a href="../bmr_roles/grandmere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Grand-mère</a> et le <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a>, vous pouvez supposer que soit le <a href="../bmr_roles/bricoleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bricoleur</a> est maléfique, soit le <a href="../bmr_roles/bricoleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bricoleur</a> est bon et 1 joueur de chacun des autres groupes de rôles est maléfique.</li>
+  <li>Restez en vie. Vous savez que vous êtes bon. Vous savez que vous obtenez des informations utiles chaque jour. Mais les autres joueurs ne le savent pas. <br>Ce qu'ils voient, c'est probablement un joueur qui les empêche de nommer, et guère plus. <br>Vous devrez convaincre l'équipe bonne de vous garder en vie — même s'il est dans leur intérêt de le faire. <br>Partagez ce que vous apprenez, ou votez comme ils souhaitent que vous votiez — faites tout votre possible pour rester en vie assez longtemps pour rassembler des indices sur qui est bon et qui est maléfique.</li>
+  <li>Le dernier jour, le Conteur nommera à coup sûr le Démon. <br>Si le Conteur ne nomme que deux joueurs le dernier jour, vous aurez réduit les candidats potentiels au rôle de Démon à 2 joueurs au lieu de 3. <br>C'est considérable. <br>Si vous pouvez convaincre les autres joueurs que vous êtes bon, ils en tireront également bénéfice.</li>
+  <li>Vous devenez plus puissant à mesure que la partie avance. <br>S'il y a 12 joueurs en vie, le Conteur peut nommer beaucoup de joueurs. <br>Mais s'il n'y a que 4 joueurs en vie, le Conteur nommera probablement 4 joueurs ou moins. <br>Idéalement, vous voulez que le Conteur nomme 2 ou 3 joueurs dans une journée — moins il y en a, mieux c'est. <br>Bien que vous n'ayez aucun contrôle sur ce que fait le Conteur, ce que vous pouvez faire, c'est porter votre attention sur les moments où le moins de joueurs ont été nommés pendant la journée.</li>
 </ul>
 
----
 
-## Conseils & Astuces pour kes <span style="color:#4ea3ff;">Bons</span>
+<hr class="voyageur">
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li>Analysez la <strong>liste quotidienne des nommés</strong>&nbsp;: il doit y avoir au moins un maléfique.</li>
-  <li>Comparez les jours pour trouver les suspects récurrents.</li>
-  <li>En fin de partie, moins de nominations ciblent mieux le Démon.</li>
-  <li>Partagez vos déductions pour éviter l’exil prématuré.</li>
+
+<p style="color:#9b59b6; font-size:20px; font-weight:bold; margin-top:20px; margin-bottom:8px; margin-left:0; padding-left:0;">
+Conseils & Astuces (si vous êtes maléfique)
+</p>
+
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0; list-style-position:inside;">
+  <li>Faites tout votre possible pour convaincre le groupe que vous êtes bon. <br>Certains Voyageurs ne se soucient pas vraiment de savoir si le groupe croit qu'ils sont bons. <br>Le <a href="./judge.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Juge</a> ou le <a href="./voudon.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Vaudou</a>, par exemple, peuvent utiliser leur capacité et en tirer un bénéfice peu importe ce que pensent les joueurs bons. <br>Mais si les joueurs bons ont le moindre doute sur le fait que vous puissiez être maléfique, ils vous exileront immédiatement et votre capacité n'aura pas été très utile. <br>Cependant, si vous parvenez à survivre plusieurs jours, votre capacité est dévastatrice, car non seulement les joueurs maléfiques ne sont pas nommés (en général — le Conteur peut le faire de temps en temps pour garder les apparences), mais l'équipe bonne s'épuisera à déduire qui est maléfique en se basant sur les personnes nommées... et toutes leurs conclusions seront fausses.</li>
+  <li>Votez aussi souvent que vous le pouvez. <br>Vous avez l'excuse parfaite — le joueur nommé est probablement maléfique ! <br>Après tout... vous êtes le bon Évêque, n'est-ce pas ? <br>Si l'équipe bonne croit que vous êtes bon, elle devrait également voter pour chaque candidat à l'exécution. <br>Sans Évêque en jeu, il est possible que toutes les nominations de la journée soient des nominations de joueurs bons. <br>Mais avec un Évêque bon en jeu, il y a toujours une occasion de tuer un joueur maléfique. <br>Si vous avez convaincu le groupe que vous êtes bon... votez, votez, votez.</li>
+  <li>Le dernier jour, demandez au groupe s'il souhaite vous exiler. <br>La plupart des Conteurs nommeront le Démon le dernier jour quel que soit votre alignement, vous ne perdez donc pas grand-chose si vous mourez. <br>De plus, le fait que vous demandiez à être exilé contribue généralement à éviter que vous ne le soyez !</li>
+  <li>Chaque fois qu'une journée se termine sans que seuls des joueurs bons n'aient été nommés, passez autant de temps que possible le jour suivant à attirer l'attention du groupe sur le « fait » qu'au moins l'un des nommés d'hier était maléfique. <br>Si, disons, 4 joueurs ont été nommés hier, vous pouvez générer beaucoup de suspicions sur ces 4 joueurs, et peut-être en faire exécuter un (ou deux, ou trois !) les jours suivants. <br>Chaque jour où vous orientez l'attention de l'équipe bonne vers son propre massacre est un jour où le Démon vit, et où la balance des votes penche en faveur du mal. <br>Même si vous ne finissez pas par faire exécuter ces joueurs, détourner la discussion des sujets dangereux vers le sujet totalement inutile de « lequel de ces 4 joueurs est maléfique ? » vous permet de faire perdre du temps, de l'énergie et de la concentration à l'équipe bonne dans des distractions stériles.</li>
 </ul>
 
----
+<hr class="explication">	
 
-##  Conseils & Astuces pour les <span style="color:#d45b5b;">Maléfiques</span>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li>Soignez votre image pour éviter l’exil.</li>
-  <li>Profitez du rythme imposé&nbsp;: les maléfiques seront moins souvent nommés.</li>
-  <li>Votez souvent pour paraître fiable&nbsp;: « le Conteur devait nominer un maléfique ». </li>
-  <li>Si un jour ne comporte que des bons, exploitez-le pour semer le doute ensuite.</li>
-  <li>Proposer votre propre exil peut parfois vous sauver temporairement.</li>
-</ul>
-
----
-
-##  Rappels utiles
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li>Le Conteur doit nominer un opposant chaque jour.</li>
-  <li>L’Évêque peut être exilé comme tout Voyageur.</li>
-  <li>Il ne compte pas dans le nombre de joueurs vivants pour la condition de fin.</li>
-  <li>Exil&nbsp;=&nbsp;retour aux nominations normales.</li>
-</ul>
-
----
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0; list-style-position:inside;">
+  <li><a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
   <li> <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
 </ul>
