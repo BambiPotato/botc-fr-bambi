@@ -29,7 +29,7 @@ image: /images/Icon_beggar.png
 <ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0; list-style-position:inside;">
   <li>
     <strong>Type :</strong>
-    <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a>
+    <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>
   </li>
   <li>
     <strong>Édition :</strong>
@@ -72,7 +72,7 @@ image: /images/Icon_beggar.png
 <hr class="voyageur">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0; padding-left:0;">
-« Vous devez utiliser un jeton de vote pour voter. <br>Si un joueur mort vous donne le sien, vous apprenez son alignement. <br>Vous êtes sobre et sain. »
+« Vous devez utiliser un jeton de vote pour voter. Si un joueur mort vous donne le sien, vous apprenez son alignement. Vous êtes sobre et sain. »
 </p>
 
 <p class="botc-flavour-text dropcap" style="margin:0; color:#f5f5f5; font-size:20px; line-height:1.7;">
@@ -127,12 +127,12 @@ Conseils & Astuces (si vous êtes bon)
 
 <ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0; list-style-position:inside;">
   <li>Vous voulez absolument apprendre l'alignement d'au moins un joueur, mais ne soyez pas trop gourmand. <br>Apprendre l'alignement de 1 ou 2 joueurs pourrait signifier que 1 ou 2 joueurs bons ne peuvent plus voter — c'est probablement acceptable. <br>Mais apprendre l'alignement de 5 joueurs pourrait signifier que 5 joueurs bons ne peuvent plus voter — et cela donne la majorité des voix à l'équipe maléfique lors de la prochaine exécution, lui offrant la victoire. <br>Gagnez un jeton de vote ou deux... ou trois... mais sachez quand vous arrêter.</li>
-  <li>Dites la vérité sur les joueurs bons qui vous donnent leur jeton de vote. <br>Vous leur faites confiance. <br>Ils vous feront probablement confiance. <br>Ayez une conversation privée sur votre stratégie commune pour la suite, et dites au groupe qu'ils sont bons. <br>Vous pouvez avoir confiance en n'importe quelle information que ce joueur bon possède grâce à la capacité de son rôle, alors utilisez cela à votre avantage et laissez-le vous aider à décider pour qui voter.</li>
+  <li>Dites la vérité sur les joueurs bons qui vous donnent leur jeton de vote. Vous leur faites confiance. Ils vous feront probablement confiance. <br>Ayez une conversation privée sur votre stratégie commune pour la suite, et dites au groupe qu'ils sont bons. <br>Vous pouvez avoir confiance en n'importe quelle information que ce joueur bon possède grâce à la capacité de son rôle, alors utilisez cela à votre avantage et laissez-le vous aider à décider pour qui voter.</li>
   <li>Mentez au sujet d'un joueur bon qui vous a donné son jeton de vote. <br>Si vous dites au groupe qu'un joueur bon est en réalité maléfique, le Démon ou ses Sbires chercheront peut-être à vous contacter et à vous révéler qui ils sont, croyant que vous êtes maléfique vous aussi. <br>Cela pourrait être une information incroyable. <br>Quoi qu'il en soit, vous voudrez dire au groupe que vous mentiez avant la fin de la partie et leur révéler votre stratégie, sinon ils risquent de croire que vous êtes maléfique, ou que le joueur bon qui vous a généreusement donné son jeton est maléfique.</li>
   <li>Si un joueur maléfique est assez fou ou assez audacieux pour vous donner son jeton de vote, dites la vérité sur son alignement. <br>Dites au groupe que ce joueur est maléfique, et préparez-vous à ce qu'il vous accuse d'être maléfique. <br>Comme il est rare que des joueurs maléfiques donnent leur vote à un Mendiant bon (mais certains le feront parce que c'est très inattendu), vous aurez peut-être du mal à convaincre le groupe qu'ils sont maléfiques. <br>Il sera plus facile de convaincre le groupe si vous pouvez également obtenir le jeton de vote d'un joueur bon, car ce dernier vous aidera probablement.</li>
   <li>Si un joueur maléfique vous a donné son jeton de vote, vous souhaiterez peut-être mentir sur son alignement. <br>Dites au groupe qu'il est bon — cela convaincra peut-être les joueurs maléfiques que vous êtes maléfique, et encouragera d'autres joueurs maléfiques à vous donner leur jeton de vote. <br>Le dernier jour, vous pourrez révéler la vérité.</li>
-  <li>Vous ne pouvez pas voter. <br>Ainsi, lorsque vous obtenez un jeton de vote, utilisez-le très, très sagement. <br>C'est d'autant plus important que vous avez peut-être retiré la capacité de voter à un joueur bon en lui prenant son jeton, ce qui signifie que l'équipe bonne a moins de pouvoir de vote au global. <br>Faites en sorte que votre vote compte en le gardant pour le dernier jour, ou en attendant de l'utiliser lorsque votre vote décidera si un joueur est exécuté ou non.</li>
-  <li>Soyez proactif pour inciter les joueurs à vous donner leur jeton de vote. <br>Demandez. <br>Exigez. <br>Négociez. <br>Mendiez. <br>Les autres ne se proposeront généralement pas d'eux-mêmes pour vous donner leur jeton parce qu'ils ont d'autres choses en tête, mais ils envisageront souvent de le faire si vous les taquinez un peu.</li>
+  <li>Vous ne pouvez pas voter. Ainsi, lorsque vous obtenez un jeton de vote, utilisez-le très, très sagement. <br>C'est d'autant plus important que vous avez peut-être retiré la capacité de voter à un joueur bon en lui prenant son jeton, ce qui signifie que l'équipe bonne a moins de pouvoir de vote au global. <br>Faites en sorte que votre vote compte en le gardant pour le dernier jour, ou en attendant de l'utiliser lorsque votre vote décidera si un joueur est exécuté ou non.</li>
+  <li>Soyez proactif pour inciter les joueurs à vous donner leur jeton de vote. Demandez. Exigez. Négociez. Mendiez. <br>Les autres ne se proposeront généralement pas d'eux-mêmes pour vous donner leur jeton parce qu'ils ont d'autres choses en tête, mais ils envisageront souvent de le faire si vous les taquinez un peu.</li>
 </ul>
 
 
