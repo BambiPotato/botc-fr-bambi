@@ -57,13 +57,13 @@ image: /images/Icon_bonecollector.png
 ## Apparaît dans
 
 <p style="text-align:center; margin: 12px 0 6px;">
-  <a href="../sects_and_violets.html" style="text-decoration:none;">
+  <a href="../sv.html" style="text-decoration:none;">
     <img src="../images/Logo_sects_and_violets.png" alt="Sects & Violets" width="220" style="border-radius:8px;">
   </a>
 </p>
 
 <p style="text-align:center;">
-  <a href="../sects_and_violets.html" style="color:#9b59b6; font-weight:bold; text-decoration:none; font-size:22px;">Sects & Violets</a>
+  <a href="../sv.html" style="color:#9b59b6; font-weight:bold; text-decoration:none; font-size:22px;">Sects & Violets</a>
 </p>
 
 
