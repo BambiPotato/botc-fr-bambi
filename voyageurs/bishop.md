@@ -114,7 +114,7 @@ Vous devriez nommer de trois à cinq joueurs chaque jour, dont au moins un joueu
 <hr> 
 
 <ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0; list-style-position:inside;">
-  <li>L’Évêque est bon. <br>Le premier jour, le Conteur nomme le Démon (le <a href="../bmr_roles/po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a>), un Sbire (l’<a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>) et deux Villageois dont la <a href="../bmr_roles/femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de chambre</a>. <br>Le deuxième jour, le Conteur désigne un Sbire et un Marginal.</li>
+  <li>L’Évêque est bon. <br>Le premier jour, le Conteur nomme le Démon (le <a href="../bmr_roles/po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a>), un Sbire (l’<a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>) et deux Villageois dont la <a href="../bmr_roles/femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de chambre</a>. <br>Le deuxième jour, le Conteur désigne un Sbire et un Marginal.</li><br><br>
   <li>L’Évêque est maléfique. <br>Le Conteur n’a nommé personne. <br>Cependant, le Conteur doit désigner au moins un joueur bon aujourd’hui. <br>Il choisit donc le <a href="../bmr_roles/menestrel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ménestrel</a>. <br>Le lendemain, le Conteur nomme quatre joueurs bons et le Démon. <br>L’Évêque est exilé ce jour-là. <br>Les joueurs peuvent désormais poursuivre l’étape de nomination normalement.</li>
 </ul>
 
