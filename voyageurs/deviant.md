@@ -89,6 +89,10 @@ Le Déviant peut éviter d’être exilé, tant qu’il réussit à amuser la ga
 <h2 style="color:#9b59b6;">Comment Conter</h2>
 <hr> 
 
+<p class="botc-flavour-text dropcap" style="margin:0; color:#f5f5f5; font-size:20px; line-height:1.7;">
+Instructions au Conteur
+</p>
+
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
 Si le Déviant doit être exilé, vous pouvez déclarer que le Déviant reste en vie.
 </p>
@@ -110,22 +114,6 @@ Le Déviant (maléfique) fait quelques blagues et provoque quelques rires. <br>M
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
 Le troisième jour, le Déviant se montre drôle... <br>ou presque. <br>Les joueurs décident de l’exiler, mais le Déviant ne meurt pas. <br>Le quatrième jour, le Déviant ne fait plus rire personne. <br>Il est exilé, et meurt.
 </p>
-
-<!-- ===== CONSEILS & ASTUCES ===== -->
-<h2 style="color:#9b59b6;">Conseils & Astuces</h2>
-<hr> 
-
-<p style="color:#9b59b6; font-size:20px; font-weight:bold; margin-bottom:8px; margin-left:0; padding-left:0;">
-Conseils & Astuces (si vous êtes bon)
-</p>
-
-<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
-Ah la la. <br>Si vous espérez que cet article du wiki va vous apprendre à être drôle, vous êtes mal parti. <br>Essayez de décrocher un petit rire. <br>Faites de votre mieux et utilisez vos mots pour détendre l'atmosphère — instaurer une bonne ambiance peut même suffire à vous éviter de mourir. <br>Avant tout, détendez-vous, soyez vous-même et acceptez de ne pas être drôle si les choses se passent comme ça. <br>Ça arrive à tout le monde de faire un bide. <br>Bonne chance :)
-</p>
-
-<div class="botc-note">
-Si vous êtes le Déviant mais que vous trouvez cela trop difficile d'être drôle sur commande, parlez-en au Conteur. <br>Ensemble, vous pourrez déterminer différents critères pour savoir si le Déviant est exilé. <br>Au lieu d'« être drôle », vous pourriez plutôt « créer une ambiance positive » ou « être utile aux autres ». <br>Le Déviant n'est pas un rôle sérieux, et son but est de proposer un espace de rire, de légèreté et de divertissement, alors discutez avec le Conteur pour adapter les critères du Déviant à vos besoins et à vos talents.
-</div>
 
 <!-- ===== CONSEILS & ASTUCES ===== -->
 <h2 style="color:#9b59b6;">Conseils & Astuces</h2>
