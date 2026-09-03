@@ -111,7 +111,7 @@ La <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; t
 </p>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
-Le <a href="../bonecollector.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Collecteur d’os</a> est exilé, puis la <a href="../harlot.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Galante</a> est exilée. <br>Il n’y a pas d’exécution ce jour. <br>Le Boucher ne peut pas proposer de nouvelle nomination, car les exils ne sont pas des exécutions.
+Le <a href="./bonecollector.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Collecteur d’os</a> est exilé, puis la <a href="./harlot.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Galante</a> est exilée. <br>Il n’y a pas d’exécution ce jour. <br>Le Boucher ne peut pas proposer de nouvelle nomination, car les exils ne sont pas des exécutions.
 </p>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
