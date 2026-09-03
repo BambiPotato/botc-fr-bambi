@@ -1,15 +1,20 @@
 ---
 layout: default
 title: Déviant
+description: "Si vous avez été drôle ce jour, vous ne pouvez pas mourir par exil."
+image: /images/Icon_deviant.png
 ---
 
-<p align="left">
+
+<p align="left" style="margin-left:0; padding-left:0;">
   <a href="/botc-fr-bambi/">
     <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
 
-<!--  Déviant -->
+<hr class="explication">	
+
+<!-- Déviant -->
 
 <div style="text-align:center; margin: 20px 0;">
   <img src="../images/Icon_deviant.png" alt="Déviant" width="360" style="border-radius:12px; margin-top:10px;">
@@ -17,20 +22,39 @@ title: Déviant
   <span style="color:#9b59b6; font-weight:bold; font-size:28px;">Déviant</span>
 </div>
 
----
+<hr class="voyageur">
 
-##  Informations
-- **Type :** <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>  
-- **Édition :** <a href="/botc-fr-bambi/sv.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Sects & Violets</a>  
-- **Artiste :** John Grist
+## Informations
 
-<p style="color:#f5f5f5; font-style:italic; font-size:17px; text-align:center;">
-« C’était bien la répartie de la dame, ma foi. »
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0; list-style-position:inside;">
+  <li>
+    <strong>Type :</strong>
+    <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>
+  </li>
+  <li>
+    <strong>Édition :</strong>
+    <a href="/botc-fr-bambi/sv.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Sects & Violets</a>
+  </li>
+  <li><strong>Artiste :</strong> <span style="color:#f5f5f5;">John Grist</span></li>
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Deviant"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#9b59b6; font-weight:bold; text-decoration:none;">
+      Deviant
+    </a>
+  </li>
+</ul>
+
+<p style="color:#f5f5f5; font-style:italic; font-size:20px; text-align:center; margin-left:0; padding-left:0;">
+« Qu’est-ce qui est jaune et qui attend ? »
 </p>
 
----
+<hr class="voyageur">
 
-##  Apparaît dans
+
+## Apparaît dans
 
 <p style="text-align:center; margin: 12px 0 6px;">
   <a href="/botc-fr-bambi/sv.html" style="text-decoration:none;">
@@ -39,78 +63,116 @@ title: Déviant
 </p>
 
 <p style="text-align:center;">
-   <a href="/botc-fr-bambi/sv.html" style="color:#9b59b6; font-weight:bold; text-decoration:none; font-size:22px;">Sects & Violets</a>
+  <a href="/botc-fr-bambi/sv.html" style="color:#9b59b6; font-weight:bold; text-decoration:none; font-size:25px;">Sects & Violets</a>
 </p>
 
----
 
-##  Résumé
+<!-- ===== RESUME ===== -->
+<h2 style="color:#9b59b6;">Résumé</h2>
+<hr class="voyageur">
 
-**« Si vous avez été drôle aujourd’hui, vous ne pouvez pas mourir par exil. »**
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.8;">
-Le <strong>Déviant</strong> peut éviter d’être exilé… à condition d’avoir fait rire le groupe pendant la journée.  
-C’est au <strong>Conteur</strong> de juger si le Déviant a été amusant ou non.
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0; padding-left:0;">
+« Si vous avez été drôle ce jour, vous ne pouvez pas mourir par exil. »
 </p>
 
----
+<p class="botc-flavour-text dropcap" style="margin:0; color:#f5f5f5; font-size:20px; line-height:1.7;">
+Le Déviant peut éviter d’être exilé, tant qu’il réussit à amuser la galerie.
+</p>
 
-##  Comment Conter
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
-  <li>Si le Déviant devait être exilé, le Conteur peut déclarer qu’il reste en vie.</li>
-  <li>Le critère principal est l’humour, mais il peut être élargi selon les joueurs : créer une ambiance positive, détendre le groupe, ou simplement participer avec bienveillance.</li>
-  <li>Il est recommandé d’être indulgent : même une petite blague ou un sourire peuvent suffire.</li>
-  <li>Le rôle du Déviant est avant tout d’apporter de la légèreté et du rire autour de la table.</li>
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0; list-style-position:inside;">
+  <li>Le Déviant peut se montrer drôle par n’importe quel moyen.</li>
+  <li>Souvent, il suffit de faire des blagues ou des remarques décalées.</li>
+  <li>C’est le Conteur qui décide si le Déviant a été drôle ou non.</li>
 </ul>
 
----
+<!-- ===== COMMENT CONTER ===== -->
+<h2 style="color:#9b59b6;">Comment Conter</h2>
+<hr> 
 
-##  Exemples
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Si le Déviant doit être exilé, vous pouvez déclarer que le Déviant reste en vie.
+</p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
-  <li>Le Déviant maléfique lance quelques plaisanteries, fait rire le groupe, et bien qu’il y ait assez de votes pour l’exiler, le Conteur décide qu’il survit.</li>
-  <li>Le troisième jour, le Déviant a été un peu drôle : il ne peut pas être exilé. Le lendemain, il n’a pas fait d’effort… il est exilé avec succès.</li>
-</ul>
+<div class="botc-note" style="font-size:20px; line-height:1.7;">
+Ne soyez pas trop dur avec le Déviant s’il fait des efforts ! Faites preuve d’indulgence quand vous le pouvez. <br>Être drôle par obligation n’est jamais facile. 
+<hr>
+À la demande du joueur, vous pouvez déterminer d’autres critères pour décider de son exil ou non. <br>Au lieu de lui demander d’« être drôle », la condition peut être « créer une ambiance positive » ou « aider les autres ». <br>Le Déviant n’est pas un rôle sérieux. <br>Il doit susciter le rire et une ambiance décontractée. <br>Sentez-vous libres d’adapter les règles du Déviant à votre groupe de joueurs.
+</div>
 
----
+<!-- ===== EXEMPLES ===== -->
+<h2 style="color:#9b59b6;">Exemples</h2>
+<hr> 
 
-##  Conseils & Astuces pour les <span style="color:#4ea3ff;">Bons</span>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Le Déviant (maléfique) fait quelques blagues et provoque quelques rires. <br>Malgré tout, les joueurs décident de l’exiler. <br>Il y a suffisamment de votes pour l’exiler, mais le Conteur décide de le laisser en vie.
+</p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
-  <li>Si vous cherchez ici comment être drôle, vous partez mal… mais essayez au moins d’obtenir un sourire !</li>
-  <li>Faites de votre mieux pour détendre l’atmosphère : même un bon mot ou un jeu de mots maladroit peut suffire.</li>
-  <li>Le Déviant n’est pas un rôle sérieux ; son but est de semer la bonne humeur et de garder la table vivante.</li>
-  <li>Si vous trouvez difficile d’être drôle sur commande, parlez au Conteur pour définir d’autres critères : encourager, aider ou mettre les autres à l’aise peuvent remplacer l’humour pur.</li>
-  <li>Ne vous mettez pas trop de pression : tout le monde rate parfois une blague !</li>
-  <li>Et si vous cherchez l’inspiration : Baptiste Lecaplain et Florence Foresti sont de bonnes références.</li>
-</ul>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Le troisième jour, le Déviant se montre drôle... <br>ou presque. <br>Les joueurs décident de l’exiler, mais le Déviant ne meurt pas. <br>Le quatrième jour, le Déviant ne fait plus rire personne. <br>Il est exilé, et meurt.
+</p>
 
----
+<!-- ===== CONSEILS & ASTUCES ===== -->
+<h2 style="color:#9b59b6;">Conseils & Astuces</h2>
+<hr> 
 
-## Conseils & Astuces pour les <span style="color:#d45b5b;">Maléfiques</span>
+<p style="color:#9b59b6; font-size:20px; font-weight:bold; margin-bottom:8px; margin-left:0; padding-left:0;">
+Conseils & Astuces (si vous êtes bon)
+</p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
-  <li>Votre objectif reste le même : faire rire pour survivre ! L’humour est votre arme contre l’exil.</li>
-  <li>Faites croire que vous jouez de bonne foi ; détendre l’atmosphère détourne souvent les soupçons.</li>
-  <li>Si vous ne pouvez pas être drôle, soyez au moins charmant ou positif : cela peut suffire à convaincre le Conteur de vous épargner.</li>
-  <li>Le Déviant maléfique peut semer la confusion tout en amusant la galerie ; usez de légèreté pour manipuler subtilement.</li>
-  <li>Et pour trouver votre ton : Les Inconnus ou Gad Elmaleh sont des maîtres de l’équilibre entre rire et malice.</li>
-</ul>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Ah la la. <br>Si vous espérez que cet article du wiki va vous apprendre à être drôle, vous êtes mal parti. <br>Essayez de décrocher un petit rire. <br>Faites de votre mieux et utilisez vos mots pour détendre l'atmosphère — instaurer une bonne ambiance peut même suffire à vous éviter de mourir. <br>Avant tout, détendez-vous, soyez vous-même et acceptez de ne pas être drôle si les choses se passent comme ça. <br>Ça arrive à tout le monde de faire un bide. <br>Bonne chance :)
+</p>
 
----
+<div class="botc-note">
+Si vous êtes le Déviant mais que vous trouvez cela trop difficile d'être drôle sur commande, parlez-en au Conteur. <br>Ensemble, vous pourrez déterminer différents critères pour savoir si le Déviant est exilé. <br>Au lieu d'« être drôle », vous pourriez plutôt « créer une ambiance positive » ou « être utile aux autres ». <br>Le Déviant n'est pas un rôle sérieux, et son but est de proposer un espace de rire, de légèreté et de divertissement, alors discutez avec le Conteur pour adapter les critères du Déviant à vos besoins et à vos talents.
+</p>
 
-## Rappels utiles
+<!-- ===== CONSEILS & ASTUCES ===== -->
+<h2 style="color:#9b59b6;">Conseils & Astuces</h2>
+<hr> 
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
-  <li>Le Déviant peut être exilé comme tout Voyageur, sauf s’il a été jugé drôle aujourd’hui.</li>
-  <li>Il ne compte pas dans les conditions de victoire.</li>
-  <li>Son rôle est purement humoristique : il sert à détendre la partie et encourager la créativité.</li>
-</ul>
+<p style="color:#9b59b6; font-size:20px; font-weight:bold; margin-bottom:8px; margin-left:0; padding-left:0;">
+Conseils & Astuces (si vous êtes bon)
+</p>
 
----
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Ah la la. <br>Si vous espérez que cet article du wiki va vous apprendre à être drôle, vous êtes mal parti. <br>Essayez de décrocher un petit rire. <br>Faites de votre mieux et utilisez vos mots pour détendre l'atmosphère — instaurer une bonne ambiance peut même suffire à vous éviter de mourir. <br>Avant tout, détendez-vous, soyez vous-même et acceptez de ne pas être drôle si les choses se passent comme ça. <br>Ça arrive à tout le monde de faire un bide. <br>Bonne chance :)
+</p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.8;">
-  <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li> <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Si vous êtes le Déviant mais que vous trouvez cela trop difficile d'être drôle sur commande, parlez-en au Conteur. <br>Ensemble, vous pourrez déterminer différents critères pour savoir si le Déviant est exilé. <br>Au lieu d'« être drôle », vous pourriez plutôt « créer une ambiance positive » ou « être utile aux autres ». <br>Le Déviant n'est pas un rôle sérieux, et son but est de proposer un espace de rire, de légèreté et de divertissement, alors discutez avec le Conteur pour adapter les critères du Déviant à vos besoins et à vos talents.
+</p>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Quelques sketchs et spectacles personnels préférés pour ceux qui ont besoin d'inspiration : 
+<a href="https://youtu.be/PjUiNabLd04?si=tmmyqhGYKnhjiOE6" target="_blank" rel="noopener noreferrer" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Florence Foresti</a>, 
+<a href="https://youtu.be/4a5dvyMciVs?si=4LdD70J6CRZb6tyc" target="_blank" rel="noopener noreferrer" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Jamel Debbouze</a> et 
+<a href="https://youtu.be/ednqyvwzeyQ?si=Qvg7Ac9s8Skh0xeE" target="_blank" rel="noopener noreferrer" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Paul Mirabel</a>.
+</p>
+
+<hr class="voyageur">
+
+<p style="color:#9b59b6; font-size:20px; font-weight:bold; margin-top:20px; margin-bottom:8px; margin-left:0; padding-left:0;">
+Conseils & Astuces (si vous êtes maléfique)
+</p>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Ah la la. <br>Si vous espérez que cet article du wiki va vous apprendre à être drôle, vous êtes mal parti. <br>Essayez de décrocher un petit rire. <br>Faites de votre mieux et utilisez vos mots pour détendre l'atmosphère — instaurer une bonne ambiance peut même suffire à vous éviter de mourir. <br>Avant tout, détendez-vous, soyez vous-même et acceptez de ne pas être drôle si les choses se passent comme ça. <br>Ça arrive à tout le monde de faire un bide. <br>Bonne chance :)
+</p>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Si vous êtes le Déviant mais que vous trouvez cela trop difficile d'être drôle sur commande, parlez-en au Conteur. <br>Ensemble, vous pourrez déterminer différents critères pour savoir si le Déviant est exilé. <br>Au lieu d'« être drôle », vous pourriez plutôt « créer une ambiance positive » ou « être utile aux autres ». <br>Le Déviant n'est pas un rôle sérieux, et son but est de proposer un espace de rire, de légèreté et de divertissement, alors discutez avec le Conteur pour adapter les critères du Déviant à vos besoins et à vos talents.
+</p>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Quelques sketchs et spectacles personnels préférés pour ceux qui ont besoin d'inspiration : 
+<a href="https://youtu.be/Nvg2-mJr4Hw?si=Du-iiUHQYxCXzp9H" target="_blank" rel="noopener noreferrer" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Jérémy Ferrari</a> et 
+<a href="https://youtu.be/6Ts0foAxeXw?si=vspaeqNjswU-d7EG" target="_blank" rel="noopener noreferrer" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Alban Ivanov</a>.
+</p>
+
+<hr class="explication">	
+
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0; list-style-position:inside;">
+  <li><a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li><a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
 </ul>
