@@ -48,7 +48,7 @@ image: /images/Icon_cacklejack.png
 </ul>
 
 <p style="color:#f5f5f5; font-style:italic; font-size:20px; text-align:center; margin-left:0; padding-left:0;">
-« Le fil α sur le fil β. Di0de allumÉe. <br>BuZZer désactivé. GAzOinks ! Bras teNdus. DoiGT dans 2 nez. <br>Aaaattendez. <br>BoiNgo-banGo ! <br>Ha-ha-ha ! »
+« Le fil α sur le fil β. Di0de allumÉe. <br>BuZZer désactivé. GAzOinks ! <br> Bras teNdus. DoiGT dans 2 nez. <br>Aaaattendez. <br>BoiNgo-banGo ! <br>Ha-ha-ha ! »
 </p>
 
 <hr class="voyageur">
@@ -150,7 +150,7 @@ Conseils & Astuces (si vous êtes maléfique)
   <li>Si un joueur maléfique a changé de rôle, encouragez-le à mentir et à dire qu'il est devenu un nouveau rôle bon ! <br>Si les joueurs bons cherchent quel joueur a changé et ne le trouvent pas, ils auront plus tendance à supposer que vous êtes maléfique, car les joueurs maléfiques ont généralement plus de raisons de mentir sur ce qui se passe. <br>De plus, comme la capacité du Déphasé peut créer des doublons de rôles, votre coéquipier maléfique ne risque pas d'être piégé par une double revendication.</li>
   <li>Si un rôle visiblement maléfique a été créé, restez silencieux et encouragez vos coéquipiers à mentir. <br>Si quelqu'un est soudainement rendu fou par le <a href="../sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a> au jour 3, convainquez un Sbire de dire qu'il était fou lors des 2 premiers jours pour cacher que le Cerenovus vient tout juste d'entrer en jeu.</li>
   <li>Lorsque des joueurs bons changent, rendez-les suspects et peu utiles. <br>Si un joueur bon prétend être devenu le <a href="../tb_roles/soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a>, par exemple, montrez-vous suspect envers sa déclaration et dites des choses comme : « Je ne pense pas que le Conteur ferait cela. »</li>
-  <li>Pendant vos premiers jours, choisissez publiquement des joueurs bons de confiance dotés de puissantes capacités afin de gagner la confiance de l'équipe bonne. <br>Après cela, choisissez en privé des joueurs comme le <a href="../bmr_roles/brute.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gros bras</a>, le <a href="../roles_experimentaux/policitan.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Politicien</a> ou la <a href="../sv_roles/mutant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bête de foire</a>, qui peuvent aider l'équipe maléfique en conservant le même rôle.</li>
+  <li>Pendant vos premiers jours, choisissez publiquement des joueurs bons de confiance dotés de puissantes capacités afin de gagner la confiance de l'équipe bonne. <br>Après cela, choisissez en privé des joueurs comme le <a href="../bmr_roles/brute.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gros bras</a>, le <a href="../roles_experimentaux/politician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Politicien</a> ou la <a href="../sv_roles/mutant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bête de foire</a>, qui peuvent aider l'équipe maléfique en conservant le même rôle.</li>
   <li>Choisissez au hasard et faites confiance au Conteur pour effectuer des changements qui profitent à votre équipe.</li>
   <li>Demandez aux joueurs bons quel rôle ils incarnent, en prétendant que vous souhaitez le savoir afin de déterminer qui choisir chaque jour. <br>Ensuite, racontez tout ce que vous avez appris à votre Démon pour qu'il sache qui cibler la nuit !</li>
 </ul>
