@@ -125,7 +125,7 @@ Ah la la. <br>Si vous espérez que cet article du wiki va vous apprendre à êtr
 
 <div class="botc-note">
 Si vous êtes le Déviant mais que vous trouvez cela trop difficile d'être drôle sur commande, parlez-en au Conteur. <br>Ensemble, vous pourrez déterminer différents critères pour savoir si le Déviant est exilé. <br>Au lieu d'« être drôle », vous pourriez plutôt « créer une ambiance positive » ou « être utile aux autres ». <br>Le Déviant n'est pas un rôle sérieux, et son but est de proposer un espace de rire, de légèreté et de divertissement, alors discutez avec le Conteur pour adapter les critères du Déviant à vos besoins et à vos talents.
-</p>
+</div>
 
 <!-- ===== CONSEILS & ASTUCES ===== -->
 <h2 style="color:#9b59b6;">Conseils & Astuces</h2>
@@ -136,7 +136,7 @@ Conseils & Astuces (si vous êtes bon)
 </p>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
-Ah la la. <br>Si vous espérez que cet article du wiki va vous apprendre à être drôle, vous êtes mal parti. <br>Essayez de décrocher un petit rire. <br>Faites de votre mieux et utilisez vos mots pour détendre l'atmosphère — instaurer une bonne ambiance peut même suffire à vous éviter de mourir. <br>Avant tout, détendez-vous, soyez vous-même et acceptez de ne pas être drôle si les choses se passent comme ça. <br>Ça arrive à tout le monde de faire un bide. <br>Bonne chance :)
+Ah la la. Si vous espérez que cet article du wiki va vous apprendre à être drôle, vous êtes mal parti. <br>Essayez de décrocher un petit rire. <br>Faites de votre mieux et utilisez vos mots pour détendre l'atmosphère — instaurer une bonne ambiance peut même suffire à vous éviter de mourir. <br>Avant tout, détendez-vous, soyez vous-même et acceptez de ne pas être drôle si les choses se passent comme ça. <br>Ça arrive à tout le monde de faire un bide. <br>Bonne chance :)
 </p>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
