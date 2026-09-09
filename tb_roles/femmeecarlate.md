@@ -119,7 +119,7 @@ Instructions au Conteur
 
 
 <div class="botc-note">
-Dans <strong>TROUBLE BREWING</strong>, il n'y a qu'un seul Démon : le [<span style="color:red">Diablotin</span>](imp.md).<br>Dans d'autres modules, il existe plusieurs Démons. Si la <strong>emme écarlate</strong> devient le Démon, elle devient le même type de Démon que celui qui est mort, et acquiert les capacités de ce Démon.<br> 
+Dans <strong>TROUBLE BREWING</strong>, il n'y a qu'un seul Démon : le [<span style="color:red">Diablotin</span>](imp.md).<br>Dans d'autres modules, il existe plusieurs Démons. Si la <strong>Femme écarlate</strong> devient le Démon, elle devient le même type de Démon que celui qui est mort, et acquiert les capacités de ce Démon.<br> 
 Lorsque cela se produit, marquez la <strong>Femme écarlate</strong> avec le jeton <strong>EST LE DÉMON</strong> et référez-vous aux <strong>« Instructions au Conteur dans l'almanach »</strong> de ce Démon.<br> 
 Pour plus d'information se référez à la page dédiée au <strong>[<span style="color:red">Diablotin</span>](imp.md)</strong>.
 </div> 
@@ -159,7 +159,7 @@ Pour plus d'information se référez à la page dédiée au <strong>[<span style
 
 
 
-##  <span style="color:red">Combattre la Femme Écarlate</span>   
+##  <span style="color:red">Combattre la Femme écarlate</span>   
 
 ---
 
