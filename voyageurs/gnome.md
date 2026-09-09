@@ -155,7 +155,7 @@ Conseils & astuces (si vous êtes Maléfiques)
   <p style="margin:0 0 8px 0; font-weight:bold;">Rappels utiles</p>
   <ul style="margin:0; padding-left:0; list-style-position:inside;">
     <li>Le Conteur annonce publiquement qui est l’<strong>amigo</strong> du Gnome à l'Aube de son arrivée.</li>
-    <li>Le Gnome peut tuer quiconque qui nomine son <strong>amigo</strong>, avant le vote.</li>
+    <li>Le Gnome peut tuer quiconque qui nomme son <strong>amigo</strong>, avant le vote.</li>
     <li>Son alignement ne change pas, même si celui de son <strong>amigo</strong> change.</li>
     <li>Le pouvoir peut être utilisé plusieurs fois dans la partie.</li>
     <li>Le Gnome peut être exilé comme tout Voyageur.</li>
