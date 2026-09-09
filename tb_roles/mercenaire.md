@@ -86,7 +86,7 @@ LA POURFENDEUSE peut tuer le Démon en devinant de qui il s’agit.
   - Si la Pourfendeuse choisit le Démon, le Démon meurt immédiatement. Sinon, rien ne se passe.
 
 - Les joueurs n’apprennent pas le rôle du joueur mort.
-  - Après tout, il pourrait s’agir de la Recluse !
+  - Après tout, il pourrait s’agir de la [Recluse](reclus.md) !
 
 - Une Pourfendeuse qui utilise sa capacité alors qu’elle est empoisonnée ou ivre ne peut pas l’utiliser à nouveau.
 
