@@ -49,7 +49,7 @@ image: /images/Icon_gnome.png
 </ul>
 
 <p style="color:#f5f5f5; font-style:italic; font-size:20px; text-align:center; margin-left:0; padding-left:0;">
-« Oh! Que de fois je l'ai entendu et vu, Scarbo, lorsqu'à minuit la lune brille dans le ciel comme un écu d’argent sur une bannière d'azur semée d'abeilles d’or !  <br> Que de fois j'ai entendu bourdonner son rire dans l'ombre de mon alcôve, et grincer son ongle sur la soie des courtines de mon lit !  <br> Que de fois je l'ai vu descendre du plancher, pirouetter sur un pied et rouler par la chambre comme le fuseau tombé de la quenouille d'une sorcière ! »
+« Oh! Que de fois je l'ai entendu et vu, Scarbo, <br> lorsqu'à minuit la lune brille dans le ciel comme un écu d’argent sur une bannière d'azur semée d'abeilles d’or !  <br> Que de fois j'ai entendu bourdonner son rire dans l'ombre de mon alcôve, <br> et grincer son ongle sur la soie des courtines de mon lit !  <br> Que de fois je l'ai vu descendre du plancher,<br> pirouetter sur un pied et rouler par la chambre comme le fuseau tombé de la quenouille d'une sorcière ! »
 </p>
 
 <hr class="voyageur">
@@ -81,11 +81,11 @@ Le Gnome protège un joueur de son équipe.
 </p>
 
 <ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0; list-style-position:inside;">
-  <li>Le Gnome commence avec le même alignement qu'un autre joueur — son « <strong>amigo</strong> ».  <br> Le Conteur annonce publiquement de quel joueur il s’agit.</li>
-  <li>Lorsque son amigo est nommé, c’est au Gnome d’agir avant le début des votes, s’il le souhaite.  <br> Le Conteur n’a pas à l’inciter à utiliser sa capacité.</li>
+  <li>Le Gnome commence avec le même alignement qu'un autre joueur — son « <strong>amigo</strong> ».  <br> Le Conteur annonce publiquement de quel joueur il s’agit.</li> <br>
+  <li>Lorsque son amigo est nommé, c’est au Gnome d’agir avant le début des votes, s’il le souhaite.  <br> Le Conteur n’a pas à l’inciter à utiliser sa capacité.</li> <br>
   <li>Si son amigo change d'alignement, l'alignement du Gnome ne change pas.</li>
-  <li>Le Gnome peut utiliser sa capacité autant de fois qu'il le souhaite au fil du jeu, ou ne pas l’utiliser du tout. Son amigo peut être nommé qu’une fois par jour, selon la règle classique.</li>
-  <li>Lorsque le Gnome utilise sa capacité et que le Conteur la confirme, le joueur qui a nommé l’amigo meurt immédiatement. <br> Le vote pour l’exécution de l’amigo doit tout de même se tenir.</li>
+  <li>Le Gnome peut utiliser sa capacité autant de fois qu'il le souhaite au fil du jeu, ou ne pas l’utiliser du tout. Son amigo peut être nommé qu’une fois par jour, selon la règle classique.</li> <br>
+  <li>Lorsque le Gnome utilise sa capacité et que le Conteur la confirme, le joueur qui a nommé l’amigo meurt immédiatement. <br> Le vote pour l’exécution de l’amigo doit tout de même se tenir.</li> <br>
   <li>Nommer quelqu’un est une décision individuelle, même si cela répond à un désir du groupe. <br> C’est à chacun, seul, de décider de nommer ou non, et c’est au Gnome seul de décider d’utiliser sa capacité ou non. <br> Si le Conteur estime qu'un joueur subit des pressions pour nommer quelqu’un ou utiliser sa capacité alors qu’il ne le souhaite pas, le Conteur peut décider de ne pas reconnaître cette nomination ou capacité.</li>
 </ul>
 
@@ -97,20 +97,20 @@ Le Gnome protège un joueur de son équipe.
 Instructions au Conteur
 </p>
 
-<div class="botc-note" style="font-size:20px; line-height:1.7;">
-Pendant la journée, dès que le Gnome entre en jeu, marquez un joueur du même alignement que lui du jeton <strong>« Amigo »</strong>. <br>Annoncez que ce joueur est du même alignement que le Gnome. <br>Si l’amigo est nommé et que le joueur Gnome annonce qu’il veut utiliser sa capacité (les votes ne doivent pas avoir commencé), le joueur qui a nommé l’amigo <strong>meurt</strong>.
-</div>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Pendant la journée, dès que le Gnome entre en jeu, marquez un joueur du même alignement que lui du jeton <strong>« Amigo »</strong>. <br>Annoncez que ce joueur est du même alignement que le Gnome. <br><br>Si l’amigo est nommé et que le joueur Gnome annonce qu’il veut utiliser sa capacité (les votes ne doivent pas avoir commencé), le joueur qui a nommé l’amigo <strong>meurt</strong>.
+</p>
 
 <!-- ===== EXEMPLES ===== -->
 <h2 style="color:#9b59b6;">Exemples</h2>
 <hr> 
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
-Le Gnome commence la partie en même temps que les autres joueurs, et est bon. Amy est l’<a href="../experimentaux_roles/alsaahir.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alsaahir</a>. <br>Avant la première nuit, le Conteur annonce que le Gnome est du même alignement qu’Amy. <br>L'<a href="../experimentaux_roles/ingenieur.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ingénieur</a> nomme Amy le troisième jour. <br>Le Gnome n’utilise pas sa capacité.
+Le Gnome commence la partie en même temps que les autres joueurs, et est bon. Amy est l’<a href="../experimentaux_roles/alsaahir.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alsaahir</a>. <br>Avant la première nuit, le Conteur annonce que le Gnome est du même alignement qu’Amy. <br>L'<a href="../experimentaux_roles/engineer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ingénieur</a> nomme Amy le troisième jour. <br>Le Gnome n’utilise pas sa capacité.
 </p>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
-Le Gnome entre en jeu le 2e jour, et est maléfique. Lewis est le Démon. À ce moment-là, le Conteur annonce que le Gnome est du même alignement que Lewis. <br>Le même jour, le <a href="../experimentaux_roles/boffin.md" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Laborantin</a> nomme Lewis et est tué par le Gnome. <br>Le 3e jour, le <a href="../experimentaux_roles/zealot.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Zélote</a> nomme Lewis et est tué par le Gnome. Le 4e jour, l'<a href="../experimentaux_roles/idiot_du_village.md" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Idiot du village</a> nomme Lewis et le Gnome n’utilise pas sa capacité.
+Le Gnome entre en jeu le 2e jour, et est maléfique. Lewis est le Démon. À ce moment-là, le Conteur annonce que le Gnome est du même alignement que Lewis. <br>Le même jour, le <a href="../experimentaux_roles/boffin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Laborantin</a> nomme Lewis et est tué par le Gnome. <br>Le 3e jour, le <a href="../experimentaux_roles/zealot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Zélote</a> nomme Lewis et est tué par le Gnome. Le 4e jour, l'<a href="../experimentaux_roles/villageidiot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Idiot du village</a> nomme Lewis et le Gnome n’utilise pas sa capacité.
 </p>
 
 <!-- ===== CONSEILS & ASTUCES ===== -->
@@ -145,12 +145,15 @@ Conseils & astuces (si vous êtes Maléfiques)
   <li>Soyez chaotique et surprenez les joueurs par la façon dont vous utilisez votre capacité. Et si les choses tournent au pire, si vous voulez vraiment semer la confusion, vous pouvez toujours nominer votre <strong>amigo</strong> puis vous tuer vous-même...</li>
 </ul>
 
+<hr class="voyageur">
+
+
 <div class="botc-note">
   <p style="margin:0 0 8px 0; font-weight:bold;">Rappels utiles</p>
   <ul style="margin:0; padding-left:0; list-style-position:inside;">
-    <li>Le Conteur annonce publiquement qui est l’<em>amigo</em> du Gnome à l'Aube de son arrivée.</li>
-    <li>Le Gnome peut tuer quiconque qui nomine son <em>amigo</em>, avant le vote.</li>
-    <li>Son alignement ne change pas, même si celui de son <em>amigo</em> change.</li>
+    <li>Le Conteur annonce publiquement qui est l’<strong>amigo</strong>du Gnome à l'Aube de son arrivée.</li>
+    <li>Le Gnome peut tuer quiconque qui nomine son <strong>amigo</strong>, avant le vote.</li>
+    <li>Son alignement ne change pas, même si celui de son <strong>amigo</strong> change.</li>
     <li>Le pouvoir peut être utilisé plusieurs fois dans la partie.</li>
     <li>Le Gnome peut être exilé comme tout Voyageur.</li>
     <li>Il ne compte pas dans les conditions de victoire.</li>
