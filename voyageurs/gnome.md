@@ -109,11 +109,11 @@ Pendant la journée, dès que le Gnome entre en jeu, marquez un joueur du même 
 <hr> 
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
-Le Gnome commence la partie en même temps que les autres joueurs, et est bon. Amy est l’<a href="../experimentaux_roles/alsaahir.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alsaahir</a>. <br>Avant la première nuit, le Conteur annonce que le Gnome est du même alignement qu’Amy. <br>L'<a href="../experimentaux_roles/engineer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ingénieur</a> nomme Amy le troisième jour. <br>Le Gnome n’utilise pas sa capacité.
+Le Gnome commence la partie en même temps que les autres joueurs, et est bon. Amy est l’<a href="../roles_experimentaux/alsaahir.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alsaahir</a>. <br>Avant la première nuit, le Conteur annonce que le Gnome est du même alignement qu’Amy. <br>L'<a href="../roles_experimentaux/engineer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ingénieur</a> nomme Amy le troisième jour. <br>Le Gnome n’utilise pas sa capacité.  
 </p>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
-Le Gnome entre en jeu le 2e jour, et est maléfique. Lewis est le Démon. À ce moment-là, le Conteur annonce que le Gnome est du même alignement que Lewis. <br>Le même jour, le <a href="../experimentaux_roles/boffin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Laborantin</a> nomme Lewis et est tué par le Gnome. <br>Le 3e jour, le <a href="../experimentaux_roles/zealot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Zélote</a> nomme Lewis et est tué par le Gnome. Le 4e jour, l'<a href="../experimentaux_roles/villageidiot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Idiot du village</a> nomme Lewis et le Gnome n’utilise pas sa capacité.
+Le Gnome entre en jeu le 2e jour, et est maléfique. Lewis est le Démon. À ce moment-là, le Conteur annonce que le Gnome est du même alignement que Lewis. <br>Le même jour, le <a href="../roles_experimentaux/boffin..html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Laborantin</a> nomme Lewis et est tué par le Gnome. <br>Le 3e jour, le <a href="../roles_experimentaux/zealot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Zélote</a> nomme Lewis et est tué par le Gnome. Le 4e jour, l'<a href="../roles_experimentaux/villageidiot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Idiot du village</a> nomme Lewis et le Gnome n’utilise pas sa capacité.
 </p>
 
 <!-- ===== CONSEILS & ASTUCES ===== -->
