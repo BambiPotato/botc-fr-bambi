@@ -48,9 +48,12 @@ image: /images/Icon_gnome.png
   <li><strong>Révélé le :</strong> <span style="color:#f5f5f5;">01/11/2024</span></li>
 </ul>
 
+
+
 <p style="color:#f5f5f5; font-style:italic; font-size:20px; text-align:center; margin-left:0; padding-left:0;">
 « Oh! Que de fois je l'ai entendu et vu, Scarbo, <br> lorsqu'à minuit la lune brille dans le ciel comme un écu d’argent sur une bannière d'azur semée d'abeilles d’or !  <br> Que de fois j'ai entendu bourdonner son rire dans l'ombre de mon alcôve, <br> et grincer son ongle sur la soie des courtines de mon lit !  <br> Que de fois je l'ai vu descendre du plancher,<br> pirouetter sur un pied et rouler par la chambre comme le fuseau tombé de la quenouille d'une sorcière ! »
 </p>
+
 
 <hr class="voyageur">
 
@@ -151,7 +154,7 @@ Conseils & astuces (si vous êtes Maléfiques)
 <div class="botc-note">
   <p style="margin:0 0 8px 0; font-weight:bold;">Rappels utiles</p>
   <ul style="margin:0; padding-left:0; list-style-position:inside;">
-    <li>Le Conteur annonce publiquement qui est l’<strong>amigo</strong>du Gnome à l'Aube de son arrivée.</li>
+    <li>Le Conteur annonce publiquement qui est l’<strong>amigo</strong> du Gnome à l'Aube de son arrivée.</li>
     <li>Le Gnome peut tuer quiconque qui nomine son <strong>amigo</strong>, avant le vote.</li>
     <li>Son alignement ne change pas, même si celui de son <strong>amigo</strong> change.</li>
     <li>Le pouvoir peut être utilisé plusieurs fois dans la partie.</li>
