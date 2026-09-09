@@ -29,12 +29,12 @@ image: /images/Icon_harlot.png
   <li>
     <strong>Type :</strong>
     <a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>
-  </li><br>
+  </li>
   <li>
     <strong>Édition :</strong>
     <a href="/botc-fr-bambi/sv.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Sects & Violets</a>
-  </li><br>
-  <li><strong>Artiste :</strong> <span style="color:#f5f5f5;">Caitlin Murphy</span></li><br>
+  </li>
+  <li><strong>Artiste :</strong> <span style="color:#f5f5f5;">Caitlin Murphy</span></li>
   <li>
     <strong>Nom original :</strong>
     <a href="https://wiki.bloodontheclocktower.com/Harlot"
@@ -43,7 +43,7 @@ image: /images/Icon_harlot.png
        style="color:#9b59b6; font-weight:bold; text-decoration:none;">
       Harlot
     </a>
-  </li><br>
+  </li>
 </ul>
 
 <p style="color:#f5f5f5; font-style:italic; font-size:20px; text-align:center; margin-left:0; padding-left:0;">
@@ -164,6 +164,6 @@ Conseils & astuces (si vous êtes maléfique)
 <hr class="explication">	
 
 <ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0; list-style-position:inside;">
-  <li><a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li><br>
-  <li><a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li><br>
+  <li><a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+  <li><a href="./voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Retour aux Voyageurs</a></li>
 </ul>
