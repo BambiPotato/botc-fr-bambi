@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Femme Écarlate
+title: Femme écarlate
 description: "S’il y a au moins 5 joueurs en vie et que le Démon meurt, vous devenez le Démon. (Les Voyageurs ne comptent pas.)"
 image: /images/Icon_scarletwoman.png
 ---
