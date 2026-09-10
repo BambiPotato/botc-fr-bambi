@@ -48,7 +48,7 @@ image: /images/Icon_boffin.png
 
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-« L'hydrogène stellaire, vaste, inerte ; le carbone, l’oxygène, le néon… plus rien. Le chaos moléculaire et l’entropie produisent de nouveaux phénomènes cosmiques. Le chaos atomique renaît, la matière s’effondre. Tout cela dans un si petit flacon. »
+« L'hydrogène stellaire, vaste, inerte ; <br>le carbone, l’oxygène, le néon… plus rien. <br>Le chaos moléculaire et <br> l’entropie produisent de nouveaux phénomènes cosmiques. <br> Le chaos atomique renaît, <br>la matière s’effondre. <br>Tout cela dans un si petit flacon. »
 </p>
 
 
@@ -108,7 +108,7 @@ Instructions au Conteur
 </p>
 
 <div class="botc-note">
-Les capacités bonnes qui se rendraient ivres ou s'empoisonneraient elles-mêmes, comme le <a href="../bmr_roles/sailor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a>, ne rendent ivre ou n'empoisonnent que la capacité bonne du Démon.</em>
+Les capacités bonnes qui se rendraient ivres ou s'empoisonneraient elles-mêmes, comme le <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a>, ne rendent ivre ou n'empoisonnent que la capacité bonne du Démon.
 </div>
 
 <!-- ===== EXEMPLES ===== -->
@@ -137,7 +137,7 @@ Le <a href="../roles_experimentaux/kazali.html" style="color:#d45b5b; font-weigh
 • Si le Démon a une capacité à usage unique (une fois par partie), encouragez-le à l'utiliser avant votre mort.<br><br>
 • En tant que Démon, prétendez être le rôle dont vous possédez la capacité (particulièrement si vous avez une capacité confirmable !).<br><br>
 • En tant que Démon, prétendez incarner un rôle non-en-jeu différent. Si vous avez la capacité du <a href="../bmr_roles/pacifiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pacifiste</a>, ne le dites à personne ! Laissez les joueurs bons imaginer un monde où un <a href="../bmr_roles/avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a> protège les joueurs maléfiques, alors que c'est réellement votre capacité de <a href="../bmr_roles/pacifiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pacifiste</a> qui empêche les joueurs bons de mourir lors d'une exécution. Ou bien, si vous êtes le <a href="../sv_roles/vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a> avec la capacité du <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a>, protégez les Villageois récolteurs d'informations comme la <a href="../sv_roles/couturiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Couturière</a> ou le <a href="../sv_roles/crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur public</a> afin qu'ils reçoivent des informations vraies (et donc contradictoires) dans une partie avec le <a href="../sv_roles/vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a>.<br><br>
-• En tant que Démon, utilisez votre capacité pour aider l'équipe maléfique à obtenir des informations. En tant qu'<a href="../roles_experimentaux/ojo.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Ojo</a>, utilisez la capacité du <a href="../sv_roles/reveur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Rêveur</a> pour découvrir les rôles des joueurs qui, selon vous, vous ont menti. En tant que <a href="../sv_roles/fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a>, utilisez la capacité de l'<a href="../tb_roles/bibliothecaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Archiviste</a> pour identifier un Marginal qui cherche à se cacher de l'équipe maléfique.<br><br>
+• En tant que Démon, utilisez votre capacité pour aider l'équipe maléfique à obtenir des informations. <br> En tant qu'<a href="../roles_experimentaux/ojo.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Ojo</a>, utilisez la capacité du <a href="../sv_roles/reveur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Rêveur</a> pour découvrir les rôles des joueurs qui, selon vous, vous ont menti. <br> En tant que <a href="../sv_roles/fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a>, utilisez la capacité de l'<a href="../tb_roles/bibliothecaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Archiviste</a> pour identifier un Marginal qui cherche à se cacher de l'équipe maléfique.<br><br>
 • En tant que Démon, utilisez votre capacité pour nuire secrètement au village. Utilisez la capacité du <a href="../bmr_roles/courtisan.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisan</a> pour fausser les informations d'un joueur bon ! Utilisez la capacité du <a href="../sv_roles/philosophe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Philosophe</a> pour rendre ivre un rôle bon en jeu à son insu !<br><br>
 • En tant que Démon, prétendez avoir votre capacité avant de l'utiliser, afin de vous confirmer auprès d'un joueur bon. Assurez-vous simplement de l'utiliser avant la mort du Laborantin !<br><br>
 • En tant que Démon, ne dites rien sur votre capacité au début, et confirmez-vous auprès d'un ou plusieurs joueurs bons.<br><br>
@@ -155,7 +155,7 @@ Le <a href="../roles_experimentaux/kazali.html" style="color:#d45b5b; font-weigh
 • Si vous pensez qu'un Laborantin est en jeu, tuez les joueurs qui se sont confirmés comme bons. Le Conteur donnera souvent au Démon une capacité confirmable comme le <a href="../bmr_roles/pacifiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pacifiste</a>, le <a href="../roles_experimentaux/golem.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Golem</a> ou le <a href="../roles_experimentaux/nightwatchman.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Veilleur de nuit</a>; tuer ces joueurs permet donc de réduire la liste des candidats au rôle de Démon.<br><br>
 • Si des choses étranges et inexplicables continuent de se produire, envisagez les mondes et les explications où un Démon maléfique utilise secrètement la capacité d'un rôle bon pour semer le chaos et la confusion. Par exemple, si les joueurs protégés par l'Aubergiste continuent de mourir pendant la nuit, envisagez que le Démon ait pu utiliser la capacité du Philosophe pour obtenir celle de l'<a href="../bmr_roles/aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a>, rendant le vrai <a href="../bmr_roles/aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a> ivre.<br><br>
 • Gardez à l'esprit que le Démon peut avoir la capacité peu pratique d'un Marginal.<br><br>
-• Si vous pensez qu'un Laborantin est en jeu, méfiez-vous des joueurs qui meurent pendant la nuit, surtout si des rôles sur le script se déclenchent à la mort. Le <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> doté de la capacité du <a href="../roles_experimentaux/plaguedoctor.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Docteur de Peste</a> peut se cibler lui-même afin de mettre une capacité de Sbire supplémentaire en jeu. Le <a href="../sv_roles/fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a> doté de la capacité de la Banshee peut cibler un Marginal afin d'activer sa capacité de <a href="../roles_experimentaux/banshee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Banshee</a>. Le <a href="../sv_roles/nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a> doté de la capacité de la <a href="../sv_roles/dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a> peut mourir avec une <a href="../tb_roles/femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme écarlate</a> en jeu afin de rendre secrètement ivre un joueur bon via la capacité de la <a href="../sv_roles/dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a>.
+• Si vous pensez qu'un Laborantin est en jeu, méfiez-vous des joueurs qui meurent pendant la nuit, surtout si des rôles sur le script se déclenchent à la mort. <br> Le <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> doté de la capacité du <a href="../roles_experimentaux/plaguedoctor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Docteur de Peste</a> peut se cibler lui-même afin de mettre une capacité de Sbire supplémentaire en jeu. <br> Le <a href="../sv_roles/fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a> doté de la capacité de la Banshee peut cibler un Marginal afin d'activer sa capacité de <a href="../roles_experimentaux/banshee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Banshee</a>. <br> Le <a href="../sv_roles/nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a> doté de la capacité de la <a href="../sv_roles/dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a> peut mourir avec une <a href="../tb_roles/femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme écarlate</a> en jeu afin de rendre secrètement ivre un joueur bon via la capacité de la <a href="../sv_roles/dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a>.
 </p>
 
 
@@ -170,7 +170,7 @@ Le <a href="../roles_experimentaux/kazali.html" style="color:#d45b5b; font-weigh
     🧞 
     <img src="../images/Icon_alchemist.png" alt="Alchimiste" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> : 
-    Si l’<a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> possède la capacité du <strong>Laborantin</strong>, l’<a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> n’apprend pas quelle capacité le <span style="color:#d45b5b; font-weight:bold;">Démon</span> possède.
+    Si l’<a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> a la capacité du <strong>Laborantin</strong>, l’<a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> n’apprend pas quelle capacité le <span style="color:#d45b5b; font-weight:bold;">Démon</span> possède.
   </li>
 
   <li>
@@ -190,7 +190,7 @@ Le <a href="../roles_experimentaux/kazali.html" style="color:#d45b5b; font-weigh
   <li>
     🧞 
     <img src="../images/Icon_goon.png" alt="Goon" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../bmr_roles/brute.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Brute</a> : 
+    <a href="../bmr_roles/brute.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gros bras</a> : 
     Si le <span style="color:#d45b5b; font-weight:bold;">Démon</span> possède la capacité du <a href="../bmr_roles/brute.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gros bras</a>, il ne peut pas devenir bon grâce à cette capacité.
   </li>
 
@@ -204,15 +204,15 @@ Le <a href="../roles_experimentaux/kazali.html" style="color:#d45b5b; font-weigh
   <li>
     🧞 
     <img src="../images/Icon_ogre.png" alt="Ogre" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/ogre.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Ogre</a> : 
-    Le <span style="color:#d45b5b; font-weight:bold;">Démon</span> ne peut pas avoir la capacité de l’<a href="../roles_experimentaux/ogre.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Ogre</a>.
+    <a href="../roles_experimentaux/ogre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ogre</a> : 
+    Le <span style="color:#d45b5b; font-weight:bold;">Démon</span> ne peut pas avoir la capacité de l’<a href="../roles_experimentaux/ogre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ogre</a>.
   </li>
 
   <li>
     🧞 
     <img src="../images/Icon_politician.png" alt="Politicien" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/politician.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Politicien</a> : 
-    Le <span style="color:#d45b5b; font-weight:bold;">Démon</span> ne peut pas avoir la capacité du <a href="../roles_experimentaux/politician.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Politicien</a>.
+    <a href="../roles_experimentaux/politician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Politicien</a> : 
+    Le <span style="color:#d45b5b; font-weight:bold;">Démon</span> ne peut pas avoir la capacité du <a href="../roles_experimentaux/politician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Politicien</a>.
   </li>
 
   <li>
