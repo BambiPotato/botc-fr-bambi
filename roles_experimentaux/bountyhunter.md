@@ -25,9 +25,7 @@ image: /images/Icon_bountyhunter.png
 
 <hr class="villageois">
 
-<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-« Je marche seul dans ces rues, pavées de l’odeur infâme de la corruption. <br>Elle force son chemin jusque dans mes narines, qui frémissent de dégoût.<br> Et d’impatience. <br>Le mal qui frappe cet endroit désolé s’étend chaque nuit.<br> Et moi… Je suis l’antidote. »
-</p>
+
 
 ## <span style="color:#4ea3ff;">Informations</span>
 
@@ -47,6 +45,10 @@ image: /images/Icon_bountyhunter.png
   <li><strong>Artiste :</strong> <em>Marianna Carr</em></li>
   <li><strong>Révélé :</strong> 4 juillet 2020</li>
 </ul>
+
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Je marche seul dans ces rues, pavées de l’odeur infâme de la corruption. <br>Elle force son chemin jusque dans mes narines, qui frémissent de dégoût.<br> Et d’impatience. <br>Le mal qui frappe cet endroit désolé s’étend chaque nuit.<br> Et moi… Je suis l’antidote. »
+</p>
 
 <hr class="villageois">
 
