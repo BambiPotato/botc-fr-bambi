@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Guenaude
-description: "Chaque nuit*, choisissez un joueur et le rôle qu’il devient (s’il n’est pas en jeu). Si un Démon est créé, les morts de cette nuit sont arbitraires."
+description: "Chaque nuit*, choisissez un joueur et le rôle qu’il devient (s’il n’est pas en jeu). Si un Démon est créé de cette façon, les morts de cette nuit sont arbitraires."
 image: /images/Icon_pithag.png
 ---
 
@@ -76,12 +76,12 @@ image: /images/Icon_pithag.png
 <hr class="sbire">
 
 
-<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:22px; margin-top:-10px;">
-« Chaque nuit*, choisissez un joueur et le rôle qu’il devient (s’il n’est pas en jeu). Si un Démon est créé, les morts de cette nuit sont arbitraires. »
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
+« Chaque nuit*, choisissez un joueur et le rôle qu’il devient (s’il n’est pas en jeu). Si un Démon est créé de cette façon, les morts de cette nuit sont arbitraires.  »
 </p>
 
 <p class="botc-flavour-text dropcap" style="margin:0;">
-<strong>LA GUENAUDE</strong> force les joueurs à changer de rôle.
+LA GUENAUDE force les joueurs à changer de rôle.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
@@ -152,13 +152,13 @@ L’équipe du Bien devra tuer les deux pour l’emporter.
   </li>
 
   <li style="margin-bottom:14px;">
-    La Guenaude transforme la <a href="./fleuriste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a> en <a href="./jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumelle Maléfique</a> (joueuse bonne, car son alignement ne change pas).<br>
-    Le Conteur la réveille et réveille également un joueur maléfique pour incarner sa jumelle.<br>
+    La Guenaude transforme la <a href="./fleuriste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a> en <a href="./jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumelle maléfique</a> (Joueur bon, car son alignement ne change pas).<br>
+   Le Conteur la réveille et réveille également un joueur maléfique pour incarner sa sœur jumelle.<br>
     Chacune apprend le rôle de l’autre.
   </li>
 
   <li style="margin-bottom:14px;">
-    Lors de la dernière nuit, la Guenaude transforme l’<a href="./oracle.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Oracle</a> en <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a> (joueur bon, car son alignement ne change pas).<br>
+    Lors de la dernière nuit, la Guenaude transforme l’<a href="./oracle.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Oracle</a> en <a href="./nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a> (Joueur bon, car son alignement ne change pas).<br>
     Le Conteur tue le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> maléfique de manière à ce qu’il ne reste qu’un seul <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> en vie lors de la dernière journée.
   </li>
 
@@ -314,9 +314,9 @@ L’équipe du Bien devra tuer les deux pour l’emporter.
     <img src="../images/Icon_cultleader.png" alt="Chef de Culte" width="24"
          style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/cultleader.html"
-       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a> :
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de secte</a> :
     Si la <span style="color:#d45b5b; font-weight:bold;">Guenaude</span> transforme
-    un joueur maléfique en <span style="color:#4ea3ff; font-weight:bold;">Chef de Secte</span>,
+    un joueur maléfique en <span style="color:#4ea3ff; font-weight:bold;">Chef de secte</span>,
     il ne peut pas devenir bon à cause de sa propre capacité.
   </li>
 
@@ -338,9 +338,9 @@ L’équipe du Bien devra tuer les deux pour l’emporter.
     <img src="../images/Icon_goon.png" alt="Brute" width="24"
          style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../bmr_roles/brute.html"
-       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gros-bras</a> :
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gros bras</a> :
     Si la <span style="color:#d45b5b; font-weight:bold;">Guenaude</span> transforme
-    un joueur maléfique en <span style="color:#4ea3ff; font-weight:bold;">Gros-bras</span>,
+    un joueur maléfique en <span style="color:#4ea3ff; font-weight:bold;">Gros bras</span>,
     il ne peut pas devenir bon à cause de sa propre capacité.
   </li>
 
@@ -362,7 +362,7 @@ L’équipe du Bien devra tuer les deux pour l’emporter.
     <a href="../roles_experimentaux/leviathan.html"
        style="color:#d45b5b; font-weight:bold; text-decoration:none;">Léviathan</a> :
     Le <span style="color:#d45b5b; font-weight:bold;">Léviathan</span> ne peut pas entrer en jeu
-    après le <strong>jour 5</strong>.
+    après le <strong>5ème jour</strong>.
   </li>
 
   <!-- OGRE -->
@@ -409,8 +409,8 @@ L’équipe du Bien devra tuer les deux pour l’emporter.
     <a href="../roles_experimentaux/villageidiot.html"
        style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Idiot du Village</a> :
     S’il y a un jeton disponible en plus, la <span style="color:#d45b5b; font-weight:bold;">Guenaude</span>
-    peut créer un <span style="color:#4ea3ff; font-weight:bold;">Idiot du Village</span> supplémentaire.
-    Dans ce cas, l’Idiot du Village ivre peut changer.
+    peut créer un <span style="color:#4ea3ff; font-weight:bold;">Idiot du village</span> supplémentaire.
+    Dans ce cas, l’Idiot du village ivre peut changer.
   </li>
 
 </ul>
