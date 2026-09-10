@@ -59,7 +59,7 @@ image: /images/Icon_atheist.png
   <a href="../experimentaux.html" style="text-decoration:none;">
     <img src="../images/carousel.png" alt="The Carousel Expérimental" width="300" style="border-radius:12px;">
     <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
+    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans le Carrousel rôle expérimental</span>
   </a>
 </div>
 
@@ -95,9 +95,13 @@ Instructions au Conteur
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
 • Lors de la mise en place, avant de donner le sac aux joueurs, retirez tous les jetons maléfiques et ajoutez des jetons Villageois et/ou Marginaux pour correspondre au nombre de joueurs.<br><br>
 • Vous pouvez enfreindre les règles du jeu comme bon vous semble. Utilisez des jetons de rappel maléfiques si vous en avez besoin.<br><br>
-• L’Athée est un rôle complexe, recommandé pour les Conteurs expérimentés. Il requiert une connaissance parfaite des règles et vous devez être en mesure de créer des situations de jeu amusantes et équilibrées. <br> Votre mission consiste à créer une ambiance de jeu idéale pour tous les joueurs ; lorsque vous enfreignez les règles, faites-le pour donner de fausses informations (autant que vous le voulez) ou simuler les actions des rôles maléfiques qui pourraient être en jeu, mais qui ne le sont pas. Si vous pouvez convaincre les joueurs qu’il n'y a pas d’Athée dans la partie, ou qu’ils doutent au moins de sa présence, c’est que vous avez bien fait votre travail.<br><br>
-• Évitez de créer des règles arbitraires ou de modifier les conditions de victoire. Pour passer un bon moment, les joueurs doivent savoir comment ils peuvent gagner la partie si un Athée est en jeu.
 </p>
+
+<div class="botc-note">
+L’Athée est un rôle complexe, recommandé pour les Conteurs expérimentés. Il requiert une connaissance parfaite des règles et vous devez être en mesure de créer des situations de jeu amusantes et équilibrées. <br> Votre mission consiste à créer une ambiance de jeu idéale pour tous les joueurs ; lorsque vous enfreignez les règles, faites-le pour donner de fausses informations (autant que vous le voulez) ou simuler les actions des rôles maléfiques qui pourraient être en jeu, mais qui ne le sont pas. <br> Si vous pouvez convaincre les joueurs qu’il n'y a pas d’Athée dans la partie, ou qu’ils doutent au moins de sa présence, c’est que vous avez bien fait votre travail.
+<hr> 
+Évitez de créer des règles arbitraires ou de modifier les conditions de victoire. Pour passer un bon moment, les joueurs doivent savoir comment ils peuvent gagner la partie si un Athée est en jeu.
+</div>
 
 <!-- ===== EXEMPLES ===== -->
 <h2 style="color:#4ea3ff;"><span id="exemples">Exemples</span></h2>
@@ -149,7 +153,7 @@ Lorsque vous bluffez en tant qu'Athée, il y a plusieurs choses à garder à l'e
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <li>
 • 🧞 <a href="./riot.html" style="color:#d45b5b;font-weight:bold;text-decoration:none;">Émeute</a>
-Pendant une <a href="./riot.html" style="color:#d45b5b;font-weight:bold;text-decoration:none;">Émeute</a>, si le Conteur est nommé, les joueurs votent. <br> S'il est sur le point d'être exécuté, la partie se termine. Sinon, les nominations reprennent.
+Lors d'une partie avec l'<a href="./riot.html" style="color:#d45b5b;font-weight:bold;text-decoration:none;">Émeute</a>, si le Conteur est nommé, les joueurs votent. <br> S'il est sur le point d'être exécuté, la partie se termine. Sinon, le Conteur nomme à son tour.
 </li>
 </ul>
 
