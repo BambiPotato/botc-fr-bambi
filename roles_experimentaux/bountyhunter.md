@@ -19,14 +19,14 @@ image: /images/Icon_bountyhunter.png
   <a href="./bounty_hunter.html" style="text-decoration:none;">
     <img src="../images/Icon_bountyhunter.png" alt="Chasseur de Primes" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#4ea3ff; font-weight:bold; font-size:35px;">Chasseur de Primes</span>
+    <span style="color:#4ea3ff; font-weight:bold; font-size:35px;">Chasseur de primes</span>
   </a>
 </div>
 
 <hr class="villageois">
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-« Je marche seul dans ces rues, pavées de l’odeur infâme de la corruption. Elle force son chemin jusque dans mes narines, qui frémissent de dégoût. Et d’impatience. Le mal qui frappe cet endroit désolé s’étend chaque nuit. Et moi… Je suis l’antidote. »
+« Je marche seul dans ces rues, pavées de l’odeur infâme de la corruption. <br>Elle force son chemin jusque dans mes narines, qui frémissent de dégoût.<br> Et d’impatience. <br>Le mal qui frappe cet endroit désolé s’étend chaque nuit.<br> Et moi… Je suis l’antidote. »
 </p>
 
 ## <span style="color:#4ea3ff;">Informations</span>
@@ -63,8 +63,7 @@ image: /images/Icon_bountyhunter.png
 <hr class="villageois">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
-Lors de votre 1re nuit, vous apprenez 1 joueur maléfique. Si le joueur maléfique meurt, vous en apprenez un autre cette nuit, et ainsi de suite.<br>
-<strong style="color:#d45b5b;">[1 Villageois est maléfique]</strong>
+Lors de votre 1re nuit, vous apprenez 1 joueur maléfique. Si le joueur maléfique meurt, vous en apprenez un autre cette nuit, et ainsi de suite. <strong>[1 Villageois est maléfique]</strong>
 </p>
 
 <p class="botc-flavour-text dropcap" style="margin:0; color:#e0c99d; font-size:20px; line-height:1.7;">
@@ -116,18 +115,18 @@ Instructions au Conteur
 <hr>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
-• Alex est le <strong style="color:#4ea3ff;">Chasseur de primes</strong>, Ben est la <a href="../roles_experimentaux/harpy.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Harpie</a> et Abdallah est la <a href="../bmr_roles/damedethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Tisanière</a>.<br>
+• Alex est le <strong>Chasseur de primes</strong>, Ben est la <a href="../roles_experimentaux/harpy.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Harpie</a> et Abdallah est la <a href="../bmr_roles/damedethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Tisanière</a>.<br>
 Lors de la mise en place, le Conteur décide qu'Abdallah va être une <a href="../bmr_roles/damedethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Tisanière</a> maléfique. La première nuit, Alex apprend Ben.<br>
 Le troisième jour, Ben est exécuté. Cette nuit-là, Alex apprend Abdallah.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
-• La première nuit, le <strong style="color:#4ea3ff;">Chasseur de primes</strong> apprend Julian, qui est le <a href="../tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> maléfique.<br>
-Lorsque Julian meurt, l’<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> cible le <strong style="color:#4ea3ff;">Chasseur de primes</strong>. Cette nuit-là, le <strong style="color:#4ea3ff;">Chasseur de primes</strong> apprend Evin, qui pourtant est un <a href="../roles_experimentaux/magician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Magicien</a> bon.
+• La première nuit, le <strong>Chasseur de primes</strong> apprend Julian, qui est le <a href="../tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> maléfique.<br>
+Lorsque Julian meurt, l’<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> cible le <strong>Chasseur de primes</strong>. Cette nuit-là, le <strong>Chasseur de primes</strong> apprend Evin, qui pourtant est un <a href="../roles_experimentaux/magician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Magicien</a> bon.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
-• Lachlan est l’<a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> et pense être le <strong style="color:#4ea3ff;">Chasseur de primes</strong>. Aucun Villageois maléfique n’a été ajouté lors de la mise en place, car le <strong style="color:#4ea3ff;">Chasseur de primes</strong> n’est pas en jeu.<br>
+• Lachlan est l’<a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> et pense être le <strong>Chasseur de primes</strong>. Aucun Villageois maléfique n’a été ajouté lors de la mise en place, car le <strong>Chasseur de primes</strong> n’est pas en jeu.<br>
 La première nuit, Lachlan apprend Marianna, qui est l’<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a> (bonne).<br>
 Lorsque Marianna meurt, Lachlan apprend Doug, la <a href="../sv_roles/fleuriste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a> (bonne également).
 </p>
@@ -146,7 +145,7 @@ Cela peut vous indiquer qui sont les autres joueurs maléfiques dans le premier 
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
-• Une fois votre rôle de <strong style="color:#4ea3ff;">Chasseur de primes</strong> révélé publiquement, vous devenez une cible à abattre pour le <strong>Démon</strong>, choisissez donc le moment de divulguer vos informations avec un soin extrême.<br><br>
+• Une fois votre rôle de <strong>Chasseur de primes</strong> révélé publiquement, vous devenez une cible à abattre pour le <strong>Démon</strong>, choisissez donc le moment de divulguer vos informations avec un soin extrême.<br><br>
 Révélez-vous trop tôt et vous risquez d'être tué avant d'avoir pu exploiter tout le potentiel de vos informations.<br><br>
 Révélez-vous trop tard et vous ne pourrez pas convaincre suffisamment de personnes d'exécuter votre cible pour obtenir de nouvelles informations.<br><br>
 La partie peut littéralement basculer en fonction de la quantité d'informations que vous obtenez si vous parvenez à faire exécuter toute l'équipe maléfique pour trouver le <strong>Démon</strong>. Cependant, cela nécessite à la fois de contrôler de nombreuses exécutions et de survivre jusque-là ; l'annonce publique de votre rôle doit donc être planifiée au moment parfait !
@@ -159,7 +158,7 @@ Pire encore, il est incité à mentir sur ses informations, ce qui constitue une
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
 • C'est peut-être le moment d'aller voir le joueur maléfique que vous avez repéré et d'essayer de le convaincre que vous êtes maléfique vous aussi !<br><br>
-S'il s'agit du <strong>Villageois</strong> maléfique créé par votre capacité, il ne saura pas qui sont les autres joueurs maléfiques et vous fera probablement confiance si vous vous « révélez » maléfique à lui. S'il s'agit d'un <strong>Sbire</strong>, vous risquez en revanche de l'alerter sur le fait qu'il a été repéré par un <strong style="color:#4ea3ff;">Chasseur de primes</strong>, et il pourrait demander au <strong>Démon</strong> de vous tuer : utilisez donc cette tactique avec précaution !
+S'il s'agit du <strong>Villageois</strong> maléfique créé par votre capacité, il ne saura pas qui sont les autres joueurs maléfiques et vous fera probablement confiance si vous vous « révélez » maléfique à lui. S'il s'agit d'un <strong>Sbire</strong>, vous risquez en revanche de l'alerter sur le fait qu'il a été repéré par un <strong>Chasseur de primes</strong>, et il pourrait demander au <strong>Démon</strong> de vous tuer : utilisez donc cette tactique avec précaution !
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
@@ -184,15 +183,15 @@ Lorsque vous bluffez le <strong>Chasseur de Primes</strong>, gardez quelques poi
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
-• Bluffer en <strong style="color:#4ea3ff;">Chasseur de primes</strong> est un jeu au long cours. Vous aurez besoin d'une histoire détaillée sur les joueurs que vous découvrez comme étant maléfiques au fil de la partie. Il peut être sage d'attendre silencieusement dans l'ombre en observant le jeu afin de garder une histoire cohérente. N'oubliez pas que vous devrez vous souvenir d'une séquence de joueurs que vous prétendez avoir découverts comme maléfiques, et cela devra concorder avec toutes les informations provenant de joueurs que vous affirmez être bons par élimination.
+• Bluffer en <strong>Chasseur de primes</strong> est un jeu au long cours. Vous aurez besoin d'une histoire détaillée sur les joueurs que vous découvrez comme étant maléfiques au fil de la partie. Il peut être sage d'attendre silencieusement dans l'ombre en observant le jeu afin de garder une histoire cohérente. N'oubliez pas que vous devrez vous souvenir d'une séquence de joueurs que vous prétendez avoir découverts comme maléfiques, et cela devra concorder avec toutes les informations provenant de joueurs que vous affirmez être bons par élimination.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
-• Se révéler en tant que <strong style="color:#4ea3ff;">Chasseur de primes</strong> jette un discrédit massif sur d'autres joueurs. Vous pouvez faire tuer des joueurs clés et miner la confiance entre les joueurs. Attention aux rôles capables de détecter l'alignement comme l'<strong><a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a></strong> ou le <strong><a href="../roles_experimentaux/cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de secte</a></strong>, car ils peuvent découvrir que vous mentez.
+• Se révéler en tant que <strong>Chasseur de primes</strong> jette un discrédit massif sur d'autres joueurs. Vous pouvez faire tuer des joueurs clés et miner la confiance entre les joueurs. Attention aux rôles capables de détecter l'alignement comme l'<strong><a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a></strong> ou le <strong><a href="../roles_experimentaux/cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de secte</a></strong>, car ils peuvent découvrir que vous mentez.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
-• Gardez à l'esprit que lorsque vous prétendez être le <strong style="color:#4ea3ff;">Chasseur de primes</strong>, vous allez accuser un ou plusieurs joueurs bons d'être maléfiques. Plus vous accusez de joueurs d'être maléfiques, plus vous vous faites d'ennemis.<br><br>
+• Gardez à l'esprit que lorsque vous prétendez être le <strong>Chasseur de primes</strong>, vous allez accuser un ou plusieurs joueurs bons d'être maléfiques. Plus vous accusez de joueurs d'être maléfiques, plus vous vous faites d'ennemis.<br><br>
 Cependant, si vous réussissez votre coup parfaitement, cela peut être un excellent moyen de diviser la partie en séparant les joueurs bons en deux camps. Cela peut également constituer un formidable moyen de détourner l'attention du <strong>Démon</strong> s'il est suspecté.
 </p>
 
@@ -201,11 +200,11 @@ Cependant, si vous réussissez votre coup parfaitement, cela peut être un excel
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
-• Si vous vous révélez publiquement, préparez-vous à être exécuté ou à demander au <strong>Démon</strong> de vous tuer, car un <strong style="color:#4ea3ff;">Chasseur de primes</strong> public qui survit en fin de partie est incroyablement suspect. Les <strong style="color:#4ea3ff;">Chasseurs de primes</strong> sont des cibles prioritaires pour le <strong>Démon</strong> car, s'ils restent en vie suffisamment longtemps, ils finissent par découvrir l'identité du <strong>Démon</strong>. Ainsi, si vous pensez que votre capacité de <strong>Sbire</strong> n'a plus beaucoup de valeur, demandez au <strong>Démon</strong> de vous tuer dès que vous vous « révélez publiquement » afin de crédibiliser vos affirmations lors de votre mort nocturne.
+• Si vous vous révélez publiquement, préparez-vous à être exécuté ou à demander au <strong>Démon</strong> de vous tuer, car un <strong>Chasseur de primes</strong> public qui survit en fin de partie est incroyablement suspect. Les <strong>Chasseurs de primes</strong> sont des cibles prioritaires pour le <strong>Démon</strong> car, s'ils restent en vie suffisamment longtemps, ils finissent par découvrir l'identité du <strong>Démon</strong>. Ainsi, si vous pensez que votre capacité de <strong>Sbire</strong> n'a plus beaucoup de valeur, demandez au <strong>Démon</strong> de vous tuer dès que vous vous « révélez publiquement » afin de crédibiliser vos affirmations lors de votre mort nocturne.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
-• Si un joueur vote de manière erratique, vous pouvez le faire passer pour le <strong>Villageois</strong> maléfique, car le <strong>Villageois</strong> maléfique créé par le <strong style="color:#4ea3ff;">Chasseur de primes</strong> ne sait pas qui sont les joueurs maléfiques et voterait probablement ainsi.<br><br>
+• Si un joueur vote de manière erratique, vous pouvez le faire passer pour le <strong>Villageois</strong> maléfique, car le <strong>Villageois</strong> maléfique créé par le <strong>Chasseur de primes</strong> ne sait pas qui sont les joueurs maléfiques et voterait probablement ainsi.<br><br>
 C'est un excellent moyen d'isoler un joueur apparemment digne de confiance dont le rôle a été vérifié, en affirmant qu'il a commencé comme ce <strong>Villageois</strong> mais qu'il a été rendu maléfique par votre capacité. C'est aussi une très bonne méthode pour discréditer des rôles prouvables comme l'<strong><a href="../tb_roles/vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Immaculée</a></strong> ou la <strong><a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a></strong>.
 </p>
 
@@ -218,13 +217,13 @@ C'est un excellent moyen d'isoler un joueur apparemment digne de confiance dont 
     🧞 
     <img src="../images/Icon_kazali.png" alt="Kazali" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/kazali.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Kazali</a> :  
-    Si le Kazali transforme le Chasseur de Primes en <span style="color:#d45b5b; font-weight:bold;">Sbire</span>, aucun <span style="color:#4ea3ff; font-weight:bold;">Villageois</span> maléfique n’est créé.
+    Si le Kazali transforme le Chasseur de Primes en <span style="color:#d45b5b; font-weight:bold;">Sbire</span>, aucun Villageois maléfique n’est créé.
   </li>
   <li>
     🧞 
     <img src="../images/Icon_philosopher.png" alt="Philosophe" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../sv_roles/philosophe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Philosophe</a> :  
-    Si le Philosophe gagne la capacité de Chasseur de primes, un <span style="color:#4ea3ff; font-weight:bold;">Villageois</span> peut devenir maléfique.
+    Si le Philosophe gagne la capacité de Chasseur de primes, un Villageois peut devenir maléfique.
   </li>
 </ul>
 
