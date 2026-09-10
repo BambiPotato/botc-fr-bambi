@@ -86,7 +86,7 @@ Instructions au Conteur
 </p>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
-Chaque nuit, faites pivoter le jeton Chef de secte dans le bon sens (si ses deux voisins en vie sont bons) ou à l’envers (si ses deux voisins en vie sont maléfiques) ou au choix (si un voisin en vie est bon et l’autre voisin en vie est maléfique). Si le Chef de secte change d’alignement, réveillez le Chef de secte et montrez-lui un pouce en haut ou un pouce en bas. <br>Ensuite, le Chef de secte se rendort. Si le Chef de secte ne change pas d’alignement, ne le réveillez pas.
+Chaque nuit, faites pivoter le jeton Chef de secte dans le bon sens (si ses deux voisins en vie sont bons) ou à l’envers (si ses deux voisins en vie sont maléfiques) ou au choix (si un voisin en vie est bon et l’autre voisin en vie est maléfique). <br> Si le Chef de secte change d’alignement, réveillez le Chef de secte et montrez-lui un pouce en haut ou un pouce en bas. <br>Ensuite, le Chef de secte se rendort. <br> Si le Chef de secte ne change pas d’alignement, ne le réveillez pas.
 </p>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
@@ -101,11 +101,11 @@ Si un joueur qui se fait passer pour le Chef de secte annonce qu’il veut utili
 <hr>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
-Le troisième jour, les voisins en vie du Chef de secte (bon) sont Le <a href="../sv_roles/crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur public</a> (bon) et le <a href="../roles_experimentaux/gobelin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Gobelin</a> (maléfique). Le Chef de secte demande à former une secte. Tous les bons joueurs votent pour rejoindre la secte. Le jeu se termine et l’équipe du Bien gagne !
+Le troisième jour, les voisins en vie du Chef de secte (bon) sont Le <a href="../sv_roles/crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur public</a> (bon) et le <a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Gobelin</a> (maléfique). <br> Le Chef de secte demande à former une secte. Tous les bons joueurs votent pour rejoindre la secte. Le jeu se termine et l’équipe du Bien gagne !
 </p>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
-Le Chef de secte est voisin du <a href="../sv_roles/no_dashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a>. Le deuxième jour, le Chef de secte tente de former une secte. Tous les joueurs votent pour rejoindre la secte, mais sans succès, car le Chef de secte est empoisonné.
+Le Chef de secte est voisin du <a href="../sv_roles/no_dashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a>. Le deuxième jour, le Chef de secte tente de former une secte. <br> Tous les joueurs votent pour rejoindre la secte, mais sans succès, car le Chef de secte est empoisonné.
 </p>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
