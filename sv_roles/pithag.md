@@ -395,7 +395,7 @@ L’équipe du Bien devra tuer les deux pour l’emporter.
     <img src="../images/Icon_summoner.png" alt="Invocateur" width="24"
          style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/summoner.html"
-       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocateur</a> :
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocatrice</a> :
     Si l’<span style="color:#d45b5b; font-weight:bold;">Invocatrice</span> crée un second
     <span style="color:#d45b5b; font-weight:bold;">Démon</span> vivant,
     les morts de cette nuit sont <strong>arbitraires</strong>.
