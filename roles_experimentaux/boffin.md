@@ -76,17 +76,17 @@ Le Laborantin réplique une capacité de joueur bon.
 </p>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
-• Tant que le Laborantin est en vie, le Démon a la capacité d’un Villageois ou d’un Marginal.<br>
+• Tant que le Laborantin est en vie, le Démon a la capacité d’un Villageois ou d’un Marginal.<br><br>
 • Si le Démon est ivre ou empoisonné, il conserve cette capacité de joueur bon.<br>
-Si le Laborantin est ivre ou empoisonné, le Démon perd temporairement cette capacité de joueur bon.<br>
-• Si le Démon meurt et possède une capacité qui fonctionne une fois qu’il est mort, comme celle de la <a href="../sv_roles/dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a>, alors le Démon garde cette capacité.<br>
-• Si un nouveau Démon est créé, par exemple via une <a href="../tb_roles/femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme écarlate</a> ou un <a href="../sv_roles/barbier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Barbier</a>, ce nouveau Démon a une capacité grâce au Laborantin.<br>
-Cette capacité peut être différente de celle du Démon précédent.<br>
-• S'il y a plusieurs Démons en vie, seul l’un d’entre eux a une capacité grâce au Laborantin.<br>
-• Si le Démon a une capacité qui modifie la mise en place, comme celle du <a href="../roles_experimentaux/choirboy.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Choriste</a>, la mise en place est modifiée comme d’habitude.<br>
+Si le Laborantin est ivre ou empoisonné, le Démon perd temporairement cette capacité de joueur bon.<br><br>
+• Si le Démon meurt et possède une capacité qui fonctionne une fois qu’il est mort, comme celle de la <a href="../sv_roles/dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a>, alors le Démon garde cette capacité.<br><br>
+• Si un nouveau Démon est créé, par exemple via une <a href="../tb_roles/femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme écarlate</a> ou un <a href="../sv_roles/barbier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Barbier</a>, ce nouveau Démon a une capacité grâce au Laborantin.<br>
+Cette capacité peut être différente de celle du Démon précédent.<br><br>
+• S'il y a plusieurs Démons en vie, seul l’un d’entre eux a une capacité grâce au Laborantin.<br><br>
+• Si le Démon a une capacité qui modifie la mise en place, comme celle du <a href="../roles_experimentaux/choirboy.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Choriste</a>, la mise en place est modifiée comme d’habitude.<br><br>
 • Le Démon et le Laborantin apprennent la capacité de joueur bon du Démon.<br>
-Le Conteur peut réveiller ces joueurs ensemble ou séparément.<br>
-• Le rôle pas en jeu peut être l'un des trois bluffs du Démon.<br>
+Le Conteur peut réveiller ces joueurs ensemble ou séparément.<br><br>
+• Le rôle pas en jeu peut être l'un des trois bluffs du Démon.<br><br>
 • Le Démon se réveille également la nuit au moment où le rôle bon est censé se réveiller.
 </p>
 
