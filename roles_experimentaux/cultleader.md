@@ -71,7 +71,7 @@ Le Chef de secte gagne si tout le monde rejoint sa secte.
 </p>
 
 <ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0px; padding-left:00px;">
-  <li>À la fin de chaque nuit, le Chef de secte devient de l’alignement d'un voisin en vie.</li>
+  <li>À la fin de chaque nuit, le Chef de secte devient de l’alignement d'un voisin en vie.</li><br>
   <li>Une fois par jour, le Chef de secte peut choisir publiquement de former une secte. <br>Si tous les joueurs bons votent pour rejoindre la secte, la partie se termine immédiatement et l'équipe du Chef de secte gagne.</li><br>
   <li>Le Chef de secte peut former une secte à tout moment de la journée.</li><br>
   <li>Il n’est pas nécessaire d’avoir un jeton de vote pour rejoindre une secte.</li><br>
