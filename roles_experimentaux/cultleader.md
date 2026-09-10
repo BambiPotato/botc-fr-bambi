@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Chef de Secte
+description: "Chaque nuit, vous devenez de l’alignement d’un voisin en vie. Si tous les joueurs bons rejoignent votre secte, votre équipe gagne."
+image: /images/Icon_cultleader.png
 ---
 
 <p align="left">
@@ -9,36 +11,23 @@ title: Chef de Secte
   </a>
 </p>
 
+<hr class="explication">	
+
 <!-- Chef de Secte -->
 
 <div style="text-align:center; margin: 20px 0%;">
   <a href="./cultleader.html" style="text-decoration:none;">
     <img src="../images/Icon_cultleader.png" alt="Chef de Secte" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#4ea3ff; font-weight:bold; font-size:22px;">Chef de Secte</span>
+    <span style="color:#4ea3ff; font-weight:bold; font-size:22px;">Chef de secte</span>
   </a>
 </div>
 
-<!-- APPARAÎT DANS -->
-<div style="text-align:center; margin: 20px 0;">
-  <a href="../experimentaux.html" style="text-decoration:none;">
-    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
-    <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
-  </a>
-</div>
-
-#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Chef de Secte</span>
-
-<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Se croyant sages, ils devinrent fous. »
-</p>
-
----
+<hr class="villageois">
 
 ##  <span style="color:#4ea3ff;">Informations</span>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0px; padding-left:20px;">
   <li><strong>Type :</strong> 
     <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
   </li>
@@ -55,305 +44,188 @@ title: Chef de Secte
   <li><strong>Révélé :</strong> 4 juillet 2020</li>
 </ul>
 
----
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Ils se pensaient sages ; <br> ils sont devenus fous. »
+</p>
+
+<hr class="villageois">
+
+<!-- APPARAÎT DANS -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../experimentaux.html" style="text-decoration:none;">
+    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans Carrousel rôle expérimental</span>
+  </a>
+</div>
 
 ##  <span style="color:#4ea3ff;">Résumé</span>
+<hr class="villageois">
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Chaque nuit, vous prenez l’alignement d’un voisin vivant. Si tous les joueurs bons choisissent de rejoindre votre secte, votre équipe gagne. »</strong>
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
+« Chaque nuit, vous devenez de l’alignement d’un voisin en vie. Si tous les joueurs bons rejoignent votre secte, votre équipe gagne. »
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a> change d’alignement au fil des nuits, en fonction de ses voisins vivants.  
-Son équipe gagne si tous les joueurs bons acceptent de rejoindre sa secte lors d’un vote public.
+<p class="botc-flavour-text dropcap" style="margin:0;">
+Le Chef de secte gagne si tout le monde rejoint sa secte.
 </p>
 
-
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>À la fin de chaque nuit, le 
-      <a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a> 
-      prend l’alignement d’un de ses voisins vivants.</li>
-
-  <li>Une fois par jour, le 
-      <a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a> 
-      peut déclarer publiquement qu’il veut former une secte.  
-      Si tous les joueurs bons votent pour rejoindre la secte, la partie se termine immédiatement  
-      et l’équipe du 
-      <a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a> gagne.</li>
-
-  <li>Le 
-      <a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a> 
-      peut tenter de former une secte à n’importe quel moment de la journée.</li>
-
-  <li>Voter pour rejoindre une secte ne nécessite pas de jeton de vote.</li>
-
-  <li>Les joueurs peuvent dire ce qu’ils veulent à tout moment :  
-      un joueur qui bluffe 
-      <a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a> 
-      peut aussi déclarer former une secte, même si rien ne se passe vraiment.</li>
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0px; padding-left:20px;">
+  <li>À la fin de chaque nuit, le Chef de secte devient de l’alignement d'un voisin en vie.</li>
+  <li>Une fois par jour, le Chef de secte peut choisir publiquement de former une secte. <br>Si tous les joueurs bons votent pour rejoindre la secte, la partie se termine immédiatement et l'équipe du Chef de secte gagne.</li><br>
+  <li>Le Chef de secte peut former une secte à tout moment de la journée.</li><br>
+  <li>Il n’est pas nécessaire d’avoir un jeton de vote pour rejoindre une secte.</li><br>
+  <li>Les joueurs peuvent dire ce qu'ils veulent à tout moment, donc un joueur peut très bien se faire passer pour le Chef de secte et faire semblant de former une secte.</li>
 </ul>
 
+##  <span style="color:#4ea3ff;">Comment Conter</span>
+<hr>
 
----
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; font-weight:bold;">
+Instructions au Conteur
+</p>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
+<span style="float:left; font-size:50px; line-height:35px; padding-top:4px; padding-right:6px; font-family:serif; color:#4ea3ff; font-weight:bold;">C</span>haque nuit, faites pivoter le jeton Chef de secte dans le bon sens (si ses deux voisins en vie sont bons) ou à l’envers (si ses deux voisins en vie sont maléfiques) ou au choix (si un voisin en vie est bon et l’autre voisin en vie est maléfique). Si le Chef de secte change d’alignement, réveillez le Chef de secte et montrez-lui un pouce en haut ou un pouce en bas. <br>Ensuite, le Chef de secte se rendort. Si le Chef de secte ne change pas d’alignement, ne le réveillez pas.
+</p>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
+Au cours de la journée, le Chef de secte peut déclarer qu'il souhaite utiliser sa capacité. <br>S’il le fait, entrez dans le cercle et menez un vote de la même manière que vous le feriez pour un exil. <br>Si tous les joueurs bons lèvent la main, annoncez quelle équipe a gagné. Si tous les joueurs bons ne lèvent pas la main, rien ne se passe.
+</p>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
+Si un joueur qui se fait passer pour le Chef de secte annonce qu’il veut utiliser sa capacité, faites comme s’il était effectivement le Chef de secte. <br>Laissez le groupe discuter, menez un vote et annoncez que rien ne se passe à l’issue du vote.
+</p>
+
+##  <span style="color:#4ea3ff;">Exemples</span>
+<hr>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
+Le troisième jour, les voisins en vie du Chef de secte (bon) sont Le <a href="../sv_roles/crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur public</a> (bon) et le <a href="../roles_experimentaux/gobelin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Gobelin</a> (maléfique). Le Chef de secte demande à former une secte. Tous les bons joueurs votent pour rejoindre la secte. Le jeu se termine et l’équipe du Bien gagne !
+</p>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
+Le Chef de secte est voisin du <a href="../sv_roles/no_dashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a>. Le deuxième jour, le Chef de secte tente de former une secte. Tous les joueurs votent pour rejoindre la secte, mais sans succès, car le Chef de secte est empoisonné.
+</p>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
+Les voisins vivants du Chef de secte sont l’<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> (maléfique) et la <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> (bonne). L’<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> choisit le Chef de secte et le <a href="../roles_experimentaux/kazali.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Kazali</a> tue la <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>. Les voisins en vie du Chef de secte sont désormais l’<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> (maléfique) et le <a href="../roles_experimentaux/wizard.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mage</a> (maléfique). Même si les voisins du Chef de secte sont tous deux maléfiques, le Chef de secte ne devient pas maléfique, car il ne peut pas changer d’alignement en étant empoisonné.
+</p>
+
+##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
+<hr>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
+Révélez votre rôle de <strong>Chef de secte</strong> tôt dans la partie, car vos chances d'être bon sont bien plus élevées en début de jeu. Il est vrai que vous pouvez devenir maléfique dès la première nuit, mais ce ne sera probablement pas le cas. <br>Cela étant dit, le village pourrait hésiter à viser une victoire via le <strong>Chef de secte</strong> dès le premier jour, car cela peut ressembler à une victoire facile et ils n'auront pas beaucoup de preuves concernant votre alignement.
+</p>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
+Révélez votre rôle de <strong>Chef de secte</strong> tardivement, car vous aurez plus d'informations à partager. Attention cependant : les joueurs ont tendance à se méfier des <strong>Chefs de secte</strong> vers la fin de la partie. <br>En effet, vos chances d'être maléfique augmentent à mesure que la fin du jeu approche, car les joueurs bons sont plus susceptibles de mourir que les joueurs maléfiques, ce qui rend vos voisins vivants de plus en plus susceptibles d'être maléfiques en fin de partie.
+</p>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
+Déclarez-vous <strong>Chef de secte</strong> lorsque vous êtes maléfique (sans avouer que vous l'êtes), car il sera plus facile pour l'équipe maléfique de soutenir vos propositions d'exécutions et vos votes de <strong>Chef de secte</strong>.
+</p>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
+Incitez les autres joueurs à utiliser leurs capacités de détection sur vos voisins pour vérifier vos déclarations. Demandez à la <a href="../bmr_roles/femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de chambre</a> ou à la <a href="../sv_roles/couturiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Couturière</a> de choisir vos deux voisins la nuit pour vérifier vos affirmations concernant votre alignement.
+</p>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
+Essayez de faire exécuter les joueurs situés entre vous et ceux qui sont confirmés bons par les <strong>Villageois</strong> (comme l'<a href="../tb_roles/vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Immaculée</a> ou le <a href="../roles_experimentaux/noble.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Noble</a>), car cela aidera le village à vous faire confiance pour obtenir une victoire via le <strong>Chef de secte</strong>.
+</p>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
+N'avouez pas que vous êtes maléfique tant que vous ne redevenez pas bon, sinon vous risquez d'être exécuté et bloqué dans l'alignement maléfique. Cependant, si c'est le dernier jour, vous révéler comme maléfique peut anéantir l'équipe bonne pour une victoire facile. Si vous étiez maléfique la nuit précédente et que vous êtes bon maintenant, vous pouvez dire au groupe que vous avez été maléfique et que, par conséquent, l'un de vos voisins doit être maléfique.
+</p>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
+Ignorez la capacité de recrutement du <strong>Chef de secte</strong> et apprenez simplement en silence si vous avez des voisins maléfiques, comme le ferait un <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>. Au cours de la partie, gardez en mémoire les moments où vous avez été maléfique, surtout si vos voisins meurent au fil du jeu. Vous aurez ainsi de bonnes informations sur les joueurs qui sont probablement bons et ceux qui sont probablement maléfiques.
+</p>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
+Utilisez toujours la capacité de recrutement du <strong>Chef de secte</strong> et observez le comportement des votants. Le camp du mal sait si vous êtes à côté d'un joueur maléfique et sera plus enclin à voter pour vous dans ce cas. Les <strong>Chefs de secte</strong> peuvent avoir du mal à convaincre tout le groupe de voter, car il y a généralement un joueur bon qui se retient en se disant « et s'il était maléfique ? ». Ce n'est pas grave : vous pouvez quand même apprendre énormément de choses en observant comment les joueurs votent, car les joueurs maléfiques sont bien plus enthousiastes à l'idée de voter puisque leur vote n'a pas d'impact sur le résultat final.
+</p>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
+En fin de partie, si les joueurs ne sont pas sûrs de l'identité du <strong>Démon</strong>, vous disposez d'une condition de victoire qui peut servir de solution de la dernière chance. Si les chances de trouver le <strong>Démon</strong> sont inférieures à 50/50, le <strong>Chef de secte</strong> offre de meilleures probabilités. <br>S'il devient soudainement clair, d'après le comportement des votants, que le <strong>Démon</strong> a échappé à l'exécution, vous pouvez proposer un plan de secours. Vous êtes peut-être maléfique, mais cela reste une meilleure chance de victoire pour l'équipe bonne que de savoir que le <strong>Démon</strong> ne peut pas être exécuté.
+</p>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
+N'oubliez pas que le dernier jour, s'il ne reste que 3 joueurs en vie et que vous en faites partie, vous êtes à côté du <strong>Démon</strong>. Si le troisième joueur est maléfique, alors vous êtes tous les trois maléfiques, ce qui signifie que personne ne nominera le <strong>Démon</strong>, garantissant ainsi une victoire facile au camp du mal. Si vous êtes bon, vous savez avec certitude que le <strong>Démon</strong> est le seul joueur maléfique encore en vie.
+</p>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
+Le nombre de joueurs est important : dans les parties à 9, 12 ou 15 joueurs, vous avez le ratio joueurs bons/maléfiques le plus élevé. Cela signifie que vos chances d'être bon sont plus fortes, mais que vous avez aussi plus de personnes à convaincre de rejoindre votre secte. Dans une partie à 9 joueurs, il y a 7 joueurs bons et seulement 2 joueurs maléfiques : même si les chances d'être à côté d'un joueur maléfique sont beaucoup plus faibles, vous avez quand même 6 autres personnes à convaincre de rejoindre votre secte.
+</p>
+
+##  <span style="color:#4ea3ff;">Bluffer le Chef de Secte</span>
+<hr>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
+Lorsque vous bluffez le <strong>Chef de secte</strong>, gardez à l'esprit un point crucial : <br> vous voulez que les gens prêtent beaucoup d'attention à vous et à votre fausse secte, mais vous ne voulez à aucun moment qu'ils parviennent à un consensus sur le sujet. <br> Vous n'êtes pas un vrai <strong>Chef de secte</strong> ! Que feriez-vous de tous ces disciples si vous les aviez ? Le village remarquera évidemment si tout le monde accepte de rejoindre votre secte et qu'il ne se passe rien : assurez-vous donc que quelqu'un garde toujours la main baissée. Points bonus s'il s'agit d'un autre membre du camp du mal qui passera ainsi pour un joueur bon aux yeux des autres !
+</p>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
+Bluffer en tant que <strong>Chef de secte</strong> peut être très amusant ! En raison de la nature changeante de votre alignement, le village se méfiera naturellement de vous de toute façon, ce qui vous permet d'être plus audacieux et de paraître « maléfique » pendant un jour ou deux.
+</p>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
+Si le village menace de vous exécuter, prétendez simplement être « actuellement » maléfique, et prévenez-les que vous le resterez s'ils vous éliminent maintenant ! Points bonus si cela les pousse à se retourner contre l'un de vos voisins innocents et bons pour vous « rendre bon » à nouveau.
+</p>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
+Le <strong>Chef de secte</strong> est un rôle susceptible de survivre jusqu'à la fin de la partie, car le <strong>Démon</strong> souhaite probablement le garder en vie dans l'espoir qu'il devienne maléfique. Cela signifie que c'est un excellent bluff pour vous aider à rester en vie. Veillez simplement à prendre le pouls du village concernant un <strong>Chef de secte</strong> d'alignement maléfique : à un moment donné, ils pourraient décider de limiter leurs pertes et de vous exécuter au cas où vous blufferiez. (Pour être juste envers eux, c'est ce que vous faites !)
+</p>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
+Pendant que vous bluffez en tant que <strong>Chef de secte</strong>, essayez d'organiser un vote tous les jours, surtout si vous pouvez amener tous les autres joueurs maléfiques à voter avec vous. Voir un grand nombre de joueurs lever la main pour la secte peut surprendre les joueurs bons, qui penseront que les autres savent quelque chose qu'ils ignorent. Si vous choisissez bien votre moment, vous pourriez réussir à faire basculer certaines personnes dans le feu de l'action ! Non seulement cela crée beaucoup de bruit et distrait l'équipe bonne qui cherche à trouver le <strong>Démon</strong>, mais vous pouvez aussi utiliser le vote comme une arme pour jeter le doute sur les joueurs qui refusent de vous rejoindre !
+</p>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
+Alternativement, si vous pensez avoir réussi à recruter une grande partie du village à votre cause, demandez à votre équipe maléfique de ne pas voter avec la secte ; lorsque votre capacité « échouera », cela les fera passer pour des joueurs bons qui résistent.
+</p>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
+Si vous avez un coéquipier maléfique parmi vos voisins, tenez-vous-en à être « bon » pendant toute la partie. Ou, si un joueur maléfique devient votre voisin, prétendez que vous étiez maléfique auparavant et que vous êtes maintenant devenu bon, ce qui permet de jeter le doute sur les morts tout en renforçant votre coéquipier !
+</p>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
+Tout en bluffant le <strong>Chef de secte</strong>, vous pouvez réellement vous révéler comme maléfique, car cela jette le discrédit sur vos voisins et détourne peut-être l'attention de vous. Les joueurs sont bien plus enclins à vouloir exécuter quelqu'un qui est maléfique et le reste, plutôt que quelqu'un qui pourrait redevenir bon. Cela peut vous servir de couverture pour expliquer pourquoi vous apparaissez maléfique auprès de rôles comme l'<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a> ou la <a href="../sv_roles/couturiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Couturière</a>.
+</p>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
+Si le village finit par sauter le pas et vous exécute, faites-leur savoir que vous êtes maléfique — votre alignement réel confirmera probablement cela s'il est vérifié par un <a href="../sv_roles/oracle.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Oracle</a> par exemple, ce qui obligera l'équipe bonne à s'inquiéter d'un vote maléfique supplémentaire imaginaire pour le reste de la partie ! (Méfiez-vous tout de même du <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a> ou du <a href="../sv_roles/reveur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Rêveur</a>, qui vous démasqueront très vite.)
+</p>
+
+<hr class="villageois">
 
 ## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0px; padding-left:20px;">
   <li>
     🧞 
     <img src="../images/Icon_boffin.png" alt="Boffin" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/boffin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boffin</a> :  
+    <a href="../roles_experimentaux/boffin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Laborantin</a> : 
     Si le <span style="color:#d45b5b; font-weight:bold;">Démon</span> gagne la capacité du 
-    <a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a> grâce au 
-    <a href="../roles_experimentaux/boffin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boffin</a>,  
-    il ne peut pas devenir bon avec cette capacité.
+    <a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de secte</a> grâce au 
+    <a href="../roles_experimentaux/boffin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Laborantin</a>, 
+    il ne peut pas devenir bon à cause de cette capacité.
   </li>
 
   <li>
     🧞 
     <img src="../images/Icon_pithag.png" alt="Pit-Hag" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a> :  
-    Si la <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a> transforme un joueur maléfique en 
-    <a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a>,  
-    ce <a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a> ne peut pas devenir bon grâce à sa propre capacité.
+    <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a> : 
+    Si la <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a> transforme un joueur maléfique en 
+    <a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de secte</a>, 
+    ce <a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de secte</a> ne peut pas devenir bon grâce à sa propre capacité.
   </li>
-
 </ul>
 
----
+<hr class="explication">	
 
-
-##  <span style="color:#4ea3ff;">Comment Conter</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Chaque nuit, regardez les voisins vivants du 
-<a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a>.  
-Si ses deux voisins vivants sont bons, tournez son jeton droit (côté bon).  
-S’ils sont tous les deux maléfiques, tournez-le « à l’envers » (côté maléfique).  
-Si un voisin est bon et l’autre maléfique, choisissez librement de quel côté le placer.
-</p>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Si l’alignement du 
-<a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a> 
-change par rapport à la nuit précédente,  
-réveillez-le et indiquez-lui son nouvel alignement avec un pouce levé (bon) ou baissé (maléfique),  
-puis rendormez-le.  
-Si son alignement ne change pas, ne le réveillez pas.
-</p>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Dans la journée, si le 
-<a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a> 
-déclare qu’il veut utiliser sa capacité de secte,  
-entrez dans le cercle comme pour un Exil et organisez un vote :  
-si tous les joueurs bons lèvent la main, annoncez immédiatement quelle équipe a gagné.  
-Sinon, rien ne se passe.
-</p>
-
----
-
-##  <span style="color:#4ea3ff;">Exemples</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-
-Jour 3, le 
-<a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a> 
-<strong>Julien</strong> est bon.  
-Ses voisins vivants sont le 
-<a href="../sv_roles/crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur</a> bon  
-et le 
-<a href="../roles_experimentaux/gobelin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Goblin</a> maléfique.  
-Julien demande à former une secte, et tous les joueurs bons votent pour rejoindre la secte.  
-La partie se termine et le Bien gagne avec le 
-<a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a>.
-</p>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-
-La Cheffe de Secte 
-<a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Claire</a> 
-est voisine du 
-<a href="../sv_roles/no_dashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a>.  
-Jour 2, Claire tente de former une secte.  
-Tous les joueurs votent pour rejoindre la secte, mais aucune secte n’est formée,  
-car Claire est empoisonnée par le 
-<a href="../sv_roles/no_dashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a>.
-</p>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-
-Les voisins vivants du 
-<a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a> 
-<strong>Marc</strong> sont l’
-<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> maléfique  
-et la 
-<a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> bonne.  
-L’
-<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> 
-choisit Marc cette nuit-là, et le 
-<a href="../roles_experimentaux/kazali.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Kazali</a> 
-tue la 
-<a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>.  
-Les voisins vivants de Marc deviennent alors l’
-<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> 
-et le 
-<a href="../roles_experimentaux/wizard.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Wizard</a>, tous deux maléfiques.  
-Tant que Marc est empoisonné, son alignement ne change pas :  
-il ne devient pas maléfique à cause de ses voisins.
-</p>
-
----
-
-##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Révélez-vous tôt comme 
-      <a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a> : en début de partie, vos chances d’être bon sont élevées.  
-      Même si vous pouvez être maléfique dès la première nuit, c’est peu probable,  
-      mais le village sera souvent prudent avant de viser une victoire de secte dès le jour 1.</li>
-
-  <li>Vous pouvez aussi attendre la fin de partie pour vous révéler comme 
-      <a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a>.  
-      Vous aurez plus d’informations à partager, mais les joueurs auront davantage tendance à se méfier :  
-      plus la partie avance, plus les joueurs bons meurent, et plus vos voisins ont de chances d’être maléfiques.</li>
-
-  <li>Se révéler 
-      <a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a> 
-      alors que vous êtes maléfique (sans l’annoncer)  
-      peut être une bonne stratégie : l’équipe maléfique aura intérêt à soutenir vos exécutions  
-      et vos tentatives de secte.</li>
-
-  <li>Demandez à des rôles de détection de vérifier vos voisins.  
-      Par exemple, la 
-      <a href="../bmr_roles/chambermaid.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de chambre</a>  
-      ou la 
-      <a href="../sv_roles/couturiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Couturière</a>  
-      peuvent cibler vos voisins pour confirmer vos histoires d’alignement.</li>
-
-  <li>Essayez d’exécuter des joueurs situés entre vous et des rôles certainement bons,  
-      comme la 
-      <a href="../tb_roles/vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Vierge</a>  
-      ou le 
-      <a href="../roles_experimentaux/noble.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Noble</a>.  
-      Plus vous êtes placé entre des rôles confirmés bons, plus le village aura envie  
-      de vous croire bon pour tenter une victoire de secte.</li>
-
-  <li>Ne reconnaissez pas être maléfique tant que vous avez une chance de redevenir bon.  
-      Si c’est le dernier jour, en revanche, révéler que vous étiez maléfique  
-      peut démolir les plans du Bien et offrir une victoire facile au Mal.</li>
-
-  <li>Vous pouvez ignorer votre condition de victoire et jouer comme un  
-      <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a> 
-      de fortune :  
-      gardez une trace des nuits où vous étiez maléfique ou bon,  
-      surtout lorsque vos voisins meurent.  
-      Vous obtiendrez ainsi un tableau global des rôles probablement bons ou maléfiques autour de vous.</li>
-
-  <li>Utilisez souvent votre capacité de secte, ne serait-ce que pour observer les votes.  
-      Les joueurs maléfiques savent si vous êtes voisin d’un maléfique  
-      et sont souvent plus enclins à lever la main, puisque cela ne peut pas faire gagner le Bien  
-      si vous êtes maléfique ce jour-là.</li>
-
-  <li>En fin de partie, si le village hésite sur l’identité du <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
-      vous pouvez proposer votre secte comme « plan B ».  
-      Si les chances de trouver le <span style="color:#d45b5b; font-weight:bold;">Démon</span> sont pires que 50/50,  
-      une tentative de secte peut offrir de meilleures probabilités de victoire au Bien…  
-      même si vous êtes maléfique.</li>
-
-  <li>Souvenez-vous qu’au dernier jour, s’il reste 3 joueurs et que vous êtes l’un d’eux,  
-      vous êtes forcément assis à côté du <span style="color:#d45b5b; font-weight:bold;">Démon</span>.  
-      Si le troisième joueur est maléfique, les 3 sont maléfiques et personne ne nommera le <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
-      ce qui donne une victoire simple au Mal.  
-      Si vous êtes bon, vous savez alors que le <span style="color:#d45b5b; font-weight:bold;">Démon</span> est la seule personne maléfique encore en vie.</li>
-
-  <li>Le nombre de joueurs est important : avec 9, 12 ou 15 joueurs,  
-      le ratio de joueurs bons est élevé.  
-      Vos chances d’être bon sont meilleures, mais vous avez aussi plus de gens à convaincre  
-      de lever la main pour votre secte.</li>
-
-</ul>
-
----
-
-##  <span style="color:#4ea3ff;">Bluffer Chef de Secte</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>En bluffant 
-      <a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a>, 
-      vous voulez attirer beaucoup d’attention…  
-      mais jamais obtenir une vraie unanimité.  
-      Si tout le monde rejoint votre secte et que rien ne se passe, le bluff explose.  
-      Arrangez-vous toujours pour qu’au moins une personne garde la main baissée,  
-      idéalement un allié maléfique qui aura l’air très prudent et très bon.</li>
-
-  <li>Ce bluff est très amusant : comme le 
-      <a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a> 
-      change d’alignement,  
-      les joueurs auront naturellement tendance à se méfier de vous,  
-      ce qui vous permet de paraître « un peu louche » sans forcément attirer une exécution immédiate.</li>
-
-  <li>Si le village menace de vous exécuter, prétendez être « actuellement maléfique »  
-      en tant que 
-      <a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a>  
-      et prévenez-les que vous le resterez s’ils vous tuent maintenant.  
-      Ils pourraient alors préférer exécuter l’un de vos voisins supposément mauvais  
-      pour vous « purifier ».</li>
-
-  <li>Le 
-      <a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a> 
-      est un rôle qui a de bonnes chances de survivre jusqu’à la fin,  
-      car le <span style="color:#d45b5b; font-weight:bold;">Démon</span> préfère souvent le garder en vie au cas où il deviendrait maléfique.  
-      C’est donc un excellent bluff pour rester en vie longtemps.  
-      Mais surveillez l’humeur du village : à un moment, ils peuvent décider  
-      de vous exécuter « au cas où » vous bluffiez.</li>
-
-  <li>En bluffant 
-      <a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a>, 
-      essayez d’initier un vote de secte presque chaque jour,  
-      surtout si vos alliés maléfiques votent avec vous.  
-      Un grand nombre de mains levées peut entraîner des joueurs bons par effet de foule,  
-      tout en créant énormément de bruit qui détourne la discussion du <span style="color:#d45b5b; font-weight:bold;">Démon</span> réel.</li>
-
-  <li>À l’inverse, si vous pensez avoir convaincu une grande partie du village,  
-      demandez à vos alliés maléfiques de ne pas lever la main.  
-      Quand la capacité de votre 
-      <a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a> 
-      « échoue », ils auront l’air de bons sceptiques  
-      qui ont refusé de prendre un risque.</li>
-
-  <li>Si l’un de vos voisins est maléfique, vous pouvez prétendre être resté bon tout le temps  
-      en tant que 
-      <a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a> 
-      pour le protéger,  
-      ou au contraire dire que vous étiez maléfique auparavant  
-      et que vous êtes revenu du « mauvais côté »,  
-      ce qui jette le doute sur les morts.</li>
-
-  <li>Vous pouvez même avouer être maléfique en tant que 
-      <a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a> 
-      bluffé,  
-      ce qui attire l’attention sur vos voisins et détourne les suspicions de vous.  
-      On préfère souvent exécuter un rôle maléfique fixe plutôt qu’un 
-      <a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a>  
-      qui pourrait redevenir bon, ce qui vous laisse un peu de marge.</li>
-
-  <li>Si le village finit par vous exécuter, annoncez que vous étiez maléfique en tant que 
-      <a href="./cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de Secte</a>.  
-      Si un rôle comme l’
-      <a href="../sv_roles/oracle.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Oracle</a>  
-      confirme qu’il y avait bien un maléfique en plus,  
-      le Bien devra vivre avec la peur d’un vote maléfique « fantôme » pour le reste de la partie.</li>
-
-</ul>
-
----
-
-<p style="text-align:left; font-size:18px; margin-top:20px;">
+<p style="text-align:left; font-size:20px; margin-top:20px;">
    <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
    <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
    <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
