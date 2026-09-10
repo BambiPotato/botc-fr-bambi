@@ -25,9 +25,6 @@ image: /images/Icon_choirboy.png
 
 <hr class="villageois">
 
-<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-« Vois sur ton chemin<br> Démons oubliés égarés<br> Donne-leur la main pour les mener<br> Vers des jours sans lendemain »
-</p>
 
 ## <span style="color:#4ea3ff;">Informations</span>
 
@@ -47,6 +44,10 @@ image: /images/Icon_choirboy.png
   <li><strong>Artiste :</strong> <em>John Grist</em></li>
   <li><strong>Révélé :</strong> 29 avril 2021</li>
 </ul>
+
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Vois sur ton chemin<br> Démons oubliés égarés<br> Donne-leur la main pour les mener<br> Vers des jours sans lendemain »
+</p>
 
 <hr class="villageois">
 
