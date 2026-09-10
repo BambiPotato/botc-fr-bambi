@@ -140,24 +140,23 @@ Lorsque Marianna meurt, Lachlan apprend Doug, la <a href="../sv_roles/fleuriste.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
-• Vous savez qui est un joueur maléfique, mais il ne sait pas que vous le savez… C'est peut-être le moment de rester dans l'ombre et d'observer à qui il parle, s'il semble commencer sans bluff puis en obtenir un après une conversation particulière, ou s'il semble simplement totalement perdu et ne sait pas à qui s'adresser.<br><br>
-Cela peut vous indiquer qui sont les autres joueurs maléfiques dans le premier cas, et qu'il s'agit probablement d'un <strong>Villageois</strong> maléfique dans le second cas. Dans tous les cas, vous avez maintenant une meilleure idée de qui d'autre pourrait être maléfique, et si vous le faites exécuter pour ensuite observer l'une des rares personnes à qui il a parlé le premier jour, cela constituera une preuve supplémentaire que vos informations sont correctes !
+• Vous savez qui est un joueur maléfique, mais il ne sait pas que vous le savez… C'est peut-être le moment de rester dans l'ombre et d'observer à qui il parle, s'il semble commencer sans bluff puis en obtenir un après une conversation particulière, ou s'il semble simplement totalement perdu et ne sait pas à qui s'adresser.<br>Cela peut vous indiquer qui sont les autres joueurs maléfiques dans le premier cas, et qu'il s'agit probablement d'un <strong>Villageois</strong> maléfique dans le second cas. Dans tous les cas, vous avez maintenant une meilleure idée de qui d'autre pourrait être maléfique, et si vous le faites exécuter pour ensuite observer l'une des rares personnes à qui il a parlé le premier jour, cela constituera une preuve supplémentaire que vos informations sont correctes !
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
-• Une fois votre rôle de <strong>Chasseur de primes</strong> révélé publiquement, vous devenez une cible à abattre pour le <strong>Démon</strong>, choisissez donc le moment de divulguer vos informations avec un soin extrême.<br><br>
-Révélez-vous trop tôt et vous risquez d'être tué avant d'avoir pu exploiter tout le potentiel de vos informations.<br><br>
-Révélez-vous trop tard et vous ne pourrez pas convaincre suffisamment de personnes d'exécuter votre cible pour obtenir de nouvelles informations.<br><br>
+• Une fois votre rôle de <strong>Chasseur de primes</strong> révélé publiquement, vous devenez une cible à abattre pour le <strong>Démon</strong>, choisissez donc le moment de divulguer vos informations avec un soin extrême.<br>
+Révélez-vous trop tôt et vous risquez d'être tué avant d'avoir pu exploiter tout le potentiel de vos informations.<br>
+Révélez-vous trop tard et vous ne pourrez pas convaincre suffisamment de personnes d'exécuter votre cible pour obtenir de nouvelles informations.<br>
 La partie peut littéralement basculer en fonction de la quantité d'informations que vous obtenez si vous parvenez à faire exécuter toute l'équipe maléfique pour trouver le <strong>Démon</strong>. Cependant, cela nécessite à la fois de contrôler de nombreuses exécutions et de survivre jusque-là ; l'annonce publique de votre rôle doit donc être planifiée au moment parfait !
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
-• N'oubliez pas que vous avez créé un <strong>Villageois</strong> maléfique dans cette partie ! Non seulement cela fait un joueur maléfique supplémentaire avec une nomination et un vote en plus, mais il dispose également d'un bluff gratuit grâce au jeton de rôle qu'il a réellement reçu s'il le souhaite.<br><br>
+• N'oubliez pas que vous avez créé un <strong>Villageois</strong> maléfique dans cette partie ! Non seulement cela fait un joueur maléfique supplémentaire avec une nomination et un vote en plus, mais il dispose également d'un bluff gratuit grâce au jeton de rôle qu'il a réellement reçu s'il le souhaite.<br>
 Pire encore, il est incité à mentir sur ses informations, ce qui constitue une source de désinformation supplémentaire dont vous devrez vous méfier. Il convient également de se rappeler qu'il y aura un joueur maléfique de plus si la partie atteint les trois derniers survivants — vous aurez besoin d'un vote bon supplémentaire sur le <strong>Démon</strong> pour éviter que l'équipe maléfique ne prenne le dessus en voix uniquement grâce aux votes maléfiques !
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
-• C'est peut-être le moment d'aller voir le joueur maléfique que vous avez repéré et d'essayer de le convaincre que vous êtes maléfique vous aussi !<br><br>
+• C'est peut-être le moment d'aller voir le joueur maléfique que vous avez repéré et d'essayer de le convaincre que vous êtes maléfique vous aussi !<br>
 S'il s'agit du <strong>Villageois</strong> maléfique créé par votre capacité, il ne saura pas qui sont les autres joueurs maléfiques et vous fera probablement confiance si vous vous « révélez » maléfique à lui. S'il s'agit d'un <strong>Sbire</strong>, vous risquez en revanche de l'alerter sur le fait qu'il a été repéré par un <strong>Chasseur de primes</strong>, et il pourrait demander au <strong>Démon</strong> de vous tuer : utilisez donc cette tactique avec précaution !
 </p>
 
@@ -166,7 +165,7 @@ S'il s'agit du <strong>Villageois</strong> maléfique créé par votre capacité
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
-• Vos informations sont malheureusement très fragiles lorsque vous êtes empoisonné — vous en apprendrez presque toujours sur un joueur bon plutôt que sur un joueur maléfique, et vous ne voudrez peut-être pas faire exécuter ce joueur… Si vous pensez avoir été repéré par l'équipe maléfique et que vous allez être empoisonné en continu parce que vous faites une confiance aveugle à votre dernière cible, c'est peut-être le moment d'accepter que vous n'obtiendrez plus d'informations fiables et d'accepter la mort si l'on ne vous croit pas… Ou alors, vous pouvez discuter avec ce joueur pour voir s'il est prêt à mourir afin de vous donner une autre information qui ne sera peut-être pas empoisonnée cette fois-ci.<br><br>
+• Vos informations sont malheureusement très fragiles lorsque vous êtes empoisonné — vous en apprendrez presque toujours sur un joueur bon plutôt que sur un joueur maléfique, et vous ne voudrez peut-être pas faire exécuter ce joueur… Si vous pensez avoir été repéré par l'équipe maléfique et que vous allez être empoisonné en continu parce que vous faites une confiance aveugle à votre dernière cible, c'est peut-être le moment d'accepter que vous n'obtiendrez plus d'informations fiables et d'accepter la mort si l'on ne vous croit pas… Ou alors, vous pouvez discuter avec ce joueur pour voir s'il est prêt à mourir afin de vous donner une autre information qui ne sera peut-être pas empoisonnée cette fois-ci.<br>
 Vous pouvez aussi concentrer vos efforts sur la traque de ce pénible <strong><a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a></strong> ou de cette <strong><a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a></strong> qui fausse vos informations, en espérant que le <strong>Démon</strong> tue votre cible actuelle pendant la nuit pour vous offrir de toutes nouvelles informations croustillantes !
 </p>
 
@@ -191,7 +190,7 @@ Lorsque vous bluffez le <strong>Chasseur de Primes</strong>, gardez quelques poi
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
-• Gardez à l'esprit que lorsque vous prétendez être le <strong>Chasseur de primes</strong>, vous allez accuser un ou plusieurs joueurs bons d'être maléfiques. Plus vous accusez de joueurs d'être maléfiques, plus vous vous faites d'ennemis.<br><br>
+• Gardez à l'esprit que lorsque vous prétendez être le <strong>Chasseur de primes</strong>, vous allez accuser un ou plusieurs joueurs bons d'être maléfiques. Plus vous accusez de joueurs d'être maléfiques, plus vous vous faites d'ennemis.<br>
 Cependant, si vous réussissez votre coup parfaitement, cela peut être un excellent moyen de diviser la partie en séparant les joueurs bons en deux camps. Cela peut également constituer un formidable moyen de détourner l'attention du <strong>Démon</strong> s'il est suspecté.
 </p>
 
@@ -204,7 +203,7 @@ Cependant, si vous réussissez votre coup parfaitement, cela peut être un excel
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
-• Si un joueur vote de manière erratique, vous pouvez le faire passer pour le <strong>Villageois</strong> maléfique, car le <strong>Villageois</strong> maléfique créé par le <strong>Chasseur de primes</strong> ne sait pas qui sont les joueurs maléfiques et voterait probablement ainsi.<br><br>
+• Si un joueur vote de manière erratique, vous pouvez le faire passer pour le <strong>Villageois</strong> maléfique, car le <strong>Villageois</strong> maléfique créé par le <strong>Chasseur de primes</strong> ne sait pas qui sont les joueurs maléfiques et voterait probablement ainsi.<br>
 C'est un excellent moyen d'isoler un joueur apparemment digne de confiance dont le rôle a été vérifié, en affirmant qu'il a commencé comme ce <strong>Villageois</strong> mais qu'il a été rendu maléfique par votre capacité. C'est aussi une très bonne méthode pour discréditer des rôles prouvables comme l'<strong><a href="../tb_roles/vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Immaculée</a></strong> ou la <strong><a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a></strong>.
 </p>
 
