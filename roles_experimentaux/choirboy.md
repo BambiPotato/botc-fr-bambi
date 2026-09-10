@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Enfant de chœur
+title: Choriste
+description: "Si le Démon tue le Roi, vous apprenez quel joueur est le Démon. [+ Roi]"
+image: /images/Icon_choirboy.png
 ---
 
 <p align="left">
@@ -9,44 +11,32 @@ title: Enfant de chœur
   </a>
 </p>
 
-<!-- Enfant de chœur -->
+<hr class="explication">
+
+<!-- Choriste -->
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="./choirboy.html" style="text-decoration:none;">
-    <img src="../images/Icon_choirboy.png" alt="Enfant de chœur" width="260" style="border-radius:12px;">
+    <img src="../images/Icon_choirboy.png" alt="Choriste" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#4ea3ff; font-weight:bold; font-size:22px;">Enfant de chœur</span>
+    <span style="color:#4ea3ff; font-weight:bold; font-size:35px;">Choriste</span>
   </a>
 </div>
 
-<!-- APPARAÎT DANS -->
-<div style="text-align:center; margin: 20px 0;">
-  <a href="../experimentaux.html" style="text-decoration:none;">
-    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
-    <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
-  </a>
-</div>
-
-#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Enfant de chœur</span>
+<hr class="villageois">
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Je l’ai vu, je te dis. J’étais dans les bancs, à ranger les recueils de cantiques,  
-  quand un air lugubre a commencé à sortir de l’orgue.  
-  L’organiste portait une longue cape, avec de longs doigts sur les touches.  
-  Et un chapeau qui ressemblait… exactement… au tien. »
+« Vois sur ton chemin<br> Démons oubliés égarés<br> Donne-leur la main pour les mener<br> Vers des jours sans lendemain »
 </p>
 
----
-
-##  <span style="color:#4ea3ff;">Informations</span>
+## <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong> 
     <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
   </li>
-
-  <li><strong>Nom original :</strong>
+  <li>
+    <strong>Nom original :</strong>
     <a href="https://wiki.bloodontheclocktower.com/Choirboy"
        target="_blank"
        rel="noopener noreferrer"
@@ -54,320 +44,159 @@ title: Enfant de chœur
       Choirboy
     </a>
   </li>
-
   <li><strong>Artiste :</strong> <em>John Grist</em></li>
   <li><strong>Révélé :</strong> 29 avril 2021</li>
 </ul>
 
----
+<hr class="villageois">
 
-##  <span style="color:#4ea3ff;">Résumé</span>
+<!-- APPARAÎT DANS -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../experimentaux.html" style="text-decoration:none;">
+    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:30px;">🎠 Apparaît dans Carrousel rôle Expérimental</span>
+  </a>
+</div>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Si le <span style="color:#d45b5b; font-weight:bold;">Démon</span> tue le 
-  <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a>,  
-  vous apprenez quel joueur est le Démon. [+ le Roi] »</strong>
+<h2 style="color:#4ea3ff;"><span id="resume">Résumé</span></h2>
+<hr class="villageois">
+
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
+Si le Démon tue le Roi, vous apprenez quel joueur est le Démon. <strong>[+ Roi]</strong>
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-L’<strong>Enfant de chœur</strong> apprend qui est le <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
-si celui-ci tue le 
-<a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> 
-pendant la nuit.
+<p class="botc-flavour-text dropcap" style="margin:0; font-size:20px; line-height:1.7;">
+Le Choriste apprend qui est le Démon lorsque le <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> est tué par ce dernier.
 </p>
 
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Le 
-      <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> 
-      peut être en jeu sans qu’il y ait d’Enfant de chœur.</li>
-
-  <li>Lors de la mise en place, avant de mettre les jetons de rôle dans le sac,  
-      si l’Enfant de chœur est en jeu et que le 
-      <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> 
-      ne l’est pas,  
-      retirez un jeton de 
-      <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> 
-      et ajoutez le jeton du 
-      <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a>.
-  </li>
-
-  <li>Si un 
-      <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> 
-      est déjà en jeu, l’Enfant de chœur n’en ajoute pas un deuxième.</li>
-
-  <li>Si le <span style="color:#d45b5b; font-weight:bold;">Démon</span> tue le 
-      <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> 
-      avec sa capacité nocturne,  
-      l’Enfant de chœur apprend quel joueur est le Démon (mais pas son rôle précis).</li>
-
-  <li>Si le <span style="color:#d45b5b; font-weight:bold;">Démon</span> nomme et fait exécuter le 
-      <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> 
-      le jour, cela ne déclenche pas la capacité de l’Enfant de chœur.</li>
-
-  <li>Si un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> tue le 
-      <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a>, 
-      par exemple un 
-      <a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>,  
-      la capacité de l’Enfant de chœur ne se déclenche pas.</li>
-
-  <li>Si le <span style="color:#d45b5b; font-weight:bold;">Démon</span> attaque le 
-      <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> 
-      sans le tuer (par exemple à cause du 
-      <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a>),  
-      l’Enfant de chœur n’apprend rien.</li>
-
-</ul>
-
----
-
-## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>
-    🧞 
-    <img src="../images/Icon_kazali.png" alt="Kazali" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/kazali.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Kazali</a> :  
-    Le 
-    <a href="../roles_experimentaux/kazali.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Kazali</a> 
-    ne peut pas choisir le 
-    <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> 
-    pour le transformer en <span style="color:#d45b5b; font-weight:bold;">Sbire</span> si un Enfant de chœur est en jeu.
-  </li>
-</ul>
-
----
-
-## 🔍 <span style="color:#4ea3ff;">Interactions à connaître</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>
-    <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espion</a> :  
-    Techniquement, l’
-    <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espion</a> 
-    peut être considéré comme le 
-    <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> 
-    pour l’Enfant de chœur s’il est tué par le <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
-    et donc déclencher une information sur l’identité du Démon…  
-    mais ce n’est amusant pour personne, donc il vaut mieux éviter.
-  </li>
-
-  <li>
-    <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a> :  
-    Si un Enfant de chœur est créé en cours de partie, les conditions indiquées entre crochets  
-    sur sa fiche ([+ le 
-    <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a>]) sont ignorées : on ne rajoute pas un Roi à ce moment-là.
-  </li>
-
-  <li>
-    <a href="../roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> :  
-    Vous pouvez montrer à l’Enfant de chœur n’importe lequel des joueurs 
-    <a href="../roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légions</a> 
-    encore en vie comme étant le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.
-  </li>
-
-  <li>
-    <a href="../roles_experimentaux/lilmonsta.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">P’tit Monstre</a> :  
-    L’Enfant de chœur verra la personne qui possède le 
-    <a href="../roles_experimentaux/lilmonsta.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">P’tit Monstre</a> 
-    pour le reste de la nuit  
-    et pour le jour suivant, car c’est le P’tit Monstre qui tue,  
-    et l’information de l’Enfant de chœur arrive après que le babysitter est choisi.
-  </li>
-
-  <li>
-    <a href="../bmr_roles/pukka.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pukka</a> :  
-    Si un 
-    <a href="../bmr_roles/pukka.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pukka</a> 
-    choisit le 
-    <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> 
-    une nuit N puis l’Enfant de chœur à la nuit N+1,  
-    l’Enfant de chœur est empoisonné au moment où le Roi meurt et a donc une information arbitraire cette nuit-là,  
-    avant de mourir la nuit suivante.
-  </li>
-
-  <li>
-    <a href="../sv_roles/vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a> :  
-    Si le 
-    <a href="../sv_roles/vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a> 
-    tue le 
-    <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a>,  
-    vous pouvez montrer à l’Enfant de chœur n’importe quel joueur  
-    qui n’est pas <span style="color:#d45b5b; font-weight:bold;">Démon</span>, pour respecter la règle « toute information bonne est fausse ».
-  </li>
-
-</ul>
-
----
-
-##  <span style="color:#4ea3ff;">Comment Conter</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Pendant la mise en place, avant de préparer le sac,  
-si l’Enfant de chœur est en jeu et que le 
-<a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> 
-ne l’est pas, remplacez un jeton de 
-<a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> 
-par le 
-<a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a>.  
-Ensuite, mettez les jetons dans le sac comme d’habitude.
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; text-align:left;">
+• Le <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> peut être en jeu sans que le Choriste n’y soit. Lors de la mise en place, si le Choriste est en jeu et que le <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> ne l’est pas, ajoutez le <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a>. S’il y a déjà un <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> en jeu, le Choriste n'ajoute pas de deuxième Roi.
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Chaque nuit (sauf la première), si le <span style="color:#d45b5b; font-weight:bold;">Démon</span> tue le 
-<a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a>,  
-endormez le Démon, puis réveillez l’Enfant de chœur.  
-Pointez le joueur qui est le Démon, puis rendormez l’Enfant de chœur.
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; text-align:left;">
+• Si le Démon tue le Roi en utilisant sa capacité, le Choriste apprend quel joueur est le Démon. Si le <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> meurt par exécution après avoir été nommé par le Démon, cela ne compte pas. Si le <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> est tué par un Sbire, comme un <a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> par exemple, cela ne compte pas non plus.
 </p>
 
----
-
-##  <span style="color:#4ea3ff;">Exemples</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-L’
-<a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Imp</a> 
-attaque l’
-<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a>.  
-L’
-<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a> 
-meurt.  
-La nuit suivante, l’
-<a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Imp</a> 
-attaque le 
-<a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a>,  
-qui est protégé par le 
-<a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> : le 
-<a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> 
-survit.  
-La nuit d’après, l’
-<a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Imp</a> 
-attaque de nouveau le 
-<a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a>, 
-cette fois sans protection : le Roi meurt.  
-L’Enfant de chœur se réveille et apprend quel joueur est l’Imp.
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; text-align:left;">
+• Si le Démon attaque le <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> mais ne le tue pas, le Choriste n’apprend pas qui est le Démon.
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le 
-<a href="../bmr_roles/shabaloth.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a> 
-tue le 
-<a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a>.  
-L’Enfant de chœur ivre se réveille et apprend à tort que le 
-<a href="../bmr_roles/general.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Général</a> 
-est le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; text-align:left;">
+• Le Choriste apprend quel joueur est le Démon, mais il n’apprend pas son rôle pour autant.
 </p>
 
----
+<!-- ===== COMMENT CONTER ===== -->
+<h2 style="color:#4ea3ff;"><span id="comment-conter">Comment Conter</span></h2>
+<hr>
 
-##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
+<p class="botc-flavour-text dropcap" style="margin-bottom:10px; font-size:20px;">
+Instructions au Conteur
+</p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; text-align:left;">
+• Lors de la mise en place, avant de mettre les jetons de rôle dans le sac, si le <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> n'est pas déjà en jeu, retirez un jeton Villageois et ajoutez le jeton <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a>.
+</p>
 
-  <li>L’Enfant de chœur est un piège tendu au <span style="color:#d45b5b; font-weight:bold;">Démon</span>.  
-      Sans savoir si vous êtes en jeu, le Démon devra réfléchir à deux fois avant de tuer le 
-      <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a>.  
-      S’il laisse le 
-      <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> 
-      vivre trop longtemps, le Roi risque d’obtenir des informations cruciales.</li>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; text-align:left;">
+• Chaque nuit, sauf la première, si le Démon tue le <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a>, le Démon se rendort, puis réveillez le Choriste. Désignez le Démon, puis le Choriste se rendort.
+</p>
 
-  <li>Si vous mourez, vous pouvez choisir de ne pas révéler votre rôle publiquement.  
-      La simple menace d’un Enfant de chœur vivant peut suffire à effrayer le Démon.  
-      Si des rôles comme le 
-      <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-Mort</a> 
-      ou le 
-      <a href="../sv_roles/reveur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Rêveur</a> 
-      apprennent qui vous êtes, discutez avec eux et coordonnez un mensonge crédible sur votre rôle.</li>
+<!-- ===== EXEMPLES ===== -->
+<h2 style="color:#4ea3ff;"><span id="exemples">Exemples</span></h2>
+<hr>
 
-  <li>Si le 
-      <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> 
-      se révèle, essayez de lui parler discrètement.  
-      Si vous êtes trop visible dans vos tentatives de prendre contact,  
-      cela peut indiquer au Démon que vous êtes l’Enfant de chœur.  
-      Vous pouvez aussi passer par un joueur ou une joueuse de confiance  
-      qui parlera au Roi à votre place.</li>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; text-align:left;">
+• Le <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> attaque l’<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>. L’<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a> meurt.<br>
+La nuit suivante, le <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> attaque le <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a>, qui est alors protégé par le <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a>.<br>
+Le <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> survit. La nuit suivante, le <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> attaque le <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a>, qui n'est plus protégé par le <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a>.<br>
+Le <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> meurt. Le <strong>Choriste</strong> apprend quel joueur est le Démon.
+</p>
 
-  <li>Si personne ne revendique le rôle de 
-      <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a>,  
-      vous savez pourtant qu’il devrait être en jeu.  
-      Dans ce cas, seules deux personnes le savent avec certitude : vous et le Démon.  
-      Vous ignorez qui est le Roi, mais le Démon, lui, le connaît et peut être très perplexe  
-      de le voir rester caché.</li>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; text-align:left;">
+• Le <a href="../bmr_roles/shabaloth.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a> tue le <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a>. Le <strong>Choriste</strong> ivre se réveille et apprend que le <a href="../roles_experimentaux/general.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Général</a> est le Démon.
+</p>
 
-  <li>Vous pouvez échanger de rôle avec un autre joueur (via un effet de script)  
-      et le laisser se revendiquer comme Enfant de chœur à votre place.  
-      Si le <span style="color:#d45b5b; font-weight:bold;">Démon</span> tue ce faux Enfant de chœur puis tue le 
-      <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a>,  
-      c’est vous qui apprendrez qui est le Démon, tout en restant caché.</li>
+<!-- ===== CONSEILS & ASTUCES ===== -->
+<h2 style="color:#4ea3ff;"><span id="conseils-astuces">Conseils &amp; Astuces</span></h2>
+<hr>
 
-</ul>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; text-align:left;">
+• Le <strong>Choriste</strong> est un piège pour le <strong>Démon</strong>.<br>
+Ne pas savoir si vous êtes en jeu ou non obligera le <strong>Démon</strong> à agir avec beaucoup plus de prudence envers le <strong><a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a></strong>.<br>
+Cependant, le <strong>Démon</strong> fait face à un dilemme : s'il laisse le <strong><a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a></strong> en vie trop longtemps, ce dernier obtiendra d'excellentes informations à un moment crucial de la partie.<br>
+Essayez de survivre aussi longtemps que possible pour maintenir la pression sur le <strong>Démon</strong>.
+</p>
 
----
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; text-align:left;">
+• Si vous mourez, ne le révélez pas publiquement, car la simple menace de votre présence en vie peut suffire.<br>
+Vous pouvez emporter votre secret dans la tombe.<br>
+Si des rôles comme le <strong><a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a></strong> ou le <strong><a href="../sv_roles/reveur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Rêveur</a></strong> découvrent votre identité, il peut être judicieux de discuter avec eux pour qu'ils mentent sur votre rôle.<br>
+N'oubliez pas que la menace d'un <strong>Choriste</strong> vivant est presque aussi efficace qu'un <strong>Choriste</strong> réellement en vie.
+</p>
 
-##  <span style="color:#4ea3ff;">Bluffer Enfant de chœur</span>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; text-align:left;">
+• Si le <strong><a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a></strong> se révèle, essayez de lui rendre visite le plus discrètement possible.<br>
+Si vous cherchez à contacter le <strong><a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a></strong> de manière trop évidente, cela pourrait signaler au <strong>Démon</strong> que vous êtes le <strong>Choriste</strong>.<br>
+Vous pouvez trouver un joueur de confiance et le charger de parler au <strong><a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a></strong> en votre nom.<br>
+Même s'il ne révèle pas votre identité au <strong><a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a></strong>, il lui fera savoir qu'un <strong>Choriste</strong> est en jeu, ce qui pourrait lui permettre d'agir en plus grande sécurité.
+</p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; text-align:left;">
+• Si personne ne se déclare comme étant le <strong><a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a></strong>, vous savez qu'il devrait tout de même y en avoir un en jeu.<br>
+Pour une raison quelconque, il ne se révèle pas.<br>
+À ce stade, seuls vous et le <strong>Démon</strong> savez avec certitude qu'un <strong><a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a></strong> est en jeu, mais le <strong>Démon</strong> a l'avantage de savoir qui il est et pourrait être assez confus quant à la raison pour laquelle il ne se dévoile pas.
+</p>
 
-  <li>Le <span style="color:#d45b5b; font-weight:bold;">Démon</span> sait s’il y a un 
-      <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> en jeu.  
-      S’il n’y a pas de 
-      <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a>,  
-      un bluff d’Enfant de chœur fonctionne mieux  
-      si un autre joueur maléfique prétend être le Roi.  
-      Si le Démon (ou un autre <span style="color:#d45b5b; font-weight:bold;">Sbire</span>) bluffe 
-      <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a>, 
-      appuyez son bluff en disant à quelques joueurs  
-      que vous êtes l’Enfant de chœur.</li>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; text-align:left;">
+• Échangez votre rôle avec un autre joueur et laissez-le prétendre être le <strong>Choriste</strong>.<br>
+Si le <strong>Démon</strong> tue ce faux <strong>Choriste</strong> puis tue le <strong><a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a></strong>, vous découvrez l'identité du <strong>Démon</strong>.<br>
+Bien sûr, si l'autre joueur est trop peu crédible dans sa revendication, le <strong>Démon</strong> risque de ne pas le croire.<br>
+Cependant, l'incertitude ainsi créée peut tout de même aider à maintenir le <strong><a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a></strong> en vie.
+</p>
 
-  <li>S’il y a vraiment un 
-      <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> en jeu,  
-      prétendez être l’Enfant de chœur auprès de ce Roi.  
-      Vous pourrez ainsi savoir s’il existe un véritable Enfant de chœur,  
-      ce qui est très utile pour le Démon.  
-      S’il n’y a pas de double, le 
-      <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> 
-      est une cible sûre ;  
-      vous pourrez même lancer un faux accusé de Démon quand il mourra.</li>
+<!-- ===== BLUFFER ===== -->
+<h2 style="color:#4ea3ff;"><span id="bluffer-choriste">Bluffer le Choriste</span></h2>
+<hr>
 
-  <li>Bluffer Enfant de chœur mène naturellement à une situation critique  
-      si le 
-      <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> 
-      (vrai ou faux) est tué par le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.  
-      Le village s’attendra alors à ce que vous accusiez quelqu’un comme étant le Démon.  
-      Votre bluff risque de s’effondrer quand ce joueur sera exécuté  
-      et que la partie ne se terminera pas…  
-      sauf s’il y a des rôles comme la 
-      <a href="../tb_roles/femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme Écarlate</a> 
-      en jeu, qui permettent au Mal de survivre à l’exécution du Démon.</li>
+<p style="font-size:20px; line-height:1.7;">
+Lorsque vous bluffez en tant que <strong>Choriste</strong>, il y a plusieurs choses à garder en tête :
+</p>
 
-  <li>S’il existe d’autres morts nocturnes que celle du <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
-      comme l’
-      <a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> 
-      ou le 
-      <a href="../roles_experimentaux/lycanthrope.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lycanthrope</a>,  
-      et que le 
-      <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> 
-      (vrai ou faux) meurt la nuit, vous pouvez toujours prétendre  
-      que vous n’avez rien appris : cela suggère que le Roi est mort par une autre source  
-      que le Démon. Attention toutefois si un effet supplémentaire devrait se produire  
-      (comme une mort d’Assassin manquante).</li>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; text-align:left;">
+• Le <strong>Démon</strong> saura si un <strong>Roi</strong> est en jeu ou non.<br>
+S'il n'y a pas de <strong><a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a></strong>, un bluff de <strong>Choriste</strong> devra s'associer à un autre joueur maléfique qui prétendra être le <strong><a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a></strong>.<br>
+Si le <strong>Démon</strong> ou un autre joueur maléfique commence par bluffer le <strong><a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a></strong>, soutenez son bluff en révélant à quelques personnes que vous êtes le <strong>Choriste</strong>.
+</p>
 
-  <li>Attention si vous vous retrouvez en binôme avec un Enfant de chœur.  
-      Si le <span style="color:#d45b5b; font-weight:bold;">Démon</span> tue le 
-      <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> 
-      alors que le vrai Enfant de chœur est encore en vie,  
-      vous devrez tout de même accuser quelqu’un.  
-      Si cela arrive tôt dans la partie, il ne sera qu’une question de temps  
-      avant que le village n’exécute le véritable Démon (ou l’un des deux suspects restants).</li>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; text-align:left;">
+• Si un <strong><a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a></strong> est en jeu, prétendez être un <strong>Choriste</strong> auprès du <strong><a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a></strong>.<br>
+Cela peut vous aider à découvrir s'il existe un vrai <strong>Choriste</strong> ou non, ce qui constitue une information utile pour le <strong>Démon</strong>.<br>
+Si le <strong><a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a></strong> ne révèle pas qu'il y a un doublon, il devient sans danger de le tuer et, mieux encore, vous pouvez alimenter la partie avec une fausse accusation de <strong>Démon</strong>.<br>
+En revanche, s'il y a un doublon, vous pourriez aider à débusquer le vrai <strong>Choriste</strong> et amener les joueurs à douter de leurs informations.
+</p>
 
-</ul>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; text-align:left;">
+• Bluffer en tant que <strong>Choriste</strong> peut atteindre son paroxysme si le <strong><a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a></strong> (vrai ou faux) est tué par le <strong>Démon</strong>.<br>
+Car lorsque cela se produit, le village s'attendra à ce que vous désigniez un <strong>Démon</strong>.<br>
+Ce bluff s'effondrera probablement lorsque le joueur que vous avez accusé sera exécuté et que la partie ne se terminera pas immédiatement.<br>
+Vous pourriez vous en sortir s'il y a des <strong>Sbires</strong> comme la <strong><a href="../tb_roles/femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme écarlate</a></strong> sur le script.
+</p>
 
----
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; text-align:left;">
+• S'il existe d'autres causes de mort nocturne que le <strong>Démon</strong>, comme l'<strong><a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a></strong> ou le <strong><a href="../roles_experimentaux/lycanthrope.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lycanthrope</a></strong>, et que le <strong><a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a></strong> (faux ou non) meurt durant la nuit, vous pouvez toujours affirmer que vous n'avez rien appris, ce qui suggère que le <strong><a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a></strong> a été tué par l'un d'eux à la place.<br>
+Cela peut être délicat si une mort supplémentaire aurait dû avoir lieu mais ne s'est pas produite (comme avec l'<strong><a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a></strong>).
+</p>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; text-align:left;">
+• Soyez prudent si vous vous retrouvez réellement en doublon avec un vrai <strong>Choriste</strong> — car si le <strong><a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a></strong> est tué par le <strong>Démon</strong> alors que le vrai <strong>Choriste</strong> est vivant, vous devrez accuser quelqu'un d'être le <strong>Démon</strong>.<br>
+Si cela se produit trop tôt, ce n'est qu'une question de temps avant que les joueurs n'exécutent le vrai <strong>Démon</strong>, leurs choix se réduisant alors à deux joueurs.
+</p>
+
+<hr class="explication">
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
-   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+• <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+• <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
+• <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
