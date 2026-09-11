@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Ingénieur
+description: "Une fois par partie, la nuit, choisissez quel Démon ou quels Sbires sont en jeu."
+image: /images/Icon_engineer.png
 ---
 
 <p align="left">
@@ -8,6 +10,8 @@ title: Ingénieur
     <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
+
+<hr class="explication">
 
 <!-- Ingénieur -->
 
@@ -19,425 +23,214 @@ title: Ingénieur
   </a>
 </div>
 
-<!-- APPARAÎT DANS -->
-<div style="text-align:center; margin: 20px 0;">
-  <a href="../experimentaux.html" style="text-decoration:none;">
-    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
-    <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
-  </a>
-</div>
+<hr class="villageois">
 
-# ⚙️ <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Ingénieur</span>
 
-<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Si ça plie, parfait. Si ça casse… c’est que ça devait être réparé. »
-</p>
 
----
-
-##  <span style="color:#4ea3ff;">Informations</span>
+<h2><span style="color:#4ea3ff;">Informations</span></h2>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong> 
     <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
   </li>
   <li>
-  <strong>Nom original :</strong>
-  <a href="https://wiki.bloodontheclocktower.com/Engineer"
-     target="_blank"
-     rel="noopener noreferrer"
-     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
-   Engineer
-  </a>
-</li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Engineer"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+      Engineer
+    </a>
+  </li>
   <li><strong>Artiste :</strong> <em>John Grist</em></li>
   <li><strong>Révélé :</strong> 21 octobre 2021</li>
 </ul>
 
----
-
-##  <span style="color:#4ea3ff;">Résumé</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Une fois par partie, de nuit, vous choisissez quels Sbires ou quel Démon est en jeu. »</strong>
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:20px; margin-top:-10px;">
+« Je ne m’énerve pas ! <br> J’explique pourquoi vous avez tort. »
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-L’<strong>Ingénieur</strong> reconstruit l’équipe maléfique : une seule fois dans la partie, il peut décider 
-quels <span style="color:#d45b5b; font-weight:bold;">Sbires</span> sont en jeu <em>ou</em> quel 
-<span style="color:#d45b5b; font-weight:bold;">Démon</span> est en jeu, mais pas les deux à la fois.
+<hr class="villageois">
+
+<!-- APPARAÎT DANS -->
+<div style="text-align:center; margin: 20px 0%;">
+  <a href="../experimentaux.html" style="text-decoration:none;">
+    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : Carrousel rôle expérimental</span>
+  </a>
+</div>
+
+<h2><span style="color:#4ea3ff;">Résumé</span></h2>
+<hr class="villageois">
+
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
+« Une fois par partie, la nuit, choisissez quel Démon ou quels Sbires sont en jeu. »
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>L’Ingénieur peut, <strong>une fois par partie</strong>, de nuit, choisir :
-    <ul>
-      <li>quels <span style="color:#d45b5b; font-weight:bold;">Sbires</span> sont en jeu, <strong>ou</strong></li>
-      <li>quel <span style="color:#d45b5b; font-weight:bold;">Démon</span> est en jeu.</li>
-    </ul>
-    Il ne peut pas choisir les deux dans la même utilisation.
+<p class="botc-flavour-text dropcap" style="font-size:20px; margin:0;">
+L’Ingénieur fabrique la menace qui pèse sur le village.
+</p><br>
+
+<p style="font-size:20px; margin:0;">• L’Ingénieur peut choisir quels rôles de Sbires sont en jeu, ou quel Démon est en jeu, mais pas les deux.</p><br>
+
+<p style="font-size:20px; margin:0;">• Lorsque l’Ingénieur crée de nouveaux rôles, le joueur Démon reste le Démon, et les joueurs Sbires restent des Sbires. Le nombre de joueurs maléfiques reste le même.</p><br>
+
+<p style="font-size:20px; margin:0;">• Si l'Ingénieur tente de créer un rôle déjà en jeu, le joueur qui a ce rôle le garde. <br>L'Ingénieur ne l’apprend pas et ne peut pas utiliser à nouveau sa capacité.</p><br>
+
+<p style="font-size:20px; margin:0;">• S'il crée des Sbires, l'Ingénieur doit créer un nombre de Sbires correspondant à la configuration des joueurs présents (voir la fiche des Voyageurs ou la fiche de mise en place).</p><br>
+
+<p style="font-size:20px; margin:0;">• Si l'Ingénieur choisit par erreur trop ou trop peu de rôles, le Conteur fait les corrections nécessaires pour que le nombre de rôles maléfiques reste juste et raisonnable.</p><br>
+
+<p style="font-size:20px; margin:0;">• Seuls les rôles du script actuel peuvent être choisis.</p>
+
+
+<h2><span style="color:#4ea3ff;">Comment Conter</span></h2>
+<hr>
+
+<p class="botc-flavour-text dropcap" style="margin:0; font-size:20px;">
+Instructions au Conteur
+</p>
+
+<p style="font-size:20px;">Chaque nuit, réveillez l'Ingénieur. Il fait non de la tête ou désigne des rôles maléfiques sur sa fiche de rôles.</p>
+
+<p style="font-size:20px;">S’il fait non de la tête, rien ne se passe. L’Ingénieur se rendort.</p>
+
+<p style="font-size:20px;">S'il désigne un Démon ou des Sbires sur sa fiche de rôles, il se rendort également, mais de votre côté, vous faites des échanges pour mettre en jeu les nouveaux jetons de rôle. Réveillez chaque joueur maléfique qui a changé de rôle le temps de leur montrer la tuile <strong>« Vous êtes »</strong> puis leur nouveau jeton de rôle. <strong>L'Ingénieur perd sa capacité</strong> — marquez-le du jeton <strong>« Sans capacité »</strong> et retirez son jeton de nuit de la fiche de nuit.</p>
+
+<h2><span style="color:#4ea3ff;">Exemples</span></h2>
+<hr>
+
+<p style="font-size:20px;">La deuxième nuit, l'Ingénieur choisit que le Démon est un <a href="../roles_experimentaux/lleech.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parasyte</a>. Lewis, qui était le <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>, est désormais le <a href="../roles_experimentaux/lleech.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parasyte</a>.</p>
+
+<p style="font-size:20px;">La première nuit, l'Ingénieur transforme le <a href="../tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> en <a href="../roles_experimentaux/boomdandy.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boumdandy</a>. Les Marginaux ajoutés par le <a href="../tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> à la mise en place restent en jeu.</p>
+
+<p style="font-size:20px;">Le <a href="../roles_experimentaux/fearmonger.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Tourmenteur</a> et le <a href="../roles_experimentaux/psychopath.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Psychopathe</a> sont en jeu et sèment le chaos. L'Ingénieur choisit que le <a href="../roles_experimentaux/mezepheles.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mezepheles</a> et l’<a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a> sont en jeu. Le Conteur choisit de transformer le <a href="../roles_experimentaux/fearmonrger.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Tourmenteur</a> en <a href="../roles_experimentaux/mezepheles.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mezepheles</a> et le <a href="../roles_experimentaux/psychopath.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Psychopathe</a> en <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a>.</p>
+
+<p style="font-size:20px;">L’<a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a>, l’<a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> et la <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> sont en jeu. L'Ingénieur choisit que l’<a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a>, l'<a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> et le <a href="../roles_experimentaux/mezepheles.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mezepheles</a> sont en jeu. La <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> se transforme en <a href="../roles_experimentaux/mezepheles.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mezepheles</a>.</p>
+
+<h2><span style="color:#4ea3ff;">Astuces et Conseils</span></h2>
+<hr>
+
+<p style="font-size:20px; margin:0;">Si vous êtes l'Ingénieur, vous pouvez accomplir en grande partie l'une de ces quatre choses : décider quels Sbires sont en jeu, décider quels Sbires ne sont pas en jeu, décider quel Démon est en jeu, ou décider quel Démon n'est pas en jeu.</p><br>
+
+<p style="font-size:20px; margin:0;">Si vous choisissez quels Sbires sont en jeu, cela vous permet, ainsi qu'à toute l'équipe bonne, de savoir à quoi vous vous affrontez. C'est une information cruciale. Savoir qu'un <a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Gobelin</a> ou un <a href="../roles_experimentaux/boomdandy.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boumdandy</a> est en jeu signifie au moins qu'il faut se méfier de qui vous exécutez. Savoir qu'une <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a> ou une <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a> est en jeu signifie que vous et tous les joueurs bons devriez révéler votre identité, honnêtement et dès que possible. Savoir ce à quoi vous faites face vous permet de planifier votre stratégie en conséquence. De même, choisir quel Démon est en jeu vous permet de planifier la marche à suivre. Savoir qu'un <a href="../sv_roles/vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a> est en jeu signifie par exemple que l'équipe bonne doit inverser ses informations, car elles ne peuvent pas être vraies.</p><br>
+
+<p style="font-size:20px; margin:0;">Si vous souhaitez choisir quels Sbires ne sont pas en jeu, choisissez simplement d'autres Sbires pour les remplacer. Si vous voulez éviter d'être empoisonné, choisir d'autres rôles que l'<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> peut vous en garantir l'absence. Si votre groupe est particulièrement vulnérable au <a href="../bmr_roles/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a>, vous pouvez vous assurer de ne pas avoir à vous en soucier en remplaçant tous les Sbires par d'autres rôles. De même, si vous ne savez pas quel Démon vous voulez voir en jeu, mais qu'il y en a un en particulier dont vous ne voulez ABSOLUMENT pas, choisissez de transformer le Démon en un autre rôle. Vous affronterez toujours un adversaire puissant, mais pas celui que vous redoutez le plus.</p><br>
+
+<p style="font-size:20px; margin:0;">Pour éviter que l'équipe maléfique (ou l'équipe bonne !) ne vous tue avant que vous n'utilisiez votre capacité, utilisez-la dès la première nuit. Cela vous garantit de pouvoir agir. L'inconvénient d'agir si tôt est que vous manquez les discussions de groupe et toute information pertinente susceptible d'influencer votre décision, comme savoir quels rôles bons sont en jeu et quels rôles maléfiques ils sont particulièrement aptes à combattre.</p><br>
+
+<p style="font-size:20px; margin:0;">Pour choisir les Sbires ou le Démon les plus adaptés à créer, attendez la deuxième ou troisième nuit et suscitez autant de discussions que possible entre-temps. Pour prendre la meilleure décision possible, vous devrez connaître un maximum de rôles bons en jeu afin que leurs capacités spécifiques soient exploitées au maximum — comme créer un <a href="../sv_roles/vigormortis.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vigormortis</a> pour aider l'<a href="../sv_roles/oracle.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Oracle</a> à détecter les joueurs maléfiques, ou créer un <a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Gobelin</a> si un <a href="../voyageurs/voudon.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voudon</a> est en jeu et que vous êtes à peu près sûr que tous les joueurs morts sont bons.</p><br>
+
+<p style="font-size:20px; margin:0;">Le timing peut être crucial pour l'Ingénieur. Certaines capacités maléfiques peuvent être entièrement annulées si vous agissez au bon moment. Par exemple, si vous transformez le <a href="../roles_experimentaux/mezepheles.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mezepheles</a> en <a href="../bmr_roles/avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a> la nuit où le <a href="../roles_experimentaux/mezepheles.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mezepheles</a> devait rendre un joueur maléfique, ce joueur restera bon. Si vous transformez l'<a href="../bmr_roles/avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a> en <a href="../roles_experimentaux/mezepheles.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mezepheles</a> lors de la dernière nuit, vous garantissez que le dernier jour se déroulera sans que le Démon ne soit protégé d'une exécution ET vous empêchez le <a href="../roles_experimentaux/mezepheles.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mezepheles</a> d'utiliser sa capacité (puisqu'il n'y aura plus d'autres nuits).</p><br>
+
+<p style="font-size:20px; margin:0;">Créer un Démon ou un Sbire évident en milieu de partie peut confirmer votre identité d'Ingénieur. L'apparition surprise d'un <a href="../roles_experimentaux/fearmonger.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Semeur de peur</a> ou d'une <a href="../sv_roles/jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumelle maléfique</a> incitera l'équipe bonne à vous faire confiance, car ces rôles ne semblaient pas exister le jour précédent ; mais ce ne sont pas forcément les Sbires que l'équipe bonne souhaite réellement affronter. Faites attention à équilibrer les bénéfices d'une réputation dorée de joueur bon avec ceux d'affronter les Sbires et Démons les plus faciles à gérer.</p><br>
+
+<p style="font-size:20px; margin:0;">N'ayez pas peur de créer des rôles qui ajoutent des Marginaux entre crochets, comme [ceci]. Les crochets indiquent au Conteur quels jetons ajouter ou retirer lors de la mise en place de la partie, et n'ont aucun impact en cours de jeu. Si vous ajoutez un <a href="../tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a>, deux Marginaux ne seront pas ajoutés en cours de partie.</p><br>
+
+<p style="font-size:20px; margin:0;">Le volume de discussion que vous suscitez autour de votre capacité dépend entièrement de vous. Trop de discussions, et le Démon pourrait vous tuer durant la nuit pour vous empêcher d'agir. Trop peu, et le groupe pourrait se méfier de vous pour ne pas l'avoir impliqué dans la décision.</p>
+
+<h2><span style="color:#4ea3ff;">Bluffer l'Ingénieur</span></h2>
+<hr>
+
+<p style="font-size:20px; margin:0;">Lorsque vous bluffez l'Ingénieur, gardez quelques éléments en tête :</p><br>
+
+<p style="font-size:20px; margin:0;">La façon la plus simple de bluffer l'Ingénieur est de déclarer que vous avez créé le rôle que vous incarnez réellement. Si vous êtes l'<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>, dites que vous avez créé un <a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>. Si vous êtes le <a href="../bmr_roles/shabaloth.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a>, dites que vous avez créé un <a href="../bmr_roles/shabaloth.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a>. Vous devrez peut-être le faire dès la première ou deuxième nuit, avant que l'équipe bonne ne discute et n'insiste pour que vous choisissiez un rôle particulier qu'elle aura elle-même décidé !</p><br>
+
+<p style="font-size:20px; margin:0;">Veillez à annoncer au groupe la création d'un rôle qui ne laisse pas d'indice évident. Si vous prétendez avoir créé un <a href="../roles_experimentaux/al_hadikhia.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Al-Hadikhia</a> alors qu'aucun <a href="../roles_experimentaux/al_hadikhia.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Al-Hadikhia</a> n'agit la nuit, vous aurez des explications très embarrassantes à fournir. En revanche, si vous dites avoir créé un <a href="../bmr_roles/pukka.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pukka</a>, il sera beaucoup plus difficile pour le groupe de savoir si vous mentez ou non, à condition que le vrai Démon soit un <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>, un <a href="../sv_roles/fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a> ou similaire, et PAS un rôle comme l'<a href="../roles_experimentaux/al_hadikhia.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Al-Hadikhia</a> qui contredirait cette information.</p><br>
+
+<p style="font-size:20px; margin:0;">Si aucun des rôles maléfiques sur le script ne laisse d'indice évident, n'hésitez pas à susciter autant de discussions que possible sur les rôles maléfiques que vous devriez créer. L'équipe bonne n'aura aucun moyen de savoir si votre capacité d'Ingénieur a fonctionné ou non.</p><br>
+
+<p style="font-size:20px; margin:0;">Si vous souhaitez semer la confusion dans l'équipe bonne, dites-lui que vous avez créé des rôles maléfiques différents des véritables rôles maléfiques en jeu.</p><br>
+
+<p style="font-size:20px; margin:0;">Si vous voulez passer pour un joueur bon, au détriment de l'aide que vous pourriez apporter à l'équipe bonne pour y voir clair, dites-lui que vous avez créé des rôles maléfiques identiques aux vrais rôles maléfiques en jeu.</p><br>
+
+<p style="font-size:20px; margin:0;">Quel que soit le ou les rôles que vous décidez d'annoncer à l'équipe bonne, préparez une histoire solide et bien ficelée sur le POURQUOI de votre choix. Souvent, l'équipe bonne se focalisera sur la menace supplémentaire qu'un nouveau rôle maléfique crée plutôt que sur le bénéfice d'avoir retiré d'autres rôles maléfiques, et verra votre choix comme quelque chose qui a renforcé le mal. Par exemple, si vous lui dites que vous avez créé une <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> et un <a href="../sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a>, l'équipe bonne pourrait crier au scandale si elle ne voit que le risque supplémentaire de mourir pendant le jour ; mais si vous expliquez que vous avez créé ces rôles spécifiquement pour éviter la présence d'un <a href="../bmr_roles/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a> ou d'un <a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Gobelin</a>, et que le groupe connaît très bien Sects & Violets donc vous pensiez qu'il jouerait mieux contre des Sbires familiers, ce sera bien plus crédible qu'un simple haussement d'épaules.</p><br>
+
+<p style="font-size:20px; margin:0;">Bluffer l'Ingénieur dépend grandement des Sbires et Démons présents sur la fiche de rôle. Avant de vous lancer, discutez avec vos coéquipiers maléfiques pour savoir quels rôles ils incarnent (par exemple <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a>, <a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> ou <a href="../roles_experimentaux/psychopath.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Psychopathe</a>) et prévenez-les que vous comptez bluffer l'Ingénieur. Savoir quels rôles maléfiques sont réellement en jeu et ce que ces joueurs comptent faire vous aidera considérablement à rendre votre bluff fluide et sans accrocs.</p>
+
+
+<h2><span style="color:#4ea3ff;">Interactions à connaître</span></h2>
+<hr class="villageois">
+
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0; list-style-type:none;">
+  <li>
+    <a href="../bmr_roles/femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de chambre</a> : <br>
+    Les Sbires et Démons qui se réveillent uniquement pour apprendre leur nouveau rôle suite à l’Ingénieur ne comptent pas pour la <a href="../bmr_roles/femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de chambre</a> cette nuit-là. <br>Ils ne compteront que lorsqu’ils se réveilleront pour utiliser leur <em>nouvelle</em> capacité.
+  </li><br>
+
+  <li>
+    <a href="../roles_experimentaux/preacher.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Prédicateur</a> : <br>
+    Si le <a href="../roles_experimentaux/preacher.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Prédicateur</a> a déjà choisi un Sbire qui est ensuite changé par l’Ingénieur, ce Sbire apprend son nouveau rôle, mais reste affecté par le <a href="../roles_experimentaux/preacher.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Prédicateur</a> : il n’a pas la capacité de son nouveau rôle.
+  </li><br>
+
+
+  <li>
+    <a href="../roles_experimentaux/marionnette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> : <br>
+    Si une <a href="../roles_experimentaux/marionnette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> est créée par l’Ingénieur, elle n’a pas besoin d’être voisine du Démon. <br>La nouvelle <a href="../roles_experimentaux/marionnette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> ne voit pas le jeton « Marionnette » mais n’importe quel jeton de Villageois ou Marginal. <br>Si une <a href="../roles_experimentaux/marionnette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> est transformée en un autre Sbire par l’Ingénieur, elle apprend simplement ce nouveau rôle. <br>Dans les deux cas, son alignement ne change pas : on ne lui dit rien à ce sujet.
+  </li><br>
+
+
+  <li>
+    <a href="../sv_roles/fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a> / <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> : <br>
+    S’il y a plusieurs copies d’un même Démon au moment du choix de l’Ingénieur, tous les joueurs ayant ce rôle de Démon changent de rôle.
+  </li><br>
+
+  <li>
+    <a href="../bmr_roles/po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a> : <br>
+    Si un Démon qui ne s’est pas réveillé cette nuit est transformé en <a href="../bmr_roles/po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a> par l’Ingénieur, il ne peut pas attaquer trois fois cette nuit. <br>Le <a href="../bmr_roles/po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a> doit avoir choisi « personne » de lui-même une nuit précédente pour activer cette option.
+  </li><br>
+
+  <li>
+    <a href="../roles_experimentaux/lilmonsta.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Timonstre</a> : <br>
+    Si l’Ingénieur choisit un autre Démon alors que le <a href="../roles_experimentaux/lilmonsta.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Timonstre</a> était en jeu, l’actuel babysitter devient le Démon avec son rôle précédent. <br>Si l’Ingénieur choisit de mettre en jeu un <a href="../roles_experimentaux/lilmonsta.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Timonstre</a>, l’ancien Démon devient un Sbire qui n’était pas en jeu et le <a href="../roles_experimentaux/lilmonsta.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Timonstre</a> reste en jeu.
+  </li><br>
+
+  <li>
+    <a href="../bmr_roles/pukka.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pukka</a> : <br>
+    Le <a href="../bmr_roles/pukka.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pukka</a> peut techniquement être considéré comme Sbire ou Démon et être changé par l’Ingénieur, ou influer sur les rôles qui sont changés… mais il vaut mieux éviter ces constructions trop tordues.
+  </li><br>
+
+  <li>
+    <a href="../sv_roles/vigormortis.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vigormortis</a> : <br>
+    Si le <a href="../sv_roles/vigormortis.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vigormortis</a> est transformé en un autre Démon par l’Ingénieur, les Sbires qu’il avait tués perdent leur capacité, et son voisin cesse d’être empoisonné immédiatement.
+  </li><br>
+
+  <li>
+    <a href="../bmr_roles/zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> : <br>
+    Si un <a href="../bmr_roles/zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> qui semble mort est changé en un autre Démon, il continue d’<em>apparaître</em> mort, mais est compté comme vivant pour tous les autres effets.
+  </li><br>
+
+  <li>
+    <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a> : <br>
+    La <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a> est un Marginal très particulier. Évitez les interactions trop confuses entre la <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a> et l'Ingénieur : cela peut vite devenir illisible.
   </li>
-
-  <li>Quand l’Ingénieur crée de nouveaux rôles maléfiques, le joueur Démon reste Démon,  
-      les joueurs Sbires restent Sbires : seul leur <strong>rôle</strong> change, pas l’alignement ni la répartition.</li>
-
-  <li>Si l’Ingénieur choisit un rôle déjà en jeu (par exemple un Démon qui est déjà celui de la partie),  
-      rien ne change en pratique, et l’Ingénieur ne le sait pas : sa capacité est tout de même dépensée.</li>
-
-  <li>Si l’Ingénieur choisit les Sbires, il doit désigner autant de Sbires que le nombre prévu pour ce nombre de joueurs  
-      (comme indiqué par les aides de mise en place).</li>
-
-  <li>Si l’Ingénieur désigne trop ou pas assez de rôles maléfiques, la conteuse ajuste au mieux en changeant  
-      un nombre « raisonnable » de rôles maléfiques pour garder une partie jouable.</li>
-
-  <li>L’Ingénieur ne peut choisir que des rôles présents sur le script actuel.</li>
 </ul>
 
+<hr class="villageois">
 
----
+<h2>🧞 <span style="color:#4ea3ff;">Jinxes liés</span></h2>
 
-## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0; list-style-type:none;">
   <li>
     🧞 
     <img src="../images/Icon_legion.png" alt="Légion" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> :  
-    Si l’Ingénieur crée une Légion, tous les joueurs maléfiques deviennent des Légions maléfiques.  
-    Si la Légion est déjà en jeu, l’Ingénieur le sait au départ, mais n’a pas de capacité.
-  </li>
+    <a href="../roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> : <br>
+    Si la <a href="../roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> est créée, tous les joueurs maléfiques en deviennent membres. <br>Si la <a href="../roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> est en jeu, l'Ingénieur en prend connaissance, mais n' a aucune capacité.
+  </li><br>
 
   <li>
     🧞 
     <img src="../images/Icon_summoner.png" alt="Invocateur" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/summoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocateur</a> :  
-    Si l’
-    <a href="../roles_experimentaux/summoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocateur</a> vivant est retiré de la partie,  
-    la conteuse gagne la capacité de l’Invocateur.
+    <a href="../roles_experimentaux/summoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocatrice</a> : <br>
+    Si l’<a href="../roles_experimentaux/summoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocatrice</a> est créée après la première nuit, elle peut choisir le Démon cette nuit-là.
   </li>
-
 </ul>
 
----
+<hr class="explication">
 
-##  <span style="color:#4ea3ff;">Interactions à connaître</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>
-    <a href="../bmr_roles/femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de Chambre</a> :  
-    Les <span style="color:#d45b5b; font-weight:bold;">Sbires</span> et <span style="color:#d45b5b; font-weight:bold;">Démons</span> qui se réveillent uniquement pour apprendre leur nouveau rôle suite à l’Ingénieur  
-    ne comptent pas pour la Femme de Chambre cette nuit-là.  
-    Ils ne compteront que lorsqu’ils se réveilleront pour utiliser leur <em>nouvelle</em> capacité.
-  </li>
-
-  <li>
-    <a href="../roles_experimentaux/preacher.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Prédicateur</a> :  
-    Si le Prédicateur a déjà choisi un Sbire qui est ensuite changé par l’Ingénieur, ce Sbire apprend son nouveau rôle,  
-    mais reste affecté par le Prédicateur : il n’a pas la capacité de son nouveau rôle.
-  </li>
-
-  <li>
-    <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espion</a> :  
-    L’Espion peut être considéré comme autre chose qu’un Sbire par la conteuse et donc conserver sa capacité  
-    malgré une tentative de changement par l’Ingénieur.
-  </li>
-
-  <li>
-    <a href="../roles_experimentaux/marionnette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> :  
-    Si une Marionnette est créée par l’Ingénieur, elle n’a pas besoin d’être voisine du <span style="color:#d45b5b; font-weight:bold;">Démon</span>.  
-    La nouvelle Marionnette ne voit pas le jeton « Marionnette » mais n’importe quel jeton de 
-    <span style="color:#4ea3ff; font-weight:bold;">Villageois</span> ou <span style="color:#4ea3ff; font-weight:bold;">Étranger</span>.  
-    Si une Marionnette est transformée en un autre Sbire par l’Ingénieur, elle apprend simplement ce nouveau rôle.  
-    Dans les deux cas, son alignement ne change pas : on ne lui dit rien à ce sujet.
-  </li>
-
-  <li>
-    <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve noire</a> :  
-    Si la Veuve noire est mise en jeu par l’Ingénieur, un joueur bon apprend cette nuit-là qu’une Veuve noire est en jeu.
-  </li>
-
-  <li>
-    <a href="../sv_roles/fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a> / 
-    <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Imp</a> :  
-    S’il y a plusieurs copies d’un même <span style="color:#d45b5b; font-weight:bold;">Démon</span> au moment du choix de l’Ingénieur,  
-    tous les joueurs ayant ce rôle de Démon changent de rôle.
-  </li>
-
-  <li>
-    <a href="../roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> :  
-    Légion et Ingénieur ne peuvent pas être en jeu au début de la partie.  
-    Si l’Ingénieur crée une Légion en cours de partie, la plupart des joueurs – en particulier tous les maléfiques –  
-    deviennent des Légions maléfiques.
-  </li>
-
-  <li>
-    <a href="../bmr_roles/po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a> :  
-    Si un Démon qui ne s’est pas réveillé cette nuit est transformé en Po par l’Ingénieur,  
-    il ne peut pas attaquer trois fois cette nuit.  
-    Le Po doit avoir choisi « personne » de lui-même une nuit précédente pour activer cette option.
-  </li>
-
-  <li>
-    <a href="../roles_experimentaux/lilmonsta.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">P’tit Monstre</a> :  
-    Si l’Ingénieur choisit un autre Démon alors que le P’tit Monstre était en jeu,  
-    l’actuel babysitter devient le Démon avec son rôle précédent.  
-    Si l’Ingénieur choisit de mettre en jeu un P’tit Monstre, l’ancien Démon devient un Sbire qui n’était pas en jeu  
-    et le P’tit Monstre reste en jeu.
-  </li>
-
-  <li>
-    <a href="../bmr_roles/pukka.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pukka</a> :  
-    Le Pukka peut techniquement être considéré comme Sbire ou Démon et être changé par l’Ingénieur,  
-    ou influer sur les rôles qui sont changés… mais il vaut mieux éviter ces constructions trop tordues.
-  </li>
-
-  <li>
-    <a href="../sv_roles/vigormortis.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vigormortis</a> :  
-    Si le Vigormortis est transformé en un autre Démon par l’Ingénieur,  
-    les Sbires qu’il avait tués perdent leur capacité, et son voisin cesse d’être empoisonné immédiatement.
-  </li>
-
-  <li>
-    <a href="../bmr_roles/zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> :  
-    Si un Zombuul qui semble mort est changé en un autre Démon,  
-    il continue d’<em>apparaître</em> mort, mais est compté comme vivant pour tous les autres effets.
-  </li>
-
-  <li>
-    <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a> :  
-    Le Reclus est un <span style="color:#4ea3ff; font-weight:bold;">Étranger</span> très particulier.  
-    Évitez les interactions trop confuses entre Reclus et Ingénieur : cela peut vite devenir illisible.
-  </li>
-
-</ul>
-
----
-
-##  <span style="color:#4ea3ff;">Comment Conter</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Chaque nuit, réveillez l’Ingénieur.  
-Il peut soit secouer la tête pour indiquer qu’il ne souhaite pas utiliser sa capacité,  
-soit pointer un ou plusieurs rôles maléfiques (Sbires ou Démon) sur la fiche de script.
-</p>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-S’il refuse, rendormez-le : rien ne se passe.  
-S’il choisit des rôles :
-</p>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:60px;">
-  <li>Appliquez immédiatement les changements de rôles dans le Grimoire :  
-      échangez les jetons des <span style="color:#d45b5b; font-weight:bold;">Sbires</span> et/ou du 
-      <span style="color:#d45b5b; font-weight:bold;">Démon</span> concernés avec les nouveaux jetons choisis.</li>
-  <li>Réveillez ensuite chaque joueur maléfique dont le rôle a changé :  
-      montrez-lui le jeton <strong>VOUS ÊTES</strong>, puis son nouveau jeton de rôle, puis rendormez-le.</li>
-  <li>Marquez l’Ingénieur avec le jeton de rappel <strong>PLUS DE CAPACITÉ</strong> et retirez son jeton de rappel de nuit :  
-      il ne se réveillera plus et ne peut plus rejouer sa capacité.</li>
-</ul>
-
----
-
-##  <span style="color:#4ea3ff;">Exemples</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-
-La deuxième nuit, l’Ingénieur <strong>Cédric</strong> décide que le <span style="color:#d45b5b; font-weight:bold;">Démon</span> sera la 
-<a href="../roles_experimentaux/lleech.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sangsue</a>.  
-<strong>Nicolas</strong>, qui était l’
-<a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Imp</a>, devient maintenant la Sangsue.
-</p>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-
-La première nuit, l’Ingénieur change le 
-<a href="../tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> en 
-<a href="../roles_experimentaux/boomdandy.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boomdandy</a>.  
-Il y a toujours deux <span style="color:#4ea3ff; font-weight:bold;">Étrangers</span> supplémentaires en jeu,  
-car cette particularité vient du rôle initial de Baron.
-</p>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-
-Le 
-<a href="../roles_experimentaux/fearmonger.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fearmonger</a> 
-et le 
-<a href="../roles_experimentaux/psychopath.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Psychopathe</a> 
-sèment la panique.  
-L’Ingénieur décide que seront en jeu le 
-<a href="../roles_experimentaux/mezepheles.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mezepheles</a> 
-et l’
-<a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espion</a>.  
-La conteuse choisit de transformer le Fearmonger en Mezepheles  
-et le Psychopathe en Espion.
-</p>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-
-L’
-<a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espion</a>,  
-l’
-<a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> 
-et la 
-<a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> 
-sont en jeu.  
-L’Ingénieur choisit que seront en jeu l’Espion, l’Assassin et le 
-<a href="../roles_experimentaux/mezepheles.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mezepheles</a>.  
-La Sorcière devient alors Mezepheles.
-</p>
-
----
-
-##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>En tant qu’Ingénieur, vous pouvez faire essentiellement quatre choses :
-    <ul>
-      <li>décider quels <span style="color:#d45b5b; font-weight:bold;">Sbires</span> sont en jeu ;</li>
-      <li>décider quels Sbires <em>ne</em> sont <em>pas</em> en jeu ;</li>
-      <li>décider quel <span style="color:#d45b5b; font-weight:bold;">Démon</span> est en jeu ;</li>
-      <li>décider quel Démon ne sera pas en jeu.</li>
-    </ul>
-  </li>
-
-  <li>Choisir quels Sbires sont en jeu permet de savoir exactement à quoi vous et le village faites face.  
-      Savoir qu’un 
-      <a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Goblin</a> 
-      ou un 
-      <a href="../roles_experimentaux/boomdandy.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boomdandy</a> 
-      est en jeu incite à être prudent sur les exécutions.  
-      Savoir qu’un 
-      <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espion</a> 
-      ou une 
-      <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a> 
-      est en jeu peut pousser les joueurs et joueuses bons à tout révéler très vite.  
-      De même, choisir un Démon comme le 
-      <a href="../sv_roles/vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a> 
-      signifie que toutes les informations devront être interprétées à l’envers.</li>
-
-  <li>Pour choisir quels Sbires ne sont <em>pas</em> en jeu, il suffit de sélectionner les autres.  
-      Si vous voulez éviter les empoisonnements, choisir des Sbires qui ne sont pas l’
-      <a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> 
-      peut en théorie vous en protéger.  
-      Si votre groupe a horreur du 
-      <a href="../bmr_roles/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a>,  
-      vous pouvez vous assurer qu’il n’est pas en jeu en forçant d’autres Sbires.  
-      De même, si vous ne savez pas quel Démon vous voulez, mais qu’il y en a un que vous redoutez particulièrement,  
-      vous pouvez transformer le Démon actuel en celui-là : au moins, vous savez qu’il n’est pas en jeu.</li>
-
-  <li>Pour être certain de pouvoir utiliser votre capacité avant d’être tué, jouez-la dès la première nuit.  
-      Vous sacrifierez alors une partie de la réflexion collective, mais vous aurez la garantie d’agir au moins une fois.</li>
-
-  <li>Si vous voulez optimiser votre choix, attendez la deuxième ou troisième nuit.  
-      En discutant, vous pouvez repérer quels bons rôles sont en jeu et choisir un Démon ou des Sbires qui interagiront bien avec eux.  
-      Par exemple, créer un 
-      <a href="../sv_roles/vigormortis.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vigormortis</a> 
-      dans une partie avec un 
-      <a href="../sv_roles/oracle.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Oracle</a>,  
-      ou un 
-      <a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Goblin</a> 
-      si vous êtes assez certain, grâce au 
-      <a href="../voyageurs/voudon.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voudon</a>,  
-      que les morts sont bons.</li>
-
-  <li>Le timing peut annuler complètement certaines capacités maléfiques.  
-      Par exemple, transformer le 
-      <a href="../roles_experimentaux/mezepheles.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mezepheles</a> 
-      en 
-      <a href="../bmr_roles/avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a> 
-      la nuit où il allait corrompre un joueur maintient ce joueur bon.  
-      L’inverse – transformer l’Avocat du Diable en Mezepheles la dernière nuit –  
-      peut empêcher le Démon d’être protégé tout en bloquant l’usage du Mezepheles (il n’y a plus de nuit ensuite).</li>
-
-  <li>Créer en cours de partie un Sbire très visible, comme le 
-      <a href="../roles_experimentaux/fearmonger.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fearmonger</a> 
-      ou le 
-      <a href="../sv_roles/jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumeau maléfique</a>,  
-      peut vous faire passer pour un Ingénieur crédible :  
-      le village verra un nouveau comportement caractéristique apparaître soudainement.</li>
-
-  <li>N’ayez pas peur des Sbires qui ajoutent des Étrangers entre crochets, comme le 
-      <a href="../tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a>.  
-      Les crochets indiquent surtout quoi ajouter ou retirer à la mise en place,  
-      pas en cours de partie : créer un Baron en milieu de partie n’ajoute pas de nouveaux Étrangers.</li>
-
-  <li>La quantité de discussion que vous suscitez est un équilibre délicat.  
-      Trop en dire, et le <span style="color:#d45b5b; font-weight:bold;">Démon</span> cherchera à vous tuer avant que vous n’agissiez.  
-      Pas assez, et le groupe peut vous reprocher de ne pas l’avoir impliqué dans une décision aussi cruciale.</li>
-
-</ul>
-
----
-
-##  <span style="color:#4ea3ff;">Bluffer Ingénieur</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>La façon la plus simple de bluffer Ingénieur consiste à prétendre avoir créé le rôle que vous avez réellement.  
-      Si vous êtes l’
-      <a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>,  
-      dites que vous avez choisi de mettre un Empoisonneur en jeu.  
-      Si vous êtes le 
-      <a href="../bmr_roles/shabaloth.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a>,  
-      prétendez avoir choisi ce Démon.  
-      Il est souvent plus facile de faire cela dès les premières nuits,  
-      avant que les joueurs et joueuses bons ne vous imposent un choix précis.</li>
-
-  <li>Évitez de dire que vous avez créé un Démon à « signe évident » comme 
-      <a href="../roles_experimentaux/al_hadikhia.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Al-Hadikhia</a>,  
-      si aucun effet ne se manifeste.  
-      À l’inverse, annoncer un Démon plus discret comme 
-      <a href="../bmr_roles/pukka.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pukka</a> 
-      est plus crédible si le vrai Démon est un 
-      <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Imp</a> 
-      ou un 
-      <a href="../sv_roles/fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a> 
-      qui tue « normalement ».</li>
-
-  <li>Si tous les rôles maléfiques du script ont peu de signes visibles,  
-      vous pouvez encourager la discussion sur « quels Sbires / Démons créer »  
-      sans que personne ne puisse vérifier si votre capacité a réellement fonctionné.</li>
-
-  <li>Pour brouiller les pistes, vous pouvez déclarer avoir mis en jeu des Sbires différents de ceux réellement présents.  
-      Si le vrai Sbire est le 
-      <a href="../roles_experimentaux/mezepheles.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mezepheles</a>,  
-      prétendre avoir créé une 
-      <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> 
-      et un 
-      <a href="../sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a> 
-      peut semer la confusion.</li>
-
-  <li>Si vous voulez au contraire paraître très honnête, annoncez les vrais rôles maléfiques.  
-      Le village pensera que votre choix les rend plus lisibles, alors que vous ne faites que commenter la réalité.</li>
-
-  <li>Quel que soit votre choix déclaré, préparez une justification solide :  
-      pourquoi avoir choisi précisément un 
-      <a href="../roles_experimentaux/fearmonger.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fearmonger</a> 
-      et un 
-      <a href="../sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a>  
-      plutôt qu’un 
-      <a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Goblin</a> 
-      ou un 
-      <a href="../bmr_roles/avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a> ?  
-      Un bon récit rend votre bluff crédible, même si votre choix rend en réalité l’équipe maléfique plus forte.</li>
-
-  <li>Avant de bluffer Ingénieur, discutez avec vos alliés maléfiques pour connaître leurs rôles réels  
-      (par exemple 
-      <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espion</a>,  
-      <a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> ou  
-      <a href="../roles_experimentaux/psychopath.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Psychopathe</a>).  
-      En sachant quels rôles sont effectivement en jeu et ce que vos partenaires comptent faire,  
-      il sera plus facile d’ajuster votre histoire d’Ingénieur sans contradiction.</li>
-
-</ul>
-
----
-
-<p style="text-align:left; font-size:18px; margin-top:20px;">
-   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
-   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+<p style="text-align:left; font-size:20px; margin-top:0px;">
+• <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+• <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a><br>
+• <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a>
 </p>
