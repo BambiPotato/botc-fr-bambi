@@ -117,7 +117,7 @@ La Fermière meurt pendant la nuit. L’<a href="../tb_roles/espion.html" style=
 <hr> 
 
 <p style="margin-left:0; padding-left:0; font-size:20px; color:#f5f5f5;">• Si vous meurez pendant la nuit, restez calme et attendez que quelqu'un vous approche en tant que nouvelle <strong>Fermière</strong> ayant été créée.</p>
-<br>
+
 <p style="margin-left:0; padding-left:0; font-size:20px; color:#f5f5f5;">• La <strong>Fermière</strong> peut être un piège redoutable pour l'équipe maléfique. Si vous devenez la <strong>Fermière</strong> pendant la nuit, contactez le joueur le plus récemment mort et révélez-lui que vous êtes désormais une <strong>Fermière</strong>. Il est très difficile de feindre cette interaction, ce qui signifie que vous pouvez vous faire mutuellement confiance.</p>
 
 <p style="margin-left:0; padding-left:0; font-size:20px; color:#f5f5f5;">• Si vous souhaitez survivre, révélez-vous en tant que <strong>Fermière</strong>, en défient ouvertement le <strong>Démon</strong> de vous tuer pendant la nuit. C'est particulièrement efficace s'il n'y a pas d'autres sources de morts nocturnes dans la partie. Cela peut également semer le doute chez le <strong>Démon</strong>, qui pourrait remettre en question vos intentions.</p>
@@ -130,12 +130,12 @@ La Fermière meurt pendant la nuit. L’<a href="../tb_roles/espion.html" style=
 
 <p style="margin-left:0; padding-left:0; font-size:20px; color:#f5f5f5;">• Essayez de discuter avec un maximum de joueurs tout au long de la partie : cela donnera l'impression que vous divulguez de puissantes informations sur la localisation de l'équipe maléfique, vous faisant ainsi passer pour une cible prioritaire à faire taire au plus vite.</p>
 
-<p style="margin-left:0; padding-left:0; font-size:20px; color:#f5f5f5;">• Évitez l'<strong>Exécution</strong> à tout prix, car votre capacité ne se déclenche que si vous meurez pendant la nuit.</p>
+<p style="margin-left:0; padding-left:0; font-size:20px; color:#f5f5f5;">• Évitez l'<strong>Exécution</strong> à tout prix, car votre capacité ne se déclenche que si vous mourez pendant la nuit.</p>
 
 <p style="margin-left:0; padding-left:0; font-size:20px; color:#f5f5f5;">• Après avoir confirmé l'identité de plusieurs joueurs transformés en <strong>Fermières</strong>, vous révéler ensemble et utiliser ces informations comme base de départ pour débusquer les joueurs maléfiques est une excellente stratégie pour lancer la dynamique du jeu et savoir à qui faire confiance.</p>
 
 <p style="margin-left:0; padding-left:0; font-size:20px; color:#f5f5f5;">• S'il existe une chaîne de <strong>Fermières</strong> supérieure au nombre total de joueurs maléfiques présents dans la configuration initiale de la partie, cela signifie généralement que vous pouvez faire confiance à toutes les <strong>Fermières</strong> de ce groupe.</p>
-<
+
 <p style="margin-left:0; padding-left:0; font-size:20px; color:#f5f5f5;">• Voir des rôles puissants devenir des <strong>Fermières</strong> est bien plus bénéfique que d'essayer de garder des rôles puissants en vie pendant la nuit. N'ayez pas peur de mourir la nuit par crainte de transformer des rôles puissants en <strong>Fermières</strong>.</p>
 
 <p style="margin-left:0; padding-left:0; font-size:20px; color:#f5f5f5;">• Prêtez attention à ce qu'était le joueur avant de devenir une <strong>Fermière</strong>.<br>S'il était un <strong>Marginal</strong>, cela peut indiquer que l'équipe bonne est en difficulté et que le Conteur tente de l'aider. S'il s'agit d'un joueur premier ou d'un rôle à usage unique ayant déjà utilisé sa capacité, cela peut signifier que la partie est plutôt équilibrée.<br>S'il s'agit d'un rôle puissant et qu'il semblait y avoir d'autres choix, cela signifie peut-être que l'équipe bonne est en train de gagner.</p>
@@ -152,7 +152,7 @@ La Fermière meurt pendant la nuit. L’<a href="../tb_roles/espion.html" style=
 
 <p style="margin-left:0; padding-left:0; font-size:20px; color:#f5f5f5;">• Si un coéquipier maléfique meurt pendant la nuit pour quelque raison que ce soit, vous pouvez adopter le bluff de la <strong>Fermière</strong>.<br>Allez simplement le voir et dites-lui en secret que vous allez bluffer la <strong>Fermière</strong>, et que vous êtes devenu une <strong>Fermière</strong> la nuit dernière lorsque l'autre joueur maléfique est mort. Cela peut être particulièrement puissant lorsqu'il est combiné avec des <strong>Démons</strong> qui aiment tuer leurs propres <strong>Sbires</strong>, comme le <strong><a href="../sv_roles/vigormortis.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vigormortis</a></strong>.</p>
 
-<p style="margin-left:0; padding-left:0; font-size:20px; color:#f5f5f5;">• Bluffer la <strong>Fermière</strong> peut être délicat, car vous devrez collaborer avec les autres joueurs maléfiques pour y parvenir.<br>Si, pour une raison quelconque, vous meurez pendant la nuit, vous pouvez prétendre être la <strong>Fermière</strong>. Cela crée une opportunité pour un autre joueur maléfique d'affirmer qu'il est désormais une <strong>Fermière</strong>, confirmant ainsi votre prétention. Cependant, cela ne signifie pas que les autres joueurs vous feront aveuglément confiance, car cela prouve seulement que vous travaillez ensemble.</p>
+<p style="margin-left:0; padding-left:0; font-size:20px; color:#f5f5f5;">• Bluffer la <strong>Fermière</strong> peut être délicat, car vous devrez collaborer avec les autres joueurs maléfiques pour y parvenir.<br>Si, pour une raison quelconque, vous mourez pendant la nuit, vous pouvez prétendre être la <strong>Fermière</strong>. Cela crée une opportunité pour un autre joueur maléfique d'affirmer qu'il est désormais une <strong>Fermière</strong>, confirmant ainsi votre prétention. Cependant, cela ne signifie pas que les autres joueurs vous feront aveuglément confiance, car cela prouve seulement que vous travaillez ensemble.</p>
 
 <p style="margin-left:0; padding-left:0; font-size:20px; color:#f5f5f5;">• Bluffer la <strong>Fermière</strong> peut être un bon moyen de faire sortir une vraie <strong>Fermière</strong> du bois.<br>Si vous vous révélez comme <strong>Fermière</strong>, la vraie <strong>Fermière</strong> pourrait être contrainte de vous contredire publiquement pour éviter que votre histoire ne soit crue.</p>
 
