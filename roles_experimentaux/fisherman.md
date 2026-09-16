@@ -45,7 +45,7 @@ image: /images/Icon_fisherman.png
 </ul>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « C'était une belle rivière, avant… <br>tu vois l’arc-en-ciel que dessine la lumière du soleil entre le monastère et le marché ? <br> C’était le meilleur endroit pour pêcher les gros poissons. <br> Et plus je vieillis, plus ils étaient gros. »
+  « C'était une belle rivière, avant… <br>tu vois l’arc-en-ciel que dessine la lumière du soleil entre le monastère et le marché ? <br> C’est là qu’il y avait les meilleures truites.  <br> Et plus je vieillissais, plus elles grossissaient. »
 </p>
 
 <hr class="villageois">
