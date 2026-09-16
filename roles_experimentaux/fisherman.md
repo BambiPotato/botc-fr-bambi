@@ -45,7 +45,7 @@ image: /images/Icon_fisherman.png
 </ul>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « C'était une belle rivière, avant… <br>tu vois l’arc-en-ciel que dessine la lumière du soleil entre le monastère et le marché ? <br> C’est là qu’il y avait les meilleures truites.  <br> Et plus je vieillissais, plus elles grossissaient. »
+  « C'était une belle rivière, avant… <br>tu vois l’arc-en-ciel que dessine la lumière du soleil <br>entre le monastère et le marché ? <br> C’est là qu’il y avait les meilleures truites.  <br> Et plus je vieillissais, plus elles grossissaient. »
 </p>
 
 <hr class="villageois">
@@ -131,7 +131,7 @@ Le conseil donné par le Conteur n’est donc pas un « vrai » conseil d’ami 
 <br><br>
 • Faites attention aux capacités des rôles qui pourraient affecter vos chances de mourir et prenez-les en compte pour décider quand utiliser votre capacité. S'il y a un <a href="../roles_experimentaux/leviathan.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Léviathan</a> sur le script, le <strong>Démon</strong> ne peut pas vous tuer. Si vous pensez qu'un joueur est le <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a>, vous pouvez lui demander de vous protéger. Dans les deux cas, vous avez de plus fortes chances de survivre plus tard dans la partie et vous pourriez différer l'obtention de votre conseil sur cette base.
 <br><br>
-• Prêtez une attention particulière aux mots spécifiques utilisés par le Conteur. Si quelque chose semble un peu ambigu, il est possible qu'il fasse allusion à quelque chose sans le dire ouvertement. Si le Conteur vous dit de ne pas faire confiance à un joueur, ce joueur pourrait en fait être un <strong>Empathe</strong> bon, mais qui a été empoisonné par une <strong>Veuve</strong> et donne de fausses informations qui mènent l'équipe bonne à sa perte. Soyez particulièrement prudent lors de l'interprétation du conseil donné par votre Conteur. « Kevin partage des informations vraies » ne signifie pas nécessairement que Kevin est bon, et « Exécutez Erik » ne signifie pas nécessairement qu'Erik est maléfique. Le conseil peut être très spécifique à la partie en cours, et les Conteurs adorent être mystérieux.
+• Prêtez une attention particulière aux mots spécifiques utilisés par le Conteur. Si quelque chose semble un peu ambigu, il est possible qu'il fasse allusion à quelque chose sans le dire ouvertement. Si le Conteur vous dit de ne pas faire confiance à un joueur, ce joueur pourrait en fait être un <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a> bon, mais qui a été empoisonné par une <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a> et donne de fausses informations qui mènent l'équipe bonne à sa perte. Soyez particulièrement prudent lors de l'interprétation du conseil donné par votre Conteur. « Kevin partage des informations vraies » ne signifie pas nécessairement que Kevin est bon, et « Exécutez Erik » ne signifie pas nécessairement qu'Erik est maléfique. Le conseil peut être très spécifique à la partie en cours, et les Conteurs adorent être mystérieux.
 <br><br>
 • Faites attention aux conditions de victoire/défaite et aux capacités des rôles sur le script. Le conseil que vous recevez pourrait être lié à l'une d'entre elles. Le conseil d'un <strong>Pêcheur</strong> pourrait, par exemple, être une tentative du Conteur pour vous empêcher d'exécuter un <a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Gobelin</a>.
 <br><br>
@@ -168,7 +168,7 @@ Le conseil donné par le Conteur n’est donc pas un « vrai » conseil d’ami 
 <br><br>
 • Si vous pensez être suspecté, fournissez un conseil qui soutient un joueur bon. Si le village pense que vous êtes maléfique, il sera plus enclin à se méfier de ce joueur ou à le prendre pour cible.
 <br><br>
-• Rendez votre indice intéressant, vague et étrange. Inventez quelque شيء qui suscite une tonne de discussions, créant des distractions et des conflits qui détourneront l'équipe bonne de ses efforts pour trouver le <strong>Démon</strong>.
+• Rendez votre indice intéressant, vague et étrange. Inventez quelque chose qui suscite une tonne de discussions, créant des distractions et des conflits qui détourneront l'équipe bonne de ses efforts pour trouver le <strong>Démon</strong>.
 <br><br>
 • Ne rendez pas votre indice trop élaboré. Essayez de vous en tenir à une seule idée exprimée en une ou deux phrases, plutôt qu'à un long paragraphe qui pourrait éveiller les soupçons.
 <br><br>
