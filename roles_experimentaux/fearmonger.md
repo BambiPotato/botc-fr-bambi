@@ -55,7 +55,7 @@ image: images/Icon_fearmonger.png
   <a href="../experimentaux.html" style="text-decoration:none;">
     <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : Carousel rôle expérimental</span>
+    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : Carrousel rôle expérimental</span>
   </a>
 </div>
 
