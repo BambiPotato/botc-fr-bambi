@@ -46,7 +46,7 @@ image: /images/Icon_choirboy.png
 </ul>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-« Vois sur ton chemin<br> Démons oubliés égarés<br> Donne-leur la main pour les mener<br> Vers des jours sans lendemain »
+« Vois sur ton chemin<br> Démons oubliés égarés<br> Donne-leur la main pour les mener<br> Vers des jours sans lendemain. »
 </p>
 
 <hr class="villageois">
@@ -64,7 +64,7 @@ image: /images/Icon_choirboy.png
 <hr class="villageois">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
-Si le Démon tue le Roi, vous apprenez quel joueur est le Démon. <strong>[+ Roi]</strong>
+« Si le Démon tue le Roi, vous apprenez quel joueur est le Démon. <strong>[+ Roi]</strong> »
 </p>
 
 <p class="botc-flavour-text dropcap" style="margin:0; font-size:20px; line-height:1.7;">
