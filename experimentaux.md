@@ -83,7 +83,7 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
   <li><a href="roles_experimentaux/noble.html" style="color:#4ea3ff; text-decoration:none;">Noble</a></li>
   <li><a href="roles_experimentaux/fisherman.html" style="color:#4ea3ff; text-decoration:none;">Pêcheur</a></li>
   <li><a href="roles_experimentaux/pixie.html" style="color:#4ea3ff; text-decoration:none;">Pixie</a></li>
-  <li><a href="roles_experimentaux/poppygrower.html" style="color:#4ea3ff; text-decoration:none;">Planteur de pavot</a></li>
+  <li><a href="roles_experimentaux/poppygrower.html" style="color:#4ea3ff; text-decoration:none;">Planteur de pavots</a></li>
   <li><a href="roles_experimentaux/preacher.html" style="color:#4ea3ff; text-decoration:none;">Prédicateur</a></li>
   <li><a href="roles_experimentaux/princess.html" style="color:#4ea3ff; text-decoration:none;">Princesse</a></li>
   <li><a href="roles_experimentaux/king.html" style="color:#4ea3ff; text-decoration:none;">Roi</a></li>
@@ -108,7 +108,7 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
 
 <p style="font-weight:bold; color:#a86464; margin-bottom:4px;">Sbires</p>
 <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
-  <li><a href="roles_experimentaux/boomdandy.html" style="color:#d45b5b; text-decoration:none;">Boomdandy</a></li>
+  <li><a href="roles_experimentaux/boomdandy.html" style="color:#d45b5b; text-decoration:none;">Boumdandy</a></li>
   <li><a href="roles_experimentaux/goblin.html" style="color:#d45b5b; text-decoration:none;">Gobelin</a></li>
   <li><a href="roles_experimentaux/harpy.html" style="color:#d45b5b; text-decoration:none;">Harpie</a></li>
   <li><a href="roles_experimentaux/summoner.html" style="color:#d45b5b; text-decoration:none;">Invocatrice</a></li>
@@ -433,7 +433,7 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
 
   <a href="roles_experimentaux/boomdandy.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_boomdandy.png" alt="Boomdandy" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Boomdandy</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Boumdandy</span>
   </a>
 
   <a href="roles_experimentaux/goblin.html" style="text-decoration:none; width:280px; text-align:center;">
