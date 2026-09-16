@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fearmonger
+title: Tourmenteur
 description: "Chaque nuit, choisissez un joueur : si vous le nommez et l’exécutez, son équipe perd. Tous les joueurs savent si vous choisissez un nouveau joueur."
 image: images/Icon_fearmonger.png
 ---
@@ -11,33 +11,19 @@ image: images/Icon_fearmonger.png
   </a>
 </p>
 
+<hr class="explication">	
+
 <!-- Fearmonger -->
 
 <div style="text-align:center; margin: 20px 0%;">
   <a href="./fearmonger.html" style="text-decoration:none;">
     <img src="../images/Icon_fearmonger.png" alt="Fearmonger" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#d45b5b; font-weight:bold; font-size:22px;">Fearmonger</span>
+    <span style="color:#d45b5b; font-weight:bold; font-size:22px;">Tourmenteur</span>
   </a>
 </div>
 
-<!-- APPARAÎT DANS -->
-<div style="text-align:center; margin: 20px 0%;">
-  <a href="../experimentaux.html" style="text-decoration:none;">
-    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
-    <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
-  </a>
-</div>
-
-#  <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Fearmonger</span>
-
-<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Garde-toi bien de contempler trop longtemps l’abîme,  
-  de peur que l’abîme, à son tour, ne se mette à te contempler. »
-</p>
-
----
+<hr class="sbire">
 
 ##  <span style="color:#d45b5b;">Informations</span>
 
@@ -51,282 +37,155 @@ image: images/Icon_fearmonger.png
      target="_blank"
      rel="noopener noreferrer"
      style="color:#d45b5b; font-weight:bold; text-decoration:none;">
-   Fearmonger
+    Fearmonger
   </a>
 </li>
   <li><strong>Artiste :</strong> Anica Kelsen</li>
   <li><strong>Révélé :</strong> 9 septembre 2021</li>
 </ul>
 
----
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:20px; margin-top:-10px; margin-left:0; padding-left:0;">
+« Si vous regardez trop longtemps dans l’Abîme, <br> c’est l’Abîme qui regardera en vous. »
+</p>
+
+<hr class="sbire">
+
+<!-- APPARAÎT DANS -->
+<div style="text-align:center; margin: 20px 0%;">
+  <a href="../experimentaux.html" style="text-decoration:none;">
+    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : Carousel rôle expérimental</span>
+  </a>
+</div>
 
 ##  <span style="color:#d45b5b;">Résumé</span>
+<hr class="sbire">
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Chaque nuit, choisissez un joueur : si vous le nommez et l’exécutez, son équipe perd. Tous les joueurs savent si vous choisissez un nouveau joueur. »</strong>
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
+« Chaque nuit, choisissez un joueur : si vous le nommez et l’exécutez, son équipe perd. Tous les joueurs savent si vous choisissez un nouveau joueur. »
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Fearmonger</strong> crée une paranoïa permanente autour des nominations.
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Le Tourmenteur sème la paranoïa au moment des nominations.
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Lors de la première nuit, lorsque le Tourmenteur choisit un joueur, tous les joueurs l’apprennent.
+<br>
+• Les autres nuits, chaque fois que le Tourmenteur choisit un nouveau joueur, tous les joueurs l’apprennent. Si le Tourmenteur choisit le même joueur que précédemment, les joueurs n’apprennent rien.
+<br>
+• Les joueurs apprennent seulement que le Tourmenteur a agi, et non le joueur qui a été choisi.
+<br>
+• Si le Tourmenteur nomme le joueur qu’il a choisi et que cette nomination débouche sur une exécution, le joueur choisi perd, son équipe perd, et la partie est terminée.
+<br>
+• Seul le joueur choisi en dernier peut déclencher la capacité du Tourmenteur. Les joueurs choisis auparavant ne comptent pas.
+<br>
+• Si le joueur choisi est exécuté mais ne meurt pas, son équipe perd tout de même.
+</p>
 
-  <li>La première nuit, lorsque le <strong>Fearmonger</strong> choisit un joueur, tous les joueurs apprennent qu’il a choisi un nouveau joueur.</li>
+##  <span style="color:#d45b5b;">Comment Conter</span>
+<hr>
 
-  <li>Aux autres nuits, chaque fois que le <strong>Fearmonger</strong> choisit un <strong>nouveau</strong> joueur, tous les joueurs apprennent qu’il a choisi un nouveau joueur.  
-      S’il choisit le même joueur qu’avant, personne n’apprend rien.</li>
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Instructions au Conteur :
+</p>
 
-  <li>Les joueurs apprennent simplement que le <strong>Fearmonger</strong> a agi, pas <strong>qui</strong> il a choisi.</li>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Chaque nuit, réveillez le Tourmenteur. Le Tourmenteur désigne n'importe quel joueur. 
+<br>
+Ensuite, le Tourmenteur se rendort. Marquez le joueur choisi du jeton <strong>« Peur »</strong>. 
+<br>
+Si le Tourmenteur a choisi un joueur qui n'était pas déjà marqué du jeton <strong>« Peur »</strong>, annoncez : <strong>« Le Tourmenteur a choisi un joueur. »</strong> (Cela informe le groupe que le Tourmenteur est en vie et a choisi un nouveau joueur.)
+<br><br>
+Si le Tourmenteur nomme le joueur marqué <strong>« Peur »</strong> et que cette nomination est suivie d’une exécution, annoncez que la partie est terminée et quelle équipe a gagné.
+</p>
 
-  <li>Si le <strong>Fearmonger</strong> nomme le joueur qu’il a choisi,  
-      et que cette nomination entraîne son exécution,  
-      ce joueur perd, <strong>son équipe perd</strong>, et la partie se termine immédiatement.</li>
+##  <span style="color:#d45b5b;">Exemples</span>
+<hr>
 
-  <li>Seul le joueur actuellement choisi est vulnérable à la capacité du <strong>Fearmonger</strong>.  
-      Les joueurs choisis précédemment ne comptent plus.</li>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• La première nuit, le Tourmenteur choisit le <a href="../tb_roles/majordome.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Majordome</a>.<br> Tous les joueurs apprennent que le Tourmenteur a choisi un nouveau joueur. <br>Pendant la journée, le Tourmenteur nomme le <a href="../tb_roles/majordome.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Majordome</a>, et le <a href="../tb_roles/majordome.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Majordome</a> est exécuté. Le Mal gagne.
+<br>
+• La nuit, le Tourmenteur choisit le <a href="../sv_roles/jongleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Jongleur</a>. <br>La <a href="../sv_roles/fleuriste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a> nomme le <a href="../sv_roles/jongleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Jongleur</a>, et le <a href="../sv_roles/jongleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Jongleur</a> est exécuté. La partie continue.
+<br>
+• Le Tourmenteur choisit l’<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>. La nuit suivante, le Tourmenteur choisit le <a href="../tb_roles/soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a>. Le Tourmenteur nomme et exécute l’<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>. La partie continue parce que le Tourmenteur a choisi le <a href="../tb_roles/soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a> et non l’<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>.
+<br><br>
+• Le Tourmenteur choisit accidentellement le <a href="../tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> à cause de la présence du <a href="../roles_experimentaux/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Planteur de pavot</a>. <br>Le Tourmenteur nomme et exécute le <a href="../tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a>. Le Bien gagne.
+</p>
 
-  <li>Si le joueur choisi est exécuté mais ne meurt pas (par exemple à cause d’un  
-      <a href="../bmr_roles/avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a>  
-      ou d’un effet similaire), l’équipe de ce joueur perd quand même, même s’il reste vivant en jeu.</li>
 
-</ul>
 
----
+##  <span style="color:#d45b5b;">Conseils & Astuces</span>
+<hr>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Lors de la première nuit, choisissez n'importe quel joueur. Il est peu probable que vous puissiez nominer et faire exécuter le joueur de votre choix dès le premier jour sans savoir quels rôles sont en jeu, alors ne soyez pas trop exigeant sur votre premier choix. Vous pourrez toujours changer d'avis lors de la deuxième nuit.
+<br><br>
+• Durant les premiers jours de la partie, soyez attentif aux joueurs considérés comme les plus suspects ou les plus susceptibles d'être exécutés. Cela peut être dû au fait qu'ils incarnent un rôle souvent tué préventivement en début de jeu, comme un <a href="../sv_roles/horloger.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Horloger</a> ou une <a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a>, ou parce que le joueur a un comportement louche et reste silencieux sur son rôle. Si vous arrivez à deviner quels joueurs risquent d'être exécutés le lendemain, choisissez l'un d'eux cette nuit. Cela augmentera considérablement vos chances de gagner la partie grâce à votre capacité, puisque ce joueur sera probablement exécuté par quelqu'un — et idéalement par vous.
+<br><br>
+• Si vous avez choisi un joueur susceptible d'être exécuté, observez attentivement le Conteur et ses agissements. Si vous sentez le moment où les nominations vont être ouvertes, faites en sorte d'être le premier joueur à proposer une nomination, ce qui vous garantit d'être celui qui nomine le joueur que vous avez choisi.
+<br><br>
+• Si vous avez choisi un joueur susceptible d'être exécuté, mais que vous pensez qu'il serait trop suspect de montrer un enthousiasme débordant à l'idée de le nominer, suscitez des discussions affirmant qu'il doit absolument être exécuté, mais laissez l'équipe bonne décider de qui doit le nominer. Si vous parvenez à passer pour un joueur bon, vous pourrez peut-être les convaincre (ou les laisser se convaincre eux-mêmes) que c'est à vous de faire cette nomination.
+<br><br>
+• Si vous pensez qu'il est peu probable que vous gagniez grâce à votre capacité de Tourmenteur, cessez de choisir un nouveau joueur chaque nuit. Le fait que l'équipe bonne ne soit plus informée qu'un joueur a été choisi par le Tourmenteur l'amènera souvent à croire que le Tourmenteur est mort. En se tournant vers les joueurs morts pour essayer de déterminer lequel était maléfique, ils interpréteront probablement un joueur bon ayant donné de vraies informations comme un joueur maléfique ayant donné de fausses informations. Cette stratégie fonctionne mieux lorsque tous les joueurs morts sont bons.
+<br><br>
+• Si vous pensez qu'il est peu probable que vous gagniez grâce à votre capacité de Tourmenteur, choisissez un nouveau joueur chaque nuit ! Si l'équipe bonne se voit constamment rappeler qu'un Tourmenteur est en jeu, elle sera beaucoup moins encline à voter pour des nominations qui semblent futiles. Plus l'équipe bonne est dans le doute, mieux c'est pour l'équipe maléfique. Même le fait de rappeler publiquement chaque jour à l'équipe bonne de se méfier du Tourmenteur peut la rendre réticente à accorder son vote aux joueurs nominés, même lorsqu'il s'agit de joueurs maléfiques. Cette stratégie fonctionne mieux lorsqu'il y a plus d'un Sbire en jeu, car s'il n'y a qu'un seul Sbire et que l'équipe bonne sait que le Tourmenteur est toujours en vie, elle sait aussi que tous les joueurs morts sont bons, ce qui est une information cruciale.
+<br><br>
+• Si vous êtes un joueur maléfique autre que le Tourmenteur, faites tout votre possible pour que le Tourmenteur passe pour un joueur bon. Souvent, l'équipe bonne voudra trouver un joueur bon de confiance pour effectuer toutes les nominations, car ce joueur est le plus crédible. Si vous pouvez suggérer que le Tourmenteur est bon en prétendant être une <a href="../tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> qui a appris son rôle, un <a href="../sv_roles/jongleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Jongleur</a> qui a confirmé son identité, ou même une <a href="../sv_roles/jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumelle maléfique</a> qui est morte en sous-entendant fortement que le Tourmenteur est le jumeau bon, cela sera d'une grande aide. Si l'équipe bonne fait confiance au Tourmenteur en le considérant comme le joueur le plus susceptible d'être bon, le Tourmenteur devrait pouvoir nominer chaque jour sans éveiller de soupçons.
+<br><br>
+• Si vous êtes un joueur maléfique, même si vous n'êtes pas le Tourmenteur, nominez autant que vous le pouvez sans vous faire repérer. L'équipe bonne cherchera souvent à limiter les nominations, à observer attentivement non seulement le joueur nominé mais aussi le joueur qui nomine, et à éviter un chaos général avec trop de nominations à suivre. Si seules quelques personnes nominent chaque jour et que la majorité de ces joueurs est maléfique, alors l'attention lors des votes se portera majoritairement sur des joueurs bons (en partant du principe que les joueurs maléfiques ne nominent pas le Démon).
+<br><br>
+• Il est assez peu probable que l'équipe maléfique gagne directement grâce à la capacité du Tourmenteur. Dans la plupart des parties, l'intérêt d'avoir un Tourmenteur provient de la paranoïa et de l'excès de prudence de l'équipe bonne lorsqu'elle vote. Si vous pouvez tourner cela à votre avantage en décourageant l'exécution de joueurs maléfiques, alors le Tourmenteur aura eu un impact majeur sur la partie, même si cela ne vous semble pas évident au premier abord. Parfois, le Tourmenteur peut faire gagner l'équipe maléfique grâce à un million de petites décisions que l'équipe bonne est poussée à prendre par peur de ce qui POURRAIT arriver, et non de ce qui s'est réellement passé.
+</p>
+
+
+
+##  <span style="color:#d45b5b;">Combattre le Tourmenteur</span>
+<hr>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Vous commencez la partie en sachant qu'un Tourmenteur est en jeu. C'est déjà ça. Dans une partie à un seul Sbire, cela signifie que vous connaissez trois Sbires qui ne sont pas en jeu, ce qui est une information très utile. Dans une partie à deux Sbires, prendre le temps de découvrir quel est l'autre rôle de Sbire peut s'avérer très utile et tout à fait réalisable.
+<br><br>
+• Tant que le Tourmenteur choisit un nouveau joueur chaque nuit, vous savez qu'il est toujours en vie. Dans une partie à un seul Sbire, cela signifie que tous les joueurs morts sont bons (puisque le Démon doit également être toujours en vie). Parlez aux joueurs morts et faites confiance à ce qu'ils disent. Ils sont dans votre camp et possèdent non seulement des informations précieuses à partager, mais aussi un vote sur lequel vous pouvez compter.
+<br><br>
+• Si vous parvenez à convaincre le groupe que vous êtes probablement bon, nominez chaque jour. Peu importe qui vous nominez, ou même si vos nominations n'obtiennent pas assez de votes. Vous pouvez même demander au groupe de vous suggérer qui vous devriez nominer chaque jour. Ce qui compte, c'est qu'un joueur bon — vous — fasse une nomination chaque jour. Si c'est vous qui nominez et que l'on vous fait confiance, le Tourmenteur aura beaucoup moins d'opportunités de nominer tout en étant cru. Votre nomination garantit à 100 % de ne pas offrir la victoire au camp du mal via la capacité du Tourmenteur, puisque vous savez que vous n'êtes pas le Tourmenteur. Aucun autre joueur qui nomine ne peut vous apporter ce niveau de certitude.
+<br><br>
+• Si vous ne parvenez pas à convaincre le groupe que vous êtes bon et que votre nomination peut être crue, travaillez avec le groupe pour trouver le joueur bon le plus confirmé. Parlez à tout le monde et apprenez tout ce que vous pouvez. Amenez ce joueur à nominer chaque jour, mais discutez du joueur qu'il devrait nominer. Bien sûr, le choix final lui appartient, mais vos conseils et ceux du groupe contribueront grandement à faire nominer chaque jour le joueur que le groupe estime le plus méritant d'une exécution. Si le groupe peut décider quel joueur exécuter et quel joueur doit être celui qui fait cette nomination — et que ce joueur est en accord avec la décision du groupe —, vous pourrez au moins concentrer votre attention sur qui doit être exécuté.
+<br><br>
+• Découragez les nominations et les votes futiles. Ne votez que pour les joueurs que vous pensez être maléfiques, et seulement si vous êtes également convaincu que la personne qui nomine est bonne.
+<br><br>
+• Soyez attentif aux joueurs qui semblent trop enthousiastes à l'idée de nominer. Ils pourraient être le Tourmenteur.
+<br><br>
+• Chaque jour, il est généralement préférable d'avoir un nombre de nominations supérieur au nombre de joueurs maléfiques. Par exemple, s'il y a 2 joueurs maléfiques, ayez au moins 3 personnes qui nominent. S'il y a 4 joueurs maléfiques, ayez au moins 5 personnes qui nominent. Cela garantit qu'au moins un joueur bon nomine chaque jour. Si seuls des joueurs maléfiques nominent chaque jour, seuls des joueurs bons mourront, et les chances de victoire de l'équipe bonne se réduiront de jour en jour.
+<br><br>
+• Il est assez peu probable que l'équipe maléfique gagne grâce à la capacité du Tourmenteur. Cela arrive, mais beaucoup moins souvent que les conditions de victoire classiques. Le plus grand danger est que l'équipe bonne se retrouve paralysée et indécise sur qui exécuter. Trop d'inattention peut certainement favoriser une nomination et une exécution réussies par le Tourmenteur, mais trop d'inquiétude fera que les joueurs bons n'exécuteront plus personne. Visez un juste milieu.
+</p>
+
+
 
 ## 🧞 <span style="color:#d45b5b;">Jinxes liés</span>
+<hr>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:00px;">
 
   <li>
     <img src="../images/Icon_plaguedoctor.png" alt="Docteur de Peste" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/plaguedoctor.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Docteur de Peste</a> :  
-    Si les <strong>Conteurs et conteuses</strong> devraient gagner la capacité du <strong>Fearmonger</strong>,  
-    c’est un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> qui la gagne et en est informé à la place.
+    Si le Conteur acquiert la capacité du <strong>Tourmenteur</strong> un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> l'acquiert et l'apprend.
   </li>
 
   <li>
     <img src="../images/Icon_vizier.png" alt="Vizier" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizier</a> :  
-    Le <a href="../roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizier</a> se réveille en même temps que le <strong>Fearmonger</strong>,  
-    apprend quel joueur le <strong>Fearmonger</strong> a choisi  
-    et ne peut pas choisir d’exécuter immédiatement ce joueur.</li>
+    <a href="../roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a> :  
+    Le <a href="../roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a> se réveille en même temps que le <strong>Tourmenteur</strong>, apprend qui il choisit et ne peut pas choisir d'exécuter immédiatement ce joueur.</li>
 
 </ul>
 
----
+<hr class="explication">	
 
-##  <span style="color:#d45b5b;">Comment Conter</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Chaque nuit, vous faites agir le <strong>Fearmonger</strong>, puis vous informez ou non le groupe selon s’il a choisi un nouveau joueur.
-</p>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Réveillez le <strong>Fearmonger</strong>.  
-      Il pointe n’importe quel joueur vivant.</li>
-
-  <li>Endormez le <strong>Fearmonger</strong>, puis marquez le joueur choisi avec le rappel <strong>FEAR</strong>.</li>
-
-  <li>Si le <strong>Fearmonger</strong> a choisi un joueur qui n’était pas déjà marqué FEAR :
-      <ul style="margin-left:20px;">
-        <li>annoncez publiquement : « Le Fearmonger a choisi un joueur. » ;</li>
-        <li>ne révélez jamais l’identité de ce joueur.</li>
-      </ul>
-  </li>
-
-  <li>Quand le <strong>Fearmonger</strong> nomme le joueur marqué FEAR, suivez la nomination normalement :
-      <ul style="margin-left:20px;">
-        <li>si cette nomination conduit à son exécution (même si le joueur ne peut pas mourir),  
-            la partie se termine immédiatement ;</li>
-        <li>annoncez que l’équipe de ce joueur perd, et que l’autre équipe gagne.</li>
-      </ul>
-  </li>
-
-</ul>
-
----
-
-##  <span style="color:#d45b5b;">Exemples</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-La première nuit, le <strong>Fearmonger</strong> choisit le  
-<a href="../tb_roles/majordome.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Majordome</a> (Butler).  
-Tous les joueurs apprennent que le <strong>Fearmonger</strong> a choisi un nouveau joueur.  
-Pendant la journée, le <strong>Fearmonger</strong> nomme le  
-<a href="../tb_roles/majordome.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Majordome</a>,  
-qui est exécuté. L’équipe du Mal gagne immédiatement.</p>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-La nuit, le <strong>Fearmonger</strong> choisit le  
-<a href="../sv_roles/jongleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Jongleur</a>.  
-Le lendemain, la  
-<a href="../sv_roles/fleuriste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a>  
-nomme le <a href="../sv_roles/jongleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Jongleur</a>,  
-et le <a href="../sv_roles/jongleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Jongleur</a> est exécuté.  
-La partie continue : ce n’est pas le <strong>Fearmonger</strong> qui a fait la nomination gagnante.</p>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Fearmonger</strong> choisit l’<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a>.  
-La nuit suivante, il change d’avis et choisit le  
-<a href="../tb_roles/soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a>.  
-Le <strong>Fearmonger</strong> nomme ensuite l’<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a>,  
-et l’<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a> est exécuté.  
-La partie continue, car le joueur actuellement choisi est le  
-<a href="../tb_roles/soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a>, pas l’<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a>.</p>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-À cause de la présence du  
-<a href="../roles_experimentaux/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cultivateur de Pavots</a>,  
-le <strong>Fearmonger</strong> choisit par erreur le  
-<a href="../tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a>,  
-croyant que c’est un rôle bon.  
-Le <strong>Fearmonger</strong> nomme et fait exécuter le  
-<a href="../tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a>.  
-Comme le <a href="../tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> est un Sbire, c’est l’équipe du Bien qui gagne.</p>
-
----
-
-##  <span style="color:#d45b5b;">Astuces & Conseils</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>La première nuit, choisissez <strong>n’importe qui</strong>.  
-      Il est très peu probable que vous obteniez exactement l’exécution que vous voulez dès le premier jour,  
-      sans connaître les rôles en jeu. Vous pourrez toujours changer de cible dès la deuxième nuit.</li>
-
-  <li>Pendant les premiers jours, observez qui est :
-      <ul style="margin-left:20px;">
-        <li>un rôle souvent exécuté tôt, comme l’<a href="../sv_roles/clockmaker.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Horloger</a> ou le  
-            <a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a> ;</li>
-        <li>ou un joueur silencieux qui refuse de révéler son rôle.</li>
-      </ul>
-      Si vous devinez quel joueur risque d’être exécuté le lendemain, choisissez-le cette nuit :  
-      vous augmentez énormément vos chances de victoire grâce à votre capacité.</li>
-
-  <li>Si vous avez choisi un joueur susceptible d’être exécuté,  
-      faites attention au moment où le Conteur semble vouloir lancer la phase de nominations.  
-      Essayez d’être <strong>le premier</strong> à nommer :  
-      cela garantit que ce sera <strong>vous</strong> qui ferez la nomination décisive.</li>
-
-  <li>Si vous pensez qu’il serait trop suspect de vous montrer trop enthousiaste pour nommer ce joueur :
-      <ul style="margin-left:20px;">
-        <li>construisez la discussion pour que « tout le monde » soit d’accord qu’il faut l’exécuter ;</li>
-        <li>laissez ensuite le groupe proposer spontanément que ce soit vous qui le nommiez.</li>
-      </ul>
-      Si vous paraissez comme un bon joueur raisonnable,  
-      les autres seront ravis que ce soit vous qui preniez la responsabilité de la nomination,  
-      sans se rendre compte que c’est exactement ce que vous vouliez.</li>
-
-  <li>Si vous pensez qu’il est peu probable de gagner grâce à votre capacité de <strong>Fearmonger</strong>,  
-      vous pouvez arrêter de choisir de nouveaux joueurs la nuit.  
-      Le fait que le groupe n’entende plus « Le Fearmonger a choisi un joueur »  
-      les fera souvent croire que le <strong>Fearmonger</strong> est mort.  
-      Ils commenceront alors à suspecter des joueurs morts… qui sont en réalité bons,  
-      et à interpréter des informations vraies comme si elles étaient fausses.</li>
-
-  <li>À l’inverse, si vous pensez ne pas gagner via votre capacité,  
-      choisissez un <strong>nouveau joueur chaque nuit</strong>.  
-      Rappeler en permanence au Bien qu’un <strong>Fearmonger</strong> est en jeu :
-      <ul style="margin-left:20px;">
-        <li>rend les joueurs plus hésitants à voter sur des nominations « légères » ;</li>
-        <li>augmente la prudence, la confusion et donc la paralysie du Bien.</li>
-      </ul>
-      Cette stratégie est encore plus forte s’il y a plusieurs Sbires en jeu,  
-      car le Bien aura du mal à savoir quels morts sont réellement bons.</li>
-
-  <li>Si vous êtes un joueur maléfique qui n’est <strong>pas</strong> le <strong>Fearmonger</strong>,  
-      faites tout pour que le <strong>Fearmonger</strong> paraisse bon.  
-      Le Bien aime souvent qu’un joueur « sûr » fasse la plupart des nominations.  
-      Si vous pouvez :
-      <ul style="margin-left:20px;">
-        <li>prétendre être une <a href="../tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> qui a vu le rôle du Fearmonger ;</li>
-        <li>ou un <a href="../sv_roles/jongleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Jongleur</a> qui l’a confirmé ;</li>
-        <li>ou un <a href="../sv_roles/jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumeau Maléfique</a> qui meurt en laissant entendre que le Fearmonger est le « bon jumeau » ;</li>
-      </ul>
-      alors le groupe fera confiance au <strong>Fearmonger</strong> pour nommer chaque jour,  
-      ce qui lui donne plus d’occasions de gagner la partie à lui seul.</li>
-
-  <li>Si vous êtes maléfique, même sans être le <strong>Fearmonger</strong>,  
-      nommez le plus possible, dans la limite du raisonnable.  
-      Si la plupart des nominations viennent des joueurs maléfiques,  
-      la plupart des exécutions toucheront des joueurs du Bien,  
-      surtout si vous évitez soigneusement de nommer le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.</li>
-
-  <li>Les victoires directes via la capacité du <strong>Fearmonger</strong> sont rares.  
-      Le vrai pouvoir de ce rôle vient de la <strong>paranoïa</strong> et de l’excès de prudence  
-      qu’il instille dans l’équipe du Bien.  
-      Si vous parvenez à empêcher plusieurs exécutions de joueurs maléfiques  
-      simplement parce que le Bien a peur de ce qui <strong>pourrait</strong> arriver,  
-      le <strong>Fearmonger</strong> aura déjà eu un impact énorme sur la partie,  
-      même si sa capacité ne « réussit » jamais officiellement.</li>
-
-</ul>
-
----
-
-##  <span style="color:#d45b5b;">Combattre le Fearmonger</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Vous commencez la partie en sachant qu’un <strong>Fearmonger</strong> est sur le script.  
-      Dans une partie avec un seul Sbire, cela signifie que vous connaissez déjà  
-      trois rôles de Sbires qui ne sont pas en jeu, ce qui est une information précieuse.  
-      Dans une partie avec deux Sbires, essayer d’identifier l’autre Sbire reste très utile.</li>
-
-  <li>Tant que le <strong>Fearmonger</strong> choisit un <strong>nouveau</strong> joueur chaque nuit,  
-      vous savez qu’il est encore en vie.  
-      Dans une partie à un seul Sbire, cela veut dire que <strong>tous les morts sont bons</strong>  
-      (puisque le <span style="color:#d45b5b; font-weight:bold;">Démon</span> doit aussi être vivant).  
-      Parlez aux joueurs morts, faites-leur confiance :  
-      ils sont dans votre équipe, ont de l’info, et un vote précieux.</li>
-
-  <li>Si vous pouvez convaincre le groupe que vous êtes probablement bon,  
-      essayez d’être la personne qui <strong>nomme chaque jour</strong>.  
-      Vous savez que vous n’êtes pas le <strong>Fearmonger</strong>,  
-      donc vos nominations ne peuvent pas offrir la victoire au Mal via cette capacité.  
-      Aucun autre joueur ne peut en dire autant à 100 %.</li>
-
-  <li>Si vous ne parvenez pas à convaincre le groupe que vous êtes bon,  
-      travaillez avec lui pour identifier le <strong>joueur le plus confirmé comme bon</strong>.  
-      Parlez à tout le monde, centralisez les infos,  
-      puis incitez ce joueur à faire une nomination chaque jour,  
-      en discutant ensemble de la meilleure cible.  
-      Si le groupe choisit qui exécuter et qui nomme,  
-      vous pouvez concentrer votre attention sur les suspects,  
-      plutôt que sur la peur du <strong>Fearmonger</strong>.</li>
-
-  <li>Découragez les nominations et votes frivoles.  
-      Ne votez que pour des joueurs que vous pensez vraiment maléfiques,  
-      et seulement si vous avez aussi confiance dans la personne qui les nomme.</li>
-
-  <li>Faites attention aux joueurs <strong>trop enthousiastes à nommer</strong>.  
-      Ils ou elles pourraient être le <strong>Fearmonger</strong> qui essaie de placer sa nomination gagnante.</li>
-
-  <li>En général, il vaut mieux qu’il y ait chaque jour un nombre de nominations  
-      légèrement supérieur au nombre de joueurs maléfiques.  
-      Par exemple :
-      <ul style="margin-left:20px;">
-        <li>s’il y a 2 joueurs maléfiques, visez au moins 3 joueurs qui nomment ;</li>
-        <li>s’il y en a 4, visez au moins 5 joueurs qui nomment.</li>
-      </ul>
-      Cela garantit qu’au moins un joueur bon fait des nominations,  
-      même si plusieurs nominations viennent du camp du Mal.</li>
-
-  <li>Il est rare que le Mal gagne via la capacité du <strong>Fearmonger</strong>.  
-      Le vrai danger, c’est que le Bien devienne tellement prudent  
-      qu’il n’ose plus exécuter personne.  
-      Trop d’insouciance peut offrir une victoire rapide au <strong>Fearmonger</strong>,  
-      mais trop de peur peut laisser le <span style="color:#d45b5b; font-weight:bold;">Démon</span> finir la table la nuit,  
-      sans jamais avoir été menacé par les votes.</li>
-
-</ul>
-
----
-
-<p style="text-align:left; font-size:18px; margin-top:20px;">
-   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Sbires</a><br>
-   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+<p style="text-align:left; font-size:18px; margin-top:00px;">
+• <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+• <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Sbires</a><br>
+• <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
