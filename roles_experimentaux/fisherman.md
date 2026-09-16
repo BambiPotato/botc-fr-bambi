@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pêcheur
-description: Une fois par partie, dans la journée, demandez conseil au Conteur pour aider votre équipe à gagner.
+description: "Une fois par partie, dans la journée, demandez conseil au Conteur pour aider votre équipe à gagner."
 image: /images/Icon_fisherman.png
 ---
 
@@ -10,6 +10,8 @@ image: /images/Icon_fisherman.png
     <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
+
+<hr class="explication">
 
 <!-- Pêcheur -->
 
@@ -21,23 +23,7 @@ image: /images/Icon_fisherman.png
   </a>
 </div>
 
-<!-- APPARAÎT DANS -->
-<div style="text-align:center; margin: 20px 0;">
-  <a href="../experimentaux.html" style="text-decoration:none;">
-    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
-    <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
-  </a>
-</div>
-
-#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Pêcheur</span>
-
-<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « C’était mon endroit préféré sur la rivière… Voyez comme la lumière dessine un arc-en-ciel du monastère jusqu’au marché.  
-  C’était le meilleur coin pour les gros poissons. Et plus je vieillis, plus ils étaient gros. »
-</p>
-
----
+<hr class="villageois">
 
 ##  <span style="color:#4ea3ff;">Informations</span>
 
@@ -58,225 +44,145 @@ image: /images/Icon_fisherman.png
   <li><strong>Révélé :</strong> 7 avril 2020</li>
 </ul>
 
----
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+  « C'était une belle rivière, avant… <br>tu vois l’arc-en-ciel que dessine la lumière du soleil entre le monastère et le marché ? <br> C’était le meilleur endroit pour pêcher les gros poissons. <br> Et plus je vieillis, plus ils étaient gros. »
+</p>
+
+<hr class="villageois">
+
+<!-- APPARAÎT DANS -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../experimentaux.html" style="text-decoration:none;">
+    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans :  Carrousel rôle expérimental</span>
+  </a>
+</div>
 
 ##  <span style="color:#4ea3ff;">Résumé</span>
+<hr class="villageois">
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Une fois par partie, dans la journée, demandez conseil au Conteur pour aider votre équipe à gagner. »</strong>
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
+« Une fois par partie, dans la journée, demandez conseil au Conteur pour aider votre équipe à gagner. »
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Pêcheur</strong> sait quelque chose que personne d'autre ne peut savoir : 
-ce qu'il faut faire.
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Le Pêcheur sait quelque chose que personne d'autre ne peut savoir : ce qu'il faut faire.
 </p>
 
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Le Pêcheur choisit lui-même <strong>quand</strong> utiliser sa capacité. Cela ne peut arriver qu’<strong>une seule fois par partie</strong>.</li>
-  <li>Quand le Pêcheur utilise sa capacité, il rend visite en privé à la conteuse,  
-      qui lui donne un <strong>conseil de stratégie</strong> pour aider son équipe à gagner.</li>
-  <li>Ce conseil n’est pas forcément une <em>information factuelle</em> (« Untel est maléfique ») mais plutôt une indication sur ce qu’il faudrait faire :  
-      par exemple « exécutez ce joueur », « protégez cette personne », « cessez de suspecter ce rôle », etc.</li>
-  <li>Si le Pêcheur est ivre ou empoisonné, la conteuse peut lui donner un conseil <strong>mauvais</strong> ou trompeur.</li>
-  <li>Le conseil du Pêcheur est souvent fortement lié à la configuration de la partie :  
-      un bon conseil à un instant T peut devenir mauvais deux jours plus tard.</li>
-</ul>
-
----
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Le Pêcheur choisit quand utiliser sa capacité.
+<br><br>
+• Lorsqu'il va voir le Conteur, le Conteur choisit quel conseil donner au Pêcheur.
+<br><br>
+• Les conseils du Conteur ne sont pas forcément des « faits ». Ce sont des conseils stratégiques qui, selon le Conteur, aideront le Pêcheur à gagner… si toutefois il les applique.
+<br><br>
+• Si le Pêcheur est ivre ou empoisonné, le Conteur peut donner des conseils peu avisés au Pêcheur.
+</p>
 
 ##  <span style="color:#4ea3ff;">Comment Conter</span>
+<hr>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Une fois par partie, le Pêcheur vous indiquera qu’il souhaite utiliser sa capacité, habituellement pendant la journée.  
-Amenez-le à l’écart (ou faites-le savoir clairement) et donnez-lui un <strong>conseil unique</strong> pour l’aider à gagner la partie.  
-Ensuite, placez le rappel <strong>PAS DE CAPACITÉ</strong> à côté de son jeton de rôle : il ne peut plus utiliser sa capacité.
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Instructions au Conteur :
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Il est préférable de donner au Pêcheur un conseil sur ce qu’il doit faire, 
-plutôt que de lui transmettre une simple information sur ce qui <strong>est</strong>. Cela rend le rôle du Pêcheur plus amusant et plus unique.  
-Par exemple&nbsp;:  
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Une fois par partie, le Pêcheur va vous demander d’utiliser sa capacité. En privé, donnez-lui un conseil pour l’aider à gagner.
 <br>
-– « Vous devriez exécuter ce joueur. »<br>
-– « Gardez ce joueur en vie. »<br>
-– « Découvrez qui est ivre. »<br>
-– « Changez complètement de point de vue. »<br>
-– « Ignorez les Sbires et concentrez-vous sur le Démon. »<br>
-est bien plus intéressant que « ce joueur est maléfique » ou « le Démon est un 
-<a href="../sv_roles/nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a>. »
+Ensuite, placez le jeton <strong>« Sans capacité »</strong> à côté du jeton Pêcheur.
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Si le Pêcheur est ivre ou empoisonné, n’hésitez pas à donner un conseil objectivement <strong>mauvais</strong> ou dangereux pour le Bien,  
-tout en restant cohérent avec la situation et le ton de la partie.
-</p>
-
----
+<div class="botc-note">
+Il est préférable de donner au Pêcheur un conseil sur ce qu’il faut <strong>FAIRE</strong>, et pas simplement une information sur ce qui <strong>EST</strong>.  
+Cela rend le Pêcheur plus amusant, et plus différencié des autres rôles.
+<hr>
+Par exemple, il est beaucoup plus intéressant de dire <strong>« Vous devriez exécuter ce joueur »</strong> ou <strong>« Gardez ce joueur en vie »</strong> ou <strong>« Découvrez qui est ivre »</strong> ou <strong>« Réfléchissez d’une autre manière »</strong> ou <strong>« Ignorez les Sbires »</strong> ou encore <strong>« Écoutez ce joueur »</strong> que de dire simplement <strong>« Ce joueur est maléfique »</strong> ou <strong>« Le Démon est un <a href="../sv_roles/nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a> »</strong>.
+</div>
 
 ##  <span style="color:#4ea3ff;">Exemples</span>
+<hr>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le Pêcheur rend visite à la conteuse et reçoit le conseil&nbsp;:  
-« Vous ne devriez pas faire confiance à <strong>Benjamin</strong>. »  
-Benjamin est un 
-<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a> empoisonné,  
-qui diffuse involontairement de fausses informations au village.
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Le Pêcheur va voir le Conteur et apprend : « Vous ne devriez pas écouter Ben. »  
+Ben est l’<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>.  
+Il est empoisonné et diffuse sans le vouloir de fausses informations.
+<br><br>
+• Le Pêcheur apprend : « Gardez en vie les joueurs qui prétendent être des Marginaux. » Ces joueurs sont en fait le <a href="../sv_roles/maladroit.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maladroit</a> et le <a href="../roles_experimentaux/fearmonger.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Tourmenteur</a>.  
+Le Conteur estime que garder ces joueurs en vie a plus de chance de mener, à terme, à l’exécution du Démon par l’équipe du Bien.
+<br><br>
+• Le dernier jour, le Pêcheur apprend : « Tuez Lewis. » Le Pêcheur est ivre, et Lewis est un Villageois.  
+Le conseil donné par le Conteur n’est donc pas un « vrai » conseil d’ami !
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le Pêcheur apprend&nbsp;:  
-« Gardez en vie les joueurs qui prétendent être des Étrangers. »  
-Ces joueurs sont en réalité le 
-<a href="../sv_roles/maladroit.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maladroit</a> 
-et le 
-<a href="../roles_experimentaux/fearmonger.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fearmonger</a>.  
-La conteuse pense qu’en les gardant en vie, le Bien aura plus de chances de finir par exécuter le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.
+##  <span style="color:#4ea3ff;">Conseils & Astuces</span>
+<hr>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Demandez-vous pourquoi vous avez reçu ce conseil précis. Même si c'est quelque chose à quoi vous ne vous attendiez pas ou que cela vous entraîne sur une voie totalement différente de celle que vous suiviez, rappelez-vous que le Conteur sait tout. Il est le mieux placé pour vous donner un conseil qui vous aidera à gagner.
+<br><br>
+• Suivez le conseil. Le <strong>Pêcheur</strong> ne reçoit pas d'information, il reçoit un conseil pour l'aider à gagner. Si le conseil est « exécutez votre voisin dans le sens des aiguilles d'une montre », faites-le tout simplement. Suivez votre conseil ! À moins de penser que vos informations sont suspectes, votre conseil n'est pas très utile si vous n'agissez pas en conséquence, d'autant plus qu'il vous est donné dans le contexte temporel au moment où vous le demandez. Exécuter Erik n'est peut-être plus une bonne idée dans 2 jours, alors faites campagne pour son exécution dès que possible.
+<br><br>
+• Après avoir suivi votre conseil, essayez d'évaluer où vous en êtes dans la partie et tentez de comprendre à rebours pourquoi ce conseil vous a été donné. Qui a été présenté comme important dans votre conseil ? Pourquoi ? Quels avantages auraient pu découler du suivi de ce conseil ? Qu'est-ce que cela révèle sur l'énigme de la partie ?
+<br><br>
+• Utilisez votre capacité immédiatement. Ne risquez pas de mourir à cause du <strong>Démon</strong> ou d'être exécuté avant d'avoir pu recevoir votre conseil. Demandez un conseil dès que possible le premier jour ! Après tout, vous risquez de perdre votre conseil chaque jour où vous ne l'utilisez pas. L'utiliser tout de suite annule ce risque. Il y a toujours plein de bons conseils que le Conteur peut vous donner au jour 1, selon la configuration de la partie.
+<br><br>
+• Retardez l'utilisation de votre capacité aussi longtemps que possible. C'est risqué, mais plus vous attendez, plus le Conteur sera en mesure de vous donner le type exact de conseil dont vous avez besoin pour gagner. De plus, le Conteur pourrait être plus enclin à récompenser votre prise de risque avec un conseil très juteux si vous bravement bravez la mort pendant plusieurs jours.
+<br><br>
+• Faites attention aux capacités des rôles qui pourraient affecter vos chances de mourir et prenez-les en compte pour décider quand utiliser votre capacité. S'il y a un <a href="../roles_experimentaux/leviathan.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Léviathan</a> sur le script, le <strong>Démon</strong> ne peut pas vous tuer. Si vous pensez qu'un joueur est le <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a>, vous pouvez lui demander de vous protéger. Dans les deux cas, vous avez de plus fortes chances de survivre plus tard dans la partie et vous pourriez différer l'obtention de votre conseil sur cette base.
+<br><br>
+• Prêtez une attention particulière aux mots spécifiques utilisés par le Conteur. Si quelque chose semble un peu ambigu, il est possible qu'il fasse allusion à quelque chose sans le dire ouvertement. Si le Conteur vous dit de ne pas faire confiance à un joueur, ce joueur pourrait en fait être un <strong>Empathe</strong> bon, mais qui a été empoisonné par une <strong>Veuve</strong> et donne de fausses informations qui mènent l'équipe bonne à sa perte. Soyez particulièrement prudent lors de l'interprétation du conseil donné par votre Conteur. « Kevin partage des informations vraies » ne signifie pas nécessairement que Kevin est bon, et « Exécutez Erik » ne signifie pas nécessairement qu'Erik est maléfique. Le conseil peut être très spécifique à la partie en cours, et les Conteurs adorent être mystérieux.
+<br><br>
+• Faites attention aux conditions de victoire/défaite et aux capacités des rôles sur le script. Le conseil que vous recevez pourrait être lié à l'une d'entre elles. Le conseil d'un <strong>Pêcheur</strong> pourrait, par exemple, être une tentative du Conteur pour vous empêcher d'exécuter un <a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Gobelin</a>.
+<br><br>
+• Rendez visite au Conteur, puis revenez et prétendez que vous avez utilisé votre capacité de <strong>Pêcheur</strong> alors que ce n'est pas le cas. Faites croire à l'équipe maléfique que votre pouvoir n'est plus une menace. Si le <strong>Démon</strong> pense que vous avez déjà utilisé votre capacité, il ne jugera peut-être plus utile de vous tuer, ce qui vous permettra de survivre et de l'utiliser plus tard dans la partie.
+<br><br>
+• Réfléchissez aux personnes à qui vous souhaitez confier votre conseil. Vous pouvez simplement vouloir le révéler immédiatement et poser l'indice sur la table pour que tout le monde le décortique. Sinon, vous pouvez choisir de partager l'indice avec un groupe de joueurs de confiance qui pourront l'utiliser pour se coordonner en secret.
+<br><br>
+• Si vous n'êtes pas certain d'avoir bien retenu le conseil, vous pouvez retourner voir le Conteur et lui demander de le répéter. Cependant, gardez à l'esprit que le Conteur ne pourra probablement pas vous fournir de contexte ni de clarifications majeures.
+<br><br>
+• Les rôles qui perçoivent des alignements ou des rôles différents peuvent influencer l'indice donné au <strong>Pêcheur</strong>. Par exemple, une <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a> peut être perçue comme le <strong>Démon</strong>, incitant le Conteur à vous conseiller de l'exécuter. Gardez cette possibilité à l'esprit.
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Au dernier jour, le Pêcheur reçoit le conseil&nbsp;:  
-« Tuez <strong>Louis</strong>. »  
-Le Pêcheur est ivre, et Louis est un <span style="color:#4ea3ff; font-weight:bold;">Villageois</span>.  
-La conteuse lui donne donc volontairement un mauvais conseil.
+##  <span style="color:#4ea3ff;">Bluffer le Pêcheur</span>
+<hr>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Lorsque vous bluffez en tant que <strong>Pêcheur</strong>, gardez quelques éléments en tête :
+<br><br>
+• Le <strong>Pêcheur</strong> peut être guidé pour faire pratiquement n'importe quoi dans la partie. Utilisez cela à votre avantage lorsque vous bluffez en donnant un conseil qui vient appuyer le récit que l'équipe maléfique tente de construire contre l'équipe bonne.
+<br><br>
+• Le faux conseil que vous prétendez avoir reçu du Conteur — et que vous devrez inventer vous-même — sera probablement la pièce maîtresse de votre bluff. La capacité du <strong>Pêcheur</strong> est puissante : ce que vous allez inventer pourrait être le facteur décisif qui vous fera gagner ou perdre la partie. N'oubliez pas d'enrober votre « conseil » avec le ton habituel de votre Conteur. Si votre Conteur aime dire aux <strong>Pêcheurs</strong> qui exécuter, votre bluff sera d'autant plus crédible lorsque vous affirmerez qu'il vous a dit d'exécuter quelqu'un.
+<br><br>
+• Gardez à l'esprit que le Conteur est censé donner au <strong>Pêcheur</strong> un indice sur ce qu'il doit faire, et non une information factuelle. Il est très improbable qu'un Conteur vous donne une information du type « l'un de vos deux voisins est le <strong>Démon</strong> » — ce n'est pas un conseil. Assurez-vous de formuler votre faux conseil comme une incitation à agir, du type « exécutez vos voisins ».
+<br><br>
+• Insistez sur votre faux conseil. Cela ne sert pas à grand-chose de dire au groupe quoi faire avec votre fausse capacité si vous ne concrétisez pas vos propos sur le plan social. Rappelez aux joueurs que votre conseil peut avoir une date d'expiration et qu'il est important qu'ils vous suivent maintenant, pas plus tard !
+<br><br>
+• Donnez un faux conseil qui protège un joueur maléfique. Utilisez-le pour convaincre le village de ne pas exécuter votre <strong>Démon</strong> ou un autre rôle maléfique puissant.
+<br><br>
+• Donnez un faux conseil qui incrimine un joueur bon. Utilisez-le pour semer le doute sur les informations d'un <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a> ou d'une <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>, ou pour faire exécuter un <a href="../tb_roles/saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a>.
+<br><br>
+• Si votre conseil ne mène pas à de bons résultats (ce qui est prévisible puisque vous l'inventez de toutes pièces), envisagez la possibilité de détourner l'interprétation de votre conseil pour semer encore plus le chaos.
+<br><br>
+• Si vous pensez être suspecté, fournissez un conseil qui incrimine un joueur maléfique. Si le village pense que vous êtes maléfique, il sera peut-être plus enclin à faire confiance à cet autre joueur, balayant votre conseil en y voyant une tentative de vous en prendre à un rôle bon.
+<br><br>
+• Si vous pensez être suspecté, fournissez un conseil qui soutient un joueur bon. Si le village pense que vous êtes maléfique, il sera plus enclin à se méfier de ce joueur ou à le prendre pour cible.
+<br><br>
+• Rendez votre indice intéressant, vague et étrange. Inventez quelque شيء qui suscite une tonne de discussions, créant des distractions et des conflits qui détourneront l'équipe bonne de ses efforts pour trouver le <strong>Démon</strong>.
+<br><br>
+• Ne rendez pas votre indice trop élaboré. Essayez de vous en tenir à une seule idée exprimée en une ou deux phrases, plutôt qu'à un long paragraphe qui pourrait éveiller les soupçons.
+<br><br>
+• Se révéler tôt avec un bluff de <strong>Pêcheur</strong> peut être risqué. Si le village croit que vous avez déjà utilisé votre capacité à usage unique, il pourrait décider de vous exécuter au motif que les inconvénients potentiels sont minimes. Cela devient particulièrement délicat lorsque des rôles comme le <a href="../sv_roles/vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a> sont sur le script et que l'équipe bonne pense qu'elle risque de perdre si elle n'exécute personne.
+<br><br>
+• Prétendez être le <strong>Pêcheur</strong> tard dans la partie. Cela peut être un excellent bluff de secours pour couvrir vos arrières si votre premier bluff n'a pas fonctionné. Vous pourrez affirmer que vous induisiez le village en erreur pour éviter d'être pris pour cible par le <strong>Démon</strong>, ce qui vous aurait permis de conserver votre capacité pour plus tard.
+<br><br>
+• Assurez-vous de rendre visite au Conteur au moins une fois avant de révéler votre faux indice. Rien n'est pire que de dévoiler votre indice pour être ensuite confondu comme menteur parce que quelqu'un révèle que vous n'êtes jamais allé voir le Conteur.
 </p>
 
----
-
-##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Demandez-vous toujours <strong>pourquoi</strong> vous avez reçu ce conseil.  
-      Même s’il vous surprend ou qu’il contredit votre logique, gardez en tête que la conteuse voit tout.  
-      Elle est dans la meilleure position pour vous orienter vers un plan globalement gagnant.</li>
-
-  <li><strong>Suivez le conseil.</strong> Le Pêcheur ne donne pas une information brute,  
-      mais une ligne de conduite pour gagner.  
-      Si le conseil est « exécutez votre voisin de gauche », exécutez-le.  
-      Un conseil a souvent une « date de péremption » :  
-      ce qui est pertinent aujourd’hui ne le sera plus dans deux jours.</li>
-
-  <li>Une fois le conseil appliqué, prenez un moment pour évaluer la nouvelle situation.  
-      Essayez de comprendre <strong>pourquoi</strong> ce conseil a pu être donné :  
-      qui est mis en avant, qui est protégé, qui est ciblé ?  
-      Cela peut révéler des choses sur la structure réelle de la partie.</li>
-
-  <li>Vous pouvez utiliser votre capacité <strong>dès le premier jour</strong> pour éviter tout risque de mourir  
-      sans avoir jamais reçu de conseil. Il existe de très bons conseils possibles dès le jour 1,  
-      en fonction des rôles en jeu.</li>
-
-  <li>À l’inverse, vous pouvez attendre le plus longtemps possible.  
-      Plus vous temporisez, plus la conteuse sera en mesure de vous donner un conseil <strong>précis</strong>  
-      et taillé sur mesure pour la situation.  
-      C’est risqué, mais parfois payant.</li>
-
-  <li>Tenez compte des capacités qui influencent vos chances de mourir.  
-      S’il y a un 
-      <a href="../roles_experimentaux/leviathan.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Léviathan</a> 
-      en jeu, le Démon ne tue pas la nuit « normalement », ce qui peut vous permettre d’attendre un peu.  
-      Si vous pensez avoir identifié un 
-      <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a>,  
-      vous pouvez lui demander de vous protéger pour différer votre visite à la conteuse.</li>
-
-  <li>Faites attention aux tournures utilisées par la conteuse.  
-      Un conseil peut être formulé de manière un peu ambiguë pour vous laisser déduire certaines choses.  
-      Par exemple, « Ne faites pas confiance à ce joueur » peut viser un 
-      <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a>  
-      empoisonné par une 
-      <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve noire</a>,  
-      qui donne de fausses pistes malgré sa bonne volonté.</li>
-
-  <li>Les conditions de victoire et certains rôles peuvent être directement liés à votre conseil.  
-      Un conseil peut, par exemple, implicitement vous éviter d’exécuter un 
-      <a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Goblin</a>  
-      au mauvais moment.</li>
-
-  <li>Vous pouvez rendre visite à la conteuse <strong>sans</strong> utiliser votre capacité  
-      et prétendre ensuite l’avoir utilisée.  
-      Si l’équipe maléfique croit que votre pouvoir est déjà « grillé »,  
-      elle vous considérera comme une cible moins prioritaire,  
-      ce qui peut vous laisser le temps d’utiliser votre vraie capacité plus tard.</li>
-
-  <li>Réfléchissez à qui vous voulez partager votre conseil.  
-      Vous pouvez le révéler publiquement, ou seulement à un petit groupe de joueurs de confiance,  
-      qui pourront se coordonner en secret à partir de ce que vous avez appris.</li>
-
-  <li>Si vous ne vous souvenez plus exactement du conseil, vous pouvez redemander à la conteuse  
-      de vous le reformuler. Elle ne pourra cependant pas le commenter ou l’expliquer davantage.</li>
-
-  <li>Certains rôles qui « s’enregistrent » différemment, comme le 
-      <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a>,  
-      peuvent influencer le conseil.  
-      Par exemple, un Reclus qui s’enregistre comme Démon peut amener la conteuse  
-      à vous conseiller de l’exécuter… ce qui ne signifie pas forcément qu’il est réellement maléfique.</li>
-
-</ul>
-
----
-
-##  <span style="color:#4ea3ff;">Bluffer Pêcheur</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Le Pêcheur peut recevoir pratiquement n’importe quel type de conseil.  
-      Quand vous bluffez ce rôle, exploitez cela pour faire passer des « conseils »  
-      qui servent la narration de l’équipe maléfique.</li>
-
-  <li>Le cœur de votre bluff sera le faux conseil que vous prétendez avoir reçu.  
-      Adaptez-le au style de votre conteuse :  
-      si elle donne souvent des conseils du type « exécutez X »,  
-      il sera plus crédible que vous répétiez exactement ce genre de formule.</li>
-
-  <li>Souvenez-vous que le Pêcheur reçoit surtout un <strong>ordre d’agir</strong>, pas une information brute.  
-      Un vrai conseil ressemblera à « exécutez vos voisins » plutôt qu’à  
-      « l’un de vos deux voisins est le Démon ».</li>
-
-  <li>Insistez sur votre faux conseil.  
-      Il perd beaucoup de sa force si vous laissez le groupe l’ignorer sans réagir.  
-      Rappelez régulièrement que « le temps presse » et qu’il faut suivre votre piste maintenant.</li>
-
-  <li>Donnez un faux conseil qui protège un rôle maléfique important,  
-      par exemple en dissuadant le village d’exécuter un joueur clé.</li>
-
-  <li>À l’inverse, donnez un conseil qui accuse un bon rôle :  
-      faites exécuter une 
-      <a href="../tb_roles/vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Vierge</a>,  
-      un 
-      <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a>  
-      ou une 
-      <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>  
-      sous prétexte que « le conseil du Pêcheur » le suggère.</li>
-
-  <li>Si votre faux conseil donne de mauvais résultats (ce qui est probable),  
-      vous pouvez ensuite prétendre l’avoir mal interprété, ou le tourner dans un autre sens  
-      pour continuer à semer le doute.</li>
-
-  <li>Si vous êtes vous-même suspect ou suspecte,  
-      un bon outil peut être d’incriminer un(e) allié(e) maléfique dans votre faux conseil :  
-      le village peut alors penser que, puisque vous êtes probablement maléfique,  
-      cette cible doit être bonne et donc digne de confiance.</li>
-
-  <li>Faites en sorte que votre conseil soit <strong>marquant</strong> sans être trop alambiqué :  
-      une ou deux phrases qui génèrent beaucoup de discussions sont idéales.  
-      Trop de détails rendront le mensonge suspect.</li>
-
-  <li>Revendiquez le rôle de Pêcheur plutôt en fin de partie.  
-      C’est un excellent bluff de « secours » si votre premier rôle inventé ne tient plus.  
-      Vous pouvez expliquer que vous vous êtes protégé en mentant au début  
-      pour garder votre vraie capacité jusqu’au bon moment.</li>
-
-  <li>Assurez-vous de vous être effectivement rendu au conteur au moins une fois  
-      avant d’annoncer publiquement votre « conseil ».  
-      Si quelqu’un remarque que vous n’avez jamais quitté le cercle,  
-      votre bluff s’effondrera immédiatement.</li>
-
-</ul>
-
----
+<hr class="explication">
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
-   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+• <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+• <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
+• <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
