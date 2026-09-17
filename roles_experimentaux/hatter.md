@@ -45,7 +45,7 @@ image: /images/Icon_hatter.png
 </ul>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Un Chapeau. Trop De Chapeau. <br> Trois Chapeaux. Chapeau De Thé. <br>Chapeau D'Avant. Chapeau De Prospériter. <br>Six Chapeaux. Chapeau De Bâtons. »
+« Un chapeau. Trop de chapeaux. <br> Trois chapeaux. Chapeau de thé. <br> Chapeau d'avant. Chapeau de prospérité. <br> Six chapeaux. Chapeau de bâtons. »
 </p>
 
 <hr class="marginal">
@@ -108,7 +108,7 @@ Ensuite, tous ces joueurs se rendorment. Retirez le jeton <strong>« Ce soir, on
 <hr>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
-• Le Chapelier meurt. L'<a href="../roles_experimentaux/ojo.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Ojo</a> choisit de devenir le <a href="../sv_roles/no_dashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a> et l’<a href="../bmr_roles/avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a> choisit de devenir la <a href="../bmr_roles/scarletwoman.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme écarlate</a>.
+• Le Chapelier meurt. L'<a href="../roles_experimentaux/ojo.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Ojo</a> choisit de devenir le <a href="../sv_roles/nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a> et l’<a href="../bmr_roles/avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a> choisit de devenir la <a href="../bmr_roles/femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme écarlate</a>.
 <br><br>
 • Le <a href="../sv_roles/vigormortis.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vigormortis</a> a tué la <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a>, puis il tue le Chapelier. 
 Les deux joueurs choisissent de conserver les mêmes rôles afin de ne pas perdre les effets du <a href="../sv_roles/vigormortis.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vigormortis</a>.
@@ -185,6 +185,6 @@ Il peut donc être judicieux de prétendre un autre rôle publiquement et d'affi
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
 • <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-• <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Marginaux</a><br>
+• <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Marginal</a><br>
 • <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
