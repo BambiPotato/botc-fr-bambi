@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Ermite
+description: "Vous avez les capacités de tous les Marginaux. [-0 ou -1 Marginal]"
+image: /images/Icon_hermit.png
 ---
 
 <p align="left">
@@ -8,6 +10,8 @@ title: Ermite
     <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
+
+<hr class="explication">	
 
 <!-- Ermite -->
 
@@ -19,28 +23,13 @@ title: Ermite
   </a>
 </div>
 
-<!-- APPARAÎT DANS -->
-<div style="text-align:center; margin: 20px 0%;">
-  <a href="../experimentaux.html" style="text-decoration:none;">
-    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
-    <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
-  </a>
-</div>
-
-#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Ermite</span>
-
-<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Dans les lieux perdus et oubliés de la terre, la lumière de l’âme continue d’appeler. »
-</p>
-
----
+<hr class="marginal">
 
 ##  <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
-    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a>
+    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a>
   </li>
   <li>
   <strong>Nom original :</strong>
@@ -55,138 +44,81 @@ title: Ermite
   <li><strong>Révélé :</strong> 12 juin 2025</li>
 </ul>
 
----
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+  « Dans les lieux perdus et oubliés de la terre, <br> la lumière de l'âme brille comme un phare dans la nuit. »
+</p>
+
+<hr class="marginal">
+
+<!-- APPARAÎT DANS -->
+<div style="text-align:center; margin: 20px 0%;">
+  <a href="../experimentaux.html" style="text-decoration:none;">
+    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
+  </a>
+</div>
 
 ##  <span style="color:#4ea3ff;">Résumé</span>
+<hr class="marginal">
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Vous avez toutes les capacités des Étrangers. [-0 ou -1 Étranger] »</strong>
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
+« Vous avez les capacités de tous les Marginaux. [-0 ou -1 Marginal] »
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-L’<strong>Ermite</strong> n'est pas vraiment là.
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+L’Ermite n'est pas vraiment là.
 </p>
 
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>L’Ermite possède <strong>toutes les capacités des autres Étrangers du script</strong>, en même temps.  
-      Il ne gagne pas les capacités d’Étrangers qui ne figurent pas sur ce script.</li>
-
-  <li>Si un script personnalisé comporte plus de quatre Étrangers, l’Ermite possède <strong>toutes</strong> leurs capacités.</li>
-
-  <li>Si une capacité d’Étranger continue à fonctionner après la mort, comme celle du 
-      <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a>,  
-      l’Ermite conserve cette capacité précise après sa mort,  
-      mais <strong>perd toutes les autres</strong> capacités d’Étranger.</li>
-
-  <li>Si l’Ermite a la capacité de 
-      <a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">l’Ivrogne</a>,  
-      il ne sait pas qu’il est l’Ermite, et croit être un autre rôle.  
-      Ses autres capacités d’Étranger fonctionnent normalement, mais la conteuse ou le conteur  
-      peut lui donner des informations arbitraires comme à n’importe quel Ivrogne.</li>
-
-  <li>Si l’Ermite a la capacité du 
-      <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a>,  
-      il peut s’enregistrer comme appartenant à une autre équipe ou comme ayant un autre rôle,  
-      exactement comme un Reclus normal.</li>
-
-  <li>Si un Étranger a un <em>jinx</em>, ce jinx s’applique aussi à l’Ermite.  
-      Par exemple, si le script indique un jinx entre le 
-      <a href="../sv_roles/mutant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mutant</a>  
-      et un certain <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
-      l’Ermite avec la capacité de Mutant est aussi concerné par ce jinx.</li>
-
-  <li>Le «&nbsp;[-0 ou -1 Étranger]&nbsp;» signifie qu’à la mise en place,  
-      la conteuse ou le conteur peut choisir d’avoir le <strong>nombre normal d’Étrangers</strong>,  
-      ou d’en avoir <strong>un de moins</strong> que d’habitude.</li>
-
-  <li>L’Ermite peut être retiré du jeu pendant la mise en place  
-      (pour utiliser le « -1 Étranger ») et remplacé par un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>.  
-      Même dans ce cas, l’Ermite peut rester disponible comme <strong>bluff</strong> du <span style="color:#d45b5b; font-weight:bold;">Démon</span>.</li>
-
-</ul>
-
----
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• L'Ermite possède simultanément les capacités de tous les autres Marginaux du script. Il n’a pas les capacités des Marginaux qui ne sont pas dans le script.
+<br><br>
+• Si un script personnalisé comporte plus de 4 Marginaux, l’Ermite a toutes les capacités de ces Marginaux.
+<br><br>
+• Si une capacité de Marginal se poursuit après la mort, telle que celle de la <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a>, l’Ermite conserve cette capacité lorsqu’il meurt, mais il ne conserve pas ses autres capacités de Marginal.
+<br><br>
+• Un Ermite doté de la capacité de l’<a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> ne sait pas qu’il est l'Ermite, et ses autres capacités de Marginal fonctionnent normalement. Un Ermite doté de la capacité de la <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a> peut apparaître comme un rôle différent, etc.
+<br><br>
+• Si un Marginal est en conflit, ce conflit s’applique également à l’Ermite.
+<br><br>
+• L'Ermite peut retirer l'Ermite du jeu lors de la mise en place, et ainsi créer une partie avec un Marginal de moins que la normale.  
+Si cela se produit, un Villageois supplémentaire est mis à la place, et l'Ermite peut être donné au Démon en tant que bluff.
+</p>
 
 ##  <span style="color:#4ea3ff;">Comment Conter</span>
+<hr>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Pendant la mise en place, décidez si vous appliquez le «&nbsp;–0 ou –1 Étranger&nbsp;» :
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Instructions au Conteur 
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Si vous jouez avec le nombre normal d’Étrangers, préparez la partie comme d’habitude.</li>
-  <li>Si vous choisissez «&nbsp;-1 Étranger&nbsp;», retirez un jeton d’Étranger de la configuration  
-      et remplacez-le par un jeton de <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>.</li>
-</ul>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Ensuite, traitez l’Ermite comme si c’était <strong>tous les Étrangers du script à la fois</strong> :
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Lors de la mise en place, vous pouvez retirer un jeton de Marginal et ajouter un jeton de Villageois. Ce jeton Marginal peut être celui de l’Ermite lui-même.
+<br><br>
+Lorsqu’il le faut, traitez l’Ermite comme les autres Marginaux : réveillez-le la nuit, utilisez les jetons d’aide-mémoire des autres Marginaux, etc.  
+Si l'Ermite duplique un Marginal qui est déjà en jeu, utilisez les jetons <strong>« 1 »</strong>, <strong>« 2 »</strong> et <strong>« 3 »</strong> de l’Ermite à la place.
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Réveillez l’Ermite à tous les moments où un Étranger dont il a la capacité se réveillerait normalement  
-      (par exemple comme un 
-      <a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>  
-      ou un 
-      <a href="../sv_roles/mutant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mutant</a> le nécessitent).</li>
-
-  <li>Utilisez les jetons de rappel habituels de ces Étrangers.  
-      Si vous avez à la fois l’Étranger original et l’Ermite qui copie ce rôle,  
-      utilisez les rappels « 1 », « 2 » ou « 3 » de l’Ermite pour les distinguer dans le grimoire.</li>
-
-  <li>Si plusieurs capacités d’Étrangers se contredisent,  
-      choisissez une règle de fonctionnement et <strong>expliquez-la au groupe</strong> au début de la partie.  
-      Par exemple, pour un Ermite qui combine Majordome et Zélote,  
-      vous pouvez décider qu’il <strong>doit</strong> voter quand son maître vote.</li>
-
-</ul>
-
----
+<div class="botc-note" style="font-size:20px; line-height:1.7;">
+Si des capacités de Marginaux s’opposent, créez une règle pour trancher le litige et informez-en le groupe. Par exemple, pour un Ermite - <a href="../tb_roles/majordome.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Majordome</a> - <a href="../roles_experimentaux/zealot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Zélote</a>, vous pouvez décider que l’Ermite doit voter lorsque son Maître vote.
+</div>
 
 ##  <span style="color:#4ea3ff;">Exemples</span>
+<hr>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-
-Mélanie est l’Ermite et possède les capacités du 
-<a href="../sv_roles/maladroit.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maladroit</a>,  
-du 
-<a href="../tb_roles/majordome.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Majordome</a>  
-et du 
-<a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a>.  
-Chaque nuit, elle choisit un maître à servir, comme un Majordome normal.  
-Plus tard dans la partie, Mélanie est exécutée et doit, à cause de sa capacité de Maladroit,  
-désigner un joueur ou une joueuse&nbsp;: elle pointe le 
-<a href="../roles_experimentaux/wizard.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Wizard</a>.  
-Les Maléfiques gagnent immédiatement la partie.</p>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-
-Lilian est l’Ermite et a les capacités de l’
-<a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>,  
-du 
-<a href="../sv_roles/mutant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mutant</a>  
-et de la 
-<a href="../sv_roles/dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a>.  
-Persuadé d’être l’
-<a href="../bmr_roles/exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a>,  
-il choisit un joueur chaque nuit. 
-Lilian finit par dire en public qu’il pense être l'
-<a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>,  
-la conteuse décide alors de l’exécuter à cause de la capacité du
-<a href="../sv_roles/mutant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mutant</a>.
-À sa mort, en raison de la capacité de la
-<a href="../sv_roles/dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a>,
-il rend ivre l’
-<a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a>.
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Marianna est l’Ermite. Elle dispose des capacités du <a href="../sv_roles/maladroit.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maladroit</a>, du <a href="../tb_roles/majordome.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Majordome</a> et de la <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a>.  
+Chaque nuit, elle choisit un joueur comme Maître en raison de la capacité du <a href="../tb_roles/majordome.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Majordome</a>. La <a href="../tb_roles/gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a> meurt et apprend que Marianna est le <a href="../roles_experimentaux/lordoftyphon.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Seigneur de Typhon</a> (du fait de la capacité de la <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a>).  
+Marianna est exécutée et choisit un joueur à cause de la capacité du Maladroit. Elle choisit le <a href="../roles_experimentaux/wizard.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mage</a>.  
+L’équipe du Bien perd.
+<br><br>
+• Lewis est l’Ermite et possède les capacités de l’<a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>, de la <a href="../sv_roles/mutant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bête de foire</a> et de la <a href="../sv_roles/dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a>. Il pense qu’il est l’<a href="../bmr_roles/exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a> et choisit un joueur chaque nuit. Lewis annonce qu’il pourrait être l’Ivrogne ; le Conteur l’exécute à cause de la capacité de la <a href="../sv_roles/mutant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bête de foire</a>. La capacité de la <a href="../sv_roles/dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a> rend l’<a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> ivre.
 </p>
 
----
+<hr class="explication">	
 
-<p style="text-align:left; font-size:18px; margin-top:20px;">
-   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Étrangers</a><br>
-   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+<p style="text-align:left; font-size:18px; margin-top:00px;">
+• <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+• <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Marginal</a><br>
+• <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
