@@ -139,7 +139,7 @@ Si le <strong>Diablotin</strong> attaque un joueur mort pendant la nuit, laissez
 <hr>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Il existe de nombreuses stratégies pour les joueurs maléfiques, en particulier le <strong>Diablotin</strong>, détaillées plus en profondeur dans la section <a href="../strategie.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Stratégie</a>.<br>
+• Il existe de nombreuses stratégies pour les joueurs maléfiques, en particulier le <strong>Diablotin</strong>, détaillées plus en profondeur dans la section <a href="../strategie.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Stratégie</a>.<br>
 En règle générale, en tant que <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, vous voulez paraître digne de confiance, répandre de fausses informations quand c’est possible, pousser vos <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> à confirmer que vous êtes un joueur du Bien, et les sacrifier quand c’est nécessaire.
 </p>
 
@@ -192,7 +192,7 @@ Retirer leurs informations ou la puissance de leur capacité tôt vous aidera pl
 <hr>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Dans <strong>Trouble Brewing</strong>, combattre le <strong>Diablotin</strong> revient à jouer correctement pour l’équipe du Bien : pensez à consulter la section <a href="../strategie.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Stratégie</a>.<br>
+• Dans <strong>Trouble Brewing</strong>, combattre le <strong>Diablotin</strong> revient à jouer correctement pour l’équipe du Bien : pensez à consulter la section <a href="../strategie.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Stratégie</a>.<br>
 Exécuter le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> fait gagner le Bien. Si vous avez une piste sur un <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> possible et une autre sur un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> possible, il est généralement préférable de prioriser l’exécution des suspects <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.
 </p>
 
@@ -249,7 +249,7 @@ Au dernier jour, il reste souvent trois joueurs vivants, dont un <a href="../dem
 <hr class="explication">
 
 
-<ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:40px; white-space:normal; overflow-wrap:anywhere; word-break:break-word;">
+<ul style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:00px; white-space:normal; overflow-wrap:anywhere; word-break:break-word;">
   <li><a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
   <li><a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
   <li><a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Démons</a></li>
