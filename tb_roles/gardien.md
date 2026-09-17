@@ -28,9 +28,6 @@ image: /images/Icon_ravenkeeper.png
 <hr class="villageois">
 
 
-
-<hr class="villageois">
-
 ##  <span style="color:blue">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
@@ -62,6 +59,8 @@ Volez, mes sœurs, et faites votre devoir ! <br>
 Volez au manoir ! Volez à la rivière ! <br>
 Que vos ailes soient l’instrument de ma vengeance ! Volez ! »
 </p>  
+
+<hr class="villageois">
 
 
 ##  Apparaît dans  
