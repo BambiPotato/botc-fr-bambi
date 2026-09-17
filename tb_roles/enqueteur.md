@@ -26,18 +26,6 @@ image: /images/Icon_investigator.png
 
 <hr class="villageois">
 
-##  Apparaît dans  
-
-<div style="text-align:center; margin: 20px 0;">
-  <a href="../trouble_brewing.html" style="text-decoration:none;">
-    <img src="../images/Logo_trouble_brewing.png" alt= "Trouble Brewing" width="400" style="border-radius:12px;">
-    <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:45px;">Trouble Brewing</span>
-  </a>
-</div>
-
-
-<hr class="villageois">
 
  
 ##  <span style="color:blue">Informations</span>
@@ -71,12 +59,21 @@ n’est-ce pas, Monsieur Morozov ? <br>
 Ou devrais-je dire... Monsieur le Baron ? »
 </p>   
 
+<hr class="villageois">
+
+##  Apparaît dans  
+
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../trouble_brewing.html" style="text-decoration:none;">
+    <img src="../images/Logo_trouble_brewing.png" alt= "Trouble Brewing" width="400" style="border-radius:12px;">
+    <br>
+    <span style="color:#b58b52; font-weight:bold; font-size:45px;">Trouble Brewing</span>
+  </a>
+</div>
+
 
 
 ##  <span style="color:blue">Résumé</span>
-
-
-
 <hr class="villageois">
 
 
@@ -99,7 +96,7 @@ LE DÉTECTIVE apprend qu’un rôle de Sbire particulier est en jeu, mais ne sai
 Instructions au Conteur
 </p>
 
-- Lors de la préparation de la première nuit, placez le jeton **<span style="color:red">SBIRE</span>** du Détective à côté du jeton de rôle d’un [<span style="color:red">Sbire</span>](../sbires.md),<br> et placez le jeton **FAUSSE PISTE** du Détective à côté d’un autre jeton de rôle.
+- Lors de la préparation de la première nuit, placez le jeton **<span style="color:brown">SBIRE</span>** du Détective à côté du jeton de rôle d’un [<span style="color:red">Sbire</span>](../sbires.md),<br> et placez le jeton **FAUSSE PISTE** du Détective à côté d’un autre jeton de rôle.
 
 - Lors de la première nuit, réveillez le Détective et désignez les joueurs marqués **SBIRE** et **FAUSSE PISTE**.
 Montrez au Détective le jeton de rôle associé au jeton **SBIRE**. 
@@ -112,14 +109,14 @@ Retirez les jetons du Détective quand vous le souhaitez.
 
 ---
 
-- **Céline** est le [<span style="color:red">Baron</span>](baron.md), et **Pierre** est le [Maire](maire.md).  
-  → Le Détective apprend que soit Céline, soit Pierre est le Baron.  
+- **Amy** est le [<span style="color:red">Baron</span>](baron.md), et **Julian** est le [Maire](maire.md).  
+  → Le Détective apprend qu'Amy ou Julian est le [<span style="color:red">Baron</span>](baron.md).  
 
-- **Angelus** est [<span style="color:red">Espionne</span>](espion.md), et **Julien** est l'[<span style="color:red">Empoisonneur</span>](empoisonneur.md).  
-  → Le Détective apprend que soit Dorothée, soit Julien est l’Espionne.  
+- **Lachlan** est l'[<span style="color:red">Espionne</span>](espion.md), et **Lewis** est l'[<span style="color:red">Empoisonneur</span>](empoisonneur.md).  
+  → Le Détective apprend que Lachlan ou Lewis est l’[<span style="color:red">Espionne</span>](espion.md).  
 
-- **Evin** est la [Recluse](reclus.md), et **Kyllian** est le [<span style="color:red">Diablotin</span>](imp.md).  
-  → Le Détective apprend que soit Evin, soit Kyllian est l'[<span style="color:red">Empoisonneur</span>](empoisonneur.md).  
+- **Evin** est la [Recluse](reclus.md), et **Marianna** est le [<span style="color:red">Diablotin</span>](imp.md).  
+  → Le Détective apprend qu'Evin ou Marianna est  l'[<span style="color:red">Empoisonneur</span>](empoisonneur.md).  
 ⚠️ Ici, la [Recluse](reclus.md) apparaît comme un Sbire : dans ce cas précis, l' [<span style="color:red">Empoisonneur</span>](empoisonneur.md).
 
 
@@ -156,7 +153,7 @@ Méfiez-vous de la [Recluse](reclus.md) ! Elle peut être considérée comme un 
 
 - Vous auriez reçu vos informations la première nuit, et devriez donc les avoir à partir de ce moment-là. On vous aurait montré deux joueurs et un jeton de Sbire.
 
-- Choisissez deux joueurs bons, et prétendez que l’un d’eux est un Sbire pour essayer de faire exécuter ces joueurs.<br>  Choisir l’[<span style="color:red">Empoisonneur</span>](empoisonneur.md) ou la [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md) est généralement préférable si vous voulez que l’équipe du Bien soit motivée à les exécuter tous les deux. <br> Les joueurs bons n’exécuteront peut-être pas immédiatement un [<span style="color:red">Baron</span>](baron.md) ou une [<span style="color:red">Espionne</span>](espion.md) suspectée, mais ils pourraient le faire.
+- Choisissez deux joueurs bons, et prétendez que l’un d’eux est un Sbire pour essayer de faire exécuter ces joueurs.<br>  Choisir l’[<span style="color:red">Empoisonneur</span>](empoisonneur.md) ou la [<span style="color:red">Femme écarlate</span>](femmeecarlate.md) est généralement préférable si vous voulez que l’équipe du Bien soit motivée à les exécuter tous les deux. <br> Les joueurs bons n’exécuteront peut-être pas immédiatement un [<span style="color:red">Baron</span>](baron.md) ou une [<span style="color:red">Espionne</span>](espion.md) suspectée, mais ils pourraient le faire.
 
 - Si vous êtes le Démon, ou même un Sbire ambitieux, donner à l’équipe du Bien un véritable Sbire peut vous rendre extrêmement digne de confiance, surtout si d’autres joueurs bons comme le [Fossoyeur](croquemort.md) soutiennent vos informations. Cela peut être encore renforcé si le Sbire fait tout son possible pour paraître aussi maléfique que possible. Après tout, plus il a l’air d’être un Sbire, plus vous avez l’air d’être le Détective.
 
@@ -164,18 +161,17 @@ Méfiez-vous de la [Recluse](reclus.md) ! Elle peut être considérée comme un 
 
 - Communiquer vos informations secrètement à un ou deux joueurs bons peut semer une énorme méfiance. Ils se déchireront souvent entre eux sans que vous ayez besoin d’en faire beaucoup plus.
 
-- Prétendre avoir vu un Sbire qui n’est pas réellement en jeu peut créer beaucoup de confusion, ou soutenir les bluffs d’autres joueurs maléfiques. <br> Par exemple, bluffer qu’un [<span style="color:red">Baron</span>](baron.md)  est en jeu aidera à confirmer un Démon qui bluffe en Marginal. Bluffer qu’un [<span style="color:red">Empoisonneur</span>](empoisonneur.md) est en jeu alors qu’il y a en réalité une [<span style="color:red">Femme Écarlate</span>](femmeecarlate.md) peut pousser le Bien à se méfier de ses propres informations.
+- Prétendre avoir vu un Sbire qui n’est pas réellement en jeu peut créer beaucoup de confusion, ou soutenir les bluffs d’autres joueurs maléfiques. <br> Par exemple, bluffer qu’un [<span style="color:red">Baron</span>](baron.md)  est en jeu aidera à confirmer un Démon qui bluffe en Marginal. Bluffer qu’un [<span style="color:red">Empoisonneur</span>](empoisonneur.md) est en jeu alors qu’il y a en réalité une [<span style="color:red">Femme écarlate</span>](femmeecarlate.md) peut pousser le Bien à se méfier de ses propres informations.
 
 - Si un véritable Détective s’est déjà révélé publiquement avec ses informations, et que vous ne faites pas partie de ses cibles, prétendre être le véritable Détective et dire au groupe qu’il était l’un des deux Sbires qui vous ont été montrés peut être un excellent moyen de le faire paraître Maléfique. <br>Si le véritable Détective paraît Maléfique, alors les joueurs qu’il a accusés comme Sbires potentiels paraissent Bons.
 
 - Si vous êtes l’[<span style="color:red">Espionne</span>](espion.md), ou si vous avez accès à une [<span style="color:red">Espionne</span>](espion.md), elle peut être extrêmement précieuse pour vous fournir de puissantes cibles à discréditer avec votre accusation.
 
-  
 
-<hr class="explication">
   
 
 ## 🧞 <span style="color:#d4a76a;">Jinxes liés</span>
+<hr> 
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
