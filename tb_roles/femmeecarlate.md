@@ -182,9 +182,9 @@ Pour plus d'information se référez à la page dédiée au <strong>[<span style
   <hr class="explication">
    
 
-## 🧞 <span style="color:#d4a76a;">Jinxes liés</span>
+## 🧞 <span style="color:red">Jinxes liés</span>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:00px;">
   
   <li>
     🧞
@@ -210,7 +210,7 @@ Pour plus d'information se référez à la page dédiée au <strong>[<span style
 <li>
   🧞
     <img src="../images/Icon_plaguedoctor.png" alt="Docteur de la peste" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/plaguedoctor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Docteur de la peste</a> :  
+    <a href="../roles_experimentaux/plaguedoctor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Docteur de peste</a> :  
     Si le Conteur devait obtenir la capacité de la Femme écarlate, un Sbire l’obtient et l’apprend.
     </li>
     
