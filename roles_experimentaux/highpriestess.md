@@ -19,7 +19,7 @@ image: /images/Icon_highpriestess.png
   <a href="./highpriestess.html" style="text-decoration:none;">
     <img src="../images/Icon_highpriestess.png" alt="Grande Prêtresse" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#4ea3ff; font-weight:bold; font-size:30px;">Grande Prêtresse</span>
+    <span style="color:#4ea3ff; font-weight:bold; font-size:30px;">Grande prêtresse</span>
   </a>
 </div>
 
@@ -50,7 +50,7 @@ image: /images/Icon_highpriestess.png
 
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-« Il y a de la vie derrière la personnalité qui utilise les personnalités comme des masques. <br> Il y a des moments où la vie fait tomber le masque et l’abîme répond à l’abîme. »
+« Il y a de la vie derrière la personnalité <br> qui utilise les personnalités comme des masques. <br> Il y a des moments où la vie fait tomber le masque et <br> l’abîme répond à l’abîme. »
 </p>
 
 
@@ -61,7 +61,7 @@ image: /images/Icon_highpriestess.png
   <a href="../experimentaux.html" style="text-decoration:none;">
     <img src="../images/carousel.png" alt="The Carousel Expérimental" width="300" style="border-radius:12px;">
     <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
+    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : Carrousel rôle expérimental</span>
   </a>
 </div>
 
@@ -79,11 +79,11 @@ La Grande prêtresse agit selon son intuition.
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
 
-• La Grande prêtresse peut voir plusieurs fois le même joueur d’affilée, ou un joueur différent chaque nuit.<br>
-• Le joueur qu’elle voit peut être en vie ou mort.<br>
-• Le joueur qu’elle voit peut être bon ou maléfique.<br>
-• Il n'existe aucun critère officiel permettant de déterminer le joueur que le Conteur doit montrer à la Grande prêtresse.<br> 
-• Nous vous invitons à lire ce guide pour mieux vous aider : <a href="../grandepretresse.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;"> Comment conter la Grande Prêtresse : Essai par Emma</a><br>
+• La Grande prêtresse peut voir plusieurs fois le même joueur d’affilée, ou un joueur différent chaque nuit.<br><br>
+• Le joueur qu’elle voit peut être en vie ou mort.<br><br>
+• Le joueur qu’elle voit peut être bon ou maléfique.<br><br>
+• Il n'existe aucun critère officiel permettant de déterminer le joueur que le Conteur doit montrer à la Grande prêtresse.<br><br> 
+• Nous vous invitons à lire ce guide pour mieux vous aider : <a href="../grandepretresse.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;"> Comment conter la Grande Prêtresse : Essai écrit par Emma, Conteuse officielle pour les streams de TPI</a><br>
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;"> 
@@ -173,8 +173,8 @@ La dernière nuit, la Grande Prêtresse voit Lewis, qui est le <a href="../tb_ro
 
 <hr class="explication">
 
-<p style="text-align:left; font-size:18px; margin-top:20px;">
-   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
-   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+<p style="text-align:left; font-size:18px; margin-top:00px;">
+• <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+• <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
+• <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
