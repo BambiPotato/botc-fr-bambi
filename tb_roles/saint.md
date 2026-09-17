@@ -62,15 +62,15 @@ Prions, et que l’unité de notre vision nous transcende tous. »
 <h2><span style="color:blue">Résumé</span></h2>
 <hr class="villageois">
 
-<p style="color:#f5f5f5; font-size:23px; font-weight:bold; line-height:1.7; margin:0 0 8px 0;">
+<p style="color:#f5f5f5; font-size:20px; font-weight:bold; line-height:1.7; margin:0 0 8px 0;">
 « Si vous mourez par exécution, votre équipe perd. »
 </p>
 <p class="botc-flavour-text dropcap" style="margin:0;">
 LE SAINT met fin immédiatement à la partie s'il est exécuté.
 </p>
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Si le saint meurt par exécution, la partie est terminée. Le Bien est vaincu et le Mal gagne.</li>
-  <li>Dans <strong>Trouble Brewing</strong>, le Saint est toujours <strong>Bon</strong> : s’il est <strong>exécuté</strong>, <strong>le Mal gagne</strong>.</li>
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:00px;">
+  <li>Si le saint meurt par exécution, la partie est terminée. Le Bien est vaincu et le Mal gagne.</li><br> 
+  <li>Dans <strong>Trouble Brewing</strong>, le Saint est toujours <strong>Bon</strong> : s’il est <strong>exécuté</strong>, <strong>le Mal gagne</strong>.</li><br> 
   <li>Si le Saint meurt <strong>autrement</strong> que par exécution (par exemple, tué par le Démon), <strong>la partie continue</strong>.</li>
 </ul>
 
@@ -84,7 +84,7 @@ LE SAINT met fin immédiatement à la partie s'il est exécuté.
 Instructions au Conteur
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:40px;">
   <li>Si le <strong>Saint</strong> meurt par exécution, annoncez que la partie est terminée et que le Mal gagne.</li>
   <li>Si le Saint <strong>ne meurt pas par exécution</strong>, <strong>la partie continue</strong>.</li>
 </ul>
@@ -101,7 +101,7 @@ Dans d'autres modules, certains rôles peuvent changer d'alignement. Si un Saint
 
 ---
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:00x;">
   <li>Il reste sept joueurs en vie et les nominations sont en cours. Le Saint obtient 4 votes et est « sur le bûcher ( il est sur le point de mourir par exécution).</li>
 
   <li>Ensuite, le <strong><a href="./baron.html" style="text-decoration:none;"><span style="color:red">Baron</span></a></strong> est nommé mais n’obtient que 3 votes.<br>
@@ -118,7 +118,7 @@ Dans d'autres modules, certains rôles peuvent changer d'alignement. Si un Saint
 
 ---
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:00px;">
   <li><strong>Ne vous faites pas exécuter.</strong> Vraiment. <br>
     Prévenez <strong>publiquement</strong> que vous êtes le Saint si vous êtes menacé d’exécution.</li>
 
@@ -145,8 +145,8 @@ Dans d'autres modules, certains rôles peuvent changer d'alignement. Si un Saint
 
 ---
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Lorsque vous bluffez en vous faisant passer pour le Saint, voici quelques points à garder à l'esprit:</li>
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:00x;">
+  <li>Lorsque vous bluffez en vous faisant passer pour le Saint, voici quelques points à garder à l'esprit:</li><br>
   <li>vous ne vous réveilleriez jamais, n'apprendriez rien, n'agiriez jamais pendant la journée, <br>
 sauf au moment de votre exécution, auquel cas la partie serait déjà terminée.</li>
   <li>En raison de la condition de défaite du Saint, c'est sans doute l'un des meilleurs bluffs maléfiques du jeu.</li>
@@ -269,21 +269,9 @@ ou amener l’équipe du Bien à penser qu’un
 est en jeu.</li>
 </ul>
 
-<hr class="explication"> 
-
-<h2><span style="color:blue">Notes & interactions</span></h2>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li>Seule la <strong>mort par exécution</strong> déclenche la capacité du Saint.</li>
-  <li><strong>L'Exil</strong> n'est pas une exécution !</li>
-  <li>Les effets de redirection avec le <strong><a href="../voyageurs/scapegoat.html" style="text-decoration:none;"><span style="color:purple">Bouc Émissaire</span></a></strong> :
-    <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-      <li>si <strong>quelqu’un d’autre</strong> meurt <strong>à la place</strong> du Saint, <strong>la partie continue</strong>.</li>
-    </ul>
-  </li>
-</ul>
 
 <hr class="explication"> 
+
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
   <li><a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
