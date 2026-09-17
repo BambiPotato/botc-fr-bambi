@@ -202,9 +202,9 @@ puisse facilement voir qui est qui.
 <hr class="explication">
 
 
-## 🧞 <span style="color:#d4a76a">Jinxes liés</span>
+## 🧞 <span style="color:red">Jinxes liés</span>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:00px;">
 
   <li>
     🧞
@@ -241,14 +241,14 @@ puisse facilement voir qui est qui.
   <li>
     🧞
     <img src="../images/Icon_plaguedoctor.png" alt="Docteur de la peste" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/plaguedoctor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Docteur de la peste</a> :  
+    <a href="../roles_experimentaux/plaguedoctor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Docteur de peste</a> :  
     Si le Conteur devait gagner la capacité de l’Espionne, un Sbire la gagne et l’apprend.
   </li>  
   <li>
     🧞
     <img src="../images/Icon_poppygrower.png" alt="Cultivateur de pavot" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Planteur de pavot</a> :  
-    Si le Cultivateur de pavot a sa capacité, l’Espionne ne voit pas le Grimoire.
+    Si le Planteur de pavot a sa capacité, l’Espionne ne voit pas le Grimoire.
   </li>    
   </ul>
 
