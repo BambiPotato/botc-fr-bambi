@@ -159,7 +159,7 @@ Lorsque vous bluffez le <strong>Roi</strong>, il y a plusieurs choses que vous d
   <li style="margin-bottom:10px;">
     🧞 
     <img src="../images/Icon_riot.png" alt="Riot" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> :  
+    <a href="../roles_experimentaux/riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Émeute</a> :  
     Si l'Émeute est en jeu et qu'au moins 1 joueur est mort, le Roi apprend un rôle en vie chaque nuit.
   </li>
 </ul>
