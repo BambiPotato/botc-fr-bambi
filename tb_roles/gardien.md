@@ -27,16 +27,6 @@ image: /images/Icon_ravenkeeper.png
  
 <hr class="villageois">
 
-##  Apparaît dans  
-
-
-<div style="text-align:center; margin: 20px 0;">
-  <a href="../trouble_brewing.html" style="text-decoration:none;">
-    <img src="../images/Logo_trouble_brewing.png" alt= "Trouble Brewing" width="400" style="border-radius:12px;">
-    <br>
-    <span style="color:#b58b52; font-weight:bold; font-size:45px;">Trouble Brewing</span>
-  </a>
-</div>
 
 
 <hr class="villageois">
@@ -74,10 +64,19 @@ Que vos ailes soient l’instrument de ma vengeance ! Volez ! »
 </p>  
 
 
+##  Apparaît dans  
+
+
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../trouble_brewing.html" style="text-decoration:none;">
+    <img src="../images/Logo_trouble_brewing.png" alt= "Trouble Brewing" width="400" style="border-radius:12px;">
+    <br>
+    <span style="color:#b58b52; font-weight:bold; font-size:45px;">Trouble Brewing</span>
+  </a>
+</div>
+
 
 ##  <span style="color:blue">Résumé</span>  
-
-
 <hr class="villageois">
 
 
@@ -115,13 +114,15 @@ Instructions au Conteur
 
 ---
 
-- La Corneille est tué par le **[<span style="color:red">Diablotin</span>](imp.md)** et choisit **Benjamin**. Benjamin est l'**[Empathe](empathique.md)** :
-  la Corneille apprend le rôle de l'[Empathe](empathique.md).  
+- La Corneille est tuée par le **[<span style="color:red">Diablotin</span>](imp.md)** puis se réveille pour choisir un joueur.
+  - Après réflexion, elle choisit **Ben**. Ben est l'**[Empathe](empathique.md)**.
+  - La Corneille apprend le rôle de Ben :  l'[Empathe](empathique.md).  
 
 - Le **[<span style="color:red">Diablotin</span>](imp.md)** attaque le **[<span style="color:blue">Maire</span>](maire.md)**. 
-  - Le Maire survit, mais la **Corneille** meurt à sa place. La Corneille choisit **Damien**, une **[Recluse](reclus.md)** morte. 
-  - La Corneille apprend que **Damien** était en réalité la **[<span style="color:red">Femme Écarlate</span>](femmeecarlate.md)**, 
-    à cause de la capacité de la [Recluse](reclus.md).  
+  - Le Maire ne meurt pas, mais la **Corneille** meurt à sa place en raison de la capacité [<span style="color:blue">Maire</span>](maire.md).
+  - La Corneille se réveille et choisit **Doug**, qui est une **[Recluse](reclus.md)** morte. 
+  - La Corneille apprend que **Doug** est la **[<span style="color:red">Femme écarlate</span>](femmeecarlate.md)**, 
+    puisque  la [Recluse](reclus.md) apparait comme un Sbire.
 
 
 
@@ -178,10 +179,10 @@ Instructions au Conteur
 
 
 
-<hr class="explication">
 
+## 🧞 <span style="color:blue">Jinxes liés</span>
 
-## 🧞 <span style="color:#d4a76a">Jinxes liés</span>
+___
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
