@@ -160,7 +160,7 @@ Si les <strong>Sbires</strong> se font piéger et gâchent leur unique <strong>e
   <li style="margin-bottom:10px;">
     🧞 
     <img src="../images/Icon_marionette.png" alt="Marionnette" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/marionnette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> :  
+    <a href="../roles_experimentaux/marionette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> :  
     Si la Marionnette pense être le Chasseur, la <a href="../roles_experimentaux/damsel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Demoiselle</a> 
     a été ajoutée lors de la mise en place.
   </li>
