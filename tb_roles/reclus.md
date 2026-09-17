@@ -75,7 +75,7 @@ image: /images/Icon_recluse-1.png
 <h2 style="color:#4ea3ff;">Résumé</h2>
 <hr class="villageois">
 
-<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:23px; margin:0 0 8px 0;">
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
 « Vous pourriez apparaître comme maléfique et comme Sbire ou Démon, même morte. »
 </p>
 
@@ -133,7 +133,7 @@ Instructions au Conteur
 
 ---
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
 
   <li style="margin-bottom:14px;">
     Dites à tout le monde que vous êtes la Recluse dès que possible !<br>
@@ -192,7 +192,7 @@ Instructions au Conteur
   <strong>Lorsque vous bluffez la Recluse,</strong> il y a quelques éléments à garder en tête:
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
 
   <li style="margin-bottom:14px;">
     Vous ne vous réveilleriez jamais, n’apprendriez rien, et n’agiriez pas pendant la journée.
@@ -231,9 +231,9 @@ Instructions au Conteur
 
 <hr class="explication"> 
 
-## 🧞 <span style="color:#d4a76a">Jinxes liés</span>
+## 🧞 <span style="color:blue">Jinxes liés</span>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:00px;">
 
   <li>
     🧞
