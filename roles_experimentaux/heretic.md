@@ -11,6 +11,8 @@ image: /images/Icon_heretic.png
   </a>
 </p>
 
+<hr class="explication">	
+
 <!-- Hérétique -->
 
 <div style="text-align:center; margin: 20px 0%;">
@@ -21,30 +23,13 @@ image: /images/Icon_heretic.png
   </a>
 </div>
 
-<!-- APPARAÎT DANS -->
-<div style="text-align:center; margin: 20px 0%;">
-  <a href="../experimentaux.html" style="text-decoration:none;">
-    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
-    <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
-  </a>
-</div>
-
-#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Hérétique</span>
-
-<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Quand la grêle a brisé le toit et éclaté les vitraux de la cathédrale,  
-  elle fond ensuite dans la terre, comme un agneau mourant sous le soleil du désert.  
-  Telle est la parabole du fou. »
-</p>
-
----
+<hr class="marginal">
 
 ##  <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
-    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a>
+    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a>
   </li>
   <li>
   <strong>Nom original :</strong>
@@ -59,336 +44,171 @@ image: /images/Icon_heretic.png
   <li><strong>Révélé :</strong> 1er avril 2021</li>
 </ul>
 
----
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« La grêle brisera le toit et les vitraux de la cathédrale, <br> et fondra dans la terre comme l’agneau meurt dans le désert. <br> Telle est la parabole que répète l’insensé. »
+</p>
+
+<hr class="marginal">
+
+<!-- APPARAÎT DANS -->
+<div style="text-align:center; margin: 20px 0%;">
+  <a href="../experimentaux.html" style="text-decoration:none;">
+    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : Carrousel rôle expérimental</span>
+  </a>
+</div>
 
 ##  <span style="color:#4ea3ff;">Résumé</span>
+<hr class="marginal">
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Quiconque gagne, perd, et quiconque perd, gagne, même si vous êtes mort. »</strong>
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
+« Quiconque gagne, perd, et quiconque perd, gagne, même si vous êtes mort. »
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-L’<strong>Hérétique</strong> transforme une victoire en défaite, et une défaite en victoire
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+L’Hérétique transforme une victoire en défaite, et une défaite en victoire.
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Si la partie se termine par une victoire de l’équipe du Bien,  
-      alors tous les joueurs et joueuses du Bien perdent,  
-      et tous les joueurs et joueuses du Mal gagnent.</li>
-
-  <li>Si la partie se termine par une victoire de l’équipe du Mal,  
-      alors tous les joueurs et joueuses du Mal perdent,  
-      et tous les joueurs et joueuses du Bien gagnent.</li>
-
-  <li>La capacité de l’Hérétique s’applique à <strong>toutes</strong> les conditions de fin de partie :  
-      exécution du <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
-      règle des deux joueurs restants, fin déclenchée par un rôle spécial  
-      (comme le 
-      <a href="../tb_roles/maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a>,  
-      la 
-      <a href="../sv_roles/maladroit.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maladroit</a>,  
-      le 
-      <a href="../tb_roles/saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a>, etc.).</li>
-
-  <li>La capacité de l’Hérétique fonctionne même si l’Hérétique est mort.  
-      En revanche, si l’Hérétique est ivre ou empoisonné au moment où la partie se termine,  
-      sa capacité ne s’applique pas.</li>
-
-  <li>L’Hérétique est un rôle d’<strong>Étranger</strong> :  
-      il ou elle est dans l’équipe du Bien, mais rend la victoire du Bien  
-      beaucoup plus délicate à atteindre.</li>
-
-</ul>
-
-
----
-
-## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>
-    <img src="../images/Icon_baron.png" alt="Baron" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> :  
-    Un seul rôle jinxé avec l’Hérétique peut être en jeu.
-  </li>
-
-  <li>
-    <img src="../images/Icon_boffin.png" alt="Boffin" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/boffin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boffin</a> :  
-    Le <span style="color:#d45b5b; font-weight:bold;">Démon</span> ne peut pas avoir la capacité de l’Hérétique.
-  </li>
-
-  <li>
-    <img src="../images/Icon_godfather.png" alt="Parrain" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../bmr_roles/godfather.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parrain</a> :  
-    Un seul rôle jinxé avec l’Hérétique peut être en jeu.
-  </li>
-
-  <li>
-    <img src="../images/Icon_lleech.png" alt="Lleech" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../bmr_roles/lleech.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Lleech</a> :  
-    Un seul rôle jinxé avec l’Hérétique peut être en jeu.
-  </li>
-
-  <li>
-    <img src="../images/Icon_pithag.png" alt="Pit-Hag" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a> :  
-    Un seul rôle jinxé avec l’Hérétique peut être en jeu.
-  </li>
-
-  <li>
-    <img src="../images/Icon_spy.png" alt="Espion" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espion</a> :  
-    Un seul rôle jinxé avec l’Hérétique peut être en jeu.
-  </li>
-
-  <li>
-    <img src="../images/Icon_widow.png" alt="Veuve" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a> :  
-    Un seul rôle jinxé avec l’Hérétique peut être en jeu.
-  </li>
-
-</ul>
-
----
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Si le jeu se termine par la victoire de l’équipe du Bien, alors tous les joueurs bons perdent, et tous les joueurs maléfiques gagnent.
+<br><br>
+• Si le jeu se termine par la victoire de l'équipe du Mal, alors tous les joueurs maléfiques perdent, et tous les joueurs bons gagnent.
+<br><br>
+• La capacité de l’Hérétique s'applique à toutes les conditions de victoire, y compris si la fin du jeu survient parce qu’il ne reste que deux joueurs en vie, parce que le Démon est mort, ou à cause d’une capacité qui provoque la fin de la partie.
+<br><br>
+• La capacité de l'Hérétique fonctionne même lorsque l’Hérétique est mort, mais pas si l’Hérétique est ivre ou empoisonné.
+</p>
 
 ##  <span style="color:#4ea3ff;">Comment Conter</span>
+<hr>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Instructions au Conteur :
+</p>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Si le jeu se termine et que l'équipe du Mal doit remporter la victoire, annoncez que l’équipe du Bien a gagné et que l’équipe du Mal a perdu.
+<br><br>
+Si le jeu se termine et que l'équipe du Bien doit remporter la victoire, annoncez que l’équipe du Mal a gagné et que l’équipe du Bien a perdu.
+</p>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
 Vous n’avez pas besoin de réveiller l’Hérétique la nuit ni de lui donner d’information.  
 Sa capacité ne sert qu’au moment où la partie se termine.
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Si, sans tenir compte de l’Hérétique, la partie devrait se terminer  
-      par une victoire de l’équipe du Mal (par exemple, deux joueurs en vie dont un Démon,  
-      exécution ratée du dernier jour, effet d’un 
-      <a href="../bmr_roles/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a>, etc.),  
-      annoncez que c’est l’équipe du Bien qui gagne.</li>
-
-  <li>Si, sans tenir compte de l’Hérétique, la partie devrait se terminer  
-      par une victoire de l’équipe du Bien (exécution du Démon,  
-      activation du 
-      <a href="../tb_roles/maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a>,  
-      exécution d’un 
-      <a href="../tb_roles/saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a>,  
-      d’un 
-      <a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Goblin</a>, etc.),  
-      annoncez que c’est l’équipe du Mal qui gagne.</li>
-
-  <li>Si l’Hérétique est ivre ou empoisonné à ce moment-là, ignorez sa capacité  
-      et appliquez le résultat normal de la partie.</li>
-
-  <li>Ne revenez pas en arrière sur des annonces de victoire déjà faites.  
-      Réfléchissez bien à l’ordre :  
-      vérifiez d’abord les conditions de fin de partie,  
-      puis appliquez l’éventuel effet de l’Hérétique, puis annoncez le résultat final.</li>
-
-</ul>
-
----
-
 ##  <span style="color:#4ea3ff;">Exemples</span>
+<hr>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Au premier jour, l’Hérétique revendique publiquement être l’Hérétique.  
-Cette nuit-là, le <span style="color:#d45b5b; font-weight:bold;">Démon</span> se tue lui-même.  
-Normalement, cela ferait gagner le Bien…  
-mais comme l’Hérétique est en jeu, c’est le Mal qui gagne.
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Le premier jour, l'Hérétique annonce publiquement être l'Hérétique. Cette nuit-là, le Démon se tue lui-même. Le Mal gagne.
+<br><br>
+• L’Hérétique attend le dernier jour pour révéler son rôle. Il ne reste alors que trois joueurs en vie. <br> L'Hérétique convainc l’équipe du Bien d’exécuter un joueur bon de telle sorte qu’il ne reste que deux joueurs en vie, dont l’un est le Démon. Le Bien gagne.
+<br><br>
+• L'Hérétique est mort. Le <a href="../tb_roles/saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a> est exécuté. Le Bien gagne.
+<br><br>
+• L'Hérétique est empoisonné. L'<a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> tue le Démon. Le Bien gagne.
+<br><br>
+• Un Hérétique est en jeu. Il reste trois joueurs en vie. Le Démon est exécuté. Le Mal gagne.
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-L’Hérétique reste discret jusqu’au dernier jour,  
-alors qu’il ne reste plus que trois joueurs en vie.  
-Il révèle alors son rôle et convainc l’équipe du Bien d’exécuter un joueur bon,  
-laissant en vie le <span style="color:#d45b5b; font-weight:bold;">Démon</span> et un autre joueur.  
-Normalement, le Mal gagnerait…  
-mais grâce à l’Hérétique, le Bien gagne.</p>
+##  <span style="color:#4ea3ff;">Conseils & Astuces</span>
+<hr>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-L’Hérétique est mort.  
-Un 
-<a href="../tb_roles/saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a> est exécuté.  
-Normalement, le Mal gagnerait,  
-mais la présence de l’Hérétique inverse le résultat : le Bien gagne.</p>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Gardez le <strong>Démon</strong> en vie à tout prix. En temps normal, dans les parties sans <strong>Hérétique</strong>, l'équipe bonne peut gagner à tout moment (en exécutant le <strong>Démon</strong>), tandis que l'équipe maléfique ne peut gagner que le dernier jour (en exécutant un joueur qui n'est pas le <strong>Démon</strong>). Dans une partie avec un <strong>Hérétique</strong>, l'équipe maléfique peut gagner à tout moment (en exécutant le <strong>Démon</strong>), tandis que l'équipe bonne ne peut gagner que le dernier jour (en exécutant un joueur qui n'est pas le <strong>Démon</strong>).
+<br><br>
+• <strong>C'est extrêmement dangereux pour l'équipe maléfique de découvrir qu'un Hérétique est en jeu.</strong> Si le <strong>Démon</strong> vous croit, il pourrait se tuer la nuit, ce qui lui ferait perdre la partie et ferait donc gagner l'équipe bonne. Soyez très prudent quant à la personne à qui vous vous révélez.
+<br><br>
+• <strong>Si vous pensez que l'équipe bonne est en train de perdre l'avantage, la stratégie la plus sûre est de ne jamais révéler votre identité à quiconque.</strong>
+<br><br>
+• <strong>Envisagez d'attendre le dernier jour de la partie pour vous révéler en tant qu'Hérétique.</strong> C'est risqué, car les gens risquent de ne pas vous croire, mais c'est toujours mieux que de voir le <strong>Démon</strong> se tuer pendant la nuit et offrir immédiatement la victoire à l'équipe maléfique. Si vous proclamez haut et fort que vous êtes l'<strong>Hérétique</strong> lorsqu'il ne reste plus que trois joueurs en vie, même si vous êtes mort, l'équipe bonne saura qu'elle doit exécuter un joueur qui n'est PAS le <strong>Démon</strong> et perdre délibérément la partie, ce qui lui donnera la victoire.
+<br><br>
+• <strong>Cherchez des joueurs bons capables de confirmer que vous êtes bien l'Hérétique</strong>, puis travaillez avec eux pour orchestrer ce qui serait normalement une défaite.
+<br><br>
+• <strong>Essayez de trouver un joueur bon comme le <a href="../bmr_roles/courtisan.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisan</a> qui est capable de vous rendre ivre ou empoisonné.</strong> Cela permettra à l'équipe bonne de jouer la victoire sans craindre de perdre à la place.
+<br><br>
+• <strong>Faites attention aux rôles qui ont des conditions de victoire ou de défaite dans leur capacité, comme le <a href="../tb_roles/maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a>, le <a href="../sv_roles/maladroit.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maladroit</a>, le <a href="../tb_roles/saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a>, le <a href="../bmr_roles/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a> ou le <a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Gobelin</a>.</strong>  
+Si vous restez silencieux sur le fait que vous êtes l'<strong>Hérétique</strong>, l'équipe maléfique pourrait travailler à votre avantage sans le savoir. Par exemple, si le <a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Gobelin</a> se fait exécuter, le camp du bien gagne ; ou si un joueur maléfique bluffe en prétendant être le <strong>Maire</strong> et convainc le groupe de ne pas exécuter le dernier jour, le camp du bien gagne.
+<br><br>
+• <strong>Si vous pensez que l'équipe bonne est sur le point d'exécuter le Démon, vous devrez la convaincre du contraire.</strong> Vous pouvez bluffer en incarnant un <strong>Villageois</strong> avec des informations contradictoires, ou lui faire comprendre qu'exécuter ce joueur est une très mauvaise idée. En dernier recours, révélez que vous êtes l'<strong>Hérétique</strong> pour les en dissuader — éviter que le <strong>Démon</strong> ne soit exécuté évite à coup sûr une défaite, mais le <strong>Démon</strong> peut ou non se tuer cette nuit-là. Il vaut mieux échanger une défaite certaine contre une défaite possible (ou même probable).
+<br><br>
+• <strong>Lorsqu'il ne reste plus que trois joueurs en vie, vous pouvez révéler sans risque que vous êtes l'Hérétique</strong>, car la partie se terminera avant la nuit. L'équipe bonne trouvera probablement qu'il s'agit d'une information absolument cruciale.
+<br><br>
+• <strong>Lorsqu'il ne reste plus que quatre joueurs en vie, il peut être sans risque de révéler que vous êtes l'Hérétique</strong>, car la partie pourrait se terminer pendant la nuit via l'attaque habituelle du <strong>Démon</strong>. L'équipe bonne trouvera probablement qu'il s'agit d'une information absolument cruciale. <br> Cependant, le <strong>Démon</strong> a encore la possibilité de se tuer, alors soyez méfiant.
+<br><br>
+• <strong>Il est souvent plus avisé de ne jamais être totalement catégorique sur ce que vous prétextez être.</strong> Par exemple, si vous prétendez être soit l'<strong>Hérétique</strong>, soit la <a href="../bmr_roles/moonchild.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sélénite</a>, l'équipe bonne est informée qu'un <strong>Hérétique</strong> pourrait être en jeu et peut adapter sa stratégie en conséquence, tandis que le <strong>Démon</strong> n'est pas suffisamment convaincu pour franchir le pas décisif de se tuer. Ou encore, si vous bluffez en <a href="../sv_roles/jongleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Jongleur</a>, puis que vous prétendez être l'<strong>Hérétique</strong>, puis que vous bluffez en <a href="../sv_roles/charmeurdeserpent.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Charmeur de Serpent</a>, là encore l'équipe bonne est alertée de la possibilité d'un <strong>Hérétique</strong>, mais le <strong>Démon</strong> n'en est pas sûr. Contrairement aux autres rôles, l'ambiguïté est votre alliée. Assurez-vous simplement d'être 100 % franc sur votre rôle d'<strong>Hérétique</strong> lorsque cela compte vraiment, comme le dernier jour !
+<br><br>
+• <strong>Peu importe que vous mouriez.</strong> Si vous êtes nominé, il n'est pas nécessaire de vous défendre, sauf si vous le souhaitez. Si le <strong>Démon</strong> vous tue la nuit, ce n'est pas un problème. Ne vous souciez pas de rester en vie.
+<br><br>
+• <strong>Vous tenez le sort de la partie entre vos mains.</strong> Très peu de rôles possèdent ce pouvoir. Rappelez-vous à quel point vous êtes important. <br> Tous les autres <strong>Villageois</strong> et <strong>Marginaux</strong> sont conçus de manière à vous encourager à « dire ce que vous voulez à tout moment », sans que de simples erreurs ne mettent fin à la partie. Par exemple, même si la <a href="../sv_roles/mutant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bête de foire</a> révèle qui elle est et se fait exécuter, la partie continue. Même si la <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> révèle qui elle est et meurt lors de la deuxième nuit, la partie continue. Mais l'<strong>Hérétique</strong> est différent. <br> Les mots de l'<strong>Hérétique</strong> peuvent faire basculer le sort de l'équipe bonne de façon drastique et rapide. Même si vous êtes un <strong>Marginal</strong>, vous êtes le joueur bon le plus dangereux de la partie — pour les deux équipes.
+</p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-L’Hérétique est empoisonné.  
-L’
-<a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> tue le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.  
-Normalement, le Bien gagnerait,  
-mais comme l’Hérétique est inopérant à cause du poison,  
-le Bien gagne effectivement.</p>
+##  <span style="color:#4ea3ff;">Bluffer l'Hérétique</span>
+<hr>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Il reste trois joueurs en vie.  
-Le <span style="color:#d45b5b; font-weight:bold;">Démon</span> est exécuté.  
-Sans Hérétique, le Bien gagnerait.  
-Comme l’Hérétique est en jeu et sobre,  
-c’est le Mal qui gagne.</p>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• <strong>La plupart des Hérétiques attendront le dernier jour pour se révéler.</strong> Si vous voulez bluffer l' <strong>Hérétique</strong> de cette manière, vous devrez soit rester silencieux sur votre rôle pendant la majeure partie de la partie, soit bluffer d'abord sous les traits d'un autre rôle. Selon le groupe, ce type de comportement pourrait vous faire exécuter avant l'arrivée du dernier jour. Les <strong>Sbires</strong> ne craignent peut-être pas d'être exécutés, d'autant plus que la capacité de l'<strong>Hérétique</strong> continue de fonctionner une fois mort. Mais un <strong>Démon</strong> qui bluffe en <strong>Hérétique</strong> prend un risque considérable. Préparez d'abord un bluff alternatif — et rendez-le crédible.
+<br><br>
+• <strong>Gardez l'Hérétique en tête comme bluff de secours.</strong> Si votre premier bluff ne fait pas l'affaire, affirmer que vous avez menti parce que vous êtes l'<strong>Hérétique</strong> est assez crédible. Les <strong>Hérétiques</strong> ont une bonne raison de mentir. Si votre premier bluff réussit, vous n'avez pas besoin de prétendre être l'<strong>Hérétique</strong>, alors n'hésitez pas à en faire un risqué ou absurde !
+<br><br>
+• <strong>Si un camarade maléfique a été nominé et que vous devez absolument le garder en vie</strong>, prétendez soudainement être l'<strong>Hérétique</strong> et affirmez que vous pensez que le groupe est sur le point d'exécuter le <strong>Démon</strong> et de perdre la partie. Si l'équipe bonne est suffisamment déstabilisée, d'autant plus qu'elle pensait le nominé assez maléfique pour l'avoir nominé au départ, elle pourrait faire marche arrière immédiatement et voter contre un autre joueur.
+<br><br>
+• <strong>Si deux joueurs maléfiques prétendent être l'Hérétique</strong>, il semblera que l'un d'eux dit la vérité et que l'autre est maléfique. En temps normal, lorsque deux joueurs maléfiques prétendent tous deux incarner le même rôle bon, le groupe veut exécuter les deux joueurs, pensant que l'un est bon et l'autre maléfique. Cependant, si l'équipe bonne croit qu'un joueur est maléfique et que l'autre est réellement l'<strong>Hérétique</strong>, elle pourrait choisir de garder les deux joueurs en vie de peur d'exécuter accidentellement le <strong>Démon</strong>.
+<br><br>
+• <strong>Un vrai Hérétique a peu de chances de se manifester haut et fort dès le premier jour.</strong> Si vous êtes plus réservé, en insinuant que vous pourriez être l'<strong>Hérétique</strong> sans le confirmer définitivement, vous paraîtrez plus convaincant.
+<br><br>
+• <strong>Portez une attention particulière aux personnes que l'équipe bonne prévoit d'exécuter.</strong> Contrairement à d'autres bluffs où, si l'équipe bonne vous croit, elle ne vous exécutera probablement pas, ici, si l'équipe bonne vous croit, elle pourrait vous exécuter parce qu'elle cherche désormais à exécuter des joueurs bons, en particulier en fin de partie. Si l'équipe bonne croit qu'un <strong>Hérétique</strong> est en jeu, sa stratégie va s'inverser. Assurez-vous au préalable que c'est bien ce que vous souhaitez.
+<br><br>
+• <strong>Si vous êtes un joueur bon, envisagez de bluffer en tant qu'Hérétique.</strong> Si l'équipe maléfique vous croit, elle pourrait convaincre son <strong>Démon</strong> de se tuer la nuit, faisant ainsi gagner l'équipe bonne ! <br> Cependant, s'il y a réellement un vrai <strong>Hérétique</strong> en jeu, vous aurez accidentellement aidé l'équipe maléfique à gagner à la place. C'est très risqué ! <br> De plus, bluffer en <strong>Hérétique</strong> provoque beaucoup de confusion au sein de l'équipe bonne, car elle ne saura pas avec certitude quels sont ses objectifs. Cependant, qu'un joueur bon bluffe de temps en temps en <strong>Hérétique</strong> incitera certainement les joueurs incarnant le <strong>Démon</strong> à douter qu'il vaille la peine de prendre le risque de se suicider la nuit, au fil des parties. <br> Pour l'équipe bonne, les <strong>Démons</strong> qui doutent des vraies déclarations d'<strong>Hérétique</strong> sont un vrai avantage, et cela ne peut se produire que si un joueur bon bluffe occasionnellement en <strong>Hérétique</strong>.
+</p>
 
----
+## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
+<hr>
 
-##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Gardez le <span style="color:#d45b5b; font-weight:bold;">Démon</span> en vie le plus longtemps possible.  
-      Dans une partie normale, exécuter le Démon fait gagner le Bien à tout moment,  
-      alors que le Mal ne peut gagner qu’au dernier jour.  
-      Avec l’Hérétique, c’est l’inverse :  
-      le Mal peut « gagner » à tout moment en faisant exécuter le Démon,  
-      tandis que le Bien ne gagne vraiment  
-      qu’en « perdant » la partie sur le dernier jour.</li>
-
-  <li>Il est <strong>très dangereux</strong> pour le Mal d’apprendre  
-      qu’il y a une Hérétique en jeu.  
-      Si le Démon vous croit, il peut choisir de se suicider la nuit,  
-      « perdant » la partie pour le Mal… et donc la lui faisant gagner.  
-      Soyez extrêmement prudent sur les personnes à qui vous révélez votre rôle.</li>
-
-  <li>Si vous pensez que le Bien est très en retard,  
-      il peut être plus sûr de ne jamais révéler votre identité,  
-      pour éviter que le Démon ne se sacrifie volontairement.</li>
-
-  <li>Envisagez d’attendre le <strong>dernier jour</strong> pour vous révéler.  
-      C’est risqué, car les joueurs et joueuses peuvent ne pas vous croire,  
-      mais c’est souvent moins dangereux que de pousser le Démon au suicide nocturne.  
-      Si vous annoncez clairement être l’Hérétique alors qu’il ne reste que trois joueurs,  
-      même mort, le Bien sait qu’il doit exécuter un joueur qui n’est <strong>pas</strong> le Démon  
-      pour « perdre » la partie… et donc gagner.</li>
-
-  <li>Cherchez des rôles bons capables de vous confirmer,  
-      puis complotez avec eux pour organiser ce qui serait normalement une défaite volontaire :  
-      par exemple un 
-      <a href="../bmr_roles/courtier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtier</a>  
-      qui peut vous rendre ivre au bon moment,  
-      ou des rôles à forte influence comme le 
-      <a href="../tb_roles/maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a>  
-      ou la 
-      <a href="../sv_roles/maladroit.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maladroit</a>.</li>
-
-  <li>Un rôle comme le 
-      <a href="../bmr_roles/courtier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtier</a>  
-      peut vous rendre volontairement ivre ou empoisonné à la fin de la partie,  
-      pour permettre au Bien de jouer une fin « classique »  
-      sans risquer de tout inverser malgré lui.</li>
-
-  <li>Surveillez particulièrement les rôles dont la capacité mentionne  
-      une condition de victoire ou de défaite :  
-      le 
-      <a href="../tb_roles/maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a>,  
-      la 
-      <a href="../sv_roles/maladroit.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maladroit</a>,  
-      le 
-      <a href="../tb_roles/saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a>,  
-      le 
-      <a href="../bmr_roles/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a>,  
-      ou le 
-      <a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Goblin</a>.  
-      Si vous restez silencieux, le Mal peut, sans le savoir,  
-      œuvrer exactement dans votre sens.</li>
-
-  <li>Si vous pensez que le Bien s’apprête à exécuter le <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
-      vous devez les en dissuader.  
-      Vous pouvez bluffer un rôle de Villageois dont l’information contredit cette exécution,  
-      ou simplement insister sur le fait que ce choix est une très mauvaise idée.  
-      En dernier recours, révélez que vous êtes l’Hérétique pour empêcher l’exécution du Démon.</li>
-
-  <li>À trois joueurs vivants, il est sûr de révéler que vous êtes l’Hérétique :  
-      la partie se terminera de toute façon avant la prochaine nuit,  
-      le Démon ne pourra plus se suicider pour inverser le plan.</li>
-
-  <li>À quatre joueurs vivants, cela peut aussi être le bon moment,  
-      mais il reste une possibilité pour le Démon de se tuer la nuit.  
-      Évaluez bien le risque avant de parler.</li>
-
-  <li>Contrairement à d’autres rôles, l’Hérétique profite de l’ambiguïté.  
-      Vous pouvez par exemple dire que vous êtes « soit l’Hérétique, soit l’
-      <a href="../bmr_roles/moonchild.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Enfant de Lune</a> »,  
-      ou commencer en bluffant 
-      <a href="../sv_roles/jongleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Jongleur</a>  
-      avant d’admettre plus tard être l’Hérétique,  
-      puis changer encore pour prétendre être 
-      <a href="../sv_roles/charmeurdeserpent.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Charmeur de Serpent</a>.  
-      Le Bien comprend qu’un Hérétique peut exister,  
-      mais le Démon n’est jamais totalement sûr de vous.</li>
-
-  <li>Ne vous inquiétez pas trop de mourir.  
-      Votre capacité fonctionne même après votre mort,  
-      tant que vous n’êtes pas ivre ou empoisonné au moment où la partie se termine.</li>
-
-  <li>Vous tenez littéralement le sort de la partie entre vos mains.  
-      Très peu de rôles ont ce pouvoir.  
-      Contrairement à d’autres Étrangers comme le 
-      <a href="../sv_roles/mutant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mutant</a>  
-      ou la 
-      <a href="../roles_experimentaux/damsel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Demoiselle</a>,  
-      vos paroles peuvent inverser brutalement la victoire ou la défaite.  
-      Même si vous êtes un Étranger, vous êtes l’un des rôles les plus dangereux du jeu  
-      – pour les deux équipes.</li>
-
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0px; padding-left:0; list-style-type:none;">
+  <li style="margin-bottom:10px;">
+    <img src="../images/Icon_baron.png" alt="Baron" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> :  
+    Un seul rôle jinxé peut être en jeu.
+  </li>
+  <li style="margin-bottom:10px;">
+    <img src="../images/Icon_boffin.png" alt="Boffin" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/boffin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Laborantin</a> :  
+    Le Démon ne peut pas avoir la capacité de l’Hérétique.
+  </li>
+  <li style="margin-bottom:10px;">
+    <img src="../images/Icon_godfather.png" alt="Parrain" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../bmr_roles/godfather.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parrain</a> :  
+    Un seul rôle jinxé peut être en jeu.
+  </li>
+  <li style="margin-bottom:10px;">
+    <img src="../images/Icon_lleech.png" alt="Lleech" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../bmr_roles/lleech.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parasyte</a> :  
+    Un seul rôle jinxé peut être en jeu.
+  </li>
+  <li style="margin-bottom:10px;">
+    <img src="../images/Icon_pithag.png" alt="Pit-Hag" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a> :  
+    Un seul rôle jinxé peut être en jeu.
+  </li>
+  <li style="margin-bottom:10px;">
+    <img src="../images/Icon_spy.png" alt="Espion" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a> :  
+    Un seul rôle jinxé peut être en jeu.
+  </li>
+  <li style="margin-bottom:10px;">
+    <img src="../images/Icon_widow.png" alt="Veuve" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a> :  
+    Un seul rôle jinxé peut être en jeu.
+  </li>
 </ul>
 
----
+<hr class="explication">	
 
-##  <span style="color:#4ea3ff;">Bluffer Hérétique</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>La plupart des véritables Hérétiques attendent le dernier jour pour se révéler.  
-      Si vous voulez bluffer de cette façon,  
-      il faudra soit rester très vague sur votre rôle pendant toute la partie,  
-      soit bluffer un autre rôle d’abord.  
-      Selon votre groupe, ce comportement peut suffire à vous faire exécuter avant la fin.</li>
-
-  <li>Gardez l’Hérétique en <strong>bluff de secours</strong>.  
-      Si votre premier bluff commence à s’effondrer,  
-      vous pouvez expliquer que vous mentiez parce que vous êtes l’Hérétique.  
-      C’est crédible : l’Hérétique a une excellente raison de mentir.</li>
-
-  <li>Si un allié maléfique est nominé et que vous avez absolument besoin de le sauver,  
-      vous pouvez soudain prétendre être l’Hérétique  
-      et dire que, selon vous, le village est sur le point d’exécuter le <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
-      – et donc de « perdre » la partie.  
-      Le doute peut suffire à faire reculer le Bien.</li>
-
-  <li>Si deux joueurs maléfiques revendiquent être Hérétiques,  
-      le village pensera que l’un dit vrai et que l’autre est maléfique.  
-      Habituellement, dans un doublon sur un rôle bon, on exécute les deux.  
-      Mais si le groupe croit qu’un vrai Hérétique est en jeu,  
-      il peut décider de garder ces deux joueurs en vie par peur d’exécuter le Démon par erreur.</li>
-
-  <li>Un véritable Hérétique est rarement bruyant dès le premier jour.  
-      Adopter une attitude plus discrète, en laissant entendre  
-      que vous pourriez être l’Hérétique sans le confirmer totalement,  
-      rend votre bluff plus crédible.</li>
-
-  <li>Surveillez de près sur qui le Bien veut voter.  
-      Contrairement à d’autres bluffs, si on vous croit Hérétique,  
-      on peut avoir intérêt à vous exécuter, surtout en fin de partie,  
-      pour « perdre » volontairement.  
-      Assurez-vous que c’est vraiment ce que vous voulez avant de pousser ce discours.</li>
-
-  <li>Si vous êtes en réalité un joueur ou une joueuse du Bien,  
-      vous pouvez aussi bluffer Hérétique.  
-      Si le Mal vous croit, il peut pousser le <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
-      à se suicider la nuit, ce qui, sans vrai Hérétique,  
-      fait gagner le Bien.  
-      C’est très risqué, car s’il y a un véritable Hérétique,  
-      vous offrez la victoire au Mal,  
-      mais cela rendra les Démons plus prudents vis-à-vis des claims d’Hérétique  
-      sur le long terme, ce qui favorise le Bien.</li>
-
-</ul>
-
----
-
-<p style="text-align:left; font-size:18px; margin-top:20px;">
-   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Étrangers</a><br>
-   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+<p style="text-align:left; font-size:18px; margin-top:00px;">
+• <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+• <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Marginal</a><br>
+• <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
