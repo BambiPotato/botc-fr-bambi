@@ -57,10 +57,7 @@ parchment: true
 
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-« Tout va à vau-l’eau dans ce village.
-Un peu de main-d’œuvre bon marché lui fera le plus grand bien.<br>Tout le monde à la mine, voilà ce que je dis.<br> 
-Rien de tel que la vertu du labeur pour se remettre dans le droit chemin.<br> 
-Ça n’a jamais tué personne, non ? »
+« Tout va à vau-l’eau dans ce village. <br> Un peu de main-d’œuvre bon marché <br> lui fera le plus grand bien.<br>Tout le monde à la mine, <br>  voilà ce que je dis.<br> Rien de tel que la vertu du labeur <br> pour se remettre dans le droit chemin.<br> Ça n’a jamais tué personne, non ? »
 </p>
 
 
@@ -174,7 +171,7 @@ l’ignorer trop longtemps peut le transformer en Démon en fin de partie.
   <li>
     🧞
     <img src="../images/Icon_plaguedoctor.png" alt="Docteur de la peste" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/plaguedoctor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Docteur de la peste</a> :  
+    <a href="../roles_experimentaux/plaguedoctor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Docteur de peste</a> :  
     Si le Conteur gagne la capacité du Baron, jusqu’à deux joueurs deviennent des
     <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>.
   </li>
