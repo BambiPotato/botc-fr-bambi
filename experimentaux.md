@@ -83,7 +83,7 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
   <li><a href="roles_experimentaux/noble.html" style="color:#4ea3ff; text-decoration:none;">Noble</a></li>
   <li><a href="roles_experimentaux/fisherman.html" style="color:#4ea3ff; text-decoration:none;">Pêcheur</a></li>
   <li><a href="roles_experimentaux/pixie.html" style="color:#4ea3ff; text-decoration:none;">Pixie</a></li>
-  <li><a href="roles_experimentaux/poppygrower.html" style="color:#4ea3ff; text-decoration:none;">Planteur de pavots</a></li>
+  <li><a href="roles_experimentaux/poppygrower.html" style="color:#4ea3ff; text-decoration:none;">Planteur de pavot</a></li>
   <li><a href="roles_experimentaux/preacher.html" style="color:#4ea3ff; text-decoration:none;">Prédicateur</a></li>
   <li><a href="roles_experimentaux/princess.html" style="color:#4ea3ff; text-decoration:none;">Princesse</a></li>
   <li><a href="roles_experimentaux/king.html" style="color:#4ea3ff; text-decoration:none;">Roi</a></li>
