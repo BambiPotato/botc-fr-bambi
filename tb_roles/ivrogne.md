@@ -66,11 +66,10 @@ image: /images/Icon_drunk-1.png
 
 
 <h3 style="color:#4ea3ff; font-weight:bold;"> Résumé</h3>
-
 <hr class="marginal">
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:25px;">
-  <strong>« Vous ne savez pas que vous êtes l’Ivrogne. Vous pensez que vous êtes un <a href="../villageois.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Villageois</a>. »</strong>
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
+« Vous ne savez pas que vous êtes l’Ivrogne. Vous pensez que vous êtes un <a href="../villageois.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Villageois</a>. »
 </p>
 <p class="botc-flavour-text dropcap">
   Le joueur <a href="./ivrogne.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Ivrogne</a> pense être un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> et n’a aucune idée qu’il est en réalité l’<a href="./ivrogne.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Ivrogne</a>.
@@ -100,7 +99,7 @@ image: /images/Icon_drunk-1.png
 <p class="botc-flavour-text dropcap">
 Instructions au Conteur
 </p>
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:00px;">
   <li>
     Lors de la mise en place, avant de mettre les jetons dans le sac, retirez le jeton
     <a href="./ivrogne.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Ivrogne</a> et ajoutez un jeton de <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>.<br>
@@ -125,7 +124,7 @@ Instructions au Conteur
 
 ---
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:00px;">
   <li>
     L’<a href="./ivrogne.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Ivrogne</a>, qui pense être le
     <a href="./soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a>,<br>
@@ -159,7 +158,7 @@ Instructions au Conteur
 
 ---
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:00px;">
   <li>
     Vous ne saurez jamais avec certitude que vous êtes l’<a href="./ivrogne.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Ivrogne</a> :<br>
     vous commencez avec un jeton de <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> et vous jouez comme ce <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> normalement, tout en recevant de mauvaises informations.<br>
@@ -227,11 +226,11 @@ Instructions au Conteur
 
 ---
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:00px; margin-right:20px;">
   En bluffant l’<a href="./ivrogne.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Ivrogne</a>, gardez quelques points en tête :
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:00px;">
   <li>
     Au début, vous ne sauriez pas que vous êtes l’<a href="./ivrogne.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Ivrogne</a> :<br>
     vous recevriez un rôle de <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>.<br>
@@ -295,11 +294,11 @@ Instructions au Conteur
 
 <hr class="explication">
 
-<h2 style="color:#4ea3ff; font-weight:bold; margin-top:30px; font-size:22px;">
+<h2 style="color:#4ea3ff; font-weight:bold; margin-top:30px; font-size:20px;">
   🧞 Jinxes liés
 </h2>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:00px;">
   <li>
     🧞
     <img src="../images/Icon_boffin.png" alt="Boffin" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
