@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Hatter
+title: Chapelier
+description: "Si vous êtes mort ce jour ou cette nuit, les Sbires et Démons peuvent choisir de nouveaux rôles de Sbire et Démon."
+image: /images/Icon_hatter.png
 ---
 
 <p align="left">
@@ -8,6 +10,8 @@ title: Hatter
     <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
+
+<hr class="explication">	
 
 <!-- Chapelier -->
 
@@ -19,29 +23,13 @@ title: Hatter
   </a>
 </div>
 
-<!-- APPARAÎT DANS -->
-<div style="text-align:center; margin: 20px 0%;">
-  <a href="../experimentaux.html" style="text-decoration:none;">
-    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
-    <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
-  </a>
-</div>
-
-#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Chapelier</span>
-
-<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Un chapeau. Deux chapeaux. Trois chapeaux. Chapeau-thé. Chapeau-quatre. Chapeau-vif.  
-  Chapeau-six. Chapeau-bâtons. »
-</p>
-
----
+<hr class="marginal">
 
 ##  <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
-    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a>
+    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a>
   </li>
   <li>
   <strong>Nom original :</strong>
@@ -56,268 +44,147 @@ title: Hatter
   <li><strong>Révélé :</strong> 30 novembre 2023</li>
 </ul>
 
----
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+  « Un Chapeau. Trop De Chapeau. <br> Trois Chapeaux. Chapeau De Thé. <br>Chapeau D'Avant. Chapeau De Prospériter. <br>Six Chapeaux. Chapeau De Bâtons. »
+</p>
+
+<hr class="marginal">
+
+<!-- APPARAÎT DANS -->
+<div style="text-align:center; margin: 20px 0%;">
+  <a href="../experimentaux.html" style="text-decoration:none;">
+    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : Carrousel rôle expérimental</span>
+  </a>
+</div>
 
 ##  <span style="color:#4ea3ff;">Résumé</span>
+<hr class="marginal">
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Si vous mourrez aujourd’hui ou cette nuit, les joueurs Sbires et Démon peuvent choisir de nouveaux rôles de Sbires et de Démon. »</strong>
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
+« Si vous êtes mort ce jour ou cette nuit, les Sbires et Démons peuvent choisir de nouveaux rôles de Sbire et Démon. »
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Chapelier</strong> permet aux joueuses et joueurs maléfiques de  
-changer leurs rôles de <span style="color:#d45b5b; font-weight:bold;">Sbires</span> et de <span style="color:#d45b5b; font-weight:bold;">Démon</span> lorsqu’il meurt.
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Le Chapelier permet aux joueurs maléfiques de changer de rôle.
 </p>
 
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Chaque joueur maléfique peut choisir de devenir n'importe quel rôle du même type que leur rôle actuel.
+<br><br>
+• Il peut choisir de ne pas changer de rôle.
+<br><br>
+• Si un joueur devient un nouveau rôle, il obtient une nouvelle capacité, même s'il s'agissait d'une capacité « Lors de votre première nuit, vous apprenez » ou une capacité « une fois par partie » déjà utilisée.
+<br><br>
+• Lorsqu’un joueur change de rôle, son ancienne capacité cesse de s’exercer.
+<br><br>
+• Si un joueur meurt puis devient le Chapelier, les joueurs maléfiques ne changent pas de rôle cette nuit-là.
+<br><br>
+• Une fois qu'un rôle a été choisi, aucun autre joueur ne peut choisir le même rôle. Si ce rôle est déjà en jeu, le joueur qui a ce rôle doit choisir un nouveau rôle.
+</p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+##  <span style="color:#4ea3ff;">Comment Conter</span>
+<hr>
 
-  <li>Si le Chapelier meurt <strong>pendant la journée</strong> (par exécution, exil, etc.) ou  
-      <strong>pendant la nuit</strong>, chaque joueur qui a un rôle de <span style="color:#d45b5b; font-weight:bold;">Sbire</span>  
-      ou de <span style="color:#d45b5b; font-weight:bold;">Démon</span> peut choisir un nouveau rôle du même type.</li>
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Instructions au Conteur :
+</p>
 
-  <li>Un Sbire doit devenir un autre Sbire,  
-      un Démon doit devenir un autre Démon.</li>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Si le Chapelier meurt, marquez-le du jeton <strong>« Ce soir, on prend le thé »</strong>.
+<br><br>
+• Cette nuit-là, réveillez les Sbires et le Démon ensemble ou un par un. Montrez-leur la tuile <strong>« Ce rôle vous a choisi »</strong>, puis le jeton du Chapelier. 
+Chaque joueur fait non de la tête ou désigne un autre rôle du script du même type que son rôle actuel. 
+Si un deuxième joueur choisit un rôle déjà attribué, faites non de la tête et faites-lui signe de choisir un autre rôle. 
+Ensuite, tous ces joueurs se rendorment. Retirez le jeton <strong>« Ce soir, on prend le thé »</strong>. Mettez à jour les jetons de rôle des joueurs.
+</p>
 
-  <li>Les joueurs maléfiques peuvent également choisir de <strong>ne pas changer</strong> de rôle.</li>
+<div class="botc-note">
+<strong>Règle optionnelle</strong> : si le Chapelier meurt, autorisez le Démon à devenir un Sbire, et un Sbire à devenir un Démon. Cela peut provoquer un certain chaos au sein de l'équipe maléfique lorsqu'elle essaie de communiquer silencieusement la nuit pour savoir qui veut devenir le Démon.
+</div>
 
-  <li>Si un joueur devient un nouveau rôle,  
-      il gagne immédiatement sa nouvelle capacité,  
-      même s’il s’agit d’une capacité « vous commencez en sachant »  
-      ou d’un effet « une fois par partie » déjà utilisé  
-      sur ce rôle chez un autre joueur auparavant.</li>
+##  <span style="color:#4ea3ff;">Exemples</span>
+<hr>
 
-  <li>Une fois qu’un joueur a changé de rôle,  
-      son ancien rôle n’a plus aucun effet sur la partie.</li>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Le Chapelier meurt. L'<a href="../roles_experimentaux/ojo.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Ojo</a> choisit de devenir le <a href="../sv_roles/no_dashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a> et l’<a href="../bmr_roles/avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a> choisit de devenir la <a href="../bmr_roles/scarletwoman.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme écarlate</a>.
+<br><br>
+• Le <a href="../sv_roles/vigormortis.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vigormortis</a> a tué la <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a>, puis il tue le Chapelier. 
+Les deux joueurs choisissent de conserver les mêmes rôles afin de ne pas perdre les effets du <a href="../sv_roles/vigormortis.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vigormortis</a>.
+<br><br>
+• L' <a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> tue un joueur. Le Chapelier est exécuté. 
+Cette nuit-là, l’<a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> devient le <a href="../bmr_roles/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a>. 
+Lorsque le Conteur demande au <a href="../bmr_roles/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a> s’il veut changer de rôle, le <a href="../bmr_roles/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a> fait non de la tête. 
+Le Conteur insiste et fait également non de la tête, car, en réalité, le <a href="../bmr_roles/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a> doit changer de rôle : son rôle a déjà été choisi par l’<a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>. 
+Le Conteur fait signe au <a href="../bmr_roles/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a> de choisir à nouveau, et le <a href="../bmr_roles/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a> choisit de devenir l’<a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>. Le nouvel <a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> utilise ensuite sa capacité pour tuer un joueur.
+</p>
 
-  <li>Si un joueur meurt puis devient Chapelier (via un autre effet de script),  
-      les joueurs maléfiques ne changent pas de rôle cette nuit-là.</li>
+##  <span style="color:#4ea3ff;">Conseils & Astuces</span>
+<hr>
 
-  <li>Un même rôle ne peut être choisi que par un seul joueur :  
-      si un rôle de Sbire ou de Démon est déjà en jeu ou déjà choisi cette nuit-là,  
-      un autre joueur ne peut pas le choisir et doit en sélectionner un autre.</li>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• <strong>Ne mourez pas !</strong> Dès que vous mourez, l'équipe maléfique a l'opportunité de monter en puissance pour adopter la combinaison exacte qu'elle estime la plus efficace, quel que soit l'équilibre initial de la partie. Et cela pourrait devenir surpuissant si l'équipe maléfique peut le faire en toute impunité au moment qui lui convient.
+<br><br>
+• <strong>Mourez le plus tôt possible !</strong> Plus vous mourez tôt, moins l'équipe maléfique aura de temps pour déterminer quels personnages seront les plus efficaces contre ceux présents dans l'équipe bonne. Cela augmente également les chances que votre rôle soit confirmé par des actions ultérieures de <strong>Sbires</strong> ou du <strong>Démon</strong> contredisant les premières indications, ce qui aide le village à déduire le nombre de <strong>Marginaux</strong>.
+<br><br>
+• <strong>Le milieu de partie est le pire moment pour mourir.</strong> Juste au moment où l'équipe bonne commence à recouper ses informations et à traquer les joueurs maléfiques, votre capacité peut totalement bouleverser ces données et les rendre incroyablement difficiles à analyser, alors même que vous en avez le plus besoin pour départager le petit groupe de candidats restants.
+<br><br>
+• <strong>Le lendemain de votre mort, dites à tout le monde que vous étiez le Chapelier !</strong> Les joueurs doivent adapter leurs choix en conséquence pour prendre en compte un changement potentiel de personnages dans l'équipe maléfique, qu'il s'agisse de leurs choix nocturnes ou des <strong>Nominations</strong> et des votes pour traquer le <strong>Démon</strong> efficacement.
+<br><br>
+• <strong>Après votre mort, essayez de repérer les nouveaux rôles des Sbires et du Démon en fonction des changements par rapport au début de partie.</strong> Peut-être que les informations de certains joueurs sont devenues incohérentes alors qu'elles étaient fiables auparavant, qu'un joueur suspecté d'être maléfique est soudainement bien plus enclin à mourir, ou qu'il y a eu une mort supplémentaire inexplicable. Tous les indices que vous pourrez rassembler sur votre nouvelle équipe maléfique sont encore plus cruciaux qu'à l'accoutumée, compte tenu du temps réduit dont vous disposez pour identifier ces nouveaux rôles.
+</p>
 
-  <li>Une règle optionnelle consiste à autoriser le <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
-      à devenir <span style="color:#d45b5b; font-weight:bold;">Sbire</span> et un Sbire à devenir Démon  
-      lorsque le Chapelier meurt, pour un chaos maximal au sein de l’équipe maléfique.</li>
+##  <span style="color:#4ea3ff;">Bluffer le Chapelier</span>
+<hr>
 
-</ul>
-
----
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• <strong>Vous ne voulez pas mourir !</strong> Profitez du fait que l'équipe bonne hésitera à tuer un <strong>Chapelier</strong> pour survivre plus longtemps que vous ne le feriez en temps normal. Vous pouvez même maintenir ce bluff jusqu'aux trois derniers survivants et au-delà si vous réussissez à entretenir la peur de ce qui pourrait arriver si vous mouriez.
+<br><br>
+• <strong>Si vous mourez, vérifiez si vos coéquipiers maléfiques peuvent prétexter un changement de capacités de Sbire ou de Démon les affectant afin de crédibiliser votre bluff.</strong> Selon les personnages maléfiques présents sur le module, cela peut avoir des répercussions bien au-delà de simplement faire croire que vous êtes bon. Cela peut aussi lancer l'équipe bonne sur une fausse piste théorique autour d'un type de <strong>Démon</strong> qui n'est pas en jeu et ne l'a jamais été.
+<br><br>
+• <strong>Les Chapeliers sont souvent fous !</strong> Ils aiment se prétendre d'autres rôles pour tenter de survivre le plus longtemps possible et se cacher afin que l'équipe maléfique ne puisse pas les utiliser pour changer de personnage au moment le plus opportun pour elle. Cela en fait un excellent bluff de secours si votre bluff initial a mal tourné ou s'il ne vous donne pas une bonne raison d'échapper à une <strong>Exécution</strong> lorsque la pression monte.
+<br><br>
+• <strong>Faites un effort de bonne foi après votre mort pour essayer de déduire quels ont été les changements, afin de prouver votre crédibilité.</strong> Vous pourrez ainsi jouer les moustiques dans le rouage de l'équipe bonne et faire dérailler ses calculs en la distrayant constamment avec des théories sur différents types de <strong>Sbires</strong> et de <strong>Démons</strong>, élargissant le champ des explications possibles pour une situation donnée bien plus qu'il ne le devrait.
+<br><br>
+• <strong>Si vous êtes le Démon et que vous bluffez en Chapelier, essayez de faire croire qu'il y a des Sbires ou Démons plus faibles en jeu.</strong> Cela augmente la menace de votre mort, car la perspective de voir l'équipe maléfique choisir les options les plus puissantes possibles est terrifiante pour n'importe quelle équipe bonne, ce qui pourrait vous permettre de survivre toute la partie. Vous devrez cependant préparer de bonnes raisons pour expliquer pourquoi l'équipe maléfique ne vous a tout simplement pas tué la nuit. 
+Il peut donc être judicieux de prétendre un autre rôle publiquement et d'affirmer être le <strong>Chapelier</strong> en privé auprès des joueurs bons décédés, en vous appuyant sur leur soutien pour vous maintenir en vie si les survivants s'en prennent à vous.
+</p>
 
 ## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
+<hr>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0px; padding-left:0; list-style-type:none;">
+  <li style="margin-bottom:10px;">
     🧞
     <img src="../images/Icon_legion.png" alt="Légion" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> :  
-    Si une Légion est créée, tous les joueurs maléfiques deviennent Légion.  
-    Si une Légion est en jeu, le Chapelier n’a pas de capacité.
+    Si une Légion est créée, tous les joueurs maléfiques deviennent Légion. Si une Légion est en jeu, le Chapelier n’a pas de capacité.
   </li>
-
-  <li>
+  <li style="margin-bottom:10px;">
     🧞
     <img src="../images/Icon_leviathan.png" alt="Leviathan" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/leviathan.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Leviathan</a> :  
-    Le Leviathan ne peut pas entrer en jeu après le cinquième jour,  
-    même si le Chapelier meurt tardivement.
+    Le Leviathan ne peut pas entrer en jeu après le jour 5.
   </li>
-
-  <li>
+  <li style="margin-bottom:10px;">
     🧞
     <img src="../images/Icon_lilmonsta.png" alt="P’tit Monstre" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/lilmonsta.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">P’tit Monstre</a> :  
-    Si le Chapelier meurt et que le <span style="color:#d45b5b; font-weight:bold;">Démon</span> choisit de devenir P’tit Monstre,  
-    il choisit également un rôle de <span style="color:#d45b5b; font-weight:bold;">Sbire</span> à devenir.
+    <a href="../roles_experimentaux/lilmonsta.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Timonstre</a> :  
+    Si le Chapelier meurt et que le Démon choisit de devenir le Timonstre, il choisit également un rôle de <span style="color:#d45b5b; font-weight:bold;">Sbire</span> à incarner.
   </li>
-
-  <li>
+  <li style="margin-bottom:10px;">
     🧞
     <img src="../images/Icon_summoner.png" alt="Invocateur" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/summoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocateur</a> :  
-    Si l’Invocateur crée un deuxième <span style="color:#d45b5b; font-weight:bold;">Démon</span> vivant la nuit où le Chapelier meurt,  
-    les morts de cette nuit-là peuvent être arbitraires.
+    <a href="../roles_experimentaux/summoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocatrice</a> :  
+    Si l’Invocatrice crée un deuxième Démon vivant la nuit où le Chapelier meurt, les morts de cette nuit sont arbitraires.
   </li>
-
 </ul>
 
----
-
-
-##  <span style="color:#4ea3ff;">Comment Conter</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Quand le Chapelier meurt (jour ou nuit), marquez son jeton avec le rappel <strong>THÉ CE SOIR (TEA PARTY TONIGHT)</strong>.  
-Cette nuit-là, vous allez organiser la « fête du thé » pour les joueuses et joueurs maléfiques.
-</p>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Pendant la nuit, réveillez d’abord les <span style="color:#d45b5b; font-weight:bold;">Sbires</span> puis le <span style="color:#d45b5b; font-weight:bold;">Démon</span> (ou dans l’ordre habituel du script) :
-</p>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Montrez-leur le jeton d’information <strong>CE PERSONNAGE VOUS A CHOISI</strong>  
-      puis le jeton de rôle <strong>Chapelier</strong>, pour leur signaler  
-      qu’ils peuvent choisir un nouveau rôle.</li>
-
-  <li>Pour chaque joueur maléfique, laissez-le soit :
-    <ul style="margin-top:4px; margin-left:20px;">
-      <li>secouer la tête pour <strong>refuser</strong> tout changement,</li>
-      <li>soit pointer un jeton de rôle du même type (Sbire ou Démon) dans le grimoire.</li>
-    </ul>
-  </li>
-
-  <li>Si un joueur pointe un rôle déjà choisi cette nuit par un autre joueur maléfique,  
-      secouez la tête et invitez-le à choisir un autre rôle.</li>
-
-</ul>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Une fois tous les choix effectués, rendormez les joueurs maléfiques,  
-retirez le rappel <strong>THÉ CE SOIR</strong>,  
-puis changez leurs jetons de rôle dans le grimoire  
-pour refléter leurs nouvelles identités.
-</p>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Si vous utilisez la règle optionnelle qui permet d’échanger les rôles de Sbire et de Démon,  
-mettez-vous d’accord à l’avance sur la façon de gérer les réveils  
-et les éventuelles confusions silencieuses entre les joueurs maléfiques.
-</p>
-
----
-
-##  <span style="color:#4ea3ff;">Exemples</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-
-Le Chapelier meurt.  
-L’
-<a href="../roles_experimentaux/ojo.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Ojo</a>  
-choisit de devenir le 
-<a href="../sv_roles/no_dashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a>  
-et l’
-<a href="../bmr_roles/avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a>  
-choisit de devenir la 
-<a href="../bmr_roles/scarletwoman.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme Écarlate</a>.  
-Leur ancienne capacité cesse immédiatement d’exister.
-</p>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-
-Le 
-<a href="../sv_roles/vigormortis.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vigormortis</a>  
-a déjà tué sa 
-<a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a>.  
-Plus tard, il tue le Chapelier.  
-Cette nuit-là, le Vigormortis et la Pit-Hag décident de conserver leurs rôles actuels  
-pour ne pas perdre les effets continus du Vigormortis.
-</p>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-
-L’
-<a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>  
-tue une joueuse.  
-Le Chapelier est exécuté le même jour.  
-Cette nuit-là, l’Assassin choisit de devenir le 
-<a href="../bmr_roles/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a>  
-et le Maître du Jeu secoue d’abord la tête pour rester Maître du Jeu.  
-La conteuse secoue la tête à son tour (ce rôle est déjà pris)  
-et l’invite à choisir un autre Sbire.  
-Il choisit alors de devenir Assassin.  
-Le nouveau Maître du Jeu et le nouvel Assassin entrent en jeu avec leurs capacités normales,  
-et l’Assassin peut immédiatement utiliser sa nouvelle capacité pour tuer un joueur.
-</p>
-
----
-
-##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li><strong>Ne mourrez pas… si vous pouvez l’éviter.</strong>  
-      Dès que vous mourez, l’équipe maléfique peut s’adapter parfaitement au script,  
-      en choisissant la combinaison de <span style="color:#d45b5b; font-weight:bold;">Sbires</span> et de <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
-      la plus dangereuse possible contre les rôles en jeu.</li>
-
-  <li>À l’inverse, mourir très tôt peut parfois être bénéfique :  
-      plus vous mourrez tôt, moins l’équipe maléfique connaît le paysage global des rôles,  
-      et plus il lui est difficile de choisir « la » meilleure combinaison.  
-      Vos choix pourront ensuite être confirmés ou infirmés  
-      par le comportement des nouveaux rôles maléfiques.</li>
-
-  <li>La pire fenêtre pour mourir est souvent le <strong>milieu de partie</strong> :  
-      c’est le moment où le Bien commence à y voir clair,  
-      et votre mort peut tout bouleverser en changeant les capacités maléfiques  
-      au moment précis où la bonne équipe resserre l’étau.</li>
-
-  <li>Le jour suivant votre mort, annoncez que vous étiez Chapelier.  
-      Le groupe doit alors intégrer la possibilité  
-      que les rôles maléfiques aient changé dans la nuit,  
-      et ajuster immédiatement ses théories, nominations et protections.</li>
-
-  <li>Une fois mort, observez attentivement les changements dans l’état de la partie :  
-      informations qui deviennent incohérentes,  
-      joueur très suspect soudain ravi de mourir,  
-      morts supplémentaires inattendues, etc.  
-      Tous ces indices peuvent pointer vers les nouveaux rôles  
-      choisis par les <span style="color:#d45b5b; font-weight:bold;">Sbires</span> et le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.</li>
-
-</ul>
-
----
-
-##  <span style="color:#4ea3ff;">Bluffer Chapelier</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>En bluffant Chapelier, profitez de la peur de votre capacité :  
-      la bonne équipe sera souvent réticente à vous exécuter,  
-      de peur d’offrir à l’équipe maléfique une « refonte » complète de ses rôles.  
-      Cela peut vous garder en vie bien plus longtemps que la normale.</li>
-
-  <li>Si vous mourrez malgré tout, coordonnez-vous avec vos alliés maléfiques  
-      pour qu’ils bluffent un changement de rôle crédible :  
-      un <span style="color:#d45b5b; font-weight:bold;">Démon</span> qui prétend devenir un Démon plus faible,  
-      un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> qui semble perdre une capacité précieuse, etc.  
-      Cela peut envoyer la bonne équipe dans un labyrinthe de théories  
-      autour de Démons et Sbires qui n’ont jamais réellement existé.</li>
-
-  <li>Le Chapelier est un excellent <strong>bluff de secours</strong> :  
-      beaucoup de Chapeliers préfèrent se cacher sous d’autres rôles  
-      pour empêcher les maléfiques de planifier leur transformation.  
-      Si votre premier bluff s’effondre,  
-      vous pouvez « révéler » Chapelier pour justifier votre envie de survivre.</li>
-
-  <li>Après votre mort (vraie ou bluffée), faites semblant de vous dévouer  
-      pour « résoudre » les changements maléfiques :  
-      proposez des théories plausibles mais erronées,  
-      élargissez la liste des Démons et Sbires supposés,  
-      et noyez le village sous les possibilités.</li>
-
-  <li>En tant que <span style="color:#d45b5b; font-weight:bold;">Démon</span> bluffant Chapelier,  
-      exagérez la menace d’une équipe maléfique qui pourrait choisir  
-      les Démons les plus puissants du script si vous mourez.  
-      Cela peut convaincre le village de vous garder en vie jusqu’au bout,  
-      surtout si vos alliés vous défendent « à contrecœur »  
-      pour montrer qu’ils prennent aussi ce risque au sérieux.</li>
-
-  <li>Si vous prétendez que des changements ont eu lieu,  
-      veillez à ce qu’ils restent dans le domaine du possible :  
-      ne décrivez pas des effets que le script ne peut pas produire,  
-      mais exploitez les Démons et Sbires existants pour fabriquer  
-      plusieurs scénarios crédibles.</li>
-
-</ul>
-
----
+<hr class="explication">	
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a><br>
-   <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Étrangers</a>
+• <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+• <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Marginaux</a><br>
+• <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
