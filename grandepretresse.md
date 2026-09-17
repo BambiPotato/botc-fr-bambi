@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Comment Conter la Grande Prêtresse
-description: "Comment conter la Grande Prêtresse : Essai par Emma"
+description: "Comment conter la Grande Prêtresse : Essai écrit par Emma, Conteuse officielle pour les streams de TPI"
 image: /images/Icon_highpriestess.png
 ---
 
@@ -18,7 +18,7 @@ image: /images/Icon_highpriestess.png
   <a href="./roles_experimentaux/highpriestess.html" style="text-decoration:none;">
     <img src="./images/Icon_highpriestess.png" width="360" style="border-radius:12px;">
     <br>
-    <span style="color:#4ea3ff; font-weight:bold; font-size:30px;">Comment conter la Grande Prêtresse : Essai par Emma</span>
+    <span style="color:#4ea3ff; font-weight:bold; font-size:30px;">Comment conter la Grande Prêtresse :  Essai écrit par Emma</span>
   </a>
 </div>
 
@@ -46,7 +46,7 @@ image: /images/Icon_highpriestess.png
   <a href="./experimentaux.html" style="text-decoration:none;">
     <img src="./images/carousel.png" alt="The Carousel Expérimental" width="300" style="border-radius:12px;">
     <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Experimental</span>
+    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans :  Carrousel rôle experimental</span>
   </a>
 </div>
 
