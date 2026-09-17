@@ -126,7 +126,7 @@ Instructions au Conteur
   <li> Marianna est
     <a href="./espion.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Espionne</a>,
     et Sarah est
-    <a href="./femmeecarlate.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Femme Écarlate</a>.
+    <a href="./femmeecarlate.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Femme écarlate</a>.
     La Lavandière apprend que l’un des deux est la
     <a href="./gardien.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Corneille</a>.<br>
     <span style="opacity:.9;">Ici, l’</span>
