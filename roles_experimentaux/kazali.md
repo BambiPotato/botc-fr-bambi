@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Kazali
-description: "Chaque nuit*, choisissez un joueur : il meurt.[Vous choisissez quels joueurs sont quels Sbires. -? à +? Marginaux] " 
+description: "Chaque nuit*, choisissez un joueur : il meurt. [Vous choisissez quels joueurs sont quels Sbires. -? à +? Marginaux]"
 image: /images/Icon_kazali.png
 ---
 
@@ -10,6 +10,8 @@ image: /images/Icon_kazali.png
     <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
+
+<hr class="explication">
 
 <!-- Kazali -->
 
@@ -21,22 +23,7 @@ image: /images/Icon_kazali.png
   </a>
 </div>
 
-<!-- APPARAÎT DANS -->
-<div style="text-align:center; margin: 20px 0%;">
-  <a href="../experimentaux.html" style="text-decoration:none;">
-    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
-    <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
-  </a>
-</div>
-
-#  <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Kazali</span>
-
-<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Gon(z)a7les6. Faites attention. Le mécanisme est inversé. E99ors insy6tum. Reco{7}fig. »
-</p>
-
----
+<hr class="demon">
 
 ##  <span style="color:#d45b5b;">Informations</span>
 
@@ -57,65 +44,109 @@ image: /images/Icon_kazali.png
   <li><strong>Révélé :</strong> 28 décembre 2023</li>
 </ul>
 
----
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Gon(z)a7les6. Fais attenti8n. <br> Le méc4n1sme est iNvers10.<br> E99eurs sy6tem3. Reco\{7}fig. »
+</p>
+
+<hr class="demon">
+
+<!-- APPARAÎT DANS -->
+<div style="text-align:center; margin: 20px 0%;">
+  <a href="../experimentaux.html" style="text-decoration:none;">
+    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : Carrousel rôle expérimental</span>
+  </a>
+</div>
 
 ##  <span style="color:#d45b5b;">Résumé</span>
+<hr class="demon">
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Chaque nuit*, choisissez un joueur : il meurt.  
-  [Vous choisissez quels joueurs sont quels Sbires. -? à +? Marginaux] »</strong>
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
+« Chaque nuit*, choisissez un joueur : il meurt. [Vous choisissez quels joueurs sont quels Sbires. -? à +? Marginaux] »
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Kazali</strong> choisit lui-même ses <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>.
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Le Kazali choisit ses propres Sbires.
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Si un Kazali est créé en cours de partie, le Kazali ne choisit pas de nouveaux joueurs Sbires.
+<br><br>
+• Le Conteur peut donner au Démon les rôles bons originaux des Sbires comme des bluffs, puisqu’ils ne sont pas en jeu.
+<br><br>
+• Techniquement, le moment où agit le Kazali est à la fois pendant la mise en place et pendant la première nuit.
+<br><br>
+• Le Conteur peut maintenir le Kazali éveillé ou le rendormir lorsqu’il réveille les Sbires pour leur donner leur rôle de Sbire.
+<br><br>
+• Seuls les Sbires du script peuvent être choisis. Il est impossible de dupliquer un rôle de Sbire.
+</p>
 
-  <li>Avant le début de la partie, le <strong>Kazali</strong> décide  
-      quels joueurs deviendront quels <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>  
-      parmi les rôles de Sbires présents sur le script.</li>
+##  <span style="color:#d45b5b;">Comment Conter</span>
+<hr>
 
-  <li>Chaque nuit* (sauf indication contraire du script),  
-      le <strong>Kazali</strong> choisit un joueur : ce joueur <strong>meurt</strong>.</li>
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Instructions au Conteur 
+</p>
 
-  <li>Le <strong>Kazali</strong> peut modifier le nombre de <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>  
-      en jeu (entre -? et +?) lors de la mise en place,  
-      ce qui peut fortement déséquilibrer les « maths de Marginaux ».</li>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Lors de la mise en place, retirez tous les jetons de Sbires et remplacez-les par des jetons de Villageois ou de Marginaux.
+<br><br>
+Lors de la première nuit, réveillez le Kazali. Le Kazali désigne un joueur et un Sbire sur sa fiche de rôles. 
+Remplacez le jeton de rôle de ce joueur par le jeton Sbire. Ensuite, réveillez-le juste le temps de lui montrer la tuile <strong>« Vous êtes »</strong>, le jeton Sbire, et votre pouce vers le bas. Répétez la manœuvre jusqu'à atteindre le nombre de Sbires prévu pour ce script. 
+Le Kazali se rendort. Procédez aux étapes <strong>« Info des Sbires »</strong> et <strong>« Info du Démon »</strong>.
+<br><br>
+Chaque nuit, sauf la première, réveillez le Kazali. Il désigne n’importe quel joueur. Ce joueur meurt — marquez-le du jeton <strong>« Mort »</strong>. Le Kazali se rendort.
+</p>
 
-  <li>Si un <strong>Kazali</strong> apparaît en cours de partie  
-      (par exemple via une transformation),  
-      il ne choisit pas de nouveaux Sbires :  
-      la composition actuelle de l’équipe maléfique reste la même.</li>
+<div class="botc-note">
+Selon le script, ajouter plus d’un Marginal peut fortement désavantager l’équipe du Bien.
+</div>
 
-  <li>Les personnages bons d’origine des Sbires  
-      (ce qu’ils étaient avant que le <strong>Kazali</strong> les transforme)  
-      peuvent être donnés au <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
-      comme <strong>bluffs</strong> puisque ces rôles  
-      ne sont plus réellement en jeu.</li>
+##  <span style="color:#d45b5b;">Exemples</span>
+<hr>
 
-  <li>Le <strong>Kazali</strong> agit à un moment un peu particulier :  
-      à la fois pendant la mise en place et pendant la première nuit.</li>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Il y a 15 joueurs et aucun Sbire n’est encore en jeu. Le Kazali se réveille et choisit Doug comme <a href="../roles_experimentaux/organgrinder.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Organiste de rue</a>, Amy comme <a href="../roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a> et Lewis comme <a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Gobelin</a>, tous maléfiques.
+</p>
 
-  <li>Le Conteur peut choisir de laisser le <strong>Kazali</strong> éveillé  
-      quand il réveille les Sbires pour leur révéler  
-      quel Sbire chacun est, ou non, selon la manière  
-      dont la table préfère jouer cette scène.</li>
+##  <span style="color:#d45b5b;">Conseils & Astuces</span>
+<hr>
 
-  <li>Seuls les Sbires présents sur le script  
-      peuvent être choisis.  
-      Des doublons de Sbires (deux fois le même rôle)  
-      ne sont pas autorisés.</li>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• <strong>Choisissez les joueurs avec lesquels vous avez la meilleure synergie en tant que joueur maléfique.</strong> C'est l'occasion de composer l'équipe maléfique parfaite qui fait des ravages et qui saura vous aider à écraser tous ces pauvres Villageois et Marginaux sans défense.
+<br><br>
+• <strong>En cas de doute, choisissez les joueurs qui vous font peur lorsque vous êtes maléfique et qu'ils sont bons.</strong> Si vous ne pouvez pas les battre, ralliez-les à votre cause !
+<br><br>
+• <strong>Choisissez des joueurs qui ne sont pas les choix évidents pour un Kazali.</strong> Si les choix paraissent très étranges, le village aura davantage tendance à croire que les Sbires ont été tirés du sac et ne cherchera pas un Kazali derrière ces choix.
+<br><br>
+• <strong>Ignorez la « meilleure stratégie » et choisissez simplement les personnes qui vous semblent les plus amusantes !</strong> Après tout, le jeu est là pour se divertir : si certains joueurs vous garantissent toujours des parties mémorables en équipe, choisissez-les, embarquez-les avec vous et allez mettre le feu à la partie ensemble !
+<br><br>
+• <strong>Choisissez des Sbires qui se complètent bien.</strong> Un <a href="../roles_experimentaux/organgrinder.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Organiste de rue</a> possède une excellente synergie avec un <a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Gobelin</a> ou un <a href="../bmr_roles/boomdandy.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boumdandy</a>, tandis qu'une <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a> adore avoir une <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a> pour lui indiquer la marche à suivre. Composez la meilleure escouade possible.
+<br><br>
+• <strong>Choisissez des Sbires qui vous permettront de bluffer la présence d'un autre Démon en jeu.</strong> Vous souhaitez peut-être faire profil bas, il peut donc être judicieux de choisir cet <a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> pour faire porter les soupçons sur un Démon qui tue plus fréquemment, ou un <a href="../bmr_roles/avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a> pour inquiéter les joueurs quant à la présence d'un <a href="../roles_experimentaux/lleech.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parasyte</a>.
+<br><br>
+• <strong>Attribuez aux joueurs choisis les rôles qui correspondent le mieux à leur style de jeu.</strong> Non seulement vous choisissez qui rejoint votre équipe, mais vous leur attribuez aussi leurs rôles ! Profitez-en pour offrir à vos nouveaux Sbires les rôles qu'ils adorent jouer et dont ils sauront tirer le meilleur parti.
+</p>
 
-</ul>
+##  <span style="color:#d45b5b;">Combattre le Kazali</span>
+<hr>
 
----
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• <strong>Ne vous attendez pas à trouver des Sbires dépourvus de bluffs, il n'y en aura aucun !</strong> L'une des particularités du Kazali est que tous les Sbires commencent la partie en connaissant un rôle bon qui n'est pas en jeu. Ils disposent donc d'un bluff prêt à l'emploi dès le début et vous ne pourrez pas les prendre au dépourvu sur ce point.
+<br><br>
+• <strong>Cependant, cela peut aussi constituer un indice !</strong> Si tout le monde semble ravi et disposé à révéler son rôle dès le début de la partie, il y a peut-être un Kazali en jeu qui s'est assuré que toute l'équipe maléfique dispose de bluffs utilisables.
+<br><br>
+• <strong>Vérifiez le nombre de Marginaux.</strong> Comme le Kazali peut altérer le nombre de Marginaux de manière imprévisible, ce n'est pas toujours un signe certain, mais cela reste une possibilité. C'est d'autant plus vrai si vous disposez d'informations indiquant que rien d'autre ne devrait modifier ce nombre et que vous constatez malgré tout un nombre incorrect de Marginaux.
+<br><br>
+• <strong>Si vous pensez avoir trouvé un Sbire, demandez-vous qui aurait choisi ce joueur et qui d'autre il aurait pu choisir.</strong> Mettez-vous à la place de chaque joueur autour du cercle et demandez-vous si le Sbire que vous avez débusqué constitue un choix d'allié logique pour cette personne. Si c'est le cas, est-il cohérent que ce joueur soit le Démon au vu de vos informations, et pouvez-vous le confirmer en imaginant qui d'autre il aurait pu désigner comme Sbires ?
+</p>
 
 ## 🧞 <span style="color:#d45b5b;">Jinxes liés</span>
+<hr>
 
-<ul style="margin-left:40px; color:#f5f5f5; font-size:18px; line-height:1.7;">
-
-  <li>
+<ul style="margin-left:0px; padding-left:0; color:#f5f5f5; font-size:18px; line-height:1.7; list-style-type:none;">
+  <li style="margin-bottom:10px;">
     <img src="../images/Icon_bountyhunter.png" alt="Chasseur de Primes" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/bountyhunter.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chasseur de Primes</a> :  
     Si le <strong>Kazali</strong> transforme le  
@@ -123,235 +154,25 @@ Le <strong>Kazali</strong> choisit lui-même ses <a href="../sbires.html" style=
     en <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>,  
     aucun <strong>Villageois maléfique</strong> n’est créé.
   </li>
-
-  <li>
+  <li style="margin-bottom:10px;">
     <img src="../images/Icon_marionette.png" alt="Marionnette" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/marionette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> :  
-    S’il doit y avoir une <a href="../roles_experimentaux/marionette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> en jeu,  
-    elle entre en jeu <strong>après</strong> le <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
-    et doit commencer comme son <strong>voisin</strong>.
+    S’il y a une <a href="../roles_experimentaux/marionette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> en jeu,  
+    elle entre en jeu après le <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
+    et doit commencer la partie comme son voisin.
   </li>
-
-  <li>
+  <li style="margin-bottom:10px;">
     <img src="../images/Icon_summoner.png" alt="Invocatrice" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/summoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocatrice</a> :  
     Si l’<a href="../roles_experimentaux/summoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocatrice</a> crée  
-    un <strong>second Démon vivant</strong>,  
-    les morts de cette nuit sont <strong>arbitraires</strong>  
-    (le Conteur choisit qui meurt).
+    un <strong>second Démon en vie</strong>, les morts de cette nuit sont <strong>arbitraires</strong>.
   </li>
-
 </ul>
 
-
----
-
-##  <span style="color:#d45b5b;">Comment Conter</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Kazali</strong> modifie la répartition des Sbires  
-et potentiellement le nombre de <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>  
-avant que la partie ne commence réellement.  
-Il tue ensuite comme un Démon « classique », une fois par nuit.
-</p>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li><strong>Pendant la mise en place :</strong>
-    <ul style="margin-left:20px;">
-      <li>retirez tous les jetons de  
-          <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> du sac ;</li>
-      <li>remplacez-les par des jetons de  
-          <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>  
-          ou de <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>  
-          selon ce que vous souhaitez ;</li>
-      <li>ajustez au passage le nombre de <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>  
-          (en restant attentif à l’équilibre du script).</li>
-    </ul>
-  </li>
-
-  <li><strong>Première nuit – choix des Sbires :</strong>
-    <ul style="margin-left:20px;">
-      <li>réveillez le <strong>Kazali</strong> ;</li>
-      <li>il pointe un joueur et un rôle de Sbire  
-          sur la feuille de personnages ;</li>
-      <li>remplacez le jeton de personnage de ce joueur  
-          par le jeton du <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> choisi ;</li>
-      <li>montrez-lui le jeton « VOUS ÊTES »  
-          puis le jeton du Sbire,  
-          puis faites un pouce vers le bas  
-          pour indiquer qu’il est maléfique ;</li>
-      <li>répétez jusqu’à ce que le <strong>nombre normal de Sbires</strong>  
-          soit atteint pour cette partie ;</li>
-      <li>rendormez le <strong>Kazali</strong>.</li>
-    </ul>
-  </li>
-
-  <li><strong>Révéler les Sbires :</strong>
-    <ul style="margin-left:20px;">
-      <li>vous pouvez, ou non, laisser le <strong>Kazali</strong> éveillé  
-          quand vous réveillez successivement chaque Sbire  
-          pour lui révéler son rôle ;</li>
-      <li>suivez la préférence de votre groupe  
-          (scène commune ou séparée).</li>
-    </ul>
-  </li>
-
-  <li><strong>Chaque nuit (sauf la première) :</strong>
-    <ul style="margin-left:20px;">
-      <li>réveillez le <strong>Kazali</strong> ;</li>
-      <li>il pointe n’importe quel joueur ;</li>
-      <li>ce joueur <strong>meurt</strong> cette nuit-là,  
-          comme pour un Démon standard.</li>
-    </ul>
-  </li>
-
-  <li><strong>Équilibre des Marginaux :</strong>  
-      Ajouter plusieurs <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>  
-      peut mettre le Bien en net désavantage,  
-      selon le script.  
-      Ajustez ce paramètre avec prudence.</li>
-
-</ul>
-
----
-
-##  <span style="color:#d45b5b;">Exemples</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Il y a 15 joueurs et aucun  
-<a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>  
-en jeu au départ.  
-Le <strong>Kazali</strong> se réveille et choisit que <strong>Nicolas</strong>  
-devient l’<a href="../roles_experimentaux/organgrinder.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Organiste de rue</a> maléfique,  
-que <strong>Amalia</strong> devient la  
-<a href="../roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a> maléfique,  
-et que <strong>Lilian</strong> devient le  
-<a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Goblin</a> maléfique.
-</p>
-
----
-
-##  <span style="color:#d45b5b;">Astuces & Conseils</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li><strong>Choisissez les joueurs avec qui vous avez la meilleure synergie.</strong>  
-      C’est l’occasion de composer <strong>votre équipe de rêve</strong> de  
-      <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> :  
-      ceux qui comprennent votre façon de jouer,  
-      avec qui vous savez enchaîner les coups tordus,  
-      et qui n’ont pas peur de bluffer agressivement.</li>
-
-  <li>En cas de doute, choisissez les joueurs  
-      qui vous font peur lorsqu’ils sont bons.  
-      Si vous n’arrivez pas à les battre quand ils sont du côté du Bien,  
-      faites-en vos alliés maléfiques.</li>
-
-  <li>Évitez de ne choisir que les suspects « logiques » pour un Kazali.  
-      Plus vos choix de Sbires semblent étranges ou inattendus,  
-      plus le village aura tendance à croire  
-      que les Sbires ont été tirés au sort dans le sac  
-      plutôt que sélectionnés par un <strong>Kazali</strong>.</li>
-
-  <li>N’oubliez pas que le jeu est là pour être amusant :  
-      vous pouvez très bien ignorer la « méta optimale »  
-      et simplement choisir les joueurs  
-      avec qui vous savez que vous allez passer  
-      une partie mémorable.</li>
-
-  <li>Essayez de choisir des Sbires  
-      qui se <strong>complètent bien</strong> :
-      <ul style="margin-left:20px;">
-        <li>un <a href="../roles_experimentaux/organgrinder.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Organiste de rue</a>  
-            marche très bien avec un  
-            <a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Goblin</a>  
-            ou un <a href="../bmr_roles/boomdandy.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boomdandy</a> ;</li>
-        <li>une <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a>  
-            adore avoir une  
-            <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a>  
-            pour lui souffler les meilleures cibles.</li>
-      </ul>
-      Construisez le meilleur « combo » possible.</li>
-
-  <li>Choisissez des Sbires qui vous permettent  
-      de faire croire à la présence d’un <strong>autre Démon</strong> :  
-      <ul style="margin-left:20px;">
-        <li>un <a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>  
-            peut faire penser à un Démon  
-            qui tue plus souvent ;</li>
-        <li>un <a href="../bmr_roles/avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a>  
-            peut créer la paranoïa d’un  
-            <a href="../roles_experimentaux/lleech.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sangsue</a> en jeu.</li>
-      </ul>
-      Profitez de ces fausses pistes.</li>
-
-  <li>Pensez aussi à donner à vos Sbires  
-      les rôles qui correspondent le mieux  
-      à leur <strong>style de jeu</strong> :
-      <ul style="margin-left:20px;">
-        <li>à un joueur qui adore parler :  
-            une <a href="../roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a> ;</li>
-        <li>à une personne très tactique :  
-            une <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a>  
-            ou un <a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> ;</li>
-        <li>à quelqu’un qui aime les coups spectaculaires :  
-            un <a href="../roles_experimentaux/boomdandy.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boomdandy</a>  
-            ou un <a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Goblin</a>.</li>
-      </ul>
-      Plus vos Sbires sont à l’aise,  
-      plus l’équipe du Mal sera dangereuse.</li>
-
-</ul>
-
----
-
-##  <span style="color:#d45b5b;">Combattre le Kazali</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Ne comptez pas trouver des Sbires <strong>sans bluff</strong> :  
-      avec un <strong>Kazali</strong> en jeu,  
-      tous les Sbires commencent en général  
-      avec un rôle bon « libre » à bluffer  
-      (leur rôle d’origine).  
-      Vous ne pourrez donc pas les piéger facilement  
-      sur le choix de leur bluff.</li>
-
-  <li>Mais cela peut aussi être un indice :  
-      si tout le monde semble très à l’aise  
-      pour annoncer rapidement un personnage,  
-      il est possible qu’un <strong>Kazali</strong>  
-      ait préparé une équipe maléfique  
-      avec des bluffs parfaits dès le départ.</li>
-
-  <li>Gardez un œil sur le <strong>nombre de Marginaux</strong>.  
-      Le <strong>Kazali</strong> peut le modifier de façon imprévisible :  
-      ce n’est pas une preuve absolue,  
-      mais si vos informations indiquent  
-      qu’aucun autre rôle ne touche aux Marginaux  
-      et que le compte ne colle pas,  
-      cela renforce la piste Kazali.</li>
-
-  <li>Si vous pensez avoir trouvé un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>,  
-      demandez-vous <strong>qui aurait voulu ce joueur comme allié</strong>.  
-      Mettez-vous à la place de chaque joueur autour de la table :  
-      ce Sbire serait-il un choix logique pour lui&nbsp;?  
-      Si oui, cette personne pourrait être le <strong>Kazali</strong>.</li>
-
-  <li>Une fois que vous avez un suspect possible en tant que Démon,  
-      demandez-vous quels autres joueurs  
-      il aurait pu choisir comme Sbires.  
-      Essayez de reconstruire l’équipe maléfique  
-      en imaginant les liens de confiance existants  
-      entre joueurs dans votre groupe.</li>
-
-</ul>
-
----
+<hr class="explication">	
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Démons</a><br>
-   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+• <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+• <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Démons</a><br>
+• <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
