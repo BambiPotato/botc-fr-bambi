@@ -170,10 +170,11 @@ Méfiez-vous de la [Recluse](reclus.md) ! Elle peut être considérée comme un 
 
   
 
-## 🧞 <span style="color:#d4a76a;">Jinxes liés</span>
-<hr> 
+## 🧞 <span style="color:blue">Jinxes liés</span>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+---
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:00px;">
 
   <li>
     🧞
