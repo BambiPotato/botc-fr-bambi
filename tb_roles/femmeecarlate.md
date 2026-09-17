@@ -79,7 +79,7 @@ image: /images/Icon_scarletwoman.png
 <hr class="sbire">
 
 
-**« S’il y a au moins 5 joueurs en vie et que le <span style="color:red">Démon</span> meurt, vous devenez le <span style="color:red">Démon</span>. (Les Voyageurs ne comptent pas.) »**
+**« S’il y a au moins 5 joueurs en vie et que le Démon meurt, vous devenez le Démon. (Les Voyageurs ne comptent pas.) »**
 
 <p class="botc-flavour-text dropcap">
 LA FEMME ÉCARLATE devient le Démon si le Démon meurt.
