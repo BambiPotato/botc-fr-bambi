@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Harpie
+description: "Chaque nuit, choisissez 2 joueurs : le lendemain, le 1er joueur est fou que le 2e est maléfique, ou l’un des deux ou les deux pourraient mourir."
+image: /images/Icon_harpy.png
 ---
 
 <p align="left">
@@ -8,6 +10,8 @@ title: Harpie
     <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
+
+<hr class="explication">	
 
 <!-- Harpie -->
 
@@ -19,23 +23,7 @@ title: Harpie
   </a>
 </div>
 
-<!-- APPARAÎT DANS -->
-<div style="text-align:center; margin: 20px 0%;">
-  <a href="../experimentaux.html" style="text-decoration:none;">
-    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
-    <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
-  </a>
-</div>
-
-#  <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Harpie</span>
-
-<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Jamais je n’avais vu jour aussi radieux…  
-  ni une présence aussi sinistre suspendue au-dessus de moi. »
-</p>
-
----
+<hr class="sbire">
 
 ##  <span style="color:#d45b5b;">Informations</span>
 
@@ -56,299 +44,146 @@ title: Harpie
   <li><strong>Révélé :</strong> 20 juillet 2023</li>
 </ul>
 
----
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+  « Jamais je n’ai vu de si belle journée, <br> ni jamais n’ai senti une présence si atroce. »
+</p>
+
+<hr class="sbire">
+
+<!-- APPARAÎT DANS -->
+<div style="text-align:center; margin: 20px 0%;">
+  <a href="../experimentaux.html" style="text-decoration:none;">
+    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : Carrousel rôle expérimental</span>
+  </a>
+</div>
 
 ##  <span style="color:#d45b5b;">Résumé</span>
+<hr class="sbire">
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Chaque nuit, choisissez 2 joueurs : demain, le 1er est fou que le 2e est maléfique,  
-  sinon l'un ou les deux pourraient mourir. »</strong>
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
+« Chaque nuit, choisissez 2 joueurs : le lendemain, le 1er joueur est fou que le 2e est maléfique, ou l’un des deux ou les deux pourraient mourir. »
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-La <strong>Harpie</strong> sème la discorde et la méfiance entre les joueurs et joueuses du Bien.
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+La Harpie sème la discorde et la méfiance entre les joueurs bons.
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>La nuit, la <strong>Harpie</strong> choisit un joueur après l’autre,  
-      et non deux joueurs en même temps.</li>
-
-  <li>Un joueur choisi par la <strong>Harpie</strong> reste affecté par sa capacité  
-      jusqu’au prochain choix de la <strong>Harpie</strong>.</li>
-
-  <li>Le lendemain, le 1er joueur choisi est <strong>fou</strong> d’affirmer que le 2e joueur est maléfique :  
-      il doit réellement agir comme s’il croyait que le 2e est du Mal (sous peine de mort).</li>
-
-  <li>Si les Conteurs et conteuses décident de tuer en raison de la capacité de la <strong>Harpie</strong>,  
-      ils n’ont pas besoin de tuer les deux joueurs :  
-      ils et elles peuvent en tuer un seul… ou aucun.</li>
-
-  <li>La <strong>Harpie</strong> peut choisir un joueur mort.  
-      Dans ce cas, les Conteurs et conteuses peuvent simplement tuer le joueur vivant,  
-      puisqu’un joueur mort ne peut pas mourir une deuxième fois.</li>
-
-  <li>L’ordre dans lequel les morts dues à la <strong>Harpie</strong> se produisent  
-      est à la discrétion des Conteurs et conteuses,  
-      si cela a une importance pour d’autres capacités.</li>
-
-</ul>
-
----
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• La nuit, le joueur Harpie choisit deux joueurs, l’un après l’autre (et non en même temps).
+<br><br>
+• Un joueur choisi par la Harpie est affecté par la capacité jusqu'à ce que la Harpie agisse la nuit suivante.
+<br><br>
+• Si le Conteur décide de tuer des joueurs à cause de la capacité de la Harpie, le Conteur peut tuer un joueur ou les deux.
+<br><br>
+• La Harpie peut choisir un joueur mort. Dans ce cas, le Conteur ne peut tuer que le joueur vivant, car les joueurs morts ne peuvent pas mourir à nouveau.
+<br><br>
+• Le Conteur peut librement choisir l’ordre dans lequel les morts liés à la capacité de la Harpie surviennent, si cela est important.
+</p>
 
 ##  <span style="color:#d45b5b;">Comment Conter</span>
+<hr>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Vous gérez la folie imposée par la <strong>Harpie</strong> et choisissez éventuellement  
-d’exécuter sa menace en tuant un ou deux joueurs.
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Instructions au Conteur :
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Chaque nuit, réveillez la <strong>Harpie</strong>.  
-      Elle pointe un premier joueur (la « cible folle »),  
-      puis un deuxième joueur (la « cible accusée »).</li>
-
-  <li>Marquez le premier joueur avec le rappel <strong>MAD</strong>,  
-      et le second avec le rappel <strong>2ND</strong>.</li>
-
-  <li>Endormez la <strong>Harpie</strong>, puis réveillez le joueur marqué <strong>MAD</strong>.  
-      Montrez-lui le jeton d’info « CE PERSONNAGE VOUS A CHOISI »,  
-      puis le jeton de la <strong>Harpie</strong>,  
-      puis pointez le joueur marqué <strong>2ND</strong>.  
-      Endormez ensuite le joueur marqué MAD.</li>
-
-  <li>Le lendemain, ce joueur est fou d’affirmer que le 2e est maléfique.  
-      Si vous jugez qu’il ou elle ne respecte pas cette folie  
-      (par exemple, en défendant l’autre joueur ou en étant neutre à son sujet),
-      vous pouvez décider de tuer l’un, l’autre, ou les deux joueurs concernés.</li>
-
-  <li>Ces morts dues à la <strong>Harpie</strong> se produisent à votre convenance  
-      (généralement à la fin de la journée ou en annonçant une « mort mystérieuse »),  
-      tant que c’est clair pour vous dans le grimoire.</li>
-
-</ul>
-
----
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Chaque nuit, réveillez la Harpie. La Harpie désigne un joueur, puis un autre joueur. 
+<br>
+Marquez le premier joueur avec le jeton <strong>« Fou »</strong> et le deuxième joueur avec le jeton <strong>« 2e »</strong>. Ensuite, la Harpie se rendort. 
+<br>
+Réveillez le joueur marqué <strong>« Fou »</strong>. Montrez la tuile <strong>« Ce rôle vous a choisi »</strong>, puis le jeton Harpie, puis désignez le joueur marqué <strong>« 2e »</strong>. 
+<br>
+Le joueur marqué <strong>« Fou »</strong> se rendort.
+<br><br>
+Le lendemain, si le joueur marqué <strong>« Fou »</strong> n’est pas fou que le joueur marqué <strong>« 2e »</strong> est maléfique, vous pouvez tuer ce joueur, ou les deux.
+</p>
 
 ##  <span style="color:#d45b5b;">Exemples</span>
+<hr>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-La <strong>Harpie</strong> choisit le  
-<a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a>  
-et l’<a href="../roles_experimentaux/engineer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ingénieur</a>.  
-Le <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> prétend être l’  
-<a href="../tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Enquêteur</a>  
-qui aurait vu l’<a href="../roles_experimentaux/engineer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ingénieur</a> comme suspect,  
-et fait activement campagne pour son exécution.  
-Quand on le met au défi, il insiste fermement sur le fait  
-que l’<a href="../roles_experimentaux/engineer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ingénieur</a> est « très probablement maléfique » d’après ses infos,  
-et évite ainsi de mourir à cause de la folie.</p>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• La Harpie choisit le <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> et l'<a href="../roles_experimentaux/engineer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ingénieur</a>. 
+<br>
+Le <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> prétend être le <a href="../tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a>, dit qu’il a vu l’<a href="../roles_experimentaux/engineer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ingénieur</a>, et milite pour qu’il soit exécuté. 
+<br>
+Lorsqu’on lui demande pourquoi, il avance que les informations qu’il a obtenues prouvent que l’<a href="../roles_experimentaux/engineer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ingénieur</a> est maléfique. 
+<br>
+Le Conteur le juge convaincant et les deux joueurs restent en vie.
+<br><br>
+• La Harpie choisit l'<a href="../sv_roles/oracle.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Oracle</a> et l'<a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> (mort). L’<a href="../sv_roles/oracle.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Oracle</a> dit qu’elle fait confiance à l’<a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a>, car ses informations d’<a href="../sv_roles/oracle.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Oracle</a> indiquent que l’<a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> n’est pas maléfique. 
+<br>
+Le Conteur annonce que l'<a href="../sv_roles/oracle.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Oracle</a> meurt.
+<br><br>
+• La <a href="../roles_experimentaux/farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermière</a> est choisie par la Harpie. 
+<br>
+Comme elle n'a aucune information propre à communiquer pour sous-entendre que l'autre joueur est maléfique, elle fait un effort concerté pour trouver des informations qui pourraient disculper chacun des autres joueurs vivants, laissant sa cible comme le dernier candidat Démon potentiel, et donc maléfique par déduction.
+<br><br>
+• La Harpie choisit Evin et Amy. Evin ne fait aucun effort pour convaincre l’équipe du Bien qu’Amy est maléfique. 
+<br>
+Le Conteur tue Evin et Amy.
+</p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-La <strong>Harpie</strong> choisit l’  
-<a href="../sv_roles/oracle.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Oracle</a>  
-et l’<a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> mort.  
-L’<a href="../sv_roles/oracle.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Oracle</a> affirme qu’il fait confiance à  
-l’<a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a>,  
-parce que ses informations d’Oracle indiquent que celui-ci n’était pas maléfique.  
-Les Conteurs et conteuses jugent que l’  
-<a href="../sv_roles/oracle.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Oracle</a> ne respecte pas la folie,  
-et déclarent que l’<a href="../sv_roles/oracle.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Oracle</a> meurt.</p>
+##  <span style="color:#d45b5b;">Conseils & Astuces</span>
+<hr>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <a href="../roles_experimentaux/farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermier</a>  
-est choisi par la <strong>Harpie</strong> comme premier joueur.  
-Comme il n’a lui-même aucune information directe pour accuser l’autre joueur,  
-il s’efforce de trouver des raisons pour blanchir tous les autres joueurs vivants,  
-laissant sa cible comme seul candidat possible au rôle de  
-<span style="color:#d45b5b; font-weight:bold;">Démon</span>  
-et donc « forcément maléfique » par implication.</p>
-
----
-
-##  <span style="color:#d45b5b;">Astuces & Conseils</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Choisissez les <strong>mêmes deux joueurs</strong> chaque nuit.  
-      L’effort répété d’un bon joueur pour faire passer un autre pour maléfique  
-      ne peut que profiter au camp du Mal,  
-      en concentrant l’attention du village sur de mauvaises cibles.  
-      En plus, si des morts surviennent, personne ne saura que c’est à cause de vous.</li>
-
-  <li>Choisissez le <strong>même premier joueur</strong> chaque nuit,  
-      mais changez régulièrement la seconde cible.  
-      Cette personne devra sans cesse changer de discours  
-      sur qui est « vraiment maléfique »,  
-      perdant en crédibilité petit à petit,  
-      surtout si personne d’autre ne revendique être choisi par la <strong>Harpie</strong>.</li>
-
-  <li>Au contraire, « partagez l’amour » :  
-      choisissez des joueurs différents chaque nuit.  
-      Tout le monde saura qu’une <strong>Harpie</strong> est en jeu après le premier jour,  
-      mais personne ne pourra jamais être sûr  
-      qu’une accusation de « tu es maléfique » est sincère  
-      ou simplement due à votre capacité.  
-      Votre <span style="color:#d45b5b; font-weight:bold;">Démon</span> pourra peut-être se défendre en disant  
-      que la <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>  
-      qui a obtenu un « oui » sur lui est simplement Harpiser.</li>
-
-  <li>Choisissez un joueur mort de confiance comme premier joueur,  
-      et faites-le fou à propos d’un joueur vivant.  
-      Les discours des morts sur « qui il faudrait exécuter »  
-      ont souvent beaucoup de poids :  
-      vous augmentez vos chances que le deuxième joueur soit exécuté.  
-      Et le joueur mort ne risque pas de mourir à cause de la folie.</li>
-
-  <li>Choisissez un joueur mort comme <strong>deuxième</strong> cible.  
-      Il est souvent difficile, pour un bon joueur,  
-      de justifier sincèrement pourquoi un joueur mort tôt serait maléfique.  
-      Et s’il y a un <a href="../sv_roles/vigormortis.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vigormortis</a>  
-      ou un <a href="../sv_roles/fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a> sur le script,  
-      la personne Harpie-folle pourrait pousser la ville à croire  
-      au mauvais type de Démon ou au mauvais scénario.</li>
-
-  <li>Choisir parfois des joueurs maléfiques peut aider votre équipe.  
-      Si vous ne choisissez <strong>que</strong> des joueurs bons,  
-      le Bien peut finir par croire que tous les joueurs affectés par la <strong>Harpie</strong>  
-      sont en fait bons, et se mettra à exécuter ceux qui ne sont jamais ciblés,  
-      ce qui peut condamner trop vite des joueurs du Mal.</li>
-
-  <li>En fin de partie, surtout lors du dernier jour,  
-      choisir des joueurs maléfiques n’est souvent <strong>pas</strong> rentable.  
-      Il vaut mieux avoir un bon joueur qui accuse un autre bon joueur,  
-      pour détourner l’attention du <span style="color:#d45b5b; font-weight:bold;">Démon</span>.  
-      Avoir au moins un joueur vivant affecté par la <strong>Harpie</strong> le dernier jour  
-      est très utile : si vos deux cibles sont mortes,  
-      le premier joueur peut briser la folie sans aucun risque.</li>
-
-  <li>Vous pouvez même choisir votre propre <span style="color:#d45b5b; font-weight:bold;">Démon</span>.  
-      Les Conteurs et conteuses sont peu susceptibles d’utiliser la folie de la <strong>Harpie</strong>  
-      pour tuer le Démon, donc vous avez de bonnes chances  
-      que tout le monde s’en sorte vivant.  
-      Attention cependant : si votre <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
-      est votre deuxième cible,  
-      le premier joueur peut briser la folie,  
-      ce qui fera tiquer le Bien : « Pourquoi le Démon n’est-il pas mort ? »</li>
-
-  <li>Si votre équipe a besoin d’accélérer la partie,  
-      choisissez-vous vous-même en tant que premier joueur,  
-      puis discutez avec les Conteurs et conteuses.  
-      Si vous voulez qu’ils tuent à la fois vous et votre cible,  
-      annoncez-le clairement : ils seront plus enclins  
-      à exécuter votre plan sans ralentir la partie.</li>
-
-  <li>Vous pouvez aussi mentir et prétendre que vous avez été choisi par la <strong>Harpie</strong>  
-      pour expliquer des votes bizarres.  
-      Par exemple, si vous avez voté contre un  
-      <a href="../tb_roles/saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a>  
-      alors qu’il l’avait clairement annoncé,  
-      vous pouvez dire que c’est parce que vous étiez Harpie-fou.</li>
-
-  <li>Le meilleur moyen de cacher l’existence de la <strong>Harpie</strong>,  
-      c’est de vous choisir vous-même.  
-      Tant que vous seul savez qu’il y a une <strong>Harpie</strong> en jeu,  
-      vous pouvez respecter subtilement la folie  
-      sans jamais revendiquer avoir été choisi.  
-      Toute personne qui revendiquera ensuite « J’ai été choisi par la Harpie »  
-      aura l’air beaucoup plus suspecte.</li>
-
-  <li>Parfois, il peut être intéressant de prétendre  
-      que <strong>vous</strong> étiez la première cible de la <strong>Harpie</strong>  
-      alors que vous avez en fait choisi quelqu’un d’autre.  
-      Cela vous place en conflit direct avec ce premier joueur,  
-      et jette la confusion sur « qui a vraiment été choisi ».  
-      Si vous avez ciblé la même personne plusieurs fois,  
-      cela peut même pousser le groupe à tuer ce joueur et/ou sa cible,  
-      ce qui ne peut que profiter à votre équipe.</li>
-
-</ul>
-
----
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• <strong>Choisissez les deux mêmes joueurs chaque nuit.</strong> L'effort répété d'un joueur <strong>bon</strong> pour faire passer un autre joueur pour <strong>maléfique</strong> ne peut qu'aider votre équipe, en induisant l'équipe du <strong>Bien</strong> en erreur et en la poussant à se concentrer sur les mauvaises personnes. <br> De plus, l'attention constante portée à leurs arguments pourrait finir par provoquer la mort de l'un ou des deux joueurs, sans que personne ne sache que c'est vous qui leur avez fait ça.
+<br><br>
+• <strong>Choisissez le même premier joueur chaque nuit.</strong> Ce joueur devra continuer à changer la personne qu'il désigne comme <strong>maléfique</strong>, perdant de plus en plus en crédibilité au passage, surtout si personne d'autre ne prétend jamais être choisi par la <strong>Harpie</strong>.
+<br><br>
+• <strong>Variez les plaisirs et choisissez des joueurs différents chaque nuit !</strong> Les joueurs sauront qu'une <strong>Harpie</strong> est en jeu après le premier jour, mais ils ne pourront jamais être certains de savoir si quelqu'un pense sincèrement qu'un autre joueur est <strong>maléfique</strong> ou si c'est à cause de vous. Votre <strong>Démon</strong> pourrait réussir à passer sous le radar ou à se défendre en disant que la <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> qui a obtenu un « Oui » à son sujet fait simplement de la folie due à la <strong>Harpie</strong>.
+<br><br>
+• <strong>Choisissez un joueur mort de confiance, et rendez-le fou à l'idée qu'un joueur vivant est maléfique.</strong> Les arguments des joueurs morts concernant la personne qu'ils aimeraient voir subir une <strong>Exécution</strong> ont souvent plus de poids, vous avez donc de meilleures chances de faire exécuter le second joueur. <br> De plus, le joueur mort ne peut pas prendre le risque de rompre la folie, sauf s'il souhaite la mort du joueur vivant !
+<br><br>
+• <strong>Choisissez un joueur mort comme second choix.</strong> Il peut être extrêmement difficile pour les joueurs de développer un argument sincère et de bonne foi selon lequel ils pensent qu'un joueur mort tôt dans la partie est réellement <strong>maléfique</strong>. De plus, s'il y a un <a href="../sv_roles/vigormortis.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vigormortis</a> ou un <a href="../sv_roles/fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a> sur le script, le joueur que vous avez choisi pourrait convaincre l'équipe du <strong>Bien</strong> que le mauvais <strong>Démon</strong> est en jeu.
+<br><br>
+• <strong>Choisir des joueurs maléfiques peut aider votre équipe.</strong> Si vous ne choisissez que des joueurs <strong>bons</strong>, l'équipe du <strong>Bien</strong> pourrait commencer à croire que tous les joueurs sélectionnés sont <strong>bons</strong>, et elle commencera à exécuter des personnes qui n'ont jamais été sélectionnées par la <strong>Harpie</strong>.
+<br><br>
+• <strong>Choisir des joueurs maléfiques tard dans la partie, en particulier lors du jour final, n'est généralement pas rentable.</strong> Dans la plupart des cas, cela vous aide, vous et votre <strong>Démon</strong>, bien plus d'avoir un joueur <strong>bon</strong> qui fait pression sur un autre joueur <strong>bon</strong> afin de détourner l'attention de votre <strong>Démon</strong>. Il est particulièrement utile de choisir au moins un joueur vivant lors du jour final, car si vos deux choix sont morts, le premier joueur que vous avez choisi peut rompre la folie sans aucun risque de mort.
+<br><br>
+• <strong>Choisissez votre Démon !</strong> Le Conteur a peu de chances d'utiliser votre capacité pour tuer le <strong>Démon</strong>, vous avez donc de bonnes chances d'en sortir indemne. 
+Cependant, si votre <strong>Démon</strong> est votre second choix, vous risquez de voir le premier joueur rompre la folie, et les joueurs <strong>bons</strong> pourraient commencer à se demander pourquoi le <strong>Démon</strong> n'est pas mort à la suite de cette rupture de folie.
+<br><br>
+• <strong>Si votre équipe a besoin d'accélérer la partie, choisissez-vous vous-même, et mettez le Conteur dans la confidence.</strong> Si vous voulez qu'il vous tue, vous et votre cible, dites-le-lui à l'avance ! Si le Conteur sait ce que vous cherchez à faire, il sera mieux préparé à soutenir votre équipe.
+<br><br>
+• <strong>Mentez et prétendez avoir été choisi par la Harpie pour justifier un comportement de vote étrange.</strong> Vous avez voté contre le <a href="../tb_roles/saint.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Saint</a> alors que vous saviez que c'était son rôle prétendu ? Cela prend tout son sens si vous avez été choisi par la <strong>Harpie</strong> !
+<br><br>
+• <strong>La meilleure façon de cacher l'existence de la Harpie est de vous choisir vous-même.</strong> Alors qu'un seul joueur à la fois sait que la capacité de la <strong>Harpie</strong> est active, vous êtes vous-même le mieux placé pour vous conformer à la folie en toute subtilité, et ainsi nier avoir été affecté par la <strong>Harpie</strong>, ce qui rendra encore plus suspect quiconque affirmera plus tard avoir été choisi par elle.
+<br><br>
+• <strong>Parfois, il peut être rentable de prétendre avoir été choisi par la Harpie alors que vous visiez quelqu'un d'autre.</strong> Cela vous place en conflit direct avec le premier joueur que vous avez choisi, mais peut semer la confusion quant à savoir qui a réellement été sélectionné. De plus, si vous avez choisi à nouveau le même joueur, cela pourrait même les pousser à se faire tuer, lui et/ou sa cible, ce qui aide encore plus votre équipe !
+</p>
 
 ##  <span style="color:#d45b5b;">Combattre la Harpie</span>
+<hr>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• <strong>Satisfaisiez la folie.</strong> Même si cela ne vous dérange pas de mourir, le joueur envers lequel vous devez exprimer de la folie est peut-être un <strong>Villageois</strong> utile comme le <a href="../roles_experimentaux/preacher.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Prédicateur</a> ou le <a href="../sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a>. 
+Vous pourrez toujours expliquer vos actions demain en révélant que vous avez été choisi par la <strong>Harpie</strong>, mais surtout en début de partie, il vaut mieux rester en vie.
+<br><br>
+• <strong>Ignorez la folie, surtout si vous ne craignez pas de mourir, ou si vous pensez que le second joueur est maléfique !</strong> Si vous rompez la folie, vous devez être prêt à mourir et à voir éventuellement le second joueur mourir aussi. Si les gens ne pensent pas qu'il y a une <strong>Harpie</strong> en jeu, c'est un moyen infaillible de leur prouver le contraire.
+<br><br>
+• <strong>Si vous pensez que l'autre joueur est maléfique, rompez la folie et observez ce qui se passe.</strong> Si le Conteur ne tue que vous, il est plus probable que l'autre joueur soit <strong>maléfique</strong>, et si vous mourez tous les deux, cela écarte un candidat <strong>Démon</strong> !
+<br><br>
+• <strong>Soyez intentionnel et prudent si vous prétendez être affecté par la Harpie.</strong> Si vous le faites, vous aurez du mal à convaincre les autres que vous pensez sincèrement que votre cible est <strong>maléfique</strong>, ce qui risque de vous faire tuer, vous et/ou l'autre joueur.
+<br><br>
+• <strong>Si la Harpie continue de vous rendre fou à propos du même joueur, ce joueur n'est probablement pas le Démon.</strong> Il est rare que l'équipe <strong>maléfique</strong> puisse se permettre la pression continue d'un joueur <strong>bon</strong> affirmant que le <strong>Démon</strong> est <strong>maléfique</strong> ; vous pouvez donc supposer en toute sécurité que le joueur visé n'est pas un candidat <strong>Démon</strong>. Cela dit, il pourrait toujours s'agir d'un <strong>Sbire</strong> <strong>maléfique</strong>, en particulier un <strong>Sbire</strong> consommable comme le <a href="../tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> ou un <a href="../roles_experimentaux/mezepheles.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mezepheles</a> ayant déjà utilisé son pouvoir.
+<br><br>
+• <strong>Si vous êtes choisi avec un joueur mort, engagez-vous pleinement dans la folie.</strong> Vous êtes le seul à risquer de mourir si la folie n'est pas satisfaisante !
+<br><br>
+• <strong>Si vous pensez qu'un joueur spécifique subit la folie de la Harpie, vous n'avez pas besoin de soutenir publiquement ses accusations, surtout si vous pensez que sa cible est bonne.</strong> Prétendre que vous pensez qu'une autre personne est <strong>maléfique</strong> ne contredit pas les affirmations du joueur sous l'effet de la <strong>Harpie</strong> ; vous devez donc vous sentir libre de faire une <strong>Nomination</strong> et de voter contre qui vous voulez.
+<br><br>
+• <strong>Si un joueur plus récent accuse quelqu'un d'être maléfique et que vous pensez que la Harpie est en jeu, il est préférable d'être plus doux au moment de lui demander de justifier sa position.</strong> Cela permet de limiter le risque de voir l'un des deux joueurs (ou les deux) mourir en raison de la folie de la <strong>Harpie</strong>.
+<br><br>
+• <strong>Si un seul joueur meurt de la folie de la Harpie, cherchez à comprendre pourquoi le Conteur n'a pas tué les deux joueurs.</strong> Est-ce qu'un joueur <strong>maléfique</strong> était fou à propos d'un joueur <strong>bon</strong>, et seul le joueur <strong>bon</strong> est mort ? L'un des deux joueurs était-il incapable de mourir parce qu'il est le <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a>, ou parce qu'il est assis à côté de la <a href="../bmr_roles/damdethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Tisanière</a> ? Comprendre pourquoi le Conteur n'a tué qu'un seul joueur peut aider votre équipe à démêler le vrai du faux.
+</p>
 
-  <li>Respectez la folie.  
-      Même si cela ne vous dérange pas de mourir,  
-      la personne dont vous devez dire qu’elle est maléfique  
-      pourrait être un rôle précieux comme le  
-      <a href="../roles_experimentaux/preacher.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Prédicateur</a>  
-      ou le <a href="../sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a>.  
-      Vous pourrez toujours expliquer votre comportement le lendemain  
-      en révélant que vous avez été choisi par la <strong>Harpie</strong>,  
-      mais surtout au début de la partie, il vaut mieux rester en vie.</li>
-
-  <li>Vous pouvez aussi choisir de <strong>briser la folie</strong>,  
-      surtout si vous n’avez rien contre le fait de mourir  
-      ou si vous pensez vraiment que le second joueur est maléfique.  
-      Si vous brisez la folie, préparez-vous à mourir…  
-      et acceptez que l’autre joueur puisse mourir aussi.</li>
-
-  <li>Si vous pensez que le second joueur est maléfique,  
-      briser la folie peut être un test :  
-      <ul style="margin-left:20px;">
-        <li>si seul vous mourrez, il est plus probable que le second soit effectivement du Mal ;</li>
-        <li>si vous mourrez tous les deux, cela peut éliminer un candidat  
-            <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
-            (ou confirmer qu’il n’est pas intouchable).</li>
-      </ul>
-  </li>
-
-  <li>Si vous revendiquez avoir été affecté par la <strong>Harpie</strong>,  
-      soyez prudent·e :  
-      vous aurez du mal ensuite à convaincre les autres que vous croyez vraiment  
-      que votre cible est maléfique.  
-      Cette étiquette peut vous coller à la peau et vous faire exécuter,  
-      vous et votre cible.</li>
-
-  <li>Si la <strong>Harpie</strong> vous rend fou au sujet du même joueur plusieurs fois de suite,  
-      ce joueur est probablement <strong>pas</strong> le  
-      <span style="color:#d45b5b; font-weight:bold;">Démon</span>.  
-      Il est rare que le Mal puisse survivre longtemps à une pression constante  
-      d’un bon joueur qui martèle qu’« un Démon » est maléfique.  
-      En revanche, ce joueur pourrait être un Sbire sacrificiel  
-      (comme le <a href="../tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a>  
-      ou un Mezepheles déjà « utilisé »).</li>
-
-  <li>Si vous êtes associé à un joueur mort (comme première ou seconde cible),  
-      respectez d’autant plus la folie :  
-      vous êtes la seule personne en danger de mourir à cause de la <strong>Harpie</strong>,  
-      le joueur mort ne risque plus rien.</li>
-
-  <li>Si vous pensez qu’un joueur est Harpie-fou à propos de quelqu’un,  
-      vous n’avez pas besoin de soutenir publiquement sa cible.  
-      Dire « je ne suis pas d’accord, je pense que quelqu’un d’autre est maléfique »  
-      ne contredit pas la folie de ce joueur,  
-      et vous pouvez continuer à nommer et voter comme vous le souhaitez.</li>
-
-  <li>Si un nouveau joueur accuse quelqu’un d’être maléfique  
-      et que vous pensez qu’une <strong>Harpie</strong> est en jeu,  
-      soyez plus doux dans vos demandes de justification.  
-      Le pousser trop fort à se contredire  
-      pourrait entraîner la mort de l’un ou des deux joueurs à cause de la folie.</li>
-
-  <li>Si un seul joueur meurt à cause de la folie de la <strong>Harpie</strong>,  
-      demandez-vous pourquoi les Conteurs et conteuses n’ont pas tué les deux :  
-      <ul style="margin-left:20px;">
-        <li>un joueur maléfique était-il fou à propos d’un joueur bon,  
-            et seul le bon est mort ?</li>
-        <li>un des deux joueurs ne pouvait-il pas mourir  
-            (parce qu’il est  
-            <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a>,  
-            ou assis à côté d’une  
-            <a href="../bmr_roles/damdethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dame du Thé</a>) ?</li>
-      </ul>
-      Comprendre ce choix peut vous aider à démêler qui dit la vérité.</li>
-
-</ul>
-
----
+<hr class="explication">	
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Sbires</a><br>
-   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+• <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+• <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Sbires</a><br>
+• <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
