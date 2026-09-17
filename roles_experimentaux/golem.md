@@ -83,7 +83,7 @@ Instructions au Conteur :
 </p>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
-• Si le Golem nomme un joueur qui n'est pas un Démon, ce joueur <strong>meurt</strong>, puis un vote a lieu pour le joueur mort et l’étape de nomination se poursuit normalement. Marquez le Golem du jeton <strong>« NE PEUT PAS NOMMER. »</strong>.
+• Si le Golem nomme un joueur qui n'est pas un Démon, ce joueur <strong>meurt</strong>, puis un vote a lieu pour le joueur mort et l’étape de nomination se poursuit normalement.<br> Marquez le Golem du jeton <strong>« NE PEUT PAS NOMMER. »</strong>.
 <br><br>
 • Si le Golem nomme le Démon, procédez normalement au vote. (Ne donnez pas d’explications.) Marquez le Golem du jeton <strong>« NE PEUT PAS NOMMER. »</strong>.
 </p>
@@ -91,7 +91,7 @@ Instructions au Conteur :
 <div class="botc-note" style="font-size:20px; line-height:1.7;">
 Si le Golem nomme quelqu’un par erreur alors qu’il n’en a pas le droit, vous pouvez accepter ou refuser la nomination.  
 Il est préférable de la refuser — tant que cela ne confirme pas qu’un Golem est en jeu.  
-Pour que le jeu reste juste, faites de même lorsqu’un joueur bluffe en se faisant passer pour le Golem, en lui rappelant que le Golem ne peut pas nommer plus d’une fois.
+Pour que le jeu reste juste, faites de même lorsqu’un joueur bluffe en se faisant passer pour le Golem, en lui rappelant que le Golem ne peut faire, en tout et pour tout, qu’une seule nomination.
 </div>
 
 ##  <span style="color:#4ea3ff;">Exemples</span>
