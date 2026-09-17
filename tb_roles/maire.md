@@ -42,6 +42,8 @@ image: /images/Icon_mayor.png
   </li>
 </ul>
 
+
+
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Nous devons mettre nos différends de côté et cesser de nous entretuer. <br>
   Tout le monde paie ses impôts ici, non ? Enfin presque.» <br> 
@@ -64,21 +66,18 @@ image: /images/Icon_mayor.png
 
 
 <h2 style="color:#4ea3ff; font-weight:bold; margin-top:10px;">Résumé</h2>
-
-
 <hr class="villageois">
 
 <!-- IMPORTANT : pas d’italique + pas de point devant, comme demandé -->
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px; margin-right:20px;">
-  <strong>« S’il n’y a que 3 joueurs en vie et pas d’exécution, votre équipe gagne.</strong> <br>
-  <strong>Si vous mourez la nuit, un autre joueur pourrait mourir à votre place. »</strong>
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
+« S’il n’y a que 3 joueurs en vie et pas d’exécution, votre équipe gagne. Si vous mourez la nuit, un autre joueur pourrait mourir à votre place. »
 </p>
 
 <p class="botc-flavour-text dropcap">
 LE MAIRE peut gagner par des moyens pacifiques lors du dernier jour.
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; margin-right:20px;">
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:40px; margin-right:00px;">
   <li>Pour que le Maire puisse survivre, il faut parfois que d’autres joueurs se fassent tuer à sa place.<br> Si le Maire est attaqué et doit mourir, le Conteur peut choisir un autre joueur à sa place.<br>Ce dernier ne sait pas ce qui est arrivé.<br>Il sait juste qu’il est mort.</li>
   
   <li>Si, à la fin de la journée, il ne reste que trois joueurs en vie et qu’aucune exécution n’est survenue ce jour-là, la partie est terminée.<br> Le Bien gagne.</li>
@@ -108,7 +107,7 @@ signifie que le Bien gagne, car le Maire est toujours bon.<br> Dans d'autres mod
 Instructions au Conteur
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; margin-right:20px;">
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:40px; margin-right:00px;">
   <li><strong>Lors du dernier jour</strong> : si exactement 3 joueurs sont vivants et qu’aucune exécution n’a lieu → la partie se termine immédiatement avec une victoire des Bons.</li> <br>
   <li><strong>Cible du Démon</strong> : si le Maire doit mourir la nuit, le Conteur peut choisir que le Maire survive et qu’un autre joueur meure à la place.</li>
   <li>Le Conteur annonce seulement « qu’un joueur est mort », il ne donne pas la raison de la mort du joueur.</li> <br>
@@ -138,7 +137,7 @@ Instructions au Conteur
 
 ---
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; margin-right:20px;">
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:40px; margin-right:00px;">
   <li>
     Le
     <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>
@@ -163,7 +162,7 @@ Instructions au Conteur
 
 ---
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; margin-right:20px;">
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:40px; margin-right:00px;">
   <li>Votre pouvoir s’active <strong>au dernier jour</strong> : faites tout pour convaincre le village que vous êtes réellement le Maire afin d’éviter toute exécution.</li><br>
   <li>Ne révélez pas trop tôt votre rôle, sinon le Démon cherchera à vous tuer nuit après nuit.</li>
   <li>À l’inverse, parfois annoncer votre rôle permet de créer un consensus autour de vous.</li><br>
@@ -189,11 +188,11 @@ Instructions au Conteur
 
 ---
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
   <strong>Lorsque vous bluffez le Maire,</strong> il y a quelques éléments à garder en tête:
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
 
   <li style="margin-bottom:14px;">
     Le Maire ne se réveillerait jamais la nuit.<br>
@@ -241,7 +240,7 @@ Instructions au Conteur
 
 <h2 style="color:#4ea3ff; font-size:22px; margin-top:30px;">🧞 Jinxes liés</h2>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; margin-right:20px;">
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:00px; margin-right:20px;">
   <li>
     🧞
     <img src="../images/Icon_leviathan.png" alt="Léviathan" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
