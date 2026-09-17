@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Golem
-description: Vous ne pouvez nommer qu’une seule fois par partie. Quand vous le faites, si le nommé n’est pas le Démon, il meurt.
+description: "Vous pouvez faire une seule nomination dans la partie. Quand vous le faites, si le nommé n’est pas le Démon, il meurt."
 image: /images/Icon_golem.png
 ---
 
@@ -10,6 +10,8 @@ image: /images/Icon_golem.png
     <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
+
+<hr class="explication">	
 
 <!-- Golem -->
 
@@ -21,28 +23,13 @@ image: /images/Icon_golem.png
   </a>
 </div>
 
-<!-- APPARAÎT DANS -->
-<div style="text-align:center; margin: 20px 0%;">
-  <a href="../experimentaux.html" style="text-decoration:none;">
-    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
-    <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
-  </a>
-</div>
-
-#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Golem</span>
-
-<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Golem aider ? Golem frapper ! Golem aider. »
-</p>
-
----
+<hr class="marginal">
 
 ##  <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
-    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a>
+    <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a>
   </li>
   <li>
   <strong>Nom original :</strong>
@@ -50,205 +37,110 @@ image: /images/Icon_golem.png
      target="_blank"
      rel="noopener noreferrer"
      style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
-   Golem
+    Golem
   </a>
 </li>
   <li><strong>Artiste :</strong> <em>Anica Kelsen</em></li>
   <li><strong>Révélé :</strong> 26 août 2021</li>
 </ul>
 
----
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Golem aide ? <br> Golem écrase ! <br> Golem aide. »
+</p>
+
+<hr class="marginal">
+
+<!-- APPARAÎT DANS -->
+<div style="text-align:center; margin: 20px 0%;">
+  <a href="../experimentaux.html" style="text-decoration:none;">
+    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : Carrousel rôle expérimental</span>
+  </a>
+</div>
 
 ##  <span style="color:#4ea3ff;">Résumé</span>
+<hr class="marginal">
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Vous ne pouvez nommer qu’une seule fois par partie. Quand vous le faites, si le nommé n’est pas le <span style="color:#d45b5b; font-weight:bold;">Démon</span>, il meurt. »</strong>
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
+« Vous pouvez faire une seule nomination dans la partie. Quand vous le faites, si le nommé n’est pas le Démon, il meurt. »
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Golem</strong> tue le joueur qu’il nomme… tant que ce n’est pas le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Lorsque le Golem nomme un joueur, ce joueur meurt immédiatement. Un vote a toutefois lieu comme d’habitude pour ce joueur mort, puis l’étape de nomination continue.
+<br><br>
+• Si le Golem nomme le Démon, rien ne se passe. Le Conteur ne confirme pas ni ne dément que le Golem a nommé quelqu’un, et un vote a lieu comme lors d’une nomination normale.  
+Le Conteur peut répondre « rien ne se passe » si on lui demande des précisions.
+<br><br>
+• Une fois que le Golem a nommé un joueur, et même si ce joueur ne meurt pas, le Golem ne peut plus nommer qui que ce soit pour le reste de la partie. Le Conteur n’a pas à surveiller le Golem. Le Golem doit impérativement s’appliquer au respect de la règle. Y contrevenir sciemment serait tricher.
 </p>
-
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Quand le Golem nomme un joueur ou une joueuse, cette personne meurt immédiatement,  
-      puis le processus de nomination et de vote se poursuit normalement.</li>
-
-  <li>Si le Golem nomme le <span style="color:#d45b5b; font-weight:bold;">Démon</span>, rien de spécial ne se passe :  
-      la personne nommée ne meurt pas à cause de la capacité du Golem.  
-      La conteuse ou le conteur ne confirme ni ne dément que le Golem a utilisé sa capacité  
-      et continue le vote comme d’habitude.  
-      Si quelqu’un demande des précisions, la conteuse ou le conteur peut simplement dire « il ne se passe rien ».</li>
-
-  <li>Une fois que le Golem a nommé une fois, que la cible meure ou non,  
-      il ne peut plus jamais nommer pendant cette partie.  
-      C’est au joueur ou à la joueuse Golem de respecter cette limite,  
-      et non à la conteuse ou au conteur de l’en empêcher.  
-      Nommer volontairement alors que le Golem ne devrait plus le faire est considéré comme de la triche.</li>
-
-</ul>
-
----
 
 ##  <span style="color:#4ea3ff;">Comment Conter</span>
+<hr>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Si le Golem nomme un joueur ou une joueuse qui n’est pas le <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
-cette personne meurt immédiatement.  
-Annoncez sa mort, puis procédez au vote comme pour une nomination normale.  
-Marquez le Golem avec le rappel <strong>NE PEUT PLUS NOMMER</strong>.
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Instructions au Conteur :
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Si le Golem nomme le <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
-personne ne meurt à cause de cette capacité et le vote suit son cours normal.  
-Ne dites pas pourquoi il ne s’est rien passé.  
-Marquez tout de même le Golem avec le rappel <strong>NE PEUT PLUS NOMMER</strong>.
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Si le Golem nomme un joueur qui n'est pas un Démon, ce joueur <strong>meurt</strong>, puis un vote a lieu pour le joueur mort et l’étape de nomination se poursuit normalement. Marquez le Golem du jeton <strong>« NE PEUT PAS NOMMER. »</strong>.
+<br><br>
+• Si le Golem nomme le Démon, procédez normalement au vote. (Ne donnez pas d’explications.) Marquez le Golem du jeton <strong>« NE PEUT PAS NOMMER. »</strong>.
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Si le Golem nomme par erreur alors qu’il ne devrait plus pouvoir le faire,  
-vous pouvez choisir d’accepter ou de refuser cette nomination.  
-Le plus souvent, il est préférable de la refuser,  
-tant que cela ne confirme pas trop clairement qu’un Golem est en jeu.  
-Pour rester équitable, appliquez la même règle aux joueurs et joueuses  
-qui bluffent Golem : rappelez-leur qu’un Golem ne peut nommer qu’une seule fois.
-</p>
-
----
+<div class="botc-note" style="font-size:20px; line-height:1.7;">
+Si le Golem nomme quelqu’un par erreur alors qu’il n’en a pas le droit, vous pouvez accepter ou refuser la nomination.  
+Il est préférable de la refuser — tant que cela ne confirme pas qu’un Golem est en jeu.  
+Pour que le jeu reste juste, faites de même lorsqu’un joueur bluffe en se faisant passer pour le Golem, en lui rappelant que le Golem ne peut pas nommer plus d’une fois.
+</div>
 
 ##  <span style="color:#4ea3ff;">Exemples</span>
+<hr>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le Golem nomme le 
-<a href="../roles_experimentaux/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cultivateur de pavot</a>.  
-Le 
-<a href="../roles_experimentaux/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cultivateur de pavot</a> de pavot meurt immédiatement.  
-Le Golem ne pourra plus jamais nommer pendant le reste de la partie.
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Le Golem nomme le <a href="../roles_experimentaux/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Planteur de pavot</a>. Le <a href="../roles_experimentaux/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Planteur de pavot</a> meurt. <br>Le Golem ne peut plus nommer qui que ce soit lors de cette partie.
+<br><br>
+• Le Golem nomme la <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a>. Le Conteur décide que la <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a> apparaît comme le Démon. <br> Rien ne se passe et le Conteur procède au décompte des votes pour exécuter la <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a>. Le Golem ne peut plus nommer qui que ce soit lors de cette partie.
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le Golem nomme le 
-<a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a>.  
-Le 
-<a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a> s’enregistre comme le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.  
-Il ne se passe rien : le Reclus ne meurt pas,  
-et la conteuse ou le conteur commence à compter les votes pour une éventuelle exécution du Reclus.  
-Le Golem ne peut plus nommer pour le reste de la partie.
+##  <span style="color:#4ea3ff;">Conseils & Astuces</span>
+<hr>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Si vous voulez prouver que vous êtes le <strong>Golem</strong>, nominez un joueur dont vous savez qu'il n'est pas le <strong>Démon</strong>. Ce joueur mourra, et l'équipe bonne aura désormais confiance dans le fait que vous êtes bien le <strong>Golem</strong>. Cette stratégie comporte toutefois un inconvénient majeur : la perte du pouvoir de nomination de deux joueurs bons. Avant de nominer de cette façon, demandez-vous : « Est-ce que ça en vaut la peine ? »
+<br><br>
+• Si vous voulez savoir si un joueur est le <strong>Démon</strong> ou non, nominez-le. S'il ne meurt pas, vous saurez qu'il s'agit du <strong>Démon</strong>. Vous aurez peut-être du mal à convaincre l'équipe bonne que vous êtes le <strong>Golem</strong>, car votre nomination sera indistinguable de celle d'un joueur maléfique, mais VOUS saurez la vérité. Et c'est considérable.
+<br><br>
+• Si vous souhaitez éliminer un <strong>Sbire</strong> du jeu, patientez et ne nominez que lorsque vous pensez avoir identifié un <strong>Sbire</strong>.  
+Les <strong>Sbires</strong> peuvent toujours mourir à cause de votre capacité, et cela peut s'avérer extrêmement utile. Contrairement à d'autres <strong>Marginaux</strong>, la capacité du <strong>Golem</strong> peut être utilisée entièrement pour aider l'équipe bonne.
+<br><br>
+• Si vous avez déjà nominé, faites attention au nombre de joueurs encore en vie. Gardez également à l'esprit combien de joueurs maléfiques peuvent être encore vivants. Si la partie atteint un stade où seuls trois joueurs sont en vie, vous y compris, et que les deux autres joueurs sont maléfiques, l'équipe bonne ne pourra pas gagner car personne ne sera en mesure de nominer le <strong>Démon</strong>. <br>De même, s'il y a quatre joueurs en vie, vous y compris, et que le seul autre joueur bon nomine un joueur qui n'est pas le <strong>Démon</strong>, l'équipe bonne ne pourra pas l'emporter. Il n'est pas très préjudiciable de ne plus pouvoir nominer en début de partie, mais cela peut être un obstacle majeur le dernier jour.
+<br><br>
+• Si vous le pouvez, conservez votre capacité pour le dernier jour. S'il ne reste que deux autres joueurs en vie, vous avez 50 % de chances de cibler le <strong>Démon</strong> et de découvrir son identité. <br>Si vous choisissez accidentellement un joueur qui n'est pas le <strong>Démon</strong> et que vous perdez la partie, au moins la défaite sera due à un joueur bon agissant avec une chance sur deux de gagner, et non à une équipe maléfique qui l'emporte au vote.  
+Un joueur bon qui décide du sort de la partie vaut généralement mieux que de laisser les choses à un vote démocratique.
+<br><br>
+• Envisagez de ne pas nominer du tout. Bien que ce soit moins amusant (dommage !), c'est parfois le meilleur moyen de garder des joueurs en vie (hourra !).
 </p>
 
----
+##  <span style="color:#4ea3ff;">Bluffer le Golem</span>
+<hr>
 
-##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Lorsque vous bluffez le <strong>Golem</strong>, voici quelques points à garder à l'esprit :
+<br><br>
+• Bluffer le <strong>Golem</strong> est délicat. La plupart du temps, un vrai <strong>Golem</strong> provoque une mort lorsqu'il nomme. <br>Vous devrez avoir une excuse toute prête pour expliquer pourquoi le joueur que vous avez nominé n'est pas mort : soit vous êtes ivre ou empoisonné (peu probable), soit le joueur que vous avez choisi est le <strong>Démon</strong> (également peu probable).
+<br><br>
+• Nommez des joueurs extrêmement suspects qui ressemblent au <strong>Démon</strong>.
+<br><br>
+• Si vous êtes un <strong>Sbire</strong>, nominez plutôt en début de partie et attendez-vous à mourir en conséquence. <br>Lorsque vous nommez un joueur et qu'il ne meurt pas, il est très probable que l'équipe bonne vous tue, vous et le joueur que vous avez nominé, tandis que le <strong>Démon</strong> tuera deux joueurs au cours des deux nuits suivantes. Tuer quatre joueurs est un excellent moyen d'arriver plus vite au dernier jour, mais vous devrez vous sacrifier pour y parvenir.
+<br><br>
+• Si vous êtes le <strong>Démon</strong>, attendez la fin de la partie pour nominer un joueur. Avec moins de joueurs en vie, la probabilité que vous sembliez nominer le vrai <strong>Démon</strong> augmente, et l'équipe bonne sera plus encline à croire que vous êtes le <strong>Golem</strong> et à ne pas vous exécuter.<br>Même si vous parvenez à convaincre l'équipe bonne d'exécuter le joueur nominé aujourd'hui puis de vous exécuter demain, vous pourrez peut-être faire en sorte que demain n'arrive jamais si vous incarnez un <strong>Démon</strong> capable de faire plusieurs victimes la nuit, comme le <a href="../bmr_roles/shabaloth.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a>, le <a href="../bmr_roles/po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a> ou l' <a href="../roles_experimentaux/alhadikhia.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Al-Hadikhia</a>.
+</p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<hr class="explication">	
 
-  <li>Si vous voulez prouver que vous êtes vraiment le Golem,  
-      nommez une personne dont vous savez qu’elle n’est pas le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.  
-      Cette personne mourra immédiatement,  
-      et l’équipe du Bien aura de bonnes raisons de croire à votre rôle.  
-      Mais cette stratégie a un coût énorme :  
-      vous perdez la capacité de nomination de deux joueurs bons d’un coup.  
-      Avant de le faire, demandez-vous vraiment : « Est-ce que ça en vaut la peine ? »</li>
-
-  <li>Si vous voulez découvrir si quelqu’un est le <span style="color:#d45b5b; font-weight:bold;">Démon</span> ou non,  
-      nommez-le.  
-      S’il ne meurt pas, vous saurez qu’il s’agit du Démon.  
-      Le problème, c’est que le reste du village ne saura pas si vous êtes Golem  
-      ou simplement un rôle maléfique qui a fait une nomination ordinaire.  
-      Vous aurez peut-être du mal à convaincre,  
-      mais <em>vous</em> connaîtrez la vérité, et c’est une information énorme.</li>
-
-  <li>Si vous voulez retirer un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> du jeu,  
-      attendez patiemment et ne nommez que lorsque vous pensez avoir identifié un Sbire.  
-      Les Sbires peuvent mourir à cause de votre capacité,  
-      et c’est extrêmement utile.  
-      Contrairement à la plupart des Étrangers, le Golem peut utiliser son pouvoir  
-      entièrement au service du Bien.</li>
-
-  <li>Si vous avez déjà utilisé votre nomination,  
-      surveillez attentivement combien de joueurs sont encore en vie,  
-      et combien de joueurs maléfiques il peut rester.  
-      Si la partie en arrive au point où il ne reste plus que trois joueurs vivants,  
-      vous compris, et que les deux autres sont maléfiques,  
-      l’équipe du Bien ne peut plus gagner :  
-      personne ne pourra nommer le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.  
-      De même, s’il reste quatre joueurs en vie, vous compris,  
-      et que l’unique autre joueur bon nomme un personnage non démoniaque,  
-      le Bien ne pourra plus gagner non plus.  
-      Ne pas pouvoir nommer n’est pas trop gênant en début de partie,  
-      mais cela peut devenir un handicap majeur au dernier jour.</li>
-
-  <li>Si possible, gardez votre capacité pour le dernier jour.  
-      S’il ne reste que deux autres joueurs en vie,  
-      vous avez une chance sur deux de choisir le <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
-      et de découvrir qui il est.  
-      Si vous vous trompez et choisissez un joueur non démoniaque,  
-      vous perdez la partie…  
-      mais au moins, c’est un joueur bon qui a tenté un coup à 50 %,  
-      plutôt qu’une équipe maléfique qui gagne juste parce qu’elle outvote le Bien.  
-      Laisser la décision finale à un bon joueur  
-      est souvent préférable à un simple vote majoritaire.</li>
-
-  <li>Envisagez de ne jamais nommer du tout.  
-      C’est moins amusant (bouh !),  
-      mais dans certaines parties, il est plus important de conserver des joueurs en vie (youpi !).</li>
-
-</ul>
-
----
-
-##  <span style="color:#4ea3ff;">Bluffer Golem</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Bluffer Golem est délicat.  
-      La plupart du temps, un vrai Golem provoque une mort lorsqu’il nomme.  
-      Vous devrez donc préparer une excuse solide pour expliquer  
-      pourquoi la personne que vous avez nommée n’est pas morte :  
-      soit vous êtes ivre ou empoisonné (peu crédible),  
-      soit la personne que vous avez choisie est en fait le <span style="color:#d45b5b; font-weight:bold;">Démon</span> (pas si probable non plus).</li>
-
-  <li>Nommer des joueurs et joueuses extrêmement suspects,  
-      qui ont l’air d’être le <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
-      rendra votre bluff plus crédible.</li>
-
-  <li>Si vous êtes un <span style="color:#d45b5b; font-weight:bold;">Sbire</span>,  
-      nommez plutôt en début de partie et attendez-vous à mourir ensuite.  
-      Quand vous nommez quelqu’un et qu’il ne meurt pas,  
-      il est très probable que le Bien décide d’exécuter à la fois  
-      la cible de votre nomination et vous-même sur les deux jours suivants,  
-      pendant que le <span style="color:#d45b5b; font-weight:bold;">Démon</span> tue deux autres personnes la nuit.  
-      Éliminer quatre joueurs en peu de temps  
-      est un moyen très efficace d’accélérer la partie jusqu’au dernier jour,  
-      même si vous devez vous sacrifier pour y parvenir.</li>
-
-  <li>Si vous êtes le <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
-      attendez plutôt un stade avancé de la partie pour nommer quelqu’un.  
-      Avec peu de joueurs encore en vie,  
-      la probabilité que votre nomination « semble » cibler le vrai Démon  
-      augmente,  
-      et le Bien sera plus enclin à croire que vous êtes réellement le Golem  
-      et à ne pas vous exécuter tout de suite.  
-      Même si le village accepte d’exécuter votre cible aujourd’hui  
-      et vous demain,  
-      vous pouvez parfois faire en sorte que « demain » n’arrive jamais  
-      si vous êtes un Démon qui tue plusieurs fois par nuit,  
-      comme le 
-      <a href="../bmr_roles/shabaloth.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a>,  
-      le 
-      <a href="../bmr_roles/po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a>  
-      ou 
-      <a href="../roles_experimentaux/alhadikhia.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Al-Hadikhia</a>.
-  </li>
-
-</ul>
-
----
-
-<p style="text-align:left; font-size:18px; margin-top:20px;">
-   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Étrangers</a><br>
-   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+<p style="text-align:left; font-size:18px; margin-top:0px;">
+• <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+• <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Marginaux</a><br>
+• <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
