@@ -167,10 +167,9 @@ l’ignorer trop longtemps peut le transformer en Démon en fin de partie.
 <hr class="explication">
 
 
-## 🧞 <span style="color:#d4a76a;">Jinxes liés</span>
+## 🧞 <span style="color:red">Jinxes liés</span>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:00px;">
 
   <li>
     🧞
