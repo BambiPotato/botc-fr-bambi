@@ -112,6 +112,8 @@ D’autres nominations suivent, mais c’est Abdallah qui rassemble le plus de v
 • Doug est le Gobelin. Hier, et le jour d’avant, il a annoncé être le Gobelin. Il ne l’a pas fait aujourd’hui. Il est exécuté. La partie continue.
 </p>
 
+
+
 ##  <span style="color:#d45b5b;">Conseils & Astuces</span>
 <hr>
 
@@ -134,14 +136,15 @@ Le <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold;
 • Encouragez d'autres joueurs à se déclarer <strong>Gobelin</strong>, qu'ils soient bons ou maléfiques ! D'autres <strong>Sbires</strong> maléfiques comme l' <a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> peuvent utiliser cette revendication pour prolonger leur vie (et n'importe qui peut le dire, il n'y a pas besoin qu'un <strong>Gobelin</strong> soit réellement en jeu pour le prétendre !), tandis que les joueurs bons peuvent l'utiliser pour repousser les accusations pendant un jour ou deux afin d'obtenir un peu plus d'informations... voire pour passer pour un rôle désespéré de vivre afin d'attirer l'attaque du <strong>Démon</strong> !  
 L'avantage pour un vrai <strong>Gobelin</strong>, c'est que si tout le monde en ville se prétend <strong>Gobelin</strong> comme si c'était la nouvelle mode, cela berce le groupe dans un faux sentiment de sécurité lorsqu'arrivera enfin <em>votre</em> tour de vous déclarer <strong>Gobelin</strong> sur l'échafaud !
 <br><br>
-• Tenter de vous faire exécuter par le village pour des raisons anodines (par exemple pour que votre rôle soit vérifié par un <strong>Fossoyeur</strong>) entrera en contradiction avec une revendication de <strong>Gobelin</strong>. Ne vous découragez pas pour autant : cela peut fonctionner si le village pense que vous n'êtes pas d'accord avec leur logique pour vous tuer et que vous prétendez être le <strong>Gobelin</strong> juste pour leur compliquer la tâche. La tête qu'ils feront quand vous gagnerez de cette façon sera incroyablement satisfaisante !
+• Tenter de vous faire exécuter par le village pour des raisons anodines (par exemple pour que votre rôle soit vérifié par un <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a>) entrera en contradiction avec une revendication de <strong>Gobelin</strong>. Ne vous découragez pas pour autant : cela peut fonctionner si le village pense que vous n'êtes pas d'accord avec leur logique pour vous tuer et que vous prétendez être le <strong>Gobelin</strong> juste pour leur compliquer la tâche. La tête qu'ils feront quand vous gagnerez de cette façon sera incroyablement satisfaisante !
 <br><br>
-• Attention au <strong>Cuisinier</strong>, à l'<strong>Horloger</strong> et aux autres rôles de ce type ! Si le village croit que vous êtes un <strong>Gobelin</strong>, il peut utiliser votre présence pour localiser votre <strong>Démon</strong> ! (À l'inverse, dans les parties à nombreux joueurs, vous pouvez délibérément provoquer cela si vous êtes éloigné des autres membres de l'équipe maléfique, poussant le village à perdre du temps en exécutant vos voisins plutôt que votre <strong>Démon</strong> !)
+• Attention au <a href="../tb_roles/cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a>, à l'<a href="../sv_roles/horloger.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Horloger</a> et aux autres rôles de ce type ! Si le village croit que vous êtes un <strong>Gobelin</strong>, il peut utiliser votre présence pour localiser votre <strong>Démon</strong> ! (À l'inverse, dans les parties à nombreux joueurs, vous pouvez délibérément provoquer cela si vous êtes éloigné des autres membres de l'équipe maléfique, poussant le village à perdre du temps en exécutant vos voisins plutôt que votre <strong>Démon</strong> !)
 <br><br>
 • Le <strong>Gobelin</strong> est en fin de compte un <strong>Sbire</strong> très social, il est donc essentiel de prendre le pouls du village : dans presque tous les cas, vous voulez les amener à penser différemment de ce qu'ils pensent de vous à un instant T. Si le village vous pense bon, il n'a aucune raison de vous exécuter — essayez de faire quelques « faux pas » pour leur donner des raisons d'être suspects ! De même, s'ils vous pensent maléfique et que vous ne le niez pas, le village pourrait vous cataloguer définitivement comme <strong>Gobelin</strong> — faites alors des efforts supplémentaires pour les convaincre que vous êtes bon ! Tout l'enjeu est de vous amener à ce point d'équilibre parfait : « il s'est déclaré <strong>Gobelin</strong>, mais nous ne le croyons pas et nous allons l'exécuter quand même ». Tout le chaos semé en chemin n'est qu'un bonus amusant !
 <br><br>
 • Si vous incarnez un autre rôle maléfique, en particulier le <strong>Démon</strong>, prétendez être le <strong>Gobelin</strong> ! Lorsqu'il ne vous reste aucun autre recours, c'est un excellent plan de secours pour effrayer l'équipe bonne et la dissuader de vous exécuter, au moins pour un jour ou deux.
 </p>
+
 
 ##  <span style="color:#d45b5b;">Combattre le Gobelin</span>
 <hr>
@@ -151,7 +154,7 @@ L'avantage pour un vrai <strong>Gobelin</strong>, c'est que si tout le monde en 
 <br><br>
 • Si un joueur se prétend <strong>Gobelin</strong> et que vous n'êtes pas sûr qu'il le soit réellement, ne l'exécutez pas ! C'est trop risqué. Du moins pour l'instant...
 <br><br>
-• Utilisez toutes les informations à votre disposition pour faire la différence entre les vraies et les fausses déclarations de <strong>Gobelin</strong> : la <strong>Voyante</strong>, la <a href="../tb_roles/merceniare.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a>, le <a href="../sv_roles/charmeurdeserpent.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Charmeur de serpents</a> ou l' <a href="../bmr_roles/exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a>, peuvent tous grandement vous aider à décider s'il faut tenter l'exécution.
+• Utilisez toutes les informations à votre disposition pour faire la différence entre les vraies et les fausses déclarations de <strong>Gobelin</strong> : la <a href="../tb_roles/gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a>, la <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>, la <a href="../tb_roles/merceniare.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a>, le <a href="../sv_roles/charmeurdeserpent.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Charmeur de serpents</a> ou l' <a href="../bmr_roles/exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a>, peuvent tous grandement vous aider à décider s'il faut tenter l'exécution.
 <br><br>
 • Rappelez-vous que la capacité du <strong>Gobelin</strong> ne fonctionne que s'il se déclare publiquement comme tel avant d'être exécuté. Si votre nominé ne prétend pas être le <strong>Gobelin</strong> à ce moment-là, vous n'avez pas à vous soucier d'un risque de victoire du <strong>Gobelin</strong>.
 <br><br>
@@ -181,8 +184,11 @@ Cela fonctionne particulièrement bien si vous obtenez de superbes informations 
 On croise les doigts. Si vous exécutez quelqu'un qui prétend être le <strong>Gobelin</strong> et que la partie continue, c'est qu'il ne l'était pas ! Tout le groupe sait maintenant quelque chose d'utile ! Hourra !
 </p>
 
+
+
 ## 🧞 <span style="color:#d45b5b;">Jinxes liés</span>
 <hr>
+
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:00px;">
   <li>
@@ -192,10 +198,11 @@ On croise les doigts. Si vous exécutez quelqu'un qui prétend être le <strong>
   </li>
   <li>
     <img src="../images/Icon_plaguedoctor.png" alt="Docteur de Peste" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/plaguedoctor.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Docteur de Peste</a> :  
+    <a href="../roles_experimentaux/plaguedoctor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Docteur de Peste</a> :  
     Si le <strong>Conteur </strong> acquiert la capacité du <strong>Gobelin</strong>, un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> l'obtient et l'apprend.
   </li>
 </ul>
+
 
 <hr class="explication">	
 
