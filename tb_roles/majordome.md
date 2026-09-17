@@ -73,10 +73,11 @@ image: /images/Icon_butler.png
 
 
 ##  <span style="color:blue">Résumé</span>
-
 <hr class="villageois">
 
-**« Chaque nuit, choisissez un joueur (sauf vous-même). Le lendemain, vous pouvez voter uniquement si ce joueur vote. »**  
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
+« Chaque nuit, choisissez un joueur (sauf vous-même). Le lendemain, vous pouvez voter uniquement si ce joueur vote. »
+</p>
 
 <p class="botc-flavour-text dropcap">
 LE MAJORDOME ne peut voter que si son Maître vote.
@@ -141,7 +142,7 @@ Si le Majordome vote par erreur, comptez tout de même son vote. <br> Sinon, le 
   <strong>Lorsque vous jouez le Majordome,</strong> il y a quelques éléments à garder en tête :
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
 
   <li style="margin-bottom:14px;">
     Le joueur que vous choisissez comme votre “Maître” est très important.<br>
@@ -198,7 +199,7 @@ Si le Majordome vote par erreur, comptez tout de même son vote. <br> Sinon, le 
 
 ---
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
   <strong>Lorsque vous bluffez le Majordome,</strong> il y a quelques éléments à garder en tête:
 </p>
 
@@ -251,9 +252,9 @@ Si le Majordome vote par erreur, comptez tout de même son vote. <br> Sinon, le 
 <hr class="explication">
 
 
-## 🧞 <span style="color:#d4a76a">Jinxes liés</span>
+## 🧞 <span style="color:blue">Jinxes liés</span>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:00px;">
 
   <li>
     🧞
@@ -273,8 +274,8 @@ Si le Majordome vote par erreur, comptez tout de même son vote. <br> Sinon, le 
 <hr class="explication">
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
-  <li> <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li> <a href="../etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Marginaux</a></li>
+<li> <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a></li>
+<li> <a href="../trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
+<li> <a href="../etrangers.html" style="color:blue; font-weight:bold; text-decoration:none;">Catégorie : Marginaux</a></li>
 </ul>
 
