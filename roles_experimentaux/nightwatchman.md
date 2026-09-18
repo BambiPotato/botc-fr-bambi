@@ -82,7 +82,7 @@ Le Veilleur de nuit est connu d’un seul joueur.
 <hr>
 
 <p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
-Instructions au Conteur :
+Instructions au Conteur 
 </p>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
@@ -127,7 +127,7 @@ Instructions au Conteur :
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
 • <strong>Lorsque vous bluffez en tant que Veilleur de nuit, il y a plusieurs choses à garder à l'esprit.</strong>
 <br><br>
-• <strong>Le Veilleur de nuit est un rôle difficile à bluffer,</strong> principalement parce qu'il nécessite une excellente coordination entre deux joueurs maléfiques. Contrairement à la <a href="../tb_roles/lavandière.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> ou l'<a href="../tb_roles/bibliothecaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Archiviste</a>, vous ne pouvez pas simplement prétendre être ce <strong>rôle</strong>, donner votre information sur le <strong>rôle</strong> de votre coéquipier maléfique et espérer qu'il joue le jeu. <br> Le <strong>Veilleur de nuit</strong> fonctionne à l'envers : c'est LUI qui devra affirmer qu'il connaît VOTRE <strong>rôle</strong>. Cela signifie généralement que vous devez tous les deux planifier cela à l'avance, ce qui demande une certaine complicité.
+• <strong>Le Veilleur de nuit est un rôle difficile à bluffer,</strong> principalement parce qu'il nécessite une excellente coordination entre deux joueurs maléfiques. Contrairement à la <a href="../tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> ou l'<a href="../tb_roles/bibliothecaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Archiviste</a>, vous ne pouvez pas simplement prétendre être ce <strong>rôle</strong>, donner votre information sur le <strong>rôle</strong> de votre coéquipier maléfique et espérer qu'il joue le jeu. <br> Le <strong>Veilleur de nuit</strong> fonctionne à l'envers : c'est LUI qui devra affirmer qu'il connaît VOTRE <strong>rôle</strong>. Cela signifie généralement que vous devez tous les deux planifier cela à l'avance, ce qui demande une certaine complicité.
 <br><br>
 • <strong>La façon la plus simple de prétendre être le Veilleur de nuit est de jouer le jeu avec un coéquipier maléfique</strong> lorsque celui-ci affirme que vous êtes le <strong>Veilleur de nuit</strong>, plutôt que de prendre l'initiative. Les vrais <strong>Veilleurs de nuit</strong> attendent généralement d'avoir utilisé leur capacité avant de révéler leur <strong>rôle</strong> au groupe.
 <br><br>
