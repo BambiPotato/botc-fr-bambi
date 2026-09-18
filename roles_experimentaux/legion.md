@@ -30,7 +30,7 @@ image: /images/Icon_legion.png
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
-    <a href="/demon.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>
+    <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>
   </li>
   <li>
   <strong>Nom original :</strong>
@@ -206,7 +206,7 @@ Alex, qui rassemble deux votes contre lui, dont un venant d’un joueur bon, est
 
 <li>
 <img src="../images/Icon_engineer.png" alt="Ingénieur" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-<a href="../experimentaux_roles/engineer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ingénieur</a> :  
+<a href="../roles_experimentaux/engineer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ingénieur</a> :  
 Si une <strong>Légion</strong> est créée en cours de partie,  
 tous les joueurs maléfiques deviennent des <strong>Légions</strong>.  
 Si une <strong>Légion</strong> est déjà en jeu,  
@@ -225,7 +225,7 @@ le <strong>Chapelier</strong> n’a pas de capacité.
 
  <li>
  <img src="../images/Icon_magician.png" alt="Magicien" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
- <a href="../experimentaux_roles/magician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Magicien</a> : 
+ <a href="../roles_experimentaux/magician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Magicien</a> : 
  Si le <strong>Magicien</strong> est en jeu, pendant l’étape des informations du Démon, les Légions se réveillent en groupes séparés. 
  Chaque groupe apprend quels joueurs sont bons, mais n’apprend pas qui est le <strong>Magicien</strong>.  
  </li>
