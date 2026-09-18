@@ -108,9 +108,9 @@ Vous devrez peut-être tuer un ou deux Sbires pendant la nuit avec la capacité 
 <hr>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
-• L’ <a href="../tb_roles/empoisnoneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>  et la <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a> se réveillent. 
+• L’ <a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>  et la <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a> se réveillent. 
 Ils se montrent du doigt, puis se désignent eux-mêmes, puis finalement s’accordent sur la <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a>, qui reçoit le jeton Timonstre. La nuit suivante, ils choisissent tous les deux de confier la garde du Timonstre à 
-l’ <a href="../tb_roles/empoisnoneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> .
+l’ <a href="../tb_roles/empoisononeur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> .
 </p>
 
 ##  <span style="color:#d45b5b;">Conseils & Astuces</span>
