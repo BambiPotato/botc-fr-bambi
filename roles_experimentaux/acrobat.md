@@ -23,10 +23,6 @@ image: /images/Icon_acrobat.png
 </div>
 
 
-<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-« Mesdames et messieurs, accrochez-vous bien à vos chapeaux, <br> car je vais défier les lois mêmes de la gravité et danser dans les airs, <br> une merveille d’agilité et d’audace, <br> pour votre plus grand plaisir et votre émerveillement !  »
-</p>
-
 <hr class="villageois">
 
 ## <span style="color:#4ea3ff;">Informations</span>
@@ -48,6 +44,13 @@ image: /images/Icon_acrobat.png
   <li><strong>Révélé :</strong> 24 mai 2020</li>
 </ul>
 
+
+
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Mesdames et messieurs, accrochez-vous bien à vos chapeaux, <br> car je vais défier les lois mêmes de la gravité et danser dans les airs, <br> une merveille d’agilité et d’audace, <br> pour votre plus grand plaisir et votre émerveillement !  »
+</p>
+
+
 <hr class="villageois">
 
 <!-- APPARAÎT DANS -->
@@ -55,17 +58,16 @@ image: /images/Icon_acrobat.png
   <a href="../experimentaux.html" style="text-decoration:none;">
     <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:30px;">🎠 Apparaît dans : The Carousel Expérimental</span>
+    <span style="color:#e0b97a; font-weight:bold; font-size:30px;">🎠 Apparaît dans : Carousel rôle expérimental</span>
   </a>
 </div>
 
 
 
 <h2 style="color:#4ea3ff;">Résumé</h2>
+<hr class="villageois">
 
----
-
-<p style="color:#f5f5f5; font-size:23px; line-height:1.7; font-weight:bold; margin:0;">
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
 « Chaque nuit*, choisissez un joueur : s’il est ou devient ivre ou empoisonné cette nuit, vous mourez. »
 </p>
 
