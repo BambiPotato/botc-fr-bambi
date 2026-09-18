@@ -45,7 +45,7 @@ image: images/Icon_lordoftyphon.png
 </ul>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-« Dans les recoins sombres et oubliés du cosmos,<br> là où les étoiles murmurent des secrets au néant, <br> se cache une vérité si profonde que <br> les esprits mortels perdent la raison à sa simple évocation »
+« Dans les recoins sombres et oubliés du cosmos,<br> là où les étoiles murmurent des secrets au néant, <br> se cache une vérité si profonde que les esprits <br> mortels perdent la raison à sa simple évocation »
 </p>
 
 <hr class="sbire">
@@ -109,11 +109,11 @@ Le Seigneur de Typhon se rendort.
 <div class="botc-note">
   <p style="margin:0 0 10px 0;">
     <strong>ℹ️ Conseils aux Conteurs et Conteuses :</strong><br>
-    <strong>La <a href="../tv_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a>  et l'<a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionnee</a></strong>
+    <strong>La <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a>  et l'<a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionnee</a></strong>
   </p>
   <p style="margin:0 0 10px 0;">
     L'intention derrière le fait d'être faussement enregistrée ou détectée est que ces capacités ne prennent pas effet avant la fin de la mise en place de la partie.<br>
-    Lors des parties de test, il a été conclu que ce n'est jamais amusant pour les joueurs d'avoir l'<a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionnee</a> ou la <a href="../tv_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a>  faussement enregistrées pendant la mise en place  pour se retrouver respectivement en dehors ou à l'intérieur de la ligne.
+    Lors des parties de test, il a été conclu que ce n'est jamais amusant pour les joueurs d'avoir l'<a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionnee</a> ou la <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a>  faussement enregistrées pendant la mise en place  pour se retrouver respectivement en dehors ou à l'intérieur de la ligne.
   </p>
   <p style="margin:0;">
     ⛔️ Ne le faites pas !
