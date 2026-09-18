@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Mezepheles
+description: "Lors de votre 1re nuit, vous apprenez un mot secret. Le 1er joueur bon qui dit ce mot devient maléfique cette nuit."
+image: /images/Icon_mezepheles.png
 ---
 
 <p align="left">
@@ -8,6 +10,8 @@ title: Mezepheles
     <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
+
+<hr class="explication">
 
 <!-- Mezepheles -->
 
@@ -19,23 +23,7 @@ title: Mezepheles
   </a>
 </div>
 
-<!-- APPARAÎT DANS -->
-<div style="text-align:center; margin: 20px 0%;">
-  <a href="../experimentaux.html" style="text-decoration:none;">
-    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
-    <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
-  </a>
-</div>
-
-#  <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Mezepheles</span>
-
-<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Ce qui vient du cœur touche le cœur des autres…  
-  et peut parfois le faire basculer. »
-</p>
-
----
+<hr class="sbire">
 
 ##  <span style="color:#d45b5b;">Informations</span>
 
@@ -44,394 +32,150 @@ title: Mezepheles
     <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>
   </li>
   <li>
-  <strong>Nom original :</strong>
-  <a href="https://wiki.bloodontheclocktower.com/Mezepheles"
-     target="_blank"
-     rel="noopener noreferrer"
-     style="color:#d45b5b; font-weight:bold; text-decoration:none;">
-    Mezepheles
-  </a>
-</li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Mezepheles"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+      Mezepheles
+    </a>
+  </li>
   <li><strong>Artiste :</strong> Caitlin Murphy</li>
   <li><strong>Révélé :</strong> 4 mars 2021</li>
 </ul>
 
----
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Ce qui vient du cœur pliera le cœur des autres à vos désirs. »
+</p>
+
+<hr class="sbire">
+
+<!-- APPARAÎT DANS -->
+<div style="text-align:center; margin: 20px 0%;">
+  <a href="../experimentaux.html" style="text-decoration:none;">
+    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : Carrousel rôle expérimental</span>
+  </a>
+</div>
 
 ##  <span style="color:#d45b5b;">Résumé</span>
+<hr class="sbire">
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Vous commencez en connaissant un mot secret.  
-  Le premier joueur bon qui prononce ce mot devient maléfique cette nuit-là. »</strong>
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
+« Lors de votre 1re nuit, vous apprenez un mot secret. Le 1er joueur bon qui dit ce mot devient maléfique cette nuit. »
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Mezepheles</strong> propose aux joueurs et joueuses du Bien une tentation :  
-rester dans la lumière… ou basculer volontairement du côté maléfique.
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+ Le Mezepheles peut permettre à un joueur bon de devenir maléfique… ou non.
 </p>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Lors de la première nuit, le <strong>Mezepheles</strong> apprend un <strong>mot secret</strong> choisi par les Conteurs et conteuses.</li>
-
-  <li>Si un joueur bon prononce ce mot, en public ou en privé,  
-      ce joueur devient <strong>maléfique</strong> cette nuit-là.  
-      Les Conteurs et conteuses doivent entendre ce joueur dire réellement le mot  
-      pour qu’il change de camp.</li>
-
-  <li>Le <strong>Mezepheles</strong> n’apprend pas si quelqu’un est devenu maléfique.  
-      Le joueur bon, lui, apprend qu’il est devenu maléfique,  
-      mais seulement la nuit où cela se produit.</li>
-
-  <li>Si, au moment où le joueur doit devenir maléfique,  
-      le <strong>Mezepheles</strong> est sobre et en bonne santé,  
-      alors ce joueur devient maléfique <strong>même si</strong>  
-      le <strong>Mezepheles</strong> était ivre ou empoisonné  
-      au moment où le mot a été prononcé.</li>
-
-  <li>Si le <strong>Mezepheles</strong> est ivre ou empoisonné  
-      la nuit où un joueur devrait devenir maléfique,  
-      ce joueur reste bon,  
-      et le <strong>Mezepheles</strong> a tout de même « utilisé sa capacité » :  
-      il ne pourra plus rendre un joueur maléfique ensuite.</li>
-
-</ul>
-
----
+  
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• La première nuit, le Conteur apprend un mot secret au Mezepheles.
+<br><br>
+• Si un joueur bon prononce ce mot, soit publiquement, soit en privé, il devient maléfique cette nuit-là. Le Conteur doit entendre ce joueur prononcer le mot pour le rendre maléfique.
+<br><br>
+• Le Mezepheles n'apprend pas si un joueur devient maléfique. Le joueur bon apprend s'il devient maléfique, mais uniquement la nuit venue.
+<br><br>
+• Si le Mezepheles est sobre et sain cette nuit-là, le joueur bon devient maléfique, même si le Mezepheles était ivre ou empoisonné lorsque le joueur bon a prononcé le mot secret. Si le Mezepheles est ivre ou empoisonné la nuit où un joueur doit devenir maléfique, le joueur reste bon. Le Mezepheles a <strong>« utilisé sa capacité »</strong> et ne peut pas rendre un joueur maléfique plus tard.
+</p>
 
 ##  <span style="color:#d45b5b;">Comment Conter</span>
+<hr>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Pour préparer le jeu, écrivez un seul mot sur une feuille de papier,  
-un téléphone ou un autre appareil.
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Instructions au Conteur 
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Lors de la mise en place, écrivez un seul mot sur un morceau de papier ou sur un téléphone. Lors de la première nuit, réveillez le Mezepheles, montrez-lui ce mot. Ensuite, le Mezepheles se rendort.
+<br><br>
+• La première fois que vous entendez un joueur bon prononcer le mot secret, marquez-le du jeton <strong>« Devient maléfique »</strong>.
+<br><br>
+• La nuit, si un joueur est marqué du jeton <strong>« Devient maléfique »</strong>, réveillez-le. Montrez la tuile <strong>« Vous êtes »</strong>, puis pointez le pouce vers le bas. Ce joueur se rendort. Retournez son jeton de rôle à l’envers. (Cela indique qu’il est désormais maléfique.) <strong>Le Mezepheles perd sa capacité</strong> — marquez-le du jeton <strong>« Sans capacité »</strong> et retirez son jeton de nuit de la fiche de nuit.
+</p>
 
-  <li>Avant la partie, choisissez un <strong>mot unique</strong> :
-      <ul style="margin-left:20px;">
-        <li>idéalement un mot très inhabituel,  
-            que personne ne dira par accident ;</li>
-        <li>vous pouvez même inventer un mot.</li>
-      </ul>
-  </li>
-
-  <li>Lors de la première nuit :
-      <ul style="margin-left:20px;">
-        <li>réveillez le <strong>Mezepheles</strong> ;</li>
-        <li>montrez-lui le mot écrit (sur papier, téléphone, etc.) ;</li>
-        <li>rendormez-le.</li>
-      </ul>
-  </li>
-
-  <li>La première fois que vous entendez un <strong>joueur bon</strong> prononcer le mot :
-      <ul style="margin-left:20px;">
-        <li>marquez ce joueur avec le rappel <strong>DEVIENT MALÉFIQUE</strong> (TURNS EVIL) dans le grimoire ;</li>
-        <li>ne dites rien au groupe pour l’instant.</li>
-      </ul>
-  </li>
-
-  <li>Chaque nuit, si un joueur est marqué <strong>DEVIENT MALÉFIQUE</strong> :
-      <ul style="margin-left:20px;">
-        <li>réveillez ce joueur ;</li>
-        <li>montrez-lui le jeton d’info « VOUS ÊTES »,  
-            puis faites un pouce vers le bas pour indiquer qu’il est désormais maléfique ;</li>
-        <li>rendormez-le ;</li>
-        <li>retournez son jeton de rôle face cachée (ou à l’envers) pour marquer qu’il est maintenant maléfique.</li>
-      </ul>
-  </li>
-
-  <li>Une fois qu’un joueur est devenu maléfique :
-      <ul style="margin-left:20px;">
-        <li>le <strong>Mezepheles</strong> perd sa capacité ;</li>
-        <li>marquez-le avec le rappel <strong>SANS CAPACITÉ</strong> (NO ABILITY) ;</li>
-        <li>retirez son symbole de la feuille de nuit  
-            pour qu’il n’agisse plus ensuite.</li>
-      </ul>
-  </li>
-
-  <li>Si, au moment où un joueur devrait devenir maléfique,  
-      le <strong>Mezepheles</strong> est ivre ou empoisonné (par exemple à cause d’un  
-      <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a>  
-      ou d’un <a href="../bmr_roles/courtier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisan</a>) :
-      <ul style="margin-left:20px;">
-        <li>le joueur reste bon ;</li>
-        <li>mais vous considérez que le <strong>Mezepheles</strong> a tout de même utilisé sa capacité  
-            et ne peut plus jamais faire basculer quelqu’un d’autre.</li>
-      </ul>
-  </li>
-
-</ul>
-
----
+<div class="botc-note">
+Choisissez un mot inhabituel qui ne risque pas d’être prononcé accidentellement. Vous pouvez même en inventer un. La partie intéressante est la prise de risque du Mezepheles lorsqu’il tente de convaincre un joueur bon de devenir maléfique ; ce n’est pas le changement d’équipe inattendu du joueur bon.
+</div>
 
 ##  <span style="color:#d45b5b;">Exemples</span>
+<hr>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Mezepheles</strong> dit au  
-<a href="../sv_roles/barbier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Barbier</a>  
-que le mot secret est « Farfadet ».  
-Le <a href="../sv_roles/barbier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Barbier</a> déclare en public :  
-« Ça me rappelle le conte où la fille du meunier doit deviner le nom de Farfadet. »  
-Le <a href="../sv_roles/barbier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Barbier</a> devient maléfique cette nuit-là.
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Le Mezepheles dit au <a href="../sv_roles/barbier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Barbier</a> que le mot secret est <strong>« Oustroupistache »</strong>. Le <a href="../sv_roles/barbier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Barbier</a> déclare publiquement : <em>« Oui, j’ai un chat à la maison, il s’appelle Oustroupistache, comme dans le conte. »</em> Le <a href="../sv_roles/barbier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Barbier</a> devient maléfique cette nuit-là.
+<br><br>
+• Le Mezepheles révèle le mot secret au <a href="../tb_roles/maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a>. Le <a href="../tb_roles/maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a>, qui veut rester bon, dit à tout le groupe qui est le Mezepheles.
+<br><br>
+• Le Mezepheles dit secrètement au <a href="../roles_experimentaux/noble.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Noble</a> le mot secret : <strong>« Constantinople »</strong>. Le <a href="../roles_experimentaux/noble.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Noble</a> rend visite au Conteur et lui dit <strong>« Constantinople »</strong> en privé. Cette nuit-là, le <a href="../bmr_roles/courtier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisan</a> rend le Mezepheles ivre. Le <a href="../roles_experimentaux/noble.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Noble</a> reste un joueur bon.
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Mezepheles</strong> révèle le mot secret au  
-<a href="../tb_roles/maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a>.  
-Le <a href="../tb_roles/maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a>, décidé à rester du côté du Bien,  
-annonce au groupe qui est le <strong>Mezepheles</strong>  
-sans jamais prononcer le mot.
+##  <span style="color:#d45b5b;">Conseils & Astuces</span>
+<hr>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• <strong>Assurez-vous d'avoir bien entendu ou lu le mot secret !</strong> Demandez confirmation au Conteur si vous avez un doute. Il serait particulièrement embarrassant de convaincre un joueur bon de rejoindre le mal, de lui faire dire un mauvais mot, puis de voir que le changement d'alignement n'a pas lieu. Il risque de vous poser quelques questions très inconfortables par la suite.
+<br><br>
+• <strong>Choisissez un joueur bon susceptible de vouloir devenir maléfique.</strong> Si vous avez déjà joué avec certains joueurs du groupe, vous devriez avoir une bonne idée de ceux qui aiment jouer les <strong>rôles</strong> maléfiques. Ces joueurs seront plus enclins à accepter. Si vous parvenez à organiser une conversation privée avec eux, dites-leur simplement le mot secret et révélez-leur que vous êtes le <strong>Mezepheles</strong>. Avec un peu de chance, ils diront ce mot publiquement plus tard dans la journée (pour que le Conteur l'entende) ou le murmureront en privé au Conteur.
+<br><br>
+• <strong>Ciblez un rôle bon qui a de bonnes raisons de vouloir changer de camp.</strong> Une <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> ou une <a href="../tb_roles/gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a> qui n'a pas encore d'informations fiables peut avoir l'impression que le mal est en train de gagner, et sera donc plus encline à tourner sa veste. Certains <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a> comme la <a href="../sv_roles/dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a> ou le <a href="../sv_roles/maladroit.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maladroit</a> peuvent craindre que leur capacité ne nuise trop à l'équipe du bien. En privé, donnez-leur le mot secret et votre identité. Si vous avez choisi la bonne personne, elle prononcera très probablement le mot.
+<br><br>
+• <strong>Évitez les joueurs réfractaires au mal.</strong> Si vous savez qu'un joueur adore jouer pour le bien et déteste la pression liée au bluff dans l'équipe du mal, il est trop risqué de lui révéler que vous êtes le <strong>Mezepheles</strong>. Abstenez-vous.
+<br><br>
+• <strong>Évitez les rôles bons qui obtiennent d'excellentes informations ou qui possèdent encore une capacité puissante.</strong> Un <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a> qui apprend de nouveaux joueurs chaque nuit, un <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> qui a déjà protégé un joueur du Démon ou une <a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a> qui n'a pas encore utilisé sa capacité seront moins tentés de devenir maléfiques, car ils se sentent très utiles à leur équipe.
+<br><br>
+• <strong>N'attendez pas trop longtemps pour aborder un joueur bon.</strong> Le premier jour, l'équipe du bien a moins d'informations : les joueurs sont plus confus et plus susceptibles de vouloir changer d'équipe. Plus la partie avance et plus le bien accumule d'indices, moins ils auront envie de rejoindre le mal (ce qui reviendrait à rejoindre le camp perdant). De plus, si vous mourez avant d'utiliser votre capacité, elle sera perdue. La meilleure façon de garantir son utilisation est de s'en servir tôt.
+<br><br>
+• <strong>Au lieu d'une révélation directe en privé, tentez d'amener un joueur bon à dire le mot secret par piégage.</strong> En répétant continuellement le mot secret à voix haute dans des discussions publiques, un joueur bon pourrait le répéter naturellement en vous répondant. Par exemple, si le mot est « pastèque » et que vous dites : <em>« J'ai mangé tellement de pastèque récemment. Quelqu'un d'autre aime la pastèque ? »</em>, un joueur pourrait répondre : <em>« Oui, j'aime aussi la pastèque. »</em> Attention toutefois : ces conversations peuvent sembler forcées et le bien pourrait comprendre votre manœuvre. Le Conteur étant encouragé à choisir un mot inhabituel voire très étrange, la stratégie est risquée. De plus, le Conteur doit entendre le joueur prononcer le mot : ce dernier devra peut-être le répéter plusieurs fois pour qu'il soit comptabilisé.
+<br><br>
+• <strong>Faites attention aux personnes risquant d'être exécutées aujourd'hui.</strong> Même si un joueur bon a dit le mot secret (et que le Conteur l'a remarqué), ce joueur ne deviendra maléfique que cette nuit. Si vous mourez par exécution aujourd'hui, vous n'aurez plus de capacité ce soir et le joueur restera bon. Il est alors certain qu'il vous dénoncera comme <strong>Mezepheles</strong> le lendemain — et connaître l'identité d'un <strong>Sbire</strong> peut suffire à faire gagner le bien. Si vous pensez être exécuté aujourd'hui, abstenez-vous d'utiliser votre capacité.
+<br><br>
+• <strong>Si vous avez un moyen d'échapper à l'exécution (avec la présence d'un <a href="../roles_experimentaux/leviathan.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Léviathan</a> ou d'un <a href="../bmr_roles/avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a>), vous pouvez vous révéler publiquement en tant que Mezepheles.</strong> Révélez votre <strong>rôle</strong> à tout le village et organisez des « entretiens » avec les joueurs bons désireux de tourner leur veste. Tant que l'un d'eux n'a pas réellement changé d'alignement, ils seront tous suspectés par le bien et leurs informations publiques seront discréditées. Pour encore plus d'audace, vous pouvez même annoncer le mot secret à haute voix : ce peut être le vrai mot, ou une fausse piste pour faire croire qu'un joueur est devenu maléfique alors qu'il n'en est rien. Cela sème le doute et la paranoïa, même si cela vous expose directement.
+<br><br>
+• <strong>S'il n'y a pas de Mezepheles en jeu, prétendez qu'un Mezepheles vous a approché et vous a donné le mot secret.</strong> Soit vous passerez pour un joueur bon héroïque ayant refusé de céder au mal (désignez un joueur crédible dans le <strong>rôle</strong> du <strong>Mezepheles</strong>, bon ou maléfique), soit vous passerez pour un joueur devenu maléfique (mais au moins vous n'êtes pas le Démon, donc pas prioritaire à exécuter). Attention : cela vous met en conflit direct avec le joueur accusé. S'il est confirmé bon, vous serez en grande difficulté. De plus, certains joueurs n'aiment pas les dynamiques d'accusation directe : adaptez-vous à votre table.
+<br><br>
+• <strong>Multipliez les entretiens privés et donnez de faux mots secrets à plein de joueurs différents.</strong> Cela vous fera exécuter si ce n'est pas le dernier jour (le bien exécutant rarement un <strong>Sbire</strong> le jour final), mais cela bloquera totalement la circulation des informations au sein du bien pendant un moment. Ce n'est pas la stratégie ultime, mais cela peut vous sauver la mise si vous êtes au dos au mur ! ;)
+<br><br>
+• <strong>Si vous êtes certain qu'un joueur a rejoint votre camp, révélez-lui l'identité de tous les joueurs maléfiques, y compris le Démon.</strong> Vous gagnez ainsi un vote supplémentaire pour exécuter les bons et éviter qu'il ne vote accidentellement contre son propre Démon.
+<br><br>
+• <strong>Testez la fidélité d'un joueur bon en lui donnant d'abord un FAUX mot secret en privé.</strong> S'il feint d'avoir dit le mot au Conteur, prétend être devenu maléfique et vous demande aussitôt l'identité des autres joueurs maléfiques, vous saurez qu'il ment. Donnez-lui une fausse identité pour le Démon. Si au contraire le joueur revient vers vous en expliquant qu'il a essayé mais que rien ne s'est passé, dites-lui que vous testiez simplement sa loyauté et donnez-lui le VRAI mot secret.
+<br><br>
+• <strong>Avant d'utiliser votre capacité, répétez régulièrement au village que vous pensez que le mal est en train de gagner.</strong> Les joueurs bons qui perdent espoir sont beaucoup plus faciles à corrompre.
 </p>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Mezepheles</strong> dit en privé au  
-<a href="../roles_experimentaux/noble.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Noble</a>  
-que le mot secret est « Constantinople ».  
-Le <a href="../roles_experimentaux/noble.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Noble</a> va voir les Conteurs et conteuses en aparté  
-et prononce clairement « Constantinople ».  
-Cette nuit-là, le  
-<a href="../bmr_roles/courtier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisan</a>  
-rend le <strong>Mezepheles</strong> ivre.  
-Le <a href="../roles_experimentaux/noble.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Noble</a> reste bon,  
-et le <strong>Mezepheles</strong> a perdu sa capacité pour rien.
-</p>
-
----
-
-##  <span style="color:#d45b5b;">Astuces & Conseils</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Assurez-vous d’avoir bien compris et retenu le mot secret.  
-      Si vous n’êtes pas certain, demandez discrètement confirmation au Conteur ou à la Conteuse.  
-      Convaincre un joueur bon de basculer,  
-      pour qu’il prononce un mot incorrect et reste bon,  
-      vous fera perdre sa confiance… et potentiellement la partie.</li>
-
-  <li>Choisissez un joueur bon susceptible d’accepter de devenir maléfique.  
-      Si vous connaissez les habitudes de votre groupe,  
-      vous savez qui aime jouer du côté du Mal.  
-      En privé, vous pouvez lui dire :  
-      « Je suis le Mezepheles, voici le mot secret. »  
-      Il pourra ensuite soit le dire en public,  
-      soit aller le prononcer en aparté aux Conteurs et conteuses.</li>
-
-  <li>Ciblez des rôles qui ont une <strong>bonne raison</strong> de changer de camp.  
-      Par exemple :
-      <ul style="margin-left:20px;">
-        <li>une <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>  
-            ou un <a href="../tb_roles/gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a>  
-            qui n’ont pas encore d’information solide ;</li>
-        <li>des Étrangers comme la  
-            <a href="../sv_roles/dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a>  
-            ou la <a href="../sv_roles/maladroit.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maladroit</a>,  
-            qui craignent de nuire au Bien.</li>
-      </ul>
-      Ces personnages peuvent envisager de rejoindre le camp maléfique  
-      si vous leur faites une offre convaincante.</li>
-
-  <li>Évitez les joueurs qui ne voudront <strong>jamais</strong> être maléfiques :  
-      ceux qui détestent bluffer ou qui jouent toujours très loyaux au Bien.  
-      Leur révéler que vous êtes le <strong>Mezepheles</strong>  
-      ne fera que vous exposer pour rien.</li>
-
-  <li>Évitez aussi les personnages bons qui :
-      <ul style="margin-left:20px;">
-        <li>reçoivent de très bonnes informations (par exemple un  
-            <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a>  
-            aux résultats cohérents) ;</li>
-        <li>ou n’ont pas encore utilisé une capacité très puissante  
-            (par exemple un <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a>  
-            qui a déjà protégé quelqu’un,  
-            ou un <a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a>  
-            qui n’a pas encore tiré).</li>
-      </ul>
-      Ces personnages se sentent utiles au Bien  
-      et ne voudront probablement pas trahir leur équipe.</li>
-
-  <li>N’attendez pas trop pour agir.  
-      Le premier jour, le Bien est désorienté,  
-      donc plus susceptible d’envisager de passer du côté du Mal.  
-      Plus la partie avance, plus le Bien accumule des infos et de l’espoir,  
-      et moins les joueurs voudront « rejoindre l’équipe perdante ».</li>
-
-  <li>Vous pouvez aussi essayer de piéger les gens en public :  
-      répétez souvent le mot secret dans la conversation,  
-      en racontant une anecdote ou en posant une question étrange autour de ce mot.  
-      Quelqu’un pourrait le répéter machinalement.  
-      Mais :
-      <ul style="margin-left:20px;">
-        <li>le mot est censé être très inhabituel,  
-            donc cette stratégie peut paraître forcée ;</li>
-        <li>et les Conteurs et conteuses doivent entendre clairement  
-            le joueur bon prononcer ce mot.</li>
-      </ul>
-  </li>
-
-  <li>Faites attention à votre propre exécution.  
-      Un joueur qui a prononcé le mot ne devient maléfique que <strong>la nuit</strong>.  
-      Si vous êtes exécuté le même jour,  
-      vous n’aurez plus de capacité la nuit  
-      et cette personne restera bonne.  
-      Le lendemain, elle pourra vous dénoncer comme <strong>Mezepheles</strong>,  
-      ce qui peut suffire au Bien pour gagner.</li>
-
-  <li>Si vous avez un moyen fiable d’éviter l’exécution  
-      (par exemple la présence d’un  
-      <a href="../roles_experimentaux/leviathan.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Léviathan</a>  
-      ou d’un <a href="../bmr_roles/avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a>),  
-      vous pouvez révéler publiquement que vous êtes le <strong>Mezepheles</strong> :  
-      organisez des « entretiens » avec les joueurs bons  
-      qui souhaiteraient peut-être devenir maléfiques,  
-      faites-les patienter, et semez la méfiance.  
-      Tant que personne ne bascule,  
-      tous les suspects potentiels seront moins crédibles.</li>
-
-  <li>S’il n’y a aucun <strong>Mezepheles</strong> en jeu,  
-      quelqu’un peut prétendre avoir été approché par lui  
-      et avoir refusé de dire le mot.  
-      Cela crée un conflit direct entre cette personne  
-      et le joueur qu’elle accuse d’être le Mezepheles,  
-      ce qui peut semer le chaos dans le village.</li>
-
-  <li>Vous pouvez aussi avoir de nombreuses conversations privées  
-      et donner des <strong>faux mots</strong> à plusieurs joueurs bons.  
-      Vous finirez probablement exécuté,  
-      mais le Bien aura perdu un temps précieux,  
-      ne sachant plus qui a pu réellement basculer ou non.</li>
-
-  <li>Si vous êtes presque sûr qu’un joueur a effectivement tourné maléfique,  
-      révélez-lui l’identité de tous les joueurs maléfiques,  
-      y compris le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.  
-      Vous gagnez ainsi un vote de plus  
-      pour éliminer les bons rôles.</li>
-
-  <li>Pour tester la sincérité d’un joueur,  
-      vous pouvez lui donner un <strong>faux mot secret</strong>.  
-      S’il prétend ensuite être devenu maléfique  
-      et réclame les noms des autres joueurs du Mal,  
-      vous savez qu’il ment :  
-      donnez-lui de fausses informations  
-      pour qu’il accuse la mauvaise personne.</li>
-
-  <li>Avant d’utiliser réellement votre capacité,  
-      répétez souvent que vous pensez que le Mal est en train de gagner.  
-      Des joueurs bons découragés  
-      seront beaucoup plus tentés de changer de camp.</li>
-
-</ul>
-
----
 
 ##  <span style="color:#d45b5b;">Combattre le Mezepheles</span>
+<hr>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• <strong>Si le Mezepheles vous approche, vous révèle son identité et promet de vous donner le mot secret si vous acceptez de tourner votre veste : jouez le jeu.</strong> Dès que la discussion prend fin, révélez l'identité du <strong>Mezepheles</strong> au village. Plus aucun joueur bon ne voudra changer de camp et la capacité du <strong>Mezepheles</strong> sera neutralisée.
+<br><br>
+• <strong>S'il vous donne directement le mot secret, faites comprendre au groupe quel est ce mot (sans le prononcer explicitement) et dénoncez le Mezepheles.</strong> Si le bien connaît le mot et le joueur maléfique, personne ne prendra le risque de changer de camp.
+<br><br>
+• <strong>S'il vous donne le mot secret, acceptez de le dire au Conteur... puis n'en faites rien.</strong> Allez voir le Conteur en privé sans prononcer le mot. Le lendemain, prétendez auprès du <strong>Mezepheles</strong> que vous avez rejoint le mal comme prévu et demandez-lui l'identité de ses coéquipiers. S'il tombe dans le panneau et vous livre le Démon alors que vous êtes toujours bon... la victoire est offerte sur un plateau pour le bien.
+<br><br>
+• <strong>Soyez attentif aux joueurs qui utilisent des mots étranges de façon répétée ou qui cherchent des sujets hors-propos.</strong> Si un joueur parle obstinément de son voyage à « Tombouctou » ou de son cours sur la « non-linéarité », vous avez peut-être trouvé le <strong>Mezepheles</strong>. Exécutez-le avant qu'il ne convertisse quelqu'un.
+<br><br>
+• <strong>Surveillez les joueurs qui enchaînent les entretiens individuels plusieurs jours de suite.</strong> Il peut s'agir de joueurs ayant échangé un mot secret un jour, puis s'étant recroisés le lendemain pour vérifier si la capacité a fonctionné.
+<br><br>
+• <strong>Si vous êtes un rôle capable de rendre les joueurs maléfiques ivres ou empoisonnés — comme le <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a>, le <a href="../bmr_roles/courtisan.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisan</a>, le <a href="../roles_experimentaux/preacher.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Prédicateur</a> ou l' <a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> — gardez le secret.</strong> <br> Si le <strong>Mezepheles</strong> tente de convertir un joueur alors qu'il est empoisonné ou ivre, la conversion échouera, le <strong>Mezepheles</strong> pensera avoir gâché sa capacité unique et le joueur bon connaîtra son identité. Un avantage colossal pour le bien ! S'il se sait empoisonné, il attendra d'être guéri pour agir.
+<br><br>
+• <strong>Utilisez intelligemment votre vote fantôme.</strong> Avec un <strong>Mezepheles</strong> sur le script, l'équipe du mal gagne potentiellement un vote et le bien en perd un. Encouragez les morts à économiser leur vote, en particulier dans les petites parties où chaque voix compte.
+<br><br>
+• <strong>Incitez tout le monde à partager ses informations et à se dévoiler le plus tôt possible.</strong> Plus les informations circulent, plus il sera facile de prouver que le bien mène la danse. Un joueur bon qui pense que son camp va gagner ne cherchera pas à rejoindre l'équipe adverse. Peu importe que ce soit vrai ou non : le moral doit être au plus haut !
+<br><br>
+• <strong>Rappelez à tous qu'un Mezepheles peut être en jeu et que si personne ne cède, le bien conserve l'avantage.</strong> Si tout le monde s'engage à rester bon, la partie se déroule normalement et un <strong>Sbire</strong> se retrouve virtuellement sans capacité.
+<br><br>
+• <strong>Si les informations d'un joueur deviennent contradictoires d'un jour à l'autre, vous avez peut-être trouvé le bon converti.</strong> De même si les informations des autres à son sujet deviennent incohérentes. Ne mettez pas cela systématiquement sur le compte de l'ivresse ou du poison. Si vous l'avez identifié, gardez-le en vie le plus longtemps possible : laissez-le mentir, il n'est pas le Démon. Concentrez vos exécutions ailleurs.
+<br><br>
+• <strong>Si tout échoue et que la partie semble perdue, allez trouver le Mezepheles.</strong> <em>« Si tu ne peux pas les battre, rejoins-les. »</em> Si vous êtes désespéré, audacieux ou simplement chaotique, annoncez haut et fort votre intention de rejoindre le mal dans l'espoir de capter l'attention du <strong>Mezepheles</strong>.
+<br><br>
+• <strong>Si un Mezepheles vous propose de tourner votre veste mais que vous hésitez, négociez :</strong> dites-lui que vous attendez de voir quel camp prend l'avantage avant de décider, et qu'en échange vous ne révélerai pas son identité. Un <strong>Mezepheles</strong> acceptera souvent un marché qui ne l'expose pas immédiatement. Cela vous place en position de force : vous connaissez un <strong>Sbire</strong> et pourrez choisir votre camp au moment opportun.
+</p>
 
-  <li>Si le <strong>Mezepheles</strong> vous approche  
-      et vous dit qui il est,  
-      en suggérant qu’il peut vous donner le mot secret  
-      si vous acceptez de devenir maléfique :
-      <ul style="margin-left:20px;">
-        <li>jouez le jeu en privé ;</li>
-        <li>puis annoncez au groupe qui est le <strong>Mezepheles</strong>.  
-            Tant que personne ne prononce le mot,  
-            sa capacité reste sans effet.</li>
-      </ul>
-  </li>
+<hr class="explication">
 
-  <li>Si le <strong>Mezepheles</strong> vous donne le mot secret,  
-      donnez des <strong>indices</strong> au groupe sur ce mot  
-      sans le prononcer (champ lexical, nombre de syllabes, etc.),  
-      et révélez l’identité du <strong>Mezepheles</strong>.  
-      Plus le groupe en sait,  
-      moins les joueurs bons auront envie de basculer.</li>
-
-  <li>Vous pouvez aussi piéger le <strong>Mezepheles</strong> :  
-      si vous avez reçu le mot secret,  
-      dites-lui plus tard que vous l’avez prononcé aux Conteurs et conteuses…  
-      sans l’avoir fait.  
-      Le lendemain, prétendez être devenu maléfique  
-      et demandez-lui qui sont les autres joueurs du Mal.  
-      S’il vous les révèle,  
-      vous obtenez gratuitement la liste complète de l’équipe maléfique.</li>
-
-  <li>Repérez les joueurs qui emploient des mots très étranges ou répétés  
-      dans les conversations publiques,  
-      ou qui insistent pour parler de sujets hors-sujet  
-      (« mon voyage à Timbuktu », « mon cours sur la non-linéarité », etc.).  
-      Vous tenez peut-être le <strong>Mezepheles</strong>.  
-      Exécutez-le avant qu’il ne corrompe quelqu’un.</li>
-
-  <li>Observez aussi les duos de joueurs  
-      qui ont plusieurs conversations privées sur plusieurs jours :  
-      ils ont peut-être parlé du mot secret,  
-      puis vérifié plus tard si la capacité du <strong>Mezepheles</strong> a fonctionné.</li>
-
-  <li>Si vous pouvez rendre des joueurs maléfiques ivres ou empoisonnés  
-      (avec un <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a>,  
-      un <a href="../bmr_roles/courtier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisan</a>,  
-      un <a href="../roles_experimentaux/preacher.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Prédicateur</a>  
-      ou un <a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a>),  
-      restez discret sur votre identité.  
-      Si le <strong>Mezepheles</strong> croit être sobre  
-      mais qu’il ne l’est pas au moment crucial,  
-      sa capacité échoue et il ne pourra plus jamais corrompre quelqu’un.</li>
-
-  <li>Rappelez à tous les joueurs morts  
-      d’utiliser leur vote avec soin.  
-      Avec un <strong>Mezepheles</strong> sur le script,  
-      l’équipe du Mal a potentiellement un vote de plus,  
-      et le Bien un de moins.  
-      Chaque vote fantôme devient encore plus précieux.</li>
-
-  <li>Encouragez les joueurs à partager leurs informations  
-      le plus tôt possible dans la partie.  
-      Plus le Bien a une vision claire  
-      et la sensation que « le Bien est en train de gagner »,  
-      moins les joueurs auront envie de rejoindre le camp du Mal  
-      via le <strong>Mezepheles</strong>.</li>
-
-  <li>Expliquez au groupe que si <strong>personne</strong>  
-      n’accepte de devenir maléfique,  
-      alors le <strong>Mezepheles</strong> n’est qu’un Sbire sans capacité.  
-      C’est un avantage non négligeable :  
-      un Minion « gaspillé » est une bonne nouvelle pour le Bien.</li>
-
-  <li>Si les informations d’un joueur  
-      commencent à se contredire fortement d’un jour à l’autre,  
-      ne supposez pas seulement l’ivresse ou l’empoisonnement :  
-      il peut s’agir d’un joueur bon  
-      qui a secrètement basculé du côté du Mal.  
-      Dans ce cas, garder ce joueur en vie  
-      peut être plus intéressant que l’exécuter :  
-      ce n’est pas le <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
-      et il peut involontairement révéler ses alliés.</li>
-
-  <li>Enfin, si vous pensez que la partie est perdue,  
-      vous pouvez toujours aller parler au <strong>Mezepheles</strong>  
-      et négocier :  
-      « Si on ne peut pas les battre… rejoignons-les. »  
-      Dans certaines parties très sociales,  
-      ce genre de volte-face assumée  
-      peut créer une fin de partie mémorable.</li>
-
-  <li>Si un <strong>Mezepheles</strong> vous propose de devenir maléfique  
-      mais que vous hésitez,  
-      vous pouvez lui proposer un pacte :  
-      vous attendez quelques jours pour voir qui semble gagner  
-      avant de décider,  
-      et en échange vous ne révélerez pas son identité tout de suite.  
-      Cela vous place en position de force :  
-      vous savez qui est un Sbire  
-      et vous pourrez décider plus tard de quel côté vous battre.</li>
-
-</ul>
-
----
-
-<p style="text-align:left; font-size:18px; margin-top:20px;">
-   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Sbires</a><br>
-   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+<p style="text-align:left; font-size:18px; margin-top:00px;">
+• <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+• <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Sbires</a><br>
+• <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
