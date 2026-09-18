@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Marionnette
+description: "Vous pensez que vous êtes un rôle bon. Le Démon sait qui vous êtes. [Vous êtes voisin du Démon]"
+image: /images/Icon_marionette.png
 ---
 
 <p align="left">
@@ -8,6 +10,8 @@ title: Marionnette
     <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
+
+<hr class="explication">
 
 <!-- Marionnette -->
 
@@ -19,22 +23,7 @@ title: Marionnette
   </a>
 </div>
 
-<!-- APPARAÎT DANS -->
-<div style="text-align:center; margin: 20px 0%;">
-  <a href="../experimentaux.html" style="text-decoration:none;">
-    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
-    <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
-  </a>
-</div>
-
-#  <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Marionnette</span>
-
-<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Des mots, des mots. C’est tout ce que nous avons pour nous guider. »
-</p>
-
----
+<hr class="sbire">
 
 ##  <span style="color:#d45b5b;">Informations</span>
 
@@ -55,453 +44,195 @@ title: Marionnette
   <li><strong>Révélé :</strong> 15 avril 2021</li>
 </ul>
 
----
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Des mots, des paroles. <br> C’est tout ce que nous avons pour tenir. »
+</p>
+
+<hr class="sbire">
+
+<!-- APPARAÎT DANS -->
+<div style="text-align:center; margin: 20px 0%;">
+  <a href="../experimentaux.html" style="text-decoration:none;">
+    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans :  Carrousel rôle expérimental</span>
+  </a>
+</div>
 
 ##  <span style="color:#d45b5b;">Résumé</span>
+<hr class="sbire">
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Vous pensez être un rôle bon, mais vous ne l’êtes pas.  
-  Le <span style="color:#d45b5b; font-weight:bold;">Démon</span> sait qui vous êtes. [Vous êtes voisin du Démon.] »</strong>
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
+« Vous pensez que vous êtes un rôle bon. Le Démon sait qui vous êtes. [Vous êtes voisin du Démon] »
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-La <strong>Marionnette</strong> ignore qu'elle est un Sbire.  
-Elle pense être un rôle bon, mais fonctionne en réalité comme une sorte d’<a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> maléfique.
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+La Marionnette ne sait pas qu'elle est un Sbire.
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• La Marionnette pioche soit un jeton Villageois, soit un jeton Marginal dans le sac, mais secrètement, elle est la Marionnette.
+<br><br>
+• La Marionnette est voisine du Démon. Aucun joueur ne doit être assis entre la Marionnette et le Démon.
+<br><br>
+• Le Démon sait quel joueur est la Marionnette.
+<br><br>
+• La première nuit, la Marionnette ne se réveille pas pour apprendre les autres joueurs maléfiques, et les autres Sbires n'apprennent pas la Marionnette.
+<br><br>
+• La capacité de joueur bon que la Marionnette pense avoir ne fonctionne pas, mais le Conteur fait comme si. Cela fonctionne de la même façon que l’ <a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>.
+<br><br>
+• La Marionnette apparaît comme maléfique et comme Sbire.
+</p>
 
-  <li>La <strong>Marionnette</strong> tire un jeton de  
-      <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>  
-      ou d’un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a> dans le sac,  
-      mais est secrètement la <strong>Marionnette</strong>.</li>
+##  <span style="color:#d45b5b;">Comment Conter</span>
+<hr>
 
-  <li>La <strong>Marionnette</strong> est assise juste à côté du  
-      <span style="color:#d45b5b; font-weight:bold;">Démon</span> :  
-      aucun joueur ne se trouve entre eux.</li>
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Instructions au Conteur 
+</p>
 
-  <li>Le <span style="color:#d45b5b; font-weight:bold;">Démon</span> sait quel joueur est la <strong>Marionnette</strong>.</li>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Lors de la mise en place, avant de mettre les jetons dans le sac, retirez le jeton Marionnette et ajoutez n'importe quel jeton Villageois.
+<br><br>
+• S'il y a trois Sbires en jeu, retirez un autre jeton Sbire et ajoutez un autre jeton Villageois. Lors de la première nuit, échangez le jeton de rôle d'un joueur bon avec un jeton Sbire pas en jeu. 
+Réveillez ce joueur. Montrez-lui la tuile <strong>« Vous êtes »</strong> et son jeton Sbire, puis à nouveau la tuile <strong>« Vous êtes »</strong> en pointant le pouce vers le bas. 
+Ensuite, il se rendort. Ce joueur est maintenant un Sbire maléfique. (Cela garantit qu'il n'y a qu'un seul jeton Sbire dans le sac, afin qu'au moins un joueur bon soit voisin du Démon.)
+<br><br>
+• Lors de la première nuit, identifiez un joueur bon voisin du Démon avec le jeton <strong>« Est la Marionnette »</strong>. Réveillez le Démon. Désignez le joueur marqué <strong>« Est la Marionnette »</strong> et montrez le jeton Marionnette. Le Démon se rendort.
+<br><br>
+• Traitez la Marionnette comme si elle était ivre. Elle se réveille quand le rôle de joueur bon doit se réveiller, peut obtenir de fausses informations, ne se réveille pas lors de l’étape Info des Sbires, etc.
+</p>
 
-  <li>La première nuit, la <strong>Marionnette</strong> ne se réveille pas  
-      pour apprendre les autres joueurs maléfiques,  
-      et les autres <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>  
-      n’apprennent pas qui est la <strong>Marionnette</strong>.</li>
+##  <span style="color:#d45b5b;">Exemples</span>
+<hr>
 
-  <li>La capacité du rôle bon que la <strong>Marionnette</strong> pense avoir ne fonctionne pas réellement.  
-      Les Conteurs et conteuses font semblant qu’elle fonctionne normalement.  
-      C’est exactement comme si ce joueur était un  
-      <a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>… mais maléfique.</li>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Marianna est la Marionnette, mais elle pense qu'elle est le <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a>. Elle se réveille chaque nuit pour apprendre qui est mort ce jour-là, mais les informations qu’elle reçoit sont souvent fausses. 
+À mi-partie, le Démon lui dit qu'elle est la Marionnette.
+<br><br>
+• Lachlan est le Démon. Il dit à Sarah qu'elle est la Marionnette. Lachlan ment. Il n'y a pas de Marionnette.
+<br><br>
+• Abdallah est le Démon. Abdallah dit à Ben qu'il est la Marionnette. Ben pense qu'il est la <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>, mais ce n'est pas le cas. Ben ne croit pas Abdallah et le fait exécuter. Le Bien gagne.
+</p>
 
-  <li>La <strong>Marionnette</strong> s’enregistre comme <strong>maléfique</strong> et comme un <strong>Sbire</strong>  
-      pour les rôles qui détectent l’alignement ou le type,  
-      comme la <a href="../sv_roles/couturiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Couturière</a>  
-      ou le <a href="../sv_roles/crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur</a>.</li>
+##  <span style="color:#d45b5b;">Conseils & Astuces</span>
+<hr>
 
-</ul>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• <strong>En tant que Marionnette, vous êtes essentiellement un <a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> maléfique</strong> : non seulement vous n'avez pas la capacité que vous pensez avoir, mais vous n'avez pas non plus l'alignement que vous pensez avoir ! La bonne nouvelle, c'est que de nombreuses techniques permettant de repérer un <a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> fonctionneront également pour une <strong>Marionnette</strong>. Si vos informations ne tiennent pas la route ou si votre capacité ne fonctionne pas alors qu'elle le devrait, vous pourriez être la <strong>Marionnette</strong> au lieu d'un joueur bon !
+<br><br>
+• <strong>Même si vous l'ignorez, votre alignement est maléfique</strong> et vous enregistrerez comme tel auprès de rôles comme la <a href="../sv_roles/couturiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Couturière</a> et le <a href="../sv_roles/crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur public</a>. Vous pouvez l'utiliser pour déterminer votre identité... mais le village le peut aussi, alors faites attention avant de demander à tort et à travers aux autres d'utiliser leurs capacités sur vous !
+<br><br>
+• <strong>Dans la plupart des cas, l'équipe du mal voudra vous faire savoir que vous devez travailler avec elle.</strong> Si l'un de vos voisins vous dit que vous êtes une <strong>Marionnette</strong>, prenez cela au sérieux : bien qu'il soit tout à fait possible qu'il vous mente, il pourrait aussi simplement vous mettre sur la voie de votre véritable identité, et si vous le dénoncez et que le mal perd, vous perdrez avec lui !
+<br><br>
+• <strong>Si vous suspectez d'être une Marionnette (parce que vos informations sont confuses ou qu'on vous l'a dit cash), ne le dites pas aux autres Villageois !</strong> Si vous avez raison et que le village vous croit, l'équipe du bien saura que le <strong>Démon</strong> est forcément l'un de vos voisins.
+<br><br>
+• <strong>Évitez de nommer ou de voter contre vos voisins</strong>, à moins que les preuves ne soient particulièrement accablantes. Si vous êtes la <strong>Marionnette</strong>, le <strong>Démon</strong> est obligatoirement l'un de vos voisins. Exécuter accidentellement votre <strong>Démon</strong> parce que vous ignoriez être maléfique serait vraiment dommage !
+<br><br>
+• <strong>Identifiez les types de Sbires en jeu.</strong> La <strong>Marionnette</strong> est par nature un <strong>Sbire</strong> secret et invisible, tandis que d'autres <strong>Sbires</strong> du script peuvent avoir un indice plus flagrant : confirmer l'un d'eux signifie aussi confirmer qu'il n'y a pas de <strong>Marionnette</strong> à craindre. Si vous êtes dans une partie à 8 joueurs (1 <strong>Sbire</strong>) et que vous venez de voir une mort causée par la <strong>Sorcière</strong>, vous n'êtes pas la <strong>Marionnette</strong> !
+<br><br>
+• <strong>Si vous êtes certain de savoir qui sont les Sbires, vous pouvez être sûr de ne pas être la Marionnette.</strong> Il n'y a qu'un nombre limité de <strong>Sbires</strong> dans la partie, donc même si vous ne savez pas quel rôle ils ont, confirmer QUI est le <strong>Sbire</strong> indiquera à tous les autres joueurs bons qu'ils ne sont pas une <strong>Marionnette</strong>.
+<br><br>
+• <strong>Chassez le Démon avec ardeur !</strong> Si vous êtes une <strong>Marionnette</strong>, le <strong>Démon</strong> est l'un de vos voisins. Si vous pouvez prouver que le <strong>Démon</strong> est assis ailleurs (par exemple un signe de la  <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>  à l'autre bout du cercle), vous savez que vous ne pouvez pas être la <strong>Marionnette</strong> ! (Et si vous ÊTES la <strong>Marionnette</strong>, cela détourne les soupçons de votre <strong>Démon</strong> : gagnant-gagnant !)
+<br><br>
+• <strong>Si vous craignez d'être une Marionnette mais que vos voisins refusent de s'ouvrir à vous, tentez de convaincre vos voisins qu'ils sont VOTRE Marionnette.</strong> Les joueurs maléfiques sauront que c'est faux, tandis que les joueurs bons devront se demander si vous dites la vérité et changeront de comportement. Cela peut vous donner un indice sur l'identité de vos alliés secrets... ou de vos voisins maléfiques.
+<br><br>
+• <strong>Si vous êtes convaincu d'être la Marionnette, votre rôle est de protéger votre Démon.</strong> Le village sait aussi que la <strong>Marionnette</strong> est une possibilité et guettera les indices de votre existence pour abattre votre <strong>Démon</strong>. Pour éviter les soupçons, modifiez vos informations pour qu'elles paraissent vraies : si vous pensez être un  <a href="../sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a>, assurez-vous de donner une affirmation vraie et une fausse chaque jour.
+<br><br>
+• <strong>En tant que Démon, la Marionnette est une responsabilité avec laquelle vous devez choisir comment interagir.</strong> Il est extrêmement avantageux de révéler sa véritable identité à une <strong>Marionnette</strong> dès que possible : cela lui permet d'agir selon son réel alignement, de vous protéger et d'éviter de vous révéler par inadvertance quand sa capacité dysfonctionne. Il peut aussi être utile de laisser la <strong>Marionnette</strong> dans l'ignorance — parfois, le joueur maléfique le plus redoutable est celui qui est sincèrement bon ! Si votre <strong>Marionnette</strong> a gagné la confiance du village, laissez-la mener la charge (loin de vous). Elle gagnera quand même à la fin, mais pas pour les raisons qu'elle croyait !
+<br><br>
+• <strong>Si vous êtes le Démon, rien ne vous empêche de dire à vos voisins sincèrement bons qu'ils sont votre Marionnette.</strong> Vous pouvez même le dire aux deux, en rassurant chacun sur le fait qu'il est la « vraie » <strong>Marionnette</strong> et que l'autre se fait duper ! Comme une <strong>Marionnette</strong> ignore son alignement, ces joueurs auront toujours intérêt à garder votre affirmation secrète et à chercher eux-mêmes s'ils sont dans votre équipe — un processus qui prendra du temps et les fera agir contre les intérêts du bien. Attention toutefois à leur colère s'ils démasquent le mensonge : ils se retourneront contre vous pour vous exécuter, alors prévoyez une porte de sortie !
+<br><br>
+• <strong>Si vous êtes un Sbire, dites à vos voisins bons qu'ils sont votre Marionnette !</strong> Vous récoltez tous les bénéfices de la confusion semée chez les bons sans le danger de perdre la partie par exécution si votre supercherie est découverte !
+<br><br>
+• <strong>Vous êtes bon mais avez un voisin peu coopératif ? Dites-lui qu'il est votre Marionnette !</strong> Pendant un temps au moins, la plupart des joueurs travailleront avec vous tout en essayant de démêler leur identité, et vous pouvez utiliser ce stratagème pour les pousser à partager des informations et participer à vos plans. Veillez juste à avouer la vérité avant la fin pour qu'ils sachent qu'ils doivent coopérer avec le bien pour l'emporter.
+</p>
 
----
+##  <span style="color:#d45b5b;">Combattre la Marionnette</span>
+<hr>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• <strong>De la même manière que vous chercheriez l'<a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> dans <a href="/trouble_brewing.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Trouble Brewing</a>, cherchez un joueur qui donne de fausses informations, même de manière convaincante.</strong> Si les informations d'un joueur ne s'accumulent pas correctement, vous avez peut-être trouvé la <strong>Marionnette</strong>. Par exemple, si un joueur se prétend  <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>  avec un « 0 », mais que vous suspectez l'un de ses voisins d'être maléfique, cet  <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>   est peut-être la <strong>Marionnette</strong>.
+<br><br>
+• <strong>Si un joueur se prétend Démon et affirme que vous êtes sa Marionnette, vous avez un problème.</strong> Êtes-vous la <strong>Marionnette</strong> ? Pas forcément. 
+Si vous pensez que ce joueur est bien le <strong>Démon</strong> et qu'une <strong>Marionnette</strong> est en jeu, parlez à l'autre voisin du <strong>Démon</strong> pour voir s'il ne serait pas la <strong>Marionnette</strong> à votre place ! Si vous pensez que ce joueur n'est pas le <strong>Démon</strong>, c'est très probablement un <strong>Sbire</strong>. Dans tous les cas, vous avez trouvé un joueur maléfique (ou un joueur bon qui doit arrêter de mentir). Si on vous dit que vous êtes la <strong>Marionnette</strong> mais que vous découvrez que c'est faux, vous avez pratiquement gagné la partie.
+<br><br>
+• <strong>Si vous êtes convaincu de ne pas être la Marionnette alors qu'on vous l'a affirmé, dites-le au groupe.</strong> Le village exécutera très probablement votre voisin : vous aurez alors tué soit un <strong>Démon</strong>, soit un <strong>Sbire</strong>, soit un joueur bon dont le bluff n'aidait pas beaucoup.
+<br><br>
+• <strong>Découvrez combien de joueurs se sont vus dire qu'ils étaient la Marionnette.</strong> S'il y en a plus d'un, il est très peu probable qu'une <strong>Marionnette</strong> soit réellement en jeu.
+<br><br>
+• <strong>Faites attention à vos voisins.</strong> Si vous pensez qu'aucun des deux n'est le <strong>Démon</strong> et que personne ne vous a dit que vous étiez la <strong>Marionnette</strong>, vous pouvez probablement ignorer sa présence en jeu. Tant que vous gardez vos voisins en vie lors du dernier jour, la présence d'une <strong>Marionnette</strong> n'est pas très inquiétante. Concentrez-vous sur la recherche des joueurs bons et du <strong>Démon</strong>.
+<br><br>
+• <strong>Si la Marionnette est sur le script, n'exécutez pas vos propres voisins.</strong> On ne sait jamais. Exécutez plutôt tous les autres joueurs si vous le pouvez.
+<br><br>
+• <strong>Si vous pensez que la Marionnette est en jeu mais que ce n'est pas vous, vous savez une chose cruciale : le Démon et le Sbire sont assis à côté l'un de l'autre.</strong> Tout comme si vous étiez le <a href="../tb_roles/chef.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a>  ou l' <a href="../sv_roles/clockmaker.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Horloger</a>, vous avez une information très précieuse. Partez du principe que deux joueurs maléfiques sont côte à côte et vérifiez si cela concorde avec le reste des informations. Si tout colle, vous avez probablement trouvé le duo maléfique. Si rien ne colle, il n'y a probablement pas de <strong>Marionnette</strong> en jeu.
+<br><br>
+• <strong>D'habitude, découvrir l'identité d'un Sbire est utile mais ne fait pas gagner le bien à coup sûr.</strong> Le dernier jour, apprendre qu'un joueur mort depuis longtemps était le <a href="../bmr_roles/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a>  aide, mais apprendre qu'il était la <strong>Marionnette</strong> est incroyablement puissant. Même si une <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a> a changé les rôles dans tous les sens ou qu'un <a href="../bmr_roles/pukka.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pukka</a> a faussé les informations, cette unique information — qu'un joueur précis était la <strong>Marionnette</strong> — suffit généralement à faire gagner le bien lorsqu'il ne reste que 3 survivants.
+<br><br>
+• <strong>Observez les joueurs qui étaient très bavards et enthousiastes à l'idée d'aider le bien pendant quelques jours, puis qui sont soudainement devenus silencieux.</strong> On leur a peut-être révélé qu'ils étaient la <strong>Marionnette</strong> au milieu de la partie, provoquant chez eux un effondrement mental complet ;)
+</p>
 
 ## 🧞 <span style="color:#d45b5b;">Jinxes liés</span>
+<hr>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:00px;">
   <li>
     <img src="../images/Icon_alchemist.png" alt="Alchimiste" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> :  
-    Une <strong>Marionnette-Alchimiste</strong> n’a pas de capacité de Marionnette,  
-    et une <strong>Marionnette</strong> est en jeu.
+    Un Alchimiste-Marionnette n'a pas la capacité de la <strong>Marionnette</strong> et la <strong>Marionnette</strong> est en jeu.
   </li>
-
   <li>
     <img src="../images/Icon_balloonist.png" alt="Aérostier" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/balloonist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aéronaute</a> :  
     Si la <strong>Marionnette</strong> pense être l’<a href="../sv_roles/balloonist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aéronaute</a>,  
-    un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a> supplémentaire a peut-être été ajouté lors de la mise en place.
+    un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a> a peut-être été ajouté lors de la préparation.
   </li>
-
   <li>
     <img src="../images/Icon_huntsman.png" alt="Chasseur" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/huntsman.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chasseur</a> :  
     Si la <strong>Marionnette</strong> pense être le  
     <a href="../roles_experimentaux/huntsman.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chasseur</a>,  
-    la <a href="../roles_experimentaux/damsel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Demoiselle</a>  
-    a été ajoutée lors de la mise en place.
+    la <a href="../roles_experimentaux/damsel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Demoiselle</a> 
+    a été ajoutée lors de la préparation.
   </li>
-
   <li>
     <img src="../images/Icon_kazali.png" alt="Kazali" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/kazali.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Kazali</a> :  
-    S’il doit y avoir une <strong>Marionnette</strong> en jeu,  
-    elle entre en jeu après le <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
-    et doit commencer comme son voisin ou sa voisine.
+    S'il devait y avoir une <strong>Marionnette</strong> en jeu, elle entre en jeu après le <strong>Démon</strong> et doit commencer comme étant son voisin.
   </li>
-
   <li>
     <img src="../images/Icon_lilmonsta.png" alt="Lil' Monsta" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/lilmonsta.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">P'tit Monstre</a> :  
-    S’il doit y avoir une <strong>Marionnette</strong> en jeu,  
-    elle entre en jeu après le <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
-    et doit commencer comme son voisin ou sa voisine.
+    <a href="../roles_experimentaux/lilmonsta.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Timonstre</a> :  
+    S'il devait y avoir une <strong>Marionnette</strong> en jeu, elle entre en jeu après le <strong>Démon</strong> et doit commencer comme étant son voisin.
   </li>
-
   <li>
     <img src="../images/Icon_magician.png" alt="Magicien" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/magician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Magicien</a> :  
-    Si le <a href="../roles_experimentaux/magician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Magicien</a> est en vie,  
-    le <span style="color:#d45b5b; font-weight:bold;">Démon</span> ne sait pas  
-    lequel de ses voisins est la <strong>Marionnette</strong>.
+    Si le <a href="../roles_experimentaux/magician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Magicien</a> est en vie, 
+    le <strong>Démon</strong> ne sait pas quel voisin est la <strong>Marionnette</strong>.
   </li>
-
   <li>
     <img src="../images/Icon_mathematician.png" alt="Mathématicien" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../sv_roles/mathematician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mathématicien</a> :  
     Le <a href="../sv_roles/mathematician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mathématicien</a>  
-    peut apprendre si la capacité supposée de la <strong>Marionnette</strong>  
-    a donné une information fausse ou n’a pas fonctionné correctement.
+    apprend si la capacité de la <strong>Marionnette</strong> a produit une fausse information ou a échoué à fonctionner correctement.
   </li>
-
   <li>
     <img src="../images/Icon_plaguedoctor.png" alt="Docteur de Peste" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/plaguedoctor.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Docteur de Peste</a> :  
-    Si les Conteurs et conteuses devraient gagner la capacité de <strong>Marionnette</strong>,  
-    un des voisins bons du <span style="color:#d45b5b; font-weight:bold;">Démon</span> devient la <strong>Marionnette</strong>.
+    <a href="../roles_experimentaux/plaguedoctor.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Docteur de Peste</a> : 
+    Si le Conteur devait obtenir la capacité de la <strong>Marionnette</strong>, l'un des voisins bons du <strong>Démon</strong> devient la <strong>Marionnette</strong>.
   </li>
-
   <li>
     <img src="../images/Icon_summoner.png" alt="Invocateur" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/summoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocateur</a> :  
-    S’il doit y avoir une <strong>Marionnette</strong> en jeu,  
-    elle entre en jeu après le <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
-    et doit commencer comme son voisin ou sa voisine.
+    <a href="../roles_experimentaux/summoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocatrice</a> :  
+    S'il devait y avoir une <strong>Marionnette</strong> en jeu, elle entre en jeu après le <strong>Démon</strong> et doit commencer comme étant son voisin.
   </li>
-
 </ul>
 
----
+<hr class="explication">
 
-##  <span style="color:#d45b5b;">Comment Conter</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Secrètement, vous mettez en place la <strong>Marionnette</strong>  
-comme un <a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> maléfique voisin du <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
-sans que les bons rôles ni les Sbires la voient comme telle.
-</p>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Lors de la mise en place, avant de mettre les jetons dans le sac :
-      <ul style="margin-left:20px;">
-        <li>retirez le jeton <strong>Marionnette</strong> du sac ;</li>
-        <li>ajoutez à la place n'importe quel jeton de  
-            <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>.</li>
-      </ul>
-  </li>
-
-  <li>S’il doit y avoir <strong>trois Sbires</strong> en jeu :
-      <ul style="margin-left:20px;">
-        <li>retirez un autre jeton de Sbire du sac ;</li>
-        <li>ajoutez un second jeton de  
-            <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> ;</li>
-        <li>la première nuit, échangez le jeton d’un joueur bon  
-            avec un jeton de Sbire non utilisé :  
-            réveillez ce joueur,  
-            montrez-lui le jeton d’info « VOUS ÊTES »,  
-            puis le jeton de Sbire choisi,  
-            puis de nouveau « VOUS ÊTES » suivi d’un pouce vers le bas (maléfique),  
-            puis rendormez-le.  
-            Ce joueur devient maintenant un Sbire maléfique.</li>
-      </ul>
-      <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:20px;">
-      Cela garantit qu’il n’y a qu’un seul jeton de Sbire dans le sac,  
-      et donc qu’au moins un joueur bon sera voisin du <span style="color:#d45b5b; font-weight:bold;">Démon</span>.
-      </p>
-  </li>
-
-  <li>La première nuit, choisissez un joueur bon assis à côté du  
-      <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
-      et marquez-le avec le rappel <strong>EST LA MARIONNETTE</strong>.</li>
-
-  <li>Réveillez le <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
-      pointez le joueur marqué <strong>EST LA MARIONNETTE</strong>,  
-      puis montrez le jeton de <strong>Marionnette</strong>.  
-      Rendormez le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.</li>
-
-  <li>Pendant la partie, traitez la <strong>Marionnette</strong> comme si elle était ivre :
-      <ul style="margin-left:20px;">
-        <li>elle se réveille quand son rôle « bon » devrait se réveiller ;</li>
-        <li>vous pouvez lui donner de fausses informations,  
-            ou lui faire rater sa capacité ;</li>
-        <li>elle ne se réveille pas lors de l’étape  
-            « Infos des Sbires » de la première nuit,  
-            et n’est pas annoncée comme Sbire aux autres joueurs maléfiques.</li>
-      </ul>
-  </li>
-
-</ul>
-
----
-
-##  <span style="color:#d45b5b;">Exemples</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Mélanie est la <strong>Marionnette</strong>,  
-mais pense être le  
-<a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a>.  
-Elle se réveille chaque nuit pour apprendre qui a été exécuté dans la journée,  
-mais ses informations sont souvent fausses.  
-Au milieu de la partie, le <span style="color:#d45b5b; font-weight:bold;">Démon</span> lui révèle  
-qu’elle est en réalité la <strong>Marionnette</strong>.
-</p>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Pierre est le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.  
-Il dit à Sarah qu’elle est la <strong>Marionnette</strong>.  
-Pierre ment : il n’y a en réalité aucune <strong>Marionnette</strong> en jeu.
-</p>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <span style="color:#d45b5b; font-weight:bold;">Démon</span> dit à Benoit qu’il est la <strong>Marionnette</strong>.  
-Benoit pense être la <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>,  
-mais ce n’est pas le cas.  
-Benoit ne croit pas le <span style="color:#d45b5b; font-weight:bold;">Démon</span> et le fait exécuter.  
-Le Bien gagne.
-</p>
-
----
-
-##  <span style="color:#d45b5b;">Astuces & Conseils</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Comme <strong>Marionnette</strong>, vous êtes en quelque sorte un  
-      <a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> maléfique :  
-      vous n’avez ni la capacité que vous pensez avoir,  
-      ni l’alignement que vous pensez avoir.  
-      Les techniques pour repérer un Ivrogne fonctionnent donc souvent aussi  
-      pour repérer une <strong>Marionnette</strong>.  
-      Si vos infos ne collent pas, ou si votre capacité « rate » quand elle devrait marcher,  
-      vous pourriez être une <strong>Marionnette</strong> plutôt qu’un rôle bon.</li><br>
-
-  <li>Même si vous n’en avez pas conscience,  
-      votre alignement est <strong>maléfique</strong>  
-      et vous vous enregistrez comme tel pour des rôles comme la  
-      <a href="../sv_roles/couturiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Couturière</a>  
-      ou le <a href="../sv_roles/crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur</a>.  
-      Vous pouvez utiliser ces capacités pour éclaircir votre identité…  
-      mais le village peut faire pareil,  
-      alors ne suppliez pas trop ouvertement qu’on vous cible !</li><br>
-
-  <li>Dans la plupart des cas, l’équipe du Mal voudra vous révéler la vérité.  
-      Si l’un de vos voisins vous dit que vous êtes une <strong>Marionnette</strong>,  
-      prenez-le au sérieux :  
-      il peut mentir… mais peut aussi vous donner la clé de votre vraie identité.  
-      Si vous le démasquez et que le Mal perd,  
-      vous perdez avec lui.</li><br>
-
-  <li>Si vous suspectez être une <strong>Marionnette</strong>  
-      (à cause d’informations incohérentes,  
-      ou parce qu’on vous l’a dit clairement),  
-      évitez d’annoncer ce doute aux autres rôles bons :  
-      s’ils vous croient, le Bien saura que le  
-      <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
-      est forcément l’un de vos voisins.</li><br>
-
-  <li>Évitez de nommer ou de voter contre vos voisins,  
-      sauf si les preuves sont vraiment accablantes.  
-      Si vous êtes une <strong>Marionnette</strong>,  
-      le <span style="color:#d45b5b; font-weight:bold;">Démon</span> est forcément assis à votre gauche ou à votre droite.  
-      Exécuter votre propre <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
-      simplement parce que vous ignoriez être maléfique,  
-      c’est un peu dommage pour vous…</li><br>
-
-  <li>Cherchez quels types de Sbires sont en jeu.  
-      La <strong>Marionnette</strong> est un Sbire discret et invisible,  
-      tandis que d’autres Sbires sur le script  
-      peuvent laisser des traces évidentes.  
-      Confirmer la présence d’un  
-      <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a>  
-      ou d’un autre Sbire bien identifié  
-      peut suffire à prouver qu’il n’y a pas de <strong>Marionnette</strong> en jeu.</li><br>
-
-  <li>Si vous êtes certain·e de connaître les Sbires,  
-      vous savez aussi que vous n’êtes <strong>pas</strong> secrètement la <strong>Marionnette</strong>.  
-      Le nombre de Sbires est limité :  
-      si vous les avez tous trouvés, le reste des joueurs bons  
-      ne sont pas des Marionnettes.</li><br>
-
-  <li>Chassez le <span style="color:#d45b5b; font-weight:bold;">Démon</span> avec enthousiasme !  
-      Si vous êtes une <strong>Marionnette</strong>,  
-      votre <span style="color:#d45b5b; font-weight:bold;">Démon</span> est l’un de vos voisins.  
-      Si vous arrivez à prouver que le <span style="color:#d45b5b; font-weight:bold;">Démon</span> est placé ailleurs  
-      (par exemple grâce à un ping de  
-      <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>  
-      à l’autre bout du cercle),  
-      alors vous savez que vous ne pouvez pas être la <strong>Marionnette</strong>.  
-      Et si vous l’êtes, vous détournez quand même les soupçons…  
-      loin de votre véritable <span style="color:#d45b5b; font-weight:bold;">Démon</span> !</li><br>
-
-  <li>Si vous craignez d’être la <strong>Marionnette</strong>  
-      mais que vos voisins refusent de parler,  
-      vous pouvez toujours essayer de leur dire que  
-      <strong>eux</strong> sont votre Marionnette.  
-      Un joueur maléfique saura que c’est faux,  
-      tandis qu’un joueur bon devra gérer ce doute  
-      et se comportera différemment.  
-      Cela peut révéler qui est votre voisin secret…  
-      ou qui est un allié maléfique potentiel.</li><br>
-
-  <li>Si vous êtes convaincu d’être la <strong>Marionnette</strong>,  
-      votre rôle est alors de protéger votre <span style="color:#d45b5b; font-weight:bold;">Démon</span>.  
-      Le village sait qu’une <strong>Marionnette</strong> est possible  
-      et cherchera à l’identifier pour remonter jusqu’au <span style="color:#d45b5b; font-weight:bold;">Démon</span>.  
-      Pour éviter cela, ajustez vos informations  
-      afin qu’elles semblent cohérentes :  
-      par exemple, si vous pensez être un  
-      <a href="../sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a>,  
-      assurez-vous que chaque jour, l’une de vos phrases soit vraie et l’autre fausse.</li><br>
-
-  <li>Si vous êtes le <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
-      vous devez décider comment gérer votre <strong>Marionnette</strong>.  
-      La prévenir très tôt lui permet d’agir en tant que maléfique,  
-      de vous protéger, et d’éviter de vous trahir  
-      lorsque sa capacité « déraille ».  
-      Mais garder une <strong>Marionnette</strong> dans l’ignorance  
-      peut aussi être redoutable :  
-      un joueur sincèrement persuadé d’être bon  
-      est parfois le meilleur allié du Mal.</li><br>
-
-  <li>En tant que <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
-      rien ne vous empêche de dire à vos deux voisins  
-      qu’ils sont votre <strong>Marionnette</strong>.  
-      Chacun pensera être la « vraie » Marionnette  
-      et que l’autre se fait manipuler.  
-      Comme une vraie <strong>Marionnette</strong> ne connaît pas son alignement,  
-      ces joueurs auront tout intérêt à garder le secret  
-      et à tester votre affirmation,  
-      ce qui les poussera à des comportements étranges  
-      et souvent contre-productifs pour le Bien.</li><br>
-
-  <li>En tant que Sbire, vous pouvez aussi dire à vos voisins bons  
-      qu’ils sont votre <strong>Marionnette</strong>.  
-      Vous profitez du chaos et de la confusion,  
-      sans risquer de faire perdre votre équipe  
-      si on vous exécute après avoir découvert le mensonge.</li><br>
-
-  <li>Si vous êtes bon ou bonne, mais que votre voisin est très peu coopératif,  
-      vous pouvez lui dire qu’il ou elle est votre <strong>Marionnette</strong>.  
-      La plupart des joueurs travailleront avec vous  
-      tant qu’ils explorent cette possibilité,  
-      ce qui peut vous permettre de récupérer des infos  
-      ou de les impliquer davantage.  
-      Pensez simplement à dire la vérité avant la fin,  
-      pour qu’ils puissent se rallier au Bien.</li>
-
-</ul>
-
----
-
-##  <span style="color:#d45b5b;">Combattre la Marionnette</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Comme pour l’<a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>  
-      dans <em>Trouble Brewing</em>,  
-      cherchez un joueur dont les informations sont fausses,  
-      même si elles sont présentées avec conviction.  
-      Par exemple, si quelqu’un revendique être l’  
-      <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>  
-      avec un « 0 », mais que vous suspectez fortement  
-      un de ses voisins d’être maléfique,  
-      cet « Empathique » pourrait bien être une <strong>Marionnette</strong>.</li><br>
-
-  <li>Si un joueur prétend être le <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
-      et affirme que <strong>vous</strong> êtes la <strong>Marionnette</strong>,  
-      vous avez un vrai problème :  
-      êtes-vous la <strong>Marionnette</strong> ?  
-      Peut-être pas.  
-      Si vous pensez que ce joueur est réellement le <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
-      et qu’une <strong>Marionnette</strong> est en jeu,  
-      discutez avec l’autre voisin du <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
-      pour voir si c’est plutôt lui ou elle la <strong>Marionnette</strong>.  
-      Si vous pensez que ce joueur n’est pas le <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
-      il est très probablement un Sbire.  
-      Dans tous les cas, vous avez trouvé un joueur maléfique  
-      (ou un bon joueur qui doit cesser de vous mentir).</li><br>
-
-  <li>Si vous êtes sûr de ne pas être la <strong>Marionnette</strong>,  
-      mais qu’on vous l’a affirmé, dites-le au groupe.  
-      Le village voudra probablement  
-      exécuter votre voisin ou voisine,  
-      ce qui peut signifier :  
-      <ul style="margin-left:20px;">
-        <li>un <span style="color:#d45b5b; font-weight:bold;">Démon</span> mort ;</li>
-        <li>un Sbire mort ;</li>
-        <li>ou un bon joueur mort…  
-            dont le bluff ne servait plus à grand-chose.</li><br>
-      </ul>
-  </li>
-
-  <li>Demandez combien de joueurs ont été déclarés « Marionnette ».  
-      S’il y en a plus d’un,  
-      il est assez probable qu’il n’y ait pas de véritable <strong>Marionnette</strong> en jeu.</li><br>
-
-  <li>Surveillez vos voisins.  
-      Si vous pensez qu’aucun des deux n’est le <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
-      et qu’aucun ne vous a affirmé que vous êtes la <strong>Marionnette</strong>,  
-      vous pouvez souvent mettre ce rôle de côté  
-      et jouer « normalement » :  
-      gardez vos voisins en vie jusqu’au dernier jour  
-      et concentrez-vous sur l’identification du  
-      <span style="color:#d45b5b; font-weight:bold;">Démon</span> ailleurs.</li><br>
-
-  <li>Si la <strong>Marionnette</strong> est sur le script,  
-      évitez d’exécuter vos propres voisins si possible :  
-      vous ne serez jamais totalement certain·e.  
-      Essayez d’exécuter d’abord tous les autres joueurs,  
-      ou de vous assurer qu’il existe d’autres meilleurs suspects.</li><br>
-
-  <li>Si vous pensez qu’une <strong>Marionnette</strong> est en jeu,  
-      mais que ce n’est pas vous,  
-      vous savez alors quelque chose de crucial :  
-      le <span style="color:#d45b5b; font-weight:bold;">Démon</span> et un Sbire sont assis côte à côte.  
-      Comme un <a href="../tb_roles/chef.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a>  
-      ou un <a href="../sv_roles/clockmaker.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Horloger</a>,  
-      vous disposez d’une info très structurante.  
-      Testez l’hypothèse « deux joueurs maléfiques voisins »  
-      avec les autres infos de la partie :  
-      si ça colle, vous avez probablement trouvé le duo maléfique ;  
-      si ça ne colle pas, il est possible  
-      qu’aucune <strong>Marionnette</strong> ne soit en jeu.</li><br>
-
-  <li>Normalement, découvrir un Sbire est utile,  
-      mais pas forcément décisif.  
-      Sur le dernier jour,  
-      apprendre qu’un joueur mort depuis longtemps  
-      était en fait le <a href="../bmr_roles/cerveau.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a>  
-      est intéressant,  
-      mais apprendre qu’il était la <strong>Marionnette</strong>  
-      est <strong>énormément</strong> plus fort :  
-      même si un <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a>  
-      a changé plusieurs rôles,  
-      ou qu’un <a href="../bmr_roles/pukka.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pukka</a>  
-      a rendu toutes les infos suspectes,  
-      le simple fait de savoir  
-      qu’un joueur précis était la <strong>Marionnette</strong>  
-      peut suffire à gagner la partie à 3 joueurs vivants.</li><br>
-
-  <li>Repérez les joueurs qui étaient très bavards  
-      et investis dans l’aide à recher les maléfiques début,  
-      puis qui deviennent soudainement silencieux.  
-      Il se peut qu’on leur ait révélé en cours de partie  
-      qu’ils étaient la <strong>Marionnette</strong>…  
-      et qu’ils aient eu un gros choc mental en essayant de tout recalculer.</li>
-
-</ul>
-
----
-
-<p style="text-align:left; font-size:18px; margin-top:20px;">
-   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Sbires</a><br>
-   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+<p style="text-align:left; font-size:18px; margin-top:00px;">
+• <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+• <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Sbires</a><br>
+• <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
