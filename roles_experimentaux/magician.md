@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Magicien
+description: "Le Démon pense que vous êtes un Sbire. Les Sbires pensent que vous êtes un Démon."
+image: /images/Icon_magician.png
 ---
 
 <p align="left">
@@ -8,6 +10,8 @@ title: Magicien
     <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
+
+<hr class="explication">
 
 <!-- Magicien -->
 
@@ -19,24 +23,7 @@ title: Magicien
   </a>
 </div>
 
-<!-- APPARAÎT DANS -->
-<div style="text-align:center; margin: 20px 0;">
-  <a href="../experimentaux.html" style="text-decoration:none;">
-    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
-    <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
-  </a>
-</div>
-
-#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Magicien</span>
-
-<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « 1... 2... Abra... 3... 4... Cadabra... *pouf !*  
-  Et comme vous pouvez le voir, mesdames et messieurs, le sac d’or du capitaine Farnsworth a disparu !  
-  Disparu ! Sans laisser de trace ! Merci, et bonne nuit ! »
-</p>
-
----
+<hr class="villageois">
 
 ##  <span style="color:#4ea3ff;">Informations</span>
 
@@ -57,255 +44,149 @@ title: Magicien
   <li><strong>Révélé :</strong> 3 juin 2021</li>
 </ul>
 
----
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+ « 1… 2… Abra… 3… 4… Cadabra… <Pouf !> <br> Et, sous vos yeux ébahis, Mesdames et Messieurs, <br> le sac plein d’or du Capitaine Farnsworth a disparu ! <br> Parti ! Sans une trace ! Merci, et bonsoir ! »
+</p>
+
+<hr class="villageois">
+
+<!-- APPARAÎT DANS -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../experimentaux.html" style="text-decoration:none;">
+    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans :  Carrousel rôle expérimental</span>
+  </a>
+</div>
 
 ##  <span style="color:#4ea3ff;">Résumé</span>
+<hr class="villageois">
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Le Démon pense que vous êtes un Sbire. Les Sbires pensent que vous êtes le Démon. »</strong>
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
+« Le Démon pense que vous êtes un Sbire. Les Sbires pensent que vous êtes un Démon. »
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Magicien</strong> embrouille les joueurs maléfiques sur qui est réellement maléfique ou non.  
-Le <span style="color:#d45b5b; font-weight:bold;">Démon</span> le prend pour un <span style="color:#d45b5b; font-weight:bold;">Sbire</span>,  
-et les <span style="color:#d45b5b; font-weight:bold;">Sbires</span> le prennent pour le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Le Magicien sème la confusion parmi les joueurs maléfiques au sujet de qui est maléfique, et qui ne l’est pas.
 </p>
 
-
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Au lieu d’indiquer clairement au camp du Mal qui est qui, le Magicien brouille les pistes :
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Lors de la première nuit, au lieu d'apprendre quel joueur est le Démon, les Sbires apprennent que deux joueurs — le Démon et le Magicien — sont le Démon.
+<br><br>
+• Lors de la première nuit, le Démon apprend que le joueur Magicien est l'un de ses Sbires.
+<br><br>
+• Le Magicien ne se réveille pas pour apprendre quoi que ce soit.
+<br><br>
+• Le Conteur peut désigner le Magicien et les joueurs maléfiques dans n'importe quel ordre, de telle sorte que les joueurs maléfiques ne sachent pas quel joueur est le Magicien.
+<br><br>
+• Si le  <a href="../roles_experimentaux/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Planteur de pavot</a>  meurt et que le Démon et les Sbires apprennent mutuellement qui ils sont en cours de partie, la capacité du Magicien s’exerce cette nuit-là, comme s’il s’agissait de la première nuit.
 </p>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>La première nuit, au lieu d’apprendre quel joueur est le <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
-      les <span style="color:#d45b5b; font-weight:bold;">Sbires</span> apprennent que deux joueurs sont le Démon :  
-      le vrai Démon et le Magicien.</li>
-
-  <li>La première nuit, le <span style="color:#d45b5b; font-weight:bold;">Démon</span> apprend que le Magicien est l’un de ses Sbires.</li>
-
-  <li>Le Magicien ne se réveille jamais pour apprendre quoi que ce soit : sa capacité agit en coulisses.</li>
-
-  <li>La conteuse peut montrer le Magicien et les joueurs maléfiques dans l’ordre de son choix,  
-      de sorte que le camp du Mal ne sache pas qui est le Magicien et qui est réellement le Démon.</li>
-
-  <li>Si le 
-      <a href="../roles_experimentaux/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cultivateur de pavot</a>  
-      meurt et que le <span style="color:#d45b5b; font-weight:bold;">Démon</span> et les <span style="color:#d45b5b; font-weight:bold;">Sbires</span>  
-      apprennent qui ils sont en cours de partie, la capacité du Magicien s’applique à cette nuit-là,  
-      comme si c’était la première nuit.</li>
-
-</ul>
-
----
-
-## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>
-    🧞 
-    <img src="../images/Icon_legion.png" alt="Légion" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> :  
-    Le Magicien se réveille avec les Légions et peut s’enregistrer comme maléfique.  
-    Les Légions savent qu’un Magicien est en jeu, mais ne savent pas quel joueur il s'agit.
-  </li>
-
-  <li>
-    🧞 
-    <img src="../images/Icon_lilmonsta.png" alt="P'tit Monstre" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/lilmonsta.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">P’tit Monstre</a> :  
-    Si le Magicien est en vie, la conteuse choisit quel <span style="color:#d45b5b; font-weight:bold;">Sbire</span> garde le P’tit Monstre.
-  </li>
-
-  <li>
-    🧞 
-    <img src="../images/Icon_marionette.png" alt="Marionnette" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/marionette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> :  
-    Si le Magicien est en vie, le <span style="color:#d45b5b; font-weight:bold;">Démon</span> ne sait pas lequel de ses voisins est la Marionnette.
-  </li>
-
-  <li>
-    🧞 
-    <img src="../images/Icon_spy.png" alt="Espion" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espion</a> :  
-    Quand l’Espion voit le Grimoire, les jetons de rôle du <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
-    et du Magicien sont retirés du Grimoire.
-  </li>
-
-  <li>
-    🧞 
-    <img src="../images/Icon_vizier.png" alt="Vizir" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="..//roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a> :  
-    Si le Vizir est en jeu, le Magicien n’a pas de capacité,  
-    mais il est immunisé contre la capacité du Vizir.
-  </li>
-
-  <li>
-    🧞 
-    <img src="../images/Icon_widow.png" alt="Veuve noire" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a> :  
-    Quand la Veuve noire voit le Grimoire, les jetons de rôle du <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
-    et du Magicien sont retirés du Grimoire.
-  </li>
-
-  <li>
-    🧞 
-    <img src="../images/Icon_wraith.png" alt="Wraith" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/wraith.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Spectre</a> :  
-    Après chaque exécution, le Magicien vivant peut désigner publiquement un joueur vivant comme étant le Spectre.  
-    En cas de bonne réponse, le <span style="color:#d45b5b; font-weight:bold;">Démon</span> doit choisir le Spectre cette nuit-là.
-  </li>
-
-</ul>
-
-
----
 
 ##  <span style="color:#4ea3ff;">Comment Conter</span>
+<hr>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-La première nuit, gérez les informations pour les Maléfiques en tenant compte du Magicien.
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Instructions au Conteur 
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Réveillez les <span style="color:#d45b5b; font-weight:bold;">Sbires</span>.  
-      Montrez-leur le jeton d’info <em>C'EST LE DÉMON</em>, puis pointez successivement le vrai 
-      <span style="color:#d45b5b; font-weight:bold;">Démon</span> et le Magicien.  
-      Rendormez les Sbires.</li>
-
-  <li>Réveillez ensuite le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.  
-      Montrez le jeton d’info <em>CE SONT TES SBIRES </em>, puis pointez tous les <span style="color:#d45b5b; font-weight:bold;">Sbires</span>  
-      ainsi que le Magicien.</li>
-
-  <li>Puis montrez au Démon le jeton d’info <em>CES RÔLES NE SONT PAS EN JEU </em>  
-      et trois jetons de rôles qui ne sont pas en jeu, comme d’habitude.  
-      Rendormez le Démon.</li>
-
-  <li>Vous faites cela à la place des étapes normales « Info Sbire » et « Info Démon » de la première nuit.</li>
-
-</ul>
-
----
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Lors de la première nuit, réveillez les Sbires. Montrez-leur la tuile <strong>« Voici le Démon »</strong>, puis désignez le Démon et le Magicien. Les Sbires se rendorment.
+<br><br>
+• Lors de la première nuit, réveillez le Démon. Montrez-lui la tuile <strong>« Voici vos Sbires »</strong>, puis désignez tous les Sbires et le Magicien. <br> Montrez la tuile <strong>« Ces rôles ne sont pas en jeu »</strong> et trois jetons de rôle. Le Démon se rendort. <br> Faites cela en lieu et place des étapes <strong>« Info des Sbires »</strong> et <strong>« Info du Démon »</strong>.
+</p>
 
 ##  <span style="color:#4ea3ff;">Exemples</span>
+<hr>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Les Sbires se réveillent et apprennent que soit la joueuse 
-<strong>Leïla</strong>, qui est 
-<a href="../roles_experimentaux/leviathan.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Léviathan</a>,  
-soit le joueur <strong>Marc</strong>, qui est Magicien, est le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.  
-Le Léviathan apprend quant à lui que les joueurs jouant 
-<a href="../roles_experimentaux/fearmonger.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fearmonger</a>,  
-<a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>  
-et Magicien sont ses « Sbires ».
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Julian est le <a href="../roles_experimentaux/leviathan.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Léviathan</a> et Sarah est le Magicien. Les Sbires se réveillent pour apprendre que Julien ou Sarah est le Démon. <br> Julian apprend que le joueur <a href="../roles_experimentaux/fearmonger.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Tourmenteur</a>, le joueur <a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> et le joueur Magicien sont des Sbires.
 </p>
 
----
+##  <span style="color:#4ea3ff;">Conseils & Astuces</span>
+<hr>
 
-##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• <strong>Ayez l'air aussi maléfique que possible.</strong> Prenez de mauvaises décisions quant aux personnes à nommer. Votez n'importe comment. Affirmez que des joueurs dignes de confiance ne le sont pas, ou vice versa. Les joueurs maléfiques pensent que vous pourriez être dans leur camp : si vous agissez de manière plus suspecte que les autres, ils pourraient croire que vous êtes le joueur maléfique et que le <strong>Magicien</strong> est ailleurs.
+<br><br>
+• <strong>Les joueurs maléfiques qui vous croient maléfique auront tendance à vous garder en vie.</strong> Les <strong>Sbires</strong> pensent que vous êtes peut-être le <strong>Démon</strong>. Si vous êtes nommé, observez attentivement qui ne vote pas contre vous ou qui semble avoir peur de le faire : vous avez peut-être débusqué des <strong>Sbires</strong>.
+<br><br>
+• <strong>Choisissez un autre rôle pour bluff ou gardez le silence sur votre identité aussi longtemps que possible.</strong> Si l'équipe du mal apprend que vous êtes le <strong>Magicien</strong>, les <strong>Sbires</strong> sauront qui est le vrai <strong>Démon</strong> et le <strong>Démon</strong> saura qui sont les vrais <strong>Sbires</strong> — cela ne mettra pas fin à la partie, mais votre capacité n'entravera plus l'équipe du mal.
+<br><br>
+• <strong>Si vous trouvez un joueur confirmé bon, comme l' <a href="../tb_roles/vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Immaculée</a>  ou la  <a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a>, ou presque confirmé (comme le seul Marginal dans une partie à un seul Marginal), dites-lui que vous êtes le Magicien.</strong> Vous devez rester en vie le plus longtemps possible : avoir au moins un joueur bon (en plus de plusieurs joueurs maléfiques) qui ne souhaite pas vous exécuter vous y aidera.
+<br><br>
+• <strong>Reste en vie aussi longtemps que possible.</strong> Ne vous faites pas exécuter. Le <strong>Démon</strong> ne vous tuera probablement pas la nuit puisqu'il pense que vous êtes un <strong>Sbire</strong> : votre survie dépend donc de vous et de l'équipe du bien. Plus vous restez en vie longuement, plus votre capacité a d'impact.
+<br><br>
+• <strong>Lorsque vous pensez que le pot aux roses est découvert et que l'équipe du mal a compris que vous êtes le Magicien, révélez votre rôle à tout le groupe.</strong> Comme pour le <a href="../bmr_roles/lunatique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lunatique</a>, on ne s'attend pas à ce que la supercherie dure toute la partie. Si l'équipe du mal connaît votre identité, vous n'avez plus rien à perdre en vous dévoilant.
+<br><br>
+• <strong>Observez le langage corporel et le contact visuel des joueurs.</strong> Écoutez les sous-entendus et les sous-textes. Il est probable que les <strong>Sbires</strong> (et éventuellement le <strong>Démon</strong>) s'approchent de vous avec un regard complice ou une insinuation. L'équipe du mal cherchera à se reconnaître et vous faites partie des candidats. Si quelqu'un vous fait un signe de tête ou un clin d'œil complice, répondez-lui. Si une conversation vous semble inhabituelle ou confuse et sous-entend que vous êtes maléfique sans le dire explicitement, jouer le jeu aidera à les convaincre.
+<br><br>
+• <strong>L'objectif idéal du Magicien est de tromper les joueurs maléfiques pour qu'ils le croient maléfique et lui révèlent l'identité des autres membres de l'équipe du mal.</strong> L'objectif plus realistic est de semer la confusion assez longtemps pour qu'ils se tuent accidentellement entre eux ou mettent quelques jours à réussir à se coordonner. Vous n'aurez pas beaucoup de retours pour savoir si votre plan fonctionne : soyez patient, espérez le meilleur et ne vous découragez pas si vous avez l'impression de n'avoir aucun effet — vous en avez très probablement un.
+<br><br>
+• <strong>Si vous mourez la nuit, le Démon a soit compris que vous étiez le Magicien, soit tué délibérément un joueur qu'il pensait être un Sbire.</strong> Si cela arrive, faites attention à qui est mort la nuit précédente et la nuit suivante. Le <strong>Démon</strong> cherche peut-être à tuer tous les <strong>Sbires</strong> potentiels pour démêler le vrai du faux. Une fois mort, les <strong>Sbires</strong> sauront que vous n'êtes pas le <strong>Démon</strong>, mais le <strong>Démon</strong> ne saura pas que vous n'êtes pas un <strong>Sbire</strong>. Observez qui s'isole pour discuter : il peut s'agir de <strong>Sbires</strong> informant le <strong>Démon</strong> qu'ils connaissent désormais l'équipe du mal.
+</p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+##  <span style="color:#4ea3ff;">Bluffer le Magicien</span>
+<hr>
 
-  <li>Adoptez un comportement franchement louche.  
-      Faites de mauvais choix de nominations, votez de façon incohérente,  
-      accusez des joueurs et joueuses fiables et défendez des suspects.  
-      Les Maléfiques pensent que vous êtes peut-être l’un des leurs :  
-      plus vous avez l’air maléfique, plus ils auront tendance à croire que vous êtes vraiment le <span style="color:#d45b5b; font-weight:bold;">Démon</span> ou un <span style="color:#d45b5b; font-weight:bold;">Sbire</span>.</li>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• <strong>Si vous êtes un rôle maléfique qui bluffe en incarnant un rôle qui prétexte être maléfique, vous allez avoir du pain sur la planche.</strong> Le vrai <strong>Magicien</strong> ne dirait pas qu'il est le <strong>Magicien</strong> en début de partie : bluffez d'abord un autre rôle ou gardez le silence pendant un moment. Vous devrez paraître suspect à un certain degré pendant au moins un jour ou deux.
+<br><br>
+• <strong>La décision majeure quand on bluffe en Magicien est de choisir quand et comment se dévoiler.</strong> Révéler que vous êtes le <strong>Magicien</strong> uniquement au moment d'être nommé peut fonctionner, mais reste risqué. Le meilleur moment pour vous dévoiler est après un événement étrange — comme la mort nocturne d'un joueur suspect, le vote unanime sur un joueur de confiance, ou une nouvelle information clé apportée par un autre joueur. Si vous pouvez construire une histoire expliquant pourquoi c'est le moment idéal pour vous révéler au groupe en incluant cet événement, cela sera crédible.
+<br><br>
+• <strong>Dévoilez-vous en Magicien tard dans la partie.</strong> Votre excuse peut être : « l'équipe du mal sait probablement déjà que je suis le Magicien à ce stade ».
+<br><br>
+• <strong>Choisir délibérément de bluffer un rôle spécifique, rendre vos informations suspectes, paraître maléfique puis vous annoncer Magicien est une stratégie possible.</strong> Il est toutefois plus simple de garder le bluff du <strong>Magicien</strong> comme roue de secours si votre bluff initial échoue, tout en jouant votre premier rôle le mieux possible. Vous pouvez même bluffer deux ou trois rôles pour voir si l'un d'eux prend, en gardant le <strong>Magicien</strong> en dernier recours. Le <strong>Magicien</strong> est un rôle trompeur.
+<br><br>
+• <strong>Si vous êtes un Sbire et savez qu'un Magicien est en jeu, bluffer publiquement en Magicien peut pousser le vrai Magicien à se révéler.</strong> Si permettre à l'équipe du mal d'identifier le <strong>Démon</strong> vaut la peine que le bien exécute un <strong>Sbire</strong> et le <strong>Magicien</strong> (sachant que le <strong>Magicien</strong> aura la certitude que vous êtes maléfique), cela peut être une option à tenter.
+</p>
 
-  <li>Les joueurs maléfiques qui croient que vous êtes maléfique auront tendance à vous garder en vie.  
-      Les <span style="color:#d45b5b; font-weight:bold;">Sbires</span> pensent que vous êtes peut-être le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.  
-      Si vous êtes nommé, regardez qui hésite à voter contre vous :  
-      vous repérerez ainsi des Sbires potentiels.</li>
+## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
+<hr>
 
-  <li>Choisissez un autre rôle pour vos annonces publiques, ou restez discret.  
-      Tant que les Maléfiques n’ont pas percé votre secret, le Magicien reste efficace.  
-      Dès que le <span style="color:#d45b5b; font-weight:bold;">Démon</span> et ses <span style="color:#d45b5b; font-weight:bold;">Sbires</span> savent qui vous êtes,  
-      ils peuvent enfin se coordonner correctement.</li>
-
-  <li>Si vous trouvez un rôle quasiment confirmé bon, comme la 
-      <a href="../tb_roles/vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Vierge</a>  
-      ou le 
-      <a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mercenaire</a>,  
-      ou l’unique Étranger d’une partie avec un seul Étranger,  
-      vous pouvez lui révéler en privé que vous êtes le Magicien.  
-      Avoir au moins une personne du Camp du Bien qui veut absolument vous garder en vie  
-      est précieux.</li>
-
-  <li>Votre priorité est de rester en vie le plus longtemps possible.  
-      Le <span style="color:#d45b5b; font-weight:bold;">Démon</span> ne vous tuera probablement pas la nuit,  
-      puisqu’il pense que vous êtes un <span style="color:#d45b5b; font-weight:bold;">Sbire</span>.  
-      C’est donc surtout au village de décider de vous exécuter ou non.</li>
-
-  <li>Quand vous sentez que les Maléfiques ont compris que vous êtes le Magicien,  
-      vous n’avez plus grand-chose à perdre à vous dévoiler publiquement.  
-      Comme pour le 
-      <a href="../bmr_roles/lunatique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lunatique</a>,  
-      la supercherie n’est pas censée durer toute la partie.</li>
-
-  <li>Observez le langage non verbal : regards appuyés, clins d’œil,  
-      tentatives de conversation « mystérieuse ».  
-      Les Sbires vont essayer de deviner qui est leur vrai <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
-      et vous faites partie de leurs suspects.  
-      Si une personne vous envoie un « regard complice », jouez le jeu :  
-      laissez-la croire que vous êtes maléfique.</li>
-
-  <li>L’idéal pour le Magicien est de convaincre les joueurs maléfiques  
-      qu’il fait partie de leur équipe, afin qu’ils se trahissent en révélant des informations.  
-      De façon plus réaliste, votre but est surtout de les ralentir,  
-      voire de provoquer quelques morts maléfiques mal placées.</li>
-
-  <li>Si vous mourrez la nuit, le <span style="color:#d45b5b; font-weight:bold;">Démon</span> a soit deviné que vous étiez le Magicien,  
-      soit sacrifié un « potentiel Sbire » pour clarifier la situation.  
-      Surveillez alors qui discute en privé après votre mort :  
-      il est possible que les Sbires expliquent enfin au Démon qui est qui.</li>
-
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:00px;">
+  <li>
+    <img src="../images/Icon_legion.png" alt="Légion" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> :  
+    Si le <strong>Magicien</strong> est en jeu, pendant l'étape d'information du Démon, les membres de la <strong>Légion</strong> se réveillent en groupes séparés. 
+    Chaque groupe apprend quels joueurs sont bons, mais n'apprend pas l'existence du <strong>Magicien</strong>.
+  </li>
+  <li>
+    <img src="../images/Icon_lilmonsta.png" alt="P'tit Monstre" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/lilmonsta.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Timonstre</a> :  
+    Si le <strong>Magicien</strong> est en vie, le Conteur choisit quel <strong>Sbire</strong> garde le <strong>Timonstre</strong>.
+  </li>
+  <li>
+    <img src="../images/Icon_marionette.png" alt="Marionnette" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/marionette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> :  
+    Si le <strong>Magicien</strong> est en vie, le <strong>Démon</strong> ne sait pas quel voisin est la <strong>Marionnette</strong>.
+  </li>
+  <li>
+    <img src="../images/Icon_spy.png" alt="Espion" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a> :  
+    Lorsque l'<strong>Espionne</strong> regarde le Grimoire, les jetons de rôle du <strong>Démon</strong> et du <strong>Magicien</strong> sont retirés.
+  </li>
+  <li>
+    <img src="../images/Icon_vizier.png" alt="Vizir" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="..//roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a> :  
+    Si le <strong>Vizir</strong> est en jeu, le <strong>Magicien</strong> n'a aucun pouvoir mais est immunisé contre le pouvoir du <strong>Vizir</strong>.
+  </li>
+  <li>
+    <img src="../images/Icon_widow.png" alt="Veuve noire" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a> :  
+    Lorsque la <strong>Veuve</strong> regarde le Grimoire, les jetons de rôle du <strong>Démon</strong> et du <strong>Magicien</strong> sont retirés.
+  </li>
+  <li>
+    <img src="../images/Icon_wraith.png" alt="Wraith" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/wraith.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Spectre</a> :  
+    Après chaque exécution, le <strong>Magicien</strong> en vie peut deviner publiquement un joueur en vie comme étant le <strong>Spectre</strong>. 
+    S'il a raison, le <strong>Démon</strong> doit choisir le <strong>Spectre</strong> cette nuit.
+  </li>
 </ul>
 
----
-
-##  <span style="color:#4ea3ff;">Bluffer Magicien</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Si vous êtes un rôle maléfique qui bluffe un rôle bon  
-      dont la capacité consiste à « faire semblant d’être maléfique »,  
-      la tâche est subtile.  
-      Un vrai Magicien ne se dévoile pas en début de partie.  
-      Mieux vaut donc bluffer un autre rôle au départ,  
-      puis ne révéler le bluff Magicien que plus tard.</li>
-
-  <li>Le moment où vous « sortez » en tant que Magicien est crucial.  
-      Le faire seulement au moment d’une nomination est risqué.  
-      Le faire après un événement marquant (un retournement d’accusations,  
-      une exécution surprenante, une info choc d’un autre rôle)  
-      est souvent plus crédible : vous pouvez raconter  
-      que c’est précisément cet événement qui vous pousse à parler maintenant.</li>
-
-  <li>Revendiquez le rôle de Magicien en fin de partie.  
-      Vous pouvez dire : « De toute façon, le Mal sait sûrement déjà qui je suis. »  
-      Cela justifie que vous n’ayez pas parlé plus tôt.</li>
-
-  <li>Une stratégie consiste à bluffer un autre rôle,  
-      en rendant vos infos un peu suspectes,  
-      puis à vous « révéler » comme Magicien lorsque le bluff devient fragile.  
-      Garder Magicien comme bluff de secours est très efficace.</li>
-
-  <li>Si vous êtes un <span style="color:#d45b5b; font-weight:bold;">Sbire</span>  
-      et que vous savez qu’un Magicien est en jeu,  
-      vous pouvez publiquement prétendre être le Magicien.  
-      Le vrai Magicien pourrait se sentir obligé de se dévoiler,  
-      ce qui donnerait au camp du Mal des infos précieuses,  
-      au prix de l’exécution probable d’au moins un Sbire… et peut-être du Magicien.</li>
-
-</ul>
-
----
+<hr class="explication">
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
-   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+• <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+• <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
+• <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
