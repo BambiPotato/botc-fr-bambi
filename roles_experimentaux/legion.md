@@ -56,6 +56,8 @@ image: /images/Icon_legion.png
 </p>
 
 
+<hr class="demon">
+
 <!-- APPARAÎT DANS -->
 <div style="text-align:center; margin: 20px 0%;">
   <a href="../experimentaux.html" style="text-decoration:none;">
@@ -78,17 +80,17 @@ La Légion rassemble plusieurs Démons.
 </p>
 
 <ul class="botc-list">
-<li>Nous vous conseillons d’inverser le nombre de joueurs bons et maléfiques par rapport à une partie normale. <br> Par exemple, pour une partie à dix joueurs, jouez avec sept <strong>Légions</strong> et trois joueurs bons.</li>
+<li>Nous vous conseillons d’inverser le nombre de joueurs bons et maléfiques par rapport à une partie normale. <br> Par exemple, pour une partie à dix joueurs, jouez avec sept <strong>Légions</strong> et trois joueurs bons.</li><br>
 
-<li>Les joueurs qui ne sont pas <strong>Légion</strong> peuvent être des Villageois ou des Marginaux, dans n’importe quelle combinaison.</li>
+<li>Les joueurs qui ne sont pas <strong>Légion</strong> peuvent être des Villageois ou des Marginaux, dans n’importe quelle combinaison.</li><br>
 
-<li>Si au moins un joueur bon a voté lors d’une nomination, et si le joueur nommé est « sur le point de mourir », alors l'exécution se déroule normalement. S’il n’y a que des joueurs maléfiques qui votent lors d’une nomination, le décompte des votes contre le joueur nommé est de zéro.</li>
+<li>Si au moins un joueur bon a voté lors d’une nomination, et si le joueur nommé est « sur le point de mourir », alors l'exécution se déroule normalement. S’il n’y a que des joueurs maléfiques qui votent lors d’une nomination, le décompte des votes contre le joueur nommé est de zéro.</li><br>
 
-<li>Chaque <strong>Légion</strong> apparaît comme Sbire et comme Démon.</li>
+<li>Chaque <strong>Légion</strong> apparaît comme Sbire et comme Démon.</li><br>
 
-<li>Le Conteur choisit quel joueur meurt pendant la nuit.</li>
+<li>Le Conteur choisit quel joueur meurt pendant la nuit.</li><br>
 
-<li>S'il ne reste qu'un seul joueur bon en vie, le Conteur peut déclarer que le Mal gagne, car le Bien ne peut plus gagner.</li>
+<li>S'il ne reste qu'un seul joueur bon en vie, le Conteur peut déclarer que le Mal gagne, car le Bien ne peut plus gagner.</li><br>
 
 <li>Le Conteur peut décider de ne donner aucun bluff aux joueurs <strong>Légion</strong>.</li>
 </ul>
@@ -148,23 +150,23 @@ Alex, qui rassemble deux votes contre lui, dont un venant d’un joueur bon, est
 <hr>
 
 <ul class="botc-list">
-<li>Soyez prudent si vous choisissez de vous revendiquer l'un de vos bluffs. <br> En particulier dans les grandes parties, il peut y avoir jusqu'à quatre <strong>Légions</strong> pour un seul bluff donné par le Conteur. <br> L'équipe du Bien aura la tâche facile pour déterminer quels étaient les trois bluffs si vous choisissez tous de les utiliser.</li>
+<li>Soyez prudent si vous choisissez de vous revendiquer l'un de vos bluffs. <br> En particulier dans les grandes parties, il peut y avoir jusqu'à quatre <strong>Légions</strong> pour un seul bluff donné par le Conteur. <br> L'équipe du Bien aura la tâche facile pour déterminer quels étaient les trois bluffs si vous choisissez tous de les utiliser.</li><br>
 
-<li>Prêtez attention à qui vote au fur et à mesure que le vote fait le tour du cercle. <br> Pensez à garder la main baissée à moins de savoir qu'un joueur du Bien vote aussi. Ainsi, vous éviterez d'être identifié comme <strong>Légion</strong> lorsqu'un vote soutenu uniquement par le Mal échoue.</li>
+<li>Prêtez attention à qui vote au fur et à mesure que le vote fait le tour du cercle. <br> Pensez à garder la main baissée à moins de savoir qu'un joueur du Bien vote aussi. Ainsi, vous éviterez d'être identifié comme <strong>Légion</strong> lorsqu'un vote soutenu uniquement par le Mal échoue.</li><br>
 
 <li>Ne rendez cependant pas trop évident le fait que vous votez de concert avec un ou plusieurs joueurs spécifiques. À moins de bluffer le <a href="../tb_roles/majordome.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Majordome</a>, vous risquez d'attirer les soupçons.</li>
 
-<li>Envisagez de revendiquer volontairement le rôle d'un joueur du Bien réellement présent dans la partie. Si vous parvenez à faire exécuter ce joueur, votre équipe prendra un avantage considérable.</li>
+<li>Envisagez de revendiquer volontairement le rôle d'un joueur du Bien réellement présent dans la partie. Si vous parvenez à faire exécuter ce joueur, votre équipe prendra un avantage considérable.</li><br>
 
-<li>Si l'équipe du Bien comprend qu'il s'agit d'une partie avec <strong>Légion</strong>, profitez de cette paranoïa. Essayez de convaincre un joueur qu'il est peut-être l'un des derniers joueurs bons encore en vie.</li>
+<li>Si l'équipe du Bien comprend qu'il s'agit d'une partie avec <strong>Légion</strong>, profitez de cette paranoïa. Essayez de convaincre un joueur qu'il est peut-être l'un des derniers joueurs bons encore en vie.</li><br>
 
-<li>Certains bluffs nécessitent un effort collectif, notamment <a href="../roles_experimentaux/atheist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">l'Athée</a>, le <a href="../roles_experimentaux/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Planteur de Pavot</a> ou le <a href="../sv_roles/vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a>. <br> Dès qu'un joueur revendique l'un de ces rôles, toute l'équipe devra soutenir ce mensonge.</li>
+<li>Certains bluffs nécessitent un effort collectif, notamment <a href="../roles_experimentaux/atheist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">l'Athée</a>, le <a href="../roles_experimentaux/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Planteur de Pavot</a> ou le <a href="../sv_roles/vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a>. <br> Dès qu'un joueur revendique l'un de ces rôles, toute l'équipe devra soutenir ce mensonge.</li><br>
 
-<li>Certaines capacités prouvent publiquement qu'il n'y a pas de <strong>Légion</strong>, comme une malédiction de la <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a>, une protection de l'<a href="../bmr_roles/avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a>, un <a href="../roles_experimentaux/fearmonger.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Tourmenteur</a> révélé ou un <a href="../roles_experimentaux/psychopath.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Psychopathe</a> révélé.</li>
+<li>Certaines capacités prouvent publiquement qu'il n'y a pas de <strong>Légion</strong>, comme une malédiction de la <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a>, une protection de l'<a href="../bmr_roles/avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a>, un <a href="../roles_experimentaux/fearmonger.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Tourmenteur</a> révélé ou un <a href="../roles_experimentaux/psychopath.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Psychopathe</a> révélé.</li><br>
 
-<li>D'autres capacités peuvent convaincre un seul joueur qu'il n'y a pas de <strong>Légion</strong>, comme la folie du <a href="../sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a> ou une annonce de <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a>.</li>
+<li>D'autres capacités peuvent convaincre un seul joueur qu'il n'y a pas de <strong>Légion</strong>, comme la folie du <a href="../sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a> ou une annonce de <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a>.</li><br>
 
-<li>Inversement, une <strong>Légion</strong> peut prétendre avoir été rendue folle par le <a href="../sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a> ou affirmer avoir appris qu'une <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a> est en jeu.</li>
+<li>Inversement, une <strong>Légion</strong> peut prétendre avoir été rendue folle par le <a href="../sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a> ou affirmer avoir appris qu'une <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a> est en jeu.</li><br>
 
 <li>Feignez d'être un Sbire. Si une <a href="../tb_roles/gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a> vous identifie comme un <a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>, acceptez cette accusation afin de détourner les soupçons de la présence de <strong>Légion</strong>.</li>
 </ul>
@@ -173,7 +175,7 @@ Alex, qui rassemble deux votes contre lui, dont un venant d’un joueur bon, est
 <hr>
 
 <ul class="botc-list">
-<li>En tant qu'équipe du Bien, vous détenez un pouvoir considérable lorsqu'il s'agit de voter et d'exécuter. <br> Essayez de piéger les joueurs <strong>Légion</strong> en levant la main pour voter tôt, puis en la baissant juste avant que ce soit votre tour de voter. <br> Si vous parvenez à faire en sorte que seules des <strong>Légions</strong> votent, vous pourrez parfois identifier une grande partie de l'équipe maléfique d'un seul coup.</li>
+<li>En tant qu'équipe du Bien, vous détenez un pouvoir considérable lorsqu'il s'agit de voter et d'exécuter. <br> Essayez de piéger les joueurs <strong>Légion</strong> en levant la main pour voter tôt, puis en la baissant juste avant que ce soit votre tour de voter. <br> Si vous parvenez à faire en sorte que seules des <strong>Légions</strong> votent, vous pourrez parfois identifier une grande partie de l'équipe maléfique d'un seul coup.</li><br>
 
 <li>N'oubliez pas que l'équipe du Mal disposera de très peu de bluffs. Deux conséquences en découlent :
 <ul class="botc-list">
@@ -182,15 +184,15 @@ Alex, qui rassemble deux votes contre lui, dont un venant d’un joueur bon, est
 </ul>
 </li>
 
-<li>Ne vous laissez pas convaincre qu'il ne s'agit pas d'une partie avec <strong>Légion</strong> lorsqu'un <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a> ou un <a href="../sv_roles/reveur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Rêveur</a> affirme avoir identifié un joueur comme un Sbire particulier. Les <strong>Légions</strong> apparaissent également comme des Sbires.</li>
+<li>Ne vous laissez pas convaincre qu'il ne s'agit pas d'une partie avec <strong>Légion</strong> lorsqu'un <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a> ou un <a href="../sv_roles/reveur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Rêveur</a> affirme avoir identifié un joueur comme un Sbire particulier. Les <strong>Légions</strong> apparaissent également comme des Sbires.</li><br>
 
-<li>Dans une partie avec <strong>Légion</strong>, le Conteur choisit qui meurt chaque nuit. Pour équilibrer la partie, il éliminera souvent des joueurs <strong>Légion</strong>. Si vous êtes un personnage puissant, publiquement confirmé, et que vous survivez malgré tout plusieurs nuits, cela peut être un indice que vous affrontez <strong>Légion</strong>.</li>
+<li>Dans une partie avec <strong>Légion</strong>, le Conteur choisit qui meurt chaque nuit. Pour équilibrer la partie, il éliminera souvent des joueurs <strong>Légion</strong>. Si vous êtes un personnage puissant, publiquement confirmé, et que vous survivez malgré tout plusieurs nuits, cela peut être un indice que vous affrontez <strong>Légion</strong>.</li><br>
 
-<li>Selon la manière dont le Conteur gère ce rôle, la <strong>Légion</strong> peut recevoir zéro, trois ou même six bluffs (avec la <a href="../roles_experimentaux/snitch.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Balance</a>). <br> Il y aura donc souvent très peu d'informations fiables sur les rôles réellement en jeu. <br> Trois revendications identiques ou davantage constituent un indice fort qu'il s'agit d'une partie avec <strong>Légion</strong>.</li>
+<li>Selon la manière dont le Conteur gère ce rôle, la <strong>Légion</strong> peut recevoir zéro, trois ou même six bluffs (avec la <a href="../roles_experimentaux/snitch.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Balance</a>). <br> Il y aura donc souvent très peu d'informations fiables sur les rôles réellement en jeu. <br> Trois revendications identiques ou davantage constituent un indice fort qu'il s'agit d'une partie avec <strong>Légion</strong>.</li><br>
 
-<li>Les parties avec <strong>Légion</strong> reposent sur une véritable conscience collective. <br> Si tout le monde semble étonnamment d'accord sur la vision de la partie et que de nombreux joueurs votent toujours ensemble, cela peut indiquer que plusieurs joueurs appartiennent à l'équipe du Mal.</li>
+<li>Les parties avec <strong>Légion</strong> reposent sur une véritable conscience collective. <br> Si tout le monde semble étonnamment d'accord sur la vision de la partie et que de nombreux joueurs votent toujours ensemble, cela peut indiquer que plusieurs joueurs appartiennent à l'équipe du Mal.</li><br>
 
-<li>Les joueurs <strong>Légion</strong> hésitent souvent à effectuer les premières nominations, car ils ne savent pas s'ils bénéficieront d'un soutien suffisant des joueurs du Bien. <br> En revanche, ils auront tendance à rejoindre rapidement un vote déjà lancé par un joueur bon. Beaucoup d'hésitation à nominer, suivie d'un enthousiasme collectif pour voter, est donc un indice supplémentaire.</li>
+<li>Les joueurs <strong>Légion</strong> hésitent souvent à effectuer les premières nominations, car ils ne savent pas s'ils bénéficieront d'un soutien suffisant des joueurs du Bien. <br> En revanche, ils auront tendance à rejoindre rapidement un vote déjà lancé par un joueur bon. Beaucoup d'hésitation à nominer, suivie d'un enthousiasme collectif pour voter, est donc un indice supplémentaire.</li><br>
 
 <li>Gardez à l'esprit que c'est le Conteur qui contrôle les morts nocturnes. Comme il doit généralement amener la partie à un dernier jour avec une seule <strong>Légion</strong> encore en vie, il éliminera principalement des joueurs <strong>Légion</strong>. <br> Si les morts paraissent étranges ou ne correspondent pas au comportement habituel d'un Démon, cela peut être un signe révélateur.</li>
 </ul>
