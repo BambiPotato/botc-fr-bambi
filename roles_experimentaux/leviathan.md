@@ -29,7 +29,7 @@ image: /images/Icon_leviathan.png
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
-    <a href="/demon.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>
+    <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>
   </li>
   <li>
   <strong>Nom original :</strong>
@@ -103,7 +103,7 @@ Pour les nouveaux joueurs, il est utile de rappeler que le Léviathan est en jeu
 <hr>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
-• Le Léviathan est en jeu. Le premier jour, le <a href="../tb_roles/monk.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> nomme l’<a href="../tb_roles/virgin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Immaculée</a> et est exécuté. Le deuxième jour, le <a href="../bmr_roles/courtisan.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisan</a>   est exécuté. Le Mal gagne.
+• Le Léviathan est en jeu. Le premier jour, le <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a> nomme l’<a href="../tb_roles/vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Immaculée</a> et est exécuté. Le deuxième jour, le <a href="../bmr_roles/courtisan.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisan</a>   est exécuté. Le Mal gagne.
 <br><br>
 • Le Léviathan est en jeu. Le deuxième jour, la <a href="../tb_roles/femmecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme écarlate</a>  est exécutée. Le troisième jour, l’<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> est exécuté. Le cinquième jour, le <a href="../tb_roles/soldat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Soldat</a> est exécuté. Le Mal gagne.
 </p>
@@ -116,7 +116,7 @@ Pour les nouveaux joueurs, il est utile de rappeler que le Léviathan est en jeu
 <br><br>
 • <strong>Faites attention aux types de rôles que le groupe souhaite exécuter.</strong> Si le groupe veut exécuter des rôles qui n'agissent qu'une fois parce qu'il considère cela comme une exécution plus sûre, ne bluffez pas en tant que rôle à usage unique. Si le groupe souhaite exécuter des rôles qui agissent chaque nuit parce que c'est ce qu'un <strong>Démon</strong> devrait bluffer dans une partie avec le <strong>Léviathan</strong>, alors bluffez en tant que rôle ayant déjà agi, ou en tant que <strong>Marginal</strong>. Cela vous aidera à éviter la première exécution.
 <br><br>
-• <strong>Si vous ne savez pas quel rôle bluffer, optez par défaut pour un rôle puissant qui chercherait normalement à masquer son identité.</strong> Puisque la plupart des joueurs seront encore en vie le dernier jour, les rôles bons et puissants tels que la   <a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a>, la  <a href="../bmr_roles/femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de chambre</a>, le <a href="../bmr_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a> ou l' <a href="../bmr_roles/artiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Artiste</a> n'ont pas besoin de cacher leur identité par crainte que le <strong>Démon</strong> ne les tue. L'argument selon lequel « Tu n'es pas le rôle que tu prétends être, car le <strong>Démon</strong> t'aurait tué avant le dernier jour » n'a aucun sens.
+• <strong>Si vous ne savez pas quel rôle bluffer, optez par défaut pour un rôle puissant qui chercherait normalement à masquer son identité.</strong> Puisque la plupart des joueurs seront encore en vie le dernier jour, les rôles bons et puissants tels que la   <a href="../tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a>, la  <a href="../bmr_roles/femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de chambre</a>, le <a href="../sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a> ou l' <a href="../sv_roles/artiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Artiste</a> n'ont pas besoin de cacher leur identité par crainte que le <strong>Démon</strong> ne les tue. L'argument selon lequel « Tu n'es pas le rôle que tu prétends être, car le <strong>Démon</strong> t'aurait tué avant le dernier jour » n'a aucun sens.
 <br><br>
 • <strong>Bluffez tôt.</strong> Comme les joueurs ne peuvent mourir que par exécution, la plupart des joueurs bons ne seront pas cachotiers. Les joueurs qui restent silencieux ont beaucoup plus de chances d'être perçus comme maléfiques, et non comme des joueurs bons qui cachent quelque chose.
 <br><br>
@@ -141,11 +141,11 @@ Pour les nouveaux joueurs, il est utile de rappeler que le Léviathan est en jeu
 <br><br>
 • <strong>Attendez le cinquième jour pour exécuter le second joueur.</strong> Cela garantit que l'équipe du bien ne perdra pas la partie en exécutant deux joueurs bons, car la partie prendra fin à la fin du cinquième jour, quel que soit l'alignement du joueur exécuté. Attendre le cinquième jour donne à l'équipe du bien un maximum de temps pour recueillir des informations et discuter des différentes possibilités.
 <br><br>
-• <strong>Exécutez des joueurs tôt dans la partie si vous êtes assez certain qu'ils sont des Sbires et qu'ils sont le genre de Sbires à causer des soucis.</strong> Ignorez les joueurs qui sont possiblement (mais probablement pas) des <strong>Sbires</strong>, et ignorez ceux qui sont probablement des <strong>Sbires</strong> mais qui n'impacteront pas trop les informations de l'équipe du bien. Par exemple, tuer un <a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>   ou une <a href="../tb_roles/femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme écarlate</a> tôt dans la partie est absolument bénéfique, mais il n'y a pas grand intérêt à tuer un a <a href="../tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a>   ou une <a href="../tb_roles/spy.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a>  . Certes, vous leur retirez leur droit de vote, mais comme il n'y a vraisemblablement que deux occasions d'exécuter le <strong>Démon</strong>, l'équipe du bien a de meilleures chances de l'emporter en tentant d'exécuter le <strong>Démon</strong> lors de ces deux exécutions.
+• <strong>Exécutez des joueurs tôt dans la partie si vous êtes assez certain qu'ils sont des Sbires et qu'ils sont le genre de Sbires à causer des soucis.</strong> Ignorez les joueurs qui sont possiblement (mais probablement pas) des <strong>Sbires</strong>, et ignorez ceux qui sont probablement des <strong>Sbires</strong> mais qui n'impacteront pas trop les informations de l'équipe du bien. Par exemple, tuer un <a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>   ou une <a href="../tb_roles/femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme écarlate</a> tôt dans la partie est absolument bénéfique, mais il n'y a pas grand intérêt à tuer un a <a href="../tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a>   ou une <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a>  . Certes, vous leur retirez leur droit de vote, mais comme il n'y a vraisemblablement que deux occasions d'exécuter le <strong>Démon</strong>, l'équipe du bien a de meilleures chances de l'emporter en tentant d'exécuter le <strong>Démon</strong> lors de ces deux exécutions.
 <br><br>
 • <strong>Si vous êtes presque certain qu'un joueur est un Sbire, exécutez-le tôt dans la partie.</strong> Cela vous donnera l'opportunité d'exécuter trois joueurs au cours de la partie.
 <br><br>
-• <strong>Certains rôles tirent un bénéfice de l'exécution de joueurs, comme le  <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a>  ou le  <a href="../roles_experimentaux/cannibal.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cannibale</a>.</strong> Si ces rôles sont en jeu, exécuter tôt peut s'avérer avantageux. De plus, comme le <strong>Léviathan</strong> n'agit pas la nuit, de nombreux rôles ont un jinx avec lui et fonctionnent de manière particulière et bénéfique. Vérifiez auprès de votre Conteur les règles spécifiques du <a href="../legendaire_roles/djinn.html " style="color:#e0c99d; font-weight:bold; text-decoration:none;">Djinn</a> pour ces rôles.
+• <strong>Certains rôles tirent un bénéfice de l'exécution de joueurs, comme le  <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a>  ou le  <a href="../roles_experimentaux/cannibal.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cannibale</a>.</strong> Si ces rôles sont en jeu, exécuter tôt peut s'avérer avantageux. De plus, comme le <strong>Léviathan</strong> n'agit pas la nuit, de nombreux rôles ont un jinx avec lui et fonctionnent de manière particulière et bénéfique. Vérifiez auprès de votre Conteur les règles spécifiques du <a href="../legendaire_roles/djinn.html " style="color:#FFDF00; font-weight:bold; text-decoration:none;">Djinn</a> pour ces rôles.
 <br><br>
 • <strong>Découvrez quels joueurs sont bons.</strong> Même si vous ne pouvez dresser qu'une liste de joueurs confirmés bons à 90 %, cela réduira les possibilités concernant l'identité du <strong>Démon</strong>. Si vous parvenez à identifier ne serait-ce que deux ou trois joueurs bons, au moment d'exécuter le <strong>Démon</strong>, devoir choisir parmi cinq joueurs au lieu de huit augmentera grandement vos chances de victoire.
 <br><br>
@@ -180,14 +180,14 @@ Pour les nouveaux joueurs, il est utile de rappeler que le Léviathan est en jeu
   </li>
   <li>
     <img src="../images/Icon_farmer.png" alt="Fermier" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../experimentaux_roles/farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermière</a> :  
+    <a href="../roles_experimentaux/farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermière</a> :  
     Chaque nuit*, le <strong>Léviathan</strong> choisit un joueur bon en vie 
     différent des nuits précédentes :  
     une <strong>Fermière</strong> choisie utilise sa capacité mais ne meurt pas.
   </li>
   <li>
     <img src="../images/Icon_grandmother.png" alt="Grand-mère" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../tb_roles/grandmere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Grand-mère</a> :  
+    <a href="../bmr_roles/grandmere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Grand-mère</a> :  
     Si le <strong>Léviathan</strong> est en jeu  
     et que l’Enfant de la Grand-mère meurt par exécution,  
     le Mal gagne.
@@ -207,7 +207,7 @@ Pour les nouveaux joueurs, il est utile de rappeler que le Léviathan est en jeu
   </li>
   <li>
     <img src="../images/Icon_king.png" alt="Roi" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../bmr_roles/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> :  
+    <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> :  
     Si le <strong>Léviathan</strong> est en jeu  
     et qu’au moins un joueur est mort,  
     le <strong>Roi</strong> apprend chaque nuit  
@@ -215,7 +215,7 @@ Pour les nouveaux joueurs, il est utile de rappeler que le Léviathan est en jeu
   </li>
   <li>
     <img src="../images/Icon_mayor.png" alt="Maire" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../tb_roles/mayor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a> :  
+    <a href="../tb_roles/maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a> :  
     Si le <strong>Léviathan</strong> et le <strong>Maire</strong>  
     sont tous les deux en vie au 5<sup>ème</sup> jour  
     et qu’aucune exécution n’a lieu ce jour-là,  
