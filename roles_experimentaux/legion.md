@@ -223,11 +223,9 @@ le <strong>Chapelier</strong> n’a pas de capacité.
 
  <li>
  <img src="../images/Icon_magician.png" alt="Magicien" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
- <a href="../experimentaux_roles/magician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Magicien</a> :  
- Le <strong>Magicien</strong> se réveille avec les <strong>Légions</strong>  
- et peut s’enregistrer comme maléfique.  
- Les joueurs de la <strong>Légion</strong> savent qu’un <strong>Magicien</strong> est en jeu,  
- mais ne savent pas quel joueur c’est.
+ <a href="../experimentaux_roles/magician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Magicien</a> : 
+ Si le <strong>Magicien</strong> est en jeu, pendant l’étape des informations du Démon, les Légions se réveillent en groupes séparés. 
+ Chaque groupe apprend quels joueurs sont bons, mais n’apprend pas qui est le <strong>Magicien</strong>.  
  </li>
 
   <li>
