@@ -23,9 +23,6 @@ image: /images/Icon_boomdandy.png
   </a>
 </div>
 
-<p class="botc-flavour-text dropcap" style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Tic… Tic… Tic… TAC. »
-</p>
 
 <hr class="sbire">
 
@@ -48,6 +45,13 @@ image: /images/Icon_boomdandy.png
   <li style="margin-bottom:10px;"><strong>Révélé :</strong> 1er juillet 2021</li>
 </ul>
 
+
+
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Tic… Tic… Tic… TAC. »
+</p>
+
+
 <hr class="sbire">
 
 <!-- APPARAÎT DANS -->
@@ -55,18 +59,18 @@ image: /images/Icon_boomdandy.png
   <a href="../experimentaux.html" style="text-decoration:none;">
     <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans le Carousel rôle expérimental</span>
+    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans :  Carousel rôle expérimental</span>
   </a>
 </div>
 
 <h2 id="resume" style="color:#d45b5b;">Résumé</h2>
 <hr>
 
-<p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
 « Si vous êtes exécuté, tous, sauf 3, meurent. Après un décompte de 10 à 0, le joueur le plus désigné par les joueurs meurt. »
 </p>
 
-<p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
+<p class="botc-flavour-text dropcap" style="margin:0;">
 Le Boumdandy explose lorsqu'il est exécuté, ce qui tue la plupart des autres joueurs.
 </p>
 
@@ -90,7 +94,7 @@ Instructions au Conteur
 </p>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
-Si le Boumdandy est exécuté, annoncez que le Boumdandy a explosé. <br> Entrez dans le cercle, désignez le Boumdandy, puis pivotez sur vous-même. (Comme lorsque vous procédez à un vote.) <br> Au fur et à mesure que votre main passe devant les joueurs en vie, annoncez <strong>« Tu vis »</strong> ou <strong>« Tu meurs »</strong> si le joueur choisi meurt. Lorsque vous avez terminé le tour du cercle, il doit rester trois joueurs en vie, dont le Démon. <br>
+• Si le Boumdandy est exécuté, annoncez que le Boumdandy a explosé. <br> Entrez dans le cercle, désignez le Boumdandy, puis pivotez sur vous-même. (Comme lorsque vous procédez à un vote.) <br> Au fur et à mesure que votre main passe devant les joueurs en vie, annoncez <strong>« Tu vis »</strong> ou <strong>« Tu meurs »</strong> si le joueur choisi meurt. Lorsque vous avez terminé le tour du cercle, il doit rester trois joueurs en vie, dont le Démon. <br><br>
 Ensuite, faites un compte à rebours de dix. Quand vous atteignez « zéro », demandez aux joueurs d’arrêter de bouger pour que vous puissiez compter le nombre de voix (bras tendus) portées contre chaque joueur. Le joueur avec le plus de voix contre lui meurt. <br>
 Cela met un terme à la partie, car il ne restera alors que deux joueurs en vie. Annoncez quelle équipe a gagné.
 </p>
@@ -169,11 +173,11 @@ L'astuce sera de convaincre les autres de votre logique avant que le temps ne so
 </ul>
 
 
-<hr class="sbire">
 
 <h2 id="jinxes-lies" style="color:#d45b5b;">🧞 Jinxes liés</h2>
+<hr> 
 
-<ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:20px;">
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:00px;">
   <li>
     <img src="../images/Icon_plaguedoctor.png" alt="Docteur de Peste" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/plaguedoctor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Docteur de Peste</a> :  
