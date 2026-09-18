@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Chevalier
+description: "Lors de votre 1re nuit, vous apprenez 2 joueurs qui ne sont pas le Démon."
+image: /images/Icon_knight.png
 ---
 
 <p align="left">
@@ -8,6 +10,8 @@ title: Chevalier
     <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
+
+<hr class="explication">
 
 <!-- Chevalier -->
 
@@ -19,22 +23,7 @@ title: Chevalier
   </a>
 </div>
 
-<!-- APPARAÎT DANS -->
-<div style="text-align:center; margin: 20px 0;">
-  <a href="../experimentaux.html" style="text-decoration:none;">
-    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
-    <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
-  </a>
-</div>
-
-#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Chevalier</span>
-
-<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Quand un homme ment, il assassine une part du monde. »
-</p>
-
----
+<hr class="villageois">
 
 ##  <span style="color:#4ea3ff;">Informations</span>
 
@@ -49,226 +38,125 @@ title: Chevalier
      target="_blank"
      rel="noopener noreferrer"
      style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
-   Knight
+    Knight
   </a>
 </li>
   <li><strong>Artiste :</strong> <em>Chloe McDougall</em></li>
   <li><strong>Révélé :</strong> 18 mai 2023</li>
 </ul>
 
----
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Lorsqu’un homme ment, <br> il tue une partie du monde. »
+</p>
+
+<hr class="villageois">
+
+<!-- APPARAÎT DANS -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../experimentaux.html" style="text-decoration:none;">
+    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans :  Carousel rôle expérimental</span>
+  </a>
+</div>
 
 ##  <span style="color:#4ea3ff;">Résumé</span>
+<hr class="villageois">
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Vous commencez en sachant que 2 joueurs ne sont pas le Démon. »</strong>
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
+« Lors de votre 1re nuit, vous apprenez 2 joueurs qui ne sont pas le Démon. »
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Chevalier</strong> connaît dès la première nuit deux joueurs qui ne sont pas le 
-<span style="color:#d45b5b; font-weight:bold;">Démon</span>.  
-Ensuite, il n’obtient plus aucune information supplémentaire.
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Le Chevalier sait que certains joueurs ne sont pas le Démon.
 </p>
 
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le Chevalier connaît des joueurs qui ne sont pas le Démon.
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• La première nuit, le Chevalier apprend deux joueurs qui ne sont pas le Démon.
+<br><br>
+• Les nuits suivantes, il n’apprend rien de plus.
+<br><br>
+• Le Chevalier peut apprendre des Villageois, des Marginaux ou même des Sbires, mais il n'apprend pas leur type de rôle pour autant.
 </p>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>La première nuit, le Chevalier apprend deux joueurs qui ne sont pas le 
-      <span style="color:#d45b5b; font-weight:bold;">Démon</span>.</li>
-
-  <li>Les nuits suivantes, il n’apprend plus rien.</li>
-
-  <li>Les joueurs appris peuvent être des 
-      <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>, 
-      des <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>  
-      ou même des <span style="color:#d45b5b; font-weight:bold;">Sbires</span>,  
-      mais le Chevalier ne connaît pas leur type de rôle.</li>
-</ul>
-
----
 
 ##  <span style="color:#4ea3ff;">Comment Conter</span>
+<hr>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Pendant la mise en place, marquez deux joueurs qui ne sont pas le Démon  
-      avec les rappels <strong>SAIT</strong> du Chevalier.</li>
-
-  <li>Lors de la première nuit, réveillez le Chevalier,  
-      puis pointez successivement les deux joueurs marqués <strong>SAIT</strong>.</li>
-
-  <li>Rendormez ensuite le Chevalier. Il ne se réveillera plus pour sa capacité.</li>
-</ul>
-
----
-
-## <span style="color:#4ea3ff;">Exemples</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>Louis</strong> est le 
-<a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-mort</a>,  
-<strong>David</strong> est l’
-<a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Imp</a>  
-et <strong>Benjamin</strong> est la 
-<a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>.  
-Le Chevalier apprend <strong>Louis</strong> et <strong>Benjamin</strong>.
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Instructions au Conteur 
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>Marianne</strong> est le 
-<a href="../sv_roles/vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a>  
-et <strong>Abdel</strong> est l’
-<a href="../roles_experimentaux/alchimiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a>.  
-Le Chevalier apprend <strong>Marianne</strong> et <strong>Abdel</strong>.  
-Le Chevalier doit apprendre Marianne et Abdel parce que, à cause de la capacité du Vortox,  
-son information doit être fausse et inclure le Démon.
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Lors de la mise en place, marquez deux joueurs non-Démons du jeton <strong>« Appris »</strong> du Chevalier.
+<br><br>
+• Lors de la première nuit, réveillez le Chevalier. <br> 
+Désignez les deux joueurs marqués <strong>« Appris »</strong>. Ensuite, le Chevalier se rendort.
 </p>
 
----
+##  <span style="color:#4ea3ff;">Exemples</span>
+<hr>
 
-##  <span style="color:#4ea3ff;">Interaction à connaître</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Dans une partie où le 
-<a href="../sv_roles/vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a> 
-est le <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
-le Chevalier recevra toujours une information <em>fausse</em> :  
-au moins un des deux joueurs appris sera le Démon.  
-La seule exception est le cas où le Chevalier est l’
-<a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> :  
-dans ce cas, la conteuse ou le conteur peut lui montrer deux joueurs qui ne sont pas le Démon.
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Lewis est le <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a>, Doug est le <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> et Ben est la <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>. Le Chevalier apprend Lewis et Ben.
+<br><br>
+• Marianna est le <a href="../sv_roles/vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a>   et Abdallah est l' <a href="../roles_experimentaux/alchimiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a>. Le Chevalier apprend Marianna et Abdallah. <br> 
+Le Chevalier doit apprendre Marianna et un autre joueur : en effet, l’information reçue par le Chevalier doit être fausse à cause de la capacité du <a href="../sv_roles/vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a>   et donc inclure le Démon.
 </p>
 
----
+##  <span style="color:#4ea3ff;">Conseils & Astuces</span>
+<hr>
 
-##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• <strong>Vous savez que les deux joueurs que vous avez appris ne sont pas le Démon.</strong> S'ils survivent tous les deux jusqu'au dernier trio, vous connaissez deux joueurs qui ne sont pas le <strong>Démon</strong> et vous savez donc qui est le <strong>Démon</strong>, ce qui vous permet de gagner la partie grâce à vos informations !
+<br><br>
+• <strong>Cachez ce que vous avez appris au village.</strong> Le <strong>Démon</strong> va chercher activement à tuer les joueurs que vous avez vus pour éviter de se faire démasquer le dernier jour. Ne pas révéler qui vous avez appris empêche donc le <strong>Démon</strong> de savoir qui tuer.
+<br><br>
+• <strong>Céléz vos informations et essayez de rendre les deux joueurs que vous avez vus juste assez suspects pour qu'ils soient des candidats potentiels au rôle de Démon, mais pas assez pour qu'ils se fassent exécuter.</strong> Cela leur donne les meilleures chances de survivre jusqu'au dernier jour.
+<br><br>
+• <strong>Révélez vos informations le plus tôt possible pour tenter de convaincre l'équipe du bien de faire confiance aux joueurs que vous connaissez.</strong> Statistiquement, ils ont de fortes chances d'être des joueurs bons eux aussi et peuvent bénéficier de cette confiance. Et s'ils ne sont pas bons, ce sont des <strong>Sbires</strong>, ce n'est donc pas la pire des choses que de leur accorder un peu de confiance imméritée.
+<br><br>
+• <strong>Chassez les sources d'ivresse ou d'empoisonnement : vous devez savoir si vos informations sont vraies !</strong> Si vous suspectez avoir été rendu ivre ou empoisonné la première nuit, vous voudrez probablement tuer les deux joueurs que vous avez vus, car ils ont plus de chances d'être le <strong>Démon</strong>. Découvrir que vous étiez ivre ou empoisonné peut donc vous faire gagner la partie.
+<br><br>
+• <strong>Ne révélez les joueurs que vous avez appris que lorsqu'ils sont nommés, afin de les préserver de l'exécution.</strong> Cela garde l'information cachée au <strong>Démon</strong> aussi longtemps que possible, sans vous empêcher de maintenir ces joueurs en vie.
+<br><br>
+• <strong>Mettez-vous d'accord avec l'un des joueurs que vous avez appris pour échanger vos  rôles et vos informations.</strong> Vous êtes prêt à mourir pour amener les joueurs que vous savez ne pas être le <strong>Démon</strong> jusqu'au dernier jour. Ainsi, si l'information du <strong>Chevalier</strong> est partagée et que vous êtes vous-même confirmé comme n'étant pas le <strong>Démon</strong>, le <strong>Démon</strong> sera incité à vous tuer plutôt que les joueurs que vous avez appris.
+<br><br>
+• <strong>Citez en début de partie des joueurs que vous n'avez PAS appris comme étant vos « informations » publiques.</strong> S'ils ne meurent pas la nuit, soit le <strong>Démon</strong> n'a pas cru que vous étiez le <strong>Chevalier</strong> (peut-être parce que l'un de ces deux joueurs est en fait le <strong>Démon</strong> !), soit il avait des priorités de meurtre plus importantes durant la partie. Dans les deux cas, cela vous donne de très bonnes informations sociales.
+<br><br>
+• <strong>Prétendez être un autre rôle bon, comme la  <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>  ou la   <a href="../tb_roles/lavandiere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lavandière</a> , capable d'innocenter l'un des joueurs vus ou les deux.</strong> Cela vous évite d'être forcé de révéler vos informations de <strong>Chevalier</strong> trop tôt.
+<br><br>
+• <strong>Vous n'avez pas besoin que les joueurs que vous avez appris vous révèlent leurs rôles ou leurs informations : vous savez qu'ils ne sont pas le Démon et vous pouvez au moins leur faire confiance jusque-là.</strong> La meilleure option pour eux est peut-être de ne pas se révéler aussi longtemps que possible, sur la base de la confiance instaurée par vos informations les désignant.
+</p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+##  <span style="color:#4ea3ff;">Bluffer le Chevalier</span>
+<hr>
 
-  <li>Vous savez que les deux joueurs que vous avez appris ne sont pas le 
-      <span style="color:#d45b5b; font-weight:bold;">Démon</span>.  
-      Si ces deux joueurs survivent jusqu’au <strong>final 3</strong>,  
-      vous savez automatiquement qui est le Démon et pouvez faire gagner le Bien  
-      grâce à votre information.</li>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Lorsque vous bluffez le <strong>Chevalier</strong>, il y a plusieurs choses que vous devriez garder à l'esprit :
+<br><br>
+• <strong>Incluez votre Démon dans vos informations de Chevalier.</strong> C'est évident et direct, mais cela peut fonctionner : disculper votre <strong>Démon</strong> peut faire gagner des parties.
+<br><br>
+• <strong>Désignez deux joueurs bons dans vos informations.</strong> Ces deux joueurs bons savent qu'ils ne sont pas le <strong>Démon</strong>, ils sont donc enclins à croire que votre information est vraie au moins pour eux, ce qui les incite à vous faire davantage confiance.
+<br><br>
+• <strong>Désignez deux joueurs bons dans vos informations, puis passez le reste de la partie à essayer de ressembler à un Sbire.</strong> Cela fera passer les deux joueurs bons que vous avez nommés pour de potentiels <strong>Démons</strong> « innocentés » par un <strong>Sbire</strong> suspecté.
+<br><br>
+• <strong>Désignez un joueur bon et un joueur maléfique dans vos informations pour instaurer de la confiance entre eux.</strong> Cela donne à votre coéquipier maléfique une excellente base pour diffuser ses fausses informations.
+<br><br>
+• <strong>Tout comme le ferait un vrai Chevalier, cachez vos « informations » jusqu'en fin de partie, puis révélez-les pour faire dérailler les théories construites jusqu'alors.</strong>
+<br><br>
+• <strong>Le Chevalier est un excellent bluff de secours.</strong> Si votre <strong>Démon</strong> est nommé et risque de récolter assez de voix, abandonnez le bluff que vous utilisiez jusqu'ici, révélez-vous comme <strong>Chevalier</strong> et dites haut et fort à tout le monde que ce joueur n'est pas le <strong>Démon</strong>.
+<br><br>
+• <strong>Le Chevalier est aussi un très bon bluff initial pour les joueurs bons.</strong> Prétendez être le <strong>Chevalier</strong> et choisissez deux joueurs au hasard. Cela vous permettra de masquer votre véritable rôle, avec l'avantage supplémentaire de survivre probablement un moment et de ne pas trop vous faire remettre en question avant le milieu ou la fin de partie. Même si vous nommez accidentellement le <strong>Démon</strong> parmi vos deux joueurs, tant que vous vous rétractez en fin de partie, cela ne porte généralement pas trop préjudice à l'équipe du bien.
+<br><br>
+• <strong>Si vous êtes le Démon et que vous bluffez en Chevalier, tuez les joueurs que vous prétendez avoir appris.</strong> Cela vous valorise, car le village se dira que « le <strong>Démon</strong> a cru que vous étiez le <strong>Chevalier</strong> et a tué les joueurs qu'il ne pouvait pas se permettre de laisser arriver dans le dernier trio ».
+<br><br>
+• <strong>Réfléchissez bien au moment de révéler que vous êtes le Chevalier et au moment de révéler les informations que vous avez apprises.</strong> Ces deux actions n'ont pas nécessairement le même timing et peuvent avoir des impacts différents. Se prétendre <strong>Chevalier</strong> tôt peut vous apporter un peu de confiance sociale, mais vous pouvez temporiser et ne révéler aucune information concrète tant que vous ne savez pas ce qui aidera le plus votre équipe vers la fin de la partie.
+</p>
 
-  <li>Gardez d’abord votre information pour vous :  
-      le Démon voudra activement tuer les joueurs que vous avez vus  
-      pour éviter d’être découvert en fin de partie.  
-      Si vous ne dites pas qui ils sont, le Démon ne sait pas qui éliminer.</li>
+<hr class="explication">
 
-  <li>Cachez votre information et essayez de rendre les deux joueurs que vous avez vus  
-      juste assez suspects pour qu’ils restent des candidats possibles au rôle de Démon,  
-      mais pas au point d’être exécutés.  
-      Cela maximise leurs chances de survivre jusqu’à la fin.</li>
-
-  <li>Révélez votre information tôt pour convaincre le village de faire confiance  
-      aux joueurs que vous connaissez comme « non-Démon ».  
-      Statistiquement, il est très probable qu’ils soient aussi de vrais Villageois,  
-      et ils peuvent bénéficier de cette confiance.  
-      Et s’ils ne sont pas bons, il s’agit de <span style="color:#d45b5b; font-weight:bold;">Sbires</span>,  
-      ce qui n’est pas la pire erreur.</li>
-
-  <li>Traquez les sources d’ivresse ou de poison : vous devez savoir si votre information est vraie.  
-      Si vous pensez avoir été ivre ou empoisonné·e lors de la première nuit,  
-      il peut être judicieux d’exécuter les deux joueurs que vous avez vus,  
-      car ils sont alors plus susceptibles d’inclure le Démon.  
-      Découvrir que vous étiez ivre ou empoisonné·e peut littéralement faire gagner la partie.</li>
-
-  <li>Ne révélez les joueurs que vous avez appris que lorsqu’ils sont nommés.  
-      Cela aide à éviter leur exécution tout en cachant votre information au Démon  
-      le plus longtemps possible.</li>
-
-  <li>Mettez-vous d’accord avec l’un des deux joueurs que vous avez appris  
-      pour échanger vos déclarations de rôle et vos informations.  
-      Vous pouvez accepter de mourir pour amener ces joueurs jusqu’au final 3.  
-      Si l’on sait que vous êtes le Chevalier et que vous n’êtes pas le Démon,  
-      le Démon sera encouragé à vous tuer plutôt qu’à tuer les joueurs que vous avez vus.</li>
-
-  <li>Annoncez publiquement, dès le début, deux joueurs que vous <em>n’avez pas</em> appris  
-      comme étant vos « informations ».  
-      S’ils ne meurent pas la nuit suivante, cela veut dire soit que le Démon  
-      n’a pas cru à votre claim de Chevalier (peut-être parce que l’un d’eux est le Démon !),  
-      soit qu’il avait d’autres priorités de meurtre.  
-      Dans les deux cas, vous obtenez une bonne lecture sociale de la situation.</li>
-
-  <li>Vous pouvez prétendre être un autre Villageois, comme la 
-      <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>  
-      ou la Servante (Washerwoman si vous l’avez dans votre script),  
-      pour « blanchir » un ou deux joueurs que vous avez vus,  
-      sans être obligé·e de révéler trop tôt que vous êtes le Chevalier.</li>
-
-  <li>Vous n’avez pas besoin que les joueurs appris vous révèlent leur rôle.  
-      Vous savez simplement qu’ils ne sont pas le Démon et pouvez les croire au moins sur ce point.  
-      Il est parfois préférable pour eux de ne pas se dévoiler,  
-      profitant seulement de la confiance générée par votre information.</li>
-
-</ul>
-
----
-
-##  <span style="color:#4ea3ff;">Bluffer Chevalier</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Affirmez que votre Démon fait partie de vos deux « non-Démons ».  
-      C’est évident et direct, mais cela peut suffire :  
-      innocenter publiquement votre Démon peut gagner des parties.</li>
-
-  <li>Déclarez deux joueuses ou joueurs bons comme étant votre information.  
-      Comme ils savent tous les deux qu’ils ne sont pas le Démon,  
-      ils seront enclins à croire que votre information est vraie,  
-      au moins pour eux, et auront donc tendance à vous faire confiance.</li>
-
-  <li>Déclarez deux joueurs bons comme votre information  
-      puis passez le reste de la partie à vous comporter comme un Sbire.  
-      Cela encadre ces deux bons joueurs comme de possibles Démons  
-      « blanchis » par un rôle désormais suspect.</li>
-
-  <li>Déclarez un joueur bon et un joueur maléfique comme votre information,  
-      pour semer une relation de confiance entre eux.  
-      Votre coéquipier maléfique aura alors une excellente base sociale  
-      pour diffuser sa désinformation.</li>
-
-  <li>Comme un vrai Chevalier, gardez votre « information » secrète jusqu’à la fin de partie,  
-      puis révélez-la au moment critique pour faire dérailler  
-      toutes les théories construites jusque-là.</li>
-
-  <li>Le Chevalier est un excellent bluff de secours :  
-      si votre Démon est nommé et risque d’être exécuté,  
-      abandonnez votre bluff initial, révélez-vous comme Chevalier  
-      et annoncez haut et fort que cette personne n’est pas le Démon.</li>
-
-  <li>C’est aussi un très bon bluff initial pour un vrai joueur ou une vraie joueuse du Bien :  
-      annoncez Chevalier et choisissez deux joueurs au hasard.  
-      Vous pouvez ainsi cacher votre vrai rôle,  
-      survivre un peu plus longtemps et subir peu de pression  
-      jusqu’au milieu ou à la fin de la partie.  
-      Même si vous nommez accidentellement le Démon,  
-      tant que vous revenez sur votre claim avant la fin de partie,  
-      cela ne nuit généralement pas trop à l’équipe du Bien.</li>
-
-  <li>Si vous êtes le Démon qui bluffe Chevalier,  
-      tuez les joueurs que vous prétendez avoir appris.  
-      Vous aurez l’air crédible :  
-      « Le Démon a cru que j’étais vraiment le Chevalier  
-      et a tué les joueurs dont il ne voulait pas qu’ils soient en finale avec lui. »</li>
-
-  <li>Réfléchissez bien à <em>quand</em> révéler que vous êtes le Chevalier  
-      et <em>quand</em> révéler vos deux noms : ce n’est pas forcément au même moment.  
-      Se présenter tôt comme Chevalier peut vous apporter un peu de confiance sociale,  
-      mais vous pouvez garder vos deux noms en réserve  
-      jusqu’au moment où leur révélation sera la plus profitable pour votre camp.</li>
-
-</ul>
-
----
-
-<p style="text-align:left; font-size:18px; margin-top:20px;">
-   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
-   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+<p style="text-align:left; font-size:18px; margin-top:00px;">
+• <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+• <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
+• <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
