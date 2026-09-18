@@ -45,8 +45,9 @@ image: /images/Icon_alchemist.png
   <li><strong>Révélé :</strong> 7 octobre 2021</li>
 </ul>
 
+
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-« Va au cœur de la Terre. La rectification te dévoilera la pierre cachée. <br> Au-dessus de l’or, le rouge apparaîtra. <br> Kether en Malkhuth. »
+« Va au cœur de la Terre. <br> La rectification te dévoilera la pierre cachée. <br> Au-dessus de l’or, le rouge apparaîtra. <br> Kether en Malkhuth. »
 </p>
 
 
@@ -57,7 +58,7 @@ image: /images/Icon_alchemist.png
   <a href="../experimentaux.html" style="text-decoration:none;">
     <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:30px;">🎠 Apparaît dans : The Carousel Expérimental</span>
+    <span style="color:#e0b97a; font-weight:bold; font-size:30px;">🎠 Apparaît dans : Carrousel rôle expérimental</span>
   </a>
 </div>
 
@@ -118,7 +119,7 @@ La troisième nuit, il se réveille et essaie d’empoisonner le <a href="../rol
 Les jinxes suivants concernent l’<strong>Alchimiste</strong> et modifient sa capacité lorsqu’il interagit avec certains Sbires.
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:00px;">
 
   <li> 🧞
     <img src="../images/Icon_boffin.png" alt="Boffin" width="26" style="vertical-align:middle; border-radius:6px; margin-right:6px;">
