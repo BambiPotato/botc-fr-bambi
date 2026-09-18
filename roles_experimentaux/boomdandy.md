@@ -26,23 +26,24 @@ image: /images/Icon_boomdandy.png
 
 <hr class="sbire">
 
+
 <h2 id="informations" style="color:#d45b5b;">Informations</h2>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; padding-left:20px;">
-  <li style="margin-bottom:10px;"><strong>Type :</strong>
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li><strong>Type :</strong>
     <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>
   </li>
-  <li style="margin-bottom:10px;">
-    <strong>Nom original :</strong>
-    <a href="https://wiki.bloodontheclocktower.com/Boomdandy"
-       target="_blank"
-       rel="noopener noreferrer"
-       style="color:#d45b5b; font-weight:bold; text-decoration:none;">
-     Boomdandy
-    </a>
-  </li>
-  <li style="margin-bottom:10px;"><strong>Artiste :</strong> John Grist</li>
-  <li style="margin-bottom:10px;"><strong>Révélé :</strong> 1er juillet 2021</li>
+  <li>
+  <strong>Nom original :</strong>
+  <a href="https://wiki.bloodontheclocktower.com/Boomdandy"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+    Boomdandy
+  </a>
+</li>
+  <li><strong>Artiste :</strong> John Grist</li>
+  <li><strong>Révélé :</strong> 1er juillet 2021</li>
 </ul>
 
 
