@@ -77,7 +77,7 @@ image: /images/Icon_mezepheles.png
 <br><br>
 • Le Mezepheles n'apprend pas si un joueur devient maléfique. Le joueur bon apprend s'il devient maléfique, mais uniquement la nuit venue.
 <br><br>
-• Si le Mezepheles est sobre et sain cette nuit-là, le joueur bon devient maléfique, même si le Mezepheles était ivre ou empoisonné lorsque le joueur bon a prononcé le mot secret. Si le Mezepheles est ivre ou empoisonné la nuit où un joueur doit devenir maléfique, le joueur reste bon. Le Mezepheles a <strong>« utilisé sa capacité »</strong> et ne peut pas rendre un joueur maléfique plus tard.
+• Si le Mezepheles est sobre et sain cette nuit-là, le joueur bon devient maléfique, même si le Mezepheles était ivre ou empoisonné lorsque le joueur bon a prononcé le mot secret. <br> Si le Mezepheles est ivre ou empoisonné la nuit où un joueur doit devenir maléfique, le joueur reste bon. Le Mezepheles a <strong>« utilisé sa capacité »</strong> et ne peut pas rendre un joueur maléfique plus tard.
 </p>
 
 ##  <span style="color:#d45b5b;">Comment Conter</span>
@@ -88,11 +88,11 @@ Instructions au Conteur
 </p>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
-• Lors de la mise en place, écrivez un seul mot sur un morceau de papier ou sur un téléphone. Lors de la première nuit, réveillez le Mezepheles, montrez-lui ce mot. Ensuite, le Mezepheles se rendort.
+• Lors de la mise en place, écrivez un seul mot sur un morceau de papier ou sur un téléphone. <br> Lors de la première nuit, réveillez le Mezepheles, montrez-lui ce mot. Ensuite, le Mezepheles se rendort.
 <br><br>
 • La première fois que vous entendez un joueur bon prononcer le mot secret, marquez-le du jeton <strong>« Devient maléfique »</strong>.
 <br><br>
-• La nuit, si un joueur est marqué du jeton <strong>« Devient maléfique »</strong>, réveillez-le. Montrez la tuile <strong>« Vous êtes »</strong>, puis pointez le pouce vers le bas. Ce joueur se rendort. Retournez son jeton de rôle à l’envers. (Cela indique qu’il est désormais maléfique.) <strong>Le Mezepheles perd sa capacité</strong> — marquez-le du jeton <strong>« Sans capacité »</strong> et retirez son jeton de nuit de la fiche de nuit.
+• La nuit, si un joueur est marqué du jeton <strong>« Devient maléfique »</strong>, réveillez-le. Montrez la tuile <strong>« Vous êtes »</strong>, puis pointez le pouce vers le bas. Ce joueur se rendort. <br> Retournez son jeton de rôle à l’envers. (Cela indique qu’il est désormais maléfique.) <strong>Le Mezepheles perd sa capacité</strong> — marquez-le du jeton <strong>« Sans capacité »</strong> et retirez son jeton de nuit de la fiche de nuit.
 </p>
 
 <div class="botc-note">
@@ -107,7 +107,7 @@ Choisissez un mot inhabituel qui ne risque pas d’être prononcé accidentellem
 <br><br>
 • Le Mezepheles révèle le mot secret au <a href="../tb_roles/maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a>. Le <a href="../tb_roles/maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a>, qui veut rester bon, dit à tout le groupe qui est le Mezepheles.
 <br><br>
-• Le Mezepheles dit secrètement au <a href="../roles_experimentaux/noble.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Noble</a> le mot secret : <strong>« Constantinople »</strong>. Le <a href="../roles_experimentaux/noble.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Noble</a> rend visite au Conteur et lui dit <strong>« Constantinople »</strong> en privé. Cette nuit-là, le <a href="../bmr_roles/courtier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisan</a> rend le Mezepheles ivre. Le <a href="../roles_experimentaux/noble.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Noble</a> reste un joueur bon.
+• Le Mezepheles dit secrètement au <a href="../roles_experimentaux/noble.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Noble</a> le mot secret : <strong>« Constantinople »</strong>. Le <a href="../roles_experimentaux/noble.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Noble</a> rend visite au Conteur et lui dit <strong>« Constantinople »</strong> en privé. <br> Cette nuit-là, le <a href="../bmr_roles/courtisan.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisan</a> rend le Mezepheles ivre. Le <a href="../roles_experimentaux/noble.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Noble</a> reste un joueur bon.
 </p>
 
 ##  <span style="color:#d45b5b;">Conseils & Astuces</span>
