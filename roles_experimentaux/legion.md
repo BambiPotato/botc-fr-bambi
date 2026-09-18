@@ -46,7 +46,6 @@ image: /images/Icon_legion.png
 </ul>
 
 
-<hr class="demon">
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Nous sommes le vent glacé d’un jour d’hiver.  
@@ -62,7 +61,7 @@ image: /images/Icon_legion.png
   <a href="../experimentaux.html" style="text-decoration:none;">
     <img src="../images/carousel.png" alt="The Carousel Expérimental" width="300" style="border-radius:12px;">
     <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
+    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : Carousel rôle expérimental</span>
   </a>
 </div>
 
@@ -196,11 +195,12 @@ Alex, qui rassemble deux votes contre lui, dont un venant d’un joueur bon, est
 <li>Gardez à l'esprit que c'est le Conteur qui contrôle les morts nocturnes. Comme il doit généralement amener la partie à un dernier jour avec une seule <strong>Légion</strong> encore en vie, il éliminera principalement des joueurs <strong>Légion</strong>. <br> Si les morts paraissent étranges ou ne correspondent pas au comportement habituel d'un Démon, cela peut être un signe révélateur.</li>
 </ul>
 
-<hr class="explication">
+
 
 ## 🧞 <span style="color:#d45b5b;">Jinxes liés</span>
+<hr>
 
-<ul style="margin-left:40px; color:#f5f5f5; font-size:18px; line-height:1.7;">
+<ul style="margin-left:00px; color:#f5f5f5; font-size:18px; line-height:1.7;">
 
 <li>
 <img src="../images/Icon_engineer.png" alt="Ingénieur" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
@@ -271,7 +271,7 @@ le <strong>Chapelier</strong> n’a pas de capacité.
 
 <hr class="explication">
 
-<p style="text-align:left; font-size:18px; margin-top:20px;">
+<p style="text-align:left; font-size:18px; margin-top:00px;">
 • <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
 • <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Démons</a><br>
 • <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
