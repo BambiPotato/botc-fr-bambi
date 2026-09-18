@@ -152,7 +152,7 @@ Ensuite, il se rendort. Ce joueur est maintenant un Sbire maléfique. (Cela gara
 <hr>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
-• <strong>De la même manière que vous chercheriez l'<a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> dans <a href="/trouble_brewing.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Trouble Brewing</a>, cherchez un joueur qui donne de fausses informations, même de manière convaincante.</strong> Si les informations d'un joueur ne s'accumulent pas correctement, vous avez peut-être trouvé la <strong>Marionnette</strong>. Par exemple, si un joueur se prétend  <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>  avec un « 0 », mais que vous suspectez l'un de ses voisins d'être maléfique, cet  <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>   est peut-être la <strong>Marionnette</strong>.
+• <strong>De la même manière que vous chercheriez l'<a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> dans <a href="../trouble_brewing.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Trouble Brewing</a>, cherchez un joueur qui donne de fausses informations, même de manière convaincante.</strong> Si les informations d'un joueur ne s'accumulent pas correctement, vous avez peut-être trouvé la <strong>Marionnette</strong>. Par exemple, si un joueur se prétend  <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>  avec un « 0 », mais que vous suspectez l'un de ses voisins d'être maléfique, cet  <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>   est peut-être la <strong>Marionnette</strong>.
 <br><br>
 • <strong>Si un joueur se prétend Démon et affirme que vous êtes sa Marionnette, vous avez un problème.</strong> Êtes-vous la <strong>Marionnette</strong> ? Pas forcément. 
 Si vous pensez que ce joueur est bien le <strong>Démon</strong> et qu'une <strong>Marionnette</strong> est en jeu, parlez à l'autre voisin du <strong>Démon</strong> pour voir s'il ne serait pas la <strong>Marionnette</strong> à votre place ! Si vous pensez que ce joueur n'est pas le <strong>Démon</strong>, c'est très probablement un <strong>Sbire</strong>. Dans tous les cas, vous avez trouvé un joueur maléfique (ou un joueur bon qui doit arrêter de mentir). Si on vous dit que vous êtes la <strong>Marionnette</strong> mais que vous découvrez que c'est faux, vous avez pratiquement gagné la partie.
@@ -213,13 +213,13 @@ Si vous pensez que ce joueur est bien le <strong>Démon</strong> et qu'une <stro
   </li>
   <li>
     <img src="../images/Icon_mathematician.png" alt="Mathématicien" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../sv_roles/mathematician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mathématicien</a> :  
-    Le <a href="../sv_roles/mathematician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mathématicien</a>  
+    <a href="../sv_roles/mathematicien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mathématicien</a> :  
+    Le <a href="../sv_roles/mathematicien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mathématicien</a>  
     apprend si la capacité de la <strong>Marionnette</strong> a produit une fausse information ou a échoué à fonctionner correctement.
   </li>
   <li>
     <img src="../images/Icon_plaguedoctor.png" alt="Docteur de Peste" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/plaguedoctor.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Docteur de Peste</a> : 
+    <a href="../roles_experimentaux/plaguedoctor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Docteur de Peste</a> : 
     Si le Conteur devait obtenir la capacité de la <strong>Marionnette</strong>, l'un des voisins bons du <strong>Démon</strong> devient la <strong>Marionnette</strong>.
   </li>
   <li>
