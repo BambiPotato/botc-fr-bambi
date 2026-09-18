@@ -29,7 +29,7 @@ image: images/Icon_lilmonsta.png
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
-    <a href="../demon.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>
+    <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>
   </li>
   <li>
   <strong>Nom original :</strong>
@@ -45,9 +45,7 @@ image: images/Icon_lilmonsta.png
 </ul>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Étape 1 : Être tromignon.  
-  Étape 2 : Dominer le monde. 
-  Étape 3 : Ti-déj. »
+  « Étape 1 : Être tromignon. <br> Étape 2 : Dominer le monde. <br> Étape 3 : Ti-déj. »
 </p>
 
 <hr class="sbire">
@@ -110,15 +108,16 @@ Vous devrez peut-être tuer un ou deux Sbires pendant la nuit avec la capacité 
 <hr>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
-• L’ <a href="../tb_roles/poisoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>  et la <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a> se réveillent. 
-Ils se montrent du doigt, puis se désignent eux-mêmes, puis finalement s’accordent sur la <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a>, qui reçoit le jeton Timonstre. La nuit suivante, ils choisissent tous les deux de confier la garde du Timonstre à l’Empoisonneur.
+• L’ <a href="../tb_roles/empoisnoneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>  et la <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a> se réveillent. 
+Ils se montrent du doigt, puis se désignent eux-mêmes, puis finalement s’accordent sur la <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a>, qui reçoit le jeton Timonstre. La nuit suivante, ils choisissent tous les deux de confier la garde du Timonstre à 
+l’ <a href="../tb_roles/empoisnoneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> .
 </p>
 
 ##  <span style="color:#d45b5b;">Conseils & Astuces</span>
 <hr>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
-• <strong>L'une des plus grandes forces du Timonstre est que l'équipe du mal commence avec une capacité de Sbire supplémentaire en jeu !</strong> Comme l'équipe du bien ne s'attendra pas à ce Sbire supplémentaire, maximisez vos capacités de Sbires pour semer le chaos dans le village. Un <a href="../tb_roles/poisoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>,, une <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a>  ou même un  <a href="../bmr_roles/godfather.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parrain</a>  supplémentaire peut faire pencher la balance en faveur du mal avant même que le bien ne comprenne ce qui lui arrive !
+• <strong>L'une des plus grandes forces du Timonstre est que l'équipe du mal commence avec une capacité de Sbire supplémentaire en jeu !</strong> Comme l'équipe du bien ne s'attendra pas à ce Sbire supplémentaire, maximisez vos capacités de Sbires pour semer le chaos dans le village. Un <a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>, une <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a>  ou même un  <a href="../bmr_roles/parrain.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parrain</a>  supplémentaire peut faire pencher la balance en faveur du mal avant même que le bien ne comprenne ce qui lui arrive !
 <br><br>
 • <strong>Les joueurs bons seront à l'affût du nombre de Sbires qui semblent opérer dans le village — un Sbire de plus que prévu révélera que le Timonstre rôde dans les parages !</strong> Si vous voulez garder l'équipe du bien dans l'ignorance quant au Démon en jeu, soyez prudent dans l'utilisation des capacités qui ont des indices évidents, comme le <a href="../sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a> ou l'<a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>.
 <br><br>
@@ -152,7 +151,7 @@ En règle générale, ce n'est pas une bonne idée de confier le bébé à un jo
 <br><br>
 • <strong>Si vous êtes certain qu'un joueur est maléfique, vous voudrez peut-être le laisser intentionnellement en vie jusqu'au dernier jour, sans dire à personne que vous savez qu'il est un Sbire.</strong> S'il survit jusque-là et que l'équipe du mal pense qu'il est hors de soupçon, il finira probablement par garder le <strong>Timonstre</strong>, et vous pourrez l'exécuter pour obtenir la victoire.
 <br><br>
-• <strong>Si on vous donne le bébé alors que vous êtes un joueur bon, dites-le à tout le monde !</strong> Ce bébé est maléfique, et vous n'avez pas accepté de garder un bébé Démon maléfique ! S'il n'y a pas d' <a href="../bmr_roles/avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a>    ou d' <a href="../roles_experimentaux/heretic.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Hérétique</a> sur le script, vous voudrez peut-être vous faire exécuter, puisque vous savez où se trouve le Démon. Cependant, faites attention — s'il y a une <a href="../tb_roles/scarletwoman.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme écarlate</a>  en jeu, elle attrapera le bébé et vous laissera mort dans la poussière.
+• <strong>Si on vous donne le bébé alors que vous êtes un joueur bon, dites-le à tout le monde !</strong> Ce bébé est maléfique, et vous n'avez pas accepté de garder un bébé Démon maléfique ! S'il n'y a pas d' <a href="../bmr_roles/avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a>    ou d' <a href="../roles_experimentaux/heretic.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Hérétique</a> sur le script, vous voudrez peut-être vous faire exécuter, puisque vous savez où se trouve le Démon. Cependant, faites attention — s'il y a une <a href="../tb_roles/femmeecarlate.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme écarlate</a>  en jeu, elle attrapera le bébé et vous laissera mort dans la poussière.
 <br><br>
 • <strong>Rappelez-vous que l'équipe du mal ne contrôle pas qui meurt la nuit.</strong> Le Conteur décide qui meurt, et il peut choisir de laisser des Villageois puissants en vie pour aider à rééquilibrer la partie. Le Conteur peut également tuer au moins un joueur maléfique la nuit, alors ne faites pas confiance à tous ceux qui meurent la nuit dans une partie avec le <strong>Timonstre</strong> !
 </p>
@@ -185,7 +184,7 @@ En règle générale, ce n'est pas une bonne idée de confier le bébé à un jo
   </li>
   <li>
     <img src="../images/Icon_psychopath.png" alt="Psychopathe" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../sv_roles/psychopath.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Psychopathe</a> :  
+    <a href="../roles_experimentaux/psychopath.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Psychopathe</a> :  
     Si le <strong>Psychopathe</strong> garde le Timonstre, il meurt lorsqu’il est exécuté.
   </li>
   <li>
