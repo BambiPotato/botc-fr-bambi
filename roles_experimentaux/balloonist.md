@@ -151,12 +151,10 @@ Lorsque vous bluffez l’<strong>Aéronaute</strong>, gardez quelques points à 
 
 
 
-<hr class="explication">
-
-
 ## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
+<hr>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:00px;">
   <li>
     🧞 
     <img src="../images/Icon_marionette.png" alt="Marionnette" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
