@@ -73,7 +73,7 @@ Le Politicien change d'équipe si son équipe est en train de perdre.
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
 • À la fin du jeu, si le Politicien est responsable de la défaite de l’équipe du Bien, alors le Politicien devient maléfique et gagne lui aussi.
 <br><br>
-• Le joueur doit avoir exercé une influence déterminante sur l’issue de la partie. Diffuser de fausses informations ou voter contre des joueurs bons n’est souvent pas suffisant. <br> Le joueur doit autant que possible être celui qui porte le plus de responsabilité dans la défaite de l’équipe du Bien, plus que tout autre joueur, même maléfique. Le Conteur est seul juge de la situation pour déterminer si le Politicien a suffisamment manœuvré pour provoquer la défaite de son équipe.
+• Le joueur doit avoir exercé une influence déterminante sur l’issue de la partie. Diffuser de fausses informations ou voter contre des joueurs bons n’est souvent pas suffisant. Le joueur doit autant que possible être celui qui porte le plus de responsabilité dans la défaite de l’équipe du Bien, plus que tout autre joueur, même maléfique. Le Conteur est seul juge de la situation pour déterminer si le Politicien a suffisamment manœuvré pour provoquer la défaite de son équipe.
 <br><br>
 • Le Politicien peut toujours gagner avec l’équipe du Bien, comme d’habitude.
 <br><br>
@@ -139,8 +139,7 @@ Instructions au Conteur
 <hr>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
-• Lorsque vous bluffez le <strong>Politicien</strong>, il y a certains éléments que vous devez garder à l'esprit :
-<br>
+• Lorsque vous bluffez le <strong>Politicien</strong>, il y a certains éléments que vous devez garder à l'esprit :<br><br>
 • <strong>Cela peut être très amusant de taquiner le groupe de joueurs</strong> en laissant entendre que vous êtes le <strong>Politicien</strong> sans le révéler ouvertement. En étant à ce point extravagant, vous pouvez amener les autres joueurs à se remettre en question. De plus, c'est tout simplement génial d'être scandaleux. Laissez ensuite entendre que vous êtes le <a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Gobelin</a> si ce <strong>rôle</strong> est sur le script, pour qu'ils doutent encore plus.
 <br><br>
 • <strong>Si vous êtes sur le point d'être exécuté en tant que joueur maléfique, prétextez être le Politicien</strong> pour justifier vos actions louches ou maléfiques. Promettez d'être bon s'ils vous gardent en vie, puis continuez à faire peser cette menace sur leur tête s'ils ne s'y tiennent pas. Cependant, utiliser le <strong>Politicien</strong> comme bluff de secours peut se retourner contre vous, car les joueurs pourraient vouloir vous exécuter pour réduire votre capacité de vote et de nomination.
@@ -164,7 +163,7 @@ Instructions au Conteur
   </li>
  
   <li>
-    <img src="../images/Icon_legion.png" alt="Légion" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+   •  <img src="../images/Icon_legion.png" alt="Légion" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> : Le Politicien peut apparaître maléfique aux yeux de la Légion.
   </li>
  
