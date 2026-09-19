@@ -73,7 +73,7 @@ Le Politicien change d'équipe si son équipe est en train de perdre.
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
 • À la fin du jeu, si le Politicien est responsable de la défaite de l’équipe du Bien, alors le Politicien devient maléfique et gagne lui aussi.
 <br><br>
-• Le joueur doit avoir exercé une influence déterminante sur l’issue de la partie. Diffuser de fausses informations ou voter contre des joueurs bons n’est souvent pas suffisant. <br> Le joueur doit autant que possible être celui qui porte le plus de responsabilité dans la défaite de l’équipe du Bien, plus que tout autre joueur, même maléfique. <br> Le Conteur est seul juge de la situation pour déterminer si le Politicien a suffisamment manœuvré pour provoquer la défaite de son équipe.
+• Le joueur doit avoir exercé une influence déterminante sur l’issue de la partie. Diffuser de fausses informations ou voter contre des joueurs bons n’est souvent pas suffisant. <br> Le joueur doit autant que possible être celui qui porte le plus de responsabilité dans la défaite de l’équipe du Bien, plus que tout autre joueur, même maléfique. Le Conteur est seul juge de la situation pour déterminer si le Politicien a suffisamment manœuvré pour provoquer la défaite de son équipe.
 <br><br>
 • Le Politicien peut toujours gagner avec l’équipe du Bien, comme d’habitude.
 <br><br>
@@ -84,7 +84,7 @@ Le Politicien change d'équipe si son équipe est en train de perdre.
 <hr>
 
 <p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
-Instructions au Conteur :
+Instructions au Conteur 
 </p>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
@@ -140,7 +140,7 @@ Instructions au Conteur :
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
 • Lorsque vous bluffez le <strong>Politicien</strong>, il y a certains éléments que vous devez garder à l'esprit :
-<br><br>  
+<br>
 • <strong>Cela peut être très amusant de taquiner le groupe de joueurs</strong> en laissant entendre que vous êtes le <strong>Politicien</strong> sans le révéler ouvertement. En étant à ce point extravagant, vous pouvez amener les autres joueurs à se remettre en question. De plus, c'est tout simplement génial d'être scandaleux. Laissez ensuite entendre que vous êtes le <a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Gobelin</a> si ce <strong>rôle</strong> est sur le script, pour qu'ils doutent encore plus.
 <br><br>
 • <strong>Si vous êtes sur le point d'être exécuté en tant que joueur maléfique, prétextez être le Politicien</strong> pour justifier vos actions louches ou maléfiques. Promettez d'être bon s'ils vous gardent en vie, puis continuez à faire peser cette menace sur leur tête s'ils ne s'y tiennent pas. Cependant, utiliser le <strong>Politicien</strong> comme bluff de secours peut se retourner contre vous, car les joueurs pourraient vouloir vous exécuter pour réduire votre capacité de vote et de nomination.
@@ -159,29 +159,29 @@ Instructions au Conteur :
 
 <ul style="margin-left:0px; color:#f5f5f5; font-size:18px; line-height:1.7; list-style-type:none; padding-left:0;">
   <li>
-    <img src="../images/Icon_boffin.png" alt="Boffin" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    • <img src="../images/Icon_boffin.png" alt="Boffin" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/boffin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Laborantin</a> : Le Démon ne peut pas avoir la capacité du Politicien.
   </li>
-  <br>
+ 
   <li>
     <img src="../images/Icon_legion.png" alt="Légion" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> : Le Politicien peut apparaître maléfique aux yeux de la Légion.
   </li>
-  <br>
+ 
   <li>
-    <img src="../images/Icon_pithag.png" alt="Pit-Hag" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+   • <img src="../images/Icon_pithag.png" alt="Pit-Hag" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a> : Si la <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a> transforme un joueur maléfique en Politicien, il ne peut pas devenir bon grâce à sa propre capacité.
   </li>
-  <br>
+
   <li>
-    <img src="../images/Icon_vizier.png" alt="Vizir" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+   • <img src="../images/Icon_vizier.png" alt="Vizir" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a> : Le Politicien peut apparaître maléfique auprès du Vizir.
   </li>
 </ul>
 
 <hr class="explication">
 
-<p style="text-align:left; font-size:18px; margin-top:20px;">
+<p style="text-align:left; font-size:18px; margin-top:00px;">
 • <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
 • <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Marginaux</a><br>
 • <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
