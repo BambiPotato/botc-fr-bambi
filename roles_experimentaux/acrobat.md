@@ -47,7 +47,7 @@ image: /images/Icon_acrobat.png
 
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-« Mesdames et messieurs, accrochez-vous bien à vos chapeaux, <br> car je vais défier les lois mêmes de la gravité et danser dans les airs, <br> une merveille d’agilité et d’audace, <br> pour votre plus grand plaisir et votre émerveillement !  »
+« Mesdames et messieurs, <br> accrochez-vous bien à vos chapeaux, <br> car je vais défier les lois mêmes de la gravité et danser dans les airs, <br> une merveille d’agilité et d’audace, <br> pour votre plus grand plaisir et votre émerveillement !  »
 </p>
 
 
@@ -58,7 +58,7 @@ image: /images/Icon_acrobat.png
   <a href="../experimentaux.html" style="text-decoration:none;">
     <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:30px;">🎠 Apparaît dans : Carousel rôle expérimental</span>
+    <span style="color:#e0b97a; font-weight:bold; font-size:30px;">🎠 Apparaît dans : Carrousel rôle expérimental</span>
   </a>
 </div>
 
@@ -80,23 +80,23 @@ L’Acrobate meurt lorsqu’il trouve un joueur ivre ou empoisonné.
 <li>
 Chaque nuit, sauf la première, l’Acrobate choisit un joueur. Si le joueur choisi est sobre et en bonne santé, rien ne se passe.<br>
 Si le joueur est ivre ou empoisonné, l’Acrobate meurt.
-</li>
+</li><br>
 
 <li>
 Si l’Acrobate est ivre ou empoisonné, il ne peut pas mourir à cause de sa propre capacité.
-</li>
+</li><br>
 
 <li>
 L’Acrobate peut choisir n’importe quel joueur, mort ou vivant, y compris lui-même.
-</li>
+</li><br>
 
 <li>
 Si le joueur choisi est sobre et en bonne santé au moment où l’Acrobate le sélectionne, mais devient ivre ou empoisonné plus tard dans la nuit, l’Acrobate meurt.
-</li>
+</li><br>
 
 <li>
 L’Acrobate n’apprend pas si le joueur qu’il a choisi était ivre, empoisonné, ou les deux.
-</li>
+</li><br>
 
 <li>
 L’<a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> est considéré comme ivre pour l’Acrobate.
@@ -112,10 +112,8 @@ Instructions au Conteur
 </p>
 <ul style="margin:0; padding:0; list-style-position:inside; color:#f5f5f5; font-size:18px; line-height:1.7;">
 <li>
-Chaque nuit, sauf la première, réveillez l’Acrobate.<br>
-Il désigne un joueur.<br>
-Rendormez l’Acrobate.
-</li>
+Chaque nuit, sauf la première, réveillez l’Acrobate. L'Acrobate désigne un joueur. Rendormez l’Acrobate.
+</li><br>
 
 <li>
 Si le joueur désigné par l’Acrobate est ivre ou empoisonné, ou le devient à n’importe quel moment de cette nuit, l’Acrobate meurt.
@@ -130,12 +128,12 @@ Si le joueur désigné par l’Acrobate est ivre ou empoisonné, ou le devient �
 <li>
 Le <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a> choisit l’<a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>, et le Conteur rend le <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a> ivre.<br>
 L’Acrobate choisit le <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a> et meurt, car le <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a> est ivre.
-</li>
+</li><br>
 
 <li>
 L’Acrobate choisit le <a href="../bmr_roles/bricoleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bricoleur</a>, qui est sobre et en bonne santé.<br>
 Rien ne se passe.
-</li>
+</li><br>
 
 <li>
 L’Acrobate choisit le <a href="./preacher.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Prédicateur</a>.<br>
