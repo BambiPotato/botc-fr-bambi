@@ -90,13 +90,13 @@ Instructions au Conteur
 </p>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
-• Lors de la première nuit, réveillez l’Ogre. L’Ogre désigne un joueur. Ensuite, l’Ogre se rendort. Marquez le joueur choisi par l'Ogre du jeton <strong>« Amigo »</strong>. Si l’Ogre a désigné un joueur maléfique, faites pivoter le jeton Ogre à l’envers pour indiquer que l’Ogre est maléfique.
+• Lors de la première nuit, réveillez l’Ogre. L’Ogre désigne un joueur. Ensuite, l’Ogre se rendort. <br> Marquez le joueur choisi par l'Ogre du jeton <strong>« Amigo »</strong>. Si l’Ogre a désigné un joueur maléfique, faites pivoter le jeton Ogre à l’envers pour indiquer que l’Ogre est maléfique.
 </p>
 
 <div class="botc-note">
-Règle facultative : Marquez le joueur choisi par l'Ogre du jeton <strong>« Amigo »</strong>. L'Ogre a toujours le même alignement que son ami. Si l'ami de l’Ogre change d'alignement, l’Ogre change également d'alignement, mais l'Ogre ne l'apprend pas.
+<strong>Règle facultative :</strong> Marquez le joueur choisi par l'Ogre du jeton <strong>« Amigo »</strong>. <br> L'Ogre a toujours le même alignement que son ami. Si l'ami de l’Ogre change d'alignement, l’Ogre change également d'alignement, mais l'Ogre ne l'apprend pas.
 <hr>
-Ceci n'est recommandé que pour les parties à 15 joueurs ou plus, de manière à ce qu’il n’y ait pas trop de joueurs maléfiques.
+🚨 Ceci n'est recommandé que pour les parties à 15 joueurs ou plus, de manière à ce qu’il n’y ait pas trop de joueurs maléfiques.
 </div>
 
 ##  <span style="color:#4ea3ff;">Exemples</span>
@@ -147,7 +147,7 @@ Ceci n'est recommandé que pour les parties à 15 joueurs ou plus, de manière �
 <br><br>
 • <strong>Vous n'avez pas besoin de dire tout de suite quel joueur vous avez choisi.</strong> Parfois, attendre quelques jours peut être utile. Attendre d'avoir lié amitié avec un joueur confirmé bon avant de vous dévoiler en tant qu'<strong>Ogre</strong> sera moins crédible pour certains, mais pour ceux qui vous croient, cela confirmera dans leur esprit que vous êtes bon.
 <br><br>
-• <strong>Choisissez quelqu'un d'amusant !</strong> <em>Clocktower</em> n'a pas besoin d'être toujours sérieux. L'<strong>Ogre</strong> est un <strong>rôle</strong> qui fonctionne d'autant mieux que vous vous amusez. Choisir quelqu'un avec qui vous avez du feeling, quelqu'un qui appréciera votre compagnie pendant toute la partie, vous donnera probablement la confiance nécessaire pour convaincre l'équipe du bien que vous êtes l'<strong>Ogre</strong>.
+• <strong>Choisissez quelqu'un d'amusant !</strong> <em>Clocktower</em> n'a pas besoin d'être toujours sérieux. L'<strong>Ogre</strong> est un <strong>rôle</strong> qui fonctionne d'autant mieux si vous vous amusez. Choisir quelqu'un avec qui vous avez du feeling, quelqu'un qui appréciera votre compagnie pendant toute la partie, vous donnera probablement la confiance nécessaire pour convaincre l'équipe du bien que vous êtes l'<strong>Ogre</strong>.
 <br><br>
 • <strong>Choisissez un rôle qui, selon vous, survivra longtemps.</strong> Des <strong>rôles</strong> comme le <a href="../tb_roles/maire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Maire</a> ou le <a href="../roles_experimentaux/general.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Général</a> ont tendance à survivre plus facilement jusqu'au dernier jour. Que l'<strong>Ogre</strong> prétendu soit bon ou maléfique, il est généralement dans l'intérêt de l'équipe du bien de vous tuer tous les deux ou de vous maintenir tous les deux en vie jusqu'au jour final.
 <br><br>
@@ -172,7 +172,9 @@ Ceci n'est recommandé que pour les parties à 15 joueurs ou plus, de manière �
 • <strong>Si vous êtes maléfique et qu'un joueur bon prétend être votre Ogre, soyez prudent avant de lui révéler que vous êtes maléfique.</strong> Il ment peut-être sur le fait d'être l'<strong>Ogre</strong>. Avoir un <strong>Ogre</strong> maléfique qui croit tout ce que vous lui dites peut être extrêmement utile, mais avoir un faux <strong>Ogre</strong> qui est en réalité un <strong>Villageois</strong> bon sera désastreux s'il découvre que vous êtes maléfique.
 </p>
 
+
 ## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
+<hr>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0px;">
 
