@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Cultivateur de pavot
+title: Planteur de pavot
+description: "Sbires et Démons ne se connaissent pas. Si vous mourez, ils apprennent qui ils sont cette nuit."
+image: images/Icon_poppygrower.png
 ---
 
 <p align="left">
@@ -9,325 +11,181 @@ title: Cultivateur de pavot
   </a>
 </p>
 
-<!-- Cultivateur de pavot -->
+<hr class="explication">
 
-<div style="text-align:center; margin: 20px 0%;">
+<!-- Planteur de pavot -->
+
+<div style="text-align:center; margin: 20px 0;">
   <a href="./poppygrower.html" style="text-decoration:none;">
-    <img src="../images/Icon_poppygrower.png" alt="Cultivateur de pavot" width="260" style="border-radius:12px;">
+    <img src="../images/Icon_poppygrower.png" alt="Planteur de pavot" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#4ea3ff; font-weight:bold; font-size:22px;">Cultivateur de pavot</span>
+    <span style="color:#4ea3ff; font-weight:bold; font-size:22px;">Planteur de pavot</span>
   </a>
 </div>
 
-<!-- APPARAÎT DANS -->
-<div style="text-align:center; margin: 20px 0%;">
-  <a href="../experimentaux.html" style="text-decoration:none;">
-    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
-    <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
-  </a>
-</div>
-
-#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Cultivateur de pavot</span>
-
-<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Dans les bosquets cachés au cœur de la forêt, fleurit le pavot noir. 
-  Voir sa fête, c’est être envoûté. Sentir son épais parfum, c’est se perdre à jamais, 
-  esclave des dieux de la lumière et des ténèbres. »
-</p>
-
----
+<hr class="villageois">
 
 ##  <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li><strong>Type :</strong> 
+  <li><strong>Type :</strong>
     <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
   </li>
-  <li><strong>Artiste :</strong> <em>Z. Benetatos</em></li>
   <li>
-  <strong>Nom original :</strong>
-  <a href="https://wiki.bloodontheclocktower.com/Poppy_Grower"
-     target="_blank"
-     rel="noopener noreferrer"
-     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
-    Poppy Grower
-  </a>
-</li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Poppy_Grower"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+      Poppy Grower
+    </a>
+  </li>
+  <li><strong>Artiste :</strong> <em>Z. Benetatos</em></li>
   <li><strong>Révélé :</strong> 18 mars 2021</li>
 </ul>
 
----
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« C’est dans les bosquets cachés des profondeurs de la forêt que l’on trouve le pavot noir.<br> Le voir pousser est un véritable enchantement. <br> Une seule bouffée de son arôme intense suffit à vous perdre à jamais,<br> esclave des divinités de la lumière et de l’obscurité. »
+</p>
+
+<hr class="villageois">
+
+<!-- APPARAÎT DANS -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../experimentaux.html" style="text-decoration:none;">
+    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : Carrousel rôle expérimental</span>
+  </a>
+</div>
 
 ##  <span style="color:#4ea3ff;">Résumé</span>
+<hr class="villageois">
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Les Sbires et les Démons ne se connaissent pas. Si vous mourez, ils apprennent qui ils sont cette nuit-là. »</strong>
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
+« Sbires et Démons ne se connaissent pas. Si vous mourez, ils apprennent qui ils sont cette nuit. »
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Cultivateur de pavot</strong> empêche les joueurs maléfiques d’apprendre qui sont leurs alliés.  
-Tant qu’il vit et que sa capacité fonctionne, les <span style="color:#d45b5b; font-weight:bold;">Sbires</span> et les 
-<span style="color:#d45b5b; font-weight:bold;">Démons</span> sont dans le brouillard.
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Le Planteur de pavot empêche les joueurs maléfiques de se reconnaître mutuellement.
 </p>
 
-
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Les <span style="color:#d45b5b; font-weight:bold;">Sbires</span> et les 
-      <span style="color:#d45b5b; font-weight:bold;">Démons</span> ne se reconnaissent pas tant que le Cultivateur de pavot a sa capacité.</li>
-
-  <li>Le <span style="color:#d45b5b; font-weight:bold;">Démon</span> apprend tout de même trois rôles de 
-      <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> 
-      ou d’<a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a> qui ne sont pas en jeu,  
-      et qui sont des bluffs sûrs.</li>
-
-  <li>Si le Cultivateur de pavot meurt, le <span style="color:#d45b5b; font-weight:bold;">Démon</span> et les 
-      <span style="color:#d45b5b; font-weight:bold;">Sbires</span> apprennent qui ils sont cette nuit-là,  
-      comme lors d’une première nuit normale.</li>
-
-  <li>Si le Cultivateur de pavot est saoul ou empoisonné, les joueurs maléfiques ne se reconnaissent pas pour autant.  
-      S’il meurt alors qu’il est saoul ou empoisonné, les <span style="color:#d45b5b; font-weight:bold;">Sbires</span> et le 
-      <span style="color:#d45b5b; font-weight:bold;">Démon</span> ne se réveillent pas pour apprendre qui est qui,  
-      car le Cultivateur de pavot n’a pas de capacité cette nuit-là.</li>
-
-  <li>Un Voyageur maléfique qui arrive en cours de partie apprend tout de même  
-      quel joueur est le <span style="color:#d45b5b; font-weight:bold;">Démon</span> au moment où il entre en jeu.</li>
-
-</ul>
-
----
-
-## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>
-    🧞 
-    <img src="../images/Icon_lilmonsta.png" alt="P’tit Monstre" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/lilmonsta.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">P’tit Monstre</a> :  
-    Si le P’tit Monstre et le Cultivateur de pavot sont vivants, les 
-    <span style="color:#d45b5b; font-weight:bold;">Sbires</span> se réveillent un par un,  
-    jusqu’à ce que l’un d’eux choisisse de prendre le jeton de P’tit Monstre.
-  </li>
-
-  <li>
-    🧞 
-    <img src="../images/Icon_spy.png" alt="Espion" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espion</a> :  
-    Tant que le Cultivateur de pavot a sa capacité, l’Espion ne voit pas le Grimoire.
-  </li>
-
-  <li>
-    🧞 
-    <img src="../images/Icon_summoner.png" alt="Summoner" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/summoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Summoner</a> :  
-    Si le Cultivateur de pavot est vivant lors de la troisième nuit,  
-    le Summoner choisit quel <span style="color:#d45b5b; font-weight:bold;">Démon</span> est en jeu,  
-    mais pas quel joueur est ce Démon.
-  </li>
-
-  <li>
-    🧞 
-    <img src="../images/Icon_widow.png" alt="Veuve" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a> :  
-    Tant que le Cultivateur de pavot a sa capacité, la Veuve ne voit pas le Grimoire.
-  </li>
-
-</ul>
-
-
----
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Le Démon apprend toujours trois rôles qui ne sont pas en jeu en guise de bluffs.
+<br><br>
+• Si le Planteur de pavot meurt, le Démon et les Sbires apprennent mutuellement qui ils sont, comme s’il s’agissait de la première nuit.
+<br><br>
+• Si le Planteur de pavot devient ivre ou empoisonné, les Démons et les Sbires n’apprennent pas subitement qui ils sont. Si le Planteur de pavot est ivre ou empoisonné lorsqu’il meurt, les Démons et les Sbires n’apprennent pas mutuellement qui ils sont, car le Planteur de pavot n’a aucune capacité cette nuit-là.
+<br><br>
+• Un Voyageur maléfique apprend tout de même quel joueur est le Démon lorsque ce Voyageur entre en jeu.
+</p>
 
 ##  <span style="color:#4ea3ff;">Comment Conter</span>
+<hr>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Lors de la première nuit, réveillez le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.  
-Montrez le jeton d’information <strong>CES RÔLES NE SONT PAS EN JEU</strong>,  
-puis montrez trois jetons de rôles bons qui ne sont pas en jeu.  
-Endormez ensuite le Démon.  
-Ne faites pas les étapes habituelles d’<strong>infos Sbires</strong> et d’<strong>infos Démon</strong>.
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Instructions au Conteur 
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Si le Cultivateur de pavot meurt, marquez son jeton avec le rappel <strong>LES MALÉFIQUES SE RÉVEILLENT</strong>.  
-Cette nuit-là :
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Lors de la première nuit, réveillez le Démon. Montrez-lui la tuile <strong>« Ces rôles ne sont pas en jeu »</strong> et trois jetons de rôle bons qui ne sont pas en jeu. Ensuite, le Démon se rendort. Ne résolvez pas les étapes <strong>« Info des Sbires »</strong> et <strong>« Info du Démon »</strong>.
+<br><br>
+• Si le Planteur de pavot meurt, marquez-le du jeton <strong>« le Mal s’éveille »</strong>. Cette nuit-là, réveillez les Sbires et laissez-les se reconnaître. Montrez-leur la tuile <strong>« Voici le Démon »</strong>, puis désignez le Démon. Les Sbires se rendorment. Réveillez le Démon. Montrez-lui la tuile <strong>« Voici vos Sbires »</strong>, puis désignez les Sbires. Le Démon se rendort.
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<div class="botc-note">
+• <strong>Règle optionnelle :</strong> Si le Planteur de pavot devient ivre, empoisonné, ou quitte le jeu, les Sbires et le Démon apprennent qui sont les autres cette nuit-là.
+</div> 
 
-  <li>Réveillez les <span style="color:#d45b5b; font-weight:bold;">Sbires</span> et laissez-les se regarder pour se reconnaître.</li>
-  <li>Montrez le jeton d’information <strong>VOICI LE DÉMON</strong>, puis pointez le joueur qui est le Démon.  
-      Endormez les Sbires.</li>
-  <li>Réveillez ensuite le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.  
-      Montrez le jeton d’information <strong>VOICI VOS SBIRES</strong>,  
-      puis pointez les Sbires. Endormez le Démon.</li>
-
-</ul>
-
----
 
 ##  <span style="color:#4ea3ff;">Exemples</span>
+<hr>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-
-L’<a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Imp</a>, 
-l’<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>  
-et la <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> sont en jeu.  
-Lors de la première nuit, l’Imp se réveille, apprend trois rôles non en jeu comme bluffs,  
-mais ne sait pas quels joueurs sont ses Sbires.  
-L’Empoisonneur et la Sorcière ne se réveillent pas pour apprendre qui est le Démon ni qui sont les autres Sbires.
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Le <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a>, l'<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> et la <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> sont en jeu. La première nuit, le <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> se réveille pour apprendre trois rôles qui ne sont pas en jeu, mais il n’apprend pas quels joueurs sont des Sbires. L'<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> et la <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> ne se réveillent pas pour apprendre mutuellement qui ils sont, et n’apprennent pas non plus qui est le Démon.
+<br><br>
+• Le Planteur de pavot est exécuté et meurt. Cette nuit-là, le <a href="../bmr_roles/shabaloth.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a> apprend quels joueurs sont des Sbires. Le <a href="../bmr_roles/parrain.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parrain</a> mort et le <a href="../tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> en vie se réveillent, se reconnaissent et apprennent quel joueur est le <a href="../bmr_roles/shabaloth.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a>.
+<br><br>
+• Le Planteur de pavot est l'<a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>. La première nuit, les joueurs maléfiques apprennent mutuellement qui ils sont, comme d’habitude. La quatrième nuit, le Démon tue le Planteur de pavot. Les Démons et les Sbires ne se réveillent pas à nouveau pour apprendre mutuellement qui ils sont, parce que le Planteur de pavot est l'<a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>.
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+##  <span style="color:#4ea3ff;">Conseils & Astuces</span>
+<hr>
 
-Le Cultivateur de pavot est exécuté et meurt.  
-Cette nuit-là, le <a href="../bmr_roles/shabaloth.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a>  
-apprend quels joueurs sont ses Sbires.  
-Le <a href="../bmr_roles/godfather.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parrain</a>  
-et le <a href="../tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a>  
-se réveillent, se reconnaissent, et apprennent quel joueur est le Shabaloth.
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• <strong>Gardez le secret, restez en sécurité.</strong> La plus grande force du <strong>Planteur de pavot</strong> réside dans la paranoïa qu'il crée en privant l'équipe maléfique de son plus grand atout.
+<br><br>
+• <strong>Révélez-vous de manière extrêmement bruyante !</strong> Quelqu'un qui prétend si férocement être le <strong>Planteur de pavot</strong>, c'est tout simplement bizarre, et cela va pousser l'équipe maléfique à se questionner sur votre identité. Ils pourraient vous laisser en vie parce que vous ressemblez à un <strong>rôle</strong> qui cherche à se faire tuer, comme la <a href="../roles_experimentaux/farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermière</a>. De plus, le <strong>Démon</strong> pourrait ne pas vouloir « confirmer » que vous êtes le <strong>Planteur de pavot</strong> en vous tuant.
+<br><br>
+• <strong>En tant que Planteur de pavot, vous êtes essentiellement le seul responsable de l'incapacité de l'équipe maléfique à se coordonner.</strong> Portez une attention particulière à deux joueurs qui prétendent être le même <strong>rôle</strong>. L'un d'eux est potentiellement un <strong>Sbire</strong>, car il n'a pas obtenu ses bluffs de la part du <strong>Démon</strong>.
+<br><br>
+• <strong>Dès le premier jour, observez qui se mêle aux autres et qui reste discrètement dans son coin.</strong> Les <strong>Sbires</strong>, étant coupés du reste de leur équipe, seront particulièrement prudents car ils n'auront aucune information pour commencer. Observez attentivement le langage corporel des joueurs, car ils sont susceptibles de communiquer inconsciemment leur anxiété et leur isolement. Méfiez-vous des joueurs qui sont les derniers à révéler leur <strong>rôle</strong>, car ils pourraient être des <strong>Sbires</strong>.
+<br><br>
+• <strong>Vous risquez d'être vu par l'équipe maléfique comme une cible prioritaire à tuer pendant la nuit.</strong> Soyez très prudent quant aux personnes avec qui vous partagez votre <strong>rôle</strong>.
+<br><br>
+• <strong>Chaque jour, confiez votre rôle à un nouveau joueur.</strong> Si vous mourez la nuit tôt dans la partie, il y a de fortes chances que l'une des personnes à qui vous vous êtes confié soit spécifiquement le <strong>Démon</strong>, et non un <strong>Sbire</strong>, car un <strong>Sbire</strong> n'aurait aucun moyen facile de communiquer votre identité au <strong>Démon</strong>. Bien sûr, rien n'empêche le <strong>Sbire</strong> de vous révéler publiquement, mais au moins, vous emportez un <strong>Sbire</strong> certain avec vous.
+<br><br>
+• <strong>En tant que Planteur de pavot, vous pouvez prétendre être un joueur maléfique pour tromper les joueurs maléfiques en leur faisant croire que vous l'êtes aussi.</strong> Allez voir secrètement différents joueurs et dites-leur que vous savez qu'un <strong>Planteur de pavot</strong> est en jeu, comme un code indiquant que vous êtes un « joueur maléfique ». Ils pourraient mordre à l'hameçon et se confier à vous.
+<br><br>
+• <strong>Si vous mourez, observez les changements soudains de comportement.</strong> L'équipe maléfique vient soudainement de gagner énormément d'informations et peut mieux se coordonner. Cela peut inclure des joueurs qui ne votaient pas auparavant et qui se mettent à voter, des joueurs qui votaient fermement contre un joueur et qui changent soudainement de cible, ou des joueurs qui se révèlent peu après votre mort (et qui viennent vraisemblablement de recevoir un bluff de la part du <strong>Démon</strong>).
+<br><br>
+• <strong>Si vous ne vous révélez pas après votre mort, l'équipe maléfique sait exactement qui vous êtes, mais pas l'équipe du bien.</strong> Cela signifie que les joueurs qui vous accordent un peu trop d'attention pourraient en réalité être l'équipe maléfique essayant de vous cacher leurs actions.
+<br><br>
+• <strong>Si vous réussissez à faire en sorte d'être ivre ou empoisonné au moment de votre mort, l'équipe maléfique n'apprend pas qui sont les autres.</strong> Bien que cela puisse être très difficile à réaliser car peu de <strong>rôles</strong> bons peuvent vous rendre volontairement <strong>ivrogne</strong>, la récompense est énorme.
+<br><br>
+• <strong>Révélez-vous lors du dernier jour si vous êtes toujours en vie.</strong>
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+##  <span style="color:#4ea3ff;">Bluffer le Planteur de pavot</span>
+<hr>
 
-Le Cultivateur de pavot est en réalité l’
-<a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>.  
-La première nuit, les joueurs maléfiques apprennent donc normalement qui est qui.  
-Plus tard, lors de la quatrième nuit, le Démon tue le Cultivateur de pavot.  
-Les <span style="color:#d45b5b; font-weight:bold;">Sbires</span> et le 
-<span style="color:#d45b5b; font-weight:bold;">Démon</span> ne se réveillent pas à nouveau,  
-car le Cultivateur de pavot n’a jamais eu de capacité réelle.
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Lorsque vous bluffez le <strong>Planteur de pavot</strong>, il y a certains éléments que vous devez garder à l'esprit :
+<br><br>
+• <strong>En tant que joueur maléfique, vous saurez avec certitude s'il y a un Planteur de pavot dans la partie ou non.</strong> Si vous apprenez qui sont vos coéquipiers maléfiques, il n'y a pas de <strong>Planteur de pavot</strong>. Le <strong>Planteur de pavot</strong> peut donc être un bluff sûr, non seulement pour un <strong>Démon</strong> à qui le <strong>Planteur de pavot</strong> n'a pas été montré comme « non-en-jeu », mais aussi pour les <strong>Sbires</strong>. Le bluff est tellement sûr que (tout comme lorsqu'on bluffe en <a href="../roles_experimentaux/atheist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Athée</a>), vous pourriez découvrir que d'autres joueurs maléfiques ont eux aussi prétendu être le <strong>Planteur de pavot</strong> en secret à d'autres, et vous vous retrouvez accidentellement avec plusieurs faux <strong>Planteurs de pavot</strong>.
+<br><br>
+• <strong>Lorsqu'on vous nomine, prétendre être la seule chose qui empêche l'équipe maléfique de se rencontrer peut être un argument très convaincant pour être épargné.</strong> Cependant... vous devrez trouver une explication au fait que vous avez survécu à la nuit.
+<br><br>
+• <strong>Vous pouvez dire à une ou deux personnes que vous êtes le Planteur de pavot</strong> et faire croire à tort à l'équipe du bien qu'elle est en train de gagner la partie.
+<br><br>
+• <strong>Ne dites à personne que vous êtes le Planteur de pavot, faites-vous tuer par un moyen quelconque, attendez la fin de la journée, puis annoncez que certaines personnes ayant eu des conversations privées aujourd'hui sont probablement maléfiques</strong>, car l'équipe maléfique vient tout juste d'apprendre qui sont les autres.
+<br><br>
+• <strong>Si le Planteur de pavot est en jeu, bluffer en Planteur de pavot malgré tout est susceptible de le faire sortir de sa cachette.</strong> Le vrai <strong>Planteur de pavot</strong> saura que vous mentez, mais au moins le <strong>Démon</strong> sait quel joueur est le <strong>Planteur de pavot</strong> maintenant. L'équipe du bien pourrait même hésiter à exécuter l'un ou l'autre d'entre vous, de peur que l'équipe maléfique n'apprenne qui sont les autres une fois le vrai <strong>Planteur de pavot</strong> mort.
+<br><br>
+• <strong>Le Planteur de pavot est un excellent bluff à faire après votre mort.</strong> Cela renvoie subtilement le message que l'équipe maléfique est sur le point d'être beaucoup plus coordonnée qu'auparavant, et si vous agissiez déjà plutôt bien ensemble, cela vous fera paraître d'autant plus imposants. Voir l'équipe du bien perdre foi en sa victoire pourrait être le coup de pouce dont vous avez besoin.
+<br><br>
+• <strong>Les parties avec un Planteur de pavot ont souvent une atmosphère étrange.</strong> Tout comme dans une partie avec la <a href="../roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a>, l'équipe du bien peut ressentir que quelque chose cloche subtilement. C'est difficile à cerner, mais cela est principalement dû au fait que l'équipe maléfique peine à élaborer un plan d'équipe. Néanmoins, certaines parties ont simplement une sensation bizarre, comme si tout le monde était trop silencieux, ou que rien ne semblait coller. Si votre partie a ce sentiment, envisagez de passer de votre bluff initial à un bluff de <strong>Planteur de pavot</strong>, comme un moyen d'expliquer ce ressenti à l'équipe du bien. Se révéler comme <strong>Planteur de pavot</strong> après quelques jours où l'équipe du bien se demande « que se passe-t-il ? C'est différent cette fois » peut susciter un sentiment de clarté et de soulagement. Normalement, il est sage de choisir un <strong>rôle</strong> à bluffer et de laisser ce bluff influencer la partie. Parfois, il peut être sage de laisser la partie dicter quel bluff est le plus approprié.
 </p>
 
----
+## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
+<hr>
 
-##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>« Gardez le secret, gardez-le en sécurité. »  
-      La plus grande force du Cultivateur de pavot est la paranoïa qu’il crée  
-      en privant le Mal de sa meilleure arme : la coordination.</li>
-
-  <li>Vous pouvez aussi vous révéler très bruyamment comme Cultivateur de pavot.  
-      Une revendication aussi agressive est étrange et peut faire douter le Mal :  
-      certaines Démons et certains Sbires se diront que vous êtes peut-être un rôle  
-      qui veut mourir, comme le 
-      <a href="../roles_experimentaux/farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermier</a>,  
-      et hésiteront à vous tuer pour ne pas « confirmer » que vous êtes bien Cultivateur de pavot.</li>
-
-  <li>Vous êtes presque à vous seul responsable du fait que le Mal ne peut pas se coordonner.  
-      Surveillez avec attention les joueurs et joueuses qui doublent un rôle.  
-      Si deux personnes prétendent être le même rôle, il est possible que l’une d’elles soit un 
-      <span style="color:#d45b5b; font-weight:bold;">Sbire</span> qui n’a pas reçu de bluff du Démon.</li>
-
-  <li>Dès le premier jour, observez qui se mélange aux autres et qui reste à l’écart.  
-      Des Sbires coupés du reste de leur équipe seront souvent plus prudents,  
-      car ils n’ont aucune info de départ.  
-      Soyez attentif aux corps qui se crispent, aux regards fuyants,  
-      et méfiez-vous de celles et ceux qui révèlent leur rôle en dernier.</li>
-
-  <li>Vous êtes une cible de choix pour les morts nocturnes.  
-      Réfléchissez bien à qui vous révélez votre rôle et à quel moment.</li>
-
-  <li>Une méthode consiste à révéler votre rôle chaque jour à une nouvelle personne.  
-      Si vous mourez la nuit tôt dans la partie, il y a de bonnes chances  
-      que l’une des personnes à qui vous vous êtes confié soit le Démon lui-même,  
-      et non un simple Sbire, puisqu’un Sbire n’a pas forcément moyen de vous dénoncer en privé.</li>
-
-  <li>En tant que Cultivateur de pavot, vous pouvez aussi faire semblant d’être maléfique  
-      pour piéger les Sbires.  
-      Allez voir certains joueurs en privé et dites-leur que vous « savez »  
-      qu’un Cultivateur de pavot est en jeu, comme si c’était un code secret.  
-      Si une personne mord à l’hameçon et se confie à vous, elle est peut-être un Sbire.</li>
-
-  <li>Si vous mourez, observez les changements de comportement.  
-      Le Mal vient de récupérer énormément d’informations et peut enfin se coordonner.  
-      Cela peut se traduire par :
-      <ul style="margin-left:40px; list-style-type:disc;">
-        <li>des joueurs et joueuses qui se mettaient peu à voter et qui, soudain, votent souvent ;</li>
-        <li>des personnes qui changeaient de cible d’exécution de manière incohérente  
-            et qui soudain se focalisent très précisément ;</li>
-        <li>de nouveaux rôles prétendument révélés juste après votre mort,  
-            provenant sans doute de bluffs transmis par le Démon.</li>
-      </ul>
+<ul style="margin-left:0px; color:#f5f5f5; font-size:18px; line-height:1.7; list-style-type:none; padding-left:0;">
+  <li>
+    • <img src="../images/Icon_lilmonsta.png" alt="P’tit Monstre" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/lilmonsta.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Timonstre</a> : Si le <a href="../roles_experimentaux/lilmonsta.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Timonstre</a> et le Planteur de pavot sont en vie, les Sbires se réveillent un par un jusqu'à ce que l'un d'eux choisisse de prendre le jeton du <a href="../roles_experimentaux/lilmonsta.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Timonstre</a>.
+  </li>
+  
+  <li>
+    • <img src="../images/Icon_spy.png" alt="Espion" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a> : Si le Planteur de pavot a sa capacité, l'<a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a> ne voit pas le Grimoire.
+  </li>
+  
+  <li>
+    • <img src="../images/Icon_summoner.png" alt="Summoner" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/summoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocatrice</a> : Si le Planteur de pavot est en vie la 3e nuit, l'<a href="../roles_experimentaux/summoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocatrice</a> choisit quel Démon, mais pas quel joueur.
   </li>
 
-  <li>Si vous ne vous révélez pas après votre mort, l’équipe maléfique sait qui vous êtes,  
-      mais le Bien l’ignore.  
-      Les joueurs et joueuses qui semblent vous « surveiller » de près  
-      pourraient être des Sbires ou le Démon,  
-      cherchant à cacher leur changement de comportement.</li>
-
-  <li>Si vous parvenez à être saoul ou empoisonné au moment où vous mourez,  
-      l’équipe maléfique ne se reconnaît pas cette nuit-là.  
-      C’est très difficile à mettre en place,  
-      mais l’impact est énorme si vous y arrivez.</li>
-
-  <li>Si vous êtes encore en vie au dernier jour, révélez-vous comme Cultivateur de pavot :  
-      cela éclaire rétroactivement toute la partie, en particulier si le Mal  
-      a semblé jouer de manière désorganisée.</li>
-
+  <li>
+    • <img src="../images/Icon_widow.png" alt="Veuve" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a> : Si le Planteur de pavot a sa capacité, la <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a> ne voit pas le Grimoire.
+  </li>
 </ul>
 
----
+<hr class="explication">
 
-##  <span style="color:#4ea3ff;">Bluffer Cultivateur de Pavot</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>En tant que personnage maléfique, vous savez avec certitude si un Cultivateur de pavot  
-      est en jeu ou non.  
-      Si vous apprenez qui sont vos alliés maléfiques lors de la première nuit,  
-      alors il n’y a pas de Cultivateur de pavot.  
-      C’est donc un bluff très sûr, aussi bien pour le <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
-      que pour les <span style="color:#d45b5b; font-weight:bold;">Sbires</span>.</li>
-
-  <li>Au moment d’une nomination, clamer que vous êtes « la seule chose »  
-      qui empêche le Mal de se reconnaître peut être un argument très convaincant  
-      pour éviter votre exécution.  
-      Il vous faudra toutefois justifier pourquoi vous êtes encore en vie  
-      après plusieurs nuits.</li>
-
-  <li>Vous pouvez révéler votre rôle à une ou deux personnes seulement  
-      et laisser le Bien croire qu’il a l’avantage.  
-      Un faux sentiment de sécurité peut être très dangereux pour l’équipe du Bien.</li>
-
-  <li>Vous pouvez aussi ne rien dire, chercher à mourir,  
-      puis annoncer plus tard que certaines personnes qui ont parlé ensemble en privé  
-      juste avant votre mort sont probablement maléfiques,  
-      sous prétexte que « le Mal vient tout juste d’apprendre qui est qui ».</li>
-
-  <li>Si un vrai Cultivateur de pavot est en jeu, bluffer ce rôle quand même  
-      est un bon moyen de le faire sortir de l’ombre.  
-      Le vrai Cultivateur de pavot saura que vous mentez,  
-      mais au moins le <span style="color:#d45b5b; font-weight:bold;">Démon</span> saura qui il doit tuer.  
-      Le Bien hésitera même peut-être à exécuter l’un ou l’autre,  
-      de peur de donner les infos au Mal.</li>
-
-  <li>Bluffer Cultivateur de pavot après votre mort peut aussi être très efficace.  
-      Cela sous-entend que l’équipe maléfique va devenir beaucoup mieux coordonnée,  
-      et si vous jouiez déjà de manière organisée,  
-      cela donne l’impression que vous étiez bridés jusque-là.  
-      Le découragement du Bien peut être tout bénéfice pour vous.</li>
-
-  <li>Les parties avec Cultivateur de pavot ont souvent une ambiance étrange,  
-      un peu comme avec <a href="../roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a>.  
-      Le Bien peut sentir que « quelque chose cloche » sans savoir quoi.  
-      Si vous ressentez cette confusion générale,  
-      vous pouvez abandonner votre bluff initial pour vous révéler en tant que faux Cultivateur de pavot,  
-      expliquant ainsi ce ressenti.  
-      Arriver avec ce bluff après quelques jours de flottement  
-      peut provoquer un grand soupir de soulagement… tout à votre avantage.</li>
-
-</ul>
-
----
-
-<p style="text-align:left; font-size:18px; margin-top:20px;">
-   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
-   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+<p style="text-align:left; font-size:18px; margin-top:00px;">
+• <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+• <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
+• <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
