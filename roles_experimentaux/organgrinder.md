@@ -143,7 +143,7 @@ Les joueurs ne peuvent pas utiliser d'autres méthodes pour déterminer qui vote
 <hr>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
-• <strong>Discitez de vos nominations avant de les faire.</strong> Il est plus probable qu'un vote aboutisse si tous les joueurs bons comprennent parfaitement l'accusation et la logique avant que la nomination ne soit faite, et d'autres joueurs pourront peut-être apporter des informations sur une nomination derrière laquelle vous pourrez tenter de rassurer et rassembler le groupe.
+• <strong>Discutez de vos nominations avant de les faire.</strong> Il est plus probable qu'un vote aboutisse si tous les joueurs bons comprennent parfaitement l'accusation et la logique avant que la nomination ne soit faite, et d'autres joueurs pourront peut-être apporter des informations sur une nomination derrière laquelle vous pourrez tenter de rassurer et rassembler le groupe.
 <br><br>
 • <strong>Annoncez clairement votre intention de voter dès le début !</strong> C'est un réflexe naturel dans <em>Clocktower</em> que de vouloir observer les autres votes au fur et à mesure qu'ils se déroulent afin d'orienter le sien, vous pouvez donc hésiter à parler plus tôt pour ne pas vous enfermer dans un vote d'un côté ou de l'autre. Cependant, dans une partie avec un <strong>Organiste de rue</strong>, vous ne pouvez pas voir les votes et vous voulez vous coordonner, il vaut donc la peine de faire savoir aux gens que vous avez l'intention de voter afin qu'ils sachent qu'il vaut potentiellement la peine de voter avec vous.
 <br><br>
@@ -162,7 +162,7 @@ Les joueurs ne peuvent pas utiliser d'autres méthodes pour déterminer qui vote
 <ul style="margin-left:0px; color:#f5f5f5; font-size:18px; line-height:1.7; list-style-type:none; padding-left:0;">
   <li>
     <img src="../images/Icon_alchemist.png" alt="Alchimiste" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> : Si l’<a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> possède la capacité de l’<strong>Organiste de rue</strong>, l’<strong>Organiste de rue</strong> est en jeu. Si les deux sont libres/sobres, les deux sont ivres.
+    <a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> : Si l’<a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> possède la capacité de l’<strong>Organiste de rue</strong>, l’<strong>Organiste de rue</strong> est en jeu. <br> Si les deux sont sobres, les deux sont <strong>ivres</strong>.
   </li>
   <br>
   <li>
