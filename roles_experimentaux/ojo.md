@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ojo
-description: Chaque nuit*, choisissez un rôle ce rôle meurt. S’il n’est pas en jeu, le Conteur choisit qui meurt.  
+description: "Chaque nuit*, choisissez un rôle : il meurt. S’il n’est pas en jeu, le Conteur choisit qui meurt."
 image: /images/Icon_ojo.png
 ---
 
@@ -10,6 +10,8 @@ image: /images/Icon_ojo.png
     <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
+
+<hr class="explication">
 
 <!-- Ojo -->
 
@@ -21,308 +23,131 @@ image: /images/Icon_ojo.png
   </a>
 </div>
 
+<hr class="demon">
+
+##  <span style="color:#d45b5b;">Informations</span>
+
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+  <li><strong>Type :</strong> 
+    <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>
+  </li>
+  <li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Ojo"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+      Ojo
+    </a>
+  </li>
+  <li><strong>Artiste :</strong> Chloe McDougall</li>
+  <li><strong>Révélé :</strong> 19 octobre 2023</li>
+</ul>
+
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Comme un feu de joie par une nuit <br> sans lune… Je te vois, mortel. »
+</p>
+
+<hr class="demon">
+
 <!-- APPARAÎT DANS -->
 <div style="text-align:center; margin: 20px 0%;">
   <a href="../experimentaux.html" style="text-decoration:none;">
     <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
+    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : Carrousel rôle expérimental</span>
   </a>
 </div>
 
-#  <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Ojo</span>
-
-<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Comme un brasier dans une nuit sans lune…  
-  Je te vois, mortel. »
-</p>
-
----
-
-##  <span style="color:#d45b5b;">Informations</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-  <li><strong>Type :</strong>
-    <a href="/demon.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>
-  </li>
-  <li>
-  <strong>Nom original :</strong>
-  <a href="https://wiki.bloodontheclocktower.com/Ojo"
-     target="_blank"
-     rel="noopener noreferrer"
-     style="color:#d45b5b; font-weight:bold; text-decoration:none;">
-    Ojo
-  </a>
-</li>
-  <li><strong>Artiste :</strong> Chloe McDougall</li>
-  <li><strong>Révélé :</strong> 19 octobre 2023</li>
-</ul>
-
----
-
 ##  <span style="color:#d45b5b;">Résumé</span>
+<hr class="demon">
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Chaque nuit*, choisissez un rôle : ce rôle meurt.  
-  S’il n’est pas en jeu, le Conteur choisit qui meurt. »</strong>
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
+« Chaque nuit*, choisissez un rôle : il meurt. S’il n’est pas en jeu, le Conteur choisit qui meurt. »
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-L’<strong>Ojo</strong> ne choisit pas un joueur mais un <strong>rôle</strong> précis.  
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+L'Ojo choisit un rôle en particulier, qui meurt.
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Contrairement à la plupart des Démons,  
-      l’<strong>Ojo</strong> choisit toujours un <strong>rôle</strong>, pas un joueur.  
-      Le Conteur peut devoir le lui rappeler.  
-      Il est conseillé que chaque joueur garde sous la main  
-      une <strong>feuille de rôles</strong> pendant la nuit.</li>
-
-  <li>L’<strong>Ojo</strong> peut tuer des rôles maléfiques s’il le souhaite  
-      (Sbires ou même Voyageurs maléfiques).</li>
-
-  <li>S’il y a plusieurs exemplaires d’un même rôle en jeu  
-      (par exemple plusieurs <a href="../roles_experimentaux/farmer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fermiers</a>),  
-      et que l’<strong>Ojo</strong> choisit ce rôle,  
-      <strong>un seul</strong> de ces joueurs meurt.</li>
-
-  <li>Si l’<strong>Ojo</strong> choisit un rôle qui n’est pas en jeu,  
-      le Conteur choisit alors qui meurt à la place.  
-      En pratique, c’est presque toujours  
-      un <a href="../tb_roles.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> vivant,  
-      mais il peut s’agir d’un joueur mort ou même maléfique  
-      si le Conteur le juge intéressant pour la partie.</li>
-
-</ul>
-
----
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Contrairement aux autres Démons, l'Ojo doit choisir un rôle, et non un joueur. Vous devez peut-être le rappeler au joueur.<br>Nous conseillons à tous les joueurs d’avoir leur fiche de rôles à portée de main pendant la phase de nuit.
+<br><br>
+• L’Ojo peut tuer des rôles maléfiques s'il le souhaite.
+<br><br>
+• S'il y a plusieurs exemplaires d'un même rôle en jeu et que l'Ojo choisit ce rôle, seul l’un d’entre eux meurt.
+<br><br>
+• Si l'Ojo choisit un rôle qui n'est pas en jeu, le Conteur tuera presque toujours un joueur bon en vie.<br>Il est possible, mais rare, que le Conteur choisisse de tuer un joueur mort ou un joueur maléfique.
+</p>
 
 ##  <span style="color:#d45b5b;">Comment Conter</span>
+<hr>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-L’<strong>Ojo</strong> demande surtout de la clarté :  
-le joueur doit choisir un <strong>rôle</strong> 
-et non un joueur,  
-et vous devez ensuite traduire ce choix  
-en une mort cohérente avec l’état de la partie.
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Instructions au Conteur 
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Chaque nuit, sauf la première, réveillez l'Ojo. Il désigne une icône de rôle sur sa fiche de rôles.<br>Si ce rôle est en jeu, ce joueur meurt — marquez-le du jeton <strong>« Mort »</strong>. <br> Si ce rôle n'est pas en jeu, choisissez n'importe quel joueur. Le joueur choisi meurt — marquez-le du jeton <strong>« Mort »</strong>. L’Ojo se rendort.
+<br><br>
+• S’il y a plusieurs exemplaires d’un même rôle en jeu (par exemple plusieurs <a href="../roles_experimentaux/villageidiot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Idiot du village</a>), et que l’<strong>Ojo</strong> choisit ce rôle, <strong>un seul</strong> des joueurs qui a ce rôle meurt.
+<br><br>
+• Si l’<strong>Ojo</strong> choisit un rôle déjà mort, le Conteur ne tue aucun joueur avec la capacité de l’Ojo cette nuit-là.
+</p>
 
-  <li><strong>Chaque nuit (sauf la première) :</strong>
-    <ul style="margin-left:20px;">
-      <li>réveillez l’<strong>Ojo</strong> ;</li>
-      <li>montrez-lui la feuille de rôles  
-          si nécessaire laissez-la à disposition ;</li>
-      <li>l’<strong>Ojo</strong> pointe un rôle 
-          (par exemple le  
-          <a href="../roles_experimentaux/plaguedoctor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Docteur de la Peste</a>,  
-          le <a href="../roles_experimentaux/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cultivateur de Pavot</a>,  
-          l’<a href="../sv_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a>, etc.) ;</li>
-      <li>si ce rôle est en jeu :  
-          choisissez lequel des joueurs ayant ce rôle meurt,  
-          marquez-le avec un jeton de rappel MORT  
-          et un éventuel linceul ;</li>
-      <li>si ce rôle n’est pas en jeu :  
-          choisissez n’importe quel joueur  
-          (en général un Villageois ou un Étranger bon)  
-          et faites-le mourir ;</li>
-      <li>rendormez l’<strong>Ojo</strong>.</li>
-    </ul>
-  </li>
-
-  <li><strong>Interaction avec d’autres Démons :</strong>
-    <ul style="margin-left:20px;">
-      <li>si l’<strong>Ojo</strong> est sur un script  
-          avec un Démon qui tue plusieurs fois par nuit  
-          (par exemple le  
-          <a href="../bmr_roles/shabaloth.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a>),  
-          et que l’<strong>Ojo</strong> choisit un rôle absent du script,  
-          vous pouvez décider de faire plusieurs morts  
-          pour imiter le style de ce Démon  
-          et semer la confusion.</li>
-    </ul>
-  </li>
-
-  <li><strong>Choix des victimes « de remplacement » :</strong>
-    <ul style="margin-left:20px;">
-      <li>lorsqu’un rôle choisi n’est pas en jeu,  
-          choisissez une victime qui semble plausible  
-          au vu des discussions et des infos ;</li>
-      <li>éventuellement, profitez-en pour  
-          rééquilibrer la partie  
-          (éliminer un rôle très puissant,  
-          ou au contraire un rôle peu influent  
-          si le Mal a besoin d’aide).</li>
-    </ul>
-  </li>
-
-</ul>
-
----
+<div class="botc-note">
+Si l'Ojo est dans un script avec un Démon qui tue plusieurs fois par nuit, comme le <a href="../bmr_roles/shabaloth.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a>, et que l'Ojo choisit un rôle qui n’est pas en jeu, vous pouvez choisir plus d’un joueur à tuer cette nuit-là. <br> Cela aide le joueur Ojo à faire croire que c’est un autre Démon qui est en jeu.
+</div>
 
 ##  <span style="color:#d45b5b;">Exemples</span>
+<hr>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-L’<strong>Ojo</strong> choisit le  
-<a href="../roles_experimentaux/plaguedoctor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Docteur de la Peste</a>.  
-Le Docteur de la Peste meurt.  
-La nuit suivante, l’<strong>Ojo</strong> choisit le  
-<a href="../roles_experimentaux/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cultivateur de Pavot</a>,  
-qui meurt à son tour.  
-La nuit d’après, l’<strong>Ojo</strong> choisit l’  
-<a href="../sv_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a>.  
-Comme il n’y a aucun Empathique en jeu,  
-le Conteur décide de faire mourir  
-le <a href="../roles_experimentaux/shugenja.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Shugenja</a> à la place.
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• L'Ojo choisit le <a href="../roles_experimentaux/plaguedoctor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Docteur de peste</a>. Le <a href="../roles_experimentaux/plaguedoctor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Docteur de peste</a> meurt. <br> La nuit suivante, l'Ojo choisit le <a href="../roles_experimentaux/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Planteur de Pavot</a>. Le <a href="../roles_experimentaux/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Planteur de Pavot</a> meurt. <br> La nuit suivante, l'Ojo choisit l’<a href="../sv_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>. Il n'y a pas d’<a href="../sv_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a> en jeu, donc le Conteur décide de tuer le <a href="../roles_experimentaux/shugenja.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Shugenja</a> à la place.
 </p>
 
----
+##  <span style="color:#d45b5b;">Conseils & Astuces</span>
+<hr>
 
-##  <span style="color:#d45b5b;">Astuces & Conseils</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li><strong>Tuez les rôles les plus puissants en priorité.</strong>  
-      La force de l’<strong>Ojo</strong>,  
-      c’est de pouvoir viser précisément  
-      les rôles qui menacent le plus l’équipe du Mal :  
-      <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>,  
-      <a href="../sv_roles/flowergirl.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a>,  
-      <a href="../roles_experimentaux/balloonist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aéronaute</a>, etc.</li>
-
-  <li>Pensez aux autres Démons du script :  
-      vaut-il la peine de faire croire  
-      qu’un autre Démon est en jeu ?  
-      Si vous imitez trop leur style,  
-      vous sacrifierez des éliminations ciblées  
-      de rôles clés : pesez bien le pour et le contre.</li>
-
-  <li>Si vous sentez que les joueurs  
-      vont deviner qu’il s’agit d’une partie d’<strong>Ojo</strong>,  
-      bluffez un rôle de <a href="../tb_roles.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>  
-      ou d’<a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étranger</a>  
-      moins impressionnant.  
-      Vous ne voulez pas qu’on se demande  
-      « pourquoi ce rôle n’est-il pas mort plus tôt  
-      alors que tous les autres rôles puissants  
-      sont déjà tombés ? »</li>
-
-  <li>Au contraire, vous pouvez aussi  
-      faire bluffer plusieurs Sbires  
-      comme des rôles très puissants  
-      (Voyante, Fleuriste,  
-      <a href="../roles_experimentaux/fisherman.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pêcheur</a> bien conseillé…)  
-      et les laisser tous en vie :  
-      cela rend la piste Ojo moins crédible  
-      puisque « trop de rôles forts survivent ».</li>
-
-  <li>Si vous doutez de la sincérité  
-      d’une revendication de rôle,  
-      choisissez ce rôle la nuit suivante :  
-      <ul style="margin-left:20px;">
-        <li>si le joueur meurt,  
-            c’est probablement vraiment lui ;</li>
-        <li>si personne ne correspondant à ce rôle  
-            ne meurt,  
-            la revendication était sans doute un bluff.</li>
-      </ul>
-  </li>
-
-  <li>Quand un joueur inattendu meurt,  
-      demandez-vous pourquoi :  
-      a-t-il échangé son rôle avec quelqu’un d’autre ?  
-      Était-ce en réalité le rôle que vous visiez ?  
-      Ou bien avez-vous choisi un rôle absent,  
-      laissant le Conteur décider d’une cible  
-      plus discrète ?</li>
-
-  <li>Sur un script avec des Démons  
-      qui peuvent faire plusieurs morts par nuit  
-      (comme le <a href="../bmr_roles/shabaloth.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a>),  
-      choisir volontairement un rôle absent  
-      permet au Conteur de multiplier les morts,  
-      et donc de laisser planer le doute  
-      sur l’identité réelle du Démon.</li>
-
-  <li>Ne négligez pas les <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>.  
-      Si vous ne tuez que des Villageois à forte valeur,  
-      vous risquez de finir à trois  
-      avec deux Étrangers dont le nombre est confirmé,  
-      ce qui simplifie beaucoup la vie de l’équipe du Bien.</li>
-
-  <li>Si vous ou un Sbire voulez bluffer un rôle  
-      qui ne figure pas dans les bluffs donnés,  
-      vous pouvez d’abord <strong>tester</strong> ce rôle :  
-      choisissez-le la nuit en tant qu’<strong>Ojo</strong> ;  
-      s’il n’est pas en jeu,  
-      vous saurez qu’il est disponible comme bluff sûr.</li>
-
-</ul>
-
----
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• <strong>Choisissez d'abord les rôles les plus puissants.</strong> Tout le plaisir de votre capacité réside dans le fait que vous pouvez vous débarrasser des <strong>rôles</strong> qui vous inquiètent le plus dès que vous le souhaitez, alors commencez simplement par les tuer !
+<br><br>
+• <strong>Pensez aux autres Démons présents sur le script.</strong> Cela vaut-il la peine d'essayer de tuer comme si l'un d'eux pouvait être en jeu ? Si vous le faites, vous devrez probablement sacrifier le fait de tuer d'abord les <strong>Villageois</strong> les plus inquiétants (ce qui constitue votre capacité principale), alors réfléchissez à la pertinence de cette stratégie.
+<br><br>
+• <strong>Si vous pensez que les joueurs vont deviner que vous êtes un Ojo, assurez-vous de bluffer en tant que Villageois ou Marginal moins puissant.</strong> Vous ne voulez pas que les gens se demandent pourquoi vous n'êtes pas mort avant les trois derniers survivants alors que tous les <strong>Villageois</strong> les plus puissants ont déjà péri.
+<br><br>
+• <strong>Bluffez en tant que Villageois puissant et incitez vos Sbires à faire de même !</strong> S'il y a plusieurs <strong>rôles</strong> puissants qui ne sont pas morts, la partie ressemble moins à une partie avec un <strong>Ojo</strong>, et toute votre équipe maléfique peut diffuser de fausses informations puissantes en même temps.
+<br><br>
+• <strong>Si vous n'êtes pas sûr qu'un joueur dise la vérité lorsqu'il prétend être un certain rôle, vous pouvez choisir ce rôle pour vérifier.</strong> S'il meurt, parfait : vous savez que vous devez prendre ses informations en compte. Sinon, c'est qu'il bluffait et vous pouvez passer à autre chose.
+<br><br>
+• <strong>Faites attention lorsqu'un joueur dont vous n'attendiez pas la mort meurt pendant la nuit.</strong> Il a peut-être échangé de <strong>rôle</strong> avec un autre joueur et était en réalité le <strong>rôle</strong> que vous avez essayé de tuer. Ou alors, ce <strong>rôle</strong> n'était pas en jeu et le Conteur a simplement choisi cette mort.
+<br><br>
+• <strong>Si vous jouez sur un script avec des Démons capables de tuer plusieurs fois la nuit, vous pouvez délibérément choisir un rôle qui n'est pas en jeu</strong> (peut-être l'un de vos bluffs ?) pour permettre au Conteur de réaliser plusieurs meurtres. Cela garde crédible l'option qu'un Démon effectuant plusieurs meurtres soit en jeu. Même si ces morts ne seront probablement pas aussi avantageuses pour vous que si vous choisissiez les <strong>rôles</strong> exacts que vous voulez éliminer, cela continuera de cacher quel <strong>Démon</strong> est réellement en jeu.
+<br><br>
+• <strong>N'oubliez pas les <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>.</strong> Si vous concentrez toute votre attention sur le fait de tuer des <strong>Villageois</strong>, vous risquez de vous retrouver lors des trois derniers survivants avec deux <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a> confirmés par le compte des <strong><a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a></strong>. N'oubliez donc pas qu'ils constituent aussi des cibles utiles.
+<br><br>
+• <strong>Si vous ou l'un de vos Sbires souhaitez bluffer un rôle qui ne fait pas partie de vos bluffs</strong>, vous pouvez choisir ce <strong>rôle</strong> la nuit pour savoir s'il est en jeu ou non et adapter vos bluffs en conséquence.
+</p>
 
 ##  <span style="color:#d45b5b;">Combattre l’Ojo</span>
+<hr>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• <strong>Si vous êtes puissant, bluffez en prétendant être autre chose, même si vous meurez immédiatement.</strong> L'<strong>Ojo</strong> a pu tirer profit de sa capacité en vous tuant tout de suite, mais s'il pense avoir manqué sa cible et que vous étiez un <strong>rôle</strong> plus faible, vous pourrez le surprendre avec vos informations plus tard dans la partie.
+<br><br>
+• <strong>Faites confiance aux rôles puissants qui meurent tôt s'il devient clair qu'il s'agit d'une partie avec un Ojo.</strong> Même s'ils n'ont peut-être pas beaucoup d'informations, vous pouvez presque certainement faire confiance au peu d'informations qu'ils ont obtenues : l'<strong>Ojo</strong> ne génère pas de fausses informations, et leur mort précoce vous indique qu'ils sont très probablement bons et qu'ils sont bien le <strong>rôle</strong> qu'ils prétendent être.
+<br><br>
+• <strong>Pour savoir si un Ojo est en jeu, observez qui meurt.</strong> Si les joueurs qui meurent sont ceux que vous vous attendriez à voir mourir dans une partie normale (ceux qui révèlent des informations puissantes publiquement, ou ceux qu'on déduit être puissants sur la base d'informations publiques ou semi-publiques), ce n'est probablement pas une partie avec un <strong>Ojo</strong>. Si des joueurs qui n'ont pas du tout révélé leur <strong>rôle</strong> et qui restaient sous le radar meurent alors qu'ils avaient des <strong>rôles</strong> puissants, il s'agit peut-être d'une partie avec un <strong>Ojo</strong>.
+<br><br>
+• <strong>Ne vous laissez pas induire en erreur en pensant qu'un Ojo est en jeu à cause d'une ou deux morts précoces de Marginaux ou de Villageois sans grand impact.</strong> L'<strong>Ojo</strong> essaie peut-être délibérément de vous brouiller les pistes, ou il a peut-être choisi accidentellement des <strong>rôles</strong> qui ne sont pas en jeu, amenant le Conteur à choisir des morts plus faibles en conséquence.
+<br><br>
+• <strong>Faites attention aux rôles revendiqués par les joueurs qui meurent la nuit.</strong> Réfléchissez à quel joueur vivant est le plus susceptible de penser que cet ordre spécifique de morts est le meilleur pour l'équipe maléfique. Connaître le sens des priorités de vos camarades de jeu concernant les victimes de l'<strong>Ojo</strong> peut vraiment vous aider à déterminer qui est le véritable <strong>Ojo</strong> !
+</p>
 
-  <li>Si vous jouez un rôle très puissant,  
-      n’hésitez pas à <strong>bluffer un rôle plus faible</strong>  
-      même si vous savez que vous risquez de mourir tôt.  
-      L’<strong>Ojo</strong> profitera de sa capacité  
-      en vous éliminant vite,  
-      mais s’il croit avoir tué un rôle banal,  
-      il sous-estimera l’importance  
-      de vos informations révélées plus tard.</li>
+<hr class="explication">
 
-  <li>Dans une partie où il devient évident  
-      qu’un <strong>Ojo</strong> est en jeu,  
-      vous pouvez en général faire confiance  
-      aux rôles puissants morts tôt :  
-      l’Ojo ne crée pas de fausse information,  
-      il se contente de choisir qui meurt.</li>
-
-  <li>Pour déterminer si un <strong>Ojo</strong> est présent,  
-      regardez <strong>qui meurt la nuit</strong> :  
-      <ul style="margin-left:20px;">
-        <li>si ce sont toujours des rôles  
-            très visibles et revendiqués,  
-            la partie ressemble à une partie normale ;</li>
-        <li>si des joueurs discrets,  
-            peu soupçonnés,  
-            se révèlent après coup  
-            être des rôles très puissants,  
-            vous êtes peut-être face à un Ojo  
-            qui les « snippe » un par un.</li>
-      </ul>
-  </li>
-
-  <li>Ne soyez pas trop influencé  
-      par une ou deux morts « bizarres »  
-      d’Étrangers ou de rôles peu impactants :  
-      l’<strong>Ojo</strong> peut avoir visé  
-      un rôle absent du script  
-      et le Conteur aura choisi  
-      une cible plus neutre.</li>
-
-  <li>Observez quels rôles sont revendiqués  
-      par les joueurs qui meurent la nuit.  
-      Demandez-vous :  
-      « Qui, autour de la table,  
-      jugerait cette ordre de morts  
-      optimal pour l’équipe du Mal ? »  
-      Connaitre les priorités et les habitudes  
-      de vos partenaires de jeu  
-      peut vous aider à cerner  
-      qui agit comme l’<strong>Ojo</strong>.</li>
-
-</ul>
-
----
-
-<p style="text-align:left; font-size:18px; margin-top:20px;">
-   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="/demon.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Démons</a><br>
-   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+<p style="text-align:left; font-size:18px; margin-top:00px;">
+• <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+• <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Démons</a><br>
+• <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
