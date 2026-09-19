@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Docteur de peste
-description: "Lorsque vous mourez,le Conteur gagne une capacité de Sbire."
+description: "Lorsque vous mourez, le Conteur gagne une capacité de Sbire."
 image: /images/Icon_plaguedoctor.png
 ---
 
@@ -63,7 +63,7 @@ image: /images/Icon_plaguedoctor.png
 <hr class="villageois">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
-« Lorsque vous mourez,le Conteur gagne une capacité de Sbire. »
+« Lorsque vous mourez, le Conteur gagne une capacité de Sbire. »
 </p>
 
 <p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
@@ -84,13 +84,13 @@ Le Docteur de peste ajoute une capacité de Sbire supplémentaire dans la partie
 <hr>
 
 <p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
-Instructions au Conteur :
+Instructions au Conteur 
 </p>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
-• Lorsque le Docteur de peste meurt, placez un jeton Sbire au centre de la partie gauche du Grimoire et marquez-le du jeton <strong>« Capacité du Conteur »</strong>. Si nécessaire, vous pouvez à la place marquer un Sbire en jeu du jeton <strong>« Capacité du Conteur »</strong>. S’il le faut, ajoutez un jeton de nuit à la fiche de nuit.
+• Lorsque le Docteur de peste meurt, placez un jeton Sbire au centre de la partie gauche du Grimoire et marquez-le du jeton <strong>« Capacité du Conteur »</strong>. <br> Si nécessaire, vous pouvez à la place marquer un Sbire en jeu du jeton <strong>« Capacité du Conteur »</strong>. S’il le faut, ajoutez un jeton de nuit à la fiche de nuit.
 <br><br>
-• Lorsque ce Sbire devrait normalement agir, le Conteur utilise sa capacité. Si la capacité implique un choix, c’est le Conteur qui le fait. Si ce rôle de Sbire est déjà en jeu, le Conteur agit avant ou après le joueur concerné.
+• Lorsque ce Sbire devrait normalement agir, le Conteur utilise sa capacité. Si la capacité implique un choix, c’est le Conteur qui le fait. <br> Si ce rôle de Sbire est déjà en jeu, le Conteur agit avant ou après le joueur concerné.
 </p>
 
 ##  <span style="color:#4ea3ff;">Exemples</span>
@@ -99,9 +99,9 @@ Instructions au Conteur :
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
 • Le Docteur de peste meurt. Le Conteur gagne la capacité de l’<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>. Pour le reste de la partie, chaque nuit, il choisit un joueur à empoisonner.
 <br><br>
-• Le Docteur de peste est exécuté et le Conteur gagne la capacité du <a href="../sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a>. Cette nuit-là, la <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a> transforme la <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> en <a href="../sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a>. Il y a maintenant deux capacités de <a href="../sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a> en jeu — celle du Conteur et celle du nouveau <a href="../sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a>.
+• Le Docteur de peste est exécuté et le Conteur gagne la capacité du <a href="../sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a>. Cette nuit-là, la <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a> transforme la <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> en <a href="../sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a>. <br> Il y a maintenant deux capacités de <a href="../sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a> en jeu — celle du Conteur et celle du nouveau <a href="../sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a>.
 <br><br>
-• Le Docteur de peste est mort et cela fait deux jours que le Conteur a obtenu la capacité de l’<a href="../roles_experimentaux/organgrinder.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Organiste de rue</a>. Le Docteur de peste est rendu ivre par le <a href="../bmr_roles/menestrel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ménestrel</a>. Le Conteur a toujours la capacité de l’<a href="../roles_experimentaux/organgrinder.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Organiste de rue</a>, qu’il a gagnée lorsque le Docteur de peste est mort ; le fait que le Docteur de peste soit ivre n’a aucune incidence à présent.
+• Le Docteur de peste est mort et cela fait deux jours que le Conteur a obtenu la capacité de l’<a href="../roles_experimentaux/organgrinder.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Organiste de rue</a>. Le Docteur de peste est rendu ivre par le <a href="../bmr_roles/menestrel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ménestrel</a>. <br> Le Conteur a toujours la capacité de l’<a href="../roles_experimentaux/organgrinder.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Organiste de rue</a>, qu’il a gagnée lorsque le Docteur de peste est mort ; le fait que le Docteur de peste soit ivre n’a aucune incidence à présent.
 </p>
 
 ##  <span style="color:#4ea3ff;">Conseils & Astuces</span>
@@ -152,7 +152,8 @@ Instructions au Conteur :
   <br>
   <li>
     <img src="../images/Icon_eviltwin.png" alt="Jumeau Maléfique" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../sv_roles/jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumelle maléfique</a> : Si le Conteur devait obtenir la capacité de la <a href="../sv_roles/jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumelle maléfique</a>, un joueur devient la <a href="../sv_roles/jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumelle maléfique</a>.
+    <a href="../sv_roles/jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumelle maléfique</a> : Si le Conteur devait obtenir la capacité de la <a href="../sv_roles/jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumelle maléfique</a>, 
+    un joueur devient la <a href="../sv_roles/jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumelle maléfique</a>.
   </li>
   <br>
   <li>
@@ -167,7 +168,8 @@ Instructions au Conteur :
   <br>
   <li>
     <img src="../images/Icon_marionette.png" alt="Marionnette" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/marionette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> : Si le Conteur devait obtenir la capacité de la <a href="../roles_experimentaux/marionette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a>, l'un des voisins bons du Démon devient la <a href="../roles_experimentaux/marionette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a>.
+    <a href="../roles_experimentaux/marionette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> : Si le Conteur devait obtenir la capacité de la <a href="../roles_experimentaux/marionette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a>, l'un des voisins bons du Démon 
+    devient la <a href="../roles_experimentaux/marionette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a>.
   </li>
   <br>
   <li>
