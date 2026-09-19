@@ -90,7 +90,7 @@ Instructions au Conteur
 </p>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
-• Chaque nuit, réveillez le Prédicateur. Il désigne un joueur. Ensuite, le Prédicateur se rendort. Si le Prédicateur choisit un Sbire, marquez ce Sbire d’un jeton <strong>« Sans capacité »</strong>, puis réveillez le Sbire. Montrez-lui la tuile <strong>« Ce rôle vous a choisi »</strong>, puis le jeton du Prédicateur. Enfin, ce Sbire se rendort.
+• Chaque nuit, réveillez le Prédicateur. Il désigne un joueur. Ensuite, le Prédicateur se rendort. Si le Prédicateur choisit un Sbire, marquez ce Sbire d’un jeton <strong>« Sans capacité »</strong>, puis réveillez le Sbire. <br> Montrez-lui la tuile <strong>« Ce rôle vous a choisi »</strong>, puis le jeton du Prédicateur. Enfin, ce Sbire se rendort.
 <br><br>
 • Tous les Sbires marqués <strong>« Sans capacité »</strong> n'ont aucune capacité tant que le Prédicateur est en vie, sobre et sain.
 </p>
@@ -114,9 +114,7 @@ Instructions au Conteur
 <br><br>
 • <strong>Même si vous ne savez pas si vous avez touché un Sbire ou non, observez attentivement vos cibles le jour suivant</strong> pour voir si leur comportement change. Si c'est le cas et qu'ils semblent soudainement plus enthousiastes à l'idée d'exécuter, c'est probablement que vous avez trouvé un <strong>Sbire</strong>.
 <br><br>
-• <strong>Faites attention avant de révéler que vous êtes le Prédicateur !</strong> Votre capacité est une épine dans le pied de l'équipe maléfique : elle neutralise leur <a href="../roles_experimentaux/boomdandy.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boumdandy</a> ou déjoue les plans de leur <a href="../roles_experimentaux/mezepheles.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mezepheles</a>. La simple menace de retirer la capacité d'un <strong>Sbire</strong> peut démêler le plan élaboré de l'équipe maléfique, ce qui fait de vous une cible prioritaire à tuer.
-<br><br>
-• <strong>Essayez de bluffer en prétendant être un Villageois plus inoffensif, voire un Marginal</strong> comme le <a href="../tb_roles/majordome.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Majordome</a> ou le <a href="../sv_roles/barbier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Barbier</a> !
+• <strong>Faites attention avant de révéler que vous êtes le Prédicateur !</strong> Votre capacité est une épine dans le pied de l'équipe maléfique : elle neutralise leur <a href="../roles_experimentaux/boomdandy.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boumdandy</a> ou déjoue les plans de leur <a href="../roles_experimentaux/mezepheles.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mezepheles</a>. La simple menace de retirer la capacité d'un <strong>Sbire</strong> peut démêler le plan élaboré de l'équipe maléfique, ce qui fait de vous une cible prioritaire à tuer. Essayez de bluffer en prétendant être un Villageois plus inoffensif, voire un Marginal comme le <a href="../tb_roles/majordome.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Majordome</a> ou le <a href="../sv_roles/barbier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Barbier</a> !
 <br><br>
 • <strong>Si un joueur agit de manière suspecte et reste isolé, c'est une très bonne cible pour vous.</strong> Bien que les joueurs bons et maléfiques aient tous des raisons de ne pas se faire remarquer, vous n'avez aucun effet sur les joueurs bons qui essaient simplement de rester discrets. Vous n'avez rien à perdre à tenter votre chance !
 <br><br>
@@ -133,7 +131,7 @@ Instructions au Conteur
 <hr>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
-• Lorsque vous bluffez en tant que <strong>Prédicateur</strong>, gardez quelques éléments à l'esprit :
+• Lorsque vous bluffez le <strong>Prédicateur</strong>, gardez quelques éléments à l'esprit :
 <br><br>
 • <strong>Bluffer le Prédicateur peut être un peu délicat</strong>, car même un vrai <strong>Prédicateur</strong> n'a pas beaucoup d'informations concrètes en jeu pour étayer ses affirmations. Cependant, vous pouvez utiliser votre fausse capacité pour jeter la suspicion sur d'autres joueurs ou pour gagner leur confiance.
 <br><br>
@@ -161,12 +159,12 @@ Instructions au Conteur
   <li>
     • 🧞 <img src="../images/Icon_legion.png" alt="Legion" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Legion</a> : Si le Prédicateur choisit la <a href="../roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Legion</a>, la <a href="../roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Legion</a> conserve sa capacité, mais le Prédicateur peut apprendre qu'elle est la Légion.
-  </li>
+  </li><br>
 
   <li>
     • 🧞 <img src="../images/Icon_summoner.png" alt="Invocateur" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/summoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocatrice</a> : Si l' <a href="../roles_experimentaux/summoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocatrice</a> en vie n'a pas de capacité, le Conteur a la capacité de l' <a href="../roles_experimentaux/summoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocatrice</a>.
-  </li>
+  </li><br>
 
   <li>
     • 🧞 <img src="../images/Icon_vizier.png" alt="Vizir" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
