@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Prédicateur
+description: "Chaque nuit, choisissez un joueur : si c’est un Sbire, il l’apprend. Tous les Sbires choisis n’ont aucune capacité."
+image: /images/Icon_preacher.png
 ---
 
 <p align="left">
@@ -9,9 +11,11 @@ title: Prédicateur
   </a>
 </p>
 
+<hr class="explication">
+
 <!-- Prédicateur -->
 
-<div style="text-align:center; margin: 20px 0%;">
+<div style="text-align:center; margin: 20px 0;">
   <a href="./preacher.html" style="text-decoration:none;">
     <img src="../images/Icon_preacher.png" alt="Prédicateur" width="260" style="border-radius:12px;">
     <br>
@@ -19,22 +23,7 @@ title: Prédicateur
   </a>
 </div>
 
-<!-- APPARAÎT DANS -->
-<div style="text-align:center; margin: 20px 0%;">
-  <a href="../experimentaux.html" style="text-decoration:none;">
-    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
-    <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
-  </a>
-</div>
-
-#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Prédicateur</span>
-
-<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Il vaut mieux être riche et en bonne santé que pauvre et malade. »
-</p>
-
----
+<hr class="villageois">
 
 ##  <span style="color:#4ea3ff;">Informations</span>
 
@@ -43,271 +32,152 @@ title: Prédicateur
     <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
   </li>
   <li>
-  <strong>Nom original :</strong>
-  <a href="https://wiki.bloodontheclocktower.com/Preacher"
-     target="_blank"
-     rel="noopener noreferrer"
-     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
-    Preacher
-  </a>
-</li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Preacher"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+      Preacher
+    </a>
+  </li>
   <li><strong>Artiste :</strong> <em>John Grist</em></li>
   <li><strong>Révélé :</strong> 4 juillet 2020</li>
 </ul>
 
----
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Il vaut mieux être riche et <br> en bonne santé que pauvre et malade. »
+</p>
+
+<hr class="villageois">
+
+<!-- APPARAÎT DANS -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../experimentaux.html" style="text-decoration:none;">
+    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : Carousel rôle expérimental</span>
+  </a>
+</div>
 
 ##  <span style="color:#4ea3ff;">Résumé</span>
+<hr class="villageois">
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Chaque nuit, vous choisissez un joueur : un Sbire, s'il est choisi, l’apprend. Tous les Sbires choisis n’ont plus de capacité. »</strong>
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
+« Chaque nuit, choisissez un joueur : si c’est un Sbire, il l’apprend. Tous les Sbires choisis n’ont aucune capacité. »
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Prédicateur</strong> supprime les capacités des <span style="color:#d45b5b; font-weight:bold;">Sbires</span>.
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Le Prédicateur annule les capacités des Sbires en les sermonnant.
 </p>
 
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Si le Prédicateur choisit un Sbire à sermonner, ce Sbire est réveillé et apprend qu’il ne peut plus agir tant que le Prédicateur est en vie, sobre et sain.
+<br><br>
+• Si le Prédicateur choisit un joueur qui n'est pas un Sbire, rien ne se passe.
+<br><br>
+• Le Prédicateur peut choisir des joueurs morts.
+<br><br>
+• Si le Prédicateur est ivre ou empoisonné au moment où il choisit un joueur, ce joueur n'est pas affecté par la capacité du Prédicateur.
+<br><br>
+• Si le Prédicateur devient ivre ou empoisonné, les Sbires sermonnés regagnent leur capacité jusqu’à ce que le Prédicateur soit sobre et sain.
+</p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+##  <span style="color:#4ea3ff;">Comment Conter</span>
+<hr>
 
-  <li>Chaque nuit, le Prédicateur choisit un joueur ou une joueuse.  
-      Si cette personne est un <span style="color:#d45b5b; font-weight:bold;">Sbire</span>,  
-      elle se réveille pour apprendre qu’elle a été prêchée et perd sa capacité  
-      tant que le Prédicateur est vivant, sobre et en bonne santé.</li>
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Instructions au Conteur
+</p>
 
-  <li>Si la personne choisie n’est pas un Sbire, rien ne se passe.</li>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Chaque nuit, réveillez le Prédicateur. Il désigne un joueur. Ensuite, le Prédicateur se rendort. Si le Prédicateur choisit un Sbire, marquez ce Sbire d’un jeton <strong>« Sans capacité »</strong>, puis réveillez le Sbire. Montrez-lui la tuile <strong>« Ce rôle vous a choisi »</strong>, puis le jeton du Prédicateur. Enfin, ce Sbire se rendort.
+<br><br>
+• Tous les Sbires marqués <strong>« Sans capacité »</strong> n'ont aucune capacité tant que le Prédicateur est en vie, sobre et sain.
+</p>
 
-  <li>Le Prédicateur peut choisir des joueurs et des joueuses morts.</li>
+##  <span style="color:#4ea3ff;">Exemples</span>
+<hr>
 
-  <li>Si le Prédicateur est ivre ou empoisonné au moment où il choisit,  
-      la cible n’est pas affectée par sa capacité cette nuit-là.</li>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Le Prédicateur désigne Alex, qui est <a href="../roles_experimentaux/engineer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">l’Ingénieur</a>. Rien ne se passe.
+<br><br>
+• Le Prédicateur désigne Lachlan, qui est le <a href="../sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a>. Lachlan se réveille pour apprendre qu'il a été sermonné. Il ne sera pas réveillé pour utiliser sa capacité.
+<br><br>
+• Doug est le Prédicateur. Il désigne Marianna, qui est la <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a>. Marianna se réveille et apprend qu'elle a été sermonnée. Elle ne sera pas réveillée pour utiliser sa capacité. La nuit suivante, l’<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> désigne Doug. Comme Doug est désormais empoisonné, Marianna se réveille pour utiliser sa capacité.
+</p>
 
-  <li>Si le Prédicateur devient ivre ou empoisonné plus tard,  
-      les Sbires déjà « prêchés » retrouvent leur capacité  
-      jusqu’à ce que le Prédicateur redevienne sobre et en bonne santé.</li>
+##  <span style="color:#4ea3ff;">Conseils & Astuces</span>
+<hr>
 
-</ul>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• <strong>La capacité du Prédicateur peut désactiver les capacités des Sbires.</strong> Ils l'apprennent, mais la récupèrent dès que vous êtes mort.
+<br><br>
+• <strong>Même si vous ne savez pas si vous avez touché un Sbire ou non, observez attentivement vos cibles le jour suivant</strong> pour voir si leur comportement change. Si c'est le cas et qu'ils semblent soudainement plus enthousiastes à l'idée d'exécuter, c'est probablement que vous avez trouvé un <strong>Sbire</strong>.
+<br><br>
+• <strong>Faites attention avant de révéler que vous êtes le Prédicateur !</strong> Votre capacité est une épine dans le pied de l'équipe maléfique : elle neutralise leur <a href="../roles_experimentaux/boomdandy.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boumdandy</a> ou déjoue les plans de leur <a href="../roles_experimentaux/mezepheles.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mezepheles</a>. La simple menace de retirer la capacité d'un <strong>Sbire</strong> peut démêler le plan élaboré de l'équipe maléfique, ce qui fait de vous une cible prioritaire à tuer.
+<br><br>
+• <strong>Essayez de bluffer en prétendant être un Villageois plus inoffensif, voire un Marginal</strong> comme le <a href="../tb_roles/majordome.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Majordome</a> ou le <a href="../sv_roles/barbier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Barbier</a> !
+<br><br>
+• <strong>Si un joueur agit de manière suspecte et reste isolé, c'est une très bonne cible pour vous.</strong> Bien que les joueurs bons et maléfiques aient tous des raisons de ne pas se faire remarquer, vous n'avez aucun effet sur les joueurs bons qui essaient simplement de rester discrets. Vous n'avez rien à perdre à tenter votre chance !
+<br><br>
+• <strong>Dès le premier jour, écoutez attentivement les personnes qui font des affirmations publiques.</strong> Rappelez-vous que les <strong>Sbires</strong> ne reçoivent pas de bluffs et ont tendance à être les derniers à se révéler publiquement. Les joueurs qui s'impliquent dans des doubles affirmations (<em>double claims</em>) ou qui ne se révèlent que plus tard dans la partie sont d'excellentes cibles pour votre capacité.
+<br><br>
+• <strong>Si vous devez choisir entre deux Sbires potentiels, choisissez celui qui cause le plus de dégâts sur la durée.</strong> Toucher un <a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> après qu'il a déjà tué n'apporte pas grand-chose à votre équipe. En revanche, une <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a> qui perd sa capacité a certes déjà vu le Grimoire, mais elle perdra sa capacité d'empoisonner. Une <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a> serait une priorité encore plus urgente !
+<br><br>
+• <strong>Une fois mort, il est important de vous révéler si vous suspectez d'avoir désactivé des Sbires</strong> : maintenant que vous êtes mort, ces capacités sont de nouveau actives et représentent une menace pour votre village !
+<br><br>
+• <strong>Le Prédicateur peut cibler des joueurs morts !</strong> Même si cela n'est pas utile la plupart du temps, cela fait de vous une réponse surprise contre un <a href="../sv_roles/vigormortis.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vigormortis</a> ou un <a href="../voyageurs/bonecollector.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Collecteur d’os</a> maléfique. Certains futurs <strong>Sbires</strong> pourraient même conserver leurs capacités une fois morts — ce qui ne les protège pas de vous pour autant !
+</p>
 
----
+##  <span style="color:#4ea3ff;">Bluffer le Prédicateur</span>
+<hr>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Lorsque vous bluffez en tant que <strong>Prédicateur</strong>, gardez quelques éléments à l'esprit :
+<br><br>
+• <strong>Bluffer le Prédicateur peut être un peu délicat</strong>, car même un vrai <strong>Prédicateur</strong> n'a pas beaucoup d'informations concrètes en jeu pour étayer ses affirmations. Cependant, vous pouvez utiliser votre fausse capacité pour jeter la suspicion sur d'autres joueurs ou pour gagner leur confiance.
+<br><br>
+• <strong>Pour crédibiliser votre bluff, vous pouvez vous coordonner avec l'équipe maléfique pour faire disparaître la capacité d'un Sbire !</strong> Utilisez simplement la capacité d'un <strong>Sbire</strong> qui a un signal public équivalent (comme la <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> ou le <a href="../sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a>), puis masquez cette capacité en choisissant des joueurs maléfiques pendant un temps. Vous pourrez ensuite faire porter le chapeau de l'absence de morts dues à la <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> ou de l'absence de folie à n'importe quel pauvre joueur bon innocent en affirmant que, puisque vous l'avez « prêché », sa capacité a disparu !
+<br><br>
+• <strong>Soyez prudent quant aux personnes que vous accusez d'être un Sbire !</strong> Si le village vous croit, il ne considérera pas cette personne comme une cible potentielle pour le <strong>Démon</strong> ; et comme vous l'avez soi-disant neutralisée, il pourrait préférer exécuter des inconnus plutôt que les joueurs bons que vous entachez avec vos accusations ! <em>(Bien sûr, si vous suspectez qu'ils vont faire cela, vous pouvez toujours jeter délibérément le doute sur votre propre <strong>Démon</strong> : le village le considérera comme un <strong>Sbire</strong> insignifiant et le laissera tranquille pour un jour de plus !)</em>
+<br><br>
+• <strong>Si le comportement de quelqu'un change de manière spectaculaire d'une nuit à l'autre</strong>, vous pouvez suggérer que ce changement est dû au fait que vous êtes le <strong>Prédicateur</strong> et que vous l'avez choisi la nuit dernière. Cela sous-entend qu'il agit différemment parce qu'il vient d'apprendre qu'il n'a plus de capacité.
+<br><br>
+• <strong>Vous pouvez essayer d'utiliser votre capacité pour établir la confiance.</strong> Vous pouvez aller voir secrètement un joueur bon et lui confier que vous avez utilisé votre capacité de <strong>Prédicateur</strong> sur lui la nuit dernière. Suggérez ensuite que, comme il ne semble pas agir différemment, vous lui faites davantage confiance car il n'est probablement pas un <strong>Sbire</strong> <em>(évidemment, vous savez qu'il ne l'est pas, mais lui ne le sait pas)</em>. Cela a un impact similaire à un bluff de <a href="../tb_roles/majordome.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Majordome</a> : seul, un <strong>Prédicateur</strong> n'a aucun moyen de confirmer les personnes qu'il choisit, mais le simple fait d'être choisi et « disculpé » peut inspirer confiance à l'autre joueur.
+<br><br>
+• <strong>Si votre bluff s'effondre, vous pouvez prétendre avoir été le Prédicateur depuis le début comme solution de repli.</strong> Le <strong>Prédicateur</strong> est une cible de choix pour l'équipe maléfique s'il se révèle, il sera donc logique que vous ayez menti. Cela peut également servir d'effort de la dernière chance pour survivre à une exécution, car vous pouvez prévenir le village que les <strong>Sbires</strong> récupéreront leurs pouvoirs sans vous !
+<br><br>
+• <strong>Mourez délibérément la nuit et révélez-vous comme Prédicateur pour jeter la suspicion sur des joueurs bons !</strong> Vous pouvez demander au <strong>Démon</strong> de vous tuer, ou vous transmettre le <strong>Démon</strong> à vous-même si vous êtes un <strong>Démon</strong> comme le <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> par exemple. Un <strong>Prédicateur</strong> qui meurt la nuit a beaucoup plus de crédibilité qu'un <strong>Prédicateur</strong> exécuté.
+<br><br>
+• <strong>Une fois mort, vous pouvez vraiment faire croire que vous êtes un vrai Prédicateur authentique si vous avez un Sbire complice toujours en vie.</strong> Demandez-lui simplement de masquer l'existence de sa capacité jusqu'à votre mort, puis de semer le trouble de manière publique (par exemple avec un meurtre d'<strong><a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a></strong> ou un blocage d'exécution par l'<strong><a href="../bmr_roles/avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a></strong>). Faites remarquer que vous êtes mort juste après avoir choisi un joueur en particulier, et que les <strong>Sbires</strong> se déchaînent à présent ! C'est délicat, mais si vous réussissez votre coup, le village sera non seulement triste de votre mort, mais aussi furieux contre le pigeon que vous aurez désigné comme <strong>Sbire</strong> !
+</p>
+
 
 
 ## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
+<hr>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
+<ul style="margin-left:0px; color:#f5f5f5; font-size:18px; line-height:1.7; list-style-type:none; padding-left:0;">
   <li>
-    🧞 
-    <img src="../images/Icon_legion.png" alt="Legion" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Legion</a> :  
-    Si le Prédicateur choisit une Légion, le joueur 
-    <span style="color:#d45b5b; font-weight:bold;">Légion</span> garde sa capacité,  
-    mais le Prédicateur peut apprendre que c’est une Légion.
+    • 🧞 <img src="../images/Icon_legion.png" alt="Legion" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Legion</a> : Si le Prédicateur choisit la <a href="../roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Legion</a>, la <a href="../roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Legion</a> conserve sa capacité, mais le Prédicateur peut apprendre qu'elle est la Légion.
   </li>
 
   <li>
-    🧞 
-    <img src="../images/Icon_summoner.png" alt="Invocateur" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/summoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocateur</a> :  
-    Si l’Invocateur vivant n’a plus de capacité, le Conteur possède la capacité de l’Invocateur à sa place.
+    • 🧞 <img src="../images/Icon_summoner.png" alt="Invocateur" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/summoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocatrice</a> : Si l' <a href="../roles_experimentaux/summoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocatrice</a> en vie n'a pas de capacité, le Conteur a la capacité de l' <a href="../roles_experimentaux/summoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocatrice</a>.
   </li>
 
   <li>
-    🧞 
-    <img src="../images/Icon_vizier.png" alt="Vizir" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a> :  
-    Si le Vizir perd sa capacité, il l’apprend et ne peut plus mourir de jour.
+    • 🧞 <img src="../images/Icon_vizier.png" alt="Vizir" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a> : Si le <a href="../roles_experimentaux/vizier.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vizir</a> perd sa capacité, il l'apprend et ne peut pas mourir pendant le jour.
   </li>
-
 </ul>
 
----
+<hr class="explication">
 
-##  <span style="color:#4ea3ff;">Comment Conter</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Chaque nuit, réveillez le Prédicateur.  
-Il ou elle pointe un joueur. Endormez ensuite le Prédicateur.
-</p>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Si la cible est un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> :  
-      placez un rappel <strong>PLUS DE CAPACITÉ</strong> sur son jeton.  
-      Réveillez ce Sbire, montrez-lui le jeton d’info <strong>CE PERSONNAGE VOUS A CHOISI</strong>,  
-      puis le jeton de rôle du <strong>Prédicateur</strong>.  
-      Endormez ce Sbire : il ne sera plus réveillé pour utiliser sa capacité  
-      tant que le Prédicateur est vivant, sobre et en bonne santé.</li>
-
-  <li>Tous les Sbires marqués <strong>PLUS DE CAPACITÉ</strong> n’ont plus de capacité  
-      tant que le Prédicateur reste en jeu et fonctionnel.</li>
-
-</ul>
-
----
-
-##  <span style="color:#4ea3ff;">Exemples</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-
-Le Prédicateur, <strong>Cédric</strong>, pointe Nicolas,  
-<a href="../roles_experimentaux/engineer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">l’Ingénieur</a>.  
-Nicolas n’est pas un Sbire : rien ne se passe.
-</p>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-
-Le Prédicateur pointe Vanessa, la 
-<a href="../sv_roles/cerenovus.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Cerenovus</a>.  
-Vanessa se réveille, apprend qu’elle a été prêchée par le Prédicateur  
-et n’est plus réveillée pour utiliser sa capacité tant que le Prédicateur fonctionne.
-</p>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-
-<strong>Cédric</strong> est Prédicateur. Il pointe Leelou, la  
-<a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a>.  
-Leelou se réveille pour apprendre qu’elle a été prêchée et perd sa capacité.  
-La nuit suivante, l’  
-<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>  
-choisit Cédric.  
-Tant que Cédric est empoisonné, Leelou se réveille de nouveau pour utiliser sa capacité.
-</p>
-
----
-
-##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>La capacité du Prédicateur coupe net les pouvoirs des  
-      <span style="color:#d45b5b; font-weight:bold;">Sbires</span>.  
-      Ils et elles le savent, mais les récupèrent dès que vous mourrez.  
-      Comme vous ne savez pas toujours si vous avez touché un Sbire,  
-      observez attentivement vos cibles le lendemain :  
-      si leur comportement change brusquement, qu’ils ou elles deviennent très actifs  
-      sur les exécutions, vous avez peut-être trouvé un Sbire désespéré.</li>
-
-  <li>Faites attention à la façon dont vous révélez votre rôle.  
-      Vous êtes une véritable épine dans le pied de l’équipe maléfique :  
-      vous pouvez désamorcer un  
-      <a href="../roles_experimentaux/boomdandy.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boomdandy</a>  
-      ou contrecarrer un  
-      <a href="../roles_experimentaux/mezepheles.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mezepheles</a>.  
-      Rien que la menace de retirer la capacité d’un Sbire peut faire exploser  
-      les plans les plus élaborés du Mal, et faire de vous une cible prioritaire.</li>
-
-  <li>N’hésitez pas à bluffer un rôle de Villageois plus discret,  
-      ou un Étranger comme le  
-      <a href="../tb_roles/majordome.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Majordome</a>  
-      ou le  
-      <a href="../sv_roles/barbier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Barbier</a>,  
-      pour détourner l’attention de vous.</li>
-
-  <li>Un joueur ou une joueuse très suspecte, qui reste à l’écart,  
-      est une bonne cible : si c’est un Sbire, vous l’arrêtez net,  
-      et si c’est un rôle bon qui se fait discret, votre capacité n’aura aucun effet négatif.  
-      Vous n’avez rien à perdre à tenter des coups dans le brouillard.</li>
-
-  <li>Au premier jour, écoutez bien qui fait des annonces publiques.  
-      Les Sbires ne reçoivent pas de bluffs garantis et arrivent souvent en dernier  
-      dans les déclarations.  
-      Ceux qui se retrouvent dans des doubles claims tardifs  
-      sont d’excellentes cibles pour votre capacité.</li>
-
-  <li>Si vous hésitez entre deux Sbires possibles, visez celui ou celle  
-      qui cause le plus de dégâts sur la durée.  
-      Neutraliser un  
-      <a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>  
-      après son unique meurtre ne change plus grand-chose,  
-      mais priver une  
-      <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a>  
-      de son poison ou une Pit-Hag de ses transformations  
-      est un énorme coup de pouce pour le Bien.</li>
-
-  <li>Une fois mort, si vous pensez avoir désactivé un ou plusieurs Sbires,  
-      n’hésitez pas à tout révéler :  
-      leurs capacités sont de nouveau actives et la ville doit s’y préparer.</li>
-
-  <li>Le Prédicateur peut aussi cibler des morts.  
-      Cela ne servira pas souvent, mais cela fait de vous un contre très surprenant  
-      pour un  
-      <a href="../sv_roles/vigormortis.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vigormortis</a>  
-      ou un  
-      <a href="../voyageurs/bonecollector.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Collecteur d’os</a>  
-      qui continuent à agir depuis la tombe.</li>
-
-</ul>
-
----
-
-##  <span style="color:#4ea3ff;">Bluffer Prédicateur</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Bluffer Prédicateur peut être délicat,  
-      car même un vrai Prédicateur a peu de retours concrets pour prouver ce qu’il dit.  
-      Mais vous pouvez exploiter cette zone grise pour jeter le doute  
-      ou gagner la confiance de certains joueurs et joueuses.</li>
-
-  <li>Pour crédibiliser votre bluff, coordonnez-vous avec l’équipe maléfique  
-      afin de faire disparaître temporairement la capacité d’un Sbire visible,  
-      comme la  
-      <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a>  
-      ou la Cerenovus.  
-      Si, pendant quelques nuits, il n’y a plus de morts de Sorcière  
-      ni de folie imposée par la Cerenovus,  
-      vous pouvez accuser la mauvaise personne en disant que vous l’avez « prêchée ».</li>
-
-  <li>Faites toutefois attention à qui vous accusez d’être Sbire :  
-      si le groupe vous croit, cette personne sort des priorités du Démon  
-      et des exécutions, puisqu’elle est supposément « neutralisée ».  
-      Vous pouvez même, si nécessaire, traiter votre propre Démon de simple Sbire  
-      pour qu’il paraisse moins dangereux et survive plus longtemps.</li>
-
-  <li>Si le comportement d’un joueur change brutalement d’un jour à l’autre,  
-      vous pouvez prétendre que c’est parce que vous l’avez choisi la nuit précédente.  
-      Cela sous-entend qu’il vient d’apprendre qu’il n’a plus de capacité.</li>
-
-  <li>Vous pouvez aussi utiliser votre faux pouvoir pour construire de la confiance :  
-      allez voir en secret un joueur que vous savez bon et dites-lui  
-      que vous l’avez choisi la nuit dernière.  
-      Expliquez que comme il ne semble pas avoir changé de comportement,  
-      vous le trouvez plus crédible, car il n’est probablement pas Sbire.  
-      Rien que ce « choix » peut suffire à inspirer de la confiance.</li>
-
-  <li>Si votre bluff initial s’effondre, vous pouvez révéler  
-      que vous étiez le Prédicateur depuis le début.  
-      Comme ce rôle est une cible de choix pour le Mal,  
-      il est crédible que vous ayez menti pour ne pas mourir trop tôt  
-      et empêcher les Sbires de retrouver leurs capacités.</li>
-
-  <li>Vous pouvez aussi mourir la nuit de manière volontaire,  
-      par exemple en tant qu’  
-      <a href="../tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Imp</a>  
-      en transmettant le rôle,  
-      puis vous révéler comme Prédicateur pour accuser quelques bons joueurs d’être Sbires.  
-      Un Prédicateur mort la nuit a souvent plus de poids qu’un Prédicateur exécuté.</li>
-
-  <li>Une fois mort, vous pouvez vraiment « vendre » l’idée  
-      que vous étiez le véritable Prédicateur si un Sbire complice  
-      commence à utiliser sa capacité de façon très voyante :  
-      un meurtre d’  
-      <a href="../bmr_roles/assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a>,  
-      une protection de l'
-      <a href="../bmr_roles/avocatdudiable.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Avocat du Diable</a>,  
-      ou le retour d’une  
-      <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a>.  
-      Pointez un joueur précis et dites :  
-      « Ils étaient tranquilles tant que j’étais en vie… maintenant regardez le chaos ! »  
-      Si cela fonctionne, le Village sera soulagé par votre sacrifice  
-      et furieuse contre votre bouc émissaire.</li>
-
-</ul>
-
----
-
-<p style="text-align:left; font-size:18px; margin-top:20px;">
-   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
-   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+<p style="text-align:left; font-size:18px; margin-top:00px;">
+• <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+• <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
+• <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
