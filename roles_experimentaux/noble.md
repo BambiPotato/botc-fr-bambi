@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Noble
+description: "Lors de votre 1re nuit, vous apprenez 3 joueurs, dont 1 uniquement est maléfique."
+image: /images/Icon_noble.png
 ---
 
 <p align="left">
@@ -8,6 +10,8 @@ title: Noble
     <img src="../images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
+
+<hr class="explication">
 
 <!-- Noble -->
 
@@ -19,22 +23,7 @@ title: Noble
   </a>
 </div>
 
-<!-- APPARAÎT DANS -->
-<div style="text-align:center; margin: 20px 0%;">
-  <a href="../experimentaux.html" style="text-decoration:none;">
-    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
-    <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
-  </a>
-</div>
-
-#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Noble</span>
-
-<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Le sarcasme est certes la forme d’esprit la plus basse. Mais pour répondre à votre critique, Monsieur, cela reste tout de même une forme d’esprit. »
-</p>
-
----
+<hr class="villageois">
 
 ##  <span style="color:#4ea3ff;">Informations</span>
 
@@ -43,199 +32,111 @@ title: Noble
     <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
   </li>
   <li>
-  <strong>Nom original :</strong>
-  <a href="https://wiki.bloodontheclocktower.com/Noble"
-     target="_blank"
-     rel="noopener noreferrer"
-     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
-    Noble
-  </a>
-</li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Noble"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+      Noble
+    </a>
+  </li>
   <li><strong>Artiste :</strong> <em>Caitlin Murphy</em></li>
   <li><strong>Révélé :</strong> 1er août 2021</li>
 </ul>
 
----
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Le sarcasme est en effet la forme la plus basse de l'esprit. <br> Mais pour répondre à votre critique, Monsieur, <br> cela reste néanmoins une forme d'esprit. »
+</p>
+
+<hr class="villageois">
+
+<!-- APPARAÎT DANS -->
+<div style="text-align:center; margin: 20px 0%;">
+  <a href="../experimentaux.html" style="text-decoration:none;">
+    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : Carrousel rôle expérimental</span>
+  </a>
+</div>
 
 ##  <span style="color:#4ea3ff;">Résumé</span>
+<hr class="villageois">
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Vous commencez en connaissant 3 joueurs, dont 1 et seulement 1 est maléfique. »</strong>
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
+« Lors de votre 1re nuit, vous apprenez 3 joueurs, dont 1 uniquement est maléfique. »
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Noble</strong> apprend que l’un des trois joueurs est maléfique.
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Le Noble apprend qu’un joueur, parmi trois, est maléfique.
 </p>
 
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Le Noble reçoit son information uniquement pendant la première nuit.</li>
-
-  <li>Si un Noble est mis en jeu en cours de partie, il apprend son information lors de sa première nuit en jeu.</li>
-
-  <li>Le Noble apprend trois joueurs au total&nbsp;: deux joueurs bons et un joueur maléfique.  
-      Il ne peut pas apprendre un joueur bon et deux maléfiques, ni trois joueurs maléfiques.</li>
-
-</ul>
-
----
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Le Noble apprend cette information uniquement lors de la première nuit.
+<br><br>
+• Si un Noble est créé en cours de partie, il apprend cette information lors de sa première nuit.
+<br><br>
+• Le Noble apprend deux joueurs bons et un joueur maléfique. Il ne peut pas apprendre un joueur bon et deux joueurs maléfiques. Il ne peut pas apprendre trois joueurs maléfiques.
+</p>
 
 ##  <span style="color:#4ea3ff;">Comment Conter</span>
+<hr>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Pendant la préparation de la première nuit, marquez les jetons de rôle de deux joueurs bons avec des rappels  
-      <strong>NOBLE SAIT</strong>. Puis marquez le jeton de rôle d’un joueur maléfique avec un troisième rappel  
-      <strong>NOBLE SAIT</strong>.</li>
-
-  <li>Durant la première nuit, réveillez le Noble.  
-      Pointez successivement les trois joueurs marqués avec un rappel <strong>NOBLE SAIT</strong>.  
-      Puis rendormez le Noble.</li>
-
-</ul>
-
----
-
-##  <span style="color:#4ea3ff;">Exemples</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-
-Le Noble voit <strong>Mélanie</strong>, <strong>Alex</strong> et <strong>Abdel</strong>.  
-Mélanie et Abdel sont bons, Alex est maléfique.
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Instructions au Conteur 
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Lors de la préparation de la première nuit, marquez les jetons de rôle de deux joueurs bons avec les jetons <strong>« Appris »</strong> du Noble. <br> Marquez le jeton de rôle de n’importe quel joueur maléfique du troisième jeton <strong>« Appris »</strong>.
+<br><br>
+• Lors de la première nuit, réveillez le Noble. Désignez les trois joueurs marqués <strong>« Appris »</strong>. Le Noble se rendort.
+</p>
 
-Le Noble apprend que <strong>David</strong>, <strong>Lucas</strong> et <strong>Benoit</strong> sont ses trois joueurs.  
-David est la 
-<a href="../bmr_roles/femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de Chambre</a>.  
-Lucas est le 
-<a href="../sv_roles/barbier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Barbier</a>.  
-Benoit est le 
-<a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Reclus</a>,  
-qui s’est enregistré comme maléfique pour le Noble.</p>
+##  <span style="color:#4ea3ff;">Exemples</span>
+<hr>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Le Conteur montre au Noble Marianna, Alex et Abdallah. Marianna et Abdallah sont bons, et Alex est maléfique.
+<br><br>
+• Le Noble apprend Doug, Lachlan et Ben. Doug est la <a href="../bmr_roles/femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de chambre</a>. <br> Lachlan est le <a href="../sv_roles/barbier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Barbier</a>. Ben est la <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a>, qui apparaît comme maléfique aux yeux du Noble.
+<br><br>
+• La troisième nuit, la <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a> transforme Amy en Noble. <br> Amy apprend qu’un joueur parmi Evin, Sarah et Julian est maléfique. Sarah est en fait l’<a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a> (maléfique) qui apparaît comme bonne, et Julian est le <a href="../bmr_roles/po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a>, lui aussi maléfique.
+</p>
 
-La troisième nuit, la 
-<a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a> transforme Eléonore en Noble.  
-Eléonore apprend que l’un des joueurs <strong>Emilien</strong>, <strong>Sarah</strong> ou <strong>Julien</strong> est maléfique.  
-Cependant, Sarah est l’
-<a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a> maléfique qui s’enregistre comme gentille,  
-et Julien est le 
-<a href="../bmr_roles/po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a>, également maléfique.</p>
+##  <span style="color:#4ea3ff;">Conseils & Astuces</span>
+<hr>
 
----
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• <strong>Révélez votre information immédiatement.</strong> Si vous dites au groupe que vous êtes le <strong>Noble</strong> et quels sont les trois joueurs que vous avez appris, le groupe pourra utiliser cette information dès le départ.
+<br><br>
+• <strong>Attendez que la partie soit presque terminée pour révéler ce que vous savez.</strong> Il est très probable que le Conteur vous ait montré un <strong>Sbire</strong> et ne vous ait pas montré le <strong>Démon</strong>. S'il ne reste que 3 joueurs en vie, que deux des joueurs de votre triple sont morts et que vous êtes plutôt certain que le joueur vivant de votre information n'est pas le <strong>Démon</strong>, cela augmente vos chances de choisir le bon joueur à exécuter. Si deux des joueurs que vous avez appris sont encore en vie, c'est encore mieux.
+<br><br>
+• <strong>Votre information n'est pas exceptionnelle à elle seule.</strong> Savoir que l'un des trois joueurs est maléfique ne vous aidera pas beaucoup tant que vous ne combinerez pas votre information avec ce que les autres joueurs savent. Jouez en équipe et communiquez autant que possible.
+<br><br>
+• <strong>Rappelez-vous qu'un seul des joueurs que vous avez appris est obligatoirement maléfique.</strong> Contrairement au <a href="../tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a>, qui pourrait apprendre deux joueurs maléfiques, le <strong>Noble</strong> apprend exactement un joueur maléfique. Ainsi, si vous réussissez à découvrir lequel des trois est maléfique, vous apprenez également que les deux autres joueurs sont bons. Connaître l'alignement de trois joueurs est extrêmement utile. Découvrez quel joueur est maléfique si vous le pouvez.
+<br><br>
+• <strong>Testez trois théories différentes.</strong> Si vous supposez que le premier joueur est maléfique, qu'est-ce que cela implique pour les autres joueurs de la partie ? Est-ce coherent ? Si vous supposez que le deuxième joueur est maléfique, qu'est-ce que cela implique pour les autres joueurs ? Est-ce cohérent ? Si vous supposez que le troisième joueur est maléfique, qu'est-ce que cela implique pour les autres joueurs ? Est-ce cohérent ? Laquelle de ces trois options fait le PLUS de sens ?
+<br><br>
+• <strong>Avec des rôles comme le <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a> en jeu, il vaut la peine de tuer certains rôles pour prouver qui ils sont. Le Noble n'en fait pas partie.</strong> Même si vous pouvez prouver qui vous êtes en mourant, cela laisse encore trois joueurs à tuer. Cela ne vaut pas la peine de faire mourir huit joueurs, dont sept sont bons, juste pour tuer un joueur maléfique. (Vous mourrez, puis le <strong>Démon</strong> tue, puis le premier joueur meurt, puis le <strong>Démon</strong> tue, puis le deuxième joueur meurt, puis le <strong>Démon</strong> tue, puis le troisième joueur meurt, puis le <strong>Démon</strong> tue.) Au lieu de cela, travaillez avec l'information dont vous disposez et amenez les gens à vous faire confiance en tant que <strong>Noble</strong> sans avoir à vous faire exécuter.
+</p>
 
-##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
+##  <span style="color:#4ea3ff;">Bluffer le Noble</span>
+<hr>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• <strong>Le bluff le plus simple en tant que Noble est de vous dévoiler tôt et de désigner trois joueurs bons.</strong> C'est d'ailleurs très amusant ! Si vous êtes maléfique, dire à trois joueurs bons que l'un d'entre eux est maléfique provoquera beaucoup de paranoïa entre eux, avec l'avantage supplémentaire que c'est très difficile à prouver ou à réfuter. Contrairement à la <a href="../sv_roles/jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumelle maléfique</a>, où le joueur bon sait avec certitude que l'autre joueur est maléfique, ou à l'<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a> qui apprend qu'un voisin est maléfique (ce qui signifie que chaque voisin pense que l'autre est maléfique), les joueurs appris par le <strong>Noble</strong> peuvent tous deux prétendre être bons tout en croyant également que l'autre joueur appris par le <strong>Noble</strong> est bon aussi. Que des joueurs bons se convainquent mutuellement qu'ils sont bons est naturel et crédible (parce qu'ils sont bons), mais cela a pour effet secondaire que vous semblez bon et que le troisième joueur dont ils ne parlent pas actuellement semble maléfique. En se convainquant qu'ils sont bons, ils se convainquent eux-mêmes qu'un joueur bon est maléfique.
+<br><br>
+• <strong>Laissez les joueurs bons se convaincre eux-mêmes de quel joueur parmi les trois est maléfique.</strong> Tant que le joueur qu'ils décident être maléfique est en réalité bon, vous êtes hors de danger. Pour un faux <strong>Noble</strong>, les perches tendues et les suggestions sont plus efficaces que les accusations directes, et l'écoute est plus utile que le bavardage. Faites semblant d'être un coéquipier qui aide le groupe.
+<br><br>
+• <strong>Si vous vous sentez d'humeur aventureuse et qu'il y a trois joueurs maléfiques ou plus dans la partie, prétendre être le Noble et désigner deux (ou plus !) joueurs maléfiques parmi vos trois provoquera à coup sûr une immense confusion chez les joueurs bons.</strong> Il est peu probable qu'ils suspectent que deux ou trois des joueurs du <strong>Noble</strong> soient maléfiques, car même si le vrai <strong>Noble</strong> était ivre, le Conteur ferait rarement cela. Donner une information qui a très peu de chances de se produire, même pour un joueur ivre, peut vraiment semer la zizanie chez les bons. Soyez conscient cependant... au moins l'un des trois joueurs que vous prétendez être maléfique sera exécuté. Peut-être deux. Peut-être les trois.
+<br><br>
+• <strong>Si vous êtes le Démon, bluffer en tant que Noble et donner une information correcte est assez facile à faire et vous donne une excellente image.</strong> C'est un bluff sûr et efficace. Contrairement au fait de prétendre être le <a href="../tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a> et déclarer avoir vu un <a href="../tb_roles/baron.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Baron</a> alors que le nombre de <strong>Marginaux</strong> ne correspond pas à vos propos, ou prétendre être le <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a> qui a vu une <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a> se faire exécuter alors que personne n'a changé de <strong>rôle</strong>, désigner simplement quels joueurs sont maléfiques est beaucoup plus facile à faire car c'est difficile à réfuter. <br> Même s'il y a un <strong>rôle</strong> en jeu qui vous empêche de savoir avec certitude quels joueurs sont des <strong>Sbires</strong>, comme un <a href="../roles_experimentaux/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Planteur de pavot</a> ou un <a href="../roles_experimentaux/magician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Magicien</a>, ou si vous êtes un <a href="../sv_roles/fanggu.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fang Gu</a> fraîchement converti ou un <a href="../sv_roles/charmeurdeserpent.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Charmeur de serpents</a>, vous avez de fortes chances de désigner un <strong>Sbire</strong> juste par hasard en choisissant trois joueurs. Si vous voulez paraître bon, rester en sécurité et sacrifier un <strong>Sbire</strong> pour y parvenir, bluffer en <strong>Noble</strong> en donnant une information vraie est un jeu d'enfant.
+</p>
 
-  <li>Révélez rapidement votre information.  
-      Dire au groupe que vous êtes le Noble, et quels sont les trois joueurs que vous avez vus,  
-      donne au village une base claire pour commencer à enquêter.</li>
+<hr class="explication">
 
-  <li>Vous pouvez aussi attendre la fin de partie avant d’expliquer ce que vous savez.  
-      Il est fréquent que la conteuse ou le conteur vous montre un <span style="color:#d45b5b; font-weight:bold;">Sbire</span>  
-      plutôt que le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.  
-      Si, à trois joueurs vivants, deux des joueurs que vous connaissez déjà sont morts  
-      et que vous êtes assez certain ou certaine que le troisième joueur connu n’est pas le Démon,  
-      vos chances de choisir la bonne cible à exécuter augmentent fortement.  
-      Si deux des joueurs que vous connaissez sont encore en vie, c’est encore meilleur.</li>
 
-  <li>Votre information est faible isolément.  
-      Savoir qu’un des trois joueurs est maléfique ne suffit pas pour trancher,  
-      tant que vous ne combinez pas votre info avec celle d’autres rôles.  
-      Jouez collectif, discutez souvent et clairement.</li>
-
-  <li>Souvenez-vous qu’exactement un des trois joueurs que vous voyez est maléfique.  
-      Contrairement à l’
-      <a href="../tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Enquêteur</a>,  
-      qui peut voir deux maléfiques, le Noble voit toujours exactement un maléfique.  
-      Si vous parvenez à déterminer lequel des trois est du Mal,  
-      vous avez aussi appris que deux joueurs sont bons.  
-      Connaître l’alignement de trois personnes est extrêmement puissant.</li>
-
-  <li>Testez trois théories distinctes&nbsp;:  
-      si vous supposez que le joueur A est maléfique,  
-      qu’est-ce que cela implique pour les rôles et les attitudes des autres joueurs&nbsp;?  
-      Est-ce cohérent avec le reste de la partie&nbsp;?  
-      Faites ensuite le même exercice en supposant B maléfique, puis C maléfique.  
-      Laquelle de ces trois hypothèses colle le mieux à l’ensemble des informations&nbsp;?</li>
-
-  <li>Avec des rôles comme le 
-      <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-mort</a>  
-      en jeu, il vaut parfois la peine de tuer certains rôles pour prouver qui ils sont.  
-      Le Noble ne fait pas partie de ces rôles.  
-      Même si votre mort prouvait que vous étiez vraiment le Noble,  
-      il resterait encore jusqu’à trois exécutions à faire pour éliminer la cible maléfique,  
-      pendant que le Démon tue entre chaque exécution.  
-      Huit morts pour un seul maléfique, ce n’est pas rentable.  
-      Il est bien plus intéressant de travailler avec l’information que vous avez  
-      et de gagner la confiance du village sans vous sacrifier.</li>
-
-</ul>
-
----
-
-##  <span style="color:#4ea3ff;">Bluffer Noble</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Le bluff le plus simple consiste à vous révéler tôt comme Noble  
-      et à désigner trois rôles bons.  
-      C’est aussi très amusant&nbsp;: annoncer à trois joueurs et joueuses du Bien  
-      que l’un d’eux est maléfique crée une paranoïa durable,  
-      tout en étant très difficile à vérifier.  
-      À la différence du 
-      <a href="../sv_roles/jumeaumalefique.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Jumeau maléfique</a>,  
-      où la personne sait que l’autre est du Mal,  
-      ou de l’
-      <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a>  
-      qui sait qu’un de ses voisins est maléfique,  
-      les personnes vues par le Noble peuvent croire que les deux autres sont bons,  
-      tout en suivant votre soupçon sur la troisième.</li>
-
-  <li>Laissez les joueurs et joueuses du Bien décider eux-mêmes qui, parmi les trois, est maléfique.  
-      Tant que la personne qu’ils finissent par accuser est en réalité bonne,  
-      votre bluff fonctionne.  
-      De petits sous-entendus et des questions orientées sont souvent plus efficaces  
-      que des accusations directes.</li>
-
-  <li>Si vous voulez semer un chaos maximal et qu’il y a au moins trois rôles maléfiques en jeu,  
-      vous pouvez bluffer Noble en incluant deux, voire trois rôles maléfiques parmi vos trois noms.  
-      Même si un Noble ivre pourrait recevoir une info étrange,  
-      il est très peu probable que la conteuse ou le conteur montre trois maléfiques à un Noble ivre.  
-      Donner une information que le groupe jugera « presque impossible »  
-      peut planter durablement le doute.</li>
-
-  <li>En tant que <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
-      bluffer Noble en donnant de bonnes informations est un choix très sûr.  
-      Cela vous rend crédible pour longtemps.  
-      Contrairement à un 
-      <a href="../tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Enquêteur</a>  
-      qui se contredirait avec le nombre d’
-      <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Étrangers</a>,  
-      ou à un 
-      <a href="../tb_roles/croquemorts.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-morts</a>  
-      donnant un résultat manifestement faux,  
-      le Noble se contente de dire « l’un de ces trois est maléfique »,  
-      ce qui reste très difficile à démentir.  
-      Même si certains effets (comme un 
-      <a href="../roles_experimentaux/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cultivateur de pavot</a>  
-      ou un
-      <a href="../roles_experimentaux/magician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Magicien</a>)  
-      brouillent votre vision de qui est Sbire ou Démon,  
-      vous avez de grandes chances de désigner au moins un rôle maléfique par hasard.  
-      Sacrifier un Sbire pour asseoir votre image de Noble fiable est une stratégie redoutable.</li>
-
-</ul>
-
----
-
-<p style="text-align:left; font-size:18px; margin-top:20px;">
-   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
-   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+<p style="text-align:left; font-size:18px; margin-top:00px;">
+• <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+• <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
+• <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
