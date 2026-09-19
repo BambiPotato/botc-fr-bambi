@@ -189,7 +189,7 @@ Pour les nouveaux joueurs, il est utile de rappeler que le Léviathan est en jeu
     <img src="../images/Icon_grandmother.png" alt="Grand-mère" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../bmr_roles/grandmere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Grand-mère</a> :  
     Si le <strong>Léviathan</strong> est en jeu  
-    et que l’Enfant de la Grand-mère meurt par exécution,  
+    et que le Petit-enfant de la Grand-mère meurt par exécution,  
     le Mal gagne.
   </li>
   <li>
