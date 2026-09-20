@@ -77,7 +77,8 @@ LA PIXIE fait semblant d’être le même rôle que quelqu’un d’autre.
 • La première nuit, la Pixie apprend un Villageois en jeu. Le Conteur choisit de quel Villageois il s’agit. La Pixie n’apprend pas quel joueur est ce rôle.<br><br>
 • Si le joueur Pixie fait bel et bien croire qu’il est ce Villageois, il récupère la capacité de ce Villageois lorsque ce Villageois meurt. Pour cela, il peut répéter à qui veut l’entendre qu’il est ce rôle pendant toute une journée, voire pendant plusieurs jours, voire accuser le vrai Villageois d’être un menteur — c’est le Conteur qui est seul juge de la prestation de la Pixie, qui doit s’être « montré fou d’être ce rôle ».<br><br>
 • Lorsque le joueur Villageois meurt, la Pixie ne l’apprend pas, et le Conteur ne lui dit pas qu’elle a gagné une nouvelle capacité. Elle peut l’apprendre si elle est réveillée la nuit et commence à obtenir des informations, ou si le Conteur lui demande de choisir des joueurs.<br><br>
-• Si la cible de la Pixie change de rôle avant de mourir, la Pixie acquiert la capacité du Villageois qu’elle a appris au départ, et non celle du nouveau rôle.
+• Si la cible de la Pixie change de rôle avant de mourir, la Pixie acquiert la capacité du Villageois qu’elle a appris au départ, et non celle du nouveau rôle.<br><br>
+• Nous vous invitons à lire ce guide pour mieux vous aider : <a href="../foliepixie.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;"> Comment Conter la folie pour la Pixie</a>
 </p>
 
 <!-- ===== COMMENT CONTER ===== -->
@@ -148,6 +149,7 @@ Lorsque vous bluffez la <strong>Pixie</strong>, gardez quelques points à l'espr
 
 <!-- ===== PIED DE PAGE ===== -->
 <p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
+  • <a href="../foliepixie.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;"> Comment Conter la folie pour la Pixie</a>
   • <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
   • <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Carrousel les rôles expérimentaux</a><br>
   • <a href="../index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a>
