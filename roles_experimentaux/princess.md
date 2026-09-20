@@ -116,7 +116,7 @@ Instructions au Conteur
 <hr>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
-• <strong>Exigez de l'attention de la part de vos loyaux sujets...je veux dire, de vos camarades de jeu !</strong> Si vous voulez être la personne qui nomme et exécute un joueur, faites part de votre plan à tout le monde à l'avance afin qu'ils votent avec vous et vous aident à atteindre votre objectif.
+• <strong>Exigez de l'attention de la part de vos loyaux sujets... je veux dire, de vos camarades de jeu !</strong> <br> Si vous voulez être la personne qui nomme et exécute un joueur, faites part de votre plan à tout le monde à l'avance afin qu'ils votent avec vous et vous aident à atteindre votre objectif.
 <br><br>
 • <strong>Lors de votre 1ᵉʳ jour, essayez de trouver un joueur que cela ne dérange pas d'être exécuté.</strong> Nommez-le et restez décontracté, en bluffant comme si vous n'étiez pas la <strong>Princesse</strong>. Prétendez que vous l'avez nommé parce que vous pensez que ce joueur ferait de la bonne nourriture pour le <a href="../roles_experimentaux/cannibal.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cannibale</a>, ou parce qu'il aimerait voir son <strong>rôle</strong> confirmé par un <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a>.
 <br><br>
@@ -153,7 +153,7 @@ Instructions au Conteur
 <ul style="margin-left:0px; color:#f5f5f5; font-size:18px; line-height:1.7; list-style-type:none; padding-left:0;">
   <li>
   • 🧞 <img src="../images/Icon_alhadikhia.png" alt="Al-Hadikhia" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-  <a href="../roles_experimentaux/alhadikhia.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Al-Hadikhia</a> : Si la Princesse a nommé et exécuté un joueur lors de son 1ᵉʳ jour, personne ne meurt du fait de l'<a href="../roles_experimentaux/alhadikhia.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Al-Hadikhia</a> cette nuit.
+  <a href="../roles_experimentaux/alhadikhia.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Al-Hadikhia</a> : Si la Princesse a nommé et exécuté un joueur lors de son 1ᵉʳ jour, personne ne meurt du fait de <br> l'<a href="../roles_experimentaux/alhadikhia.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Al-Hadikhia</a> cette nuit.
   </li><br>
 
   <li>
