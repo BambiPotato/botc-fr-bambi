@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Princesse
+description: "Lors de votre 1er jour, si vous avez nommé et exécuté un joueur, le Démon ne tue pas cette nuit."
+image: /images/Icon_princess.png
 ---
 
 <p align="left">
@@ -9,32 +11,19 @@ title: Princesse
   </a>
 </p>
 
+<hr class="explication">
+
 <!-- Princesse -->
 
-<div style="text-align:center; margin: 20px 0%;">
+<div style="text-align:center; margin: 20px 0;">
   <a href="./princess.html" style="text-decoration:none;">
     <img src="../images/Icon_princess.png" alt="Princesse" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#4ea3ff; font-weight:bold; font-size:22px;">Princesse</span>
+    <span style="color:#4ea3ff; font-weight:bold; font-size:22px;">👸🏻 Princesse</span>
   </a>
 </div>
 
-<!-- APPARAÎT DANS -->
-<div style="text-align:center; margin: 20px 0%;">
-  <a href="../experimentaux.html" style="text-decoration:none;">
-    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
-    <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
-  </a>
-</div>
-
-#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Princesse</span>
-
-<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Nos mots sont des chiens tenus par des fils de soie, mes seigneurs. Que la bonté les guide, ou bien leurs laisses se rompront, et notre cour se déchirera. »
-</p>
-
----
+<hr class="villageois">
 
 ##  <span style="color:#4ea3ff;">Informations</span>
 
@@ -43,234 +32,141 @@ title: Princesse
     <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
   </li>
   <li>
-  <strong>Nom original :</strong>
-  <a href="https://wiki.bloodontheclocktower.com/Princess"
-     target="_blank"
-     rel="noopener noreferrer"
-     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
-    Princess
-  </a>
-</li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Princess"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+      Princess
+    </a>
+  </li>
   <li><strong>Artiste :</strong> <em>Chloe McDougall</em></li>
   <li><strong>Révélé :</strong> 22 juin 2025</li>
 </ul>
 
----
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Nos mots sont des molosses retenus par de simples fils de soie, Messieurs. <br> Que la bienveillance en tisse de véritables cordes, <br> de peur que ces liens ne rompent et ne déchirent la cour. »
+</p>
 
+<hr class="villageois">
+
+<!-- APPARAÎT DANS -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../experimentaux.html" style="text-decoration:none;">
+    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : Carrousel rôle expérimental</span>
+  </a>
+</div>
 
 ##  <span style="color:#4ea3ff;">Résumé</span>
+<hr class="villageois">
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Lors de votre premier jour, si vous avez nommé et fait exécuter un joueur, le Démon ne tue personne cette nuit. »</strong>
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
+« Lors de votre 1er jour, si vous avez nommé et exécuté un joueur, le Démon ne tue pas cette nuit. »
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-La <strong>Princesse</strong> décide quel joueur meurt en premier..
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+La Princesse décide quel joueur meurt en premier.
 </p>
 
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Pour que la capacité de la Princesse fonctionne, le joueur ou la joueuse  
-      que la Princesse a nommé doit être celle ou celui qui est exécuté ce jour-là.  
-      Les exécutions issues de nominations faites par d’autres ne comptent pas.</li>
-
-  <li>Le joueur exécuté n’a pas besoin de mourir réellement  
-      pour que la capacité de la Princesse s’applique  
-      (par exemple si une capacité empêche cette mort).</li>
-
-  <li>Les exilés ne sont pas pris en compte pour la capacité Princesse.</li>
-
-  <li>Si la Princesse est ivre pendant la journée mais sobre la nuit suivante,  
-      elle empêche le <span style="color:#d45b5b; font-weight:bold;">Démon</span> de tuer cette nuit-là.  
-      Si elle est sobre pendant la journée mais ivre la nuit, elle n’empêche pas le meurtre.</li>
-
-  <li>La nuit, les morts causées par d’autres capacités que le Démon  
-      se produisent normalement.</li>
-
-  <li>La nuit, le <span style="color:#d45b5b; font-weight:bold;">Démon</span> choisit tout de même une cible,  
-      mais cette cible ne meurt pas.  
-      Les autres effets de la capacité du Démon (empoisonner, donner de fausses infos, etc.)  
-      s’appliquent normalement.</li>
-
-  <li>La Princesse n’est pas obligée de nommer quelqu’un lors de son premier jour.</li>
-
-  <li>Si une personne devient Princesse en cours de partie  
-      (par exemple via une capacité comme la 
-      <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a>)  
-      et qu’elle nomme et fait exécuter un joueur lors de son premier jour  
-      en tant que Princesse, le <span style="color:#d45b5b; font-weight:bold;">Démon</span> ne tue personne cette nuit-là.</li>
-
-</ul>
-
----
-
-## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>
-    🧞 
-    <img src="../images/Icon_alhadikhia.png" alt="Al-Hadikhia" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/alhadikhia.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Al-Hadikhia</a> :  
-    Si la Princesse a nommé et fait exécuter un joueur lors de son premier jour,  
-    personne ne meurt à cause de l’Al-Hadikhia cette nuit-là.
-  </li>
-
-  <li>
-    🧞 
-    <img src="../images/Icon_cannibal.png" alt="Cannibale" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/cannibal.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cannibale</a> :  
-    Si le Cannibale a nommé, fait exécuter et tué la Princesse aujourd’hui,  
-    le <span style="color:#d45b5b; font-weight:bold;">Démon</span> ne tue personne cette nuit.
-  </li>
-
-</ul>
-
----
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Pour que la capacité de la Princesse fonctionne, le joueur que la Princesse a nommé doit être celui qui est exécuté. <br> Les joueurs exécutés qui avaient été nommés par d’autres ne comptent pas.
+<br><br>
+• La capacité de la Princesse fonctionne même si le joueur exécuté ne meurt pas.
+<br><br>
+• Les exils ne comptent pas pour la capacité de la Princesse.
+<br><br>
+• Si la Princesse est ivre pendant la journée, puis sobre pendant la nuit, elle empêche le Démon de tuer. <br> Si la Princesse est sobre pendant la journée, mais ivre la nuit, elle n’empêche pas le Démon de tuer.
+<br><br>
+• La nuit, les morts non liés au Démon surviennent normalement.
+<br><br>
+• La nuit, le Démon choisit toujours un joueur à tuer, mais ce joueur ne meurt pas. Les autres aspects de la capacité du Démon, par exemple empoisonner des joueurs, diffuser de fausses informations, etc., s’exercent normalement.
+<br><br>
+• La Princesse n'est pas tenue de nommer quelqu'un dès son 1er jour.
+<br><br>
+• Si une Princesse est créée en cours de partie, et qu'elle nomme et exécute un joueur dès son 1er jour, le Démon ne tue pas cette nuit-là.
+<br><br>
+• Si la Princesse se nomme et s'exécute elle-même, le Démon peut tuer normalement cette nuit-là.
+</p>
 
 ##  <span style="color:#4ea3ff;">Comment Conter</span>
+<hr>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Pendant la journée, suivez avec attention qui nomme qui.  
-Si, lors du premier jour de la Princesse, la personne qu’elle a nommée  
-est effectivement celle qui est exécutée, marquez le Démon  
-avec le rappel <strong>NE TUE PAS</strong>.
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Instructions au Conteur
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Cette nuit-là, lorsque le <span style="color:#d45b5b; font-weight:bold;">Démon</span> se réveille pour choisir une cible,  
-réveillez-le normalement et laissez-le désigner un joueur ou une joueuse.  
-Puis rendormez-le : la cible ne meurt pas à cause du Démon cette nuit,  
-mais tous les autres effets éventuels de sa capacité s’appliquent.
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Si la Princesse nomme et exécute un joueur, marquez le Démon du jeton <strong>« Ne tue pas »</strong>.
+<br><br>
+• Cette nuit-là, si le Démon doit se réveiller pour choisir un joueur, réveillez-le comme d'habitude. Le Démon ne tue pas.
 </p>
-
----
 
 ##  <span style="color:#4ea3ff;">Exemples</span>
+<hr>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-
-La Princesse nomme le 
-<a href="../roles_experimentaux/preacher.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Prédicateur</a>.  
-Le Prédicateur est exécuté et meurt.  
-Cette nuit-là, un 
-<a href="../sv_roles/vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a>  
-choisit la 
-<a href="../roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a>,  
-qui ne meurt pas.  
-Le 
-<a href="../sv_roles/crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur</a>  
-apprend qu’un <span style="color:#d45b5b; font-weight:bold;">Sbire</span> a nommé aujourd’hui,  
-ce qui est une fausse information à cause du Vortox.
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• La Princesse nomme le <a href="../roles_experimentaux/preacher.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Prédicateur</a>. Le <a href="../roles_experimentaux/preacher.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Prédicateur</a> est exécuté et meurt. Cette nuit-là, le <a href="../sv_roles/vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a> choisit la <a href="../roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a>, qui ne meurt pas. Le <a href="../sv_roles/crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur public</a> apprend qu'un Sbire a été nommé aujourd'hui, ce qui est une fausse information causée par la présence du Vortox.
+<br><br>
+• La quatrième nuit, la <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a> transforme le <a href="../sv_roles/reveur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Rêveur</a> en <strong>Princesse</strong>. Ce jour-là, la <strong>Princesse</strong> nomme le <a href="../roles_experimentaux/zealot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Zélote</a>, qui est exécuté. La cinquième nuit, le <a href="../roles_experimentaux/kazali.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Kazali</a> choisit la Princesse, qui ne meurt pas.
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+##  <span style="color:#4ea3ff;">Conseils & Astuces</span>
+<hr>
 
-La quatrième nuit, la 
-<a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a>  
-transforme le 
-<a href="../sv_roles/reveur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Rêveur</a> en Princesse.  
-Ce jour-là, la Princesse nomme le 
-<a href="../roles_experimentaux/zealot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Zélote</a>,  
-qui est exécuté.  
-Cette nuit, le 
-<a href="../roles_experimentaux/kazali.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Kazali</a>  
-choisit la Princesse, qui ne meurt pas.
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• <strong>Exigez de l'attention de la part de vos loyaux sujets — je veux dire, de vos camarades de jeu !</strong> Si vous voulez être la personne qui nomme et exécute un joueur, faites part de votre plan à tout le monde à l'avance afin qu'ils votent avec vous et vous aident à atteindre votre objectif.
+<br><br>
+• <strong>Lors de votre 1ᵉʳ jour, essayez de trouver un joueur que cela ne dérange pas d'être exécuté.</strong> Nommez-le et restez décontracté, en bluffant comme si vous n'étiez pas la <strong>Princesse</strong>. Prétendez que vous l'avez nommé parce que vous pensez que ce joueur ferait de la bonne nourriture pour le <a href="../roles_experimentaux/cannibal.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cannibale</a>, ou parce qu'il aimerait voir son <strong>rôle</strong> confirmé par un <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a>.
+<br><br>
+• <strong>N'utilisez pas votre capacité.</strong> Restez silencieux, attendez, et voyez si un autre joueur essaie de prétendre qu'il est la <strong>Princesse</strong>.
+<br><br>
+• <strong>Pouvez-vous utiliser votre capacité sans tuer de joueur ?</strong> Cherchez des raisons pour lesquelles quelqu'un pourrait ne pas mourir d'une exécution, comme grâce à la <a href="../bmr_roles/damedethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Tisanière</a> ou au <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a>.
+<br><br>
+• <strong>Soyez bienveillant !</strong> Insister pour faire tuer quelqu'un dès le premier jour peut être socialement délicat. Rappelez-vous la Règle 4 : <em>Tuez avec grâce et mourez avec dignité.</em>
+<br><br>
+• <strong>Soyez honnête et transparent.</strong> Plus vous semblez bon sur le plan social, plus les gens vous croiront et choisiront de suivre votre plan.
 </p>
 
----
+##  <span style="color:#4ea3ff;">Bluffer la 👸🏻 Princesse</span>
+<hr>
 
-##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• <strong>Jouez exactement comme vous le feriez si vous étiez une Princesse bonne.</strong> La <strong>Princesse</strong> veut faire exécuter quelqu'un immédiatement, vous avez donc une excuse toute faite pour essayer de tuer un joueur bon sur-le-champ.
+<br><br>
+• <strong>Si vous réussissez à nommer et exécuter un joueur, tuez la personne que vous avez exécutée pendant cette nuit-là</strong> pour prouver que vous êtes bien la <strong>Princesse</strong>.
+<br><br>
+• <strong>Si vous réussissez à nommer et exécuter un joueur, tuez quelqu'un pendant la nuit, et bluffez en prétendant que vous devez être empoisonné ou ivre.</strong> Si votre capacité ne semble pas fonctionner, les joueurs bons pourraient penser que leurs propres capacités d'ivrognerie ou d'empoisonnement fonctionnent parfaitement normalement.
+<br><br>
+• <strong>Encouragez les joueurs bons à nommer</strong>, sous prétexte que cela rendra plus difficile pour l'équipe maléfique de vous identifier comme la <strong>Princesse</strong>.
+<br><br>
+• <strong>Si le <a href="../roles_experimentaux/fearmonger.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Toumenteur</a> est en jeu</strong>, laissez-le prétendre être la <strong>Princesse</strong> afin qu'il puisse nommer le joueur qu'il a choisi pendant la nuit. Ou, <strong>si le <a href="../roles_experimentaux/boomdandy.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boumdandy</a> est en jeu</strong>, nommez-le lors de votre 1ᵉʳ jour pour déclencher sa capacité.
+<br><br>
+• <strong>Soyez bienveillant !</strong> Insister pour faire tuer quelqu'un dès le premier jour peut être socialement délicat, surtout si cela fait partie de votre bluff maléfique. Rappelez-vous la Règle 4 : <em>Tuez avec grâce et mourez avec dignité.</em>
+</p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
 
-  <li>Réclamez l’attention de vos loyaux suj… de vos camarades !  
-      Si vous voulez être celle qui nomme et fait exécuter un joueur le premier jour,  
-      annoncez clairement votre plan pour que les autres votent avec vous  
-      et vous aident à atteindre cet objectif.</li>
+## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
+<hr>
 
-  <li>Lors de votre premier jour, essayez de trouver un joueur ou une joueuse  
-      qui ne craint pas trop d’être exécuté·e.  
-      Nommez cette personne en restant détendue,  
-      comme si vous n’étiez pas la Princesse.  
-      Vous pouvez prétendre que cette exécution fera un bon repas  
-      pour un 
-      <a href="../roles_experimentaux/cannibal.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cannibale</a>,  
-      ou qu’elle permettra de confirmer un rôle via un 
-      <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Croque-mort</a>.</li>
+<ul style="margin-left:0px; color:#f5f5f5; font-size:18px; line-height:1.7; list-style-type:none; padding-left:0;">
+  <li>
+  • 🧞 <img src="../images/Icon_alhadikhia.png" alt="Al-Hadikhia" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+  <a href="../roles_experimentaux/alhadikhia.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Al-Hadikhia</a> : Si la Princesse a nommé et exécuté un joueur lors de son 1ᵉʳ jour, personne ne meurt du fait de l'<a href="../roles_experimentaux/alhadikhia.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Al-Hadikhia</a> cette nuit.
+  </li>
 
-  <li>Vous pouvez aussi choisir de ne pas utiliser votre capacité.  
-      Restez discrète, observez, et voyez si quelqu’un d’autre  
-      prétend être la Princesse.</li>
-
-  <li>Peut-on déclencher votre capacité sans tuer réellement quelqu’un ?  
-      Cherchez les raisons pour lesquelles une personne pourrait survivre  
-      à une exécution, comme une 
-      <a href="../bmr_roles/damedethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dame de Thé</a>  
-      ou un 
-      <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a>.</li>
-
-  <li>Soyez bienveillante. Forcer l’exécution de quelqu’un dès le premier jour  
-      peut être délicat socialement.  
-      Souvenez-vous de la règle 4 :  
-      <strong>« Tuer avec grâce et mourir avec dignité. »</strong></li>
-
-  <li>Plus vous paraissez sincère, honnête et tournée vers le bien du groupe,  
-      plus les autres croiront à votre rôle et accepteront de suivre votre plan.</li>
-
+  <li>
+  • 🧞 <img src="../images/Icon_cannibal.png" alt="Cannibale" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+  <a href="../roles_experimentaux/cannibal.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cannibale</a> : Si le Cannibale a nommé, 
+  exécuté et tué la Princesse aujourd'hui, le Démon ne tue pas cette nuit.
+  </li>
 </ul>
 
----
+<hr class="explication">
 
-##  <span style="color:#4ea3ff;">Bluffer Princesse</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Jouez exactement comme si vous étiez une Princesse loyale.  
-      La Princesse veut faire exécuter quelqu’un dès le début,  
-      ce qui vous donne une excellente excuse pour pousser très tôt  
-      à l’exécution d’un rôle important… et bon.</li>
-
-  <li>Si vous parvenez à nommer et faire exécuter quelqu’un,  
-      faites tuer cette personne par le <span style="color:#d45b5b; font-weight:bold;">Démon</span> la nuit suivante  
-      pour « prouver » que vous êtes bien la Princesse  
-      (en disant par exemple que votre capacité n’a pas fonctionné  
-      à cause d’ivresse ou d’empoisonnement).</li>
-
-  <li>Au contraire, si vous faites exécuter quelqu’un  
-      puis que le <span style="color:#d45b5b; font-weight:bold;">Démon</span> tue une autre personne la nuit,  
-      vous pouvez bluffer en disant que vous devez être saoule ou empoisonnée.  
-      Si votre capacité semble ne pas marcher,  
-      les rôles bons qui se croyaient peut-être ivres ou empoisonnés  
-      risquent de penser que tout va bien pour eux… ce qui est parfait pour le Mal.</li>
-
-  <li>Encouragez les joueurs et joueuses bons à nommer eux-mêmes,  
-      en expliquant que cela rendra plus difficile pour le Mal  
-      de deviner qui est la Princesse.  
-      Plus il y a de nominations, plus vous pouvez vous cacher dedans.</li>
-
-  <li>Si un 
-      <a href="../roles_experimentaux/fearmonger.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Fearmonger</a>  
-      est en jeu, laissez-le prétendre être la Princesse  
-      pour qu’il puisse nommer la cible qu’il a choisie dans la nuit.  
-      Et si un 
-      <a href="../roles_experimentaux/boomdandy.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Boomdandy</a>  
-      est en jeu, nommez-le dès votre premier jour pour déclencher sa capacité  
-      au moment le plus chaotique possible.</li>
-
-  <li>Soyez bienveillante là aussi : pousser à l’exécution d’un joueur  
-      dès le premier jour peut être sensible,  
-      surtout si cela fait partie de votre bluff maléfique.  
-      Souvenez-vous de la règle 4 :  
-      <strong>« Tuer avec grâce et mourir avec dignité. »</strong></li>
-
-</ul>
-
----
-
-<p style="text-align:left; font-size:18px; margin-top:20px;">
-   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
-   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+<p style="text-align:left; font-size:18px; margin-top:00px;">
+• <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+• <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a><br>
+• <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
