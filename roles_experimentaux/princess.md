@@ -19,7 +19,7 @@ image: /images/Icon_princess.png
   <a href="./princess.html" style="text-decoration:none;">
     <img src="../images/Icon_princess.png" alt="Princesse" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#4ea3ff; font-weight:bold; font-size:22px;">👸🏻 Princesse</span>
+    <span style="color:#4ea3ff; font-weight:bold; font-size:35px;">👸🏻 Princesse</span>
   </a>
 </div>
 
@@ -45,7 +45,7 @@ image: /images/Icon_princess.png
 </ul>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-« Nos mots sont des molosses retenus par de simples fils de soie, Messieurs. <br> Que la bienveillance en tisse de véritables cordes, <br> de peur que ces liens ne rompent et ne déchirent la cour. »
+« Nos mots sont des molosses retenus <br> par de simples fils de soie, Messieurs. <br> Que la bienveillance en tisse de véritables cordes, <br> de peur que ces liens ne rompent et ne déchirent la cour. »
 </p>
 
 <hr class="villageois">
@@ -63,7 +63,7 @@ image: /images/Icon_princess.png
 <hr class="villageois">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
-« Lors de votre 1er jour, si vous avez nommé et exécuté un joueur, le Démon ne tue pas cette nuit. »
+« Lors de votre 1er jour, si vous avez nommé et exécuté un joueur, le Démon ne tue pas cette nuit.»
 </p>
 
 <p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
@@ -107,16 +107,16 @@ Instructions au Conteur
 <hr>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
-• La Princesse nomme le <a href="../roles_experimentaux/preacher.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Prédicateur</a>. Le <a href="../roles_experimentaux/preacher.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Prédicateur</a> est exécuté et meurt. Cette nuit-là, le <a href="../sv_roles/vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a> choisit la <a href="../roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a>, qui ne meurt pas. Le <a href="../sv_roles/crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur public</a> apprend qu'un Sbire a été nommé aujourd'hui, ce qui est une fausse information causée par la présence du Vortox.
+• La Princesse nomme le <a href="../roles_experimentaux/preacher.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Prédicateur</a>. Le <a href="../roles_experimentaux/preacher.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Prédicateur</a> est exécuté et meurt. <br> Cette nuit-là, le <a href="../sv_roles/vortox.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Vortox</a> choisit la <a href="../roles_experimentaux/pixie.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pixie</a>, qui ne meurt pas. Le <a href="../sv_roles/crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur public</a> apprend qu'un Sbire a été nommé aujourd'hui, ce qui est une fausse information causée par la présence du Vortox.
 <br><br>
-• La quatrième nuit, la <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a> transforme le <a href="../sv_roles/reveur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Rêveur</a> en <strong>Princesse</strong>. Ce jour-là, la <strong>Princesse</strong> nomme le <a href="../roles_experimentaux/zealot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Zélote</a>, qui est exécuté. La cinquième nuit, le <a href="../roles_experimentaux/kazali.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Kazali</a> choisit la Princesse, qui ne meurt pas.
+• La quatrième nuit, la <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a> transforme le <a href="../sv_roles/reveur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Rêveur</a> en <strong>Princesse</strong>. <br> Ce jour-là, la <strong>Princesse</strong> nomme le <a href="../roles_experimentaux/zealot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Zélote</a>, qui est exécuté. La cinquième nuit, le <a href="../roles_experimentaux/kazali.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Kazali</a> choisit la Princesse, qui ne meurt pas.
 </p>
 
 ##  <span style="color:#4ea3ff;">Conseils & Astuces</span>
 <hr>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
-• <strong>Exigez de l'attention de la part de vos loyaux sujets — je veux dire, de vos camarades de jeu !</strong> Si vous voulez être la personne qui nomme et exécute un joueur, faites part de votre plan à tout le monde à l'avance afin qu'ils votent avec vous et vous aident à atteindre votre objectif.
+• <strong>Exigez de l'attention de la part de vos loyaux sujets...je veux dire, de vos camarades de jeu !</strong> Si vous voulez être la personne qui nomme et exécute un joueur, faites part de votre plan à tout le monde à l'avance afin qu'ils votent avec vous et vous aident à atteindre votre objectif.
 <br><br>
 • <strong>Lors de votre 1ᵉʳ jour, essayez de trouver un joueur que cela ne dérange pas d'être exécuté.</strong> Nommez-le et restez décontracté, en bluffant comme si vous n'étiez pas la <strong>Princesse</strong>. Prétendez que vous l'avez nommé parce que vous pensez que ce joueur ferait de la bonne nourriture pour le <a href="../roles_experimentaux/cannibal.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cannibale</a>, ou parce qu'il aimerait voir son <strong>rôle</strong> confirmé par un <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a>.
 <br><br>
@@ -154,7 +154,7 @@ Instructions au Conteur
   <li>
   • 🧞 <img src="../images/Icon_alhadikhia.png" alt="Al-Hadikhia" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
   <a href="../roles_experimentaux/alhadikhia.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Al-Hadikhia</a> : Si la Princesse a nommé et exécuté un joueur lors de son 1ᵉʳ jour, personne ne meurt du fait de l'<a href="../roles_experimentaux/alhadikhia.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Al-Hadikhia</a> cette nuit.
-  </li>
+  </li><br>
 
   <li>
   • 🧞 <img src="../images/Icon_cannibal.png" alt="Cannibale" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
