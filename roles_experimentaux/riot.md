@@ -2,6 +2,7 @@
 layout: default
 title: Émeute 
 description: "Le jour 3, les Sbires deviennent Émeute et les nommés meurent mais nomment immédiatement un joueur en vie. Ceci doit avoir lieu."
+image: /images/Icon_riot.png
 ---
 
 <p align="left">
