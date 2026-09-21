@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Invocateur
+title: Invocatrice
+description: "Recevez 3 bluffs. La 3ᵉ nuit, choisissez qui devient un Démon maléfique de votre choix. [Aucun Démon]"
+image: images/Icon_summoner.png
 ---
 
 <p align="left">
@@ -9,297 +11,202 @@ title: Invocateur
   </a>
 </p>
 
-<!-- Summoner / Invocateur -->
+<hr class="explication">
+
+<!-- Summoner / Invocatrice -->
 
 <div style="text-align:center; margin: 20px 0%;">
   <a href="./summoner.html" style="text-decoration:none;">
     <img src="../images/Icon_summoner.png" alt="Invocateur" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#d45b5b; font-weight:bold; font-size:22px;">Invocateur</span>
+    <span style="color:#d45b5b; font-weight:bold; font-size:35px;">Invocatrice</span>
   </a>
 </div>
 
-<!-- APPARAÎT DANS -->
-<div style="text-align:center; margin: 20px 0%;">
-  <a href="../experimentaux.html" style="text-decoration:none;">
-    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
-    <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
-  </a>
-</div>
+<hr class="sbire">
 
-# <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Invocateur</span>
-
-<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Gloire aux gardiens du Nord ; par mon intellect, tu es tranché.  
-  Gloire aux gardiens de l’Est ; par ma volonté, tu es dominé.  
-  Gloire aux gardiens du Sud ; par ce qui se trouve au-delà, le mystère est révélé.  
-  Gloire aux gardiens de l’Ouest ; un bouclier dans l’obscurité. »
-</p>
-
----
-
-##  <span style="color:#d45b5b;">Informations</span>
+## <span style="color:#d45b5b;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
     <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>
   </li>
   <li>
-  <strong>Nom original :</strong>
-  <a href="https://wiki.bloodontheclocktower.com/Summoner"
-     target="_blank"
-     rel="noopener noreferrer"
-     style="color:#d45b5b; font-weight:bold; text-decoration:none;">
-    Summoner
-  </a>
-</li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Summoner"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+      Summoner
+    </a>
+  </li>
   <li><strong>Artiste :</strong> Lachlan Bastiaen</li>
   <li><strong>Révélé :</strong> 21 mars 2024</li>
 </ul>
 
----
-
-##  <span style="color:#d45b5b;">Résumé</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Vous recevez 3 bluffs. La 3ème nuit, choisissez un joueur :  
-  il devient un Démon maléfique de votre choix. [Pas de Démon] »</strong>
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Gloire aux gardiens du Nord ! <br> Que mon esprit vous brise. <br> Gloire aux Gardiens de l’Est ! <br> Que ma volonté vous abatte. <br> Gloire aux Gardiens du Sud ! Qu’ils révèlent le mystère de l’au-delà. <br> Gloire aux Gardiens de l’Ouest ! <br> Que leur main nous protège des ténèbres. »
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-L’<strong>Invocateur</strong> crée un <span style="color:#d45b5b; font-weight:bold;">Démon</span>.
+<hr class="sbire">
+
+<!-- APPARAÎT DANS -->
+<div style="text-align:center; margin: 20px 0%;">
+  <a href="../experimentaux.html" style="text-decoration:none;">
+    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : Carrousel rôle expérimental</span>
+  </a>
+</div>
+
+## <span style="color:#d45b5b;">Résumé</span>
+<hr class="sbire">
+
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
+« Recevez 3 bluffs. La 3ᵉ nuit, choisissez qui devient un Démon maléfique de votre choix. [Aucun Démon] »
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+L'Invocatrice crée un Démon.
+</p>
 
-  <li>L’<strong>Invocateur</strong> peut choisir n’importe quel joueur pour devenir le <span style="color:#d45b5b; font-weight:bold;">Démon</span>,  
-      y compris lui-même.</li>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• L'Invocatrice peut choisir n'importe quel joueur pour devenir le Démon, y compris elle-même.
+<br><br>
+• Le nouveau Démon n’apprend pas quels joueurs sont des Sbires, et inversement. Les joueurs maléfiques devront discuter entre eux pour découvrir de qui il s’agit.
+<br><br>
+• Même s'il n'y a pas de Démon en jeu pendant deux jours, la partie ne se termine pas. Cependant, si l'Invocatrice devient incapable de créer un Démon (parce qu’elle meurt, qu’elle devient ivre lors de la 3ᵉ nuit, etc.), le Bien gagne.
+<br><br>
+• Le Démon nouvellement créé agit la nuit même où il est créé. Il effectue son action « Autres Nuits » puisqu’il s’agit de la 3ᵉ nuit ou son action « Lors de votre 1re nuit », ou les deux si applicable (Parasyte, etc.).
+</p>
 
-  <li>Le nouveau <span style="color:#d45b5b; font-weight:bold;">Démon</span> n’apprend pas quels joueurs sont des Sbires,  
-      et les Sbires n’apprennent pas qui est ce nouveau <span style="color:#d45b5b; font-weight:bold;">Démon</span>.  
-      Les joueurs maléfiques doivent donc discuter entre eux pour s’identifier.</li>
+## <span style="color:#d45b5b;">Comment Conter</span>
+<hr>
 
-  <li>Même s’il n’y a <strong>aucun Démon en jeu</strong> pendant les deux premiers jours,  
-      la partie ne se termine pas.  
-      Cependant, si l’<strong>Invocateur</strong> devient incapable de créer un <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
-      (par exemple s’il meurt ou s’il est ivre la 3ᵉ nuit),  
-      le Bien gagne.</li>
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Instructions au Conteur
+</p>
 
-  <li>Le <span style="color:#d45b5b; font-weight:bold;">Démon</span> nouvellement créé agit dès la nuit où il apparaît.</li>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Lors de la mise en place, retirez le Démon et ajoutez un Villageois.
+<br><br>
+• Lors de la préparation de la première nuit, placez le jeton <strong>« Nuit 1 »</strong> de l’Invocatrice à côté d’elle.
+<br><br>
+• Lors de la préparation de la deuxième nuit, placez le jeton <strong>« Nuit 2 »</strong> de l'Invocatrice à côté d’elle.
+<br><br>
+• Lors de la préparation de la troisième nuit, placez le jeton <strong>« Nuit 3 »</strong> de l'Invocatrice à côté d’elle.
+<br><br>
+• Lors de la première nuit, montrez à l’Invocatrice 3 jetons de rôle pas en jeu pour qu’ils lui servent de bluffs.
+<br><br>
+• Pendant la nuit, si l'Invocatrice est marquée du jeton <strong>« Nuit 3 »</strong>, réveillez l'Invocatrice. Elle désigne un joueur et une icône de Démon sur sa fiche de rôles. L’Invocatrice se rendort. <br> Réveillez le joueur choisi. Montrez-lui la tuile <strong>« Vous êtes »</strong>, puis le jeton Démon. <br> Montrez-lui à nouveau la tuile <strong>« Vous êtes »</strong>, puis pointez le pouce 👎🏼 vers le bas. Remplacez son jeton de rôle par le jeton Démon. Ensuite, le nouveau Démon agit, puis se rendort.
+</p>
 
-</ul>
+## <span style="color:#d45b5b;">Exemples</span>
+<hr>
 
----
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• La troisième nuit, l'Invocatrice choisit la <a href="../roles_experimentaux/snitch.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Balance</a> et le <a href="../roles_experimentaux/lleech.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parasyte</a>. La Balance devient le <a href="../roles_experimentaux/lleech.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parasyte</a> (maléfique). Il choisit un joueur à empoisonner et un joueur à tuer.
+<br><br>
+• Le premier jour, l'Invocatrice est exécutée. Le Bien gagne.
+<br><br>
+• La troisième nuit, l'Invocatrice transforme l'<a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> en <a href="../roles_experimentaux/leviathan.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Léviathan</a>. À l'aube, tous les joueurs apprennent que le <a href="../roles_experimentaux/leviathan.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Léviathan</a> est en jeu, et que nous sommes au jour trois (sur cinq).
+</p>
 
 ## 🧞 <span style="color:#d45b5b;">Jinxes liés</span>
+<hr>
 
 <ul style="margin-left:40px; color:#f5f5f5; font-size:18px; line-height:1.7; list-style-type:none; padding-left:0;">
 
   <li>
-    <img src="../images/Icon_alchemist.png" alt="Alchimiste" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    🧞 <img src="../images/Icon_alchemist.png" alt="Alchimiste" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> :  
-    L’<a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste-Invocateur</a> ne reçoit pas de bluffs  
-    et choisit quel <span style="color:#d45b5b; font-weight:bold;">Démon</span> sera invoqué, mais pas quel joueur devient ce <span style="color:#d45b5b; font-weight:bold;">Démon</span>.  
-    S’il meurt avant que cela n’arrive, le Mal gagne. [Pas de Démon]
-  </li>
+    L’<a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste-Invocatrice</a> ne reçoit pas de bluffs; il choisit quel Démon est créé, mais pas quel joueur le devient. S'il meurt avant que cela ne se produise, l'équipe maléfique gagne. [Pas de Démon]
+  </li><br>
 
   <li>
-    <img src="../images/Icon_clockmaker.png" alt="Horloger" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../tb_roles/horloger.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Horloger</a> :  
-    L’<strong>Invocateur</strong> est considéré comme le <span style="color:#d45b5b; font-weight:bold;">Démon</span> par l’<a href="../tb_roles/horloger.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Horloger</a>.
-  </li>
+    🧞 <img src="../images/Icon_clockmaker.png" alt="Horloger" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../sv_roles/horloger.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Horloger</a> :  
+    L'Invocatrice est détectée comme étant le Démon par l' <a href="../sv_roles/horloger.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Horloger</a>.
+  </li><br>
 
   <li>
-    <img src="../images/Icon_courtier.png" alt="Courtier" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../bmr_roles/courtier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtier</a> :  
-    Si l’<strong>Invocateur</strong> vivant n’a plus de capacité,  
-    les Conteurs et conteuses possèdent la capacité de l’<strong>Invocateur</strong>.
-  </li>
+    🧞 <img src="../images/Icon_courtier.png" alt="Courtier" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../bmr_roles/courtisan.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisan</a> :  
+    Si l'Invocatrice en vie n'a plus de capacité, le Conteur obtient la capacité de l'Invocatrice.
+  </li><br>
 
   <li>
-    <img src="../images/Icon_engineer.png" alt="Engineer" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    🧞 <img src="../images/Icon_engineer.png" alt="Engineer" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/engineer.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ingénieur</a> :  
-    Si l’<strong>Invocateur</strong> vivant est retiré de la partie,  
-    les Conteurs et conteuses possèdent la capacité de l’<strong>Invocateur</strong>.
-  </li>
+    Si l'Invocatrice en vie est retirée du jeu, le Conteur obtient la capacité de l'Invocatrice.
+  </li><br>
 
   <li>
-    <img src="../images/Icon_hatter.png" alt="Hatter" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    🧞 <img src="../images/Icon_hatter.png" alt="Hatter" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/hatter.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chapelier</a> :  
-    Si l’<strong>Invocateur</strong> crée un deuxième <span style="color:#d45b5b; font-weight:bold;">Démon</span> vivant,  
-    les morts de cette nuit sont arbitraires.
-  </li>
+    Si l'Invocatrice crée un second Démon en vie, les morts de cette nuit sont arbitraires.
+  </li><br>
 
   <li>
-    <img src="../images/Icon_kazali.png" alt="Kazali" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    🧞 <img src="../images/Icon_kazali.png" alt="Kazali" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/kazali.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Kazali</a> :  
-    Si l’<strong>Invocateur</strong> crée un deuxième <span style="color:#d45b5b; font-weight:bold;">Démon</span> vivant,  
-    les morts de cette nuit sont arbitraires.
-  </li>
+   Si l'Invocatrice crée un second Démon en vie, les morts de cette nuit sont arbitraires.
+  </li><br>
 
   <li>
-    <img src="../images/Icon_legion.png" alt="Légion" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    🧞 <img src="../images/Icon_legion.png" alt="Légion" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> :  
-    Si la <a href="../roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> est invoquée,  
-    tous les joueurs maléfiques deviennent <span style="color:#d45b5b; font-weight:bold;">Légion</span>.
-  </li>
+    Si <a href="../roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> est invoqué, tous les joueurs maléfiques deviennent <a href="../roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a>.
+  </li><br>
 
   <li>
-    <img src="../images/Icon_lordoftyphon.png" alt="Seigneur de Typhon" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    🧞 <img src="../images/Icon_lordoftyphon.png" alt="Seigneur de Typhon" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/lordoftyphon.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Seigneur de Typhon</a> :  
-    Si un <a href="../roles_experimentaux/lordoftyphon.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Seigneur de Typhon</a> est invoqué,  
-    il doit être voisin d’un Sbire maléfique,  
-    et son autre voisin devient un Sbire maléfique.
-  </li>
+    Si le <a href="../roles_experimentaux/lordoftyphon.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Seigneur de Typhon</a> est invoqué, il doit être le voisin d'un Sbire, et son autre voisin devient un Sbire maléfique.
+  </li><br>
 
   <li>
-    <img src="../images/Icon_marionette.png" alt="Marionnette" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../sv_roles/marionette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> :  
-    S’il doit y avoir une <a href="../sv_roles/marionette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> en jeu,  
-    elle entre en jeu après le <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
-    et doit commencer comme son ou sa voisine.
-  </li>
+    🧞 <img src="../images/Icon_marionette.png" alt="Marionnette" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/marionette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> :  
+    S'il devait y avoir une <a href="../roles_experimentaux/marionette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> en jeu, elle entre en jeu après le Démon et doit commencer en tant que son voisin.
+  </li><br>
 
   <li>
-    <img src="../images/Icon_pithag.png" alt="Pit-Hag" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a> :  
-    Si l’<strong>Invocateur</strong> crée un deuxième <span style="color:#d45b5b; font-weight:bold;">Démon</span> vivant,  
-    les morts de cette nuit sont arbitraires.
-  </li>
+    🧞 <img src="../images/Icon_pithag.png" alt="Pit-Hag" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a> :  
+   Si l'Invocatrice crée un second Démon en vie, les morts de cette nuit sont arbitraires.
+  </li><br>
 
   <li>
-    <img src="../images/Icon_poppygrower.png" alt="Poppy Grower" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../bmr_roles/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cultivateur de Pavot</a> :  
-    Si le <a href="../bmr_roles/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cultivateur de Pavot</a> est vivant 
-    lors de la 3ᵉ nuit, l’<strong>Invocateur</strong> choisit quel <span style="color:#d45b5b; font-weight:bold;">Démon</span> est créé,  
-    mais pas quel joueur.
-  </li>
+    🧞 <img src="../images/Icon_poppygrower.png" alt="Poppy Grower" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    <a href="../roles_experimentaux/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Planteur de pavot</a> :  
+    Si le <a href="../roles_experimentaux/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Planteur de pavot</a> est en vie la 3ᵉ nuit, l'Invocatrice choisit quel Démon est créé, mais pas quel joueur le devient.
+  </li><br>
 
   <li>
-    <img src="../images/Icon_preacher.png" alt="Prédicateur" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    🧞 <img src="../images/Icon_preacher.png" alt="Prédicateur" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/preacher.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Prédicateur</a> :  
-    Si l’<strong>Invocateur</strong> vivant n’a plus de capacité,  
-    les Conteurs et conteuses possèdent la capacité de l’<strong>Invocateur</strong>.
-  </li>
+    Si l'Invocatrice en vie n'a plus de capacité, le Conteur obtient la capacité de l'Invocatrice.
+  </li><br>
 
   <li>
-    <img src="../images/Icon_pukka.png" alt="Pukka" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    🧞 <img src="../images/Icon_pukka.png" alt="Pukka" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../bmr_roles/pukka.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pukka</a> :  
-    L’<strong>Invocateur</strong> peut invoquer un <a href="../bmr_roles/pukka.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pukka</a>  
-    dès la 2ᵉ nuit au lieu de la 3ᵉ.
-  </li>
+   L'Invocatrice peut invoquer un <a href="../bmr_roles/pukka.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pukka</a> la 2ᵉ nuit au lieu de la 3ᵉ.
+  </li><br>
 
   <li>
-    <img src="../images/Icon_zombuul.png" alt="Zombuul" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+    🧞 <img src="../images/Icon_zombuul.png" alt="Zombuul" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../bmr_roles/zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> :  
-    Si l’<strong>Invocateur</strong> invoque un joueur mort en <a href="../bmr_roles/zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a>,  
-    ce <a href="../bmr_roles/zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> a déjà « mort une fois ».
+    Si l'Invocatrice invoque un <a href="../bmr_roles/zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> en ciblant un joueur mort, le <a href="../bmr_roles/zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> est considéré comme **étant déjà mort une fois**.
   </li>
 
 </ul>
 
----
+<hr class="explication">
 
-##  <span style="color:#d45b5b;">Comment Conter</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Vous gérez une partie sans <span style="color:#d45b5b; font-weight:bold;">Démon</span> au départ, puis l’arrivée brutale d’un nouveau <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
-à la 3ᵉ nuit, choisi par l’<strong>Invocateur</strong>.
-</p>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li><strong>Mise en place :</strong>  
-    <ul style="margin-left:20px;">
-      <li>retirez le jeton de <span style="color:#d45b5b; font-weight:bold;">Démon</span> du script ;</li>
-      <li>ajoutez à la place un rôle de <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois ou Villageoise</a>.</li>
-    </ul>
-  </li>
-
-  <li><strong>Rappels de nuit :</strong>  
-    <ul style="margin-left:20px;">
-      <li>pour la première nuit, placez le rappel <strong>NUIT 1</strong> de l’<strong>Invocateur</strong> à côté de son jeton ;</li>
-      <li>pour la deuxième nuit, placez le rappel <strong>NUIT 2</strong> ;</li>
-      <li>pour la troisième nuit, placez le rappel <strong>NUIT 3</strong>.</li>
-    </ul>
-  </li>
-
-  <li><strong>Première nuit :</strong>  
-    <ul style="margin-left:20px;">
-      <li>réveillez l’<strong>Invocateur</strong> ;</li>
-      <li>montrez-lui 3 rôles qui ne sont pas en jeu,  
-          comme bluffs possibles ;</li>
-      <li>rendormez-le.</li>
-    </ul>
-  </li>
-
-  <li><strong>Troisième nuit – création du Démon :</strong>  
-    <ul style="margin-left:20px;">
-      <li>si l’<strong>Invocateur</strong> a le rappel <strong>NUIT 3</strong> et est capable d’agir  
-          (pas mort, pas ivre ou empoisonné au moment clé),  
-          réveillez-le ;</li>
-      <li>il pointe un joueur, puis pointe une icône de <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
-          sur la feuille de personnages ;</li>
-      <li>rendormez l’<strong>Invocateur</strong> ;</li>
-      <li>réveillez le joueur choisi :</li>
-      <li style="margin-left:20px;">
-        montrez-lui le jeton d’info « <strong>YOU ARE</strong> »,  
-        puis le jeton du <span style="color:#d45b5b; font-weight:bold;">Démon</span> choisi ;
-      </li>
-      <li style="margin-left:20px;">
-        montrez à nouveau le jeton « <strong>YOU ARE</strong> »,  
-        puis faites un pouce vers le bas pour indiquer qu’il est désormais maléfique ;
-      </li>
-      <li style="margin-left:20px;">
-        remplacez son jeton de rôle par le jeton de ce <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
-        dans le grimoire ;
-      </li>
-      <li style="margin-left:20px;">
-        rendormez le nouveau <span style="color:#d45b5b; font-weight:bold;">Démon</span>.
-      </li>
-    </ul>
-  </li>
-
-  <li>Le nouveau <span style="color:#d45b5b; font-weight:bold;">Démon</span> joue ensuite sa nuit normalement  
-      (choix de cible, poison, annonce spéciale, etc.,  
-      selon le rôle de <span style="color:#d45b5b; font-weight:bold;">Démon</span> choisi).</li>
-
-  <li>Si, au moment de la 3ᵉ nuit, l’<strong>Invocateur</strong> est mort  
-      ou incapable d’utiliser sa capacité,  
-      aucun <span style="color:#d45b5b; font-weight:bold;">Démon</span> n’est créé et le Bien gagne.</li>
-
-</ul>
-
----
-
-##  <span style="color:#d45b5b;">Exemples</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-La 3ᵉ nuit, l’<strong>Invocateur</strong> choisit le joueur
-<a href="../roles_experimentaux/snitch.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Snitch</a>
-et le <a href="../roles_experimentaux/lleech.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Lleech</a>.  
-Le <a href="../roles_experimentaux/snitch.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Snitch</a> devient le <span style="color:#d45b5b; font-weight:bold;">Lleech</span> maléfique,  
-choisit un joueur à empoisonner et un joueur à tuer.
-</p>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le premier jour, l’<strong>Invocateur</strong> est exécuté.  
-Aucun <span style="color:#d45b5b; font-weight:bold;">Démon</span> ne sera jamais créé,  
-et le Bien gagne immédiatement.
-</p>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-La 3ᵉ nuit, l’<strong>Invocateur</strong> transforme l’<a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a>  
-en <a href="../roles_experimentaux/leviathan.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Léviathan</a>.  
-À l’aube, tous les joueurs apprennent que le <a href="../roles_experimentaux/leviathan.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Léviathan</a> est en jeu  
-et qu’il s’agit du <strong>jour 3 sur 5</strong>.
-</p>
-
----
-
-<p style="text-align:left; font-size:18px; margin-top:20px;">
-   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Sbires</a><br>
-   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+<p style="text-align:left; font-size:18px; margin-top:0px;">
+• <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+• <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Sbires</a><br>
+• <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
