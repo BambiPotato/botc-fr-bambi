@@ -45,7 +45,7 @@ image: /images/Icon_shugenja.png
 </ul>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-« これ は夢。それも夢。すべて夢です。 »
+« これ は夢。<br> それも夢。<br> すべて夢です。 »
 </p>
 
 <hr class="villageois">
