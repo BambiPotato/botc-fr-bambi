@@ -102,7 +102,8 @@ Instructions au Conteur
 <hr>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
-• Alex nomme Lewis. Lewis meurt et nomme Ben. Ben meurt et nomme Marianna. Marianna meurt et nomme Lachlan. Lachlan meurt. <br> Tous les joueurs Émeute sont morts. Le Bien gagne.
+• Alex nomme Lewis. Lewis meurt et nomme Ben. Ben meurt et nomme Marianna. <br> Marianna meurt et nomme Lachlan. Lachlan meurt. <br><br> 
+• Tous les joueurs Émeute sont morts. Le Bien gagne.
 </p>
 
 
@@ -151,7 +152,7 @@ Instructions au Conteur
   <li style="margin-bottom:12px;">
     🧞 <img src="../images/Icon_king.png" alt="Roi" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> :  
-    Si l'Émeute est en jeu et qu'au moins 1 joueur est mort, le <a href="../sv_roles/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a> apprend un rôle en vie chaque nuit.
+    Si l'Émeute est en jeu et qu'au moins 1 joueur est mort, le <a href="../roles_experimentaux/king.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Roi</a>  apprend un rôle en vie chaque nuit.
   </li><br>
 
   <li style="margin-bottom:12px;">
