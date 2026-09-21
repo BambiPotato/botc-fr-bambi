@@ -128,7 +128,7 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
 <p style="font-weight:bold; color:#a86464; margin-bottom:4px;">Démons</p>
 <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
   <li><a href="roles_experimentaux/alhadikhia.html" style="color:#d45b5b; text-decoration:none;">Al-Hadikhia</a></li>
-  <li><a href="roles_experimentaux/riot.html" style="color:#d45b5b; text-decoration:none;">Emeute</a></li>
+  <li><a href="roles_experimentaux/riot.html" style="color:#d45b5b; text-decoration:none;">Émeute</a></li>
   <li><a href="roles_experimentaux/kazali.html" style="color:#d45b5b; text-decoration:none;">Kazali</a></li>
   <li><a href="roles_experimentaux/legion.html" style="color:#d45b5b; text-decoration:none;">Légion</a></li>
   <li><a href="roles_experimentaux/leviathan.html" style="color:#d45b5b; text-decoration:none;">Léviathan</a></li>
