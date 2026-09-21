@@ -107,7 +107,7 @@ Instructions au Conteur
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
 • L’ <a href="../roles_experimentaux/organgrinder.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Organiste de rue</a> se trouve à 2 places du Shugenja dans le sens horaire. Le <a href="../roles_experimentaux/fearmonger.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Tourmenteur</a> est à 3 places du Shugenja dans le sens antihoraire. Le Shugenja se réveille et apprend que le joueur maléfique le plus proche se trouve dans le sens horaire.
 <br><br>
-• La <a href="../roles_experimentaux/marioette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> est à 1 place du Shugenja dans le sens horaire. La <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a> est à 1 place du Shugenja dans le sens antihoraire. Le Shugenja se réveille et le Conteur choisit d'informer le Shugenja que le joueur maléfique le plus proche se trouve dans le sens horaire.
+• La <a href="../roles_experimentaux/marionette.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Marionnette</a> est à 1 place du Shugenja dans le sens horaire. La <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a> est à 1 place du Shugenja dans le sens antihoraire. Le Shugenja se réveille et le Conteur choisit d'informer le Shugenja que le joueur maléfique le plus proche se trouve dans le sens horaire.
 </p>
 
 ## <span style="color:#4ea3ff;">Conseils & Astuces</span>
