@@ -19,7 +19,7 @@ image: /images/Icon_steward.png
   <a href="./steward.html" style="text-decoration:none;">
     <img src="../images/Icon_steward.png" alt="Intendant" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#4ea3ff; font-weight:bold; font-size:35px;">📜 Intendante</span>
+    <span style="color:#4ea3ff; font-weight:bold; font-size:35px;">Intendante</span>
   </a>
 </div>
 
@@ -119,9 +119,9 @@ Instructions au Conteur
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
 • Lorsque vous bluffez l'<strong>Intendante</strong>, voici plusieurs stratégies à garder en tête :
 <br><br>
-• <strong>L'Intendante est l'un des bluffs les plus simples du jeu et constitue un excellent recours.</strong> Déclarez que votre <strong>Démon</strong> est le joueur que vous avez appris grâce à votre capacité d'<strong>Intendante</strong>. Si les joueurs vous croient, votre <strong>Démon</strong> paraîtra bon, et le travail sera fait.
+• <strong>L'Intendante est l'un des bluffs les plus simples du jeu et constitue un excellent recours.</strong> <br> Déclarez que votre <strong>Démon</strong> est le joueur que vous avez appris grâce à votre capacité d'<strong>Intendante</strong>. Si les joueurs vous croient, votre <strong>Démon</strong> paraîtra bon, et le travail sera fait.
 <br><br>
-• <strong>Désignez un joueur bon comme étant votre information d'Intendante, puis faites en sorte que d'autres joueurs utilisent leurs capacités pour insinuer que vous êtes maléfique.</strong> Vous emporterez ce joueur bon dans votre chute, mais cela prendra généralement deux ou trois jours avant que l'équipe bonne ne comprenne que vous êtes maléfique. Cela vous laissera quelques jours pour exploiter votre capacité de <strong>Sbire</strong> avant que vous ne soyez tous les deux exécutés.
+• <strong>Désignez un joueur bon comme étant votre information d'Intendante, puis faites en sorte que d'autres joueurs utilisent leurs capacités pour insinuer que vous êtes maléfique.</strong> <br> Vous emporterez ce joueur bon dans votre chute, mais cela prendra généralement deux ou trois jours avant que l'équipe bonne ne comprenne que vous êtes maléfique. Cela vous laissera quelques jours pour exploiter votre capacité de <strong>Sbire</strong> avant que vous ne soyez tous les deux exécutés.
 <br><br>
 • <strong>Désignez un joueur bon comme étant votre information d'Intendante et essayez de collaborer avec lui pour « résoudre » la partie.</strong> Si vous réussissez à vous faire passer pour un duo de confiance, vous pourrez survivre jusqu'à la fin de la partie sans attirer la moindre suspicion.
 </p>
