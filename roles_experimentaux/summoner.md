@@ -98,7 +98,7 @@ Instructions au Conteur
 <br><br>
 • Lors de la première nuit, montrez à l’Invocatrice 3 jetons de rôle pas en jeu pour qu’ils lui servent de bluffs.
 <br><br>
-• Pendant la nuit, si l'Invocatrice est marquée du jeton <strong>« Nuit 3 »</strong>, réveillez l'Invocatrice. Elle désigne un joueur et une icône de Démon sur sa fiche de rôles. L’Invocatrice se rendort. <br> Réveillez le joueur choisi. Montrez-lui la tuile <strong>« Vous êtes »</strong>, puis le jeton Démon. <br> Montrez-lui à nouveau la tuile <strong>« Vous êtes »</strong>, puis pointez le pouce 👎🏼 vers le bas. Remplacez son jeton de rôle par le jeton Démon. Ensuite, le nouveau Démon agit, puis se rendort.
+• Pendant la nuit, si l'Invocatrice est marquée du jeton <strong>« Nuit 3 »</strong>, réveillez l'Invocatrice. br> Elle désigne un joueur et une icône de Démon sur sa fiche de rôles. L’Invocatrice se rendort. <br> Réveillez le joueur choisi. Montrez-lui la tuile <strong>« Vous êtes »</strong>, puis le jeton Démon. <br> Montrez-lui à nouveau la tuile <strong>« Vous êtes »</strong>, puis pointez le pouce 👎🏼 vers le bas. br> Remplacez son jeton de rôle par le jeton Démon. Ensuite, le nouveau Démon agit, puis se rendort.
 </p>
 
 ## <span style="color:#d45b5b;">Exemples</span>
@@ -115,7 +115,7 @@ Instructions au Conteur
 ## 🧞 <span style="color:#d45b5b;">Jinxes liés</span>
 <hr>
 
-<ul style="margin-left:40px; color:#f5f5f5; font-size:18px; line-height:1.7; list-style-type:none; padding-left:0;">
+<ul style="margin-left:00px; color:#f5f5f5; font-size:18px; line-height:1.7; list-style-type:none; padding-left:0;">
 
   <li>
     🧞 <img src="../images/Icon_alchemist.png" alt="Alchimiste" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
@@ -198,7 +198,7 @@ Instructions au Conteur
   <li>
     🧞 <img src="../images/Icon_zombuul.png" alt="Zombuul" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../bmr_roles/zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> :  
-    Si l'Invocatrice invoque un <a href="../bmr_roles/zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> en ciblant un joueur mort, le <a href="../bmr_roles/zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> est considéré comme **étant déjà mort une fois**.
+    Si l'Invocatrice invoque un <a href="../bmr_roles/zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> en ciblant un joueur mort, le <a href="../bmr_roles/zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> est considéré comme <strong>«étant déjà mort une fois Nuit 3 »</strong>
   </li>
 
 </ul>
