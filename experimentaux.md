@@ -158,7 +158,7 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
 
 <p style="font-weight:bold; color:#9b59b6; margin-bottom:4px;">Voyageurs</p>
 <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:6px;">
-  <li><a href="voyageurs/cacklejack.html" style="color:#9b59b6; text-decoration:none;">Dépahsé</a></li>
+  <li><a href="voyageurs/cacklejack.html" style="color:#9b59b6; text-decoration:none;">Déphasé</a></li>
   <li><a href="voyageurs/gangster.html" style="color:#9b59b6; text-decoration:none;">Gangster</a></li>
   <li><a href="voyageurs/gnome.html" style="color:#9b59b6; text-decoration:none;">Gnome</a></li>
 </ul>
