@@ -98,14 +98,14 @@ Instructions au Conteur
 <br><br>
 • Lors de la première nuit, montrez à l’Invocatrice 3 jetons de rôle pas en jeu pour qu’ils lui servent de bluffs.
 <br><br>
-• Pendant la nuit, si l'Invocatrice est marquée du jeton <strong>« Nuit 3 »</strong>, réveillez l'Invocatrice. br> Elle désigne un joueur et une icône de Démon sur sa fiche de rôles. L’Invocatrice se rendort. <br> Réveillez le joueur choisi. Montrez-lui la tuile <strong>« Vous êtes »</strong>, puis le jeton Démon. <br> Montrez-lui à nouveau la tuile <strong>« Vous êtes »</strong>, puis pointez le pouce 👎🏼 vers le bas. br> Remplacez son jeton de rôle par le jeton Démon. Ensuite, le nouveau Démon agit, puis se rendort.
+• Pendant la nuit, si l'Invocatrice est marquée du jeton <strong>« Nuit 3 »</strong>, réveillez l'Invocatrice. <br> Elle désigne un joueur et une icône de Démon sur sa fiche de rôles. L’Invocatrice se rendort. <br> Réveillez le joueur choisi. Montrez-lui la tuile <strong>« Vous êtes »</strong>, puis le jeton Démon. <br> Montrez-lui à nouveau la tuile <strong>« Vous êtes »</strong>, puis pointez le pouce 👎🏼 vers le bas. <br> Remplacez son jeton de rôle par le jeton Démon. Ensuite, le nouveau Démon agit, puis se rendort.
 </p>
 
 ## <span style="color:#d45b5b;">Exemples</span>
 <hr>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
-• La troisième nuit, l'Invocatrice choisit la <a href="../roles_experimentaux/snitch.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Balance</a> et le <a href="../roles_experimentaux/lleech.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parasyte</a>. La Balance devient le <a href="../roles_experimentaux/lleech.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parasyte</a> (maléfique). Il choisit un joueur à empoisonner et un joueur à tuer.
+• La troisième nuit, l'Invocatrice choisit la <a href="../roles_experimentaux/snitch.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Balance</a> et le <a href="../roles_experimentaux/lleech.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parasyte</a>. La Balance devient le <a href="../roles_experimentaux/lleech.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Parasyte</a> (maléfique). Il choisit un joueur à empoisonner et un joueur à tuer.
 <br><br>
 • Le premier jour, l'Invocatrice est exécutée. Le Bien gagne.
 <br><br>
