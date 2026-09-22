@@ -212,7 +212,7 @@ tous les joueurs maléfiques deviennent des <strong>Légions</strong>.
 Si une <strong>Légion</strong> est déjà en jeu,  
 l’<strong>Ingénieur</strong> commence la partie en le sachant  
 mais n’a pas de capacité.
-</li>
+</li><br>
 
 <li>
 <img src="../images/Icon_hatter.png" alt="Chapelier" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
@@ -221,49 +221,49 @@ Si une <strong>Légion</strong> est créée,
 tous les joueurs maléfiques deviennent membres de la <strong>Légion</strong>.  
 Si une <strong>Légion</strong> est en jeu,  
 le <strong>Chapelier</strong> n’a pas de capacité.
-</li>
+</li><br>
 
  <li>
  <img src="../images/Icon_magician.png" alt="Magicien" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
  <a href="../roles_experimentaux/magician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Magicien</a> : 
  Si le <strong>Magicien</strong> est en jeu, pendant l’étape des informations du Démon, les Légions se réveillent en groupes séparés. 
  Chaque groupe apprend quels joueurs sont bons, mais n’apprend pas qui est le <strong>Magicien</strong>.  
- </li>
+ </li><br>
 
   <li>
   <img src="../images/Icon_minstrel.png" alt="Ménestrel" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
   <a href="../bmr_roles/menestrel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ménestrel</a> :  
   Si un joueur <strong>Légion</strong> est mort par exécution aujourd’hui,  
   la <strong>Légion</strong> garde sa capacité,  
-  mais le <strong>Ménestrel</strong> peut apprendre  
+  mais le <strong>Ménestrel</strong> pourrait apprendre  
   qu’il s'agit d'une <strong>Légion</strong>.
-  </li>
+  </li><br>
 
   <li>
   <img src="../images/Icon_politician.png" alt="Politicien" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
   <a href="../roles_experimentaux/politician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Politicien</a> :  
-  Le <strong>Politicien</strong> peut s’enregistrer comme maléfique  
+  Le <strong>Politicien</strong> pourrait s’enregistrer comme maléfique  
   pour la <strong>Légion</strong>.
-  </li>
+  </li><br>
 
   <li>
   <img src="../images/Icon_preacher.png" alt="Prêcheur" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
   <a href="../roles_experimentaux/preacher.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Prédicateur</a> :  
-  Si le <strong>Prédicateur</strong> choisit un joueur <strong>Légion</strong>,  ce joueur garde sa capacité, mais le <strong>Prédicateur</strong> peut apprendre  
+  Si le <strong>Prédicateur</strong> choisit un joueur <strong>Légion</strong>,  ce joueur garde sa capacité, mais le <strong>Prédicateur</strong> pourrait apprendre  
   qu’il s'agit d'une <strong>Légion</strong>.
-  </li>
+  </li><br>
 
   <li>
   <img src="../images/Icon_summoner.png" alt="Invocateur" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
   <a href="../roles_experimentaux/summoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocatrice</a> :  
   Si l’<strong>Invocatrice</strong> invoque une <strong>Légion</strong>,  
   tous les joueurs maléfiques deviennent <strong>Légion</strong>.
-  </li>
+  </li><br>
 
   <li>
   <img src="../images/Icon_zealot.png" alt="Zélote" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
   <a href="../roles_experimentaux/zealot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Zélote</a> :  
-  Le <strong>Zélote</strong> peut s’enregistrer comme maléfique  
+  Le <strong>Zélote</strong> pourrait s’enregistrer comme maléfique  
   pour la <strong>Légion</strong>.
   </li>
 
