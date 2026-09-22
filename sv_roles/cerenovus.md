@@ -47,7 +47,7 @@ image: /images/Icon_cerenovus.png
 </ul>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-style:italic; margin-left:20px; margin-right:20px;">
-  « La réalité n’est qu’une opinion… plus précisément, mon opinion.  !  »
+« La réalité n’est qu’une opinion… plus précisément, mon opinion.  !  »
 </p>
 
 <hr class="sbire">
@@ -70,7 +70,7 @@ image: /images/Icon_cerenovus.png
 <hr class="sbire">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
-Chaque nuit, choisissez un joueur et un rôle bon : le lendemain, il doit être <strong>« fou »</strong> d’être ce rôle. Sinon, il pourrait être exécuté.
+« Chaque nuit, choisissez un joueur et un rôle bon : le lendemain, il doit être <strong>« fou »</strong> d’être ce rôle. Sinon, il pourrait être exécuté. »
 </p>
 
 <p class="botc-flavour-text dropcap" style="margin-top:0;">
