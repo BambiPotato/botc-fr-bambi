@@ -45,7 +45,7 @@ image: images/Icon_summoner.png
 </ul>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-« Gloire aux gardiens du Nord ! <br> Que mon esprit vous brise. <br> Gloire aux Gardiens de l’Est ! <br> Que ma volonté vous abatte. <br> Gloire aux Gardiens du Sud ! Qu’ils révèlent le mystère de l’au-delà. <br> Gloire aux Gardiens de l’Ouest ! <br> Que leur main nous protège des ténèbres. »
+« Gloire aux gardiens du Nord ! <br> Que mon esprit vous brise. <br> Gloire aux Gardiens de l’Est ! <br> Que ma volonté vous abatte. <br> Gloire aux Gardiens du Sud ! <br> Qu’ils révèlent le mystère de l’au-delà. <br> Gloire aux Gardiens de l’Ouest ! <br> Que leur main nous protège des ténèbres. »
 </p>
 
 <hr class="sbire">
@@ -120,7 +120,7 @@ Instructions au Conteur
   <li>
     🧞 <img src="../images/Icon_alchemist.png" alt="Alchimiste" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> :  
-    L’<a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste-Invocatrice</a> ne reçoit pas de bluffs; il choisit quel Démon est créé, mais pas quel joueur le devient. S'il meurt avant que cela ne se produise, l'équipe maléfique gagne. [Pas de Démon]
+    L’<a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste-Invocatrice</a> ne reçoit pas de bluffs; il choisit quel Démon est créé, mais pas quel joueur le devient. S'il meurt avant que cela ne se produise, l'équipe maléfique gagne. <strong>[Pas de Démon]</strong>
   </li><br>
 
   <li>
@@ -198,7 +198,7 @@ Instructions au Conteur
   <li>
     🧞 <img src="../images/Icon_zombuul.png" alt="Zombuul" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../bmr_roles/zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> :  
-    Si l'Invocatrice invoque un <a href="../bmr_roles/zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> en ciblant un joueur mort, le <a href="../bmr_roles/zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> est considéré comme <strong>«étant déjà mort une fois Nuit 3 »</strong>
+    Si l'Invocatrice invoque un <a href="../bmr_roles/zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> en ciblant un joueur mort, le <a href="../bmr_roles/zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> est considéré comme <strong>«étant déjà mort une fois. »</strong>
   </li>
 
 </ul>
