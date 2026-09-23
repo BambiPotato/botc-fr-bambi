@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Idiot du Village
+title: Idiot du village
+description: "Chaque nuit, choisissez un joueur : vous apprenez son alignement. [+0 ou +1 à +2 Idiots du village dont un ivre]"
+image: /images/Icon_villageidiot.png
 ---
 
 <p align="left">
@@ -9,266 +11,173 @@ title: Idiot du Village
   </a>
 </p>
 
+<hr class="explication">
+
 <!-- Idiot du Village -->
 
 <div style="text-align:center; margin: 20px 0%;">
   <a href="./villageidiot.html" style="text-decoration:none;">
     <img src="../images/Icon_villageidiot.png" alt="Idiot du Village" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#4ea3ff; font-weight:bold; font-size:22px;">Idiot du Village</span>
+    <span style="color:#4ea3ff; font-weight:bold; font-size:35px;">📜 Idiot du village</span>
   </a>
 </div>
 
-<!-- APPARAÎT DANS -->
-<div style="text-align:center; margin: 20px 0%;">
-  <a href="../experimentaux.html" style="text-decoration:none;">
-    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
-    <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
-  </a>
-</div>
+<hr class="villageois">
 
-#  <span style="color:#4ea3ff; font-weight:bold; font-size:18px;">Idiot du Village</span>
-
-<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Les roses sont bleues, et les violettes sont rouges,
-S’il vous plaît, inversez simplement ce que je viens de dire. »
-</p>
-
----
-
-##  <span style="color:#4ea3ff;">Informations</span>
+## <span style="color:#4ea3ff;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
     <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
   </li>
   <li>
-  <strong>Nom original :</strong>
-  <a href="https://wiki.bloodontheclocktower.com/Village_Idiot"
-     target="_blank"
-     rel="noopener noreferrer"
-     style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
-    Village Idiot
-  </a>
-</li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Village_Idiot"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+      Village Idiot
+    </a>
+  </li>
   <li><strong>Artiste :</strong> <em>Chloe McDougall</em></li>
   <li><strong>Révélé :</strong> 25 janvier 2024</li>
 </ul>
 
----
-
-##  <span style="color:#4ea3ff;">Résumé</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Chaque nuit, vous choisissez un joueur  : vous apprenez son alignement. [+0 à +2 Idiots du Village. L’un des Idiots du Village supplémentaires est ivre.] »</strong>
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Au clair de la plume, mon ami Pierrot,<br> Prête-moi ta lune, pour écrire un mot.<br> Flûte, je me suis trompé. »
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Les <strong>Idiots du Village</strong> forment un groupe qui apprend l’alignement des joueurs.
+<hr class="villageois">
+
+<!-- APPARAÎT DANS -->
+<div style="text-align:center; margin: 20px 0%;">
+  <a href="../experimentaux.html" style="text-decoration:none;">
+    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : Carrousel rôle expérimental</span>
+  </a>
+</div>
+
+## <span style="color:#4ea3ff;">Résumé</span>
+<hr class="villageois">
+
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
+« Chaque nuit, choisissez un joueur : vous apprenez son alignement. [+0 ou +1 à +2 Idiots du village dont un ivre] »
 </p>
 
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Les Idiots du village sont un groupe de joueurs qui apprennent les alignements des autres.
+</p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• L'Idiot du village ivre est choisi par le Conteur lors de la mise en place.
+<br><br>
+• Il peut y avoir un, deux ou trois Idiots du village en jeu, quel que soit le nombre de joueurs.
+<br><br>
+• S'il n'y a qu'un seul Idiot du village en jeu, celui-ci est sobre.
+<br><br>
+• L'Idiot du village ivre peut obtenir de vraies informations.
+<br><br>
+• Lorsque vous ajoutez des Idiots du village lors de la mise en place, ils remplacent d'autres Villageois.
+<br><br>
+• Si un Idiot du village est créé en cours de partie, un seul est créé.
+<br><br>
+• Les Idiots du village agissent un à la fois, et non simultanément.
+<br><br>
+• Si tous les Idiots du village sobres quittent le jeu, l'Idiot du village ivre reste ivre.
+<br><br>
+• Si un Idiot du village sobre devient ivre ou empoisonné par un autre moyen, l'Idiot du village ivre reste ivre.
+</p>
 
-  <li>Parmi les Idiots du Village en jeu, l’un d’eux est ivre, choisi par le Conteur  
-      pendant la mise en place de la partie.</li>
+## <span style="color:#4ea3ff;">Comment Conter</span>
+<hr>
 
-  <li>Il peut y avoir un, deux ou trois Idiots du Village en jeu,  
-      quel que soit le nombre total de joueurs.</li>
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Instructions au Conteur
+</p>
 
-  <li>S’il n’y a qu’un Idiot du Village en jeu, il est sobre.</li>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Lors de la mise en place, avant de mettre les jetons de rôle dans le sac, remplacez zéro, un ou deux jetons de Villageois par des jetons d’Idiot du village. <br> Lors de la préparation de la première nuit, s’il y a plusieurs Idiots du village, marquez un des Idiots du village du jeton <strong>« Ivre »</strong>.
+<br><br>
+• Chaque nuit, réveillez les Idiots du village un par un, dans l’ordre de votre choix. Chacun désigne un joueur. Faites signe pouce en haut ou pouce en bas. <br> Ensuite, cet Idiot du village se rendort. Réveillez un autre Idiot du village, et ainsi de suite.
+</p>
 
-  <li>L’Idiot du Village ivre peut tout de même recevoir une information vraie.</li>
+## <span style="color:#4ea3ff;">Exemples</span>
+<hr>
 
-  <li>Quand des Idiots du Village sont ajoutés pendant la mise en place,  
-      ils remplacent d’autres rôles de type Villageois.</li>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Doug, Lewis et Amy sont tous des <strong>Idiots du village</strong>. Doug est <strong>ivre</strong>. La nuit, ils choisissent tous Evin, le <a href="../roles_experimentaux/kazali.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Kazali</a>i. Doug apprend qu'Evin est bon. <br> Lewis et Amy apprennent qu'Evin est maléfique.
+<br><br>
+• Ben et Marianna sont les <strong>Idiots du village</strong>. Marianna est <strong>ivre</strong>. Sarah est maléfique et se fait passer pour un <strong>Idiot du village</strong>. <br> Ben choisit Sarah et apprend qu'elle est maléfique. Marianna choisit le joueur <a href="../roles_experimentaux/heretic.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Hérétique</a> et apprend qu’il est bon. Sarah prétend avoir choisi Ben et avoir appris qu'il est maléfique.
+</p>
 
-  <li>Si un Idiot du Village est créé en cours de partie, un seul est créé.</li>
+## <span style="color:#4ea3ff;">Conseils & Astuces</span>
+<hr>
 
-  <li>Les Idiots du Village agissent chacun à leur tour, pas tous en même temps.</li>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• <strong>Trouvez vos confrères idiots.</strong> Le moyen le plus simple de découvrir lequel d'entre vous est ivre est de comparer vos informations pour repérer les points d'accord et de désaccord. Et si vous êtes le seul <strong>Idiot du village</strong> déclaré, vous savez que vous êtes sobre !
+<br><br>
+• <strong>Collaborez avec les autres Idiots du village pour choisir le même joueur.</strong> Cela peut aider à déterminer qui est ivre (si l'information d'une personne diffère) ou si plusieurs personnes bluffent en tant qu'<strong>Idiot du village</strong> (si toutes les informations sont identiques).
+<br><br>
+• <strong>Si vous êtes exactement deux et que vous n'avez pas réussi à déterminer qui est ivre, veillez à choisir des joueurs différents pour continuer à obtenir des informations.</strong> Deux <strong>Idiots du village</strong> choisissant systématiquement le même joueur n'obtiendront aucune information utile.
+<br><br>
+• <strong>Gardez en tête que la présence de trois prétendants au rôle d'Idiot du village ne prouve pas que vous soyez tous bons.</strong> Soyez attentif aux joueurs maléfiques qui bluffent : tant qu'il n'y a pas trop d'<strong>Idiots du village</strong> révélés, l'un de vos confrères pourrait être maléfique et chercher à vous faire passer pour ivre alors que vous ne l'êtes pas !
+<br><br>
+• <strong>Ignorez les autres Idiots du village et partez du principe que votre information est correcte.</strong> Si tous les <strong>Idiots du village</strong> font de même, l'effet global sera très probablement positif pour le village.
+<br><br>
+• <strong>Faites exécuter l'Idiot du village que vous pensez être ivre (au cas où il serait en réalité maléfique).</strong>
+<br><br>
+• <strong>Si un joueur est confirmé ou très fortement pressenti comme étant bon ou maléfique, choisissez-le pour déterminer si vous êtes l'Idiot du village ivre ou non.</strong>
+<br><br>
+• <strong>Gardez à l'esprit que le Conteur peut tout de même donner des informations correctes à l'Idiot du village ivre afin d'éviter que votre groupe ne devienne trop puissant.</strong>
+<br><br>
+• <strong>Attendez un moment avant de révéler que vous êtes l'Idiot du village.</strong> Si trois autres joueurs au moins prétendent être l'<strong>Idiot du village</strong>, vous saurez qu'au moins l'un d'entre eux ment.
+</p>
 
-  <li>Si tous les Idiots du Village sobres quittent la partie,  
-      l’Idiot du Village ivre reste ivre.</li>
+## <span style="color:#4ea3ff;">Bluffer l'Idiot du village</span>
+<hr>
 
-  <li>Si un Idiot du Village sobre devient ivre ou empoisonné par un autre effet,  
-      l’Idiot du Village déjà ivre reste ivre.</li>
-
-</ul>
-
----
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Lorsque vous bluffez l'<strong>Idiot du village</strong>, voici plusieurs stratégies à garder en tête :
+<br><br>
+• <strong>Si vous trouvez une paire d'Idiots du village, bluffez en tant que troisième Idiot du village et « confirmez » les informations de l'Idiot du village ivre afin d'instiller de la désinformation.</strong>
+<br><br>
+• <strong>Si vous trouvez une paire d'Idiots du village, bluffez en tant que troisième Idiot du village et « confirmez » les informations de l'Idiot du village sobre afin de gagner la confiance du groupe (quitte à sacrifier un coéquipier maléfique plus expédiable), puis exploitez cette confiance plus tard dans la partie.</strong>
+<br><br>
+• <strong>Si l'Idiot du village vous est proposé comme bluff, demandez-vous si vous souhaitez que plusieurs joueurs maléfiques bluffent ce même rôle.</strong> Un <strong>Idiot du village</strong> isolé est souvent suspect, mais plusieurs joueurs maléfiques bluffant l'<strong>Idiot du village</strong> vous lient ensemble comme une équipe maléfique potentielle. Si l'équipe bonne n'exécute pas les <strong>Idiots du village</strong>, incitez le <strong>Démon</strong> à bluffer ce rôle.
+<br><br>
+• <strong>En tant que Démon, vous pouvez tout de même bluffer en tant qu'Idiot du village en toute sécurité même si ce rôle n'apparaît pas dans vos trois bluffs de départ ; il vous suffira de faire marche arrière rapidement si trois joueurs sont déjà en campagne.</strong>
+<br><br>
+• <strong>Bluffez temporairement en tant qu'Idiot du village jusqu'à ce que vous souhaitiez révéler votre bluff principal — c'est une excellente couverture pour transmettre vos « vraies » informations sans avoir à revendiquer votre véritable rôle.</strong>
+<br><br>
+• <strong>Si vous recevez l'Idiot du village comme bluff de Démon, restez attentif aux joueurs bons qui prétendent être des Idiots du village.</strong> Il pourrait s'agir de <strong>Villageois</strong> puissants ou de <strong>Marginaux</strong> préjudiciables comme la <a href="../roles_experimentaux/damsel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Demoiselle</a> ou l'<a href="../roles_experimentaux/heretic.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Hérétique</a>.
+</p>
 
 ## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
+<hr class="villageois">
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; list-style-type:none; padding-left:0;">
 
-  <li>
+  <li>🧞
     <img src="../images/Icon_boffin.png" alt="Boffin" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/boffin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Laborantin</a> :  
-    S’il reste un jeton disponible, le Laborantin peut donner au <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
-    la capacité d’<strong>Idiot du Village</strong>.
-  </li>
+    S'il y a un jeton disponible, le <a href="../roles_experimentaux/boffin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Laborantin</a>
+    peut donner au Démon la capacité de l'Idiot du village.
+  </li><br> 
 
-  <li>
+  <li>🧞
     <img src="../images/Icon_pithag.png" alt="Pit-Hag" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a> :  
-    S’il reste un jeton disponible, la Guenaude peut créer un Idiot du Village supplémentaire.  
-    Dans ce cas, l’Idiot du Village ivre peut changer.
+    S'il y a un jeton disponible, la <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a> peut créer un Idiot du village supplémentaire. Si c'est le cas, l'Idiot du village ivre peut changer.
   </li>
 
 </ul>
 
----
+<hr class="explication">
 
-##  <span style="color:#4ea3ff;">Comment Conter</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Pendant la mise en place, avant de mettre les jetons de rôle dans le sac,  
-remplacez zéro, un ou deux jetons de Villageois par des jetons d’<strong>Idiot du Village</strong>.  
-Préparez ensuite la première nuit en marquant l’un des Idiots du Village avec le rappel <strong>IVRE</strong>.
-</p>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Chaque nuit, réveillez un Idiot du Village à la fois :
-</p>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>L’Idiot du Village pointe un joueur.</li>
-  <li>DMonstrez-lui un pouce levé pour « bon » ou un pouce baissé pour « maléfique »  
-      selon l’alignement réel de la cible (ou selon son ivresse, s’il s’agit de l’Idiot du Village ivre).</li>
-  <li>Endormez cet Idiot du Village, puis passez au suivant jusqu’à ce que  
-      tous les Idiots du Village aient agi.</li>
-
-</ul>
-
----
-
-##  <span style="color:#4ea3ff;">Exemples</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-
-<strong>Cédric</strong>, <strong>Nicolas</strong> et <strong>Lola</strong> sont tous des Idiots du Village.  
-Cédric est ivre.  
-La nuit, ils choisissent chacun <strong>Thaïs</strong>, qui est un 
-<a href="../roles_experimentaux/kazali.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Kazali</a>.  
-Cédric apprend que Thaïs est bonne.  
-Nicolas et Lola apprennent que Thaïs est maléfique.
-</p>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-
-<strong>Céline</strong> et <strong>Vanessa</strong> sont Idiots du Village.  
-Vanessa est ivre.  
-<strong>Sarah</strong> est maléfique et bluffe Idiot du Village.  
-Céline choisit Sarah et apprend qu’elle est maléfique.  
-Vanessa choisit la joueuse Hérétiques et apprend qu’elle est bonne.  
-Sarah prétend avoir choisi Céline et avoir appris qu’elle est maléfique.
-</p>
-
----
-
-##  <span style="color:#4ea3ff;">Astuces et Conseils</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Trouvez les autres Idiots du Village.  
-      Le moyen le plus simple de savoir qui est ivre est de comparer vos informations  
-      et de voir où elles concordent ou se contredisent.  
-      Et si vous êtes le seul à revendiquer ce rôle, vous savez que vous êtes sobre.</li>
-
-  <li>Collaborez avec les autres Idiots du Village pour cibler la même personne.  
-      Si une seule information diffère, vous avez probablement identifié  
-      qui est ivre.  
-      Si toutes les informations sont identiques alors que plusieurs joueurs  
-      revendiquent ce rôle, il peut y avoir des bluffeurs en plus des vrais Idiots du Village.</li>
-
-  <li>S’il n’y a que deux Idiots du Village et que vous ne parvenez pas à savoir  
-      lequel des deux est ivre, choisissez des cibles différentes.  
-      Deux Idiots du Village qui choisissent toujours la même personne  
-      obtiennent beaucoup moins d’informations utiles.</li>
-
-  <li>Le fait qu’il y ait trois personnes qui revendiquent Idiot du Village  
-      ne prouve la bonté de personne.  
-      Méfiez-vous des rôles maléfiques qui bluffent Idiot du Village :  
-      tant qu’il n’y en a pas « trop », l’un de vous peut très bien être maléfique  
-      et tenter de vous faire passer pour ivre.</li>
-
-  <li>Ignorez parfois les autres Idiots du Village et partez du principe  
-      que vos propres informations sont correctes.  
-      Si chacun fait cela, l’effet global sur le groupe  
-      reste souvent positif malgré la présence d’un Idiot du Village ivre.</li>
-
-  <li>Exécutez l’Idiot du Village que vous pensez être ivre  
-      (au cas où il serait en réalité maléfique).</li>
-
-  <li>Si un joueur ou une joueuse est fortement considéré comme bon ou comme maléfique,  
-      ciblez-le pour savoir si vous êtes l’Idiot ivre ou non.  
-      Si votre information contredit un élément presque certain,  
-      il est probable que vous soyez la source de l’erreur.</li>
-
-  <li>N’oubliez pas que le Conteur peut encore donner  
-      une information correcte à l’Idiot du Village ivre afin de ne pas rendre  
-      les Idiots du Village trop puissants.</li>
-
-  <li>Attendez avant de révéler que vous êtes Idiot du Village.  
-      Si trois autres joueurs ou joueuses ou plus revendiquent déjà ce rôle,  
-      vous savez qu’au moins l’un ou l’une ment.</li>
-
-</ul>
-
----
-
-##  <span style="color:#4ea3ff;">Bluffer Idiot du Village</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Si vous trouvez un duo d’Idiots du Village,  
-      bluffez en tant que troisième Idiot du Village et « confirmez »  
-      les informations de celui ou celle qui est ivre,  
-      pour renforcer de fausses pistes.</li>
-
-  <li>Ou au contraire, bluffez troisième Idiot du Village  
-      et validez les informations de l’Idiot du Village sobre,  
-      afin de gagner la confiance du groupe,  
-      quitte à sacrifier un maléfique moins important.  
-      Vous pourrez ensuite exploiter cette confiance plus tard dans la partie.</li>
-
-  <li>Si vous recevez Idiot du Village comme bluff de <span style="color:#d45b5b; font-weight:bold;">Démon</span> ou de <span style="color:#d45b5b; font-weight:bold;">Sbire</span>,  
-      réfléchissez à combien d’ennemis doivent bluffer ce rôle.  
-      Un Idiot du Village isolé peut paraître suspect,  
-      mais plusieurs Idiots du Village maléfiques lient vos destins :  
-      vous risquez d’apparaître comme une équipe maléfique toute entière.</li>
-
-  <li>Si la bonne équipe n’exécute pas les Idiots du Village,  
-      demandez au Démon de bluffer Idiot du Village à son tour.  
-      Tant que les exécutions se concentrent ailleurs, vous êtes en sécurité.</li>
-
-  <li>En tant que Démon, vous pouvez bluffer Idiot du Village  
-      même si ce rôle ne fait pas partie des trois bluffs montrés au début.  
-      Vous devrez simplement reculer si trois Idiots du Village sont déjà en place  
-      et commencent à mener la chasse.</li>
-
-  <li>Bluffez Idiot du Village temporairement,  
-      le temps de distribuer vos « vraies » informations de bluff,  
-      puis révélez plus tard un autre rôle que vous souhaitez tenir  
-      comme bluff principal.</li>
-
-  <li>Si vous recevez Idiot du Village comme bluff de Démon,  
-      soyez attentif aux joueurs qui prétendent aussi être un Idiot du Village.  
-      Ils peuvent être de puissants Villageois,  
-      ou des Marginaux gênants comme la 
-      <a href="../roles_experimentaux/damsel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Demoiselle</a>  
-      ou l’
-      <a href="../roles_experimentaux/heretic.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Hérétique</a>.
-  </li>
-
-</ul>
-
----
-
-<p style="text-align:left; font-size:18px; margin-top:20px;">
-   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a><br>
-   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a>
+<p style="text-align:left; font-size:18px; margin-top:0px;">
+• <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+• <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a><br>
+• <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Catégorie : Villageois</a>
 </p>
