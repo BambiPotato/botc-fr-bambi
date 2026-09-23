@@ -19,7 +19,7 @@ image: /images/Icon_villageidiot.png
   <a href="./villageidiot.html" style="text-decoration:none;">
     <img src="../images/Icon_villageidiot.png" alt="Idiot du Village" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#4ea3ff; font-weight:bold; font-size:35px;">📜 Idiot du village</span>
+    <span style="color:#4ea3ff; font-weight:bold; font-size:35px;">🍭Idiot du village</span>
   </a>
 </div>
 
@@ -107,7 +107,7 @@ Instructions au Conteur
 <hr>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
-• Doug, Lewis et Amy sont tous des <strong>Idiots du village</strong>. Doug est <strong>ivre</strong>. La nuit, ils choisissent tous Evin, le <a href="../roles_experimentaux/kazali.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Kazali</a>i. Doug apprend qu'Evin est bon. <br> Lewis et Amy apprennent qu'Evin est maléfique.
+• Doug, Lewis et Amy sont tous des <strong>Idiots du village</strong>. Doug est <strong>ivre</strong>. La nuit, ils choisissent tous Evin, le <a href="../roles_experimentaux/kazali.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Kazali</a>. Doug apprend qu'Evin est bon. <br> Lewis et Amy apprennent qu'Evin est maléfique.
 <br><br>
 • Ben et Marianna sont les <strong>Idiots du village</strong>. Marianna est <strong>ivre</strong>. Sarah est maléfique et se fait passer pour un <strong>Idiot du village</strong>. <br> Ben choisit Sarah et apprend qu'elle est maléfique. Marianna choisit le joueur <a href="../roles_experimentaux/heretic.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Hérétique</a> et apprend qu’il est bon. Sarah prétend avoir choisi Ben et avoir appris qu'il est maléfique.
 </p>
@@ -141,23 +141,23 @@ Instructions au Conteur
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
 • Lorsque vous bluffez l'<strong>Idiot du village</strong>, voici plusieurs stratégies à garder en tête :
 <br><br>
-• <strong>Si vous trouvez une paire d'Idiots du village, bluffez en tant que troisième Idiot du village et « confirmez » les informations de l'Idiot du village ivre afin d'instiller de la désinformation.</strong>
+• <strong>Si vous trouvez une paire d'Idiots du village, bluffez en tant que troisième Idiot du village</strong> et « confirmez » les informations de l'Idiot du village ivre afin d'instiller de la désinformation.
 <br><br>
-• <strong>Si vous trouvez une paire d'Idiots du village, bluffez en tant que troisième Idiot du village et « confirmez » les informations de l'Idiot du village sobre afin de gagner la confiance du groupe (quitte à sacrifier un coéquipier maléfique plus expédiable), puis exploitez cette confiance plus tard dans la partie.</strong>
+• <strong>Si vous trouvez une paire d'Idiots du village, bluffez en tant que troisième Idiot du village</strong> et « confirmez » les informations de l'Idiot du village sobre afin de gagner la confiance du groupe (quitte à sacrifier un coéquipier maléfique plus expédiable), puis exploitez cette confiance plus tard dans la partie.
 <br><br>
 • <strong>Si l'Idiot du village vous est proposé comme bluff, demandez-vous si vous souhaitez que plusieurs joueurs maléfiques bluffent ce même rôle.</strong> Un <strong>Idiot du village</strong> isolé est souvent suspect, mais plusieurs joueurs maléfiques bluffant l'<strong>Idiot du village</strong> vous lient ensemble comme une équipe maléfique potentielle. Si l'équipe bonne n'exécute pas les <strong>Idiots du village</strong>, incitez le <strong>Démon</strong> à bluffer ce rôle.
 <br><br>
-• <strong>En tant que Démon, vous pouvez tout de même bluffer en tant qu'Idiot du village en toute sécurité même si ce rôle n'apparaît pas dans vos trois bluffs de départ ; il vous suffira de faire marche arrière rapidement si trois joueurs sont déjà en campagne.</strong>
+• <strong>En tant que Démon, vous pouvez tout de même bluffer en tant qu'Idiot du village</strong> en toute sécurité même si ce rôle n'apparaît pas dans vos trois bluffs de départ ; il vous suffira de faire marche arrière rapidement si trois joueurs sont déjà en campagne.
 <br><br>
-• <strong>Bluffez temporairement en tant qu'Idiot du village jusqu'à ce que vous souhaitiez révéler votre bluff principal — c'est une excellente couverture pour transmettre vos « vraies » informations sans avoir à revendiquer votre véritable rôle.</strong>
+• <strong>Bluffez temporairement en tant qu'Idiot du village</strong> jusqu'à ce que vous souhaitiez révéler votre bluff principal — c'est une excellente couverture pour transmettre vos « vraies » informations sans avoir à revendiquer votre véritable rôle.
 <br><br>
 • <strong>Si vous recevez l'Idiot du village comme bluff de Démon, restez attentif aux joueurs bons qui prétendent être des Idiots du village.</strong> Il pourrait s'agir de <strong>Villageois</strong> puissants ou de <strong>Marginaux</strong> préjudiciables comme la <a href="../roles_experimentaux/damsel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Demoiselle</a> ou l'<a href="../roles_experimentaux/heretic.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Hérétique</a>.
 </p>
 
 ## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
-<hr class="villageois">
+<hr>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px; list-style-type:none; padding-left:0;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:00px; list-style-type:none; padding-left:0;">
 
   <li>🧞
     <img src="../images/Icon_boffin.png" alt="Boffin" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
