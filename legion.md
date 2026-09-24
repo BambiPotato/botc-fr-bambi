@@ -52,12 +52,11 @@ Nous sommes Légion. »
   </a>
 </div>
 
-<hr class="explication">
+<hr class="demon">
 
 <!-- ===== SOMMAIRE ===== -->
 
 <h2 style="color:#f5f5f5;"><span id="sommaire">Sommaire</span></h2>
-<hr class="demon">
 
 <ul style="color: #f5f5f5; font-size: 16px; line-height: 1.8; margin-bottom: 0; padding-left: 20px;">
   <li><a href="#introduction" style="color: #4ea3ff; text-decoration: none;">Introduction &amp; capacité</a></li>
@@ -77,12 +76,12 @@ Nous sommes Légion. »
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
 « Chaque nuit*, un joueur pourrait mourir. Toute exécution échoue si seul le Mal a voté. Vous apparaissez aussi comme Sbire. [La majorité des joueurs sont Légion] »
-</p>
+</p><br>
 
 
 <p class="botc-flavour-text dropcap" style="margin:0;">
 La <a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> rassemble plusieurs Démons.
-</p>
+</p><br>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
 • <a href="./roles_experimentaux/legion.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retrouvez ici la fiche et le détail du rôle Légion</a>
@@ -230,7 +229,7 @@ Si une interaction est complètement cassée, utilisez le Djinn avec un jinx pou
 <hr>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; padding-left:20px;">
-  <li><strong><a href="./roles_experimentaux/balloonist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aéronaute</a> :</strong> Voit un type de rôle différent chaque nuit. La <a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> étant perçue  comme Sbire et Démon, vous pouvez montrer des <a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> plusieurs nuits d'affilée en la faisant enregistrer une nuit comme Sbire, puis la nuit suivante comme Démon.</li>
+  <li><strong><a href="./roles_experimentaux/balloonist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aéronaute</a> :</strong> Voit un type de rôle différent chaque nuit. La <a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> étant perçue comme Sbire et Démon, vous pouvez montrer des <a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> plusieurs nuits d'affilée en la faisant enregistrer une nuit comme Sbire, puis la nuit suivante comme Démon.</li>
 
   <li><strong><a href="./roles_experimentaux/bountyhunter.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chasseur de primes</a> :</strong> Rend maléfique l'un de vos rares Villageois. Les votes nécessitent toujours le vote d'un joueur bon pour passer : le Villageois maléfique ne compte pas !</li>
 
@@ -238,7 +237,7 @@ Si une interaction est complètement cassée, utilisez le Djinn avec un jinx pou
 
   <li><strong><a href="./sv_roles/horloger.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Horloger</a> :</strong> Apprend la distance entre les deux <a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> les plus proches.</li>
 
-  <li><strong><a href="./bmr_roles/courtisan.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisan</a> :</strong> S'il y a plusieurs exemplaires d'un même rôle et que le <a href="./bmr_roles/courtisan.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisan</a>  le choisit, le Conteur rend ivre UN SEUL joueur portant ce rôle, pas tous. Si le <a href="./bmr_roles/courtisan.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisan</a>  choisit la <a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a>, la capacité permet seulement à l'un des <a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> de ne plus être perçue comme un Sbire.</li>
+  <li><strong><a href="./bmr_roles/courtisan.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisan</a> :</strong> S'il y a plusieurs exemplaires d'un même rôle et que le <a href="./bmr_roles/courtisan.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisan</a> le choisit, le Conteur rend ivre UN SEUL joueur portant ce rôle, pas tous. Si le <a href="./bmr_roles/courtisan.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisan</a> choisit la <a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a>, la capacité permet seulement à l'un des <a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> de ne plus être perçue comme un Sbire.</li>
 
   <li><strong><a href="./roles_experimentaux/cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de secte</a> :</strong> S'il est maléfique, ses votes ne comptent pas si seuls des maléfiques votent.</li>
 
@@ -250,7 +249,7 @@ Si une interaction est complètement cassée, utilisez le Djinn avec un jinx pou
 
   <li><strong><a href="./sv_roles/fleuriste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fleuriste</a> :</strong> Tout <a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> qui vote est comptabilisé comme un « Oui » pour la Fleuriste, même si le total des votes finit à zéro.</li>
 
-  <li><strong><a href="./bmr_roles/fou.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fou du roi</a> :</strong> Contrairement à la consigne habituelle où le Conteur n'utilise pas les attaques du Démon sur le  <a href="./bmr_roles/fou.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fou du roi</a>, avec la <a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a>, tuer le  <a href="./bmr_roles/fou.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fou du roi</a> la nuit peut être une excellente chose et devrait être fait plus souvent.</li>
+  <li><strong><a href="./bmr_roles/fou.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fou du roi</a> :</strong> Contrairement à la consigne habituelle où le Conteur n'utilise pas les attaques du Démon sur le <a href="./bmr_roles/fou.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fou du roi</a>, avec la <a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a>, tuer le <a href="./bmr_roles/fou.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fou du roi</a> la nuit peut être une excellente chose et devrait être fait plus souvent.</li>
 
   <li><strong><a href="./tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> :</strong> Obtiendra énormément de « Oui » en raison du grand nombre de <a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> et du LEURRE.</li>
 
@@ -270,7 +269,7 @@ Si une interaction est complètement cassée, utilisez le Djinn avec un jinx pou
 
   <li><strong><a href="./sv_roles/charmeurdeserpent.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Charmeur de serpents</a> :</strong> Voir <a href="./tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a>, mais encore plus suicidaire. Très facile à bluffer pour une <a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a>, car se faire tuer pour valider un bluff ne dérange pas la <a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a>.</li>
 
-  <li><strong><a href="./sv_roles/crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur public</a> :</strong> <la a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> étant perçue comme Sbire, attendez-vous à beaucoup de « Oui ».</li>
+  <li><strong><a href="./sv_roles/crieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Crieur public</a> :</strong> La <a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> étant perçue comme Sbire, attendez-vous à beaucoup de « Oui ».</li>
 
   <li><strong><a href="./sv_roles/barbier.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Barbier</a> :</strong> Si un Barbier meurt dans une partie <a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a>, le Conteur choisit un joueur <a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> qui décide d'effectuer un échange ou non.</li>
 
@@ -280,7 +279,7 @@ Si une interaction est complètement cassée, utilisez le Djinn avec un jinx pou
 
   <li><strong><a href="./bmr_roles/lunatique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lunatique</a> :</strong> Nécessite un script adapté. Néanmoins, comme le Lunatique voit un Démon différent de celui en jeu, il est possible de convaincre le Lunatique qu'il est le Démon et de le manipuler pour qu'il apporte le vote du Bien nécessaire aux exécutions. Cela demande au Conteur de jouer le jeu sur les morts la nuit, pendant que le groupe de <a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> joue les « Sbires ». Tous les <a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> savent qui est le Lunatique, car ils sont tous perçus comme le Démon pour la capacité du Lunatique.</li>
 
-  <li><strong><a href="./roles_experimentaux/politician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Politicien</a> :</strong>  pourrait s’enregistrer comme maléfique pour la Légion. Dans le cas contraire, il peut voter à chaque exécution pour apporter le vote du Bien nécessaire à la <a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> et devenir maléfique. Une fois qu'il comprend qu'il s'agit d'une <a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a>, c'est assez facile, donc éviter de les mettre ensemble sur un script.</li>
+  <li><strong><a href="./roles_experimentaux/politician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Politicien</a> :</strong> pourrait s’enregistrer comme maléfique pour la Légion. Dans le cas contraire, il peut voter à chaque exécution pour apporter le vote du Bien nécessaire à la <a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> et devenir maléfique. Une fois qu'il comprend qu'il s'agit d'une <a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a>, c'est assez facile, donc éviter de les mettre ensemble sur un script.</li>
 
   <li><strong><a href="./roles_experimentaux/summoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocatrice</a> (Jinx) :</strong> Si l'Invocatrice invoque une <a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a>, la plupart des joueurs (y compris tous les maléfiques) deviennent des <a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> maléfiques.</li>
 
@@ -293,7 +292,7 @@ Si une interaction est complètement cassée, utilisez le Djinn avec un jinx pou
 <h2 style="color:#d45b5b;"><span id="reflexions-steve">Réflexions supplémentaires de Steven Medway</span></h2>
 <hr>
 
-<h3 style="color:#e0b97a;">Combien de bons joueurs faut-il mettre dans une partie ?</h3>
+<h3 style="color:#e0b97a;">Combien de joueurs bons faut-il mettre dans une partie ?</h3>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 La seule règle stricte est d'avoir au moins 2 joueurs bons. Dès qu'il ne reste qu'un seul joueur bon en vie, l'équipe du Bien ne peut plus gagner, car dès qu'il ne reste qu'un seul joueur bon et une <a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> en vie, le Mal gagne. Le joueur bon ne pourra jamais tuer la dernière <a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> car le Mal l'emporte quand 2 joueurs sont en vie.
@@ -322,7 +321,7 @@ Les Marginaux ne sont pas recommandés car il est plus amusant que chaque joueur
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Les rôles à information ou à capacité unique comme la (<a href="./tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a>, l' <a href="./roles_experimentaux/vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Immaculée</a>) fonctionnent le mieux.
+Les rôles à information ou à capacité unique comme la (<a href="./tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a>, l' <a href="./tb_roles/vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Immaculée</a>) fonctionnent le mieux.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
