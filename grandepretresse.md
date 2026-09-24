@@ -69,13 +69,14 @@ image: /images/Icon_highpriestess.png
 <h2 style="color:#f5f5f5;"><span id="resume">Introduction</span></h2>
 <hr> 
 
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
+« Chaque nuit, apprenez à quel joueur vous devriez parler en priorité, selon le Conteur. »
+</p> 
+
 <p class="botc-flavour-text dropcap" style="margin:0;">
 La Grande prêtresse agit selon son intuition.
 </p>
 
-<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
-Chaque nuit, apprenez à quel joueur vous devriez parler en priorité, selon le Conteur.
-</p> 
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
 • <a href="./roles_experimentaux/highpriestess.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retrouvez ici la fiche et le détail du rôle la Grande Prêtresse</a><br><br>
