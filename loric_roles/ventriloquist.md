@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ventriloque
-description: "Si un joueur est fou d’être un nouveau rôle pendant sa nomination, il pourrait ne pas mourir s’il est exécuté aujourd’hui."
+description: "Si un joueur est fou d’être un nouveau rôle durant sa nomination, il pourrait ne pas mourir s’il est exécuté aujourd’hui."
 image: /images/Icon_ventriloquist.png
 ---
 
@@ -49,23 +49,19 @@ image: /images/Icon_ventriloquist.png
 </ul>
 
 
-<hr class="loric">
-
 
 ## <span style="color:#7fd1ae;">Résumé</span>
-
-
 <hr class="loric">
 
-<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
-« Si un joueur est fou d’être un nouveau rôle pendant sa nomination, il pourrait ne pas mourir s’il est exécuté aujourd’hui. »
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-00px;">
+« Si un joueur est fou d’être un nouveau rôle durant sa nomination, il pourrait ne pas mourir s’il est exécuté aujourd’hui. »
 </p>
 
 <p class="botc-flavour-text dropcap">
 Le <strong>Ventriloque</strong> récompense les joueurs qui mentent sur qui ils sont.
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:00px;">
   <li>
     Être  <strong>Fou d’être un nouveau rôle </strong> signifie prétendre être un rôle différent d’un rôle que vous avez déjà prétendu être.
   </li>
