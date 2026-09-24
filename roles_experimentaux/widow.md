@@ -90,21 +90,21 @@ Instructions au Conteur
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
 Lors de la préparation de la première nuit, marquez un joueur bon du jeton <strong>« Appris »</strong>.
 <br><br>
-La première nuit, réveillez la Veuve et montrez-lui le Grimoire aussi longtemps que nécessaire. La Veuve désigne un jeton de rôle dans le Grimoire. 
-Ce joueur est empoisonné. Marquez-le du jeton <strong>« Empoisonné »</strong>. La Veuve se rendort.
+La première nuit, réveillez la Veuve et montrez-lui le Grimoire aussi longtemps que nécessaire. <br> La Veuve désigne un jeton de rôle dans le Grimoire. 
+Ce joueur est empoisonné. Marquez-le du jeton <strong>« Empoisonné »</strong>. <br> La Veuve se rendort.
 <br><br>
 Réveillez le joueur bon marqué <strong>« Appris »</strong>. Montrez-lui le jeton Veuve. Ensuite, ce joueur se rendort.
 </p>
 
 <div class="botc-note">
-<strong>Remarque importante :</strong> Lors de la première nuit, la Veuve regarde le Grimoire. Si elle se choisit elle-même, elle devient empoisonnée, ce qui empêche le Conteur de réveiller un joueur bon pour lui apprendre qu'une Veuve est en jeu.
+<strong>Remarque importante :</strong> Lors de la première nuit, la Veuve regarde le Grimoire. <br> Si elle se choisit elle-même, elle devient empoisonnée, ce qui empêche le Conteur de réveiller un joueur bon pour lui apprendre qu'une Veuve est en jeu.
 </div>
 
 ## <span style="color:#d45b5b;">Exemples</span>
 <hr>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
-• La Veuve voit le Grimoire et désigne le <a href="../bmr_roles/sailor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a>. Le <a href="../bmr_roles/sailor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a> est empoisonné lors de cette partie. Le <a href="../bmr_roles/sailor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a> est sobre, mais meurt quand il est exécuté.
+• La Veuve voit le Grimoire et désigne le <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a>. Le <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a> est empoisonné lors de cette partie. Le <a href="../bmr_roles/marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a> est sobre, mais meurt quand il est exécuté.
 <br><br>
 • La troisième nuit, la <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a>  se transforme en Veuve. Cette nuit-là, le <a href="../voyageurs/scapegoat.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Bouc Émissaire</a> (bon) apprend qu'une Veuve est en jeu.
 <br><br>
@@ -123,7 +123,7 @@ Réveillez le joueur bon marqué <strong>« Appris »</strong>. Montrez-lui le j
 <br><br>
 • <strong>S'il y a un choix évidents et unique pour le rôle à empoisonner, empoisonnez un rôle différent à la place.</strong> Comme l'équipe bonne saura qu'une <strong>Veuve</strong> est en jeu, elle cherchera le choix le plus évident que la <strong>Veuve</strong> aurait pu faire. Si vous ne faites pas le choix le plus évident, l'équipe bonne supposera qu'un Villageois à information puissante est empoisonné alors qu'il ne l'est pas, et qu'un rôle moins probable est sain alors qu'il est empoisonné. Malin !
 <br><br>
-• <strong>De plus, vous pouvez essayer d'empoisonner un joueur qui, selon vous, dirigera les débats du village, dans l'espoir qu'il utilise ses informations (désormais fausses) pour servir vos intérêts.</strong>
+• De plus, vous pouvez essayer d'empoisonner un joueur qui, selon vous, dirigera les débats du village, dans l'espoir qu'il utilise ses informations (désormais fausses) pour servir vos intérêts.
 <br><br>
 • <strong>N'empoisonnez pas un joueur que vous pouvez amener le Démon à tuer à la place.</strong> Par exemple, il peut être préférable d'amener le <strong>Démon</strong> à tuer la  <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>  pendant que vous empoisonnez le <a href="../tb_roles/cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a>. Comme vous voyez le Grimoire, communiquer au <strong>Démon</strong> les joueurs à tuer en début de partie devrait être assez simple.
 <br><br>
@@ -172,8 +172,9 @@ Réveillez le joueur bon marqué <strong>« Appris »</strong>. Montrez-lui le j
 <br><br>
 • <strong>La Veuve est redoutable tout au long de la partie tant qu'elle est en vie.</strong> Si vous avez une piste sur une <strong>Veuve</strong> suspectée, il est toujours dans votre intérêt de l'exécuter pour supprimer totalement son influence insidieuse du village.
 <br><br>
-• <strong>Rappelez-vous, combattre la Veuve c'est comme combattre l'<a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a>, mais la Veuve ne regarde le Grimoire que lors de la première nuit et doit compter entièrement sur sa mémoire.</strong> Cela rend la tâche beaucoup plus difficile dans les parties avec un grand nombre de joueurs, car elle pourrait n'absorber qu'une quantité moindre d'informations cruciales. Contrairement à l' <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a>, tout ce qui se produit après la première nuit n'est pas vu par la <strong>Veuve</strong>.
+• <strong>Rappelez-vous, combattre la Veuve ressemble à combattre l'<a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a></strong>, mais la Veuve ne regarde le Grimoire que lors de la première nuit et doit compter entièrement sur sa mémoire. Cela rend la tâche beaucoup plus difficile dans les parties avec un grand nombre de joueurs, car elle pourrait n'absorber qu'une quantité moindre d'informations cruciales. Contrairement à l' <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a>, tout ce qui se produit après la première nuit n'est pas vu par la <strong>Veuve</strong>.
 </p>
+
 
 ## 🧞 <span style="color:#d45b5b;">Jinxes liés</span>
 <hr>
@@ -183,10 +184,7 @@ Réveillez le joueur bon marqué <strong>« Appris »</strong>. Montrez-lui le j
   <li>🧞
     <img src="../images/Icon_alchemist.png" alt="Alchimiste" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> :  
-    Un <strong>Alchimiste-Veuve</strong> n’a pas de capacité de la Veuve  
-    et une <strong>Veuve</strong> est en jeu.  
-    Après chaque exécution, un <strong>Alchimiste-Veuve</strong> en vie peut deviner publiquement quel joueur en vie est la Veuve.
-    S’il a raison, le Démon doit choisir la Veuve cette nuit.
+    Un <strong>Alchimiste-Veuve</strong> n’a pas de capacité de la Veuve  et une <strong>Veuve</strong> est en jeu. <br> Après chaque exécution, un <strong>Alchimiste-Veuve</strong> en vie peut deviner publiquement quel joueur en vie est la Veuve. <br> S’il a raison, le Démon doit choisir la Veuve cette nuit.
   </li><br>
 
   <li>🧞
