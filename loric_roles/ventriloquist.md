@@ -24,10 +24,6 @@ image: /images/Icon_ventriloquist.png
 </div>
 
 
-<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-« Eh bien, mes amis, approchez donc ! <br> Voici mon copain Charlie, <br> et il a une langue si bien pendue qu’il ferait rougir une mule. <br> Mais ne vous inquiétez pas,<br> c’est moi qui parle… ou peut-être pas ? »
-</p>
-
 
 <hr class="loric">
 
@@ -49,6 +45,11 @@ image: /images/Icon_ventriloquist.png
 </ul>
 
 
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Eh bien, mes amis, approchez donc ! <br> Voici mon copain Charlie, <br> et il a une langue si bien pendue qu’il ferait rougir un mulet. <br> Mais ne vous inquiétez pas,<br> c’est moi qui parle… ou peut-être pas ? »
+</p>
+
+
 
 ## <span style="color:#7fd1ae;">Résumé</span>
 <hr class="loric">
@@ -58,30 +59,30 @@ image: /images/Icon_ventriloquist.png
 </p>
 
 <p class="botc-flavour-text dropcap">
-Le <strong>Ventriloque</strong> récompense les joueurs qui mentent sur qui ils sont.
+Le Ventriloque récompense les joueurs qui mentent sur qui ils sont.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:00px;">
   <li>
     Être  <strong>Fou d’être un nouveau rôle </strong> signifie prétendre être un rôle différent d’un rôle que vous avez déjà prétendu être.
   </li>
-  <li>
+  <li><br>
     Un joueur bénéficie du Ventriloque uniquement s’il est fou d’être un rôle nouveau au moment où il est nommé.
   </li>
-  <li>
+  <li><br>
     Son véritable rôle n’a pas d’importance. Les joueurs peuvent être fous d’être un faux rôle, puis plus tard fous d’être leur vrai rôle ; 
     fous d’être leur vrai rôle, puis plus tard fous d’être un faux rôle ; ou fous d’être deux faux rôles différents.
   </li>
-  <li>
+  <li><br>
     Si le joueur ne meurt pas, il l’apprend après que l’exécution a eu lieu. Il n’apprend pas si c’était grâce au Ventriloque ou non.
   </li>
   <li>
     Le Conteur juge si le joueur est fou ou non, et peut le laisser mourir même s’il était convaincant.
   </li>
-  <li>
+  <li><br>
     Cela peut protéger le Démon, mais le Conteur ne protégera pas le Démon si cela signifie que le mal gagne.
   </li>
-  <li>
+  <li><br>
    Un joueur est uniquement protégé de la mort le jour même où il a été fou d’être un nouveau rôle.
   </li>
 </ul>
@@ -114,14 +115,14 @@ nnoncez qu’elle est exécutée et vous pouvez annoncer qu’elle ne meurt pas.
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong>Abdallah</strong> est le
 <a href="../bmr_roles/parieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Parieur</a>.<br>
-Le premier jour, il est Fou d’être le Parieur. Lorsqu’il est nommé, il est Fou d’être le
+Le premier jour, il est Fou d’être le <a href="../bmr_roles/parieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Parieur</a>. Lorsqu’il est nommé, il est fou d’être le
 <a href="../roles_experimentaux/hatter.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chapelier</a>.<br>
 Plus tard ce jour-là, Abdallah est exécuté et <strong>ne meurt pas</strong>.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong>Marianna</strong> est le
-<a href="../bmr_roles/professor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Professeur</a>.<br>
+<a href="../bmr_roles/professeur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Professeur</a>.<br>
 Elle prétend être l’<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>
 depuis depuis le début de la partie.<br>
 Lorsqu’elle est nommée, elle prétend être le 
