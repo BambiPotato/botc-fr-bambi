@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Yaggababble
+title: Yaggablabla
+description: "Lors de votre 1<sup>re</sup> nuit, vous apprenez une phrase secrète. Pour chaque fois que vous l’avez dite publiquement ce jour, un joueur pourrait mourir."
+image: /images/Icon_yaggababble.png
 ---
 
 <p align="left">
@@ -9,338 +11,170 @@ title: Yaggababble
   </a>
 </p>
 
+<hr class="explication">
+
 <!-- Yaggababble -->
 
 <div style="text-align:center; margin: 20px 0%;">
   <a href="./yaggababble.html" style="text-decoration:none;">
     <img src="../images/Icon_yaggababble.png" alt="Yaggababble" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#d45b5b; font-weight:bold; font-size:22px;">Yaggababble</span>
+    <span style="color:#d45b5b; font-weight:bold; font-size:35px;">Yaggababble</span>
   </a>
 </div>
 
-<!-- APPARAÎT DANS -->
-<div style="text-align:center; margin: 20px 0%;">
-  <a href="../experimentaux.html" style="text-decoration:none;">
-    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
-    <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
-  </a>
-</div>
+<hr class="demon">
 
-#  <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Yaggababble</span>
-
-<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Meurtres dans la rue Morgue ? Infos bidon !  
-  Des chiens dans la lande de Baskerville ? Infos bidon !  
-  Mort sur le Nil ? Infos bidon ! »
-</p>
-
----
-
-##  <span style="color:#d45b5b;">Informations</span>
+## <span style="color:#d45b5b;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
     <a href="/demon.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>
   </li>
   <li>
-  <strong>Nom original :</strong>
-  <a href="https://wiki.bloodontheclocktower.com/Yaggababble"
-     target="_blank"
-     rel="noopener noreferrer"
-     style="color:#d45b5b; font-weight:bold; text-decoration:none;">
- Yaggababble
-  </a>
-</li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Yaggababble"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+      Yaggababble
+    </a>
+  </li>
   <li><strong>Artiste :</strong> Lachlan Bastiaen</li>
   <li><strong>Révélé :</strong> 29 février 2024</li>
 </ul>
 
----
-
-##  <span style="color:#d45b5b;">Résumé</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Vous commencez en connaissant une phrase secrète. 
-  Chaque fois que vous l’avez dite publiquement aujourd’hui, un joueur pourrait mourir.»</strong>
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Un double assassinat dans la rue Morgue ?<br> Фальшивые новости ! <br> Des chiens dans la lande de Baskerville ? <br> Фальшивые новости ! <br> Un mort sur le Nil ? <br> Фальшивые новости ! »
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Yaggababble</strong> tue en parlant.
+<hr class="demon">
+
+<!-- APPARAÎT DANS -->
+<div style="text-align:center; margin: 20px 0%;">
+  <a href="../experimentaux.html" style="text-decoration:none;">
+    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : Carrousel rôle expérimental</span>
+  </a>
+</div>
+
+## <span style="color:#d45b5b;">Résumé</span>
+<hr class="demon">
+
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
+« Lors de votre 1<sup>re</sup> nuit, vous apprenez une phrase secrète. Pour chaque fois que vous l’avez dite publiquement ce jour, un joueur pourrait mourir. »
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Le Yaggablabla tue par ses paroles.
+</p>
 
-  <li>La phrase du <strong>Yaggababble</strong> peut avoir n’importe quelle longueur,  
-      mais fait en général entre 2 et 5 mots.</li>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Le nombre de mots de la phrase que dit le Yaggablabla doit rester modéré ; idéalement, au moins 2 mots, et pas plus de 6 ou 7.
+<br><br>
+• Si le Yaggablabla prononce sa phrase, le Conteur peut tuer un joueur à tout moment par la suite, jusqu'à l'aube.
+<br><br>
+• Le Yaggablabla peut prononcer uniquement cette phrase, ou l’intégrer à une autre phrase plus longue.
+<br><br>
+• Le Yaggablabla peut dire sa phrase plusieurs fois par jour. Si elle le fait, le Conteur peut tuer plusieurs joueurs.
+<br><br>
+• Le Conteur choisit quels joueurs meurent.
+<br><br>
+• Le Conteur peut choisir de tuer moins de joueurs que le nombre de fois où la phrase a été prononcée.
+<br><br>
+• Si le Yaggablabla est ivre ou empoisonné, les joueurs ne peuvent pas mourir, même si le Yaggablabla était sobre et sain lorsqu’il a dit sa phrase. Si le Yaggablabla est sobre et sain, les joueurs pourraient mourir, même si le Yaggablabla était ivre ou empoisonné lorsqu’elle a prononcé sa phrase.
+<br><br>
+• Il est rare que le Yaggablabla tue pendant la journée.
+</p>
 
-  <li>Chaque fois que le <strong>Yaggababble</strong> prononce cette phrase en public,  
-      le <strong>Conteur</strong> peut faire mourir un joueur jusqu’à l’aube suivante.</li>
+## <span style="color:#d45b5b;">Comment Conter</span>
+<hr>
 
-  <li>La phrase peut être dite seule  
-      ou intégrée dans une autre phrase,  
-      tant qu’elle est prononcée mot pour mot.</li>
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Instructions au Conteur
+</p>
 
-  <li>Le <strong>Yaggababble</strong> peut dire sa phrase  
-      plusieurs fois dans la même journée :  
-      le Conteur peut alors faire plusieurs morts.</li>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Lors de la mise en place, écrivez une phrase sur un morceau de papier ou sur un téléphone.
+<br><br>
+Lors de la première nuit, réveillez le Démon. Montrez-lui la phrase, puis le Démon se rendort.
+<br><br>
+Chaque fois que le Démon prononce la phrase secrète, placez un jeton <strong>« Mort »</strong> au centre de la partie gauche du Grimoire (vous pouvez l’assigner à un joueur cette nuit-là).
+<br><br>
+Chaque nuit, vous pouvez marquer des joueurs de ces jetons <strong>« Mort »</strong> et ajouter un linceul à chaque joueur ainsi marqué. Ces joueurs meurent.
+<br><br>
+Choisissez une phrase assez simple. Si la phrase proposée au Démon est inhabituelle ou trop repérable, il risque de mourir ou de ne pas s’en servir. Si sa phrase est courante et crédible, il sera plus enclin à l’utiliser chaque jour, et même plusieurs fois par jour.
+</p>
 
-  <li>Le Conteur choisit quels joueurs meurent,  
-      et peut en tuer moins que le nombre de fois  
-      où la phrase a été prononcée.</li>
+## <span style="color:#d45b5b;">Exemples</span>
+<hr>
 
-  <li>Si le <strong>Yaggababble</strong> est ivre ou empoisonné,  
-      aucun joueur ne peut mourir à cause de sa phrase,  
-      même s’il était sobre au moment où il l’a dite.</li>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• La phrase du Yaggablabla est : « Je trouve ça louche ! » Le Yaggablabla dit cette phrase une fois dès le premier jour. Cette nuit-là, un joueur meurt. Le lendemain, le Yaggablabla dit trois fois : « Je trouve ça louche. » Cette nuit-là, trois joueurs meurent.
+<br><br>
+• Le Yaggablabla a dit sa phrase deux fois dans la journée. Il y a une <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> en jeu. Lorsque l' <a href="../roles_experimentaux/heretic.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Hérétique</a> nomme quelqu’un, l’ <a href="../roles_experimentaux/heretic.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Hérétique</a> meurt, même s’il n’a pas été maudit par la <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> . Le <a href="../roles_experimentaux/golem.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Golem</a> nomme le Démon, et meurt. Les deux joueurs sont morts à cause de la capacité du Yaggablabla.
+</p>
 
-  <li>Inversement, si le <strong>Yaggababble</strong> est sobre et en bonne santé,  
-      des joueurs peuvent mourir,  
-      même s’il était ivre ou empoisonné  
-      au moment où il a prononcé sa phrase.</li>
+## <span style="color:#d45b5b;">Conseils & Astuces</span>
+<hr>
 
-  <li>Il est rare que le <strong>Yaggababble</strong> provoque des morts en pleine journée :  
-      ces morts se produisent généralement la nuit.</li>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Répétez votre phrase aussi souvent que vous le pouvez ! C'est ainsi que vous obtenez des morts : après tout, vous pouvez vraiment décupler l'impact de votre capacité en accumulant un grand nombre de morts chaque nuit.
+<br><br>
+• Soyez économe, environ une fois par jour, sur la fréquence à laquelle vous la prononcez afin de dissimuler la phrase au village. Vous ne voulez pas vous trahir en rendant votre phrase trop évidente. Une fois par jour reste toutefois un bon point de repère pour continuer à imiter le rythme d'autres Démons.
+<br><br>
+• Assurez-vous que lorsque vous prononcez votre phrase, le Conteur puisse vous entendre. S'il ne vous entend pas, cela ne produira aucun effet, si ce n'est risquer de vous démasquer en la répétant trop souvent.
+<br><br>
+• Partagez la phrase avec vos Sbires : ils peuvent vous offrir des perches dans la conversation pour amener votre phrase et faire en sorte que tout paraisse naturel plutôt que forcé.
+<br><br>
+• Faites confiance au Conteur pour vous récompenser du risque pris en la disant souvent : vous pouvez tenter de caser quelques répétitions supplémentaires pour obtenir deux ou trois morts de plus si cela vous mène plus vite vers la fin de partie.
+<br><br>
+• Si le Conteur ne vous récompense pas lorsque vous répétez la phrase plusieurs fois, ne vous embêtez pas. Vous pouvez prononcer votre phrase une fois par jour et rester un Démon très efficace.
+<br><br>
+• Vos Sbires peuvent également choisir leurs propres phrases étranges à répéter, afin de faire croire en fin de partie qu'ils pourraient être le Démon.
+<br><br>
+• Prononcez vos phrases lorsqu'il y a moins de monde autour de vous : si moins de personnes l'entendent, moins de monde pourra faire le lien avec le nombre de fois où vous l'avez dite.
+<br><br>
+• Portez une attention particulière aux phrases que les bons joueurs répètent plus d'une fois et attirez l'attention dessus. Plus il y a de candidats pour des phrases de Yaggablabla, plus votre propre phrase peut rester cachée.
+<br><br>
+• Si le Conteur vous donne une phrase inhabituelle que vous ne savez pas comment amener dans une conversation, vous pouvez lui en demander une plus courante lors du premier jour.
+<br><br>
+• Assurez-vous d'être certain de prononcer exactement la phrase qui vous a été donnée : ne reformulez pas la phrase, sinon le Conteur pourrait ne pas vous accorder les morts.
+<br><br>
+• Prononcez des phrases au sens proche de votre véritable phrase pour brouiller les pistes et convaincre le groupe que vous tentez de faire passer une idée générale, et non de répéter une seule et même phrase.
+<br><br>
+• Choisissez une seconde phrase à répéter qui ne correspond pas à vos morts. Cela peut vous donner l'air d'un Sbire qui tente de couvrir un Yaggablabla.
+<br><br>
+• Variez l'intonation et le rythme de votre phrase pour qu'elle soit moins reconnaissable en tant que répétition.
+</p>
 
-</ul>
+## <span style="color:#d45b5b;">Combattre le Yaggababble</span>
+<hr>
 
----
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Surveillez les phrases étranges qui se répètent et comparez-les aux morts causées par le Démon la nuit. En cas de doute, cela vaut probablement la peine d'exécuter les joueurs qui réutilisent des phrases, juste au cas où, même s'il y a de fortes chances qu'ils soient bons.
+<br><br>
+• Gardez à l'esprit que les Sbires peuvent répéter des phrases pour tenter de masquer la phrase du Yaggablabla : tout joueur qui répète une phrase donnée trop souvent doit être traité avec une grande méfiance !
+<br><br>
+• Observez les joueurs qui semblent impatients de parler lorsque le Conteur écoute : un véritable Yaggablabla voudra s'assurer que le Conteur l'entend lorsqu'il prononce sa phrase, et priorisera donc la parole lorsque le Conteur est à proximité.
+</p>
 
 ## 🧞 <span style="color:#d45b5b;">Jinxes liés</span>
+<hr>
 
 <ul style="margin-left:40px; color:#f5f5f5; font-size:18px; line-height:1.7;">
-
   <li>
     <img src="../images/Icon_exorcist.png" alt="Exorciste" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../bmr_roles/exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a> :  
-    Si l’<strong>Exorciste</strong> choisit le <strong>Yaggababble</strong>,  
-    le <strong>Yaggababble</strong> ne tue personne cette nuit-là.
+    <a href="../bmr_roles/exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a> : 
+    Si l’ <a href="../bmr_roles/exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a> choisit le <strong>Yaggablabla</strong>, le <strong>Yaggablabla</strong> ne tue personne cette nuit.
   </li>
-
 </ul>
 
----
-
-##  <span style="color:#d45b5b;">Comment Conter</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Avec le <strong>Yaggababble</strong>, la menace vient des mots,  
-pas seulement des choix nocturnes :  
-le Conteur doit suivre attentivement la phrase secrète  
-et convertir ces occurrences en morts potentielles.
-</p>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li><strong>Préparation :</strong>
-    <ul style="margin-left:20px;">
-      <li>avant la partie, écrivez une <strong>phrase simple</strong>  
-          sur un papier ou sur un téléphone ;</li>
-      <li>évitez les tournures trop étranges :  
-          une phrase naturelle sera plus facile à placer  
-          sans attirer les soupçons.</li>
-    </ul>
-  </li>
-
-  <li><strong>Première nuit :</strong>
-    <ul style="margin-left:20px;">
-      <li>réveillez le <strong>Yaggababble</strong> ;</li>
-      <li>montrez-lui la phrase secrète écrite ;</li>
-      <li>assurez-vous qu’il la lise bien  
-          et la mémorise exactement ;</li>
-      <li>rendormez le Démon.</li>
-    </ul>
-  </li>
-
-  <li><strong>Pendant la journée :</strong>
-    <ul style="margin-left:20px;">
-      <li>chaque fois que le <strong>Yaggababble</strong>  
-          prononce la phrase secrète en public,  
-          placez discrètement un rappel <strong>MORT</strong>  
-          sur le bord gauche du grimoire ;</li>
-      <li>un rappel = une mort potentielle cette nuit-là.</li>
-    </ul>
-  </li>
-
-  <li><strong>Chaque nuit :</strong>
-    <ul style="margin-left:20px;">
-      <li>comptez le nombre de rappels <strong>MORT</strong>  
-          accumulés dans la journée ;</li>
-      <li>pour chaque rappel,  
-          vous pouvez choisir un joueur à tuer :  
-          marquez-le comme <strong>MORT</strong>  
-          et ajoutez un linceul ;</li>
-      <li>vous pouvez tuer moins de joueurs  
-          que le nombre de rappels,  
-          mais jamais plus ;</li>
-      <li>une fois les morts de la nuit décidées,  
-          retirez tous les rappels <strong>DEAD</strong>  
-          utilisés du grimoire.</li>
-    </ul>
-  </li>
-
-  <li><strong>Choix de la phrase :</strong>
-    <ul style="margin-left:20px;">
-      <li>privilégiez une phrase banale mais cohérente  
-          avec la façon de parler du joueur ;</li>
-      <li>si le Démon semble complètement bloqué  
-          pour placer cette phrase,  
-          vous pouvez, au tout début de la partie,  
-          en proposer une autre plus naturelle.</li>
-    </ul>
-  </li>
-
-  <li><strong>Gestion de l’ivresse/du poison :</strong>
-    <ul style="margin-left:20px;">
-      <li>si le <strong>Yaggababble</strong> est ivre ou empoisonné,  
-          ne tuez personne grâce à sa phrase,  
-          même s’il l’a dite plusieurs fois ;</li>
-      <li>si au contraire il est sobre,  
-          vous pouvez l’autoriser à provoquer des morts  
-          même si la phrase a été prononcée  
-          pendant une période d’ivresse passée.</li>
-    </ul>
-  </li>
-
-</ul>
-
----
-
-##  <span style="color:#d45b5b;">Exemples</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-La phrase secrète du <strong>Yaggababble</strong> est  
-« ça me paraît louche ».  
-Le premier jour, il le dit une fois.  
-Cette nuit-là, un joueur meurt.  
-Le lendemain, il prononce « ça me paraît louche »  
-trois fois dans la journée.  
-La nuit suivante, trois joueurs peuvent mourir.
-</p>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Yaggababble</strong> a prononcé sa phrase deux fois aujourd’hui.  
-Une <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> est en jeu.  
-Quand l’<a href="../roles_experimentaux/heretic.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Hérétique</a> nomine,  
-l’<strong>Hérétique</strong> meurt,  
-alors qu’il n’était pas maudit par la <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> :  
-il meurt à cause du <strong>Yaggababble</strong>.  
-Plus tard, le <a href="../roles_experimentaux/golem.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Golem</a> nomine le Démon  
-et meurt également.  
-Les deux morts proviennent  
-de la capacité du <strong>Yaggababble</strong>.
-</p>
-
----
-
-##  <span style="color:#d45b5b;">Astuces & Conseils</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Dites votre phrase régulièrement :  
-      c’est votre source de meurtres.  
-      Multiplier les occurrences dans la journée  
-      vous donne potentiellement plusieurs morts la nuit.</li>
-
-  <li>Mais ne soyez pas trop évident :  
-      une fois par jour est souvent un bon rythme  
-      pour rester discret tout en étant efficace.  
-      Si vous la répétez trop,  
-      le village risque de repérer un tic de langage suspect.</li>
-
-  <li>Assurez-vous que le <strong>Conteur</strong>  
-      vous entende quand vous dites la phrase :  
-      s’il ne l’entend pas,  
-      cela ne vous servira à rien.</li>
-
-  <li>Partagez votre phrase avec vos <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a> :  
-      ils peuvent lancer des sujets de discussion  
-      qui vous permettent de la placer naturellement,  
-      sans que cela paraisse forcé.</li>
-
-  <li>Faites confiance au Conteur  
-      pour récompenser la prise de risque :  
-      si vous placez la phrase plusieurs fois,  
-      il est probable qu’au moins une partie  
-      soit convertie en morts utiles.</li>
-
-  <li>Si vous remarquez que le Conteur  
-      ne tue souvent qu’un seul joueur  
-      même après plusieurs occurrences,  
-      ne prenez plus de risque :  
-      dites la phrase une fois par jour  
-      et jouez comme un Démon plus classique.</li>
-
-  <li>Vos Sbires peuvent eux aussi se choisir  
-      des petites phrases récurrentes  
-      pour brouiller les pistes  
-      et faire croire qu’ils pourraient être le Démon.</li>
-
-  <li>Placez votre phrase  
-      quand il y a peu de monde à l’écoute :  
-      moins il y a d’oreilles,  
-      plus il sera difficile de faire le lien  
-      entre vos mots et les morts nocturnes.</li>
-
-  <li>Repérez les phrases bizarres  
-      que répètent les joueurs bons,  
-      et mettez-les en avant publiquement :  
-      plus il y a de suspects potentiels,  
-      plus votre vraie phrase se fond dans la masse.</li>
-
-  <li>Si la phrase donnée par le Conteur  
-      vous semble vraiment impossible à placer,  
-      demandez-lui rapidement  
-      (au début de la partie)  
-      quelque chose de plus naturel  
-      dans votre bouche.</li>
-
-  <li>Soyez très attentif à la formulation exacte :  
-      si vous reformulez la phrase ou en changez un mot,  
-      le Conteur peut considérer  
-      que la capacité ne se déclenche pas.</li>
-
-</ul>
-
----
-
-##  <span style="color:#d45b5b;">Combattre le Yaggababble</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Écoutez les tournures de phrases  
-      que les joueurs répètent plusieurs fois,  
-      puis comparez-les au nombre de morts nocturnes.  
-      Mieux vaut exécuter un joueur suspect  
-      qui répète une phrase étrange  
-      plutôt que d’ignorer un potentiel <strong>Yaggababble</strong>.</li>
-
-  <li>Sachez que les <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>  
-      peuvent volontairement répéter des phrases  
-      pour masquer le véritable Démon.  
-      Tout joueur qui répète trop souvent  
-      une même expression mérite votre suspicion.</li>
-
-  <li>Observez qui tient à parler  
-      lorsque le <strong>Conteur</strong> est à proximité.  
-      Un vrai <strong>Yaggababble</strong>  
-      veut être sûr que sa phrase est entendue  
-      pour déclencher des morts.</li>
-
-  <li>Si vous pensez qu’un <strong>Yaggababble</strong> est en jeu,  
-      encouragez chacun à être attentif  
-      aux petits tics de langage :  
-      partagez vos observations,  
-      surtout quand une expression  
-      revient le même jour  
-      puis est suivie de plusieurs morts.</li>
-
-</ul>
-
----
+<hr class="explication">
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Démons</a><br>
-   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+  • <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+  • <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Démons</a><br>
+  • <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
