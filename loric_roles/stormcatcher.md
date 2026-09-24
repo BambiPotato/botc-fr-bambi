@@ -39,7 +39,7 @@ image: /images/Icon_stormcatcher.png
       Storm Catcher
     </a>
   </li>
-</ul>
+</ul><br><br>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
   « Une tempête approchait, et je vis, en relevant la tête, <br>
