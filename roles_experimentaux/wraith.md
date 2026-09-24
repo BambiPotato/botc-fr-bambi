@@ -87,9 +87,9 @@ Le Spectre sait et partage ce qui se passe la nuit.
 ## <span style="color:#d45b5b;">Comment Conter</span>
 <hr>
 
-<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+<p class="botc-flavour-text dropcap" style="margin:0;">
 Instructions au Conteur
-</p> 
+</p>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
 • Chaque fois que vous allez réveiller un joueur maléfique pendant la nuit, réveillez le Spectre avant lui. Lorsque ce joueur maléfique se rendort, le Spectre se rendort lui aussi.
