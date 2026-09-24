@@ -184,7 +184,7 @@ Réveillez le joueur bon marqué <strong>« Appris »</strong>. Montrez-lui le j
   <li>🧞
     <img src="../images/Icon_alchemist.png" alt="Alchimiste" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> :  
-    Un <strong>Alchimiste-Veuve</strong> n’a pas de capacité de la Veuve  et une <strong>Veuve</strong> est en jeu. <br> Après chaque exécution, un <strong>Alchimiste-Veuve</strong> en vie peut deviner publiquement quel joueur en vie est la Veuve. <br> S’il a raison, le Démon doit choisir la Veuve cette nuit.
+    Un <strong>Alchimiste-Veuve</strong> n'a pas la capacité de la Veuve et une <strong>Veuve</strong> est en jeu. <br> Après chaque exécution, un <strong>Alchimiste-Veuve</strong> en vie peut deviner publiquement quel joueur en vie est la Veuve. <br> S’il a raison, le Démon doit choisir la Veuve cette nuit.
   </li><br>
 
   <li>🧞
