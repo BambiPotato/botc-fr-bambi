@@ -34,7 +34,7 @@ image: /images/Icon_highpriestess.png
 </p><br><br>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-« Il y a de la vie derrière la personnalité qui utilise les personnalités comme des masques. <br> Il y a des moments où la vie fait tomber le masque et l’abîme répond à l’abîme.  »
+« Il y a de la vie derrière la personnalité <br> qui utilise les personnalités comme des masques. <br> Il y a des moments où la vie fait tomber le masque <br> et l’abîme répond à l’abîme.  »
 </p>
 
 
@@ -78,7 +78,7 @@ Chaque nuit, apprenez à quel joueur vous devriez parler en priorité, selon le 
 </p> 
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
-• <a href="./roles_experimentaux/highpriestess.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retrouvez ici la fiche et le détail du rôle la Grande Prêtresse</a><br>
+• <a href="./roles_experimentaux/highpriestess.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retrouvez ici la fiche et le détail du rôle la Grande Prêtresse</a><br><br>
 • La Grande prêtresse peut voir plusieurs fois le même joueur d’affilée, ou un joueur différent chaque nuit.<br><br>
 • Le joueur qu’elle voit peut être en vie ou mort.<br><br>
 • Le joueur qu’elle voit peut être bon ou maléfique.<br><br>
