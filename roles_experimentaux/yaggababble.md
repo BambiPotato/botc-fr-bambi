@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Yaggablabla
-description: "Lors de votre 1<sup>re</sup> nuit, vous apprenez une phrase secrète. Pour chaque fois que vous l’avez dite publiquement ce jour, un joueur pourrait mourir."
+description: "Lors de votre 1re nuit, vous apprenez une phrase secrète. Pour chaque fois que vous l’avez dite publiquement ce jour, un joueur pourrait mourir."
 image: /images/Icon_yaggababble.png
 ---
 
@@ -103,17 +103,19 @@ Lors de la première nuit, réveillez le Démon. Montrez-lui la phrase, puis le 
 Chaque fois que le Démon prononce la phrase secrète, placez un jeton <strong>« Mort »</strong> au centre de la partie gauche du Grimoire (vous pouvez l’assigner à un joueur cette nuit-là).
 <br><br>
 Chaque nuit, vous pouvez marquer des joueurs de ces jetons <strong>« Mort »</strong> et ajouter un linceul à chaque joueur ainsi marqué. Ces joueurs meurent.
-<br><br>
-Choisissez une phrase assez simple. Si la phrase proposée au Démon est inhabituelle ou trop repérable, il risque de mourir ou de ne pas s’en servir. Si sa phrase est courante et crédible, il sera plus enclin à l’utiliser chaque jour, et même plusieurs fois par jour.
 </p>
+
+<div class="botc-note">
+Choisissez une phrase assez simple. Si la phrase proposée au Démon est inhabituelle ou trop repérable, il risque de mourir ou de ne pas s’en servir. <br> Si sa phrase est courante et crédible, il sera plus enclin à l’utiliser chaque jour, et même plusieurs fois par jour.
+</div>
 
 ## <span style="color:#d45b5b;">Exemples</span>
 <hr>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
-• La phrase du Yaggablabla est : « Je trouve ça louche ! » Le Yaggablabla dit cette phrase une fois dès le premier jour. Cette nuit-là, un joueur meurt. Le lendemain, le Yaggablabla dit trois fois : « Je trouve ça louche. » Cette nuit-là, trois joueurs meurent.
+• La phrase du Yaggablabla est : <em>« Je trouve ça louche ! »</em> Le Yaggablabla dit cette phrase une fois dès le premier jour. Cette nuit-là, un joueur meurt. Le lendemain, le Yaggablabla dit trois fois : <em>« Je trouve ça louche. »</em> Cette nuit-là, trois joueurs meurent.
 <br><br>
-• Le Yaggablabla a dit sa phrase deux fois dans la journée. Il y a une <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> en jeu. Lorsque l' <a href="../roles_experimentaux/heretic.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Hérétique</a> nomme quelqu’un, l’ <a href="../roles_experimentaux/heretic.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Hérétique</a> meurt, même s’il n’a pas été maudit par la <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> . Le <a href="../roles_experimentaux/golem.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Golem</a> nomme le Démon, et meurt. Les deux joueurs sont morts à cause de la capacité du Yaggablabla.
+• Le Yaggablabla a dit sa phrase deux fois dans la journée. Il y a une <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> en jeu. Lorsque l' <a href="../roles_experimentaux/heretic.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Hérétique</a> nomme quelqu’un, l’ <a href="../roles_experimentaux/heretic.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Hérétique</a> meurt, même s’il n’a pas été maudit par la <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a>. <br>Le <a href="../roles_experimentaux/golem.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Golem</a> nomme le Démon, et meurt. Les deux joueurs sont morts à cause de la capacité du Yaggablabla.
 </p>
 
 ## <span style="color:#d45b5b;">Conseils & Astuces</span>
@@ -163,7 +165,7 @@ Choisissez une phrase assez simple. Si la phrase proposée au Démon est inhabit
 ## 🧞 <span style="color:#d45b5b;">Jinxes liés</span>
 <hr>
 
-<ul style="margin-left:40px; color:#f5f5f5; font-size:18px; line-height:1.7;">
+<ul style="margin-left:00px; color:#f5f5f5; font-size:18px; line-height:1.7;">
   <li>
     <img src="../images/Icon_exorcist.png" alt="Exorciste" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../bmr_roles/exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a> : 
