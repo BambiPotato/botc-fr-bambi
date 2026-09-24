@@ -46,7 +46,7 @@ image: /images/Icon_amnesiac.png
 </ul>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-« Attends. Quoi. Qui ? Ah, d’accord. Attends. Quoi ? »
+« Attends. Quoi. Qui ? <br> Ah, d’accord. <br> Attends. Quoi ? »
 </p>
 
 <hr class="villageois">
