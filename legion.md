@@ -76,12 +76,11 @@ Nous sommes Légion. »
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
 « Chaque nuit*, un joueur pourrait mourir. Toute exécution échoue si seul le Mal a voté. Vous apparaissez aussi comme Sbire. [La majorité des joueurs sont Légion] »
-</p><br>
-
+</p>
 
 <p class="botc-flavour-text dropcap" style="margin:0;">
-La <a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> rassemble plusieurs Démons.
-</p><br>
+La <a href="./roles_experimentaux/legion.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Légion</a> rassemble plusieurs Démons.
+</p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
 • <a href="./roles_experimentaux/legion.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retrouvez ici la fiche et le détail du rôle Légion</a>
@@ -283,7 +282,7 @@ Si une interaction est complètement cassée, utilisez le Djinn avec un jinx pou
 
   <li><strong><a href="./roles_experimentaux/summoner.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Invocatrice</a> (Jinx) :</strong> Si l'Invocatrice invoque une <a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a>, la plupart des joueurs (y compris tous les maléfiques) deviennent des <a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> maléfiques.</li>
 
-  <li><strong>Autres rôles maléfiques :</strong> À moins qu'une <a href="./sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a> créée par un <a href="./roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> ne soit en jeu, la <a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> ne peut se retrouver avec d'autres Sbires ou Démons que si une <a href="./sv_roles/pihag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a> maléfique a créé une <a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a>.</li>
+  <li><strong>Autres rôles maléfiques :</strong> À moins qu'une <a href="./sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a> créée par un <a href="./roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> ne soit en jeu, la <a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> ne peut se retrouver avec d'autres Sbires ou Démons que si une <a href="./sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a> maléfique a créé une <a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a>.</li>
 
   <li><strong><a href="./voyageurs/apprentice.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Apprenti</a> :</strong> Peut également être un <a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a>.</li>
 </ul>
@@ -317,11 +316,11 @@ En général, je recommande d'ajouter des Marginaux une fois les Villageois choi
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Les Marginaux ne sont pas recommandés car il est plus amusant que chaque joueur bons détienne une information. Le plaisir d'être de l'équipe du bien face à une <a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> est d'avoir cette information (par exemple que ses deux voisins sont maléfiques) et d'avoir tout le monde affirmant le contraire, mais de garder son instinct et d'aller contre la foule.
+Les Marginaux ne sont pas l'idéal car il est plus amusant que chaque joueur bons détienne une information. Le plaisir d'être de l'équipe du bien face à une <a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Légion</a> est d'avoir cette information (par exemple que ses deux voisins sont maléfiques) et d'avoir tout le monde affirmant le contraire, mais de garder son instinct et d'aller contre la foule.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Les rôles à information ou à capacité unique comme la (<a href="./tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a>, l' <a href="./tb_roles/vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Immaculée</a>) fonctionnent le mieux.
+Les rôles à information ou à capacité unique comme (<a href="./tb_roles/mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a>, ou <a href="./tb_roles/vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Immaculée</a>) fonctionnent mieux.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -419,7 +418,7 @@ Un <a href="./tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; t
 
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
-• <a href="./roles_experimentaux/legion.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">La Légion</a><br>
+• <a href="./roles_experimentaux/legion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">La Légion</a><br>
 • <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a><br>
 • <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a><br>
 • <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a><br>
