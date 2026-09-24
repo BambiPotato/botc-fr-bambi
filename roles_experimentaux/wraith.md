@@ -36,7 +36,7 @@ image: /images/Icon_wraith.png
     <a href="https://wiki.bloodontheclocktower.com/Wraith"
        target="_blank"
        rel="noopener noreferrer"
-       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">
       Wraith
     </a>
   </li>
@@ -107,14 +107,14 @@ Règle optionnelle : Une fois par partie, si un joueur est fou que vous êtes le
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
 • Lors de la première nuit, le Spectre observe à peine les autres joueurs, et repère juste les joueurs bons qui se réveillent et ceux qui ne se réveillent pas. Lors de la deuxième nuit, le Spectre ouvre grand les yeux et repère que Doug a été réveillé et a désigné deux joueurs cette nuit-là. 
 <br><br>
-• Lors de la 3e nuit, lorsque le Spectre et le Démon se réveillent ensemble, le Spectre fait des signes au Démon et lui montre sa fiche de rôles pour lui conseiller de tuer Doug, qu’il soupçonne d’être la <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>..
+• Lors de la 3e nuit, lorsque le Spectre et le Démon se réveillent ensemble, le Spectre fait des signes au Démon et lui montre sa fiche de rôles pour lui conseiller de tuer Doug, qu’il soupçonne d’être la <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>.
 </p>
 
 ## <span style="color:#d45b5b;">Astuces & Conseils</span>
 <hr>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
-• <strong>Regardez tout !</strong> Vous êtes bien plus puissant qu'une <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a> ou une <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a>, car vous pouvez découvrir comment les joueurs bons utilisent leurs capacités. Réveillez-vous avec la  <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> pour voir qui elle désigne, ou réveillez-vous avec le <a href="../roles_experimentaux/nightwatchman..html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Veilleur de nuit</a>  pour savoir qui le confirme. Mais soyez prudent : si vous vous faites attraper, l'équipe bonne pourrait vouloir vous exécuter dès que possible.
+• <strong>Regardez tout !</strong> Vous êtes bien plus puissant qu'une <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a> ou une <a href="../roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a>, car vous pouvez découvrir comment les joueurs bons utilisent leurs capacités. Réveillez-vous avec la  <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> pour voir qui elle désigne, ou réveillez-vous avec le <a href="../roles_experimentaux/nightwatchman.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Veilleur de nuit</a>  pour savoir qui le confirme. Mais soyez prudent : si vous vous faites attraper, l'équipe bonne pourrait vouloir vous exécuter dès que possible.
 <br><br>
 • <strong>Communiquez autant que possible avec vos coéquipiers maléfiques pendant la nuit.</strong> Se réveiller en même temps que les autres joueurs maléfiques est l'un des aspects les plus puissants de votre capacité, car vous pouvez coordonner l'utilisation de leurs capacités. Demandez au <strong>Démon</strong> de vous montrer les fausses pistes lors de la première nuit de la partie. Indiquez au  <a href="../sv_roles/nodashii.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">No Dashii</a>  qui est maudit par la  <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> afin qu'il tue quelqu'un d'autre. Orientez l' <a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> vers un joueur bon que vous avez vu se réveiller plusieurs nuits d'affilée.
 <br><br>
