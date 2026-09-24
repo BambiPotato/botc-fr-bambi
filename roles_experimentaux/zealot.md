@@ -116,13 +116,13 @@ Si un Zélote étourdi oublie de voter, ne comptez pas son vote. Si vous prenez 
 <br><br>
 • <strong>Participez activement aux discussions pour savoir qui devrait être nommé.</strong> Même si vous devez voter lors de chaque nomination, vous pouvez reprendre la main sur les exécutions en convainquant d'autres joueurs de nommer les personnes pour lesquelles vous préférez voter.
 <br><br>
-• <strong>Feignez d'être un rôle qui bénéficie des exécutions des autres joueurs, comme le  <a href="../tb_roles/croquemorts.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a> ou le <a href="../roles_experimentaux/cannibal.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cannibale</a>.</strong> Cela peut semer la confusion parmi les joueurs : votez-vous tout le temps parce que vous êtes le <strong>Zélote</strong>, ou voulez-vous vraiment voir quelqu'un se faire exécuter ?
+• <strong>Feignez d'être un rôle qui bénéficie des exécutions des autres joueurs, comme le  <a href="../tb_roles/croquemort.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fossoyeur</a> ou le <a href="../roles_experimentaux/cannibal.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cannibale</a>.</strong> Cela peut semer la confusion parmi les joueurs : votez-vous tout le temps parce que vous êtes le <strong>Zélote</strong>, ou voulez-vous vraiment voir quelqu'un se faire exécuter ?
 <br><br>
 • <strong>Dites à tout le monde que vous êtes le Zélote.</strong> Si les autres joueurs savent que vous allez voter sur chaque nomination, cela les aidera à décider pour qui ils souhaitent voter.
 <br><br>
 • <strong>Gardez à l'esprit que certains joueurs pourraient vous trouver suspect du fait que vous votez sur tout.</strong>
 <br><br>
-• <strong>Si un Voyageur rejoint la partie, encouragez-le à incarner le <a href="../voyageurs/bureaucrat.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bureaucrate</a> ou la  <a href="../voyageurs/thief.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voleuse</a>!</strong>
+• <strong>Si un Voyageur rejoint la partie, encouragez-le à incarner le <a href="../voyageurs/bureaucrat.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Bureaucrate</a> ou la  <a href="../voyageurs/thief.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voleuse</a>!</strong>
 <br><br>
 • <strong>Travaillez avec votre équipe pour amener la partie jusqu'à un jour où moins de 5 joueurs sont en vie, afin de pouvoir voter comme bon vous semble.</strong>
 <br><br>
