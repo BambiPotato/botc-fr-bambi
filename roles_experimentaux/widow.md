@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Veuve
+description: "Lors de votre 1re nuit, regardez le Grimoire et choisissez un joueur : il est empoisonné. 1 joueur bon sait qu’une Veuve est en jeu."
+image: /images/Icon_widow.png
 ---
 
 <p align="left">
@@ -9,509 +11,219 @@ title: Veuve
   </a>
 </p>
 
+<hr class="explication">
+
 <!-- Veuve / Widow -->
 
-<div style="text-align:center; margin: 20px 0%;">
+<div style="text-align:center; margin: 20px 0;">
   <a href="./widow.html" style="text-decoration:none;">
     <img src="../images/Icon_widow.png" alt="Veuve" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#d45b5b; font-weight:bold; font-size:22px;">Veuve</span>
+    <span style="color:#d45b5b; font-weight:bold; font-size:35px;">🕷️Veuve</span>
   </a>
 </div>
 
-<!-- APPARAÎT DANS -->
-<div style="text-align:center; margin: 20px 0%;">
-  <a href="../experimentaux.html" style="text-decoration:none;">
-    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
-    <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
-  </a>
-</div>
+<hr class="sbire">
 
-# 🕷️ <span style="color:#d45b5b; font-weight:bold; font-size:18px;">Veuve</span>
-
-<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Encore un peu de vin ?  
-  Le Château d’Ergot 2007 est un millésime très spécial.  
-  Oh oui… vraiment très spécial. »
-</p>
-
----
-
-##  <span style="color:#d45b5b;">Informations</span>
+## <span style="color:#d45b5b;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
     <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>
   </li>
   <li>
-  <strong>Nom original :</strong>
-  <a href="https://wiki.bloodontheclocktower.com/Widow"
-     target="_blank"
-     rel="noopener noreferrer"
-     style="color:#d45b5b; font-weight:bold; text-decoration:none;">
-    Widow
-  </a>
-</li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Widow"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+      Widow
+    </a>
+  </li>
   <li><strong>Artiste :</strong> Anica Kelsen</li>
   <li><strong>Révélé :</strong> 7 avril 2020</li>
 </ul>
 
----
-
-##  <span style="color:#d45b5b;">Résumé</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <strong>« Lors de votre première nuit, regardez le grimoire et choisissez un joueur : il est empoisonné.  
-  Un joueur bon sait qu’une Veuve est en jeu. »</strong>
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Goûtez-moi ce vin. <br> Du Château d'Ergot 2007 ! <br> Une cuvée très spéciale. <br> Trrèèèèèès spéciale, croyez-moi. »
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-La <strong>Veuve</strong> voit le grimoire et empoisonne le rôle de son choix.
+<hr class="sbire">
+
+<!-- APPARAÎT DANS -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../experimentaux.html" style="text-decoration:none;">
+    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : Carrousel rôle expérimental</span>
+  </a>
+</div>
+
+## <span style="color:#d45b5b;">Résumé</span>
+<hr class="sbire">
+
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
+« Lors de votre 1re nuit, regardez le Grimoire et choisissez un joueur : il est empoisonné. 1 joueur bon sait qu’une Veuve est en jeu. »
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+La Veuve voit le Grimoire et empoisonne un rôle de son choix.
+</p>
 
-  <li>La <strong>Veuve</strong> agit uniquement lors de sa première nuit :  
-      elle regarde le <strong>grimoire</strong> et choisit un rôle.</li>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• La Veuve agit uniquement lors de la première nuit. Elle empoisonne un joueur.
+<br><br>
+• Le joueur empoisonné par la Veuve le reste jusqu'à ce que la Veuve meurt.
+<br><br>
+• Si la Veuve devient ivre ou empoisonnée, le joueur choisi est temporairement sain, jusqu’à ce que la Veuve soit de nouveau sobre et saine.
+<br><br>
+• La nuit même où la Veuve agit, un joueur bon apprend que la Veuve est en jeu, mais pas de quel joueur il s’agit. Il n’apprend pas quel joueur est empoisonné.
+</p>
 
-  <li>Le joueur correspondant à ce rôle est <strong>empoisonné</strong>  
-      tant que la <strong>Veuve</strong> est vivante.</li>
+## <span style="color:#d45b5b;">Comment Conter</span>
+<hr>
 
-  <li>La même nuit, un <strong>joueur bon</strong> apprend  
-      qu’une <strong>Veuve</strong> est en jeu,  
-      mais ne sait ni qui est la Veuve,  
-      ni qui est empoisonné.</li>
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Instructions au Conteur
+</p>
 
-  <li>Si une Veuve entre en jeu plus tard (par exemple via une  
-      <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a>),  
-      un joueur bon apprend alors qu’une Veuve est en jeu.</li>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Lors de la préparation de la première nuit, marquez un joueur bon du jeton <strong>« Appris »</strong>.
+<br><br>
+La première nuit, réveillez la Veuve et montrez-lui le Grimoire aussi longtemps que nécessaire. La Veuve désigne un jeton de rôle dans le Grimoire. 
+Ce joueur est empoisonné. Marquez-le du jeton <strong>« Empoisonné »</strong>. La Veuve se rendort.
+<br><br>
+Réveillez le joueur bon marqué <strong>« Appris »</strong>. Montrez-lui le jeton Veuve. Ensuite, ce joueur se rendort.
+</p>
 
-</ul>
+<div class="botc-note">
+<strong>Remarque importante :</strong> Lors de la première nuit, la Veuve regarde le Grimoire. Si elle se choisit elle-même, elle devient empoisonnée, ce qui empêche le Conteur de réveiller un joueur bon pour lui apprendre qu'une Veuve est en jeu.
+</div>
 
----
+## <span style="color:#d45b5b;">Exemples</span>
+<hr>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• La Veuve voit le Grimoire et désigne le <a href="../bmr_roles/sailor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a>. Le <a href="../bmr_roles/sailor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a> est empoisonné lors de cette partie. Le <a href="../bmr_roles/sailor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a> est sobre, mais meurt quand il est exécuté.
+<br><br>
+• La troisième nuit, la <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Guenaude</a>  se transforme en Veuve. Cette nuit-là, le <a href="../voyageurs/scapegoat.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Bouc Émissaire</a> (bon) apprend qu'une Veuve est en jeu.
+<br><br>
+• L' <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>  est empoisonné à cause de la Veuve. La Veuve devient ivre à cause de l’ <a href="../bmr_roles/aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a>. L’ <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>  n'est plus empoisonné. L’ <a href="../bmr_roles/aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a> meurt. La Veuve est désormais sobre et l’ <a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a> est empoisonné à nouveau.
+</p>
+
+## <span style="color:#d45b5b;">Conseils & Astuces</span>
+<hr>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• <strong>Tout comme l' <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a>, vous commencez la partie en sachant tout !</strong> Tous les rôles en jeu et les personnes qui les incarnent sont exposés dans le Grimoire. Utilisez cette information pour aider l'équipe maléfique à choisir de bons bluffs, pour fournir des informations qu'ils ne pourraient pas connaître autrement, et pour éliminer les cibles prioritaires. Dans le Grimoire, vous verrez non seulement qui est qui, mais aussi les jetons de rappel du Conteur, ce qui vous permet de suivre les informations avec lesquelles chaque joueur commence.
+<br><br>
+• <strong>Qui choisissez-vous d'empoisonner ?</strong> C'est la question la plus importante que vous devez vous poser. Contrairement à l' <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a>, qui regarde le Grimoire chaque nuit, vous ne regardez le Grimoire qu'une seule fois. Contrairement à l' <a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> , vous pouvez choisir quel rôle empoisonner, et pas seulement quel joueur. Prenez votre temps, observez chaque rôle, et faites le meilleur choix possible. Rien ne sert de vous précipiter.
+<br><br>
+• <strong>En plus de regarder le Grimoire, vous pouvez empoisonner un joueur !</strong> Si vous ne savez pas qui empoisonner, empoisonnez le rôle de Villageois fournissant l'information la plus puissante. Cela garantira des informations épouvantables pour l'équipe bonne tout au long de la partie. L'opportunité d'empoisonner un <a href="../sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a>, une <a href="../bmr_roles/femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de chambre</a>, un <a href="../roles_experimentaux/fisherman.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pêcheur</a>, ou un <a href="../roles_experimentaux/balloonist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aéronaute</a> peut être trop belle pour la laisser passer. Foncez. (Si le rôle le plus puissant ne vous vient pas immédiatement à l'esprit, empoisonnez simplement celui qui vous fait le plus peur !)
+<br><br>
+• <strong>S'il y a un choix évidents et unique pour le rôle à empoisonner, empoisonnez un rôle différent à la place.</strong> Comme l'équipe bonne saura qu'une <strong>Veuve</strong> est en jeu, elle cherchera le choix le plus évident que la <strong>Veuve</strong> aurait pu faire. Si vous ne faites pas le choix le plus évident, l'équipe bonne supposera qu'un Villageois à information puissante est empoisonné alors qu'il ne l'est pas, et qu'un rôle moins probable est sain alors qu'il est empoisonné. Malin !
+<br><br>
+• <strong>De plus, vous pouvez essayer d'empoisonner un joueur qui, selon vous, dirigera les débats du village, dans l'espoir qu'il utilise ses informations (désormais fausses) pour servir vos intérêts.</strong>
+<br><br>
+• <strong>N'empoisonnez pas un joueur que vous pouvez amener le Démon à tuer à la place.</strong> Par exemple, il peut être préférable d'amener le <strong>Démon</strong> à tuer la  <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>  pendant que vous empoisonnez le <a href="../tb_roles/cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuisinier</a>. Comme vous voyez le Grimoire, communiquer au <strong>Démon</strong> les joueurs à tuer en début de partie devrait être assez simple.
+<br><br>
+• <strong>Coordonnez-vous avec votre Démon pour qu'il ne tue pas votre cible empoisonnée</strong> — à moins qu'il ne s'agisse d'un rôle comme la <a href="../tb_roles/gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a>. Sinon, votre empoisonnement risque d'être gâché si un <strong>Démon</strong> avisé cible la même personne que vous en début de partie !
+<br><br>
+• <strong>Faites tout votre possible pour décrédibiliser le joueur qui sait que vous êtes en jeu :</strong> si le village pense qu'il ment, il pensera probablement qu'il ment aussi sur votre présence en jeu ! Vous pouvez le faire de nombreuses manières sociales, mais vous pouvez aussi utiliser votre empoisonnement (soit sur le joueur lui-même, soit sur des Villageois qui pourraient l'innocenter) pour briser la confiance envers ce joueur.
+<br><br>
+• <strong>Lorsqu'un joueur sait que vous êtes en jeu, nier la présence d'un empoisonnement dans la partie sera généralement plus difficile que d'affirmer qu'il touche quelqu'un d'autre.</strong> Vous causez d'immenses dégâts à l'équipe bonne, elle refusera donc d'abandonner l'idée que vous rôdez sans preuve extraordinaire. Réorienter les soupçons sur qui est empoisonné est beaucoup plus raisonnable.
+<br><br>
+• <strong>Si vous êtes un joueur maléfique dans une partie avec une Veuve sur le script, un coup audacieux mais potentiellement très gratifiant est de prétendre avoir reçu l'appel de la Veuve.</strong> Cela pourrait inciter le village à vous faire confiance et à se méfier de leurs propres capacités, même lorsqu'aucun véritable empoisonnement de <strong>Veuve</strong> n'est en jeu.
+<br><br>
+• <strong>Dans les petites parties (à 5, 6, 7 ou 8 joueurs), empoisonnez un rôle qui ne reçoit des informations que la première nuit, comme le <a href="../tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Détective</a> ou l'<a href="../sv_roles/horloger.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Horloger</a>.</strong> Cela garantit que votre empoisonnement aura un impact réel, et évite la situation probable où votre joueur empoisonné meurt tué par le <strong>Démon</strong> ou par exécution avant d'avoir pu obtenir de fausses informations.
+<br><br>
+• <strong>Dans les grandes parties (à 12, 13, 14, 15 joueurs ou plus), évitez d'empoisonner les rôles qui n'obtiennent des informations que la première nuit, et empoisonnez plutôt un rôle qui reçoit des informations chaque nuit, comme la <a href="../bmr_roles/femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de chambre</a>  ou l’<a href="../sv_roles/oracle.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Oracle</a> ou des rôles puissants sans information comme l' <a href="../tb_roles/vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Immaculée</a>  ou l’<a href="../bmr_roles/aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a>.</strong> Dans les grandes parties, il est beaucoup moins probable que votre joueur empoisonné meure par une exécution accidentelle ou tué par le <strong>Démon</strong> avant que vous n'ayez eu l'occasion de discuter avec lui, et vous avez de bien plus grandes chances de coordonner les choses pour que son empoisonnement produise son plein effet.
+<br><br>
+• <strong>Mourez !</strong> Si vous êtes une <strong>Veuve</strong> en vie, alors un joueur bon est empoisonné. Si vous êtes la <strong>Veuve</strong> morte, alors ce joueur n'est plus empoisonné. Cela peut transformer un flux constant de fausses informations en un flux constant de vraies informations — quelque chose de très utile si le joueur bon commençait à soupçonner qu'il était empoisonné.
+<br><br>
+• <strong>Si une Veuve est en jeu, ou si une Veuve n'est pas en jeu mais qu'un joueur maléfique affirme le contraire, convainquez le groupe que vous pensez avoir été empoisonné par la Veuve.</strong> Donnez de vraies informations pour réaliser un joli double-bluff. Si le groupe pense que vous êtes empoisonné par la <strong>Veuve</strong>, vous les convainquez que vous êtes bon tout en détournant leur attention du vrai joueur empoisonné. De plus, si vous prétendez soudainement recevoir de vraies informations, il est possible de convaincre l'équipe bonne que vous étiez empoisonné mais que vous êtes désormais sain, et donc que la <strong>Veuve</strong> est sûrement morte ! Obtenir que l'équipe bonne vous croie bon, pense que le joueur bon empoisonné est sain, et s'imagine avoir tué la <strong>Veuve</strong> alors qu'il n'en est rien... voilà un beau plat de spaghettis bien emmêlé !
+<br><br>
+• <strong>Empoisonnez-vous vous-même pour cacher qu'une Veuve est en jeu.</strong> Une <strong>Veuve</strong> empoisonnée n'a pas de capacité, donc aucun joueur bon n'apprend qu'une <strong>Veuve</strong> est en jeu. Vous n'aurez pas le bénéfice d'un joueur bon empoisonné travaillant contre l'équipe bonne, mais cela impliquera qu'un <strong>Sbire</strong> différent est en jeu. C'est principalement efficace dans les parties à 1 seul <strong>Sbire</strong>. Par exemple, si vous vous empoisonnez et prétendez être un <strong>Marginal</strong> dans une partie à 7 joueurs, cela peut faire croire qu'un <strong>Baron</strong> est en jeu.
+</p>
+
+## <span style="color:#d45b5b;">Combattre la Veuve</span>
+<hr>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• <strong>Contrairement à de nombreux rôles dans Clocktower, la Veuve arrive avec un indice directement intégré : l'appel de la Veuve.</strong> Si vous pouvez vérifier l'alignement d'un joueur qui prétend avoir reçu l'appel de la <strong>Veuve</strong>, vous ferez un grand pas dans la déduction des configurations possibles pour la partie.
+<br><br>
+• <strong>À l'inverse, si vous êtes certain qu'une Veuve est en jeu, vous pouvez faire confiance plus sereinement au joueur qui a affirmé avoir reçu l'appel de la Veuve, car seuls les joueurs bons peuvent recevoir cet appel.</strong> Cependant, n'oubliez pas que les maléfiques peuvent toujours bluffer en prétendant en avoir reçu un ! Si vous vous retrouvez avec deux joueurs affirmant avoir appris qu me <strong>Veuve</strong> est en jeu, vous pouvez être raisonnablement confiant qu'un joueur est bon et que l'autre est maléfique et tente de vous tromper.
+<br><br>
+• <strong>Un joueur bon sait qu'une Veuve est en jeu. Si c'est vous, ne le dites à personne pendant un moment.</strong> Attendez de voir si un joueur maléfique dit avoir appris qu'une <strong>Veuve</strong> est en jeu. Les joueurs maléfiques prétendent souvent être le joueur bon qui a appris la présence de la <strong>Veuve</strong>, et en l'absence de communication entre eux, ils peuvent accidentellement le revendiquer publiquement. Si vous attendez avant de dire ce que vous savez et que vous vous retrouvez face à une double revendication, c'est une excellente nouvelle : vous avez trouvé un joueur maléfique. Ou du moins, un joueur bon qui a une très bonne raison de tromper l'équipe bonne, comme un <a href="../bmr_roles/lunatique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lunatique</a> ou un <a href="../bmr_roles/brute.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gros bras</a>.
+<br><br>
+• <strong>Une fois que l'équipe bonne sait qu'une Veuve est en jeu, encouragez tout le monde à partager toutes ses informations, y compris leurs rôles.</strong> La <strong>Veuve</strong> connaît tous les rôles en jeu, il est donc dans l'intérêt supérieur de l'équipe bonne de tout révéler. Si l'équipe maléfique connaît tous les rôles, autant que l'équipe bonne les connaisse aussi.
+<br><br>
+• <strong>Si vous tuez la Veuve, son empoisonnement prend fin.</strong> Si quelqu'un que vous suspectez d'être un <strong>Sbire</strong> meurt, soyez attentif à vérifier si les informations redeviennent soudainement claires.
+<br><br>
+• <strong>Les Veuves sont très susceptibles d'empoisonner les rôles à information puissants.</strong> Une bonne question à vous poser est de savoir si vous êtes susceptible d'être une cible pour la <strong>Veuve</strong>. Des rôles comme la <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>, ou l' <a href="../roles_experimentaux/balloonist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aéronaute</a> sont des cibles prioritaires puisqu'ils sont des détecteurs de <strong>Démon</strong>. Des rôles comme le <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a>  ou le <a href="../roles_experimentaux/lycanthrope.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lycanthrope</a>  sont également très prioritaires car ils bloquent les morts causées par le <strong>Démon</strong>.
+<br><br>
+• <strong>Dans une partie à 1 seul Sbire, savoir qu'une Veuve est en jeu est une information cruciale car cela vous permet d'éliminer immédiatement tous les autres Sbires.</strong> Si une <strong>Veuve</strong> est en jeu, alors un <a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Gobelin</a> ne peut pas être en jeu.
+<br><br>
+• <strong>Contrairement à l' <a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>, l'empoisonnement de la Veuve ne change pas de joueur.</strong> Si vous parvenez à identifier quel joueur est empoisonné par la <strong>Veuve</strong>, vous êtes en mesure de déterminer immédiatement qu'aucun autre joueur n'a été empoisonné par elle. Si la <strong>Veuve</strong> est la seule source d'empoisonnement sur le script, vous avez alors éliminé l'empoisonnement pour tous les autres rôles.
+<br><br>
+• <strong>Portez une attention particulière aux joueurs qui passent beaucoup de temps à chuchoter ensemble, en particulier le premier jour ;</strong> bien qu'il ne s'agisse pas toujours d'une <strong>Veuve</strong> et de son <strong>Démon</strong>, ils ont souvent plus de choses à se dire que la moyenne des paires de joueurs.
+<br><br>
+• <strong>La Veuve rend beaucoup plus facile pour l'équipe maléfique de revendiquer des rôles qui apprennent le rôle d'autres joueurs, comme le <a href="../sv_roles/reveur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Rêveur</a> ou l' <a href="../tb_roles/bibliothecaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Archiviste</a>, puisqu'ils disposent déjà de cette information.</strong> Gardez cela à l'esprit avant de faire confiance à de tels rôles si la <strong>Veuve</strong> est une possibilité.
+<br><br>
+• <strong>La Veuve est redoutable tout au long de la partie tant qu'elle est en vie.</strong> Si vous avez une piste sur une <strong>Veuve</strong> suspectée, il est toujours dans votre intérêt de l'exécuter pour supprimer totalement son influence insidieuse du village.
+<br><br>
+• <strong>Rappelez-vous, combattre la Veuve c'est comme combattre l'<a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a>, mais la Veuve ne regarde le Grimoire que lors de la première nuit et doit compter entièrement sur sa mémoire.</strong> Cela rend la tâche beaucoup plus difficile dans les parties avec un grand nombre de joueurs, car elle pourrait n'absorber qu'une quantité moindre d'informations cruciales. Contrairement à l' <a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espionne</a>, tout ce qui se produit après la première nuit n'est pas vu par la <strong>Veuve</strong>.
+</p>
 
 ## 🧞 <span style="color:#d45b5b;">Jinxes liés</span>
+<hr>
 
-<ul style="margin-left:40px; color:#f5f5f5; font-size:18px; line-height:1.7; list-style-type:none; padding-left:0;">
+<ul style="margin-left:00px; color:#f5f5f5; font-size:18px; line-height:1.7; list-style-type:none; padding-left:0;">
 
-  <li>
+  <li>🧞
     <img src="../images/Icon_alchemist.png" alt="Alchimiste" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> :  
-    Un <strong>Alchimiste-Veuve</strong> n’a pas de capacité de Veuve  
+    Un <strong>Alchimiste-Veuve</strong> n’a pas de capacité de la Veuve  
     et une <strong>Veuve</strong> est en jeu.  
-    Après chaque exécution, un <strong>Alchimiste-Veuve</strong> vivant  
-    peut désigner publiquement un joueur vivant comme étant la Veuve.  
-    S’il a raison, le <span style="color:#d45b5b; font-weight:bold;">Démon</span> doit choisir la Veuve cette nuit.
-  </li>
+    Après chaque exécution, un <strong>Alchimiste-Veuve</strong> en vie peut deviner publiquement quel joueur en vie est la Veuve.
+    S’il a raison, le Démon doit choisir la Veuve cette nuit.
+  </li><br>
 
-  <li>
+  <li>🧞
     <img src="../images/Icon_damsel.png" alt="Demoiselle" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/damsel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Demoiselle</a> :  
     Si une <strong>Veuve</strong> est (ou a été) en jeu,  
     la <a href="../roles_experimentaux/damsel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Demoiselle</a> est empoisonnée.
-  </li>
+  </li><br>
 
-  <li>
+  <li>🧞
     <img src="../images/Icon_heretic.png" alt="Hérétique" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/heretic.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Hérétique</a> :  
-    Un seul des rôles liés par ce jinx  
-    peut être en jeu à la fois.
-  </li>
+    Un seul des rôles jinxés peut être en jeu.
+  </li><br>
 
-  <li>
+  <li>🧞
     <img src="../images/Icon_magician.png" alt="Magicien" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/magician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Magicien</a> :  
-    Lorsque la <strong>Veuve</strong> voit le grimoire,  
-    les jetons de rôle du <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
+    Lorsque la <strong>Veuve</strong> regarde le grimoire,  
+    les jetons de rôle du Démon  
     et du <a href="../roles_experimentaux/magician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Magicien</a>  
     sont retirés.
-  </li>
+  </li><br>
 
-  <li>
+  <li>🧞
     <img src="../images/Icon_poppygrower.png" alt="Cultivateur de Pavot" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cultivateur de Pavot</a> :  
-    Si le <a href="../roles_experimentaux/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cultivateur de Pavot</a>  
-    a sa capacité,  
-    la <strong>Veuve</strong> ne voit pas le grimoire.
+    <a href="../roles_experimentaux/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Planteur de pavot</a> :  
+    Si le <a href="../roles_experimentaux/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Planteur de pavot</a>  
+    a sa capacité, la <strong>Veuve</strong> ne voit pas le grimoire.
   </li>
 
 </ul>
 
----
+<hr class="explication">
 
-##  <span style="color:#d45b5b;">Comment Conter</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Vous devez choisir qui sait qu’une <strong>Veuve</strong> est en jeu,  
-montrer le grimoire à la Veuve,  
-et gérer le poison sur la durée.
-</p>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li><strong>Préparation de la première nuit :</strong>  
-    choisissez un <strong>joueur ou une joueuse bon·ne</strong>  
-    et marquez-le ou la avec le rappel <strong>KNOW</strong>  
-    (SAIT / WIDOW IN PLAY).
-  </li>
-
-  <li><strong>Première nuit – Veuve :</strong>
-    <ul style="margin-left:20px;">
-      <li>réveillez la <strong>Veuve</strong> ;</li>
-      <li>montrez-lui le <strong>grimoire complet</strong>  
-          aussi longtemps qu’elle en a besoin ;</li>
-      <li>la <strong>Veuve</strong> pointe un jeton de rôle dans le grimoire ;</li>
-      <li>marquez ce jeton avec un rappel <strong>POISONNÉ</strong> (POISONED) ;</li>
-      <li>rendormez la <strong>Veuve</strong> ;</li>
-      <li>le joueur correspondant est empoisonné  
-          tant que la <strong>Veuve</strong> est vivante  
-          (sauf si une autre capacité change cet état).</li>
-    </ul>
-  </li>
-
-  <li><strong>La première nuit le joueur qui “sait” :</strong>
-    <ul style="margin-left:20px;">
-      <li>réveillez le joueur marqué <strong>SAIT</strong> ;</li>
-      <li>montrez-lui le jeton de rôle de la <strong>Veuve</strong> ;</li>
-      <li>rendormez ce joueur.</li>
-    </ul>
-  </li>
-
-  <li>Si une nouvelle <strong>Veuve</strong> apparaît plus tard (par exemple via une  
-      <a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a>) :
-    <ul style="margin-left:20px;">
-      <li>répétez ce processus :  
-          la nouvelle Veuve voit le grimoire,  
-          choisit un joueur à empoisonner,  
-          et un nouveau joueur bon reçoit le jeton d’info de la Veuve.</li>
-    </ul>
-  </li>
-
-  <li>Si la <strong>Veuve</strong> est <strong>ivre ou empoisonnée</strong>  
-      au moment où elle devrait empoisonner un joueur,  
-      appliquez les règles habituelles d’ivresse / d’empoisonnement  
-      (elle peut par exemple ne pas réussir à empoisonner la bonne cible).</li>
-
-</ul>
-
----
-
-##  <span style="color:#d45b5b;">Exemples</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-La <strong>Veuve</strong> voit le grimoire et pointe le  
-<a href="../bmr_roles/sailor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a>.  
-Le <a href="../bmr_roles/sailor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a> est empoisonné pour toute la partie.  
-Il est censé être sobre et survivre aux exécutions,  
-mais comme il est empoisonné, il meurt lorsqu’il est exécuté.
-</p>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-La troisième nuit, la  
-<a href="../sv_roles/pithag.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pit-Hag</a>  
-se transforme en <strong>Veuve</strong>.  
-Cette nuit-là, le <a href="../voyageurs/scapegoat.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Bouc Émissaire</a> bon  
-apprend qu’une Veuve est en jeu.
-</p>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-L’<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a> est empoisonné par la <strong>Veuve</strong>.  
-La <strong>Veuve</strong> devient ensuite ivre à cause de  
-l’<a href="../bmr_roles/aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a>.  
-L’<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a> n’est plus empoisonné pendant cette période.  
-Quand l’<a href="../bmr_roles/aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a> meurt,  
-la <strong>Veuve</strong> redevient sobre  
-et l’<a href="../tb_roles/empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathique</a> est de nouveau empoisonné.
-</p>
-
----
-
-##  <span style="color:#d45b5b;">Astuces & Conseils</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Comme l’<a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espion</a>,  
-      vous commencez la partie en sachant <strong>tout</strong> :  
-      tous les rôles en jeu et qui les possède  
-      sont visibles dans le grimoire.  
-      Utilisez ces informations pour :
-      <ul style="margin-left:20px;">
-        <li>aider le Mal à choisir de bons bluffs ;</li>
-        <li>donner des infos que vous ne devriez normalement pas connaître ;</li>
-        <li>identifier des cibles prioritaires pour le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.</li>
-      </ul>
-      Vous voyez aussi les rappels du Conteur,  
-      ce qui permet de suivre qui a déjà des informations en main.
-  </li>
-
-  <li><strong>Qui empoisonner ?</strong>  
-      C’est la question la plus importante.  
-      Contrairement à l’<a href="../tb_roles/empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a>  
-      qui agit chaque nuit,  
-      vous ne voyez le grimoire qu’une seule fois.  
-      Vous pouvez choisir le <strong>personnage</strong> précis,  
-      pas seulement le joueur.  
-      Prenez votre temps, regardez chaque jeton  
-      et choisissez soigneusement :  
-      il n’y a aucune raison de se presser.
-  </li>
-
-  <li>Si vous hésitez, empoisonnez le <strong>rôle d’information</strong>  
-      qui vous semble le plus dangereux :  
-      un <a href="../sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a>,  
-      une <a href="../bmr_roles/femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de Chambre</a>,  
-      un <a href="../roles_experimentaux/fisherman.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pêcheur</a>,  
-      ou un <a href="../roles_experimentaux/balloonist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aéronaute</a>  
-      peuvent ruiner la partie des Maléfiques s’ils sont sobres.  
-      Les empoisonner garantit un flux d’informations pourries  
-      pour toute la partie.
-  </li>
-
-  <li>Si un choix semble <strong>trop évident</strong>  
-      (par exemple la <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>  
-      ou le <a href="../tb_roles/cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuistot</a>),  
-      envisagez d’empoisonner quelqu’un d’autre.  
-      Le Bien sait qu’une <strong>Veuve</strong> est en jeu  
-      et cherchera la cible la plus logique pour le poison.  
-      En choisissant un rôle moins évident,  
-      vous les poussez à suspecter le mauvais joueur  
-      et à faire confiance à un rôle en réalité empoisonné.
-  </li>
-
-  <li>Vous pouvez aussi empoisonner un joueur  
-      qui influence beaucoup les discussions du village.  
-      S’il répand des informations fausses  
-      tout en ayant l’air crédible,  
-      il fera une bonne partie du travail du Mal à votre place.
-  </li>
-
-  <li>N’empoisonnez pas une cible  
-      que le <span style="color:#d45b5b; font-weight:bold;">Démon</span> peut simplement tuer.  
-      Par exemple, laissez le <span style="color:#d45b5b; font-weight:bold;">Démon</span> tuer la  
-      <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a>  
-      pendant que vous empoisonnez le  
-      <a href="../tb_roles/cuistot.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cuistot</a>.  
-      Comme vous avez vu le grimoire,  
-      indiquer des cibles de meurtre au <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
-      est très facile au début.
-  </li>
-
-  <li>Coordonnez-vous avec le <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
-      pour qu’il ne tue pas la personne que vous avez empoisonnée,  
-      sauf si c’est un rôle qui se déclenche à sa mort  
-      (par exemple le <a href="../tb_roles/gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gardien</a>).  
-      Sinon, vous gaspillez votre précieux poison  
-      alors que vous n’agissez qu’une seule nuit.
-  </li>
-
-  <li>Essayez de discréditer la personne qui sait qu’une Veuve est en jeu.  
-      Si le village commence à la prendre pour une menteuse,  
-      il doutera de tout ce qu’elle affirme,  
-      y compris de l’existence même de la <strong>Veuve</strong>.  
-      Vous pouvez empoisonner directement cette personne,  
-      ou empoisonner des rôles qui pourraient la confirmer.
-  </li>
-
-  <li>Comme quelqu’un sait qu’une <strong>Veuve</strong> est en jeu,  
-      il est généralement plus difficile de nier  
-      l’existence du poison dans la partie  
-      que de prétendre qu’il se trouve ailleurs.  
-      Le Bien ne voudra pas lâcher l’idée  
-      qu’un poison circule.  
-      Il est plus efficace de les convaincre  
-      que le mauvais joueur est empoisonné.
-  </li>
-
-  <li>Si vous êtes n’importe quel joueur maléfique  
-      sur un script qui inclut la <strong>Veuve</strong>,  
-      un jeu risqué mais potentiellement très rentable  
-      consiste à prétendre que vous avez reçu « l’alerte Veuve »  
-      (le fameux joueur bon qui sait).  
-      Cela peut vous faire gagner la confiance du village  
-      et semer le doute sur les informations des autres.
-  </li>
-
-  <li>Dans les petites parties (5 à 8 joueurs),  
-      empoisonnez plutôt un rôle qui n’obtient des infos  
-      que la première nuit,  
-      comme l’<a href="../tb_roles/enqueteur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Enquêteur</a>  
-      ou l’<a href="../sv_roles/horloger.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Horloger</a>.  
-      Vous êtes sûr que leur information sera fausse,  
-      et il est moins probable qu’ils meurent  
-      avant d’avoir pu parler.
-  </li>
-
-  <li>Dans les grandes parties (+ de 12 joueurs),  
-      évitez les rôles à information « première nuit seulement »  
-      et ciblez plutôt ceux qui agissent chaque nuit  
-      (comme la <a href="../bmr_roles/femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de Chambre</a>  
-      ou l’<a href="../sv_roles/oracle.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Oracle</a>),  
-      ou bien des rôles de soutien puissants  
-      comme la <a href="../tb_roles/vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Vierge</a>  
-      ou l’<a href="../bmr_roles/aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a>.
-  </li>
-
-  <li><strong>Mourir peut être une bonne idée.</strong>  
-      Tant que la <strong>Veuve</strong> est vivante,  
-      un bon joueur est empoisonné.  
-      Une fois la <strong>Veuve</strong> morte,  
-      ce joueur n’est plus empoisonné.  
-      Passer d’un flux d’informations fausses  
-      à un flux d’informations vraies  
-      peut être extrêmement perturbant  
-      pour le village… dans un sens ou dans l’autre.
-  </li>
-
-  <li>Si une Veuve est en jeu  
-      (ou si une Veuve n’est pas en jeu mais qu’un joueur maléfique prétend le contraire),  
-      un bon plan peut être de convaincre le groupe  
-      que <strong>vous</strong> êtes empoisonné par la Veuve.  
-      Donnez alors de <strong>vraies</strong> informations.  
-      Le village vous croira bon  
-      tout en se trompant sur la véritable cible du poison.  
-      Plus tard, vous pouvez même dire  
-      que vos infos sont redevenues fiables  
-      pour faire croire que la Veuve est morte.
-  </li>
-
-  <li>Vous pouvez aussi choisir de vous empoisonner vous-même  
-      (via d’autres effets) pour cacher qu’une Veuve est en jeu.  
-      Une Veuve empoisonnée n’a pas de capacité :  
-      aucun joueur bon n’apprend qu’elle est en jeu.  
-      Cela peut faire croire à la présence d’un autre Sbire,  
-      surtout dans les parties à un seul Sbire.
-  </li>
-
-</ul>
-
----
-
-##  <span style="color:#d45b5b;">Combattre la Veuve</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Contrairement à beaucoup d’autres rôles,  
-      la <strong>Veuve</strong> arrive avec un indice intégré :  
-      un joueur bon sait qu’une Veuve est en jeu.  
-      Si vous pouvez vérifier l’alignement de ce joueur,  
-      vous aurez un excellent point de départ  
-      pour comprendre la partie.
-  </li>
-
-  <li>Si vous êtes certain qu’une <strong>Veuve</strong> est en jeu,  
-      vous pouvez avoir davantage confiance  
-      en la personne qui affirme avoir reçu cette info,  
-      car seul un joueur bon peut réellement la recevoir.  
-      Mais méfiez-vous :  
-      un joueur maléfique peut parfaitement bluffer  
-      et prétendre être ce messager.</li>
-
-  <li>Si deux joueurs prétendent avoir appris  
-      qu’une Veuve est en jeu,  
-      vous pouvez supposer qu’au moins l’un des deux  
-      est maléfique (ou un rôle spécial  
-      comme un <a href="../bmr_roles/brute.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Brute</a>  
-      ou un <a href="../bmr_roles/lunatique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lunatique</a>  
-      ayant une bonne raison de mentir).  
-      Un double-claim ici est une excellente source de soupçons.
-  </li>
-
-  <li>Si c’est vous qui savez qu’une Veuve est en jeu,  
-      ne le dites pas forcément tout de suite.  
-      Attendez de voir si quelqu’un d’autre  
-      revendique cette information.  
-      En cas de double-claim,  
-      vous aurez presque sûrement trouvé un ennemi.
-  </li>
-
-  <li>Une fois que tout le monde sait  
-      qu’une <strong>Veuve</strong> est en jeu,  
-      encouragez les joueurs à partager leurs informations  
-      et même leurs personnages.  
-      La Veuve connaît déjà la répartition des rôles,  
-      donc le Bien ne perd rien  
-      à mettre les cartes sur table.
-  </li>
-
-  <li>Si vous pensez avoir identifié la <strong>Veuve</strong>,  
-      essayez de l’exécuter :  
-      cela met fin définitivement à son poison.  
-      Observez si, après la mort de ce suspect,  
-      les informations deviennent soudainement plus cohérentes.
-  </li>
-
-  <li>Gardez en tête que la <strong>Veuve</strong>  
-      cible souvent les rôles d’information les plus puissants.  
-      Demandez-vous : « Si j’étais la Veuve,  
-      qui aurais-je empoisonné ? »  
-      Les <a href="../tb_roles/voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyantes</a>,  
-      <a href="../roles_experimentaux/balloonist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aéronautes</a>,  
-      <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moines</a>  
-      ou <a href="..roles_experimentaux/lycanthrope.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lycanthrope</a>  
-      sont souvent en haut de la liste.
-  </li>
-
-  <li>Dans une partie à un seul Sbire,  
-      savoir qu’une <strong>Veuve</strong> est en jeu  
-      signifie qu’aucun autre Sbire  
-      (comme le <a href="../roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Goblin</a>)  
-      ne peut exister.  
-      Cela réduit fortement l’espace des possibilités.
-  </li>
-
-  <li>La Veuve empoisonne toujours le <strong>même</strong> joueur.  
-      Si vous réussissez à identifier  
-      qui est empoisonné,  
-      vous pouvez en déduire que les autres joueurs  
-      ne le sont pas (sauf autres sources de poison).  
-      Si la Veuve est la seule source de poison du script,  
-      cela simplifie énormément vos raisonnements.
-  </li>
-
-  <li>Surveillez les joueurs  
-      qui passent beaucoup de temps à chuchoter  
-      avec les mêmes personnes au premier jour.  
-      Ce n’est pas une preuve,  
-      mais une Veuve et son <span style="color:#d45b5b; font-weight:bold;">Démon</span>  
-      ont beaucoup à se dire au début.
-  </li>
-
-  <li>La Veuve facilite énormément les bluffs  
-      de rôles qui apprennent les personnages des autres,  
-      comme le <a href="../sv_roles/reveur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Rêveur</a>  
-      ou le <a href="../tb_roles/bibliothecaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bibliothécaire</a>.  
-      Le Mal peut prétendre être l’un de ces rôles  
-      tout en donnant des infos parfaitement cohérentes,  
-      puisqu’il a vu le grimoire.  
-      Ne faites pas confiance trop vite à ces personnages  
-      si une Veuve est possible.
-  </li>
-
-  <li>La <strong>Veuve</strong> reste dangereuse  
-      tant qu’elle est vivante.  
-      Si vous avez une piste solide sur son identité,  
-      l’exécuter est presque toujours bénéfique,  
-      même si elle n’est pas le <span style="color:#d45b5b; font-weight:bold;">Démon</span>.
-  </li>
-
-  <li>Combattre la Veuve,  
-      c’est un peu comme combattre l’<a href="../tb_roles/espion.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Espion</a> :  
-      un ennemi qui voit le grimoire.  
-      Mais la Veuve ne le voit qu’une seule fois,  
-      lors de la première nuit,  
-      et doit tout retenir de mémoire.  
-      Dans les grandes parties,  
-      cela limite la quantité d’informations  
-      qu’elle peut réellement exploiter.
-  </li>
-
-</ul>
-
----
-
-<p style="text-align:left; font-size:18px; margin-top:20px;">
-   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Sbires</a><br>
-   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+<p style="text-align:left; font-size:18px; margin-top:0px;">
+  • <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+  • <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Sbires</a><br>
+  • <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
