@@ -113,7 +113,7 @@ Choisissez une phrase assez simple. Si la phrase proposée au Démon est inhabit
 <hr>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
-• La phrase du Yaggablabla est : <em>« Je trouve ça louche ! »</em> Le Yaggablabla dit cette phrase une fois dès le premier jour. Cette nuit-là, un joueur meurt. Le lendemain, le Yaggablabla dit trois fois : <em>« Je trouve ça louche. »</em> Cette nuit-là, trois joueurs meurent.
+• La phrase du Yaggablabla est : <em>« Je trouve ça louche ! »</em> Le Yaggablabla dit cette phrase une fois dès le premier jour. Cette nuit-là, un joueur meurt. Le lendemain, le Yaggablabla dit trois fois : <em>« Je trouve ça louche ».</em> <br> Cette nuit-là, trois joueurs meurent.
 <br><br>
 • Le Yaggablabla a dit sa phrase deux fois dans la journée. Il y a une <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a> en jeu. Lorsque l' <a href="../roles_experimentaux/heretic.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Hérétique</a> nomme quelqu’un, l’ <a href="../roles_experimentaux/heretic.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Hérétique</a> meurt, même s’il n’a pas été maudit par la <a href="../sv_roles/sorciere.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sorcière</a>. <br>Le <a href="../roles_experimentaux/golem.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Golem</a> nomme le Démon, et meurt. Les deux joueurs sont morts à cause de la capacité du Yaggablabla.
 </p>
@@ -122,44 +122,44 @@ Choisissez une phrase assez simple. Si la phrase proposée au Démon est inhabit
 <hr>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
-• Répétez votre phrase aussi souvent que vous le pouvez ! C'est ainsi que vous obtenez des morts : après tout, vous pouvez vraiment décupler l'impact de votre capacité en accumulant un grand nombre de morts chaque nuit.
+• <strong>Répétez votre phrase aussi souvent que vous le pouvez !</strong> C'est ainsi que vous obtenez des morts : après tout, vous pouvez vraiment décupler l'impact de votre capacité en accumulant un grand nombre de morts chaque nuit.
 <br><br>
-• Soyez économe, environ une fois par jour, sur la fréquence à laquelle vous la prononcez afin de dissimuler la phrase au village. Vous ne voulez pas vous trahir en rendant votre phrase trop évidente. Une fois par jour reste toutefois un bon point de repère pour continuer à imiter le rythme d'autres Démons.
+• <strong>Soyez économe,</strong> environ une fois par jour, sur la fréquence à laquelle vous la prononcez afin de dissimuler la phrase au village. Vous ne voulez pas vous trahir en rendant votre phrase trop évidente. Une fois par jour reste toutefois un bon point de repère pour continuer à imiter le rythme d'autres Démons.
 <br><br>
-• Assurez-vous que lorsque vous prononcez votre phrase, le Conteur puisse vous entendre. S'il ne vous entend pas, cela ne produira aucun effet, si ce n'est risquer de vous démasquer en la répétant trop souvent.
+• <strong>Assurez-vous que lorsque vous prononcez votre phrase, le Conteur puisse vous entendre.</strong> S'il ne vous entend pas, cela ne produira aucun effet, si ce n'est risquer de vous démasquer en la répétant trop souvent.
 <br><br>
-• Partagez la phrase avec vos Sbires : ils peuvent vous offrir des perches dans la conversation pour amener votre phrase et faire en sorte que tout paraisse naturel plutôt que forcé.
+• <strong>Partagez la phrase avec vos Sbires :</strong> ils peuvent vous offrir des perches dans la conversation pour amener votre phrase et faire en sorte que tout paraisse naturel plutôt que forcé. 
 <br><br>
-• Faites confiance au Conteur pour vous récompenser du risque pris en la disant souvent : vous pouvez tenter de caser quelques répétitions supplémentaires pour obtenir deux ou trois morts de plus si cela vous mène plus vite vers la fin de partie.
+• <strong>Faites confiance au Conteur pour vous récompenser du risque pris en la disant souvent :</strong> vous pouvez tenter de caser quelques répétitions supplémentaires pour obtenir deux ou trois morts de plus si cela vous mène plus vite vers la fin de partie.
+<br><br> 
+• <strong>«Si le Conteur ne vous récompense pas lorsque vous répétez la phrase plusieurs fois, ne vous embêtez pas.</strong> Vous pouvez prononcer votre phrase une fois par jour et rester un Démon très efficace. 
 <br><br>
-• Si le Conteur ne vous récompense pas lorsque vous répétez la phrase plusieurs fois, ne vous embêtez pas. Vous pouvez prononcer votre phrase une fois par jour et rester un Démon très efficace.
+• <strong>Vos Sbires peuvent également choisir leurs propres phrases étranges à répéter,</strong> afin de faire croire en fin de partie qu'ils pourraient être le Démon.
 <br><br>
-• Vos Sbires peuvent également choisir leurs propres phrases étranges à répéter, afin de faire croire en fin de partie qu'ils pourraient être le Démon.
+• <strong>«Prononcez vos phrases lorsqu'il y a moins de monde autour de vous :</strong> si moins de personnes l'entendent, moins de monde pourra faire le lien avec le nombre de fois où vous l'avez dite. 
 <br><br>
-• Prononcez vos phrases lorsqu'il y a moins de monde autour de vous : si moins de personnes l'entendent, moins de monde pourra faire le lien avec le nombre de fois où vous l'avez dite.
+• <strong>Portez une attention particulière aux phrases que les bons joueurs répètent</strong> plus d'une fois et attirez l'attention dessus. Plus il y a de candidats pour des phrases de Yaggablabla, plus votre propre phrase peut rester cachée.
 <br><br>
-• Portez une attention particulière aux phrases que les bons joueurs répètent plus d'une fois et attirez l'attention dessus. Plus il y a de candidats pour des phrases de Yaggablabla, plus votre propre phrase peut rester cachée.
+• <strong>Si le Conteur vous donne une phrase inhabituelle</strong> que vous ne savez pas comment amener dans une conversation, vous pouvez lui en demander une plus courante lors du premier jour.
 <br><br>
-• Si le Conteur vous donne une phrase inhabituelle que vous ne savez pas comment amener dans une conversation, vous pouvez lui en demander une plus courante lors du premier jour.
+• <strong>Assurez-vous d'être certain de prononcer exactement la phrase qui vous a été donnée :</strong> ne reformulez pas la phrase, sinon le Conteur pourrait ne pas vous accorder les morts.
 <br><br>
-• Assurez-vous d'être certain de prononcer exactement la phrase qui vous a été donnée : ne reformulez pas la phrase, sinon le Conteur pourrait ne pas vous accorder les morts.
-<br><br>
-• Prononcez des phrases au sens proche de votre véritable phrase pour brouiller les pistes et convaincre le groupe que vous tentez de faire passer une idée générale, et non de répéter une seule et même phrase.
+• <strong>Prononcez des phrases au sens proche de votre véritable phrase pour brouiller les pistes</strong> et convaincre le groupe que vous tentez de faire passer une idée générale, et non de répéter une seule et même phrase.
 <br><br>
 • Choisissez une seconde phrase à répéter qui ne correspond pas à vos morts. Cela peut vous donner l'air d'un Sbire qui tente de couvrir un Yaggablabla.
 <br><br>
-• Variez l'intonation et le rythme de votre phrase pour qu'elle soit moins reconnaissable en tant que répétition.
+• <strong>Variez l'intonation</strong> et le rythme de votre phrase pour qu'elle soit moins reconnaissable en tant que répétition.
 </p>
 
 ## <span style="color:#d45b5b;">Combattre le Yaggababble</span>
 <hr>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
-• Surveillez les phrases étranges qui se répètent et comparez-les aux morts causées par le Démon la nuit. En cas de doute, cela vaut probablement la peine d'exécuter les joueurs qui réutilisent des phrases, juste au cas où, même s'il y a de fortes chances qu'ils soient bons.
+• <strong>Surveillez</strong> les phrases étranges qui se répètent et comparez-les aux morts causées par le Démon la nuit. En cas de doute, cela vaut probablement la peine d'exécuter les joueurs qui réutilisent des phrases, juste au cas où, même s'il y a de fortes chances qu'ils soient bons.
 <br><br>
-• Gardez à l'esprit que les Sbires peuvent répéter des phrases pour tenter de masquer la phrase du Yaggablabla : tout joueur qui répète une phrase donnée trop souvent doit être traité avec une grande méfiance !
+• <strong>Gardez à l'esprit</strong> que les Sbires peuvent répéter des phrases pour tenter de masquer la phrase du Yaggablabla : tout joueur qui répète une phrase donnée trop souvent doit être traité avec une grande méfiance !
 <br><br>
-• Observez les joueurs qui semblent impatients de parler lorsque le Conteur écoute : un véritable Yaggablabla voudra s'assurer que le Conteur l'entend lorsqu'il prononce sa phrase, et priorisera donc la parole lorsque le Conteur est à proximité.
+• <strong>Observez les joueurs</strong> qui semblent impatients de parler lorsque le Conteur écoute : un véritable Yaggablabla voudra s'assurer que le Conteur l'entend lorsqu'il prononce sa phrase, et priorisera donc la parole lorsque le Conteur est à proximité.
 </p>
 
 ## 🧞 <span style="color:#d45b5b;">Jinxes liés</span>
