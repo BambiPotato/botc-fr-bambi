@@ -11,438 +11,186 @@ image: images/Icon_wizard.png
   </a>
 </p>
 
+<hr class="explication">
+
 <!-- Wizard -->
 
-<div style="text-align:center; margin: 20px 0%;">
+<div style="text-align:center; margin: 20px 0;">
   <a href="./wizard.html" style="text-decoration:none;">
     <img src="../images/Icon_wizard.png" alt="Wizard" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#d45b5b; font-weight:bold; font-size:22px;">Mage</span>
+    <span style="color:#d45b5b; font-weight:bold; font-size:35px;">Mage</span>
   </a>
 </div>
 
-<!-- APPARAÎT DANS -->
-<div style="text-align:center; margin: 20px 0%;">
-  <a href="../experimentaux.html" style="text-decoration:none;">
-    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
-    <br>
-    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : The Carousel Expérimental</span>
-  </a>
-</div>
+<hr class="sbire">
 
-
-<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-  « Tout homme et toute femme est une étoile.  
-  L’amour est la loi, l’amour sous la volonté. »
-</p>
-
----
-
-##  <span style="color:#d45b5b;">Informations</span>
+## <span style="color:#d45b5b;">Informations</span>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li><strong>Type :</strong>
     <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>
   </li>
   <li>
-  <strong>Nom original :</strong>
-  <a href="https://wiki.bloodontheclocktower.com/Wizard"
-     target="_blank"
-     rel="noopener noreferrer"
-     style="color:#d45b5b; font-weight:bold; text-decoration:none;">
-    Wizard
-  </a>
-</li>
+    <strong>Nom original :</strong>
+    <a href="https://wiki.bloodontheclocktower.com/Wizard"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">
+      Wizard
+    </a>
+  </li>
   <li><strong>Artiste :</strong> Lachlan Bastiaen</li>
   <li><strong>Révélé :</strong> 3 janvier 2025</li>
 </ul>
 
----
-
-##  <span style="color:#d45b5b;">Résumé</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>« Une fois par partie, choisissez de faire un vœu. S’il est exaucé, il pourrait avoir un prix et laisser un indice sur sa nature.»</strong>
+<p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
+« Chaque homme et chaque femme est une étoile. <br> L'amour est la loi, l'amour sous la volonté. »
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Mage</strong> fait un vœu.
+<hr class="sbire">
+
+<!-- APPARAÎT DANS -->
+<div style="text-align:center; margin: 20px 0;">
+  <a href="../experimentaux.html" style="text-decoration:none;">
+    <img src="../images/carousel.png" alt="The Carousel Expérimental" width="260" style="border-radius:12px;">
+    <br>
+    <span style="color:#e0b97a; font-weight:bold; font-size:20px;">🎠 Apparaît dans : Carrousel rôle expérimental</span>
+  </a>
+</div>
+
+## <span style="color:#d45b5b;">Résumé</span>
+<hr class="sbire">
+
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
+« Une fois par partie, choisissez de faire un vœu. S’il est exaucé, il pourrait avoir un prix et laisser un indice sur sa nature. »
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Une fois par partie, le <strong>Mage</strong> peut choisir de faire un <strong>vœu</strong>.  
-      Ce vœu n’est limité que par son imagination :  
-      il peut concerner les rôles, les règles, les informations, la victoire, etc.</li>
-
-  <li>Le <strong>Mage</strong> peut :
-    <ul style="margin-left:20px;">
-      <li>écrire son vœu sur son téléphone et le montrer au Conteur la nuit ;</li>
-      <li>parler au Conteur en privé pendant la journée ;</li>
-      <li>ou même déclarer son vœu publiquement s’il le souhaite.</li>
-    </ul>
-  </li>
-
-  <li>Le Conteur peut annoncer au groupe que le <strong>Mage</strong> a fait un vœu,  
-      mais n’est pas obligé de le faire immédiatement.  
-      Il peut le déclarer plus tard dans la partie.</li>
-
-  <li>Beaucoup de vœux ont un <strong>prix</strong> :  
-      ce prix modifie la partie d’une manière ou d’une autre,  
-      ou altère le vœu pour qu’il reste équilibré.  
-      Le prix est décidé par le Conteur et peut être expliqué au Wizard… ou non.</li>
-
-  <li>Beaucoup de vœux laissent aussi un <strong>indice</strong> :  
-      un élément public qui donne une piste sur la nature du vœu.  
-      L’indice est choisi par le Conteur et annoncé au groupe.</li>
-
-  <li>Le but du <strong>prix</strong> est de rééquilibrer un vœu  
-      trop fort sur le plan mécanique.  
-      Le but de l’<strong>indice</strong> est de rééquilibrer un vœu  
-      trop fort sur le plan informationnel.</li>
-
-  <li>Lorsque le <strong>Mage</strong> meurt,  
-      le vœu peut continuer à produire ses effets… ou non,  
-      selon la nature du vœu et du prix décidé par le Conteur.</li>
-
-  <li>Si le <strong>Mage</strong> formule un vœu que le Conteur ne comprend pas,  
-      ou qu’il juge impossible à appliquer,  
-      le Conteur peut demander au Mage de formuler un autre vœu  
-      ou simplement annuler le vœu.</li>
-
-</ul>
-
-
----
-
-##  <span style="color:#d45b5b;">Comment Conter</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Conter le <strong>Mage</strong> est délicat.  
-Le rôle est généralement plus amusant pour tout le monde  
-lorsque tous les vœux sont exaucés,  
-que tous les vœux ont un prix  
-et que tous les vœux laissent un indice.  
-Mais vous devez surtout garder la partie jouable et équitable.
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Le Mage formule un vœu.
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li><strong>Lorsque le Mage fait un vœu :</strong>
-    <ul style="margin-left:20px;">
-      <li>Le vœu peut être formulé à voix haute, à l’écrit, en privé ou en public.</li>
-      <li>Décidez d’abord si vous <strong>acceptez</strong> ou <strong>refusez</strong> le vœu.</li>
-      <li>Si vous le refusez, invitez le Mage à faire un autre vœu  
-          ou dites-lui qu’il n’a plus de vœux.</li>
-    </ul>
-  </li>
-
-  <li><strong>Si le vœu est accepté :</strong>
-    <ul style="margin-left:20px;">
-      <li>signalez que le vœu est exaucé, par exemple en disant  
-          « Ton vœu est exaucé » ou « Tes désirs sont des ordres »,  
-          ou simplement par un signe clair ;</li>
-      <li>maintenant ou plus tard, décidez d’un <strong>prix</strong> :  
-          appliquez au besoin des ajustements mécaniques  
-          pour que le vœu reste équilibré ;</li>
-      <li>maintenant ou plus tard, annoncez publiquement  
-          que le Mage a fait un vœu,  
-          puis donnez au groupe un <strong>indice</strong>  
-          sur la nature de ce vœu.</li>
-    </ul>
-  </li>
-
-  <li><strong>Équilibrer les vœux :</strong>
-    <ul style="margin-left:20px;">
-
-      <li>Si vous pensez que le vœu accorde un petit avantage au Mal,  
-          mais que le Bien a encore largement de quoi gagner  
-          (s’il trouve le Démon),  
-          vous pouvez appliquer <strong>aucun prix</strong>  
-          et <strong>aucun indice</strong>.  
-          Vous pouvez même ne pas dire  
-          qu’un vœu a été fait,  
-          ou le dire sans donner de détail.</li>
-
-      <li>Si vous pensez que le vœu met gravement le Bien en désavantage mécanique  
-          (les règles rendent la victoire quasiment impossible  
-          même si le Démon est découvert),  
-          <strong>modifiez les règles</strong>  
-          ou <strong>modifiez le vœu</strong>  
-          pour que la partie reste gagnable pour le Bien.</li>
-
-      <li>Si vous pensez que le vœu met le Bien en fort désavantage  
-          sur le plan informationnel  
-          (le Bien n’a plus de moyen raisonnable de comprendre la partie),  
-          donnez un <strong>indice utile</strong>  
-          qui les aide à comprendre ce qui a été souhaité.</li>
-
-      <li>Si le vœu est tellement extrême et compliqué  
-          que vous ne voyez ni prix ni indice  
-          permettant de l’équilibrer,  
-          ou qu’il risque de rendre la partie pénible,  
-          refusez purement et simplement ce vœu.</li>
-    </ul>
-  </li>
-
-  <li><strong>Pendant et après le vœu :</strong>
-    <ul style="margin-left:20px;">
-      <li>Réfléchissez au temps que vous prenez :  
-          vous pouvez vous accorder quelques instants  
-          (ou une courte pause) pour décider du prix et de l’indice.</li>
-      <li>Globalement, le vœu doit faire pencher la balance  
-          du côté du <strong>Mage</strong> et du Mal,  
-          tout en laissant au Bien une chance réelle de gagner.</li>
-      <li>Lorsque le <strong>Wizard</strong> meurt,  
-          décidez si les effets du vœu continuent ou non.  
-          Cela dépend entièrement de la nature du vœu et du prix ;  
-          mais l’option la plus fun est souvent de laisser  
-          le chaos perdurer après sa mort.</li>
-    </ul>
-  </li>
-
-</ul>
-
----
-
-##  <span style="color:#d45b5b;">Exemples</span>
-
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Wizard</strong> souhaite voir le grimoire.  
-Le Conteur exauce ce vœu et lui montre le grimoire.  
-Il n’y a <strong>ni prix ni indice</strong>.
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Les seules limites de ce vœu sont l’imagination de ce joueur. Cela peut être absolument ce qu’il veut. Le Mage peut écrire son vœu sur son téléphone et se réveiller la nuit pour le montrer au Conteur, ou parler avec le Conteur en privé pendant la journée. Un Mage intrépide peut même faire un vœu publiquement.
+<br><br>
+• Si le Conteur veut annoncer au groupe que le Mage a formulé un vœu, il n’est pas tenu de le faire immédiatement. Il peut attendre un moment.
+<br><br>
+• Beaucoup de vœux ont un prix. Un tel prix modifie le cours du jeu d'une manière ou d’une autre, voire le vœu lui-même. C’est le Conteur, et lui seul, qui décide de la nature de ce prix. Le Conteur peut annoncer ce prix au Sorcier, ou non. Le but du prix à payer est de compenser le désavantage mécanique que subit l’équipe du Bien.
+<br><br>
+• Beaucoup de vœux laissent un indice. L'indice, qui peut être de n’importe quelle nature, est décidé par le Conteur et annoncé publiquement. Le but d’un indice est de compenser le désavantage en informations que subit l’équipe du Bien.
+<br><br>
+• Lorsque le Mage meurt, le vœu peut rester ou non en vigueur, selon la nature du vœu et la nature du prix.
+<br><br>
+• Si le Mage formule un vœu que le Conteur ne comprend pas ou pense impossible à mettre en œuvre, le Conteur peut décider de ne pas exaucer le vœu ou de demander au Mage de formuler un nouveau vœu.
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Mage</strong> souhaite que tous les joueurs bons soient ivres.  
-Le Conteur exauce le vœu.  
-Plus tard, il déclare que le Wizard a fait un vœu  
-et annonce simplement : « Les choses sont fausses. »  
-À partir de là, toutes les informations données par le Conteur  
-aux rôles bons sont erronées.
+## <span style="color:#d45b5b;">Comment Conter</span>
+<hr>
+
+<p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Instructions au Conteur
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Wizard</strong> souhaite devenir un Démon.  
-Le Conteur exauce le vœu.  
-Plus tard, il annonce que le Wizard a fait un vœu  
-et ajoute : « L’élève est devenu le maître. »  
-Le Conteur tue le <a href="../roles_experimentaux/lordoftyphon.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Seigneur de Typhon</a>  
-et transforme le <strong>Mage</strong> en  
-<a href="../roles_experimentaux/ojo.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Ojo</a>.
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+Lorsque le Mage formule un vœu, par oral ou par écrit, vous décidez de l’accepter ou de le refuser. Si vous le refusez, demandez au Mage de faire un nouveau vœu, ou informez-le qu’il n’a plus de vœu.
+<br><br>
+Si vous l’acceptez, dites <em>« Ce sera fait »</em>, ou <em>« Votre vœu est exaucé »</em>, ou <em>« Vos désirs sont des ordres »</em> ou faites un signe de tête qui indique que vous acceptez ce vœu. 
+Dès lors, vous pouvez fixer un prix : apportez les ajustements mécaniques que vous jugez nécessaires à la partie afin d’équilibrer ce vœu. 
+Vous pouvez déclarer publiquement (maintenant ou plus tard) que le Mage a fait un vœu, puis donner un indice à l’équipe du Bien au sujet de ce qu’il a souhaité.
+<br><br>
+Chaque nuit, réveillez le Mage s’il n’a pas encore fait un vœu. Si besoin suite au vœu, laissez le jeton de nuit sur la fiche de Nuit, et appliquez les effets du vœu à ce moment-là.
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Wizard</strong> souhaite gagner la partie.  
-Le Conteur exauce le vœu et informe le Mage  
-que l’équipe du Mal gagnera à la fin de la journée.  
-Il annonce ensuite que le Wizard a fait un vœu  
-et que « Ben, Amy ou Lewis est le Démon ».  
-Le groupe exécute Ben, qui est effectivement le Démon,  
-et le Bien gagne quand même la partie.
+<div class="botc-note">
+Être Conteur avec un Mage en jeu est un art délicat. Le Mage est un rôle très divertissant pour tout le monde lorsqu’un vœu est exaucé, qu’un indice est donné, et qu’un prix est established. Cependant…<br><br>
+Si vous pensez qu’en exauçant le vœu, l'équipe du Mal profite d’un petit coup de pouce, mais que l’équipe du Bien a toujours toutes les cartes en main pour identifier le Démon et gagner la partie, vous pouvez décider de ne donner aucun indice et de ne faire payer aucun prix. Vous pouvez même ne pas révéler que le Mage a fait un vœu, ou le dire mais sans donner un indice.<br><br>
+Si vous pensez que le vœu désavantagerait lourdement l’équipe du Bien (de telle sorte que les règles du jeu ne permettraient plus à l’équipe du Bien de gagner, même si elle apprend qui est le Démon), alors modifiez les règles du jeu ou modifiez le vœu pour qu’il reste juste pour l’équipe du Bien.<br><br>
+Si vous pensez que le vœu désavantagerait lourdement l’équipe du Bien en termes d’informations (de telle sorte qu’elle n’aura pas assez d’informations pour espérer gagner la partie), alors donnez un indice déterminant qui permettra à l’Équipe du Bien de retrouver le vœu.<br><br>
+Enfin, si vous trouvez que le vœu formulé est si tordu qu’il vous semble qu’aucun indice ni prix n’est capable de l’équilibrer, ou s’il casse complètement le jeu, ou s’il est ennuyeux, refusez-le.<br><br>
+De manière générale, le vœu doit faire pencher la balance en faveur du Sorcier, tout en laissant à l’équipe du Bien une chance raisonnable de gagner. Prenez votre temps pour réfléchir.
+</div>
+
+## <span style="color:#d45b5b;">Exemples</span>
+<hr>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• Le Mage souhaite voir le Grimoire. Le Conteur accorde ce vœu, sans demander de prix, ni donner d’indice.
+<br><br>
+• Le Mage souhaite que tous les joueurs bons soient ivres. Le Conteur exauce le vœu. Plus tard, il déclare que le Mage a fait un vœu et annonce <em>« Les apparences sont trompeuses »</em>, mais sans donner d’indice supplémentaire. Dès lors, le Conteur rend toutes les informations fausses.
+<br><br>
+• Le Mage souhaite devenir un Démon. Le Conteur exauce son vœu. Plus tard, il déclare que le Mage a formulé un vœu et que : <em>« L’élève est devenu le maître. »</em> Le Conteur tue le <a href="../roles_experimentaux/lordoftyphon.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Seigneur de Typhon</a>  et transforme le Mage en <a href="../roles_experimentaux/ojo.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Ojo</a>.
+<br><br>
+• Le Mage souhaite gagner la partie. Le Conteur accorde le vœu et dit au Mage que l'équipe du Mal va gagner à la fin de cette journée. Le Conteur déclare que le Mage a formulé un vœu, et que quelqu’un parmi Ben, Amy ou Lewis est le Démon. Le groupe exécute Ben, qui est le Démon, et le Bien l'emporte.
+<br><br>
+• Le Mage souhaite que tous les joueurs aient 5 vies et que tous les jetons d’aide-mémoire du script soient ajoutés aux rôles. Le Conteur estime que ce vœu est fantasque et impossible à gérer. Il le refuse et demande au Mage de faire un autre vœu.
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Le <strong>Mage</strong> souhaite que tous les joueurs aient 5 vies  
-et que tous les rappels du script  
-soient ajoutés aux personnages.  
-Le Conteur juge que ce vœu serait trop compliqué, confus et ennuyeux,  
-refuse le vœu et demande au Mage d’en formuler un autre.
+## <span style="color:#d45b5b;">Conseils & Astuces</span>
+<hr>
+
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• <strong>Faites votre vœu immédiatement !</strong> Plus vite vous formulez votre vœu, plus vite il pourra prendre effet et commencer à semer le chaos que vous avez souhaité dans le village.
+<br><br>
+• Attendez quelques jours avant de décider quel type de vœu serait le plus utile à votre équipe. Cela peut cacher la présence d'un Mage en jeu, incitant l'équipe du Bien à suspecter la présence d'autres capacités de Sbires en jeu. Un vœu formulé plus tard dans la partie peut être beaucoup plus ciblé pour perturber l'équipe du Bien là où cela fait le plus mal.
+<br><br>
+• Comme tout bon Mage devrait le faire, <strong>ayez conscience de la puissance de votre vœu</strong> ! Si votre vœu est extrêmement puissant, vous devez vous attendre à ce qu'il soit assorti d'un prix élevé. Si votre vœu est intrinsèquement équilibré, le Conteur n'aura peut-être pas besoin de fixer un prix ni de laisser un indice sur la nature du vœu.
+<br><br>
+• Avant de jouer un script comprenant le Mage, <strong>réfléchissez</strong> aux choses que vous aimeriez demander si vous tirez ce jeton ! Cela rendra le rôle de Mage moins stressant, car vous n'aurez pas la pression d'inventer un vœu sur le champ.
+<br><br>
+• <strong>Si votre priorité absolue est de faire gagner l'équipe du Mal</strong>, demandez quelque chose de raisonnable qui aide votre équipe en répandant de fausses informations ou en créant de la distraction.
+<br><br>
+• <strong>Si votre priorité absolue est de vous amuser</strong> le plus possible, demandez quelque chose de complètement fou. Cela n'aidera peut-être pas autant votre équipe à gagner la partie, mais ce sera certainement palpitant et mémorable !
+<br><br>
+• Soyez prêt à ce que le Conteur annonce que le Mage a fait un vœu, ou à ce qu'il fasse une annonce « inattendue ». Jouez les surpris de savoir qu'un Mage est en jeu, afin que les autres joueurs ne puissent pas deviner que vous vous y attendiez.
+<br><br>
+• <strong>Aidez les bons joueurs à comprendre la signification de l'indice lié au vœu.</strong> Si vous donnez l'impression de tenter légitimement de « résoudre » ce qui se passe avec le vœu du Mage, les bons joueurs seront plus à même de vous faire confiance et donc de vous dire la vérité.
+<br><br>
+• Prétendez aider les bons joueurs à comprendre la signification de l'indice lié au vœu, mais <strong>induisez-les secrètement en erreur</strong>. Si vous agissez comme si vous essayiez sincèrement de « résoudre » la situation et que vous parvenez à trouver une autre explication qui mène les bons joueurs sur une fausse piste, ils passeront plus de temps à parler de vos absurdités et moins de temps à chercher qui est le Démon.
+<br><br>
+• <strong>Si cela ne vous dérange pas que l'équipe du Bien découvre quel était le vœu,</strong> focalisez l'attention des bons joueurs sur la recherche de ce que le Mage a demandé. Il est difficile pour les joueurs d'identifier à la fois le vœu et le Démon au même moment ; s'ils passent tout leur temps à chercher le vœu, ils en passent moins à débusquer le Démon. Si le vœu ressemble à « Chaque Villageois reçoit une fausse information », il est probablement néfaste pour l'équipe du Mal que les bons le comprennent, car ils pourront inverser leurs informations et s'en servir pour trouver le Démon. Si résoudre votre vœu aide l'équipe du Bien à résoudre la partie, ne les aidez pas à le comprendre !
+<br><br>
+• Si le vœu est du type <strong>« Un joueur bon est empoisonné de façon permanente »</strong>, il est excellent pour l'équipe du Mal que l'équipe du Bien le comprenne ! S'ils réalisent qu'un joueur est empoisonné, ils n'ont pas les outils pour savoir de qui il s'agit, et ils passeront donc plus de temps à s'inquiéter de savoir quelle capacité est affectée. Si la résolution de votre vœu fait paniquer l'équipe du Bien et qu'elle passe plus de temps à parler du vœu, vous devez absolument l'aider à le comprendre.
+<br><br>
+• <strong>Travaillez avec le Conteur pour concevoir votre vœu,</strong> et respectez son jugement concernant ce que serait un prix et un indice équitables. Même si vous faites partie d'une minorité informée, le Conteur dispose de plus d'informations sur la partie et peut s'en servir pour équilibrer votre vœu.
+<br><br>
+• <strong>Dites à l'équipe du Mal ce que vous avez demandé !</strong> Si les autres joueurs maléfiques savent ce qui se passe, ils peuvent intégrer vos manigances à leurs bluffs.
+<br><br>
+• <strong>Soyez original !</strong> Les idées originales ont plus de chances d'être accordées par le Conteur, et elles sont également plus délicates à équilibrer pour lui, car il sera moins préparé à votre vœu unique.
+<br><br>
+• <strong>Restez simple.</strong> Des vœux simples peuvent être incroyablement forts, surtout s'ils sont utilisés au bon moment. Certaines des parties les plus drôles et les plus palpitantes que nous ayons vues étaient des parties où le Mage avait demandé à ce que tout le monde ait la capacité du <a href="../bmr_roles/bricoleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bricoleur</a>, ou avait demandé à ce que le Conteur annonce <em>« Le vœu du Mage a été exaucé »</em>.
+<br><br>
+• <strong>Faites un vœu qui soutient la stratégie de votre équipe.</strong> Soyez conscient des rôles en jeu et de la manière dont votre vœu pourrait affecter les rôles présents.
+<br><br>
+• <strong>Soyez subtil.</strong> Si vous passez pour un joueur bon, vous serez en mesure d'aider l'équipe du Mal en gagnant la confiance des bons joueurs.
+<br><br>
+• <strong>Révélez votre nature maléfique !</strong> Semez autant de chaos et de distraction que possible. Tant que vous avez fait un vœu, les effets de votre vœu restent en jeu même après votre mort.
 </p>
 
----
+## <span style="color:#d45b5b;">Combattre le Mage</span>
+<hr>
 
-##  <span style="color:#d45b5b;">Astuces & Conseils</span>
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
+• <strong>Portez une attention particulière aux choses inhabituelles que dit ou fait le Conteur</strong> : ce sont très probablement des indices sur le vœu du Mage, et cela peut vous aider à comprendre ce qui se passe.
+<br>
+&nbsp;&nbsp;&nbsp;• Utilisez les indices à votre avantage ! Si le Conteur dit : <em>« Une capacité de <a href="../bmr_roles/bricoleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bricoleur</a> est en jeu »</em>, jouez comme si vous pouviez mourir à tout moment. Si votre rôle change, trouvez d'autres joueurs qui ont également changé de rôle.
+<br>
+&nbsp;&nbsp;&nbsp;• Discutez de ce que vous voyez et trouvez, et tentez d'identifier ce que l'indice essaie de vous dire.
+<br>
+&nbsp;&nbsp;&nbsp;• Vous pourriez ne pas reconnaître un <strong>indice comme étant un indice</strong>. Prenez un peu de temps (sans trop en faire) pour réfléchir attentivement aux phrases ou comportements peu conventionnels employés par le Conteur.
+<br><br>
+• <strong>Accordez beaucoup d'attention au vœu</strong> au début, mais n'oubliez pas que votre objectif ultime en tant que joueur bon est de trouver et d'exécuter le Démon. Ne vous focalisez pas trop sur le vœu en fin de partie, car cela peut vous distraire de la résolution de la partie.
+<br><br>
+• <strong>Faites confiance à votre Conteur</strong> pour fixer un prix adéquat et/ou fournir un indice approprié pour le vœu du Mage. Si vous pensez que le Conteur n'a pas équilibré le vœu du Mage de manière équitable, abordez le sujet en privé après la partie.
+<br><br>
+• Si vous échangez avec votre Conteur pour faire un retour sur votre expérience, centrez la discussion sur ce que vous avez ressenti durant la partie plutôt que de blâmer le Conteur pour ses décisions.
+<br><br>
+• <strong>Amusez-vous !</strong> Si vous vous attendez à une partie « normale » de Clocktower, vous pourriez être déçu ou pris au dépourvu par un vœu chaotique. Mettez de côté vos attentes sur ce qui est possible, et concentrez-vous sur les indices ou les manigances peu conventionnelles pour aider votre équipe à comprendre ce qui se passe.
+</p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<hr class="explication">
 
-  <li><strong>Faites votre vœu très tôt</strong> dans la partie.  
-      Plus vous souhaitez tôt, plus vite les effets se mettent en place  
-      et commencent à semer le chaos dans le village.</li>
-
-  <li>À l’inverse, vous pouvez <strong>attendre quelques jours</strong>  
-      avant de souhaiter.  
-      Cela peut cacher la présence d’un Mage  et faire croire à d’autres capacités de Sbires.  
-      Un vœu plus tardif peut aussi être plus ciblé pour frapper le Bien là où cela fait le plus mal.</li>
-
-  <li>Soyez conscient de la <strong>puissance</strong> de votre vœu.  
-      Plus votre vœu est fort, plus vous devez vous attendre  à un <strong>prix lourd</strong> en retour.  
-      Un vœu raisonnable et déjà assez équilibré demandera moins de corrections de la part du Conteur.</li>
-
-  <li>Avant de jouer un script avec le <strong>Wizard</strong>,  
-      prenez le temps de <strong>préparer quelques idées de vœux</strong>.  
-      Cela rendra le rôle moins stressant à jouer,  
-      car vous n’aurez pas à tout inventer sur le moment.</li>
-
-  <li>Si votre priorité est de <strong>faire gagner le Mal</strong>,  
-      visez un vœu « sensé » qui aide votre équipe  
-      via la désinformation, la confusion ou la pression supplémentaire.</li>
-
-  <li>Si votre priorité est surtout de <strong>vous amuser</strong>,  
-      faites un vœu complètement <strong>absurde</strong>.  
-      Ce ne sera pas forcément optimal pour gagner,  
-      mais la partie risque d’être mémorable.</li>
-
-  <li>Préparez-vous à ce que le Conteur annonce  
-      qu’un vœu a été fait ou que « quelque chose » s’est produit.  
-      <strong>Faites semblant d’être surpris</strong>  
-      comme tout le monde pour ne pas vous trahir.</li>
-
-  <li>Aidez sincèrement les joueurs bons  
-      à comprendre l’<strong>indice</strong> laissé par votre vœu.  
-      Si vous semblez vraiment chercher à décoder la situation,  
-      ils auront davantage tendance à vous faire confiance  
-      et à vous donner de vraies informations.</li>
-
-  <li>…ou faites semblant de les aider,  
-      tout en les <strong>égarant volontairement</strong>.  
-      Si vous proposez une théorie alternative crédible  
-      qui détourne le village de la réalité,  
-      il passera plus de temps à débattre de votre fausse piste  
-      qu’à chercher le Démon.</li>
-
-  <li>Si cela ne vous dérange pas  
-      que le Bien comprenne ce qu’a fait votre vœu,  
-      poussez-le à se concentrer à fond sur l’énigme du vœu.  
-      Il est difficile pour le village  
-      de comprendre à la fois le vœu et l’identité du Démon en même temps.</li>
-
-  <li>Si votre vœu est du genre  
-      « Tous les Villageois reçoivent de fausses informations »,  
-      c’est dangereux si le Bien le découvre,  
-      car il peut alors retourner toutes ses infos  
-      et s’en servir pour trouver le Démon.  
-      Dans ce cas-là, <strong>ne les aidez pas</strong> à comprendre le vœu.</li>
-
-  <li>Si votre vœu est du genre  
-      « Un joueur bon est empoisonné en permanence »,  
-      au contraire, il est très intéressant  
-      que le Bien comprenne ce qui se passe.  
-      Il saura qu’il y a un poison mais pas qui en est victime,  
-      et passera beaucoup de temps  
-      à débattre de qui est réellement empoisonné.</li>
-
-  <li>Travaillez avec votre Conteur :  
-      discutez de votre vœu,  
-      écoutez ses suggestions  
-      et <strong>respectez son jugement</strong>  
-      sur le prix et l’indice à appliquer.  
-      Il connaît mieux que vous  
-      l’ensemble des informations et l’état réel de la partie.</li>
-
-  <li>Informez le reste de votre <strong>équipe maléfique</strong>  
-      de ce que vous avez souhaité.  
-      Plus les autres Sbires et le Démon savent ce qui se passe,  
-      plus ils pourront adapter leurs bluffs  
-      et se coordonner avec les effets du vœu.</li>
-
-  <li>Soyez <strong>original</strong>.  
-      Les vœux les plus inédits  
-      ont plus de chances d’être acceptés par le Conteur  
-      et sont plus difficiles à équilibrer pour lui,  
-      ce qui peut jouer en votre faveur.</li>
-
-  <li>Mais gardez aussi une forme de <strong>simplicité</strong>.  
-      Un vœu simple, déclenché au bon moment,  
-      peut être extrêmement puissant et très amusant,  
-      sans rendre la partie illisible.</li>
-
-  <li>Formulez un vœu qui <strong>soutient le plan</strong> de votre équipe.  
-      Soyez conscient des personnages en jeu  
-      et de l’impact précis de votre vœu sur ces rôles.</li>
-
-  <li>Soyez <strong>subtil</strong>.  
-      Si vous semblez être un joueur bon raisonnable,  
-      vous obtiendrez la confiance du village  
-      et pourrez utiliser cette confiance  
-      pour pousser les exécutions et décisions  
-      dans le sens qui arrange le Mal.</li>
-
-  <li>À l’inverse, n’hésitez pas aussi à « <strong>out evil</strong> » :  
-      semez autant de chaos et de distraction que possible.  
-      Une fois que vous avez fait votre vœu,  
-      ses effets peuvent continuer même après votre mort ;  
-      vous pouvez donc vous sacrifier  
-      tout en laissant derrière vous un terrain miné.</li>
-
-</ul>
-
----
-
-##  <span style="color:#d45b5b;">Combattre le Wizard</span>
-
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
-
-  <li>Portez une grande attention  
-      à tout ce que le Conteur dit ou fait  
-      qui sort de l’ordinaire.  
-      Ces éléments sont probablement des <strong>indices</strong>  
-      sur le vœu du <strong>Mage</strong>  
-      et peuvent grandement vous aider  
-      à comprendre ce qui se passe.</li>
-
-  <li>Utilisez les indices à votre avantage.  
-      Si le Conteur déclare par exemple  
-      « Une capacité de Bricoleur est en jeu »,  
-      jouez comme si vous pouviez mourir à tout moment.  
-      Si votre rôle change,  
-      cherchez d’autres joueurs dont le rôle a changé,  
-      comparez vos observations et essayez de remonter  
-      à ce que le vœu a réellement fait.</li>
-
-  <li>Gardez à l’esprit  
-      que vous ne reconnaîtrez pas toujours un indice  
-      comme tel dès qu’il apparaît.  
-      Prenez un peu de temps (mais pas trop)  
-      pour réfléchir à des phrases étranges,  
-      des annonces inhabituelles  
-      ou des comportements atypiques du Conteur.</li>
-
-  <li>Au début, accorder une certaine importance au vœu  
-      est utile.  
-      Mais n’oubliez pas que votre objectif final  
-      est toujours de <strong>trouver et exécuter le Démon</strong>.  
-      Ne laissez pas le vœu monopoliser  
-      toute votre attention en fin de partie,  
-      au risque de perdre de vue l’essentiel.</li>
-
-  <li>Faites confiance au Conteur  
-      pour essayer d’équilibrer le vœu  
-      avec un prix et/ou un indice adaptés.  
-      Le Conteur dispose de plus d’informations que vous  
-      et essaie en principe de préserver  
-      une partie intéressante pour tout le monde.</li>
-
-  <li>Si vous pensez malgré tout  
-      que le vœu n’a pas été équilibré de façon juste,  
-      parlez-en au Conteur <strong>après la partie</strong>,  
-      en privé.  
-      C’est le meilleur moment pour discuter  
-      de ce qui a bien ou mal fonctionné.</li>
-
-  <li>Lorsque vous échangez avec le Conteur après la partie,  
-      concentrez-vous sur <strong>votre ressenti de joueur</strong>  
-      plutôt que sur des reproches.  
-      « J’ai eu du mal à m’amuser à cause de… »  
-      est plus constructif que  
-      « Tu as mal équilibré le vœu ».</li>
-
-  <li>Surtout, <strong>amusez-vous</strong>.  
-      Si vous attendiez une partie de Clocktower  
-      « standard », il est possible  
-      que le vœu du Mage chamboule tout.  
-      Lâchez un peu prise,  
-      acceptez le chaos et les situations improbables,  
-      et servez-vous des indices  
-      pour aider votre équipe  
-      à comprendre ce qui se trame.</li>
-
-</ul>
-
----
-
-<p style="text-align:left; font-size:18px; margin-top:20px;">
-   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Sbires</a><br>
-   <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
+<p style="text-align:left; font-size:18px; margin-top:00px;">
+  • <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+  • <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Catégorie : Sbires</a><br>
+  • <a href="../experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Retour à The Carousel Expérimental</a>
 </p>
