@@ -13,9 +13,12 @@
 
   <link rel="stylesheet" href="{{ '/assets/css/style.css?v=2' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/search.css' | relative_url }}">
-  <link rel="icon" type="image/png" href="{{ '/images/favicon.png?v=4' | relative_url }}">
-  <link rel="shortcut icon" type="image/png" href="{{ '/images/favicon.png?v=4' | relative_url }}">
-  <link rel="apple-touch-icon" href="{{ '/images/favicon.png?v=4' | relative_url }}">
+
+  <!-- FAVICONS COMPATIBLES SAFARI & CHROME -->
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/images/favicon.png?v=5' | absolute_url }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ '/images/favicon.png?v=5' | absolute_url }}">
+  <link rel="shortcut icon" href="{{ '/images/favicon.png?v=5' | absolute_url }}">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ '/images/favicon.png?v=5' | absolute_url }}">
 
   {% if page.description %}
     <meta name="botc-tooltip-description" content="{{ page.description | escape }}">
@@ -59,5 +62,4 @@
   <script src="{{ '/assets/js/role-tooltips.js?v=3' | relative_url }}"></script>
 
 </body>
-</html>
 </html>
