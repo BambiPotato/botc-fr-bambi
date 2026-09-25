@@ -52,7 +52,7 @@ Qui parmi nous demandera : “Est-ce vrai ?” »
 <hr class="loric">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
-« Chaque nommé choisit un joueur : jusqu’au vote, seul ce joueur peut parler et il est <strong>«fou»</strong> que le jouer nommé est <strong>bon</strong>. Sinon il pourrait mourir. »
+« Chaque nommé choisit un joueur : jusqu’au vote, seul ce joueur peut parler et il est <strong>«fou»</strong> que le joueur nommé est <strong>bon</strong>. Sinon il pourrait mourir. »
 </p>
 
 <p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
