@@ -33,16 +33,16 @@ Vous trouverez ici la traduction fidèle et détaillée des termes du jeu.
 **Ability (Capacité)**  
 Pouvoir ou malus d’un rôle, inscrit sur son jeton, sa fiche et l’almanach. Devient inactif si le joueur est mort, ivre ou empoisonné.  
 
-**About to die (Sur le point d’être exécuté)**  
+**About to die (Sur le point de mourir)**  
 Joueur qui a assez de votes pour être exécuté et plus que tout autre joueur.  
 
 **Alignment (Alignement)**  
 Équipe d’un joueur (bon ou maléfique). L’alignement ne change pas quand le rôle change, et inversement.  
 
-**Alive (Vivant)**  
-Joueur qui n’est pas mort. Peut voter librement, nominer et utiliser son pouvoir. Le jeu continue tant qu’il reste 3 joueurs vivants.  
+**Alive (En vie)**  
+Joueur qui n’est pas mort. Peut voter librement, nommer et utiliser son pouvoir. Le jeu continue tant qu’il reste 3 joueurs vivants.  
 
-**Alive neighbours (Voisins vivants)**  
+**Alive neighbours (Voisins en vie)**  
 Les deux joueurs assis directement à gauche et à droite d’un joueur, en ignorant les morts.  
 
 **Ally (Allié)**  
@@ -60,7 +60,7 @@ Blood on the Clocktower, le meilleur jeu de bluff au monde, en toute objectivit�
 **Character (Rôle)**  
 Identité jouée par un joueur (Villageois, Étranger, Sbire, Démon, etc.).  
 
-**Character sheet (Feuille de rôles)**  
+**Character sheet (Fiche de rôles)**  
 Liste des rôles et capacités d’une édition.  
 
 **Character token (Jeton de rôle)**  
@@ -90,7 +90,7 @@ Annoncer publiquement une information ou action.
 **Demon (Démon)**  
 Rôle maléfique central. S’il meurt, les bons gagnent. Tue généralement la nuit.  
 
-**Demon info (Infos Démon)**  
+**Demon info (Infos du Démon)**  
 Les infos données au Démon la première nuit (ses Sbires + 3 bons rôles non utilisés).  
 
 **Drunk (Ivre)**  
@@ -108,7 +108,7 @@ Indique qu’un pouvoir s’active toutes les nuits.
 **Each night* (Chaque nuit\*)**  
 Toutes les nuits sauf la première.  
 
-**Edition (Édition)**  
+**Edition (Module)**  
 Un set de rôles et de thèmes (ex. Trouble Brewing).  
 
 **Evil (Maléfique)**  
@@ -153,8 +153,8 @@ Pas empoisonné.
 **Info (Information)**  
 Tout savoir donné par un rôle ou le Conteur.  
 
-**Info token (Jeton d’information)**  
-Petits jetons montrés par le Conteur.  
+**Info token (Tuile d’information)**  
+Petits jetons rectangulaires d'information montrés par le Conteur "VOUS ÊTES"
 
 **In play (En jeu)**  
 Un rôle actuellement dans la partie.  
@@ -169,7 +169,7 @@ Symbole sur les jetons de rôle aidant le Conteur pour la mise en place nocturne
 Marqueur indiquant si un joueur est vivant ou mort.  
 
 **Lose (Perdre)**  
-Quand son équipe échoue.  
+Quand une équipe perd (Le Bien ou le Mal).  
 
 ---
 
@@ -177,7 +177,7 @@ Quand son équipe échoue.
 **Mad (Fou)**  
 Un joueur est FOU, il doit convaincre de quelque chose comme si c'était vrai.  
 
-**Might (Peut-être/Pourrait)**  
+**Might (Pourrait)**  
 Signifie que le Conteur décide si l’effet s’applique.  
 
 **Minion (Sbire)**  
@@ -190,12 +190,12 @@ Ce qu’apprennent les Sbires lors de la première nuit (qui sont les autres Sbi
 
 ## 🅽 N
 **Neighbors (Voisins)**  
-Les deux joueurs adjacents, vivants ou morts.  
+Les deux joueurs adjacents, en vie ou morts.  
 
 **Night (Nuit)**  
 Phase où les joueurs ferment les yeux et les rôles agissent.  
 
-**Night sheet (Feuille de nuit)**  
+**Night sheet (Fiche de nuit)**  
 Feuille du Conteur listant l’ordre d’action nocturne.  
 
 **Nomination**  
@@ -223,7 +223,7 @@ Toute personne jouant un rôle (hormis le Conteur).
 Comme l’ivresse, mais causé par un Sbire ou un Démon.  
 
 **Private (Privé)**  
-Échange entre deux joueurs uniquement.  
+Chuchotement, échange entre deux joueurs uniquement.  
 
 **Public (Public)**  
 Visible et entendu par la majorité des joueurs.  
@@ -231,8 +231,8 @@ Visible et entendu par la majorité des joueurs.
 ---
 
 ## 🅡 R
-**Register (S’enregistrer comme/Apparait comme)**  
-Compter comme un autre rôle ou alignement sans l’être vraiment.  
+**Register (Apparaître comme)**  
+Compter comme un autre rôle ou alignement sans l’être vraiment exemple la Recluse.
 
 **Reminder token (Jeton de rappel)**  
 Petit jeton de rappel pour le Conteur.  
@@ -240,31 +240,31 @@ Petit jeton de rappel pour le Conteur.
 **Resurrected (Ressuscité)**  
 Un mort redevient vivant et retrouve son pouvoir.  
 
-**Rules sheet (Feuille de règles)**  
+**Rules sheet (Fiche de règles)**  
 Feuille lue en début de partie pour expliquer les bases.  
 
 ---
 
 ## 🅢 S
 **Script**  
-Liste de rôles créée via le Script Tool.  
+Liste de rôles personnalisés créée via le Script Tool.  
 
-**Setup sheet (Feuille de mise en place)**  
+**Setup sheet (Fiche de règles)**  
 Instructions pour le Conteur avant la partie.  
 
 **Shroud (Linceul)**  
-Jeton signalant un joueur mort dans le Grimoire.  
+Jeton rectangulaire sombre signalant un joueur mort dans le Grimoire.  
 
 **Sober (Sobre)**  
-Pas ivre.  
+Pas empoisonné.  
 
-**Start knowing (Lors de la première nuit/Commence en sachant)**  
-Pouvoir qui donne des infos lors de la première nuit.  
+**Start knowing (Lors de la première nuit, vous apprenez...)**  
+Pouvoir d'un rôle qui donne des infos lors de la première nuit.  
 
 **State (État)**  
 État d’un joueur (sobre/ivre, vivant/mort, etc.).  
 
-**Storyteller (Conteur)**  
+**Storyteller (Le Conteur)**  
 Personne qui dirige la partie. Le Conteur gère le Grimoire, applique les règles du jeu et prend les décisions finales lorsque des situations ambiguës ou inhabituelles se présentent.
 
 ---
@@ -273,8 +273,8 @@ Personne qui dirige la partie. Le Conteur gère le Grimoire, applique les règle
 **Team (Équipe)**  
 Tous les joueurs partageant le même alignement.  
 
-**Think (Pense être)**  
-Pense jouer un rôle qui n’est pas le sien (ex.la Marionnette).  
+**Think (Penser)**  
+Pense jouer un rôle qui n’est pas le sien (ex.l'Ivrogne).  
 
 **Tomorrow (Demain)**  
 Le jour et la nuit qui suivent immédiatement la nuit en cours.
@@ -290,7 +290,7 @@ Plateau central contenant les jetons de vie et de vote.
 **Traveller (Voyageur)**  
 Type de rôle pour les joueurs arrivant en retard ou partant plus tôt.
 
-**Traveller sheet (Feuille des Voyageurs)**  
+**Traveller sheet (Fiche des Voyageurs)**  
 Liste des Voyageurs et leur effet.  
 
 **True info (Vraie info)**  
@@ -316,7 +316,7 @@ Lorsqu’un joueur mort utilise son vote, il retire ce jeton et ne peut plus vot
 Quand un joueur ouvre les yeux la nuit.  
 
 **Win (Gagner)**  
-Victoire de son équipe (les vivants et morts de l’équipe gagnante gagnent ensemble).  
+Victoire de son équipe (les joueurs en vie et morts de l’équipe gagnante gagnent ensemble).  
 
 <hr class="explication">
 
