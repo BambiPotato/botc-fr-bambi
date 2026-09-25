@@ -505,110 +505,91 @@ table.roles-grid td{
 
 </div>
 
-
-<!-- Section : Guides pour les Conteurs -->
-<h2 style="
+<!-- Section : Guides pour les Conteurs (Modèle Table Exact) -->
+<h1 style="
   color:#b58b52;
-  font-size:22px;
+  font-size:20px;
   font-weight:bold;
   text-shadow:2px 2px 6px #000;
   padding-left:16px;
-  margin-top:30px;
+  margin-top:28px;
   margin-bottom:14px;
 ">
   Guides pour les Conteurs par Steven Medway &amp; Emma
-</h2>
+</h1>
 
 <style>
-  .guides-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-    gap: 16px;
-    width: 100%;
-    margin-bottom: 30px;
+  .rules-table { width:100%; border-collapse:separate; border-spacing:16px 14px; }
+  .rules-cell {
+    border:1px solid rgba(181,139,82,0.25);
+    border-radius:14px;
+    background:rgba(0,0,0,0.45);
+    box-shadow:0 6px 18px rgba(0,0,0,0.28);
+    padding:18px 12px;
+    text-align:center;
+    vertical-align:middle;
+    height:140px; /* hauteur uniforme adaptée avec icône */
   }
-  .guide-card {
-    border: 1px solid rgba(181, 139, 82, 0.35);
-    border-radius: 14px;
-    background: rgba(0, 0, 0, 0.45);
-    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.28);
-    padding: 18px 14px;
-    text-align: center;
-    transition: transform 0.2s ease, border-color 0.2s ease;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    min-height: 110px;
-    box-sizing: border-box;
-  }
-  .guide-card:hover {
-    transform: translateY(-3px);
-    border-color: rgba(212, 167, 106, 0.8);
-    background: rgba(0, 0, 0, 0.6);
-  }
-  .guide-link {
-    text-decoration: none;
-    display: block;
-    height: 100%;
-  }
-  .guide-title {
-    color: #d4a76a;
-    font-weight: bold;
-    font-size: 18px;
-    line-height: 1.3;
-    margin: 0;
-  }
-  .guide-sub {
-    color: #c9b08a;
-    font-size: 13px;
-    opacity: 0.9;
-    margin-top: 6px;
+  .rules-link { text-decoration:none; display:block; }
+  .rules-icon { width:65px; height:auto; margin-bottom:10px; }
+  .rules-title { color:#d4a76a; font-weight:bold; font-size:18px; line-height:1.25; margin:0; }
+  .rules-sub   { color:#c9b08a; font-size:13px; opacity:.9; margin-top:6px; }
+  @media (max-width: 720px) {
+    .rules-table, .rules-table tbody, .rules-table tr, .rules-table td { display:block; width:100%; }
+    .rules-cell { margin-bottom:12px; height:auto; }
   }
 </style>
 
-<div class="guides-grid">
-  <a class="guide-link" href="{{ '/foliepixie.html' | relative_url }}">
-    <div class="guide-card">
-      <div class="guide-title">La Folie &amp; la Pixie</div>
-      <div class="guide-sub">Guide pour Conter la folie pour la Pixie par Steven Medway</div>
-    </div>
-  </a>
-
-  <a class="guide-link" href="{{ '/athee.html' | relative_url }}">
-    <div class="guide-card">
-      <div class="guide-title">Comment conter l’Athée</div>
-      <div class="guide-sub">Guide pour conter l'Athée par Steven Medway</div>
-    </div>
-  </a>
-
-  <a class="guide-link" href="{{ '/grandepretresse.html' | relative_url }}">
-    <div class="guide-card">
-      <div class="guide-title">Conter la Grande Prêtresse</div>
-      <div class="guide-sub">Guide pour conter la Grande Prêtress par Emma</div>
-    </div>
-  </a>
-
-  <a class="guide-link" href="{{ '/legion.html' | relative_url }}">
-    <div class="guide-card">
-      <div class="guide-title">Conter la Légion</div>
-      <div class="guide-sub">Guide pour conter la Légion par Steven Medway</div>
-    </div>
-  </a>
-
-  <a class="guide-link" href="{{ '/Yaggablabla.html' | relative_url }}">
-    <div class="guide-card">
-      <div class="guide-title">Conter le Yaggablabla</div>
-      <div class="guide-sub">Guide pour conter le Yaggablabla par Steven Medway</div>
-    </div>
-  </a>
-
-  <a class="guide-link" href="{{ '/laissezunfaire.html' | relative_url }}">
-    <div class="guide-card">
-      <div class="guide-title">Conter Laissez un Faire</div>
-      <div class="guide-sub">Comment Conter le script « Laissez un faire » par Steven Medway</div>
-    </div>
-  </a>
-</div>
+<table class="rules-table">
+  <tr>
+    <td class="rules-cell">
+      <a class="rules-link" href="{{ '/foliepixie.html' | relative_url }}">
+        <img class="rules-icon" src="{{ '/images/Icon_pixie.png' | relative_url }}" alt="La Folie &amp; la Pixie" onerror="this.src='{{ '/images/botcshare.png' | relative_url }}'">
+        <div class="rules-title">La Folie &amp; la Pixie</div>
+        <div class="rules-sub">Guide pour la folie & la Pixie par Steven Medway</div>
+      </a>
+    </td>
+    <td class="rules-cell">
+      <a class="rules-link" href="{{ '/athee.html' | relative_url }}">
+        <img class="rules-icon" src="{{ '/images/Icon_atheist.png' | relative_url }}" alt="Conter l'Athée" onerror="this.src='{{ '/images/botcshare.png' | relative_url }}'">
+        <div class="rules-title">Conter l'Athée</div>
+        <div class="rules-sub">Guide pour conter l’Athée par Steven Medway</div>
+      </a>
+    </td>
+    <td class="rules-cell">
+      <a class="rules-link" href="{{ '/grandepretresse.html' | relative_url }}">
+        <img class="rules-icon" src="{{ '/images/Icon_highpriestess.png' | relative_url }}" alt="Conter la Grande Prêtresse" onerror="this.src='{{ '/images/botcshare.png' | relative_url }}'">
+        <div class="rules-title">Conter la Grande Prêtresse</div>
+        <div class="rules-sub">Guide pour conter la Grande Prêtresse par Emma</div>
+      </a>
+    </td>
+    <td class="rules-cell">
+      <a class="rules-link" href="{{ '/legion.html' | relative_url }}">
+        <img class="rules-icon" src="{{ '/images/Icon_legion.png' | relative_url }}" alt="Conter la Légion" onerror="this.src='{{ '/images/botcshare.png' | relative_url }}'">
+        <div class="rules-title">Conter la Légion</div>
+        <div class="rules-sub">Guide pour conter la Légion par Steven Medway</div>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td class="rules-cell">
+      <a class="rules-link" href="{{ '/Yaggablabla.html' | relative_url }}">
+        <img class="rules-icon" src="{{ '/images/Icon_yaggababble.png' | relative_url }}" alt="Conter le Yaggablabla" onerror="this.src='{{ '/images/botcshare.png' | relative_url }}'">
+        <div class="rules-title">Conter le Yaggablabla</div>
+        <div class="rules-sub">Guide pour conter le Yaggablabla par Steven Medway</div>
+      </a>
+    </td>
+    <td class="rules-cell">
+      <a class="rules-link" href="{{ '/laissezunfaire.html' | relative_url }}">
+        <img class="rules-icon" src="{{ '/images/botcshare.png' | relative_url }}" alt="Conter Laissez un Faire">
+        <div class="rules-title">Conter Laissez un Faire</div>
+        <div class="rules-sub">Guide pour conter le script « Laissez un faire » par Steven Medway</div>
+      </a>
+    </td>
+    <td class="rules-cell" style="border:none; background:none; box-shadow:none;"></td>
+    <td class="rules-cell" style="border:none; background:none; box-shadow:none;"></td>
+  </tr>
+</table>
 
 
 <!-- ====== SCRIPTS PERSONNALISÉS ====== -->
