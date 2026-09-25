@@ -263,7 +263,7 @@ En utilisant la configuration suivante, voyons comment choisir les victimes du Y
 </p>
 
 <div style="text-align:center; margin: 15px 0;">
-  <img src="../images/Yaggablabla.png" alt="Yaggablabla" class="step-media" style="max-width:320px; height:auto; border-radius:8px;">
+  <img src="images/Yaggablabla%20.png" alt="Yaggablabla" class="step-media" style="max-width:320px; height:auto; border-radius:8px;">
 </div>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
