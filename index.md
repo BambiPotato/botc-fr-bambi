@@ -827,12 +827,12 @@ data-tooltip="Suis-nous sur Instagram">
   margin-bottom:14px;
   margin-top:30px;
 ">
-  Guides pour les Conteurs par Steven Medway &amp; Emma
+  Guides pour les Conteurs & Conteuses par Steven Medway &amp; Emma
 </h1>
 
 <hr>
 
-<table class="roles-grid" role="presentation" aria-label="Guides pour les Conteurs">
+<table class="roles-grid" role="presentation" aria-label="Guides pour les Conteurs & Conteuses">
   <tr>
     <!-- La Folie & la Pixie -->
     <td style="height: auto !important; min-height: 220px; vertical-align: top;">
@@ -841,7 +841,7 @@ data-tooltip="Suis-nous sur Instagram">
           <span class="rg-media" style="margin-bottom: 12px;">
             <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
           </span>
-          <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px; text-align:center;">La Folie &amp; la Pixie</span>
+          <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px; text-align:center;">Conter la Folie &amp; la Pixie</span>
         </div>
         <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center; line-height:1.3;">Guide pour la folie &amp; la Pixie par Steven Medway</span>
       </a>
@@ -908,9 +908,9 @@ data-tooltip="Suis-nous sur Instagram">
           <span class="rg-media" style="margin-bottom: 12px;">
             <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
           </span>
-          <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px; text-align:center;">Conter Laissez un Faire</span>
+          <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px; text-align:center;">Conter Laissez un faire</span>
         </div>
-        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center; line-height:1.3;">Guide pour conter le script « Laissez un faire » par Steven Medway</span>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center; line-height:1.3;">Guide pour conter le script : Laissez un faire par Steven Medway</span>
       </a>
     </td>
   </tr>
