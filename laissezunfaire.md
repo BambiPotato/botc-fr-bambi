@@ -25,7 +25,8 @@ image: /images/logogold.png
 <hr class="explication">
 
 <p style="text-align:center; font-size:20px; color:#f5f5f5; margin: 15px 0;">
-  Vous pouvez retrouver ici le lien du script pour l'éditer en PDF avec son fichier JSON : <a href="https://www.botcscripts.com/script/76/1.0.0" target="_blank" style="color:#4ea3ff; font-weight:bold; text-decoration:underline;">https://www.botcscripts.com/script/76/1.0.0</a>
+  Vous pouvez retrouver le fichier JSON du script pour l'éditer en PDF ici : 
+  <a href="https://www.botcscripts.com/script/76/1.0.0" target="_blank" style="color:#4ea3ff; font-weight:bold; text-decoration:underline;">« Laissez un faire » par Steven Medway</a>
 </p>
 
 <hr class="explication">
