@@ -10,37 +10,41 @@ image: /images/logogold.png
   <a href="./laissezunfaire.html" style="text-decoration:none;">
     <img src="./images/logogold.png" width="260" style="border-radius:12px;">
     <br>
-    <span id="haut" style="color:#3b1c1c; font-weight:bold; font-size:30px;">Comment conter le Laissez un faire par Steven Medway</span>
+    <span id="haut" style="color:#f5f5f5; font-weight:bold; font-size:30px;">Comment Conter le script "Laissez un faire" par Steven Medway</span>
   </a>
 </div>
 
+<p style="text-align:center; font-size:20px; color:#f5f5f5; margin: 15px 0;">
+  Vous pouvez retrouver ici le lien du script pour l'éditer en PDF avec son fichier JSON : <a href="https://www.botcscripts.com/script/76/1.0.0" target="_blank" style="color:#4ea3ff; font-weight:bold; text-decoration:underline;">https://www.botcscripts.com/script/76/1.0.0</a>
+</p>
+
 <!-- Liste des rôles par catégorie avec icônes -->
-<div style="color:#3b1c1c; font-size:20px; line-height:1.7; margin: 20px 0;">
-  <p style="font-weight:bold; color:#3b1c1c; margin-bottom: 10px;">Les Rôles du script :</p>
+<div style="color:#f5f5f5; font-size:20px; line-height:1.7; margin: 20px 0;">
+  <p style="font-weight:bold; color:#e0c99d; margin-bottom: 10px;">Les Rôles du script « Laissez un faire » :</p>
   
-  <p style="font-weight:bold; color:#4ea3ff; margin-bottom: 5px;">- Villageois :</p>
+  <p style="font-weight:bold; color:#4ea3ff; margin-bottom: 5px;">•  Villageois :</p>
   <ul style="padding-left:0px; margin-left:0px; list-style-type:none; margin-top:0px;">
     <li><img src="./images/Icon_balloonist.png" width="25" height="25" style="vertical-align:middle; margin-right:8px;"> <a href="./roles_experimentaux/balloonist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aéronaute</a></li>
     <li><img src="./images/Icon_savant.png" width="25" height="25" style="vertical-align:middle; margin-right:8px;"> <a href="./sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a></li>
     <li><img src="./images/Icon_amnesiac.png" width="25" height="25" style="vertical-align:middle; margin-right:8px;"> <a href="./roles_experimentaux/amnesiac.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Amnésique</a></li>
     <li><img src="./images/Icon_fisherman.png" width="25" height="25" style="vertical-align:middle; margin-right:8px;"> <a href="./roles_experimentaux/fisherman.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pêcheur</a></li>
     <li><img src="./images/Icon_artist.png" width="25" height="25" style="vertical-align:middle; margin-right:8px;"> <a href="./sv_roles/artiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Artiste</a></li>
-    <li><img src="./images/Icon_balloonist.png" width="25" height="25" style="vertical-align:middle; margin-right:8px;"> <a href="./roles_experimentaux/cannibal.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cannibale</a></li>
+    <li><img src="./images/Icon_cannibal.png" width="25" height="25" style="vertical-align:middle; margin-right:8px;"> <a href="./roles_experimentaux/cannibal.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cannibale</a></li>
   </ul>
 
-  <p style="font-weight:bold; color:#10b981; margin-bottom: 5px;">- Marginaux :</p>
+  <p style="font-weight:bold; color:#4ea3ff; margin-bottom: 5px;">• Marginaux :</p>
   <ul style="padding-left:0px; margin-left:0px; list-style-type:none; margin-top:0px;">
-    <li><img src="./images/Icon_mutant.png" width="25" height="25" style="vertical-align:middle; margin-right:8px;"> <a href="./sv_roles/mutant.html" style="color:#10b981; font-weight:bold; text-decoration:none;">Bête de foire</a></li>
-    <li><img src="./images/Icon_lunatic.png" width="25" height="25" style="vertical-align:middle; margin-right:8px;"> <a href="./bmr_roles/lunatique.html" style="color:#10b981; font-weight:bold; text-decoration:none;">Lunatique</a></li>
+    <li><img src="./images/Icon_mutant.png" width="25" height="25" style="vertical-align:middle; margin-right:8px;"> <a href="./sv_roles/mutant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bête de foire</a></li>
+    <li><img src="./images/Icon_lunatic.png" width="25" height="25" style="vertical-align:middle; margin-right:8px;"> <a href="./bmr_roles/lunatique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lunatique</a></li>
   </ul>
 
-  <p style="font-weight:bold; color:#d45b5b; margin-bottom: 5px;">- Sbires :</p>
+  <p style="font-weight:bold; color:#d45b5b; margin-bottom: 5px;">• Sbires :</p>
   <ul style="padding-left:0px; margin-left:0px; list-style-type:none; margin-top:0px;">
     <li><img src="./images/Icon_widow.png" width="25" height="25" style="vertical-align:middle; margin-right:8px;"> <a href="./roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a></li>
     <li><img src="./images/Icon_goblin.png" width="25" height="25" style="vertical-align:middle; margin-right:8px;"> <a href="./roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Gobelin</a></li>
   </ul>
 
-  <p style="font-weight:bold; color:#d45b5b; margin-bottom: 5px;">- Démon :</p>
+  <p style="font-weight:bold; color:#d45b5b; margin-bottom: 5px;">•  Démon :</p>
   <ul style="padding-left:0px; margin-left:0px; list-style-type:none; margin-top:0px;">
     <li><img src="./images/Icon_leviathan.png" width="25" height="25" style="vertical-align:middle; margin-right:8px;"> <a href="./roles_experimentaux/leviathan.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Léviathan</a></li>
   </ul>
@@ -70,7 +74,7 @@ image: /images/logogold.png
 <hr class="explication">
 
 <p style="color:#3b1c1c; font-size:20px; line-height:1.7; font-weight:bold;">
-Guide pour conter le script Laissez un faire par Steven Medway
+Guide pour conter le script « Laissez un faire » par Steven Medway
 </p>
 
 <!-- 1. ORIGINE -->
@@ -199,7 +203,8 @@ La <a href="./roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:
 
 <!-- ===== PIED DE PAGE ===== --> 
 <p style="color:#e0c99d; font-size:20px; line-height:1.7; margin-left:0; text-align:left;">
-• <a href="./trouble_brewing.md" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a><br>
+• <a href="./conteur.html.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Conseils pour les Conteurs & Conteuses</a><br>
+• <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a><br>
 • <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a><br>
 • <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a><br>
 • <a href="./experimentaux.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Carrousel les rôles expérimentaux</a><br>
