@@ -60,7 +60,7 @@ Nous sommes Légion. »
 
 <ul style="color: #f5f5f5; font-size: 16px; line-height: 1.8; margin-bottom: 0; padding-left: 20px;">
   <li><a href="#introduction" style="color: #4ea3ff; text-decoration: none;">Introduction &amp; capacité</a></li>
-  <li><a href="#comment-animer" style="color: #4ea3ff; text-decoration: none;">Comment animer la partie</a></li>
+  <li><a href="#comment-conter" style="color: #4ea3ff; text-decoration: none;">Comment conter la partie</a></li>
   <li><a href="#resume-du-vote" style="color: #4ea3ff; text-decoration: none;">Résumé du vote</a></li>
   <li><a href="#fin-de-partie" style="color: #4ea3ff; text-decoration: none;">Fin de partie</a></li>
   <li><a href="#remarques-et-conseils" style="color: #4ea3ff; text-decoration: none;">Remarques générales et conseils pour le Conteur</a></li>
@@ -86,8 +86,8 @@ La <a href="./roles_experimentaux/legion.html" style="color:#f5f5f5; font-weight
 • <a href="./roles_experimentaux/legion.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retrouvez ici la fiche et le détail du rôle Légion</a>
 </p>
 
-<!-- ===== COMMENT ANIMER ===== -->
-<h2 style="color:#d45b5b;"><span id="comment-animer">Comment animer la partie</span></h2>
+<!-- ===== COMMENT conter ===== -->
+<h2 style="color:#d45b5b;"><span id="comment-conter">Comment conter la partie</span></h2>
 <hr>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
