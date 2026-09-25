@@ -427,7 +427,7 @@ data-tooltip="Suis-nous sur Instagram">
         <span class="rg-media">
           <img src="./images/carousel.png" alt="The Carousel Expérimental">
         </span>
-        <span class="rg-title">The Carousel</span>
+        <span class="rg-title">Le Carrousel</span>
       </a>
     </td>
 
