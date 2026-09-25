@@ -8,71 +8,69 @@ image: /images/logogold.png
 <!-- Laissez un faire -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./laissezunfaire.html" style="text-decoration:none;">
-    <img src="/images/logogold.png" alt="Laissez un faire" width="260" style="border-radius:12px;">
+    <img src="../images/logogold.png" alt="Laissez un faire" width="260" style="border-radius:12px;">
     <br>
-    <span id="haut" style="color:#f5f5f5; font-weight:bold; font-size:30px;">Comment conter le script « Laissez un faire » par Steven Medway</span>
+    <span id="haut" style="color:#d45b5b; font-weight:bold; font-size:30px;">Comment conter le Laissez un faire par Steven Medway</span>
   </a>
 </div>
 
 <!-- Liste des rôles par catégorie avec icônes -->
 <div style="color:#f5f5f5; font-size:20px; line-height:1.7; margin: 20px 0;">
-  <p style="font-weight:bold; color:#e0c99d; margin-bottom: 10px;">Les Rôles du script :</p>
+  <p style="font-weight:bold; color:#d45b5b; margin-bottom: 10px;">Les Rôles du script :</p>
   
   <p style="font-weight:bold; color:#4ea3ff; margin-bottom: 5px;">- Villageois :</p>
   <ul style="padding-left:0px; margin-left:0px; list-style-type:none; margin-top:0px;">
-    <li><img src="/images/Icon_balloonist.png" alt="Aéronaute" width="25" height="25" style="vertical-align:middle; margin-right:8px;"> <a href="./roles_experimentaux/balloonist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aéronaute</a></li>
-    <li><img src="/images/savant.png" alt="Savant" width="25" height="25" style="vertical-align:middle; margin-right:8px;"> <a href="./sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a></li>
-    <li><img src="/images/Icon_amnesiac.png" alt="Amnésique" width="25" height="25" style="vertical-align:middle; margin-right:8px;"> <a href="./roles_experimentaux/amnesiac.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Amnésique</a></li>
-    <li><img src="/images/Icon_fisherman.png" alt="Pêcheur" width="25" height="25" style="vertical-align:middle; margin-right:8px;"> <a href="./roles_experimentaux/fisherman.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pêcheur</a></li>
-    <li><img src="/images/Icon_artist.png" alt="Artiste" width="25" height="25" style="vertical-align:middle; margin-right:8px;"> <a href="./sv_roles/artiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Artiste</a></li>
-    <li><img src="/images/Icon_balloonist.png" alt="Cannibale" width="25" height="25" style="vertical-align:middle; margin-right:8px;"> <a href="./roles_experimentaux/cannibal.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cannibale</a></li>
+    <li><img src="../images/Icon_balloonist.png" alt="Aéronaute" width="25" height="25" style="vertical-align:middle; margin-right:8px;"> <a href="./roles_experimentaux/balloonist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aéronaute</a></li>
+    <li><img src="../images/Icon_savant.png" alt="Savant" width="25" height="25" style="vertical-align:middle; margin-right:8px;"> <a href="./sv_roles/savant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Savant</a></li>
+    <li><img src="../images/Icon_amnesiac.png" alt="Amnésique" width="25" height="25" style="vertical-align:middle; margin-right:8px;"> <a href="./roles_experimentaux/amnesiac.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Amnésique</a></li>
+    <li><img src="../images/Icon_fisherman.png" alt="Pêcheur" width="25" height="25" style="vertical-align:middle; margin-right:8px;"> <a href="./roles_experimentaux/fisherman.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pêcheur</a></li>
+    <li><img src="../images/Icon_artist.png" alt="Artiste" width="25" height="25" style="vertical-align:middle; margin-right:8px;"> <a href="./sv_roles/artiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Artiste</a></li>
+    <li><img src="../images/Icon_balloonist.png" alt="Cannibale" width="25" height="25" style="vertical-align:middle; margin-right:8px;"> <a href="./roles_experimentaux/cannibal.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Cannibale</a></li>
   </ul>
 
   <p style="font-weight:bold; color:#10b981; margin-bottom: 5px;">- Marginaux :</p>
   <ul style="padding-left:0px; margin-left:0px; list-style-type:none; margin-top:0px;">
-    <li><img src="/images/Icon_mutant.png" alt="Bête de foire" width="25" height="25" style="vertical-align:middle; margin-right:8px;"> <a href="./sv_roles/mutant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bête de foire</a></li>
-    <li><img src="/images/Icon_lunatic.png" alt="Lunatique" width="25" height="25" style="vertical-align:middle; margin-right:8px;"> <a href="./bmr_roles/lunatique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lunatique</a></li>
+    <li><img src="../images/Icon_mutant.png" alt="Bête de foire" width="25" height="25" style="vertical-align:middle; margin-right:8px;"> <a href="./sv_roles/mutant.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bête de foire</a></li>
+    <li><img src="../images/Icon_lunatic.png" alt="Lunatique" width="25" height="25" style="vertical-align:middle; margin-right:8px;"> <a href="./bmr_roles/lunatique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lunatique</a></li>
   </ul>
 
   <p style="font-weight:bold; color:#d45b5b; margin-bottom: 5px;">- Sbires :</p>
   <ul style="padding-left:0px; margin-left:0px; list-style-type:none; margin-top:0px;">
-    <li><img src="/images/Icon_widow.png" alt="Veuve" width="25" height="25" style="vertical-align:middle; margin-right:8px;"> <a href="./roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a></li>
-    <li><img src="/images/Icon_goblin.png" alt="Gobelin" width="25" height="25" style="vertical-align:middle; margin-right:8px;"> <a href="./roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Gobelin</a></li>
+    <li><img src="../images/Icon_widow.png" alt="Veuve" width="25" height="25" style="vertical-align:middle; margin-right:8px;"> <a href="./roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Veuve</a></li>
+    <li><img src="../images/Icon_goblin.png" alt="Gobelin" width="25" height="25" style="vertical-align:middle; margin-right:8px;"> <a href="./roles_experimentaux/goblin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Gobelin</a></li>
   </ul>
 
   <p style="font-weight:bold; color:#d45b5b; margin-bottom: 5px;">- Démon :</p>
   <ul style="padding-left:0px; margin-left:0px; list-style-type:none; margin-top:0px;">
-    <li><img src="/images/Icon_leviathan.png" alt="Léviathan" width="25" height="25" style="vertical-align:middle; margin-right:8px;"> <a href="./roles_experimentaux/leviathan.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Léviathan</a></li>
+    <li><img src="../images/Icon_leviathan.png" alt="Léviathan" width="25" height="25" style="vertical-align:middle; margin-right:8px;"> <a href="./roles_experimentaux/leviathan.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Léviathan</a></li>
   </ul>
 </div>
 
 <hr class="explication">
 
-<!-- SOMMAIRE -->
-<div style="background-color:#1e1e1e; padding:15px; border-radius:8px; margin:20px 0;">
-  <h3 style="color:#e0c99d; font-size:20px; margin-top:0;">Sommaire</h3>
-  <ul style="color:#f5f5f5; font-size:20px; line-height:1.7; padding-left:0px; margin-left:0px; list-style-type:none;">
-    <li>• <a href="#origine" style="color:#4ea3ff; text-decoration:none;">1. Origine et philosophie du script</a></li>
-    <li>• <a href="#les-roles" style="color:#4ea3ff; text-decoration:none;">2. Les Rôles et la Dynamique de Jeu</a></li>
-    <ul style="padding-left:0px; margin-left:0px; list-style-type:none;">
-      <li>- <a href="#leviathan" style="color:#4ea3ff; text-decoration:none;">Le Léviathan</a></li>
-      <li>- <a href="#villageois" style="color:#4ea3ff; text-decoration:none;">Les Villageois</a></li>
-      <li>- <a href="#gobelin" style="color:#4ea3ff; text-decoration:none;">Le Gobelin</a></li>
-      <li>- <a href="#veuve" style="color:#4ea3ff; text-decoration:none;">La Veuve</a></li>
-      <li>- <a href="#cannibale" style="color:#4ea3ff; text-decoration:none;">Le Cannibale</a></li>
-      <li>- <a href="#pecheur" style="color:#4ea3ff; text-decoration:none;">Le Pêcheur</a></li>
-      <li>- <a href="#aeronaute" style="color:#4ea3ff; text-decoration:none;">L'Aéronaute</a></li>
-      <li>- <a href="#amnesique-savant" style="color:#4ea3ff; text-decoration:none;">L'Amnésique et le Savant</a></li>
-      <li>- <a href="#bete-de-foire" style="color:#4ea3ff; text-decoration:none;">La Bête de foire</a></li>
-      <li>- <a href="#lunatique" style="color:#4ea3ff; text-decoration:none;">Le Lunatique</a></li>
-    </ul>
+<!-- SOMMAIRE SIMPLE (SANS CADRE NOIR) -->
+<h3 style="color:#d45b5b; font-size:24px; font-weight:bold; margin-top:20px;">Sommaire</h3>
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7; padding-left:0px; margin-left:0px; list-style-type:none;">
+  <li>• <a href="#origine" style="color:#4ea3ff; text-decoration:none;">1. Origine et philosophie du script</a></li>
+  <li>• <a href="#les-roles" style="color:#4ea3ff; text-decoration:none;">2. Les Rôles et la Dynamique de Jeu</a></li>
+  <ul style="padding-left:0px; margin-left:0px; list-style-type:none;">
+    <li>- <a href="#leviathan" style="color:#4ea3ff; text-decoration:none;">Le Léviathan</a></li>
+    <li>- <a href="#villageois" style="color:#4ea3ff; text-decoration:none;">Les Villageois</a></li>
+    <li>- <a href="#gobelin" style="color:#4ea3ff; text-decoration:none;">Le Gobelin</a></li>
+    <li>- <a href="#veuve" style="color:#4ea3ff; text-decoration:none;">La Veuve</a></li>
+    <li>- <a href="#cannibale" style="color:#4ea3ff; text-decoration:none;">Le Cannibale</a></li>
+    <li>- <a href="#pecheur" style="color:#4ea3ff; text-decoration:none;">Le Pêcheur</a></li>
+    <li>- <a href="#aeronaute" style="color:#4ea3ff; text-decoration:none;">L'Aéronaute</a></li>
+    <li>- <a href="#amnesique-savant" style="color:#4ea3ff; text-decoration:none;">L'Amnésique et le Savant</a></li>
+    <li>- <a href="#bete-de-foire" style="color:#4ea3ff; text-decoration:none;">La Bête de foire</a></li>
+    <li>- <a href="#lunatique" style="color:#4ea3ff; text-decoration:none;">Le Lunatique</a></li>
   </ul>
-</div>
+</ul>
 
 <hr class="explication">
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; font-weight:bold;">
-Guide pour conter le script « Laissez un faire » par Steven Medway
+Guide pour conter le script Laissez un faire par Steven Medway
 </p>
 
 <!-- 1. ORIGINE -->
@@ -196,7 +194,7 @@ La <a href="./roles_experimentaux/widow.html" style="color:#d45b5b; font-weight:
 
 <!-- RETOUR EN HAUT -->
 <div style="text-align:right; margin:20px 0;">
-  <a href="#haut" style="color:#e0c99d; font-size:20px; font-weight:bold; text-decoration:none;">▲ Retour en haut</a>
+  <a href="#haut" style="color:#d45b5b; font-size:20px; font-weight:bold; text-decoration:none;">▲ Retour en haut</a>
 </div>
 
 <!-- ===== PIED DE PAGE ===== --> 
