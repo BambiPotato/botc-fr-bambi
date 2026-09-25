@@ -817,6 +817,107 @@ data-tooltip="Suis-nous sur Instagram">
 </table>
 
 
+<!-- Guides pour les Conteurs -->
+<h1 style="
+  color:#b58b52;
+  font-size:20px;
+  font-weight:bold;
+  text-shadow:2px 2px 6px #000;
+  padding-left:16px;
+  margin-bottom:14px;
+  margin-top:30px;
+">
+  Guides pour les Conteurs par Steven Medway &amp; Emma
+</h1>
+
+<hr>
+
+<table class="roles-grid" role="presentation" aria-label="Guides pour les Conteurs">
+  <tr>
+    <!-- La Folie & la Pixie -->
+    <td style="height: auto !important; min-height: 220px; vertical-align: top;">
+      <a href="./foliepixie.html" style="display: flex; flex-direction: column; align-items: center; justify-content: space-between; height: 100%; min-height: 200px; padding: 20px 12px; text-decoration: none !important; box-sizing: border-box;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <span class="rg-media" style="margin-bottom: 12px;">
+            <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
+          </span>
+          <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px; text-align:center;">La Folie &amp; la Pixie</span>
+        </div>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center; line-height:1.3;">Guide pour la folie &amp; la Pixie par Steven Medway</span>
+      </a>
+    </td>
+
+    <!-- Conter l'Athée -->
+    <td style="height: auto !important; min-height: 220px; vertical-align: top;">
+      <a href="./athee.html" style="display: flex; flex-direction: column; align-items: center; justify-content: space-between; height: 100%; min-height: 200px; padding: 20px 12px; text-decoration: none !important; box-sizing: border-box;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <span class="rg-media" style="margin-bottom: 12px;">
+            <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
+          </span>
+          <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px; text-align:center;">Conter l'Athée</span>
+        </div>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center; line-height:1.3;">Guide pour conter l’Athée par Steven Medway</span>
+      </a>
+    </td>
+
+    <!-- Conter la Grande Prêtresse -->
+    <td style="height: auto !important; min-height: 220px; vertical-align: top;">
+      <a href="./grandepretresse.html" style="display: flex; flex-direction: column; align-items: center; justify-content: space-between; height: 100%; min-height: 200px; padding: 20px 12px; text-decoration: none !important; box-sizing: border-box;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <span class="rg-media" style="margin-bottom: 12px;">
+            <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
+          </span>
+          <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px; text-align:center;">Conter la Grande Prêtresse</span>
+        </div>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center; line-height:1.3;">Guide pour conter la Grande Prêtresse par Emma</span>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <!-- Conter la Légion -->
+    <td style="height: auto !important; min-height: 220px; vertical-align: top;">
+      <a href="./legion.html" style="display: flex; flex-direction: column; align-items: center; justify-content: space-between; height: 100%; min-height: 200px; padding: 20px 12px; text-decoration: none !important; box-sizing: border-box;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <span class="rg-media" style="margin-bottom: 12px;">
+            <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
+          </span>
+          <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px; text-align:center;">Conter la Légion</span>
+        </div>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center; line-height:1.3;">Guide pour conter la Légion par Steven Medway</span>
+      </a>
+    </td>
+
+    <!-- Conter le Yaggablabla -->
+    <td style="height: auto !important; min-height: 220px; vertical-align: top;">
+      <a href="./Yaggablabla.html" style="display: flex; flex-direction: column; align-items: center; justify-content: space-between; height: 100%; min-height: 200px; padding: 20px 12px; text-decoration: none !important; box-sizing: border-box;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <span class="rg-media" style="margin-bottom: 12px;">
+            <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
+          </span>
+          <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px; text-align:center;">Conter le Yaggablabla</span>
+        </div>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center; line-height:1.3;">Guide pour conter le Yaggablabla par Steven Medway</span>
+      </a>
+    </td>
+
+    <!-- Conter Laissez un faire -->
+    <td style="height: auto !important; min-height: 220px; vertical-align: top;">
+      <a href="./laissezunfaire.html" style="display: flex; flex-direction: column; align-items: center; justify-content: space-between; height: 100%; min-height: 200px; padding: 20px 12px; text-decoration: none !important; box-sizing: border-box;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <span class="rg-media" style="margin-bottom: 12px;">
+            <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
+          </span>
+          <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px; text-align:center;">Conter Laissez un Faire</span>
+        </div>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center; line-height:1.3;">Guide pour conter le script « Laissez un faire » par Steven Medway</span>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
 <!-- ====== SCRIPTS PERSONNALISÉS ====== -->
 <style>
 .scripts-grid {
