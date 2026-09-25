@@ -19,7 +19,7 @@ image: /images/Icon_yaggababble.png
   <a href="./yaggababble.html" style="text-decoration:none;">
     <img src="../images/Icon_yaggababble.png" alt="Yaggababble" width="260" style="border-radius:12px;">
     <br>
-    <span style="color:#d45b5b; font-weight:bold; font-size:35px;">Yaggababble</span>
+    <span style="color:#d45b5b; font-weight:bold; font-size:35px;">Yaggablabla</span>
   </a>
 </div>
 
@@ -151,7 +151,7 @@ Choisissez une phrase assez simple. Si la phrase proposée au Démon est inhabit
 • <strong>Variez l'intonation</strong> et le rythme de votre phrase pour qu'elle soit moins reconnaissable en tant que répétition.
 </p>
 
-## <span style="color:#d45b5b;">Combattre le Yaggababble</span>
+## <span style="color:#d45b5b;">Combattre le Yaggablabla</span>
 <hr>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
