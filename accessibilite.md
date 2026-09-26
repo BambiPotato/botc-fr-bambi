@@ -24,35 +24,26 @@ image: /images/Icon_revolutionary.png
   </a>
 </div>
 
-<!-- Sommaire -->
-<div style="background-color: #2a2421; border: 1px solid #e0c99d; border-radius: 12px; padding: 25px; margin: 30px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
-  <p style="color:#e0c99d; font-size:24px; font-weight:bold; margin-top:0; margin-bottom:15px; text-transform: uppercase; letter-spacing: 1px; border-bottom: 1px solid #e0c99d; padding-bottom: 10px;">
-    Sommaire
+<!-- Sommaire encadré transparent -->
+<div style="border: 1px solid #e0c99d; border-radius: 8px; padding: 20px; margin: 25px 0;">
+  <p style="color:#e0c99d; font-size:22px; font-weight:bold; margin-top:0; margin-bottom:12px; border-bottom: 1px solid #e0c99d; padding-bottom: 6px;">
+    SOMMAIRE
   </p>
-  <ul style="color:#f5f5f5; font-size:19px; line-height:2; padding-left:0px; margin-left:0px; list-style-type:none;">
-    <li style="margin-bottom: 8px;">
-      <span style="color:#e0c99d;">◈</span> <a href="#introduction" style="color:#4ea3ff; text-decoration:none; font-weight:bold;">1. Introduction et philosophie</a>
-    </li><br>
-    <li style="margin-bottom: 8px;">
-      <span style="color:#e0c99d;">◈</span> <a href="#revolutionnaire" style="color:#4ea3ff; text-decoration:none; font-weight:bold;">2. Le Révolutionnaire (Rôle Légendaire)</a>
-    </li><br>
-    <li style="margin-bottom: 8px;">
-      <span style="color:#e0c99d;">◈</span> <a href="#mobilite" style="color:#4ea3ff; text-decoration:none; font-weight:bold;">3. Adapter le jeu aux problèmes de mobilité</a>
-    </li><br>
-    <li style="margin-bottom: 8px;">
-      <span style="color:#e0c99d;">◈</span> <a href="#anxiete-attention" style="color:#4ea3ff; text-decoration:none; font-weight:bold;">4. Anxiété et déficit de l'attention</a>
-    </li><br>
-    <li style="margin-bottom: 8px;">
-      <span style="color:#e0c99d;">◈</span> <a href="#non-voyants" style="color:#4ea3ff; text-decoration:none; font-weight:bold;">5. Accessibilité pour les joueurs non-voyants et malvoyants</a>
-      <ul style="padding-left:25px; list-style-type:none; margin-top: 8px;">
-        <li style="margin-bottom: 6px;">◇ <a href="#braille" style="color:#4ea3ff; text-decoration:none;">Fiches de rôles en Braille</a></li><br>
-        <li style="margin-bottom: 6px;">◇ <a href="#synthese-vocale" style="color:#4ea3ff; text-decoration:none;">Synthèse vocale</a></li><br>
-        <li style="margin-bottom: 6px;">◇ <a href="#explications-num-positions" style="color:#4ea3ff; text-decoration:none;">Explication des règles &amp; numéros de position des joueurs</a></li><br>
-        <li style="margin-bottom: 6px;">◇ <a href="#choix-roles" style="color:#4ea3ff; text-decoration:none;">Sélection des rôles</a></li><br>
-        <li style="margin-bottom: 6px;">◇ <a href="#phase-nuit-tts" style="color:#4ea3ff; text-decoration:none;">Phase de nuit – Synthèse vocale</a></li><br>
-        <li style="margin-bottom: 6px;">◇ <a href="#phase-nuit-directe" style="color:#4ea3ff; text-decoration:none;">Phase de nuit – Communication directe</a></li><br>
-        <li style="margin-bottom: 6px;">◇ <a href="#communication-non-verbale" style="color:#4ea3ff; text-decoration:none;">Phase de nuit – Communication non-verbale</a></li><br>
-        <li style="margin-bottom: 6px;">◇ <a href="#votes-executions" style="color:#4ea3ff; text-decoration:none;">Votes et exécutions</a></li><br>
+  <ul style="color:#f5f5f5; font-size:18px; line-height:1.8; padding-left:0px; margin-left:0px; list-style-type:none;">
+    <li><span style="color:#e0c99d;">◈</span> <a href="#introduction" style="color:#4ea3ff; text-decoration:none; font-weight:bold;">1. Introduction et philosophie</a></li><br>
+    <li><span style="color:#e0c99d;">◈</span> <a href="#revolutionnaire" style="color:#4ea3ff; text-decoration:none; font-weight:bold;">2. Le Révolutionnaire (Rôle Légendaire)</a></li><br>
+    <li><span style="color:#e0c99d;">◈</span> <a href="#mobilite" style="color:#4ea3ff; text-decoration:none; font-weight:bold;">3. Adapter le jeu aux problèmes de mobilité</a></li><br>
+    <li><span style="color:#e0c99d;">◈</span> <a href="#anxiete-attention" style="color:#4ea3ff; text-decoration:none; font-weight:bold;">4. Anxiété et déficit de l'attention</a></li><br>
+    <li><span style="color:#e0c99d;">◈</span> <a href="#non-voyants" style="color:#4ea3ff; text-decoration:none; font-weight:bold;">5. Accessibilité pour les joueurs non-voyants et malvoyants</a>
+      <ul style="padding-left:20px; list-style-type:none; margin-top: 6px;">
+        <li>◇ <a href="#braille" style="color:#4ea3ff; text-decoration:none;">Fiches de rôles en Braille</a></li><br>
+        <li>◇ <a href="#synthese-vocale" style="color:#4ea3ff; text-decoration:none;">Synthèse vocale</a></li><br>
+        <li>◇ <a href="#explications-num-positions" style="color:#4ea3ff; text-decoration:none;">Explication des règles &amp; numéros de position des joueurs</a></li><br>
+        <li>◇ <a href="#choix-roles" style="color:#4ea3ff; text-decoration:none;">Sélection des rôles</a></li><br>
+        <li>◇ <a href="#phase-nuit-tts" style="color:#4ea3ff; text-decoration:none;">Phase de nuit – Synthèse vocale</a></li><br>
+        <li>◇ <a href="#phase-nuit-directe" style="color:#4ea3ff; text-decoration:none;">Phase de nuit – Communication directe</a></li><br>
+        <li>◇ <a href="#communication-non-verbale" style="color:#4ea3ff; text-decoration:none;">Phase de nuit – Communication non-verbale</a></li><br>
+        <li>◇ <a href="#votes-executions" style="color:#4ea3ff; text-decoration:none;">Votes et exécutions</a></li><br>
       </ul>
     </li><br>
   </ul>
