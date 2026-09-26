@@ -121,7 +121,7 @@ image: /images/Icon_revolutionary.png
 </ul>
 
 <div style="border-left: 4px solid #e0c99d; padding-left: 15px; margin: 20px 0;">
-  <p style="color:#e0c99d; font-size:20px; font-weight:bold; margin-bottom: 8px;">Section « <a href="./menerunepartie.html" style="color:#e0c99d; text-decoration:underline;">Mener une partie</a> » du livre des règles pour le Conteur :</p>
+  <p style="color:#e0c99d; font-size:20px; font-weight:bold; margin-bottom: 8px;">La section « <a href="./menerunepartie.html" style="color:#e0c99d; text-decoration:underline;">Mener une partie</a> » du livre des règles pour le Conteur rassemble l'ensemble des ressources nécessaires pour vous guider à chaque étape du jeu. </p>
   <p style="color:#f5f5f5; font-size:19px; line-height:1.7;">
     Lors de la mise en place de la partie, avant de donner le sac aux joueurs, déclarez que le <a href="./legendaire_roles/revolutionary.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Révolutionnaire</a> est en jeu et désignez les deux joueurs voisins qui forment le binôme <a href="./legendaire_roles/revolutionary.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Révolutionnaire</a>. Ajoutez le jeton <a href="./legendaire_roles/revolutionary.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Révolutionnaire</a> au Grimoire. Placez le rappel "FAUSSE APPARENCE ? " entre leurs jetons de rôle.<br><br>
     Donnez le sac à l'un des Révolutionnaires. Il tire un jeton. Regardez son jeton, choisissez dans le sac un jeton du même alignement et donnez-le au second Révolutionnaire. Ensuite, donnez le sac aux joueurs non-Révolutionnaires pour qu'ils tirent leur rôle.<br><br>
