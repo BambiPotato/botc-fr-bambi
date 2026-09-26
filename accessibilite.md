@@ -118,6 +118,7 @@ image: /images/Icon_revolutionary.png
   Si l'un des joueurs a besoin d'aide à tout moment, que ce soit pour comprendre ou pour communiquer, il peut s'en remettre à son partenaire de confiance pour lui transmettre ce qu'il doit savoir ou pour s'exprimer en son nom s'il est dans l'impossibilité de le faire.
 </p>
 
+<div class="botc-note">
 <p style="color:#e0c99d; font-size:20px; line-height:1.8; font-weight:bold;">Exemples :</p>
 
 <ul style="color:#f5f5f5; font-size:20px; line-height:1.8; padding-left:0px; margin-left:0px; list-style-type:none;">
@@ -133,6 +134,7 @@ image: /images/Icon_revolutionary.png
     Une fois par partie, vous pouvez faire enregistrer un joueur marqué "Est perçu comme faussé ?" comme un rôle et un alignement différents, puis retirez le rappel "Est perçu comme faussé ?".
   </p>
 </div>
+</div>
 
 <hr class="explication">
 
@@ -140,7 +142,7 @@ image: /images/Icon_revolutionary.png
 <p style="color:#f5f5f5; font-size:24px; font-weight:bold;"><span id="mobilite">3. Adapter le jeu aux problèmes de mobilité</span></p>
 
 <div style="text-align:center; margin: 25px 0;">
-  <img src="./images/3_-_S_V_Cutout_-_Beetle_2.png" alt="Scarabée" width="240">
+  <img src="./images/3_-_S_V_Cutout_-_Beetle_2.png.avif" alt="Scarabée" width="240">
 </div>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.8;">
@@ -165,7 +167,7 @@ image: /images/Icon_revolutionary.png
 <p style="color:#f5f5f5; font-size:24px; font-weight:bold;"><span id="anxiete-attention">4. Anxiété et déficit de l'attention</span></p>
 
 <div style="text-align:center; margin: 25px 0;">
-  <img src="./images/3_-_GOS_Cutout_-_Mushroom_B_1.png" alt="Champignon" width="240">
+  <img src="./images/3_-_GOS_Cutout_-_Mushroom_B_1.png.avif" alt="Champignon" width="240">
 </div>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.8;">
@@ -190,7 +192,7 @@ image: /images/Icon_revolutionary.png
 <p style="color:#f5f5f5; font-size:24px; font-weight:bold;"><span id="non-voyants">5. Accessibilité pour les joueurs non-voyants et malvoyants</span></p>
 
 <div style="text-align:center; margin: 25px 0;">
-  <img src="./images/3_-_TB_Cutout_-_Bottle_C_1.png" alt="Bouteille" width="240">
+  <img src="./images/3_-_TB_Cutout_-_Bottle_C_1.png.avif" alt="Bouteille" width="240">
 </div>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.8;">
@@ -321,7 +323,7 @@ image: /images/Icon_revolutionary.png
 
 <!-- Pied de page --> 
 <p style="color:#e0c99d; font-size:20px; line-height:1.8; margin-left:0; text-align:left;">
-• <a href="./legendaire_roles/revolutionary.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Le Révolutionnaire</a><br>
+• <a href="./legendaire_roles/revolutionary.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Le Révolutionnaire</a><br>
 • <a href="./menerunepartie.html" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Mener une partie</a><br>
 • <a href="./index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a>
 </p>
