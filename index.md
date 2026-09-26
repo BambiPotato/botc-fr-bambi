@@ -639,6 +639,19 @@ data-tooltip="Suis-nous sur Instagram">
       </a>
     </td>
 
+    <!-- Accessibilité -->
+    <td style="height: auto !important; min-height: 220px; vertical-align: top;">
+      <a href="./accessibilite.html" style="display: flex; flex-direction: column; align-items: center; justify-content: space-between; height: 100%; min-height: 200px; padding: 20px 12px; text-decoration: none !important; box-sizing: border-box;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <span class="rg-media" style="margin-bottom: 12px;">
+            <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
+          </span>
+          <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px; text-align:center;">Accessibilité - Blood on the Clocktower</span>
+        </div>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center; line-height:1.3;">Conseils et guides complets d'accessibilité pour inclure tous les joueurs dans BotC</span>
+      </a>
+    </td>
+
     <!-- BotC App : Guide pour jouer et conter en ligne -->
     <td style="height: auto !important; min-height: 220px; vertical-align: top;">
       <a href="./botc-app.html" style="display: flex; flex-direction: column; align-items: center; justify-content: space-between; height: 100%; min-height: 200px; padding: 20px 12px; text-decoration: none !important; box-sizing: border-box;">
@@ -651,9 +664,6 @@ data-tooltip="Suis-nous sur Instagram">
         <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center; line-height:1.3;">Tutoriel complet pour jouer sur l'application officielle</span>
       </a>
     </td>
-
-    <!-- Case vide invisible restante -->
-    <td style="background: transparent !important; border: none !important; box-shadow: none !important;"></td>
   </tr>
 </table>
 
