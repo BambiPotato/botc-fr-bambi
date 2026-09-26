@@ -24,26 +24,26 @@ image: /images/Icon_revolutionary.png
   </a>
 </div>
 
-<!-- Sommaire encadré transparent -->
-<div style="border: 1px solid #e0c99d; border-radius: 8px; padding: 20px; margin: 25px 0;">
-  <p style="color:#e0c99d; font-size:22px; font-weight:bold; margin-top:0; margin-bottom:12px; border-bottom: 1px solid #e0c99d; padding-bottom: 6px;">
+<!-- Sommaire encadré sur fond parchemin sombre élégant -->
+<div style="background-color: #221915; border: 2px solid #b58b52; border-radius: 10px; padding: 20px 25px; margin: 25px 0; box-shadow: 0 4px 10px rgba(0,0,0,0.25);">
+  <p style="color:#e0c99d; font-size:22px; font-weight:bold; margin-top:0; margin-bottom:12px; border-bottom: 1px solid #b58b52; padding-bottom: 6px; letter-spacing: 1px;">
     SOMMAIRE
   </p>
   <ul style="color:#f5f5f5; font-size:18px; line-height:1.8; padding-left:0px; margin-left:0px; list-style-type:none;">
-    <li><span style="color:#e0c99d;">◈</span> <a href="#introduction" style="color:#4ea3ff; text-decoration:none; font-weight:bold;">1. Introduction et philosophie</a></li><br>
-    <li><span style="color:#e0c99d;">◈</span> <a href="#revolutionnaire" style="color:#4ea3ff; text-decoration:none; font-weight:bold;">2. Le Révolutionnaire (Rôle Légendaire)</a></li><br>
-    <li><span style="color:#e0c99d;">◈</span> <a href="#mobilite" style="color:#4ea3ff; text-decoration:none; font-weight:bold;">3. Adapter le jeu aux problèmes de mobilité</a></li><br>
-    <li><span style="color:#e0c99d;">◈</span> <a href="#anxiete-attention" style="color:#4ea3ff; text-decoration:none; font-weight:bold;">4. Anxiété et déficit de l'attention</a></li><br>
-    <li><span style="color:#e0c99d;">◈</span> <a href="#non-voyants" style="color:#4ea3ff; text-decoration:none; font-weight:bold;">5. Accessibilité pour les joueurs non-voyants et malvoyants</a>
+    <li><span style="color:#e0c99d;">◈</span> <a href="#introduction" style="color:#63b3ff; font-weight:bold; text-decoration:none;">1. Introduction et philosophie</a></li><br>
+    <li><span style="color:#e0c99d;">◈</span> <a href="#revolutionnaire" style="color:#63b3ff; font-weight:bold; text-decoration:none;">2. Le Révolutionnaire (Rôle Légendaire)</a></li><br>
+    <li><span style="color:#e0c99d;">◈</span> <a href="#mobilite" style="color:#63b3ff; font-weight:bold; text-decoration:none;">3. Adapter le jeu aux problèmes de mobilité</a></li><br>
+    <li><span style="color:#e0c99d;">◈</span> <a href="#anxiete-attention" style="color:#63b3ff; font-weight:bold; text-decoration:none;">4. Anxiété et déficit de l'attention</a></li><br>
+    <li><span style="color:#e0c99d;">◈</span> <a href="#non-voyants" style="color:#63b3ff; font-weight:bold; text-decoration:none;">5. Accessibilité pour les joueurs non-voyants et malvoyants</a>
       <ul style="padding-left:20px; list-style-type:none; margin-top: 6px;">
-        <li>◇ <a href="#braille" style="color:#4ea3ff; text-decoration:none;">Fiches de rôles en Braille</a></li><br>
-        <li>◇ <a href="#synthese-vocale" style="color:#4ea3ff; text-decoration:none;">Synthèse vocale</a></li><br>
-        <li>◇ <a href="#explications-num-positions" style="color:#4ea3ff; text-decoration:none;">Explication des règles &amp; numéros de position des joueurs</a></li><br>
-        <li>◇ <a href="#choix-roles" style="color:#4ea3ff; text-decoration:none;">Sélection des rôles</a></li><br>
-        <li>◇ <a href="#phase-nuit-tts" style="color:#4ea3ff; text-decoration:none;">Phase de nuit – Synthèse vocale</a></li><br>
-        <li>◇ <a href="#phase-nuit-directe" style="color:#4ea3ff; text-decoration:none;">Phase de nuit – Communication directe</a></li><br>
-        <li>◇ <a href="#communication-non-verbale" style="color:#4ea3ff; text-decoration:none;">Phase de nuit – Communication non-verbale</a></li><br>
-        <li>◇ <a href="#votes-executions" style="color:#4ea3ff; text-decoration:none;">Votes et exécutions</a></li><br>
+        <li><span style="color:#e0c99d;">◇</span> <a href="#braille" style="color:#63b3ff; text-decoration:none;">Fiches de rôles en Braille</a></li><br>
+        <li><span style="color:#e0c99d;">◇</span> <a href="#synthese-vocale" style="color:#63b3ff; text-decoration:none;">Synthèse vocale</a></li><br>
+        <li><span style="color:#e0c99d;">◇</span> <a href="#explications-num-positions" style="color:#63b3ff; text-decoration:none;">Explication des règles &amp; numéros de position des joueurs</a></li><br>
+        <li><span style="color:#e0c99d;">◇</span> <a href="#choix-roles" style="color:#63b3ff; text-decoration:none;">Sélection des rôles</a></li><br>
+        <li><span style="color:#e0c99d;">◇</span> <a href="#phase-nuit-tts" style="color:#63b3ff; text-decoration:none;">Phase de nuit – Synthèse vocale</a></li><br>
+        <li><span style="color:#e0c99d;">◇</span> <a href="#phase-nuit-directe" style="color:#63b3ff; text-decoration:none;">Phase de nuit – Communication directe</a></li><br>
+        <li><span style="color:#e0c99d;">◇</span> <a href="#communication-non-verbale" style="color:#63b3ff; text-decoration:none;">Phase de nuit – Communication non-verbale</a></li><br>
+        <li><span style="color:#e0c99d;">◇</span> <a href="#votes-executions" style="color:#63b3ff; text-decoration:none;">Votes et exécutions</a></li><br>
       </ul>
     </li><br>
   </ul>
@@ -120,9 +120,9 @@ image: /images/Icon_revolutionary.png
 <div style="border-left: 4px solid #e0c99d; padding-left: 15px; margin: 20px 0;">
   <p style="color:#e0c99d; font-size:20px; font-weight:bold; margin-bottom: 8px;">Section « <a href="./menerunepartie.html" style="color:#e0c99d; text-decoration:underline;">Mener une partie</a> » du livre des règles pour le Conteur :</p>
   <p style="color:#f5f5f5; font-size:19px; line-height:1.7;">
-    Lors de la mise en place de la partie, avant de donner le sac aux joueurs, déclarez que le <a href="./legendaire_roles/revolutionary.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Révolutionnaire</a> est en jeu et désignez les deux joueurs voisins qui forment le binôme <a href="./legendaire_roles/revolutionary.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Révolutionnaire</a>. Ajoutez le jeton <a href="./legendaire_roles/revolutionary.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Révolutionnaire</a> au Grimoire. Placez le rappel "Est perçu comme faussé ?" entre leurs jetons de rôle.<br><br>
+    Lors de la mise en place de la partie, avant de donner le sac aux joueurs, déclarez que le <a href="./legendaire_roles/revolutionary.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Révolutionnaire</a> est en jeu et désignez les deux joueurs voisins qui forment le binôme <a href="./legendaire_roles/revolutionary.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Révolutionnaire</a>. Ajoutez le jeton <a href="./legendaire_roles/revolutionary.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Révolutionnaire</a> au Grimoire. Placez le rappel "FAUSSE APPARENCE ? " entre leurs jetons de rôle.<br><br>
     Donnez le sac à l'un des Révolutionnaires. Il tire un jeton. Regardez son jeton, choisissez dans le sac un jeton du même alignement et donnez-le au second Révolutionnaire. Ensuite, donnez le sac aux joueurs non-Révolutionnaires pour qu'ils tirent leur rôle.<br><br>
-    Une fois par partie, vous pouvez faire enregistrer un joueur marqué "Est perçu comme faussé ?" comme un rôle et un alignement différents, puis retirez le rappel "Est perçu comme faussé ?".
+    Une fois par partie, vous pouvez faire enregistrer un joueur marqué "FAUSSE APPARENCE ? " comme un rôle et un alignement différents, puis retirez le rappel "FAUSSE APPARENCE ? ".
   </p>
 </div>
 </div>
