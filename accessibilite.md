@@ -26,30 +26,31 @@ image: /images/Icon_revolutionary.png
 
 
 
-<!-- Sommaire Parchemin Ambré - Lisibilité Maximale -->
+<!-- Sommaire Parchemin Ambré - Aligné et Lisible -->
 <div style="background-color: #f4ecd8; border: 2px solid #b8860b; border-radius: 10px; padding: 22px 28px; margin: 25px 0; box-shadow: 0 3px 10px rgba(0,0,0,0.06);">
   <p style="color:#3b1c1c; font-size:24px; font-weight:bold; margin-top:0; margin-bottom:14px; border-bottom: 2px solid #b8860b; padding-bottom: 8px; letter-spacing: 1px;">
     SOMMAIRE
   </p>
-  <ul style="color:#222; font-size:20px; line-height:1.9; padding-left:0px; margin-left:0px; list-style-type:none;">
-    <li><span style="color:#b8860b;">◈</span> <a href="#introduction" style="color:#1565c0; font-weight:bold; text-decoration:none;">1. Introduction et philosophie</a></li><br>
-    <li><span style="color:#b8860b;">◈</span> <a href="#revolutionnaire" style="color:#1565c0; font-weight:bold; text-decoration:none;">2. Le Révolutionnaire (Rôle Légendaire)</a></li><br>
-    <li><span style="color:#b8860b;">◈</span> <a href="#mobilite" style="color:#1565c0; font-weight:bold; text-decoration:none;">3. Adapter le jeu aux problèmes de mobilité</a></li><br>
-    <li><span style="color:#b8860b;">◈</span> <a href="#anxiete-attention" style="color:#1565c0; font-weight:bold; text-decoration:none;">4. Anxiété et déficit de l'attention</a></li><br>
-    <li><span style="color:#b8860b;">◈</span> <a href="#non-voyants" style="color:#1565c0; font-weight:bold; text-decoration:none;">5. Accessibilité pour les joueurs non-voyants et malvoyants</a>
-      <ul style="padding-left:25px; list-style-type:none; margin-top: 10px;">
-        <li><span style="color:#b8860b;">◇</span> <a href="#braille" style="color:#0a3871; font-size:19px; font-weight:bold; text-decoration:none;">Fiches de rôles en Braille</a></li><br>
-        <li><span style="color:#b8860b;">◇</span> <a href="#synthese-vocale" style="color:#0a3871; font-size:19px; font-weight:bold; text-decoration:none;">Synthèse vocale</a></li><br>
-        <li><span style="color:#b8860b;">◇</span> <a href="#explications-num-positions" style="color:#0a3871; font-size:19px; font-weight:bold; text-decoration:none;">Explication des règles &amp; numéros de position des joueurs</a></li><br>
-        <li><span style="color:#b8860b;">◇</span> <a href="#choix-roles" style="color:#0a3871; font-size:19px; font-weight:bold; text-decoration:none;">Sélection des rôles</a></li><br>
-        <li><span style="color:#b8860b;">◇</span> <a href="#phase-nuit-tts" style="color:#0a3871; font-size:19px; font-weight:bold; text-decoration:none;">Phase de nuit – Synthèse vocale</a></li><br>
-        <li><span style="color:#b8860b;">◇</span> <a href="#phase-nuit-directe" style="color:#0a3871; font-size:19px; font-weight:bold; text-decoration:none;">Phase de nuit – Communication directe</a></li><br>
-        <li><span style="color:#b8860b;">◇</span> <a href="#communication-non-verbale" style="color:#0a3871; font-size:19px; font-weight:bold; text-decoration:none;">Phase de nuit – Communication non-verbale</a></li><br>
-        <li><span style="color:#b8860b;">◇</span> <a href="#votes-executions" style="color:#0a3871; font-size:19px; font-weight:bold; text-decoration:none;">Votes et exécutions</a></li><br>
+  <ul style="color:#222; font-size:19px; line-height:1.6; padding-left:0px; margin-left:0px; list-style-type:none;">
+    <li style="margin-bottom: 10px;"><span style="color:#b8860b;">◈</span> <a href="#introduction" style="color:#1565c0; font-weight:bold; text-decoration:none;">1. Introduction et philosophie</a></li>
+    <li style="margin-bottom: 10px;"><span style="color:#b8860b;">◈</span> <a href="#revolutionnaire" style="color:#1565c0; font-weight:bold; text-decoration:none;">2. Le Révolutionnaire (Rôle Légendaire)</a></li>
+    <li style="margin-bottom: 10px;"><span style="color:#b8860b;">◈</span> <a href="#mobilite" style="color:#1565c0; font-weight:bold; text-decoration:none;">3. Adapter le jeu aux problèmes de mobilité</a></li>
+    <li style="margin-bottom: 10px;"><span style="color:#b8860b;">◈</span> <a href="#anxiete-attention" style="color:#1565c0; font-weight:bold; text-decoration:none;">4. Anxiété et déficit de l'attention</a></li>
+    <li style="margin-bottom: 10px;"><span style="color:#b8860b;">◈</span> <a href="#non-voyants" style="color:#1565c0; font-weight:bold; text-decoration:none;">5. Accessibilité pour les joueurs non-voyants et malvoyants</a>
+      <ul style="padding-left:15px; list-style-type:none; margin-top: 8px;">
+        <li style="margin-bottom: 6px;"><span style="color:#b8860b;">◇</span> <a href="#braille" style="color:#0a3871; font-size:18px; font-weight:bold; text-decoration:none;">Fiches de rôles en Braille</a></li>
+        <li style="margin-bottom: 6px;"><span style="color:#b8860b;">◇</span> <a href="#synthese-vocale" style="color:#0a3871; font-size:18px; font-weight:bold; text-decoration:none;">Synthèse vocale</a></li>
+        <li style="margin-bottom: 6px;"><span style="color:#b8860b;">◇</span> <a href="#explications-num-positions" style="color:#0a3871; font-size:18px; font-weight:bold; text-decoration:none;">Explication des règles &amp; numéros de position des joueurs</a></li>
+        <li style="margin-bottom: 6px;"><span style="color:#b8860b;">◇</span> <a href="#choix-roles" style="color:#0a3871; font-size:18px; font-weight:bold; text-decoration:none;">Sélection des rôles</a></li>
+        <li style="margin-bottom: 6px;"><span style="color:#b8860b;">◇</span> <a href="#phase-nuit-tts" style="color:#0a3871; font-size:18px; font-weight:bold; text-decoration:none;">Phase de nuit – Synthèse vocale</a></li>
+        <li style="margin-bottom: 6px;"><span style="color:#b8860b;">◇</span> <a href="#phase-nuit-directe" style="color:#0a3871; font-size:18px; font-weight:bold; text-decoration:none;">Phase de nuit – Communication directe</a></li>
+        <li style="margin-bottom: 6px;"><span style="color:#b8860b;">◇</span> <a href="#communication-non-verbale" style="color:#0a3871; font-size:18px; font-weight:bold; text-decoration:none;">Phase de nuit – Communication non-verbale</a></li>
+        <li style="margin-bottom: 6px;"><span style="color:#b8860b;">◇</span> <a href="#votes-executions" style="color:#0a3871; font-size:18px; font-weight:bold; text-decoration:none;">Votes et exécutions</a></li>
       </ul>
-    </li><br>
+    </li>
   </ul>
 </div>
+
 
 <hr class="explication">
 
@@ -196,6 +197,7 @@ image: /images/Icon_revolutionary.png
   Par-dessus tout, nous vous recommandons de discuter au préalable avec vos joueurs (dans la mesure du possible) des méthodes qui fonctionneraient le mieux pour eux. Les procédures présentées ici peuvent très bien convenir à certains joueurs et pas à d'autres. Par exemple, nous avons récemment rencontré dans un groupe régulier un joueur non-voyant qui, après des centaines de parties jouées, recevait ses informations nocturnes et de départ via la synthèse vocale de sa tablette, sans nécessiter la moindre autre modification ni procédure spécifique.
 </p>
 
+<div class="botc-note">
 <p style="color:#e0c99d; font-size:22px; font-weight:bold; margin-top:25px;"><span id="braille">Fiches de rôles en Braille</span></p>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.8;">
@@ -207,6 +209,8 @@ image: /images/Icon_revolutionary.png
   <li style="margin-bottom: 10px;">• <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising - Fichier Braille</a></li><br>
   <li style="margin-bottom: 10px;">• <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets - Fichier Braille</a></li><br>
 </ul>
+</div>
+
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.8;">
   Si vous n'avez pas accès à des moyens d'impression en Braille, nous vous conseillons de contacter les services locaux d'assistance aux déficients visuels pour voir s'ils peuvent vous proposer ce service (et faire une petite donation au passage s'ils l'acceptent). Auparavant, nous avons pu faire imprimer un petit nombre de fiches de rôles en Braille grâce à l'American Council of the Blind of Ohio.
