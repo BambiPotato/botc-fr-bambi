@@ -322,7 +322,7 @@ image: /images/logogold.png
     <div class="video-card-compact">
       <h3>Tuto vidéo</h3>
       <div class="video-wrapper-compact">
-        <iframe src="https://www.youtube-nocookie.com/embed/O2ksf5eTeSI" title="Tutoriel pour jouer sur l'application" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe src="https://youtu.be/FChVgdVcUyY?si=MWTnlKkg2hM26Rpy" title="Tutoriel pour jouer sur l'application" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
       <p>Une petite démonstration en vidéo pour vous guider pas à pas sur l'application.</p>
     </div>
