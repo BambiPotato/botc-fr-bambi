@@ -58,11 +58,11 @@ image: /images/Icon_revolutionary.png
 <p style="color:#f5f5f5; font-size:24px; font-weight:bold;"><span id="introduction">1. Introduction et philosophie</span></p>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.8;">
-  Au cours des années de développement et de promotion de <em>Blood on the Clocktower</em>, nous avons rencontré des personnes présentant une grande variété de handicaps et qui étaient très intéressées par l'idée de jouer.
+  Au cours des années de développement et de promotion de <em>Blood on the Clocktower</em>, nous avons rencontré des personnes confrontées à une grande variété de situations de handicap et qui étaient très intéressées par l’idée de jouer.
 </p>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.8;">
-  L'un de nos objectifs cardinaux avec <em>Blood on the Clocktower</em> a toujours été de créer un jeu qui soit le plus accessible possible. C'est pourquoi nous avons constamment travaillé à trouver des moyens de surmonter tous les handicaps ou problèmes de communication, afin de pouvoir inclure quiconque souhaite jouer de la manière la plus complète possible.
+  L’un de nos objectifs fondamentaux avec <em>Blood on the Clocktower</em> a toujours été de créer un jeu aussi accessible que possible. C’est pourquoi nous avons constamment travaillé à trouver des moyens de nous adapter aux différentes situations de handicap ou difficultés de communication, afin d’inclure pleinement toute personne souhaitant jouer.
 </p>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.8;">
@@ -85,11 +85,11 @@ image: /images/Icon_revolutionary.png
 </div>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.8;">
-  En règle générale, la meilleure façon d'inclure un joueur qui rencontrerait normalement des difficultés à jouer est d'utiliser le rôle Légendaire du <a href="./legendaire_roles/revolutionary.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Révolutionnaire</a>, qui est inclus dans toutes les éditions de <em>Blood on the Clocktower</em>. Le <a href="./legendaire_roles/revolutionary.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Révolutionnaire</a> est un rôle Légendaire conçu spécifiquement pour le Conteur afin de permettre à tous les joueurs de participer pleinement à la partie.
+  En règle générale, la meilleure façon d'inclure un joueur qui rencontrerait normalement des difficultés à jouer est d'utiliser le rôle Légendaire du <a href="./legendaire_roles/revolutionary.html" style="color:#B8860B; font-weight:bold; text-decoration:none;">Révolutionnaire</a>, qui est inclus dans toutes les éditions de <em>Blood on the Clocktower</em>. Le <a href="./legendaire_roles/revolutionary.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Révolutionnaire</a> est un rôle Légendaire conçu spécifiquement pour le Conteur afin de permettre à tous les joueurs de participer pleinement à la partie.
 </p>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.8;">
-  Que vous ayez un joueur présentant un handicap intellectuel, dans l'incapacité de comprendre l'ensemble des règles du jeu, non-voyant ou sourd, ne maîtrisant pas la langue utilisée par le groupe, ou incapable de communiquer par les moyens habituels pour quelque raison que ce soit, le <a href="./legendaire_roles/revolutionary.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Révolutionnaire</a> vous permet de l'intégrer pleinement à la partie.
+  Que vous ayez un joueur en situation de déficience intellectuelle pouvant rencontrer des difficultés à comprendre l’ensemble des règles du jeu, une personne non-voyante ou sourde, ne maîtrisant pas la langue utilisée par le groupe, ou ne pouvant communiquer par les moyens habituels pour quelque raison que ce soit, le <a href="./legendaire_roles/revolutionary.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Révolutionnaire</a> vous permet de l’intégrer pleinement à la partie.
 </p>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.8;">
@@ -205,9 +205,9 @@ image: /images/Icon_revolutionary.png
 </p>
 
 <ul style="color:#f5f5f5; font-size:20px; line-height:1.8; padding-left:0px; margin-left:0px; list-style-type:none;">
-  <li style="margin-bottom: 10px;">• <a href="./trouble_brewing.md" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing - Fichier Braille</a></li><br>
-  <li style="margin-bottom: 10px;">• <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising - Fichier Braille</a></li><br>
-  <li style="margin-bottom: 10px;">• <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets - Fichier Braille</a></li><br>
+  <li style="margin-bottom: 10px;">• <a href="./trouble_brewing.md" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing - Fichier Braille (en cours de réalisation )</a></li><br>
+  <li style="margin-bottom: 10px;">• <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising - Fichier Braille (en cours de réalisation )</a></li><br>
+  <li style="margin-bottom: 10px;">• <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets - Fichier Braille (en cours de réalisation ) </a></li><br>
 </ul>
 </div>
 
