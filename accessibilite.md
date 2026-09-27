@@ -205,7 +205,7 @@ image: /images/Icon_revolutionary.png
 </p>
 
 <ul style="color:#f5f5f5; font-size:20px; line-height:1.8; padding-left:0px; margin-left:0px; list-style-type:none;">
-  <li style="margin-bottom: 10px;">• <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing - Fichier Braille (en cours de réalisation )</a></li><br>
+  <li style="margin-bottom: 10px;">• <a href="./trouble_brewing.html" style="color:#D4AF37; font-weight:bold; text-decoration:none;">Trouble Brewing - Fichier Braille (en cours de réalisation )</a></li><br>
   <li style="margin-bottom: 10px;">• <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising - Fichier Braille (en cours de réalisation )</a></li><br>
   <li style="margin-bottom: 10px;">• <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets - Fichier Braille (en cours de réalisation ) </a></li><br>
 </ul>
@@ -223,7 +223,7 @@ image: /images/Icon_revolutionary.png
 </p>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.8;">
-  Une synthèse vocale à sens unique du Conteur vers le joueur est suffisante pour <em><a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a><</em>. Cependant, dans <em><a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></em>, <em><a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a></em>, et dans certains scripts personnalisés, il sera nécessaire pour le joueur de communiquer un nom de rôle en retour au Conteur s'il joue par exemple le <a href="./bmr_roles/courtisan.html" style="color:#4ea3ff; text-decoration:none;">Courtisan</a>, la <a href="./sv_roles/pit_hag.html" style="color:#d45b5b; text-decoration:none;">Guenaude</a>, le <a href="./sv_roles/cerenovus.html" style="color:#d45b5b; text-decoration:none;">Cerenovus</a> ou le <a href="./sv_roles/philosophe.html" style="color:#4ea3ff; text-decoration:none;">Philosophe</a>.
+  Une synthèse vocale à sens unique du Conteur vers le joueur est suffisante pour <em><a href="./trouble_brewing.html" style="color:#D4AF37; font-weight:bold; text-decoration:none;">Trouble Brewing</a></em>. Cependant, dans <em><a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></em>, <em><a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a></em>, et dans certains scripts personnalisés, il sera nécessaire pour le joueur de communiquer un nom de rôle en retour au Conteur s'il joue par exemple le <a href="./bmr_roles/courtisan.html" style="color:#4ea3ff; text-decoration:none;">Courtisan</a>, la <a href="./sv_roles/pit_hag.html" style="color:#d45b5b; text-decoration:none;">Guenaude</a>, le <a href="./sv_roles/cerenovus.html" style="color:#d45b5b; text-decoration:none;">Cerenovus</a> ou le <a href="./sv_roles/philosophe.html" style="color:#4ea3ff; text-decoration:none;">Philosophe</a>.
 </p>
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.8;">
