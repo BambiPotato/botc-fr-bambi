@@ -74,13 +74,13 @@ Le Cannibale mange les rôles exécutés et gagne leur capacité.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
-• Si un joueur bon meurt par exécution, le Cannibale gagne la capacité de ce joueur.<br>
-• Si un joueur maléfique meurt par exécution, le Cannibale pense gagner sa capacité, mais il n’en est rien, puisque le Cannibale est empoisonné dans ce cas. Le Conteur peut lui mentir.<br>
-• Chaque fois qu'un joueur meurt par exécution, le Cannibale perd la capacité du joueur précédent.<br>
-• Exécuter un joueur mort ne confère aucune capacité au Cannibale.<br>
-• Exécuter un joueur en vie sans que cela ne provoque sa mort ne confère aucune capacité au Cannibale.<br>
-• Un joueur doit être exécuté et mourir pour que le Cannibale acquière sa capacité.<br>
-• Le Cannibale n'est pas informé de la capacité qu'il a acquise. Il doit le découvrir par lui-même.<br>
+• Si un joueur bon meurt par exécution, le Cannibale gagne la capacité de ce joueur.<br><br>
+• Si un joueur maléfique meurt par exécution, le Cannibale pense gagner sa capacité, mais il n’en est rien, puisque le Cannibale est empoisonné dans ce cas. Le Conteur peut lui mentir.<br><br>
+• Chaque fois qu'un joueur meurt par exécution, le Cannibale perd la capacité du joueur précédent.<br><br>
+• Exécuter un joueur mort ne confère aucune capacité au Cannibale.<br><br>
+• Exécuter un joueur en vie sans que cela ne provoque sa mort ne confère aucune capacité au Cannibale.<br><br>
+• Un joueur doit être exécuté et mourir pour que le Cannibale acquière sa capacité.<br><br>
+• Le Cannibale n'est pas informé de la capacité qu'il a acquise. Il doit le découvrir par lui-même.<br><br>
 • Si le Cannibale a une capacité de type « même mort », telle que celle de la <a href="../tb_roles/reclus.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Recluse</a>, ou une capacité qui fonctionne une fois mort, comme celle de la <a href="../tb_roles/gardien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Corneille</a> ou de la <a href="../sv_roles/dulcinee.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Dulcinée</a>, le Cannibale conserve cette capacité lorsqu'il meurt, mais perd sa capacité de Cannibale.
 </p>
 
@@ -163,7 +163,7 @@ Lorsque vous bluffez le Cannibale, il y a quelques éléments à garder en tête
     <a href="../roles_experimentaux/poppygrower.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Planteur de pavot</a> :  
     Si le Cannibale mange le Planteur de pavot puis meurt ou perd cette capacité,  
     le <span style="color:#d45b5b; font-weight:bold;">Démon</span> et les <span style="color:#d45b5b; font-weight:bold;">Sbires</span> apprennent qui ils sont cette nuit-là.
-  </li>
+  </li><br>
 
   <li>
     🧞 
@@ -171,14 +171,14 @@ Lorsque vous bluffez le Cannibale, il y a quelques éléments à garder en tête
     <a href="../sv_roles/jongleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Jongleur</a> :  
     Si le Jongleur fait ses suppositions lors de son premier jour et meurt exécuté,  
     cette nuit-là, le Cannibale en vie apprend combien des suppositions le Jongleur avait correctement devinés.
-  </li>
+  </li><br>
 
   <li>
     🧞 
     <img src="../images/Icon_butler.png" alt="Majordome" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../tb_roles/majordome.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Majordome</a> :  
     Si le Cannibale gagne la capacité du Majordome, il l’apprend.
-  </li>
+  </li><br>
 
   <li>
     🧞 
@@ -186,7 +186,7 @@ Lorsque vous bluffez le Cannibale, il y a quelques éléments à garder en tête
     <a href="../roles_experimentaux/princess.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Princesse</a> :  
     Si le Cannibale a nommé, exécuté et tué la Princesse aujourd’hui, 
     le <span style="color:#d45b5b; font-weight:bold;">Démon</span> ne tue personne cette nuit.
-  </li>
+  </li><br>
 
   <li>
     🧞 
