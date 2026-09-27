@@ -318,14 +318,14 @@ image: /images/logogold.png
       </p>
     </div>
 
-    <!-- CARTE TUTO VIDÉO -->
-    <div class="video-card-compact">
-      <h3>Tuto vidéo</h3>
-      <div class="video-wrapper-compact">
-        <iframe src="https://youtu.be/FChVgdVcUyY?si=MWTnlKkg2hM26Rpy" title="Tutoriel pour jouer sur l'application" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </div>
-      <p>Une petite démonstration en vidéo pour vous guider pas à pas sur l'application.</p>
-    </div>
+   <!-- CARTE TUTO VIDÉO -->
+<div class="video-card-compact">
+  <h3>Tuto vidéo</h3>
+  <div class="video-wrapper-compact">
+    <iframe src="https://www.youtube.com/embed/FChVgdVcUyY" title="Tutoriel pour jouer sur l'application" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+  <p>Une petite démonstration en vidéo pour vous guider pas à pas sur l'application.</p>
+</div>
 
   </div>
 </div>
