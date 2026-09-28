@@ -116,7 +116,7 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
   <li><a href="roles_experimentaux/wizard.html" style="color:#d45b5b; text-decoration:none;">Mage</a></li>
   <li><a href="roles_experimentaux/marionette.html" style="color:#d45b5b; text-decoration:none;">Marionnette</a></li>
   <li><a href="roles_experimentaux/mezepheles.html" style="color:#d45b5b; text-decoration:none;">Mezepheles</a></li>
-  <li><a href="roles_experimentaux/organgrinder.html" style="color:#d45b5b; text-decoration:none;">Orguaniste de rue</a></li>
+  <li><a href="roles_experimentaux/organgrinder.html" style="color:#d45b5b; text-decoration:none;">Organiste de rue</a></li>
   <li><a href="roles_experimentaux/psychopath.html" style="color:#d45b5b; text-decoration:none;">Psychopathe</a></li>
   <li><a href="roles_experimentaux/wraith.html" style="color:#d45b5b; text-decoration:none;">Spectre</a></li>
   <li><a href="roles_experimentaux/fearmonger.html" style="color:#d45b5b; text-decoration:none;">Tourmenteur</a></li>
@@ -473,7 +473,7 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
 
   <a href="roles_experimentaux/organgrinder.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_organgrinder.png" alt="Orgue de Barbarie" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Orguaniste de rue</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:18px; margin-top:6px;">Organiste de rue</span>
   </a>
 
   <a href="roles_experimentaux/psychopath.html" style="text-decoration:none; width:280px; text-align:center;">
