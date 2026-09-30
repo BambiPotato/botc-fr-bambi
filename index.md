@@ -290,8 +290,8 @@ data-tooltip="Wiki pour jouer et conter en français">
 <a href="https://discord.gg/tGDVmZfZpE"
 target="_blank"
 rel="noopener noreferrer"
-aria-label="Rejoins-nous sur Discord"
-data-tooltip="Rejoins-nous sur Discord">
+aria-label="Rejoins la communauté sur Discord"
+data-tooltip="Rejoins la communauté sur Discord">
 <img src="images/discord.png" alt="Discord">
 </a>
 
