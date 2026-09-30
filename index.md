@@ -51,9 +51,9 @@ margin-right:0;
 display:inline-flex!important;
 align-items:center;
 justify-content:center;
-width:42px!important;
-height:42px!important;
-flex:0 0 42px!important;
+width:46px!important;
+height:46px!important;
+flex:0 0 46px!important;
 border-radius:50%;
 background:rgba(212,167,106,0.18);
 border:1px solid rgba(181,139,82,0.32);
@@ -73,9 +73,9 @@ box-shadow:0 4px 8px rgba(0,0,0,0.14);
 
 .home-socials img{
 display:block!important;
-width:25px!important;
-height:25px!important;
-max-width:25px!important;
+width:28px!important;
+height:28px!important;
+max-width:28px!important;
 object-fit:contain;
 margin:0!important;
 }
@@ -125,15 +125,15 @@ gap:5px;
 }
 
 .home-socials a{
-width:32px!important;
-height:32px!important;
-flex:0 0 32px!important;
+width:36px!important;
+height:36px!important;
+flex:0 0 36px!important;
 }
 
 .home-socials img{
-width:19px!important;
-height:19px!important;
-max-width:19px!important;
+width:22px!important;
+height:22px!important;
+max-width:22px!important;
 }
 
 .home-logo::after,
@@ -298,8 +298,8 @@ data-tooltip="Rejoins la communauté sur Discord">
 <a href="https://www.twitch.tv/bambibluepotato"
 target="_blank"
 rel="noopener noreferrer"
-aria-label="Regarde les lives sur Twitch"
-data-tooltip="Regarde les lives sur Twitch">
+aria-label="Regarde les lives BotC sur Twitch"
+data-tooltip="Regarde les lives BotC sur Twitch">
 <img src="images/twitch.png" alt="Twitch">
 </a>
 
@@ -317,6 +317,14 @@ rel="noopener noreferrer"
 aria-label="Suis-nous sur Instagram"
 data-tooltip="Suis-nous sur Instagram">
 <img src="images/instagram.png" alt="Instagram">
+</a>
+
+<a href="https://linktr.ee/bambibluepotato"
+target="_blank"
+rel="noopener noreferrer"
+aria-label="Retrouve tous nos liens sur Linktree"
+data-tooltip="Tous nos liens sur Linktree">
+<img src="images/linktree.png" alt="Linktree">
 </a>
 </div>
 </div>
