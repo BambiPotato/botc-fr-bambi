@@ -32,7 +32,7 @@ filter:drop-shadow(0 5px 8px rgba(0,0,0,0.18));
 
 .home-logo img{
 display:block;
-width:200px;
+width:230px;
 height:auto;
 }
 
@@ -42,7 +42,7 @@ flex-direction:row!important;
 flex-wrap:nowrap!important;
 align-items:center;
 justify-content:flex-end;
-gap:10px;
+gap:12px;
 margin-left:auto;
 margin-right:0;
 }
@@ -51,9 +51,9 @@ margin-right:0;
 display:inline-flex!important;
 align-items:center;
 justify-content:center;
-width:46px!important;
-height:46px!important;
-flex:0 0 46px!important;
+width:50px!important;
+height:50px!important;
+flex:0 0 50px!important;
 border-radius:50%;
 background:rgba(212,167,106,0.18);
 border:1px solid rgba(181,139,82,0.32);
@@ -73,11 +73,18 @@ box-shadow:0 4px 8px rgba(0,0,0,0.14);
 
 .home-socials img{
 display:block!important;
-width:28px!important;
-height:28px!important;
-max-width:28px!important;
+width:31px!important;
+height:31px!important;
+max-width:31px!important;
 object-fit:contain;
 margin:0!important;
+}
+
+.home-socials img.home-socials-linktree{
+width:31px!important;
+height:31px!important;
+max-width:31px!important;
+transform:scale(1.35);
 }
 
 .home-logo::after,
@@ -117,23 +124,30 @@ gap:8px;
 }
 
 .home-logo img{
-width:130px;
+width:145px;
 }
 
 .home-socials{
-gap:5px;
+gap:6px;
 }
 
 .home-socials a{
-width:36px!important;
-height:36px!important;
-flex:0 0 36px!important;
+width:38px!important;
+height:38px!important;
+flex:0 0 38px!important;
 }
 
 .home-socials img{
-width:22px!important;
-height:22px!important;
-max-width:22px!important;
+width:23px!important;
+height:23px!important;
+max-width:23px!important;
+}
+
+.home-socials img.home-socials-linktree{
+width:23px!important;
+height:23px!important;
+max-width:23px!important;
+transform:scale(1.35);
 }
 
 .home-logo::after,
@@ -285,7 +299,6 @@ data-tooltip="Wiki pour jouer et conter en français">
 <img src="images/logogold.png" alt="Accueil BotC FR">
 </a>
 
-
 <div class="home-socials">
 <a href="https://discord.gg/tGDVmZfZpE"
 target="_blank"
@@ -298,8 +311,8 @@ data-tooltip="Rejoins la communauté sur Discord">
 <a href="https://www.twitch.tv/bambibluepotato"
 target="_blank"
 rel="noopener noreferrer"
-aria-label="Regarde les lives BotC sur Twitch"
-data-tooltip="Regarde les lives BotC sur Twitch">
+aria-label="Regarde les lives sur Twitch"
+data-tooltip="Regarde les lives sur Twitch">
 <img src="images/twitch.png" alt="Twitch">
 </a>
 
@@ -324,7 +337,7 @@ target="_blank"
 rel="noopener noreferrer"
 aria-label="Retrouve tous nos liens sur Linktree"
 data-tooltip="Tous nos liens sur Linktree">
-<img src="images/linktree.png" alt="Linktree">
+<img class="home-socials-linktree" src="images/linktree.png" alt="Linktree">
 </a>
 </div>
 </div>
