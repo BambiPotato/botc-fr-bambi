@@ -85,7 +85,10 @@ transform:scale(1.15)!important;
 }
 
 .home-socials img.home-socials-linktree{
-transform:scale(1.5)!important;
+width:44px!important;
+height:44px!important;
+max-width:44px!important;
+transform:scale(1.85)!important;
 }
 
 .home-logo::after,
@@ -149,7 +152,10 @@ transform:scale(1.15)!important;
 }
 
 .home-socials img.home-socials-linktree{
-transform:scale(1.5)!important;
+width:32px!important;
+height:32px!important;
+max-width:32px!important;
+transform:scale(1.85)!important;
 }
 
 .home-logo::after,
@@ -337,10 +343,11 @@ data-tooltip="Suis-nous sur Instagram">
 <a href="https://linktr.ee/bambibluepotato"
 target="_blank"
 rel="noopener noreferrer"
-aria-label="Retrouve tous nos liens sur Linktree"
+aria-label="Retrouve tous nis liens sur Linktree"
 data-tooltip="Tous nos liens sur Linktree">
 <img class="home-socials-linktree" src="images/linktree.png" alt="Linktree">
 </a>
+</div>
 </div>
 </div>
 
