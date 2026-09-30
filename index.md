@@ -61,7 +61,6 @@ text-decoration:none!important;
 line-height:1!important;
 box-shadow:0 2px 5px rgba(0,0,0,0.08);
 position:relative;
-overflow:hidden;
 transition:transform 0.18s ease, background 0.18s ease, border-color 0.18s ease, box-shadow 0.18s ease;
 }
 
@@ -81,11 +80,12 @@ object-fit:contain;
 margin:0!important;
 }
 
+.home-socials img.home-socials-discord{
+transform:scale(1.15)!important;
+}
+
 .home-socials img.home-socials-linktree{
-width:46px!important;
-height:46px!important;
-max-width:46px!important;
-transform:scale(1.65)!important;
+transform:scale(1.5)!important;
 }
 
 .home-logo::after,
@@ -108,7 +108,7 @@ box-shadow:0 5px 12px rgba(0,0,0,0.25);
 opacity:0;
 visibility:hidden;
 pointer-events:none;
-z-index:50;
+z-index:100;
 transition:opacity 0.18s ease, transform 0.18s ease, visibility 0.18s ease;
 }
 
@@ -144,11 +144,12 @@ height:25px!important;
 max-width:25px!important;
 }
 
+.home-socials img.home-socials-discord{
+transform:scale(1.15)!important;
+}
+
 .home-socials img.home-socials-linktree{
-width:35px!important;
-height:35px!important;
-max-width:35px!important;
-transform:scale(1.65)!important;
+transform:scale(1.5)!important;
 }
 
 .home-logo::after,
@@ -306,7 +307,7 @@ target="_blank"
 rel="noopener noreferrer"
 aria-label="Rejoins la communauté sur Discord"
 data-tooltip="Rejoins la communauté sur Discord">
-<img src="images/discord.png" alt="Discord">
+<img class="home-socials-discord" src="images/discord.png" alt="Discord">
 </a>
 
 <a href="https://www.twitch.tv/bambibluepotato"
