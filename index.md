@@ -349,7 +349,7 @@ data-tooltip="Tous nos liens sur Linktree">
 </a>
 </div>
 </div>
-</div>
+
 
 <!-- PAGE D’ACCUEIL - WIKI BOTC FR -->
 
