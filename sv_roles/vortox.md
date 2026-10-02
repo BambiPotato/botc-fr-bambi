@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Vortox
-description: "Chaque nuit*, choisissez un joueur : il meurt.Les capacités des Villageois donnent de fausses informations.Chaque jour, si personne n’est exécuté, les Maléfiques gagnent." 
+description: "Chaque nuit*, choisissez un joueur : il meurt. Les capacités des Villageois donnent de fausses informations. Chaque jour, si personne n’est exécuté, le Mal gagne." 
 image: /images/Icon_vortox.png
 ---
 
@@ -70,7 +70,7 @@ image: /images/Icon_vortox.png
 <hr class="demon">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
-« Chaque nuit*, choisissez un joueur : il meurt. Les capacités des <a href="../villageois.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Villageois</a> donnent de fausses informations. Chaque jour, si personne n’est exécuté, les <a href="../demons.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Maléfiques</a> gagnent. »
+« Chaque nuit*, choisissez un joueur : il meurt. Les capacités des <a href="../villageois.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Villageois</a> donnent de fausses informations. Chaque jour, si personne n’est exécuté, le Mal gagne. »
 </p>
 
 <p class="botc-flavour-text dropcap" style="margin:0;">
