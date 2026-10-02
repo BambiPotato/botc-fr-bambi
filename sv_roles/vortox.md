@@ -237,7 +237,7 @@ Grâce à cela, son information peut être considérée comme « vraie » dans u
   🧞 Jinxes liés
 </h2>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:00px;">
 
   <!-- BANSHEE -->
   <li>
