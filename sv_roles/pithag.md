@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Guenaude
-description: "Chaque nuit*, choisissez un joueur et le rôle qu’il devient (s’il n’est pas en jeu). Si un Démon est créé de cette façon, les morts de cette nuit sont arbitraires."
+description: "Chaque nuit*, choisissez un joueur et le rôle qu’il devient (s’il n’est pas en jeu). Si un Démon nait de cette façon, les morts de cette nuit sont arbitraires."
 image: /images/Icon_pithag.png
 ---
 
@@ -77,7 +77,7 @@ image: /images/Icon_pithag.png
 
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
-« Chaque nuit*, choisissez un joueur et le rôle qu’il devient (s’il n’est pas en jeu). Si un Démon est créé de cette façon, les morts de cette nuit sont arbitraires.  »
+« Chaque nuit*, choisissez un joueur et le rôle qu’il devient (s’il n’est pas en jeu). Si un Démon nait de cette façon, les morts de cette nuit sont arbitraires.  »
 </p>
 
 <p class="botc-flavour-text dropcap" style="margin:0;">
