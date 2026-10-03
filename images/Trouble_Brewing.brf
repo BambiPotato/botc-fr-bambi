@@ -1,0 +1,127 @@
+..trouble ..brewing 
+ 
+,7,7,7 ..r?les ,7,7,7 
+ 
+--- ..villageois --- 
+ 
+.lavandi!re 
+.lors de votre premi!re nuit1 vous apprenez un r?le de .villageois en jeu parmi #< joueurs4 
+ 
+.archiviste 
+.lors de votre premi!re nuit1 vous apprenez un r?le de .marginal en jeu parmi #< joueurs 8ou qu'aucun .marginal n'est en jeu04 
+ 
+.d=tective 
+.lors de votre premi!re nuit1 vous apprenez un r?le de .sbire en jeu parmi #< joueurs4 
+ 
+.cuisinier 
+.lors de votre premi!re nuit1 vous apprenez le nombre de paires de joueurs mal=fiques4 
+ 
+.empathe 
+.chaque nuit1 vous apprenez combien de vos #< voisins en vie sont mal=fiques4 
+ 
+.voyante 
+.chaque nuit1 choisissez #< joueurs et apprenez si un .d=mon est parmi eux4 .un des joueurs bons vous appara%t comme un .d=mon4 
+ 
+.fossoyeur 
+.chaque nuit1 vous apprenez quel r?le est mort par ex=cution dans la journ=e4 
+ 
+.moine 
+.chaque nuit1 choisissez un joueur 8sauf vous-m<me0 3 il est prot=g= du .d=mon cette nuit4 
+ 
+.corneille 
+.si vous mourez la nuit1 vous <tes r=veill=e pour choisir un joueur et apprendre son r?le4 
+ 
+.immacul=e 
+.la premi!re fois qu'un joueur vous nomme1 il est ex=cut= imm=diatement s'il s'agit d'un .villageois4 
+ 
+.pourfendeuse 
+.une fois par partie1 dans la journ=e1 choisissez publiquement un joueur 3 s'il est le .d=mon1 il meurt4 
+ 
+.soldat 
+.vous <tes prot=g= du .d=mon4 
+ 
+.maire 
+.s'il n'y a que #% joueurs en vie et pas d'ex=cution1 votre =quipe gagne4 .si vous mourez la nuit1 un autre joueur pourrait mourir ( votre place4 
+ 
+--- ..marginaux --- 
+ 
+.majordome 
+.chaque nuit1 choisissez un joueur 8sauf vous-m<me04 .le lendemain1 vous pouvez voter uniquement si ce joueur vote4 
+ 
+.ivrogne 
+.vous ne savez pas que vous <tes l'.ivrogne4 .vous pensez que vous <tes un .villageois4 
+ 
+.recluse 
+.vous pourriez appara%tre comme mal=fique et comme .sbire ou .d=mon1 m<me morte4 
+ 
+.saint 
+.si vous mourez par ex=cution1 votre =quipe perd4 
+ 
+--- ..sbires --- 
+ 
+.empoisonneur 
+.chaque nuit1 choisissez un joueur4 .il est empoisonn= cette nuit et le jour suivant4 
+ 
+.espionne 
+.chaque nuit1 vous voyez le .grimoire4 .vous pourriez appara%tre comme bonne et comme .villageois ou .marginal1 m<me morte4 
+ 
+.baron 
+.il y a deux .marginaux suppl=mentaires en jeu4 8,6#< .marginaux0 
+ 
+.femme =carlate 
+.s'il y a au moins #: joueurs en vie et que le .d=mon meurt1 vous devenez le .d=mon4 8.les .voyageurs ne comptent pas40 
+ 
+--- ..d=mons --- 
+ 
+.diablotin 
+.chaque nuit91 choisissez un joueur 3 il meurt4 .si vous vous tuez de cette fa&on1 un .sbire devient le .diablotin4 89.pas la .premi!re .nuit40 
+ 
+ 
+,7,7,7 ..r=partition ..des ..joueurs ,7,7,7 
+ 
+- #: joueurs 3 #% .villageois1 ## .marginal1 #* .sbire1 #* .d=mon 
+- #$ joueurs 3 #% .villageois1 #* .marginal1 #* .sbire1 #* .d=mon 
+- #] joueurs 3 #: .villageois1 ## .marginal1 #* .sbire1 #* .d=mon 
+- #| joueurs 3 #: .villageois1 #* .marginal1 #* .sbire1 #* .d=mon 
+- #[ joueurs 3 #: .villageois1 #< .marginaux1 #* .sbire1 #* .d=mon 
+- #*# joueurs 3 #] .villageois1 ## .marginal1 #< .sbires1 #* .d=mon 
+- #** joueurs 3 #] .villageois1 #* .marginal1 #< .sbires1 #* .d=mon 
+- #*< joueurs 3 #] .villageois1 #< .marginaux1 #< .sbires1 #* .d=mon 
+- #*% joueurs 3 #[ .villageois1 ## .marginal1 #% .sbires1 #* .d=mon 
+- #*? joueurs 3 #[ .villageois1 #* .marginal1 #% .sbires1 #* .d=mon 
+- #*: joueurs et plus 3 #[ .villageois1 #< .marginaux1 #% .sbires1 #* .d=mon 
+ 
+ 
+,7,7,7 ..ordre ..de ..nuit 8..aide ..du ..conteur0 ,7,7,7 
+ 
+--- ..premi!re ..nuit --- 
+ 
+#*4 .cr=puscule 3 .commencez la phase de nuit4 .v=rifiez que tout le monde ait bien ferm= les yeux4 .certains .voyageurs et .l=gendaires agissent4 
+#<4 .info des .sbires 3 .s'il y a au moins #] joueurs1 r=veillez les .sbires 3 montrez la tuile ..voici ..le ..d=mon4 .d=signez le .d=mon4 
+#%4 .info du .d=mon 3 .s'il y a au moins #] joueurs1 r=veillez le .d=mon 3 montrez la tuile ..voici ..vos ..sbires4 .d=signez les .sbires4 .montrez la tuile ..ces ..r?les ..ne ..sont ..pas ..en ..jeu4 .montrez #% jetons de r?les bons qui ne sont pas en jeu4 
+#?4 .empoisonneur 3 .l'.empoisonneur choisit un joueur4 
+#:4 .espionne 3 .montrez le .grimoire aussi longtemps que n=cessaire4 
+#$4 .lavandi!re 3 .montrez le jeton de r?le du .villageois4 .d=signez le joueur ..villageois et le joueur ..fausse ..piste4 
+#]4 .archiviste 3 .montrez le jeton de r?le du .marginal4 .d=signez le joueur ..marginal et le joueur ..fausse ..piste4 
+#|4 .d=tective 3 .montrez le jeton de r?le du .sbire4 .d=signez le joueur ..sbire et le joueur ..fausse ..piste4 
+#[4 .cuisinier 3 .faites signe avec vos doigts4 
+#*#4 .empathe 3 .faites signe avec vos doigts4 
+#**4 .voyante 3 .la .voyante choisit #< joueurs4 .faites oui de la t<te si l'un d'eux est le .d=mon 8ou le ..leurre04 
+#*<4 .majordome 3 .le .majordome choisit un joueur4 
+#*%4 .aube 3 .attendez quelques secondes4 .faites ouvrir les yeux de tous les joueurs4 
+ 
+--- ..autres ..nuits --- 
+ 
+#*4 .cr=puscule 3 .v=rifiez que tout le monde ait bien ferm= les yeux4 .certains .voyageurs et .l=gendaires agissent4 
+#<4 .empoisonneur 3 .l'.empoisonneur choisit un joueur4 
+#%4 .moine 3 .le .moine choisit un joueur4 
+#?4 .espionne 3 .montrez le .grimoire aussi longtemps que n=cessaire4 
+#:4 .femme =carlate 3 .si la .femme =carlate est devenue le .d=mon dans la journ=e1 montrez-lui la tuile ..vous ..<tes1 puis le jeton du .d=mon4 
+#$4 .diablotin 3 .le .diablotin choisit un joueur4 .si le .diablotin se choisit lui-m<me 3 remplacez #* jeton .sbire en vie par un jeton .diablotin de rechange4 .l'ancien .diablotin se rendort4 .r=veillez le nouveau .diablotin4 .montrez-lui la tuile ..vous ..<tes1 puis le jeton .diablotin4 
+#]4 .corneille 3 .si la .corneille est morte cette nuit1 la .corneille choisit un joueur4 .montrez-lui le jeton de r?le de ce joueur4 
+#|4 .fossoyeur 3 .si un joueur est mort par ex=cution dans la journ=e1 montrez son jeton de r?le au .fossoyeur4 
+#[4 .empathe 3 .faites signe avec vos doigts4 
+#*#4 .voyante 3 .la .voyante choisit #< joueurs4 .faites oui de la t<te si l'un d'eux est le .d=mon 8ou le ..leurre04 
+#**4 .majordome 3 .le .majordome choisit un joueur4 
+#*<4 .aube 3 .attendez quelques secondes4 .faites ouvrir les yeux de tous les joueurs et annoncez imm=diatement qui est mort4
+
