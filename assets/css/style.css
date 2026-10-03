@@ -549,9 +549,7 @@ body.sidebar-on::after {
   box-sizing: border-box;
   overflow-y: auto;
 
-background:
-    linear-gradient(rgba(25, 5, 35, 0.35), rgba(25, 5, 35, 0.55)),
-    url("/botc-fr-bambi/images/bg-violet.jpg") center / cover no-repeat;
+  background: url("/botc-fr-bambi/images/bg-violet.jpg") center / cover no-repeat;
   color: #f4efe6;
 }
 
@@ -621,9 +619,7 @@ body.sidebar-on .botc-sidebar {
   box-sizing: border-box !important;
   overflow-y: auto !important;
 
-  background:
-    linear-gradient(rgba(25, 5, 35, 0.35), rgba(25, 5, 35, 0.55)),
-    url("/botc-fr-bambi/images/bg-violet.jpg") center / cover no-repeat !important;
+  background: url("/botc-fr-bambi/images/bg-violet.jpg") center / cover no-repeat !important;
 }
 
 body.sidebar-on .botc-sidebar-logo img {
