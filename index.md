@@ -47,7 +47,6 @@ margin-left:auto;
 margin-right:0;
 }
 
-/* Carrés arrondis violets avec icônes blanches */
 .home-socials a{
 display:inline-flex!important;
 align-items:center;
@@ -56,10 +55,9 @@ width:48px!important;
 height:48px!important;
 flex:0 0 48px!important;
 border-radius:12px;
-background:#251b3d;
-border:1px solid rgba(212,167,106,0.30);
+background:#482d5b;
+border:1px solid rgba(212,167,106,0.40);
 text-decoration:none!important;
-line-height:1!important;
 box-shadow:0 3px 8px rgba(0,0,0,0.22);
 position:relative;
 transition:transform 0.18s ease, background 0.18s ease, border-color 0.18s ease, box-shadow 0.18s ease;
@@ -67,21 +65,17 @@ transition:transform 0.18s ease, background 0.18s ease, border-color 0.18s ease,
 
 .home-socials a:hover{
 transform:translateY(-2px) scale(1.06);
-background:#362757;
+background:#5c3a74;
 border-color:rgba(212,167,106,0.85);
 box-shadow:0 5px 12px rgba(0,0,0,0.35);
 }
 
 .home-socials svg{
 display:block;
-width:22px;
-height:22px;
+width:24px;
+height:24px;
 fill:#ffffff;
-transition:transform 0.18s ease;
-}
-
-.home-socials a:hover svg{
-transform:scale(1.05);
+pointer-events:none;
 }
 
 /* INFOBULLES */
@@ -92,7 +86,7 @@ position:absolute;
 left:50%;
 bottom:calc(100% + 10px);
 transform:translateX(-50%) translateY(4px);
-background:rgba(37,27,61,0.96);
+background:rgba(72,45,91,0.96);
 color:#f3ddb0;
 font-size:13px;
 font-weight:600;
@@ -137,8 +131,8 @@ border-radius:10px;
 }
 
 .home-socials svg{
-width:18px;
-height:18px;
+width:19px;
+height:19px;
 }
 
 .home-logo::after,
@@ -153,10 +147,7 @@ margin-top:12px;
 line-height:0;
 opacity:0.95;
 cursor:pointer;
-transition:
-transform 0.18s ease,
-filter 0.18s ease,
-opacity 0.18s ease;
+transition:transform 0.18s ease, filter 0.18s ease, opacity 0.18s ease;
 }
 
 .ccc-logo:hover {
@@ -169,9 +160,7 @@ opacity:1;
 color:#d4a76a;
 font-weight:bold;
 text-decoration:none;
-transition:
-color 0.18s ease,
-text-shadow 0.18s ease;
+transition:color 0.18s ease, text-shadow 0.18s ease;
 }
 
 .official-botc-link:hover {
@@ -205,7 +194,6 @@ height:auto;
 }
 }
 
-/* === Grille des éditions === */
 table.roles-grid{
 width:100%;
 max-width:1200px;
@@ -284,57 +272,14 @@ table.roles-grid{ border-spacing:14px; }
 </style>
 
 <div class="home-topbar">
-<a class="home-logo"
-href="/botc-fr-bambi/"
-data-tooltip="Wiki pour jouer et conter en français">
-<img src="images/logogold.png" alt="Accueil BotC FR">
-</a>
+<a class="home-logo" href="/botc-fr-bambi/" data-tooltip="Wiki pour jouer et conter en français"><img src="images/logogold.png" alt="Accueil BotC FR"></a>
 
 <div class="home-socials">
-<!-- Twitch -->
-<a href="https://www.twitch.tv/bambibluepotato"
-target="_blank"
-rel="noopener noreferrer"
-aria-label="Regarde les lives sur Twitch"
-data-tooltip="Regarde les lives sur Twitch">
-<svg viewBox="0 0 24 24"><path d="M4.26 2L2 6.57V20h5.14V22h3.43l2.86-2h4.57L22 16V2H4.26zm15.43 13.14l-3.43 3.43H11.7l-2.86 2v-2H5.43V4h14.26v11.14zm-4.29-6.86h-2.28v5.71h2.28V8.28zm-4.57 0H8.55v5.71h2.28V8.28z"/></svg>
-</a>
-
-<!-- YouTube -->
-<a href="https://www.youtube.com/@Bambipotato"
-target="_blank"
-rel="noopener noreferrer"
-aria-label="Découvre les vidéos sur YouTube"
-data-tooltip="Découvre les vidéos sur YouTube">
-<svg viewBox="0 0 24 24"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
-</a>
-
-<!-- Discord -->
-<a href="https://discord.gg/tGDVmZfZpE"
-target="_blank"
-rel="noopener noreferrer"
-aria-label="Rejoins la communauté sur Discord"
-data-tooltip="Rejoins la communauté sur Discord">
-<svg viewBox="0 0 24 24"><path d="M20.317 4.37a19.791 19.791 0 0 0-4.885-1.515.074.074 0 0 0-.079.037c-.21.375-.444.864-.608 1.25a18.27 18.27 0 0 0-5.487 0 12.64 12.64 0 0 0-.617-1.25.077.077 0 0 0-.079-.037A19.736 19.736 0 0 0 3.677 4.37a.07.07 0 0 0-.032.027C.533 9.046-.32 13.58.099 18.057a.082.082 0 0 0 .031.057 19.9 19.9 0 0 0 5.993 3.03.078.078 0 0 0 .084-.028c.462-.63.874-1.295 1.226-1.994.021-.041.001-.09-.041-.106a13.107 13.107 0 0 1-1.872-.892.077.077 0 0 1-.008-.128 10.2 10.2 0 0 0 .372-.292.074.074 0 0 1 .077-.01c3.929 1.793 8.18 1.793 12.061 0a.074.074 0 0 1 .078.01c.12.098.246.198.373.292a.077.077 0 0 1-.006.127 12.299 12.299 0 0 1-1.873.894.077.077 0 0 0-.041.107c.36.698.772 1.362 1.225 1.993a.076.076 0 0 0 .084.028 19.839 19.839 0 0 0 6.002-3.03.077.077 0 0 0 .032-.054c.5-5.177-.838-9.674-3.549-13.66a.061.061 0 0 0-.031-.028zM8.02 15.33c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.956-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.333-.956 2.418-2.157 2.418zm7.975 0c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.955-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.333-.946 2.418-2.157 2.418z"/></svg>
-</a>
-
-<!-- Instagram -->
-<a href="https://www.instagram.com/bambibluepotato/"
-target="_blank"
-rel="noopener noreferrer"
-aria-label="Suis-nous sur Instagram"
-data-tooltip="Suis-nous sur Instagram">
-<svg viewBox="0 0 24 24"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
-</a>
-
-<!-- Linktree -->
-<a href="https://linktr.ee/bambibluepotato"
-target="_blank"
-rel="noopener noreferrer"
-aria-label="Retrouve tous mes liens sur Linktree"
-data-tooltip="Tous mes liens sur Linktree">
-<svg viewBox="0 0 24 24"><path d="M13.736 5.853l4.005-4.117 2.325 2.38-4.2 4.005h5.908v3.305h-5.937l4.229 4.108-2.325 2.334-5.741-5.76v10.666h-3.305v-10.666l-5.741 5.76-2.325-2.334 4.229-4.108h-5.937v-3.305h5.908l-4.2-4.005 2.325-2.38 4.005 4.117v-4.627h3.305v4.627z"/></svg>
-</a>
+<a href="https://www.twitch.tv/bambibluepotato" target="_blank" rel="noopener noreferrer" aria-label="Regarde les lives sur Twitch" data-tooltip="Regarde les lives sur Twitch"><svg viewBox="0 0 24 24"><path d="M4.26 2L2 6.57V20h5.14V22h3.43l2.86-2h4.57L22 16V2H4.26zm15.43 13.14l-3.43 3.43H11.7l-2.86 2v-2H5.43V4h14.26v11.14zm-4.29-6.86h-2.28v5.71h2.28V8.28zm-4.57 0H8.55v5.71h2.28V8.28z"/></svg></a>
+<a href="https://www.youtube.com/@Bambipotato" target="_blank" rel="noopener noreferrer" aria-label="Découvre les vidéos sur YouTube" data-tooltip="Découvre les vidéos sur YouTube"><svg viewBox="0 0 24 24"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg></a>
+<a href="https://discord.gg/tGDVmZfZpE" target="_blank" rel="noopener noreferrer" aria-label="Rejoins la communauté sur Discord" data-tooltip="Rejoins la communauté sur Discord"><svg viewBox="0 0 24 24"><path d="M20.317 4.37a19.791 19.791 0 0 0-4.885-1.515.074.074 0 0 0-.079.037c-.21.375-.444.864-.608 1.25a18.27 18.27 0 0 0-5.487 0 12.64 12.64 0 0 0-.617-1.25.077.077 0 0 0-.079-.037A19.736 19.736 0 0 0 3.677 4.37a.07.07 0 0 0-.032.027C.533 9.046-.32 13.58.099 18.057a.082.082 0 0 0 .031.057 19.9 19.9 0 0 0 5.993 3.03.078.078 0 0 0 .084-.028c.462-.63.874-1.295 1.226-1.994.021-.041.001-.09-.041-.106a13.107 13.107 0 0 1-1.872-.892.077.077 0 0 1-.008-.128 10.2 10.2 0 0 0 .372-.292.074.074 0 0 1 .077-.01c3.929 1.793 8.18 1.793 12.061 0a.074.074 0 0 1 .078.01c.12.098.246.198.373.292a.077.077 0 0 1-.006.127 12.299 12.299 0 0 1-1.873.894.077.077 0 0 0-.041.107c.36.698.772 1.362 1.225 1.993a.076.076 0 0 0 .084.028 19.839 19.839 0 0 0 6.002-3.03.077.077 0 0 0 .032-.054c.5-5.177-.838-9.674-3.549-13.66a.061.061 0 0 0-.031-.028zM8.02 15.33c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.956-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.333-.956 2.418-2.157 2.418zm7.975 0c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.955-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.333-.946 2.418-2.157 2.418z"/></svg></a>
+<a href="https://www.instagram.com/bambibluepotato/" target="_blank" rel="noopener noreferrer" aria-label="Suis-nous sur Instagram" data-tooltip="Suis-nous sur Instagram"><svg viewBox="0 0 24 24"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg></a>
+<a href="https://linktr.ee/bambibluepotato" target="_blank" rel="noopener noreferrer" aria-label="Retrouve tous mes liens sur Linktree" data-tooltip="Tous mes liens sur Linktree"><svg viewBox="0 0 24 24"><path d="M13.736 5.853l4.005-4.117 2.325 2.38-4.2 4.005h5.908v3.305h-5.937l4.229 4.108-2.325 2.334-5.741-5.76v10.666h-3.305v-10.666l-5.741 5.76-2.325-2.334 4.229-4.108h-5.937v-3.305h5.908l-4.2-4.005 2.325-2.38 4.005 4.117v-4.627h3.305v4.627z"/></svg></a>
 </div>
 </div>
 
