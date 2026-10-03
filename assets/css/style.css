@@ -37,13 +37,13 @@ body {
   transition: background .3s, color .3s;
 }
 
-/* Bannière de fond douce et lisible */
+/* Fond texturé violet officiel */
 body::before {
   content: "";
   position: fixed;
   inset: 0;
-  background: url("/botc-fr-bambi/images/banner.png") no-repeat center center / cover;
-  opacity: .14;                 /* voile léger (lisible) */
+  background: url("/botc-fr-bambi/images/bg-violet.jpg") no-repeat center center / cover;
+  opacity: 1;
   z-index: -1;
 }
 
