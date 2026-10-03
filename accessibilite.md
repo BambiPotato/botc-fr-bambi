@@ -207,7 +207,7 @@ image: /images/Icon_revolutionary.png
 <ul style="color:#f5f5f5; font-size:20px; line-height:1.8; padding-left:0px; margin-left:0px; list-style-type:none;">
   <li style="margin-bottom: 10px;">• <a href="./images/Trouble_Brewing.brf" download="Trouble_Brewing.brf" style="color:#D4AF37; font-weight:bold; text-decoration:none;">Trouble Brewing - Fichier Braille (.brf)</a></li><br>
   <li style="margin-bottom: 10px;">• <a href="./images/Bad_Moon_Rising.brf" download="Bad_Moon_Rising.brf" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising - Fichier Braille (.brf)</a></li><br>
-  <li style="margin-bottom: 10px;">• <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets - Fichier Braille (en cours de réalisation)</a></li><br>
+  <li style="margin-bottom: 10px;">• <a href="./images/Sects_and_Violets.brf" download="Sects_and_Violets.brf" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets - Fichier Braille (.brf)</a></li><br>
 </ul>
 </div>
 
