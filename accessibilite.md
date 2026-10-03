@@ -206,11 +206,10 @@ image: /images/Icon_revolutionary.png
 
 <ul style="color:#f5f5f5; font-size:20px; line-height:1.8; padding-left:0px; margin-left:0px; list-style-type:none;">
   <li style="margin-bottom: 10px;">• <a href="./images/Trouble_Brewing.brf" download="Trouble_Brewing.brf" style="color:#D4AF37; font-weight:bold; text-decoration:none;">Trouble Brewing - Fichier Braille (.brf)</a></li><br>
-  <li style="margin-bottom: 10px;">• <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising - Fichier Braille (en cours de réalisation)</a></li><br>
+  <li style="margin-bottom: 10px;">• <a href="./images/Bad_Moon_Rising.brf" download="Bad_Moon_Rising.brf" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising - Fichier Braille (.brf)</a></li><br>
   <li style="margin-bottom: 10px;">• <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets - Fichier Braille (en cours de réalisation)</a></li><br>
 </ul>
 </div>
-
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.8;">
   Si vous n'avez pas accès à des moyens d'impression en Braille, nous vous conseillons de contacter les services locaux d'assistance aux déficients visuels pour voir s'ils peuvent vous proposer ce service (et faire une petite donation au passage s'ils l'acceptent). Auparavant, nous avons pu faire imprimer un petit nombre de fiches de rôles en Braille grâce à l'American Council of the Blind of Ohio.
