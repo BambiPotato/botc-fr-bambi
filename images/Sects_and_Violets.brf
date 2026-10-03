@@ -1,0 +1,145 @@
+..sects "= ..violets 
+ 
+,7,7,7 ..r?les ,7,7,7 
+ 
+--- ..villageois --- 
+ 
+.horloger 
+.lors de votre premi!re nuit1 vous apprenez ( combien de places du .d=mon est assis son .sbire le plus proche4 
+ 
+.r<veur 
+.chaque nuit1 choisissez un joueur 8sauf vous-m<me et les .voyageurs0 3 vous apprenez #* r?le bon et #* r?le mal=fique4 .l'un des deux est correct4 
+ 
+.charmeur de serpents 
+.chaque nuit1 choisissez un joueur en vie 3 si c'est un .d=mon1 il =change de r?le et d'alignement avec vous1 puis est empoisonn=4 
+ 
+.math=maticien 
+.chaque nuit1 vous apprenez combien de joueurs ont vu leur capacit= dysfonctionner 8depuis l'aube0 ( cause de la capacit= d'un autre r?le4 
+ 
+.fleuriste 
+.chaque nuit1 vous apprenez si un .d=mon a vot= dans la journ=e4 
+ 
+.crieur public 
+.chaque nuit1 vous apprenez si un .sbire a nomm= quelqu'un dans la journ=e4 
+ 
+.oracle 
+.chaque nuit1 vous apprenez combien de joueurs morts sont mal=fiques4 
+ 
+.savant 
+.chaque jour1 vous pouvez rendre visite au .conteur pour apprendre #< informations en priv= 3 une est vraie et une est fausse4 
+ 
+.couturi!re 
+.une fois par partie1 la nuit1 choisissez #< joueurs 8sauf vous-m<me0 3 vous apprenez s'ils sont du m<me alignement4 
+ 
+.philosophe 
+.une fois par partie1 la nuit1 choisissez un r?le bon 3 gagnez cette capacit=4 .si ce r?le est en jeu1 il est ivre4 
+ 
+.artiste 
+.une fois par partie1 dans la journ=e1 posez en priv= une question ferm=e 8oui/non0 au .conteur4 
+ 
+.jongleur 
+.lors de votre premier jour1 devinez publiquement jusqu'( #: r?les de joueurs4 .cette nuit1 vous apprenez combien =taient corrects4 
+ 
+.sage 
+.si le .d=mon vous tue1 vous apprenez qu'il est parmi #< joueurs4 
+ 
+--- ..marginaux --- 
+ 
+.b<te de foire 
+.si vous vous montrez ~7 fou 7b d'<tre un .marginal1 vous pourriez <tre ex=cut=4 
+ 
+.barbier 
+.si vous <tes mort dans la journ=e ou cette nuit1 le .d=mon peut choisir #< joueurs 8mais pas un autre .d=mon0 qui =changent alors leur r?le4 
+ 
+.dulcin=e 
+.lorsque vous mourez1 #* joueur est d=sormais ivre4 
+ 
+.maladroit 
+.lorsque vous apprenez que vous <tes mort1 choisissez publiquement #* joueur en vie4 .s'il est mal=fique1 votre =quipe perd4 
+ 
+--- ..sbires --- 
+ 
+.sorci!re 
+.chaque nuit1 choisissez un joueur 3 s'il nomme quelqu'un le lendemain1 il meurt4 .s'il ne reste que #% joueurs en vie1 vous perdez cette capacit=4 
+ 
+.cerenovus 
+.chaque nuit1 choisissez un joueur et un r?le bon 3 le lendemain1 il doit <tre ~7 fou 7b d'<tre ce r?le4 .sinon1 il pourrait <tre ex=cut=4 
+ 
+.guenaude 
+.chaque nuit1 choisissez un joueur et le r?le qu'il devient 8s'il n'est pas en jeu04 .si un .d=mon na%t de cette fa&on1 les morts de cette nuit sont arbitraires4 
+ 
+.jumelle mal=fique 
+.vous et un joueur adverse vous connaissez mutuellement4 .si le joueur bon est ex=cut=1 le .mal gagne4 .le .bien ne peut pas gagner si vous restez tous les deux en vie4 
+ 
+--- ..d=mons --- 
+ 
+.fang .gu 
+.chaque nuit91 choisissez un joueur 3 il meurt4 .le premier .marginal tu= ainsi devient un .fang .gu mal=fique et vous mourez ( sa place4 8,6#* .marginal0 89.pas la .premi!re .nuit40 
+ 
+.vigormortis 
+.chaque nuit91 choisissez un joueur 3 il meurt4 .les .sbires que vous tuez gardent leur capacit= et empoisonnent #* .villageois voisin4 8-#* .marginal0 89.pas la .premi!re .nuit40 
+ 
+.no .dashii 
+.chaque nuit91 choisissez un joueur 3 il meurt4 .vos #< .villageois voisins sont empoisonn=s4 89.pas la .premi!re .nuit40 
+ 
+.vortox 
+.chaque nuit91 choisissez un joueur 3 il meurt4 .les capacit=s des .villageois donnent de fausses informations4 .chaque jour1 si personne n'est ex=cut=1 le .mal gagne4 89.pas la .premi!re .nuit40 
+ 
+ 
+,7,7,7 ..r=partition ..des ..joueurs ,7,7,7 
+ 
+- #: joueurs 3 #% .villageois1 ## .marginal1 #* .sbire1 #* .d=mon 
+- #$ joueurs 3 #% .villageois1 #* .marginal1 #* .sbire1 #* .d=mon 
+- #] joueurs 3 #: .villageois1 ## .marginal1 #* .sbire1 #* .d=mon 
+- #| joueurs 3 #: .villageois1 #* .marginal1 #* .sbire1 #* .d=mon 
+- #[ joueurs 3 #: .villageois1 #< .marginaux1 #* .sbire1 #* .d=mon 
+- #*# joueurs 3 #] .villageois1 ## .marginal1 #< .sbires1 #* .d=mon 
+- #** joueurs 3 #] .villageois1 #* .marginal1 #< .sbires1 #* .d=mon 
+- #*< joueurs 3 #] .villageois1 #< .marginaux1 #< .sbires1 #* .d=mon 
+- #*% joueurs 3 #[ .villageois1 ## .marginal1 #% .sbires1 #* .d=mon 
+- #*? joueurs 3 #[ .villageois1 #* .marginal1 #% .sbires1 #* .d=mon 
+- #*: joueurs et plus 3 #[ .villageois1 #< .marginaux1 #% .sbires1 #* .d=mon 
+ 
+ 
+,7,7,7 ..ordre ..de ..nuit 8..aide ..du ..conteur0 ,7,7,7 
+ 
+--- ..premi!re ..nuit --- 
+ 
+#*4 .cr=puscule 3 .v=rifiez que tout le monde ait bien ferm= les yeux4 .certains .voyageurs et .l=gendaires agissent4 
+#<4 .info des .sbires 3 .s'il y a au moins #] joueurs1 r=veillez les .sbires 3 montrez la tuile ..voici ..le ..d=mon4 .d=signez le .d=mon4 
+#%4 .info du .d=mon 3 .s'il y a au moins #] joueurs1 r=veillez le .d=mon 3 montrez la tuile ..voici ..vos ..sbires4 .d=signez les .sbires4 .montrez la tuile ..ces ..r?les ..ne ..sont ..pas ..en ..jeu4 .montrez #% jetons de r?les bons qui ne sont pas en jeu4 
+#?4 .philosophe 3 .le .philosophe peut choisir un r?le4 .si n=cessaire1 =changez son jeton de r?le4 
+#:4 .charmeur de serpents 3 .le .charmeur de serpents choisit un joueur4 .s'il choisit le .d=mon 3 montrez-lui la tuile ..vous ..<tes et le jeton .d=mon4 .pointez le pouce vers le bas4 .=changez les jetons .charmeur de serpents et .d=mon4 .l'ancien .charmeur de serpents se rendort4 .r=veillez l'ancien .d=mon4 .montrez la tuile ..vous ..<tes et le jeton .charmeur de serpents1 et pointez le pouce vers le haut4 
+#$4 .jumelle mal=fique 3 .r=veillez les deux jumelles4 .les jumelles se reconnaissent du regard4 .montrez le jeton de r?le de la ..bonne ..jumelle ( la .jumelle mal=fique1 et inversement4 
+#]4 .sorci!re 3 .la .sorci!re choisit un joueur4 
+#|4 .cerenovus 3 .le .cerenovus choisit un joueur et un r?le4 .le .cerenovus se rendort4 .r=veillez la cible4 .montrez la tuile ..ce ..r?le ..vous .a ..choisi1 le jeton .cerenovus1 puis le jeton de r?le pour lequel le joueur cible doit manifester sa folie4 
+#[4 .horloger 3 .faites signe avec vos doigts4 
+#*#4 .r<veur 3 .le .r<veur d=signe un joueur4 .montrez #* jeton de r?le bon et #* jeton de r?le mal=fique4 .l'un des deux doit <tre correct4 
+#**4 .couturi!re 3 .la .couturi!re peut choisir #< joueurs4 .faites oui ou non de la t<te4 
+#*<4 .math=maticien 3 .faites signe avec vos doigts4 
+#*%4 .aube 3 .attendez quelques secondes4 .faites ouvrir les yeux de tous les joueurs4 
+ 
+--- ..autres ..nuits --- 
+ 
+#*4 .cr=puscule 3 .v=rifiez que tout le monde ait bien ferm= les yeux4 .certains .voyageurs et .l=gendaires agissent4 
+#<4 .philosophe 3 .le .philosophe peut choisir un r?le4 .si n=cessaire1 changez son jeton de r?le4 
+#%4 .charmeur de serpents 3 .le .charmeur de serpents choisit un joueur4 .s'il choisit le .d=mon 3 montrez-lui la tuile ..vous ..<tes et le jeton .d=mon4 .pointez le pouce vers le bas4 .=changez les jetons .charmeur de serpents et .d=mon4 .l'ancien .charmeur de serpents se rendort4 .r=veillez l'ancien .d=mon4 .montrez la tuile ..vous ..<tes et le jeton .charmeur de serpents1 et pointez le pouce vers le haut4 
+#?4 .sorci!re 3 .la .sorci!re choisit un joueur4 
+#:4 .cerenovus 3 .le .cerenovus choisit un joueur et un r?le4 .endormez le .cerenovus4 .r=veillez la cible4 .montrez la tuile ..ce ..r?le ..vous .a ..choisi1 le jeton .cerenovus1 puis le jeton du r?le de folie4 
+#$4 .guenaude 3 .la .guenaude choisit un joueur et un r?le4 .si elle choisit un r?le qui n'est pas en jeu 3 la .guenaude se rendort4 .r=veillez la cible4 .montrez la tuile ..vous ..<tes et son nouveau jeton de r?le4 
+#]4 .fang .gu 3 .le .fang .gu choisit un joueur4 .s'il choisit un .marginal 8une seule fois0 3 remplacez le jeton .marginal par le jeton .fang .gu suppl=mentaire4 .le .fang .gu se rendort4 .r=veillez la cible4 .montrez la tuile ..vous ..<tes et le jeton .fang .gu1 et pointez le pouce vers le bas4 
+#|4 .vigormortis 3 .le .vigormortis choisit un joueur4 .si ce joueur est un .sbire1 empoisonnez un .villageois voisin du .sbire4 
+#[4 .no .dashii 3 .le .no .dashii choisit un joueur4 
+#*#4 .vortox 3 .le .vortox choisit un joueur4 
+#**4 .barbier 3 .si le .barbier est mort dans la journ=e ou cette nuit1 montrez au .d=mon la tuile ..ce ..r?le ..vous .a ..choisi et le jeton .barbier4 .si le .d=mon a choisi #< joueurs1 r=veillez-les un par un4 .montrez ( chacun la tuile ..vous ..<tes et leur nouveau jeton de r?le4 
+#*<4 .dulcin=e 3 .si la .dulcin=e est morte1 un joueur est devenu imm=diatement ivre4 .si vous n'avez pas encore rendu ce joueur ivre1 faites-le maintenant4 
+#*%4 .sage 3 .si le .d=mon a tu= le .sage1 r=veillez le .sage et d=signez #< joueurs4 .l'un d'entre eux doit <tre le .d=mon4 
+#*?4 .r<veur 3 .le .r<veur d=signe un joueur4 .montrez #* jeton de r?le bon et #* jeton de r?le mal=fique4 .l'un des deux doit <tre correct4 
+#*:4 .fleuriste 3 .faites oui ou non de la t<te4 
+#*$4 .crieur public 3 .faites oui ou non de la t<te4 
+#*]4 .oracle 3 .faites signe avec vos doigts4 
+#*|4 .couturi!re 3 .la .couturi!re peut choisir #< joueurs4 .faites oui ou non de la t<te4 
+#*[4 .jongleur 3 .faites signe avec vos doigts4 
+#<#4 .math=maticien 3 .faites signe avec vos doigts4 
+#<*4 .aube 3 .attendez quelques secondes4 .terminez la phase nocturne4
+
