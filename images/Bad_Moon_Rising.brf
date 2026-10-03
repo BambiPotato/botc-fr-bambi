@@ -1,0 +1,144 @@
+..bad ..moon ..rising 
+ 
+,7,7,7 ..r?les ,7,7,7 
+ 
+--- ..villageois --- 
+ 
+.grand-m!re 
+.lors de votre premi!re nuit1 vous apprenez un joueur bon et son r?le4 .si le .d=mon tue ce joueur1 vous mourez =galement4 
+ 
+.marin 
+.chaque nuit1 choisissez un joueur en vie 3 lui ou vous <tes ivre jusqu'au cr=puscule4 .vous ne pouvez pas mourir4 
+ 
+.femme de chambre 
+.chaque nuit1 choisissez #< joueurs en vie 8sauf vous-m<me0 3 vous apprenez combien d'entre eux se sont r=veill=s cette nuit ( cause de leur capacit=4 
+ 
+.exorciste 
+.chaque nuit1 choisissez un joueur 8diff=rent de la nuit pr=c=dente0 3 si c'est le .d=mon1 il apprend qui vous <tes puis ne se r=veille pas cette nuit4 
+ 
+.aubergiste 
+.chaque nuit1 choisissez #< joueurs 3 ils ne peuvent pas mourir cette nuit1 mais un d'entre eux est ivre jusqu'au cr=puscule4 
+ 
+.parieur 
+.chaque nuit1 choisissez un joueur et devinez son r?le4 .si vous vous trompez1 vous mourez4 
+ 
+.comm!re 
+.chaque jour1 vous pouvez faire une annonce publiquement4 .cette nuit1 si votre annonce =tait vraie1 un joueur meurt4 
+ 
+.courtisan 
+.une fois par partie1 la nuit1 choisissez un r?le 3 il est ivre pendant #% nuits et #% jours4 
+ 
+.professeur 
+.une fois par partie1 la nuit1 choisissez un joueur mort 3 si c'est un .villageois1 il est ressuscit=4 
+ 
+.m=nestrel 
+.lorsqu'un .sbire meurt par ex=cution1 tous les autres joueurs 8sauf les .voyageurs0 sont ivres jusqu'au cr=puscule du lendemain4 
+ 
+.tisani!re 
+.si vos deux voisins en vie sont bons1 ils ne peuvent pas mourir4 
+ 
+.pacifiste 
+.les joueurs bons ex=cut=s pourraient ne pas mourir4 
+ 
+.fou du roi 
+.la premi!re fois que vous mourez1 vous ne mourez pas4 
+ 
+--- ..marginaux --- 
+ 
+.gros bras 
+.chaque nuit1 le premier joueur ( vous choisir avec sa capacit= est ivre jusqu'au cr=puscule4 .vous devenez de son alignement4 
+ 
+.lunatique 
+.vous pensez que vous <tes un .d=mon4 .le .d=mon sait qui vous <tes et qui vous choisissez la nuit4 
+ 
+.bricoleur 
+.vous pourriez mourir ( tout moment4 
+ 
+.s=l=nite 
+.lorsque vous apprenez que vous <tes morte1 choisissez publiquement #* joueur en vie4 .cette nuit1 si c'=tait un joueur bon1 il meurt4 
+ 
+--- ..sbires --- 
+ 
+.parrain 
+.lors de votre premi!re nuit1 vous apprenez quels .marginaux sont en jeu4 .si un .marginal meurt dans la journ=e1 choisissez un joueur cette nuit 3 il meurt4 8-#* ou ,6#* .marginal0 
+ 
+.avocat du .diable 
+.chaque nuit1 choisissez un joueur en vie 8diff=rent de la nuit pr=c=dente0 3 s'il est ex=cut= le lendemain1 il ne meurt pas4 
+ 
+.assassin 
+.une fois par partie1 la nuit1 choisissez un joueur 3 il meurt1 m<me s'il ne peut normalement pas mourir4 
+ 
+.conspirateur 
+.si le .d=mon meurt par ex=cution 8mettant fin ( la partie01 vous jouez #* jour de plus4 .si un joueur est ex=cut= ce jour-l(1 son =quipe perd4 
+ 
+--- ..d=mons --- 
+ 
+.zombuul 
+.chaque nuit91 si personne n'est mort dans la journ=e1 choisissez un joueur 3 il meurt4 .la premi!re fois que vous mourez1 vous restez en vie1 mais apparaissez comme mort4 89.pas la .premi!re .nuit40 
+ 
+.pukka 
+.chaque nuit1 choisissez un joueur 3 il est empoisonn=4 .le joueur pr=c=demment empoisonn= meurt1 puis devient sain4 
+ 
+.shabaloth 
+.chaque nuit91 choisissez #< joueurs 3 ils meurent4 .un joueur mort que vous avez choisi lors de la nuit pr=c=dente pourrait <tre recrach=4 89.pas la .premi!re .nuit40 
+ 
+.po 
+.chaque nuit91 vous pouvez choisir un joueur 3 il meurt4 .si votre dernier choix =tait ~7 personne 7b1 choisissez #% joueurs cette nuit4 89.pas la .premi!re .nuit40 
+ 
+ 
+,7,7,7 ..r=partition ..des ..joueurs ,7,7,7 
+ 
+- #: joueurs 3 #% .villageois1 ## .marginal1 #* .sbire1 #* .d=mon 
+- #$ joueurs 3 #% .villageois1 #* .marginal1 #* .sbire1 #* .d=mon 
+- #] joueurs 3 #: .villageois1 ## .marginal1 #* .sbire1 #* .d=mon 
+- #| joueurs 3 #: .villageois1 #* .marginal1 #* .sbire1 #* .d=mon 
+- #[ joueurs 3 #: .villageois1 #< .marginaux1 #* .sbire1 #* .d=mon 
+- #*# joueurs 3 #] .villageois1 ## .marginal1 #< .sbires1 #* .d=mon 
+- #** joueurs 3 #] .villageois1 #* .marginal1 #< .sbires1 #* .d=mon 
+- #*< joueurs 3 #] .villageois1 #< .marginaux1 #< .sbires1 #* .d=mon 
+- #*% joueurs 3 #[ .villageois1 ## .marginal1 #% .sbires1 #* .d=mon 
+- #*? joueurs 3 #[ .villageois1 #* .marginal1 #% .sbires1 #* .d=mon 
+- #*: joueurs et plus 3 #[ .villageois1 #< .marginaux1 #% .sbires1 #* .d=mon 
+ 
+ 
+,7,7,7 ..ordre ..de ..nuit 8..aide ..du ..conteur0 ,7,7,7 
+ 
+--- ..premi!re ..nuit --- 
+ 
+#*4 .cr=puscule 3 .v=rifiez que tout le monde ait bien ferm= les yeux4 .certains .voyageurs et .l=gendaires agissent4 
+#<4 .info des .sbires 3 .s'il y a au moins #] joueurs1 r=veillez les .sbires 3 montrez la tuile ..voici ..le ..d=mon4 .d=signez le .d=mon4 
+#%4 .lunatique 3 .s'il y a au moins #] joueurs1 r=veillez le .lunatique 3 montrez la tuile ..voici ..vos ..sbires4 .d=signez n'importe quels joueurs4 .montrez la tuile ..ces ..r?les ..ne ..sont ..pas ..en ..jeu4 .montrez #% jetons de r?les bons4 .le .lunatique se rendort4 .r=veillez le .d=mon4 .montrez la tuile ..vous ..<tes et le jeton .d=mon4 .montrez la tuile ..ce ..joueur ..est et le jeton .lunatique1 puis d=signez le .lunatique4 
+#?4 .info du .d=mon 3 .s'il y a au moins #] joueurs1 r=veillez le .d=mon 3 montrez la tuile ..voici ..vos ..sbires4 .d=signez les .sbires4 .montrez la tuile ..ces ..r?les ..ne ..sont ..pas ..en ..jeu4 .montrez #% jetons de r?les bons qui ne sont pas en jeu4 
+#:4 .marin 3 .le .marin choisit un joueur en vie4 
+#$4 .courtisan 3 .le .courtisan peut choisir un r?le4 
+#]4 .parrain 3 .montrez les jetons de tous les .marginaux en jeu4 
+#|4 .avocat du .diable 3 .l'.avocat du .diable choisit un joueur en vie4 
+#[4 .pukka 3 .le .pukka choisit un joueur4 
+#*#4 .grand-m!re 3 .d=signez le joueur ..petit-..enfant et montrez son jeton de r?le4 
+#**4 .femme de chambre 3 .la .femme de chambre choisit #< joueurs en vie4 .faites signe avec vos doigts4 
+#*<4 .aube 3 .attendez quelques secondes4 .faites ouvrir les yeux de tous les joueurs4 
+ 
+--- ..autres ..nuits --- 
+ 
+#*4 .cr=puscule 3 .v=rifier que tout le monde ait bien ferm= les yeux4 .certains .voyageurs et .l=gendaires agissent4 
+#<4 .marin 3 .le .marin choisit un joueur en vie4 
+#%4 .aubergiste 3 .l'.aubergiste choisit #< joueurs4 
+#?4 .courtisan 3 .le .courtisan peut choisir un r?le4 
+#:4 .parieur 3 .le .parieur choisit un joueur et un r?le4 
+#$4 .avocat du .diable 3 .l'.avocat du .diable choisit un joueur en vie4 
+#]4 .lunatique 3 .faites ce qu'il faut pour simuler que le .d=mon agit4 .le .lunatique se rendort4 .r=veillez le .d=mon4 .montrez le jeton .lunatique et d=signez-le1 ainsi que ses cibles4 
+#|4 .exorciste 3 .l'.exorciste choisit un joueur4 .l'.exorciste se rendort4 .si l'.exorciste choisit le .d=mon 3 r=veillez le .d=mon4 .montrez la tuile ..ce ..r?le ..vous .a ..choisi et le jeton .exorciste4 .d=signez l'.exorciste4 
+#[4 .zombuul 3 .si personne n'est mort dans la journ=e1 le .zombuul choisit un joueur4 
+#*#4 .pukka 3 .le .pukka choisit un joueur4 .le joueur pr=c=demment empoisonn= meurt1 puis devient sain4 
+#**4 .shabaloth 3 .un joueur pr=c=demment choisi pourrait <tre recrach=4 .le .shabaloth choisit #< joueurs4 
+#*<4 .po 3 .le .po peut choisir un joueur1 ou choisit #% joueurs si son dernier choix =tait ~7 personne 7b4 
+#*%4 .assassin 3 .l'.assassin peut choisir un joueur4 
+#*?4 .parrain 3 .si un .marginal est mort dans la journ=e1 le .parrain choisit un joueur4 
+#*:4 .professeur 3 .le .professeur peut choisir un joueur mort4 
+#*$4 .comm!re 3 .si la .comm!re doit tuer un joueur1 il meurt4 
+#*]4 .bricoleur 3 .le .bricoleur pourrait mourir4 
+#*|4 .s=l=nite 3 .si un joueur doit mourir ( cause de la capacit= de la .s=l=nite1 il meurt4 
+#*[4 .grand-m!re 3 .si le ..petit-..enfant a =t= tu= par le .d=mon1 la .grand-m!re meurt =galement4 
+#<#4 .femme de chambre 3 .la .femme de chambre choisit #< joueurs en vie4 .faites signe avec vos doigts4 
+#<*4 .aube 3 .attendez quelques secondes4 .faites ouvrir les yeux de tous les joueurs et annoncez imm=diatement qui est mort4
+
