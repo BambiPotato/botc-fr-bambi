@@ -112,32 +112,48 @@ transform:translateX(-50%) translateY(0);
 
 @media (max-width:600px){
 .home-topbar{
-gap:8px;
+display:flex!important;
+flex-direction:row!important;
+align-items:center!important;
+justify-content:space-between!important;
+gap:6px!important;
+width:100%!important;
+}
+
+.home-logo{
+flex:0 0 auto!important;
 }
 
 .home-logo img{
-width:145px;
+width:115px!important;
+max-width:115px!important;
 }
 
 .home-socials{
-gap:6px;
+display:flex!important;
+flex-direction:row!important;
+flex-wrap:nowrap!important;
+align-items:center!important;
+justify-content:flex-end!important;
+gap:4px!important;
+flex:0 0 auto!important;
 }
 
 .home-socials a{
-width:38px!important;
-height:38px!important;
-flex:0 0 38px!important;
-border-radius:10px;
+width:31px!important;
+height:31px!important;
+flex:0 0 31px!important;
+border-radius:8px!important;
 }
 
 .home-socials svg{
-width:19px;
-height:19px;
+width:16px!important;
+height:16px!important;
 }
 
 .home-logo::after,
 .home-socials a::after{
-display:none;
+display:none!important;
 }
 }
 
@@ -282,7 +298,6 @@ table.roles-grid{ border-spacing:14px; }
 <a href="https://linktr.ee/bambibluepotato" target="_blank" rel="noopener noreferrer" aria-label="Retrouve tous mes liens sur Linktree" data-tooltip="Tous mes liens sur Linktree"><svg viewBox="0 0 24 24"><path d="M13.736 5.853l4.005-4.117 2.325 2.38-4.2 4.005h5.908v3.305h-5.937l4.229 4.108-2.325 2.334-5.741-5.76v10.666h-3.305v-10.666l-5.741 5.76-2.325-2.334 4.229-4.108h-5.937v-3.305h5.908l-4.2-4.005 2.325-2.38 4.005 4.117v-4.627h3.305v4.627z"/></svg></a>
 </div>
 </div>
-
 
 <!-- PAGE D’ACCUEIL - WIKI BOTC FR -->
 
