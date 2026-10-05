@@ -1525,3 +1525,46 @@ hr.explication {
     display: none !important;
   }
 }
+   
+   /* =========================================================
+   SÉPARATEURS DORÉS BOTC OFFICIELS FINS (MENU LATÉRAL)
+   ========================================================= */
+
+body.sidebar-on .botc-sidebar-nav h3,
+.botc-sidebar-nav h3 {
+  border-top: none !important;
+  border-bottom: none !important;
+  position: relative !important;
+  padding: 10px 0 !important;
+  text-align: center !important;
+}
+
+/* Filet doré supérieur fin et patiné */
+body.sidebar-on .botc-sidebar-nav h3::before,
+.botc-sidebar-nav h3::before {
+  content: "" !important;
+  display: block !important;
+  width: 100% !important;
+  height: 4px !important;
+  margin: 0 auto 6px auto !important;
+  opacity: 0.85 !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  background-size: contain !important;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 8'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='0%25'%3E%3Cstop offset='0%25' stop-color='%23b58b52' stop-opacity='0'/%3E%3Cstop offset='30%25' stop-color='%23b58b52' stop-opacity='0.9'/%3E%3Cstop offset='50%25' stop-color='%23fff0b8' stop-opacity='1'/%3E%3Cstop offset='70%25' stop-color='%23b58b52' stop-opacity='0.9'/%3E%3Cstop offset='100%25' stop-color='%23b58b52' stop-opacity='0'/%3E%3C/linearGradient%3E%3C/defs%3E%3Cpath d='M10 4 Q90 3.2 144 2.2 L147 4 L144 5.8 Q90 4.8 10 4 Z' fill='url(%23g)'/%3E%3Cpath d='M150 4 L154 1.8 L158 1.8 L162 4 L158 6.2 L154 6.2 Z M154.5 4 L156 3 L157 3 L158.5 4 L157 5 L156 5 Z' fill='url(%23g)' fill-rule='evenodd'/%3E%3Cpath d='M310 4 Q230 3.2 176 2.2 L173 4 L176 5.8 Q230 4.8 310 4 Z' fill='url(%23g)'/%3E%3C/svg%3E") !important;
+}
+
+/* Filet doré inférieur fin et patiné */
+body.sidebar-on .botc-sidebar-nav h3::after,
+.botc-sidebar-nav h3::after {
+  content: "" !important;
+  display: block !important;
+  width: 100% !important;
+  height: 4px !important;
+  margin: 6px auto 0 auto !important;
+  opacity: 0.85 !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  background-size: contain !important;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 8'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='0%25'%3E%3Cstop offset='0%25' stop-color='%23b58b52' stop-opacity='0'/%3E%3Cstop offset='30%25' stop-color='%23b58b52' stop-opacity='0.9'/%3E%3Cstop offset='50%25' stop-color='%23fff0b8' stop-opacity='1'/%3E%3Cstop offset='70%25' stop-color='%23b58b52' stop-opacity='0.9'/%3E%3Cstop offset='100%25' stop-color='%23b58b52' stop-opacity='0'/%3E%3C/linearGradient%3E%3C/defs%3E%3Cpath d='M10 4 Q90 3.2 144 2.2 L147 4 L144 5.8 Q90 4.8 10 4 Z' fill='url(%23g)'/%3E%3Cpath d='M150 4 L154 1.8 L158 1.8 L162 4 L158 6.2 L154 6.2 Z M154.5 4 L156 3 L157 3 L158.5 4 L157 5 L156 5 Z' fill='url(%23g)' fill-rule='evenodd'/%3E%3Cpath d='M310 4 Q230 3.2 176 2.2 L173 4 L176 5.8 Q230 4.8 310 4 Z' fill='url(%23g)'/%3E%3C/svg%3E") !important;
+}
