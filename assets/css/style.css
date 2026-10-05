@@ -1526,48 +1526,4 @@ hr.explication {
   }
 }
    
-  /* =========================================================
-   SÉPARATEURS DORÉS BOTC OFFICIELS FINS (MENU LATÉRAL)
-   ========================================================= */
-
-.botc-sidebar .botc-sidebar-nav h3,
-body.sidebar-on .botc-sidebar-nav h3,
-.botc-sidebar-nav h3 {
-  border-top: none !important;
-  border-bottom: none !important;
-  position: relative !important;
-  padding: 10px 0 !important;
-  text-align: center !important;
-}
-
-/* Filet doré supérieur fin */
-.botc-sidebar .botc-sidebar-nav h3::before,
-body.sidebar-on .botc-sidebar-nav h3::before,
-.botc-sidebar-nav h3::before {
-  content: "" !important;
-  display: block !important;
-  width: 100% !important;
-  height: 6px !important;
-  margin: 0 auto 6px auto !important;
-  opacity: 0.9 !important;
-  background-repeat: no-repeat !important;
-  background-position: center !important;
-  background-size: contain !important;
-  background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 8"><path d="M10 4 Q 90 3.2 144 2.2 L 147 4 L 144 5.8 Q 90 4.8 10 4 Z" fill="%23d4a76a"/><path d="M150 4 L 154 1.8 L 158 1.8 L 162 4 L 158 6.2 L 154 6.2 Z M 154.5 4 L 156 3 L 157 3 L 158.5 4 L 157 5 L 156 5 Z" fill="%23f3ddb0" fill-rule="evenodd"/><path d="M310 4 Q 230 3.2 176 2.2 L 173 4 L 176 5.8 Q 230 4.8 310 4 Z" fill="%23d4a76a"/></svg>') !important;
-}
-
-/* Filet doré inférieur fin */
-.botc-sidebar .botc-sidebar-nav h3::after,
-body.sidebar-on .botc-sidebar-nav h3::after,
-.botc-sidebar-nav h3::after {
-  content: "" !important;
-  display: block !important;
-  width: 100% !important;
-  height: 6px !important;
-  margin: 6px auto 0 auto !important;
-  opacity: 0.9 !important;
-  background-repeat: no-repeat !important;
-  background-position: center !important;
-  background-size: contain !important;
-  background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 8"><path d="M10 4 Q 90 3.2 144 2.2 L 147 4 L 144 5.8 Q 90 4.8 10 4 Z" fill="%23d4a76a"/><path d="M150 4 L 154 1.8 L 158 1.8 L 162 4 L 158 6.2 L 154 6.2 Z M 154.5 4 L 156 3 L 157 3 L 158.5 4 L 157 5 L 156 5 Z" fill="%23f3ddb0" fill-rule="evenodd"/><path d="M310 4 Q 230 3.2 176 2.2 L 173 4 L 176 5.8 Q 230 4.8 310 4 Z" fill="%23d4a76a"/></svg>') !important;
-}
+  
