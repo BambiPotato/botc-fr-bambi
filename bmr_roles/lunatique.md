@@ -196,7 +196,7 @@ Vous pouvez faire croire au Lunatique qu’il s’agit d’un Démon différent 
   🧞 Jinx lié
 </h2>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:00px;">
   <li>
     🧞
     <img src="../images/Icon_mathematician.png" alt="Mathématicien" width="24"
