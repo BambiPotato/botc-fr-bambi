@@ -271,7 +271,7 @@ Instructions au Conteur
 
 <hr class="explication">
 
-<h2 style="color:#d45b5b; font-size:22px; margin-top:30px;">
+<h2 style="color:#d45b5b; font-size:22px; margin-top:00px;">
   🧞 Jinxes liés
 </h2>
 
