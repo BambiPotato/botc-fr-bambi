@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Grand-Mère
+title: Grand-mère
 description: "Lors de votre première nuit, vous apprenez un joueur bon et son rôle. Si le Démon tue ce joueur, vous mourez également."
 image: /images/Icon_grandmother.png
 ---
@@ -84,7 +84,7 @@ Je ne voudrais pas que tu attrapes la mort. Ça me tuerait »
 
 <p class="botc-flavour-text dropcap" style="margin:0;">
 <strong>LA GRAND-MÈRE</strong> sait quel joueur est son <strong>Petit-enfant</strong>, mais s'il est tué par le <span style="color:#d45b5b; font-weight:bold;">Démon</span>, la Grand-mère meurt également.
-</p>
+</p><br>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:00px;">
 <li>Lors de la première nuit, la <strong>Grand-mère</strong> apprend qui est son <strong>Petit-enfant</strong> : <br>un joueur bon avec un rôle de 
