@@ -64,7 +64,7 @@ image: /images/Icon_lunatic.png
 <hr class="marginal">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:22px; margin-top:-10px;">
-« Vous pensez que vous êtes un Démon. <br> Le Démon sait qui vous êtes et qui vous choisissez la nuit. »
+« Vous pensez que vous êtes un Démon. Le Démon sait qui vous êtes et qui vous choisissez la nuit. »
 </p>
 
 <p class="botc-flavour-text dropcap" style="margin:0;">
