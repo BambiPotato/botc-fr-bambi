@@ -275,7 +275,7 @@ Instructions au Conteur
   🧞 Jinxes liés
 </h2>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:00px;">
 
   <!-- CONSPIRATEUR -->
   <li>
@@ -284,7 +284,8 @@ Instructions au Conteur
          style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../bmr_roles/cerveau.html"
        style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a> :
-    Un <span style="color:#d45b5b; font-weight:bold;">Conspirateur</span> qui possède encore sa capacité
+    Un <a href="../bmr_roles/cerveau.html"
+       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Conspirateur</a> qui possède encore sa capacité
     la <strong>conserve</strong> même si le
     <span style="color:#d45b5b; font-weight:bold;">Vigormortis</span> meurt.
   </li>
