@@ -80,14 +80,14 @@ Je ne voudrais pas que tu attrapes la mort. Ça me tuerait »
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:22px; margin:0 0 8px 0;">
 <strong>« Lors de votre première nuit, vous apprenez un joueur bon et son rôle. <br> Si le Démon tue ce joueur, vous mourez également »</strong>
-</p>
+</p><br>
 
 <p class="botc-flavour-text dropcap" style="margin:0;">
-<strong>LA GRAND-MÈRE</strong> sait quel joueur est son <strong>Petit-Enfant</strong>, mais s'il est tué par le <span style="color:#d45b5b; font-weight:bold;">Démon</span>, la Grand-Mère meurt également.
+<strong>LA GRAND-MÈRE</strong> sait quel joueur est son <strong>Petit-enfant</strong>, mais s'il est tué par le <span style="color:#d45b5b; font-weight:bold;">Démon</span>, la Grand-mère meurt également.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:00px;">
-<li>Lors de la première nuit, la <strong>Grand-Mère</strong> apprend qui est son <strong>Petit-enfant</strong> : <br>un joueur bon avec un rôle de 
+<li>Lors de la première nuit, la <strong>Grand-mère</strong> apprend qui est son <strong>Petit-enfant</strong> : <br>un joueur bon avec un rôle de 
 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
 ou de <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a>.</li><br>
 <li>Le <strong>Petit-enfant</strong> n’apprend pas qu’il a une Grand-mère.</li><br>
@@ -124,8 +124,7 @@ Instructions au Conteur
 
 <li><strong>Mort du Petit-enfant :</strong>
 <ul style="margin-left:20px;">
-<li>Si le <span style="color:#d45b5b; font-weight:bold;">Démon</span> tue le <strong>Petit-enfant</strong>, la <strong>Grand-mère</strong> <strong>meurt</strong> — marquez-la du jeton de rappel <strong>MORT</strong>.</li>
-<li>Au lever du jour, annoncez les deux morts.</li>
+<li>Si le Démon tue le <strong>Petit-enfant</strong>, la <strong>Grand-mère</strong> <strong>meurt</strong> — marquez-la du jeton de rappel <strong>MORT</strong>.</li>
 </ul>
 </li>
 </ul>
