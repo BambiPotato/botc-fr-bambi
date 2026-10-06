@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Veuve
-description: "Lors de votre 1re nuit, regardez le Grimoire et choisissez un joueur : il est empoisonné. 1 joueur bon sait qu’une Veuve est en jeu."
+description: "Lors de votre 1ʳᵉ nuit, regardez le Grimoire et choisissez un joueur : il est empoisonné. 1 joueur bon sait qu’une Veuve est en jeu."
 image: /images/Icon_widow.png
 ---
 
@@ -63,7 +63,7 @@ image: /images/Icon_widow.png
 <hr class="sbire">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
-« Lors de votre 1re nuit, regardez le Grimoire et choisissez un joueur : il est empoisonné. 1 joueur bon sait qu’une Veuve est en jeu. »
+« Lors de votre 1ʳᵉ nuit, regardez le Grimoire et choisissez un joueur : il est empoisonné. 1 joueur bon sait qu’une Veuve est en jeu. »
 </p>
 
 <p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
