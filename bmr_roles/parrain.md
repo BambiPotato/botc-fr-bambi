@@ -177,10 +177,10 @@ Instructions au Conteur
 <hr class="explication">
 
 <h2 style="color:#d45b5b; font-size:22px; margin-top:30px;">
-  🧞 Jinx lié
+  🧞 Jinxs liés
 </h2>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:00px;">
 
   <!-- HERETIC -->
   <li>
@@ -189,15 +189,15 @@ Instructions au Conteur
          style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/heretic.html"
        style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Hérétique</a> :
-    Un seul rôle <span style="color:#4ea3ff; font-weight:bold;">jinxé</span> peut être en jeu.
+    Un seul rôle jinxé  peut être en jeu.
   </li>
 
 </ul>
 
 <hr class="explication">
 
-<p style="text-align:left; font-size:18px; margin-top:20px;">
-   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Retour aux Sbires</a><br>
-   <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+<p style="text-align:left; font-size:18px; margin-top:00px;">
+• <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+• <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Retour aux Sbires</a><br>
+• <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
 </p>
