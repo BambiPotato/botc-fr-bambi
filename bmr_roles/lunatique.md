@@ -192,7 +192,7 @@ Vous pouvez faire croire au Lunatique qu’il s’agit d’un Démon différent 
 
 <hr class="explication">
 
-<h2 style="color:#4ea3ff; font-size:22px; margin-top:30px;">
+<h2 style="color:#4ea3ff; font-size:22px; margin-top:00px;">
   🧞 Jinx lié
 </h2>
 
@@ -203,17 +203,19 @@ Vous pouvez faire croire au Lunatique qu’il s’agit d’un Démon différent 
          style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../sv_roles/mathematicien.html"
        style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mathématicien</a> :
-    Le <span style="color:#4ea3ff; font-weight:bold;">Mathématicien</span> apprend
-    si le <span style="color:#4ea3ff; font-weight:bold;">Lunatique</span> attaque des joueurs
-    différents de ceux attaqués par le vrai <span style="color:#d45b5b; font-weight:bold;">Démon</span>.
+    Le <a href="../sv_roles/mathematicien.html"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mathématicien</a> apprend
+    si le <a href="../bmr_roles/lunatique.html"
+       style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Lunatique</aattaque des joueurs
+    différents de ceux attaqués par le vrai Démon.
   </li>
 </ul>
 
 <hr class="explication">
 
-<p style="text-align:left; font-size:18px; margin-top:20px;">
-   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Marginaux</a><br>
-   <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+<p style="text-align:left; font-size:18px; margin-top:00px;">
+• <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+• <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Marginaux</a><br>
+• <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
 </p>
 
