@@ -77,7 +77,7 @@ image: /images/Icon_snakecharmer.png
 
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
-« Chaque nuit, choisissez un joueur en vie : si c’est un Démon, <br> il échange de rôle et d’alignement avec vous, puis est empoisonné. »
+« Chaque nuit, choisissez un joueur en vie : si c’est un Démon,  il échange de rôle et d’alignement avec vous, puis est empoisonné. »
 </p>
 
 <p class="botc-flavour-text dropcap">
