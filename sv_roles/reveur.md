@@ -79,7 +79,7 @@ Ensuite, je me suis réveillé. »
 
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
-« Chaque nuit, choisissez un joueur (sauf vous-même ni les voyageurs) : <br> vous apprenez 1 rôle bon et 1 rôle maléfique, dont 1 est correct. »
+« Chaque nuit, choisissez un joueur (sauf vous-même ni les voyageurs) : vous apprenez 1 rôle bon et 1 rôle maléfique, dont 1 est correct. »
 </p>
 <p class="botc-flavour-text dropcap">
 LE RÊVEUR apprend le rôle d’un joueur, sans pour autant en être sûr.
