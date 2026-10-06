@@ -86,13 +86,13 @@ Je ne voudrais pas que tu attrapes la mort. Ça me tuerait »
 <strong>LA GRAND-MÈRE</strong> sait quel joueur est son <strong>Petit-Enfant</strong>, mais s'il est tué par le <span style="color:#d45b5b; font-weight:bold;">Démon</span>, la Grand-Mère meurt également.
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:00px;">
 <li>Lors de la première nuit, la <strong>Grand-Mère</strong> apprend qui est son <strong>Petit-enfant</strong> : <br>un joueur bon avec un rôle de 
 <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
-ou de <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a>.</li>
-<li>Le <strong>Petit-enfant</strong> n’apprend pas qu’il a une Grand-mère.</li>
+ou de <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a>.</li><br>
+<li>Le <strong>Petit-enfant</strong> n’apprend pas qu’il a une Grand-mère.</li><br>
 <li>Si le <span style="color:#d45b5b; font-weight:bold;">Démon</span> tue le <strong>Petit-enfant</strong>,
-la <strong>Grand-mère</strong> meurt également.</li>
+la <strong>Grand-mère</strong> meurt également.</li><br>
 <li>Si le <strong>Petit-enfant</strong> meurt par un autre moyen, comme une exécution ou un autre type de mort,<br> alors la <strong>Grand-Mère</strong> ne meurt pas.</li>
 </ul>
 
@@ -105,7 +105,7 @@ la <strong>Grand-mère</strong> meurt également.</li>
 <p class="botc-flavour-text dropcap" style="margin:0;">
 Instructions au Conteur
 </p>
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:00px;">
 <li><strong>Lors de la préparation de la première nuit :</strong>
 <ul style="margin-left:20px;">
 <li>Choisissez un <strong>Petit-enfant</strong> en marquant n'importe quel rôle bon (un Villageois ou un Marginal).</li>
@@ -136,21 +136,20 @@ Instructions au Conteur
 ---
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Au cours de la première nuit, la <strong>Grand-Mère</strong> se réveille  
-et apprend que <strong>Corentin</strong>, son <strong>Petit-Enfant</strong>,  
-est le <a href="../bmr_roles/professeur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Professeur</a>.  
-Trois nuits plus tard, Corentin est tué par le <span style="color:#d45b5b; font-weight:bold;">Démon</span>, donc la <strong>Grand-Mère</strong> meurt aussi.
+Lors de la première nuit, la <strong>Grand-mère</strong> se réveille et apprend que Julian, son Petit-enfant, est le
+le <a href="../bmr_roles/professeur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Professeur</a>.  
+Trois nuits plus tard, Julian est tué par le Démon. la <strong>Grand-Mère</strong> meurt également.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-<strong>Sacha</strong> est le <a href="../bmr_roles/parieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Parieur</a>.  
-Elle perd son pari et meurt à cause de son pouvoir.  
-La <strong>Grand-Mère</strong> reste vivante.
+La Grand-mère sait que Lewis, son Petit-enfant, est le  <a href="../bmr_roles/parieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Parieur</a>.  
+Lewis utilise sa capacité de <a href="../bmr_roles/parieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Parieur</a>, se trompe, et meurt. La Grand-mère reste en vie.
 </p>
 
+
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-La <strong>Grand-Mère</strong> sait que <strong>Camille</strong>, son <strong>Petit-Enfant</strong>, est le <a href="../bmr_roles/bricoleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bricoleur</a>.  
-Camille est tuée par le <span style="color:#d45b5b; font-weight:bold;">Démon</span>, mais la <strong>Grand-Mère</strong> est ivre à cause du  <a href="../bmr_roles/sailor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a>, donc elle reste en vie.
+La <strong>Grand-mère</strong> sait que Sarah, son Petit-enfant, est le <a href="../bmr_roles/bricoleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Bricoleur</a>.
+Sarah est tuée par le Démon, mais la Grand-mère est ivre à cause  du  <a href="../bmr_roles/sailor.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a>, la <strong>Grand-mère</strong> reste en vie.
 </p>
 
 <h2 style="color:#4ea3ff;">Conseils &amp; Astuces</h2>
@@ -164,7 +163,7 @@ Camille est tuée par le <span style="color:#d45b5b; font-weight:bold;">Démon</
 <li>Ne révélez l’identité de votre petit-enfant à personne ! Si l’équipe maléfique comprend le lien qui vous unit, elle voudra absolument le tuer afin de provoquer votre mort en prime. Gardez son identité secrète pour le protéger.</li><br> 
 <li>Révélez assez tôt votre identité ainsi que celle de votre petit-enfant à un ou deux joueurs. Cela présente plusieurs avantages&nbsp;: si ces joueurs sont dignes de confiance, ils sauront qu’ils peuvent vous faire confiance, vous et votre petit-enfant. En revanche, si vous et votre petit-enfant mourez soudainement, vous pourrez regarder ces joueurs avec beaucoup de suspicion&nbsp;: il est possible que l’un d’eux soit en réalité le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>&nbsp;! (Si vous pensez parler à des joueurs maléfiques, rien ne vous oblige à révéler l’identité de votre véritable petit-enfant.)</li><br> 
 <li>Il existe de nombreuses façons de renforcer la confiance de l’équipe du Bien grâce à vos informations&nbsp;!</li><br> 
-<li>Encouragez les rôles protecteurs à protéger votre petit-enfant. Si vous connaissez l’identité d’un <a href="./aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a>, ou si votre petit-enfant est assis à côté d’une <a href="./tealady.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Tisanière</a>, essayez de faire en sorte que votre petit-enfant soit protégé la nuit, afin de vous garder tous les deux en sécurité.</li><br> 
+<li>Encouragez les rôles protecteurs à protéger votre petit-enfant. Si vous connaissez l’identité d’un <a href="./aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a>, ou si votre petit-enfant est assis à côté d’une <a href="./damedethe.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Tisanière</a>, essayez de faire en sorte que votre petit-enfant soit protégé la nuit, afin de vous garder tous les deux en sécurité.</li><br> 
 <li>De la même manière, mettez en garde des rôles comme le <a href="./marin.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marin</a> ou l’<a href="./exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a>, qui risqueraient soit de rendre votre petit-enfant ivre, soit de gaspiller leur capacité sur un joueur dont vous savez avec certitude qu’il est bon.</li><br> 
 <li>Enfin, vous pouvez encourager le <a href="./parieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Parieur</a> et la <a href="./femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de chambre</a> à utiliser leurs capacités sur vous ou votre petit-enfant, afin d’élargir le cercle de confiance lorsque leurs informations concordent avec les vôtres.</li><br> 
 <li>Si vous et votre petit-enfant êtes les seuls à mourir pendant la nuit, il est probable que vous soyez mort à cause de votre capacité. Si vous pensez que c’est le cas, veillez à en informer l’équipe du Bien. Sinon, deux morts pendant la nuit peuvent être interprétées comme un indice précoce de la présence d’un terrible <a href="./shabaloth.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Shabaloth</a> ou d’un <a href="./po.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Po</a>, alors qu’un <a href="./zombuul.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Zombuul</a> ou un <a href="./pukka.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Pukka</a> restent des possibilités tout à fait plausibles.</li><br> 
@@ -189,13 +188,13 @@ Camille est tuée par le <span style="color:#d45b5b; font-weight:bold;">Démon</
 ## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
 
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:00px;">
 
   <li>
     <img src="../images/Icon_leviathan.png" alt="Léviathan" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/leviathan.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Léviathan</a> :  
     Si le <strong>Léviathan</strong> est en jeu  
-    et que le <strong>Petit-Enfant</strong> meurt par exécution,  
+    et que le <strong>Petit-enfant</strong> meurt par exécution,  
     le <span style="color:#d45b5b; font-weight:bold;">Mal</span> gagne.
   </li>
 
@@ -203,7 +202,7 @@ Camille est tuée par le <span style="color:#d45b5b; font-weight:bold;">Démon</
     <img src="../images/Icon_riot.png" alt="Émeute" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Émeute</a> :  
     Si l' <strong>Émeute</strong> est en jeu  
-    et que le <strong>Petit-Enfant</strong> meurt par exécution,  
+    et que le <strong>Petit-enfant</strong> meurt par exécution,  
     le <span style="color:#d45b5b; font-weight:bold;">Mal</span> gagne.
   </li>
 
@@ -212,9 +211,9 @@ Camille est tuée par le <span style="color:#d45b5b; font-weight:bold;">Démon</
 <hr class="explication">
 
 
-<p style="text-align:left; font-size:18px; margin-top:20px;">
-  <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-  <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
-  <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+<p style="text-align:left; font-size:18px; margin-top:00px;">
+• <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+• <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
+• <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
 </p>
 
