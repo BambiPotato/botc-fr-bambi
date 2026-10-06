@@ -248,18 +248,19 @@ Si vous avez dit à l’équipe du Bien que vous êtes un <a href="../etrangers.
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:00px;">
 
-  <!-- Femme écarlate -->
-  <li>
-    🧞
-    <img src="../images/Icon_scarletwoman.png" alt="Femmeécarlate" width="24"
-         style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../tb_roles/femmeecarlate.html"
-       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme écarlate</a> :
-    S'il devait y avoir deux Démons, dont l'un était la  <a href="../tb_roles/femmeecarlate.html"
-       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme écarlate</a> 
-    la <a href="../tb_roles/femmeecarlate.html"style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme écarlate</a> reste la <a href="../tb_roles/femmeecarlate.html"
-       style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme écarlate</a>.
-  </li>
+ <!-- Femme écarlate -->
+<li>
+  🧞
+  <img src="./images/Icon_scarletwoman.png" alt="Femme écarlate" width="24"
+       style="vertical-align:middle; border-radius:6px; margin-right:4px;">
+  <a href="./tb_roles/femmeecarlate.html"
+     style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme écarlate</a> :
+  S'il devait y avoir deux Démons, dont l'un était la <a href="./tb_roles/femmeecarlate.html"
+     style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme écarlate</a>,
+  la <a href="./tb_roles/femmeecarlate.html"
+     style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme écarlate</a> reste la <a href="./tb_roles/femmeecarlate.html"
+     style="color:#d45b5b; font-weight:bold; text-decoration:none;">Femme écarlate</a>.
+</li>
 
 </ul>
 
