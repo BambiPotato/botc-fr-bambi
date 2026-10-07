@@ -85,7 +85,7 @@ Que vos ailes soient l’instrument de ma vengeance ! Volez ! »
 LA CORNEILLE apprend le rôle de n’importe quel joueur si elle meurt la nuit.
 </p>
 
-- La Corneille est réveillée lors de la nuit où elle meurt. Elle choisit alors immédiatement un joueur.
+- La Corneille est réveillée lors de la nuit où elle meurt. Elle choisit alors immédiatement un joueur.<br>
 - La Corneille peut choisir un joueur mort si elle le souhaite.
 
 
@@ -158,7 +158,7 @@ Instructions au Conteur
 ---
 
 **Lorsque vous bluffez le Corneille**, il y a quelques éléments à garder en tête:
-  - La Corneille ne se réveillerait que si elle meurt pendant la nuit, pas pendant la journée. Elle se réveillerait et choisirait un joueur, puis on lui montrerait un jeton de rôle.
+  - La Corneille ne se réveillerait que si elle meurt pendant la nuit, pas pendant la journée. Elle se réveillerait et choisirait un joueur, puis on lui montrerait un jeton de rôle.<br>
 - La Corneille est un bluff fantastique si vous comptez transmettre le flambeau à un Sbire à un moment donné, ou mourir autrement en protégeant le Démon. Mourir la nuit a tendance à faire paraître un joueur bon, et avoir des informations grâce à votre mort peut vous permettre de rejeter la faute sur quelqu’un, de protéger un autre joueur maléfique, ou de paraître extrêmement digne de confiance.
   - Rejeter la faute sur quelqu’un vous permet de pointer du doigt un joueur bon comme étant maléfique - en jetant le doute sur lui, sur ses informations, et sur les personnes en qui il a confiance.
   - Vous pouvez aussi soutenir le bluff d’un joueur maléfique, confirmer son identité et le rendre digne de confiance pour l’équipe du Bien. Par exemple, si votre Démon prétend être le [Moine](moine.md), vous pouvez prétendre l’avoir choisi et avoir vu le jeton de rôle du [Moine](moine.md).
@@ -183,7 +183,7 @@ Instructions au Conteur
 
 ___
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:00px;">
 
    <li>
     🧞
