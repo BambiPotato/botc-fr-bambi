@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Shugenja
-description: "Lors de votre 1re nuit, vous apprenez si le joueur maléfique le plus proche de vous l’est en sens horaire ou antihoraire. À distance égale, cette info est arbitraire."
+description: "Lors de votre 1re nuit, vous apprenez un rôle de Villageois en jeu. Si vous étiez fou d’être ce rôle, vous gagnez sa capacité à sa mort."
 image: /images/Icon_shugenja.png
 ---
 
@@ -63,7 +63,7 @@ image: /images/Icon_shugenja.png
 <hr class="villageois">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
-« Lors de votre 1re nuit, vous apprenez si le joueur maléfique le plus proche de vous l’est en sens horaire ou antihoraire. À distance égale, cette info est arbitraire. »
+« Lors de votre 1<sup>re</sup> nuit nuit, vous apprenez si le joueur maléfique le plus proche de vous l’est en sens horaire ou antihoraire. À distance égale, cette info est arbitraire. »
 </p>
 
 <p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
