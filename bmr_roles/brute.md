@@ -189,11 +189,11 @@ Le Gros bras peut être un bluff délicat. Il est conseillé de garder le silenc
 
 <hr class="explication">
 
-  <h2 style="color:#4ea3ff; font-size:22px; margin-top:30px;">
+  <h2 style="color:#4ea3ff; font-size:22px; margin-top:00px;">
   🧞 Jinxes liés
 </h2>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:00px;">
 
   <!-- BOFFIN -->
   <li>
@@ -205,7 +205,7 @@ Le Gros bras peut être un bluff délicat. Il est conseillé de garder le silenc
     Si le <span style="color:red; font-weight:bold;">Démon</span> possède la capacité du 
     <span style="color:#4ea3ff; font-weight:bold;">Gros bras</span>, il ne peut pas devenir bon
     grâce à cette capacité.
-  </li>
+  </li><br> 
 
   <!-- PIT-HAG -->
   <li>
@@ -217,14 +217,14 @@ Le Gros bras peut être un bluff délicat. Il est conseillé de garder le silenc
     Si la <span style="color:#d45b5b; font-weight:bold;">Guenaude</span> transforme un joueur
     maléfique en <span style="color:#4ea3ff; font-weight:bold;">Gros Bras</span>, ce joueur ne
     peut pas devenir bon à cause de sa propre capacité.
-  </li>
+  </li><br> 
 
 </ul>
 
 <hr class="explication">
 
-<p style="text-align:left; font-size:18px; margin-top:20px;">
-   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Marginaux</a><br>
-   <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+<p style="text-align:left; font-size:18px; margin-top:00px;">
+• <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+• <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Marginaux</a><br>
+• <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
 </p>
