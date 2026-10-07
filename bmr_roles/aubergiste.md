@@ -84,7 +84,7 @@ image: /images/Icon_innkeeper.png
 
 <p class="botc-flavour-text dropcap" style="margin:0;">
 L’AUBERGISTE protège des joueurs de la mort pendant la nuit, mais au prix de la sobriété de l’un d’entre eux.
-</p>
+</p><br>
 
 <ul style="margin:0; padding:0; list-style-position:inside; color:#f5f5f5; font-size:18px; line-height:1.7;">
 <li>Comme le <a href="../tb_roles/moine.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Moine</a>, l’Aubergiste empêche les joueurs qu’il protège d’être tués par le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.<br>Ces joueurs ne peuvent pas non plus mourir à cause de la capacité d’un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a>, d’un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>, d’un <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> ou d’un <a href="../voyageurs.html" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageur</a>.</li><br>
@@ -163,7 +163,7 @@ Instructions au Conteur
     nomme puis fait exécuter un joueur protégé par 
     l’<a href="./aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a>,  
     le Bien gagne.
-  </li>
+  </li><br>
 
   <li>
     🧞
