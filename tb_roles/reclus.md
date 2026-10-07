@@ -90,10 +90,10 @@ Lorsque l’alignement de la Recluse est détecté, le Conteur choisit si la Rec
 <li>
 Lorsque la Recluse est ciblée par une capacité qui affecte un <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> ou un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> en particulier, le Conteur choisit si la Recluse apparaît comme ce <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> ou ce <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>.
 </li>
-<li>
+<li><br> 
 La Recluse peut apparaître comme un joueur bon ou maléfique, ou comme un <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginal</a>, un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> ou un <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>, et ce pendant la même nuit. Le Conteur choisit ce qui est le plus intéressant.
 </li>
-<li>
+<li><br> 
 Une Recluse qui apparaît comme un <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> ou un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> particulier ne dispose pas de la capacité de ce rôle.<br>
 <strong>Par exemple :</strong> une Recluse qui apparaît comme un <a href="./empoisonneur.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Empoisonneur</a> ne se réveille pas la nuit et ne peut pas empoisonner un joueur.
 </li>
@@ -245,7 +245,7 @@ Instructions au Conteur
     🧞
     <img src="../images/Icon_sage.png" alt="Sage" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../sv_roles/sage.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Sage</a> :  
-    La Recluse peut s’enregistrer comme le Démon pour le Sage.
+    La Recluse pourrait apparaître comme le Démon pour le Sage.
   </li>  
   </ul>
   
