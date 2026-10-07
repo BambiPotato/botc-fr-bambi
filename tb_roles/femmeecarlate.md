@@ -20,7 +20,7 @@ image: /images/Icon_scarletwoman.png
   <a href="./femmeecarlate.html" style="text-decoration:none;">
     <img src="../images/Icon_scarletwoman.png" alt="Femme Écarlate" width="350" style="border-radius:8px;">
     <br>
-    <span style="color:red; font-weight:bold; font-size:50px;">Femme Écarlate</span>
+    <span style="color:red; font-weight:bold; font-size:50px;">Femme écarlate</span>
   </a>
 </div>
 
