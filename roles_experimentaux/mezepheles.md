@@ -63,7 +63,7 @@ image: /images/Icon_mezepheles.png
 <hr class="sbire">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
-« Lors de votre 1re nuit, vous apprenez un mot secret. Le 1er joueur bon qui dit ce mot devient maléfique cette nuit. »
+« Lors de votre 1<sup>re</sup> nuit, vous apprenez un mot secret. Le 1<sup>re</sup> joueur bon qui dit ce mot devient maléfique cette nuit. »
 </p>
 
 <p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
