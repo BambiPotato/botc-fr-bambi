@@ -158,12 +158,15 @@ Instructions au Conteur
 ---
 
 **Lorsque vous bluffez le Corneille**, il y a quelques éléments à garder en tête:
-  - La Corneille ne se réveillerait que si elle meurt pendant la nuit, pas pendant la journée. Elle se réveillerait et choisirait un joueur, puis on lui montrerait un jeton de rôle.<br>
+  - La Corneille ne se réveillerait que si elle meurt pendant la nuit, pas pendant la journée. Elle se réveillerait et choisirait un joueur, puis on lui montrerait un jeton de rôle.
+  
 - La Corneille est un bluff fantastique si vous comptez transmettre le flambeau à un Sbire à un moment donné, ou mourir autrement en protégeant le Démon. Mourir la nuit a tendance à faire paraître un joueur bon, et avoir des informations grâce à votre mort peut vous permettre de rejeter la faute sur quelqu’un, de protéger un autre joueur maléfique, ou de paraître extrêmement digne de confiance.
+
   - Rejeter la faute sur quelqu’un vous permet de pointer du doigt un joueur bon comme étant maléfique - en jetant le doute sur lui, sur ses informations, et sur les personnes en qui il a confiance.
   - Vous pouvez aussi soutenir le bluff d’un joueur maléfique, confirmer son identité et le rendre digne de confiance pour l’équipe du Bien. Par exemple, si votre Démon prétend être le [Moine](moine.md), vous pouvez prétendre l’avoir choisi et avoir vu le jeton de rôle du [Moine](moine.md).
   
 - Une technique avancée consiste à prétendre qu’il est en réalité un rôle différent de celui qu’il revendiquait publiquement. Votre allié maléfique peut alors révéler qu’il mentait depuis le début, et que vous aviez en fait raison ! (Assurez-vous que votre coéquipier sait que vous allez faire cela, ou qu’il peut s’adapter sur le moment !)
+
   - Enfin, vous pouvez soutenir la revendication d’un joueur bon, ce qui l’amènera à vous faire confiance et à travailler avec vous. Par exemple, si vous savez qu’un joueur est l’[Empathe](empathqiue.md), prétendez que vous l’avez choisi et que vous avez vu le jeton de l’[Empathe](empathqiue.md).
   
 - Vous ne connaissez pas l’identité du joueur que vous confirmez ? Prétendez que cette personne est l’[Ivrogne](ivrogne.md). Cela jettera aussi le doute sur ses informations, ajoutant une couche d’utilité supplémentaire à cette stratégie.
