@@ -189,7 +189,6 @@ Ce script créé par <strong>Emily</strong> est devenu incontournable dans la co
 </div>
 
 <!-- ================== FIN FICHE SCRIPT : Ok... But Hear Me Out ! ================== -->
-
 <div class="script-card">
 <a href="#zoom-okbuthearmeout" class="script-preview-link" title="Agrandir la fiche du script">
   <div class="preview-backdrop-wrapper">
@@ -203,16 +202,17 @@ Ce script créé par <strong>Emily</strong> est devenu incontournable dans la co
 <span class="badge-pill badge-green">🟢 Niveau expert</span>
 <span class="badge-pill">👥 8 à 12 joueurs</span>
 <span class="badge-pill">🧞 Jinxes : Baron &amp; Hérétique</span>
+<span class="badge-pill">✍️ Auteurs : FM Jason &amp; Bambi 🥔</span>
 </div>
 
 <div class="script-tag-line">
-  <span class="tag-line-icon">💡</span> Recommandé pour des Conteurs, Conteuses et joueurs & joueuses très aguerris. Une maîtrise pointue des rôles et intéractions avancés est indispensable pour mener la partie.
+  <span class="tag-line-icon">💡</span> Recommandé pour des Conteurs, Conteuses, joueurs &amp; joueuses très aguerris. Une maîtrise pointue des rôles et intéractions avancés est indispensable pour mener la partie.
 </div>
 
 <p class="script-description">
 Ce script hautement expérimental intègre plusieurs particularités :<br>
 • <strong>Jinx maison</strong> entre le <a href="/botc-fr-bambi/tb_roles/baron.html" class="inline-role-link role-link-evil">Baron</a> et l’<a href="/botc-fr-bambi/roles_experimentaux/heretic.html" class="inline-role-link role-link-good">Hérétique</a> : le Baron peut ajouter 1 seul Marginal ou 2.<br>
-• L’Hérétique est en sécurité grâce au rôle Loric <a href="/botc-fr-bambi/loric_roles/stormcatcher.html" class="inline-role-link role-link-loric">Chasseur d'orages</a> (il ne peut mourir que par exécution).<br>
+• L’Hérétique est en sécurité grâce au rôle Loric <a href="/botc-fr-bambi/loric_roles/stormcatcher.html" class="inline-role-link" style="color: #27ae60 !important; font-weight: bold;">Chasseur d'orages</a> (il ne peut mourir que par exécution).<br>
 • Règle pour le Démon : le <a href="/botc-fr-bambi/roles_experimentaux/lilmonsta.html" class="inline-role-link role-link-evil">Timonstre</a> doit obligatoirement être confié à un joueur en vie.
 </p>
 
