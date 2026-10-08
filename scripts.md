@@ -10,11 +10,11 @@ image: /images/logogold.png
 
 <hr class="explication">
 
-<div class="wiki-parchment" spellcheck="false">
+<div class="wiki-parchment" spellcheck="false" data-gramm="false">
 
 <div class="header-intro-box">
 <h1 style="color: #5C2E1F; margin: 0 0 10px 0; font-size: 26px;">Bibliothèque de scripts personnalisés</h1>
-<p class="botc-flavour-text" style="color: #5C2E1F; text-align: center; margin: 0 auto; max-width: 820px; font-size: 18px; line-height: 1.6;">Une sélection de scripts testés et expérimentés, garantissant des parties équilibrées et amusantes. Chaque script dispose d'une illustration et d'un thème sur mesure pour le plaisir des yeux.</p>
+<p class="botc-flavour-text" style="color: #5C2E1F; text-align: center; margin: 0 auto; max-width: 820px; font-size: 18px; line-height: 1.6;" spellcheck="false" data-gramm="false">Une sélection de scripts testés et expérimentés, garantissant des parties équilibrées et amusantes. Chaque script dispose d'une illustration et d'un thème sur mesure pour le plaisir des yeux.</p>
 </div>
 
 <div class="botc-color-guide">
@@ -47,11 +47,11 @@ image: /images/logogold.png
 <span class="badge-pill">🧞 Jinxes : Docteur de peste x 2</span>
 </div>
 
-<div class="script-tag-line">
+<div class="script-tag-line" spellcheck="false" data-gramm="false">
   <span class="tag-line-icon">💡</span> Recommandé pour des joueurs &amp; joueuses proactifs qui aiment enquêter, savent cacher leur rôle et maîtrisent l'art du bluff.
 </div>
 
-<p class="script-description">Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, ou est-ce un sbire maléfique qui revient toujours d’entre les morts ?<br>🚨 <strong>Attention</strong> : dans ce script, les Marginaux sont particulièrement redoutables puisqu’eux aussi peuvent revenir à la vie. <br> Si vous en êtes un, gardez impérativement votre rôle secret pour ne pas offrir une cible facile au Shabaloth.</p>
+<p class="script-description" spellcheck="false" data-gramm="false">Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, ou est-ce un sbire maléfique qui revient toujours d’entre les morts ?<br>🚨 <strong>Attention</strong> : dans ce script, les Marginaux sont particulièrement redoutables puisqu’eux aussi peuvent revenir à la vie. <br> Si vous en êtes un, gardez impérativement votre rôle secret pour ne pas offrir une cible facile au Shabaloth.</p>
 <div class="script-downloads">
 <a href="https://github.com/BambiPotato/botc-fr-bambi/releases/download/v1/shabulous.pdf" class="btn-action-tab" target="_blank">📄 Fiche PDF à imprimer</a>
 <a href="/botc-fr-bambi/images/Shabulous.json" download="Shabulous.json" class="btn-action-tab">⚙️ Fichier JSON (App BotC)</a>
@@ -116,11 +116,11 @@ image: /images/logogold.png
 <span class="badge-pill">👥 8 à 12 joueurs</span>
 </div>
 
-<div class="script-tag-line">
+<div class="script-tag-line" spellcheck="false" data-gramm="false">
   <span class="tag-line-icon">💡</span> Idéal pour les joueurs et joueuses ayant déjà joué aux trois modules de base et souhaitant découvrir leurs premiers rôles expérimentaux.
 </div>
 
-<p class="script-description">
+<p class="script-description" spellcheck="false" data-gramm="false">
 Ce script créé par <strong>Emily</strong> est devenu incontournable dans la communauté BotC. Il introduit trois rôles du Carrousel : <a href="/botc-fr-bambi/roles_experimentaux/balloonist.html" class="inline-role-link role-link-good">l'Aéronaute</a>, <a href="/botc-fr-bambi/roles_experimentaux/widow.html" class="inline-role-link role-link-evil">la Veuve</a> et <a href="/botc-fr-bambi/roles_experimentaux/amnesiac.html" class="inline-role-link role-link-good">l'Amnésique</a>.
 </p>
 
@@ -192,20 +192,20 @@ Ce script créé par <strong>Emily</strong> est devenu incontournable dans la co
 <h2 class="script-title">Ok... But Hear Me Out !</h2>
 <div class="script-badges">
 <span class="badge-pill badge-green">🟢 Niveau expert</span>
+<span class="badge-pill">✍️ Auteurs : FM Jason &amp; Bambi 🥔</span>
 <span class="badge-pill">👥 8 à 12 joueurs</span>
 <span class="badge-pill">🧞 Jinxes : Baron &amp; Hérétique</span>
-<span class="badge-pill">✍️ Auteurs : FM Jason &amp; Bambi 🥔</span>
 </div>
 
-<div class="script-tag-line">
+<div class="script-tag-line" spellcheck="false" data-gramm="false">
   <span class="tag-line-icon">💡</span> Recommandé pour des Conteurs, Conteuses, joueurs &amp; joueuses très aguerris. Une maîtrise pointue des rôles et intéractions avancés est indispensable pour mener la partie.
 </div>
 
-<p class="script-description">
+<p class="script-description" spellcheck="false" data-gramm="false">
 Ce script hautement expérimental intègre plusieurs particularités :<br>
-• <strong>Jinx maison</strong> entre le <a href="/botc-fr-bambi/tb_roles/baron.html" class="inline-role-link role-link-evil">Baron</a> et l’<a href="/botc-fr-bambi/roles_experimentaux/heretic.html" class="inline-role-link role-link-good">Hérétique</a> : le Baron peut ajouter 1 seul Marginal ou 2.<br>
-• L’Hérétique est en sécurité grâce au rôle Loric <a href="/botc-fr-bambi/loric_roles/stormcatcher.html" class="inline-role-link role-link-loric">Chasseur d'orages</a> (il ne peut mourir que par exécution).<br>
-• Règle pour le Démon : le <a href="/botc-fr-bambi/roles_experimentaux/lilmonsta.html" class="inline-role-link role-link-evil">Timonstre</a> doit obligatoirement être confié à un joueur en vie.
+- <strong>Jinx maison</strong> entre le <a href="/botc-fr-bambi/tb_roles/baron.html" class="inline-role-link role-link-evil">Baron</a> et l’<a href="/botc-fr-bambi/roles_experimentaux/heretic.html" class="inline-role-link role-link-good">Hérétique</a> : le Baron peut ajouter 1 seul Marginal ou 2.<br>
+- L’Hérétique est en sécurité grâce au rôle Loric <a href="/botc-fr-bambi/loric_roles/stormcatcher.html" class="inline-role-link role-link-loric">Chasseur d'orages</a> (il ne peut mourir que par exécution).<br>
+- Règle pour le Démon : le <a href="/botc-fr-bambi/roles_experimentaux/lilmonsta.html" class="inline-role-link role-link-evil">Timonstre</a> doit obligatoirement être confié à un joueur en vie.
 </p>
 
 <div class="script-downloads">
@@ -275,16 +275,16 @@ Ce script hautement expérimental intègre plusieurs particularités :<br>
 <h2 class="script-title">Ride the Cyclone</h2>
 <div class="script-badges">
 <span class="badge-pill badge-orange">🟠 Niveau avancé</span>
+<span class="badge-pill">✍️ Auteur : Paradox</span>
 <span class="badge-pill">👥 9 à 15 joueurs</span>
 <span class="badge-pill">🧞 Jinxes : x 3</span>
-<span class="badge-pill">✍️ Auteur : Paradox</span>
 </div>
 
-<div class="script-tag-line">
+<div class="script-tag-line" spellcheck="false" data-gramm="false">
   <span class="tag-line-icon">💡</span> Recommandé pour les joueurs et joueuses n'ayant pas peur de mourir et qui aiment le jeu social. Attention aux risques pris pendant la nuit : il faudra défier le <a href="/botc-fr-bambi/bmr_roles/cerveau.html" class="inline-role-link role-link-evil">Conspirateur</a> et ne pas tomber dans le piège !
 </div>
 
-<p class="script-description">
+<p class="script-description" spellcheck="false" data-gramm="false">
 Bienvenue sur « Ride the Cyclone », un script solo <a href="/botc-fr-bambi/roles_experimentaux/alhadikhia.html" class="inline-role-link role-link-evil">Al-Hadikhia</a> centré sur l'appât du gain où chaque choix entre vie et mort peut vous hisser vers des sommets ou causer votre perte par pure vanité.<br><br>
 Tandis que le bien doit coopérer pour identifier les sbires et décider qui sacrifier, le mal doit composer avec un démon immédiatement dévoilé pour semer le doute sur sa composition et manipuler les choix nocturnes.
 </p>
@@ -607,9 +607,7 @@ Tandis que le bien doit coopérer pour identifier les sbires et décider qui sac
 .script-badges {
   display: flex;
   flex-wrap: wrap;
-  align-content: flex-start;
   gap: 8px;
-  min-height: 74px; /* Verrouille la hauteur commune pour aligner les blocs d'accroche jaune */
   margin-bottom: 14px;
 }
 .badge-pill {
