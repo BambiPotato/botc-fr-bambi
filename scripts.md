@@ -500,7 +500,6 @@ Tandis que le bien doit coopérer pour identifier les sbires et décider qui sac
 .inline-role-link {
   font-weight: bold;
   text-decoration: none !important;
-  border-bottom: 1px dotted currentColor;
 }
 .inline-role-link:hover {
   opacity: 0.8;
