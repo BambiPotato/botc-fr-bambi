@@ -15,6 +15,7 @@ image: /images/logogold.png
 
 <hr class="explication">
 
+
 <div class="wiki-parchment">
 
 <div style="background: rgba(246, 225, 184, 0.82); border: 2px solid rgba(92, 46, 31, 0.50); border-radius: 14px; box-shadow: 0 8px 18px rgba(92, 46, 31, 0.22); padding: 24px 20px; text-align: center; margin-bottom: 26px;">
@@ -33,7 +34,7 @@ Une sélection de scripts dotés d'une véritable identité visuelle et d'un des
 <ul class="color-list">
 <li>
 <span class="dot dot-blue"></span>
-<strong>Pastille Bleue (Niveau Débutant) :</strong> Débutants grandement bienvenus !Exemple :le module de base <em>Trouble Brewing</em> ou ses dérivés proches. 
+<strong>Pastille Bleue (Niveau Débutant) :</strong> Débutants grandement bienvenus ! Exemple : le module de base <em>Trouble Brewing</em> ou ses dérivés proches. Le lundi est généralement dédié au Trouble Brewing, parfait pour se lancer !
 </li>
 
 <li>
@@ -61,7 +62,7 @@ modifiant lourdement les mécaniques du jeu.
 <!-- ==================== GALERIE DES SCRIPTS ==================== -->
 <div class="scripts-gallery">
 
-<!-- MODÈLE DE FICHE SCRIPT -->
+<!-- EXEMPLE DE FICHE SCRIPT -->
 <div class="script-card">
 <a href="/botc-fr-bambi/images/logogold.png" class="script-preview-link" target="_blank" title="Agrandir l'illustration">
 <img src="/botc-fr-bambi/images/logogold.png" alt="Aperçu du script" class="script-thumb">
@@ -71,12 +72,10 @@ modifiant lourdement les mécaniques du jeu.
 <div class="script-content">
 <h2 class="script-title">Nom du Script</h2>
 
-<!-- Tu peux ajouter ou modifier les badges selon tes envies -->
 <div class="script-badges">
 <span class="badge-parchment badge-violet">🟣 Intermédiaire</span>
 <span class="badge-parchment">✍️ Auteur : Nom</span>
 <span class="badge-parchment">👥 7 à 15 joueurs</span>
-<!-- Exemple pour un autre script : <span class="badge-parchment badge-orange">Teensyville (5-6 j)</span> -->
 </div>
 
 <p class="script-description">
@@ -90,13 +89,14 @@ Présentation de l'atmosphère, des dynamiques de jeu et des particularités gra
 </div>
 </div>
 </div>
-<!-- FIN MODÈLE SCRIPT -->
+<!-- FIN DE FICHE SCRIPT -->
 
 </div>
 
+<!-- BOUTON REVENIR EN HAUT ACCORDÉ AU STYLE PARCHEMIN -->
 <div style="text-align: center; margin-top: 45px; margin-bottom: 10px;">
 <a href="#" class="botc-back-to-top">
-<span class="top-arrow">⬆</span> Revenir en haut de page
+<span class="top-arrow">▲</span> Revenir en haut de page
 </a>
 </div>
 
@@ -147,7 +147,7 @@ Présentation de l'atmosphère, des dynamiques de jeu et des particularités gra
 .dot-orange { background-color: #f2994a; box-shadow: 0 0 4px rgba(242, 153, 74, 0.5); }
 .dot-green  { background-color: #27ae60; box-shadow: 0 0 4px rgba(39, 174, 96, 0.5); }
 
-/* Icônes Loric alignées dans la phrase */
+/* Icônes Loric alignées */
 .loric-inline-icon {
   width: 22px;
   height: 22px;
@@ -236,7 +236,7 @@ Présentation de l'atmosphère, des dynamiques de jeu et des particularités gra
   font-size: 22px !important;
 }
 
-/* Badges modulables */
+/* Badges */
 .script-badges {
   display: flex;
   flex-wrap: wrap;
@@ -295,38 +295,37 @@ Présentation de l'atmosphère, des dynamiques de jeu et des particularités gra
   border-color: rgba(92, 46, 31, 0.75);
 }
 
+/* BOUTON REVENIR EN HAUT ACCORDÉ AU PARCHEMIN */
 .botc-back-to-top {
   display: inline-flex;
   align-items: center;
-  gap: 8px;
-  background: #1e1329;
-  color: #f4efe6 !important;
-  border: 2px solid #d4a76a;
+  gap: 10px;
+  background: rgba(92, 46, 31, 0.12);
+  color: #5C2E1F !important;
+  border: 1.5px solid rgba(92, 46, 31, 0.45);
   border-radius: 999px;
-  padding: 10px 22px;
-  font-family: Arial, sans-serif;
+  padding: 8px 22px;
+  font-family: Georgia, "Times New Roman", serif;
   font-size: 14px;
   font-weight: bold;
   text-decoration: none !important;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.35);
-  transition: background 0.2s ease, transform 0.2s ease;
+  box-shadow: 0 4px 10px rgba(92, 46, 31, 0.10);
+  transition: background 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
 }
 
 .botc-back-to-top:hover {
-  background: #2d1b3f;
+  background: rgba(92, 46, 31, 0.22);
+  border-color: rgba(92, 46, 31, 0.75);
   transform: translateY(-2px);
+  text-decoration: none !important;
 }
 
 .top-arrow {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  background: #4ea3ff;
-  color: #ffffff;
-  width: 18px;
-  height: 18px;
-  border-radius: 4px;
-  font-size: 11px;
+  color: #5C2E1F;
+  font-size: 12px;
 }
 
 @media (max-width: 700px) {
