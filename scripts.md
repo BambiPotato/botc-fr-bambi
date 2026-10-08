@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Bibliothèque de scripts personnalisés"
-description: "Découvrez une collection de scripts pour Blood on the Clocktower dotés d'un design soigné : fiches, images, PDF prêts à imprimer et fichiers JSON."
+description: "Découvrez une collection de scripts pour Blood on the Clocktower dotés d'un design avec thème : fiches, images, PDF prêts à imprimer et fichiers JSON."
 image: /images/logogold.png
 ---
 
@@ -24,7 +24,7 @@ image: /images/logogold.png
 <li><span class="dot dot-blue"></span><strong>Pastille Bleue (Niveau Débutant) :</strong> Débutants grandement bienvenus ! Exemple : le module de base <a href="/botc-fr-bambi/trouble_brewing.html" class="module-link link-tb">Trouble Brewing</a> ou ses dérivés proches.</li>
 <li><span class="dot dot-purple"></span><strong>Pastille Violette (Niveau Intermédiaire) :</strong> Pour les joueurs ayant déjà quelques parties à leur actif. Cela inclut les deux autres modules de base (<a href="/botc-fr-bambi/bmr.html" class="module-link link-bmr">Bad Moon Rising</a>, <a href="/botc-fr-bambi/sv.html" class="module-link link-sv">Sects &amp; Violets</a>) ainsi que des scripts personnalisés considérés comme simples.</li>
 <li><span class="dot dot-orange"></span><strong>Pastille Orange (Niveau Avancé) :</strong> Scripts personnalisés avec des rôles complexes, des interactions poussées et souvent des rôles expérimentaux.</li>
-<li><span class="dot dot-green"></span><strong>Pastille Verte (Niveau Expert) :</strong> Scripts <em>homebrew</em> (faits maison) ou règles/rôles avec des Loric <img src="/botc-fr-bambi/images/Icon_bootlegger.png" alt="Bootlegger" class="loric-inline-icon"> <img src="/botc-fr-bambi/images/Icon_pope.png" alt="Pope" class="loric-inline-icon"> modifiant lourdement les mécaniques du jeu.</li>
+<li><span class="dot dot-green"></span><strong>Pastille Verte (Niveau Expert) :</strong> Scripts <em>homebrew</em> (faits maison) ou règles/rôles avec des Loric <img src="/botc-fr-bambi/images/Icon_bootlegger.png" alt="Bootlegger" class="loric-inline-icon"><img src="/botc-fr-bambi/images/Icon_pope.png" alt="Pope" class="loric-inline-icon"> modifiant lourdement les mécaniques du jeu.</li>
 </ul>
 </div>
 
@@ -54,7 +54,7 @@ image: /images/logogold.png
   <span class="tag-line-icon">💡</span> Recommandé pour des joueurs proactifs qui aiment enquêter, savent cacher leur rôle et maîtrisent l'art du bluff.
 </div>
 
-<p class="script-description">Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, ou est-ce un sbire maléfique qui revient toujours d’entre les morts ?<br>🚨 <strong>Attention</strong> : dans ce script, les Marginaux sont particulièrement redoutables puisqu’eux aussi peuvent revenir à la vie. Si vous en êtes un, gardez impérativement votre rôle secret pour ne pas offrir une cible facile au Shabaloth.</p>
+<p class="script-description">Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, ou est-ce un sbire maléfique qui revient toujours d’entre les morts ?<br>🚨 <strong>Attention</strong> : dans ce script, les Marginaux sont particulièrement redoutables puisqu’eux aussi peuvent revenir à la vie. <br> Si vous en êtes un, gardez impérativement votre rôle secret pour ne pas offrir une cible facile au Shabaloth.</p>
 <div class="script-downloads">
 <a href="https://github.com/BambiPotato/botc-fr-bambi/releases/download/v1/shabulous.pdf" class="btn-action-tab" target="_blank">📄 Fiche PDF à imprimer</a>
 <a href="/botc-fr-bambi/images/Shabulous.json" download="Shabulous.json" class="btn-action-tab">⚙️ Fichier JSON (App BotC)</a>
@@ -86,7 +86,7 @@ image: /images/logogold.png
 <a href="/botc-fr-bambi/sv_roles/mutant.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_mutant.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Bête de foire</span></a>
 <a href="/botc-fr-bambi/roles_experimentaux/damsel.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_damsel.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Demoiselle</span></a>
 <a href="/botc-fr-bambi/sv_roles/maladroit.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_klutz.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Maladroit</span></a>
-<a href="/botc-fr-bambi/tb_roles/ivrogne.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_drunk.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Ivrogne</span></a>
+<a href="/botc-fr-bambi/tb_roles/ivrogne.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_ivrogne.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Ivrogne</span></a>
 </div>
 <p class="role-cat-title cat-evil">Sbires</p>
 <div class="roles-chips-wrap">
@@ -196,12 +196,12 @@ image: /images/logogold.png
 .link-bmr { color: #c25e00 !important; }
 .link-sv  { color: #9b51e0 !important; }
 
-/* Icônes Loric plus grandes et alignées au milieu du texte */
+/* Icônes Loric plus grandes et rapprochées sans espace vide */
 .loric-inline-icon {
-  width: 24px;
-  height: 24px;
-  vertical-align: middle;
-  margin: -2px 4px 0 4px;
+  width: 26px;
+  height: 26px;
+  vertical-align: -5px;
+  margin: 0 1px;
 }
 
 .scripts-gallery {
@@ -468,7 +468,7 @@ image: /images/logogold.png
   font-size: 13px;
 }
 
-/* VISIONNEUSE : GRAND FORMAT & DÉFILEMENT FLUIDE */
+/* VISIONNEUSE : VERROUILLÉE SANS AUCUNE MODIFICATION DU ZOOM */
 .lightbox-overlay {
   position: fixed;
   inset: 0;
@@ -521,7 +521,6 @@ image: /images/logogold.png
   transition: all 0.25s ease;
 }
 
-/* État zoomé : agrandissement réel et défilement doux */
 .lightbox-toggle:checked + .lightbox-img-wrapper {
   cursor: zoom-out;
 }
