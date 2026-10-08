@@ -203,7 +203,7 @@ Ce script créé par <strong>Emily</strong> est devenu incontournable dans la co
 
 <p class="script-description" spellcheck="false" data-gramm="false">
 Ce script hautement expérimental intègre plusieurs particularités :<br>
-- <strong>Jinx maison</strong> entre le <a href="/botc-fr-bambi/tb_roles/baron.html" class="inline-role-link role-link-evil">Baron</a> et l’<a href="/botc-fr-bambi/roles_experimentaux/heretic.html" class="inline-role-link role-link-good">Hérétique</a> : le Baron peut ajouter 1 seul Marginal ou 2.<br>
+- <strong>Jinx maison</strong> entre le <a href="/botc-fr-bambi/tb_roles/baron.html" class="inline-role-link role-link-evil">Baron</a> et l’<a href="/botc-fr-bambi/roles_experimentaux/heretic.html" class="inline-role-link role-link-good">Hérétique</a> : le Baron pourrait ajouter 1 seul Marginal ou 2.<br>
 - L’Hérétique est en sécurité grâce au rôle Loric <a href="/botc-fr-bambi/loric_roles/stormcatcher.html" class="inline-role-link role-link-loric">Chasseur d'orages</a> (il ne peut mourir que par exécution).<br>
 - Règle pour le Démon : le <a href="/botc-fr-bambi/roles_experimentaux/lilmonsta.html" class="inline-role-link role-link-evil">Timonstre</a> doit obligatoirement être confié à un joueur en vie.
 </p>
