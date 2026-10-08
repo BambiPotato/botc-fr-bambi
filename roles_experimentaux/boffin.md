@@ -164,56 +164,56 @@ Le <a href="../roles_experimentaux/kazali.html" style="color:#d45b5b; font-weigh
 
 ## 🧞 <span style="color:#d45b5b;">Jinxes liés</span>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:00px;">
 
   <li>
     🧞 
     <img src="../images/Icon_alchemist.png" alt="Alchimiste" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> : 
     Si l’<a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> a la capacité du <strong>Laborantin</strong>, l’<a href="../roles_experimentaux/alchemist.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Alchimiste</a> n’apprend pas quelle capacité le <span style="color:#d45b5b; font-weight:bold;">Démon</span> possède.
-  </li>
+  </li><br>
 
   <li>
     🧞 
     <img src="../images/Icon_cultleader.png" alt="Chef de Culte" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de secte</a> : 
     Si le <span style="color:#d45b5b; font-weight:bold;">Démon</span> possède la capacité du <a href="../roles_experimentaux/cultleader.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Chef de secte</a>, il ne peut pas devenir bon grâce à cette capacité.
-  </li>
+  </li><br>
 
   <li>
     🧞 
     <img src="../images/Icon_drunk-1.png" alt="Ivrogne" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> : 
     Le <span style="color:#d45b5b; font-weight:bold;">Démon</span> ne peut pas avoir la capacité de l’<a href="../tb_roles/ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a>.
-  </li>
+  </li><br>
 
   <li>
     🧞 
     <img src="../images/Icon_goon.png" alt="Goon" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../bmr_roles/brute.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gros bras</a> : 
     Si le <span style="color:#d45b5b; font-weight:bold;">Démon</span> possède la capacité du <a href="../bmr_roles/brute.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Gros bras</a>, il ne peut pas devenir bon grâce à cette capacité.
-  </li>
+  </li><br>
 
   <li>
     🧞 
     <img src="../images/Icon_heretic.png" alt="Hérétique" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/heretic.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Hérétique</a> : 
     Le <span style="color:#d45b5b; font-weight:bold;">Démon</span> ne peut pas avoir la capacité de l’<a href="../roles_experimentaux/heretic.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Hérétique</a>.
-  </li>
+  </li><br>
 
   <li>
     🧞 
     <img src="../images/Icon_ogre.png" alt="Ogre" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/ogre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ogre</a> : 
     Le <span style="color:#d45b5b; font-weight:bold;">Démon</span> ne peut pas avoir la capacité de l’<a href="../roles_experimentaux/ogre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ogre</a>.
-  </li>
+  </li><br>
 
   <li>
     🧞 
     <img src="../images/Icon_politician.png" alt="Politicien" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/politician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Politicien</a> : 
     Le <span style="color:#d45b5b; font-weight:bold;">Démon</span> ne peut pas avoir la capacité du <a href="../roles_experimentaux/politician.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Politicien</a>.
-  </li>
+  </li><br>
 
   <li>
     🧞 
