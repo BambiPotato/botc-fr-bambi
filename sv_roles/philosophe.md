@@ -73,7 +73,7 @@ image: /images/Icon_philosopher.png
 <hr class="villageois">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
-<strong>« Une fois par partie, la nuit, choisissez un rôle bon : gagnez cette capacité. <br> Si ce rôle est en jeu, il est ivre. »</strong>
+<strong>« Une fois par partie, la nuit, choisissez un rôle bon : gagnez cette capacité. Si ce rôle est en jeu, il est ivre. »</strong>
 </p> 
 
 <p class="botc-flavour-text dropcap">
