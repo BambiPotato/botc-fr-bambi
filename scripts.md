@@ -187,7 +187,93 @@ Ce script créé par <strong>Emily</strong> est devenu incontournable dans la co
 
 </div>
 </div>
-<!-- ================== FIN FICHE SCRIPT : CATFISHING ================== -->
+
+<!-- ================== FIN FICHE SCRIPT : Ok... But Hear Me Out ! ================== -->
+
+<div class="script-card">
+<a href="#zoom-okbuthearmeout" class="script-preview-link" title="Agrandir la fiche du script">
+  <div class="preview-backdrop-wrapper">
+    <img src="/botc-fr-bambi/OkBut%20Hear%20MeOut.png" alt="Aperçu du script Ok... But Hear Me Out !" class="script-thumb">
+  </div>
+  <span class="preview-overlay">🔍 Ok... But Hear Me Out ! — Agrandir la fiche</span>
+</a>
+<div class="script-content">
+<h2 class="script-title">Ok... But Hear Me Out !</h2>
+<div class="script-badges">
+<span class="badge-pill badge-green">🟢 Niveau expert</span>
+<span class="badge-pill">👥 8 à 12 joueurs</span>
+<span class="badge-pill">🧞 Jinxes : Baron &amp; Hérétique</span>
+</div>
+
+<div class="script-tag-line">
+  <span class="tag-line-icon">💡</span> Recommandé pour des Conteurs, Conteuses et joueurs & joueuses très aguerris. Une maîtrise pointue des rôles et intéractions avancés est indispensable pour mener la partie.
+</div>
+
+<p class="script-description">
+Ce script hautement expérimental intègre plusieurs particularités :<br>
+• <strong>Jinx maison</strong> entre le <a href="/botc-fr-bambi/tb_roles/baron.html" class="inline-role-link role-link-evil">Baron</a> et l’<a href="/botc-fr-bambi/roles_experimentaux/heretic.html" class="inline-role-link role-link-good">Hérétique</a> : le Baron peut ajouter 1 seul Marginal ou 2.<br>
+• L’Hérétique est en sécurité grâce au rôle Loric <a href="/botc-fr-bambi/loric_roles/stormcatcher.html" class="inline-role-link role-link-loric">Chasseur d'orages</a> (il ne peut mourir que par exécution).<br>
+• Règle pour le Démon : le <a href="/botc-fr-bambi/roles_experimentaux/lilmonsta.html" class="inline-role-link role-link-evil">Timonstre</a> doit obligatoirement être confié à un joueur en vie.
+</p>
+
+<div class="script-downloads">
+<a href="https://github.com/BambiPotato/botc-fr-bambi/releases/tag/okbuthearmeout/Ok.But.Hear.Me.Out.pdf" class="btn-action-tab" target="_blank">📄 Fiche PDF à imprimer</a>
+<a href="/botc-fr-bambi/Okay...But%20Hear%20Me%20Out%20!.json" download="Okay...But Hear Me Out !.json" class="btn-action-tab">⚙️ Fichier JSON (App BotC)</a>
+<a href="#zoom-okbuthearmeout" class="btn-action-tab">🖼️ Fiche des rôles</a>
+<a href="#zoom-okbuthearmeout-nuit" class="btn-action-tab">🌙 Fiche pour Conteur &amp; Conteuse</a>
+</div>
+
+<details class="roles-accordion">
+<summary class="accordion-toggle">📜 Voir la composition des rôles</summary>
+<div class="roles-accordion-inner">
+
+<p class="role-cat-title cat-good">Villageois</p>
+<div class="roles-chips-wrap">
+<a href="/botc-fr-bambi/roles_experimentaux/noble.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_noble.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Noble</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/pixie.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_pixie.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Pixie</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/general.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_general.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Général</span></a>
+<a href="/botc-fr-bambi/bmr_roles/femmedechambre.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_chambermaid.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Femme de chambre</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/balloonist.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_balloonist.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Aéronaute</span></a>
+<a href="/botc-fr-bambi/tb_roles/voyante.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_fortuneteller.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Voyante</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/amnesiac.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_amnesiac.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Amnésique</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/nightwatchman.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_nightwatchman.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Veilleur de nuit</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/fisherman.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_fisherman.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Pêcheur</span></a>
+<a href="/botc-fr-bambi/tb_roles/vierge.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_virgin.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Immaculée</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/cannibal.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_cannibal.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Cannibale</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/highpriestess.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_highpriestess.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Grande prêtresse</span></a>
+<a href="/botc-fr-bambi/sv_roles/philosophe.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_philosopher.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Philosophe</span></a>
+</div>
+
+<p class="role-cat-title cat-good">Marginaux</p>
+<div class="roles-chips-wrap">
+<a href="/botc-fr-bambi/roles_experimentaux/snitch.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_snitch.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Balance</span></a>
+<a href="/botc-fr-bambi/bmr_roles/brute.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_goon.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Gros bras</span></a>
+<a href="/botc-fr-bambi/tb_roles/reclus.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_recluse.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Recluse</span></a>
+<a href="/botc-fr-bambi/tb_roles/ivrogne.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_drunk.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Ivrogne</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/heretic.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_heretic.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Hérétique</span></a>
+</div>
+
+<p class="role-cat-title cat-evil">Sbires</p>
+<div class="roles-chips-wrap">
+<a href="/botc-fr-bambi/sv_roles/cerenovus.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_cerenovus.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Cérenovus</span></a>
+<a href="/botc-fr-bambi/tb_roles/baron.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_baron.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Baron</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/fearmonger.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_fearmonger.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Tourmenteur</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/wraith.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_wraith.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Spectre</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/wizard.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_wizard.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Mage</span></a>
+</div>
+
+<p class="role-cat-title cat-evil">Démon</p>
+<div class="roles-chips-wrap">
+<a href="/botc-fr-bambi/roles_experimentaux/lilmonsta.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_lilmonsta.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Timonstre</span></a>
+</div>
+
+</div>
+</details>
+
+</div>
+</div>
+
+<!-- ================== FIN FICHE SCRIPT : Ok... But Hear Me Out ! ================== -->
 
 </div>
 
@@ -240,6 +326,28 @@ Ce script créé par <strong>Emily</strong> est devenu incontournable dans la co
   <input type="checkbox" id="toggle-zoom-catfishing-nuit" class="lightbox-toggle">
   <label for="toggle-zoom-catfishing-nuit" class="lightbox-img-wrapper" title="Cliquer pour agrandir / réduire">
     <img src="/botc-fr-bambi/images/catfishing-nuit.png" alt="Fiche de nuit Catfishing" class="lightbox-img">
+  </label>
+</div>
+</div>
+
+<div id="zoom-okbuthearmeout" class="lightbox-overlay">
+<a href="#close" class="lightbox-close-zone" title="Fermer la vue"></a>
+<a href="#close" class="lightbox-close-btn" title="Fermer">✖</a>
+<div class="lightbox-content">
+  <input type="checkbox" id="toggle-zoom-okbut" class="lightbox-toggle">
+  <label for="toggle-zoom-okbut" class="lightbox-img-wrapper" title="Cliquer pour agrandir / réduire">
+    <img src="/botc-fr-bambi/OkBut%20Hear%20MeOut.png" alt="Fiche du script Ok... But Hear Me Out !" class="lightbox-img">
+  </label>
+</div>
+</div>
+
+<div id="zoom-okbuthearmeout-nuit" class="lightbox-overlay">
+<a href="#close" class="lightbox-close-zone" title="Fermer la vue"></a>
+<a href="#close" class="lightbox-close-btn" title="Fermer">✖</a>
+<div class="lightbox-content">
+  <input type="checkbox" id="toggle-zoom-okbut-nuit" class="lightbox-toggle">
+  <label for="toggle-zoom-okbut-nuit" class="lightbox-img-wrapper" title="Cliquer pour agrandir / réduire">
+    <img src="/botc-fr-bambi/Ok.but.hear.meo.ut-nuit.png" alt="Fiche de nuit Ok... But Hear Me Out !" class="lightbox-img">
   </label>
 </div>
 </div>
