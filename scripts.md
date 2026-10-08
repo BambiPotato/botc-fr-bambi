@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Bibliothèque de scripts personnalisés"
-description: "Découvrez une collection de scripts pour Blood on the Clocktower dotés d'un design avec thème : fiches, images, PDF prêts à imprimer et fichiers JSON."
+title: "Collection de scripts personnalisés"
+description: "Découvrez une collection de scripts pour Blood on the Clocktower aux designs thématiques : fiches, JSON, images et PDF prêts à être téléchargés et imprimés."
 image: /images/logogold.png
 ---
 
@@ -13,8 +13,8 @@ image: /images/logogold.png
 <div class="wiki-parchment" spellcheck="false" data-gramm="false">
 
 <div class="header-intro-box">
-<h1 style="color: #5C2E1F; margin: 0 0 10px 0; font-size: 26px;">Bibliothèque de scripts personnalisés</h1>
-<p class="botc-flavour-text" style="color: #5C2E1F; text-align: center; margin: 0 auto; max-width: 820px; font-size: 18px; line-height: 1.6;" spellcheck="false" data-gramm="false">Une sélection de scripts testés et expérimentés, garantissant des parties équilibrées et amusantes. Chaque script dispose d'une illustration et d'un thème sur mesure pour le plaisir des yeux.</p>
+<h1 style="color: #5C2E1F; margin: 0 0 10px 0; font-size: 26px;">Collection de scripts personnalisés</h1>
+<p class="botc-flavour-text" style="color: #5C2E1F; text-align: center; margin: 0 auto; max-width: 820px; font-size: 18px; line-height: 1.6;" spellcheck="false" data-gramm="false">Une sélection de scripts testés et expérimentés par notre communauté, garantissant des parties équilibrées et amusantes. Chaque script dispose d'une illustration et d'un thème sur mesure pour le plaisir des yeux.</p>
 </div>
 
 <div class="botc-color-guide">
