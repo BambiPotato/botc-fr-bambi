@@ -22,7 +22,7 @@ Une sélection de scripts dotés d'une véritable identité visuelle et d'un des
 </p>
 </div>
 
-<!-- ==================== ENCADRÉ CODES COULEURS ==================== -->
+<!-- ==================== ENCADRÉ CODES COULEURS (FIGÉ) ==================== -->
 <div class="botc-color-guide">
 <h3 style="margin: 0 0 14px 0; color: #5C2E1F; font-size: 20px; display: flex; align-items: center; gap: 8px;">
 🎨 Les Codes couleurs
@@ -62,7 +62,7 @@ modifiant lourdement les mécaniques du jeu.
 <!-- ==================== FICHE SCRIPT : SHABULOUS ==================== -->
 <div class="script-card">
 
-<a href="/botc-fr-bambi/images/shabulous.png" target="_blank" class="script-preview-link" title="Agrandir la feuille de script">
+<a href="#zoom-shabulous" class="script-preview-link" title="Agrandir la feuille de script">
 <img src="/botc-fr-bambi/images/shabulous.png" alt="Aperçu du script Shabulous" class="script-thumb">
 <span class="preview-overlay">🔍 Shabulous — Agrandir la feuille</span>
 </a>
@@ -82,20 +82,19 @@ Recommandé pour des joueurs proactifs qui aiment enquêter, savent cacher leur 
 
 <p class="script-description">
 Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, ou est-ce un sbire maléfique qui revient toujours d’entre les morts ?<br>
-🚨 <strong>Attention</strong> : dans ce script, les Marginaux sont particulièrement redoutables puisqu’eux aussi peuvent revenir à la vie. <br> Si vous en êtes un, gardez impérativement votre rôle secret pour ne pas offrir une cible facile au Shabaloth.
+🚨 <strong>Attention</strong> : dans ce script, les Marginaux sont particulièrement redoutables puisqu’eux aussi peuvent revenir à la vie. Si vous en êtes un, gardez impérativement votre rôle secret pour ne pas offrir une cible facile au Shabaloth.
 </p>
 
 <div class="script-downloads">
 <a href="https://github.com/BambiPotato/botc-fr-bambi/releases/download/v1/shabulous.pdf" class="btn-action-tab" target="_blank">📄 Fiche PDF à imprimer</a>
 <a href="/botc-fr-bambi/images/Shabulous.json" download="Shabulous.json" class="btn-action-tab">⚙️ Fichier JSON (App BotC)</a>
-<a href="/botc-fr-bambi/images/shabulous.png" class="btn-action-tab" target="_blank">🖼️ Fiche des rôles</a>
-<a href="/botc-fr-bambi/images/shabulous-nuit.png" class="btn-action-tab" target="_blank">🎙️ Fiche pour Conteur &amp; Conteuse</a>
+<a href="#zoom-shabulous" class="btn-action-tab">🖼️ Fiche des rôles</a>
+<a href="#zoom-shabulous-nuit" class="btn-action-tab">🌙 Fiche pour Conteur &amp; Conteuse</a>
 </div>
 
 <details class="roles-accordion">
-<summary class="accordion-toggle">📜 Voir la composition des rôles</summary>
+<summary class="accordion-toggle"><span class="toggle-icon">▶</span> Voir la composition des rôles</summary>
 <div class="roles-accordion-inner">
-
 <div class="role-cat-title cat-good">Villageois</div>
 <div class="roles-chips-wrap">
 <a href="/botc-fr-bambi/roles_experimentaux/steward.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_steward.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Intendante</span></a>
@@ -112,7 +111,6 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
 <a href="/botc-fr-bambi/roles_experimentaux/huntsman.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_huntsman.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Chasseur</span></a>
 <a href="/botc-fr-bambi/roles_experimentaux/cannibal.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_cannibal.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Cannibale</span></a>
 </div>
-
 <div class="role-cat-title cat-good">Marginaux</div>
 <div class="roles-chips-wrap">
 <a href="/botc-fr-bambi/roles_experimentaux/plaguedoctor.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_plaguedoctor.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Docteur de peste</span></a>
@@ -121,21 +119,18 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
 <a href="/botc-fr-bambi/sv_roles/maladroit.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_klutz.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Maladroit</span></a>
 <a href="/botc-fr-bambi/tb_roles/ivrogne.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_drunk.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Ivrogne</span></a>
 </div>
-
 <div class="role-cat-title cat-evil">Sbires</div>
 <div class="roles-chips-wrap">
 <a href="/botc-fr-bambi/tb_roles/empoisonneur.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_poisoner.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Empoisonneur</span></a>
 <a href="/botc-fr-bambi/sv_roles/cerenovus.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_cerenovus.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Cérenovus</span></a>
 <a href="/botc-fr-bambi/tb_roles/baron.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_baron.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Baron</span></a>
 <a href="/botc-fr-bambi/roles_experimentaux/mezepheles.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_mezepheles.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Mezepheles</span></a>
-<a href="/botc-fr-bambi/tb_roles/femme_ecarlate.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_scarletwoman.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Femme écarlate</span></a>
+<a href="/botc-fr-bambi/tb_roles/femmeecarlate.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_scarletwoman.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Femme écarlate</span></a>
 </div>
-
 <div class="role-cat-title cat-evil">Démon</div>
 <div class="roles-chips-wrap">
 <a href="/botc-fr-bambi/bmr_roles/shabaloth.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_shabaloth.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Shabaloth</span></a>
 </div>
-
 </div>
 </details>
 
@@ -152,6 +147,23 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
 </a>
 </div>
 
+</div>
+
+<!-- ==================== VISIONNEUSES D'IMAGE PLEIN ÉCRAN AVEC CROIX ==================== -->
+<div id="zoom-shabulous" class="lightbox-overlay">
+<a href="#close" class="lightbox-close-zone" title="Fermer"></a>
+<div class="lightbox-content">
+<a href="#close" class="lightbox-close-btn" title="Fermer la vue">✖</a>
+<img src="/botc-fr-bambi/images/shabulous.png" alt="Fiche Shabulous">
+</div>
+</div>
+
+<div id="zoom-shabulous-nuit" class="lightbox-overlay">
+<a href="#close" class="lightbox-close-zone" title="Fermer"></a>
+<div class="lightbox-content">
+<a href="#close" class="lightbox-close-btn" title="Fermer la vue">✖</a>
+<img src="/botc-fr-bambi/images/shabulous-nuit.png" alt="Fiche Shabulous Nuit">
+</div>
 </div>
 
 <style>
@@ -371,8 +383,10 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
 }
 
 .accordion-toggle {
-  display: block;
-  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
   padding: 12px 16px;
   font-family: Georgia, serif;
   font-weight: bold;
@@ -382,45 +396,60 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
   user-select: none;
   background: rgba(246, 225, 184, 0.95);
   transition: background 0.2s ease;
+  list-style: none !important;
+}
+
+.accordion-toggle::-webkit-details-marker {
+  display: none !important;
 }
 
 .accordion-toggle:hover {
   background: #ffffff;
 }
 
+.toggle-icon {
+  font-size: 11px;
+  transition: transform 0.2s ease;
+  color: #5C2E1F;
+}
+
+.roles-accordion[open] .toggle-icon {
+  transform: rotate(90deg);
+}
+
 .roles-accordion-inner {
-  padding: 14px 16px 18px 16px;
+  padding: 16px 18px 20px 18px;
   border-top: 1px solid rgba(92, 46, 31, 0.25);
 }
 
 .role-cat-title {
   font-family: Georgia, serif;
   font-weight: bold;
-  font-size: 13px;
+  font-size: 14px;
   text-transform: uppercase;
   letter-spacing: 0.5px;
-  margin: 14px 0 8px 0;
-  padding-bottom: 3px;
-  border-bottom: 1px solid rgba(92, 46, 31, 0.20);
+  margin: 16px 0 10px 0;
+  padding-bottom: 4px;
+  border-bottom: 1.5px solid rgba(92, 46, 31, 0.20);
 }
 .role-cat-title:first-child {
   margin-top: 0;
 }
 
-/* Villageois & Marginaux : BLEU */
+/* Le Bien en Bleu (#2f80ed), Le Mal en Rouge (#c22a2a) */
 .cat-good { 
   color: #2f80ed !important; 
 }
-
-/* Sbires & Démon : ROUGE */
 .cat-evil { 
   color: #c22a2a !important; 
 }
 
+/* Espacement plus aéré pour les jetons */
 .roles-chips-wrap {
   display: flex;
   flex-wrap: wrap;
-  gap: 8px;
+  gap: 10px 12px;
+  margin-bottom: 4px;
 }
 
 /* Pastilles des rôles */
@@ -430,9 +459,9 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
   gap: 6px;
   background: #ffffff;
   border-radius: 999px;
-  padding: 4px 10px 4px 6px;
+  padding: 5px 12px 5px 8px;
   font-family: Georgia, serif;
-  font-size: 12px;
+  font-size: 13px;
   font-weight: bold;
   text-decoration: none !important;
   box-shadow: 0 2px 5px rgba(92, 46, 31, 0.08);
@@ -446,8 +475,8 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
 }
 
 .chip-icon {
-  width: 18px;
-  height: 18px;
+  width: 20px;
+  height: 20px;
   object-fit: contain;
   vertical-align: middle;
 }
@@ -494,6 +523,75 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
 .top-arrow-violet {
   color: #9b51e0;
   font-size: 13px;
+}
+
+/* VISIONNEUSE PLEIN ÉCRAN AVEC CROIX */
+.lightbox-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(16, 7, 23, 0.92);
+  display: none;
+  align-items: center;
+  justify-content: center;
+  z-index: 999999;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.lightbox-overlay:target {
+  display: flex;
+}
+
+.lightbox-close-zone {
+  position: absolute;
+  inset: 0;
+  cursor: default;
+}
+
+.lightbox-content {
+  position: relative;
+  max-width: 95vw;
+  max-height: 95vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10;
+}
+
+.lightbox-content img {
+  max-width: 95vw;
+  max-height: 92vh;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  border-radius: 8px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.8);
+}
+
+.lightbox-close-btn {
+  position: absolute;
+  top: -16px;
+  right: -16px;
+  width: 38px;
+  height: 38px;
+  background: #c22a2a;
+  color: #ffffff !important;
+  border: 2px solid #ffffff;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none !important;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.6);
+  transition: transform 0.15s ease, background 0.15s ease;
+  z-index: 20;
+}
+
+.lightbox-close-btn:hover {
+  background: #e53935;
+  transform: scale(1.1);
 }
 
 @media (max-width: 700px) {
