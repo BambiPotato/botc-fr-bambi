@@ -273,7 +273,89 @@ Ce script hautement expérimental intègre plusieurs particularités :<br>
 </div>
 </div>
 
-<!-- ================== FIN FICHE SCRIPT : Ok... But Hear Me Out ! ================== -->
+
+<!-- ================== DEBUT SCRIPT : Ride the Cyclone ================== -->
+
+<div class="script-card">
+<a href="#zoom-ridethecyclone" class="script-preview-link" title="Agrandir la fiche du script">
+  <div class="preview-backdrop-wrapper">
+    <img src="/botc-fr-bambi/images/Ride.the.Cyclone.png" alt="Aperçu du script Ride the Cyclone" class="script-thumb">
+  </div>
+  <span class="preview-overlay">🔍 Ride the Cyclone — Agrandir la fiche</span>
+</a>
+<div class="script-content">
+<h2 class="script-title">Ride the Cyclone</h2>
+<div class="script-badges">
+<span class="badge-pill badge-orange">🟠 Niveau avancé</span>
+<span class="badge-pill">👥 9 à 15 joueurs</span>
+<span class="badge-pill">🧞 Jinxes : x 3</span>
+<span class="badge-pill">✍️ Auteur : Paradox</span>
+</div>
+
+<div class="script-tag-line">
+  <span class="tag-line-icon">💡</span> Recommandé pour les joueurs et joueuses n'ayant pas peur de mourir et qui aiment le jeu social. Attention aux risques pris pendant la nuit : il faudra défier le <a href="/botc-fr-bambi/bmr_roles/cerveau.html" class="inline-role-link role-link-evil">Conspirateur</a> et ne pas tomber dans le piège !
+</div>
+
+<p class="script-description">
+Bienvenue sur « Ride the Cyclone », un script solo <a href="/botc-fr-bambi/roles_experimentaux/alhadikhia.html" class="inline-role-link role-link-evil">Al-Hadikhia</a> centré sur l'appât du gain où chaque choix entre vie et mort peut vous hisser vers des sommets ou causer votre perte par pure vanité.<br><br>
+Tandis que le bien doit coopérer pour identifier les sbires et décider qui sacrifier, le mal doit composer avec un démon immédiatement dévoilé pour semer le doute sur sa composition et manipuler les choix nocturnes.
+</p>
+
+<div class="script-downloads">
+<a href="https://github.com/BambiPotato/botc-fr-bambi/releases/tag/Cyclone/Ride.the.Cyclone.pdf" class="btn-action-tab" target="_blank">📄 Fiche PDF à imprimer</a>
+<a href="/botc-fr-bambi/images/Ride%20the%20Cyclone.json" download="Ride the Cyclone.json" class="btn-action-tab">⚙️ Fichier JSON (App BotC)</a>
+<a href="#zoom-ridethecyclone" class="btn-action-tab">🖼️ Fiche des rôles</a>
+<a href="#zoom-ridethecyclone-nuit" class="btn-action-tab">🌙 Fiche pour Conteur &amp; Conteuse</a>
+</div>
+
+<details class="roles-accordion">
+<summary class="accordion-toggle">📜 Voir la composition des rôles</summary>
+<div class="roles-accordion-inner">
+
+<p class="role-cat-title cat-good">Villageois</p>
+<div class="roles-chips-wrap">
+<a href="/botc-fr-bambi/roles_experimentaux/knight.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_knight.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Chevalier</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/preacher.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_preacher.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Prédicateur</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/balloonist.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_balloonist.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Aéronaute</span></a>
+<a href="/botc-fr-bambi/sv_roles/crieur.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_towncrier.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Crieur public</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/alsaahir.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_alsaahir.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Alsaahir</span></a>
+<a href="/botc-fr-bambi/sv_roles/savant.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_savant.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Savant</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/fisherman.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_fisherman.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Pêcheur</span></a>
+<a href="/botc-fr-bambi/sv_roles/philosophe.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_philosopher.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Philosophe</span></a>
+<a href="/botc-fr-bambi/sv_roles/couturiere.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_seamstress.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Couturière</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/princess.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_princess.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Princesse</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/banshee.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_banshee.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Banshee</span></a>
+</div>
+
+<p class="role-cat-title cat-good">Marginaux</p>
+<div class="roles-chips-wrap">
+<a href="/botc-fr-bambi/roles_experimentaux/snitch.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_snitch.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Balance</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/puzzlemaster.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_puzzlemaster.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Maître des puzzles</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/golem.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_golem.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Golem</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/politician.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_politician.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Politicien</span></a>
+</div>
+
+<p class="role-cat-title cat-evil">Sbires</p>
+<div class="roles-chips-wrap">
+<a href="/botc-fr-bambi/roles_experimentaux/boffin.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_boffin.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Laborantin</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/boomdandy.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_boomdandy.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Boumdandy</span></a>
+<a href="/botc-fr-bambi/bmr_roles/cerveau.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_mastermind.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Conspirateur</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/xaan.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_xaan.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Xaan</span></a>
+</div>
+
+<p class="role-cat-title cat-evil">Démon</p>
+<div class="roles-chips-wrap">
+<a href="/botc-fr-bambi/roles_experimentaux/alhadikhia.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_alhadikhia.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Al-Hadikhia</span></a>
+</div>
+
+</div>
+</details>
+
+</div>
+</div>
+
+
+<!-- ================== FIN SCRIPT : Ride the Cyclone ================== -->
 
 </div>
 
@@ -348,6 +430,28 @@ Ce script hautement expérimental intègre plusieurs particularités :<br>
   <input type="checkbox" id="toggle-zoom-okbut-nuit" class="lightbox-toggle">
   <label for="toggle-zoom-okbut-nuit" class="lightbox-img-wrapper" title="Cliquer pour agrandir / réduire">
     <img src="/botc-fr-bambi/Ok.but.hear.meo.ut-nuit.png" alt="Fiche de nuit Ok... But Hear Me Out !" class="lightbox-img">
+  </label>
+</div>
+</div>
+
+<div id="zoom-ridethecyclone" class="lightbox-overlay">
+<a href="#close" class="lightbox-close-zone" title="Fermer la vue"></a>
+<a href="#close" class="lightbox-close-btn" title="Fermer">✖</a>
+<div class="lightbox-content">
+  <input type="checkbox" id="toggle-zoom-cyclone" class="lightbox-toggle">
+  <label for="toggle-zoom-cyclone" class="lightbox-img-wrapper" title="Cliquer pour agrandir / réduire">
+    <img src="/botc-fr-bambi/images/Ride.the.Cyclone.png" alt="Fiche du script Ride the Cyclone" class="lightbox-img">
+  </label>
+</div>
+</div>
+
+<div id="zoom-ridethecyclone-nuit" class="lightbox-overlay">
+<a href="#close" class="lightbox-close-zone" title="Fermer la vue"></a>
+<a href="#close" class="lightbox-close-btn" title="Fermer">✖</a>
+<div class="lightbox-content">
+  <input type="checkbox" id="toggle-zoom-cyclone-nuit" class="lightbox-toggle">
+  <label for="toggle-zoom-cyclone-nuit" class="lightbox-img-wrapper" title="Cliquer pour agrandir / réduire">
+    <img src="/botc-fr-bambi/images/RidetheCyclone-nuit.png" alt="Fiche de nuit Ride the Cyclone" class="lightbox-img">
   </label>
 </div>
 </div>
