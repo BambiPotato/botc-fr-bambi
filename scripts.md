@@ -5,13 +5,14 @@ description: "Découvrez une collection de scripts pour Blood on the Clocktower 
 image: /images/logogold.png
 ---
 
+{::nomarkdown}
 <p align="left"><a href="/botc-fr-bambi/"><img src="/botc-fr-bambi/images/logogold.png" alt="Accueil BotC FR" width="300"></a></p>
 
 <hr class="explication">
 
-<div class="wiki-parchment" parse_block_html="1">
+<div class="wiki-parchment">
 
-<div style="background: rgba(246, 225, 184, 0.82); border: 2px solid rgba(92, 46, 31, 0.50); border-radius: 14px; box-shadow: 0 8px 18px rgba(92, 46, 31, 0.22); padding: 24px 20px; text-align: center; margin-bottom: 26px;">
+<div class="header-intro-box">
 <h1 style="color: #5C2E1F; margin: 0 0 10px 0; font-size: 26px;">Bibliothèque de Scripts Personnalisés</h1>
 <p class="botc-flavour-text" style="color: #5C2E1F; text-align: center; margin: 0 auto; max-width: 820px; font-size: 18px; line-height: 1.6;">Une sélection de scripts dotés d'une véritable identité visuelle et d'un design soigné. Chaque création allie un équilibre de jeu éprouvé à une mise en page sur mesure, pensée pour le plaisir des yeux autour de la table.</p>
 </div>
@@ -30,19 +31,20 @@ image: /images/logogold.png
 <hr class="legendaire">
 
 <!-- ==================== GALERIE DES SCRIPTS ==================== -->
-<div class="scripts-gallery" parse_block_html="1">
+<div class="scripts-gallery">
 
 <!-- ==================== FICHE SCRIPT : SHABULOUS ==================== -->
-<div class="script-card" parse_block_html="1">
+<div class="script-card">
 <a href="#zoom-shabulous" class="script-preview-link" title="Agrandir la feuille de script"><img src="/botc-fr-bambi/images/shabulous.png" alt="Aperçu du script Shabulous" class="script-thumb"><span class="preview-overlay">🔍 Shabulous — Agrandir la feuille</span></a>
-<div class="script-content" parse_block_html="1">
+<div class="script-content">
 <h2 class="script-title">Shabulous</h2>
 <div class="script-badges">
 <span class="badge-pill badge-orange">🟠 Niveau avancé</span>
 <span class="badge-pill">✍️ Auteurs : FM Jason &amp; Bambi 🥔</span>
 <span class="badge-pill">👥 9 à 15 joueurs</span>
+<span class="badge-pill">🧞 Jinxes : Docteur de peste x 2</span>
 </div>
-<div class="script-tag-line">Recommandé pour des joueurs proactifs qui aiment enquêter, savent cacher leur rôle et maîtrisent l'art du bluff.</div>
+<p class="script-tag-line">Recommandé pour des joueurs proactifs qui aiment enquêter, savent cacher leur rôle et maîtrisent l'art du bluff.</p>
 <p class="script-description">Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, ou est-ce un sbire maléfique qui revient toujours d’entre les morts ?<br>🚨 <strong>Attention</strong> : dans ce script, les Marginaux sont particulièrement redoutables puisqu’eux aussi peuvent revenir à la vie. Si vous en êtes un, gardez impérativement votre rôle secret pour ne pas offrir une cible facile au Shabaloth.</p>
 <div class="script-downloads">
 <a href="https://github.com/BambiPotato/botc-fr-bambi/releases/download/v1/shabulous.pdf" class="btn-action-tab" target="_blank">📄 Fiche PDF à imprimer</a>
@@ -75,7 +77,7 @@ image: /images/logogold.png
 <a href="/botc-fr-bambi/sv_roles/mutant.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_mutant.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Bête de foire</span></a>
 <a href="/botc-fr-bambi/roles_experimentaux/damsel.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_damsel.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Demoiselle</span></a>
 <a href="/botc-fr-bambi/sv_roles/maladroit.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_klutz.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Maladroit</span></a>
-<a href="/botc-fr-bambi/tb_roles/ivrogne.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_ivrogne.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Ivrogne</span></a>
+<a href="/botc-fr-bambi/tb_roles/ivrogne.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_drunk.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Ivrogne</span></a>
 </div>
 <p class="role-cat-title cat-evil">Sbires</p>
 <div class="roles-chips-wrap">
@@ -103,12 +105,13 @@ image: /images/logogold.png
 
 </div>
 
-<!-- ==================== VISIONNEUSES D'IMAGE AVEC CROIX FIXE ==================== -->
+<!-- ==================== VISIONNEUSES D'IMAGE GRAND FORMAT ==================== -->
 <div id="zoom-shabulous" class="lightbox-overlay">
 <a href="#close" class="lightbox-close-zone" title="Fermer"></a>
 <a href="#close" class="lightbox-close-btn" title="Fermer la vue">✖</a>
 <div class="lightbox-content">
 <img src="/botc-fr-bambi/images/shabulous.png" alt="Fiche Shabulous">
+<a href="/botc-fr-bambi/images/shabulous.png" target="_blank" class="lightbox-zoom-native-btn">🔎 Voir en taille originale 100%</a>
 </div>
 </div>
 
@@ -117,11 +120,21 @@ image: /images/logogold.png
 <a href="#close" class="lightbox-close-btn" title="Fermer la vue">✖</a>
 <div class="lightbox-content">
 <img src="/botc-fr-bambi/images/shabulous-nuit.png" alt="Fiche Shabulous Nuit">
+<a href="/botc-fr-bambi/images/shabulous-nuit.png" target="_blank" class="lightbox-zoom-native-btn">🔎 Voir en taille originale 100%</a>
 </div>
 </div>
 
 <style>
-/* Encadré explicatif des codes couleurs (figé) */
+.header-intro-box {
+  background: rgba(246, 225, 184, 0.82);
+  border: 2px solid rgba(92, 46, 31, 0.50);
+  border-radius: 14px;
+  box-shadow: 0 8px 18px rgba(92, 46, 31, 0.22);
+  padding: 24px 20px;
+  text-align: center;
+  margin-bottom: 26px;
+}
+
 .botc-color-guide {
   background: rgba(246, 225, 184, 0.70);
   border: 2px solid rgba(92, 46, 31, 0.40);
@@ -177,7 +190,6 @@ image: /images/logogold.png
   margin: 0 3px;
 }
 
-/* Grille des cartes */
 .scripts-gallery {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
@@ -417,7 +429,7 @@ image: /images/logogold.png
   font-size: 13px;
 }
 
-/* VISIONNEUSE PLEIN ÉCRAN ROBUSTE */
+/* VISIONNEUSE GRAND FORMAT */
 .lightbox-overlay {
   position: fixed;
   inset: 0;
@@ -426,7 +438,7 @@ image: /images/logogold.png
   align-items: center;
   justify-content: center;
   z-index: 999999;
-  padding: 24px;
+  padding: 20px;
   box-sizing: border-box;
 }
 .lightbox-overlay:target {
@@ -439,26 +451,43 @@ image: /images/logogold.png
 }
 .lightbox-content {
   position: relative;
-  max-width: 95vw;
-  max-height: 95vh;
+  max-width: 96vw;
+  max-height: 96vh;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   z-index: 10;
 }
 .lightbox-content img {
-  max-width: 92vw;
-  max-height: 90vh;
+  max-width: 94vw;
+  max-height: 86vh;
   width: auto;
   height: auto;
   object-fit: contain;
   border-radius: 8px;
   box-shadow: 0 10px 40px rgba(0, 0, 0, 0.9);
 }
+.lightbox-zoom-native-btn {
+  margin-top: 10px;
+  background: rgba(246, 225, 184, 0.95);
+  color: #5C2E1F !important;
+  border: 1.5px solid #5C2E1F;
+  border-radius: 999px;
+  padding: 6px 16px;
+  font-family: Georgia, serif;
+  font-size: 13px;
+  font-weight: bold;
+  text-decoration: none !important;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.4);
+}
+.lightbox-zoom-native-btn:hover {
+  background: #ffffff;
+}
 .lightbox-close-btn {
   position: fixed;
-  top: 24px;
-  right: 28px;
+  top: 20px;
+  right: 25px;
   width: 48px;
   height: 48px;
   background: #c22a2a;
@@ -478,7 +507,7 @@ image: /images/logogold.png
 }
 .lightbox-close-btn:hover {
   background: #e53935;
-  transform: scale(1.1);
+  transform: scale(1.08);
 }
 
 @media (max-width: 700px) {
@@ -487,3 +516,4 @@ image: /images/logogold.png
   }
 }
 </style>
+{:/}
