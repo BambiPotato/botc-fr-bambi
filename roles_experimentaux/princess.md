@@ -63,7 +63,7 @@ image: /images/Icon_princess.png
 <hr class="villageois">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
-« Lors de votre 1er jour, si vous avez nommé et exécuté un joueur, le Démon ne tue pas cette nuit.»
+« Lors de votre 1<sup>er</sup> jour, si vous avez nommé et exécuté un joueur, le Démon ne tue pas cette nuit.»
 </p>
 
 <p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
