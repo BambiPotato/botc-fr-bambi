@@ -127,7 +127,7 @@ image: /images/logogold.png
 </div>
 
 <p class="script-description">
-Créé par <strong>Emily</strong>, ce script communautaire devenu incontournable propose une excellente transition vers l'expérimental. Il introduit trois rôles phares du carrousel — l'<strong>Aéronaute</strong>, la <strong>Veuve</strong> et l'<strong>Amnésique</strong> — au sein d'une configuration équilibrée et accessible.
+Ce script créé par <strong>Emily</strong> est devenu incontournable dans la communauté BotC. Il introduit trois rôles du Carrousel : <a href="/botc-fr-bambi/roles_experimentaux/balloonist.html" class="inline-role-link role-link-good">l'Aéronaute</a>, <a href="/botc-fr-bambi/roles_experimentaux/widow.html" class="inline-role-link role-link-evil">la Veuve</a> et <a href="/botc-fr-bambi/roles_experimentaux/amnesiac.html" class="inline-role-link role-link-good">l'Amnésique</a>.
 </p>
 
 <div class="script-downloads">
@@ -161,7 +161,7 @@ Créé par <strong>Emily</strong>, ce script communautaire devenu incontournable
 <p class="role-cat-title cat-good">Marginaux</p>
 <div class="roles-chips-wrap">
 <a href="/botc-fr-bambi/bmr_roles/lunatique.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_lunatic.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Lunatique</span></a>
-<a href="/botc-fr-bambi/tb_roles/ivrogne.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_drunk.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Ivrogne</span></a>
+<a href="/botc-fr-bambi/tb_roles/ivrogne.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_ivrogne.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Ivrogne</span></a>
 <a href="/botc-fr-bambi/tb_roles/reclus.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_recluse.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Recluse</span></a>
 <a href="/botc-fr-bambi/sv_roles/dulcinee.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_sweetheart.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Dulcinée</span></a>
 <a href="/botc-fr-bambi/sv_roles/mutant.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_mutant.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Bête de foire</span></a>
@@ -302,6 +302,22 @@ Créé par <strong>Emily</strong>, ce script communautaire devenu incontournable
 .link-tb  { color: #8B2500 !important; }
 .link-bmr { color: #c25e00 !important; }
 .link-sv  { color: #9b51e0 !important; }
+
+/* Liens des rôles dans les descriptions */
+.inline-role-link {
+  font-weight: bold;
+  text-decoration: none !important;
+  border-bottom: 1px dotted currentColor;
+}
+.inline-role-link:hover {
+  opacity: 0.8;
+}
+.role-link-good {
+  color: #2f80ed !important;
+}
+.role-link-evil {
+  color: #c22a2a !important;
+}
 
 /* Icônes Loric plus grandes et rapprochées sans espace vide */
 .loric-inline-icon {
@@ -473,15 +489,22 @@ Créé par <strong>Emily</strong>, ce script communautaire devenu incontournable
   text-decoration: none !important;
 }
 
+/* Accordéon harmonisé avec les boutons arrondis */
 .roles-accordion {
   margin-top: 6px;
-  border: 1.5px solid rgba(92, 46, 31, 0.40);
-  border-radius: 12px;
+  border: 1.5px solid rgba(92, 46, 31, 0.45);
+  border-radius: 999px;
   background: rgba(246, 225, 184, 0.85);
   overflow: hidden;
+  transition: border-radius 0.2s ease;
 }
+
+.roles-accordion[open] {
+  border-radius: 14px;
+}
+
 .accordion-toggle {
-  padding: 12px 16px;
+  padding: 11px 16px;
   font-family: Georgia, serif;
   font-weight: bold;
   font-size: 14px;
