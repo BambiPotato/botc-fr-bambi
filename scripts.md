@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Bibliothèque de scripts personnalisés"
-description: "Découvrez une collection de scripts pour Blood on the Clocktower dotés d'un design avec thème : fiches, images, PDF prêts à imprimer et fichiers JSON."
+description: "Découvrez une collection de scripts pour Blood on the Clocktower dotés d'un design soigné : fiches, images, PDF prêts à imprimer et fichiers JSON."
 image: /images/logogold.png
 ---
 
@@ -14,7 +14,7 @@ image: /images/logogold.png
 
 <div class="header-intro-box">
 <h1 style="color: #5C2E1F; margin: 0 0 10px 0; font-size: 26px;">Bibliothèque de scripts personnalisés</h1>
-<p class="botc-flavour-text" style="color: #5C2E1F; text-align: center; margin: 0 auto; max-width: 820px; font-size: 18px; line-height: 1.6;">Une sélection de scripts testés et expérimentés, garantissant des parties équilibrées et amusantes. Chaque script dispose d'une illustration imagée et d'un thème sur mesure pour le plaisir des yeux autour de la table.</p>
+<p class="botc-flavour-text" style="color: #5C2E1F; text-align: center; margin: 0 auto; max-width: 820px; font-size: 18px; line-height: 1.6;">Une sélection de scripts testés et expérimentés, garantissant des parties équilibrées et amusantes. Chaque script dispose d'une illustration et d'un thème sur mesure pour le plaisir des yeux.</p>
 </div>
 
 <!-- ==================== ENCADRÉ CODES COULEURS (FIGÉ) ==================== -->
@@ -86,7 +86,7 @@ image: /images/logogold.png
 <a href="/botc-fr-bambi/sv_roles/mutant.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_mutant.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Bête de foire</span></a>
 <a href="/botc-fr-bambi/roles_experimentaux/damsel.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_damsel.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Demoiselle</span></a>
 <a href="/botc-fr-bambi/sv_roles/maladroit.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_klutz.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Maladroit</span></a>
-<a href="/botc-fr-bambi/tb_roles/ivrogne.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_ivrogne.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Ivrogne</span></a>
+<a href="/botc-fr-bambi/tb_roles/ivrogne.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_drunk.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Ivrogne</span></a>
 </div>
 <p class="role-cat-title cat-evil">Sbires</p>
 <div class="roles-chips-wrap">
@@ -120,8 +120,8 @@ image: /images/logogold.png
 <a href="#close" class="lightbox-close-btn" title="Fermer">✖</a>
 <div class="lightbox-content">
   <input type="checkbox" id="toggle-zoom-shab" class="lightbox-toggle">
-  <label for="toggle-zoom-shab" class="lightbox-img-wrapper" title="Cliquer pour zoomer / dézoomer">
-    <img src="/botc-fr-bambi/images/shabulous.png" alt="Fiche du script Shabulous">
+  <label for="toggle-zoom-shab" class="lightbox-img-wrapper" title="Cliquer pour agrandir / réduire">
+    <img src="/botc-fr-bambi/images/shabulous.png" alt="Fiche du script Shabulous" class="lightbox-img">
   </label>
 </div>
 </div>
@@ -131,8 +131,8 @@ image: /images/logogold.png
 <a href="#close" class="lightbox-close-btn" title="Fermer">✖</a>
 <div class="lightbox-content">
   <input type="checkbox" id="toggle-zoom-nuit" class="lightbox-toggle">
-  <label for="toggle-zoom-nuit" class="lightbox-img-wrapper" title="Cliquer pour zoomer / dézoomer">
-    <img src="/botc-fr-bambi/images/shabulous-nuit.png" alt="Fiche de nuit Shabulous">
+  <label for="toggle-zoom-nuit" class="lightbox-img-wrapper" title="Cliquer pour agrandir / réduire">
+    <img src="/botc-fr-bambi/images/shabulous-nuit.png" alt="Fiche de nuit Shabulous" class="lightbox-img">
   </label>
 </div>
 </div>
@@ -196,12 +196,12 @@ image: /images/logogold.png
 .link-bmr { color: #c25e00 !important; }
 .link-sv  { color: #9b51e0 !important; }
 
-/* Icônes Loric parfaitement alignées sur le texte */
+/* Icônes Loric plus grandes et alignées au milieu du texte */
 .loric-inline-icon {
-  width: 20px;
-  height: 20px;
-  vertical-align: -3px;
-  margin: 0 2px;
+  width: 24px;
+  height: 24px;
+  vertical-align: middle;
+  margin: -2px 4px 0 4px;
 }
 
 .scripts-gallery {
@@ -468,7 +468,7 @@ image: /images/logogold.png
   font-size: 13px;
 }
 
-/* VISIONNEUSE GRAND FORMAT : NATURELLE & CALIBRÉE (PC, MAC, TABLETTE, MOBILE) */
+/* VISIONNEUSE : GRAND FORMAT & DÉFILEMENT FLUIDE */
 .lightbox-overlay {
   position: fixed;
   inset: 0;
@@ -477,7 +477,7 @@ image: /images/logogold.png
   align-items: center;
   justify-content: center;
   z-index: 999999;
-  padding: 12px;
+  padding: 10px;
   box-sizing: border-box;
 }
 .lightbox-overlay:target {
@@ -494,43 +494,47 @@ image: /images/logogold.png
   align-items: center;
   justify-content: center;
   z-index: 10;
-  max-width: 98vw;
-  max-height: 98vh;
+  width: 98vw;
+  height: 98vh;
   overflow: auto;
+  -webkit-overflow-scrolling: touch;
 }
 .lightbox-toggle {
   display: none;
 }
 .lightbox-img-wrapper {
-  display: flex;
+  display: inline-flex;
   align-items: center;
   justify-content: center;
   cursor: zoom-in;
   margin: auto;
+  padding: 20px;
 }
-.lightbox-img-wrapper img {
-  max-height: 97vh;
-  max-width: 96vw;
+.lightbox-img {
+  max-height: 92vh;
+  max-width: 92vw;
   width: auto;
   height: auto;
   object-fit: contain;
   border-radius: 8px;
   box-shadow: 0 10px 40px rgba(0, 0, 0, 0.95);
-  transition: transform 0.2s ease;
+  transition: all 0.25s ease;
 }
 
-/* Zoom calibré et lisible (+18% sans déborder de manière illisible) */
+/* État zoomé : agrandissement réel et défilement doux */
 .lightbox-toggle:checked + .lightbox-img-wrapper {
   cursor: zoom-out;
 }
-.lightbox-toggle:checked + .lightbox-img-wrapper img {
-  transform: scale(1.18);
+.lightbox-toggle:checked + .lightbox-img-wrapper .lightbox-img {
+  max-height: none;
+  max-width: none;
+  width: 1100px;
 }
 
 .lightbox-close-btn {
   position: fixed;
-  top: 22px;
-  right: 26px;
+  top: 18px;
+  right: 22px;
   width: 48px;
   height: 48px;
   background: #c22a2a;
@@ -558,11 +562,14 @@ image: /images/logogold.png
     grid-template-columns: 1fr;
   }
   .lightbox-close-btn {
-    top: 14px;
-    right: 14px;
+    top: 12px;
+    right: 12px;
     width: 40px;
     height: 40px;
     font-size: 20px;
+  }
+  .lightbox-toggle:checked + .lightbox-img-wrapper .lightbox-img {
+    width: 140vw;
   }
 }
 </style>
