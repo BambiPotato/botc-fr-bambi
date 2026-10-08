@@ -10,14 +10,13 @@ image: /images/logogold.png
 
 <hr class="explication">
 
-<div class="wiki-parchment">
+<div class="wiki-parchment" spellcheck="false">
 
 <div class="header-intro-box">
 <h1 style="color: #5C2E1F; margin: 0 0 10px 0; font-size: 26px;">Bibliothèque de scripts personnalisés</h1>
 <p class="botc-flavour-text" style="color: #5C2E1F; text-align: center; margin: 0 auto; max-width: 820px; font-size: 18px; line-height: 1.6;">Une sélection de scripts testés et expérimentés, garantissant des parties équilibrées et amusantes. Chaque script dispose d'une illustration et d'un thème sur mesure pour le plaisir des yeux.</p>
 </div>
 
-<!-- ==================== ENCADRÉ CODES COULEURS (FIGÉ) ==================== -->
 <div class="botc-color-guide">
 <h3 style="margin: 0 0 14px 0; color: #5C2E1F; font-size: 20px; display: flex; align-items: center; gap: 8px;">🎨 Les Codes couleurs</h3>
 <ul class="color-list">
@@ -30,10 +29,8 @@ image: /images/logogold.png
 
 <hr class="legendaire">
 
-<!-- ==================== GALERIE DES SCRIPTS ==================== -->
 <div class="scripts-gallery">
 
-<!-- ==================== FICHE SCRIPT : SHABULOUS ==================== -->
 <div class="script-card">
 <a href="#zoom-shabulous" class="script-preview-link" title="Agrandir la fiche du script">
   <div class="preview-backdrop-wrapper">
@@ -51,7 +48,7 @@ image: /images/logogold.png
 </div>
 
 <div class="script-tag-line">
-  <span class="tag-line-icon">💡</span> Recommandé pour des joueurs & joueuses proactifs qui aiment enquêter, savent cacher leur rôle et maîtrisent l'art du bluff.
+  <span class="tag-line-icon">💡</span> Recommandé pour des joueurs &amp; joueuses proactifs qui aiment enquêter, savent cacher leur rôle et maîtrisent l'art du bluff.
 </div>
 
 <p class="script-description">Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, ou est-ce un sbire maléfique qui revient toujours d’entre les morts ?<br>🚨 <strong>Attention</strong> : dans ce script, les Marginaux sont particulièrement redoutables puisqu’eux aussi peuvent revenir à la vie. <br> Si vous en êtes un, gardez impérativement votre rôle secret pour ne pas offrir une cible facile au Shabaloth.</p>
@@ -104,9 +101,6 @@ image: /images/logogold.png
 </details>
 </div>
 </div>
-<!-- ================== FIN FICHE SCRIPT : SHABULOUS ================== -->
-
-<!-- ==================== FICHE SCRIPT : CATFISHING ==================== -->
 <div class="script-card">
 <a href="#zoom-catfishing" class="script-preview-link" title="Agrandir la fiche du script">
   <div class="preview-backdrop-wrapper">
@@ -161,7 +155,7 @@ Ce script créé par <strong>Emily</strong> est devenu incontournable dans la co
 <p class="role-cat-title cat-good">Marginaux</p>
 <div class="roles-chips-wrap">
 <a href="/botc-fr-bambi/bmr_roles/lunatique.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_lunatic.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Lunatique</span></a>
-<a href="/botc-fr-bambi/tb_roles/ivrogne.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_ivrogne.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Ivrogne</span></a>
+<a href="/botc-fr-bambi/tb_roles/ivrogne.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_drunk.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Ivrogne</span></a>
 <a href="/botc-fr-bambi/tb_roles/reclus.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_recluse.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Recluse</span></a>
 <a href="/botc-fr-bambi/sv_roles/dulcinee.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_sweetheart.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Dulcinée</span></a>
 <a href="/botc-fr-bambi/sv_roles/mutant.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_mutant.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Bête de foire</span></a>
@@ -187,8 +181,6 @@ Ce script créé par <strong>Emily</strong> est devenu incontournable dans la co
 
 </div>
 </div>
-
-<!-- ================== FIN FICHE SCRIPT : Ok... But Hear Me Out ! ================== -->
 <div class="script-card">
 <a href="#zoom-okbuthearmeout" class="script-preview-link" title="Agrandir la fiche du script">
   <div class="preview-backdrop-wrapper">
@@ -212,7 +204,7 @@ Ce script créé par <strong>Emily</strong> est devenu incontournable dans la co
 <p class="script-description">
 Ce script hautement expérimental intègre plusieurs particularités :<br>
 • <strong>Jinx maison</strong> entre le <a href="/botc-fr-bambi/tb_roles/baron.html" class="inline-role-link role-link-evil">Baron</a> et l’<a href="/botc-fr-bambi/roles_experimentaux/heretic.html" class="inline-role-link role-link-good">Hérétique</a> : le Baron peut ajouter 1 seul Marginal ou 2.<br>
-• L’Hérétique est en sécurité grâce au rôle Loric <a href="/botc-fr-bambi/loric_roles/stormcatcher.html" class="inline-role-link" style="color: #27ae60 !important; font-weight: bold;">Chasseur d'orages</a> (il ne peut mourir que par exécution).<br>
+• L’Hérétique est en sécurité grâce au rôle Loric <a href="/botc-fr-bambi/loric_roles/stormcatcher.html" class="inline-role-link role-link-loric">Chasseur d'orages</a> (il ne peut mourir que par exécution).<br>
 • Règle pour le Démon : le <a href="/botc-fr-bambi/roles_experimentaux/lilmonsta.html" class="inline-role-link role-link-evil">Timonstre</a> doit obligatoirement être confié à un joueur en vie.
 </p>
 
@@ -272,10 +264,6 @@ Ce script hautement expérimental intègre plusieurs particularités :<br>
 
 </div>
 </div>
-
-
-<!-- ================== DEBUT SCRIPT : Ride the Cyclone ================== -->
-
 <div class="script-card">
 <a href="#zoom-ridethecyclone" class="script-preview-link" title="Agrandir la fiche du script">
   <div class="preview-backdrop-wrapper">
@@ -353,10 +341,6 @@ Tandis que le bien doit coopérer pour identifier les sbires et décider qui sac
 
 </div>
 </div>
-
-
-<!-- ================== FIN SCRIPT : Ride the Cyclone ================== -->
-
 </div>
 
 <div style="text-align: center; margin-top: 45px; margin-bottom: 10px;">
@@ -365,8 +349,6 @@ Tandis que le bien doit coopérer pour identifier les sbires et décider qui sac
 
 </div>
 
-<!-- ==================== VISIONNEUSES D'IMAGE GRAND FORMAT AVEC CROIX FIXE ==================== -->
-<!-- SHABULOUS -->
 <div id="zoom-shabulous" class="lightbox-overlay">
 <a href="#close" class="lightbox-close-zone" title="Fermer la vue"></a>
 <a href="#close" class="lightbox-close-btn" title="Fermer">✖</a>
@@ -389,7 +371,6 @@ Tandis que le bien doit coopérer pour identifier les sbires et décider qui sac
 </div>
 </div>
 
-<!-- CATFISHING -->
 <div id="zoom-catfishing" class="lightbox-overlay">
 <a href="#close" class="lightbox-close-zone" title="Fermer la vue"></a>
 <a href="#close" class="lightbox-close-btn" title="Fermer">✖</a>
@@ -530,6 +511,9 @@ Tandis que le bien doit coopérer pour identifier les sbires et décider qui sac
 .role-link-evil {
   color: #c22a2a !important;
 }
+.role-link-loric {
+  color: #27ae60 !important;
+}
 
 /* Icônes Loric plus grandes et rapprochées sans espace vide */
 .loric-inline-icon {
@@ -623,7 +607,9 @@ Tandis que le bien doit coopérer pour identifier les sbires et décider qui sac
 .script-badges {
   display: flex;
   flex-wrap: wrap;
+  align-content: flex-start;
   gap: 8px;
+  min-height: 74px; /* Verrouille la hauteur commune pour aligner les blocs d'accroche jaune */
   margin-bottom: 14px;
 }
 .badge-pill {
@@ -645,6 +631,11 @@ Tandis que le bien doit coopérer pour identifier les sbires et décider qui sac
   background: rgba(155, 81, 224, 0.18);
   border-color: #9b51e0;
   color: #6b28a8;
+}
+.badge-green {
+  background: rgba(39, 174, 96, 0.18);
+  border-color: #27ae60;
+  color: #1b7a43;
 }
 
 .script-tag-line {
