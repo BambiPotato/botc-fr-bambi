@@ -13,7 +13,6 @@ image: /images/logogold.png
 </p>
 
 
-
 <hr class="explication">
 
 <div class="wiki-parchment">
@@ -62,7 +61,7 @@ modifiant lourdement les mécaniques du jeu.
 <!-- ==================== GALERIE DES SCRIPTS ==================== -->
 <div class="scripts-gallery">
 
-<!-- EXEMPLE DE FICHE SCRIPT -->
+<!-- CARTE DU SCRIPT -->
 <div class="script-card">
 <a href="/botc-fr-bambi/images/logogold.png" class="script-preview-link" target="_blank" title="Agrandir l'illustration">
 <img src="/botc-fr-bambi/images/logogold.png" alt="Aperçu du script" class="script-thumb">
@@ -72,38 +71,39 @@ modifiant lourdement les mécaniques du jeu.
 <div class="script-content">
 <h2 class="script-title">Nom du Script</h2>
 
+<!-- BADGES INFOS HAUT -->
 <div class="script-badges">
-<span class="badge-parchment badge-violet">🟣 Intermédiaire</span>
-<span class="badge-parchment">✍️ Auteur : Nom</span>
-<span class="badge-parchment">👥 7 à 15 joueurs</span>
+<span class="badge-pill badge-violet">🟣 Intermédiaire</span>
+<span class="badge-pill">✍️ Auteur : Nom</span>
+<span class="badge-pill">👥 7 à 15 joueurs</span>
 </div>
 
 <p class="script-description">
 Présentation de l'atmosphère, des dynamiques de jeu et des particularités graphiques de ce scénario.
 </p>
 
+<!-- BOUTONS ACTIONS : FORMAT ONGLETS PARCHEMIN PLUS GROS -->
 <div class="script-downloads">
-<a href="#" class="btn-script" target="_blank">📄 Fiche PDF à imprimer</a>
-<a href="#" class="btn-script" target="_blank">⚙️ Fichier JSON (App BotC)</a>
-<a href="#" class="btn-script" target="_blank">🖼️ Fiche de rôle joueur &amp; Conteur</a>
+<a href="#" class="btn-action-tab" target="_blank">📄 Fiche PDF à imprimer</a>
+<a href="#" class="btn-action-tab" target="_blank">⚙️ Fichier JSON (App BotC)</a>
+<a href="#" class="btn-action-tab" target="_blank">🖼️ Fiche de rôle joueur &amp; Conteur</a>
 </div>
 </div>
 </div>
-<!-- FIN DE FICHE SCRIPT -->
 
 </div>
 
-<!-- BOUTON REVENIR EN HAUT AVEC LE THÈME VIOLET OFFICIEL -->
+<!-- BOUTON REVENIR EN HAUT : CRÈME PARCHEMIN AVEC BORDURE VIOLETTE -->
 <div style="text-align: center; margin-top: 45px; margin-bottom: 10px;">
-<a href="#" class="botc-back-to-top">
-<span class="top-arrow">▲</span> Revenir en haut de page
+<a href="#" class="btn-top-parchment">
+<span class="top-arrow-violet">▲</span> Revenir en haut de page
 </a>
 </div>
 
 </div>
 
 <style>
-/* Encadré explicatif des codes couleurs */
+/* Guide des couleurs */
 .botc-color-guide {
   background: rgba(246, 225, 184, 0.70);
   border: 2px solid rgba(92, 46, 31, 0.40);
@@ -132,7 +132,6 @@ Présentation de l'atmosphère, des dynamiques de jeu et des particularités gra
   margin-bottom: 0;
 }
 
-/* Pastilles rondes */
 .dot {
   position: absolute;
   left: 0;
@@ -142,46 +141,29 @@ Présentation de l'atmosphère, des dynamiques de jeu et des particularités gra
   border-radius: 50%;
   display: inline-block;
 }
-.dot-blue   { background-color: #2f80ed; box-shadow: 0 0 4px rgba(47, 128, 237, 0.5); }
-.dot-purple { background-color: #9b51e0; box-shadow: 0 0 4px rgba(155, 81, 224, 0.5); }
-.dot-orange { background-color: #f2994a; box-shadow: 0 0 4px rgba(242, 153, 74, 0.5); }
-.dot-green  { background-color: #27ae60; box-shadow: 0 0 4px rgba(39, 174, 96, 0.5); }
+.dot-blue   { background-color: #2f80ed; }
+.dot-purple { background-color: #9b51e0; }
+.dot-orange { background-color: #f2994a; }
+.dot-green  { background-color: #27ae60; }
 
-/* Liens vers les modules avec leurs couleurs dédiées */
 .module-link {
   font-weight: bold;
   text-decoration: none !important;
   border-bottom: 1px dotted currentColor;
-  transition: opacity 0.2s ease;
 }
+.module-link:hover { opacity: 0.8; }
+.link-tb  { color: #8B2500 !important; }
+.link-bmr { color: #c25e00 !important; }
+.link-sv  { color: #7b2cbf !important; }
 
-.module-link:hover {
-  opacity: 0.8;
-  border-bottom: 1px solid currentColor;
-}
-
-.link-tb {
-  color: #8B2500 !important; /* Marron bordeaux de Trouble Brewing */
-}
-
-.link-bmr {
-  color: #c25e00 !important; /* Orangé doré de Bad Moon Rising */
-}
-
-.link-sv {
-  color: #7b2cbf !important; /* Beau violet de Sects & Violets */
-}
-
-/* Icônes Loric alignées */
 .loric-inline-icon {
   width: 22px;
   height: 22px;
   vertical-align: middle;
   margin: 0 3px;
-  filter: drop-shadow(0 1px 2px rgba(0,0,0,0.25));
 }
 
-/* Grille de cartes */
+/* Grille */
 .scripts-gallery {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
@@ -197,15 +179,8 @@ Présentation de l'atmosphère, des dynamiques de jeu et des particularités gra
   overflow: hidden;
   display: flex;
   flex-direction: column;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
-.script-card:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 12px 24px rgba(92, 46, 31, 0.28);
-}
-
-/* Fond texture violette officielle pour la miniature */
 .script-preview-link {
   position: relative;
   display: block;
@@ -223,7 +198,6 @@ Présentation de l'atmosphère, des dynamiques de jeu et des particularités gra
   object-fit: contain;
   padding: 12px;
   box-sizing: border-box;
-  transition: transform 0.3s ease;
 }
 
 .preview-overlay {
@@ -244,24 +218,20 @@ Présentation de l'atmosphère, des dynamiques de jeu et des particularités gra
   opacity: 1;
 }
 
-.script-preview-link:hover .script-thumb {
-  transform: scale(1.04);
-}
-
 .script-content {
-  padding: 20px;
+  padding: 22px;
   display: flex;
   flex-direction: column;
   flex: 1;
 }
 
 .script-title {
-  margin: 0 0 10px 0 !important;
+  margin: 0 0 12px 0 !important;
   color: #5C2E1F !important;
   font-size: 22px !important;
 }
 
-/* Badges */
+/* Badges du haut */
 .script-badges {
   display: flex;
   flex-wrap: wrap;
@@ -269,31 +239,97 @@ Présentation de l'atmosphère, des dynamiques de jeu et des particularités gra
   margin-bottom: 14px;
 }
 
-.badge-parchment {
+.badge-pill {
   display: inline-block;
   background: rgba(92, 46, 31, 0.12);
   border: 1px solid rgba(92, 46, 31, 0.35);
   border-radius: 999px;
-  padding: 3px 10px;
-  font-size: 12px;
+  padding: 4px 12px;
+  font-size: 13px;
   font-weight: bold;
   color: #5C2E1F;
 }
-
-.badge-bleu   { background: rgba(47, 128, 237, 0.15); border-color: #2f80ed; color: #1c5296; }
-.badge-violet { background: rgba(155, 81, 224, 0.15); border-color: #9b51e0; color: #5c288d; }
-.badge-orange { background: rgba(242, 153, 74, 0.18); border-color: #f2994a; color: #9c5512; }
-.badge-vert   { background: rgba(39, 174, 96, 0.15); border-color: #27ae60; color: #166b39; }
+.badge-violet {
+  background: rgba(155, 81, 224, 0.15);
+  border-color: #9b51e0;
+  color: #5c288d;
+}
 
 .script-description {
   color: #5C2E1F;
   font-size: 15px;
   line-height: 1.55;
-  margin-bottom: 20px;
+  margin-bottom: 22px;
   flex: 1;
 }
 
+/* Boutons d'action : onglets arrondis style parchemin plus gros */
 .script-downloads {
   margin-top: auto;
   display: flex;
-  flex
+  flex-direction: column;
+  gap: 10px;
+}
+
+.btn-action-tab {
+  display: block;
+  text-align: center;
+  padding: 12px 16px;
+  background: rgba(246, 225, 184, 0.95);
+  color: #5C2E1F !important;
+  border: 1.5px solid rgba(92, 46, 31, 0.45);
+  border-radius: 999px;
+  font-family: Georgia, serif;
+  font-weight: bold;
+  font-size: 15px;
+  text-decoration: none !important;
+  box-shadow: 0 3px 8px rgba(92, 46, 31, 0.10);
+  transition: all 0.2s ease;
+}
+
+.btn-action-tab:hover {
+  background: #ffffff;
+  border-color: #5C2E1F;
+  transform: translateY(-1px);
+  box-shadow: 0 5px 12px rgba(92, 46, 31, 0.18);
+  text-decoration: none !important;
+}
+
+/* Bouton Revenir en haut : Parchemin crème bordé de violet BotC */
+.btn-top-parchment {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  background: rgba(246, 225, 184, 0.95);
+  color: #4a154b !important;
+  border: 2px solid #5d2568;
+  border-radius: 999px;
+  padding: 10px 26px;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 15px;
+  font-weight: bold;
+  text-decoration: none !important;
+  box-shadow: 0 4px 12px rgba(93, 37, 104, 0.20);
+  transition: all 0.2s ease;
+}
+
+.btn-top-parchment:hover {
+  background: #ffffff;
+  border-color: #3b1442;
+  color: #3b1442 !important;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(93, 37, 104, 0.30);
+  text-decoration: none !important;
+}
+
+.top-arrow-violet {
+  color: #5d2568;
+  font-size: 13px;
+}
+
+@media (max-width: 700px) {
+  .scripts-gallery {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
