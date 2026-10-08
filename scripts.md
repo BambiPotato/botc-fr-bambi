@@ -489,9 +489,11 @@ Tandis que le bien doit coopérer pour identifier les sbires et décider qui sac
 .module-link {
   font-weight: bold;
   text-decoration: none !important;
-  border-bottom: 1px dotted currentColor;
 }
-.module-link:hover { opacity: 0.8; }
+.module-link:hover { 
+  opacity: 0.8; 
+  text-decoration: underline !important;
+}
 .link-tb  { color: #8B2500 !important; }
 .link-bmr { color: #c25e00 !important; }
 .link-sv  { color: #9b51e0 !important; }
@@ -503,6 +505,7 @@ Tandis que le bien doit coopérer pour identifier les sbires et décider qui sac
 }
 .inline-role-link:hover {
   opacity: 0.8;
+  text-decoration: underline !important;
 }
 .role-link-good {
   color: #2f80ed !important;
