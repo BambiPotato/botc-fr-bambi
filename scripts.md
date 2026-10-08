@@ -5,95 +5,51 @@ description: "Découvrez une collection de scripts pour Blood on the Clocktower 
 image: /images/logogold.png
 ---
 
-<p align="left">
-  <a href="/botc-fr-bambi/">
-    <img src="/botc-fr-bambi/images/logogold.png" alt="Accueil BotC FR" width="300">
-  </a>
-</p>
+<p align="left"><a href="/botc-fr-bambi/"><img src="/botc-fr-bambi/images/logogold.png" alt="Accueil BotC FR" width="300"></a></p>
 
 <hr class="explication">
 
-<div class="wiki-parchment">
+<div class="wiki-parchment" parse_block_html="1">
 
 <div style="background: rgba(246, 225, 184, 0.82); border: 2px solid rgba(92, 46, 31, 0.50); border-radius: 14px; box-shadow: 0 8px 18px rgba(92, 46, 31, 0.22); padding: 24px 20px; text-align: center; margin-bottom: 26px;">
 <h1 style="color: #5C2E1F; margin: 0 0 10px 0; font-size: 26px;">Bibliothèque de Scripts Personnalisés</h1>
-<p class="botc-flavour-text" style="color: #5C2E1F; text-align: center; margin: 0 auto; max-width: 820px; font-size: 18px; line-height: 1.6;">
-Une sélection de scripts dotés d'une véritable identité visuelle et d'un design soigné. Chaque création allie un équilibre de jeu éprouvé à une mise en page sur mesure, pensée pour le plaisir des yeux autour de la table.
-</p>
+<p class="botc-flavour-text" style="color: #5C2E1F; text-align: center; margin: 0 auto; max-width: 820px; font-size: 18px; line-height: 1.6;">Une sélection de scripts dotés d'une véritable identité visuelle et d'un design soigné. Chaque création allie un équilibre de jeu éprouvé à une mise en page sur mesure, pensée pour le plaisir des yeux autour de la table.</p>
 </div>
 
 <!-- ==================== ENCADRÉ CODES COULEURS (FIGÉ) ==================== -->
 <div class="botc-color-guide">
-<h3 style="margin: 0 0 14px 0; color: #5C2E1F; font-size: 20px; display: flex; align-items: center; gap: 8px;">
-🎨 Les Codes couleurs
-</h3>
-
+<h3 style="margin: 0 0 14px 0; color: #5C2E1F; font-size: 20px; display: flex; align-items: center; gap: 8px;">🎨 Les Codes couleurs</h3>
 <ul class="color-list">
-<li>
-<span class="dot dot-blue"></span>
-<strong>Pastille Bleue (Niveau Débutant) :</strong> Débutants grandement bienvenus ! Exemple : le module de base <a href="/botc-fr-bambi/trouble_brewing.html" class="module-link link-tb">Trouble Brewing</a> ou ses dérivés proches.
-</li>
-
-<li>
-<span class="dot dot-purple"></span>
-<strong>Pastille Violette (Niveau Intermédiaire) :</strong> Pour les joueurs ayant déjà quelques parties à leur actif. Cela inclut les deux autres modules de base (<a href="/botc-fr-bambi/bmr.html" class="module-link link-bmr">Bad Moon Rising</a>, <a href="/botc-fr-bambi/sv.html" class="module-link link-sv">Sects &amp; Violets</a>) ainsi que des scripts personnalisés considérés comme simples.
-</li>
-
-<li>
-<span class="dot dot-orange"></span>
-<strong>Pastille Orange (Niveau Avancé) :</strong> Scripts personnalisés avec des rôles complexes, des interactions poussées et souvent des rôles expérimentaux.
-</li>
-
-<li>
-<span class="dot dot-green"></span>
-<strong>Pastille Verte (Niveau Expert) :</strong> Scripts <em>homebrew</em> (faits maison) ou règles/rôles avec des Loric 
-<img src="/botc-fr-bambi/images/Icon_bootlegger.png" alt="Bootlegger" class="loric-inline-icon">
-<img src="/botc-fr-bambi/images/Icon_pope.png" alt="Pope" class="loric-inline-icon">
-modifiant lourdement les mécaniques du jeu.
-</li>
+<li><span class="dot dot-blue"></span><strong>Pastille Bleue (Niveau Débutant) :</strong> Débutants grandement bienvenus ! Exemple : le module de base <a href="/botc-fr-bambi/trouble_brewing.html" class="module-link link-tb">Trouble Brewing</a> ou ses dérivés proches.</li>
+<li><span class="dot dot-purple"></span><strong>Pastille Violette (Niveau Intermédiaire) :</strong> Pour les joueurs ayant déjà quelques parties à leur actif. Cela inclut les deux autres modules de base (<a href="/botc-fr-bambi/bmr.html" class="module-link link-bmr">Bad Moon Rising</a>, <a href="/botc-fr-bambi/sv.html" class="module-link link-sv">Sects &amp; Violets</a>) ainsi que des scripts personnalisés considérés comme simples.</li>
+<li><span class="dot dot-orange"></span><strong>Pastille Orange (Niveau Avancé) :</strong> Scripts personnalisés avec des rôles complexes, des interactions poussées et souvent des rôles expérimentaux.</li>
+<li><span class="dot dot-green"></span><strong>Pastille Verte (Niveau Expert) :</strong> Scripts <em>homebrew</em> (faits maison) ou règles/rôles avec des Loric <img src="/botc-fr-bambi/images/Icon_bootlegger.png" alt="Bootlegger" class="loric-inline-icon"> <img src="/botc-fr-bambi/images/Icon_pope.png" alt="Pope" class="loric-inline-icon"> modifiant lourdement les mécaniques du jeu.</li>
 </ul>
 </div>
 
 <hr class="legendaire">
 
 <!-- ==================== GALERIE DES SCRIPTS ==================== -->
-<div class="scripts-gallery">
+<div class="scripts-gallery" parse_block_html="1">
 
 <!-- ==================== FICHE SCRIPT : SHABULOUS ==================== -->
-<div class="script-card">
-
-<a href="#zoom-shabulous" class="script-preview-link" title="Agrandir la feuille de script">
-<img src="/botc-fr-bambi/images/shabulous.png" alt="Aperçu du script Shabulous" class="script-thumb">
-<span class="preview-overlay">🔍 Shabulous — Agrandir la feuille</span>
-</a>
-
-<div class="script-content">
+<div class="script-card" parse_block_html="1">
+<a href="#zoom-shabulous" class="script-preview-link" title="Agrandir la feuille de script"><img src="/botc-fr-bambi/images/shabulous.png" alt="Aperçu du script Shabulous" class="script-thumb"><span class="preview-overlay">🔍 Shabulous — Agrandir la feuille</span></a>
+<div class="script-content" parse_block_html="1">
 <h2 class="script-title">Shabulous</h2>
-
 <div class="script-badges">
 <span class="badge-pill badge-orange">🟠 Niveau avancé</span>
 <span class="badge-pill">✍️ Auteurs : FM Jason &amp; Bambi 🥔</span>
 <span class="badge-pill">👥 9 à 15 joueurs</span>
-<span class="badge-pill">🧞 2 Jinxes : Docteur de peste</span>  
 </div>
-
-<div class="script-tag-line">
-Recommandé pour des joueurs proactifs qui aiment enquêter, savent cacher leur rôle et maîtrisent l'art du bluff.
-</div>
-
-<p class="script-description">
-Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, ou est-ce un sbire maléfique qui revient toujours d’entre les morts ?<br>
-🚨 <strong>Attention</strong> : dans ce script, les Marginaux sont particulièrement redoutables puisqu’eux aussi peuvent revenir à la vie. Si vous en êtes un, gardez impérativement votre rôle secret pour ne pas offrir une cible facile au Shabaloth.
-</p>
-
+<div class="script-tag-line">Recommandé pour des joueurs proactifs qui aiment enquêter, savent cacher leur rôle et maîtrisent l'art du bluff.</div>
+<p class="script-description">Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, ou est-ce un sbire maléfique qui revient toujours d’entre les morts ?<br>🚨 <strong>Attention</strong> : dans ce script, les Marginaux sont particulièrement redoutables puisqu’eux aussi peuvent revenir à la vie. Si vous en êtes un, gardez impérativement votre rôle secret pour ne pas offrir une cible facile au Shabaloth.</p>
 <div class="script-downloads">
 <a href="https://github.com/BambiPotato/botc-fr-bambi/releases/download/v1/shabulous.pdf" class="btn-action-tab" target="_blank">📄 Fiche PDF à imprimer</a>
 <a href="/botc-fr-bambi/images/Shabulous.json" download="Shabulous.json" class="btn-action-tab">⚙️ Fichier JSON (App BotC)</a>
 <a href="#zoom-shabulous" class="btn-action-tab">🖼️ Fiche des rôles</a>
 <a href="#zoom-shabulous-nuit" class="btn-action-tab">🌙 Fiche pour Conteur &amp; Conteuse</a>
 </div>
-
-<!-- ACCORDÉON PUR HTML SANS ESPACES PARASITES -->
 <details class="roles-accordion">
 <summary class="accordion-toggle">📜 Voir la composition des rôles</summary>
 <div class="roles-accordion-inner">
@@ -119,7 +75,7 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
 <a href="/botc-fr-bambi/sv_roles/mutant.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_mutant.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Bête de foire</span></a>
 <a href="/botc-fr-bambi/roles_experimentaux/damsel.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_damsel.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Demoiselle</span></a>
 <a href="/botc-fr-bambi/sv_roles/maladroit.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_klutz.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Maladroit</span></a>
-<a href="/botc-fr-bambi/tb_roles/ivrogne.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_drunk.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Ivrogne</span></a>
+<a href="/botc-fr-bambi/tb_roles/ivrogne.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_ivrogne.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Ivrogne</span></a>
 </div>
 <p class="role-cat-title cat-evil">Sbires</p>
 <div class="roles-chips-wrap">
@@ -135,40 +91,32 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
 </div>
 </div>
 </details>
-
 </div>
-
 </div>
 <!-- ================== FIN FICHE SCRIPT : SHABULOUS ================== -->
 
 </div>
 
 <div style="text-align: center; margin-top: 45px; margin-bottom: 10px;">
-<a href="#" class="btn-top-parchment">
-<span class="top-arrow-violet">▲</span> Revenir en haut de page
-</a>
+<a href="#" class="btn-top-parchment"><span class="top-arrow-violet">▲</span> Revenir en haut de page</a>
 </div>
 
 </div>
 
-<!-- ==================== VISIONNEUSES D'IMAGE PLEIN ÉCRAN AVEC CROIX & ZOOM ==================== -->
+<!-- ==================== VISIONNEUSES D'IMAGE AVEC CROIX FIXE ==================== -->
 <div id="zoom-shabulous" class="lightbox-overlay">
 <a href="#close" class="lightbox-close-zone" title="Fermer"></a>
-<div class="lightbox-content">
 <a href="#close" class="lightbox-close-btn" title="Fermer la vue">✖</a>
-<a href="/botc-fr-bambi/images/shabulous.png" target="_blank" title="Cliquez pour ouvrir en ultra grand dans un nouvel onglet">
+<div class="lightbox-content">
 <img src="/botc-fr-bambi/images/shabulous.png" alt="Fiche Shabulous">
-</a>
 </div>
 </div>
 
 <div id="zoom-shabulous-nuit" class="lightbox-overlay">
 <a href="#close" class="lightbox-close-zone" title="Fermer"></a>
-<div class="lightbox-content">
 <a href="#close" class="lightbox-close-btn" title="Fermer la vue">✖</a>
-<a href="/botc-fr-bambi/images/shabulous-nuit.png" target="_blank" title="Cliquez pour ouvrir en ultra grand dans un nouvel onglet">
+<div class="lightbox-content">
 <img src="/botc-fr-bambi/images/shabulous-nuit.png" alt="Fiche Shabulous Nuit">
-</a>
 </div>
 </div>
 
@@ -182,13 +130,11 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
   margin: 22px 0 28px 0;
   box-shadow: 0 4px 12px rgba(92, 46, 31, 0.12);
 }
-
 .color-list {
   list-style: none !important;
   padding-left: 0 !important;
   margin: 0 !important;
 }
-
 .color-list li {
   position: relative;
   padding-left: 28px;
@@ -197,11 +143,9 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
   font-size: 15px;
   line-height: 1.55;
 }
-
 .color-list li:last-child {
   margin-bottom: 0;
 }
-
 .dot {
   position: absolute;
   left: 0;
@@ -240,7 +184,6 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
   gap: 26px;
   margin-top: 26px;
 }
-
 .script-card {
   background: rgba(246, 225, 184, 0.82);
   border: 2px solid rgba(92, 46, 31, 0.50);
@@ -250,7 +193,6 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
   display: flex;
   flex-direction: column;
 }
-
 .script-preview-link {
   position: relative;
   display: block;
@@ -261,7 +203,6 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
   border-bottom: 2px solid rgba(92, 46, 31, 0.40);
   text-decoration: none !important;
 }
-
 .script-thumb {
   width: 100%;
   height: 100%;
@@ -269,7 +210,6 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
   padding: 12px;
   box-sizing: border-box;
 }
-
 .preview-overlay {
   position: absolute;
   inset: 0;
@@ -284,15 +224,12 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
   transition: opacity 0.2s ease;
   font-weight: bold;
 }
-
 .script-preview-link:hover .preview-overlay {
   opacity: 1;
 }
-
 .script-preview-link:hover .script-thumb {
   transform: scale(1.04);
 }
-
 .script-content {
   padding: 22px;
   display: flex;
@@ -300,20 +237,17 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
   flex: 1;
   background: rgba(246, 225, 184, 0.82);
 }
-
 .script-title {
   margin: 0 0 12px 0 !important;
   color: #5C2E1F !important;
   font-size: 22px !important;
 }
-
 .script-badges {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
   margin-bottom: 12px;
 }
-
 .badge-pill {
   display: inline-block;
   background: rgba(92, 46, 31, 0.12);
@@ -329,7 +263,6 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
   border-color: #f2994a;
   color: #9c5512;
 }
-
 .script-tag-line {
   background: rgba(92, 46, 31, 0.08);
   border-left: 3px solid #f2994a;
@@ -341,21 +274,18 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
   margin-bottom: 16px;
   line-height: 1.45;
 }
-
 .script-description {
   color: #5C2E1F;
   font-size: 14px;
   line-height: 1.55;
   margin-bottom: 20px;
 }
-
 .script-downloads {
   display: flex;
   flex-direction: column;
   gap: 10px;
   margin-bottom: 14px;
 }
-
 .btn-action-tab {
   display: block;
   text-align: center;
@@ -371,7 +301,6 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
   box-shadow: 0 3px 8px rgba(92, 46, 31, 0.10);
   transition: all 0.2s ease;
 }
-
 .btn-action-tab:hover {
   background: #fbf5e8;
   border-color: #5C2E1F;
@@ -380,7 +309,7 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
   text-decoration: none !important;
 }
 
-/* Accordéon des rôles */
+/* Accordéon */
 .roles-accordion {
   margin-top: 6px;
   border: 1.5px solid rgba(92, 46, 31, 0.40);
@@ -388,7 +317,6 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
   background: rgba(246, 225, 184, 0.85);
   overflow: hidden;
 }
-
 .accordion-toggle {
   padding: 12px 16px;
   font-family: Georgia, serif;
@@ -402,17 +330,14 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
   outline: none;
   text-align: center;
 }
-
 .accordion-toggle:hover {
   background: #fbf5e8;
 }
-
 .roles-accordion-inner {
   padding: 16px 18px 20px 18px;
   border-top: 1px solid rgba(92, 46, 31, 0.25);
   background: rgba(246, 225, 184, 0.70);
 }
-
 .role-cat-title {
   font-family: Georgia, serif;
   font-weight: bold;
@@ -426,24 +351,15 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
 .role-cat-title:first-child {
   margin-top: 0;
 }
+.cat-good { color: #2f80ed !important; }
+.cat-evil { color: #c22a2a !important; }
 
-/* Le Bien en Bleu (#2f80ed), Le Mal en Rouge (#c22a2a) */
-.cat-good { 
-  color: #2f80ed !important; 
-}
-.cat-evil { 
-  color: #c22a2a !important; 
-}
-
-/* Espacement plus aéré pour les jetons */
 .roles-chips-wrap {
   display: flex;
   flex-wrap: wrap;
   gap: 10px 12px;
   margin-bottom: 4px;
 }
-
-/* Pastilles des rôles */
 .role-chip {
   display: inline-flex;
   align-items: center;
@@ -458,33 +374,20 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
   box-shadow: 0 2px 5px rgba(92, 46, 31, 0.08);
   transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
-
 .role-chip:hover {
   transform: translateY(-1px);
   box-shadow: 0 4px 8px rgba(92, 46, 31, 0.18);
   text-decoration: none !important;
 }
-
 .chip-icon {
   width: 20px;
   height: 20px;
   object-fit: contain;
   vertical-align: middle;
 }
+.chip-good { border: 1.5px solid #2f80ed !important; color: #2f80ed !important; }
+.chip-evil { border: 1.5px solid #c22a2a !important; color: #c22a2a !important; }
 
-/* Villageois & Marginaux : BLEU */
-.chip-good {
-  border: 1.5px solid #2f80ed !important;
-  color: #2f80ed !important;
-}
-
-/* Sbires & Démon : ROUGE */
-.chip-evil {
-  border: 1.5px solid #c22a2a !important;
-  color: #c22a2a !important;
-}
-
-/* Bouton Revenir en haut */
 .btn-top-parchment {
   display: inline-flex;
   align-items: center;
@@ -501,7 +404,6 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
   box-shadow: 0 4px 12px rgba(155, 81, 224, 0.20);
   transition: all 0.2s ease;
 }
-
 .btn-top-parchment:hover {
   background: #ffffff;
   border-color: #9b51e0;
@@ -510,77 +412,70 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
   box-shadow: 0 6px 16px rgba(155, 81, 224, 0.30);
   text-decoration: none !important;
 }
-
 .top-arrow-violet {
   color: #9b51e0;
   font-size: 13px;
 }
 
-/* VISIONNEUSE PLEIN ÉCRAN AVEC CROIX & ZOOM */
+/* VISIONNEUSE PLEIN ÉCRAN ROBUSTE */
 .lightbox-overlay {
   position: fixed;
   inset: 0;
-  background: rgba(16, 7, 23, 0.92);
+  background: rgba(16, 7, 23, 0.94);
   display: none;
   align-items: center;
   justify-content: center;
   z-index: 999999;
-  padding: 15px;
+  padding: 24px;
   box-sizing: border-box;
 }
-
 .lightbox-overlay:target {
   display: flex;
 }
-
 .lightbox-close-zone {
   position: absolute;
   inset: 0;
   cursor: default;
 }
-
 .lightbox-content {
   position: relative;
-  max-width: 96vw;
-  max-height: 96vh;
+  max-width: 95vw;
+  max-height: 95vh;
   display: flex;
   align-items: center;
   justify-content: center;
   z-index: 10;
 }
-
 .lightbox-content img {
-  max-width: 94vw;
-  max-height: 92vh;
+  max-width: 92vw;
+  max-height: 90vh;
   width: auto;
   height: auto;
   object-fit: contain;
   border-radius: 8px;
-  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.85);
-  cursor: zoom-in;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.9);
 }
-
 .lightbox-close-btn {
-  position: absolute;
-  top: -14px;
-  right: -14px;
-  width: 42px;
-  height: 42px;
+  position: fixed;
+  top: 24px;
+  right: 28px;
+  width: 48px;
+  height: 48px;
   background: #c22a2a;
   color: #ffffff !important;
-  border: 2px solid #ffffff;
+  border: 3px solid #ffffff;
   border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 22px;
+  font-size: 24px;
   font-weight: bold;
   text-decoration: none !important;
-  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.6);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.7);
+  z-index: 1000000;
+  cursor: pointer;
   transition: transform 0.15s ease, background 0.15s ease;
-  z-index: 20;
 }
-
 .lightbox-close-btn:hover {
   background: #e53935;
   transform: scale(1.1);
