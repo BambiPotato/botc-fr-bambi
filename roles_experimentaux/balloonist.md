@@ -76,11 +76,11 @@ L’Aéronaute apprend des joueurs de types de rôles différents.
 </p>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7; margin-left:0; text-align:left;">
-• Chaque fois que l’Aéronaute apprend un joueur, ce joueur a nécessairement un type de rôle différent du dernier joueur qu’il a appris.<br>
-• L’Aéronaute n'apprend pas pour autant le type de rôle du joueur, il apprend juste que ce type est différent de celui d’avant.<br>
-• Le joueur appris peut être en vie ou mort.<br>
-• Le joueur appris peut être bon ou maléfique.<br>
-• Si l’Aéronaute est ivre ou empoisonné, il peut apprendre un joueur avec un rôle du même type que le dernier joueur qu’il a appris. Lorsque l’Aéronaute redevient sobre et sain, il doit apprendre un joueur d’un type de rôle différent du dernier joueur qu’il a appris.<br>
+• Chaque fois que l’Aéronaute apprend un joueur, ce joueur a nécessairement un type de rôle différent du dernier joueur qu’il a appris.<br><br>
+• L’Aéronaute n'apprend pas pour autant le type de rôle du joueur, il apprend juste que ce type est différent de celui d’avant.<br><br>
+• Le joueur appris peut être en vie ou mort.<br><br>
+• Le joueur appris peut être bon ou maléfique.<br><br>
+• Si l’Aéronaute est ivre ou empoisonné, il peut apprendre un joueur avec un rôle du même type que le dernier joueur qu’il a appris. Lorsque l’Aéronaute redevient sobre et sain, il doit apprendre un joueur d’un type de rôle différent du dernier joueur qu’il a appris.<br><br>
 • Lors de la mise en place, le Conteur peut choisir d'ajouter un Marginal en raison de la capacité de l’Aéronaute.
 </p>
 
