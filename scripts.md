@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Bibliothèque de scripts personnalisés"
-description: "Découvrez une collection de scripts pour Blood on the Clocktower dotés d'un design soigné : images en haute définition, PDF prêts à imprimer et fichiers JSON."
+description: "Découvrez une collection de scripts pour Blood on the Clocktower dotés d'un design soigné : fiches, images, PDF prêts à imprimer et fichiers JSON."
 image: /images/logogold.png
 ---
 
@@ -13,8 +13,8 @@ image: /images/logogold.png
 </p>
 
 
-<hr class="explication">
 
+<hr class="explication">
 
 <div class="wiki-parchment">
 
@@ -34,12 +34,12 @@ Une sélection de scripts dotés d'une véritable identité visuelle et d'un des
 <ul class="color-list">
 <li>
 <span class="dot dot-blue"></span>
-<strong>Pastille Bleue (Niveau Débutant) :</strong> Débutants grandement bienvenus ! Exemple : le module de base <em>Trouble Brewing</em> ou ses dérivés proches. Le lundi est généralement dédié au Trouble Brewing, parfait pour se lancer !
+<strong>Pastille Bleue (Niveau Débutant) :</strong> Débutants grandement bienvenus ! Exemple : le module de base <a href="/botc-fr-bambi/trouble_brewing.html" class="module-link link-tb">Trouble Brewing</a> ou ses dérivés proches.
 </li>
 
 <li>
 <span class="dot dot-purple"></span>
-<strong>Pastille Violette (Niveau Intermédiaire) :</strong> Pour les joueurs ayant déjà quelques parties à leur actif. Cela inclut les deux autres modules de base (<em>Bad Moon Rising</em>, <em>Sects &amp; Violets</em>) ainsi que des scripts personnalisés considérés comme simples.
+<strong>Pastille Violette (Niveau Intermédiaire) :</strong> Pour les joueurs ayant déjà quelques parties à leur actif. Cela inclut les deux autres modules de base (<a href="/botc-fr-bambi/bmr.html" class="module-link link-bmr">Bad Moon Rising</a>, <a href="/botc-fr-bambi/sv.html" class="module-link link-sv">Sects &amp; Violets</a>) ainsi que des scripts personnalisés considérés comme simples.
 </li>
 
 <li>
@@ -93,7 +93,7 @@ Présentation de l'atmosphère, des dynamiques de jeu et des particularités gra
 
 </div>
 
-<!-- BOUTON REVENIR EN HAUT ACCORDÉ AU STYLE PARCHEMIN -->
+<!-- BOUTON REVENIR EN HAUT AVEC LE THÈME VIOLET OFFICIEL -->
 <div style="text-align: center; margin-top: 45px; margin-bottom: 10px;">
 <a href="#" class="botc-back-to-top">
 <span class="top-arrow">▲</span> Revenir en haut de page
@@ -146,6 +146,31 @@ Présentation de l'atmosphère, des dynamiques de jeu et des particularités gra
 .dot-purple { background-color: #9b51e0; box-shadow: 0 0 4px rgba(155, 81, 224, 0.5); }
 .dot-orange { background-color: #f2994a; box-shadow: 0 0 4px rgba(242, 153, 74, 0.5); }
 .dot-green  { background-color: #27ae60; box-shadow: 0 0 4px rgba(39, 174, 96, 0.5); }
+
+/* Liens vers les modules avec leurs couleurs dédiées */
+.module-link {
+  font-weight: bold;
+  text-decoration: none !important;
+  border-bottom: 1px dotted currentColor;
+  transition: opacity 0.2s ease;
+}
+
+.module-link:hover {
+  opacity: 0.8;
+  border-bottom: 1px solid currentColor;
+}
+
+.link-tb {
+  color: #8B2500 !important; /* Marron bordeaux de Trouble Brewing */
+}
+
+.link-bmr {
+  color: #c25e00 !important; /* Orangé doré de Bad Moon Rising */
+}
+
+.link-sv {
+  color: #7b2cbf !important; /* Beau violet de Sects & Violets */
+}
 
 /* Icônes Loric alignées */
 .loric-inline-icon {
@@ -271,66 +296,4 @@ Présentation de l'atmosphère, des dynamiques de jeu et des particularités gra
 .script-downloads {
   margin-top: auto;
   display: flex;
-  flex-direction: column;
-  gap: 8px;
-}
-
-.btn-script {
-  display: block;
-  text-align: center;
-  padding: 9px 12px;
-  background: rgba(92, 46, 31, 0.12);
-  color: #5C2E1F !important;
-  border: 1px solid rgba(92, 46, 31, 0.45);
-  border-radius: 8px;
-  font-family: Georgia, serif;
-  font-weight: bold;
-  font-size: 14px;
-  text-decoration: none !important;
-  transition: background 0.2s ease, border-color 0.2s ease;
-}
-
-.btn-script:hover {
-  background: rgba(92, 46, 31, 0.22);
-  border-color: rgba(92, 46, 31, 0.75);
-}
-
-/* BOUTON REVENIR EN HAUT ACCORDÉ AU PARCHEMIN */
-.botc-back-to-top {
-  display: inline-flex;
-  align-items: center;
-  gap: 10px;
-  background: rgba(92, 46, 31, 0.12);
-  color: #5C2E1F !important;
-  border: 1.5px solid rgba(92, 46, 31, 0.45);
-  border-radius: 999px;
-  padding: 8px 22px;
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: 14px;
-  font-weight: bold;
-  text-decoration: none !important;
-  box-shadow: 0 4px 10px rgba(92, 46, 31, 0.10);
-  transition: background 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
-}
-
-.botc-back-to-top:hover {
-  background: rgba(92, 46, 31, 0.22);
-  border-color: rgba(92, 46, 31, 0.75);
-  transform: translateY(-2px);
-  text-decoration: none !important;
-}
-
-.top-arrow {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  color: #5C2E1F;
-  font-size: 12px;
-}
-
-@media (max-width: 700px) {
-  .scripts-gallery {
-    grid-template-columns: 1fr;
-  }
-}
-</style>
+  flex
