@@ -74,6 +74,7 @@ modifiant lourdement les mécaniques du jeu.
 <span class="badge-pill badge-orange">🟠 Niveau avancé</span>
 <span class="badge-pill">✍️ Auteurs : FM Jason &amp; Bambi 🥔</span>
 <span class="badge-pill">👥 9 à 15 joueurs</span>
+<span class="badge-pill">🧞 2 Jinxes : Docteur de peste</span>  
 </div>
 
 <div class="script-tag-line">
@@ -92,10 +93,11 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
 <a href="#zoom-shabulous-nuit" class="btn-action-tab">🌙 Fiche pour Conteur &amp; Conteuse</a>
 </div>
 
+<!-- ACCORDÉON PUR HTML SANS ESPACES PARASITES -->
 <details class="roles-accordion">
-<summary class="accordion-toggle"><span class="toggle-icon">▶</span> Voir la composition des rôles</summary>
+<summary class="accordion-toggle">📜 Voir la composition des rôles</summary>
 <div class="roles-accordion-inner">
-<div class="role-cat-title cat-good">Villageois</div>
+<p class="role-cat-title cat-good">Villageois</p>
 <div class="roles-chips-wrap">
 <a href="/botc-fr-bambi/roles_experimentaux/steward.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_steward.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Intendante</span></a>
 <a href="/botc-fr-bambi/tb_roles/bibliothecaire.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_librarian.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Archiviste</span></a>
@@ -111,7 +113,7 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
 <a href="/botc-fr-bambi/roles_experimentaux/huntsman.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_huntsman.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Chasseur</span></a>
 <a href="/botc-fr-bambi/roles_experimentaux/cannibal.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_cannibal.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Cannibale</span></a>
 </div>
-<div class="role-cat-title cat-good">Marginaux</div>
+<p class="role-cat-title cat-good">Marginaux</p>
 <div class="roles-chips-wrap">
 <a href="/botc-fr-bambi/roles_experimentaux/plaguedoctor.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_plaguedoctor.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Docteur de peste</span></a>
 <a href="/botc-fr-bambi/sv_roles/mutant.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_mutant.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Bête de foire</span></a>
@@ -119,7 +121,7 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
 <a href="/botc-fr-bambi/sv_roles/maladroit.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_klutz.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Maladroit</span></a>
 <a href="/botc-fr-bambi/tb_roles/ivrogne.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_drunk.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Ivrogne</span></a>
 </div>
-<div class="role-cat-title cat-evil">Sbires</div>
+<p class="role-cat-title cat-evil">Sbires</p>
 <div class="roles-chips-wrap">
 <a href="/botc-fr-bambi/tb_roles/empoisonneur.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_poisoner.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Empoisonneur</span></a>
 <a href="/botc-fr-bambi/sv_roles/cerenovus.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_cerenovus.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Cérenovus</span></a>
@@ -127,7 +129,7 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
 <a href="/botc-fr-bambi/roles_experimentaux/mezepheles.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_mezepheles.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Mezepheles</span></a>
 <a href="/botc-fr-bambi/tb_roles/femmeecarlate.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_scarletwoman.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Femme écarlate</span></a>
 </div>
-<div class="role-cat-title cat-evil">Démon</div>
+<p class="role-cat-title cat-evil">Démon</p>
 <div class="roles-chips-wrap">
 <a href="/botc-fr-bambi/bmr_roles/shabaloth.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_shabaloth.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Shabaloth</span></a>
 </div>
@@ -149,12 +151,14 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
 
 </div>
 
-<!-- ==================== VISIONNEUSES D'IMAGE PLEIN ÉCRAN AVEC CROIX ==================== -->
+<!-- ==================== VISIONNEUSES D'IMAGE PLEIN ÉCRAN AVEC CROIX & ZOOM ==================== -->
 <div id="zoom-shabulous" class="lightbox-overlay">
 <a href="#close" class="lightbox-close-zone" title="Fermer"></a>
 <div class="lightbox-content">
 <a href="#close" class="lightbox-close-btn" title="Fermer la vue">✖</a>
+<a href="/botc-fr-bambi/images/shabulous.png" target="_blank" title="Cliquez pour ouvrir en ultra grand dans un nouvel onglet">
 <img src="/botc-fr-bambi/images/shabulous.png" alt="Fiche Shabulous">
+</a>
 </div>
 </div>
 
@@ -162,7 +166,9 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
 <a href="#close" class="lightbox-close-zone" title="Fermer"></a>
 <div class="lightbox-content">
 <a href="#close" class="lightbox-close-btn" title="Fermer la vue">✖</a>
+<a href="/botc-fr-bambi/images/shabulous-nuit.png" target="_blank" title="Cliquez pour ouvrir en ultra grand dans un nouvel onglet">
 <img src="/botc-fr-bambi/images/shabulous-nuit.png" alt="Fiche Shabulous Nuit">
+</a>
 </div>
 </div>
 
@@ -292,6 +298,7 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
   display: flex;
   flex-direction: column;
   flex: 1;
+  background: rgba(246, 225, 184, 0.82);
 }
 
 .script-title {
@@ -366,7 +373,7 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
 }
 
 .btn-action-tab:hover {
-  background: #ffffff;
+  background: #fbf5e8;
   border-color: #5C2E1F;
   transform: translateY(-1px);
   box-shadow: 0 5px 12px rgba(92, 46, 31, 0.18);
@@ -378,15 +385,11 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
   margin-top: 6px;
   border: 1.5px solid rgba(92, 46, 31, 0.40);
   border-radius: 12px;
-  background: rgba(246, 225, 184, 0.70);
+  background: rgba(246, 225, 184, 0.85);
   overflow: hidden;
 }
 
 .accordion-toggle {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 8px;
   padding: 12px 16px;
   font-family: Georgia, serif;
   font-weight: bold;
@@ -396,30 +399,18 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
   user-select: none;
   background: rgba(246, 225, 184, 0.95);
   transition: background 0.2s ease;
-  list-style: none !important;
-}
-
-.accordion-toggle::-webkit-details-marker {
-  display: none !important;
+  outline: none;
+  text-align: center;
 }
 
 .accordion-toggle:hover {
-  background: #ffffff;
-}
-
-.toggle-icon {
-  font-size: 11px;
-  transition: transform 0.2s ease;
-  color: #5C2E1F;
-}
-
-.roles-accordion[open] .toggle-icon {
-  transform: rotate(90deg);
+  background: #fbf5e8;
 }
 
 .roles-accordion-inner {
   padding: 16px 18px 20px 18px;
   border-top: 1px solid rgba(92, 46, 31, 0.25);
+  background: rgba(246, 225, 184, 0.70);
 }
 
 .role-cat-title {
@@ -525,7 +516,7 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
   font-size: 13px;
 }
 
-/* VISIONNEUSE PLEIN ÉCRAN AVEC CROIX */
+/* VISIONNEUSE PLEIN ÉCRAN AVEC CROIX & ZOOM */
 .lightbox-overlay {
   position: fixed;
   inset: 0;
@@ -534,7 +525,7 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
   align-items: center;
   justify-content: center;
   z-index: 999999;
-  padding: 20px;
+  padding: 15px;
   box-sizing: border-box;
 }
 
@@ -550,8 +541,8 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
 
 .lightbox-content {
   position: relative;
-  max-width: 95vw;
-  max-height: 95vh;
+  max-width: 96vw;
+  max-height: 96vh;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -559,21 +550,22 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
 }
 
 .lightbox-content img {
-  max-width: 95vw;
+  max-width: 94vw;
   max-height: 92vh;
   width: auto;
   height: auto;
   object-fit: contain;
   border-radius: 8px;
-  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.8);
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.85);
+  cursor: zoom-in;
 }
 
 .lightbox-close-btn {
   position: absolute;
-  top: -16px;
-  right: -16px;
-  width: 38px;
-  height: 38px;
+  top: -14px;
+  right: -14px;
+  width: 42px;
+  height: 42px;
   background: #c22a2a;
   color: #ffffff !important;
   border: 2px solid #ffffff;
@@ -581,7 +573,7 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 20px;
+  font-size: 22px;
   font-weight: bold;
   text-decoration: none !important;
   box-shadow: 0 4px 14px rgba(0, 0, 0, 0.6);
