@@ -14,7 +14,7 @@ image: /images/logogold.png
 
 <div class="header-intro-box">
 <h1 style="color: #5C2E1F; margin: 0 0 10px 0; font-size: 26px;">Bibliothèque de scripts personnalisés</h1>
-<p class="botc-flavour-text" style="color: #5C2E1F; text-align: center; margin: 0 auto; max-width: 820px; font-size: 18px; line-height: 1.6;">Une sélection de scripts dotés d'une véritable identité visuelle et d'un design soigné. Chaque création allie un équilibre de jeu éprouvé à une mise en page sur mesure, pensée pour le plaisir des yeux autour de la table.</p>
+<p class="botc-flavour-text" style="color: #5C2E1F; text-align: center; margin: 0 auto; max-width: 820px; font-size: 18px; line-height: 1.6;">Une sélection de scripts testés et expérimentés, garantissant des parties équilibrées et amusantes. Chaque création allie une dynamique de jeu éprouvée à une illustration sur mesure, pensée pour le plaisir des yeux autour de la table.</p>
 </div>
 
 <!-- ==================== ENCADRÉ CODES COULEURS (FIGÉ) ==================== -->
@@ -86,7 +86,7 @@ image: /images/logogold.png
 <a href="/botc-fr-bambi/sv_roles/mutant.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_mutant.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Bête de foire</span></a>
 <a href="/botc-fr-bambi/roles_experimentaux/damsel.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_damsel.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Demoiselle</span></a>
 <a href="/botc-fr-bambi/sv_roles/maladroit.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_klutz.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Maladroit</span></a>
-<a href="/botc-fr-bambi/tb_roles/ivrogne.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_ivrogne.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Ivrogne</span></a>
+<a href="/botc-fr-bambi/tb_roles/ivrogne.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_drunk.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Ivrogne</span></a>
 </div>
 <p class="role-cat-title cat-evil">Sbires</p>
 <div class="roles-chips-wrap">
@@ -119,7 +119,10 @@ image: /images/logogold.png
 <a href="#close" class="lightbox-close-zone" title="Fermer la vue"></a>
 <a href="#close" class="lightbox-close-btn" title="Fermer">✖</a>
 <div class="lightbox-content">
-  <img src="/botc-fr-bambi/images/shabulous.png" alt="Fiche du script Shabulous">
+  <input type="checkbox" id="toggle-zoom-shab" class="lightbox-toggle">
+  <label for="toggle-zoom-shab" class="lightbox-img-wrapper" title="Cliquer pour zoomer / dézoomer">
+    <img src="/botc-fr-bambi/images/shabulous.png" alt="Fiche du script Shabulous">
+  </label>
 </div>
 </div>
 
@@ -127,7 +130,10 @@ image: /images/logogold.png
 <a href="#close" class="lightbox-close-zone" title="Fermer la vue"></a>
 <a href="#close" class="lightbox-close-btn" title="Fermer">✖</a>
 <div class="lightbox-content">
-  <img src="/botc-fr-bambi/images/shabulous-nuit.png" alt="Fiche de nuit Shabulous">
+  <input type="checkbox" id="toggle-zoom-nuit" class="lightbox-toggle">
+  <label for="toggle-zoom-nuit" class="lightbox-img-wrapper" title="Cliquer pour zoomer / dézoomer">
+    <img src="/botc-fr-bambi/images/shabulous-nuit.png" alt="Fiche de nuit Shabulous">
+  </label>
 </div>
 </div>
 
@@ -461,16 +467,16 @@ image: /images/logogold.png
   font-size: 13px;
 }
 
-/* VISIONNEUSE GRAND FORMAT : ADAPTÉE À L'ÉCRAN SANS ZOOM EXCESSIF */
+/* VISIONNEUSE GRAND FORMAT : ADAPTATIVE (PC, MAC, TABLETTE, MOBILE) */
 .lightbox-overlay {
   position: fixed;
   inset: 0;
-  background: rgba(14, 5, 20, 0.92);
+  background: rgba(14, 5, 20, 0.94);
   display: none;
   align-items: center;
   justify-content: center;
   z-index: 999999;
-  padding: 20px;
+  padding: 12px;
   box-sizing: border-box;
 }
 .lightbox-overlay:target {
@@ -487,18 +493,41 @@ image: /images/logogold.png
   align-items: center;
   justify-content: center;
   z-index: 10;
-  max-width: 90vw;
-  max-height: 90vh;
+  max-width: 96vw;
+  max-height: 96vh;
+  overflow: auto;
 }
-.lightbox-content img {
-  max-height: 90vh;
-  max-width: 90vw;
+.lightbox-toggle {
+  display: none;
+}
+.lightbox-img-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: zoom-in;
+  margin: auto;
+}
+.lightbox-img-wrapper img {
+  max-height: 95vh;
+  max-width: 94vw;
   width: auto;
   height: auto;
   object-fit: contain;
   border-radius: 8px;
-  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.9);
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.95);
+  transition: transform 0.25s ease;
 }
+
+/* Effet de zoom maîtrisé au clic (140% bien lisible sans casser l'écran) */
+.lightbox-toggle:checked + .lightbox-img-wrapper {
+  cursor: zoom-out;
+}
+.lightbox-toggle:checked + .lightbox-img-wrapper img {
+  transform: scale(1.4);
+  max-height: none;
+  max-width: none;
+}
+
 .lightbox-close-btn {
   position: fixed;
   top: 22px;
