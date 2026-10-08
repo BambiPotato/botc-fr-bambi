@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Bibliothèque de scripts personnalisés"
-description: "Découvrez une collection de scripts pour Blood on the Clocktower dotés d'un design soigné : fiches, images, PDF prêts à imprimer et fichiers JSON."
+description: "Découvrez une collection de scripts pour Blood on the Clocktower dotés d'un design avec thème : fiches, images, PDF prêts à imprimer et fichiers JSON."
 image: /images/logogold.png
 ---
 
@@ -14,7 +14,7 @@ image: /images/logogold.png
 
 <div class="header-intro-box">
 <h1 style="color: #5C2E1F; margin: 0 0 10px 0; font-size: 26px;">Bibliothèque de scripts personnalisés</h1>
-<p class="botc-flavour-text" style="color: #5C2E1F; text-align: center; margin: 0 auto; max-width: 820px; font-size: 18px; line-height: 1.6;">Une sélection de scripts testés et expérimentés, garantissant des parties équilibrées et amusantes. Chaque création allie une dynamique de jeu éprouvée à une illustration sur mesure, pensée pour le plaisir des yeux autour de la table.</p>
+<p class="botc-flavour-text" style="color: #5C2E1F; text-align: center; margin: 0 auto; max-width: 820px; font-size: 18px; line-height: 1.6;">Une sélection de scripts testés et expérimentés, garantissant des parties équilibrées et amusantes. Chaque script dispose d'une illustration imagée et d'un thème sur mesure pour le plaisir des yeux autour de la table.</p>
 </div>
 
 <!-- ==================== ENCADRÉ CODES COULEURS (FIGÉ) ==================== -->
@@ -86,7 +86,7 @@ image: /images/logogold.png
 <a href="/botc-fr-bambi/sv_roles/mutant.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_mutant.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Bête de foire</span></a>
 <a href="/botc-fr-bambi/roles_experimentaux/damsel.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_damsel.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Demoiselle</span></a>
 <a href="/botc-fr-bambi/sv_roles/maladroit.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_klutz.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Maladroit</span></a>
-<a href="/botc-fr-bambi/tb_roles/ivrogne.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_drunk.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Ivrogne</span></a>
+<a href="/botc-fr-bambi/tb_roles/ivrogne.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_ivrogne.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Ivrogne</span></a>
 </div>
 <p class="role-cat-title cat-evil">Sbires</p>
 <div class="roles-chips-wrap">
@@ -196,11 +196,12 @@ image: /images/logogold.png
 .link-bmr { color: #c25e00 !important; }
 .link-sv  { color: #9b51e0 !important; }
 
+/* Icônes Loric parfaitement alignées sur le texte */
 .loric-inline-icon {
-  width: 22px;
-  height: 22px;
-  vertical-align: middle;
-  margin: 0 3px;
+  width: 20px;
+  height: 20px;
+  vertical-align: -3px;
+  margin: 0 2px;
 }
 
 .scripts-gallery {
@@ -467,7 +468,7 @@ image: /images/logogold.png
   font-size: 13px;
 }
 
-/* VISIONNEUSE GRAND FORMAT : ADAPTATIVE (PC, MAC, TABLETTE, MOBILE) */
+/* VISIONNEUSE GRAND FORMAT : NATURELLE & CALIBRÉE (PC, MAC, TABLETTE, MOBILE) */
 .lightbox-overlay {
   position: fixed;
   inset: 0;
@@ -493,8 +494,8 @@ image: /images/logogold.png
   align-items: center;
   justify-content: center;
   z-index: 10;
-  max-width: 96vw;
-  max-height: 96vh;
+  max-width: 98vw;
+  max-height: 98vh;
   overflow: auto;
 }
 .lightbox-toggle {
@@ -508,24 +509,22 @@ image: /images/logogold.png
   margin: auto;
 }
 .lightbox-img-wrapper img {
-  max-height: 95vh;
-  max-width: 94vw;
+  max-height: 97vh;
+  max-width: 96vw;
   width: auto;
   height: auto;
   object-fit: contain;
   border-radius: 8px;
   box-shadow: 0 10px 40px rgba(0, 0, 0, 0.95);
-  transition: transform 0.25s ease;
+  transition: transform 0.2s ease;
 }
 
-/* Effet de zoom maîtrisé au clic (140% bien lisible sans casser l'écran) */
+/* Zoom calibré et lisible (+18% sans déborder de manière illisible) */
 .lightbox-toggle:checked + .lightbox-img-wrapper {
   cursor: zoom-out;
 }
 .lightbox-toggle:checked + .lightbox-img-wrapper img {
-  transform: scale(1.4);
-  max-height: none;
-  max-width: none;
+  transform: scale(1.18);
 }
 
 .lightbox-close-btn {
