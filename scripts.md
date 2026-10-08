@@ -13,7 +13,7 @@ image: /images/logogold.png
 <div class="wiki-parchment">
 
 <div class="header-intro-box">
-<h1 style="color: #5C2E1F; margin: 0 0 10px 0; font-size: 26px;">Bibliothèque de Scripts Personnalisés</h1>
+<h1 style="color: #5C2E1F; margin: 0 0 10px 0; font-size: 26px;">Bibliothèque de scripts personnalisés</h1>
 <p class="botc-flavour-text" style="color: #5C2E1F; text-align: center; margin: 0 auto; max-width: 820px; font-size: 18px; line-height: 1.6;">Une sélection de scripts dotés d'une véritable identité visuelle et d'un design soigné. Chaque création allie un équilibre de jeu éprouvé à une mise en page sur mesure, pensée pour le plaisir des yeux autour de la table.</p>
 </div>
 
@@ -35,7 +35,12 @@ image: /images/logogold.png
 
 <!-- ==================== FICHE SCRIPT : SHABULOUS ==================== -->
 <div class="script-card">
-<a href="#zoom-shabulous" class="script-preview-link" title="Agrandir la feuille de script"><img src="/botc-fr-bambi/images/shabulous.png" alt="Aperçu du script Shabulous" class="script-thumb"><span class="preview-overlay">🔍 Shabulous — Agrandir la feuille</span></a>
+<a href="#zoom-shabulous" class="script-preview-link" title="Agrandir la fiche du script">
+  <div class="preview-backdrop-wrapper">
+    <img src="/botc-fr-bambi/images/shabulous.png" alt="Aperçu du script Shabulous" class="script-thumb">
+  </div>
+  <span class="preview-overlay">🔍 Shabulous — Agrandir la fiche</span>
+</a>
 <div class="script-content">
 <h2 class="script-title">Shabulous</h2>
 <div class="script-badges">
@@ -44,7 +49,11 @@ image: /images/logogold.png
 <span class="badge-pill">👥 9 à 15 joueurs</span>
 <span class="badge-pill">🧞 Jinxes : Docteur de peste x 2</span>
 </div>
-<p class="script-tag-line">Recommandé pour des joueurs proactifs qui aiment enquêter, savent cacher leur rôle et maîtrisent l'art du bluff.</p>
+
+<div class="script-tag-line">
+  <span class="tag-line-icon">💡</span> Recommandé pour des joueurs proactifs qui aiment enquêter, savent cacher leur rôle et maîtrisent l'art du bluff.
+</div>
+
 <p class="script-description">Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, ou est-ce un sbire maléfique qui revient toujours d’entre les morts ?<br>🚨 <strong>Attention</strong> : dans ce script, les Marginaux sont particulièrement redoutables puisqu’eux aussi peuvent revenir à la vie. Si vous en êtes un, gardez impérativement votre rôle secret pour ne pas offrir une cible facile au Shabaloth.</p>
 <div class="script-downloads">
 <a href="https://github.com/BambiPotato/botc-fr-bambi/releases/download/v1/shabulous.pdf" class="btn-action-tab" target="_blank">📄 Fiche PDF à imprimer</a>
@@ -77,7 +86,7 @@ image: /images/logogold.png
 <a href="/botc-fr-bambi/sv_roles/mutant.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_mutant.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Bête de foire</span></a>
 <a href="/botc-fr-bambi/roles_experimentaux/damsel.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_damsel.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Demoiselle</span></a>
 <a href="/botc-fr-bambi/sv_roles/maladroit.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_klutz.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Maladroit</span></a>
-<a href="/botc-fr-bambi/tb_roles/ivrogne.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_drunk.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Ivrogne</span></a>
+<a href="/botc-fr-bambi/tb_roles/ivrogne.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_ivrogne.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Ivrogne</span></a>
 </div>
 <p class="role-cat-title cat-evil">Sbires</p>
 <div class="roles-chips-wrap">
@@ -105,22 +114,20 @@ image: /images/logogold.png
 
 </div>
 
-<!-- ==================== VISIONNEUSES D'IMAGE GRAND FORMAT ==================== -->
+<!-- ==================== VISIONNEUSES D'IMAGE GRAND FORMAT AVEC CROIX FIXE ==================== -->
 <div id="zoom-shabulous" class="lightbox-overlay">
-<a href="#close" class="lightbox-close-zone" title="Fermer"></a>
-<a href="#close" class="lightbox-close-btn" title="Fermer la vue">✖</a>
+<a href="#close" class="lightbox-close-zone" title="Fermer la vue"></a>
+<a href="#close" class="lightbox-close-btn" title="Fermer">✖</a>
 <div class="lightbox-content">
-<img src="/botc-fr-bambi/images/shabulous.png" alt="Fiche Shabulous">
-<a href="/botc-fr-bambi/images/shabulous.png" target="_blank" class="lightbox-zoom-native-btn">🔎 Voir en taille originale 100%</a>
+  <img src="/botc-fr-bambi/images/shabulous.png" alt="Fiche du script Shabulous">
 </div>
 </div>
 
 <div id="zoom-shabulous-nuit" class="lightbox-overlay">
-<a href="#close" class="lightbox-close-zone" title="Fermer"></a>
-<a href="#close" class="lightbox-close-btn" title="Fermer la vue">✖</a>
+<a href="#close" class="lightbox-close-zone" title="Fermer la vue"></a>
+<a href="#close" class="lightbox-close-btn" title="Fermer">✖</a>
 <div class="lightbox-content">
-<img src="/botc-fr-bambi/images/shabulous-nuit.png" alt="Fiche Shabulous Nuit">
-<a href="/botc-fr-bambi/images/shabulous-nuit.png" target="_blank" class="lightbox-zoom-native-btn">🔎 Voir en taille originale 100%</a>
+  <img src="/botc-fr-bambi/images/shabulous-nuit.png" alt="Fiche de nuit Shabulous">
 </div>
 </div>
 
@@ -205,30 +212,44 @@ image: /images/logogold.png
   display: flex;
   flex-direction: column;
 }
+
 .script-preview-link {
   position: relative;
-  display: block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   width: 100%;
-  height: 200px;
-  background: #200f28 url("/botc-fr-bambi/images/bg-violet.jpg") center / cover no-repeat;
+  height: 220px;
+  background: #1e0f2b url("/botc-fr-bambi/images/bg-violet.jpg") center / cover no-repeat;
   overflow: hidden;
   border-bottom: 2px solid rgba(92, 46, 31, 0.40);
   text-decoration: none !important;
 }
-.script-thumb {
+
+.preview-backdrop-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   width: 100%;
   height: 100%;
-  object-fit: contain;
-  padding: 12px;
-  box-sizing: border-box;
+  background: radial-gradient(circle, rgba(255,255,255,0.12) 0%, rgba(0,0,0,0.45) 85%);
 }
+
+.script-thumb {
+  max-width: 90%;
+  max-height: 90%;
+  object-fit: contain;
+  filter: drop-shadow(0 4px 10px rgba(0,0,0,0.5));
+  transition: transform 0.2s ease;
+}
+
 .preview-overlay {
   position: absolute;
   inset: 0;
-  background: rgba(32, 15, 40, 0.70);
+  background: rgba(30, 15, 43, 0.72);
   color: #f4efe6;
   font-family: Georgia, serif;
-  font-size: 14px;
+  font-size: 15px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -236,12 +257,15 @@ image: /images/logogold.png
   transition: opacity 0.2s ease;
   font-weight: bold;
 }
+
 .script-preview-link:hover .preview-overlay {
   opacity: 1;
 }
+
 .script-preview-link:hover .script-thumb {
-  transform: scale(1.04);
+  transform: scale(1.05);
 }
+
 .script-content {
   padding: 22px;
   display: flex;
@@ -252,13 +276,13 @@ image: /images/logogold.png
 .script-title {
   margin: 0 0 12px 0 !important;
   color: #5C2E1F !important;
-  font-size: 22px !important;
+  font-size: 24px !important;
 }
 .script-badges {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
-  margin-bottom: 12px;
+  margin-bottom: 14px;
 }
 .badge-pill {
   display: inline-block;
@@ -275,21 +299,30 @@ image: /images/logogold.png
   border-color: #f2994a;
   color: #9c5512;
 }
+
 .script-tag-line {
-  background: rgba(92, 46, 31, 0.08);
-  border-left: 3px solid #f2994a;
-  padding: 8px 12px;
-  border-radius: 4px;
-  font-size: 13px;
+  background: rgba(255, 255, 255, 0.75);
+  border-left: 4px solid #f2994a;
+  border-radius: 6px;
+  padding: 10px 14px;
+  font-family: Georgia, serif;
+  font-size: 15px;
   font-style: italic;
-  color: #5C2E1F;
+  font-weight: 500;
+  color: #4a2012;
   margin-bottom: 16px;
-  line-height: 1.45;
+  line-height: 1.5;
+  box-shadow: 0 2px 6px rgba(92, 46, 31, 0.08);
 }
+.tag-line-icon {
+  font-style: normal;
+  margin-right: 4px;
+}
+
 .script-description {
   color: #5C2E1F;
-  font-size: 14px;
-  line-height: 1.55;
+  font-size: 15px;
+  line-height: 1.6;
   margin-bottom: 20px;
 }
 .script-downloads {
@@ -321,7 +354,6 @@ image: /images/logogold.png
   text-decoration: none !important;
 }
 
-/* Accordéon */
 .roles-accordion {
   margin-top: 6px;
   border: 1.5px solid rgba(92, 46, 31, 0.40);
@@ -429,11 +461,11 @@ image: /images/logogold.png
   font-size: 13px;
 }
 
-/* VISIONNEUSE GRAND FORMAT */
+/* VISIONNEUSE GRAND FORMAT : ADAPTÉE À L'ÉCRAN SANS ZOOM EXCESSIF */
 .lightbox-overlay {
   position: fixed;
   inset: 0;
-  background: rgba(16, 7, 23, 0.94);
+  background: rgba(14, 5, 20, 0.92);
   display: none;
   align-items: center;
   justify-content: center;
@@ -451,43 +483,26 @@ image: /images/logogold.png
 }
 .lightbox-content {
   position: relative;
-  max-width: 96vw;
-  max-height: 96vh;
   display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
   z-index: 10;
+  max-width: 90vw;
+  max-height: 90vh;
 }
 .lightbox-content img {
-  max-width: 94vw;
-  max-height: 86vh;
+  max-height: 90vh;
+  max-width: 90vw;
   width: auto;
   height: auto;
   object-fit: contain;
   border-radius: 8px;
   box-shadow: 0 10px 40px rgba(0, 0, 0, 0.9);
 }
-.lightbox-zoom-native-btn {
-  margin-top: 10px;
-  background: rgba(246, 225, 184, 0.95);
-  color: #5C2E1F !important;
-  border: 1.5px solid #5C2E1F;
-  border-radius: 999px;
-  padding: 6px 16px;
-  font-family: Georgia, serif;
-  font-size: 13px;
-  font-weight: bold;
-  text-decoration: none !important;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.4);
-}
-.lightbox-zoom-native-btn:hover {
-  background: #ffffff;
-}
 .lightbox-close-btn {
   position: fixed;
-  top: 20px;
-  right: 25px;
+  top: 22px;
+  right: 26px;
   width: 48px;
   height: 48px;
   background: #c22a2a;
@@ -500,7 +515,7 @@ image: /images/logogold.png
   font-size: 24px;
   font-weight: bold;
   text-decoration: none !important;
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.7);
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.8);
   z-index: 1000000;
   cursor: pointer;
   transition: transform 0.15s ease, background 0.15s ease;
@@ -513,6 +528,13 @@ image: /images/logogold.png
 @media (max-width: 700px) {
   .scripts-gallery {
     grid-template-columns: 1fr;
+  }
+  .lightbox-close-btn {
+    top: 14px;
+    right: 14px;
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
   }
 }
 </style>
