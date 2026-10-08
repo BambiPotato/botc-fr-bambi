@@ -75,19 +75,19 @@ L'ALSAAHIR devine les membres de l'équipe du Mal.
 <ul>
 <li>L'Alsaahir doit formuler ses propositions publiquement pendant la journée. <br> Il n'a pas besoin de faire une proposition tous les jours.</li>
 
-<li>D'autres joueurs peuvent se faire passer pour l'Alsaahir et formuler des propositions. <br> Tout comme avec le <a href="../sv_roles/jongleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Jongleur</a> ou la <a href="../bmr_roles/commere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Commère</a>, le Conteur devra jouer le jeu.</li>
+<li>D'autres joueurs peuvent se faire passer pour l'Alsaahir et formuler des propositions. <br> Tout comme avec le <a href="../sv_roles/jongleur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Jongleur</a> ou la <a href="../bmr_roles/commere.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Commère</a>, le Conteur devra jouer le jeu.</li><br> 
 
-<li>Si l'Alsaahir annonce correctement qui est le Démon et qui sont les Sbires, la partie se termine immédiatement. <br> L'Alsaahir doit deviner tous les joueurs Démon et Sbire.</li>
+<li>Si l'Alsaahir annonce correctement qui est le Démon et qui sont les Sbires, la partie se termine immédiatement. <br> L'Alsaahir doit deviner tous les joueurs Démon et Sbire.</li><br> 
 
-<li>L'Alsaahir n'a pas besoin de deviner le rôle de chaque Sbire, ni le rôle du Démon.</li>
+<li>L'Alsaahir n'a pas besoin de deviner le rôle de chaque Sbire, ni le rôle du Démon.</li><br> 
 
-<li>S'il y a plus d'un Démon en jeu, l'Alsaahir doit tous les deviner, y compris les Démons morts.</li>
+<li>S'il y a plus d'un Démon en jeu, l'Alsaahir doit tous les deviner, y compris les Démons morts.</li><br> 
 
-<li>Si un joueur est à la fois un Sbire et un Démon, comme la Légion, l'Alsaahir doit deviner que ce joueur est un Démon.</li>
+<li>Si un joueur est à la fois un Sbire et un Démon, comme la Légion, l'Alsaahir doit deviner que ce joueur est un Démon.</li><br> 
 
-<li>Une fois qu'un Alsaahir a formulé sa proposition, il ne peut plus changer d'avis et faire une nouvelle proposition dans la même journée.</li>
+<li>Une fois qu'un Alsaahir a formulé sa proposition, il ne peut plus changer d'avis et faire une nouvelle proposition dans la même journée.</li><br> 
 
-<li>L'Alsaahir doit deviner les Sbires et les Démons, même s'ils sont bons, mais il n'a pas besoin de deviner quels <a href="../voyageurs/voyageurs.html" style="color:#c895ff; font-weight:bold; text-decoration:none;">Voyageurs</a> sont maléfiques.</li>
+<li>L'Alsaahir doit deviner les Sbires et les Démons, même s'ils sont bons, mais il n'a pas besoin de deviner quels <a href="../voyageurs/voyageurs.html" style="color:#c895ff; font-weight:bold; text-decoration:none;">Voyageurs</a> sont maléfiques.</li><br> 
 
 <li>Si l'équipe du Mal a changé en cours de partie, l'Alsaahir doit deviner l'équipe du Mal actuelle, et non l'équipe du Mal de départ.</li>
 </ul>
