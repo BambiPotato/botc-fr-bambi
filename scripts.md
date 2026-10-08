@@ -5,14 +5,11 @@ description: "Découvrez une collection de scripts pour Blood on the Clocktower 
 image: /images/logogold.png
 ---
 
-
 <p align="left">
   <a href="/botc-fr-bambi/">
-    <img src="images/logogold.png" alt="Accueil BotC FR" width="300">
+    <img src="/botc-fr-bambi/images/logogold.png" alt="Accueil BotC FR" width="300">
   </a>
 </p>
-
-
 
 <hr class="explication">
 
@@ -25,7 +22,7 @@ Une sélection de scripts dotés d'une véritable identité visuelle et d'un des
 </p>
 </div>
 
-<!-- ==================== ENCADRÉ CODES COULEURS ==================== -->
+<!-- ==================== ENCADRÉ CODES COULEURS (FIGÉ) ==================== -->
 <div class="botc-color-guide">
 <h3 style="margin: 0 0 14px 0; color: #5C2E1F; font-size: 20px; display: flex; align-items: center; gap: 8px;">
 🎨 Les Codes couleurs
@@ -65,154 +62,154 @@ modifiant lourdement les mécaniques du jeu.
 <!-- ==================== FICHE SCRIPT : SHABULOUS ==================== -->
 <div class="script-card">
 
-  <a href="/botc-fr-bambi/images/shabulous.png" class="script-preview-link" target="_blank" title="Agrandir la feuille de script">
-    <img src="/botc-fr-bambi/images/shabulous.png" alt="Aperçu du script Shabulous" class="script-thumb">
-    <span class="preview-overlay">🔍 Agrandir la feuille</span>
-  </a>
+<a href="#modal-shabulous" class="script-preview-link" title="Agrandir la feuille de script">
+<img src="/botc-fr-bambi/images/shabulous.png" alt="Aperçu du script Shabulous" class="script-thumb">
+<span class="preview-overlay">🔍 Agrandir la feuille</span>
+</a>
 
-  <div class="script-content">
-    <h2 class="script-title">Shabulous</h2>
+<div class="script-content">
+<h2 class="script-title">Shabulous</h2>
 
-    <div class="script-badges">
-      <span class="badge-pill badge-orange">🟠 Avancé</span>
-      <span class="badge-pill">✍️ Auteurs : FM Jason &amp; Bambi 🥔</span>
-      <span class="badge-pill">👥 9 à 15 joueurs</span>
-    </div>
+<div class="script-badges">
+<span class="badge-pill badge-orange">🟠 Avancé</span>
+<span class="badge-pill">✍️ Auteurs : FM Jason &amp; Bambi 🥔</span>
+<span class="badge-pill">👥 9 à 15 joueurs</span>
+</div>
 
-    <p class="script-description">
-Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, ou est-ce un sbire maléfique qui revient toujours d’entre les morts ? 🚨 Attention : dans ce script, les Marginaux sont particulièrement redoutables puisqu’eux aussi peuvent revenir à la vie. Si vous en êtes un, gardez impérativement votre rôle secret pour ne pas offrir une cible facile au démon.
-    </p>
+<p class="script-description">
+Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, ou est-ce un sbire maléfique qui revient toujours d’entre les morts ? <br> 🚨 Attention : dans ce script, les Marginaux sont particulièrement redoutables puisqu’eux aussi peuvent revenir à la vie. Si vous en êtes un, gardez impérativement votre rôle secret pour ne pas offrir une cible facile au Shabaloth.
+</p>
 
-    <div class="script-downloads">
-      <a href="https://github.com/BambiPotato/botc-fr-bambi/releases/download/v1/shabulous.pdf" class="btn-action-tab" target="_blank">📄 Fiche PDF à imprimer</a>
-      <a href="/botc-fr-bambi/images/Shabulous.json" download="Shabulous.json" class="btn-action-tab">⚙️ Fichier JSON (App BotC)</a>
-      <a href="/botc-fr-bambi/images/shabulous.png" class="btn-action-tab" target="_blank">🖼️ Fiche des rôles</a>
-      <a href="/botc-fr-bambi/images/shabulous-nuit.png" class="btn-action-tab" target="_blank">🌙 Fiche pour Conteur & Conteuse</a>
-    </div>
+<div class="script-downloads">
+<a href="https://github.com/BambiPotato/botc-fr-bambi/releases/download/v1/shabulous.pdf" class="btn-action-tab" target="_blank">📄 Fiche PDF à imprimer</a>
+<a href="/botc-fr-bambi/images/Shabulous.json" download="Shabulous.json" class="btn-action-tab">⚙️ Fichier JSON (App BotC)</a>
+<a href="#modal-shabulous" class="btn-action-tab">🖼️ Fiche des rôles</a>
+<a href="#modal-shabulous-nuit" class="btn-action-tab">🌙 Fiche pour Conteur &amp; Conteuse</a>
+</div>
 
-    <details class="script-roles-accordion">
-      <summary class="btn-action-tab btn-accordion-summary">
-        📜 Voir la composition des rôles
-      </summary>
-      
-      <div class="roles-grid-container">
+<details class="script-roles-accordion">
+<summary class="btn-action-tab btn-accordion-summary">
+📜 Voir la composition des rôles
+</summary>
 
-        <div class="role-group-title group-townsfolk">Villageois</div>
-        <div class="roles-token-grid">
-          <a href="/botc-fr-bambi/roles_experimentaux/steward.html" class="role-token-link" title="Intendante">
-            <img src="/botc-fr-bambi/images/Icon_steward.png" onerror="this.style.display='none'" class="token-img" alt="Intendante">
-            <span>Intendante</span>
-          </a>
-          <a href="/botc-fr-bambi/tb_roles/bibliothecaire.html" class="role-token-link" title="Archiviste">
-            <img src="/botc-fr-bambi/images/Icon_librarian.png" onerror="this.style.display='none'" class="token-img" alt="Archiviste">
-            <span>Archiviste</span>
-          </a>
-          <a href="/botc-fr-bambi/roles_experimentaux/shugenja.html" class="role-token-link" title="Shugenja">
-            <img src="/botc-fr-bambi/images/Icon_shugenja.png" onerror="this.style.display='none'" class="token-img" alt="Shugenja">
-            <span>Shugenja</span>
-          </a>
-          <a href="/botc-fr-bambi/roles_experimentaux/pixie.html" class="role-token-link" title="Pixie">
-            <img src="/botc-fr-bambi/images/Icon_pixie.png" onerror="this.style.display='none'" class="token-img" alt="Pixie">
-            <span>Pixie</span>
-          </a>
-          <a href="/botc-fr-bambi/roles_experimentaux/highpriestess.html" class="role-token-link" title="Grande prêtresse">
-            <img src="/botc-fr-bambi/images/Icon_highpriestess.png" onerror="this.style.display='none'" class="token-img" alt="Grande prêtresse">
-            <span>Grande prêtresse</span>
-          </a>
-          <a href="/botc-fr-bambi/roles_experimentaux/king.html" class="role-token-link" title="Roi">
-            <img src="/botc-fr-bambi/images/Icon_king.png" onerror="this.style.display='none'" class="token-img" alt="Roi">
-            <span>Roi</span>
-          </a>
-          <a href="/botc-fr-bambi/tb_roles/voyante.html" class="role-token-link" title="Voyante">
-            <img src="/botc-fr-bambi/images/Icon_fortuneteller.png" onerror="this.style.display='none'" class="token-img" alt="Voyante">
-            <span>Voyante</span>
-          </a>
-          <a href="/botc-fr-bambi/sv_roles/crieur.html" class="role-token-link" title="Crieur public">
-            <img src="/botc-fr-bambi/images/Icon_towncrier.png" onerror="this.style.display='none'" class="token-img" alt="Crieur public">
-            <span>Crieur public</span>
-          </a>
-          <a href="/botc-fr-bambi/sv_roles/oracle.html" class="role-token-link" title="Oracle">
-            <img src="/botc-fr-bambi/images/Icon_oracle.png" onerror="this.style.display='none'" class="token-img" alt="Oracle">
-            <span>Oracle</span>
-          </a>
-          <a href="/botc-fr-bambi/sv_roles/savant.html" class="role-token-link" title="Savant">
-            <img src="/botc-fr-bambi/images/Icon_savant.png" onerror="this.style.display='none'" class="token-img" alt="Savant">
-            <span>Savant</span>
-          </a>
-          <a href="/botc-fr-bambi/sv_roles/philosophe.html" class="role-token-link" title="Philosophe">
-            <img src="/botc-fr-bambi/images/Icon_philosopher.png" onerror="this.style.display='none'" class="token-img" alt="Philosophe">
-            <span>Philosophe</span>
-          </a>
-          <a href="/botc-fr-bambi/roles_experimentaux/huntsman.html" class="role-token-link" title="Chasseur">
-            <img src="/botc-fr-bambi/images/Icon_huntsman.png" onerror="this.style.display='none'" class="token-img" alt="Chasseur">
-            <span>Chasseur</span>
-          </a>
-          <a href="/botc-fr-bambi/roles_experimentaux/cannibal.html" class="role-token-link" title="Cannibale">
-            <img src="/botc-fr-bambi/images/Icon_cannibal.png" onerror="this.style.display='none'" class="token-img" alt="Cannibale">
-            <span>Cannibale</span>
-          </a>
-        </div>
+<div class="roles-grid-container">
 
-        <div class="role-group-title group-outsider">Marginaux</div>
-        <div class="roles-token-grid">
-          <a href="/botc-fr-bambi/roles_experimentaux/plaguedoctor.html" class="role-token-link" title="Docteur de peste">
-            <img src="/botc-fr-bambi/images/Icon_plaguedoctor.png" onerror="this.style.display='none'" class="token-img" alt="Docteur de peste">
-            <span>Docteur de peste</span>
-          </a>
-          <a href="/botc-fr-bambi/sv_roles/mutant.html" class="role-token-link" title="Bête de foire">
-            <img src="/botc-fr-bambi/images/Icon_mutant.png" onerror="this.style.display='none'" class="token-img" alt="Bête de foire">
-            <span>Bête de foire</span>
-          </a>
-          <a href="/botc-fr-bambi/roles_experimentaux/damsel.html" class="role-token-link" title="Demoiselle">
-            <img src="/botc-fr-bambi/images/Icon_damsel.png" onerror="this.style.display='none'" class="token-img" alt="Demoiselle">
-            <span>Demoiselle</span>
-          </a>
-          <a href="/botc-fr-bambi/sv_roles/maladroit.html" class="role-token-link" title="Maladroit">
-            <img src="/botc-fr-bambi/images/Icon_klutz.png" onerror="this.style.display='none'" class="token-img" alt="Maladroit">
-            <span>Maladroit</span>
-          </a>
-          <a href="/botc-fr-bambi/tb_roles/ivrogne.html" class="role-token-link" title="Ivrogne">
-            <img src="/botc-fr-bambi/images/Icon_drunk.png" onerror="this.style.display='none'" class="token-img" alt="Ivrogne">
-            <span>Ivrogne</span>
-          </a>
-        </div>
+<div class="role-group-title group-townsfolk">Villageois</div>
+<div class="roles-token-grid">
+<a href="/botc-fr-bambi/roles_experimentaux/steward.html" class="role-token-link" title="Intendante">
+<img src="/botc-fr-bambi/images/Icon_steward.png" onerror="this.style.display='none'" class="token-img" alt="Intendante">
+<span>Intendante</span>
+</a>
+<a href="/botc-fr-bambi/tb_roles/bibliothecaire.html" class="role-token-link" title="Archiviste">
+<img src="/botc-fr-bambi/images/Icon_librarian.png" onerror="this.style.display='none'" class="token-img" alt="Archiviste">
+<span>Archiviste</span>
+</a>
+<a href="/botc-fr-bambi/roles_experimentaux/shugenja.html" class="role-token-link" title="Shugenja">
+<img src="/botc-fr-bambi/images/Icon_shugenja.png" onerror="this.style.display='none'" class="token-img" alt="Shugenja">
+<span>Shugenja</span>
+</a>
+<a href="/botc-fr-bambi/roles_experimentaux/pixie.html" class="role-token-link" title="Pixie">
+<img src="/botc-fr-bambi/images/Icon_pixie.png" onerror="this.style.display='none'" class="token-img" alt="Pixie">
+<span>Pixie</span>
+</a>
+<a href="/botc-fr-bambi/roles_experimentaux/highpriestess.html" class="role-token-link" title="Grande prêtresse">
+<img src="/botc-fr-bambi/images/Icon_highpriestess.png" onerror="this.style.display='none'" class="token-img" alt="Grande prêtresse">
+<span>Grande prêtresse</span>
+</a>
+<a href="/botc-fr-bambi/roles_experimentaux/king.html" class="role-token-link" title="Roi">
+<img src="/botc-fr-bambi/images/Icon_king.png" onerror="this.style.display='none'" class="token-img" alt="Roi">
+<span>Roi</span>
+</a>
+<a href="/botc-fr-bambi/tb_roles/voyante.html" class="role-token-link" title="Voyante">
+<img src="/botc-fr-bambi/images/Icon_fortuneteller.png" onerror="this.style.display='none'" class="token-img" alt="Voyante">
+<span>Voyante</span>
+</a>
+<a href="/botc-fr-bambi/sv_roles/crieur.html" class="role-token-link" title="Crieur public">
+<img src="/botc-fr-bambi/images/Icon_towncrier.png" onerror="this.style.display='none'" class="token-img" alt="Crieur public">
+<span>Crieur public</span>
+</a>
+<a href="/botc-fr-bambi/sv_roles/oracle.html" class="role-token-link" title="Oracle">
+<img src="/botc-fr-bambi/images/Icon_oracle.png" onerror="this.style.display='none'" class="token-img" alt="Oracle">
+<span>Oracle</span>
+</a>
+<a href="/botc-fr-bambi/sv_roles/savant.html" class="role-token-link" title="Savant">
+<img src="/botc-fr-bambi/images/Icon_savant.png" onerror="this.style.display='none'" class="token-img" alt="Savant">
+<span>Savant</span>
+</a>
+<a href="/botc-fr-bambi/sv_roles/philosophe.html" class="role-token-link" title="Philosophe">
+<img src="/botc-fr-bambi/images/Icon_philosopher.png" onerror="this.style.display='none'" class="token-img" alt="Philosophe">
+<span>Philosophe</span>
+</a>
+<a href="/botc-fr-bambi/roles_experimentaux/huntsman.html" class="role-token-link" title="Chasseur">
+<img src="/botc-fr-bambi/images/Icon_huntsman.png" onerror="this.style.display='none'" class="token-img" alt="Chasseur">
+<span>Chasseur</span>
+</a>
+<a href="/botc-fr-bambi/roles_experimentaux/cannibal.html" class="role-token-link" title="Cannibale">
+<img src="/botc-fr-bambi/images/Icon_cannibal.png" onerror="this.style.display='none'" class="token-img" alt="Cannibale">
+<span>Cannibale</span>
+</a>
+</div>
 
-        <div class="role-group-title group-minion">Sbires</div>
-        <div class="roles-token-grid">
-          <a href="/botc-fr-bambi/tb_roles/empoisonneur.html" class="role-token-link" title="Empoisonneur">
-            <img src="/botc-fr-bambi/images/Icon_poisoner.png" onerror="this.style.display='none'" class="token-img" alt="Empoisonneur">
-            <span>Empoisonneur</span>
-          </a>
-          <a href="/botc-fr-bambi/sv_roles/cerenovus.html" class="role-token-link" title="Cérenovus">
-            <img src="/botc-fr-bambi/images/Icon_cerenovus.png" onerror="this.style.display='none'" class="token-img" alt="Cérenovus">
-            <span>Cérenovus</span>
-          </a>
-          <a href="/botc-fr-bambi/tb_roles/baron.html" class="role-token-link" title="Baron">
-            <img src="/botc-fr-bambi/images/Icon_baron.png" onerror="this.style.display='none'" class="token-img" alt="Baron">
-            <span>Baron</span>
-          </a>
-          <a href="/botc-fr-bambi/roles_experimentaux/mezepheles.html" class="role-token-link" title="Mezepheles">
-            <img src="/botc-fr-bambi/images/Icon_mezepheles.png" onerror="this.style.display='none'" class="token-img" alt="Mezepheles">
-            <span>Mezepheles</span>
-          </a>
-          <a href="/botc-fr-bambi/tb_roles/femme_ecarlate.html" class="role-token-link" title="Femme écarlate">
-            <img src="/botc-fr-bambi/images/Icon_scarletwoman.png" onerror="this.style.display='none'" class="token-img" alt="Femme écarlate">
-            <span>Femme écarlate</span>
-          </a>
-        </div>
+<div class="role-group-title group-outsider">Marginaux</div>
+<div class="roles-token-grid">
+<a href="/botc-fr-bambi/roles_experimentaux/plaguedoctor.html" class="role-token-link" title="Docteur de peste">
+<img src="/botc-fr-bambi/images/Icon_plaguedoctor.png" onerror="this.style.display='none'" class="token-img" alt="Docteur de peste">
+<span>Docteur de peste</span>
+</a>
+<a href="/botc-fr-bambi/sv_roles/mutant.html" class="role-token-link" title="Bête de foire">
+<img src="/botc-fr-bambi/images/Icon_mutant.png" onerror="this.style.display='none'" class="token-img" alt="Bête de foire">
+<span>Bête de foire</span>
+</a>
+<a href="/botc-fr-bambi/roles_experimentaux/damsel.html" class="role-token-link" title="Demoiselle">
+<img src="/botc-fr-bambi/images/Icon_damsel.png" onerror="this.style.display='none'" class="token-img" alt="Demoiselle">
+<span>Demoiselle</span>
+</a>
+<a href="/botc-fr-bambi/sv_roles/maladroit.html" class="role-token-link" title="Maladroit">
+<img src="/botc-fr-bambi/images/Icon_klutz.png" onerror="this.style.display='none'" class="token-img" alt="Maladroit">
+<span>Maladroit</span>
+</a>
+<a href="/botc-fr-bambi/tb_roles/ivrogne.html" class="role-token-link" title="Ivrogne">
+<img src="/botc-fr-bambi/images/Icon_drunk.png" onerror="this.style.display='none'" class="token-img" alt="Ivrogne">
+<span>Ivrogne</span>
+</a>
+</div>
 
-        <div class="role-group-title group-demon">Démon</div>
-        <div class="roles-token-grid">
-          <a href="/botc-fr-bambi/bmr_roles/shabaloth.html" class="role-token-link" title="Shabaloth">
-            <img src="/botc-fr-bambi/images/Icon_shabaloth.png" onerror="this.style.display='none'" class="token-img" alt="Shabaloth">
-            <span>Shabaloth</span>
-          </a>
-        </div>
+<div class="role-group-title group-minion">Sbires</div>
+<div class="roles-token-grid">
+<a href="/botc-fr-bambi/tb_roles/empoisonneur.html" class="role-token-link" title="Empoisonneur">
+<img src="/botc-fr-bambi/images/Icon_poisoner.png" onerror="this.style.display='none'" class="token-img" alt="Empoisonneur">
+<span>Empoisonneur</span>
+</a>
+<a href="/botc-fr-bambi/sv_roles/cerenovus.html" class="role-token-link" title="Cérenovus">
+<img src="/botc-fr-bambi/images/Icon_cerenovus.png" onerror="this.style.display='none'" class="token-img" alt="Cérenovus">
+<span>Cérenovus</span>
+</a>
+<a href="/botc-fr-bambi/tb_roles/baron.html" class="role-token-link" title="Baron">
+<img src="/botc-fr-bambi/images/Icon_baron.png" onerror="this.style.display='none'" class="token-img" alt="Baron">
+<span>Baron</span>
+</a>
+<a href="/botc-fr-bambi/roles_experimentaux/mezepheles.html" class="role-token-link" title="Mezepheles">
+<img src="/botc-fr-bambi/images/Icon_mezepheles.png" onerror="this.style.display='none'" class="token-img" alt="Mezepheles">
+<span>Mezepheles</span>
+</a>
+<a href="/botc-fr-bambi/tb_roles/femme_ecarlate.html" class="role-token-link" title="Femme écarlate">
+<img src="/botc-fr-bambi/images/Icon_scarletwoman.png" onerror="this.style.display='none'" class="token-img" alt="Femme écarlate">
+<span>Femme écarlate</span>
+</a>
+</div>
 
-      </div>
-    </details>
+<div class="role-group-title group-demon">Démon</div>
+<div class="roles-token-grid">
+<a href="/botc-fr-bambi/bmr_roles/shabaloth.html" class="role-token-link" title="Shabaloth">
+<img src="/botc-fr-bambi/images/Icon_shabaloth.png" onerror="this.style.display='none'" class="token-img" alt="Shabaloth">
+<span>Shabaloth</span>
+</a>
+</div>
 
-  </div>
+</div>
+</details>
+
+</div>
 
 </div>
 <!-- ================== FIN FICHE SCRIPT : SHABULOUS ================== -->
@@ -225,6 +222,33 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
 </a>
 </div>
 
+</div>
+
+<!-- ==================== POP-UPS POUR AGRANDIR AVEC CROIX ==================== -->
+<div id="modal-shabulous" class="image-modal">
+<a href="#close" class="modal-backdrop"></a>
+<div class="modal-box">
+<div class="modal-header">
+<span class="modal-title">Shabulous — Fiche des rôles</span>
+<a href="#close" class="modal-close" title="Fermer">✖</a>
+</div>
+<div class="modal-body">
+<img src="/botc-fr-bambi/images/shabulous.png" alt="Fiche Shabulous">
+</div>
+</div>
+</div>
+
+<div id="modal-shabulous-nuit" class="image-modal">
+<a href="#close" class="modal-backdrop"></a>
+<div class="modal-box">
+<div class="modal-header">
+<span class="modal-title">Shabulous — Ordre de nuit (Conteur &amp; Conteuse)</span>
+<a href="#close" class="modal-close" title="Fermer">✖</a>
+</div>
+<div class="modal-body">
+<img src="/botc-fr-bambi/images/shabulous-nuit.png" alt="Fiche Shabulous Nuit">
+</div>
+</div>
 </div>
 
 <style>
@@ -534,6 +558,87 @@ Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, o
 .top-arrow-violet {
   color: #9b51e0;
   font-size: 13px;
+}
+
+/* Modale Zoom avec bandeau violet et croix de fermeture */
+.image-modal {
+  position: fixed;
+  inset: 0;
+  background: rgba(16, 7, 23, 0.88);
+  display: none;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+  padding: 20px;
+}
+
+.image-modal:target {
+  display: flex;
+}
+
+.modal-backdrop {
+  position: absolute;
+  inset: 0;
+}
+
+.modal-box {
+  position: relative;
+  max-width: 90vw;
+  max-height: 92vh;
+  background: rgba(246, 225, 184, 0.96);
+  border: 2px solid #5C2E1F;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 12px 36px rgba(0, 0, 0, 0.6);
+  display: flex;
+  flex-direction: column;
+}
+
+.modal-header {
+  background: #200f28 url("/botc-fr-bambi/images/bg-violet.jpg") center / cover no-repeat;
+  color: #f4efe6;
+  padding: 12px 18px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 2px solid rgba(92, 46, 31, 0.50);
+}
+
+.modal-title {
+  font-family: Georgia, serif;
+  font-weight: bold;
+  font-size: 16px;
+  color: #f4efe6;
+}
+
+.modal-close {
+  color: #f4efe6 !important;
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none !important;
+  padding: 2px 8px;
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.15);
+  transition: background 0.2s ease;
+}
+
+.modal-close:hover {
+  background: rgba(235, 87, 87, 0.8);
+}
+
+.modal-body {
+  padding: 14px;
+  overflow: auto;
+  display: flex;
+  justify-content: center;
+}
+
+.modal-body img {
+  max-width: 100%;
+  max-height: 78vh;
+  object-fit: contain;
+  border-radius: 6px;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.25);
 }
 
 @media (max-width: 700px) {
