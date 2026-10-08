@@ -51,7 +51,7 @@ image: /images/logogold.png
 </div>
 
 <div class="script-tag-line">
-  <span class="tag-line-icon">💡</span> Recommandé pour des joueurs proactifs qui aiment enquêter, savent cacher leur rôle et maîtrisent l'art du bluff.
+  <span class="tag-line-icon">💡</span> Recommandé pour des joueurs & joueuses proactifs qui aiment enquêter, savent cacher leur rôle et maîtrisent l'art du bluff.
 </div>
 
 <p class="script-description">Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, ou est-ce un sbire maléfique qui revient toujours d’entre les morts ?<br>🚨 <strong>Attention</strong> : dans ce script, les Marginaux sont particulièrement redoutables puisqu’eux aussi peuvent revenir à la vie. <br> Si vous en êtes un, gardez impérativement votre rôle secret pour ne pas offrir une cible facile au Shabaloth.</p>
@@ -106,15 +106,99 @@ image: /images/logogold.png
 </div>
 <!-- ================== FIN FICHE SCRIPT : SHABULOUS ================== -->
 
+<!-- ==================== FICHE SCRIPT : CATFISHING ==================== -->
+<div class="script-card">
+<a href="#zoom-catfishing" class="script-preview-link" title="Agrandir la fiche du script">
+  <div class="preview-backdrop-wrapper">
+    <img src="/botc-fr-bambi/images/catfishing.png" alt="Aperçu du script Catfishing" class="script-thumb">
+  </div>
+  <span class="preview-overlay">🔍 Catfishing — Agrandir la fiche</span>
+</a>
+<div class="script-content">
+<h2 class="script-title">Catfishing</h2>
+<div class="script-badges">
+<span class="badge-pill badge-purple">🟣 Niveau intermédiaire</span>
+<span class="badge-pill">✍️ Auteure : Emily</span>
+<span class="badge-pill">👥 8 à 12 joueurs</span>
+</div>
+
+<div class="script-tag-line">
+  <span class="tag-line-icon">💡</span> Idéal pour les joueurs et joueuses ayant déjà joué aux trois modules de base et souhaitant découvrir leurs premiers rôles expérimentaux.
+</div>
+
+<p class="script-description">
+Créé par <strong>Emily</strong>, ce script communautaire devenu incontournable propose une excellente transition vers l'expérimental. Il introduit trois rôles phares du carrousel — l'<strong>Aéronaute</strong>, la <strong>Veuve</strong> et l'<strong>Amnésique</strong> — au sein d'une configuration équilibrée et accessible.
+</p>
+
+<div class="script-downloads">
+<a href="https://github.com/BambiPotato/botc-fr-bambi/releases/download/catfishing/catfishing.pdf" class="btn-action-tab" target="_blank">📄 Fiche PDF à imprimer</a>
+<a href="/botc-fr-bambi/images/catfishing.json" download="catfishing.json" class="btn-action-tab">⚙️ Fichier JSON (App BotC)</a>
+<a href="#zoom-catfishing" class="btn-action-tab">🖼️ Fiche des rôles</a>
+<a href="#zoom-catfishing-nuit" class="btn-action-tab">🌙 Fiche pour Conteur &amp; Conteuse</a>
+</div>
+
+<details class="roles-accordion">
+<summary class="accordion-toggle">📜 Voir la composition des rôles</summary>
+<div class="roles-accordion-inner">
+
+<p class="role-cat-title cat-good">Villageois</p>
+<div class="roles-chips-wrap">
+<a href="/botc-fr-bambi/tb_roles/cuistot.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_chef.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Cuisinier</span></a>
+<a href="/botc-fr-bambi/tb_roles/enqueteur.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_investigator.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Détective</span></a>
+<a href="/botc-fr-bambi/bmr_roles/grandmere.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_grandmother.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Grand-mère</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/balloonist.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_balloonist.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Aéronaute</span></a>
+<a href="/botc-fr-bambi/sv_roles/charmeurdeserpent.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_snakecharmer.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Charmeur de serpents</span></a>
+<a href="/botc-fr-bambi/tb_roles/voyante.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_fortuneteller.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Voyante</span></a>
+<a href="/botc-fr-bambi/sv_roles/reveur.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_dreamer.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Rêveur</span></a>
+<a href="/botc-fr-bambi/bmr_roles/parieur.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_gambler.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Parieur</span></a>
+<a href="/botc-fr-bambi/sv_roles/savant.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_savant.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Savant</span></a>
+<a href="/botc-fr-bambi/sv_roles/philosophe.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_philosopher.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Philosophe</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/cannibal.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_cannibal.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Cannibale</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/amnesiac.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_amnesiac.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Amnésique</span></a>
+<a href="/botc-fr-bambi/tb_roles/gardien.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_ravenkeeper.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Corneille</span></a>
+</div>
+
+<p class="role-cat-title cat-good">Marginaux</p>
+<div class="roles-chips-wrap">
+<a href="/botc-fr-bambi/bmr_roles/lunatique.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_lunatic.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Lunatique</span></a>
+<a href="/botc-fr-bambi/tb_roles/ivrogne.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_drunk.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Ivrogne</span></a>
+<a href="/botc-fr-bambi/tb_roles/reclus.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_recluse.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Recluse</span></a>
+<a href="/botc-fr-bambi/sv_roles/dulcinee.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_sweetheart.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Dulcinée</span></a>
+<a href="/botc-fr-bambi/sv_roles/mutant.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_mutant.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Bête de foire</span></a>
+</div>
+
+<p class="role-cat-title cat-evil">Sbires</p>
+<div class="roles-chips-wrap">
+<a href="/botc-fr-bambi/bmr_roles/parrain.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_godfather.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Parrain</span></a>
+<a href="/botc-fr-bambi/sv_roles/cerenovus.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_cerenovus.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Cérenovus</span></a>
+<a href="/botc-fr-bambi/sv_roles/pithag.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_pithag.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Guenaude</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/widow.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_widow.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Veuve</span></a>
+</div>
+
+<p class="role-cat-title cat-evil">Démons</p>
+<div class="roles-chips-wrap">
+<a href="/botc-fr-bambi/tb_roles/imp.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_imp.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Diablotin</span></a>
+<a href="/botc-fr-bambi/sv_roles/vigormortis.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_vigormortis.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Vigormortis</span></a>
+<a href="/botc-fr-bambi/sv_roles/fanggu.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_fanggu.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Fang Gu</span></a>
+</div>
+
+</div>
+</details>
+
+</div>
+</div>
+<!-- ================== FIN FICHE SCRIPT : CATFISHING ================== -->
+
 </div>
 
 <div style="text-align: center; margin-top: 45px; margin-bottom: 10px;">
-<a href="#" class="btn-top-parchment"><span class="top-arrow-violet">▲</span> Revenir en haut de page</a>
+  <a href="#" class="btn-top-parchment"><span class="top-arrow-violet">▲</span> Revenir en haut de page</a>
 </div>
 
 </div>
 
 <!-- ==================== VISIONNEUSES D'IMAGE GRAND FORMAT AVEC CROIX FIXE ==================== -->
+<!-- SHABULOUS -->
 <div id="zoom-shabulous" class="lightbox-overlay">
 <a href="#close" class="lightbox-close-zone" title="Fermer la vue"></a>
 <a href="#close" class="lightbox-close-btn" title="Fermer">✖</a>
@@ -133,6 +217,29 @@ image: /images/logogold.png
   <input type="checkbox" id="toggle-zoom-nuit" class="lightbox-toggle">
   <label for="toggle-zoom-nuit" class="lightbox-img-wrapper" title="Cliquer pour agrandir / réduire">
     <img src="/botc-fr-bambi/images/shabulous-nuit.png" alt="Fiche de nuit Shabulous" class="lightbox-img">
+  </label>
+</div>
+</div>
+
+<!-- CATFISHING -->
+<div id="zoom-catfishing" class="lightbox-overlay">
+<a href="#close" class="lightbox-close-zone" title="Fermer la vue"></a>
+<a href="#close" class="lightbox-close-btn" title="Fermer">✖</a>
+<div class="lightbox-content">
+  <input type="checkbox" id="toggle-zoom-catfishing" class="lightbox-toggle">
+  <label for="toggle-zoom-catfishing" class="lightbox-img-wrapper" title="Cliquer pour agrandir / réduire">
+    <img src="/botc-fr-bambi/images/catfishing.png" alt="Fiche du script Catfishing" class="lightbox-img">
+  </label>
+</div>
+</div>
+
+<div id="zoom-catfishing-nuit" class="lightbox-overlay">
+<a href="#close" class="lightbox-close-zone" title="Fermer la vue"></a>
+<a href="#close" class="lightbox-close-btn" title="Fermer">✖</a>
+<div class="lightbox-content">
+  <input type="checkbox" id="toggle-zoom-catfishing-nuit" class="lightbox-toggle">
+  <label for="toggle-zoom-catfishing-nuit" class="lightbox-img-wrapper" title="Cliquer pour agrandir / réduire">
+    <img src="/botc-fr-bambi/images/catfishing-nuit.png" alt="Fiche de nuit Catfishing" class="lightbox-img">
   </label>
 </div>
 </div>
@@ -305,6 +412,11 @@ image: /images/logogold.png
   background: rgba(242, 153, 74, 0.18);
   border-color: #f2994a;
   color: #9c5512;
+}
+.badge-purple {
+  background: rgba(155, 81, 224, 0.18);
+  border-color: #9b51e0;
+  color: #6b28a8;
 }
 
 .script-tag-line {
