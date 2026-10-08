@@ -1,0 +1,114 @@
+[
+  {
+    "id": "_meta",
+    "author": "FM Jason & Bambi 🥔",
+    "name": "Okay...But Hear 🙉 Me Out !",
+    "logo": "https://raw.githubusercontent.com/BambiPotato/botc-fr-bambi/main/images/logo-Ok%20But%20Hear%20Me%20Out%20.png",
+    "firstNight": [
+      "dusk",
+      "stormcatcher",
+      "wraith",
+      "philosopher",
+      "minioninfo",
+      "snitch",
+      "demoninfo",
+      "lilmonsta",
+      "wizard",
+      "cerenovus",
+      "fearmonger",
+      "pixie",
+      "amnesiac",
+      "fortuneteller",
+      "noble",
+      "balloonist",
+      "nightwatchman",
+      "highpriestess",
+      "general",
+      "chambermaid",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "wraith",
+      "philosopher",
+      "wizard",
+      "cerenovus",
+      "fearmonger",
+      "lilmonsta",
+      "amnesiac",
+      "fortuneteller",
+      "balloonist",
+      "nightwatchman",
+      "highpriestess",
+      "general",
+      "chambermaid",
+      "dawn"
+    ]
+  },
+  "noble",
+  "pixie",
+  "general",
+  "chambermaid",
+  "balloonist",
+  "fortuneteller",
+  "amnesiac",
+  "nightwatchman",
+  "fisherman",
+  "virgin",
+  "cannibal",
+  "highpriestess",
+  "philosopher",
+  "snitch",
+  "goon",
+  "recluse",
+  {
+    "id": "heretic_rah",
+    "name": "Heretic",
+    "image": [
+      "https://botc.app/assets/heretic_g-DKZZAGQ8.webp",
+      "https://botc.app/assets/heretic_e-EZ4S5b8y.webp"
+    ],
+    "team": "outsider",
+    "edition": "carousel",
+    "ability": "Whoever wins, loses & whoever loses, wins, even if you are dead.",
+    "flavor": "After the hail has smashed the roof and splintered the glass of the Cathedral windows, it melts again into the earth, like a dying lamb in the desert sun. Such is the parable of the madman.",
+    "firstNight": 0,
+    "otherNight": 0,
+    "jinxes": [
+      {
+        "id": "baron",
+        "reason": "Le Baron pourrait ajouter 1 seul Marginal ou 2."
+      },
+      {
+        "id": "godfather",
+        "reason": "Only 1 jinxed character can be in play."
+      },
+      {
+        "id": "lleech",
+        "reason": "Only 1 jinxed character can be in play."
+      },
+      {
+        "id": "pithag",
+        "reason": "Only 1 jinxed character can be in play."
+      },
+      {
+        "id": "spy",
+        "reason": "Only 1 jinxed character can be in play."
+      },
+      {
+        "id": "widow",
+        "reason": "Only 1 jinxed character can be in play."
+      }
+    ]
+  },
+  "drunk",
+  "cerenovus",
+  "baron",
+  "fearmonger",
+  "wraith",
+  "wizard",
+  "lilmonsta",
+  "bootlegger",
+  "stormcatcher",
+  "djinn"
+]
