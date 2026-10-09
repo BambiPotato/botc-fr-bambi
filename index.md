@@ -309,7 +309,7 @@ table.roles-grid{ border-spacing:14px; }
   </h1>
 
   <p style="font-size:20px; color:#e0c99d; font-style:italic; line-height:1.7; margin:0;">
-    « Un wiki communautaire pour jouer et conter en français. »
+    « Un wiki complet pour jouer et conter en français. »
   </p>
 
   <div style="
