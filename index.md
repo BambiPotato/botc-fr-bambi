@@ -311,7 +311,6 @@ table.roles-grid{ border-spacing:14px; }
     « Un wiki complet pour jouer et conter. »
   </p>
 
-</div>
   <div style="
     width:60%;
     height:1px;
