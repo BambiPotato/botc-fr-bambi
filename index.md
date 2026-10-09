@@ -304,14 +304,14 @@ table.roles-grid{ border-spacing:14px; }
 <div style="text-align:center; margin:40px auto 0 auto; max-width:980px; padding:22px 24px; border:1px solid rgba(212,167,106,0.3); border-radius:14px; box-shadow:0 8px 18px rgba(0,0,0,0.28); background-color:rgba(0,0,0,0.45);">
 
   <h1 style="color:#b58b52; font-size:24px; font-weight:600; text-shadow:2px 2px 6px #000; margin:10px 0 20px 0;">
-    Bienvenue sur le Wiki francophone de <br>
-    <span style="color:#d4a76a;">Blood on the Clocktower</span>
+    Bienvenue sur le Wiki <span style="color:#d4a76a;">Blood on the Clocktower</span> en français
   </h1>
 
   <p style="font-size:20px; color:#e0c99d; font-style:italic; line-height:1.7; margin:0;">
-    « Un wiki complet pour jouer et conter en français. »
+    « Un wiki complet pour jouer et conter. »
   </p>
 
+</div>
   <div style="
     width:60%;
     height:1px;
