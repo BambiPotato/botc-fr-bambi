@@ -150,15 +150,15 @@ Instructions au Conteur
 ---
 
 <ul style="margin:0; padding:0; list-style-position:inside; color:#f5f5f5; font-size:18px; line-height:1.7;">
-<li>Votre capacité ne détecte pas directement les joueurs maléfiques : elle détecte les joueurs qui mentent à propos de la capacité de leur rôle.<br>Elle peut donc démasquer aussi bien des joueurs bons que des joueurs maléfiques, car de nombreux joueurs bons ont une raison de ne pas être honnêtes au sujet de leur rôle… du moins au début de la partie.<br>Si vous surprenez quelqu’un en train de mentir, voyez ce qu’il a à dire pour sa défense.<br>Les joueurs bons finiront généralement par révéler leur véritable rôle, tandis que les joueurs maléfiques devront choisir entre inventer un second bluff correspondant à vos informations ou persister dans leur mensonge.</li>
+<li>Votre capacité ne détecte pas directement les joueurs maléfiques : elle détecte les joueurs qui mentent à propos de la capacité de leur rôle.<br>Elle peut donc démasquer aussi bien des joueurs bons que des joueurs maléfiques, car de nombreux joueurs bons ont une raison de ne pas être honnêtes au sujet de leur rôle… du moins au début de la partie.<br>Si vous surprenez quelqu’un en train de mentir, voyez ce qu’il a à dire pour sa défense.<br>Les joueurs bons finiront généralement par révéler leur véritable rôle, tandis que les joueurs maléfiques devront choisir entre inventer un second bluff correspondant à vos informations ou persister dans leur mensonge.</li><br>
 
-<li>Choisissez des joueurs afin de vérifier leurs affirmations.<br>Si quelqu’un prétend être le <a href="./parieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Parieur</a>, il se réveillera chaque nuit : choisissez-le et voyez s’il dit la vérité.<br>Autre exemple : un joueur qui prétend être le <a href="./courtisan.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisan</a> ne se réveillera chaque nuit que jusqu’à ce qu’il ait utilisé sa capacité.<br>S’il affirme l’avoir utilisée, vous pouvez vérifier si c’est vrai en voyant s’il se réveille la nuit suivante !</li>
+<li>Choisissez des joueurs afin de vérifier leurs affirmations.<br>Si quelqu’un prétend être le <a href="./parieur.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Parieur</a>, il se réveillera chaque nuit : choisissez-le et voyez s’il dit la vérité.<br>Autre exemple : un joueur qui prétend être le <a href="./courtisan.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Courtisan</a> ne se réveillera chaque nuit que jusqu’à ce qu’il ait utilisé sa capacité.<br>S’il affirme l’avoir utilisée, vous pouvez vérifier si c’est vrai en voyant s’il se réveille la nuit suivante !</li><br>
 
-<li>Au début de la partie, vous pouvez dire aux joueurs ce que vous savez à leur sujet avant qu’ils n’aient révélé leur rôle.<br>Cela les aidera à vous faire confiance.</li>
+<li>Au début de la partie, vous pouvez dire aux joueurs ce que vous savez à leur sujet avant qu’ils n’aient révélé leur rôle.<br>Cela les aidera à vous faire confiance.</li><br>
 
-<li>Choisissez les mêmes joueurs pendant plusieurs nuits d’affilée.<br>Certains rôles n’agissent pas de manière constante chaque nuit.<br>Par exemple, un <a href="./assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> qui bluffe l’<a href="./aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a> peut se réveiller une nuit lorsque vous le choisissez, ce qui rend son bluff crédible.<br>En revanche, une fois qu’il a utilisé son assassinat, il ne se réveille plus.<br>Le choisir une deuxième nuit permettra donc de révéler son mensonge.</li>
+<li>Choisissez les mêmes joueurs pendant plusieurs nuits d’affilée.<br>Certains rôles n’agissent pas de manière constante chaque nuit.<br>Par exemple, un <a href="./assassin.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Assassin</a> qui bluffe l’<a href="./aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a> peut se réveiller une nuit lorsque vous le choisissez, ce qui rend son bluff crédible.<br>En revanche, une fois qu’il a utilisé son assassinat, il ne se réveille plus.<br>Le choisir une deuxième nuit permettra donc de révéler son mensonge.</li><br>
 
-<li>Trouvez un joueur dont la capacité n’agit pas la nuit, comme le <a href="./fou.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fou du roi</a> ou le <a href="./menestrel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ménestrel</a>.<br>Si vous faites confiance à ce joueur, vous pouvez l’utiliser comme point de référence afin d’examiner attentivement un autre joueur.<br>Puisque le <a href="./fou.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fou du roi</a> ou le <a href="./menestrel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ménestrel</a> vous donneront toujours un résultat de <strong>0</strong>, vous saurez que tout résultat de <strong>1</strong> provient forcément de l’autre joueur que vous avez choisi.<br>Cette méthode est plus lente et vous apporte moins d’informations sur l’ensemble du village, mais elle permet d’obtenir des informations précises et fiables sur un joueur en particulier.</li>
+<li>Trouvez un joueur dont la capacité n’agit pas la nuit, comme le <a href="./fou.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fou du roi</a> ou le <a href="./menestrel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ménestrel</a>.<br>Si vous faites confiance à ce joueur, vous pouvez l’utiliser comme point de référence afin d’examiner attentivement un autre joueur.<br>Puisque le <a href="./fou.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Fou du roi</a> ou le <a href="./menestrel.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ménestrel</a> vous donneront toujours un résultat de <strong>0</strong>, vous saurez que tout résultat de <strong>1</strong> provient forcément de l’autre joueur que vous avez choisi.<br>Cette méthode est plus lente et vous apporte moins d’informations sur l’ensemble du village, mais elle permet d’obtenir des informations précises et fiables sur un joueur en particulier.</li><br>
 
 <li>Choisissez autant de joueurs que possible afin de couvrir un large éventail de situations et d’obtenir un maximum d’informations sur l’ensemble du village.<br>La mort peut survenir à tout moment dans <strong>Bad Moon Rising</strong>, et disposer d’informations variées vous offrira de nombreuses possibilités lorsque vous les comparerez avec celles et les affirmations des autres joueurs.</li>
 </ul>
@@ -168,15 +168,15 @@ Instructions au Conteur
 ---
 
 <ul style="margin:0; padding:0; list-style-position:inside; color:#f5f5f5; font-size:18px; line-height:1.7;">
-<li>Lorsque vous bluffez la Femme de chambre, il y a quelques éléments à garder en tête.</li>
+<li>Lorsque vous bluffez la Femme de chambre, il y a quelques éléments à garder en tête.</li><br>
 
-<li>Si vous découvrez quels joueurs bons possèdent quels rôles, vous pouvez prétendre les avoir choisis et donner des informations correctes sur leurs activités nocturnes.<br>Cela les rendra dignes de confiance, et vous aussi.</li>
+<li>Si vous découvrez quels joueurs bons possèdent quels rôles, vous pouvez prétendre les avoir choisis et donner des informations correctes sur leurs activités nocturnes.<br>Cela les rendra dignes de confiance, et vous aussi.</li><br>
 
-<li>Si vous ne savez pas quels rôles possèdent les joueurs bons, vous pouvez faire preuve d’audace et donner des informations qui ne correspondent pas à leurs activités nocturnes.<br>Par exemple, si vous affirmez avoir choisi deux joueurs qui prétendent être l’<a href="./exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a> et l’<a href="./aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a>, mais que vous dites qu’un seul d’entre eux s’est réveillé, il est probable que l’équipe du Bien se méfie d’abord de ces <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> avant de se méfier de vous.</li>
+<li>Si vous ne savez pas quels rôles possèdent les joueurs bons, vous pouvez faire preuve d’audace et donner des informations qui ne correspondent pas à leurs activités nocturnes.<br>Par exemple, si vous affirmez avoir choisi deux joueurs qui prétendent être l’<a href="./exorciste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Exorciste</a> et l’<a href="./aubergiste.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Aubergiste</a>, mais que vous dites qu’un seul d’entre eux s’est réveillé, il est probable que l’équipe du Bien se méfie d’abord de ces <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a> avant de se méfier de vous.</li><br>
 
-<li>Confirmez les joueurs maléfiques afin de rendre votre équipe plus digne de confiance.<br>Vous pouvez soit écouter les bluffs de vos coéquipiers et donner des informations qui y correspondent, soit annoncer des informations (accompagnées, peut-être, d’un clin d’œil pour le coéquipier un peu lent à comprendre) en espérant que vos alliés comprendront qu’ils doivent revendiquer des rôles compatibles avec vos informations de Femme de chambre.</li>
+<li>Confirmez les joueurs maléfiques afin de rendre votre équipe plus digne de confiance.<br>Vous pouvez soit écouter les bluffs de vos coéquipiers et donner des informations qui y correspondent, soit annoncer des informations (accompagnées, peut-être, d’un clin d’œil pour le coéquipier un peu lent à comprendre) en espérant que vos alliés comprendront qu’ils doivent revendiquer des rôles compatibles avec vos informations de Femme de chambre.</li><br>
 
-<li>Si vous ne savez pas qui est qui, annoncer au groupe que vous avez obtenu un résultat de <strong>1</strong> est plus sûr qu’un <strong>0</strong> ou un <strong>2</strong>.<br>Si vous annoncez un <strong>0</strong> et que l’un des joueurs que vous avez choisis s’est réellement réveillé, il saura que vous mentez.<br>Si vous annoncez un <strong>2</strong> et que l’un des deux joueurs ne s’est pas réveillé, il saura également que vous mentez.<br>En revanche, si vous annoncez un <strong>1</strong>, qu’un joueur se soit réveillé ou non, personne ne pourra savoir si vous mentez ou si vous êtes réellement la Femme de chambre et que c’est l’autre joueur que vous avez choisi qui ment.</li>
+<li>Si vous ne savez pas qui est qui, annoncer au groupe que vous avez obtenu un résultat de <strong>1</strong> est plus sûr qu’un <strong>0</strong> ou un <strong>2</strong>.<br>Si vous annoncez un <strong>0</strong> et que l’un des joueurs que vous avez choisis s’est réellement réveillé, il saura que vous mentez.<br>Si vous annoncez un <strong>2</strong> et que l’un des deux joueurs ne s’est pas réveillé, il saura également que vous mentez.<br>En revanche, si vous annoncez un <strong>1</strong>, qu’un joueur se soit réveillé ou non, personne ne pourra savoir si vous mentez ou si vous êtes réellement la Femme de chambre et que c’est l’autre joueur que vous avez choisi qui ment.</li><br>
 
 <li>Si vous êtes un joueur bon, bluffer la Femme de chambre peut être un bon moyen d’intimider un joueur afin qu’il dise la vérité sur son rôle.<br>Si vous pensez qu’il ment (ou qu’il n’a rien révélé du tout), vous pouvez prétendre savoir s’il s’est réveillé pendant la nuit, ce qui pourra l’inciter à changer de bluff (s’il est maléfique) ou à révéler son véritable rôle (s’il est bon).<br>La Femme de chambre est assez unique grâce à cette capacité de détecter les mensonges, sans pour autant détecter si un joueur est bon ou maléfique.</li>
 </ul> 
@@ -187,14 +187,14 @@ Instructions au Conteur
 ## 🧞 <span style="color:#4ea3ff;">Jinxes liés</span>
 
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:00px;">
   <li>
     🧞
     <img src="../images/Icon_mathematician.png" alt="Mathématicien" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../sv_roles/mathematicien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mathématicien</a> :  
     La
     <a href="../bmr_roles/femmedechambre.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Femme de Chambre</a> 
-    peut détecter si le Mathématicien se réveillera cette nuit.
+    peut détecter si le  <a href="../sv_roles/mathematicien.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Mathématicien</a>  se réveillera cette nuit.
   </li>
 
 </ul>
@@ -202,7 +202,7 @@ Instructions au Conteur
 <hr class="explication">
 
 <p style="text-align:left; font-size:18px; margin-top:20px;">
-   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
-   <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+• <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+• <a href="../villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Villageois</a><br>
+• <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
 </p>
