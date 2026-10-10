@@ -31,76 +31,88 @@ image: /images/logogold.png
 
 <div class="scripts-gallery">
 
+<!-- 1. PIES BAKING -->
 <div class="script-card">
-<a href="#zoom-shabulous" class="script-preview-link" title="Agrandir la fiche du script">
+<a href="#zoom-piesbaking" class="script-preview-link" title="Agrandir la fiche du script">
   <div class="preview-backdrop-wrapper">
-    <img src="/botc-fr-bambi/images/shabulous.png" alt="Aperçu du script Shabulous" class="script-thumb">
+    <img src="/botc-fr-bambi/images/Fiche%20R%C3%B4les%20:%20Pies%20Baking.png" alt="Aperçu du script Pies Baking" class="script-thumb">
   </div>
-  <span class="preview-overlay">🔍 Shabulous — Agrandir la fiche</span>
+  <span class="preview-overlay">🔍 Pies Baking — Agrandir la fiche</span>
 </a>
 <div class="script-content">
-<h2 class="script-title">Shabulous</h2>
+<h2 class="script-title">Pies Baking</h2>
 <div class="script-badges">
-<span class="badge-pill badge-orange">🟠 Niveau avancé</span>
-<span class="badge-pill">✍️ Auteurs : FM Jason &amp; Bambi 🥔</span>
-<span class="badge-pill">👥 9 à 15 joueurs</span>
-<span class="badge-pill">🧞 Jinxes : Docteur de peste x 2</span>
+<span class="badge-pill badge-blue">🔵 Niveau débutant</span>
+<span class="badge-pill">✍️ Auteur : Ryback</span>
+<span class="badge-pill">👥 7 à 13 joueurs</span>
+<span class="badge-pill">🧞 Jinxes : Cannibale &amp; Majordome</span>
 </div>
 
 <div class="script-tag-line" spellcheck="false" data-gramm="false">
-  <span class="tag-line-icon">💡</span> Recommandé pour des joueurs &amp; joueuses proactifs qui aiment enquêter, savent cacher leur rôle et maîtrisent l'art du bluff.
+  <span class="tag-line-icon">💡</span> Recommandé pour les joueurs et joueuses qui ont déjà fait quelques parties du module de base <a href="/botc-fr-bambi/trouble_brewing.html" class="module-link link-tb">Trouble Brewing</a>.
 </div>
 
-<p class="script-description" spellcheck="false" data-gramm="false">Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, ou est-ce un sbire maléfique qui revient toujours d’entre les morts ?<br>🚨 <strong>Attention</strong> : dans ce script, les Marginaux sont particulièrement redoutables puisqu’eux aussi peuvent revenir à la vie. <br> Si vous en êtes un, gardez impérativement votre rôle secret pour ne pas offrir une cible facile au Shabaloth.</p>
+<p class="script-description" spellcheck="false" data-gramm="false">
+Ce script très populaire dans la communauté BotC est un dérivé direct du module <a href="/botc-fr-bambi/trouble_brewing.html" class="module-link link-tb">Trouble Brewing</a> dont il reprend l'immense majorité des rôles.<br><br>
+À la place du <a href="/botc-fr-bambi/tb_roles/enqueteur.html" class="inline-role-link role-link-good">Détective</a> et du <a href="/botc-fr-bambi/tb_roles/croquemort.html" class="inline-role-link role-link-good">Fossoyeur</a>, on inclut trois rôles du <a href="/botc-fr-bambi/experimentaux.html" style="font-weight: bold; background: -webkit-linear-gradient(0deg, #d4a76a, #e6e6fa); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 0px 0px 1px rgba(255,255,255,0.2);">Carrousel</a> : le <a href="/botc-fr-bambi/roles_experimentaux/noble.html" class="inline-role-link role-link-good">Noble</a>, le <a href="/botc-fr-bambi/roles_experimentaux/cannibal.html" class="inline-role-link role-link-good">Cannibale</a>, et la redoutable <a href="/botc-fr-bambi/roles_experimentaux/marionette.html" class="inline-role-link role-link-evil">Marionnette</a>.<br><br>La présence de cette dernière apporte beaucoup de paranoïa : êtes-vous vraiment un Villageois, ou êtes-vous le voisin du Démon à votre insu ?
+</p>
+
 <div class="script-downloads">
-<a href="https://github.com/BambiPotato/botc-fr-bambi/releases/download/v1/shabulous.pdf" class="btn-action-tab" target="_blank">📄 Fiche PDF à imprimer</a>
-<a href="/botc-fr-bambi/images/Shabulous.json" download="Shabulous.json" class="btn-action-tab">⚙️ Fichier JSON (App BotC)</a>
-<a href="#zoom-shabulous" class="btn-action-tab">🖼️ Fiche des rôles</a>
-<a href="#zoom-shabulous-nuit" class="btn-action-tab">🌙 Fiche pour Conteur &amp; Conteuse</a>
+<a href="/botc-fr-bambi/releases/tag/piesbaking" class="btn-action-tab" target="_blank">📄 Fiche PDF à imprimer</a>
+<a href="/botc-fr-bambi/images/Pies%20Baking.json" download="Pies Baking.json" class="btn-action-tab">⚙️ Fichier JSON (App BotC)</a>
+<a href="#zoom-piesbaking" class="btn-action-tab">🖼️ Fiche des rôles</a>
+<a href="#zoom-piesbaking-nuit" class="btn-action-tab">🌙 Fiche pour Conteur &amp; Conteuse</a>
 </div>
+
 <details class="roles-accordion">
 <summary class="accordion-toggle">📜 Voir la composition des rôles</summary>
 <div class="roles-accordion-inner">
+
 <p class="role-cat-title cat-good">Villageois</p>
 <div class="roles-chips-wrap">
-<a href="/botc-fr-bambi/roles_experimentaux/steward.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_steward.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Intendante</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/noble.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_noble.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Noble</span></a>
+<a href="/botc-fr-bambi/tb_roles/cuistot.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_chef.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Cuisinier</span></a>
+<a href="/botc-fr-bambi/tb_roles/lavandiere.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_washerwoman.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Lavandière</span></a>
 <a href="/botc-fr-bambi/tb_roles/bibliothecaire.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_librarian.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Archiviste</span></a>
-<a href="/botc-fr-bambi/roles_experimentaux/shugenja.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_shugenja.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Shugenja</span></a>
-<a href="/botc-fr-bambi/roles_experimentaux/pixie.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_pixie.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Pixie</span></a>
-<a href="/botc-fr-bambi/roles_experimentaux/highpriestess.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_highpriestess.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Grande prêtresse</span></a>
-<a href="/botc-fr-bambi/roles_experimentaux/king.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_king.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Roi</span></a>
+<a href="/botc-fr-bambi/tb_roles/empathique.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_empath.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Empathe</span></a>
 <a href="/botc-fr-bambi/tb_roles/voyante.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_fortuneteller.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Voyante</span></a>
-<a href="/botc-fr-bambi/sv_roles/crieur.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_towncrier.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Crieur public</span></a>
-<a href="/botc-fr-bambi/sv_roles/oracle.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_oracle.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Oracle</span></a>
-<a href="/botc-fr-bambi/sv_roles/savant.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_savant.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Savant</span></a>
-<a href="/botc-fr-bambi/sv_roles/philosophe.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_philosopher.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Philosophe</span></a>
-<a href="/botc-fr-bambi/roles_experimentaux/huntsman.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_huntsman.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Chasseur</span></a>
+<a href="/botc-fr-bambi/tb_roles/moine.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_monk.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Moine</span></a>
+<a href="/botc-fr-bambi/tb_roles/mercenaire.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_slayer.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Pourfendeuse</span></a>
+<a href="/botc-fr-bambi/tb_roles/soldat.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_soldier.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Soldat</span></a>
+<a href="/botc-fr-bambi/tb_roles/gardien.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_ravenkeeper.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Corneille</span></a>
+<a href="/botc-fr-bambi/tb_roles/vierge.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_virgin.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Immaculée</span></a>
 <a href="/botc-fr-bambi/roles_experimentaux/cannibal.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_cannibal.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Cannibale</span></a>
 </div>
+
 <p class="role-cat-title cat-good">Marginaux</p>
 <div class="roles-chips-wrap">
-<a href="/botc-fr-bambi/roles_experimentaux/plaguedoctor.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_plaguedoctor.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Docteur de peste</span></a>
-<a href="/botc-fr-bambi/sv_roles/mutant.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_mutant.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Bête de foire</span></a>
-<a href="/botc-fr-bambi/roles_experimentaux/damsel.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_damsel.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Demoiselle</span></a>
-<a href="/botc-fr-bambi/sv_roles/maladroit.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_klutz.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Maladroit</span></a>
-<a href="/botc-fr-bambi/tb_roles/ivrogne.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_ivrogne.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Ivrogne</span></a>
+<a href="/botc-fr-bambi/tb_roles/majordome.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_butler.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Majordome</span></a>
+<a href="/botc-fr-bambi/tb_roles/saint.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_saint.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Saint</span></a>
+<a href="/botc-fr-bambi/tb_roles/reclus.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_recluse.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Recluse</span></a>
+<a href="/botc-fr-bambi/tb_roles/ivrogne.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_drunk.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Ivrogne</span></a>
 </div>
+
 <p class="role-cat-title cat-evil">Sbires</p>
 <div class="roles-chips-wrap">
 <a href="/botc-fr-bambi/tb_roles/empoisonneur.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_poisoner.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Empoisonneur</span></a>
-<a href="/botc-fr-bambi/sv_roles/cerenovus.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_cerenovus.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Cérenovus</span></a>
+<a href="/botc-fr-bambi/tb_roles/espion.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_spy.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Espionne</span></a>
 <a href="/botc-fr-bambi/tb_roles/baron.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_baron.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Baron</span></a>
-<a href="/botc-fr-bambi/roles_experimentaux/mezepheles.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_mezepheles.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Mezepheles</span></a>
 <a href="/botc-fr-bambi/tb_roles/femmeecarlate.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_scarletwoman.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Femme écarlate</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/marionette.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_marionette.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Marionnette</span></a>
 </div>
+
 <p class="role-cat-title cat-evil">Démon</p>
 <div class="roles-chips-wrap">
-<a href="/botc-fr-bambi/bmr_roles/shabaloth.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_shabaloth.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Shabaloth</span></a>
+<a href="/botc-fr-bambi/tb_roles/imp.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_imp.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Diablotin</span></a>
 </div>
+
 </div>
 </details>
+
 </div>
 </div>
+
+<!-- 2. CATFISHING -->
 <div class="script-card">
 <a href="#zoom-catfishing" class="script-preview-link" title="Agrandir la fiche du script">
   <div class="preview-backdrop-wrapper">
@@ -181,6 +193,8 @@ Ce script créé par <strong>Emily</strong> est devenu incontournable dans la co
 
 </div>
 </div>
+
+<!-- 3. OK... BUT HEAR ME OUT ! -->
 <div class="script-card">
 <a href="#zoom-okbuthearmeout" class="script-preview-link" title="Agrandir la fiche du script">
   <div class="preview-backdrop-wrapper">
@@ -264,6 +278,80 @@ Ce script hautement expérimental intègre plusieurs particularités :<br>
 
 </div>
 </div>
+
+<!-- 4. SHABULOUS -->
+<div class="script-card">
+<a href="#zoom-shabulous" class="script-preview-link" title="Agrandir la fiche du script">
+  <div class="preview-backdrop-wrapper">
+    <img src="/botc-fr-bambi/images/shabulous.png" alt="Aperçu du script Shabulous" class="script-thumb">
+  </div>
+  <span class="preview-overlay">🔍 Shabulous — Agrandir la fiche</span>
+</a>
+<div class="script-content">
+<h2 class="script-title">Shabulous</h2>
+<div class="script-badges">
+<span class="badge-pill badge-orange">🟠 Niveau avancé</span>
+<span class="badge-pill">✍️ Auteurs : FM Jason &amp; Bambi 🥔</span>
+<span class="badge-pill">👥 9 à 15 joueurs</span>
+<span class="badge-pill">🧞 Jinxes : Docteur de peste x 2</span>
+</div>
+
+<div class="script-tag-line" spellcheck="false" data-gramm="false">
+  <span class="tag-line-icon">💡</span> Recommandé pour des joueurs &amp; joueuses proactifs qui aiment enquêter, savent cacher leur rôle et maîtrisent l'art du bluff.
+</div>
+
+<p class="script-description" spellcheck="false" data-gramm="false">Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, ou est-ce un sbire maléfique qui revient toujours d’entre les morts ?<br>🚨 <strong>Attention</strong> : dans ce script, les Marginaux sont particulièrement redoutables puisqu’eux aussi peuvent revenir à la vie. <br> Si vous en êtes un, gardez impérativement votre rôle secret pour ne pas offrir une cible facile au Shabaloth.</p>
+<div class="script-downloads">
+<a href="https://github.com/BambiPotato/botc-fr-bambi/releases/download/v1/shabulous.pdf" class="btn-action-tab" target="_blank">📄 Fiche PDF à imprimer</a>
+<a href="/botc-fr-bambi/images/Shabulous.json" download="Shabulous.json" class="btn-action-tab">⚙️ Fichier JSON (App BotC)</a>
+<a href="#zoom-shabulous" class="btn-action-tab">🖼️ Fiche des rôles</a>
+<a href="#zoom-shabulous-nuit" class="btn-action-tab">🌙 Fiche pour Conteur &amp; Conteuse</a>
+</div>
+<details class="roles-accordion">
+<summary class="accordion-toggle">📜 Voir la composition des rôles</summary>
+<div class="roles-accordion-inner">
+<p class="role-cat-title cat-good">Villageois</p>
+<div class="roles-chips-wrap">
+<a href="/botc-fr-bambi/roles_experimentaux/steward.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_steward.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Intendante</span></a>
+<a href="/botc-fr-bambi/tb_roles/bibliothecaire.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_librarian.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Archiviste</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/shugenja.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_shugenja.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Shugenja</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/pixie.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_pixie.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Pixie</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/highpriestess.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_highpriestess.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Grande prêtresse</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/king.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_king.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Roi</span></a>
+<a href="/botc-fr-bambi/tb_roles/voyante.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_fortuneteller.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Voyante</span></a>
+<a href="/botc-fr-bambi/sv_roles/crieur.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_towncrier.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Crieur public</span></a>
+<a href="/botc-fr-bambi/sv_roles/oracle.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_oracle.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Oracle</span></a>
+<a href="/botc-fr-bambi/sv_roles/savant.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_savant.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Savant</span></a>
+<a href="/botc-fr-bambi/sv_roles/philosophe.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_philosopher.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Philosophe</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/huntsman.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_huntsman.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Chasseur</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/cannibal.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_cannibal.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Cannibale</span></a>
+</div>
+<p class="role-cat-title cat-good">Marginaux</p>
+<div class="roles-chips-wrap">
+<a href="/botc-fr-bambi/roles_experimentaux/plaguedoctor.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_plaguedoctor.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Docteur de peste</span></a>
+<a href="/botc-fr-bambi/sv_roles/mutant.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_mutant.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Bête de foire</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/damsel.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_damsel.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Demoiselle</span></a>
+<a href="/botc-fr-bambi/sv_roles/maladroit.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_klutz.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Maladroit</span></a>
+<a href="/botc-fr-bambi/tb_roles/ivrogne.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_ivrogne.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Ivrogne</span></a>
+</div>
+<p class="role-cat-title cat-evil">Sbires</p>
+<div class="roles-chips-wrap">
+<a href="/botc-fr-bambi/tb_roles/empoisonneur.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_poisoner.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Empoisonneur</span></a>
+<a href="/botc-fr-bambi/sv_roles/cerenovus.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_cerenovus.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Cérenovus</span></a>
+<a href="/botc-fr-bambi/tb_roles/baron.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_baron.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Baron</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/mezepheles.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_mezepheles.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Mezepheles</span></a>
+<a href="/botc-fr-bambi/tb_roles/femmeecarlate.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_scarletwoman.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Femme écarlate</span></a>
+</div>
+<p class="role-cat-title cat-evil">Démon</p>
+<div class="roles-chips-wrap">
+<a href="/botc-fr-bambi/bmr_roles/shabaloth.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_shabaloth.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Shabaloth</span></a>
+</div>
+</div>
+</details>
+</div>
+</div>
+
+<!-- 5. RIDE THE CYCLONE -->
 <div class="script-card">
 <a href="#zoom-ridethecyclone" class="script-preview-link" title="Agrandir la fiche du script">
   <div class="preview-backdrop-wrapper">
@@ -341,7 +429,8 @@ Tandis que le bien doit coopérer pour identifier les sbires et décider qui sac
 
 </div>
 </div>
-</div>
+
+</div> <!-- FIN DE LA GALERIE -->
 
 <div style="text-align: center; margin-top: 45px; margin-bottom: 10px;">
   <a href="#" class="btn-top-parchment"><span class="top-arrow-violet">▲</span> Revenir en haut de page</a>
@@ -349,24 +438,29 @@ Tandis que le bien doit coopérer pour identifier les sbires et décider qui sac
 
 </div>
 
-<div id="zoom-shabulous" class="lightbox-overlay">
+
+<!-- ============================================== -->
+<!-- LES BOÎTES DE ZOOM (Même ordre que les cartes) -->
+<!-- ============================================== -->
+
+<div id="zoom-piesbaking" class="lightbox-overlay">
 <a href="#close" class="lightbox-close-zone" title="Fermer la vue"></a>
 <a href="#close" class="lightbox-close-btn" title="Fermer">✖</a>
 <div class="lightbox-content">
-  <input type="checkbox" id="toggle-zoom-shab" class="lightbox-toggle">
-  <label for="toggle-zoom-shab" class="lightbox-img-wrapper" title="Cliquer pour agrandir / réduire">
-    <img src="/botc-fr-bambi/images/shabulous.png" alt="Fiche du script Shabulous" class="lightbox-img">
+  <input type="checkbox" id="toggle-zoom-pies" class="lightbox-toggle">
+  <label for="toggle-zoom-pies" class="lightbox-img-wrapper" title="Cliquer pour agrandir / réduire">
+    <img src="/botc-fr-bambi/images/Fiche%20R%C3%B4les%20:%20Pies%20Baking.png" alt="Fiche du script Pies Baking" class="lightbox-img">
   </label>
 </div>
 </div>
 
-<div id="zoom-shabulous-nuit" class="lightbox-overlay">
+<div id="zoom-piesbaking-nuit" class="lightbox-overlay">
 <a href="#close" class="lightbox-close-zone" title="Fermer la vue"></a>
 <a href="#close" class="lightbox-close-btn" title="Fermer">✖</a>
 <div class="lightbox-content">
-  <input type="checkbox" id="toggle-zoom-nuit" class="lightbox-toggle">
-  <label for="toggle-zoom-nuit" class="lightbox-img-wrapper" title="Cliquer pour agrandir / réduire">
-    <img src="/botc-fr-bambi/images/shabulous-nuit.png" alt="Fiche de nuit Shabulous" class="lightbox-img">
+  <input type="checkbox" id="toggle-zoom-pies-nuit" class="lightbox-toggle">
+  <label for="toggle-zoom-pies-nuit" class="lightbox-img-wrapper" title="Cliquer pour agrandir / réduire">
+    <img src="/botc-fr-bambi/images/Fiche%20Conteur%20:%20Pies%20Baking%20-%20ordre%20de%20nuit.png" alt="Fiche de nuit Pies Baking" class="lightbox-img">
   </label>
 </div>
 </div>
@@ -411,6 +505,28 @@ Tandis que le bien doit coopérer pour identifier les sbires et décider qui sac
   <input type="checkbox" id="toggle-zoom-okbut-nuit" class="lightbox-toggle">
   <label for="toggle-zoom-okbut-nuit" class="lightbox-img-wrapper" title="Cliquer pour agrandir / réduire">
     <img src="/botc-fr-bambi/Ok.but.hear.meo.ut-nuit.png" alt="Fiche de nuit Ok... But Hear Me Out !" class="lightbox-img">
+  </label>
+</div>
+</div>
+
+<div id="zoom-shabulous" class="lightbox-overlay">
+<a href="#close" class="lightbox-close-zone" title="Fermer la vue"></a>
+<a href="#close" class="lightbox-close-btn" title="Fermer">✖</a>
+<div class="lightbox-content">
+  <input type="checkbox" id="toggle-zoom-shab" class="lightbox-toggle">
+  <label for="toggle-zoom-shab" class="lightbox-img-wrapper" title="Cliquer pour agrandir / réduire">
+    <img src="/botc-fr-bambi/images/shabulous.png" alt="Fiche du script Shabulous" class="lightbox-img">
+  </label>
+</div>
+</div>
+
+<div id="zoom-shabulous-nuit" class="lightbox-overlay">
+<a href="#close" class="lightbox-close-zone" title="Fermer la vue"></a>
+<a href="#close" class="lightbox-close-btn" title="Fermer">✖</a>
+<div class="lightbox-content">
+  <input type="checkbox" id="toggle-zoom-nuit" class="lightbox-toggle">
+  <label for="toggle-zoom-nuit" class="lightbox-img-wrapper" title="Cliquer pour agrandir / réduire">
+    <img src="/botc-fr-bambi/images/shabulous-nuit.png" alt="Fiche de nuit Shabulous" class="lightbox-img">
   </label>
 </div>
 </div>
@@ -621,6 +737,11 @@ Tandis que le bien doit coopérer pour identifier les sbires et décider qui sac
   font-size: 13px;
   font-weight: bold;
   color: #5C2E1F;
+}
+.badge-blue {
+  background: rgba(47, 128, 237, 0.12);
+  border-color: #2f80ed;
+  color: #1754a3;
 }
 .badge-orange {
   background: rgba(242, 153, 74, 0.18);
