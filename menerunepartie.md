@@ -152,8 +152,9 @@ Tapotez deux fois le genou de la <a href="./tb_roles/gardien.html" style="color:
 <strong>PENDANT LA PHASE DE JOUR</strong>, les joueurs discutent entre eux. Ils peuvent comploter, mentir, partager des informations, ou rester silencieux et tenter de comprendre qui est qui. Ils votent ensuite pour déterminer qui sera exécuté. Il s’agit de la partie principale du jeu, largement prise en charge par les joueurs eux-mêmes.
 </p>
 
-<h4 style="color:#e0c99d;"><span id="discussions">DISCUSSIONS</span></h4>
-<hr class="explication">
+
+<h4 style="color:#e0c99d;"><span id="discussions">LES PHASES DE DISCUSSION</span></h4>
+
 
 <p class="botc-flavour-text dropcap" style="margin:0; font-size:20px; line-height:1.8;">
 <strong>POUR COMMENCER, LAISSEZ SIMPLEMENT LES JOUEURS DISCUTER ENTRE EUX.</strong> Vous avez très peu de choses à faire à ce stade. Les joueurs peuvent dire ce qu’ils veulent, ou ne rien dire du tout.<br><br>
@@ -165,6 +166,7 @@ Les joueurs peuvent s’adresser au groupe, chuchoter entre eux, ou même quitte
 <strong>DES QUESTIONS ?</strong> Même si vous avez lu les règles principales lors de la mise en place, il est normal que certains joueurs vous posent des questions. Contrairement à d’autres jeux, BOTC ne demande pas à tous les joueurs de connaître toutes les règles avant de jouer. Nous privilégions la participation : soyez donc aussi disponible que possible face aux questions des joueurs. Si vous ne connaissez pas la réponse à une question générale, consultez le <a href="./glossaire.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">GLOSSAIRE</a>. Si la question concerne un rôle précis, reportez-vous à l’entrée dans l’almanach des rôles correspondant.<br><br>
 Vous pouvez répondre aux questions publiquement, afin que tout le groupe en profite, ou en privé. Les joueurs qui ont des questions sur la capacité de leur rôle préféreront parfois vous parler à l’écart, afin que personne ne sache qui ils incarnent ni ce qu’ils ont demandé.
 </div>
+
 
 <h4 style="color:#e0c99d;"><span id="nominations-et-votes">NOMINATIONS ET VOTES</span></h4>
 <hr class="explication">
