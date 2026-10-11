@@ -31,85 +31,28 @@ image: /images/logogold.png
 
 <div class="scripts-gallery">
 
-<div class="script-card">
-<a href="#zoom-piesbaking" class="script-preview-link" title="Agrandir la fiche du script">
-  <div class="preview-backdrop-wrapper">
-    <img src="/botc-fr-bambi/images/Pies Baking.png" alt="Aperçu du script Pies Baking" class="script-thumb">
-  </div>
-  <span class="preview-overlay">🔍 Pies Baking — Agrandir la fiche</span>
-</a>
-<div class="script-content">
-<h2 class="script-title">Pies Baking</h2>
-<div class="script-badges">
-<span class="badge-pill badge-blue">🔵 Niveau débutant</span>
-<span class="badge-pill">✍️ Auteur : Ryback</span>
-<span class="badge-pill">👥 7 à 13 joueurs</span>
-<span class="badge-pill">🧞 Jinx : Cannibale x 1</span>
-</div>
-
-<div class="script-tag-line" spellcheck="false" data-gramm="false">
-  <span class="tag-line-icon">💡</span> Recommandé pour les joueurs et joueuses qui ont déjà fait quelques parties du module de base <a href="/botc-fr-bambi/trouble_brewing.html" class="module-link link-tb">Trouble Brewing</a>.
-</div>
-
-<p class="script-description" spellcheck="false" data-gramm="false">
-Ce script très populaire dans la communauté BotC est un dérivé direct du module <a href="/botc-fr-bambi/trouble_brewing.html" class="module-link link-tb">Trouble Brewing</a> dont il reprend l'immense majorité des rôles.<br><br>
-À la place du <a href="/botc-fr-bambi/tb_roles/enqueteur.html" class="inline-role-link role-link-good">Détective</a> et du <a href="/botc-fr-bambi/tb_roles/croquemort.html" class="inline-role-link role-link-good">Fossoyeur</a>, on inclut trois rôles du <strong style="color: #d4a76a;">Carrousel</strong> : le <a href="/botc-fr-bambi/roles_experimentaux/noble.html" class="inline-role-link role-link-good">Noble</a>, le <a href="/botc-fr-bambi/roles_experimentaux/cannibal.html" class="inline-role-link role-link-good">Cannibale</a>, et la redoutable <a href="/botc-fr-bambi/roles_experimentaux/marionette.html" class="inline-role-link role-link-evil">Marionnette</a>.<br><br>La présence de cette dernière apporte beaucoup de paranoïa : êtes-vous vraiment un Villageois, ou êtes-vous le voisin du Démon à votre insu ?
-</p>
-
-<div class="script-downloads">
-<a href="/botc-fr-bambi/releases/tag/piesbaking" class="btn-action-tab" target="_blank">📄 Fiche PDF à imprimer</a>
-<a href="/botc-fr-bambi/images/Pies Baking.json" download="Pies Baking.json" class="btn-action-tab">⚙️ Fichier JSON (App BotC)</a>
-<a href="#zoom-piesbaking" class="btn-action-tab">🖼️ Fiche des rôles</a>
-<a href="#zoom-piesbaking-nuit" class="btn-action-tab">🌙 Fiche pour Conteur &amp; Conteuse</a>
-</div>
-
-<details class="roles-accordion">
-<summary class="accordion-toggle">📜 Voir la composition des rôles</summary>
-<div class="roles-accordion-inner">
-
-<p class="role-cat-title cat-good">Villageois</p>
-<div class="roles-chips-wrap">
-<a href="/botc-fr-bambi/roles_experimentaux/noble.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_noble.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Noble</span></a>
-<a href="/botc-fr-bambi/tb_roles/cuistot.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_chef.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Cuisinier</span></a>
-<a href="/botc-fr-bambi/tb_roles/lavandiere.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_washerwoman.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Lavandière</span></a>
-<a href="/botc-fr-bambi/tb_roles/bibliothecaire.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_librarian.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Archiviste</span></a>
-<a href="/botc-fr-bambi/tb_roles/empathique.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_empath.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Empathe</span></a>
-<a href="/botc-fr-bambi/tb_roles/voyante.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_fortuneteller.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Voyante</span></a>
-<a href="/botc-fr-bambi/tb_roles/moine.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_monk.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Moine</span></a>
-<a href="/botc-fr-bambi/tb_roles/mercenaire.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_slayer.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Pourfendeuse</span></a>
-<a href="/botc-fr-bambi/tb_roles/soldat.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_soldier.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Soldat</span></a>
-<a href="/botc-fr-bambi/tb_roles/gardien.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_ravenkeeper.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Corneille</span></a>
-<a href="/botc-fr-bambi/tb_roles/vierge.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_virgin.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Immaculée</span></a>
-<a href="/botc-fr-bambi/roles_experimentaux/cannibal.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_cannibal.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Cannibale</span></a>
-</div>
-
-<p class="role-cat-title cat-good">Marginaux</p>
-<div class="roles-chips-wrap">
-<a href="/botc-fr-bambi/tb_roles/majordome.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_butler.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Majordome</span></a>
-<a href="/botc-fr-bambi/tb_roles/saint.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_saint.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Saint</span></a>
-<a href="/botc-fr-bambi/tb_roles/reclus.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_recluse.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Recluse</span></a>
-<a href="/botc-fr-bambi/tb_roles/ivrogne.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_drunk.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Ivrogne</span></a>
-</div>
-
-<p class="role-cat-title cat-evil">Sbires</p>
-<div class="roles-chips-wrap">
-<a href="/botc-fr-bambi/tb_roles/empoisonneur.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_poisoner.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Empoisonneur</span></a>
-<a href="/botc-fr-bambi/tb_roles/espion.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_spy.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Espionne</span></a>
-<a href="/botc-fr-bambi/tb_roles/baron.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_baron.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Baron</span></a>
-<a href="/botc-fr-bambi/tb_roles/femmeecarlate.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_scarletwoman.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Femme écarlate</span></a>
-<a href="/botc-fr-bambi/roles_experimentaux/marionette.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_marionette.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Marionnette</span></a>
-</div>
-
-<p class="role-cat-title cat-evil">Démon</p>
-<div class="roles-chips-wrap">
-<a href="/botc-fr-bambi/tb_roles/imp.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_imp.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Diablotin</span></a>
-</div>
-
-</div>
-</details>
-
+<div id="zoom-piesbaking" class="lightbox-overlay">
+<a href="#close" class="lightbox-close-zone" title="Fermer la vue"></a>
+<a href="#close" class="lightbox-close-btn" title="Fermer">✖</a>
+<div class="lightbox-content">
+  <input type="checkbox" id="toggle-zoom-pies" class="lightbox-toggle">
+  <label for="toggle-zoom-pies" class="lightbox-img-wrapper" title="Cliquer pour agrandir / réduire">
+    <img src="/botc-fr-bambi/images/Pies Baking.png" alt="Fiche du script Pies Baking" class="lightbox-img">
+  </label>
 </div>
 </div>
+
+<div id="zoom-piesbaking-nuit" class="lightbox-overlay">
+<a href="#close" class="lightbox-close-zone" title="Fermer la vue"></a>
+<a href="#close" class="lightbox-close-btn" title="Fermer">✖</a>
+<div class="lightbox-content">
+  <input type="checkbox" id="toggle-zoom-pies-nuit" class="lightbox-toggle">
+  <label for="toggle-zoom-pies-nuit" class="lightbox-img-wrapper" title="Cliquer pour agrandir / réduire">
+    <img src="/botc-fr-bambi/images/Pies Baking - ordre de nuit.png" alt="Fiche de nuit Pies Baking" class="lightbox-img">
+  </label>
+</div>
+</div>
+
 
 <!-- 2. CATFISHING -->
 <div class="script-card">
