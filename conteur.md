@@ -89,7 +89,7 @@ image: /images/logogold.png
   Vous devriez souvent déplacer des jetons (par exemple quand une 
   <a href="./tb_roles/mercenaire.html" style="color:blue;">Pourfendeuse</a> ou un 
   <a href="./sv_roles/jongleur.html" style="color:blue;">Jongleur</a> agit).
-  Quand un joueurmMaléfique bluffe en prétendant être l’un ou l’une d’entre eux, 
+  Quand un joueur maléfique bluffe en prétendant être l’un ou l’une d’entre eux, 
   <strong>faites semblant</strong> de manipuler les mêmes jetons. Ainsi, même les joueurs experts ne pourront pas déceler un bluff à vos gestes.
 </p>
 
