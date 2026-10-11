@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Collection de scripts personnalisés"
-description: "Découvrez une collection de scripts pour Blood on the Clocktower aux designs thématiques : fiches, JSON, images et PDF prêts à être téléchargés et imprimés."
+description: "Découvrez notre sélection de scripts personnalisés, testés et approuvés par la communauté. Que vous découvriez le jeu ou que vous soyez déjà passionné, retrouvez nos fiches, JSON et PDF prêts à être téléchargés pour vos prochaines parties !"
 image: /images/logogold.png
 ---
 
