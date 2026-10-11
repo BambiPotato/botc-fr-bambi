@@ -92,10 +92,11 @@ Tout le monde ferme les yeux. Le Conteur réveille certaines personnes pour qu�
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-bottom:6px;"><strong>Signaux utilisés par le Conteur :</strong></p>
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>✌️ Deux tapotements sur l’épaule ou le genou = <strong>Ouvrez les yeux</strong></li>
-  <li>✊ Poing fermé = <strong>Fermez les yeux</strong></li>
-  <li>👍 ou 👎 = <strong>Oui</strong> / <strong>Non</strong></li>
+  <li>✋🏻 Mettre la main devant les yeux = <strong>Rendormir un joueur pendant la nuit</strong></li> 
+  <li>🙂‍↕️ Hocher la tête = <strong>Oui</strong></li>
+  <li>🙂‍↔️ Secouer la tête = <strong>Non</strong></li>
   <li>👍 ou 👎 = <strong><a href="glossaire.html" style="color:#80aee0; font-weight:bold; text-decoration:none;">Bon</a></strong> / <strong><a href="glossaire.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Maléfique</a></strong></li>
-  <li>✋ Doigts levés = <strong>0, 1, 2, 3…</strong></li>
+  <li>✌🏻 Doigts levés = <strong>0, 1, 2, 3…</strong></li>
   <li>👉 Doigt pointé = <strong>Choisir une personne</strong></li>
 </ul>
 
