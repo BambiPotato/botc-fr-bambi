@@ -912,8 +912,8 @@ table.roles-grid{ border-spacing:14px; }
     justify-content: flex-start;
     flex-wrap: wrap;
     gap: 30px;
-    margin: 26px 0 12px 0; /* plus de centrage automatique */
-    width: 100%; /* prend toute la largeur comme les autres blocs */
+    margin: 26px 0 12px 0;
+    width: 100%;
 }
 
   .home-card {
@@ -922,7 +922,7 @@ table.roles-grid{ border-spacing:14px; }
     border-radius: 14px;
     overflow: hidden;
     border: 1px solid rgba(181,139,82,0.28);
-   background: rgba(0,0,0,0.45); /* voile plus opaque */
+    background: rgba(0,0,0,0.45);
     box-shadow: 0 6px 18px rgba(0,0,0,0.28);
     transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease, background .18s ease;
     width: 100%;
@@ -948,7 +948,7 @@ table.roles-grid{ border-spacing:14px; }
 
   .home-card .home-title {
     display: block;
-    padding: 10px 10px 12px 10px;
+    padding: 10px 10px 4px 10px;
     color: #b58b52;
     font-weight: 700;
     font-size: 20px;
@@ -956,15 +956,14 @@ table.roles-grid{ border-spacing:14px; }
     letter-spacing: .2px;
   }
 
-  .badge-pending {
-    display: inline-block;
-    margin: 4px 0 12px 0;
-    padding: 2px 8px;
-    font-size: 12px;
-    color: #d4a76a;
-    border: 1px solid rgba(212,167,106,0.45);
-    border-radius: 999px;
-    opacity: .85;
+  /* Nouveau style pour la description de la carte */
+  .home-card .home-desc {
+    display: block;
+    padding: 0 12px 14px 12px;
+    color: #e0c99d;
+    font-size: 13.5px;
+    line-height: 1.4;
+    font-style: italic;
   }
 </style>
 
@@ -984,15 +983,14 @@ table.roles-grid{ border-spacing:14px; }
 <div class="scripts-grid">
 
   <!-- Scripts personnalisés -->
-  <a class="home-card" href="#" onclick="return false;" aria-label="Scripts personnalisés">
-    <img src="./images/Icon_mezepheles.png" alt="Scripts personnalisés" style="opacity:.9;">
-    <span class="home-title">Scripts personnalisés</span>
-    <span class="badge-pending">à venir</span>
+  <a class="home-card" href="/botc-fr-bambi/scripts.html" aria-label="Collection de scripts personnalisés">
+    <img src="./images/Icon_mezepheles.png" alt="Collection de scripts personnalisés" style="opacity:.9;">
+    <span class="home-title">Collection de scripts personnalisés</span>
+    <span class="home-desc">Sélection de scripts testés et expérimentés avec illustration.</span>
   </a>
 
 </div>
 <!-- ====== /SCRIPTS PERSONNALISÉS ====== -->
-
 
 <div style="
   width:100%;
