@@ -31,11 +31,10 @@ image: /images/logogold.png
 
 <div class="scripts-gallery">
 
-<!-- 1. PIES BAKING -->
 <div class="script-card">
 <a href="#zoom-piesbaking" class="script-preview-link" title="Agrandir la fiche du script">
   <div class="preview-backdrop-wrapper">
-    <img src="/botc-fr-bambi/images/Fiche%20R%C3%B4les%20:%20Pies%20Baking.png" alt="Aperçu du script Pies Baking" class="script-thumb">
+    <img src="/botc-fr-bambi/images/Pies Baking.png" alt="Aperçu du script Pies Baking" class="script-thumb">
   </div>
   <span class="preview-overlay">🔍 Pies Baking — Agrandir la fiche</span>
 </a>
@@ -45,7 +44,7 @@ image: /images/logogold.png
 <span class="badge-pill badge-blue">🔵 Niveau débutant</span>
 <span class="badge-pill">✍️ Auteur : Ryback</span>
 <span class="badge-pill">👥 7 à 13 joueurs</span>
-<span class="badge-pill">🧞 Jinxes : Cannibale &amp; Majordome</span>
+<span class="badge-pill">🧞 Jinx : Cannibale x 1</span>
 </div>
 
 <div class="script-tag-line" spellcheck="false" data-gramm="false">
@@ -54,12 +53,12 @@ image: /images/logogold.png
 
 <p class="script-description" spellcheck="false" data-gramm="false">
 Ce script très populaire dans la communauté BotC est un dérivé direct du module <a href="/botc-fr-bambi/trouble_brewing.html" class="module-link link-tb">Trouble Brewing</a> dont il reprend l'immense majorité des rôles.<br><br>
-À la place du <a href="/botc-fr-bambi/tb_roles/enqueteur.html" class="inline-role-link role-link-good">Détective</a> et du <a href="/botc-fr-bambi/tb_roles/croquemort.html" class="inline-role-link role-link-good">Fossoyeur</a>, on inclut trois rôles du <a href="/botc-fr-bambi/experimentaux.html" style="font-weight: bold; background: -webkit-linear-gradient(0deg, #d4a76a, #e6e6fa); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 0px 0px 1px rgba(255,255,255,0.2);">Carrousel</a> : le <a href="/botc-fr-bambi/roles_experimentaux/noble.html" class="inline-role-link role-link-good">Noble</a>, le <a href="/botc-fr-bambi/roles_experimentaux/cannibal.html" class="inline-role-link role-link-good">Cannibale</a>, et la redoutable <a href="/botc-fr-bambi/roles_experimentaux/marionette.html" class="inline-role-link role-link-evil">Marionnette</a>.<br><br>La présence de cette dernière apporte beaucoup de paranoïa : êtes-vous vraiment un Villageois, ou êtes-vous le voisin du Démon à votre insu ?
+À la place du <a href="/botc-fr-bambi/tb_roles/enqueteur.html" class="inline-role-link role-link-good">Détective</a> et du <a href="/botc-fr-bambi/tb_roles/croquemort.html" class="inline-role-link role-link-good">Fossoyeur</a>, on inclut trois rôles du <strong style="color: #d4a76a;">Carrousel</strong> : le <a href="/botc-fr-bambi/roles_experimentaux/noble.html" class="inline-role-link role-link-good">Noble</a>, le <a href="/botc-fr-bambi/roles_experimentaux/cannibal.html" class="inline-role-link role-link-good">Cannibale</a>, et la redoutable <a href="/botc-fr-bambi/roles_experimentaux/marionette.html" class="inline-role-link role-link-evil">Marionnette</a>.<br><br>La présence de cette dernière apporte beaucoup de paranoïa : êtes-vous vraiment un Villageois, ou êtes-vous le voisin du Démon à votre insu ?
 </p>
 
 <div class="script-downloads">
 <a href="/botc-fr-bambi/releases/tag/piesbaking" class="btn-action-tab" target="_blank">📄 Fiche PDF à imprimer</a>
-<a href="/botc-fr-bambi/images/Pies%20Baking.json" download="Pies Baking.json" class="btn-action-tab">⚙️ Fichier JSON (App BotC)</a>
+<a href="/botc-fr-bambi/images/Pies Baking.json" download="Pies Baking.json" class="btn-action-tab">⚙️ Fichier JSON (App BotC)</a>
 <a href="#zoom-piesbaking" class="btn-action-tab">🖼️ Fiche des rôles</a>
 <a href="#zoom-piesbaking-nuit" class="btn-action-tab">🌙 Fiche pour Conteur &amp; Conteuse</a>
 </div>
@@ -449,7 +448,7 @@ Tandis que le bien doit coopérer pour identifier les sbires et décider qui sac
 <div class="lightbox-content">
   <input type="checkbox" id="toggle-zoom-pies" class="lightbox-toggle">
   <label for="toggle-zoom-pies" class="lightbox-img-wrapper" title="Cliquer pour agrandir / réduire">
-    <img src="/botc-fr-bambi/images/Fiche%20R%C3%B4les%20:%20Pies%20Baking.png" alt="Fiche du script Pies Baking" class="lightbox-img">
+    <img src="/botc-fr-bambi/images/Pies Baking.png" alt="Fiche du script Pies Baking" class="lightbox-img">
   </label>
 </div>
 </div>
@@ -460,10 +459,11 @@ Tandis que le bien doit coopérer pour identifier les sbires et décider qui sac
 <div class="lightbox-content">
   <input type="checkbox" id="toggle-zoom-pies-nuit" class="lightbox-toggle">
   <label for="toggle-zoom-pies-nuit" class="lightbox-img-wrapper" title="Cliquer pour agrandir / réduire">
-    <img src="/botc-fr-bambi/images/Fiche%20Conteur%20:%20Pies%20Baking%20-%20ordre%20de%20nuit.png" alt="Fiche de nuit Pies Baking" class="lightbox-img">
+    <img src="/botc-fr-bambi/images/Pies Baking - ordre de nuit.png" alt="Fiche de nuit Pies Baking" class="lightbox-img">
   </label>
 </div>
 </div>
+
 
 <div id="zoom-catfishing" class="lightbox-overlay">
 <a href="#close" class="lightbox-close-zone" title="Fermer la vue"></a>
