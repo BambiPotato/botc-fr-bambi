@@ -430,6 +430,89 @@ Tandis que le bien doit coopérer pour identifier les sbires et décider qui sac
 </div>
 </div>
 
+<!-- 6. EVERYONE CAN PLAY -->
+<div class="script-card">
+<a href="#zoom-everyonecanplay" class="script-preview-link" title="Agrandir la fiche du script">
+  <div class="preview-backdrop-wrapper">
+    <img src="/botc-fr-bambi/images/Everyone Can Play.png" alt="Aperçu du script Everyone Can Play" class="script-thumb">
+  </div>
+  <span class="preview-overlay">🔍 Everyone Can Play — Agrandir la fiche</span>
+</a>
+<div class="script-content">
+<h2 class="script-title">Everyone Can Play</h2>
+<div class="script-badges">
+<span class="badge-pill badge-blue">🔵 Niveau débutant</span>
+<span class="badge-pill">✍️ Auteur : Ben Burns</span>
+<span class="badge-pill">👥 7 à 15 joueurs</span>
+</div>
+
+<div class="script-tag-line" spellcheck="false" data-gramm="false">
+  <span class="tag-line-icon">💡</span> Parfait pour des joueurs et joueuses débutants qui ont joué quelques parties de <a href="/botc-fr-bambi/trouble_brewing.html" class="module-link link-tb">Trouble Brewing</a>.
+</div>
+
+<p class="script-description" spellcheck="false" data-gramm="false">
+Ce script très populaire dans la communauté BotC a été créé par l'incontournable <strong>Ben Burns</strong>.<br><br>
+Il permet de découvrir certains rôles des deux autres modules, <a href="/botc-fr-bambi/bmr.html" class="module-link link-bmr">Bad Moon Rising</a> et <a href="/botc-fr-bambi/sv.html" class="module-link link-sv">Sects &amp; Violets</a>. C'est une immersion en douceur idéale pour préparer vos joueurs aux mécaniques plus avancées !
+</p>
+
+<div class="script-downloads">
+<a href="https://github.com/BambiPotato/botc-fr-bambi/releases/download/canplay/Everyone.Can.Play.pdf" class="btn-action-tab" target="_blank">📄 Fiche PDF à imprimer</a>
+<a href="/botc-fr-bambi/images/Everyone Can Play.json" download="Everyone Can Play.json" class="btn-action-tab">⚙️ Fichier JSON (App BotC)</a>
+<a href="#zoom-everyonecanplay" class="btn-action-tab">🖼️ Fiche des rôles</a>
+<a href="#zoom-everyonecanplay-nuit" class="btn-action-tab">🌙 Fiche pour Conteur &amp; Conteuse</a>
+</div>
+
+<details class="roles-accordion">
+<summary class="accordion-toggle">📜 Voir la composition des rôles</summary>
+<div class="roles-accordion-inner">
+
+<p class="role-cat-title cat-good">Villageois</p>
+<div class="roles-chips-wrap">
+<a href="/botc-fr-bambi/tb_roles/bibliothecaire.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_librarian.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Archiviste</span></a>
+<a href="/botc-fr-bambi/sv_roles/horloger.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_clockmaker.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Horloger</span></a>
+<a href="/botc-fr-bambi/bmr_roles/grandmere.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_grandmother.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Grand-mère</span></a>
+<a href="/botc-fr-bambi/tb_roles/voyante.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_fortuneteller.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Voyante</span></a>
+<a href="/botc-fr-bambi/tb_roles/empathique.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_empath.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Empathe</span></a>
+<a href="/botc-fr-bambi/tb_roles/moine.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_monk.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Moine</span></a>
+<a href="/botc-fr-bambi/tb_roles/croquemort.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_undertaker.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Fossoyeur</span></a>
+<a href="/botc-fr-bambi/bmr_roles/parieur.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_gambler.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Parieur</span></a>
+<a href="/botc-fr-bambi/sv_roles/artiste.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_artist.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Artiste</span></a>
+<a href="/botc-fr-bambi/tb_roles/mercenaire.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_slayer.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Pourfendeuse</span></a>
+<a href="/botc-fr-bambi/bmr_roles/fou.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_fool.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Fou du Roi</span></a>
+<a href="/botc-fr-bambi/tb_roles/gardien.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_ravenkeeper.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Corneille</span></a>
+<a href="/botc-fr-bambi/tb_roles/maire.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_mayor.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Maire</span></a>
+</div>
+
+<p class="role-cat-title cat-good">Marginaux</p>
+<div class="roles-chips-wrap">
+<a href="/botc-fr-bambi/tb_roles/ivrogne.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_drunk.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Ivrogne</span></a>
+<a href="/botc-fr-bambi/tb_roles/reclus.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_recluse.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Recluse</span></a>
+<a href="/botc-fr-bambi/tb_roles/saint.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_saint.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Saint</span></a>
+<a href="/botc-fr-bambi/bmr_roles/enfantdelalune.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_moonchild.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Sélénite</span></a>
+</div>
+
+<p class="role-cat-title cat-evil">Sbires</p>
+<div class="roles-chips-wrap">
+<a href="/botc-fr-bambi/tb_roles/baron.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_baron.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Baron</span></a>
+<a href="/botc-fr-bambi/tb_roles/empoisonneur.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_poisoner.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Empoisonneur</span></a>
+<a href="/botc-fr-bambi/tb_roles/espion.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_spy.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Espionne</span></a>
+<a href="/botc-fr-bambi/bmr_roles/assassin.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_assassin.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Assassin</span></a>
+<a href="/botc-fr-bambi/bmr_roles/avocatdudiable.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_devilsadvocate.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Avocat du Diable</span></a>
+<a href="/botc-fr-bambi/tb_roles/femmeecarlate.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_scarletwoman.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Femme écarlate</span></a>
+</div>
+
+<p class="role-cat-title cat-evil">Démon</p>
+<div class="roles-chips-wrap">
+<a href="/botc-fr-bambi/tb_roles/imp.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_imp.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Diablotin</span></a>
+</div>
+
+</div>
+</details>
+
+</div>
+</div>
+
+
 </div> <!-- FIN DE LA GALERIE -->
 
 <div style="text-align: center; margin-top: 45px; margin-bottom: 10px;">
@@ -548,6 +631,28 @@ Tandis que le bien doit coopérer pour identifier les sbires et décider qui sac
   <input type="checkbox" id="toggle-zoom-cyclone-nuit" class="lightbox-toggle">
   <label for="toggle-zoom-cyclone-nuit" class="lightbox-img-wrapper" title="Cliquer pour agrandir / réduire">
     <img src="/botc-fr-bambi/images/RidetheCyclone-nuit.png" alt="Fiche de nuit Ride the Cyclone" class="lightbox-img">
+  </label>
+</div>
+</div>
+
+<div id="zoom-everyonecanplay" class="lightbox-overlay">
+<a href="#close" class="lightbox-close-zone" title="Fermer la vue"></a>
+<a href="#close" class="lightbox-close-btn" title="Fermer">✖</a>
+<div class="lightbox-content">
+  <input type="checkbox" id="toggle-zoom-canplay" class="lightbox-toggle">
+  <label for="toggle-zoom-canplay" class="lightbox-img-wrapper" title="Cliquer pour agrandir / réduire">
+    <img src="/botc-fr-bambi/images/Everyone Can Play.png" alt="Fiche du script Everyone Can Play" class="lightbox-img">
+  </label>
+</div>
+</div>
+
+<div id="zoom-everyonecanplay-nuit" class="lightbox-overlay">
+<a href="#close" class="lightbox-close-zone" title="Fermer la vue"></a>
+<a href="#close" class="lightbox-close-btn" title="Fermer">✖</a>
+<div class="lightbox-content">
+  <input type="checkbox" id="toggle-zoom-canplay-nuit" class="lightbox-toggle">
+  <label for="toggle-zoom-canplay-nuit" class="lightbox-img-wrapper" title="Cliquer pour agrandir / réduire">
+    <img src="/botc-fr-bambi/images/Everyone Can Play-conteur.png" alt="Fiche de nuit Everyone Can Play" class="lightbox-img">
   </label>
 </div>
 </div>
