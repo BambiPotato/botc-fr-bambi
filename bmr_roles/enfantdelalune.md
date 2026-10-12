@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sélénite
-description: Lorsque vous apprenez que vous êtes morte, choisissez publiquement un joueur en vie. Cette nuit, si c’était un joueur bon, il meurt.
+description: "Lorsque vous apprenez que vous êtes morte, choisissez publiquement un joueur en vie. Cette nuit, si c’était un joueur bon, il meurt."
 image: /images/Icon_moonchild.png
 ---
 
@@ -75,7 +75,7 @@ De l’acier contre ma gorge ? Votre Destin est scellé. »
 <hr class="villageois">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
-Lorsque vous apprenez que vous êtes morte, choisissez publiquement 1 joueur en vie. Cette nuit, si c’était un joueur bon, il meurt.
+« Lorsque vous apprenez que vous êtes morte, choisissez publiquement 1 joueur en vie. Cette nuit, si c’était un joueur bon, il meurt. »
 </p>
 
 <p class="botc-flavour-text dropcap" style="margin:0;">
@@ -209,8 +209,8 @@ Cette fois-ci, la <strong>Sélénite</strong> choisit la <a href="./commere.html
 <hr class="explication">
 
 
-<p style="text-align:left; font-size:18px; margin-top:20px;">
-   <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
-   <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Marginaux</a><br>
-   <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
+<p style="text-align:left; font-size:18px; margin-top:00px;">
+• <a href="/botc-fr-bambi/" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à l’accueil</a><br>
+• <a href="../etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Retour aux Marginaux</a><br>
+• <a href="../bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Retour à Bad Moon Rising</a>
 </p>
