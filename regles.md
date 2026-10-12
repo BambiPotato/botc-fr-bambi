@@ -60,7 +60,7 @@ Vous comprenez aussitôt qu’il s’agit de l’œuvre d’un <strong><a href="
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Vous allez recevoir un jeton <strong style="color:#80aee0;">bleu</strong> ou <strong style="color:#d45b5b;">rouge</strong> :
+Vous allez recevoir un jeton de rôle <strong style="color:#80aee0;">bleu</strong> ou <strong style="color:#d45b5b;">rouge</strong> :
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
@@ -71,7 +71,7 @@ Vous allez recevoir un jeton <strong style="color:#80aee0;">bleu</strong> ou <st
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-bottom:6px;"><strong> Objectifs :</strong></p>
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Si vous êtes <strong><a href="glossaire.html" style="color:#80aee0; font-weight:bold; text-decoration:none;">Bon</a></strong> : trouvez et exécutez le <strong><a href="demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a></strong> → le <strong><a href="glossaire.html" style="color:#80aee0; font-weight:bold; text-decoration:none;">Bien</a></strong> gagne.</li>
-  <li>Si vous êtes <strong><a href="glossaire.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Maléfique</a></strong> : votre objectif est de détruire le village. S'il ne reste que deux joueurs vivants, dont le Démon, le <strong><a href="glossaire.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mal</a></strong> gagne.</li>
+  <li>Si vous êtes <strong><a href="glossaire.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Maléfique</a></strong> : votre objectif est de détruire le village. S'il ne reste que deux joueurs en vie, dont le Démon, le <strong><a href="glossaire.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Mal</a></strong> gagne.</li>
 </ul>
  
 <hr>
@@ -80,13 +80,13 @@ Vous allez recevoir un jeton <strong style="color:#80aee0;">bleu</strong> ou <st
 
 <h3 style="color:#d4a76a; font-weight:bold; font-size:22px; margin-bottom:8px;"> Jour</h3>
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Discutez, enquêtez, accusez. La plupart des joueurs et des joueuses du <strong><a href="glossaire.html" style="color:#80aee0; font-weight:bold; text-decoration:none;">Bien</a></strong> partagent leurs informations pour démasquer le <strong><a href="demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a></strong>.  
+Discutez, enquêtez, accusez. La plupart des joueurs et des joueuses du camp du <strong><a href="glossaire.html" style="color:#80aee0; font-weight:bold; text-decoration:none;">Bien</a></strong> partagent leurs informations pour démasquer le <strong><a href="demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a></strong>.  
 Attention : certaines personnes mentent… et si vous êtes <strong><a href="glossaire.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Maléfique</a></strong>, vous devrez mentir.
 </p>
 
 <h3 style="color:#d4a76a; font-weight:bold; font-size:22px; margin-bottom:8px;"> Nuit</h3>
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Tout le monde ferme les yeux. Le Conteur réveille certaines personnes pour qu’elles utilisent leur capacité ou reçoivent des informations.
+Tout le monde ferme les yeux. Le Conteur réveille certains joueurs et certaines joueuses pour activer leur capacité ou leur donner des informations.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-bottom:6px;"><strong>Signaux utilisés par le Conteur :</strong></p>
@@ -118,8 +118,8 @@ Tout le monde ferme les yeux. Le Conteur réveille certaines personnes pour qu�
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-bottom:6px;"><strong>Mais :</strong></p>
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
   <li>Vous perdez votre capacité.</li>
-  <li>Vous ne pouvez plus nominer.</li>
-  <li>Vous n’avez plus qu’<strong>un seul vote</strong> pour le reste de la partie → utilisez-le avec soin.</li>
+  <li>Vous ne pouvez plus faire de nomination.</li>
+  <li>Vous n’avez plus qu’<strong>un seul vote de mort</strong> pour le reste de la partie → utilisez-le avec soin.</li>
 </ul>
 
 <hr>
@@ -180,22 +180,35 @@ Voici l’essentiel à retenir. Quatre règles simples pour des parties claires 
     </ul>
   </li>
   <li>Une exécution a lieu si le joueur nommé obtient <strong>au moins 50 % des votes des joueurs encore en vie.</strong></li>
-  <li> En cas d’égalité, <strong>aucun joueur n'est exécuté.</strong>.</li>
-  <li> Même si vous mourez, vous restez un élément essentiel du jeu.</li> 
-  <li> Vous continuez à parler et à fermer les yeux la nuit.</li>
+  <li>En cas d’égalité, <strong>aucun joueur n'est exécuté.</strong>.</li>
+  <li>Même si vous mourez, vous restez un élément essentiel du jeu.</li> 
+  <li>Vous continuez à parler et à fermer les yeux la nuit.</li>
   <li>Surtout, vous continuez à gagner ou à perdre avec votre équipe.</li>
   <li>En réalité, la partie se décide généralement grâce aux votes et aux opinions des joueurs éliminés.</li>
-  <li>Lorsque vous mourez, vous perdez votre capacité de rôle, vous ne pouvez plus nominer</li> 
-  <li>Vous ne disposez que d'un seul vote pour le reste de la partie ; utilisez-le donc judicieusement.</li>
+  <li>Lorsque vous mourez, vous perdez votre capacité de rôle, vous ne pouvez plus nommer</li> 
+  <li>Une fois mort, vous n'avez plus qu'un seul vote pour le reste de la partie : utilisez-le à bon escient.</li>
 </ul>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Vous connaissez maintenant l’essentiel pour jouer à <em>Blood on the Clocktower</em>. Bonne partie !
+Vous connaissez maintenant les bases pour jouer à <em>Blood on the Clocktower</em>. Bonne partie !
 </p>
 
 <hr>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-top:10px;">
- <a href="./" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a>
+<!-- ======================= -->
+<!-- LIEN RÈGLES -->
+<!-- ======================= -->
+
+<p style="color:#e0c99d; font-size:19px; line-height:1.8; text-align:center;">
+   Pour aller plus loin, découvrez les  
+  <a href="./regles.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">
+    règles complètes de <em>Blood  on the Clocktower</em>
+  </a>.
 </p>
+
+<hr class="section">
+
+<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  <li> <a href="./index.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
+</ul>
 
