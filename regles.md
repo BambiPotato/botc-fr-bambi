@@ -195,20 +195,16 @@ Vous connaissez maintenant les bases pour jouer à <em>Blood on the Clocktower</
 
 <hr>
 
-<!-- ======================= -->
-<!-- LIEN RÈGLES -->
-<!-- ======================= -->
+<!-- ===== PIED DE PAGE ET LIENS DE NAVIGATION ===== -->
+<hr class="explication">
 
-<p style="color:#e0c99d; font-size:19px; line-height:1.8; text-align:center;">
-   Pour aller plus loin, découvrez les  
-  <a href="./regles.html" style="color:#d4a76a; font-weight:bold; text-decoration:none;">
-    règles complètes de <em>Blood  on the Clocktower</em>
-  </a>.
+<p style="color:#f5f5f5; font-size:18px; line-height:1.7; font-weight:bold;">
+Pour aller plus loin dans les règles :
 </p>
 
-<hr class="section">
-
-<ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
-  <li> <a href="./index.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
+<ul style="color:#e0c99d; font-size:18px; line-height:1.8;">
+  <li>Lisez comment mener une partie dans la section <a href="/botc-fr-bambi/installation.html" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Mise en place</a>.</li>
+  <li><a href="#top" style="color:#e0c99d; font-weight:bold; text-decoration:none;">Retour en haut de la page ↑</a></li>
+  <li><a href="/botc-fr-bambi/index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
 </ul>
 
