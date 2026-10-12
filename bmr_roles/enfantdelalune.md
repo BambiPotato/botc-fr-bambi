@@ -1,10 +1,9 @@
 ---
 layout: default
 title: Sélénite
-description: Lorsque vous apprenez que vous êtes morte, choisissez publiquement un joueur vivant. Cette nuit, si ce joueur était bon, il meurt. 
+description: Lorsque vous apprenez que vous êtes morte, choisissez publiquement un joueur en vie. Cette nuit, si c’était un joueur bon, il meurt.
 image: /images/Icon_moonchild.png
 ---
-
 
 <p align="left">
   <a href="/botc-fr-bambi/">
@@ -76,8 +75,7 @@ De l’acier contre ma gorge ? Votre Destin est scellé. »
 <hr class="villageois">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
-Lorsque vous apprenez que vous êtes morte, choisissez publiquement un joueur vivant.<br>
-Cette nuit, si ce joueur était bon, il meurt.
+Lorsque vous apprenez que vous êtes morte, choisissez publiquement 1 joueur en vie. Cette nuit, si c’était un joueur bon, il meurt.
 </p>
 
 <p class="botc-flavour-text dropcap" style="margin:0;">
