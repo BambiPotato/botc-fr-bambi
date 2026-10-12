@@ -185,7 +185,7 @@ Voici l’essentiel à retenir. Quatre règles simples pour des parties claires 
   <li>Vous continuez à parler et à fermer les yeux la nuit.</li>
   <li>Surtout, vous continuez à gagner ou à perdre avec votre équipe.</li>
   <li>En réalité, la partie se décide généralement grâce aux votes et aux opinions des joueurs éliminés.</li>
-  <li>Lorsque vous mourez, vous perdez votre capacité de rôle, vous ne pouvez plus nommer</li> 
+  <li>Lorsque vous mourez, vous perdez votre capacité de rôle, vous ne pouvez plus nommer.</li> 
   <li>Une fois mort, vous n'avez plus qu'un seul vote pour le reste de la partie : utilisez-le à bon escient.</li>
 </ul>
 
@@ -193,7 +193,6 @@ Voici l’essentiel à retenir. Quatre règles simples pour des parties claires 
 Vous connaissez maintenant les bases pour jouer à <em>Blood on the Clocktower</em>. Bonne partie !
 </p>
 
-<hr>
 
 <!-- ===== PIED DE PAGE ET LIENS DE NAVIGATION ===== -->
 <hr class="explication">
