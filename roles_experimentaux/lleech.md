@@ -63,7 +63,7 @@ image: /images/Icon_lleech.png
 <hr class="sbire">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
-« Chaque nuit*, choisissez un joueur : il meurt. Lors de votre 1re nuit, choisissez un joueur : il est empoisonné. Vous mourez si et seulement si ce joueur est mort. »
+« Chaque nuit*, choisissez un joueur : il meurt. Lors de votre 1<sup>re</sup> nuit, choisissez un joueur : il est empoisonné. Vous mourez si et seulement si ce joueur est mort. »
 </p>
 
 <p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
