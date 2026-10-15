@@ -526,7 +526,7 @@ Il permet de découvrir certains rôles des deux autres modules, <a href="/botc-
 <div class="script-badges">
 <span class="badge-pill badge-purple">🟣 Niveau intermédiaire</span>
 <span class="badge-pill">✍️ Auteur : Steven Medway</span>
-<span class="badge-pill">👥 5 à 6 joueurs</span>
+<span class="badge-pill">👥 5 à 6 joueurs (TeensyVille)</span>
 </div>
 
 <div class="script-tag-line" spellcheck="false" data-gramm="false">
