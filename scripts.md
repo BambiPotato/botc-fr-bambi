@@ -513,6 +513,75 @@ Il permet de découvrir certains rôles des deux autres modules, <a href="/botc-
 </div>
 
 
+<!-- 7. LAISSEZ UN FAIRE -->
+<div class="script-card">
+<a href="#zoom-laissezunfaire" class="script-preview-link" title="Agrandir la fiche du script">
+  <div class="preview-backdrop-wrapper">
+    <img src="/botc-fr-bambi/images/Laissez un faire.png" alt="Aperçu du script Laissez un Faire" class="script-thumb">
+  </div>
+  <span class="preview-overlay">🔍 Laissez un Faire — Agrandir la fiche</span>
+</a>
+<div class="script-content">
+<h2 class="script-title">Laissez un Faire</h2>
+<div class="script-badges">
+<span class="badge-pill badge-purple">🟣 Niveau intermédiaire</span>
+<span class="badge-pill">✍️ Auteur : Steven Medway</span>
+<span class="badge-pill">👥 5 à 6 joueurs</span>
+</div>
+
+<div class="script-tag-line" spellcheck="false" data-gramm="false">
+  <span class="tag-line-icon">💡</span> Recommandé pour des joueurs et joueuses qui ont fait quelques parties du module de base <a href="/botc-fr-bambi/trouble_brewing.html" class="module-link link-tb">Trouble Brewing</a>.
+</div>
+
+<p class="script-description" spellcheck="false" data-gramm="false">
+Ce script très populaire, écrit par le créateur du jeu en personne (Steven Medway), est une excellente initiation au format <strong>TeensyVille</strong> (spécialement pensé pour 5 à 6 joueurs).<br><br>
+Il introduit une toute nouvelle dynamique : la présence du <a href="/botc-fr-bambi/roles_experimentaux/leviathan.html" class="inline-role-link role-link-evil">Léviathan</a> signifie qu'il n'y a pas de morts pendant la nuit. Cela laisse au village un temps précieux pour croiser les informations sur plusieurs jours afin de tenter de débusquer le mal !
+</p>
+
+<div class="script-downloads">
+<a href="https://github.com/BambiPotato/botc-fr-bambi/releases/download/Laissez.un.faire/Laissez.un.faire.pdf" class="btn-action-tab" target="_blank">📄 Fiche PDF à imprimer</a>
+<a href="/botc-fr-bambi/images/Laissez un Faire.json" download="Laissez un Faire.json" class="btn-action-tab">⚙️ Fichier JSON (App BotC)</a>
+<a href="#zoom-laissezunfaire" class="btn-action-tab">🖼️ Fiche des rôles</a>
+<a href="#zoom-laissezunfaire-nuit" class="btn-action-tab">🌙 Fiche pour Conteur &amp; Conteuse</a>
+</div>
+
+<details class="roles-accordion">
+<summary class="accordion-toggle">📜 Voir la composition des rôles</summary>
+<div class="roles-accordion-inner">
+
+<p class="role-cat-title cat-good">Villageois</p>
+<div class="roles-chips-wrap">
+<a href="/botc-fr-bambi/roles_experimentaux/balloonist.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_balloonist.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Aéronaute</span></a>
+<a href="/botc-fr-bambi/sv_roles/savant.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_savant.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Savant</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/amnesiac.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_amnesiac.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Amnésique</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/fisherman.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_fisherman.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Pêcheur</span></a>
+<a href="/botc-fr-bambi/sv_roles/artiste.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_artist.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Artiste</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/cannibal.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_cannibal.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Cannibale</span></a>
+</div>
+
+<p class="role-cat-title cat-good">Marginaux</p>
+<div class="roles-chips-wrap">
+<a href="/botc-fr-bambi/sv_roles/mutant.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_mutant.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Bête de foire</span></a>
+<a href="/botc-fr-bambi/bmr_roles/lunatique.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_lunatic.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Lunatique</span></a>
+</div>
+
+<p class="role-cat-title cat-evil">Sbires</p>
+<div class="roles-chips-wrap">
+<a href="/botc-fr-bambi/roles_experimentaux/widow.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_widow.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Veuve</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/goblin.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_goblin.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Gobelin</span></a>
+</div>
+
+<p class="role-cat-title cat-evil">Démon</p>
+<div class="roles-chips-wrap">
+<a href="/botc-fr-bambi/roles_experimentaux/leviathan.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_leviathan.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Léviathan</span></a>
+</div>
+
+</div>
+</details>
+
+</div>
+</div>
+
 </div> <!-- FIN DE LA GALERIE -->
 
 <div style="text-align: center; margin-top: 45px; margin-bottom: 10px;">
@@ -656,6 +725,29 @@ Il permet de découvrir certains rôles des deux autres modules, <a href="/botc-
   </label>
 </div>
 </div>
+
+<div id="zoom-laissezunfaire" class="lightbox-overlay">
+<a href="#close" class="lightbox-close-zone" title="Fermer la vue"></a>
+<a href="#close" class="lightbox-close-btn" title="Fermer">✖</a>
+<div class="lightbox-content">
+  <input type="checkbox" id="toggle-zoom-laissez" class="lightbox-toggle">
+  <label for="toggle-zoom-laissez" class="lightbox-img-wrapper" title="Cliquer pour agrandir / réduire">
+    <img src="/botc-fr-bambi/images/Laissez un faire.png" alt="Fiche du script Laissez un Faire" class="lightbox-img">
+  </label>
+</div>
+</div>
+
+<div id="zoom-laissezunfaire-nuit" class="lightbox-overlay">
+<a href="#close" class="lightbox-close-zone" title="Fermer la vue"></a>
+<a href="#close" class="lightbox-close-btn" title="Fermer">✖</a>
+<div class="lightbox-content">
+  <input type="checkbox" id="toggle-zoom-laissez-nuit" class="lightbox-toggle">
+  <label for="toggle-zoom-laissez-nuit" class="lightbox-img-wrapper" title="Cliquer pour agrandir / réduire">
+    <img src="/botc-fr-bambi/images/laissez.un.faire.nuit.png" alt="Fiche de nuit Laissez un Faire" class="lightbox-img">
+  </label>
+</div>
+</div>
+
 
 <style>
 .header-intro-box {
