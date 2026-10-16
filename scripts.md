@@ -526,7 +526,7 @@ Il permet de découvrir certains rôles des deux autres modules, <a href="/botc-
 <div class="script-badges">
 <span class="badge-pill badge-purple">🟣 Niveau intermédiaire</span>
 <span class="badge-pill">✍️ Auteur : Steven Medway</span>
-<span class="badge-pill">👥 Teensyville 5 à 6 </span>
+<span class="badge-pill">👥 <strong>Teensyville</strong> 5 à 6 </span>
 </div>
 
 <div class="script-tag-line" spellcheck="false" data-gramm="false">
@@ -534,7 +534,7 @@ Il permet de découvrir certains rôles des deux autres modules, <a href="/botc-
 </div>
 
 <p class="script-description" spellcheck="false" data-gramm="false">
-Ce script très populaire, écrit par le créateur du jeu en personne (Steven Medway), est une excellente initiation au format <strong>TeensyVille</strong> (spécialement pensé pour 5 à 6 joueurs).<br><br>
+Ce script très populaire, écrit par le créateur du jeu en personne (Steven Medway), est une excellente initiation au format <strong>Teensyville</strong> (spécialement pensé pour 5 à 6 joueurs).<br><br>
 Il introduit une toute nouvelle dynamique : la présence du <a href="/botc-fr-bambi/roles_experimentaux/leviathan.html" class="inline-role-link role-link-evil">Léviathan</a> signifie qu'il n'y a pas de morts pendant la nuit. Cela laisse au village un temps précieux pour croiser les informations sur plusieurs jours afin de tenter de débusquer le mal !
 </p>
 
@@ -574,6 +574,75 @@ Il introduit une toute nouvelle dynamique : la présence du <a href="/botc-fr-ba
 <p class="role-cat-title cat-evil">Démon</p>
 <div class="roles-chips-wrap">
 <a href="/botc-fr-bambi/roles_experimentaux/leviathan.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_leviathan.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Léviathan</span></a>
+</div>
+
+</div>
+</details>
+
+</div>
+</div>
+
+<!-- 8. NO GREATER JOY -->
+<div class="script-card">
+<a href="#zoom-nogreaterjoy" class="script-preview-link" title="Agrandir la fiche du script">
+  <div class="preview-backdrop-wrapper">
+    <img src="/botc-fr-bambi/images/No Greater Joy.png" alt="Aperçu du script No Greater Joy" class="script-thumb">
+  </div>
+  <span class="preview-overlay">🔍 No Greater Joy — Agrandir la fiche</span>
+</a>
+<div class="script-content">
+<h2 class="script-title">No Greater Joy</h2>
+<div class="script-badges">
+<span class="badge-pill badge-blue">🔵 Niveau débutant</span>
+<span class="badge-pill">✍️ Auteur : Steven Medway</span>
+<span class="badge-pill">👥 <strong>Teensyville</strong> 5 à 6</span>
+</div>
+
+<div class="script-tag-line" spellcheck="false" data-gramm="false">
+  <span class="tag-line-icon">💡</span> Recommandé pour les personnes souhaitant débuter à Blood on the Clocktower en petit comité.
+</div>
+
+<p class="script-description" spellcheck="false" data-gramm="false">
+Écrit par le créateur du jeu <strong>Steven Medway</strong>, ce script est la solution parfaite si vous n'avez pas assez de participants pour un format classique.<br><br>
+C'est une excellente initiation au format <strong>TeensyVille</strong> (spécialement pensé pour 5 à 6 joueurs). Il offre une prise en main rapide et très accessible pour découvrir les mécaniques de base, tout en conservant le suspense et la paranoïa qui font le charme du jeu !
+</p>
+
+<div class="script-downloads">
+<a href="https://github.com/BambiPotato/botc-fr-bambi/releases/download/NoGreaterJoy/No.Greater.Joy.pdf" class="btn-action-tab" target="_blank">📄 Fiche PDF à imprimer</a>
+<a href="/botc-fr-bambi/images/No Greater Joy.json" download="No Greater Joy.json" class="btn-action-tab">⚙️ Fichier JSON (App BotC)</a>
+<a href="#zoom-nogreaterjoy" class="btn-action-tab">🖼️ Fiche des rôles</a>
+<a href="#zoom-nogreaterjoy-nuit" class="btn-action-tab">🌙 Fiche pour Conteur &amp; Conteuse</a>
+</div>
+
+<details class="roles-accordion">
+<summary class="accordion-toggle">📜 Voir la composition des rôles</summary>
+<div class="roles-accordion-inner">
+
+<p class="role-cat-title cat-good">Villageois</p>
+<div class="roles-chips-wrap">
+<a href="/botc-fr-bambi/sv_roles/horloger.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_clockmaker.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Horloger</span></a>
+<a href="/botc-fr-bambi/tb_roles/enqueteur.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_investigator.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Détective</span></a>
+<a href="/botc-fr-bambi/tb_roles/empathique.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_empath.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Empathe</span></a>
+<a href="/botc-fr-bambi/bmr_roles/femmedechambre.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_chambermaid.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Femme de chambre</span></a>
+<a href="/botc-fr-bambi/sv_roles/artiste.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_artist.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Artiste</span></a>
+<a href="/botc-fr-bambi/sv_roles/sage.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_sage.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Sage</span></a>
+</div>
+
+<p class="role-cat-title cat-good">Marginaux</p>
+<div class="roles-chips-wrap">
+<a href="/botc-fr-bambi/tb_roles/ivrogne.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_drunk.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Ivrogne</span></a>
+<a href="/botc-fr-bambi/sv_roles/maladroit.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_klutz.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Maladroit</span></a>
+</div>
+
+<p class="role-cat-title cat-evil">Sbires</p>
+<div class="roles-chips-wrap">
+<a href="/botc-fr-bambi/tb_roles/femmeecarlate.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_scarletwoman.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Femme écarlate</span></a>
+<a href="/botc-fr-bambi/tb_roles/baron.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_baron.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Baron</span></a>
+</div>
+
+<p class="role-cat-title cat-evil">Démon</p>
+<div class="roles-chips-wrap">
+<a href="/botc-fr-bambi/tb_roles/imp.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_imp.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Diablotin</span></a>
 </div>
 
 </div>
@@ -748,6 +817,28 @@ Il introduit une toute nouvelle dynamique : la présence du <a href="/botc-fr-ba
 </div>
 </div>
 
+
+<div id="zoom-nogreaterjoy" class="lightbox-overlay">
+<a href="#close" class="lightbox-close-zone" title="Fermer la vue"></a>
+<a href="#close" class="lightbox-close-btn" title="Fermer">✖</a>
+<div class="lightbox-content">
+  <input type="checkbox" id="toggle-zoom-nogreaterjoy" class="lightbox-toggle">
+  <label for="toggle-zoom-nogreaterjoy" class="lightbox-img-wrapper" title="Cliquer pour agrandir / réduire">
+    <img src="/botc-fr-bambi/images/No Greater Joy.png" alt="Fiche du script No Greater Joy" class="lightbox-img">
+  </label>
+</div>
+</div>
+
+<div id="zoom-nogreaterjoy-nuit" class="lightbox-overlay">
+<a href="#close" class="lightbox-close-zone" title="Fermer la vue"></a>
+<a href="#close" class="lightbox-close-btn" title="Fermer">✖</a>
+<div class="lightbox-content">
+  <input type="checkbox" id="toggle-zoom-nogreaterjoy-nuit" class="lightbox-toggle">
+  <label for="toggle-zoom-nogreaterjoy-nuit" class="lightbox-img-wrapper" title="Cliquer pour agrandir / réduire">
+    <img src="/botc-fr-bambi/images/No Greater Joy. nuit.png" alt="Fiche de nuit No Greater Joy" class="lightbox-img">
+  </label>
+</div>
+</div>
 
 <style>
 .header-intro-box {
