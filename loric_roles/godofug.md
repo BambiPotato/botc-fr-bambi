@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dieu d’Ug
-description: "Un chapeau d'Ug. Quand vous portez le chapeau d'Ug, vous devez parler avec un seul son à la fois, mais vous votez deux fois. Si vous échouez, vous passez le chapeau d'Ug."
+description: "Un chapeau Ug. Quand porter chapeau Ug, on doit parler un son à la fois mais voter deux fois. Si échec, passe chapeau Ug."
 image: /images/Icon_godofug.png
 ---
 
@@ -53,15 +53,15 @@ image: /images/Icon_godofug.png
 ## <span style="color:#7fd1ae;">Résumé</span>
 <hr class="loric">
 
-<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-10px;">
-«Un chapeau d'Ug. Quand vous portez le chapeau d'Ug, vous devez parler avec un seul son à la fois, mais vous votez deux fois. Si vous échouez, vous passez le chapeau d'Ug»
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin-top:-00px;">
+« Un chapeau Ug. Quand porter chapeau Ug, on doit parler un son à la fois mais voter deux fois. Si échec, passe chapeau Ug.»
 </p>
 
 <p class="botc-flavour-text dropcap">
 LE DIEU D'UG oblige les joueurs à ne parler qu'avec des mots d'une seule syllabe.
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:0px;">
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0px;">
 
   <li>Quand le joueur qui porte le chapeau d'Ug vote, son vote compte pour deux votes. <br> Utilisez un vrai chapeau si vous le pouvez.</li>
 
@@ -84,12 +84,12 @@ LE DIEU D'UG oblige les joueurs à ne parler qu'avec des mots d'une seule syllab
 <p class="botc-flavour-text dropcap" style="margin-top:0;">
 Instructions au Conteur
 </p>
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-top:0;">
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7; margin-top:0;">
 Au début de la partie, donnez le chapeau d'Ug à n'importe quel joueur. <br> Si vous ou un joueur surprenez ce joueur en train de prononcer un mot de plusieurs syllabes, donnez le chapeau d'Ug à un autre joueur.
 </p>
 
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
 Si le joueur qui porte le chapeau d'Ug vote, son vote compte pour deux votes.
 </p>
 
@@ -102,13 +102,13 @@ Si porter le chapeau d'Ug devient ennuyeux, limitez le uniquement à la phase de
 ##  <span style="color:#7fd1ae;">Exemples</span>
 <hr class="loric">
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
 Amy porte le <strong>chapeau d'Ug</strong>. Lorsqu’elle est nommée, elle dit : <br>
 « Pas moi. Moi dit que Ben a vu le mal. Lui est vil. »  <br>
 Amy garde le chapeau d'Ug.
 </p>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
 Lewis a le chapeau d'Ug. Dans une conversation privée avec Julian et Alex, Lewis dit : <br>
 « Je crois que vous deux vous êtes bons. Je suis le grand coq qui voit un gars quand je meurs. Je veux que le Démon me tue pour que j'ai ce gars et que je le cri le jour qui vient.  » <br>
 Le Conteur donne le chapeau d'Ug à Abdallah, parce que « Démon » est un mot de plusieurs syllabes.
