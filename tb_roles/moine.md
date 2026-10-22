@@ -52,8 +52,8 @@ image: /images/Icon_monk.png
 </ul>
 
 <p style="text-align:center; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:-10px;">
-« C’est un vent mauvais qui souffle sur le village ce soir.<br>  
-Viens trouver refuge à l’abbaye, mon frère.<br>  
+« C’est un vent mauvais qui souffle sur le village ce soir. 
+Viens trouver refuge à l’abbaye, mon frère. 
 Le Mal ne viendra pas t’y trouver, je m’en porte garant. »
 </p> 
 
@@ -77,7 +77,7 @@ Le Mal ne viendra pas t’y trouver, je m’en porte garant. »
 ##  <span style="color:blue">Résumé</span> 
 <hr class="villageois">
 
-<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:23px; margin:0 0 8px 0;">
+<p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:21px; margin:0 0 8px 0;">
 « Chaque nuit*, choisissez un joueur (sauf vous-même) : il est protégé du Démon cette nuit. »
 </p>
 
@@ -130,9 +130,9 @@ Dans d'autres modules, les Démons peuvent avoir d'autres capacités que celle d
 
 ---
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
 
-  <li style="margin-bottom:14px;">
+  <li style="margin-bottom:00px;">
     Votre objectif est de garder en vie les joueurs bons précieux et de freiner le chaos du <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.<br>
     Essayez de prédire qui le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> pourrait cibler chaque nuit, en fonction des informations disponibles dans la partie et de la façon dont les joueurs se comportent.<br>
     Chaque <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> est différent, et comprendre la méthode du vôtre peut vous permettre de sauver plus d’un joueur.
@@ -144,7 +144,7 @@ Dans d'autres modules, les Démons peuvent avoir d'autres capacités que celle d
     Des rôles précieux, comme la <a href="./voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> ou l’<a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>, ou des joueurs en qui vous avez confiance, comme une <a href="./vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Immaculée</a> confirmée, peuvent survivre pendant toute une partie sous votre protection.
   </li>
 
-  <li style="margin-bottom:14px;">
+  <li style="margin-bottom:00px;">
     Si vous trouvez une <a href="./mercenaire.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Pourfendeuse</a> ou une <a href="./vierge.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Immaculée</a>, vous pouvez les convaincre de ne pas utiliser leur capacité tout de suite, puisque vous pouvez les protéger.<br>
     Cela leur permettra d’utiliser leurs capacités une fois par partie plus tard, lorsque davantage d’informations seront disponibles.
   </li>
@@ -196,24 +196,24 @@ Dans d'autres modules, les Démons peuvent avoir d'autres capacités que celle d
 
 ---
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
   <strong>Lorsque vous bluffez le Moine,</strong> il y a quelques éléments à garder en tête:
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
 
   <li style="margin-bottom:14px;">
     Le Conteur vous aurait réveillé les nuits où le <a href="./imp.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Diablotin</a> se réveille - chaque nuit sauf la première - et vous auriez désigné un joueur.
   </li>
 
-  <li style="margin-bottom:14px;">
+  <li style="margin-bottom:00px;">
     Votre choix de qui vous “protégez” doit avoir une certaine logique.<br>
     Si une <a href="./voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> révélée publiquement meurt sous votre surveillance, cela peut être un gros indice que vous n’êtes pas qui vous prétendez être.<br>
     Cependant, si vous dites au groupe que vous ne croyez pas que la <a href="./voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> dise la vérité, et que vous avez plutôt protégé un joueur qui vous a révélé en privé être l’<a href="./empathique.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Empathe</a>, vos choix semblent beaucoup plus raisonnables.<br>
     Vous pouvez inventer toutes sortes de raisons pour expliquer pourquoi vous avez protégé le joueur A plutôt que le joueur B, surtout si vous préparez à l’avance ce que vous allez dire.
   </li>
 
-  <li style="margin-bottom:14px;">
+  <li style="margin-bottom:00px;">
     Le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> peut choisir de cibler un joueur mort plutôt qu’un joueur vivant pendant la nuit.<br>
     Si vous prétendez être le Moine, pousser le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> à faire cela soutient votre bluff.<br>
     Lorsque personne ne meurt la nuit, tous les joueurs voudront savoir pourquoi.<br>
@@ -221,18 +221,18 @@ Dans d'autres modules, les Démons peuvent avoir d'autres capacités que celle d
     Le joueur que vous prétendez protéger sera probablement vu par les autres joueurs comme ayant le même alignement que vous, donc vous pouvez soit vous attirer ses faveurs en prétendant avoir choisi un joueur bon, soit soutenir le <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a> en disant que vous l’avez choisi.
   </li>
 
-  <li style="margin-bottom:14px;">
+  <li style="margin-bottom:00px;">
     Le Moine agit généralement en secret, sans révéler qui il est au groupe jusqu’à ce qu’il ait protégé avec succès un joueur de la mort.<br>
     Vous pouvez utiliser ce secret comme excuse pour parler à beaucoup de joueurs en privé, soit en répandant des mensonges aux joueurs bons, soit en vous coordonnant avec vos coéquipiers maléfiques.<br>
     Si quelqu’un demande pourquoi vous êtes si secret, les joueurs qui croient que vous êtes le Moine prendront votre défense.
   </li>
 
-  <li style="margin-bottom:14px;">
+  <li style="margin-bottom:00px;">
     Si vous êtes encore en vie le dernier jour, et qu’un joueur est mort chaque nuit cette partie, les joueurs bons seront probablement convaincus que vous êtes soit un Moine particulièrement incompétent, soit simplement maléfique.<br>
     Si vous êtes un <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a>, cela peut être très utile, puisque les joueurs bons voudront vous exécuter, terminant la partie par une victoire du Mal.
   </li>
 
-  <li style="margin-bottom:14px;">
+  <li style="margin-bottom:00px;">
     Vous pouvez attirer l’attention sur vous en tant que <a href="../sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> en prétendant avoir protégé le joueur qui est mort la nuit dernière.<br>
     Il existe des raisons légitimes pour lesquelles cela aurait pu arriver - vous pourriez être l’<a href="./ivrogne.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Ivrogne</a> ou empoisonné, mais fournir un sujet de discussion aussi extravagant détourne l’attention des informations de la <a href="./voyante.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Voyante</a> qui pointent directement vers votre <a href="../demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>.
   </li>
@@ -244,19 +244,19 @@ Dans d'autres modules, les Démons peuvent avoir d'autres capacités que celle d
 
 ## 🧞 <span style="color:#d4a76a">Jinxes liés</span>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:40px;">
+<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:00px;">
 
   <li>
     🧞
     <img src="../images/Icon_leviathan-1.png" alt="Leviathan" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
     <a href="../roles_experimentaux/leviathan.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Léviathan</a> :  
-    Si le Léviathan nomme et exécute le joueur protégé par le Moine, l’équipe des bons gagne.
+    Si le Léviathan nomme et exécute le joueur protégé par le Moine, le Bien gagne.
   </li>
   <li>
    🧞
     <img src="../images/Icon_riot.png" alt="Riot" width="24" style="vertical-align:middle; border-radius:6px; margin-right:4px;">
-    <a href="../roles_experimentaux/riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Riot</a> :  
-    Si le Riot nomme et exécute le joueur protégé par le Moine, l’équipe des bons gagne.
+    <a href="../roles_experimentaux/riot.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Émeute</a> :  
+    Si le joueur Émeute nomme et exécute le joueur protégé par le Moine, le Bien gagne.
   </li>
   </ul> 
 
