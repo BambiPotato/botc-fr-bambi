@@ -81,7 +81,7 @@ L’EMPOISONNEUR perturbe temporairement, en secret, la capacité d’un autre r
 </p>
 
 
-- Chaque nuit, l’Empoisonneur choisit qun joueur à empoisonner. 
+- Chaque nuit, l’Empoisonneur choisit un joueur à empoisonner. 
   - Sa victime sera empoisonnée cette nuit-là et toute la journée du lendemain.
 
 - Un joueur empoisonné perd (temporairement) sa capacité, mais le Conteur fait comme s’il l’avait toujours. 
