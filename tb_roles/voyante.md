@@ -83,12 +83,11 @@ image: "/images/Icon_fortuneteller.png"
 LA VOYANTE peut détecter qui est le  Démon, mais peut être amenée à croire que des joueurs bons sont des Démons.
 </p>
 
-- Chaque nuit, la Voyante choisit deux joueurs et apprend si au moins l’un d’entre eux est un Démon. Elle ne sait pas qui est un Démon, mais simplement s’il y en a un parmi eux.<br> Si aucun
-n’est un Démon, elle apprend cette information.
+- Chaque nuit, la Voyante choisit deux joueurs et apprend si au moins l’un d’entre eux est un Démon. Elle ne sait pas qui est un Démon, mais simplement s’il y en a un parmi eux.<br> Si aucun n’est un Démon, elle apprend cette information.
 
-- Cependant, l’un des joueurs, que l’on appelle le **Leurre**, apparaîtra comme un Démon aux yeux de la Voyante lorsqu’elle le choisira. Le **Leurre** est le même joueur pendant toute la partie.<br>   Le Leurre peut être n’importe quel joueur bon, même la Voyante elle-même.<br> La Voyante ne sait pas de quel joueur il s’agit.
+- Cependant, l’un des joueurs, que l’on appelle le **Leurre**, apparaîtra comme un Démon aux yeux de la Voyante lorsqu’elle le choisira. Le **Leurre** est le même joueur pendant toute la partie. Le **Leurre** peut être n’importe quel joueur bon, même la Voyante elle-même. La Voyante ne sait pas de quel joueur il s’agit.
 
-- La Voyante peut choisir n’importe quels joueurs, même morts.Elle peut aussi se choisir elle-même.<br>   Si elle choisit un Démon mort, le Conteur lui fera tout de même oui de la tête.
+- La Voyante peut choisir n’importe quels joueurs, même morts. Elle peut aussi se choisir elle-même. Si elle choisit un Démon mort, le Conteur lui fera tout de même oui de la tête.
 
 
 
