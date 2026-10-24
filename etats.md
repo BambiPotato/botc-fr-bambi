@@ -26,7 +26,7 @@ image: /images/logogold.png
 #  Les États
 
 <p style="color:#5C2E1F; font-size:18px; line-height:1.7;">
-Dans <strong>Blood on the Clocktower</strong>, les joueurs peuvent être beaucoup de choses : ce rôle-ci ou celui-là, ivres ou sobres, vivants ou morts, sains ou empoisonnés.  
+Dans <strong>Blood on the Clocktower</strong>, les joueurs peuvent être beaucoup de choses : ce rôle-ci ou celui-là, ivres ou sobres, en vie ou morts, sains ou empoisonnés.  
 Ces éléments sont appelés des <strong>états</strong>. Ce sont des caractéristiques permanentes et indépendantes d'un joueur. 
 Par exemple, si vous êtes ivre et que vous changez de rôle, vous restez ivre.  
 Si vous êtes empoisonné, vous pouvez aussi être ivre en même temps.
@@ -48,7 +48,7 @@ Si vous êtes empoisonné, vous pouvez aussi être ivre en même temps.
 ##  <span id="vie-et-mort">Vie et mort</span>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-À tout moment, une joueuse est soit <strong>vivante</strong>, soit <strong>morte</strong>.  
+À tout moment, un joueur est soit <strong>en vie</strong>, soit <strong>mort</strong>.  
 En général :
 </p>
 
@@ -59,14 +59,14 @@ En général :
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
  <strong>L’exécution</strong> est différente de la mort.  
-Parfois, une joueuse peut être exécutée mais rester en vie.  
-Une joueuse peut être exécutée plusieurs fois au cours de la partie. Même une joueuse déjà morte peut être exécutée à nouveau, pour confirmer un soupçon.  
+Parfois, un joueur peut être exécuté mais rester en vie.  
+Un joueur peut être exécuté plusieurs fois au cours de la partie. Même un joueur déjà mort peut être exécuté à nouveau, pour confirmer un soupçon.  
 Quelle que soit la cible, vivante ou morte, cela compte comme l’unique exécution autorisée pendant la journée.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Une joueuse morte ne peut plus mourir à nouveau.  
-Si une joueuse déjà morte est attaquée par le <a href="./demons.html" style="color:#d45b5b; text-decoration:none;">Démon</a>, elle ne meurt pas une deuxième fois et le groupe n’apprend rien de plus sur la nuit passée.
+Un joueur mort ne peut plus mourir à nouveau.  
+Si un joueur déjà mort est attaqué par le <a href="./demons.html" style="color:#d45b5b; text-decoration:none;">Démon</a>, il ne meurt pas une deuxième fois et le groupe n’apprend rien de plus sur la nuit passée.
 </p>
 
 <hr class="section">
@@ -81,7 +81,7 @@ Parfois, un <a href="./demons.html" style="color:#d45b5b; text-decoration:none;"
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Si un joueur Bon possède un rôle Maléfique, ou si un joueur maléfique possède un rôle bon, on peut retourner le jeton de rôle pour se souvenir que l’alignement du joueur ne correspond pas à la couleur du jeton.
+Si un joueur <strong>bon</strong> possède un rôle maléfique, ou si un joueur maléfique possède un rôle bon, on peut retourner le jeton de rôle pour se souvenir que l’alignement du joueur ne correspond pas à la couleur du jeton.
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -152,7 +152,7 @@ En revanche, si sa capacité « une fois par partie » a déjà été utilisée 
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 Le Conteur ne doit pas annoncer qu’un joueur est ivre ou empoisonné.  
-Il agit comme si elle était totalement saine et sobre.  
+Il agit comme si il était totalement sain et sobre.  
 Par exemple, un <a href="./tb_roles/moine.html" style="color:#80aee0; text-decoration:none;">Moine</a> ivre se réveille, choisit une joueuse à protéger, mais cette protection ne se produit pas.  
 Un <a href="./demons.html" style="color:#d45b5b; text-decoration:none;">Démon</a> empoisonné se réveille, cible une victime, mais personne ne meurt et le Démon ne sait pas pourquoi.
 </p>
@@ -171,7 +171,7 @@ Par exemple :
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li>Aggie <a href="./tb_roles/empathique.html" style="color:#80aee0; text-decoration:none;">Empathe</a> ivre se réveille chaque nuit, mais le nombre montré peut être erroné,</li>
+  <li>La joueuse Aggie est l' <a href="./tb_roles/empathique.html" style="color:#80aee0; text-decoration:none;">Empathe</a> ivre, elle se réveille chaque nuit, mais le nombre montré peut être erroné,</li>
   <li>un <a href="./tb_roles/croquemort.html" style="color:#80aee0; text-decoration:none;">Fossoyeur</a> empoisonné voit un jeton de rôle qui ne correspond pas à la personne exécutée.</li>
 </ul>
 
