@@ -236,7 +236,7 @@ Elle n’a aucun effet, ni au moment où elle est utilisée, ni plus tard, même
 </ul>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Si une capacité est utilisée alors que la personne est saine et sobre, elle fonctionne normalement, même si elle se base sur un événement passé où la personne était ivre ou empoisonnée.
+Si une capacité est utilisée alors que le joueur est sain et sobre, elle fonctionne normalement, même si elle se base sur un événement passé où le joueur était ivre ou empoisonné.
 </p>
 
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -253,7 +253,7 @@ En cas de doute, l’entrée correspondante dans l’almanach du rôle fait réf
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong>Conseil pour les Conteurs et Conteuses :</strong> pour bien gérer l’ivresse et le poison, écoutez les bluffs des Maléfiques et soutenez-les autant que possible.  
-Par exemple, si une <a href="./tb_roles/gardien.html" style="color:#80aee0; text-decoration:none;">Pourfendeuse</a> 
+Par exemple, si une <a href="./tb_roles/mercenaire.html" style="color:#80aee0; text-decoration:none;">Pourfendeuse</a> 
 ivre choisit un <a href="./sbires.html" style="color:#d45b5b; text-decoration:none;">Sbire</a> qui bluffe un rôle du Bien, 
 vous pouvez montrer un jeton de rôle qui renforce ce mensonge.  
 Si la personne ivre choisit au contraire quelqu’un du Bien, il peut être intéressant de lui montrer un jeton de rôle maléfique.  
@@ -286,27 +286,25 @@ Les détails précis figurent sur le jeton ou sur la fiche du rôle concerné.
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;"> 
 <strong>La <a href="./sv_roles/mutant.html" style="color:#80aee0; text-decoration:none;">Bête de foire</a></strong>  
 Sa capacité indique : « Si vous vous montrez « fou » d’être un Marginal, vous pourriez être exécuté. »  
-La Bête de foire doit se comporter comme un <a href="./villageois.html" style="color:#80aee0; text-decoration:none;">Villageois</a> et ne doit pas revendiquer clairement qu’il est un <a href="./etrangers.html" style="color:#80aee0; text-decoration:none;">Marginal</a>.  
+La  <a href="./sv_roles/mutant.html" style="color:#80aee0; text-decoration:none;">Bête de foire</a>  doit se comporter comme un <a href="./villageois.html" style="color:#80aee0; text-decoration:none;">Villageois</a> et ne doit pas revendiquer clairement qu’il est un <a href="./etrangers.html" style="color:#80aee0; text-decoration:none;">Marginal</a>.  
 S’il insiste trop sur ce point ou s’il essaie manifestement de convaincre le Village qu’il est un Marginal, le Conteur peut décider de l’exécuter.
-La <a href="./sv_roles/mutant.html" style="color:#80aee0; text-decoration:none;">Bête de foire</a> 
-peut tenter des approches plus subtiles.<br>   
-Par exemple, Alex peut dire " Je ne vais pas vous dire qui je suis, mais je suis certainement pas une Bête de foire ", avec un sourire malicieux sur son visage,
-ou il peut même ne rien dire du tout pendant que d'autres joueurs l'accusent d'être la Bête de foire.<br> 
-Dans les deux cas, le conteur peut juger qu'Alex essaie de convaincre le groupe qu'il est la Bête de foire.<br> 
+La <a href="./sv_roles/mutant.html" style="color:#80aee0; text-decoration:none;">Bête de foire</a> peut tenter des approches plus subtiles.<br>   
+Par exemple, Alex peut dire : « Je ne vais pas vous dire qui je suis, mais je suis certainement pas une  <a href="./sv_roles/mutant.html" style="color:#80aee0; text-decoration:none;">Bête de foire</a>  », avec un sourire malicieux sur son visage,
+ou il peut même ne rien dire du tout pendant que d'autres joueurs l'accusent d'être la  <a href="./sv_roles/mutant.html" style="color:#80aee0; text-decoration:none;">Bête de foire</a>.<br> 
+Dans les deux cas, le Conteur peut juger qu'Alex essaie de convaincre le groupe qu'il est la  <a href="./sv_roles/mutant.html" style="color:#80aee0; text-decoration:none;">Bête de foire</a>.<br> 
 Dans le premier cas, il dit une chose et en veut dire une autre.<br>  
-Dans le deuxième cas, il ne dit rien du tout, mais espère que, à cause de cela, le groupe conclura qu'il est la Bête de foire.
+Dans le deuxième cas, il ne dit rien du tout, mais espère que, à cause de cela, le groupe conclura qu'il est la  <a href="./sv_roles/mutant.html" style="color:#80aee0; text-decoration:none;">Bête de foire</a>.
 Dans les deux cas, le conteur pourrait l'exécuter.<br> 
-De même, même si le conteur ne repère pas Alex disant à qui que ce soit qu'il est un Marginal, mais qu'un joueur maléfique s'en rappelle le conteur en privé et dit : 
-"Alex m'a dit qu'il était la Bête de foire", alors c'est une preuve suffisante qu'il essaie de convaincre le groupe qu'il est la Bête de foire, afin que le conteur puisse l'exécute
+De même, si le Conteur ne surprend pas Alex en train de dire à qui que ce soit qu’il est un Marginal, mais qu’un joueur maléfique vient le voir en privé et lui dit : « Alex m’a dit qu’il était la  <a href="./sv_roles/mutant.html" style="color:#80aee0; text-decoration:none;">Bête de foire</a>  », c’est une preuve suffisante qu’il essaie de convaincre le groupe qu’il est la  <a href="./sv_roles/mutant.html" style="color:#80aee0; text-decoration:none;">Bête de foire</a>, afin que le Conteur puisse l’exécuter.
 </p>
 </div>
 
 <div class="botc-note">
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
 <strong>Exemple : le <a href="./sv_roles/cerenovus.html" style="color:#d45b5b; text-decoration:none;">Cerenovus</a></strong>  
-Sa capacité demande à un joeur d’être FOU à propos d’un rôle précis, sous peine d’exécution.  
-Si le Cerenovus choisit un joueur et lui demande d’être FOU d'être le
-<a href="./sv_roles/sage.html" style="color:#80aee0; text-decoration:none;">Sage</a>, ce joueur doit faire tout son possible pour convaincre le Village qu’il est le Sage.  
+Sa capacité demande à un joueur d’être <strong>FOU</strong> à propos d’un rôle précis, sous peine d’exécution.  
+Si le Cerenovus choisit un joueur et lui demande d’être <strong>FOU</strong>  d'être le
+<a href="./sv_roles/sage.html" style="color:#80aee0; text-decoration:none;">Sage</a>, ce joueur doit faire tout son possible pour convaincre le Village qu’il est le <a href="./sv_roles/sage.html" style="color:#80aee0; text-decoration:none;">Sage</a>.  
 S’il se contente de rester silencieux sans jamais vraiment essayer de persuader les autres, le Conteur peut estimer qu’il ne respecte pas la Folie et décider de l’exécuter.
 </p>
 </div>
@@ -316,7 +314,7 @@ S’il se contente de rester silencieux sans jamais vraiment essayer de persuade
 ils ne sont jamais obligés de dire quoi que ce soit qu'ils ne veulent pas dire. 
 Avec la folie, cependant, ils sont incités à dire des choses particulières et découragés à en dire d'autres. 
 Si un joueur dit carrément : « Je suis fou », ou l'implique fortement, alors le conteur peut lui donner la pénalité appropriée ou supprimer l'avantage approprié. 
-Ce genre de déclaration est généralement la façon d'un joueur de dire "Je ne veux pas être fou à ce sujet, et je préfère prendre la pénalité".
+Ce genre de déclaration est généralement la façon d'un joueur de dire « Je ne veux pas être fou à ce sujet », et je préfère prendre la pénalité".
 Même si un joueur laisse simplement entendre qu'il est fou, cela compte.
 </p>
 
@@ -333,7 +331,7 @@ Ce qui compte est l’intention et l’effort visible pour convaincre le Village
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Pour des joueuses et joueurs expérimentés, le Conteur peut se montrer exigeant.  
+Pour des joueurs et joueuses expérimentés, le Conteur peut se montrer exigeant.  
 Une joueuse habituée au jeu devrait savoir comment incarner une folie de manière crédible.  
 Pour les joueurs et joueuses débutants, le Conteur peut se montrer plus indulgent tant qu’il voit un effort sincère pour jouer la folie.
 </p>
