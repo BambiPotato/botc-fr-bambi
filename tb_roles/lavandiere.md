@@ -69,7 +69,7 @@ image: /images/Icon_washerwoman.png
 LA LAVANDIÈRE apprend qu’un certain rôle Villageois est en jeu, mais ne sait pas pas qui l'incarne.
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7;">
 <li>Lors de la première nuit, le Conteur réveille la Lavandière et lui montre deux joueurs et un rôle de Villageois, qui appartient à l’un des deux.</li><br>
 <li>Elle reçoit cette information une seule fois, et n’apprend rien d’autre.</li>
 </ul>
@@ -83,7 +83,7 @@ LA LAVANDIÈRE apprend qu’un certain rôle Villageois est en jeu, mais ne sait
 <p class="botc-flavour-text dropcap" style="margin:0;">
 Instructions au Conteur
 </p>
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7;">
   <li>Lors de la préparation de la première nuit, placez le <strong>jeton de rappel</strong> :
     <ul style="margin-top:6px;">
       <li><strong>VILLAGEOIS</strong> de la Lavandière à côté d’un rôle Villageois en jeu.
@@ -106,7 +106,7 @@ Instructions au Conteur
 <h3 style="color:#4ea3ff; font-weight:bold;"> Exemples</h3>
 <hr>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7;">
   <li>Evin est le est le 
     <a href="./cuistot.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Cuisinier</a>,
     et Amy est la
@@ -143,20 +143,20 @@ Instructions au Conteur
 <h3 style="color:#4ea3ff; font-weight:bold;"> Conseils & Astuces </h3>
 <hr>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-  <li>La Lavandière est <strong>puissante en discrétion</strong> : elle ne désigne pas les maléfiques, mais peut confirmer l’identité d’un joueur bon.</li>
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7;">
+  <li>La Lavandière est <strong>puissante en discrétion</strong> : elle ne désigne pas les maléfiques, mais peut confirmer l’identité d’un joueur bon.</li><br> 
   <li>Si vous êtes
     <a href="./ivrogne.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Ivrogne</a>
-    ou empoisonné vos infos seront souvent fausses. Comparez-les aux déclarations des joueurs</li>
+    ou empoisonné vos infos seront souvent fausses. Comparez-les aux déclarations des joueurs</li><br> 
   
   <li>Parmi les deux joueurs désignés, l’un <strong>est</strong> bien le rôle vu. Donc vous savez aussi que ce joueur <strong>n’est pas</strong> l’
-    <a href="./ivrogne.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Ivrogne</a>.
+    <a href="./ivrogne.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Ivrogne</a>.<br> 
   </li>
-  <li>Révéler vos infos dès le premier jour peut donner un <strong>très bon départ</strong> à l’équipe du Bien.</li>
-  <li>Garder l’info secrète jusqu’à la fin peut réduire les suspects potentiels.</li>
+  <li>Révéler vos infos dès le premier jour peut donner un <strong>très bon départ</strong> à l’équipe du Bien.</li><br> 
+  <li>Garder l’info secrète jusqu’à la fin peut réduire les suspects potentiels.</li><br> 
   <li>Formez une alliance discrète avec le
     <a href="../villageois.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Villageois</a>
-    que vous avez identifié. Ensemble, vous pourrez vous défendre si l’un de vous est accusé.
+    que vous avez identifié. Ensemble, vous pourrez vous défendre si l’un de vous est accusé.<br> 
     
   </li>
   <li>Vous pouvez aussi mentir au groupe sur le rôle exact pour protéger le vrai
@@ -165,7 +165,7 @@ Instructions au Conteur
     <a href="./voyante.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Voyante</a>
     ou un
     <a href="./empathique.html" style="color:#6fa8ff; font-weight:bold; text-decoration:none;">Empathe</a>).
-  </li>
+  </li><br> 
   <li>Attention à l’
     <a href="./espion.html" style="color:#c45959; font-weight:bold; text-decoration:none;">Espionne</a> :
     elle peut apparaître comme
@@ -179,11 +179,11 @@ Instructions au Conteur
 <h3 style="color:#4ea3ff; font-weight:bold;"> Bluffer la Lavandière</h3>
 <hr>
 
-<p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Lorsque vous bluffez la  <strong>Lavandière,</strong> il y a quelques éléments à garder en tête:
+<p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
+• Lorsque vous bluffez la  <strong>Lavandière,</strong> il y a quelques éléments à garder en tête:
 </p>
 
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
+<ul style="color:#f5f5f5; font-size:20px; line-height:1.7; margin:0; padding:0; list-style-position:inside;">
 
   <li style="margin-bottom:14px;">
     Vous auriez reçu vos informations la première nuit, et devriez donc les avoir à partir de ce moment-là.<br>
