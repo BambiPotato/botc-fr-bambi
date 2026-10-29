@@ -152,12 +152,12 @@ background-size: cover; background-position: center; padding: 60px 20px;
 <li>1 livre de règles principal et 4 almanachs de rôles.</li>
 <li>99 rôles uniques : 39 Villageois, 12 Marginaux, 12 Sbires, 9 Démons, 15 Voyageurs, et 12 Légendaires.</li>
 <li>120 jetons de rappel pour le Conteur, pour toutes les situations possibles.</li>
-<li>60 fiches de rôles - 20 pour chacune des trois premières éditions du jeu.</li>
+<li>60 fiches de rôles - 20 pour chacun des trois premiers module du jeu.</li>
 <li>Plateau de la Place du Village, 20 jetons de vie, et 18+ jetons de vote.</li>
 <li>La boîte elle-même forme l'illustre Grimoire ; le guide du Conteur pour chaque partie.</li>
 <li>Support pliant pour poser votre Grimoire.</li>
-<li>4 boîtes de jetons pour ranger et organiser chaque édition.</li>
-<li>Tout le reste pour vous aider à organiser et suivre : 18+ linceuls, 25+ jetons de nuit, 4 jetons d'information, 1 sac en tissu pour la sélection des rôles, 3 fiches de nuit, 1 fiche de mise en place, 1 fiche de Voyageurs, des pinces pour le Grimoire.</li>
+<li>4 boîtes de jetons pour ranger et organiser chaque module.</li>
+<li>Tout le reste pour vous aider à organiser et suivre : 18+ linceuls, 25+ jetons de nuit, 4 jetons d'information, 1 sac en tissu violet pour la sélection des rôles, 3 fiches de nuit, 1 fiche de mise en place, 1 fiche de Voyageurs, des pinces pour le Grimoire.</li>
 </ul>
 </div>
 </div>
@@ -174,7 +174,7 @@ background-size: cover; background-position: center; padding: 60px 20px;
     <div class="module-text">
       <h2>TROUBLE BREWING</h2>
       <p class="niveau">DÉBUTANT</p>
-      <p>Trouble Brewing a un peu de tout. Certains rôles reçoivent passivement des informations, d'autres doivent agir pour savoir qui est qui, tandis que d'autres veulent simplement inciter le Démon à les attaquer.</p>
+      <p>Trouble Brewing contient un peu de tout. Certains rôles reçoivent passivement des informations, d'autres doivent agir pour savoir qui est qui, tandis que d'autres veulent simplement inciter le Démon à les attaquer.</p>
       <div class="links-container">
         <a href="trouble_brewing.html" class="discover-more-link">DÉCOUVREZ PLUS</a>
       </div>
@@ -210,7 +210,7 @@ background-size: cover; background-position: center; padding: 60px 20px;
     <div class="module-text">
       <h2>SECTS & VIOLETS</h2>
       <p class="niveau">INTERMÉDIAIRE</p>
-      <p>Sects & Violets est la plus folle des 3 éditions incluses dans la boîte de base. Les rôles du Bien obtiennent des informations incroyables chaque nuit. Cependant, l'équipe du Mal est extrêmement variée et menaçante et peut semer une confusion massive dans la partie.</p>
+      <p>Sects & Violets est le plus fou des 3 modules inclus dans la boîte de base. Les rôles du Bien obtiennent des informations incroyables chaque nuit. Cependant, l'équipe du Mal est extrêmement variée et menaçante et peut semer une confusion massive dans la partie.</p>
       <div class="links-container">
         <a href="sv.html" class="discover-more-link">DÉCOUVREZ PLUS</a>
       </div>
