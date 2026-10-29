@@ -31,7 +31,7 @@ background-size: cover; background-position: center; padding: 60px 20px;
 .box-list-container { flex: 1 1 40%; min-width: 300px; }
 .box-list-container h3 { color: #f4efe6 !important; font-family: Georgia, serif; font-size: 28px; text-transform: uppercase; letter-spacing: 2px; margin-top: 0; margin-bottom: 30px; }
 
-/* EFFET LOUPE GLOBAL */
+/* EFFET LOUPE GLOBAL (GRIMOIRE ET BOÎTE ÉCLATÉE) */
 .img-zoom-effect { width: 100%; height: auto; object-fit: contain; transition: transform 0.3s ease, filter 0.3s ease; cursor: zoom-in; }
 .img-zoom-effect:hover { transform: scale(1.05); filter: drop-shadow(0 15px 25px rgba(0,0,0,0.7)); }
 
@@ -40,19 +40,44 @@ background-size: cover; background-position: center; padding: 60px 20px;
 .numbered-list li { position: relative; padding-left: 45px !important; margin-bottom: 20px !important; color: #f4efe6 !important; font-size: 15px; line-height: 1.5; list-style: none !important; }
 .numbered-list li::before { counter-increment: official-counter; content: counter(official-counter); position: absolute; left: 0; top: -2px; width: 26px; height: 26px; border: 1.5px solid #f4efe6; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 13px; color: #f4efe6; }
 
-/* 3. SECTION TROUBLE BREWING */
+/* 3. SECTION ÉDITIONS (MODULES) */
 .module-section { background-color: #f4efe6; padding: 60px 20px; }
-.module-container { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; max-width: 1200px; margin: 0 auto; background: white; border: 2px solid #e0d5c1; position: relative; overflow: hidden; }
+.module-container { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; max-width: 1200px; margin: 0 auto 40px auto; background: white; border: 2px solid #e0d5c1; position: relative; overflow: hidden; }
+
+/* ANIMATION LOUPE DES LOGOS (AJOUTÉE ICI) */
 .module-logo { flex: 1 1 25%; padding: 30px; text-align: center; z-index: 2; }
-.module-logo img { width: 100%; max-width: 250px; height: auto; filter: drop-shadow(0 5px 15px rgba(0,0,0,0.2)); }
+.module-logo img { 
+  width: 100%; 
+  max-width: 250px; 
+  height: auto; 
+  filter: drop-shadow(0 5px 15px rgba(0,0,0,0.2)); 
+  transition: transform 0.3s ease, filter 0.3s ease; 
+}
+.module-logo img:hover { 
+  transform: scale(1.08); 
+  filter: drop-shadow(0 12px 20px rgba(0,0,0,0.3)); 
+}
+
 .module-text { flex: 1 1 40%; padding: 30px; z-index: 2; }
 .module-text h2 { color: #8B2500 !important; font-family: Georgia, serif; font-size: 28px; text-transform: uppercase; margin: 0 0 5px 0; }
 .module-text .niveau { color: #b58b52 !important; font-size: 14px; text-transform: uppercase; letter-spacing: 2px; margin-top: 0; margin-bottom: 20px; }
 .module-text p { color: #5C2E1F !important; font-size: 16px; line-height: 1.6; margin-bottom: 25px; }
+
+/* LIENS DÉCOUVRIR */
+.links-container { display: flex; gap: 20px; flex-wrap: wrap; }
 .discover-more-link { display: inline-block; color: #8B2500 !important; font-family: Georgia, serif; font-size: 16px; font-weight: bold; text-transform: uppercase; text-decoration: none; letter-spacing: 1px; border-bottom: 2px solid #8B2500; padding-bottom: 2px; transition: opacity 0.2s ease; }
 .discover-more-link:hover { opacity: 0.7; }
+
 .module-artwork { flex: 1 1 35%; text-align: right; z-index: 1; }
 .module-artwork img { width: 100%; max-width: 350px; height: auto; display: block; margin-left: auto; }
+
+/* 4. FOOTER LIENS */
+.footer-links { background-color: #f4efe6; padding: 20px 20px 60px 20px; text-align: center; }
+.footer-links ul { list-style-type: none !important; padding: 0; margin: 0; display: inline-block; text-align: left; }
+.footer-links li { font-family: Georgia, serif; font-size: 16px; margin-bottom: 15px; color: #8B2500; }
+.footer-links li::before { content: "• "; color: #8B2500; font-weight: bold; margin-right: 8px; }
+.footer-links a { color: #8B2500 !important; font-weight: bold; text-decoration: none; border-bottom: 1px solid #8B2500; }
+.footer-links a:hover { opacity: 0.7; }
 
 /* LIGHTBOX (ZOOM) */
 .lightbox-overlay { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.85); display: none; z-index: 9999; }
@@ -67,7 +92,7 @@ background-size: cover; background-position: center; padding: 60px 20px;
 <div class="page-materiel-container">
 
 <!-- 1. EN-TÊTE : LE GRIMOIRE ANIMÉ AVEC BOUGIES ET LOTUS -->
-<div class="intro-section">
+<div id="haut-de-page" class="intro-section">
 <div class="decorations-left">
 <img src="images/3_-_TT_Cutout_-_Candles_1.png.avif" alt="Bougies">
 </div>
@@ -98,33 +123,102 @@ background-size: cover; background-position: center; padding: 60px 20px;
 <li>1 livre de règles principal et 4 almanachs de rôles.</li>
 <li>99 rôles uniques : 39 Villageois, 12 Marginaux, 12 Sbires, 9 Démons, 15 Voyageurs, et 12 Légendaires.</li>
 <li>120 jetons de rappel pour le Conteur, pour toutes les situations possibles.</li>
-<li>60 fiches de rôles - 20 pour chacune des trois premières éditions du jeu.</li>
+<li>60 fiches de rôles - 20 pour chacune des trois premiers modules du jeu.</li>
 <li>Plateau de la Place du Village, 20 jetons de vie, et 18+ jetons de vote.</li>
 <li>La boîte elle-même forme l'illustre Grimoire ; le guide du Conteur pour chaque partie.</li>
 <li>Support pliant pour poser votre Grimoire.</li>
-<li>4 boîtes de jetons pour ranger et organiser chaque édition.</li>
-<li>Tout le reste pour vous aider à organiser et suivre : 18+ linceuls, 25+ jetons de nuit, 4 jetons d'information, 1 sac en tissu pour la sélection des rôles, 3 fiches de nuit, 1 fiche de mise en place, 1 fiche de Voyageurs, des pinces pour le Grimoire.</li>
+<li>4 boîtes de jetons pour ranger et organiser chaque module.</li>
+<li>Tout le reste pour vous aider à organiser et suivre : 18+ linceuls, 25+ jetons de nuit, 4 jetons d'information, 1 sac en tissu violet pour la sélection des rôles, 3 fiches de nuit, 1 fiche de mise en place, 1 fiche de Voyageurs, des pinces pour le Grimoire.</li>
 </ul>
 </div>
 </div>
 </div>
 
-<!-- 3. SECTION ÉDITIONS : TROUBLE BREWING -->
+<!-- 3. SECTION ÉDITIONS : MODULES -->
 <div class="module-section">
-<div class="module-container">
-<div class="module-logo">
-<img src="images/logo-PO4QGYTI.webp" alt="Logo Trouble Brewing">
+
+  <!-- MODULE 1 : TROUBLE BREWING -->
+  <div class="module-container">
+    <div class="module-logo">
+      <img src="images/logo-PO4QGYTI.webp" alt="Logo Trouble Brewing">
+    </div>
+    <div class="module-text">
+      <h2>TROUBLE BREWING</h2>
+      <p class="niveau">DÉBUTANT</p>
+      <p>Trouble Brewing a un peu de tout. Certains rôles reçoivent passivement des informations, d'autres doivent agir pour savoir qui est qui, tandis que d'autres veulent simplement inciter le Démon à les attaquer.</p>
+      <div class="links-container">
+        <a href="trouble_brewing.html" class="discover-more-link">DÉCOUVREZ PLUS</a>
+      </div>
+    </div>
+    <div class="module-artwork">
+      <img src="images/explore-artwork-I3UOZ3DW.webp" alt="Illustration Trouble Brewing">
+    </div>
+  </div>
+
+  <!-- MODULE 2 : BAD MOON RISING -->
+  <div class="module-container">
+    <div class="module-logo">
+      <img src="images/logo-DUKMGWFZ.webp" alt="Logo Bad Moon Rising">
+    </div>
+    <div class="module-text">
+      <h2>BAD MOON RISING</h2>
+      <p class="niveau">INTERMÉDIAIRE</p>
+      <p>Bad Moon Rising est un festival de morts. Les Démons tuent plusieurs fois par nuit et les Sbires participent aussi à l'action. Les joueurs du Bien peuvent prendre de grands risques pour obtenir des informations cruciales, mais peuvent accidentellement tuer leurs amis au passage.</p>
+      <div class="links-container">
+        <a href="bmr.html" class="discover-more-link">DÉCOUVREZ PLUS</a>
+      </div>
+    </div>
+    <div class="module-artwork">
+      <img src="images/explore-artwork-Z6GETMQQ.webp" alt="Illustration Bad Moon Rising">
+    </div>
+  </div>
+
+  <!-- MODULE 3 : SECTS & VIOLETS -->
+  <div class="module-container">
+    <div class="module-logo">
+      <img src="images/logo-QJNZUCAR.webp" alt="Logo Sects & Violets">
+    </div>
+    <div class="module-text">
+      <h2>SECTS & VIOLETS</h2>
+      <p class="niveau">INTERMÉDIAIRE</p>
+      <p>Sects & Violets est le plus fou des trois modules inclus dans la boîte de base. Les rôles du Bien obtiennent des informations incroyables chaque nuit. Cependant, l'équipe du Mal est extrêmement variée et menaçante et peut semer une confusion massive dans la partie.</p>
+      <div class="links-container">
+        <a href="sv.html" class="discover-more-link">DÉCOUVREZ PLUS</a>
+      </div>
+    </div>
+    <div class="module-artwork">
+      <img src="images/explore-artwork-Z6H24WEY.webp" alt="Illustration Sects & Violets">
+    </div>
+  </div>
+
+  <!-- MODULE 4 : VOYAGEURS ET LÉGENDAIRES -->
+  <div class="module-container">
+    <div class="module-logo">
+      <img src="images/logo-3V3QAAVM.webp" alt="Logo Voyageurs et Légendaires">
+    </div>
+    <div class="module-text">
+      <h2>VOYAGEURS ET LÉGENDAIRES</h2>
+      <p class="niveau">INTERMÉDIAIRE</p>
+      <p>Voyageurs & Légendaires est une collection de rôles sauvages, étranges et puissants qui sont ajoutés selon les besoins aux parties de TROUBLE BREWING, BAD MOON RISING, SECTS & VIOLETS, ou d'autres éditions.</p>
+      <div class="links-container">
+        <a href="voyageurs/voyageurs.html" class="discover-more-link">DÉCOUVREZ LES VOYAGEURS</a>
+        <a href="legendaire.html" class="discover-more-link">DÉCOUVREZ LES LÉGENDAIRES</a>
+      </div>
+    </div>
+    <div class="module-artwork">
+      <img src="images/explore-artwork-YW7L7OJB.webp" alt="Illustration Voyageurs et Légendaires">
+    </div>
+  </div>
+
 </div>
-<div class="module-text">
-<h2>TROUBLE BREWING</h2>
-<p class="niveau">DÉBUTANT</p>
-<p>Trouble Brewing a un peu de tout. Certains rôles reçoivent passivement des informations, d'autres doivent agir pour savoir qui est qui, tandis que d'autres veulent simplement inciter le Démon à les attaquer.</p>
-<a href="trouble_brewing.html" class="discover-more-link">DÉCOUVREZ PLUS</a>
-</div>
-<div class="module-artwork">
-<img src="images/explore-artwork-I3UOZ3DW.webp" alt="Illustration Trouble Brewing">
-</div>
-</div>
+
+<!-- 4. FOOTER : LIENS DE NAVIGATION -->
+<div class="footer-links">
+  <ul>
+    <li><a href="/botc-fr-bambi/">Retour à la page d'accueil</a></li>
+    <li><a href="#haut-de-page">Revenir en haut de la page</a></li>
+    <li><a href="bases.html">Découvrir les bases du jeu</a></li>
+  </ul>
 </div>
 
 </div>
