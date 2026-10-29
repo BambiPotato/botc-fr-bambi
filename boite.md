@@ -116,6 +116,32 @@ background-size: cover; background-position: center; padding: 60px 20px;
 .lightbox-content { position: relative; z-index: 10001; max-width: 90vw; max-height: 90vh; }
 .lightbox-img { max-width: 100%; max-height: 90vh; border-radius: 8px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); }
 .lightbox-toggle { display: none; }
+
+/* =========================================
+   ADAPTATION MOBILE (SMARTPHONES & TABLETTES)
+   Cette partie ne change absolument rien sur ordinateur, 
+   elle s'active uniquement sur les petits écrans.
+   ========================================= */
+@media (max-width: 768px) {
+  /* Ajustement de l'en-tête pour éviter le chevauchement avec le texte */
+  .decorations-left { left: 0; bottom: 50%; width: 75px; }
+  .decorations-right { right: 0; bottom: 50%; width: 75px; }
+  .intro-text h1 { font-size: 24px; line-height: 1.4; margin-top: 15px; }
+
+  /* Empêcher les logos de s'écraser (passage en colonne) */
+  .module-container { flex-direction: column; text-align: center; }
+  .module-logo, .module-text, .module-artwork { flex: 1 1 100%; width: 100%; padding: 20px 10px; }
+  .module-logo img { max-width: 220px; margin: 0 auto; }
+  .module-artwork img { margin: 0 auto; max-width: 250px; }
+  .links-container { justify-content: center; }
+
+  /* Ajustement de la boîte détaillée et du footer */
+  .dark-box-content { flex-direction: column; }
+  .box-exploded-image, .box-list-container { flex: 1 1 100%; width: 100%; }
+  .custom-footer-content { flex-direction: column; text-align: center; gap: 25px; }
+  .footer-logo { flex: 1 1 100%; }
+  .footer-logo img { max-width: 90px; margin: 0 auto; }
+}
 </style>
 
 <div class="page-materiel-container">
@@ -123,10 +149,12 @@ background-size: cover; background-position: center; padding: 60px 20px;
 <!-- 1. EN-TÊTE : LE GRIMOIRE ANIMÉ AVEC BOUGIES ET LOTUS -->
 <div id="haut-de-page" class="intro-section">
 <div class="decorations-left">
-<img src="images/3_-_TT_Cutout_-_Candles_1.png.avif" alt="Bougies">
+<!-- AJOUT DE LA CLASSE IMG-ZOOM-EFFECT ICI -->
+<img src="images/3_-_TT_Cutout_-_Candles_1.png.avif" alt="Bougies" class="img-zoom-effect">
 </div>
 <div class="decorations-right">
-<img src="images/3_-_TAF_Cutout_-_Lotus_B_1.png.avif" alt="Fleur de Lotus">
+<!-- AJOUT DE LA CLASSE IMG-ZOOM-EFFECT ICI -->
+<img src="images/3_-_TAF_Cutout_-_Lotus_B_1.png.avif" alt="Fleur de Lotus" class="img-zoom-effect">
 </div>
 <div class="intro-image">
 <a href="#zoom-grimoire" title="Agrandir l'image">
