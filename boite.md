@@ -14,6 +14,8 @@ image: /images/Grimoire_1_2.webp
 .intro-section { position: relative; display: flex; flex-direction: column; align-items: center; justify-content: center; background-color: #f4efe6; padding: 80px 20px 50px 20px; text-align: center; overflow: hidden; }
 .decorations-left { position: absolute; left: 15%; bottom: 25%; width: 120px; z-index: 1; opacity: 0.9; }
 .decorations-left img { width: 100%; height: auto; filter: drop-shadow(0 5px 10px rgba(0,0,0,0.3)); }
+.decorations-right { position: absolute; right: 15%; bottom: 25%; width: 120px; z-index: 1; opacity: 0.9; }
+.decorations-right img { width: 100%; height: auto; filter: drop-shadow(0 5px 10px rgba(0,0,0,0.3)); }
 .intro-image { max-width: 500px; z-index: 2; margin-bottom: 40px; }
 .intro-image img { width: 100%; height: auto; filter: drop-shadow(0 15px 25px rgba(0,0,0,0.4)); }
 .intro-text h1 { font-family: Georgia, serif; color: #5C2E1F !important; font-size: 32px; text-transform: uppercase; letter-spacing: 2px; border-top: 1px solid #5C2E1F; border-bottom: 1px solid #5C2E1F; padding: 20px 0; margin: 0; z-index: 2; position: relative; }
@@ -64,10 +66,13 @@ background-size: cover; background-position: center; padding: 60px 20px;
 
 <div class="page-materiel-container">
 
-<!-- 1. EN-TÊTE : LE GRIMOIRE ANIMÉ AVEC BOUGIES -->
+<!-- 1. EN-TÊTE : LE GRIMOIRE ANIMÉ AVEC BOUGIES ET LOTUS -->
 <div class="intro-section">
 <div class="decorations-left">
 <img src="images/3_-_TT_Cutout_-_Candles_1.png.avif" alt="Bougies">
+</div>
+<div class="decorations-right">
+<img src="images/3_-_TAF_Cutout_-_Lotus_B_1.png.avif" alt="Fleur de Lotus">
 </div>
 <div class="intro-image">
 <a href="#zoom-grimoire" title="Agrandir l'image">
@@ -84,7 +89,7 @@ background-size: cover; background-position: center; padding: 60px 20px;
 <div class="dark-box-content">
 <div class="box-exploded-image">
 <a href="#zoom-boite-base" title="Agrandir l'image">
-<img src="images/boite-base_2.png" alt="Matériel détaillé" class="img-zoom-effect">
+<img src="images/Group_42531_1.webp" alt="Matériel détaillé" class="img-zoom-effect">
 </a>
 </div>
 <div class="box-list-container">
@@ -142,7 +147,7 @@ background-size: cover; background-position: center; padding: 60px 20px;
 <div class="lightbox-content">
 <input type="checkbox" id="toggle-zoom-boite" class="lightbox-toggle">
 <label for="toggle-zoom-boite" class="lightbox-img-wrapper" title="Cliquer pour fermer">
-<img src="images/boite-base_2.png" alt="Zoom sur le matériel" class="lightbox-img">
+<img src="images/Group_42531_1.webp" alt="Zoom sur le matériel" class="lightbox-img">
 </label>
 </div>
 </div>
