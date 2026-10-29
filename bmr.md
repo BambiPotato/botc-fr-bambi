@@ -17,7 +17,7 @@ image: /images/Logo_bad_moon_rising-1.png
 <div class="page-bmr" markdown="1">
 
 <!-- 🌛 Logo centré cliquable -->
-<div style="text-align:center; margin: 20px 0;">
+<div id="haut-de-page" style="text-align:center; margin: 20px 0;">
   <a href="./bmr.html" style="text-decoration:none;">
     <img src="./images/Logo_bad_moon_rising-1.png" alt="Bad Moon Rising" width="400" style="border-radius:12px;">
     <br>
@@ -110,7 +110,9 @@ image: /images/Logo_bad_moon_rising-1.png
   <span style="font-weight:bold;">6.</span>
   <a href="#demons" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Démons</a><br>
   <span style="font-weight:bold;">7.</span>
-  <a href="#telechargements" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Télécharger &amp; Imprimer</a>
+  <a href="#telechargements" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Télécharger & Imprimer</a><br>
+  <span style="font-weight:bold;">8.</span>
+  <a href="#inclus" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Ce qui est inclus</a>
 </p>
 
 
@@ -437,7 +439,7 @@ le <a href="./bmr_roles/menestrel.html" style="color:#4ea3ff; font-weight:bold; 
 <hr class="explication">
 
 
-## <span id="telechargements" style="color:#ffa64d;">  Télécharger &amp; Imprimer</span>
+## <span id="telechargements" style="color:#ffa64d;">  Télécharger & Imprimer</span>
 
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
 Ces ressources sont pratiques pour <strong>imprimer</strong> et <strong>jouer en personne</strong>.
@@ -461,15 +463,87 @@ Ces ressources sont pratiques pour <strong>imprimer</strong> et <strong>jouer en
   </a>
 </div>
 
+<!-- NOUVELLE SECTION : MATÉRIEL DU MODULE BAD MOON RISING -->
+<div markdown="0">
+<style>
+/* Section sombre Bad Moon Rising */
+.bmr-box-section {
+  background-image: url('images/bg-violet.jpg');
+  background-color: #1e0f2b;
+  background-size: cover;
+  background-position: center;
+  padding: 60px 20px;
+  margin: 40px 0;
+  border-radius: 8px;
+}
+.bmr-box-content { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 40px; max-width: 1200px; margin: 0 auto; }
+.bmr-box-image { flex: 1 1 50%; max-width: 600px; text-align: center; }
+.bmr-box-list { flex: 1 1 40%; min-width: 300px; }
+.bmr-box-list h3 { color: #f4efe6 !important; font-family: Georgia, serif; font-size: 28px; text-transform: uppercase; letter-spacing: 2px; margin-top: 0; margin-bottom: 30px; }
+
+/* Liste numérotée autonome pour ne pas casser ton layout */
+.bmr-numbered-list { list-style-type: none !important; padding-left: 0 !important; margin: 0; counter-reset: bmr-counter; }
+.bmr-numbered-list li { position: relative; padding-left: 45px !important; margin-bottom: 20px !important; color: #f4efe6 !important; font-size: 15px; line-height: 1.5; list-style: none !important; }
+.bmr-numbered-list li::before { counter-increment: bmr-counter; content: counter(bmr-counter); position: absolute; left: 0; top: -2px; width: 26px; height: 26px; border: 1.5px solid #f4efe6; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 13px; color: #f4efe6; }
+
+/* Effet Loupe */
+.img-zoom-effect { width: 100%; height: auto; object-fit: contain; transition: transform 0.3s ease, filter 0.3s ease; cursor: zoom-in; }
+.img-zoom-effect:hover { transform: scale(1.05); filter: drop-shadow(0 15px 25px rgba(0,0,0,0.7)); }
+
+/* Lightbox pour le zoom de cette image précise */
+.lightbox-overlay { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.85); display: none; z-index: 9999; }
+.lightbox-overlay:target { display: flex; align-items: center; justify-content: center; }
+.lightbox-close-zone { position: absolute; top: 0; left: 0; width: 100%; height: 100%; cursor: zoom-out; }
+.lightbox-close-btn { position: absolute; top: 20px; right: 30px; color: white; font-size: 40px; text-decoration: none; z-index: 10000; }
+.lightbox-content { position: relative; z-index: 10001; max-width: 90vw; max-height: 90vh; }
+.lightbox-img { max-width: 100%; max-height: 90vh; border-radius: 8px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); }
+.lightbox-toggle { display: none; }
+</style>
+
+<div id="inclus" class="bmr-box-section">
+<div class="bmr-box-content">
+<div class="bmr-box-image">
+<a href="#zoom-bmr-box" title="Agrandir l'image">
+<img src="images/Editon_Spread_TB_1_11f5b346-e2e3-48db-b5e8-47327a73cced.png.webp" alt="Matériel Bad Moon Rising" class="img-zoom-effect">
+</a>
+</div>
+<div class="bmr-box-list">
+<h3>QU'EST-CE QU'IL Y A DANS LE MODULE BAD MOON RISING ?</h3>
+<ul class="bmr-numbered-list">
+<li>1 almanach de rôles Bad Moon Rising</li>
+<li>1 boîte du module Bad Moon Rising</li>
+<li>1 fiche de nuit Bad Moon Rising</li>
+<li>20 fiches de rôles Bad Moon Rising</li>
+<li>25 jetons de rôles Bad Moon Rising</li>
+<li>42 jetons de rappel Bad Moon Rising</li>
+</ul>
+</div>
+</div>
+</div>
+
+<!-- Lightbox invisible (activée au clic) -->
+<div id="zoom-bmr-box" class="lightbox-overlay">
+<a href="#close" class="lightbox-close-zone" title="Fermer la vue"></a>
+<a href="#close" class="lightbox-close-btn" title="Fermer">✖</a>
+<div class="lightbox-content">
+<input type="checkbox" id="toggle-zoom-bmr-box" class="lightbox-toggle">
+<label for="toggle-zoom-bmr-box" class="lightbox-img-wrapper" title="Cliquer pour fermer">
+<img src="images/Editon_Spread_TB_1_11f5b346-e2e3-48db-b5e8-47327a73cced.png.webp" alt="Zoom sur le matériel Bad Moon Rising" class="lightbox-img">
+</label>
+</div>
+</div>
+</div>
+<!-- FIN DE LA NOUVELLE SECTION -->
 
 
 <hr class="explication">
 
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  <li>  <a href="#" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Revenir en haut de la page</a></li>
   <li>  <a href="./index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
   <li>  <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
-  <li>  <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a></li>
+  <li>  <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
 </ul>
 
 </div>
