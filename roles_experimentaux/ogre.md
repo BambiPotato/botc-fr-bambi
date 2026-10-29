@@ -63,7 +63,7 @@ image: /images/Icon_ogre.png
 <hr class="marginal">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
-« Lors de votre 1re nuit, choisissez un joueur (sauf vous-même) : vous devenez de son alignement (sans le connaître) même ivre ou empoisonné. »
+« Lors de votre <span style="white-space: nowrap;">1<sup>re</sup> nuit</span> nuit, choisissez un joueur (sauf vous-même) : vous devenez de son alignement (sans le connaître) même ivre ou empoisonné. »
 </p>
 
 <p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
