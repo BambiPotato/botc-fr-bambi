@@ -31,7 +31,7 @@ background-size: cover; background-position: center; padding: 60px 20px;
 .box-list-container { flex: 1 1 40%; min-width: 300px; }
 .box-list-container h3 { color: #f4efe6 !important; font-family: Georgia, serif; font-size: 28px; text-transform: uppercase; letter-spacing: 2px; margin-top: 0; margin-bottom: 30px; }
 
-/* EFFET LOUPE GLOBAL (GRIMOIRE ET BOÎTE ÉCLATÉE) */
+/* EFFET LOUPE GLOBAL */
 .img-zoom-effect { width: 100%; height: auto; object-fit: contain; transition: transform 0.3s ease, filter 0.3s ease; cursor: zoom-in; }
 .img-zoom-effect:hover { transform: scale(1.05); filter: drop-shadow(0 15px 25px rgba(0,0,0,0.7)); }
 
@@ -44,19 +44,10 @@ background-size: cover; background-position: center; padding: 60px 20px;
 .module-section { background-color: #f4efe6; padding: 60px 20px; }
 .module-container { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; max-width: 1200px; margin: 0 auto 40px auto; background: white; border: 2px solid #e0d5c1; position: relative; overflow: hidden; }
 
-/* ANIMATION LOUPE DES LOGOS (AJOUTÉE ICI) */
+/* ANIMATION LOUPE DES LOGOS */
 .module-logo { flex: 1 1 25%; padding: 30px; text-align: center; z-index: 2; }
-.module-logo img { 
-  width: 100%; 
-  max-width: 250px; 
-  height: auto; 
-  filter: drop-shadow(0 5px 15px rgba(0,0,0,0.2)); 
-  transition: transform 0.3s ease, filter 0.3s ease; 
-}
-.module-logo img:hover { 
-  transform: scale(1.08); 
-  filter: drop-shadow(0 12px 20px rgba(0,0,0,0.3)); 
-}
+.module-logo img { width: 100%; max-width: 250px; height: auto; filter: drop-shadow(0 5px 15px rgba(0,0,0,0.2)); transition: transform 0.3s ease, filter 0.3s ease; }
+.module-logo img:hover { transform: scale(1.08); filter: drop-shadow(0 12px 20px rgba(0,0,0,0.3)); }
 
 .module-text { flex: 1 1 40%; padding: 30px; z-index: 2; }
 .module-text h2 { color: #8B2500 !important; font-family: Georgia, serif; font-size: 28px; text-transform: uppercase; margin: 0 0 5px 0; }
@@ -71,13 +62,51 @@ background-size: cover; background-position: center; padding: 60px 20px;
 .module-artwork { flex: 1 1 35%; text-align: right; z-index: 1; }
 .module-artwork img { width: 100%; max-width: 350px; height: auto; display: block; margin-left: auto; }
 
-/* 4. FOOTER LIENS */
-.footer-links { background-color: #f4efe6; padding: 20px 20px 60px 20px; text-align: center; }
-.footer-links ul { list-style-type: none !important; padding: 0; margin: 0; display: inline-block; text-align: left; }
-.footer-links li { font-family: Georgia, serif; font-size: 16px; margin-bottom: 15px; color: #8B2500; }
-.footer-links li::before { content: "• "; color: #8B2500; font-weight: bold; margin-right: 8px; }
-.footer-links a { color: #8B2500 !important; font-weight: bold; text-decoration: none; border-bottom: 1px solid #8B2500; }
-.footer-links a:hover { opacity: 0.7; }
+/* 4. FOOTER OFFICIEL */
+.custom-footer {
+  background-image: url('images/bg-violet.jpg');
+  background-color: #1e0f2b;
+  background-size: cover;
+  background-position: center;
+  padding: 60px 40px;
+}
+.custom-footer-content {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-start;
+  max-width: 1200px;
+  margin: 0 auto;
+  gap: 50px;
+}
+.footer-logo { flex: 0 0 120px; }
+.footer-logo img {
+  width: 100%;
+  height: auto;
+  filter: drop-shadow(0 5px 15px rgba(0,0,0,0.5));
+  transition: transform 0.3s ease, filter 0.3s ease;
+}
+.footer-logo img:hover {
+  transform: scale(1.1);
+  filter: drop-shadow(0 8px 20px rgba(0,0,0,0.7));
+}
+.footer-nav {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.footer-nav a {
+  color: #d8c9b8 !important;
+  font-family: Georgia, serif;
+  font-size: 16px;
+  text-decoration: none;
+  transition: color 0.2s ease, padding-left 0.2s ease;
+}
+.footer-nav a:hover {
+  color: #ffffff !important;
+  text-decoration: underline;
+  padding-left: 5px;
+}
 
 /* LIGHTBOX (ZOOM) */
 .lightbox-overlay { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.85); display: none; z-index: 9999; }
@@ -123,12 +152,12 @@ background-size: cover; background-position: center; padding: 60px 20px;
 <li>1 livre de règles principal et 4 almanachs de rôles.</li>
 <li>99 rôles uniques : 39 Villageois, 12 Marginaux, 12 Sbires, 9 Démons, 15 Voyageurs, et 12 Légendaires.</li>
 <li>120 jetons de rappel pour le Conteur, pour toutes les situations possibles.</li>
-<li>60 fiches de rôles - 20 pour chacune des trois premiers modules du jeu.</li>
+<li>60 fiches de rôles - 20 pour chacune des trois premières éditions du jeu.</li>
 <li>Plateau de la Place du Village, 20 jetons de vie, et 18+ jetons de vote.</li>
 <li>La boîte elle-même forme l'illustre Grimoire ; le guide du Conteur pour chaque partie.</li>
 <li>Support pliant pour poser votre Grimoire.</li>
-<li>4 boîtes de jetons pour ranger et organiser chaque module.</li>
-<li>Tout le reste pour vous aider à organiser et suivre : 18+ linceuls, 25+ jetons de nuit, 4 jetons d'information, 1 sac en tissu violet pour la sélection des rôles, 3 fiches de nuit, 1 fiche de mise en place, 1 fiche de Voyageurs, des pinces pour le Grimoire.</li>
+<li>4 boîtes de jetons pour ranger et organiser chaque édition.</li>
+<li>Tout le reste pour vous aider à organiser et suivre : 18+ linceuls, 25+ jetons de nuit, 4 jetons d'information, 1 sac en tissu pour la sélection des rôles, 3 fiches de nuit, 1 fiche de mise en place, 1 fiche de Voyageurs, des pinces pour le Grimoire.</li>
 </ul>
 </div>
 </div>
@@ -181,7 +210,7 @@ background-size: cover; background-position: center; padding: 60px 20px;
     <div class="module-text">
       <h2>SECTS & VIOLETS</h2>
       <p class="niveau">INTERMÉDIAIRE</p>
-      <p>Sects & Violets est le plus fou des trois modules inclus dans la boîte de base. Les rôles du Bien obtiennent des informations incroyables chaque nuit. Cependant, l'équipe du Mal est extrêmement variée et menaçante et peut semer une confusion massive dans la partie.</p>
+      <p>Sects & Violets est la plus folle des 3 éditions incluses dans la boîte de base. Les rôles du Bien obtiennent des informations incroyables chaque nuit. Cependant, l'équipe du Mal est extrêmement variée et menaçante et peut semer une confusion massive dans la partie.</p>
       <div class="links-container">
         <a href="sv.html" class="discover-more-link">DÉCOUVREZ PLUS</a>
       </div>
@@ -212,13 +241,20 @@ background-size: cover; background-position: center; padding: 60px 20px;
 
 </div>
 
-<!-- 4. FOOTER : LIENS DE NAVIGATION -->
-<div class="footer-links">
-  <ul>
-    <li><a href="/botc-fr-bambi/">Retour à la page d'accueil</a></li>
-    <li><a href="#haut-de-page">Revenir en haut de la page</a></li>
-    <li><a href="bases.html">Découvrir les bases du jeu</a></li>
-  </ul>
+<!-- 4. FOOTER OFFICIEL -->
+<div class="custom-footer">
+  <div class="custom-footer-content">
+    <div class="footer-logo">
+      <a href="#haut-de-page" title="Revenir en haut">
+        <img src="images/logo_3.png.avif" alt="Logo Démon">
+      </a>
+    </div>
+    <div class="footer-nav">
+      <a href="/botc-fr-bambi/">Retour à la page d'accueil</a>
+      <a href="#haut-de-page">Revenir en haut de la page</a>
+      <a href="bases.html">Découvrir les bases du jeu</a>
+    </div>
+  </div>
 </div>
 
 </div>
