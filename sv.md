@@ -16,7 +16,7 @@ image: /images/Logo_sects_and_violets.png
 <hr class="explication">
 
 <!--  Logo centré cliquable -->
-<div style="text-align:center; margin: 20px 0;">
+<div id="haut-de-page" style="text-align:center; margin: 20px 0;">
   <a href="./sv.html" style="text-decoration:none;">
     <img src="./images/Logo_sects_and_violets.png" alt="Sects & Violets" width="400" style="border-radius:12px;">
     <br>
@@ -47,7 +47,7 @@ image: /images/Logo_sects_and_violets.png
   line-height:1.6;
 ">
   <p style="font-weight:bold; color:#d67bff; margin-top:0; margin-bottom:8px;">
-    Sects &amp; Violets
+    Sects & Violets
   </p>
 
   <!-- Villageois -->
@@ -107,7 +107,8 @@ image: /images/Logo_sects_and_violets.png
   <li><a href="#étrangers" style="color:#f5f5f5; text-decoration:none;">Marginaux</a></li>
   <li><a href="#sbires" style="color:#f5f5f5; text-decoration:none;">Sbires</a></li>
   <li><a href="#démons" style="color:#f5f5f5; text-decoration:none;">Démons</a></li>
-  <li><a href="#-télécharger--imprimer" style="color:#f5f5f5; text-decoration:none;">Télécharger &amp; Imprimer</a></li>
+  <li><a href="#-télécharger--imprimer" style="color:#f5f5f5; text-decoration:none;">Télécharger & Imprimer</a></li>
+  <li><a href="#inclus" style="color:#f5f5f5; text-decoration:none;">Ce qui est inclus</a></li>
 </ol>
 
 
@@ -123,7 +124,7 @@ Non loin d’une auberge animée, aux confins de la ville, un cirque plante sa t
 Les villageois insouciants ont l’esprit frivole et l’œil vif.<br> 
 Ils se plongent dans les délices de la vie en dégustant du bon vin, sans se douter que des forces obscures se rassemblent au sein même des leurs.<br> 
 Sorcières et cultistes ont élu domicile dans les ruines qui jouxtent la ville. <br> 
-Dans les caves souterraines, des réunions secrètes préparent la chute de Ravenswood et de ses infortunés habitants.<br>   
+Dans les caves souterraines, des réunions secrètes préparent la chute de Ravenswood et de ses infortunés habitants.<br>    
 Le temps du châtiment est venu…
 </p>
 
@@ -164,7 +165,7 @@ Une fois que l’équipe du Bien aura distingué les vraies informations des fau
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
-Mais ce n’est pas si simple, car les Marginaux (et même certains Villageois) auront tendance à mentir sur leur propre rôle pendant une bonne partie du jeu.	<br>  
+Mais ce n’est pas si simple, car les Marginaux (et même certains Villageois) auront tendance à mentir sur leur propre rôle pendant une bonne partie du jeu.  <br>  
 Un Marginal qui meurt peut sérieusement désavantager l’équipe du Bien.<br> 
 Pour le Démon, c’est en général une bonne idée de les cibler en premier.
 </p>
@@ -181,7 +182,7 @@ Les joueurs maléfiques doivent aussi faire attention aux informations qu’ils 
 
 
 <p class="botc-flavour-text dropcap">
-<strong>S’IL S’AGIT DE VOTRE PREMIÈRE PARTIE DE <span style="color:#d67bff;">SECTS &amp; VIOLETS</span> EN TANT QUE CONTEUR</strong> et que vous souhaitez apprendre avec les rôles les plus simples, nous vous conseillons de mettre en jeu les rôles suivants :
+<strong>S’IL S’AGIT DE VOTRE PREMIÈRE PARTIE DE <span style="color:#d67bff;">SECTS & VIOLETS</span> EN TANT QUE CONTEUR</strong> et que vous souhaitez apprendre avec les rôles les plus simples, nous vous conseillons de mettre en jeu les rôles suivants :
 </p>
 
 <p style="color:#f5f5f5; font-size:18px; line-height:1.7;">
@@ -346,14 +347,14 @@ Les joueurs maléfiques doivent aussi faire attention aux informations qu’ils 
 <hr class="explication">
 
 
-##  <span style="color:#d67bff;">Télécharger &amp;  Imprimer</span>
+##  <span style="color:#d67bff;">Télécharger &  Imprimer</span>
 
 <p style="color:#d67bff; font-size:18px; line-height:1.7;">
 Ces ressources sont pratiques pour <strong>imprimer</strong> et <strong>jouer en personne</strong>.
 </p>
 
 <p style="text-align:left; font-size:18px;">
- <a href="./images/sv-roles.pdf" style="color:#d67bff; font-weight:bold; text-decoration:none;"> Télécharger le PDF de Sects &amp; Violets</a>
+ <a href="./images/sv-roles.pdf" style="color:#d67bff; font-weight:bold; text-decoration:none;"> Télécharger le PDF de Sects & Violets</a>
 </p>
 
 <div style="text-align:left;">
@@ -362,9 +363,83 @@ Ces ressources sont pratiques pour <strong>imprimer</strong> et <strong>jouer en
   <a href="./images/sv-nuit.png"><img src="./images/sv-nuit.png" alt="Ordre de Nuit" width="250" style="margin:8px; border-radius:8px;"></a>
 </div>
 
+<!-- NOUVELLE SECTION : MATÉRIEL DU MODULE SECTS & VIOLETS -->
+<div markdown="0">
+<style>
+/* Section sombre Sects & Violets */
+.sv-box-section {
+  background-image: url('images/bg-violet.jpg');
+  background-color: #1e0f2b;
+  background-size: cover;
+  background-position: center;
+  padding: 60px 20px;
+  margin: 40px 0;
+  border-radius: 8px;
+}
+.sv-box-content { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 40px; max-width: 1200px; margin: 0 auto; }
+.sv-box-image { flex: 1 1 50%; max-width: 600px; text-align: center; }
+.sv-box-list { flex: 1 1 40%; min-width: 300px; }
+.sv-box-list h3 { color: #f4efe6 !important; font-family: Georgia, serif; font-size: 28px; text-transform: uppercase; letter-spacing: 2px; margin-top: 0; margin-bottom: 30px; }
+
+/* Liste numérotée autonome pour ne pas casser ton layout */
+.sv-numbered-list { list-style-type: none !important; padding-left: 0 !important; margin: 0; counter-reset: sv-counter; }
+.sv-numbered-list li { position: relative; padding-left: 45px !important; margin-bottom: 20px !important; color: #f4efe6 !important; font-size: 15px; line-height: 1.5; list-style: none !important; }
+.sv-numbered-list li::before { counter-increment: sv-counter; content: counter(sv-counter); position: absolute; left: 0; top: -2px; width: 26px; height: 26px; border: 1.5px solid #f4efe6; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 13px; color: #f4efe6; }
+
+/* Effet Loupe */
+.img-zoom-effect { width: 100%; height: auto; object-fit: contain; transition: transform 0.3s ease, filter 0.3s ease; cursor: zoom-in; }
+.img-zoom-effect:hover { transform: scale(1.05); filter: drop-shadow(0 15px 25px rgba(0,0,0,0.7)); }
+
+/* Lightbox pour le zoom de cette image précise */
+.lightbox-overlay { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.85); display: none; z-index: 9999; }
+.lightbox-overlay:target { display: flex; align-items: center; justify-content: center; }
+.lightbox-close-zone { position: absolute; top: 0; left: 0; width: 100%; height: 100%; cursor: zoom-out; }
+.lightbox-close-btn { position: absolute; top: 20px; right: 30px; color: white; font-size: 40px; text-decoration: none; z-index: 10000; }
+.lightbox-content { position: relative; z-index: 10001; max-width: 90vw; max-height: 90vh; }
+.lightbox-img { max-width: 100%; max-height: 90vh; border-radius: 8px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); }
+.lightbox-toggle { display: none; }
+</style>
+
+<div id="inclus" class="sv-box-section">
+<div class="sv-box-content">
+<div class="sv-box-image">
+<a href="#zoom-sv-box" title="Agrandir l'image">
+<img src="images/Edition_Spread_S_V.png.webp" alt="Matériel Sects & Violets" class="img-zoom-effect">
+</a>
+</div>
+<div class="sv-box-list">
+<h3>QU'EST-CE QU'IL Y A DANS LE MODULE SECTS & VIOLETS ?</h3>
+<ul class="sv-numbered-list">
+<li>1 almanach de rôles Sects & Violets</li>
+<li>1 boîte du module Sects & Violets</li>
+<li>1 fiche de nuit Sects & Violets</li>
+<li>20 fiches de rôles Sects & Violets</li>
+<li>26 jetons de rôles Sects & Violets</li>
+<li>37 jetons de rappel Sects & Violets</li>
+</ul>
+</div>
+</div>
+</div>
+
+<!-- Lightbox invisible (activée au clic) -->
+<div id="zoom-sv-box" class="lightbox-overlay">
+<a href="#close" class="lightbox-close-zone" title="Fermer la vue"></a>
+<a href="#close" class="lightbox-close-btn" title="Fermer">✖</a>
+<div class="lightbox-content">
+<input type="checkbox" id="toggle-zoom-sv-box" class="lightbox-toggle">
+<label for="toggle-zoom-sv-box" class="lightbox-img-wrapper" title="Cliquer pour fermer">
+<img src="images/Edition_Spread_S_V.png.webp" alt="Zoom sur le matériel Sects & Violets" class="lightbox-img">
+</label>
+</div>
+</div>
+</div>
+<!-- FIN DE LA NOUVELLE SECTION -->
+
+
 <hr class="explication">
 
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  <li> <a href="#" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Revenir en haut de la page</a></li>
   <li> <a href="./index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
   <li> <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
   <li> <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
