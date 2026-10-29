@@ -330,7 +330,7 @@ Les joueurs maléfiques voteront-ils pour exécuter un <a href="./sbires.html" s
   <!-- Femme Écarlate -->
   <a href="./tb_roles/femmeecarlate.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
     <img src="./images/Icon_scarletwoman.png" alt="Femme Écarlate" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
-    <span style="display:block; color:red; font-weight:bold; font-size:18px; margin-top:6px;">Femme écarlate</span>
+    <span style="display:block; color:red; font-weight:bold; font-size:18px; margin-top:6px;">Femme Écarlate</span>
   </a>
 
   <!-- Baron -->
@@ -384,7 +384,10 @@ Les joueurs maléfiques voteront-ils pour exécuter un <a href="./sbires.html" s
 <style>
 /* Section sombre Trouble Brewing */
 .tb-box-section {
-  background-color: #2b0f15; /* Rouge très sombre pour coller au thème TB */
+  background-image: url('images/bg-violet.jpg');
+  background-color: #1e0f2b;
+  background-size: cover;
+  background-position: center;
   padding: 60px 20px;
   margin: 40px 0;
   border-radius: 8px;
