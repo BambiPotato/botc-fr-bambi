@@ -13,7 +13,6 @@ image: /images/Logo_trouble_brewing.png
 
 <hr class="explication">
 
-
 <!--  Logo centré cliquable -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./trouble_brewing.html" style="text-decoration:none;">
@@ -107,16 +106,13 @@ image: /images/Logo_trouble_brewing.png
   <span style="font-weight:bold;">6.</span>
   <a href="#demons" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Démons</a><br>
   <span style="font-weight:bold;">7.</span>
-  <a href="#telechargements" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Téléchargements &amp; Ressources</a>
+  <a href="#telechargements" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Téléchargements & Ressources</a><br>
+  <span style="font-weight:bold;">8.</span>
+  <a href="#inclus" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Ce qui est inclus</a>
 </p>
-
-
-
-
 
 ## <span id="synopsis" style="color:#b58b52;">Synopsis</span>
 <hr>
-
 
 <p class="botc-flavour-text dropcap">
 Le ciel est menaçant au-dessus de Ravenswood.<br>
@@ -137,12 +133,8 @@ Sous le clocher d’un monastère qui domine la région, des silhouettes encapuc
 Ceux qui peuvent lire les signes savent que les germes de la discorde ne sont pas loin…
 </p>
 
-
-
-
 ##  <span style="color:#b58b52;">Gameplay</span>
 <hr>
-
 
 <p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
   <strong><span style="color:#b58b52;">TROUBLE BREWING</span></strong>
@@ -191,10 +183,7 @@ Le <a href="./tb_roles/imp.html" style="color:#d45b5b; font-weight:bold; text-de
 Les joueurs maléfiques voteront-ils pour exécuter un <a href="./sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbire</a> trop suspect afin d’endormir les soupçons de leurs adversaires ?
 </p>
 
-
-
 <hr class="explication">
-
 
 <p style="text-align:left; color:#f5f5f5; font-size:18px; line-height:1.7;">
   <a id="villageois" href="./villageois.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a>
@@ -283,8 +272,6 @@ Les joueurs maléfiques voteront-ils pour exécuter un <a href="./sbires.html" s
 
 </div>
 
-
-
 <p style="text-align:left; color:#e0c99d; font-size:20px;">
   <a id="etrangers" href="./etrangers.html" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a>
 </p>
@@ -320,8 +307,6 @@ Les joueurs maléfiques voteront-ils pour exécuter un <a href="./sbires.html" s
 
 </div>
 
-
-
 <p style="text-align:left; color:#e0c99d; font-size:18px;">
   <a id="sbires" href="./sbires.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a>
 </p>
@@ -345,7 +330,7 @@ Les joueurs maléfiques voteront-ils pour exécuter un <a href="./sbires.html" s
   <!-- Femme Écarlate -->
   <a href="./tb_roles/femmeecarlate.html" style="text-decoration:none; flex:0 0 220px; text-align:center;">
     <img src="./images/Icon_scarletwoman.png" alt="Femme Écarlate" style="display:block; margin:0 auto; width:220px; height:auto; border-radius:12px;">
-    <span style="display:block; color:red; font-weight:bold; font-size:18px; margin-top:6px;">Femme Écarlate</span>
+    <span style="display:block; color:red; font-weight:bold; font-size:18px; margin-top:6px;">Femme écarlate</span>
   </a>
 
   <!-- Baron -->
@@ -355,8 +340,6 @@ Les joueurs maléfiques voteront-ils pour exécuter un <a href="./sbires.html" s
   </a>
 
 </div>
-
-
 
 <p style="text-align:left; color:#e0c99d; font-size:18px;">
   <a id="demons" href="./demons.html" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démon</a>
@@ -375,9 +358,7 @@ Les joueurs maléfiques voteront-ils pour exécuter un <a href="./sbires.html" s
 
 </div>
 
-
 <hr class="explication">
-
 
 ## <span id="telechargements" style="color:#b58b52;">Téléchargements & Ressources</span>
 
@@ -385,7 +366,6 @@ Les joueurs maléfiques voteront-ils pour exécuter un <a href="./sbires.html" s
 <p style="text-align:left; font-size:18px;">
    <a href="./images/trouble_brewing.pdf" style="color:#d4a76a; font-weight:bold; text-decoration:none;"> Télécharger le PDF de Trouble Brewing</a>
 </p>
-
 
 <div style="text-align:left;">
   <a href="./images/tb-front .png"> 
@@ -399,12 +379,80 @@ Les joueurs maléfiques voteront-ils pour exécuter un <a href="./sbires.html" s
   </a>
 </div>
 
+<!-- NOUVELLE SECTION : MATÉRIEL DU MODULE TROUBLE BREWING -->
+<div markdown="0">
+<style>
+/* Section sombre Trouble Brewing */
+.tb-box-section {
+  background-color: #2b0f15; /* Rouge très sombre pour coller au thème TB */
+  padding: 60px 20px;
+  margin: 40px 0;
+  border-radius: 8px;
+}
+.tb-box-content { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 40px; max-width: 1200px; margin: 0 auto; }
+.tb-box-image { flex: 1 1 50%; max-width: 600px; text-align: center; }
+.tb-box-list { flex: 1 1 40%; min-width: 300px; }
+.tb-box-list h3 { color: #f4efe6 !important; font-family: Georgia, serif; font-size: 28px; text-transform: uppercase; letter-spacing: 2px; margin-top: 0; margin-bottom: 30px; }
+
+/* Liste numérotée autonome pour ne pas casser ton layout */
+.tb-numbered-list { list-style-type: none !important; padding-left: 0 !important; margin: 0; counter-reset: tb-counter; }
+.tb-numbered-list li { position: relative; padding-left: 45px !important; margin-bottom: 20px !important; color: #f4efe6 !important; font-size: 15px; line-height: 1.5; list-style: none !important; }
+.tb-numbered-list li::before { counter-increment: tb-counter; content: counter(tb-counter); position: absolute; left: 0; top: -2px; width: 26px; height: 26px; border: 1.5px solid #f4efe6; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 13px; color: #f4efe6; }
+
+/* Effet Loupe */
+.img-zoom-effect { width: 100%; height: auto; object-fit: contain; transition: transform 0.3s ease, filter 0.3s ease; cursor: zoom-in; }
+.img-zoom-effect:hover { transform: scale(1.05); filter: drop-shadow(0 15px 25px rgba(0,0,0,0.7)); }
+
+/* Lightbox pour le zoom de cette image précise */
+.lightbox-overlay { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.85); display: none; z-index: 9999; }
+.lightbox-overlay:target { display: flex; align-items: center; justify-content: center; }
+.lightbox-close-zone { position: absolute; top: 0; left: 0; width: 100%; height: 100%; cursor: zoom-out; }
+.lightbox-close-btn { position: absolute; top: 20px; right: 30px; color: white; font-size: 40px; text-decoration: none; z-index: 10000; }
+.lightbox-content { position: relative; z-index: 10001; max-width: 90vw; max-height: 90vh; }
+.lightbox-img { max-width: 100%; max-height: 90vh; border-radius: 8px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); }
+.lightbox-toggle { display: none; }
+</style>
+
+<div id="inclus" class="tb-box-section">
+<div class="tb-box-content">
+<div class="tb-box-image">
+<a href="#zoom-tb-box" title="Agrandir l'image">
+<img src="images/Editon_Spread_TB_1_1.png.webp" alt="Matériel Trouble Brewing" class="img-zoom-effect">
+</a>
+</div>
+<div class="tb-box-list">
+<h3>QU'EST-CE QU'IL Y A DANS LE MODULE TROUBLE BREWING ?</h3>
+<ul class="tb-numbered-list">
+<li>1 almanach de rôles Trouble Brewing</li>
+<li>1 boîte du module Trouble Brewing</li>
+<li>1 fiche de nuit Trouble Brewing</li>
+<li>20 fiches de rôles Trouble Brewing</li>
+<li>25 jetons de rôles Trouble Brewing</li>
+<li>16 jetons de rappel Trouble Brewing</li>
+</ul>
+</div>
+</div>
+</div>
+
+<!-- Lightbox invisible (activée au clic) -->
+<div id="zoom-tb-box" class="lightbox-overlay">
+<a href="#close" class="lightbox-close-zone" title="Fermer la vue"></a>
+<a href="#close" class="lightbox-close-btn" title="Fermer">✖</a>
+<div class="lightbox-content">
+<input type="checkbox" id="toggle-zoom-tb-box" class="lightbox-toggle">
+<label for="toggle-zoom-tb-box" class="lightbox-img-wrapper" title="Cliquer pour fermer">
+<img src="images/Editon_Spread_TB_1_1.png.webp" alt="Zoom sur le matériel Trouble Brewing" class="lightbox-img">
+</label>
+</div>
+</div>
+</div>
+<!-- FIN DE LA NOUVELLE SECTION -->
 
 <hr class="explication">
 
-
 <ul style="color:#e0c99d; font-size:18px; line-height:1.7;">
+  <li> <a href="#" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Revenir en haut de la page</a></li>
   <li> <a href="./index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
   <li> <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li> <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a></li>
+  <li> <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
 </ul>
