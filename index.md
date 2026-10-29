@@ -815,7 +815,7 @@ table.roles-grid{ border-spacing:14px; }
       </a>
     </td>
 
-    <!-- Dans la boîte de jeu  -->
+    <!-- Dans la boîte de jeu (NOUVEAU) -->
     <td style="height: auto !important; min-height: 220px; vertical-align: top;">
       <a href="./boite.html" style="display: flex; flex-direction: column; align-items: center; justify-content: space-between; height: 100%; min-height: 200px; padding: 20px 12px; text-decoration: none !important; box-sizing: border-box;">
         <div style="display: flex; flex-direction: column; align-items: center;">
@@ -824,7 +824,7 @@ table.roles-grid{ border-spacing:14px; }
           </span>
           <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px; text-align:center;">Dans la boîte de jeu</span>
         </div>
-        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center; line-height:1.3;">Le détail du matériel par module</span>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center; line-height:1.3;">Qu'est-ce qu'il ya dans la boîte de jeu ?</span>
       </a>
     </td>
 
@@ -832,6 +832,7 @@ table.roles-grid{ border-spacing:14px; }
     <td style="background: transparent !important; border: none !important; box-shadow: none !important;"></td>
   </tr>
 </table>
+
 
 <!-- Guides pour les Conteurs -->
 <h1 style="
@@ -931,6 +932,8 @@ table.roles-grid{ border-spacing:14px; }
     </td>
   </tr>
 </table>
+
+
 
 <!-- ====== SCRIPTS PERSONNALISÉS ====== -->
 <style>
