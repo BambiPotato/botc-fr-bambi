@@ -8,6 +8,24 @@ home_sidebar: true
 ---
 
 <style>
+/* ========================================================
+   EFFET LOUPE SUR TOUTES LES IMAGES DES GRILLES / CARTES
+   ======================================================== */
+a:hover .rg-media img,
+td > a:hover img[src*="Generic_"],
+.home-card:hover img {
+    transform: scale(1.12);
+    filter: drop-shadow(0 10px 20px rgba(0,0,0,0.5));
+}
+.rg-media img,
+td > a img[src*="Generic_"],
+.home-card img {
+    transition: transform 0.3s ease, filter 0.3s ease !important;
+}
+
+/* ========================================================
+   STYLES GLOBAUX EXISTANTS
+   ======================================================== */
 .home-topbar{
 display:flex;
 align-items:center;
@@ -390,9 +408,9 @@ table.roles-grid{ border-spacing:14px; }
     <td>
       <a href="./sv.html">
         <span class="rg-media">
-          <img src="./images/Logo_sects_and_violets.png" alt="Sects &amp; Violets">
+          <img src="./images/Logo_sects_and_violets.png" alt="Sects & Violets">
         </span>
-        <span class="rg-title">Sects &amp; Violets</span>
+        <span class="rg-title">Sects & Violets</span>
       </a>
     </td>
   </tr>
@@ -584,7 +602,7 @@ table.roles-grid{ border-spacing:14px; }
           </span>
           <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px; text-align:center;">Glossaire des termes anglais</span>
         </div>
-        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center; line-height:1.3;">Termes anglais &amp; équivalents français</span>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center; line-height:1.3;">Termes anglais & équivalents français</span>
       </a>
     </td>
 
@@ -610,7 +628,7 @@ table.roles-grid{ border-spacing:14px; }
           <span class="rg-media" style="margin-bottom: 12px;">
             <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
           </span>
-          <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px; text-align:center;">Conseils &amp; stratégies pour les joueurs et joueuses</span>
+          <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px; text-align:center;">Conseils & stratégies pour les joueurs et joueuses</span>
         </div>
         <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center; line-height:1.3;">Pistes de réflexion en partie</span>
       </a>
@@ -797,12 +815,23 @@ table.roles-grid{ border-spacing:14px; }
       </a>
     </td>
 
-    <!-- Cases vides invisibles -->
-    <td style="background: transparent !important; border: none !important; box-shadow: none !important;"></td>
+    <!-- Dans la boîte de jeu  -->
+    <td style="height: auto !important; min-height: 220px; vertical-align: top;">
+      <a href="./boite.html" style="display: flex; flex-direction: column; align-items: center; justify-content: space-between; height: 100%; min-height: 200px; padding: 20px 12px; text-decoration: none !important; box-sizing: border-box;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <span class="rg-media" style="margin-bottom: 12px;">
+            <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
+          </span>
+          <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px; text-align:center;">Dans la boîte de jeu</span>
+        </div>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center; line-height:1.3;">Le détail du matériel par module</span>
+      </a>
+    </td>
+
+    <!-- Case vide invisible -->
     <td style="background: transparent !important; border: none !important; box-shadow: none !important;"></td>
   </tr>
 </table>
-
 
 <!-- Guides pour les Conteurs -->
 <h1 style="
@@ -814,7 +843,7 @@ table.roles-grid{ border-spacing:14px; }
   margin-bottom:14px;
   margin-top:30px;
 ">
-  Guides pour les Conteurs & Conteuses par Steven Medway &amp; Emma
+  Guides pour les Conteurs & Conteuses par Steven Medway & Emma
 </h1>
 
 <hr>
@@ -828,9 +857,9 @@ table.roles-grid{ border-spacing:14px; }
           <span class="rg-media" style="margin-bottom: 12px;">
             <img src="./images/logomini.png" alt="Icone BotC" style="width:100px; height:auto; opacity:0.95; display:block; margin: 0 auto;">
           </span>
-          <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px; text-align:center;">Conter la Folie &amp; la Pixie</span>
+          <span class="rg-title" style="font-size:18px; font-weight:bold; line-height:1.2; margin-bottom:8px; text-align:center;">Conter la Folie & la Pixie</span>
         </div>
-        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center; line-height:1.3;">Guide pour la folie &amp; la Pixie par Steven Medway</span>
+        <span class="rules-sub" style="display:block; font-size:13px; opacity:0.85; margin:0; text-align:center; line-height:1.3;">Guide pour la folie & la Pixie par Steven Medway</span>
       </a>
     </td>
 
@@ -902,8 +931,6 @@ table.roles-grid{ border-spacing:14px; }
     </td>
   </tr>
 </table>
-
-
 
 <!-- ====== SCRIPTS PERSONNALISÉS ====== -->
 <style>
@@ -1235,7 +1262,7 @@ table.roles-grid{ border-spacing:14px; }
 <div style="text-align:left; margin-top:40px; line-height:1.8; border:1px solid rgba(212,167,106,0.3); border-radius:10px; padding:25px; box-shadow:0 0 12px rgba(0,0,0,0.4); background-color:rgba(0,0,0,0.45);">
 
   <h2 style="color:#d4a76a; font-size:18px; font-weight:bold; text-shadow:1px 1px 4px #000;">
-    Jouer en personne ou en ligne&nbsp;?
+    Jouer en personne ou en ligne ?
   </h2>
 
   <p style="font-size:16px; color:#e0c99d;">
@@ -1299,7 +1326,7 @@ table.roles-grid{ border-spacing:14px; }
      style="color:#d4a76a; font-weight:bold; text-decoration:none;">
     The Pandemonium Institute
   </a>
-  <span style="color:#d4a76a;">&nbsp;•&nbsp;</span>
+  <span style="color:#d4a76a;"> • </span>
   <a href="https://open-sesame.games/"
      target="_blank" rel="noopener noreferrer"
      style="color:#d4a76a; font-weight:bold; text-decoration:none;">
@@ -1317,9 +1344,7 @@ table.roles-grid{ border-spacing:14px; }
   </a> !
 </p>
 
-
 <hr class="explication">
-
 
   <p align="left" style="margin-top:30px;">
     <a href="/botc-fr-bambi/">
