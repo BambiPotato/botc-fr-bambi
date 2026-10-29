@@ -2,7 +2,7 @@
 layout: default
 title: "Qu'est-ce qu'il y a dans la boîte du jeu Blood on the Clocktower ?"
 description: "Vous retrouverez ici en images le détail de ce qu'il y a dans la boîte de base et dans les différents modules."
-image: /images/logogold.png
+image: /images/Grimoire_1_2.webp
 ---
 
 <div markdown="0">
@@ -18,9 +18,9 @@ image: /images/logogold.png
 .intro-image img { width: 100%; height: auto; filter: drop-shadow(0 15px 25px rgba(0,0,0,0.4)); }
 .intro-text h1 { font-family: Georgia, serif; color: #5C2E1F !important; font-size: 32px; text-transform: uppercase; letter-spacing: 2px; border-top: 1px solid #5C2E1F; border-bottom: 1px solid #5C2E1F; padding: 20px 0; margin: 0; z-index: 2; position: relative; }
 
-/* 2. SECTION SOMBRE VIOLETTE */
+/* 2. SECTION SOMBRE VIOLETTE OFFICIELLE */
 .dark-box-section { 
-background-image: url('/botc-fr-bambi/images/fond-violet.png'); /* Mets le bon nom de ton fond violet ici */
+background-image: url('images/bg-violet.jpg'); 
 background-color: #1e0f2b;
 background-size: cover; background-position: center; padding: 60px 20px; 
 }
@@ -67,11 +67,11 @@ background-size: cover; background-position: center; padding: 60px 20px;
 <!-- 1. EN-TÊTE : LE GRIMOIRE ANIMÉ AVEC BOUGIES -->
 <div class="intro-section">
 <div class="decorations-left">
-<img src="/botc-fr-bambi/images/3_-_TT_Cutout_-_Candles_1.png.avif" alt="Bougies">
+<img src="images/3_-_TT_Cutout_-_Candles_1.png.avif" alt="Bougies">
 </div>
 <div class="intro-image">
 <a href="#zoom-grimoire" title="Agrandir l'image">
-<img src="/botc-fr-bambi/images/buy-book.png.webp" alt="Le Grimoire Blood on the Clocktower" class="img-zoom-effect">
+<img src="images/buy-book.png.webp" alt="Le Grimoire Blood on the Clocktower" class="img-zoom-effect">
 </a>
 </div>
 <div class="intro-text">
@@ -84,7 +84,7 @@ background-size: cover; background-position: center; padding: 60px 20px;
 <div class="dark-box-content">
 <div class="box-exploded-image">
 <a href="#zoom-boite-base" title="Agrandir l'image">
-<img src="/botc-fr-bambi/images/boite-base_2.png" alt="Matériel détaillé" class="img-zoom-effect">
+<img src="images/boite-base_2.png" alt="Matériel détaillé" class="img-zoom-effect">
 </a>
 </div>
 <div class="box-list-container">
@@ -93,12 +93,12 @@ background-size: cover; background-position: center; padding: 60px 20px;
 <li>1 livre de règles principal et 4 almanachs de rôles.</li>
 <li>99 rôles uniques : 39 Villageois, 12 Marginaux, 12 Sbires, 9 Démons, 15 Voyageurs, et 12 Légendaires.</li>
 <li>120 jetons de rappel pour le Conteur, pour toutes les situations possibles.</li>
-<li>60 fiches de rôles - 20 pour chacune des trois premiers modules du jeu.</li>
+<li>60 fiches de rôles - 20 pour chacune des trois premières éditions du jeu.</li>
 <li>Plateau de la Place du Village, 20 jetons de vie, et 18+ jetons de vote.</li>
 <li>La boîte elle-même forme l'illustre Grimoire ; le guide du Conteur pour chaque partie.</li>
 <li>Support pliant pour poser votre Grimoire.</li>
-<li>4 boîtes de jetons pour ranger et organiser chaque module.</li>
-<li>Tout le reste pour vous aider à organiser et suivre : 18+ linceuls, 25+ jetons de nuit, 4 tuiles d'information, 1 sac en tissu pour la sélection des rôles, 3 fiches de nuit, 1 fiche de mise en place, 1 fiche de Voyageurs, des pinces pour le Grimoire.</li>
+<li>4 boîtes de jetons pour ranger et organiser chaque édition.</li>
+<li>Tout le reste pour vous aider à organiser et suivre : 18+ linceuls, 25+ jetons de nuit, 4 jetons d'information, 1 sac en tissu pour la sélection des rôles, 3 fiches de nuit, 1 fiche de mise en place, 1 fiche de Voyageurs, des pinces pour le Grimoire.</li>
 </ul>
 </div>
 </div>
@@ -108,16 +108,16 @@ background-size: cover; background-position: center; padding: 60px 20px;
 <div class="module-section">
 <div class="module-container">
 <div class="module-logo">
-<img src="/botc-fr-bambi/images/logo-PO4QGYTI_2.webp" alt="Logo Trouble Brewing">
+<img src="images/logo-PO4QGYTI.webp" alt="Logo Trouble Brewing">
 </div>
 <div class="module-text">
 <h2>TROUBLE BREWING</h2>
 <p class="niveau">DÉBUTANT</p>
 <p>Trouble Brewing a un peu de tout. Certains rôles reçoivent passivement des informations, d'autres doivent agir pour savoir qui est qui, tandis que d'autres veulent simplement inciter le Démon à les attaquer.</p>
-<a href="/botc-fr-bambi/trouble_brewing.html" class="discover-more-link">DÉCOUVREZ PLUS</a>
+<a href="trouble_brewing.html" class="discover-more-link">DÉCOUVREZ PLUS</a>
 </div>
 <div class="module-artwork">
-<img src="/botc-fr-bambi/images/explore-artwork-I3UOZ3DW_2.webp" alt="Illustration Trouble Brewing">
+<img src="images/explore-artwork-I3UOZ3DW.webp" alt="Illustration Trouble Brewing">
 </div>
 </div>
 </div>
@@ -131,7 +131,7 @@ background-size: cover; background-position: center; padding: 60px 20px;
 <div class="lightbox-content">
 <input type="checkbox" id="toggle-zoom-grimoire" class="lightbox-toggle">
 <label for="toggle-zoom-grimoire" class="lightbox-img-wrapper" title="Cliquer pour fermer">
-<img src="/botc-fr-bambi/images/buy-book.png.webp" alt="Zoom sur le Grimoire" class="lightbox-img">
+<img src="images/buy-book.png.webp" alt="Zoom sur le Grimoire" class="lightbox-img">
 </label>
 </div>
 </div>
@@ -142,7 +142,7 @@ background-size: cover; background-position: center; padding: 60px 20px;
 <div class="lightbox-content">
 <input type="checkbox" id="toggle-zoom-boite" class="lightbox-toggle">
 <label for="toggle-zoom-boite" class="lightbox-img-wrapper" title="Cliquer pour fermer">
-<img src="/botc-fr-bambi/images/boite-base_2.png" alt="Zoom sur le matériel" class="lightbox-img">
+<img src="images/boite-base_2.png" alt="Zoom sur le matériel" class="lightbox-img">
 </label>
 </div>
 </div>
