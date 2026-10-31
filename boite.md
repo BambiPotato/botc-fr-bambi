@@ -24,22 +24,13 @@ image: /images/Grimoire_1_2.webp
 .dark-box-section { 
 background-image: url('images/bg-violet.jpg'); 
 background-color: #1e0f2b;
-background-size: cover; background-position: center; padding: 60px 20px; margin-bottom: 5px;
+background-size: cover; background-position: center; padding: 60px 20px; margin-bottom: 40px; border-radius: 8px;
 }
-/* Variante sans marge basse pour enchainer les blocs sombres */
-.dark-box-section.no-margin { margin-bottom: 0; padding-bottom: 30px; }
-.dark-box-section.no-margin-top { margin-top: 0; padding-top: 30px; }
 
 .dark-box-content { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; max-width: 1200px; margin: 0 auto; gap: 40px; }
 .box-exploded-image { flex: 1 1 50%; max-width: 600px; text-align: center; }
 .box-list-container { flex: 1 1 40%; min-width: 300px; }
 .box-list-container h3 { color: #f4efe6 !important; font-family: Georgia, serif; font-size: 28px; text-transform: uppercase; letter-spacing: 2px; margin-top: 0; margin-bottom: 30px; }
-
-/* Cas particulier : fond rouge pour Trouble Brewing */
-.tb-box-section {
-  background-color: #2b0f15;
-  padding: 40px 20px;
-}
 
 /* EFFET LOUPE GLOBAL */
 .img-zoom-effect { width: 100%; height: auto; object-fit: contain; transition: transform 0.3s ease, filter 0.3s ease; cursor: zoom-in; }
@@ -170,7 +161,7 @@ background-size: cover; background-position: center; padding: 60px 20px; margin-
 </div>
 
 <!-- 2. SECTION SOMBRE : MATÉRIEL ÉCLATÉ GLOBAL -->
-<div class="dark-box-section no-margin">
+<div class="dark-box-section">
 <div class="dark-box-content">
 <div class="box-exploded-image">
 <a href="#zoom-boite-base" title="Agrandir l'image">
@@ -195,7 +186,7 @@ background-size: cover; background-position: center; padding: 60px 20px; margin-
 </div>
 
 <!-- SECTION SOMBRE : TROUBLE BREWING -->
-<div class="tb-box-section">
+<div class="dark-box-section">
 <div class="dark-box-content">
 <div class="box-exploded-image">
 <a href="#zoom-tb-box" title="Agrandir l'image">
@@ -217,7 +208,7 @@ background-size: cover; background-position: center; padding: 60px 20px; margin-
 </div>
 
 <!-- SECTION SOMBRE : BAD MOON RISING -->
-<div class="dark-box-section no-margin">
+<div class="dark-box-section">
 <div class="dark-box-content">
 <div class="box-exploded-image">
 <a href="#zoom-bmr-box" title="Agrandir l'image">
@@ -239,7 +230,7 @@ background-size: cover; background-position: center; padding: 60px 20px; margin-
 </div>
 
 <!-- SECTION SOMBRE : SECTS & VIOLETS -->
-<div class="dark-box-section no-margin no-margin-top">
+<div class="dark-box-section">
 <div class="dark-box-content">
 <div class="box-exploded-image">
 <a href="#zoom-sv-box" title="Agrandir l'image">
@@ -261,7 +252,7 @@ background-size: cover; background-position: center; padding: 60px 20px; margin-
 </div>
 
 <!-- SECTION SOMBRE : VOYAGEURS ET LÉGENDAIRES -->
-<div class="dark-box-section no-margin-top">
+<div class="dark-box-section">
 <div class="dark-box-content">
 <div class="box-exploded-image">
 <a href="#zoom-voyageurs-box" title="Agrandir l'image">
@@ -283,7 +274,7 @@ background-size: cover; background-position: center; padding: 60px 20px; margin-
 </div>
 
 <!-- SECTION SOMBRE : LE PLATEAU DE LA PLACE DU VILLAGE -->
-<div class="dark-box-section no-margin-top" style="border-top: 1px solid rgba(212,167,106,0.3);">
+<div class="dark-box-section">
 <div class="dark-box-content">
 <div class="box-exploded-image">
 <a href="#zoom-plateau-box" title="Agrandir l'image">
