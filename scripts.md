@@ -21,7 +21,7 @@ image: /images/logogold.png
 <h3 style="margin: 0 0 14px 0; color: #5C2E1F; font-size: 20px; display: flex; align-items: center; gap: 8px;">🎨 Les Codes couleurs</h3>
 <ul class="color-list">
 <li><span class="dot dot-blue"></span><strong>Pastille Bleue (Niveau Débutant) :</strong> Débutants grandement bienvenus ! Exemple : le module de base <a href="/botc-fr-bambi/trouble_brewing.html" class="module-link link-tb">Trouble Brewing</a> ou ses dérivés proches.</li>
-<li><span class="dot dot-purple"></span><strong>Pastille Violette (Niveau Intermédiaire) :</strong> Pour les joueurs ayant déjà quelques parties à leur actif. Cela inclut les deux autres modules de base (<a href="/botc-fr-bambi/bmr.html" class="module-link link-bmr">Bad Moon Rising</a>, <a href="/botc-fr-bambi/sv.html" class="module-link link-sv">Sects &amp; Violets</a>) ainsi que des scripts personnalisés considérés comme simples.</li>
+<li><span class="dot dot-purple"></span><strong>Pastille Violette (Niveau Intermédiaire) :</strong> Pour les joueurs ayant déjà quelques parties à leur actif. Cela inclut les deux autres modules de base (<a href="/botc-fr-bambi/bmr.html" class="module-link link-bmr">Bad Moon Rising</a>, <a href="/botc-fr-bambi/sv.html" class="module-link link-sv">Sects & Violets</a>) ainsi que des scripts personnalisés considérés comme simples.</li>
 <li><span class="dot dot-orange"></span><strong>Pastille Orange (Niveau Avancé) :</strong> Scripts personnalisés avec des rôles complexes, des interactions poussées et souvent des rôles expérimentaux.</li>
 <li><span class="dot dot-green"></span><strong>Pastille Verte (Niveau Expert) :</strong> Scripts <em>homebrew</em> (faits maison) ou règles/rôles avec des Loric <img src="/botc-fr-bambi/images/Icon_bootlegger.png" alt="Bootlegger" class="loric-inline-icon"><img src="/botc-fr-bambi/images/Icon_pope.png" alt="Pope" class="loric-inline-icon"> modifiant lourdement les mécaniques du jeu.</li>
 </ul>
@@ -61,7 +61,7 @@ Ce script très populaire dans la communauté BotC est un dérivé direct du mod
 <a href="https://github.com/BambiPotato/botc-fr-bambi/releases/download/piesbaking/Pies.Baking.pdf" class="btn-action-tab" target="_blank">📄 Fiche PDF à imprimer</a>
 <a href="/botc-fr-bambi/images/Pies Baking.json" download="Pies Baking.json" class="btn-action-tab">⚙️ Fichier JSON (App BotC)</a>
 <a href="#zoom-piesbaking" class="btn-action-tab">🖼️ Fiche des rôles</a>
-<a href="#zoom-piesbaking-nuit" class="btn-action-tab">🌙 Fiche pour Conteur &amp; Conteuse</a>
+<a href="#zoom-piesbaking-nuit" class="btn-action-tab">🌙 Fiche pour Conteur & Conteuse</a>
 </div>
 
 <details class="roles-accordion">
@@ -140,7 +140,7 @@ Ce script créé par <strong>Emily</strong> est devenu incontournable dans la co
 <a href="https://github.com/BambiPotato/botc-fr-bambi/releases/download/catfishing/catfishing.pdf" class="btn-action-tab" target="_blank">📄 Fiche PDF à imprimer</a>
 <a href="/botc-fr-bambi/images/catfishing.json" download="catfishing.json" class="btn-action-tab">⚙️ Fichier JSON (App BotC)</a>
 <a href="#zoom-catfishing" class="btn-action-tab">🖼️ Fiche des rôles</a>
-<a href="#zoom-catfishing-nuit" class="btn-action-tab">🌙 Fiche pour Conteur &amp; Conteuse</a>
+<a href="#zoom-catfishing-nuit" class="btn-action-tab">🌙 Fiche pour Conteur & Conteuse</a>
 </div>
 
 <details class="roles-accordion">
@@ -206,13 +206,13 @@ Ce script créé par <strong>Emily</strong> est devenu incontournable dans la co
 <h2 class="script-title">Ok... But Hear Me Out !</h2>
 <div class="script-badges">
 <span class="badge-pill badge-green">🟢 Niveau expert</span>
-<span class="badge-pill">✍️ Auteurs : FM Jason &amp; Bambi 🥔</span>
+<span class="badge-pill">✍️ Auteurs : FM Jason & Bambi 🥔</span>
 <span class="badge-pill">👥 8 à 12 joueurs</span>
-<span class="badge-pill">🧞 Jinxes : Baron &amp; Hérétique</span>
+<span class="badge-pill">🧞 Jinxes : Baron & Hérétique</span>
 </div>
 
 <div class="script-tag-line" spellcheck="false" data-gramm="false">
-  <span class="tag-line-icon">💡</span> Recommandé pour des Conteurs, Conteuses, joueurs &amp; joueuses très aguerris. Une maîtrise pointue des rôles et intéractions avancés est indispensable pour mener la partie.
+  <span class="tag-line-icon">💡</span> Recommandé pour des Conteurs, Conteuses, joueurs & joueuses très aguerris. Une maîtrise pointue des rôles et intéractions avancés est indispensable pour mener la partie.
 </div>
 
 <p class="script-description" spellcheck="false" data-gramm="false">
@@ -226,7 +226,7 @@ Ce script hautement expérimental intègre plusieurs particularités :<br>
 <a href="https://github.com/BambiPotato/botc-fr-bambi/releases/tag/okbuthearmeout/Ok.But.Hear.Me.Out.pdf" class="btn-action-tab" target="_blank">📄 Fiche PDF à imprimer</a>
 <a href="/botc-fr-bambi/Okay...But%20Hear%20Me%20Out%20!.json" download="Okay...But Hear Me Out !.json" class="btn-action-tab">⚙️ Fichier JSON (App BotC)</a>
 <a href="#zoom-okbuthearmeout" class="btn-action-tab">🖼️ Fiche des rôles</a>
-<a href="#zoom-okbuthearmeout-nuit" class="btn-action-tab">🌙 Fiche pour Conteur &amp; Conteuse</a>
+<a href="#zoom-okbuthearmeout-nuit" class="btn-action-tab">🌙 Fiche pour Conteur & Conteuse</a>
 </div>
 
 <details class="roles-accordion">
@@ -291,13 +291,13 @@ Ce script hautement expérimental intègre plusieurs particularités :<br>
 <h2 class="script-title">Shabulous</h2>
 <div class="script-badges">
 <span class="badge-pill badge-orange">🟠 Niveau avancé</span>
-<span class="badge-pill">✍️ Auteurs : FM Jason &amp; Bambi 🥔</span>
+<span class="badge-pill">✍️ Auteurs : FM Jason & Bambi 🥔</span>
 <span class="badge-pill">👥 9 à 15 joueurs</span>
 <span class="badge-pill">🧞 Jinxes : Docteur de peste x 2</span>
 </div>
 
 <div class="script-tag-line" spellcheck="false" data-gramm="false">
-  <span class="tag-line-icon">💡</span> Recommandé pour des joueurs &amp; joueuses proactifs qui aiment enquêter, savent cacher leur rôle et maîtrisent l'art du bluff.
+  <span class="tag-line-icon">💡</span> Recommandé pour des joueurs & joueuses proactifs qui aiment enquêter, savent cacher leur rôle et maîtrisent l'art du bluff.
 </div>
 
 <p class="script-description" spellcheck="false" data-gramm="false">Le Shabaloth va-t-il s’acharner sur le Roi et perdre des attaques pour rien, ou est-ce un sbire maléfique qui revient toujours d’entre les morts ?<br>🚨 <strong>Attention</strong> : dans ce script, les Marginaux sont particulièrement redoutables puisqu’eux aussi peuvent revenir à la vie. <br> Si vous en êtes un, gardez impérativement votre rôle secret pour ne pas offrir une cible facile au Shabaloth.</p>
@@ -305,7 +305,7 @@ Ce script hautement expérimental intègre plusieurs particularités :<br>
 <a href="https://github.com/BambiPotato/botc-fr-bambi/releases/download/v1/shabulous.pdf" class="btn-action-tab" target="_blank">📄 Fiche PDF à imprimer</a>
 <a href="/botc-fr-bambi/images/Shabulous.json" download="Shabulous.json" class="btn-action-tab">⚙️ Fichier JSON (App BotC)</a>
 <a href="#zoom-shabulous" class="btn-action-tab">🖼️ Fiche des rôles</a>
-<a href="#zoom-shabulous-nuit" class="btn-action-tab">🌙 Fiche pour Conteur &amp; Conteuse</a>
+<a href="#zoom-shabulous-nuit" class="btn-action-tab">🌙 Fiche pour Conteur & Conteuse</a>
 </div>
 <details class="roles-accordion">
 <summary class="accordion-toggle">📜 Voir la composition des rôles</summary>
@@ -381,7 +381,7 @@ Tandis que le bien doit coopérer pour identifier les sbires et décider qui sac
 <a href="https://github.com/BambiPotato/botc-fr-bambi/releases/tag/Cyclone/Ride.the.Cyclone.pdf" class="btn-action-tab" target="_blank">📄 Fiche PDF à imprimer</a>
 <a href="/botc-fr-bambi/images/Ride%20the%20Cyclone.json" download="Ride the Cyclone.json" class="btn-action-tab">⚙️ Fichier JSON (App BotC)</a>
 <a href="#zoom-ridethecyclone" class="btn-action-tab">🖼️ Fiche des rôles</a>
-<a href="#zoom-ridethecyclone-nuit" class="btn-action-tab">🌙 Fiche pour Conteur &amp; Conteuse</a>
+<a href="#zoom-ridethecyclone-nuit" class="btn-action-tab">🌙 Fiche pour Conteur & Conteuse</a>
 </div>
 
 <details class="roles-accordion">
@@ -452,14 +452,14 @@ Tandis que le bien doit coopérer pour identifier les sbires et décider qui sac
 
 <p class="script-description" spellcheck="false" data-gramm="false">
 Ce script très populaire dans la communauté BotC a été créé par l'incontournable <strong>Ben Burns</strong>.<br><br>
-Il permet de découvrir certains rôles des deux autres modules, <a href="/botc-fr-bambi/bmr.html" class="module-link link-bmr">Bad Moon Rising</a> et <a href="/botc-fr-bambi/sv.html" class="module-link link-sv">Sects &amp; Violets</a>. C'est une immersion en douceur idéale pour préparer vos joueurs aux mécaniques plus avancées !
+Il permet de découvrir certains rôles des deux autres modules, <a href="/botc-fr-bambi/bmr.html" class="module-link link-bmr">Bad Moon Rising</a> et <a href="/botc-fr-bambi/sv.html" class="module-link link-sv">Sects & Violets</a>. C'est une immersion en douceur idéale pour préparer vos joueurs aux mécaniques plus avancées !
 </p>
 
 <div class="script-downloads">
 <a href="https://github.com/BambiPotato/botc-fr-bambi/releases/download/canplay/Everyone.Can.Play.pdf" class="btn-action-tab" target="_blank">📄 Fiche PDF à imprimer</a>
 <a href="/botc-fr-bambi/images/Everyone Can Play.json" download="Everyone Can Play.json" class="btn-action-tab">⚙️ Fichier JSON (App BotC)</a>
 <a href="#zoom-everyonecanplay" class="btn-action-tab">🖼️ Fiche des rôles</a>
-<a href="#zoom-everyonecanplay-nuit" class="btn-action-tab">🌙 Fiche pour Conteur &amp; Conteuse</a>
+<a href="#zoom-everyonecanplay-nuit" class="btn-action-tab">🌙 Fiche pour Conteur & Conteuse</a>
 </div>
 
 <details class="roles-accordion">
@@ -542,7 +542,7 @@ Il introduit une toute nouvelle dynamique : la présence du <a href="/botc-fr-ba
 <a href="https://github.com/BambiPotato/botc-fr-bambi/releases/download/Laissez.un.faire/Laissez.un.faire.pdf" class="btn-action-tab" target="_blank">📄 Fiche PDF à imprimer</a>
 <a href="/botc-fr-bambi/images/Laissez un Faire.json" download="Laissez un Faire.json" class="btn-action-tab">⚙️ Fichier JSON (App BotC)</a>
 <a href="#zoom-laissezunfaire" class="btn-action-tab">🖼️ Fiche des rôles</a>
-<a href="#zoom-laissezunfaire-nuit" class="btn-action-tab">🌙 Fiche pour Conteur &amp; Conteuse</a>
+<a href="#zoom-laissezunfaire-nuit" class="btn-action-tab">🌙 Fiche pour Conteur & Conteuse</a>
 </div>
 
 <details class="roles-accordion">
@@ -611,7 +611,7 @@ C'est une excellente initiation au format <strong>TeensyVille</strong> (spécial
 <a href="https://github.com/BambiPotato/botc-fr-bambi/releases/download/NoGreaterJoy/No.Greater.Joy.pdf" class="btn-action-tab" target="_blank">📄 Fiche PDF à imprimer</a>
 <a href="/botc-fr-bambi/images/No Greater Joy.json" download="No Greater Joy.json" class="btn-action-tab">⚙️ Fichier JSON (App BotC)</a>
 <a href="#zoom-nogreaterjoy" class="btn-action-tab">🖼️ Fiche des rôles</a>
-<a href="#zoom-nogreaterjoy-nuit" class="btn-action-tab">🌙 Fiche pour Conteur &amp; Conteuse</a>
+<a href="#zoom-nogreaterjoy-nuit" class="btn-action-tab">🌙 Fiche pour Conteur & Conteuse</a>
 </div>
 
 <details class="roles-accordion">
@@ -643,6 +643,88 @@ C'est une excellente initiation au format <strong>TeensyVille</strong> (spécial
 <p class="role-cat-title cat-evil">Démon</p>
 <div class="roles-chips-wrap">
 <a href="/botc-fr-bambi/tb_roles/imp.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_imp.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Diablotin</span></a>
+</div>
+
+</div>
+</details>
+
+</div>
+</div>
+
+<!-- 9. THE MIDNIGHT OASIS -->
+<div class="script-card">
+<a href="#zoom-themidnightoasis" class="script-preview-link" title="Agrandir la fiche du script">
+  <div class="preview-backdrop-wrapper">
+    <img src="https://github.com/BambiPotato/botc-fr-bambi/releases/download/Oasis/The.Midnight.Oasis.png" alt="Aperçu du script The Midnight Oasis" class="script-thumb">
+  </div>
+  <span class="preview-overlay">🔍 The Midnight Oasis — Agrandir la fiche</span>
+</a>
+<div class="script-content">
+<h2 class="script-title">The Midnight Oasis</h2>
+<div class="script-badges">
+<span class="badge-pill badge-orange">🟠 Niveau avancé</span>
+<span class="badge-pill">✍️ Auteur : Zets</span>
+<span class="badge-pill">👥 9 à 12 joueurs</span>
+<span class="badge-pill">🧞 Jinxes : Demoiselle & Guenaude</span>
+</div>
+
+<div class="script-tag-line" spellcheck="false" data-gramm="false">
+  <span class="tag-line-icon">💡</span> Recommandé pour les joueurs et joueuses qui aiment le chaos ! La présence de <a href="/botc-fr-bambi/roles_experimentaux/atheist.html" class="inline-role-link role-link-good">l'Athée</a> bouleverse toutes les certitudes : le Conteur ou la Conteuse peut alors enfreindre les règles à sa guise.
+</div>
+
+<p class="script-description" spellcheck="false" data-gramm="false">
+Ce script instaure une paranoïa constante : est-ce le Conteur qui orchestre les morts nocturnes, ou bien l'un des Démons cachés parmi vous ?<br><br>
+Pouvez-vous vraiment vous fier aux exécutions et assassinats avec le <a href="/botc-fr-bambi/sv_roles/vigormortis.html" class="inline-role-link role-link-evil">Vigormortis</a> en jeu ? Ou oserez-vous défier <a href="/botc-fr-bambi/roles_experimentaux/alhadikhia.html" class="inline-role-link role-link-evil">l'Al-Hadikhia</a> lors d'un ultimatum mortel en choisissant entre la vie et la mort ?
+</p>
+
+<div class="script-downloads">
+<a href="https://github.com/BambiPotato/botc-fr-bambi/releases/download/Oasis/The.Midnight.Oasis.pdf" class="btn-action-tab" target="_blank">📄 Fiche PDF à imprimer</a>
+<a href="https://github.com/BambiPotato/botc-fr-bambi/releases/download/Oasis/The.Midnight.Oasis.json" download="The.Midnight.Oasis.json" class="btn-action-tab">⚙️ Fichier JSON (App BotC)</a>
+<a href="#zoom-themidnightoasis" class="btn-action-tab">🖼️ Fiche des rôles</a>
+<a href="#zoom-themidnightoasis-nuit" class="btn-action-tab">🌙 Fiche pour Conteur & Conteuse</a>
+</div>
+
+<details class="roles-accordion">
+<summary class="accordion-toggle">📜 Voir la composition des rôles</summary>
+<div class="roles-accordion-inner">
+
+<p class="role-cat-title cat-good">Villageois</p>
+<div class="roles-chips-wrap">
+<a href="/botc-fr-bambi/roles_experimentaux/noble.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_noble.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Noble</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/balloonist.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_balloonist.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Aéronaute</span></a>
+<a href="/botc-fr-bambi/sv_roles/charmeurdeserpent.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_snakecharmer.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Charmeur de serpents</span></a>
+<a href="/botc-fr-bambi/sv_roles/savant.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_savant.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Savant</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/amnesiac.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_amnesiac.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Amnésique</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/engineer.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_engineer.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Ingénieur</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/huntsman.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_huntsman.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Chasseur</span></a>
+<a href="/botc-fr-bambi/bmr_roles/professeur.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_professor.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Professeur</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/fisherman.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_fisherman.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Pêcheur</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/farmer.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_farmer.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Fermière</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/poppygrower.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_poppygrower.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Planteur de pavot</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/cannibal.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_cannibal.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Cannibale</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/atheist.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_atheist.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Athée</span></a>
+</div>
+
+<p class="role-cat-title cat-good">Marginaux</p>
+<div class="roles-chips-wrap">
+<a href="/botc-fr-bambi/roles_experimentaux/damsel.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_damsel.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Demoiselle</span></a>
+<a href="/botc-fr-bambi/tb_roles/ivrogne.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_drunk.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Ivrogne</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/golem.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_golem.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Golem</span></a>
+<a href="/botc-fr-bambi/sv_roles/barbier.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_barber.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Barbier</span></a>
+</div>
+
+<p class="role-cat-title cat-evil">Sbires</p>
+<div class="roles-chips-wrap">
+<a href="/botc-fr-bambi/roles_experimentaux/mezepheles.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_mezepheles.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Mezepheles</span></a>
+<a href="/botc-fr-bambi/tb_roles/empoisonneur.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_poisoner.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Empoisonneur</span></a>
+<a href="/botc-fr-bambi/sv_roles/pithag.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_pithag.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Guenaude</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/psychopath.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_psychopath.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Psychopathe</span></a>
+</div>
+
+<p class="role-cat-title cat-evil">Démons</p>
+<div class="roles-chips-wrap">
+<a href="/botc-fr-bambi/roles_experimentaux/alhadikhia.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_alhadikhia.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Al-Hadikhia</span></a>
+<a href="/botc-fr-bambi/sv_roles/vigormortis.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_vigormortis.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Vigormortis</span></a>
 </div>
 
 </div>
@@ -817,7 +899,6 @@ C'est une excellente initiation au format <strong>TeensyVille</strong> (spécial
 </div>
 </div>
 
-
 <div id="zoom-nogreaterjoy" class="lightbox-overlay">
 <a href="#close" class="lightbox-close-zone" title="Fermer la vue"></a>
 <a href="#close" class="lightbox-close-btn" title="Fermer">✖</a>
@@ -836,6 +917,28 @@ C'est une excellente initiation au format <strong>TeensyVille</strong> (spécial
   <input type="checkbox" id="toggle-zoom-nogreaterjoy-nuit" class="lightbox-toggle">
   <label for="toggle-zoom-nogreaterjoy-nuit" class="lightbox-img-wrapper" title="Cliquer pour agrandir / réduire">
     <img src="/botc-fr-bambi/images/No Greater Joy. nuit.png" alt="Fiche de nuit No Greater Joy" class="lightbox-img">
+  </label>
+</div>
+</div>
+
+<div id="zoom-themidnightoasis" class="lightbox-overlay">
+<a href="#close" class="lightbox-close-zone" title="Fermer la vue"></a>
+<a href="#close" class="lightbox-close-btn" title="Fermer">✖</a>
+<div class="lightbox-content">
+  <input type="checkbox" id="toggle-zoom-oasis" class="lightbox-toggle">
+  <label for="toggle-zoom-oasis" class="lightbox-img-wrapper" title="Cliquer pour agrandir / réduire">
+    <img src="https://github.com/BambiPotato/botc-fr-bambi/releases/download/Oasis/The.Midnight.Oasis.png" alt="Fiche du script The Midnight Oasis" class="lightbox-img">
+  </label>
+</div>
+</div>
+
+<div id="zoom-themidnightoasis-nuit" class="lightbox-overlay">
+<a href="#close" class="lightbox-close-zone" title="Fermer la vue"></a>
+<a href="#close" class="lightbox-close-btn" title="Fermer">✖</a>
+<div class="lightbox-content">
+  <input type="checkbox" id="toggle-zoom-oasis-nuit" class="lightbox-toggle">
+  <label for="toggle-zoom-oasis-nuit" class="lightbox-img-wrapper" title="Cliquer pour agrandir / réduire">
+    <img src="https://github.com/BambiPotato/botc-fr-bambi/releases/download/Oasis/The.Midnight.Oasis-Ordre.de.Nuit.png" alt="Fiche de nuit The Midnight Oasis" class="lightbox-img">
   </label>
 </div>
 </div>
