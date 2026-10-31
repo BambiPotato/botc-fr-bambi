@@ -179,7 +179,7 @@ background-size: cover; background-position: center; padding: 60px 20px; margin-
 <li>La boîte elle-même forme l'illustre Grimoire ; le guide du Conteur pour chaque partie.</li>
 <li>Support pliant pour poser votre Grimoire.</li>
 <li>4 boîtes de jetons pour ranger et organiser chaque module.</li>
-<li>Tout le reste pour vous aider à organiser et suivre : 18+ linceuls, 25+ jetons de nuit, 4 tuiles d'information, 1 petit sac en tissu violet pour la sélection des rôles, 3 fiches de nuit, 1 fiche de mise en place, 1 fiche de Voyageurs, des pinces pour le Grimoire.</li>
+<li>Tout le reste pour vous aider à organiser et suivre : 18+ linceuls, 25+ jetons de nuit, 4 tuiles d'information, 1 sac en tissu violet pour la sélection des rôles, 3 fiches de nuit, 1 fiche de mise en place, 1 fiche de Voyageurs, des pinces pour le Grimoire.</li>
 </ul>
 </div>
 </div>
@@ -278,7 +278,7 @@ background-size: cover; background-position: center; padding: 60px 20px; margin-
 <div class="dark-box-content">
 <div class="box-exploded-image">
 <a href="#zoom-grimoire-tuto" title="Agrandir l'image">
-<img src="images/grimoireopen_jpg.jpg" alt="Comment installer et utiliser le Grimoire" class="img-zoom-effect" style="border-radius: 8px;">
+<img src="images/grimoireopen_jpg.webp" alt="Comment installer et utiliser le Grimoire" class="img-zoom-effect" style="border-radius: 8px;">
 </a>
 </div>
 <div class="box-list-container">
@@ -289,7 +289,7 @@ background-size: cover; background-position: center; padding: 60px 20px; margin-
 <li><strong>Côté droit :</strong> placez votre fiche de Conteur (l'ordre de la nuit) et vos jetons d'information pour vous assister.</li>
 <li><strong>Côté gauche :</strong> disposez les jetons de rôles et de rappel dans le sens des aiguilles d'une montre, en respectant la position des joueurs.</li>
 <li>Placez un linceul sur le jeton de rôle d'un joueur dès que celui-ci meurt.</li>
-<li><strong>En bas :</strong> installez la boîte de jetons correspondant au module joué (exemple : <em>Trouble Brewing</em>) pour garder les jetons de rôles et les linceuls à portée de main.</li>
+<li><strong>En bas :</strong> installez la boîte de jetons correspondant au module joué (ex : <em>Trouble Brewing</em>) pour garder les jetons de rôle et de rappel à portée de main. Ajoutez également des linceuls dans votre Grimoire pour qu'ils soient facilement accessibles.</li>
 <li>Une fois la partie terminée, rangez les jetons dans leur boîte, ou glissez les rôles dans le sac en tissu violet pour une nouvelle pioche !</li>
 </ul>
 </div>
@@ -486,7 +486,7 @@ background-size: cover; background-position: center; padding: 60px 20px; margin-
 <div class="lightbox-content">
 <input type="checkbox" id="toggle-zoom-grimoire-tuto" class="lightbox-toggle">
 <label for="toggle-zoom-grimoire-tuto" class="lightbox-img-wrapper" title="Cliquer pour fermer">
-<img src="images/grimoireopen_jpg.jpg" alt="Zoom sur l'utilisation du Grimoire" class="lightbox-img" style="border-radius: 8px;">
+<img src="images/grimoireopen_jpg.webp" alt="Zoom sur l'utilisation du Grimoire" class="lightbox-img" style="border-radius: 8px;">
 </label>
 </div>
 </div>
