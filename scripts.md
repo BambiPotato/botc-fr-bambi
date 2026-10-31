@@ -669,12 +669,12 @@ C'est une excellente initiation au format <strong>TeensyVille</strong> (spécial
 </div>
 
 <div class="script-tag-line" spellcheck="false" data-gramm="false">
-  <span class="tag-line-icon">💡</span> Recommandé pour les joueurs et joueuses qui aiment le chaos ! La présence de <a href="/botc-fr-bambi/roles_experimentaux/atheist.html" class="inline-role-link role-link-good">l'Athée</a> bouleverse toutes les certitudes : le Conteur ou la Conteuse peut alors enfreindre les règles à sa guise.
+  <span class="tag-line-icon">💡</span> Recommandé pour les joueurs et joueuses qui aiment le chaos ! La présence de <a href="/botc-fr-bambi/roles_experimentaux/atheist.html" class="inline-role-link role-link-good">l'Athée</a> bouleverse toutes les certitudes : le Conteur peut alors enfreindre les règles à sa guise.
 </div>
 
 <p class="script-description" spellcheck="false" data-gramm="false">
 Ce script instaure une paranoïa constante : est-ce le Conteur qui orchestre les morts nocturnes, ou bien l'un des Démons cachés parmi vous ?<br><br>
-Pouvez-vous vraiment vous fier aux exécutions et assassinats avec le <a href="/botc-fr-bambi/sv_roles/vigormortis.html" class="inline-role-link role-link-evil">Vigormortis</a> en jeu ? Ou oserez-vous défier <a href="/botc-fr-bambi/roles_experimentaux/alhadikhia.html" class="inline-role-link role-link-evil">l'Al-Hadikhia</a> lors d'un ultimatum mortel en choisissant entre la vie et la mort ?
+Pouvez-vous vraiment vous fier aux morts de nuit avec le <a href="/botc-fr-bambi/sv_roles/vigormortis.html" class="inline-role-link role-link-evil">Vigormortis</a> en jeu ? Ou oserez-vous défier <a href="/botc-fr-bambi/roles_experimentaux/alhadikhia.html" class="inline-role-link role-link-evil">l'Al-Hadikhia</a> lors d'un ultimatum mortel en choisissant entre la vie et la mort ?
 </p>
 
 <div class="script-downloads">
