@@ -179,7 +179,7 @@ background-size: cover; background-position: center; padding: 60px 20px; margin-
 <li>La boîte elle-même forme l'illustre Grimoire ; le guide du Conteur pour chaque partie.</li>
 <li>Support pliant pour poser votre Grimoire.</li>
 <li>4 boîtes de jetons pour ranger et organiser chaque module.</li>
-<li>Tout le reste pour vous aider à organiser et suivre : 18+ linceuls, 25+ jetons de nuit, 4 tuiles d'information, 1 sac en tissu violet pour la sélection des rôles, 3 fiches de nuit, 1 fiche de mise en place, 1 fiche de Voyageurs, des pinces pour le Grimoire.</li>
+<li>Tout le reste pour vous aider à organiser et suivre vos parties : 18 linceuls, 25 jetons de nuit, 4 tuiles d'information, 1 petit sac en tissu violet pour la sélection des rôles, 3 fiches de nuit, 1 fiche de mise en place, 1 fiche de Voyageurs, 2 pinces pour le Grimoire.</li>
 </ul>
 </div>
 </div>
