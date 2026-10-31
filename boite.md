@@ -20,16 +20,26 @@ image: /images/Grimoire_1_2.webp
 .intro-image img { width: 100%; height: auto; filter: drop-shadow(0 15px 25px rgba(0,0,0,0.4)); }
 .intro-text h1 { font-family: Georgia, serif; color: #5C2E1F !important; font-size: 32px; text-transform: uppercase; letter-spacing: 2px; border-top: 1px solid #5C2E1F; border-bottom: 1px solid #5C2E1F; padding: 20px 0; margin: 0; z-index: 2; position: relative; }
 
-/* 2. SECTION SOMBRE VIOLETTE OFFICIELLE */
+/* 2. SECTION SOMBRE VIOLETTE OFFICIELLE (POUR LE MATÉRIEL) */
 .dark-box-section { 
 background-image: url('images/bg-violet.jpg'); 
 background-color: #1e0f2b;
-background-size: cover; background-position: center; padding: 60px 20px; 
+background-size: cover; background-position: center; padding: 60px 20px; margin-bottom: 5px;
 }
+/* Variante sans marge basse pour enchainer les blocs sombres */
+.dark-box-section.no-margin { margin-bottom: 0; padding-bottom: 30px; }
+.dark-box-section.no-margin-top { margin-top: 0; padding-top: 30px; }
+
 .dark-box-content { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; max-width: 1200px; margin: 0 auto; gap: 40px; }
-.box-exploded-image { flex: 1 1 50%; max-width: 600px; }
+.box-exploded-image { flex: 1 1 50%; max-width: 600px; text-align: center; }
 .box-list-container { flex: 1 1 40%; min-width: 300px; }
 .box-list-container h3 { color: #f4efe6 !important; font-family: Georgia, serif; font-size: 28px; text-transform: uppercase; letter-spacing: 2px; margin-top: 0; margin-bottom: 30px; }
+
+/* Cas particulier : fond rouge pour Trouble Brewing */
+.tb-box-section {
+  background-color: #2b0f15;
+  padding: 40px 20px;
+}
 
 /* EFFET LOUPE GLOBAL */
 .img-zoom-effect { width: 100%; height: auto; object-fit: contain; transition: transform 0.3s ease, filter 0.3s ease; cursor: zoom-in; }
@@ -119,23 +129,18 @@ background-size: cover; background-position: center; padding: 60px 20px;
 
 /* =========================================
    ADAPTATION MOBILE (SMARTPHONES & TABLETTES)
-   Cette partie ne change absolument rien sur ordinateur, 
-   elle s'active uniquement sur les petits écrans.
    ========================================= */
 @media (max-width: 768px) {
-  /* Ajustement de l'en-tête pour éviter le chevauchement avec le texte */
   .decorations-left { left: 0; bottom: 50%; width: 75px; }
   .decorations-right { right: 0; bottom: 50%; width: 75px; }
   .intro-text h1 { font-size: 24px; line-height: 1.4; margin-top: 15px; }
 
-  /* Empêcher les logos de s'écraser (passage en colonne) */
   .module-container { flex-direction: column; text-align: center; }
   .module-logo, .module-text, .module-artwork { flex: 1 1 100%; width: 100%; padding: 20px 10px; }
   .module-logo img { max-width: 220px; margin: 0 auto; }
   .module-artwork img { margin: 0 auto; max-width: 250px; }
   .links-container { justify-content: center; }
 
-  /* Ajustement de la boîte détaillée et du footer */
   .dark-box-content { flex-direction: column; }
   .box-exploded-image, .box-list-container { flex: 1 1 100%; width: 100%; }
   .custom-footer-content { flex-direction: column; text-align: center; gap: 25px; }
@@ -149,11 +154,9 @@ background-size: cover; background-position: center; padding: 60px 20px;
 <!-- 1. EN-TÊTE : LE GRIMOIRE ANIMÉ AVEC BOUGIES ET LOTUS -->
 <div id="haut-de-page" class="intro-section">
 <div class="decorations-left">
-<!-- AJOUT DE LA CLASSE IMG-ZOOM-EFFECT ICI -->
 <img src="images/3_-_TT_Cutout_-_Candles_1.png.avif" alt="Bougies" class="img-zoom-effect">
 </div>
 <div class="decorations-right">
-<!-- AJOUT DE LA CLASSE IMG-ZOOM-EFFECT ICI -->
 <img src="images/3_-_TAF_Cutout_-_Lotus_B_1.png.avif" alt="Fleur de Lotus" class="img-zoom-effect">
 </div>
 <div class="intro-image">
@@ -166,8 +169,8 @@ background-size: cover; background-position: center; padding: 60px 20px;
 </div>
 </div>
 
-<!-- 2. SECTION SOMBRE : MATÉRIEL ÉCLATÉ -->
-<div class="dark-box-section">
+<!-- 2. SECTION SOMBRE : MATÉRIEL ÉCLATÉ GLOBAL -->
+<div class="dark-box-section no-margin">
 <div class="dark-box-content">
 <div class="box-exploded-image">
 <a href="#zoom-boite-base" title="Agrandir l'image">
@@ -186,6 +189,115 @@ background-size: cover; background-position: center; padding: 60px 20px;
 <li>Support pliant pour poser votre Grimoire.</li>
 <li>4 boîtes de jetons pour ranger et organiser chaque module.</li>
 <li>Tout le reste pour vous aider à organiser et suivre : 18+ linceuls, 25+ jetons de nuit, 4 jetons d'information, 1 sac en tissu violet pour la sélection des rôles, 3 fiches de nuit, 1 fiche de mise en place, 1 fiche de Voyageurs, des pinces pour le Grimoire.</li>
+</ul>
+</div>
+</div>
+</div>
+
+<!-- SECTION SOMBRE : TROUBLE BREWING -->
+<div class="tb-box-section">
+<div class="dark-box-content">
+<div class="box-exploded-image">
+<a href="#zoom-tb-box" title="Agrandir l'image">
+<img src="images/Editon_Spread_TB_1_1.png.webp" alt="Matériel Trouble Brewing" class="img-zoom-effect">
+</a>
+</div>
+<div class="box-list-container">
+<h3>QU'EST-CE QU'IL Y A DANS LE MODULE TROUBLE BREWING ?</h3>
+<ul class="numbered-list">
+<li>1 almanach de rôles Trouble Brewing</li>
+<li>1 boîte du module Trouble Brewing</li>
+<li>1 fiche de nuit Trouble Brewing</li>
+<li>20 fiches de rôles Trouble Brewing</li>
+<li>25 jetons de rôles Trouble Brewing</li>
+<li>16 jetons de rappel Trouble Brewing</li>
+</ul>
+</div>
+</div>
+</div>
+
+<!-- SECTION SOMBRE : BAD MOON RISING -->
+<div class="dark-box-section no-margin">
+<div class="dark-box-content">
+<div class="box-exploded-image">
+<a href="#zoom-bmr-box" title="Agrandir l'image">
+<img src="images/Editon_Spread_TB_1_11f5b346-e2e3-48db-b5e8-47327a73cced.png.webp" alt="Matériel Bad Moon Rising" class="img-zoom-effect">
+</a>
+</div>
+<div class="box-list-container">
+<h3>QU'EST-CE QU'IL Y A DANS LE MODULE BAD MOON RISING ?</h3>
+<ul class="numbered-list">
+<li>1 almanach de rôles Bad Moon Rising</li>
+<li>1 boîte du module Bad Moon Rising</li>
+<li>1 fiche de nuit Bad Moon Rising</li>
+<li>20 fiches de rôles Bad Moon Rising</li>
+<li>25 jetons de rôles Bad Moon Rising</li>
+<li>42 jetons de rappel Bad Moon Rising</li>
+</ul>
+</div>
+</div>
+</div>
+
+<!-- SECTION SOMBRE : SECTS & VIOLETS -->
+<div class="dark-box-section no-margin no-margin-top">
+<div class="dark-box-content">
+<div class="box-exploded-image">
+<a href="#zoom-sv-box" title="Agrandir l'image">
+<img src="images/Edition_Spread_S_V.png.webp" alt="Matériel Sects & Violets" class="img-zoom-effect">
+</a>
+</div>
+<div class="box-list-container">
+<h3>QU'EST-CE QU'IL Y A DANS LE MODULE SECTS & VIOLETS ?</h3>
+<ul class="numbered-list">
+<li>1 almanach de rôles Sects & Violets</li>
+<li>1 boîte du module Sects & Violets</li>
+<li>1 fiche de nuit Sects & Violets</li>
+<li>20 fiches de rôles Sects & Violets</li>
+<li>26 jetons de rôles Sects & Violets</li>
+<li>37 jetons de rappel Sects & Violets</li>
+</ul>
+</div>
+</div>
+</div>
+
+<!-- SECTION SOMBRE : VOYAGEURS ET LÉGENDAIRES -->
+<div class="dark-box-section no-margin-top">
+<div class="dark-box-content">
+<div class="box-exploded-image">
+<a href="#zoom-voyageurs-box" title="Agrandir l'image">
+<img src="images/blood-on-the-clocktower-board-game-travellers-and-fabled-tokens.png.webp" alt="Matériel Voyageurs et Légendaires" class="img-zoom-effect">
+</a>
+</div>
+<div class="box-list-container">
+<h3>VOYAGEURS ET LÉGENDAIRES CE QUI EST INCLUS</h3>
+<ul class="numbered-list">
+<li>1 almanach de rôles Voyageurs et Légendaires</li>
+<li>1 boîte de jetons Voyageurs et Légendaires</li>
+<li>15 jetons de rôles de Voyageurs</li>
+<li>14 jetons de rappel de Voyageurs</li>
+<li>12 jetons de rôles Légendaires</li>
+<li>11 jetons de rappel Légendaires</li>
+</ul>
+</div>
+</div>
+</div>
+
+<!-- SECTION SOMBRE : LE PLATEAU DE LA PLACE DU VILLAGE -->
+<div class="dark-box-section no-margin-top" style="border-top: 1px solid rgba(212,167,106,0.3);">
+<div class="dark-box-content">
+<div class="box-exploded-image">
+<a href="#zoom-plateau-box" title="Agrandir l'image">
+<img src="images/Town%20Square.jpg" alt="Le Plateau de la Place du Village" class="img-zoom-effect" style="border-radius: 8px;">
+</a>
+</div>
+<div class="box-list-container">
+<h3>LE PLATEAU DE LA PLACE DU VILLAGE</h3>
+<ul class="numbered-list">
+<li>Placez le plateau de la Place du Village au centre, par terre, ou sur une petite table</li>
+<li>Glissez en dessous, en faisant dépasser, la fiche de mise en place qui indique la répartition du Village selon le nombre de joueurs</li>
+<li>Placez les jetons de vie selon le nombre de joueurs</li>
+<li>Retournez le jeton de vie du joueur lorsqu'il meurt</li>
+<li>Placez les jetons de vote lorsqu'un joueur meurt sur le jeton de vie</li>
 </ul>
 </div>
 </div>
@@ -305,7 +417,62 @@ background-size: cover; background-position: center; padding: 60px 20px;
 <div class="lightbox-content">
 <input type="checkbox" id="toggle-zoom-boite" class="lightbox-toggle">
 <label for="toggle-zoom-boite" class="lightbox-img-wrapper" title="Cliquer pour fermer">
-<img src="images/Group_42531_1.webp" alt="Zoom sur le matériel" class="lightbox-img">
+<img src="images/Group_42531_1.webp" alt="Zoom sur le matériel de base" class="lightbox-img">
+</label>
+</div>
+</div>
+
+<div id="zoom-tb-box" class="lightbox-overlay">
+<a href="#close" class="lightbox-close-zone" title="Fermer la vue"></a>
+<a href="#close" class="lightbox-close-btn" title="Fermer">✖</a>
+<div class="lightbox-content">
+<input type="checkbox" id="toggle-zoom-tb-box" class="lightbox-toggle">
+<label for="toggle-zoom-tb-box" class="lightbox-img-wrapper" title="Cliquer pour fermer">
+<img src="images/Editon_Spread_TB_1_1.png.webp" alt="Zoom sur le matériel Trouble Brewing" class="lightbox-img">
+</label>
+</div>
+</div>
+
+<div id="zoom-bmr-box" class="lightbox-overlay">
+<a href="#close" class="lightbox-close-zone" title="Fermer la vue"></a>
+<a href="#close" class="lightbox-close-btn" title="Fermer">✖</a>
+<div class="lightbox-content">
+<input type="checkbox" id="toggle-zoom-bmr-box" class="lightbox-toggle">
+<label for="toggle-zoom-bmr-box" class="lightbox-img-wrapper" title="Cliquer pour fermer">
+<img src="images/Editon_Spread_TB_1_11f5b346-e2e3-48db-b5e8-47327a73cced.png.webp" alt="Zoom sur le matériel Bad Moon Rising" class="lightbox-img">
+</label>
+</div>
+</div>
+
+<div id="zoom-sv-box" class="lightbox-overlay">
+<a href="#close" class="lightbox-close-zone" title="Fermer la vue"></a>
+<a href="#close" class="lightbox-close-btn" title="Fermer">✖</a>
+<div class="lightbox-content">
+<input type="checkbox" id="toggle-zoom-sv-box" class="lightbox-toggle">
+<label for="toggle-zoom-sv-box" class="lightbox-img-wrapper" title="Cliquer pour fermer">
+<img src="images/Edition_Spread_S_V.png.webp" alt="Zoom sur le matériel Sects & Violets" class="lightbox-img">
+</label>
+</div>
+</div>
+
+<div id="zoom-voyageurs-box" class="lightbox-overlay">
+<a href="#close" class="lightbox-close-zone" title="Fermer la vue"></a>
+<a href="#close" class="lightbox-close-btn" title="Fermer">✖</a>
+<div class="lightbox-content">
+<input type="checkbox" id="toggle-zoom-voyageurs-box" class="lightbox-toggle">
+<label for="toggle-zoom-voyageurs-box" class="lightbox-img-wrapper" title="Cliquer pour fermer">
+<img src="images/blood-on-the-clocktower-board-game-travellers-and-fabled-tokens.png.webp" alt="Zoom sur le matériel Voyageurs et Légendaires" class="lightbox-img">
+</label>
+</div>
+</div>
+
+<div id="zoom-plateau-box" class="lightbox-overlay">
+<a href="#close" class="lightbox-close-zone" title="Fermer la vue"></a>
+<a href="#close" class="lightbox-close-btn" title="Fermer">✖</a>
+<div class="lightbox-content">
+<input type="checkbox" id="toggle-zoom-plateau-box" class="lightbox-toggle">
+<label for="toggle-zoom-plateau-box" class="lightbox-img-wrapper" title="Cliquer pour fermer">
+<img src="images/Town%20Square.jpg" alt="Zoom sur Le Plateau de la Place du Village" class="lightbox-img" style="border-radius: 8px;">
 </label>
 </div>
 </div>
