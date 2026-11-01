@@ -669,7 +669,7 @@ C'est une excellente initiation au format <strong>TeensyVille</strong> (spécial
 </div>
 
 <div class="script-tag-line" spellcheck="false" data-gramm="false">
-  <span class="tag-line-icon">💡</span> Recommandé pour les joueurs et joueuses qui aiment le chaos ! La présence de <a href="/botc-fr-bambi/roles_experimentaux/atheist.html" class="inline-role-link role-link-good">l'Athée</a> bouleverse toutes les certitudes : le Conteur peut alors enfreindre les règles à sa guise.
+  <span class="tag-line-icon">💡</span> Recommandé pour les joueurs et joueuses qui aiment le chaos ! La présence de <a href="/botc-fr-bambi/roles_experimentaux/atheist.html" class="inline-role-link role-link-good">l'Athée</a> bouleverse toutes les certitudes : le Conteur ou la Conteuse peut alors enfreindre les règles à sa guise.
 </div>
 
 <p class="script-description" spellcheck="false" data-gramm="false">
@@ -725,6 +725,90 @@ Pouvez-vous vraiment vous fier aux morts de nuit avec le <a href="/botc-fr-bambi
 <div class="roles-chips-wrap">
 <a href="/botc-fr-bambi/roles_experimentaux/alhadikhia.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_alhadikhia.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Al-Hadikhia</span></a>
 <a href="/botc-fr-bambi/sv_roles/vigormortis.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_vigormortis.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Vigormortis</span></a>
+</div>
+
+</div>
+</details>
+
+</div>
+</div>
+
+<!-- 10. THE PASSAGE OF TIME -->
+<div class="script-card">
+<a href="#zoom-thepassageoftime" class="script-preview-link" title="Agrandir la fiche du script">
+  <div class="preview-backdrop-wrapper">
+    <img src="https://github.com/BambiPotato/botc-fr-bambi/releases/download/ThePassageOfTime/The.Passage.of.Time.png" alt="Aperçu du script The Passage of Time" class="script-thumb">
+  </div>
+  <span class="preview-overlay">🔍 The Passage of Time — Agrandir la fiche</span>
+</a>
+<div class="script-content">
+<h2 class="script-title">The Passage of Time</h2>
+<div class="script-badges">
+<span class="badge-pill badge-orange">🟠 Niveau avancé</span>
+<span class="badge-pill">✍️ Auteur : Delta</span>
+<span class="badge-pill">👥 9 à 15 joueurs</span>
+<span class="badge-pill">🧞 Jinxes : x 2</span>
+</div>
+
+<div class="script-tag-line" spellcheck="false" data-gramm="false">
+  <span class="tag-line-icon">💡</span> Recommandé pour les joueurs et joueuses qui n'ont pas peur des rôles bruyants et terrifiants comme le <a href="/botc-fr-bambi/roles_experimentaux/psychopath.html" class="inline-role-link role-link-evil">Psychopathe</a>. Ce script est optimal à partir de 2 Sbires en jeu.<br><br>⚠️ <em>Note du Conteur :</em> En raison de l'interaction entre la <a href="/botc-fr-bambi/legendaire_roles/sentinel.html" class="inline-role-link" style="color: #d4a76a;">Sentinelle</a> et le <a href="/botc-fr-bambi/sv_roles/fanggu.html" class="inline-role-link role-link-evil">Fang Gu</a>, évitez d'ajouter un Marginal trop souvent.
+</div>
+
+<p class="script-description" spellcheck="false" data-gramm="false">
+Une course effrénée entre le Bien et le Mal, centrée sur <a href="/botc-fr-bambi/roles_experimentaux/engineer.html" class="inline-role-link role-link-good">l'Ingénieur</a>, la <a href="/botc-fr-bambi/roles_experimentaux/princess.html" class="inline-role-link role-link-good">Princesse</a> et le <a href="/botc-fr-bambi/roles_experimentaux/psychopath.html" class="inline-role-link role-link-evil">Psychopathe</a>.<br><br>
+Chaque Sbire représente un cauchemar unique. Face à eux, <a href="/botc-fr-bambi/roles_experimentaux/engineer.html" class="inline-role-link role-link-good">l'Ingénieur</a> n'aura aucun choix idéal : il devra simplement limiter la casse pour le Bien.
+</p>
+
+<div class="script-downloads">
+<a href="https://github.com/BambiPotato/botc-fr-bambi/releases/download/ThePassageOfTime/The.Passage.of.Time.pdf" class="btn-action-tab" target="_blank">📄 Fiche PDF à imprimer</a>
+<a href="https://github.com/BambiPotato/botc-fr-bambi/releases/download/ThePassageOfTime/The.Passage.of.Time.json" download="The.Passage.of.Time.json" class="btn-action-tab">⚙️ Fichier JSON (App BotC)</a>
+<a href="#zoom-thepassageoftime" class="btn-action-tab">🖼️ Fiche des rôles</a>
+<a href="#zoom-thepassageoftime-nuit" class="btn-action-tab">🌙 Fiche pour Conteur & Conteuse</a>
+</div>
+
+<details class="roles-accordion">
+<summary class="accordion-toggle">📜 Voir la composition des rôles</summary>
+<div class="roles-accordion-inner">
+
+<p class="role-cat-title cat-good">Villageois</p>
+<div class="roles-chips-wrap">
+<a href="/botc-fr-bambi/roles_experimentaux/shugenja.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_shugenja.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Shugenja</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/pixie.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_pixie.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Pixie</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/general.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_general.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Général</span></a>
+<a href="/botc-fr-bambi/sv_roles/charmeurdeserpent.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_snakecharmer.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Charmeur de serpents</span></a>
+<a href="/botc-fr-bambi/tb_roles/moine.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_monk.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Moine</span></a>
+<a href="/botc-fr-bambi/sv_roles/savant.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_savant.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Savant</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/alsaahir.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_alsaahir.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Alsaahir</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/engineer.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_engineer.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Ingénieur</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/huntsman.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_huntsman.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Chasseur</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/fisherman.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_fisherman.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Pêcheur</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/princess.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_princess.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Princesse</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/cannibal.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_cannibal.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Cannibale</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/banshee.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_banshee.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Banshee</span></a>
+</div>
+
+<p class="role-cat-title cat-good">Marginaux</p>
+<div class="roles-chips-wrap">
+<a href="/botc-fr-bambi/roles_experimentaux/plaguedoctor.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_plaguedoctor.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Docteur de peste</span></a>
+<a href="/botc-fr-bambi/sv_roles/barbier.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_barber.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Barbier</span></a>
+<a href="/botc-fr-bambi/sv_roles/mutant.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_mutant.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Bête de foire</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/damsel.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_damsel.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Demoiselle</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/puzzlemaster.html" class="role-chip chip-good"><img src="/botc-fr-bambi/images/Icon_puzzlemaster.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Maître des puzzles</span></a>
+</div>
+
+<p class="role-cat-title cat-evil">Sbires</p>
+<div class="roles-chips-wrap">
+<a href="/botc-fr-bambi/roles_experimentaux/psychopath.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_psychopath.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Psychopathe</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/wizard.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_wizard.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Mage</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/boomdandy.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_boomdandy.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Boumdandy</span></a>
+<a href="/botc-fr-bambi/roles_experimentaux/organgrinder.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_organgrinder.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Organiste de rue</span></a>
+</div>
+
+<p class="role-cat-title cat-evil">Démons</p>
+<div class="roles-chips-wrap">
+<a href="/botc-fr-bambi/tb_roles/imp.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_imp.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Diablotin</span></a>
+<a href="/botc-fr-bambi/bmr_roles/shabaloth.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_shabaloth.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Shabaloth</span></a>
+<a href="/botc-fr-bambi/sv_roles/fanggu.html" class="role-chip chip-evil"><img src="/botc-fr-bambi/images/Icon_fanggu.png" onerror="this.style.display='none'" class="chip-icon" alt=""><span>Fang Gu</span></a>
 </div>
 
 </div>
@@ -939,6 +1023,28 @@ Pouvez-vous vraiment vous fier aux morts de nuit avec le <a href="/botc-fr-bambi
   <input type="checkbox" id="toggle-zoom-oasis-nuit" class="lightbox-toggle">
   <label for="toggle-zoom-oasis-nuit" class="lightbox-img-wrapper" title="Cliquer pour agrandir / réduire">
     <img src="https://github.com/BambiPotato/botc-fr-bambi/releases/download/Oasis/The.Midnight.Oasis-Ordre.de.Nuit.png" alt="Fiche de nuit The Midnight Oasis" class="lightbox-img">
+  </label>
+</div>
+</div>
+
+<div id="zoom-thepassageoftime" class="lightbox-overlay">
+<a href="#close" class="lightbox-close-zone" title="Fermer la vue"></a>
+<a href="#close" class="lightbox-close-btn" title="Fermer">✖</a>
+<div class="lightbox-content">
+  <input type="checkbox" id="toggle-zoom-passage" class="lightbox-toggle">
+  <label for="toggle-zoom-passage" class="lightbox-img-wrapper" title="Cliquer pour agrandir / réduire">
+    <img src="https://github.com/BambiPotato/botc-fr-bambi/releases/download/ThePassageOfTime/The.Passage.of.Time.png" alt="Fiche du script The Passage of Time" class="lightbox-img">
+  </label>
+</div>
+</div>
+
+<div id="zoom-thepassageoftime-nuit" class="lightbox-overlay">
+<a href="#close" class="lightbox-close-zone" title="Fermer la vue"></a>
+<a href="#close" class="lightbox-close-btn" title="Fermer">✖</a>
+<div class="lightbox-content">
+  <input type="checkbox" id="toggle-zoom-passage-nuit" class="lightbox-toggle">
+  <label for="toggle-zoom-passage-nuit" class="lightbox-img-wrapper" title="Cliquer pour agrandir / réduire">
+    <img src="https://github.com/BambiPotato/botc-fr-bambi/releases/download/ThePassageOfTime/The.Passage.of.Time-nuit.png" alt="Fiche de nuit The Passage of Time" class="lightbox-img">
   </label>
 </div>
 </div>
