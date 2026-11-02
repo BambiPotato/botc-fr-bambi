@@ -18,7 +18,7 @@ image: /images/Icon_knaves.png
   <a href="./knaves.html" style="text-decoration:none;">
     <img src="../images/Icon_knaves.png" alt="Knaves" width="300" style="border-radius:45px;">
     <br>
-    <span style="color:#7fd1ae; font-weight:bold; font-size:50px;">Valet</span>
+    <span style="color:#7fd1ae; font-weight:bold; font-size:50px;">Valets</span>
   </a>
 </div>
 
