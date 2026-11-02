@@ -66,7 +66,7 @@ image: /images/Generic_loric.png
   <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:0;">
     <li><a href="./loric_roles/stormcatcher.html" style="color:#7fd1ae; text-decoration:none;">Chasseur d'orages</a></li>
     <li><a href="./loric_roles/bootlegger.html" style="color:#7fd1ae; text-decoration:none;">Contrebandier</a></li>
-    <li><a href="./loric_roles/godofug.html" style="color:#7fd1ae; text-decoration:none;">Dieu d’Ug</a></li>
+    <li><a href="./loric_roles/godofug.html" style="color:#7fd1ae; text-decoration:none;">Dieu Ug</a></li>
     <li><a href="./loric_roles/bigwig.html" style="color:#7fd1ae; text-decoration:none;">Gros Bonnet</a></li>
     <li><a href="./loric_roles/hindu.html" style="color:#7fd1ae; text-decoration:none;">Hindou</a></li>
     <li><a href="./loric_roles/gardener.html" style="color:#7fd1ae; text-decoration:none;">Jardinier</a></li>
@@ -150,13 +150,13 @@ Instructions au Conteur
   <!-- Dieu d’Ug-->
   <a href="./loric_roles/godofug.html" style="text-decoration:none; flex:0 1 200px; text-align:center;">
     <img src="./images/Icon_godofug.png" alt="Big Wig" style="display:block; margin:0 auto; width:200px; height:auto; border-radius:12px;">
-    <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Dieu d’Ug</span>
+    <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Dieu Ug</span>
   </a>
   
   <!-- Big Wig -->
   <a href="./loric_roles/bigwig.html" style="text-decoration:none; flex:0 1 200px; text-align:center;">
     <img src="./images/Icon_big_wig.png" alt="Big Wig" style="display:block; margin:0 auto; width:200px; height:auto; border-radius:12px;">
-    <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Gros Bonnet</span>
+    <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Gros bonnet</span>
   </a>
 
   <!-- Hindu -->
@@ -174,7 +174,7 @@ Instructions au Conteur
    <!-- Knaves-->
   <a href="./loric_roles/knaves.html" style="text-decoration:none; flex:0 1 200px; text-align:center;">
     <img src="./images/Icon_knaves.png" alt="Gardener" style="display:block; margin:0 auto; width:200px; height:auto; border-radius:12px;">
-    <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Knaves</span>
+    <span style="display:block; color:#7fd1ae; font-weight:bold; font-size:18px; margin-top:6px;">Valets</span>
   </a>
 
   <!-- Pope -->
