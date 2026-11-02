@@ -67,10 +67,10 @@ image: /images/Generic_loric.png
     <li><a href="./loric_roles/stormcatcher.html" style="color:#7fd1ae; text-decoration:none;">Chasseur d'orages</a></li>
     <li><a href="./loric_roles/bootlegger.html" style="color:#7fd1ae; text-decoration:none;">Contrebandier</a></li>
     <li><a href="./loric_roles/godofug.html" style="color:#7fd1ae; text-decoration:none;">Dieu Ug</a></li>
-    <li><a href="./loric_roles/bigwig.html" style="color:#7fd1ae; text-decoration:none;">Gros Bonnet</a></li>
+    <li><a href="./loric_roles/bigwig.html" style="color:#7fd1ae; text-decoration:none;">Gros bonnet</a></li>
     <li><a href="./loric_roles/hindu.html" style="color:#7fd1ae; text-decoration:none;">Hindou</a></li>
     <li><a href="./loric_roles/gardener.html" style="color:#7fd1ae; text-decoration:none;">Jardinier</a></li>
-     <li><a href="./loric_roles/knaves.html" style="color:#7fd1ae; text-decoration:none;">Knaves</a></li>
+     <li><a href="./loric_roles/knaves.html" style="color:#7fd1ae; text-decoration:none;">Valets</a></li>
     <li><a href="./loric_roles/pope.html" style="color:#7fd1ae; text-decoration:none;">Pape</a></li>
     <li><a href="./loric_roles/tor.html" style="color:#7fd1ae; text-decoration:none;">Tor</a></li>
     <li><a href="./loric_roles/ventriloquist.html" style="color:#7fd1ae; text-decoration:none;">Ventriloque</a></li>
