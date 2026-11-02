@@ -107,7 +107,7 @@ Si le port du chapeau Ug devient pesant ou ne fait plus rire, limitez-le uniquem
 
 <p style="color:#f5f5f5; font-size:20px; line-height:1.7;">
 Amy porte le <strong>chapeau Ug</strong>. Lorsqu’elle est nommée, elle dit : <br>
-« Pas moi. Je crois Ben a trop causé au gars pas bon. Lui pas bon. »<br>
+« Pas moi. Je crois Ben a trop dit au gars pas bon. Lui pas bon. »<br>
 Amy garde le chapeau Ug.
 </p>
 
