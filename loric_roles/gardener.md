@@ -49,7 +49,6 @@ Oh là là, il va falloir tout recommencer.<br> Passez-moi mes sécateurs. »
   </li>
 </ul>
 
-<hr class="loric">
 
 
 ##  <span style="color:#7fd1ae;">Résumé</span>
