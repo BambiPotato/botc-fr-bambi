@@ -79,7 +79,7 @@ Je ne voudrais pas que tu attrapes la mort. Ça me tuerait »
 <hr class="villageois">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:22px; margin:0 0 8px 0;">
-<strong>« Lors de votre première nuit, vous apprenez un joueur bon et son rôle. <br> Si le Démon tue ce joueur, vous mourez également »</strong>
+<strong>« Lors de votre première nuit, vous apprenez un joueur bon et son rôle. <br> Si le Démon tue ce joueur, vous mourez également. »</strong>
 </p><br>
 
 <p class="botc-flavour-text dropcap" style="margin:0;">
