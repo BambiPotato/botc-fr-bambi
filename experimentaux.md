@@ -27,7 +27,7 @@ image: /images/carousel.png
 
 <!-- INTRO -->
 <p class="botc-flavour-text dropcap" style="text-align:left; font-size:20px; margin-top:6px; line-height:1.7;">
-Les rôles expérimentaux du <strong>Carrousel</strong> ouvrent la porte à de nouvelles mécaniques audacieuses et inédites.<br>
+Les rôles expérimentaux du <strong>Carrousel 🎠</strong> ouvrent la porte à de nouvelles mécaniques audacieuses et inédites.<br>
 Pensés pour les joueurs et Conteurs aguerris, ces rôles repoussent les limites de <em>Blood on the Clocktower</em> et invitent à explorer des expériences de jeu aussi surprenantes que captivantes.
 </p>
 
@@ -59,7 +59,7 @@ Pensés pour les joueurs et Conteurs aguerris, ces rôles repoussent les limites
   <p style="font-weight:bold; color:#d4a76a; font-size:20px; margin-top:0; margin-bottom:8px;">
   Les rôles expérimentaux
   </p>
-<p style="font-weight:bold; color:#005bb5; font-size:20px; margin-bottom:4px;">Villageois</p>
+<p style="font-weight:bold; color:#4ea3ff; font-size:20px; margin-bottom:4px;">Villageois</p>
 <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
   <li><a href="roles_experimentaux/acrobat.html" style="color:#4ea3ff; text-decoration:none;">Acrobate</a></li>
   <li><a href="roles_experimentaux/balloonist.html" style="color:#4ea3ff; text-decoration:none;">Aéronaute</a></li>
@@ -93,7 +93,7 @@ Pensés pour les joueurs et Conteurs aguerris, ces rôles repoussent les limites
   <li><a href="roles_experimentaux/nightwatchman.html" style="color:#4ea3ff; text-decoration:none;">Veilleur de nuit</a></li>
 </ul>
 
-<p style="font-weight:bold; color:#005bb5; font-size:20px; margin-bottom:4px;">Marginaux</p>
+<p style="font-weight:bold; color:#4ea3ff; font-size:20px; margin-bottom:4px;">Marginaux</p>
 <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
   <li><a href="roles_experimentaux/snitch.html" style="color:#4ea3ff; text-decoration:none;">Balance</a></li>
   <li><a href="roles_experimentaux/hatter.html" style="color:#4ea3ff; text-decoration:none;">Chapelier</a></li>
@@ -108,7 +108,7 @@ Pensés pour les joueurs et Conteurs aguerris, ces rôles repoussent les limites
   <li><a href="roles_experimentaux/zealot.html" style="color:#4ea3ff; text-decoration:none;">Zélote</a></li>
 </ul>
 
-<p style="font-weight:bold; color:#b30000; font-size:20px; margin-bottom:4px;">Sbires</p>
+<p style="font-weight:bold; color:#d45b5b; font-size:20px; margin-bottom:4px;">Sbires</p>
 <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
   <li><a href="roles_experimentaux/boomdandy.html" style="color:#d45b5b; text-decoration:none;">Boumdandy</a></li>
   <li><a href="roles_experimentaux/goblin.html" style="color:#d45b5b; text-decoration:none;">Gobelin</a></li>
@@ -127,7 +127,7 @@ Pensés pour les joueurs et Conteurs aguerris, ces rôles repoussent les limites
   <li><a href="roles_experimentaux/xaan.html" style="color:#d45b5b; text-decoration:none;">Xaan</a></li>
 </ul>
 
-<p style="font-weight:bold; color:#b30000; font-size:20px; margin-bottom:4px;">Démons</p>
+<p style="font-weight:bold; color:#d45b5b; font-size:20px; margin-bottom:4px;">Démons</p>
 <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
   <li><a href="roles_experimentaux/alhadikhia.html" style="color:#d45b5b; text-decoration:none;">Al-Hadikhia</a></li>
   <li><a href="roles_experimentaux/riot.html" style="color:#d45b5b; text-decoration:none;">Émeute</a></li>
@@ -141,20 +141,20 @@ Pensés pour les joueurs et Conteurs aguerris, ces rôles repoussent les limites
   <li><a href="roles_experimentaux/yaggababble.html" style="color:#d45b5b; text-decoration:none;">Yaggablabla</a></li>
 </ul>
 
-<p style="font-weight:bold; color:#7b1fa2; font-size:20px; margin-bottom:4px;">Voyageurs</p>
+<p style="font-weight:bold; color:#9b59b6; font-size:20px; margin-bottom:4px;">Voyageurs</p>
 <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:6px;">
   <li><a href="voyageurs/cacklejack.html" style="color:#9b59b6; text-decoration:none;">Déphasé</a></li>
   <li><a href="voyageurs/gangster.html" style="color:#9b59b6; text-decoration:none;">Gangster</a></li>
   <li><a href="voyageurs/gnome.html" style="color:#9b59b6; text-decoration:none;">Gnome</a></li>
 </ul>
 
-<p style="font-weight:bold; color:#996515; font-size:20px; margin-bottom:4px;">Légendaires</p>
+<p style="font-weight:bold; color:#e0b97a; font-size:20px; margin-bottom:4px;">Légendaires</p>
 <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
   <li><a href="legendaire_roles/deusexfiasco.html" style="color:#e0b97a; text-decoration:none;">Deus ex Fiasco</a></li>
   <li><a href="legendaire_roles/ferryman.html" style="color:#e0b97a; text-decoration:none;">Le Passeur</a></li>
 </ul>
 
-<p style="font-weight:bold; color:#2e7d32; font-size:20px; margin-bottom:4px;">Loric 🌿</p>
+<p style="font-weight:bold; color:#4caf50; font-size:20px; margin-bottom:4px;">Loric 🌿</p>
 <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
   <li><a href="loric_roles/stormcatcher.html" style="color:#4caf50; text-decoration:none;">Chasseur d'orages</a></li>
   <li><a href="loric_roles/bootlegger.html" style="color:#4caf50; text-decoration:none;">Contrebandier</a></li>
@@ -176,21 +176,21 @@ Pensés pour les joueurs et Conteurs aguerris, ces rôles repoussent les limites
 <ol style="font-size:20px; line-height:1.7; padding-left:14px; margin-top:6px;">
   <li style="color:#5C2E1F;"><a href="#1-synopsis" style="color:#5C2E1F; font-weight:bold; text-decoration:none;">Synopsis</a></li>
   <li style="color:#5C2E1F;"><a href="#2-gameplay" style="color:#5C2E1F; font-weight:bold; text-decoration:none;">Gameplay</a></li>
-  <li style="color:#005bb5;"><a href="#3-villageois" style="color:#005bb5; font-weight:bold; text-decoration:none;">Villageois</a></li>
-  <li style="color:#005bb5;"><a href="#4-marginaux" style="color:#005bb5; font-weight:bold; text-decoration:none;">Marginaux</a></li>
-  <li style="color:#b30000;"><a href="#5-sbires" style="color:#b30000; font-weight:bold; text-decoration:none;">Sbires</a></li>
-  <li style="color:#b30000;"><a href="#6-demons" style="color:#b30000; font-weight:bold; text-decoration:none;">Démons</a></li>
-  <li style="color:#7b1fa2;"><a href="#7-voyageurs" style="color:#7b1fa2; font-weight:bold; text-decoration:none;">Voyageurs</a></li>
-  <li style="color:#996515;"><a href="#8-legendaires" style="color:#996515; font-weight:bold; text-decoration:none;">Légendaires</a></li>
-  <li style="color:#2e7d32;"><a href="#9-lorics" style="color:#2e7d32; font-weight:bold; text-decoration:none;">Loric</a></li>
-  <li style="color:#5C2E1F;"><a href="#10-telechargement" style="color:#5C2E1F; font-weight:bold; text-decoration:none;">Téléchargez la version PDF de l'almanach du Carrousel</a></li>
+  <li style="color:#4ea3ff;"><a href="#3-villageois" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a></li>
+  <li style="color:#4ea3ff;"><a href="#4-marginaux" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a></li>
+  <li style="color:#d45b5b;"><a href="#5-sbires" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a></li>
+  <li style="color:#d45b5b;"><a href="#6-demons" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démons</a></li>
+  <li style="color:#9b59b6;"><a href="#7-voyageurs" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a></li>
+  <li style="color:#e0b97a;"><a href="#8-legendaires" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Légendaires</a></li>
+  <li style="color:#4caf50;"><a href="#9-lorics" style="color:#4caf50; font-weight:bold; text-decoration:none;">Loric</a></li>
+  <li style="color:#5C2E1F;"><a href="#10-telechargement" style="color:#5C2E1F; font-weight:bold; text-decoration:none;">Téléchargez la version PDF de l'almanach du Carrousel 🎠</a></li>
 </ol>
 
 <hr class="explication">
 
 <!-- 1. SYNOPSIS -->
 <h2 id="1-synopsis" style="color:#5C2E1F; font-weight:800; font-size:24px; text-align:left; margin-top:18px;">1. Synopsis</h2>
-<h3 style="color:#5C2E1F; font-weight:800; font-size:22px; text-align:left; margin:6px 0 10px;">Les rôles expérimentaux (Le Carrousel Expérimental)</h3>
+<h3 style="color:#5C2E1F; font-weight:800; font-size:22px; text-align:left; margin:6px 0 10px;">Les rôles du Carrousel 🎠</h3>
 <ul style="font-size:20px; line-height:1.7; margin-left:22px;">
   <li>Les rôles expérimentaux sont des rôles qui <strong>n’ont pas encore de module officiel attitré</strong>.</li>
   <li>Ils pourraient, à l’avenir, être intégrés dans des modules officiels de <em>Blood on the Clocktower</em>.</li>
@@ -201,164 +201,164 @@ Pensés pour les joueurs et Conteurs aguerris, ces rôles repoussent les limites
 <h2 id="2-gameplay" style="color:#5C2E1F; font-weight:800; font-size:24px; text-align:left; margin-top:18px;">2. Gameplay</h2>
 <p style="font-size:20px; line-height:1.7;">
    <span style="font-weight:bold;">Niveau : Expérimenté</span><br>
-   Les rôles expérimentaux du <em>Carrousel</em> sont recommandés pour les joueurs et Conteurs ayant déjà une bonne expérience du jeu <em>Blood on the Clocktower</em>.
+   Les rôles expérimentaux du <em>Carrousel 🎠</em> sont recommandés pour les joueurs et Conteurs ayant déjà une bonne expérience du jeu <em>Blood on the Clocktower</em>.
 </p>
 
 
 <!--  VILLAGEOIS -->
-<h2 id="3-villageois" style="color:#005bb5; font-weight:800; font-size:24px; text-align:left; margin-top:30px;"> Villageois</h2>
+<h2 id="3-villageois" style="color:#4ea3ff; font-weight:800; font-size:24px; text-align:left; margin-top:30px;"> Villageois</h2>
 <hr>
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
   
   <a href="roles_experimentaux/acrobat.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_acrobat.png" alt="Acrobate" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Acrobate</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Acrobate</span>
   </a>
 
   <a href="roles_experimentaux/balloonist.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_balloonist.png" alt="Aéronaute" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Aéronaute</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Aéronaute</span>
   </a>
 
   <a href="roles_experimentaux/alchemist.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_alchemist.png" alt="Alchimiste" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Alchimiste</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Alchimiste</span>
   </a>
 
   <a href="roles_experimentaux/alsaahir.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_alsaahir.png" alt="Alsaahir" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Alsaahir</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Alsaahir</span>
   </a>
 
   <a href="roles_experimentaux/amnesiac.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_amnesiac.png" alt="Amnésique" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Amnésique</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Amnésique</span>
   </a>
 
   <a href="roles_experimentaux/atheist.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_atheist.png" alt="Athée" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Athée</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Athée</span>
   </a>
 
   <a href="roles_experimentaux/banshee.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_banshee.png" alt="Banshee" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Banshee</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Banshee</span>
   </a>
 
   <a href="roles_experimentaux/cannibal.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_cannibal.png" alt="Cannibale" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Cannibale</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Cannibale</span>
   </a>
 
   <a href="roles_experimentaux/huntsman.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_huntsman.png" alt="Chasseur" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Chasseur</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Chasseur</span>
   </a>
 
   <a href="roles_experimentaux/bountyhunter.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_bountyhunter.png" alt="Chasseur de primes" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Chasseur de primes</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Chasseur de primes</span>
   </a>
 
   <a href="roles_experimentaux/cultleader.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_cultleader.png" alt="Chef de secte" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Chef de secte</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Chef de secte</span>
   </a>
 
   <a href="roles_experimentaux/knight.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_knight.png" alt="Chevalier" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Chevalier</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Chevalier</span>
   </a>
 
   <a href="roles_experimentaux/choirboy.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_choirboy.png" alt="Enfant de Chœur" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Choriste</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Choriste</span>
   </a>
 
   <a href="roles_experimentaux/farmer.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_farmer.png" alt="Fermier" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Fermière</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Fermière</span>
   </a>
 
   <a href="roles_experimentaux/general.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_general.png" alt="Général" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Général</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Général</span>
   </a>
 
   <a href="roles_experimentaux/highpriestess.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_highpriestess.png" alt="Grande prêtresse" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Grande prêtresse</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Grande prêtresse</span>
   </a>
 
   <a href="roles_experimentaux/villageidiot.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_villageidiot.png" alt="Idiot du village" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Idiot du village</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Idiot du village</span>
   </a>
 
   <a href="roles_experimentaux/engineer.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_engineer.png" alt="Ingénieur" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Ingénieur</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Ingénieur</span>
   </a>
 
   <a href="roles_experimentaux/steward.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_steward.png" alt="Intendant" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Intendante</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Intendante</span>
   </a>
 
   <a href="roles_experimentaux/lycanthrope.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_lycanthrope.png" alt="Lycanthrope" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Lycanthrope</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Lycanthrope</span>
   </a>
 
   <a href="roles_experimentaux/magician.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_magician.png" alt="Magicien" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Magicien</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Magicien</span>
   </a>
 
   <a href="roles_experimentaux/noble.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_noble.png" alt="Noble" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Noble</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Noble</span>
   </a>
 
   <a href="roles_experimentaux/fisherman.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_fisherman.png" alt="Pêcheur" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Pêcheur</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Pêcheur</span>
   </a>
 
   <a href="roles_experimentaux/pixie.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_pixie.png" alt="Pixie" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Pixie</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Pixie</span>
   </a>
 
   <a href="roles_experimentaux/poppygrower.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_poppygrower.png" alt="Cultivateur de pavot" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Planteur de pavot</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Planteur de pavot</span>
   </a>
 
   <a href="roles_experimentaux/preacher.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_preacher.png" alt="Prédicateur" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Prédicateur</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Prédicateur</span>
   </a>
 
   <a href="roles_experimentaux/princess.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_princess.png" alt="Princesse" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Princesse</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Princesse</span>
   </a>
 
   <a href="roles_experimentaux/king.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_king.png" alt="Roi" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Roi</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Roi</span>
   </a>
 
   <a href="roles_experimentaux/shugenja.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_shugenja.png" alt="Shugenja" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Shugenja</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Shugenja</span>
   </a>
 
   <a href="roles_experimentaux/nightwatchman.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_nightwatchman.png" alt="Veilleur de nuit" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Veilleur de nuit</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Veilleur de nuit</span>
   </a>
 
 </div>
@@ -366,312 +366,312 @@ Pensés pour les joueurs et Conteurs aguerris, ces rôles repoussent les limites
 
 
 <!--  ÉTRANGERS -->
-<h2 id="4-marginaux" style="color:#005bb5; font-weight:800; font-size:24px; text-align:left; margin-top:30px;">Marginaux</h2>
+<h2 id="4-marginaux" style="color:#4ea3ff; font-weight:800; font-size:24px; text-align:left; margin-top:30px;">Marginaux</h2>
 <hr>
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
 
   <a href="roles_experimentaux/snitch.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_snitch.png" alt="Balance" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Balance</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Balance</span>
   </a>
 
   <a href="roles_experimentaux/hatter.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_hatter.png" alt="Chapelier" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Chapelier</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Chapelier</span>
   </a>
 
   <a href="roles_experimentaux/damsel.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_damsel.png" alt="Demoiselle" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Demoiselle</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Demoiselle</span>
   </a>
 
   <a href="roles_experimentaux/plaguedoctor.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_plaguedoctor.png" alt="Docteur de la peste" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Docteur de peste</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Docteur de peste</span>
   </a>
 
   <a href="roles_experimentaux/hermit.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_hermit.png" alt="Ermite" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Ermite</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Ermite</span>
   </a>
 
   <a href="roles_experimentaux/golem.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_golem.png" alt="Golem" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Golem</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Golem</span>
   </a>
 
   <a href="roles_experimentaux/heretic.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_heretic.png" alt="Hérétique" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Hérétique</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Hérétique</span>
   </a>
 
   <a href="roles_experimentaux/puzzlemaster.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_puzzlemaster.png" alt="Maître des puzzles" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Maître des puzzles</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Maître des puzzles</span>
   </a>
 
   <a href="roles_experimentaux/ogre.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_ogre.png" alt="Ogre" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Ogre</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Ogre</span>
   </a>
 
   <a href="roles_experimentaux/politician.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_politician.png" alt="Politicien" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Politicien</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Politicien</span>
   </a>
 
   <a href="roles_experimentaux/zealot.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_zealot.png" alt="Zélote" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#005bb5; font-weight:bold; font-size:20px; margin-top:6px;">Zélote</span>
+    <span style="display:block; color:#4ea3ff; font-weight:bold; font-size:20px; margin-top:6px;">Zélote</span>
   </a>
 </div>
 
 
 
 <!--  SBIRES -->
-<h2 id="5-sbires" style="color:#b30000; font-weight:800; font-size:24px; text-align:left; margin-top:30px;">Sbires</h2>
+<h2 id="5-sbires" style="color:#d45b5b; font-weight:800; font-size:24px; text-align:left; margin-top:30px;">Sbires</h2>
 <hr>
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
 
   <a href="roles_experimentaux/boomdandy.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_boomdandy.png" alt="Boomdandy" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#b30000; font-weight:bold; font-size:20px; margin-top:6px;">Boumdandy</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:20px; margin-top:6px;">Boumdandy</span>
   </a>
 
   <a href="roles_experimentaux/goblin.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_goblin.png" alt="Gobelin" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#b30000; font-weight:bold; font-size:20px; margin-top:6px;">Gobelin</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:20px; margin-top:6px;">Gobelin</span>
   </a>
 
   <a href="roles_experimentaux/harpy.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_harpy.png" alt="Harpie" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#b30000; font-weight:bold; font-size:20px; margin-top:6px;">Harpie</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:20px; margin-top:6px;">Harpie</span>
   </a>
 
   <a href="roles_experimentaux/summoner.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_summoner.png" alt="Invocateur" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#b30000; font-weight:bold; font-size:20px; margin-top:6px;">Invocatrice</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:20px; margin-top:6px;">Invocatrice</span>
   </a>
 
   <a href="roles_experimentaux/boffin.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_boffin.png" alt="Boffin" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#b30000; font-weight:bold; font-size:20px; margin-top:6px;">Laborantin</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:20px; margin-top:6px;">Laborantin</span>
   </a>
 
   <a href="roles_experimentaux/wizard.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_wizard.png" alt="Wizard" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#b30000; font-weight:bold; font-size:20px; margin-top:6px;">Mage</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:20px; margin-top:6px;">Mage</span>
   </a>
 
   <a href="roles_experimentaux/marionette.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_marionette.png" alt="Marionnette" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#b30000; font-weight:bold; font-size:20px; margin-top:6px;">Marionnette</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:20px; margin-top:6px;">Marionnette</span>
   </a>
 
   <a href="roles_experimentaux/mezepheles.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_mezepheles.png" alt="Mezepheles" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#b30000; font-weight:bold; font-size:20px; margin-top:6px;">Mezepheles</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:20px; margin-top:6px;">Mezepheles</span>
   </a>
 
   <a href="roles_experimentaux/organgrinder.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_organgrinder.png" alt="Orgue de Barbarie" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#b30000; font-weight:bold; font-size:20px; margin-top:6px;">Organiste de rue</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:20px; margin-top:6px;">Organiste de rue</span>
   </a>
 
   <a href="roles_experimentaux/psychopath.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_psychopath.png" alt="Psychopathe" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#b30000; font-weight:bold; font-size:20px; margin-top:6px;">Psychopathe</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:20px; margin-top:6px;">Psychopathe</span>
   </a>
 
   <a href="roles_experimentaux/wraith.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_wraith.png" alt="Spectre" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#b30000; font-weight:bold; font-size:20px; margin-top:6px;">Spectre</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:20px; margin-top:6px;">Spectre</span>
   </a>
 
   <a href="roles_experimentaux/fearmonger.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_fearmonger.png" alt="Fearmonger" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#b30000; font-weight:bold; font-size:20px; margin-top:6px;">Tourmenteur</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:20px; margin-top:6px;">Tourmenteur</span>
   </a>
 
   <a href="roles_experimentaux/widow.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_widow.png" alt="Veuve" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#b30000; font-weight:bold; font-size:20px; margin-top:6px;">Veuve</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:20px; margin-top:6px;">Veuve</span>
   </a>
 
   <a href="roles_experimentaux/vizier.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_vizier.png" alt="Vizir" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#b30000; font-weight:bold; font-size:20px; margin-top:6px;">Vizir</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:20px; margin-top:6px;">Vizir</span>
   </a>
 
   <a href="roles_experimentaux/xaan.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_xaan.png" alt="Xaan" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#b30000; font-weight:bold; font-size:20px; margin-top:6px;">Xaan</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:20px; margin-top:6px;">Xaan</span>
   </a>
 </div>
 
 
 
 <!-- DÉMONS -->
-<h2 id="6-demons" style="color:#b30000; font-weight:800; font-size:24px; text-align:left; margin-top:30px;">Démons</h2>
+<h2 id="6-demons" style="color:#d45b5b; font-weight:800; font-size:24px; text-align:left; margin-top:30px;">Démons</h2>
 <hr>
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
 
   <a href="roles_experimentaux/alhadikhia.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_alhadikhia.png" alt="Al-Hadikhia" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#b30000; font-weight:bold; font-size:20px; margin-top:6px;">Al-Hadikhia</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:20px; margin-top:6px;">Al-Hadikhia</span>
   </a>
 
   <a href="roles_experimentaux/riot.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_riot.png" alt="Riot" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#b30000; font-weight:bold; font-size:20px; margin-top:6px;">Émeute</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:20px; margin-top:6px;">Émeute</span>
   </a>
 
   <a href="roles_experimentaux/kazali.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_kazali.png" alt="Kazali" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#b30000; font-weight:bold; font-size:20px; margin-top:6px;">Kazali</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:20px; margin-top:6px;">Kazali</span>
   </a>
 
   <a href="roles_experimentaux/legion.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_legion.png" alt="Légion" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#b30000; font-weight:bold; font-size:20px; margin-top:6px;">Légion</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:20px; margin-top:6px;">Légion</span>
   </a>
 
   <a href="roles_experimentaux/leviathan.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_leviathan.png" alt="Léviathan" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#b30000; font-weight:bold; font-size:20px; margin-top:6px;">Léviathan</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:20px; margin-top:6px;">Léviathan</span>
   </a>
 
   <a href="roles_experimentaux/ojo.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_ojo.png" alt="Ojo" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#b30000; font-weight:bold; font-size:20px; margin-top:6px;">Ojo</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:20px; margin-top:6px;">Ojo</span>
   </a>
 
   <a href="roles_experimentaux/lleech.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_lleech.png" alt="Sangsue" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#b30000; font-weight:bold; font-size:20px; margin-top:6px;">Parasyte</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:20px; margin-top:6px;">Parasyte</span>
   </a>
 
   <a href="roles_experimentaux/lordoftyphon.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_lordoftyphon.png" alt="Seigneur de Typhon" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#b30000; font-weight:bold; font-size:20px; margin-top:6px;">Seigneur de Typhon</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:20px; margin-top:6px;">Seigneur de Typhon</span>
   </a>
 
   <a href="roles_experimentaux/lilmonsta.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_lilmonsta.png" alt="P’tit Monstre" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#b30000; font-weight:bold; font-size:20px; margin-top:6px;">Timonstre</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:20px; margin-top:6px;">Timonstre</span>
   </a>
 
   <a href="roles_experimentaux/yaggababble.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_yaggababble.png" alt="Yaggababble" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#b30000; font-weight:bold; font-size:20px; margin-top:6px;">Yaggablabla</span>
+    <span style="display:block; color:#d45b5b; font-weight:bold; font-size:20px; margin-top:6px;">Yaggablabla</span>
   </a>
 </div>
 
 
 
 <!-- 7. VOYAGEURS -->
-<h2 id="7-voyageurs" style="color:#7b1fa2; font-weight:800; font-size:24px; text-align:left; margin-top:30px;">Voyageurs</h2>
+<h2 id="7-voyageurs" style="color:#9b59b6; font-weight:800; font-size:24px; text-align:left; margin-top:30px;">Voyageurs</h2>
 <hr>
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
   <a href="voyageurs/cacklejack.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_cacklejack.png" alt="Cacklejack" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#7b1fa2; font-weight:bold; font-size:20px; margin-top:6px;">Déphasé</span>
+    <span style="display:block; color:#9b59b6; font-weight:bold; font-size:20px; margin-top:6px;">Déphasé</span>
   </a>
 
   <a href="voyageurs/gangster.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_gangster.png" alt="Gangster" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#7b1fa2; font-weight:bold; font-size:20px; margin-top:6px;">Gangster</span>
+    <span style="display:block; color:#9b59b6; font-weight:bold; font-size:20px; margin-top:6px;">Gangster</span>
   </a>
 
   <a href="voyageurs/gnome.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_gnome.png" alt="Gnome" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#7b1fa2; font-weight:bold; font-size:20px; margin-top:6px;">Gnome</span>
+    <span style="display:block; color:#9b59b6; font-weight:bold; font-size:20px; margin-top:6px;">Gnome</span>
   </a>
 </div>
 
 
 
 <!--  8. LÉGENDAIRES -->
-<h2 id="8-legendaires" style="color:#996515; font-weight:800; font-size:24px; text-align:left; margin-top:30px;">Légendaires</h2>
+<h2 id="8-legendaires" style="color:#e0b97a; font-weight:800; font-size:24px; text-align:left; margin-top:30px;">Légendaires</h2>
 <hr>
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
   <a href="legendaire_roles/deusexfiasco.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_deusexfiasco.png" alt="Deus ex Fiasco" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#996515; font-weight:bold; font-size:20px; margin-top:6px;">Deus ex Fiasco</span>
+    <span style="display:block; color:#e0b97a; font-weight:bold; font-size:20px; margin-top:6px;">Deus ex Fiasco</span>
   </a>
 
   <a href="legendaire_roles/ferryman.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_ferryman.png" alt="Le Passeur" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#996515; font-weight:bold; font-size:20px; margin-top:6px;">Le Passeur</span>
+    <span style="display:block; color:#e0b97a; font-weight:bold; font-size:20px; margin-top:6px;">Le Passeur</span>
   </a>
 </div>
 
 
 
 <!-- 9. LORICS -->
-<h2 id="9-lorics" style="color:#2e7d32; font-weight:800; font-size:24px; text-align:left; margin-top:30px;">Loric</h2>
+<h2 id="9-lorics" style="color:#4caf50; font-weight:800; font-size:24px; text-align:left; margin-top:30px;">Loric</h2>
 <hr>
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
 
   <a href="loric_roles/stormcatcher.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_stormcatcher.png" alt="Attrape-tempête" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#2e7d32; font-weight:bold; font-size:20px; margin-top:6px;">Chasseur d'orages</span>
+    <span style="display:block; color:#4caf50; font-weight:bold; font-size:20px; margin-top:6px;">Chasseur d'orages</span>
   </a>
 
   <a href="loric_roles/bootlegger.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_bootlegger.png" alt="Bootlegger" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#2e7d32; font-weight:bold; font-size:20px; margin-top:6px;">Contrebandier</span>
+    <span style="display:block; color:#4caf50; font-weight:bold; font-size:20px; margin-top:6px;">Contrebandier</span>
   </a>
   
   <a href="loric_roles/godofug.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_godofug.png" alt="Dieu Ug" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#2e7d32; font-weight:bold; font-size:20px; margin-top:6px;">Dieu Ug</span>
+    <span style="display:block; color:#4caf50; font-weight:bold; font-size:20px; margin-top:6px;">Dieu Ug</span>
   </a>
 
   <a href="loric_roles/bigwig.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_big_wig.png" alt="Big Wig" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#2e7d32; font-weight:bold; font-size:20px; margin-top:6px;">Gros Bonnet</span>
+    <span style="display:block; color:#4caf50; font-weight:bold; font-size:20px; margin-top:6px;">Gros Bonnet</span>
   </a>
   
   <a href="loric_roles/hindu.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_hindu.png" alt="Hindou" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#2e7d32; font-weight:bold; font-size:20px; margin-top:6px;">Hindou</span>
+    <span style="display:block; color:#4caf50; font-weight:bold; font-size:20px; margin-top:6px;">Hindou</span>
   </a>
 
   <a href="loric_roles/gardener.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_gardener.png" alt="Jardinier" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#2e7d32; font-weight:bold; font-size:20px; margin-top:6px;">Jardinier</span>
+    <span style="display:block; color:#4caf50; font-weight:bold; font-size:20px; margin-top:6px;">Jardinier</span>
   </a>
   
   <a href="loric_roles/knaves.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_knaves.png" alt="Les Valets" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#2e7d32; font-weight:bold; font-size:20px; margin-top:6px;">Les Valets</span>
+    <span style="display:block; color:#4caf50; font-weight:bold; font-size:20px; margin-top:6px;">Les Valets</span>
   </a>
 
   <a href="loric_roles/pope.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_pope.png" alt="Pape" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#2e7d32; font-weight:bold; font-size:20px; margin-top:6px;">Pape</span>
+    <span style="display:block; color:#4caf50; font-weight:bold; font-size:20px; margin-top:6px;">Pape</span>
   </a>
 
   <a href="loric_roles/tor.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_tor.png" alt="Tor" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#2e7d32; font-weight:bold; font-size:20px; margin-top:6px;">Tor</span>
+    <span style="display:block; color:#4caf50; font-weight:bold; font-size:20px; margin-top:6px;">Tor</span>
   </a>
   
   <a href="loric_roles/ventriloquist.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_ventriloquist.png" alt="Ventriloque" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#2e7d32; font-weight:bold; font-size:20px; margin-top:6px;">Ventriloque</span>
+    <span style="display:block; color:#4caf50; font-weight:bold; font-size:20px; margin-top:6px;">Ventriloque</span>
   </a>
 
   <a href="loric_roles/zenomancer.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_zenomancer.png" alt="Zénomancien" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#2e7d32; font-weight:bold; font-size:20px; margin-top:6px;">Zénomancien</span>
+    <span style="display:block; color:#4caf50; font-weight:bold; font-size:20px; margin-top:6px;">Zénomancien</span>
   </a>
 </div>
 
