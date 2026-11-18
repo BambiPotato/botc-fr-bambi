@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Expérimentaux 
-description: Tous les rôles expérimentaux venant de l'extension du Carrousel (The Carousel).
+description: Tous les rôles expérimentaux venant Carrousel.
 image: /images/carousel.png
 ---
 
@@ -16,9 +16,9 @@ image: /images/carousel.png
 <!-- Bandeau cliquable -->
 <div style="text-align:center; margin: 20px 0;">
   <a href="./experimentaux.html" style="text-decoration:none;">
-    <img src="./images/carousel.png" alt="The Carousel Expérimental" width="400" style="border-radius:12px;">
+    <img src="./images/carousel.png" alt="Le Carrousel Expérimental" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#d4a76a; font-weight:bold; font-size:22px;">🎠 The Carousel Experimental</span>
+    <span style="color:#d4a76a; font-weight:bold; font-size:22px;">🎠 Le Carrousel Expérimental</span>
   </a>
 </div>
 
@@ -26,14 +26,16 @@ image: /images/carousel.png
 <hr class="explication">
 
 <!-- INTRO -->
-<p style="text-align:left; color:#f5f5f5; font-style:italic; font-size:16px; margin-top:6px; line-height:1.7;">
-«  <strong>Les rôles expérimentaux du <em>Carrousel</em></strong> ouvrent la porte à de nouvelles mécaniques audacieuses et inédites.<br>
-Pensés pour les joueurs et Conteurs aguerris.<br>
-Ces rôles repoussent les limites de <em>Blood on the Clocktower</em> <br>
-et invitent à explorer des expériences de jeu aussi surprenantes que captivantes. »
+<p class="botc-flavour-text dropcap" style="text-align:left; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:6px; line-height:1.7;">
+Les rôles expérimentaux du <strong>Carrousel</strong> ouvrent la porte à de nouvelles mécaniques audacieuses et inédites.<br>
+Pensés pour les joueurs et Conteurs aguerris, ces rôles repoussent les limites de <em>Blood on the Clocktower</em> et invitent à explorer des expériences de jeu aussi surprenantes que captivantes.
 </p>
 
 <style>
+/* Effet Loupe pour l'image cliquable du PDF */
+.img-zoom-effect { width: 100%; height: auto; object-fit: contain; transition: transform 0.3s ease, filter 0.3s ease; }
+.img-zoom-effect:hover { transform: scale(1.05); filter: drop-shadow(0 15px 25px rgba(0,0,0,0.7)); }
+
 @media (max-width: 900px) {
   #liste-roles-exp {
     float: none !important;
@@ -177,16 +179,17 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
   <li><a href="#7-legendaires" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Légendaires</a></li>
   <li><a href="#8-lorics" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Loric</a></li>
   <li><a href="#9-voyageurs" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Voyageurs</a></li>
+  <li><a href="#10-telechargement" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Téléchargez la version PDF de l'almanach du Carrousel</a></li>
 </ol>
 
 <hr class="explication">
 
 <!-- 1. SYNOPSIS -->
 <h2 id="1-synopsis" style="color:#d4a76a; font-weight:800; font-size:22px; text-align:left; margin-top:18px;">1. Synopsis</h2>
-<h3 style="color:#f5f5f5; font-weight:800; font-size:22px; text-align:left; margin:6px 0 10px;">Les rôles expérimentaux (Carousel Experimental)</h3>
+<h3 style="color:#f5f5f5; font-weight:800; font-size:20px; text-align:left; margin:6px 0 10px;">Les rôles expérimentaux du Carrousel</h3>
 <ul style="color:#f5f5f5; font-size:18px; line-height:1.7; margin-left:22px;">
   <li>Les rôles expérimentaux sont des rôles qui <strong>n’ont pas encore de module officiel attitré</strong>.</li>
-  <li>Ils pourraient, à l’avenir, être intégrés dans des extensions officielles de <em>Blood on the Clocktower</em>.</li>
+  <li>Ils pourraient, à l’avenir, être intégrés dans des modules officiels de <em>Blood on the Clocktower</em>.</li>
   <li>En attendant, vous êtes encouragés à <strong>les tester et les expérimenter</strong> dans vos propres scripts personnalisés.</li>
 </ul>
 
@@ -194,15 +197,12 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
 <h2 id="2-gameplay" style="color:#d4a76a; font-weight:800; font-size:22px; text-align:left; margin-top:18px;">2. Gameplay</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
    <span style="color:#f5f5f5; font-weight:bold;">Niveau : Expérimenté</span><br>
-   Les rôles expérimentaux du <em>Carousel</em> sont recommandés aux joueurs et Conteurs ayant déjà une bonne expérience du jeu <em>Blood on the Clocktower</em>.
+   Les rôles expérimentaux du <em>Carrousel</em> sont recommandés pour les  joueurs et Conteurs ayant déjà une bonne expérience du jeu <em>Blood on the Clocktower</em>.
 </p>
 
 
-
-
 <!--  VILLAGEOIS -->
-
-<h2 id="3-villageois" style="color:#4ea3ff; font-weight:800; font-size:22px; text-align:left;"> Villageois</h2>
+<h2 id="3-villageois" style="color:#4ea3ff; font-weight:800; font-size:22px; text-align:left; margin-top:30px;"> Villageois</h2>
 <hr>
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
@@ -362,7 +362,7 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
 
 
 <!--  ÉTRANGERS -->
-<h2 id="4-etrangers" style="color:#4ea3ff; font-weight:800; font-size:22px; text-align:left;">Marginaux</h2>
+<h2 id="4-etrangers" style="color:#4ea3ff; font-weight:800; font-size:22px; text-align:left; margin-top:30px;">Marginaux</h2>
 <hr>
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
@@ -426,7 +426,7 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
 
 
 <!--  SBIRES -->
-<h2 id="5-sbires" style="color:#d45b5b; font-weight:800; font-size:22px; text-align:left;">Sbires</h2>
+<h2 id="5-sbires" style="color:#d45b5b; font-weight:800; font-size:22px; text-align:left; margin-top:30px;">Sbires</h2>
 <hr>
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
@@ -510,7 +510,7 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
 
 
 <!-- DÉMONS -->
-<h2 id="6-demons" style="color:#d45b5b; font-weight:800; font-size:22px; text-align:left;">Démons</h2>
+<h2 id="6-demons" style="color:#d45b5b; font-weight:800; font-size:22px; text-align:left; margin-top:30px;">Démons</h2>
 <hr>
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
@@ -569,7 +569,7 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
 
 
 <!--  LÉGENDAIRES -->
-<h2 id="7-legendaires" style="color:#d4a76a; font-weight:800; font-size:22px; text-align:left;">Légendaires</h2>
+<h2 id="7-legendaires" style="color:#d4a76a; font-weight:800; font-size:22px; text-align:left; margin-top:30px;">Légendaires</h2>
 <hr>
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
@@ -587,7 +587,7 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
 
 
 <!-- LORICS -->
-<h2 id="8-lorics" style="color:#7fd1ae; font-weight:800; font-size:22px; text-align:left;">Loric</h2>
+<h2 id="8-lorics" style="color:#7fd1ae; font-weight:800; font-size:22px; text-align:left; margin-top:30px;">Loric</h2>
 <hr>
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
@@ -631,13 +631,13 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
 
 
 <!-- 9. VOYAGEURS -->
-<h2 id="9-voyageurs" style="color:#9b59b6; font-weight:800; font-size:22px; text-align:left;">Voyageurs</h2>
+<h2 id="9-voyageurs" style="color:#9b59b6; font-weight:800; font-size:22px; text-align:left; margin-top:30px;">Voyageurs</h2>
 <hr>
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
   <a href="voyageurs/cacklejack.html" style="text-decoration:none; width:280px; text-align:center;">
     <img src="./images/Icon_cacklejack.png" alt="Cacklejack" style="width:280px; border-radius:12px;">
-    <span style="display:block; color:#9b59b6; font-weight:bold; font-size:18px; margin-top:6px;">Dépahsé</span>
+    <span style="display:block; color:#9b59b6; font-weight:bold; font-size:18px; margin-top:6px;">Déphasé</span>
   </a>
 
   <a href="voyageurs/gangster.html" style="text-decoration:none; width:280px; text-align:center;">
@@ -651,6 +651,24 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
   </a>
 </div>
 
+<!-- 10. TÉLÉCHARGEMENTS -->
+<h2 id="10-telechargement" style="color:#d4a76a; font-weight:800; font-size:22px; text-align:left; margin-top:40px;">10. Téléchargez la version PDF de l'almanach du Carrousel</h2>
+<hr>
+
+<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
+Cette ressource est pratique pour <strong>imprimer</strong> et <strong>jouer en personne</strong> avec les rôles expérimentaux.
+</p>
+
+<p style="text-align:left; font-size:18px;">
+  ➡️  <a href="https://github.com/BambiPotato/botc-fr-bambi/releases/download/Almanach-Carrousel/Almanach-Carrousel-FR-V1.1.pdf" target="_blank" rel="noopener noreferrer" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Télécharger le PDF de l'Almanach du Carrousel</a>
+</p>
+
+<div style="text-align:left; margin-top: 15px;">
+  <a href="https://github.com/BambiPotato/botc-fr-bambi/releases/download/Almanach-Carrousel/Almanach-Carrousel-FR-V1.1.pdf" target="_blank" rel="noopener noreferrer">
+    <img src="./images/Almanach-Carrousel_2.webp" alt="Couverture Almanach du Carrousel" width="250" style="margin:8px; border-radius:8px;" class="img-zoom-effect">
+  </a>
+</div>
+
 <hr class="explication">
 
 <!-- Liens bas de page -->
@@ -658,5 +676,5 @@ et invitent à explorer des expériences de jeu aussi surprenantes que captivant
   <li> <a href="./index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
   <li> <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
   <li> <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
-  <li> <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects &amp; Violets</a></li>
+  <li> <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
 </ul>
