@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Expérimentaux 
-description: Tous les rôles expérimentaux venant du Carrousel.
+description: Tous les rôles expérimentaux venant Carrousel.
 image: /images/carousel.png
 ---
 
@@ -18,7 +18,7 @@ image: /images/carousel.png
   <a href="./experimentaux.html" style="text-decoration:none;">
     <img src="./images/carousel.png" alt="Le Carrousel Expérimental" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#d4a76a; font-weight:bold; font-size:24px;">🎠 Le Carrousel</span>
+    <span style="color:#d4a76a; font-weight:bold; font-size:24px;">🎠 Le Carrousel rôles expérimentaux</span>
   </a>
 </div>
 
@@ -27,7 +27,7 @@ image: /images/carousel.png
 
 <!-- INTRO -->
 <p class="botc-flavour-text dropcap" style="text-align:left; font-size:20px; margin-top:6px; line-height:1.7;">
-Les rôles expérimentaux du <strong>Carrousel 🎠</strong> ouvrent la porte à de nouvelles mécaniques audacieuses et inédites.<br>
+Les rôles expérimentaux du <strong>Carrousel</strong> ouvrent la porte à de nouvelles mécaniques audacieuses et inédites.<br>
 Pensés pour les joueurs et Conteurs aguerris, ces rôles repoussent les limites de <em>Blood on the Clocktower</em> et invitent à explorer des expériences de jeu aussi surprenantes que captivantes.
 </p>
 
@@ -183,14 +183,14 @@ Pensés pour les joueurs et Conteurs aguerris, ces rôles repoussent les limites
   <li style="color:#9b59b6;"><a href="#7-voyageurs" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a></li>
   <li style="color:#e0b97a;"><a href="#8-legendaires" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Légendaires</a></li>
   <li style="color:#4caf50;"><a href="#9-lorics" style="color:#4caf50; font-weight:bold; text-decoration:none;">Loric</a></li>
-  <li style="color:#5C2E1F;"><a href="#10-telechargement" style="color:#5C2E1F; font-weight:bold; text-decoration:none;">Téléchargez la version PDF de l'almanach du Carrousel 🎠</a></li>
+  <li style="color:#5C2E1F;"><a href="#10-telechargement" style="color:#5C2E1F; font-weight:bold; text-decoration:none;">Téléchargez la version PDF de l'almanach du Carrousel</a></li>
 </ol>
 
 <hr class="explication">
 
 <!-- 1. SYNOPSIS -->
 <h2 id="1-synopsis" style="color:#5C2E1F; font-weight:800; font-size:24px; text-align:left; margin-top:18px;">1. Synopsis</h2>
-<h3 style="color:#5C2E1F; font-weight:800; font-size:22px; text-align:left; margin:6px 0 10px;">Les rôles du Carrousel 🎠</h3>
+<h3 style="color:#5C2E1F; font-weight:800; font-size:22px; text-align:left; margin:6px 0 10px;">Les rôles expérimentaux (Le Carrousel Expérimental)</h3>
 <ul style="font-size:20px; line-height:1.7; margin-left:22px;">
   <li>Les rôles expérimentaux sont des rôles qui <strong>n’ont pas encore de module officiel attitré</strong>.</li>
   <li>Ils pourraient, à l’avenir, être intégrés dans des modules officiels de <em>Blood on the Clocktower</em>.</li>
@@ -201,7 +201,7 @@ Pensés pour les joueurs et Conteurs aguerris, ces rôles repoussent les limites
 <h2 id="2-gameplay" style="color:#5C2E1F; font-weight:800; font-size:24px; text-align:left; margin-top:18px;">2. Gameplay</h2>
 <p style="font-size:20px; line-height:1.7;">
    <span style="font-weight:bold;">Niveau : Expérimenté</span><br>
-   Les rôles expérimentaux du <em>Carrousel 🎠</em> sont recommandés pour les joueurs et Conteurs ayant déjà une bonne expérience du jeu <em>Blood on the Clocktower</em>.
+   Les rôles expérimentaux du <em>Carrousel</em> sont recommandés pour les joueurs et Conteurs ayant déjà une bonne expérience du jeu <em>Blood on the Clocktower</em>.
 </p>
 
 
