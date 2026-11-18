@@ -26,7 +26,7 @@ image: /images/carousel.png
 <hr class="explication">
 
 <!-- INTRO -->
-<p class="botc-flavour-text dropcap" style="text-align:left; color:#f5f5f5; font-style:italic; font-size:18px; margin-top:6px; line-height:1.7;">
+<p class="botc-flavour-text dropcap" style="text-align:left; font-size:18px; margin-top:6px; line-height:1.7;">
 Les rôles expérimentaux du <strong>Carrousel</strong> ouvrent la porte à de nouvelles mécaniques audacieuses et inédites.<br>
 Pensés pour les joueurs et Conteurs aguerris, ces rôles repoussent les limites de <em>Blood on the Clocktower</em> et invitent à explorer des expériences de jeu aussi surprenantes que captivantes.
 </p>
@@ -167,19 +167,19 @@ Pensés pour les joueurs et Conteurs aguerris, ces rôles repoussent les limites
 </div>
 
  
-<!-- SOMMAIRE NUMÉROTÉ -->
+<!-- SOMMAIRE NUMÉROTÉ AVEC COULEURS LISIBLES -->
 <h2 style="color:#d4a76a; font-weight:800; font-size:22px; text-align:left; margin-top:18px;"> Sommaire</h2>
-<ol style="color:#d4a76a; font-size:18px; line-height:1.7; padding-left:14px; margin-top:6px;">
-  <li><a href="#1-synopsis" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Synopsis</a></li>
-  <li><a href="#2-gameplay" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Gameplay</a></li>
-  <li><a href="#3-villageois" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Villageois</a></li>
-  <li><a href="#4-etrangers" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Marginaux</a></li>
-  <li><a href="#5-sbires" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Sbires</a></li>
-  <li><a href="#6-demons" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Démons</a></li>
-  <li><a href="#7-legendaires" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Légendaires</a></li>
-  <li><a href="#8-lorics" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Loric</a></li>
-  <li><a href="#9-voyageurs" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Voyageurs</a></li>
-  <li><a href="#10-telechargement" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Téléchargez la version PDF de l'almanach du Carrousel</a></li>
+<ol style="font-size:18px; line-height:1.7; padding-left:14px; margin-top:6px;">
+  <li style="color:#d4a76a;"><a href="#1-synopsis" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Synopsis</a></li>
+  <li style="color:#d4a76a;"><a href="#2-gameplay" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Gameplay</a></li>
+  <li style="color:#4ea3ff;"><a href="#3-villageois" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Villageois</a></li>
+  <li style="color:#4ea3ff;"><a href="#4-etrangers" style="color:#4ea3ff; font-weight:bold; text-decoration:none;">Marginaux</a></li>
+  <li style="color:#d45b5b;"><a href="#5-sbires" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Sbires</a></li>
+  <li style="color:#d45b5b;"><a href="#6-demons" style="color:#d45b5b; font-weight:bold; text-decoration:none;">Démons</a></li>
+  <li style="color:#e0b97a;"><a href="#7-legendaires" style="color:#e0b97a; font-weight:bold; text-decoration:none;">Légendaires</a></li>
+  <li style="color:#4caf50;"><a href="#8-lorics" style="color:#4caf50; font-weight:bold; text-decoration:none;">Loric</a></li>
+  <li style="color:#9b59b6;"><a href="#9-voyageurs" style="color:#9b59b6; font-weight:bold; text-decoration:none;">Voyageurs</a></li>
+  <li style="color:#d4a76a;"><a href="#10-telechargement" style="color:#d4a76a; font-weight:bold; text-decoration:none;">Téléchargez la version PDF de l'almanach du Carrousel</a></li>
 </ol>
 
 <hr class="explication">
@@ -197,7 +197,7 @@ Pensés pour les joueurs et Conteurs aguerris, ces rôles repoussent les limites
 <h2 id="2-gameplay" style="color:#d4a76a; font-weight:800; font-size:22px; text-align:left; margin-top:18px;">2. Gameplay</h2>
 <p style="color:#e0c99d; font-size:18px; line-height:1.7;">
    <span style="color:#f5f5f5; font-weight:bold;">Niveau : Expérimenté</span><br>
-   Les rôles expérimentaux du <em>Carrousel</em> sont recommandés pour les  joueurs et Conteurs ayant déjà une bonne expérience du jeu <em>Blood on the Clocktower</em>.
+   Les rôles expérimentaux du <em>Carrousel</em> sont recommandés pour les joueurs et Conteurs ayant déjà une bonne expérience du jeu <em>Blood on the Clocktower</em>.
 </p>
 
 
@@ -569,7 +569,7 @@ Pensés pour les joueurs et Conteurs aguerris, ces rôles repoussent les limites
 
 
 <!--  LÉGENDAIRES -->
-<h2 id="7-legendaires" style="color:#d4a76a; font-weight:800; font-size:22px; text-align:left; margin-top:30px;">Légendaires</h2>
+<h2 id="7-legendaires" style="color:#e0b97a; font-weight:800; font-size:22px; text-align:left; margin-top:30px;">Légendaires</h2>
 <hr>
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
@@ -655,8 +655,8 @@ Pensés pour les joueurs et Conteurs aguerris, ces rôles repoussent les limites
 <h2 id="10-telechargement" style="color:#d4a76a; font-weight:800; font-size:22px; text-align:left; margin-top:40px;">10. Téléchargez la version PDF de l'almanach du Carrousel</h2>
 <hr>
 
-<p style="color:#e0c99d; font-size:18px; line-height:1.7;">
-Cette ressource est pratique pour <strong>imprimer</strong> et <strong>jouer en personne</strong> avec les rôles expérimentaux.
+<p style="font-size:18px; line-height:1.7;">
+Retrouvez ici l'Almanach du Carrousel au format PDF.
 </p>
 
 <p style="text-align:left; font-size:18px;">
@@ -672,8 +672,8 @@ Cette ressource est pratique pour <strong>imprimer</strong> et <strong>jouer en 
 <hr class="explication">
 
 <!-- Liens bas de page -->
-<ul style="color:#f5f5f5; font-size:18px; line-height:1.7; text-align:left; margin-top:6px;">
-  <li> <a href="./index.html" style="color:#f5f5f5; font-weight:bold; text-decoration:none;">Retour à la page d’accueil</a></li>
+<ul style="font-size:18px; line-height:1.7; text-align:left; margin-top:6px;">
+  <li> <a href="./index.html" style="font-weight:bold; text-decoration:none; color:#d4a76a;">Retour à la page d’accueil</a></li>
   <li> <a href="./trouble_brewing.html" style="color:#b58b52; font-weight:bold; text-decoration:none;">Trouble Brewing</a></li>
   <li> <a href="./bmr.html" style="color:#ffa64d; font-weight:bold; text-decoration:none;">Bad Moon Rising</a></li>
   <li> <a href="./sv.html" style="color:#d67bff; font-weight:bold; text-decoration:none;">Sects & Violets</a></li>
