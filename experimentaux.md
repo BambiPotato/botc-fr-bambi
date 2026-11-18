@@ -37,6 +37,22 @@ Pensés pour les joueurs et Conteurs aguerris, ces rôles repoussent les limites
 .img-zoom-effect { width: 100%; height: auto; object-fit: contain; transition: transform 0.3s ease, filter 0.3s ease; }
 .img-zoom-effect:hover { transform: scale(1.05); filter: drop-shadow(0 15px 25px rgba(0,0,0,0.7)); }
 
+/* FORÇAGE DES COULEURS DES GRANDS TITRES */
+h2[id="3-villageois"], h2[id="4-marginaux"] { color: #4ea3ff !important; }
+h2[id="5-sbires"], h2[id="6-demons"] { color: #d45b5b !important; }
+h2[id="7-voyageurs"] { color: #9b59b6 !important; }
+h2[id="8-legendaires"] { color: #e0b97a !important; }
+h2[id="9-lorics"] { color: #4caf50 !important; }
+
+/* FORÇAGE DES COULEURS DES TITRES DU MENU DE DROITE */
+#liste-roles-exp p:nth-of-type(2),
+#liste-roles-exp p:nth-of-type(3) { color: #4ea3ff !important; }
+#liste-roles-exp p:nth-of-type(4),
+#liste-roles-exp p:nth-of-type(5) { color: #d45b5b !important; }
+#liste-roles-exp p:nth-of-type(6) { color: #9b59b6 !important; }
+#liste-roles-exp p:nth-of-type(7) { color: #e0b97a !important; }
+#liste-roles-exp p:nth-of-type(8) { color: #4caf50 !important; }
+
 @media (max-width: 900px) {
   #liste-roles-exp {
     float: none !important;
@@ -57,10 +73,10 @@ Pensés pour les joueurs et Conteurs aguerris, ces rôles repoussent les limites
   font-size:18px;
   line-height:1.6;
 ">
-  <p style="font-weight:bold; color:#d4a76a; font-size:20px; margin-top:0; margin-bottom:8px;">
+  <p style="font-weight:bold; color:#d4a76a !important; font-size:20px; margin-top:0; margin-bottom:8px;">
   Les rôles expérimentaux
   </p>
-<p style="font-weight:bold; color:#4ea3ff; font-size:20px; margin-bottom:4px;">Villageois</p>
+<p style="font-weight:bold; color:#4ea3ff !important; font-size:20px; margin-bottom:4px;">Villageois</p>
 <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
   <li><a href="roles_experimentaux/acrobat.html" style="color:#4ea3ff; text-decoration:none;">Acrobate</a></li>
   <li><a href="roles_experimentaux/balloonist.html" style="color:#4ea3ff; text-decoration:none;">Aéronaute</a></li>
@@ -94,7 +110,7 @@ Pensés pour les joueurs et Conteurs aguerris, ces rôles repoussent les limites
   <li><a href="roles_experimentaux/nightwatchman.html" style="color:#4ea3ff; text-decoration:none;">Veilleur de nuit</a></li>
 </ul>
 
-<p style="font-weight:bold; color:#4ea3ff; font-size:20px; margin-bottom:4px;">Marginaux</p>
+<p style="font-weight:bold; color:#4ea3ff !important; font-size:20px; margin-bottom:4px;">Marginaux</p>
 <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
   <li><a href="roles_experimentaux/snitch.html" style="color:#4ea3ff; text-decoration:none;">Balance</a></li>
   <li><a href="roles_experimentaux/hatter.html" style="color:#4ea3ff; text-decoration:none;">Chapelier</a></li>
@@ -109,7 +125,7 @@ Pensés pour les joueurs et Conteurs aguerris, ces rôles repoussent les limites
   <li><a href="roles_experimentaux/zealot.html" style="color:#4ea3ff; text-decoration:none;">Zélote</a></li>
 </ul>
 
-<p style="font-weight:bold; color:#d45b5b; font-size:20px; margin-bottom:4px;">Sbires</p>
+<p style="font-weight:bold; color:#d45b5b !important; font-size:20px; margin-bottom:4px;">Sbires</p>
 <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
   <li><a href="roles_experimentaux/boomdandy.html" style="color:#d45b5b; text-decoration:none;">Boumdandy</a></li>
   <li><a href="roles_experimentaux/goblin.html" style="color:#d45b5b; text-decoration:none;">Gobelin</a></li>
@@ -128,7 +144,7 @@ Pensés pour les joueurs et Conteurs aguerris, ces rôles repoussent les limites
   <li><a href="roles_experimentaux/xaan.html" style="color:#d45b5b; text-decoration:none;">Xaan</a></li>
 </ul>
 
-<p style="font-weight:bold; color:#d45b5b; font-size:20px; margin-bottom:4px;">Démons</p>
+<p style="font-weight:bold; color:#d45b5b !important; font-size:20px; margin-bottom:4px;">Démons</p>
 <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
   <li><a href="roles_experimentaux/alhadikhia.html" style="color:#d45b5b; text-decoration:none;">Al-Hadikhia</a></li>
   <li><a href="roles_experimentaux/riot.html" style="color:#d45b5b; text-decoration:none;">Émeute</a></li>
@@ -142,20 +158,20 @@ Pensés pour les joueurs et Conteurs aguerris, ces rôles repoussent les limites
   <li><a href="roles_experimentaux/yaggababble.html" style="color:#d45b5b; text-decoration:none;">Yaggablabla</a></li>
 </ul>
 
-<p style="font-weight:bold; color:#9b59b6; font-size:20px; margin-bottom:4px;">Voyageurs</p>
+<p style="font-weight:bold; color:#9b59b6 !important; font-size:20px; margin-bottom:4px;">Voyageurs</p>
 <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:6px;">
   <li><a href="voyageurs/cacklejack.html" style="color:#9b59b6; text-decoration:none;">Déphasé</a></li>
   <li><a href="voyageurs/gangster.html" style="color:#9b59b6; text-decoration:none;">Gangster</a></li>
   <li><a href="voyageurs/gnome.html" style="color:#9b59b6; text-decoration:none;">Gnome</a></li>
 </ul>
 
-<p style="font-weight:bold; color:#e0b97a; font-size:20px; margin-bottom:4px;">Légendaires</p>
+<p style="font-weight:bold; color:#e0b97a !important; font-size:20px; margin-bottom:4px;">Légendaires</p>
 <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
   <li><a href="legendaire_roles/deusexfiasco.html" style="color:#e0b97a; text-decoration:none;">Deus ex Fiasco</a></li>
   <li><a href="legendaire_roles/ferryman.html" style="color:#e0b97a; text-decoration:none;">Le Passeur</a></li>
 </ul>
 
-<p style="font-weight:bold; color:#4caf50; font-size:20px; margin-bottom:4px;">Loric 🌿</p>
+<p style="font-weight:bold; color:#4caf50 !important; font-size:20px; margin-bottom:4px;">Loric 🌿</p>
 <ul style="list-style:none; padding-left:0; margin-top:0; margin-bottom:10px;">
   <li><a href="loric_roles/stormcatcher.html" style="color:#4caf50; text-decoration:none;">Chasseur d'orages</a></li>
   <li><a href="loric_roles/bootlegger.html" style="color:#4caf50; text-decoration:none;">Contrebandier</a></li>
@@ -191,7 +207,7 @@ Pensés pour les joueurs et Conteurs aguerris, ces rôles repoussent les limites
 
 <!-- 1. SYNOPSIS -->
 <h2 id="1-synopsis" style="color:#5C2E1F; font-weight:800; font-size:24px; text-align:left; margin-top:18px;">1. Synopsis</h2>
-<h3 style="color:#5C2E1F; font-weight:800; font-size:22px; text-align:left; margin:6px 0 10px;">Les rôles expérimentaux (Le Carrousel Expérimental)</h3>
+<h3 style="color:#5C2E1F; font-weight:800; font-size:22px; text-align:left; margin:6px 0 10px;">Les rôles expérimentaux du Carrousel</h3>
 <ul style="font-size:20px; line-height:1.7; margin-left:22px;">
   <li>Les rôles expérimentaux sont des rôles qui <strong>n’ont pas encore de module officiel attitré</strong>.</li>
   <li>Ils pourraient, à l’avenir, être intégrés dans des modules officiels de <em>Blood on the Clocktower</em>.</li>
@@ -207,7 +223,7 @@ Pensés pour les joueurs et Conteurs aguerris, ces rôles repoussent les limites
 
 
 <!--  VILLAGEOIS -->
-<h2 id="3-villageois" style="color:#4ea3ff; font-weight:800; font-size:24px; text-align:left; margin-top:30px;"> Villageois</h2>
+<h2 id="3-villageois" style="color:#4ea3ff !important; font-weight:800; font-size:24px; text-align:left; margin-top:30px;"> Villageois</h2>
 <hr>
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
@@ -367,7 +383,7 @@ Pensés pour les joueurs et Conteurs aguerris, ces rôles repoussent les limites
 
 
 <!--  ÉTRANGERS -->
-<h2 id="4-marginaux" style="color:#4ea3ff; font-weight:800; font-size:24px; text-align:left; margin-top:30px;">Marginaux</h2>
+<h2 id="4-marginaux" style="color:#4ea3ff !important; font-weight:800; font-size:24px; text-align:left; margin-top:30px;">Marginaux</h2>
 <hr>
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
@@ -431,7 +447,7 @@ Pensés pour les joueurs et Conteurs aguerris, ces rôles repoussent les limites
 
 
 <!--  SBIRES -->
-<h2 id="5-sbires" style="color:#d45b5b; font-weight:800; font-size:24px; text-align:left; margin-top:30px;">Sbires</h2>
+<h2 id="5-sbires" style="color:#d45b5b !important; font-weight:800; font-size:24px; text-align:left; margin-top:30px;">Sbires</h2>
 <hr>
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
@@ -515,7 +531,7 @@ Pensés pour les joueurs et Conteurs aguerris, ces rôles repoussent les limites
 
 
 <!-- DÉMONS -->
-<h2 id="6-demons" style="color:#d45b5b; font-weight:800; font-size:24px; text-align:left; margin-top:30px;">Démons</h2>
+<h2 id="6-demons" style="color:#d45b5b !important; font-weight:800; font-size:24px; text-align:left; margin-top:30px;">Démons</h2>
 <hr>
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
@@ -574,7 +590,7 @@ Pensés pour les joueurs et Conteurs aguerris, ces rôles repoussent les limites
 
 
 <!-- 7. VOYAGEURS -->
-<h2 id="7-voyageurs" style="color:#9b59b6; font-weight:800; font-size:24px; text-align:left; margin-top:30px;">Voyageurs</h2>
+<h2 id="7-voyageurs" style="color:#9b59b6 !important; font-weight:800; font-size:24px; text-align:left; margin-top:30px;">Voyageurs</h2>
 <hr>
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
@@ -597,7 +613,7 @@ Pensés pour les joueurs et Conteurs aguerris, ces rôles repoussent les limites
 
 
 <!--  8. LÉGENDAIRES -->
-<h2 id="8-legendaires" style="color:#e0b97a; font-weight:800; font-size:24px; text-align:left; margin-top:30px;">Légendaires</h2>
+<h2 id="8-legendaires" style="color:#e0b97a !important; font-weight:800; font-size:24px; text-align:left; margin-top:30px;">Légendaires</h2>
 <hr>
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
@@ -615,7 +631,7 @@ Pensés pour les joueurs et Conteurs aguerris, ces rôles repoussent les limites
 
 
 <!-- 9. LORICS -->
-<h2 id="9-lorics" style="color:#4caf50; font-weight:800; font-size:24px; text-align:left; margin-top:30px;">Loric 🌿</h2>
+<h2 id="9-lorics" style="color:#4caf50 !important; font-weight:800; font-size:24px; text-align:left; margin-top:30px;">Loric 🌿</h2>
 <hr>
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
@@ -694,8 +710,8 @@ Téléchargez l'Almanach du Carrousel au format PDF.
   </a>
 </div>
 
-
 <hr class="explication">
+
 
 <!-- Liens bas de page -->
 <ul style="font-size:20px; line-height:1.7; text-align:left; margin-top:6px;">
