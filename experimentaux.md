@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Expérimentaux 
-description: Tous les rôles expérimentaux venant Carrousel.
+title: Carrousel Expérimental
+description: Tous les rôles expérimentaux venant du Carrousel.
 image: /images/carousel.png
 ---
+
 
 <p align="left">
   <a href="/botc-fr-bambi/">
@@ -18,7 +19,7 @@ image: /images/carousel.png
   <a href="./experimentaux.html" style="text-decoration:none;">
     <img src="./images/carousel.png" alt="Le Carrousel Expérimental" width="400" style="border-radius:12px;">
     <br>
-    <span style="color:#d4a76a; font-weight:bold; font-size:24px;">🎠 Le Carrousel rôles expérimentaux</span>
+    <span style="color:#d4a76a; font-weight:bold; font-size:24px;">🎠 Le Carrousel Expérimental</span>
   </a>
 </div>
 
