@@ -615,7 +615,7 @@ Pensés pour les joueurs et Conteurs aguerris, ces rôles repoussent les limites
 
 
 <!-- 9. LORICS -->
-<h2 id="9-lorics" style="color:#4caf50; font-weight:800; font-size:24px; text-align:left; margin-top:30px;">Loric</h2>
+<h2 id="9-lorics" style="color:#4caf50; font-weight:800; font-size:24px; text-align:left; margin-top:30px;">Loric 🌿</h2>
 <hr>
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:8px 0 10px 0;">
