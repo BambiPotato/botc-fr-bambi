@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lycanthrope
-description: "Chaque nuit*, choisissez un joueur en vie. S’il est bon, il meurt & le Démon ne tue pas cette nuit. Un joueur bon apparaît comme maléfique."
+description: "Chaque nuit*, choisissez un joueur en vie. S’il est bon, il meurt et le Démon ne tue pas cette nuit. Un joueur bon apparaît comme maléfique."
 image: /images/Icon_lycanthrope.png
 ---
 
@@ -63,7 +63,7 @@ image: /images/Icon_lycanthrope.png
 <hr class="villageois">
 
 <p style="text-align:left; color:#f5f5f5; font-weight:bold; font-size:20px; margin:0 0 8px 0;">
-« Chaque nuit*, choisissez un joueur en vie. S’il est bon, il meurt & le Démon ne tue pas cette nuit. Un joueur bon apparaît comme maléfique. »
+« Chaque nuit*, choisissez un joueur en vie. S’il est bon, il meurt et le Démon ne tue pas cette nuit. Un joueur bon apparaît comme maléfique. »
 </p>
 
 <p class="botc-flavour-text dropcap" style="margin-top:0; color:#f5f5f5; font-size:20px; line-height:1.7; margin-left:0; padding-left:0;">
