@@ -98,8 +98,14 @@ pointer-events:none;
 }
 
 /* ========================================================
-   BOUTON RECTANGLE VIOLET (TEXTE UNIQUEMENT)
+   BOUTON RECTANGLE VIOLET (TEXTE BLANC FORCÉ)
    ======================================================== */
+.home-cta-discord,
+.home-cta-discord:visited,
+.home-cta-discord span {
+color:#ffffff!important;
+}
+
 .home-cta-discord {
 display:inline-flex!important;
 align-items:center;
@@ -120,7 +126,8 @@ box-sizing:border-box;
 transition:transform 0.18s ease, background 0.18s ease, border-color 0.18s ease, box-shadow 0.18s ease;
 }
 
-.home-cta-discord:hover {
+.home-cta-discord:hover,
+.home-cta-discord:hover span {
 transform:translateY(-2px) scale(1.03);
 background:#5c3a74;
 border-color:rgba(212,167,106,0.85);
@@ -365,7 +372,7 @@ table.roles-grid{ border-spacing:14px; }
 <a href="https://linktr.ee/bambibluepotato" target="_blank" rel="noopener noreferrer" aria-label="Retrouve tous mes liens sur Linktree" data-tooltip="Tous les liens Linktree"><svg viewBox="0 0 24 24"><path d="M13.736 5.853l4.005-4.117 2.325 2.38-4.2 4.005h5.908v3.305h-5.937l4.229 4.108-2.325 2.334-5.741-5.76v10.666h-3.305v-10.666l-5.741 5.76-2.325-2.334 4.229-4.108h-5.937v-3.305h5.908l-4.2-4.005 2.325-2.38 4.005 4.117v-4.627h3.305v4.627z"/></svg></a>
 </div>
 
-<a class="home-cta-discord" href="https://discord.gg/tGDVmZfZpE" target="_blank" rel="noopener noreferrer" data-tooltip="Parties gratuites chaque semaine • Débutants bienvenus">Jouer gratuitement en ligne →</a>
+<a class="home-cta-discord" href="https://discord.gg/tGDVmZfZpE" target="_blank" rel="noopener noreferrer" data-tooltip="Parties gratuites chaque semaine • Débutants bienvenus" style="color:#ffffff !important;"><span style="color:#ffffff !important;">Jouer gratuitement en ligne →</span></a>
 </div>
 
 <!-- PAGE D’ACCUEIL - WIKI BOTC FR -->
@@ -1316,7 +1323,7 @@ table.roles-grid{ border-spacing:14px; }
 <div style="text-align:left; margin-top:40px; line-height:1.8; border:1px solid rgba(212,167,106,0.3); border-radius:10px; padding:25px; box-shadow:0 0 12px rgba(0,0,0,0.4); background-color:rgba(0,0,0,0.45);">
 
   <h2 style="color:#d4a76a; font-size:18px; font-weight:bold; text-shadow:1px 1px 4px #000;">
-    Jouer en personne ou en ligne ?
+    Jouer en personne ou en ligne ?
   </h2>
 
   <p style="font-size:16px; color:#e0c99d;">
@@ -1380,7 +1387,7 @@ table.roles-grid{ border-spacing:14px; }
      style="color:#d4a76a; font-weight:bold; text-decoration:none;">
     The Pandemonium Institute
   </a>
-  <span style="color:#d4a76a;"> • </span>
+  <span style="color:#d4a76a;"> • </span>
   <a href="https://open-sesame.games/"
      target="_blank" rel="noopener noreferrer"
      style="color:#d4a76a; font-weight:bold; text-decoration:none;">
